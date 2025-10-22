@@ -1,0 +1,410 @@
+{
+  "runTime": 1761129973026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 554674,
+        "num": 1088747,
+        "word": "墨香铜臭实体书",
+        "onboard_time": 1761128181,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 474559,
+        "num": 474559,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25323,
+        "num": 321777,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246031,
+        "num": 246031,
+        "word": "HLE战胜CFO",
+        "onboard_time": 1761128001,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186359,
+        "num": 203622,
+        "word": "负债1亿的王自如坐绿皮火车出差",
+        "onboard_time": 1761109344,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369123,
+        "num": 203560,
+        "word": "天地剑心官宣定档1025",
+        "onboard_time": 1761128960,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252941,
+        "num": 203398,
+        "word": "追回卢浮宫被抢文物的可能性低",
+        "onboard_time": 1761124281,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202729,
+        "num": 202729,
+        "word": "天地剑心成毅单跪转圈6周半",
+        "onboard_time": 1761128781,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161867,
+        "num": 201081,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113909,
+        "num": 199949,
+        "word": "美方已丧失谈判主动权",
+        "onboard_time": 1761123622,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308028,
+        "num": 197553,
+        "word": "美国华人社区发生惨案",
+        "onboard_time": 1761125119,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301085,
+        "num": 197277,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232463,
+        "num": 195517,
+        "word": "他每天赚上千元却不拿一分钱回家",
+        "onboard_time": 1761124639,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193918,
+        "num": 193918,
+        "word": "红山森林动物园火烈鸟冷得发抖",
+        "onboard_time": 1761126621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169920,
+        "num": 169920,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153810,
+        "num": 153810,
+        "word": "女子不慎撞羊被牧民邀请吃羊肉",
+        "onboard_time": 1761119121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151483,
+        "num": 151483,
+        "word": "张雪峰账号解封",
+        "onboard_time": 1761128480,
+        "rank": 16,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 149746,
+        "num": 149746,
+        "word": "给双一流校长淋去985了",
+        "onboard_time": 1761123802,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 139821,
+        "num": 139821,
+        "word": "邓莎老公行贿岂能靠综艺洗白变现",
+        "onboard_time": 1761129380,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54338,
+        "num": 139053,
+        "word": "Zeus说要复仇AL",
+        "onboard_time": 1761129622,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96563,
+        "num": 138818,
+        "word": "王者荣耀",
+        "onboard_time": 1761127460,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292834,
+        "num": 137773,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188239,
+        "num": 137232,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172256,
+        "num": 135818,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 166875,
+        "num": 135418,
+        "word": "韩网友制作胡椒喷雾攻击中国游客",
+        "onboard_time": 1761123680,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 134301,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89543,
+        "num": 133285,
+        "word": "孙颖莎亮相TVB全运宣传片",
+        "onboard_time": 1761128841,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86754,
+        "num": 132804,
+        "word": "改名叫夏冬春吧 剪秋也行",
+        "onboard_time": 1761111800,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86329,
+        "num": 131459,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84043,
+        "num": 130714,
+        "word": "昌隆终于上主桌了",
+        "onboard_time": 1761127941,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 129614,
+        "word": "BLG支持率",
+        "onboard_time": 1761120082,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129476,
+        "num": 129476,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122948,
+        "num": 122948,
+        "word": "娄艺潇居然拍短剧了",
+        "onboard_time": 1761122841,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118071,
+        "num": 118071,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 113900,
+        "word": "18元外卖店家到手仅4块7",
+        "onboard_time": 1761128300,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71997,
+        "num": 113517,
+        "word": "梁靖崑备战全运强度拉满",
+        "onboard_time": 1761129500,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69838,
+        "num": 112064,
+        "word": "长城Hi4获科技进步奖特等奖",
+        "onboard_time": 1761125900,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92986,
+        "num": 110742,
+        "word": "京东001号国民车20万人参拍",
+        "onboard_time": 1761124099,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55159,
+        "num": 109164,
+        "word": "Fly对战G2",
+        "onboard_time": 1761129500,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50265,
+        "num": 108918,
+        "word": "当地回应禁止中小学生参与民俗活动",
+        "onboard_time": 1761129921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107847,
+        "num": 107847,
+        "word": "网红撒盐哥亏损540万英镑",
+        "onboard_time": 1761121341,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103238,
+        "num": 103238,
+        "word": "高翔已任大连理工大学校长",
+        "onboard_time": 1761129800,
+        "rank": 41,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 102434,
+        "num": 102434,
+        "word": "世界之外群星启明时",
+        "onboard_time": 1761128601,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39895,
+        "num": 98348,
+        "word": "有网友买黄金一夜亏17万",
+        "onboard_time": 1761128541,
+        "rank": 43,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 37662,
+        "num": 97254,
+        "word": "广西百色大甲街仍被水淹着",
+        "onboard_time": 1761128240,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96592,
+        "num": 96592,
+        "word": "黄金大跌是因为涨太多了",
+        "onboard_time": 1761125720,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 77111,
+        "num": 93233,
+        "word": "李在明穿西装下馆子喝猪杂汤",
+        "onboard_time": 1761128361,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92787,
+        "num": 92787,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75549,
+        "num": 92758,
+        "word": "谁家音综声乐导师是全明星阵容啊",
+        "onboard_time": 1761122902,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 92754,
+        "word": "广州迎下半年来最低气温",
+        "onboard_time": 1761124221,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

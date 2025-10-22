@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761129031008,
+  "endTime": 1761129973026,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -107,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 554674,
+      "num": 1088747,
+      "word": "墨香铜臭实体书",
+      "onboard_time": 1761128181,
+      "rank": 3,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 494702,
       "num": 1105265,
       "word": "红霉素软膏千万不能随便用",
@@ -193,6 +201,14 @@
       "onboard_time": 1761100100,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369123,
+      "num": 203560,
+      "word": "天地剑心官宣定档1025",
+      "onboard_time": 1761128960,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 368830,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308028,
+      "num": 464838,
+      "word": "美国华人社区发生惨案",
+      "onboard_time": 1761125119,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 302957,
       "num": 469187,
       "word": "追回卢浮宫被抢文物的可能性低",
@@ -321,14 +345,6 @@
       "onboard_time": 1761103821,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 278978,
-      "num": 464838,
-      "word": "美国华人社区发生惨案",
-      "onboard_time": 1761125119,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 277845,
@@ -483,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207852,
-      "num": 207852,
-      "word": "墨香铜臭实体书",
-      "onboard_time": 1761128181,
-      "rank": 3,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 207780,
       "num": 1085393,
       "word": "娄艺潇用胡一菲的台词回应拍短剧",
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202729,
+      "num": 202729,
+      "word": "天地剑心成毅单跪转圈6周半",
+      "onboard_time": 1761128781,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199099,
       "num": 458896,
       "word": "韩网友制作胡椒喷雾攻击中国游客",
@@ -561,6 +577,14 @@
       "onboard_time": 1761109761,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193918,
+      "num": 193918,
+      "word": "红山森林动物园火烈鸟冷得发抖",
+      "onboard_time": 1761126621,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190531,
@@ -633,14 +657,6 @@
       "onboard_time": 1761104180,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185204,
-      "num": 185204,
-      "word": "红山森林动物园火烈鸟冷得发抖",
-      "onboard_time": 1761126621,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185180,
@@ -721,6 +737,14 @@
       "onboard_time": 1761117320,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 169920,
+      "num": 169920,
+      "word": "锦州是真火了",
+      "onboard_time": 1761128721,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 167522,
@@ -875,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151483,
+      "num": 151483,
+      "word": "张雪峰账号解封",
+      "onboard_time": 1761128480,
+      "rank": 33,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 151444,
       "num": 176097,
       "word": "台湾名嘴赖岳谦说期待两岸统一",
@@ -993,6 +1025,14 @@
       "onboard_time": 1761103401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139821,
+      "num": 139821,
+      "word": "邓莎老公行贿岂能靠综艺洗白变现",
+      "onboard_time": 1761129380,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 138606,
@@ -1123,14 +1163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121539,
-      "num": 121539,
-      "word": "锦州是真火了",
-      "onboard_time": 1761128721,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 121165,
       "num": 121165,
       "word": "终于懂鲁豫为什么是访谈界的神",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1761107361,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120528,
-      "num": 120528,
-      "word": "张雪峰账号解封",
-      "onboard_time": 1761128480,
-      "rank": 33,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 117828,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1761098600,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113900,
+      "num": 113900,
+      "word": "18元外卖店家到手仅4块7",
+      "onboard_time": 1761128300,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112857,
@@ -1403,6 +1435,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 103238,
+      "num": 103238,
+      "word": "高翔已任大连理工大学校长",
+      "onboard_time": 1761129800,
+      "rank": 41,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 102789,
       "num": 102789,
       "word": "杜兰特6犯离场",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1761116481,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89543,
+      "num": 133285,
+      "word": "孙颖莎亮相TVB全运宣传片",
+      "onboard_time": 1761128841,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 88818,
@@ -1819,14 +1867,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 79764,
-      "num": 79764,
-      "word": "天地剑心官宣定档1025",
-      "onboard_time": 1761128960,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79708,
       "num": 79708,
       "word": "我愿为这个房子每天爬5楼",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1761096682,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 77111,
+      "num": 100871,
+      "word": "李在明穿西装下馆子喝猪杂汤",
+      "onboard_time": 1761128361,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76908,
@@ -2043,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71997,
+      "num": 113517,
+      "word": "梁靖崑备战全运强度拉满",
+      "onboard_time": 1761129500,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71101,
       "num": 190584,
       "word": "宴遇永安编剧",
@@ -2147,14 +2203,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 66747,
-      "num": 108477,
-      "word": "孙颖莎亮相TVB全运宣传片",
-      "onboard_time": 1761128841,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64757,
       "num": 116846,
       "word": "杨幂一不小心登顶了",
@@ -2235,12 +2283,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55159,
+      "num": 109164,
+      "word": "Fly对战G2",
+      "onboard_time": 1761129500,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54451,
       "num": 1089247,
       "word": "iPhoneAir京东新品首发",
       "onboard_time": 1761113182,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54338,
+      "num": 139053,
+      "word": "Zeus说要复仇AL",
+      "onboard_time": 1761129622,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 52722,
@@ -2251,20 +2315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51494,
-      "num": 100871,
-      "word": "李在明穿西装下馆子喝猪杂汤",
-      "onboard_time": 1761128361,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50486,
       "num": 104578,
       "word": "痔疮药太宁栓停产已涨价38倍",
       "onboard_time": 1761110121,
       "rank": 39,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 50265,
+      "num": 108918,
+      "word": "当地回应禁止中小学生参与民俗活动",
+      "onboard_time": 1761129921,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49291,
@@ -2411,6 +2475,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 39895,
+      "num": 100466,
+      "word": "有网友买黄金一夜亏17万",
+      "onboard_time": 1761128541,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 39728,
       "num": 103541,
       "word": "起诉银行电话骚扰获赔5000元",
@@ -2432,6 +2504,14 @@
       "word": "新人选择花几百块租金结婚",
       "onboard_time": 1761056061,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37662,
+      "num": 158221,
+      "word": "广西百色大甲街仍被水淹着",
+      "onboard_time": 1761128240,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2491,14 +2571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34842,
-      "num": 100466,
-      "word": "有网友买黄金一夜亏17万",
-      "onboard_time": 1761128541,
-      "rank": 39,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 32541,
       "num": 1120698,
       "word": "决胜十四五",
@@ -2545,14 +2617,6 @@
       "onboard_time": 1761122480,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21927,
-      "num": 158221,
-      "word": "广西百色大甲街仍被水淹着",
-      "onboard_time": 1761128240,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20602,
