@@ -1,9 +1,17 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761175370034,
+  "endTime": 1761176210399,
   "band_list": [
     {
-      "raw_hot": 356294,
+      "raw_hot": 770478,
+      "num": 933276,
+      "word": "国家气候中心回应今冬会更冷吗",
+      "onboard_time": 1761174977,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357042,
       "num": 662054,
       "word": "女子做美甲咬牙硬扛被疼哭",
       "onboard_time": 1761151757,
@@ -11,7 +19,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284855,
+      "raw_hot": 322673,
       "num": 773777,
       "word": "美国总统叫板美国前总统",
       "onboard_time": 1761138322,
@@ -19,11 +27,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 234708,
-      "num": 745956,
-      "word": "国家气候中心回应今冬会更冷吗",
-      "onboard_time": 1761174977,
-      "rank": 0,
+      "raw_hot": 201890,
+      "num": 659029,
+      "word": "大雨暴雨大雪暴雪即将上线",
+      "onboard_time": 1761142641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199930,
+      "num": 199930,
+      "word": "霜降",
+      "onboard_time": 1761174737,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -43,22 +59,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 193196,
-      "num": 193196,
-      "word": "霜降",
-      "onboard_time": 1761174737,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172426,
-      "num": 659029,
-      "word": "大雨暴雨大雪暴雪即将上线",
-      "onboard_time": 1761142641,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170232,
       "num": 663912,
       "word": "原来羽绒服里少穿比多穿更暖和",
@@ -75,12 +75,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155908,
+      "num": 660437,
+      "word": "女子捐200斤旧衣后收到14岁女孩来信",
+      "onboard_time": 1761143482,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152122,
       "num": 660975,
       "word": "闲鱼回应平台出现卢浮宫珠宝",
       "onboard_time": 1761135202,
       "rank": 5,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 149189,
+      "num": 661271,
+      "word": "乌干达发生严重车祸致63死",
+      "onboard_time": 1761131600,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142072,
@@ -107,28 +123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133339,
-      "num": 661271,
-      "word": "乌干达发生严重车祸致63死",
-      "onboard_time": 1761131600,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 126912,
-      "num": 660437,
-      "word": "女子捐200斤旧衣后收到14岁女孩来信",
-      "onboard_time": 1761143482,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125042,
       "num": 664213,
       "word": "无畏哭了",
       "onboard_time": 1761140002,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124832,
+      "num": 656515,
+      "word": "牛骏峰闷声干大事",
+      "onboard_time": 1761140603,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 120215,
@@ -139,20 +147,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119993,
+      "num": 659941,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115174,
       "num": 660629,
       "word": "Doinb回应小天",
       "onboard_time": 1761138080,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114290,
-      "num": 656515,
-      "word": "牛骏峰闷声干大事",
-      "onboard_time": 1761140603,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 110104,
@@ -163,11 +171,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102951,
-      "num": 659941,
-      "word": "老外又带更多老外来中国",
-      "onboard_time": 1761138262,
-      "rank": 20,
+      "raw_hot": 108604,
+      "num": 660262,
+      "word": "年轻人为什么不爱喝养乐多了",
+      "onboard_time": 1761130761,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -179,20 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97533,
+      "raw_hot": 98655,
       "num": 662502,
       "word": "网红小影夫妇涉偷税漏税被查处",
       "onboard_time": 1761145223,
       "rank": 7,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 96997,
-      "num": 660262,
-      "word": "年轻人为什么不爱喝养乐多了",
-      "onboard_time": 1761130761,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95755,
@@ -211,11 +211,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86406,
+      "num": 92129,
+      "word": "肠道发出的6个求救信号",
+      "onboard_time": 1761174196,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86276,
+      "num": 655799,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82869,
       "num": 662383,
       "word": "一张图片证明你那里有多冷",
       "onboard_time": 1761133341,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75474,
+      "num": 653046,
+      "word": "万豪每桌8千8的婚宴被吐槽预制菜",
+      "onboard_time": 1761142822,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70864,
+      "num": 653470,
+      "word": "怪不得说肠道是人的第二个大脑",
+      "onboard_time": 1761131000,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69020,
       "num": 657736,
       "word": "名创优品80%门店将关闭重开",
@@ -259,20 +291,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64691,
-      "num": 655799,
-      "word": "第一眼以为是丑东西切开后惊艳我了",
-      "onboard_time": 1761136761,
-      "rank": 44,
-      "category": "美食"
+      "raw_hot": 66630,
+      "num": 85887,
+      "word": "印度收费站员工嫌奖金低放车免费通行",
+      "onboard_time": 1761175820,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 61911,
-      "num": 653470,
-      "word": "怪不得说肠道是人的第二个大脑",
-      "onboard_time": 1761131000,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 65638,
+      "num": 85825,
+      "word": "美一男子狂囤500万枚5美分硬币",
+      "onboard_time": 1761175879,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 62226,
+      "num": 98259,
+      "word": "文化中国行霜降节气",
+      "onboard_time": 1761175879,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61399,
@@ -291,20 +331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58421,
-      "num": 653046,
-      "word": "万豪每桌8千8的婚宴被吐槽预制菜",
-      "onboard_time": 1761142822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57955,
-      "num": 92129,
-      "word": "肠道发出的6个求救信号",
-      "onboard_time": 1761174196,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 55631,
+      "num": 85709,
+      "word": "小猫知道主人是聋哑人后",
+      "onboard_time": 1761176179,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 55284,
@@ -313,6 +345,14 @@
       "onboard_time": 1761134902,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53127,
+      "num": 94049,
+      "word": "霜降是秋天最后一站",
+      "onboard_time": 1761175459,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52306,
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31848,
+      "num": 97785,
+      "word": "朝鲜试验重要武器系统",
+      "onboard_time": 1761175459,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27706,
       "num": 113213,
       "word": "常华森特别出演天地剑心",
@@ -473,6 +521,14 @@
       "onboard_time": 1761150018,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24027,
+      "num": 85638,
+      "word": "日本大米价格暴涨创纪录",
+      "onboard_time": 1761175459,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23777,
@@ -507,7 +563,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13399,
+      "raw_hot": 14372,
       "num": 663983,
       "word": "十四五时期的智造轰鸣",
       "onboard_time": 1761141803,

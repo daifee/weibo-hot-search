@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 07:22:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 07:36:50
 </p>
 </blockquote>
 <p>
@@ -2987,6 +2987,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E5%96%9C%E8%A2%AB%E9%87%8C%E6%9C%89%E7%BA%A2%E6%9E%A3%23" target="weibo">
 女子结婚8年才发现喜被里有红枣（热度：770502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E6%B0%94%E5%80%99%E4%B8%AD%E5%BF%83%E5%9B%9E%E5%BA%94%E4%BB%8A%E5%86%AC%E4%BC%9A%E6%9B%B4%E5%86%B7%E5%90%97%23" target="weibo">
+国家气候中心回应今冬会更冷吗（热度：770478）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E6%9F%A5%E8%8E%B7%23" target="weibo">
 近13万枚比特币被查获（热度：495684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
-侯佩岑主持央视秋晚（热度：495661）
 </a>
 </li>
 
