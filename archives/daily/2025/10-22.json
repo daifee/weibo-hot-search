@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761126279393,
+  "endTime": 1761129031008,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -323,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278978,
+      "num": 464838,
+      "word": "美国华人社区发生惨案",
+      "onboard_time": 1761125119,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 277845,
       "num": 203903,
       "word": "星品",
@@ -379,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 260374,
+      "num": 260374,
+      "word": "HLE战胜CFO",
+      "onboard_time": 1761128001,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243877,
       "num": 461987,
       "word": "名创优品80%门店将关闭重开",
@@ -393,6 +409,14 @@
       "onboard_time": 1761095961,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241806,
+      "num": 457116,
+      "word": "他每天赚上千元却不拿一分钱回家",
+      "onboard_time": 1761124639,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 238886,
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207852,
+      "num": 207852,
+      "word": "墨香铜臭实体书",
+      "onboard_time": 1761128181,
+      "rank": 3,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 207780,
       "num": 1085393,
       "word": "娄艺潇用胡一菲的台词回应拍短剧",
@@ -489,6 +521,14 @@
       "onboard_time": 1761120082,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203259,
+      "num": 203259,
+      "word": "成毅单跪转圈6周半",
+      "onboard_time": 1761128781,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 199099,
@@ -595,11 +635,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185204,
+      "num": 185204,
+      "word": "红山森林动物园火烈鸟冷得发抖",
+      "onboard_time": 1761126621,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185180,
       "num": 1100507,
       "word": "秋季最后一个节气要来了",
       "onboard_time": 1761094701,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183232,
+      "num": 465444,
+      "word": "给双一流校长淋去985了",
+      "onboard_time": 1761123802,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -787,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155950,
-      "num": 457116,
-      "word": "他每天赚上千元却不拿一分钱回家",
-      "onboard_time": 1761124639,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153525,
       "num": 125155,
       "word": "鞠婧祎 权谋女主",
@@ -891,6 +939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147055,
+      "num": 456919,
+      "word": "娄艺潇居然拍短剧了",
+      "onboard_time": 1761122841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144534,
+      "num": 205184,
+      "word": "王者荣耀",
+      "onboard_time": 1761127460,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143701,
       "num": 230028,
       "word": "特朗普暗示将承诺反对台独",
@@ -907,20 +971,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143105,
-      "num": 465444,
-      "word": "给双一流校长淋去985了",
-      "onboard_time": 1761123802,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142298,
       "num": 145519,
       "word": "藏海传飙升值185%",
       "onboard_time": 1761100100,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141245,
+      "num": 135458,
+      "word": "世界之外群星启明时",
+      "onboard_time": 1761128601,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 141162,
@@ -961,14 +1025,6 @@
       "onboard_time": 1761110241,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130776,
-      "num": 464838,
-      "word": "美国华人社区发生惨案",
-      "onboard_time": 1761125119,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129940,
@@ -1035,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124467,
+      "num": 459961,
+      "word": "美方已丧失谈判主动权",
+      "onboard_time": 1761123622,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123327,
       "num": 123327,
       "word": "娄艺潇回应拍短剧原因",
@@ -1059,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121539,
+      "num": 121539,
+      "word": "锦州是真火了",
+      "onboard_time": 1761128721,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 121165,
       "num": 121165,
       "word": "终于懂鲁豫为什么是访谈界的神",
@@ -1075,12 +1147,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118740,
-      "num": 459961,
-      "word": "美方已丧失谈判主动权",
-      "onboard_time": 1761123622,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "张雪峰账号解封",
+      "onboard_time": 1761128480,
+      "rank": 33,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 117828,
@@ -1137,14 +1209,6 @@
       "onboard_time": 1761098600,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113035,
-      "num": 456919,
-      "word": "娄艺潇居然拍短剧了",
-      "onboard_time": 1761122841,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 112857,
@@ -1355,6 +1419,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 102450,
+      "num": 137488,
+      "word": "昌隆终于上主桌了",
+      "onboard_time": 1761127941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101999,
       "num": 455585,
       "word": "我秋装一天没穿",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1761122661,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100265,
+      "num": 463933,
+      "word": "黄金大跌是因为涨太多了",
+      "onboard_time": 1761125720,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 98767,
@@ -1443,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93699,
+      "num": 93699,
+      "word": "短剧也要带货了",
+      "onboard_time": 1761126381,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93398,
       "num": 93398,
       "word": "北京今年咋这么冷",
@@ -1483,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90926,
+      "num": 90926,
+      "word": "美国公司称生产出高纯度稀土",
+      "onboard_time": 1761126500,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90683,
       "num": 90683,
       "word": "苹果将推出首款可折叠iPad",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1761097341,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88385,
+      "num": 88385,
+      "word": "罗志祥新MV演技",
+      "onboard_time": 1761126320,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 87599,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1761072854,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86491,
+      "num": 86491,
+      "word": "王安宇不仅看破还说破",
+      "onboard_time": 1761126741,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 86347,
@@ -1611,6 +1723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82668,
+      "num": 82668,
+      "word": "女子应聘HR被要求注册陌陌",
+      "onboard_time": 1761128361,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82340,
       "num": 117354,
       "word": "LPL致敬Karsa",
@@ -1649,6 +1769,14 @@
       "onboard_time": 1761120620,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 81962,
+      "num": 81962,
+      "word": "奔驰实施30000人裁员计划",
+      "onboard_time": 1761128901,
+      "rank": 47,
+      "category": "海外新闻,汽车"
     },
     {
       "raw_hot": 81627,
@@ -1691,12 +1819,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 79764,
+      "num": 79764,
+      "word": "天地剑心官宣定档1025",
+      "onboard_time": 1761128960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79708,
       "num": 79708,
       "word": "我愿为这个房子每天爬5楼",
       "onboard_time": 1761119480,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 79493,
+      "num": 451879,
+      "word": "上海一高校学生反对宿舍空调租赁",
+      "onboard_time": 1761126261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79063,
@@ -1825,14 +1969,6 @@
       "onboard_time": 1761063738,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 75651,
-      "num": 451879,
-      "word": "上海一高校学生反对宿舍空调租赁",
-      "onboard_time": 1761126261,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75299,
@@ -2011,6 +2147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66747,
+      "num": 108477,
+      "word": "孙颖莎亮相TVB全运宣传片",
+      "onboard_time": 1761128841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64757,
       "num": 116846,
       "word": "杨幂一不小心登顶了",
@@ -2075,14 +2219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 57390,
-      "num": 463933,
-      "word": "黄金大跌是因为涨太多了",
-      "onboard_time": 1761125720,
-      "rank": 18,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 57090,
       "num": 70673,
       "word": "高级河灯",
@@ -2113,6 +2249,14 @@
       "onboard_time": 1761046641,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51494,
+      "num": 100871,
+      "word": "李在明穿西装下馆子喝猪杂汤",
+      "onboard_time": 1761128361,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50486,
@@ -2347,6 +2491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34842,
+      "num": 100466,
+      "word": "有网友买黄金一夜亏17万",
+      "onboard_time": 1761128541,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 32541,
       "num": 1120698,
       "word": "决胜十四五",
@@ -2393,6 +2545,14 @@
       "onboard_time": 1761122480,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21927,
+      "num": 158221,
+      "word": "广西百色大甲街仍被水淹着",
+      "onboard_time": 1761128240,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20602,

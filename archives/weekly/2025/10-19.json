@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761126279393,
+  "endTime": 1761129031008,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -2339,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278978,
+      "num": 464838,
+      "word": "美国华人社区发生惨案",
+      "onboard_time": 1761125119,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 273038,
       "num": 1096267,
       "word": "学生证的正确打开方式",
@@ -2483,6 +2491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 260374,
+      "num": 260374,
+      "word": "HLE战胜CFO",
+      "onboard_time": 1761128001,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259452,
       "num": 416954,
       "word": "入青云偏偏你最争气",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1761095961,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241806,
+      "num": 457116,
+      "word": "他每天赚上千元却不拿一分钱回家",
+      "onboard_time": 1761124639,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 241053,
@@ -2931,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207852,
+      "num": 207852,
+      "word": "墨香铜臭实体书",
+      "onboard_time": 1761128181,
+      "rank": 3,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 207780,
       "num": 1085393,
       "word": "娄艺潇用胡一菲的台词回应拍短剧",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1760960300,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 203259,
+      "num": 203259,
+      "word": "成毅单跪转圈6周半",
+      "onboard_time": 1761128781,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 203099,
@@ -3547,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185204,
+      "num": 185204,
+      "word": "红山森林动物园火烈鸟冷得发抖",
+      "onboard_time": 1761126621,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185180,
       "num": 1100507,
       "word": "秋季最后一个节气要来了",
@@ -3609,6 +3657,14 @@
       "onboard_time": 1760884102,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183232,
+      "num": 465444,
+      "word": "给双一流校长淋去985了",
+      "onboard_time": 1761123802,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183039,
@@ -4363,14 +4419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155950,
-      "num": 457116,
-      "word": "他每天赚上千元却不拿一分钱回家",
-      "onboard_time": 1761124639,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155178,
       "num": 155178,
       "word": "胡歌你别这样我害怕",
@@ -4699,6 +4747,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147055,
+      "num": 456919,
+      "word": "娄艺潇居然拍短剧了",
+      "onboard_time": 1761122841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146474,
       "num": 146474,
       "word": "马思纯一句话点破旅行真相",
@@ -4737,6 +4793,14 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144534,
+      "num": 205184,
+      "word": "王者荣耀",
+      "onboard_time": 1760915898,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 144470,
@@ -4795,14 +4859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143105,
-      "num": 465444,
-      "word": "给双一流校长淋去985了",
-      "onboard_time": 1761123802,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143091,
       "num": 143091,
       "word": "KPL",
@@ -4841,6 +4897,14 @@
       "onboard_time": 1761046580,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141245,
+      "num": 135458,
+      "word": "世界之外群星启明时",
+      "onboard_time": 1761128601,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 141162,
@@ -4945,14 +5009,6 @@
       "onboard_time": 1761022102,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137882,
-      "num": 137882,
-      "word": "王者荣耀",
-      "onboard_time": 1760915898,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 137675,
@@ -5313,14 +5369,6 @@
       "onboard_time": 1760797343,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130776,
-      "num": 464838,
-      "word": "美国华人社区发生惨案",
-      "onboard_time": 1761125119,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 130765,
@@ -5691,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124467,
+      "num": 459961,
+      "word": "美方已丧失谈判主动权",
+      "onboard_time": 1761123622,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124458,
       "num": 124458,
       "word": "扇耳光退货谁给你的底气",
@@ -5859,6 +5915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121539,
+      "num": 121539,
+      "word": "锦州是真火了",
+      "onboard_time": 1761128721,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 121429,
       "num": 121429,
       "word": "把生命力养起来的方法",
@@ -5913,6 +5977,14 @@
       "onboard_time": 1760848760,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "张雪峰账号解封",
+      "onboard_time": 1761128480,
+      "rank": 33,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 120341,
@@ -6025,14 +6097,6 @@
       "onboard_time": 1760876301,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118740,
-      "num": 459961,
-      "word": "美方已丧失谈判主动权",
-      "onboard_time": 1761123622,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118737,
@@ -6393,14 +6457,6 @@
       "onboard_time": 1760854400,
       "rank": 40,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 113035,
-      "num": 456919,
-      "word": "娄艺潇居然拍短剧了",
-      "onboard_time": 1761122841,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 112998,
@@ -7355,6 +7411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102450,
+      "num": 137488,
+      "word": "昌隆终于上主桌了",
+      "onboard_time": 1761127941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102444,
       "num": 102444,
       "word": "龚俊暗河传配音花絮",
@@ -7593,6 +7657,14 @@
       "onboard_time": 1760873061,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100265,
+      "num": 463933,
+      "word": "黄金大跌是因为涨太多了",
+      "onboard_time": 1761125720,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 100163,
@@ -8139,6 +8211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93699,
+      "num": 93699,
+      "word": "短剧也要带货了",
+      "onboard_time": 1761126381,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93553,
       "num": 232870,
       "word": "水龙吟太有野心了",
@@ -8427,6 +8507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90926,
+      "num": 90926,
+      "word": "美国公司称生产出高纯度稀土",
+      "onboard_time": 1761126500,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90789,
       "num": 207631,
       "word": "女子穿7厘米高跟鞋轻松爬岩壁",
@@ -8667,6 +8755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88385,
+      "num": 88385,
+      "word": "罗志祥新MV演技",
+      "onboard_time": 1761126320,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88268,
       "num": 88268,
       "word": "增强做中国人的志气骨气底气",
@@ -8849,6 +8945,14 @@
       "onboard_time": 1761072854,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86491,
+      "num": 86491,
+      "word": "王安宇不仅看破还说破",
+      "onboard_time": 1761126741,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 86347,
@@ -9227,6 +9331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82668,
+      "num": 82668,
+      "word": "女子应聘HR被要求注册陌陌",
+      "onboard_time": 1761128361,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "与他人建立关系的正确顺序",
@@ -9273,6 +9385,14 @@
       "onboard_time": 1761120620,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 81962,
+      "num": 81962,
+      "word": "奔驰实施30000人裁员计划",
+      "onboard_time": 1761128901,
+      "rank": 47,
+      "category": "海外新闻,汽车"
     },
     {
       "raw_hot": 81838,
@@ -9499,6 +9619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79764,
+      "num": 79764,
+      "word": "天地剑心官宣定档1025",
+      "onboard_time": 1761128960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79708,
       "num": 79708,
       "word": "我愿为这个房子每天爬5楼",
@@ -9529,6 +9657,14 @@
       "onboard_time": 1761045681,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79493,
+      "num": 451879,
+      "word": "上海一高校学生反对宿舍空调租赁",
+      "onboard_time": 1761126261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79481,
@@ -9937,14 +10073,6 @@
       "onboard_time": 1761012020,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 75651,
-      "num": 451879,
-      "word": "上海一高校学生反对宿舍空调租赁",
-      "onboard_time": 1761126261,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75441,
@@ -10483,6 +10611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66747,
+      "num": 108477,
+      "word": "孙颖莎亮相TVB全运宣传片",
+      "onboard_time": 1761128841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66681,
       "num": 195490,
       "word": "秋冬季节这样补气血",
@@ -10939,14 +11075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57390,
-      "num": 463933,
-      "word": "黄金大跌是因为涨太多了",
-      "onboard_time": 1761125720,
-      "rank": 18,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 57354,
       "num": 206668,
       "word": "侯明昊入青云引导型恋人",
@@ -11112,6 +11240,14 @@
       "word": "高市早苗与丈夫因政治理念离婚后再婚",
       "onboard_time": 1761041540,
       "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51494,
+      "num": 100871,
+      "word": "李在明穿西装下馆子喝猪杂汤",
+      "onboard_time": 1761128361,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -11683,6 +11819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34842,
+      "num": 100466,
+      "word": "有网友买黄金一夜亏17万",
+      "onboard_time": 1761128541,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 34760,
       "num": 99858,
       "word": "野人式养娃或构成忽视型虐待",
@@ -12016,6 +12160,14 @@
       "word": "长沙地铁献血预防癌症广告引争议",
       "onboard_time": 1761044302,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21927,
+      "num": 158221,
+      "word": "广西百色大甲街仍被水淹着",
+      "onboard_time": 1761128240,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
