@@ -1,0 +1,410 @@
+{
+  "runTime": 1761132214250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 331370,
+        "num": 1053019,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164415,
+        "num": 1052245,
+        "word": "KPL",
+        "onboard_time": 1761131480,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17224,
+        "num": 1048976,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136902,
+        "num": 1047001,
+        "word": "负债1亿的王自如坐绿皮火车出差",
+        "onboard_time": 1761109344,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133468,
+        "num": 1045791,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284691,
+        "num": 1043483,
+        "word": "再见朋友拟邀",
+        "onboard_time": 1761130160,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394305,
+        "num": 1041094,
+        "word": "天地剑心官宣定档1025",
+        "onboard_time": 1761128960,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146002,
+        "num": 1039215,
+        "word": "追回卢浮宫被抢文物的可能性低",
+        "onboard_time": 1761124281,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150087,
+        "num": 1035658,
+        "word": "水龙吟",
+        "onboard_time": 1761129981,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128580,
+        "num": 1033533,
+        "word": "HLE战胜CFO",
+        "onboard_time": 1761128001,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361745,
+        "num": 1031782,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225103,
+        "num": 1029857,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202078,
+        "num": 1027248,
+        "word": "他每天赚上千元却不拿一分钱回家",
+        "onboard_time": 1761124639,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199756,
+        "num": 1025856,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195983,
+        "num": 1022932,
+        "word": "美国华人社区发生惨案",
+        "onboard_time": 1761125119,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188397,
+        "num": 1020167,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173594,
+        "num": 1019060,
+        "word": "邓莎老公行贿岂能靠综艺洗白变现",
+        "onboard_time": 1761129380,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111393,
+        "num": 1015948,
+        "word": "苏暮雨发火",
+        "onboard_time": 1761131480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73867,
+        "num": 1014533,
+        "word": "美方已丧失谈判主动权",
+        "onboard_time": 1761123622,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30576,
+        "num": 1012105,
+        "word": "保洁员 休息室",
+        "onboard_time": 1761131182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19619,
+        "num": 1010115,
+        "word": "在工位收到了充乐宝",
+        "onboard_time": 1761131902,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223123,
+        "num": 1007498,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30731,
+        "num": 1003755,
+        "word": "栾留伟牺牲后留下的火锅店依旧红火",
+        "onboard_time": 1761130820,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 211439,
+        "num": 1002284,
+        "word": "张雪峰账号解封",
+        "onboard_time": 1761128480,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 170220,
+        "num": 1001015,
+        "word": "红山森林动物园火烈鸟冷得发抖",
+        "onboard_time": 1761126621,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169120,
+        "num": 997535,
+        "word": "张雪峰发文",
+        "onboard_time": 1761132021,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 161936,
+        "num": 996338,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66216,
+        "num": 994392,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56763,
+        "num": 992086,
+        "word": "孙颖莎亮相TVB全运宣传片",
+        "onboard_time": 1761128841,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56463,
+        "num": 988465,
+        "word": "山西雾凇版鸳鸯锅",
+        "onboard_time": 1761131062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62607,
+        "num": 987577,
+        "word": "天地剑心成毅单跪转圈6周半",
+        "onboard_time": 1761128781,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125222,
+        "num": 983825,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 31,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 118257,
+        "num": 981569,
+        "word": "18元外卖店家到手仅4块7",
+        "onboard_time": 1761128300,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47034,
+        "num": 980333,
+        "word": "长城Hi4获科技进步奖特等奖",
+        "onboard_time": 1761125900,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9874,
+        "num": 977852,
+        "word": "卢浮宫馆长将接受质询",
+        "onboard_time": 1761132021,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116487,
+        "num": 975846,
+        "word": "韩网友制作胡椒喷雾攻击中国游客",
+        "onboard_time": 1761123680,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85966,
+        "num": 972823,
+        "word": "极氪7X辅助驾驶重庆挑战",
+        "onboard_time": 1761131062,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89705,
+        "num": 972113,
+        "word": "狼队对战JDG",
+        "onboard_time": 1761130700,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105803,
+        "num": 967791,
+        "word": "成毅王权富贵定档海报",
+        "onboard_time": 1761132081,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112106,
+        "num": 966864,
+        "word": "女子不慎撞羊被牧民邀请吃羊肉",
+        "onboard_time": 1761119121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110562,
+        "num": 964418,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102665,
+        "num": 961578,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100963,
+        "num": 958943,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92011,
+        "num": 956907,
+        "word": "不愧是山东人的婚礼",
+        "onboard_time": 1761128601,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87219,
+        "num": 955329,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84051,
+        "num": 953954,
+        "word": "广东写不出爽文的原因",
+        "onboard_time": 1761131362,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80640,
+        "num": 950116,
+        "word": "家长带孩子擅自闯入破坏烧鸟店",
+        "onboard_time": 1761132141,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78432,
+        "num": 948602,
+        "word": "怪不得说肠道是人的第二个大脑",
+        "onboard_time": 1761131000,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42813,
+        "num": 946965,
+        "word": "今年猪肉为啥这么便宜",
+        "onboard_time": 1761130340,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76923,
+        "num": 944654,
+        "word": "娄艺潇居然拍短剧了",
+        "onboard_time": 1761122841,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
