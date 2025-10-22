@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761137727331,
+  "endTime": 1761138611038,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 333606,
+      "num": 1029857,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330070,
       "num": 1104726,
       "word": "早期胃癌和普通胃病的区别",
@@ -297,6 +305,14 @@
       "onboard_time": 1761130160,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321206,
+      "num": 925828,
+      "word": "小天回应19年FPX兄弟情",
+      "onboard_time": 1761134902,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 318459,
@@ -339,28 +355,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 306281,
-      "num": 925828,
-      "word": "小天回应19年FPX兄弟情",
-      "onboard_time": 1761134902,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 302957,
       "num": 1048730,
       "word": "追回卢浮宫被抢文物的可能性低",
       "onboard_time": 1761124281,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 297047,
-      "num": 1029857,
-      "word": "何赛飞为全场呼唤陈丽君名字激动",
-      "onboard_time": 1761130221,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 287242,
@@ -377,6 +377,14 @@
       "onboard_time": 1761092420,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286832,
+      "num": 808354,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 285961,
@@ -475,7 +483,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247391,
+      "raw_hot": 250665,
       "num": 774693,
       "word": "曝VOGUE盛典拖欠劳务费",
       "onboard_time": 1761134781,
@@ -667,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191355,
-      "num": 711438,
-      "word": "闲鱼回应平台出现卢浮宫珠宝",
-      "onboard_time": 1761135202,
-      "rank": 7,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "陈钰琪金吾不禁官宣",
@@ -787,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182469,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180887,
       "num": 180887,
       "word": "孟羽童 离职就像情侣分手",
@@ -809,6 +817,14 @@
       "onboard_time": 1761105921,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177744,
+      "num": 1026187,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176374,
@@ -857,6 +873,14 @@
       "onboard_time": 1761104242,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167210,
+      "num": 656434,
+      "word": "JDG遗憾止步年总",
+      "onboard_time": 1761138202,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 166563,
@@ -945,14 +969,6 @@
       "onboard_time": 1761096740,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158778,
-      "num": 609489,
-      "word": "宠物店起火宠物无一生还",
-      "onboard_time": 1761135622,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158093,
@@ -1083,14 +1099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 149797,
-      "num": 1026187,
-      "word": "一张图片证明你那里有多冷",
-      "onboard_time": 1761133341,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148320,
       "num": 148320,
       "word": "现货黄金失守4100美元",
@@ -1171,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140299,
+      "num": 603940,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138606,
       "num": 138606,
       "word": "深圳市政原来在盯全网",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1761110241,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132020,
+      "num": 603539,
+      "word": "原来羽绒服里少穿比多穿更暖和",
+      "onboard_time": 1761138262,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 129940,
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 117612,
-      "num": 117612,
+      "num": 598262,
       "word": "金价",
       "onboard_time": 1761056361,
       "rank": 22,
@@ -1387,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113767,
+      "num": 607792,
+      "word": "S15封面队伍全败",
+      "onboard_time": 1761134902,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112857,
       "num": 1097495,
       "word": "花1300做了14个小时的美甲",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1761096081,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112131,
-      "num": 607792,
-      "word": "S15封面队伍全败",
-      "onboard_time": 1761134902,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 111983,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1761107902,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110253,
+      "num": 608407,
+      "word": "第一次感受到藏马熊的恐怖",
+      "onboard_time": 1761134902,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 110066,
@@ -1659,6 +1691,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101773,
+      "num": 608191,
+      "word": "国务院同意设立全民阅读活动周",
+      "onboard_time": 1761135741,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101674,
+      "num": 599257,
+      "word": "Doinb回应小天",
+      "onboard_time": 1761138080,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101196,
+      "num": 599011,
+      "word": "又一名32岁男子徒步深圳望郎归遇难",
+      "onboard_time": 1761138080,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101077,
       "num": 101077,
       "word": "阿森纳4比0马竞",
@@ -1739,14 +1795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96044,
-      "num": 608407,
-      "word": "第一次感受到藏马熊的恐怖",
-      "onboard_time": 1761134902,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95520,
       "num": 95520,
       "word": "原神",
@@ -1760,14 +1808,6 @@
       "word": "深圳七娘山80天内三起失联均遇难",
       "onboard_time": 1761136040,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95025,
-      "num": 608191,
-      "word": "国务院同意设立全民阅读活动周",
-      "onboard_time": 1761135741,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1785,6 +1825,14 @@
       "onboard_time": 1761126381,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93507,
+      "num": 601465,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93398,
@@ -1881,6 +1929,14 @@
       "onboard_time": 1761117260,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87401,
+      "num": 596773,
+      "word": "蓝色古堡灰原哀",
+      "onboard_time": 1761137962,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 86883,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1761093501,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81049,
+      "num": 607017,
+      "word": "第一次见灵珠有点不适应",
+      "onboard_time": 1761134663,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 80780,
@@ -2331,14 +2395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 73856,
-      "num": 607017,
-      "word": "第一次见灵珠有点不适应",
-      "onboard_time": 1761134663,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73685,
       "num": 606904,
       "word": "金店回应黄金每克暴跌50元",
@@ -2555,6 +2611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62985,
+      "num": 605911,
+      "word": "美国公务员排长队领救济",
+      "onboard_time": 1761136882,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62816,
       "num": 451049,
       "word": "奥恰洛夫心中GOAT是张继科",
@@ -2609,14 +2673,6 @@
       "onboard_time": 1761119421,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57900,
-      "num": 605911,
-      "word": "美国公务员排长队领救济",
-      "onboard_time": 1761136882,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 57090,

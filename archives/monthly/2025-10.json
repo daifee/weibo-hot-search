@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761137727331,
+  "endTime": 1761138611038,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -12651,6 +12651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333606,
+      "num": 1029857,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333409,
       "num": 202048,
       "word": "猪脚饭饭菜分装顾客给差评",
@@ -13073,6 +13081,14 @@
       "onboard_time": 1760695822,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321206,
+      "num": 925828,
+      "word": "小天回应19年FPX兄弟情",
+      "onboard_time": 1761134902,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 321185,
@@ -13883,14 +13899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306281,
-      "num": 925828,
-      "word": "小天回应19年FPX兄弟情",
-      "onboard_time": 1761134902,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 306208,
       "num": 306208,
       "word": "107万元油卡丢失快递公司仅赔千元",
@@ -14297,14 +14305,6 @@
       "onboard_time": 1761045320,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297047,
-      "num": 1029857,
-      "word": "何赛飞为全场呼唤陈丽君名字激动",
-      "onboard_time": 1761130221,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 296861,
@@ -14841,6 +14841,14 @@
       "onboard_time": 1760660180,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286832,
+      "num": 808354,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 286717,
@@ -16891,6 +16899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250665,
+      "num": 774693,
+      "word": "曝VOGUE盛典拖欠劳务费",
+      "onboard_time": 1761134781,
+      "rank": 6,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 250645,
       "num": 250645,
       "word": "孙颖莎何卓佳香港机场买玩偶",
@@ -17097,14 +17113,6 @@
       "onboard_time": 1760887281,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247391,
-      "num": 774693,
-      "word": "曝VOGUE盛典拖欠劳务费",
-      "onboard_time": 1761134781,
-      "rank": 6,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 247378,
@@ -22363,14 +22371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191355,
-      "num": 711438,
-      "word": "闲鱼回应平台出现卢浮宫珠宝",
-      "onboard_time": 1761135202,
-      "rank": 7,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 191206,
       "num": 229693,
       "word": "BLG惊天2.2",
@@ -23827,6 +23827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182469,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182422,
       "num": 182422,
       "word": "给气血不足的人一份回血清单",
@@ -24569,6 +24577,14 @@
       "onboard_time": 1761105921,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177744,
+      "num": 1026187,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177731,
@@ -26547,6 +26563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167210,
+      "num": 656434,
+      "word": "JDG遗憾止步年总",
+      "onboard_time": 1761138202,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167131,
       "num": 167131,
       "word": "内娱又有自己的中年玄幻爱情了",
@@ -28345,14 +28369,6 @@
       "onboard_time": 1760332043,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158778,
-      "num": 609489,
-      "word": "宠物店起火宠物无一生还",
-      "onboard_time": 1761135622,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158762,
@@ -30393,14 +30409,6 @@
       "onboard_time": 1760091202,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149797,
-      "num": 1026187,
-      "word": "一张图片证明你那里有多冷",
-      "onboard_time": 1761133341,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149719,
@@ -32729,6 +32737,14 @@
       "onboard_time": 1759533736,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140299,
+      "num": 603940,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140267,
@@ -35537,6 +35553,14 @@
       "onboard_time": 1760360902,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132020,
+      "num": 603539,
+      "word": "原来羽绒服里少穿比多穿更暖和",
+      "onboard_time": 1761138262,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131999,
@@ -42899,6 +42923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113767,
+      "num": 607792,
+      "word": "S15封面队伍全败",
+      "onboard_time": 1761134902,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113727,
       "num": 111533,
       "word": "机构称去年发13万篇论文挣8000万",
@@ -43625,14 +43657,6 @@
       "onboard_time": 1760941461,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112131,
-      "num": 607792,
-      "word": "S15封面队伍全败",
-      "onboard_time": 1761134902,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 112113,
@@ -44753,6 +44777,14 @@
       "onboard_time": 1760872641,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110253,
+      "num": 608407,
+      "word": "第一次感受到藏马熊的恐怖",
+      "onboard_time": 1761134902,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 110216,
@@ -49603,6 +49635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101773,
+      "num": 608191,
+      "word": "国务院同意设立全民阅读活动周",
+      "onboard_time": 1761135741,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101754,
       "num": 101754,
       "word": "Knight说自己职业打不到30岁",
@@ -49649,6 +49689,14 @@
       "onboard_time": 1760622323,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101674,
+      "num": 599257,
+      "word": "Doinb回应小天",
+      "onboard_time": 1761138080,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 101673,
@@ -49873,6 +49921,14 @@
       "onboard_time": 1760599761,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 101196,
+      "num": 599011,
+      "word": "又一名32岁男子徒步深圳望郎归遇难",
+      "onboard_time": 1761138080,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101185,
@@ -52315,14 +52371,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 96044,
-      "num": 608407,
-      "word": "第一次感受到藏马熊的恐怖",
-      "onboard_time": 1761134902,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96027,
       "num": 188466,
       "word": "苹果市值达3.85万亿美元",
@@ -52873,14 +52921,6 @@
       "onboard_time": 1759907120,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95025,
-      "num": 608191,
-      "word": "国务院同意设立全民阅读活动周",
-      "onboard_time": 1761135741,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95014,
@@ -53673,6 +53713,14 @@
       "onboard_time": 1759418362,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93507,
+      "num": 601465,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93489,
@@ -56715,6 +56763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87401,
+      "num": 596773,
+      "word": "蓝色古堡灰原哀",
+      "onboard_time": 1761137962,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87393,
       "num": 593128,
       "word": "林诗栋全村的希望",
@@ -59579,6 +59635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81049,
+      "num": 607017,
+      "word": "第一次见灵珠有点不适应",
+      "onboard_time": 1761134663,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81039,
       "num": 81039,
       "word": "停火后加沙城街头爆发枪战",
@@ -62105,14 +62169,6 @@
       "onboard_time": 1760369601,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73856,
-      "num": 607017,
-      "word": "第一次见灵珠有点不适应",
-      "onboard_time": 1761134663,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 73812,
@@ -64699,6 +64755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62985,
+      "num": 605911,
+      "word": "美国公务员排长队领救济",
+      "onboard_time": 1761136882,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62975,
       "num": 172948,
       "word": "珠峰徒步高端团人均费用约10000元",
@@ -65809,14 +65873,6 @@
       "onboard_time": 1761119421,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57900,
-      "num": 605911,
-      "word": "美国公务员排长队领救济",
-      "onboard_time": 1761136882,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 57827,
