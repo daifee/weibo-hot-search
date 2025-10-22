@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761108316768,
+  "endTime": 1761110788943,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 459459,
+      "num": 204268,
+      "word": "负债1亿的王自如坐绿皮火车出差",
+      "onboard_time": 1761109344,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 449208,
       "num": 1071873,
       "word": "曝iPhoneAir暂停生产",
@@ -89,6 +97,22 @@
       "onboard_time": 1761054803,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 420333,
+      "num": 149797,
+      "word": "红霉素软膏千万不能随便用",
+      "onboard_time": 1761108803,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 397698,
+      "num": 234592,
+      "word": "韩国越南网友疯狂互嘲",
+      "onboard_time": 1761106941,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 396509,
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365197,
+      "num": 206680,
+      "word": "男子发现打工养了20年的儿子非亲生",
+      "onboard_time": 1761107062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362648,
       "num": 809134,
       "word": "知名痔疮药太宁栓正式注销",
@@ -139,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346067,
+      "num": 1055370,
+      "word": "国台办回应台湾网红馆长宣布来京",
+      "onboard_time": 1761105142,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 330070,
+      "num": 207165,
+      "word": "早期胃癌和普通胃病的区别",
+      "onboard_time": 1761105142,
+      "rank": 44,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 318459,
       "num": 318459,
       "word": "Bin回应输给G2",
@@ -153,30 +201,6 @@
       "onboard_time": 1761101781,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305631,
-      "num": 207165,
-      "word": "早期胃癌和普通胃病的区别",
-      "onboard_time": 1761105142,
-      "rank": 44,
-      "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 304844,
-      "num": 234592,
-      "word": "韩国越南网友疯狂互嘲",
-      "onboard_time": 1761106941,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 302915,
-      "num": 302915,
-      "word": "国台办回应台湾网红馆长宣布来京",
-      "onboard_time": 1761105142,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 287242,
@@ -291,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207780,
+      "num": 167278,
+      "word": "娄艺潇用胡一菲的台词回应拍短剧",
+      "onboard_time": 1761104961,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206998,
       "num": 252590,
       "word": "杜兰特差点给火箭叫没了",
@@ -299,20 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206680,
-      "num": 206680,
-      "word": "男子发现打工养了20年的儿子非亲生",
-      "onboard_time": 1761107062,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206113,
       "num": 184621,
       "word": "歌手2025综N代的破局",
       "onboard_time": 1761102861,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198559,
+      "num": 145460,
+      "word": "爸爸去世的第七年收到了他的来信",
+      "onboard_time": 1761108141,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 196819,
@@ -363,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185406,
+      "num": 237858,
+      "word": "水龙吟还给内娱留了两天时间",
+      "onboard_time": 1761104180,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185180,
       "num": 248805,
       "word": "秋季最后一个节气要来了",
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 182833,
-      "num": 116547,
+      "num": 144381,
       "word": "星品影响力",
       "onboard_time": 1761102260,
       "rank": 26,
@@ -403,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168169,
+      "num": 168169,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1761109761,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167522,
       "num": 151582,
       "word": "买了漂亮衣服但不穿的原因",
       "onboard_time": 1761104242,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167278,
-      "num": 167278,
-      "word": "娄艺潇用胡一菲的台词回应拍短剧",
-      "onboard_time": 1761104961,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 164456,
@@ -512,14 +552,6 @@
       "word": "鞠婧祎 权谋女主",
       "onboard_time": 1761061700,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 153498,
-      "num": 237858,
-      "word": "水龙吟还给内娱留了两天时间",
-      "onboard_time": 1761104180,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -657,6 +689,22 @@
       "onboard_time": 1761103581,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127442,
+      "num": 127442,
+      "word": "吃烤肠和不吃烤肠的都沉默了",
+      "onboard_time": 1761110302,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126442,
+      "num": 126442,
+      "word": "offer主持人专访孟羽童",
+      "onboard_time": 1761109882,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 125233,
@@ -843,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104241,
+      "num": 104241,
+      "word": "单依纯打王者20连胜",
+      "onboard_time": 1761110061,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 104191,
       "num": 97463,
       "word": "长白山回应天池仿佛煮沸的开水",
@@ -889,6 +945,14 @@
       "onboard_time": 1761102682,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97507,
+      "num": 97507,
+      "word": "金价暴跌有金店连夜降价",
+      "onboard_time": 1761110241,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 97088,
@@ -939,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88993,
+      "num": 88993,
+      "word": "成毅李一桐天地剑心地广",
+      "onboard_time": 1761108383,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88818,
       "num": 88818,
       "word": "俄士兵背负战友遗体12天",
       "onboard_time": 1761097341,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87512,
+      "num": 87512,
+      "word": "恶语伤咪心",
+      "onboard_time": 1761110002,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86883,
@@ -1155,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64414,
+      "num": 86697,
+      "word": "暗河传",
+      "onboard_time": 1761108983,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62604,
       "num": 76099,
       "word": "多名欧洲领导人表态",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1761046641,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50486,
+      "num": 104578,
+      "word": "痔疮药太宁栓停产已涨价38倍",
+      "onboard_time": 1761110121,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 48122,
@@ -1235,6 +1331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 45361,
+      "num": 163154,
+      "word": "国台办回应特朗普涉台湾言论",
+      "onboard_time": 1761109462,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45213,
       "num": 93424,
       "word": "特朗普说自己对乌克兰够好了",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1761106162,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42607,
+      "num": 89354,
+      "word": "一网吧设置海鲜自助提供免费淋浴",
+      "onboard_time": 1761109283,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40514,
