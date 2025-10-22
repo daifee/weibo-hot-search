@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761171700174,
+  "endTime": 1761172568028,
   "band_list": [
     {
       "raw_hot": 318727,
@@ -443,36 +443,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19703,
-      "num": 37692,
-      "word": "特朗普回应被评为全美第三好总统",
-      "onboard_time": 1761160514,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16866,
-      "num": 37670,
+      "raw_hot": 19731,
+      "num": 43298,
       "word": "婴儿车侧翻女子飞扑挽救",
       "onboard_time": 1761139343,
       "rank": 46,
       "category": "正能量"
     },
     {
-      "raw_hot": 15643,
-      "num": 51128,
-      "word": "多地冷成12月了",
-      "onboard_time": 1761157034,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 19703,
+      "num": 43274,
+      "word": "特朗普回应被评为全美第三好总统",
+      "onboard_time": 1761160514,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 15413,
+      "raw_hot": 17345,
       "num": 85464,
       "word": "张博恒个人全能84.333分",
       "onboard_time": 1761142523,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16138,
+      "num": 51128,
+      "word": "多地冷成12月了",
+      "onboard_time": 1761157034,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11189,
