@@ -1,0 +1,410 @@
+{
+  "runTime": 1761103991469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 369885,
+        "num": 1059181,
+        "word": "台湾人就是中国人无可置疑",
+        "onboard_time": 1761093920,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318459,
+        "num": 318459,
+        "word": "Bin回应输给G2",
+        "onboard_time": 1761098001,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20097,
+        "num": 233998,
+        "word": "强国梦从蓝图一步步走向现实",
+        "onboard_time": 1761055521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226656,
+        "num": 226656,
+        "word": "纪念台湾光复80周年大会邀请台湾同胞",
+        "onboard_time": 1761101841,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222411,
+        "num": 222411,
+        "word": "商家广告泄露国家秘密",
+        "onboard_time": 1761092301,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "NBA揭幕战就加时",
+        "onboard_time": 1761103042,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184621,
+        "num": 184621,
+        "word": "歌手2025综N代的破局",
+        "onboard_time": 1761102861,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169893,
+        "num": 169893,
+        "word": "泽连斯基称已准备好结束俄乌冲突",
+        "onboard_time": 1761092420,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159931,
+        "num": 159931,
+        "word": "秋季最后一个节气要来了",
+        "onboard_time": 1761094701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140369,
+        "num": 140369,
+        "word": "当地规劝烤肉店停止玉米做燃料",
+        "onboard_time": 1761056602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1226277,
+        "num": 140352,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030499,
+        "num": 139607,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 701444,
+        "num": 139099,
+        "word": "北京市市服",
+        "onboard_time": 1761099021,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409092,
+        "num": 138382,
+        "word": "邓莎老公曾向某退休干部行贿",
+        "onboard_time": 1761092061,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 379619,
+        "num": 137917,
+        "word": "打开行李箱发现多了8万元",
+        "onboard_time": 1761100100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137672,
+        "num": 137672,
+        "word": "藏海传飙升值185%",
+        "onboard_time": 1761100100,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305719,
+        "num": 137335,
+        "word": "妈妈得癌症瞒了儿子两个月",
+        "onboard_time": 1761101781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203147,
+        "num": 136470,
+        "word": "日本人也把日本人当日本人整",
+        "onboard_time": 1761095001,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201051,
+        "num": 135759,
+        "word": "台湾网红馆长官宣北京行",
+        "onboard_time": 1761100941,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113976,
+        "num": 134736,
+        "word": "辛芷蕾日掛中天被扇又被砸",
+        "onboard_time": 1761103761,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 489284,
+        "num": 134143,
+        "word": "金价银价急跌",
+        "onboard_time": 1761088098,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 386635,
+        "num": 133238,
+        "word": "金饰克价一夜跌了83元",
+        "onboard_time": 1761098901,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250786,
+        "num": 132125,
+        "word": "宇树科技决定更名",
+        "onboard_time": 1761100278,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227353,
+        "num": 131293,
+        "word": "iPhone降价安卓旗舰却卖爆了",
+        "onboard_time": 1761101901,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221084,
+        "num": 129987,
+        "word": "曝iPhoneAir暂停生产",
+        "onboard_time": 1761101241,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129940,
+        "num": 129940,
+        "word": "一抓一个大河蟹的快乐",
+        "onboard_time": 1761102981,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128357,
+        "num": 128357,
+        "word": "雷霆双加时战胜火箭",
+        "onboard_time": 1761103581,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123387,
+        "num": 123387,
+        "word": "长征路每300米就有1名红军牺牲",
+        "onboard_time": 1761090738,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154231,
+        "num": 122999,
+        "word": "星品",
+        "onboard_time": 1761047001,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38605,
+        "num": 122453,
+        "word": "宴遇永安编剧",
+        "onboard_time": 1761064878,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141049,
+        "num": 122315,
+        "word": "闫安说王楚钦夺冠球台是买回来的",
+        "onboard_time": 1761103401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121926,
+        "num": 121926,
+        "word": "男子ICU收到兄弟转账哭成孩子",
+        "onboard_time": 1761096500,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 26827,
+        "num": 116349,
+        "word": "佩通坦宣布辞去为泰党党首职务",
+        "onboard_time": 1761103821,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116188,
+        "num": 116188,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114616,
+        "num": 114616,
+        "word": "国防部回应澳军机侵闯西沙领空",
+        "onboard_time": 1761095961,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113224,
+        "num": 113224,
+        "word": "台湾光复是抗战胜利的重要成果",
+        "onboard_time": 1761101781,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106971,
+        "num": 106971,
+        "word": "中荷围绕安世半导体问题交换意见",
+        "onboard_time": 1761100041,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101793,
+        "num": 101793,
+        "word": "男子在免费餐馆要求提前开饭",
+        "onboard_time": 1761095181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94363,
+        "num": 99030,
+        "word": "一公厕被改建咖啡店",
+        "onboard_time": 1761103162,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98511,
+        "num": 98511,
+        "word": "杜兰特没暂停喊暂停",
+        "onboard_time": 1761102682,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98255,
+        "num": 98255,
+        "word": "28岁女生车祸脑死亡器官救5人",
+        "onboard_time": 1761093380,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96534,
+        "num": 96534,
+        "word": "等原神开门",
+        "onboard_time": 1761102922,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93298,
+        "num": 93298,
+        "word": "当公司所有人都开始带饭上班",
+        "onboard_time": 1761103821,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46558,
+        "num": 92963,
+        "word": "一公司招聘前台被BOSS直聘收费",
+        "onboard_time": 1761102561,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92822,
+        "num": 92822,
+        "word": "你一周会洗几次头",
+        "onboard_time": 1761092661,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90963,
+        "num": 90963,
+        "word": "火箭vs雷霆",
+        "onboard_time": 1761092241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46415,
+        "num": 89559,
+        "word": "孙颖莎已获102个冠军",
+        "onboard_time": 1761102381,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89512,
+        "num": 89512,
+        "word": "金价银价急跌原因",
+        "onboard_time": 1761096981,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83254,
+        "num": 83254,
+        "word": "于正官宣金吾不禁阵容",
+        "onboard_time": 1761103941,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82053,
+        "num": 82053,
+        "word": "农业银行14连阳",
+        "onboard_time": 1761102622,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划你我用奋斗实现#"
+    }
+  }
+}

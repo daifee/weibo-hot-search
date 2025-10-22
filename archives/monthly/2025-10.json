@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761103049940,
+  "endTime": 1761103991469,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1379,6 +1379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1226277,
+      "num": 140352,
+      "word": "金价大跌有人一夜亏5万",
+      "onboard_time": 1761099320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1223635,
       "num": 1223635,
       "word": "王楚钦在印度真的很小心",
@@ -2219,6 +2227,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1030499,
+      "num": 139607,
+      "word": "冰岛首次发现蚊子",
+      "onboard_time": 1761098600,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1028081,
       "num": 819215,
       "word": "蜜雪冰城门店 老鼠横行",
@@ -2427,14 +2443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 984610,
-      "num": 135855,
-      "word": "金价大跌有人一夜亏5万",
-      "onboard_time": 1761099320,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 980225,
       "num": 1156836,
       "word": "景区回应仙女散的是假花",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1760156782,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 970295,
-      "num": 135632,
-      "word": "冰岛首次发现蚊子",
-      "onboard_time": 1761098600,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 969193,
@@ -4521,6 +4521,14 @@
       "onboard_time": 1759236021,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 701444,
+      "num": 139099,
+      "word": "北京市市服",
+      "onboard_time": 1761099021,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 701017,
@@ -10795,6 +10803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386635,
+      "num": 133238,
+      "word": "金饰克价一夜跌了83元",
+      "onboard_time": 1761098901,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386102,
       "num": 242605,
       "word": "娃小宗无糖茶与娃哈哈包装区分鲜明",
@@ -10961,6 +10977,14 @@
       "onboard_time": 1760585781,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379619,
+      "num": 137917,
+      "word": "打开行李箱发现多了8万元",
+      "onboard_time": 1761100100,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379581,
@@ -11547,14 +11571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 364657,
-      "num": 129824,
-      "word": "北京市市服",
-      "onboard_time": 1761099021,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 364012,
       "num": 196603,
       "word": "男子灌面汤呛死妻子案家属最新发声",
@@ -11593,14 +11609,6 @@
       "onboard_time": 1760868922,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 363086,
-      "num": 121764,
-      "word": "打开行李箱发现多了8万元",
-      "onboard_time": 1761100100,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363061,
@@ -12851,14 +12859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322020,
-      "num": 118232,
-      "word": "金饰克价一夜跌了83元",
-      "onboard_time": 1761098901,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 321908,
       "num": 207756,
       "word": "何老师第一次在密逃被吓到",
@@ -13065,6 +13065,14 @@
       "onboard_time": 1759764741,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318459,
+      "num": 318459,
+      "word": "Bin回应输给G2",
+      "onboard_time": 1761098001,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 318380,
@@ -13459,14 +13467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310537,
-      "num": 310537,
-      "word": "Bin回应输给G2",
-      "onboard_time": 1761098001,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 310519,
       "num": 266730,
       "word": "胡先煦 虾系男友有了头",
@@ -13697,6 +13697,14 @@
       "onboard_time": 1760239640,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305719,
+      "num": 137335,
+      "word": "妈妈得癌症瞒了儿子两个月",
+      "onboard_time": 1761101781,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 305556,
@@ -16156,7 +16164,7 @@
     },
     {
       "raw_hot": 256990,
-      "num": 117322,
+      "num": 132125,
       "word": "宇树科技决定更名",
       "onboard_time": 1761100278,
       "rank": 22,
@@ -17372,7 +17380,7 @@
     },
     {
       "raw_hot": 237700,
-      "num": 117143,
+      "num": 129987,
       "word": "曝iPhoneAir暂停生产",
       "onboard_time": 1761101241,
       "rank": 24,
@@ -17971,6 +17979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227353,
+      "num": 131293,
+      "word": "iPhone降价安卓旗舰却卖爆了",
+      "onboard_time": 1761101901,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227296,
       "num": 186124,
       "word": "苏晓彤对周雨彤贴脸开大",
@@ -18065,6 +18081,14 @@
       "onboard_time": 1760428641,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226656,
+      "num": 226656,
+      "word": "纪念台湾光复80周年大会邀请台湾同胞",
+      "onboard_time": 1761101841,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 226482,
@@ -18305,14 +18329,6 @@
       "onboard_time": 1759659384,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 222757,
-      "num": 120554,
-      "word": "妈妈得癌症瞒了儿子两个月",
-      "onboard_time": 1761101781,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 222744,
@@ -20312,6 +20328,14 @@
       "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
       "onboard_time": 1759283239,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201051,
+      "num": 135759,
+      "word": "台湾网红馆长官宣北京行",
+      "onboard_time": 1761100941,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -22355,6 +22379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188764,
+      "num": 188764,
+      "word": "NBA揭幕战就加时",
+      "onboard_time": 1761103042,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188731,
       "num": 188731,
       "word": "AG全胜收官擂台赛",
@@ -22409,14 +22441,6 @@
       "onboard_time": 1760864901,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188494,
-      "num": 188494,
-      "word": "纪念台湾光复80周年大会邀请台湾同胞",
-      "onboard_time": 1761101841,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188472,
@@ -22929,6 +22953,14 @@
       "onboard_time": 1760865262,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184621,
+      "num": 184621,
+      "word": "歌手2025综N代的破局",
+      "onboard_time": 1761102861,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 184605,
@@ -25227,14 +25259,6 @@
       "category": "体育,体育"
     },
     {
-      "raw_hot": 171128,
-      "num": 116440,
-      "word": "台湾网红馆长官宣北京行",
-      "onboard_time": 1761100941,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170952,
       "num": 170952,
       "word": "日本派桥本帆乃香打一单",
@@ -25609,14 +25633,6 @@
       "onboard_time": 1760414963,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168897,
-      "num": 116078,
-      "word": "iPhone降价安卓旗舰却卖爆了",
-      "onboard_time": 1761101901,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 168839,
@@ -27427,6 +27443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159931,
+      "num": 237025,
+      "word": "秋季最后一个节气要来了",
+      "onboard_time": 1761094701,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159885,
       "num": 159885,
       "word": "岳云鹏说郭德纲就是个普通员工",
@@ -28593,14 +28617,6 @@
       "onboard_time": 1760599402,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154816,
-      "num": 237025,
-      "word": "秋季最后一个节气要来了",
-      "onboard_time": 1761094701,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154773,
@@ -31809,6 +31825,14 @@
       "onboard_time": 1760078181,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141049,
+      "num": 122315,
+      "word": "闫安说王楚钦夺冠球台是买回来的",
+      "onboard_time": 1761103401,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 141048,
@@ -35499,6 +35523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129940,
+      "num": 129940,
+      "word": "一抓一个大河蟹的快乐",
+      "onboard_time": 1761102981,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129938,
       "num": 129938,
       "word": "时代峰峻你怎么这么命好",
@@ -35977,6 +36009,14 @@
       "onboard_time": 1759898061,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128357,
+      "num": 128357,
+      "word": "雷霆双加时战胜火箭",
+      "onboard_time": 1761103581,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 128352,
@@ -41923,6 +41963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113976,
+      "num": 134736,
+      "word": "辛芷蕾日掛中天被扇又被砸",
+      "onboard_time": 1761103761,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113932,
       "num": 166897,
       "word": "高市早苗用反华内容训练AI",
@@ -45745,6 +45793,14 @@
       "onboard_time": 1760702423,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106971,
+      "num": 106971,
+      "word": "中荷围绕安世半导体问题交换意见",
+      "onboard_time": 1761100041,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106966,
@@ -49915,14 +49971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98818,
-      "num": 98818,
-      "word": "中荷围绕安世半导体问题交换意见",
-      "onboard_time": 1761100041,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98806,
       "num": 98806,
       "word": "孙颖莎以为王晓彤要暂停",
@@ -50049,6 +50097,14 @@
       "onboard_time": 1759835780,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98511,
+      "num": 98511,
+      "word": "杜兰特没暂停喊暂停",
+      "onboard_time": 1761102682,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98498,
@@ -50953,6 +51009,14 @@
       "onboard_time": 1759733481,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96534,
+      "num": 96534,
+      "word": "等原神开门",
+      "onboard_time": 1761102922,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 96528,
@@ -51963,6 +52027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94363,
+      "num": 99030,
+      "word": "一公厕被改建咖啡店",
+      "onboard_time": 1761103162,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94340,
       "num": 94340,
       "word": "花海直播",
@@ -52627,6 +52699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93298,
+      "num": 93298,
+      "word": "当公司所有人都开始带饭上班",
+      "onboard_time": 1761103821,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93296,
       "num": 93296,
       "word": "魔卡少女樱画风男模变馍",
@@ -52841,6 +52921,14 @@
       "onboard_time": 1760178501,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92822,
+      "num": 92822,
+      "word": "你一周会洗几次头",
+      "onboard_time": 1761092661,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92797,
@@ -57027,14 +57115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83901,
-      "num": 83901,
-      "word": "一抓一个大河蟹的快乐",
-      "onboard_time": 1761102981,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 83887,
       "num": 83887,
       "word": "2人摆拍悬赏20万寻救命恩人被拘",
@@ -57283,14 +57363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83360,
-      "num": 83360,
-      "word": "等原神开门",
-      "onboard_time": 1761102922,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 83345,
       "num": 83345,
       "word": "纸房子",
@@ -57353,6 +57425,14 @@
       "onboard_time": 1760876183,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83254,
+      "num": 83254,
+      "word": "于正官宣金吾不禁阵容",
+      "onboard_time": 1761103941,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83230,
@@ -57617,14 +57697,6 @@
       "onboard_time": 1760782401,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 82524,
-      "num": 113338,
-      "word": "歌手2025综N代的破局",
-      "onboard_time": 1761102861,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 82510,
@@ -60057,14 +60129,6 @@
       "onboard_time": 1760408120,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75718,
-      "num": 75718,
-      "word": "你一周会洗几次头",
-      "onboard_time": 1761092661,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75705,
@@ -66011,6 +66075,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 46558,
+      "num": 92963,
+      "word": "一公司招聘前台被BOSS直聘收费",
+      "onboard_time": 1761102561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46465,
       "num": 247344,
       "word": "反复爱上丁禹兮的暖",
@@ -66025,6 +66097,14 @@
       "onboard_time": 1759374319,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 46415,
+      "num": 90460,
+      "word": "孙颖莎已获102个冠军",
+      "onboard_time": 1761102381,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 46368,
@@ -67104,14 +67184,6 @@
       "word": "女子67万奔驰被撞毁保险仅赔24万",
       "onboard_time": 1761028702,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39480,
-      "num": 92766,
-      "word": "一公司招聘前台被BOSS直聘收费",
-      "onboard_time": 1761102561,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -69107,6 +69179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26827,
+      "num": 116349,
+      "word": "佩通坦宣布辞去为泰党党首职务",
+      "onboard_time": 1761103821,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26782,
       "num": 109207,
       "word": "孙颖莎小小的身躯大大的能量",
@@ -70505,14 +70585,6 @@
       "onboard_time": 1760781683,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17046,
-      "num": 90460,
-      "word": "孙颖莎已获102个冠军",
-      "onboard_time": 1761102381,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 16959,

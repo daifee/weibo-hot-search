@@ -1,7 +1,15 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761103049940,
+  "endTime": 1761103991469,
   "band_list": [
+    {
+      "raw_hot": 1226277,
+      "num": 140352,
+      "word": "金价大跌有人一夜亏5万",
+      "onboard_time": 1761099320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1061022,
       "num": 168403,
@@ -11,16 +19,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 984610,
-      "num": 135855,
-      "word": "金价大跌有人一夜亏5万",
-      "onboard_time": 1761099320,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 970295,
-      "num": 135632,
+      "raw_hot": 1030499,
+      "num": 139607,
       "word": "冰岛首次发现蚊子",
       "onboard_time": 1761098600,
       "rank": 13,
@@ -33,6 +33,14 @@
       "onboard_time": 1761092061,
       "rank": 10,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 701444,
+      "num": 139099,
+      "word": "北京市市服",
+      "onboard_time": 1761099021,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 701017,
@@ -83,16 +91,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364657,
-      "num": 129824,
-      "word": "北京市市服",
-      "onboard_time": 1761099021,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 386635,
+      "num": 133238,
+      "word": "金饰克价一夜跌了83元",
+      "onboard_time": 1761098901,
+      "rank": 30,
+      "category": "财经"
     },
     {
-      "raw_hot": 363086,
-      "num": 121764,
+      "raw_hot": 379619,
+      "num": 137917,
       "word": "打开行李箱发现多了8万元",
       "onboard_time": 1761100100,
       "rank": 16,
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322020,
-      "num": 118232,
-      "word": "金饰克价一夜跌了83元",
-      "onboard_time": 1761098901,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 310537,
-      "num": 310537,
+      "raw_hot": 318459,
+      "num": 318459,
       "word": "Bin回应输给G2",
       "onboard_time": 1761098001,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 305719,
+      "num": 137335,
+      "word": "妈妈得癌症瞒了儿子两个月",
+      "onboard_time": 1761101781,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 287009,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 256990,
-      "num": 117322,
+      "num": 132125,
       "word": "宇树科技决定更名",
       "onboard_time": 1761100278,
       "rank": 22,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 237700,
-      "num": 117143,
+      "num": 129987,
       "word": "曝iPhoneAir暂停生产",
       "onboard_time": 1761101241,
       "rank": 24,
@@ -195,12 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222757,
-      "num": 120554,
-      "word": "妈妈得癌症瞒了儿子两个月",
-      "onboard_time": 1761101781,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 227353,
+      "num": 131293,
+      "word": "iPhone降价安卓旗舰却卖爆了",
+      "onboard_time": 1761101901,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 226656,
+      "num": 226656,
+      "word": "纪念台湾光复80周年大会邀请台湾同胞",
+      "onboard_time": 1761101841,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214636,
@@ -208,6 +224,14 @@
       "word": "明星代言蟹卡差到黄牛都不敢收",
       "onboard_time": 1761048681,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201051,
+      "num": 135759,
+      "word": "台湾网红馆长官宣北京行",
+      "onboard_time": 1761100941,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -227,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188494,
-      "num": 188494,
-      "word": "纪念台湾光复80周年大会邀请台湾同胞",
-      "onboard_time": 1761101841,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 188764,
+      "num": 188764,
+      "word": "NBA揭幕战就加时",
+      "onboard_time": 1761103042,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 187126,
@@ -251,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184621,
+      "num": 184621,
+      "word": "歌手2025综N代的破局",
+      "onboard_time": 1761102861,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182859,
       "num": 182859,
       "word": "南极游从20万跌至5万",
@@ -267,22 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171128,
-      "num": 116440,
-      "word": "台湾网红馆长官宣北京行",
-      "onboard_time": 1761100941,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168897,
-      "num": 116078,
-      "word": "iPhone降价安卓旗舰却卖爆了",
-      "onboard_time": 1761101901,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161934,
       "num": 119065,
       "word": "2楼下水道堵死竟掏出12米树根",
@@ -296,6 +312,14 @@
       "word": "宝妈每天晚来早走上20天班月薪5万",
       "onboard_time": 1761048501,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159931,
+      "num": 237025,
+      "word": "秋季最后一个节气要来了",
+      "onboard_time": 1761094701,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -329,14 +353,6 @@
       "onboard_time": 1761057261,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154816,
-      "num": 237025,
-      "word": "秋季最后一个节气要来了",
-      "onboard_time": 1761094701,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153525,
@@ -427,6 +443,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141049,
+      "num": 122315,
+      "word": "闫安说王楚钦夺冠球台是买回来的",
+      "onboard_time": 1761103401,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129940,
+      "num": 129940,
+      "word": "一抓一个大河蟹的快乐",
+      "onboard_time": 1761102981,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 128357,
+      "num": 128357,
+      "word": "雷霆双加时战胜火箭",
+      "onboard_time": 1761103581,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "欧冠",
@@ -499,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113976,
+      "num": 134736,
+      "word": "辛芷蕾日掛中天被扇又被砸",
+      "onboard_time": 1761103761,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112407,
       "num": 112407,
       "word": "卢浮宫被抢珠宝价值超7.2亿元",
@@ -529,6 +577,14 @@
       "onboard_time": 1761093680,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106971,
+      "num": 106971,
+      "word": "中荷围绕安世半导体问题交换意见",
+      "onboard_time": 1761100041,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106667,
@@ -563,20 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98818,
-      "num": 98818,
-      "word": "中荷围绕安世半导体问题交换意见",
-      "onboard_time": 1761100041,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98767,
       "num": 98767,
       "word": "俄美总统拟布达佩斯会晤引多方博弈",
       "onboard_time": 1761099320,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98511,
+      "num": 98511,
+      "word": "杜兰特没暂停喊暂停",
+      "onboard_time": 1761102682,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 97088,
@@ -587,12 +643,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96534,
+      "num": 96534,
+      "word": "等原神开门",
+      "onboard_time": 1761102922,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95520,
       "num": 95520,
       "word": "原神",
       "onboard_time": 1761095841,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94363,
+      "num": 99030,
+      "word": "一公厕被改建咖啡店",
+      "onboard_time": 1761103162,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93298,
+      "num": 93298,
+      "word": "当公司所有人都开始带饭上班",
+      "onboard_time": 1761103821,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92822,
+      "num": 92822,
+      "word": "你一周会洗几次头",
+      "onboard_time": 1761092661,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88818,
@@ -627,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83901,
-      "num": 83901,
-      "word": "一抓一个大河蟹的快乐",
-      "onboard_time": 1761102981,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 83814,
       "num": 83814,
       "word": "92号汽油或重返6元时代",
@@ -643,20 +723,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83360,
-      "num": 83360,
-      "word": "等原神开门",
-      "onboard_time": 1761102922,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 82524,
-      "num": 113338,
-      "word": "歌手2025综N代的破局",
-      "onboard_time": 1761102861,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 83254,
+      "num": 83254,
+      "word": "于正官宣金吾不禁阵容",
+      "onboard_time": 1761103941,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 82340,
@@ -737,14 +809,6 @@
       "onboard_time": 1761063738,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 75718,
-      "num": 75718,
-      "word": "你一周会洗几次头",
-      "onboard_time": 1761092661,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74497,
@@ -875,6 +939,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46558,
+      "num": 92963,
+      "word": "一公司招聘前台被BOSS直聘收费",
+      "onboard_time": 1761102561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46415,
+      "num": 90460,
+      "word": "孙颖莎已获102个冠军",
+      "onboard_time": 1761102381,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45766,
       "num": 116767,
       "word": "朋友圈和现实风格差别能有多大",
@@ -937,14 +1017,6 @@
       "onboard_time": 1761044541,
       "rank": 40,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 39480,
-      "num": 92766,
-      "word": "一公司招聘前台被BOSS直聘收费",
-      "onboard_time": 1761102561,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38776,
@@ -1027,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26827,
+      "num": 116349,
+      "word": "佩通坦宣布辞去为泰党党首职务",
+      "onboard_time": 1761103821,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26353,
       "num": 70320,
       "word": "三角洲行动",
@@ -1057,14 +1137,6 @@
       "onboard_time": 1761066497,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17046,
-      "num": 90460,
-      "word": "孙颖莎已获102个冠军",
-      "onboard_time": 1761102381,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 14851,
