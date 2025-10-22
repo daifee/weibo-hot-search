@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761118804304,
+  "endTime": 1761122247217,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -5961,6 +5961,14 @@
       "onboard_time": 1760180422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592873,
+      "num": 1112545,
+      "word": "iPhone17Pro的受害者出现了",
+      "onboard_time": 1761116960,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 592408,
@@ -13107,14 +13115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319153,
-      "num": 1112545,
-      "word": "iPhone17Pro的受害者出现了",
-      "onboard_time": 1761116960,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 319035,
       "num": 752334,
       "word": "专家称要对高市早苗动向保持警惕",
@@ -13881,6 +13881,14 @@
       "onboard_time": 1760847741,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304701,
+      "num": 190132,
+      "word": "女子不慎撞羊被牧民邀请吃羊肉",
+      "onboard_time": 1761119121,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304108,
@@ -15225,6 +15233,14 @@
       "onboard_time": 1759848442,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277600,
+      "num": 190116,
+      "word": "金价这轮会跌多久",
+      "onboard_time": 1761119480,
+      "rank": 11,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 277486,
@@ -18147,6 +18163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227370,
+      "num": 1103657,
+      "word": "官方通报女子因开错房掌掴前台被打",
+      "onboard_time": 1761116001,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 227353,
       "num": 167943,
       "word": "iPhone降价安卓旗舰却卖爆了",
@@ -18401,6 +18425,14 @@
       "onboard_time": 1759328542,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224016,
+      "num": 1117872,
+      "word": "卢浮宫重新开门",
+      "onboard_time": 1761118041,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 223964,
@@ -22051,6 +22083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191893,
+      "num": 191893,
+      "word": "BLG支持率",
+      "onboard_time": 1761120082,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191847,
       "num": 696059,
       "word": "国庆假期返程天气",
@@ -22313,6 +22353,14 @@
       "onboard_time": 1760451741,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190184,
+      "num": 1118999,
+      "word": "10月就穿羽绒服了",
+      "onboard_time": 1761112642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190162,
@@ -25931,14 +25979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168557,
-      "num": 1118999,
-      "word": "10月就穿羽绒服了",
-      "onboard_time": 1761112642,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168498,
       "num": 183532,
       "word": "梁靖崑2比3松岛辉空",
@@ -26401,6 +26441,14 @@
       "onboard_time": 1759270756,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 166563,
+      "num": 1101648,
+      "word": "鸿蒙6",
+      "onboard_time": 1761118160,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 166555,
@@ -27233,14 +27281,6 @@
       "onboard_time": 1760599460,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162696,
-      "num": 1117872,
-      "word": "卢浮宫重新开门",
-      "onboard_time": 1761118041,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162644,
@@ -30545,14 +30585,6 @@
       "onboard_time": 1760938042,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147659,
-      "num": 1103657,
-      "word": "官方通报女子因开错房掌掴前台被打",
-      "onboard_time": 1761116001,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147610,
@@ -34209,6 +34241,14 @@
       "onboard_time": 1759999040,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134860,
+      "num": 189937,
+      "word": "张真源同学上音综被夸能拿格莱美",
+      "onboard_time": 1761118220,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 134836,
@@ -38825,14 +38865,6 @@
       "onboard_time": 1759983141,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122426,
-      "num": 1101648,
-      "word": "鸿蒙6",
-      "onboard_time": 1761118160,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 122419,
@@ -44275,6 +44307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110403,
+      "num": 189851,
+      "word": "日本人称中国人不懂汉字",
+      "onboard_time": 1761120141,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110380,
       "num": 132742,
       "word": "美军工资发不出来了",
@@ -45499,6 +45539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108441,
+      "num": 190148,
+      "word": "升级鸿蒙6流畅度最高提升40%",
+      "onboard_time": 1761122061,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108439,
       "num": 108439,
       "word": "把惠英红陈都灵打包去花少",
@@ -45912,6 +45960,14 @@
       "word": "世界粮食日网友想念袁爷爷了",
       "onboard_time": 1760573542,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107535,
+      "num": 189804,
+      "word": "大批外省人涌入云南买房",
+      "onboard_time": 1761119063,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -53803,12 +53859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92306,
+      "num": 189777,
+      "word": "迪丽热巴利剑玫瑰是理想人格",
+      "onboard_time": 1761120561,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92305,
       "num": 94618,
       "word": "汪苏泷hi6三连唱",
       "onboard_time": 1760169981,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92294,
+      "num": 189858,
+      "word": "鸿蒙加密分享支持仅可查看一次",
+      "onboard_time": 1761122000,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 92241,
@@ -54457,6 +54529,14 @@
       "onboard_time": 1760514021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90941,
+      "num": 189762,
+      "word": "网红撒盐哥亏损540万英镑",
+      "onboard_time": 1761121341,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90914,
@@ -56019,6 +56099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87599,
+      "num": 1086313,
+      "word": "女子孕早期用电热毯孩子险电没",
+      "onboard_time": 1761117260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87589,
       "num": 87589,
       "word": "我视奸别人vs别人视奸我",
@@ -56787,6 +56875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85979,
+      "num": 189704,
+      "word": "石凯 走心了",
+      "onboard_time": 1761120261,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85959,
       "num": 85959,
       "word": "刑警时刻1风华正茂阵容官宣",
@@ -56825,6 +56921,14 @@
       "onboard_time": 1761115761,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 85869,
+      "num": 189655,
+      "word": "微信6大更新详解",
+      "onboard_time": 1761120201,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 85827,
@@ -58275,6 +58379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82685,
+      "num": 189890,
+      "word": "新加坡首艘无人机母舰下水",
+      "onboard_time": 1761119063,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82658,
       "num": 92762,
       "word": "樊振东背着小书包",
@@ -58489,6 +58601,14 @@
       "onboard_time": 1759331541,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82060,
+      "num": 189617,
+      "word": "当年为了接近你 我撒了很多谎",
+      "onboard_time": 1761120620,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 82027,
@@ -61771,14 +61891,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 72147,
-      "num": 1086313,
-      "word": "女子孕早期用电热毯孩子险电没",
-      "onboard_time": 1761117260,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72143,
       "num": 72143,
       "word": "大湾区朋友圈全是王嘉尔演唱会",
@@ -63019,6 +63131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67055,
+      "num": 189906,
+      "word": "鸿蒙6支持与苹果设备互传",
+      "onboard_time": 1761119121,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 66996,
       "num": 202997,
       "word": "00后学霸刷飞猪图鉴做旅行计划",
@@ -63864,6 +63984,22 @@
       "word": "哈登儿子都六岁了",
       "onboard_time": 1760682081,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62816,
+      "num": 189583,
+      "word": "奥恰洛夫心中GOAT是张继科",
+      "onboard_time": 1761122061,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62791,
+      "num": 189567,
+      "word": "勇士发库里三分图",
+      "onboard_time": 1761122061,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -64913,6 +65049,14 @@
       "onboard_time": 1760509459,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57901,
+      "num": 190038,
+      "word": "华为碰一碰支持应用超60个",
+      "onboard_time": 1761119421,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 57827,
@@ -66835,6 +66979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46844,
+      "num": 190021,
+      "word": "CFO对战HLE",
+      "onboard_time": 1761121281,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46794,
       "num": 170009,
       "word": "第一次换iPhone的尴尬瞬间",
@@ -66993,6 +67145,14 @@
       "onboard_time": 1760337861,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45948,
+      "num": 189716,
+      "word": "狼队首发名单",
+      "onboard_time": 1761121461,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 45766,
@@ -67236,7 +67396,7 @@
     },
     {
       "raw_hot": 44390,
-      "num": 221110,
+      "num": 287411,
       "word": "未来的中国很酷",
       "onboard_time": 1761059962,
       "rank": 10,
@@ -67697,6 +67857,14 @@
       "onboard_time": 1760130614,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41573,
+      "num": 189639,
+      "word": "巴特勒罚球得了16分",
+      "onboard_time": 1761120862,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 41539,
@@ -72425,6 +72593,14 @@
       "onboard_time": 1759842084,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6724,
+      "num": 189735,
+      "word": "原来这个表情是刘雨昕",
+      "onboard_time": 1761122061,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 6255,
