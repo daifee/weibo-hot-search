@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761159093996,
+  "endTime": 1761160828659,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -72483,6 +72483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20789,
+      "num": 51167,
+      "word": "谁家音综歌手狠起来连自己都骂",
+      "onboard_time": 1761156195,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20750,
       "num": 112445,
       "word": "第一批穿秋裤的人出现了",
@@ -72777,14 +72785,6 @@
       "onboard_time": 1759293140,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18952,
-      "num": 51167,
-      "word": "谁家音综歌手狠起来连自己都骂",
-      "onboard_time": 1761156195,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 18946,
@@ -73593,6 +73593,14 @@
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12945,
+      "num": 37692,
+      "word": "特朗普回应被评为全美第三好总统",
+      "onboard_time": 1761160514,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12907,

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761159093996,
+  "endTime": 1761160828659,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -13235,6 +13235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20789,
+      "num": 51167,
+      "word": "谁家音综歌手狠起来连自己都骂",
+      "onboard_time": 1761156195,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20602,
       "num": 55730,
       "word": "暗河传 眠息法",
@@ -13281,14 +13289,6 @@
       "onboard_time": 1760813715,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18952,
-      "num": 51167,
-      "word": "谁家音综歌手狠起来连自己都骂",
-      "onboard_time": 1761156195,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 18946,
@@ -13457,6 +13457,14 @@
       "onboard_time": 1761071415,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12945,
+      "num": 37692,
+      "word": "特朗普回应被评为全美第三好总统",
+      "onboard_time": 1761160514,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12251,

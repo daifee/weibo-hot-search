@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 02:51:33
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 03:20:28
 </p>
 </blockquote>
 <p>
@@ -9939,6 +9939,12 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E9%9F%B3%E7%BB%BC%E6%AD%8C%E6%89%8B%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%BF%9E%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
+谁家音综歌手狠起来连自己都骂（热度：20789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%20%E7%9C%A0%E6%81%AF%E6%B3%95%23" target="weibo">
 暗河传 眠息法（热度：20602）
 </a>
@@ -9971,12 +9977,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%9A%E4%BF%AF%E5%8D%A7%E6%92%91%23" target="weibo">
 汪苏泷在演唱会做俯卧撑（热度：19082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E9%9F%B3%E7%BB%BC%E6%AD%8C%E6%89%8B%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%BF%9E%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
-谁家音综歌手狠起来连自己都骂（热度：18952）
 </a>
 </li>
 
@@ -10103,6 +10103,12 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%83%A6%E6%81%BC%E4%B9%9F%E8%A2%AB%E5%90%AC%E5%88%B0%E4%BA%86%23" target="weibo">
 小小的烦恼也被听到了（热度：13358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%84%E4%B8%BA%E5%85%A8%E7%BE%8E%E7%AC%AC%E4%B8%89%E5%A5%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+特朗普回应被评为全美第三好总统（热度：12945）
 </a>
 </li>
 
