@@ -1,0 +1,410 @@
+{
+  "runTime": 1761126279393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 626288,
+        "num": 1100206,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470496,
+        "num": 470496,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24796,
+        "num": 470466,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250718,
+        "num": 470023,
+        "word": "负债1亿的王自如坐绿皮火车出差",
+        "onboard_time": 1761109344,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183199,
+        "num": 469370,
+        "word": "BLG支持率",
+        "onboard_time": 1761120082,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302957,
+        "num": 469187,
+        "word": "追回卢浮宫被抢文物的可能性低",
+        "onboard_time": 1761124281,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171361,
+        "num": 468477,
+        "word": "谁家音综声乐导师是全明星阵容啊",
+        "onboard_time": 1761122902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165984,
+        "num": 468155,
+        "word": "改名叫夏冬春吧 剪秋也行",
+        "onboard_time": 1761111800,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165193,
+        "num": 468029,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108183,
+        "num": 467535,
+        "word": "鸿蒙6",
+        "onboard_time": 1761118160,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 314312,
+        "num": 467101,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 10,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 273678,
+        "num": 466767,
+        "word": "女子不慎撞羊被牧民邀请吃羊肉",
+        "onboard_time": 1761119121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219456,
+        "num": 466345,
+        "word": "网红撒盐哥亏损540万英镑",
+        "onboard_time": 1761121341,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187347,
+        "num": 465841,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143105,
+        "num": 465444,
+        "word": "给双一流校长淋去985了",
+        "onboard_time": 1761123802,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 464838,
+        "word": "美国华人社区发生惨案",
+        "onboard_time": 1761125119,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55170,
+        "num": 464614,
+        "word": "入青云",
+        "onboard_time": 1761106762,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58706,
+        "num": 463966,
+        "word": "AI帮助盲人便利出行",
+        "onboard_time": 1761124099,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57390,
+        "num": 463933,
+        "word": "黄金大跌是因为涨太多了",
+        "onboard_time": 1761125720,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 37261,
+        "num": 463489,
+        "word": "升级鸿蒙6流畅度最高提升40%",
+        "onboard_time": 1761122061,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121312,
+        "num": 462775,
+        "word": "吃烤肠和不吃烤肠的都沉默了",
+        "onboard_time": 1761110302,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247203,
+        "num": 462637,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243877,
+        "num": 461987,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233534,
+        "num": 461654,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172441,
+        "num": 461157,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154242,
+        "num": 460720,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121259,
+        "num": 460617,
+        "word": "官方通报女子因开错房掌掴前台被打",
+        "onboard_time": 1761116001,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108156,
+        "num": 459961,
+        "word": "美方已丧失谈判主动权",
+        "onboard_time": 1761123622,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81203,
+        "num": 459669,
+        "word": "满级大佬误入音综新手村",
+        "onboard_time": 1761124879,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78548,
+        "num": 459161,
+        "word": "NBA揭幕战",
+        "onboard_time": 1761126020,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 458896,
+        "word": "韩网友制作胡椒喷雾攻击中国游客",
+        "onboard_time": 1761123680,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186811,
+        "num": 458295,
+        "word": "长城Hi4获科技进步奖特等奖",
+        "onboard_time": 1761125900,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163932,
+        "num": 457846,
+        "word": "京东001号国民车20万人参拍",
+        "onboard_time": 1761124099,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102717,
+        "num": 457519,
+        "word": "原来东北降温是直接速冻",
+        "onboard_time": 1761125900,
+        "rank": 33,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 457116,
+        "word": "他每天赚上千元却不拿一分钱回家",
+        "onboard_time": 1761124639,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109212,
+        "num": 456919,
+        "word": "娄艺潇居然拍短剧了",
+        "onboard_time": 1761122841,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106218,
+        "num": 456269,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76966,
+        "num": 456079,
+        "word": "广州迎下半年来最低气温",
+        "onboard_time": 1761124221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66707,
+        "num": 455585,
+        "word": "我秋装一天没穿",
+        "onboard_time": 1761124341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93107,
+        "num": 455062,
+        "word": "早期胃癌和普通胃病的区别",
+        "onboard_time": 1761105142,
+        "rank": 39,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 90720,
+        "num": 454764,
+        "word": "爸爸去世的第七年收到了他的来信",
+        "onboard_time": 1761108141,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86781,
+        "num": 454331,
+        "word": "王自如仍处限制高消费状态",
+        "onboard_time": 1761125601,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19684,
+        "num": 453998,
+        "word": "鸿蒙加密分享支持仅可查看一次",
+        "onboard_time": 1761122000,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76416,
+        "num": 453573,
+        "word": "胖东来高端研学两天每人收费100万元",
+        "onboard_time": 1761124940,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86356,
+        "num": 452919,
+        "word": "宿舍的汤臣一品",
+        "onboard_time": 1761113900,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84910,
+        "num": 452894,
+        "word": "张真源同学上音综被夸能拿格莱美",
+        "onboard_time": 1761118220,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80645,
+        "num": 452179,
+        "word": "后羿的新皮肤总算配得上嫦娥了",
+        "onboard_time": 1761122961,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75651,
+        "num": 451879,
+        "word": "上海一高校学生反对宿舍空调租赁",
+        "onboard_time": 1761126261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69507,
+        "num": 451449,
+        "word": "秋天冬天反复横跳",
+        "onboard_time": 1761115160,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25162,
+        "num": 451049,
+        "word": "奥恰洛夫心中GOAT是张继科",
+        "onboard_time": 1761122061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
