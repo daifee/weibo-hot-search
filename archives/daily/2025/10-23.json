@@ -1,9 +1,9 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761172568028,
+  "endTime": 1761175370034,
   "band_list": [
     {
-      "raw_hot": 318727,
+      "raw_hot": 356294,
       "num": 662054,
       "word": "女子做美甲咬牙硬扛被疼哭",
       "onboard_time": 1761151757,
@@ -11,12 +11,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231507,
+      "raw_hot": 284855,
       "num": 773777,
       "word": "美国总统叫板美国前总统",
       "onboard_time": 1761138322,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234708,
+      "num": 745956,
+      "word": "国家气候中心回应今冬会更冷吗",
+      "onboard_time": 1761174977,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198100,
@@ -33,6 +41,22 @@
       "onboard_time": 1761144562,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193196,
+      "num": 193196,
+      "word": "霜降",
+      "onboard_time": 1761174737,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172426,
+      "num": 659029,
+      "word": "大雨暴雨大雪暴雪即将上线",
+      "onboard_time": 1761142641,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170232,
@@ -67,12 +91,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139723,
+      "num": 92303,
+      "word": "房东收房发现蓝色瓶子为何惊动警方",
+      "onboard_time": 1761174918,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
       "onboard_time": 1761133160,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133339,
+      "num": 661271,
+      "word": "乌干达发生严重车祸致63死",
+      "onboard_time": 1761131600,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126912,
+      "num": 660437,
+      "word": "女子捐200斤旧衣后收到14岁女孩来信",
+      "onboard_time": 1761143482,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125042,
@@ -83,28 +131,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122684,
-      "num": 660437,
-      "word": "女子捐200斤旧衣后收到14岁女孩来信",
-      "onboard_time": 1761143482,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120215,
       "num": 659216,
       "word": "5类人真的不要染发",
       "onboard_time": 1761146241,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116378,
-      "num": 659029,
-      "word": "大雨暴雨大雪暴雪即将上线",
-      "onboard_time": 1761142641,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115174,
@@ -115,12 +147,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113324,
-      "num": 661271,
-      "word": "乌干达发生严重车祸致63死",
-      "onboard_time": 1761131600,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 114290,
+      "num": 656515,
+      "word": "牛骏峰闷声干大事",
+      "onboard_time": 1761140603,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 110104,
@@ -131,7 +163,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93420,
+      "raw_hot": 102951,
+      "num": 659941,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99236,
+      "num": 656544,
+      "word": "齐齐哈尔高速一SUV开远光逆行",
+      "onboard_time": 1761142341,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97533,
       "num": 662502,
       "word": "网红小影夫妇涉偷税漏税被查处",
       "onboard_time": 1761145223,
@@ -139,12 +187,20 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 93245,
+      "raw_hot": 96997,
       "num": 660262,
       "word": "年轻人为什么不爱喝养乐多了",
       "onboard_time": 1761130761,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95755,
+      "num": 657836,
+      "word": "金价",
+      "onboard_time": 1761138502,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 91328,
@@ -160,30 +216,6 @@
       "word": "一张图片证明你那里有多冷",
       "onboard_time": 1761133341,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80777,
-      "num": 656515,
-      "word": "牛骏峰闷声干大事",
-      "onboard_time": 1761140603,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 78583,
-      "num": 656544,
-      "word": "齐齐哈尔高速一SUV开远光逆行",
-      "onboard_time": 1761142341,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77823,
-      "num": 659941,
-      "word": "老外又带更多老外来中国",
-      "onboard_time": 1761138262,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -211,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69907,
-      "num": 657836,
-      "word": "金价",
-      "onboard_time": 1761138502,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 69020,
       "num": 657736,
       "word": "名创优品80%门店将关闭重开",
@@ -235,6 +259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64691,
+      "num": 655799,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 61911,
+      "num": 653470,
+      "word": "怪不得说肠道是人的第二个大脑",
+      "onboard_time": 1761131000,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61399,
       "num": 656260,
       "word": "全球超13万汽车人将失业",
@@ -249,6 +289,22 @@
       "onboard_time": 1761130221,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58421,
+      "num": 653046,
+      "word": "万豪每桌8千8的婚宴被吐槽预制菜",
+      "onboard_time": 1761142822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57955,
+      "num": 92129,
+      "word": "肠道发出的6个求救信号",
+      "onboard_time": 1761174196,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 55284,
@@ -283,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49041,
-      "num": 655799,
-      "word": "第一眼以为是丑东西切开后惊艳我了",
-      "onboard_time": 1761136761,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 45715,
       "num": 659720,
       "word": "龚俊第一部大男主剧",
@@ -315,15 +363,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43410,
-      "num": 653046,
-      "word": "万豪每桌8千8的婚宴被吐槽预制菜",
-      "onboard_time": 1761142822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40818,
+      "raw_hot": 40834,
       "num": 653336,
       "word": "曝VOGUE盛典拖欠劳务费",
       "onboard_time": 1761134781,
@@ -371,12 +411,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37321,
-      "num": 653470,
-      "word": "怪不得说肠道是人的第二个大脑",
-      "onboard_time": 1761131000,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 36281,
+      "num": 90618,
+      "word": "婴儿车侧翻女子飞扑挽救",
+      "onboard_time": 1761139343,
+      "rank": 46,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 36228,
+      "num": 113134,
+      "word": "捐赠200斤旧衣女子发声",
+      "onboard_time": 1761146542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34056,
+      "num": 90125,
+      "word": "特朗普回应被评为全美第三好总统",
+      "onboard_time": 1761160514,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33943,
@@ -387,12 +443,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 33620,
-      "num": 113134,
-      "word": "捐赠200斤旧衣女子发声",
-      "onboard_time": 1761146542,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 32992,
+      "num": 96401,
+      "word": "谁家音综歌手狠起来连自己都骂",
+      "onboard_time": 1761156195,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 27706,
@@ -435,32 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20789,
-      "num": 51167,
-      "word": "谁家音综歌手狠起来连自己都骂",
-      "onboard_time": 1761156195,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 19731,
-      "num": 43298,
-      "word": "婴儿车侧翻女子飞扑挽救",
-      "onboard_time": 1761139343,
-      "rank": 46,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 19703,
-      "num": 43274,
-      "word": "特朗普回应被评为全美第三好总统",
-      "onboard_time": 1761160514,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17345,
-      "num": 85464,
+      "raw_hot": 22076,
+      "num": 89191,
       "word": "张博恒个人全能84.333分",
       "onboard_time": 1761142523,
       "rank": 49,
@@ -475,7 +507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11189,
+      "raw_hot": 13399,
       "num": 663983,
       "word": "十四五时期的智造轰鸣",
       "onboard_time": 1761141803,
