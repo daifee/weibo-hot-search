@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/22 14:52:31
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/22 15:25:59
 </p>
 </blockquote>
 <p>
@@ -287,6 +287,12 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
 韩国大火中国妈妈隔窗送出孩子后坠亡（热度：845293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%B9%E5%90%8D%E5%8F%AB%E5%A4%8F%E5%86%AC%E6%98%A5%E5%90%A7%20%E5%89%AA%E7%A7%8B%E4%B9%9F%E8%A1%8C%23" target="weibo">
+改名叫夏冬春吧 剪秋也行（热度：809033）
 </a>
 </li>
 
@@ -1089,6 +1095,12 @@ BLG签运（热度：565641）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%B0%86%E6%94%B9%E7%94%A8%E4%B8%89%E8%BD%AE%E8%BD%A6%E8%BF%90%E8%BE%93%E5%A4%A7%E4%BB%B6%E8%B4%A7%E7%89%A9%23" target="weibo">
+山姆将改用三轮车运输大件货物（热度：397760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B9%8C%E9%95%87%23" target="weibo">
 王俊凯乌镇（热度：397704）
 </a>
@@ -1233,6 +1245,12 @@ VOGUE官宣了刘亦菲（热度：376724）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%911%E5%B9%B4%E6%B6%A8%E5%B9%85%E8%B6%8550%25%E9%9D%9E%E5%B8%B8%E4%B8%8D%E6%AD%A3%E5%B8%B8%23" target="weibo">
+专家称黄金1年涨幅超50%非常不正常（热度：368830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23" target="weibo">
 iPhone频繁打错字不是你手残（热度：368575）
 </a>
@@ -1289,12 +1307,6 @@ S15瑞士轮第四轮抽签（热度：363495）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E7%97%94%E7%96%AE%E8%8D%AF%E5%A4%AA%E5%AE%81%E6%A0%93%E6%AD%A3%E5%BC%8F%E6%B3%A8%E9%94%80%23" target="weibo">
 知名痔疮药太宁栓正式注销（热度：362648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%B9%E5%90%8D%E5%8F%AB%E5%A4%8F%E5%86%AC%E6%98%A5%E5%90%A7%20%E5%89%AA%E7%A7%8B%E4%B9%9F%E8%A1%8C%23" target="weibo">
-改名叫夏冬春吧 剪秋也行（热度：359414）
 </a>
 </li>
 
@@ -1661,6 +1673,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81%E8%B0%83%E4%BB%B7%23" target="weibo">
 黄金饰品调价（热度：284898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%9A%84%E6%B1%A4%E8%87%A3%E4%B8%80%E5%93%81%23" target="weibo">
+宿舍的汤臣一品（热度：283853）
 </a>
 </li>
 
@@ -2109,6 +2127,12 @@ Karsa挥手告别（热度：219666）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+iPhone17Pro的受害者出现了（热度：211976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E6%8B%8D%E4%BA%864%E4%B8%AA%E5%8F%A4%E8%A3%85%E7%94%B7%E4%B8%BB3%E9%83%A8%E7%A0%B4%E4%B8%87%E4%BA%86%23" target="weibo">
 刘宇宁 拍了4个古装男主3部破万了（热度：210501）
 </a>
@@ -2303,12 +2327,6 @@ iPhone17pro天猫官旗首次降价（热度：204251）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%8E%92%E9%9D%A2%23" target="weibo">
 迪丽热巴大女主排面（热度：198741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%911%E5%B9%B4%E6%B6%A8%E5%B9%85%E8%B6%8550%25%E9%9D%9E%E5%B8%B8%E4%B8%8D%E6%AD%A3%E5%B8%B8%23" target="weibo">
-专家称黄金1年涨幅超50%非常不正常（热度：198681）
 </a>
 </li>
 
@@ -2511,12 +2529,6 @@ NBA揭幕战就加时（热度：188764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%B0%86%E6%94%B9%E7%94%A8%E4%B8%89%E8%BD%AE%E8%BD%A6%E8%BF%90%E8%BE%93%E5%A4%A7%E4%BB%B6%E8%B4%A7%E7%89%A9%23" target="weibo">
-山姆将改用三轮车运输大件货物（热度：187435）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S15%E5%85%AB%E5%BC%BA%E9%9C%80%E4%B8%A4%E8%BF%9E%E8%83%9C%23" target="weibo">
 BLG晋级S15八强需两连胜（热度：187408）
 </a>
@@ -2573,6 +2585,12 @@ AG战胜TTG（热度：185807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%E8%BF%98%E7%BB%99%E5%86%85%E5%A8%B1%E7%95%99%E4%BA%86%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4%23" target="weibo">
 水龙吟还给内娱留了两天时间（热度：185406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%88%AC%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99%23" target="weibo">
+杨戬三星堆新皮肤爆料（热度：185292）
 </a>
 </li>
 
@@ -2721,12 +2739,6 @@ Crisp给BLG抽个T1吧（热度：181941）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E7%9A%84%E6%B1%A4%E8%87%A3%E4%B8%80%E5%93%81%23" target="weibo">
-宿舍的汤臣一品（热度：175673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%89%BF%E8%AE%A4%E6%B8%B8%E6%88%8F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%B6%85%23" target="weibo">
 韩国承认游戏被中国反超（热度：175663）
 </a>
@@ -2829,6 +2841,12 @@ TTG战胜LGDNBW（热度：174583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%995%E7%BB%88%E7%AB%AF%E8%AE%BE%E5%A4%87%E6%95%B0%E7%AA%81%E7%A0%B42300%E4%B8%87%23" target="weibo">
+鸿蒙5终端设备数突破2300万（热度：170568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E4%B8%80%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E5%BC%80%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8A%E8%B7%AF%23" target="weibo">
 网友拍到一拉布拉多开电动车上路（热度：170510）
 </a>
@@ -2855,6 +2873,12 @@ AL和T1并列LOL战力榜第三（热度：168991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
 四中全会（热度：168839）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E5%B0%B1%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%86%23" target="weibo">
+10月就穿羽绒服了（热度：168557）
 </a>
 </li>
 
@@ -3255,6 +3279,12 @@ LPR（热度：154421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E7%9C%8B%E8%BF%87%E6%9D%A8%E7%B4%AB%E7%8E%B0%E5%9C%BA%E8%8A%B1%E7%B5%AE%23" target="weibo">
+王菊看过杨紫现场花絮（热度：151941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iQOO15%E9%A6%96%E5%8F%91%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80144FPS%23" target="weibo">
 iQOO15首发王者荣耀144FPS（热度：151760）
 </a>
@@ -3471,6 +3501,12 @@ milkyway被曝私联粉丝（热度：144362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E5%BE%92%E5%B2%AD%E9%BB%91%E5%8C%96%23" target="weibo">
+司徒岭黑化（热度：143535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E6%8B%9B%E5%BD%95%E4%BA%BA%E6%95%B0%E8%BE%83%E5%8E%BB%E5%B9%B4%E5%87%8F%E5%B0%9132%25%23" target="weibo">
 广东省考招录人数较去年减少32%（热度：143353）
 </a>
@@ -3647,6 +3683,12 @@ TTG晋级年总败者组第二轮（热度：136605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%9B%BF%E8%A1%A5%E9%97%A8%E5%B0%86%E7%A5%9E%E4%BA%86%23" target="weibo">
 南通替补门将神了（热度：136200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%9B%A0%E5%BC%80%E9%94%99%E6%88%BF%E6%8E%8C%E6%8E%B4%E5%89%8D%E5%8F%B0%E8%A2%AB%E6%89%93%23" target="weibo">
+官方通报女子因开错房掌掴前台被打（热度：136095）
 </a>
 </li>
 
@@ -4089,6 +4131,12 @@ offer主持人专访孟羽童（热度：126442）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%996%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+鸿蒙6发布会（热度：125298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%23" target="weibo">
 欧冠（热度：125233）
 </a>
@@ -4209,12 +4257,6 @@ LPL致敬Karsa（热度：124192）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E5%B0%B1%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%86%23" target="weibo">
-10月就穿羽绒服了（热度：122555）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A%23" target="weibo">
 广东省考公告（热度：122520）
 </a>
@@ -4247,6 +4289,12 @@ LPL致敬Karsa（热度：124192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA10%E4%B8%AA%E6%9C%88%E5%81%9C%E6%B0%B411%E6%AC%A1%E6%9C%80%E9%95%BF%E5%81%9C10%E5%A4%A9%23" target="weibo">
 小区10个月停水11次最长停10天（热度：122050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E9%BE%9A%E4%BF%8A%E4%BD%A0%E5%A6%82%E4%BB%8A%E5%87%A0%E5%B2%81%E4%BA%86%23" target="weibo">
+那英 龚俊你如今几岁了（热度：121526）
 </a>
 </li>
 
@@ -4961,6 +5009,12 @@ iQOO发布会（热度：108997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E8%B4%BC%E6%81%90%E5%BE%88%E9%9A%BE%E9%94%80%E8%B5%83%23" target="weibo">
 卢浮宫窃贼恐很难销赃（热度：107800）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E5%86%AC%E5%A4%A9%E5%8F%8D%E5%A4%8D%E6%A8%AA%E8%B7%B3%23" target="weibo">
+秋天冬天反复横跳（热度：107754）
 </a>
 </li>
 
@@ -6105,6 +6159,12 @@ GEN三名教练离队（热度：93057）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E9%A6%96%E6%AC%BE%E5%8F%AF%E6%8A%98%E5%8F%A0iPad%23" target="weibo">
+苹果将推出首款可折叠iPad（热度：90683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9B%B2%E4%B8%80%E5%93%8D%E7%94%84%E5%AC%9B%E6%9D%A5%E4%BA%86%E5%8F%88%E8%A6%81%E8%BF%87%E6%83%85%E5%85%B3%E4%BA%86%23" target="weibo">
 这曲一响甄嬛来了又要过情关了（热度：90617）
 </a>
@@ -6519,6 +6579,12 @@ F1（热度：84778）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E6%97%A5%E5%89%8D%E5%90%8E%E5%B0%86%E6%9C%89%E6%96%B0%E4%B8%80%E8%82%A1%E5%86%B7%E7%A9%BA%E6%B0%94%23" target="weibo">
+25日前后将有新一股冷空气（热度：84673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%88%9D%E4%B8%8D%E5%88%B02%E4%B8%87%E7%9A%84%E9%87%91%E9%95%AF%E7%8E%B0%E5%8D%963.2%E4%B8%87%23" target="weibo">
 年初不到2万的金镯现卖3.2万（热度：84544）
 </a>
@@ -6765,6 +6831,12 @@ F1（热度：84778）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B11300%E5%81%9A%E4%BA%8614%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%BE%8E%E7%94%B2%23" target="weibo">
+花1300做了14个小时的美甲（热度：80795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%90%88%E4%BD%9C%E8%B5%9B%23" target="weibo">
 喜人奇妙夜2好朋友合作赛（热度：80780）
 </a>
@@ -6875,6 +6947,12 @@ LGDNBW年总遗憾淘汰（热度：79423）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%B0%81%E6%B6%A8%E5%81%9C%23" target="weibo">
 闻泰科技封涨停（热度：78948）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%A0%94%E7%A9%B6%E5%87%BA%E6%9D%A5%E7%9A%84%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%23" target="weibo">
+谁研究出来的奶皮子糖葫芦（热度：78891）
 </a>
 </li>
 
@@ -7059,12 +7137,6 @@ Bin谈被波比单杀（热度：78464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E5%86%AC%E5%A4%A9%E5%8F%8D%E5%A4%8D%E6%A8%AA%E8%B7%B3%23" target="weibo">
-秋天冬天反复横跳（热度：76710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23iQOO15%E9%85%8D%E8%89%B2%23" target="weibo">
 iQOO15配色（热度：76495）
 </a>
@@ -7187,6 +7259,18 @@ Knight称抽T1挺好的（热度：74561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%90%88%23" target="weibo">
 云合（热度：73559）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%BB%99%E9%B1%BC%E8%BF%8755%E5%B2%81%E7%94%9F%E6%97%A5%23" target="weibo">
+村民给鱼过55岁生日（热度：73433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E7%BB%BC%E8%89%BA%E5%9B%9E%E5%BA%94%E6%94%B9%E5%90%8D%E4%BA%89%E8%AE%AE%23" target="weibo">
+者来女综艺回应改名争议（热度：73386）
 </a>
 </li>
 
@@ -7467,6 +7551,12 @@ Shad0w 我们会从地狱归来的（热度：69224）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E6%8A%A2%E5%8A%AB%E6%A1%88%E6%88%96%E6%B6%89%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%23" target="weibo">
+卢浮宫抢劫案或涉内部人员（热度：67455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%8F%91%E8%A8%80%E6%83%8A%E5%91%86%E4%BA%B2%E5%8F%8B%23" target="weibo">
 新郎新娘发言惊呆亲友（热度：66946）
 </a>
@@ -7491,6 +7581,12 @@ Shad0w 我们会从地狱归来的（热度：69224）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E9%83%A8%E7%BE%A4%E5%83%8F%E5%89%A7%E6%9D%A5%E4%BA%86%23" target="weibo">
+秋天的第一部群像剧来了（热度：66013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E5%9B%9E%E5%BA%94%E5%8C%96%E5%A6%86%E5%AE%A4%E5%9C%A8%E9%A9%AC%E5%9C%88%E9%87%8C%23" target="weibo">
 VOGUE回应化妆室在马圈里（热度：65940）
 </a>
@@ -7505,6 +7601,12 @@ VOGUE回应化妆室在马圈里（热度：65940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E4%B9%9F%E6%9B%BE%E5%9C%A8%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%81%AD%E7%AA%83%23" target="weibo">
 蒙娜丽莎也曾在卢浮宫遭窃（热度：65808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%95%E6%97%A9%E6%9C%9F%E7%94%A8%E7%94%B5%E7%83%AD%E6%AF%AF%E5%AD%A9%E5%AD%90%E9%99%A9%E7%94%B5%E6%B2%A1%23" target="weibo">
+女子孕早期用电热毯孩子险电没（热度：65751）
 </a>
 </li>
 

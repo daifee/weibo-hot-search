@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761115951558,
+  "endTime": 1761117959982,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1030499,
-      "num": 301543,
+      "num": 302224,
       "word": "冰岛首次发现蚊子",
       "onboard_time": 1761098600,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 809033,
+      "num": 1129445,
+      "word": "改名叫夏冬春吧 剪秋也行",
+      "onboard_time": 1761111800,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 729868,
@@ -123,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397760,
+      "num": 369719,
+      "word": "山姆将改用三轮车运输大件货物",
+      "onboard_time": 1761112642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396760,
       "num": 396760,
       "word": "吃烤肠和不吃烤肠的都沉默了",
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368830,
+      "num": 368830,
+      "word": "专家称黄金1年涨幅超50%非常不正常",
+      "onboard_time": 1761114381,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 365197,
       "num": 206680,
       "word": "男子发现打工养了20年的儿子非亲生",
@@ -177,14 +201,6 @@
       "onboard_time": 1761058462,
       "rank": 0,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 359414,
-      "num": 1057506,
-      "word": "改名叫夏冬春吧 剪秋也行",
-      "onboard_time": 1761111800,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358155,
@@ -241,6 +257,14 @@
       "onboard_time": 1761092420,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 283853,
+      "num": 283853,
+      "word": "宿舍的汤臣一品",
+      "onboard_time": 1761113900,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 281512,
@@ -355,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211976,
+      "num": 211976,
+      "word": "iPhone17Pro的受害者出现了",
+      "onboard_time": 1761116960,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207780,
       "num": 167278,
       "word": "娄艺潇用胡一菲的台词回应拍短剧",
@@ -377,14 +409,6 @@
       "onboard_time": 1761102861,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198681,
-      "num": 198681,
-      "word": "专家称黄金1年涨幅超50%非常不正常",
-      "onboard_time": 1761114381,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 196819,
@@ -427,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187435,
-      "num": 187435,
-      "word": "山姆将改用三轮车运输大件货物",
-      "onboard_time": 1761112642,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187408,
       "num": 514060,
       "word": "BLG晋级S15八强需两连胜",
@@ -465,6 +481,14 @@
       "onboard_time": 1761104180,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185292,
+      "num": 383255,
+      "word": "杨戬三星堆新皮肤爆料",
+      "onboard_time": 1761117020,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 185180,
@@ -515,12 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175673,
-      "num": 175673,
-      "word": "宿舍的汤臣一品",
-      "onboard_time": 1761113900,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 170568,
+      "num": 381328,
+      "word": "鸿蒙5终端设备数突破2300万",
+      "onboard_time": 1761117320,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 168557,
+      "num": 463827,
+      "word": "10月就穿羽绒服了",
+      "onboard_time": 1761112642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167522,
@@ -659,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "王菊看过杨紫现场花絮",
+      "onboard_time": 1761116422,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151444,
       "num": 176097,
       "word": "台湾名嘴赖岳谦说期待两岸统一",
@@ -731,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143535,
+      "num": 372394,
+      "word": "司徒岭黑化",
+      "onboard_time": 1761116481,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142298,
       "num": 145519,
       "word": "藏海传飙升值185%",
@@ -761,6 +809,14 @@
       "onboard_time": 1761107121,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136095,
+      "num": 136095,
+      "word": "官方通报女子因开错房掌掴前台被打",
+      "onboard_time": 1761116001,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 132136,
@@ -803,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125298,
+      "num": 125298,
+      "word": "鸿蒙6发布会",
+      "onboard_time": 1761116180,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "欧冠",
@@ -835,20 +899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122555,
-      "num": 463827,
-      "word": "10月就穿羽绒服了",
-      "onboard_time": 1761112642,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122334,
       "num": 122334,
       "word": "台湾光复是抗战胜利的重要成果",
       "onboard_time": 1761101781,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121526,
+      "num": 121526,
+      "word": "那英 龚俊你如今几岁了",
+      "onboard_time": 1761116060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 121165,
@@ -1001,6 +1065,14 @@
       "onboard_time": 1761105262,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107754,
+      "num": 137208,
+      "word": "秋天冬天反复横跳",
+      "onboard_time": 1761115160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107589,
@@ -1163,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "苹果将推出首款可折叠iPad",
+      "onboard_time": 1761116481,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88818,
       "num": 88818,
       "word": "俄士兵背负战友遗体12天",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1761072854,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84673,
+      "num": 132460,
+      "word": "25日前后将有新一股冷空气",
+      "onboard_time": 1761117020,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83814,
@@ -1251,6 +1339,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80795,
+      "num": 80795,
+      "word": "花1300做了14个小时的美甲",
+      "onboard_time": 1761117861,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 80780,
       "num": 80780,
       "word": "喜人奇妙夜2好朋友合作赛",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1761111321,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 78891,
+      "num": 78891,
+      "word": "谁研究出来的奶皮子糖葫芦",
+      "onboard_time": 1761117441,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 78695,
@@ -1347,14 +1451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76710,
-      "num": 137208,
-      "word": "秋天冬天反复横跳",
-      "onboard_time": 1761115160,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76102,
       "num": 76102,
       "word": "原神千星奇域",
@@ -1393,6 +1489,22 @@
       "onboard_time": 1761103821,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73433,
+      "num": 73433,
+      "word": "村民给鱼过55岁生日",
+      "onboard_time": 1761116841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73386,
+      "num": 73386,
+      "word": "者来女综艺回应改名争议",
+      "onboard_time": 1761117920,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 72875,
@@ -1473,6 +1585,30 @@
       "onboard_time": 1761085875,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67455,
+      "num": 67455,
+      "word": "卢浮宫抢劫案或涉内部人员",
+      "onboard_time": 1761116241,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66013,
+      "num": 132080,
+      "word": "秋天的第一部群像剧来了",
+      "onboard_time": 1761116601,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65751,
+      "num": 91752,
+      "word": "女子孕早期用电热毯孩子险电没",
+      "onboard_time": 1761117260,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64757,

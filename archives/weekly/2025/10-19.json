@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761115951558,
+  "endTime": 1761117959982,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1030499,
-      "num": 301543,
+      "num": 302224,
       "word": "冰岛首次发现蚊子",
       "onboard_time": 1761098600,
       "rank": 13,
@@ -369,6 +369,14 @@
       "onboard_time": 1761040941,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 809033,
+      "num": 1129445,
+      "word": "改名叫夏冬春吧 剪秋也行",
+      "onboard_time": 1761111800,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808731,
@@ -1435,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397760,
+      "num": 369719,
+      "word": "山姆将改用三轮车运输大件货物",
+      "onboard_time": 1761112642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397704,
       "num": 379725,
       "word": "王俊凯乌镇",
@@ -1627,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368830,
+      "num": 368830,
+      "word": "专家称黄金1年涨幅超50%非常不正常",
+      "onboard_time": 1761114381,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 368575,
       "num": 368575,
       "word": "iPhone频繁打错字不是你手残",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1761058462,
       "rank": 8,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 359414,
-      "num": 1057506,
-      "word": "改名叫夏冬春吧 剪秋也行",
-      "onboard_time": 1761111800,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356984,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1760960300,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283853,
+      "num": 283853,
+      "word": "宿舍的汤臣一品",
+      "onboard_time": 1761113900,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 283303,
@@ -2795,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211976,
+      "num": 211976,
+      "word": "iPhone17Pro的受害者出现了",
+      "onboard_time": 1761116960,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 210501,
       "num": 1277648,
       "word": "刘宇宁 拍了4个古装男主3部破万了",
@@ -3057,14 +3089,6 @@
       "onboard_time": 1760933661,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198681,
-      "num": 198681,
-      "word": "专家称黄金1年涨幅超50%非常不正常",
-      "onboard_time": 1761114381,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 197685,
@@ -3331,14 +3355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 187435,
-      "num": 187435,
-      "word": "山姆将改用三轮车运输大件货物",
-      "onboard_time": 1761112642,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187408,
       "num": 514060,
       "word": "BLG晋级S15八强需两连胜",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1761104180,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185292,
+      "num": 383255,
+      "word": "杨戬三星堆新皮肤爆料",
+      "onboard_time": 1761117020,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 185180,
@@ -3611,14 +3635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175673,
-      "num": 175673,
-      "word": "宿舍的汤臣一品",
-      "onboard_time": 1761113900,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175663,
       "num": 1267657,
       "word": "韩国承认游戏被中国反超",
@@ -3755,6 +3771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170568,
+      "num": 381328,
+      "word": "鸿蒙5终端设备数突破2300万",
+      "onboard_time": 1761117320,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170510,
       "num": 170510,
       "word": "网友拍到一拉布拉多开电动车上路",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1760948660,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168557,
+      "num": 463827,
+      "word": "10月就穿羽绒服了",
+      "onboard_time": 1761112642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168486,
@@ -4323,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151941,
+      "num": 151941,
+      "word": "王菊看过杨紫现场花絮",
+      "onboard_time": 1761116422,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151760,
       "num": 416301,
       "word": "iQOO15首发王者荣耀144FPS",
@@ -4611,6 +4651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143535,
+      "num": 372394,
+      "word": "司徒岭黑化",
+      "onboard_time": 1761116481,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143353,
       "num": 121832,
       "word": "广东省考招录人数较去年减少32%",
@@ -4849,6 +4897,14 @@
       "onboard_time": 1760884463,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136095,
+      "num": 136095,
+      "word": "官方通报女子因开错房掌掴前台被打",
+      "onboard_time": 1761116001,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135856,
@@ -5435,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125298,
+      "num": 125298,
+      "word": "鸿蒙6发布会",
+      "onboard_time": 1761116180,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125233,
       "num": 125233,
       "word": "欧冠",
@@ -5595,14 +5659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122555,
-      "num": 463827,
-      "word": "10月就穿羽绒服了",
-      "onboard_time": 1761112642,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122520,
       "num": 122520,
       "word": "广东省考公告",
@@ -5649,6 +5705,14 @@
       "onboard_time": 1760847620,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121526,
+      "num": 121526,
+      "word": "那英 龚俊你如今几岁了",
+      "onboard_time": 1761116060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 121429,
@@ -6601,6 +6665,14 @@
       "onboard_time": 1760889021,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107754,
+      "num": 137208,
+      "word": "秋天冬天反复横跳",
+      "onboard_time": 1761115160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107634,
@@ -8123,6 +8195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90683,
+      "num": 90683,
+      "word": "苹果将推出首款可折叠iPad",
+      "onboard_time": 1761116481,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90617,
       "num": 90617,
       "word": "这曲一响甄嬛来了又要过情关了",
@@ -8675,6 +8755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84673,
+      "num": 132460,
+      "word": "25日前后将有新一股冷空气",
+      "onboard_time": 1761117020,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84544,
       "num": 208812,
       "word": "年初不到2万的金镯现卖3.2万",
@@ -9003,6 +9091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80795,
+      "num": 80795,
+      "word": "花1300做了14个小时的美甲",
+      "onboard_time": 1761117861,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 80780,
       "num": 80780,
       "word": "喜人奇妙夜2好朋友合作赛",
@@ -9153,6 +9249,14 @@
       "onboard_time": 1761037822,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78891,
+      "num": 78891,
+      "word": "谁研究出来的奶皮子糖葫芦",
+      "onboard_time": 1761117441,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 78695,
@@ -9395,14 +9499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76710,
-      "num": 137208,
-      "word": "秋天冬天反复横跳",
-      "onboard_time": 1761115160,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76495,
       "num": 173866,
       "word": "iQOO15配色",
@@ -9569,6 +9665,22 @@
       "onboard_time": 1761037522,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73433,
+      "num": 73433,
+      "word": "村民给鱼过55岁生日",
+      "onboard_time": 1761116841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73386,
+      "num": 73386,
+      "word": "者来女综艺回应改名争议",
+      "onboard_time": 1761117920,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 73379,
@@ -9939,6 +10051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67455,
+      "num": 67455,
+      "word": "卢浮宫抢劫案或涉内部人员",
+      "onboard_time": 1761116241,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66946,
       "num": 64411,
       "word": "新郎新娘发言惊呆亲友",
@@ -9971,6 +10091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66013,
+      "num": 132080,
+      "word": "秋天的第一部群像剧来了",
+      "onboard_time": 1761116601,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65940,
       "num": 82797,
       "word": "VOGUE回应化妆室在马圈里",
@@ -9993,6 +10121,14 @@
       "onboard_time": 1760973321,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65751,
+      "num": 91752,
+      "word": "女子孕早期用电热毯孩子险电没",
+      "onboard_time": 1761117260,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65666,
