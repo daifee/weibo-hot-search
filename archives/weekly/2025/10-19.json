@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761123026766,
+  "endTime": 1761125459531,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -865,6 +865,14 @@
       "onboard_time": 1760799203,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540804,
+      "num": 1086528,
+      "word": "中方回应朝鲜发射多枚弹道导弹",
+      "onboard_time": 1761122661,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 539588,
@@ -1739,6 +1747,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 358376,
+      "num": 199758,
+      "word": "女子不慎撞羊被牧民邀请吃羊肉",
+      "onboard_time": 1761119121,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356984,
       "num": 1288601,
       "word": "刘冲回应VOGUE阵容",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1761013760,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347808,
-      "num": 190132,
-      "word": "女子不慎撞羊被牧民邀请吃羊肉",
-      "onboard_time": 1761119121,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346067,
@@ -1993,6 +2001,14 @@
       "onboard_time": 1761048501,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312132,
+      "num": 198350,
+      "word": "金价这轮会跌多久",
+      "onboard_time": 1761119480,
+      "rank": 11,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 308991,
@@ -2249,14 +2265,6 @@
       "onboard_time": 1760942721,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282759,
-      "num": 190116,
-      "word": "金价这轮会跌多久",
-      "onboard_time": 1761119480,
-      "rank": 11,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 281655,
@@ -2851,6 +2859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213986,
+      "num": 196294,
+      "word": "名创优品80%门店将关闭重开",
+      "onboard_time": 1761122902,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212230,
       "num": 224395,
       "word": "吴石将军之子大学档案展出",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1761102861,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205980,
+      "num": 205980,
+      "word": "BLG支持率",
+      "onboard_time": 1761120082,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 204637,
@@ -3307,14 +3331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191893,
-      "num": 191893,
-      "word": "BLG支持率",
-      "onboard_time": 1761120082,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "陈钰琪金吾不禁官宣",
@@ -3356,7 +3372,7 @@
     },
     {
       "raw_hot": 190065,
-      "num": 131595,
+      "num": 180483,
       "word": "第一次见四平台加央视一起播的剧",
       "onboard_time": 1761122902,
       "rank": 23,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1760976021,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186914,
+      "num": 175346,
+      "word": "韩网友制作胡椒喷雾攻击中国游客",
+      "onboard_time": 1761123680,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186440,
@@ -3579,6 +3603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 182202,
+      "num": 197581,
+      "word": "网红撒盐哥亏损540万英镑",
+      "onboard_time": 1761121341,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181975,
       "num": 673259,
       "word": "入冬",
@@ -3707,6 +3739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175292,
+      "num": 175292,
+      "word": "京东001号国民车20万人参拍",
+      "onboard_time": 1761124099,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 175025,
       "num": 411234,
       "word": "JDG对战KSG",
@@ -3761,6 +3801,14 @@
       "onboard_time": 1761040822,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173316,
+      "num": 197328,
+      "word": "谁家音综声乐导师是全明星阵容啊",
+      "onboard_time": 1761122902,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 173239,
@@ -3913,6 +3961,14 @@
       "onboard_time": 1761032541,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167543,
+      "num": 202552,
+      "word": "追回卢浮宫被抢文物的可能性低",
+      "onboard_time": 1761124281,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 167522,
@@ -4515,14 +4571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 150403,
-      "num": 189762,
-      "word": "网红撒盐哥亏损540万英镑",
-      "onboard_time": 1761121341,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150302,
       "num": 145131,
       "word": "2025共创之夜全阵容海报",
@@ -5017,14 +5065,6 @@
       "onboard_time": 1760850141,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134764,
-      "num": 134764,
-      "word": "中方回应朝鲜发射多枚弹道导弹",
-      "onboard_time": 1761122661,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134749,
@@ -5627,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124325,
+      "num": 180128,
+      "word": "给双一流校长淋去985了",
+      "onboard_time": 1761123802,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124305,
       "num": 124305,
       "word": "王影璐偏偏你最争气",
@@ -5907,14 +5955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119444,
-      "num": 119444,
-      "word": "谁家音综声乐导师是全明星阵容啊",
-      "onboard_time": 1761122902,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119356,
       "num": 1244739,
       "word": "王曼昱全运会单项大满贯",
@@ -5961,6 +6001,14 @@
       "onboard_time": 1760876301,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118740,
+      "num": 201307,
+      "word": "美方已丧失谈判主动权",
+      "onboard_time": 1761123622,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118737,
@@ -6321,6 +6369,14 @@
       "onboard_time": 1760854400,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 113035,
+      "num": 178808,
+      "word": "娄艺潇居然拍短剧了",
+      "onboard_time": 1761122841,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112998,
@@ -6756,7 +6812,7 @@
     },
     {
       "raw_hot": 108441,
-      "num": 190148,
+      "num": 196658,
       "word": "升级鸿蒙6流畅度最高提升40%",
       "onboard_time": 1761122061,
       "rank": 9,
@@ -7305,6 +7361,14 @@
       "onboard_time": 1760945422,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101999,
+      "num": 196722,
+      "word": "我秋装一天没穿",
+      "onboard_time": 1761124341,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101983,
@@ -8819,6 +8883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85995,
+      "num": 174924,
+      "word": "广州迎下半年来最低气温",
+      "onboard_time": 1761124221,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85979,
       "num": 189704,
       "word": "石凯 走心了",
@@ -9147,6 +9219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82070,
+      "num": 177779,
+      "word": "满级大佬误入音综新手村",
+      "onboard_time": 1761124879,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82060,
       "num": 189617,
       "word": "当年为了接近你 我撒了很多谎",
@@ -9257,14 +9337,6 @@
       "onboard_time": 1761044541,
       "rank": 47,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 81200,
-      "num": 81200,
-      "word": "名创优品80%门店将关闭重开",
-      "onboard_time": 1761122902,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81174,
@@ -9564,7 +9636,7 @@
     },
     {
       "raw_hot": 77967,
-      "num": 77967,
+      "num": 174111,
       "word": "后羿的新皮肤总算配得上嫦娥了",
       "onboard_time": 1761122961,
       "rank": 46,
@@ -9689,6 +9761,14 @@
       "onboard_time": 1760838559,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77001,
+      "num": 174628,
+      "word": "他每天赚上千元却不拿一分钱回家",
+      "onboard_time": 1761124639,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 76975,
@@ -9819,6 +9899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75299,
+      "num": 174491,
+      "word": "分娩镇痛普及率仅30%",
+      "onboard_time": 1761125061,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75271,
       "num": 261577,
       "word": "盗窃者伪装成施工人员进卢浮宫",
@@ -9889,14 +9977,6 @@
       "onboard_time": 1761103821,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 73918,
-      "num": 73918,
-      "word": "娄艺潇居然拍短剧了",
-      "onboard_time": 1761122841,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 73559,
@@ -9985,6 +10065,14 @@
       "onboard_time": 1761056602,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 72694,
+      "num": 174345,
+      "word": "喜欢一个人就是会觉得他好可爱",
+      "onboard_time": 1761123441,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 72569,
@@ -10129,6 +10217,14 @@
       "onboard_time": 1761110361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70338,
+      "num": 174803,
+      "word": "美国华人社区发生惨案",
+      "onboard_time": 1761125119,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70247,
@@ -10305,6 +10401,14 @@
       "onboard_time": 1761024200,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67515,
+      "num": 174245,
+      "word": "美一客机飞行时驾驶舱传出敲门声",
+      "onboard_time": 1761120741,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67455,
@@ -10553,6 +10657,14 @@
       "onboard_time": 1761011540,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 61984,
+      "num": 174906,
+      "word": "胖东来高端研学两天每人收费100万元",
+      "onboard_time": 1761124940,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61965,
@@ -11043,6 +11155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48771,
+      "num": 196922,
+      "word": "AI帮助盲人便利出行",
+      "onboard_time": 1761124099,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48020,
       "num": 48020,
       "word": "为什么荷兰抢劫行为必须得到惩罚",
@@ -11299,6 +11419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40271,
+      "num": 176324,
+      "word": "河南农民刚经历罕见干旱又遭遇秋涝",
+      "onboard_time": 1761123680,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40145,
       "num": 741245,
       "word": "礼遇季每小时抽1111元",
@@ -11492,7 +11620,7 @@
     },
     {
       "raw_hot": 35196,
-      "num": 176169,
+      "num": 272702,
       "word": "党的二十届四中全会",
       "onboard_time": 1761107002,
       "rank": 30,

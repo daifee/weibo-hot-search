@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 16:50:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 17:30:59
 </p>
 </blockquote>
 <p>
@@ -5181,6 +5181,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23" target="weibo">
+中方回应朝鲜发射多枚弹道导弹（热度：540804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%B0%8F%E6%97%B6%E5%80%99%E7%9D%A1%E8%BF%87%E8%A7%89%E5%90%97%23" target="weibo">
 张婧仪小时候睡过觉吗（热度：540779）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E9%9A%8F%E4%BE%BF%E7%94%A8%23" target="weibo">
 红霉素软膏千万不能随便用（热度：494702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B84.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-云南鲁甸4.4级地震（热度：494192）
 </a>
 </li>
 
