@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761110788943,
+  "endTime": 1761111776283,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634507,
+      "num": 222319,
+      "word": "负债1亿的王自如坐绿皮火车出差",
+      "onboard_time": 1761109344,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 603748,
       "num": 244184,
       "word": "中国女子盗窃法国博物馆12斤金块",
@@ -75,12 +83,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 459459,
-      "num": 204268,
-      "word": "负债1亿的王自如坐绿皮火车出差",
-      "onboard_time": 1761109344,
-      "rank": 3,
-      "category": "互联网"
+      "raw_hot": 477800,
+      "num": 149797,
+      "word": "红霉素软膏千万不能随便用",
+      "onboard_time": 1761108803,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 449208,
@@ -99,15 +107,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 420333,
-      "num": 149797,
-      "word": "红霉素软膏千万不能随便用",
-      "onboard_time": 1761108803,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 397698,
+      "raw_hot": 409347,
       "num": 234592,
       "word": "韩国越南网友疯狂互嘲",
       "onboard_time": 1761106941,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238886,
+      "num": 149662,
+      "word": "爸爸去世的第七年收到了他的来信",
+      "onboard_time": 1761108141,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231831,
       "num": 119253,
       "word": "男友去世女子生下遗腹子想要赔偿款",
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207207,
+      "num": 148587,
+      "word": "前妻回应男子养了20年的儿子非亲生",
+      "onboard_time": 1761111261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206998,
       "num": 252590,
       "word": "杜兰特差点给火箭叫没了",
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198559,
-      "num": 145460,
-      "word": "爸爸去世的第七年收到了他的来信",
-      "onboard_time": 1761108141,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196819,
       "num": 196819,
       "word": "龙凤胎眼睛差距有多大",
@@ -361,6 +369,14 @@
       "onboard_time": 1761062900,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194048,
+      "num": 194048,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1761109761,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 190531,
@@ -443,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168169,
-      "num": 168169,
-      "word": "勇士战胜湖人",
-      "onboard_time": 1761109761,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167522,
       "num": 151582,
       "word": "买了漂亮衣服但不穿的原因",
       "onboard_time": 1761104242,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166513,
+      "num": 128275,
+      "word": "吃烤肠和不吃烤肠的都沉默了",
+      "onboard_time": 1761110302,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 164456,
@@ -691,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127442,
-      "num": 127442,
-      "word": "吃烤肠和不吃烤肠的都沉默了",
-      "onboard_time": 1761110302,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 128242,
+      "num": 128242,
+      "word": "Rita说今年真的有希望",
+      "onboard_time": 1761111622,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 126442,
@@ -729,6 +745,14 @@
       "onboard_time": 1761108022,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122578,
+      "num": 125040,
+      "word": "金晨 脑子没长长了胡子",
+      "onboard_time": 1761111202,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 122334,
@@ -795,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114844,
+      "num": 114844,
+      "word": "金价暴跌有金店连夜降价",
+      "onboard_time": 1761110241,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112407,
       "num": 112407,
       "word": "卢浮宫被抢珠宝价值超7.2亿元",
@@ -827,8 +859,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110667,
+      "num": 110667,
+      "word": "成毅李一桐天地剑心地广",
+      "onboard_time": 1761108383,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110313,
-      "num": 110313,
+      "num": 114432,
       "word": "卢浮宫文物失窃后哪些问题值得关注",
       "onboard_time": 1761107902,
       "rank": 43,
@@ -841,6 +881,14 @@
       "onboard_time": 1761107543,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 110026,
+      "num": 163154,
+      "word": "国台办回应特朗普涉台湾言论",
+      "onboard_time": 1761109462,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109035,
@@ -880,6 +928,14 @@
       "word": "突然明白心理咨询师为什么贵了",
       "onboard_time": 1761059183,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105281,
+      "num": 105281,
+      "word": "恶语伤咪心",
+      "onboard_time": 1761110002,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -947,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97507,
-      "num": 97507,
-      "word": "金价暴跌有金店连夜降价",
-      "onboard_time": 1761110241,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 97088,
       "num": 97088,
       "word": "S15休赛期终于结束了",
@@ -1003,28 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88993,
-      "num": 88993,
-      "word": "成毅李一桐天地剑心地广",
-      "onboard_time": 1761108383,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88818,
       "num": 88818,
       "word": "俄士兵背负战友遗体12天",
       "onboard_time": 1761097341,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 87512,
-      "num": 87512,
-      "word": "恶语伤咪心",
-      "onboard_time": 1761110002,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 86883,
@@ -1203,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70461,
+      "num": 87484,
+      "word": "东契奇掉的秤都长得分上了",
+      "onboard_time": 1761110361,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70247,
       "num": 76123,
       "word": "柚子全家还真是满门忠烈",
@@ -1291,6 +1331,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 49771,
+      "num": 144795,
+      "word": "好羽绒服凭什么不能大众价",
+      "onboard_time": 1761111321,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48122,
       "num": 117296,
       "word": "花少7对讲机接通的那一刻",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1761035841,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 45361,
-      "num": 163154,
-      "word": "国台办回应特朗普涉台湾言论",
-      "onboard_time": 1761109462,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45213,
@@ -1483,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32322,
+      "num": 114281,
+      "word": "BLG晋级S15八强需两连胜",
+      "onboard_time": 1761111202,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 29247,
       "num": 84362,
       "word": "2026年国考报名人数超百万",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1761066497,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16971,
+      "num": 114298,
+      "word": "龚俊侯明昊特别出演",
+      "onboard_time": 1761111622,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 14851,

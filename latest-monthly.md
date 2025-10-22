@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 13:26:28
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 13:42:56
 </p>
 </blockquote>
 <p>
@@ -3999,6 +3999,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9F%E5%80%BA1%E4%BA%BF%E7%9A%84%E7%8E%8B%E8%87%AA%E5%A6%82%E5%9D%90%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E5%87%BA%E5%B7%AE%23" target="weibo">
+负债1亿的王自如坐绿皮火车出差（热度：634507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%AF%AF%E6%8A%8A%E6%B2%B9%E5%BD%93%E9%A5%AE%E6%96%99%E5%8D%96%E5%A5%BD%E5%A5%87%E5%92%8B%E6%B2%A1%E4%BA%BA%E6%89%BE%23" target="weibo">
 老板误把油当饮料卖好奇咋没人找（热度：634182）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%B2%E5%88%B0%E5%AE%B6%E5%90%83%E4%B8%8A%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
 杨幂已到家吃上豆腐脑了（热度：492607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%812%E4%B8%87%E4%BA%BA%E5%8F%A3%E5%B0%8F%E5%B2%9B%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A0%B5%E8%BD%A6%23" target="weibo">
-挪威2万人口小岛因中国游客堵车（热度：492489）
 </a>
 </li>
 
