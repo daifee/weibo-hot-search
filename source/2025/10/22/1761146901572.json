@@ -1,0 +1,410 @@
+{
+  "runTime": 1761146901572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413769,
+        "num": 1066203,
+        "word": "美国总统叫板美国前总统",
+        "onboard_time": 1761138322,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327508,
+        "num": 327508,
+        "word": "原来羽绒服里少穿比多穿更暖和",
+        "onboard_time": 1761138262,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27956,
+        "num": 311944,
+        "word": "十四五时期的智造轰鸣",
+        "onboard_time": 1761141803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301592,
+        "num": 301592,
+        "word": "无畏哭了",
+        "onboard_time": 1761140002,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221832,
+        "num": 221832,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1761138741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23884,
+        "num": 221763,
+        "word": "火箭是怎么运输的",
+        "onboard_time": 1761118701,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254761,
+        "num": 221345,
+        "word": "闲鱼回应平台出现卢浮宫珠宝",
+        "onboard_time": 1761135202,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 760856,
+        "num": 221189,
+        "word": "陈奕恒新歌hurts",
+        "onboard_time": 1761144742,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179421,
+        "num": 220851,
+        "word": "张博恒世锦赛全能银牌",
+        "onboard_time": 1761141203,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 220660,
+        "word": "一张图片证明你那里有多冷",
+        "onboard_time": 1761133341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380507,
+        "num": 220486,
+        "word": "一小区23部电梯的钢绳遭人为切割",
+        "onboard_time": 1761144742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273581,
+        "num": 220168,
+        "word": "齐齐哈尔高速一SUV开远光逆行",
+        "onboard_time": 1761142341,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257154,
+        "num": 219965,
+        "word": "女子捐200斤旧衣后收到14岁女孩来信",
+        "onboard_time": 1761143482,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256308,
+        "num": 219668,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1761133160,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156261,
+        "num": 219285,
+        "word": "余生有涯",
+        "onboard_time": 1761143422,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208619,
+        "num": 219146,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159798,
+        "num": 218708,
+        "word": "Doinb回应小天",
+        "onboard_time": 1761138080,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84113,
+        "num": 218524,
+        "word": "常华森特别出演天地剑心",
+        "onboard_time": 1761140242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76248,
+        "num": 218372,
+        "word": "网红小影夫妇涉偷税漏税被查处",
+        "onboard_time": 1761145223,
+        "rank": 18,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 67154,
+        "num": 217894,
+        "word": "龚俊第一部大男主剧",
+        "onboard_time": 1761132201,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262091,
+        "num": 217763,
+        "word": "大雨暴雨大雪暴雪即将上线",
+        "onboard_time": 1761142641,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127301,
+        "num": 217448,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160068,
+        "num": 217343,
+        "word": "金价",
+        "onboard_time": 1761138502,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155597,
+        "num": 216971,
+        "word": "牛骏峰闷声干大事",
+        "onboard_time": 1761140603,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144283,
+        "num": 216809,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1761140962,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107724,
+        "num": 216542,
+        "word": "宠物店起火宠物无一生还",
+        "onboard_time": 1761135622,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101018,
+        "num": 216075,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97661,
+        "num": 215792,
+        "word": "余生有涯大结局好好哭",
+        "onboard_time": 1761145281,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71979,
+        "num": 215615,
+        "word": "老外又带更多老外来中国",
+        "onboard_time": 1761138262,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39074,
+        "num": 215389,
+        "word": "加奈那一部剧开播一部剧定档",
+        "onboard_time": 1761144502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215231,
+        "num": 215231,
+        "word": "5类人真的不要染发",
+        "onboard_time": 1761146241,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90109,
+        "num": 215227,
+        "word": "全球超13万汽车人将失业",
+        "onboard_time": 1761139343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90103,
+        "num": 215226,
+        "word": "印度七旬老人假死测试谁关心他",
+        "onboard_time": 1761144562,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86092,
+        "num": 215221,
+        "word": "万豪每桌8千8的婚宴被吐槽预制菜",
+        "onboard_time": 1761142822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80119,
+        "num": 215216,
+        "word": "第一次感受到藏马熊的恐怖",
+        "onboard_time": 1761134902,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80080,
+        "num": 215215,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76699,
+        "num": 215211,
+        "word": "警方回应马疑被无人机利箭射死",
+        "onboard_time": 1761146600,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75466,
+        "num": 215204,
+        "word": "但凡在吃药就尽量别吃柚子",
+        "onboard_time": 1761140302,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75369,
+        "num": 215202,
+        "word": "曝VOGUE盛典拖欠劳务费",
+        "onboard_time": 1761134781,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 59683,
+        "num": 215196,
+        "word": "郎平与女排功勋主帅再聚",
+        "onboard_time": 1761146780,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71847,
+        "num": 215193,
+        "word": "婴儿车侧翻女子飞扑挽救",
+        "onboard_time": 1761139343,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69646,
+        "num": 215190,
+        "word": "挑选羽绒服时按照这4步",
+        "onboard_time": 1761145941,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 69340,
+        "num": 215184,
+        "word": "捐赠200斤旧衣女子发声",
+        "onboard_time": 1761146542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68941,
+        "num": 215183,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56857,
+        "num": 215178,
+        "word": "桥本大辉世锦赛摘金",
+        "onboard_time": 1761144622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67138,
+        "num": 215172,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 59561,
+        "num": 215171,
+        "word": "网购二手相机却收到1公斤银条",
+        "onboard_time": 1761146362,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59375,
+        "num": 215165,
+        "word": "杭州长夏无秋女装店家纷纷转行",
+        "onboard_time": 1761144802,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59171,
+        "num": 215162,
+        "word": "2岁男童被充气城堡刮飞",
+        "onboard_time": 1761143842,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53134,
+        "num": 215158,
+        "word": "国务院同意设立全民阅读活动周",
+        "onboard_time": 1761135741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大事业成于实干#"
+    }
+  }
+}

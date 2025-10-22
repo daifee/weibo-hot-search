@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 22:47:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 23:28:21
 </p>
 </blockquote>
 <p>
@@ -3033,6 +3033,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%96%B0%E6%AD%8Churts%23" target="weibo">
+陈奕恒新歌hurts（热度：760856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E5%88%B7%E6%89%8B%E6%9C%BA%E8%84%B8%E5%92%8C%E8%BA%AB%E4%BD%93%E5%9E%AE%E4%BA%86%23" target="weibo">
 长期熬夜刷手机脸和身体垮了（热度：760738）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
 侯佩岑主持央视秋晚（热度：495661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E8%85%8A%E5%85%A8%E5%9B%BD%E7%BD%A2%E5%B7%A5%23" target="weibo">
-希腊全国罢工（热度：495308）
 </a>
 </li>
 
