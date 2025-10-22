@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761151844506,
+  "endTime": 1761153822868,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -2107,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318727,
+      "num": 662054,
+      "word": "女子做美甲咬牙硬扛被疼哭",
+      "onboard_time": 1761151757,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318459,
       "num": 318459,
       "word": "Bin回应输给G2",
@@ -3243,14 +3251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204975,
-      "num": 662054,
-      "word": "女子做美甲咬牙硬扛被疼哭",
-      "onboard_time": 1761151757,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204637,
       "num": 416631,
       "word": "KSG战胜JDG",
@@ -3457,6 +3457,14 @@
       "onboard_time": 1760933661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198100,
+      "num": 662969,
+      "word": "纪念台湾光复",
+      "onboard_time": 1761148700,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197685,
@@ -7721,14 +7729,6 @@
       "onboard_time": 1760860521,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103637,
-      "num": 662969,
-      "word": "纪念台湾光复",
-      "onboard_time": 1761148700,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103602,
@@ -12459,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44316,
+      "num": 655011,
+      "word": "纪伯宰的爱永远拿的出手",
+      "onboard_time": 1761151156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44098,
       "num": 109451,
       "word": "高市早苗曾叫嚣台湾有事日本必入",
@@ -12745,14 +12753,6 @@
       "onboard_time": 1761029301,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 36332,
-      "num": 655011,
-      "word": "纪伯宰的爱永远拿的出手",
-      "onboard_time": 1761151156,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 35407,

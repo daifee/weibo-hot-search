@@ -1,7 +1,15 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761151844506,
+  "endTime": 1761153822868,
   "band_list": [
+    {
+      "raw_hot": 318727,
+      "num": 662054,
+      "word": "女子做美甲咬牙硬扛被疼哭",
+      "onboard_time": 1761151757,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 231507,
       "num": 773777,
@@ -11,12 +19,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 204975,
-      "num": 662054,
-      "word": "女子做美甲咬牙硬扛被疼哭",
-      "onboard_time": 1761151757,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 198100,
+      "num": 662969,
+      "word": "纪念台湾光复",
+      "onboard_time": 1761148700,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194146,
@@ -121,14 +129,6 @@
       "onboard_time": 1761138741,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103637,
-      "num": 662969,
-      "word": "纪念台湾光复",
-      "onboard_time": 1761148700,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93420,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44316,
+      "num": 655011,
+      "word": "纪伯宰的爱永远拿的出手",
+      "onboard_time": 1761151156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43410,
       "num": 653046,
       "word": "万豪每桌8千8的婚宴被吐槽预制菜",
@@ -371,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36332,
-      "num": 655011,
-      "word": "纪伯宰的爱永远拿的出手",
-      "onboard_time": 1761151156,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33943,
       "num": 113141,
       "word": "但凡在吃药就尽量别吃柚子",
@@ -415,6 +415,14 @@
       "num": 652018,
       "word": "桥本大辉世锦赛摘金",
       "onboard_time": 1761144622,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15413,
+      "num": 85464,
+      "word": "张博恒个人全能84.333分",
+      "onboard_time": 1761142523,
       "rank": 49,
       "category": "体育"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761151844506,
+  "endTime": 1761153822868,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -13307,6 +13307,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 318727,
+      "num": 662054,
+      "word": "女子做美甲咬牙硬扛被疼哭",
+      "onboard_time": 1761151757,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318690,
       "num": 231292,
       "word": "韩国举行大规模阅兵仪式",
@@ -20275,14 +20283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204975,
-      "num": 662054,
-      "word": "女子做美甲咬牙硬扛被疼哭",
-      "onboard_time": 1761151757,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204950,
       "num": 195769,
       "word": "白敬亭生日直播",
@@ -21273,6 +21273,14 @@
       "onboard_time": 1760588903,
       "rank": 37,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 198100,
+      "num": 662969,
+      "word": "纪念台湾光复",
+      "onboard_time": 1761148700,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198071,
@@ -48771,14 +48779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103637,
-      "num": 662969,
-      "word": "纪念台湾光复",
-      "onboard_time": 1761148700,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103608,
       "num": 178495,
       "word": "Angelababy杂志",
@@ -68731,6 +68731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 44316,
+      "num": 655011,
+      "word": "纪伯宰的爱永远拿的出手",
+      "onboard_time": 1761151156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44273,
       "num": 44273,
       "word": "李昀锐 某来到了你的家乡",
@@ -70057,14 +70065,6 @@
       "onboard_time": 1760369001,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36332,
-      "num": 655011,
-      "word": "纪伯宰的爱永远拿的出手",
-      "onboard_time": 1761151156,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 36314,

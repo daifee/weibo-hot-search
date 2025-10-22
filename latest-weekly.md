@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 00:50:44
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 01:23:42
 </p>
 </blockquote>
 <p>
@@ -1593,6 +1593,12 @@ S15瑞士轮第四轮抽签（热度：363495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E7%BE%8E%E7%94%B2%E5%92%AC%E7%89%99%E7%A1%AC%E6%89%9B%E8%A2%AB%E7%96%BC%E5%93%AD%23" target="weibo">
+女子做美甲咬牙硬扛被疼哭（热度：318727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%9B%9E%E5%BA%94%E8%BE%93%E7%BB%99G2%23" target="weibo">
 Bin回应输给G2（热度：318459）
 </a>
@@ -2445,12 +2451,6 @@ BLG支持率（热度：205980）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E7%BE%8E%E7%94%B2%E5%92%AC%E7%89%99%E7%A1%AC%E6%89%9B%E8%A2%AB%E7%96%BC%E5%93%AD%23" target="weibo">
-女子做美甲咬牙硬扛被疼哭（热度：204975）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23KSG%E6%88%98%E8%83%9CJDG%23" target="weibo">
 KSG战胜JDG（热度：204637）
 </a>
@@ -2603,6 +2603,12 @@ iPhone17pro天猫官旗首次降价（热度：204251）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%A7%E5%A5%B3%E4%B8%BB%E6%8E%92%E9%9D%A2%23" target="weibo">
 迪丽热巴大女主排面（热度：198741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%23" target="weibo">
+纪念台湾光复（热度：198100）
 </a>
 </li>
 
@@ -5801,12 +5807,6 @@ AG确定年总胜者组半决赛（热度：104204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%8B%92%E7%BB%9D%E5%BD%93%E7%B9%81%E8%8A%B12%E9%A2%86%E9%98%9F%23" target="weibo">
 宁静张柏芝拒绝当繁花2领队（热度：103667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%23" target="weibo">
-纪念台湾光复（热度：103637）
 </a>
 </li>
 
@@ -9357,6 +9357,12 @@ CFO对战HLE（热度：46844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E4%BC%AF%E5%AE%B0%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E6%8B%BF%E7%9A%84%E5%87%BA%E6%89%8B%23" target="weibo">
+纪伯宰的爱永远拿的出手（热度：44316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9B%BE%E5%8F%AB%E5%9A%A3%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B%E6%97%A5%E6%9C%AC%E5%BF%85%E5%85%A5%23" target="weibo">
 高市早苗曾叫嚣台湾有事日本必入（热度：44098）
 </a>
@@ -9569,12 +9575,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%BA%9B%E7%88%86%E6%AC%BE%E9%83%BD%E6%98%AFKimJones%E8%AE%BE%E8%AE%A1%E7%9A%84%23" target="weibo">
 原来这些爆款都是KimJones设计的（热度：36418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E4%BC%AF%E5%AE%B0%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E6%8B%BF%E7%9A%84%E5%87%BA%E6%89%8B%23" target="weibo">
-纪伯宰的爱永远拿的出手（热度：36332）
 </a>
 </li>
 
