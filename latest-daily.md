@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/23 00:34:46 ~ 2025/10/23 01:39:19
+本榜单时间：2025/10/23 00:34:46 ~ 2025/10/23 02:38:40
 </p>
 </blockquote>
 <p>
@@ -339,8 +339,20 @@ S15封面队伍全败（热度：38601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%86%B7%E6%88%9012%E6%9C%88%E4%BA%86%23" target="weibo">
+多地冷成12月了（热度：15643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E4%B8%AA%E4%BA%BA%E5%85%A8%E8%83%BD84.333%E5%88%86%23" target="weibo">
 张博恒个人全能84.333分（热度：15413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E9%9F%B3%E7%BB%BC%E6%AD%8C%E6%89%8B%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%BF%9E%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
+谁家音综歌手狠起来连自己都骂（热度：12989）
 </a>
 </li>
 

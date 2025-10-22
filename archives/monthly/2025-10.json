@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761154759479,
+  "endTime": 1761158320206,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -73211,6 +73211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15643,
+      "num": 51128,
+      "word": "多地冷成12月了",
+      "onboard_time": 1761157034,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15575,
       "num": 27359,
       "word": "志愿军主题曲我爱你中国",
@@ -73577,6 +73585,14 @@
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12989,
+      "num": 51167,
+      "word": "谁家音综歌手狠起来连自己都骂",
+      "onboard_time": 1761156195,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 12907,
