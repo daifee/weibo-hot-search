@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 21:38:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 21:50:57
 </p>
 </blockquote>
 <p>
@@ -5487,6 +5487,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E5%9B%9E%E5%BA%94%E5%B9%B3%E5%8F%B0%E5%87%BA%E7%8E%B0%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%8F%A0%E5%AE%9D%23" target="weibo">
+闲鱼回应平台出现卢浮宫珠宝（热度：523603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%BC%8F%E6%81%8B%E7%88%B1%23" target="weibo">
 微信式恋爱（热度：522837）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%9B%B7%E8%BF%99%E5%AF%B9CP%23" target="weibo">
 我雷这对CP（热度：495174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%AF%E4%BB%96%E4%B9%9F%E6%89%8D25%E5%B2%81%23" target="weibo">
-王楚钦可他也才25岁（热度：495052）
 </a>
 </li>
 

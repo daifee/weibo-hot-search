@@ -1,0 +1,410 @@
+{
+  "runTime": 1761141057829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435951,
+        "num": 1069752,
+        "word": "美国总统叫板美国前总统",
+        "onboard_time": 1761138322,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229034,
+        "num": 229034,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4286,
+        "num": 210663,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196598,
+        "num": 196598,
+        "word": "小天回应19年FPX兄弟情",
+        "onboard_time": 1761134902,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164194,
+        "num": 164194,
+        "word": "一张图片证明你那里有多冷",
+        "onboard_time": 1761133341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523603,
+        "num": 163004,
+        "word": "闲鱼回应平台出现卢浮宫珠宝",
+        "onboard_time": 1761135202,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 202778,
+        "num": 160300,
+        "word": "曝VOGUE盛典拖欠劳务费",
+        "onboard_time": 1761134781,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 155264,
+        "num": 155264,
+        "word": "印度总统直升机降落时停机坪塌陷",
+        "onboard_time": 1761133101,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145920,
+        "num": 145920,
+        "word": "王源演唱会",
+        "onboard_time": 1761138623,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145363,
+        "num": 145363,
+        "word": "原来羽绒服里少穿比多穿更暖和",
+        "onboard_time": 1761138262,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 462524,
+        "num": 145347,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1761133160,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372166,
+        "num": 145279,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318772,
+        "num": 145214,
+        "word": "宠物店起火宠物无一生还",
+        "onboard_time": 1761135622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293175,
+        "num": 145158,
+        "word": "Doinb回应小天",
+        "onboard_time": 1761138080,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257545,
+        "num": 145073,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204321,
+        "num": 145025,
+        "word": "常华森特别出演天地剑心",
+        "onboard_time": 1761140242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161720,
+        "num": 144969,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118004,
+        "num": 144911,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116864,
+        "num": 144830,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86072,
+        "num": 144780,
+        "word": "龚俊第一部大男主剧",
+        "onboard_time": 1761132201,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226923,
+        "num": 144712,
+        "word": "金价",
+        "onboard_time": 1761138502,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202378,
+        "num": 144686,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1761140962,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150143,
+        "num": 144610,
+        "word": "牛骏峰闷声干大事",
+        "onboard_time": 1761140603,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144567,
+        "num": 144567,
+        "word": "全球超13万汽车人将失业",
+        "onboard_time": 1761139343,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140956,
+        "num": 140956,
+        "word": "第一眼以为是丑东西切开后惊艳我了",
+        "onboard_time": 1761136761,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140737,
+        "num": 140737,
+        "word": "大乱斗",
+        "onboard_time": 1761139521,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139897,
+        "num": 139897,
+        "word": "王俊凯乌镇戏剧节vlog",
+        "onboard_time": 1761139763,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128258,
+        "num": 128258,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102431,
+        "num": 126532,
+        "word": "老外又带更多老外来中国",
+        "onboard_time": 1761138262,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87994,
+        "num": 125689,
+        "word": "国务院同意设立全民阅读活动周",
+        "onboard_time": 1761135741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125612,
+        "num": 125612,
+        "word": "无畏哭了",
+        "onboard_time": 1761140002,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118613,
+        "num": 118613,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110584,
+        "num": 110584,
+        "word": "但凡在吃药就尽量别吃柚子",
+        "onboard_time": 1761140302,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108318,
+        "num": 108318,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106295,
+        "num": 106295,
+        "word": "又一名32岁男子徒步深圳望郎归遇难",
+        "onboard_time": 1761138080,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105026,
+        "num": 105026,
+        "word": "片仔癀十年增长神话终结",
+        "onboard_time": 1761140302,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103361,
+        "num": 103361,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99523,
+        "num": 99523,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 99129,
+        "num": 99129,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73403,
+        "num": 98159,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1761138741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97195,
+        "num": 97195,
+        "word": "G2战胜FLY",
+        "onboard_time": 1761138741,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90600,
+        "num": 97189,
+        "word": "第一次感受到藏马熊的恐怖",
+        "onboard_time": 1761134902,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27702,
+        "num": 97177,
+        "word": "百人测评团组队为用户验货",
+        "onboard_time": 1761139221,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85988,
+        "num": 97160,
+        "word": "细腻底妆技巧",
+        "onboard_time": 1761140842,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 85744,
+        "num": 97157,
+        "word": "婴儿车侧翻女子飞扑挽救",
+        "onboard_time": 1761139343,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 85362,
+        "num": 97137,
+        "word": "S15封面队伍全败",
+        "onboard_time": 1761134902,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84891,
+        "num": 97125,
+        "word": "G2晋级S15八强",
+        "onboard_time": 1761141023,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61584,
+        "num": 97115,
+        "word": "美国公务员排长队领救济",
+        "onboard_time": 1761136882,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42565,
+        "num": 97106,
+        "word": "王鹤棣担任GAI演唱会嘉宾",
+        "onboard_time": 1761132921,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84678,
+        "num": 97093,
+        "word": "5种最常被滥用的皮肤药",
+        "onboard_time": 1761140302,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761140337596,
+  "endTime": 1761141057829,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -939,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523603,
+      "num": 808354,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 522750,
       "num": 206481,
       "word": "陆毅鲍蕾50岁夫妻也要睡一张床",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1760924119,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 482457,
-      "num": 808354,
-      "word": "闲鱼回应平台出现卢浮宫珠宝",
-      "onboard_time": 1761135202,
-      "rank": 7,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 482077,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1760919861,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 435951,
+      "num": 1069752,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 435868,
@@ -2043,20 +2051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318772,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318459,
       "num": 318459,
       "word": "Bin回应输给G2",
       "onboard_time": 1761098001,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 318244,
-      "num": 609489,
-      "word": "宠物店起火宠物无一生还",
-      "onboard_time": 1761135622,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317829,
@@ -2073,14 +2081,6 @@
       "onboard_time": 1760963481,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315510,
-      "num": 1050481,
-      "word": "美国总统叫板美国前总统",
-      "onboard_time": 1761138322,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 314312,
@@ -3187,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204321,
+      "num": 227510,
+      "word": "常华森特别出演天地剑心",
+      "onboard_time": 1761140242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204251,
       "num": 1030487,
       "word": "iPhone17pro天猫官旗首次降价",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1760886981,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202378,
+      "num": 144686,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1761140962,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 201942,
@@ -4843,6 +4859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150143,
+      "num": 144610,
+      "word": "牛骏峰闷声干大事",
+      "onboard_time": 1761140603,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150072,
       "num": 208405,
       "word": "长征路每300米就有1名红军牺牲",
@@ -4947,14 +4971,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147069,
-      "num": 227510,
-      "word": "常华森特别出演天地剑心",
-      "onboard_time": 1761140242,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147055,
       "num": 944654,
       "word": "娄艺潇居然拍短剧了",
@@ -4979,6 +4995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145920,
+      "num": 236210,
+      "word": "王源演唱会",
+      "onboard_time": 1761138623,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 145363,
+      "num": 603539,
+      "word": "原来羽绒服里少穿比多穿更暖和",
+      "onboard_time": 1761138262,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144567,
+      "num": 224834,
+      "word": "全球超13万汽车人将失业",
+      "onboard_time": 1761139343,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144534,
@@ -5033,14 +5073,6 @@
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144211,
-      "num": 236210,
-      "word": "王源演唱会",
-      "onboard_time": 1761138623,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 144163,
@@ -5139,14 +5171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140537,
-      "num": 224834,
-      "word": "全球超13万汽车人将失业",
-      "onboard_time": 1761139343,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140385,
       "num": 413409,
       "word": "清融状态",
@@ -5169,6 +5193,14 @@
       "onboard_time": 1760939182,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139897,
+      "num": 224616,
+      "word": "王俊凯乌镇戏剧节vlog",
+      "onboard_time": 1761139763,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 139608,
@@ -5515,14 +5547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 132020,
-      "num": 603539,
-      "word": "原来羽绒服里少穿比多穿更暖和",
-      "onboard_time": 1761138262,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -5633,14 +5657,6 @@
       "onboard_time": 1760883022,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130055,
-      "num": 224616,
-      "word": "王俊凯乌镇戏剧节vlog",
-      "onboard_time": 1761139763,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 129940,
@@ -5881,6 +5897,14 @@
       "onboard_time": 1760929040,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125612,
+      "num": 223324,
+      "word": "无畏哭了",
+      "onboard_time": 1761140002,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 125581,
@@ -6961,6 +6985,14 @@
       "onboard_time": 1761108383,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110584,
+      "num": 222877,
+      "word": "但凡在吃药就尽量别吃柚子",
+      "onboard_time": 1761140302,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110463,
@@ -8283,14 +8315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96282,
-      "num": 223324,
-      "word": "无畏哭了",
-      "onboard_time": 1761140002,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 96229,
       "num": 1249436,
       "word": "石宇奇法国公开赛退赛",
@@ -9275,14 +9299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87393,
-      "num": 222877,
-      "word": "但凡在吃药就尽量别吃柚子",
-      "onboard_time": 1761140302,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87315,
       "num": 179384,
       "word": "头痛睡不着有救了",
@@ -9459,6 +9475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85988,
+      "num": 97160,
+      "word": "细腻底妆技巧",
+      "onboard_time": 1761140842,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 85979,
       "num": 189704,
       "word": "石凯 走心了",
@@ -9497,6 +9521,14 @@
       "onboard_time": 1761120201,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 85744,
+      "num": 97157,
+      "word": "婴儿车侧翻女子飞扑挽救",
+      "onboard_time": 1761139343,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 85671,
@@ -9593,6 +9625,14 @@
       "onboard_time": 1760949442,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84891,
+      "num": 97125,
+      "word": "G2晋级S15八强",
+      "onboard_time": 1761141023,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84856,
