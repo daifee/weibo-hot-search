@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 04:30:23
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 04:41:27
 </p>
 </blockquote>
 <p>
@@ -10095,6 +10095,12 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%84%E4%B8%BA%E5%85%A8%E7%BE%8E%E7%AC%AC%E4%B8%89%E5%A5%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+特朗普回应被评为全美第三好总统（热度：14034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E5%B0%86%E6%8E%A5%E5%8F%97%E8%B4%A8%E8%AF%A2%23" target="weibo">
 卢浮宫馆长将接受质询（热度：13809）
 </a>
@@ -10103,12 +10109,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%83%A6%E6%81%BC%E4%B9%9F%E8%A2%AB%E5%90%AC%E5%88%B0%E4%BA%86%23" target="weibo">
 小小的烦恼也被听到了（热度：13358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%84%E4%B8%BA%E5%85%A8%E7%BE%8E%E7%AC%AC%E4%B8%89%E5%A5%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
-特朗普回应被评为全美第三好总统（热度：12945）
 </a>
 </li>
 
