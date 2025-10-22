@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 23:28:21
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 23:43:28
 </p>
 </blockquote>
 <p>
@@ -3009,6 +3009,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%96%B0%E6%AD%8Churts%23" target="weibo">
+陈奕恒新歌hurts（热度：765790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BD%AC%E7%A7%BB%E8%B6%8515%E4%B8%87%E4%BA%BA%23" target="weibo">
 广东转移超15万人（热度：763916）
 </a>
@@ -3029,12 +3035,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E6%AD%BB%E5%88%91%E8%AF%89%E6%B1%82%E5%90%8E%E6%B1%82%E9%A5%B6%23" target="weibo">
 杀害女同学男生听到死刑诉求后求饶（热度：761747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%96%B0%E6%AD%8Churts%23" target="weibo">
-陈奕恒新歌hurts（热度：760856）
 </a>
 </li>
 
