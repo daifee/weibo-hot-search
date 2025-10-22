@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 21:50:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 22:28:40
 </p>
 </blockquote>
 <p>
@@ -3891,6 +3891,12 @@ vivo X300价格（热度：660203）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%8F%AB%E6%9D%BF%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%23" target="weibo">
+美国总统叫板美国前总统（热度：652409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E8%BE%93%E8%B6%8A%E5%8D%97%E9%98%9F%23" target="weibo">
 JDG输越南队（热度：648751）
 </a>
@@ -6008,12 +6014,6 @@ GEN战胜T1（热度：526738）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%9B%B7%E8%BF%99%E5%AF%B9CP%23" target="weibo">
-我雷这对CP（热度：495174）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6407,6 +6407,12 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%8F%88%E4%B8%80%E4%BB%BD%E6%96%B0%E8%93%9D%E5%9B%BE%E8%A6%81%E5%88%B6%E5%AE%9A%E4%BA%86%23%23" target="weibo">
 #又一份新蓝图要制定了#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BC%9F%E5%A4%A7%E4%BA%8B%E4%B8%9A%E6%88%90%E4%BA%8E%E5%AE%9E%E5%B9%B2%23%23" target="weibo">
+#伟大事业成于实干#
 </a>
 </li>
 
