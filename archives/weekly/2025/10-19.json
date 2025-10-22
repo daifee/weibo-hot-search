@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761107461419,
+  "endTime": 1761108316768,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449208,
+      "num": 1071873,
+      "word": "曝iPhoneAir暂停生产",
+      "onboard_time": 1761101241,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 448289,
       "num": 448289,
       "word": "李沁和苏暮雨一起破局",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1760847682,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416431,
-      "num": 1066629,
-      "word": "曝iPhoneAir暂停生产",
-      "onboard_time": 1761101241,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 413662,
@@ -1923,6 +1923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305631,
+      "num": 207165,
+      "word": "早期胃癌和普通胃病的区别",
+      "onboard_time": 1761105142,
+      "rank": 44,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 305556,
       "num": 305556,
       "word": "孟羽童来offer董明珠知道么",
@@ -1947,12 +1955,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304844,
+      "num": 234592,
+      "word": "韩国越南网友疯狂互嘲",
+      "onboard_time": 1761106941,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 304727,
       "num": 304727,
       "word": "周迅闷声干大事",
       "onboard_time": 1760847741,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302915,
+      "num": 302915,
+      "word": "国台办回应台湾网红馆长宣布来京",
+      "onboard_time": 1761105142,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 302851,
@@ -2195,6 +2219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 279196,
+      "num": 234060,
+      "word": "当公司所有人都开始带饭上班",
+      "onboard_time": 1761103821,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272127,
       "num": 1292503,
       "word": "彭小苒不想困在八年前东宫里",
@@ -2281,14 +2313,6 @@
       "onboard_time": 1760969780,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 264460,
-      "num": 264460,
-      "word": "国台办回应台湾网红馆长宣布来京",
-      "onboard_time": 1761105142,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 262102,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1760966722,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249949,
-      "num": 207165,
-      "word": "早期胃癌和普通胃病的区别",
-      "onboard_time": 1761105142,
-      "rank": 44,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 247514,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1761101841,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 225091,
-      "num": 225091,
-      "word": "当公司所有人都开始带饭上班",
-      "onboard_time": 1761103821,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 224441,
@@ -2795,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206680,
+      "num": 206680,
+      "word": "男子发现打工养了20年的儿子非亲生",
+      "onboard_time": 1761107062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206664,
       "num": 206664,
       "word": "陈乔恩回应看艾伦豪宅变脸",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1761058642,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201642,
-      "num": 201642,
-      "word": "韩国越南网友疯狂互嘲",
-      "onboard_time": 1761106941,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 201298,
@@ -3627,14 +3635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170631,
-      "num": 170631,
-      "word": "男子发现打工养了20年的儿子非亲生",
-      "onboard_time": 1761107062,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170510,
       "num": 170510,
       "word": "网友拍到一拉布拉多开电动车上路",
@@ -3721,6 +3721,14 @@
       "onboard_time": 1761104242,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167278,
+      "num": 167278,
+      "word": "娄艺潇用胡一菲的台词回应拍短剧",
+      "onboard_time": 1761104961,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166730,
@@ -4147,14 +4155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154074,
-      "num": 154074,
-      "word": "娄艺潇用胡一菲的台词回应拍短剧",
-      "onboard_time": 1761104961,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -4176,6 +4176,14 @@
       "word": "鞠婧祎 权谋女主",
       "onboard_time": 1761061700,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153498,
+      "num": 237858,
+      "word": "水龙吟还给内娱留了两天时间",
+      "onboard_time": 1761104180,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4411,14 +4419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146151,
-      "num": 178603,
-      "word": "水龙吟还给内娱留了两天时间",
-      "onboard_time": 1761104180,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146093,
       "num": 213916,
       "word": "任嘉伦预测NBA总冠军",
@@ -4617,6 +4617,14 @@
       "onboard_time": 1761021262,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 138606,
+      "num": 138606,
+      "word": "深圳市政原来在盯全网",
+      "onboard_time": 1761107062,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138313,
@@ -5419,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123327,
+      "num": 123327,
+      "word": "娄艺潇回应拍短剧原因",
+      "onboard_time": 1761108022,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "请查收马龙的生日回信",
@@ -5505,6 +5521,14 @@
       "onboard_time": 1760951362,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120874,
+      "num": 157865,
+      "word": "菲律宾海军称在南海发现疑似毒品",
+      "onboard_time": 1761107361,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120537,
@@ -6179,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110313,
+      "num": 110313,
+      "word": "卢浮宫文物失窃后哪些问题值得关注",
+      "onboard_time": 1761107902,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110257,
       "num": 110257,
       "word": "数名蒙面歹徒冲入卢浮宫",
@@ -6193,6 +6225,14 @@
       "onboard_time": 1760948782,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110066,
+      "num": 110066,
+      "word": "涂层坏掉的电饭煲千万别用了",
+      "onboard_time": 1761107543,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110036,
@@ -6681,6 +6721,14 @@
       "onboard_time": 1760860521,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103602,
+      "num": 103602,
+      "word": "黄金前一天赚4万今天亏4万",
+      "onboard_time": 1761106402,
+      "rank": 47,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 103543,
@@ -7777,14 +7825,6 @@
       "onboard_time": 1760789783,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91809,
-      "num": 157865,
-      "word": "菲律宾海军称在南海发现疑似毒品",
-      "onboard_time": 1761107361,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91793,
@@ -8908,7 +8948,7 @@
     },
     {
       "raw_hot": 78319,
-      "num": 176588,
+      "num": 185225,
       "word": "双11算不明白让AI算",
       "onboard_time": 1761105982,
       "rank": 29,
@@ -10707,6 +10747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32541,
+      "num": 261403,
+      "word": "决胜十四五",
+      "onboard_time": 1761107181,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32169,
       "num": 53664,
       "word": "记者2年前照片里的城市消失了",
@@ -10977,14 +11025,6 @@
       "onboard_time": 1761044302,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22189,
-      "num": 261403,
-      "word": "决胜十四五",
-      "onboard_time": 1761107181,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21502,

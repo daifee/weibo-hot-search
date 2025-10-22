@@ -1,0 +1,410 @@
+{
+  "runTime": 1761108316768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 449208,
+        "num": 1071873,
+        "word": "曝iPhoneAir暂停生产",
+        "onboard_time": 1761101241,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 302915,
+        "num": 302915,
+        "word": "国台办回应台湾网红馆长宣布来京",
+        "onboard_time": 1761105142,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32541,
+        "num": 248132,
+        "word": "决胜十四五",
+        "onboard_time": 1761107181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240895,
+        "num": 240895,
+        "word": "台湾人就是中国人无可置疑",
+        "onboard_time": 1761093920,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 240349,
+        "word": "杜兰特差点给火箭叫没了",
+        "onboard_time": 1761104902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270201,
+        "num": 240223,
+        "word": "于正官宣金吾不禁阵容",
+        "onboard_time": 1761103941,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191791,
+        "num": 239403,
+        "word": "纪念台湾光复80周年大会邀请台湾同胞",
+        "onboard_time": 1761101841,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175995,
+        "num": 238924,
+        "word": "Bin回应输给G2",
+        "onboard_time": 1761098001,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153936,
+        "num": 237923,
+        "word": "入青云",
+        "onboard_time": 1761106762,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153498,
+        "num": 237858,
+        "word": "水龙吟还给内娱留了两天时间",
+        "onboard_time": 1761104180,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644399,
+        "num": 236906,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554911,
+        "num": 236598,
+        "word": "中国女子盗窃法国博物馆12斤金块",
+        "onboard_time": 1761104721,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374546,
+        "num": 235645,
+        "word": "金饰克价一夜跌了83元",
+        "onboard_time": 1761098901,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142049,
+        "num": 235161,
+        "word": "秋季最后一个节气要来了",
+        "onboard_time": 1761094701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304844,
+        "num": 234592,
+        "word": "韩国越南网友疯狂互嘲",
+        "onboard_time": 1761106941,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279196,
+        "num": 234060,
+        "word": "当公司所有人都开始带饭上班",
+        "onboard_time": 1761103821,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233673,
+        "num": 233673,
+        "word": "Uzi说S15抽签没找他",
+        "onboard_time": 1761105322,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206680,
+        "num": 206680,
+        "word": "男子发现打工养了20年的儿子非亲生",
+        "onboard_time": 1761107062,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193524,
+        "num": 193524,
+        "word": "妈妈得癌症瞒了儿子两个月",
+        "onboard_time": 1761101781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67853,
+        "num": 185225,
+        "word": "双11算不明白让AI算",
+        "onboard_time": 1761105982,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1097470,
+        "num": 185134,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305631,
+        "num": 184760,
+        "word": "早期胃癌和普通胃病的区别",
+        "onboard_time": 1761105142,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 184214,
+        "num": 184214,
+        "word": "北京市市服",
+        "onboard_time": 1761099021,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167278,
+        "num": 167278,
+        "word": "娄艺潇用胡一菲的台词回应拍短剧",
+        "onboard_time": 1761104961,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160974,
+        "num": 160974,
+        "word": "陈钰琪金吾不禁官宣",
+        "onboard_time": 1761106941,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165054,
+        "num": 160790,
+        "word": "宇树科技决定更名",
+        "onboard_time": 1761100278,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158473,
+        "num": 158473,
+        "word": "于东来个人交流3小时收费50万元",
+        "onboard_time": 1761104362,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136113,
+        "num": 157795,
+        "word": "披荆斩棘5总决赛阵容官宣",
+        "onboard_time": 1761105921,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124728,
+        "num": 157126,
+        "word": "商家广告泄露国家秘密",
+        "onboard_time": 1761092301,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115695,
+        "num": 156761,
+        "word": "歌手2025综N代的破局",
+        "onboard_time": 1761102861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 155732,
+        "word": "iPhone降价安卓旗舰却卖爆了",
+        "onboard_time": 1761101901,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155641,
+        "num": 155641,
+        "word": "台湾网红馆长官宣北京行",
+        "onboard_time": 1761100941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "柯洁说儿童编程课都是智商税",
+        "onboard_time": 1761106162,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142532,
+        "num": 142532,
+        "word": "买了漂亮衣服但不穿的原因",
+        "onboard_time": 1761104242,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139139,
+        "num": 139139,
+        "word": "一公厕被改建咖啡店",
+        "onboard_time": 1761103162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138879,
+        "num": 138879,
+        "word": "打开行李箱发现多了8万元",
+        "onboard_time": 1761100100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82700,
+        "num": 138620,
+        "word": "王一博解锁教练新身份",
+        "onboard_time": 1761104542,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138606,
+        "num": 138606,
+        "word": "深圳市政原来在盯全网",
+        "onboard_time": 1761107062,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113062,
+        "num": 130747,
+        "word": "闫安说王楚钦夺冠球台是买回来的",
+        "onboard_time": 1761103401,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120874,
+        "num": 129760,
+        "word": "菲律宾海军称在南海发现疑似毒品",
+        "onboard_time": 1761107361,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129561,
+        "num": 129561,
+        "word": "奶奶走了5公里才爬上二楼",
+        "onboard_time": 1761105801,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123327,
+        "num": 123327,
+        "word": "娄艺潇回应拍短剧原因",
+        "onboard_time": 1761108022,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122504,
+        "num": 122504,
+        "word": "邓莎老公曾向某退休干部行贿",
+        "onboard_time": 1761092061,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 110313,
+        "num": 110313,
+        "word": "卢浮宫文物失窃后哪些问题值得关注",
+        "onboard_time": 1761107902,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110302,
+        "num": 110302,
+        "word": "英雄联盟机神皮肤",
+        "onboard_time": 1761107121,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110066,
+        "num": 110066,
+        "word": "涂层坏掉的电饭煲千万别用了",
+        "onboard_time": 1761107543,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109834,
+        "num": 109834,
+        "word": "小猫自己下单买了一只鸡",
+        "onboard_time": 1761104362,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103602,
+        "num": 103602,
+        "word": "黄金前一天赚4万今天亏4万",
+        "onboard_time": 1761106402,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 101767,
+        "num": 101767,
+        "word": "勇士vs湖人",
+        "onboard_time": 1761096081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 99418,
+        "word": "辛芷蕾日掛中天被扇又被砸",
+        "onboard_time": 1761103761,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#又一份新蓝图要制定了#"
+    }
+  }
+}
