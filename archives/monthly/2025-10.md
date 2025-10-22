@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 19:23:34
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 19:39:09
 </p>
 </blockquote>
 <p>
@@ -5043,6 +5043,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E8%BD%A6%E7%A5%B8%E8%87%B463%E6%AD%BB%23" target="weibo">
+乌干达发生严重车祸致63死（热度：550897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
 每天喝茶vs每天喝咖啡（热度：550593）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%BC%E4%BA%BA%E8%AE%A9%E5%BA%A7%E8%A2%AB%E8%B8%B9%E8%80%81%E4%BA%BA%E7%AB%9F%E6%98%AF%E9%80%9A%E7%BC%89%E7%8A%AF%23" target="weibo">
 台逼人让座被踹老人竟是通缉犯（热度：494991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E7%9A%84%E4%B8%80%E7%94%9F%E8%A6%81%E7%BB%8F%E5%8E%86%E4%B8%89%E6%AC%A1%E6%AD%BB%E4%BA%A1%23" target="weibo">
-iPhone的一生要经历三次死亡（热度：494807）
 </a>
 </li>
 

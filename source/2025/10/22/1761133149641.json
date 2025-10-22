@@ -1,0 +1,410 @@
+{
+  "runTime": 1761133149641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 378820,
+        "num": 1060611,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116737,
+        "num": 1060600,
+        "word": "KPL",
+        "onboard_time": 1761131480,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16029,
+        "num": 1056816,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130272,
+        "num": 1054690,
+        "word": "负债1亿的王自如坐绿皮火车出差",
+        "onboard_time": 1761109344,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112437,
+        "num": 1053572,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176374,
+        "num": 1051114,
+        "word": "成毅王权富贵定档海报",
+        "onboard_time": 1761132081,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126400,
+        "num": 1048730,
+        "word": "追回卢浮宫被抢文物的可能性低",
+        "onboard_time": 1761124281,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109613,
+        "num": 1046492,
+        "word": "印度总统直升机降落时停机坪塌陷",
+        "onboard_time": 1761133101,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102462,
+        "num": 1043868,
+        "word": "苏暮雨发火",
+        "onboard_time": 1761131480,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97969,
+        "num": 1043555,
+        "word": "HLE战胜CFO",
+        "onboard_time": 1761128001,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 550897,
+        "num": 1041477,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 488004,
+        "num": 1037866,
+        "word": "天地剑心官宣定档1025",
+        "onboard_time": 1761128960,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430594,
+        "num": 1037156,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 327200,
+        "num": 1034785,
+        "word": "再见朋友拟邀",
+        "onboard_time": 1761130160,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93555,
+        "num": 1031784,
+        "word": "王俊凯陈飞宇范丞丞出演陈思诚新片",
+        "onboard_time": 1761132741,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93606,
+        "num": 1028938,
+        "word": "龚俊第一部大男主剧",
+        "onboard_time": 1761132201,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294957,
+        "num": 1027607,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28183,
+        "num": 1025465,
+        "word": "在工位收到了充乐宝",
+        "onboard_time": 1761131902,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13809,
+        "num": 1024510,
+        "word": "卢浮宫馆长将接受质询",
+        "onboard_time": 1761132021,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261190,
+        "num": 1021314,
+        "word": "张雪峰发文",
+        "onboard_time": 1761132021,
+        "rank": 19,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 207654,
+        "num": 1019186,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77455,
+        "num": 1016674,
+        "word": "美方已丧失谈判主动权",
+        "onboard_time": 1761123622,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191672,
+        "num": 1014422,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169469,
+        "num": 1012209,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168337,
+        "num": 1010883,
+        "word": "他每天赚上千元却不拿一分钱回家",
+        "onboard_time": 1761124639,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164729,
+        "num": 1008128,
+        "word": "邓莎老公行贿岂能靠综艺洗白变现",
+        "onboard_time": 1761129380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86719,
+        "num": 1007331,
+        "word": "天地剑心导演是懂仙品镜头的",
+        "onboard_time": 1761132802,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82516,
+        "num": 1004329,
+        "word": "王鹤棣担任GAI演唱会嘉宾",
+        "onboard_time": 1761132921,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157198,
+        "num": 1001659,
+        "word": "美国华人社区发生惨案",
+        "onboard_time": 1761125119,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63253,
+        "num": 1000211,
+        "word": "孙颖莎亮相TVB全运宣传片",
+        "onboard_time": 1761128841,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154554,
+        "num": 998876,
+        "word": "水龙吟",
+        "onboard_time": 1761129981,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126939,
+        "num": 995947,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121779,
+        "num": 993536,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 120949,
+        "num": 990964,
+        "word": "红山森林动物园火烈鸟冷得发抖",
+        "onboard_time": 1761126621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68992,
+        "num": 989119,
+        "word": "极氪7X辅助驾驶重庆挑战",
+        "onboard_time": 1761131062,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114220,
+        "num": 987760,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50295,
+        "num": 984830,
+        "word": "保洁员 休息室",
+        "onboard_time": 1761131182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107641,
+        "num": 984207,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104969,
+        "num": 980278,
+        "word": "韩网友制作胡椒喷雾攻击中国游客",
+        "onboard_time": 1761123680,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103347,
+        "num": 978055,
+        "word": "BLG送Faker和Keria蜀绣礼物",
+        "onboard_time": 1761132320,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94302,
+        "num": 977204,
+        "word": "怪不得说肠道是人的第二个大脑",
+        "onboard_time": 1761131000,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88283,
+        "num": 974220,
+        "word": "女子不慎撞羊被牧民邀请吃羊肉",
+        "onboard_time": 1761119121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87116,
+        "num": 971916,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30458,
+        "num": 969594,
+        "word": "栾留伟牺牲后留下的火锅店依旧红火",
+        "onboard_time": 1761130820,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 53804,
+        "num": 967521,
+        "word": "王楚钦多哈夺冠球台已运回北京",
+        "onboard_time": 1761132382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85878,
+        "num": 966342,
+        "word": "18元外卖店家到手仅4块7",
+        "onboard_time": 1761128300,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74764,
+        "num": 964657,
+        "word": "卢伟冰时隔2年再讲红米发布会",
+        "onboard_time": 1761132561,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72704,
+        "num": 962892,
+        "word": "狼队对战JDG",
+        "onboard_time": 1761130700,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71374,
+        "num": 960878,
+        "word": "卢伟冰称小米有机会进入世界100强",
+        "onboard_time": 1761130581,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70519,
+        "num": 956993,
+        "word": "当我准备听小说时",
+        "onboard_time": 1761132382,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
