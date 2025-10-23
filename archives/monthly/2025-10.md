@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 17:29:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 17:42:37
 </p>
 </blockquote>
 <p>
@@ -671,6 +671,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%B8%8D%E7%94%A8%E5%81%B7%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
 陈伟霆不用偷别人家的小孩了（热度：1523531）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82VOGUE%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨幂VOGUE造型（热度：1523216）
 </a>
 </li>
 
@@ -4785,6 +4791,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A6%86%E5%8F%91%23" target="weibo">
+田曦薇妆发（热度：581217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 陈哲远发红包（热度：580360）
 </a>
@@ -4865,12 +4877,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92%23" target="weibo">
 卢浮宫馆长辞职被拒（热度：573725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A6%86%E5%8F%91%23" target="weibo">
-田曦薇妆发（热度：573424）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%E6%8E%89%E7%B2%89%E8%B6%85695%E4%B8%87%23" target="weibo">
 旺仔小乔掉粉超695万（热度：503410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%9C%89%E7%82%8E%E7%97%87%E6%97%B6%E5%B0%91%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
-身体有炎症时少吃4种食物（热度：502358）
 </a>
 </li>
 
