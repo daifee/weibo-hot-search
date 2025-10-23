@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761251290832,
+  "endTime": 1761252077435,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -16507,6 +16507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22698,
+      "num": 41871,
+      "word": "日本暴发流感疫情",
+      "onboard_time": 1761247994,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22589,
       "num": 82294,
       "word": "长沙地铁献血预防癌症广告引争议",
@@ -16625,14 +16633,6 @@
       "onboard_time": 1760853681,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18591,
-      "num": 36865,
-      "word": "日本暴发流感疫情",
-      "onboard_time": 1761247994,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18496,
@@ -16787,6 +16787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13942,
+      "num": 29346,
+      "word": "丁禹兮花开锦绣战损妆",
+      "onboard_time": 1761241817,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13809,
       "num": 1024510,
       "word": "卢浮宫馆长将接受质询",
@@ -16811,20 +16819,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 12608,
-      "num": 29346,
-      "word": "丁禹兮花开锦绣战损妆",
-      "onboard_time": 1761241817,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12251,
       "num": 189735,
       "word": "原来这个表情是刘雨昕",
       "onboard_time": 1761122061,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12150,
+      "num": 27948,
+      "word": "谁给马思纯画的眼线",
+      "onboard_time": 1761249734,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 11940,
@@ -16849,14 +16857,6 @@
       "onboard_time": 1760856080,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11306,
-      "num": 25799,
-      "word": "谁给马思纯画的眼线",
-      "onboard_time": 1761249734,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 11014,

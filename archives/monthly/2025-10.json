@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761251290832,
+  "endTime": 1761252077435,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -75579,6 +75579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22698,
+      "num": 41871,
+      "word": "日本暴发流感疫情",
+      "onboard_time": 1761247994,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22668,
       "num": 87013,
       "word": "零基础搞定中秋仪式感家宴",
@@ -76137,14 +76145,6 @@
       "onboard_time": 1760119515,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18591,
-      "num": 36865,
-      "word": "日本暴发流感疫情",
-      "onboard_time": 1761247994,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18587,
@@ -76787,6 +76787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13942,
+      "num": 29346,
+      "word": "丁禹兮花开锦绣战损妆",
+      "onboard_time": 1761241817,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13901,
       "num": 595463,
       "word": "人间好时节",
@@ -76947,14 +76955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12608,
-      "num": 29346,
-      "word": "丁禹兮花开锦绣战损妆",
-      "onboard_time": 1761241817,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12584,
       "num": 696250,
       "word": "万千气象看天津",
@@ -77001,6 +77001,14 @@
       "onboard_time": 1760639895,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12150,
+      "num": 27948,
+      "word": "谁给马思纯画的眼线",
+      "onboard_time": 1761249734,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 12098,
@@ -77105,14 +77113,6 @@
       "onboard_time": 1760856080,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11306,
-      "num": 25799,
-      "word": "谁给马思纯画的眼线",
-      "onboard_time": 1761249734,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 11212,
