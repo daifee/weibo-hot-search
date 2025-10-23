@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 09:53:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 10:14:59
 </p>
 </blockquote>
 <p>
@@ -4773,6 +4773,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%874%E5%B0%8F%E6%97%B6%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
+超过4小时就不能吃的食物（热度：571275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%99%E5%AD%A9%E5%AD%90%E5%8F%96%E5%90%8D%E8%B7%9F%E5%86%99%E5%B0%8F%E8%AF%B4%E4%B8%80%E6%A0%B7%23" target="weibo">
 姜潮麦迪娜给孩子取名跟写小说一样（热度：570913）
 </a>
@@ -5787,6 +5793,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92%23" target="weibo">
+卢浮宫馆长辞职被拒（热度：507308）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E7%9A%84%E6%B0%B4%E5%B1%85%E7%84%B6%E8%82%A5%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
 西湖的水居然肥成这样（热度：507034）
 </a>
@@ -5999,18 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E4%B9%98%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A4%85%E5%AD%90%23" target="weibo">
 12306回应无座乘客自带椅子（热度：496696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%81%B5%E6%84%9F%E4%B8%8E%E9%9C%89%E9%9C%89%E7%9B%B8%E6%92%9E%23" target="weibo">
-周杰伦新歌灵感与霉霉相撞（热度：496617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
-蜜雪冰城小票藏连载小说（热度：496447）
 </a>
 </li>
 

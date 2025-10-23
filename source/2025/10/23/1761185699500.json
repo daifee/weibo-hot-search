@@ -1,0 +1,410 @@
+{
+  "runTime": 1761185699500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631723,
+        "num": 1101075,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507308,
+        "num": 507308,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13737,
+        "num": 353348,
+        "word": "十四五时期的智造轰鸣",
+        "onboard_time": 1761141803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332298,
+        "num": 332298,
+        "word": "霜降",
+        "onboard_time": 1761174737,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302573,
+        "num": 302573,
+        "word": "美欧宣布对俄罗斯实施新制裁",
+        "onboard_time": 1761179600,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372113,
+        "num": 297781,
+        "word": "山河枕",
+        "onboard_time": 1761183679,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292984,
+        "num": 292984,
+        "word": "国家气候中心回应今冬会更冷吗",
+        "onboard_time": 1761174977,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252368,
+        "num": 252368,
+        "word": "河南小伙卖潮玩烧饼10分钟被抢光",
+        "onboard_time": 1761180920,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242144,
+        "num": 242144,
+        "word": "Faker被问生涯最大对手",
+        "onboard_time": 1761180981,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214334,
+        "num": 214334,
+        "word": "10月23日11时51分霜降",
+        "onboard_time": 1761177140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640911,
+        "num": 214121,
+        "word": "19岁女生退签MCN被判赔15万",
+        "onboard_time": 1761180320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571275,
+        "num": 212798,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 455921,
+        "num": 211533,
+        "word": "红舞鞋剧组撞猫司机已辞职",
+        "onboard_time": 1761180442,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238800,
+        "num": 210824,
+        "word": "女子做美甲咬牙硬扛被疼哭",
+        "onboard_time": 1761151757,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220489,
+        "num": 209811,
+        "word": "警方通报2人损坏电梯缆绳",
+        "onboard_time": 1761177140,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 209611,
+        "num": 209611,
+        "word": "港珠澳大桥电影级日出",
+        "onboard_time": 1761180081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200225,
+        "num": 200225,
+        "word": "霜降至秋意尽",
+        "onboard_time": 1761179423,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149240,
+        "num": 172180,
+        "word": "西安一男子倒垃圾时殴打3名环卫工",
+        "onboard_time": 1761179180,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82974,
+        "num": 168316,
+        "word": "天地剑心定档预告",
+        "onboard_time": 1761179721,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50475,
+        "num": 166619,
+        "word": "网红小影夫妇涉偷税漏税被查处",
+        "onboard_time": 1761145223,
+        "rank": 19,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 166271,
+        "num": 166271,
+        "word": "黄金",
+        "onboard_time": 1761185239,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157074,
+        "num": 157074,
+        "word": "喜人2三顾茅庐票数低引争议",
+        "onboard_time": 1761180020,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152256,
+        "num": 152256,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133420,
+        "num": 133420,
+        "word": "捂好4个部位全身都暖和了",
+        "onboard_time": 1761178040,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121880,
+        "num": 121880,
+        "word": "72岁患癌老人办生前告别式",
+        "onboard_time": 1761180681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117278,
+        "num": 117278,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113145,
+        "num": 113145,
+        "word": "老外学中医热远超你想象",
+        "onboard_time": 1761185480,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 108007,
+        "num": 108007,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106612,
+        "num": 106612,
+        "word": "希拉里痛批特朗普拆白宫",
+        "onboard_time": 1761179901,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44545,
+        "num": 100789,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1761140962,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97780,
+        "num": 97780,
+        "word": "小米汽车高管辟谣SOS1秒接通宣传",
+        "onboard_time": 1761181102,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94948,
+        "num": 94948,
+        "word": "大雨暴雨大雪暴雪即将上线",
+        "onboard_time": 1761142641,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94944,
+        "num": 94944,
+        "word": "东北小狗住上带火炕的狗窝了",
+        "onboard_time": 1761179961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93488,
+        "num": 93488,
+        "word": "香港连续出现流感重症病例",
+        "onboard_time": 1761182360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88149,
+        "num": 88149,
+        "word": "解放军这一罕见表述澳方应读懂",
+        "onboard_time": 1761184397,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87980,
+        "num": 87980,
+        "word": "美国国债首超38万亿美元",
+        "onboard_time": 1761184280,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85277,
+        "num": 85277,
+        "word": "女生偷签MCN直播2年挣20万仅得8万",
+        "onboard_time": 1761183439,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78789,
+        "num": 78789,
+        "word": "北京的骆驼比沙漠都多",
+        "onboard_time": 1761184161,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78783,
+        "num": 78783,
+        "word": "森林狼vs开拓者",
+        "onboard_time": 1761184761,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78369,
+        "num": 78369,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1761138741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78043,
+        "num": 78043,
+        "word": "东北诞生第二个国家级都市圈",
+        "onboard_time": 1761179120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77915,
+        "num": 77915,
+        "word": "深圳交通部门回应一骑行道突然断头",
+        "onboard_time": 1761182239,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73367,
+        "num": 73367,
+        "word": "原来羽绒服里少穿比多穿更暖和",
+        "onboard_time": 1761138262,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 70488,
+        "num": 70488,
+        "word": "河北保定鹅毛大雪",
+        "onboard_time": 1761176779,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68180,
+        "num": 68180,
+        "word": "车牌7777报废路虎5500元起拍",
+        "onboard_time": 1761179180,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67091,
+        "num": 67091,
+        "word": "联合孙颖莎微博公益榜第二",
+        "onboard_time": 1761182360,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66367,
+        "num": 66367,
+        "word": "英雄联盟S赛宣传片封面有毒",
+        "onboard_time": 1761180621,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65917,
+        "num": 65917,
+        "word": "女子捐200斤旧衣后收到14岁女孩来信",
+        "onboard_time": 1761143482,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65009,
+        "num": 65009,
+        "word": "不在过冬这件事上亏待自己",
+        "onboard_time": 1761185239,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63862,
+        "num": 63862,
+        "word": "小猫知道主人是聋哑人后",
+        "onboard_time": 1761176179,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大事业成于实干#"
+    }
+  }
+}

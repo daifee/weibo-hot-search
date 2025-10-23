@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761184396040,
+  "endTime": 1761185699500,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571275,
+      "num": 212798,
+      "word": "超过4小时就不能吃的食物",
+      "onboard_time": 1761183019,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 567410,
       "num": 1090785,
       "word": "固态电池突破",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1761012559,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507308,
+      "num": 507308,
+      "word": "卢浮宫馆长辞职被拒",
+      "onboard_time": 1761181462,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 506980,
@@ -1232,6 +1248,14 @@
       "word": "翁帆大一时认识杨振宁",
       "onboard_time": 1760942900,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455921,
+      "num": 223804,
+      "word": "红舞鞋剧组撞猫司机已辞职",
+      "onboard_time": 1761180442,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1739,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372113,
+      "num": 297781,
+      "word": "山河枕",
+      "onboard_time": 1761183679,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372089,
       "num": 372089,
       "word": "女子被救后举报施救者侵犯肖像权",
@@ -1817,14 +1849,6 @@
       "onboard_time": 1760836160,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 365462,
-      "num": 365462,
-      "word": "卢浮宫馆长辞职被拒",
-      "onboard_time": 1761181462,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 365197,
@@ -2019,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332298,
+      "num": 332298,
+      "word": "霜降",
+      "onboard_time": 1761174737,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331854,
       "num": 1303116,
       "word": "短剧还珠先导片谁的DNA动了",
@@ -2192,14 +2224,6 @@
       "word": "教育局回应老师上课玩手机麻将",
       "onboard_time": 1760963481,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315228,
-      "num": 223804,
-      "word": "红舞鞋剧组撞猫司机已辞职",
-      "onboard_time": 1761180442,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -2400,14 +2424,6 @@
       "word": "金价大涨影响年轻人结婚",
       "onboard_time": 1761028221,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295520,
-      "num": 295520,
-      "word": "霜降",
-      "onboard_time": 1761174737,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2923,6 +2939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242144,
+      "num": 242144,
+      "word": "Faker被问生涯最大对手",
+      "onboard_time": 1761180981,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241806,
       "num": 1027248,
       "word": "他每天赚上千元却不拿一分钱回家",
@@ -3025,14 +3049,6 @@
       "onboard_time": 1760811556,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235237,
-      "num": 235237,
-      "word": "Faker被问生涯最大对手",
-      "onboard_time": 1761180981,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 234824,
@@ -3339,14 +3355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206287,
-      "num": 206287,
-      "word": "山河枕",
-      "onboard_time": 1761183679,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206113,
       "num": 184621,
       "word": "歌手2025综N代的破局",
@@ -3531,6 +3539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200225,
+      "num": 200225,
+      "word": "霜降至秋意尽",
+      "onboard_time": 1761179423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200026,
       "num": 360585,
       "word": "外卖点的米饭居然是电饭煲装来的",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1760935164,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195275,
-      "num": 195275,
-      "word": "霜降至秋意尽",
-      "onboard_time": 1761179423,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195254,
@@ -4379,14 +4387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171300,
-      "num": 171300,
-      "word": "超过4小时就不能吃的食物",
-      "onboard_time": 1761183019,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 170568,
       "num": 1098383,
       "word": "鸿蒙5终端设备数突破2300万",
@@ -4883,6 +4883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157074,
+      "num": 157074,
+      "word": "喜人2三顾茅庐票数低引争议",
+      "onboard_time": 1761180020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156658,
       "num": 156658,
       "word": "终于发现冬天减脂快的原因了",
@@ -5009,6 +5017,14 @@
       "onboard_time": 1761116422,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152256,
+      "num": 152256,
+      "word": "幽门螺杆菌治疗减药了",
+      "onboard_time": 1761185480,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152131,
@@ -5177,6 +5193,14 @@
       "onboard_time": 1760933422,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149240,
+      "num": 172180,
+      "word": "西安一男子倒垃圾时殴打3名环卫工",
+      "onboard_time": 1761179180,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149106,
@@ -5553,14 +5577,6 @@
       "onboard_time": 1761022102,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137834,
-      "num": 137834,
-      "word": "喜人2三顾茅庐票数低引争议",
-      "onboard_time": 1761180020,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 137675,
@@ -6667,14 +6683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118877,
-      "num": 118877,
-      "word": "西安一男子倒垃圾时殴打3名环卫工",
-      "onboard_time": 1761179180,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "天蚕土豆锐评BLG",
@@ -7073,6 +7081,14 @@
       "onboard_time": 1760854400,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 113145,
+      "num": 113145,
+      "word": "老外学中医热远超你想象",
+      "onboard_time": 1761185480,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 112998,
@@ -7585,6 +7601,14 @@
       "onboard_time": 1760777782,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108007,
+      "num": 108007,
+      "word": "俄罗斯自杀式无人机突袭乌克兰",
+      "onboard_time": 1761185599,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107800,
@@ -9067,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93488,
+      "num": 93488,
+      "word": "香港连续出现流感重症病例",
+      "onboard_time": 1761182360,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93468,
       "num": 93468,
       "word": "佳心曹操好强",
@@ -9371,14 +9403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90720,
-      "num": 90720,
-      "word": "香港连续出现流感重症病例",
-      "onboard_time": 1761182360,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90683,
       "num": 90683,
       "word": "苹果将推出首款可折叠iPad",
@@ -9681,6 +9705,14 @@
       "onboard_time": 1760842400,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88149,
+      "num": 88149,
+      "word": "解放军这一罕见表述澳方应读懂",
+      "onboard_time": 1761184397,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87972,
@@ -10259,6 +10291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82974,
+      "num": 168316,
+      "word": "天地剑心定档预告",
+      "onboard_time": 1761179721,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82959,
       "num": 86600,
       "word": "高市早苗上台右翼政策将更加右转",
@@ -10707,6 +10747,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 78789,
+      "num": 78789,
+      "word": "北京的骆驼比沙漠都多",
+      "onboard_time": 1761184161,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78783,
+      "num": 78783,
+      "word": "森林狼vs开拓者",
+      "onboard_time": 1761184761,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78695,
       "num": 78695,
       "word": "一教授每年强制定投100克黄金",
@@ -10825,6 +10881,14 @@
       "onboard_time": 1760796864,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77915,
+      "num": 77915,
+      "word": "深圳交通部门回应一骑行道突然断头",
+      "onboard_time": 1761182239,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77913,
@@ -11083,14 +11147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 75792,
-      "num": 149967,
-      "word": "天地剑心定档预告",
-      "onboard_time": 1761179721,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75740,
       "num": 146290,
       "word": "阿里夸克C计划曝光对标豆包",
@@ -11195,14 +11251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 73750,
-      "num": 73750,
-      "word": "深圳交通部门回应一骑行道突然断头",
-      "onboard_time": 1761182239,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73685,
       "num": 606904,
       "word": "金店回应黄金每克暴跌50元",
@@ -11225,14 +11273,6 @@
       "onboard_time": 1761037522,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73458,
-      "num": 73458,
-      "word": "北京的骆驼比沙漠都多",
-      "onboard_time": 1761184161,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 73433,
@@ -11755,6 +11795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 67091,
+      "num": 67091,
+      "word": "联合孙颖莎微博公益榜第二",
+      "onboard_time": 1761182360,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67055,
       "num": 189906,
       "word": "鸿蒙6支持与苹果设备互传",
@@ -11841,6 +11889,14 @@
       "onboard_time": 1761175879,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65009,
+      "num": 65009,
+      "word": "不在过冬这件事上亏待自己",
+      "onboard_time": 1761185239,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 64629,
