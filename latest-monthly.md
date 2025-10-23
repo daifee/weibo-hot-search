@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 21:49:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 22:27:48
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%89%E7%9D%80%E6%9D%8E%E6%B2%81%E9%99%88%E5%93%B2%E8%BF%9C%E7%AB%99%E4%B8%80%E8%B5%B7%23" target="weibo">
+张凌赫拉着李沁陈哲远站一起（热度：1181206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23" target="weibo">
 高市早苗否认南京大屠杀（热度：1179374）
 </a>
@@ -1803,12 +1809,6 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%89%E7%9D%80%E6%9D%8E%E6%B2%81%E9%99%88%E5%93%B2%E8%BF%9C%E7%AB%99%E4%B8%80%E8%B5%B7%23" target="weibo">
-张凌赫拉着李沁陈哲远站一起（热度：1023559）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%9D%8E%E7%BA%AF%E5%AD%A9%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%8F%AB%E9%A9%AC%E6%80%9D%E7%BA%AF%23" target="weibo">
 马頔李纯孩子可以叫马思纯（热度：1021121）
 </a>
@@ -2343,6 +2343,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23VOGUE%E6%99%9A%E5%AE%B4%23" target="weibo">
+VOGUE晚宴（热度：885071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%BB%E9%86%92%23" target="weibo">
 被冻醒（热度：884018）
 </a>
@@ -2777,6 +2783,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E8%AF%85%E5%92%925%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%94%B1%E6%AD%8C%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
 死亡诅咒5岁女童唱歌男子已道歉（热度：817794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9A%84%E8%A3%99%E5%AD%90%E5%B1%85%E7%84%B6%E6%98%AF%E7%9C%9F%E8%8A%B1%23" target="weibo">
+戚薇的裙子居然是真花（热度：815976）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%B5%B0%E6%8D%B7%E5%BE%84%E5%9D%A0%E4%BA%A1%E5%90%8C%E9%A5%AE%E8%80%85%E4%B8%8D%E6%8B%85%E8%B4%A3%23" target="weibo">
 女子酒后走捷径坠亡同饮者不担责（热度：511549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
-下高速（热度：509971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E9%80%9A%E7%9F%A5%E7%AD%89%E4%BA%86%E4%B8%80%E5%B9%B4%23" target="weibo">
-面试通知等了一年（热度：508954）
 </a>
 </li>
 

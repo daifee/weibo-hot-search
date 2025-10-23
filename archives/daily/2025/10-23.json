@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761227386762,
+  "endTime": 1761229668384,
   "band_list": [
     {
       "raw_hot": 2831862,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1181206,
+      "num": 314885,
+      "word": "张凌赫拉着李沁陈哲远站一起",
+      "onboard_time": 1761226343,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1170936,
       "num": 323877,
       "word": "VOGUE大合影",
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1023559,
-      "num": 314885,
-      "word": "张凌赫拉着李沁陈哲远站一起",
-      "onboard_time": 1761226343,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 943694,
       "num": 1150991,
       "word": "二十届四中全会公报",
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 885071,
+      "num": 1141611,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1761228023,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 843948,
       "num": 320896,
       "word": "张凌赫田曦薇 QQ头像",
@@ -169,6 +177,14 @@
       "onboard_time": 1761191901,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 815976,
+      "num": 248149,
+      "word": "戚薇的裙子居然是真花",
+      "onboard_time": 1761226223,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 815728,
@@ -403,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 481486,
+      "num": 259134,
+      "word": "张雪峰解禁复播后称文科大有可为",
+      "onboard_time": 1761225382,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 479870,
       "num": 1074234,
       "word": "SpaceX切断缅甸电诈园超2500台星链",
@@ -425,6 +449,14 @@
       "onboard_time": 1761208941,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 457525,
+      "num": 310593,
+      "word": "欧阳娜娜光脚走红毯",
+      "onboard_time": 1761222863,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 455921,
@@ -459,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436210,
+      "num": 436210,
+      "word": "谷爱凌一袭长裙骑马 神一般出场",
+      "onboard_time": 1761223522,
+      "rank": 34,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 425159,
       "num": 425159,
       "word": "小天回应doinb",
@@ -475,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421882,
-      "num": 248149,
-      "word": "戚薇的裙子居然是真花",
-      "onboard_time": 1761226223,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 421806,
       "num": 475601,
       "word": "十五五规划建议审议通过",
@@ -497,14 +529,6 @@
       "onboard_time": 1761183679,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 406113,
-      "num": 310593,
-      "word": "欧阳娜娜光脚走红毯",
-      "onboard_time": 1761222863,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 391742,
@@ -731,28 +755,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 270563,
-      "num": 259134,
-      "word": "张雪峰解禁复播后称文科大有可为",
-      "onboard_time": 1761225382,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 263649,
-      "num": 263649,
-      "word": "谷爱凌一袭长裙骑马 神一般出场",
-      "onboard_time": 1761223522,
-      "rank": 34,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 258970,
       "num": 218394,
       "word": "警方通报2人损坏电梯缆绳",
       "onboard_time": 1761177140,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 256197,
+      "num": 205535,
+      "word": "张婧仪 仪态之神",
+      "onboard_time": 1761226643,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249857,
@@ -771,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244758,
+      "num": 240991,
+      "word": "钟楚曦穿了1987年的古董高定",
+      "onboard_time": 1761221062,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242144,
       "num": 242144,
       "word": "Faker被问生涯最大对手",
       "onboard_time": 1761180981,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 240991,
-      "num": 240991,
-      "word": "钟楚曦穿了1987年的古董高定",
-      "onboard_time": 1761221062,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 240674,
@@ -851,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221025,
+      "num": 196127,
+      "word": "李沁晒花少VOGUE合照",
+      "onboard_time": 1761229223,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220794,
       "num": 304661,
       "word": "比卢普斯因参与赌球被逮捕",
@@ -915,20 +939,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205535,
-      "num": 205535,
-      "word": "张婧仪 仪态之神",
-      "onboard_time": 1761226643,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 203030,
       "num": 444554,
       "word": "戴眼镜10余年摘镜发现不是真近视",
       "onboard_time": 1761198561,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202974,
+      "num": 195284,
+      "word": "刘冲踩到刘亦菲裙子",
+      "onboard_time": 1761229284,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202901,
@@ -1019,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194788,
+      "num": 194788,
+      "word": "第一次知道买房前要先看地库",
+      "onboard_time": 1761228382,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194438,
       "num": 194438,
       "word": "李沁陈哲远VOGUE",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1761210921,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188999,
+      "num": 188999,
+      "word": "王星越健身房偶遇陈哲远曾舜晞",
+      "onboard_time": 1761229284,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188291,
@@ -1219,6 +1259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171652,
+      "num": 171652,
+      "word": "龚俊 小画家",
+      "onboard_time": 1761229464,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 171544,
+      "num": 204356,
+      "word": "张清颖世锦赛全能铜牌",
+      "onboard_time": 1761228983,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171503,
       "num": 217705,
       "word": "疑似喜人预言惊天魔盗团3剧情",
@@ -1307,11 +1363,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161541,
+      "num": 161541,
+      "word": "宁艺卓在线回应热搜",
+      "onboard_time": 1761228323,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 161381,
       "num": 1064303,
       "word": "网友追更的小雪豹胖了30斤",
       "onboard_time": 1761196941,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161041,
+      "num": 161041,
+      "word": "中国古人养鱼用流体力学",
+      "onboard_time": 1761229464,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1441,6 +1513,14 @@
       "onboard_time": 1761224782,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151800,
+      "num": 151800,
+      "word": "宇树CEO回应新人形机器人长得吓人",
+      "onboard_time": 1761228444,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 151482,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1761204081,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 131281,
+      "num": 131281,
+      "word": "成毅新剧天地剑心质感",
+      "onboard_time": 1761229464,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131037,
@@ -2444,7 +2532,7 @@
     },
     {
       "raw_hot": 93553,
-      "num": 327539,
+      "num": 362669,
       "word": "中国又一个5年目标",
       "onboard_time": 1761213320,
       "rank": 26,
@@ -2883,6 +2971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69980,
+      "num": 164660,
+      "word": "LV称撞衫校服款男士大衣已售罄",
+      "onboard_time": 1761229583,
+      "rank": 39,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 69802,
       "num": 69802,
       "word": "华为手机图库可直接查看3D影像",
@@ -2971,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66117,
+      "num": 178175,
+      "word": "河南一事业单位遭网友质疑设萝卜岗",
+      "onboard_time": 1761229643,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65841,
       "num": 433394,
       "word": "速效救心丸的人性化设计",
@@ -3011,7 +3115,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63097,
+      "raw_hot": 64270,
       "num": 316493,
       "word": "K90ProMax首发评测",
       "onboard_time": 1761223765,
@@ -3097,6 +3201,14 @@
       "onboard_time": 1761193520,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57092,
+      "num": 206013,
+      "word": "2026款宋LDMi纯电续航200KM",
+      "onboard_time": 1761228444,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 56748,
@@ -3475,7 +3587,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11004,
+      "raw_hot": 14804,
       "num": 304951,
       "word": "坚持把三农作为重中之重",
       "onboard_time": 1761224662,
