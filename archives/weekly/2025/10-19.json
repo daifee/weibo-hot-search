@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761185699500,
+  "endTime": 1761188962645,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -257,6 +257,14 @@
       "onboard_time": 1760925259,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1006089,
+      "num": 184670,
+      "word": "金价一夜跌50元顾客相中直接买走",
+      "onboard_time": 1761185720,
+      "rank": 10,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 1000675,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616228,
+      "num": 212798,
+      "word": "超过4小时就不能吃的食物",
+      "onboard_time": 1761183019,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 612045,
       "num": 1112545,
       "word": "iPhone17Pro的受害者出现了",
@@ -843,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573725,
+      "num": 1091796,
+      "word": "卢浮宫馆长辞职被拒",
+      "onboard_time": 1761181462,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 572684,
       "num": 416220,
       "word": "男孩被戳伤失明园长用猪油消肿后续",
@@ -857,14 +881,6 @@
       "onboard_time": 1760841739,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571275,
-      "num": 212798,
-      "word": "超过4小时就不能吃的食物",
-      "onboard_time": 1761183019,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 567410,
@@ -929,6 +945,14 @@
       "onboard_time": 1761131600,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 549124,
+      "num": 549124,
+      "word": "俄罗斯自杀式无人机突袭乌克兰",
+      "onboard_time": 1761185599,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 545113,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1761012559,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 507308,
-      "num": 507308,
-      "word": "卢浮宫馆长辞职被拒",
-      "onboard_time": 1761181462,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 506980,
@@ -1859,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365127,
+      "num": 365127,
+      "word": "杨瀚森常规赛首秀",
+      "onboard_time": 1761186920,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364921,
       "num": 1295649,
       "word": "高市早苗当选日本首相现场",
@@ -2425,6 +2449,22 @@
       "onboard_time": 1761028221,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296138,
+      "num": 183297,
+      "word": "幽门螺杆菌治疗减药了",
+      "onboard_time": 1761185480,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 295566,
+      "num": 184459,
+      "word": "宋茜新剧穿婚服办葬礼",
+      "onboard_time": 1761186979,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 295383,
@@ -3795,6 +3835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191665,
+      "num": 183435,
+      "word": "大学生身份不用等于亏本",
+      "onboard_time": 1761187940,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "陈钰琪金吾不禁官宣",
@@ -4065,6 +4113,14 @@
       "onboard_time": 1761123802,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183054,
+      "num": 183054,
+      "word": "时尚芭莎十一月刊封面预告",
+      "onboard_time": 1761187101,
+      "rank": 23,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 183039,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1760948660,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168501,
+      "num": 168501,
+      "word": "高校真的把大学生养的很好",
+      "onboard_time": 1761188361,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 168486,
@@ -5019,14 +5083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152256,
-      "num": 152256,
-      "word": "幽门螺杆菌治疗减药了",
-      "onboard_time": 1761185480,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 152131,
       "num": 152131,
       "word": "排队5小时花65元买一个网红煎饼",
@@ -5275,6 +5331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147141,
+      "num": 147141,
+      "word": "成毅天地剑心百指破4w",
+      "onboard_time": 1761187940,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147055,
       "num": 944654,
       "word": "娄艺潇居然拍短剧了",
@@ -5369,6 +5433,14 @@
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144347,
+      "num": 144347,
+      "word": "印度男子火葬现场起身宣布是假死",
+      "onboard_time": 1761186920,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144163,
@@ -6067,6 +6139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128042,
+      "num": 184076,
+      "word": "丁禹兮山河枕少年将军",
+      "onboard_time": 1761188120,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127902,
       "num": 413354,
       "word": "越来越多本科毕业生回炉技校",
@@ -6201,6 +6281,14 @@
       "onboard_time": 1761025342,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125988,
+      "num": 125988,
+      "word": "女生偷签MCN直播2年挣20万仅得8万",
+      "onboard_time": 1761183439,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125973,
@@ -6747,6 +6835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118236,
+      "num": 118236,
+      "word": "美国国债首超38万亿美元",
+      "onboard_time": 1761184280,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118235,
       "num": 118235,
       "word": "闫桉红包",
@@ -7115,6 +7211,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 112750,
+      "num": 112750,
+      "word": "北京的骆驼比沙漠都多",
+      "onboard_time": 1761184161,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112715,
       "num": 223998,
       "word": "片仔癀十年增长神话终结",
@@ -7233,6 +7337,14 @@
       "onboard_time": 1760958320,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 111787,
+      "num": 111787,
+      "word": "建议大家不要提前瞎焦虑",
+      "onboard_time": 1761187820,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 111679,
@@ -7459,14 +7571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109560,
-      "num": 109560,
-      "word": "女生偷签MCN直播2年挣20万仅得8万",
-      "onboard_time": 1761183439,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109532,
       "num": 175698,
       "word": "李昀锐低眉红眼这一分钟",
@@ -7601,14 +7705,6 @@
       "onboard_time": 1760777782,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108007,
-      "num": 108007,
-      "word": "俄罗斯自杀式无人机突袭乌克兰",
-      "onboard_time": 1761185599,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107800,
@@ -7833,6 +7929,14 @@
       "onboard_time": 1760880683,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105142,
+      "num": 183895,
+      "word": "新手司机孙颖莎上线",
+      "onboard_time": 1761188600,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 105101,
@@ -8419,6 +8523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100288,
+      "num": 100288,
+      "word": "狙击手在1粒大米上钻14个孔洞",
+      "onboard_time": 1761188480,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100285,
       "num": 120028,
       "word": "谁家剧OST试听能超6分钟",
@@ -8707,6 +8819,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96748,
+      "num": 96748,
+      "word": "CSGO",
+      "onboard_time": 1761186681,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96716,
       "num": 96716,
       "word": "石宇奇回应和安赛龙小摩擦",
@@ -8969,14 +9089,6 @@
       "onboard_time": 1760876541,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94192,
-      "num": 94192,
-      "word": "美国国债首超38万亿美元",
-      "onboard_time": 1761184280,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94166,
@@ -9361,6 +9473,14 @@
       "onboard_time": 1760960241,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91078,
+      "num": 91078,
+      "word": "下一个节气就是立冬了",
+      "onboard_time": 1761177499,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91062,
@@ -9889,6 +10009,14 @@
       "onboard_time": 1761126741,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86422,
+      "num": 86422,
+      "word": "龚俊常华森捡剑花絮",
+      "onboard_time": 1761188239,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 86406,
@@ -10747,14 +10875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 78789,
-      "num": 78789,
-      "word": "北京的骆驼比沙漠都多",
-      "onboard_time": 1761184161,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 78783,
       "num": 78783,
       "word": "森林狼vs开拓者",
@@ -10881,6 +11001,14 @@
       "onboard_time": 1760796864,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77944,
+      "num": 77944,
+      "word": "深圳一骑行平路突然断头变向下台阶",
+      "onboard_time": 1761188181,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77915,
@@ -11713,6 +11841,14 @@
       "onboard_time": 1760925259,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68709,
+      "num": 183522,
+      "word": "未来一周还有两股冷空气影响我国",
+      "onboard_time": 1761188540,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68614,
@@ -12905,6 +13041,14 @@
       "onboard_time": 1760948242,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43316,
+      "num": 134183,
+      "word": "拿起剑护你放下剑爱你",
+      "onboard_time": 1761187221,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 43271,

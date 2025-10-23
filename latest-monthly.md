@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 10:14:59
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 11:09:22
 </p>
 </blockquote>
 <p>
@@ -1739,6 +1739,12 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E8%A5%BF%E8%B4%9D%E7%82%B9%E5%8D%95200%E5%85%83%E5%AE%9E%E4%BB%980%E5%85%83%23" target="weibo">
 有人西贝点单200元实付0元（热度：1007842）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E8%B7%8C50%E5%85%83%E9%A1%BE%E5%AE%A2%E7%9B%B8%E4%B8%AD%E7%9B%B4%E6%8E%A5%E4%B9%B0%E8%B5%B0%23" target="weibo">
+金价一夜跌50元顾客相中直接买走（热度：1006089）
 </a>
 </li>
 
@@ -4257,6 +4263,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%874%E5%B0%8F%E6%97%B6%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
+超过4小时就不能吃的食物（热度：616228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%87%A0%E4%B9%8E%E9%9B%B6%E7%89%87%E9%85%AC%E5%87%BA%E6%BC%94%E5%88%BA%E7%8C%AC%23" target="weibo">
 王俊凯几乎零片酬出演刺猬（热度：616184）
 </a>
@@ -4749,6 +4761,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92%23" target="weibo">
+卢浮宫馆长辞职被拒（热度：573725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%E5%9B%AD%E9%95%BF%E7%94%A8%E7%8C%AA%E6%B2%B9%E6%B6%88%E8%82%BF%E5%90%8E%E7%BB%AD%23" target="weibo">
 男孩被戳伤失明园长用猪油消肿后续（热度：572684）
 </a>
@@ -4769,12 +4787,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%AF%B4%E6%BC%94%E5%91%98%E5%85%88%E5%81%9A%E4%BA%BA%E5%86%8D%E6%BC%94%E6%88%8F%23" target="weibo">
 成毅说演员先做人再演戏（热度：571827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%874%E5%B0%8F%E6%97%B6%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
-超过4小时就不能吃的食物（热度：571275）
 </a>
 </li>
 
@@ -5123,6 +5135,12 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%A4%A7%E6%82%A6%E5%9F%8E%E8%87%B4%E6%AD%89%23" target="weibo">
 三亚大悦城致歉（热度：549329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AA%81%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
+俄罗斯自杀式无人机突袭乌克兰（热度：549124）
 </a>
 </li>
 
@@ -5793,12 +5811,6 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92%23" target="weibo">
-卢浮宫馆长辞职被拒（热度：507308）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E7%9A%84%E6%B0%B4%E5%B1%85%E7%84%B6%E8%82%A5%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
 西湖的水居然肥成这样（热度：507034）
 </a>
@@ -5999,18 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
 一笑随歌热度（热度：497102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8F%AA%E5%90%83%E6%B0%B4%E6%9E%9C%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
-三甲医生解读只吃水果女子去世（热度：496984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E4%B9%98%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A4%85%E5%AD%90%23" target="weibo">
-12306回应无座乘客自带椅子（热度：496696）
 </a>
 </li>
 

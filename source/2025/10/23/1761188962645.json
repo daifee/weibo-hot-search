@@ -1,0 +1,410 @@
+{
+  "runTime": 1761188962645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 573725,
+        "num": 1091796,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 549124,
+        "num": 549124,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10761,
+        "num": 401449,
+        "word": "十四五时期的智造轰鸣",
+        "onboard_time": 1761141803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401324,
+        "num": 401324,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365127,
+        "num": 365127,
+        "word": "杨瀚森常规赛首秀",
+        "onboard_time": 1761186920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274153,
+        "num": 274153,
+        "word": "山河枕",
+        "onboard_time": 1761183679,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 248563,
+        "word": "美欧宣布对俄罗斯实施新制裁",
+        "onboard_time": 1761179600,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220519,
+        "num": 220519,
+        "word": "霜降",
+        "onboard_time": 1761174737,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200924,
+        "num": 200924,
+        "word": "国家气候中心回应今冬会更冷吗",
+        "onboard_time": 1761174977,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184800,
+        "num": 184800,
+        "word": "河南小伙卖潮玩烧饼10分钟被抢光",
+        "onboard_time": 1761180920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006089,
+        "num": 184670,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 10,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 616228,
+        "num": 184642,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295566,
+        "num": 184459,
+        "word": "宋茜新剧穿婚服办葬礼",
+        "onboard_time": 1761186979,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293578,
+        "num": 184348,
+        "word": "19岁女生退签MCN被判赔15万",
+        "onboard_time": 1761180320,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287381,
+        "num": 184200,
+        "word": "红舞鞋剧组撞猫司机已辞职",
+        "onboard_time": 1761180442,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 184076,
+        "word": "丁禹兮山河枕少年将军",
+        "onboard_time": 1761188120,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105142,
+        "num": 183895,
+        "word": "新手司机孙颖莎上线",
+        "onboard_time": 1761188600,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127457,
+        "num": 183822,
+        "word": "交换人生",
+        "onboard_time": 1761186079,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95802,
+        "num": 183616,
+        "word": "天地剑心",
+        "onboard_time": 1761186320,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68709,
+        "num": 183522,
+        "word": "未来一周还有两股冷空气影响我国",
+        "onboard_time": 1761188540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191665,
+        "num": 183435,
+        "word": "大学生身份不用等于亏本",
+        "onboard_time": 1761187940,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296138,
+        "num": 183297,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192397,
+        "num": 183156,
+        "word": "女子做美甲咬牙硬扛被疼哭",
+        "onboard_time": 1761151757,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183054,
+        "num": 183054,
+        "word": "时尚芭莎十一月刊封面预告",
+        "onboard_time": 1761187101,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 171197,
+        "num": 171197,
+        "word": "Faker被问生涯最大对手",
+        "onboard_time": 1761180981,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179411,
+        "num": 171014,
+        "word": "警方通报2人损坏电梯缆绳",
+        "onboard_time": 1761177140,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 168501,
+        "num": 168501,
+        "word": "高校真的把大学生养的很好",
+        "onboard_time": 1761188361,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147141,
+        "num": 147141,
+        "word": "成毅天地剑心百指破4w",
+        "onboard_time": 1761187940,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144347,
+        "num": 144347,
+        "word": "印度男子火葬现场起身宣布是假死",
+        "onboard_time": 1761186920,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43316,
+        "num": 134183,
+        "word": "拿起剑护你放下剑爱你",
+        "onboard_time": 1761187221,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134027,
+        "num": 134027,
+        "word": "霜降至秋意尽",
+        "onboard_time": 1761179423,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 131169,
+        "word": "港珠澳大桥电影级日出",
+        "onboard_time": 1761180081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126098,
+        "num": 126098,
+        "word": "10月23日11时51分霜降",
+        "onboard_time": 1761177140,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125988,
+        "num": 125988,
+        "word": "女生偷签MCN直播2年挣20万仅得8万",
+        "onboard_time": 1761183439,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118236,
+        "num": 118236,
+        "word": "美国国债首超38万亿美元",
+        "onboard_time": 1761184280,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112750,
+        "num": 112750,
+        "word": "北京的骆驼比沙漠都多",
+        "onboard_time": 1761184161,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111787,
+        "num": 111787,
+        "word": "建议大家不要提前瞎焦虑",
+        "onboard_time": 1761187820,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107114,
+        "num": 107114,
+        "word": "喜人2三顾茅庐票数低引争议",
+        "onboard_time": 1761180020,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106865,
+        "num": 106865,
+        "word": "捂好4个部位全身都暖和了",
+        "onboard_time": 1761178040,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103308,
+        "num": 103308,
+        "word": "黄金",
+        "onboard_time": 1761185239,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100288,
+        "num": 100288,
+        "word": "狙击手在1粒大米上钻14个孔洞",
+        "onboard_time": 1761188480,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98513,
+        "num": 98513,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96748,
+        "num": 96748,
+        "word": "CSGO",
+        "onboard_time": 1761186681,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91078,
+        "num": 91078,
+        "word": "下一个节气就是立冬了",
+        "onboard_time": 1761177499,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86422,
+        "num": 86422,
+        "word": "龚俊常华森捡剑花絮",
+        "onboard_time": 1761188239,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85999,
+        "num": 85999,
+        "word": "金价",
+        "onboard_time": 1761188600,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82587,
+        "num": 82587,
+        "word": "72岁患癌老人办生前告别式",
+        "onboard_time": 1761180681,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82360,
+        "num": 82360,
+        "word": "希拉里痛批特朗普拆白宫",
+        "onboard_time": 1761179901,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78424,
+        "num": 78424,
+        "word": "解放军这一罕见表述澳方应读懂",
+        "onboard_time": 1761184397,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77944,
+        "num": 77944,
+        "word": "深圳一骑行平路突然断头变向下台阶",
+        "onboard_time": 1761188181,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大事业成于实干#"
+    }
+  }
+}
