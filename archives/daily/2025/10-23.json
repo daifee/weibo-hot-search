@@ -1,10 +1,10 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761190031134,
+  "endTime": 1761191445117,
   "band_list": [
     {
-      "raw_hot": 1006089,
-      "num": 184670,
+      "raw_hot": 1050391,
+      "num": 188901,
       "word": "金价一夜跌50元顾客相中直接买走",
       "onboard_time": 1761185720,
       "rank": 10,
@@ -43,20 +43,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 590539,
+      "num": 1094486,
+      "word": "俄罗斯自杀式无人机突袭乌克兰",
+      "onboard_time": 1761185599,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 573725,
       "num": 1091796,
       "word": "卢浮宫馆长辞职被拒",
       "onboard_time": 1761181462,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 549124,
-      "num": 549124,
-      "word": "俄罗斯自杀式无人机突袭乌克兰",
-      "onboard_time": 1761185599,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 463295,
@@ -75,12 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372113,
+      "raw_hot": 408105,
       "num": 297781,
       "word": "山河枕",
       "onboard_time": 1761183679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390575,
+      "num": 191127,
+      "word": "狗子成功捡漏人类幼崽闲置资源",
+      "onboard_time": 1761189681,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 365127,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 348685,
-      "num": 184459,
+      "num": 190917,
       "word": "宋茜新剧穿婚服办葬礼",
       "onboard_time": 1761186979,
       "rank": 12,
@@ -179,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211857,
+      "num": 189139,
+      "word": "孟子义徐志胜告两人差点变五月天",
+      "onboard_time": 1761190579,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201919,
+      "num": 188728,
+      "word": "张雪峰解封首播4万人在线",
+      "onboard_time": 1761189260,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201890,
       "num": 659029,
       "word": "大雨暴雨大雪暴雪即将上线",
@@ -227,12 +251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183185,
-      "num": 162896,
-      "word": "狗子成功捡漏人类幼崽闲置资源",
-      "onboard_time": 1761189681,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 188602,
+      "num": 188602,
+      "word": "阿姨免费洗金镯被洗掉5克",
+      "onboard_time": 1761190939,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183054,
@@ -259,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 173180,
+      "num": 173180,
+      "word": "罗云熙新剧三个女主",
+      "onboard_time": 1761191181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170232,
       "num": 663912,
       "word": "原来羽绒服里少穿比多穿更暖和",
@@ -281,6 +313,14 @@
       "onboard_time": 1761124940,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164528,
+      "num": 145453,
+      "word": "疏离型人格",
+      "onboard_time": 1761189440,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 157547,
@@ -339,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149155,
+      "num": 192394,
+      "word": "杨瀚森常规赛首分",
+      "onboard_time": 1761190100,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149106,
       "num": 149106,
       "word": "捂好4个部位全身都暖和了",
@@ -363,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145520,
+      "num": 145520,
+      "word": "谁家网剧比恋综还好嗑呀",
+      "onboard_time": 1761190579,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145453,
+      "num": 145452,
+      "word": "建议大家不要提前瞎焦虑",
+      "onboard_time": 1761187820,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142072,
       "num": 663426,
       "word": "余生有涯大结局",
@@ -379,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137465,
-      "num": 137465,
-      "word": "建议大家不要提前瞎焦虑",
-      "onboard_time": 1761187820,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
@@ -401,14 +457,6 @@
       "onboard_time": 1761188120,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127903,
-      "num": 127903,
-      "word": "疏离型人格",
-      "onboard_time": 1761189440,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 127104,
@@ -451,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121623,
+      "num": 191842,
+      "word": "朱立伦将率211名国民党干部辞职",
+      "onboard_time": 1761189979,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120215,
       "num": 659216,
       "word": "5类人真的不要染发",
@@ -467,12 +523,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119040,
+      "num": 119040,
+      "word": "张康乐交换人生热血逆袭大片",
+      "onboard_time": 1761190280,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118564,
+      "num": 118914,
+      "word": "张杰开完演唱会可以回来晚会了",
+      "onboard_time": 1761189979,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118236,
       "num": 118236,
       "word": "美国国债首超38万亿美元",
       "onboard_time": 1761184280,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117943,
+      "num": 183616,
+      "word": "天地剑心",
+      "onboard_time": 1761186320,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 115174,
@@ -499,6 +579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113208,
+      "num": 190433,
+      "word": "特朗普取消与普京会面",
+      "onboard_time": 1761190641,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113145,
       "num": 113145,
       "word": "老外学中医热远超你想象",
@@ -523,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109499,
+      "num": 109499,
+      "word": "黑龙江一地惊现黑熊上街",
+      "onboard_time": 1761190641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108604,
       "num": 660262,
       "word": "年轻人为什么不爱喝养乐多了",
@@ -532,7 +628,7 @@
     },
     {
       "raw_hot": 105142,
-      "num": 183895,
+      "num": 192218,
       "word": "新手司机孙颖莎上线",
       "onboard_time": 1761188600,
       "rank": 16,
@@ -601,14 +697,6 @@
       "onboard_time": 1761145223,
       "rank": 7,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 95802,
-      "num": 183616,
-      "word": "天地剑心",
-      "onboard_time": 1761186320,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 95755,
@@ -715,14 +803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 84963,
-      "num": 84963,
-      "word": "张杰开完演唱会可以回来晚会了",
-      "onboard_time": 1761189979,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 84702,
       "num": 84702,
       "word": "杨瀚森出场时播报是中文的",
@@ -777,6 +857,14 @@
       "onboard_time": 1761176779,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76370,
+      "num": 189932,
+      "word": "京东K90",
+      "onboard_time": 1761189080,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 75474,
@@ -891,16 +979,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63673,
-      "num": 154952,
-      "word": "京东K90",
-      "onboard_time": 1761189080,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 62226,
-      "num": 98259,
+      "num": 368530,
       "word": "文化中国行霜降节气",
       "onboard_time": 1761175879,
       "rank": 8,
@@ -923,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59208,
+      "num": 118605,
+      "word": "杨瀚森常规赛首秀数据预测",
+      "onboard_time": 1761191181,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55284,
       "num": 654024,
       "word": "第一次感受到藏马熊的恐怖",
@@ -939,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52733,
+      "num": 190191,
+      "word": "中印边境士兵交换糖果",
+      "onboard_time": 1761191061,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52306,
       "num": 655748,
       "word": "余生有涯大结局好好哭",
@@ -947,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50633,
-      "num": 103305,
-      "word": "朱立伦将率211名国民党干部辞职",
-      "onboard_time": 1761189979,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 50752,
+      "num": 118621,
+      "word": "长白山天池开锅",
+      "onboard_time": 1761190699,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50433,
@@ -1161,11 +1257,22 @@
       "onboard_time": 1761141803,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2502,
+      "num": 90858,
+      "word": "党的二十届四中全会",
+      "onboard_time": 1761107002,
+      "rank": 47,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#伟大事业成于实干#"
+    },
+    {
+      "word": "#领航中国式现代化#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761191445117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590539,
+        "num": 1094486,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447604,
+        "num": 447604,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57826,
+        "num": 368530,
+        "word": "文化中国行霜降节气",
+        "onboard_time": 1761175879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320227,
+        "num": 320227,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 299252,
+        "num": 299252,
+        "word": "杨瀚森常规赛首秀",
+        "onboard_time": 1761186920,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408105,
+        "num": 277458,
+        "word": "山河枕",
+        "onboard_time": 1761183679,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202440,
+        "num": 202440,
+        "word": "霜降",
+        "onboard_time": 1761174737,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192885,
+        "num": 192885,
+        "word": "美欧宣布对俄罗斯实施新制裁",
+        "onboard_time": 1761179600,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60482,
+        "num": 192709,
+        "word": "霜降至秋意尽",
+        "onboard_time": 1761179423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149155,
+        "num": 192394,
+        "word": "杨瀚森常规赛首分",
+        "onboard_time": 1761190100,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65289,
+        "num": 192218,
+        "word": "新手司机孙颖莎上线",
+        "onboard_time": 1761188600,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121623,
+        "num": 191842,
+        "word": "朱立伦将率211名国民党干部辞职",
+        "onboard_time": 1761189979,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126025,
+        "num": 191571,
+        "word": "交换人生",
+        "onboard_time": 1761186079,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430537,
+        "num": 191315,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390575,
+        "num": 191127,
+        "word": "狗子成功捡漏人类幼崽闲置资源",
+        "onboard_time": 1761189681,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303758,
+        "num": 190917,
+        "word": "宋茜新剧穿婚服办葬礼",
+        "onboard_time": 1761186979,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 190520,
+        "word": "红舞鞋剧组撞猫司机已辞职",
+        "onboard_time": 1761180442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113208,
+        "num": 190433,
+        "word": "特朗普取消与普京会面",
+        "onboard_time": 1761190641,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52733,
+        "num": 190191,
+        "word": "中印边境士兵交换糖果",
+        "onboard_time": 1761191061,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76370,
+        "num": 189932,
+        "word": "京东K90",
+        "onboard_time": 1761189080,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232487,
+        "num": 189431,
+        "word": "19岁女生退签MCN被判赔15万",
+        "onboard_time": 1761180320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211857,
+        "num": 189139,
+        "word": "孟子义徐志胜告两人差点变五月天",
+        "onboard_time": 1761190579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1050391,
+        "num": 188901,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 22,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 201919,
+        "num": 188728,
+        "word": "张雪峰解封首播4万人在线",
+        "onboard_time": 1761189260,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188602,
+        "num": 188602,
+        "word": "阿姨免费洗金镯被洗掉5克",
+        "onboard_time": 1761190939,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180363,
+        "num": 180363,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173180,
+        "num": 173180,
+        "word": "罗云熙新剧三个女主",
+        "onboard_time": 1761191181,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145520,
+        "num": 145520,
+        "word": "谁家网剧比恋综还好嗑呀",
+        "onboard_time": 1761190579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130141,
+        "num": 145456,
+        "word": "狙击手在1粒大米上钻14个孔洞",
+        "onboard_time": 1761188480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117943,
+        "num": 145453,
+        "word": "天地剑心",
+        "onboard_time": 1761186320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164528,
+        "num": 145453,
+        "word": "疏离型人格",
+        "onboard_time": 1761189440,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145453,
+        "num": 145452,
+        "word": "建议大家不要提前瞎焦虑",
+        "onboard_time": 1761187820,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138177,
+        "num": 138177,
+        "word": "印度男子火葬现场起身宣布是假死",
+        "onboard_time": 1761186920,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124807,
+        "num": 124807,
+        "word": "河南小伙卖潮玩烧饼10分钟被抢光",
+        "onboard_time": 1761180920,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119653,
+        "num": 119653,
+        "word": "女子做美甲咬牙硬扛被疼哭",
+        "onboard_time": 1761151757,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119040,
+        "num": 119040,
+        "word": "张康乐交换人生热血逆袭大片",
+        "onboard_time": 1761190280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118564,
+        "num": 118914,
+        "word": "张杰开完演唱会可以回来晚会了",
+        "onboard_time": 1761189979,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118867,
+        "num": 118867,
+        "word": "港珠澳大桥电影级日出",
+        "onboard_time": 1761180081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50752,
+        "num": 118621,
+        "word": "长白山天池开锅",
+        "onboard_time": 1761190699,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59208,
+        "num": 118605,
+        "word": "杨瀚森常规赛首秀数据预测",
+        "onboard_time": 1761191181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118598,
+        "num": 118598,
+        "word": "10月23日11时51分霜降",
+        "onboard_time": 1761177140,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114978,
+        "num": 114978,
+        "word": "国家气候中心回应今冬会更冷吗",
+        "onboard_time": 1761174977,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114870,
+        "num": 114870,
+        "word": "大学生身份不用等于亏本",
+        "onboard_time": 1761187940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113398,
+        "num": 113398,
+        "word": "时尚芭莎十一月刊封面预告",
+        "onboard_time": 1761187101,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 109499,
+        "num": 109499,
+        "word": "黑龙江一地惊现黑熊上街",
+        "onboard_time": 1761190641,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94898,
+        "num": 94898,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 93972,
+        "word": "CSGO",
+        "onboard_time": 1761186681,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2502,
+        "num": 90858,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90746,
+        "num": 90746,
+        "word": "75岁大爷1天狂刷43次过山车",
+        "onboard_time": 1761189621,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89514,
+        "num": 89514,
+        "word": "为什么中年人保持好身材很难",
+        "onboard_time": 1761189260,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
