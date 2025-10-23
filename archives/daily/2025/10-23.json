@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761197172540,
+  "endTime": 1761198143859,
   "band_list": [
     {
       "raw_hot": 2349553,
@@ -25,6 +25,22 @@
       "onboard_time": 1761191901,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 815728,
+      "num": 172606,
+      "word": "外国网红故意丢钱包测中国人素质",
+      "onboard_time": 1761194063,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 786793,
+      "num": 1125886,
+      "word": "iPhone命名或跳过19",
+      "onboard_time": 1761197060,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 770478,
@@ -59,14 +75,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 680216,
-      "num": 169227,
-      "word": "外国网红故意丢钱包测中国人素质",
-      "onboard_time": 1761194063,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 616228,
       "num": 212798,
       "word": "超过4小时就不能吃的食物",
@@ -91,20 +99,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 506612,
+      "num": 172152,
+      "word": "桑延 霜降快乐",
+      "onboard_time": 1761195022,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 489772,
       "num": 191015,
       "word": "女孩怀疑英语是中国人发明的",
       "onboard_time": 1761191540,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 484091,
-      "num": 168941,
-      "word": "桑延 霜降快乐",
-      "onboard_time": 1761195022,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 463295,
@@ -139,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 386619,
-      "num": 1061859,
-      "word": "iPhone命名或跳过19",
-      "onboard_time": 1761197060,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 365127,
       "num": 365127,
       "word": "杨瀚森常规赛首秀",
@@ -177,6 +177,14 @@
       "onboard_time": 1761186979,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338626,
+      "num": 187156,
+      "word": "日本首位女首相的政策比男人还男人",
+      "onboard_time": 1761192381,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 332298,
@@ -219,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310630,
-      "num": 187156,
-      "word": "日本首位女首相的政策比男人还男人",
-      "onboard_time": 1761192381,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 296138,
       "num": 183297,
       "word": "幽门螺杆菌治疗减药了",
@@ -241,6 +241,14 @@
       "onboard_time": 1761180081,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289923,
+      "num": 221802,
+      "word": "大侦探",
+      "onboard_time": 1761196100,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 258970,
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224684,
+      "num": 224684,
+      "word": "文班亚马爆砍40分",
+      "onboard_time": 1761194542,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211857,
       "num": 189139,
       "word": "孟子义徐志胜告两人差点变五月天",
       "onboard_time": 1761190579,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208420,
+      "num": 208420,
+      "word": "易烊千玺山花重逢",
+      "onboard_time": 1761197001,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 202429,
@@ -305,22 +329,6 @@
       "onboard_time": 1761142641,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201485,
-      "num": 201485,
-      "word": "文班亚马爆砍40分",
-      "onboard_time": 1761194542,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 200231,
-      "num": 200231,
-      "word": "大侦探",
-      "onboard_time": 1761196100,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 200225,
@@ -425,14 +433,6 @@
       "onboard_time": 1761191181,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171231,
-      "num": 167627,
-      "word": "易烊千玺山花重逢",
-      "onboard_time": 1761197001,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 170232,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136583,
+      "num": 136583,
+      "word": "杨瀚森第8位NBA常规赛登场中国球员",
+      "onboard_time": 1761197241,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116532,
+      "num": 106809,
+      "word": "雪后九寨沟美成了童话世界",
+      "onboard_time": 1761197960,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116409,
       "num": 116409,
       "word": "成毅新剧被捅成刺猬",
@@ -859,6 +875,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 112810,
+      "num": 145730,
+      "word": "去有风的地方vs去有馕的地方",
+      "onboard_time": 1761195921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112750,
       "num": 112750,
       "word": "北京的骆驼比沙漠都多",
@@ -883,11 +907,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110904,
+      "num": 105752,
+      "word": "天气冷了吃口炸鸡就暖了",
+      "onboard_time": 1761197181,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110104,
       "num": 663438,
       "word": "冷冷冷我冷冷冷",
       "onboard_time": 1761138741,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108885,
+      "num": 116063,
+      "word": "网友追更的小雪豹胖了30斤",
+      "onboard_time": 1761196941,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -913,14 +953,6 @@
       "onboard_time": 1761194360,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104794,
-      "num": 145730,
-      "word": "去有风的地方vs去有馕的地方",
-      "onboard_time": 1761195921,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 104693,
@@ -971,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "田曦薇李雪琴你俩给我下来",
+      "onboard_time": 1761197060,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99236,
       "num": 656544,
       "word": "齐齐哈尔高速一SUV开远光逆行",
@@ -995,11 +1035,11 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 98308,
-      "num": 116063,
-      "word": "网友追更的小雪豹胖了30斤",
-      "onboard_time": 1761196941,
-      "rank": 34,
+      "raw_hot": 96117,
+      "num": 94166,
+      "word": "印度人直播如何在中国找到高薪工作",
+      "onboard_time": 1761197300,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1091,12 +1131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88638,
+      "num": 88638,
+      "word": "CSGO游戏更新导致游戏外市场崩溃",
+      "onboard_time": 1761195561,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88149,
       "num": 88149,
       "word": "解放军这一罕见表述澳方应读懂",
       "onboard_time": 1761184397,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87847,
+      "num": 94309,
+      "word": "读博第五年他从北大退学了",
+      "onboard_time": 1761195980,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 87414,
@@ -1131,12 +1187,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 86065,
-      "num": 86065,
-      "word": "田曦薇李雪琴你俩给我下来",
-      "onboard_time": 1761197060,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 84745,
+      "num": 84745,
+      "word": "委内瑞拉部署5000枚俄制导弹",
+      "onboard_time": 1761194662,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84702,
@@ -1147,20 +1203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84339,
-      "num": 94309,
-      "word": "读博第五年他从北大退学了",
-      "onboard_time": 1761195980,
-      "rank": 39,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 83611,
-      "num": 83611,
-      "word": "CSGO游戏更新导致游戏外市场崩溃",
-      "onboard_time": 1761195561,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 83387,
+      "num": 83387,
+      "word": "这猫怎么自带全妆啊",
+      "onboard_time": 1761197721,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 82974,
@@ -1219,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75626,
+      "num": 75626,
+      "word": "AL爱笑请BLG经理吃饭",
+      "onboard_time": 1761194961,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75474,
       "num": 653046,
       "word": "万豪每桌8千8的婚宴被吐槽预制菜",
@@ -1244,7 +1300,7 @@
     },
     {
       "raw_hot": 72807,
-      "num": 144623,
+      "num": 169567,
       "word": "京东上新直播",
       "onboard_time": 1761196941,
       "rank": 27,

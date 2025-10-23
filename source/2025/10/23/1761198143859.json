@@ -1,0 +1,410 @@
+{
+  "runTime": 1761198143859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786793,
+        "num": 1125886,
+        "word": "iPhone命名或跳过19",
+        "onboard_time": 1761197060,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249374,
+        "num": 249374,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 243202,
+        "word": "文化中国行霜降节气",
+        "onboard_time": 1761175879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240170,
+        "num": 240170,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224684,
+        "num": 224684,
+        "word": "文班亚马爆砍40分",
+        "onboard_time": 1761194542,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289923,
+        "num": 221802,
+        "word": "大侦探",
+        "onboard_time": 1761196100,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208420,
+        "num": 208420,
+        "word": "易烊千玺山花重逢",
+        "onboard_time": 1761197001,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 177736,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43200,
+        "num": 177287,
+        "word": "霜降至秋意尽",
+        "onboard_time": 1761179423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 175217,
+        "word": "特朗普取消与普京会面",
+        "onboard_time": 1761190641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2134356,
+        "num": 174844,
+        "word": "蔡国强又炸了巴黎蓬皮杜",
+        "onboard_time": 1761193040,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 815728,
+        "num": 172606,
+        "word": "外国网红故意丢钱包测中国人素质",
+        "onboard_time": 1761194063,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506612,
+        "num": 172152,
+        "word": "桑延 霜降快乐",
+        "onboard_time": 1761195022,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30084,
+        "num": 169567,
+        "word": "京东上新直播",
+        "onboard_time": 1761196941,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338626,
+        "num": 168910,
+        "word": "日本首位女首相的政策比男人还男人",
+        "onboard_time": 1761192381,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338412,
+        "num": 166999,
+        "word": "女孩怀疑英语是中国人发明的",
+        "onboard_time": 1761191540,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251530,
+        "num": 165244,
+        "word": "阿姨免费洗金镯被洗掉5克",
+        "onboard_time": 1761190939,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116163,
+        "num": 164348,
+        "word": "暗河传",
+        "onboard_time": 1761194542,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107430,
+        "num": 163826,
+        "word": "大侦探对撞季水龙吟专场",
+        "onboard_time": 1761194781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95458,
+        "num": 161572,
+        "word": "双11不用算了直接免单",
+        "onboard_time": 1761195980,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 343512,
+        "num": 160664,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 188703,
+        "num": 158627,
+        "word": "第一次感受到了学历高的弊端",
+        "onboard_time": 1761191540,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158284,
+        "num": 158284,
+        "word": "老公厕爆改现磨咖啡店被查封",
+        "onboard_time": 1761191901,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136583,
+        "num": 136583,
+        "word": "杨瀚森第8位NBA常规赛登场中国球员",
+        "onboard_time": 1761197241,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121524,
+        "num": 121524,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119897,
+        "num": 119897,
+        "word": "看爸爸当家理解韩红了",
+        "onboard_time": 1761191840,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112810,
+        "num": 112810,
+        "word": "去有风的地方vs去有馕的地方",
+        "onboard_time": 1761195921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112582,
+        "num": 112582,
+        "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
+        "onboard_time": 1761191721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108885,
+        "num": 108885,
+        "word": "网友追更的小雪豹胖了30斤",
+        "onboard_time": 1761196941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63721,
+        "num": 108452,
+        "word": "罗云熙新剧三个女主",
+        "onboard_time": 1761191181,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204038,
+        "num": 108043,
+        "word": "入青云卡学历",
+        "onboard_time": 1761193221,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116532,
+        "num": 106809,
+        "word": "雪后九寨沟美成了童话世界",
+        "onboard_time": 1761197960,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99103,
+        "num": 106315,
+        "word": "美团外卖宇你食刻相伴",
+        "onboard_time": 1761192862,
+        "rank": 32,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 110904,
+        "num": 105752,
+        "word": "天气冷了吃口炸鸡就暖了",
+        "onboard_time": 1761197181,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105214,
+        "num": 105214,
+        "word": "葛沛豪奚安娜真的把孩子养得很好",
+        "onboard_time": 1761196100,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101710,
+        "num": 101710,
+        "word": "40岁给30岁的忠告",
+        "onboard_time": 1761192440,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101139,
+        "num": 101139,
+        "word": "田曦薇李雪琴你俩给我下来",
+        "onboard_time": 1761197060,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100316,
+        "num": 100316,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94910,
+        "num": 94910,
+        "word": "利拉德指导杨瀚森",
+        "onboard_time": 1761196881,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96117,
+        "num": 94166,
+        "word": "印度人直播如何在中国找到高薪工作",
+        "onboard_time": 1761197300,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93292,
+        "num": 93292,
+        "word": "文班亚马少林寺进修成果显著啊",
+        "onboard_time": 1761193701,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88638,
+        "num": 88638,
+        "word": "CSGO游戏更新导致游戏外市场崩溃",
+        "onboard_time": 1761195561,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87847,
+        "num": 87847,
+        "word": "读博第五年他从北大退学了",
+        "onboard_time": 1761195980,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 84745,
+        "num": 84745,
+        "word": "委内瑞拉部署5000枚俄制导弹",
+        "onboard_time": 1761194662,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83462,
+        "num": 83462,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83387,
+        "num": 83387,
+        "word": "这猫怎么自带全妆啊",
+        "onboard_time": 1761197721,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82207,
+        "num": 82207,
+        "word": "蔡国强又去巴黎搞烟花秀了",
+        "onboard_time": 1761191901,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75626,
+        "num": 75626,
+        "word": "AL爱笑请BLG经理吃饭",
+        "onboard_time": 1761194961,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74842,
+        "num": 74842,
+        "word": "金价暴涨后又暴跌金店客流稀少",
+        "onboard_time": 1761196820,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56985,
+        "num": 74828,
+        "word": "罗小黑战记2即将全平台上线",
+        "onboard_time": 1761196941,
+        "rank": 49,
+        "category": "电影,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
