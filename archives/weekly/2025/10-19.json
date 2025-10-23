@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761259232298,
+  "endTime": 1761261786373,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -2379,6 +2379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 366046,
+      "num": 178718,
+      "word": "龚俊十秒钟打了十辆车",
+      "onboard_time": 1761236300,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 365197,
       "num": 206680,
       "word": "男子发现打工养了20年的儿子非亲生",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1761151757,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356987,
+      "num": 148328,
+      "word": "力挺两岸统一的台退役中将遭重判",
+      "onboard_time": 1761232943,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 356984,
@@ -2721,14 +2737,6 @@
       "onboard_time": 1760876962,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321457,
-      "num": 178718,
-      "word": "龚俊十秒钟打了十辆车",
-      "onboard_time": 1761236300,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321206,
@@ -3691,6 +3699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241101,
+      "num": 136646,
+      "word": "钓鱼博主袁小小去世",
+      "onboard_time": 1761260837,
+      "rank": 14,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 241053,
       "num": 824267,
       "word": "利剑玫瑰",
@@ -4323,6 +4339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203178,
+      "num": 136325,
+      "word": "肖战双平台拉新史冠",
+      "onboard_time": 1761260958,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203099,
       "num": 414581,
       "word": "男子回应翻妻子手机发现和8人暧昧",
@@ -4553,14 +4577,6 @@
       "onboard_time": 1761046280,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196853,
-      "num": 148328,
-      "word": "力挺两岸统一的台退役中将遭重判",
-      "onboard_time": 1761232943,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 196819,
@@ -5089,6 +5105,14 @@
       "onboard_time": 1760932581,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183629,
+      "num": 158475,
+      "word": "4人吃饭饮酒1人死亡先离开2人无责",
+      "onboard_time": 1761230124,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183528,
@@ -6115,14 +6139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "4人吃饭饮酒1人死亡先离开2人无责",
-      "onboard_time": 1761230124,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "黄金虽猛白银已疯",
@@ -6979,6 +6995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139965,
+      "num": 139965,
+      "word": "广西百色多个村镇被泡水中超半月",
+      "onboard_time": 1761260958,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139941,
       "num": 139941,
       "word": "新娘回应请柬霸屏机场8天遭质疑",
@@ -7137,6 +7161,14 @@
       "onboard_time": 1760838800,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136742,
+      "num": 76372,
+      "word": "去过台湾的人嘴真严啊",
+      "onboard_time": 1761261438,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 136697,
@@ -7457,6 +7489,14 @@
       "onboard_time": 1760844320,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131277,
+      "num": 152161,
+      "word": "秦海璐的刘涛怎么跟别人跑了",
+      "onboard_time": 1761235040,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131179,
@@ -8153,6 +8193,14 @@
       "onboard_time": 1761234080,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122365,
+      "num": 122365,
+      "word": "男子10年前救白狐收获一群狐保镖",
+      "onboard_time": 1761260897,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122334,
@@ -9625,14 +9673,6 @@
       "onboard_time": 1760941461,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106805,
-      "num": 152161,
-      "word": "秦海璐的刘涛怎么跟别人跑了",
-      "onboard_time": 1761235040,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106667,
@@ -12531,6 +12571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84445,
+      "num": 139909,
+      "word": "日本暴发流感疫情",
+      "onboard_time": 1761247994,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84359,
       "num": 173881,
       "word": "53%四十岁女性检出乳腺结节",
@@ -13003,6 +13051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80107,
+      "num": 80107,
+      "word": "iPhone要不你还是出个说明书吧",
+      "onboard_time": 1761261438,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80075,
       "num": 80075,
       "word": "吸球表情包照进现实了",
@@ -13371,6 +13427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77378,
+      "num": 77378,
+      "word": "王玉雯礼服里穿了加绒打底裤",
+      "onboard_time": 1761261679,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 77303,
       "num": 77303,
       "word": "泰国街头的活鱿鱼小吃",
@@ -13539,6 +13603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76312,
+      "num": 139037,
+      "word": "TES回应不敌GEN",
+      "onboard_time": 1761238637,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76222,
       "num": 138632,
       "word": "广西百色内涝20天未退",
@@ -13649,6 +13721,14 @@
       "onboard_time": 1761011480,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74976,
+      "num": 74976,
+      "word": "金价惊魂一夜后大妈挤爆金店",
+      "onboard_time": 1761219561,
+      "rank": 31,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 74828,
@@ -14747,14 +14827,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 61487,
-      "num": 122858,
-      "word": "TES回应不敌GEN",
-      "onboard_time": 1761238637,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 61269,
       "num": 61269,
       "word": "孩子一会练成麒麟臂了",
@@ -14833,6 +14905,14 @@
       "onboard_time": 1760926220,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59997,
+      "num": 59997,
+      "word": "金价连续两天下跌原因",
+      "onboard_time": 1761260958,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 59786,
@@ -15467,6 +15547,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 48157,
+      "num": 121708,
+      "word": "秋叶开始上红妆了",
+      "onboard_time": 1761241514,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48122,
       "num": 256971,
       "word": "加奈那一部剧开播一部剧定档",
@@ -15675,6 +15763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44093,
+      "num": 44093,
+      "word": "买了就不能退的沙发",
+      "onboard_time": 1761261438,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43945,
       "num": 606651,
       "word": "乐园保洁大姐cos蟑螂",
@@ -15753,14 +15849,6 @@
       "onboard_time": 1761213860,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 42335,
-      "num": 123639,
-      "word": "日本暴发流感疫情",
-      "onboard_time": 1761247994,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 42231,
@@ -16017,6 +16105,14 @@
       "onboard_time": 1761029301,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 35971,
+      "num": 35971,
+      "word": "宇树新人形机器人脸被指吓人",
+      "onboard_time": 1761261137,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 35407,
@@ -16409,14 +16505,6 @@
       "onboard_time": 1760812576,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25358,
-      "num": 121708,
-      "word": "秋叶开始上红妆了",
-      "onboard_time": 1761241514,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25091,
