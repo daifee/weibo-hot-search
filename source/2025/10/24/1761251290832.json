@@ -1,0 +1,410 @@
+{
+  "runTime": 1761251290832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 42172,
+        "num": 42172,
+        "word": "撞86元校服的LV大衣被抢空",
+        "onboard_time": 1761230182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39872,
+        "num": 39872,
+        "word": "缅甸军方突袭KK园区",
+        "onboard_time": 1761231322,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6983,
+        "num": 39401,
+        "word": "十五五目标",
+        "onboard_time": 1761211821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20779,
+        "num": 38848,
+        "word": "TES回应不敌GEN",
+        "onboard_time": 1761238637,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18747,
+        "num": 37879,
+        "word": "通信技术试验卫星二十号发射成功",
+        "onboard_time": 1761234080,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20213,
+        "num": 37022,
+        "word": "中央军委副主席张升民简历",
+        "onboard_time": 1761215181,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18591,
+        "num": 36865,
+        "word": "日本暴发流感疫情",
+        "onboard_time": 1761247994,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16802,
+        "num": 36033,
+        "word": "谷爱凌一袭长裙骑马 神一般出场",
+        "onboard_time": 1761223522,
+        "rank": 7,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 16638,
+        "num": 34941,
+        "word": "无心已分手",
+        "onboard_time": 1761223162,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15431,
+        "num": 34316,
+        "word": "Tian警告Doinb再造谣就起诉",
+        "onboard_time": 1761218122,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51729,
+        "num": 33713,
+        "word": "韩国梨泰院踩踏惨案调查结果公布",
+        "onboard_time": 1761214041,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50365,
+        "num": 32619,
+        "word": "龚俊十秒钟打了十辆车",
+        "onboard_time": 1761236300,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50005,
+        "num": 31910,
+        "word": "娜扎一把拉过杨幂",
+        "onboard_time": 1761230904,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46172,
+        "num": 31170,
+        "word": "力挺两岸统一的台退役中将遭重判",
+        "onboard_time": 1761232943,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44104,
+        "num": 30178,
+        "word": "4人吃饭饮酒1人死亡先离开2人无责",
+        "onboard_time": 1761230124,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30167,
+        "num": 30167,
+        "word": "钟楚曦穿了1987年的古董高定",
+        "onboard_time": 1761221062,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 29327,
+        "word": "田曦薇怎么走了",
+        "onboard_time": 1761230662,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28079,
+        "num": 28079,
+        "word": "戚薇的裙子居然是真花",
+        "onboard_time": 1761226223,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25966,
+        "num": 25966,
+        "word": "报复刘冲",
+        "onboard_time": 1761218664,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23135,
+        "num": 25966,
+        "word": "秦海璐的刘涛怎么跟别人跑了",
+        "onboard_time": 1761235040,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23290,
+        "num": 25953,
+        "word": "医院开女性肛肠门诊开诊即满号",
+        "onboard_time": 1761232582,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17850,
+        "num": 25946,
+        "word": "河南一事业单位遭网友质疑设萝卜岗",
+        "onboard_time": 1761229643,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17021,
+        "num": 25941,
+        "word": "张凌赫拉着李沁陈哲远站一起",
+        "onboard_time": 1761226343,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16882,
+        "num": 25938,
+        "word": "用人单位回应招聘岗位疑似萝卜岗",
+        "onboard_time": 1761233422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16868,
+        "num": 25929,
+        "word": "窦骁否认婚变",
+        "onboard_time": 1761224003,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16276,
+        "num": 25920,
+        "word": "红舞鞋剧组道歉为何难平众怒",
+        "onboard_time": 1761237739,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15809,
+        "num": 25913,
+        "word": "韩梨泰院惨案与尹锡悦迁办公室有关",
+        "onboard_time": 1761246195,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14823,
+        "num": 25903,
+        "word": "何超莲表示和窦骁感情稳定",
+        "onboard_time": 1761224363,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13988,
+        "num": 25895,
+        "word": "市监局介入处理小米YU7不明零件",
+        "onboard_time": 1761231563,
+        "rank": 28,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 13848,
+        "num": 25888,
+        "word": "刘冲端水",
+        "onboard_time": 1761230544,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13738,
+        "num": 25881,
+        "word": "第一次知道买房前要先看地库",
+        "onboard_time": 1761228382,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12650,
+        "num": 25877,
+        "word": "秋叶开始上红妆了",
+        "onboard_time": 1761241514,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12608,
+        "num": 25866,
+        "word": "丁禹兮花开锦绣战损妆",
+        "onboard_time": 1761241817,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12515,
+        "num": 25863,
+        "word": "欧阳娜娜光脚走红毯",
+        "onboard_time": 1761222863,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12236,
+        "num": 25855,
+        "word": "宋雨琦宁艺卓笑啥呢",
+        "onboard_time": 1761236779,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12109,
+        "num": 25851,
+        "word": "宋茜强曝光镜头下的五官",
+        "onboard_time": 1761231743,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11929,
+        "num": 25837,
+        "word": "龚俊指挥交通呢 十秒钟打了十辆车",
+        "onboard_time": 1761237557,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11812,
+        "num": 25832,
+        "word": "周冬雨马思纯 七月与安生",
+        "onboard_time": 1761223043,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11790,
+        "num": 25826,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11705,
+        "num": 25822,
+        "word": "李庚希 壮壮妈",
+        "onboard_time": 1761226163,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11421,
+        "num": 25815,
+        "word": "49元买李宁外套收到linimg",
+        "onboard_time": 1761231264,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11406,
+        "num": 25805,
+        "word": "推进祖国统一",
+        "onboard_time": 1761212301,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11306,
+        "num": 25799,
+        "word": "谁给马思纯画的眼线",
+        "onboard_time": 1761249734,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11173,
+        "num": 25789,
+        "word": "比卢普斯因参与赌球被逮捕",
+        "onboard_time": 1761223765,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11100,
+        "num": 25780,
+        "word": "VOGUE直播",
+        "onboard_time": 1761200901,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 10924,
+        "num": 25779,
+        "word": "刘冲踩到刘亦菲裙子",
+        "onboard_time": 1761229284,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10918,
+        "num": 25771,
+        "word": "杨幂张小斐 耳畔生花",
+        "onboard_time": 1761235760,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10630,
+        "num": 25762,
+        "word": "张凌赫田曦薇 QQ头像",
+        "onboard_time": 1761222263,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9480,
+        "num": 25752,
+        "word": "哪些食物不能空腹吃",
+        "onboard_time": 1761239716,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 8578,
+        "num": 25752,
+        "word": "花少",
+        "onboard_time": 1761229583,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会公报#"
+    }
+  }
+}
