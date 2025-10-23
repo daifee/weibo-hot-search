@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761229668384,
+  "endTime": 1761230771013,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -243,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1147348,
+      "num": 1183575,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1761228023,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1145376,
       "num": 1082522,
       "word": "入青云",
@@ -467,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 885071,
-      "num": 1141611,
-      "word": "VOGUE晚宴",
-      "onboard_time": 1761228023,
-      "rank": 0,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 884018,
       "num": 217188,
       "word": "被冻醒",
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 815976,
-      "num": 248149,
+      "num": 265404,
       "word": "戚薇的裙子居然是真花",
       "onboard_time": 1761226223,
       "rank": 28,
@@ -977,6 +977,14 @@
       "onboard_time": 1761138322,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 643321,
+      "num": 263495,
+      "word": "张雪峰解禁复播后称文科大有可为",
+      "onboard_time": 1761225382,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 634507,
@@ -1537,14 +1545,6 @@
       "onboard_time": 1760961501,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 481486,
-      "num": 259134,
-      "word": "张雪峰解禁复播后称文科大有可为",
-      "onboard_time": 1761225382,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 479870,
@@ -2427,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354905,
+      "num": 354905,
+      "word": "河南一事业单位遭网友质疑设萝卜岗",
+      "onboard_time": 1761229643,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -3259,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272410,
+      "num": 272410,
+      "word": "撞86元校服的LV大衣被抢空",
+      "onboard_time": 1761230182,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272127,
       "num": 1292503,
       "word": "彭小苒不想困在八年前东宫里",
@@ -3476,7 +3492,7 @@
     },
     {
       "raw_hot": 256197,
-      "num": 205535,
+      "num": 230611,
       "word": "张婧仪 仪态之神",
       "onboard_time": 1761226643,
       "rank": 31,
@@ -3859,6 +3875,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 222549,
+      "num": 222549,
+      "word": "刘冲踩到刘亦菲裙子",
+      "onboard_time": 1761229284,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222405,
       "num": 222405,
       "word": "刘雨昕说和THE9都有联系",
@@ -3868,7 +3892,7 @@
     },
     {
       "raw_hot": 222159,
-      "num": 300652,
+      "num": 362146,
       "word": "十五五目标",
       "onboard_time": 1761211821,
       "rank": 9,
@@ -3884,7 +3908,7 @@
     },
     {
       "raw_hot": 221025,
-      "num": 196127,
+      "num": 209837,
       "word": "李沁晒花少VOGUE合照",
       "onboard_time": 1761229223,
       "rank": 28,
@@ -4265,14 +4289,6 @@
       "onboard_time": 1761198561,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202974,
-      "num": 195284,
-      "word": "刘冲踩到刘亦菲裙子",
-      "onboard_time": 1761229284,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202901,
@@ -4721,6 +4737,14 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191461,
+      "num": 191461,
+      "word": "刘冲端水",
+      "onboard_time": 1761230544,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190857,
@@ -5403,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172816,
+      "num": 172816,
+      "word": "龚俊 小画家",
+      "onboard_time": 1761229464,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172533,
       "num": 172533,
       "word": "热巴宋佳邝玲玲 恶女追捕团",
@@ -5443,16 +5475,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171652,
-      "num": 171652,
-      "word": "龚俊 小画家",
-      "onboard_time": 1761229464,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 171544,
-      "num": 204356,
+      "num": 208363,
       "word": "张清颖世锦赛全能铜牌",
       "onboard_time": 1761228983,
       "rank": 19,
@@ -5473,6 +5497,14 @@
       "onboard_time": 1761030381,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171289,
+      "num": 171289,
+      "word": "花少",
+      "onboard_time": 1761229583,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 170568,
@@ -5553,6 +5585,14 @@
       "onboard_time": 1760871801,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "田曦薇怎么走了",
+      "onboard_time": 1761230662,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167955,
@@ -6129,6 +6169,14 @@
       "onboard_time": 1761201021,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155393,
+      "num": 155393,
+      "word": "4人吃饭饮酒1人死亡先离开2人无责",
+      "onboard_time": 1761230124,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155178,
@@ -6867,6 +6915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140217,
+      "num": 140217,
+      "word": "VOGUE红毯男女明星混剪",
+      "onboard_time": 1761230303,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140192,
       "num": 140192,
       "word": "东北人 黑色羽绒服",
@@ -7089,6 +7145,14 @@
       "onboard_time": 1760847080,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135515,
+      "num": 135515,
+      "word": "成毅新剧天地剑心质感",
+      "onboard_time": 1761229464,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135204,
@@ -7337,14 +7401,6 @@
       "onboard_time": 1760844320,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131281,
-      "num": 131281,
-      "word": "成毅新剧天地剑心质感",
-      "onboard_time": 1761229464,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 131179,
@@ -7681,6 +7737,14 @@
       "onboard_time": 1760937861,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126369,
+      "num": 362669,
+      "word": "中国又一个5年目标",
+      "onboard_time": 1761213320,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126334,
@@ -11075,14 +11139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93553,
-      "num": 362669,
-      "word": "中国又一个5年目标",
-      "onboard_time": 1761213320,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 93532,
       "num": 93532,
       "word": "陈哲远克制疯批式演技",
@@ -11425,6 +11481,14 @@
       "onboard_time": 1760852300,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90958,
+      "num": 169144,
+      "word": "LV称撞衫校服款男士大衣已售罄",
+      "onboard_time": 1761229583,
+      "rank": 39,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 90926,
@@ -13899,14 +13963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69980,
-      "num": 164660,
-      "word": "LV称撞衫校服款男士大衣已售罄",
-      "onboard_time": 1761229583,
-      "rank": 39,
-      "category": "民生新闻,时尚"
-    },
-    {
       "raw_hot": 69947,
       "num": 114179,
       "word": "王权富贵少爷和我是一路人",
@@ -14209,14 +14265,6 @@
       "onboard_time": 1761200840,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66117,
-      "num": 178175,
-      "word": "河南一事业单位遭网友质疑设萝卜岗",
-      "onboard_time": 1761229643,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65940,
@@ -14787,6 +14835,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 57700,
+      "num": 258032,
+      "word": "labubu盲盒 探测器",
+      "onboard_time": 1761230245,
+      "rank": 18,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 57571,
       "num": 57571,
       "word": "利物浦1比2曼联",
@@ -14820,7 +14876,7 @@
     },
     {
       "raw_hot": 57092,
-      "num": 206013,
+      "num": 258998,
       "word": "2026款宋LDMi纯电续航200KM",
       "onboard_time": 1761228444,
       "rank": 18,
@@ -16259,6 +16315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21864,
+      "num": 304951,
+      "word": "坚持把三农作为重中之重",
+      "onboard_time": 1761224662,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21502,
       "num": 92579,
       "word": "拆35岁门槛是反年龄歧视第一步",
@@ -16457,14 +16521,6 @@
       "onboard_time": 1761074954,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 14804,
-      "num": 304951,
-      "word": "坚持把三农作为重中之重",
-      "onboard_time": 1761224662,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14705,
