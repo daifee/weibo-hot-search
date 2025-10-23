@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 14:51:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 15:26:14
 </p>
 </blockquote>
 <p>
@@ -4335,6 +4335,12 @@ VOGUE直播（热度：621794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A5%A2%E4%BE%88%E5%93%81%E4%B8%89%E5%B7%A8%E5%A4%B4%23" target="weibo">
+当代奢侈品三巨头（热度：612508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98CFO%23" target="weibo">
 T1对战CFO（热度：612331）
 </a>
@@ -4667,6 +4673,12 @@ Doinb怒喷TheShy（热度：590180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ning%E6%B5%B4%E5%AE%A4%E6%91%94%E4%BC%A4%23" target="weibo">
 Ning浴室摔伤（热度：586285）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%BA%86%E8%A1%80%E7%9A%84%E7%BA%A2%E8%88%9E%E9%9E%8B%E8%BF%98%E8%83%BD%E8%B7%B3%E8%B5%B7%E6%9D%A5%E5%90%97%23" target="weibo">
+染了血的红舞鞋还能跳起来吗（热度：585603）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8F%96%E6%B6%8825%E5%88%86%E9%92%9F%E4%B8%8A%E8%8F%9C%E6%B2%99%E6%BC%8F%E8%AE%A1%E6%97%B6%23" target="weibo">
 西贝取消25分钟上菜沙漏计时（热度：500085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%9C%9F%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D%23" target="weibo">
-沈月真从天而降（热度：499954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A6%BB%E5%AD%90%E5%9B%A0%E6%98%93%E6%A2%A6%E7%8E%B2%E6%83%B3%E6%95%B4%E5%AE%B9%23" target="weibo">
-杜淳妻子因易梦玲想整容（热度：499722）
 </a>
 </li>
 

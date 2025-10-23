@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761202269731,
+  "endTime": 1761204374350,
   "band_list": [
     {
       "raw_hot": 2349553,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1050391,
-      "num": 436098,
+      "num": 439223,
       "word": "金价一夜跌50元顾客相中直接买走",
       "onboard_time": 1761185720,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 748825,
-      "num": 436500,
+      "num": 436934,
       "word": "阿姨免费洗金镯被洗掉5克",
       "onboard_time": 1761190939,
       "rank": 24,
@@ -91,12 +91,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 612508,
+      "num": 445708,
+      "word": "当代奢侈品三巨头",
+      "onboard_time": 1761200300,
+      "rank": 16,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 590539,
       "num": 1094486,
       "word": "俄罗斯自杀式无人机突袭乌克兰",
       "onboard_time": 1761185599,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 585603,
+      "num": 475398,
+      "word": "染了血的红舞鞋还能跳起来吗",
+      "onboard_time": 1761199581,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 573725,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 506612,
-      "num": 436692,
+      "num": 443714,
       "word": "桑延 霜降快乐",
       "onboard_time": 1761195022,
       "rank": 12,
@@ -129,14 +145,6 @@
       "onboard_time": 1761191540,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 475398,
-      "num": 475398,
-      "word": "染了血的红舞鞋还能跳起来吗",
-      "onboard_time": 1761199581,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463295,
@@ -155,12 +163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436919,
-      "num": 436919,
-      "word": "当代奢侈品三巨头",
-      "onboard_time": 1761200300,
-      "rank": 16,
-      "category": "时尚,幽默"
+      "raw_hot": 446001,
+      "num": 446001,
+      "word": "女明星VOGUE盛典造型出图",
+      "onboard_time": 1761203540,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 431626,
+      "num": 1069060,
+      "word": "占座超30分钟自动弃座",
+      "onboard_time": 1761200120,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408105,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 300033,
-      "num": 436860,
+      "num": 445288,
       "word": "第一次感受到了学历高的弊端",
       "onboard_time": 1761191540,
       "rank": 30,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 297573,
-      "num": 436783,
+      "num": 444853,
       "word": "老板10元1克收孩子黄金还家长",
       "onboard_time": 1761198201,
       "rank": 17,
@@ -355,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203030,
+      "num": 444554,
+      "word": "戴眼镜10余年摘镜发现不是真近视",
+      "onboard_time": 1761198561,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "无限暖暖",
@@ -419,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183790,
+      "num": 442518,
+      "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
+      "onboard_time": 1761203421,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183528,
       "num": 141090,
       "word": "罗小黑战记2即将全平台上线",
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 180958,
-      "num": 436191,
+      "num": 443552,
       "word": "Fly上综艺半个KPL的熟人都来了",
       "onboard_time": 1761201140,
       "rank": 28,
@@ -499,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167903,
-      "num": 543053,
-      "word": "占座超30分钟自动弃座",
-      "onboard_time": 1761200120,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166271,
       "num": 654454,
       "word": "黄金",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 161381,
-      "num": 542497,
+      "num": 1064303,
       "word": "网友追更的小雪豹胖了30斤",
       "onboard_time": 1761196941,
       "rank": 34,
@@ -555,6 +579,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 158743,
+      "num": 442142,
+      "word": "无予伦毕VOGUE主持人",
+      "onboard_time": 1761203540,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157547,
       "num": 659531,
       "word": "中国国家队回应张博恒银牌",
@@ -579,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152611,
-      "num": 435962,
-      "word": "杨瀚森第8位NBA常规赛登场中国球员",
-      "onboard_time": 1761197241,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152394,
-      "num": 435126,
+      "raw_hot": 155641,
+      "num": 441809,
       "word": "我妈以为我住10平米的出租屋很惨",
       "onboard_time": 1761201021,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 152611,
+      "num": 440866,
+      "word": "杨瀚森第8位NBA常规赛登场中国球员",
+      "onboard_time": 1761197241,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 152122,
@@ -723,6 +755,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135270,
+      "num": 438898,
+      "word": "官方通报无牌小米SU7路口漂移",
+      "onboard_time": 1761203901,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133950,
+      "num": 441257,
+      "word": "秦始皇陵再曝重要发现",
+      "onboard_time": 1761201740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132292,
+      "num": 438237,
+      "word": "神州信息涨停",
+      "onboard_time": 1761204081,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129638,
       "num": 129638,
       "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
@@ -768,6 +824,14 @@
       "word": "72岁患癌老人办生前告别式",
       "onboard_time": 1761180681,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126036,
+      "num": 437815,
+      "word": "摘镜8年后视力恢复33岁男子发声",
+      "onboard_time": 1761203122,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -859,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119706,
+      "num": 437748,
+      "word": "动物园月薪5万招猛兽区司机",
+      "onboard_time": 1761203122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119040,
       "num": 119040,
       "word": "张康乐交换人生热血逆袭大片",
@@ -937,14 +1009,6 @@
       "onboard_time": 1761175820,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 113511,
-      "num": 436365,
-      "word": "戴眼镜10余年摘镜发现不是真近视",
-      "onboard_time": 1761198561,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113145,
@@ -1091,6 +1155,22 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 103056,
+      "num": 435772,
+      "word": "盛新锂能封涨停",
+      "onboard_time": 1761204081,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 102709,
+      "num": 439670,
+      "word": "何小鹏带队全球路测新款X9",
+      "onboard_time": 1761203720,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102314,
       "num": 102314,
       "word": "CSGO",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1761197060,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99478,
+      "num": 582290,
+      "word": "中美在马来西亚经贸磋商",
+      "onboard_time": 1761203361,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99236,
@@ -1137,6 +1225,14 @@
       "onboard_time": 1761197300,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95816,
+      "num": 443325,
+      "word": "宋茜时隔四年再演古装",
+      "onboard_time": 1761201560,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 95755,
@@ -1195,6 +1291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93959,
+      "num": 440734,
+      "word": "龚俊新剧吐血那段什么色号",
+      "onboard_time": 1761203841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93798,
       "num": 434078,
       "word": "金价暴涨后又暴跌金店客流稀少",
@@ -1243,12 +1347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88882,
+      "num": 437146,
+      "word": "高速上他挥舞手电拼命拦车",
+      "onboard_time": 1761203000,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 88638,
       "num": 433916,
       "word": "CSGO游戏更新导致游戏外市场崩溃",
       "onboard_time": 1761195561,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88171,
+      "num": 435153,
+      "word": "我人生TOP1的自驾游",
+      "onboard_time": 1761204260,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 88149,
@@ -1275,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87378,
+      "num": 440107,
+      "word": "浪姐小作文 好哭",
+      "onboard_time": 1761201740,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87034,
       "num": 434507,
       "word": "上班请假妆",
@@ -1299,12 +1427,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86364,
+      "num": 434799,
+      "word": "鸭绒羽绒服vs鹅绒羽绒服",
+      "onboard_time": 1761203600,
+      "rank": 44,
+      "category": "科学科普,休闲"
+    },
+    {
       "raw_hot": 86276,
       "num": 655799,
       "word": "第一眼以为是丑东西切开后惊艳我了",
       "onboard_time": 1761136761,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85096,
+      "num": 434419,
+      "word": "张远 倒一也是一",
+      "onboard_time": 1761203901,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 84745,
@@ -1321,6 +1465,14 @@
       "onboard_time": 1761189139,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83750,
+      "num": 433215,
+      "word": "原来猫咪上床一点也不脏",
+      "onboard_time": 1761203780,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 83387,
@@ -1353,6 +1505,14 @@
       "onboard_time": 1761200840,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79555,
+      "num": 436379,
+      "word": "孙颖莎纪录片",
+      "onboard_time": 1761203540,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 78783,
@@ -1451,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72436,
-      "num": 433780,
-      "word": "秦始皇陵再曝重要发现",
-      "onboard_time": 1761201740,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71798,
       "num": 433673,
       "word": "孙继海说国足球迷要求低",
@@ -1513,14 +1665,6 @@
       "onboard_time": 1761188540,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68025,
-      "num": 435362,
-      "word": "浪姐小作文 好哭",
-      "onboard_time": 1761201740,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 67219,
@@ -1587,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64915,
+      "num": 439905,
+      "word": "龚俊新剧拒接百年大厂offer",
+      "onboard_time": 1761202520,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62226,
       "num": 368530,
       "word": "文化中国行霜降节气",
@@ -1619,12 +1771,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59617,
+      "num": 438555,
+      "word": "北京确保11月1日具备供暖条件",
+      "onboard_time": 1761202460,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59208,
       "num": 118605,
       "word": "杨瀚森常规赛首秀数据预测",
       "onboard_time": 1761191181,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58902,
+      "num": 436694,
+      "word": "王珞丹哭到崩溃",
+      "onboard_time": 1761204320,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 57456,
@@ -1667,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53431,
+      "num": 441529,
+      "word": "京东拍卖送英雄联盟门票KPL门票",
+      "onboard_time": 1761199461,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53127,
       "num": 94049,
       "word": "霜降是秋天最后一站",
@@ -1707,12 +1883,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 46511,
-      "num": 434772,
-      "word": "宋茜时隔四年再演古装",
-      "onboard_time": 1761201560,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 46515,
+      "num": 442944,
+      "word": "超轻无人机京东首发",
+      "onboard_time": 1761203479,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 45715,
@@ -1747,12 +1923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40879,
-      "num": 435293,
-      "word": "京东拍卖送英雄联盟门票KPL门票",
-      "onboard_time": 1761199461,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 41683,
+      "num": 435846,
+      "word": "大妈打开消防栓洗衣服",
+      "onboard_time": 1761203122,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40834,
@@ -1955,8 +2131,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 3000,
-      "num": 543912,
+      "raw_hot": 3479,
+      "num": 912890,
       "word": "党的二十届四中全会",
       "onboard_time": 1761107002,
       "rank": 47,
