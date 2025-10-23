@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761193837528,
+  "endTime": 1761194643165,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -377,6 +377,14 @@
       "onboard_time": 1760106863,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2137563,
+      "num": 194935,
+      "word": "蔡国强又炸了巴黎蓬皮杜",
+      "onboard_time": 1761193040,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2136335,
@@ -8195,6 +8203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489772,
+      "num": 191015,
+      "word": "女孩怀疑英语是中国人发明的",
+      "onboard_time": 1761191540,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 489450,
       "num": 229681,
       "word": "肖战今天的物料有点太多了",
@@ -8841,14 +8857,6 @@
       "onboard_time": 1760784623,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463391,
-      "num": 194935,
-      "word": "蔡国强又炸了巴黎蓬皮杜",
-      "onboard_time": 1761193040,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 463295,
@@ -11747,14 +11755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 367880,
-      "num": 191015,
-      "word": "女孩怀疑英语是中国人发明的",
-      "onboard_time": 1761191540,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 367707,
       "num": 367707,
       "word": "王者荣耀河灯",
@@ -13481,6 +13481,14 @@
       "onboard_time": 1759302080,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318675,
+      "num": 245724,
+      "word": "入青云卡学历",
+      "onboard_time": 1761193221,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 318650,
@@ -18259,6 +18267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234044,
+      "num": 187156,
+      "word": "日本首位女首相的政策比男人还男人",
+      "onboard_time": 1761192381,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234022,
       "num": 234022,
       "word": "北汽集团辟谣",
@@ -18417,6 +18433,14 @@
       "onboard_time": 1759340297,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231655,
+      "num": 130090,
+      "word": "外国网红故意丢钱包测中国人素质",
+      "onboard_time": 1761194063,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231599,
@@ -18747,6 +18771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226374,
+      "num": 187335,
+      "word": "看爸爸当家理解韩红了",
+      "onboard_time": 1761191840,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226354,
       "num": 215150,
       "word": "向太后悔给太多钱宠坏向佑",
@@ -18889,14 +18921,6 @@
       "onboard_time": 1761118041,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 223985,
-      "num": 187335,
-      "word": "看爸爸当家理解韩红了",
-      "onboard_time": 1761191840,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 223964,
@@ -19505,14 +19529,6 @@
       "onboard_time": 1760072002,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215410,
-      "num": 187156,
-      "word": "日本首位女首相的政策比男人还男人",
-      "onboard_time": 1761192381,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 215340,
@@ -23393,14 +23409,6 @@
       "onboard_time": 1760675603,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187801,
-      "num": 187801,
-      "word": "入青云卡学历",
-      "onboard_time": 1761193221,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 187795,
@@ -32387,6 +32395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 144328,
+      "num": 144328,
+      "word": "文班亚马少林寺进修成果显著啊",
+      "onboard_time": 1761193701,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144215,
       "num": 144215,
       "word": "高会",
@@ -35947,14 +35963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132788,
-      "num": 132788,
-      "word": "文班亚马少林寺进修成果显著啊",
-      "onboard_time": 1761193701,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132770,
       "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
@@ -36825,6 +36833,14 @@
       "onboard_time": 1759479980,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130320,
+      "num": 130320,
+      "word": "文班亚马爆砍40分",
+      "onboard_time": 1761194542,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 130268,
@@ -38177,6 +38193,14 @@
       "onboard_time": 1759459698,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126415,
+      "num": 192218,
+      "word": "新手司机孙颖莎上线",
+      "onboard_time": 1761188600,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 126407,
@@ -40889,6 +40913,14 @@
       "onboard_time": 1760444421,
       "rank": 33,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 119786,
+      "num": 119786,
+      "word": "笨的不会倒车 胖的无法掉头",
+      "onboard_time": 1761194301,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 119776,
@@ -48043,6 +48075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106067,
+      "num": 106067,
+      "word": "以为是心理问题原来是年纪到了",
+      "onboard_time": 1761194360,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106045,
       "num": 106045,
       "word": "中国半导体行业协会声明",
@@ -48593,14 +48633,6 @@
       "onboard_time": 1759847603,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105142,
-      "num": 192218,
-      "word": "新手司机孙颖莎上线",
-      "onboard_time": 1761188600,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 105125,
@@ -67760,6 +67792,14 @@
       "word": "部分药店买药刷医保比自费更贵",
       "onboard_time": 1760456721,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54678,
+      "num": 125532,
+      "word": "23部电梯钢绳被破坏是无差别谋杀",
+      "onboard_time": 1761194422,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

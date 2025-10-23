@@ -1,7 +1,15 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761193837528,
+  "endTime": 1761194643165,
   "band_list": [
+    {
+      "raw_hot": 2137563,
+      "num": 194935,
+      "word": "蔡国强又炸了巴黎蓬皮杜",
+      "onboard_time": 1761193040,
+      "rank": 12,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1050391,
       "num": 188901,
@@ -75,12 +83,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 463391,
-      "num": 194935,
-      "word": "蔡国强又炸了巴黎蓬皮杜",
-      "onboard_time": 1761193040,
-      "rank": 12,
-      "category": "海外新闻"
+      "raw_hot": 489772,
+      "num": 191015,
+      "word": "女孩怀疑英语是中国人发明的",
+      "onboard_time": 1761191540,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 463295,
@@ -113,14 +121,6 @@
       "onboard_time": 1761189681,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 367880,
-      "num": 191015,
-      "word": "女孩怀疑英语是中国人发明的",
-      "onboard_time": 1761191540,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 365127,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318675,
+      "num": 245724,
+      "word": "入青云卡学历",
+      "onboard_time": 1761193221,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317623,
       "num": 317623,
       "word": "河南小伙卖潮玩烧饼10分钟被抢光",
@@ -227,20 +235,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223985,
-      "num": 187335,
-      "word": "看爸爸当家理解韩红了",
-      "onboard_time": 1761191840,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 215410,
+      "raw_hot": 234044,
       "num": 187156,
       "word": "日本首位女首相的政策比男人还男人",
       "onboard_time": 1761192381,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231655,
+      "num": 130090,
+      "word": "外国网红故意丢钱包测中国人素质",
+      "onboard_time": 1761194063,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226374,
+      "num": 187335,
+      "word": "看爸爸当家理解韩红了",
+      "onboard_time": 1761191840,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 211857,
@@ -321,14 +337,6 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187801,
-      "num": 187801,
-      "word": "入青云卡学历",
-      "onboard_time": 1761193221,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 183499,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144328,
+      "num": 144328,
+      "word": "文班亚马少林寺进修成果显著啊",
+      "onboard_time": 1761193701,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142072,
       "num": 663426,
       "word": "余生有涯大结局",
@@ -571,11 +587,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132788,
-      "num": 132788,
-      "word": "文班亚马少林寺进修成果显著啊",
-      "onboard_time": 1761193701,
-      "rank": 42,
+      "raw_hot": 130320,
+      "num": 130320,
+      "word": "文班亚马爆砍40分",
+      "onboard_time": 1761194542,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -601,6 +617,14 @@
       "onboard_time": 1761183198,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126415,
+      "num": 192218,
+      "word": "新手司机孙颖莎上线",
+      "onboard_time": 1761188600,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 126314,
@@ -681,6 +705,14 @@
       "onboard_time": 1761138262,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119786,
+      "num": 119786,
+      "word": "笨的不会倒车 胖的无法掉头",
+      "onboard_time": 1761194301,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 119040,
@@ -779,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109216,
+      "num": 126680,
+      "word": "暗河传",
+      "onboard_time": 1761194542,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108604,
       "num": 660262,
       "word": "年轻人为什么不爱喝养乐多了",
@@ -795,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105142,
-      "num": 192218,
-      "word": "新手司机孙颖莎上线",
-      "onboard_time": 1761188600,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 106067,
+      "num": 106067,
+      "word": "以为是心理问题原来是年纪到了",
+      "onboard_time": 1761194360,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 104693,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1761134902,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54678,
+      "num": 125532,
+      "word": "23部电梯钢绳被破坏是无差别谋杀",
+      "onboard_time": 1761194422,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53127,

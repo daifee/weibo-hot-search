@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 12:30:37
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 12:44:03
 </p>
 </blockquote>
 <p>
@@ -293,6 +293,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
 宗馥莉将独立经营娃小宗（热度：2155622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%8F%88%E7%82%B8%E4%BA%86%E5%B7%B4%E9%BB%8E%E8%93%AC%E7%9A%AE%E6%9D%9C%23" target="weibo">
+蔡国强又炸了巴黎蓬皮杜（热度：2137563）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E5%8D%96%E5%AF%BF%E8%A1%A3%E7%BB%99%E8%80%81%E5%A4%96%E7%9A%84%E5%BA%97%E4%B8%BB%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
 拒卖寿衣给老外的店主最新回应（热度：498176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%8A%8A%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E6%8B%8D%E5%87%BA%E8%8A%B1%E4%BA%86%23" target="weibo">
-内娱把三生三世拍出花了（热度：498140）
 </a>
 </li>
 
