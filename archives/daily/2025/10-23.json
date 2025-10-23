@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761176210399,
+  "endTime": 1761184396040,
   "band_list": [
     {
       "raw_hot": 770478,
@@ -11,12 +11,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696386,
+      "num": 231117,
+      "word": "19岁女生退签MCN被判赔15万",
+      "onboard_time": 1761180320,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680619,
+      "num": 1108899,
+      "word": "韩国人开始担心以后吃不上豆腐",
+      "onboard_time": 1761177798,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 463295,
+      "num": 116533,
+      "word": "特朗普说是时候制裁俄罗斯了",
+      "onboard_time": 1761178580,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 365462,
+      "num": 365462,
+      "word": "卢浮宫馆长辞职被拒",
+      "onboard_time": 1761181462,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 357042,
       "num": 662054,
       "word": "女子做美甲咬牙硬扛被疼哭",
       "onboard_time": 1761151757,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352528,
+      "num": 352528,
+      "word": "美欧宣布对俄罗斯实施新制裁",
+      "onboard_time": 1761179600,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 322673,
@@ -27,19 +67,75 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317623,
+      "num": 317623,
+      "word": "河南小伙卖潮玩烧饼10分钟被抢光",
+      "onboard_time": 1761180920,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315228,
+      "num": 223804,
+      "word": "红舞鞋剧组撞猫司机已辞职",
+      "onboard_time": 1761180442,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295520,
+      "num": 295520,
+      "word": "霜降",
+      "onboard_time": 1761174737,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294000,
+      "num": 294000,
+      "word": "港珠澳大桥电影级日出",
+      "onboard_time": 1761180081,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258970,
+      "num": 218394,
+      "word": "警方通报2人损坏电梯缆绳",
+      "onboard_time": 1761177140,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 238426,
+      "num": 238426,
+      "word": "10月23日11时51分霜降",
+      "onboard_time": 1761177140,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235237,
+      "num": 235237,
+      "word": "Faker被问生涯最大对手",
+      "onboard_time": 1761180981,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 206287,
+      "num": 206287,
+      "word": "山河枕",
+      "onboard_time": 1761183679,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201890,
       "num": 659029,
       "word": "大雨暴雨大雪暴雪即将上线",
       "onboard_time": 1761142641,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199930,
-      "num": 199930,
-      "word": "霜降",
-      "onboard_time": 1761174737,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -51,12 +147,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "霜降至秋意尽",
+      "onboard_time": 1761179423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194146,
       "num": 661809,
       "word": "印度七旬老人假死测试谁关心他",
       "onboard_time": 1761144562,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179676,
+      "num": 149336,
+      "word": "卢浮宫内珠宝店撤回百万珠宝",
+      "onboard_time": 1761183379,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171300,
+      "num": 171300,
+      "word": "超过4小时就不能吃的食物",
+      "onboard_time": 1761183019,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170232,
@@ -91,12 +211,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 150940,
+      "num": 150940,
+      "word": "今日霜降祝你好柿成双",
+      "onboard_time": 1761183379,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149189,
       "num": 661271,
       "word": "乌干达发生严重车祸致63死",
       "onboard_time": 1761131600,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149106,
+      "num": 149106,
+      "word": "捂好4个部位全身都暖和了",
+      "onboard_time": 1761178040,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142072,
@@ -115,12 +251,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137834,
+      "num": 137834,
+      "word": "喜人2三顾茅庐票数低引争议",
+      "onboard_time": 1761180020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
       "onboard_time": 1761133160,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127104,
+      "num": 127104,
+      "word": "陈丽君发长文谈我的大观园",
+      "onboard_time": 1761183198,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126314,
+      "num": 126314,
+      "word": "72岁患癌老人办生前告别式",
+      "onboard_time": 1761180681,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125042,
@@ -155,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118877,
+      "num": 118877,
+      "word": "西安一男子倒垃圾时殴打3名环卫工",
+      "onboard_time": 1761179180,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115174,
       "num": 660629,
       "word": "Doinb回应小天",
@@ -163,11 +331,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114002,
+      "num": 114002,
+      "word": "希拉里痛批特朗普拆白宫",
+      "onboard_time": 1761179901,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 113752,
+      "num": 113752,
+      "word": "印度收费站员工嫌奖金低放车免费通行",
+      "onboard_time": 1761175820,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110104,
       "num": 663438,
       "word": "冷冷冷我冷冷冷",
       "onboard_time": 1761138741,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "女生偷签MCN直播2年挣20万仅得8万",
+      "onboard_time": 1761183439,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -179,11 +371,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104693,
+      "num": 104693,
+      "word": "东北小狗住上带火炕的狗窝了",
+      "onboard_time": 1761179961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104155,
+      "num": 104155,
+      "word": "小米汽车高管辟谣SOS1秒接通宣传",
+      "onboard_time": 1761181102,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 99236,
       "num": 656544,
       "word": "齐齐哈尔高速一SUV开远光逆行",
       "onboard_time": 1761142341,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98976,
+      "num": 98976,
+      "word": "东北诞生第二个国家级都市圈",
+      "onboard_time": 1761179120,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -203,12 +419,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94893,
+      "num": 94893,
+      "word": "红舞鞋致歉声明",
+      "onboard_time": 1761176898,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94192,
+      "num": 94192,
+      "word": "美国国债首超38万亿美元",
+      "onboard_time": 1761184280,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93422,
+      "num": 93422,
+      "word": "车牌7777报废路虎5500元起拍",
+      "onboard_time": 1761179180,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91328,
       "num": 658743,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1761140962,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90720,
+      "num": 90720,
+      "word": "香港连续出现流感重症病例",
+      "onboard_time": 1761182360,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86406,
@@ -235,12 +483,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76848,
+      "num": 76848,
+      "word": "河北保定鹅毛大雪",
+      "onboard_time": 1761176779,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75792,
+      "num": 149967,
+      "word": "天地剑心定档预告",
+      "onboard_time": 1761179721,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75474,
       "num": 653046,
       "word": "万豪每桌8千8的婚宴被吐槽预制菜",
       "onboard_time": 1761142822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73750,
+      "num": 73750,
+      "word": "深圳交通部门回应一骑行道突然断头",
+      "onboard_time": 1761182239,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73673,
+      "num": 85709,
+      "word": "小猫知道主人是聋哑人后",
+      "onboard_time": 1761176179,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73458,
+      "num": 73458,
+      "word": "北京的骆驼比沙漠都多",
+      "onboard_time": 1761184161,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 72985,
@@ -275,6 +563,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69802,
+      "num": 69802,
+      "word": "华为手机图库可直接查看3D影像",
+      "onboard_time": 1761183439,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 69527,
+      "num": 69527,
+      "word": "英雄联盟S赛宣传片封面有毒",
+      "onboard_time": 1761180621,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69020,
       "num": 657736,
       "word": "名创优品80%门店将关闭重开",
@@ -289,14 +593,6 @@
       "onboard_time": 1761141203,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66630,
-      "num": 85887,
-      "word": "印度收费站员工嫌奖金低放车免费通行",
-      "onboard_time": 1761175820,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65638,
@@ -329,14 +625,6 @@
       "onboard_time": 1761130221,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 55631,
-      "num": 85709,
-      "word": "小猫知道主人是聋哑人后",
-      "onboard_time": 1761176179,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 55284,
@@ -484,7 +772,7 @@
     },
     {
       "raw_hot": 32992,
-      "num": 96401,
+      "num": 104416,
       "word": "谁家音综歌手狠起来连自己都骂",
       "onboard_time": 1761156195,
       "rank": 25,
@@ -563,7 +851,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14372,
+      "raw_hot": 15123,
       "num": 663983,
       "word": "十四五时期的智造轰鸣",
       "onboard_time": 1761141803,

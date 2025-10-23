@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761176210399,
+  "endTime": 1761184396040,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -4643,6 +4643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 696386,
+      "num": 231117,
+      "word": "19岁女生退签MCN被判赔15万",
+      "onboard_time": 1761180320,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695315,
       "num": 247928,
       "word": "麦当劳 粤菜",
@@ -4857,6 +4865,14 @@
       "onboard_time": 1759468280,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 680619,
+      "num": 1108899,
+      "word": "韩国人开始担心以后吃不上豆腐",
+      "onboard_time": 1761177798,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 680451,
@@ -8779,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463295,
+      "num": 116533,
+      "word": "特朗普说是时候制裁俄罗斯了",
+      "onboard_time": 1761178580,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 462878,
       "num": 462878,
       "word": "女娲新皮肤",
@@ -11715,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365462,
+      "num": 365462,
+      "word": "卢浮宫馆长辞职被拒",
+      "onboard_time": 1761181462,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 365344,
       "num": 365344,
       "word": "官方通报男孩幼儿园被戳伤失明",
@@ -12121,6 +12153,14 @@
       "onboard_time": 1760939182,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352528,
+      "num": 352528,
+      "word": "美欧宣布对俄罗斯实施新制裁",
+      "onboard_time": 1761179600,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 352364,
@@ -13419,6 +13459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 317623,
+      "num": 317623,
+      "word": "河南小伙卖潮玩烧饼10分钟被抢光",
+      "onboard_time": 1761180920,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317572,
       "num": 1084426,
       "word": "王健林被起诉",
@@ -13521,6 +13569,14 @@
       "onboard_time": 1759464920,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315228,
+      "num": 223804,
+      "word": "红舞鞋剧组撞猫司机已辞职",
+      "onboard_time": 1761180442,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315220,
@@ -14475,6 +14531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295520,
+      "num": 295520,
+      "word": "霜降",
+      "onboard_time": 1761174737,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295483,
       "num": 295483,
       "word": "韩国营养针",
@@ -14529,6 +14593,14 @@
       "onboard_time": 1759719081,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294000,
+      "num": 294000,
+      "word": "港珠澳大桥电影级日出",
+      "onboard_time": 1761180081,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293683,
@@ -16499,6 +16571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258970,
+      "num": 218394,
+      "word": "警方通报2人损坏电梯缆绳",
+      "onboard_time": 1761177140,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 258734,
       "num": 247792,
       "word": "S15瑞士轮第二轮抽签",
@@ -17771,6 +17851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238426,
+      "num": 238426,
+      "word": "10月23日11时51分霜降",
+      "onboard_time": 1761177140,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238379,
       "num": 238379,
       "word": "网易云音乐回应登入李玟账号",
@@ -17993,6 +18081,14 @@
       "onboard_time": 1760811556,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235237,
+      "num": 235237,
+      "word": "Faker被问生涯最大对手",
+      "onboard_time": 1761180981,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 234882,
@@ -20147,6 +20243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206287,
+      "num": 206287,
+      "word": "山河枕",
+      "onboard_time": 1759721720,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206281,
       "num": 206281,
       "word": "刘雨昕带着白月光回来了",
@@ -21091,14 +21195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199930,
-      "num": 199930,
-      "word": "霜降",
-      "onboard_time": 1761174737,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199727,
       "num": 169762,
       "word": "内娱26位女明星主演热度破万剧集",
@@ -21857,6 +21953,14 @@
       "onboard_time": 1760706802,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195275,
+      "num": 195275,
+      "word": "霜降至秋意尽",
+      "onboard_time": 1761179423,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195254,
@@ -24435,6 +24539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179676,
+      "num": 149336,
+      "word": "卢浮宫内珠宝店撤回百万珠宝",
+      "onboard_time": 1761183379,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
@@ -25921,6 +26033,14 @@
       "onboard_time": 1760266220,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171300,
+      "num": 171300,
+      "word": "超过4小时就不能吃的食物",
+      "onboard_time": 1761183019,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171269,
@@ -30299,6 +30419,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 150940,
+      "num": 150940,
+      "word": "今日霜降祝你好柿成双",
+      "onboard_time": 1761183379,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150936,
       "num": 150936,
       "word": "梁靖崑决胜盘",
@@ -30705,6 +30833,14 @@
       "onboard_time": 1760618242,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 149106,
+      "num": 149106,
+      "word": "捂好4个部位全身都暖和了",
+      "onboard_time": 1761178040,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149047,
@@ -31312,14 +31448,6 @@
       "word": "李昀锐格纹西装",
       "onboard_time": 1760151445,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146705,
-      "num": 146705,
-      "word": "山河枕",
-      "onboard_time": 1759721720,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -33737,6 +33865,14 @@
       "onboard_time": 1759994661,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 137834,
+      "num": 137834,
+      "word": "喜人2三顾茅庐票数低引争议",
+      "onboard_time": 1761180020,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 137796,
@@ -37475,6 +37611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127104,
+      "num": 127104,
+      "word": "陈丽君发长文谈我的大观园",
+      "onboard_time": 1761183198,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127096,
       "num": 560003,
       "word": "其实你不需要买很多冬装",
@@ -37777,6 +37921,14 @@
       "onboard_time": 1760757691,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126314,
+      "num": 126314,
+      "word": "72岁患癌老人办生前告别式",
+      "onboard_time": 1761180681,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126290,
@@ -40835,6 +40987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118877,
+      "num": 118877,
+      "word": "西安一男子倒垃圾时殴打3名环卫工",
+      "onboard_time": 1761179180,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118875,
       "num": 118875,
       "word": "王楚钦眼神训话",
@@ -43035,6 +43195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114002,
+      "num": 114002,
+      "word": "希拉里痛批特朗普拆白宫",
+      "onboard_time": 1761179901,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113932,
       "num": 166897,
       "word": "高市早苗用反华内容训练AI",
@@ -43169,6 +43337,14 @@
       "onboard_time": 1761134902,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113752,
+      "num": 113752,
+      "word": "印度收费站员工嫌奖金低放车免费通行",
+      "onboard_time": 1761175820,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113727,
@@ -45513,6 +45689,14 @@
       "onboard_time": 1760938580,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "女生偷签MCN直播2年挣20万仅得8万",
+      "onboard_time": 1761183439,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109549,
@@ -48195,6 +48379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104693,
+      "num": 104693,
+      "word": "东北小狗住上带火炕的狗窝了",
+      "onboard_time": 1761179961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104672,
       "num": 221514,
       "word": "勇士战胜开拓者",
@@ -48481,6 +48673,14 @@
       "onboard_time": 1760944341,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104155,
+      "num": 104155,
+      "word": "小米汽车高管辟谣SOS1秒接通宣传",
+      "onboard_time": 1761181102,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 104148,
@@ -51267,6 +51467,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98976,
+      "num": 98976,
+      "word": "东北诞生第二个国家级都市圈",
+      "onboard_time": 1761179120,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98944,
       "num": 98944,
       "word": "4人凭2道黑影救下一命",
@@ -53299,6 +53507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94893,
+      "num": 94893,
+      "word": "红舞鞋致歉声明",
+      "onboard_time": 1761176898,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94888,
       "num": 94888,
       "word": "戚薇g社镜头",
@@ -53545,6 +53761,14 @@
       "onboard_time": 1760359521,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94192,
+      "num": 94192,
+      "word": "美国国债首超38万亿美元",
+      "onboard_time": 1761184280,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94166,
@@ -54081,6 +54305,14 @@
       "onboard_time": 1760024001,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93422,
+      "num": 93422,
+      "word": "车牌7777报废路虎5500元起拍",
+      "onboard_time": 1761179180,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93398,
@@ -55449,6 +55681,14 @@
       "onboard_time": 1760062099,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90720,
+      "num": 90720,
+      "word": "香港连续出现流感重症病例",
+      "onboard_time": 1761182360,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90683,
@@ -61683,6 +61923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76848,
+      "num": 76848,
+      "word": "河北保定鹅毛大雪",
+      "onboard_time": 1761176779,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76834,
       "num": 85353,
       "word": "王楚钦在印度也是打卡景点",
@@ -62009,6 +62257,14 @@
       "onboard_time": 1761063738,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 75792,
+      "num": 149967,
+      "word": "天地剑心定档预告",
+      "onboard_time": 1761179721,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 75740,
@@ -62595,6 +62851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73750,
+      "num": 73750,
+      "word": "深圳交通部门回应一骑行道突然断头",
+      "onboard_time": 1761182239,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73744,
       "num": 73744,
       "word": "白宫官员称已开始裁员",
@@ -62617,6 +62881,14 @@
       "onboard_time": 1761135981,
       "rank": 39,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 73673,
+      "num": 85709,
+      "word": "小猫知道主人是聋哑人后",
+      "onboard_time": 1761176179,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 73649,
@@ -62657,6 +62929,14 @@
       "onboard_time": 1759420400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73458,
+      "num": 73458,
+      "word": "北京的骆驼比沙漠都多",
+      "onboard_time": 1761184161,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 73433,
@@ -63731,6 +64011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69802,
+      "num": 69802,
+      "word": "华为手机图库可直接查看3D影像",
+      "onboard_time": 1761183439,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69797,
       "num": 69797,
       "word": "岳云鹏亲了薛之谦",
@@ -63801,6 +64089,14 @@
       "onboard_time": 1760001562,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69527,
+      "num": 69527,
+      "word": "英雄联盟S赛宣传片封面有毒",
+      "onboard_time": 1761180621,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 69519,
@@ -64473,14 +64769,6 @@
       "onboard_time": 1760397619,
       "rank": 36,
       "category": "电竞,其它"
-    },
-    {
-      "raw_hot": 66630,
-      "num": 85887,
-      "word": "印度收费站员工嫌奖金低放车免费通行",
-      "onboard_time": 1761175820,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66616,
@@ -66705,14 +66993,6 @@
       "onboard_time": 1760246781,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55631,
-      "num": 85709,
-      "word": "小猫知道主人是聋哑人后",
-      "onboard_time": 1761176179,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 55546,
@@ -70628,7 +70908,7 @@
     },
     {
       "raw_hot": 32992,
-      "num": 96401,
+      "num": 104416,
       "word": "谁家音综歌手狠起来连自己都骂",
       "onboard_time": 1761156195,
       "rank": 25,
