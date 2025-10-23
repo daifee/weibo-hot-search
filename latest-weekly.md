@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/24 01:40:55
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/24 02:37:05
 </p>
 </blockquote>
 <p>
@@ -12593,6 +12593,12 @@ MKOI对战TSW（热度：19313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E5%B0%86%E6%8E%A5%E5%8F%97%E8%B4%A8%E8%AF%A2%23" target="weibo">
 卢浮宫馆长将接受质询（热度：13809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%8F%B6%E5%BC%80%E5%A7%8B%E4%B8%8A%E7%BA%A2%E5%A6%86%E4%BA%86%23" target="weibo">
+秋叶开始上红妆了（热度：13578）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761241255234,
+  "endTime": 1761244625857,
   "band_list": [
     {
       "raw_hot": 512310,
@@ -449,6 +449,14 @@
       "onboard_time": 1761211821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13578,
+      "num": 51935,
+      "word": "秋叶开始上红妆了",
+      "onboard_time": 1761241514,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
