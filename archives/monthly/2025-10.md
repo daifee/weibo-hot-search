@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 11:50:45
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 12:30:37
 </p>
 </blockquote>
 <p>
@@ -2595,6 +2595,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%8F%88%E5%8E%BB%E5%B7%B4%E9%BB%8E%E6%90%9E%E7%83%9F%E8%8A%B1%E7%A7%80%E4%BA%86%23" target="weibo">
+蔡国强又去巴黎搞烟花秀了（热度：829636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%23" target="weibo">
 赵今麦在国外美成啥了（热度：827159）
 </a>
@@ -3125,6 +3131,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%AD%E7%BD%AE%E7%A8%8E%23" target="weibo">
 购置税（热度：752749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E5%85%8D%E8%B4%B9%E6%B4%97%E9%87%91%E9%95%AF%E8%A2%AB%E6%B4%97%E6%8E%895%E5%85%8B%23" target="weibo">
+阿姨免费洗金镯被洗掉5克（热度：748825）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%8A%8A%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E6%8B%8D%E5%87%BA%E8%8A%B1%E4%BA%86%23" target="weibo">
 内娱把三生三世拍出花了（热度：498140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F%E7%85%A7%E7%89%87%23" target="weibo">
-赵丽颖庆生照片（热度：497434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
-一笑随歌热度（热度：497102）
 </a>
 </li>
 
