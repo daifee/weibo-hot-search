@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761237204677,
+  "endTime": 1761238029731,
   "band_list": [
     {
       "raw_hot": 512310,
@@ -91,6 +91,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178718,
+      "num": 178718,
+      "word": "龚俊十秒钟打了十辆车",
+      "onboard_time": 1761236300,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158659,
+      "num": 148328,
+      "word": "力挺两岸统一的台退役中将遭重判",
+      "onboard_time": 1761232943,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157125,
       "num": 157125,
       "word": "欧阳娜娜光脚走红毯",
@@ -99,20 +115,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148328,
-      "num": 148328,
-      "word": "力挺两岸统一的台退役中将遭重判",
-      "onboard_time": 1761232943,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 122728,
+      "raw_hot": 140599,
       "num": 156564,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
       "onboard_time": 1761230124,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124721,
+      "num": 335813,
+      "word": "无心已分手",
+      "onboard_time": 1761223162,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 117605,
@@ -139,19 +155,11 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 108969,
-      "num": 335813,
-      "word": "无心已分手",
-      "onboard_time": 1761223162,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 106941,
-      "num": 150758,
-      "word": "龚俊十秒钟打了十辆车",
-      "onboard_time": 1761236300,
-      "rank": 26,
+      "raw_hot": 106805,
+      "num": 152161,
+      "word": "秦海璐的刘涛怎么跟别人跑了",
+      "onboard_time": 1761235040,
+      "rank": 24,
       "category": "作品衍生,时尚"
     },
     {
@@ -187,10 +195,10 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95877,
-      "num": 152161,
-      "word": "秦海璐的刘涛怎么跟别人跑了",
-      "onboard_time": 1761235040,
+      "raw_hot": 94134,
+      "num": 133499,
+      "word": "龚俊指挥交通呢 十秒钟打了十辆车",
+      "onboard_time": 1761237557,
       "rank": 24,
       "category": "作品衍生,时尚"
     },
@@ -235,7 +243,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85812,
+      "raw_hot": 85817,
       "num": 148276,
       "word": "张婧仪 仪态之神",
       "onboard_time": 1761226643,
@@ -272,6 +280,14 @@
       "word": "张晚意 红温洗碗工",
       "onboard_time": 1761218001,
       "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 73247,
+      "num": 147818,
+      "word": "宋雨琦宁艺卓笑啥呢",
+      "onboard_time": 1761236779,
+      "rank": 39,
       "category": "作品衍生,时尚"
     },
     {
@@ -339,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51838,
-      "num": 147818,
-      "word": "宋雨琦宁艺卓笑啥呢",
-      "onboard_time": 1761236779,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 51265,
       "num": 147605,
       "word": "用人单位回应招聘岗位疑似萝卜岗",
@@ -369,6 +377,14 @@
       "onboard_time": 1761208881,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47058,
+      "num": 131229,
+      "word": "红舞鞋剧组道歉为何难平众怒",
+      "onboard_time": 1761237739,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40292,
