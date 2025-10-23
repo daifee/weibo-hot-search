@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761215346070,
+  "endTime": 1761216297346,
   "band_list": [
     {
       "raw_hot": 2364904,
@@ -35,6 +35,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1429210,
+      "num": 221268,
+      "word": "韩国梨泰院踩踏惨案调查结果公布",
+      "onboard_time": 1761214041,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1132311,
+      "num": 933593,
+      "word": "VOGUE直播",
+      "onboard_time": 1761200901,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1070572,
+      "num": 221501,
+      "word": "杨幂卢昱晓工作室 卧龙凤雏",
+      "onboard_time": 1761213201,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1050391,
       "num": 439223,
       "word": "金价一夜跌50元顾客相中直接买走",
@@ -65,14 +89,6 @@
       "onboard_time": 1761191901,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 828011,
-      "num": 221501,
-      "word": "杨幂卢昱晓工作室 卧龙凤雏",
-      "onboard_time": 1761213201,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 815728,
@@ -115,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 759253,
-      "num": 221268,
-      "word": "韩国梨泰院踩踏惨案调查结果公布",
-      "onboard_time": 1761214041,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 748825,
       "num": 436934,
       "word": "阿姨免费洗金镯被洗掉5克",
@@ -155,20 +163,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 676382,
-      "num": 933593,
-      "word": "VOGUE直播",
-      "onboard_time": 1761200901,
-      "rank": 5,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 673064,
       "num": 673064,
       "word": "动物园月薪5万招猛兽区司机",
       "onboard_time": 1761203122,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659111,
+      "num": 659111,
+      "word": "推进祖国统一",
+      "onboard_time": 1761212301,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 657527,
@@ -201,14 +209,6 @@
       "onboard_time": 1761200300,
       "rank": 16,
       "category": "时尚,幽默"
-    },
-    {
-      "raw_hot": 605518,
-      "num": 220848,
-      "word": "推进祖国统一",
-      "onboard_time": 1761212301,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 598032,
@@ -251,12 +251,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 530141,
+      "num": 530141,
+      "word": "中央军委副主席张升民简历",
+      "onboard_time": 1761215181,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 506612,
       "num": 443714,
       "word": "桑延 霜降快乐",
       "onboard_time": 1761195022,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 506234,
+      "num": 212332,
+      "word": "米卡穿婚纱走红毯",
+      "onboard_time": 1761214821,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 492225,
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425159,
+      "num": 425159,
+      "word": "小天回应doinb",
+      "onboard_time": 1761213382,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 422936,
       "num": 422936,
       "word": "戚薇VOGUE出发图是AI做的",
@@ -353,14 +377,6 @@
       "onboard_time": 1761183679,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400628,
-      "num": 249735,
-      "word": "小天回应doinb",
-      "onboard_time": 1761213382,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 390575,
@@ -499,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 295921,
+      "num": 220373,
+      "word": "京东国民好车名称官宣",
+      "onboard_time": 1761210442,
+      "rank": 23,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 294000,
       "num": 294000,
       "word": "港珠澳大桥电影级日出",
@@ -513,14 +537,6 @@
       "onboard_time": 1761196100,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287673,
-      "num": 220373,
-      "word": "京东国民好车名称官宣",
-      "onboard_time": 1761210442,
-      "rank": 23,
-      "category": "互联网,汽车"
     },
     {
       "raw_hot": 283044,
@@ -539,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275303,
+      "num": 219861,
+      "word": "警方通报女子栓绳遛狗遭殴打",
+      "onboard_time": 1761212061,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258970,
       "num": 218394,
       "word": "警方通报2人损坏电梯缆绳",
@@ -553,14 +577,6 @@
       "onboard_time": 1761208401,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 247609,
-      "num": 219861,
-      "word": "警方通报女子栓绳遛狗遭殴打",
-      "onboard_time": 1761212061,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242144,
@@ -632,14 +648,6 @@
       "word": "文淇 金色花瓶裙",
       "onboard_time": 1761212301,
       "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 212332,
-      "num": 212332,
-      "word": "米卡穿婚纱走红毯",
-      "onboard_time": 1761214821,
-      "rank": 32,
       "category": "作品衍生,时尚"
     },
     {
@@ -755,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190386,
+      "num": 190386,
+      "word": "男明星VOGUE盛典红毯生图",
+      "onboard_time": 1761215242,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189928,
       "num": 189928,
       "word": "张小斐妖冶又清冷",
       "onboard_time": 1761210921,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188297,
+      "num": 219698,
+      "word": "高市早苗对华政策",
+      "onboard_time": 1761212601,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183528,
@@ -809,6 +833,14 @@
       "onboard_time": 1761186920,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177204,
+      "num": 177204,
+      "word": "张凌赫 我的新郎",
+      "onboard_time": 1761215062,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177099,
@@ -939,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160842,
+      "num": 184702,
+      "word": "周深红毯像是在拍杂志封面",
+      "onboard_time": 1761215242,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159347,
       "num": 434895,
       "word": "老公厕爆改现磨咖啡店被查封",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1761211522,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153091,
+      "num": 153091,
+      "word": "那我一粒粒剥的算什么",
+      "onboard_time": 1761215360,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 152611,
@@ -1219,14 +1267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129696,
-      "num": 219698,
-      "word": "高市早苗对华政策",
-      "onboard_time": 1761212601,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129638,
       "num": 129638,
       "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
@@ -1347,6 +1387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122597,
+      "num": 122597,
+      "word": "钟楚曦美得像油画",
+      "onboard_time": 1761215062,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121623,
       "num": 191842,
       "word": "朱立伦将率211名国民党干部辞职",
@@ -1427,14 +1475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118378,
-      "num": 116126,
-      "word": "张凌赫 我的新郎",
-      "onboard_time": 1761215062,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 118319,
       "num": 167545,
       "word": "暗河传",
@@ -1473,22 +1513,6 @@
       "onboard_time": 1761192381,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116252,
-      "num": 116252,
-      "word": "男明星VOGUE盛典红毯生图",
-      "onboard_time": 1761215242,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115752,
-      "num": 115752,
-      "word": "中央军委副主席张升民简历",
-      "onboard_time": 1761215181,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115174,
@@ -1555,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112503,
+      "num": 184454,
+      "word": "VOGUE盛典百花齐放",
+      "onboard_time": 1761215842,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 111788,
       "num": 111788,
       "word": "2句台词他说爽了我听爽了",
@@ -1579,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110857,
+      "num": 110857,
+      "word": "水贝黄金劫",
+      "onboard_time": 1761215121,
+      "rank": 46,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 110104,
       "num": 663438,
       "word": "冷冷冷我冷冷冷",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1761130761,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108379,
+      "num": 108379,
+      "word": "VOGUE盛典好多丑衣服",
+      "onboard_time": 1761216142,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 108119,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1761200480,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106792,
-      "num": 106792,
-      "word": "水贝黄金劫",
-      "onboard_time": 1761215121,
-      "rank": 46,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 106226,
@@ -1707,6 +1747,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 103269,
+      "num": 103269,
+      "word": "小时候根本不懂大人的言外之意",
+      "onboard_time": 1761216022,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 103253,
       "num": 103253,
       "word": "王自如怎么就欠了一个亿",
@@ -1755,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100335,
-      "num": 100335,
-      "word": "钟楚曦美得像油画",
-      "onboard_time": 1761215062,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 99239,
       "num": 216252,
       "word": "金价下探66岁大爷购入百克金条",
@@ -1803,12 +1843,20 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 98583,
-      "num": 100050,
-      "word": "周深红毯像是在拍杂志封面",
-      "onboard_time": 1761215242,
-      "rank": 49,
-      "category": "作品衍生,时尚"
+      "raw_hot": 98631,
+      "num": 98631,
+      "word": "张呈直播",
+      "onboard_time": 1761216201,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98102,
+      "num": 98102,
+      "word": "Tian直播谈退役",
+      "onboard_time": 1761215722,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 96117,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1761197300,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96014,
+      "num": 96014,
+      "word": "冬天这样盖被子才暖和",
+      "onboard_time": 1761216142,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 95816,
@@ -2068,7 +2124,7 @@
     },
     {
       "raw_hot": 85819,
-      "num": 564049,
+      "num": 579103,
       "word": "中国未来五年发展的风向标",
       "onboard_time": 1761208461,
       "rank": 2,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1761176779,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76527,
+      "num": 220413,
+      "word": "能请来这么多明星的局不简单",
+      "onboard_time": 1761213921,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 76370,
@@ -2435,14 +2499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59387,
-      "num": 220413,
-      "word": "能请来这么多明星的局不简单",
-      "onboard_time": 1761213921,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59208,
       "num": 118605,
       "word": "杨瀚森常规赛首秀数据预测",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1761134902,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38105,
+      "num": 111189,
+      "word": "抢鸡排男生听闻校长病逝双手直发抖",
+      "onboard_time": 1761215540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37661,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761216297346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 443441,
+        "num": 1070950,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 659111,
+        "num": 659111,
+        "word": "推进祖国统一",
+        "onboard_time": 1761212301,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78743,
+        "num": 579103,
+        "word": "中国未来五年发展的风向标",
+        "onboard_time": 1761208461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530141,
+        "num": 530141,
+        "word": "中央军委副主席张升民简历",
+        "onboard_time": 1761215181,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425159,
+        "num": 425159,
+        "word": "小天回应doinb",
+        "onboard_time": 1761213382,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219208,
+        "num": 219208,
+        "word": "SpaceX切断缅甸电诈园超2500台星链",
+        "onboard_time": 1761205521,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202557,
+        "num": 202557,
+        "word": "四中全会",
+        "onboard_time": 1761208881,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190386,
+        "num": 190386,
+        "word": "男明星VOGUE盛典红毯生图",
+        "onboard_time": 1761215242,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20469,
+        "num": 188957,
+        "word": "霜降是秋天最后一站",
+        "onboard_time": 1761175459,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188297,
+        "num": 188297,
+        "word": "高市早苗对华政策",
+        "onboard_time": 1761212601,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1429210,
+        "num": 188180,
+        "word": "韩国梨泰院踩踏惨案调查结果公布",
+        "onboard_time": 1761214041,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1132311,
+        "num": 188041,
+        "word": "VOGUE直播",
+        "onboard_time": 1761200901,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1070572,
+        "num": 187826,
+        "word": "杨幂卢昱晓工作室 卧龙凤雏",
+        "onboard_time": 1761213201,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 720098,
+        "num": 187589,
+        "word": "张小斐 短短四年气定神闲",
+        "onboard_time": 1761212962,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 590826,
+        "num": 187218,
+        "word": "宁艺卓 比珠宝更闪耀的美貌",
+        "onboard_time": 1761213201,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 559173,
+        "num": 187126,
+        "word": "田曦薇妆发",
+        "onboard_time": 1761210321,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506234,
+        "num": 186732,
+        "word": "米卡穿婚纱走红毯",
+        "onboard_time": 1761214821,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170409,
+        "num": 186655,
+        "word": "十五五目标",
+        "onboard_time": 1761211821,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39966,
+        "num": 186395,
+        "word": "荣耀Magic8镜头里的全球蓝调",
+        "onboard_time": 1761213860,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76527,
+        "num": 186247,
+        "word": "能请来这么多明星的局不简单",
+        "onboard_time": 1761213921,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327016,
+        "num": 186049,
+        "word": "杨幂VOGUE造型",
+        "onboard_time": 1761211581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295921,
+        "num": 185769,
+        "word": "京东国民好车名称官宣",
+        "onboard_time": 1761210442,
+        "rank": 21,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 275303,
+        "num": 185400,
+        "word": "警方通报女子栓绳遛狗遭殴打",
+        "onboard_time": 1761212061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248043,
+        "num": 185281,
+        "word": "卢昱晓工作室审美",
+        "onboard_time": 1761207861,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228123,
+        "num": 185135,
+        "word": "宋茜宋威龙红毯自拍",
+        "onboard_time": 1761214222,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217475,
+        "num": 184765,
+        "word": "老板回应10元1克收小孩72克黄金",
+        "onboard_time": 1761206721,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160842,
+        "num": 184702,
+        "word": "周深红毯像是在拍杂志封面",
+        "onboard_time": 1761215242,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112503,
+        "num": 184454,
+        "word": "VOGUE盛典百花齐放",
+        "onboard_time": 1761215842,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184254,
+        "num": 184254,
+        "word": "文淇 金色花瓶裙",
+        "onboard_time": 1761212301,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109201,
+        "num": 180179,
+        "word": "VOGUE直播让艺人带货",
+        "onboard_time": 1761213860,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177204,
+        "num": 177204,
+        "word": "张凌赫 我的新郎",
+        "onboard_time": 1761215062,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "摘镜8年后视力恢复33岁男子发声",
+        "onboard_time": 1761203122,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160190,
+        "num": 160190,
+        "word": "机洗冲锋衣的受害者出现了",
+        "onboard_time": 1761210620,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153091,
+        "num": 153091,
+        "word": "那我一粒粒剥的算什么",
+        "onboard_time": 1761215360,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151519,
+        "num": 151519,
+        "word": "LV男士大衣被指撞衫长沙一中学校服",
+        "onboard_time": 1761206960,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139847,
+        "num": 139847,
+        "word": "坚持把着力点放在实体经济上",
+        "onboard_time": 1761212962,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129217,
+        "num": 129217,
+        "word": "周翊然带刘冲漂移",
+        "onboard_time": 1761214580,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "钟楚曦美得像油画",
+        "onboard_time": 1761215062,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114040,
+        "num": 114040,
+        "word": "动物园月薪5万招猛兽区司机",
+        "onboard_time": 1761203122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38105,
+        "num": 111189,
+        "word": "抢鸡排男生听闻校长病逝双手直发抖",
+        "onboard_time": 1761215540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "水贝黄金劫",
+        "onboard_time": 1761215121,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 108379,
+        "num": 108379,
+        "word": "VOGUE盛典好多丑衣服",
+        "onboard_time": 1761216142,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45621,
+        "num": 105054,
+        "word": "五位一体总体布局",
+        "onboard_time": 1761214101,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104609,
+        "num": 104609,
+        "word": "高质量推进国防和军队现代化",
+        "onboard_time": 1761211939,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103269,
+        "num": 103269,
+        "word": "小时候根本不懂大人的言外之意",
+        "onboard_time": 1761216022,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 98902,
+        "num": 98902,
+        "word": "童瑶用花梗做眼线",
+        "onboard_time": 1761213081,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98631,
+        "num": 98631,
+        "word": "张呈直播",
+        "onboard_time": 1761216201,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98102,
+        "num": 98102,
+        "word": "Tian直播谈退役",
+        "onboard_time": 1761215722,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96014,
+        "num": 96014,
+        "word": "冬天这样盖被子才暖和",
+        "onboard_time": 1761216142,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 92769,
+        "num": 92769,
+        "word": "王玉雯 下车不可能有任何问题",
+        "onboard_time": 1761210921,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#又一份新蓝图要制定了#"
+    }
+  }
+}
