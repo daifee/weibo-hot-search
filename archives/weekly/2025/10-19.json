@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761230771013,
+  "endTime": 1761233301321,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -403,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1003799,
+      "num": 249961,
+      "word": "田曦薇怎么走了",
+      "onboard_time": 1761230662,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1000675,
       "num": 1000675,
       "word": "VOGUE请假阵容",
@@ -731,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 746377,
+      "num": 249773,
+      "word": "娜扎一把拉过杨幂",
+      "onboard_time": 1761230904,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 733902,
       "num": 733902,
       "word": "惊天魔盗团",
@@ -913,6 +929,14 @@
       "onboard_time": 1760829258,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682274,
+      "num": 354905,
+      "word": "河南一事业单位遭网友质疑设萝卜岗",
+      "onboard_time": 1761229643,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 680619,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1760934202,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577744,
+      "num": 577744,
+      "word": "撞86元校服的LV大衣被抢空",
+      "onboard_time": 1761230182,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575295,
@@ -2427,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354905,
-      "num": 354905,
-      "word": "河南一事业单位遭网友质疑设萝卜岗",
-      "onboard_time": 1761229643,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -3251,6 +3275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277764,
+      "num": 277764,
+      "word": "缅甸军方突袭KK园区",
+      "onboard_time": 1761231322,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 275438,
       "num": 275438,
       "word": "无心已分手",
@@ -3265,14 +3297,6 @@
       "onboard_time": 1761112101,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272410,
-      "num": 272410,
-      "word": "撞86元校服的LV大衣被抢空",
-      "onboard_time": 1761230182,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272127,
@@ -3539,6 +3563,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 250498,
+      "num": 250498,
+      "word": "李沁晒花少VOGUE合照",
+      "onboard_time": 1761229223,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 249857,
       "num": 249857,
       "word": "陈哲远过膝皮靴",
@@ -3655,6 +3687,14 @@
       "num": 219552,
       "word": "宋茜宋威龙红毯自拍",
       "onboard_time": 1761214222,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 240106,
+      "num": 240106,
+      "word": "宋茜强曝光镜头下的五官",
+      "onboard_time": 1761231743,
       "rank": 25,
       "category": "作品衍生,时尚"
     },
@@ -3905,14 +3945,6 @@
       "onboard_time": 1761138741,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221025,
-      "num": 209837,
-      "word": "李沁晒花少VOGUE合照",
-      "onboard_time": 1761229223,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220859,
@@ -4659,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193958,
+      "num": 193958,
+      "word": "刘冲端水",
+      "onboard_time": 1761230544,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193918,
       "num": 1001015,
       "word": "红山森林动物园火烈鸟冷得发抖",
@@ -4737,14 +4777,6 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191461,
-      "num": 191461,
-      "word": "刘冲端水",
-      "onboard_time": 1761230544,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190857,
@@ -5500,7 +5532,7 @@
     },
     {
       "raw_hot": 171289,
-      "num": 171289,
+      "num": 250152,
       "word": "花少",
       "onboard_time": 1761229583,
       "rank": 37,
@@ -5585,14 +5617,6 @@
       "onboard_time": 1760871801,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168401,
-      "num": 168401,
-      "word": "田曦薇怎么走了",
-      "onboard_time": 1761230662,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167955,
@@ -6075,6 +6099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "4人吃饭饮酒1人死亡先离开2人无责",
+      "onboard_time": 1761230124,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158093,
       "num": 123549,
       "word": "金价银价急跌原因",
@@ -6169,14 +6201,6 @@
       "onboard_time": 1761201021,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 155393,
-      "num": 155393,
-      "word": "4人吃饭饮酒1人死亡先离开2人无责",
-      "onboard_time": 1761230124,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155178,
@@ -6907,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140631,
+      "num": 140631,
+      "word": "力挺两岸统一的台退役中将遭重判",
+      "onboard_time": 1761232943,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140385,
       "num": 413409,
       "word": "清融状态",
@@ -7017,6 +7049,14 @@
       "onboard_time": 1761107062,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138541,
+      "num": 138541,
+      "word": "周深喂自己花生",
+      "onboard_time": 1761232462,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138313,
@@ -7448,6 +7488,14 @@
       "word": "野人孩子父母正被调查是否违法",
       "onboard_time": 1760862861,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130717,
+      "num": 130717,
+      "word": "医院开女性肛肠门诊开诊即满号",
+      "onboard_time": 1761232582,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -8289,6 +8337,14 @@
       "onboard_time": 1760875942,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119638,
+      "num": 119638,
+      "word": "市监局介入处理小米YU7不明零件",
+      "onboard_time": 1761231563,
+      "rank": 46,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 119634,
@@ -10233,6 +10289,14 @@
       "onboard_time": 1760840839,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101429,
+      "num": 138739,
+      "word": "49元买李宁外套收到linimg",
+      "onboard_time": 1761231264,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101376,
@@ -13011,6 +13075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79301,
+      "num": 124728,
+      "word": "智能门锁 陌生人指纹解锁",
+      "onboard_time": 1761231802,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79011,
       "num": 234810,
       "word": "好羽绒服凭什么不能大众价",
@@ -13409,6 +13481,14 @@
       "onboard_time": 1760845580,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76222,
+      "num": 138632,
+      "word": "广西百色内涝20天未退",
+      "onboard_time": 1761231624,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76168,
@@ -14179,12 +14259,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 67259,
+      "num": 248281,
+      "word": "WB战胜DRG",
+      "onboard_time": 1761232823,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67219,
       "num": 67219,
       "word": "多家银行近日下调存款利率",
       "onboard_time": 1761201260,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67218,
+      "num": 99048,
+      "word": "引领发展新质生产力",
+      "onboard_time": 1761212601,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67091,
@@ -14851,6 +14947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57482,
+      "num": 258998,
+      "word": "2026款宋LDMi纯电续航200KM",
+      "onboard_time": 1761228444,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57456,
       "num": 81209,
       "word": "你好种地少年3开播",
@@ -14873,14 +14977,6 @@
       "onboard_time": 1761060380,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57092,
-      "num": 258998,
-      "word": "2026款宋LDMi纯电续航200KM",
-      "onboard_time": 1761228444,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 57090,
