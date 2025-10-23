@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 16:36:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 16:49:26
 </p>
 </blockquote>
 <p>
@@ -3759,6 +3759,12 @@ AL战胜HLE（热度：684053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%9C%88%E8%96%AA5%E4%B8%87%E6%8B%9B%E7%8C%9B%E5%85%BD%E5%8C%BA%E5%8F%B8%E6%9C%BA%23" target="weibo">
+动物园月薪5万招猛兽区司机（热度：673064）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E6%B8%A9%E5%A5%B3%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A6%81%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%84%BF%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
 失温女生母亲要确认女儿是否被抛弃（热度：670904）
 </a>
@@ -4109,12 +4115,6 @@ TheShy在干啥（热度：644110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83%23" target="weibo">
 2025诺贝尔物理学奖公布（热度：632624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%9C%88%E8%96%AA5%E4%B8%87%E6%8B%9B%E7%8C%9B%E5%85%BD%E5%8C%BA%E5%8F%B8%E6%9C%BA%23" target="weibo">
-动物园月薪5万招猛兽区司机（热度：631850）
 </a>
 </li>
 
