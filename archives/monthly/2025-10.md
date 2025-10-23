@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 19:38:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 20:54:43
 </p>
 </blockquote>
 <p>
@@ -209,6 +209,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E5%86%A0%E7%8E%8B%23" target="weibo">
 王楚钦3冠王（热度：2572562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%A6%E9%AA%81%E5%90%A6%E8%AE%A4%E5%A9%9A%E5%8F%98%23" target="weibo">
+窦骁否认婚变（热度：2559350）
 </a>
 </li>
 
@@ -1095,6 +1101,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%8B%E8%BD%B4%23" target="weibo">
+刘亦菲压轴（热度：1221643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A5%B3%E5%84%BF%E5%B1%85%E7%84%B6%E9%A9%AC%E4%B8%8A%E8%A6%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%E4%BA%86%23" target="weibo">
 刘涛女儿居然马上要读大学了（热度：1220104）
 </a>
@@ -1901,6 +1913,12 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%AD%E7%A7%8B%E5%AB%A6%E5%A8%A5%E9%80%A0%E5%9E%8B%23" target="weibo">
 迪丽热巴中秋嫦娥造型（热度：986621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%AE%8B%E5%90%88%E4%BD%93%23" target="weibo">
+双宋合体（热度：985860）
 </a>
 </li>
 
@@ -3555,6 +3573,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%80%E5%9C%BA%23" target="weibo">
+杨幂开场（热度：701225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%97%A0%E5%8F%AF%E7%BD%AE%E7%96%91%23" target="weibo">
 台湾人就是中国人无可置疑（热度：701017）
 </a>
@@ -4211,6 +4235,12 @@ TheShy在干啥（热度：644110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83%23" target="weibo">
 2025诺贝尔物理学奖公布（热度：632624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CTES%23" target="weibo">
+GEN战胜TES（热度：632622）
 </a>
 </li>
 
@@ -5984,36 +6014,6 @@ GEN战胜T1（热度：526738）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23" target="weibo">
-特朗普称一年后美国稀土将多如牛毛（热度：506980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%91%E5%BB%B6%20%E9%9C%9C%E9%99%8D%E5%BF%AB%E4%B9%90%23" target="weibo">
-桑延 霜降快乐（热度：506612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8BvsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
-林诗栋vsF勒布伦（热度：506365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%B0%8F%E7%B1%B3%E5%AF%B9%E6%A0%87%E8%8B%B9%E6%9E%9C%23" target="weibo">
-新华社评小米对标苹果（热度：506282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E7%A9%BF%E5%A9%9A%E7%BA%B1%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
-米卡穿婚纱走红毯（热度：506234）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6413,6 +6413,12 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BC%9F%E5%A4%A7%E4%BA%8B%E4%B8%9A%E6%88%90%E4%BA%8E%E5%AE%9E%E5%B9%B2%23%23" target="weibo">
 #伟大事业成于实干#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23%23" target="weibo">
+#二十届四中全会公报#
 </a>
 </li>
 
