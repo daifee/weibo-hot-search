@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761198143859,
+  "endTime": 1761201466928,
   "band_list": [
     {
       "raw_hot": 2349553,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 815728,
-      "num": 172606,
+      "num": 265883,
       "word": "外国网红故意丢钱包测中国人素质",
       "onboard_time": 1761194063,
       "rank": 30,
@@ -99,8 +99,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 513763,
+      "num": 513763,
+      "word": "法国前总统萨科齐入狱后遭囚犯霸凌",
+      "onboard_time": 1761198619,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 506612,
-      "num": 172152,
+      "num": 252336,
       "word": "桑延 霜降快乐",
       "onboard_time": 1761195022,
       "rank": 12,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361472,
+      "num": 361472,
+      "word": "VOGUE直播",
+      "onboard_time": 1761200901,
+      "rank": 5,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 357042,
       "num": 662054,
       "word": "女子做美甲咬牙硬扛被疼哭",
@@ -185,6 +201,14 @@
       "onboard_time": 1761192381,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337016,
+      "num": 260445,
+      "word": "染了血的红舞鞋还能跳起来吗",
+      "onboard_time": 1761199581,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332298,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 289923,
-      "num": 221802,
+      "num": 281533,
       "word": "大侦探",
       "onboard_time": 1761196100,
       "rank": 5,
@@ -267,12 +291,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238907,
+      "num": 238907,
+      "word": "第一次感受到了学历高的弊端",
+      "onboard_time": 1761191540,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238426,
       "num": 238426,
       "word": "10月23日11时51分霜降",
       "onboard_time": 1761177140,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229762,
+      "num": 229762,
+      "word": "当代奢侈品三巨头",
+      "onboard_time": 1761200300,
+      "rank": 16,
+      "category": "时尚,幽默"
     },
     {
       "raw_hot": 226374,
@@ -284,11 +324,19 @@
     },
     {
       "raw_hot": 224684,
-      "num": 224684,
+      "num": 234074,
       "word": "文班亚马爆砍40分",
       "onboard_time": 1761194542,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218114,
+      "num": 218114,
+      "word": "老板10元1克收孩子黄金还家长",
+      "onboard_time": 1761198201,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211857,
@@ -361,14 +409,6 @@
       "onboard_time": 1761144562,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 193627,
-      "num": 166749,
-      "word": "第一次感受到了学历高的弊端",
-      "onboard_time": 1761191540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 191665,
@@ -515,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152611,
+      "num": 152611,
+      "word": "杨瀚森第8位NBA常规赛登场中国球员",
+      "onboard_time": 1761197241,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152122,
       "num": 660975,
       "word": "闲鱼回应平台出现卢浮宫珠宝",
@@ -595,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145905,
+      "num": 361489,
+      "word": "网友追更的小雪豹胖了30斤",
+      "onboard_time": 1761196941,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145520,
       "num": 145520,
       "word": "谁家网剧比恋综还好嗑呀",
@@ -635,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136583,
-      "num": 136583,
-      "word": "杨瀚森第8位NBA常规赛登场中国球员",
-      "onboard_time": 1761197241,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
@@ -657,6 +705,14 @@
       "onboard_time": 1761191721,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129601,
+      "num": 93440,
+      "word": "我妈以为我住10平米的出租屋很惨",
+      "onboard_time": 1761201021,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 129352,
@@ -883,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112780,
+      "num": 267931,
+      "word": "占座超30分钟自动弃座",
+      "onboard_time": 1761200120,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112750,
       "num": 112750,
       "word": "北京的骆驼比沙漠都多",
@@ -920,14 +984,6 @@
       "word": "冷冷冷我冷冷冷",
       "onboard_time": 1761138741,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108885,
-      "num": 116063,
-      "word": "网友追更的小雪豹胖了30斤",
-      "onboard_time": 1761196941,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1115,6 +1171,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93272,
+      "num": 93272,
+      "word": "戴眼镜10余年摘镜发现不是真近视",
+      "onboard_time": 1761198561,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92759,
+      "num": 92759,
+      "word": "95后被骗光积蓄一年重新攒下24万",
+      "onboard_time": 1761199400,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92264,
+      "num": 92264,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1761200480,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91892,
+      "num": 91892,
+      "word": "何运晨在高智男大赛道强得可怕",
+      "onboard_time": 1761200060,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91328,
       "num": 658743,
       "word": "林俊杰jj20世界巡回演唱会",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1761177499,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90201,
+      "num": 90201,
+      "word": "武艺外婆对高个子的标准是一米六",
+      "onboard_time": 1761200420,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 88638,
@@ -1227,6 +1323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80887,
+      "num": 97693,
+      "word": "水龙吟一打开就是护眼模式",
+      "onboard_time": 1761200840,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79531,
+      "num": 96247,
+      "word": "Fly上综艺半个KPL的熟人都来了",
+      "onboard_time": 1761201140,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 78783,
       "num": 78783,
       "word": "森林狼vs开拓者",
@@ -1300,10 +1412,18 @@
     },
     {
       "raw_hot": 72807,
-      "num": 169567,
+      "num": 256468,
       "word": "京东上新直播",
       "onboard_time": 1761196941,
       "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 72592,
+      "num": 72592,
+      "word": "王自如再谈罗永浩",
+      "onboard_time": 1761200901,
+      "rank": 41,
       "category": "互联网"
     },
     {
@@ -1313,6 +1433,14 @@
       "onboard_time": 1761135622,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71668,
+      "num": 71668,
+      "word": "上班请假妆",
+      "onboard_time": 1761200600,
+      "rank": 42,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 71427,
@@ -1363,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67219,
+      "num": 67219,
+      "word": "多家银行近日下调存款利率",
+      "onboard_time": 1761201260,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67191,
       "num": 657488,
       "word": "张博恒世锦赛全能银牌",
@@ -1395,12 +1531,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62581,
+      "num": 62581,
+      "word": "爱德华兹41分",
+      "onboard_time": 1761200840,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62226,
       "num": 368530,
       "word": "文化中国行霜降节气",
       "onboard_time": 1761175879,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61960,
+      "num": 61960,
+      "word": "上班最轻松的其实不是摸鱼",
+      "onboard_time": 1761195141,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 61399,
@@ -1457,6 +1609,14 @@
       "onboard_time": 1761194422,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53557,
+      "num": 78160,
+      "word": "王珞丹一回头天塌了",
+      "onboard_time": 1761199400,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 53127,
@@ -1529,6 +1689,14 @@
       "onboard_time": 1761187221,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40879,
+      "num": 95313,
+      "word": "京东拍卖送英雄联盟门票KPL门票",
+      "onboard_time": 1761199461,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 40834,
@@ -1627,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29868,
+      "num": 61223,
+      "word": "你妈式回答从白宫吹到了五角大楼",
+      "onboard_time": 1761199701,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28197,
       "num": 142206,
       "word": "凯文凯利说年轻人失败得不够多",
@@ -1716,7 +1892,7 @@
     },
     {
       "raw_hot": 2502,
-      "num": 90858,
+      "num": 362991,
       "word": "党的二十届四中全会",
       "onboard_time": 1761107002,
       "rank": 47,

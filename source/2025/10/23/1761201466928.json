@@ -1,0 +1,410 @@
+{
+  "runTime": 1761201466928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647653,
+        "num": 1103624,
+        "word": "iPhone命名或跳过19",
+        "onboard_time": 1761197060,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 513763,
+        "num": 513763,
+        "word": "法国前总统萨科齐入狱后遭囚犯霸凌",
+        "onboard_time": 1761198619,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2452,
+        "num": 362991,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 361489,
+        "word": "网友追更的小雪豹胖了30斤",
+        "onboard_time": 1761196941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129294,
+        "num": 361479,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361472,
+        "num": 361472,
+        "word": "VOGUE直播",
+        "onboard_time": 1761200901,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 281533,
+        "num": 281533,
+        "word": "大侦探",
+        "onboard_time": 1761196100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126872,
+        "num": 277123,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4056,
+        "num": 275452,
+        "word": "国务院同意设立全民阅读活动周",
+        "onboard_time": 1761135741,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112780,
+        "num": 267931,
+        "word": "占座超30分钟自动弃座",
+        "onboard_time": 1761200120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536844,
+        "num": 265883,
+        "word": "外国网红故意丢钱包测中国人素质",
+        "onboard_time": 1761194063,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337016,
+        "num": 260445,
+        "word": "染了血的红舞鞋还能跳起来吗",
+        "onboard_time": 1761199581,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31065,
+        "num": 256468,
+        "word": "京东上新直播",
+        "onboard_time": 1761196941,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252336,
+        "num": 252336,
+        "word": "桑延 霜降快乐",
+        "onboard_time": 1761195022,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238907,
+        "num": 238907,
+        "word": "第一次感受到了学历高的弊端",
+        "onboard_time": 1761191540,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110058,
+        "num": 234074,
+        "word": "文班亚马爆砍40分",
+        "onboard_time": 1761194542,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229762,
+        "num": 229762,
+        "word": "当代奢侈品三巨头",
+        "onboard_time": 1761200300,
+        "rank": 16,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 218114,
+        "num": 218114,
+        "word": "老板10元1克收孩子黄金还家长",
+        "onboard_time": 1761198201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157144,
+        "num": 157144,
+        "word": "日本首位女首相的政策比男人还男人",
+        "onboard_time": 1761192381,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78689,
+        "num": 154514,
+        "word": "易烊千玺山花重逢",
+        "onboard_time": 1761197001,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184812,
+        "num": 153978,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 152611,
+        "num": 152611,
+        "word": "杨瀚森第8位NBA常规赛登场中国球员",
+        "onboard_time": 1761197241,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132755,
+        "num": 132755,
+        "word": "阿姨免费洗金镯被洗掉5克",
+        "onboard_time": 1761190939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107258,
+        "num": 107258,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100395,
+        "num": 100395,
+        "word": "女孩怀疑英语是中国人发明的",
+        "onboard_time": 1761191540,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99436,
+        "num": 99436,
+        "word": "老公厕爆改现磨咖啡店被查封",
+        "onboard_time": 1761191901,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81031,
+        "num": 98896,
+        "word": "去有风的地方vs去有馕的地方",
+        "onboard_time": 1761195921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80887,
+        "num": 97693,
+        "word": "水龙吟一打开就是护眼模式",
+        "onboard_time": 1761200840,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79531,
+        "num": 96247,
+        "word": "Fly上综艺半个KPL的熟人都来了",
+        "onboard_time": 1761201140,
+        "rank": 28,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 40879,
+        "num": 95313,
+        "word": "京东拍卖送英雄联盟门票KPL门票",
+        "onboard_time": 1761199461,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129601,
+        "num": 93440,
+        "word": "我妈以为我住10平米的出租屋很惨",
+        "onboard_time": 1761201021,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 93272,
+        "num": 93272,
+        "word": "戴眼镜10余年摘镜发现不是真近视",
+        "onboard_time": 1761198561,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92759,
+        "num": 92759,
+        "word": "95后被骗光积蓄一年重新攒下24万",
+        "onboard_time": 1761199400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92264,
+        "num": 92264,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1761200480,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91892,
+        "num": 91892,
+        "word": "何运晨在高智男大赛道强得可怕",
+        "onboard_time": 1761200060,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90201,
+        "num": 90201,
+        "word": "武艺外婆对高个子的标准是一米六",
+        "onboard_time": 1761200420,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84051,
+        "num": 84051,
+        "word": "雪后九寨沟美成了童话世界",
+        "onboard_time": 1761197960,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 78578,
+        "num": 78578,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53557,
+        "num": 78160,
+        "word": "王珞丹一回头天塌了",
+        "onboard_time": 1761199400,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77774,
+        "num": 77774,
+        "word": "CSGO游戏更新导致游戏外市场崩溃",
+        "onboard_time": 1761195561,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75412,
+        "num": 75412,
+        "word": "印度人直播如何在中国找到高薪工作",
+        "onboard_time": 1761197300,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72592,
+        "num": 72592,
+        "word": "王自如再谈罗永浩",
+        "onboard_time": 1761200901,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71668,
+        "num": 71668,
+        "word": "上班请假妆",
+        "onboard_time": 1761200600,
+        "rank": 42,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 67219,
+        "num": 67219,
+        "word": "多家银行近日下调存款利率",
+        "onboard_time": 1761201260,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67177,
+        "num": 67177,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64742,
+        "num": 64742,
+        "word": "金价暴涨后又暴跌金店客流稀少",
+        "onboard_time": 1761196820,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62581,
+        "num": 62581,
+        "word": "爱德华兹41分",
+        "onboard_time": 1761200840,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61960,
+        "num": 61960,
+        "word": "上班最轻松的其实不是摸鱼",
+        "onboard_time": 1761195141,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61233,
+        "num": 61233,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29868,
+        "num": 61223,
+        "word": "你妈式回答从白宫吹到了五角大楼",
+        "onboard_time": 1761199701,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
