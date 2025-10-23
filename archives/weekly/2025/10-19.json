@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761247307859,
+  "endTime": 1761248250925,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -16815,6 +16815,14 @@
       "num": 17642,
       "word": "王雷演活了西迁人的家国心",
       "onboard_time": 1760822835,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11902,
+      "num": 29346,
+      "word": "丁禹兮花开锦绣战损妆",
+      "onboard_time": 1761241817,
       "rank": 46,
       "category": "剧集"
     },
