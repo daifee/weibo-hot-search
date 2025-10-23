@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 23:28:21
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 23:41:40
 </p>
 </blockquote>
 <p>
@@ -3945,6 +3945,12 @@ AL战胜HLE（热度：684053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E86%E5%85%83%E6%A0%A1%E6%9C%8D%E7%9A%84LV%E5%A4%A7%E8%A1%A3%E8%A2%AB%E6%8A%A2%E7%A9%BA%23" target="weibo">
+撞86元校服的LV大衣被抢空（热度：669619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
 北方暴雨冷到破纪录（热度：669246）
 </a>
@@ -4967,12 +4973,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E7%8E%8B%E6%9D%83%E7%AF%87%E6%94%B9%E5%90%8D%E4%BA%86%23" target="weibo">
 狐妖王权篇改名了（热度：578096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E86%E5%85%83%E6%A0%A1%E6%9C%8D%E7%9A%84LV%E5%A4%A7%E8%A1%A3%E8%A2%AB%E6%8A%A2%E7%A9%BA%23" target="weibo">
-撞86元校服的LV大衣被抢空（热度：577744）
 </a>
 </li>
 
