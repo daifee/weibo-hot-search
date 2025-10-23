@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761209366726,
+  "endTime": 1761211775385,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -323,6 +323,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2364904,
+      "num": 469964,
+      "word": "杨幂裙子",
+      "onboard_time": 1761211581,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2363947,
       "num": 2363947,
       "word": "王曼昱4比2战胜孙颖莎",
@@ -417,6 +425,14 @@
       "onboard_time": 1761010580,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1990038,
+      "num": 485585,
+      "word": "刘亦菲 今茜是何年",
+      "onboard_time": 1761209061,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1970475,
@@ -2651,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943694,
+      "num": 1150991,
+      "word": "二十届四中全会公报",
+      "onboard_time": 1761210142,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 943011,
       "num": 943011,
       "word": "银行长期不动账户将被清理",
@@ -3899,6 +3923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 785921,
+      "num": 465455,
+      "word": "李沁工作室选的裙子",
+      "onboard_time": 1761208461,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 785694,
       "num": 416601,
       "word": "张慧贤给万鹏道歉",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1760764172,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 731112,
+      "num": 464607,
+      "word": "卢昱晓工作室审美",
+      "onboard_time": 1761207861,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 730577,
@@ -5555,6 +5595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628298,
+      "num": 464099,
+      "word": "红舞鞋剧组用疏忽搪塞撞猫",
+      "onboard_time": 1761209722,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626288,
       "num": 1100206,
       "word": "中方回应朝鲜发射多枚弹道导弹",
@@ -6425,6 +6473,14 @@
       "onboard_time": 1761181462,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 573424,
+      "num": 462647,
+      "word": "田曦薇妆发",
+      "onboard_time": 1761210321,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 572684,
@@ -8419,14 +8475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485585,
-      "num": 485585,
-      "word": "刘亦菲 今茜是何年",
-      "onboard_time": 1761209061,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 484736,
       "num": 259870,
       "word": "曝王乐晨是为了气前女友跑去上综艺",
@@ -8505,6 +8553,14 @@
       "onboard_time": 1759472241,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 479870,
+      "num": 1074234,
+      "word": "SpaceX切断缅甸电诈园超2500台星链",
+      "onboard_time": 1761205521,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 479548,
@@ -8945,14 +9001,6 @@
       "onboard_time": 1759800920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463962,
-      "num": 1074234,
-      "word": "SpaceX切断缅甸电诈园超2500台星链",
-      "onboard_time": 1761205521,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 463530,
@@ -9923,6 +9971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 432817,
+      "num": 825784,
+      "word": "VOGUE直播 给明星算塔罗",
+      "onboard_time": 1761207321,
+      "rank": 21,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 432554,
       "num": 432554,
       "word": "山姆回应配送员电动车挂满大件货物",
@@ -10201,6 +10257,14 @@
       "onboard_time": 1760016321,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423167,
+      "num": 470852,
+      "word": "乌克兰幼儿园遭袭瞬间画面曝光",
+      "onboard_time": 1761208941,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 422936,
@@ -11737,14 +11801,6 @@
       "onboard_time": 1759388359,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370800,
-      "num": 370800,
-      "word": "李沁工作室选的裙子",
-      "onboard_time": 1761208461,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370639,
@@ -15443,14 +15499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283418,
-      "num": 283418,
-      "word": "卢昱晓工作室审美",
-      "onboard_time": 1761207861,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 283316,
       "num": 214996,
       "word": "王一博85车队亚军",
@@ -15977,14 +16025,6 @@
       "onboard_time": 1759754902,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274535,
-      "num": 825784,
-      "word": "VOGUE直播 给明星算塔罗",
-      "onboard_time": 1761207321,
-      "rank": 21,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 274531,
@@ -17449,6 +17489,14 @@
       "onboard_time": 1760675123,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249857,
+      "num": 249857,
+      "word": "陈哲远过膝皮靴",
+      "onboard_time": 1761208401,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249798,
@@ -19395,6 +19443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220373,
+      "num": 220373,
+      "word": "京东国民好车名称官宣",
+      "onboard_time": 1761210442,
+      "rank": 23,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 220225,
       "num": 198304,
       "word": "曝LPL俱乐部投入",
@@ -19953,6 +20009,14 @@
       "onboard_time": 1759331481,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212421,
+      "num": 1035599,
+      "word": "四中全会",
+      "onboard_time": 1760948660,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212278,
@@ -23289,6 +23353,14 @@
       "onboard_time": 1759973001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189928,
+      "num": 189928,
+      "word": "张小斐妖冶又清冷",
+      "onboard_time": 1761210921,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 189875,
@@ -26811,6 +26883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169928,
+      "num": 169928,
+      "word": "joker谈小天和Doinb矛盾",
+      "onboard_time": 1761210442,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169810,
       "num": 169810,
       "word": "墨西哥活火山上空疑出现UFO舰队",
@@ -26985,14 +27065,6 @@
       "onboard_time": 1760414963,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168839,
-      "num": 1035599,
-      "word": "四中全会",
-      "onboard_time": 1760948660,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168818,
@@ -34003,14 +34075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139717,
-      "num": 216691,
-      "word": "陈哲远过膝皮靴",
-      "onboard_time": 1761208401,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 139657,
       "num": 139657,
       "word": "石凯暗流",
@@ -37251,6 +37315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130159,
+      "num": 475601,
+      "word": "十五五规划建议审议通过",
+      "onboard_time": 1761210620,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130156,
       "num": 130156,
       "word": "奶皮子拿铁",
@@ -38211,6 +38283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127402,
+      "num": 127402,
+      "word": "机洗冲锋衣的受害者出现了",
+      "onboard_time": 1761210620,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127361,
       "num": 127361,
       "word": "喜人奇妙夜2",
@@ -38449,6 +38529,14 @@
       "onboard_time": 1760863281,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126695,
+      "num": 126695,
+      "word": "刘涛点菜像极了月底没钱的我",
+      "onboard_time": 1761209661,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 126690,
@@ -40059,6 +40147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123090,
+      "num": 216159,
+      "word": "小县城消费水平",
+      "onboard_time": 1761208221,
+      "rank": 47,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "谁看出来86版西游记换人了",
@@ -41033,6 +41129,14 @@
       "onboard_time": 1760523801,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120598,
+      "num": 474405,
+      "word": "解读四中全会精神新闻发布会",
+      "onboard_time": 1761211522,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120507,
@@ -44843,14 +44947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112362,
-      "num": 207343,
-      "word": "乌克兰幼儿园遭袭瞬间画面曝光",
-      "onboard_time": 1761208941,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 112328,
       "num": 112328,
       "word": "痴情的长公主请再等一世吧",
@@ -48491,6 +48587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 106226,
+      "num": 106226,
+      "word": "王玉雯 下车不可能有任何问题",
+      "onboard_time": 1761210921,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106213,
       "num": 106213,
       "word": "一诺护短",
@@ -49491,6 +49595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104405,
+      "num": 207228,
+      "word": "无面面包",
+      "onboard_time": 1761208941,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104338,
       "num": 176488,
       "word": "在10级大风里洗热水澡是种什么体验",
@@ -50161,6 +50273,14 @@
       "onboard_time": 1759571660,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 103253,
+      "num": 103253,
+      "word": "王自如怎么就欠了一个亿",
+      "onboard_time": 1761211282,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 103243,
@@ -53763,14 +53883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96234,
-      "num": 207228,
-      "word": "无面面包",
-      "onboard_time": 1761208941,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96229,
       "num": 1249436,
       "word": "石宇奇法国公开赛退赛",
@@ -56481,14 +56593,6 @@
       "onboard_time": 1760196801,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91219,
-      "num": 216159,
-      "word": "小县城消费水平",
-      "onboard_time": 1761208221,
-      "rank": 47,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 91204,
@@ -61763,6 +61867,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 80478,
+      "num": 196526,
+      "word": "嗨放派八分钟给我看麻了",
+      "onboard_time": 1761210862,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80457,
       "num": 80457,
       "word": "吃剩的柚子皮不要丢",
@@ -62121,6 +62233,14 @@
       "onboard_time": 1760484020,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79553,
+      "num": 103193,
+      "word": "欧阳娜娜绿野仙踪",
+      "onboard_time": 1761210502,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 79549,
@@ -65363,6 +65483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69592,
+      "num": 564049,
+      "word": "中国未来五年发展的风向标",
+      "onboard_time": 1761208461,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69563,
       "num": 69563,
       "word": "挪威5比0以色列",
@@ -65657,14 +65785,6 @@
       "onboard_time": 1760517380,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68328,
-      "num": 564049,
-      "word": "中国未来五年发展的风向标",
-      "onboard_time": 1761208461,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68297,
@@ -66041,6 +66161,14 @@
       "onboard_time": 1759307120,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66761,
+      "num": 103118,
+      "word": "中国核建涨停",
+      "onboard_time": 1761211460,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 66754,
@@ -73355,6 +73483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27617,
+      "num": 845144,
+      "word": "古画里的绝美秋色",
+      "onboard_time": 1761208881,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27532,
       "num": 570858,
       "word": "酷似袁隆平走红的面筋爷爷发声",
@@ -75457,14 +75593,6 @@
       "onboard_time": 1760683160,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13125,
-      "num": 845144,
-      "word": "古画里的绝美秋色",
-      "onboard_time": 1761208881,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13118,
