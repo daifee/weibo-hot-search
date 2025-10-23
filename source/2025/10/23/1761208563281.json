@@ -1,0 +1,410 @@
+{
+  "runTime": 1761208563281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 342938,
+        "num": 1054870,
+        "word": "SpaceX切断缅甸电诈园超2500台星链",
+        "onboard_time": 1761205521,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231225,
+        "num": 746445,
+        "word": "占座超30分钟自动弃座",
+        "onboard_time": 1761200120,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50630,
+        "num": 564049,
+        "word": "中国未来五年发展的风向标",
+        "onboard_time": 1761208461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542967,
+        "num": 542967,
+        "word": "VOGUE直播",
+        "onboard_time": 1761200901,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175571,
+        "num": 491397,
+        "word": "中美在马来西亚经贸磋商",
+        "onboard_time": 1761203361,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440287,
+        "num": 440287,
+        "word": "迪丽热巴卫蓝路透",
+        "onboard_time": 1761207081,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263723,
+        "num": 433973,
+        "word": "法国前总统萨科齐入狱后遭囚犯霸凌",
+        "onboard_time": 1761198619,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480238,
+        "num": 411226,
+        "word": "女明星VOGUE盛典造型出图",
+        "onboard_time": 1761203540,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24690,
+        "num": 400874,
+        "word": "霜降是秋天最后一站",
+        "onboard_time": 1761175459,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159316,
+        "num": 382442,
+        "word": "Chovy说TES很倒霉",
+        "onboard_time": 1761205701,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 902302,
+        "num": 372494,
+        "word": "摘镜8年后视力恢复33岁男子发声",
+        "onboard_time": 1761203122,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3436,
+        "num": 350175,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631850,
+        "num": 345475,
+        "word": "动物园月薪5万招猛兽区司机",
+        "onboard_time": 1761203122,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334339,
+        "num": 334339,
+        "word": "当代奢侈品三巨头",
+        "onboard_time": 1761200300,
+        "rank": 13,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 301983,
+        "num": 301983,
+        "word": "老板10元1克收孩子黄金还家长",
+        "onboard_time": 1761198201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283044,
+        "num": 283044,
+        "word": "易立竞想带走offer三个主持人",
+        "onboard_time": 1761204801,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276008,
+        "num": 276008,
+        "word": "官方通报无牌小米SU7路口漂移",
+        "onboard_time": 1761203901,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255331,
+        "num": 255331,
+        "word": "卢昱晓VOGUE盛典造型",
+        "onboard_time": 1761207741,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143898,
+        "num": 240257,
+        "word": "大侦探",
+        "onboard_time": 1761196100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18795,
+        "num": 240193,
+        "word": "MKOI对战TSW",
+        "onboard_time": 1761207682,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266590,
+        "num": 240181,
+        "word": "iPhone命名或跳过19",
+        "onboard_time": 1761197060,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240135,
+        "num": 240135,
+        "word": "VOGUE直播 给明星算塔罗",
+        "onboard_time": 1761207321,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 224083,
+        "num": 224083,
+        "word": "老板回应10元1克收小孩72克黄金",
+        "onboard_time": 1761206721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217904,
+        "num": 217904,
+        "word": "第一次感受到了学历高的弊端",
+        "onboard_time": 1761191540,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197087,
+        "num": 217847,
+        "word": "卢昱晓工作室审美",
+        "onboard_time": 1761207861,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196354,
+        "num": 217827,
+        "word": "李沁工作室选的裙子",
+        "onboard_time": 1761208461,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 217705,
+        "word": "疑似喜人预言惊天魔盗团3剧情",
+        "onboard_time": 1761207441,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139265,
+        "num": 217675,
+        "word": "秦始皇陵再曝重要发现",
+        "onboard_time": 1761201740,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122290,
+        "num": 217536,
+        "word": "花少5花少7 一个像太阳一个像月亮",
+        "onboard_time": 1761207441,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118094,
+        "num": 217461,
+        "word": "网友追更的小雪豹胖了30斤",
+        "onboard_time": 1761196941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186947,
+        "num": 217442,
+        "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
+        "onboard_time": 1761203421,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163122,
+        "num": 217366,
+        "word": "LV男士大衣被指撞衫长沙一中学校服",
+        "onboard_time": 1761206960,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154048,
+        "num": 217299,
+        "word": "原来猫咪上床一点也不脏",
+        "onboard_time": 1761203780,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144318,
+        "num": 217175,
+        "word": "戚薇VOGUE出发图是AI做的",
+        "onboard_time": 1761204621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128236,
+        "num": 217155,
+        "word": "钟楚曦工作室审美",
+        "onboard_time": 1761204681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119634,
+        "num": 217084,
+        "word": "把微信状态做成了一本书",
+        "onboard_time": 1761203059,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119438,
+        "num": 216961,
+        "word": "塔罗牌",
+        "onboard_time": 1761208521,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118644,
+        "num": 216897,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1761207741,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111007,
+        "num": 216797,
+        "word": "我妈以为我住10平米的出租屋很惨",
+        "onboard_time": 1761201021,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 92026,
+        "num": 216762,
+        "word": "王楚钦登乒乓世界封面",
+        "onboard_time": 1761208040,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101037,
+        "num": 216691,
+        "word": "陈哲远过膝皮靴",
+        "onboard_time": 1761208401,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93923,
+        "num": 216583,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 93248,
+        "num": 216559,
+        "word": "王珞丹哭到崩溃",
+        "onboard_time": 1761204320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78109,
+        "num": 216450,
+        "word": "超轻无人机京东首发",
+        "onboard_time": 1761203479,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92518,
+        "num": 216375,
+        "word": "沈腾流浪地球3剧照",
+        "onboard_time": 1761206902,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 216301,
+        "word": "外交部回应高市早苗涉防卫费言论",
+        "onboard_time": 1761207561,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92103,
+        "num": 216252,
+        "word": "金价下探66岁大爷购入百克金条",
+        "onboard_time": 1761205161,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 91219,
+        "num": 216159,
+        "word": "小县城消费水平",
+        "onboard_time": 1761208221,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 88121,
+        "num": 216123,
+        "word": "张康乐VOGUE骑马入场",
+        "onboard_time": 1761208100,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81870,
+        "num": 216055,
+        "word": "孙颖莎纪录片",
+        "onboard_time": 1761203540,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#又一份新蓝图要制定了#"
+    }
+  }
+}
