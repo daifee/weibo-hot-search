@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761216297346,
+  "endTime": 1761218555236,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -56,6 +56,14 @@
       "word": "刘亦菲 今茜是何年",
       "onboard_time": 1761209061,
       "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1948168,
+      "num": 227933,
+      "word": "VOGUE盛典红毯",
+      "onboard_time": 1761217521,
+      "rank": 5,
       "category": "作品衍生,时尚"
     },
     {
@@ -337,6 +345,14 @@
       "onboard_time": 1760799384,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 987385,
+      "num": 987385,
+      "word": "中央军委副主席张升民简历",
+      "onboard_time": 1761215181,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 967176,
@@ -931,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 610551,
+      "num": 205556,
+      "word": "杨幂 手切玫瑰",
+      "onboard_time": 1761217461,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 610106,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1761018681,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 530141,
-      "num": 530141,
-      "word": "中央军委副主席张升民简历",
-      "onboard_time": 1761215181,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 523603,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1760976440,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 391742,
+      "num": 219861,
+      "word": "警方通报女子栓绳遛狗遭殴打",
+      "onboard_time": 1761212061,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390575,
@@ -3051,14 +3075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275303,
-      "num": 219861,
-      "word": "警方通报女子栓绳遛狗遭殴打",
-      "onboard_time": 1761212061,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 273038,
       "num": 1096267,
       "word": "学生证的正确打开方式",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1760969780,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 264517,
+      "num": 204423,
+      "word": "妻子举报丈夫偷拿飞机物资堆放家中",
+      "onboard_time": 1761216623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263599,
@@ -3747,6 +3771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213881,
+      "num": 219698,
+      "word": "高市早苗对华政策",
+      "onboard_time": 1761212601,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 212987,
       "num": 211232,
       "word": "文淇 金色花瓶裙",
@@ -3809,6 +3841,14 @@
       "onboard_time": 1760870962,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 208897,
+      "num": 208897,
+      "word": "男明星VOGUE盛典红毯生图",
+      "onboard_time": 1761215242,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208420,
@@ -4131,6 +4171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 199044,
+      "num": 199044,
+      "word": "张晚意 红温洗碗工",
+      "onboard_time": 1761218001,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198948,
       "num": 198948,
       "word": "金吾不禁",
@@ -4395,14 +4443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190386,
-      "num": 190386,
-      "word": "男明星VOGUE盛典红毯生图",
-      "onboard_time": 1761215242,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 190251,
       "num": 190251,
       "word": "时代峰峻新贴的海报",
@@ -4483,20 +4523,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188297,
-      "num": 219698,
-      "word": "高市早苗对华政策",
-      "onboard_time": 1761212601,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 188143,
       "num": 188143,
       "word": "苏超",
       "onboard_time": 1760875222,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187970,
+      "num": 187970,
+      "word": "Tian警告Doinb再造谣就起诉",
+      "onboard_time": 1761218122,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187924,
+      "num": 203579,
+      "word": "VOGUE盛典好多丑衣服",
+      "onboard_time": 1761216142,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187583,
@@ -4820,7 +4868,7 @@
     },
     {
       "raw_hot": 177204,
-      "num": 177204,
+      "num": 202705,
       "word": "张凌赫 我的新郎",
       "onboard_time": 1761215062,
       "rank": 40,
@@ -4940,7 +4988,7 @@
     },
     {
       "raw_hot": 174530,
-      "num": 174530,
+      "num": 200547,
       "word": "机洗冲锋衣的受害者出现了",
       "onboard_time": 1761210620,
       "rank": 36,
@@ -5049,6 +5097,14 @@
       "onboard_time": 1760951900,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172431,
+      "num": 187954,
+      "word": "米卡一个人就是一场婚礼",
+      "onboard_time": 1761218361,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171924,
@@ -5523,6 +5579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159722,
+      "num": 202430,
+      "word": "那我一粒粒剥的算什么",
+      "onboard_time": 1761215360,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159459,
       "num": 315767,
       "word": "入青云追剧日历呢",
@@ -5817,14 +5881,6 @@
       "onboard_time": 1761061700,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153091,
-      "num": 153091,
-      "word": "那我一粒粒剥的算什么",
-      "onboard_time": 1761215360,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 152758,
@@ -8699,6 +8755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109090,
+      "num": 200018,
+      "word": "红米发布会",
+      "onboard_time": 1761218482,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109088,
       "num": 109088,
       "word": "白鹿的小卡是白梦妍的灵魂",
@@ -8777,14 +8841,6 @@
       "onboard_time": 1761122061,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 108379,
-      "num": 108379,
-      "word": "VOGUE盛典好多丑衣服",
-      "onboard_time": 1761216142,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 108119,
@@ -8937,6 +8993,14 @@
       "onboard_time": 1761059183,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106663,
+      "num": 199211,
+      "word": "金晨VOGUE红毯生图",
+      "onboard_time": 1761217762,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106414,
@@ -9803,6 +9867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99353,
+      "num": 187915,
+      "word": "咪 你为什么扎我",
+      "onboard_time": 1761217221,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99239,
       "num": 216252,
       "word": "金价下探66岁大爷购入百克金条",
@@ -9956,7 +10028,7 @@
     },
     {
       "raw_hot": 98102,
-      "num": 98102,
+      "num": 187729,
       "word": "Tian直播谈退役",
       "onboard_time": 1761215722,
       "rank": 47,
@@ -11083,6 +11155,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 89093,
+      "num": 187804,
+      "word": "欧阳娜娜绿野仙踪",
+      "onboard_time": 1761210502,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88882,
       "num": 437146,
       "word": "高速上他挥舞手电拼命拦车",
@@ -11177,6 +11257,14 @@
       "onboard_time": 1761138862,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88244,
+      "num": 187770,
+      "word": "代露娃哭了",
+      "onboard_time": 1761218302,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 88241,
@@ -11843,6 +11931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83304,
+      "num": 187737,
+      "word": "龚俊可古可今的一张脸",
+      "onboard_time": 1761217401,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83284,
       "num": 83284,
       "word": "季节性情感障碍",
@@ -12273,14 +12369,6 @@
       "onboard_time": 1761005240,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79553,
-      "num": 103193,
-      "word": "欧阳娜娜绿野仙踪",
-      "onboard_time": 1761210502,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 79522,
@@ -12801,6 +12889,14 @@
       "onboard_time": 1761194961,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75560,
+      "num": 187665,
+      "word": "许昕确认参加总统杯",
+      "onboard_time": 1761218482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 75441,
@@ -13643,6 +13739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64464,
+      "num": 187846,
+      "word": "苏醒画的饼快乐老咖吃的真香",
+      "onboard_time": 1761217882,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64183,
       "num": 64587,
       "word": "汪苏泷演唱会现场点奶茶都是坑",
@@ -13859,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61715,
+      "num": 187659,
+      "word": "想去九寨沟看一场斑斓的秋",
+      "onboard_time": 1761218001,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 61269,
       "num": 61269,
       "word": "孩子一会练成麒麟臂了",
@@ -14057,6 +14169,14 @@
       "onboard_time": 1760882603,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58321,
+      "num": 187867,
+      "word": "1万5LV外套撞衫86元校服",
+      "onboard_time": 1761218361,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58200,
@@ -14825,6 +14945,14 @@
       "onboard_time": 1761120862,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41172,
+      "num": 187841,
+      "word": "日本高压社会",
+      "onboard_time": 1761217821,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40774,
