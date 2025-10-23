@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761258283976,
+  "endTime": 1761259232298,
   "band_list": [
     {
       "raw_hot": 512310,
@@ -83,6 +83,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196853,
+      "num": 148328,
+      "word": "力挺两岸统一的台退役中将遭重判",
+      "onboard_time": 1761232943,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196813,
       "num": 196813,
       "word": "报复刘冲",
@@ -97,14 +105,6 @@
       "onboard_time": 1761214041,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 175306,
-      "num": 148328,
-      "word": "力挺两岸统一的台退役中将遭重判",
-      "onboard_time": 1761232943,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157125,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 61487,
-      "num": 120557,
+      "num": 122858,
       "word": "TES回应不敌GEN",
       "onboard_time": 1761238637,
       "rank": 5,
@@ -403,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42335,
+      "num": 123639,
+      "word": "日本暴发流感疫情",
+      "onboard_time": 1761247994,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40292,
       "num": 147336,
       "word": "推进祖国统一",
@@ -425,14 +433,6 @@
       "onboard_time": 1761228444,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 32438,
-      "num": 91362,
-      "word": "日本暴发流感疫情",
-      "onboard_time": 1761247994,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 31089,
@@ -459,36 +459,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22360,
-      "num": 87799,
+      "raw_hot": 25358,
+      "num": 121708,
       "word": "秋叶开始上红妆了",
       "onboard_time": 1761241514,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22257,
-      "num": 44173,
+      "raw_hot": 25091,
+      "num": 72380,
       "word": "韩梨泰院惨案与尹锡悦迁办公室有关",
       "onboard_time": 1761246195,
       "rank": 31,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16134,
-      "num": 43938,
-      "word": "一老一少联手救下一命",
-      "onboard_time": 1761252853,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 14303,
-      "num": 43850,
+      "raw_hot": 17167,
+      "num": 72269,
       "word": "谁给马思纯画的眼线",
       "onboard_time": 1761249734,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16134,
+      "num": 72221,
+      "word": "一老一少联手救下一命",
+      "onboard_time": 1761252853,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 13942,
