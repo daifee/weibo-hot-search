@@ -1,9 +1,9 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761194643165,
+  "endTime": 1761197172540,
   "band_list": [
     {
-      "raw_hot": 2137563,
+      "raw_hot": 2349553,
       "num": 194935,
       "word": "蔡国强又炸了巴黎蓬皮杜",
       "onboard_time": 1761193040,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 680216,
+      "num": 169227,
+      "word": "外国网红故意丢钱包测中国人素质",
+      "onboard_time": 1761194063,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616228,
       "num": 212798,
       "word": "超过4小时就不能吃的食物",
@@ -91,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 484091,
+      "num": 168941,
+      "word": "桑延 霜降快乐",
+      "onboard_time": 1761195022,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 463295,
       "num": 116533,
       "word": "特朗普说是时候制裁俄罗斯了",
@@ -121,6 +137,14 @@
       "onboard_time": 1761189681,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 386619,
+      "num": 1061859,
+      "word": "iPhone命名或跳过19",
+      "onboard_time": 1761197060,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 365127,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310630,
+      "num": 187156,
+      "word": "日本首位女首相的政策比男人还男人",
+      "onboard_time": 1761192381,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296138,
       "num": 183297,
       "word": "幽门螺杆菌治疗减药了",
@@ -232,22 +264,6 @@
       "word": "10月23日11时51分霜降",
       "onboard_time": 1761177140,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234044,
-      "num": 187156,
-      "word": "日本首位女首相的政策比男人还男人",
-      "onboard_time": 1761192381,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 231655,
-      "num": 130090,
-      "word": "外国网红故意丢钱包测中国人素质",
-      "onboard_time": 1761194063,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -291,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201485,
+      "num": 201485,
+      "word": "文班亚马爆砍40分",
+      "onboard_time": 1761194542,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200231,
+      "num": 200231,
+      "word": "大侦探",
+      "onboard_time": 1761196100,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200225,
       "num": 202748,
       "word": "霜降至秋意尽",
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 193627,
-      "num": 159907,
+      "num": 166749,
       "word": "第一次感受到了学历高的弊端",
       "onboard_time": 1761191540,
       "rank": 30,
@@ -337,6 +369,14 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183528,
+      "num": 141090,
+      "word": "罗小黑战记2即将全平台上线",
+      "onboard_time": 1761196941,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 183499,
@@ -387,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171231,
+      "num": 167627,
+      "word": "易烊千玺山花重逢",
+      "onboard_time": 1761197001,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170232,
       "num": 663912,
       "word": "原来羽绒服里少穿比多穿更暖和",
@@ -419,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159347,
+      "num": 159347,
+      "word": "老公厕爆改现磨咖啡店被查封",
+      "onboard_time": 1761191901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159179,
       "num": 159179,
       "word": "建议大家不要提前瞎焦虑",
@@ -433,14 +489,6 @@
       "onboard_time": 1761192862,
       "rank": 32,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 157950,
-      "num": 157950,
-      "word": "老公厕爆改现磨咖啡店被查封",
-      "onboard_time": 1761191901,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157547,
@@ -523,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147352,
+      "num": 147352,
+      "word": "葛沛豪奚安娜真的把孩子养得很好",
+      "onboard_time": 1761196100,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147141,
       "num": 147141,
       "word": "成毅天地剑心百指破4w",
@@ -587,12 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130320,
-      "num": 130320,
-      "word": "文班亚马爆砍40分",
-      "onboard_time": 1761194542,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 129638,
+      "num": 129638,
+      "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
+      "onboard_time": 1761191721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129352,
@@ -691,6 +747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120613,
+      "num": 169922,
+      "word": "大侦探对撞季水龙吟专场",
+      "onboard_time": 1761194781,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120215,
       "num": 659216,
       "word": "5类人真的不要染发",
@@ -729,6 +793,14 @@
       "onboard_time": 1761189979,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118319,
+      "num": 167545,
+      "word": "暗河传",
+      "onboard_time": 1761194542,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 118236,
@@ -795,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111788,
+      "num": 111788,
+      "word": "2句台词他说爽了我听爽了",
+      "onboard_time": 1761196402,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111063,
       "num": 111063,
       "word": "狗 比死神来的更快的是主人",
@@ -809,14 +889,6 @@
       "onboard_time": 1761138741,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109216,
-      "num": 126680,
-      "word": "暗河传",
-      "onboard_time": 1761194542,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 108604,
@@ -843,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104794,
+      "num": 145730,
+      "word": "去有风的地方vs去有馕的地方",
+      "onboard_time": 1761195921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104693,
       "num": 104693,
       "word": "东北小狗住上带火炕的狗窝了",
@@ -865,6 +945,14 @@
       "onboard_time": 1761181102,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103867,
+      "num": 167038,
+      "word": "双11不用算了直接免单",
+      "onboard_time": 1761195980,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 103767,
@@ -907,12 +995,28 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 98308,
+      "num": 116063,
+      "word": "网友追更的小雪豹胖了30斤",
+      "onboard_time": 1761196941,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95755,
       "num": 657836,
       "word": "金价",
       "onboard_time": 1761138502,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95593,
+      "num": 95593,
+      "word": "利拉德指导杨瀚森",
+      "onboard_time": 1761196881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 95003,
@@ -945,6 +1049,14 @@
       "onboard_time": 1761189260,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 93798,
+      "num": 93798,
+      "word": "金价暴涨后又暴跌金店客流稀少",
+      "onboard_time": 1761196820,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 93488,
@@ -987,6 +1099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87414,
+      "num": 87414,
+      "word": "全场只有伴郎在结婚状态",
+      "onboard_time": 1761194901,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86422,
       "num": 86422,
       "word": "龚俊常华森捡剑花絮",
@@ -1011,12 +1131,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 86065,
+      "num": 86065,
+      "word": "田曦薇李雪琴你俩给我下来",
+      "onboard_time": 1761197060,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84702,
       "num": 84702,
       "word": "杨瀚森出场时播报是中文的",
       "onboard_time": 1761189139,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84339,
+      "num": 94309,
+      "word": "读博第五年他从北大退学了",
+      "onboard_time": 1761195980,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 83611,
+      "num": 83611,
+      "word": "CSGO游戏更新导致游戏外市场崩溃",
+      "onboard_time": 1761195561,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 82974,
@@ -1097,6 +1241,14 @@
       "onboard_time": 1761148399,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72807,
+      "num": 144623,
+      "word": "京东上新直播",
+      "onboard_time": 1761196941,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 72582,
@@ -1217,6 +1369,14 @@
       "onboard_time": 1761191181,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57456,
+      "num": 81209,
+      "word": "你好种地少年3开播",
+      "onboard_time": 1761193520,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 56748,

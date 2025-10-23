@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761194643165,
+  "endTime": 1761197172540,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2349553,
+      "num": 194935,
+      "word": "蔡国强又炸了巴黎蓬皮杜",
+      "onboard_time": 1761193040,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2289458,
       "num": 2289458,
       "word": "T1战胜iG",
@@ -377,14 +385,6 @@
       "onboard_time": 1760106863,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2137563,
-      "num": 194935,
-      "word": "蔡国强又炸了巴黎蓬皮杜",
-      "onboard_time": 1761193040,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2136335,
@@ -4915,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680216,
+      "num": 169227,
+      "word": "外国网红故意丢钱包测中国人素质",
+      "onboard_time": 1761194063,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679763,
       "num": 245521,
       "word": "迪丽热巴ins",
@@ -8347,6 +8355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484091,
+      "num": 168941,
+      "word": "桑延 霜降快乐",
+      "onboard_time": 1761195022,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 482796,
       "num": 1077247,
       "word": "郑丽文支持者激动落泪说我是中国人",
@@ -11097,6 +11113,14 @@
       "onboard_time": 1761098901,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 386619,
+      "num": 1061859,
+      "word": "iPhone命名或跳过19",
+      "onboard_time": 1761197060,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 386102,
@@ -13921,6 +13945,14 @@
       "onboard_time": 1760347941,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310630,
+      "num": 187156,
+      "word": "日本首位女首相的政策比男人还男人",
+      "onboard_time": 1761192381,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 310519,
@@ -18267,14 +18299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234044,
-      "num": 187156,
-      "word": "日本首位女首相的政策比男人还男人",
-      "onboard_time": 1761192381,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 234022,
       "num": 234022,
       "word": "北汽集团辟谣",
@@ -18433,14 +18457,6 @@
       "onboard_time": 1759340297,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231655,
-      "num": 130090,
-      "word": "外国网红故意丢钱包测中国人素质",
-      "onboard_time": 1761194063,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231599,
@@ -21075,6 +21091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201485,
+      "num": 201485,
+      "word": "文班亚马爆砍40分",
+      "onboard_time": 1761194542,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "久哲",
@@ -21313,6 +21337,14 @@
       "onboard_time": 1760523922,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200231,
+      "num": 200231,
+      "word": "大侦探",
+      "onboard_time": 1761196100,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 200225,
@@ -22428,7 +22460,7 @@
     },
     {
       "raw_hot": 193627,
-      "num": 159907,
+      "num": 166749,
       "word": "第一次感受到了学历高的弊端",
       "onboard_time": 1761191540,
       "rank": 30,
@@ -24041,6 +24073,14 @@
       "onboard_time": 1759571060,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183528,
+      "num": 141090,
+      "word": "罗小黑战记2即将全平台上线",
+      "onboard_time": 1761196941,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 183499,
@@ -26241,6 +26281,14 @@
       "onboard_time": 1759645640,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171231,
+      "num": 167627,
+      "word": "易烊千玺山花重逢",
+      "onboard_time": 1761197001,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 171208,
@@ -28691,6 +28739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159347,
+      "num": 159347,
+      "word": "老公厕爆改现磨咖啡店被查封",
+      "onboard_time": 1761191901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159344,
       "num": 159344,
       "word": "谢娜回应首次主持央视秋晚",
@@ -29089,14 +29145,6 @@
       "onboard_time": 1760697443,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157950,
-      "num": 157950,
-      "word": "老公厕爆改现磨咖啡店被查封",
-      "onboard_time": 1761191901,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157949,
@@ -31529,6 +31577,14 @@
       "onboard_time": 1760613440,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147352,
+      "num": 147352,
+      "word": "葛沛豪奚安娜真的把孩子养得很好",
+      "onboard_time": 1761196100,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 147346,
@@ -36835,14 +36891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130320,
-      "num": 130320,
-      "word": "文班亚马爆砍40分",
-      "onboard_time": 1761194542,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130268,
       "num": 111226,
       "word": "vivoX300系列开箱测评",
@@ -37065,6 +37113,14 @@
       "onboard_time": 1759829661,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129638,
+      "num": 129638,
+      "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
+      "onboard_time": 1761191721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129618,
@@ -40617,6 +40673,14 @@
       "onboard_time": 1760689762,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120613,
+      "num": 169922,
+      "word": "大侦探对撞季水龙吟专场",
+      "onboard_time": 1761194781,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 120608,
@@ -44715,6 +44779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111788,
+      "num": 111788,
+      "word": "2句台词他说爽了我听爽了",
+      "onboard_time": 1761196402,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111775,
       "num": 111775,
       "word": "飞儿的歌还得是Faye来唱",
@@ -48747,6 +48819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104794,
+      "num": 145730,
+      "word": "去有风的地方vs去有馕的地方",
+      "onboard_time": 1761195921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104772,
       "num": 104772,
       "word": "你以为的背调VS实际的背调",
@@ -49289,6 +49369,14 @@
       "onboard_time": 1760019141,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103867,
+      "num": 167038,
+      "word": "双11不用算了直接免单",
+      "onboard_time": 1761195980,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 103838,
@@ -52195,6 +52283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98308,
+      "num": 116063,
+      "word": "网友追更的小雪豹胖了30斤",
+      "onboard_time": 1761196941,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98303,
       "num": 132592,
       "word": "光刻机是拿来用的不是拿来展的",
@@ -53515,6 +53611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95593,
+      "num": 95593,
+      "word": "利拉德指导杨瀚森",
+      "onboard_time": 1761196881,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95579,
       "num": 95579,
       "word": "野生动物不吃摄影师",
@@ -54481,6 +54585,14 @@
       "onboard_time": 1760604981,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93798,
+      "num": 93798,
+      "word": "金价暴涨后又暴跌金店客流稀少",
+      "onboard_time": 1761196820,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 93784,
@@ -57803,6 +57915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87414,
+      "num": 87414,
+      "word": "全场只有伴郎在结婚状态",
+      "onboard_time": 1761194901,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87411,
       "num": 87411,
       "word": "王楚钦教科书级假拧真摆",
@@ -58497,6 +58617,14 @@
       "onboard_time": 1761018321,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86065,
+      "num": 86065,
+      "word": "田曦薇李雪琴你俩给我下来",
+      "onboard_time": 1761197060,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 86045,
@@ -59315,6 +59443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84339,
+      "num": 94309,
+      "word": "读博第五年他从北大退学了",
+      "onboard_time": 1761195980,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 84337,
       "num": 84337,
       "word": "郭焱说王楚钦今天比赛封神了",
@@ -59673,6 +59809,14 @@
       "onboard_time": 1760008280,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83611,
+      "num": 83611,
+      "word": "CSGO游戏更新导致游戏外市场崩溃",
+      "onboard_time": 1761195561,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 83600,
@@ -63643,6 +63787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 72807,
+      "num": 144623,
+      "word": "京东上新直播",
+      "onboard_time": 1761196941,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72795,
       "num": 72795,
       "word": "南宁陷坑现场已采取安全保障措施",
@@ -67241,6 +67393,14 @@
       "onboard_time": 1759648579,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 57456,
+      "num": 81209,
+      "word": "你好种地少年3开播",
+      "onboard_time": 1761193520,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 57375,

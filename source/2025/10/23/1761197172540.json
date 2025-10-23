@@ -1,0 +1,410 @@
+{
+  "runTime": 1761197172540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 386619,
+        "num": 1061859,
+        "word": "iPhone命名或跳过19",
+        "onboard_time": 1761197060,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305980,
+        "num": 305980,
+        "word": "俄罗斯自杀式无人机突袭乌克兰",
+        "onboard_time": 1761185599,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21222,
+        "num": 284387,
+        "word": "文化中国行霜降节气",
+        "onboard_time": 1761175879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271247,
+        "num": 271247,
+        "word": "卢浮宫馆长辞职被拒",
+        "onboard_time": 1761181462,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201485,
+        "num": 201485,
+        "word": "文班亚马爆砍40分",
+        "onboard_time": 1761194542,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200231,
+        "num": 200231,
+        "word": "大侦探",
+        "onboard_time": 1761196100,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186284,
+        "num": 186284,
+        "word": "韩国人开始担心以后吃不上豆腐",
+        "onboard_time": 1761177798,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170206,
+        "num": 170206,
+        "word": "特朗普取消与普京会面",
+        "onboard_time": 1761190641,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47743,
+        "num": 169952,
+        "word": "霜降至秋意尽",
+        "onboard_time": 1761179423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 169922,
+        "word": "大侦探对撞季水龙吟专场",
+        "onboard_time": 1761194781,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2349553,
+        "num": 169627,
+        "word": "蔡国强又炸了巴黎蓬皮杜",
+        "onboard_time": 1761193040,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 680216,
+        "num": 169227,
+        "word": "外国网红故意丢钱包测中国人素质",
+        "onboard_time": 1761194063,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484091,
+        "num": 168941,
+        "word": "桑延 霜降快乐",
+        "onboard_time": 1761195022,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379173,
+        "num": 168809,
+        "word": "女孩怀疑英语是中国人发明的",
+        "onboard_time": 1761191540,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325574,
+        "num": 168446,
+        "word": "阿姨免费洗金镯被洗掉5克",
+        "onboard_time": 1761190939,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310630,
+        "num": 168085,
+        "word": "日本首位女首相的政策比男人还男人",
+        "onboard_time": 1761192381,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254333,
+        "num": 167921,
+        "word": "入青云卡学历",
+        "onboard_time": 1761193221,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171231,
+        "num": 167627,
+        "word": "易烊千玺山花重逢",
+        "onboard_time": 1761197001,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118319,
+        "num": 167545,
+        "word": "暗河传",
+        "onboard_time": 1761194542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103867,
+        "num": 167038,
+        "word": "双11不用算了直接免单",
+        "onboard_time": 1761195980,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369329,
+        "num": 166792,
+        "word": "金价一夜跌50元顾客相中直接买走",
+        "onboard_time": 1761185720,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 166749,
+        "word": "第一次感受到了学历高的弊端",
+        "onboard_time": 1761191540,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162568,
+        "num": 162568,
+        "word": "蔡国强又去巴黎搞烟花秀了",
+        "onboard_time": 1761191901,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159347,
+        "num": 159347,
+        "word": "老公厕爆改现磨咖啡店被查封",
+        "onboard_time": 1761191901,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147352,
+        "num": 147352,
+        "word": "葛沛豪奚安娜真的把孩子养得很好",
+        "onboard_time": 1761196100,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145739,
+        "num": 145739,
+        "word": "超过4小时就不能吃的食物",
+        "onboard_time": 1761183019,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104794,
+        "num": 145730,
+        "word": "去有风的地方vs去有馕的地方",
+        "onboard_time": 1761195921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72807,
+        "num": 144623,
+        "word": "京东上新直播",
+        "onboard_time": 1761196941,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101530,
+        "num": 143903,
+        "word": "文班亚马少林寺进修成果显著啊",
+        "onboard_time": 1761193701,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86959,
+        "num": 142192,
+        "word": "罗云熙新剧三个女主",
+        "onboard_time": 1761191181,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106893,
+        "num": 142110,
+        "word": "美团外卖宇你食刻相伴",
+        "onboard_time": 1761192862,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 183528,
+        "num": 141090,
+        "word": "罗小黑战记2即将全平台上线",
+        "onboard_time": 1761196941,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "看爸爸当家理解韩红了",
+        "onboard_time": 1761191840,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129638,
+        "num": 129638,
+        "word": "新娘出嫁路过已逝父亲坟前冒雨跪拜",
+        "onboard_time": 1761191721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98308,
+        "num": 116063,
+        "word": "网友追更的小雪豹胖了30斤",
+        "onboard_time": 1761196941,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111788,
+        "num": 111788,
+        "word": "2句台词他说爽了我听爽了",
+        "onboard_time": 1761196402,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99963,
+        "num": 99963,
+        "word": "40岁给30岁的忠告",
+        "onboard_time": 1761192440,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95593,
+        "num": 95593,
+        "word": "利拉德指导杨瀚森",
+        "onboard_time": 1761196881,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95320,
+        "num": 95320,
+        "word": "幽门螺杆菌治疗减药了",
+        "onboard_time": 1761185480,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84339,
+        "num": 94309,
+        "word": "读博第五年他从北大退学了",
+        "onboard_time": 1761195980,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 93798,
+        "num": 93798,
+        "word": "金价暴涨后又暴跌金店客流稀少",
+        "onboard_time": 1761196820,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93163,
+        "num": 93163,
+        "word": "杨瀚森常规赛首秀",
+        "onboard_time": 1761186920,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92399,
+        "num": 92399,
+        "word": "今日霜降祝你好柿成双",
+        "onboard_time": 1761183379,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87414,
+        "num": 87414,
+        "word": "全场只有伴郎在结婚状态",
+        "onboard_time": 1761194901,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86065,
+        "num": 86065,
+        "word": "田曦薇李雪琴你俩给我下来",
+        "onboard_time": 1761197060,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84654,
+        "num": 84654,
+        "word": "19岁女生退签MCN被判赔15万",
+        "onboard_time": 1761180320,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84499,
+        "num": 84499,
+        "word": "美欧宣布对俄罗斯实施新制裁",
+        "onboard_time": 1761179600,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83611,
+        "num": 83611,
+        "word": "CSGO游戏更新导致游戏外市场崩溃",
+        "onboard_time": 1761195561,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81862,
+        "num": 81862,
+        "word": "笨的不会倒车 胖的无法掉头",
+        "onboard_time": 1761194301,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57456,
+        "num": 81209,
+        "word": "你好种地少年3开播",
+        "onboard_time": 1761193520,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 12:44:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 13:26:12
 </p>
 </blockquote>
 <p>
@@ -261,6 +261,12 @@ K签（热度：2379627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%8F%88%E7%82%B8%E4%BA%86%E5%B7%B4%E9%BB%8E%E8%93%AC%E7%9A%AE%E6%9D%9C%23" target="weibo">
+蔡国强又炸了巴黎蓬皮杜（热度：2349553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CiG%23" target="weibo">
 T1战胜iG（热度：2289458）
 </a>
@@ -293,12 +299,6 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
 宗馥莉将独立经营娃小宗（热度：2155622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%8F%88%E7%82%B8%E4%BA%86%E5%B7%B4%E9%BB%8E%E8%93%AC%E7%9A%AE%E6%9D%9C%23" target="weibo">
-蔡国强又炸了巴黎蓬皮杜（热度：2137563）
 </a>
 </li>
 
@@ -3699,6 +3699,12 @@ AL战胜HLE（热度：684053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%95%85%E6%84%8F%E4%B8%A2%E9%92%B1%E5%8C%85%E6%B5%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%B4%A0%E8%B4%A8%23" target="weibo">
+外国网红故意丢钱包测中国人素质（热度：680216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%23" target="weibo">
 迪丽热巴ins（热度：679763）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E5%BE%97%E8%AF%BA%E5%A5%96%E7%9A%84%E5%91%98%E5%B7%A5%23" target="weibo">
 公司回应联系不上得诺奖的员工（热度：498380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E5%8D%96%E5%AF%BF%E8%A1%A3%E7%BB%99%E8%80%81%E5%A4%96%E7%9A%84%E5%BA%97%E4%B8%BB%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
-拒卖寿衣给老外的店主最新回应（热度：498176）
 </a>
 </li>
 
