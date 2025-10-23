@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/24 00:33:24 ~ 2025/10/24 01:23:40
+本榜单时间：2025/10/24 00:33:24 ~ 2025/10/24 01:40:55
 </p>
 </blockquote>
 <p>
@@ -262,7 +262,7 @@ VOGUE直播（热度：77888）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CGEN%23" target="weibo">
-TES回应不敌GEN（热度：61061）
+TES回应不敌GEN（热度：61487）
 </a>
 </li>
 
@@ -329,6 +329,12 @@ TES烬中拾薪燎原再燃（热度：50792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91CEO%E5%9B%9E%E5%BA%94%E6%96%B0%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%95%BF%E5%BE%97%E5%90%93%E4%BA%BA%23" target="weibo">
 宇树CEO回应新人形机器人长得吓人（热度：37129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%20%E5%A3%AE%E5%A3%AE%E5%A6%88%23" target="weibo">
+李庚希 壮壮妈（热度：31089）
 </a>
 </li>
 

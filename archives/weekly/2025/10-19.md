@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/24 01:23:40
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/24 01:40:55
 </p>
 </blockquote>
 <p>
@@ -11073,6 +11073,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CGEN%23" target="weibo">
+TES回应不敌GEN（热度：61487）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E4%B8%80%E4%BC%9A%E7%BB%83%E6%88%90%E9%BA%92%E9%BA%9F%E8%87%82%E4%BA%86%23" target="weibo">
 孩子一会练成麒麟臂了（热度：61269）
 </a>
@@ -11087,12 +11093,6 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E6%9C%9F%E5%BE%85%E5%86%8D%E6%AC%A1%E5%85%A5%E9%80%89%E5%9B%BD%E5%AE%B6%E9%98%9F%23" target="weibo">
 周琦期待再次入选国家队（热度：61155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TES%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CGEN%23" target="weibo">
-TES回应不敌GEN（热度：61061）
 </a>
 </li>
 
