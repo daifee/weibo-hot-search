@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761218555236,
+  "endTime": 1761219490608,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1948168,
-      "num": 227933,
+      "num": 251943,
       "word": "VOGUE盛典红毯",
       "onboard_time": 1761217521,
       "rank": 5,
@@ -2187,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1048113,
+      "num": 987385,
+      "word": "中央军委副主席张升民简历",
+      "onboard_time": 1761215181,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1047453,
       "num": 181976,
       "word": "鸡鸣寺",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1760495539,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1037685,
+      "num": 195581,
+      "word": "报复刘冲",
+      "onboard_time": 1761218664,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1036979,
@@ -2497,14 +2513,6 @@
       "onboard_time": 1760240900,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 987385,
-      "num": 987385,
-      "word": "中央军委副主席张升民简历",
-      "onboard_time": 1761215181,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 986621,
@@ -4299,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 748152,
+      "num": 205556,
+      "word": "杨幂 手切玫瑰",
+      "onboard_time": 1761217461,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 748146,
       "num": 198271,
       "word": "第几次亲嘴12秒翻面3次啊",
@@ -5945,14 +5961,6 @@
       "onboard_time": 1760197282,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 610551,
-      "num": 205556,
-      "word": "杨幂 手切玫瑰",
-      "onboard_time": 1761217461,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 610474,
@@ -9321,6 +9329,14 @@
       "onboard_time": 1760800763,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 454075,
+      "num": 204423,
+      "word": "妻子举报丈夫偷拿飞机物资堆放家中",
+      "onboard_time": 1761216623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453879,
@@ -13931,6 +13947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317215,
+      "num": 194597,
+      "word": "王玉雯要见刘亦菲笑得合不拢嘴",
+      "onboard_time": 1761218781,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 317064,
       "num": 203811,
       "word": "建议气血不足的人不要留长发",
@@ -15185,6 +15209,14 @@
       "onboard_time": 1760620405,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291894,
+      "num": 194551,
+      "word": "Tian警告Doinb再造谣就起诉",
+      "onboard_time": 1761218122,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 291868,
@@ -16689,14 +16721,6 @@
       "onboard_time": 1760602642,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264517,
-      "num": 204423,
-      "word": "妻子举报丈夫偷拿飞机物资堆放家中",
-      "onboard_time": 1761216623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264510,
@@ -18939,6 +18963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229175,
+      "num": 229175,
+      "word": "男明星VOGUE盛典红毯生图",
+      "onboard_time": 1761215242,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229099,
       "num": 285247,
       "word": "张予曦毕雯珺第二",
@@ -19145,6 +19177,14 @@
       "onboard_time": 1761101841,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226551,
+      "num": 199044,
+      "word": "张晚意 红温洗碗工",
+      "onboard_time": 1761218001,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226482,
@@ -20475,14 +20515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208897,
-      "num": 208897,
-      "word": "男明星VOGUE盛典红毯生图",
-      "onboard_time": 1761215242,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 208651,
       "num": 201165,
       "word": "小孩哥把芥末放水中让花甲吐沙",
@@ -21307,6 +21339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "红米发布会",
+      "onboard_time": 1761218482,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202899,
       "num": 155447,
       "word": "福建尤溪通报5人进废弃矿硐遇难",
@@ -21929,14 +21969,6 @@
       "onboard_time": 1761123680,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199044,
-      "num": 199044,
-      "word": "张晚意 红温洗碗工",
-      "onboard_time": 1761218001,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198948,
@@ -22755,6 +22787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "米卡一个人就是一场婚礼",
+      "onboard_time": 1761218361,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194146,
       "num": 661809,
       "word": "印度七旬老人假死测试谁关心他",
@@ -23296,6 +23336,14 @@
       "word": "BLG惊天2.2",
       "onboard_time": 1760523142,
       "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190857,
+      "num": 190857,
+      "word": "一诺是如何忍住不笑的",
+      "onboard_time": 1761219442,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -23867,6 +23915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188291,
+      "num": 202430,
+      "word": "那我一粒粒剥的算什么",
+      "onboard_time": 1761215360,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188246,
       "num": 188246,
       "word": "胡彦斌都脱敏成这样了吗",
@@ -23889,14 +23945,6 @@
       "onboard_time": 1760675603,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187970,
-      "num": 187970,
-      "word": "Tian警告Doinb再造谣就起诉",
-      "onboard_time": 1761218122,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 187924,
@@ -26603,14 +26651,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172431,
-      "num": 187954,
-      "word": "米卡一个人就是一场婚礼",
-      "onboard_time": 1761218361,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 172341,
       "num": 172341,
       "word": "故宫的春夏秋冬一眼惊艳",
@@ -29224,14 +29264,6 @@
       "word": "小边牧和小猫撞衫了",
       "onboard_time": 1760624183,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 159722,
-      "num": 202430,
-      "word": "那我一粒粒剥的算什么",
-      "onboard_time": 1761215360,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -38971,6 +39003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126334,
+      "num": 187770,
+      "word": "代露娃哭了",
+      "onboard_time": 1761218302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126329,
       "num": 126329,
       "word": "敬山水",
@@ -41347,6 +41387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120702,
+      "num": 120702,
+      "word": "小米新车主驾下方掏出神秘多余零件",
+      "onboard_time": 1761218962,
+      "rank": 40,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 120700,
       "num": 120700,
       "word": "邓稼先杨振宁最后一次见面",
@@ -41409,6 +41457,14 @@
       "onboard_time": 1759936580,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120467,
+      "num": 187729,
+      "word": "Tian直播谈退役",
+      "onboard_time": 1761215722,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 120465,
@@ -43851,6 +43907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115242,
+      "num": 115242,
+      "word": "卢伟冰谈小米11失败原因",
+      "onboard_time": 1761218901,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115231,
       "num": 115231,
       "word": "林孝埈蒙特利尔出战500和1500",
@@ -44153,6 +44217,14 @@
       "onboard_time": 1760084302,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114605,
+      "num": 187804,
+      "word": "欧阳娜娜绿野仙踪",
+      "onboard_time": 1761210502,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 114567,
@@ -46659,6 +46731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110023,
+      "num": 110023,
+      "word": "双宋合体",
+      "onboard_time": 1761219381,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109999,
       "num": 109999,
       "word": "iPhone秒变单反的设置",
@@ -47273,14 +47353,6 @@
       "onboard_time": 1760160801,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109090,
-      "num": 200018,
-      "word": "红米发布会",
-      "onboard_time": 1761218482,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 109088,
@@ -53323,14 +53395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98102,
-      "num": 187729,
-      "word": "Tian直播谈退役",
-      "onboard_time": 1761215722,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 98095,
       "num": 98095,
       "word": "开拓者主教练谈杨瀚森首秀表现",
@@ -54201,6 +54265,14 @@
       "onboard_time": 1759922182,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96278,
+      "num": 187867,
+      "word": "1万5LV外套撞衫86元校服",
+      "onboard_time": 1761218361,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96257,
@@ -55641,6 +55713,14 @@
       "onboard_time": 1759824621,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93676,
+      "num": 155337,
+      "word": "鸡排哥公司增资至100万",
+      "onboard_time": 1761219201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93670,
@@ -57739,6 +57819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89822,
+      "num": 121131,
+      "word": "女子干1年月嫂挣5千借给雇主85万",
+      "onboard_time": 1761219021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89813,
       "num": 658119,
       "word": "周深抢票",
@@ -58089,14 +58177,6 @@
       "onboard_time": 1760487982,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89093,
-      "num": 187804,
-      "word": "欧阳娜娜绿野仙踪",
-      "onboard_time": 1761210502,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 89078,
@@ -58481,14 +58561,6 @@
       "onboard_time": 1761138862,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88244,
-      "num": 187770,
-      "word": "代露娃哭了",
-      "onboard_time": 1761218302,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 88241,
@@ -60873,6 +60945,14 @@
       "onboard_time": 1760008280,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83605,
+      "num": 187665,
+      "word": "许昕确认参加总统杯",
+      "onboard_time": 1761218482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83600,
@@ -64105,14 +64185,6 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
-    },
-    {
-      "raw_hot": 75560,
-      "num": 187665,
-      "word": "许昕确认参加总统杯",
-      "onboard_time": 1761218482,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75543,
@@ -67867,6 +67939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60630,
+      "num": 187841,
+      "word": "日本高压社会",
+      "onboard_time": 1761217821,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60624,
       "num": 174157,
       "word": "刘宇宁别看我只是一只羊",
@@ -68416,14 +68496,6 @@
       "word": "爸爸辞职带多动症儿子徒步去山东",
       "onboard_time": 1760193023,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58321,
-      "num": 187867,
-      "word": "1万5LV外套撞衫86元校服",
-      "onboard_time": 1761218361,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -69657,6 +69729,14 @@
       "onboard_time": 1761022883,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52185,
+      "num": 121572,
+      "word": "新婚2月入狱妻子坚守8年等他回家",
+      "onboard_time": 1761219081,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52165,
@@ -71649,14 +71729,6 @@
       "onboard_time": 1760370620,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 41172,
-      "num": 187841,
-      "word": "日本高压社会",
-      "onboard_time": 1761217821,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41161,

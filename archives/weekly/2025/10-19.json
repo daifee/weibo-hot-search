@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761218555236,
+  "endTime": 1761219490608,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1948168,
-      "num": 227933,
+      "num": 251943,
       "word": "VOGUE盛典红毯",
       "onboard_time": 1761217521,
       "rank": 5,
@@ -299,6 +299,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 1048113,
+      "num": 987385,
+      "word": "中央军委副主席张升民简历",
+      "onboard_time": 1761215181,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1046262,
       "num": 1167402,
       "word": "英国奶奶因汶川地震留中国17年",
@@ -313,6 +321,14 @@
       "onboard_time": 1761013760,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1037685,
+      "num": 195581,
+      "word": "报复刘冲",
+      "onboard_time": 1761218664,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1030499,
@@ -345,14 +361,6 @@
       "onboard_time": 1760799384,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 987385,
-      "num": 987385,
-      "word": "中央军委副主席张升民简历",
-      "onboard_time": 1761215181,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 967176,
@@ -633,6 +641,14 @@
       "onboard_time": 1761190939,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 748152,
+      "num": 205556,
+      "word": "杨幂 手切玫瑰",
+      "onboard_time": 1761217461,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 733902,
@@ -945,14 +961,6 @@
       "onboard_time": 1761116960,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 610551,
-      "num": 205556,
-      "word": "杨幂 手切玫瑰",
-      "onboard_time": 1761217461,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 610106,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1760800763,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 454075,
+      "num": 204423,
+      "word": "妻子举报丈夫偷拿飞机物资堆放家中",
+      "onboard_time": 1761216623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453846,
@@ -2627,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317215,
+      "num": 194597,
+      "word": "王玉雯要见刘亦菲笑得合不拢嘴",
+      "onboard_time": 1761218781,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316546,
       "num": 444853,
       "word": "老板10元1克收孩子黄金还家长",
@@ -2889,6 +2913,14 @@
       "onboard_time": 1761041540,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291894,
+      "num": 194551,
+      "word": "Tian警告Doinb再造谣就起诉",
+      "onboard_time": 1761218122,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 291634,
@@ -3169,14 +3201,6 @@
       "onboard_time": 1760969780,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 264517,
-      "num": 204423,
-      "word": "妻子举报丈夫偷拿飞机物资堆放家中",
-      "onboard_time": 1761216623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263599,
@@ -3555,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229175,
+      "num": 229175,
+      "word": "男明星VOGUE盛典红毯生图",
+      "onboard_time": 1761215242,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "狗 接完你的接你的",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1761101841,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226551,
+      "num": 199044,
+      "word": "张晚意 红温洗碗工",
+      "onboard_time": 1761218001,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226374,
@@ -3843,14 +3883,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 208897,
-      "num": 208897,
-      "word": "男明星VOGUE盛典红毯生图",
-      "onboard_time": 1761215242,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 208420,
       "num": 436316,
       "word": "易烊千玺山花重逢",
@@ -4043,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "红米发布会",
+      "onboard_time": 1761218482,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202729,
       "num": 987577,
       "word": "天地剑心成毅单跪转圈6周半",
@@ -4169,14 +4209,6 @@
       "onboard_time": 1761123680,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199044,
-      "num": 199044,
-      "word": "张晚意 红温洗碗工",
-      "onboard_time": 1761218001,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198948,
@@ -4347,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "米卡一个人就是一场婚礼",
+      "onboard_time": 1761218361,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194146,
       "num": 661809,
       "word": "印度七旬老人假死测试谁关心他",
@@ -4425,6 +4465,14 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190857,
+      "num": 190857,
+      "word": "一诺是如何忍住不笑的",
+      "onboard_time": 1761219442,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 190531,
@@ -4523,20 +4571,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188291,
+      "num": 202430,
+      "word": "那我一粒粒剥的算什么",
+      "onboard_time": 1761215360,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188143,
       "num": 188143,
       "word": "苏超",
       "onboard_time": 1760875222,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187970,
-      "num": 187970,
-      "word": "Tian警告Doinb再造谣就起诉",
-      "onboard_time": 1761218122,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 187924,
@@ -5099,14 +5147,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172431,
-      "num": 187954,
-      "word": "米卡一个人就是一场婚礼",
-      "onboard_time": 1761218361,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 171924,
       "num": 171924,
       "word": "杨振宁近九十岁时写了首诗",
@@ -5577,14 +5617,6 @@
       "onboard_time": 1760936781,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159722,
-      "num": 202430,
-      "word": "那我一粒粒剥的算什么",
-      "onboard_time": 1761215360,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 159459,
@@ -7235,6 +7267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126334,
+      "num": 187770,
+      "word": "代露娃哭了",
+      "onboard_time": 1761218302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126314,
       "num": 126314,
       "word": "72岁患癌老人办生前告别式",
@@ -7675,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120702,
+      "num": 120702,
+      "word": "小米新车主驾下方掏出神秘多余零件",
+      "onboard_time": 1761218962,
+      "rank": 40,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 120613,
       "num": 169922,
       "word": "大侦探对撞季水龙吟专场",
@@ -7689,6 +7737,14 @@
       "onboard_time": 1760848760,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120467,
+      "num": 187729,
+      "word": "Tian直播谈退役",
+      "onboard_time": 1761215722,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 120341,
@@ -8131,6 +8187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115242,
+      "num": 115242,
+      "word": "卢伟冰谈小米11失败原因",
+      "onboard_time": 1761218901,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115001,
       "num": 1278279,
       "word": "你是说陈瑶演邪恶水蜜桃吗",
@@ -8168,6 +8232,14 @@
       "word": "张小斐像是来谈收购的",
       "onboard_time": 1760800285,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114605,
+      "num": 187804,
+      "word": "欧阳娜娜绿野仙踪",
+      "onboard_time": 1761210502,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -8683,6 +8755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110023,
+      "num": 110023,
+      "word": "双宋合体",
+      "onboard_time": 1761219381,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109931,
       "num": 109931,
       "word": "张本智和只怵王楚钦",
@@ -8753,14 +8833,6 @@
       "onboard_time": 1761023782,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109090,
-      "num": 200018,
-      "word": "红米发布会",
-      "onboard_time": 1761218482,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 109088,
@@ -10027,14 +10099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98102,
-      "num": 187729,
-      "word": "Tian直播谈退役",
-      "onboard_time": 1761215722,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 97992,
       "num": 208196,
       "word": "阿信刘若英新歌",
@@ -10168,6 +10232,14 @@
       "word": "12306火车免费坐攻略",
       "onboard_time": 1760946200,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96278,
+      "num": 187867,
+      "word": "1万5LV外套撞衫86元校服",
+      "onboard_time": 1761218361,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -10561,6 +10633,14 @@
       "onboard_time": 1761126381,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93676,
+      "num": 155337,
+      "word": "鸡排哥公司增资至100万",
+      "onboard_time": 1761219201,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93553,
@@ -11059,6 +11139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89822,
+      "num": 121131,
+      "word": "女子干1年月嫂挣5千借给雇主85万",
+      "onboard_time": 1761219021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89813,
       "num": 658119,
       "word": "周深抢票",
@@ -11155,14 +11243,6 @@
       "category": "艺人,财经"
     },
     {
-      "raw_hot": 89093,
-      "num": 187804,
-      "word": "欧阳娜娜绿野仙踪",
-      "onboard_time": 1761210502,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88882,
       "num": 437146,
       "word": "高速上他挥舞手电拼命拦车",
@@ -11257,14 +11337,6 @@
       "onboard_time": 1761138862,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88244,
-      "num": 187770,
-      "word": "代露娃哭了",
-      "onboard_time": 1761218302,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 88241,
@@ -11905,6 +11977,14 @@
       "onboard_time": 1760874321,
       "rank": 48,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 83605,
+      "num": 187665,
+      "word": "许昕确认参加总统杯",
+      "onboard_time": 1761218482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83484,
@@ -12889,14 +12969,6 @@
       "onboard_time": 1761194961,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75560,
-      "num": 187665,
-      "word": "许昕确认参加总统杯",
-      "onboard_time": 1761218482,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75441,
@@ -14003,6 +14075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 60630,
+      "num": 187841,
+      "word": "日本高压社会",
+      "onboard_time": 1761217821,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60624,
       "num": 174157,
       "word": "刘宇宁别看我只是一只羊",
@@ -14169,14 +14249,6 @@
       "onboard_time": 1760882603,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58321,
-      "num": 187867,
-      "word": "1万5LV外套撞衫86元校服",
-      "onboard_time": 1761218361,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58200,
@@ -14489,6 +14561,14 @@
       "onboard_time": 1761022883,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52185,
+      "num": 121572,
+      "word": "新婚2月入狱妻子坚守8年等他回家",
+      "onboard_time": 1761219081,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51722,
@@ -14945,14 +15025,6 @@
       "onboard_time": 1761120862,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41172,
-      "num": 187841,
-      "word": "日本高压社会",
-      "onboard_time": 1761217821,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40774,
