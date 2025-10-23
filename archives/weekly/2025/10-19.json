@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761238029731,
+  "endTime": 1761240220844,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -2723,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321457,
+      "num": 178718,
+      "word": "龚俊十秒钟打了十辆车",
+      "onboard_time": 1761236300,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321206,
       "num": 925828,
       "word": "小天回应19年FPX兄弟情",
@@ -5227,14 +5235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178718,
-      "num": 178718,
-      "word": "龚俊十秒钟打了十辆车",
-      "onboard_time": 1761236300,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 178357,
       "num": 178357,
       "word": "于东来个人交流3小时收费50万元",
@@ -5355,6 +5355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175306,
+      "num": 148328,
+      "word": "力挺两岸统一的台退役中将遭重判",
+      "onboard_time": 1761232943,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175292,
       "num": 457846,
       "word": "京东001号国民车20万人参拍",
@@ -5417,14 +5425,6 @@
       "onboard_time": 1761191901,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173791,
-      "num": 148328,
-      "word": "力挺两岸统一的台退役中将遭重判",
-      "onboard_time": 1761232943,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173743,
@@ -14771,6 +14771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61061,
+      "num": 120557,
+      "word": "TES回应不敌GEN",
+      "onboard_time": 1761238637,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61008,
       "num": 207032,
       "word": "人类正推动自恐龙灭绝后最大灭绝",
@@ -14953,6 +14961,14 @@
       "onboard_time": 1760882603,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58576,
+      "num": 131229,
+      "word": "红舞鞋剧组道歉为何难平众怒",
+      "onboard_time": 1761237739,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58200,
@@ -15515,14 +15531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47058,
-      "num": 131229,
-      "word": "红舞鞋剧组道歉为何难平众怒",
-      "onboard_time": 1761237739,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46844,
       "num": 190021,
       "word": "CFO对战HLE",
@@ -15681,6 +15689,14 @@
       "onboard_time": 1760948242,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43440,
+      "num": 67326,
+      "word": "哪些食物不能空腹吃",
+      "onboard_time": 1761239716,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43316,
@@ -15897,6 +15913,14 @@
       "onboard_time": 1760930961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38410,
+      "num": 67168,
+      "word": "张予曦好美",
+      "onboard_time": 1761239537,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38219,
