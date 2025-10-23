@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761254559565,
+  "endTime": 1761255370872,
   "band_list": [
     {
       "raw_hot": 512310,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 23315,
-      "num": 41871,
+      "num": 42785,
       "word": "日本暴发流感疫情",
       "onboard_time": 1761247994,
       "rank": 6,
@@ -497,6 +497,14 @@
       "onboard_time": 1761249734,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10456,
+      "num": 27060,
+      "word": "一老一少联手救下一命",
+      "onboard_time": 1761252853,
+      "rank": 47,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
