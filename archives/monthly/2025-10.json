@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761252077435,
+  "endTime": 1761254559565,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -75483,6 +75483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23315,
+      "num": 41871,
+      "word": "日本暴发流感疫情",
+      "onboard_time": 1761247994,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23298,
       "num": 29739,
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
@@ -75577,14 +75585,6 @@
       "onboard_time": 1760515281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22698,
-      "num": 41871,
-      "word": "日本暴发流感疫情",
-      "onboard_time": 1761247994,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22668,

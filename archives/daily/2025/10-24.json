@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761252077435,
+  "endTime": 1761254559565,
   "band_list": [
     {
       "raw_hot": 512310,
@@ -451,7 +451,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22698,
+      "raw_hot": 23315,
       "num": 41871,
       "word": "日本暴发流感疫情",
       "onboard_time": 1761247994,
