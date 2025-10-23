@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761204374350,
+  "endTime": 1761205157496,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -851,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 598032,
+      "num": 475398,
+      "word": "染了血的红舞鞋还能跳起来吗",
+      "onboard_time": 1761199581,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 594355,
       "num": 431735,
       "word": "柯佳嬿老公涉嫌逃兵役",
@@ -889,14 +897,6 @@
       "onboard_time": 1761020781,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 585603,
-      "num": 475398,
-      "word": "染了血的红舞鞋还能跳起来吗",
-      "onboard_time": 1761199581,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 584308,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1761015800,
       "rank": 28,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 492225,
+      "num": 1078756,
+      "word": "占座超30分钟自动弃座",
+      "onboard_time": 1761200120,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489772,
@@ -1579,14 +1587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 431626,
-      "num": 1069060,
-      "word": "占座超30分钟自动弃座",
-      "onboard_time": 1761200120,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 430594,
       "num": 1037156,
       "word": "锦州是真火了",
@@ -1617,6 +1617,14 @@
       "onboard_time": 1760966059,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 422936,
+      "num": 422936,
+      "word": "戚薇VOGUE出发图是AI做的",
+      "onboard_time": 1761204621,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 421499,
@@ -2411,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309062,
+      "num": 445288,
+      "word": "第一次感受到了学历高的弊端",
+      "onboard_time": 1761191540,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308991,
       "num": 179879,
       "word": "瘦了26斤的面部折叠度",
@@ -2491,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304306,
+      "num": 442518,
+      "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
+      "onboard_time": 1761203421,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302957,
       "num": 1048730,
       "word": "追回卢浮宫被抢文物的可能性低",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1761044541,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300033,
-      "num": 445288,
-      "word": "第一次感受到了学历高的弊端",
-      "onboard_time": 1761191540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 299788,
@@ -3435,6 +3451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216892,
+      "num": 582290,
+      "word": "中美在马来西亚经贸磋商",
+      "onboard_time": 1761203361,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 215759,
       "num": 215759,
       "word": "中方回应中美即将重返谈判桌",
@@ -4299,14 +4323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183790,
-      "num": 442518,
-      "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
-      "onboard_time": 1761203421,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183739,
       "num": 183739,
       "word": "谁跟你在一起都会抑郁的",
@@ -4483,6 +4499,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177344,
+      "num": 437815,
+      "word": "摘镜8年后视力恢复33岁男子发声",
+      "onboard_time": 1761203122,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177099,
+      "num": 441257,
+      "word": "秦始皇陵再曝重要发现",
+      "onboard_time": 1761201740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176942,
       "num": 195229,
       "word": "短剧霸总男团发红包",
@@ -4505,6 +4537,14 @@
       "onboard_time": 1760961441,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176468,
+      "num": 436694,
+      "word": "王珞丹哭到崩溃",
+      "onboard_time": 1761204320,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176374,
@@ -4857,6 +4897,14 @@
       "onboard_time": 1760880622,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165867,
+      "num": 435153,
+      "word": "我人生TOP1的自驾游",
+      "onboard_time": 1761204260,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 165692,
@@ -5627,6 +5675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "GEN对战TES",
+      "onboard_time": 1761204921,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148285,
       "num": 148285,
       "word": "VOGUE缪斯阵容",
@@ -5641,6 +5697,14 @@
       "onboard_time": 1760938161,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147666,
+      "num": 438898,
+      "word": "官方通报无牌小米SU7路口漂移",
+      "onboard_time": 1761203901,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147661,
@@ -5769,6 +5833,14 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144610,
+      "num": 144610,
+      "word": "钟楚曦工作室审美",
+      "onboard_time": 1761204681,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 144567,
@@ -5995,6 +6067,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 138824,
+      "num": 424246,
+      "word": "中美10月24日至27日举行经贸磋商",
+      "onboard_time": 1761204860,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138752,
       "num": 138752,
       "word": "女子变现黄金立马买银镯取悦自己",
@@ -6075,6 +6155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136697,
+      "num": 440734,
+      "word": "龚俊新剧吐血那段什么色号",
+      "onboard_time": 1761203841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136605,
       "num": 228294,
       "word": "TTG晋级年总败者组第二轮",
@@ -6121,14 +6209,6 @@
       "onboard_time": 1760847080,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135270,
-      "num": 438898,
-      "word": "官方通报无牌小米SU7路口漂移",
-      "onboard_time": 1761203901,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135204,
@@ -6217,14 +6297,6 @@
       "onboard_time": 1761019821,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133950,
-      "num": 441257,
-      "word": "秦始皇陵再曝重要发现",
-      "onboard_time": 1761201740,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133463,
@@ -6707,14 +6779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126036,
-      "num": 437815,
-      "word": "摘镜8年后视力恢复33岁男子发声",
-      "onboard_time": 1761203122,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125988,
       "num": 125988,
       "word": "女生偷签MCN直播2年挣20万仅得8万",
@@ -6979,6 +7043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123062,
+      "num": 437748,
+      "word": "动物园月薪5万招猛兽区司机",
+      "onboard_time": 1761203122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "请查收马龙的生日回信",
@@ -7177,14 +7249,6 @@
       "onboard_time": 1760875942,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119706,
-      "num": 437748,
-      "word": "动物园月薪5万招猛兽区司机",
-      "onboard_time": 1761203122,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119502,
@@ -7395,6 +7459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117751,
+      "num": 117751,
+      "word": "易立竞想带走offer三个主持人",
+      "onboard_time": 1761204801,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117671,
       "num": 172607,
       "word": "没有秋天直接入冬",
@@ -7529,6 +7601,14 @@
       "onboard_time": 1761093380,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 115809,
+      "num": 433215,
+      "word": "原来猫咪上床一点也不脏",
+      "onboard_time": 1761203780,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115764,
@@ -9203,14 +9283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99478,
-      "num": 582290,
-      "word": "中美在马来西亚经贸磋商",
-      "onboard_time": 1761203361,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 99193,
       "num": 254728,
       "word": "这剧男主是不是上过班",
@@ -9257,6 +9329,14 @@
       "onboard_time": 1761179120,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98949,
+      "num": 434419,
+      "word": "张远 倒一也是一",
+      "onboard_time": 1761203901,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 98940,
@@ -9321,6 +9401,14 @@
       "onboard_time": 1761035723,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98380,
+      "num": 103756,
+      "word": "把微信状态做成了一本书",
+      "onboard_time": 1761203059,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 98163,
@@ -9777,14 +9865,6 @@
       "onboard_time": 1760828596,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93959,
-      "num": 440734,
-      "word": "龚俊新剧吐血那段什么色号",
-      "onboard_time": 1761203841,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 93942,
@@ -10539,14 +10619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88171,
-      "num": 435153,
-      "word": "我人生TOP1的自驾游",
-      "onboard_time": 1761204260,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88149,
       "num": 88149,
       "word": "解放军这一罕见表述澳方应读懂",
@@ -10971,14 +11043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85096,
-      "num": 434419,
-      "word": "张远 倒一也是一",
-      "onboard_time": 1761203901,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85070,
       "num": 85070,
       "word": "外网称杨振宁无需与他人比较",
@@ -11139,12 +11203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83750,
-      "num": 433215,
-      "word": "原来猫咪上床一点也不脏",
-      "onboard_time": 1761203780,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 83667,
+      "num": 436379,
+      "word": "孙颖莎纪录片",
+      "onboard_time": 1761203540,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 83663,
@@ -11601,14 +11665,6 @@
       "onboard_time": 1761005240,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79555,
-      "num": 436379,
-      "word": "孙颖莎纪录片",
-      "onboard_time": 1761203540,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 79522,
@@ -12755,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67819,
+      "num": 103758,
+      "word": "杨瀚森回应被隔扣",
+      "onboard_time": 1761205101,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67704,
       "num": 67704,
       "word": "暖暖的小猫咪变成了冷冰冰的钱",
@@ -13323,14 +13387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 58902,
-      "num": 436694,
-      "word": "王珞丹哭到崩溃",
-      "onboard_time": 1761204320,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58801,
       "num": 84065,
       "word": "撞名瑞幸的幸运咖居然是蜜雪儿子",
@@ -13875,20 +13931,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46669,
+      "num": 442944,
+      "word": "超轻无人机京东首发",
+      "onboard_time": 1761203479,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46558,
       "num": 92963,
       "word": "一公司招聘前台被BOSS直聘收费",
       "onboard_time": 1761102561,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46515,
-      "num": 442944,
-      "word": "超轻无人机京东首发",
-      "onboard_time": 1761203479,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 46415,

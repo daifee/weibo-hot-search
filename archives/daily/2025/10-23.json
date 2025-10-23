@@ -1,6 +1,6 @@
 {
   "startTime": 1761150886618,
-  "endTime": 1761204374350,
+  "endTime": 1761205157496,
   "band_list": [
     {
       "raw_hot": 2349553,
@@ -99,20 +99,20 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 598032,
+      "num": 475398,
+      "word": "染了血的红舞鞋还能跳起来吗",
+      "onboard_time": 1761199581,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 590539,
       "num": 1094486,
       "word": "俄罗斯自杀式无人机突袭乌克兰",
       "onboard_time": 1761185599,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 585603,
-      "num": 475398,
-      "word": "染了血的红舞鞋还能跳起来吗",
-      "onboard_time": 1761199581,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 573725,
@@ -137,6 +137,14 @@
       "onboard_time": 1761195022,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492225,
+      "num": 1078756,
+      "word": "占座超30分钟自动弃座",
+      "onboard_time": 1761200120,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489772,
@@ -171,12 +179,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 431626,
-      "num": 1069060,
-      "word": "占座超30分钟自动弃座",
-      "onboard_time": 1761200120,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 422936,
+      "num": 422936,
+      "word": "戚薇VOGUE出发图是AI做的",
+      "onboard_time": 1761204621,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 408105,
@@ -275,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300033,
+      "raw_hot": 309062,
       "num": 445288,
       "word": "第一次感受到了学历高的弊端",
       "onboard_time": 1761191540,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304306,
+      "num": 442518,
+      "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
+      "onboard_time": 1761203421,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297573,
@@ -353,6 +369,14 @@
       "onboard_time": 1761194542,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216892,
+      "num": 582290,
+      "word": "中美在马来西亚经贸磋商",
+      "onboard_time": 1761203361,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211857,
@@ -443,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183790,
-      "num": 442518,
-      "word": "毛晓彤爆料张彬彬为入戏屏保是叶思北",
-      "onboard_time": 1761203421,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183528,
       "num": 141090,
       "word": "罗小黑战记2即将全平台上线",
@@ -499,6 +515,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177344,
+      "num": 437815,
+      "word": "摘镜8年后视力恢复33岁男子发声",
+      "onboard_time": 1761203122,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177099,
+      "num": 441257,
+      "word": "秦始皇陵再曝重要发现",
+      "onboard_time": 1761201740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176468,
+      "num": 436694,
+      "word": "王珞丹哭到崩溃",
+      "onboard_time": 1761204320,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173791,
       "num": 186570,
       "word": "爸爸当家这期梦回爸爸去哪儿",
@@ -537,6 +577,14 @@
       "onboard_time": 1761124940,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 165867,
+      "num": 435153,
+      "word": "我人生TOP1的自驾游",
+      "onboard_time": 1761204260,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 164528,
@@ -683,6 +731,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "GEN对战TES",
+      "onboard_time": 1761204921,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 147666,
+      "num": 438898,
+      "word": "官方通报无牌小米SU7路口漂移",
+      "onboard_time": 1761203901,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147352,
       "num": 147352,
       "word": "葛沛豪奚安娜真的把孩子养得很好",
@@ -723,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144610,
+      "num": 144610,
+      "word": "钟楚曦工作室审美",
+      "onboard_time": 1761204681,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "文班亚马少林寺进修成果显著啊",
@@ -747,28 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138824,
+      "num": 424246,
+      "word": "中美10月24日至27日举行经贸磋商",
+      "onboard_time": 1761204860,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136697,
+      "num": 440734,
+      "word": "龚俊新剧吐血那段什么色号",
+      "onboard_time": 1761203841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136518,
       "num": 661484,
       "word": "月入一万以下最好的理财方式",
       "onboard_time": 1761133160,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135270,
-      "num": 438898,
-      "word": "官方通报无牌小米SU7路口漂移",
-      "onboard_time": 1761203901,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133950,
-      "num": 441257,
-      "word": "秦始皇陵再曝重要发现",
-      "onboard_time": 1761201740,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132292,
@@ -827,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126036,
-      "num": 437815,
-      "word": "摘镜8年后视力恢复33岁男子发声",
-      "onboard_time": 1761203122,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125988,
       "num": 125988,
       "word": "女生偷签MCN直播2年挣20万仅得8万",
@@ -883,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123062,
+      "num": 437748,
+      "word": "动物园月薪5万招猛兽区司机",
+      "onboard_time": 1761203122,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121623,
       "num": 191842,
       "word": "朱立伦将率211名国民党干部辞职",
@@ -921,14 +993,6 @@
       "onboard_time": 1761194301,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119706,
-      "num": 437748,
-      "word": "动物园月薪5万招猛兽区司机",
-      "onboard_time": 1761203122,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119040,
@@ -971,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117751,
+      "num": 117751,
+      "word": "易立竞想带走offer三个主持人",
+      "onboard_time": 1761204801,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116532,
       "num": 106809,
       "word": "雪后九寨沟美成了童话世界",
@@ -985,6 +1057,14 @@
       "onboard_time": 1761192381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115809,
+      "num": 433215,
+      "word": "原来猫咪上床一点也不脏",
+      "onboard_time": 1761203780,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 115174,
@@ -1187,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99478,
-      "num": 582290,
-      "word": "中美在马来西亚经贸磋商",
-      "onboard_time": 1761203361,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 99236,
       "num": 656544,
       "word": "齐齐哈尔高速一SUV开远光逆行",
@@ -1211,12 +1283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98949,
+      "num": 434419,
+      "word": "张远 倒一也是一",
+      "onboard_time": 1761203901,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98655,
       "num": 662502,
       "word": "网红小影夫妇涉偷税漏税被查处",
       "onboard_time": 1761145223,
       "rank": 7,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 98380,
+      "num": 103756,
+      "word": "把微信状态做成了一本书",
+      "onboard_time": 1761203059,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 96117,
@@ -1291,14 +1379,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 93959,
-      "num": 440734,
-      "word": "龚俊新剧吐血那段什么色号",
-      "onboard_time": 1761203841,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93798,
       "num": 434078,
       "word": "金价暴涨后又暴跌金店客流稀少",
@@ -1361,14 +1441,6 @@
       "onboard_time": 1761195561,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88171,
-      "num": 435153,
-      "word": "我人生TOP1的自驾游",
-      "onboard_time": 1761204260,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 88149,
@@ -1443,14 +1515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85096,
-      "num": 434419,
-      "word": "张远 倒一也是一",
-      "onboard_time": 1761203901,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84745,
       "num": 84745,
       "word": "委内瑞拉部署5000枚俄制导弹",
@@ -1467,12 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83750,
-      "num": 433215,
-      "word": "原来猫咪上床一点也不脏",
-      "onboard_time": 1761203780,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 83667,
+      "num": 436379,
+      "word": "孙颖莎纪录片",
+      "onboard_time": 1761203540,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 83387,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1761200840,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79555,
-      "num": 436379,
-      "word": "孙颖莎纪录片",
-      "onboard_time": 1761203540,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 78783,
@@ -1667,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67819,
+      "num": 103758,
+      "word": "杨瀚森回应被隔扣",
+      "onboard_time": 1761205101,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67219,
       "num": 67219,
       "word": "多家银行近日下调存款利率",
@@ -1787,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58902,
-      "num": 436694,
-      "word": "王珞丹哭到崩溃",
-      "onboard_time": 1761204320,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57456,
       "num": 81209,
       "word": "你好种地少年3开播",
@@ -1883,7 +1939,7 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 46515,
+      "raw_hot": 46669,
       "num": 442944,
       "word": "超轻无人机京东首发",
       "onboard_time": 1761203479,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 15:26:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/23 15:39:17
 </p>
 </blockquote>
 <p>
@@ -4521,6 +4521,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%BA%86%E8%A1%80%E7%9A%84%E7%BA%A2%E8%88%9E%E9%9E%8B%E8%BF%98%E8%83%BD%E8%B7%B3%E8%B5%B7%E6%9D%A5%E5%90%97%23" target="weibo">
+染了血的红舞鞋还能跳起来吗（热度：598032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%90%B5%E6%9E%B6%E5%8E%9F%E5%9B%A0%23" target="weibo">
 王鹤润工作室辟谣吵架原因（热度：597748）
 </a>
@@ -4673,12 +4679,6 @@ Doinb怒喷TheShy（热度：590180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ning%E6%B5%B4%E5%AE%A4%E6%91%94%E4%BC%A4%23" target="weibo">
 Ning浴室摔伤（热度：586285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%BA%86%E8%A1%80%E7%9A%84%E7%BA%A2%E8%88%9E%E9%9E%8B%E8%BF%98%E8%83%BD%E8%B7%B3%E8%B5%B7%E6%9D%A5%E5%90%97%23" target="weibo">
-染了血的红舞鞋还能跳起来吗（热度：585603）
 </a>
 </li>
 
