@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761287828977,
+  "endTime": 1761288572893,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3419,6 +3419,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 858595,
+      "num": 1137375,
+      "word": "网红罗大美被害案凶手余金生获死刑",
+      "onboard_time": 1761283102,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 856924,
       "num": 289189,
       "word": "月入3万存2万五的真实生活",
@@ -3963,6 +3971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 799654,
+      "num": 177021,
+      "word": "刘亦菲问王玉雯是不是林一朋友",
+      "onboard_time": 1761288320,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 799365,
       "num": 275702,
       "word": "榜一大哥称已正式起诉旺仔小乔",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1760139379,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 779869,
-      "num": 779869,
-      "word": "网红罗大美被害案凶手余金生获死刑",
-      "onboard_time": 1761283102,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 779523,
@@ -13819,6 +13827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 330496,
+      "num": 330496,
+      "word": "ELLE",
+      "onboard_time": 1761285141,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 330442,
       "num": 330442,
       "word": "朝鲜文艺演出画面",
@@ -15713,14 +15729,6 @@
       "onboard_time": 1760620405,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291920,
-      "num": 291920,
-      "word": "ELLE",
-      "onboard_time": 1761285141,
-      "rank": 3,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 291868,
@@ -23779,6 +23787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193245,
+      "num": 176216,
+      "word": "陈瑶摇人",
+      "onboard_time": 1761287540,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193171,
       "num": 193171,
       "word": "赵丽颖是谁生日呢是我呀",
@@ -24643,6 +24659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188760,
+      "num": 170121,
+      "word": "罗云熙谢谢都灵",
+      "onboard_time": 1761287300,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188731,
       "num": 188731,
       "word": "AG全胜收官擂台赛",
@@ -24785,6 +24809,14 @@
       "onboard_time": 1760520801,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187627,
+      "num": 175648,
+      "word": "店家回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761287421,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187583,
@@ -31635,6 +31667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154409,
+      "num": 154409,
+      "word": "陈闲被新加坡国立大学录取",
+      "onboard_time": 1761286880,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 154405,
       "num": 154405,
       "word": "小米澎湃OS3",
@@ -32249,14 +32289,6 @@
       "onboard_time": 1760965521,
       "rank": 32,
       "category": "数码,游戏"
-    },
-    {
-      "raw_hot": 151715,
-      "num": 151715,
-      "word": "罗云熙谢谢都灵",
-      "onboard_time": 1761287300,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 151643,
@@ -37635,14 +37667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133592,
-      "num": 133592,
-      "word": "陈闲被新加坡国立大学录取",
-      "onboard_time": 1761286880,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 133584,
       "num": 133584,
       "word": "一中学疑让家长跪地学生踩踏越过",
@@ -39449,14 +39473,6 @@
       "onboard_time": 1759549699,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128538,
-      "num": 128538,
-      "word": "店家回应男童喝珍珠奶茶窒息身亡",
-      "onboard_time": 1761287421,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128534,
@@ -45059,6 +45075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116037,
+      "num": 116037,
+      "word": "公司奖励员工的黄金键帽价值4万",
+      "onboard_time": 1761287121,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116030,
       "num": 116030,
       "word": "陈哲远问怎么会有人边吵架边表白的",
@@ -45715,6 +45739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114588,
+      "num": 114588,
+      "word": "Doinb谈GEN零封TES",
+      "onboard_time": 1761287961,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114567,
       "num": 306722,
       "word": "卢浮宫盗窃案4人作案",
@@ -45969,14 +46001,6 @@
       "onboard_time": 1759671744,
       "rank": 49,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 113932,
-      "num": 113932,
-      "word": "陈瑶摇人",
-      "onboard_time": 1761287540,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 113920,
@@ -46801,6 +46825,14 @@
       "onboard_time": 1760177840,
       "rank": 35,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 112392,
+      "num": 112392,
+      "word": "AppStore国区充值加赠10%",
+      "onboard_time": 1761287601,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 112382,
@@ -48115,14 +48147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110204,
-      "num": 110204,
-      "word": "AppStore国区充值加赠10%",
-      "onboard_time": 1761287601,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "卢昱晓自己做捡手机文学",
@@ -48289,14 +48313,6 @@
       "onboard_time": 1761109462,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110009,
-      "num": 110009,
-      "word": "公司奖励员工的黄金键帽价值4万",
-      "onboard_time": 1761287121,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109999,
@@ -54267,6 +54283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99741,
+      "num": 99741,
+      "word": "妈妈挖的藕被全国网友夸了",
+      "onboard_time": 1761288320,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99730,
       "num": 261613,
       "word": "TES让二追三成功攻擂",
@@ -54505,6 +54529,14 @@
       "onboard_time": 1760272700,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99213,
+      "num": 99213,
+      "word": "下班做饭vs下班外卖",
+      "onboard_time": 1761287961,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 99208,
@@ -57859,6 +57891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93050,
+      "num": 93050,
+      "word": "再见爱人5第二期没有路行画面",
+      "onboard_time": 1761288381,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93017,
       "num": 93017,
       "word": "无意识变白行为",
@@ -59393,6 +59433,14 @@
       "onboard_time": 1760146041,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90157,
+      "num": 90157,
+      "word": "余承恩来交作业了",
+      "onboard_time": 1761288500,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90143,
@@ -62249,6 +62297,14 @@
       "onboard_time": 1760493260,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84765,
+      "num": 114033,
+      "word": "闫佩伦他是真有代表作啊",
+      "onboard_time": 1761287361,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 84762,
@@ -68145,14 +68201,6 @@
       "onboard_time": 1760024959,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68505,
-      "num": 114033,
-      "word": "闫佩伦他是真有代表作啊",
-      "onboard_time": 1761287361,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 68433,
@@ -77131,6 +77179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22170,
+      "num": 191047,
+      "word": "京东数字人与华晨宇直播",
+      "onboard_time": 1761286880,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 22162,
       "num": 26502,
       "word": "檀健次被送锦旗有种领奖的感觉",
@@ -77257,14 +77313,6 @@
       "onboard_time": 1760814434,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20908,
-      "num": 191047,
-      "word": "京东数字人与华晨宇直播",
-      "onboard_time": 1761286880,
-      "rank": 18,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 20883,
@@ -77545,6 +77593,14 @@
       "onboard_time": 1761207682,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19284,
+      "num": 99388,
+      "word": "张凌赫想从现在放假到年底",
+      "onboard_time": 1761287839,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19094,
