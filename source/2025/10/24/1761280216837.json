@@ -1,0 +1,410 @@
+{
+  "runTime": 1761280216837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 708520,
+        "num": 1113363,
+        "word": "严禁将手机等电子产品带进课堂",
+        "onboard_time": 1761270020,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 386444,
+        "num": 386444,
+        "word": "孙颖莎 Keep",
+        "onboard_time": 1761276380,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22543,
+        "num": 358378,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333240,
+        "num": 333240,
+        "word": "赵长鹏获特朗普赦免",
+        "onboard_time": 1761274640,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329494,
+        "num": 329494,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1761279020,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1250363,
+        "num": 312865,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288290,
+        "num": 288290,
+        "word": "向往的生活",
+        "onboard_time": 1761276440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285716,
+        "num": 285716,
+        "word": "Ning说GEN是故意输AL",
+        "onboard_time": 1761277641,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237030,
+        "num": 237030,
+        "word": "鼓励中小学推行课间15分钟",
+        "onboard_time": 1761269000,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 230035,
+        "num": 230035,
+        "word": "安世中国声明荷兰总部决定在中国无效",
+        "onboard_time": 1761279020,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3669694,
+        "num": 229287,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 749274,
+        "num": 228797,
+        "word": "卢靖姗韩庚二胎出生",
+        "onboard_time": 1761273860,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502908,
+        "num": 227664,
+        "word": "刘亦菲夸马思纯漂亮",
+        "onboard_time": 1761274101,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430827,
+        "num": 226959,
+        "word": "秦昊没认出伊能静的嘴因为亲少了",
+        "onboard_time": 1761277641,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306981,
+        "num": 226432,
+        "word": "向太为何删婚变爆料视频",
+        "onboard_time": 1761273559,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443914,
+        "num": 225138,
+        "word": "林一转发正式恭喜王玉雯",
+        "onboard_time": 1761279201,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281719,
+        "num": 224371,
+        "word": "苹果彻查iPhone17Pro褪色",
+        "onboard_time": 1761267921,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158558,
+        "num": 223901,
+        "word": "中美可以找到解决彼此关切的办法",
+        "onboard_time": 1761278539,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61088,
+        "num": 222786,
+        "word": "你的身体经历过哪一级疼痛",
+        "onboard_time": 1761276862,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115439,
+        "num": 221908,
+        "word": "上帝到底为谷爱凌关了哪扇窗",
+        "onboard_time": 1761278661,
+        "rank": 19,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 552315,
+        "num": 221000,
+        "word": "金价大跌有人刚买镯子想退货",
+        "onboard_time": 1761271999,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 340148,
+        "num": 220211,
+        "word": "女子银行被VIP插队现场要说法",
+        "onboard_time": 1761276922,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257698,
+        "num": 219105,
+        "word": "迪丽热巴新剧开机",
+        "onboard_time": 1761274040,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255782,
+        "num": 218593,
+        "word": "吃外卖和不吃外卖都沉默了",
+        "onboard_time": 1761279500,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218206,
+        "num": 218206,
+        "word": "小米汽车购置税补贴方案",
+        "onboard_time": 1761279262,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207288,
+        "num": 207288,
+        "word": "放弃工资上了一天班",
+        "onboard_time": 1761276380,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 201077,
+        "word": "加强中小学生心理健康10条措施",
+        "onboard_time": 1761267682,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 195863,
+        "word": "公司给入职满10年员工发100克金饰",
+        "onboard_time": 1761274401,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144568,
+        "num": 193031,
+        "word": "交换人生",
+        "onboard_time": 1761277282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115789,
+        "num": 191473,
+        "word": "水龙吟开播",
+        "onboard_time": 1761274821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190820,
+        "num": 190820,
+        "word": "雷军回应K90定价",
+        "onboard_time": 1761270020,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183773,
+        "num": 183773,
+        "word": "突然就明白了多年前同学录的意思",
+        "onboard_time": 1761279922,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179160,
+        "num": 179160,
+        "word": "林允国风鬼新娘味太冲了",
+        "onboard_time": 1761279500,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175505,
+        "num": 175505,
+        "word": "光与夜之恋",
+        "onboard_time": 1761279982,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "陈哲远伊能静拥抱",
+        "onboard_time": 1761279682,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122453,
+        "num": 151925,
+        "word": "再见爱人5更新",
+        "onboard_time": 1761280102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140581,
+        "num": 140581,
+        "word": "秋赤音 奇迹暖暖",
+        "onboard_time": 1761278780,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24349,
+        "num": 134380,
+        "word": "赛道前五名个个有宇宁",
+        "onboard_time": 1761280163,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83476,
+        "num": 132326,
+        "word": "八宝山革命公墓外排起数十米长队",
+        "onboard_time": 1761280042,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130522,
+        "num": 130522,
+        "word": "解决老龄化要年轻人快结婚生孩子",
+        "onboard_time": 1761278481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135988,
+        "num": 130493,
+        "word": "内存价格暴涨",
+        "onboard_time": 1761279561,
+        "rank": 40,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 92318,
+        "num": 130137,
+        "word": "多地动物遭热成像无人机投箭射杀",
+        "onboard_time": 1761278960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69934,
+        "num": 129812,
+        "word": "张艺兴京东AI舞台",
+        "onboard_time": 1761275180,
+        "rank": 42,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 140282,
+        "num": 129456,
+        "word": "女子带宠物蛙就餐被店员误认是食材",
+        "onboard_time": 1761271580,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "吴彤找贾玲要的减肥食谱吃瘦了30斤",
+        "onboard_time": 1761273559,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123807,
+        "num": 123807,
+        "word": "加绒洞洞鞋",
+        "onboard_time": 1761274460,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "亚历山大 罚球",
+        "onboard_time": 1761279863,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36349,
+        "num": 119724,
+        "word": "陈梦米兰vlog",
+        "onboard_time": 1761278780,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 121708,
+        "num": 119568,
+        "word": "不能以考试成绩对学生进行排名",
+        "onboard_time": 1761277402,
+        "rank": 48,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 123722,
+        "num": 119562,
+        "word": "周深把杨幂唱红温了",
+        "onboard_time": 1761277341,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

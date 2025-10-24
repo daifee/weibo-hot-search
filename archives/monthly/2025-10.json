@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761277724484,
+  "endTime": 1761280216837,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -163,8 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3351209,
-      "num": 171824,
+      "raw_hot": 3669694,
+      "num": 229287,
       "word": "王玉雯 想和刘亦菲官宣了",
       "onboard_time": 1761277282,
       "rank": 10,
@@ -1411,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1250363,
+      "num": 312865,
+      "word": "路行退出再见爱人5",
+      "onboard_time": 1761279500,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1249025,
       "num": 975211,
       "word": "陈震致歉",
@@ -2404,7 +2412,7 @@
     },
     {
       "raw_hot": 1026996,
-      "num": 164126,
+      "num": 221000,
       "word": "金价大跌有人刚买镯子想退货",
       "onboard_time": 1761271999,
       "rank": 14,
@@ -2572,7 +2580,7 @@
     },
     {
       "raw_hot": 993082,
-      "num": 171403,
+      "num": 228797,
       "word": "卢靖姗韩庚二胎出生",
       "onboard_time": 1761273860,
       "rank": 10,
@@ -4572,7 +4580,7 @@
     },
     {
       "raw_hot": 730312,
-      "num": 171199,
+      "num": 227664,
       "word": "刘亦菲夸马思纯漂亮",
       "onboard_time": 1761274101,
       "rank": 11,
@@ -4785,6 +4793,14 @@
       "onboard_time": 1761016881,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 708520,
+      "num": 1113363,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 708369,
@@ -9931,6 +9947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 443914,
+      "num": 225138,
+      "word": "林一转发正式恭喜王玉雯",
+      "onboard_time": 1761279201,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 443484,
       "num": 443484,
       "word": "预制甜品已进化到不知天地为何物了",
@@ -10393,6 +10417,14 @@
       "onboard_time": 1759820839,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430827,
+      "num": 226959,
+      "word": "秦昊没认出伊能静的嘴因为亲少了",
+      "onboard_time": 1761277641,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 430692,
@@ -11675,6 +11707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 386444,
+      "num": 386444,
+      "word": "孙颖莎 Keep",
+      "onboard_time": 1761276380,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386102,
       "num": 242605,
       "word": "娃小宗无糖茶与娃哈哈包装区分鲜明",
@@ -12891,14 +12931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351469,
-      "num": 351469,
-      "word": "严禁将手机等电子产品带进课堂",
-      "onboard_time": 1761270020,
-      "rank": 35,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 350523,
       "num": 881994,
       "word": "我家那闺女",
@@ -13300,10 +13332,18 @@
     },
     {
       "raw_hot": 340992,
-      "num": 170251,
+      "num": 195863,
       "word": "公司给入职满10年员工发100克金饰",
       "onboard_time": 1761274401,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340148,
+      "num": 220211,
+      "word": "女子银行被VIP插队现场要说法",
+      "onboard_time": 1761276922,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -13401,14 +13441,6 @@
       "onboard_time": 1759822521,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337407,
-      "num": 337407,
-      "word": "孙颖莎 Keep",
-      "onboard_time": 1761276380,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 337216,
@@ -13537,6 +13569,14 @@
       "onboard_time": 1760684481,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333240,
+      "num": 333240,
+      "word": "赵长鹏获特朗普赦免",
+      "onboard_time": 1761274640,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 332778,
@@ -13721,6 +13761,14 @@
       "onboard_time": 1760350281,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 329494,
+      "num": 329494,
+      "word": "淘宝闪购免单",
+      "onboard_time": 1761279020,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 328345,
@@ -14795,14 +14843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307849,
-      "num": 307849,
-      "word": "赵长鹏获特朗普赦免",
-      "onboard_time": 1761274640,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 307709,
       "num": 307709,
       "word": "久哲谈清清转辅",
@@ -14841,6 +14881,14 @@
       "onboard_time": 1759666702,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306981,
+      "num": 226432,
+      "word": "向太为何删婚变爆料视频",
+      "onboard_time": 1761273559,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 306592,
@@ -15811,6 +15859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288290,
+      "num": 288290,
+      "word": "向往的生活",
+      "onboard_time": 1759471820,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288056,
       "num": 207619,
       "word": "女生误卖奶奶藏13万金首饰旧衣",
@@ -15825,14 +15881,6 @@
       "onboard_time": 1759626139,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287899,
-      "num": 169948,
-      "word": "向太为何删婚变爆料视频",
-      "onboard_time": 1761273559,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 287729,
@@ -15921,6 +15969,14 @@
       "onboard_time": 1761133101,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 285716,
+      "num": 285716,
+      "word": "Ning说GEN是故意输AL",
+      "onboard_time": 1761277641,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 285195,
@@ -16041,14 +16097,6 @@
       "onboard_time": 1759901181,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283294,
-      "num": 162205,
-      "word": "女子银行被VIP插队现场要说法",
-      "onboard_time": 1761276922,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283044,
@@ -17689,6 +17737,14 @@
       "onboard_time": 1759288041,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 255782,
+      "num": 218593,
+      "word": "吃外卖和不吃外卖都沉默了",
+      "onboard_time": 1761279500,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 255743,
@@ -19427,6 +19483,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230035,
+      "num": 230035,
+      "word": "安世中国声明荷兰总部决定在中国无效",
+      "onboard_time": 1761279020,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229911,
       "num": 183756,
       "word": "股市",
@@ -20228,7 +20292,7 @@
     },
     {
       "raw_hot": 218999,
-      "num": 157085,
+      "num": 207288,
       "word": "放弃工资上了一天班",
       "onboard_time": 1761276380,
       "rank": 30,
@@ -20265,6 +20329,14 @@
       "onboard_time": 1760846420,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218206,
+      "num": 218206,
+      "word": "小米汽车购置税补贴方案",
+      "onboard_time": 1761279262,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 218133,
@@ -23340,7 +23412,7 @@
     },
     {
       "raw_hot": 194616,
-      "num": 194616,
+      "num": 201077,
       "word": "加强中小学生心理健康10条措施",
       "onboard_time": 1761267682,
       "rank": 13,
@@ -25219,6 +25291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183773,
+      "num": 183773,
+      "word": "突然就明白了多年前同学录的意思",
+      "onboard_time": 1761279922,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183739,
       "num": 183739,
       "word": "谁跟你在一起都会抑郁的",
@@ -26001,6 +26081,14 @@
       "onboard_time": 1759915220,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179160,
+      "num": 179160,
+      "word": "林允国风鬼新娘味太冲了",
+      "onboard_time": 1761279500,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 179129,
@@ -27827,14 +27915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169841,
-      "num": 169841,
-      "word": "向往的生活",
-      "onboard_time": 1759471820,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169810,
       "num": 169810,
       "word": "墨西哥活火山上空疑出现UFO舰队",
@@ -28033,6 +28113,14 @@
       "onboard_time": 1760356702,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168720,
+      "num": 168720,
+      "word": "陈哲远伊能静拥抱",
+      "onboard_time": 1761279682,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168708,
@@ -30345,6 +30433,14 @@
       "onboard_time": 1759669944,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158558,
+      "num": 223901,
+      "word": "中美可以找到解决彼此关切的办法",
+      "onboard_time": 1761278539,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158550,
@@ -34891,6 +34987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140581,
+      "num": 140581,
+      "word": "秋赤音 奇迹暖暖",
+      "onboard_time": 1761278780,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140552,
       "num": 140552,
       "word": "陈立农cos丁禹兮慕声",
@@ -36377,6 +36481,14 @@
       "onboard_time": 1760414541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135988,
+      "num": 130493,
+      "word": "内存价格暴涨",
+      "onboard_time": 1761279561,
+      "rank": 40,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 135958,
@@ -38481,6 +38593,14 @@
       "onboard_time": 1759557379,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130522,
+      "num": 130522,
+      "word": "解决老龄化要年轻人快结婚生孩子",
+      "onboard_time": 1761278481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130519,
@@ -41699,6 +41819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122453,
+      "num": 151925,
+      "word": "再见爱人5更新",
+      "onboard_time": 1761280102,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122431,
       "num": 122431,
       "word": "龚俊一个动作让群体沉默",
@@ -41993,6 +42121,14 @@
       "onboard_time": 1760426482,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121708,
+      "num": 119568,
+      "word": "不能以考试成绩对学生进行排名",
+      "onboard_time": 1761277402,
+      "rank": 43,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 121698,
@@ -42353,6 +42489,14 @@
       "onboard_time": 1760003420,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120845,
+      "num": 120845,
+      "word": "亚历山大 罚球",
+      "onboard_time": 1761279863,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 120826,
@@ -44795,14 +44939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115718,
-      "num": 115718,
-      "word": "不能以考试成绩对学生进行排名",
-      "onboard_time": 1761277402,
-      "rank": 43,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 115703,
       "num": 127530,
       "word": "警方通报女主播被快递包裹炸伤",
@@ -44889,6 +45025,14 @@
       "onboard_time": 1760711846,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115439,
+      "num": 221908,
+      "word": "上帝到底为谷爱凌关了哪扇窗",
+      "onboard_time": 1761278661,
+      "rank": 19,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 115428,
@@ -49739,14 +49883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106918,
-      "num": 106918,
-      "word": "Ning说GEN是故意输AL",
-      "onboard_time": 1761277641,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 106899,
       "num": 106899,
       "word": "国庆假期金饰克价涨近40元",
@@ -50520,14 +50656,6 @@
       "word": "张智霖 美人穿破布都是美人",
       "onboard_time": 1759385420,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105488,
-      "num": 95420,
-      "word": "秦昊没认出伊能静的嘴因为亲少了",
-      "onboard_time": 1761277641,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -57755,6 +57883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92318,
+      "num": 130137,
+      "word": "多地动物遭热成像无人机投箭射杀",
+      "onboard_time": 1761278960,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92306,
       "num": 189777,
       "word": "迪丽热巴利剑玫瑰是理想人格",
@@ -62337,6 +62473,14 @@
       "onboard_time": 1760945422,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83476,
+      "num": 132326,
+      "word": "八宝山革命公墓外排起数十米长队",
+      "onboard_time": 1761280042,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83421,
@@ -67235,6 +67379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69934,
+      "num": 168528,
+      "word": "张艺兴京东AI舞台",
+      "onboard_time": 1761275180,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 69893,
       "num": 214228,
       "word": "美IP账号为离间中巴翻炒旧图",
@@ -69299,6 +69451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61088,
+      "num": 222786,
+      "word": "你的身体经历过哪一级疼痛",
+      "onboard_time": 1761276862,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61067,
       "num": 135765,
       "word": "为什么身边的人拍照都在换vivo",
@@ -70353,14 +70513,6 @@
       "onboard_time": 1759647381,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56673,
-      "num": 169301,
-      "word": "你的身体经历过哪一级疼痛",
-      "onboard_time": 1761276862,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 56618,
@@ -74147,6 +74299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36349,
+      "num": 119724,
+      "word": "陈梦米兰vlog",
+      "onboard_time": 1761278780,
+      "rank": 47,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 36314,
       "num": 90575,
       "word": "鸡排侄也来给鸡排哥帮忙了",
@@ -74561,14 +74721,6 @@
       "onboard_time": 1759388661,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 33728,
-      "num": 168528,
-      "word": "张艺兴京东AI舞台",
-      "onboard_time": 1761275180,
-      "rank": 18,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 33623,
@@ -76169,6 +76321,14 @@
       "onboard_time": 1760895016,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24349,
+      "num": 134380,
+      "word": "赛道前五名个个有宇宁",
+      "onboard_time": 1761280163,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 24335,
