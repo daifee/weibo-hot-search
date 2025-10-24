@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761338540179,
+  "endTime": 1761340997400,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -339,8 +339,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80191,
-      "num": 80191,
+      "raw_hot": 81877,
+      "num": 129836,
       "word": "台湾重回中国版图80年了",
       "onboard_time": 1761331635,
       "rank": 21,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21008,
+      "num": 21008,
+      "word": "普京说生孩子和学习工作能结合",
+      "onboard_time": 1761339075,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20775,
       "num": 30361,
       "word": "空枪",
@@ -587,20 +595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16685,
+      "num": 23990,
+      "word": "高市早苗发表施政演说",
+      "onboard_time": 1761336913,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15257,
       "num": 24003,
       "word": "苏新皓拳击砸在我的心口上",
       "onboard_time": 1761337753,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14629,
-      "num": 23990,
-      "word": "高市早苗发表施政演说",
-      "onboard_time": 1761336913,
-      "rank": 48,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
