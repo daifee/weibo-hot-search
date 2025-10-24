@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761319687749,
+  "endTime": 1761320546685,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1455395,
+      "num": 221284,
+      "word": "李金铭 我只是跑出去玩啦",
+      "onboard_time": 1761318742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1267070,
       "num": 201294,
       "word": "钟楚曦站位",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1050735,
-      "num": 264881,
+      "num": 304156,
       "word": "况盛发布声明",
       "onboard_time": 1761310580,
       "rank": 11,
@@ -209,14 +217,6 @@
       "onboard_time": 1761291559,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 746597,
-      "num": 221284,
-      "word": "李金铭 我只是跑出去玩啦",
-      "onboard_time": 1761318742,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 737112,
@@ -539,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 423938,
+      "num": 423938,
+      "word": "科学家称外星人或已懒得理我们",
+      "onboard_time": 1761312441,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 406512,
       "num": 185646,
       "word": "钓鱼博主袁小小去世",
@@ -755,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310310,
-      "num": 310310,
-      "word": "科学家称外星人或已懒得理我们",
-      "onboard_time": 1761312441,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 306981,
       "num": 241396,
       "word": "向太为何删婚变爆料视频",
@@ -801,6 +801,14 @@
       "onboard_time": 1761277641,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281744,
+      "num": 281744,
+      "word": "国台办谈设立台湾光复纪念日",
+      "onboard_time": 1761310522,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 277135,
@@ -891,14 +899,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 243221,
-      "num": 243221,
-      "word": "国台办谈设立台湾光复纪念日",
-      "onboard_time": 1761310522,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 241910,
       "num": 185122,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
@@ -929,6 +929,14 @@
       "onboard_time": 1761226223,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230382,
+      "num": 210539,
+      "word": "肖战是去拍戏了不是去和亲了",
+      "onboard_time": 1761319340,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 227907,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1761283280,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201960,
+      "num": 201960,
+      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+      "onboard_time": 1761315862,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201511,
@@ -1363,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173056,
+      "num": 173056,
+      "word": "AG再次晋级年总胜决",
+      "onboard_time": 1761319461,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171906,
       "num": 190202,
       "word": "十五五",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1761300262,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166997,
+      "num": 166997,
+      "word": "张杰他不爱我",
+      "onboard_time": 1761319761,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 166711,
@@ -1523,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158926,
+      "num": 158926,
+      "word": "邵兵罕见露面力挺儿子邵子恒",
+      "onboard_time": 1761319643,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158558,
       "num": 223901,
       "word": "中美可以找到解决彼此关切的办法",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1761222863,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 156435,
-      "num": 156435,
-      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
-      "onboard_time": 1761315862,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155622,
@@ -1691,7 +1723,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144506,
+      "raw_hot": 144780,
       "num": 144506,
       "word": "李沁陈哲远曾舜晞你们三个过吧",
       "onboard_time": 1761316823,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1761308361,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142981,
+      "num": 142981,
+      "word": "空枪",
+      "onboard_time": 1761319643,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 142904,
@@ -1787,20 +1827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137727,
+      "num": 137727,
+      "word": "淘宝限时补贴等优惠突停致大量退货",
+      "onboard_time": 1761320421,
+      "rank": 31,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 137677,
       "num": 155662,
       "word": "95后小伙手搓AI眼镜体验失明的一天",
       "onboard_time": 1761276261,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137031,
-      "num": 137031,
-      "word": "AG再次晋级年总胜决",
-      "onboard_time": 1761319461,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 136618,
@@ -1863,6 +1903,14 @@
       "num": 134575,
       "word": "什么情况下同桌饮酒者需担责",
       "onboard_time": 1761270260,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134403,
+      "num": 134403,
+      "word": "妈妈因病去世女儿狂转眼珠不让泪流",
+      "onboard_time": 1761320241,
       "rank": 32,
       "category": "民生新闻"
     },
@@ -2315,14 +2363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116529,
-      "num": 116529,
-      "word": "肖战是去拍戏了不是去和亲了",
-      "onboard_time": 1761319340,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116459,
       "num": 116459,
       "word": "钟意 别送了",
@@ -2523,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109785,
+      "num": 109785,
+      "word": "VOGUE群星风的形态创意大片",
+      "onboard_time": 1761317122,
+      "rank": 45,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 108499,
       "num": 108499,
       "word": "管泽元恭喜BLG",
@@ -2691,28 +2739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101708,
-      "num": 101708,
-      "word": "空枪",
-      "onboard_time": 1761319643,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101369,
       "num": 101369,
       "word": "黄金急跌近2%",
       "onboard_time": 1761309382,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101251,
-      "num": 101251,
-      "word": "VOGUE群星风的形态创意大片",
-      "onboard_time": 1761317122,
-      "rank": 45,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 101166,
@@ -2753,14 +2785,6 @@
       "onboard_time": 1761302779,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 99990,
-      "num": 99990,
-      "word": "邵兵罕见露面力挺儿子邵子恒",
-      "onboard_time": 1761319643,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 99744,
@@ -2907,6 +2931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94558,
+      "num": 94558,
+      "word": "没想过BLG会这样赢比赛",
+      "onboard_time": 1761320362,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94134,
       "num": 133499,
       "word": "龚俊指挥交通呢 十秒钟打了十辆车",
@@ -2929,6 +2961,14 @@
       "onboard_time": 1761319103,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93640,
+      "num": 343988,
+      "word": "世界市长对话郑州",
+      "onboard_time": 1761317182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93121,
@@ -3091,14 +3131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85114,
-      "num": 315029,
-      "word": "世界市长对话郑州",
-      "onboard_time": 1761317182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 85053,
       "num": 85053,
       "word": "ChatGPT逼疯美国教授",
@@ -3123,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84388,
+      "num": 127551,
+      "word": "男孩窒息事件蹦床商家称已尽责",
+      "onboard_time": 1761316643,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84195,
       "num": 84195,
       "word": "杨瀚森主教练因赌球被逮捕",
@@ -3137,14 +3177,6 @@
       "onboard_time": 1761291201,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84098,
-      "num": 127551,
-      "word": "男孩窒息事件蹦床商家称已尽责",
-      "onboard_time": 1761316643,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83592,
@@ -3169,6 +3201,14 @@
       "onboard_time": 1761269061,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 82570,
+      "num": 87395,
+      "word": "只有潮汕人才懂这锅粥有多好吃",
+      "onboard_time": 1761320121,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 80182,
@@ -3409,6 +3449,14 @@
       "onboard_time": 1761270919,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58615,
+      "num": 87257,
+      "word": "美三大指数均创历史新高",
+      "onboard_time": 1761320362,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 58576,

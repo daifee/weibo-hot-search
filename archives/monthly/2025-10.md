@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 23:28:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 23:42:26
 </p>
 </blockquote>
 <p>
@@ -797,6 +797,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%23" target="weibo">
 压力给到井柏然刘雯（热度：1455740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E6%88%91%E5%8F%AA%E6%98%AF%E8%B7%91%E5%87%BA%E5%8E%BB%E7%8E%A9%E5%95%A6%23" target="weibo">
+李金铭 我只是跑出去玩啦（热度：1455395）
 </a>
 </li>
 
@@ -3479,12 +3485,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%8B%E7%A5%96%E9%B8%9F%E6%89%BF%E6%8B%85%E7%9B%B8%E5%BA%94%E8%B5%94%E5%81%BF%E4%BF%AE%E5%A4%8D%E8%B4%A3%E4%BB%BB%23" target="weibo">
 始祖鸟承担相应赔偿修复责任（热度：747625）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E6%88%91%E5%8F%AA%E6%98%AF%E8%B7%91%E5%87%BA%E5%8E%BB%E7%8E%A9%E5%95%A6%23" target="weibo">
-李金铭 我只是跑出去玩啦（热度：746597）
 </a>
 </li>
 
