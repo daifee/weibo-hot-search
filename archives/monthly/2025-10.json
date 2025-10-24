@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761301785934,
+  "endTime": 1761302714095,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -8603,6 +8603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 498481,
+      "num": 313341,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1761295641,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
@@ -8763,6 +8771,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 494187,
+      "num": 326883,
+      "word": "结婚三金逼近10万长辈称不如折现",
+      "onboard_time": 1761300021,
+      "rank": 4,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 494040,
       "num": 227762,
       "word": "殷世航向傲娇美求婚",
@@ -8897,14 +8913,6 @@
       "onboard_time": 1761128960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487961,
-      "num": 313341,
-      "word": "小猫知道爷爷去世了",
-      "onboard_time": 1761295641,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 487490,
@@ -18843,6 +18851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 244409,
+      "num": 244409,
+      "word": "水龙吟云包场",
+      "onboard_time": 1761301280,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244283,
       "num": 241151,
       "word": "秘鲁男子遭自家斗鸡攻击致死",
@@ -20681,14 +20697,6 @@
       "onboard_time": 1759314680,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217543,
-      "num": 326883,
-      "word": "结婚三金逼近10万长辈称不如折现",
-      "onboard_time": 1761300021,
-      "rank": 4,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 217503,
@@ -26361,6 +26369,14 @@
       "onboard_time": 1759668263,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179967,
+      "num": 149444,
+      "word": "彭小苒观众缘",
+      "onboard_time": 1761301461,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 179871,
@@ -36460,7 +36476,7 @@
     },
     {
       "raw_hot": 137836,
-      "num": 137836,
+      "num": 148377,
       "word": "体操世锦赛中国首金",
       "onboard_time": 1761300321,
       "rank": 27,
@@ -36617,14 +36633,6 @@
       "onboard_time": 1759286540,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137348,
-      "num": 163334,
-      "word": "水龙吟云包场",
-      "onboard_time": 1761301280,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 137336,
@@ -37635,6 +37643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134756,
+      "num": 134756,
+      "word": "金发于适帅成啥了",
+      "onboard_time": 1761301461,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134749,
       "num": 134749,
       "word": "张彬彬毛晓彤手型差",
@@ -38084,7 +38100,7 @@
     },
     {
       "raw_hot": 133530,
-      "num": 133530,
+      "num": 147550,
       "word": "柬埔寨一中国女子路边大喊救命",
       "onboard_time": 1761298460,
       "rank": 36,
@@ -39377,6 +39393,14 @@
       "onboard_time": 1760624724,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129989,
+      "num": 152237,
+      "word": "KK园区上千人趁乱逃离",
+      "onboard_time": 1761300501,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129973,
@@ -41339,14 +41363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125248,
-      "num": 125248,
-      "word": "KK园区上千人趁乱逃离",
-      "onboard_time": 1761300501,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125241,
       "num": 125241,
       "word": "CELINE中国队 对眼睛很友好",
@@ -41457,6 +41473,14 @@
       "onboard_time": 1759662503,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "喜欢吃猕猴桃的人嘴真严啊",
+      "onboard_time": 1761299180,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 124981,
@@ -44953,14 +44977,6 @@
       "onboard_time": 1759829541,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117436,
-      "num": 117436,
-      "word": "彭小苒观众缘",
-      "onboard_time": 1761301461,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 117401,
@@ -49851,14 +49867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108358,
-      "num": 108358,
-      "word": "金发于适帅成啥了",
-      "onboard_time": 1761301461,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108355,
       "num": 136046,
       "word": "疑似社畜拼好饭中毒死前的终极幻想",
@@ -52153,14 +52161,6 @@
       "onboard_time": 1760345180,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104311,
-      "num": 104311,
-      "word": "喜欢吃猕猴桃的人嘴真严啊",
-      "onboard_time": 1761299180,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 104298,
@@ -54569,6 +54569,14 @@
       "onboard_time": 1760532741,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100358,
+      "num": 100358,
+      "word": "孔雪儿线下怎么美成这样",
+      "onboard_time": 1761302540,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 100357,
@@ -60499,6 +60507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89418,
+      "num": 89418,
+      "word": "宋茜晒与金晨合照",
+      "onboard_time": 1761302540,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 89395,
       "num": 269345,
       "word": "给好好生活的自己颁个奖吧",
@@ -61169,6 +61185,14 @@
       "onboard_time": 1760014339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87991,
+      "num": 87991,
+      "word": "孟子义谁家古风小女子跑出来了",
+      "onboard_time": 1761302241,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87972,
@@ -64379,6 +64403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81659,
+      "num": 153189,
+      "word": "100T对战T1",
+      "onboard_time": 1761301581,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81627,
       "num": 81627,
       "word": "杜兰特火箭常规赛首秀",
@@ -66449,6 +66481,14 @@
       "onboard_time": 1761146600,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76696,
+      "num": 88615,
+      "word": "设台湾光复纪念日",
+      "onboard_time": 1761302481,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76677,
@@ -71715,6 +71755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55996,
+      "num": 125304,
+      "word": "孟子义 谁一直在说话",
+      "onboard_time": 1761301701,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55967,
       "num": 55967,
       "word": "兰蔻晚宴上的张凌赫",
@@ -72363,14 +72411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53224,
-      "num": 153189,
-      "word": "100T对战T1",
-      "onboard_time": 1761301581,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53193,
       "num": 169552,
       "word": "刘诗诗同款笑脸包",
@@ -72577,14 +72617,6 @@
       "onboard_time": 1760012781,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51969,
-      "num": 125304,
-      "word": "孟子义 谁一直在说话",
-      "onboard_time": 1761301701,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 51950,
@@ -76881,6 +76913,14 @@
       "onboard_time": 1760958082,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28074,
+      "num": 108119,
+      "word": "95流量生已播剧对打谁赢了",
+      "onboard_time": 1761302421,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 27985,

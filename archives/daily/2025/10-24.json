@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761301785934,
+  "endTime": 1761302714095,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -291,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 498481,
+      "num": 313341,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1761295641,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 496711,
       "num": 206436,
       "word": "刘亦菲 宝格丽",
@@ -299,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 487961,
-      "num": 313341,
-      "word": "小猫知道爷爷去世了",
-      "onboard_time": 1761295641,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 494187,
+      "num": 326883,
+      "word": "结婚三金逼近10万长辈称不如折现",
+      "onboard_time": 1761300021,
+      "rank": 4,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 465062,
@@ -635,6 +643,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 244409,
+      "num": 244409,
+      "word": "水龙吟云包场",
+      "onboard_time": 1761301280,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241910,
       "num": 185122,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
@@ -705,14 +721,6 @@
       "onboard_time": 1761226343,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 217543,
-      "num": 326883,
-      "word": "结婚三金逼近10万长辈称不如折现",
-      "onboard_time": 1761300021,
-      "rank": 4,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 212034,
@@ -913,6 +921,14 @@
       "onboard_time": 1761279682,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179967,
+      "num": 149444,
+      "word": "彭小苒观众缘",
+      "onboard_time": 1761301461,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 179160,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 137836,
-      "num": 137836,
+      "num": 148377,
       "word": "体操世锦赛中国首金",
       "onboard_time": 1761300321,
       "rank": 27,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1761276261,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137348,
-      "num": 163334,
-      "word": "水龙吟云包场",
-      "onboard_time": 1761301280,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 136618,
@@ -1331,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134756,
+      "num": 134756,
+      "word": "金发于适帅成啥了",
+      "onboard_time": 1761301461,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "什么情况下同桌饮酒者需担责",
@@ -1340,7 +1356,7 @@
     },
     {
       "raw_hot": 133530,
-      "num": 133530,
+      "num": 147550,
       "word": "柬埔寨一中国女子路边大喊救命",
       "onboard_time": 1761298460,
       "rank": 36,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1761285023,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129989,
+      "num": 152237,
+      "word": "KK园区上千人趁乱逃离",
+      "onboard_time": 1761300501,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129671,
@@ -1491,12 +1515,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125248,
-      "num": 125248,
-      "word": "KK园区上千人趁乱逃离",
-      "onboard_time": 1761300501,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "喜欢吃猕猴桃的人嘴真严啊",
+      "onboard_time": 1761299180,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 124721,
@@ -1617,14 +1641,6 @@
       "onboard_time": 1761229464,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 117436,
-      "num": 117436,
-      "word": "彭小苒观众缘",
-      "onboard_time": 1761301461,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 117240,
@@ -1803,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108358,
-      "num": 108358,
-      "word": "金发于适帅成啥了",
-      "onboard_time": 1761301461,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107484,
       "num": 107484,
       "word": "普京称若战斧袭击俄将强硬回应",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1761298100,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104311,
-      "num": 104311,
-      "word": "喜欢吃猕猴桃的人嘴真严啊",
-      "onboard_time": 1761299180,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 104085,
@@ -1977,6 +1977,14 @@
       "onboard_time": 1761230544,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 100358,
+      "num": 100358,
+      "word": "孔雪儿线下怎么美成这样",
+      "onboard_time": 1761302540,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 99213,
@@ -2187,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89418,
+      "num": 89418,
+      "word": "宋茜晒与金晨合照",
+      "onboard_time": 1761302540,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 89382,
       "num": 286604,
       "word": "花少",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1761297680,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87991,
+      "num": 87991,
+      "word": "孟子义谁家古风小女子跑出来了",
+      "onboard_time": 1761302241,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87046,
@@ -2299,6 +2323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 81659,
+      "num": 153189,
+      "word": "100T对战T1",
+      "onboard_time": 1761301581,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80182,
       "num": 146273,
       "word": "荷兰为何敢明抢安世半导体",
@@ -2329,6 +2361,14 @@
       "onboard_time": 1761281962,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76696,
+      "num": 88615,
+      "word": "设台湾光复纪念日",
+      "onboard_time": 1761302481,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75737,
@@ -2539,20 +2579,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55996,
+      "num": 125304,
+      "word": "孟子义 谁一直在说话",
+      "onboard_time": 1761301701,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55582,
       "num": 147436,
       "word": "张小斐 短短四年气定神闲",
       "onboard_time": 1761212962,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 53224,
-      "num": 153189,
-      "word": "100T对战T1",
-      "onboard_time": 1761301581,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 52381,
@@ -2585,14 +2625,6 @@
       "onboard_time": 1761223765,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51969,
-      "num": 125304,
-      "word": "孟子义 谁一直在说话",
-      "onboard_time": 1761301701,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 51928,
@@ -2809,6 +2841,14 @@
       "onboard_time": 1761290000,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28074,
+      "num": 108119,
+      "word": "95流量生已播剧对打谁赢了",
+      "onboard_time": 1761302421,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 26420,
