@@ -1,0 +1,410 @@
+{
+  "runTime": 1761344703374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 141241,
+        "num": 382598,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119722,
+        "num": 119722,
+        "word": "科学家称外星人或已懒得理我们",
+        "onboard_time": 1761312441,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 13783,
+        "num": 72774,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56596,
+        "num": 56596,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55555,
+        "num": 55555,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1761323898,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88399,
+        "num": 55474,
+        "word": "邱莹莹我开始理解你了",
+        "onboard_time": 1761308421,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53518,
+        "num": 53518,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41392,
+        "num": 41392,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36243,
+        "num": 36243,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32935,
+        "num": 32935,
+        "word": "台湾光复80周年",
+        "onboard_time": 1761323599,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129078,
+        "num": 32904,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98105,
+        "num": 32623,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88831,
+        "num": 32230,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76383,
+        "num": 31809,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73714,
+        "num": 31680,
+        "word": "妈妈因病去世女儿狂转眼珠不让泪流",
+        "onboard_time": 1761320241,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62727,
+        "num": 31308,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48043,
+        "num": 31053,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41394,
+        "num": 30510,
+        "word": "刘冲吐槽宋威龙拍照实力",
+        "onboard_time": 1761325998,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34805,
+        "num": 30216,
+        "word": "600万博主辛吉飞拍视频突发癫痫倒地",
+        "onboard_time": 1761320842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30151,
+        "num": 30151,
+        "word": "特朗普对以色列放出迄今最明确警告",
+        "onboard_time": 1761319402,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54886,
+        "num": 30150,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30106,
+        "num": 30106,
+        "word": "医院打造亚朵病房被亚朵酒店起诉",
+        "onboard_time": 1761310940,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29420,
+        "num": 29420,
+        "word": "普京呼吁年轻人不要推迟生育",
+        "onboard_time": 1761311482,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28386,
+        "num": 28386,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28381,
+        "num": 28381,
+        "word": "刘亦菲伊能静恩利后台拥抱",
+        "onboard_time": 1761325637,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28083,
+        "num": 28083,
+        "word": "王者",
+        "onboard_time": 1761322521,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27954,
+        "num": 27954,
+        "word": "李雪琴常驻综艺多的原因有了",
+        "onboard_time": 1761321322,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26507,
+        "num": 26507,
+        "word": "胜利属于每个中国人",
+        "onboard_time": 1761323000,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26275,
+        "num": 26275,
+        "word": "空枪",
+        "onboard_time": 1761319643,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23260,
+        "num": 25776,
+        "word": "水龙吟导演",
+        "onboard_time": 1761322101,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25733,
+        "num": 25733,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25612,
+        "num": 25612,
+        "word": "普京说生孩子和学习工作能结合",
+        "onboard_time": 1761339075,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25439,
+        "num": 25439,
+        "word": "高市早苗称中国是重要邻国",
+        "onboard_time": 1761317303,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23847,
+        "num": 25438,
+        "word": "淘宝限时补贴等优惠突停致大量退货",
+        "onboard_time": 1761320421,
+        "rank": 33,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 23478,
+        "num": 25429,
+        "word": "白鹿曾舜晞售后自拍照",
+        "onboard_time": 1761322521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22148,
+        "num": 25423,
+        "word": "男子教女儿游泳时跳水致死",
+        "onboard_time": 1761308061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21788,
+        "num": 25419,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21723,
+        "num": 25415,
+        "word": "祖国大陆离台湾最近的距离",
+        "onboard_time": 1761312562,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21250,
+        "num": 25411,
+        "word": "郭富城一家五口去景区只用买一张票",
+        "onboard_time": 1761305540,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20383,
+        "num": 25405,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19237,
+        "num": 25398,
+        "word": "马君妍怀孕三个月做NT检查",
+        "onboard_time": 1761310223,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19107,
+        "num": 25396,
+        "word": "天地剑心",
+        "onboard_time": 1761317841,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 25386,
+        "word": "宝格丽CEO给刘亦菲带的词条",
+        "onboard_time": 1761303200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17934,
+        "num": 25381,
+        "word": "张杰他不爱我",
+        "onboard_time": 1761319761,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17041,
+        "num": 25379,
+        "word": "鹿晗香港演唱会",
+        "onboard_time": 1761309622,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16910,
+        "num": 25371,
+        "word": "罗云熙水龙吟太瘦了",
+        "onboard_time": 1761307221,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16390,
+        "num": 25367,
+        "word": "一诺十进胜决",
+        "onboard_time": 1761321261,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16079,
+        "num": 25359,
+        "word": "高市早苗发表施政演说",
+        "onboard_time": 1761336913,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15939,
+        "num": 25358,
+        "word": "况盛发布声明",
+        "onboard_time": 1761310580,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13785,
+        "num": 25350,
+        "word": "与神同行",
+        "onboard_time": 1761327916,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

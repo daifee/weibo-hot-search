@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761341850227,
+  "endTime": 1761344703374,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -187,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141241,
+      "num": 382598,
+      "word": "台湾重回中国版图80年了",
+      "onboard_time": 1761331635,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136246,
       "num": 124608,
       "word": "马君妍怀孕三个月做NT检查",
@@ -315,12 +323,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89770,
-      "num": 177713,
-      "word": "台湾重回中国版图80年了",
-      "onboard_time": 1761331635,
-      "rank": 21,
-      "category": "国内时政"
+      "raw_hot": 88399,
+      "num": 81633,
+      "word": "邱莹莹我开始理解你了",
+      "onboard_time": 1761308421,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 85842,
@@ -385,14 +393,6 @@
       "onboard_time": 1761323120,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72657,
-      "num": 81633,
-      "word": "邱莹莹我开始理解你了",
-      "onboard_time": 1761308421,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 70451,
@@ -515,6 +515,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26275,
+      "num": 30361,
+      "word": "空枪",
+      "onboard_time": 1761319643,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25612,
+      "num": 25612,
+      "word": "普京说生孩子和学习工作能结合",
+      "onboard_time": 1761339075,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25439,
+      "num": 33305,
+      "word": "高市早苗称中国是重要邻国",
+      "onboard_time": 1761317303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24356,
       "num": 33346,
       "word": "周深时差直拍",
@@ -529,30 +553,6 @@
       "onboard_time": 1761330136,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21650,
-      "num": 33305,
-      "word": "高市早苗称中国是重要邻国",
-      "onboard_time": 1761317303,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21008,
-      "num": 21008,
-      "word": "普京说生孩子和学习工作能结合",
-      "onboard_time": 1761339075,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20775,
-      "num": 30361,
-      "word": "空枪",
-      "onboard_time": 1761319643,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 20768,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 16685,
-      "num": 23990,
+      "num": 25359,
       "word": "高市早苗发表施政演说",
       "onboard_time": 1761336913,
       "rank": 48,
