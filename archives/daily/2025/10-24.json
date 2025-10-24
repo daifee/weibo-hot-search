@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761313019377,
+  "endTime": 1761313682113,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -59,6 +59,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1050735,
+      "num": 264881,
+      "word": "况盛发布声明",
+      "onboard_time": 1761310580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026996,
       "num": 310905,
       "word": "金价大跌有人刚买镯子想退货",
@@ -99,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 974213,
+      "num": 264357,
+      "word": "郑恺苗苗真没把我们当外人",
+      "onboard_time": 1761310702,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951071,
       "num": 312840,
       "word": "大闸蟹钻进车内消失2年后被取出",
       "onboard_time": 1761291261,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 937378,
-      "num": 264881,
-      "word": "况盛发布声明",
-      "onboard_time": 1761310580,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 858595,
@@ -267,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 647395,
-      "num": 264357,
-      "word": "郑恺苗苗真没把我们当外人",
-      "onboard_time": 1761310702,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 647318,
       "num": 261887,
       "word": "杨紫被路人认出只用了0.01s",
@@ -403,6 +403,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 478264,
+      "num": 260944,
+      "word": "员工脚痛请假因步数超1.6万被开除",
+      "onboard_time": 1761310100,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473886,
       "num": 473886,
       "word": "S15瑞士轮第五轮抽签",
@@ -515,6 +523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393506,
+      "num": 260124,
+      "word": "男子教女儿游泳时跳水致死",
+      "onboard_time": 1761308061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389031,
+      "num": 260474,
+      "word": "张柏芝 大儿子管我管得很凶",
+      "onboard_time": 1761308421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386444,
       "num": 386444,
       "word": "孙颖莎 Keep",
@@ -547,14 +571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 369101,
-      "num": 260124,
-      "word": "男子教女儿游泳时跳水致死",
-      "onboard_time": 1761308061,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367563,
       "num": 367563,
       "word": "安世中国声明荷兰总部决定在中国无效",
@@ -585,14 +601,6 @@
       "onboard_time": 1761303860,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348939,
-      "num": 260944,
-      "word": "员工脚痛请假因步数超1.6万被开除",
-      "onboard_time": 1761310100,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342814,
@@ -675,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 328636,
-      "num": 260474,
-      "word": "张柏芝 大儿子管我管得很凶",
-      "onboard_time": 1761308421,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327580,
       "num": 327580,
       "word": "普京宣布提高全日制女学生孕产津贴",
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316180,
+      "num": 239324,
+      "word": "星品",
+      "onboard_time": 1761306981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306981,
       "num": 241396,
       "word": "向太为何删婚变爆料视频",
@@ -723,7 +731,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299005,
+      "raw_hot": 304903,
       "num": 258776,
       "word": "鹿晗香港演唱会",
       "onboard_time": 1761309622,
@@ -833,14 +841,6 @@
       "onboard_time": 1761230124,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239324,
-      "num": 239324,
-      "word": "星品",
-      "onboard_time": 1761306981,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 236725,
@@ -953,6 +953,14 @@
       "onboard_time": 1761292700,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208006,
+      "num": 208006,
+      "word": "马君妍怀孕三个月做NT检查",
+      "onboard_time": 1761310223,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 206784,
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187947,
+      "num": 187947,
+      "word": "科学家称外星人或已懒得理我们",
+      "onboard_time": 1761312441,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 186755,
       "num": 171191,
       "word": "伊能静恩利拔戚薇的花",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1761279922,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 183632,
-      "num": 183632,
-      "word": "马君妍怀孕三个月做NT检查",
-      "onboard_time": 1761310223,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 183608,
@@ -1267,6 +1275,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 173257,
+      "num": 173257,
+      "word": "刘宇宁词曲作者参加节目紧张到手抖",
+      "onboard_time": 1761313402,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171906,
       "num": 190202,
       "word": "十五五",
@@ -1347,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165490,
-      "num": 165490,
-      "word": "科学家称外星人或已懒得理我们",
-      "onboard_time": 1761312441,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 165252,
       "num": 165252,
       "word": "陈闲被新加坡国立大学录取",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1761294501,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162996,
+      "num": 263251,
+      "word": "多方回应男子浅区跳水颈椎断裂死亡",
+      "onboard_time": 1761310640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162429,
@@ -1491,20 +1507,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152739,
+      "num": 152739,
+      "word": "祖国大陆离台湾最近的距离",
+      "onboard_time": 1761312562,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152612,
       "num": 152612,
       "word": "戈登10记三分",
       "onboard_time": 1761282381,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152338,
-      "num": 263251,
-      "word": "多方回应男子浅区跳水颈椎断裂死亡",
-      "onboard_time": 1761310640,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151101,
@@ -1635,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138770,
+      "num": 138770,
+      "word": "演员杨怡为离世爱犬举办告别仪式",
+      "onboard_time": 1761312740,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137862,
       "num": 137862,
       "word": "鱼你有染 黑马CP",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1761270260,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133675,
+      "num": 133675,
+      "word": "一枝南南看见刘亦菲眼睛都瞪大了",
+      "onboard_time": 1761311361,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 133530,
@@ -1939,14 +1971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124170,
-      "num": 124170,
-      "word": "祖国大陆离台湾最近的距离",
-      "onboard_time": 1761312562,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123976,
       "num": 123976,
       "word": "罗大美家属回应判决",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1761280881,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122357,
-      "num": 122357,
-      "word": "演员杨怡为离世爱犬举办告别仪式",
-      "onboard_time": 1761312740,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 122174,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1761294440,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117677,
-      "num": 113640,
-      "word": "一枝南南看见刘亦菲眼睛都瞪大了",
-      "onboard_time": 1761311361,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 117605,
@@ -2387,6 +2395,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 103923,
+      "num": 226524,
+      "word": "普京呼吁年轻人不要推迟生育",
+      "onboard_time": 1761311482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 103895,
       "num": 103895,
       "word": "明心 我哥竟是我嫂子",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1761273860,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98669,
+      "num": 98669,
+      "word": "再见爱人",
+      "onboard_time": 1761311422,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98497,
@@ -2907,6 +2931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 75721,
+      "num": 129658,
+      "word": "医院打造亚朵病房被亚朵酒店起诉",
+      "onboard_time": 1761310940,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75534,
       "num": 75534,
       "word": "BLG对战VKS首发名单公布",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1761294501,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69964,
+      "num": 92966,
+      "word": "陈梦3比0胜帕拉南",
+      "onboard_time": 1761306561,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69934,
@@ -3339,7 +3379,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38977,
+      "raw_hot": 40176,
       "num": 129504,
       "word": "情侣争吵女方自杀男方被判无罪",
       "onboard_time": 1761312984,
