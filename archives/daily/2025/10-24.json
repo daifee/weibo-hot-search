@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761313682113,
+  "endTime": 1761316051588,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607082,
+      "num": 260944,
+      "word": "员工脚痛请假因步数超1.6万被开除",
+      "onboard_time": 1761310100,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597702,
       "num": 163264,
       "word": "女子恋爱1个月怀孕被61岁男友拉黑",
@@ -337,6 +345,22 @@
       "onboard_time": 1761288140,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541179,
+      "num": 541179,
+      "word": "普京呼吁年轻人不要推迟生育",
+      "onboard_time": 1761311482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 532045,
+      "num": 229395,
+      "word": "李金铭 去哪了",
+      "onboard_time": 1761315502,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 528750,
@@ -403,12 +427,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 478264,
-      "num": 260944,
-      "word": "员工脚痛请假因步数超1.6万被开除",
-      "onboard_time": 1761310100,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 481513,
+      "num": 260474,
+      "word": "张柏芝 大儿子管我管得很凶",
+      "onboard_time": 1761308421,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 473886,
@@ -531,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389031,
-      "num": 260474,
-      "word": "张柏芝 大儿子管我管得很凶",
-      "onboard_time": 1761308421,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386444,
       "num": 386444,
       "word": "孙颖莎 Keep",
@@ -600,6 +616,14 @@
       "word": "刘涛神图有了",
       "onboard_time": 1761303860,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348964,
+      "num": 228970,
+      "word": "马君妍怀孕三个月做NT检查",
+      "onboard_time": 1761310223,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -867,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230112,
+      "num": 230112,
+      "word": "国台办谈设立台湾光复纪念日",
+      "onboard_time": 1761310522,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227907,
       "num": 177452,
       "word": "水龙吟特效",
@@ -881,6 +913,14 @@
       "onboard_time": 1761311302,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224177,
+      "num": 224177,
+      "word": "科学家称外星人或已懒得理我们",
+      "onboard_time": 1761312441,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 223762,
@@ -955,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208006,
-      "num": 208006,
-      "word": "马君妍怀孕三个月做NT检查",
-      "onboard_time": 1761310223,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206784,
       "num": 155070,
       "word": "女子带宠物蛙就餐被店员误认是食材",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1761280344,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199949,
+      "num": 199949,
+      "word": "一路繁花2七个人才吃了799",
+      "onboard_time": 1761315683,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 199227,
@@ -1131,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187947,
-      "num": 187947,
-      "word": "科学家称外星人或已懒得理我们",
-      "onboard_time": 1761312441,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 186755,
       "num": 171191,
       "word": "伊能静恩利拔戚薇的花",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1761282323,
       "rank": 23,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "程潇饿到直不起身",
+      "onboard_time": 1761315442,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185825,
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173997,
+      "num": 173997,
+      "word": "周深新歌唱得从从容容游刃有余",
+      "onboard_time": 1761315624,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173841,
       "num": 173841,
       "word": "金博洋短节目86.62分",
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166433,
+      "num": 166433,
+      "word": "祖国大陆离台湾最近的距离",
+      "onboard_time": 1761312562,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166165,
       "num": 166165,
       "word": "原神杜林",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1761285681,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159426,
+      "num": 159426,
+      "word": "AG对战KSG",
+      "onboard_time": 1761301341,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 158558,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1761308421,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152739,
-      "num": 152739,
-      "word": "祖国大陆离台湾最近的距离",
-      "onboard_time": 1761312562,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152612,
@@ -1835,6 +1891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131313,
+      "num": 131313,
+      "word": "彭昱畅这是苍蝇成精了吧",
+      "onboard_time": 1761315322,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130911,
+      "num": 130911,
+      "word": "张艺兴直播",
+      "onboard_time": 1761313761,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130631,
       "num": 130631,
       "word": "特朗普称终止与加拿大贸易谈判",
@@ -1979,6 +2051,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "原来秋冬才是减肥的快季节",
+      "onboard_time": 1761314842,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 123488,
       "num": 123488,
       "word": "亚历山大 罚球",
@@ -2091,12 +2171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "国台办谈设立台湾光复纪念日",
-      "onboard_time": 1761310522,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 120210,
+      "num": 120210,
+      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+      "onboard_time": 1761315862,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119870,
@@ -2113,6 +2193,14 @@
       "onboard_time": 1761312624,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118210,
+      "num": 118210,
+      "word": "张杰青岛演唱会",
+      "onboard_time": 1761315024,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 117837,
@@ -2267,14 +2355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111205,
-      "num": 111205,
-      "word": "AG对战KSG",
-      "onboard_time": 1761301341,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111123,
       "num": 111123,
       "word": "花开锦绣",
@@ -2307,12 +2387,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 110253,
+      "num": 143685,
+      "word": "17元高铁盒饭现炒送餐到座",
+      "onboard_time": 1761314002,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110215,
       "num": 110215,
       "word": "何炅问张子枫外面有别的哥哥吗",
       "onboard_time": 1761296900,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108499,
+      "num": 108499,
+      "word": "管泽元恭喜BLG",
+      "onboard_time": 1761315983,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 107484,
@@ -2395,14 +2491,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 103923,
-      "num": 226524,
-      "word": "普京呼吁年轻人不要推迟生育",
-      "onboard_time": 1761311482,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103895,
       "num": 103895,
       "word": "明心 我哥竟是我嫂子",
@@ -2473,6 +2561,14 @@
       "onboard_time": 1761302540,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101760,
+      "num": 127385,
+      "word": "刘嘉玲说谢霆锋妈妈夸赞张柏芝",
+      "onboard_time": 1761315624,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 101369,
@@ -2577,6 +2673,14 @@
       "onboard_time": 1761247994,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97442,
+      "num": 107572,
+      "word": "原神雅珂达",
+      "onboard_time": 1761315803,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97230,
@@ -2851,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84672,
+      "num": 125103,
+      "word": "87岁大爷送桶装水网友捐款送推车",
+      "onboard_time": 1761313703,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84195,
       "num": 84195,
       "word": "杨瀚森主教练因赌球被逮捕",
@@ -3043,6 +3155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 65696,
+      "num": 321770,
+      "word": "二十届四中全会",
+      "onboard_time": 1761315322,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65554,
       "num": 165977,
       "word": "这这这竟然都是黄晓明",
@@ -3233,6 +3353,14 @@
       "onboard_time": 1761260897,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50869,
+      "num": 127214,
+      "word": "佟丽娅到底想定几门娃娃亲",
+      "onboard_time": 1761315383,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50792,
@@ -3617,6 +3745,14 @@
       "onboard_time": 1761291441,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7662,
+      "num": 128610,
+      "word": "南邮悄悄给学生饭卡充钱",
+      "onboard_time": 1761315322,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

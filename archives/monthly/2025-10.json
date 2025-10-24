@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761313682113,
+  "endTime": 1761316051588,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -6435,6 +6435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607082,
+      "num": 260944,
+      "word": "员工脚痛请假因步数超1.6万被开除",
+      "onboard_time": 1761310100,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606156,
       "num": 582571,
       "word": "亲生儿子多次将母亲遗弃荒野",
@@ -7675,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541179,
+      "num": 541179,
+      "word": "普京呼吁年轻人不要推迟生育",
+      "onboard_time": 1761311482,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 540779,
       "num": 438040,
       "word": "张婧仪小时候睡过觉吗",
@@ -7905,6 +7921,14 @@
       "onboard_time": 1760019562,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 532045,
+      "num": 229395,
+      "word": "李金铭 去哪了",
+      "onboard_time": 1761315502,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 531791,
@@ -9131,6 +9155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481513,
+      "num": 260474,
+      "word": "张柏芝 大儿子管我管得很凶",
+      "onboard_time": 1761308421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481264,
       "num": 213700,
       "word": "方媛疑似否认三胎已出生",
@@ -9209,14 +9241,6 @@
       "onboard_time": 1760688022,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 478264,
-      "num": 260944,
-      "word": "员工脚痛请假因步数超1.6万被开除",
-      "onboard_time": 1761310100,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477999,
@@ -12035,14 +12059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389031,
-      "num": 260474,
-      "word": "张柏芝 大儿子管我管得很凶",
-      "onboard_time": 1761308421,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 388698,
       "num": 388698,
       "word": "有人卖七八公斤金条变现700多万",
@@ -13393,6 +13409,14 @@
       "onboard_time": 1760498360,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348964,
+      "num": 228970,
+      "word": "马君妍怀孕三个月做NT检查",
+      "onboard_time": 1761310223,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 348800,
@@ -19971,6 +19995,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230112,
+      "num": 230112,
+      "word": "国台办谈设立台湾光复纪念日",
+      "onboard_time": 1761310522,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229911,
       "num": 183756,
       "word": "股市",
@@ -20361,6 +20393,14 @@
       "onboard_time": 1759824079,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224177,
+      "num": 224177,
+      "word": "科学家称外星人或已懒得理我们",
+      "onboard_time": 1761312441,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 224082,
@@ -21747,14 +21787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208006,
-      "num": 208006,
-      "word": "马君妍怀孕三个月做NT检查",
-      "onboard_time": 1761310223,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207880,
       "num": 412094,
       "word": "刘宇宁直播",
@@ -22993,6 +23025,14 @@
       "onboard_time": 1759381462,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199949,
+      "num": 199949,
+      "word": "一路繁花2七个人才吃了799",
+      "onboard_time": 1761315683,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 199727,
@@ -25267,14 +25307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187947,
-      "num": 187947,
-      "word": "科学家称外星人或已懒得理我们",
-      "onboard_time": 1761312441,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 187924,
       "num": 203579,
       "word": "VOGUE盛典好多丑衣服",
@@ -25561,6 +25593,14 @@
       "onboard_time": 1759982240,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "程潇饿到直不起身",
+      "onboard_time": 1761315442,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185855,
@@ -27763,6 +27803,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 173997,
+      "num": 173997,
+      "word": "周深新歌唱得从从容容游刃有余",
+      "onboard_time": 1761315624,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -29427,6 +29475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166433,
+      "num": 166433,
+      "word": "祖国大陆离台湾最近的距离",
+      "onboard_time": 1761312562,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166417,
       "num": 146755,
       "word": "穆祉丞高会",
@@ -30977,6 +31033,14 @@
       "onboard_time": 1760103624,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159426,
+      "num": 159426,
+      "word": "AG对战KSG",
+      "onboard_time": 1759243222,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 159347,
@@ -32705,14 +32769,6 @@
       "onboard_time": 1760943800,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152739,
-      "num": 152739,
-      "word": "祖国大陆离台湾最近的距离",
-      "onboard_time": 1761312562,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152612,
@@ -39315,6 +39371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131313,
+      "num": 131313,
+      "word": "彭昱畅这是苍蝇成精了吧",
+      "onboard_time": 1761315322,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131308,
       "num": 131308,
       "word": "邓恩熙好权威一张古人脸",
@@ -39497,6 +39561,14 @@
       "onboard_time": 1760100562,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130911,
+      "num": 130911,
+      "word": "张艺兴直播",
+      "onboard_time": 1761313761,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130855,
@@ -42403,6 +42475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "原来秋冬才是减肥的快季节",
+      "onboard_time": 1761314842,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 123753,
       "num": 123753,
       "word": "雷佳音回应作品太多被观众厌烦",
@@ -43987,20 +44067,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120210,
+      "num": 120210,
+      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+      "onboard_time": 1761315862,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120200,
       "num": 148832,
       "word": "LPL今日三战全胜",
       "onboard_time": 1760618661,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120194,
-      "num": 120194,
-      "word": "国台办谈设立台湾光复纪念日",
-      "onboard_time": 1761310522,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 120169,
@@ -44993,6 +45073,14 @@
       "onboard_time": 1760405240,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118210,
+      "num": 118210,
+      "word": "张杰青岛演唱会",
+      "onboard_time": 1761315024,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 118178,
@@ -48539,14 +48627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111205,
-      "num": 111205,
-      "word": "AG对战KSG",
-      "onboard_time": 1759243222,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111197,
       "num": 209914,
       "word": "上海申花亚冠首胜",
@@ -49113,6 +49193,14 @@
       "onboard_time": 1761134902,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110253,
+      "num": 143685,
+      "word": "17元高铁盒饭现炒送餐到座",
+      "onboard_time": 1761314002,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110216,
@@ -50201,6 +50289,14 @@
       "onboard_time": 1759577360,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108499,
+      "num": 108499,
+      "word": "管泽元恭喜BLG",
+      "onboard_time": 1761315983,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 108496,
@@ -52859,14 +52955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103923,
-      "num": 226524,
-      "word": "普京呼吁年轻人不要推迟生育",
-      "onboard_time": 1761311482,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103921,
       "num": 103921,
       "word": "王曼昱1比1扳平",
@@ -54305,6 +54393,14 @@
       "onboard_time": 1761135741,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101760,
+      "num": 127385,
+      "word": "刘嘉玲说谢霆锋妈妈夸赞张柏芝",
+      "onboard_time": 1761315624,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 101754,
@@ -56529,6 +56625,14 @@
       "onboard_time": 1760452282,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97442,
+      "num": 107572,
+      "word": "原神雅珂达",
+      "onboard_time": 1761315803,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97343,
@@ -63529,6 +63633,14 @@
       "onboard_time": 1761189139,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84672,
+      "num": 125103,
+      "word": "87岁大爷送桶装水网友捐款送推车",
+      "onboard_time": 1761313703,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84641,
@@ -73411,6 +73523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50869,
+      "num": 127214,
+      "word": "佟丽娅到底想定几门娃娃亲",
+      "onboard_time": 1761315383,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50816,
       "num": 150639,
       "word": "范丞丞章若楠纪梵希大秀出发",
@@ -80352,6 +80472,14 @@
       "word": "教授被AI换声带货商家被判赔12万",
       "onboard_time": 1760535564,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7662,
+      "num": 128610,
+      "word": "南邮悄悄给学生饭卡充钱",
+      "onboard_time": 1761315322,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
