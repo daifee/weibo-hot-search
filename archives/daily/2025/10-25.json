@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761324443162,
+  "endTime": 1761326623558,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -25,6 +25,14 @@
       "onboard_time": 1761302481,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 628228,
+      "num": 628228,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1761323898,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 489847,
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229035,
-      "num": 229035,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1761323898,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
@@ -139,7 +139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156911,
+      "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
       "onboard_time": 1761322521,
@@ -217,6 +217,14 @@
       "onboard_time": 1761320842,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112905,
+      "num": 81796,
+      "word": "刘亦菲伊能静恩利后台拥抱",
+      "onboard_time": 1761325637,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 111439,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 78063,
-      "num": 78063,
+      "num": 81426,
       "word": "一诺十进胜决",
       "onboard_time": 1761321261,
       "rank": 38,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 74602,
-      "num": 74602,
+      "num": 81382,
       "word": "特朗普对以色列放出迄今最明确警告",
       "onboard_time": 1761319402,
       "rank": 41,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 74144,
-      "num": 74144,
+      "num": 81343,
       "word": "孙燕姿南京演唱会",
       "onboard_time": 1761323120,
       "rank": 42,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 72657,
-      "num": 72657,
+      "num": 81633,
       "word": "邱莹莹我开始理解你了",
       "onboard_time": 1761308421,
       "rank": 44,
@@ -379,8 +387,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70207,
+      "num": 81591,
+      "word": "刘冲吐槽宋威龙拍照实力",
+      "onboard_time": 1761325998,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68050,
-      "num": 71151,
+      "num": 81476,
       "word": "TES抽中BLG",
       "onboard_time": 1761307942,
       "rank": 45,
@@ -443,12 +459,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46191,
+      "num": 81607,
+      "word": "抗美援朝纪念日",
+      "onboard_time": 1761326297,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44578,
+      "num": 81396,
+      "word": "宝格丽CEO给刘亦菲带的词条",
+      "onboard_time": 1761303200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44291,
       "num": 63270,
       "word": "只有潮汕人才懂这锅粥有多好吃",
       "onboard_time": 1761320121,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 43524,
+      "num": 81448,
+      "word": "医院打造亚朵病房被亚朵酒店起诉",
+      "onboard_time": 1761310940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39717,
+      "num": 81325,
+      "word": "陈哲远送的风扇李沁从去年用到今年",
+      "onboard_time": 1761324978,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

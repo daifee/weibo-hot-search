@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761324443162,
+  "endTime": 1761326623558,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1761209722,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628228,
+      "num": 628228,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1761323898,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 626288,
@@ -4715,14 +4723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 229035,
-      "num": 229035,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1761323898,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227907,
       "num": 177452,
       "word": "水龙吟特效",
@@ -7323,6 +7323,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 162388,
+      "num": 156911,
+      "word": "白鹿曾舜晞售后自拍照",
+      "onboard_time": 1761322521,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162250,
       "num": 655799,
       "word": "第一眼以为是丑东西切开后惊艳我了",
@@ -7673,14 +7681,6 @@
       "onboard_time": 1761180020,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156911,
-      "num": 156911,
-      "word": "白鹿曾舜晞售后自拍照",
-      "onboard_time": 1761322521,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 156658,
@@ -11209,6 +11209,14 @@
       "onboard_time": 1761032000,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112905,
+      "num": 81796,
+      "word": "刘亦菲伊能静恩利后台拥抱",
+      "onboard_time": 1761325637,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 112857,
@@ -16244,7 +16252,7 @@
     },
     {
       "raw_hot": 78063,
-      "num": 78063,
+      "num": 81426,
       "word": "一诺十进胜决",
       "onboard_time": 1761321261,
       "rank": 38,
@@ -16700,7 +16708,7 @@
     },
     {
       "raw_hot": 74144,
-      "num": 74144,
+      "num": 81343,
       "word": "孙燕姿南京演唱会",
       "onboard_time": 1761323120,
       "rank": 42,
@@ -17097,6 +17105,14 @@
       "onboard_time": 1761095240,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70207,
+      "num": 81591,
+      "word": "刘冲吐槽宋威龙拍照实力",
+      "onboard_time": 1761325998,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 70114,
@@ -18819,6 +18835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46191,
+      "num": 81607,
+      "word": "抗美援朝纪念日",
+      "onboard_time": 1761326297,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46143,
       "num": 46143,
       "word": "王玉雯大衣配凉鞋",
@@ -19153,6 +19177,14 @@
       "onboard_time": 1761114862,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39717,
+      "num": 81325,
+      "word": "陈哲远送的风扇李沁从去年用到今年",
+      "onboard_time": 1761324978,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 39593,
