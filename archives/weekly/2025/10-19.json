@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761288572893,
+  "endTime": 1761290716242,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -177,6 +177,14 @@
       "onboard_time": 1760971041,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1570062,
+      "num": 576410,
+      "word": "赵樱子官宣分手",
+      "onboard_time": 1761288800,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1523216,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1026996,
-      "num": 236209,
+      "num": 310905,
       "word": "金价大跌有人刚买镯子想退货",
       "onboard_time": 1761271999,
       "rank": 14,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 799654,
-      "num": 177021,
+      "num": 550149,
       "word": "刘亦菲问王玉雯是不是林一朋友",
       "onboard_time": 1761288320,
       "rank": 15,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1761265941,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673195,
+      "num": 1107711,
+      "word": "ELLE",
+      "onboard_time": 1761285141,
+      "rank": 3,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 673064,
@@ -1451,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541890,
+      "num": 541890,
+      "word": "VOGUE 这个时候需要苏芒",
+      "onboard_time": 1761288140,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540710,
       "num": 479399,
       "word": "无心退役",
@@ -1500,7 +1524,7 @@
     },
     {
       "raw_hot": 524185,
-      "num": 250917,
+      "num": 654572,
       "word": "邓莎一个人再见什么爱人",
       "onboard_time": 1761283342,
       "rank": 43,
@@ -1608,6 +1632,14 @@
       "word": "女装店主不建议买300元以下羽绒服",
       "onboard_time": 1761023122,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502321,
+      "num": 502321,
+      "word": "店家回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761287421,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1796,7 +1828,7 @@
     },
     {
       "raw_hot": 465062,
-      "num": 349053,
+      "num": 384585,
       "word": "吃外卖和不吃外卖都沉默了",
       "onboard_time": 1761279500,
       "rank": 23,
@@ -2012,7 +2044,7 @@
     },
     {
       "raw_hot": 442046,
-      "num": 442046,
+      "num": 804658,
       "word": "小米汽车购置税补贴方案",
       "onboard_time": 1761279262,
       "rank": 24,
@@ -2417,6 +2449,14 @@
       "onboard_time": 1760922800,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388575,
+      "num": 388575,
+      "word": "陈瑶摇人",
+      "onboard_time": 1761287540,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 387567,
@@ -2953,14 +2993,6 @@
       "onboard_time": 1761190641,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 330496,
-      "num": 330496,
-      "word": "ELLE",
-      "onboard_time": 1761285141,
-      "rank": 3,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 330084,
@@ -4451,6 +4483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217811,
+      "num": 627340,
+      "word": "电影空枪",
+      "onboard_time": 1761289460,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217438,
       "num": 217438,
       "word": "长期缺乏雌激素的风险",
@@ -4588,7 +4628,7 @@
     },
     {
       "raw_hot": 208305,
-      "num": 415326,
+      "num": 1029964,
       "word": "VOGUE",
       "onboard_time": 1760961022,
       "rank": 21,
@@ -5227,20 +5267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193245,
-      "num": 176216,
-      "word": "陈瑶摇人",
-      "onboard_time": 1761287540,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193113,
       "num": 193113,
       "word": "未定事件簿女仆装",
       "onboard_time": 1761280763,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192981,
+      "num": 192981,
+      "word": "何美延我来了 梁淞我害怕",
+      "onboard_time": 1761289941,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 192868,
@@ -5451,14 +5491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187627,
-      "num": 175648,
-      "word": "店家回应男童喝珍珠奶茶窒息身亡",
-      "onboard_time": 1761287421,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187583,
       "num": 187583,
       "word": "辛云来红包",
@@ -5473,6 +5505,14 @@
       "onboard_time": 1761012801,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187409,
+      "num": 187409,
+      "word": "朱一龙官宣主演电影空枪",
+      "onboard_time": 1761290300,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 187408,
@@ -5497,6 +5537,14 @@
       "onboard_time": 1760976021,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186953,
+      "num": 131614,
+      "word": "公司奖励员工的黄金键帽价值4万",
+      "onboard_time": 1761287121,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186811,
@@ -6371,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165252,
+      "num": 165252,
+      "word": "陈闲被新加坡国立大学录取",
+      "onboard_time": 1761286880,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 165201,
       "num": 165201,
       "word": "秋冬化妆前的护肤公式",
@@ -6961,14 +7017,6 @@
       "onboard_time": 1760923941,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154409,
-      "num": 154409,
-      "word": "陈闲被新加坡国立大学录取",
-      "onboard_time": 1761286880,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 154301,
@@ -7603,6 +7651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142904,
+      "num": 131565,
+      "word": "胡先煦被孟子义三连问整红温",
+      "onboard_time": 1761289401,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142831,
       "num": 142831,
       "word": "坚果可可燕麦奶",
@@ -7811,6 +7867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "妈妈挖的藕被全国网友夸了",
+      "onboard_time": 1761288320,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138313,
       "num": 138313,
       "word": "周深点歌点到中国台湾歌迷",
@@ -7921,6 +7985,14 @@
       "onboard_time": 1760944161,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136527,
+      "num": 130626,
+      "word": "分手十年的情侣在大张伟演唱会偶遇",
+      "onboard_time": 1761290060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 136333,
@@ -8185,6 +8257,14 @@
       "onboard_time": 1761285501,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132430,
+      "num": 132430,
+      "word": "群众含泪相送杨振宁先生",
+      "onboard_time": 1761289160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132429,
@@ -9683,14 +9763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116037,
-      "num": 116037,
-      "word": "公司奖励员工的黄金键帽价值4万",
-      "onboard_time": 1761287121,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115929,
       "num": 115929,
       "word": "偏爱之恋来了个顶级魅魔",
@@ -10185,6 +10257,14 @@
       "onboard_time": 1761143302,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111123,
+      "num": 111123,
+      "word": "花开锦绣",
+      "onboard_time": 1761289401,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 111063,
@@ -11483,6 +11563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101141,
+      "num": 101141,
+      "word": "水龙吟人脉",
+      "onboard_time": 1761289040,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101139,
       "num": 101139,
       "word": "田曦薇李雪琴你俩给我下来",
@@ -11595,6 +11683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100356,
+      "num": 100356,
+      "word": "金卡戴珊确诊脑动脉瘤",
+      "onboard_time": 1761290540,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100285,
       "num": 120028,
       "word": "谁家剧OST试听能超6分钟",
@@ -11633,14 +11729,6 @@
       "onboard_time": 1761132921,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99741,
-      "num": 99741,
-      "word": "妈妈挖的藕被全国网友夸了",
-      "onboard_time": 1761288320,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99717,
@@ -12571,6 +12659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93089,
+      "num": 171842,
+      "word": "中国创新实力递给世界的新名片",
+      "onboard_time": 1761289460,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93057,
       "num": 93057,
       "word": "GEN三名教练离队",
@@ -13201,6 +13297,14 @@
       "onboard_time": 1761126320,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88297,
+      "num": 111168,
+      "word": "张小斐杨幂你俩干嘛呢",
+      "onboard_time": 1761289760,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88278,
@@ -17723,6 +17827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 31947,
+      "num": 337007,
+      "word": "京东数字人与华晨宇直播",
+      "onboard_time": 1761286880,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 31848,
       "num": 97785,
       "word": "朝鲜试验重要武器系统",
@@ -18027,6 +18139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24052,
+      "num": 608916,
+      "word": "民众送别著名物理学家杨振宁",
+      "onboard_time": 1761290122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24027,
       "num": 85638,
       "word": "日本大米价格暴涨创纪录",
@@ -18059,6 +18179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23237,
+      "num": 111129,
+      "word": "梦回VOGUE1948群封站位",
+      "onboard_time": 1761290240,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23130,
       "num": 173927,
       "word": "天猫双11百大明星",
@@ -18089,14 +18217,6 @@
       "onboard_time": 1761154035,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22170,
-      "num": 191047,
-      "word": "京东数字人与华晨宇直播",
-      "onboard_time": 1761286880,
-      "rank": 18,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 21864,
@@ -18216,6 +18336,14 @@
       "word": "乌镇戏剧节",
       "onboard_time": 1761066497,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18389,
+      "num": 441063,
+      "word": "一张票看多位顶流演唱会",
+      "onboard_time": 1761290000,
+      "rank": 14,
       "category": "演出"
     },
     {
