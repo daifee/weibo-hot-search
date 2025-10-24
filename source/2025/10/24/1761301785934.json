@@ -1,0 +1,410 @@
+{
+  "runTime": 1761301785934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 754663,
+        "num": 1120746,
+        "word": "VOGUE",
+        "onboard_time": 1761289701,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 543735,
+        "num": 543735,
+        "word": "BLG战胜VKS",
+        "onboard_time": 1761299721,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23826,
+        "num": 374220,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327580,
+        "num": 327580,
+        "word": "普京宣布提高全日制女学生孕产津贴",
+        "onboard_time": 1761296960,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217543,
+        "num": 326883,
+        "word": "结婚三金逼近10万长辈称不如折现",
+        "onboard_time": 1761300021,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 982256,
+        "num": 323441,
+        "word": "杨振宁病危时神智非常清楚",
+        "onboard_time": 1761298161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785817,
+        "num": 322484,
+        "word": "山西一公园裸体雕塑看了太尴尬",
+        "onboard_time": 1761298100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295910,
+        "num": 320208,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167453,
+        "num": 319055,
+        "word": "披荆斩棘5年度滚烫名单",
+        "onboard_time": 1761300262,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166107,
+        "num": 315235,
+        "word": "北方多个城市已提前供暖",
+        "onboard_time": 1761292700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487961,
+        "num": 313341,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1761295641,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 483459,
+        "num": 312840,
+        "word": "大闸蟹钻进车内消失2年后被取出",
+        "onboard_time": 1761291261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310958,
+        "num": 310958,
+        "word": "出生6天婴儿住院期间不幸死亡",
+        "onboard_time": 1761292999,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300897,
+        "num": 300897,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288584,
+        "num": 288584,
+        "word": "微信状态 新时代朋友圈",
+        "onboard_time": 1761291559,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217206,
+        "num": 217206,
+        "word": "白鹿粉发白裙",
+        "onboard_time": 1761292820,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195841,
+        "num": 195841,
+        "word": "国考系统崩了",
+        "onboard_time": 1761293421,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163828,
+        "num": 163828,
+        "word": "刘宇宁直播切片在韩国火了",
+        "onboard_time": 1761295881,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137348,
+        "num": 163334,
+        "word": "水龙吟云包场",
+        "onboard_time": 1761301280,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127019,
+        "num": 160384,
+        "word": "何美延梁淞吵架 从29楼追到1楼",
+        "onboard_time": 1761296362,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938760,
+        "num": 157869,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376439,
+        "num": 155666,
+        "word": "空枪 檀健次",
+        "onboard_time": 1761294021,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354378,
+        "num": 154826,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53224,
+        "num": 153189,
+        "word": "100T对战T1",
+        "onboard_time": 1761301581,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151499,
+        "num": 151499,
+        "word": "BLG越塔",
+        "onboard_time": 1761295280,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322923,
+        "num": 149189,
+        "word": "张晚意一声姐整懵马思纯李沁",
+        "onboard_time": 1761293300,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265198,
+        "num": 145548,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137836,
+        "num": 137836,
+        "word": "体操世锦赛中国首金",
+        "onboard_time": 1761300321,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128294,
+        "num": 137469,
+        "word": "郑恺为了老婆赢放了五十公斤的水",
+        "onboard_time": 1761297980,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87311,
+        "num": 136367,
+        "word": "专家称美国网攻北京时间非常险恶",
+        "onboard_time": 1761294561,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148936,
+        "num": 134705,
+        "word": "BLG对战VKS",
+        "onboard_time": 1761292520,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171753,
+        "num": 134509,
+        "word": "VOGUE 这个时候需要苏芒",
+        "onboard_time": 1761288140,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133530,
+        "num": 133530,
+        "word": "柬埔寨一中国女子路边大喊救命",
+        "onboard_time": 1761298460,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131326,
+        "num": 131326,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127297,
+        "num": 127297,
+        "word": "BLG回应战胜VKS",
+        "onboard_time": 1761301701,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126801,
+        "num": 126801,
+        "word": "朱一龙官宣主演电影空枪",
+        "onboard_time": 1761290300,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112646,
+        "num": 126348,
+        "word": "日本知名写真女星入选高市早苗内阁",
+        "onboard_time": 1761299961,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126001,
+        "num": 126001,
+        "word": "33从总裁变成男高了",
+        "onboard_time": 1761300262,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21478,
+        "num": 125459,
+        "word": "龚俊给曾舜晞画眉毛",
+        "onboard_time": 1761301220,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51969,
+        "num": 125304,
+        "word": "孟子义 谁一直在说话",
+        "onboard_time": 1761301701,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 125248,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124086,
+        "num": 124086,
+        "word": "伊能静恩利拔戚薇的花",
+        "onboard_time": 1761296721,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117436,
+        "num": 117436,
+        "word": "彭小苒观众缘",
+        "onboard_time": 1761301461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111205,
+        "num": 111205,
+        "word": "AG对战KSG",
+        "onboard_time": 1761301341,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 108358,
+        "word": "金发于适帅成啥了",
+        "onboard_time": 1761301461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104311,
+        "num": 104311,
+        "word": "喜欢吃猕猴桃的人嘴真严啊",
+        "onboard_time": 1761299180,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102506,
+        "num": 102506,
+        "word": "鱼你有染 黑马CP",
+        "onboard_time": 1761296422,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97892,
+        "num": 97892,
+        "word": "孙颖莎王楚钦又有新称号了",
+        "onboard_time": 1761291261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97469,
+        "num": 97469,
+        "word": "网红罗大美被害案凶手余金生获死刑",
+        "onboard_time": 1761283102,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97230,
+        "num": 97230,
+        "word": "罗大美遇害案详情公布",
+        "onboard_time": 1761300980,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持党外人士座谈会#"
+    }
+  }
+}
