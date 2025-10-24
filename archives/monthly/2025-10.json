@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761295638788,
+  "endTime": 1761298128268,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2163,6 +2163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1063533,
+      "num": 1170165,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 21,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1062602,
       "num": 1062602,
       "word": "天门山景区道歉",
@@ -3697,6 +3705,14 @@
       "onboard_time": 1761191901,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 828883,
+      "num": 235684,
+      "word": "男童喝珍珠奶茶窒息身亡家长发声",
+      "onboard_time": 1761294081,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 827159,
@@ -5339,6 +5355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 676720,
+      "num": 226042,
+      "word": "空枪 檀健次",
+      "onboard_time": 1761294021,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 674573,
       "num": 282356,
       "word": "马思纯 自然得像没搞一样",
@@ -5697,6 +5721,14 @@
       "onboard_time": 1759994121,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647473,
+      "num": 191301,
+      "word": "出生6天婴儿住院期间不幸死亡",
+      "onboard_time": 1761292999,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 647352,
@@ -10131,6 +10163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443278,
+      "num": 366822,
+      "word": "国考系统崩了",
+      "onboard_time": 1761293421,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 443252,
       "num": 726770,
       "word": "送别杨振宁",
@@ -11467,14 +11507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398846,
-      "num": 1063815,
-      "word": "VOGUE",
-      "onboard_time": 1760961022,
-      "rank": 21,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 398639,
       "num": 398639,
       "word": "无人岛现巨大垃圾天坑",
@@ -12243,14 +12275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 375485,
-      "num": 226042,
-      "word": "空枪 檀健次",
-      "onboard_time": 1761294021,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 375337,
       "num": 208653,
       "word": "赵磊首次回应26岁官宣结婚",
@@ -12617,14 +12641,6 @@
       "onboard_time": 1759374499,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366822,
-      "num": 366822,
-      "word": "国考系统崩了",
-      "onboard_time": 1761293421,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 366694,
@@ -13569,6 +13585,14 @@
       "onboard_time": 1761279020,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 339473,
+      "num": 230413,
+      "word": "朱一龙官宣主演电影空枪",
+      "onboard_time": 1761290300,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 339183,
@@ -15163,6 +15187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305152,
+      "num": 207173,
+      "word": "张晚意一声姐整懵马思纯李沁",
+      "onboard_time": 1761293300,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305111,
       "num": 305111,
       "word": "张杰演唱会电力故障用喇叭唱逆战",
@@ -15905,14 +15937,6 @@
       "onboard_time": 1760857881,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290963,
-      "num": 230413,
-      "word": "朱一龙官宣主演电影空枪",
-      "onboard_time": 1761290300,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 290739,
@@ -17209,6 +17233,14 @@
       "onboard_time": 1760397619,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268152,
+      "num": 268152,
+      "word": "BLG越塔",
+      "onboard_time": 1761295280,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 268040,
@@ -19345,14 +19377,6 @@
       "onboard_time": 1759549099,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235684,
-      "num": 235684,
-      "word": "男童喝珍珠奶茶窒息身亡家长发声",
-      "onboard_time": 1761294081,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235587,
@@ -21601,14 +21625,6 @@
       "onboard_time": 1759586602,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207173,
-      "num": 207173,
-      "word": "张晚意一声姐整懵马思纯李沁",
-      "onboard_time": 1761293300,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 206998,
@@ -25035,6 +25051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187299,
+      "num": 115886,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1761295641,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187232,
       "num": 160688,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -25105,6 +25129,14 @@
       "onboard_time": 1761125900,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 186755,
+      "num": 114988,
+      "word": "伊能静恩利拔戚薇的花",
+      "onboard_time": 1761296721,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186754,
@@ -26433,14 +26465,6 @@
       "onboard_time": 1760879421,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178806,
-      "num": 191301,
-      "word": "出生6天婴儿住院期间不幸死亡",
-      "onboard_time": 1761292999,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178725,
@@ -28073,6 +28097,14 @@
       "onboard_time": 1760452163,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170687,
+      "num": 113278,
+      "word": "刘宇宁直播切片在韩国火了",
+      "onboard_time": 1761295881,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 170616,
@@ -39179,6 +39211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "专家称美国网攻北京时间非常险恶",
+      "onboard_time": 1761294561,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130329,
       "num": 130329,
       "word": "高端商场里一只猫卖58888元",
@@ -39625,14 +39665,6 @@
       "onboard_time": 1760518341,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129020,
-      "num": 129020,
-      "word": "BLG越塔",
-      "onboard_time": 1761295280,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 129013,
@@ -42523,6 +42555,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 122164,
+      "num": 131196,
+      "word": "深圳公积金租房提取比例调整为80%",
+      "onboard_time": 1761295460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122163,
       "num": 122163,
       "word": "一饭封神",
@@ -42947,6 +42987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121188,
+      "num": 121188,
+      "word": "纪伯宰又又又吐血了",
+      "onboard_time": 1761297201,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121165,
       "num": 121165,
       "word": "终于懂鲁豫为什么是访谈界的神",
@@ -43297,14 +43345,6 @@
       "onboard_time": 1760243599,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120313,
-      "num": 120313,
-      "word": "深圳公积金租房提取比例调整为80%",
-      "onboard_time": 1761295460,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120306,
@@ -46715,14 +46755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113183,
-      "num": 113183,
-      "word": "专家称美国网攻北京时间非常险恶",
-      "onboard_time": 1761294561,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113166,
       "num": 113166,
       "word": "李沛恩舞台",
@@ -48467,6 +48499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110215,
+      "num": 110215,
+      "word": "何炅问张子枫外面有别的哥哥吗",
+      "onboard_time": 1761296900,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110201,
       "num": 110201,
       "word": "卢昱晓自己做捡手机文学",
@@ -48593,6 +48633,14 @@
       "onboard_time": 1761107543,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 110066,
+      "num": 110066,
+      "word": "鱼你有染 黑马CP",
+      "onboard_time": 1761296422,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 110053,
@@ -49937,6 +49985,14 @@
       "onboard_time": 1760005580,
       "rank": 44,
       "category": "运动健身,其它"
+    },
+    {
+      "raw_hot": 107759,
+      "num": 134493,
+      "word": "普京宣布提高全日制女学生孕产津贴",
+      "onboard_time": 1761296960,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107754,
@@ -52537,6 +52593,14 @@
       "onboard_time": 1760593161,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103380,
+      "num": 103380,
+      "word": "iPhone17全版本激活量曝光",
+      "onboard_time": 1761296241,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 103377,
@@ -56339,6 +56403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96258,
+      "num": 96258,
+      "word": "郑恺为了老婆赢放了五十公斤的水",
+      "onboard_time": 1761297980,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96257,
       "num": 96257,
       "word": "黑芝麻糊炖奶",
@@ -59195,6 +59267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91104,
+      "num": 119671,
+      "word": "京东独家首发万元机器人",
+      "onboard_time": 1761296601,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91103,
       "num": 91103,
       "word": "迪丽热巴临场应变能力",
@@ -59473,6 +59553,14 @@
       "onboard_time": 1760062099,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90688,
+      "num": 110196,
+      "word": "邓娅兰失误",
+      "onboard_time": 1761297322,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 90683,
@@ -60587,6 +60675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88579,
+      "num": 88579,
+      "word": "何美延梁淞吵架 从29楼追到1楼",
+      "onboard_time": 1761296362,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88566,
       "num": 88566,
       "word": "养眼睛这5类食物要多吃",
@@ -60811,6 +60907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88209,
+      "num": 88209,
+      "word": "微信隐藏emoji",
+      "onboard_time": 1761297680,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88188,
       "num": 88188,
       "word": "法考 人生中最快的四个小时",
@@ -60945,6 +61049,14 @@
       "onboard_time": 1760358921,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87870,
+      "num": 87870,
+      "word": "杨洋真的天生魅体",
+      "onboard_time": 1761298100,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 87866,
@@ -62177,6 +62289,14 @@
       "onboard_time": 1760779042,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85575,
+      "num": 85575,
+      "word": "朱易短节目分数刷新PB",
+      "onboard_time": 1761298100,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85571,
@@ -66753,6 +66873,14 @@
       "onboard_time": 1760260460,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 74676,
+      "num": 96664,
+      "word": "山西一公园裸体雕塑看了太尴尬",
+      "onboard_time": 1761298100,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74588,
@@ -73235,6 +73363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47294,
+      "num": 110073,
+      "word": "张凌赫和钟丽缇女儿打招呼",
+      "onboard_time": 1761297621,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47273,
       "num": 367885,
       "word": "重温杨振宁百岁生日演讲",
@@ -74100,7 +74236,7 @@
     },
     {
       "raw_hot": 42522,
-      "num": 164500,
+      "num": 242539,
       "word": "重视中国经济也重视中国人经济",
       "onboard_time": 1761275000,
       "rank": 31,
@@ -74849,6 +74985,14 @@
       "onboard_time": 1760878882,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38196,
+      "num": 110115,
+      "word": "外卖小哥为抄近路跳进大明湖",
+      "onboard_time": 1761297861,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38186,
