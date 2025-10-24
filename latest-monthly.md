@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 23:42:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 00:32:49
 </p>
 </blockquote>
 <p>
@@ -863,6 +863,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E6%83%A8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23" target="weibo">
 韩国梨泰院踩踏惨案调查结果公布（热度：1429210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%23" target="weibo">
+王者（热度：1427830）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E8%AF%B4%E5%92%8Cqko%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%8D%81%E5%B9%B4%E4%BA%86%23" target="weibo">
 赵磊说和qko在一起十年了（热度：529785）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张艺兴演唱会（热度：528962）
 </a>
 </li>
 
