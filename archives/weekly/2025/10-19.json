@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761344703374,
+  "endTime": 1761345701853,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -7211,6 +7211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164341,
+      "num": 476311,
+      "word": "台湾重回中国版图80年了",
+      "onboard_time": 1761331635,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164294,
       "num": 164294,
       "word": "司机高速快车道停车逼停大量车",
@@ -8577,14 +8585,6 @@
       "onboard_time": 1761128601,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141241,
-      "num": 382598,
-      "word": "台湾重回中国版图80年了",
-      "onboard_time": 1761331635,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141162,
@@ -19747,6 +19747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27382,
+      "num": 33305,
+      "word": "高市早苗称中国是重要邻国",
+      "onboard_time": 1761317303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27299,
       "num": 652234,
       "word": "张博恒自由操稳定发挥",
@@ -19849,14 +19857,6 @@
       "onboard_time": 1760812576,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25439,
-      "num": 33305,
-      "word": "高市早苗称中国是重要邻国",
-      "onboard_time": 1761317303,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25091,
@@ -20113,6 +20113,14 @@
       "onboard_time": 1761068417,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20397,
+      "num": 25204,
+      "word": "有史以来再见最快的爱人",
+      "onboard_time": 1761345255,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 20066,

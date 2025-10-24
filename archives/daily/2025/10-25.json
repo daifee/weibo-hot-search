@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761344703374,
+  "endTime": 1761345701853,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164341,
+      "num": 476311,
+      "word": "台湾重回中国版图80年了",
+      "onboard_time": 1761331635,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164191,
       "num": 155381,
       "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
@@ -187,14 +195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 141241,
-      "num": 382598,
-      "word": "台湾重回中国版图80年了",
-      "onboard_time": 1761331635,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136246,
       "num": 124608,
       "word": "马君妍怀孕三个月做NT检查",
@@ -219,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124641,
+      "num": 115415,
+      "word": "男子离婚后带7个娃全网道歉求复合",
+      "onboard_time": 1761304699,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115466,
       "num": 115466,
       "word": "张柏芝 大儿子管我管得很凶",
       "onboard_time": 1761308421,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115415,
-      "num": 115415,
-      "word": "男子离婚后带7个娃全网道歉求复合",
-      "onboard_time": 1761304699,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113774,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93852,
+      "num": 81633,
+      "word": "邱莹莹我开始理解你了",
+      "onboard_time": 1761308421,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "男子教女儿游泳时跳水致死",
@@ -321,14 +329,6 @@
       "onboard_time": 1761322942,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 88399,
-      "num": 81633,
-      "word": "邱莹莹我开始理解你了",
-      "onboard_time": 1761308421,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 85842,
@@ -515,7 +515,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26275,
+      "raw_hot": 27382,
+      "num": 33305,
+      "word": "高市早苗称中国是重要邻国",
+      "onboard_time": 1761317303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26531,
       "num": 30361,
       "word": "空枪",
       "onboard_time": 1761319643,
@@ -529,14 +537,6 @@
       "onboard_time": 1761339075,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25439,
-      "num": 33305,
-      "word": "高市早苗称中国是重要邻国",
-      "onboard_time": 1761317303,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24356,
@@ -568,6 +568,14 @@
       "word": "张峻豪音综首演舞台大丈夫",
       "onboard_time": 1761330795,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20397,
+      "num": 25204,
+      "word": "有史以来再见最快的爱人",
+      "onboard_time": 1761345255,
+      "rank": 42,
       "category": "综艺"
     },
     {
