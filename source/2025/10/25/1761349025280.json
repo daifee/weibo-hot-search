@@ -1,0 +1,410 @@
+{
+  "runTime": 1761349025280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320824,
+        "num": 861331,
+        "word": "科学家称外星人或已懒得理我们",
+        "onboard_time": 1761312441,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 247380,
+        "num": 247380,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31327,
+        "num": 181180,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166107,
+        "num": 166107,
+        "word": "荣耀水晶爆率好高",
+        "onboard_time": 1761348618,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139236,
+        "num": 139236,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134217,
+        "num": 134217,
+        "word": "邱莹莹我开始理解你了",
+        "onboard_time": 1761308421,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134153,
+        "num": 134153,
+        "word": "医院打造亚朵病房被亚朵酒店起诉",
+        "onboard_time": 1761310940,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130361,
+        "num": 130361,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110734,
+        "num": 110734,
+        "word": "特朗普对以色列放出迄今最明确警告",
+        "onboard_time": 1761319402,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97381,
+        "num": 97381,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1761323898,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 466175,
+        "num": 97347,
+        "word": "向太说郭碧婷养娘家",
+        "onboard_time": 1761348257,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286136,
+        "num": 97269,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237914,
+        "num": 97109,
+        "word": "有史以来再见最快的爱人",
+        "onboard_time": 1761345255,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232924,
+        "num": 97081,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227585,
+        "num": 96999,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 96901,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152201,
+        "num": 96740,
+        "word": "妈妈因病去世女儿狂转眼珠不让泪流",
+        "onboard_time": 1761320241,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149274,
+        "num": 96690,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136594,
+        "num": 96627,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96536,
+        "num": 96536,
+        "word": "女子回应买猪食槽收纳孩子玩具",
+        "onboard_time": 1761348318,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123200,
+        "num": 94187,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102382,
+        "num": 93672,
+        "word": "多平台已取消仅退款服务",
+        "onboard_time": 1761348077,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91627,
+        "num": 91627,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89206,
+        "num": 89206,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78616,
+        "num": 78616,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75162,
+        "num": 75162,
+        "word": "全固态电池大爆发",
+        "onboard_time": 1761348979,
+        "rank": 25,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 68027,
+        "num": 68027,
+        "word": "成毅方将维权坚持到底",
+        "onboard_time": 1761348979,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67546,
+        "num": 67546,
+        "word": "王者荣耀高级河灯",
+        "onboard_time": 1761348257,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63167,
+        "num": 63167,
+        "word": "何赛飞向张柏芝道歉",
+        "onboard_time": 1761348138,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62916,
+        "num": 62916,
+        "word": "刘冲吐槽宋威龙拍照实力",
+        "onboard_time": 1761325998,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60119,
+        "num": 60119,
+        "word": "普京呼吁年轻人不要推迟生育",
+        "onboard_time": 1761311482,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55317,
+        "num": 55317,
+        "word": "NBA球星非法赌博詹姆斯躺枪被调查",
+        "onboard_time": 1761347177,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52618,
+        "num": 52618,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52412,
+        "num": 52412,
+        "word": "白鹿曾舜晞售后自拍照",
+        "onboard_time": 1761322521,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51544,
+        "num": 51544,
+        "word": "再见爱人史上最听话男嘉宾",
+        "onboard_time": 1761308842,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51449,
+        "num": 51449,
+        "word": "600万博主辛吉飞拍视频突发癫痫倒地",
+        "onboard_time": 1761320842,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49812,
+        "num": 49812,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43286,
+        "num": 49796,
+        "word": "马君妍怀孕三个月做NT检查",
+        "onboard_time": 1761310223,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42907,
+        "num": 49790,
+        "word": "高市早苗称中国是重要邻国",
+        "onboard_time": 1761317303,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41484,
+        "num": 49759,
+        "word": "祖国大陆离台湾最近的距离",
+        "onboard_time": 1761312562,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37911,
+        "num": 49747,
+        "word": "刘亦菲伊能静恩利后台拥抱",
+        "onboard_time": 1761325637,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36712,
+        "num": 49728,
+        "word": "男子教女儿游泳时跳水致死",
+        "onboard_time": 1761308061,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35569,
+        "num": 49697,
+        "word": "宝格丽CEO给刘亦菲带的词条",
+        "onboard_time": 1761303200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35539,
+        "num": 49679,
+        "word": "淘宝限时补贴等优惠突停致大量退货",
+        "onboard_time": 1761320421,
+        "rank": 43,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 33997,
+        "num": 49657,
+        "word": "罗云熙水龙吟太瘦了",
+        "onboard_time": 1761307221,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33474,
+        "num": 49631,
+        "word": "天地剑心",
+        "onboard_time": 1761317841,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32986,
+        "num": 49617,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31243,
+        "num": 49596,
+        "word": "郭富城一家五口去景区只用买一张票",
+        "onboard_time": 1761305540,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31062,
+        "num": 49573,
+        "word": "台湾光复80周年",
+        "onboard_time": 1761323599,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30742,
+        "num": 49552,
+        "word": "李雪琴常驻综艺多的原因有了",
+        "onboard_time": 1761321322,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

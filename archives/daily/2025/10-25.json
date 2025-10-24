@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761348207448,
+  "endTime": 1761349025280,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 489847,
-      "num": 489847,
+      "num": 861331,
       "word": "科学家称外星人或已懒得理我们",
       "onboard_time": 1761312441,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 466175,
+      "num": 97347,
+      "word": "向太说郭碧婷养娘家",
+      "onboard_time": 1761348257,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 446184,
@@ -75,7 +83,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 273209,
+      "raw_hot": 286136,
       "num": 157497,
       "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
       "onboard_time": 1761315862,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237914,
+      "num": 97109,
+      "word": "有史以来再见最快的爱人",
+      "onboard_time": 1761345255,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232611,
       "num": 81591,
       "word": "刘冲吐槽宋威龙拍照实力",
@@ -131,14 +147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 208794,
-      "num": 77288,
-      "word": "有史以来再见最快的爱人",
-      "onboard_time": 1761345255,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205441,
       "num": 205441,
       "word": "况盛发布声明",
@@ -161,6 +169,14 @@
       "onboard_time": 1761325637,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166107,
+      "num": 166107,
+      "word": "荣耀水晶爆率好高",
+      "onboard_time": 1761348618,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 164765,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 144353,
-      "num": 58312,
+      "num": 63167,
       "word": "何赛飞向张柏芝道歉",
       "onboard_time": 1761348138,
       "rank": 20,
@@ -227,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134217,
+      "num": 134217,
+      "word": "邱莹莹我开始理解你了",
+      "onboard_time": 1761308421,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134153,
+      "num": 134153,
+      "word": "医院打造亚朵病房被亚朵酒店起诉",
+      "onboard_time": 1761310940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129979,
       "num": 124433,
       "word": "张杰他不爱我",
@@ -241,14 +273,6 @@
       "onboard_time": 1761304760,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116718,
-      "num": 116718,
-      "word": "邱莹莹我开始理解你了",
-      "onboard_time": 1761308421,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 115466,
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110734,
+      "num": 110734,
+      "word": "特朗普对以色列放出迄今最明确警告",
+      "onboard_time": 1761319402,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106752,
       "num": 106752,
       "word": "罗云熙水龙吟太瘦了",
@@ -291,12 +323,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "医院打造亚朵病房被亚朵酒店起诉",
-      "onboard_time": 1761310940,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 102382,
+      "num": 93672,
+      "word": "多平台已取消仅退款服务",
+      "onboard_time": 1761348077,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 97933,
@@ -323,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96536,
+      "num": 96536,
+      "word": "女子回应买猪食槽收纳孩子玩具",
+      "onboard_time": 1761348318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96277,
       "num": 96277,
       "word": "情绪好了人生就顺了",
@@ -347,12 +387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91627,
+      "num": 91627,
+      "word": "台湾",
+      "onboard_time": 1761348797,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91619,
       "num": 106683,
       "word": "今天一起致敬最可爱的人",
       "onboard_time": 1761322942,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89206,
+      "num": 89206,
+      "word": "1万多衣服被88岁老人9块卖了",
+      "onboard_time": 1761347238,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85842,
@@ -371,28 +427,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83627,
-      "num": 83627,
-      "word": "特朗普对以色列放出迄今最明确警告",
-      "onboard_time": 1761319402,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82652,
       "num": 82652,
       "word": "胜利属于每个中国人",
       "onboard_time": 1761323000,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 78974,
-      "num": 58309,
-      "word": "多平台已取消仅退款服务",
-      "onboard_time": 1761348077,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 78063,
@@ -419,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75162,
+      "num": 75162,
+      "word": "全固态电池大爆发",
+      "onboard_time": 1761348979,
+      "rank": 25,
+      "category": "数码,汽车"
+    },
+    {
       "raw_hot": 74144,
       "num": 81343,
       "word": "孙燕姿南京演唱会",
@@ -441,6 +489,22 @@
       "onboard_time": 1761307942,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68027,
+      "num": 68027,
+      "word": "成毅方将维权坚持到底",
+      "onboard_time": 1761348979,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67546,
+      "num": 67546,
+      "word": "王者荣耀高级河灯",
+      "onboard_time": 1761348257,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 67328,
@@ -491,14 +555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 60152,
-      "num": 58291,
-      "word": "1万多衣服被88岁老人9块卖了",
-      "onboard_time": 1761347238,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
@@ -515,12 +571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50959,
+      "raw_hot": 55317,
       "num": 58289,
       "word": "NBA球星非法赌博詹姆斯躺枪被调查",
       "onboard_time": 1761347177,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51544,
+      "num": 58298,
+      "word": "再见爱人史上最听话男嘉宾",
+      "onboard_time": 1761308842,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 44578,
@@ -545,14 +609,6 @@
       "onboard_time": 1761317303,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42262,
-      "num": 58298,
-      "word": "再见爱人史上最听话男嘉宾",
-      "onboard_time": 1761308842,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 39717,
