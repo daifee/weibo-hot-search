@@ -1,0 +1,410 @@
+{
+  "runTime": 1761275710972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 34971,
+        "num": 1005595,
+        "word": "介绍和解读四中全会精神",
+        "onboard_time": 1761225684,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428566,
+        "num": 428566,
+        "word": "雷军回应K90定价",
+        "onboard_time": 1761270020,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 7699,
+        "num": 324426,
+        "word": "十五五目标",
+        "onboard_time": 1761211821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318686,
+        "num": 318686,
+        "word": "严禁将手机等电子产品带进课堂",
+        "onboard_time": 1761270020,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 212034,
+        "word": "未定事件簿",
+        "onboard_time": 1761275061,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485982,
+        "num": 206436,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1761272240,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341495,
+        "num": 204714,
+        "word": "迪丽热巴新剧开机",
+        "onboard_time": 1761274040,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199227,
+        "num": 199227,
+        "word": "水龙吟开播",
+        "onboard_time": 1761274821,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182200,
+        "num": 182200,
+        "word": "鼓励中小学推行课间15分钟",
+        "onboard_time": 1761269000,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 35460,
+        "num": 164500,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 751679,
+        "num": 163399,
+        "word": "卢靖姗韩庚二胎出生",
+        "onboard_time": 1761273860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687660,
+        "num": 162910,
+        "word": "金价大跌有人刚买镯子想退货",
+        "onboard_time": 1761271999,
+        "rank": 11,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 158140,
+        "num": 158140,
+        "word": "加强中小学生心理健康10条措施",
+        "onboard_time": 1761267682,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636816,
+        "num": 157622,
+        "word": "刘亦菲夸马思纯漂亮",
+        "onboard_time": 1761274101,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83818,
+        "num": 156816,
+        "word": "豆包和夸克吵起来了",
+        "onboard_time": 1761274879,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428623,
+        "num": 155899,
+        "word": "苹果彻查iPhone17Pro褪色",
+        "onboard_time": 1761267921,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276402,
+        "num": 155110,
+        "word": "向太为何删婚变爆料视频",
+        "onboard_time": 1761273559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243898,
+        "num": 153951,
+        "word": "吴彤找贾玲要的减肥食谱吃瘦了30斤",
+        "onboard_time": 1761273559,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 153506,
+        "word": "张艺兴京东AI舞台",
+        "onboard_time": 1761275180,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 73114,
+        "num": 152165,
+        "word": "解决好三农问题",
+        "onboard_time": 1761275180,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300368,
+        "num": 151473,
+        "word": "理想mega",
+        "onboard_time": 1761272780,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240701,
+        "num": 150400,
+        "word": "公司给入职满10年员工发100克金饰",
+        "onboard_time": 1761274401,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235107,
+        "num": 149730,
+        "word": "去过台湾的人嘴真严啊",
+        "onboard_time": 1761261438,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206784,
+        "num": 148624,
+        "word": "女子带宠物蛙就餐被店员误认是食材",
+        "onboard_time": 1761271580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159668,
+        "num": 147905,
+        "word": "赵长鹏获特朗普赦免",
+        "onboard_time": 1761274640,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147679,
+        "num": 147679,
+        "word": "谁给毛晓彤递个恶女剧本",
+        "onboard_time": 1761274640,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47723,
+        "num": 139811,
+        "word": "十五五6个坚持原则",
+        "onboard_time": 1761273800,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139096,
+        "num": 139096,
+        "word": "少司缘新皮肤身材比例",
+        "onboard_time": 1761273559,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128428,
+        "num": 128428,
+        "word": "未来10年再造一个中国高技术产业",
+        "onboard_time": 1761273981,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120295,
+        "num": 120295,
+        "word": "掘金vs勇士",
+        "onboard_time": 1761275480,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113963,
+        "num": 113963,
+        "word": "前瞻布局未来产业",
+        "onboard_time": 1761274941,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107700,
+        "num": 107700,
+        "word": "王者荣耀",
+        "onboard_time": 1761273259,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107275,
+        "num": 107275,
+        "word": "VOGUE散场好像爸妈接小孩放学",
+        "onboard_time": 1761265401,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 107148,
+        "num": 107148,
+        "word": "加绒洞洞鞋",
+        "onboard_time": 1761274460,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 106938,
+        "num": 106938,
+        "word": "巴西大豆涨价反遭滞港教训",
+        "onboard_time": 1761266121,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106303,
+        "num": 106303,
+        "word": "李在明说不能把中国拒之门外",
+        "onboard_time": 1761271100,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144890,
+        "num": 106241,
+        "word": "撞86元校服的LV大衣被抢空",
+        "onboard_time": 1761230182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49315,
+        "num": 103793,
+        "word": "提高人均预期寿命",
+        "onboard_time": 1761275061,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103030,
+        "num": 103030,
+        "word": "杨瀚森主教练方律师声明",
+        "onboard_time": 1761275120,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102174,
+        "num": 102861,
+        "word": "割23部电梯钢绳嫌疑人究竟什么身份",
+        "onboard_time": 1761273920,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103685,
+        "num": 102850,
+        "word": "花西子曾起诉多方侵犯名誉权",
+        "onboard_time": 1761274821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102834,
+        "num": 102834,
+        "word": "冬天减肥 饥寒交迫",
+        "onboard_time": 1761275361,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102390,
+        "num": 102390,
+        "word": "十五五",
+        "onboard_time": 1761214401,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100219,
+        "num": 100219,
+        "word": "十五五规划建议共15部分61条",
+        "onboard_time": 1761274700,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "王腾说很遗憾没有参与产品上市工作",
+        "onboard_time": 1761273860,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96246,
+        "num": 96246,
+        "word": "什么情况下同桌饮酒者需担责",
+        "onboard_time": 1761270260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96155,
+        "num": 96155,
+        "word": "程序员节",
+        "onboard_time": 1761275602,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95507,
+        "num": 95507,
+        "word": "王玉雯礼服里穿了加绒打底裤",
+        "onboard_time": 1761261679,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92876,
+        "num": 92876,
+        "word": "爸爸抛娃举高高宝宝头撞到钢管",
+        "onboard_time": 1761267981,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 86510,
+        "word": "十五五规划建议分3大板块",
+        "onboard_time": 1761274040,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会公报#"
+    }
+  }
+}

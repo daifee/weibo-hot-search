@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 11:05:59
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 11:15:10
 </p>
 </blockquote>
 <p>
@@ -3801,6 +3801,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E5%88%9A%E4%B9%B0%E9%95%AF%E5%AD%90%E6%83%B3%E9%80%80%E8%B4%A7%23" target="weibo">
+金价大跌有人刚买镯子想退货（热度：687660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E5%A2%99%E4%B8%8A%E6%9C%89%E8%A1%80%E6%89%8B%E5%8D%B0%23" target="weibo">
 电诈窝点墙上有血手印（热度：686729）
 </a>
@@ -4451,12 +4457,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西地震（热度：623682）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E5%88%9A%E4%B9%B0%E9%95%AF%E5%AD%90%E6%83%B3%E9%80%80%E8%B4%A7%23" target="weibo">
-金价大跌有人刚买镯子想退货（热度：622665）
 </a>
 </li>
 
