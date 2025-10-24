@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761326623558,
+  "endTime": 1761327646791,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -27,8 +27,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 628228,
-      "num": 628228,
+      "raw_hot": 642467,
+      "num": 642467,
       "word": "王者荣耀崩了",
       "onboard_time": 1761323898,
       "rank": 4,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174307,
+      "num": 81796,
+      "word": "刘亦菲伊能静恩利后台拥抱",
+      "onboard_time": 1761325637,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164765,
       "num": 164765,
       "word": "水龙吟导演",
@@ -153,6 +161,14 @@
       "onboard_time": 1761310100,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152857,
+      "num": 81591,
+      "word": "刘冲吐槽宋威龙拍照实力",
+      "onboard_time": 1761325998,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 143073,
@@ -217,14 +233,6 @@
       "onboard_time": 1761320842,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112905,
-      "num": 81796,
-      "word": "刘亦菲伊能静恩利后台拥抱",
-      "onboard_time": 1761325637,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 111439,
@@ -387,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70207,
-      "num": 81591,
-      "word": "刘冲吐槽宋威龙拍照实力",
-      "onboard_time": 1761325998,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68050,
       "num": 81476,
       "word": "TES抽中BLG",
@@ -459,7 +459,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46191,
+      "raw_hot": 55583,
       "num": 81607,
       "word": "抗美援朝纪念日",
       "onboard_time": 1761326297,
@@ -497,6 +497,14 @@
       "onboard_time": 1761324978,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34362,
+      "num": 70747,
+      "word": "拆弹专家",
+      "onboard_time": 1761327496,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761326623558,
+  "endTime": 1761327646791,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -1331,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 642467,
+      "num": 642467,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1761323898,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 640138,
       "num": 196807,
       "word": "刘亦菲临场反应",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1761209722,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628228,
-      "num": 628228,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1761323898,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 626288,
@@ -6603,6 +6603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174307,
+      "num": 81796,
+      "word": "刘亦菲伊能静恩利后台拥抱",
+      "onboard_time": 1761325637,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174067,
       "num": 234544,
       "word": "陈奕迅 红米",
@@ -7857,6 +7865,14 @@
       "onboard_time": 1761061700,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152857,
+      "num": 81591,
+      "word": "刘冲吐槽宋威龙拍照实力",
+      "onboard_time": 1761325998,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 152758,
@@ -11209,14 +11225,6 @@
       "onboard_time": 1761032000,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112905,
-      "num": 81796,
-      "word": "刘亦菲伊能静恩利后台拥抱",
-      "onboard_time": 1761325637,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 112857,
@@ -17107,14 +17115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70207,
-      "num": 81591,
-      "word": "刘冲吐槽宋威龙拍照实力",
-      "onboard_time": 1761325998,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70114,
       "num": 228640,
       "word": "官方回应深圳卷尺哥指哪修哪",
@@ -18315,6 +18315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55583,
+      "num": 81607,
+      "word": "抗美援朝纪念日",
+      "onboard_time": 1761326297,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55177,
       "num": 1026944,
       "word": "成毅冰雪心动瞬间",
@@ -18833,14 +18841,6 @@
       "onboard_time": 1760868441,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46191,
-      "num": 81607,
-      "word": "抗美援朝纪念日",
-      "onboard_time": 1761326297,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46143,
@@ -19449,6 +19449,14 @@
       "onboard_time": 1760966902,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34362,
+      "num": 70747,
+      "word": "拆弹专家",
+      "onboard_time": 1761327496,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 34056,

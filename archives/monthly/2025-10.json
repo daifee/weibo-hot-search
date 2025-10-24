@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761326623558,
+  "endTime": 1761327646791,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -27827,6 +27827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174307,
+      "num": 81796,
+      "word": "刘亦菲伊能静恩利后台拥抱",
+      "onboard_time": 1761325637,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174295,
       "num": 235682,
       "word": "外交部回应美方所谓去中国化",
@@ -32864,6 +32872,14 @@
       "word": "万鹏素颜状态",
       "onboard_time": 1759562661,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152857,
+      "num": 81591,
+      "word": "刘冲吐槽宋威龙拍照实力",
+      "onboard_time": 1761325998,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -47793,14 +47809,6 @@
       "onboard_time": 1760329524,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112905,
-      "num": 81796,
-      "word": "刘亦菲伊能静恩利后台拥抱",
-      "onboard_time": 1761325637,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 112857,
@@ -69363,14 +69371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70207,
-      "num": 81591,
-      "word": "刘冲吐槽宋威龙拍照实力",
-      "onboard_time": 1761325998,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70204,
       "num": 117818,
       "word": "500平住宅装20多台空调",
@@ -72827,6 +72827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55583,
+      "num": 81607,
+      "word": "抗美援朝纪念日",
+      "onboard_time": 1761326297,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55546,
       "num": 137784,
       "word": "多人曝婚庆摄影师接单后放鸽子",
@@ -74793,14 +74801,6 @@
       "onboard_time": 1759828281,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46191,
-      "num": 81607,
-      "word": "抗美援朝纪念日",
-      "onboard_time": 1761326297,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46159,
@@ -76921,6 +76921,14 @@
       "onboard_time": 1759987579,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34362,
+      "num": 70747,
+      "word": "拆弹专家",
+      "onboard_time": 1761327496,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 34357,
