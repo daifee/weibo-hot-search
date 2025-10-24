@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761262615032,
+  "endTime": 1761270572802,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -283,6 +283,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1129697,
+      "num": 201294,
+      "word": "钟楚曦站位",
+      "onboard_time": 1761267860,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1114813,
       "num": 411529,
       "word": "坐高铁再也不用扛行李了",
@@ -401,6 +409,14 @@
       "onboard_time": 1760925259,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1008286,
+      "num": 349239,
+      "word": "日媒造谣中国人吃乌鸦被处理",
+      "onboard_time": 1761264981,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1003799,
@@ -947,6 +963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 676947,
+      "num": 252051,
+      "word": "杨振宁先生遗体告别仪式今日举行",
+      "onboard_time": 1761265941,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673064,
       "num": 673064,
       "word": "动物园月薪5万招猛兽区司机",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1761225382,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 640138,
+      "num": 196807,
+      "word": "刘亦菲临场反应",
+      "onboard_time": 1761266061,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 634507,
@@ -1971,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428461,
+      "num": 1068553,
+      "word": "国家统计局郑重声明",
+      "onboard_time": 1761264021,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 425159,
       "num": 425159,
       "word": "小天回应doinb",
@@ -2531,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349766,
+      "num": 349766,
+      "word": "苹果彻查iPhone17Pro褪色",
+      "onboard_time": 1761267921,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 349639,
       "num": 990097,
       "word": "你好种地少年3定档",
@@ -2572,7 +2620,7 @@
     },
     {
       "raw_hot": 342097,
-      "num": 181619,
+      "num": 194156,
       "word": "去过台湾的人嘴真严啊",
       "onboard_time": 1761261438,
       "rank": 30,
@@ -3435,6 +3483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262933,
+      "num": 262933,
+      "word": "花西子一产品被指虚假广告宣传",
+      "onboard_time": 1761265341,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262102,
       "num": 457546,
       "word": "杨振宁逝世",
@@ -3708,7 +3764,7 @@
     },
     {
       "raw_hot": 241910,
-      "num": 177708,
+      "num": 185122,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
       "onboard_time": 1761230124,
       "rank": 43,
@@ -3923,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226106,
+      "num": 170020,
+      "word": "杨幂刘亦菲晚宴坐一桌",
+      "onboard_time": 1761270260,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 224684,
       "num": 434413,
       "word": "文班亚马爆砍40分",
@@ -3947,12 +4011,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223762,
+      "num": 223762,
+      "word": "花西子下架陷苏丹红争议底霜",
+      "onboard_time": 1761262217,
+      "rank": 40,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 223703,
       "num": 223703,
       "word": "刘宇宁vs刘宇宁vs刘宇宁",
       "onboard_time": 1760944821,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223474,
+      "num": 185266,
+      "word": "王玉雯礼服里穿了加绒打底裤",
+      "onboard_time": 1761261679,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 223362,
@@ -3992,6 +4072,14 @@
       "word": "冷冷冷我冷冷冷",
       "onboard_time": 1761138741,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "轻薄羽绒服羽绒成本30到50元",
+      "onboard_time": 1761264021,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4171,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210214,
+      "num": 170017,
+      "word": "巴西大豆涨价反遭滞港教训",
+      "onboard_time": 1761266121,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
@@ -4193,6 +4289,14 @@
       "onboard_time": 1760961022,
       "rank": 21,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 208110,
+      "num": 208110,
+      "word": "鼓励中小学推行课间15分钟",
+      "onboard_time": 1761269000,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 208014,
@@ -4843,6 +4947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191387,
+      "num": 191387,
+      "word": "加强中小学生心理健康10条措施",
+      "onboard_time": 1761267682,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "一诺是如何忍住不笑的",
@@ -5491,6 +5603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173508,
+      "num": 173508,
+      "word": "雷军回应K90定价",
+      "onboard_time": 1761270020,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173366,
       "num": 173366,
       "word": "秦海璐像是来谈收购的",
@@ -5577,6 +5697,14 @@
       "onboard_time": 1760934383,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171906,
+      "num": 221892,
+      "word": "十五五",
+      "onboard_time": 1761214401,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171544,
@@ -5947,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162429,
+      "num": 162429,
+      "word": "VOGUE散场好像爸妈接小孩放学",
+      "onboard_time": 1761265401,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 162391,
       "num": 234318,
       "word": "多款知名进口药将退出国内市场",
@@ -6233,14 +6369,6 @@
       "onboard_time": 1761180020,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156746,
-      "num": 156746,
-      "word": "王玉雯礼服里穿了加绒打底裤",
-      "onboard_time": 1761261679,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156658,
@@ -6633,14 +6761,6 @@
       "onboard_time": 1761190100,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149142,
-      "num": 221892,
-      "word": "十五五",
-      "onboard_time": 1761214401,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149106,
@@ -7195,6 +7315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136618,
+      "num": 136618,
+      "word": "labubu盲盒没拆商家知道款式",
+      "onboard_time": 1761263120,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136605,
       "num": 228294,
       "word": "TTG晋级年总败者组第二轮",
@@ -7280,6 +7408,14 @@
       "word": "猴哥已在南宁小区住5天了",
       "onboard_time": 1760800103,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135058,
+      "num": 135058,
+      "word": "爸爸抛娃举高高宝宝头撞到钢管",
+      "onboard_time": 1761267981,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -8179,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122801,
+      "num": 122801,
+      "word": "穿卫衣就扎流苏丸子头",
+      "onboard_time": 1761264680,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 122597,
       "num": 122597,
       "word": "钟楚曦美得像油画",
@@ -8259,6 +8403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121698,
+      "num": 121698,
+      "word": "什么情况下同桌饮酒者需担责",
+      "onboard_time": 1761270260,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121623,
       "num": 191842,
       "word": "朱立伦将率211名国民党干部辞职",
@@ -8273,6 +8425,14 @@
       "onboard_time": 1760894716,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121270,
+      "num": 121270,
+      "word": "猫咪也会偷偷给两脚兽取名字",
+      "onboard_time": 1761268759,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 121165,
@@ -8809,6 +8969,14 @@
       "onboard_time": 1760932341,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115577,
+      "num": 115577,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 115297,
@@ -9611,6 +9779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107484,
+      "num": 107484,
+      "word": "普京称若战斧袭击俄将强硬回应",
+      "onboard_time": 1761270080,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107361,
       "num": 107361,
       "word": "iPhone17系列销量超预期",
@@ -10139,6 +10315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103112,
+      "num": 103112,
+      "word": "苏州一电车发生燃爆",
+      "onboard_time": 1761264922,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103101,
       "num": 223931,
       "word": "京东晚8点国补",
@@ -10627,6 +10811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99171,
+      "num": 99171,
+      "word": "比卢普斯被勒令离队",
+      "onboard_time": 1761269180,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99093,
       "num": 108915,
       "word": "韩男子12小时逃柬电诈园遭使馆拒门",
@@ -10865,6 +11057,14 @@
       "onboard_time": 1761118701,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 96772,
+      "num": 96772,
+      "word": "坚决防止各类学生欺凌行为",
+      "onboard_time": 1761269541,
+      "rank": 40,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 96716,
@@ -11803,6 +12003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90114,
+      "num": 90114,
+      "word": "黄金快速上涨",
+      "onboard_time": 1761261918,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89965,
       "num": 89965,
       "word": "始祖鸟大中华区将任命新高管",
@@ -12515,6 +12723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85053,
+      "num": 85053,
+      "word": "ChatGPT逼疯美国教授",
+      "onboard_time": 1761267321,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 85009,
       "num": 85009,
       "word": "杨振宁曾回应自己去世翁帆怎么办",
@@ -12619,12 +12835,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84272,
+      "num": 170139,
+      "word": "VOGUE 百花齐放",
+      "onboard_time": 1761267921,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 84248,
       "num": 84248,
       "word": "其实你已经嫁给学校了",
       "onboard_time": 1760960001,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84195,
+      "num": 84195,
+      "word": "杨瀚森主教练因赌球被逮捕",
+      "onboard_time": 1761269180,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 84161,
@@ -12785,6 +13017,22 @@
       "onboard_time": 1761023481,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82726,
+      "num": 82726,
+      "word": "日本福岛突发地震",
+      "onboard_time": 1761268341,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82695,
+      "num": 84492,
+      "word": "合肥多校试行每周一天无作业日",
+      "onboard_time": 1761269061,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 82685,
@@ -13587,14 +13835,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 76486,
-      "num": 76486,
-      "word": "黄金快速上涨",
-      "onboard_time": 1761261918,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 76452,
       "num": 1086625,
       "word": "89岁大胃王女生高能量的一天",
@@ -13704,6 +13944,14 @@
       "word": "AL爱笑请BLG经理吃饭",
       "onboard_time": 1761194961,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 75534,
+      "num": 75534,
+      "word": "BLG对战VKS首发名单公布",
+      "onboard_time": 1761266001,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -15033,14 +15281,6 @@
       "onboard_time": 1761037581,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58766,
-      "num": 58766,
-      "word": "花西子下架陷苏丹红争议底霜",
-      "onboard_time": 1761262217,
-      "rank": 40,
-      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 58706,

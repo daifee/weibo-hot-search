@@ -1,0 +1,410 @@
+{
+  "runTime": 1761270572802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 428461,
+        "num": 1068553,
+        "word": "国家统计局郑重声明",
+        "onboard_time": 1761264021,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349766,
+        "num": 349766,
+        "word": "苹果彻查iPhone17Pro褪色",
+        "onboard_time": 1761267921,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19481,
+        "num": 349278,
+        "word": "十五五目标",
+        "onboard_time": 1761211821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1008286,
+        "num": 349239,
+        "word": "日媒造谣中国人吃乌鸦被处理",
+        "onboard_time": 1761264981,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 349107,
+        "num": 349107,
+        "word": "撞86元校服的LV大衣被抢空",
+        "onboard_time": 1761230182,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262933,
+        "num": 262933,
+        "word": "花西子一产品被指虚假广告宣传",
+        "onboard_time": 1761265341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676947,
+        "num": 252051,
+        "word": "杨振宁先生遗体告别仪式今日举行",
+        "onboard_time": 1761265941,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223762,
+        "num": 223762,
+        "word": "花西子下架陷苏丹红争议底霜",
+        "onboard_time": 1761262217,
+        "rank": 7,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 221506,
+        "num": 221506,
+        "word": "轻薄羽绒服羽绒成本30到50元",
+        "onboard_time": 1761264021,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208110,
+        "num": 208110,
+        "word": "鼓励中小学推行课间15分钟",
+        "onboard_time": 1761269000,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1129697,
+        "num": 201294,
+        "word": "钟楚曦站位",
+        "onboard_time": 1761267860,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640138,
+        "num": 196807,
+        "word": "刘亦菲临场反应",
+        "onboard_time": 1761266061,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311763,
+        "num": 194156,
+        "word": "去过台湾的人嘴真严啊",
+        "onboard_time": 1761261438,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191387,
+        "num": 191387,
+        "word": "加强中小学生心理健康10条措施",
+        "onboard_time": 1761267682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288272,
+        "num": 187539,
+        "word": "娜扎一把拉过杨幂",
+        "onboard_time": 1761230904,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223474,
+        "num": 185266,
+        "word": "王玉雯礼服里穿了加绒打底裤",
+        "onboard_time": 1761261679,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210988,
+        "num": 185122,
+        "word": "4人吃饭饮酒1人死亡先离开2人无责",
+        "onboard_time": 1761230124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173508,
+        "num": 173508,
+        "word": "雷军回应K90定价",
+        "onboard_time": 1761270020,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171906,
+        "num": 171906,
+        "word": "十五五",
+        "onboard_time": 1761214401,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84272,
+        "num": 170139,
+        "word": "VOGUE 百花齐放",
+        "onboard_time": 1761267921,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226106,
+        "num": 170020,
+        "word": "杨幂刘亦菲晚宴坐一桌",
+        "onboard_time": 1761270260,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210214,
+        "num": 170017,
+        "word": "巴西大豆涨价反遭滞港教训",
+        "onboard_time": 1761266121,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169723,
+        "num": 169723,
+        "word": "缅甸军方突袭KK园区",
+        "onboard_time": 1761231322,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164801,
+        "num": 164801,
+        "word": "龚俊十秒钟打了十辆车",
+        "onboard_time": 1761236300,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88754,
+        "num": 163357,
+        "word": "水龙吟",
+        "onboard_time": 1761267141,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162429,
+        "num": 162429,
+        "word": "VOGUE散场好像爸妈接小孩放学",
+        "onboard_time": 1761265401,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "钓鱼博主袁小小去世",
+        "onboard_time": 1761260837,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 136618,
+        "num": 136618,
+        "word": "labubu盲盒没拆商家知道款式",
+        "onboard_time": 1761263120,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135058,
+        "num": 135058,
+        "word": "爸爸抛娃举高高宝宝头撞到钢管",
+        "onboard_time": 1761267981,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133731,
+        "num": 133731,
+        "word": "医院开女性肛肠门诊开诊即满号",
+        "onboard_time": 1761232582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133194,
+        "num": 133194,
+        "word": "田曦薇怎么走了",
+        "onboard_time": 1761230662,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122801,
+        "num": 122801,
+        "word": "穿卫衣就扎流苏丸子头",
+        "onboard_time": 1761264680,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121698,
+        "num": 121698,
+        "word": "什么情况下同桌饮酒者需担责",
+        "onboard_time": 1761270260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121352,
+        "num": 121352,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121270,
+        "num": 121270,
+        "word": "猫咪也会偷偷给两脚兽取名字",
+        "onboard_time": 1761268759,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115577,
+        "num": 115577,
+        "word": "严禁将手机等电子产品带进课堂",
+        "onboard_time": 1761270020,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 110733,
+        "num": 110733,
+        "word": "力挺两岸统一的台退役中将遭重判",
+        "onboard_time": 1761232943,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 107484,
+        "word": "普京称若战斧袭击俄将强硬回应",
+        "onboard_time": 1761270080,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103112,
+        "num": 103112,
+        "word": "苏州一电车发生燃爆",
+        "onboard_time": 1761264922,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99171,
+        "num": 99171,
+        "word": "比卢普斯被勒令离队",
+        "onboard_time": 1761269180,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96772,
+        "num": 96772,
+        "word": "坚决防止各类学生欺凌行为",
+        "onboard_time": 1761269541,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 94773,
+        "num": 94773,
+        "word": "男子10年前救白狐收获一群狐保镖",
+        "onboard_time": 1761260897,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90114,
+        "num": 90114,
+        "word": "黄金快速上涨",
+        "onboard_time": 1761261918,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86486,
+        "num": 86486,
+        "word": "河南一事业单位遭网友质疑设萝卜岗",
+        "onboard_time": 1761229643,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85053,
+        "num": 85053,
+        "word": "ChatGPT逼疯美国教授",
+        "onboard_time": 1761267321,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82695,
+        "num": 84492,
+        "word": "合肥多校试行每周一天无作业日",
+        "onboard_time": 1761269061,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84195,
+        "num": 84195,
+        "word": "杨瀚森主教练因赌球被逮捕",
+        "onboard_time": 1761269180,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82726,
+        "num": 82726,
+        "word": "日本福岛突发地震",
+        "onboard_time": 1761268341,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75534,
+        "num": 75534,
+        "word": "BLG对战VKS首发名单公布",
+        "onboard_time": 1761266001,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72754,
+        "num": 75531,
+        "word": "通信技术试验卫星二十号发射成功",
+        "onboard_time": 1761234080,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会公报#"
+    }
+  }
+}
