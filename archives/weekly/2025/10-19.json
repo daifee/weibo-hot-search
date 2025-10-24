@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761280969669,
+  "endTime": 1761283529686,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1999809,
-      "num": 312865,
+      "num": 345796,
       "word": "路行退出再见爱人5",
       "onboard_time": 1761279500,
       "rank": 5,
@@ -667,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 792961,
+      "num": 238677,
+      "word": "林一转发正式恭喜王玉雯",
+      "onboard_time": 1761279201,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 792089,
       "num": 360168,
       "word": "奚梦瑶何猷君带儿子出席活动",
@@ -849,14 +857,6 @@
       "onboard_time": 1760939240,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717696,
-      "num": 238677,
-      "word": "林一转发正式恭喜王玉雯",
-      "onboard_time": 1761279201,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 717000,
@@ -1811,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455931,
+      "num": 1072949,
+      "word": "库里超远三分绝平",
+      "onboard_time": 1761281603,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455921,
       "num": 223804,
       "word": "红舞鞋剧组撞猫司机已辞职",
@@ -2043,6 +2051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 433870,
+      "num": 344925,
+      "word": "杨紫再叫罗云熙小鱼仙倌",
+      "onboard_time": 1761281542,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432947,
       "num": 200216,
       "word": "金价银价大反攻",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1761264021,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 426704,
+      "num": 426704,
+      "word": "小米汽车购置税补贴方案",
+      "onboard_time": 1761279262,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 425159,
@@ -2371,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 385502,
-      "num": 385502,
-      "word": "小米汽车购置税补贴方案",
-      "onboard_time": 1761279262,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 385183,
       "num": 1029857,
       "word": "何赛飞为全场呼唤陈丽君名字激动",
@@ -2416,6 +2432,14 @@
       "word": "杨幂刘亦菲晚宴坐一桌",
       "onboard_time": 1761270260,
       "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 380475,
+      "num": 343804,
+      "word": "ELLE盛典阵容官宣",
+      "onboard_time": 1761282141,
+      "rank": 7,
       "category": "作品衍生,时尚"
     },
     {
@@ -2457,6 +2481,14 @@
       "onboard_time": 1761030802,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376171,
+      "num": 200857,
+      "word": "霸总斐 小娇幂",
+      "onboard_time": 1761280523,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 372089,
@@ -2707,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346360,
+      "num": 346360,
+      "word": "网红罗大美被害案宣判",
+      "onboard_time": 1761282442,
+      "rank": 4,
+      "category": "辟谣/通报,网红"
+    },
+    {
       "raw_hot": 346067,
       "num": 1115559,
       "word": "国台办回应台湾网红馆长宣布来京",
@@ -2817,6 +2857,14 @@
       "onboard_time": 1761041181,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337711,
+      "num": 337711,
+      "word": "安世中国声明荷兰总部决定在中国无效",
+      "onboard_time": 1761279020,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 333409,
@@ -3635,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268023,
+      "num": 240288,
+      "word": "再见爱人5更新",
+      "onboard_time": 1761280102,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267826,
       "num": 196475,
       "word": "张晚意下水为李沁捡帽子",
@@ -3769,14 +3825,6 @@
       "onboard_time": 1760929160,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 257835,
-      "num": 257835,
-      "word": "安世中国声明荷兰总部决定在中国无效",
-      "onboard_time": 1761279020,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 257701,
@@ -4395,14 +4443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215456,
-      "num": 240288,
-      "word": "再见爱人5更新",
-      "onboard_time": 1761280102,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215231,
       "num": 659216,
       "word": "5类人真的不要染发",
@@ -4497,6 +4537,14 @@
       "onboard_time": 1761033380,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209926,
+      "num": 209926,
+      "word": "网红罗大美被害案凶手余金生获死刑",
+      "onboard_time": 1761283102,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 209154,
@@ -5059,6 +5107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194691,
+      "num": 165975,
+      "word": "杨幂把张小斐搂进怀里",
+      "onboard_time": 1761282202,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194630,
       "num": 194630,
       "word": "李二牛扮演者赵荀转型美男",
@@ -5403,6 +5459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186147,
+      "num": 178479,
+      "word": "水龙吟第一案婚礼变葬礼",
+      "onboard_time": 1761282323,
+      "rank": 23,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 186117,
       "num": 1266275,
       "word": "减肥主食排名",
@@ -5681,6 +5745,14 @@
       "onboard_time": 1761104362,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178048,
+      "num": 178048,
+      "word": "勇士战胜掘金",
+      "onboard_time": 1761282202,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 177810,
@@ -6051,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169368,
+      "num": 169368,
+      "word": "当体重每胖五斤对你腰围和脸部的影响",
+      "onboard_time": 1761283161,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 169145,
       "num": 169145,
       "word": "杨超越瓜子西施不是白叫的",
@@ -6179,12 +6259,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166251,
-      "num": 166251,
-      "word": "霸总斐 小娇幂",
-      "onboard_time": 1761280523,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 166165,
+      "num": 166165,
+      "word": "原神杜林",
+      "onboard_time": 1761282082,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 165867,
@@ -6857,6 +6937,14 @@
       "onboard_time": 1760943800,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152612,
+      "num": 152612,
+      "word": "戈登10记三分",
+      "onboard_time": 1761282381,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 152611,
@@ -7811,6 +7899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134907,
+      "num": 134907,
+      "word": "莫言写诗悼念杨振宁先生",
+      "onboard_time": 1761283102,
+      "rank": 36,
+      "category": "读书作家,民生新闻"
+    },
+    {
       "raw_hot": 134860,
       "num": 452894,
       "word": "张真源同学上音综被夸能拿格莱美",
@@ -7969,6 +8065,14 @@
       "onboard_time": 1760877742,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132429,
+      "num": 132132,
+      "word": "朱珠马场晚宴穿对了",
+      "onboard_time": 1761280702,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132292,
@@ -8192,6 +8296,14 @@
       "word": "冷空气将进一步南下",
       "onboard_time": 1761018021,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 133356,
+      "word": "13岁女孩用的苏菲安心裤拆出活虫",
+      "onboard_time": 1761283102,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -8883,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121276,
+      "num": 121276,
+      "word": "邓莎一个人再见什么爱人",
+      "onboard_time": 1761283342,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121270,
       "num": 121270,
       "word": "猫咪也会偷偷给两脚兽取名字",
@@ -9105,14 +9225,6 @@
       "onboard_time": 1760884522,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119253,
-      "num": 119253,
-      "word": "朱珠马场晚宴穿对了",
-      "onboard_time": 1761280702,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119173,
@@ -9441,6 +9553,14 @@
       "onboard_time": 1761093380,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1760831057,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115764,
@@ -10355,6 +10475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107043,
+      "num": 107043,
+      "word": "抢的时候甚至感觉闻到臭味了",
+      "onboard_time": 1761283222,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106971,
       "num": 106971,
       "word": "中荷围绕安世半导体问题交换意见",
@@ -10713,6 +10841,14 @@
       "onboard_time": 1760926941,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103895,
+      "num": 103895,
+      "word": "明心 我哥竟是我嫂子",
+      "onboard_time": 1761282622,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103867,
@@ -12521,6 +12657,14 @@
       "onboard_time": 1760844019,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90606,
+      "num": 132396,
+      "word": "CSGO游戏市场蒸发20亿美元",
+      "onboard_time": 1761282442,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 90525,
@@ -14339,6 +14483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77176,
+      "num": 170119,
+      "word": "三大外卖平台被市场监管总局上门调查",
+      "onboard_time": 1761281962,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77162,
       "num": 77162,
       "word": "换季断舍离扔了100斤衣服",
@@ -15723,6 +15875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 61291,
+      "num": 165977,
+      "word": "这这这竟然都是黄晓明",
+      "onboard_time": 1761283161,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61269,
       "num": 61269,
       "word": "孩子一会练成麒麟臂了",
@@ -16105,14 +16265,6 @@
       "onboard_time": 1761104902,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 56787,
-      "num": 76335,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1760831057,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 56748,
@@ -17457,6 +17609,14 @@
       "onboard_time": 1760868081,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26420,
+      "num": 132387,
+      "word": "VKS辅助说BLG选手太强了",
+      "onboard_time": 1761282561,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 26370,

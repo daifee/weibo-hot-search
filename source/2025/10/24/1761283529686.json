@@ -1,0 +1,410 @@
+{
+  "runTime": 1761283529686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 455931,
+        "num": 1072949,
+        "word": "库里超远三分绝平",
+        "onboard_time": 1761281603,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426704,
+        "num": 426704,
+        "word": "小米汽车购置税补贴方案",
+        "onboard_time": 1761279262,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16299,
+        "num": 421254,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416806,
+        "num": 416806,
+        "word": "严禁将手机等电子产品带进课堂",
+        "onboard_time": 1761270020,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 346360,
+        "num": 346360,
+        "word": "网红罗大美被害案宣判",
+        "onboard_time": 1761282442,
+        "rank": 4,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 1477119,
+        "num": 345796,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433870,
+        "num": 344925,
+        "word": "杨紫再叫罗云熙小鱼仙倌",
+        "onboard_time": 1761281542,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380475,
+        "num": 343804,
+        "word": "ELLE盛典阵容官宣",
+        "onboard_time": 1761282141,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337711,
+        "num": 337711,
+        "word": "安世中国声明荷兰总部决定在中国无效",
+        "onboard_time": 1761279020,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209926,
+        "num": 209926,
+        "word": "网红罗大美被害案凶手余金生获死刑",
+        "onboard_time": 1761283102,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2090991,
+        "num": 207478,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425635,
+        "num": 205438,
+        "word": "卢靖姗韩庚二胎出生",
+        "onboard_time": 1761273860,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423359,
+        "num": 202525,
+        "word": "秦昊没认出伊能静的嘴因为亲少了",
+        "onboard_time": 1761277641,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376171,
+        "num": 200857,
+        "word": "霸总斐 小娇幂",
+        "onboard_time": 1761280523,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245041,
+        "num": 195301,
+        "word": "吃外卖和不吃外卖都沉默了",
+        "onboard_time": 1761279500,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 792961,
+        "num": 194593,
+        "word": "林一转发正式恭喜王玉雯",
+        "onboard_time": 1761279201,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294157,
+        "num": 191369,
+        "word": "刘亦菲夸马思纯漂亮",
+        "onboard_time": 1761274101,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268023,
+        "num": 187406,
+        "word": "再见爱人5更新",
+        "onboard_time": 1761280102,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186470,
+        "num": 186470,
+        "word": "向太为何删婚变爆料视频",
+        "onboard_time": 1761273559,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32565,
+        "num": 180471,
+        "word": "长城Hi4获奖喜报传遍都江堰",
+        "onboard_time": 1761280763,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179183,
+        "num": 179183,
+        "word": "孙颖莎 Keep",
+        "onboard_time": 1761276380,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405790,
+        "num": 179005,
+        "word": "金价大跌有人刚买镯子想退货",
+        "onboard_time": 1761271999,
+        "rank": 21,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 236213,
+        "num": 178691,
+        "word": "女子银行被VIP插队现场要说法",
+        "onboard_time": 1761276922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 178479,
+        "word": "水龙吟第一案婚礼变葬礼",
+        "onboard_time": 1761282323,
+        "rank": 23,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 178048,
+        "num": 178048,
+        "word": "勇士战胜掘金",
+        "onboard_time": 1761282202,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77176,
+        "num": 170119,
+        "word": "三大外卖平台被市场监管总局上门调查",
+        "onboard_time": 1761281962,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169368,
+        "num": 169368,
+        "word": "当体重每胖五斤对你腰围和脸部的影响",
+        "onboard_time": 1761283161,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166165,
+        "num": 166165,
+        "word": "原神杜林",
+        "onboard_time": 1761282082,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150652,
+        "num": 165990,
+        "word": "向往的生活",
+        "onboard_time": 1761276440,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61291,
+        "num": 165977,
+        "word": "这这这竟然都是黄晓明",
+        "onboard_time": 1761283161,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194691,
+        "num": 165975,
+        "word": "杨幂把张小斐搂进怀里",
+        "onboard_time": 1761282202,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165972,
+        "num": 165972,
+        "word": "Ning说GEN是故意输AL",
+        "onboard_time": 1761277641,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152612,
+        "num": 152612,
+        "word": "戈登10记三分",
+        "onboard_time": 1761282381,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148666,
+        "num": 148666,
+        "word": "入青云",
+        "onboard_time": 1761283280,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138184,
+        "num": 138184,
+        "word": "林一破防",
+        "onboard_time": 1761278661,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136058,
+        "num": 136058,
+        "word": "鼓励中小学推行课间15分钟",
+        "onboard_time": 1761269000,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 134907,
+        "num": 134907,
+        "word": "莫言写诗悼念杨振宁先生",
+        "onboard_time": 1761283102,
+        "rank": 36,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 129137,
+        "num": 133356,
+        "word": "13岁女孩用的苏菲安心裤拆出活虫",
+        "onboard_time": 1761283102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90606,
+        "num": 132396,
+        "word": "CSGO游戏市场蒸发20亿美元",
+        "onboard_time": 1761282442,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26420,
+        "num": 132387,
+        "word": "VKS辅助说BLG选手太强了",
+        "onboard_time": 1761282561,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132387,
+        "num": 132386,
+        "word": "迪丽热巴新剧开机",
+        "onboard_time": 1761274040,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132429,
+        "num": 132132,
+        "word": "朱珠马场晚宴穿对了",
+        "onboard_time": 1761280702,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129555,
+        "num": 129555,
+        "word": "放弃工资上了一天班",
+        "onboard_time": 1761276380,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 121276,
+        "num": 121276,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120359,
+        "num": 120359,
+        "word": "加强中小学生心理健康10条措施",
+        "onboard_time": 1761267682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116056,
+        "num": 116056,
+        "word": "苹果彻查iPhone17Pro褪色",
+        "onboard_time": 1761267921,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115802,
+        "num": 115802,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1761283401,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107043,
+        "num": 107043,
+        "word": "抢的时候甚至感觉闻到臭味了",
+        "onboard_time": 1761283222,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105383,
+        "num": 105383,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1761279020,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103895,
+        "num": 103895,
+        "word": "明心 我哥竟是我嫂子",
+        "onboard_time": 1761282622,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
