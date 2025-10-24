@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 13:25:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 13:42:11
 </p>
 </blockquote>
 <p>
@@ -2873,6 +2873,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B0%91%E5%96%9D%E7%82%B9%E5%90%A7%23" target="weibo">
 关晓彤少喝点吧（热度：811955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
+网红罗大美被害案宣判（热度：811860）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%89%AF%E9%83%A8%E9%95%BF%E8%A2%AB%E7%88%86%E8%AE%BF%E9%9F%A9%E6%9C%9F%E9%97%B4%E6%80%A7%E4%BE%B5%E9%9F%A9%E5%85%AC%E5%8A%A1%E5%91%98%23" target="weibo">
 越南副部长被爆访韩期间性侵韩公务员（热度：517349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
-中方回应高市早苗当选日本首相（热度：517070）
 </a>
 </li>
 

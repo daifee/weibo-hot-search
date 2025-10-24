@@ -1,10 +1,10 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761283529686,
+  "endTime": 1761284531401,
   "band_list": [
     {
       "raw_hot": 3669694,
-      "num": 245433,
+      "num": 362210,
       "word": "王玉雯 想和刘亦菲官宣了",
       "onboard_time": 1761277282,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1999809,
-      "num": 345796,
+      "num": 413322,
       "word": "路行退出再见爱人5",
       "onboard_time": 1761279500,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1026996,
-      "num": 236007,
+      "num": 236209,
       "word": "金价大跌有人刚买镯子想退货",
       "onboard_time": 1761271999,
       "rank": 14,
@@ -44,15 +44,23 @@
     },
     {
       "raw_hot": 993082,
-      "num": 244127,
+      "num": 358571,
       "word": "卢靖姗韩庚二胎出生",
       "onboard_time": 1761273860,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 811860,
+      "num": 1129897,
+      "word": "网红罗大美被害案宣判",
+      "onboard_time": 1761282442,
+      "rank": 4,
+      "category": "辟谣/通报,网红"
+    },
+    {
       "raw_hot": 792961,
-      "num": 238677,
+      "num": 323496,
       "word": "林一转发正式恭喜王玉雯",
       "onboard_time": 1761279201,
       "rank": 15,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 730312,
-      "num": 243586,
+      "num": 289078,
       "word": "刘亦菲夸马思纯漂亮",
       "onboard_time": 1761274101,
       "rank": 11,
@@ -123,6 +131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 510726,
+      "num": 413222,
+      "word": "杨紫再叫罗云熙小鱼仙倌",
+      "onboard_time": 1761281542,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500483,
       "num": 259865,
       "word": "娜扎一把拉过杨幂",
@@ -139,7 +155,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455931,
+      "raw_hot": 459831,
       "num": 1072949,
       "word": "库里超远三分绝平",
       "onboard_time": 1761281603,
@@ -147,16 +163,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 433870,
-      "num": 344925,
-      "word": "杨紫再叫罗云熙小鱼仙倌",
-      "onboard_time": 1761281542,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 451620,
+      "num": 411713,
+      "word": "ELLE盛典阵容官宣",
+      "onboard_time": 1761282141,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 442046,
+      "num": 442046,
+      "word": "小米汽车购置税补贴方案",
+      "onboard_time": 1761279262,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 430827,
-      "num": 242876,
+      "num": 340775,
       "word": "秦昊没认出伊能静的嘴因为亲少了",
       "onboard_time": 1761277641,
       "rank": 48,
@@ -179,14 +203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 426704,
-      "num": 426704,
-      "word": "小米汽车购置税补贴方案",
-      "onboard_time": 1761279262,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 406512,
       "num": 185646,
       "word": "钓鱼博主袁小小去世",
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384660,
+      "num": 349053,
+      "word": "吃外卖和不吃外卖都沉默了",
+      "onboard_time": 1761279500,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 381718,
       "num": 183538,
       "word": "杨幂刘亦菲晚宴坐一桌",
@@ -211,20 +235,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 380475,
-      "num": 343804,
-      "word": "ELLE盛典阵容官宣",
-      "onboard_time": 1761282141,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 376171,
-      "num": 200857,
+      "num": 317775,
       "word": "霸总斐 小娇幂",
       "onboard_time": 1761280523,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374925,
+      "num": 374925,
+      "word": "网红罗大美被害案凶手余金生获死刑",
+      "onboard_time": 1761283102,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 372051,
@@ -233,6 +257,14 @@
       "onboard_time": 1761231322,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367563,
+      "num": 367563,
+      "word": "安世中国声明荷兰总部决定在中国无效",
+      "onboard_time": 1761279020,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366046,
@@ -249,14 +281,6 @@
       "onboard_time": 1761232943,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 346360,
-      "num": 346360,
-      "word": "网红罗大美被害案宣判",
-      "onboard_time": 1761282442,
-      "rank": 4,
-      "category": "辟谣/通报,网红"
     },
     {
       "raw_hot": 342097,
@@ -297,14 +321,6 @@
       "onboard_time": 1761279020,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 337711,
-      "num": 337711,
-      "word": "安世中国声明荷兰总部决定在中国无效",
-      "onboard_time": 1761279020,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 333240,
@@ -387,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255782,
-      "num": 222827,
-      "word": "吃外卖和不吃外卖都沉默了",
-      "onboard_time": 1761279500,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 250917,
+      "num": 250917,
+      "word": "邓莎一个人再见什么爱人",
+      "onboard_time": 1761283342,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 250538,
@@ -483,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209926,
-      "num": 209926,
-      "word": "网红罗大美被害案凶手余金生获死刑",
-      "onboard_time": 1761283102,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 206784,
       "num": 155070,
       "word": "女子带宠物蛙就餐被店员误认是食材",
@@ -504,6 +512,14 @@
       "word": "肖战双平台拉新史冠",
       "onboard_time": 1761260958,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202715,
+      "num": 202715,
+      "word": "入青云",
+      "onboard_time": 1761283280,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -545,6 +561,14 @@
       "onboard_time": 1761278661,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195941,
+      "num": 195941,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761283401,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 194691,
@@ -635,12 +659,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173567,
+      "num": 173567,
+      "word": "莫言写诗悼念杨振宁先生",
+      "onboard_time": 1761283102,
+      "rank": 36,
+      "category": "读书作家,民生新闻"
+    },
+    {
       "raw_hot": 171906,
       "num": 190202,
       "word": "十五五",
       "onboard_time": 1761214401,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171036,
+      "num": 171036,
+      "word": "张泽禹哭了",
+      "onboard_time": 1761284182,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 169368,
@@ -747,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148666,
-      "num": 148666,
-      "word": "入青云",
-      "onboard_time": 1761283280,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147679,
       "num": 147679,
       "word": "谁给毛晓彤递个恶女剧本",
@@ -785,6 +817,14 @@
       "onboard_time": 1761278780,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139644,
+      "num": 139644,
+      "word": "无限暖暖拾光季",
+      "onboard_time": 1761283581,
+      "rank": 31,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 137677,
@@ -835,14 +875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 134907,
-      "num": 134907,
-      "word": "莫言写诗悼念杨振宁先生",
-      "onboard_time": 1761283102,
-      "rank": 36,
-      "category": "读书作家,民生新闻"
-    },
-    {
       "raw_hot": 134759,
       "num": 130522,
       "word": "解决老龄化要年轻人快结婚生孩子",
@@ -859,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132879,
+      "num": 132879,
+      "word": "数码宝贝官方入驻微博",
+      "onboard_time": 1761284121,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132429,
       "num": 132132,
       "word": "朱珠马场晚宴穿对了",
@@ -867,20 +907,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129671,
+      "num": 144446,
+      "word": "13岁女孩用的苏菲安心裤拆出活虫",
+      "onboard_time": 1761283102,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129405,
       "num": 129405,
       "word": "十五五规划建议共15部分61条",
       "onboard_time": 1761274700,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129137,
-      "num": 133356,
-      "word": "13岁女孩用的苏菲安心裤拆出活虫",
-      "onboard_time": 1761283102,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128428,
@@ -956,19 +996,11 @@
     },
     {
       "raw_hot": 121352,
-      "num": 421254,
+      "num": 454736,
       "word": "二十届四中全会公报",
       "onboard_time": 1761210142,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121276,
-      "num": 121276,
-      "word": "邓莎一个人再见什么爱人",
-      "onboard_time": 1761283342,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 121270,
@@ -1011,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115802,
-      "num": 115802,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1761283401,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115694,
       "num": 153731,
       "word": "何超莲表示和窦骁感情稳定",
@@ -1059,6 +1083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112526,
+      "num": 112526,
+      "word": "抢的时候甚至感觉闻到臭味了",
+      "onboard_time": 1761283222,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112275,
+      "num": 112275,
+      "word": "特朗普起诉美国政府",
+      "onboard_time": 1761284302,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110955,
       "num": 170714,
       "word": "豆包和夸克吵起来了",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1761270080,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107043,
-      "num": 107043,
-      "word": "抢的时候甚至感觉闻到臭味了",
-      "onboard_time": 1761283222,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 106172,
@@ -1468,7 +1500,7 @@
     },
     {
       "raw_hot": 70320,
-      "num": 198850,
+      "num": 239345,
       "word": "长城Hi4获奖喜报传遍都江堰",
       "onboard_time": 1761280763,
       "rank": 26,
@@ -1507,6 +1539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 65554,
+      "num": 165977,
+      "word": "这这这竟然都是黄晓明",
+      "onboard_time": 1761283161,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64976,
       "num": 64976,
       "word": "杨幂刘亦菲VOGUE红毯待遇",
@@ -1537,14 +1577,6 @@
       "onboard_time": 1761235760,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 61291,
-      "num": 165977,
-      "word": "这这这竟然都是黄晓明",
-      "onboard_time": 1761283161,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 61115,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1761275061,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48300,
+      "num": 326624,
+      "word": "大眼音乐节抢票",
+      "onboard_time": 1761283581,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 48157,
