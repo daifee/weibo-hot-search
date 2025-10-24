@@ -1,14 +1,22 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761280216837,
+  "endTime": 1761280969669,
   "band_list": [
     {
       "raw_hot": 3669694,
-      "num": 229287,
+      "num": 245433,
       "word": "王玉雯 想和刘亦菲官宣了",
       "onboard_time": 1761277282,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1999809,
+      "num": 312865,
+      "word": "路行退出再见爱人5",
+      "onboard_time": 1761279500,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1267070,
@@ -19,16 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1250363,
-      "num": 312865,
-      "word": "路行退出再见爱人5",
-      "onboard_time": 1761279500,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1026996,
-      "num": 221000,
+      "num": 236007,
       "word": "金价大跌有人刚买镯子想退货",
       "onboard_time": 1761271999,
       "rank": 14,
@@ -44,27 +44,35 @@
     },
     {
       "raw_hot": 993082,
-      "num": 228797,
+      "num": 244127,
       "word": "卢靖姗韩庚二胎出生",
       "onboard_time": 1761273860,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 790749,
+      "num": 1126519,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 730312,
-      "num": 227664,
+      "num": 243586,
       "word": "刘亦菲夸马思纯漂亮",
       "onboard_time": 1761274101,
       "rank": 11,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 708520,
-      "num": 1113363,
-      "word": "严禁将手机等电子产品带进课堂",
-      "onboard_time": 1761270020,
-      "rank": 35,
-      "category": "民生新闻,教育"
+      "raw_hot": 717696,
+      "num": 238677,
+      "word": "林一转发正式恭喜王玉雯",
+      "onboard_time": 1761279201,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 681833,
@@ -131,16 +139,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443914,
-      "num": 225138,
-      "word": "林一转发正式恭喜王玉雯",
-      "onboard_time": 1761279201,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 430827,
-      "num": 226959,
+      "num": 242876,
       "word": "秦昊没认出伊能静的嘴因为亲少了",
       "onboard_time": 1761277641,
       "rank": 48,
@@ -177,6 +177,14 @@
       "onboard_time": 1761276380,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385502,
+      "num": 385502,
+      "word": "小米汽车购置税补贴方案",
+      "onboard_time": 1761279262,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 381718,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 340148,
-      "num": 220211,
+      "num": 234591,
       "word": "女子银行被VIP插队现场要说法",
       "onboard_time": 1761276922,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339505,
+      "num": 339505,
+      "word": "淘宝闪购免单",
+      "onboard_time": 1761279020,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 333240,
@@ -249,14 +265,6 @@
       "onboard_time": 1761274640,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 329494,
-      "num": 329494,
-      "word": "淘宝闪购免单",
-      "onboard_time": 1761279020,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 323445,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 306981,
-      "num": 226432,
+      "num": 241396,
       "word": "向太为何删婚变爆料视频",
       "onboard_time": 1761273559,
       "rank": 15,
@@ -323,8 +331,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257835,
+      "num": 257835,
+      "word": "安世中国声明荷兰总部决定在中国无效",
+      "onboard_time": 1761279020,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255782,
-      "num": 218593,
+      "num": 222827,
       "word": "吃外卖和不吃外卖都沉默了",
       "onboard_time": 1761279500,
       "rank": 23,
@@ -363,14 +379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 230035,
-      "num": 230035,
-      "word": "安世中国声明荷兰总部决定在中国无效",
-      "onboard_time": 1761279020,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 223762,
       "num": 223762,
       "word": "花西子下架陷苏丹红争议底霜",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 218999,
-      "num": 207288,
+      "num": 210672,
       "word": "放弃工资上了一天班",
       "onboard_time": 1761276380,
       "rank": 30,
@@ -419,12 +427,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 218206,
-      "num": 218206,
-      "word": "小米汽车购置税补贴方案",
-      "onboard_time": 1761279262,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 215456,
+      "num": 240288,
+      "word": "再见爱人5更新",
+      "onboard_time": 1761280102,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 212034,
@@ -459,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200640,
+      "num": 200640,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1761280344,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199227,
       "num": 199227,
       "word": "水龙吟开播",
@@ -473,6 +489,14 @@
       "onboard_time": 1761218664,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196288,
+      "num": 196288,
+      "word": "林一破防",
+      "onboard_time": 1761278661,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194616,
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193113,
+      "num": 193113,
+      "word": "未定事件簿女仆装",
+      "onboard_time": 1761280763,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185015,
       "num": 193031,
       "word": "交换人生",
@@ -507,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183608,
+      "num": 183608,
+      "word": "陈哲远伊能静拥抱",
+      "onboard_time": 1761279682,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179160,
       "num": 179160,
       "word": "林允国风鬼新娘味太冲了",
@@ -515,8 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175505,
-      "num": 175505,
+      "raw_hot": 176739,
+      "num": 176739,
       "word": "光与夜之恋",
       "onboard_time": 1761279982,
       "rank": 33,
@@ -531,10 +571,10 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168720,
-      "num": 168720,
-      "word": "陈哲远伊能静拥抱",
-      "onboard_time": 1761279682,
+      "raw_hot": 166251,
+      "num": 166251,
+      "word": "霸总斐 小娇幂",
+      "onboard_time": 1761280523,
       "rank": 34,
       "category": "作品衍生"
     },
@@ -699,19 +739,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134759,
+      "num": 130522,
+      "word": "解决老龄化要年轻人快结婚生孩子",
+      "onboard_time": 1761278481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "什么情况下同桌饮酒者需担责",
       "onboard_time": 1761270260,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130522,
-      "num": 130522,
-      "word": "解决老龄化要年轻人快结婚生孩子",
-      "onboard_time": 1761278481,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -739,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127478,
+      "num": 238071,
+      "word": "上帝到底为谷爱凌关了哪扇窗",
+      "onboard_time": 1761278661,
+      "rank": 19,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 124721,
       "num": 335813,
       "word": "无心已分手",
       "onboard_time": 1761223162,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123488,
+      "num": 123488,
+      "word": "亚历山大 罚球",
+      "onboard_time": 1761279863,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122801,
@@ -755,12 +811,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 122453,
-      "num": 151925,
-      "word": "再见爱人5更新",
-      "onboard_time": 1761280102,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 122764,
+      "num": 122764,
+      "word": "陈哲远这次是真扣题",
+      "onboard_time": 1761280881,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121708,
@@ -795,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120845,
-      "num": 120845,
-      "word": "亚历山大 罚球",
-      "onboard_time": 1761279863,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120295,
       "num": 120295,
       "word": "掘金vs勇士",
@@ -817,6 +865,14 @@
       "onboard_time": 1761276020,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119253,
+      "num": 119253,
+      "word": "朱珠马场晚宴穿对了",
+      "onboard_time": 1761280702,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117605,
@@ -843,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115439,
-      "num": 221908,
-      "word": "上帝到底为谷爱凌关了哪扇窗",
-      "onboard_time": 1761278661,
-      "rank": 19,
-      "category": "体育,作品衍生"
-    },
-    {
       "raw_hot": 114247,
       "num": 353812,
       "word": "谷爱凌一袭长裙骑马 神一般出场",
@@ -865,6 +913,22 @@
       "onboard_time": 1761272600,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114069,
+      "num": 114069,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1761280942,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113682,
+      "num": 113682,
+      "word": "这居然是方逸伦",
+      "onboard_time": 1761280881,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110955,
@@ -1059,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93780,
+      "num": 132326,
+      "word": "八宝山革命公墓外排起数十米长队",
+      "onboard_time": 1761280042,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93121,
       "num": 93121,
       "word": "翁帆用小白板写字帮杨振宁交流",
@@ -1155,14 +1227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83476,
-      "num": 132326,
-      "word": "八宝山革命公墓外排起数十米长队",
-      "onboard_time": 1761280042,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83173,
       "num": 148234,
       "word": "窦骁否认婚变",
@@ -1243,6 +1307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70320,
+      "num": 198850,
+      "word": "长城Hi4获奖喜报传遍都江堰",
+      "onboard_time": 1761280763,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69934,
       "num": 168528,
       "word": "张艺兴京东AI舞台",
@@ -1316,7 +1388,7 @@
     },
     {
       "raw_hot": 61088,
-      "num": 222786,
+      "num": 237175,
       "word": "你的身体经历过哪一级疼痛",
       "onboard_time": 1761276862,
       "rank": 18,
@@ -1475,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40884,
+      "num": 134380,
+      "word": "赛道前五名个个有宇宁",
+      "onboard_time": 1761280163,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40292,
       "num": 147336,
       "word": "推进祖国统一",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1761246195,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 24349,
-      "num": 134380,
-      "word": "赛道前五名个个有宇宁",
-      "onboard_time": 1761280163,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 17167,
