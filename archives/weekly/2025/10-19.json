@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761323569632,
+  "endTime": 1761324443162,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -2635,6 +2635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 405070,
+      "num": 161891,
+      "word": "妈妈因病去世女儿狂转眼珠不让泪流",
+      "onboard_time": 1761320241,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1761270260,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 381654,
-      "num": 134403,
-      "word": "妈妈因病去世女儿狂转眼珠不让泪流",
-      "onboard_time": 1761320241,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379619,
@@ -4713,6 +4713,14 @@
       "onboard_time": 1761215242,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229035,
+      "num": 229035,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1761323898,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 227907,
@@ -7123,6 +7131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164765,
+      "num": 164765,
+      "word": "水龙吟导演",
+      "onboard_time": 1761322101,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164669,
       "num": 164669,
       "word": "一诺孙权暴力开团",
@@ -7657,6 +7673,14 @@
       "onboard_time": 1761180020,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156911,
+      "num": 156911,
+      "word": "白鹿曾舜晞售后自拍照",
+      "onboard_time": 1761322521,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 156658,
@@ -9995,14 +10019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123988,
-      "num": 123988,
-      "word": "白鹿曾舜晞售后自拍照",
-      "onboard_time": 1761322521,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123976,
       "num": 123976,
       "word": "罗大美家属回应判决",
@@ -10792,14 +10808,6 @@
       "word": "鹤男回关全伊伦",
       "onboard_time": 1760868141,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116975,
-      "num": 116975,
-      "word": "水龙吟导演",
-      "onboard_time": 1761322101,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -13371,6 +13379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97071,
+      "num": 97071,
+      "word": "台湾光复80周年",
+      "onboard_time": 1761323599,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96958,
       "num": 96958,
       "word": "山西太原高中语文老师赵旭封神演讲",
@@ -15193,6 +15209,14 @@
       "onboard_time": 1761120201,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 85842,
+      "num": 85842,
+      "word": "汪苏泷天赐的声音演唱会",
+      "onboard_time": 1761320961,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 85819,
@@ -17548,7 +17572,7 @@
     },
     {
       "raw_hot": 64317,
-      "num": 64317,
+      "num": 71147,
       "word": "水龙吟养了一群比格犬",
       "onboard_time": 1761322942,
       "rank": 48,
@@ -17809,6 +17833,14 @@
       "onboard_time": 1760954960,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61158,
+      "num": 71149,
+      "word": "A股下周还能涨吗",
+      "onboard_time": 1761321560,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 61155,

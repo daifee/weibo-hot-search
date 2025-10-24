@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761323569632,
+  "endTime": 1761324443162,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1147871,
-      "num": 126179,
+      "num": 164180,
       "word": "李金铭 我只是跑出去玩啦",
       "onboard_time": 1761318742,
       "rank": 10,
@@ -36,15 +36,15 @@
     },
     {
       "raw_hot": 446184,
-      "num": 126064,
+      "num": 161410,
       "word": "郑恺苗苗真没把我们当外人",
       "onboard_time": 1761310702,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 381654,
-      "num": 125905,
+      "raw_hot": 405070,
+      "num": 161891,
       "word": "妈妈因病去世女儿狂转眼珠不让泪流",
       "onboard_time": 1761320241,
       "rank": 12,
@@ -52,15 +52,23 @@
     },
     {
       "raw_hot": 346055,
-      "num": 125710,
+      "num": 159331,
       "word": "肖战是去拍戏了不是去和亲了",
       "onboard_time": 1761319340,
       "rank": 13,
       "category": "艺人"
     },
     {
+      "raw_hot": 251387,
+      "num": 213791,
+      "word": "水龙吟",
+      "onboard_time": 1761299240,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249530,
-      "num": 124292,
+      "num": 127130,
       "word": "宁静儿子因掉水里先救妈妈被分手",
       "onboard_time": 1761306261,
       "rank": 20,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 245516,
-      "num": 125399,
+      "num": 157497,
       "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
       "onboard_time": 1761315862,
       "rank": 14,
@@ -76,19 +84,19 @@
     },
     {
       "raw_hot": 239106,
-      "num": 124179,
+      "num": 126624,
       "word": "赵樱子官宣分手",
       "onboard_time": 1761288800,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 229335,
-      "num": 209342,
-      "word": "水龙吟",
-      "onboard_time": 1761299240,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 229035,
+      "num": 229035,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1761323898,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 209521,
@@ -115,16 +123,32 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164765,
+      "num": 164765,
+      "word": "水龙吟导演",
+      "onboard_time": 1761322101,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164191,
-      "num": 125367,
+      "num": 155381,
       "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
       "onboard_time": 1761305720,
       "rank": 15,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156911,
+      "num": 156911,
+      "word": "白鹿曾舜晞售后自拍照",
+      "onboard_time": 1761322521,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156138,
-      "num": 124994,
+      "num": 133750,
       "word": "员工脚痛请假因步数超1.6万被开除",
       "onboard_time": 1761310100,
       "rank": 16,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 143073,
-      "num": 124938,
+      "num": 132993,
       "word": "杨紫被路人认出只用了0.01s",
       "onboard_time": 1761305600,
       "rank": 17,
@@ -169,22 +193,6 @@
       "onboard_time": 1761304760,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123988,
-      "num": 123988,
-      "word": "白鹿曾舜晞售后自拍照",
-      "onboard_time": 1761322521,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116975,
-      "num": 116975,
-      "word": "水龙吟导演",
-      "onboard_time": 1761322101,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 115466,
@@ -235,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97933,
+      "num": 96600,
+      "word": "淘宝限时补贴等优惠突停致大量退货",
+      "onboard_time": 1761320421,
+      "rank": 32,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 97089,
       "num": 97089,
       "word": "邵兵罕见露面力挺儿子邵子恒",
@@ -243,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96600,
-      "num": 96600,
-      "word": "淘宝限时补贴等优惠突停致大量退货",
-      "onboard_time": 1761320421,
-      "rank": 32,
-      "category": "互联网,民生新闻"
+      "raw_hot": 97071,
+      "num": 97071,
+      "word": "台湾光复80周年",
+      "onboard_time": 1761323599,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96277,
@@ -281,6 +297,14 @@
       "onboard_time": 1761322942,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85842,
+      "num": 85842,
+      "word": "汪苏泷天赐的声音演唱会",
+      "onboard_time": 1761320961,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 84296,
@@ -339,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72657,
+      "num": 72657,
+      "word": "邱莹莹我开始理解你了",
+      "onboard_time": 1761308421,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70451,
       "num": 70451,
       "word": "一路繁花2七个人才吃了799",
@@ -347,16 +379,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69307,
-      "num": 69307,
-      "word": "邱莹莹我开始理解你了",
-      "onboard_time": 1761308421,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68050,
-      "num": 68050,
+      "num": 71151,
       "word": "TES抽中BLG",
       "onboard_time": 1761307942,
       "rank": 45,
@@ -372,19 +396,43 @@
     },
     {
       "raw_hot": 64804,
-      "num": 64804,
+      "num": 71146,
       "word": "祖国大陆离台湾最近的距离",
       "onboard_time": 1761312562,
       "rank": 47,
       "category": "国内时政"
     },
     {
+      "raw_hot": 64329,
+      "num": 71150,
+      "word": "郭富城一家五口去景区只用买一张票",
+      "onboard_time": 1761305540,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64317,
-      "num": 64317,
+      "num": 71147,
       "word": "水龙吟养了一群比格犬",
       "onboard_time": 1761322942,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61364,
+      "num": 71149,
+      "word": "张艺兴直播",
+      "onboard_time": 1761313761,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61158,
+      "num": 71149,
+      "word": "A股下周还能涨吗",
+      "onboard_time": 1761321560,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 57291,
