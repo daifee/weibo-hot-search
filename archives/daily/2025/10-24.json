@@ -1,9 +1,9 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761270572802,
+  "endTime": 1761271866986,
   "band_list": [
     {
-      "raw_hot": 1129697,
+      "raw_hot": 1267070,
       "num": 201294,
       "word": "钟楚曦站位",
       "onboard_time": 1761267860,
@@ -19,8 +19,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 681833,
+      "num": 681833,
+      "word": "苹果彻查iPhone17Pro褪色",
+      "onboard_time": 1761267921,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 676947,
-      "num": 252051,
+      "num": 298868,
       "word": "杨振宁先生遗体告别仪式今日举行",
       "onboard_time": 1761265941,
       "rank": 6,
@@ -75,6 +83,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 381718,
+      "num": 183538,
+      "word": "杨幂刘亦菲晚宴坐一桌",
+      "onboard_time": 1761270260,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 372051,
       "num": 372051,
       "word": "缅甸军方突袭KK园区",
@@ -99,20 +115,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 349766,
-      "num": 349766,
-      "word": "苹果彻查iPhone17Pro褪色",
-      "onboard_time": 1761267921,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 342097,
       "num": 194156,
       "word": "去过台湾的人嘴真严啊",
       "onboard_time": 1761261438,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337779,
+      "num": 337779,
+      "word": "雷军回应K90定价",
+      "onboard_time": 1761270020,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 272249,
@@ -147,19 +163,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236725,
+      "num": 179819,
+      "word": "巴西大豆涨价反遭滞港教训",
+      "onboard_time": 1761266121,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231518,
       "num": 231518,
       "word": "戚薇的裙子居然是真花",
       "onboard_time": 1761226223,
       "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 226106,
-      "num": 170020,
-      "word": "杨幂刘亦菲晚宴坐一桌",
-      "onboard_time": 1761270260,
-      "rank": 20,
       "category": "作品衍生,时尚"
     },
     {
@@ -195,28 +211,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 218621,
+      "num": 218621,
+      "word": "鼓励中小学推行课间15分钟",
+      "onboard_time": 1761269000,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 218224,
       "num": 218224,
       "word": "张凌赫拉着李沁陈哲远站一起",
       "onboard_time": 1761226343,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210214,
-      "num": 170017,
-      "word": "巴西大豆涨价反遭滞港教训",
-      "onboard_time": 1761266121,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 208110,
-      "num": 208110,
-      "word": "鼓励中小学推行课间15分钟",
-      "onboard_time": 1761269000,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 203178,
@@ -243,28 +251,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 194206,
-      "num": 194206,
-      "word": "广西百色多个村镇被泡水中超半月",
-      "onboard_time": 1761260958,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191387,
-      "num": 191387,
+      "raw_hot": 194616,
+      "num": 194616,
       "word": "加强中小学生心理健康10条措施",
       "onboard_time": 1761267682,
       "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173508,
-      "num": 173508,
-      "word": "雷军回应K90定价",
-      "onboard_time": 1761270020,
-      "rank": 17,
-      "category": "数码"
+      "raw_hot": 194206,
+      "num": 194206,
+      "word": "广西百色多个村镇被泡水中超半月",
+      "onboard_time": 1761260958,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171906,
@@ -283,12 +283,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "爸爸抛娃举高高宝宝头撞到钢管",
+      "onboard_time": 1761267981,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157125,
       "num": 157125,
       "word": "欧阳娜娜光脚走红毯",
       "onboard_time": 1761222863,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150840,
+      "num": 150840,
+      "word": "18年前的今天嫦娥一号成功发射",
+      "onboard_time": 1761270980,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149190,
@@ -315,20 +331,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 135058,
-      "num": 135058,
-      "word": "爸爸抛娃举高高宝宝头撞到钢管",
-      "onboard_time": 1761267981,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135056,
       "num": 149152,
       "word": "钟楚曦穿了1987年的古董高定",
       "onboard_time": 1761221062,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134575,
+      "num": 134575,
+      "word": "什么情况下同桌饮酒者需担责",
+      "onboard_time": 1761270260,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124721,
@@ -339,20 +355,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124202,
+      "num": 124202,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122801,
       "num": 122801,
       "word": "穿卫衣就扎流苏丸子头",
       "onboard_time": 1761264680,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121698,
-      "num": 121698,
-      "word": "什么情况下同桌饮酒者需担责",
-      "onboard_time": 1761270260,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121352,
@@ -387,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115577,
-      "num": 115577,
-      "word": "严禁将手机等电子产品带进课堂",
-      "onboard_time": 1761270020,
-      "rank": 35,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 114247,
       "num": 353812,
       "word": "谷爱凌一袭长裙骑马 神一般出场",
@@ -427,6 +435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104586,
+      "num": 104586,
+      "word": "女子带宠物蛙就餐被店员误认是食材",
+      "onboard_time": 1761271580,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104085,
       "num": 332125,
       "word": "中央军委副主席张升民简历",
@@ -449,6 +465,14 @@
       "onboard_time": 1761264922,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101328,
+      "num": 163357,
+      "word": "水龙吟",
+      "onboard_time": 1761267141,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 100664,
@@ -491,6 +515,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 96393,
+      "num": 96393,
+      "word": "日本福岛突发地震",
+      "onboard_time": 1761268341,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95996,
       "num": 300536,
       "word": "Tian警告Doinb再造谣就起诉",
@@ -499,12 +531,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95573,
+      "num": 170139,
+      "word": "VOGUE 百花齐放",
+      "onboard_time": 1761267921,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 94134,
       "num": 133499,
       "word": "龚俊指挥交通呢 十秒钟打了十辆车",
       "onboard_time": 1761237557,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93121,
+      "num": 93121,
+      "word": "翁帆用小白板写字帮杨振宁交流",
+      "onboard_time": 1761271820,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91342,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 90114,
-      "num": 90114,
+      "num": 91299,
       "word": "黄金快速上涨",
       "onboard_time": 1761261918,
       "rank": 33,
@@ -539,12 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88754,
-      "num": 163357,
-      "word": "水龙吟",
-      "onboard_time": 1761267141,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 87046,
+      "num": 91331,
+      "word": "专家回应300元以下基本买不到真羽绒服",
+      "onboard_time": 1761270800,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85817,
@@ -563,14 +611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84272,
-      "num": 170139,
-      "word": "VOGUE 百花齐放",
-      "onboard_time": 1761267921,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 84195,
       "num": 84195,
       "word": "杨瀚森主教练因赌球被逮捕",
@@ -587,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82726,
-      "num": 82726,
-      "word": "日本福岛突发地震",
-      "onboard_time": 1761268341,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 82695,
       "num": 84492,
       "word": "合肥多校试行每周一天无作业日",
@@ -609,6 +641,14 @@
       "onboard_time": 1761238637,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79435,
+      "num": 91269,
+      "word": "李在明说不能把中国拒之门外",
+      "onboard_time": 1761271100,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77888,
@@ -721,6 +761,14 @@
       "onboard_time": 1761260958,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59665,
+      "num": 176281,
+      "word": "各界人士自发送别杨振宁先生",
+      "onboard_time": 1761270919,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58576,
@@ -851,8 +899,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29134,
+      "num": 181735,
+      "word": "大眼音乐节预售倒计时",
+      "onboard_time": 1761271280,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25934,
-      "num": 369496,
+      "num": 439425,
       "word": "十五五目标",
       "onboard_time": 1761211821,
       "rank": 2,
@@ -865,6 +921,14 @@
       "onboard_time": 1761246195,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24435,
+      "num": 1003909,
+      "word": "介绍和解读四中全会精神",
+      "onboard_time": 1761225684,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17167,

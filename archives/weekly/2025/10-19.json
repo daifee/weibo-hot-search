@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761270572802,
+  "endTime": 1761271866986,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1267070,
+      "num": 201294,
+      "word": "钟楚曦站位",
+      "onboard_time": 1761267860,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1226277,
       "num": 1106356,
       "word": "金价大跌有人一夜亏5万",
@@ -281,14 +289,6 @@
       "onboard_time": 1761200901,
       "rank": 5,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1129697,
-      "num": 201294,
-      "word": "钟楚曦站位",
-      "onboard_time": 1761267860,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1114813,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 681833,
+      "num": 681833,
+      "word": "苹果彻查iPhone17Pro褪色",
+      "onboard_time": 1761267921,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 680619,
       "num": 1108899,
       "word": "韩国人开始担心以后吃不上豆腐",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 676947,
-      "num": 252051,
+      "num": 298868,
       "word": "杨振宁先生遗体告别仪式今日举行",
       "onboard_time": 1761265941,
       "rank": 6,
@@ -2299,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381718,
+      "num": 183538,
+      "word": "杨幂刘亦菲晚宴坐一桌",
+      "onboard_time": 1761270260,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 379619,
       "num": 176093,
       "word": "打开行李箱发现多了8万元",
@@ -2571,14 +2587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349766,
-      "num": 349766,
-      "word": "苹果彻查iPhone17Pro褪色",
-      "onboard_time": 1761267921,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 349639,
       "num": 990097,
       "word": "你好种地少年3定档",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1761192381,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337779,
+      "num": 337779,
+      "word": "雷军回应K90定价",
+      "onboard_time": 1761270020,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 337726,
@@ -3859,6 +3875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236725,
+      "num": 179819,
+      "word": "巴西大豆涨价反遭滞港教训",
+      "onboard_time": 1761266121,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236356,
       "num": 227074,
       "word": "李一桐回应美人余造型",
@@ -3977,14 +4001,6 @@
       "onboard_time": 1761191840,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226106,
-      "num": 170020,
-      "word": "杨幂刘亦菲晚宴坐一桌",
-      "onboard_time": 1761270260,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 224684,
@@ -4131,6 +4147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 218621,
+      "num": 218621,
+      "word": "鼓励中小学推行课间15分钟",
+      "onboard_time": 1761269000,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -4259,14 +4283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210214,
-      "num": 170017,
-      "word": "巴西大豆涨价反遭滞港教训",
-      "onboard_time": 1761266121,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
@@ -4289,14 +4305,6 @@
       "onboard_time": 1760961022,
       "rank": 21,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 208110,
-      "num": 208110,
-      "word": "鼓励中小学推行课间15分钟",
-      "onboard_time": 1761269000,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 208014,
@@ -4819,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194616,
+      "num": 194616,
+      "word": "加强中小学生心理健康10条措施",
+      "onboard_time": 1761267682,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194438,
       "num": 194438,
       "word": "李沁陈哲远VOGUE",
@@ -4945,14 +4961,6 @@
       "onboard_time": 1761187940,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191387,
-      "num": 191387,
-      "word": "加强中小学生心理健康10条措施",
-      "onboard_time": 1761267682,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190857,
@@ -5601,14 +5609,6 @@
       "onboard_time": 1761225563,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 173508,
-      "num": 173508,
-      "word": "雷军回应K90定价",
-      "onboard_time": 1761270020,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 173366,
@@ -6339,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "爸爸抛娃举高高宝宝头撞到钢管",
+      "onboard_time": 1761267981,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "李沁去有风的地方",
@@ -6633,6 +6641,14 @@
       "onboard_time": 1761183379,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150840,
+      "num": 150840,
+      "word": "18年前的今天嫦娥一号成功发射",
+      "onboard_time": 1761270980,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150804,
@@ -7411,14 +7427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135058,
-      "num": 135058,
-      "word": "爸爸抛娃举高高宝宝头撞到钢管",
-      "onboard_time": 1761267981,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134917,
       "num": 235713,
       "word": "Zeus致敬Nuguri",
@@ -7449,6 +7457,14 @@
       "onboard_time": 1760859440,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134575,
+      "num": 134575,
+      "word": "什么情况下同桌饮酒者需担责",
+      "onboard_time": 1761270260,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134445,
@@ -8211,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124202,
+      "num": 124202,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 124192,
       "num": 195985,
       "word": "LPL致敬Karsa",
@@ -8401,14 +8425,6 @@
       "onboard_time": 1761138741,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121698,
-      "num": 121698,
-      "word": "什么情况下同桌饮酒者需担责",
-      "onboard_time": 1761270260,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121623,
@@ -8969,14 +8985,6 @@
       "onboard_time": 1760932341,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115577,
-      "num": 115577,
-      "word": "严禁将手机等电子产品带进课堂",
-      "onboard_time": 1761270020,
-      "rank": 35,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 115297,
@@ -10059,6 +10067,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 104586,
+      "num": 104586,
+      "word": "女子带宠物蛙就餐被店员误认是食材",
+      "onboard_time": 1761271580,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104575,
       "num": 124347,
       "word": "一路繁花这季的俩男仆是谁",
@@ -11099,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96393,
+      "num": 96393,
+      "word": "日本福岛突发地震",
+      "onboard_time": 1761268341,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96278,
       "num": 187867,
       "word": "1万5LV外套撞衫86元校服",
@@ -11233,6 +11257,14 @@
       "onboard_time": 1760843839,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95573,
+      "num": 170139,
+      "word": "VOGUE 百花齐放",
+      "onboard_time": 1761267921,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95545,
@@ -11627,6 +11659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93121,
+      "num": 93121,
+      "word": "翁帆用小白板写字帮杨振宁交流",
+      "onboard_time": 1761271820,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93057,
       "num": 93057,
       "word": "GEN三名教练离队",
@@ -12004,7 +12044,7 @@
     },
     {
       "raw_hot": 90114,
-      "num": 90114,
+      "num": 91299,
       "word": "黄金快速上涨",
       "onboard_time": 1761261918,
       "rank": 33,
@@ -12385,6 +12425,14 @@
       "onboard_time": 1760929821,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87046,
+      "num": 91331,
+      "word": "专家回应300元以下基本买不到真羽绒服",
+      "onboard_time": 1761270800,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87034,
@@ -12835,14 +12883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 84272,
-      "num": 170139,
-      "word": "VOGUE 百花齐放",
-      "onboard_time": 1761267921,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 84248,
       "num": 84248,
       "word": "其实你已经嫁给学校了",
@@ -13017,14 +13057,6 @@
       "onboard_time": 1761023481,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 82726,
-      "num": 82726,
-      "word": "日本福岛突发地震",
-      "onboard_time": 1761268341,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82695,
@@ -13441,6 +13473,14 @@
       "onboard_time": 1760801902,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79435,
+      "num": 91269,
+      "word": "李在明说不能把中国拒之门外",
+      "onboard_time": 1761271100,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79423,
@@ -15195,6 +15235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59665,
+      "num": 176281,
+      "word": "各界人士自发送别杨振宁先生",
+      "onboard_time": 1761270919,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59664,
       "num": 132223,
       "word": "日本选手模仿王楚钦胜利姿势",
@@ -16627,6 +16675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29134,
+      "num": 181735,
+      "word": "大眼音乐节预售倒计时",
+      "onboard_time": 1761271280,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28973,
       "num": 434342,
       "word": "卢浮宫劫匪破窗而入处成打卡点",
@@ -16825,6 +16881,14 @@
       "onboard_time": 1760895016,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24435,
+      "num": 1003909,
+      "word": "介绍和解读四中全会精神",
+      "onboard_time": 1761225684,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24332,
