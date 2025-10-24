@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761271866986,
+  "endTime": 1761275159741,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 965385,
+      "num": 152407,
+      "word": "卢靖姗韩庚二胎出生",
+      "onboard_time": 1761273860,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943694,
       "num": 1150991,
       "word": "二十届四中全会公报",
@@ -779,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 730312,
+      "num": 148828,
+      "word": "刘亦菲夸马思纯漂亮",
+      "onboard_time": 1761274101,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 729868,
       "num": 225801,
       "word": "邓莎老公曾向某退休干部行贿",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1761122661,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 622665,
+      "num": 143193,
+      "word": "金价大跌有人刚买镯子想退货",
+      "onboard_time": 1761271999,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 620826,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1760969182,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496711,
+      "num": 164291,
+      "word": "刘亦菲 宝格丽",
+      "onboard_time": 1761272240,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496617,
@@ -2115,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411136,
+      "num": 411136,
+      "word": "雷军回应K90定价",
+      "onboard_time": 1761270020,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 409347,
       "num": 1108445,
       "word": "韩国越南网友疯狂互嘲",
@@ -2675,14 +2715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 337779,
-      "num": 337779,
-      "word": "雷军回应K90定价",
-      "onboard_time": 1761270020,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 337726,
       "num": 1045895,
       "word": "孙颖莎长了鲨鱼角",
@@ -2817,6 +2849,22 @@
       "onboard_time": 1760876962,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323445,
+      "num": 137613,
+      "word": "理想mega",
+      "onboard_time": 1761272780,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 322110,
+      "num": 163525,
+      "word": "迪丽热巴新剧开机",
+      "onboard_time": 1761274040,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 321206,
@@ -3251,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287899,
+      "num": 141450,
+      "word": "向太为何删婚变爆料视频",
+      "onboard_time": 1761273559,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287242,
       "num": 227573,
       "word": "台湾网红馆长官宣北京行",
@@ -3385,6 +3441,14 @@
       "onboard_time": 1761223162,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273486,
+      "num": 137416,
+      "word": "吴彤找贾玲要的减肥食谱吃瘦了30斤",
+      "onboard_time": 1761273559,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 273038,
@@ -3689,6 +3753,14 @@
       "onboard_time": 1761208401,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 247715,
+      "num": 247715,
+      "word": "严禁将手机等电子产品带进课堂",
+      "onboard_time": 1761270020,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 247514,
@@ -4641,6 +4713,14 @@
       "onboard_time": 1760925860,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198878,
+      "num": 137075,
+      "word": "女子带宠物蛙就餐被店员误认是食材",
+      "onboard_time": 1761271580,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198741,
@@ -5971,6 +6051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164502,
+      "num": 205184,
+      "word": "王者荣耀",
+      "onboard_time": 1760915898,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164456,
       "num": 164456,
       "word": "辛芷蕾日掛中天被扇又被砸",
@@ -6323,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157612,
+      "num": 136717,
+      "word": "少司缘新皮肤身材比例",
+      "onboard_time": 1761273559,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157582,
       "num": 414378,
       "word": "梁靖崑逆转乾崑蛋糕",
@@ -6377,6 +6473,14 @@
       "onboard_time": 1761180020,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156908,
+      "num": 156908,
+      "word": "水龙吟开播",
+      "onboard_time": 1761274821,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 156658,
@@ -6995,14 +7099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144534,
-      "num": 205184,
-      "word": "王者荣耀",
-      "onboard_time": 1760915898,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144470,
       "num": 144470,
       "word": "张峻豪见张靓颖社恐到腿软",
@@ -7281,6 +7377,14 @@
       "onboard_time": 1760847261,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137663,
+      "num": 137663,
+      "word": "公司给入职满10年员工发100克金饰",
+      "onboard_time": 1761274401,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137350,
@@ -7787,6 +7891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129405,
+      "num": 129405,
+      "word": "十五五规划建议共15部分61条",
+      "onboard_time": 1761274700,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129352,
       "num": 129352,
       "word": "男子花12万娶越南新娘被遣送回国",
@@ -7801,6 +7913,14 @@
       "onboard_time": 1761018021,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128955,
+      "num": 128955,
+      "word": "谁给毛晓彤递个恶女剧本",
+      "onboard_time": 1761274640,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 128919,
@@ -7865,6 +7985,14 @@
       "onboard_time": 1761188120,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127994,
+      "num": 127994,
+      "word": "花西子曾起诉多方侵犯名誉权",
+      "onboard_time": 1761274821,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127902,
@@ -8227,14 +8355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124202,
-      "num": 124202,
-      "word": "严禁将手机等电子产品带进课堂",
-      "onboard_time": 1761270020,
-      "rank": 35,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 124192,
       "num": 195985,
       "word": "LPL致敬Karsa",
@@ -8297,6 +8417,14 @@
       "onboard_time": 1760862560,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123619,
+      "num": 123619,
+      "word": "未定事件簿",
+      "onboard_time": 1761275061,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 123572,
@@ -8433,6 +8561,14 @@
       "onboard_time": 1761189979,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121565,
+      "num": 121565,
+      "word": "李在明说不能把中国拒之门外",
+      "onboard_time": 1761271100,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121429,
@@ -8891,6 +9027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116846,
+      "num": 138749,
+      "word": "未来10年再造一个中国高技术产业",
+      "onboard_time": 1761273981,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116812,
       "num": 340568,
       "word": "利物浦vs曼联",
@@ -9073,6 +9217,14 @@
       "onboard_time": 1760790861,
       "rank": 27,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 114110,
+      "word": "党历史上又一重要纲领性文件",
+      "onboard_time": 1761272600,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114074,
@@ -9299,6 +9451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112080,
+      "num": 112080,
+      "word": "加绒洞洞鞋",
+      "onboard_time": 1761274460,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "张子枫演技自来水",
@@ -9313,6 +9473,14 @@
       "onboard_time": 1760960481,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111920,
+      "num": 111920,
+      "word": "前瞻布局未来产业",
+      "onboard_time": 1761274941,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111862,
@@ -9707,6 +9875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108457,
+      "num": 108457,
+      "word": "赵长鹏获特朗普赦免",
+      "onboard_time": 1761274640,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108446,
       "num": 411048,
       "word": "南昌大学秋招现露骨女主播招聘海报",
@@ -9963,6 +10139,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 106041,
+      "num": 106041,
+      "word": "割23部电梯钢绳嫌疑人究竟什么身份",
+      "onboard_time": 1761273920,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
@@ -10065,14 +10249,6 @@
       "onboard_time": 1760972361,
       "rank": 33,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 104586,
-      "num": 104586,
-      "word": "女子带宠物蛙就餐被店员误认是食材",
-      "onboard_time": 1761271580,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104575,
@@ -13027,6 +13203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82986,
+      "num": 138919,
+      "word": "豆包和夸克吵起来了",
+      "onboard_time": 1761274879,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82981,
       "num": 82981,
       "word": "雄赳赳气昂昂出自44字出征诗",
@@ -13473,14 +13657,6 @@
       "onboard_time": 1760801902,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 79435,
-      "num": 91269,
-      "word": "李在明说不能把中国拒之门外",
-      "onboard_time": 1761271100,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79423,
@@ -14089,6 +14265,14 @@
       "onboard_time": 1761103821,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73821,
+      "num": 103987,
+      "word": "杨瀚森主教练方律师声明",
+      "onboard_time": 1761275120,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 73685,
@@ -15155,6 +15339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61115,
+      "num": 145844,
+      "word": "十五五6个坚持原则",
+      "onboard_time": 1761273800,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61008,
       "num": 207032,
       "word": "人类正推动自恐龙灭绝后最大灭绝",
@@ -15513,6 +15705,14 @@
       "onboard_time": 1761193580,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56726,
+      "num": 99717,
+      "word": "中国国际地位将持续提升",
+      "onboard_time": 1761272780,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56722,
@@ -16179,6 +16379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42522,
+      "num": 124072,
+      "word": "重视中国经济也重视中国人经济",
+      "onboard_time": 1761275000,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42231,
       "num": 338564,
       "word": "杨超越听到自己是跳舞天才的反应",
@@ -16209,6 +16417,14 @@
       "onboard_time": 1761120862,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41145,
+      "num": 99727,
+      "word": "靠实体经济走向未来",
+      "onboard_time": 1761273621,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40774,
@@ -16465,6 +16681,14 @@
       "onboard_time": 1761062361,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35330,
+      "num": 1005652,
+      "word": "介绍和解读四中全会精神",
+      "onboard_time": 1761225684,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35196,
@@ -16843,6 +17067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25379,
+      "num": 109483,
+      "word": "提高人均预期寿命",
+      "onboard_time": 1761275061,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25091,
       "num": 72380,
       "word": "韩梨泰院惨案与尹锡悦迁办公室有关",
@@ -16881,14 +17113,6 @@
       "onboard_time": 1760895016,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24435,
-      "num": 1003909,
-      "word": "介绍和解读四中全会精神",
-      "onboard_time": 1761225684,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24332,
