@@ -1,0 +1,410 @@
+{
+  "runTime": 1761298914980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115170,
+        "num": 1178427,
+        "word": "VOGUE",
+        "onboard_time": 1761289701,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 302546,
+        "num": 302546,
+        "word": "普京宣布提高全日制女学生孕产津贴",
+        "onboard_time": 1761296960,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31918,
+        "num": 253886,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253207,
+        "num": 253207,
+        "word": "BLG越塔",
+        "onboard_time": 1761295280,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215527,
+        "num": 215527,
+        "word": "孙颖莎王楚钦又有新称号了",
+        "onboard_time": 1761291261,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400371,
+        "num": 211979,
+        "word": "张晚意一声姐整懵马思纯李沁",
+        "onboard_time": 1761293300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278547,
+        "num": 210543,
+        "word": "朱一龙官宣主演电影空枪",
+        "onboard_time": 1761290300,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204612,
+        "num": 204612,
+        "word": "北方多个城市已提前供暖",
+        "onboard_time": 1761292700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192060,
+        "num": 192060,
+        "word": "BLG对战VKS",
+        "onboard_time": 1761292520,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177294,
+        "num": 177294,
+        "word": "王权富贵内娱人脉这一块",
+        "onboard_time": 1761294321,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 902642,
+        "num": 177280,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766019,
+        "num": 177272,
+        "word": "男童喝珍珠奶茶窒息身亡家长发声",
+        "onboard_time": 1761294081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567797,
+        "num": 177246,
+        "word": "出生6天婴儿住院期间不幸死亡",
+        "onboard_time": 1761292999,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548867,
+        "num": 177220,
+        "word": "大闸蟹钻进车内消失2年后被取出",
+        "onboard_time": 1761291261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444497,
+        "num": 177220,
+        "word": "微信状态 新时代朋友圈",
+        "onboard_time": 1761291559,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381243,
+        "num": 177200,
+        "word": "国考系统崩了",
+        "onboard_time": 1761293421,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380086,
+        "num": 177170,
+        "word": "杨振宁病危时神智非常清楚",
+        "onboard_time": 1761298161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303909,
+        "num": 177162,
+        "word": "白鹿粉发白裙",
+        "onboard_time": 1761292820,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229045,
+        "num": 177129,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193558,
+        "num": 177127,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1761295641,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 670856,
+        "num": 177102,
+        "word": "空枪 檀健次",
+        "onboard_time": 1761294021,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374917,
+        "num": 177087,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274306,
+        "num": 177061,
+        "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+        "onboard_time": 1761291320,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423519,
+        "num": 177044,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235267,
+        "num": 177035,
+        "word": "VOGUE 这个时候需要苏芒",
+        "onboard_time": 1761288140,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193729,
+        "num": 177012,
+        "word": "郑恺为了老婆赢放了五十公斤的水",
+        "onboard_time": 1761297980,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146024,
+        "num": 176984,
+        "word": "山西一公园裸体雕塑看了太尴尬",
+        "onboard_time": 1761298100,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132040,
+        "num": 176973,
+        "word": "专家称美国网攻北京时间非常险恶",
+        "onboard_time": 1761294561,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128997,
+        "num": 176952,
+        "word": "金价大跌有人一次买了1斤黄金",
+        "onboard_time": 1761295342,
+        "rank": 28,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 62359,
+        "num": 176937,
+        "word": "京东独家首发万元机器人",
+        "onboard_time": 1761296601,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176927,
+        "num": 176927,
+        "word": "公司奖励员工的黄金键帽价值4万",
+        "onboard_time": 1761287121,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171191,
+        "num": 171191,
+        "word": "伊能静恩利拔戚薇的花",
+        "onboard_time": 1761296721,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152548,
+        "num": 152548,
+        "word": "刘宇宁直播切片在韩国火了",
+        "onboard_time": 1761295881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148541,
+        "num": 148541,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141679,
+        "num": 141679,
+        "word": "网红罗大美被害案凶手余金生获死刑",
+        "onboard_time": 1761283102,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137862,
+        "num": 137862,
+        "word": "鱼你有染 黑马CP",
+        "onboard_time": 1761296422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132993,
+        "num": 132993,
+        "word": "柬埔寨一中国女子路边大喊救命",
+        "onboard_time": 1761298460,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22929,
+        "num": 123858,
+        "word": "男子内地回港后确诊基孔肯雅热死亡",
+        "onboard_time": 1761298822,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47680,
+        "num": 120173,
+        "word": "外卖小哥为抄近路跳进大明湖",
+        "onboard_time": 1761297861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117240,
+        "num": 117240,
+        "word": "张凌赫和钟丽缇女儿打招呼",
+        "onboard_time": 1761297621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105415,
+        "num": 105415,
+        "word": "朱易短节目分数刷新PB",
+        "onboard_time": 1761298100,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104094,
+        "num": 104094,
+        "word": "分手十年的情侣在大张伟演唱会偶遇",
+        "onboard_time": 1761290060,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102500,
+        "num": 102500,
+        "word": "入青云戒断反应",
+        "onboard_time": 1761298401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100768,
+        "num": 100768,
+        "word": "匿名富翁给美军送1.3亿美元支票",
+        "onboard_time": 1761298280,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99201,
+        "num": 99201,
+        "word": "杨洋真的天生魅体",
+        "onboard_time": 1761298100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87494,
+        "num": 87494,
+        "word": "深圳公积金租房提取比例调整为80%",
+        "onboard_time": 1761295460,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85647,
+        "num": 85647,
+        "word": "iPhone17全版本激活量曝光",
+        "onboard_time": 1761296241,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84928,
+        "num": 84928,
+        "word": "何炅问张子枫外面有别的哥哥吗",
+        "onboard_time": 1761296900,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84270,
+        "num": 84270,
+        "word": "小鱼海棠婚礼嘉宾",
+        "onboard_time": 1761293961,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82609,
+        "num": 82609,
+        "word": "何美延梁淞吵架 从29楼追到1楼",
+        "onboard_time": 1761296362,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}
