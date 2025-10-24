@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 15:38:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 16:34:08
 </p>
 </blockquote>
 <p>
@@ -2307,6 +2307,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E9%92%BB%E8%BF%9B%E8%BD%A6%E5%86%85%E6%B6%88%E5%A4%B12%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%8F%96%E5%87%BA%23" target="weibo">
+大闸蟹钻进车内消失2年后被取出（热度：911260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%8F%96%E4%BB%A3QQ%23" target="weibo">
 一直没明白为什么微信能取代QQ（热度：910262）
 </a>
@@ -3675,6 +3681,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A6%BB%E5%AD%90%E5%A4%8F%E9%9C%B2%E5%BF%99%E9%87%8C%E5%81%B7%E9%97%B2%E8%B7%B3%E4%B8%AA%E9%BB%91%E6%80%95%23" target="weibo">
+马龙妻子夏露忙里偷闲跳个黑怕（热度：703957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 王楚钦vs张本智和（热度：703308）
 </a>
@@ -4463,6 +4475,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%8A%B1%E7%94%9F%E6%89%BE%E5%88%B0%E5%A7%A5%E5%A7%A5%E4%B8%A2%E4%BA%8612%E5%B9%B4%E7%9A%84%E9%87%91%E9%95%AF%23" target="weibo">
 收花生找到姥姥丢了12年的金镯（热度：629586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5%E7%9A%84%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD%E4%BB%B7%E5%80%BC4%E4%B8%87%23" target="weibo">
+公司奖励员工的黄金键帽价值4万（热度：628971）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%B5%E8%AF%9D%E5%BE%97%E7%9F%A5%E8%BD%A6%E8%A2%AB%E7%8B%97%E5%95%83%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%AF%88%E9%AA%97%23" target="weibo">
 女子电话得知车被狗啃以为是诈骗（热度：520344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%8D%81%E6%96%A4%E5%B0%B1%E6%98%AF%E6%8E%89%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E8%82%89%23" target="weibo">
-减肥十斤就是掉了这么多肉（热度：520015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%B8%A6%E8%80%81%E5%A9%86%E4%B8%8A%E6%B5%B7%E7%9C%8B%E6%88%BF%23" target="weibo">
-胡歌带老婆上海看房（热度：519856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86%23" target="weibo">
-西安城墙已变成巨型生态缸了（热度：519351）
 </a>
 </li>
 
