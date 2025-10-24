@@ -1,0 +1,410 @@
+{
+  "runTime": 1761311290960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 815641,
+        "num": 1130502,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571300,
+        "num": 571300,
+        "word": "TES抽中BLG",
+        "onboard_time": 1761307942,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3744,
+        "num": 527785,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511030,
+        "num": 511030,
+        "word": "罗云熙水龙吟太瘦了",
+        "onboard_time": 1761307221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295908,
+        "num": 295908,
+        "word": "S15瑞士轮第五轮抽签",
+        "onboard_time": 1761304281,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256756,
+        "num": 256756,
+        "word": "15万元被当垃圾扔了",
+        "onboard_time": 1761304760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503566,
+        "num": 254504,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296860,
+        "num": 252948,
+        "word": "再见爱人史上最听话男嘉宾",
+        "onboard_time": 1761308842,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247785,
+        "num": 247785,
+        "word": "男子教女儿游泳时跳水致死",
+        "onboard_time": 1761308061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185825,
+        "num": 247698,
+        "word": "一诺云诺千山就是强",
+        "onboard_time": 1761310702,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1119658,
+        "num": 246527,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288713,
+        "num": 245144,
+        "word": "况盛发布声明",
+        "onboard_time": 1761310580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017837,
+        "num": 243602,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300759,
+        "num": 242254,
+        "word": "张柏芝自曝爷爷奶奶是聋哑人",
+        "onboard_time": 1761306921,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516874,
+        "num": 241321,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338624,
+        "num": 240377,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153986,
+        "num": 239081,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39960,
+        "num": 238430,
+        "word": "陈震称中国辅助驾驶无需对标国外",
+        "onboard_time": 1761308541,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 277234,
+        "num": 237301,
+        "word": "鹿晗香港演唱会",
+        "onboard_time": 1761309622,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44197,
+        "num": 236370,
+        "word": "黄磊说给戏剧人送保险很实在",
+        "onboard_time": 1761309261,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482456,
+        "num": 234427,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326467,
+        "num": 233233,
+        "word": "刘涛神图有了",
+        "onboard_time": 1761303860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164472,
+        "num": 232693,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281011,
+        "num": 231279,
+        "word": "杨振宁病危时神智非常清楚",
+        "onboard_time": 1761298161,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267032,
+        "num": 229902,
+        "word": "张柏芝 大儿子管我管得很凶",
+        "onboard_time": 1761308421,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259532,
+        "num": 229312,
+        "word": "结婚三金逼近10万长辈称不如折现",
+        "onboard_time": 1761300021,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 252650,
+        "num": 228197,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452395,
+        "num": 226680,
+        "word": "美总统或禁止中国用正版美软件",
+        "onboard_time": 1761308902,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188168,
+        "num": 225657,
+        "word": "金价又大涨了",
+        "onboard_time": 1761306441,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225381,
+        "num": 225381,
+        "word": "双十一 退货潮",
+        "onboard_time": 1761303322,
+        "rank": 29,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 207851,
+        "num": 207851,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 187503,
+        "word": "星品",
+        "onboard_time": 1761306981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187172,
+        "num": 187172,
+        "word": "温峥嵘第一次见肖战的时候脸红了",
+        "onboard_time": 1761308301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181855,
+        "num": 181855,
+        "word": "周深被中国唱将选手简历惊出表情包",
+        "onboard_time": 1761309983,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163075,
+        "num": 163075,
+        "word": "马君妍怀孕三个月做NT检查",
+        "onboard_time": 1761310223,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159979,
+        "num": 159979,
+        "word": "郭富城一家五口去景区只用买一张票",
+        "onboard_time": 1761305540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154639,
+        "num": 154639,
+        "word": "丈夫听错妻子的话扔了15万",
+        "onboard_time": 1761308662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152338,
+        "num": 152338,
+        "word": "多方回应男子浅区跳水颈椎断裂死亡",
+        "onboard_time": 1761310640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79842,
+        "num": 150168,
+        "word": "原来刘晓庆是宁静的恩师",
+        "onboard_time": 1761310342,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40444,
+        "num": 149975,
+        "word": "寿司店广告酷似大黄牙被吐槽",
+        "onboard_time": 1761310100,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149815,
+        "num": 149815,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1761309801,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148492,
+        "num": 148492,
+        "word": "兮夜抽签",
+        "onboard_time": 1761308902,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141360,
+        "num": 141360,
+        "word": "音乐缘计划",
+        "onboard_time": 1761310940,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 140457,
+        "word": "水龙吟特效",
+        "onboard_time": 1761304880,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139307,
+        "num": 139307,
+        "word": "邱莹莹我开始理解你了",
+        "onboard_time": 1761308421,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124921,
+        "num": 124921,
+        "word": "高三男生被邻居撞伤致死母亲发声",
+        "onboard_time": 1761304880,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "LPL只有两队晋级八强",
+        "onboard_time": 1761311004,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120194,
+        "num": 120194,
+        "word": "国台办谈设立台湾光复纪念日",
+        "onboard_time": 1761310522,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116978,
+        "num": 116978,
+        "word": "宝格丽CEO给刘亦菲带的词条",
+        "onboard_time": 1761303200,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116459,
+        "num": 116459,
+        "word": "钟意 别送了",
+        "onboard_time": 1761307762,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}

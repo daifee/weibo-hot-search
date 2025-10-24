@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 20:54:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 21:08:10
 </p>
 </blockquote>
 <p>
@@ -1881,6 +1881,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BA%AB%E4%BA%A1%E5%AE%B6%E9%95%BF%E6%8C%87%E6%8E%A7%E7%8F%8D%E7%8F%A0%E5%B0%BA%E5%AF%B8%E8%BF%87%E5%A4%A7%23" target="weibo">
+男童喝奶茶身亡家长指控珍珠尺寸过大（热度：1017837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%9C%8B%E5%AE%8C%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 蒋欣经纪人看完天塌了（热度：1015104）
 </a>
@@ -3185,12 +3191,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A3%B8%E4%BD%93%E9%9B%95%E5%A1%91%E7%9C%8B%E4%BA%86%E5%A4%AA%E5%B0%B4%E5%B0%AC%23" target="weibo">
 山西一公园裸体雕塑看了太尴尬（热度：785817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%96%9D%E5%A5%B6%E8%8C%B6%E8%BA%AB%E4%BA%A1%E5%AE%B6%E9%95%BF%E6%8C%87%E6%8E%A7%E7%8F%8D%E7%8F%A0%E5%B0%BA%E5%AF%B8%E8%BF%87%E5%A4%A7%23" target="weibo">
-男童喝奶茶身亡家长指控珍珠尺寸过大（热度：785801）
 </a>
 </li>
 
