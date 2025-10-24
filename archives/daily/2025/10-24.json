@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761311290960,
+  "endTime": 1761313019377,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1249213,
-      "num": 246527,
+      "num": 252900,
       "word": "宁静儿子因掉水里先救妈妈被分手",
       "onboard_time": 1761306261,
       "rank": 6,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1017837,
-      "num": 243602,
+      "num": 262419,
       "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
       "onboard_time": 1761305720,
       "rank": 31,
@@ -105,6 +105,14 @@
       "onboard_time": 1761291261,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 937378,
+      "num": 264881,
+      "word": "况盛发布声明",
+      "onboard_time": 1761310580,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 858595,
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 710392,
+      "num": 511030,
+      "word": "罗云熙水龙吟太瘦了",
+      "onboard_time": 1761307221,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 681833,
       "num": 681833,
       "word": "苹果彻查iPhone17Pro褪色",
@@ -251,8 +267,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647395,
+      "num": 264357,
+      "word": "郑恺苗苗真没把我们当外人",
+      "onboard_time": 1761310702,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 647318,
-      "num": 241321,
+      "num": 261887,
       "word": "杨紫被路人认出只用了0.01s",
       "onboard_time": 1761305600,
       "rank": 38,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 528750,
-      "num": 240377,
+      "num": 258606,
       "word": "男子离婚后带7个娃全网道歉求复合",
       "onboard_time": 1761304699,
       "rank": 13,
@@ -337,14 +361,6 @@
       "onboard_time": 1761230662,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 511030,
-      "num": 511030,
-      "word": "罗云熙水龙吟太瘦了",
-      "onboard_time": 1761307221,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 510726,
@@ -531,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 369101,
+      "num": 260124,
+      "word": "男子教女儿游泳时跳水致死",
+      "onboard_time": 1761308061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367563,
       "num": 367563,
       "word": "安世中国声明荷兰总部决定在中国无效",
@@ -556,11 +580,19 @@
     },
     {
       "raw_hot": 356521,
-      "num": 233233,
+      "num": 243516,
       "word": "刘涛神图有了",
       "onboard_time": 1761303860,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348939,
+      "num": 260944,
+      "word": "员工脚痛请假因步数超1.6万被开除",
+      "onboard_time": 1761310100,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342814,
@@ -643,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328636,
+      "num": 260474,
+      "word": "张柏芝 大儿子管我管得很凶",
+      "onboard_time": 1761308421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327580,
       "num": 327580,
       "word": "普京宣布提高全日制女学生孕产津贴",
@@ -657,6 +697,14 @@
       "onboard_time": 1761272780,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 319107,
+      "num": 259446,
+      "word": "再见爱人史上最听话男嘉宾",
+      "onboard_time": 1761308842,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 306981,
@@ -675,20 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296860,
-      "num": 252948,
-      "word": "再见爱人史上最听话男嘉宾",
-      "onboard_time": 1761308842,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 288713,
-      "num": 245144,
-      "word": "况盛发布声明",
-      "onboard_time": 1761310580,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 299005,
+      "num": 258776,
+      "word": "鹿晗香港演唱会",
+      "onboard_time": 1761309622,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 288290,
@@ -705,14 +745,6 @@
       "onboard_time": 1761277641,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 277234,
-      "num": 237301,
-      "word": "鹿晗香港演唱会",
-      "onboard_time": 1761309622,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 277135,
@@ -771,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267032,
-      "num": 229902,
-      "word": "张柏芝 大儿子管我管得很凶",
-      "onboard_time": 1761308421,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 265804,
+      "num": 265804,
+      "word": "15万元被当垃圾扔了",
+      "onboard_time": 1761304760,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262933,
@@ -784,14 +816,6 @@
       "word": "花西子一产品被指虚假广告宣传",
       "onboard_time": 1761265341,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256756,
-      "num": 256756,
-      "word": "15万元被当垃圾扔了",
-      "onboard_time": 1761304760,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -803,20 +827,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 247785,
-      "num": 247785,
-      "word": "男子教女儿游泳时跳水致死",
-      "onboard_time": 1761308061,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241910,
       "num": 185122,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
       "onboard_time": 1761230124,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239324,
+      "num": 239324,
+      "word": "星品",
+      "onboard_time": 1761306981,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 236725,
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227581,
+      "num": 227581,
+      "word": "关晓彤过了28岁聪明好多",
+      "onboard_time": 1761311302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223762,
       "num": 223762,
       "word": "花西子下架陷苏丹红争议底霜",
@@ -881,6 +913,14 @@
       "onboard_time": 1761222263,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220193,
+      "num": 220193,
+      "word": "丈夫听错妻子的话扔了15万",
+      "onboard_time": 1761308662,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218999,
@@ -915,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207851,
-      "num": 207851,
-      "word": "郑恺苗苗真没把我们当外人",
-      "onboard_time": 1761310702,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206784,
       "num": 155070,
       "word": "女子带宠物蛙就餐被店员误认是食材",
@@ -945,6 +977,14 @@
       "onboard_time": 1761283280,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201511,
+      "num": 225657,
+      "word": "金价又大涨了",
+      "onboard_time": 1761306441,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 200797,
@@ -977,6 +1017,14 @@
       "onboard_time": 1761274821,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "温峥嵘第一次见肖战的时候脸红了",
+      "onboard_time": 1761308301,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 196813,
@@ -1067,36 +1115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189323,
-      "num": 225657,
-      "word": "金价又大涨了",
-      "onboard_time": 1761306441,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 188760,
       "num": 170121,
       "word": "罗云熙谢谢都灵",
       "onboard_time": 1761287300,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187503,
-      "num": 187503,
-      "word": "星品",
-      "onboard_time": 1761306981,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187172,
-      "num": 187172,
-      "word": "温峥嵘第一次见肖战的时候脸红了",
-      "onboard_time": 1761308301,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 186755,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1761279922,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183632,
+      "num": 183632,
+      "word": "马君妍怀孕三个月做NT检查",
+      "onboard_time": 1761310223,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 183608,
@@ -1276,7 +1308,7 @@
     },
     {
       "raw_hot": 167724,
-      "num": 167724,
+      "num": 262891,
       "word": "兮夜抽签",
       "onboard_time": 1761308902,
       "rank": 33,
@@ -1315,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165490,
+      "num": 165490,
+      "word": "科学家称外星人或已懒得理我们",
+      "onboard_time": 1761312441,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165252,
       "num": 165252,
       "word": "陈闲被新加坡国立大学录取",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1761294501,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 163075,
-      "num": 163075,
-      "word": "马君妍怀孕三个月做NT检查",
-      "onboard_time": 1761310223,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 162429,
@@ -1451,28 +1483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154639,
-      "num": 154639,
-      "word": "丈夫听错妻子的话扔了15万",
-      "onboard_time": 1761308662,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154403,
       "num": 154403,
       "word": "邱莹莹我开始理解你了",
       "onboard_time": 1761308421,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153986,
-      "num": 239081,
-      "word": "员工脚痛请假因步数超1.6万被开除",
-      "onboard_time": 1761310100,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152612,
@@ -1484,7 +1500,7 @@
     },
     {
       "raw_hot": 152338,
-      "num": 152338,
+      "num": 263251,
       "word": "多方回应男子浅区跳水颈椎断裂死亡",
       "onboard_time": 1761310640,
       "rank": 37,
@@ -1771,6 +1787,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 131945,
+      "num": 131945,
+      "word": "2025IVL秋季赛",
+      "onboard_time": 1761312862,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131873,
       "num": 172296,
       "word": "喜人奇妙夜 票数",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1761285141,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129409,
+      "num": 129409,
+      "word": "兮夜 人已经灵魂出窍",
+      "onboard_time": 1761312862,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 129405,
@@ -1907,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124170,
+      "num": 124170,
+      "word": "祖国大陆离台湾最近的距离",
+      "onboard_time": 1761312562,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123976,
       "num": 123976,
       "word": "罗大美家属回应判决",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1761280881,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122357,
+      "num": 122357,
+      "word": "演员杨怡为离世爱犬举办告别仪式",
+      "onboard_time": 1761312740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122174,
@@ -2043,12 +2091,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118390,
+      "num": 118390,
+      "word": "暗河传兄弟俩一夜继承百公斤黄金",
+      "onboard_time": 1761312624,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117837,
       "num": 117837,
       "word": "成年人的慢性便秘被猕猴桃救了",
       "onboard_time": 1761294440,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117677,
+      "num": 113640,
+      "word": "一枝南南看见刘亦菲眼睛都瞪大了",
+      "onboard_time": 1761311361,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 117605,
@@ -2395,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101369,
+      "num": 101369,
+      "word": "黄金急跌近2%",
+      "onboard_time": 1761309382,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101166,
       "num": 144078,
       "word": "允许偷的甘蔗地已收款6000元",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1761302779,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99744,
+      "num": 99744,
+      "word": "苏醒获奖感言",
+      "onboard_time": 1761311663,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99213,
@@ -3043,6 +3123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 54095,
+      "num": 245116,
+      "word": "陈震称中国辅助驾驶无需对标国外",
+      "onboard_time": 1761308541,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53997,
       "num": 117389,
       "word": "洪延明世锦赛鞍马金牌",
@@ -3172,7 +3260,7 @@
     },
     {
       "raw_hot": 47369,
-      "num": 236370,
+      "num": 257969,
       "word": "黄磊说给戏剧人送保险很实在",
       "onboard_time": 1761309261,
       "rank": 17,
@@ -3185,14 +3273,6 @@
       "onboard_time": 1761286041,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 44835,
-      "num": 238430,
-      "word": "陈震称中国辅助驾驶无需对标国外",
-      "onboard_time": 1761308541,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 43440,
@@ -3257,6 +3337,14 @@
       "onboard_time": 1761212301,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38977,
+      "num": 129504,
+      "word": "情侣争吵女方自杀男方被判无罪",
+      "onboard_time": 1761312984,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38549,

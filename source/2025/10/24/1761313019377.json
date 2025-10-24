@@ -1,0 +1,410 @@
+{
+  "runTime": 1761313019377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 827503,
+        "num": 1132400,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440120,
+        "num": 440120,
+        "word": "TES抽中BLG",
+        "onboard_time": 1761307942,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4892,
+        "num": 265909,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265804,
+        "num": 265804,
+        "word": "15万元被当垃圾扔了",
+        "onboard_time": 1761304760,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177714,
+        "num": 265555,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 937378,
+        "num": 264881,
+        "word": "况盛发布声明",
+        "onboard_time": 1761310580,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647395,
+        "num": 264357,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606958,
+        "num": 264093,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115346,
+        "num": 263251,
+        "word": "多方回应男子浅区跳水颈椎断裂死亡",
+        "onboard_time": 1761310640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94605,
+        "num": 262891,
+        "word": "兮夜抽签",
+        "onboard_time": 1761308902,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1009827,
+        "num": 262419,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474249,
+        "num": 261887,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710392,
+        "num": 261336,
+        "word": "罗云熙水龙吟太瘦了",
+        "onboard_time": 1761307221,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348939,
+        "num": 260944,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328636,
+        "num": 260474,
+        "word": "张柏芝 大儿子管我管得很凶",
+        "onboard_time": 1761308421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369101,
+        "num": 260124,
+        "word": "男子教女儿游泳时跳水致死",
+        "onboard_time": 1761308061,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319107,
+        "num": 259446,
+        "word": "再见爱人史上最听话男嘉宾",
+        "onboard_time": 1761308842,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299005,
+        "num": 258776,
+        "word": "鹿晗香港演唱会",
+        "onboard_time": 1761309622,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258606,
+        "num": 258606,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29316,
+        "num": 257969,
+        "word": "黄磊说给戏剧人送保险很实在",
+        "onboard_time": 1761309261,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1040472,
+        "num": 252900,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507573,
+        "num": 247691,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54095,
+        "num": 245116,
+        "word": "陈震称中国辅助驾驶无需对标国外",
+        "onboard_time": 1761308541,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243516,
+        "num": 243516,
+        "word": "刘涛神图有了",
+        "onboard_time": 1761303860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239324,
+        "num": 239324,
+        "word": "星品",
+        "onboard_time": 1761306981,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237599,
+        "num": 237599,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227581,
+        "num": 227581,
+        "word": "关晓彤过了28岁聪明好多",
+        "onboard_time": 1761311302,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220193,
+        "num": 220193,
+        "word": "丈夫听错妻子的话扔了15万",
+        "onboard_time": 1761308662,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198228,
+        "num": 198228,
+        "word": "温峥嵘第一次见肖战的时候脸红了",
+        "onboard_time": 1761308301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201511,
+        "num": 191945,
+        "word": "金价又大涨了",
+        "onboard_time": 1761306441,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184176,
+        "num": 184176,
+        "word": "张柏芝自曝爷爷奶奶是聋哑人",
+        "onboard_time": 1761306921,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184005,
+        "num": 184005,
+        "word": "杨振宁病危时神智非常清楚",
+        "onboard_time": 1761298161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183632,
+        "num": 183632,
+        "word": "马君妍怀孕三个月做NT检查",
+        "onboard_time": 1761310223,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165490,
+        "num": 165490,
+        "word": "科学家称外星人或已懒得理我们",
+        "onboard_time": 1761312441,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145173,
+        "num": 145173,
+        "word": "双十一 退货潮",
+        "onboard_time": 1761303322,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 142701,
+        "num": 142701,
+        "word": "结婚三金逼近10万长辈称不如折现",
+        "onboard_time": 1761300021,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 141738,
+        "num": 141738,
+        "word": "郭富城一家五口去景区只用买一张票",
+        "onboard_time": 1761305540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 131945,
+        "word": "2025IVL秋季赛",
+        "onboard_time": 1761312862,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129939,
+        "num": 129939,
+        "word": "邱莹莹我开始理解你了",
+        "onboard_time": 1761308421,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38977,
+        "num": 129504,
+        "word": "情侣争吵女方自杀男方被判无罪",
+        "onboard_time": 1761312984,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "兮夜 人已经灵魂出窍",
+        "onboard_time": 1761312862,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124170,
+        "num": 124170,
+        "word": "祖国大陆离台湾最近的距离",
+        "onboard_time": 1761312562,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122357,
+        "num": 122357,
+        "word": "演员杨怡为离世爱犬举办告别仪式",
+        "onboard_time": 1761312740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118390,
+        "num": 118390,
+        "word": "暗河传兄弟俩一夜继承百公斤黄金",
+        "onboard_time": 1761312624,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115453,
+        "num": 115453,
+        "word": "水龙吟特效",
+        "onboard_time": 1761304880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117677,
+        "num": 113640,
+        "word": "一枝南南看见刘亦菲眼睛都瞪大了",
+        "onboard_time": 1761311361,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101369,
+        "num": 101369,
+        "word": "黄金急跌近2%",
+        "onboard_time": 1761309382,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100063,
+        "num": 100063,
+        "word": "白鹿粉发白裙",
+        "onboard_time": 1761292820,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99744,
+        "num": 99744,
+        "word": "苏醒获奖感言",
+        "onboard_time": 1761311663,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88274,
+        "num": 99111,
+        "word": "金博洋短节目86.62分",
+        "onboard_time": 1761309382,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}
