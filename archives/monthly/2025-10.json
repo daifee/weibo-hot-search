@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761330907862,
+  "endTime": 1761331671945,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -75659,6 +75659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 41519,
+      "num": 41518,
+      "word": "台湾重回中国版图80年了",
+      "onboard_time": 1761331635,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41476,
       "num": 100657,
       "word": "孟子义雨中戏",
@@ -79233,6 +79241,14 @@
       "onboard_time": 1760538804,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20663,
+      "num": 30357,
+      "word": "张峻豪音综首演舞台大丈夫",
+      "onboard_time": 1761330795,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 20606,
