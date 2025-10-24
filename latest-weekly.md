@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/25 06:41:41
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/25 07:23:27
 </p>
 </blockquote>
 <p>
@@ -2973,6 +2973,12 @@ Doinb回应小天（热度：296672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86%23" target="weibo">
+台湾重回中国版图80年了（热度：286543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%BB%9F%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%99%8D%E8%90%BD%E6%97%B6%E5%81%9C%E6%9C%BA%E5%9D%AA%E5%A1%8C%E9%99%B7%23" target="weibo">
 印度总统直升机降落时停机坪塌陷（热度：285961）
 </a>
@@ -3083,6 +3089,12 @@ Ning说GEN是故意输AL（热度：285716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A4%E6%89%BE%E8%B4%BE%E7%8E%B2%E8%A6%81%E7%9A%84%E5%87%8F%E8%82%A5%E9%A3%9F%E8%B0%B1%E5%90%83%E7%98%A6%E4%BA%8630%E6%96%A4%23" target="weibo">
 吴彤找贾玲要的减肥食谱吃瘦了30斤（热度：273486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%943%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%99%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
+多方回应3岁幼童喝珍珠奶茶被噎身亡（热度：273209）
 </a>
 </li>
 
@@ -3377,12 +3389,6 @@ HLE战胜CFO（热度：260374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E5%86%85%E6%96%97%E4%BC%A0%E9%97%BB%23" target="weibo">
 支付宝回应内斗传闻（热度：245910）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%943%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%99%8E%E8%BA%AB%E4%BA%A1%23" target="weibo">
-多方回应3岁幼童喝珍珠奶茶被噎身亡（热度：245516）
 </a>
 </li>
 
@@ -3845,6 +3851,12 @@ Karsa挥手告别（热度：219666）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E7%BD%9A%E6%AC%BE%E8%B5%B5%E6%A2%A6%E6%BE%88100%E4%B8%87%23" target="weibo">
 辛巴罚款赵梦澈100万（热度：209154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E5%86%8D%E8%A7%81%E6%9C%80%E5%BF%AB%E7%9A%84%E7%88%B1%E4%BA%BA%23" target="weibo">
+有史以来再见最快的爱人（热度：208794）
 </a>
 </li>
 
@@ -5421,12 +5433,6 @@ KPL（热度：164415）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86%23" target="weibo">
-台湾重回中国版图80年了（热度：164341）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E5%BF%AB%E8%BD%A6%E9%81%93%E5%81%9C%E8%BD%A6%E9%80%BC%E5%81%9C%E5%A4%A7%E9%87%8F%E8%BD%A6%23" target="weibo">
 司机高速快车道停车逼停大量车（热度：164294）
 </a>
@@ -6347,6 +6353,12 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23milkyway%E8%A2%AB%E6%9B%9D%E7%A7%81%E8%81%94%E7%B2%89%E4%B8%9D%23" target="weibo">
 milkyway被曝私联粉丝（热度：144362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%90%91%E5%BC%A0%E6%9F%8F%E8%8A%9D%E9%81%93%E6%AD%89%23" target="weibo">
+何赛飞向张柏芝道歉（热度：144353）
 </a>
 </li>
 
@@ -9987,6 +9999,12 @@ C罗世界波破门（热度：101454）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%89%93%E9%80%A0%E4%BA%9A%E6%9C%B5%E7%97%85%E6%88%BF%E8%A2%AB%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E8%B5%B7%E8%AF%89%23" target="weibo">
+医院打造亚朵病房被亚朵酒店起诉（热度：98358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BB%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E8%8A%82%E7%9B%AE%E5%89%A7%E6%83%85%E4%BA%89%E8%AE%AE%23" target="weibo">
 王建华回应节目剧情争议（热度：98163）
 </a>
@@ -12111,6 +12129,12 @@ LGDNBW年总遗憾淘汰（热度：79423）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E6%AC%BE%E6%9C%8D%E5%8A%A1%23" target="weibo">
+多平台已取消仅退款服务（热度：78974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%B0%81%E6%B6%A8%E5%81%9C%23" target="weibo">
 闻泰科技封涨停（热度：78948）
 </a>
@@ -12467,12 +12491,6 @@ chiikawa特别动画（热度：75795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%A4%B8%E5%85%8BC%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%E5%AF%B9%E6%A0%87%E8%B1%86%E5%8C%85%23" target="weibo">
 阿里夸克C计划曝光对标豆包（热度：75740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%89%93%E9%80%A0%E4%BA%9A%E6%9C%B5%E7%97%85%E6%88%BF%E8%A2%AB%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E8%B5%B7%E8%AF%89%23" target="weibo">
-医院打造亚朵病房被亚朵酒店起诉（热度：75721）
 </a>
 </li>
 
@@ -13479,6 +13497,12 @@ iQOO15哪哪儿都不基础（热度：60535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E4%B8%87%E5%A4%9A%E8%A1%A3%E6%9C%8D%E8%A2%AB88%E5%B2%81%E8%80%81%E4%BA%BA9%E5%9D%97%E5%8D%96%E4%BA%86%23" target="weibo">
+1万多衣服被88岁老人9块卖了（热度：60152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%23" target="weibo">
 金价连续两天下跌原因（热度：59997）
 </a>
@@ -13941,6 +13965,12 @@ Zeus说要复仇AL（热度：54338）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NBA%E7%90%83%E6%98%9F%E9%9D%9E%E6%B3%95%E8%B5%8C%E5%8D%9A%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BA%BA%E6%9E%AA%E8%A2%AB%E8%B0%83%E6%9F%A5%23" target="weibo">
+NBA球星非法赌博詹姆斯躺枪被调查（热度：50959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E7%83%AC%E4%B8%AD%E6%8B%BE%E8%96%AA%E7%87%8E%E5%8E%9F%E5%86%8D%E7%87%83%23" target="weibo">
 TES烬中拾薪燎原再燃（热度：50792）
 </a>
@@ -14255,6 +14285,12 @@ CFO对战HLE（热度：46844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E8%B5%B7%E5%89%91%E6%8A%A4%E4%BD%A0%E6%94%BE%E4%B8%8B%E5%89%91%E7%88%B1%E4%BD%A0%23" target="weibo">
 拿起剑护你放下剑爱你（热度：43316）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%87%8D%E8%A6%81%E9%82%BB%E5%9B%BD%23" target="weibo">
+高市早苗称中国是重要邻国（热度：43307）
 </a>
 </li>
 
@@ -14823,12 +14859,6 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%87%8D%E8%A6%81%E9%82%BB%E5%9B%BD%23" target="weibo">
-高市早苗称中国是重要邻国（热度：27382）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E8%87%AA%E7%94%B1%E6%93%8D%E7%A8%B3%E5%AE%9A%E5%8F%91%E6%8C%A5%23" target="weibo">
 张博恒自由操稳定发挥（热度：27299）
 </a>
@@ -15095,12 +15125,6 @@ VKS辅助说BLG选手太强了（热度：26420）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%20%E7%9C%A0%E6%81%AF%E6%B3%95%23" target="weibo">
 暗河传 眠息法（热度：20602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E5%86%8D%E8%A7%81%E6%9C%80%E5%BF%AB%E7%9A%84%E7%88%B1%E4%BA%BA%23" target="weibo">
-有史以来再见最快的爱人（热度：20397）
 </a>
 </li>
 

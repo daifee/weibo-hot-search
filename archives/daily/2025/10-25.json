@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761345701853,
+  "endTime": 1761348207448,
   "band_list": [
     {
       "raw_hot": 1427830,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286543,
+      "num": 754249,
+      "word": "台湾重回中国版图80年了",
+      "onboard_time": 1761331635,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 273209,
+      "num": 157497,
+      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+      "onboard_time": 1761315862,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251387,
       "num": 213791,
       "word": "水龙吟",
@@ -81,14 +97,6 @@
       "onboard_time": 1761306261,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245516,
-      "num": 157497,
-      "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
-      "onboard_time": 1761315862,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239106,
@@ -107,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232570,
+      "num": 115415,
+      "word": "男子离婚后带7个娃全网道歉求复合",
+      "onboard_time": 1761304699,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
       "onboard_time": 1761300501,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208794,
+      "num": 77288,
+      "word": "有史以来再见最快的爱人",
+      "onboard_time": 1761345255,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 205441,
@@ -147,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164341,
-      "num": 476311,
-      "word": "台湾重回中国版图80年了",
-      "onboard_time": 1761331635,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 164191,
       "num": 155381,
       "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
@@ -177,6 +193,14 @@
       "onboard_time": 1761310100,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144353,
+      "num": 58312,
+      "word": "何赛飞向张柏芝道歉",
+      "onboard_time": 1761348138,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 143073,
@@ -219,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124641,
-      "num": 115415,
-      "word": "男子离婚后带7个娃全网道歉求复合",
-      "onboard_time": 1761304699,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 116718,
+      "num": 116718,
+      "word": "邱莹莹我开始理解你了",
+      "onboard_time": 1761308421,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 115466,
@@ -267,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 98358,
+      "num": 98358,
+      "word": "医院打造亚朵病房被亚朵酒店起诉",
+      "onboard_time": 1761310940,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97933,
       "num": 96600,
       "word": "淘宝限时补贴等优惠突停致大量退货",
@@ -307,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93852,
-      "num": 81633,
-      "word": "邱莹莹我开始理解你了",
-      "onboard_time": 1761308421,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "男子教女儿游泳时跳水致死",
@@ -347,12 +371,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83627,
+      "num": 83627,
+      "word": "特朗普对以色列放出迄今最明确警告",
+      "onboard_time": 1761319402,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82652,
       "num": 82652,
       "word": "胜利属于每个中国人",
       "onboard_time": 1761323000,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78974,
+      "num": 58309,
+      "word": "多平台已取消仅退款服务",
+      "onboard_time": 1761348077,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 78063,
@@ -377,14 +417,6 @@
       "onboard_time": 1761317841,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74602,
-      "num": 81382,
-      "word": "特朗普对以色列放出迄今最明确警告",
-      "onboard_time": 1761319402,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74144,
@@ -459,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 60152,
+      "num": 58291,
+      "word": "1万多衣服被88岁老人9块卖了",
+      "onboard_time": 1761347238,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
@@ -473,6 +513,14 @@
       "onboard_time": 1761326297,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50959,
+      "num": 58289,
+      "word": "NBA球星非法赌博詹姆斯躺枪被调查",
+      "onboard_time": 1761347177,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 44578,
@@ -491,12 +539,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 43524,
-      "num": 81448,
-      "word": "医院打造亚朵病房被亚朵酒店起诉",
-      "onboard_time": 1761310940,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 43307,
+      "num": 58298,
+      "word": "高市早苗称中国是重要邻国",
+      "onboard_time": 1761317303,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42262,
+      "num": 58298,
+      "word": "再见爱人史上最听话男嘉宾",
+      "onboard_time": 1761308842,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 39717,
@@ -513,14 +569,6 @@
       "onboard_time": 1761327496,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27382,
-      "num": 33305,
-      "word": "高市早苗称中国是重要邻国",
-      "onboard_time": 1761317303,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26531,
@@ -568,14 +616,6 @@
       "word": "张峻豪音综首演舞台大丈夫",
       "onboard_time": 1761330795,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 20397,
-      "num": 25204,
-      "word": "有史以来再见最快的爱人",
-      "onboard_time": 1761345255,
-      "rank": 42,
       "category": "综艺"
     },
     {
