@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761294848872,
+  "endTime": 1761295638788,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -59,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 911260,
+      "raw_hot": 951071,
       "num": 208959,
       "word": "大闸蟹钻进车内消失2年后被取出",
       "onboard_time": 1761291261,
@@ -107,20 +107,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 765420,
+      "num": 206347,
+      "word": "微信状态 新时代朋友圈",
+      "onboard_time": 1761291559,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 737112,
+      "num": 1112633,
+      "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+      "onboard_time": 1761291320,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 730312,
       "num": 289078,
       "word": "刘亦菲夸马思纯漂亮",
       "onboard_time": 1761274101,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 703957,
-      "num": 1112633,
-      "word": "马龙妻子夏露忙里偷闲跳个黑怕",
-      "onboard_time": 1761291320,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 681833,
@@ -195,7 +203,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 524185,
+      "raw_hot": 524732,
       "num": 654572,
       "word": "邓莎一个人再见什么爱人",
       "onboard_time": 1761283342,
@@ -235,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473891,
-      "num": 206347,
-      "word": "微信状态 新时代朋友圈",
-      "onboard_time": 1761291559,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 465062,
       "num": 384585,
       "word": "吃外卖和不吃外卖都沉默了",
@@ -257,6 +257,14 @@
       "onboard_time": 1761281603,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456675,
+      "num": 205096,
+      "word": "白鹿粉发白裙",
+      "onboard_time": 1761292820,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 451620,
@@ -299,20 +307,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 409406,
-      "num": 205096,
-      "word": "白鹿粉发白裙",
-      "onboard_time": 1761292820,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 406512,
       "num": 185646,
       "word": "钓鱼博主袁小小去世",
       "onboard_time": 1761260837,
       "rank": 14,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 398846,
+      "num": 1063815,
+      "word": "VOGUE",
+      "onboard_time": 1761289701,
+      "rank": 1,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 395569,
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375485,
+      "num": 226042,
+      "word": "空枪 檀健次",
+      "onboard_time": 1761294021,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372051,
       "num": 372051,
       "word": "缅甸军方突袭KK园区",
@@ -361,6 +377,14 @@
       "onboard_time": 1761279020,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366822,
+      "num": 366822,
+      "word": "国考系统崩了",
+      "onboard_time": 1761293421,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 366046,
@@ -379,12 +403,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 342480,
-      "num": 1029964,
-      "word": "VOGUE",
-      "onboard_time": 1761289701,
-      "rank": 1,
-      "category": "时尚,作品衍生"
+      "raw_hot": 342245,
+      "num": 342245,
+      "word": "孙颖莎王楚钦又有新称号了",
+      "onboard_time": 1761291261,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 342097,
@@ -451,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305661,
-      "num": 305661,
-      "word": "孙颖莎王楚钦又有新称号了",
-      "onboard_time": 1761291261,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 290963,
+      "num": 230413,
+      "word": "朱一龙官宣主演电影空枪",
+      "onboard_time": 1761290300,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 288290,
@@ -531,14 +555,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 246196,
-      "num": 246196,
-      "word": "国考系统崩了",
-      "onboard_time": 1761293421,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 241910,
       "num": 185122,
       "word": "4人吃饭饮酒1人死亡先离开2人无责",
@@ -555,20 +571,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235684,
+      "num": 235684,
+      "word": "男童喝珍珠奶茶窒息身亡家长发声",
+      "onboard_time": 1761294081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231518,
       "num": 231518,
       "word": "戚薇的裙子居然是真花",
       "onboard_time": 1761226223,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 230413,
-      "num": 230413,
-      "word": "朱一龙官宣主演电影空枪",
-      "onboard_time": 1761290300,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 223762,
@@ -585,14 +601,6 @@
       "onboard_time": 1761261679,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 223321,
-      "num": 223321,
-      "word": "空枪 檀健次",
-      "onboard_time": 1761294021,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 221506,
@@ -641,6 +649,14 @@
       "onboard_time": 1761292700,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207173,
+      "num": 207173,
+      "word": "张晚意一声姐整懵马思纯李沁",
+      "onboard_time": 1761293300,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 206784,
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193441,
+      "num": 168114,
+      "word": "李雪琴陈铭为北大武大抢生源",
+      "onboard_time": 1761294921,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193113,
       "num": 193113,
       "word": "未定事件簿女仆装",
@@ -761,14 +785,6 @@
       "onboard_time": 1761287300,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187789,
-      "num": 187789,
-      "word": "男童喝珍珠奶茶窒息身亡家长发声",
-      "onboard_time": 1761294081,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186147,
@@ -811,20 +827,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178806,
+      "num": 191301,
+      "word": "出生6天婴儿住院期间不幸死亡",
+      "onboard_time": 1761292999,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178048,
       "num": 178048,
       "word": "勇士战胜掘金",
       "onboard_time": 1761282202,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177170,
-      "num": 191301,
-      "word": "出生6天婴儿住院期间不幸死亡",
-      "onboard_time": 1761292999,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176739,
@@ -841,6 +857,14 @@
       "onboard_time": 1761291021,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174871,
+      "num": 188063,
+      "word": "分手十年的情侣在大张伟演唱会偶遇",
+      "onboard_time": 1761290060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 173567,
@@ -875,20 +899,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 169254,
-      "num": 203151,
-      "word": "张晚意一声姐整懵马思纯李沁",
-      "onboard_time": 1761293300,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 167683,
-      "num": 188063,
-      "word": "分手十年的情侣在大张伟演唱会偶遇",
-      "onboard_time": 1761290060,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 167670,
+      "num": 167670,
+      "word": "BLG对战VKS",
+      "onboard_time": 1761292520,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 166711,
@@ -963,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161081,
+      "num": 171370,
+      "word": "王权富贵内娱人脉这一块",
+      "onboard_time": 1761294321,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158558,
       "num": 223901,
       "word": "中美可以找到解决彼此关切的办法",
@@ -1035,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151101,
+      "num": 151101,
+      "word": "金价大跌有人一次买了1斤黄金",
+      "onboard_time": 1761295342,
+      "rank": 32,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 150840,
       "num": 150840,
       "word": "18年前的今天嫦娥一号成功发射",
@@ -1059,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147211,
-      "num": 147211,
-      "word": "王权富贵内娱人脉这一块",
-      "onboard_time": 1761294321,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146734,
       "num": 146734,
       "word": "APEC第32次领导人非正式会议",
@@ -1075,12 +1099,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145812,
-      "num": 145812,
-      "word": "BLG对战VKS",
-      "onboard_time": 1761292520,
-      "rank": 40,
-      "category": "电竞"
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "0713再唱我最闪亮",
+      "onboard_time": 1761294681,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 144367,
@@ -1275,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129020,
+      "num": 129020,
+      "word": "BLG越塔",
+      "onboard_time": 1761295280,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128428,
       "num": 138749,
       "word": "未来10年再造一个中国高技术产业",
@@ -1379,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120313,
+      "num": 120313,
+      "word": "深圳公积金租房提取比例调整为80%",
+      "onboard_time": 1761295460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120295,
       "num": 120295,
       "word": "掘金vs勇士",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1761224363,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115065,
+      "num": 115065,
+      "word": "小鱼海棠婚礼嘉宾",
+      "onboard_time": 1761293961,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 114604,
@@ -1489,14 +1537,6 @@
       "onboard_time": 1761294561,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113140,
-      "num": 113140,
-      "word": "0713再唱我最闪亮",
-      "onboard_time": 1761294681,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 113081,
@@ -1571,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 107104,
-      "num": 107104,
-      "word": "小鱼海棠婚礼嘉宾",
-      "onboard_time": 1761293961,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 106172,
       "num": 106172,
       "word": "周深给杨幂唱爱的供养",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1761261438,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105448,
+      "num": 140702,
+      "word": "神21发射",
+      "onboard_time": 1761295400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104085,
@@ -1956,7 +1996,7 @@
     },
     {
       "raw_hot": 83592,
-      "num": 167202,
+      "num": 345522,
       "word": "优化就业社保等方面年龄限制政策",
       "onboard_time": 1761276200,
       "rank": 20,
@@ -2067,6 +2107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70074,
+      "num": 145840,
+      "word": "李在明在美国涉华表态",
+      "onboard_time": 1761294501,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69934,
       "num": 168528,
       "word": "张艺兴京东AI舞台",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1761213201,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 67410,
+      "num": 197889,
+      "word": "罗大美家属不认可对第三被告量刑",
+      "onboard_time": 1761294561,
+      "rank": 20,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 66086,
@@ -2129,14 +2185,6 @@
       "onboard_time": 1761233422,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63088,
-      "num": 197889,
-      "word": "罗大美家属不认可对第三被告量刑",
-      "onboard_time": 1761294561,
-      "rank": 20,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 61500,
@@ -2193,6 +2241,14 @@
       "onboard_time": 1761237739,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57515,
+      "num": 198732,
+      "word": "50年坚持一件事有多牛",
+      "onboard_time": 1761294081,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 56726,
@@ -2275,28 +2331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49624,
-      "num": 145840,
-      "word": "李在明在美国涉华表态",
-      "onboard_time": 1761294501,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49315,
       "num": 109483,
       "word": "提高人均预期寿命",
       "onboard_time": 1761275061,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 48982,
-      "num": 198732,
-      "word": "50年坚持一件事有多牛",
-      "onboard_time": 1761294081,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 48300,
@@ -2483,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25932,
+      "num": 146538,
+      "word": "12306可宠物托运车次显示宠字",
+      "onboard_time": 1761294021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25091,
       "num": 72380,
       "word": "韩梨泰院惨案与尹锡悦迁办公室有关",
@@ -2499,7 +2547,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 23902,
+      "raw_hot": 23943,
       "num": 200610,
       "word": "猫天天沉醉在周深的歌声里",
       "onboard_time": 1761292999,
@@ -2547,12 +2595,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 14268,
-      "num": 146538,
-      "word": "12306可宠物托运车次显示宠字",
-      "onboard_time": 1761294021,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 14894,
+      "num": 142945,
+      "word": "陈赫高瀚宇彭昱畅三个魔丸大闹乌镇",
+      "onboard_time": 1761295220,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 13942,
@@ -2585,6 +2633,9 @@
     },
     {
       "word": "#奋力开创中国式现代化建设新局面#"
+    },
+    {
+      "word": "#习近平主持党外人士座谈会#"
     }
   ]
 }

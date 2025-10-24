@@ -1,0 +1,410 @@
+{
+  "runTime": 1761295638788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398846,
+        "num": 1063815,
+        "word": "VOGUE",
+        "onboard_time": 1761289701,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 366822,
+        "num": 366822,
+        "word": "国考系统崩了",
+        "onboard_time": 1761293421,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12353,
+        "num": 345522,
+        "word": "优化就业社保等方面年龄限制政策",
+        "onboard_time": 1761276200,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342245,
+        "num": 342245,
+        "word": "孙颖莎王楚钦又有新称号了",
+        "onboard_time": 1761291261,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235684,
+        "num": 235684,
+        "word": "男童喝珍珠奶茶窒息身亡家长发声",
+        "onboard_time": 1761294081,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375485,
+        "num": 226042,
+        "word": "空枪 檀健次",
+        "onboard_time": 1761294021,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290963,
+        "num": 220188,
+        "word": "朱一龙官宣主演电影空枪",
+        "onboard_time": 1761290300,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207173,
+        "num": 207173,
+        "word": "张晚意一声姐整懵马思纯李沁",
+        "onboard_time": 1761293300,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202854,
+        "num": 202854,
+        "word": "北方多个城市已提前供暖",
+        "onboard_time": 1761292700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 178806,
+        "word": "出生6天婴儿住院期间不幸死亡",
+        "onboard_time": 1761292999,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1163071,
+        "num": 175653,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951071,
+        "num": 175045,
+        "word": "大闸蟹钻进车内消失2年后被取出",
+        "onboard_time": 1761291261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765420,
+        "num": 174316,
+        "word": "微信状态 新时代朋友圈",
+        "onboard_time": 1761291559,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171868,
+        "num": 171868,
+        "word": "ELLE",
+        "onboard_time": 1761285141,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 582063,
+        "num": 171647,
+        "word": "公司奖励员工的黄金键帽价值4万",
+        "onboard_time": 1761287121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161081,
+        "num": 171370,
+        "word": "王权富贵内娱人脉这一块",
+        "onboard_time": 1761294321,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456675,
+        "num": 171287,
+        "word": "白鹿粉发白裙",
+        "onboard_time": 1761292820,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67410,
+        "num": 170823,
+        "word": "罗大美家属不认可对第三被告量刑",
+        "onboard_time": 1761294561,
+        "rank": 17,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 57515,
+        "num": 170663,
+        "word": "50年坚持一件事有多牛",
+        "onboard_time": 1761294081,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23943,
+        "num": 170392,
+        "word": "猫天天沉醉在周深的歌声里",
+        "onboard_time": 1761292999,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371230,
+        "num": 170145,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 737112,
+        "num": 170007,
+        "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+        "onboard_time": 1761291320,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524732,
+        "num": 169604,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416812,
+        "num": 169245,
+        "word": "VOGUE 这个时候需要苏芒",
+        "onboard_time": 1761288140,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348882,
+        "num": 169191,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801003,
+        "num": 168962,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254124,
+        "num": 168560,
+        "word": "网红罗大美被害案凶手余金生获死刑",
+        "onboard_time": 1761283102,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206325,
+        "num": 168358,
+        "word": "金价大跌有人刚买镯子想退货",
+        "onboard_time": 1761271999,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 193441,
+        "num": 168114,
+        "word": "李雪琴陈铭为北大武大抢生源",
+        "onboard_time": 1761294921,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174871,
+        "num": 167843,
+        "word": "分手十年的情侣在大张伟演唱会偶遇",
+        "onboard_time": 1761290060,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "BLG对战VKS",
+        "onboard_time": 1761292520,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155752,
+        "num": 155752,
+        "word": "网传85花齐聚ELLE盛典",
+        "onboard_time": 1761294501,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151101,
+        "num": 151101,
+        "word": "金价大跌有人一次买了1斤黄金",
+        "onboard_time": 1761295342,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 147580,
+        "word": "苏醒披哥开局结局都是第一",
+        "onboard_time": 1761294321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145604,
+        "num": 145604,
+        "word": "0713再唱我最闪亮",
+        "onboard_time": 1761294681,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15652,
+        "num": 144858,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106044,
+        "num": 144238,
+        "word": "中美元首是否将会晤",
+        "onboard_time": 1761293180,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23674,
+        "num": 143073,
+        "word": "四环灵感亮相杭州",
+        "onboard_time": 1761292220,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14894,
+        "num": 142945,
+        "word": "陈赫高瀚宇彭昱畅三个魔丸大闹乌镇",
+        "onboard_time": 1761295220,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 141946,
+        "word": "李在明在美国涉华表态",
+        "onboard_time": 1761294501,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105448,
+        "num": 140702,
+        "word": "神21发射",
+        "onboard_time": 1761295400,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140288,
+        "num": 140288,
+        "word": "陈瑶摇人",
+        "onboard_time": 1761287540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129020,
+        "num": 129020,
+        "word": "BLG越塔",
+        "onboard_time": 1761295280,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122819,
+        "num": 122819,
+        "word": "何美延我来了 梁淞我害怕",
+        "onboard_time": 1761289941,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120313,
+        "num": 120313,
+        "word": "深圳公积金租房提取比例调整为80%",
+        "onboard_time": 1761295460,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115065,
+        "num": 115065,
+        "word": "小鱼海棠婚礼嘉宾",
+        "onboard_time": 1761293961,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25932,
+        "num": 114817,
+        "word": "12306可宠物托运车次显示宠字",
+        "onboard_time": 1761294021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114625,
+        "num": 114625,
+        "word": "杨紫再叫罗云熙小鱼仙倌",
+        "onboard_time": 1761281542,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105883,
+        "num": 105883,
+        "word": "卢靖姗韩庚二胎出生",
+        "onboard_time": 1761273860,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78168,
+        "num": 101530,
+        "word": "荷兰为何敢明抢安世半导体",
+        "onboard_time": 1761293839,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持党外人士座谈会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761294848872,
+  "endTime": 1761295638788,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2795,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 951071,
+      "num": 208959,
+      "word": "大闸蟹钻进车内消失2年后被取出",
+      "onboard_time": 1761291261,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 950465,
       "num": 1152074,
       "word": "日本或将迎来首位女首相",
@@ -3057,14 +3065,6 @@
       "onboard_time": 1759976538,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 911260,
-      "num": 208959,
-      "word": "大闸蟹钻进车内消失2年后被取出",
-      "onboard_time": 1761291261,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 910262,
@@ -4347,6 +4347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 765420,
+      "num": 206347,
+      "word": "微信状态 新时代朋友圈",
+      "onboard_time": 1761291559,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 763916,
       "num": 1122226,
       "word": "广东转移超15万人",
@@ -4585,6 +4593,14 @@
       "onboard_time": 1760091261,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 737112,
+      "num": 1112633,
+      "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+      "onboard_time": 1761291320,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 734082,
@@ -4889,14 +4905,6 @@
       "onboard_time": 1760929880,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 703957,
-      "num": 1112633,
-      "word": "马龙妻子夏露忙里偷闲跳个黑怕",
-      "onboard_time": 1761291320,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 703308,
@@ -7907,7 +7915,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 524185,
+      "raw_hot": 524732,
       "num": 654572,
       "word": "邓莎一个人再见什么爱人",
       "onboard_time": 1761283342,
@@ -9211,14 +9219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473891,
-      "num": 206347,
-      "word": "微信状态 新时代朋友圈",
-      "onboard_time": 1761291559,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 473630,
       "num": 473630,
       "word": "美驻华大使馆宣布微博微信停更",
@@ -9657,6 +9657,14 @@
       "onboard_time": 1760942900,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456675,
+      "num": 205096,
+      "word": "白鹿粉发白裙",
+      "onboard_time": 1761292820,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 456135,
@@ -11211,14 +11219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 409406,
-      "num": 205096,
-      "word": "白鹿粉发白裙",
-      "onboard_time": 1761292820,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 409367,
       "num": 213290,
       "word": "突然悟到了上班打扮漂亮的意义",
@@ -11465,6 +11465,14 @@
       "onboard_time": 1760617461,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398846,
+      "num": 1063815,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 398639,
@@ -12235,6 +12243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375485,
+      "num": 226042,
+      "word": "空枪 檀健次",
+      "onboard_time": 1761294021,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 375337,
       "num": 208653,
       "word": "赵磊首次回应26岁官宣结婚",
@@ -12601,6 +12617,14 @@
       "onboard_time": 1759374499,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366822,
+      "num": 366822,
+      "word": "国考系统崩了",
+      "onboard_time": 1761293421,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 366694,
@@ -13419,20 +13443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342480,
-      "num": 1029964,
-      "word": "VOGUE",
-      "onboard_time": 1760961022,
-      "rank": 21,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 342417,
       "num": 213972,
       "word": "16岁文淇演的孕妇",
       "onboard_time": 1761053241,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 342245,
+      "num": 342245,
+      "word": "孙颖莎王楚钦又有新称号了",
+      "onboard_time": 1761291261,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 342174,
@@ -15115,14 +15139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305661,
-      "num": 305661,
-      "word": "孙颖莎王楚钦又有新称号了",
-      "onboard_time": 1761291261,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305556,
       "num": 305556,
       "word": "孟羽童来offer董明珠知道么",
@@ -15889,6 +15905,14 @@
       "onboard_time": 1760857881,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290963,
+      "num": 230413,
+      "word": "朱一龙官宣主演电影空枪",
+      "onboard_time": 1761290300,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 290739,
@@ -18579,14 +18603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246196,
-      "num": 246196,
-      "word": "国考系统崩了",
-      "onboard_time": 1761293421,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 246164,
       "num": 196956,
       "word": "47岁的刘烨",
@@ -19331,6 +19347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235684,
+      "num": 235684,
+      "word": "男童喝珍珠奶茶窒息身亡家长发声",
+      "onboard_time": 1761294081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235587,
       "num": 235701,
       "word": "热剧cp是演出来的不是卖出来的",
@@ -19665,14 +19689,6 @@
       "onboard_time": 1759724720,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230413,
-      "num": 230413,
-      "word": "朱一龙官宣主演电影空枪",
-      "onboard_time": 1761290300,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 230398,
@@ -20161,14 +20177,6 @@
       "onboard_time": 1761018081,
       "rank": 24,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 223321,
-      "num": 223321,
-      "word": "空枪 檀健次",
-      "onboard_time": 1761294021,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 223184,
@@ -21593,6 +21601,14 @@
       "onboard_time": 1759586602,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207173,
+      "num": 207173,
+      "word": "张晚意一声姐整懵马思纯李沁",
+      "onboard_time": 1761293300,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 206998,
@@ -23883,6 +23899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193441,
+      "num": 168114,
+      "word": "李雪琴陈铭为北大武大抢生源",
+      "onboard_time": 1761294921,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "李庚希抵制代拍",
@@ -24929,14 +24953,6 @@
       "onboard_time": 1760520801,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187789,
-      "num": 187789,
-      "word": "男童喝珍珠奶茶窒息身亡家长发声",
-      "onboard_time": 1761294081,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187583,
@@ -26419,6 +26435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178806,
+      "num": 191301,
+      "word": "出生6天婴儿住院期间不幸死亡",
+      "onboard_time": 1761292999,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178725,
       "num": 141007,
       "word": "王楚钦说自己老了",
@@ -26753,14 +26777,6 @@
       "onboard_time": 1760505981,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177170,
-      "num": 191301,
-      "word": "出生6天婴儿住院期间不幸死亡",
-      "onboard_time": 1761292999,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177127,
@@ -27233,6 +27249,14 @@
       "onboard_time": 1760708663,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174871,
+      "num": 188063,
+      "word": "分手十年的情侣在大张伟演唱会偶遇",
+      "onboard_time": 1761290060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 174870,
@@ -28331,14 +28355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169254,
-      "num": 203151,
-      "word": "张晚意一声姐整懵马思纯李沁",
-      "onboard_time": 1761293300,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169168,
       "num": 169168,
       "word": "看亚锦赛赠送30分钟live",
@@ -28675,12 +28691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167683,
-      "num": 188063,
-      "word": "分手十年的情侣在大张伟演唱会偶遇",
-      "onboard_time": 1761290060,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 167670,
+      "num": 167670,
+      "word": "BLG对战VKS",
+      "onboard_time": 1761292520,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 167641,
@@ -30233,6 +30249,14 @@
       "onboard_time": 1759294519,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161081,
+      "num": 171370,
+      "word": "王权富贵内娱人脉这一块",
+      "onboard_time": 1761294321,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 161050,
@@ -32619,6 +32643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151101,
+      "num": 151101,
+      "word": "金价大跌有人一次买了1斤黄金",
+      "onboard_time": 1761295342,
+      "rank": 32,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "嘉人",
@@ -33643,14 +33675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147211,
-      "num": 147211,
-      "word": "王权富贵内娱人脉这一块",
-      "onboard_time": 1761294321,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147193,
       "num": 147193,
       "word": "特朗普站在防弹玻璃后疯狂吹嘘",
@@ -34083,14 +34107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145812,
-      "num": 145812,
-      "word": "BLG对战VKS",
-      "onboard_time": 1761292520,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145802,
       "num": 145802,
       "word": "潘建伟称杨振宁逝世是谣传",
@@ -34145,6 +34161,14 @@
       "onboard_time": 1759710680,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "0713再唱我最闪亮",
+      "onboard_time": 1761294681,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145547,
@@ -39603,6 +39627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129020,
+      "num": 129020,
+      "word": "BLG越塔",
+      "onboard_time": 1761295280,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129013,
       "num": 129013,
       "word": "李沁张雅钦夏梦跳Fancy",
@@ -43267,6 +43299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120313,
+      "num": 120313,
+      "word": "深圳公积金租房提取比例调整为80%",
+      "onboard_time": 1761295460,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120306,
       "num": 120306,
       "word": "谁懂王一博大腿肌肉的含金量",
@@ -45747,6 +45787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115065,
+      "num": 115065,
+      "word": "小鱼海棠婚礼嘉宾",
+      "onboard_time": 1761293961,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 115047,
       "num": 115047,
       "word": "亚锦赛男团中国vs日本",
@@ -46705,14 +46753,6 @@
       "onboard_time": 1761185480,
       "rank": 26,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 113140,
-      "num": 113140,
-      "word": "0713再唱我最闪亮",
-      "onboard_time": 1761294681,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 113116,
@@ -50339,14 +50379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107104,
-      "num": 107104,
-      "word": "小鱼海棠婚礼嘉宾",
-      "onboard_time": 1761293961,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 107101,
       "num": 107100,
       "word": "特朗普在航母上再跳经典舞蹈",
@@ -51321,6 +51353,14 @@
       "onboard_time": 1760685801,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105448,
+      "num": 140702,
+      "word": "神21发射",
+      "onboard_time": 1761295400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105437,
@@ -63188,7 +63228,7 @@
     },
     {
       "raw_hot": 83592,
-      "num": 167202,
+      "num": 345522,
       "word": "优化就业社保等方面年龄限制政策",
       "onboard_time": 1761276200,
       "rank": 20,
@@ -68091,6 +68131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70074,
+      "num": 145840,
+      "word": "李在明在美国涉华表态",
+      "onboard_time": 1761294501,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70066,
       "num": 97647,
       "word": "珩扫内鱼 横扫内娱",
@@ -68801,6 +68849,14 @@
       "onboard_time": 1761116241,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67410,
+      "num": 197889,
+      "word": "罗大美家属不认可对第三被告量刑",
+      "onboard_time": 1761294561,
+      "rank": 20,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 67403,
@@ -69817,14 +69873,6 @@
       "onboard_time": 1761021803,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63088,
-      "num": 197889,
-      "word": "罗大美家属不认可对第三被告量刑",
-      "onboard_time": 1761294561,
-      "rank": 20,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 63078,
@@ -71137,6 +71185,14 @@
       "onboard_time": 1760277801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57515,
+      "num": 198732,
+      "word": "50年坚持一件事有多牛",
+      "onboard_time": 1761294081,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 57501,
@@ -72683,14 +72739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49624,
-      "num": 145840,
-      "word": "李在明在美国涉华表态",
-      "onboard_time": 1761294501,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49479,
       "num": 191740,
       "word": "景区回应卫生间自来水有尿味",
@@ -72833,14 +72881,6 @@
       "onboard_time": 1760613440,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 48982,
-      "num": 198732,
-      "word": "50年坚持一件事有多牛",
-      "onboard_time": 1761294081,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 48908,
@@ -76955,6 +76995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25932,
+      "num": 146538,
+      "word": "12306可宠物托运车次显示宠字",
+      "onboard_time": 1761294021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25896,
       "num": 31938,
       "word": "中秋奇妙游",
@@ -77315,20 +77363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23943,
+      "num": 200610,
+      "word": "猫天天沉醉在周深的歌声里",
+      "onboard_time": 1761292999,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23925,
       "num": 125058,
       "word": "高反失温女孩父亲最新发声",
       "onboard_time": 1760095821,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23902,
-      "num": 200610,
-      "word": "猫天天沉醉在周深的歌声里",
-      "onboard_time": 1761292999,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 23847,
@@ -78595,6 +78643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14894,
+      "num": 142945,
+      "word": "陈赫高瀚宇彭昱畅三个魔丸大闹乌镇",
+      "onboard_time": 1761295220,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14851,
       "num": 28216,
       "word": "茅台辟谣将新增650家专营店",
@@ -78713,14 +78769,6 @@
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14268,
-      "num": 146538,
-      "word": "12306可宠物托运车次显示宠字",
-      "onboard_time": 1761294021,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14240,
@@ -79647,6 +79695,9 @@
     },
     {
       "word": "#奋力开创中国式现代化建设新局面#"
+    },
+    {
+      "word": "#习近平主持党外人士座谈会#"
     }
   ]
 }
