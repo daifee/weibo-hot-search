@@ -1,0 +1,410 @@
+{
+  "runTime": 1761291523528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581662,
+        "num": 1093065,
+        "word": "ELLE",
+        "onboard_time": 1761285141,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 334068,
+        "num": 334068,
+        "word": "VOGUE",
+        "onboard_time": 1761289701,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 18458,
+        "num": 333056,
+        "word": "二十届四中全会公报",
+        "onboard_time": 1761210142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171214,
+        "num": 331717,
+        "word": "小米汽车购置税补贴方案",
+        "onboard_time": 1761279262,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154765,
+        "num": 331306,
+        "word": "库里超远三分绝平",
+        "onboard_time": 1761281603,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644544,
+        "num": 329473,
+        "word": "网红罗大美被害案凶手余金生获死刑",
+        "onboard_time": 1761283102,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 328795,
+        "num": 328795,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277135,
+        "num": 277135,
+        "word": "电影空枪",
+        "onboard_time": 1761289460,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256237,
+        "num": 256237,
+        "word": "网红罗大美被害案宣判",
+        "onboard_time": 1761282442,
+        "rank": 8,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 230413,
+        "num": 230413,
+        "word": "朱一龙官宣主演电影空枪",
+        "onboard_time": 1761290300,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1431886,
+        "num": 228995,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627035,
+        "num": 227428,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 596940,
+        "num": 225539,
+        "word": "店家回应男童喝珍珠奶茶窒息身亡",
+        "onboard_time": 1761287421,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48112,
+        "num": 222561,
+        "word": "民众送别著名物理学家杨振宁",
+        "onboard_time": 1761290122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29059,
+        "num": 220081,
+        "word": "一张票看多位顶流演唱会",
+        "onboard_time": 1761290000,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531495,
+        "num": 219269,
+        "word": "VOGUE 这个时候需要苏芒",
+        "onboard_time": 1761288140,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395569,
+        "num": 216918,
+        "word": "陈瑶摇人",
+        "onboard_time": 1761287540,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215938,
+        "num": 215938,
+        "word": "公司奖励员工的黄金键帽价值4万",
+        "onboard_time": 1761287121,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181266,
+        "num": 181266,
+        "word": "吃外卖和不吃外卖都沉默了",
+        "onboard_time": 1761279500,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169195,
+        "num": 169195,
+        "word": "孙颖莎王楚钦又有新称号了",
+        "onboard_time": 1761291261,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1165724,
+        "num": 168988,
+        "word": "王玉雯 想和刘亦菲官宣了",
+        "onboard_time": 1761277282,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 541805,
+        "num": 168710,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325686,
+        "num": 168428,
+        "word": "金价大跌有人刚买镯子想退货",
+        "onboard_time": 1761271999,
+        "rank": 22,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 288891,
+        "num": 168222,
+        "word": "大闸蟹钻进车内消失2年后被取出",
+        "onboard_time": 1761291261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237605,
+        "num": 167705,
+        "word": "杨紫再叫罗云熙小鱼仙倌",
+        "onboard_time": 1761281542,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167683,
+        "num": 167683,
+        "word": "分手十年的情侣在大张伟演唱会偶遇",
+        "onboard_time": 1761290060,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155813,
+        "num": 155813,
+        "word": "ELLE盛典阵容官宣",
+        "onboard_time": 1761282141,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 155622,
+        "word": "妈妈挖的藕被全国网友夸了",
+        "onboard_time": 1761288320,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146734,
+        "num": 146734,
+        "word": "APEC第32次领导人非正式会议",
+        "onboard_time": 1761290959,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95365,
+        "num": 146536,
+        "word": "中国创新实力递给世界的新名片",
+        "onboard_time": 1761289460,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208315,
+        "num": 145624,
+        "word": "卢靖姗韩庚二胎出生",
+        "onboard_time": 1761273860,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175471,
+        "num": 145136,
+        "word": "日落后20分钟 工作和生活分界线",
+        "onboard_time": 1761291021,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164605,
+        "num": 144121,
+        "word": "罗云熙人脉",
+        "onboard_time": 1761290959,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149506,
+        "num": 143678,
+        "word": "何美延我来了 梁淞我害怕",
+        "onboard_time": 1761289941,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143104,
+        "num": 143104,
+        "word": "陈闲被新加坡国立大学录取",
+        "onboard_time": 1761286880,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138800,
+        "num": 138800,
+        "word": "胡先煦被孟子义三连问整红温",
+        "onboard_time": 1761289401,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130717,
+        "num": 130717,
+        "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+        "onboard_time": 1761291320,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84147,
+        "num": 126218,
+        "word": "宋方金预言3年内必出200亿电影",
+        "onboard_time": 1761291201,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41643,
+        "num": 125770,
+        "word": "男子高速撞上野猪群致3死2失踪",
+        "onboard_time": 1761290840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9792,
+        "num": 125603,
+        "word": "石凯别让我在观众席发现你",
+        "onboard_time": 1761291441,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125543,
+        "num": 125543,
+        "word": "群众含泪相送杨振宁先生",
+        "onboard_time": 1761289160,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132809,
+        "num": 124035,
+        "word": "彭昱畅边跑边追边喊",
+        "onboard_time": 1761290900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117962,
+        "num": 117962,
+        "word": "安世中国声明荷兰总部决定在中国无效",
+        "onboard_time": 1761279020,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117575,
+        "num": 117575,
+        "word": "霸总斐 小娇幂",
+        "onboard_time": 1761280523,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108722,
+        "num": 108722,
+        "word": "女子银行被VIP插队现场要说法",
+        "onboard_time": 1761276922,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106325,
+        "num": 106325,
+        "word": "特朗普称终止与加拿大贸易谈判",
+        "onboard_time": 1761285023,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105899,
+        "num": 105899,
+        "word": "金卡戴珊确诊脑动脉瘤",
+        "onboard_time": 1761290540,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87631,
+        "num": 105794,
+        "word": "张小斐杨幂你俩干嘛呢",
+        "onboard_time": 1761289760,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105768,
+        "num": 105768,
+        "word": "严禁将手机等电子产品带进课堂",
+        "onboard_time": 1761270020,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 103391,
+        "num": 103391,
+        "word": "神舟二十一号近日择机发射",
+        "onboard_time": 1761285501,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

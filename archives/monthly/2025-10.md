@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 15:25:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/24 15:38:43
 </p>
 </blockquote>
 <p>
@@ -4863,6 +4863,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
+店家回应男童喝珍珠奶茶窒息身亡（热度：596940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%9C%8B%E4%B8%8D%E4%BA%86%E8%91%A3%E7%92%87%E8%BF%99%E6%AE%B5%23" target="weibo">
 张维伊看不了董璇这段（热度：594805）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86%23" target="weibo">
 西安城墙已变成巨型生态缸了（热度：519351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%8540%E5%90%A8%E9%87%91%E7%9F%BF%23" target="weibo">
-甘肃发现超40吨金矿（热度：518950）
 </a>
 </li>
 

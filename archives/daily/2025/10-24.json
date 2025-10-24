@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761290716242,
+  "endTime": 1761291523528,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 596940,
+      "num": 502321,
+      "word": "店家回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761287421,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581345,
       "num": 903015,
       "word": "撞86元校服的LV大衣被抢空",
@@ -185,14 +193,6 @@
       "onboard_time": 1761281542,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 502321,
-      "num": 502321,
-      "word": "店家回应男童喝珍珠奶茶窒息身亡",
-      "onboard_time": 1761287421,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 500483,
@@ -275,7 +275,7 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 388575,
+      "raw_hot": 395569,
       "num": 388575,
       "word": "陈瑶摇人",
       "onboard_time": 1761287540,
@@ -379,6 +379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 334068,
+      "num": 1029964,
+      "word": "VOGUE",
+      "onboard_time": 1761289701,
+      "rank": 1,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 333240,
       "num": 333240,
       "word": "赵长鹏获特朗普赦免",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288891,
+      "num": 168222,
+      "word": "大闸蟹钻进车内消失2年后被取出",
+      "onboard_time": 1761291261,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288290,
       "num": 288290,
       "word": "向往的生活",
@@ -417,6 +433,14 @@
       "onboard_time": 1761277641,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 277135,
+      "num": 627340,
+      "word": "电影空枪",
+      "onboard_time": 1761289460,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 273486,
@@ -491,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230413,
+      "num": 230413,
+      "word": "朱一龙官宣主演电影空枪",
+      "onboard_time": 1761290300,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223762,
       "num": 223762,
       "word": "花西子下架陷苏丹红争议底霜",
@@ -539,12 +571,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 217811,
-      "num": 627340,
-      "word": "电影空枪",
-      "onboard_time": 1761289460,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 215938,
+      "num": 215938,
+      "word": "公司奖励员工的黄金键帽价值4万",
+      "onboard_time": 1761287121,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212034,
@@ -601,14 +633,6 @@
       "onboard_time": 1761274821,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198924,
-      "num": 1029964,
-      "word": "VOGUE",
-      "onboard_time": 1761289701,
-      "rank": 1,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 196813,
@@ -683,22 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187409,
-      "num": 187409,
-      "word": "朱一龙官宣主演电影空枪",
-      "onboard_time": 1761290300,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 186953,
-      "num": 131614,
-      "word": "公司奖励员工的黄金键帽价值4万",
-      "onboard_time": 1761287121,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186147,
       "num": 178479,
       "word": "水龙吟第一案婚礼变葬礼",
@@ -755,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175471,
+      "num": 145136,
+      "word": "日落后20分钟 工作和生活分界线",
+      "onboard_time": 1761291021,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173567,
       "num": 173567,
       "word": "莫言写诗悼念杨振宁先生",
@@ -787,6 +803,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 169195,
+      "num": 169195,
+      "word": "孙颖莎王楚钦又有新称号了",
+      "onboard_time": 1761291261,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167683,
+      "num": 167683,
+      "word": "分手十年的情侣在大张伟演唱会偶遇",
+      "onboard_time": 1761290060,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166711,
       "num": 166711,
       "word": "何美延梁淞吵着吵着抱起来了",
@@ -809,6 +841,14 @@
       "onboard_time": 1761286880,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164605,
+      "num": 144121,
+      "word": "罗云熙人脉",
+      "onboard_time": 1761290959,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 164502,
@@ -875,6 +915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155622,
+      "num": 155622,
+      "word": "妈妈挖的藕被全国网友夸了",
+      "onboard_time": 1761288320,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154836,
       "num": 154836,
       "word": "GEN故意放强势英雄",
@@ -915,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146734,
+      "num": 146734,
+      "word": "APEC第32次领导人非正式会议",
+      "onboard_time": 1761290959,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144367,
       "num": 144367,
       "word": "前瞻布局未来产业",
@@ -932,7 +988,7 @@
     },
     {
       "raw_hot": 142904,
-      "num": 131565,
+      "num": 138800,
       "word": "胡先煦被孟子义三连问整红温",
       "onboard_time": 1761289401,
       "rank": 31,
@@ -963,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138464,
-      "num": 138464,
-      "word": "妈妈挖的藕被全国网友夸了",
-      "onboard_time": 1761288320,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137677,
       "num": 155662,
       "word": "95后小伙手搓AI眼镜体验失明的一天",
@@ -993,14 +1041,6 @@
       "onboard_time": 1761277341,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136527,
-      "num": 130626,
-      "word": "分手十年的情侣在大张伟演唱会偶遇",
-      "onboard_time": 1761290060,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 135988,
@@ -1051,6 +1091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132809,
+      "num": 124035,
+      "word": "彭昱畅边跑边追边喊",
+      "onboard_time": 1761290900,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132451,
       "num": 132451,
       "word": "神舟二十一号近日择机发射",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1761285441,
       "rank": 30,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 130717,
+      "num": 130717,
+      "word": "马龙妻子夏露忙里偷闲跳个黑怕",
+      "onboard_time": 1761291320,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 130631,
@@ -1379,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105899,
+      "num": 105899,
+      "word": "金卡戴珊确诊脑动脉瘤",
+      "onboard_time": 1761290540,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105721,
       "num": 105721,
       "word": "iPhone要不你还是出个说明书吧",
@@ -1475,14 +1539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 100356,
-      "num": 100356,
-      "word": "金卡戴珊确诊脑动脉瘤",
-      "onboard_time": 1761290540,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99213,
       "num": 99213,
       "word": "下班做饭vs下班外卖",
@@ -1571,6 +1627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95365,
+      "num": 171842,
+      "word": "中国创新实力递给世界的新名片",
+      "onboard_time": 1761289460,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94134,
       "num": 133499,
       "word": "龚俊指挥交通呢 十秒钟打了十辆车",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1761271820,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93089,
-      "num": 171842,
-      "word": "中国创新实力递给世界的新名片",
-      "onboard_time": 1761289460,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 93050,
@@ -1729,6 +1785,14 @@
       "onboard_time": 1761269180,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84147,
+      "num": 126218,
+      "word": "宋方金预言3年内必出200亿电影",
+      "onboard_time": 1761291201,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 83592,
@@ -2059,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48112,
+      "num": 608916,
+      "word": "民众送别著名物理学家杨振宁",
+      "onboard_time": 1761290122,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46809,
       "num": 183817,
       "word": "警惕微笑背后的情绪负债",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1761275000,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41643,
+      "num": 125770,
+      "word": "男子高速撞上野猪群致3死2失踪",
+      "onboard_time": 1761290840,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41145,
@@ -2187,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29059,
+      "num": 441063,
+      "word": "一张票看多位顶流演唱会",
+      "onboard_time": 1761290000,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26420,
       "num": 132387,
       "word": "VKS辅助说BLG选手太强了",
@@ -2211,14 +2299,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24052,
-      "num": 608916,
-      "word": "民众送别著名物理学家杨振宁",
-      "onboard_time": 1761290122,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23237,
       "num": 111129,
       "word": "梦回VOGUE1948群封站位",
@@ -2233,14 +2313,6 @@
       "onboard_time": 1761287839,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 18389,
-      "num": 441063,
-      "word": "一张票看多位顶流演唱会",
-      "onboard_time": 1761290000,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 17167,
@@ -2281,6 +2353,14 @@
       "onboard_time": 1761223765,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9792,
+      "num": 125603,
+      "word": "石凯别让我在观众席发现你",
+      "onboard_time": 1761291441,
+      "rank": 39,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
