@@ -1,0 +1,410 @@
+{
+  "runTime": 1761305902247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2683175,
+        "num": 2866351,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331223,
+        "num": 331223,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 256177,
+        "word": "重视中国经济也重视中国人经济",
+        "onboard_time": 1761275000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190049,
+        "num": 190049,
+        "word": "双十一 退货潮",
+        "onboard_time": 1761303322,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 175556,
+        "num": 175556,
+        "word": "高三男生被邻居撞伤致死母亲发声",
+        "onboard_time": 1761304880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827951,
+        "num": 175393,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143120,
+        "num": 175127,
+        "word": "BLG战胜VKS",
+        "onboard_time": 1761299721,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139128,
+        "num": 175090,
+        "word": "普京宣布提高全日制女学生孕产津贴",
+        "onboard_time": 1761296960,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123408,
+        "num": 174752,
+        "word": "水龙吟好看吗",
+        "onboard_time": 1761304521,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227907,
+        "num": 174586,
+        "word": "水龙吟特效",
+        "onboard_time": 1761304880,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651268,
+        "num": 174312,
+        "word": "宝格丽CEO给刘亦菲带的词条",
+        "onboard_time": 1761303200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568532,
+        "num": 174090,
+        "word": "杨振宁病危时神智非常清楚",
+        "onboard_time": 1761298161,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528750,
+        "num": 173876,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383123,
+        "num": 173731,
+        "word": "刘亦菲问王玉雯是不是林一朋友",
+        "onboard_time": 1761288320,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235223,
+        "num": 173414,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1761295641,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355140,
+        "num": 173097,
+        "word": "结婚三金逼近10万长辈称不如折现",
+        "onboard_time": 1761300021,
+        "rank": 15,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 233480,
+        "num": 173035,
+        "word": "Faker被单杀",
+        "onboard_time": 1761303981,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241168,
+        "num": 172763,
+        "word": "水龙吟云包场",
+        "onboard_time": 1761301280,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221685,
+        "num": 172422,
+        "word": "大闸蟹钻进车内消失2年后被取出",
+        "onboard_time": 1761291261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118387,
+        "num": 172296,
+        "word": "喜人奇妙夜 票数",
+        "onboard_time": 1761304221,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646101,
+        "num": 172024,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296979,
+        "num": 171774,
+        "word": "VOGUE",
+        "onboard_time": 1761289701,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 182911,
+        "num": 171656,
+        "word": "微信状态 新时代朋友圈",
+        "onboard_time": 1761291559,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171478,
+        "num": 171478,
+        "word": "刘涛神图有了",
+        "onboard_time": 1761303860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163107,
+        "num": 163107,
+        "word": "VOGUE 这个时候需要苏芒",
+        "onboard_time": 1761288140,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155084,
+        "num": 155084,
+        "word": "当地回应男童喝珍珠奶茶窒息身亡",
+        "onboard_time": 1761304039,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147393,
+        "num": 147393,
+        "word": "白鹿粉发白裙",
+        "onboard_time": 1761292820,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136243,
+        "num": 136243,
+        "word": "空枪 檀健次",
+        "onboard_time": 1761294021,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130393,
+        "num": 130393,
+        "word": "何瑞贤工作室还缺人吗",
+        "onboard_time": 1761303440,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117650,
+        "num": 128476,
+        "word": "15万元被当垃圾扔了",
+        "onboard_time": 1761304760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146686,
+        "num": 128221,
+        "word": "世界上最亏本的两件事",
+        "onboard_time": 1761305841,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 59942,
+        "num": 127927,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127805,
+        "num": 127805,
+        "word": "S15瑞士轮第五轮抽签",
+        "onboard_time": 1761304281,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125900,
+        "num": 125900,
+        "word": "周深直播",
+        "onboard_time": 1761305300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125431,
+        "num": 125431,
+        "word": "张晚意一声姐整懵马思纯李沁",
+        "onboard_time": 1761293300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120079,
+        "num": 120079,
+        "word": "100T对战T1",
+        "onboard_time": 1761301581,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 118819,
+        "word": "邓莎一个人再见什么爱人",
+        "onboard_time": 1761283342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107189,
+        "num": 114005,
+        "word": "金价大跌有人一次买了1斤黄金",
+        "onboard_time": 1761295342,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 58782,
+        "num": 113767,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38851,
+        "num": 113717,
+        "word": "郭富城一家五口去景区只用买一张票",
+        "onboard_time": 1761305540,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113680,
+        "num": 113680,
+        "word": "刘宇宁直播切片在韩国火了",
+        "onboard_time": 1761295881,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111848,
+        "num": 111848,
+        "word": "出生6天婴儿住院期间不幸死亡",
+        "onboard_time": 1761292999,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 110926,
+        "word": "披荆斩棘5年度滚烫名单",
+        "onboard_time": 1761300262,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102412,
+        "num": 102412,
+        "word": "北方多个城市已提前供暖",
+        "onboard_time": 1761292700,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99307,
+        "num": 99307,
+        "word": "喜欢吃猕猴桃的人嘴真严啊",
+        "onboard_time": 1761299180,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96147,
+        "num": 96147,
+        "word": "孔雪儿线下怎么美成这样",
+        "onboard_time": 1761302540,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51984,
+        "num": 89048,
+        "word": "女子监控发现陌生人用指纹进自家门",
+        "onboard_time": 1761304339,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88234,
+        "num": 88234,
+        "word": "路行退出再见爱人5",
+        "onboard_time": 1761279500,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83829,
+        "num": 83829,
+        "word": "彭小苒观众缘",
+        "onboard_time": 1761301461,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75326,
+        "num": 75326,
+        "word": "体操世锦赛中国首金",
+        "onboard_time": 1761300321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}

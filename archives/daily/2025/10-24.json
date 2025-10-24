@@ -1,6 +1,6 @@
 {
   "startTime": 1761237204677,
-  "endTime": 1761304992313,
+  "endTime": 1761305902247,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -11,8 +11,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2590735,
-      "num": 2681471,
+      "raw_hot": 2683175,
+      "num": 2866351,
       "word": "设台湾光复纪念日",
       "onboard_time": 1761302481,
       "rank": 47,
@@ -113,6 +113,14 @@
       "onboard_time": 1761294081,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 827951,
+      "num": 320208,
+      "word": "水龙吟",
+      "onboard_time": 1761267141,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 799654,
@@ -273,6 +281,14 @@
       "onboard_time": 1761288140,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 528750,
+      "num": 174717,
+      "word": "男子离婚后带7个娃全网道歉求复合",
+      "onboard_time": 1761304699,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 524732,
@@ -483,14 +499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 353121,
-      "num": 320208,
-      "word": "水龙吟",
-      "onboard_time": 1761267141,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342245,
       "num": 342245,
       "word": "孙颖莎王楚钦又有新称号了",
@@ -555,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331223,
+      "num": 331223,
+      "word": "KK园区上千人趁乱逃离",
+      "onboard_time": 1761300501,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 327580,
       "num": 327580,
       "word": "普京宣布提高全日制女学生孕产津贴",
@@ -587,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298857,
-      "num": 298857,
-      "word": "KK园区上千人趁乱逃离",
-      "onboard_time": 1761300501,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 288290,
       "num": 288290,
       "word": "向往的生活",
@@ -609,14 +617,6 @@
       "onboard_time": 1761277641,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 281553,
-      "num": 174717,
-      "word": "男子离婚后带7个娃全网道歉求复合",
-      "onboard_time": 1761304699,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277135,
@@ -699,12 +699,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233480,
+      "num": 173035,
+      "word": "Faker被单杀",
+      "onboard_time": 1761303981,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231518,
       "num": 231518,
       "word": "戚薇的裙子居然是真花",
       "onboard_time": 1761226223,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 227907,
+      "num": 177452,
+      "word": "水龙吟特效",
+      "onboard_time": 1761304880,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 223762,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 205286,
-      "num": 168151,
+      "num": 171478,
       "word": "刘涛神图有了",
       "onboard_time": 1761303860,
       "rank": 21,
@@ -915,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190049,
+      "num": 190049,
+      "word": "双十一 退货潮",
+      "onboard_time": 1761303322,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 188760,
       "num": 170121,
       "word": "罗云熙谢谢都灵",
@@ -995,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177452,
-      "num": 177452,
-      "word": "水龙吟特效",
-      "onboard_time": 1761304880,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177294,
       "num": 177294,
       "word": "王权富贵内娱人脉这一块",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1761279982,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175556,
+      "num": 175556,
+      "word": "高三男生被邻居撞伤致死母亲发声",
+      "onboard_time": 1761304880,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175471,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1761300262,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167301,
-      "num": 167301,
-      "word": "Faker被单杀",
-      "onboard_time": 1761303981,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 166711,
@@ -1219,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155084,
+      "num": 170347,
+      "word": "当地回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761304039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154836,
       "num": 154836,
       "word": "GEN故意放强势英雄",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1761290959,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146686,
+      "num": 128221,
+      "word": "世界上最亏本的两件事",
+      "onboard_time": 1761305841,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 145604,
@@ -1484,7 +1516,7 @@
     },
     {
       "raw_hot": 131873,
-      "num": 171126,
+      "num": 172296,
       "word": "喜人奇妙夜 票数",
       "onboard_time": 1761304221,
       "rank": 18,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1761285023,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130393,
+      "num": 130393,
+      "word": "何瑞贤工作室还缺人吗",
+      "onboard_time": 1761303440,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 129671,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1761274700,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129020,
-      "num": 129020,
-      "word": "何瑞贤工作室还缺人吗",
-      "onboard_time": 1761303440,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 128428,
@@ -1587,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125900,
+      "num": 125900,
+      "word": "周深直播",
+      "onboard_time": 1761305300,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125558,
       "num": 125558,
       "word": "喜欢吃猕猴桃的人嘴真严啊",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1761279863,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123408,
+      "num": 174752,
+      "word": "水龙吟好看吗",
+      "onboard_time": 1761304521,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 123225,
@@ -1723,6 +1771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117650,
+      "num": 128476,
+      "word": "15万元被当垃圾扔了",
+      "onboard_time": 1761304760,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117605,
       "num": 154542,
       "word": "龚俊 小画家",
@@ -1753,14 +1809,6 @@
       "onboard_time": 1761224363,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115653,
-      "num": 115653,
-      "word": "水龙吟好看吗",
-      "onboard_time": 1761304521,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 115065,
@@ -1913,22 +1961,6 @@
       "onboard_time": 1761296900,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109288,
-      "num": 119867,
-      "word": "双十一 退货潮",
-      "onboard_time": 1761303322,
-      "rank": 35,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 108079,
-      "num": 108079,
-      "word": "15万元被当垃圾扔了",
-      "onboard_time": 1761304760,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107484,
@@ -2131,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99057,
-      "num": 170347,
-      "word": "当地回应男童喝珍珠奶茶窒息身亡",
-      "onboard_time": 1761304039,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99050,
       "num": 99050,
       "word": "王腾说很遗憾没有参与产品上市工作",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1761261918,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 89599,
-      "num": 89599,
-      "word": "高三男生被邻居撞伤致死母亲发声",
-      "onboard_time": 1761304880,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89418,
@@ -2683,12 +2699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59942,
+      "num": 127927,
+      "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+      "onboard_time": 1761305720,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59665,
       "num": 176281,
       "word": "各界人士自发送别杨振宁先生",
       "onboard_time": 1761270919,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58782,
+      "num": 113767,
+      "word": "杨紫被路人认出只用了0.01s",
+      "onboard_time": 1761305600,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 58576,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1761223765,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51984,
+      "num": 109846,
+      "word": "女子监控发现陌生人用指纹进自家门",
+      "onboard_time": 1761304339,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51928,
@@ -2875,14 +2915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41726,
-      "num": 109846,
-      "word": "女子监控发现陌生人用指纹进自家门",
-      "onboard_time": 1761304339,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41643,
       "num": 125770,
       "word": "男子高速撞上野猪群致3死2失踪",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1761212301,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38851,
+      "num": 113717,
+      "word": "郭富城一家五口去景区只用买一张票",
+      "onboard_time": 1761305540,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 38549,
