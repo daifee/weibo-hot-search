@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761302714095,
+  "endTime": 1761304992313,
   "band_list": [
     {
       "raw_hot": 3669694,
@@ -25,6 +25,14 @@
       "onboard_time": 1761223162,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2590735,
+      "num": 2681471,
+      "word": "设台湾光复纪念日",
+      "onboard_time": 1761302481,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2559350,
@@ -809,6 +817,14 @@
       "onboard_time": 1760885062,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 778295,
+      "num": 177140,
+      "word": "宝格丽CEO给刘亦菲带的词条",
+      "onboard_time": 1761303200,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 776023,
@@ -2899,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353121,
+      "num": 1035658,
+      "word": "水龙吟",
+      "onboard_time": 1760839761,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -3203,14 +3227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324678,
-      "num": 1035658,
-      "word": "水龙吟",
-      "onboard_time": 1760839761,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 324646,
       "num": 1035599,
       "word": "四中全会",
@@ -3427,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305200,
+      "num": 244409,
+      "word": "水龙吟云包场",
+      "onboard_time": 1761301280,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305060,
       "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
@@ -3537,6 +3561,14 @@
       "onboard_time": 1761226163,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298857,
+      "num": 298857,
+      "word": "KK园区上千人趁乱逃离",
+      "onboard_time": 1761300501,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298133,
@@ -3744,6 +3776,14 @@
       "word": "未来3天冷冷冷冷冷",
       "onboard_time": 1760865801,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281553,
+      "num": 174717,
+      "word": "男子离婚后带7个娃全网道歉求复合",
+      "onboard_time": 1761304699,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -4233,14 +4273,6 @@
       "onboard_time": 1761221062,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 244409,
-      "num": 244409,
-      "word": "水龙吟云包场",
-      "onboard_time": 1761301280,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 243877,
@@ -4889,6 +4921,14 @@
       "onboard_time": 1761120082,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205286,
+      "num": 168151,
+      "word": "刘涛神图有了",
+      "onboard_time": 1761303860,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 204637,
@@ -6027,6 +6067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179012,
+      "num": 167692,
+      "word": "S15瑞士轮第五轮抽签",
+      "onboard_time": 1761304281,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178874,
       "num": 178874,
       "word": "李耕耘直播",
@@ -6065,6 +6113,14 @@
       "onboard_time": 1761186920,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "水龙吟特效",
+      "onboard_time": 1761304880,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 177294,
@@ -6561,6 +6617,14 @@
       "onboard_time": 1761300262,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167301,
+      "num": 167301,
+      "word": "Faker被单杀",
+      "onboard_time": 1761303981,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 167210,
@@ -8643,6 +8707,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 131873,
+      "num": 171126,
+      "word": "喜人奇妙夜 票数",
+      "onboard_time": 1761304221,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -8771,14 +8843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129989,
-      "num": 152237,
-      "word": "KK园区上千人趁乱逃离",
-      "onboard_time": 1761300501,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129940,
       "num": 129940,
       "word": "一抓一个大河蟹的快乐",
@@ -8865,6 +8929,14 @@
       "onboard_time": 1761018021,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129020,
+      "num": 129020,
+      "word": "何瑞贤工作室还缺人吗",
+      "onboard_time": 1761303440,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 128919,
@@ -9211,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "喜欢吃猕猴桃的人嘴真严啊",
+      "onboard_time": 1761299180,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125519,
       "num": 125519,
       "word": "一诺继续朝着目标努力",
@@ -9273,14 +9353,6 @@
       "onboard_time": 1761023423,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125012,
-      "num": 125012,
-      "word": "喜欢吃猕猴桃的人嘴真严啊",
-      "onboard_time": 1761299180,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 124884,
@@ -9537,6 +9609,14 @@
       "onboard_time": 1760967862,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 122174,
+      "num": 153189,
+      "word": "100T对战T1",
+      "onboard_time": 1761301581,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 122164,
@@ -10200,6 +10280,14 @@
       "word": "入局阵容官宣",
       "onboard_time": 1760932341,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115653,
+      "num": 115653,
+      "word": "水龙吟好看吗",
+      "onboard_time": 1761304521,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -10987,6 +11075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109288,
+      "num": 119867,
+      "word": "双十一 退货潮",
+      "onboard_time": 1761303322,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 109088,
       "num": 109088,
       "word": "白鹿的小卡是白梦妍的灵魂",
@@ -11073,6 +11169,14 @@
       "onboard_time": 1761214761,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108079,
+      "num": 108079,
+      "word": "15万元被当垃圾扔了",
+      "onboard_time": 1761304760,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108046,
@@ -11915,6 +12019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102232,
+      "num": 100358,
+      "word": "孔雪儿线下怎么美成这样",
+      "onboard_time": 1761302540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102200,
       "num": 211233,
       "word": "河南一老板招35岁以上宝妈月休10天",
@@ -12187,12 +12299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100358,
-      "num": 100358,
-      "word": "孔雪儿线下怎么美成这样",
-      "onboard_time": 1761302540,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 100362,
+      "num": 100362,
+      "word": "陈奕恒Hurts破千万播放",
+      "onboard_time": 1761302779,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 100285,
@@ -12321,6 +12433,14 @@
       "onboard_time": 1760970321,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99057,
+      "num": 170347,
+      "word": "当地回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761304039,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99050,
@@ -12577,6 +12697,14 @@
       "onboard_time": 1760839940,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96663,
+      "num": 96663,
+      "word": "眼睛出现这3个信号及时就医",
+      "onboard_time": 1761304760,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96575,
@@ -13699,6 +13827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89599,
+      "num": 89599,
+      "word": "高三男生被邻居撞伤致死母亲发声",
+      "onboard_time": 1761304880,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89570,
       "num": 107698,
       "word": "金钟奖获奖名单",
@@ -14379,6 +14515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85116,
+      "num": 95790,
+      "word": "T1纪录片里的iG",
+      "onboard_time": 1761302900,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85070,
       "num": 85070,
       "word": "外网称杨振宁无需与他人比较",
@@ -14833,14 +14977,6 @@
       "onboard_time": 1760948242,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 81659,
-      "num": 153189,
-      "word": "100T对战T1",
-      "onboard_time": 1761301581,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 81627,
@@ -15513,14 +15649,6 @@
       "onboard_time": 1761146600,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76696,
-      "num": 88615,
-      "word": "设台湾光复纪念日",
-      "onboard_time": 1761302481,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76527,
@@ -17395,6 +17523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53997,
+      "num": 117389,
+      "word": "洪延明世锦赛鞍马金牌",
+      "onboard_time": 1761303800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53804,
       "num": 967521,
       "word": "王楚钦多哈夺冠球台已运回北京",
@@ -18011,6 +18147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41726,
+      "num": 109846,
+      "word": "女子监控发现陌生人用指纹进自家门",
+      "onboard_time": 1761304339,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41683,
       "num": 435846,
       "word": "大妈打开消防栓洗衣服",
@@ -18345,6 +18489,14 @@
       "onboard_time": 1760854760,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34885,
+      "num": 102305,
+      "word": "陈梦全运会以赛代练",
+      "onboard_time": 1761303622,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 34760,

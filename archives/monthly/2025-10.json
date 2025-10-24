@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761302714095,
+  "endTime": 1761304992313,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -273,6 +273,14 @@
       "onboard_time": 1760537243,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2590735,
+      "num": 2681471,
+      "word": "设台湾光复纪念日",
+      "onboard_time": 1761302481,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2572562,
@@ -4281,6 +4289,14 @@
       "onboard_time": 1759706597,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 778295,
+      "num": 177140,
+      "word": "宝格丽CEO给刘亦菲带的词条",
+      "onboard_time": 1761303200,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 777517,
@@ -15243,6 +15259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305200,
+      "num": 244409,
+      "word": "水龙吟云包场",
+      "onboard_time": 1761301280,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305111,
       "num": 305111,
       "word": "张杰演唱会电力故障用喇叭唱逆战",
@@ -15553,6 +15577,14 @@
       "onboard_time": 1761226163,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298857,
+      "num": 298857,
+      "word": "KK园区上千人趁乱逃离",
+      "onboard_time": 1761300501,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298842,
@@ -16464,6 +16496,14 @@
       "word": "未来3天冷冷冷冷冷",
       "onboard_time": 1760865801,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281553,
+      "num": 174717,
+      "word": "男子离婚后带7个娃全网道歉求复合",
+      "onboard_time": 1761304699,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -18849,14 +18889,6 @@
       "onboard_time": 1759966459,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 244409,
-      "num": 244409,
-      "word": "水龙吟云包场",
-      "onboard_time": 1761301280,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 244283,
@@ -21897,6 +21929,14 @@
       "onboard_time": 1760410461,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205286,
+      "num": 168151,
+      "word": "刘涛神图有了",
+      "onboard_time": 1761303860,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 205141,
@@ -26507,6 +26547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 179012,
+      "num": 167692,
+      "word": "S15瑞士轮第五轮抽签",
+      "onboard_time": 1761304281,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179011,
       "num": 218759,
       "word": "只因手上有茧父亲遭日军枪杀",
@@ -26825,6 +26873,14 @@
       "onboard_time": 1760669182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177452,
+      "num": 177452,
+      "word": "水龙吟特效",
+      "onboard_time": 1761304880,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 177435,
@@ -28905,6 +28961,14 @@
       "onboard_time": 1759484961,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 167301,
+      "num": 167301,
+      "word": "Faker被单杀",
+      "onboard_time": 1761303981,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 167221,
@@ -38755,6 +38819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131873,
+      "num": 171126,
+      "word": "喜人奇妙夜 票数",
+      "onboard_time": 1761304221,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -39395,14 +39467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129989,
-      "num": 152237,
-      "word": "KK园区上千人趁乱逃离",
-      "onboard_time": 1761300501,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129973,
       "num": 141579,
       "word": "王楚钦林诗栋3比0徐瑛彬袁励岑",
@@ -39777,6 +39841,14 @@
       "onboard_time": 1760518341,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129020,
+      "num": 129020,
+      "word": "何瑞贤工作室还缺人吗",
+      "onboard_time": 1761303440,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 129013,
@@ -41219,6 +41291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "喜欢吃猕猴桃的人嘴真严啊",
+      "onboard_time": 1761299180,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125519,
       "num": 125519,
       "word": "一诺继续朝着目标努力",
@@ -41473,14 +41553,6 @@
       "onboard_time": 1759662503,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125012,
-      "num": 125012,
-      "word": "喜欢吃猕猴桃的人嘴真严啊",
-      "onboard_time": 1761299180,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 124981,
@@ -42697,6 +42769,14 @@
       "onboard_time": 1760699963,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 122174,
+      "num": 153189,
+      "word": "100T对战T1",
+      "onboard_time": 1761301581,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 122164,
@@ -45753,6 +45833,14 @@
       "onboard_time": 1759584141,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115653,
+      "num": 115653,
+      "word": "水龙吟好看吗",
+      "onboard_time": 1761304521,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115642,
@@ -49307,6 +49395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109288,
+      "num": 119867,
+      "word": "双十一 退货潮",
+      "onboard_time": 1761303322,
+      "rank": 35,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 109281,
       "num": 109281,
       "word": "宋亚轩给胡先煦打电话必定在做惩罚",
@@ -50009,6 +50105,14 @@
       "onboard_time": 1759323861,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108079,
+      "num": 108079,
+      "word": "15万元被当垃圾扔了",
+      "onboard_time": 1761304760,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108068,
@@ -53499,6 +53603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102232,
+      "num": 100358,
+      "word": "孔雪儿线下怎么美成这样",
+      "onboard_time": 1761302540,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102231,
       "num": 102231,
       "word": "人类真该发明点新零食了",
@@ -54571,12 +54683,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 100358,
-      "num": 100358,
-      "word": "孔雪儿线下怎么美成这样",
-      "onboard_time": 1761302540,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 100362,
+      "num": 100362,
+      "word": "陈奕恒Hurts破千万播放",
+      "onboard_time": 1761302779,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 100357,
@@ -55233,6 +55345,14 @@
       "onboard_time": 1760970321,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99057,
+      "num": 170347,
+      "word": "当地回应男童喝珍珠奶茶窒息身亡",
+      "onboard_time": 1761304039,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99050,
@@ -56385,6 +56505,14 @@
       "onboard_time": 1759624219,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96663,
+      "num": 96663,
+      "word": "眼睛出现这3个信号及时就医",
+      "onboard_time": 1761304760,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96656,
@@ -60411,6 +60539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89599,
+      "num": 89599,
+      "word": "高三男生被邻居撞伤致死母亲发声",
+      "onboard_time": 1761304880,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89580,
       "num": 89580,
       "word": "妈妈会把所有东西都养成XXL",
@@ -62763,6 +62899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85116,
+      "num": 95790,
+      "word": "T1纪录片里的iG",
+      "onboard_time": 1761302900,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85101,
       "num": 85101,
       "word": "鸡排哥同款炸鸡排",
@@ -64401,14 +64545,6 @@
       "onboard_time": 1759541359,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81659,
-      "num": 153189,
-      "word": "100T对战T1",
-      "onboard_time": 1761301581,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 81627,
@@ -66481,14 +66617,6 @@
       "onboard_time": 1761146600,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76696,
-      "num": 88615,
-      "word": "设台湾光复纪念日",
-      "onboard_time": 1761302481,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76677,
@@ -72243,6 +72371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53997,
+      "num": 117389,
+      "word": "洪延明世锦赛鞍马金牌",
+      "onboard_time": 1761303800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53966,
       "num": 106371,
       "word": "TOP左一声姐姐右一声姐姐",
@@ -74571,6 +74707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41726,
+      "num": 109846,
+      "word": "女子监控发现陌生人用指纹进自家门",
+      "onboard_time": 1761304339,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41705,
       "num": 177112,
       "word": "我的成长藏在故宫的日升月落里",
@@ -75777,6 +75921,14 @@
       "onboard_time": 1760503282,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34885,
+      "num": 102305,
+      "word": "陈梦全运会以赛代练",
+      "onboard_time": 1761303622,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 34884,
