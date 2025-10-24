@@ -1,0 +1,410 @@
+{
+  "runTime": 1761319687749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758222,
+        "num": 1121315,
+        "word": "设台湾光复纪念日",
+        "onboard_time": 1761302481,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375736,
+        "num": 375736,
+        "word": "普京呼吁年轻人不要推迟生育",
+        "onboard_time": 1761311482,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85114,
+        "num": 315029,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310310,
+        "num": 310310,
+        "word": "科学家称外星人或已懒得理我们",
+        "onboard_time": 1761312441,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 250556,
+        "num": 250556,
+        "word": "KK园区上千人趁乱逃离",
+        "onboard_time": 1761300501,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 393324,
+        "num": 250287,
+        "word": "况盛发布声明",
+        "onboard_time": 1761310580,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354964,
+        "num": 247577,
+        "word": "水龙吟",
+        "onboard_time": 1761299240,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243221,
+        "num": 243221,
+        "word": "国台办谈设立台湾光复纪念日",
+        "onboard_time": 1761310522,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235933,
+        "num": 235933,
+        "word": "15万元被当垃圾扔了",
+        "onboard_time": 1761304760,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234959,
+        "num": 234959,
+        "word": "张柏芝 大儿子管我管得很凶",
+        "onboard_time": 1761308421,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3077675,
+        "num": 233771,
+        "word": "李金铭 去哪了",
+        "onboard_time": 1761315502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664473,
+        "num": 232153,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356688,
+        "num": 229471,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316012,
+        "num": 226242,
+        "word": "男童喝奶茶身亡家长指控珍珠尺寸过大",
+        "onboard_time": 1761305720,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278206,
+        "num": 223247,
+        "word": "罗云熙水龙吟太瘦了",
+        "onboard_time": 1761307221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746597,
+        "num": 221284,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238214,
+        "num": 218663,
+        "word": "杨紫被路人认出只用了0.01s",
+        "onboard_time": 1761305600,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218088,
+        "num": 218088,
+        "word": "马君妍怀孕三个月做NT检查",
+        "onboard_time": 1761310223,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178111,
+        "num": 178111,
+        "word": "男子教女儿游泳时跳水致死",
+        "onboard_time": 1761308061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171786,
+        "num": 171786,
+        "word": "程潇饿到直不起身",
+        "onboard_time": 1761315442,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398530,
+        "num": 169530,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348630,
+        "num": 167136,
+        "word": "赵樱子官宣分手",
+        "onboard_time": 1761288800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164236,
+        "num": 164236,
+        "word": "AG对战KSG",
+        "onboard_time": 1761301341,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164027,
+        "num": 164027,
+        "word": "男子离婚后带7个娃全网道歉求复合",
+        "onboard_time": 1761304699,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160646,
+        "num": 160646,
+        "word": "彭昱畅真拉没推人咋下去的",
+        "onboard_time": 1761318982,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156435,
+        "num": 156435,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "一路繁花2七个人才吃了799",
+        "onboard_time": 1761315683,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144506,
+        "num": 144506,
+        "word": "李沁陈哲远曾舜晞你们三个过吧",
+        "onboard_time": 1761316823,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139856,
+        "num": 139856,
+        "word": "刘嘉玲说谢霆锋妈妈夸赞张柏芝",
+        "onboard_time": 1761315624,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110578,
+        "num": 137033,
+        "word": "祖国大陆离台湾最近的距离",
+        "onboard_time": 1761312562,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137031,
+        "num": 137031,
+        "word": "AG再次晋级年总胜决",
+        "onboard_time": 1761319461,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "佟丽娅到底想定几门娃娃亲",
+        "onboard_time": 1761315383,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124841,
+        "num": 124841,
+        "word": "温峥嵘第一次见肖战的时候脸红了",
+        "onboard_time": 1761308301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123772,
+        "num": 123772,
+        "word": "中国唱将",
+        "onboard_time": 1761318622,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123692,
+        "num": 123692,
+        "word": "鹿晗香港演唱会",
+        "onboard_time": 1761309622,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122678,
+        "num": 122678,
+        "word": "陈瑶不愧是天选古人",
+        "onboard_time": 1761319222,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116625,
+        "num": 116625,
+        "word": "TES抽中BLG",
+        "onboard_time": 1761307942,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116529,
+        "num": 116529,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114339,
+        "num": 114339,
+        "word": "情侣争吵女方自杀男方被判无罪",
+        "onboard_time": 1761312984,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84098,
+        "num": 111808,
+        "word": "男孩窒息事件蹦床商家称已尽责",
+        "onboard_time": 1761316643,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122455,
+        "num": 111742,
+        "word": "鹿晗眼角的星星",
+        "onboard_time": 1761318862,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111589,
+        "num": 111589,
+        "word": "宝格丽CEO给刘亦菲带的词条",
+        "onboard_time": 1761303200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104472,
+        "num": 104472,
+        "word": "特朗普对以色列放出迄今最明确警告",
+        "onboard_time": 1761319402,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102280,
+        "num": 102280,
+        "word": "龚俊发红包",
+        "onboard_time": 1761316102,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101708,
+        "num": 101708,
+        "word": "空枪",
+        "onboard_time": 1761319643,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101251,
+        "num": 101251,
+        "word": "VOGUE群星风的形态创意大片",
+        "onboard_time": 1761317122,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 99990,
+        "num": 99990,
+        "word": "邵兵罕见露面力挺儿子邵子恒",
+        "onboard_time": 1761319643,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93778,
+        "num": 99951,
+        "word": "医生建议频繁洗澡不如多泡脚",
+        "onboard_time": 1761319103,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69170,
+        "num": 99951,
+        "word": "A股释放两大信号",
+        "onboard_time": 1761316162,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56408,
+        "num": 99951,
+        "word": "医院打造亚朵病房被亚朵酒店起诉",
+        "onboard_time": 1761310940,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
