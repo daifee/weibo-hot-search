@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761367336039,
+  "endTime": 1761369876432,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -2139,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472845,
+      "num": 255137,
+      "word": "你把最难卖的一块买走了",
+      "onboard_time": 1761364699,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468822,
       "num": 429054,
       "word": "结婚了但是不熟",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1761222863,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 457504,
+      "num": 457504,
+      "word": "上海机场总经理辞职",
+      "onboard_time": 1761366441,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456864,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1761270260,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 379759,
-      "num": 255137,
-      "word": "你把最难卖的一块买走了",
-      "onboard_time": 1761364699,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 379619,
@@ -4251,6 +4259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277147,
+      "num": 212075,
+      "word": "金店回应125克金手链剪开倒出沙子",
+      "onboard_time": 1761363681,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277135,
       "num": 627340,
       "word": "电影空枪",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1760888122,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268372,
+      "num": 268666,
+      "word": "现在就出发",
+      "onboard_time": 1761365120,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 268152,
@@ -4649,14 +4673,6 @@
       "onboard_time": 1761022763,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246529,
-      "num": 268666,
-      "word": "现在就出发",
-      "onboard_time": 1761365120,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 246017,
@@ -5224,14 +5240,6 @@
       "word": "吴石将军之子大学档案展出",
       "onboard_time": 1761049762,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212075,
-      "num": 212075,
-      "word": "金店回应125克金手链剪开倒出沙子",
-      "onboard_time": 1761363681,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -6196,7 +6204,7 @@
     },
     {
       "raw_hot": 188767,
-      "num": 175167,
+      "num": 178824,
       "word": "旅游6年赚2600万",
       "onboard_time": 1761365601,
       "rank": 30,
@@ -6753,6 +6761,14 @@
       "onboard_time": 1760933963,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176008,
+      "num": 218525,
+      "word": "男童喝珍珠奶茶窒息身亡最新进展",
+      "onboard_time": 1761366981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175946,
@@ -8307,14 +8323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150912,
-      "num": 233879,
-      "word": "上海机场总经理辞职",
-      "onboard_time": 1761366441,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150840,
       "num": 150840,
       "word": "18年前的今天嫦娥一号成功发射",
@@ -8385,6 +8393,14 @@
       "onboard_time": 1761104721,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150206,
+      "num": 150206,
+      "word": "刘亦菲与钟丽缇母女合照",
+      "onboard_time": 1761365540,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 150072,
@@ -8931,6 +8947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140740,
+      "num": 140740,
+      "word": "东契奇爆砍49分11篮板",
+      "onboard_time": 1761368961,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140581,
       "num": 140581,
       "word": "秋赤音 奇迹暖暖",
@@ -9097,6 +9121,14 @@
       "onboard_time": 1760849841,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138206,
+      "num": 138206,
+      "word": "李沁 中东贵妇又出手了",
+      "onboard_time": 1761366141,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138025,
@@ -9611,6 +9643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131862,
+      "num": 131862,
+      "word": "反派手下不穿红衣犯法吗",
+      "onboard_time": 1761368841,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -9897,14 +9937,6 @@
       "onboard_time": 1761355879,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128603,
-      "num": 128603,
-      "word": "刘亦菲与钟丽缇母女合照",
-      "onboard_time": 1761365540,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 128428,
@@ -10859,6 +10891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120386,
+      "num": 120386,
+      "word": "鸡排哥回应收入和商业合作",
+      "onboard_time": 1761365601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120341,
       "num": 1301251,
       "word": "挖到拼多多好评率99%的十年老店",
@@ -11009,14 +11049,6 @@
       "onboard_time": 1761019821,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119158,
-      "num": 119158,
-      "word": "李沁 中东贵妇又出手了",
-      "onboard_time": 1761366141,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119057,
@@ -12475,6 +12507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107248,
+      "num": 107248,
+      "word": "NBA",
+      "onboard_time": 1761369381,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107244,
       "num": 435919,
       "word": "武艺外婆对高个子的标准是一米六",
@@ -12651,6 +12691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "最纯爱的那年TFBOYS浴缸上唱好想你",
+      "onboard_time": 1761369021,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
@@ -12665,6 +12713,14 @@
       "onboard_time": 1761290540,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105886,
+      "num": 105886,
+      "word": "李治良写的本真的不能放出来吗",
+      "onboard_time": 1761369500,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 105721,
@@ -13875,6 +13931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98127,
+      "num": 107838,
+      "word": "成毅燃剑上线",
+      "onboard_time": 1761367823,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98018,
       "num": 175295,
       "word": "蒋易孙天宇回应舞台事故",
@@ -13889,6 +13953,14 @@
       "onboard_time": 1761054803,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97981,
+      "num": 108991,
+      "word": "一个兵人一只蜘蛛成soulmate了",
+      "onboard_time": 1761368541,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 97852,
@@ -14523,6 +14595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93707,
+      "num": 93707,
+      "word": "山西立法对剩女标签说不",
+      "onboard_time": 1761367400,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93699,
       "num": 93699,
       "word": "短剧也要带货了",
@@ -14689,6 +14769,22 @@
       "onboard_time": 1760877922,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92964,
+      "num": 92964,
+      "word": "Tim荒岛求生还顾上数400个蚊子包",
+      "onboard_time": 1761368600,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92889,
+      "num": 92889,
+      "word": "天猫双11再发万元大券包",
+      "onboard_time": 1761368721,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 92822,
@@ -15419,6 +15515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88183,
+      "num": 88183,
+      "word": "张晚意这形容让我无力反驳",
+      "onboard_time": 1761369741,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88149,
       "num": 88149,
       "word": "解放军这一罕见表述澳方应读懂",
@@ -15585,14 +15689,6 @@
       "onboard_time": 1760877742,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86940,
-      "num": 218525,
-      "word": "男童喝珍珠奶茶窒息身亡最新进展",
-      "onboard_time": 1761366981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86883,
@@ -16265,6 +16361,14 @@
       "onboard_time": 1761030262,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82959,
+      "num": 82959,
+      "word": "张婧仪生图明媚成这样",
+      "onboard_time": 1761367939,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82858,
@@ -17516,7 +17620,7 @@
     },
     {
       "raw_hot": 73294,
-      "num": 75702,
+      "num": 81901,
       "word": "鸡排哥鸡排预处理现场曝光",
       "onboard_time": 1761363261,
       "rank": 46,
@@ -18299,6 +18403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65968,
+      "num": 82302,
+      "word": "库里返老还童",
+      "onboard_time": 1761368183,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65940,
       "num": 82797,
       "word": "VOGUE回应化妆室在马圈里",
@@ -18993,14 +19105,6 @@
       "onboard_time": 1761119421,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57815,
-      "num": 108460,
-      "word": "鸡排哥回应收入和商业合作",
-      "onboard_time": 1761365601,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57775,
@@ -21017,6 +21121,14 @@
       "onboard_time": 1760968882,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 19744,
+      "num": 95004,
+      "word": "肥娟夫妇婚礼请了十多桌网友",
+      "onboard_time": 1761369261,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 19567,
