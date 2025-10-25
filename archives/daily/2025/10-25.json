@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761374090981,
+  "endTime": 1761374792112,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 429182,
+      "num": 429182,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 405070,
       "num": 161891,
       "word": "妈妈因病去世女儿狂转眼珠不让泪流",
@@ -203,20 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 347164,
+      "raw_hot": 349370,
       "num": 157810,
       "word": "王一栩回宫",
       "onboard_time": 1761370400,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 347110,
-      "num": 347110,
-      "word": "事业编",
-      "onboard_time": 1761370040,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 346055,
@@ -267,20 +267,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294508,
+      "num": 184666,
+      "word": "天地剑心热度",
+      "onboard_time": 1761371300,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291110,
+      "num": 157534,
+      "word": "6岁女童与哥哥争抢手机后突发脑梗",
+      "onboard_time": 1761371540,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291084,
       "num": 268666,
       "word": "现在就出发",
       "onboard_time": 1761365120,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289426,
-      "num": 184666,
-      "word": "天地剑心热度",
-      "onboard_time": 1761371300,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 286543,
@@ -304,14 +312,6 @@
       "word": "金店回应125克金手链剪开倒出沙子",
       "onboard_time": 1761363681,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266991,
-      "num": 157534,
-      "word": "6岁女童与哥哥争抢手机后突发脑梗",
-      "onboard_time": 1761371540,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228273,
+      "num": 156994,
+      "word": "三大影后居然坐一起讨论怎么养鸡",
+      "onboard_time": 1761371241,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225076,
       "num": 148054,
       "word": "易烊千玺拍毕业照了",
@@ -371,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216710,
-      "num": 156994,
-      "word": "三大影后居然坐一起讨论怎么养鸡",
-      "onboard_time": 1761371241,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 210894,
+      "num": 155762,
+      "word": "蒋欣吃太多被经纪人看管了",
+      "onboard_time": 1761372620,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 209521,
@@ -425,14 +433,6 @@
       "onboard_time": 1761310522,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197381,
-      "num": 155762,
-      "word": "蒋欣吃太多被经纪人看管了",
-      "onboard_time": 1761372620,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 195980,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163983,
+      "num": 151067,
+      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+      "onboard_time": 1761371540,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
@@ -553,6 +561,14 @@
       "onboard_time": 1761352401,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160883,
+      "num": 152818,
+      "word": "西藏文旅真的把奔跑吧许来了",
+      "onboard_time": 1761373821,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 156138,
@@ -627,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144693,
-      "num": 144693,
-      "word": "西藏文旅真的把奔跑吧许来了",
-      "onboard_time": 1761373821,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144353,
       "num": 63167,
       "word": "何赛飞向张柏芝道歉",
       "onboard_time": 1761348138,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144118,
+      "num": 144118,
+      "word": "王者荣耀本命英雄来电",
+      "onboard_time": 1761373400,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 143712,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140824,
+      "num": 140824,
+      "word": "金正恩摸脸拥抱伤愈援俄士兵",
+      "onboard_time": 1761371719,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139125,
       "num": 139125,
       "word": "邵子恒 干男团的",
@@ -699,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136242,
-      "num": 136242,
-      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
-      "onboard_time": 1761371540,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135719,
       "num": 135719,
       "word": "马吟吟没有戏拍",
@@ -721,14 +737,6 @@
       "onboard_time": 1761368841,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130889,
-      "num": 130889,
-      "word": "王者荣耀本命英雄来电",
-      "onboard_time": 1761373400,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 130416,
@@ -777,14 +785,6 @@
       "onboard_time": 1761353540,
       "rank": 27,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 127050,
-      "word": "金正恩摸脸拥抱伤愈援俄士兵",
-      "onboard_time": 1761371719,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126373,
@@ -867,6 +867,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117922,
+      "num": 117922,
+      "word": "李施嬅车崇健",
+      "onboard_time": 1761372680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117166,
       "num": 117166,
       "word": "向佐去跳团播了",
@@ -923,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112253,
+      "num": 112253,
+      "word": "宋威龙 幻梦已破碎",
+      "onboard_time": 1761372920,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111439,
       "num": 111439,
       "word": "李雪琴常驻综艺多的原因有了",
@@ -936,6 +952,14 @@
       "word": "男子登顶雪山同时看到两座日照金山",
       "onboard_time": 1761356600,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111267,
+      "num": 111267,
+      "word": "船员出海难忍晕船自杀家人发声",
+      "onboard_time": 1761373281,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1057,22 +1081,6 @@
       "onboard_time": 1761363740,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100469,
-      "num": 100469,
-      "word": "船员出海难忍晕船自杀家人发声",
-      "onboard_time": 1761373281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100067,
-      "num": 100067,
-      "word": "李施嬅车崇健",
-      "onboard_time": 1761372680,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 99754,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 92889,
-      "num": 92889,
+      "num": 152330,
       "word": "天猫双11再发万元大券包",
       "onboard_time": 1761368721,
       "rank": 44,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1761373161,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90255,
+      "num": 111299,
+      "word": "刘宇演唱会",
+      "onboard_time": 1761374241,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 89795,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1761360260,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87444,
+      "num": 87444,
+      "word": "这快递她的她的都是她的",
+      "onboard_time": 1761374241,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 87249,
@@ -1371,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81293,
+      "num": 81293,
+      "word": "南方人不要轻易去北方体验地暖",
+      "onboard_time": 1761374479,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81115,
       "num": 81115,
       "word": "宁静 偶像哪里有什么女朋友",
@@ -1387,12 +1419,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 80770,
-      "num": 101070,
-      "word": "宋威龙 幻梦已破碎",
-      "onboard_time": 1761372920,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 80852,
+      "num": 80852,
+      "word": "杜兰特37分",
+      "onboard_time": 1761374241,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 80159,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1761323120,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73831,
+      "num": 73831,
+      "word": "刘亦菲 敏捷大明星迟钝助理",
+      "onboard_time": 1761372440,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 73294,
@@ -1691,6 +1731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59985,
+      "num": 100931,
+      "word": "四大平台男主剧对打",
+      "onboard_time": 1761374541,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1761308842,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46105,
+      "num": 102893,
+      "word": "生肉刷色变鲜红",
+      "onboard_time": 1761373341,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44578,
@@ -1777,14 +1833,6 @@
       "onboard_time": 1761366981,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35918,
-      "num": 102893,
-      "word": "生肉刷色变鲜红",
-      "onboard_time": 1761373341,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34362,

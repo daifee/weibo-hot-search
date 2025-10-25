@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761374090981,
+  "endTime": 1761374792112,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -2611,6 +2611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 429182,
+      "num": 429182,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 428776,
       "num": 417242,
       "word": "深圳失联70余天小伙遗体已找到",
@@ -3283,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349370,
+      "num": 157810,
+      "word": "王一栩回宫",
+      "onboard_time": 1761370400,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348964,
       "num": 228970,
       "word": "马君妍怀孕三个月做NT检查",
@@ -3297,22 +3313,6 @@
       "onboard_time": 1761186979,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347164,
-      "num": 157810,
-      "word": "王一栩回宫",
-      "onboard_time": 1761370400,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 347110,
-      "num": 347110,
-      "word": "事业编",
-      "onboard_time": 1761370040,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 346067,
@@ -4043,6 +4043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 294508,
+      "num": 184666,
+      "word": "天地剑心热度",
+      "onboard_time": 1761371300,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294000,
       "num": 294000,
       "word": "港珠澳大桥电影级日出",
@@ -4091,6 +4099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291110,
+      "num": 157534,
+      "word": "6岁女童与哥哥争抢手机后突发脑梗",
+      "onboard_time": 1761371540,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291084,
       "num": 268666,
       "word": "现在就出发",
@@ -4113,14 +4129,6 @@
       "onboard_time": 1761196100,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289426,
-      "num": 184666,
-      "word": "天地剑心热度",
-      "onboard_time": 1761371300,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 288290,
@@ -4441,14 +4449,6 @@
       "onboard_time": 1760838740,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266991,
-      "num": 157534,
-      "word": "6岁女童与哥哥争抢手机后突发脑梗",
-      "onboard_time": 1761371540,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266615,
@@ -4971,6 +4971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228273,
+      "num": 156994,
+      "word": "三大影后居然坐一起讨论怎么养鸡",
+      "onboard_time": 1761371241,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227907,
       "num": 177452,
       "word": "水龙吟特效",
@@ -5243,14 +5251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216710,
-      "num": 156994,
-      "word": "三大影后居然坐一起讨论怎么养鸡",
-      "onboard_time": 1761371241,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215759,
       "num": 215759,
       "word": "中方回应中美即将重返谈判桌",
@@ -5345,6 +5345,14 @@
       "onboard_time": 1761128480,
       "rank": 33,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 210894,
+      "num": 155762,
+      "word": "蒋欣吃太多被经纪人看管了",
+      "onboard_time": 1761372620,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 210501,
@@ -5833,14 +5841,6 @@
       "onboard_time": 1761226104,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 197381,
-      "num": 155762,
-      "word": "蒋欣吃太多被经纪人看管了",
-      "onboard_time": 1761372620,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 197315,
@@ -7587,6 +7587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163983,
+      "num": 151067,
+      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+      "onboard_time": 1761371540,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163973,
       "num": 1095542,
       "word": "孟子义cos我是认真的",
@@ -7809,6 +7817,14 @@
       "onboard_time": 1761033261,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160883,
+      "num": 152818,
+      "word": "西藏文旅真的把奔跑吧许来了",
+      "onboard_time": 1761373821,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 160842,
@@ -8827,14 +8843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144693,
-      "num": 144693,
-      "word": "西藏文旅真的把奔跑吧许来了",
-      "onboard_time": 1761373821,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144610,
       "num": 217155,
       "word": "钟楚曦工作室审美",
@@ -8905,6 +8913,14 @@
       "onboard_time": 1761130700,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144118,
+      "num": 144118,
+      "word": "王者荣耀本命英雄来电",
+      "onboard_time": 1761373400,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 144022,
@@ -9057,6 +9073,14 @@
       "onboard_time": 1761053001,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140824,
+      "num": 140824,
+      "word": "金正恩摸脸拥抱伤愈援俄士兵",
+      "onboard_time": 1761371719,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140581,
@@ -9369,14 +9393,6 @@
       "onboard_time": 1761036081,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136242,
-      "num": 136242,
-      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
-      "onboard_time": 1761371540,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136200,
@@ -9851,14 +9867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130889,
-      "num": 130889,
-      "word": "王者荣耀本命英雄来电",
-      "onboard_time": 1761373400,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "家里不乱的可以买回去添乱",
@@ -10217,14 +10225,6 @@
       "onboard_time": 1761353540,
       "rank": 27,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 127050,
-      "word": "金正恩摸脸拥抱伤愈援俄士兵",
-      "onboard_time": 1761371719,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127019,
@@ -11355,6 +11355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117922,
+      "num": 117922,
+      "word": "李施嬅车崇健",
+      "onboard_time": 1761372680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117894,
       "num": 213953,
       "word": "现货黄金跌破4220美元",
@@ -12019,6 +12027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112253,
+      "num": 112253,
+      "word": "宋威龙 幻梦已破碎",
+      "onboard_time": 1761372920,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112225,
       "num": 154467,
       "word": "VOGUE 马圈化妆室",
@@ -12153,6 +12169,14 @@
       "onboard_time": 1760869522,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111267,
+      "num": 111267,
+      "word": "船员出海难忍晕船自杀家人发声",
+      "onboard_time": 1761373281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111197,
@@ -13779,14 +13803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100469,
-      "num": 100469,
-      "word": "船员出海难忍晕船自杀家人发声",
-      "onboard_time": 1761373281,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100462,
       "num": 410244,
       "word": "女子帮母亲大扫除扔掉50万黄金首饰",
@@ -13841,14 +13857,6 @@
       "onboard_time": 1760876000,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100067,
-      "num": 100067,
-      "word": "李施嬅车崇健",
-      "onboard_time": 1761372680,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 99927,
@@ -14980,7 +14988,7 @@
     },
     {
       "raw_hot": 92889,
-      "num": 92889,
+      "num": 152330,
       "word": "天猫双11再发万元大券包",
       "onboard_time": 1761368721,
       "rank": 44,
@@ -15361,6 +15369,14 @@
       "onboard_time": 1761039021,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90255,
+      "num": 111299,
+      "word": "刘宇演唱会",
+      "onboard_time": 1761374241,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 90200,
@@ -15816,6 +15832,14 @@
       "word": "断崖式降温让我的懒有了合理性",
       "onboard_time": 1760838019,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87444,
+      "num": 87444,
+      "word": "这快递她的她的都是她的",
+      "onboard_time": 1761374241,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -16827,6 +16851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81293,
+      "num": 81293,
+      "word": "南方人不要轻易去北方体验地暖",
+      "onboard_time": 1761374479,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81232,
       "num": 81232,
       "word": "杨谨华金钟奖视后",
@@ -16907,6 +16939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80852,
+      "num": 80852,
+      "word": "杜兰特37分",
+      "onboard_time": 1761374241,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80810,
       "num": 244945,
       "word": "京东2351元补贴",
@@ -16921,14 +16961,6 @@
       "onboard_time": 1761112701,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80770,
-      "num": 101070,
-      "word": "宋威龙 幻梦已破碎",
-      "onboard_time": 1761372920,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 80694,
@@ -17825,6 +17857,14 @@
       "onboard_time": 1761103821,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73831,
+      "num": 73831,
+      "word": "刘亦菲 敏捷大明星迟钝助理",
+      "onboard_time": 1761372440,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 73685,
@@ -19171,6 +19211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59985,
+      "num": 100931,
+      "word": "四大平台男主剧对打",
+      "onboard_time": 1761374541,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59786,
       "num": 228571,
       "word": "男子因飞机延误扬言炸昆明机场",
@@ -20067,6 +20115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46105,
+      "num": 102893,
+      "word": "生肉刷色变鲜红",
+      "onboard_time": 1761373341,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46005,
       "num": 235968,
       "word": "一张图教你用天猫万元大券包",
@@ -20625,14 +20681,6 @@
       "onboard_time": 1761261137,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 35918,
-      "num": 102893,
-      "word": "生肉刷色变鲜红",
-      "onboard_time": 1761373341,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35407,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761374792112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1637408,
+        "num": 1637408,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429182,
+        "num": 429182,
+        "word": "事业编",
+        "onboard_time": 1761370040,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 9307,
+        "num": 274677,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249520,
+        "num": 249520,
+        "word": "上海机场总经理辞职",
+        "onboard_time": 1761366441,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173395,
+        "num": 173395,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378246,
+        "num": 169524,
+        "word": "天地剑心",
+        "onboard_time": 1761369021,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185356,
+        "num": 169519,
+        "word": "成毅打戏",
+        "onboard_time": 1761373400,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294508,
+        "num": 167153,
+        "word": "天地剑心热度",
+        "onboard_time": 1761371300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163286,
+        "num": 163286,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155420,
+        "num": 155420,
+        "word": "东契奇爆砍49分11篮板",
+        "onboard_time": 1761368961,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 807078,
+        "num": 155270,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609031,
+        "num": 154842,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551765,
+        "num": 154660,
+        "word": "易烊千玺参加补办毕业典礼",
+        "onboard_time": 1761364880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475086,
+        "num": 154466,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349370,
+        "num": 153876,
+        "word": "王一栩回宫",
+        "onboard_time": 1761370400,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347871,
+        "num": 153547,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303266,
+        "num": 153229,
+        "word": "你把最难卖的一块买走了",
+        "onboard_time": 1761364699,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291110,
+        "num": 153016,
+        "word": "6岁女童与哥哥争抢手机后突发脑梗",
+        "onboard_time": 1761371540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160883,
+        "num": 152818,
+        "word": "西藏文旅真的把奔跑吧许来了",
+        "onboard_time": 1761373821,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26249,
+        "num": 152330,
+        "word": "天猫双11再发万元大券包",
+        "onboard_time": 1761368721,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228273,
+        "num": 152152,
+        "word": "三大影后居然坐一起讨论怎么养鸡",
+        "onboard_time": 1761371241,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210894,
+        "num": 151934,
+        "word": "蒋欣吃太多被经纪人看管了",
+        "onboard_time": 1761372620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164130,
+        "num": 151497,
+        "word": "男童喝珍珠奶茶窒息身亡最新进展",
+        "onboard_time": 1761366981,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163983,
+        "num": 151067,
+        "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+        "onboard_time": 1761371540,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162274,
+        "num": 150974,
+        "word": "泰国理财神童离世",
+        "onboard_time": 1761363200,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150689,
+        "num": 150689,
+        "word": "金店回应125克金手链剪开倒出沙子",
+        "onboard_time": 1761363681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144118,
+        "num": 144118,
+        "word": "王者荣耀本命英雄来电",
+        "onboard_time": 1761373400,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140824,
+        "num": 140824,
+        "word": "金正恩摸脸拥抱伤愈援俄士兵",
+        "onboard_time": 1761371719,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127716,
+        "num": 127716,
+        "word": "旅游6年赚2600万",
+        "onboard_time": 1761365601,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106317,
+        "num": 123978,
+        "word": "杨瀚森2分2盖帽1篮板",
+        "onboard_time": 1761372139,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "原来大家小时候的审美都是一样的",
+        "onboard_time": 1761371780,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117922,
+        "num": 117922,
+        "word": "李施嬅车崇健",
+        "onboard_time": 1761372680,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112253,
+        "num": 112253,
+        "word": "宋威龙 幻梦已破碎",
+        "onboard_time": 1761372920,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "阿Sa祝福陈伟霆",
+        "onboard_time": 1761359839,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90255,
+        "num": 111299,
+        "word": "刘宇演唱会",
+        "onboard_time": 1761374241,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111267,
+        "num": 111267,
+        "word": "船员出海难忍晕船自杀家人发声",
+        "onboard_time": 1761373281,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104074,
+        "num": 104074,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86542,
+        "num": 101941,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59985,
+        "num": 100931,
+        "word": "四大平台男主剧对打",
+        "onboard_time": 1761374541,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100435,
+        "num": 100435,
+        "word": "男子当街直播猥亵称在搞抽象",
+        "onboard_time": 1761359721,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "向佐去跳团播了",
+        "onboard_time": 1761370460,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89622,
+        "num": 89622,
+        "word": "花儿与少年",
+        "onboard_time": 1761372079,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87444,
+        "num": 87444,
+        "word": "这快递她的她的都是她的",
+        "onboard_time": 1761374241,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46105,
+        "num": 82801,
+        "word": "生肉刷色变鲜红",
+        "onboard_time": 1761373341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81293,
+        "num": 81293,
+        "word": "南方人不要轻易去北方体验地暖",
+        "onboard_time": 1761374479,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80852,
+        "num": 80852,
+        "word": "杜兰特37分",
+        "onboard_time": 1761374241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77914,
+        "num": 77914,
+        "word": "夜宴",
+        "onboard_time": 1761374061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77902,
+        "num": 77902,
+        "word": "五月天上海",
+        "onboard_time": 1761373940,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73831,
+        "num": 73831,
+        "word": "刘亦菲 敏捷大明星迟钝助理",
+        "onboard_time": 1761372440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73377,
+        "num": 73377,
+        "word": "吴敬平发文祝贺樊振东获奖",
+        "onboard_time": 1761372020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
