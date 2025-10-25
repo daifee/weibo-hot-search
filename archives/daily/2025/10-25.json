@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761403160875,
+  "endTime": 1761405829868,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517224,
+      "num": 225556,
+      "word": "成毅 扛剧",
+      "onboard_time": 1761402323,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509470,
       "num": 509470,
       "word": "台湾光复全岛狂欢3天",
@@ -353,6 +361,30 @@
       "onboard_time": 1761364699,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 497184,
+      "num": 188901,
+      "word": "在游泳馆跳水身亡男子系体育老师",
+      "onboard_time": 1761404482,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496860,
+      "num": 233598,
+      "word": "鹿晗刚刚那段删掉",
+      "onboard_time": 1761400461,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 493562,
+      "num": 246537,
+      "word": "刘宇宁才知道高定可以拿回家",
+      "onboard_time": 1761399862,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 489847,
@@ -585,14 +617,6 @@
       "onboard_time": 1761378501,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 326452,
-      "num": 246537,
-      "word": "刘宇宁才知道高定可以拿回家",
-      "onboard_time": 1761399862,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 321724,
@@ -851,14 +875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233598,
-      "num": 233598,
-      "word": "鹿晗刚刚那段删掉",
-      "onboard_time": 1761400461,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 232611,
       "num": 93531,
       "word": "刘冲吐槽宋威龙拍照实力",
@@ -905,14 +921,6 @@
       "onboard_time": 1761376760,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222758,
-      "num": 222758,
-      "word": "成毅 扛剧",
-      "onboard_time": 1761402323,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 215291,
@@ -1027,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199668,
+      "num": 185477,
+      "word": "男子买马一觉醒来1匹变2匹",
+      "onboard_time": 1761403642,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199543,
       "num": 199543,
       "word": "章子怡颜色基础配饰就不基础",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1761397222,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195064,
+      "num": 185213,
+      "word": "G2抽到TES后全员大笑",
+      "onboard_time": 1761403942,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 194810,
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184905,
+      "num": 184905,
+      "word": "王者荣耀",
+      "onboard_time": 1761403402,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184747,
       "num": 184747,
       "word": "订婚花60万遭悔婚男子起诉返还",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1761395001,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178379,
+      "num": 178379,
+      "word": "脑梗来临前身体有3个征兆",
+      "onboard_time": 1761404122,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177245,
@@ -1387,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163659,
+      "num": 163659,
+      "word": "苏醒玩梗",
+      "onboard_time": 1761404662,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1761377480,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158224,
+      "num": 186150,
+      "word": "台湾光复当天的台湾街头",
+      "onboard_time": 1761398241,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156588,
@@ -1539,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153211,
-      "num": 164740,
-      "word": "台湾光复当天的台湾街头",
-      "onboard_time": 1761398241,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153141,
       "num": 153141,
       "word": "4岁女童吞硬币家人海姆立克无效",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1761398062,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146935,
+      "num": 146935,
+      "word": "印度村民称泼粪节感觉很好",
+      "onboard_time": 1761403642,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146807,
@@ -1755,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "天地剑心热度破8000",
+      "onboard_time": 1761405441,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138350,
       "num": 138350,
       "word": "张柏芝黎姿33年的友情",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1761362420,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135098,
+      "num": 135098,
+      "word": "李一桐介绍何瑞贤和郭俊辰认识",
+      "onboard_time": 1761404662,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 134685,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1761366502,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130361,
+      "num": 130361,
+      "word": "张予曦怼脸 好歹毒的镜头好美的脸",
+      "onboard_time": 1761403042,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 129979,
@@ -2219,6 +2299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114886,
+      "num": 114886,
+      "word": "王者荣耀世界2026年春天见",
+      "onboard_time": 1761404184,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114681,
       "num": 114681,
       "word": "Tian说TES赢在BP",
@@ -2379,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109956,
+      "num": 109956,
+      "word": "陈小春卫兰怎么不早点合作",
+      "onboard_time": 1761404423,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109658,
       "num": 133753,
       "word": "低估入青云的闭环伏笔了",
@@ -2401,6 +2497,14 @@
       "onboard_time": 1761362960,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109279,
+      "num": 149947,
+      "word": "希望机场服务让乘客能从容进飞机",
+      "onboard_time": 1761404002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108898,
@@ -2433,6 +2537,14 @@
       "onboard_time": 1761385580,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107885,
+      "num": 107885,
+      "word": "西安一辆保时捷新能源车突发自燃",
+      "onboard_time": 1761403942,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107650,
@@ -2468,7 +2580,7 @@
     },
     {
       "raw_hot": 106985,
-      "num": 115129,
+      "num": 132243,
       "word": "新一波冷空气续上了冷冷冷",
       "onboard_time": 1761399680,
       "rank": 39,
@@ -2547,6 +2659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103287,
+      "num": 103287,
+      "word": "逛锦州早市嘴有多忙",
+      "onboard_time": 1761405203,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103155,
       "num": 103155,
       "word": "白敬亭好像冷宫里疯了的妃子",
@@ -2596,7 +2716,7 @@
     },
     {
       "raw_hot": 102169,
-      "num": 102169,
+      "num": 130513,
       "word": "隋文静韩聪自由滑130.47分",
       "onboard_time": 1761402983,
       "rank": 43,
@@ -2721,14 +2841,6 @@
       "onboard_time": 1761320421,
       "rank": 32,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 97868,
-      "num": 97868,
-      "word": "张予曦怼脸 好歹毒的镜头好美的脸",
-      "onboard_time": 1761403042,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97816,
@@ -3379,6 +3491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72961,
+      "num": 390282,
+      "word": "未来五年的重点任务",
+      "onboard_time": 1761400643,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72948,
       "num": 72948,
       "word": "全球资产集体爆发",
@@ -3441,14 +3561,6 @@
       "onboard_time": 1761400821,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69887,
-      "num": 390282,
-      "word": "未来五年的重点任务",
-      "onboard_time": 1761400643,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69183,
