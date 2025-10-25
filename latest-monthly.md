@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 21:29:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 21:40:06
 </p>
 </blockquote>
 <p>
@@ -1965,6 +1965,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%89%AA%E7%9F%AD%E5%8F%91%E4%BA%86%23" target="weibo">
+刘宇宁剪短发了（热度：1018925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E5%92%8C%E6%96%B0%E5%A8%98%E5%9C%A8%E5%A9%9A%E8%BD%A6%E4%B8%8A%E4%B8%80%E7%9B%B4%E4%BA%89%E5%90%B5%23" target="weibo">
 跳河新郎和新娘在婚车上一直争吵（热度：1018522）
 </a>
@@ -2291,12 +2297,6 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B8%80%E5%A4%A9%E6%AF%94%E4%B8%80%E5%A4%A9%E8%A3%82%23" target="weibo">
 杨洋的手机壳一天比一天裂（热度：945521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%89%AA%E7%9F%AD%E5%8F%91%E4%BA%86%23" target="weibo">
-刘宇宁剪短发了（热度：943845）
 </a>
 </li>
 
@@ -4311,6 +4311,12 @@ ELLE（热度：673195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+长期熬夜的受害者出现了（热度：666917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%A3%E8%AF%AF%23" target="weibo">
 普京口误（热度：666817）
 </a>
@@ -4569,6 +4575,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E4%B8%BA%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E7%AB%99%E5%8F%B0%23" target="weibo">
+江西一公安局副局长为黑恶势力站台（热度：643195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E7%BD%91%E7%BA%A2%E8%A2%AB%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%9D%80%E5%AE%B3%E6%8A%9B%E5%B0%B8%23" target="weibo">
 韩女网红被榜一大哥杀害抛尸（热度：642912）
 </a>
@@ -4625,12 +4637,6 @@ TheShy在干啥（热度：644110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%A1%AE%E5%AE%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 网传将门毒后确定迪丽热巴（热度：637256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E4%B8%BA%E9%BB%91%E6%81%B6%E5%8A%BF%E5%8A%9B%E7%AB%99%E5%8F%B0%23" target="weibo">
-江西一公安局副局长为黑恶势力站台（热度：637041）
 </a>
 </li>
 
@@ -5727,6 +5733,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E6%96%B9%E7%A7%B0%E6%B3%B0%E5%9B%BD%E7%A6%81%E5%A8%B130%E5%A4%A9%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%AE%9E%23" target="weibo">
+泰方称泰国禁娱30天传言不实（热度：555400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%97%E4%BD%86%E6%98%AF%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 小众但是月入过万的工作（热度：555369）
 </a>
@@ -5999,18 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E4%B8%A5%E6%AD%A3%E5%8F%91%E5%A3%B0%23" target="weibo">
 中国驻韩国大使馆严正发声（热度：540093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9C%B0%E9%93%81%E4%B8%8A%E5%9B%A0%E4%BB%96%E4%BA%BA%E8%AF%B4%E5%88%B0%E9%B8%A1%E9%B8%A3%E5%AF%BA%E6%80%A5%E7%9C%BC%23" target="weibo">
-女子在地铁上因他人说到鸡鸣寺急眼（热度：539641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
-知情人士称宗馥莉正常上班（热度：539592）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761398956921,
+  "endTime": 1761399606320,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -107,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1018925,
+      "num": 368120,
+      "word": "刘宇宁剪短发了",
+      "onboard_time": 1761394341,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 978727,
       "num": 287469,
       "word": "陈伟霆说儿子长大签英皇",
@@ -129,14 +137,6 @@
       "onboard_time": 1761364880,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943845,
-      "num": 368120,
-      "word": "刘宇宁剪短发了",
-      "onboard_time": 1761394341,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 924043,
@@ -195,6 +195,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 666917,
+      "num": 310354,
+      "word": "长期熬夜的受害者出现了",
+      "onboard_time": 1761394761,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 643195,
+      "num": 1102911,
+      "word": "江西一公安局副局长为黑恶势力站台",
+      "onboard_time": 1761395781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642651,
       "num": 642651,
       "word": "深圳机场会同航空公司启动核查",
@@ -209,14 +225,6 @@
       "onboard_time": 1761323898,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 637041,
-      "num": 637041,
-      "word": "江西一公安局副局长为黑恶势力站台",
-      "onboard_time": 1761395781,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 622179,
@@ -257,6 +265,14 @@
       "onboard_time": 1761386241,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555400,
+      "num": 555400,
+      "word": "泰方称泰国禁娱30天传言不实",
+      "onboard_time": 1761378380,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 546078,
@@ -523,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331218,
-      "num": 295715,
-      "word": "长期熬夜的受害者出现了",
-      "onboard_time": 1761394761,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 328818,
       "num": 214468,
       "word": "你缺的不是衣服而是打扮思路",
@@ -707,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 267211,
+      "num": 267211,
+      "word": "闫妮和任素汐吵架根本不像演的",
+      "onboard_time": 1761397281,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263425,
       "num": 216489,
       "word": "郑智化连滚带爬进飞机",
@@ -859,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205693,
+      "num": 316000,
+      "word": "男子杀母后网购裹尸袋并盗母亲财物",
+      "onboard_time": 1761396082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205587,
       "num": 328866,
       "word": "天地剑心审美",
@@ -907,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200524,
-      "num": 316000,
-      "word": "男子杀母后网购裹尸袋并盗母亲财物",
-      "onboard_time": 1761396082,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200346,
       "num": 257230,
       "word": "一路繁花居然敢把这2分21秒剪进去",
@@ -939,12 +955,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 198820,
-      "num": 198820,
-      "word": "闫妮和任素汐吵架根本不像演的",
-      "onboard_time": 1761397281,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 199543,
+      "num": 199543,
+      "word": "章子怡颜色基础配饰就不基础",
+      "onboard_time": 1761398422,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 197209,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1761375980,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189987,
+      "num": 241791,
+      "word": "少年的你发了新剧照",
+      "onboard_time": 1761399082,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 189914,
@@ -1219,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167336,
+      "num": 167336,
+      "word": "姿态回应抽签",
+      "onboard_time": 1761398182,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166107,
       "num": 166107,
       "word": "荣耀水晶爆率好高",
@@ -1275,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163535,
-      "num": 163535,
-      "word": "章子怡颜色基础配饰就不基础",
-      "onboard_time": 1761398422,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
@@ -1307,20 +1331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159563,
+      "num": 159563,
+      "word": "刘宇宁羞羞答答勾勾搭搭",
+      "onboard_time": 1761398543,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159273,
       "num": 154957,
       "word": "天地剑心唢呐BGM",
       "onboard_time": 1761377480,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157711,
-      "num": 157711,
-      "word": "姿态回应抽签",
-      "onboard_time": 1761398182,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 156588,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1761352339,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153211,
+      "num": 164740,
+      "word": "台湾光复当天的台湾街头",
+      "onboard_time": 1761398241,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153141,
@@ -1635,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "燕子滞留部分死亡",
+      "onboard_time": 1761398721,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136789,
       "num": 136789,
       "word": "暗河传台词尺度",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1761388880,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134541,
+      "num": 134541,
+      "word": "Beichuan回应输给TES",
+      "onboard_time": 1761398422,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 134363,
@@ -1747,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129130,
+      "num": 138770,
+      "word": "天地剑心爱奇艺热度破7500",
+      "onboard_time": 1761398721,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128929,
       "num": 128929,
       "word": "台名嘴称台湾回归天经地义",
@@ -1771,22 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128331,
-      "num": 128331,
-      "word": "Beichuan回应输给TES",
-      "onboard_time": 1761398422,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 127405,
-      "num": 127405,
-      "word": "台湾光复当天的台湾街头",
-      "onboard_time": 1761398241,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127346,
       "num": 127346,
       "word": "金正恩参谒志愿军陵园",
@@ -1800,14 +1840,6 @@
       "word": "河南一大爷院子太干净成打卡地",
       "onboard_time": 1761366260,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127259,
-      "num": 127259,
-      "word": "燕子滞留部分死亡",
-      "onboard_time": 1761398721,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1931,14 +1963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121702,
-      "num": 118202,
-      "word": "天地剑心爱奇艺热度破7500",
-      "onboard_time": 1761398721,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120640,
       "num": 120640,
       "word": "TES和BLG决胜局",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1761361519,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "刘宇宁羞羞答答勾勾搭搭",
-      "onboard_time": 1761398543,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 117922,
@@ -2113,6 +2129,14 @@
       "onboard_time": 1761363861,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112263,
+      "num": 112263,
+      "word": "林允快包吧伤口要愈合了",
+      "onboard_time": 1761398962,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 112253,
@@ -2731,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87609,
+      "num": 112222,
+      "word": "太阳系星际访客4天后抵达近日点",
+      "onboard_time": 1761398241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87444,
       "num": 87444,
       "word": "这快递她的她的都是她的",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1761386721,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87355,
+      "num": 126527,
+      "word": "鸡排哥南京巡炸4小时卖出1000份",
+      "onboard_time": 1761398303,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87249,
@@ -3027,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77790,
+      "num": 99172,
+      "word": "国考最热岗位竞争7591选1人",
+      "onboard_time": 1761398122,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77704,
       "num": 77704,
       "word": "中国唱将选手长得好像薛之谦",
@@ -3209,14 +3257,6 @@
       "onboard_time": 1761307942,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68037,
-      "num": 126527,
-      "word": "鸡排哥南京巡炸4小时卖出1000份",
-      "onboard_time": 1761398303,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68027,

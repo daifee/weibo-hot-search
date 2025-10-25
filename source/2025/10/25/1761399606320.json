@@ -1,0 +1,410 @@
+{
+  "runTime": 1761399606320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 643195,
+        "num": 1102911,
+        "word": "江西一公安局副局长为黑恶势力站台",
+        "onboard_time": 1761395781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641415,
+        "num": 641415,
+        "word": "吉林珲春5.5级地震",
+        "onboard_time": 1761395425,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 3349,
+        "num": 583601,
+        "word": "我国长期向好的基本趋势没有变",
+        "onboard_time": 1761351981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555400,
+        "num": 555400,
+        "word": "泰方称泰国禁娱30天传言不实",
+        "onboard_time": 1761378380,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 526093,
+        "num": 526093,
+        "word": "Bin 16强退役",
+        "onboard_time": 1761386721,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 462064,
+        "num": 462064,
+        "word": "AL打T1",
+        "onboard_time": 1761394282,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370306,
+        "num": 370306,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339596,
+        "num": 339596,
+        "word": "至少今天很快乐演唱会",
+        "onboard_time": 1761393021,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323303,
+        "num": 323303,
+        "word": "天地剑心",
+        "onboard_time": 1761394703,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313466,
+        "num": 313466,
+        "word": "深圳机场会同航空公司启动核查",
+        "onboard_time": 1761391042,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018925,
+        "num": 310679,
+        "word": "刘宇宁剪短发了",
+        "onboard_time": 1761394341,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 666917,
+        "num": 310354,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342103,
+        "num": 308411,
+        "word": "彭小苒 翻红",
+        "onboard_time": 1761388401,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305535,
+        "num": 305535,
+        "word": "TES战胜BLG",
+        "onboard_time": 1761386062,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 288558,
+        "num": 288558,
+        "word": "卖小麦收28万却被冻结母子痛哭",
+        "onboard_time": 1761391821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267211,
+        "num": 267211,
+        "word": "闫妮和任素汐吵架根本不像演的",
+        "onboard_time": 1761397281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255124,
+        "num": 255124,
+        "word": "明日方舟",
+        "onboard_time": 1761386543,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244575,
+        "num": 244575,
+        "word": "姿态抽签",
+        "onboard_time": 1761394643,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190965,
+        "num": 241821,
+        "word": "郑智化怒斥深圳机场",
+        "onboard_time": 1761382941,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189987,
+        "num": 241791,
+        "word": "少年的你发了新剧照",
+        "onboard_time": 1761399082,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241783,
+        "num": 241783,
+        "word": "长期戴眼镜导致的面部变化",
+        "onboard_time": 1761391641,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212050,
+        "num": 212050,
+        "word": "六个男艺人在综艺里馋得直流口水",
+        "onboard_time": 1761397642,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205693,
+        "num": 205693,
+        "word": "男子杀母后网购裹尸袋并盗母亲财物",
+        "onboard_time": 1761396082,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199543,
+        "num": 199543,
+        "word": "章子怡颜色基础配饰就不基础",
+        "onboard_time": 1761398422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185160,
+        "num": 185160,
+        "word": "这种凳子请走出大学",
+        "onboard_time": 1761395781,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176639,
+        "num": 176639,
+        "word": "Bin lpl加油",
+        "onboard_time": 1761389783,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171380,
+        "num": 171380,
+        "word": "易烊千玺毕业照",
+        "onboard_time": 1761380901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167336,
+        "num": 167336,
+        "word": "姿态回应抽签",
+        "onboard_time": 1761398182,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153211,
+        "num": 164740,
+        "word": "台湾光复当天的台湾街头",
+        "onboard_time": 1761398241,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 164461,
+        "word": "专家怀疑太阳系星际访客系航天器",
+        "onboard_time": 1761395302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69653,
+        "num": 164408,
+        "word": "珲春地震深度560千米",
+        "onboard_time": 1761397942,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 164390,
+        "num": 164390,
+        "word": "公司给员工发35克黄金键帽",
+        "onboard_time": 1761397222,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 159563,
+        "word": "刘宇宁羞羞答答勾勾搭搭",
+        "onboard_time": 1761398543,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150825,
+        "num": 150825,
+        "word": "彭昱畅居然31岁了",
+        "onboard_time": 1761398182,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129130,
+        "num": 138770,
+        "word": "天地剑心爱奇艺热度破7500",
+        "onboard_time": 1761398721,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137038,
+        "num": 137038,
+        "word": "燕子滞留部分死亡",
+        "onboard_time": 1761398721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134541,
+        "num": 134541,
+        "word": "Beichuan回应输给TES",
+        "onboard_time": 1761398422,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112263,
+        "num": 112263,
+        "word": "林允快包吧伤口要愈合了",
+        "onboard_time": 1761398962,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87609,
+        "num": 112222,
+        "word": "太阳系星际访客4天后抵达近日点",
+        "onboard_time": 1761398241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112205,
+        "num": 112205,
+        "word": "王青音乐节",
+        "onboard_time": 1761388760,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110481,
+        "num": 110481,
+        "word": "我复刻了刘亦菲满天星妆造",
+        "onboard_time": 1761391103,
+        "rank": 40,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 87355,
+        "num": 110226,
+        "word": "鸡排哥南京巡炸4小时卖出1000份",
+        "onboard_time": 1761398303,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 110225,
+        "word": "JackeyLove感谢兄弟们",
+        "onboard_time": 1761396681,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110201,
+        "num": 110201,
+        "word": "BLG淘汰",
+        "onboard_time": 1761386902,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102831,
+        "num": 102831,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1761398062,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105621,
+        "num": 102454,
+        "word": "天地剑心审美",
+        "onboard_time": 1761396201,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89038,
+        "num": 100959,
+        "word": "银初",
+        "onboard_time": 1761398602,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86190,
+        "num": 100242,
+        "word": "2025明日方舟感谢庆典",
+        "onboard_time": 1761398241,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77790,
+        "num": 99172,
+        "word": "国考最热岗位竞争7591选1人",
+        "onboard_time": 1761398122,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109313,
+        "num": 97109,
+        "word": "lm7 明日方舟",
+        "onboard_time": 1761397401,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}

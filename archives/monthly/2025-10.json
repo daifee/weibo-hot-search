@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761398956921,
+  "endTime": 1761399606320,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2603,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018925,
+      "num": 368120,
+      "word": "刘宇宁剪短发了",
+      "onboard_time": 1761394341,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1018522,
       "num": 1158457,
       "word": "跳河新郎和新娘在婚车上一直争吵",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1760012721,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943845,
-      "num": 368120,
-      "word": "刘宇宁剪短发了",
-      "onboard_time": 1761394341,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 943694,
@@ -5731,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666917,
+      "num": 310354,
+      "word": "长期熬夜的受害者出现了",
+      "onboard_time": 1761394761,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 666817,
       "num": 457645,
       "word": "普京口误",
@@ -6075,6 +6083,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 643195,
+      "num": 1102911,
+      "word": "江西一公安局副局长为黑恶势力站台",
+      "onboard_time": 1761395781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642912,
       "num": 257665,
       "word": "韩女网红被榜一大哥杀害抛尸",
@@ -6153,14 +6169,6 @@
       "onboard_time": 1759307720,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 637041,
-      "num": 637041,
-      "word": "江西一公安局副局长为黑恶势力站台",
-      "onboard_time": 1761395781,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 636519,
@@ -7617,6 +7625,14 @@
       "onboard_time": 1759298600,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 555400,
+      "num": 555400,
+      "word": "泰方称泰国禁娱30天传言不实",
+      "onboard_time": 1761378380,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 555369,
@@ -14635,14 +14651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 331218,
-      "num": 295715,
-      "word": "长期熬夜的受害者出现了",
-      "onboard_time": 1761394761,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 331205,
       "num": 331205,
       "word": "新凯来",
@@ -18241,6 +18249,14 @@
       "onboard_time": 1759884979,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267211,
+      "num": 267211,
+      "word": "闫妮和任素汐吵架根本不像演的",
+      "onboard_time": 1761397281,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 267059,
@@ -22891,6 +22907,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 205693,
+      "num": 316000,
+      "word": "男子杀母后网购裹尸袋并盗母亲财物",
+      "onboard_time": 1761396082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205605,
       "num": 181226,
       "word": "田曦薇鹅黄吊带襦裙",
@@ -23731,14 +23755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200524,
-      "num": 316000,
-      "word": "男子杀母后网购裹尸袋并盗母亲财物",
-      "onboard_time": 1761396082,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200497,
       "num": 200497,
       "word": "舒淇尹浩宇 姐狗",
@@ -23907,6 +23923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199543,
+      "num": 199543,
+      "word": "章子怡颜色基础配饰就不基础",
+      "onboard_time": 1761398422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199511,
       "num": 178390,
       "word": "总台秋晚节目单发布",
@@ -24025,14 +24049,6 @@
       "onboard_time": 1759467320,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198820,
-      "num": 198820,
-      "word": "闫妮和任素汐吵架根本不像演的",
-      "onboard_time": 1761397281,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 198741,
@@ -25825,6 +25841,14 @@
       "onboard_time": 1759973001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189987,
+      "num": 241791,
+      "word": "少年的你发了新剧照",
+      "onboard_time": 1761399082,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 189928,
@@ -30379,6 +30403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167336,
+      "num": 167336,
+      "word": "姿态回应抽签",
+      "onboard_time": 1761398182,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167221,
       "num": 167221,
       "word": "金针菇早知道烂地里了",
@@ -31289,14 +31321,6 @@
       "onboard_time": 1761021803,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163535,
-      "num": 163535,
-      "word": "章子怡颜色基础配饰就不基础",
-      "onboard_time": 1761398422,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 163497,
@@ -32227,6 +32251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159563,
+      "num": 159563,
+      "word": "刘宇宁羞羞答答勾勾搭搭",
+      "onboard_time": 1761398543,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159548,
       "num": 156115,
       "word": "陈俊菘回应首进大满贯八强",
@@ -32793,14 +32825,6 @@
       "onboard_time": 1759672165,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157711,
-      "num": 157711,
-      "word": "姿态回应抽签",
-      "onboard_time": 1761398182,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 157663,
@@ -34001,6 +34025,14 @@
       "onboard_time": 1761352339,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153211,
+      "num": 164740,
+      "word": "台湾光复当天的台湾街头",
+      "onboard_time": 1761398241,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153179,
@@ -38691,6 +38723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "燕子滞留部分死亡",
+      "onboard_time": 1761398721,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137032,
       "num": 163278,
       "word": "山东智己车主事故后称仍选智己",
@@ -39753,6 +39793,14 @@
       "onboard_time": 1761270260,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134541,
+      "num": 134541,
+      "word": "Beichuan回应输给TES",
+      "onboard_time": 1761398422,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 134530,
@@ -41827,6 +41875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129130,
+      "num": 138770,
+      "word": "天地剑心爱奇艺热度破7500",
+      "onboard_time": 1761398721,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129115,
       "num": 129115,
       "word": "关晓彤金靖还有什么是你俩不敢说的",
@@ -42121,14 +42177,6 @@
       "onboard_time": 1759576161,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128331,
-      "num": 128331,
-      "word": "Beichuan回应输给TES",
-      "onboard_time": 1761398422,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 128324,
@@ -42507,14 +42555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127405,
-      "num": 127405,
-      "word": "台湾光复当天的台湾街头",
-      "onboard_time": 1761398241,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127361,
       "num": 127361,
       "word": "喜人奇妙夜2",
@@ -42593,14 +42633,6 @@
       "onboard_time": 1759999461,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127259,
-      "num": 127259,
-      "word": "燕子滞留部分死亡",
-      "onboard_time": 1761398721,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127243,
@@ -45243,14 +45275,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 121702,
-      "num": 118202,
-      "word": "天地剑心爱奇艺热度破7500",
-      "onboard_time": 1761398721,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121698,
       "num": 121698,
       "word": "王曼昱vs巴特拉",
@@ -46721,14 +46745,6 @@
       "onboard_time": 1760403141,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "刘宇宁羞羞答答勾勾搭搭",
-      "onboard_time": 1761398543,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 118526,
@@ -49953,6 +49969,14 @@
       "onboard_time": 1761284302,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112263,
+      "num": 112263,
+      "word": "林允快包吧伤口要愈合了",
+      "onboard_time": 1761398962,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 112253,
@@ -64579,6 +64603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87609,
+      "num": 112222,
+      "word": "太阳系星际访客4天后抵达近日点",
+      "onboard_time": 1761398241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87599,
       "num": 1086313,
       "word": "女子孕早期用电热毯孩子险电没",
@@ -64785,6 +64817,14 @@
       "onboard_time": 1760243301,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87355,
+      "num": 126527,
+      "word": "鸡排哥南京巡炸4小时卖出1000份",
+      "onboard_time": 1761398303,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87354,
@@ -69555,6 +69595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77790,
+      "num": 99172,
+      "word": "国考最热岗位竞争7591选1人",
+      "onboard_time": 1761398122,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 77762,
       "num": 86531,
       "word": "龚俊李沁各大晚会都需要的气氛组",
@@ -72649,14 +72697,6 @@
       "onboard_time": 1759454119,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68037,
-      "num": 126527,
-      "word": "鸡排哥南京巡炸4小时卖出1000份",
-      "onboard_time": 1761398303,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68027,
