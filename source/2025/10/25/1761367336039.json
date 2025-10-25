@@ -1,0 +1,410 @@
+{
+  "runTime": 1761367336039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2382059,
+        "num": 2382059,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295255,
+        "num": 295255,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28246,
+        "num": 287117,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284888,
+        "num": 284888,
+        "word": "TES经理郭皓被曝离职",
+        "onboard_time": 1761361580,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240458,
+        "num": 240458,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246529,
+        "num": 239758,
+        "word": "现在就出发",
+        "onboard_time": 1761365120,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182313,
+        "num": 237343,
+        "word": "水龙吟花了8个月才找到敖子逸",
+        "onboard_time": 1761360200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165292,
+        "num": 237278,
+        "word": "台湾光复全岛狂欢3天",
+        "onboard_time": 1761353421,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153124,
+        "num": 234986,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150912,
+        "num": 233879,
+        "word": "上海机场总经理辞职",
+        "onboard_time": 1761366441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1329104,
+        "num": 231604,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952458,
+        "num": 230550,
+        "word": "易烊千玺参加补办毕业典礼",
+        "onboard_time": 1761364880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729322,
+        "num": 229325,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639919,
+        "num": 226341,
+        "word": "泰国理财神童离世",
+        "onboard_time": 1761363200,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64246,
+        "num": 224843,
+        "word": "王者十周年福利真香",
+        "onboard_time": 1761365420,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137640,
+        "num": 223926,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551436,
+        "num": 221774,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379759,
+        "num": 220730,
+        "word": "你把最难卖的一块买走了",
+        "onboard_time": 1761364699,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86940,
+        "num": 218525,
+        "word": "男童喝珍珠奶茶窒息身亡最新进展",
+        "onboard_time": 1761366981,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36079,
+        "num": 218012,
+        "word": "日本正加快设立国家情报局",
+        "onboard_time": 1761366981,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363672,
+        "num": 216380,
+        "word": "阿Sa祝福陈伟霆",
+        "onboard_time": 1761359839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282608,
+        "num": 214034,
+        "word": "男子当街直播猥亵称在搞抽象",
+        "onboard_time": 1761359721,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271746,
+        "num": 212751,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212075,
+        "num": 212075,
+        "word": "金店回应125克金手链剪开倒出沙子",
+        "onboard_time": 1761363681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204493,
+        "num": 204493,
+        "word": "女子耳骨增生自己用钳子剪掉",
+        "onboard_time": 1761353960,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188788,
+        "num": 188788,
+        "word": "网传迪丽热巴拒了将门毒后",
+        "onboard_time": 1761362301,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130416,
+        "num": 184832,
+        "word": "内娱真动物塑女主",
+        "onboard_time": 1761366502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115946,
+        "num": 183952,
+        "word": "一路繁花2谁拿了李小冉的剧本",
+        "onboard_time": 1761366801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183644,
+        "num": 183644,
+        "word": "彭小苒 突然多了好多孩子",
+        "onboard_time": 1761362059,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98018,
+        "num": 175295,
+        "word": "蒋易孙天宇回应舞台事故",
+        "onboard_time": 1761367160,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175167,
+        "num": 175167,
+        "word": "旅游6年赚2600万",
+        "onboard_time": 1761365601,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174830,
+        "num": 174830,
+        "word": "黄金白银再跌",
+        "onboard_time": 1761361279,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173039,
+        "num": 173039,
+        "word": "你缺的不是衣服而是打扮思路",
+        "onboard_time": 1761359239,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 136774,
+        "num": 136774,
+        "word": "樊振东再获殊荣",
+        "onboard_time": 1761364521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131925,
+        "num": 131925,
+        "word": "马吟吟没有戏拍",
+        "onboard_time": 1761362420,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111212,
+        "num": 129982,
+        "word": "一路繁花居然敢把这2分21秒剪进去",
+        "onboard_time": 1761359959,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128603,
+        "num": 128603,
+        "word": "刘亦菲与钟丽缇母女合照",
+        "onboard_time": 1761365540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32420,
+        "num": 127691,
+        "word": "贵州一煤矿按工资分级收取伙食费",
+        "onboard_time": 1761366981,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127332,
+        "num": 127332,
+        "word": "河南一大爷院子太干净成打卡地",
+        "onboard_time": 1761366260,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22422,
+        "num": 124259,
+        "word": "未来5年后AI能帮你带孩子了",
+        "onboard_time": 1761364880,
+        "rank": 39,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "金正恩参谒志愿军陵园",
+        "onboard_time": 1761352339,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121793,
+        "num": 121793,
+        "word": "张萌说对曾舜晞蓄谋已久",
+        "onboard_time": 1761367160,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119158,
+        "num": 119158,
+        "word": "李沁 中东贵妇又出手了",
+        "onboard_time": 1761366141,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112488,
+        "num": 112488,
+        "word": "谁没磕过一对红绿cp呢",
+        "onboard_time": 1761363861,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100944,
+        "num": 100944,
+        "word": "刘晓庆 男孩有了女友就不属于妈了",
+        "onboard_time": 1761362181,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100732,
+        "num": 100732,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98802,
+        "num": 98802,
+        "word": "男子被野蜂蜇死母亲因伤痛离世",
+        "onboard_time": 1761355879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98489,
+        "num": 98489,
+        "word": "吴磊在做大和做强之间选择了作法",
+        "onboard_time": 1761366801,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95557,
+        "num": 95557,
+        "word": "10月25日对中国人的意义",
+        "onboard_time": 1761352339,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57815,
+        "num": 94840,
+        "word": "鸡排哥回应收入和商业合作",
+        "onboard_time": 1761365601,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

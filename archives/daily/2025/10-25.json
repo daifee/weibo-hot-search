@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761366594803,
+  "endTime": 1761367336039,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -27,7 +27,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1318525,
+      "raw_hot": 1329104,
       "num": 265776,
       "word": "王晶曝王祖贤离开娱乐圈原因",
       "onboard_time": 1761363023,
@@ -48,6 +48,14 @@
       "word": "杜海涛毕业全英文演讲",
       "onboard_time": 1761359358,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 952458,
+      "num": 260803,
+      "word": "易烊千玺参加补办毕业典礼",
+      "onboard_time": 1761364880,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543059,
-      "num": 260803,
-      "word": "易烊千玺参加补办毕业典礼",
-      "onboard_time": 1761364880,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 533679,
       "num": 166865,
       "word": "向太说郭碧婷养娘家",
@@ -153,6 +153,14 @@
       "onboard_time": 1761320241,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379759,
+      "num": 255137,
+      "word": "你把最难卖的一块买走了",
+      "onboard_time": 1761364699,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 378863,
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255137,
-      "num": 255137,
-      "word": "你把最难卖的一块买走了",
-      "onboard_time": 1761364699,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251387,
       "num": 213791,
       "word": "水龙吟",
@@ -256,6 +256,14 @@
       "word": "宁静儿子因掉水里先救妈妈被分手",
       "onboard_time": 1761306261,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246529,
+      "num": 268666,
+      "word": "现在就出发",
+      "onboard_time": 1761365120,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -291,8 +299,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211662,
-      "num": 211662,
+      "raw_hot": 212075,
+      "num": 212075,
       "word": "金店回应125克金手链剪开倒出沙子",
       "onboard_time": 1761363681,
       "rank": 25,
@@ -339,8 +347,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188788,
+      "num": 188788,
+      "word": "网传迪丽热巴拒了将门毒后",
+      "onboard_time": 1761362301,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188767,
-      "num": 125649,
+      "num": 175167,
       "word": "旅游6年赚2600万",
       "onboard_time": 1761365601,
       "rank": 30,
@@ -353,14 +369,6 @@
       "onboard_time": 1761348318,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185340,
-      "num": 185340,
-      "word": "网传迪丽热巴拒了将门毒后",
-      "onboard_time": 1761362301,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 175284,
@@ -467,20 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152328,
-      "num": 268666,
-      "word": "现在就出发",
-      "onboard_time": 1761365120,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152221,
       "num": 152221,
       "word": "原来恩利才是内娱社交悍匪啊",
       "onboard_time": 1761355039,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150912,
+      "num": 233879,
+      "word": "上海机场总经理辞职",
+      "onboard_time": 1761366441,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145663,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130416,
+      "num": 184832,
+      "word": "内娱真动物塑女主",
+      "onboard_time": 1761366502,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129979,
       "num": 124433,
       "word": "张杰他不爱我",
@@ -571,12 +587,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128603,
+      "num": 128603,
+      "word": "刘亦菲与钟丽缇母女合照",
+      "onboard_time": 1761365540,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127346,
       "num": 127346,
       "word": "金正恩参谒志愿军陵园",
       "onboard_time": 1761352339,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127332,
+      "num": 127332,
+      "word": "河南一大爷院子太干净成打卡地",
+      "onboard_time": 1761366260,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127091,
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121793,
+      "num": 121793,
+      "word": "张萌说对曾舜晞蓄谋已久",
+      "onboard_time": 1761367160,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120530,
       "num": 120530,
       "word": "宠物的时髦感",
@@ -633,6 +673,22 @@
       "onboard_time": 1761361519,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 119158,
+      "num": 119158,
+      "word": "李沁 中东贵妇又出手了",
+      "onboard_time": 1761366141,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115946,
+      "num": 183952,
+      "word": "一路繁花2谁拿了李小冉的剧本",
+      "onboard_time": 1761366801,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 115466,
@@ -651,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112488,
+      "num": 112488,
+      "word": "谁没磕过一对红绿cp呢",
+      "onboard_time": 1761363861,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111439,
       "num": 111439,
       "word": "李雪琴常驻综艺多的原因有了",
@@ -664,14 +728,6 @@
       "word": "男子登顶雪山同时看到两座日照金山",
       "onboard_time": 1761356600,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111048,
-      "num": 111048,
-      "word": "河南一大爷院子太干净成打卡地",
-      "onboard_time": 1761366260,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -713,22 +769,6 @@
       "onboard_time": 1761365840,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108602,
-      "num": 108602,
-      "word": "刘亦菲与钟丽缇母女合照",
-      "onboard_time": 1761365540,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108430,
-      "num": 108430,
-      "word": "上海机场总经理辞职",
-      "onboard_time": 1761366441,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106873,
@@ -787,20 +827,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100552,
-      "num": 97302,
-      "word": "李沁 中东贵妇又出手了",
-      "onboard_time": 1761366141,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 99486,
       "num": 99486,
       "word": "当你摸羊摸到一半突然走人",
       "onboard_time": 1761354319,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98489,
+      "num": 98489,
+      "word": "吴磊在做大和做强之间选择了作法",
+      "onboard_time": 1761366801,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 98018,
+      "num": 175295,
+      "word": "蒋易孙天宇回应舞台事故",
+      "onboard_time": 1761367160,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 97933,
@@ -859,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90170,
-      "num": 90170,
-      "word": "谁没磕过一对红绿cp呢",
-      "onboard_time": 1761363861,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89671,
       "num": 148688,
       "word": "姚明现身火箭主场揭幕战",
@@ -881,14 +921,6 @@
       "onboard_time": 1761352880,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89246,
-      "num": 88548,
-      "word": "内娱真动物塑女主",
-      "onboard_time": 1761366502,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 88922,
@@ -913,6 +945,14 @@
       "onboard_time": 1761359660,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 86940,
+      "num": 218525,
+      "word": "男童喝珍珠奶茶窒息身亡最新进展",
+      "onboard_time": 1761366981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85842,
@@ -1235,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64246,
+      "num": 260019,
+      "word": "王者十周年福利真香",
+      "onboard_time": 1761365420,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64092,
       "num": 84806,
       "word": "丁真在综艺被热到头痛呕吐",
@@ -1267,20 +1315,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57815,
+      "num": 108460,
+      "word": "鸡排哥回应收入和商业合作",
+      "onboard_time": 1761365601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
       "onboard_time": 1761317182,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 55369,
-      "num": 260019,
-      "word": "王者十周年福利真香",
-      "onboard_time": 1761365420,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 55317,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1761308842,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46037,
-      "num": 108460,
-      "word": "鸡排哥回应收入和商业合作",
-      "onboard_time": 1761365601,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44578,
@@ -1355,12 +1395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36079,
+      "num": 218012,
+      "word": "日本正加快设立国家情报局",
+      "onboard_time": 1761366981,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34362,
       "num": 70747,
       "word": "拆弹专家",
       "onboard_time": 1761327496,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32420,
+      "num": 127691,
+      "word": "贵州一煤矿按工资分级收取伙食费",
+      "onboard_time": 1761366981,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26531,
@@ -1395,8 +1451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22341,
-      "num": 108436,
+      "raw_hot": 22422,
+      "num": 124259,
       "word": "未来5年后AI能帮你带孩子了",
       "onboard_time": 1761364880,
       "rank": 39,
