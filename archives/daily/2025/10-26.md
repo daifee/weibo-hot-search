@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 04:40:01
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 05:22:04
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,24 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Beichuan%E6%8E%A9%E9%9D%A2ELK%E6%8D%82%E9%BC%BB%23" target="weibo">
 Beichuan掩面ELK捂鼻（热度：13956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2375%E7%A7%92%E5%9B%9E%E7%9C%8B75%E5%B9%B4%E5%89%8D%23" target="weibo">
+75秒回看75年前（热度：11446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%8D%E4%BA%8C%E5%AD%97%E9%81%8D%E5%8F%8A%E5%8F%B0%E6%B9%BE%E5%A4%A7%E8%A1%97%E5%B0%8F%E5%B7%B7%23" target="weibo">
+光复二字遍及台湾大街小巷（热度：10550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E7%9A%84%E6%BE%8E%E6%B9%96%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%BE%8E%E6%B9%96%23" target="weibo">
+澎湖海战的澎湖是中国的澎湖（热度：9408）
 </a>
 </li>
 
