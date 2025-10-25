@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 10:12:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:08:35
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%23" target="weibo">
+台湾（热度：4384753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 陈震劳斯莱斯发生车祸（热度：4315994）
 </a>
@@ -137,12 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%20%E6%83%B3%E5%92%8C%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AE%98%E5%AE%A3%E4%BA%86%23" target="weibo">
 王玉雯 想和刘亦菲官宣了（热度：3669694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%23" target="weibo">
-台湾（热度：3598624）
 </a>
 </li>
 
@@ -1853,6 +1853,12 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E4%B8%8D%E7%A9%BF%E5%AE%8C%E6%95%B4%E8%A1%A3%E6%9C%8D%23" target="weibo">
 野人小孩母亲衣着暴露不穿完整衣服（热度：1032091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%AF%95%E4%B8%9A%E5%85%A8%E8%8B%B1%E6%96%87%E6%BC%94%E8%AE%B2%23" target="weibo">
+杜海涛毕业全英文演讲（热度：1031425）
 </a>
 </li>
 
@@ -5091,6 +5097,12 @@ A股太强了（热度：593831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E7%A7%B0%E5%9C%A8%E6%90%9E%E6%8A%BD%E8%B1%A1%23" target="weibo">
+男子当街直播猥亵称在搞抽象（热度：591197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
 2025诺贝尔化学奖揭晓（热度：591131）
 </a>
@@ -5999,18 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A4%9A%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
 国乒多人退赛（热度：531791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
-野人孩子和父母已在管控范围内（热度：531667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E6%AD%BB%E6%A1%88%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
-一家三口被撞死案目击者发声（热度：530300）
 </a>
 </li>
 

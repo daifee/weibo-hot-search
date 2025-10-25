@@ -1,0 +1,410 @@
+{
+  "runTime": 1761361715822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4384753,
+        "num": 4384753,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 499290,
+        "num": 499290,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43578,
+        "num": 427551,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413483,
+        "num": 413483,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312682,
+        "num": 312682,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332093,
+        "num": 279622,
+        "word": "水龙吟花了8个月才找到敖子逸",
+        "onboard_time": 1761360200,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233164,
+        "num": 233164,
+        "word": "台湾光复全岛狂欢3天",
+        "onboard_time": 1761353421,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193907,
+        "num": 193907,
+        "word": "一路繁花居然敢把这2分21秒剪进去",
+        "onboard_time": 1761359959,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189746,
+        "num": 189746,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170600,
+        "num": 170600,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1092812,
+        "num": 170248,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031425,
+        "num": 169393,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591197,
+        "num": 168599,
+        "word": "男子当街直播猥亵称在搞抽象",
+        "onboard_time": 1761359721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313277,
+        "num": 167944,
+        "word": "你缺的不是衣服而是打扮思路",
+        "onboard_time": 1761359239,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 247557,
+        "num": 166865,
+        "word": "向太说郭碧婷养娘家",
+        "onboard_time": 1761348257,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496906,
+        "num": 166360,
+        "word": "阿Sa祝福陈伟霆",
+        "onboard_time": 1761359839,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214875,
+        "num": 165166,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198196,
+        "num": 164783,
+        "word": "黄金白银再跌",
+        "onboard_time": 1761361279,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 164066,
+        "word": "宁静 你跟一些老人出去没事",
+        "onboard_time": 1761359480,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43734,
+        "num": 151538,
+        "word": "台湾有151条以光复为名的路",
+        "onboard_time": 1761360799,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40522,
+        "num": 149624,
+        "word": "马思纯在京东讲健康养生",
+        "onboard_time": 1761361401,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217806,
+        "num": 148908,
+        "word": "女子耳骨增生自己用钳子剪掉",
+        "onboard_time": 1761353960,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148069,
+        "num": 148069,
+        "word": "原来恩利才是内娱社交悍匪啊",
+        "onboard_time": 1761355039,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41398,
+        "num": 142176,
+        "word": "AI时代的国际教育选择",
+        "onboard_time": 1761361461,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141874,
+        "num": 141874,
+        "word": "男子被野蜂蜇死母亲因伤痛离世",
+        "onboard_time": 1761355879,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137397,
+        "num": 137397,
+        "word": "邵子恒 干男团的",
+        "onboard_time": 1761360200,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128049,
+        "num": 128049,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115765,
+        "num": 115765,
+        "word": "一个大窝囊废养了两只小窝囊废",
+        "onboard_time": 1761355879,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84743,
+        "num": 112662,
+        "word": "有史以来再见最快的爱人",
+        "onboard_time": 1761345255,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66108,
+        "num": 111705,
+        "word": "天地剑心",
+        "onboard_time": 1761317841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111317,
+        "num": 111317,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110914,
+        "num": 110914,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107907,
+        "num": 107907,
+        "word": "多平台已取消仅退款服务",
+        "onboard_time": 1761348077,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104742,
+        "num": 104742,
+        "word": "张晚意找到同皂中人了",
+        "onboard_time": 1761360022,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101349,
+        "num": 101349,
+        "word": "胜利属于每个中国人",
+        "onboard_time": 1761323000,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 98363,
+        "word": "10月25日对中国人的意义",
+        "onboard_time": 1761352339,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97479,
+        "num": 97479,
+        "word": "女子回应买猪食槽收纳孩子玩具",
+        "onboard_time": 1761348318,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91535,
+        "num": 91535,
+        "word": "金正恩参谒志愿军陵园",
+        "onboard_time": 1761352339,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87766,
+        "num": 87766,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1761360260,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87249,
+        "num": 87249,
+        "word": "河南濮阳2.4级地震",
+        "onboard_time": 1761359660,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85335,
+        "num": 85335,
+        "word": "iOS26关闭液态玻璃效果并不省电",
+        "onboard_time": 1761360919,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83555,
+        "num": 83555,
+        "word": "整个宿舍都是歌姬是什么体验",
+        "onboard_time": 1761361519,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 81358,
+        "num": 81358,
+        "word": "TES经理郭皓被曝离职",
+        "onboard_time": 1761361580,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81033,
+        "num": 81033,
+        "word": "国考报名人数超350万创新高",
+        "onboard_time": 1761359299,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80159,
+        "num": 80159,
+        "word": "国考前十岗位3个为税务系统",
+        "onboard_time": 1761358520,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77451,
+        "num": 77451,
+        "word": "杨瀚森再战勇士",
+        "onboard_time": 1761361160,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76836,
+        "num": 76836,
+        "word": "公司不批生育奖励假女子维权获补偿",
+        "onboard_time": 1761359239,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75115,
+        "num": 75115,
+        "word": "薛之谦把欧阳娜娜当逗号用",
+        "onboard_time": 1761357020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73274,
+        "num": 73274,
+        "word": "男子嫖宿遭拒持刀割划女子颈部致死",
+        "onboard_time": 1761352460,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72860,
+        "num": 72860,
+        "word": "女子吐槽黄金手链剪开里面是沙子",
+        "onboard_time": 1761360200,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
