@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761392239915,
+  "endTime": 1761396307681,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1759361117,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1227982,
+      "num": 1227982,
+      "word": "AL打T1",
+      "onboard_time": 1761394282,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1227123,
@@ -4515,6 +4523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 775824,
+      "num": 606568,
+      "word": "至少今天很快乐演唱会",
+      "onboard_time": 1761393021,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 774214,
       "num": 412733,
       "word": "外籍游客扎堆寿衣店试穿购买",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1760150123,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 642651,
+      "num": 642651,
+      "word": "深圳机场会同航空公司启动核查",
+      "onboard_time": 1761391042,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 642433,
@@ -9211,6 +9235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490258,
+      "num": 366493,
+      "word": "卖小麦收28万却被冻结母子痛哭",
+      "onboard_time": 1761391821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489847,
       "num": 861331,
       "word": "科学家称外星人或已懒得理我们",
@@ -10779,6 +10811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438736,
+      "num": 359464,
+      "word": "彭小苒 翻红",
+      "onboard_time": 1761388401,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438676,
       "num": 223433,
       "word": "石原里美二胎产后状态",
@@ -10897,6 +10937,14 @@
       "onboard_time": 1760973621,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 435630,
+      "num": 353227,
+      "word": "刘宇宁剪短发了",
+      "onboard_time": 1761394341,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 435235,
@@ -11163,6 +11211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428665,
+      "num": 351638,
+      "word": "G2抽中TES",
+      "onboard_time": 1761394761,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 428566,
       "num": 428566,
       "word": "雷军回应K90定价",
@@ -11345,6 +11401,14 @@
       "onboard_time": 1760325443,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422773,
+      "num": 422773,
+      "word": "姿态抽签",
+      "onboard_time": 1761394643,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 422737,
@@ -13171,6 +13235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 367055,
+      "num": 367055,
+      "word": "明日方舟",
+      "onboard_time": 1759549099,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 366694,
       "num": 910229,
       "word": "卢昱晓VOGUE盛典造型",
@@ -13801,6 +13873,14 @@
       "onboard_time": 1761186979,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348033,
+      "num": 348033,
+      "word": "长期戴眼镜导致的面部变化",
+      "onboard_time": 1761391641,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 347956,
@@ -15459,6 +15539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312569,
+      "num": 312569,
+      "word": "吉林珲春5.5级地震",
+      "onboard_time": 1761395425,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 312165,
       "num": 312165,
       "word": "日本vs巴西",
@@ -16355,6 +16443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 296089,
+      "num": 296089,
+      "word": "HLE打GEN",
+      "onboard_time": 1761395001,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 296085,
       "num": 141271,
       "word": "字节跳动程序员降薪一半去德国",
@@ -17179,14 +17275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281961,
-      "num": 238965,
-      "word": "彭小苒 翻红",
-      "onboard_time": 1761388401,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281744,
       "num": 281744,
       "word": "国台办谈设立台湾光复纪念日",
@@ -17625,6 +17713,14 @@
       "onboard_time": 1759500743,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274900,
+      "num": 274900,
+      "word": "异格银灰",
+      "onboard_time": 1761394703,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 274831,
@@ -18257,14 +18353,6 @@
       "onboard_time": 1760602642,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264699,
-      "num": 264699,
-      "word": "深圳机场会同航空公司启动核查",
-      "onboard_time": 1761391042,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264510,
@@ -19835,6 +19923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241174,
+      "num": 238227,
+      "word": "长期熬夜的受害者出现了",
+      "onboard_time": 1761394761,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241053,
       "num": 824267,
       "word": "利剑玫瑰",
@@ -19913,6 +20009,14 @@
       "onboard_time": 1759362139,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239926,
+      "num": 239926,
+      "word": "江西一公安局副局长为黑恶势力站台",
+      "onboard_time": 1761395781,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239897,
@@ -20241,14 +20345,6 @@
       "onboard_time": 1760862560,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235868,
-      "num": 235868,
-      "word": "明日方舟",
-      "onboard_time": 1759549099,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 235717,
@@ -23419,6 +23515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201338,
+      "num": 363192,
+      "word": "天地剑心直播",
+      "onboard_time": 1761390561,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "久哲",
@@ -24337,6 +24441,14 @@
       "onboard_time": 1760054600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "LPL",
+      "onboard_time": 1760430681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 196299,
@@ -26347,14 +26459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186408,
-      "num": 259448,
-      "word": "天地剑心直播",
-      "onboard_time": 1761390561,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186376,
       "num": 186376,
       "word": "中国大满贯收入近1.54亿",
@@ -26641,6 +26745,14 @@
       "onboard_time": 1759882279,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184747,
+      "num": 184747,
+      "word": "订婚花60万遭悔婚男子起诉返还",
+      "onboard_time": 1761392000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184667,
@@ -27681,6 +27793,14 @@
       "onboard_time": 1759706057,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178919,
+      "num": 178919,
+      "word": "S15淘汰赛抽签",
+      "onboard_time": 1761395001,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 178874,
@@ -28755,6 +28875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173651,
+      "num": 173651,
+      "word": "我复刻了刘亦菲满天星妆造",
+      "onboard_time": 1761391103,
+      "rank": 47,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 173594,
       "num": 1019060,
       "word": "邓莎老公行贿岂能靠综艺洗白变现",
@@ -29249,14 +29377,6 @@
       "onboard_time": 1761207441,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171481,
-      "num": 171481,
-      "word": "我复刻了刘亦菲满天星妆造",
-      "onboard_time": 1761391103,
-      "rank": 47,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 171372,
@@ -32587,14 +32707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157693,
-      "num": 157693,
-      "word": "LPL",
-      "onboard_time": 1760430681,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157663,
       "num": 157663,
       "word": "宴遇永安开播",
@@ -32835,6 +32947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156588,
+      "num": 156588,
+      "word": "金博洋自由滑",
+      "onboard_time": 1761395901,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156584,
       "num": 156584,
       "word": "菲律宾地震26死147伤",
@@ -32929,6 +33049,14 @@
       "onboard_time": 1760797224,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156298,
+      "num": 156298,
+      "word": "369回复Knight",
+      "onboard_time": 1761392720,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 156251,
@@ -33089,6 +33217,14 @@
       "onboard_time": 1759982841,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155452,
+      "num": 155452,
+      "word": "彭小苒仅用0秒就接受了被叫妈妈",
+      "onboard_time": 1761394223,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 155419,
@@ -33537,6 +33673,14 @@
       "onboard_time": 1760450662,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153995,
+      "num": 153995,
+      "word": "初雪异格",
+      "onboard_time": 1761396082,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 153985,
@@ -34635,6 +34779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149669,
+      "num": 149669,
+      "word": "天地剑心审美",
+      "onboard_time": 1761396201,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149662,
       "num": 149662,
       "word": "为人民服务航标被破坏处罚结果",
@@ -35641,14 +35793,6 @@
       "onboard_time": 1760498541,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 146104,
-      "num": 146104,
-      "word": "长期戴眼镜导致的面部变化",
-      "onboard_time": 1761391641,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 146093,
@@ -38803,6 +38947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136000,
+      "num": 136000,
+      "word": "刘宇宁西安演唱会",
+      "onboard_time": 1761392901,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135988,
       "num": 130493,
       "word": "内存价格暴涨",
@@ -39979,6 +40131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133235,
+      "num": 133235,
+      "word": "订婚花60万共同生活4天后遭悔婚",
+      "onboard_time": 1761393622,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133200,
       "num": 133200,
       "word": "王楚钦领跑WTT男单冠军榜",
@@ -40369,14 +40529,6 @@
       "onboard_time": 1760519002,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 132234,
-      "num": 132234,
-      "word": "订婚花60万遭悔婚男子起诉返还",
-      "onboard_time": 1761392000,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132187,
@@ -64603,6 +64755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87050,
+      "num": 278283,
+      "word": "何刚马龙在线安利三折叠鸿蒙体验",
+      "onboard_time": 1761393742,
+      "rank": 27,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 87046,
       "num": 91331,
       "word": "专家回应300元以下基本买不到真羽绒服",
@@ -67736,14 +67896,6 @@
       "word": "女生泼男生饮料叫嚣对方没资格说活",
       "onboard_time": 1760714244,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80899,
-      "num": 258011,
-      "word": "卖小麦收28万却被冻结母子痛哭",
-      "onboard_time": 1761391821,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -75251,6 +75403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55752,
+      "num": 358540,
+      "word": "花少制片人京东直播回应花少8阵容",
+      "onboard_time": 1761393862,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55719,
       "num": 136876,
       "word": "专家建议设立里斯本丸沉船纪念日",
@@ -77337,6 +77497,14 @@
       "onboard_time": 1761121461,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45838,
+      "num": 284755,
+      "word": "男子杀母后网购裹尸袋并盗母亲财物",
+      "onboard_time": 1761396082,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45766,
@@ -79459,6 +79627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34631,
+      "num": 356340,
+      "word": "专家怀疑太阳系星际访客系航天器",
+      "onboard_time": 1761395302,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34548,
       "num": 411926,
       "word": "找到了戴冷帽不塌头型的方法",
@@ -79945,6 +80121,14 @@
       "onboard_time": 1760461637,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31738,
+      "num": 354792,
+      "word": "韩乔生狂吹舒适风",
+      "onboard_time": 1761393862,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 31735,
@@ -83587,7 +83771,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3470,
+      "raw_hot": 4110,
       "num": 1208449,
       "word": "我国长期向好的基本趋势没有变",
       "onboard_time": 1761351981,
