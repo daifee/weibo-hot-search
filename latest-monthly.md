@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 23:23:49
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 23:37:24
 </p>
 </blockquote>
 <p>
@@ -2625,6 +2625,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%B7%B3%E6%B0%B4%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%AD%90%E7%B3%BB%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%23" target="weibo">
+在游泳馆跳水身亡男子系体育老师（热度：877441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B9%B2%E5%9C%B0%E6%8B%8D%E7%85%A7%E4%B8%8B%E4%B8%80%E7%A7%92%E8%90%BD%E6%B0%B4%23" target="weibo">
 张继科蹲地拍照下一秒落水（热度：876578）
 </a>
@@ -4557,6 +4563,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E6%89%9B%E5%89%A7%23" target="weibo">
+成毅 扛剧（热度：646444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
 TheShy在干啥（热度：644110）
 </a>
@@ -5481,6 +5493,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%88%9A%E5%88%9A%E9%82%A3%E6%AE%B5%E5%88%A0%E6%8E%89%23" target="weibo">
+鹿晗刚刚那段删掉（热度：573706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%E5%9B%AD%E9%95%BF%E7%94%A8%E7%8C%AA%E6%B2%B9%E6%B6%88%E8%82%BF%E5%90%8E%E7%BB%AD%23" target="weibo">
 男孩被戳伤失明园长用猪油消肿后续（热度：572684）
 </a>
@@ -5993,24 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A4%E5%88%91%E5%90%8E4%E5%B9%B43%E6%AC%A1%E5%8D%A1%E7%82%B9%E6%80%80%E5%AD%95%23" target="weibo">
 女子被判刑后4年3次卡点怀孕（热度：541523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%84%A6%E4%BF%8A%E8%89%B3%E7%AD%BE%E4%BA%86papi%E5%85%AC%E5%8F%B8%23" target="weibo">
-焦俊艳签了papi公司（热度：541446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%B0%8F%E6%97%B6%E5%80%99%E7%9D%A1%E8%BF%87%E8%A7%89%E5%90%97%23" target="weibo">
-张婧仪小时候睡过觉吗（热度：540779）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%83%E9%80%80%E5%BD%B9%23" target="weibo">
-无心退役（热度：540710）
 </a>
 </li>
 

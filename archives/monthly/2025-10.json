@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761405829868,
+  "endTime": 1761406644769,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3483,6 +3483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 877441,
+      "num": 229481,
+      "word": "在游泳馆跳水身亡男子系体育老师",
+      "onboard_time": 1761404482,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876578,
       "num": 876578,
       "word": "张继科蹲地拍照下一秒落水",
@@ -6059,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646444,
+      "num": 238844,
+      "word": "成毅 扛剧",
+      "onboard_time": 1761402323,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644110,
       "num": 644110,
       "word": "TheShy在干啥",
@@ -7289,6 +7305,14 @@
       "onboard_time": 1761181462,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 573706,
+      "num": 233598,
+      "word": "鹿晗刚刚那段删掉",
+      "onboard_time": 1761400461,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 572684,
@@ -8571,14 +8595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 517224,
-      "num": 225556,
-      "word": "成毅 扛剧",
-      "onboard_time": 1761402323,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 517070,
       "num": 1293652,
       "word": "中方回应高市早苗当选日本首相",
@@ -9099,14 +9115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 497184,
-      "num": 188901,
-      "word": "在游泳馆跳水身亡男子系体育老师",
-      "onboard_time": 1761404482,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 497102,
       "num": 844363,
       "word": "一笑随歌热度",
@@ -9121,14 +9129,6 @@
       "onboard_time": 1759730362,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 496860,
-      "num": 233598,
-      "word": "鹿晗刚刚那段删掉",
-      "onboard_time": 1761400461,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 496711,
@@ -23243,6 +23243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203887,
+      "num": 203887,
+      "word": "G2抽到TES后全员大笑",
+      "onboard_time": 1761403942,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203844,
       "num": 291109,
       "word": "CFO对战AL",
@@ -23289,6 +23297,14 @@
       "onboard_time": 1759379180,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203387,
+      "num": 203387,
+      "word": "脑梗来临前身体有3个征兆",
+      "onboard_time": 1761404122,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203371,
@@ -23972,7 +23988,7 @@
     },
     {
       "raw_hot": 199668,
-      "num": 185477,
+      "num": 197588,
       "word": "男子买马一觉醒来1匹变2匹",
       "onboard_time": 1761403642,
       "rank": 21,
@@ -24889,14 +24905,6 @@
       "onboard_time": 1760921780,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195064,
-      "num": 185213,
-      "word": "G2抽到TES后全员大笑",
-      "onboard_time": 1761403942,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 195061,
@@ -26771,6 +26779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185564,
+      "num": 232997,
+      "word": "天地剑心热度破8000",
+      "onboard_time": 1761405441,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185558,
       "num": 185558,
       "word": "一个吃饭免排队的邪修方法",
@@ -27595,6 +27611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181379,
+      "num": 181379,
+      "word": "王者荣耀电话 诡异",
+      "onboard_time": 1761406101,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181340,
       "num": 181340,
       "word": "王楚钦孙颖莎备战好专注",
@@ -28049,14 +28073,6 @@
       "onboard_time": 1760421622,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178379,
-      "num": 178379,
-      "word": "脑梗来临前身体有3个征兆",
-      "onboard_time": 1761404122,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 178357,
@@ -32764,7 +32780,7 @@
     },
     {
       "raw_hot": 158224,
-      "num": 186150,
+      "num": 205903,
       "word": "台湾光复当天的台湾街头",
       "onboard_time": 1761398241,
       "rank": 36,
@@ -38409,14 +38425,6 @@
       "onboard_time": 1759491081,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138501,
-      "num": 138501,
-      "word": "天地剑心热度破8000",
-      "onboard_time": 1761405441,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 138461,
@@ -52019,6 +52027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109640,
+      "num": 149947,
+      "word": "希望机场服务让乘客能从容进飞机",
+      "onboard_time": 1761404002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109631,
       "num": 109631,
       "word": "全运乒乓球难度超奥运",
@@ -52249,14 +52265,6 @@
       "onboard_time": 1760072241,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109279,
-      "num": 149947,
-      "word": "希望机场服务让乘客能从容进飞机",
-      "onboard_time": 1761404002,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109276,
@@ -56692,7 +56700,7 @@
     },
     {
       "raw_hot": 102169,
-      "num": 130513,
+      "num": 134369,
       "word": "隋文静韩聪自由滑130.47分",
       "onboard_time": 1761402983,
       "rank": 43,
@@ -58552,6 +58560,14 @@
       "word": "BFX对战NIP",
       "onboard_time": 1759828161,
       "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98912,
+      "num": 98912,
+      "word": "Beichuan掩面ELK捂鼻",
+      "onboard_time": 1761404903,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -75033,6 +75049,14 @@
       "onboard_time": 1760570539,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59705,
+      "num": 84415,
+      "word": "张继科重温里约奥运会男团比赛",
+      "onboard_time": 1761406522,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59700,
