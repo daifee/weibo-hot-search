@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761417204116,
+  "endTime": 1761417952399,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -82929,6 +82929,14 @@
       "onboard_time": 1759987040,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19908,
+      "num": 27053,
+      "word": "王俊凯宣传黄晓明新片",
+      "onboard_time": 1761417795,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 19854,

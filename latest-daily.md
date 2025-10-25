@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 02:33:24
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 02:45:52
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E5%8A%A8%E4%BD%9C%E7%AB%99%E7%9D%80%E5%B0%B1%E8%83%BD%E7%98%A6%23" target="weibo">
 四个动作站着就能瘦（热度：27075）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%A3%E4%BC%A0%E9%BB%84%E6%99%93%E6%98%8E%E6%96%B0%E7%89%87%23" target="weibo">
+王俊凯宣传黄晓明新片（热度：19908）
 </a>
 </li>
 
