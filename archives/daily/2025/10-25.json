@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761391220785,
+  "endTime": 1761392239915,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -91,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1022654,
+      "raw_hot": 1062239,
       "num": 411947,
       "word": "章泽天的耳环被指价值77.5万元",
       "onboard_time": 1761387322,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 382767,
-      "num": 223984,
+      "num": 256212,
       "word": "金饰克价跌到1222元",
       "onboard_time": 1761386962,
       "rank": 24,
@@ -369,6 +369,14 @@
       "onboard_time": 1761352460,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354243,
+      "num": 263231,
+      "word": "Elk发BLG合照",
+      "onboard_time": 1761390741,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 350314,
@@ -401,6 +409,14 @@
       "onboard_time": 1761379760,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333005,
+      "num": 333005,
+      "word": "小白熊 退役",
+      "onboard_time": 1761388282,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 332093,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 281961,
-      "num": 220760,
+      "num": 238965,
       "word": "彭小苒 翻红",
       "onboard_time": 1761388401,
       "rank": 32,
@@ -571,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263656,
-      "num": 263656,
-      "word": "小白熊 退役",
-      "onboard_time": 1761388282,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 264699,
+      "num": 264699,
+      "word": "深圳机场会同航空公司启动核查",
+      "onboard_time": 1761391042,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263425,
@@ -624,14 +640,6 @@
       "word": "Bin燃尽了",
       "onboard_time": 1761388581,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 245915,
-      "num": 167141,
-      "word": "Elk发BLG合照",
-      "onboard_time": 1761390741,
-      "rank": 33,
       "category": "电竞"
     },
     {
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201897,
+      "num": 412339,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200346,
       "num": 257230,
       "word": "一路繁花居然敢把这2分21秒剪进去",
@@ -747,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200056,
+      "num": 200056,
+      "word": "我的购物流程",
+      "onboard_time": 1761391641,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199783,
       "num": 199783,
       "word": "国台办谈设立台湾光复纪念日",
       "onboard_time": 1761310522,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197209,
+      "num": 197209,
+      "word": "Angelababy直播造型",
+      "onboard_time": 1761389181,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196127,
@@ -867,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186408,
+      "num": 259448,
+      "word": "天地剑心直播",
+      "onboard_time": 1761390561,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185715,
       "num": 185715,
       "word": "成毅打戏",
@@ -883,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184617,
-      "num": 180663,
-      "word": "Angelababy直播造型",
-      "onboard_time": 1761389181,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183718,
       "num": 183718,
       "word": "西安成了刘宇宁痛城",
@@ -900,19 +932,11 @@
     },
     {
       "raw_hot": 182052,
-      "num": 162127,
+      "num": 176754,
       "word": "河北一小区单元楼发生十几公分沉降",
       "onboard_time": 1761387561,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182051,
-      "num": 412339,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 177245,
@@ -947,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171481,
+      "num": 171481,
+      "word": "我复刻了刘亦菲满天星妆造",
+      "onboard_time": 1761391103,
+      "rank": 47,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 170600,
       "num": 268981,
       "word": "抗美援朝纪念日",
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 168808,
-      "num": 189422,
+      "num": 199932,
       "word": "龚俊暗河传热度超9800",
       "onboard_time": 1761390622,
       "rank": 24,
@@ -1059,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156178,
+      "num": 156178,
+      "word": "成毅直播",
+      "onboard_time": 1761391342,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156138,
       "num": 133750,
       "word": "员工脚痛请假因步数超1.6万被开除",
@@ -1107,19 +1147,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153141,
+      "num": 153141,
+      "word": "4岁女童吞硬币家人海姆立克无效",
+      "onboard_time": 1761390022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152764,
       "num": 134217,
       "word": "邱莹莹我开始理解你了",
       "onboard_time": 1761308421,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152714,
-      "num": 187221,
-      "word": "天地剑心直播",
-      "onboard_time": 1761390561,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1179,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146104,
+      "num": 146104,
+      "word": "长期戴眼镜导致的面部变化",
+      "onboard_time": 1761391641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145663,
       "num": 141874,
       "word": "男子被野蜂蜇死母亲因伤痛离世",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1761305600,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141739,
-      "num": 141739,
-      "word": "4岁女童吞硬币家人海姆立克无效",
-      "onboard_time": 1761390022,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141495,
@@ -1355,20 +1395,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132984,
-      "num": 132984,
-      "word": "我复刻了刘亦菲满天星妆造",
-      "onboard_time": 1761391103,
-      "rank": 47,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 132765,
       "num": 154454,
       "word": "综艺史上最尬的自我介绍",
       "onboard_time": 1761377600,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132234,
+      "num": 132234,
+      "word": "订婚花60万遭悔婚男子起诉返还",
+      "onboard_time": 1761392000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131940,
@@ -1571,14 +1611,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 119707,
-      "num": 186388,
-      "word": "深圳机场会同航空公司启动核查",
-      "onboard_time": 1761391042,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119677,
       "num": 119677,
       "word": "整个宿舍都是歌姬是什么体验",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1761382641,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115049,
+      "num": 156243,
+      "word": "Ning力挺369",
+      "onboard_time": 1761392121,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 114539,
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 107650,
-      "num": 184716,
+      "num": 199309,
       "word": "樊振东的这场比赛含金量还在上升",
       "onboard_time": 1761388040,
       "rank": 39,
@@ -2507,6 +2547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 80899,
+      "num": 258011,
+      "word": "卖小麦收28万却被冻结母子痛哭",
+      "onboard_time": 1761391821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80852,
       "num": 80852,
       "word": "杜兰特37分",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1761357801,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 79374,
+      "num": 157342,
+      "word": "管晨辰恭喜张清颖夺金",
+      "onboard_time": 1761391881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 78774,
@@ -2955,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54918,
+      "num": 116573,
+      "word": "陈华接任茅台集团董事长",
+      "onboard_time": 1761392181,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53064,
       "num": 130651,
       "word": "孟佳肉眼可见冷到发抖",
@@ -3019,6 +3083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42730,
+      "num": 141793,
+      "word": "吉林一火车站白天关闭4个多小时",
+      "onboard_time": 1761390622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42640,
       "num": 178235,
       "word": "AI时代的国际教育选择",
@@ -3067,6 +3139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36653,
+      "num": 197440,
+      "word": "于适KimJones剪刀手合影",
+      "onboard_time": 1761391821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36079,
       "num": 218012,
       "word": "日本正加快设立国家情报局",
@@ -3089,14 +3169,6 @@
       "onboard_time": 1761384320,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33549,
-      "num": 141793,
-      "word": "吉林一火车站白天关闭4个多小时",
-      "onboard_time": 1761390622,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32420,
@@ -3161,6 +3233,14 @@
       "onboard_time": 1761329715,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24311,
+      "num": 156697,
+      "word": "00后护士回应辞职做护工",
+      "onboard_time": 1761391760,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23053,

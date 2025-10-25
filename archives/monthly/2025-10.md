@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 19:20:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 19:37:19
 </p>
 </blockquote>
 <p>
@@ -1731,6 +1731,12 @@ VOGUE盛典官宣阵容（热度：1089235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%9A%84%E8%80%B3%E7%8E%AF%E8%A2%AB%E6%8C%87%E4%BB%B7%E5%80%BC77.5%E4%B8%87%E5%85%83%23" target="weibo">
+章泽天的耳环被指价值77.5万元（热度：1062239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%E6%8A%BD%E5%88%B0TES%23" target="weibo">
 GEN抽到TES（热度：1062021）
 </a>
@@ -1937,12 +1943,6 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%92%8C%E5%B0%8F20%E5%B2%81%E5%A5%B3%E5%8F%8B%E4%BA%A4%E5%BE%80%E8%B6%85%E4%B8%80%E5%B9%B4%23" target="weibo">
 曝阮经天和小20岁女友交往超一年（热度：1023575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%9A%84%E8%80%B3%E7%8E%AF%E8%A2%AB%E6%8C%87%E4%BB%B7%E5%80%BC77.5%E4%B8%87%E5%85%83%23" target="weibo">
-章泽天的耳环被指价值77.5万元（热度：1022654）
 </a>
 </li>
 

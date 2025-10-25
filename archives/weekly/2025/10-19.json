@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761391220785,
+  "endTime": 1761392239915,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -467,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1062239,
+      "num": 411947,
+      "word": "章泽天的耳环被指价值77.5万元",
+      "onboard_time": 1761387322,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1062021,
       "num": 1062021,
       "word": "GEN抽到TES",
@@ -561,14 +569,6 @@
       "onboard_time": 1761271999,
       "rank": 14,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 1022654,
-      "num": 411947,
-      "word": "章泽天的耳环被指价值77.5万元",
-      "onboard_time": 1761387322,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 1017837,
@@ -3108,7 +3108,7 @@
     },
     {
       "raw_hot": 382767,
-      "num": 223984,
+      "num": 256212,
       "word": "金饰克价跌到1222元",
       "onboard_time": 1761386962,
       "rank": 24,
@@ -3403,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354243,
+      "num": 263231,
+      "word": "Elk发BLG合照",
+      "onboard_time": 1761390741,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1761274640,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 333005,
+      "num": 333005,
+      "word": "小白熊 退役",
+      "onboard_time": 1761388282,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 332298,
@@ -4460,7 +4476,7 @@
     },
     {
       "raw_hot": 281961,
-      "num": 220760,
+      "num": 238965,
       "word": "彭小苒 翻红",
       "onboard_time": 1761388401,
       "rank": 32,
@@ -4739,12 +4755,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 263656,
-      "num": 263656,
-      "word": "小白熊 退役",
-      "onboard_time": 1761388282,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 264699,
+      "num": 264699,
+      "word": "深圳机场会同航空公司启动核查",
+      "onboard_time": 1761391042,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263599,
@@ -5017,14 +5033,6 @@
       "onboard_time": 1760833759,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 245915,
-      "num": 167141,
-      "word": "Elk发BLG合照",
-      "onboard_time": 1761390741,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 245910,
@@ -5987,6 +5995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201897,
+      "num": 412339,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201830,
       "num": 201830,
       "word": "现货黄金失守4100美元",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1761179423,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200056,
+      "num": 200056,
+      "word": "我的购物流程",
+      "onboard_time": 1761391641,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 200026,
@@ -6177,6 +6201,14 @@
       "onboard_time": 1761046280,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197209,
+      "num": 197209,
+      "word": "Angelababy直播造型",
+      "onboard_time": 1761389181,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196819,
@@ -6819,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186408,
+      "num": 259448,
+      "word": "天地剑心直播",
+      "onboard_time": 1761390561,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186147,
       "num": 178479,
       "word": "水龙吟第一案婚礼变葬礼",
@@ -6929,14 +6969,6 @@
       "onboard_time": 1760865262,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184617,
-      "num": 180663,
-      "word": "Angelababy直播造型",
-      "onboard_time": 1761389181,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 183925,
@@ -7052,19 +7084,11 @@
     },
     {
       "raw_hot": 182052,
-      "num": 162127,
+      "num": 176754,
       "word": "河北一小区单元楼发生十几公分沉降",
       "onboard_time": 1761387561,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182051,
-      "num": 412339,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 181975,
@@ -7619,6 +7643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171481,
+      "num": 171481,
+      "word": "我复刻了刘亦菲满天星妆造",
+      "onboard_time": 1761391103,
+      "rank": 47,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 171351,
       "num": 171351,
       "word": "90后女生高职毕业任教清华",
@@ -7732,7 +7764,7 @@
     },
     {
       "raw_hot": 168808,
-      "num": 189422,
+      "num": 199932,
       "word": "龚俊暗河传热度超9800",
       "onboard_time": 1761390622,
       "rank": 24,
@@ -8595,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156178,
+      "num": 156178,
+      "word": "成毅直播",
+      "onboard_time": 1761391342,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155641,
       "num": 441809,
       "word": "我妈以为我住10平米的出租屋很惨",
@@ -8795,20 +8835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153141,
+      "num": 153141,
+      "word": "4岁女童吞硬币家人海姆立克无效",
+      "onboard_time": 1761390022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
       "onboard_time": 1760943800,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152714,
-      "num": 187221,
-      "word": "天地剑心直播",
-      "onboard_time": 1761390561,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 152612,
@@ -9307,6 +9347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146104,
+      "num": 146104,
+      "word": "长期戴眼镜导致的面部变化",
+      "onboard_time": 1761391641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146093,
       "num": 213916,
       "word": "任嘉伦预测NBA总冠军",
@@ -9577,14 +9625,6 @@
       "onboard_time": 1761046580,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 141739,
-      "num": 141739,
-      "word": "4岁女童吞硬币家人海姆立克无效",
-      "onboard_time": 1761390022,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141360,
@@ -10251,14 +10291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132984,
-      "num": 132984,
-      "word": "我复刻了刘亦菲满天星妆造",
-      "onboard_time": 1761391103,
-      "rank": 47,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 132979,
       "num": 132979,
       "word": "金价上涨后50克金条订单被拦截",
@@ -10369,6 +10401,14 @@
       "onboard_time": 1761034580,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132234,
+      "num": 132234,
+      "word": "订婚花60万遭悔婚男子起诉返还",
+      "onboard_time": 1761392000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132136,
@@ -11827,14 +11867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119707,
-      "num": 186388,
-      "word": "深圳机场会同航空公司启动核查",
-      "onboard_time": 1761391042,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119677,
       "num": 119677,
       "word": "整个宿舍都是歌姬是什么体验",
@@ -12401,6 +12433,14 @@
       "onboard_time": 1761293961,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115049,
+      "num": 156243,
+      "word": "Ning力挺369",
+      "onboard_time": 1761392121,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 115001,
@@ -13492,7 +13532,7 @@
     },
     {
       "raw_hot": 107650,
-      "num": 184716,
+      "num": 199309,
       "word": "樊振东的这场比赛含金量还在上升",
       "onboard_time": 1761388040,
       "rank": 39,
@@ -17995,6 +18035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80899,
+      "num": 258011,
+      "word": "卖小麦收28万却被冻结母子痛哭",
+      "onboard_time": 1761391821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80887,
       "num": 435541,
       "word": "水龙吟一打开就是护眼模式",
@@ -18241,6 +18289,14 @@
       "onboard_time": 1761023243,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 79374,
+      "num": 157342,
+      "word": "管晨辰恭喜张清颖夺金",
+      "onboard_time": 1761391881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 79301,
@@ -20803,6 +20859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54918,
+      "num": 116573,
+      "word": "陈华接任茅台集团董事长",
+      "onboard_time": 1761392181,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -21483,6 +21547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42730,
+      "num": 141793,
+      "word": "吉林一火车站白天关闭4个多小时",
+      "onboard_time": 1761390622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42712,
       "num": 228654,
       "word": "男子给电动车充1.8度电花4元",
@@ -21859,6 +21931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36653,
+      "num": 197440,
+      "word": "于适KimJones剪刀手合影",
+      "onboard_time": 1761391821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36418,
       "num": 178222,
       "word": "原来这些爆款都是KimJones设计的",
@@ -22009,14 +22089,6 @@
       "onboard_time": 1761384320,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33549,
-      "num": 141793,
-      "word": "吉林一火车站白天关闭4个多小时",
-      "onboard_time": 1761390622,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33201,
@@ -22489,6 +22561,14 @@
       "onboard_time": 1760846481,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24311,
+      "num": 156697,
+      "word": "00后护士回应辞职做护工",
+      "onboard_time": 1761391760,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24130,
