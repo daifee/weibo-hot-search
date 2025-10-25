@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761434563133,
+  "endTime": 1761435413182,
   "band_list": [
     {
       "raw_hot": 1114184,
@@ -51,8 +51,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323050,
-      "num": 760090,
+      "raw_hot": 325385,
+      "num": 862061,
       "word": "光复二字遍及台湾大街小巷",
       "onboard_time": 1761427274,
       "rank": 48,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276554,
+      "num": 90589,
+      "word": "张檬回应带儿子去香港打疫苗",
+      "onboard_time": 1761434297,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256448,
       "num": 219224,
       "word": "刘宇宁才知道高定可以拿回家",
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225601,
+      "num": 89424,
+      "word": "以为捡了条小奶狗不想越长越不对劲",
+      "onboard_time": 1761434116,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214320,
       "num": 196656,
       "word": "闫妮和任素汐吵架根本不像演的",
@@ -123,12 +139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207924,
-      "num": 68222,
-      "word": "张檬回应带儿子去香港打疫苗",
-      "onboard_time": 1761434297,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 200530,
+      "num": 89276,
+      "word": "奥黛丽赫本之子在苏州胜诉",
+      "onboard_time": 1761397041,
+      "rank": 16,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 190514,
@@ -139,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171608,
-      "num": 68111,
-      "word": "以为捡了条小奶狗不想越长越不对劲",
-      "onboard_time": 1761434116,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 177924,
+      "num": 88429,
+      "word": "女子参加荒野求生14天后瘦成闪电",
+      "onboard_time": 1761433816,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170758,
@@ -171,14 +187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147967,
-      "num": 67969,
-      "word": "奥黛丽赫本之子在苏州胜诉",
-      "onboard_time": 1761397041,
-      "rank": 16,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 138302,
       "num": 248100,
       "word": "少年的你发了新剧照",
@@ -203,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126165,
+      "num": 126165,
+      "word": "俄罗斯发动大规模夜袭",
+      "onboard_time": 1761433396,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124011,
       "num": 238888,
       "word": "吉林珲春5.5级地震",
@@ -219,20 +235,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119724,
+      "num": 196306,
+      "word": "专家怀疑太阳系星际访客系航天器",
+      "onboard_time": 1761395302,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115638,
       "num": 196023,
       "word": "八段锦跟练视频教程",
       "onboard_time": 1761407600,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 111893,
-      "num": 196306,
-      "word": "专家怀疑太阳系星际访客系航天器",
-      "onboard_time": 1761395302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110907,
@@ -243,12 +259,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105196,
-      "num": 67809,
-      "word": "女子参加荒野求生14天后瘦成闪电",
+      "raw_hot": 110099,
+      "num": 87038,
+      "word": "成毅直播假吃冰棍",
       "onboard_time": 1761433816,
-      "rank": 18,
-      "category": "民生新闻"
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 103954,
@@ -299,20 +315,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98104,
-      "num": 98104,
-      "word": "俄罗斯发动大规模夜袭",
-      "onboard_time": 1761433396,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93109,
       "num": 196340,
       "word": "天地剑心",
       "onboard_time": 1761394703,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91831,
+      "num": 195615,
+      "word": "太阳系星际访客4天后抵达近日点",
+      "onboard_time": 1761398241,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91233,
@@ -339,14 +355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82403,
-      "num": 195615,
-      "word": "太阳系星际访客4天后抵达近日点",
-      "onboard_time": 1761398241,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81543,
       "num": 196060,
       "word": "张予曦怼脸 好歹毒的镜头好美的脸",
@@ -360,6 +368,14 @@
       "word": "西安一辆保时捷新能源车突发自燃",
       "onboard_time": 1761403942,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76678,
+      "num": 76678,
+      "word": "警方回应卖小麦收款28万却遭冻结",
+      "onboard_time": 1761399502,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -379,14 +395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74509,
-      "num": 67604,
-      "word": "成毅直播假吃冰棍",
-      "onboard_time": 1761433816,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73887,
       "num": 195885,
       "word": "易烊千玺毕业照",
@@ -403,12 +411,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72036,
+      "num": 72036,
+      "word": "这种凳子请走出大学",
+      "onboard_time": 1761395781,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71767,
       "num": 195945,
       "word": "深圳机场将完善轮椅旅客服务保障",
       "onboard_time": 1761409161,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71008,
+      "num": 59666,
+      "word": "放在整个婚礼圈也是相当炸裂的",
+      "onboard_time": 1761432675,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 70862,
+      "num": 70862,
+      "word": "保时捷销售利润暴跌99%",
+      "onboard_time": 1761434657,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 63875,
+      "num": 62705,
+      "word": "他接纳了自己有个小妹妹",
+      "onboard_time": 1761434418,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 63643,
@@ -419,12 +459,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 62705,
-      "num": 62705,
-      "word": "他接纳了自己有个小妹妹",
-      "onboard_time": 1761434418,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 63245,
+      "num": 91203,
+      "word": "hi6实时收视第一",
+      "onboard_time": 1761433757,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62674,
+      "num": 90048,
+      "word": "F1",
+      "onboard_time": 1761434957,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 62042,
@@ -433,6 +481,14 @@
       "onboard_time": 1761410719,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60427,
+      "num": 67101,
+      "word": "杨紫玉兰花开君再来将官宣",
+      "onboard_time": 1761433875,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 60057,
@@ -451,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59127,
-      "num": 59127,
-      "word": "放在整个婚礼圈也是相当炸裂的",
-      "onboard_time": 1761432675,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 59615,
+      "num": 59615,
+      "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
+      "onboard_time": 1761434418,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 58910,
@@ -483,12 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54422,
-      "num": 54422,
-      "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
-      "onboard_time": 1761434418,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 53676,
+      "num": 53676,
+      "word": "订婚花60万共同生活4天后遭悔婚",
+      "onboard_time": 1761393622,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52063,
@@ -515,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45938,
-      "num": 67101,
-      "word": "杨紫玉兰花开君再来将官宣",
-      "onboard_time": 1761433875,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45715,
       "num": 115902,
       "word": "BLG淘汰",
@@ -531,11 +579,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43735,
-      "num": 43735,
-      "word": "警方回应卖小麦收款28万却遭冻结",
-      "onboard_time": 1761399502,
-      "rank": 38,
+      "raw_hot": 45703,
+      "num": 54484,
+      "word": "张杰青岛演唱会的排面",
+      "onboard_time": 1761434957,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44993,
+      "num": 64513,
+      "word": "王安宇一年归来仍是河南老乡",
+      "onboard_time": 1761431895,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43882,
+      "num": 43882,
+      "word": "科考人员发现1400年前人类活动遗迹",
+      "onboard_time": 1761434418,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -547,22 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42379,
-      "num": 65842,
-      "word": "hi6实时收视第一",
-      "onboard_time": 1761433757,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 42295,
-      "num": 42295,
-      "word": "订婚花60万共同生活4天后遭悔婚",
-      "onboard_time": 1761393622,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41767,
       "num": 262163,
       "word": "未来五年的重点任务",
@@ -571,36 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40959,
-      "num": 38978,
-      "word": "这种凳子请走出大学",
-      "onboard_time": 1761395781,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 40596,
-      "num": 40596,
-      "word": "科考人员发现1400年前人类活动遗迹",
-      "onboard_time": 1761434418,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39904,
       "num": 115593,
       "word": "胡夏付辛博终于又合体了",
       "onboard_time": 1761411138,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39493,
-      "num": 64513,
-      "word": "王安宇一年归来仍是河南老乡",
-      "onboard_time": 1761431895,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 39195,
@@ -617,6 +641,14 @@
       "onboard_time": 1761415995,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30449,
+      "num": 87417,
+      "word": "深圳机场回应整改措施",
+      "onboard_time": 1761435076,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27075,

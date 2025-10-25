@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761434563133,
+  "endTime": 1761435413182,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -14923,6 +14923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325385,
+      "num": 862061,
+      "word": "光复二字遍及台湾大街小巷",
+      "onboard_time": 1761427274,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325356,
       "num": 325356,
       "word": "BLG状态",
@@ -15033,14 +15041,6 @@
       "onboard_time": 1759324641,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323050,
-      "num": 760090,
-      "word": "光复二字遍及台湾大街小巷",
-      "onboard_time": 1761427274,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 323016,
@@ -17769,6 +17769,14 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276554,
+      "num": 90589,
+      "word": "张檬回应带儿子去香港打疫苗",
+      "onboard_time": 1761434297,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 276544,
@@ -21203,6 +21211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225601,
+      "num": 89424,
+      "word": "以为捡了条小奶狗不想越长越不对劲",
+      "onboard_time": 1761434116,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225488,
       "num": 411415,
       "word": "JDG战胜KSG",
@@ -22683,14 +22699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207924,
-      "num": 68222,
-      "word": "张檬回应带儿子去香港打疫苗",
-      "onboard_time": 1761434297,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207894,
       "num": 207894,
       "word": "孟子义擦完你的擦你的",
@@ -23897,6 +23905,14 @@
       "onboard_time": 1760091623,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200530,
+      "num": 122001,
+      "word": "奥黛丽赫本之子在苏州胜诉",
+      "onboard_time": 1761397041,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 200497,
@@ -28235,6 +28251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177924,
+      "num": 88429,
+      "word": "女子参加荒野求生14天后瘦成闪电",
+      "onboard_time": 1761433816,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177918,
       "num": 177918,
       "word": "64岁演员林俊贤景区打工",
@@ -29585,14 +29609,6 @@
       "onboard_time": 1759589063,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171608,
-      "num": 68111,
-      "word": "以为捡了条小奶狗不想越长越不对劲",
-      "onboard_time": 1761434116,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 171606,
@@ -35577,14 +35593,6 @@
       "onboard_time": 1761222803,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 147967,
-      "num": 122001,
-      "word": "奥黛丽赫本之子在苏州胜诉",
-      "onboard_time": 1761397041,
-      "rank": 47,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 147939,
@@ -43385,6 +43393,14 @@
       "onboard_time": 1760261481,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126165,
+      "num": 126165,
+      "word": "俄罗斯发动大规模夜袭",
+      "onboard_time": 1761433396,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126161,
@@ -51731,6 +51747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110099,
+      "num": 87038,
+      "word": "成毅直播假吃冰棍",
+      "onboard_time": 1761433816,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110098,
       "num": 110098,
       "word": "李亚鹏说真相比猜想更残忍",
@@ -54865,14 +54889,6 @@
       "onboard_time": 1760576841,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 105196,
-      "num": 67809,
-      "word": "女子参加荒野求生14天后瘦成闪电",
-      "onboard_time": 1761433816,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105176,
@@ -59065,14 +59081,6 @@
       "onboard_time": 1760610079,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 98104,
-      "num": 98104,
-      "word": "俄罗斯发动大规模夜袭",
-      "onboard_time": 1761433396,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98095,
@@ -71131,14 +71139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74509,
-      "num": 67604,
-      "word": "成毅直播假吃冰棍",
-      "onboard_time": 1761433816,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74497,
       "num": 94410,
       "word": "娶你这件事是我蓄谋已久的浪漫",
@@ -72259,6 +72259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 71008,
+      "num": 59666,
+      "word": "放在整个婚礼圈也是相当炸裂的",
+      "onboard_time": 1761432675,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71001,
       "num": 404904,
       "word": "孙颖莎第一张4K超清实况",
@@ -72297,6 +72305,14 @@
       "onboard_time": 1760916557,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70862,
+      "num": 70862,
+      "word": "保时捷销售利润暴跌99%",
+      "onboard_time": 1761434657,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 70840,
@@ -74235,6 +74251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63875,
+      "num": 62705,
+      "word": "他接纳了自己有个小妹妹",
+      "onboard_time": 1761434418,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63824,
       "num": 179015,
       "word": "荣耀Magic8夜神强上天",
@@ -74371,6 +74395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63245,
+      "num": 91203,
+      "word": "hi6实时收视第一",
+      "onboard_time": 1761433757,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63217,
       "num": 107405,
       "word": "21岁中国男子普吉岛被海浪冲走",
@@ -74497,14 +74529,6 @@
       "onboard_time": 1760522841,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 62705,
-      "num": 62705,
-      "word": "他接纳了自己有个小妹妹",
-      "onboard_time": 1761434418,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 62704,
@@ -75059,6 +75083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60427,
+      "num": 67101,
+      "word": "杨紫玉兰花开君再来将官宣",
+      "onboard_time": 1761433875,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60320,
       "num": 58778,
       "word": "黄金暴涨谁是最大受害者",
@@ -75275,6 +75307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59615,
+      "num": 59615,
+      "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
+      "onboard_time": 1761434418,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59561,
       "num": 215171,
       "word": "网购二手相机却收到1公斤银条",
@@ -75377,14 +75417,6 @@
       "onboard_time": 1760536703,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 59127,
-      "num": 59127,
-      "word": "放在整个婚礼圈也是相当炸裂的",
-      "onboard_time": 1761432675,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 59024,
@@ -76521,14 +76553,6 @@
       "onboard_time": 1760159481,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54422,
-      "num": 54422,
-      "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
-      "onboard_time": 1761434418,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 54362,
@@ -78259,14 +78283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45938,
-      "num": 67101,
-      "word": "杨紫玉兰花开君再来将官宣",
-      "onboard_time": 1761433875,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45766,
       "num": 116767,
       "word": "朋友圈和现实风格差别能有多大",
@@ -78289,6 +78305,14 @@
       "onboard_time": 1761055521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45703,
+      "num": 54484,
+      "word": "张杰青岛演唱会的排面",
+      "onboard_time": 1761434957,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 45669,
@@ -78377,6 +78401,14 @@
       "onboard_time": 1760864961,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44993,
+      "num": 64513,
+      "word": "王安宇一年归来仍是河南老乡",
+      "onboard_time": 1761431895,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 44970,
@@ -78641,6 +78673,14 @@
       "onboard_time": 1760311821,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43882,
+      "num": 43882,
+      "word": "科考人员发现1400年前人类活动遗迹",
+      "onboard_time": 1761434418,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43872,
@@ -78939,14 +78979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42379,
-      "num": 65842,
-      "word": "hi6实时收视第一",
-      "onboard_time": 1761433757,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42374,
       "num": 103418,
       "word": "当地回应浏阳烟花秀火星掉落引火灾",
@@ -79235,14 +79267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40596,
-      "num": 40596,
-      "word": "科考人员发现1400年前人类活动遗迹",
-      "onboard_time": 1761434418,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40586,
       "num": 300108,
       "word": "泰国副财长因被控参与电诈辞职",
@@ -79489,14 +79513,6 @@
       "onboard_time": 1761028702,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39493,
-      "num": 64513,
-      "word": "王安宇一年归来仍是河南老乡",
-      "onboard_time": 1761431895,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 39459,
@@ -81168,6 +81184,14 @@
       "word": "日入1元配当花西子竞品吗",
       "onboard_time": 1760848639,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30449,
+      "num": 87417,
+      "word": "深圳机场回应整改措施",
+      "onboard_time": 1761435076,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
