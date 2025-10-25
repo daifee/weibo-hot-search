@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761377813103,
+  "endTime": 1761381006424,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -9,6 +9,14 @@
       "onboard_time": 1761348797,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2322089,
+      "num": 2322089,
+      "word": "泰国宣布禁娱30天",
+      "onboard_time": 1761378380,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1527003,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 924043,
-      "num": 161768,
+      "num": 254559,
       "word": "阿娇因手震已戒酒一年多",
       "onboard_time": 1761371840,
       "rank": 10,
@@ -73,6 +81,22 @@
       "onboard_time": 1761302481,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 803903,
+      "num": 803903,
+      "word": "武汉防空警报",
+      "onboard_time": 1761379702,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 799879,
+      "num": 254562,
+      "word": "和易烊千玺合照只需要一句师哥",
+      "onboard_time": 1761377060,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 785407,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 532889,
-      "num": 157488,
+      "num": 254556,
       "word": "蒋欣吃太多被经纪人看管了",
       "onboard_time": 1761372620,
       "rank": 20,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 467408,
-      "num": 243788,
+      "num": 425468,
       "word": "天地剑心剧情毫无波澜",
       "onboard_time": 1761375260,
       "rank": 5,
@@ -201,6 +225,14 @@
       "onboard_time": 1761357559,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 425739,
+      "num": 425739,
+      "word": "TES对战BLG",
+      "onboard_time": 1761378501,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 405070,
@@ -259,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331089,
-      "num": 156247,
-      "word": "和易烊千玺合照只需要一句师哥",
-      "onboard_time": 1761377060,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328818,
       "num": 214468,
       "word": "你缺的不是衣服而是打扮思路",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 312769,
-      "num": 239173,
+      "num": 295675,
       "word": "四大平台男主剧对打",
       "onboard_time": 1761374541,
       "rank": 38,
@@ -363,6 +387,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254562,
+      "num": 254562,
+      "word": "天地剑心 淮水竹亭",
+      "onboard_time": 1761376640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254552,
+      "num": 254551,
+      "word": "重庆市副市长江敦涛被查",
+      "onboard_time": 1761378380,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251387,
       "num": 213791,
       "word": "水龙吟",
@@ -392,6 +432,14 @@
       "word": "有史以来再见最快的爱人",
       "onboard_time": 1761345255,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234424,
+      "num": 234424,
+      "word": "张晚意快把李沁掰折了",
+      "onboard_time": 1761379760,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -427,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222964,
+      "num": 222964,
+      "word": "九尾cos",
+      "onboard_time": 1761376760,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
@@ -441,6 +497,14 @@
       "onboard_time": 1761366981,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206160,
+      "num": 206160,
+      "word": "易烊千玺毕业照",
+      "onboard_time": 1761380901,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 205441,
@@ -475,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "景区观光小火车疑坠海致多人伤亡",
+      "onboard_time": 1761379821,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195980,
       "num": 195980,
       "word": "东契奇爆砍49分11篮板",
@@ -507,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188408,
+      "num": 188408,
+      "word": "李诞差点被刘同的才华吓坏了",
+      "onboard_time": 1761379942,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187348,
       "num": 153044,
       "word": "女子回应买猪食槽收纳孩子玩具",
@@ -521,6 +601,14 @@
       "onboard_time": 1761373400,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183589,
+      "num": 183589,
+      "word": "瘦10斤比我瘦20斤都明显",
+      "onboard_time": 1761378501,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 175284,
@@ -563,6 +651,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165939,
+      "num": 165939,
+      "word": "云合",
+      "onboard_time": 1761380600,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165502,
+      "num": 165502,
+      "word": "今天武汉将响起这个声音",
+      "onboard_time": 1761380600,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164765,
       "num": 164765,
       "word": "水龙吟导演",
@@ -595,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162792,
-      "num": 155318,
-      "word": "天地剑心 淮水竹亭",
-      "onboard_time": 1761376640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
@@ -617,14 +713,6 @@
       "onboard_time": 1761352401,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161058,
-      "num": 161058,
-      "word": "九尾cos",
-      "onboard_time": 1761376760,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 160883,
@@ -643,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157308,
+      "num": 157308,
+      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+      "onboard_time": 1761377781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156138,
       "num": 133750,
       "word": "员工脚痛请假因步数超1.6万被开除",
@@ -657,6 +753,14 @@
       "onboard_time": 1761375500,
       "rank": 8,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 154629,
+      "num": 132586,
+      "word": "从不午睡vs天天午睡",
+      "onboard_time": 1761379280,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 153919,
@@ -835,6 +939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 136789,
+      "num": 136789,
+      "word": "暗河传台词尺度",
+      "onboard_time": 1761379099,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136246,
       "num": 124608,
       "word": "马君妍怀孕三个月做NT检查",
@@ -851,20 +963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133959,
-      "num": 133959,
-      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
-      "onboard_time": 1761377781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132765,
       "num": 154454,
       "word": "综艺史上最尬的自我介绍",
       "onboard_time": 1761377600,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131940,
+      "num": 154234,
+      "word": "鸡排哥音乐节代排费达299元",
+      "onboard_time": 1761375201,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131862,
@@ -889,6 +1001,14 @@
       "onboard_time": 1761319761,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128929,
+      "num": 128929,
+      "word": "台名嘴称台湾回归天经地义",
+      "onboard_time": 1761380120,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128770,
@@ -921,6 +1041,14 @@
       "onboard_time": 1761353540,
       "rank": 27,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 126544,
+      "num": 126544,
+      "word": "父亲亲手给重病女儿挖好坟后续",
+      "onboard_time": 1761379340,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126373,
@@ -960,6 +1088,14 @@
       "word": "原来大家小时候的审美都是一样的",
       "onboard_time": 1761371780,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122645,
+      "num": 122645,
+      "word": "从家到学校只需46秒",
+      "onboard_time": 1761379821,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1019,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117839,
+      "num": 117839,
+      "word": "龚俊 我咋不健身",
+      "onboard_time": 1761379641,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117166,
       "num": 117166,
       "word": "向佐去跳团播了",
@@ -1075,12 +1219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112765,
-      "num": 154234,
-      "word": "鸡排哥音乐节代排费达299元",
-      "onboard_time": 1761375201,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 113099,
+      "num": 113099,
+      "word": "Gemini和最帅的李白合照了",
+      "onboard_time": 1761378921,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 112488,
@@ -1147,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110556,
+      "num": 134515,
+      "word": "张子枫为林沫沫画的画",
+      "onboard_time": 1761380120,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110127,
       "num": 110127,
       "word": "薛之谦把欧阳娜娜当逗号用",
@@ -1169,6 +1321,14 @@
       "onboard_time": 1761365840,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107593,
+      "num": 103591,
+      "word": "马拉松精神的本质就是长期主义",
+      "onboard_time": 1761380001,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 107248,
@@ -1211,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105617,
+      "num": 105617,
+      "word": "TES陷入绝境",
+      "onboard_time": 1761380301,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105074,
       "num": 105074,
       "word": "张晚意找到同皂中人了",
@@ -1224,6 +1392,14 @@
       "word": "胜利属于每个中国人",
       "onboard_time": 1761323000,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103340,
+      "num": 103340,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -1331,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96462,
+      "num": 96462,
+      "word": "CFO晋级S15八强",
+      "onboard_time": 1761379280,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96277,
       "num": 96277,
       "word": "情绪好了人生就顺了",
@@ -1409,6 +1593,14 @@
       "onboard_time": 1761308061,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91614,
+      "num": 134007,
+      "word": "凶宅基础开的店就不基础",
+      "onboard_time": 1761379340,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 90529,
@@ -1675,6 +1867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78471,
+      "num": 103619,
+      "word": "肖战宣传黄晓明新片",
+      "onboard_time": 1761378800,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78268,
       "num": 78268,
       "word": "公司不批生育奖励假女子维权获补偿",
@@ -1745,6 +1945,14 @@
       "onboard_time": 1761364160,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74562,
+      "num": 94076,
+      "word": "阴阳师",
+      "onboard_time": 1761378680,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 74223,
@@ -1963,6 +2171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62575,
+      "num": 106350,
+      "word": "看花少7读懂了旅行的意义",
+      "onboard_time": 1761380182,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61364,
       "num": 71149,
       "word": "张艺兴直播",
@@ -1977,6 +2193,14 @@
       "onboard_time": 1761321560,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60636,
+      "num": 109789,
+      "word": "马龙说不做体育就做旅游博主",
+      "onboard_time": 1761380720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 57291,
@@ -2067,20 +2291,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39290,
+      "num": 213995,
+      "word": "张康乐像油画里走出来的王子",
+      "onboard_time": 1761377600,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39228,
+      "num": 105680,
+      "word": "云南房子被外地人买爆",
+      "onboard_time": 1761380961,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37302,
+      "num": 209326,
+      "word": "王安宇同款饭搭子",
+      "onboard_time": 1761377660,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36079,
       "num": 218012,
       "word": "日本正加快设立国家情报局",
       "onboard_time": 1761366981,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34465,
-      "num": 154494,
-      "word": "王安宇同款饭搭子",
-      "onboard_time": 1761377660,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 34362,
@@ -2211,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14763,
-      "num": 155219,
-      "word": "张康乐像油画里走出来的王子",
-      "onboard_time": 1761377600,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 13240,
       "num": 18608,
       "word": "第五人格",
@@ -2233,6 +2465,14 @@
       "onboard_time": 1761376401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1912,
+      "num": 1068489,
+      "word": "介绍和解读四中全会精神",
+      "onboard_time": 1761225684,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
