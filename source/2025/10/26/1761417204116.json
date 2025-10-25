@@ -1,0 +1,410 @@
+{
+  "runTime": 1761417204116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 345105,
+        "num": 345105,
+        "word": "Bin",
+        "onboard_time": 1761408681,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101223,
+        "num": 101223,
+        "word": "Bin采访差点哭了",
+        "onboard_time": 1761406641,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21174,
+        "num": 97207,
+        "word": "未来五年的重点任务",
+        "onboard_time": 1761400643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95627,
+        "num": 95627,
+        "word": "专家怀疑太阳系星际访客系航天器",
+        "onboard_time": 1761395302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83832,
+        "num": 83832,
+        "word": "TES战胜BLG",
+        "onboard_time": 1761386062,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98727,
+        "num": 83081,
+        "word": "成毅 扛剧",
+        "onboard_time": 1761402323,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77295,
+        "num": 77295,
+        "word": "太阳系星际访客4天后抵达近日点",
+        "onboard_time": 1761398241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73777,
+        "num": 73777,
+        "word": "江西一公安局副局长为黑恶势力站台",
+        "onboard_time": 1761395781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71625,
+        "num": 71625,
+        "word": "Bin 16强退役",
+        "onboard_time": 1761386721,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70561,
+        "num": 70561,
+        "word": "少年的你发了新剧照",
+        "onboard_time": 1761399082,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384252,
+        "num": 70086,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138742,
+        "num": 66634,
+        "word": "在游泳馆跳水身亡男子系体育老师",
+        "onboard_time": 1761404482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101894,
+        "num": 65033,
+        "word": "李宇春哭了",
+        "onboard_time": 1761406821,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85874,
+        "num": 62985,
+        "word": "闫妮和任素汐吵架根本不像演的",
+        "onboard_time": 1761397281,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76092,
+        "num": 60750,
+        "word": "刘宇宁才知道高定可以拿回家",
+        "onboard_time": 1761399862,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71310,
+        "num": 58807,
+        "word": "鹿晗刚刚那段删掉",
+        "onboard_time": 1761400461,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56961,
+        "num": 56961,
+        "word": "刘宇宁剪短发了",
+        "onboard_time": 1761394341,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55613,
+        "num": 55613,
+        "word": "黄晓明回复赵丽颖",
+        "onboard_time": 1761400162,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47900,
+        "num": 52045,
+        "word": "深圳机场会同航空公司启动核查",
+        "onboard_time": 1761391042,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43281,
+        "num": 51905,
+        "word": "至少今天很快乐演唱会",
+        "onboard_time": 1761393021,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51871,
+        "num": 51871,
+        "word": "长期戴眼镜导致的面部变化",
+        "onboard_time": 1761391641,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48205,
+        "num": 48205,
+        "word": "脑梗来临前身体有3个征兆",
+        "onboard_time": 1761404122,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44157,
+        "num": 44157,
+        "word": "男子杀母后网购裹尸袋并盗母亲财物",
+        "onboard_time": 1761396082,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43271,
+        "num": 43271,
+        "word": "明日方舟",
+        "onboard_time": 1761386543,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40177,
+        "num": 40177,
+        "word": "吉林珲春5.5级地震",
+        "onboard_time": 1761395425,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 39839,
+        "num": 39839,
+        "word": "男子买马一觉醒来1匹变2匹",
+        "onboard_time": 1761403642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39771,
+        "num": 39771,
+        "word": "天地剑心",
+        "onboard_time": 1761394703,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37167,
+        "num": 37167,
+        "word": "王者荣耀",
+        "onboard_time": 1761403402,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36610,
+        "num": 36610,
+        "word": "AL打T1",
+        "onboard_time": 1761394282,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32939,
+        "num": 34804,
+        "word": "台湾光复当天的台湾街头",
+        "onboard_time": 1761398241,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33456,
+        "num": 33456,
+        "word": "G2抽到TES后全员大笑",
+        "onboard_time": 1761403942,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33451,
+        "num": 33451,
+        "word": "范丞丞cos绿巨人",
+        "onboard_time": 1761401063,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32030,
+        "num": 32030,
+        "word": "龚俊李沁牵手这段好嗑",
+        "onboard_time": 1761399743,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31112,
+        "num": 31112,
+        "word": "八段锦跟练视频教程",
+        "onboard_time": 1761407600,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30489,
+        "num": 30489,
+        "word": "安可",
+        "onboard_time": 1761415995,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30013,
+        "num": 30013,
+        "word": "这种凳子请走出大学",
+        "onboard_time": 1761395781,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29681,
+        "num": 30012,
+        "word": "英雄联盟S15",
+        "onboard_time": 1761412218,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27850,
+        "num": 30012,
+        "word": "印度村庄泼粪节受质疑",
+        "onboard_time": 1761404242,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27580,
+        "num": 30011,
+        "word": "刘宪华躺着开唱爽到谁了",
+        "onboard_time": 1761409520,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26569,
+        "num": 30011,
+        "word": "深圳机场将完善轮椅旅客服务保障",
+        "onboard_time": 1761409161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26120,
+        "num": 30010,
+        "word": "胡夏付辛博终于又合体了",
+        "onboard_time": 1761411138,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27075,
+        "num": 30010,
+        "word": "四个动作站着就能瘦",
+        "onboard_time": 1761414496,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 26606,
+        "num": 30009,
+        "word": "张予曦怼脸 好歹毒的镜头好美的脸",
+        "onboard_time": 1761403042,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25999,
+        "num": 30008,
+        "word": "闫安说双11不想借王楚钦马龙热度",
+        "onboard_time": 1761410719,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25707,
+        "num": 30008,
+        "word": "BLG淘汰",
+        "onboard_time": 1761386902,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25372,
+        "num": 30007,
+        "word": "彭小苒 翻红",
+        "onboard_time": 1761388401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24471,
+        "num": 30007,
+        "word": "Bin lpl加油",
+        "onboard_time": 1761389783,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20986,
+        "num": 30006,
+        "word": "许嵩南京音乐节",
+        "onboard_time": 1761402082,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 30006,
+        "word": "希望机场服务让乘客能从容进飞机",
+        "onboard_time": 1761404002,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15756,
+        "num": 30005,
+        "word": "新一波冷空气续上了冷冷冷",
+        "onboard_time": 1761399680,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}
