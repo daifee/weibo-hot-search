@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 06:22:36
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 06:38:48
 </p>
 </blockquote>
 <p>
@@ -129,14 +129,14 @@ G2抽到TES后全员大笑（热度：134852）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E7%9C%BC%E9%95%9C%E5%AF%BC%E8%87%B4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
-长期戴眼镜导致的面部变化（热度：129933）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%A9%AC%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A51%E5%8C%B9%E5%8F%982%E5%8C%B9%23" target="weibo">
+男子买马一觉醒来1匹变2匹（热度：130916）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E9%A9%AC%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A51%E5%8C%B9%E5%8F%982%E5%8C%B9%23" target="weibo">
-男子买马一觉醒来1匹变2匹（热度：125590）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E7%9C%BC%E9%95%9C%E5%AF%BC%E8%87%B4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
+长期戴眼镜导致的面部变化（热度：129933）
 </a>
 </li>
 
@@ -375,6 +375,12 @@ BLG淘汰（热度：45715）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%8D%E4%BA%8C%E5%AD%97%E9%81%8D%E5%8F%8A%E5%8F%B0%E6%B9%BE%E5%A4%A7%E8%A1%97%E5%B0%8F%E5%B7%B7%23" target="weibo">
+光复二字遍及台湾大街小巷（热度：30029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AA%E5%8A%A8%E4%BD%9C%E7%AB%99%E7%9D%80%E5%B0%B1%E8%83%BD%E7%98%A6%23" target="weibo">
 四个动作站着就能瘦（热度：27075）
 </a>
@@ -383,12 +389,6 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%A3%E4%BC%A0%E9%BB%84%E6%99%93%E6%98%8E%E6%96%B0%E7%89%87%23" target="weibo">
 王俊凯宣传黄晓明新片（热度：19908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%8D%E4%BA%8C%E5%AD%97%E9%81%8D%E5%8F%8A%E5%8F%B0%E6%B9%BE%E5%A4%A7%E8%A1%97%E5%B0%8F%E5%B7%B7%23" target="weibo">
-光复二字遍及台湾大街小巷（热度：19150）
 </a>
 </li>
 
@@ -417,6 +417,18 @@ Beichuan掩面ELK捂鼻（热度：13956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E7%9A%84%E6%BE%8E%E6%B9%96%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%BE%8E%E6%B9%96%23" target="weibo">
+澎湖海战的澎湖是中国的澎湖（热度：12825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E4%B8%80%E5%B9%B4%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E6%B2%B3%E5%8D%97%E8%80%81%E4%B9%A1%23" target="weibo">
+王安宇一年归来仍是河南老乡（热度：12485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2375%E5%B9%B4%E4%BA%86%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0%23" target="weibo">
 75年了我们永远不能忘记（热度：12464）
 </a>
@@ -425,12 +437,6 @@ Beichuan掩面ELK捂鼻（热度：13956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2375%E7%A7%92%E5%9B%9E%E7%9C%8B75%E5%B9%B4%E5%89%8D%23" target="weibo">
 75秒回看75年前（热度：11446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E7%9A%84%E6%BE%8E%E6%B9%96%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%BE%8E%E6%B9%96%23" target="weibo">
-澎湖海战的澎湖是中国的澎湖（热度：10064）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761430956313,
+  "endTime": 1761431928083,
   "band_list": [
     {
       "raw_hot": 1114184,
@@ -155,20 +155,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130916,
+      "num": 196438,
+      "word": "男子买马一觉醒来1匹变2匹",
+      "onboard_time": 1761403642,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129933,
       "num": 196542,
       "word": "长期戴眼镜导致的面部变化",
       "onboard_time": 1761391641,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125590,
-      "num": 196438,
-      "word": "男子买马一觉醒来1匹变2匹",
-      "onboard_time": 1761403642,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124011,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30029,
+      "num": 31930,
+      "word": "光复二字遍及台湾大街小巷",
+      "onboard_time": 1761427274,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27075,
       "num": 30010,
       "word": "四个动作站着就能瘦",
@@ -499,16 +507,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19150,
-      "num": 26016,
-      "word": "光复二字遍及台湾大街小巷",
-      "onboard_time": 1761427274,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17946,
-      "num": 26014,
+      "num": 29953,
       "word": "台湾省花莲县堰塞湖现状",
       "onboard_time": 1761422054,
       "rank": 32,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 15544,
-      "num": 26016,
+      "num": 30099,
       "word": "花少制片人京东直播回应花少8阵容",
       "onboard_time": 1761393862,
       "rank": 48,
@@ -537,6 +537,22 @@
       "onboard_time": 1761404903,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12825,
+      "num": 30095,
+      "word": "澎湖海战的澎湖是中国的澎湖",
+      "onboard_time": 1761418155,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12485,
+      "num": 29874,
+      "word": "王安宇一年归来仍是河南老乡",
+      "onboard_time": 1761431895,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 12464,
@@ -553,14 +569,6 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10064,
-      "num": 26012,
-      "word": "澎湖海战的澎湖是中国的澎湖",
-      "onboard_time": 1761418155,
-      "rank": 49,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
