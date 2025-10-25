@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761369876432,
+  "endTime": 1761370817937,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -6667,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599334,
+      "num": 599334,
+      "word": "上海机场总经理辞职",
+      "onboard_time": 1761366441,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598754,
       "num": 206713,
       "word": "龚俊 关系熟了人也熟了",
@@ -8755,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501397,
+      "num": 804936,
+      "word": "天地剑心",
+      "onboard_time": 1760163801,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500930,
       "num": 500930,
       "word": "官方介入调查为人民服务地标被破坏",
@@ -8857,6 +8873,14 @@
       "onboard_time": 1760627903,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497355,
+      "num": 255137,
+      "word": "你把最难卖的一块买走了",
+      "onboard_time": 1761364699,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 497102,
@@ -9555,14 +9579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472845,
-      "num": 255137,
-      "word": "你把最难卖的一块买走了",
-      "onboard_time": 1761364699,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 472681,
       "num": 367119,
       "word": "家属回应女子缅北器官被摘除售卖",
@@ -9937,14 +9953,6 @@
       "onboard_time": 1761222863,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 457504,
-      "num": 457504,
-      "word": "上海机场总经理辞职",
-      "onboard_time": 1761366441,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457416,
@@ -11297,14 +11305,6 @@
       "onboard_time": 1760098221,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 418821,
-      "num": 804936,
-      "word": "天地剑心",
-      "onboard_time": 1760163801,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 418762,
@@ -20603,6 +20603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225076,
+      "num": 148054,
+      "word": "易烊千玺拍毕业照了",
+      "onboard_time": 1761370161,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224925,
       "num": 224925,
       "word": "TES战胜G2",
@@ -20753,6 +20761,14 @@
       "onboard_time": 1761018081,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 223268,
+      "num": 147947,
+      "word": "王一栩回宫",
+      "onboard_time": 1761370400,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 223184,
@@ -22281,6 +22297,14 @@
       "onboard_time": 1760796864,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 218525,
+      "word": "男童喝珍珠奶茶窒息身亡最新进展",
+      "onboard_time": 1761366981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206119,
@@ -24001,6 +24025,14 @@
       "onboard_time": 1759469302,
       "rank": 19,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 195980,
+      "num": 195980,
+      "word": "东契奇爆砍49分11篮板",
+      "onboard_time": 1761368961,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195953,
@@ -27689,14 +27721,6 @@
       "onboard_time": 1760933963,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176008,
-      "num": 218525,
-      "word": "男童喝珍珠奶茶窒息身亡最新进展",
-      "onboard_time": 1761366981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175992,
@@ -34131,6 +34155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148896,
+      "num": 148896,
+      "word": "天地剑心好看吗",
+      "onboard_time": 1761370340,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148876,
       "num": 148876,
       "word": "敖瑞鹏想常驻王牌",
@@ -34547,6 +34579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147361,
+      "num": 119943,
+      "word": "星穹铁道反铁墓阵容",
+      "onboard_time": 1761370700,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147352,
       "num": 147352,
       "word": "葛沛豪奚安娜真的把孩子养得很好",
@@ -34736,6 +34776,14 @@
       "word": "李沁小考服装下是睡裤",
       "onboard_time": 1759992022,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146807,
+      "num": 146807,
+      "word": "陈乔恩说和艾伦因为看吃播而不合拍",
+      "onboard_time": 1761369920,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -36409,14 +36457,6 @@
       "onboard_time": 1760503282,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140740,
-      "num": 140740,
-      "word": "东契奇爆砍49分11篮板",
-      "onboard_time": 1761368961,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 140694,
@@ -46979,6 +47019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115599,
+      "num": 115599,
+      "word": "李治良写的本真的不能放出来吗",
+      "onboard_time": 1761369500,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115583,
       "num": 115583,
       "word": "张艺兴鸟巢",
@@ -50395,6 +50443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109644,
+      "num": 109644,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109631,
       "num": 109631,
       "word": "全运乒乓球难度超奥运",
@@ -52596,7 +52652,7 @@
     },
     {
       "raw_hot": 105937,
-      "num": 105937,
+      "num": 117308,
       "word": "最纯爱的那年TFBOYS浴缸上唱好想你",
       "onboard_time": 1761369021,
       "rank": 35,
@@ -52641,14 +52697,6 @@
       "onboard_time": 1761290540,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105886,
-      "num": 105886,
-      "word": "李治良写的本真的不能放出来吗",
-      "onboard_time": 1761369500,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 105885,
@@ -61827,6 +61875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89795,
+      "num": 89795,
+      "word": "张晚意这形容让我无力反驳",
+      "onboard_time": 1761369741,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89786,
       "num": 165161,
       "word": "日本5年换4相",
@@ -62673,14 +62729,6 @@
       "onboard_time": 1760251401,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 88183,
-      "num": 88183,
-      "word": "张晚意这形容让我无力反驳",
-      "onboard_time": 1761369741,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 88161,
@@ -64361,6 +64409,14 @@
       "onboard_time": 1759304600,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85119,
+      "num": 85119,
+      "word": "沈腾当狼王能赢全靠王安宇",
+      "onboard_time": 1761370641,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 85117,
@@ -75411,6 +75467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47987,
+      "num": 89884,
+      "word": "向佐去跳团播了",
+      "onboard_time": 1761370460,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47719,
       "num": 172833,
       "word": "高德十一为线下餐饮带去1亿人",
@@ -76073,6 +76137,14 @@
       "onboard_time": 1760557333,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44255,
+      "num": 90194,
+      "word": "库明加隔扣克林根",
+      "onboard_time": 1761370220,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 44231,
@@ -78875,6 +78947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28780,
+      "num": 95004,
+      "word": "肥娟夫妇婚礼请了十多桌网友",
+      "onboard_time": 1761369261,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 28729,
       "num": 155856,
       "word": "对云南启动防汛四级应急响应",
@@ -80425,14 +80505,6 @@
       "onboard_time": 1760386574,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19744,
-      "num": 95004,
-      "word": "肥娟夫妇婚礼请了十多桌网友",
-      "onboard_time": 1761369261,
-      "rank": 39,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 19639,

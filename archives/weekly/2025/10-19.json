@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761369876432,
+  "endTime": 1761370817937,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -1523,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 599334,
+      "num": 599334,
+      "word": "上海机场总经理辞职",
+      "onboard_time": 1761366441,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598032,
       "num": 475398,
       "word": "染了血的红舞鞋还能跳起来吗",
@@ -1955,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501397,
+      "num": 804936,
+      "word": "天地剑心",
+      "onboard_time": 1760844439,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500773,
       "num": 241661,
       "word": "野人小孩不是个例",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1760969182,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497355,
+      "num": 255137,
+      "word": "你把最难卖的一块买走了",
+      "onboard_time": 1761364699,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 496711,
@@ -2139,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472845,
-      "num": 255137,
-      "word": "你把最难卖的一块买走了",
-      "onboard_time": 1761364699,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 468822,
       "num": 429054,
       "word": "结婚了但是不熟",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1761222863,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 457504,
-      "num": 457504,
-      "word": "上海机场总经理辞职",
-      "onboard_time": 1761366441,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456864,
@@ -2657,14 +2665,6 @@
       "onboard_time": 1760879301,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418821,
-      "num": 804936,
-      "word": "天地剑心",
-      "onboard_time": 1760844439,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 418614,
@@ -4067,6 +4067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291084,
+      "num": 268666,
+      "word": "现在就出发",
+      "onboard_time": 1761365120,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291036,
       "num": 883793,
       "word": "老年艾滋病患者数量快速增加",
@@ -4377,14 +4385,6 @@
       "onboard_time": 1760888122,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268372,
-      "num": 268666,
-      "word": "现在就出发",
-      "onboard_time": 1761365120,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 268152,
@@ -5003,6 +5003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225076,
+      "num": 148054,
+      "word": "易烊千玺拍毕业照了",
+      "onboard_time": 1761370161,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224684,
       "num": 434413,
       "word": "文班亚马爆砍40分",
@@ -5057,6 +5065,14 @@
       "onboard_time": 1761018081,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 223268,
+      "num": 147947,
+      "word": "王一栩回宫",
+      "onboard_time": 1761370400,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 222549,
@@ -5393,6 +5409,14 @@
       "onboard_time": 1760871500,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206186,
+      "num": 218525,
+      "word": "男童喝珍珠奶茶窒息身亡最新进展",
+      "onboard_time": 1761366981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206113,
@@ -5825,6 +5849,14 @@
       "onboard_time": 1760952742,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195980,
+      "num": 195980,
+      "word": "东契奇爆砍49分11篮板",
+      "onboard_time": 1761368961,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195941,
@@ -6761,14 +6793,6 @@
       "onboard_time": 1760933963,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176008,
-      "num": 218525,
-      "word": "男童喝珍珠奶茶窒息身亡最新进展",
-      "onboard_time": 1761366981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175946,
@@ -8483,6 +8507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148896,
+      "num": 148896,
+      "word": "天地剑心好看吗",
+      "onboard_time": 1761370340,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148821,
       "num": 148821,
       "word": "邓紫棋直播",
@@ -8571,6 +8603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147361,
+      "num": 119943,
+      "word": "星穹铁道反铁墓阵容",
+      "onboard_time": 1761370700,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147352,
       "num": 147352,
       "word": "葛沛豪奚安娜真的把孩子养得很好",
@@ -8609,6 +8649,14 @@
       "onboard_time": 1761122841,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146807,
+      "num": 146807,
+      "word": "陈乔恩说和艾伦因为看吃播而不合拍",
+      "onboard_time": 1761369920,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 146734,
@@ -8945,14 +8993,6 @@
       "onboard_time": 1761053001,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140740,
-      "num": 140740,
-      "word": "东契奇爆砍49分11篮板",
-      "onboard_time": 1761368961,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 140581,
@@ -11443,6 +11483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115599,
+      "num": 115599,
+      "word": "李治良写的本真的不能放出来吗",
+      "onboard_time": 1761369500,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115407,
       "num": 115407,
       "word": "A股释放两大信号",
@@ -12259,6 +12307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109644,
+      "num": 109644,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109568,
       "num": 196344,
       "word": "易烊千玺演活了科技霸总",
@@ -12692,7 +12748,7 @@
     },
     {
       "raw_hot": 105937,
-      "num": 105937,
+      "num": 117308,
       "word": "最纯爱的那年TFBOYS浴缸上唱好想你",
       "onboard_time": 1761369021,
       "rank": 35,
@@ -12713,14 +12769,6 @@
       "onboard_time": 1761290540,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105886,
-      "num": 105886,
-      "word": "李治良写的本真的不能放出来吗",
-      "onboard_time": 1761369500,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 105721,
@@ -15235,6 +15283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89795,
+      "num": 89795,
+      "word": "张晚意这形容让我无力反驳",
+      "onboard_time": 1761369741,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89782,
       "num": 223220,
       "word": "5种最常被滥用的皮肤药",
@@ -15513,14 +15569,6 @@
       "onboard_time": 1761297680,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88183,
-      "num": 88183,
-      "word": "张晚意这形容让我无力反驳",
-      "onboard_time": 1761369741,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 88149,
@@ -16017,6 +16065,14 @@
       "onboard_time": 1760796803,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85119,
+      "num": 85119,
+      "word": "沈腾当狼王能赢全靠王安宇",
+      "onboard_time": 1761370641,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 85117,
@@ -19707,6 +19763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47987,
+      "num": 89884,
+      "word": "向佐去跳团播了",
+      "onboard_time": 1761370460,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47680,
       "num": 120173,
       "word": "外卖小哥为抄近路跳进大明湖",
@@ -19905,6 +19969,14 @@
       "onboard_time": 1761151156,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44255,
+      "num": 90194,
+      "word": "库明加隔扣克林根",
+      "onboard_time": 1761370220,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 44098,
@@ -20667,6 +20739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28780,
+      "num": 95004,
+      "word": "肥娟夫妇婚礼请了十多桌网友",
+      "onboard_time": 1761369261,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 28197,
       "num": 142206,
       "word": "凯文凯利说年轻人失败得不够多",
@@ -21121,14 +21201,6 @@
       "onboard_time": 1760968882,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 19744,
-      "num": 95004,
-      "word": "肥娟夫妇婚礼请了十多桌网友",
-      "onboard_time": 1761369261,
-      "rank": 39,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 19567,
