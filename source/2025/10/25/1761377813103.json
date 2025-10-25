@@ -1,0 +1,410 @@
+{
+  "runTime": 1761377813103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616492,
+        "num": 1616492,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453534,
+        "num": 453534,
+        "word": "事业编",
+        "onboard_time": 1761370040,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4129,
+        "num": 390452,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375787,
+        "num": 375787,
+        "word": "绑架中国公民3名嫌犯被击毙",
+        "onboard_time": 1761375801,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257391,
+        "num": 257391,
+        "word": "俄军无人机绑棍子捅落乌无人机",
+        "onboard_time": 1761375321,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 467408,
+        "num": 243788,
+        "word": "天地剑心剧情毫无波澜",
+        "onboard_time": 1761375260,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312769,
+        "num": 239173,
+        "word": "四大平台男主剧对打",
+        "onboard_time": 1761374541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194304,
+        "num": 194304,
+        "word": "天地剑心热度",
+        "onboard_time": 1761371300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161058,
+        "num": 161058,
+        "word": "九尾cos",
+        "onboard_time": 1761376760,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157723,
+        "num": 157723,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658433,
+        "num": 157643,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532038,
+        "num": 157488,
+        "word": "蒋欣吃太多被经纪人看管了",
+        "onboard_time": 1761372620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447133,
+        "num": 157208,
+        "word": "易烊千玺参加补办毕业典礼",
+        "onboard_time": 1761364880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373115,
+        "num": 157151,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342923,
+        "num": 156907,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256296,
+        "num": 156702,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226056,
+        "num": 156562,
+        "word": "6岁女童与哥哥争抢手机后突发脑梗",
+        "onboard_time": 1761371540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331089,
+        "num": 156247,
+        "word": "和易烊千玺合照只需要一句师哥",
+        "onboard_time": 1761377060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129965,
+        "num": 156033,
+        "word": "上海机场总经理辞职",
+        "onboard_time": 1761366441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26900,
+        "num": 155909,
+        "word": "外国博主勇闯印度泼粪节",
+        "onboard_time": 1761377118,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207982,
+        "num": 155719,
+        "word": "三大影后居然坐一起讨论怎么养鸡",
+        "onboard_time": 1761371241,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178152,
+        "num": 155574,
+        "word": "何赛飞后悔当着梁朝伟面唱评弹",
+        "onboard_time": 1761375980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162792,
+        "num": 155318,
+        "word": "天地剑心 淮水竹亭",
+        "onboard_time": 1761376640,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14763,
+        "num": 155219,
+        "word": "张康乐像油画里走出来的王子",
+        "onboard_time": 1761377600,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159273,
+        "num": 154957,
+        "word": "天地剑心唢呐BGM",
+        "onboard_time": 1761377480,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158222,
+        "num": 154801,
+        "word": "你把最难卖的一块买走了",
+        "onboard_time": 1761364699,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34465,
+        "num": 154494,
+        "word": "王安宇同款饭搭子",
+        "onboard_time": 1761377660,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132765,
+        "num": 154454,
+        "word": "综艺史上最尬的自我介绍",
+        "onboard_time": 1761377600,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112765,
+        "num": 154234,
+        "word": "鸡排哥音乐节代排费达299元",
+        "onboard_time": 1761375201,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111861,
+        "num": 153974,
+        "word": "肖战带火的锦州不止烧烤",
+        "onboard_time": 1761375500,
+        "rank": 29,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 153919,
+        "num": 153919,
+        "word": "刘晓庆张柏芝不争不抢睡哪都行",
+        "onboard_time": 1761377241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139278,
+        "num": 139278,
+        "word": "黄晓明成功让观众忘记了他是谁",
+        "onboard_time": 1761377118,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133959,
+        "num": 133959,
+        "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+        "onboard_time": 1761377781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130451,
+        "num": 130451,
+        "word": "胡先煦开机照",
+        "onboard_time": 1761375500,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128331,
+        "num": 128331,
+        "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+        "onboard_time": 1761371540,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127877,
+        "num": 127877,
+        "word": "金店回应125克金手链剪开倒出沙子",
+        "onboard_time": 1761363681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121394,
+        "num": 121394,
+        "word": "天地剑心",
+        "onboard_time": 1761369021,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83286,
+        "num": 113867,
+        "word": "NBA总裁就非法赌博丑闻道歉",
+        "onboard_time": 1761377241,
+        "rank": 37,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 83749,
+        "num": 113862,
+        "word": "惊天魔盗团5分钟盗5亿钻石",
+        "onboard_time": 1761376940,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113858,
+        "num": 113858,
+        "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
+        "onboard_time": 1761376581,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125193,
+        "num": 113679,
+        "word": "CFO战胜FLY",
+        "onboard_time": 1761377480,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120157,
+        "num": 112833,
+        "word": "泰国理财神童离世",
+        "onboard_time": 1761363200,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110305,
+        "num": 110305,
+        "word": "旅游6年赚2600万",
+        "onboard_time": 1761365601,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62162,
+        "num": 107363,
+        "word": "台湾古建筑群正房大门朝向大陆",
+        "onboard_time": 1761375620,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106579,
+        "num": 106579,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11371,
+        "num": 98239,
+        "word": "蛋烘糕主理人走红后营业至凌晨",
+        "onboard_time": 1761376401,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95329,
+        "num": 95329,
+        "word": "王者荣耀本命英雄来电",
+        "onboard_time": 1761373400,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94598,
+        "num": 94598,
+        "word": "曝iPhone18标准版配12GB内存",
+        "onboard_time": 1761377301,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92006,
+        "num": 92006,
+        "word": "彭小苒这7秒浓颜的冲击力",
+        "onboard_time": 1761375980,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79843,
+        "num": 89235,
+        "word": "大货车故意阻挡消防车执行任务",
+        "onboard_time": 1761377001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761376989005,
+  "endTime": 1761377813103,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 532889,
-      "num": 155762,
+      "num": 157488,
       "word": "蒋欣吃太多被经纪人看管了",
       "onboard_time": 1761372620,
       "rank": 20,
@@ -169,6 +169,14 @@
       "onboard_time": 1761312441,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 467408,
+      "num": 243788,
+      "word": "天地剑心剧情毫无波澜",
+      "onboard_time": 1761375260,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 462327,
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375787,
+      "num": 375787,
+      "word": "绑架中国公民3名嫌犯被击毙",
+      "onboard_time": 1761375801,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 365259,
       "num": 153128,
       "word": "男子嫖宿遭拒持刀割划女子颈部致死",
@@ -243,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331089,
+      "num": 156247,
+      "word": "和易烊千玺合照只需要一句师哥",
+      "onboard_time": 1761377060,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328818,
       "num": 214468,
       "word": "你缺的不是衣服而是打扮思路",
       "onboard_time": 1761359239,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 312769,
+      "num": 239173,
+      "word": "四大平台男主剧对打",
+      "onboard_time": 1761374541,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 306891,
@@ -267,14 +299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 304314,
-      "num": 156709,
-      "word": "天地剑心剧情毫无波澜",
-      "onboard_time": 1761375260,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301763,
       "num": 301763,
       "word": "TES经理郭皓被曝离职",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 294508,
-      "num": 184666,
+      "num": 194304,
       "word": "天地剑心热度",
       "onboard_time": 1761371300,
       "rank": 7,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 191016,
-      "num": 153651,
+      "num": 155574,
       "word": "何赛飞后悔当着梁朝伟面唱评弹",
       "onboard_time": 1761375980,
       "rank": 20,
@@ -496,14 +520,6 @@
       "word": "成毅打戏",
       "onboard_time": 1761373400,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 181285,
-      "num": 156240,
-      "word": "四大平台男主剧对打",
-      "onboard_time": 1761374541,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162792,
+      "num": 155318,
+      "word": "天地剑心 淮水竹亭",
+      "onboard_time": 1761376640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162388,
       "num": 156911,
       "word": "白鹿曾舜晞售后自拍照",
@@ -595,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161058,
+      "num": 161058,
+      "word": "九尾cos",
+      "onboard_time": 1761376760,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160883,
       "num": 152818,
       "word": "西藏文旅真的把奔跑吧许来了",
       "onboard_time": 1761373821,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159273,
+      "num": 154957,
+      "word": "天地剑心唢呐BGM",
+      "onboard_time": 1761377480,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 156138,
@@ -617,6 +657,14 @@
       "onboard_time": 1761375500,
       "rank": 8,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 153919,
+      "num": 153919,
+      "word": "刘晓庆张柏芝不争不抢睡哪都行",
+      "onboard_time": 1761377241,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 153277,
@@ -707,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144570,
-      "num": 153708,
-      "word": "绑架中国公民3名嫌犯被击毙",
-      "onboard_time": 1761375801,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144353,
       "num": 63167,
       "word": "何赛飞向张柏芝道歉",
@@ -771,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139278,
+      "num": 139278,
+      "word": "黄晓明成功让观众忘记了他是谁",
+      "onboard_time": 1761377118,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139125,
       "num": 139125,
       "word": "邵子恒 干男团的",
@@ -800,6 +848,22 @@
       "word": "马吟吟没有戏拍",
       "onboard_time": 1761362420,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133959,
+      "num": 133959,
+      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+      "onboard_time": 1761377781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132765,
+      "num": 154454,
+      "word": "综艺史上最尬的自我介绍",
+      "onboard_time": 1761377600,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -865,6 +929,14 @@
       "onboard_time": 1761304760,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125193,
+      "num": 113679,
+      "word": "CFO战胜FLY",
+      "onboard_time": 1761377480,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 124800,
@@ -987,11 +1059,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113858,
+      "num": 113858,
+      "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
+      "onboard_time": 1761376581,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113774,
       "num": 113774,
       "word": "600万博主辛吉飞拍视频突发癫痫倒地",
       "onboard_time": 1761320842,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112765,
+      "num": 154234,
+      "word": "鸡排哥音乐节代排费达299元",
+      "onboard_time": 1761375201,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1083,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108012,
-      "num": 127027,
-      "word": "天地剑心 淮水竹亭",
-      "onboard_time": 1761376640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107248,
       "num": 107248,
       "word": "NBA",
@@ -1161,14 +1241,6 @@
       "onboard_time": 1761363740,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101981,
-      "num": 101981,
-      "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
-      "onboard_time": 1761376581,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 99754,
@@ -1251,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97688,
-      "num": 122936,
-      "word": "鸡排哥音乐节代排费达299元",
-      "onboard_time": 1761375201,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97089,
       "num": 97089,
       "word": "邵兵罕见露面力挺儿子邵子恒",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1761319103,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94598,
+      "num": 94598,
+      "word": "曝iPhone18标准版配12GB内存",
+      "onboard_time": 1761377301,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 94210,
@@ -1337,14 +1409,6 @@
       "onboard_time": 1761308061,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90939,
-      "num": 90939,
-      "word": "九尾cos",
-      "onboard_time": 1761376760,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 90529,
@@ -1491,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83749,
+      "num": 113862,
+      "word": "惊天魔盗团5分钟盗5亿钻石",
+      "onboard_time": 1761376940,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83357,
       "num": 83357,
       "word": "Faker被问是否三连冠",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1761372020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83286,
+      "num": 113867,
+      "word": "NBA总裁就非法赌博丑闻道歉",
+      "onboard_time": 1761377241,
+      "rank": 37,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 82959,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1761358520,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 79843,
+      "num": 89235,
+      "word": "大货车故意阻挡消防车执行任务",
+      "onboard_time": 1761377001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79679,
@@ -1979,20 +2067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36324,
-      "num": 91296,
-      "word": "惊天魔盗团5分钟盗5亿钻石",
-      "onboard_time": 1761376940,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 36079,
       "num": 218012,
       "word": "日本正加快设立国家情报局",
       "onboard_time": 1761366981,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34465,
+      "num": 154494,
+      "word": "王安宇同款饭搭子",
+      "onboard_time": 1761377660,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 34362,
@@ -2017,6 +2105,14 @@
       "onboard_time": 1761369261,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 26900,
+      "num": 155909,
+      "word": "外国博主勇闯印度泼粪节",
+      "onboard_time": 1761377118,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26531,
@@ -2115,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14763,
+      "num": 155219,
+      "word": "张康乐像油画里走出来的王子",
+      "onboard_time": 1761377600,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13240,
       "num": 18608,
       "word": "第五人格",
@@ -2123,8 +2227,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8163,
-      "num": 91034,
+      "raw_hot": 11371,
+      "num": 98239,
       "word": "蛋烘糕主理人走红后营业至凌晨",
       "onboard_time": 1761376401,
       "rank": 39,
@@ -2134,6 +2238,9 @@
   "hotgov_list": [
     {
       "word": "#奋力开创中国式现代化建设新局面#"
+    },
+    {
+      "word": "#读懂这份属于中国的优势#"
     }
   ]
 }
