@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761362296700,
+  "endTime": 1761364196274,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1527003,
-      "num": 170248,
+      "num": 183008,
       "word": "杨受成为陈伟霆儿子准备几十万足金",
       "onboard_time": 1761355821,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1108330,
-      "num": 169393,
+      "num": 183151,
       "word": "杜海涛毕业全英文演讲",
       "onboard_time": 1761359358,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 591197,
-      "num": 168599,
+      "num": 181479,
       "word": "男子当街直播猥亵称在搞抽象",
       "onboard_time": 1761359721,
       "rank": 12,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 546078,
-      "num": 166360,
+      "num": 180467,
       "word": "阿Sa祝福陈伟霆",
       "onboard_time": 1761359839,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543023,
+      "num": 182814,
+      "word": "泰国理财神童离世",
+      "onboard_time": 1761363200,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 533679,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 328818,
-      "num": 167944,
+      "num": 179639,
       "word": "你缺的不是衣服而是打扮思路",
       "onboard_time": 1761359239,
       "rank": 13,
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 306891,
-      "num": 152548,
+      "num": 177551,
       "word": "女子耳骨增生自己用钳子剪掉",
       "onboard_time": 1761353960,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305153,
+      "num": 181037,
+      "word": "黄金白银再跌",
+      "onboard_time": 1761361279,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 286543,
@@ -243,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228379,
-      "num": 164783,
-      "word": "黄金白银再跌",
-      "onboard_time": 1761361279,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 210510,
+      "num": 210510,
+      "word": "TES经理郭皓被曝离职",
+      "onboard_time": 1761361580,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 209521,
@@ -283,12 +299,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191321,
+      "num": 176722,
+      "word": "王晶曝王祖贤离开娱乐圈原因",
+      "onboard_time": 1761363023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187348,
       "num": 153044,
       "word": "女子回应买猪食槽收纳孩子玩具",
       "onboard_time": 1761348318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176562,
+      "num": 176562,
+      "word": "网传迪丽热巴拒了将门毒后",
+      "onboard_time": 1761362301,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176255,
+      "num": 176255,
+      "word": "彭小苒 突然多了好多孩子",
+      "onboard_time": 1761362059,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175284,
+      "num": 175284,
+      "word": "刘晓庆 男孩有了女友就不属于妈了",
+      "onboard_time": 1761362181,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174307,
@@ -313,6 +361,14 @@
       "onboard_time": 1761323599,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166439,
+      "num": 166439,
+      "word": "金店回应125克金手链剪开倒出沙子",
+      "onboard_time": 1761363681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166107,
@@ -451,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135731,
-      "num": 118425,
-      "word": "TES经理郭皓被曝离职",
-      "onboard_time": 1761361580,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129979,
       "num": 124433,
       "word": "张杰他不爱我",
@@ -507,6 +555,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122417,
+      "num": 122417,
+      "word": "马吟吟没有戏拍",
+      "onboard_time": 1761362420,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121958,
+      "num": 121958,
+      "word": "关晓彤这几声从哪发出来的",
+      "onboard_time": 1761363560,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120530,
+      "num": 120530,
+      "word": "宠物的时髦感",
+      "onboard_time": 1761362960,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119677,
       "num": 119677,
       "word": "整个宿舍都是歌姬是什么体验",
@@ -548,7 +620,7 @@
     },
     {
       "raw_hot": 110914,
-      "num": 110914,
+      "num": 124043,
       "word": "今天一起致敬最可爱的人",
       "onboard_time": 1761322942,
       "rank": 29,
@@ -569,6 +641,22 @@
       "onboard_time": 1761357020,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109551,
+      "num": 125909,
+      "word": "澎湖海战",
+      "onboard_time": 1761362960,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 106873,
+      "num": 106873,
+      "word": "张小斐唱杨幂爱的供养",
+      "onboard_time": 1761361761,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106752,
@@ -611,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100563,
-      "num": 100563,
-      "word": "彭小苒 突然多了好多孩子",
-      "onboard_time": 1761362059,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 102446,
+      "num": 102446,
+      "word": "你意想不到的两个人在一起了",
+      "onboard_time": 1761363740,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 99486,
@@ -675,12 +763,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92091,
-      "num": 92091,
-      "word": "张小斐唱杨幂爱的供养",
-      "onboard_time": 1761361761,
+      "raw_hot": 89671,
+      "num": 148688,
+      "word": "姚明现身火箭主场揭幕战",
+      "onboard_time": 1761361941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89420,
+      "num": 89420,
+      "word": "谁没磕过一对红绿cp呢",
+      "onboard_time": 1761363861,
       "rank": 40,
-      "category": "作品衍生"
+      "category": "幽默"
     },
     {
       "raw_hot": 89392,
@@ -747,6 +843,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81589,
+      "num": 81589,
+      "word": "王者玩家能有多省",
+      "onboard_time": 1761363681,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 81115,
+      "num": 81115,
+      "word": "宁静 偶像哪里有什么女朋友",
+      "onboard_time": 1761362181,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81033,
       "num": 81033,
       "word": "国考报名人数超350万创新高",
@@ -761,14 +873,6 @@
       "onboard_time": 1761358520,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 80148,
-      "num": 80148,
-      "word": "刘晓庆 男孩有了女友就不属于妈了",
-      "onboard_time": 1761362181,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 80043,
@@ -793,6 +897,14 @@
       "onboard_time": 1761353479,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78268,
+      "num": 78268,
+      "word": "公司不批生育奖励假女子维权获补偿",
+      "onboard_time": 1761359239,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78063,
@@ -827,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76836,
-      "num": 76836,
-      "word": "公司不批生育奖励假女子维权获补偿",
-      "onboard_time": 1761359239,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76220,
       "num": 76220,
       "word": "爱做家务的小猫",
@@ -843,12 +947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75276,
+      "num": 75276,
+      "word": "樊振东昔日军训帅照",
+      "onboard_time": 1761364160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75162,
       "num": 75162,
       "word": "全固态电池大爆发",
       "onboard_time": 1761348979,
       "rank": 25,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 75068,
+      "num": 75068,
+      "word": "陈赫你别累着但也别闲着",
+      "onboard_time": 1761364160,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 74223,
@@ -865,6 +985,14 @@
       "onboard_time": 1761323120,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 75702,
+      "word": "鸡排哥鸡排预处理现场曝光",
+      "onboard_time": 1761363261,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72948,
@@ -913,6 +1041,14 @@
       "onboard_time": 1761356779,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68129,
+      "num": 183332,
+      "word": "中美新一轮经贸磋商开始",
+      "onboard_time": 1761363079,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68050,
@@ -1027,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55299,
-      "num": 148688,
-      "word": "姚明现身火箭主场揭幕战",
-      "onboard_time": 1761361941,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51544,
       "num": 58298,
       "word": "再见爱人史上最听话男嘉宾",
@@ -1068,7 +1196,7 @@
     },
     {
       "raw_hot": 42640,
-      "num": 148420,
+      "num": 178235,
       "word": "AI时代的国际教育选择",
       "onboard_time": 1761361461,
       "rank": 23,
@@ -1076,7 +1204,7 @@
     },
     {
       "raw_hot": 40522,
-      "num": 149624,
+      "num": 178684,
       "word": "马思纯在京东讲健康养生",
       "onboard_time": 1761361401,
       "rank": 20,

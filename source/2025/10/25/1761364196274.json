@@ -1,0 +1,410 @@
+{
+  "runTime": 1761364196274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3605028,
+        "num": 3605028,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311839,
+        "num": 311839,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34275,
+        "num": 277253,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273508,
+        "num": 273508,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210510,
+        "num": 210510,
+        "word": "TES经理郭皓被曝离职",
+        "onboard_time": 1761361580,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397396,
+        "num": 206630,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301274,
+        "num": 206190,
+        "word": "水龙吟花了8个月才找到敖子逸",
+        "onboard_time": 1761360200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202044,
+        "num": 202044,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183977,
+        "num": 183977,
+        "word": "一路繁花居然敢把这2分21秒剪进去",
+        "onboard_time": 1761359959,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68129,
+        "num": 183332,
+        "word": "中美新一轮经贸磋商开始",
+        "onboard_time": 1761363079,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 891987,
+        "num": 183151,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848163,
+        "num": 183008,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "台湾光复全岛狂欢3天",
+        "onboard_time": 1761353421,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543023,
+        "num": 182814,
+        "word": "泰国理财神童离世",
+        "onboard_time": 1761363200,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 444827,
+        "num": 181479,
+        "word": "男子当街直播猥亵称在搞抽象",
+        "onboard_time": 1761359721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305153,
+        "num": 181037,
+        "word": "黄金白银再跌",
+        "onboard_time": 1761361279,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 479134,
+        "num": 180467,
+        "word": "阿Sa祝福陈伟霆",
+        "onboard_time": 1761359839,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293971,
+        "num": 179639,
+        "word": "你缺的不是衣服而是打扮思路",
+        "onboard_time": 1761359239,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31622,
+        "num": 178684,
+        "word": "马思纯在京东讲健康养生",
+        "onboard_time": 1761361401,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26796,
+        "num": 178235,
+        "word": "AI时代的国际教育选择",
+        "onboard_time": 1761361461,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 177551,
+        "word": "女子耳骨增生自己用钳子剪掉",
+        "onboard_time": 1761353960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191321,
+        "num": 176722,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176562,
+        "num": 176562,
+        "word": "网传迪丽热巴拒了将门毒后",
+        "onboard_time": 1761362301,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176255,
+        "num": 176255,
+        "word": "彭小苒 突然多了好多孩子",
+        "onboard_time": 1761362059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175284,
+        "num": 175284,
+        "word": "刘晓庆 男孩有了女友就不属于妈了",
+        "onboard_time": 1761362181,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166439,
+        "num": 166439,
+        "word": "金店回应125克金手链剪开倒出沙子",
+        "onboard_time": 1761363681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166416,
+        "num": 166416,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "向太说郭碧婷养娘家",
+        "onboard_time": 1761348257,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109551,
+        "num": 125909,
+        "word": "澎湖海战",
+        "onboard_time": 1761362960,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104587,
+        "num": 124043,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122417,
+        "num": 122417,
+        "word": "马吟吟没有戏拍",
+        "onboard_time": 1761362420,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89671,
+        "num": 122121,
+        "word": "姚明现身火箭主场揭幕战",
+        "onboard_time": 1761361941,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121958,
+        "num": 121958,
+        "word": "关晓彤这几声从哪发出来的",
+        "onboard_time": 1761363560,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120530,
+        "num": 120530,
+        "word": "宠物的时髦感",
+        "onboard_time": 1761362960,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117815,
+        "num": 117815,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109583,
+        "num": 109583,
+        "word": "男子被野蜂蜇死母亲因伤痛离世",
+        "onboard_time": 1761355879,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106873,
+        "num": 106873,
+        "word": "张小斐唱杨幂爱的供养",
+        "onboard_time": 1761361761,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102446,
+        "num": 102446,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1761363740,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "10月25日对中国人的意义",
+        "onboard_time": 1761352339,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91598,
+        "num": 91598,
+        "word": "胜利属于每个中国人",
+        "onboard_time": 1761323000,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89420,
+        "num": 89420,
+        "word": "谁没磕过一对红绿cp呢",
+        "onboard_time": 1761363861,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81589,
+        "num": 81589,
+        "word": "王者玩家能有多省",
+        "onboard_time": 1761363681,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81115,
+        "num": 81115,
+        "word": "宁静 偶像哪里有什么女朋友",
+        "onboard_time": 1761362181,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79737,
+        "num": 79737,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79095,
+        "num": 79095,
+        "word": "多平台已取消仅退款服务",
+        "onboard_time": 1761348077,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78268,
+        "num": 78268,
+        "word": "公司不批生育奖励假女子维权获补偿",
+        "onboard_time": 1761359239,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73294,
+        "num": 75702,
+        "word": "鸡排哥鸡排预处理现场曝光",
+        "onboard_time": 1761363261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75276,
+        "num": 75276,
+        "word": "樊振东昔日军训帅照",
+        "onboard_time": 1761364160,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75088,
+        "num": 75088,
+        "word": "朱志鑫慌乱之中握紧了苏新皓的手",
+        "onboard_time": 1761362000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75068,
+        "num": 75068,
+        "word": "陈赫你别累着但也别闲着",
+        "onboard_time": 1761364160,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}

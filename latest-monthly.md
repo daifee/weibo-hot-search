@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:18:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:49:56
 </p>
 </blockquote>
 <p>
@@ -5793,6 +5793,12 @@ BLG战胜VKS（热度：543735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%90%86%E8%B4%A2%E7%A5%9E%E7%AB%A5%E7%A6%BB%E4%B8%96%23" target="weibo">
+泰国理财神童离世（热度：543023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E6%A0%A1%E6%9C%8D%E6%BD%AE%E5%88%B0%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 成都七中校服潮到巴黎时装周（热度：542300）
 </a>
@@ -6005,12 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A2%9C%E6%AD%A3%E5%9B%BD%E5%8E%BB%E4%B8%96%23" target="weibo">
 演员颜正国去世（热度：532329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E7%BB%83%E8%83%8C6%E5%88%86%E9%92%9F%E5%B0%B1%E6%98%AF%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E8%BF%90%E5%8A%A8%23" target="weibo">
-每天练背6分钟就是回报率最高的运动（热度：532263）
 </a>
 </li>
 
