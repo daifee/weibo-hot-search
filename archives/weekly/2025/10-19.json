@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761381816259,
+  "endTime": 1761384236798,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -673,6 +673,14 @@
       "onboard_time": 1760917639,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 909933,
+      "num": 241982,
+      "word": "陈伟霆说儿子长大签英皇",
+      "onboard_time": 1761381860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 902302,
@@ -1920,6 +1928,14 @@
       "word": "西安城墙已变成巨型生态缸了",
       "onboard_time": 1760848699,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519101,
+      "num": 519101,
+      "word": "景区观光小火车疑坠海致多人伤亡",
+      "onboard_time": 1761379821,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3283,6 +3299,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 356881,
+      "num": 230899,
+      "word": "郑智化怒斥深圳机场",
+      "onboard_time": 1761382941,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356756,
       "num": 237524,
       "word": "李沁 顶级P人",
@@ -3435,6 +3459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341324,
+      "num": 234424,
+      "word": "张晚意快把李沁掰折了",
+      "onboard_time": 1761379760,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340992,
       "num": 195863,
       "word": "公司给入职满10年员工发100克金饰",
@@ -3497,14 +3529,6 @@
       "onboard_time": 1761218122,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 338951,
-      "num": 234424,
-      "word": "张晚意快把李沁掰折了",
-      "onboard_time": 1761379760,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 338626,
@@ -3721,6 +3745,14 @@
       "onboard_time": 1761056361,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320419,
+      "num": 224120,
+      "word": "瘦10斤比我瘦20斤都明显",
+      "onboard_time": 1761378501,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 320217,
@@ -5187,6 +5219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223993,
+      "num": 216489,
+      "word": "郑智化连滚带爬进飞机",
+      "onboard_time": 1761382822,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223762,
       "num": 223762,
       "word": "花西子下架陷苏丹红争议底霜",
@@ -5481,14 +5521,6 @@
       "onboard_time": 1760870962,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 208871,
-      "num": 208871,
-      "word": "景区观光小火车疑坠海致多人伤亡",
-      "onboard_time": 1761379821,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208420,
@@ -6387,20 +6419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189914,
+      "num": 189914,
+      "word": "从不午睡vs天天午睡",
+      "onboard_time": 1761379280,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 189660,
       "num": 136668,
       "word": "毕加索名画离奇失踪",
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189200,
-      "num": 189200,
-      "word": "瘦10斤比我瘦20斤都明显",
-      "onboard_time": 1761378501,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 189015,
@@ -6881,6 +6913,14 @@
       "onboard_time": 1761183379,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179303,
+      "num": 179303,
+      "word": "内娱求跪第一人",
+      "onboard_time": 1761384022,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 179160,
@@ -7859,6 +7899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162504,
+      "num": 162504,
+      "word": "阿娇被问何超莲窦骁婚变传闻",
+      "onboard_time": 1761381200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162429,
       "num": 162429,
       "word": "VOGUE散场好像爸妈接小孩放学",
@@ -8345,14 +8393,6 @@
       "onboard_time": 1761277402,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154629,
-      "num": 142486,
-      "word": "从不午睡vs天天午睡",
-      "onboard_time": 1761379280,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 154602,
@@ -8995,6 +9035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145809,
+      "num": 145809,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145663,
       "num": 141874,
       "word": "男子被野蜂蜇死母亲因伤痛离世",
@@ -9121,14 +9169,6 @@
       "onboard_time": 1761193701,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144282,
-      "num": 144282,
-      "word": "阿娇被问何超莲窦骁婚变传闻",
-      "onboard_time": 1761381200,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 144163,
@@ -9481,6 +9521,14 @@
       "onboard_time": 1761232462,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138350,
+      "num": 138350,
+      "word": "张柏芝黎姿33年的友情",
+      "onboard_time": 1761382040,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138313,
@@ -10195,6 +10243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130098,
+      "num": 130098,
+      "word": "泰总理缺席APEC领导人非正式会议",
+      "onboard_time": 1761382461,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130071,
       "num": 130071,
       "word": "蔡天龙两连扑",
@@ -10337,14 +10393,6 @@
       "onboard_time": 1761355879,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128490,
-      "num": 128490,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128428,
@@ -11179,6 +11227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121920,
+      "num": 121920,
+      "word": "龚俊孟子义cha鸟儿摇",
+      "onboard_time": 1761382822,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121909,
       "num": 224147,
       "word": "G2战胜FLY",
@@ -11955,6 +12011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115134,
+      "num": 115134,
+      "word": "多方回应观光火车疑坠海多人伤亡",
+      "onboard_time": 1761382641,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115065,
       "num": 115065,
       "word": "小鱼海棠婚礼嘉宾",
@@ -12225,6 +12289,14 @@
       "onboard_time": 1761032000,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112893,
+      "num": 112893,
+      "word": "秋冬减肥最快方式",
+      "onboard_time": 1761383241,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112857,
@@ -12659,6 +12731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110462,
+      "num": 110462,
+      "word": "TES和BLG决胜局",
+      "onboard_time": 1761384022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110458,
       "num": 110458,
       "word": "沈腾王安宇情侣装",
@@ -12793,6 +12873,14 @@
       "onboard_time": 1760880683,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109658,
+      "num": 133753,
+      "word": "低估入青云的闭环伏笔了",
+      "onboard_time": 1761382822,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 109568,
@@ -14147,6 +14235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100644,
+      "num": 100644,
+      "word": "BLG打TES先下一城",
+      "onboard_time": 1761382941,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100482,
       "num": 100482,
       "word": "苏醒居然集齐了快男和偶练人脉",
@@ -14443,6 +14539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98558,
+      "num": 98558,
+      "word": "小猫舔毛时会帮你舔任何东西",
+      "onboard_time": 1761383840,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98511,
       "num": 98511,
       "word": "杜兰特没暂停喊暂停",
@@ -14497,6 +14601,14 @@
       "onboard_time": 1761040761,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98131,
+      "num": 98131,
+      "word": "要是高三就能考公就好了",
+      "onboard_time": 1761381261,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 98127,
@@ -14801,6 +14913,14 @@
       "onboard_time": 1761216142,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 96003,
+      "num": 96003,
+      "word": "昀牵孟绕",
+      "onboard_time": 1761384140,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 95990,
@@ -15355,6 +15475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93223,
+      "num": 93223,
+      "word": "国内金饰克价4天累跌72元",
+      "onboard_time": 1761383840,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93121,
       "num": 93121,
       "word": "翁帆用小白板写字帮杨振宁交流",
@@ -15697,6 +15825,14 @@
       "onboard_time": 1760925499,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90751,
+      "num": 92483,
+      "word": "张清颖世锦赛平衡木金牌",
+      "onboard_time": 1761381800,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90688,
@@ -16867,6 +17003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84306,
+      "num": 92173,
+      "word": "医生总结不该忍的7种痛",
+      "onboard_time": 1761383421,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84302,
       "num": 84302,
       "word": "夜宴",
@@ -17137,14 +17281,6 @@
       "onboard_time": 1761128361,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82627,
-      "num": 81730,
-      "word": "要是高三就能考公就好了",
-      "onboard_time": 1761381261,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 82570,
@@ -19411,6 +19547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63591,
+      "num": 98183,
+      "word": "官方回应一小区单元楼一楼发生沉降",
+      "onboard_time": 1761382822,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63398,
       "num": 654579,
       "word": "交警回应SUV高速上开远光逆行",
@@ -19657,6 +19801,14 @@
       "onboard_time": 1761276862,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61054,
+      "num": 104549,
+      "word": "泰民需着黑色衣物90天悼念王太后",
+      "onboard_time": 1761383121,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61008,
@@ -20435,6 +20587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49124,
+      "num": 214130,
+      "word": "泰国王太后生平",
+      "onboard_time": 1761383001,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49037,
       "num": 208056,
       "word": "杨瀚森训练时已不需要翻译了",
@@ -20889,6 +21049,14 @@
       "onboard_time": 1761290840,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41598,
+      "num": 215109,
+      "word": "于适高智感穿搭绝了",
+      "onboard_time": 1761383061,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41573,
@@ -21481,6 +21649,14 @@
       "onboard_time": 1761199701,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29344,
+      "num": 178054,
+      "word": "13岁女孩被篮球砸头确诊癔症2年",
+      "onboard_time": 1761384022,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29134,
