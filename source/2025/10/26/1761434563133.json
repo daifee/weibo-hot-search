@@ -1,0 +1,410 @@
+{
+  "runTime": 1761434563133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 323050,
+        "num": 760090,
+        "word": "光复二字遍及台湾大街小巷",
+        "onboard_time": 1761427274,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161976,
+        "num": 161976,
+        "word": "Bin",
+        "onboard_time": 1761408681,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28475,
+        "num": 131491,
+        "word": "未来五年的重点任务",
+        "onboard_time": 1761400643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128967,
+        "num": 128967,
+        "word": "江西一公安局副局长为黑恶势力站台",
+        "onboard_time": 1761395781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111893,
+        "num": 111893,
+        "word": "专家怀疑太阳系星际访客系航天器",
+        "onboard_time": 1761395302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 109526,
+        "word": "成毅 扛剧",
+        "onboard_time": 1761402323,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98104,
+        "num": 98104,
+        "word": "俄罗斯发动大规模夜袭",
+        "onboard_time": 1761433396,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82403,
+        "num": 82403,
+        "word": "太阳系星际访客4天后抵达近日点",
+        "onboard_time": 1761398241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68522,
+        "num": 68522,
+        "word": "Bin采访差点哭了",
+        "onboard_time": 1761406641,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48138,
+        "num": 68508,
+        "word": "台湾光复当天的台湾街头",
+        "onboard_time": 1761398241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301973,
+        "num": 68388,
+        "word": "在游泳馆跳水身亡男子系体育老师",
+        "onboard_time": 1761404482,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234466,
+        "num": 68303,
+        "word": "男子买马一觉醒来1匹变2匹",
+        "onboard_time": 1761403642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207924,
+        "num": 68222,
+        "word": "张檬回应带儿子去香港打疫苗",
+        "onboard_time": 1761434297,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 68219,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171608,
+        "num": 68111,
+        "word": "以为捡了条小奶狗不想越长越不对劲",
+        "onboard_time": 1761434116,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148596,
+        "num": 67996,
+        "word": "刘宇宁才知道高定可以拿回家",
+        "onboard_time": 1761399862,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147967,
+        "num": 67969,
+        "word": "奥黛丽赫本之子在苏州胜诉",
+        "onboard_time": 1761397041,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 116585,
+        "num": 67847,
+        "word": "黄晓明回复赵丽颖",
+        "onboard_time": 1761400162,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105196,
+        "num": 67809,
+        "word": "女子参加荒野求生14天后瘦成闪电",
+        "onboard_time": 1761433816,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85689,
+        "num": 67730,
+        "word": "男子杀母后网购裹尸袋并盗母亲财物",
+        "onboard_time": 1761396082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97772,
+        "num": 67632,
+        "word": "脑梗来临前身体有3个征兆",
+        "onboard_time": 1761404122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74509,
+        "num": 67604,
+        "word": "成毅直播假吃冰棍",
+        "onboard_time": 1761433816,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 67492,
+        "word": "闫妮和任素汐吵架根本不像演的",
+        "onboard_time": 1761397281,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67462,
+        "num": 67462,
+        "word": "印度村民称泼粪节感觉很好",
+        "onboard_time": 1761403642,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45938,
+        "num": 67101,
+        "word": "杨紫玉兰花开君再来将官宣",
+        "onboard_time": 1761433875,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43084,
+        "num": 66515,
+        "word": "天地剑心",
+        "onboard_time": 1761394703,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42379,
+        "num": 65842,
+        "word": "hi6实时收视第一",
+        "onboard_time": 1761433757,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39493,
+        "num": 64513,
+        "word": "王安宇一年归来仍是河南老乡",
+        "onboard_time": 1761431895,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34557,
+        "num": 63832,
+        "word": "至少今天很快乐演唱会",
+        "onboard_time": 1761393021,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32333,
+        "num": 62827,
+        "word": "少年的你发了新剧照",
+        "onboard_time": 1761399082,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62705,
+        "num": 62705,
+        "word": "他接纳了自己有个小妹妹",
+        "onboard_time": 1761434418,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59127,
+        "num": 59127,
+        "word": "放在整个婚礼圈也是相当炸裂的",
+        "onboard_time": 1761432675,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56675,
+        "num": 56675,
+        "word": "李宇春哭了",
+        "onboard_time": 1761406821,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54422,
+        "num": 54422,
+        "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
+        "onboard_time": 1761434418,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50347,
+        "num": 50347,
+        "word": "印度村庄泼粪节受质疑",
+        "onboard_time": 1761404242,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49809,
+        "num": 49809,
+        "word": "刘宇宁剪短发了",
+        "onboard_time": 1761394341,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46311,
+        "num": 46311,
+        "word": "长期戴眼镜导致的面部变化",
+        "onboard_time": 1761391641,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44914,
+        "num": 44914,
+        "word": "吉林珲春5.5级地震",
+        "onboard_time": 1761395425,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 43735,
+        "num": 43735,
+        "word": "警方回应卖小麦收款28万却遭冻结",
+        "onboard_time": 1761399502,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43345,
+        "num": 43345,
+        "word": "龚俊李沁牵手这段好嗑",
+        "onboard_time": 1761399743,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43143,
+        "num": 43143,
+        "word": "和任何人相处都不紧张不尴尬的方法",
+        "onboard_time": 1761434357,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42295,
+        "num": 42295,
+        "word": "订婚花60万共同生活4天后遭悔婚",
+        "onboard_time": 1761393622,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40596,
+        "num": 40596,
+        "word": "科考人员发现1400年前人类活动遗迹",
+        "onboard_time": 1761434418,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38981,
+        "num": 38981,
+        "word": "深圳机场会同航空公司启动核查",
+        "onboard_time": 1761391042,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33599,
+        "num": 38978,
+        "word": "这种凳子请走出大学",
+        "onboard_time": 1761395781,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33507,
+        "num": 38921,
+        "word": "深圳机场将完善轮椅旅客服务保障",
+        "onboard_time": 1761409161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31381,
+        "num": 38903,
+        "word": "新一波冷空气续上了冷冷冷",
+        "onboard_time": 1761399680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26381,
+        "num": 38855,
+        "word": "花少制片人京东直播回应花少8阵容",
+        "onboard_time": 1761393862,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25980,
+        "num": 38826,
+        "word": "四个动作站着就能瘦",
+        "onboard_time": 1761414496,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30519,
+        "num": 38793,
+        "word": "G2抽到TES后全员大笑",
+        "onboard_time": 1761403942,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}
