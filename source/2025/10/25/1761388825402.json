@@ -1,0 +1,410 @@
+{
+  "runTime": 1761388825402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3574252,
+        "num": 3574252,
+        "word": "Bin 16强退役",
+        "onboard_time": 1761386721,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3175253,
+        "num": 3175253,
+        "word": "TES战胜BLG",
+        "onboard_time": 1761386062,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54758,
+        "num": 1562957,
+        "word": "志愿军出国作战75周年",
+        "onboard_time": 1761386841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1021843,
+        "num": 1021843,
+        "word": "BLG淘汰",
+        "onboard_time": 1761386902,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 729956,
+        "num": 729956,
+        "word": "泰国宣布禁娱30天",
+        "onboard_time": 1761378380,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 657842,
+        "num": 657842,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408898,
+        "num": 408898,
+        "word": "郑智化怒斥深圳机场",
+        "onboard_time": 1761382941,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316494,
+        "num": 316494,
+        "word": "景区观光小火车疑坠海致多人伤亡",
+        "onboard_time": 1761379821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238487,
+        "num": 238487,
+        "word": "TES对战BLG",
+        "onboard_time": 1761378501,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203166,
+        "num": 203166,
+        "word": "TES晋级八强",
+        "onboard_time": 1761387021,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 581077,
+        "num": 203158,
+        "word": "陈伟霆说儿子长大签英皇",
+        "onboard_time": 1761381860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435692,
+        "num": 202708,
+        "word": "马頔想收版权费了",
+        "onboard_time": 1761386241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340193,
+        "num": 202247,
+        "word": "和易烊千玺合照只需要一句师哥",
+        "onboard_time": 1761377060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243346,
+        "num": 202053,
+        "word": "章泽天的耳环被指价值77.5万元",
+        "onboard_time": 1761387322,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135308,
+        "num": 201916,
+        "word": "金饰克价跌到1222元",
+        "onboard_time": 1761386962,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187309,
+        "num": 201425,
+        "word": "水龙吟",
+        "onboard_time": 1761387741,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133285,
+        "num": 201138,
+        "word": "八路军活捉日军现场画面",
+        "onboard_time": 1761380361,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101369,
+        "num": 200839,
+        "word": "重庆市副市长江敦涛被查",
+        "onboard_time": 1761378380,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32147,
+        "num": 200569,
+        "word": "用网名买机票成功出票但登机失败",
+        "onboard_time": 1761387920,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53729,
+        "num": 200100,
+        "word": "抖音双11承包了我的心头好",
+        "onboard_time": 1761386721,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 350314,
+        "num": 200025,
+        "word": "见过最惊为天人的美貌",
+        "onboard_time": 1761388581,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221911,
+        "num": 199697,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199479,
+        "num": 199479,
+        "word": "Bin别退役",
+        "onboard_time": 1761388461,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195188,
+        "num": 195188,
+        "word": "刘宇宁到底有多香",
+        "onboard_time": 1761387920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188815,
+        "num": 188815,
+        "word": "李沁马思纯拒绝争张晚意",
+        "onboard_time": 1761385821,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151788,
+        "num": 188546,
+        "word": "天地剑心剧情毫无波澜",
+        "onboard_time": 1761375260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 187386,
+        "word": "纪伯宰明意雨中拥吻",
+        "onboard_time": 1761387142,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89798,
+        "num": 186204,
+        "word": "朱易自由滑",
+        "onboard_time": 1761385160,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44230,
+        "num": 185750,
+        "word": "国民媳妇3分钟8次惊呆9次哇塞",
+        "onboard_time": 1761385521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71927,
+        "num": 185222,
+        "word": "邹敬园世锦赛双杠第4冠",
+        "onboard_time": 1761385340,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184344,
+        "num": 184344,
+        "word": "内娱求跪第一人",
+        "onboard_time": 1761384022,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247015,
+        "num": 178981,
+        "word": "Bin燃尽了",
+        "onboard_time": 1761388581,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171351,
+        "num": 171351,
+        "word": "彭小苒 翻红",
+        "onboard_time": 1761388401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118737,
+        "num": 168905,
+        "word": "赵丽颖宣传黄晓明新片",
+        "onboard_time": 1761386543,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "小白熊 退役",
+        "onboard_time": 1761388282,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164201,
+        "num": 164201,
+        "word": "易烊千玺毕业照",
+        "onboard_time": 1761380901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162368,
+        "num": 162368,
+        "word": "女子谈恋爱2个月被骗181万",
+        "onboard_time": 1761384441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143164,
+        "num": 143164,
+        "word": "河北一小区单元楼发生十几公分沉降",
+        "onboard_time": 1761387561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127980,
+        "num": 127980,
+        "word": "小猫舔毛时会帮你舔任何东西",
+        "onboard_time": 1761383840,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107650,
+        "num": 126386,
+        "word": "樊振东的这场比赛含金量还在上升",
+        "onboard_time": 1761388040,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114652,
+        "num": 125089,
+        "word": "水龙吟女孩被养父出卖配阴婚",
+        "onboard_time": 1761385401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124972,
+        "num": 124972,
+        "word": "瘦10斤比我瘦20斤都明显",
+        "onboard_time": 1761378501,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70963,
+        "num": 122102,
+        "word": "北川决胜局登场",
+        "onboard_time": 1761387501,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120087,
+        "num": 120087,
+        "word": "上拉如曾晒450万银行卡余额",
+        "onboard_time": 1761388282,
+        "rank": 43,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 51719,
+        "num": 118312,
+        "word": "于适高智感穿搭绝了",
+        "onboard_time": 1761383061,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117429,
+        "num": 117429,
+        "word": "王青音乐节",
+        "onboard_time": 1761388760,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108866,
+        "num": 108866,
+        "word": "天地剑心 淮水竹亭",
+        "onboard_time": 1761376640,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110587,
+        "num": 108049,
+        "word": "阿娇被问何超莲窦骁婚变传闻",
+        "onboard_time": 1761381200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104773,
+        "num": 104773,
+        "word": "外国人拿到中国绿卡后",
+        "onboard_time": 1761385760,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68123,
+        "num": 104317,
+        "word": "姚明吃饭睡觉打魔兽",
+        "onboard_time": 1761387859,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}
