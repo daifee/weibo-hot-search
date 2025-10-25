@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761361715822,
+  "endTime": 1761362296700,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2035,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1108330,
+      "num": 169393,
+      "word": "杜海涛毕业全英文演讲",
+      "onboard_time": 1761359358,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1106722,
       "num": 1177075,
       "word": "苹果闹钟没响",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1760775562,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1031425,
-      "num": 169393,
-      "word": "杜海涛毕业全英文演讲",
-      "onboard_time": 1761359358,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1031061,
@@ -7619,6 +7619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546078,
+      "num": 166360,
+      "word": "阿Sa祝福陈伟霆",
+      "onboard_time": 1761359839,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545938,
       "num": 322065,
       "word": "短短37秒吻戏床戏都上尺度了",
@@ -8841,14 +8849,6 @@
       "onboard_time": 1759730362,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 496906,
-      "num": 166360,
-      "word": "阿Sa祝福陈伟霆",
-      "onboard_time": 1761359839,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 496711,
@@ -10803,6 +10803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433511,
+      "num": 433511,
+      "word": "泰国诗丽吉王太后去世",
+      "onboard_time": 1761357559,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 432947,
       "num": 200216,
       "word": "金价银价大反攻",
@@ -11417,14 +11425,6 @@
       "onboard_time": 1760861481,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413483,
-      "num": 413483,
-      "word": "泰国诗丽吉王太后去世",
-      "onboard_time": 1761357559,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 412880,
@@ -14355,6 +14355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 328818,
+      "num": 167944,
+      "word": "你缺的不是衣服而是打扮思路",
+      "onboard_time": 1761359239,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 328345,
       "num": 205040,
       "word": "谭松韵宣布结束高强度拍摄",
@@ -15121,14 +15129,6 @@
       "onboard_time": 1759718600,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313277,
-      "num": 167944,
-      "word": "你缺的不是衣服而是打扮思路",
-      "onboard_time": 1761359239,
-      "rank": 13,
-      "category": "时尚"
     },
     {
       "raw_hot": 313228,
@@ -20251,6 +20251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228379,
+      "num": 164783,
+      "word": "黄金白银再跌",
+      "onboard_time": 1761361279,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228361,
       "num": 275488,
       "word": "树莓小狗的泪痕",
@@ -23163,6 +23171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200346,
+      "num": 200346,
+      "word": "一路繁花居然敢把这2分21秒剪进去",
+      "onboard_time": 1761359959,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200303,
       "num": 200303,
       "word": "孙颖莎4比3战胜王艺迪",
@@ -23433,14 +23449,6 @@
       "onboard_time": 1761308301,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198196,
-      "num": 164783,
-      "word": "黄金白银再跌",
-      "onboard_time": 1761361279,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 198145,
@@ -24361,14 +24369,6 @@
       "onboard_time": 1760129893,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193907,
-      "num": 193907,
-      "word": "一路繁花居然敢把这2分21秒剪进去",
-      "onboard_time": 1761359959,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 193861,
@@ -36923,6 +36923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "邵子恒 干男团的",
+      "onboard_time": 1761360200,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "台湾王氏研创艺术公司宣传台独",
@@ -37425,14 +37433,6 @@
       "onboard_time": 1759769718,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137397,
-      "num": 137397,
-      "word": "邵子恒 干男团的",
-      "onboard_time": 1761360200,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 137380,
@@ -37977,6 +37977,14 @@
       "onboard_time": 1760586021,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135731,
+      "num": 118425,
+      "word": "TES经理郭皓被曝离职",
+      "onboard_time": 1761361580,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 135727,
@@ -44681,6 +44689,14 @@
       "onboard_time": 1759497741,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119677,
+      "num": 119677,
+      "word": "整个宿舍都是歌姬是什么体验",
+      "onboard_time": 1761361519,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 119643,
@@ -52891,6 +52907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105074,
+      "num": 105074,
+      "word": "张晚意找到同皂中人了",
+      "onboard_time": 1761360022,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105041,
       "num": 155145,
       "word": "原来刘晓庆是宁静的恩师",
@@ -52971,6 +52995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104849,
+      "num": 104849,
+      "word": "胜利属于每个中国人",
+      "onboard_time": 1761323000,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "意面来了中国也得被炒着吃",
@@ -52985,14 +53017,6 @@
       "onboard_time": 1759476800,
       "rank": 37,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 104742,
-      "num": 104742,
-      "word": "张晚意找到同皂中人了",
-      "onboard_time": 1761360022,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 104739,
@@ -53409,14 +53433,6 @@
       "onboard_time": 1759393220,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104053,
-      "num": 104053,
-      "word": "胜利属于每个中国人",
-      "onboard_time": 1761323000,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104050,
@@ -54384,6 +54400,14 @@
       "word": "张艺兴刘宇宁是怎么认识的",
       "onboard_time": 1759575141,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102612,
+      "num": 102612,
+      "word": "朱志鑫慌乱之中握紧了苏新皓的手",
+      "onboard_time": 1761362000,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -55617,6 +55641,14 @@
       "onboard_time": 1759574120,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100563,
+      "num": 100563,
+      "word": "彭小苒 突然多了好多孩子",
+      "onboard_time": 1761362059,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 100538,
@@ -60193,6 +60225,14 @@
       "onboard_time": 1760849001,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92091,
+      "num": 92091,
+      "word": "张小斐唱杨幂爱的供养",
+      "onboard_time": 1761361761,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92071,
@@ -64819,14 +64859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 83555,
-      "num": 83555,
-      "word": "整个宿舍都是歌姬是什么体验",
-      "onboard_time": 1761361519,
-      "rank": 41,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 83504,
       "num": 128698,
       "word": "刘宇宁剧综人物推荐值破10万",
@@ -65787,14 +65819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81358,
-      "num": 81358,
-      "word": "TES经理郭皓被曝离职",
-      "onboard_time": 1761361580,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81334,
       "num": 81334,
       "word": "张杰巡演佛山站官宣",
@@ -66313,6 +66337,14 @@
       "onboard_time": 1761358520,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 80148,
+      "num": 80148,
+      "word": "刘晓庆 男孩有了女友就不属于妈了",
+      "onboard_time": 1761362181,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 80144,
@@ -67979,6 +68011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76220,
+      "num": 76220,
+      "word": "爱做家务的小猫",
+      "onboard_time": 1761362120,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76168,
       "num": 76168,
       "word": "哈马斯称停火后不参与加沙治理",
@@ -69057,6 +69097,14 @@
       "onboard_time": 1759418661,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72754,
+      "num": 151538,
+      "word": "台湾有151条以光复为名的路",
+      "onboard_time": 1761360799,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72740,
@@ -73371,6 +73419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55299,
+      "num": 148688,
+      "word": "姚明现身火箭主场揭幕战",
+      "onboard_time": 1761361941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55238,
       "num": 119036,
       "word": "百色靖西持续内涝半月",
@@ -75755,14 +75811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43734,
-      "num": 151538,
-      "word": "台湾有151条以光复为名的路",
-      "onboard_time": 1761360799,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 43672,
       "num": 121978,
       "word": "第一次直观感受到省钱的杀伤力",
@@ -75937,6 +75985,14 @@
       "onboard_time": 1759793478,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42640,
+      "num": 148420,
+      "word": "AI时代的国际教育选择",
+      "onboard_time": 1761361461,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 42607,
@@ -76177,14 +76233,6 @@
       "onboard_time": 1759829481,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41398,
-      "num": 142176,
-      "word": "AI时代的国际教育选择",
-      "onboard_time": 1761361461,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 41391,

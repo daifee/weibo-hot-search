@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:08:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:18:16
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ VOGUE（热度：1115170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%AF%95%E4%B8%9A%E5%85%A8%E8%8B%B1%E6%96%87%E6%BC%94%E8%AE%B2%23" target="weibo">
+杜海涛毕业全英文演讲（热度：1108330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%23" target="weibo">
 苹果闹钟没响（热度：1106722）
 </a>
@@ -1853,12 +1859,6 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E4%B8%8D%E7%A9%BF%E5%AE%8C%E6%95%B4%E8%A1%A3%E6%9C%8D%23" target="weibo">
 野人小孩母亲衣着暴露不穿完整衣服（热度：1032091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%AF%95%E4%B8%9A%E5%85%A8%E8%8B%B1%E6%96%87%E6%BC%94%E8%AE%B2%23" target="weibo">
-杜海涛毕业全英文演讲（热度：1031425）
 </a>
 </li>
 
@@ -5727,6 +5727,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BFSa%E7%A5%9D%E7%A6%8F%E9%99%88%E4%BC%9F%E9%9C%86%23" target="weibo">
+阿Sa祝福陈伟霆（热度：546078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD37%E7%A7%92%E5%90%BB%E6%88%8F%E5%BA%8A%E6%88%8F%E9%83%BD%E4%B8%8A%E5%B0%BA%E5%BA%A6%E4%BA%86%23" target="weibo">
 短短37秒吻戏床戏都上尺度了（热度：545938）
 </a>
@@ -6005,12 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E7%BB%83%E8%83%8C6%E5%88%86%E9%92%9F%E5%B0%B1%E6%98%AF%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E8%BF%90%E5%8A%A8%23" target="weibo">
 每天练背6分钟就是回报率最高的运动（热度：532263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A4%9A%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
-国乒多人退赛（热度：531791）
 </a>
 </li>
 

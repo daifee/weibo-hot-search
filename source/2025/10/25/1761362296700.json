@@ -1,0 +1,410 @@
+{
+  "runTime": 1761362296700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3696670,
+        "num": 3696670,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492494,
+        "num": 492494,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47796,
+        "num": 442571,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433511,
+        "num": 433511,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294357,
+        "num": 294357,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317073,
+        "num": 273942,
+        "word": "水龙吟花了8个月才找到敖子逸",
+        "onboard_time": 1761360200,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238572,
+        "num": 238572,
+        "word": "台湾光复全岛狂欢3天",
+        "onboard_time": 1761353421,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200346,
+        "num": 200346,
+        "word": "一路繁花居然敢把这2分21秒剪进去",
+        "onboard_time": 1761359959,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194236,
+        "num": 194236,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153162,
+        "num": 153162,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1108330,
+        "num": 153072,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085141,
+        "num": 152254,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543955,
+        "num": 151742,
+        "word": "男子当街直播猥亵称在搞抽象",
+        "onboard_time": 1761359721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328818,
+        "num": 151485,
+        "word": "你缺的不是衣服而是打扮思路",
+        "onboard_time": 1761359239,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 228379,
+        "num": 150906,
+        "word": "黄金白银再跌",
+        "onboard_time": 1761361279,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223292,
+        "num": 150449,
+        "word": "向太说郭碧婷养娘家",
+        "onboard_time": 1761348257,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546078,
+        "num": 149916,
+        "word": "阿Sa祝福陈伟霆",
+        "onboard_time": 1761359839,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38160,
+        "num": 149132,
+        "word": "马思纯在京东讲健康养生",
+        "onboard_time": 1761361401,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55299,
+        "num": 148688,
+        "word": "姚明现身火箭主场揭幕战",
+        "onboard_time": 1761361941,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42640,
+        "num": 148420,
+        "word": "AI时代的国际教育选择",
+        "onboard_time": 1761361461,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239286,
+        "num": 147970,
+        "word": "女子耳骨增生自己用钳子剪掉",
+        "onboard_time": 1761353960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200437,
+        "num": 147332,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147017,
+        "num": 147017,
+        "word": "宁静 你跟一些老人出去没事",
+        "onboard_time": 1761359480,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139125,
+        "num": 139125,
+        "word": "邵子恒 干男团的",
+        "onboard_time": 1761360200,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72754,
+        "num": 127435,
+        "word": "台湾有151条以光复为名的路",
+        "onboard_time": 1761360799,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125239,
+        "num": 125239,
+        "word": "一个大窝囊废养了两只小窝囊废",
+        "onboard_time": 1761355879,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123219,
+        "num": 123219,
+        "word": "男子被野蜂蜇死母亲因伤痛离世",
+        "onboard_time": 1761355879,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 119891,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119815,
+        "num": 119815,
+        "word": "原来恩利才是内娱社交悍匪啊",
+        "onboard_time": 1761355039,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "整个宿舍都是歌姬是什么体验",
+        "onboard_time": 1761361519,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 135731,
+        "num": 118425,
+        "word": "TES经理郭皓被曝离职",
+        "onboard_time": 1761361580,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110383,
+        "num": 110383,
+        "word": "多平台已取消仅退款服务",
+        "onboard_time": 1761348077,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105074,
+        "num": 105074,
+        "word": "张晚意找到同皂中人了",
+        "onboard_time": 1761360022,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104849,
+        "num": 104849,
+        "word": "胜利属于每个中国人",
+        "onboard_time": 1761323000,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102612,
+        "num": 102612,
+        "word": "朱志鑫慌乱之中握紧了苏新皓的手",
+        "onboard_time": 1761362000,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100563,
+        "num": 100563,
+        "word": "彭小苒 突然多了好多孩子",
+        "onboard_time": 1761362059,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100201,
+        "num": 100201,
+        "word": "女子回应买猪食槽收纳孩子玩具",
+        "onboard_time": 1761348318,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99315,
+        "num": 99315,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94277,
+        "num": 94277,
+        "word": "10月25日对中国人的意义",
+        "onboard_time": 1761352339,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92091,
+        "num": 92091,
+        "word": "张小斐唱杨幂爱的供养",
+        "onboard_time": 1761361761,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83610,
+        "num": 83610,
+        "word": "金正恩参谒志愿军陵园",
+        "onboard_time": 1761352339,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81829,
+        "num": 81829,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1761360260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80148,
+        "num": 80148,
+        "word": "刘晓庆 男孩有了女友就不属于妈了",
+        "onboard_time": 1761362181,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 79240,
+        "word": "国考报名人数超350万创新高",
+        "onboard_time": 1761359299,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79227,
+        "num": 79227,
+        "word": "有史以来再见最快的爱人",
+        "onboard_time": 1761345255,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76220,
+        "num": 76220,
+        "word": "爱做家务的小猫",
+        "onboard_time": 1761362120,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75180,
+        "num": 75180,
+        "word": "iOS26关闭液态玻璃效果并不省电",
+        "onboard_time": 1761360919,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74674,
+        "num": 74674,
+        "word": "国考前十岗位3个为税务系统",
+        "onboard_time": 1761358520,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64322,
+        "num": 74151,
+        "word": "天地剑心",
+        "onboard_time": 1761317841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
