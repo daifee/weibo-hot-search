@@ -1,0 +1,410 @@
+{
+  "runTime": 1761403160875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637286,
+        "num": 1101965,
+        "word": "江西一公安局副局长为黑恶势力站台",
+        "onboard_time": 1761395781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560473,
+        "num": 560473,
+        "word": "Bin 16强退役",
+        "onboard_time": 1761386721,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69887,
+        "num": 353595,
+        "word": "未来五年的重点任务",
+        "onboard_time": 1761400643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347059,
+        "num": 347059,
+        "word": "吉林珲春5.5级地震",
+        "onboard_time": 1761395425,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 289271,
+        "num": 289271,
+        "word": "深圳机场会同航空公司启动核查",
+        "onboard_time": 1761391042,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429231,
+        "num": 289204,
+        "word": "六个男艺人在综艺里馋得直流口水",
+        "onboard_time": 1761397642,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289099,
+        "num": 289099,
+        "word": "少年的你发了新剧照",
+        "onboard_time": 1761399082,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284647,
+        "num": 284647,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273796,
+        "num": 273796,
+        "word": "AL打T1",
+        "onboard_time": 1761394282,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264844,
+        "num": 264844,
+        "word": "天地剑心",
+        "onboard_time": 1761394703,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 885413,
+        "num": 263552,
+        "word": "黄晓明回复赵丽颖",
+        "onboard_time": 1761400162,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 757411,
+        "num": 260500,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 705237,
+        "num": 257720,
+        "word": "刘宇宁剪短发了",
+        "onboard_time": 1761394341,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 592826,
+        "num": 253246,
+        "word": "闫妮和任素汐吵架根本不像演的",
+        "onboard_time": 1761397281,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472440,
+        "num": 250984,
+        "word": "龚俊李沁牵手这段好嗑",
+        "onboard_time": 1761399743,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326452,
+        "num": 246537,
+        "word": "刘宇宁才知道高定可以拿回家",
+        "onboard_time": 1761399862,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292345,
+        "num": 245074,
+        "word": "范丞丞cos绿巨人",
+        "onboard_time": 1761401063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243037,
+        "num": 243037,
+        "word": "TES战胜BLG",
+        "onboard_time": 1761386062,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233598,
+        "num": 233598,
+        "word": "鹿晗刚刚那段删掉",
+        "onboard_time": 1761400461,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229208,
+        "num": 229208,
+        "word": "至少今天很快乐演唱会",
+        "onboard_time": 1761393021,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277764,
+        "num": 226571,
+        "word": "长期戴眼镜导致的面部变化",
+        "onboard_time": 1761391641,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222758,
+        "num": 222758,
+        "word": "成毅 扛剧",
+        "onboard_time": 1761402323,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207894,
+        "num": 207894,
+        "word": "孟子义擦完你的擦你的",
+        "onboard_time": 1761402143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197765,
+        "num": 197765,
+        "word": "彭小苒 翻红",
+        "onboard_time": 1761388401,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180417,
+        "num": 180417,
+        "word": "燕子滞留部分死亡",
+        "onboard_time": 1761398721,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180036,
+        "num": 180036,
+        "word": "男子杀母后网购裹尸袋并盗母亲财物",
+        "onboard_time": 1761396082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 162341,
+        "word": "这种凳子请走出大学",
+        "onboard_time": 1761395781,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155186,
+        "num": 155186,
+        "word": "许嵩南京音乐节",
+        "onboard_time": 1761402082,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 151438,
+        "word": "陈雨菲止步法国赛半决赛",
+        "onboard_time": 1761402262,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140651,
+        "num": 151022,
+        "word": "台湾光复当天的台湾街头",
+        "onboard_time": 1761398241,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 151010,
+        "word": "星品",
+        "onboard_time": 1761401002,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150959,
+        "num": 150959,
+        "word": "Bin lpl加油",
+        "onboard_time": 1761389783,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150337,
+        "num": 150337,
+        "word": "苏醒穿了自己做的高定",
+        "onboard_time": 1761401483,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149647,
+        "num": 149647,
+        "word": "鸡排哥南京巡炸4小时卖出1000份",
+        "onboard_time": 1761398303,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "卖小麦收28万却被冻结母子痛哭",
+        "onboard_time": 1761391821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133879,
+        "num": 133879,
+        "word": "易烊千玺毕业照",
+        "onboard_time": 1761380901,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127720,
+        "num": 127720,
+        "word": "明日方舟",
+        "onboard_time": 1761386543,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122306,
+        "num": 122306,
+        "word": "姿态回应抽签",
+        "onboard_time": 1761398182,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119308,
+        "num": 119308,
+        "word": "泰方称泰国禁娱30天传言不实",
+        "onboard_time": 1761378380,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103006,
+        "num": 116438,
+        "word": "王楚钦又上封面了",
+        "onboard_time": 1761400821,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114278,
+        "num": 114278,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1761402743,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112577,
+        "num": 112577,
+        "word": "警方回应卖小麦收款28万却遭冻结",
+        "onboard_time": 1761399502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 102969,
+        "word": "刘宇宁我脱了我装的",
+        "onboard_time": 1761403103,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102169,
+        "num": 102169,
+        "word": "隋文静韩聪自由滑130.47分",
+        "onboard_time": 1761402983,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59864,
+        "num": 101368,
+        "word": "河南一农民3200元自制烘干机迎秋收",
+        "onboard_time": 1761400821,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100909,
+        "num": 100909,
+        "word": "新一波冷空气续上了冷冷冷",
+        "onboard_time": 1761399680,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100420,
+        "num": 100420,
+        "word": "何卓佳说岁岁平安才重要",
+        "onboard_time": 1761402384,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99469,
+        "num": 99469,
+        "word": "BLG淘汰",
+        "onboard_time": 1761386902,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97868,
+        "num": 97868,
+        "word": "张予曦怼脸 好歹毒的镜头好美的脸",
+        "onboard_time": 1761403042,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97945,
+        "num": 95874,
+        "word": "王青音乐节",
+        "onboard_time": 1761388760,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}

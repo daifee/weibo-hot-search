@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761402154146,
+  "endTime": 1761403160875,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -153,6 +153,14 @@
       "onboard_time": 1761377060,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 885413,
+      "num": 263552,
+      "word": "黄晓明回复赵丽颖",
+      "onboard_time": 1761400162,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 844946,
@@ -355,6 +363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 472440,
+      "num": 250984,
+      "word": "龚俊李沁牵手这段好嗑",
+      "onboard_time": 1761399743,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467408,
       "num": 425468,
       "word": "天地剑心剧情毫无波澜",
@@ -403,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 429231,
+      "num": 299476,
+      "word": "六个男艺人在综艺里馋得直流口水",
+      "onboard_time": 1761397642,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428665,
       "num": 351638,
       "word": "G2抽中TES",
@@ -411,28 +435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 424398,
-      "num": 233431,
-      "word": "龚俊李沁牵手这段好嗑",
-      "onboard_time": 1761399743,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422773,
       "num": 422773,
       "word": "姿态抽签",
       "onboard_time": 1761394643,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 416350,
-      "num": 223824,
-      "word": "黄晓明回复赵丽颖",
-      "onboard_time": 1761400162,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 412904,
@@ -481,14 +489,6 @@
       "onboard_time": 1761375801,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 373777,
-      "num": 299476,
-      "word": "六个男艺人在综艺里馋得直流口水",
-      "onboard_time": 1761397642,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 367055,
@@ -587,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326452,
+      "num": 246537,
+      "word": "刘宇宁才知道高定可以拿回家",
+      "onboard_time": 1761399862,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 321724,
       "num": 412900,
       "word": "电影澎湖海战预告",
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292345,
+      "num": 245074,
+      "word": "范丞丞cos绿巨人",
+      "onboard_time": 1761401063,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291110,
       "num": 157534,
       "word": "6岁女童与哥哥争抢手机后突发脑梗",
@@ -689,6 +705,14 @@
       "onboard_time": 1761365120,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289099,
+      "num": 289099,
+      "word": "少年的你发了新剧照",
+      "onboard_time": 1761399082,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 286543,
@@ -755,14 +779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268940,
-      "num": 215447,
-      "word": "刘宇宁才知道高定可以拿回家",
-      "onboard_time": 1761399862,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 263425,
       "num": 216489,
       "word": "郑智化连滚带爬进飞机",
@@ -811,14 +827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 245804,
-      "num": 245804,
-      "word": "少年的你发了新剧照",
-      "onboard_time": 1761399082,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 239106,
       "num": 126624,
       "word": "赵樱子官宣分手",
@@ -841,6 +849,14 @@
       "onboard_time": 1761388941,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233598,
+      "num": 233598,
+      "word": "鹿晗刚刚那段删掉",
+      "onboard_time": 1761400461,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 232611,
@@ -891,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222758,
+      "num": 222758,
+      "word": "成毅 扛剧",
+      "onboard_time": 1761402323,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215291,
       "num": 215291,
       "word": "这种凳子请走出大学",
@@ -899,20 +923,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211396,
-      "num": 211396,
-      "word": "鹿晗刚刚那段删掉",
-      "onboard_time": 1761400461,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
       "onboard_time": 1761300501,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 207894,
+      "num": 207894,
+      "word": "孟子义擦完你的擦你的",
+      "onboard_time": 1761402143,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 206186,
@@ -1075,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194089,
-      "num": 194089,
-      "word": "范丞丞cos绿巨人",
-      "onboard_time": 1761401063,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191295,
       "num": 191295,
       "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
@@ -1208,6 +1224,14 @@
       "word": "河北一小区单元楼发生十几公分沉降",
       "onboard_time": 1761387561,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180417,
+      "num": 180417,
+      "word": "燕子滞留部分死亡",
+      "onboard_time": 1761398721,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1451,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155186,
+      "num": 155186,
+      "word": "许嵩南京音乐节",
+      "onboard_time": 1761402082,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155074,
       "num": 155074,
       "word": "肖战带火的锦州不止烧烤",
@@ -1555,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149647,
+      "num": 149647,
+      "word": "鸡排哥南京巡炸4小时卖出1000份",
+      "onboard_time": 1761398303,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "天地剑心好看吗",
@@ -1635,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142772,
+      "num": 151438,
+      "word": "陈雨菲止步法国赛半决赛",
+      "onboard_time": 1761402262,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141495,
       "num": 141495,
       "word": "普京呼吁年轻人不要推迟生育",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1761360200,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139026,
-      "num": 139026,
-      "word": "燕子滞留部分死亡",
-      "onboard_time": 1761398721,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138350,
@@ -2195,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114278,
+      "num": 114278,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1761402743,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113858,
       "num": 113858,
       "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
@@ -2227,6 +2275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112577,
+      "num": 112577,
+      "word": "警方回应卖小麦收款28万却遭冻结",
+      "onboard_time": 1761399502,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112488,
       "num": 112488,
       "word": "谁没磕过一对红绿cp呢",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1761372920,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112013,
-      "num": 126527,
-      "word": "鸡排哥南京巡炸4小时卖出1000份",
-      "onboard_time": 1761398303,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111439,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1761384140,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110152,
-      "num": 110152,
-      "word": "许嵩南京音乐节",
-      "onboard_time": 1761402082,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 110127,
@@ -2515,6 +2555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103006,
+      "num": 116438,
+      "word": "王楚钦又上封面了",
+      "onboard_time": 1761400821,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102969,
+      "num": 102969,
+      "word": "刘宇宁我脱了我装的",
+      "onboard_time": 1761403103,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102766,
       "num": 108903,
       "word": "剧爆人VS人爆剧",
@@ -2539,6 +2595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102169,
+      "num": 102169,
+      "word": "隋文静韩聪自由滑130.47分",
+      "onboard_time": 1761402983,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101746,
       "num": 1791552,
       "word": "志愿军出国作战75周年",
@@ -2553,14 +2617,6 @@
       "onboard_time": 1761398901,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100829,
-      "num": 108661,
-      "word": "王楚钦又上封面了",
-      "onboard_time": 1761400821,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 100764,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1761384500,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100420,
+      "num": 100420,
+      "word": "何卓佳说岁岁平安才重要",
+      "onboard_time": 1761402384,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 99754,
@@ -2657,6 +2721,14 @@
       "onboard_time": 1761320421,
       "rank": 32,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 97868,
+      "num": 97868,
+      "word": "张予曦怼脸 好歹毒的镜头好美的脸",
+      "onboard_time": 1761403042,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 97816,
@@ -3371,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69887,
+      "num": 390282,
+      "word": "未来五年的重点任务",
+      "onboard_time": 1761400643,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69183,
       "num": 69183,
       "word": "国家安全部发布盼归短视频",
@@ -3555,6 +3635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 59864,
+      "num": 196926,
+      "word": "河南一农民3200元自制烘干机迎秋收",
+      "onboard_time": 1761400821,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
@@ -3569,14 +3657,6 @@
       "onboard_time": 1761383061,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56279,
-      "num": 196926,
-      "word": "河南一农民3200元自制烘干机迎秋收",
-      "onboard_time": 1761400821,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56051,
@@ -3624,14 +3704,6 @@
       "word": "纪念台湾光复80周年大会召开",
       "onboard_time": 1761389121,
       "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 48656,
-      "num": 390282,
-      "word": "未来五年的重点任务",
-      "onboard_time": 1761400643,
-      "rank": 2,
       "category": "国内时政"
     },
     {
