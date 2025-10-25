@@ -1,0 +1,410 @@
+{
+  "runTime": 1761384998846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391522,
+        "num": 1391522,
+        "word": "泰国宣布禁娱30天",
+        "onboard_time": 1761378380,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1156924,
+        "num": 1156924,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2048,
+        "num": 752234,
+        "word": "介绍和解读四中全会精神",
+        "onboard_time": 1761225684,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 541666,
+        "num": 541666,
+        "word": "景区观光小火车疑坠海致多人伤亡",
+        "onboard_time": 1761379821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276875,
+        "num": 276875,
+        "word": "武汉防空警报",
+        "onboard_time": 1761379702,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244040,
+        "num": 244040,
+        "word": "天地剑心剧情毫无波澜",
+        "onboard_time": 1761375260,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226013,
+        "num": 226013,
+        "word": "重庆市副市长江敦涛被查",
+        "onboard_time": 1761378380,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223374,
+        "num": 223374,
+        "word": "TES对战BLG",
+        "onboard_time": 1761378501,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200678,
+        "num": 200678,
+        "word": "四大平台男主剧对打",
+        "onboard_time": 1761374541,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192935,
+        "num": 192935,
+        "word": "天地剑心 淮水竹亭",
+        "onboard_time": 1761376640,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 978727,
+        "num": 192703,
+        "word": "陈伟霆说儿子长大签英皇",
+        "onboard_time": 1761381860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680490,
+        "num": 192256,
+        "word": "和易烊千玺合照只需要一句师哥",
+        "onboard_time": 1761377060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608197,
+        "num": 191152,
+        "word": "郑智化怒斥深圳机场",
+        "onboard_time": 1761382941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350099,
+        "num": 190450,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328117,
+        "num": 190332,
+        "word": "瘦10斤比我瘦20斤都明显",
+        "onboard_time": 1761378501,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285711,
+        "num": 189769,
+        "word": "张晚意快把李沁掰折了",
+        "onboard_time": 1761379760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291264,
+        "num": 188619,
+        "word": "易烊千玺毕业照",
+        "onboard_time": 1761380901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263425,
+        "num": 188079,
+        "word": "郑智化连滚带爬进飞机",
+        "onboard_time": 1761382822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39292,
+        "num": 187578,
+        "word": "13岁女孩被篮球砸头确诊癔症2年",
+        "onboard_time": 1761384022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57095,
+        "num": 186730,
+        "word": "于适高智感穿搭绝了",
+        "onboard_time": 1761383061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229350,
+        "num": 186391,
+        "word": "内娱求跪第一人",
+        "onboard_time": 1761384022,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198381,
+        "num": 185452,
+        "word": "蒋欣吃太多被经纪人看管了",
+        "onboard_time": 1761372620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185353,
+        "num": 185353,
+        "word": "阿娇被问何超莲窦骁婚变传闻",
+        "onboard_time": 1761381200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 182523,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161290,
+        "num": 161290,
+        "word": "从不午睡vs天天午睡",
+        "onboard_time": 1761379280,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144076,
+        "num": 144076,
+        "word": "八路军活捉日军现场画面",
+        "onboard_time": 1761380361,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140790,
+        "num": 140790,
+        "word": "泰总理缺席APEC领导人非正式会议",
+        "onboard_time": 1761382461,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137247,
+        "num": 137247,
+        "word": "天地剑心审判了一集",
+        "onboard_time": 1761384441,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120640,
+        "num": 120640,
+        "word": "TES和BLG决胜局",
+        "onboard_time": 1761384022,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110830,
+        "num": 117074,
+        "word": "多方回应观光火车疑坠海多人伤亡",
+        "onboard_time": 1761382641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142969,
+        "num": 116719,
+        "word": "小猫舔毛时会帮你舔任何东西",
+        "onboard_time": 1761383840,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116256,
+        "num": 116256,
+        "word": "女子谈恋爱2个月被骗181万",
+        "onboard_time": 1761384441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116040,
+        "num": 116040,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110511,
+        "num": 110511,
+        "word": "昀牵孟绕",
+        "onboard_time": 1761384140,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102766,
+        "num": 108903,
+        "word": "剧爆人VS人爆剧",
+        "onboard_time": 1761384260,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108898,
+        "num": 108898,
+        "word": "泰国王太后生平",
+        "onboard_time": 1761383001,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108875,
+        "num": 108875,
+        "word": "国内金饰克价4天累跌72元",
+        "onboard_time": 1761383840,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107414,
+        "num": 107414,
+        "word": "樊振东社会荣誉一览",
+        "onboard_time": 1761384559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33571,
+        "num": 107193,
+        "word": "张子枫两只眼睛能传递不一样情绪",
+        "onboard_time": 1761384320,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106989,
+        "num": 106989,
+        "word": "张柏芝黎姿33年的友情",
+        "onboard_time": 1761382040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107214,
+        "num": 106684,
+        "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+        "onboard_time": 1761377781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105832,
+        "num": 105832,
+        "word": "外媒爆赛琳娜和海莉互撕10年",
+        "onboard_time": 1761383599,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102158,
+        "num": 102158,
+        "word": "从家到学校只需46秒",
+        "onboard_time": 1761379821,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98437,
+        "num": 98437,
+        "word": "白敬亭好像冷宫里疯了的妃子",
+        "onboard_time": 1761381140,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98204,
+        "num": 98204,
+        "word": "云合",
+        "onboard_time": 1761380600,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98156,
+        "num": 98156,
+        "word": "狗子们在面包山上吃晕碳了",
+        "onboard_time": 1761384500,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97610,
+        "num": 97610,
+        "word": "天地剑心",
+        "onboard_time": 1761369021,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97220,
+        "num": 97220,
+        "word": "秋冬减肥最快方式",
+        "onboard_time": 1761383241,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95018,
+        "num": 95018,
+        "word": "暗河传台词尺度",
+        "onboard_time": 1761379099,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83188,
+        "num": 83188,
+        "word": "张清颖世锦赛平衡木金牌",
+        "onboard_time": 1761381800,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}
