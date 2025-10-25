@@ -1,10 +1,10 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761357069927,
+  "endTime": 1761358363677,
   "band_list": [
     {
-      "raw_hot": 2730000,
-      "num": 2730000,
+      "raw_hot": 3598624,
+      "num": 3598624,
       "word": "台湾",
       "onboard_time": 1761348797,
       "rank": 22,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1527003,
-      "num": 150841,
+      "num": 157942,
       "word": "杨受成为陈伟霆儿子准备几十万足金",
       "onboard_time": 1761355821,
       "rank": 10,
@@ -51,8 +51,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 593991,
-      "num": 593991,
+      "raw_hot": 622179,
+      "num": 622179,
       "word": "iPhone18系列迎史上最大革新",
       "onboard_time": 1761354381,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 533679,
-      "num": 150678,
+      "num": 153246,
       "word": "向太说郭碧婷养娘家",
       "onboard_time": 1761348257,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 365259,
-      "num": 150569,
+      "num": 153128,
       "word": "男子嫖宿遭拒持刀割划女子颈部致死",
       "onboard_time": 1761352460,
       "rank": 12,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306322,
-      "num": 131564,
+      "raw_hot": 306891,
+      "num": 152548,
       "word": "女子耳骨增生自己用钳子剪掉",
       "onboard_time": 1761353960,
       "rank": 20,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218662,
+      "num": 218662,
+      "word": "泰国诗丽吉王太后去世",
+      "onboard_time": 1761357559,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 187348,
-      "num": 137073,
+      "num": 153044,
       "word": "女子回应买猪食槽收纳孩子玩具",
       "onboard_time": 1761348318,
       "rank": 19,
@@ -233,6 +241,14 @@
       "onboard_time": 1761325637,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "台湾光复80周年",
+      "onboard_time": 1761323599,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166107,
@@ -267,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162359,
+      "num": 162359,
+      "word": "山西明确禁止歧视虐待生育女婴的妇女",
+      "onboard_time": 1761352401,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158524,
+      "num": 153692,
+      "word": "抗美援朝纪念日",
+      "onboard_time": 1761326297,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156138,
       "num": 133750,
       "word": "员工脚痛请假因步数超1.6万被开除",
@@ -275,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153692,
-      "num": 153692,
-      "word": "抗美援朝纪念日",
-      "onboard_time": 1761326297,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 153269,
+      "num": 153269,
+      "word": "10月25日对中国人的意义",
+      "onboard_time": 1761352339,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152764,
@@ -291,24 +323,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152507,
-      "num": 152507,
-      "word": "10月25日对中国人的意义",
-      "onboard_time": 1761352339,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151187,
-      "num": 151187,
-      "word": "台湾光复80周年",
-      "onboard_time": 1761323599,
-      "rank": 26,
-      "category": "国内时政"
+      "raw_hot": 152221,
+      "num": 152221,
+      "word": "原来恩利才是内娱社交悍匪啊",
+      "onboard_time": 1761355039,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 145663,
-      "num": 130578,
+      "num": 140339,
       "word": "男子被野蜂蜇死母亲因伤痛离世",
       "onboard_time": 1761355879,
       "rank": 22,
@@ -347,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138418,
-      "num": 129712,
-      "word": "山西明确禁止歧视虐待生育女婴的妇女",
-      "onboard_time": 1761352401,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136246,
       "num": 124608,
       "word": "马君妍怀孕三个月做NT检查",
@@ -371,16 +387,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129579,
-      "num": 129579,
-      "word": "原来恩利才是内娱社交悍匪啊",
-      "onboard_time": 1761355039,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128513,
-      "num": 128513,
+      "raw_hot": 128770,
+      "num": 128770,
       "word": "一个大窝囊废养了两只小窝囊废",
       "onboard_time": 1761355879,
       "rank": 25,
@@ -409,6 +417,14 @@
       "onboard_time": 1761304760,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124341,
+      "num": 124341,
+      "word": "多平台已取消仅退款服务",
+      "onboard_time": 1761348077,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 115466,
@@ -451,12 +467,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109400,
-      "num": 109400,
-      "word": "多平台已取消仅退款服务",
-      "onboard_time": 1761348077,
-      "rank": 22,
-      "category": "数码"
+      "raw_hot": 110127,
+      "num": 110127,
+      "word": "薛之谦把欧阳娜娜当逗号用",
+      "onboard_time": 1761357020,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "今天一起致敬最可爱的人",
+      "onboard_time": 1761322942,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106752,
@@ -475,11 +499,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 100211,
-      "num": 106683,
-      "word": "今天一起致敬最可爱的人",
-      "onboard_time": 1761322942,
-      "rank": 29,
+      "raw_hot": 104053,
+      "num": 104053,
+      "word": "胜利属于每个中国人",
+      "onboard_time": 1761323000,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95254,
+      "num": 95254,
+      "word": "医生建议频繁洗澡不如多泡脚",
+      "onboard_time": 1761319103,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "男子教女儿游泳时跳水致死",
@@ -537,14 +569,6 @@
       "onboard_time": 1761352880,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87507,
-      "num": 87507,
-      "word": "医生建议频繁洗澡不如多泡脚",
-      "onboard_time": 1761319103,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 85842,
@@ -571,20 +595,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82652,
-      "num": 82652,
-      "word": "胜利属于每个中国人",
-      "onboard_time": 1761323000,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82199,
       "num": 82199,
       "word": "年休假能隔年休吗",
       "onboard_time": 1761356660,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80043,
+      "num": 113458,
+      "word": "天地剑心",
+      "onboard_time": 1761317841,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79679,
+      "num": 79679,
+      "word": "48岁男子驾车致1死4重伤被刑拘",
+      "onboard_time": 1761357801,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78774,
@@ -603,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78000,
+      "num": 114635,
+      "word": "魏大勋新剧年上苏感",
+      "onboard_time": 1761353720,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77704,
       "num": 77704,
       "word": "中国唱将选手长得好像薛之谦",
@@ -611,20 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76470,
-      "num": 113458,
-      "word": "天地剑心",
-      "onboard_time": 1761317841,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75162,
       "num": 75162,
       "word": "全固态电池大爆发",
       "onboard_time": 1761348979,
       "rank": 25,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 74223,
+      "num": 79674,
+      "word": "马斯克称中国朱雀三号超SpaceX猎鹰",
+      "onboard_time": 1761355221,
+      "rank": 44,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 74144,
@@ -659,28 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70049,
-      "num": 112018,
-      "word": "魏大勋新剧年上苏感",
-      "onboard_time": 1761353720,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69183,
       "num": 69183,
       "word": "国家安全部发布盼归短视频",
       "onboard_time": 1761356779,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 69123,
-      "num": 69123,
-      "word": "薛之谦把欧阳娜娜当逗号用",
-      "onboard_time": 1761357020,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 68050,
@@ -715,6 +739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65691,
+      "num": 79653,
+      "word": "隋文静韩聪回应复出首秀",
+      "onboard_time": 1761358160,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65276,
+      "num": 79648,
+      "word": "亚历山大罚球历史最多",
+      "onboard_time": 1761357439,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64804,
       "num": 71146,
       "word": "祖国大陆离台湾最近的距离",
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 62942,
-      "num": 68337,
+      "num": 79639,
       "word": "kandi的diss",
       "onboard_time": 1761355700,
       "rank": 49,
