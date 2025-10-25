@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761374792112,
+  "endTime": 1761376989005,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532889,
+      "num": 155762,
+      "word": "蒋欣吃太多被经纪人看管了",
+      "onboard_time": 1761372620,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509470,
       "num": 509470,
       "word": "台湾光复全岛狂欢3天",
@@ -163,6 +171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 462327,
+      "num": 462327,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 446184,
       "num": 161410,
       "word": "郑恺苗苗真没把我们当外人",
@@ -177,14 +193,6 @@
       "onboard_time": 1761357559,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 429182,
-      "num": 429182,
-      "word": "事业编",
-      "onboard_time": 1761370040,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 405070,
@@ -259,6 +267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 304314,
+      "num": 156709,
+      "word": "天地剑心剧情毫无波澜",
+      "onboard_time": 1761375260,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301763,
       "num": 301763,
       "word": "TES经理郭皓被曝离职",
@@ -313,6 +329,14 @@
       "onboard_time": 1761363681,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272166,
+      "num": 272166,
+      "word": "俄军无人机绑棍子捅落乌无人机",
+      "onboard_time": 1761375321,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251387,
@@ -379,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210894,
-      "num": 155762,
-      "word": "蒋欣吃太多被经纪人看管了",
-      "onboard_time": 1761372620,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209521,
       "num": 209521,
       "word": "KK园区上千人趁乱逃离",
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191016,
+      "num": 153651,
+      "word": "何赛飞后悔当着梁朝伟面唱评弹",
+      "onboard_time": 1761375980,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188788,
       "num": 188788,
       "word": "网传迪丽热巴拒了将门毒后",
@@ -472,6 +496,14 @@
       "word": "成毅打戏",
       "onboard_time": 1761373400,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181285,
+      "num": 156240,
+      "word": "四大平台男主剧对打",
+      "onboard_time": 1761374541,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 163983,
-      "num": 151067,
+      "num": 153076,
       "word": "孙子遭继母打骂奶奶房产传孙不传儿",
       "onboard_time": 1761371540,
       "rank": 25,
@@ -579,6 +611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155074,
+      "num": 155074,
+      "word": "肖战带火的锦州不止烧烤",
+      "onboard_time": 1761375500,
+      "rank": 8,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 153277,
+      "num": 153277,
+      "word": "彭小苒这7秒浓颜的冲击力",
+      "onboard_time": 1761375980,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153269,
       "num": 153269,
       "word": "10月25日对中国人的意义",
@@ -601,6 +649,14 @@
       "onboard_time": 1761355039,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152151,
+      "num": 153799,
+      "word": "胡先煦开机照",
+      "onboard_time": 1761375500,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 150206,
@@ -635,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146305,
+      "num": 146305,
+      "word": "程相 音乐节",
+      "onboard_time": 1761375980,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145663,
       "num": 141874,
       "word": "男子被野蜂蜇死母亲因伤痛离世",
       "onboard_time": 1761355879,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144570,
+      "num": 153708,
+      "word": "绑架中国公民3名嫌犯被击毙",
+      "onboard_time": 1761375801,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144353,
@@ -1011,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108012,
+      "num": 127027,
+      "word": "天地剑心 淮水竹亭",
+      "onboard_time": 1761376640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107248,
       "num": 107248,
       "word": "NBA",
@@ -1083,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101981,
+      "num": 101981,
+      "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
+      "onboard_time": 1761376581,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99754,
       "num": 99754,
       "word": "原神优菈",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1761366801,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98393,
+      "num": 98393,
+      "word": "爸爸的QQ空间",
+      "onboard_time": 1761375139,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 98127,
@@ -1139,12 +1235,28 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 97816,
+      "num": 97816,
+      "word": "孙颖莎太阳塑",
+      "onboard_time": 1761376280,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97814,
       "num": 97814,
       "word": "罗云熙敖子逸水龙吟霸总小保姆",
       "onboard_time": 1761365660,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97688,
+      "num": 122936,
+      "word": "鸡排哥音乐节代排费达299元",
+      "onboard_time": 1761375201,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97089,
@@ -1227,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90939,
+      "num": 90939,
+      "word": "九尾cos",
+      "onboard_time": 1761376760,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90529,
       "num": 90529,
       "word": "喜人奇妙夜2",
@@ -1271,6 +1391,14 @@
       "num": 88922,
       "word": "昆明5岁女童23楼坠下生还",
       "onboard_time": 1761364821,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88216,
+      "num": 88216,
+      "word": "有金店结婚三金直逼10万元",
+      "onboard_time": 1761375021,
       "rank": 45,
       "category": "民生新闻"
     },
@@ -1321,6 +1449,14 @@
       "onboard_time": 1761360919,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85297,
+      "num": 85297,
+      "word": "文化失语症",
+      "onboard_time": 1761376340,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 85119,
@@ -1555,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73076,
+      "num": 79767,
+      "word": "王者荣耀嘉年华排队",
+      "onboard_time": 1761376940,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72948,
       "num": 72948,
       "word": "全球资产集体爆发",
@@ -1593,6 +1737,14 @@
       "onboard_time": 1761315683,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70206,
+      "num": 89293,
+      "word": "11岁男生被5人校外殴打致轻伤",
+      "onboard_time": 1761375620,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 69183,
@@ -1667,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64849,
+      "num": 153322,
+      "word": "台湾古建筑群正房大门朝向大陆",
+      "onboard_time": 1761375620,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64804,
       "num": 71146,
       "word": "祖国大陆离台湾最近的距离",
@@ -1729,14 +1889,6 @@
       "onboard_time": 1761321560,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 59985,
-      "num": 100931,
-      "word": "四大平台男主剧对打",
-      "onboard_time": 1761374541,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 57291,
@@ -1825,6 +1977,14 @@
       "onboard_time": 1761324978,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36324,
+      "num": 91296,
+      "word": "惊天魔盗团5分钟盗5亿钻石",
+      "onboard_time": 1761376940,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 36079,
@@ -1961,6 +2121,14 @@
       "onboard_time": 1761338834,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8163,
+      "num": 91034,
+      "word": "蛋烘糕主理人走红后营业至凌晨",
+      "onboard_time": 1761376401,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

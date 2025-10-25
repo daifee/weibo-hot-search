@@ -1,0 +1,410 @@
+{
+  "runTime": 1761376989005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1712838,
+        "num": 1712838,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462327,
+        "num": 462327,
+        "word": "事业编",
+        "onboard_time": 1761370040,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4654,
+        "num": 319534,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272166,
+        "num": 272166,
+        "word": "俄军无人机绑棍子捅落乌无人机",
+        "onboard_time": 1761375321,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157489,
+        "num": 157489,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304314,
+        "num": 156709,
+        "word": "天地剑心剧情毫无波澜",
+        "onboard_time": 1761375260,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181285,
+        "num": 156240,
+        "word": "四大平台男主剧对打",
+        "onboard_time": 1761374541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248538,
+        "num": 155658,
+        "word": "天地剑心热度",
+        "onboard_time": 1761371300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155074,
+        "num": 155074,
+        "word": "肖战带火的锦州不止烧烤",
+        "onboard_time": 1761375500,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 154955,
+        "word": "上海机场总经理辞职",
+        "onboard_time": 1761366441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819104,
+        "num": 154915,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532889,
+        "num": 154789,
+        "word": "蒋欣吃太多被经纪人看管了",
+        "onboard_time": 1761372620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436011,
+        "num": 154577,
+        "word": "易烊千玺参加补办毕业典礼",
+        "onboard_time": 1761364880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390261,
+        "num": 154479,
+        "word": "王晶曝王祖贤离开娱乐圈原因",
+        "onboard_time": 1761363023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352161,
+        "num": 154428,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279740,
+        "num": 154290,
+        "word": "杜海涛毕业全英文演讲",
+        "onboard_time": 1761359358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243193,
+        "num": 154175,
+        "word": "6岁女童与哥哥争抢手机后突发脑梗",
+        "onboard_time": 1761371540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190525,
+        "num": 154003,
+        "word": "三大影后居然坐一起讨论怎么养鸡",
+        "onboard_time": 1761371241,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152151,
+        "num": 153799,
+        "word": "胡先煦开机照",
+        "onboard_time": 1761375500,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144570,
+        "num": 153708,
+        "word": "绑架中国公民3名嫌犯被击毙",
+        "onboard_time": 1761375801,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191016,
+        "num": 153651,
+        "word": "何赛飞后悔当着梁朝伟面唱评弹",
+        "onboard_time": 1761375980,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188256,
+        "num": 153496,
+        "word": "你把最难卖的一块买走了",
+        "onboard_time": 1761364699,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 153322,
+        "word": "台湾古建筑群正房大门朝向大陆",
+        "onboard_time": 1761375620,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153277,
+        "num": 153277,
+        "word": "彭小苒这7秒浓颜的冲击力",
+        "onboard_time": 1761375980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153076,
+        "num": 153076,
+        "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+        "onboard_time": 1761371540,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146305,
+        "num": 146305,
+        "word": "程相 音乐节",
+        "onboard_time": 1761375980,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138734,
+        "num": 138734,
+        "word": "泰国诗丽吉王太后去世",
+        "onboard_time": 1761357559,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108012,
+        "num": 127027,
+        "word": "天地剑心 淮水竹亭",
+        "onboard_time": 1761376640,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97688,
+        "num": 122936,
+        "word": "鸡排哥音乐节代排费达299元",
+        "onboard_time": 1761375201,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90605,
+        "num": 121981,
+        "word": "成毅打戏",
+        "onboard_time": 1761373400,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121769,
+        "num": 121769,
+        "word": "金店回应125克金手链剪开倒出沙子",
+        "onboard_time": 1761363681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121560,
+        "num": 121560,
+        "word": "泰国理财神童离世",
+        "onboard_time": 1761363200,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 119817,
+        "word": "旅游6年赚2600万",
+        "onboard_time": 1761365601,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105548,
+        "num": 105548,
+        "word": "金正恩摸脸拥抱伤愈援俄士兵",
+        "onboard_time": 1761371719,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101981,
+        "num": 101981,
+        "word": "尚雯婕法语把赵昭仪说的一愣一愣的",
+        "onboard_time": 1761376581,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98393,
+        "num": 98393,
+        "word": "爸爸的QQ空间",
+        "onboard_time": 1761375139,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "孙颖莎太阳塑",
+        "onboard_time": 1761376280,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94183,
+        "num": 94183,
+        "word": "原来大家小时候的审美都是一样的",
+        "onboard_time": 1761371780,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36324,
+        "num": 91296,
+        "word": "惊天魔盗团5分钟盗5亿钻石",
+        "onboard_time": 1761376940,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8163,
+        "num": 91034,
+        "word": "蛋烘糕主理人走红后营业至凌晨",
+        "onboard_time": 1761376401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90939,
+        "num": 90939,
+        "word": "九尾cos",
+        "onboard_time": 1761376760,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89451,
+        "num": 89451,
+        "word": "宋威龙 幻梦已破碎",
+        "onboard_time": 1761372920,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70206,
+        "num": 89293,
+        "word": "11岁男生被5人校外殴打致轻伤",
+        "onboard_time": 1761375620,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 89246,
+        "num": 89246,
+        "word": "男童喝珍珠奶茶窒息身亡最新进展",
+        "onboard_time": 1761366981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88263,
+        "num": 88263,
+        "word": "王者荣耀本命英雄来电",
+        "onboard_time": 1761373400,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88216,
+        "num": 88216,
+        "word": "有金店结婚三金直逼10万元",
+        "onboard_time": 1761375021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86547,
+        "num": 86547,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85297,
+        "num": 85297,
+        "word": "文化失语症",
+        "onboard_time": 1761376340,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79987,
+        "num": 79987,
+        "word": "杨瀚森2分2盖帽1篮板",
+        "onboard_time": 1761372139,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 79767,
+        "word": "王者荣耀嘉年华排队",
+        "onboard_time": 1761376940,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
