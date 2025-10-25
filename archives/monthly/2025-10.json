@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761388825402,
+  "endTime": 1761391220785,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1491,6 +1491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1262946,
+      "num": 1262946,
+      "word": "Bin lpl加油",
+      "onboard_time": 1761389783,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1257776,
       "num": 1257776,
       "word": "国考公告",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1759291101,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022654,
+      "num": 411947,
+      "word": "章泽天的耳环被指价值77.5万元",
+      "onboard_time": 1761387322,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 1021121,
@@ -7107,6 +7123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 578394,
+      "num": 411515,
+      "word": "马頔想收版权费了",
+      "onboard_time": 1761386241,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578248,
       "num": 895847,
       "word": "上海",
@@ -10875,14 +10899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 435692,
-      "num": 258172,
-      "word": "马頔想收版权费了",
-      "onboard_time": 1761386241,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435235,
       "num": 200863,
       "word": "闫妮 中年孟子义",
@@ -11595,6 +11611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412904,
+      "num": 412904,
+      "word": "Knight泪光",
+      "onboard_time": 1761389062,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 412880,
       "num": 289596,
       "word": "国庆档票房前3",
@@ -11953,6 +11977,14 @@
       "onboard_time": 1760192723,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399763,
+      "num": 399763,
+      "word": "Knight lpl加油拿个冠军吧",
+      "onboard_time": 1761390022,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 399617,
@@ -12481,6 +12513,14 @@
       "onboard_time": 1760095460,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382767,
+      "num": 223984,
+      "word": "金饰克价跌到1222元",
+      "onboard_time": 1761386962,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 382617,
@@ -13660,7 +13700,7 @@
     },
     {
       "raw_hot": 350314,
-      "num": 200025,
+      "num": 220466,
       "word": "见过最惊为天人的美貌",
       "onboard_time": 1761388581,
       "rank": 20,
@@ -14827,6 +14867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321724,
+      "num": 412900,
+      "word": "电影澎湖海战预告",
+      "onboard_time": 1761389662,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321490,
       "num": 321490,
       "word": "明代石刻 禁止早婚",
@@ -15961,6 +16009,14 @@
       "onboard_time": 1759742842,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302048,
+      "num": 410722,
+      "word": "王青音乐节",
+      "onboard_time": 1761388760,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 301892,
@@ -17107,6 +17163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281961,
+      "num": 220760,
+      "word": "彭小苒 翻红",
+      "onboard_time": 1761388401,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281744,
       "num": 281744,
       "word": "国台办谈设立台湾光复纪念日",
@@ -18225,6 +18289,14 @@
       "onboard_time": 1760052378,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263656,
+      "num": 263656,
+      "word": "小白熊 退役",
+      "onboard_time": 1761388282,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 263599,
@@ -19435,6 +19507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245915,
+      "num": 167141,
+      "word": "Elk发BLG合照",
+      "onboard_time": 1761390741,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245910,
       "num": 228652,
       "word": "支付宝回应内斗传闻",
@@ -19609,14 +19689,6 @@
       "onboard_time": 1761095961,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 243346,
-      "num": 202053,
-      "word": "章泽天的耳环被指价值77.5万元",
-      "onboard_time": 1761387322,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 243270,
@@ -20171,6 +20243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235717,
+      "num": 235717,
+      "word": "iG",
+      "onboard_time": 1761388941,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235587,
       "num": 235701,
       "word": "热剧cp是演出来的不是卖出来的",
@@ -20537,6 +20617,14 @@
       "onboard_time": 1759396341,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "Bin别退役",
+      "onboard_time": 1761388461,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 229911,
@@ -23667,14 +23755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199479,
-      "num": 199479,
-      "word": "Bin别退役",
-      "onboard_time": 1761388461,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199463,
       "num": 199463,
       "word": "南方人冬天洗衣一晾就是一周",
@@ -25955,6 +26035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188220,
+      "num": 188220,
+      "word": "张雅琪不是用力过猛是真给力",
+      "onboard_time": 1761389121,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188168,
       "num": 188168,
       "word": "女子久坐16小时火车旅游心脏骤停",
@@ -26531,6 +26619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184617,
+      "num": 180663,
+      "word": "Angelababy直播造型",
+      "onboard_time": 1761389181,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184605,
       "num": 184605,
       "word": "命悬一生烂芒果",
@@ -26689,6 +26785,14 @@
       "onboard_time": 1759571060,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183718,
+      "num": 183718,
+      "word": "西安成了刘宇宁痛城",
+      "onboard_time": 1761390441,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 183608,
@@ -27001,6 +27105,22 @@
       "onboard_time": 1759667483,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182052,
+      "num": 162127,
+      "word": "河北一小区单元楼发生十几公分沉降",
+      "onboard_time": 1761387561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182051,
+      "num": 412339,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181975,
@@ -28515,6 +28635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174213,
+      "num": 174213,
+      "word": "冯建宇音乐节",
+      "onboard_time": 1761390682,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174173,
       "num": 174173,
       "word": "绿茶出场最短的短剧出现了",
@@ -29115,14 +29243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171351,
-      "num": 171351,
-      "word": "彭小苒 翻红",
-      "onboard_time": 1761388401,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171322,
       "num": 171322,
       "word": "代号鸢",
@@ -29659,6 +29779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168808,
+      "num": 189422,
+      "word": "龚俊暗河传热度超9800",
+      "onboard_time": 1761390622,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168783,
       "num": 168783,
       "word": "咪不要看 是黑图",
@@ -29833,14 +29961,6 @@
       "onboard_time": 1759299680,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167980,
-      "num": 167980,
-      "word": "小白熊 退役",
-      "onboard_time": 1761388282,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 167955,
@@ -33363,14 +33483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154071,
-      "num": 246983,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154048,
       "num": 433215,
       "word": "原来猫咪上床一点也不脏",
@@ -33697,6 +33809,14 @@
       "onboard_time": 1760943800,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152714,
+      "num": 187221,
+      "word": "天地剑心直播",
+      "onboard_time": 1761390561,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 152612,
@@ -36347,14 +36467,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "河北一小区单元楼发生十几公分沉降",
-      "onboard_time": 1761387561,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143161,
       "num": 143161,
       "word": "黄奕的礼服拉链好懂事",
@@ -36721,6 +36833,14 @@
       "onboard_time": 1761046580,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141739,
+      "num": 141739,
+      "word": "4岁女童吞硬币家人海姆立克无效",
+      "onboard_time": 1761390022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141704,
@@ -38907,14 +39027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135308,
-      "num": 201916,
-      "word": "金饰克价跌到1222元",
-      "onboard_time": 1761386962,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135305,
       "num": 135305,
       "word": "张维伊婚后状态",
@@ -39273,6 +39385,14 @@
       "onboard_time": 1760057541,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134685,
+      "num": 134685,
+      "word": "王者周年皮肤全齐活",
+      "onboard_time": 1761388880,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 134637,
@@ -39707,6 +39827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133509,
+      "num": 133509,
+      "word": "MKOI对战T1",
+      "onboard_time": 1761389721,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133490,
       "num": 133490,
       "word": "比亚迪召回115783辆汽车",
@@ -39857,6 +39985,14 @@
       "onboard_time": 1761042680,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132984,
+      "num": 132984,
+      "word": "我复刻了刘亦菲满天星妆造",
+      "onboard_time": 1761391103,
+      "rank": 47,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 132983,
@@ -41561,6 +41697,14 @@
       "onboard_time": 1759549699,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128535,
+      "num": 128535,
+      "word": "男主折寿十年让女主化形成人",
+      "onboard_time": 1761390201,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 128534,
@@ -45587,6 +45731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119707,
+      "num": 186388,
+      "word": "深圳机场会同航空公司启动核查",
+      "onboard_time": 1761391042,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119690,
       "num": 252224,
       "word": "王曼昱晋级中国大满贯4强",
@@ -46905,14 +47057,6 @@
       "onboard_time": 1759829541,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "王青音乐节",
-      "onboard_time": 1761388760,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 117401,
@@ -51259,6 +51403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109585,
+      "num": 127589,
+      "word": "这样泡脚身体越泡越虚",
+      "onboard_time": 1761390982,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -52388,7 +52540,7 @@
     },
     {
       "raw_hot": 107650,
-      "num": 126386,
+      "num": 184716,
       "word": "樊振东的这场比赛含金量还在上升",
       "onboard_time": 1761388040,
       "rank": 39,
@@ -67092,7 +67244,7 @@
     },
     {
       "raw_hot": 81856,
-      "num": 133213,
+      "num": 142696,
       "word": "36位烈士的亲人找到了",
       "onboard_time": 1761385462,
       "rank": 37,
@@ -76323,6 +76475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49492,
+      "num": 136542,
+      "word": "纪念台湾光复80周年大会召开",
+      "onboard_time": 1761389121,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49479,
       "num": 191740,
       "word": "景区回应卫生间自来水有尿味",
@@ -79355,6 +79515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33549,
+      "num": 141793,
+      "word": "吉林一火车站白天关闭4个多小时",
+      "onboard_time": 1761390622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33473,
       "num": 113696,
       "word": "手持影像大小王走哪儿都是主场",
@@ -80737,6 +80905,14 @@
       "onboard_time": 1760968702,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 141988,
+      "word": "水均益否认移民",
+      "onboard_time": 1761390622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26033,
@@ -83329,6 +83505,14 @@
       "onboard_time": 1759501582,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3470,
+      "num": 1208449,
+      "word": "我国长期向好的基本趋势没有变",
+      "onboard_time": 1761351981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2342,

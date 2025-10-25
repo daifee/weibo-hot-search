@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761388825402,
+  "endTime": 1761391220785,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1262946,
+      "num": 1262946,
+      "word": "Bin lpl加油",
+      "onboard_time": 1761389783,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1148197,
       "num": 1148197,
       "word": "BLG淘汰",
@@ -81,6 +89,14 @@
       "onboard_time": 1761359358,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022654,
+      "num": 411947,
+      "word": "章泽天的耳环被指价值77.5万元",
+      "onboard_time": 1761387322,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 978727,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578394,
+      "num": 411515,
+      "word": "马頔想收版权费了",
+      "onboard_time": 1761386241,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546078,
       "num": 258869,
       "word": "阿Sa祝福陈伟霆",
@@ -283,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 435692,
-      "num": 258172,
-      "word": "马頔想收版权费了",
-      "onboard_time": 1761386241,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 433511,
       "num": 433511,
       "word": "泰国诗丽吉王太后去世",
@@ -299,12 +315,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 412904,
+      "num": 412904,
+      "word": "Knight泪光",
+      "onboard_time": 1761389062,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405070,
       "num": 161891,
       "word": "妈妈因病去世女儿狂转眼珠不让泪流",
       "onboard_time": 1761320241,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399763,
+      "num": 399763,
+      "word": "Knight lpl加油拿个冠军吧",
+      "onboard_time": 1761390022,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 382767,
+      "num": 223984,
+      "word": "金饰克价跌到1222元",
+      "onboard_time": 1761386962,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 378863,
@@ -332,7 +372,7 @@
     },
     {
       "raw_hot": 350314,
-      "num": 200025,
+      "num": 220466,
       "word": "见过最惊为天人的美貌",
       "onboard_time": 1761388581,
       "rank": 20,
@@ -387,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321724,
+      "num": 412900,
+      "word": "电影澎湖海战预告",
+      "onboard_time": 1761389662,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319551,
       "num": 226433,
       "word": "易烊千玺毕业照",
@@ -425,6 +473,14 @@
       "onboard_time": 1761387021,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 302048,
+      "num": 410722,
+      "word": "王青音乐节",
+      "onboard_time": 1761388760,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 301763,
@@ -491,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281961,
+      "num": 220760,
+      "word": "彭小苒 翻红",
+      "onboard_time": 1761388401,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277147,
       "num": 212075,
       "word": "金店回应125克金手链剪开倒出沙子",
@@ -505,6 +569,14 @@
       "onboard_time": 1761375321,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 263656,
+      "num": 263656,
+      "word": "小白熊 退役",
+      "onboard_time": 1761388282,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 263425,
@@ -555,12 +627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 243346,
-      "num": 202053,
-      "word": "章泽天的耳环被指价值77.5万元",
-      "onboard_time": 1761387322,
-      "rank": 30,
-      "category": "网红"
+      "raw_hot": 245915,
+      "num": 167141,
+      "word": "Elk发BLG合照",
+      "onboard_time": 1761390741,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 239106,
@@ -579,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235717,
+      "num": 235717,
+      "word": "iG",
+      "onboard_time": 1761388941,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232611,
       "num": 93531,
       "word": "刘冲吐槽宋威龙拍照实力",
@@ -593,6 +673,14 @@
       "onboard_time": 1761304699,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "Bin别退役",
+      "onboard_time": 1761388461,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 228273,
@@ -665,14 +753,6 @@
       "onboard_time": 1761310522,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199479,
-      "num": 199479,
-      "word": "Bin别退役",
-      "onboard_time": 1761388461,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 196127,
@@ -755,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188220,
+      "num": 188220,
+      "word": "张雅琪不是用力过猛是真给力",
+      "onboard_time": 1761389121,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187888,
       "num": 248560,
       "word": "赵丽颖宣传黄晓明新片",
@@ -795,6 +883,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184617,
+      "num": 180663,
+      "word": "Angelababy直播造型",
+      "onboard_time": 1761389181,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183718,
+      "num": 183718,
+      "word": "西安成了刘宇宁痛城",
+      "onboard_time": 1761390441,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 182052,
+      "num": 162127,
+      "word": "河北一小区单元楼发生十几公分沉降",
+      "onboard_time": 1761387561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182051,
+      "num": 412339,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177245,
       "num": 177245,
       "word": "九尾这样都能被认出来",
@@ -819,12 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171351,
-      "num": 171351,
-      "word": "彭小苒 翻红",
-      "onboard_time": 1761388401,
+      "raw_hot": 174213,
+      "num": 174213,
+      "word": "冯建宇音乐节",
+      "onboard_time": 1761390682,
       "rank": 32,
-      "category": "剧集"
+      "category": "演出"
     },
     {
       "raw_hot": 170600,
@@ -843,12 +963,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167980,
-      "num": 167980,
-      "word": "小白熊 退役",
-      "onboard_time": 1761388282,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 168808,
+      "num": 189422,
+      "word": "龚俊暗河传热度超9800",
+      "onboard_time": 1761390622,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 166107,
@@ -963,14 +1083,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 154071,
-      "num": 246983,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "刘晓庆张柏芝不争不抢睡哪都行",
@@ -1000,6 +1112,14 @@
       "word": "邱莹莹我开始理解你了",
       "onboard_time": 1761308421,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152714,
+      "num": 187221,
+      "word": "天地剑心直播",
+      "onboard_time": 1761390561,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1091,20 +1211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "河北一小区单元楼发生十几公分沉降",
-      "onboard_time": 1761387561,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143073,
       "num": 132993,
       "word": "杨紫被路人认出只用了0.01s",
       "onboard_time": 1761305600,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141739,
+      "num": 141739,
+      "word": "4岁女童吞硬币家人海姆立克无效",
+      "onboard_time": 1761390022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141495,
@@ -1219,12 +1339,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135308,
-      "num": 201916,
-      "word": "金饰克价跌到1222元",
-      "onboard_time": 1761386962,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 134685,
+      "num": 134685,
+      "word": "王者周年皮肤全齐活",
+      "onboard_time": 1761388880,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133509,
+      "num": 133509,
+      "word": "MKOI对战T1",
+      "onboard_time": 1761389721,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 132984,
+      "num": 132984,
+      "word": "我复刻了刘亦菲满天星妆造",
+      "onboard_time": 1761391103,
+      "rank": 47,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 132765,
@@ -1281,6 +1417,14 @@
       "onboard_time": 1761355879,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128535,
+      "num": 128535,
+      "word": "男主折寿十年让女主化形成人",
+      "onboard_time": 1761390201,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 127346,
@@ -1427,6 +1571,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 119707,
+      "num": 186388,
+      "word": "深圳机场会同航空公司启动核查",
+      "onboard_time": 1761391042,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119677,
       "num": 119677,
       "word": "整个宿舍都是歌姬是什么体验",
@@ -1457,14 +1609,6 @@
       "onboard_time": 1761386181,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117429,
-      "num": 117429,
-      "word": "王青音乐节",
-      "onboard_time": 1761388760,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 117166,
@@ -1651,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109585,
+      "num": 127589,
+      "word": "这样泡脚身体越泡越虚",
+      "onboard_time": 1761390982,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109551,
       "num": 125909,
       "word": "澎湖海战",
@@ -1692,7 +1844,7 @@
     },
     {
       "raw_hot": 107650,
-      "num": 126386,
+      "num": 184716,
       "word": "樊振东的这场比赛含金量还在上升",
       "onboard_time": 1761388040,
       "rank": 39,
@@ -1825,6 +1977,14 @@
       "onboard_time": 1761363740,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101746,
+      "num": 1791552,
+      "word": "志愿军出国作战75周年",
+      "onboard_time": 1761386841,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100644,
@@ -2308,7 +2468,7 @@
     },
     {
       "raw_hot": 81856,
-      "num": 133213,
+      "num": 142696,
       "word": "36位烈士的亲人找到了",
       "onboard_time": 1761385462,
       "rank": 37,
@@ -2763,14 +2923,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58016,
-      "num": 1791552,
-      "word": "志愿军出国作战75周年",
-      "onboard_time": 1761386841,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 57291,
       "num": 606908,
       "word": "世界市长对话郑州",
@@ -2817,6 +2969,14 @@
       "onboard_time": 1761308842,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49492,
+      "num": 136542,
+      "word": "纪念台湾光复80周年大会召开",
+      "onboard_time": 1761389121,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46105,
@@ -2931,6 +3091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33549,
+      "num": 141793,
+      "word": "吉林一火车站白天关闭4个多小时",
+      "onboard_time": 1761390622,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32420,
       "num": 127691,
       "word": "贵州一煤矿按工资分级收取伙食费",
@@ -2969,6 +3137,14 @@
       "onboard_time": 1761319643,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 141988,
+      "word": "水均益否认移民",
+      "onboard_time": 1761390622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25612,
@@ -3073,6 +3249,14 @@
       "onboard_time": 1761376401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3470,
+      "num": 1208449,
+      "word": "我国长期向好的基本趋势没有变",
+      "onboard_time": 1761351981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2048,
