@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761419982669,
+  "endTime": 1761421040577,
   "band_list": [
     {
       "raw_hot": 1114184,
@@ -513,6 +513,14 @@
       "onboard_time": 1761393862,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13956,
+      "num": 24001,
+      "word": "Beichuan掩面ELK捂鼻",
+      "onboard_time": 1761404903,
+      "rank": 46,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

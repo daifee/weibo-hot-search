@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 03:19:42
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 03:37:20
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%88%B6%E7%89%87%E4%BA%BA%E4%BA%AC%E4%B8%9C%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%918%E9%98%B5%E5%AE%B9%23" target="weibo">
 花少制片人京东直播回应花少8阵容（热度：15544）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Beichuan%E6%8E%A9%E9%9D%A2ELK%E6%8D%82%E9%BC%BB%23" target="weibo">
+Beichuan掩面ELK捂鼻（热度：13956）
 </a>
 </li>
 
