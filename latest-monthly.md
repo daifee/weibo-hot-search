@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 13:40:17
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 14:34:50
 </p>
 </blockquote>
 <p>
@@ -2327,6 +2327,12 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%AC%E4%B8%BB%E7%9A%87%E5%86%A0%23" target="weibo">
 Angelababy公主皇冠（热度：925479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E5%9B%A0%E6%89%8B%E9%9C%87%E5%B7%B2%E6%88%92%E9%85%92%E4%B8%80%E5%B9%B4%E5%A4%9A%23" target="weibo">
+阿娇因手震已戒酒一年多（热度：924043）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%AF%B4%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%85%BB%E5%A8%98%E5%AE%B6%23" target="weibo">
 向太说郭碧婷养娘家（热度：533679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2300%E4%B8%87%E9%A2%84%E7%AE%971000%E5%85%83%E4%B8%AD%E6%A0%87%E9%87%87%E8%B4%AD%E6%9A%82%E5%81%9C%23" target="weibo">
-医院300万预算1000元中标采购暂停（热度：533001）
 </a>
 </li>
 

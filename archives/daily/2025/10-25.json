@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761370817937,
+  "endTime": 1761374090981,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -56,6 +56,14 @@
       "word": "易烊千玺参加补办毕业典礼",
       "onboard_time": 1761364880,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 924043,
+      "num": 161768,
+      "word": "阿娇因手震已戒酒一年多",
+      "onboard_time": 1761371840,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 501397,
-      "num": 194839,
+      "num": 198820,
       "word": "天地剑心",
       "onboard_time": 1761317841,
       "rank": 40,
@@ -195,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347164,
+      "num": 157810,
+      "word": "王一栩回宫",
+      "onboard_time": 1761370400,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347110,
+      "num": 347110,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346055,
       "num": 159331,
       "word": "肖战是去拍戏了不是去和亲了",
@@ -251,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289426,
+      "num": 184666,
+      "word": "天地剑心热度",
+      "onboard_time": 1761371300,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286543,
       "num": 754249,
       "word": "台湾重回中国版图80年了",
@@ -272,6 +304,14 @@
       "word": "金店回应125克金手链剪开倒出沙子",
       "onboard_time": 1761363681,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266991,
+      "num": 157534,
+      "word": "6岁女童与哥哥争抢手机后突发脑梗",
+      "onboard_time": 1761371540,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -331,11 +371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223268,
-      "num": 147947,
-      "word": "王一栩回宫",
-      "onboard_time": 1761370400,
-      "rank": 21,
+      "raw_hot": 216710,
+      "num": 156994,
+      "word": "三大影后居然坐一起讨论怎么养鸡",
+      "onboard_time": 1761371241,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -387,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197381,
+      "num": 155762,
+      "word": "蒋欣吃太多被经纪人看管了",
+      "onboard_time": 1761372620,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195980,
       "num": 195980,
       "word": "东契奇爆砍49分11篮板",
@@ -417,6 +465,14 @@
       "onboard_time": 1761348318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185715,
+      "num": 185715,
+      "word": "成毅打戏",
+      "onboard_time": 1761373400,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 175284,
@@ -571,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144693,
+      "num": 144693,
+      "word": "西藏文旅真的把奔跑吧许来了",
+      "onboard_time": 1761373821,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144353,
       "num": 63167,
       "word": "何赛飞向张柏芝道歉",
@@ -635,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136242,
+      "num": 136242,
+      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+      "onboard_time": 1761371540,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135719,
       "num": 135719,
       "word": "马吟吟没有戏拍",
@@ -649,6 +721,14 @@
       "onboard_time": 1761368841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130889,
+      "num": 130889,
+      "word": "王者荣耀本命英雄来电",
+      "onboard_time": 1761373400,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 130416,
@@ -699,6 +779,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 127050,
+      "num": 127050,
+      "word": "金正恩摸脸拥抱伤愈援俄士兵",
+      "onboard_time": 1761371719,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126373,
       "num": 126373,
       "word": "15万元被当垃圾扔了",
@@ -721,6 +809,22 @@
       "onboard_time": 1761348077,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123904,
+      "num": 123904,
+      "word": "原来大家小时候的审美都是一样的",
+      "onboard_time": 1761371780,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122601,
+      "num": 126150,
+      "word": "杨瀚森2分2盖帽1篮板",
+      "onboard_time": 1761372139,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 121958,
@@ -763,6 +867,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117166,
+      "num": 117166,
+      "word": "向佐去跳团播了",
+      "onboard_time": 1761370460,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115946,
       "num": 183952,
       "word": "一路繁花2谁拿了李小冉的剧本",
@@ -784,6 +896,14 @@
       "word": "张柏芝 大儿子管我管得很凶",
       "onboard_time": 1761308421,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114539,
+      "num": 125597,
+      "word": "花儿与少年",
+      "onboard_time": 1761372079,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -835,20 +955,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110573,
+      "num": 110573,
+      "word": "樊振东荣获2025年大本钟奖",
+      "onboard_time": 1761373581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110127,
       "num": 110127,
       "word": "薛之谦把欧阳娜娜当逗号用",
       "onboard_time": 1761357020,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109644,
-      "num": 109644,
-      "word": "事业编",
-      "onboard_time": 1761370040,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 109551,
@@ -937,6 +1057,30 @@
       "onboard_time": 1761363740,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100469,
+      "num": 100469,
+      "word": "船员出海难忍晕船自杀家人发声",
+      "onboard_time": 1761373281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100067,
+      "num": 100067,
+      "word": "李施嬅车崇健",
+      "onboard_time": 1761372680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99754,
+      "num": 99754,
+      "word": "原神优菈",
+      "onboard_time": 1761373761,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 99486,
@@ -1035,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93974,
+      "num": 93974,
+      "word": "左凌峰女装",
+      "onboard_time": 1761372800,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93707,
       "num": 93707,
       "word": "山西立法对剩女标签说不",
@@ -1065,6 +1217,14 @@
       "onboard_time": 1761308061,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90529,
+      "num": 90529,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1761373161,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 89795,
@@ -1147,12 +1307,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84302,
+      "num": 84302,
+      "word": "夜宴",
+      "onboard_time": 1761374061,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84296,
       "num": 84296,
       "word": "鹿晗香港演唱会",
       "onboard_time": 1761309622,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84014,
+      "num": 84014,
+      "word": "五月天上海",
+      "onboard_time": 1761373940,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83357,
+      "num": 83357,
+      "word": "Faker被问是否三连冠",
+      "onboard_time": 1761371660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83327,
+      "num": 83327,
+      "word": "吴敬平发文祝贺樊振东获奖",
+      "onboard_time": 1761372020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82959,
@@ -1193,6 +1385,14 @@
       "onboard_time": 1761359299,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 80770,
+      "num": 101070,
+      "word": "宋威龙 幻梦已破碎",
+      "onboard_time": 1761372920,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 80159,
@@ -1515,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47987,
-      "num": 89884,
-      "word": "向佐去跳团播了",
-      "onboard_time": 1761370460,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44578,
       "num": 81396,
       "word": "宝格丽CEO给刘亦菲带的词条",
@@ -1585,6 +1777,14 @@
       "onboard_time": 1761366981,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35918,
+      "num": 102893,
+      "word": "生肉刷色变鲜红",
+      "onboard_time": 1761373341,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34362,

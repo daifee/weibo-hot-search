@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761370817937,
+  "endTime": 1761374090981,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -633,6 +633,14 @@
       "onboard_time": 1761015559,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 924043,
+      "num": 161768,
+      "word": "阿娇因手震已戒酒一年多",
+      "onboard_time": 1761371840,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 919452,
@@ -3291,6 +3299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347164,
+      "num": 157810,
+      "word": "王一栩回宫",
+      "onboard_time": 1761370400,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347110,
+      "num": 347110,
+      "word": "事业编",
+      "onboard_time": 1761370040,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346067,
       "num": 1115559,
       "word": "国台办回应台湾网红馆长宣布来京",
@@ -4091,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289426,
+      "num": 184666,
+      "word": "天地剑心热度",
+      "onboard_time": 1761371300,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288290,
       "num": 288290,
       "word": "向往的生活",
@@ -4409,6 +4441,14 @@
       "onboard_time": 1760838740,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266991,
+      "num": 157534,
+      "word": "6岁女童与哥哥争抢手机后突发脑梗",
+      "onboard_time": 1761371540,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266615,
@@ -5067,14 +5107,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 223268,
-      "num": 147947,
-      "word": "王一栩回宫",
-      "onboard_time": 1761370400,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222549,
       "num": 222549,
       "word": "刘冲踩到刘亦菲裙子",
@@ -5209,6 +5241,14 @@
       "onboard_time": 1761203361,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216710,
+      "num": 156994,
+      "word": "三大影后居然坐一起讨论怎么养鸡",
+      "onboard_time": 1761371241,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 215759,
@@ -5793,6 +5833,14 @@
       "onboard_time": 1761226104,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197381,
+      "num": 155762,
+      "word": "蒋欣吃太多被经纪人看管了",
+      "onboard_time": 1761372620,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 197315,
@@ -6416,6 +6464,14 @@
       "word": "罗云熙评论区好多人啊",
       "onboard_time": 1760941641,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185715,
+      "num": 185715,
+      "word": "成毅打戏",
+      "onboard_time": 1761373400,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -8771,6 +8827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144693,
+      "num": 144693,
+      "word": "西藏文旅真的把奔跑吧许来了",
+      "onboard_time": 1761373821,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144610,
       "num": 217155,
       "word": "钟楚曦工作室审美",
@@ -9307,6 +9371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136242,
+      "num": 136242,
+      "word": "孙子遭继母打骂奶奶房产传孙不传儿",
+      "onboard_time": 1761371540,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136200,
       "num": 136200,
       "word": "南通替补门将神了",
@@ -9779,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130889,
+      "num": 130889,
+      "word": "王者荣耀本命英雄来电",
+      "onboard_time": 1761373400,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130855,
       "num": 130855,
       "word": "家里不乱的可以买回去添乱",
@@ -10137,6 +10217,14 @@
       "onboard_time": 1761353540,
       "rank": 27,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 127050,
+      "num": 127050,
+      "word": "金正恩摸脸拥抱伤愈援俄士兵",
+      "onboard_time": 1761371719,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127019,
@@ -10531,6 +10619,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 123904,
+      "num": 123904,
+      "word": "原来大家小时候的审美都是一样的",
+      "onboard_time": 1761371780,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123866,
       "num": 123866,
       "word": "黑龙江一地惊现黑熊上街",
@@ -10665,6 +10761,14 @@
       "onboard_time": 1761319222,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122601,
+      "num": 126150,
+      "word": "杨瀚森2分2盖帽1篮板",
+      "onboard_time": 1761372139,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 122597,
@@ -11347,6 +11451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117166,
+      "num": 117166,
+      "word": "向佐去跳团播了",
+      "onboard_time": 1761370460,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117058,
       "num": 117058,
       "word": "鹤男回关全伊伦",
@@ -11601,6 +11713,14 @@
       "onboard_time": 1760883742,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114539,
+      "num": 125597,
+      "word": "花儿与少年",
+      "onboard_time": 1761372079,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 114417,
@@ -12155,6 +12275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110573,
+      "num": 110573,
+      "word": "樊振东荣获2025年大本钟奖",
+      "onboard_time": 1761373581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110498,
       "num": 110498,
       "word": "金价惊魂一夜后大妈挤爆金店",
@@ -12305,14 +12433,6 @@
       "onboard_time": 1760880683,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109644,
-      "num": 109644,
-      "word": "事业编",
-      "onboard_time": 1761370040,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 109568,
@@ -13659,6 +13779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100469,
+      "num": 100469,
+      "word": "船员出海难忍晕船自杀家人发声",
+      "onboard_time": 1761373281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100462,
       "num": 410244,
       "word": "女子帮母亲大扫除扔掉50万黄金首饰",
@@ -13715,6 +13843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100067,
+      "num": 100067,
+      "word": "李施嬅车崇健",
+      "onboard_time": 1761372680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99927,
       "num": 573122,
       "word": "看见一个绝望的射手",
@@ -13729,6 +13865,14 @@
       "onboard_time": 1761132921,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99754,
+      "num": 99754,
+      "word": "原神优菈",
+      "onboard_time": 1761373761,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 99744,
@@ -14571,6 +14715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93974,
+      "num": 93974,
+      "word": "左凌峰女装",
+      "onboard_time": 1761372800,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93942,
       "num": 566933,
       "word": "原来孕妇不能睡电热毯",
@@ -15145,6 +15297,14 @@
       "onboard_time": 1761282442,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90529,
+      "num": 90529,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1761373161,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 90525,
@@ -16235,6 +16395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84302,
+      "num": 84302,
+      "word": "夜宴",
+      "onboard_time": 1761374061,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84248,
       "num": 84248,
       "word": "其实你已经嫁给学校了",
@@ -16281,6 +16449,14 @@
       "onboard_time": 1761039441,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84014,
+      "num": 84014,
+      "word": "五月天上海",
+      "onboard_time": 1761373940,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 83938,
@@ -16353,6 +16529,22 @@
       "onboard_time": 1761112462,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83357,
+      "num": 83357,
+      "word": "Faker被问是否三连冠",
+      "onboard_time": 1761371660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83327,
+      "num": 83327,
+      "word": "吴敬平发文祝贺樊振东获奖",
+      "onboard_time": 1761372020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83304,
@@ -16729,6 +16921,14 @@
       "onboard_time": 1761112701,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80770,
+      "num": 101070,
+      "word": "宋威龙 幻梦已破碎",
+      "onboard_time": 1761372920,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 80694,
@@ -19763,14 +19963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47987,
-      "num": 89884,
-      "word": "向佐去跳团播了",
-      "onboard_time": 1761370460,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47680,
       "num": 120173,
       "word": "外卖小哥为抄近路跳进大明湖",
@@ -20433,6 +20625,14 @@
       "onboard_time": 1761261137,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35918,
+      "num": 102893,
+      "word": "生肉刷色变鲜红",
+      "onboard_time": 1761373341,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35407,
