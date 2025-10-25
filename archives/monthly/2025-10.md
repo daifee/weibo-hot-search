@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 11:49:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 12:29:54
 </p>
 </blockquote>
 <p>
@@ -1025,6 +1025,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%23" target="weibo">
 许我耀眼（热度：1322444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E6%9B%9D%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A6%BB%E5%BC%80%E5%A8%B1%E4%B9%90%E5%9C%88%E5%8E%9F%E5%9B%A0%23" target="weibo">
+王晶曝王祖贤离开娱乐圈原因（热度：1318525）
 </a>
 </li>
 
@@ -3245,6 +3251,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E8%B4%A4%E7%BB%99%E4%B8%87%E9%B9%8F%E9%81%93%E6%AD%89%23" target="weibo">
 张慧贤给万鹏道歉（热度：785694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%90%86%E8%B4%A2%E7%A5%9E%E7%AB%A5%E7%A6%BB%E4%B8%96%23" target="weibo">
+泰国理财神童离世（热度：785407）
 </a>
 </li>
 
@@ -5793,8 +5805,8 @@ BLG战胜VKS（热度：543735）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%90%86%E8%B4%A2%E7%A5%9E%E7%AB%A5%E7%A6%BB%E4%B8%96%23" target="weibo">
-泰国理财神童离世（热度：543023）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%82%E5%8A%A0%E8%A1%A5%E5%8A%9E%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23" target="weibo">
+易烊千玺参加补办毕业典礼（热度：543059）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E8%BF%9E%E7%BB%AD5%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%BF%9B%E4%B8%8D%E4%BA%86%E7%AB%99%23" target="weibo">
 高速连续5个服务区进不了站（热度：532521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E7%9A%84%E9%AD%94%E4%B8%B8%E9%83%BD%E5%9C%A8%E8%BF%99%E4%B8%AA%E7%8F%AD%E9%87%8C%E4%BA%86%23" target="weibo">
-全校的魔丸都在这个班里了（热度：532338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A2%9C%E6%AD%A3%E5%9B%BD%E5%8E%BB%E4%B8%96%23" target="weibo">
-演员颜正国去世（热度：532329）
 </a>
 </li>
 
