@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761384998846,
+  "endTime": 1761387908658,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -9,6 +9,22 @@
       "onboard_time": 1761348797,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4195096,
+      "num": 4195096,
+      "word": "TES战胜BLG",
+      "onboard_time": 1761386062,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 3921368,
+      "num": 3921368,
+      "word": "Bin 16强退役",
+      "onboard_time": 1761386721,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 3669694,
@@ -347,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1148197,
+      "num": 1148197,
+      "word": "BLG淘汰",
+      "onboard_time": 1761386902,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1147348,
       "num": 1183575,
       "word": "VOGUE晚宴",
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 978727,
-      "num": 241982,
+      "num": 287469,
       "word": "陈伟霆说儿子长大签英皇",
       "onboard_time": 1761381860,
       "rank": 10,
@@ -617,6 +641,14 @@
       "onboard_time": 1760935280,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 963104,
+      "num": 295772,
+      "word": "杨振宁给翁帆的永别信",
+      "onboard_time": 1761385521,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 952458,
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 901362,
-      "num": 254562,
+      "num": 267941,
       "word": "和易烊千玺合照只需要一句师哥",
       "onboard_time": 1761377060,
       "rank": 17,
@@ -1532,7 +1564,7 @@
     },
     {
       "raw_hot": 608197,
-      "num": 230899,
+      "num": 276944,
       "word": "郑智化怒斥深圳机场",
       "onboard_time": 1761382941,
       "rank": 13,
@@ -2475,6 +2507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 449063,
+      "num": 449063,
+      "word": "TES对战BLG",
+      "onboard_time": 1761378501,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 448289,
       "num": 448289,
       "word": "李沁和苏暮雨一起破局",
@@ -2705,14 +2745,6 @@
       "onboard_time": 1761264021,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 425739,
-      "num": 425739,
-      "word": "TES对战BLG",
-      "onboard_time": 1761378501,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 425159,
@@ -3643,6 +3675,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 328231,
+      "num": 258172,
+      "word": "马頔想收版权费了",
+      "onboard_time": 1761386241,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328117,
       "num": 224120,
       "word": "瘦10斤比我瘦20斤都明显",
@@ -4001,6 +4041,14 @@
       "onboard_time": 1761203421,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304146,
+      "num": 304146,
+      "word": "TES晋级八强",
+      "onboard_time": 1761387021,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 302957,
@@ -4755,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257393,
+      "num": 257393,
+      "word": "内娱求跪第一人",
+      "onboard_time": 1761384022,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256326,
       "num": 1032745,
       "word": "卢浮宫遭劫已立案调查",
@@ -4777,6 +4833,14 @@
       "onboard_time": 1760866221,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254495,
+      "num": 254495,
+      "word": "李沁马思纯拒绝争张晚意",
+      "onboard_time": 1761385821,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 253670,
@@ -5105,14 +5169,6 @@
       "onboard_time": 1761218001,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 229350,
-      "num": 186391,
-      "word": "内娱求跪第一人",
-      "onboard_time": 1761384022,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 229175,
@@ -6051,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196127,
+      "num": 196127,
+      "word": "TE对战MRC",
+      "onboard_time": 1761386721,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195980,
       "num": 195980,
       "word": "东契奇爆砍49分11篮板",
@@ -6539,6 +6603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187888,
+      "num": 248560,
+      "word": "赵丽颖宣传黄晓明新片",
+      "onboard_time": 1761386543,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187596,
       "num": 187596,
       "word": "今天武汉将响起这个声音",
@@ -6987,6 +7059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177245,
+      "num": 177245,
+      "word": "九尾这样都能被认出来",
+      "onboard_time": 1761386782,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177204,
       "num": 202705,
       "word": "张凌赫 我的新郎",
@@ -7161,6 +7241,14 @@
       "onboard_time": 1761325637,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174185,
+      "num": 174185,
+      "word": "章泽天的耳环被指价值77.5万元",
+      "onboard_time": 1761387322,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 174067,
@@ -7699,6 +7787,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 164985,
+      "num": 164985,
+      "word": "女子谈恋爱2个月被骗181万",
+      "onboard_time": 1761384441,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164928,
       "num": 198433,
       "word": "X剧场首部女性罪案剧",
@@ -7777,6 +7873,14 @@
       "onboard_time": 1760967500,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164336,
+      "num": 176279,
+      "word": "纪伯宰明意雨中拥吻",
+      "onboard_time": 1761387142,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 164294,
@@ -8331,6 +8435,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 155624,
+      "num": 155624,
+      "word": "小猫舔毛时会帮你舔任何东西",
+      "onboard_time": 1761383840,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155622,
       "num": 155622,
       "word": "妈妈挖的藕被全国网友夸了",
@@ -8449,6 +8561,14 @@
       "onboard_time": 1760929280,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154071,
+      "num": 246983,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154048,
@@ -9035,14 +9155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145809,
-      "num": 145809,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 145663,
       "num": 141874,
       "word": "男子被野蜂蜇死母亲因伤痛离世",
@@ -9251,14 +9363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142969,
-      "num": 116719,
-      "word": "小猫舔毛时会帮你舔任何东西",
-      "onboard_time": 1761383840,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142904,
       "num": 138800,
       "word": "胡先煦被孟子义三连问整红温",
@@ -9465,6 +9569,14 @@
       "onboard_time": 1760858361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139483,
+      "num": 176016,
+      "word": "水龙吟女孩被养父出卖配阴婚",
+      "onboard_time": 1761385401,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 139455,
@@ -9889,6 +10001,14 @@
       "onboard_time": 1761019821,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133888,
+      "num": 176862,
+      "word": "金饰克价跌到1222元",
+      "onboard_time": 1761386962,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 133675,
@@ -11811,6 +11931,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117562,
+      "num": 117562,
+      "word": "BLG也陷入绝境了",
+      "onboard_time": 1761386181,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117458,
+      "num": 117458,
+      "word": "河北一小区单元楼发生十几公分沉降",
+      "onboard_time": 1761387561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117455,
       "num": 117455,
       "word": "也是让龚俊常华森搞上殡葬一条龙了",
@@ -11873,6 +12009,14 @@
       "onboard_time": 1761113482,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116901,
+      "num": 116901,
+      "word": "花海今天长这样",
+      "onboard_time": 1761387322,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 116812,
@@ -11953,14 +12097,6 @@
       "onboard_time": 1761277461,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116256,
-      "num": 116256,
-      "word": "女子谈恋爱2个月被骗181万",
-      "onboard_time": 1761384441,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115946,
@@ -12372,7 +12508,7 @@
     },
     {
       "raw_hot": 112636,
-      "num": 112636,
+      "num": 1791552,
       "word": "志愿军出国作战75周年",
       "onboard_time": 1760833822,
       "rank": 27,
@@ -13041,6 +13177,14 @@
       "onboard_time": 1761105262,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108703,
+      "num": 108703,
+      "word": "小米SU7Ultra前舱空气动力学升级",
+      "onboard_time": 1761385580,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 108652,
@@ -14315,6 +14459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100543,
+      "num": 100543,
+      "word": "狗子们在面包山上吃晕碳了",
+      "onboard_time": 1761384500,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100482,
       "num": 100482,
       "word": "苏醒居然集齐了快男和偶练人脉",
@@ -14659,14 +14811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98156,
-      "num": 98156,
-      "word": "狗子们在面包山上吃晕碳了",
-      "onboard_time": 1761384500,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98138,
       "num": 130131,
       "word": "王楚钦张百乔互相称哥",
@@ -14913,6 +15057,14 @@
       "onboard_time": 1761268341,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96375,
+      "num": 133053,
+      "word": "北川决胜局登场",
+      "onboard_time": 1761387501,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 96278,
@@ -16467,6 +16619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87437,
+      "num": 134894,
+      "word": "邹敬园双杠15.300分",
+      "onboard_time": 1761386721,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87414,
       "num": 87414,
       "word": "全场只有伴郎在结婚状态",
@@ -17419,6 +17579,14 @@
       "category": "海外新闻,汽车"
     },
     {
+      "raw_hot": 81856,
+      "num": 133213,
+      "word": "36位烈士的亲人找到了",
+      "onboard_time": 1761385462,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81838,
       "num": 562480,
       "word": "冬天洗澡的禁忌",
@@ -17889,6 +18057,14 @@
       "onboard_time": 1761353479,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 78731,
+      "num": 100530,
+      "word": "姚明吃饭睡觉打魔兽",
+      "onboard_time": 1761387859,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78695,
@@ -19739,6 +19915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62359,
+      "num": 246579,
+      "word": "抖音双11承包了我的心头好",
+      "onboard_time": 1761386721,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62351,
       "num": 606110,
       "word": "食贫道采访的日本专家称日本完了",
@@ -20283,6 +20467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56051,
+      "num": 175248,
+      "word": "国民媳妇3分钟8次惊呆9次哇塞",
+      "onboard_time": 1761385521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56019,
       "num": 56019,
       "word": "张泽禹或将加入声生不息",
@@ -20457,6 +20649,14 @@
       "onboard_time": 1761175459,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53064,
+      "num": 130651,
+      "word": "孟佳肉眼可见冷到发抖",
+      "onboard_time": 1761386902,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 52757,

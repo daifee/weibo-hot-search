@@ -1,0 +1,410 @@
+{
+  "runTime": 1761387908658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4195096,
+        "num": 4195096,
+        "word": "TES战胜BLG",
+        "onboard_time": 1761386062,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3921368,
+        "num": 3921368,
+        "word": "Bin 16强退役",
+        "onboard_time": 1761386721,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58016,
+        "num": 1791552,
+        "word": "志愿军出国作战75周年",
+        "onboard_time": 1761386841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1148197,
+        "num": 1148197,
+        "word": "BLG淘汰",
+        "onboard_time": 1761386902,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 857313,
+        "num": 857313,
+        "word": "泰国宣布禁娱30天",
+        "onboard_time": 1761378380,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 806776,
+        "num": 806776,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449063,
+        "num": 449063,
+        "word": "TES对战BLG",
+        "onboard_time": 1761378501,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 392345,
+        "num": 392345,
+        "word": "景区观光小火车疑坠海致多人伤亡",
+        "onboard_time": 1761379821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304146,
+        "num": 304146,
+        "word": "TES晋级八强",
+        "onboard_time": 1761387021,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186646,
+        "num": 303206,
+        "word": "天地剑心剧情毫无波澜",
+        "onboard_time": 1761375260,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 963104,
+        "num": 295772,
+        "word": "杨振宁给翁帆的永别信",
+        "onboard_time": 1761385521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701034,
+        "num": 287469,
+        "word": "陈伟霆说儿子长大签英皇",
+        "onboard_time": 1761381860,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567365,
+        "num": 276944,
+        "word": "郑智化怒斥深圳机场",
+        "onboard_time": 1761382941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430472,
+        "num": 267941,
+        "word": "和易烊千玺合照只需要一句师哥",
+        "onboard_time": 1761377060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328231,
+        "num": 258172,
+        "word": "马頔想收版权费了",
+        "onboard_time": 1761386241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257393,
+        "num": 257393,
+        "word": "内娱求跪第一人",
+        "onboard_time": 1761384022,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254495,
+        "num": 254495,
+        "word": "李沁马思纯拒绝争张晚意",
+        "onboard_time": 1761385821,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187888,
+        "num": 248560,
+        "word": "赵丽颖宣传黄晓明新片",
+        "onboard_time": 1761386543,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154071,
+        "num": 246983,
+        "word": "八路军活捉日军现场画面",
+        "onboard_time": 1761380361,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62359,
+        "num": 246579,
+        "word": "抖音双11承包了我的心头好",
+        "onboard_time": 1761386721,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246565,
+        "num": 246565,
+        "word": "阿娇因手震已戒酒一年多",
+        "onboard_time": 1761371840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196127,
+        "num": 196127,
+        "word": "TE对战MRC",
+        "onboard_time": 1761386721,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187472,
+        "num": 187472,
+        "word": "易烊千玺毕业照",
+        "onboard_time": 1761380901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177245,
+        "num": 177245,
+        "word": "九尾这样都能被认出来",
+        "onboard_time": 1761386782,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133888,
+        "num": 176862,
+        "word": "金饰克价跌到1222元",
+        "onboard_time": 1761386962,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164336,
+        "num": 176279,
+        "word": "纪伯宰明意雨中拥吻",
+        "onboard_time": 1761387142,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139483,
+        "num": 176016,
+        "word": "水龙吟女孩被养父出卖配阴婚",
+        "onboard_time": 1761385401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56051,
+        "num": 175248,
+        "word": "国民媳妇3分钟8次惊呆9次哇塞",
+        "onboard_time": 1761385521,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136717,
+        "num": 174773,
+        "word": "四大平台男主剧对打",
+        "onboard_time": 1761374541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130758,
+        "num": 174241,
+        "word": "重庆市副市长江敦涛被查",
+        "onboard_time": 1761378380,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174185,
+        "num": 174185,
+        "word": "章泽天的耳环被指价值77.5万元",
+        "onboard_time": 1761387322,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173319,
+        "num": 173319,
+        "word": "瘦10斤比我瘦20斤都明显",
+        "onboard_time": 1761378501,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 164985,
+        "word": "女子谈恋爱2个月被骗181万",
+        "onboard_time": 1761384441,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 155624,
+        "word": "小猫舔毛时会帮你舔任何东西",
+        "onboard_time": 1761383840,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137068,
+        "num": 137068,
+        "word": "张晚意快把李沁掰折了",
+        "onboard_time": 1761379760,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80818,
+        "num": 136163,
+        "word": "武汉防空警报",
+        "onboard_time": 1761379702,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87437,
+        "num": 134894,
+        "word": "邹敬园双杠15.300分",
+        "onboard_time": 1761386721,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81856,
+        "num": 133213,
+        "word": "36位烈士的亲人找到了",
+        "onboard_time": 1761385462,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96375,
+        "num": 133053,
+        "word": "北川决胜局登场",
+        "onboard_time": 1761387501,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53064,
+        "num": 130651,
+        "word": "孟佳肉眼可见冷到发抖",
+        "onboard_time": 1761386902,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "天地剑心 淮水竹亭",
+        "onboard_time": 1761376640,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 130320,
+        "word": "阿娇被问何超莲窦骁婚变传闻",
+        "onboard_time": 1761381200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130170,
+        "num": 130170,
+        "word": "水龙吟",
+        "onboard_time": 1761387741,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "BLG也陷入绝境了",
+        "onboard_time": 1761386181,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117458,
+        "num": 117458,
+        "word": "河北一小区单元楼发生十几公分沉降",
+        "onboard_time": 1761387561,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116901,
+        "num": 116901,
+        "word": "花海今天长这样",
+        "onboard_time": 1761387322,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108703,
+        "num": 108703,
+        "word": "小米SU7Ultra前舱空气动力学升级",
+        "onboard_time": 1761385580,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106636,
+        "num": 106636,
+        "word": "蒋欣吃太多被经纪人看管了",
+        "onboard_time": 1761372620,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100543,
+        "num": 100543,
+        "word": "狗子们在面包山上吃晕碳了",
+        "onboard_time": 1761384500,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78731,
+        "num": 100530,
+        "word": "姚明吃饭睡觉打魔兽",
+        "onboard_time": 1761387859,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}
