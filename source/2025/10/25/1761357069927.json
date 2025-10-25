@@ -1,0 +1,410 @@
+{
+  "runTime": 1761357069927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2730000,
+        "num": 2730000,
+        "word": "台湾",
+        "onboard_time": 1761348797,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593991,
+        "num": 593991,
+        "word": "iPhone18系列迎史上最大革新",
+        "onboard_time": 1761354381,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50137,
+        "num": 547056,
+        "word": "世界市长对话郑州",
+        "onboard_time": 1761317182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509470,
+        "num": 509470,
+        "word": "台湾光复全岛狂欢3天",
+        "onboard_time": 1761353421,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378863,
+        "num": 378863,
+        "word": "1万多衣服被88岁老人9块卖了",
+        "onboard_time": 1761347238,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196900,
+        "num": 196900,
+        "word": "有史以来再见最快的爱人",
+        "onboard_time": 1761345255,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168328,
+        "num": 168328,
+        "word": "台湾重回中国版图80年了",
+        "onboard_time": 1761331635,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153692,
+        "num": 153692,
+        "word": "抗美援朝纪念日",
+        "onboard_time": 1761326297,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152507,
+        "num": 152507,
+        "word": "10月25日对中国人的意义",
+        "onboard_time": 1761352339,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 151187,
+        "word": "台湾光复80周年",
+        "onboard_time": 1761323599,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1527003,
+        "num": 150841,
+        "word": "杨受成为陈伟霆儿子准备几十万足金",
+        "onboard_time": 1761355821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533679,
+        "num": 150678,
+        "word": "向太说郭碧婷养娘家",
+        "onboard_time": 1761348257,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365259,
+        "num": 150569,
+        "word": "男子嫖宿遭拒持刀割划女子颈部致死",
+        "onboard_time": 1761352460,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149529,
+        "num": 149529,
+        "word": "科学家称外星人或已懒得理我们",
+        "onboard_time": 1761312441,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141300,
+        "num": 141300,
+        "word": "医院打造亚朵病房被亚朵酒店起诉",
+        "onboard_time": 1761310940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231018,
+        "num": 139974,
+        "word": "李金铭 我只是跑出去玩啦",
+        "onboard_time": 1761318742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187348,
+        "num": 137073,
+        "word": "女子回应买猪食槽收纳孩子玩具",
+        "onboard_time": 1761348318,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177489,
+        "num": 134249,
+        "word": "多方回应3岁幼童喝珍珠奶茶被噎身亡",
+        "onboard_time": 1761315862,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176786,
+        "num": 132209,
+        "word": "肖战是去拍戏了不是去和亲了",
+        "onboard_time": 1761319340,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 131808,
+        "word": "郑恺苗苗真没把我们当外人",
+        "onboard_time": 1761310702,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306322,
+        "num": 131564,
+        "word": "女子耳骨增生自己用钳子剪掉",
+        "onboard_time": 1761353960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152764,
+        "num": 130937,
+        "word": "邱莹莹我开始理解你了",
+        "onboard_time": 1761308421,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145663,
+        "num": 130578,
+        "word": "男子被野蜂蜇死母亲因伤痛离世",
+        "onboard_time": 1761355879,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138418,
+        "num": 129712,
+        "word": "山西明确禁止歧视虐待生育女婴的妇女",
+        "onboard_time": 1761352401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "原来恩利才是内娱社交悍匪啊",
+        "onboard_time": 1761355039,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128513,
+        "num": 128513,
+        "word": "一个大窝囊废养了两只小窝囊废",
+        "onboard_time": 1761355879,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "金正恩参谒志愿军陵园",
+        "onboard_time": 1761352339,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127091,
+        "num": 127091,
+        "word": "多地金店素金戒指卖断货",
+        "onboard_time": 1761353540,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 73044,
+        "num": 113458,
+        "word": "天地剑心",
+        "onboard_time": 1761317841,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70049,
+        "num": 112018,
+        "word": "魏大勋新剧年上苏感",
+        "onboard_time": 1761353720,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111423,
+        "num": 111423,
+        "word": "男子登顶雪山同时看到两座日照金山",
+        "onboard_time": 1761356600,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109400,
+        "num": 109400,
+        "word": "多平台已取消仅退款服务",
+        "onboard_time": 1761348077,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 109038,
+        "word": "员工脚痛请假因步数超1.6万被开除",
+        "onboard_time": 1761310100,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100211,
+        "num": 100211,
+        "word": "今天一起致敬最可爱的人",
+        "onboard_time": 1761322942,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99486,
+        "num": 99486,
+        "word": "当你摸羊摸到一半突然走人",
+        "onboard_time": 1761354319,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93531,
+        "num": 93531,
+        "word": "刘冲吐槽宋威龙拍照实力",
+        "onboard_time": 1761325998,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89392,
+        "num": 89392,
+        "word": "鹿晗背头西装",
+        "onboard_time": 1761352880,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89045,
+        "num": 89045,
+        "word": "刘亦菲伊能静恩利后台拥抱",
+        "onboard_time": 1761325637,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88321,
+        "num": 88321,
+        "word": "宁静儿子因掉水里先救妈妈被分手",
+        "onboard_time": 1761306261,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87507,
+        "num": 87507,
+        "word": "医生建议频繁洗澡不如多泡脚",
+        "onboard_time": 1761319103,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85676,
+        "num": 85676,
+        "word": "羽绒服这么穿才暖和",
+        "onboard_time": 1761353179,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84802,
+        "num": 84802,
+        "word": "妈妈因病去世女儿狂转眼珠不让泪流",
+        "onboard_time": 1761320241,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82199,
+        "num": 82199,
+        "word": "年休假能隔年休吗",
+        "onboard_time": 1761356660,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78774,
+        "num": 78774,
+        "word": "董宇辉初中英语从27分到全年级第一",
+        "onboard_time": 1761353479,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76436,
+        "num": 76436,
+        "word": "胜利属于每个中国人",
+        "onboard_time": 1761323000,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72948,
+        "num": 72948,
+        "word": "全球资产集体爆发",
+        "onboard_time": 1761353660,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71355,
+        "num": 71355,
+        "word": "Faker岩雀绝境一抬三",
+        "onboard_time": 1761353601,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69183,
+        "num": 69183,
+        "word": "国家安全部发布盼归短视频",
+        "onboard_time": 1761356779,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69123,
+        "num": 69123,
+        "word": "薛之谦把欧阳娜娜当逗号用",
+        "onboard_time": 1761357020,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62942,
+        "num": 68337,
+        "word": "kandi的diss",
+        "onboard_time": 1761355700,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力开创中国式现代化建设新局面#"
+    }
+  }
+}
