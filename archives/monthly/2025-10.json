@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761396307681,
+  "endTime": 1761397205800,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -6091,6 +6091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 642361,
+      "num": 368120,
+      "word": "刘宇宁剪短发了",
+      "onboard_time": 1761394341,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 640138,
       "num": 196807,
       "word": "刘亦菲临场反应",
@@ -6913,6 +6921,14 @@
       "onboard_time": 1760180422,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593326,
+      "num": 593326,
+      "word": "吉林珲春5.5级地震",
+      "onboard_time": 1761395425,
+      "rank": 22,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 592408,
@@ -8331,6 +8347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 524752,
+      "num": 366493,
+      "word": "卖小麦收28万却被冻结母子痛哭",
+      "onboard_time": 1761391821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524732,
       "num": 654572,
       "word": "邓莎一个人再见什么爱人",
@@ -9233,14 +9257,6 @@
       "onboard_time": 1760429660,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 490258,
-      "num": 366493,
-      "word": "卖小麦收28万却被冻结母子痛哭",
-      "onboard_time": 1761391821,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489847,
@@ -10937,14 +10953,6 @@
       "onboard_time": 1760973621,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 435630,
-      "num": 353227,
-      "word": "刘宇宁剪短发了",
-      "onboard_time": 1761394341,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 435235,
@@ -13435,6 +13443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361782,
+      "num": 348033,
+      "word": "长期戴眼镜导致的面部变化",
+      "onboard_time": 1761391641,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361160,
       "num": 361160,
       "word": "日本3比2巴西",
@@ -13873,14 +13889,6 @@
       "onboard_time": 1761186979,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348033,
-      "num": 348033,
-      "word": "长期戴眼镜导致的面部变化",
-      "onboard_time": 1761391641,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 347956,
@@ -14795,6 +14803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326045,
+      "num": 326045,
+      "word": "江西一公安局副局长为黑恶势力站台",
+      "onboard_time": 1761395781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325868,
       "num": 325868,
       "word": "网友称买10斤芒果礼盒3斤是书",
@@ -15537,14 +15553,6 @@
       "onboard_time": 1760106324,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312569,
-      "num": 312569,
-      "word": "吉林珲春5.5级地震",
-      "onboard_time": 1761395425,
-      "rank": 22,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 312165,
@@ -17329,6 +17337,14 @@
       "onboard_time": 1760329763,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 281291,
+      "num": 356340,
+      "word": "专家怀疑太阳系星际访客系航天器",
+      "onboard_time": 1761395302,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281136,
@@ -20009,14 +20025,6 @@
       "onboard_time": 1759362139,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239926,
-      "num": 239926,
-      "word": "江西一公安局副局长为黑恶势力站台",
-      "onboard_time": 1761395781,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239897,
@@ -22873,6 +22881,14 @@
       "onboard_time": 1759727601,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205587,
+      "num": 328866,
+      "word": "天地剑心审美",
+      "onboard_time": 1761396201,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 205413,
@@ -25961,6 +25977,14 @@
       "onboard_time": 1759467861,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189074,
+      "num": 189074,
+      "word": "JackeyLove感谢兄弟们",
+      "onboard_time": 1761396681,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 189072,
@@ -30211,6 +30235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167593,
+      "num": 167593,
+      "word": "S15八强对阵",
+      "onboard_time": 1761396561,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167523,
       "num": 167523,
       "word": "婚礼跳河男子30多小时还没找到",
@@ -32948,7 +32980,7 @@
     },
     {
       "raw_hot": 156588,
-      "num": 156588,
+      "num": 161056,
       "word": "金博洋自由滑",
       "onboard_time": 1761395901,
       "rank": 40,
@@ -33481,6 +33513,14 @@
       "onboard_time": 1760757570,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154672,
+      "num": 154672,
+      "word": "王栎鑫只需轻轻出手",
+      "onboard_time": 1761396742,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 154644,
@@ -34777,14 +34817,6 @@
       "onboard_time": 1760584339,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149669,
-      "num": 149669,
-      "word": "天地剑心审美",
-      "onboard_time": 1761396201,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 149662,
@@ -37163,6 +37195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141116,
+      "num": 141116,
+      "word": "姿态神之一手",
+      "onboard_time": 1761396863,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141068,
       "num": 141068,
       "word": "狐妖小红娘黄风岭篇备案",
@@ -37857,6 +37897,14 @@
       "onboard_time": 1761377118,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139267,
+      "num": 139267,
+      "word": "这种凳子请走出大学",
+      "onboard_time": 1761395781,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 139251,
@@ -39256,6 +39304,14 @@
       "word": "男子23点59卡点下高速省1300元",
       "onboard_time": 1759990643,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135223,
+      "num": 316000,
+      "word": "男子杀母后网购裹尸袋并盗母亲财物",
+      "onboard_time": 1761396082,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -44953,6 +45009,14 @@
       "onboard_time": 1759467923,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122001,
+      "num": 122001,
+      "word": "奥黛丽赫本之子在苏州胜诉",
+      "onboard_time": 1761397041,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 121971,
@@ -69763,6 +69827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76743,
+      "num": 358540,
+      "word": "花少制片人京东直播回应花少8阵容",
+      "onboard_time": 1761393862,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76729,
       "num": 76729,
       "word": "四代台历",
@@ -75403,14 +75475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55752,
-      "num": 358540,
-      "word": "花少制片人京东直播回应花少8阵容",
-      "onboard_time": 1761393862,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55719,
       "num": 136876,
       "word": "专家建议设立里斯本丸沉船纪念日",
@@ -77499,14 +77563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45838,
-      "num": 284755,
-      "word": "男子杀母后网购裹尸袋并盗母亲财物",
-      "onboard_time": 1761396082,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45766,
       "num": 116767,
       "word": "朋友圈和现实风格差别能有多大",
@@ -78867,6 +78923,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 38713,
+      "num": 197440,
+      "word": "于适KimJones剪刀手合影",
+      "onboard_time": 1761391821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38696,
       "num": 131864,
       "word": "痞幼巴黎时装周妆造",
@@ -79251,14 +79315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36653,
-      "num": 197440,
-      "word": "于适KimJones剪刀手合影",
-      "onboard_time": 1761391821,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36608,
       "num": 91570,
       "word": "主人回应金毛拦婚车收200元红包",
@@ -79625,14 +79681,6 @@
       "onboard_time": 1759424777,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34631,
-      "num": 356340,
-      "word": "专家怀疑太阳系星际访客系航天器",
-      "onboard_time": 1761395302,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34548,

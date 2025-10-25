@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 20:45:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/25 21:00:05
 </p>
 </blockquote>
 <p>
@@ -4581,6 +4581,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%89%AA%E7%9F%AD%E5%8F%91%E4%BA%86%23" target="weibo">
+刘宇宁剪短发了（热度：642361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23" target="weibo">
 刘亦菲临场反应（热度：640138）
 </a>
@@ -5195,6 +5201,12 @@ A股太强了（热度：593831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%81%E5%90%89%E5%8F%91%E6%96%87%E6%9C%89%E7%97%85%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9C%89%E4%BA%8B%E6%89%BE%E6%B3%95%E9%99%A2%23" target="weibo">
 王老吉发文有病去医院有事找法院（热度：593437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E7%8F%B2%E6%98%A55.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+吉林珲春5.5级地震（热度：593326）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ VOGUE 这个时候需要苏芒（热度：541890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
 日媒称日本将迎来首位女首相（热度：539588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
-杭州有人600元时囤150万黄金（热度：539215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E7%94%9F%E6%9C%88%E7%A7%9F1500%E5%85%83%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2%23" target="weibo">
-27岁女生月租1500元住进养老院（热度：538932）
 </a>
 </li>
 
