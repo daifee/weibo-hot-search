@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761381006424,
+  "endTime": 1761381816259,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 901362,
+      "num": 254562,
+      "word": "和易烊千玺合照只需要一句师哥",
+      "onboard_time": 1761377060,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 884018,
       "num": 217188,
       "word": "被冻醒",
@@ -753,6 +761,14 @@
       "onboard_time": 1761222263,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 842985,
+      "num": 842985,
+      "word": "武汉防空警报",
+      "onboard_time": 1761379702,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 842934,
@@ -835,28 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 803903,
-      "num": 803903,
-      "word": "武汉防空警报",
-      "onboard_time": 1761379702,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 801334,
       "num": 455005,
       "word": "野人小孩",
       "onboard_time": 1760799862,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 799879,
-      "num": 254562,
-      "word": "和易烊千玺合照只需要一句师哥",
-      "onboard_time": 1761377060,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 799654,
@@ -3499,6 +3499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 338951,
+      "num": 234424,
+      "word": "张晚意快把李沁掰折了",
+      "onboard_time": 1761379760,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338626,
       "num": 436562,
       "word": "日本首位女首相的政策比男人还男人",
@@ -3721,6 +3729,14 @@
       "onboard_time": 1761047661,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319551,
+      "num": 226433,
+      "word": "易烊千玺毕业照",
+      "onboard_time": 1761380901,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 319107,
@@ -4251,6 +4267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285921,
+      "num": 285921,
+      "word": "天地剑心 淮水竹亭",
+      "onboard_time": 1761376640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285716,
       "num": 285716,
       "word": "Ning说GEN是故意输AL",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1760960300,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283805,
+      "num": 283805,
+      "word": "重庆市副市长江敦涛被查",
+      "onboard_time": 1761378380,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 283303,
@@ -4707,22 +4739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254562,
-      "num": 254562,
-      "word": "天地剑心 淮水竹亭",
-      "onboard_time": 1761376640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 254552,
-      "num": 254551,
-      "word": "重庆市副市长江敦涛被查",
-      "onboard_time": 1761378380,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 253670,
       "num": 253670,
       "word": "12306新增积分兑换座位升席功能",
@@ -5017,14 +5033,6 @@
       "onboard_time": 1760850800,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 234424,
-      "num": 234424,
-      "word": "张晚意快把李沁掰折了",
-      "onboard_time": 1761379760,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 234038,
@@ -5475,6 +5483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 208871,
+      "num": 208871,
+      "word": "景区观光小火车疑坠海致多人伤亡",
+      "onboard_time": 1761379821,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208420,
       "num": 436316,
       "word": "易烊千玺山花重逢",
@@ -5561,14 +5577,6 @@
       "onboard_time": 1761366981,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206160,
-      "num": 206160,
-      "word": "易烊千玺毕业照",
-      "onboard_time": 1761380901,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 206113,
@@ -5971,14 +5979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196657,
-      "num": 196657,
-      "word": "景区观光小火车疑坠海致多人伤亡",
-      "onboard_time": 1761379821,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196541,
       "num": 1006106,
       "word": "Chovy说TES很倒霉",
@@ -6096,6 +6096,14 @@
       "word": "宴遇永安好虐",
       "onboard_time": 1761062900,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194810,
+      "num": 1272777,
+      "word": "云合",
+      "onboard_time": 1761037522,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -6299,6 +6307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191295,
+      "num": 191295,
+      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+      "onboard_time": 1761377781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191016,
       "num": 155574,
       "word": "何赛飞后悔当着梁朝伟面唱评弹",
@@ -6377,6 +6393,14 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189200,
+      "num": 189200,
+      "word": "瘦10斤比我瘦20斤都明显",
+      "onboard_time": 1761378501,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 189015,
@@ -6473,6 +6497,14 @@
       "onboard_time": 1761216142,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187596,
+      "num": 187596,
+      "word": "今天武汉将响起这个声音",
+      "onboard_time": 1761380600,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187583,
@@ -6689,14 +6721,6 @@
       "onboard_time": 1761279682,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183589,
-      "num": 183589,
-      "word": "瘦10斤比我瘦20斤都明显",
-      "onboard_time": 1761378501,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 183528,
@@ -7587,14 +7611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165939,
-      "num": 1272777,
-      "word": "云合",
-      "onboard_time": 1761037522,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165867,
       "num": 435153,
       "word": "我人生TOP1的自驾游",
@@ -7617,14 +7633,6 @@
       "onboard_time": 1760850320,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165502,
-      "num": 165502,
-      "word": "今天武汉将响起这个声音",
-      "onboard_time": 1761380600,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 165252,
@@ -8227,14 +8235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157308,
-      "num": 157308,
-      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
-      "onboard_time": 1761377781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157155,
       "num": 138746,
       "word": "胡锡进谈小米呼吁抵制黑公关和水军",
@@ -8348,7 +8348,7 @@
     },
     {
       "raw_hot": 154629,
-      "num": 132586,
+      "num": 142486,
       "word": "从不午睡vs天天午睡",
       "onboard_time": 1761379280,
       "rank": 31,
@@ -9123,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144282,
+      "num": 144282,
+      "word": "阿娇被问何超莲窦骁婚变传闻",
+      "onboard_time": 1761381200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144163,
       "num": 972113,
       "word": "狼队对战JDG",
@@ -9385,6 +9393,14 @@
       "onboard_time": 1760861600,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139501,
+      "num": 110382,
+      "word": "马龙说不做体育就做旅游博主",
+      "onboard_time": 1761380720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139485,
@@ -10321,6 +10337,14 @@
       "onboard_time": 1761355879,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128490,
+      "num": 128490,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128428,
@@ -13595,14 +13619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103340,
-      "num": 103340,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103269,
       "num": 103269,
       "word": "小时候根本不懂大人的言外之意",
@@ -13681,6 +13697,14 @@
       "onboard_time": 1760845101,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103155,
+      "num": 103155,
+      "word": "白敬亭好像冷宫里疯了的妃子",
+      "onboard_time": 1761381140,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 103112,
@@ -14539,6 +14563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97657,
+      "num": 97657,
+      "word": "谢楠要把家门密码给陈妍希",
+      "onboard_time": 1761381380,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97615,
       "num": 97615,
       "word": "张本智和终于是霸王了",
@@ -14633,6 +14665,14 @@
       "onboard_time": 1761269541,
       "rank": 40,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 96739,
+      "num": 96739,
+      "word": "JackeyLove 别送",
+      "onboard_time": 1761381380,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 96716,
@@ -15369,6 +15409,14 @@
       "onboard_time": 1761092661,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92786,
+      "num": 92786,
+      "word": "谁来救救九尾的腹肌",
+      "onboard_time": 1761380781,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 92687,
@@ -16587,6 +16635,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 85569,
+      "num": 85569,
+      "word": "鸡排哥巡炸南京站排出蛇形长队",
+      "onboard_time": 1761378141,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85388,
       "num": 153274,
       "word": "王楚钦给马龙的回复好暖",
@@ -17081,6 +17137,14 @@
       "onboard_time": 1761128361,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82627,
+      "num": 81730,
+      "word": "要是高三就能考公就好了",
+      "onboard_time": 1761381261,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 82570,
@@ -19387,6 +19451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62859,
+      "num": 105680,
+      "word": "云南房子被外地人买爆",
+      "onboard_time": 1761380961,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62816,
       "num": 451049,
       "word": "奥恰洛夫心中GOAT是张继科",
@@ -19601,14 +19673,6 @@
       "onboard_time": 1761286161,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 60636,
-      "num": 109789,
-      "word": "马龙说不做体育就做旅游博主",
-      "onboard_time": 1761380720,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 60630,
@@ -20835,6 +20899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41488,
+      "num": 209326,
+      "word": "王安宇同款饭搭子",
+      "onboard_time": 1761377660,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41145,
       "num": 99727,
       "word": "靠实体经济走向未来",
@@ -20971,14 +21043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39228,
-      "num": 105680,
-      "word": "云南房子被外地人买爆",
-      "onboard_time": 1761380961,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39147,
       "num": 53765,
       "word": "月亮姐姐回应离开少儿频道",
@@ -21073,14 +21137,6 @@
       "onboard_time": 1760811856,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37302,
-      "num": 209326,
-      "word": "王安宇同款饭搭子",
-      "onboard_time": 1761377660,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 37260,

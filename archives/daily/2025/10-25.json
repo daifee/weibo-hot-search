@@ -1,6 +1,6 @@
 {
   "startTime": 1761323569632,
-  "endTime": 1761381006424,
+  "endTime": 1761381816259,
   "band_list": [
     {
       "raw_hot": 4384753,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901362,
+      "num": 254562,
+      "word": "和易烊千玺合照只需要一句师哥",
+      "onboard_time": 1761377060,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844946,
       "num": 844946,
       "word": "设台湾光复纪念日",
@@ -83,20 +91,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 803903,
-      "num": 803903,
+      "raw_hot": 842985,
+      "num": 842985,
       "word": "武汉防空警报",
       "onboard_time": 1761379702,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 799879,
-      "num": 254562,
-      "word": "和易烊千玺合照只需要一句师哥",
-      "onboard_time": 1761377060,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 785407,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338951,
+      "num": 234424,
+      "word": "张晚意快把李沁掰折了",
+      "onboard_time": 1761379760,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332093,
       "num": 279622,
       "word": "水龙吟花了8个月才找到敖子逸",
@@ -297,6 +305,14 @@
       "onboard_time": 1761359239,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 319551,
+      "num": 226433,
+      "word": "易烊千玺毕业照",
+      "onboard_time": 1761380901,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 312769,
@@ -371,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285921,
+      "num": 285921,
+      "word": "天地剑心 淮水竹亭",
+      "onboard_time": 1761376640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283805,
+      "num": 283805,
+      "word": "重庆市副市长江敦涛被查",
+      "onboard_time": 1761378380,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 277147,
       "num": 212075,
       "word": "金店回应125克金手链剪开倒出沙子",
@@ -385,22 +417,6 @@
       "onboard_time": 1761375321,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 254562,
-      "num": 254562,
-      "word": "天地剑心 淮水竹亭",
-      "onboard_time": 1761376640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 254552,
-      "num": 254551,
-      "word": "重庆市副市长江敦涛被查",
-      "onboard_time": 1761378380,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 251387,
@@ -432,14 +448,6 @@
       "word": "有史以来再见最快的爱人",
       "onboard_time": 1761345255,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 234424,
-      "num": 234424,
-      "word": "张晚意快把李沁掰折了",
-      "onboard_time": 1761379760,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -491,20 +499,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208871,
+      "num": 208871,
+      "word": "景区观光小火车疑坠海致多人伤亡",
+      "onboard_time": 1761379821,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206186,
       "num": 218525,
       "word": "男童喝珍珠奶茶窒息身亡最新进展",
       "onboard_time": 1761366981,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206160,
-      "num": 206160,
-      "word": "易烊千玺毕业照",
-      "onboard_time": 1761380901,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 205441,
@@ -539,14 +547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 196657,
-      "num": 196657,
-      "word": "景区观光小火车疑坠海致多人伤亡",
-      "onboard_time": 1761379821,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195980,
       "num": 195980,
       "word": "东契奇爆砍49分11篮板",
@@ -555,12 +555,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194810,
+      "num": 194810,
+      "word": "云合",
+      "onboard_time": 1761380600,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191295,
+      "num": 191295,
+      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
+      "onboard_time": 1761377781,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191016,
       "num": 155574,
       "word": "何赛飞后悔当着梁朝伟面唱评弹",
       "onboard_time": 1761375980,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189200,
+      "num": 189200,
+      "word": "瘦10斤比我瘦20斤都明显",
+      "onboard_time": 1761378501,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 188788,
@@ -587,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187596,
+      "num": 187596,
+      "word": "今天武汉将响起这个声音",
+      "onboard_time": 1761380600,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187348,
       "num": 153044,
       "word": "女子回应买猪食槽收纳孩子玩具",
@@ -601,14 +633,6 @@
       "onboard_time": 1761373400,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183589,
-      "num": 183589,
-      "word": "瘦10斤比我瘦20斤都明显",
-      "onboard_time": 1761378501,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 175284,
@@ -649,22 +673,6 @@
       "onboard_time": 1761348618,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165939,
-      "num": 165939,
-      "word": "云合",
-      "onboard_time": 1761380600,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165502,
-      "num": 165502,
-      "word": "今天武汉将响起这个声音",
-      "onboard_time": 1761380600,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164765,
@@ -731,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157308,
-      "num": 157308,
-      "word": "男童窒息身亡父亲否认起诉取奶茶朋友",
-      "onboard_time": 1761377781,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156138,
       "num": 133750,
       "word": "员工脚痛请假因步数超1.6万被开除",
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 154629,
-      "num": 132586,
+      "num": 142486,
       "word": "从不午睡vs天天午睡",
       "onboard_time": 1761379280,
       "rank": 31,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144282,
+      "num": 144282,
+      "word": "阿娇被问何超莲窦骁婚变传闻",
+      "onboard_time": 1761381200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144118,
       "num": 144118,
       "word": "王者荣耀本命英雄来电",
@@ -913,6 +921,14 @@
       "onboard_time": 1761371719,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139501,
+      "num": 110382,
+      "word": "马龙说不做体育就做旅游博主",
+      "onboard_time": 1761380720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139278,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1761355879,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128490,
+      "num": 128490,
+      "word": "八路军活捉日军现场画面",
+      "onboard_time": 1761380361,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127346,
@@ -1395,12 +1419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103340,
-      "num": 103340,
-      "word": "八路军活捉日军现场画面",
-      "onboard_time": 1761380361,
-      "rank": 46,
-      "category": "国内时政"
+      "raw_hot": 103155,
+      "num": 103155,
+      "word": "白敬亭好像冷宫里疯了的妃子",
+      "onboard_time": 1761381140,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 102612,
@@ -1499,12 +1523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97657,
+      "num": 97657,
+      "word": "谢楠要把家门密码给陈妍希",
+      "onboard_time": 1761381380,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97089,
       "num": 97089,
       "word": "邵兵罕见露面力挺儿子邵子恒",
       "onboard_time": 1761319643,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96739,
+      "num": 96739,
+      "word": "JackeyLove 别送",
+      "onboard_time": 1761381380,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 96462,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1761308061,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92786,
+      "num": 92786,
+      "word": "谁来救救九尾的腹肌",
+      "onboard_time": 1761380781,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 91614,
@@ -1699,6 +1747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 85569,
+      "num": 85569,
+      "word": "鸡排哥巡炸南京站排出蛇形长队",
+      "onboard_time": 1761378141,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85335,
       "num": 85335,
       "word": "iOS26关闭液态玻璃效果并不省电",
@@ -1713,6 +1769,14 @@
       "onboard_time": 1761376340,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85297,
+      "num": 85297,
+      "word": "TES状态",
+      "onboard_time": 1761381740,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 85119,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1761367939,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82627,
+      "num": 81730,
+      "word": "要是高三就能考公就好了",
+      "onboard_time": 1761381261,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 82199,
@@ -2171,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62859,
+      "num": 105680,
+      "word": "云南房子被外地人买爆",
+      "onboard_time": 1761380961,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62575,
       "num": 106350,
       "word": "看花少7读懂了旅行的意义",
@@ -2193,14 +2273,6 @@
       "onboard_time": 1761321560,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 60636,
-      "num": 109789,
-      "word": "马龙说不做体育就做旅游博主",
-      "onboard_time": 1761380720,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 57291,
@@ -2275,6 +2347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 41488,
+      "num": 209326,
+      "word": "王安宇同款饭搭子",
+      "onboard_time": 1761377660,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40522,
       "num": 178684,
       "word": "马思纯在京东讲健康养生",
@@ -2297,22 +2377,6 @@
       "onboard_time": 1761377600,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39228,
-      "num": 105680,
-      "word": "云南房子被外地人买爆",
-      "onboard_time": 1761380961,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37302,
-      "num": 209326,
-      "word": "王安宇同款饭搭子",
-      "onboard_time": 1761377660,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 36079,
@@ -2467,7 +2531,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1912,
+      "raw_hot": 2042,
       "num": 1068489,
       "word": "介绍和解读四中全会精神",
       "onboard_time": 1761225684,
