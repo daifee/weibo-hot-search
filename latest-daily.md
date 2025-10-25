@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 02:45:52
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/26 03:19:42
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,18 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%A3%E4%BC%A0%E9%BB%84%E6%99%93%E6%98%8E%E6%96%B0%E7%89%87%23" target="weibo">
 王俊凯宣传黄晓明新片（热度：19908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E9%BB%91%E8%A2%8D%E5%89%91%E5%AE%A2%23" target="weibo">
+刘宇宁黑袍剑客（热度：17530）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%88%B6%E7%89%87%E4%BA%BA%E4%BA%AC%E4%B8%9C%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E8%8A%B1%E5%B0%918%E9%98%B5%E5%AE%B9%23" target="weibo">
+花少制片人京东直播回应花少8阵容（热度：15544）
 </a>
 </li>
 

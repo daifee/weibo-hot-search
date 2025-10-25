@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761417952399,
+  "endTime": 1761419982669,
   "band_list": [
     {
       "raw_hot": 1114184,
@@ -497,6 +497,22 @@
       "onboard_time": 1761417795,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17530,
+      "num": 24437,
+      "word": "刘宇宁黑袍剑客",
+      "onboard_time": 1761418575,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 15544,
+      "num": 24428,
+      "word": "花少制片人京东直播回应花少8阵容",
+      "onboard_time": 1761393862,
+      "rank": 48,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
