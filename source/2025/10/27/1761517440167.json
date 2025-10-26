@@ -1,0 +1,410 @@
+{
+  "runTime": 1761517440167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249667,
+        "num": 394964,
+        "word": "多名考古学家白天考古晚上盗墓",
+        "onboard_time": 1761490102,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103051,
+        "num": 103051,
+        "word": "我国3岁以下婴幼儿约3000万",
+        "onboard_time": 1761479121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1763,
+        "num": 68923,
+        "word": "党历史上又一重要纲领性文件",
+        "onboard_time": 1761450080,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65745,
+        "num": 65745,
+        "word": "东帝汶总理流泪了",
+        "onboard_time": 1761504495,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57909,
+        "num": 57909,
+        "word": "千灯之约",
+        "onboard_time": 1761493402,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64888,
+        "num": 56651,
+        "word": "盛夏芬德拉女主进组玉簟秋",
+        "onboard_time": 1761482362,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54797,
+        "num": 54797,
+        "word": "KK园区出逃人员偷渡泰国时溺亡",
+        "onboard_time": 1761486083,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49004,
+        "num": 49004,
+        "word": "打野的尽头是一片海",
+        "onboard_time": 1761493580,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39484,
+        "num": 39484,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1761475520,
+        "rank": 8,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 36270,
+        "num": 36270,
+        "word": "孕检低风险却生下唐氏儿保险拒赔",
+        "onboard_time": 1761472101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177740,
+        "num": 36255,
+        "word": "台湾豪宅双尸案",
+        "onboard_time": 1761491424,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132223,
+        "num": 36193,
+        "word": "龚俊破万福利是半裸肌肉照",
+        "onboard_time": 1761484761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115258,
+        "num": 36096,
+        "word": "香港男大看色情内容窒息死亡",
+        "onboard_time": 1761457099,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109715,
+        "num": 36089,
+        "word": "王建国 爱奇艺副总裁小红",
+        "onboard_time": 1761481401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 35992,
+        "word": "朋友圈一定要当天发",
+        "onboard_time": 1761490942,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92958,
+        "num": 35950,
+        "word": "韩国学生因拒绝在网诈遭受酷刑致死",
+        "onboard_time": 1761490942,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82640,
+        "num": 35873,
+        "word": "陈粒 我将开始减少舞台工作",
+        "onboard_time": 1761491481,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78530,
+        "num": 35854,
+        "word": "彭小苒破万福利九宫格出浴照",
+        "onboard_time": 1761494000,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69305,
+        "num": 35780,
+        "word": "日本人因超市卖中国大米破防",
+        "onboard_time": 1761479662,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41163,
+        "num": 35712,
+        "word": "大二学生家中看色情片窒息而亡",
+        "onboard_time": 1761489742,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113631,
+        "num": 35637,
+        "word": "金价暴跌有大学生把生活费亏没了",
+        "onboard_time": 1761476659,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 110403,
+        "num": 35611,
+        "word": "每天只睡6小时的受害者出现了",
+        "onboard_time": 1761499516,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47724,
+        "num": 35573,
+        "word": "彭小苒 八年前的红很突然现在是及时",
+        "onboard_time": 1761489563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38446,
+        "num": 35503,
+        "word": "何老师还是太权威了",
+        "onboard_time": 1761492321,
+        "rank": 23,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 36904,
+        "num": 35427,
+        "word": "皇马2比1巴萨",
+        "onboard_time": 1761501495,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35398,
+        "num": 35398,
+        "word": "多所高校正在培养带娃专家",
+        "onboard_time": 1761504855,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33954,
+        "num": 33954,
+        "word": "美财长称贸易休战或将延长",
+        "onboard_time": 1761513074,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26971,
+        "num": 33858,
+        "word": "玉簟秋",
+        "onboard_time": 1761484520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 33330,
+        "word": "林俊杰太好听了",
+        "onboard_time": 1761494541,
+        "rank": 28,
+        "category": "演出,游戏"
+      },
+      {
+        "raw_hot": 24906,
+        "num": 33121,
+        "word": "鞠婧祎紫衣锦鲤抄舞台",
+        "onboard_time": 1761481642,
+        "rank": 29,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 38449,
+        "num": 32545,
+        "word": "这回婚礼上没人着急开饭了",
+        "onboard_time": 1761501195,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32518,
+        "num": 32518,
+        "word": "曝女艺人盖浇饭泼导游",
+        "onboard_time": 1761479060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28199,
+        "num": 28199,
+        "word": "杨幂美成啥了",
+        "onboard_time": 1761480381,
+        "rank": 32,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 26626,
+        "num": 26626,
+        "word": "东部战区空军多支部队实战化训练",
+        "onboard_time": 1761485603,
+        "rank": 33,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 25662,
+        "num": 25662,
+        "word": "易烊千玺十年的外向一天用完了",
+        "onboard_time": 1761490643,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25105,
+        "num": 25105,
+        "word": "3女孩租房住包浆跑路房东发声",
+        "onboard_time": 1761513553,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24120,
+        "num": 24120,
+        "word": "原来不内耗的人脑子里是这么想的",
+        "onboard_time": 1761485962,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23299,
+        "num": 24120,
+        "word": "游泳教练抱摔女童致其耳软骨断裂",
+        "onboard_time": 1761508394,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 24120,
+        "word": "范丞丞回应cos绿巨人被认出",
+        "onboard_time": 1761500957,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22144,
+        "num": 24120,
+        "word": "王者荣耀",
+        "onboard_time": 1761476960,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21446,
+        "num": 24120,
+        "word": "一个永远不会得罪人的方法",
+        "onboard_time": 1761497958,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21301,
+        "num": 24120,
+        "word": "迪丽热巴卫蓝打电话吵架戏",
+        "onboard_time": 1761492023,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20523,
+        "num": 24120,
+        "word": "男子没拔充电器客厅东西被烧光",
+        "onboard_time": 1761506416,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19477,
+        "num": 24120,
+        "word": "信离",
+        "onboard_time": 1761491183,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19366,
+        "num": 24120,
+        "word": "林俊杰一千年以后",
+        "onboard_time": 1761491183,
+        "rank": 44,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 18478,
+        "num": 24120,
+        "word": "白桃星座",
+        "onboard_time": 1761491243,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16555,
+        "num": 24120,
+        "word": "官方通报珠江口撞船事件",
+        "onboard_time": 1761493161,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16181,
+        "num": 24120,
+        "word": "王者新英雄六耳预告",
+        "onboard_time": 1761484880,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14787,
+        "num": 24120,
+        "word": "甘孜4.7级地震",
+        "onboard_time": 1761492321,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13105,
+        "num": 24120,
+        "word": "入青云",
+        "onboard_time": 1761491121,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 05:36:49
+本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 06:24:00
 </p>
 </blockquote>
 <p>
@@ -225,6 +225,12 @@ EDGnice（热度：150326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A16%E5%B0%8F%E6%97%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+每天只睡6小时的受害者出现了（热度：110403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%23" target="weibo">
 林俊杰太好听了（热度：105826）
 </a>
@@ -245,12 +251,6 @@ EDGnice（热度：150326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9B%A0%E8%B6%85%E5%B8%82%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E7%A0%B4%E9%98%B2%23" target="weibo">
 日本人因超市卖中国大米破防（热度：88172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A16%E5%B0%8F%E6%97%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-每天只睡6小时的受害者出现了（热度：84709）
 </a>
 </li>
 
@@ -303,6 +303,12 @@ EDGnice（热度：150326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B8%9D%E6%B1%B6%E6%80%BB%E7%90%86%E6%B5%81%E6%B3%AA%E4%BA%86%23" target="weibo">
+东帝汶总理流泪了（热度：65745）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%A9%BA%E5%86%9B%E5%A4%9A%E6%94%AF%E9%83%A8%E9%98%9F%E5%AE%9E%E6%88%98%E5%8C%96%E8%AE%AD%E7%BB%83%23" target="weibo">
 东部战区空军多支部队实战化训练（热度：62702）
 </a>
@@ -321,14 +327,8 @@ EDGnice（热度：150326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B8%9D%E6%B1%B6%E6%80%BB%E7%90%86%E6%B5%81%E6%B3%AA%E4%BA%86%23" target="weibo">
-东帝汶总理流泪了（热度：54821）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E5%87%BA%E9%80%83%E4%BA%BA%E5%91%98%E5%81%B7%E6%B8%A1%E6%B3%B0%E5%9B%BD%E6%97%B6%E6%BA%BA%E4%BA%A1%23" target="weibo">
-KK园区出逃人员偷渡泰国时溺亡（热度：48378）
+KK园区出逃人员偷渡泰国时溺亡（热度：54797）
 </a>
 </li>
 
@@ -351,20 +351,44 @@ KK园区出逃人员偷渡泰国时溺亡（热度：48378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%B2%A1%E4%BA%BA%E7%9D%80%E6%80%A5%E5%BC%80%E9%A5%AD%E4%BA%86%23" target="weibo">
+这回婚礼上没人着急开饭了（热度：38449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%BA%94cos%E7%BB%BF%E5%B7%A8%E4%BA%BA%E8%A2%AB%E8%AE%A4%E5%87%BA%23" target="weibo">
 范丞丞回应cos绿巨人被认出（热度：35478）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9E%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%B2%A1%E4%BA%BA%E7%9D%80%E6%80%A5%E5%BC%80%E9%A5%AD%E4%BA%86%23" target="weibo">
-这回婚礼上没人着急开饭了（热度：30666）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%AD%A3%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%B8%A6%E5%A8%83%E4%B8%93%E5%AE%B6%23" target="weibo">
+多所高校正在培养带娃专家（热度：35398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E7%A7%B0%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%88%96%E5%B0%86%E5%BB%B6%E9%95%BF%23" target="weibo">
+美财长称贸易休战或将延长（热度：33954）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 孙燕姿南京演唱会（热度：25647）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E4%BD%8F%E5%8C%85%E6%B5%86%E8%B7%91%E8%B7%AF%E6%88%BF%E4%B8%9C%E5%8F%91%E5%A3%B0%23" target="weibo">
+3女孩租房住包浆跑路房东发声（热度：25105）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%8A%B1%E6%91%94%E5%A5%B3%E7%AB%A5%E8%87%B4%E5%85%B6%E8%80%B3%E8%BD%AF%E9%AA%A8%E6%96%AD%E8%A3%82%23" target="weibo">
+游泳教练抱摔女童致其耳软骨断裂（热度：23299）
 </a>
 </li>
 
@@ -382,25 +406,7 @@ KK园区出逃人员偷渡泰国时溺亡（热度：48378）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%A1%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%E5%AE%A2%E5%8E%85%E4%B8%9C%E8%A5%BF%E8%A2%AB%E7%83%A7%E5%85%89%23" target="weibo">
-男子没拔充电器客厅东西被烧光（热度：20060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%AD%A3%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%B8%A6%E5%A8%83%E4%B8%93%E5%AE%B6%23" target="weibo">
-多所高校正在培养带娃专家（热度：18446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%8A%B1%E6%91%94%E5%A5%B3%E7%AB%A5%E8%87%B4%E5%85%B6%E8%80%B3%E8%BD%AF%E9%AA%A8%E6%96%AD%E8%A3%82%23" target="weibo">
-游泳教练抱摔女童致其耳软骨断裂（热度：17178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E7%A7%B0%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%88%96%E5%B0%86%E5%BB%B6%E9%95%BF%23" target="weibo">
-美财长称贸易休战或将延长（热度：15841）
+男子没拔充电器客厅东西被烧光（热度：20523）
 </a>
 </li>
 
@@ -419,12 +425,6 @@ KK园区出逃人员偷渡泰国时溺亡（热度：48378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E6%98%AF%E4%B8%AA%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
 断联是个试金石（热度：14245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%A5%B3%E5%AD%A9%E7%A7%9F%E6%88%BF%E4%BD%8F%E5%8C%85%E6%B5%86%E8%B7%91%E8%B7%AF%E6%88%BF%E4%B8%9C%E5%8F%91%E5%A3%B0%23" target="weibo">
-3女孩租房住包浆跑路房东发声（热度：12473）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761514609326,
+  "endTime": 1761517440167,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110403,
+      "num": 67917,
+      "word": "每天只睡6小时的受害者出现了",
+      "onboard_time": 1761499516,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105826,
       "num": 119025,
       "word": "林俊杰太好听了",
@@ -313,14 +321,6 @@
       "onboard_time": 1761479662,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84709,
-      "num": 67917,
-      "word": "每天只睡6小时的受害者出现了",
-      "onboard_time": 1761499516,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 80579,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65745,
+      "num": 65745,
+      "word": "东帝汶总理流泪了",
+      "onboard_time": 1761504495,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62702,
       "num": 132236,
       "word": "东部战区空军多支部队实战化训练",
@@ -411,15 +419,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54821,
-      "num": 54821,
-      "word": "东帝汶总理流泪了",
-      "onboard_time": 1761504495,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 48378,
+      "raw_hot": 54797,
       "num": 117858,
       "word": "KK园区出逃人员偷渡泰国时溺亡",
       "onboard_time": 1761486083,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38449,
+      "num": 32545,
+      "word": "这回婚礼上没人着急开饭了",
+      "onboard_time": 1761501195,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35478,
       "num": 35478,
       "word": "范丞丞回应cos绿巨人被认出",
@@ -459,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30666,
-      "num": 30666,
-      "word": "这回婚礼上没人着急开饭了",
-      "onboard_time": 1761501195,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 35398,
+      "num": 35398,
+      "word": "多所高校正在培养带娃专家",
+      "onboard_time": 1761504855,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33954,
+      "num": 33954,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25647,
@@ -473,6 +489,22 @@
       "onboard_time": 1761493461,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25105,
+      "num": 25105,
+      "word": "3女孩租房住包浆跑路房东发声",
+      "onboard_time": 1761513553,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23299,
+      "num": 24120,
+      "word": "游泳教练抱摔女童致其耳软骨断裂",
+      "onboard_time": 1761508394,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22503,
@@ -491,36 +523,12 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 20060,
-      "num": 20077,
+      "raw_hot": 20523,
+      "num": 24120,
       "word": "男子没拔充电器客厅东西被烧光",
       "onboard_time": 1761506416,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18446,
-      "num": 20072,
-      "word": "多所高校正在培养带娃专家",
-      "onboard_time": 1761504855,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17178,
-      "num": 20052,
-      "word": "游泳教练抱摔女童致其耳软骨断裂",
-      "onboard_time": 1761508394,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15841,
-      "num": 15841,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15372,
@@ -545,14 +553,6 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12473,
-      "num": 15830,
-      "word": "3女孩租房住包浆跑路房东发声",
-      "onboard_time": 1761513553,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11753,
