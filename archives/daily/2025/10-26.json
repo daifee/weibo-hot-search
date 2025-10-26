@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761464210549,
+  "endTime": 1761467428901,
   "band_list": [
     {
       "raw_hot": 2073221,
@@ -24,6 +24,14 @@
       "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
       "onboard_time": 1761447560,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1459299,
+      "num": 179850,
+      "word": "香港男大看色情内容窒息死亡",
+      "onboard_time": 1761457099,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1761456679,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838935,
+      "num": 240954,
+      "word": "将门毒后 王鹤棣",
+      "onboard_time": 1761465800,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 769509,
@@ -147,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581156,
+      "num": 199042,
+      "word": "小海绵探班黄晓明",
+      "onboard_time": 1761463520,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 566041,
       "num": 195728,
       "word": "成毅直播假吃冰棍",
@@ -201,6 +225,14 @@
       "onboard_time": 1761447380,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 484326,
+      "num": 484326,
+      "word": "女孩失联一周竟是躲房间玩手机",
+      "onboard_time": 1761463100,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481834,
@@ -291,12 +323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343069,
+      "num": 225324,
+      "word": "刘亦菲VogueWorld官宣",
+      "onboard_time": 1761465920,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337821,
       "num": 337821,
       "word": "普京又催生",
       "onboard_time": 1761449479,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 329937,
+      "num": 179687,
+      "word": "音综选手每晚吃柚子瘦了60斤",
+      "onboard_time": 1761464180,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 325385,
@@ -336,6 +384,22 @@
       "word": "阿娇回应什么时候要孩子",
       "onboard_time": 1761444859,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305098,
+      "num": 179316,
+      "word": "午睡超过1小时死亡风险上升30%",
+      "onboard_time": 1761465379,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 296064,
+      "num": 202117,
+      "word": "张远还在对抗躁郁症",
+      "onboard_time": 1761462019,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -417,22 +481,6 @@
       "onboard_time": 1761436398,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262389,
-      "num": 202117,
-      "word": "张远还在对抗躁郁症",
-      "onboard_time": 1761462019,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259088,
-      "num": 199042,
-      "word": "小海绵探班黄晓明",
-      "onboard_time": 1761463520,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 256448,
@@ -643,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186392,
+      "num": 186392,
+      "word": "今年最想要的羽绒服出现了",
+      "onboard_time": 1761464540,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186173,
       "num": 186173,
       "word": "我家那闺女",
@@ -659,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179248,
+      "num": 179248,
+      "word": "易烊千玺参加了毕业聚餐",
+      "onboard_time": 1761466821,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178807,
       "num": 178807,
       "word": "王者荣耀十周年",
@@ -673,14 +737,6 @@
       "onboard_time": 1761458900,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174367,
-      "num": 228313,
-      "word": "女孩失联一周竟是躲房间玩手机",
-      "onboard_time": 1761463100,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174218,
@@ -731,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165625,
+      "num": 165625,
+      "word": "敖瑞鹏跑男官宣",
+      "onboard_time": 1761465800,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165403,
       "num": 165403,
       "word": "邓家佳跳了范丞丞版sugar舞",
@@ -745,6 +809,14 @@
       "onboard_time": 1761462319,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161582,
+      "num": 161582,
+      "word": "金价",
+      "onboard_time": 1761466641,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 161556,
@@ -800,6 +872,14 @@
       "word": "足浴店2楼异常2人嫖娼卖淫被抓",
       "onboard_time": 1761451700,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154347,
+      "num": 154347,
+      "word": "深圳机场的视频来了",
+      "onboard_time": 1761465980,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -867,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146634,
+      "num": 146634,
+      "word": "李登科拍的刘亦菲杨幂同框",
+      "onboard_time": 1761462140,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146507,
       "num": 143810,
       "word": "胡连馨毕业典礼美我一跳",
@@ -889,6 +977,14 @@
       "onboard_time": 1761452721,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 145143,
+      "num": 151560,
+      "word": "31省份去年人口出生率数据公布",
+      "onboard_time": 1761466761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144773,
@@ -979,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132832,
+      "num": 132832,
+      "word": "香港男生窒息死亡警方初步排除自杀",
+      "onboard_time": 1761466821,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131458,
       "num": 131457,
       "word": "网友用肥皂和爆炸盐洗净泛黄衣领",
@@ -1003,20 +1107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130298,
+      "num": 130298,
+      "word": "向往的生活嘉宾一场戏只挣300",
+      "onboard_time": 1761464423,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129933,
       "num": 196542,
       "word": "长期戴眼镜导致的面部变化",
       "onboard_time": 1761391641,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128999,
-      "num": 124836,
-      "word": "李登科拍的刘亦菲杨幂同框",
-      "onboard_time": 1761462140,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 128896,
@@ -1091,6 +1195,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123961,
+      "num": 123961,
+      "word": "比伯又帅回来了",
+      "onboard_time": 1761466941,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123702,
       "num": 123702,
       "word": "张维伊在古装单开一桌",
@@ -1128,6 +1240,14 @@
       "word": "入青云 恭喜这对旧人",
       "onboard_time": 1761460040,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119962,
+      "num": 119962,
+      "word": "天地剑心开局喊了12声爆",
+      "onboard_time": 1761466400,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1177,6 +1297,14 @@
       "onboard_time": 1761439579,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113542,
+      "num": 113542,
+      "word": "向往的生活嘉宾不敢体检有病硬扛",
+      "onboard_time": 1761464000,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 112397,
@@ -1251,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109334,
+      "num": 109334,
+      "word": "张博恒总结世锦赛plog",
+      "onboard_time": 1761467301,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108535,
       "num": 173830,
       "word": "2025微博视界大会定档",
@@ -1315,14 +1451,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 104889,
-      "num": 104889,
-      "word": "向往的生活嘉宾不敢体检有病硬扛",
-      "onboard_time": 1761464000,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104394,
       "num": 118953,
       "word": "德国爆破国内最强大核电站",
@@ -1371,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "王源 怎样度过一个有趣的周末",
+      "onboard_time": 1761467240,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102650,
       "num": 102650,
       "word": "当小狗发现主人晚起了半小时",
@@ -1403,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101066,
+      "num": 99240,
+      "word": "钎九",
+      "onboard_time": 1761466280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100666,
       "num": 100666,
       "word": "Bin评论区被其过往言论刷屏",
@@ -1417,6 +1561,14 @@
       "onboard_time": 1761393021,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99707,
+      "num": 99707,
+      "word": "谁去猫咖还自己带猫",
+      "onboard_time": 1761467061,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 99369,
@@ -1483,12 +1635,28 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 96125,
+      "num": 96125,
+      "word": "鸡排哥回应过气",
+      "onboard_time": 1761465379,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95513,
       "num": 95513,
       "word": "回家发现爸爸认识姚琛爸妈",
       "onboard_time": 1761459379,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95425,
+      "num": 95425,
+      "word": "暗河传加更这集给的太多了",
+      "onboard_time": 1761467061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 95347,
@@ -1521,6 +1689,14 @@
       "onboard_time": 1761461059,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93809,
+      "num": 93809,
+      "word": "九寨沟成在逃人员克星",
+      "onboard_time": 1761465620,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93109,
@@ -1611,20 +1787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87658,
+      "num": 93509,
+      "word": "敖瑞鹏我将大胆许愿常驻跑男",
+      "onboard_time": 1761465560,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87614,
       "num": 195945,
       "word": "深圳机场将完善轮椅旅客服务保障",
       "onboard_time": 1761409161,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86800,
-      "num": 104564,
-      "word": "音综选手每晚吃柚子瘦了60斤",
-      "onboard_time": 1761464180,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 86756,
@@ -1721,6 +1897,14 @@
       "onboard_time": 1761444020,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81061,
+      "num": 93554,
+      "word": "再见爱人一款新的黄毛",
+      "onboard_time": 1761465260,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 78104,
@@ -2225,6 +2409,14 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10378,
+      "num": 115629,
+      "word": "刘宇宁粉丝工作日常表",
+      "onboard_time": 1761466821,
+      "rank": 38,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
