@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761507417158,
+  "endTime": 1761510454815,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -3635,6 +3635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53506,
+      "num": 53506,
+      "word": "东帝汶总理流泪了",
+      "onboard_time": 1761504495,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49826,
       "num": 148164,
       "word": "太阳vs掘金",
@@ -3867,14 +3875,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 27446,
-      "num": 34405,
-      "word": "东帝汶总理流泪了",
-      "onboard_time": 1761504495,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27075,
       "num": 38826,
       "word": "四个动作站着就能瘦",
@@ -4017,6 +4017,14 @@
       "onboard_time": 1761418575,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16407,
+      "num": 18688,
+      "word": "游泳教练抱摔女童致其耳软骨断裂",
+      "onboard_time": 1761508394,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15372,
