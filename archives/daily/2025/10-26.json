@@ -1,7 +1,15 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761456309227,
+  "endTime": 1761457255572,
   "band_list": [
+    {
+      "raw_hot": 2073221,
+      "num": 232538,
+      "word": "红舞鞋剧组删除致歉声明",
+      "onboard_time": 1761453259,
+      "rank": 11,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1878130,
       "num": 223061,
@@ -9,14 +17,6 @@
       "onboard_time": 1761438680,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1718907,
-      "num": 232538,
-      "word": "红舞鞋剧组删除致歉声明",
-      "onboard_time": 1761453259,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1603651,
@@ -41,6 +41,14 @@
       "onboard_time": 1761440600,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 769509,
+      "num": 1123121,
+      "word": "3人在深圳一地质公园徒步时遇难",
+      "onboard_time": 1761454460,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 705383,
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 537392,
-      "num": 1085982,
-      "word": "3人在深圳一地质公园徒步时遇难",
-      "onboard_time": 1761454460,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 517628,
       "num": 517628,
       "word": "官方通报观光车落水致4人遇难",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 511641,
-      "num": 214849,
+      "num": 282444,
       "word": "入青云结局",
       "onboard_time": 1761453321,
       "rank": 18,
@@ -179,6 +179,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 377938,
+      "num": 198405,
+      "word": "从108减到了125斤",
+      "onboard_time": 1761452780,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 354481,
+      "num": 292708,
+      "word": "李在明称电诈组织碰韩国人必死",
+      "onboard_time": 1761454519,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 351926,
       "num": 195681,
       "word": "以为捡了条小奶狗不想越长越不对劲",
@@ -211,19 +227,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317554,
+      "num": 191721,
+      "word": "杨幂教胡连馨上节目少说话多做事",
+      "onboard_time": 1761453559,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312383,
+      "num": 312383,
+      "word": "湘潭大学37岁博导刘昊霖去世",
+      "onboard_time": 1761456679,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307652,
       "num": 189842,
       "word": "阿娇回应什么时候要孩子",
       "onboard_time": 1761444859,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 306206,
-      "num": 191721,
-      "word": "杨幂教胡连馨上节目少说话多做事",
-      "onboard_time": 1761453559,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -265,14 +289,6 @@
       "onboard_time": 1761434297,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278387,
-      "num": 198405,
-      "word": "从108减到了125斤",
-      "onboard_time": 1761452780,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 278339,
@@ -377,14 +393,6 @@
       "onboard_time": 1761449479,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 221014,
-      "num": 221014,
-      "word": "李在明称电诈组织碰韩国人必死",
-      "onboard_time": 1761454519,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220739,
@@ -547,6 +555,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167779,
+      "num": 167779,
+      "word": "35元1个面包被年轻人疯抢",
+      "onboard_time": 1761457039,
+      "rank": 17,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 166777,
+      "num": 166777,
+      "word": "香港26岁男大学生观看色情内容窒息死亡",
+      "onboard_time": 1761457099,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165403,
       "num": 165403,
       "word": "邓家佳跳了范丞丞版sugar舞",
@@ -603,20 +627,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153133,
+      "num": 153133,
+      "word": "不要轻易尝试冰冻柚子",
+      "onboard_time": 1761452421,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151600,
       "num": 248596,
       "word": "TES战胜BLG",
       "onboard_time": 1761386062,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151278,
-      "num": 151278,
-      "word": "不要轻易尝试冰冻柚子",
-      "onboard_time": 1761452421,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 150715,
@@ -633,6 +657,14 @@
       "onboard_time": 1761451819,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148104,
+      "num": 148104,
+      "word": "黄景瑜对王安宇的成见是一座大山",
+      "onboard_time": 1761454580,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 146507,
@@ -667,12 +699,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140397,
+      "num": 140397,
+      "word": "太奶奶3开播追剧团",
+      "onboard_time": 1761454760,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138548,
+      "num": 138548,
+      "word": "肖顺尧新剧亡妻回忆录",
+      "onboard_time": 1761456081,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138302,
       "num": 248100,
       "word": "少年的你发了新剧照",
       "onboard_time": 1761399082,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138215,
+      "num": 138215,
+      "word": "神20航天员为回地球做准备",
+      "onboard_time": 1761455240,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136635,
@@ -739,12 +795,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128896,
+      "num": 128896,
+      "word": "网传赵丽颖出演开盘",
+      "onboard_time": 1761453380,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "女生称卖黄金被套路杀价200元1克",
       "onboard_time": 1761443359,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126507,
+      "num": 126507,
+      "word": "红舞鞋剧组工作人员回复",
+      "onboard_time": 1761457039,
+      "rank": 31,
+      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 126318,
@@ -795,12 +867,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 123444,
-      "num": 125977,
-      "word": "神20航天员为回地球做准备",
-      "onboard_time": 1761455240,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 123702,
+      "num": 123702,
+      "word": "张维伊在古装单开一桌",
+      "onboard_time": 1761454760,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 123290,
@@ -825,14 +897,6 @@
       "onboard_time": 1761404242,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 120130,
-      "num": 125857,
-      "word": "太奶奶3开播追剧团",
-      "onboard_time": 1761454760,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 119724,
@@ -875,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113781,
-      "num": 113781,
-      "word": "张维伊在古装单开一桌",
-      "onboard_time": 1761454760,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 112397,
+      "num": 112397,
+      "word": "马立奥知道妈妈怀孕后的反应",
+      "onboard_time": 1761455061,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 112293,
@@ -1027,14 +1091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101776,
-      "num": 101776,
-      "word": "黄景瑜对王安宇的成见是一座大山",
-      "onboard_time": 1761454580,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101738,
       "num": 196286,
       "word": "希望机场服务让乘客能从容进飞机",
@@ -1099,12 +1155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98004,
-      "num": 98004,
-      "word": "马立奥知道妈妈怀孕后的反应",
-      "onboard_time": 1761455061,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 98029,
+      "num": 98029,
+      "word": "苹果房子",
+      "onboard_time": 1761455121,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 96739,
@@ -1115,36 +1171,12 @@
       "category": "美妆,幽默"
     },
     {
-      "raw_hot": 95830,
-      "num": 95830,
-      "word": "肖顺尧新剧亡妻回忆录",
-      "onboard_time": 1761456081,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95347,
       "num": 95347,
       "word": "星品",
       "onboard_time": 1761401002,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95117,
-      "num": 95117,
-      "word": "网传赵丽颖出演开盘",
-      "onboard_time": 1761453380,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 94563,
-      "num": 94563,
-      "word": "苹果房子",
-      "onboard_time": 1761455121,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 94114,
@@ -1475,20 +1507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62251,
+      "num": 113513,
+      "word": "童增逝世",
+      "onboard_time": 1761456081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62042,
       "num": 116602,
       "word": "闫安说双11不想借王楚钦马龙热度",
       "onboard_time": 1761410719,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60611,
-      "num": 98391,
-      "word": "童增逝世",
-      "onboard_time": 1761456081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60057,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1761397642,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58549,
+      "num": 113643,
+      "word": "启东观光车事故是赤裸裸的人祸",
+      "onboard_time": 1761456560,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58051,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1761393862,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24427,
+      "num": 113497,
+      "word": "樊振东军运会四冠王六周年",
+      "onboard_time": 1761456321,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19908,

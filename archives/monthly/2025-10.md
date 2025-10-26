@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 13:25:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 13:40:55
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ T1战胜iG（热度：2289458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%88%9E%E9%9E%8B%E5%89%A7%E7%BB%84%E5%88%A0%E9%99%A4%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+红舞鞋剧组删除致歉声明（热度：2073221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E4%BF%AE%E6%9D%B0%E6%A5%B7%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8F%90%23" target="weibo">
 陈柏霖修杰楷被警方拘提（热度：2016406）
 </a>
@@ -527,12 +533,6 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%92%E7%89%8C%E9%B8%A1%E6%8E%92%E5%93%A5%E8%BF%9E%E4%BA%BA%E5%B8%A6%E8%BD%A6%E8%A2%AB%E5%8A%9D%E8%BF%94%23" target="weibo">
 冒牌鸡排哥连人带车被劝返（热度：1728253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%88%9E%E9%9E%8B%E5%89%A7%E7%BB%84%E5%88%A0%E9%99%A4%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
-红舞鞋剧组删除致歉声明（热度：1718907）
 </a>
 </li>
 
@@ -3495,6 +3495,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD%E5%BE%92%E6%AD%A5%E6%97%B6%E9%81%87%E9%9A%BE%23" target="weibo">
+3人在深圳一地质公园徒步时遇难（热度：769509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2328%E5%B2%81%E6%88%B43%E4%B8%AA%E6%9C%88%E7%89%99%E5%A5%97%E7%9A%84%E5%90%8E%E9%81%97%E7%97%87%23" target="weibo">
 28岁戴3个月牙套的后遗症（热度：768146）
 </a>
@@ -6005,12 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E8%90%A8%E7%A7%91%E9%BD%90%E5%85%A5%E7%8B%B1%E5%90%8E%E9%81%AD%E5%9B%9A%E7%8A%AF%E9%9C%B8%E5%87%8C%23" target="weibo">
 法国前总统萨科齐入狱后遭囚犯霸凌（热度：544120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%AE%A1%E7%90%86%23" target="weibo">
-男子灌面汤呛死妻子案再次延期审理（热度：544108）
 </a>
 </li>
 
