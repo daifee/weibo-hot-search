@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 12:29:45
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 12:42:41
 </p>
 </blockquote>
 <p>
@@ -2039,6 +2039,12 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%20%E6%AC%A7%E8%B1%AA%E4%B9%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%23" target="weibo">
 唐嫣美成啥了 欧豪也是个神（热度：1003394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%88%9E%E9%9E%8B%E5%89%A7%E7%BB%84%E5%88%A0%E9%99%A4%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+红舞鞋剧组删除致歉声明（热度：1002169）
 </a>
 </li>
 
@@ -4845,6 +4851,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AE%A3%E4%BC%A0%E6%96%B0%E7%89%87%23" target="weibo">
+黄晓明回应刘亦菲宣传新片（热度：624651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
 高通涉嫌违反反垄断法（热度：624068）
 </a>
@@ -4979,6 +4991,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BD%A6%E7%89%8C%E7%B2%A4A98888%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E6%8E%A5%E7%AE%A1%23" target="weibo">
 许家印车牌粤A98888劳斯莱斯被接管（热度：613783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%91%E8%B4%A2%E4%BA%86%23" target="weibo">
+鸡排哥回应是否发财了（热度：613533）
 </a>
 </li>
 
@@ -5553,12 +5571,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%91%E8%B4%A2%E4%BA%86%23" target="weibo">
-鸡排哥回应是否发财了（热度：571838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%AF%B4%E6%BC%94%E5%91%98%E5%85%88%E5%81%9A%E4%BA%BA%E5%86%8D%E6%BC%94%E6%88%8F%23" target="weibo">
 成毅说演员先做人再演戏（热度：571827）
 </a>
@@ -5999,18 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CVKS%23" target="weibo">
 BLG战胜VKS（热度：543735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%A8%AA%E5%BA%97%E8%A2%AB%E9%AA%97%23" target="weibo">
-陈都灵横店被骗（热度：543575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E7%A8%80%E5%9C%9F%E8%A2%AB%E5%86%85%E8%92%99%E5%8F%A4%E8%AF%81%E7%9B%91%E5%B1%80%E5%87%BA%E5%85%B7%E8%AD%A6%E7%A4%BA%E5%87%BD%23" target="weibo">
-北方稀土被内蒙古证监局出具警示函（热度：543408）
 </a>
 </li>
 
