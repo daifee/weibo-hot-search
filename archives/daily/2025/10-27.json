@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761497068924,
+  "endTime": 1761499312734,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 414251,
-      "num": 414251,
+      "num": 497817,
       "word": "打野的尽头是一片海",
       "onboard_time": 1761493580,
       "rank": 3,
@@ -409,6 +409,22 @@
       "onboard_time": 1761486083,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 46172,
+      "num": 52932,
+      "word": "一个永远不会得罪人的方法",
+      "onboard_time": 1761497958,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 44877,
+      "num": 52929,
+      "word": "闫安双十一直播亲试口红",
+      "onboard_time": 1761497479,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 4080,

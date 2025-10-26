@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/27 00:44:28
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/27 01:21:52
 </p>
 </blockquote>
 <p>
@@ -2757,6 +2757,12 @@ TES教练想避开AL和GEN（热度：59855）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%BE%97%E7%BD%AA%E4%BA%BA%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
+一个永远不会得罪人的方法（热度：46172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%B7%98%E6%B1%B0%23" target="weibo">
 BLG淘汰（热度：45715）
 </a>
@@ -2777,6 +2783,12 @@ BLG淘汰（热度：45715）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E4%B8%80%E5%B9%B4%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E6%B2%B3%E5%8D%97%E8%80%81%E4%B9%A1%23" target="weibo">
 王安宇一年归来仍是河南老乡（热度：44993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AE%89%E5%8F%8C%E5%8D%81%E4%B8%80%E7%9B%B4%E6%92%AD%E4%BA%B2%E8%AF%95%E5%8F%A3%E7%BA%A2%23" target="weibo">
+闫安双十一直播亲试口红（热度：44877）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 00:44:28
+本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 01:21:52
 </p>
 </blockquote>
 <p>
@@ -317,6 +317,18 @@ EDGnice（热度：150326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E5%87%BA%E9%80%83%E4%BA%BA%E5%91%98%E5%81%B7%E6%B8%A1%E6%B3%B0%E5%9B%BD%E6%97%B6%E6%BA%BA%E4%BA%A1%23" target="weibo">
 KK园区出逃人员偷渡泰国时溺亡（热度：48378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%BE%97%E7%BD%AA%E4%BA%BA%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
+一个永远不会得罪人的方法（热度：46172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AE%89%E5%8F%8C%E5%8D%81%E4%B8%80%E7%9B%B4%E6%92%AD%E4%BA%B2%E8%AF%95%E5%8F%A3%E7%BA%A2%23" target="weibo">
+闫安双十一直播亲试口红（热度：44877）
 </a>
 </li>
 
