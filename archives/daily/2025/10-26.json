@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761461290150,
+  "endTime": 1761463362476,
   "band_list": [
     {
       "raw_hot": 2073221,
@@ -67,7 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 705383,
+      "raw_hot": 728559,
       "num": 237098,
       "word": "高瀚宇国外录恋综走丢录遗言",
       "onboard_time": 1761447500,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 618388,
+      "num": 618388,
+      "word": "35元1个面包被年轻人疯抢",
+      "onboard_time": 1761457039,
+      "rank": 17,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 615881,
       "num": 233728,
       "word": "在游泳馆跳水身亡男子系体育老师",
@@ -115,12 +123,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604217,
+      "num": 174996,
+      "word": "中戏食堂等来了最懂它的易烊千玺",
+      "onboard_time": 1761461301,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 598528,
+      "num": 175583,
+      "word": "第一批金价下跌受害者出现了",
+      "onboard_time": 1761458959,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 566041,
       "num": 195728,
       "word": "成毅直播假吃冰棍",
       "onboard_time": 1761433816,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561604,
+      "num": 255405,
+      "word": "18万彩礼被扣下女儿起诉爸妈",
+      "onboard_time": 1761457820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559332,
@@ -171,12 +203,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 424289,
-      "num": 424289,
-      "word": "35元1个面包被年轻人疯抢",
-      "onboard_time": 1761457039,
-      "rank": 17,
-      "category": "民生新闻,美食"
+      "raw_hot": 481834,
+      "num": 481834,
+      "word": "缅甸军方爆破KK园区内建筑",
+      "onboard_time": 1761459079,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 464657,
+      "num": 174290,
+      "word": "原来是李一桐自己录的动捕",
+      "onboard_time": 1761460159,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 423544,
+      "num": 419637,
+      "word": "李飞重生的证据又多了",
+      "onboard_time": 1761459860,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 420032,
@@ -187,36 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 419637,
-      "num": 419637,
-      "word": "李飞重生的证据又多了",
-      "onboard_time": 1761459860,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419143,
       "num": 279538,
       "word": "奔跑吧天路篇全阵容官宣",
       "onboard_time": 1761445819,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 408578,
-      "num": 255405,
-      "word": "18万彩礼被扣下女儿起诉爸妈",
-      "onboard_time": 1761457820,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 393738,
-      "num": 393738,
-      "word": "缅甸军方爆破KK园区内建筑",
-      "onboard_time": 1761459079,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 388811,
@@ -235,12 +259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 360932,
-      "num": 175583,
-      "word": "第一批金价下跌受害者出现了",
-      "onboard_time": 1761458959,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 370642,
+      "num": 229457,
+      "word": "黄磊7季向往的生活做了600道菜",
+      "onboard_time": 1761462679,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 354481,
@@ -267,6 +291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327708,
+      "num": 174885,
+      "word": "王安宇喊了范丞丞老公",
+      "onboard_time": 1761459560,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325385,
       "num": 862061,
       "word": "光复二字遍及台湾大街小巷",
@@ -291,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314805,
+      "num": 174010,
+      "word": "红舞鞋剧组工作人员回复",
+      "onboard_time": 1761457039,
+      "rank": 31,
+      "category": "民生新闻,作品衍生"
+    },
+    {
       "raw_hot": 307652,
       "num": 189842,
       "word": "阿娇回应什么时候要孩子",
       "onboard_time": 1761444859,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296131,
-      "num": 166371,
-      "word": "原来是李一桐自己录的动捕",
-      "onboard_time": 1761460159,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 290880,
@@ -387,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258339,
-      "num": 174885,
-      "word": "王安宇喊了范丞丞老公",
-      "onboard_time": 1761459560,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256448,
       "num": 219224,
       "word": "刘宇宁才知道高定可以拿回家",
@@ -475,12 +499,28 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 220259,
+      "num": 220259,
+      "word": "女子给电动车充电金镯子被电碎",
+      "onboard_time": 1761458540,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214944,
       "num": 147617,
       "word": "短剧离了李柯以谁还拿我当小孩",
       "onboard_time": 1761449600,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214792,
+      "num": 173479,
+      "word": "张远还在对抗躁郁症",
+      "onboard_time": 1761462019,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 214328,
@@ -563,6 +603,22 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 195209,
+      "num": 173396,
+      "word": "彭小苒近日妆造全是紫色",
+      "onboard_time": 1761462620,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193743,
+      "num": 172620,
+      "word": "宋威龙体脂率只有6.9",
+      "onboard_time": 1761460640,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190514,
       "num": 256009,
       "word": "深圳机场会同航空公司启动核查",
@@ -643,6 +699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172081,
+      "num": 172081,
+      "word": "机器人越来越有人样了",
+      "onboard_time": 1761462560,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170758,
       "num": 261213,
       "word": "Bin 16强退役",
@@ -659,6 +723,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164076,
+      "num": 164076,
+      "word": "俺爹俺娘要合体了",
+      "onboard_time": 1761462319,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161556,
+      "num": 161556,
+      "word": "徐振轩经纪人让程相别驼背",
+      "onboard_time": 1761462740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160443,
+      "num": 160443,
+      "word": "每届年轻人都有自己的硬通货",
+      "onboard_time": 1761462801,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160142,
       "num": 160142,
       "word": "陈添祥这舞跳的曾辉眼里都有父爱了",
@@ -673,14 +761,6 @@
       "onboard_time": 1761404122,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158152,
-      "num": 158152,
-      "word": "红舞鞋剧组工作人员回复",
-      "onboard_time": 1761457039,
-      "rank": 31,
-      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 157614,
@@ -740,7 +820,7 @@
     },
     {
       "raw_hot": 150715,
-      "num": 150715,
+      "num": 164576,
       "word": "高分十四号02星发射成功",
       "onboard_time": 1761454340,
       "rank": 18,
@@ -787,20 +867,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 144773,
+      "num": 167828,
+      "word": "暗河传",
+      "onboard_time": 1761462620,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141381,
       "num": 141381,
       "word": "入青云直播",
       "onboard_time": 1761452601,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141201,
-      "num": 141201,
-      "word": "宋威龙体脂率只有6.9",
-      "onboard_time": 1761460640,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 138548,
@@ -915,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126871,
-      "num": 126871,
-      "word": "女子给电动车充电金镯子被电碎",
-      "onboard_time": 1761458540,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126318,
       "num": 126318,
       "word": "陈数写信把花少团整破防了",
@@ -947,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125854,
+      "num": 165353,
+      "word": "银河左岸",
+      "onboard_time": 1761461540,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125025,
       "num": 131459,
       "word": "成毅天地剑心首播战报",
@@ -961,6 +1041,14 @@
       "onboard_time": 1761448700,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124836,
+      "num": 124836,
+      "word": "李登科拍的刘亦菲杨幂同框",
+      "onboard_time": 1761462140,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 124011,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1761456799,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111938,
+      "num": 119002,
+      "word": "宁静是澳门第一部电影的女主",
+      "onboard_time": 1761462441,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 111552,
@@ -1299,6 +1395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98620,
+      "num": 118953,
+      "word": "德国爆破国内最强大核电站",
+      "onboard_time": 1761462140,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98596,
       "num": 196423,
       "word": "刘宪华躺着开唱爽到谁了",
@@ -1315,12 +1419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97612,
+      "num": 97612,
+      "word": "王者文创皮肤许愿",
+      "onboard_time": 1761462679,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96739,
       "num": 96739,
       "word": "当商家说遮瑕用之前要先激活",
       "onboard_time": 1761447140,
       "rank": 40,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 95870,
+      "num": 119015,
+      "word": "女孩失联一周竟是躲房间玩手机",
+      "onboard_time": 1761463100,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95513,
@@ -1337,6 +1457,14 @@
       "onboard_time": 1761401002,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94889,
+      "num": 94889,
+      "word": "泰国柬埔寨联合声明",
+      "onboard_time": 1761462620,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94114,
@@ -1660,7 +1788,7 @@
     },
     {
       "raw_hot": 68228,
-      "num": 418730,
+      "num": 549877,
       "word": "十五五6个坚持原则",
       "onboard_time": 1761450320,
       "rank": 2,
@@ -1961,6 +2089,14 @@
       "onboard_time": 1761456321,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21099,
+      "num": 119079,
+      "word": "台湾教授苑举正北京祭拜吴石将军",
+      "onboard_time": 1761463340,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19908,
