@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761496208840,
+  "endTime": 1761497068924,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -51,12 +51,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 447466,
+      "raw_hot": 449157,
       "num": 196740,
       "word": "彭小苒破万福利九宫格出浴照",
       "onboard_time": 1761494000,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414251,
+      "num": 414251,
+      "word": "打野的尽头是一片海",
+      "onboard_time": 1761493580,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 389773,
@@ -99,16 +107,8 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 263475,
-      "num": 263475,
-      "word": "打野的尽头是一片海",
-      "onboard_time": 1761493580,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 249649,
-      "num": 249649,
+      "raw_hot": 264341,
+      "num": 264341,
       "word": "我国3岁以下婴幼儿约3000万",
       "onboard_time": 1761479121,
       "rank": 4,
@@ -131,8 +131,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225563,
-      "num": 225563,
+      "raw_hot": 240362,
+      "num": 240362,
       "word": "千灯之约",
       "onboard_time": 1761493402,
       "rank": 7,
@@ -307,7 +307,7 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 81346,
+      "raw_hot": 88172,
       "num": 118593,
       "word": "日本人因超市卖中国大米破防",
       "onboard_time": 1761479662,
@@ -323,7 +323,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 79581,
+      "raw_hot": 80041,
       "num": 118281,
       "word": "入青云",
       "onboard_time": 1761491121,
@@ -337,6 +337,14 @@
       "onboard_time": 1761476960,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76743,
+      "num": 159779,
+      "word": "甘孜4.7级地震",
+      "onboard_time": 1761492321,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 76037,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73108,
-      "num": 159779,
-      "word": "甘孜4.7级地震",
-      "onboard_time": 1761492321,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 68069,
       "num": 159439,
       "word": "官方通报珠江口撞船事件",
@@ -371,12 +371,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 58849,
-      "num": 119050,
+      "raw_hot": 66047,
+      "num": 87890,
+      "word": "关晓彤千里江山图官宣节奏",
+      "onboard_time": 1761494180,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62702,
+      "num": 132236,
       "word": "东部战区空军多支部队实战化训练",
       "onboard_time": 1761485603,
       "rank": 39,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 62083,
+      "num": 87815,
+      "word": "杨幂第十套RM高定",
+      "onboard_time": 1761495499,
+      "rank": 47,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 57753,
@@ -387,7 +403,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41995,
+      "raw_hot": 48378,
       "num": 117858,
       "word": "KK园区出逃人员偷渡泰国时溺亡",
       "onboard_time": 1761486083,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 4080,
-      "num": 267176,
+      "num": 295195,
       "word": "党历史上又一重要纲领性文件",
       "onboard_time": 1761450080,
       "rank": 2,
