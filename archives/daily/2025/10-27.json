@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761511226380,
+  "endTime": 1761513775759,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -499,7 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16966,
+      "raw_hot": 17178,
       "num": 20052,
       "word": "游泳教练抱摔女童致其耳软骨断裂",
       "onboard_time": 1761508394,
@@ -507,7 +507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15427,
+      "raw_hot": 15760,
       "num": 20072,
       "word": "多所高校正在培养带娃专家",
       "onboard_time": 1761504855,
@@ -531,7 +531,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12666,
+      "raw_hot": 14342,
+      "num": 15127,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14245,
       "num": 19995,
       "word": "断联是个试金石",
       "onboard_time": 1761510793,
