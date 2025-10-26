@@ -1,0 +1,410 @@
+{
+  "runTime": 1761444011198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814177,
+        "num": 1130268,
+        "word": "2元维C和98元维C的区别",
+        "onboard_time": 1761440600,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 517628,
+        "num": 517628,
+        "word": "官方通报观光车落水致4人遇难",
+        "onboard_time": 1761437538,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43078,
+        "num": 364768,
+        "word": "未来五年的重点任务",
+        "onboard_time": 1761400643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236045,
+        "num": 236045,
+        "word": "女子参加荒野求生14天后瘦成闪电",
+        "onboard_time": 1761433816,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197003,
+        "num": 197003,
+        "word": "Bin",
+        "onboard_time": 1761408681,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1878130,
+        "num": 196861,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559332,
+        "num": 196745,
+        "word": "马思纯推荐杨紫上花少8",
+        "onboard_time": 1761438859,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541809,
+        "num": 196542,
+        "word": "奔跑吧",
+        "onboard_time": 1761441740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196271,
+        "num": 196271,
+        "word": "江苏观光车落水相关责任人已被控制",
+        "onboard_time": 1761439099,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 184376,
+        "num": 196268,
+        "word": "江苏启东观光车事故4人遇难",
+        "onboard_time": 1761437538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566041,
+        "num": 195728,
+        "word": "成毅直播假吃冰棍",
+        "onboard_time": 1761433816,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351926,
+        "num": 195681,
+        "word": "以为捡了条小奶狗不想越长越不对劲",
+        "onboard_time": 1761434116,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279890,
+        "num": 195200,
+        "word": "张檬回应带儿子去香港打疫苗",
+        "onboard_time": 1761434297,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213402,
+        "num": 195049,
+        "word": "订婚花60万共同生活4天后遭悔婚",
+        "onboard_time": 1761393622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194858,
+        "num": 194858,
+        "word": "范丞丞cos绿巨人被认出",
+        "onboard_time": 1761436097,
+        "rank": 14,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 191031,
+        "word": "男子买马一觉醒来1匹变2匹",
+        "onboard_time": 1761403642,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188580,
+        "num": 188580,
+        "word": "光复二字遍及台湾大街小巷",
+        "onboard_time": 1761427274,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 186283,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172664,
+        "num": 172664,
+        "word": "刘宇宁才知道高定可以拿回家",
+        "onboard_time": 1761399862,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138874,
+        "num": 138874,
+        "word": "奥黛丽赫本之子在苏州胜诉",
+        "onboard_time": 1761397041,
+        "rank": 19,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 204927,
+        "num": 134467,
+        "word": "减肥时脂肪消耗是有顺序的",
+        "onboard_time": 1761441019,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173260,
+        "num": 134214,
+        "word": "秋冬尽量少洗澡",
+        "onboard_time": 1761440841,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 132110,
+        "word": "英伟达退场 国产GPU接棒",
+        "onboard_time": 1761442280,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119563,
+        "num": 119563,
+        "word": "人打不打扮这差别还是很大的",
+        "onboard_time": 1761441559,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 107913,
+        "num": 115182,
+        "word": "杨紫玉兰花开君再来将官宣",
+        "onboard_time": 1761433875,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113920,
+        "num": 113920,
+        "word": "北方又降4到10摄氏度",
+        "onboard_time": 1761439579,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94114,
+        "num": 113756,
+        "word": "hi6实时收视第一",
+        "onboard_time": 1761433757,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90053,
+        "num": 113041,
+        "word": "成毅 扛剧",
+        "onboard_time": 1761402323,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78101,
+        "num": 112327,
+        "word": "胡杏儿回应李施嬅车崇健上节目",
+        "onboard_time": 1761440120,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69746,
+        "num": 111571,
+        "word": "入青云",
+        "onboard_time": 1761436398,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111552,
+        "num": 111552,
+        "word": "印度村民称泼粪节感觉很好",
+        "onboard_time": 1761403642,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110684,
+        "num": 110684,
+        "word": "台湾3兄妹考进北大替爷爷圆梦",
+        "onboard_time": 1761441259,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109499,
+        "num": 109499,
+        "word": "奶奶保管了二十五年的红包",
+        "onboard_time": 1761441799,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104315,
+        "num": 104315,
+        "word": "保时捷销售利润暴跌99%",
+        "onboard_time": 1761434657,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103951,
+        "num": 103951,
+        "word": "美军将打造黄金舰队",
+        "onboard_time": 1761440778,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103949,
+        "num": 103949,
+        "word": "我国突破瓶颈成功研制新型芯片",
+        "onboard_time": 1761439099,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99005,
+        "num": 99005,
+        "word": "BLG称收尾走得潦草又愧疚",
+        "onboard_time": 1761442221,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98987,
+        "num": 98987,
+        "word": "iPhone Air开售遇冷",
+        "onboard_time": 1761437538,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92018,
+        "num": 92018,
+        "word": "在游泳馆跳水身亡男子系体育老师",
+        "onboard_time": 1761404482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89953,
+        "num": 89953,
+        "word": "特朗普指责加拿大欺诈",
+        "onboard_time": 1761439940,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88744,
+        "num": 88744,
+        "word": "白发长在这3处或是身体在拉响警报",
+        "onboard_time": 1761442280,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88373,
+        "num": 88373,
+        "word": "警方回应卖小麦收款28万却遭冻结",
+        "onboard_time": 1761399502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80809,
+        "num": 80809,
+        "word": "顶级欧美投资人称欧美创业已没机会",
+        "onboard_time": 1761443840,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78104,
+        "num": 78104,
+        "word": "银灰明日方舟",
+        "onboard_time": 1761443299,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77550,
+        "num": 77550,
+        "word": "鹦鹉把这两口子得隐私全交代了",
+        "onboard_time": 1761441139,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77006,
+        "num": 77006,
+        "word": "俄罗斯发动大规模夜袭",
+        "onboard_time": 1761433396,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76396,
+        "num": 76396,
+        "word": "熬夜真的会让人长白发",
+        "onboard_time": 1761443660,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73473,
+        "num": 73473,
+        "word": "深圳机场将完善轮椅旅客服务保障",
+        "onboard_time": 1761409161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70321,
+        "num": 70321,
+        "word": "脑梗来临前身体有3个征兆",
+        "onboard_time": 1761404122,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70150,
+        "num": 70150,
+        "word": "猫咪店员第一天上班有点紧张",
+        "onboard_time": 1761441380,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}

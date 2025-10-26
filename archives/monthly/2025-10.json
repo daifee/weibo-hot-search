@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761435413182,
+  "endTime": 1761444011198,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -561,6 +561,14 @@
       "onboard_time": 1760427263,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1878130,
+      "num": 196861,
+      "word": "对钟楚曦的审判该停止了",
+      "onboard_time": 1761438680,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1875430,
@@ -4083,6 +4091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 814177,
+      "num": 1130268,
+      "word": "2元维C和98元维C的区别",
+      "onboard_time": 1761440600,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 813944,
       "num": 703068,
       "word": "宁艺卓参加黄子韬徐艺洋婚礼",
@@ -7459,6 +7475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 566041,
+      "num": 195728,
+      "word": "成毅直播假吃冰棍",
+      "onboard_time": 1761433816,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565641,
       "num": 1049198,
       "word": "BLG签运",
@@ -7561,6 +7585,14 @@
       "onboard_time": 1759361537,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 559332,
+      "num": 196745,
+      "word": "马思纯推荐杨紫上花少8",
+      "onboard_time": 1761438859,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 558913,
@@ -7993,6 +8025,14 @@
       "onboard_time": 1761288140,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541809,
+      "num": 196542,
+      "word": "奔跑吧",
+      "onboard_time": 1760589322,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 541808,
@@ -8593,6 +8633,14 @@
       "onboard_time": 1760333002,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517628,
+      "num": 517628,
+      "word": "官方通报观光车落水致4人遇难",
+      "onboard_time": 1761437538,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 517394,
@@ -13875,6 +13923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351926,
+      "num": 195681,
+      "word": "以为捡了条小奶狗不想越长越不对劲",
+      "onboard_time": 1761434116,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350523,
       "num": 881994,
       "word": "我家那闺女",
@@ -17563,6 +17619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279890,
+      "num": 195200,
+      "word": "张檬回应带儿子去香港打疫苗",
+      "onboard_time": 1761434297,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279846,
       "num": 279846,
       "word": "配眼镜别再只去眼镜店了",
@@ -17769,14 +17833,6 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276554,
-      "num": 90589,
-      "word": "张檬回应带儿子去香港打疫苗",
-      "onboard_time": 1761434297,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 276544,
@@ -20459,6 +20515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236045,
+      "num": 236045,
+      "word": "女子参加荒野求生14天后瘦成闪电",
+      "onboard_time": 1761433816,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236034,
       "num": 236034,
       "word": "iG别急",
@@ -21209,14 +21273,6 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225601,
-      "num": 89424,
-      "word": "以为捡了条小奶狗不想越长越不对劲",
-      "onboard_time": 1761434116,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 225488,
@@ -22203,6 +22259,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 213402,
+      "num": 195049,
+      "word": "订婚花60万共同生活4天后遭悔婚",
+      "onboard_time": 1761393622,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213139,
       "num": 213139,
       "word": "雨衣上的帽子究竟是谁设计的",
@@ -23115,6 +23179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204927,
+      "num": 134467,
+      "word": "减肥时脂肪消耗是有顺序的",
+      "onboard_time": 1761441019,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 204834,
       "num": 165788,
       "word": "网红赤木刚宪爆改许妍",
@@ -23908,7 +23980,7 @@
     },
     {
       "raw_hot": 200530,
-      "num": 122001,
+      "num": 138874,
       "word": "奥黛丽赫本之子在苏州胜诉",
       "onboard_time": 1761397041,
       "rank": 47,
@@ -24699,6 +24771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196271,
+      "num": 196271,
+      "word": "江苏观光车落水相关责任人已被控制",
+      "onboard_time": 1761439099,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 196263,
       "num": 140338,
       "word": "禁止挺胸夹背",
@@ -25033,6 +25113,14 @@
       "onboard_time": 1760616381,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194858,
+      "num": 194858,
+      "word": "范丞丞cos绿巨人被认出",
+      "onboard_time": 1761436097,
+      "rank": 14,
+      "category": "艺人,演出"
     },
     {
       "raw_hot": 194810,
@@ -27067,6 +27155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184376,
+      "num": 196268,
+      "word": "江苏启东观光车事故4人遇难",
+      "onboard_time": 1761437538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184236,
       "num": 184236,
       "word": "塞蒂恩下课",
@@ -28251,14 +28347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177924,
-      "num": 88429,
-      "word": "女子参加荒野求生14天后瘦成闪电",
-      "onboard_time": 1761433816,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177918,
       "num": 177918,
       "word": "64岁演员林俊贤景区打工",
@@ -29267,6 +29355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173260,
+      "num": 134214,
+      "word": "秋冬尽量少洗澡",
+      "onboard_time": 1761440841,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173257,
       "num": 173257,
       "word": "刘宇宁词曲作者参加节目紧张到手抖",
@@ -29329,6 +29425,14 @@
       "onboard_time": 1760104702,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172996,
+      "num": 132110,
+      "word": "英伟达退场 国产GPU接棒",
+      "onboard_time": 1761442280,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 172987,
@@ -40523,14 +40627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 133235,
-      "num": 133235,
-      "word": "订婚花60万共同生活4天后遭悔婚",
-      "onboard_time": 1761393622,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133200,
       "num": 133200,
       "word": "王楚钦领跑WTT男单冠军榜",
@@ -41105,14 +41201,6 @@
       "onboard_time": 1760973922,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131838,
-      "num": 131838,
-      "word": "奔跑吧",
-      "onboard_time": 1760589322,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 131758,
@@ -46475,6 +46563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119563,
+      "num": 119563,
+      "word": "人打不打扮这差别还是很大的",
+      "onboard_time": 1761441559,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 119555,
       "num": 119555,
       "word": "这居然是方家翊",
@@ -49355,6 +49451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113920,
+      "num": 113920,
+      "word": "北方又降4到10摄氏度",
+      "onboard_time": 1761439579,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113906,
       "num": 113906,
       "word": "周深天津演唱会",
@@ -51339,6 +51443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110684,
+      "num": 110684,
+      "word": "台湾3兄妹考进北大替爷爷圆梦",
+      "onboard_time": 1761441259,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110673,
       "num": 110673,
       "word": "杨汝晴徐如蓝双A恋综高智女",
@@ -51745,14 +51857,6 @@
       "onboard_time": 1759328302,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110099,
-      "num": 87038,
-      "word": "成毅直播假吃冰棍",
-      "onboard_time": 1761433816,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 110098,
@@ -52217,6 +52321,14 @@
       "onboard_time": 1759755562,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109499,
+      "num": 109499,
+      "word": "奶奶保管了二十五年的红包",
+      "onboard_time": 1761441799,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 109487,
@@ -53169,6 +53281,14 @@
       "onboard_time": 1760169739,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107913,
+      "num": 115182,
+      "word": "杨紫玉兰花开君再来将官宣",
+      "onboard_time": 1761433875,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 107890,
@@ -55339,6 +55459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104315,
+      "num": 104315,
+      "word": "保时捷销售利润暴跌99%",
+      "onboard_time": 1761434657,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104311,
       "num": 104311,
       "word": "Ming采访TheShy",
@@ -55569,6 +55697,22 @@
       "onboard_time": 1759548740,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103951,
+      "num": 103951,
+      "word": "美军将打造黄金舰队",
+      "onboard_time": 1761440778,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103949,
+      "num": 103949,
+      "word": "我国突破瓶颈成功研制新型芯片",
+      "onboard_time": 1761439099,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103939,
@@ -58603,6 +58747,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 99005,
+      "num": 99005,
+      "word": "BLG称收尾走得潦草又愧疚",
+      "onboard_time": 1761442221,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98987,
+      "num": 98987,
+      "word": "iPhone Air开售遇冷",
+      "onboard_time": 1761437538,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98976,
       "num": 98976,
       "word": "东北诞生第二个国家级都市圈",
@@ -61275,6 +61435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94114,
+      "num": 113756,
+      "word": "hi6实时收视第一",
+      "onboard_time": 1761433757,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94088,
       "num": 94088,
       "word": "全国大部将迎换季式降温",
@@ -63779,6 +63947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89953,
+      "num": 89953,
+      "word": "特朗普指责加拿大欺诈",
+      "onboard_time": 1761439940,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89916,
       "num": 89916,
       "word": "深南高速5车追尾致2死3伤",
@@ -64385,6 +64561,14 @@
       "onboard_time": 1759401142,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88744,
+      "num": 88744,
+      "word": "白发长在这3处或是身体在拉响警报",
+      "onboard_time": 1761442280,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88742,
@@ -68603,6 +68787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80809,
+      "num": 80809,
+      "word": "顶级欧美投资人称欧美创业已没机会",
+      "onboard_time": 1761443840,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80800,
       "num": 79459,
       "word": "李昀锐新剧被公主霸道示爱",
@@ -69827,12 +70019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78104,
+      "num": 78104,
+      "word": "银灰明日方舟",
+      "onboard_time": 1761443299,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78102,
       "num": 124985,
       "word": "孙颖莎耍棍热身",
       "onboard_time": 1760084542,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78101,
+      "num": 112327,
+      "word": "胡杏儿回应李施嬅车崇健上节目",
+      "onboard_time": 1761440120,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 78096,
@@ -70073,6 +70281,14 @@
       "onboard_time": 1759970962,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77550,
+      "num": 77550,
+      "word": "鹦鹉把这两口子得隐私全交代了",
+      "onboard_time": 1761441139,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 77451,
@@ -70537,6 +70753,14 @@
       "onboard_time": 1761124940,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76396,
+      "num": 76396,
+      "word": "熬夜真的会让人长白发",
+      "onboard_time": 1761443660,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76370,
@@ -71443,6 +71667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73473,
+      "num": 195945,
+      "word": "深圳机场将完善轮椅旅客服务保障",
+      "onboard_time": 1761409161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73433,
       "num": 73433,
       "word": "村民给鱼过55岁生日",
@@ -72011,14 +72243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71767,
-      "num": 195945,
-      "word": "深圳机场将完善轮椅旅客服务保障",
-      "onboard_time": 1761409161,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71758,
       "num": 137359,
       "word": "vivoX300拍出了烟火人间",
@@ -72307,14 +72531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70862,
-      "num": 70862,
-      "word": "保时捷销售利润暴跌99%",
-      "onboard_time": 1761434657,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 70840,
       "num": 97378,
       "word": "张凌赫何苏叶 前10唯一现偶角色",
@@ -72553,6 +72769,14 @@
       "onboard_time": 1759535178,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 70150,
+      "num": 70150,
+      "word": "猫咪店员第一天上班有点紧张",
+      "onboard_time": 1761441380,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 70114,
@@ -74395,14 +74619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63245,
-      "num": 91203,
-      "word": "hi6实时收视第一",
-      "onboard_time": 1761433757,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63217,
       "num": 107405,
       "word": "21岁中国男子普吉岛被海浪冲走",
@@ -75081,14 +75297,6 @@
       "onboard_time": 1760390594,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60427,
-      "num": 67101,
-      "word": "杨紫玉兰花开君再来将官宣",
-      "onboard_time": 1761433875,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 60320,
