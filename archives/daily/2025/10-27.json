@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761517440167,
+  "endTime": 1761518472890,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -187,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158439,
+      "num": 67917,
+      "word": "每天只睡6小时的受害者出现了",
+      "onboard_time": 1761499516,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154964,
       "num": 142372,
       "word": "邓紫棋演唱会裤子开了",
@@ -251,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119488,
+      "num": 118593,
+      "word": "日本人因超市卖中国大米破防",
+      "onboard_time": 1761479662,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119376,
       "num": 119376,
       "word": "单依纯妆造",
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110403,
-      "num": 67917,
-      "word": "每天只睡6小时的受害者出现了",
-      "onboard_time": 1761499516,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105826,
       "num": 119025,
       "word": "林俊杰太好听了",
@@ -315,12 +323,12 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 88172,
-      "num": 118593,
-      "word": "日本人因超市卖中国大米破防",
-      "onboard_time": 1761479662,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 82080,
+      "num": 82080,
+      "word": "东帝汶总理流泪了",
+      "onboard_time": 1761504495,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80579,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68773,
+      "num": 117858,
+      "word": "KK园区出逃人员偷渡泰国时溺亡",
+      "onboard_time": 1761486083,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68069,
       "num": 159439,
       "word": "官方通报珠江口撞船事件",
@@ -385,14 +401,6 @@
       "onboard_time": 1761494180,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65745,
-      "num": 65745,
-      "word": "东帝汶总理流泪了",
-      "onboard_time": 1761504495,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62702,
@@ -419,16 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54797,
-      "num": 117858,
-      "word": "KK园区出逃人员偷渡泰国时溺亡",
-      "onboard_time": 1761486083,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 47567,
-      "num": 40035,
+      "num": 43196,
       "word": "皇马2比1巴萨",
       "onboard_time": 1761501495,
       "rank": 23,
@@ -451,8 +451,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40226,
+      "num": 43065,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38449,
-      "num": 32545,
+      "num": 43047,
       "word": "这回婚礼上没人着急开饭了",
       "onboard_time": 1761501195,
       "rank": 32,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 35478,
-      "num": 35478,
+      "num": 42903,
       "word": "范丞丞回应cos绿巨人被认出",
       "onboard_time": 1761500957,
       "rank": 30,
@@ -468,19 +476,27 @@
     },
     {
       "raw_hot": 35398,
-      "num": 35398,
+      "num": 42939,
       "word": "多所高校正在培养带娃专家",
       "onboard_time": 1761504855,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33954,
-      "num": 33954,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 30892,
+      "num": 43018,
+      "word": "3女孩租房住包浆跑路房东发声",
+      "onboard_time": 1761513553,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27719,
+      "num": 42919,
+      "word": "游泳教练抱摔女童致其耳软骨断裂",
+      "onboard_time": 1761508394,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25647,
@@ -491,19 +507,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25105,
-      "num": 25105,
-      "word": "3女孩租房住包浆跑路房东发声",
-      "onboard_time": 1761513553,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23299,
-      "num": 24120,
-      "word": "游泳教练抱摔女童致其耳软骨断裂",
-      "onboard_time": 1761508394,
-      "rank": 37,
+      "raw_hot": 25073,
+      "num": 42859,
+      "word": "男子没拔充电器客厅东西被烧光",
+      "onboard_time": 1761506416,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -515,20 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22500,
+      "num": 42794,
+      "word": "红舞鞋致歉消失责任无法消失",
+      "onboard_time": 1761512713,
+      "rank": 49,
+      "category": "民生新闻,作品衍生"
+    },
+    {
       "raw_hot": 21696,
       "num": 25004,
       "word": "黄明昊唱诡门开好带感",
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 20523,
-      "num": 24120,
-      "word": "男子没拔充电器客厅东西被烧光",
-      "onboard_time": 1761506416,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15372,
@@ -553,14 +561,6 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11753,
-      "num": 15827,
-      "word": "红舞鞋致歉消失责任无法消失",
-      "onboard_time": 1761512713,
-      "rank": 49,
-      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 4080,
