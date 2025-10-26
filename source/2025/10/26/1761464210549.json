@@ -1,0 +1,410 @@
+{
+  "runTime": 1761464210549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710515,
+        "num": 1113682,
+        "word": "湘潭大学37岁博导刘昊霖去世",
+        "onboard_time": 1761456679,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525900,
+        "num": 525900,
+        "word": "35元1个面包被年轻人疯抢",
+        "onboard_time": 1761457039,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 28684,
+        "num": 489245,
+        "word": "十五五6个坚持原则",
+        "onboard_time": 1761450320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469392,
+        "num": 469392,
+        "word": "缅甸军方爆破KK园区内建筑",
+        "onboard_time": 1761459079,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259042,
+        "num": 259042,
+        "word": "3人在深圳一地质公园徒步时遇难",
+        "onboard_time": 1761454460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393052,
+        "num": 252595,
+        "word": "李飞重生的证据又多了",
+        "onboard_time": 1761459860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380464,
+        "num": 242698,
+        "word": "黄磊7季向往的生活做了600道菜",
+        "onboard_time": 1761462679,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376911,
+        "num": 237031,
+        "word": "原来是李一桐自己录的动捕",
+        "onboard_time": 1761460159,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229066,
+        "num": 229066,
+        "word": "女子给电动车充电金镯子被电碎",
+        "onboard_time": 1761458540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174367,
+        "num": 228313,
+        "word": "女孩失联一周竟是躲房间玩手机",
+        "onboard_time": 1761463100,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120910,
+        "num": 224912,
+        "word": "香港26岁男大学生观看色情内容窒息死亡",
+        "onboard_time": 1761457099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715525,
+        "num": 221844,
+        "word": "中戏食堂等来了最懂它的易烊千玺",
+        "onboard_time": 1761461301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595732,
+        "num": 219862,
+        "word": "18万彩礼被扣下女儿起诉爸妈",
+        "onboard_time": 1761457820,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565604,
+        "num": 215099,
+        "word": "第一批金价下跌受害者出现了",
+        "onboard_time": 1761458959,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369093,
+        "num": 211549,
+        "word": "王安宇喊了范丞丞老公",
+        "onboard_time": 1761459560,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306030,
+        "num": 210670,
+        "word": "红舞鞋剧组工作人员回复",
+        "onboard_time": 1761457039,
+        "rank": 15,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 284086,
+        "num": 207523,
+        "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
+        "onboard_time": 1761447560,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272726,
+        "num": 204115,
+        "word": "入青云结局",
+        "onboard_time": 1761453321,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262389,
+        "num": 202117,
+        "word": "张远还在对抗躁郁症",
+        "onboard_time": 1761462019,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259088,
+        "num": 199042,
+        "word": "小海绵探班黄晓明",
+        "onboard_time": 1761463520,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 682320,
+        "num": 193186,
+        "word": "高瀚宇国外录恋综走丢录遗言",
+        "onboard_time": 1761447500,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542042,
+        "num": 191302,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138246,
+        "num": 189800,
+        "word": "老邻居盛赞孙颖莎一家人品",
+        "onboard_time": 1761458900,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187201,
+        "num": 187201,
+        "word": "宋威龙体脂率只有6.9",
+        "onboard_time": 1761460640,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "彭小苒近日妆造全是紫色",
+        "onboard_time": 1761462620,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185584,
+        "num": 185584,
+        "word": "黄晓明回应刘亦菲宣传新片",
+        "onboard_time": 1761450620,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161166,
+        "num": 161166,
+        "word": "宁静曝因粗心朝邵子恒发飙",
+        "onboard_time": 1761463520,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142282,
+        "num": 142282,
+        "word": "杨幂教胡连馨上节目少说话多做事",
+        "onboard_time": 1761453559,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128681,
+        "num": 128681,
+        "word": "我家那闺女",
+        "onboard_time": 1761458241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106222,
+        "num": 125074,
+        "word": "央视曝医美佣金套路",
+        "onboard_time": 1761463400,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133900,
+        "num": 124882,
+        "word": "章子怡宋雨琦甜度超标",
+        "onboard_time": 1761463400,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124586,
+        "num": 124586,
+        "word": "每届年轻人都有自己的硬通货",
+        "onboard_time": 1761462801,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 121877,
+        "word": "李登科拍的刘亦菲杨幂同框",
+        "onboard_time": 1761462140,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113261,
+        "num": 113261,
+        "word": "太奶奶3开播追剧团",
+        "onboard_time": 1761454760,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104889,
+        "num": 104889,
+        "word": "向往的生活嘉宾不敢体检有病硬扛",
+        "onboard_time": 1761464000,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86800,
+        "num": 104564,
+        "word": "音综选手每晚吃柚子瘦了60斤",
+        "onboard_time": 1761464180,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104394,
+        "num": 104394,
+        "word": "德国爆破国内最强大核电站",
+        "onboard_time": 1761462140,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103213,
+        "num": 103213,
+        "word": "欧盟主席气急败坏竟威胁中国",
+        "onboard_time": 1761447380,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21778,
+        "num": 100453,
+        "word": "台湾教授苑举正北京祭拜吴石将军",
+        "onboard_time": 1761463340,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97895,
+        "num": 97895,
+        "word": "机器人越来越有人样了",
+        "onboard_time": 1761462560,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97785,
+        "num": 97785,
+        "word": "银河左岸",
+        "onboard_time": 1761461540,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96367,
+        "num": 96367,
+        "word": "俺爹俺娘要合体了",
+        "onboard_time": 1761462319,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96357,
+        "num": 96357,
+        "word": "从108减到了125斤",
+        "onboard_time": 1761452780,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93100,
+        "num": 93100,
+        "word": "宁静 孙红雷我没有白爱他",
+        "onboard_time": 1761460159,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93089,
+        "num": 93089,
+        "word": "14国发表联合声明",
+        "onboard_time": 1761459919,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90499,
+        "num": 90499,
+        "word": "奔跑吧天路篇全阵容官宣",
+        "onboard_time": 1761445819,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90697,
+        "num": 90155,
+        "word": "我终于可以不是妈妈了",
+        "onboard_time": 1761463700,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88188,
+        "num": 88188,
+        "word": "陈清晨贾一凡回应最后一舞",
+        "onboard_time": 1761463819,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83850,
+        "num": 87838,
+        "word": "暗河传",
+        "onboard_time": 1761462620,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81024,
+        "num": 87289,
+        "word": "2025共创之夜节目单",
+        "onboard_time": 1761458900,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}

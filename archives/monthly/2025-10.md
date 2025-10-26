@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 15:22:42
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 15:36:50
 </p>
 </blockquote>
 <p>
@@ -3855,6 +3855,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E9%A3%9F%E5%A0%82%E7%AD%89%E6%9D%A5%E4%BA%86%E6%9C%80%E6%87%82%E5%AE%83%E7%9A%84%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
+中戏食堂等来了最懂它的易烊千玺（热度：715525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%91%9E%E5%A3%AB%E5%BA%A6%E5%81%87%23" target="weibo">
 陈赫一家四口瑞士度假（热度：715109）
 </a>
@@ -5163,12 +5169,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F%E9%A3%9F%E5%A0%82%E7%AD%89%E6%9D%A5%E4%BA%86%E6%9C%80%E6%87%82%E5%AE%83%E7%9A%84%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
-中戏食堂等来了最懂它的易烊千玺（热度：604217）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23" target="weibo">
 中国女子盗窃法国博物馆12斤金块（热度：603748）
 </a>
@@ -5297,6 +5297,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
 店家回应男童喝珍珠奶茶窒息身亡（热度：596940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2318%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E6%89%A3%E4%B8%8B%E5%A5%B3%E5%84%BF%E8%B5%B7%E8%AF%89%E7%88%B8%E5%A6%88%23" target="weibo">
+18万彩礼被扣下女儿起诉爸妈（热度：595732）
 </a>
 </li>
 
@@ -5741,12 +5747,6 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E9%A5%A5%E9%A5%BF%E6%84%9F%E5%85%A5%E7%9D%A1%E8%84%82%E8%82%AA%E7%87%83%E7%83%A7%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 带着饥饿感入睡脂肪燃烧的全过程（热度：562035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2318%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E6%89%A3%E4%B8%8B%E5%A5%B3%E5%84%BF%E8%B5%B7%E8%AF%89%E7%88%B8%E5%A6%88%23" target="weibo">
-18万彩礼被扣下女儿起诉爸妈（热度：561604）
 </a>
 </li>
 
