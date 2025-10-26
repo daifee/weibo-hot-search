@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761482820758,
+  "endTime": 1761483708920,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -611,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1814476,
+      "num": 1814476,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1760151263,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1813954,
       "num": 1813954,
       "word": "南京地铁鸡鸣寺事件当事人发声",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1429940,
-      "num": 1429940,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1760151263,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 1429210,
@@ -3067,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953050,
+      "num": 277942,
+      "word": "曝女艺人盖浇饭泼导游",
+      "onboard_time": 1761479060,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952458,
       "num": 260803,
       "word": "易烊千玺参加补办毕业典礼",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1760587580,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 948837,
-      "num": 277942,
-      "word": "曝女艺人盖浇饭泼导游",
-      "onboard_time": 1761479060,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 947840,
@@ -4321,6 +4321,14 @@
       "onboard_time": 1759282520,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804042,
+      "num": 804042,
+      "word": "王者荣耀 有钱",
+      "onboard_time": 1761479422,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 803798,
@@ -7115,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597781,
+      "num": 282829,
+      "word": "盛夏芬德拉女主进组玉簟秋",
+      "onboard_time": 1761482362,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597748,
       "num": 227293,
       "word": "王鹤润工作室辟谣吵架原因",
@@ -9723,6 +9739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487828,
+      "num": 283243,
+      "word": "鞠婧祎紫衣锦鲤抄舞台",
+      "onboard_time": 1761481642,
+      "rank": 6,
+      "category": "演出,游戏"
+    },
+    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
@@ -10177,14 +10201,6 @@
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472237,
-      "num": 283243,
-      "word": "鞠婧祎紫衣锦鲤抄舞台",
-      "onboard_time": 1761481642,
-      "rank": 6,
-      "category": "演出,游戏"
     },
     {
       "raw_hot": 471933,
@@ -13723,14 +13739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367583,
-      "num": 367583,
-      "word": "王者荣耀 有钱",
-      "onboard_time": 1761479422,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 367563,
       "num": 367563,
       "word": "安世中国声明荷兰总部决定在中国无效",
@@ -14696,6 +14704,14 @@
       "word": "p图姐喊话黄俊捷",
       "onboard_time": 1759663644,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342568,
+      "num": 242896,
+      "word": "赵丽颖 披一缕落日熔金",
+      "onboard_time": 1761482181,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -16731,14 +16747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302517,
-      "num": 282829,
-      "word": "盛夏芬德拉女主进组玉簟秋",
-      "onboard_time": 1761482362,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302314,
       "num": 404371,
       "word": "马克龙就卢浮宫珠宝失窃案发声",
@@ -16873,6 +16881,14 @@
       "onboard_time": 1760341462,
       "rank": 7,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 300287,
+      "num": 300287,
+      "word": "竞男扫腿舞",
+      "onboard_time": 1761480260,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 300245,
@@ -17761,14 +17777,6 @@
       "onboard_time": 1761376640,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285800,
-      "num": 285800,
-      "word": "竞男扫腿舞",
-      "onboard_time": 1761480260,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 285716,
@@ -19683,6 +19691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255797,
+      "num": 229042,
+      "word": "王建国 爱奇艺副总裁小红",
+      "onboard_time": 1761481401,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255743,
       "num": 169066,
       "word": "虽然离很久了 但婚纱照超好看",
@@ -20577,14 +20593,6 @@
       "onboard_time": 1760577802,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 242896,
-      "num": 242896,
-      "word": "赵丽颖 披一缕落日熔金",
-      "onboard_time": 1761482181,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 242702,
@@ -22739,6 +22747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215437,
+      "num": 215437,
+      "word": "鞠婧祎抽空饭撒",
+      "onboard_time": 1761482901,
+      "rank": 30,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 215340,
       "num": 506686,
       "word": "花儿与少年",
@@ -23465,6 +23481,14 @@
       "onboard_time": 1760499080,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208036,
+      "num": 208036,
+      "word": "单依纯妆造",
+      "onboard_time": 1761482842,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208014,
@@ -24217,14 +24241,6 @@
       "onboard_time": 1760526142,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203234,
-      "num": 203234,
-      "word": "王建国 爱奇艺副总裁小红",
-      "onboard_time": 1761481401,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 203211,
@@ -27244,7 +27260,7 @@
     },
     {
       "raw_hot": 188556,
-      "num": 201289,
+      "num": 233858,
       "word": "中方维护利益是坚定的",
       "onboard_time": 1761471920,
       "rank": 27,
@@ -31272,6 +31288,14 @@
       "word": "范闲范思辙给林婉儿打call",
       "onboard_time": 1759758744,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168259,
+      "num": 168259,
+      "word": "千里江山图",
+      "onboard_time": 1761483501,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -35891,6 +35915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 151080,
+      "num": 151080,
+      "word": "邓紫棋裤子开了",
+      "onboard_time": 1761483501,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151072,
       "num": 151072,
       "word": "只要你谈过几次恋爱就会发现",
@@ -38531,6 +38563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142092,
+      "num": 142092,
+      "word": "王耀庆cos英雄亚瑟",
+      "onboard_time": 1761483560,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 142072,
       "num": 663426,
       "word": "余生有涯大结局",
@@ -39929,6 +39969,14 @@
       "onboard_time": 1761477441,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 138163,
+      "num": 138163,
+      "word": "秋冬常吃柚子身体会感谢你",
+      "onboard_time": 1761478761,
+      "rank": 47,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 138158,
@@ -41475,6 +41523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134267,
+      "num": 133298,
+      "word": "花海的礼物我是真想要",
+      "onboard_time": 1761480801,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134243,
       "num": 134243,
       "word": "邓超回到假期第一天的方法",
@@ -41585,6 +41641,14 @@
       "onboard_time": 1760364142,
       "rank": 36,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 133906,
+      "num": 133906,
+      "word": "TFING出发时刻",
+      "onboard_time": 1761483081,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133900,
@@ -70524,7 +70588,7 @@
     },
     {
       "raw_hot": 81275,
-      "num": 530099,
+      "num": 539713,
       "word": "靠实体经济走向未来",
       "onboard_time": 1761273621,
       "rank": 47,
@@ -71632,6 +71696,14 @@
       "word": "王楚钦每年2个大满贯单打冠军",
       "onboard_time": 1759829120,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78893,
+      "num": 158442,
+      "word": "樊振东和刘高阳混双夺冠后采访",
+      "onboard_time": 1761480801,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -73465,6 +73537,14 @@
       "onboard_time": 1760334802,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74334,
+      "num": 158116,
+      "word": "俄罗斯海燕核动力导弹",
+      "onboard_time": 1761483261,
+      "rank": 39,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 74309,

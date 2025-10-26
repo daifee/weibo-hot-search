@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761482820758,
+  "endTime": 1761483708920,
   "band_list": [
     {
       "raw_hot": 2221702,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1814476,
+      "num": 1814476,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1761475520,
+      "rank": 1,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 1603651,
       "num": 782189,
       "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
       "onboard_time": 1761447560,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1429940,
-      "num": 1429940,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1761475520,
-      "rank": 1,
-      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 1382212,
@@ -91,7 +91,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 948837,
+      "raw_hot": 953050,
       "num": 277942,
       "word": "曝女艺人盖浇饭泼导游",
       "onboard_time": 1761479060,
@@ -121,6 +121,14 @@
       "onboard_time": 1761456679,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804042,
+      "num": 804042,
+      "word": "王者荣耀 有钱",
+      "onboard_time": 1761479422,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 796530,
@@ -251,6 +259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 597781,
+      "num": 282829,
+      "word": "盛夏芬德拉女主进组玉簟秋",
+      "onboard_time": 1761482362,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 595732,
       "num": 255405,
       "word": "18万彩礼被扣下女儿起诉爸妈",
@@ -339,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 487828,
+      "num": 283243,
+      "word": "鞠婧祎紫衣锦鲤抄舞台",
+      "onboard_time": 1761481642,
+      "rank": 6,
+      "category": "演出,游戏"
+    },
+    {
       "raw_hot": 484326,
       "num": 484326,
       "word": "女孩失联一周竟是躲房间玩手机",
@@ -353,14 +377,6 @@
       "onboard_time": 1761459079,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 472237,
-      "num": 283243,
-      "word": "鞠婧祎紫衣锦鲤抄舞台",
-      "onboard_time": 1761481642,
-      "rank": 6,
-      "category": "演出,游戏"
     },
     {
       "raw_hot": 465863,
@@ -483,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367583,
-      "num": 367583,
-      "word": "王者荣耀 有钱",
-      "onboard_time": 1761479422,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 354481,
       "num": 292708,
       "word": "李在明称电诈组织碰韩国人必死",
@@ -520,6 +528,14 @@
       "word": "刘亦菲VogueWorld官宣",
       "onboard_time": 1761465920,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342568,
+      "num": 242896,
+      "word": "赵丽颖 披一缕落日熔金",
+      "onboard_time": 1761482181,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -587,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302517,
-      "num": 282829,
-      "word": "盛夏芬德拉女主进组玉簟秋",
-      "onboard_time": 1761482362,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 300287,
+      "num": 300287,
+      "word": "竞男扫腿舞",
+      "onboard_time": 1761480260,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 300245,
@@ -659,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285800,
-      "num": 285800,
-      "word": "竞男扫腿舞",
-      "onboard_time": 1761480260,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 282368,
       "num": 282368,
       "word": "钎九",
@@ -723,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255797,
+      "num": 229042,
+      "word": "王建国 爱奇艺副总裁小红",
+      "onboard_time": 1761481401,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254135,
       "num": 144277,
       "word": "恋与制作人被魅魔夹击了",
@@ -744,14 +760,6 @@
       "word": "侯明昊发红包",
       "onboard_time": 1761472160,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 242896,
-      "num": 242896,
-      "word": "赵丽颖 披一缕落日熔金",
-      "onboard_time": 1761482181,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -883,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215437,
+      "num": 215437,
+      "word": "鞠婧祎抽空饭撒",
+      "onboard_time": 1761482901,
+      "rank": 30,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 214944,
       "num": 147617,
       "word": "短剧离了李柯以谁还拿我当小孩",
@@ -963,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208036,
+      "num": 208036,
+      "word": "单依纯妆造",
+      "onboard_time": 1761482842,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204927,
       "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
@@ -977,14 +1001,6 @@
       "onboard_time": 1761439099,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 203234,
-      "num": 203234,
-      "word": "王建国 爱奇艺副总裁小红",
-      "onboard_time": 1761481401,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 203211,
@@ -1084,7 +1100,7 @@
     },
     {
       "raw_hot": 188556,
-      "num": 201289,
+      "num": 233858,
       "word": "中方维护利益是坚定的",
       "onboard_time": 1761471920,
       "rank": 27,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1761386721,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168259,
+      "num": 168259,
+      "word": "千里江山图",
+      "onboard_time": 1761483501,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 167315,
@@ -1403,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151080,
+      "num": 151080,
+      "word": "邓紫棋裤子开了",
+      "onboard_time": 1761483501,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150715,
       "num": 164576,
       "word": "高分十四号02星发射成功",
@@ -1507,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142092,
+      "num": 142092,
+      "word": "王耀庆cos英雄亚瑟",
+      "onboard_time": 1761483560,
+      "rank": 43,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 141792,
       "num": 141792,
       "word": "你猜胡先煦为什么不笑",
@@ -1579,6 +1619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 138163,
+      "num": 138163,
+      "word": "秋冬常吃柚子身体会感谢你",
+      "onboard_time": 1761478761,
+      "rank": 47,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 137990,
       "num": 137990,
       "word": "向往的生活嘉宾不敢体检有病硬扛",
@@ -1643,12 +1691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134267,
+      "num": 133298,
+      "word": "花海的礼物我是真想要",
+      "onboard_time": 1761480801,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134002,
       "num": 110593,
       "word": "杨幂的箭已射中我的心",
       "onboard_time": 1761467841,
       "rank": 45,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 133906,
+      "num": 133906,
+      "word": "TFING出发时刻",
+      "onboard_time": 1761483081,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 133900,
@@ -2644,7 +2708,7 @@
     },
     {
       "raw_hot": 81275,
-      "num": 530099,
+      "num": 539713,
       "word": "靠实体经济走向未来",
       "onboard_time": 1761469460,
       "rank": 2,
@@ -2681,6 +2745,14 @@
       "onboard_time": 1761467841,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78893,
+      "num": 158442,
+      "word": "樊振东和刘高阳混双夺冠后采访",
+      "onboard_time": 1761480801,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 78834,
@@ -2769,6 +2841,14 @@
       "onboard_time": 1761408501,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74334,
+      "num": 158116,
+      "word": "俄罗斯海燕核动力导弹",
+      "onboard_time": 1761483261,
+      "rank": 39,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 73887,
