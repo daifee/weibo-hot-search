@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 10:21:52
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 11:17:54
 </p>
 </blockquote>
 <p>
@@ -3375,6 +3375,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%8F%E6%99%9A%E7%94%A86%E7%93%B6%E9%85%92%E7%B2%BE%E5%86%B2%E6%B4%97%E5%B0%8F%E8%85%BF%23" target="weibo">
+18岁女大学生每晚用6瓶酒精冲洗小腿（热度：782189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%AE%B6%E9%87%8C%E5%B7%B2%E7%BB%8F%E7%94%9F%E4%BA%86100%E5%A4%9A%E6%9D%A1%E5%B0%8F%E9%B1%BC%E4%BA%86%23" target="weibo">
 张馨予家里已经生了100多条小鱼了（热度：782028）
 </a>
@@ -4689,6 +4695,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8E%BB%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6%E5%9C%A8%E6%9C%BA%E5%9C%BA%E5%BC%80%E5%A7%8B%E5%A5%94%E8%B7%91%E4%BA%86%23" target="weibo">
+王楚然去跑男录制在机场开始奔跑了（热度：635916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E7%AA%81%E7%84%B6%E7%88%86%E8%83%8E%E5%90%8E%E6%8E%92%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E7%AA%97%23" target="weibo">
 小车突然爆胎后排女子被甩出车窗（热度：635008）
 </a>
@@ -5999,18 +6011,6 @@ BLG战胜VKS（热度：543735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%9B%E6%81%A9%E5%A8%87%E5%85%B0%23" target="weibo">
 李沛恩娇兰（热度：543355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
-乌克兰制裁俄罗斯（热度：543094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E6%A0%A1%E6%9C%8D%E6%BD%AE%E5%88%B0%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
-成都七中校服潮到巴黎时装周（热度：542300）
 </a>
 </li>
 

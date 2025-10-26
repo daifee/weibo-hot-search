@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761445312252,
+  "endTime": 1761448674156,
   "band_list": [
     {
       "raw_hot": 1878130,
@@ -27,12 +27,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 782189,
+      "num": 782189,
+      "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
+      "onboard_time": 1761447560,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667714,
       "num": 848277,
       "word": "Bin",
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 635916,
+      "num": 245215,
+      "word": "王楚然去跑男录制在机场开始奔跑了",
+      "onboard_time": 1761444980,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 615881,
@@ -83,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 449523,
+      "num": 192410,
+      "word": "欧盟主席气急败坏竟威胁中国",
+      "onboard_time": 1761447380,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 420032,
       "num": 252865,
       "word": "成毅 扛剧",
@@ -91,12 +115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419143,
+      "num": 237249,
+      "word": "奔跑吧天路篇全阵容官宣",
+      "onboard_time": 1761445819,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388811,
       "num": 228020,
       "word": "鹿晗刚刚那段删掉",
       "onboard_time": 1761400461,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370125,
+      "num": 181813,
+      "word": "高瀚宇国外录恋综走丢录遗言",
+      "onboard_time": 1761447500,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 351926,
@@ -113,6 +153,14 @@
       "onboard_time": 1761427274,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 307652,
+      "num": 189842,
+      "word": "阿娇回应什么时候要孩子",
+      "onboard_time": 1761444859,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 290648,
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 235153,
-      "num": 179130,
+      "num": 193869,
       "word": "白鹿奔跑吧天路篇官宣节奏",
       "onboard_time": 1761444138,
       "rank": 13,
@@ -195,7 +243,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216853,
+      "raw_hot": 220739,
       "num": 194858,
       "word": "范丞丞cos绿巨人被认出",
       "onboard_time": 1761436097,
@@ -235,8 +283,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204039,
+      "num": 204039,
+      "word": "江苏观光车落水相关责任人已被控制",
+      "onboard_time": 1761439099,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 201319,
-      "num": 152692,
+      "num": 162442,
       "word": "秋冬尽量少洗澡",
       "onboard_time": 1761440841,
       "rank": 21,
@@ -251,20 +307,44 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 196271,
-      "num": 196271,
-      "word": "江苏观光车落水相关责任人已被控制",
-      "onboard_time": 1761439099,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 190514,
       "num": 256009,
       "word": "深圳机场会同航空公司启动核查",
       "onboard_time": 1761391042,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187293,
+      "num": 187293,
+      "word": "交警处理交通事故被男子殴打报警",
+      "onboard_time": 1761445880,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181807,
+      "num": 181807,
+      "word": "高级河灯",
+      "onboard_time": 1761447619,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174598,
+      "num": 174598,
+      "word": "鸡排哥回应是否发财了",
+      "onboard_time": 1761447320,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174082,
+      "num": 174082,
+      "word": "彭小苒新剧卧榻躺听取妈声一片",
+      "onboard_time": 1761447860,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 172996,
@@ -283,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "恋与深空",
+      "onboard_time": 1761448520,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -299,12 +387,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150586,
+      "num": 150586,
+      "word": "入青云",
+      "onboard_time": 1761436398,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138302,
       "num": 248100,
       "word": "少年的你发了新剧照",
       "onboard_time": 1761399082,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135167,
+      "num": 131458,
+      "word": "Doinb让BLG叫Tabe回来",
+      "onboard_time": 1761448040,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 134852,
@@ -315,12 +419,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131458,
+      "num": 131457,
+      "word": "网友用肥皂和爆炸盐洗净泛黄衣领",
+      "onboard_time": 1761445399,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129933,
       "num": 196542,
       "word": "长期戴眼镜导致的面部变化",
       "onboard_time": 1761391641,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "女生称卖黄金被套路杀价200元1克",
+      "onboard_time": 1761443359,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126165,
@@ -331,12 +451,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125025,
+      "num": 131459,
+      "word": "成毅天地剑心首播战报",
+      "onboard_time": 1761445639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124011,
       "num": 238888,
       "word": "吉林珲春5.5级地震",
       "onboard_time": 1761395425,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123290,
+      "num": 131458,
+      "word": "撒贝宁谢娜黄晓明王冰冰合体主持",
+      "onboard_time": 1761447440,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 122692,
@@ -363,12 +499,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 116617,
-      "num": 116617,
-      "word": "阿娇回应什么时候要孩子",
-      "onboard_time": 1761444859,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 115986,
+      "num": 115986,
+      "word": "河南一幼儿园凭硬核体能课走红",
+      "onboard_time": 1761445521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115638,
@@ -387,18 +523,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112598,
-      "num": 112598,
-      "word": "女生称卖黄金被套路杀价200元1克",
-      "onboard_time": 1761443359,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111552,
       "num": 196015,
       "word": "印度村民称泼粪节感觉很好",
       "onboard_time": 1761403642,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111045,
+      "num": 111045,
+      "word": "日本准备发放大米粮票",
+      "onboard_time": 1761445999,
       "rank": 34,
       "category": "海外新闻"
     },
@@ -475,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102479,
+      "num": 102479,
+      "word": "唐诡导演夸天地剑心好看",
+      "onboard_time": 1761446721,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101738,
       "num": 196286,
       "word": "希望机场服务让乘客能从容进飞机",
@@ -489,6 +633,14 @@
       "onboard_time": 1761401063,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100666,
+      "num": 100666,
+      "word": "Bin评论区被其过往言论刷屏",
+      "onboard_time": 1761445521,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 100017,
@@ -523,6 +675,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96739,
+      "num": 96739,
+      "word": "当商家说遮瑕用之前要先激活",
+      "onboard_time": 1761447140,
+      "rank": 40,
+      "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 95347,
+      "num": 95347,
+      "word": "星品",
+      "onboard_time": 1761401002,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95103,
+      "num": 95103,
+      "word": "水龙吟第五集的落魄十三楼真的很酷",
+      "onboard_time": 1761448399,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94114,
       "num": 113756,
       "word": "hi6实时收视第一",
@@ -537,6 +713,14 @@
       "onboard_time": 1761394703,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92108,
+      "num": 92108,
+      "word": "83岁的他对奶奶喊话叔叔的骨灰找到了",
+      "onboard_time": 1761447022,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91831,
@@ -587,12 +771,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83993,
+      "num": 83993,
+      "word": "顶级欧美投资人称欧美创业已没机会",
+      "onboard_time": 1761443840,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83112,
       "num": 196180,
       "word": "Bin lpl加油",
       "onboard_time": 1761389783,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82294,
+      "num": 82294,
+      "word": "第一巴图鲁正在研究宇宙",
+      "onboard_time": 1761448399,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81938,
+      "num": 81938,
+      "word": "于正金吾不禁试妆",
+      "onboard_time": 1761445880,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 81543,
@@ -609,14 +817,6 @@
       "onboard_time": 1761444020,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 80809,
-      "num": 80809,
-      "word": "顶级欧美投资人称欧美创业已没机会",
-      "onboard_time": 1761443840,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78104,
@@ -723,12 +923,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69746,
-      "num": 111571,
-      "word": "入青云",
-      "onboard_time": 1761436398,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 67923,
+      "num": 98276,
+      "word": "第一次见这么壕无人性的男主",
+      "onboard_time": 1761447619,
+      "rank": 39,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 63875,
@@ -827,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48364,
-      "num": 86577,
-      "word": "王楚然去跑男录制在机场开始奔跑了",
-      "onboard_time": 1761444980,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47953,
       "num": 195658,
       "word": "孟子义擦完你的擦你的",
@@ -884,7 +1076,7 @@
     },
     {
       "raw_hot": 43078,
-      "num": 364768,
+      "num": 504531,
       "word": "未来五年的重点任务",
       "onboard_time": 1761400643,
       "rank": 2,
