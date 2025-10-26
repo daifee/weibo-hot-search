@@ -1,10 +1,10 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761471414648,
+  "endTime": 1761474325451,
   "band_list": [
     {
       "raw_hot": 2221702,
-      "num": 254381,
+      "num": 268829,
       "word": "香港男大看色情内容窒息死亡",
       "onboard_time": 1761457099,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1186750,
-      "num": 292939,
+      "num": 350642,
       "word": "将门毒后 王鹤棣",
       "onboard_time": 1761465800,
       "rank": 5,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 727775,
-      "num": 253892,
+      "num": 264713,
       "word": "杨幂 你把幂幂打掉了",
       "onboard_time": 1761468501,
       "rank": 11,
@@ -121,6 +121,14 @@
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 641037,
+      "num": 641037,
+      "word": "iPhone千万别这样充电了",
+      "onboard_time": 1761470300,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 635916,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 609153,
-      "num": 253746,
+      "num": 257603,
       "word": "比伯又帅回来了",
       "onboard_time": 1761466941,
       "rank": 35,
@@ -211,11 +219,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548000,
+      "num": 249871,
+      "word": "杨幂cos艾琳",
+      "onboard_time": 1761473301,
+      "rank": 16,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 541809,
       "num": 220952,
       "word": "奔跑吧",
       "onboard_time": 1761441740,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 527329,
+      "num": 261905,
+      "word": "张予曦不小心坐毕雯珺腿上",
+      "onboard_time": 1761472819,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -225,6 +249,14 @@
       "onboard_time": 1761437538,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 513737,
+      "num": 260412,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 511641,
@@ -267,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 465863,
+      "num": 465863,
+      "word": "中美双方形成初步共识",
+      "onboard_time": 1761471860,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 464657,
       "num": 237031,
       "word": "原来是李一桐自己录的动捕",
@@ -299,20 +339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413303,
-      "num": 253159,
-      "word": "郑智化 深圳机场",
-      "onboard_time": 1761469341,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 411844,
       "num": 373917,
       "word": "31省份去年人口出生率数据公布",
       "onboard_time": 1761466761,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391777,
+      "num": 309267,
+      "word": "将门毒后",
+      "onboard_time": 1761468800,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 388811,
@@ -355,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354651,
+      "num": 354651,
+      "word": "警方回应上海金店被抢",
+      "onboard_time": 1761471140,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 354481,
       "num": 292708,
       "word": "李在明称电诈组织碰韩国人必死",
       "onboard_time": 1761454519,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 353758,
-      "num": 255606,
-      "word": "将门毒后",
-      "onboard_time": 1761468800,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 353194,
@@ -435,6 +475,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 312240,
+      "num": 253322,
+      "word": "红舞鞋剧组",
+      "onboard_time": 1761468262,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307652,
       "num": 189842,
       "word": "阿娇回应什么时候要孩子",
@@ -449,14 +497,6 @@
       "onboard_time": 1761466821,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299290,
-      "num": 251370,
-      "word": "红舞鞋剧组",
-      "onboard_time": 1761468262,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 296064,
@@ -595,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235253,
+      "num": 219180,
+      "word": "侯明昊发红包",
+      "onboard_time": 1761472160,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235153,
       "num": 193869,
       "word": "白鹿奔跑吧天路篇官宣节奏",
@@ -625,14 +673,6 @@
       "onboard_time": 1761458540,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222582,
-      "num": 222582,
-      "word": "iPhone千万别这样充电了",
-      "onboard_time": 1761470300,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 220739,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210322,
+      "num": 210322,
+      "word": "印度仿制中国霹雳15导弹",
+      "onboard_time": 1761472520,
+      "rank": 23,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 209514,
       "num": 184118,
       "word": "郑智化的尊严是我们共同的底线",
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 203211,
-      "num": 168807,
+      "num": 200139,
       "word": "国考考到中央怎么办",
       "onboard_time": 1761468080,
       "rank": 32,
@@ -745,6 +793,14 @@
       "onboard_time": 1761397041,
       "rank": 16,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 200410,
+      "num": 200410,
+      "word": "小酒窝和佟丽娅演真母女了",
+      "onboard_time": 1761473481,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195209,
@@ -779,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188556,
+      "num": 188556,
+      "word": "中方维护利益是坚定的",
+      "onboard_time": 1761471920,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187843,
       "num": 187843,
       "word": "猫耳声刻",
@@ -811,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179725,
+      "num": 179725,
+      "word": "九尾天机白泽",
+      "onboard_time": 1761473059,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178807,
       "num": 178807,
       "word": "王者荣耀十周年",
@@ -825,6 +897,14 @@
       "onboard_time": 1761458900,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174924,
+      "num": 174924,
+      "word": "孕检低风险却生下唐氏儿保险拒赔",
+      "onboard_time": 1761472101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174218,
@@ -1003,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151363,
+      "num": 151363,
+      "word": "奶皮子糖葫芦",
+      "onboard_time": 1761472281,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150715,
       "num": 164576,
       "word": "高分十四号02星发射成功",
@@ -1019,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148940,
-      "num": 148940,
-      "word": "警方回应上海金店被抢",
-      "onboard_time": 1761471140,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 148104,
       "num": 148104,
       "word": "黄景瑜对王安宇的成见是一座大山",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1761467301,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146691,
+      "num": 146691,
+      "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
+      "onboard_time": 1761472101,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146634,
@@ -1139,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137026,
+      "num": 180382,
+      "word": "暗河传第二",
+      "onboard_time": 1761472400,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136635,
       "num": 153075,
       "word": "罗云熙85生扛剧能力",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1761452060,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135765,
+      "num": 135765,
+      "word": "中超",
+      "onboard_time": 1761473360,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 135167,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1761465740,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131512,
+      "num": 131512,
+      "word": "德外长取消访华执政伙伴急了",
+      "onboard_time": 1761472520,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131458,
@@ -1499,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111016,
+      "num": 111016,
+      "word": "保汇率还是保房价",
+      "onboard_time": 1761470661,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 110907,
       "num": 244033,
       "word": "台湾光复当天的台湾街头",
@@ -1523,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110175,
+      "num": 110175,
+      "word": "花海本人已就位",
+      "onboard_time": 1761473059,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109802,
       "num": 109802,
       "word": "邓妍唯一高位女性角色",
@@ -1537,6 +1665,14 @@
       "onboard_time": 1761441799,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109208,
+      "num": 141379,
+      "word": "中美经贸磋商成果来之不易",
+      "onboard_time": 1761473421,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108535,
@@ -1673,6 +1809,14 @@
       "onboard_time": 1761453678,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102269,
+      "num": 269394,
+      "word": "中美讨论延长对等关税暂停期",
+      "onboard_time": 1761473721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101928,
@@ -2059,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81275,
+      "num": 497106,
+      "word": "靠实体经济走向未来",
+      "onboard_time": 1761469460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81113,
       "num": 81113,
       "word": "秋冬毛衣搭配思路",
@@ -2219,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69591,
+      "num": 233815,
+      "word": "京东为用户比价反招骂",
+      "onboard_time": 1761473481,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68228,
       "num": 549877,
       "word": "十五五6个坚持原则",
@@ -2235,12 +2395,12 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 66915,
-      "num": 374417,
-      "word": "靠实体经济走向未来",
-      "onboard_time": 1761469460,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 66185,
+      "num": 140449,
+      "word": "3女孩退租欠房费马桶塞满垃圾满屋",
+      "onboard_time": 1761473900,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65688,
@@ -2297,6 +2457,14 @@
       "onboard_time": 1761410719,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60637,
+      "num": 140543,
+      "word": "曾舜晞 我嘴角压不下来",
+      "onboard_time": 1761473601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60057,
