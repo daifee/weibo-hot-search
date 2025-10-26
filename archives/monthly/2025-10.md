@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 12:42:41
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 13:25:09
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%92%E7%89%8C%E9%B8%A1%E6%8E%92%E5%93%A5%E8%BF%9E%E4%BA%BA%E5%B8%A6%E8%BD%A6%E8%A2%AB%E5%8A%9D%E8%BF%94%23" target="weibo">
 冒牌鸡排哥连人带车被劝返（热度：1728253）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%88%9E%E9%9E%8B%E5%89%A7%E7%BB%84%E5%88%A0%E9%99%A4%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+红舞鞋剧组删除致歉声明（热度：1718907）
 </a>
 </li>
 
@@ -2039,12 +2045,6 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%20%E6%AC%A7%E8%B1%AA%E4%B9%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%23" target="weibo">
 唐嫣美成啥了 欧豪也是个神（热度：1003394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%88%9E%E9%9E%8B%E5%89%A7%E7%BB%84%E5%88%A0%E9%99%A4%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23" target="weibo">
-红舞鞋剧组删除致歉声明（热度：1002169）
 </a>
 </li>
 
@@ -3941,6 +3941,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%9E%A3%E5%AE%87%E8%92%AF%E6%9B%BC%23" target="weibo">
 王楚钦孙颖莎vs陈垣宇蒯曼（热度：705961）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%80%9A%E5%AE%87%E5%9B%BD%E5%A4%96%E5%BD%95%E6%81%8B%E7%BB%BC%E8%B5%B0%E4%B8%A2%E5%BD%95%E9%81%97%E8%A8%80%23" target="weibo">
+高瀚宇国外录恋综走丢录遗言（热度：705383）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%AE%A1%E7%90%86%23" target="weibo">
 男子灌面汤呛死妻子案再次延期审理（热度：544108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CVKS%23" target="weibo">
-BLG战胜VKS（热度：543735）
 </a>
 </li>
 
