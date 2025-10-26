@@ -1,10 +1,10 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761444011198,
+  "endTime": 1761445312252,
   "band_list": [
     {
       "raw_hot": 1878130,
-      "num": 196861,
+      "num": 223061,
       "word": "对钟楚曦的审判该停止了",
       "onboard_time": 1761438680,
       "rank": 5,
@@ -19,8 +19,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 814177,
-      "num": 1130268,
+      "raw_hot": 898862,
+      "num": 1143818,
       "word": "2元维C和98元维C的区别",
       "onboard_time": 1761440600,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 559332,
-      "num": 196745,
+      "num": 219962,
       "word": "马思纯推荐杨紫上花少8",
       "onboard_time": 1761438859,
       "rank": 6,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 541809,
-      "num": 196542,
+      "num": 220952,
       "word": "奔跑吧",
       "onboard_time": 1761441740,
       "rank": 7,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239895,
+      "num": 239895,
+      "word": "江苏启东观光车事故4人遇难",
+      "onboard_time": 1761437538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236045,
       "num": 236045,
       "word": "女子参加荒野求生14天后瘦成闪电",
@@ -171,12 +179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235153,
+      "num": 179130,
+      "word": "白鹿奔跑吧天路篇官宣节奏",
+      "onboard_time": 1761444138,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234466,
       "num": 196438,
       "word": "男子买马一觉醒来1匹变2匹",
       "onboard_time": 1761403642,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216853,
+      "num": 194858,
+      "word": "范丞丞cos绿巨人被认出",
+      "onboard_time": 1761436097,
+      "rank": 14,
+      "category": "艺人,演出"
     },
     {
       "raw_hot": 214320,
@@ -204,11 +228,19 @@
     },
     {
       "raw_hot": 204927,
-      "num": 134467,
+      "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
       "onboard_time": 1761441019,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201319,
+      "num": 152692,
+      "word": "秋冬尽量少洗澡",
+      "onboard_time": 1761440841,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 200530,
@@ -227,14 +259,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 194858,
-      "num": 194858,
-      "word": "范丞丞cos绿巨人被认出",
-      "onboard_time": 1761436097,
-      "rank": 14,
-      "category": "艺人,演出"
-    },
-    {
       "raw_hot": 190514,
       "num": 256009,
       "word": "深圳机场会同航空公司启动核查",
@@ -243,24 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184376,
-      "num": 196268,
-      "word": "江苏启东观光车事故4人遇难",
-      "onboard_time": 1761437538,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173260,
-      "num": 134214,
-      "word": "秋冬尽量少洗澡",
-      "onboard_time": 1761440841,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172996,
-      "num": 132110,
+      "num": 148439,
       "word": "英伟达退场 国产GPU接棒",
       "onboard_time": 1761442280,
       "rank": 22,
@@ -355,6 +363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116617,
+      "num": 116617,
+      "word": "阿娇回应什么时候要孩子",
+      "onboard_time": 1761444859,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115638,
       "num": 196023,
       "word": "八段锦跟练视频教程",
@@ -368,6 +384,14 @@
       "word": "北方又降4到10摄氏度",
       "onboard_time": 1761439579,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112598,
+      "num": 112598,
+      "word": "女生称卖黄金被套路杀价200元1克",
+      "onboard_time": 1761443359,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -419,20 +443,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104113,
+      "num": 104113,
+      "word": "美军将打造黄金舰队",
+      "onboard_time": 1761440778,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103954,
       "num": 196220,
       "word": "男子杀母后网购裹尸袋并盗母亲财物",
       "onboard_time": 1761396082,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103951,
-      "num": 103951,
-      "word": "美军将打造黄金舰队",
-      "onboard_time": 1761440778,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103949,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87614,
+      "num": 195945,
+      "word": "深圳机场将完善轮椅旅客服务保障",
+      "onboard_time": 1761409161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83112,
       "num": 196180,
       "word": "Bin lpl加油",
@@ -569,6 +601,14 @@
       "onboard_time": 1761403042,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81113,
+      "num": 81113,
+      "word": "秋冬毛衣搭配思路",
+      "onboard_time": 1761444020,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 80809,
@@ -643,11 +683,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73473,
-      "num": 195945,
-      "word": "深圳机场将完善轮椅旅客服务保障",
-      "onboard_time": 1761409161,
-      "rank": 39,
+      "raw_hot": 73404,
+      "num": 73404,
+      "word": "环卫工人节的9个倡议",
+      "onboard_time": 1761439520,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -787,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48364,
+      "num": 86577,
+      "word": "王楚然去跑男录制在机场开始奔跑了",
+      "onboard_time": 1761444980,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47953,
       "num": 195658,
       "word": "孟子义擦完你的擦你的",
@@ -843,6 +891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40034,
+      "num": 158220,
+      "word": "让残疾人从从容容登机不该是奢望",
+      "onboard_time": 1761444739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39904,
       "num": 115593,
       "word": "胡夏付辛博终于又合体了",
@@ -857,6 +913,14 @@
       "onboard_time": 1761402082,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36999,
+      "num": 86403,
+      "word": "小天辟谣郭皓离职",
+      "onboard_time": 1761444138,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 30489,
@@ -913,6 +977,14 @@
       "onboard_time": 1761418575,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14372,
+      "num": 156110,
+      "word": "网传电影版扫鼠岭男主肖战",
+      "onboard_time": 1761444799,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 13956,

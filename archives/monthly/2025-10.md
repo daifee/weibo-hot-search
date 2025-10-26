@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 10:00:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 10:21:52
 </p>
 </blockquote>
 <p>
@@ -2517,6 +2517,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%85%83%E7%BB%B4C%E5%92%8C98%E5%85%83%E7%BB%B4C%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
+2元维C和98元维C的区别（热度：898862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%86%8D%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 陈震再发文道歉（热度：898513）
 </a>
@@ -3077,12 +3083,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E6%96%B9%E5%9B%9E%E5%BA%94%E6%88%90%E5%8A%9F%E7%A6%BB%E5%A9%9A%23" target="weibo">
 王暖暖方回应成功离婚（热度：814321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%85%83%E7%BB%B4C%E5%92%8C98%E5%85%83%E7%BB%B4C%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
-2元维C和98元维C的区别（热度：814177）
 </a>
 </li>
 

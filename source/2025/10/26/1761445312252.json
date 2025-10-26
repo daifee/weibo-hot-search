@@ -1,0 +1,410 @@
+{
+  "runTime": 1761445312252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898862,
+        "num": 1143818,
+        "word": "2元维C和98元维C的区别",
+        "onboard_time": 1761440600,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404305,
+        "num": 404305,
+        "word": "官方通报观光车落水致4人遇难",
+        "onboard_time": 1761437538,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31750,
+        "num": 289512,
+        "word": "未来五年的重点任务",
+        "onboard_time": 1761400643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239895,
+        "num": 239895,
+        "word": "江苏启东观光车事故4人遇难",
+        "onboard_time": 1761437538,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223231,
+        "num": 223231,
+        "word": "Bin",
+        "onboard_time": 1761408681,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1720613,
+        "num": 223061,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506906,
+        "num": 220952,
+        "word": "奔跑吧",
+        "onboard_time": 1761441740,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443474,
+        "num": 219962,
+        "word": "马思纯推荐杨紫上花少8",
+        "onboard_time": 1761438859,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217318,
+        "num": 217318,
+        "word": "女子参加荒野求生14天后瘦成闪电",
+        "onboard_time": 1761433816,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195783,
+        "num": 195783,
+        "word": "江苏观光车落水相关责任人已被控制",
+        "onboard_time": 1761439099,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 499203,
+        "num": 193725,
+        "word": "成毅直播假吃冰棍",
+        "onboard_time": 1761433816,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257511,
+        "num": 187860,
+        "word": "张檬回应带儿子去香港打疫苗",
+        "onboard_time": 1761434297,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252002,
+        "num": 181099,
+        "word": "以为捡了条小奶狗不想越长越不对劲",
+        "onboard_time": 1761434116,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235153,
+        "num": 179130,
+        "word": "白鹿奔跑吧天路篇官宣节奏",
+        "onboard_time": 1761444138,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174207,
+        "num": 174207,
+        "word": "光复二字遍及台湾大街小巷",
+        "onboard_time": 1761427274,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216853,
+        "num": 173450,
+        "word": "范丞丞cos绿巨人被认出",
+        "onboard_time": 1761436097,
+        "rank": 15,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 167879,
+        "num": 167879,
+        "word": "订婚花60万共同生活4天后遭悔婚",
+        "onboard_time": 1761393622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159159,
+        "num": 159159,
+        "word": "长期熬夜的受害者出现了",
+        "onboard_time": 1761394761,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40034,
+        "num": 158220,
+        "word": "让残疾人从从容容登机不该是奢望",
+        "onboard_time": 1761444739,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14372,
+        "num": 156110,
+        "word": "网传电影版扫鼠岭男主肖战",
+        "onboard_time": 1761444799,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201319,
+        "num": 152692,
+        "word": "秋冬尽量少洗澡",
+        "onboard_time": 1761440841,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165974,
+        "num": 150997,
+        "word": "减肥时脂肪消耗是有顺序的",
+        "onboard_time": 1761441019,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 148439,
+        "word": "英伟达退场 国产GPU接棒",
+        "onboard_time": 1761442280,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134217,
+        "num": 134217,
+        "word": "刘宇宁才知道高定可以拿回家",
+        "onboard_time": 1761399862,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "男子买马一觉醒来1匹变2匹",
+        "onboard_time": 1761403642,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116617,
+        "num": 116617,
+        "word": "阿娇回应什么时候要孩子",
+        "onboard_time": 1761444859,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "女生称卖黄金被套路杀价200元1克",
+        "onboard_time": 1761443359,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104113,
+        "num": 104113,
+        "word": "美军将打造黄金舰队",
+        "onboard_time": 1761440778,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94198,
+        "num": 103716,
+        "word": "杨紫玉兰花开君再来将官宣",
+        "onboard_time": 1761433875,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83057,
+        "num": 103689,
+        "word": "成毅 扛剧",
+        "onboard_time": 1761402323,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103675,
+        "num": 103675,
+        "word": "台湾3兄妹考进北大替爷爷圆梦",
+        "onboard_time": 1761441259,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102791,
+        "num": 102791,
+        "word": "北方又降4到10摄氏度",
+        "onboard_time": 1761439579,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101511,
+        "num": 101511,
+        "word": "我国突破瓶颈成功研制新型芯片",
+        "onboard_time": 1761439099,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101418,
+        "num": 101418,
+        "word": "奥黛丽赫本之子在苏州胜诉",
+        "onboard_time": 1761397041,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 95652,
+        "num": 95652,
+        "word": "保时捷销售利润暴跌99%",
+        "onboard_time": 1761434657,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89731,
+        "num": 89731,
+        "word": "BLG称收尾走得潦草又愧疚",
+        "onboard_time": 1761442221,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "深圳机场将完善轮椅旅客服务保障",
+        "onboard_time": 1761409161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87100,
+        "num": 87100,
+        "word": "人打不打扮这差别还是很大的",
+        "onboard_time": 1761441559,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48364,
+        "num": 86577,
+        "word": "王楚然去跑男录制在机场开始奔跑了",
+        "onboard_time": 1761444980,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36999,
+        "num": 86403,
+        "word": "小天辟谣郭皓离职",
+        "onboard_time": 1761444138,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86234,
+        "num": 86234,
+        "word": "iPhone Air开售遇冷",
+        "onboard_time": 1761437538,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85955,
+        "num": 85955,
+        "word": "特朗普指责加拿大欺诈",
+        "onboard_time": 1761439940,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81113,
+        "num": 81113,
+        "word": "秋冬毛衣搭配思路",
+        "onboard_time": 1761444020,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 80664,
+        "num": 80664,
+        "word": "印度村民称泼粪节感觉很好",
+        "onboard_time": 1761403642,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79898,
+        "num": 79898,
+        "word": "奶奶保管了二十五年的红包",
+        "onboard_time": 1761441799,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77393,
+        "num": 77393,
+        "word": "顶级欧美投资人称欧美创业已没机会",
+        "onboard_time": 1761443840,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74698,
+        "num": 74698,
+        "word": "胡杏儿回应李施嬅车崇健上节目",
+        "onboard_time": 1761440120,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73404,
+        "num": 73404,
+        "word": "环卫工人节的9个倡议",
+        "onboard_time": 1761439520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72054,
+        "num": 72054,
+        "word": "白发长在这3处或是身体在拉响警报",
+        "onboard_time": 1761442280,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71546,
+        "num": 71546,
+        "word": "银灰明日方舟",
+        "onboard_time": 1761443299,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}
