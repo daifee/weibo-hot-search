@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 23:24:17
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 23:37:55
 </p>
 </blockquote>
 <p>
@@ -3663,6 +3663,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%80%E5%AE%9A%E8%A6%81%E5%BD%93%E5%A4%A9%E5%8F%91%23" target="weibo">
+朋友圈一定要当天发（热度：759836）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%AF%B7%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%B0%B1%E5%A5%BD%E5%A5%B9%E7%88%B9%E4%BC%9A%E8%B7%9F%E7%9D%80%E5%8E%BB%E7%9A%84%23" target="weibo">
 主办方请沈佳润就好她爹会跟着去的（热度：759795）
 </a>
@@ -5955,6 +5961,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B2%92%20%E6%88%91%E5%B0%86%E5%BC%80%E5%A7%8B%E5%87%8F%E5%B0%91%E8%88%9E%E5%8F%B0%E5%B7%A5%E4%BD%9C%23" target="weibo">
+陈粒 我将开始减少舞台工作（热度：557224）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%B2%9C%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E4%BA%86%23" target="weibo">
 海鲜价格暴跌了（热度：557204）
 </a>
@@ -5999,18 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E5%8D%95%E5%AF%B9%E6%88%98%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%23" target="weibo">
 王楚钦一单对战中国香港（热度：556181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E6%9D%A5%E4%BA%86%E4%B8%AA%E9%94%80%E5%86%A0%23" target="weibo">
-旺仔来了个销冠（热度：555665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E6%96%B9%E7%A7%B0%E6%B3%B0%E5%9B%BD%E7%A6%81%E5%A8%B130%E5%A4%A9%E4%BC%A0%E8%A8%80%E4%B8%8D%E5%AE%9E%23" target="weibo">
-泰方称泰国禁娱30天传言不实（热度：555400）
 </a>
 </li>
 

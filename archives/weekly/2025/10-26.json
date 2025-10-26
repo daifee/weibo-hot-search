@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761492257021,
+  "endTime": 1761493075239,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759836,
+      "num": 252187,
+      "word": "朋友圈一定要当天发",
+      "onboard_time": 1761490942,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 730806,
       "num": 381318,
       "word": "盛夏芬德拉女主进组玉簟秋",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 724282,
-      "num": 244557,
+      "num": 251277,
       "word": "彭小苒 八年前的红很突然现在是及时",
       "onboard_time": 1761489563,
       "rank": 11,
@@ -339,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557224,
+      "num": 250385,
+      "word": "陈粒 我将开始减少舞台工作",
+      "onboard_time": 1761491481,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548000,
       "num": 249871,
       "word": "杨幂cos艾琳",
       "onboard_time": 1761473301,
       "rank": 16,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 547291,
+      "num": 256541,
+      "word": "林俊杰一千年以后",
+      "onboard_time": 1761491183,
+      "rank": 7,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 542875,
@@ -361,14 +385,6 @@
       "onboard_time": 1761441740,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532720,
-      "num": 236105,
-      "word": "朋友圈一定要当天发",
-      "onboard_time": 1761490942,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 517628,
@@ -539,12 +555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 394779,
-      "num": 256541,
-      "word": "林俊杰一千年以后",
-      "onboard_time": 1761491183,
-      "rank": 7,
-      "category": "作品衍生,游戏"
+      "raw_hot": 393322,
+      "num": 393322,
+      "word": "多名考古学家白天考古晚上盗墓",
+      "onboard_time": 1761490102,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391777,
@@ -667,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 330524,
-      "num": 216308,
-      "word": "陈粒 我将开始减少舞台工作",
-      "onboard_time": 1761491481,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 325385,
       "num": 862061,
       "word": "光复二字遍及台湾大街小巷",
@@ -739,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305350,
-      "num": 305350,
-      "word": "多名考古学家白天考古晚上盗墓",
-      "onboard_time": 1761490102,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300287,
       "num": 300287,
       "word": "竞男扫腿舞",
@@ -769,6 +769,22 @@
       "onboard_time": 1761462019,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292000,
+      "num": 292000,
+      "word": "信离",
+      "onboard_time": 1761491183,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291210,
+      "num": 246919,
+      "word": "台湾豪宅双尸案",
+      "onboard_time": 1761491424,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290880,
@@ -923,22 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247874,
-      "num": 247874,
-      "word": "信离",
-      "onboard_time": 1761491183,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 247075,
-      "num": 204920,
-      "word": "台湾豪宅双尸案",
-      "onboard_time": 1761491424,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239895,
       "num": 239895,
       "word": "江苏启东观光车事故4人遇难",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1761475641,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222087,
+      "num": 244644,
+      "word": "迪丽热巴卫蓝打电话吵架戏",
+      "onboard_time": 1761492023,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 220739,
@@ -1163,6 +1171,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204887,
+      "num": 204887,
+      "word": "KPL群像",
+      "onboard_time": 1761491901,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204039,
       "num": 204039,
       "word": "江苏观光车落水相关责任人已被控制",
@@ -1171,8 +1187,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 203378,
-      "num": 203378,
+      "raw_hot": 203788,
+      "num": 203788,
       "word": "EDGnice",
       "onboard_time": 1761490402,
       "rank": 31,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1761468080,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202439,
-      "num": 210130,
-      "word": "迪丽热巴卫蓝打电话吵架戏",
-      "onboard_time": 1761492023,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 201380,
@@ -1235,14 +1243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199195,
-      "num": 199195,
-      "word": "KPL群像",
-      "onboard_time": 1761491901,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198982,
       "num": 198982,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
@@ -1265,6 +1265,14 @@
       "onboard_time": 1761489742,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195852,
+      "num": 243282,
+      "word": "何老师还是太权威了",
+      "onboard_time": 1761492321,
+      "rank": 27,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 195209,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1761482181,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180978,
+      "num": 180978,
+      "word": "白桃星座",
+      "onboard_time": 1761491243,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 179725,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1761477501,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162944,
-      "num": 162944,
-      "word": "白桃星座",
-      "onboard_time": 1761491243,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 161556,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1761451819,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149762,
+      "num": 253386,
+      "word": "甘孜4.7级地震",
+      "onboard_time": 1761492321,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 148104,
@@ -2115,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132601,
+      "num": 132601,
+      "word": "竞男罚站",
+      "onboard_time": 1761492803,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132415,
       "num": 178114,
       "word": "新疆放9天雪假不调休",
@@ -2275,6 +2299,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123900,
+      "num": 123900,
+      "word": "王者十周年全是梗",
+      "onboard_time": 1761492803,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123702,
       "num": 123702,
       "word": "张维伊在古装单开一桌",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1761404242,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121608,
+      "num": 121608,
+      "word": "易烊千玺十年的外向一天用完了",
+      "onboard_time": 1761490643,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120376,
@@ -2916,7 +2956,7 @@
     },
     {
       "raw_hot": 92040,
-      "num": 207746,
+      "num": 242073,
       "word": "许昕的镜头里出现了樊振东",
       "onboard_time": 1761491061,
       "rank": 28,
@@ -3723,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23745,
+      "num": 193938,
+      "word": "卢浮宫劫案嫌疑人企图登机离境时落网",
+      "onboard_time": 1761492144,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23024,
       "num": 166308,
       "word": "百草味面包疑似密封袋现活蟑螂",
@@ -3825,14 +3873,6 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10709,
-      "num": 193938,
-      "word": "卢浮宫劫案嫌疑人企图登机离境时落网",
-      "onboard_time": 1761492144,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10378,
