@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 22:22:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 22:39:29
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23" target="weibo">
+金价暴跌有大学生把生活费亏没了（热度：977264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E5%87%AD%E5%95%A5%E4%B8%8D%E7%9F%A5%E6%83%85%E6%97%B6%E6%8D%A2%E6%95%99%E7%BB%83%23" target="weibo">
 张继科说凭啥不知情时换教练（热度：975171）
 </a>
@@ -3525,12 +3531,6 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23" target="weibo">
-金价暴跌有大学生把生活费亏没了（热度：777522）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%8E%80%E6%A1%8C%E4%BA%86%23" target="weibo">
 马思纯掀桌了（热度：777517）
 </a>
@@ -4727,6 +4727,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E6%89%9B%E5%89%A7%23" target="weibo">
 成毅 扛剧（热度：646444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%23" target="weibo">
+玉簟秋（热度：644370）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%AE%9E%E4%BD%93%E4%B9%A6%23" target="weibo">
 墨香铜臭实体书（热度：554674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%AD%99%E5%8D%83%E8%BA%AB%E9%AB%98%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F%23" target="weibo">
-对孙千身高有了实感（热度：554286）
 </a>
 </li>
 
