@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761503660209,
+  "endTime": 1761504392363,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -3835,6 +3835,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 30666,
+      "num": 30666,
+      "word": "这回婚礼上没人着急开饭了",
+      "onboard_time": 1761501195,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30489,
       "num": 30489,
       "word": "安可",
@@ -3857,14 +3865,6 @@
       "onboard_time": 1761488302,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 29432,
-      "num": 29432,
-      "word": "这回婚礼上没人着急开饭了",
-      "onboard_time": 1761501195,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 27075,
@@ -3931,12 +3931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22503,
+      "num": 25005,
+      "word": "她的光芒",
+      "onboard_time": 1761503835,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21778,
       "num": 119079,
       "word": "台湾教授苑举正北京祭拜吴石将军",
       "onboard_time": 1761463340,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21696,
+      "num": 25004,
+      "word": "黄明昊唱诡门开好带感",
+      "onboard_time": 1761504194,
+      "rank": 43,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 21690,
