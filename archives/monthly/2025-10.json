@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761467428901,
+  "endTime": 1761468202810,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1876850,
+      "num": 199278,
+      "word": "香港男大看色情内容窒息死亡",
+      "onboard_time": 1761457099,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1875430,
       "num": 1875430,
       "word": "婚礼当天跳河男子已去世",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1760695162,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1459299,
-      "num": 179850,
-      "word": "香港男大看色情内容窒息死亡",
-      "onboard_time": 1761457099,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1455740,
@@ -1889,6 +1889,14 @@
       "onboard_time": 1760522601,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1151165,
+      "num": 240954,
+      "word": "将门毒后 王鹤棣",
+      "onboard_time": 1761465800,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1149838,
@@ -3897,14 +3905,6 @@
       "onboard_time": 1760277320,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 838935,
-      "num": 240954,
-      "word": "将门毒后 王鹤棣",
-      "onboard_time": 1761465800,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 838594,
@@ -14083,6 +14083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 353194,
+      "num": 190255,
+      "word": "音综选手每晚吃柚子瘦了60斤",
+      "onboard_time": 1761464180,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352933,
       "num": 439433,
       "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
@@ -14691,6 +14699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 338783,
+      "num": 183793,
+      "word": "午睡超过1小时死亡风险上升30%",
+      "onboard_time": 1761465379,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338626,
       "num": 436562,
       "word": "日本首位女首相的政策比男人还男人",
@@ -15081,14 +15097,6 @@
       "onboard_time": 1761105142,
       "rank": 44,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 329937,
-      "num": 179687,
-      "word": "音综选手每晚吃柚子瘦了60斤",
-      "onboard_time": 1761464180,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 329660,
@@ -16419,14 +16427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 305098,
-      "num": 179316,
-      "word": "午睡超过1小时死亡风险上升30%",
-      "onboard_time": 1761465379,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 305060,
       "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
@@ -17401,6 +17401,14 @@
       "onboard_time": 1761399082,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289024,
+      "num": 187417,
+      "word": "比伯又帅回来了",
+      "onboard_time": 1761466941,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 288815,
@@ -20409,6 +20417,14 @@
       "onboard_time": 1760515941,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241985,
+      "num": 185616,
+      "word": "易烊千玺参加了毕业聚餐",
+      "onboard_time": 1761466821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 241935,
@@ -24211,6 +24227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201380,
+      "num": 201380,
+      "word": "今年最想要的羽绒服出现了",
+      "onboard_time": 1761464540,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 201338,
       "num": 363192,
       "word": "天地剑心直播",
@@ -26987,6 +27011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187843,
+      "num": 187843,
+      "word": "猫耳声刻",
+      "onboard_time": 1761467540,
+      "rank": 15,
+      "category": "动漫,演出"
+    },
+    {
       "raw_hot": 187795,
       "num": 187795,
       "word": "孙颖莎vs张本美和",
@@ -27225,14 +27257,6 @@
       "onboard_time": 1759760063,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186392,
-      "num": 186392,
-      "word": "今年最想要的羽绒服出现了",
-      "onboard_time": 1761464540,
-      "rank": 8,
-      "category": "时尚"
     },
     {
       "raw_hot": 186376,
@@ -28195,6 +28219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181398,
+      "num": 181398,
+      "word": "31省份去年人口出生率数据公布",
+      "onboard_time": 1761466761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181394,
       "num": 181394,
       "word": "苹果官网确认iPhoneAir非合约机",
@@ -28529,14 +28561,6 @@
       "onboard_time": 1759846403,
       "rank": 18,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 179248,
-      "num": 179248,
-      "word": "易烊千玺参加了毕业聚餐",
-      "onboard_time": 1761466821,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 179174,
@@ -30803,6 +30827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168807,
+      "num": 168807,
+      "word": "国考考到中央怎么办",
+      "onboard_time": 1761468080,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168783,
       "num": 168783,
       "word": "咪不要看 是黑图",
@@ -31604,7 +31636,7 @@
     },
     {
       "raw_hot": 165625,
-      "num": 165625,
+      "num": 174734,
       "word": "敖瑞鹏跑男官宣",
       "onboard_time": 1761465800,
       "rank": 26,
@@ -36611,6 +36643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146997,
+      "num": 146997,
+      "word": "张博恒总结世锦赛plog",
+      "onboard_time": 1761467301,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146996,
       "num": 118922,
       "word": "印尼男子按习俗将出轨妻子交予情夫",
@@ -37249,14 +37289,6 @@
       "onboard_time": 1760693242,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145143,
-      "num": 151560,
-      "word": "31省份去年人口出生率数据公布",
-      "onboard_time": 1761466761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145088,
@@ -38155,6 +38187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141709,
+      "num": 141709,
+      "word": "香港男生窒息死亡警方初步排除自杀",
+      "onboard_time": 1761466821,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141704,
       "num": 141704,
       "word": "微博视界大会公告",
@@ -38851,6 +38891,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 139627,
+      "num": 139627,
+      "word": "王源 怎样度过一个有趣的周末",
+      "onboard_time": 1761467240,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139608,
       "num": 139608,
       "word": "AG对战TTG",
@@ -39457,6 +39505,14 @@
       "onboard_time": 1761022102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137990,
+      "num": 137990,
+      "word": "向往的生活嘉宾不敢体检有病硬扛",
+      "onboard_time": 1761464000,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137929,
@@ -41003,6 +41059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134002,
+      "num": 110593,
+      "word": "杨幂的箭已射中我的心",
+      "onboard_time": 1761467841,
+      "rank": 45,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
@@ -41473,14 +41537,6 @@
       "onboard_time": 1759671084,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132832,
-      "num": 132832,
-      "word": "香港男生窒息死亡警方初步排除自杀",
-      "onboard_time": 1761466821,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132831,
@@ -45321,14 +45377,6 @@
       "onboard_time": 1760065939,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123961,
-      "num": 123961,
-      "word": "比伯又帅回来了",
-      "onboard_time": 1761466941,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 123949,
@@ -50603,14 +50651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 113542,
-      "num": 113542,
-      "word": "向往的生活嘉宾不敢体检有病硬扛",
-      "onboard_time": 1761464000,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113537,
       "num": 113537,
       "word": "石洵瑶0比3朱芊曦",
@@ -51619,6 +51659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111796,
+      "num": 111796,
+      "word": "新疆放9天雪假不调休",
+      "onboard_time": 1761465740,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111788,
       "num": 111788,
       "word": "2句台词他说爽了我听爽了",
@@ -52233,6 +52281,14 @@
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110863,
+      "num": 110863,
+      "word": "暗河传加更这集给的太多了",
+      "onboard_time": 1761467061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 110862,
@@ -53067,6 +53123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109802,
+      "num": 109802,
+      "word": "邓妍唯一高位女性角色",
+      "onboard_time": 1761468022,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109785,
       "num": 109785,
       "word": "VOGUE群星风的形态创意大片",
@@ -53329,14 +53393,6 @@
       "onboard_time": 1761037402,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 109334,
-      "num": 109334,
-      "word": "张博恒总结世锦赛plog",
-      "onboard_time": 1761467301,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 109319,
@@ -54025,6 +54081,14 @@
       "onboard_time": 1760752821,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108292,
+      "num": 108292,
+      "word": "入青云结局的片尾彩蛋",
+      "onboard_time": 1761467301,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108277,
@@ -55329,6 +55393,14 @@
       "onboard_time": 1761277282,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106143,
+      "num": 106143,
+      "word": "鸡排哥回应过气",
+      "onboard_time": 1761465379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106137,
@@ -57523,14 +57595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102845,
-      "num": 102845,
-      "word": "王源 怎样度过一个有趣的周末",
-      "onboard_time": 1761467240,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102789,
       "num": 102789,
       "word": "杜兰特6犯离场",
@@ -58401,6 +58465,14 @@
       "onboard_time": 1760506880,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101495,
+      "num": 101495,
+      "word": "谁去猫咖还自己带猫",
+      "onboard_time": 1761467061,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 101479,
@@ -59409,14 +59481,6 @@
       "onboard_time": 1760143761,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 99707,
-      "num": 99707,
-      "word": "谁去猫咖还自己带猫",
-      "onboard_time": 1761467061,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 99664,
@@ -61379,14 +61443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 96125,
-      "num": 96125,
-      "word": "鸡排哥回应过气",
-      "onboard_time": 1761465379,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96121,
       "num": 96121,
       "word": "温峥嵘完全是温柔妈妈级别",
@@ -61793,14 +61849,6 @@
       "onboard_time": 1760168721,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 95425,
-      "num": 95425,
-      "word": "暗河传加更这集给的太多了",
-      "onboard_time": 1761467061,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 95413,
@@ -70585,6 +70633,14 @@
       "onboard_time": 1760507480,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79637,
+      "num": 186399,
+      "word": "罗德岛番茄派对",
+      "onboard_time": 1761467841,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 79610,
@@ -86233,6 +86289,22 @@
       "onboard_time": 1760486842,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7118,
+      "num": 377693,
+      "word": "你好十五五",
+      "onboard_time": 1761468140,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 6939,
+      "num": 135886,
+      "word": "黑龙江体育局副局长慰问王曼昱",
+      "onboard_time": 1761468022,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 6759,
