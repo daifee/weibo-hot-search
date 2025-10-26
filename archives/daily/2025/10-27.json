@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761521025769,
+  "endTime": 1761521873735,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 752410,
-      "num": 856930,
+      "raw_hot": 782000,
+      "num": 942637,
       "word": "多名考古学家白天考古晚上盗墓",
       "onboard_time": 1761490102,
       "rank": 0,
@@ -27,7 +27,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 654987,
+      "raw_hot": 669600,
       "num": 200896,
       "word": "台湾豪宅双尸案",
       "onboard_time": 1761491424,
@@ -75,6 +75,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 405917,
+      "num": 119170,
+      "word": "大二学生家中看色情片窒息而亡",
+      "onboard_time": 1761489742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366314,
       "num": 195820,
       "word": "原来不内耗的人脑子里是这么想的",
@@ -91,11 +99,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305235,
-      "num": 119170,
-      "word": "大二学生家中看色情片窒息而亡",
-      "onboard_time": 1761489742,
-      "rank": 38,
+      "raw_hot": 309444,
+      "num": 309444,
+      "word": "我国3岁以下婴幼儿约3000万",
+      "onboard_time": 1761479121,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -115,14 +123,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 292220,
-      "num": 292220,
-      "word": "我国3岁以下婴幼儿约3000万",
-      "onboard_time": 1761479121,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280504,
       "num": 191253,
       "word": "王建国 爱奇艺副总裁小红",
@@ -131,12 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259797,
-      "num": 75208,
+      "raw_hot": 277805,
+      "num": 109120,
       "word": "每天只睡6小时的受害者出现了",
       "onboard_time": 1761499516,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266345,
+      "num": 118593,
+      "word": "日本人因超市卖中国大米破防",
+      "onboard_time": 1761479662,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 249240,
@@ -147,20 +155,20 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 248773,
-      "num": 118593,
-      "word": "日本人因超市卖中国大米破防",
-      "onboard_time": 1761479662,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 246682,
       "num": 246682,
       "word": "盛夏芬德拉女主进组玉簟秋",
       "onboard_time": 1761482362,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243616,
+      "num": 109772,
+      "word": "周星驰不接张柏芝电话",
+      "onboard_time": 1761479301,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 240362,
@@ -179,8 +187,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196081,
+      "num": 109645,
+      "word": "43名新生弃读东华大学不必公告姓名",
+      "onboard_time": 1761486023,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194360,
-      "num": 77334,
+      "num": 109333,
       "word": "邱党WTT男单冠军",
       "onboard_time": 1761520039,
       "rank": 18,
@@ -267,6 +283,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 133848,
+      "num": 113024,
+      "word": "林忆莲染上了蒋欣在这里",
+      "onboard_time": 1761520639,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133751,
       "num": 133751,
       "word": "易烊千玺十年的外向一天用完了",
@@ -275,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125501,
-      "num": 74103,
-      "word": "周星驰不接张柏芝电话",
-      "onboard_time": 1761479301,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 130954,
+      "num": 108774,
+      "word": "英国律师结束刑事法庭戴假发传统",
+      "onboard_time": 1761520039,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125148,
@@ -315,7 +339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112109,
+      "raw_hot": 114929,
       "num": 195522,
       "word": "孕检低风险却生下唐氏儿保险拒赔",
       "onboard_time": 1761472101,
@@ -323,12 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108689,
-      "num": 72971,
-      "word": "43名新生弃读东华大学不必公告姓名",
-      "onboard_time": 1761486023,
-      "rank": 24,
+      "raw_hot": 108629,
+      "num": 108629,
+      "word": "机构回应27岁女子相亲被介绍50岁对象",
+      "onboard_time": 1761520039,
+      "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107592,
+      "num": 111231,
+      "word": "好久没追这么爽的国产剧了",
+      "onboard_time": 1761481161,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 105826,
@@ -339,6 +371,14 @@
       "category": "演出,游戏"
     },
     {
+      "raw_hot": 99885,
+      "num": 99885,
+      "word": "送药无人接听返店查药效骑手发声",
+      "onboard_time": 1761520217,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99020,
       "num": 118843,
       "word": "张予曦不小心坐毕雯珺腿上",
@@ -347,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93948,
-      "num": 70330,
-      "word": "英国律师结束刑事法庭戴假发传统",
-      "onboard_time": 1761520039,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 96072,
+      "num": 96072,
+      "word": "3女孩2个月将房子住包浆欠费跑路",
+      "onboard_time": 1761476841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92983,
+      "num": 92983,
+      "word": "陈粒演出时耳机爆炸",
+      "onboard_time": 1761521661,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 92974,
@@ -363,20 +411,28 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 91822,
-      "num": 69925,
-      "word": "机构回应27岁女子相亲被介绍50岁对象",
-      "onboard_time": 1761520039,
-      "rank": 32,
+      "raw_hot": 89043,
+      "num": 89043,
+      "word": "广东人生娃积极性第一名",
+      "onboard_time": 1761520339,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91519,
-      "num": 91519,
-      "word": "好久没追这么爽的国产剧了",
-      "onboard_time": 1761481161,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 81638,
+      "num": 104924,
+      "word": "皇马2比1巴萨",
+      "onboard_time": 1761501495,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81412,
+      "num": 81412,
+      "word": "孟佳把深V穿成了小V",
+      "onboard_time": 1761479781,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 80579,
@@ -403,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78698,
+      "num": 102224,
+      "word": "张杰200场嘉年华烟花秀",
+      "onboard_time": 1761520639,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 78537,
+      "num": 78537,
+      "word": "孟子义李昀锐未公开拍立得",
+      "onboard_time": 1761476900,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76743,
       "num": 159779,
       "word": "甘孜4.7级地震",
@@ -427,38 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73131,
-      "num": 69480,
-      "word": "广东人生娃积极性第一名",
-      "onboard_time": 1761520339,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71946,
-      "num": 71946,
-      "word": "林忆莲染上了蒋欣在这里",
-      "onboard_time": 1761520639,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 71846,
-      "num": 68758,
-      "word": "送药无人接听返店查药效骑手发声",
-      "onboard_time": 1761520217,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71431,
-      "num": 71431,
-      "word": "皇马2比1巴萨",
-      "onboard_time": 1761501495,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71210,
       "num": 71210,
       "word": "皇马vs巴萨",
@@ -475,11 +515,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 68658,
-      "num": 68658,
-      "word": "孟子义李昀锐未公开拍立得",
-      "onboard_time": 1761476900,
-      "rank": 35,
+      "raw_hot": 68468,
+      "num": 65895,
+      "word": "龚俊偏偏你最争气",
+      "onboard_time": 1761520697,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -491,12 +531,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 68025,
-      "num": 68025,
-      "word": "3女孩2个月将房子住包浆欠费跑路",
-      "onboard_time": 1761476841,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 67315,
+      "num": 100534,
+      "word": "张本美和WTT女单冠军",
+      "onboard_time": 1761520697,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 66047,
@@ -507,20 +547,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65926,
-      "num": 65926,
-      "word": "孟佳把深V穿成了小V",
-      "onboard_time": 1761479781,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "毛宁向世界分享中国人造太阳",
+      "onboard_time": 1761520217,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 62702,
+      "raw_hot": 65790,
+      "num": 65790,
+      "word": "电影炸裂白宫被五角大楼批评",
+      "onboard_time": 1761520398,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62902,
       "num": 132236,
       "word": "东部战区空军多支部队实战化训练",
       "onboard_time": 1761485603,
       "rank": 39,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 62434,
+      "num": 62434,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62083,
@@ -531,20 +587,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 60722,
-      "num": 60722,
-      "word": "电影炸裂白宫被五角大楼批评",
-      "onboard_time": 1761520398,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 60143,
-      "num": 60143,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 60112,
+      "num": 60112,
+      "word": "JackeyLove喊Nice破音",
+      "onboard_time": 1761520217,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 60087,
@@ -555,20 +603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59959,
-      "num": 71192,
-      "word": "张杰200场嘉年华烟花秀",
-      "onboard_time": 1761520639,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 59746,
       "num": 59746,
       "word": "3女孩租房住包浆跑路房东发声",
       "onboard_time": 1761513553,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58169,
+      "num": 58169,
+      "word": "管泽元说TES无敌",
+      "onboard_time": 1761520158,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 57753,
@@ -579,22 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57081,
-      "num": 61281,
-      "word": "毛宁向世界分享中国人造太阳",
-      "onboard_time": 1761520217,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 56794,
-      "num": 56794,
-      "word": "管泽元说TES无敌",
-      "onboard_time": 1761520158,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 54564,
       "num": 54564,
       "word": "游泳教练抱摔女童致其耳软骨断裂",
@@ -603,28 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53799,
-      "num": 59908,
-      "word": "张本美和WTT女单冠军",
-      "onboard_time": 1761520697,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
       "onboard_time": 1761512713,
       "rank": 49,
       "category": "民生新闻,作品衍生"
-    },
-    {
-      "raw_hot": 51243,
-      "num": 51243,
-      "word": "龚俊偏偏你最争气",
-      "onboard_time": 1761520697,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 46172,
@@ -715,7 +731,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 4080,
+      "raw_hot": 4402,
       "num": 295195,
       "word": "党历史上又一重要纲领性文件",
       "onboard_time": 1761450080,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761521025769,
+  "endTime": 1761521873735,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 782000,
+      "num": 942637,
+      "word": "多名考古学家白天考古晚上盗墓",
+      "onboard_time": 1761490102,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770377,
       "num": 370971,
       "word": "杨幂美成啥了",
@@ -185,14 +193,6 @@
       "onboard_time": 1761490942,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 752410,
-      "num": 856930,
-      "word": "多名考古学家白天考古晚上盗墓",
-      "onboard_time": 1761490102,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 730806,
@@ -243,20 +243,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 669600,
+      "num": 246919,
+      "word": "台湾豪宅双尸案",
+      "onboard_time": 1761491424,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667714,
       "num": 848277,
       "word": "Bin",
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 654987,
-      "num": 246919,
-      "word": "台湾豪宅双尸案",
-      "onboard_time": 1761491424,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 644370,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405917,
+      "num": 196260,
+      "word": "大二学生家中看色情片窒息而亡",
+      "onboard_time": 1761489742,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404782,
       "num": 404782,
       "word": "王者新英雄六耳预告",
@@ -755,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309444,
+      "num": 309444,
+      "word": "我国3岁以下婴幼儿约3000万",
+      "onboard_time": 1761479121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307652,
       "num": 189842,
       "word": "阿娇回应什么时候要孩子",
@@ -767,14 +783,6 @@
       "num": 254431,
       "word": "3女孩2个月将房子住包浆欠费跑路",
       "onboard_time": 1761476841,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305235,
-      "num": 196260,
-      "word": "大二学生家中看色情片窒息而亡",
-      "onboard_time": 1761489742,
       "rank": 36,
       "category": "民生新闻"
     },
@@ -801,14 +809,6 @@
       "onboard_time": 1761462019,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292220,
-      "num": 292220,
-      "word": "我国3岁以下婴幼儿约3000万",
-      "onboard_time": 1761479121,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292000,
@@ -891,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277805,
+      "num": 109120,
+      "word": "每天只睡6小时的受害者出现了",
+      "onboard_time": 1761499516,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277151,
       "num": 277151,
       "word": "江西一公安局副局长为黑恶势力站台",
@@ -915,20 +923,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266345,
+      "num": 216221,
+      "word": "日本人因超市卖中国大米破防",
+      "onboard_time": 1761479662,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 264142,
       "num": 264142,
       "word": "王者新英雄王维概念公布",
       "onboard_time": 1761485782,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259797,
-      "num": 75208,
-      "word": "每天只睡6小时的受害者出现了",
-      "onboard_time": 1761499516,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 256448,
@@ -953,14 +961,6 @@
       "onboard_time": 1761479301,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248773,
-      "num": 216221,
-      "word": "日本人因超市卖中国大米破防",
-      "onboard_time": 1761479662,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 248458,
@@ -1316,7 +1316,7 @@
     },
     {
       "raw_hot": 194360,
-      "num": 77334,
+      "num": 109333,
       "word": "邱党WTT男单冠军",
       "onboard_time": 1761520039,
       "rank": 18,
@@ -2171,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133848,
+      "num": 113024,
+      "word": "林忆莲染上了蒋欣在这里",
+      "onboard_time": 1761520639,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133784,
       "num": 133784,
       "word": "陈数居然会开车漂移",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1761476841,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130954,
+      "num": 108774,
+      "word": "英国律师结束刑事法庭戴假发传统",
+      "onboard_time": 1761520039,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130677,
@@ -2651,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108629,
+      "num": 108629,
+      "word": "机构回应27岁女子相亲被介绍50岁对象",
+      "onboard_time": 1761520039,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108535,
       "num": 173830,
       "word": "2025微博视界大会定档",
@@ -2859,6 +2883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99885,
+      "num": 99885,
+      "word": "送药无人接听返店查药效骑手发声",
+      "onboard_time": 1761520217,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99837,
       "num": 99837,
       "word": "灰原哀早期的高级感",
@@ -2987,14 +3019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93948,
-      "num": 70330,
-      "word": "英国律师结束刑事法庭戴假发传统",
-      "onboard_time": 1761520039,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93869,
       "num": 93869,
       "word": "范丞丞 那是科学怪人",
@@ -3009,6 +3033,14 @@
       "onboard_time": 1761465620,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92983,
+      "num": 92983,
+      "word": "陈粒演出时耳机爆炸",
+      "onboard_time": 1761521661,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 92974,
@@ -3051,14 +3083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91822,
-      "num": 69925,
-      "word": "机构回应27岁女子相亲被介绍50岁对象",
-      "onboard_time": 1761520039,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91233,
       "num": 196124,
       "word": "AL打T1",
@@ -3089,6 +3113,14 @@
       "onboard_time": 1761439940,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89043,
+      "num": 89043,
+      "word": "广东人生娃积极性第一名",
+      "onboard_time": 1761520339,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88744,
@@ -3251,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81638,
+      "num": 104924,
+      "word": "皇马2比1巴萨",
+      "onboard_time": 1761501495,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81543,
       "num": 196060,
       "word": "张予曦怼脸 好歹毒的镜头好美的脸",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1761473481,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 78698,
+      "num": 102224,
+      "word": "张杰200场嘉年华烟花秀",
+      "onboard_time": 1761520639,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 78104,
@@ -3435,14 +3483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73131,
-      "num": 69480,
-      "word": "广东人生娃积极性第一名",
-      "onboard_time": 1761520339,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72551,
       "num": 195969,
       "word": "彭小苒 翻红",
@@ -3457,30 +3497,6 @@
       "onboard_time": 1761395781,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71946,
-      "num": 71946,
-      "word": "林忆莲染上了蒋欣在这里",
-      "onboard_time": 1761520639,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 71846,
-      "num": 68758,
-      "word": "送药无人接听返店查药效骑手发声",
-      "onboard_time": 1761520217,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71431,
-      "num": 71431,
-      "word": "皇马2比1巴萨",
-      "onboard_time": 1761501495,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 71317,
@@ -3531,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68468,
+      "num": 65895,
+      "word": "龚俊偏偏你最争气",
+      "onboard_time": 1761520697,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68228,
       "num": 549877,
       "word": "十五五6个坚持原则",
@@ -3555,12 +3579,36 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 67315,
+      "num": 100534,
+      "word": "张本美和WTT女单冠军",
+      "onboard_time": 1761520697,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66047,
       "num": 87890,
       "word": "关晓彤千里江山图官宣节奏",
       "onboard_time": 1761494180,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "毛宁向世界分享中国人造太阳",
+      "onboard_time": 1761520217,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 65790,
+      "num": 65790,
+      "word": "电影炸裂白宫被五角大楼批评",
+      "onboard_time": 1761520398,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65688,
@@ -3603,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62434,
+      "num": 62434,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62251,
       "num": 113513,
       "word": "童增逝世",
@@ -3627,20 +3683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60722,
-      "num": 60722,
-      "word": "电影炸裂白宫被五角大楼批评",
-      "onboard_time": 1761520398,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 60143,
-      "num": 60143,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 60112,
+      "num": 60112,
+      "word": "JackeyLove喊Nice破音",
+      "onboard_time": 1761520217,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 60087,
@@ -3665,14 +3713,6 @@
       "onboard_time": 1761409279,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59959,
-      "num": 71192,
-      "word": "张杰200场嘉年华烟花秀",
-      "onboard_time": 1761520639,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 59855,
@@ -3723,6 +3763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58169,
+      "num": 58169,
+      "word": "管泽元说TES无敌",
+      "onboard_time": 1761520158,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58051,
       "num": 195812,
       "word": "明日方舟",
@@ -3737,22 +3785,6 @@
       "onboard_time": 1761494841,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57081,
-      "num": 61281,
-      "word": "毛宁向世界分享中国人造太阳",
-      "onboard_time": 1761520217,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 56794,
-      "num": 56794,
-      "word": "管泽元说TES无敌",
-      "onboard_time": 1761520158,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 55129,
@@ -3771,28 +3803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53799,
-      "num": 59908,
-      "word": "张本美和WTT女单冠军",
-      "onboard_time": 1761520697,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
       "onboard_time": 1761512713,
       "rank": 49,
       "category": "民生新闻,作品衍生"
-    },
-    {
-      "raw_hot": 51243,
-      "num": 51243,
-      "word": "龚俊偏偏你最争气",
-      "onboard_time": 1761520697,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 49826,
