@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 17:23:51
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 17:36:54
 </p>
 </blockquote>
 <p>
@@ -3813,6 +3813,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E6%8A%8A%E5%B9%82%E5%B9%82%E6%89%93%E6%8E%89%E4%BA%86%23" target="weibo">
+杨幂 你把幂幂打掉了（热度：727775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E7%8E%A9%E5%B9%B3%E5%8F%B0%E9%80%80%E6%AC%BE%E8%A6%81%E6%B1%82%E6%89%87%E5%AD%A9%E5%AD%90%E8%80%B3%E5%85%895%E5%88%86%E9%92%9F%23" target="weibo">
 潮玩平台退款要求扇孩子耳光5分钟（热度：726885）
 </a>
@@ -4349,12 +4355,6 @@ TES抽中BLG（热度：681512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E8%87%AA%E7%84%B6%E5%BE%97%E5%83%8F%E6%B2%A1%E6%90%9E%E4%B8%80%E6%A0%B7%23" target="weibo">
 马思纯 自然得像没搞一样（热度：674573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E6%8A%8A%E5%B9%82%E5%B9%82%E6%89%93%E6%8E%89%E4%BA%86%23" target="weibo">
-杨幂 你把幂幂打掉了（热度：674359）
 </a>
 </li>
 
@@ -5139,6 +5139,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%8F%88%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+比伯又帅回来了（热度：609153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%E6%80%92%E6%96%A5%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%23" target="weibo">
 郑智化怒斥深圳机场（热度：608197）
 </a>
@@ -5537,12 +5543,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 陈哲远发红包（热度：580360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%8F%88%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-比伯又帅回来了（热度：580205）
 </a>
 </li>
 

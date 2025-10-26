@@ -1,0 +1,410 @@
+{
+  "runTime": 1761471414648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 750161,
+        "num": 1120025,
+        "word": "AI把薯片误判为枪惊动八辆美国警车",
+        "onboard_time": 1761468320,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351118,
+        "num": 351118,
+        "word": "湘潭大学37岁博导刘昊霖去世",
+        "onboard_time": 1761456679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66915,
+        "num": 304120,
+        "word": "靠实体经济走向未来",
+        "onboard_time": 1761469460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411844,
+        "num": 300189,
+        "word": "31省份去年人口出生率数据公布",
+        "onboard_time": 1761466761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295192,
+        "num": 295192,
+        "word": "35元1个面包被年轻人疯抢",
+        "onboard_time": 1761457039,
+        "rank": 4,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 1105531,
+        "num": 284938,
+        "word": "将门毒后 王鹤棣",
+        "onboard_time": 1761465800,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255902,
+        "num": 255902,
+        "word": "女孩失联一周竟是躲房间玩手机",
+        "onboard_time": 1761463100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353758,
+        "num": 255606,
+        "word": "将门毒后",
+        "onboard_time": 1761468800,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212842,
+        "num": 255209,
+        "word": "刘亦菲VogueWorld官宣",
+        "onboard_time": 1761465920,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77056,
+        "num": 255024,
+        "word": "中美经贸团队进行深入坦诚交流",
+        "onboard_time": 1761470661,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2100890,
+        "num": 254381,
+        "word": "香港男大看色情内容窒息死亡",
+        "onboard_time": 1761457099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727775,
+        "num": 253892,
+        "word": "杨幂 你把幂幂打掉了",
+        "onboard_time": 1761468501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609153,
+        "num": 253746,
+        "word": "比伯又帅回来了",
+        "onboard_time": 1761466941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413303,
+        "num": 253159,
+        "word": "郑智化 深圳机场",
+        "onboard_time": 1761469341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346514,
+        "num": 253015,
+        "word": "第一批金价下跌受害者出现了",
+        "onboard_time": 1761458959,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338755,
+        "num": 252465,
+        "word": "小海绵探班黄晓明",
+        "onboard_time": 1761463520,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31362,
+        "num": 251842,
+        "word": "罗德岛番茄派对",
+        "onboard_time": 1761467841,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300245,
+        "num": 251525,
+        "word": "易烊千玺参加了毕业聚餐",
+        "onboard_time": 1761466821,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299290,
+        "num": 251370,
+        "word": "红舞鞋剧组",
+        "onboard_time": 1761468262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251030,
+        "num": 251030,
+        "word": "音综选手每晚吃柚子瘦了60斤",
+        "onboard_time": 1761464180,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329243,
+        "num": 238758,
+        "word": "午睡超过1小时死亡风险上升30%",
+        "onboard_time": 1761465379,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222582,
+        "num": 222582,
+        "word": "iPhone千万别这样充电了",
+        "onboard_time": 1761470300,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240952,
+        "num": 219515,
+        "word": "中戏食堂等来了最懂它的易烊千玺",
+        "onboard_time": 1761461301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188192,
+        "num": 188192,
+        "word": "高瀚宇国外录恋综走丢录遗言",
+        "onboard_time": 1761447500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181115,
+        "num": 181115,
+        "word": "今年最想要的羽绒服出现了",
+        "onboard_time": 1761464540,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175147,
+        "num": 175147,
+        "word": "入青云",
+        "onboard_time": 1761467360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164367,
+        "num": 164367,
+        "word": "深圳机场的视频来了",
+        "onboard_time": 1761465980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170476,
+        "num": 161999,
+        "word": "入青云结局",
+        "onboard_time": 1761453321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118529,
+        "num": 159491,
+        "word": "敖瑞鹏跑男官宣",
+        "onboard_time": 1761465800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203211,
+        "num": 155432,
+        "word": "国考考到中央怎么办",
+        "onboard_time": 1761468080,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35029,
+        "num": 150571,
+        "word": "揭秘所谓高端四件套",
+        "onboard_time": 1761469041,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148940,
+        "num": 148940,
+        "word": "警方回应上海金店被抢",
+        "onboard_time": 1761471140,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142157,
+        "num": 142157,
+        "word": "金价",
+        "onboard_time": 1761466641,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131512,
+        "num": 131512,
+        "word": "香港男生窒息死亡警方初步排除自杀",
+        "onboard_time": 1761466821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128712,
+        "num": 128712,
+        "word": "张远还在对抗躁郁症",
+        "onboard_time": 1761462019,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123270,
+        "num": 123270,
+        "word": "这coser确实很引人注目了",
+        "onboard_time": 1761470781,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 120376,
+        "word": "亚洲第一长洞发现52具熊猫化石",
+        "onboard_time": 1761470300,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37580,
+        "num": 119572,
+        "word": "马思纯来了个这么帅的维修龚",
+        "onboard_time": 1761471201,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25182,
+        "num": 119138,
+        "word": "张远曝苏醒逼大家让他当队长",
+        "onboard_time": 1761471201,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 119111,
+        "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
+        "onboard_time": 1761447560,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118079,
+        "num": 118079,
+        "word": "法老 活死人回来了每个都在",
+        "onboard_time": 1761468621,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112044,
+        "num": 112044,
+        "word": "李飞重生的证据又多了",
+        "onboard_time": 1761459860,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107392,
+        "num": 107392,
+        "word": "新疆放9天雪假不调休",
+        "onboard_time": 1761465740,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105517,
+        "num": 105517,
+        "word": "真正关系好的朋友",
+        "onboard_time": 1761470901,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 102135,
+        "word": "缅甸军方爆破KK园区内建筑",
+        "onboard_time": 1761459079,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101464,
+        "num": 101464,
+        "word": "鸡排哥回应过气",
+        "onboard_time": 1761465379,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100961,
+        "num": 100961,
+        "word": "小华晨宇为获尚雯婕认可二度参赛",
+        "onboard_time": 1761471320,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96022,
+        "num": 96022,
+        "word": "向往的生活嘉宾不敢体检有病硬扛",
+        "onboard_time": 1761464000,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94623,
+        "num": 94623,
+        "word": "18万彩礼被扣下女儿起诉爸妈",
+        "onboard_time": 1761457820,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}
