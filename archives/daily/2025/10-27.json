@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761506442278,
+  "endTime": 1761507417158,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -459,20 +459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27446,
+      "num": 34405,
+      "word": "东帝汶总理流泪了",
+      "onboard_time": 1761504495,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25647,
       "num": 28603,
       "word": "孙燕姿南京演唱会",
       "onboard_time": 1761493461,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24468,
-      "num": 31516,
-      "word": "东帝汶总理流泪了",
-      "onboard_time": 1761504495,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22503,
@@ -491,7 +491,7 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 15476,
+      "raw_hot": 18895,
       "num": 20077,
       "word": "男子没拔充电器客厅东西被烧光",
       "onboard_time": 1761506416,
