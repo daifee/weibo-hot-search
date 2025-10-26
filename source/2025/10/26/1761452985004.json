@@ -1,0 +1,410 @@
+{
+  "runTime": 1761452985004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 571838,
+        "num": 1091494,
+        "word": "鸡排哥回应是否发财了",
+        "onboard_time": 1761447320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417618,
+        "num": 417618,
+        "word": "2元维C和98元维C的区别",
+        "onboard_time": 1761440600,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61650,
+        "num": 363341,
+        "word": "十五五6个坚持原则",
+        "onboard_time": 1761450320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337821,
+        "num": 337821,
+        "word": "普京又催生",
+        "onboard_time": 1761449479,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241839,
+        "num": 241839,
+        "word": "交警处理交通事故被男子殴打报警",
+        "onboard_time": 1761445880,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505070,
+        "num": 222618,
+        "word": "黄晓明回应刘亦菲宣传新片",
+        "onboard_time": 1761450620,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277521,
+        "num": 219825,
+        "word": "高瀚宇国外录恋综走丢录遗言",
+        "onboard_time": 1761447500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258746,
+        "num": 217164,
+        "word": "锦月令定档",
+        "onboard_time": 1761450560,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182933,
+        "num": 182933,
+        "word": "恋与深空",
+        "onboard_time": 1761448520,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 182890,
+        "word": "恋与制作人",
+        "onboard_time": 1761450022,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1268225,
+        "num": 181863,
+        "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
+        "onboard_time": 1761447560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409696,
+        "num": 180948,
+        "word": "欧盟主席气急败坏竟威胁中国",
+        "onboard_time": 1761447380,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342465,
+        "num": 180730,
+        "word": "奔跑吧天路篇全阵容官宣",
+        "onboard_time": 1761445819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242481,
+        "num": 179635,
+        "word": "入青云",
+        "onboard_time": 1761436398,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105458,
+        "num": 178806,
+        "word": "和夸克聊完感觉要涨工资了",
+        "onboard_time": 1761451220,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203604,
+        "num": 178227,
+        "word": "Ning喊话姿态",
+        "onboard_time": 1761449479,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 177292,
+        "word": "大梦归离",
+        "onboard_time": 1761450379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "唐诡导演夸天地剑心好看",
+        "onboard_time": 1761446721,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131497,
+        "num": 176911,
+        "word": "父亲囤40多件黄金给女儿当嫁妆",
+        "onboard_time": 1761449899,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57005,
+        "num": 176350,
+        "word": "王者荣耀首个全英雄cos",
+        "onboard_time": 1761449300,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1070192,
+        "num": 175802,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373896,
+        "num": 175163,
+        "word": "王楚然去跑男录制在机场开始奔跑了",
+        "onboard_time": 1761444980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291354,
+        "num": 174739,
+        "word": "马思纯推荐杨紫上花少8",
+        "onboard_time": 1761438859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174218,
+        "num": 174218,
+        "word": "陈楚生姑娘再现吉他起火",
+        "onboard_time": 1761451999,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173321,
+        "num": 173321,
+        "word": "范丞丞cos绿巨人被认出",
+        "onboard_time": 1761436097,
+        "rank": 24,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 158639,
+        "num": 158639,
+        "word": "阿娇回应什么时候要孩子",
+        "onboard_time": 1761444859,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153917,
+        "num": 153917,
+        "word": "吉克隽逸 我这个肤色你都要问是谁",
+        "onboard_time": 1761451641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119699,
+        "num": 151131,
+        "word": "官方通报观光车落水致4人遇难",
+        "onboard_time": 1761437538,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 95154,
+        "num": 150689,
+        "word": "江苏观光车落水相关责任人已被控制",
+        "onboard_time": 1761439099,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36881,
+        "num": 150583,
+        "word": "陈数秋日出行松弛感",
+        "onboard_time": 1761449600,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150556,
+        "num": 150556,
+        "word": "养成系李莲花",
+        "onboard_time": 1761451819,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150036,
+        "num": 150036,
+        "word": "足浴店2楼异常2人嫖娼卖淫被抓",
+        "onboard_time": 1761451700,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142884,
+        "num": 142884,
+        "word": "不要轻易尝试冰冻柚子",
+        "onboard_time": 1761452421,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141636,
+        "num": 141636,
+        "word": "邓家佳跳了范丞丞版sugar舞",
+        "onboard_time": 1761452358,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105949,
+        "num": 140675,
+        "word": "匿名者向美国防部捐赠 1.3 亿美元",
+        "onboard_time": 1761452721,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "入青云直播",
+        "onboard_time": 1761452601,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101212,
+        "num": 137722,
+        "word": "山东姑娘赵娜获环球小姐中国总冠军",
+        "onboard_time": 1761450022,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136537,
+        "num": 136537,
+        "word": "成毅直播假吃冰棍",
+        "onboard_time": 1761433816,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136119,
+        "num": 136119,
+        "word": "坏了让她能装一辈子了",
+        "onboard_time": 1761452060,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90872,
+        "num": 134476,
+        "word": "孟子义甜妹到虎妞只需一个词",
+        "onboard_time": 1761452301,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134394,
+        "num": 134394,
+        "word": "研究生才懂的梗",
+        "onboard_time": 1761450620,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106044,
+        "num": 133374,
+        "word": "欧美投资人感叹中国工厂是科幻电影",
+        "onboard_time": 1761452780,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132876,
+        "num": 132876,
+        "word": "短剧离了李柯以谁还拿我当小孩",
+        "onboard_time": 1761449600,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132734,
+        "num": 132734,
+        "word": "许嵩现场拉工作人员紧急开会加歌",
+        "onboard_time": 1761452601,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129472,
+        "num": 129472,
+        "word": "陈添祥这舞跳的曾辉眼里都有父爱了",
+        "onboard_time": 1761452721,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126705,
+        "num": 126705,
+        "word": "从108减到了125斤",
+        "onboard_time": 1761452780,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120720,
+        "num": 120720,
+        "word": "陈数居然会开车漂移",
+        "onboard_time": 1761450440,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86402,
+        "num": 119007,
+        "word": "龚俊90分钟笑了5400秒",
+        "onboard_time": 1761451099,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "哈里斯暗示可能再竞选总统",
+        "onboard_time": 1761452659,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112293,
+        "num": 112293,
+        "word": "李昀锐来自日落金山的好运",
+        "onboard_time": 1761452181,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂这份属于中国的优势#"
+    }
+  }
+}
