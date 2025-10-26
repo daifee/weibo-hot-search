@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761475262884,
+  "endTime": 1761477619561,
   "band_list": [
     {
       "raw_hot": 2221702,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1244433,
+      "num": 261905,
+      "word": "张予曦不小心坐毕雯珺腿上",
+      "onboard_time": 1761472819,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1186750,
       "num": 350642,
       "word": "将门毒后 王鹤棣",
@@ -59,20 +67,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1075117,
+      "num": 1172018,
+      "word": "警方回应上海金店被抢",
+      "onboard_time": 1761471140,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 978374,
+      "num": 978374,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1761475520,
+      "rank": 1,
+      "category": "游戏,作品衍生"
+    },
+    {
+      "raw_hot": 940322,
+      "num": 260412,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 898862,
       "num": 1143818,
       "word": "2元维C和98元维C的区别",
       "onboard_time": 1761440600,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 863401,
-      "num": 261905,
-      "word": "张予曦不小心坐毕雯珺腿上",
-      "onboard_time": 1761472819,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 859382,
@@ -97,14 +121,6 @@
       "onboard_time": 1761454460,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744822,
-      "num": 260412,
-      "word": "郑智化 深圳机场",
-      "onboard_time": 1761469341,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 728559,
@@ -137,14 +153,6 @@
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 645808,
-      "num": 1103329,
-      "word": "警方回应上海金店被抢",
-      "onboard_time": 1761471140,
-      "rank": 32,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 641037,
@@ -321,6 +329,22 @@
       "onboard_time": 1761460159,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464224,
+      "num": 464224,
+      "word": "孕检低风险却生下唐氏儿保险拒赔",
+      "onboard_time": 1761472101,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454263,
+      "num": 197979,
+      "word": "王者荣耀",
+      "onboard_time": 1761403402,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 423544,
@@ -531,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287857,
-      "num": 287857,
-      "word": "孕检低风险却生下唐氏儿保险拒赔",
-      "onboard_time": 1761472101,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287812,
       "num": 287812,
       "word": "2025共创之夜节目单",
@@ -595,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261282,
+      "num": 194479,
+      "word": "吴尊女儿neinei疑恋爱",
+      "onboard_time": 1761477200,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256448,
       "num": 219224,
       "word": "刘宇宁才知道高定可以拿回家",
@@ -609,6 +633,14 @@
       "onboard_time": 1761449961,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247913,
+      "num": 219180,
+      "word": "侯明昊发红包",
+      "onboard_time": 1761472160,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 239895,
@@ -641,14 +673,6 @@
       "onboard_time": 1761400162,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235253,
-      "num": 219180,
-      "word": "侯明昊发红包",
-      "onboard_time": 1761472160,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 235153,
@@ -763,12 +787,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 208395,
+      "num": 208395,
+      "word": "天地剑心",
+      "onboard_time": 1761394703,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204927,
       "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
       "onboard_time": 1761441019,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 204882,
+      "num": 187058,
+      "word": "钟楚曦成都活动状态",
+      "onboard_time": 1761476600,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204039,
@@ -785,6 +825,14 @@
       "onboard_time": 1761468080,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202924,
+      "num": 202924,
+      "word": "普京宣布核动力巡航导弹测试完成",
+      "onboard_time": 1761475641,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201380,
@@ -873,6 +921,14 @@
       "onboard_time": 1761465980,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "孟子义李昀锐未公开拍立得",
+      "onboard_time": 1761476900,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 186173,
@@ -1035,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160577,
+      "num": 160577,
+      "word": "这竟然是王耀庆",
+      "onboard_time": 1761476841,
+      "rank": 33,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 160443,
       "num": 160443,
       "word": "每届年轻人都有自己的硬通货",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1761452721,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "仙逆",
+      "onboard_time": 1761476001,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 158283,
@@ -1089,6 +1161,14 @@
       "onboard_time": 1761452659,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153369,
+      "num": 153369,
+      "word": "3女孩2个月将房子住包浆欠费跑路",
+      "onboard_time": 1761476841,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153327,
@@ -1139,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148375,
+      "num": 148375,
+      "word": "金价暴跌有大学生把生活费亏没了",
+      "onboard_time": 1761476659,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 148104,
       "num": 148104,
       "word": "黄景瑜对王安宇的成见是一座大山",
@@ -1156,7 +1244,7 @@
     },
     {
       "raw_hot": 146691,
-      "num": 146691,
+      "num": 149060,
       "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
       "onboard_time": 1761472101,
       "rank": 36,
@@ -1379,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131004,
+      "num": 148636,
+      "word": "张晚意整张问卷只有名字是浪漫的",
+      "onboard_time": 1761476841,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130677,
       "num": 130677,
       "word": "司徒岭下线",
@@ -1531,6 +1627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "董宇辉再喊话合作商家",
+      "onboard_time": 1761477441,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120376,
       "num": 120376,
       "word": "亚洲第一长洞发现52具熊猫化石",
@@ -1587,14 +1691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116967,
-      "num": 196340,
-      "word": "天地剑心",
-      "onboard_time": 1761394703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116433,
       "num": 137722,
       "word": "山东姑娘赵娜获环球小姐中国总冠军",
@@ -1617,6 +1713,14 @@
       "onboard_time": 1761407600,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115345,
+      "num": 190466,
+      "word": "孙颖莎杨广弟邱贻可现身河北",
+      "onboard_time": 1761477319,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 113920,
@@ -1737,6 +1841,14 @@
       "onboard_time": 1761441799,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109359,
+      "num": 109359,
+      "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
+      "onboard_time": 1761477501,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109208,
@@ -2080,6 +2192,14 @@
       "word": "九寨沟成在逃人员克星",
       "onboard_time": 1761465620,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92406,
+      "num": 102202,
+      "word": "去年出生人口最多的10个省份",
+      "onboard_time": 1761477319,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2593,14 +2713,6 @@
       "onboard_time": 1761412218,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52063,
-      "num": 116274,
-      "word": "王者荣耀",
-      "onboard_time": 1761403402,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 49826,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761475262884,
+  "endTime": 1761477619561,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1571,6 +1571,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 1244433,
+      "num": 261905,
+      "word": "张予曦不小心坐毕雯珺腿上",
+      "onboard_time": 1761472819,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1235949,
       "num": 1235949,
       "word": "男子喝3斤白酒用智驾开车20公里",
@@ -2331,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1075117,
+      "num": 1172018,
+      "word": "警方回应上海金店被抢",
+      "onboard_time": 1761471140,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1074201,
       "num": 232874,
       "word": "向太儿子向佑近照曝光",
@@ -2907,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978374,
+      "num": 978374,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1760151263,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 978163,
       "num": 358310,
       "word": "范世琦成都站演唱会取消",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1760019980,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 940322,
+      "num": 260412,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 939572,
@@ -3673,14 +3705,6 @@
       "onboard_time": 1759925001,
       "rank": 11,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 863401,
-      "num": 261905,
-      "word": "张予曦不小心坐毕雯珺腿上",
-      "onboard_time": 1761472819,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 862324,
@@ -4937,14 +4961,6 @@
       "onboard_time": 1760669242,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744822,
-      "num": 260412,
-      "word": "郑智化 深圳机场",
-      "onboard_time": 1761469341,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 742563,
@@ -6209,14 +6225,6 @@
       "onboard_time": 1761402323,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 645808,
-      "num": 1103329,
-      "word": "警方回应上海金店被抢",
-      "onboard_time": 1761471140,
-      "rank": 32,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 644110,
@@ -10347,6 +10355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464224,
+      "num": 464224,
+      "word": "孕检低风险却生下唐氏儿保险拒赔",
+      "onboard_time": 1761472101,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464187,
       "num": 464187,
       "word": "我国在固态锂电池领域取得突破",
@@ -10617,6 +10633,14 @@
       "onboard_time": 1759573521,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454263,
+      "num": 376270,
+      "word": "王者荣耀",
+      "onboard_time": 1759904960,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 454179,
@@ -13279,14 +13303,6 @@
       "num": 376274,
       "word": "王者十周年三星堆皮肤首曝",
       "onboard_time": 1760173221,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 376270,
-      "num": 376270,
-      "word": "王者荣耀",
-      "onboard_time": 1759904960,
       "rank": 8,
       "category": "游戏"
     },
@@ -16683,14 +16699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301800,
-      "num": 300873,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1760151263,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 301763,
       "num": 301763,
       "word": "TES经理郭皓被曝离职",
@@ -17544,14 +17552,6 @@
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287857,
-      "num": 287857,
-      "word": "孕检低风险却生下唐氏儿保险拒赔",
-      "onboard_time": 1761472101,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -19275,6 +19275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261282,
+      "num": 194479,
+      "word": "吴尊女儿neinei疑恋爱",
+      "onboard_time": 1761477200,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261190,
       "num": 1021314,
       "word": "张雪峰发文",
@@ -20129,6 +20137,14 @@
       "onboard_time": 1760594962,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247913,
+      "num": 219180,
+      "word": "侯明昊发红包",
+      "onboard_time": 1761472160,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 247825,
@@ -21041,14 +21057,6 @@
       "onboard_time": 1760811556,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235253,
-      "num": 219180,
-      "word": "侯明昊发红包",
-      "onboard_time": 1761472160,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 235153,
@@ -23731,6 +23739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 204882,
+      "num": 187058,
+      "word": "钟楚曦成都活动状态",
+      "onboard_time": 1761476600,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204834,
       "num": 165788,
       "word": "网红赤木刚宪爆改许妍",
@@ -24097,6 +24113,14 @@
       "onboard_time": 1761198561,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202924,
+      "num": 202924,
+      "word": "普京宣布核动力巡航导弹测试完成",
+      "onboard_time": 1761475641,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202901,
@@ -27425,6 +27449,14 @@
       "onboard_time": 1759654340,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "孟子义李昀锐未公开拍立得",
+      "onboard_time": 1761476900,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 186147,
@@ -33107,6 +33139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160577,
+      "num": 160577,
+      "word": "这竟然是王耀庆",
+      "onboard_time": 1761476841,
+      "rank": 33,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 160574,
       "num": 160574,
       "word": "辽宁一幼儿园被指15天虐童上千次",
@@ -33217,6 +33257,14 @@
       "onboard_time": 1760018302,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "仙逆",
+      "onboard_time": 1760871141,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 159885,
@@ -35075,6 +35123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153369,
+      "num": 153369,
+      "word": "3女孩2个月将房子住包浆欠费跑路",
+      "onboard_time": 1761476841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153353,
       "num": 153353,
       "word": "商务部回应美方以100%新关税施压",
@@ -36371,6 +36427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148375,
+      "num": 148375,
+      "word": "金价暴跌有大学生把生活费亏没了",
+      "onboard_time": 1761476659,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 148341,
       "num": 148341,
       "word": "GEN对战TES",
@@ -36900,7 +36964,7 @@
     },
     {
       "raw_hot": 146691,
-      "num": 146691,
+      "num": 149060,
       "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
       "onboard_time": 1761472101,
       "rank": 36,
@@ -40411,14 +40475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135856,
-      "num": 135856,
-      "word": "仙逆",
-      "onboard_time": 1760871141,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 135796,
       "num": 135796,
       "word": "吴邪私家笔记2立项了",
@@ -42537,6 +42593,14 @@
       "onboard_time": 1761221722,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131004,
+      "num": 148636,
+      "word": "张晚意整张问卷只有名字是浪漫的",
+      "onboard_time": 1761476841,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131003,
@@ -46275,6 +46339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "董宇辉再喊话合作商家",
+      "onboard_time": 1761477441,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122601,
       "num": 126150,
       "word": "杨瀚森2分2盖帽1篮板",
@@ -49905,6 +49977,14 @@
       "onboard_time": 1759326681,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115345,
+      "num": 190466,
+      "word": "孙颖莎杨广弟邱贻可现身河北",
+      "onboard_time": 1761477319,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 115341,
@@ -53649,6 +53729,14 @@
       "onboard_time": 1760338641,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109359,
+      "num": 109359,
+      "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
+      "onboard_time": 1761477501,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109356,
@@ -64017,6 +64105,14 @@
       "onboard_time": 1760002460,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92406,
+      "num": 102202,
+      "word": "去年出生人口最多的10个省份",
+      "onboard_time": 1761477319,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92402,
