@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 14:35:34
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 14:48:10
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF26%E5%B2%81%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
+香港26岁男大学生观看色情内容窒息死亡（热度：1382212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或无望日本首相（热度：1378773）
 </a>
@@ -1151,12 +1157,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%20lpl%E5%8A%A0%E6%B2%B9%23" target="weibo">
 Bin lpl加油（热度：1262946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF26%E5%B2%81%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
-香港26岁男大学生观看色情内容窒息死亡（热度：1260203）
 </a>
 </li>
 
@@ -2787,6 +2787,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E5%8D%9A%E5%AF%BC%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96%23" target="weibo">
+湘潭大学37岁博导刘昊霖去世（热度：859382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9D%80%E5%AE%B3%E5%88%9D%E4%B8%89%E5%A5%B3%E7%94%9F%E5%AE%B6%E5%B1%9E%E9%80%8F%E9%9C%B2%E5%BA%AD%E5%AE%A1%E7%BB%86%E8%8A%82%23" target="weibo">
 被杀害初三女生家属透露庭审细节（热度：859007）
 </a>
@@ -3677,12 +3683,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%80%E6%8A%8A%E6%8B%89%E8%BF%87%E6%9D%A8%E5%B9%82%23" target="weibo">
 娜扎一把拉过杨幂（热度：746377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E5%8D%9A%E5%AF%BC%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96%23" target="weibo">
-湘潭大学37岁博导刘昊霖去世（热度：746346）
 </a>
 </li>
 

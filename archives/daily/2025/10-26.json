@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761460534876,
+  "endTime": 1761461290150,
   "band_list": [
     {
       "raw_hot": 2073221,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1260203,
+      "raw_hot": 1382212,
       "num": 176533,
       "word": "香港26岁男大学生观看色情内容窒息死亡",
       "onboard_time": 1761457099,
@@ -51,19 +51,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 859382,
+      "num": 1137501,
+      "word": "湘潭大学37岁博导刘昊霖去世",
+      "onboard_time": 1761456679,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769509,
       "num": 1123121,
       "word": "3人在深圳一地质公园徒步时遇难",
       "onboard_time": 1761454460,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 746346,
-      "num": 1119415,
-      "word": "湘潭大学37岁博导刘昊霖去世",
-      "onboard_time": 1761456679,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424289,
+      "num": 424289,
+      "word": "35元1个面包被年轻人疯抢",
+      "onboard_time": 1761457039,
+      "rank": 17,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 420032,
       "num": 252865,
       "word": "成毅 扛剧",
@@ -195,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 418345,
-      "num": 418345,
-      "word": "35元1个面包被年轻人疯抢",
-      "onboard_time": 1761457039,
-      "rank": 17,
-      "category": "民生新闻,美食"
+      "raw_hot": 408578,
+      "num": 255405,
+      "word": "18万彩礼被扣下女儿起诉爸妈",
+      "onboard_time": 1761457820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393738,
@@ -225,6 +233,14 @@
       "onboard_time": 1761452780,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 360932,
+      "num": 175583,
+      "word": "第一批金价下跌受害者出现了",
+      "onboard_time": 1761458959,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 354481,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296131,
+      "num": 166371,
+      "word": "原来是李一桐自己录的动捕",
+      "onboard_time": 1761460159,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290880,
       "num": 290880,
       "word": "交警处理交通事故被男子殴打报警",
@@ -305,6 +329,14 @@
       "onboard_time": 1761406821,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287812,
+      "num": 287812,
+      "word": "2025共创之夜节目单",
+      "onboard_time": 1761458900,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 286726,
@@ -355,20 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263496,
-      "num": 255405,
-      "word": "18万彩礼被扣下女儿起诉爸妈",
-      "onboard_time": 1761457820,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259873,
-      "num": 175583,
-      "word": "第一批金价下跌受害者出现了",
-      "onboard_time": 1761458959,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 258339,
+      "num": 174885,
+      "word": "王安宇喊了范丞丞老公",
+      "onboard_time": 1761459560,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 256448,
@@ -393,14 +417,6 @@
       "onboard_time": 1761437538,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239367,
-      "num": 239367,
-      "word": "2025共创之夜节目单",
-      "onboard_time": 1761458900,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 239072,
@@ -499,14 +515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213321,
-      "num": 174885,
-      "word": "王安宇喊了范丞丞老公",
-      "onboard_time": 1761459560,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211778,
       "num": 196636,
       "word": "刘宇宁剪短发了",
@@ -569,6 +577,14 @@
       "onboard_time": 1761446721,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186173,
+      "num": 186173,
+      "word": "我家那闺女",
+      "onboard_time": 1761458241,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 181807,
@@ -657,6 +673,14 @@
       "onboard_time": 1761404122,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158152,
+      "num": 158152,
+      "word": "红舞鞋剧组工作人员回复",
+      "onboard_time": 1761457039,
+      "rank": 31,
+      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 157614,
@@ -771,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141201,
+      "num": 141201,
+      "word": "宋威龙体脂率只有6.9",
+      "onboard_time": 1761460640,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138548,
       "num": 138548,
       "word": "肖顺尧新剧亡妻回忆录",
@@ -827,28 +859,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133829,
-      "num": 133829,
-      "word": "我家那闺女",
-      "onboard_time": 1761458241,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133784,
       "num": 133784,
       "word": "陈数居然会开车漂移",
       "onboard_time": 1761450440,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133143,
-      "num": 126874,
-      "word": "红舞鞋剧组工作人员回复",
-      "onboard_time": 1761457039,
-      "rank": 31,
-      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 131458,
@@ -987,6 +1003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120095,
+      "num": 120095,
+      "word": "入青云 恭喜这对旧人",
+      "onboard_time": 1761460040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119724,
       "num": 196306,
       "word": "专家怀疑太阳系星际访客系航天器",
@@ -1019,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115902,
-      "num": 115902,
-      "word": "原来是李一桐自己录的动捕",
-      "onboard_time": 1761460159,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115638,
       "num": 196023,
       "word": "八段锦跟练视频教程",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1761439579,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112492,
-      "num": 112492,
-      "word": "入青云 恭喜这对旧人",
-      "onboard_time": 1761460040,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 112397,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1761450138,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108214,
+      "num": 108214,
+      "word": "当我喝不出咖啡的好坏",
+      "onboard_time": 1761458361,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107913,
@@ -1251,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99369,
+      "num": 118235,
+      "word": "14国发表联合声明",
+      "onboard_time": 1761459919,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99008,
       "num": 99008,
       "word": "周深 进去路人出来宝贝",
@@ -1323,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93869,
+      "num": 93869,
+      "word": "范丞丞 那是科学怪人",
+      "onboard_time": 1761461059,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93109,
       "num": 196340,
       "word": "天地剑心",
@@ -1387,12 +1419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87936,
+      "num": 87936,
+      "word": "无予伦毕合体走红毯吗",
+      "onboard_time": 1761460880,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87614,
       "num": 195945,
       "word": "深圳机场将完善轮椅旅客服务保障",
       "onboard_time": 1761409161,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86756,
+      "num": 86756,
+      "word": "徐明浩Wonderland中英单人首封",
+      "onboard_time": 1761460700,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86402,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1761389783,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82598,
-      "num": 82598,
-      "word": "当我喝不出咖啡的好坏",
-      "onboard_time": 1761458361,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 82294,
@@ -1635,6 +1675,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 65688,
+      "num": 102160,
+      "word": "WTT蒙彼利埃冠军赛抽签仪式",
+      "onboard_time": 1761461121,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63875,
       "num": 62705,
       "word": "他接纳了自己有个小妹妹",
@@ -1739,14 +1787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55794,
-      "num": 113230,
-      "word": "14国发表联合声明",
-      "onboard_time": 1761459919,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55129,
       "num": 116373,
       "word": "英雄联盟S15",
@@ -1803,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45472,
+      "num": 99619,
+      "word": "内塔尼亚胡雕像被执行绞刑",
+      "onboard_time": 1761461242,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44993,
       "num": 64513,
       "word": "王安宇一年归来仍是河南老乡",
@@ -1835,6 +1883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40382,
+      "num": 173786,
+      "word": "天猫无限暖暖",
+      "onboard_time": 1761458839,
+      "rank": 17,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 40034,
       "num": 158220,
       "word": "让残疾人从从容容登机不该是奢望",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1761444138,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35406,
-      "num": 173786,
-      "word": "天猫无限暖暖",
-      "onboard_time": 1761458839,
-      "rank": 17,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 30489,
