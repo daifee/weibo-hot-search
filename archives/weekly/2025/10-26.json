@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761448674156,
+  "endTime": 1761449443347,
   "band_list": [
     {
       "raw_hot": 1878130,
@@ -9,6 +9,14 @@
       "onboard_time": 1761438680,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1421886,
+      "num": 782189,
+      "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
+      "onboard_time": 1761447560,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1114184,
@@ -27,14 +35,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 782189,
-      "num": 782189,
-      "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
-      "onboard_time": 1761447560,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 667714,
       "num": 848277,
       "word": "Bin",
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 635916,
-      "num": 245215,
+      "num": 281392,
       "word": "王楚然去跑男录制在机场开始奔跑了",
       "onboard_time": 1761444980,
       "rank": 38,
@@ -99,8 +99,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 449523,
-      "num": 192410,
+      "raw_hot": 483375,
+      "num": 194157,
       "word": "欧盟主席气急败坏竟威胁中国",
       "onboard_time": 1761447380,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 419143,
-      "num": 237249,
+      "num": 279538,
       "word": "奔跑吧天路篇全阵容官宣",
       "onboard_time": 1761445819,
       "rank": 6,
@@ -169,6 +169,22 @@
       "onboard_time": 1761406821,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287297,
+      "num": 287297,
+      "word": "鸡排哥回应是否发财了",
+      "onboard_time": 1761447320,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286726,
+      "num": 286726,
+      "word": "恋与深空",
+      "onboard_time": 1761448520,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 279890,
@@ -331,14 +347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174598,
-      "num": 174598,
-      "word": "鸡排哥回应是否发财了",
-      "onboard_time": 1761447320,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174082,
       "num": 174082,
       "word": "彭小苒新剧卧榻躺听取妈声一片",
@@ -363,14 +371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169461,
-      "num": 169461,
-      "word": "恋与深空",
-      "onboard_time": 1761448520,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -393,6 +393,14 @@
       "onboard_time": 1761436398,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140601,
+      "num": 140601,
+      "word": "胡连馨毕业典礼美我一跳",
+      "onboard_time": 1761449420,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 138302,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124979,
+      "num": 124979,
+      "word": "张杰200场演唱会总结报告",
+      "onboard_time": 1761448700,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124011,
       "num": 238888,
       "word": "吉林珲春5.5级地震",
@@ -475,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122863,
+      "num": 129508,
+      "word": "水龙吟第五集的落魄十三楼真的很酷",
+      "onboard_time": 1761448399,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122692,
       "num": 196499,
       "word": "印度村庄泼粪节受质疑",
       "onboard_time": 1761404242,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121646,
+      "num": 121646,
+      "word": "河南一幼儿园凭硬核体能课走红",
+      "onboard_time": 1761445521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119724,
@@ -499,12 +531,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 115986,
-      "num": 115986,
-      "word": "河南一幼儿园凭硬核体能课走红",
-      "onboard_time": 1761445521,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 117559,
+      "num": 122076,
+      "word": "唐诡导演夸天地剑心好看",
+      "onboard_time": 1761446721,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 115638,
@@ -611,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102479,
-      "num": 102479,
-      "word": "唐诡导演夸天地剑心好看",
-      "onboard_time": 1761446721,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101738,
       "num": 196286,
       "word": "希望机场服务让乘客能从容进飞机",
@@ -648,6 +672,14 @@
       "word": "至少今天很快乐演唱会",
       "onboard_time": 1761393021,
       "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 99008,
+      "num": 99008,
+      "word": "周深 进去路人出来宝贝",
+      "onboard_time": 1761449000,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -689,14 +721,6 @@
       "onboard_time": 1761401002,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95103,
-      "num": 95103,
-      "word": "水龙吟第五集的落魄十三楼真的很酷",
-      "onboard_time": 1761448399,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 94114,
@@ -771,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85933,
+      "num": 85933,
+      "word": "鲜食玉米是减脂餐的绝佳选择",
+      "onboard_time": 1761449000,
+      "rank": 46,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 83993,
       "num": 83993,
       "word": "顶级欧美投资人称欧美创业已没机会",
       "onboard_time": 1761443840,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83125,
+      "num": 83125,
+      "word": "0713杭州演唱会",
+      "onboard_time": 1761448819,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 83112,
@@ -793,6 +833,14 @@
       "onboard_time": 1761448399,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82159,
+      "num": 89658,
+      "word": "中美第五轮经贸会谈首日磋商超5小时",
+      "onboard_time": 1761449420,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81938,
@@ -833,6 +881,14 @@
       "onboard_time": 1761440120,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77705,
+      "num": 77705,
+      "word": "苏炳添曾劝张培萌不要退役",
+      "onboard_time": 1761449300,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77550,
@@ -1067,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43838,
+      "num": 121768,
+      "word": "太阳vs掘金",
+      "onboard_time": 1761449359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43143,
       "num": 43143,
       "word": "和任何人相处都不紧张不尴尬的方法",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1761435076,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27687,
+      "num": 122451,
+      "word": "王者荣耀首个全英雄cos",
+      "onboard_time": 1761449300,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 27075,
