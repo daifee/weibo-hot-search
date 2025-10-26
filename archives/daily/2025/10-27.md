@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 01:21:52
+本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 01:39:27
 </p>
 </blockquote>
 <p>
@@ -245,6 +245,12 @@ EDGnice（热度：150326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9B%A0%E8%B6%85%E5%B8%82%E5%8D%96%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E7%A0%B4%E9%98%B2%23" target="weibo">
 日本人因超市卖中国大米破防（热度：88172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A16%E5%B0%8F%E6%97%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+每天只睡6小时的受害者出现了（热度：84709）
 </a>
 </li>
 

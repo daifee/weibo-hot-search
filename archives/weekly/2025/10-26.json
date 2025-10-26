@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761499312734,
+  "endTime": 1761500367827,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -3153,6 +3153,14 @@
       "onboard_time": 1761453801,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84709,
+      "num": 67917,
+      "word": "每天只睡6小时的受害者出现了",
+      "onboard_time": 1761499516,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 83993,

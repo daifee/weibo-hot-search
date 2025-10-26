@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/27 01:21:52
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/27 01:39:27
 </p>
 </blockquote>
 <p>
@@ -2375,6 +2375,12 @@ AL打T1（热度：91233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%81%B5%E9%AD%82%E8%A6%81%E8%A2%AB%E5%90%B8%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 小猫灵魂要被吸出来了（热度：85778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A16%E5%B0%8F%E6%97%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+每天只睡6小时的受害者出现了（热度：84709）
 </a>
 </li>
 
