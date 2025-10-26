@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 13:40:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 14:35:34
 </p>
 </blockquote>
 <p>
@@ -1151,6 +1151,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%20lpl%E5%8A%A0%E6%B2%B9%23" target="weibo">
 Bin lpl加油（热度：1262946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF26%E5%B2%81%E7%94%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A7%82%E7%9C%8B%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
+香港26岁男大学生观看色情内容窒息死亡（热度：1260203）
 </a>
 </li>
 
@@ -3675,6 +3681,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E5%8D%9A%E5%AF%BC%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96%23" target="weibo">
+湘潭大学37岁博导刘昊霖去世（热度：746346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 辽宁失联4岁女童已找到（热度：745366）
 </a>
@@ -5999,18 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9B%AE%E4%B8%8D%E6%96%9C%E8%A7%86%E9%80%86%E8%A1%8C%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%23" target="weibo">
 13岁女孩目不斜视逆行闯红灯被撞（热度：545113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E6%88%90%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%89%23" target="weibo">
-合成保时捷女销冠不雅视频男子致歉（热度：544796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E8%90%A8%E7%A7%91%E9%BD%90%E5%85%A5%E7%8B%B1%E5%90%8E%E9%81%AD%E5%9B%9A%E7%8A%AF%E9%9C%B8%E5%87%8C%23" target="weibo">
-法国前总统萨科齐入狱后遭囚犯霸凌（热度：544120）
 </a>
 </li>
 

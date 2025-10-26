@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761457255572,
+  "endTime": 1761460534876,
   "band_list": [
     {
       "raw_hot": 2073221,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1260203,
+      "num": 176533,
+      "word": "香港26岁男大学生观看色情内容窒息死亡",
+      "onboard_time": 1761457099,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1114184,
       "num": 236394,
       "word": "王者荣耀电话 诡异",
@@ -48,6 +56,14 @@
       "word": "3人在深圳一地质公园徒步时遇难",
       "onboard_time": 1761454460,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746346,
+      "num": 1119415,
+      "word": "湘潭大学37岁博导刘昊霖去世",
+      "onboard_time": 1761456679,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -163,12 +179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419637,
+      "num": 419637,
+      "word": "李飞重生的证据又多了",
+      "onboard_time": 1761459860,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419143,
       "num": 279538,
       "word": "奔跑吧天路篇全阵容官宣",
       "onboard_time": 1761445819,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418345,
+      "num": 418345,
+      "word": "35元1个面包被年轻人疯抢",
+      "onboard_time": 1761457039,
+      "rank": 17,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 393738,
+      "num": 393738,
+      "word": "缅甸军方爆破KK园区内建筑",
+      "onboard_time": 1761459079,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 388811,
@@ -233,14 +273,6 @@
       "onboard_time": 1761453559,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312383,
-      "num": 312383,
-      "word": "湘潭大学37岁博导刘昊霖去世",
-      "onboard_time": 1761456679,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307652,
@@ -323,6 +355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263496,
+      "num": 255405,
+      "word": "18万彩礼被扣下女儿起诉爸妈",
+      "onboard_time": 1761457820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259873,
+      "num": 175583,
+      "word": "第一批金价下跌受害者出现了",
+      "onboard_time": 1761458959,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256448,
       "num": 219224,
       "word": "刘宇宁才知道高定可以拿回家",
@@ -345,6 +393,14 @@
       "onboard_time": 1761437538,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239367,
+      "num": 239367,
+      "word": "2025共创之夜节目单",
+      "onboard_time": 1761458900,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 239072,
@@ -443,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213321,
+      "num": 174885,
+      "word": "王安宇喊了范丞丞老公",
+      "onboard_time": 1761459560,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211778,
       "num": 196636,
       "word": "刘宇宁剪短发了",
@@ -523,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176671,
+      "num": 176671,
+      "word": "老邻居盛赞孙颖莎一家人品",
+      "onboard_time": 1761458900,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174218,
       "num": 174218,
       "word": "陈楚生姑娘再现吉他起火",
@@ -539,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173738,
+      "num": 173738,
+      "word": "宁静 孙红雷我没有白爱他",
+      "onboard_time": 1761460159,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172996,
       "num": 148439,
       "word": "英伟达退场 国产GPU接棒",
@@ -553,22 +633,6 @@
       "onboard_time": 1761386721,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167779,
-      "num": 167779,
-      "word": "35元1个面包被年轻人疯抢",
-      "onboard_time": 1761457039,
-      "rank": 17,
-      "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 166777,
-      "num": 166777,
-      "word": "香港26岁男大学生观看色情内容窒息死亡",
-      "onboard_time": 1761457099,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165403,
@@ -625,6 +689,14 @@
       "onboard_time": 1761452659,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153327,
+      "num": 153327,
+      "word": "太奶奶3开播追剧团",
+      "onboard_time": 1761454760,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 153133,
@@ -699,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140397,
-      "num": 140397,
-      "word": "太奶奶3开播追剧团",
-      "onboard_time": 1761454760,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138548,
       "num": 138548,
       "word": "肖顺尧新剧亡妻回忆录",
@@ -763,12 +827,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133829,
+      "num": 133829,
+      "word": "我家那闺女",
+      "onboard_time": 1761458241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133784,
       "num": 133784,
       "word": "陈数居然会开车漂移",
       "onboard_time": 1761450440,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133143,
+      "num": 126874,
+      "word": "红舞鞋剧组工作人员回复",
+      "onboard_time": 1761457039,
+      "rank": 31,
+      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 131458,
@@ -785,6 +865,14 @@
       "onboard_time": 1761450258,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130677,
+      "num": 130677,
+      "word": "司徒岭下线",
+      "onboard_time": 1761459860,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 129933,
@@ -811,12 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126507,
-      "num": 126507,
-      "word": "红舞鞋剧组工作人员回复",
-      "onboard_time": 1761457039,
-      "rank": 31,
-      "category": "民生新闻,作品衍生"
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "女子给电动车充电金镯子被电碎",
+      "onboard_time": 1761458540,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126318,
@@ -915,12 +1003,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 118782,
+      "num": 118782,
+      "word": "特朗普下飞机跳起经典舞蹈",
+      "onboard_time": 1761457341,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116433,
       "num": 137722,
       "word": "山东姑娘赵娜获环球小姐中国总冠军",
       "onboard_time": 1761450022,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115902,
+      "num": 115902,
+      "word": "原来是李一桐自己录的动捕",
+      "onboard_time": 1761460159,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 115638,
@@ -939,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112492,
+      "num": 112492,
+      "word": "入青云 恭喜这对旧人",
+      "onboard_time": 1761460040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112397,
       "num": 112397,
       "word": "马立奥知道妈妈怀孕后的反应",
@@ -953,6 +1065,14 @@
       "onboard_time": 1761452181,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112170,
+      "num": 112170,
+      "word": "特朗普拟邀高市早苗同乘专机",
+      "onboard_time": 1761456799,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111552,
@@ -1091,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101928,
+      "num": 101928,
+      "word": "S15休赛期又来了",
+      "onboard_time": 1761460099,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101738,
       "num": 196286,
       "word": "希望机场服务让乘客能从容进飞机",
@@ -1169,6 +1297,14 @@
       "onboard_time": 1761447140,
       "rank": 40,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 95513,
+      "num": 95513,
+      "word": "回家发现爸爸认识姚琛爸妈",
+      "onboard_time": 1761459379,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 95347,
@@ -1291,6 +1427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 83639,
+      "num": 83639,
+      "word": "谁家网剧一次集齐六张权威脸",
+      "onboard_time": 1761457700,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83125,
       "num": 83125,
       "word": "0713杭州演唱会",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1761389783,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82598,
+      "num": 82598,
+      "word": "当我喝不出咖啡的好坏",
+      "onboard_time": 1761458361,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 82294,
@@ -1468,7 +1620,7 @@
     },
     {
       "raw_hot": 68228,
-      "num": 363341,
+      "num": 418730,
       "word": "十五五6个坚持原则",
       "onboard_time": 1761450320,
       "rank": 2,
@@ -1497,6 +1649,14 @@
       "onboard_time": 1761409520,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 63558,
+      "num": 116333,
+      "word": "卢浮宫部分珠宝转到26米深的金库",
+      "onboard_time": 1761458421,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62674,
@@ -1577,6 +1737,14 @@
       "onboard_time": 1761386543,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55794,
+      "num": 113230,
+      "word": "14国发表联合声明",
+      "onboard_time": 1761459919,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55129,
@@ -1697,6 +1865,14 @@
       "onboard_time": 1761444138,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35406,
+      "num": 173786,
+      "word": "天猫无限暖暖",
+      "onboard_time": 1761458839,
+      "rank": 17,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 30489,
