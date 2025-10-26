@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761513775759,
+  "endTime": 1761514609326,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18446,
+      "num": 20072,
+      "word": "多所高校正在培养带娃专家",
+      "onboard_time": 1761504855,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17178,
       "num": 20052,
       "word": "游泳教练抱摔女童致其耳软骨断裂",
@@ -507,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15760,
-      "num": 20072,
-      "word": "多所高校正在培养带娃专家",
-      "onboard_time": 1761504855,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 15841,
+      "num": 15841,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15372,
@@ -531,20 +539,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14342,
-      "num": 15127,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 14245,
       "num": 19995,
       "word": "断联是个试金石",
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12473,
+      "num": 15830,
+      "word": "3女孩租房住包浆跑路房东发声",
+      "onboard_time": 1761513553,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11753,
+      "num": 15827,
+      "word": "红舞鞋致歉消失责任无法消失",
+      "onboard_time": 1761512713,
+      "rank": 49,
+      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 4080,
