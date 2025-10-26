@@ -1,7 +1,15 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761468202810,
+  "endTime": 1761470631031,
   "band_list": [
+    {
+      "raw_hot": 2221702,
+      "num": 199278,
+      "word": "香港男大看色情内容窒息死亡",
+      "onboard_time": 1761457099,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2073221,
       "num": 232538,
@@ -17,14 +25,6 @@
       "onboard_time": 1761438680,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1876850,
-      "num": 199278,
-      "word": "香港男大看色情内容窒息死亡",
-      "onboard_time": 1761457099,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1603651,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1151165,
-      "num": 240954,
+      "raw_hot": 1186750,
+      "num": 292939,
       "word": "将门毒后 王鹤棣",
       "onboard_time": 1761465800,
       "rank": 5,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796530,
+      "num": 1127444,
+      "word": "AI把薯片误判为枪惊动八辆美国警车",
+      "onboard_time": 1761468320,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 769509,
       "num": 1123121,
       "word": "3人在深圳一地质公园徒步时遇难",
@@ -95,6 +103,14 @@
       "num": 221844,
       "word": "中戏食堂等来了最懂它的易烊千玺",
       "onboard_time": 1761461301,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 674359,
+      "num": 190428,
+      "word": "杨幂 你把幂幂打掉了",
+      "onboard_time": 1761468501,
       "rank": 11,
       "category": "艺人"
     },
@@ -169,6 +185,14 @@
       "onboard_time": 1761463520,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 580205,
+      "num": 190208,
+      "word": "比伯又帅回来了",
+      "onboard_time": 1761466941,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 566041,
@@ -299,6 +323,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 373917,
+      "num": 373917,
+      "word": "31省份去年人口出生率数据公布",
+      "onboard_time": 1761466761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372022,
+      "num": 188385,
+      "word": "午睡超过1小时死亡风险上升30%",
+      "onboard_time": 1761465379,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 369093,
       "num": 211549,
       "word": "王安宇喊了范丞丞老公",
@@ -332,19 +372,11 @@
     },
     {
       "raw_hot": 343069,
-      "num": 225324,
+      "num": 241778,
       "word": "刘亦菲VogueWorld官宣",
       "onboard_time": 1761465920,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338783,
-      "num": 183793,
-      "word": "午睡超过1小时死亡风险上升30%",
-      "onboard_time": 1761465379,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 337821,
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297228,
+      "num": 188964,
+      "word": "红舞鞋剧组",
+      "onboard_time": 1761468262,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296064,
       "num": 202117,
       "word": "张远还在对抗躁郁症",
@@ -427,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289024,
-      "num": 187417,
-      "word": "比伯又帅回来了",
-      "onboard_time": 1761466941,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287812,
       "num": 287812,
       "word": "2025共创之夜节目单",
@@ -449,6 +481,14 @@
       "onboard_time": 1761448520,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283466,
+      "num": 188685,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 279890,
@@ -473,6 +513,14 @@
       "onboard_time": 1761395781,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274146,
+      "num": 187726,
+      "word": "易烊千玺参加了毕业聚餐",
+      "onboard_time": 1761466821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 271710,
@@ -505,14 +553,6 @@
       "onboard_time": 1761449961,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241985,
-      "num": 185616,
-      "word": "易烊千玺参加了毕业聚餐",
-      "onboard_time": 1761466821,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 239895,
@@ -699,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190732,
+      "num": 190732,
+      "word": "将门毒后",
+      "onboard_time": 1761468800,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190514,
       "num": 256009,
       "word": "深圳机场会同航空公司启动核查",
@@ -723,6 +771,14 @@
       "category": "动漫,演出"
     },
     {
+      "raw_hot": 187379,
+      "num": 187379,
+      "word": "深圳机场的视频来了",
+      "onboard_time": 1761465980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186173,
       "num": 186173,
       "word": "我家那闺女",
@@ -737,14 +793,6 @@
       "onboard_time": 1761447619,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181398,
-      "num": 181398,
-      "word": "31省份去年人口出生率数据公布",
-      "onboard_time": 1761466761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178807,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 165625,
-      "num": 174734,
+      "num": 184994,
       "word": "敖瑞鹏跑男官宣",
       "onboard_time": 1761465800,
       "rank": 26,
@@ -904,14 +952,6 @@
       "word": "足浴店2楼异常2人嫖娼卖淫被抓",
       "onboard_time": 1761451700,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154347,
-      "num": 154347,
-      "word": "深圳机场的视频来了",
-      "onboard_time": 1761465980,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1027,8 +1067,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141709,
-      "num": 141709,
+      "raw_hot": 144071,
+      "num": 144071,
       "word": "香港男生窒息死亡警方初步排除自杀",
       "onboard_time": 1761466821,
       "rank": 33,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1761455240,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138020,
+      "num": 138020,
+      "word": "iPhone千万别这样充电了",
+      "onboard_time": 1761470300,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 137990,
@@ -1139,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132415,
+      "num": 178114,
+      "word": "新疆放9天雪假不调休",
+      "onboard_time": 1761465740,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131458,
       "num": 131457,
       "word": "网友用肥皂和爆炸盐洗净泛黄衣领",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1761443359,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127692,
+      "num": 127692,
+      "word": "法老 活死人回来了每个都在",
+      "onboard_time": 1761468621,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 126318,
@@ -1331,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116241,
+      "num": 172711,
+      "word": "入坑富贵少爷的第一句情话",
+      "onboard_time": 1761469821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115638,
       "num": 196023,
       "word": "八段锦跟练视频教程",
@@ -1339,11 +1411,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114760,
+      "num": 114760,
+      "word": "亚洲第一长洞发现52具熊猫化石",
+      "onboard_time": 1761470300,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113920,
       "num": 113920,
       "word": "北方又降4到10摄氏度",
       "onboard_time": 1761439579,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112823,
+      "num": 112823,
+      "word": "鸡排哥回应过气",
+      "onboard_time": 1761465379,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1377,14 +1465,6 @@
       "onboard_time": 1761462441,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111796,
-      "num": 111796,
-      "word": "新疆放9天雪假不调休",
-      "onboard_time": 1761465740,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111552,
@@ -1488,14 +1568,6 @@
       "word": "央视曝医美佣金套路",
       "onboard_time": 1761463400,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106143,
-      "num": 106143,
-      "word": "鸡排哥回应过气",
-      "onboard_time": 1761465379,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1635,6 +1707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "灰原哀早期的高级感",
+      "onboard_time": 1761470060,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99369,
       "num": 118235,
       "word": "14国发表联合声明",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1761447140,
       "rank": 40,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 95713,
+      "num": 99965,
+      "word": "40一斤的松子仁称重后变40一两",
+      "onboard_time": 1761469100,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95513,
@@ -1956,7 +2044,7 @@
     },
     {
       "raw_hot": 79637,
-      "num": 186399,
+      "num": 189527,
       "word": "罗德岛番茄派对",
       "onboard_time": 1761467841,
       "rank": 18,
@@ -2227,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54013,
+      "num": 374417,
+      "word": "靠实体经济走向未来",
+      "onboard_time": 1761469460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52063,
       "num": 116274,
       "word": "王者荣耀",
@@ -2355,6 +2451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32634,
+      "num": 189172,
+      "word": "揭秘所谓高端四件套",
+      "onboard_time": 1761469041,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30489,
       "num": 30489,
       "word": "安可",
@@ -2401,6 +2505,14 @@
       "onboard_time": 1761463340,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21690,
+      "num": 121188,
+      "word": "95流量生或将合体",
+      "onboard_time": 1761469642,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 19908,
@@ -2497,6 +2609,9 @@
     },
     {
       "word": "#读懂这份属于中国的优势#"
+    },
+    {
+      "word": "#5个关键词看懂十五五所处历史方位#"
     }
   ]
 }

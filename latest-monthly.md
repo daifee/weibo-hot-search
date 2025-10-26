@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 16:43:22
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 17:23:51
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ T1战胜iG（热度：2289458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A4%A7%E7%9C%8B%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
+香港男大看色情内容窒息死亡（热度：2221702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E5%8F%91%E6%96%87%E7%BA%AA%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81%23" target="weibo">
 翁帆发文纪念杨振宁（热度：2202319）
 </a>
@@ -443,12 +449,6 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%92%9F%E6%A5%9A%E6%9B%A6%E7%9A%84%E5%AE%A1%E5%88%A4%E8%AF%A5%E5%81%9C%E6%AD%A2%E4%BA%86%23" target="weibo">
 对钟楚曦的审判该停止了（热度：1878130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%94%B7%E5%A4%A7%E7%9C%8B%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%23" target="weibo">
-香港男大看色情内容窒息死亡（热度：1876850）
 </a>
 </li>
 
@@ -1311,6 +1311,12 @@ AL打T1（热度：1227982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%20%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
+将门毒后 王鹤棣（热度：1186750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%A9%9A%E7%A4%BC%E5%BD%92%E5%9B%BD%E5%9B%9B%E5%AD%90%E4%B8%80%E7%BC%BA%E4%B8%89%23" target="weibo">
 黄子韬婚礼归国四子一缺三（热度：1186158）
 </a>
@@ -1427,12 +1433,6 @@ VOGUE大合影（热度：1170936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%9B%9B%E4%BD%8D%E7%B2%89%E4%B8%9D%E7%A0%B4%E7%99%BE%E4%B8%87%E7%9A%84%E7%AB%99%E5%A7%90%23" target="weibo">
 内娱四位粉丝破百万的站姐（热度：1152055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%20%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
-将门毒后 王鹤棣（热度：1151165）
 </a>
 </li>
 
@@ -3291,6 +3291,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23" target="weibo">
+AI把薯片误判为枪惊动八辆美国警车（热度：796530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%83%A6%E4%BA%BA%E9%9A%BE%E7%9C%8B%E5%B9%BC%E7%A8%9A%23" target="weibo">
 董璇说张维伊烦人难看幼稚（热度：794647）
 </a>
@@ -4343,6 +4349,12 @@ TES抽中BLG（热度：681512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E8%87%AA%E7%84%B6%E5%BE%97%E5%83%8F%E6%B2%A1%E6%90%9E%E4%B8%80%E6%A0%B7%23" target="weibo">
 马思纯 自然得像没搞一样（热度：674573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E4%BD%A0%E6%8A%8A%E5%B9%82%E5%B9%82%E6%89%93%E6%8E%89%E4%BA%86%23" target="weibo">
+杨幂 你把幂幂打掉了（热度：674359）
 </a>
 </li>
 
@@ -5529,6 +5541,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%8F%88%E5%B8%85%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+比伯又帅回来了（热度：580205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%88%B1%E8%B1%86%E5%BD%93%E8%A1%97%E6%9A%B4%E9%9C%B2%E4%B8%8B%E4%BD%93%E8%A2%AB%E6%8D%95%23" target="weibo">
 日本男爱豆当街暴露下体被捕（热度：579640）
 </a>
@@ -5993,24 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BA%8C%E6%90%AD%23" target="weibo">
 刘诗诗陈伟霆 二搭（热度：549630）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%20%E6%B3%A1%E5%8F%91%E7%9A%84%E6%9C%A8%E8%80%B3%23" target="weibo">
-中国游客 泡发的木耳（热度：549487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%A4%A7%E6%82%A6%E5%9F%8E%E8%87%B4%E6%AD%89%23" target="weibo">
-三亚大悦城致歉（热度：549329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
-跳河新郎母亲首度发声（热度：548525）
 </a>
 </li>
 
