@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761449443347,
+  "endTime": 1761450862435,
   "band_list": [
     {
       "raw_hot": 1878130,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1421886,
+      "raw_hot": 1603651,
       "num": 782189,
       "word": "18岁女大学生每晚用6瓶酒精冲洗小腿",
       "onboard_time": 1761447560,
@@ -99,12 +99,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 483375,
+      "raw_hot": 491802,
       "num": 194157,
       "word": "欧盟主席气急败坏竟威胁中国",
       "onboard_time": 1761447380,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 456402,
+      "num": 456402,
+      "word": "鸡排哥回应是否发财了",
+      "onboard_time": 1761447320,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420032,
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290880,
+      "num": 290880,
+      "word": "交警处理交通事故被男子殴打报警",
+      "onboard_time": 1761445880,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290648,
       "num": 223618,
       "word": "李宇春哭了",
       "onboard_time": 1761406821,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287297,
-      "num": 287297,
-      "word": "鸡排哥回应是否发财了",
-      "onboard_time": 1761447320,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286726,
@@ -219,12 +227,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 255268,
+      "num": 255268,
+      "word": "普京又催生",
+      "onboard_time": 1761449479,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 254135,
+      "num": 144277,
+      "word": "恋与制作人被魅魔夹击了",
+      "onboard_time": 1761449961,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239895,
       "num": 239895,
       "word": "江苏启东观光车事故4人遇难",
       "onboard_time": 1761437538,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239072,
+      "num": 239072,
+      "word": "恋与制作人",
+      "onboard_time": 1761450022,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 236045,
@@ -259,12 +291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231790,
+      "num": 175375,
+      "word": "Ning喊话姿态",
+      "onboard_time": 1761449479,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220739,
       "num": 194858,
       "word": "范丞丞cos绿巨人被认出",
       "onboard_time": 1761436097,
       "rank": 14,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 214944,
+      "num": 147617,
+      "word": "短剧离了李柯以谁还拿我当小孩",
+      "onboard_time": 1761449600,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214328,
+      "num": 144141,
+      "word": "果然会穿搭的人在那个赛道都能成功",
+      "onboard_time": 1761450740,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 214320,
@@ -291,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208137,
+      "num": 208137,
+      "word": "大梦归离",
+      "onboard_time": 1761450379,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204927,
       "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
@@ -315,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200707,
+      "num": 200707,
+      "word": "锦月令定档",
+      "onboard_time": 1761450560,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200530,
       "num": 138874,
       "word": "奥黛丽赫本之子在苏州胜诉",
@@ -331,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187293,
-      "num": 187293,
-      "word": "交警处理交通事故被男子殴打报警",
-      "onboard_time": 1761445880,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 190189,
+      "num": 180574,
+      "word": "唐诡导演夸天地剑心好看",
+      "onboard_time": 1761446721,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187445,
+      "num": 187445,
+      "word": "入青云",
+      "onboard_time": 1761436398,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 181807,
@@ -379,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157614,
+      "num": 157614,
+      "word": "中美第五轮经贸会谈首日磋商超5小时",
+      "onboard_time": 1761449420,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151600,
       "num": 248596,
       "word": "TES战胜BLG",
@@ -387,16 +475,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150586,
-      "num": 150586,
-      "word": "入青云",
-      "onboard_time": 1761436398,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140601,
-      "num": 140601,
+      "raw_hot": 146507,
+      "num": 143810,
       "word": "胡连馨毕业典礼美我一跳",
       "onboard_time": 1761449420,
       "rank": 23,
@@ -427,12 +507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133784,
+      "num": 133784,
+      "word": "陈数居然会开车漂移",
+      "onboard_time": 1761450440,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131458,
       "num": 131457,
       "word": "网友用肥皂和爆炸盐洗净泛黄衣领",
       "onboard_time": 1761445399,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "陶喆去了广东也得进厂",
+      "onboard_time": 1761450258,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 129933,
@@ -457,6 +553,14 @@
       "onboard_time": 1761433396,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126152,
+      "num": 145078,
+      "word": "河南一幼儿园凭硬核体能课走红",
+      "onboard_time": 1761445521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125025,
@@ -507,14 +611,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121646,
-      "num": 121646,
-      "word": "河南一幼儿园凭硬核体能课走红",
-      "onboard_time": 1761445521,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119724,
       "num": 196306,
       "word": "专家怀疑太阳系星际访客系航天器",
@@ -531,12 +627,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 117559,
-      "num": 122076,
-      "word": "唐诡导演夸天地剑心好看",
-      "onboard_time": 1761446721,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 116433,
+      "num": 116433,
+      "word": "山东姑娘赵娜获环球小姐中国总冠军",
+      "onboard_time": 1761450022,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115638,
@@ -595,11 +691,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108691,
+      "num": 108691,
+      "word": "研究生才懂的梗",
+      "onboard_time": 1761450620,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 173830,
+      "word": "2025微博视界大会定档",
+      "onboard_time": 1761450138,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107913,
       "num": 115182,
       "word": "杨紫玉兰花开君再来将官宣",
       "onboard_time": 1761433875,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106568,
+      "num": 106568,
+      "word": "马思纯 一个顶好的人",
+      "onboard_time": 1761449600,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106128,
+      "num": 106128,
+      "word": "彭小苒待播剧",
+      "onboard_time": 1761450740,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -803,6 +931,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 85056,
+      "num": 143530,
+      "word": "父亲囤40多件黄金给女儿当嫁妆",
+      "onboard_time": 1761449899,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83993,
       "num": 83993,
       "word": "顶级欧美投资人称欧美创业已没机会",
@@ -833,14 +969,6 @@
       "onboard_time": 1761448399,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82159,
-      "num": 89658,
-      "word": "中美第五轮经贸会谈首日磋商超5小时",
-      "onboard_time": 1761449420,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81938,
@@ -913,6 +1041,14 @@
       "onboard_time": 1761443660,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76285,
+      "num": 168839,
+      "word": "王者荣耀首个全英雄cos",
+      "onboard_time": 1761449300,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 76126,
@@ -1043,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59463,
+      "num": 144778,
+      "word": "陈数秋日出行松弛感",
+      "onboard_time": 1761449600,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58910,
       "num": 195697,
       "word": "六个男艺人在综艺里馋得直流口水",
@@ -1073,6 +1217,22 @@
       "onboard_time": 1761403402,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49826,
+      "num": 148164,
+      "word": "太阳vs掘金",
+      "onboard_time": 1761449359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49703,
+      "num": 164592,
+      "word": "黄晓明回应刘亦菲宣传新片",
+      "onboard_time": 1761450620,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 49659,
@@ -1121,14 +1281,6 @@
       "onboard_time": 1761434418,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43838,
-      "num": 121768,
-      "word": "太阳vs掘金",
-      "onboard_time": 1761449359,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 43143,
@@ -1195,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27687,
-      "num": 122451,
-      "word": "王者荣耀首个全英雄cos",
-      "onboard_time": 1761449300,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 27075,
       "num": 38826,
       "word": "四个动作站着就能瘦",
@@ -1217,6 +1361,14 @@
       "onboard_time": 1761393862,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26255,
+      "num": 348422,
+      "word": "十五五6个坚持原则",
+      "onboard_time": 1761450320,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19908,
@@ -1286,6 +1438,9 @@
   "hotgov_list": [
     {
       "word": "#5000多字聚焦办好自己的事#"
+    },
+    {
+      "word": "#读懂这份属于中国的优势#"
     }
   ]
 }
