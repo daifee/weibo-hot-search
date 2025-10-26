@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761474325451,
+  "endTime": 1761475262884,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3675,6 +3675,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 863401,
+      "num": 261905,
+      "word": "张予曦不小心坐毕雯珺腿上",
+      "onboard_time": 1761472819,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 862324,
       "num": 1137971,
       "word": "凑单",
@@ -4929,6 +4937,14 @@
       "onboard_time": 1760669242,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744822,
+      "num": 260412,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 742563,
@@ -6193,6 +6209,14 @@
       "onboard_time": 1761402323,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645808,
+      "num": 1103329,
+      "word": "警方回应上海金店被抢",
+      "onboard_time": 1761471140,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 644110,
@@ -8595,14 +8619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527329,
-      "num": 261905,
-      "word": "张予曦不小心坐毕雯珺腿上",
-      "onboard_time": 1761472819,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 526881,
       "num": 526881,
       "word": "警方通报51岁女子撞车致6伤",
@@ -8921,14 +8937,6 @@
       "onboard_time": 1759475121,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513737,
-      "num": 260412,
-      "word": "郑智化 深圳机场",
-      "onboard_time": 1761469341,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 513672,
@@ -14075,14 +14083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354651,
-      "num": 354651,
-      "word": "警方回应上海金店被抢",
-      "onboard_time": 1761471140,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 354564,
       "num": 354564,
       "word": "高市早苗或成日本首个女首相",
@@ -17544,6 +17544,14 @@
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287857,
+      "num": 287857,
+      "word": "孕检低风险却生下唐氏儿保险拒赔",
+      "onboard_time": 1761472101,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -22161,6 +22169,14 @@
       "onboard_time": 1761436097,
       "rank": 14,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 220737,
+      "num": 195551,
+      "word": "恋与深空天黑请睁眼",
+      "onboard_time": 1761474740,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 220669,
@@ -27987,6 +28003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 183173,
+      "num": 183173,
+      "word": "比泪失禁更尴尬的是笑失禁",
+      "onboard_time": 1761474500,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183144,
       "num": 183144,
       "word": "入青云仙侣约会日",
@@ -29623,14 +29647,6 @@
       "num": 174988,
       "word": "于和伟到吴石墓前献花",
       "onboard_time": 1760708663,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174924,
-      "num": 174924,
-      "word": "孕检低风险却生下唐氏儿保险拒赔",
-      "onboard_time": 1761472101,
       "rank": 31,
       "category": "民生新闻"
     },
@@ -32835,6 +32851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161436,
+      "num": 161436,
+      "word": "奶皮子糖葫芦",
+      "onboard_time": 1761472281,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161435,
       "num": 161435,
       "word": "王橹杰十月考核拉小提琴",
@@ -32961,6 +32985,14 @@
       "onboard_time": 1761229464,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160957,
+      "num": 269394,
+      "word": "中美讨论延长对等关税暂停期",
+      "onboard_time": 1761473721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160951,
@@ -35451,6 +35483,14 @@
       "category": "数码,游戏"
     },
     {
+      "raw_hot": 151688,
+      "num": 213826,
+      "word": "入青云主演发红包",
+      "onboard_time": 1761474561,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151643,
       "num": 117091,
       "word": "65岁惠英红G社生图",
@@ -35505,14 +35545,6 @@
       "onboard_time": 1761057562,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 151363,
-      "num": 151363,
-      "word": "奶皮子糖葫芦",
-      "onboard_time": 1761472281,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 151354,
@@ -37040,6 +37072,14 @@
       "word": "白鹿蹲房车门口吓丞磊",
       "onboard_time": 1759638081,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "陈伟霆晒好命手机壳",
+      "onboard_time": 1761474500,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -41081,6 +41121,14 @@
       "onboard_time": 1761024381,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134434,
+      "num": 153019,
+      "word": "龚俊暗河传16集16分16秒",
+      "onboard_time": 1761474981,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 134432,
@@ -46139,6 +46187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 122770,
+      "num": 122770,
+      "word": "建议冬天床单两周换洗一次",
+      "onboard_time": 1761472461,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122764,
       "num": 122764,
       "word": "陈哲远这次是真扣题",
@@ -48305,6 +48361,14 @@
       "onboard_time": 1760436561,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118433,
+      "num": 118433,
+      "word": "33短剧拍到凌晨三点才下班",
+      "onboard_time": 1761474680,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 118428,
@@ -58155,14 +58219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102269,
-      "num": 269394,
-      "word": "中美讨论延长对等关税暂停期",
-      "onboard_time": 1761473721,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102262,
       "num": 102262,
       "word": "王欣瑜挂着labubu想着wakuku",
@@ -61761,6 +61817,14 @@
       "onboard_time": 1759731500,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 96049,
+      "num": 123863,
+      "word": "中美进行了建设性探讨",
+      "onboard_time": 1761474621,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96027,
@@ -70108,7 +70172,7 @@
     },
     {
       "raw_hot": 81275,
-      "num": 497106,
+      "num": 530099,
       "word": "靠实体经济走向未来",
       "onboard_time": 1761273621,
       "rank": 47,
@@ -70577,6 +70641,14 @@
       "onboard_time": 1760656759,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80362,
+      "num": 140449,
+      "word": "3女孩退租欠房费马桶塞满垃圾满屋",
+      "onboard_time": 1761473900,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80355,
@@ -71241,6 +71313,14 @@
       "onboard_time": 1759402102,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78834,
+      "num": 233815,
+      "word": "京东为用户比价反招骂",
+      "onboard_time": 1761473481,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 78786,
@@ -74611,14 +74691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69591,
-      "num": 233815,
-      "word": "京东为用户比价反招骂",
-      "onboard_time": 1761473481,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 69563,
       "num": 69563,
       "word": "挪威5比0以色列",
@@ -74873,6 +74945,14 @@
       "onboard_time": 1760024959,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68509,
+      "num": 140543,
+      "word": "曾舜晞 我嘴角压不下来",
+      "onboard_time": 1761473601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 68433,
@@ -75489,14 +75569,6 @@
       "onboard_time": 1761200840,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66185,
-      "num": 140449,
-      "word": "3女孩退租欠房费马桶塞满垃圾满屋",
-      "onboard_time": 1761473900,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66134,
@@ -76889,14 +76961,6 @@
       "onboard_time": 1761286161,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 60637,
-      "num": 140543,
-      "word": "曾舜晞 我嘴角压不下来",
-      "onboard_time": 1761473601,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 60630,

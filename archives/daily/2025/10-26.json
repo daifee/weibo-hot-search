@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761474325451,
+  "endTime": 1761475262884,
   "band_list": [
     {
       "raw_hot": 2221702,
@@ -67,6 +67,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 863401,
+      "num": 261905,
+      "word": "张予曦不小心坐毕雯珺腿上",
+      "onboard_time": 1761472819,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 859382,
       "num": 1137501,
       "word": "湘潭大学37岁博导刘昊霖去世",
@@ -89,6 +97,14 @@
       "onboard_time": 1761454460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744822,
+      "num": 260412,
+      "word": "郑智化 深圳机场",
+      "onboard_time": 1761469341,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 728559,
@@ -121,6 +137,14 @@
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 645808,
+      "num": 1103329,
+      "word": "警方回应上海金店被抢",
+      "onboard_time": 1761471140,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 641037,
@@ -235,28 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527329,
-      "num": 261905,
-      "word": "张予曦不小心坐毕雯珺腿上",
-      "onboard_time": 1761472819,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 517628,
       "num": 517628,
       "word": "官方通报观光车落水致4人遇难",
       "onboard_time": 1761437538,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 513737,
-      "num": 260412,
-      "word": "郑智化 深圳机场",
-      "onboard_time": 1761469341,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 511641,
@@ -395,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354651,
-      "num": 354651,
-      "word": "警方回应上海金店被抢",
-      "onboard_time": 1761471140,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 354481,
       "num": 292708,
       "word": "李在明称电诈组织碰韩国人必死",
@@ -529,6 +529,14 @@
       "onboard_time": 1761406821,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287857,
+      "num": 287857,
+      "word": "孕检低风险却生下唐氏儿保险拒赔",
+      "onboard_time": 1761472101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287812,
@@ -681,6 +689,14 @@
       "onboard_time": 1761436097,
       "rank": 14,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 220737,
+      "num": 195551,
+      "word": "恋与深空天黑请睁眼",
+      "onboard_time": 1761474740,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 214944,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183173,
+      "num": 183173,
+      "word": "比泪失禁更尴尬的是笑失禁",
+      "onboard_time": 1761474500,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181807,
       "num": 181807,
       "word": "高级河灯",
@@ -897,14 +921,6 @@
       "onboard_time": 1761458900,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174924,
-      "num": 174924,
-      "word": "孕检低风险却生下唐氏儿保险拒赔",
-      "onboard_time": 1761472101,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174218,
@@ -995,12 +1011,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161436,
+      "num": 161436,
+      "word": "奶皮子糖葫芦",
+      "onboard_time": 1761472281,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161166,
       "num": 161166,
       "word": "宁静曝因粗心朝邵子恒发飙",
       "onboard_time": 1761463520,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160957,
+      "num": 269394,
+      "word": "中美讨论延长对等关税暂停期",
+      "onboard_time": 1761473721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160443,
@@ -1075,20 +1107,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151688,
+      "num": 213826,
+      "word": "入青云主演发红包",
+      "onboard_time": 1761474561,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151600,
       "num": 248596,
       "word": "TES战胜BLG",
       "onboard_time": 1761386062,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151363,
-      "num": 151363,
-      "word": "奶皮子糖葫芦",
-      "onboard_time": 1761472281,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 150715,
@@ -1144,6 +1176,14 @@
       "word": "胡连馨毕业典礼美我一跳",
       "onboard_time": 1761449420,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "陈伟霆晒好命手机壳",
+      "onboard_time": 1761474500,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1273,6 +1313,14 @@
       "onboard_time": 1761403942,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134434,
+      "num": 153019,
+      "word": "龚俊暗河传16集16分16秒",
+      "onboard_time": 1761474981,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 134002,
@@ -1467,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122770,
+      "num": 122770,
+      "word": "建议冬天床单两周换洗一次",
+      "onboard_time": 1761472461,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122692,
       "num": 196499,
       "word": "印度村庄泼粪节受质疑",
@@ -1521,6 +1577,22 @@
       "onboard_time": 1761457341,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118433,
+      "num": 118433,
+      "word": "33短剧拍到凌晨三点才下班",
+      "onboard_time": 1761474680,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116967,
+      "num": 196340,
+      "word": "天地剑心",
+      "onboard_time": 1761394703,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 116433,
@@ -1811,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102269,
-      "num": 269394,
-      "word": "中美讨论延长对等关税暂停期",
-      "onboard_time": 1761473721,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101928,
       "num": 101928,
       "word": "S15休赛期又来了",
@@ -1955,6 +2019,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 96049,
+      "num": 123863,
+      "word": "中美进行了建设性探讨",
+      "onboard_time": 1761474621,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95713,
       "num": 99965,
       "word": "40一斤的松子仁称重后变40一两",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1761465620,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93109,
-      "num": 196340,
-      "word": "天地剑心",
-      "onboard_time": 1761394703,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 92108,
@@ -2204,7 +2268,7 @@
     },
     {
       "raw_hot": 81275,
-      "num": 497106,
+      "num": 530099,
       "word": "靠实体经济走向未来",
       "onboard_time": 1761469460,
       "rank": 2,
@@ -2227,12 +2291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80362,
+      "num": 140449,
+      "word": "3女孩退租欠房费马桶塞满垃圾满屋",
+      "onboard_time": 1761473900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79637,
       "num": 251842,
       "word": "罗德岛番茄派对",
       "onboard_time": 1761467841,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 78834,
+      "num": 233815,
+      "word": "京东为用户比价反招骂",
+      "onboard_time": 1761473481,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 78104,
@@ -2371,12 +2451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69591,
-      "num": 233815,
-      "word": "京东为用户比价反招骂",
-      "onboard_time": 1761473481,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 68509,
+      "num": 140543,
+      "word": "曾舜晞 我嘴角压不下来",
+      "onboard_time": 1761473601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 68228,
@@ -2393,14 +2473,6 @@
       "onboard_time": 1761447619,
       "rank": 39,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 66185,
-      "num": 140449,
-      "word": "3女孩退租欠房费马桶塞满垃圾满屋",
-      "onboard_time": 1761473900,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65688,
@@ -2457,14 +2529,6 @@
       "onboard_time": 1761410719,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60637,
-      "num": 140543,
-      "word": "曾舜晞 我嘴角压不下来",
-      "onboard_time": 1761473601,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 60057,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761475262884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645808,
+        "num": 1103329,
+        "word": "警方回应上海金店被抢",
+        "onboard_time": 1761471140,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 583801,
+        "num": 583801,
+        "word": "iPhone千万别这样充电了",
+        "onboard_time": 1761470300,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68541,
+        "num": 530099,
+        "word": "靠实体经济走向未来",
+        "onboard_time": 1761469460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526473,
+        "num": 526473,
+        "word": "AI把薯片误判为枪惊动八辆美国警车",
+        "onboard_time": 1761468320,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383610,
+        "num": 383610,
+        "word": "中美双方形成初步共识",
+        "onboard_time": 1761471860,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293406,
+        "num": 293406,
+        "word": "31省份去年人口出生率数据公布",
+        "onboard_time": 1761466761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774670,
+        "num": 291524,
+        "word": "将门毒后 王鹤棣",
+        "onboard_time": 1761465800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287857,
+        "num": 287857,
+        "word": "孕检低风险却生下唐氏儿保险拒赔",
+        "onboard_time": 1761472101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317939,
+        "num": 283783,
+        "word": "将门毒后",
+        "onboard_time": 1761468800,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250076,
+        "num": 250076,
+        "word": "35元1个面包被年轻人疯抢",
+        "onboard_time": 1761457039,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 1543207,
+        "num": 245916,
+        "word": "香港男大看色情内容窒息死亡",
+        "onboard_time": 1761457099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863401,
+        "num": 241172,
+        "word": "张予曦不小心坐毕雯珺腿上",
+        "onboard_time": 1761472819,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744822,
+        "num": 236607,
+        "word": "郑智化 深圳机场",
+        "onboard_time": 1761469341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548966,
+        "num": 235121,
+        "word": "杨幂 你把幂幂打掉了",
+        "onboard_time": 1761468501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365330,
+        "num": 228894,
+        "word": "比伯又帅回来了",
+        "onboard_time": 1761466941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160957,
+        "num": 222024,
+        "word": "中美讨论延长对等关税暂停期",
+        "onboard_time": 1761473721,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291577,
+        "num": 218582,
+        "word": "第一批金价下跌受害者出现了",
+        "onboard_time": 1761458959,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215478,
+        "num": 215478,
+        "word": "侯明昊发红包",
+        "onboard_time": 1761472160,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151688,
+        "num": 213826,
+        "word": "入青云主演发红包",
+        "onboard_time": 1761474561,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78834,
+        "num": 208879,
+        "word": "京东为用户比价反招骂",
+        "onboard_time": 1761473481,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 418451,
+        "num": 202091,
+        "word": "杨幂cos艾琳",
+        "onboard_time": 1761473301,
+        "rank": 20,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 220737,
+        "num": 195551,
+        "word": "恋与深空天黑请睁眼",
+        "onboard_time": 1761474740,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194842,
+        "num": 194842,
+        "word": "午睡超过1小时死亡风险上升30%",
+        "onboard_time": 1761465379,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193436,
+        "num": 193436,
+        "word": "小海绵探班黄晓明",
+        "onboard_time": 1761463520,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183173,
+        "num": 183173,
+        "word": "比泪失禁更尴尬的是笑失禁",
+        "onboard_time": 1761474500,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161436,
+        "num": 161436,
+        "word": "奶皮子糖葫芦",
+        "onboard_time": 1761472281,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153735,
+        "num": 153735,
+        "word": "国考考到中央怎么办",
+        "onboard_time": 1761468080,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136078,
+        "num": 153349,
+        "word": "小酒窝和佟丽娅演真母女了",
+        "onboard_time": 1761473481,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 153019,
+        "word": "龚俊暗河传16集16分16秒",
+        "onboard_time": 1761474981,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120208,
+        "num": 152877,
+        "word": "入青云",
+        "onboard_time": 1761467360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202584,
+        "num": 152265,
+        "word": "红舞鞋剧组",
+        "onboard_time": 1761468262,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152146,
+        "num": 152146,
+        "word": "易烊千玺参加了毕业聚餐",
+        "onboard_time": 1761466821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146194,
+        "num": 146194,
+        "word": "陈伟霆晒好命手机壳",
+        "onboard_time": 1761474500,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145585,
+        "num": 145585,
+        "word": "湘潭大学37岁博导刘昊霖去世",
+        "onboard_time": 1761456679,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138848,
+        "num": 138848,
+        "word": "中方维护利益是坚定的",
+        "onboard_time": 1761471920,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138660,
+        "num": 138660,
+        "word": "印度仿制中国霹雳15导弹",
+        "onboard_time": 1761472520,
+        "rank": 35,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "音综选手每晚吃柚子瘦了60斤",
+        "onboard_time": 1761464180,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129469,
+        "num": 129469,
+        "word": "中戏食堂等来了最懂它的易烊千玺",
+        "onboard_time": 1761461301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126665,
+        "num": 126665,
+        "word": "深圳机场的视频来了",
+        "onboard_time": 1761465980,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96049,
+        "num": 123863,
+        "word": "中美进行了建设性探讨",
+        "onboard_time": 1761474621,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123401,
+        "num": 123401,
+        "word": "对钟楚曦的审判该停止了",
+        "onboard_time": 1761438680,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122770,
+        "num": 122770,
+        "word": "建议冬天床单两周换洗一次",
+        "onboard_time": 1761472461,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80362,
+        "num": 122109,
+        "word": "3女孩退租欠房费马桶塞满垃圾满屋",
+        "onboard_time": 1761473900,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121733,
+        "num": 121733,
+        "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
+        "onboard_time": 1761472101,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118433,
+        "num": 118433,
+        "word": "33短剧拍到凌晨三点才下班",
+        "onboard_time": 1761474680,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116967,
+        "num": 116967,
+        "word": "天地剑心",
+        "onboard_time": 1761475161,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112951,
+        "num": 112951,
+        "word": "德外长取消访华执政伙伴急了",
+        "onboard_time": 1761472520,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107191,
+        "num": 107191,
+        "word": "暗河传第二",
+        "onboard_time": 1761472400,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68509,
+        "num": 106815,
+        "word": "曾舜晞 我嘴角压不下来",
+        "onboard_time": 1761473601,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106515,
+        "num": 106515,
+        "word": "今年最想要的羽绒服出现了",
+        "onboard_time": 1761464540,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}

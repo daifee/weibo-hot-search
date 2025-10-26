@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 18:25:25
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/26 18:41:02
 </p>
 </blockquote>
 <p>
@@ -2769,6 +2769,12 @@ A股（热度：871787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%9D%90%E6%AF%95%E9%9B%AF%E7%8F%BA%E8%85%BF%E4%B8%8A%23" target="weibo">
+张予曦不小心坐毕雯珺腿上（热度：863401）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%91%E5%8D%95%23" target="weibo">
 凑单（热度：862324）
 </a>
@@ -3707,6 +3713,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 辽宁失联4岁女童已找到（热度：745366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%20%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%23" target="weibo">
+郑智化 深圳机场（热度：744822）
 </a>
 </li>
 
@@ -4655,6 +4667,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E6%89%9B%E5%89%A7%23" target="weibo">
 成毅 扛剧（热度：646444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E9%87%91%E5%BA%97%E8%A2%AB%E6%8A%A2%23" target="weibo">
+警方回应上海金店被抢（热度：645808）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%8F%91%E7%94%9F%E4%B8%A5%E9%87%8D%E8%BD%A6%E7%A5%B8%E8%87%B463%E6%AD%BB%23" target="weibo">
 乌干达发生严重车祸致63死（热度：550897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
-每天喝茶vs每天喝咖啡（热度：550593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8D%81%E6%9C%88%E5%8D%81%E5%85%AD%E5%8F%B7%E5%A9%9A%E7%A4%BC%23" target="weibo">
-黄子韬十月十六号婚礼（热度：550301）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%20%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8F%91%E5%9E%8B%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E7%94%9F%E6%B0%94%23" target="weibo">
-张予曦 今天的发型希望大家不要生气（热度：549944）
 </a>
 </li>
 
