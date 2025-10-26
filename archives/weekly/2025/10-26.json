@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761483708920,
+  "endTime": 1761485375475,
   "band_list": [
     {
       "raw_hot": 2221702,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1297838,
+      "num": 229976,
+      "word": "龚俊破万福利是半裸肌肉照",
+      "onboard_time": 1761484761,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1282932,
       "num": 279357,
       "word": "吴尊女儿neinei疑恋爱",
@@ -91,6 +99,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1017138,
+      "num": 1017138,
+      "word": "王者荣耀 有钱",
+      "onboard_time": 1761479422,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 953050,
       "num": 277942,
       "word": "曝女艺人盖浇饭泼导游",
@@ -123,20 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 804042,
-      "num": 804042,
-      "word": "王者荣耀 有钱",
-      "onboard_time": 1761479422,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 796530,
       "num": 1127444,
       "word": "AI把薯片误判为枪惊动八辆美国警车",
       "onboard_time": 1761468320,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 783070,
+      "num": 238850,
+      "word": "龚俊暗河传破万",
+      "onboard_time": 1761484161,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 770377,
@@ -467,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 381669,
+      "num": 381669,
+      "word": "百战成诗",
+      "onboard_time": 1761483981,
+      "rank": 3,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 380464,
       "num": 242698,
       "word": "黄磊7季向往的生活做了600道菜",
@@ -521,6 +545,14 @@
       "onboard_time": 1761434116,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351373,
+      "num": 229042,
+      "word": "王建国 爱奇艺副总裁小红",
+      "onboard_time": 1761481401,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 343069,
@@ -635,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290867,
+      "num": 225851,
+      "word": "王者新英雄六耳预告",
+      "onboard_time": 1761484880,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290759,
       "num": 236705,
       "word": "大梦归离",
@@ -673,6 +713,14 @@
       "onboard_time": 1761448520,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285954,
+      "num": 225682,
+      "word": "单依纯妆造",
+      "onboard_time": 1761482842,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282368,
@@ -729,14 +777,6 @@
       "onboard_time": 1761399862,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 255797,
-      "num": 229042,
-      "word": "王建国 爱奇艺副总裁小红",
-      "onboard_time": 1761481401,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 254135,
@@ -849,6 +889,14 @@
       "onboard_time": 1761479121,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227082,
+      "num": 227082,
+      "word": "一年一度梦泪羞辱仪式",
+      "onboard_time": 1761484641,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 220739,
@@ -979,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208036,
-      "num": 208036,
-      "word": "单依纯妆造",
-      "onboard_time": 1761482842,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204927,
       "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
@@ -1051,12 +1091,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199220,
+      "num": 199220,
+      "word": "邓紫棋演唱会裤子开了",
+      "onboard_time": 1761483501,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 198812,
+      "num": 222672,
+      "word": "玉簟秋",
+      "onboard_time": 1761484520,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195209,
       "num": 187010,
       "word": "彭小苒近日妆造全是紫色",
       "onboard_time": 1761462620,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193998,
+      "num": 220908,
+      "word": "张本智和3比1林昀儒",
+      "onboard_time": 1761484222,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 193743,
@@ -1227,6 +1291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171747,
+      "num": 171747,
+      "word": "彭小苒直播",
+      "onboard_time": 1761483981,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170758,
       "num": 261213,
       "word": "Bin 16强退役",
@@ -1236,7 +1308,7 @@
     },
     {
       "raw_hot": 168259,
-      "num": 168259,
+      "num": 217646,
       "word": "千里江山图",
       "onboard_time": 1761483501,
       "rank": 36,
@@ -1411,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152449,
+      "num": 152449,
+      "word": "好久没追这么爽的国产剧了",
+      "onboard_time": 1761481161,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151688,
       "num": 213826,
       "word": "入青云主演发红包",
@@ -1451,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149696,
-      "num": 149696,
-      "word": "好久没追这么爽的国产剧了",
-      "onboard_time": 1761481161,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148104,
       "num": 148104,
       "word": "黄景瑜对王安宇的成见是一座大山",
@@ -1472,6 +1544,14 @@
       "word": "张博恒总结世锦赛plog",
       "onboard_time": 1761467301,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146790,
+      "num": 217259,
+      "word": "张继科至今没人超越的记录",
+      "onboard_time": 1761485122,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1656,6 +1736,14 @@
       "word": "坏了让她能装一辈子了",
       "onboard_time": 1761452060,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135968,
+      "num": 135968,
+      "word": "第一批戴智能眼镜的受益者出现了",
+      "onboard_time": 1761485302,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -2708,7 +2796,7 @@
     },
     {
       "raw_hot": 81275,
-      "num": 539713,
+      "num": 545980,
       "word": "靠实体经济走向未来",
       "onboard_time": 1761469460,
       "rank": 2,
@@ -3003,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59855,
+      "num": 151443,
+      "word": "TES教练想避开AL和GEN",
+      "onboard_time": 1761485302,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59615,
       "num": 59615,
       "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
@@ -3035,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58191,
+      "num": 230875,
+      "word": "中美马来西亚经贸磋商谈了啥",
+      "onboard_time": 1761484342,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58051,
       "num": 195812,
       "word": "明日方舟",
@@ -3065,6 +3169,14 @@
       "onboard_time": 1761399680,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48456,
+      "num": 167707,
+      "word": "贷款炒金的黄金赌徒后悔了",
+      "onboard_time": 1761484821,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 47953,
