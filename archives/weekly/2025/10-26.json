@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761489569670,
+  "endTime": 1761492257021,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1017138,
-      "num": 1122664,
+      "num": 1140169,
       "word": "王者荣耀 有钱",
       "onboard_time": 1761479422,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 724282,
+      "num": 244557,
+      "word": "彭小苒 八年前的红很突然现在是及时",
+      "onboard_time": 1761489563,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715525,
       "num": 221844,
       "word": "中戏食堂等来了最懂它的易烊千玺",
@@ -273,6 +281,14 @@
       "onboard_time": 1761447320,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613484,
+      "num": 322810,
+      "word": "原来不内耗的人脑子里是这么想的",
+      "onboard_time": 1761485962,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 609153,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532720,
+      "num": 236105,
+      "word": "朋友圈一定要当天发",
+      "onboard_time": 1761490942,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517628,
       "num": 517628,
       "word": "官方通报观光车落水致4人遇难",
@@ -409,6 +433,14 @@
       "onboard_time": 1761463100,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484140,
+      "num": 367706,
+      "word": "刘诗诗 千里江山图",
+      "onboard_time": 1761487883,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 481834,
@@ -507,12 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 393685,
-      "num": 367706,
-      "word": "刘诗诗 千里江山图",
-      "onboard_time": 1761487883,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 394779,
+      "num": 256541,
+      "word": "林俊杰一千年以后",
+      "onboard_time": 1761491183,
+      "rank": 7,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 391777,
@@ -635,20 +667,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 330524,
+      "num": 216308,
+      "word": "陈粒 我将开始减少舞台工作",
+      "onboard_time": 1761491481,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325385,
       "num": 862061,
       "word": "光复二字遍及台湾大街小巷",
       "onboard_time": 1761427274,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 322810,
-      "num": 322810,
-      "word": "原来不内耗的人脑子里是这么想的",
-      "onboard_time": 1761485962,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 320160,
@@ -704,6 +736,14 @@
       "word": "3女孩2个月将房子住包浆欠费跑路",
       "onboard_time": 1761476841,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305350,
+      "num": 305350,
+      "word": "多名考古学家白天考古晚上盗墓",
+      "onboard_time": 1761490102,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -851,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253621,
+      "num": 274829,
+      "word": "我国3岁以下婴幼儿约3000万",
+      "onboard_time": 1761479121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249962,
       "num": 249962,
       "word": "周星驰不接张柏芝电话",
@@ -873,6 +921,22 @@
       "onboard_time": 1761472160,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247874,
+      "num": 247874,
+      "word": "信离",
+      "onboard_time": 1761491183,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 247075,
+      "num": 204920,
+      "word": "台湾豪宅双尸案",
+      "onboard_time": 1761491424,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239895,
@@ -953,14 +1017,6 @@
       "onboard_time": 1761475641,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 227467,
-      "num": 274829,
-      "word": "我国3岁以下婴幼儿约3000万",
-      "onboard_time": 1761479121,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220739,
@@ -1115,12 +1171,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 203378,
+      "num": 203378,
+      "word": "EDGnice",
+      "onboard_time": 1761490402,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203211,
       "num": 200139,
       "word": "国考考到中央怎么办",
       "onboard_time": 1761468080,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202439,
+      "num": 210130,
+      "word": "迪丽热巴卫蓝打电话吵架戏",
+      "onboard_time": 1761492023,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 201380,
@@ -1161,6 +1233,38 @@
       "onboard_time": 1761473481,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199195,
+      "num": 199195,
+      "word": "KPL群像",
+      "onboard_time": 1761491901,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198982,
+      "num": 198982,
+      "word": "韩国学生因拒绝在网诈遭受酷刑致死",
+      "onboard_time": 1761490942,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198197,
+      "num": 198197,
+      "word": "金色的雨",
+      "onboard_time": 1761491843,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196260,
+      "num": 196260,
+      "word": "大二学生家中看色情片窒息而亡",
+      "onboard_time": 1761489742,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195209,
@@ -1257,6 +1361,14 @@
       "onboard_time": 1761458241,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184959,
+      "num": 184959,
+      "word": "鞠婧祎古风小手办",
+      "onboard_time": 1761491183,
+      "rank": 41,
+      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 183173,
@@ -1435,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162944,
+      "num": 162944,
+      "word": "白桃星座",
+      "onboard_time": 1761491243,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "徐振轩经纪人让程相别驼背",
@@ -1537,6 +1657,14 @@
       "onboard_time": 1761449420,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155854,
+      "num": 155854,
+      "word": "最好吃的火锅就是开水里放一勺猪油",
+      "onboard_time": 1761490942,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 155846,
@@ -1859,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137783,
+      "num": 137783,
+      "word": "龚俊首部破万大男主剧",
+      "onboard_time": 1761490702,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137026,
       "num": 180382,
       "word": "暗河传第二",
@@ -2068,7 +2204,7 @@
     },
     {
       "raw_hot": 127351,
-      "num": 161011,
+      "num": 206333,
       "word": "KK园区出逃人员偷渡泰国时溺亡",
       "onboard_time": 1761486083,
       "rank": 34,
@@ -2779,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92040,
+      "num": 207746,
+      "word": "许昕的镜头里出现了樊振东",
+      "onboard_time": 1761491061,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91831,
       "num": 195615,
       "word": "太阳系星际访客4天后抵达近日点",
@@ -3161,6 +3305,14 @@
       "onboard_time": 1761395781,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71317,
+      "num": 185893,
+      "word": "孙颖莎将代表河北队冲击单打金牌",
+      "onboard_time": 1761489922,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 71008,
@@ -3571,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23024,
+      "num": 166308,
+      "word": "百草味面包疑似密封袋现活蟑螂",
+      "onboard_time": 1761490763,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21778,
       "num": 119079,
       "word": "台湾教授苑举正北京祭拜吴石将军",
@@ -3601,6 +3761,14 @@
       "onboard_time": 1761417795,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18838,
+      "num": 192840,
+      "word": "男子持续两三年朝商店扔钱拒绝拿回",
+      "onboard_time": 1761491121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17946,
@@ -3657,6 +3825,14 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10709,
+      "num": 193938,
+      "word": "卢浮宫劫案嫌疑人企图登机离境时落网",
+      "onboard_time": 1761492144,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10378,
