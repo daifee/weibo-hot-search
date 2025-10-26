@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 04:27:34
+本榜单时间：2025/10/27 00:30:08 ~ 2025/10/27 04:40:26
 </p>
 </blockquote>
 <p>
@@ -322,7 +322,7 @@ EDGnice（热度：150326）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B8%9D%E6%B1%B6%E6%80%BB%E7%90%86%E6%B5%81%E6%B3%AA%E4%BA%86%23" target="weibo">
-东帝汶总理流泪了（热度：53506）
+东帝汶总理流泪了（热度：54821）
 </a>
 </li>
 
@@ -382,13 +382,19 @@ KK园区出逃人员偷渡泰国时溺亡（热度：48378）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%A1%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%E5%AE%A2%E5%8E%85%E4%B8%9C%E8%A5%BF%E8%A2%AB%E7%83%A7%E5%85%89%23" target="weibo">
-男子没拔充电器客厅东西被烧光（热度：18895）
+男子没拔充电器客厅东西被烧光（热度：20060）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%8A%B1%E6%91%94%E5%A5%B3%E7%AB%A5%E8%87%B4%E5%85%B6%E8%80%B3%E8%BD%AF%E9%AA%A8%E6%96%AD%E8%A3%82%23" target="weibo">
-游泳教练抱摔女童致其耳软骨断裂（热度：16407）
+游泳教练抱摔女童致其耳软骨断裂（热度：16966）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%AD%A3%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%B8%A6%E5%A8%83%E4%B8%93%E5%AE%B6%23" target="weibo">
+多所高校正在培养带娃专家（热度：15427）
 </a>
 </li>
 
@@ -405,8 +411,8 @@ KK园区出逃人员偷渡泰国时溺亡（热度：48378）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%AD%A3%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%B8%A6%E5%A8%83%E4%B8%93%E5%AE%B6%23" target="weibo">
-多所高校正在培养带娃专家（热度：15116）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E6%98%AF%E4%B8%AA%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
+断联是个试金石（热度：12666）
 </a>
 </li>
 
