@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761518472890,
+  "endTime": 1761521025769,
   "band_list": [
     {
       "raw_hot": 783554,
@@ -9,6 +9,14 @@
       "onboard_time": 1761484761,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 752410,
+      "num": 856930,
+      "word": "多名考古学家白天考古晚上盗墓",
+      "onboard_time": 1761490102,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685151,
@@ -43,14 +51,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 524979,
-      "num": 856930,
-      "word": "多名考古学家白天考古晚上盗墓",
-      "onboard_time": 1761490102,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449157,
       "num": 196740,
       "word": "彭小苒破万福利九宫格出浴照",
@@ -67,7 +67,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 389773,
+      "raw_hot": 412324,
       "num": 193923,
       "word": "金价暴跌有大学生把生活费亏没了",
       "onboard_time": 1761476659,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305235,
+      "num": 119170,
+      "word": "大二学生家中看色情片窒息而亡",
+      "onboard_time": 1761489742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299713,
       "num": 299713,
       "word": "王者荣耀共创之夜",
@@ -107,12 +115,28 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 264341,
-      "num": 264341,
+      "raw_hot": 292220,
+      "num": 292220,
       "word": "我国3岁以下婴幼儿约3000万",
       "onboard_time": 1761479121,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280504,
+      "num": 191253,
+      "word": "王建国 爱奇艺副总裁小红",
+      "onboard_time": 1761481401,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259797,
+      "num": 75208,
+      "word": "每天只睡6小时的受害者出现了",
+      "onboard_time": 1761499516,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 249240,
@@ -121,6 +145,14 @@
       "onboard_time": 1761491183,
       "rank": 5,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 248773,
+      "num": 118593,
+      "word": "日本人因超市卖中国大米破防",
+      "onboard_time": 1761479662,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 246682,
@@ -147,12 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191253,
-      "num": 191253,
-      "word": "王建国 爱奇艺副总裁小红",
-      "onboard_time": 1761481401,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 194360,
+      "num": 77334,
+      "word": "邱党WTT男单冠军",
+      "onboard_time": 1761520039,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192435,
+      "num": 192435,
+      "word": "东帝汶总理流泪了",
+      "onboard_time": 1761504495,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189845,
@@ -161,6 +201,14 @@
       "onboard_time": 1761492321,
       "rank": 24,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 183118,
+      "num": 159368,
+      "word": "韩国学生因拒绝在网诈遭受酷刑致死",
+      "onboard_time": 1761490942,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169735,
@@ -177,22 +225,6 @@
       "onboard_time": 1761492023,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159368,
-      "num": 159368,
-      "word": "韩国学生因拒绝在网诈遭受酷刑致死",
-      "onboard_time": 1761490942,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 158439,
-      "num": 67917,
-      "word": "每天只睡6小时的受害者出现了",
-      "onboard_time": 1761499516,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 154964,
@@ -243,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125501,
+      "num": 74103,
+      "word": "周星驰不接张柏芝电话",
+      "onboard_time": 1761479301,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125148,
       "num": 160842,
       "word": "鞠婧祎紫衣锦鲤抄舞台",
@@ -257,14 +297,6 @@
       "onboard_time": 1761491243,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119488,
-      "num": 118593,
-      "word": "日本人因超市卖中国大米破防",
-      "onboard_time": 1761479662,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119376,
@@ -283,19 +315,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119170,
-      "num": 119170,
-      "word": "大二学生家中看色情片窒息而亡",
-      "onboard_time": 1761489742,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110789,
+      "raw_hot": 112109,
       "num": 195522,
       "word": "孕检低风险却生下唐氏儿保险拒赔",
       "onboard_time": 1761472101,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108689,
+      "num": 72971,
+      "word": "43名新生弃读东华大学不必公告姓名",
+      "onboard_time": 1761486023,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -315,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93948,
+      "num": 70330,
+      "word": "英国律师结束刑事法庭戴假发传统",
+      "onboard_time": 1761520039,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92974,
       "num": 118668,
       "word": "单依纯This is me",
@@ -323,12 +363,20 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 82080,
-      "num": 82080,
-      "word": "东帝汶总理流泪了",
-      "onboard_time": 1761504495,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 91822,
+      "num": 69925,
+      "word": "机构回应27岁女子相亲被介绍50岁对象",
+      "onboard_time": 1761520039,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91519,
+      "num": 91519,
+      "word": "好久没追这么爽的国产剧了",
+      "onboard_time": 1761481161,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 80579,
@@ -379,12 +427,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73131,
+      "num": 69480,
+      "word": "广东人生娃积极性第一名",
+      "onboard_time": 1761520339,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71946,
+      "num": 71946,
+      "word": "林忆莲染上了蒋欣在这里",
+      "onboard_time": 1761520639,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 71846,
+      "num": 68758,
+      "word": "送药无人接听返店查药效骑手发声",
+      "onboard_time": 1761520217,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71431,
+      "num": 71431,
+      "word": "皇马2比1巴萨",
+      "onboard_time": 1761501495,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71210,
+      "num": 71210,
+      "word": "皇马vs巴萨",
+      "onboard_time": 1761520639,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68773,
       "num": 117858,
       "word": "KK园区出逃人员偷渡泰国时溺亡",
       "onboard_time": 1761486083,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68658,
+      "num": 68658,
+      "word": "孟子义李昀锐未公开拍立得",
+      "onboard_time": 1761476900,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 68069,
@@ -395,12 +491,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 68025,
+      "num": 68025,
+      "word": "3女孩2个月将房子住包浆欠费跑路",
+      "onboard_time": 1761476841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66047,
       "num": 87890,
       "word": "关晓彤千里江山图官宣节奏",
       "onboard_time": 1761494180,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65926,
+      "num": 65926,
+      "word": "孟佳把深V穿成了小V",
+      "onboard_time": 1761479781,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62702,
@@ -419,6 +531,46 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 60722,
+      "num": 60722,
+      "word": "电影炸裂白宫被五角大楼批评",
+      "onboard_time": 1761520398,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60143,
+      "num": 60143,
+      "word": "美财长称贸易休战或将延长",
+      "onboard_time": 1761513074,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60087,
+      "num": 60087,
+      "word": "这回婚礼上没人着急开饭了",
+      "onboard_time": 1761501195,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59959,
+      "num": 71192,
+      "word": "张杰200场嘉年华烟花秀",
+      "onboard_time": 1761520639,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 59746,
+      "num": 59746,
+      "word": "3女孩租房住包浆跑路房东发声",
+      "onboard_time": 1761513553,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57753,
       "num": 117872,
       "word": "阿斯顿维拉vs曼城",
@@ -427,12 +579,52 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47567,
-      "num": 43196,
-      "word": "皇马2比1巴萨",
-      "onboard_time": 1761501495,
-      "rank": 23,
+      "raw_hot": 57081,
+      "num": 61281,
+      "word": "毛宁向世界分享中国人造太阳",
+      "onboard_time": 1761520217,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 56794,
+      "num": 56794,
+      "word": "管泽元说TES无敌",
+      "onboard_time": 1761520158,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 54564,
+      "num": 54564,
+      "word": "游泳教练抱摔女童致其耳软骨断裂",
+      "onboard_time": 1761508394,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53799,
+      "num": 59908,
+      "word": "张本美和WTT女单冠军",
+      "onboard_time": 1761520697,
+      "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52339,
+      "num": 52339,
+      "word": "红舞鞋致歉消失责任无法消失",
+      "onboard_time": 1761512713,
+      "rank": 49,
+      "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 51243,
+      "num": 51243,
+      "word": "龚俊偏偏你最争气",
+      "onboard_time": 1761520697,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 46172,
@@ -451,22 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40226,
-      "num": 43065,
-      "word": "美财长称贸易休战或将延长",
-      "onboard_time": 1761513074,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 38449,
-      "num": 43047,
-      "word": "这回婚礼上没人着急开饭了",
-      "onboard_time": 1761501195,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 35478,
       "num": 42903,
       "word": "范丞丞回应cos绿巨人被认出",
@@ -480,22 +656,6 @@
       "word": "多所高校正在培养带娃专家",
       "onboard_time": 1761504855,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30892,
-      "num": 43018,
-      "word": "3女孩租房住包浆跑路房东发声",
-      "onboard_time": 1761513553,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27719,
-      "num": 42919,
-      "word": "游泳教练抱摔女童致其耳软骨断裂",
-      "onboard_time": 1761508394,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -521,14 +681,6 @@
       "onboard_time": 1761503835,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22500,
-      "num": 42794,
-      "word": "红舞鞋致歉消失责任无法消失",
-      "onboard_time": 1761512713,
-      "rank": 49,
-      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 21696,

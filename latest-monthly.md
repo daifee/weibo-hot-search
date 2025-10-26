@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 06:41:12
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 07:23:45
 </p>
 </blockquote>
 <p>
@@ -3741,6 +3741,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6%E7%99%BD%E5%A4%A9%E8%80%83%E5%8F%A4%E6%99%9A%E4%B8%8A%E7%9B%97%E5%A2%93%23" target="weibo">
+多名考古学家白天考古晚上盗墓（热度：752410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E5%85%8D%E8%B4%B9%E6%B4%97%E9%87%91%E9%95%AF%E8%A2%AB%E6%B4%97%E6%8E%895%E5%85%8B%23" target="weibo">
 阿姨免费洗金镯被洗掉5克（热度：748825）
 </a>
@@ -6005,12 +6011,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E6%AF%95%E4%B8%9A%E4%BA%8E211%E9%99%A2%E6%A0%A1%23" target="weibo">
 29岁失联男子毕业于211院校（热度：556681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8%23" target="weibo">
-iPhone天气你可能真的不会用（热度：556452）
 </a>
 </li>
 
