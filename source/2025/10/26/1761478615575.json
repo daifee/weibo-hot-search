@@ -1,0 +1,410 @@
+{
+  "runTime": 1761478615575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105270,
+        "num": 1176843,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1761475520,
+        "rank": 0,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 723697,
+        "num": 723697,
+        "word": "警方回应上海金店被抢",
+        "onboard_time": 1761471140,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 62283,
+        "num": 414884,
+        "word": "靠实体经济走向未来",
+        "onboard_time": 1761469460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373477,
+        "num": 373477,
+        "word": "孕检低风险却生下唐氏儿保险拒赔",
+        "onboard_time": 1761472101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235531,
+        "num": 235531,
+        "word": "31省份去年人口出生率数据公布",
+        "onboard_time": 1761466761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227972,
+        "num": 227972,
+        "word": "普京宣布核动力巡航导弹测试完成",
+        "onboard_time": 1761475641,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221618,
+        "num": 221618,
+        "word": "35元1个面包被年轻人疯抢",
+        "onboard_time": 1761457039,
+        "rank": 6,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 219067,
+        "num": 219067,
+        "word": "AI把薯片误判为枪惊动八辆美国警车",
+        "onboard_time": 1761468320,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195514,
+        "num": 195514,
+        "word": "王者荣耀节目单",
+        "onboard_time": 1761478281,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191562,
+        "num": 191562,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1761477620,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1205739,
+        "num": 191555,
+        "word": "香港男大看色情内容窒息死亡",
+        "onboard_time": 1761457099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1169039,
+        "num": 190531,
+        "word": "吴尊女儿neinei疑恋爱",
+        "onboard_time": 1761477200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883411,
+        "num": 189795,
+        "word": "张予曦不小心坐毕雯珺腿上",
+        "onboard_time": 1761472819,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500000,
+        "num": 188983,
+        "word": "王者荣耀",
+        "onboard_time": 1761476960,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474803,
+        "num": 187407,
+        "word": "杨幂cos艾琳",
+        "onboard_time": 1761473301,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 377700,
+        "num": 187098,
+        "word": "iPhone千万别这样充电了",
+        "onboard_time": 1761470300,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275149,
+        "num": 186437,
+        "word": "比伯又帅回来了",
+        "onboard_time": 1761466941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271010,
+        "num": 185041,
+        "word": "钟楚曦成都活动状态",
+        "onboard_time": 1761476600,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254962,
+        "num": 184285,
+        "word": "中美双方形成初步共识",
+        "onboard_time": 1761471860,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357191,
+        "num": 183315,
+        "word": "杨幂 你把幂幂打掉了",
+        "onboard_time": 1761468501,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543250,
+        "num": 182319,
+        "word": "将门毒后 王鹤棣",
+        "onboard_time": 1761465800,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140872,
+        "num": 182174,
+        "word": "孙颖莎杨广弟邱贻可现身河北",
+        "onboard_time": 1761477319,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226117,
+        "num": 181342,
+        "word": "3女孩2个月将房子住包浆欠费跑路",
+        "onboard_time": 1761476841,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215616,
+        "num": 179790,
+        "word": "孟子义李昀锐未公开拍立得",
+        "onboard_time": 1761476900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179672,
+        "num": 179672,
+        "word": "金价暴跌有大学生把生活费亏没了",
+        "onboard_time": 1761476659,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 178413,
+        "num": 178413,
+        "word": "侯明昊发红包",
+        "onboard_time": 1761472160,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 177550,
+        "word": "天地剑心",
+        "onboard_time": 1761475161,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139092,
+        "num": 176028,
+        "word": "11月1日至6日国考报名确认",
+        "onboard_time": 1761478401,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118836,
+        "num": 173023,
+        "word": "小酒窝和佟丽娅演真母女了",
+        "onboard_time": 1761473481,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115076,
+        "num": 170807,
+        "word": "龚俊暗河传16集16分16秒",
+        "onboard_time": 1761474981,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169159,
+        "num": 169159,
+        "word": "国考考到中央怎么办",
+        "onboard_time": 1761468080,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167830,
+        "num": 167830,
+        "word": "李昀锐某很幸福",
+        "onboard_time": 1761478521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163839,
+        "num": 163839,
+        "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
+        "onboard_time": 1761477501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140868,
+        "num": 140868,
+        "word": "第一批金价下跌受害者出现了",
+        "onboard_time": 1761458959,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 138166,
+        "word": "董宇辉再喊话合作商家",
+        "onboard_time": 1761477441,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130275,
+        "num": 130275,
+        "word": "午睡超过1小时死亡风险上升30%",
+        "onboard_time": 1761465379,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121745,
+        "num": 121745,
+        "word": "音综选手每晚吃柚子瘦了60斤",
+        "onboard_time": 1761464180,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119072,
+        "num": 119072,
+        "word": "印度承认中国PL15E是款好武器",
+        "onboard_time": 1761476600,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118345,
+        "num": 118345,
+        "word": "小海绵探班黄晓明",
+        "onboard_time": 1761463520,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20005,
+        "num": 114353,
+        "word": "北京市民送馆长一年级课本",
+        "onboard_time": 1761477801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113780,
+        "num": 113780,
+        "word": "陈伟霆晒好命手机壳",
+        "onboard_time": 1761474500,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111516,
+        "num": 111516,
+        "word": "程潇 荣耀之翼",
+        "onboard_time": 1761478521,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109957,
+        "num": 109957,
+        "word": "易烊千玺参加了毕业聚餐",
+        "onboard_time": 1761466821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109116,
+        "num": 109116,
+        "word": "这竟然是王耀庆",
+        "onboard_time": 1761476841,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 108745,
+        "num": 108745,
+        "word": "天地剑心世恋一来了",
+        "onboard_time": 1761478581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107944,
+        "num": 107944,
+        "word": "仙逆",
+        "onboard_time": 1761476001,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 101271,
+        "num": 107829,
+        "word": "张晚意整张问卷只有名字是浪漫的",
+        "onboard_time": 1761476841,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107718,
+        "num": 107718,
+        "word": "高叶出来那一下给我看懵了",
+        "onboard_time": 1761478581,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107268,
+        "num": 107268,
+        "word": "恋与深空天黑请睁眼",
+        "onboard_time": 1761474740,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97374,
+        "num": 106358,
+        "word": "中方维护利益是坚定的",
+        "onboard_time": 1761471920,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#5个关键词看懂十五五所处历史方位#"
+    }
+  }
+}

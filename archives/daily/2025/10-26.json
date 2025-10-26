@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761477619561,
+  "endTime": 1761478615575,
   "band_list": [
     {
       "raw_hot": 2221702,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1169039,
+      "num": 194479,
+      "word": "吴尊女儿neinei疑恋爱",
+      "onboard_time": 1761477200,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1114184,
       "num": 236394,
       "word": "王者荣耀电话 诡异",
@@ -67,20 +75,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1105270,
+      "num": 1176843,
+      "word": "王者荣耀共创之夜",
+      "onboard_time": 1761475520,
+      "rank": 1,
+      "category": "游戏,作品衍生"
+    },
+    {
       "raw_hot": 1075117,
       "num": 1172018,
       "word": "警方回应上海金店被抢",
       "onboard_time": 1761471140,
       "rank": 32,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 978374,
-      "num": 978374,
-      "word": "王者荣耀共创之夜",
-      "onboard_time": 1761475520,
-      "rank": 1,
-      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 940322,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500000,
+      "num": 197979,
+      "word": "王者荣耀",
+      "onboard_time": 1761403402,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 491802,
       "num": 227626,
       "word": "欧盟主席气急败坏竟威胁中国",
@@ -337,14 +353,6 @@
       "onboard_time": 1761472101,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454263,
-      "num": 197979,
-      "word": "王者荣耀",
-      "onboard_time": 1761403402,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 423544,
@@ -603,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271010,
+      "num": 187058,
+      "word": "钟楚曦成都活动状态",
+      "onboard_time": 1761476600,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268334,
       "num": 217556,
       "word": "入青云",
       "onboard_time": 1761436398,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261282,
-      "num": 194479,
-      "word": "吴尊女儿neinei疑恋爱",
-      "onboard_time": 1761477200,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 256448,
@@ -707,6 +715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227972,
+      "num": 227972,
+      "word": "普京宣布核动力巡航导弹测试完成",
+      "onboard_time": 1761475641,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 226117,
+      "num": 181342,
+      "word": "3女孩2个月将房子住包浆欠费跑路",
+      "onboard_time": 1761476841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220739,
       "num": 194858,
       "word": "范丞丞cos绿巨人被认出",
@@ -721,6 +745,14 @@
       "onboard_time": 1761474740,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215616,
+      "num": 186325,
+      "word": "孟子义李昀锐未公开拍立得",
+      "onboard_time": 1761476900,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214944,
@@ -803,14 +835,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 204882,
-      "num": 187058,
-      "word": "钟楚曦成都活动状态",
-      "onboard_time": 1761476600,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204039,
       "num": 204039,
       "word": "江苏观光车落水相关责任人已被控制",
@@ -825,14 +849,6 @@
       "onboard_time": 1761468080,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202924,
-      "num": 202924,
-      "word": "普京宣布核动力巡航导弹测试完成",
-      "onboard_time": 1761475641,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 201380,
@@ -867,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195514,
+      "num": 195514,
+      "word": "王者荣耀节目单",
+      "onboard_time": 1761478281,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195209,
       "num": 187010,
       "word": "彭小苒近日妆造全是紫色",
@@ -881,6 +905,14 @@
       "onboard_time": 1761460640,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191562,
+      "num": 191562,
+      "word": "玉兰花开君再来",
+      "onboard_time": 1761477620,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 190514,
@@ -923,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186325,
-      "num": 186325,
-      "word": "孟子义李昀锐未公开拍立得",
-      "onboard_time": 1761476900,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186173,
       "num": 186173,
       "word": "我家那闺女",
@@ -961,6 +985,14 @@
       "onboard_time": 1761473059,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179672,
+      "num": 179672,
+      "word": "金价暴跌有大学生把生活费亏没了",
+      "onboard_time": 1761476659,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 178807,
@@ -1035,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167830,
+      "num": 167830,
+      "word": "李昀锐某很幸福",
+      "onboard_time": 1761478521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165625,
       "num": 184994,
       "word": "敖瑞鹏跑男官宣",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1761462319,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163839,
+      "num": 163839,
+      "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
+      "onboard_time": 1761477501,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 161556,
@@ -1163,14 +1211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153369,
-      "num": 153369,
-      "word": "3女孩2个月将房子住包浆欠费跑路",
-      "onboard_time": 1761476841,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "太奶奶3开播追剧团",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1761451819,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148375,
-      "num": 148375,
-      "word": "金价暴跌有大学生把生活费亏没了",
-      "onboard_time": 1761476659,
-      "rank": 39,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 148104,
@@ -1315,12 +1347,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140872,
+      "num": 190466,
+      "word": "孙颖莎杨广弟邱贻可现身河北",
+      "onboard_time": 1761477319,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139627,
       "num": 139627,
       "word": "王源 怎样度过一个有趣的周末",
       "onboard_time": 1761467240,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139092,
+      "num": 176028,
+      "word": "11月1日至6日国考报名确认",
+      "onboard_time": 1761478401,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 138548,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1761455240,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138166,
+      "num": 138166,
+      "word": "董宇辉再喊话合作商家",
+      "onboard_time": 1761477441,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 137990,
@@ -1404,7 +1460,7 @@
     },
     {
       "raw_hot": 134434,
-      "num": 153019,
+      "num": 170807,
       "word": "龚俊暗河传16集16分16秒",
       "onboard_time": 1761474981,
       "rank": 28,
@@ -1627,14 +1683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 122615,
-      "num": 122615,
-      "word": "董宇辉再喊话合作商家",
-      "onboard_time": 1761477441,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 120376,
       "num": 120376,
       "word": "亚洲第一长洞发现52具熊猫化石",
@@ -1675,6 +1723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 119072,
+      "num": 119072,
+      "word": "印度承认中国PL15E是款好武器",
+      "onboard_time": 1761476600,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118782,
       "num": 118782,
       "word": "特朗普下飞机跳起经典舞蹈",
@@ -1713,14 +1769,6 @@
       "onboard_time": 1761407600,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 115345,
-      "num": 190466,
-      "word": "孙颖莎杨广弟邱贻可现身河北",
-      "onboard_time": 1761477319,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 113920,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1761403642,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111516,
+      "num": 111516,
+      "word": "程潇 荣耀之翼",
+      "onboard_time": 1761478521,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 111045,
@@ -1843,20 +1899,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109359,
-      "num": 109359,
-      "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
-      "onboard_time": 1761477501,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109208,
       "num": 141379,
       "word": "中美经贸磋商成果来之不易",
       "onboard_time": 1761473421,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108745,
+      "num": 108745,
+      "word": "天地剑心世恋一来了",
+      "onboard_time": 1761478581,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 108535,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1761433875,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107718,
+      "num": 107718,
+      "word": "高叶出来那一下给我看懵了",
+      "onboard_time": 1761478581,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 106568,
@@ -2913,6 +2977,14 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20005,
+      "num": 114353,
+      "word": "北京市民送馆长一年级课本",
+      "onboard_time": 1761477801,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19908,
