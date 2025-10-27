@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761601088810,
+  "endTime": 1761603866137,
   "band_list": [
     {
       "raw_hot": 899892,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116755,
+      "num": 373698,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113114,
       "num": 113114,
       "word": "肖战宣传舒淇电影",
@@ -259,20 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67677,
-      "num": 42829,
+      "raw_hot": 70049,
+      "num": 70049,
       "word": "日本18000名警察出动确保东京安全",
       "onboard_time": 1761585018,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66866,
-      "num": 173013,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66598,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 51663,
-      "num": 32453,
+      "num": 32474,
       "word": "孙恩盛回应拍短剧",
       "onboard_time": 1761587775,
       "rank": 22,
@@ -459,6 +459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 33193,
+      "num": 33193,
+      "word": "睡眠是体重管理的关键环节",
+      "onboard_time": 1761588975,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31515,
       "num": 42819,
       "word": "王权富贵好温柔",
@@ -491,16 +499,16 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 25900,
-      "num": 22014,
-      "word": "睡眠是体重管理的关键环节",
-      "onboard_time": 1761588975,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 22608,
+      "num": 32457,
+      "word": "杨幂当高跟鞋换成平底鞋",
+      "onboard_time": 1761596833,
+      "rank": 43,
+      "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 21853,
-      "num": 21853,
+      "raw_hot": 22441,
+      "num": 32437,
       "word": "郑智化深圳机场视频",
       "onboard_time": 1761588435,
       "rank": 43,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 20425,
-      "num": 20425,
+      "num": 32359,
       "word": "蔡磊渐冻症晚期仍工作到深夜",
       "onboard_time": 1761595933,
       "rank": 25,
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19923,
+      "num": 32408,
+      "word": "47岁蔡磊与渐冻症抗争7年现状",
+      "onboard_time": 1761585617,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19118,
       "num": 273660,
       "word": "北京大视听的春天很美丽",
@@ -539,28 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19074,
-      "num": 19074,
-      "word": "杨幂当高跟鞋换成平底鞋",
-      "onboard_time": 1761596833,
-      "rank": 43,
-      "category": "作品衍生,游戏"
-    },
-    {
       "raw_hot": 17993,
-      "num": 17993,
+      "num": 32336,
       "word": "美尼米兹号退役前最后一次部署",
       "onboard_time": 1761597554,
       "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 17168,
-      "num": 20289,
-      "word": "47岁蔡磊与渐冻症抗争7年现状",
-      "onboard_time": 1761585617,
+      "raw_hot": 17335,
+      "num": 32353,
+      "word": "一个穿了铅笔一个穿了橡皮",
+      "onboard_time": 1761603136,
       "rank": 45,
-      "category": "民生新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 16026,
@@ -577,6 +585,14 @@
       "onboard_time": 1761590535,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 15777,
+      "num": 32331,
+      "word": "猫猫从小鼻嘎变成了油腻大叔",
+      "onboard_time": 1761603195,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 14302,
