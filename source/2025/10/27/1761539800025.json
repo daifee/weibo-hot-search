@@ -1,0 +1,410 @@
+{
+  "runTime": 1761539800025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058138,
+        "num": 1169302,
+        "word": "ELLE全阵容官宣",
+        "onboard_time": 1761534861,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1049693,
+        "num": 1049693,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51420,
+        "num": 812926,
+        "word": "12项重大部署看未来怎么干",
+        "onboard_time": 1761534680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 646676,
+        "num": 646676,
+        "word": "世界第一美少年去世",
+        "onboard_time": 1761529641,
+        "rank": 3,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 442826,
+        "num": 442826,
+        "word": "枭起青壤",
+        "onboard_time": 1761535941,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432541,
+        "num": 432541,
+        "word": "美方不再考虑对华加征100%的关税",
+        "onboard_time": 1761533601,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431505,
+        "num": 431505,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402107,
+        "num": 402107,
+        "word": "疯狂动物城2中文配音阵容",
+        "onboard_time": 1761533120,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 355998,
+        "num": 355998,
+        "word": "美军回应2架军机在南海坠毁",
+        "onboard_time": 1761530841,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238727,
+        "num": 238727,
+        "word": "暴雪大雪暴雨要来了",
+        "onboard_time": 1761523280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19747,
+        "num": 238726,
+        "word": "和千玺开启天猫旗舰新体验",
+        "onboard_time": 1761536361,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 1314418,
+        "num": 238495,
+        "word": "肖战观摩开颅手术",
+        "onboard_time": 1761537921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1233006,
+        "num": 238350,
+        "word": "看病挂号认准副主任",
+        "onboard_time": 1761534443,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 938705,
+        "num": 238164,
+        "word": "李飞手机页面",
+        "onboard_time": 1761536961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727826,
+        "num": 238085,
+        "word": "陈粒演出时耳机爆炸",
+        "onboard_time": 1761521661,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443817,
+        "num": 237888,
+        "word": "曾经爆火现在几乎没人喝的奶茶",
+        "onboard_time": 1761526101,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 397763,
+        "num": 237666,
+        "word": "恋与深空新PV",
+        "onboard_time": 1761534261,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 396264,
+        "num": 237489,
+        "word": "迪丽热巴抱迪丽热巴",
+        "onboard_time": 1761533779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365260,
+        "num": 237437,
+        "word": "雪中悍刀行2概念海报",
+        "onboard_time": 1761535341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144775,
+        "num": 237222,
+        "word": "下单之前上闲鱼才是真邪修",
+        "onboard_time": 1761537861,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 301874,
+        "num": 237115,
+        "word": "刘亦菲刘冲坐一辆车",
+        "onboard_time": 1761531379,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288699,
+        "num": 236975,
+        "word": "林心如霍建华为父母举办金婚宴",
+        "onboard_time": 1761537321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248839,
+        "num": 236743,
+        "word": "杨清柠王乐乐同框",
+        "onboard_time": 1761527960,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236678,
+        "num": 236678,
+        "word": "鹅厂2026大剧片单",
+        "onboard_time": 1761536721,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227235,
+        "num": 227235,
+        "word": "普通女生化妆最有效果的一步",
+        "onboard_time": 1761534742,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205934,
+        "num": 205934,
+        "word": "广东湛江一处沙滩现中华白海豚尸体",
+        "onboard_time": 1761537620,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201140,
+        "num": 201140,
+        "word": "雪中悍刀行2",
+        "onboard_time": 1761538761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187191,
+        "num": 192585,
+        "word": "蒋超良被双开",
+        "onboard_time": 1761536180,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214199,
+        "num": 192421,
+        "word": "男子辅导作业失手致儿子耳膜穿孔",
+        "onboard_time": 1761538043,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105907,
+        "num": 191574,
+        "word": "刘宇宁演唱会上快哭了",
+        "onboard_time": 1761539003,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191573,
+        "num": 191573,
+        "word": "唐嫣费加罗",
+        "onboard_time": 1761539362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191450,
+        "num": 191450,
+        "word": "88岁卧倒在床有4子女却无人赡养",
+        "onboard_time": 1761537561,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171036,
+        "num": 171036,
+        "word": "里弗斯51分",
+        "onboard_time": 1761538402,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164426,
+        "num": 164426,
+        "word": "看到了男朋友给自己的备注",
+        "onboard_time": 1761536901,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161628,
+        "num": 161628,
+        "word": "白鹿说敖瑞鹏很震惊的身高",
+        "onboard_time": 1761537443,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160754,
+        "num": 160754,
+        "word": "快船战胜开拓者",
+        "onboard_time": 1761539543,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157585,
+        "num": 157585,
+        "word": "南海",
+        "onboard_time": 1761527061,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156994,
+        "num": 156994,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131180,
+        "num": 156087,
+        "word": "张伦硕否认顶配继父称号",
+        "onboard_time": 1761539722,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40337,
+        "num": 155600,
+        "word": "南笙顺产纪录片",
+        "onboard_time": 1761539062,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155555,
+        "num": 155555,
+        "word": "10个表现说明严重睡眠不足",
+        "onboard_time": 1761539722,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96616,
+        "num": 150871,
+        "word": "杨瀚森人气客场变主场",
+        "onboard_time": 1761538521,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149270,
+        "num": 149270,
+        "word": "已经爱吃苹果 下一步可能要吃桃酥了",
+        "onboard_time": 1761536841,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142221,
+        "num": 142221,
+        "word": "Faker瑞士轮火力全开",
+        "onboard_time": 1761539482,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140976,
+        "num": 140976,
+        "word": "陈粒工作室致歉",
+        "onboard_time": 1761532040,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139122,
+        "num": 139122,
+        "word": "王者荣耀六耳",
+        "onboard_time": 1761529820,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137733,
+        "num": 137733,
+        "word": "关晓彤这段不像是演的",
+        "onboard_time": 1761535701,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134132,
+        "num": 134132,
+        "word": "卢昱晓像极了考试快交卷的我",
+        "onboard_time": 1761539303,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129468,
+        "num": 129468,
+        "word": "上班时间禁止偷吃同事",
+        "onboard_time": 1761538943,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127248,
+        "num": 127248,
+        "word": "建议PPT改名为JJT",
+        "onboard_time": 1761539782,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展成果由人民共享#"
+    }
+  }
+}

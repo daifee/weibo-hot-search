@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 11:56:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 12:36:40
 </p>
 </blockquote>
 <p>
@@ -1107,6 +1107,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%A7%82%E6%91%A9%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23" target="weibo">
+肖战观摩开颅手术（热度：1314418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人人鸡排哥人人人人人人（热度：1302673）
 </a>
@@ -1857,6 +1863,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+ELLE全阵容官宣（热度：1058138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E5%A7%90%E4%BD%A0%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E8%BE%9B%E8%8B%A6%23" target="weibo">
 小S 姐你不在的人生真的很辛苦（热度：1057349）
 </a>
@@ -1895,6 +1907,12 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%9D%8E%E8%8F%B2%E5%84%BF%23" target="weibo">
 差点没认出来李菲儿（热度：1049868）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83%23" target="weibo">
+缅甸KK园区上千人跳河出逃（热度：1049693）
 </a>
 </li>
 
@@ -2451,6 +2469,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9E%E6%89%8B%E6%9C%BA%E9%A1%B5%E9%9D%A2%23" target="weibo">
+李飞手机页面（热度：938705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E9%9F%A9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B3%A8%E6%84%8F%E4%BA%BA%E8%BA%AB%E5%AE%89%E5%85%A8%23" target="weibo">
 提醒在韩中国游客注意人身安全（热度：936520）
 </a>
@@ -2597,12 +2621,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%8F%96%E4%BB%A3QQ%23" target="weibo">
 一直没明白为什么微信能取代QQ（热度：910262）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-ELLE全阵容官宣（热度：908578）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%90%8C%E5%B1%85%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%85%AC%E6%B4%BE%E7%95%99%E5%AD%A6%23" target="weibo">
 与已婚女同居博士生被解除公派留学（热度：561247）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%A6%88%E5%A6%88%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
-14岁自闭症男孩坠楼妈妈崩溃大哭（热度：561040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23125%E6%96%A4%E5%B7%A6%E5%8F%B3%E7%9A%84%E5%A7%90%E5%A7%90%E4%BB%AC%E5%88%AB%E5%87%8F%E8%82%A5%E4%BA%86%23" target="weibo">
-125斤左右的姐姐们别减肥了（热度：560064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23miumiu%20%E5%A5%BD%E5%A4%9A%E5%9B%B4%E8%A3%99%23" target="weibo">
-miumiu 好多围裙（热度：559985）
 </a>
 </li>
 

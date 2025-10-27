@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761537364665,
+  "endTime": 1761539800025,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -57,6 +57,14 @@
       "onboard_time": 1761457099,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1314418,
+      "num": 238495,
+      "word": "肖战观摩开颅手术",
+      "onboard_time": 1761537921,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1282932,
@@ -131,6 +139,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1058138,
+      "num": 1169302,
+      "word": "ELLE全阵容官宣",
+      "onboard_time": 1761534861,
+      "rank": 4,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1049693,
+      "num": 1049693,
+      "word": "缅甸KK园区上千人跳河出逃",
+      "onboard_time": 1761535881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1017138,
       "num": 1140169,
       "word": "王者荣耀 有钱",
@@ -163,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 938705,
+      "num": 238164,
+      "word": "李飞手机页面",
+      "onboard_time": 1761536961,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 924717,
       "num": 337625,
       "word": "曾经爆火现在几乎没人喝的奶茶",
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 908578,
-      "num": 908578,
-      "word": "ELLE全阵容官宣",
-      "onboard_time": 1761534861,
-      "rank": 4,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 898862,
@@ -587,14 +611,6 @@
       "category": "演出,游戏"
     },
     {
-      "raw_hot": 485548,
-      "num": 485548,
-      "word": "缅甸KK园区上千人跳河出逃",
-      "onboard_time": 1761535881,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 484326,
       "num": 484326,
       "word": "女孩失联一周竟是躲房间玩手机",
@@ -657,6 +673,14 @@
       "onboard_time": 1761494000,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442826,
+      "num": 442826,
+      "word": "枭起青壤",
+      "onboard_time": 1761535941,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 436576,
@@ -1035,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288699,
+      "num": 236975,
+      "word": "林心如霍建华为父母举办金婚宴",
+      "onboard_time": 1761537321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287812,
       "num": 287812,
       "word": "2025共创之夜节目单",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1761448520,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 285082,
-      "num": 285082,
-      "word": "枭起青壤",
-      "onboard_time": 1761535941,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 282368,
@@ -1235,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236678,
+      "num": 236678,
+      "word": "鹅厂2026大剧片单",
+      "onboard_time": 1761536721,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236045,
       "num": 236045,
       "word": "女子参加荒野求生14天后瘦成闪电",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1761475641,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227235,
+      "num": 227235,
+      "word": "普通女生化妆最有效果的一步",
+      "onboard_time": 1761534742,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 222087,
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214199,
+      "num": 192421,
+      "word": "男子辅导作业失手致儿子耳膜穿孔",
+      "onboard_time": 1761538043,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213564,
       "num": 213564,
       "word": "沪指涨1%逼近4000点",
@@ -1451,20 +1499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207240,
-      "num": 191514,
-      "word": "普通女生化妆最有效果的一步",
-      "onboard_time": 1761534742,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 206296,
-      "num": 206296,
-      "word": "李飞手机页面",
-      "onboard_time": 1761536961,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 205934,
+      "num": 205934,
+      "word": "广东湛江一处沙滩现中华白海豚尸体",
+      "onboard_time": 1761537620,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204927,
@@ -1539,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201140,
+      "num": 201140,
+      "word": "雪中悍刀行2",
+      "onboard_time": 1761538761,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200530,
       "num": 138874,
       "word": "奥黛丽赫本之子在苏州胜诉",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1761473481,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200114,
-      "num": 200114,
-      "word": "鹅厂2026大剧片单",
-      "onboard_time": 1761536721,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 200086,
@@ -1659,12 +1699,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191573,
+      "num": 191573,
+      "word": "唐嫣费加罗",
+      "onboard_time": 1761539362,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191473,
       "num": 218789,
       "word": "天地剑心8集定律在第6集",
       "onboard_time": 1761481821,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "88岁卧倒在床有4子女却无人赡养",
+      "onboard_time": 1761537561,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190785,
@@ -1883,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171036,
+      "num": 171036,
+      "word": "里弗斯51分",
+      "onboard_time": 1761538402,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171033,
       "num": 171033,
       "word": "英国律师结束刑事法庭戴假发传统",
@@ -1987,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161628,
+      "num": 161628,
+      "word": "白鹿说敖瑞鹏很震惊的身高",
+      "onboard_time": 1761537443,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "徐振轩经纪人让程相别驼背",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1761473721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160754,
+      "num": 160754,
+      "word": "快船战胜开拓者",
+      "onboard_time": 1761539543,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 160577,
@@ -2107,6 +2187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156994,
+      "num": 156994,
+      "word": "蔡磊研发药物对病友起效自己没用",
+      "onboard_time": 1761539543,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156277,
       "num": 156277,
       "word": "恋与深空直到心跳沸腾",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1761488243,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155555,
+      "num": 155555,
+      "word": "10个表现说明严重睡眠不足",
+      "onboard_time": 1761539722,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155009,
@@ -2347,6 +2443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 144775,
+      "num": 237222,
+      "word": "下单之前上闲鱼才是真邪修",
+      "onboard_time": 1761537861,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144071,
       "num": 144071,
       "word": "香港男生窒息死亡警方初步排除自杀",
@@ -2361,6 +2465,14 @@
       "onboard_time": 1761526642,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142221,
+      "num": 142221,
+      "word": "Faker瑞士轮火力全开",
+      "onboard_time": 1761539482,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 142092,
@@ -2603,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134132,
+      "num": 134132,
+      "word": "卢昱晓像极了考试快交卷的我",
+      "onboard_time": 1761539303,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134116,
       "num": 282240,
       "word": "东部战区空军多支部队实战化训练",
@@ -2723,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131180,
+      "num": 156087,
+      "word": "张伦硕否认顶配继父称号",
+      "onboard_time": 1761539722,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131144,
       "num": 131144,
       "word": "郭宇欣演过承欢记",
@@ -2779,6 +2907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129468,
+      "num": 129468,
+      "word": "上班时间禁止偷吃同事",
+      "onboard_time": 1761538943,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128896,
       "num": 128896,
       "word": "网传赵丽颖出演开盘",
@@ -2825,6 +2961,14 @@
       "onboard_time": 1761486083,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127248,
+      "num": 127248,
+      "word": "建议PPT改名为JJT",
+      "onboard_time": 1761539782,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 126318,
@@ -3315,6 +3459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105907,
+      "num": 191574,
+      "word": "刘宇宁演唱会上快哭了",
+      "onboard_time": 1761539003,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105826,
       "num": 119025,
       "word": "林俊杰太好听了",
@@ -3593,6 +3745,14 @@
       "onboard_time": 1761447140,
       "rank": 40,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 96616,
+      "num": 150871,
+      "word": "杨瀚森人气客场变主场",
+      "onboard_time": 1761538521,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96049,
@@ -4619,6 +4779,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 40337,
+      "num": 155600,
+      "word": "南笙顺产纪录片",
+      "onboard_time": 1761539062,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40034,
       "num": 158220,
       "word": "让残疾人从从容容登机不该是奢望",
@@ -4713,14 +4881,6 @@
       "onboard_time": 1761489502,
       "rank": 38,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 30583,
-      "num": 169308,
-      "word": "林心如霍建华为父母举办金婚宴",
-      "onboard_time": 1761537321,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 30489,
