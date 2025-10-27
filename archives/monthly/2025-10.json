@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761607419504,
+  "endTime": 1761608234950,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -18907,6 +18907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282021,
+      "num": 855123,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 282014,
       "num": 599877,
       "word": "上海暴雨",
@@ -20387,14 +20395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 260269,
-      "num": 757077,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 259935,
       "num": 212691,
       "word": "后羿新皮肤神树通天",
@@ -21795,6 +21795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240177,
+      "num": 229227,
+      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+      "onboard_time": 1761573263,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240106,
       "num": 240106,
       "word": "宋茜强曝光镜头下的五官",
@@ -22633,14 +22641,6 @@
       "onboard_time": 1759668684,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229227,
-      "num": 229227,
-      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
-      "onboard_time": 1761573263,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229175,
@@ -32044,7 +32044,7 @@
     },
     {
       "raw_hot": 172182,
-      "num": 87491,
+      "num": 95627,
       "word": "老君山再现阴阳分界线",
       "onboard_time": 1761606558,
       "rank": 20,
@@ -43163,6 +43163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 135287,
+      "num": 135287,
+      "word": "日本18000名警察出动确保东京安全",
+      "onboard_time": 1761585018,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135266,
       "num": 135266,
       "word": "张桂源choker",
@@ -43473,14 +43481,6 @@
       "onboard_time": 1761572422,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 134769,
-      "num": 134769,
-      "word": "日本18000名警察出动确保东京安全",
-      "onboard_time": 1761585018,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134759,
@@ -48905,6 +48905,14 @@
       "onboard_time": 1759745120,
       "rank": 42,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 123224,
+      "num": 94990,
+      "word": "黄金惊变",
+      "onboard_time": 1761606798,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 123201,
@@ -60331,14 +60339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104104,
-      "num": 86967,
-      "word": "黄金惊变",
-      "onboard_time": 1761606798,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104102,
       "num": 1094704,
       "word": "十四五期间这些大国重器出圈了",
@@ -61489,6 +61489,14 @@
       "onboard_time": 1761298401,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102485,
+      "num": 94185,
+      "word": "五个月瘦36斤减肥经验",
+      "onboard_time": 1761606618,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 102475,
@@ -66571,6 +66579,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 94032,
+      "num": 94032,
+      "word": "国际金银暴跌",
+      "onboard_time": 1761607640,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94025,
       "num": 94025,
       "word": "王俊凯小说男主身材比例",
@@ -67049,6 +67065,14 @@
       "onboard_time": 1761182360,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93488,
+      "num": 93488,
+      "word": "小耳朵停播两年修复双眼皮11次",
+      "onboard_time": 1761584777,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 93486,
@@ -71107,14 +71131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86535,
-      "num": 86535,
-      "word": "五个月瘦36斤减肥经验",
-      "onboard_time": 1761606618,
-      "rank": 22,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 86530,
       "num": 86530,
       "word": "王晓彤没叫暂停就是整理下头发",
@@ -71289,6 +71305,14 @@
       "onboard_time": 1760065460,
       "rank": 31,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 86278,
+      "num": 86278,
+      "word": "果郡王也转战短剧赛道了",
+      "onboard_time": 1761606618,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 86260,
@@ -76699,6 +76723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75155,
+      "num": 75155,
+      "word": "50名学生因1特殊学生集体不上课",
+      "onboard_time": 1761573442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75110,
       "num": 75110,
       "word": "王楚钦孙颖莎背后都是CHINA",
@@ -76825,6 +76857,14 @@
       "onboard_time": 1760786842,
       "rank": 48,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 74706,
+      "num": 86069,
+      "word": "中方回应德国外长推迟访华行程",
+      "onboard_time": 1761606978,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74690,
@@ -78859,14 +78899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68490,
-      "num": 84231,
-      "word": "果郡王也转战短剧赛道了",
-      "onboard_time": 1761606618,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68468,
       "num": 65895,
       "word": "龚俊偏偏你最争气",
@@ -79404,7 +79436,7 @@
     },
     {
       "raw_hot": 66786,
-      "num": 83743,
+      "num": 85979,
       "word": "许绍雄去年连拍多部作品",
       "onboard_time": 1761606318,
       "rank": 25,
@@ -79481,14 +79513,6 @@
       "onboard_time": 1760418801,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66598,
-      "num": 57969,
-      "word": "小耳朵停播两年修复双眼皮11次",
-      "onboard_time": 1761584777,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 66577,
@@ -80939,6 +80963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61153,
+      "num": 61153,
+      "word": "huanfeng谈BLG打野轮换",
+      "onboard_time": 1761607279,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61103,
       "num": 111506,
       "word": "特斯拉被曝停产Optimus机器人",
@@ -81049,14 +81081,6 @@
       "onboard_time": 1761286161,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 60632,
-      "num": 60632,
-      "word": "50名学生因1特殊学生集体不上课",
-      "onboard_time": 1761573442,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60630,
@@ -81924,7 +81948,7 @@
     },
     {
       "raw_hot": 57874,
-      "num": 80991,
+      "num": 85459,
       "word": "易烊千玺11月1日影院见舒淇新片",
       "onboard_time": 1761586097,
       "rank": 22,
@@ -82195,6 +82219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56559,
+      "num": 56559,
+      "word": "两岸统一后有哪些利好",
+      "onboard_time": 1761607279,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56521,
       "num": 106561,
       "word": "李昀锐说孟子义拍戏时是开心果",
@@ -82225,14 +82257,6 @@
       "onboard_time": 1759464859,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 56301,
-      "num": 56301,
-      "word": "中方回应德国外长推迟访华行程",
-      "onboard_time": 1761606978,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56231,
@@ -82939,14 +82963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53483,
-      "num": 53483,
-      "word": "huanfeng谈BLG打野轮换",
-      "onboard_time": 1761607279,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53431,
       "num": 441529,
       "word": "京东拍卖送英雄联盟门票KPL门票",
@@ -82993,6 +83009,14 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53228,
+      "num": 53228,
+      "word": "特朗普回应俄试射末日武器",
+      "onboard_time": 1761607279,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53193,
@@ -83651,12 +83675,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50006,
+      "num": 50006,
+      "word": "猫猫从小鼻嘎变成了油腻大叔",
+      "onboard_time": 1761603195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49932,
       "num": 79683,
       "word": "17岁学徒工杀人疑云",
       "onboard_time": 1760020341,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49907,
+      "num": 49907,
+      "word": "缅甸军方连续四天爆破KK电诈园区",
+      "onboard_time": 1761608180,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49864,
@@ -83753,14 +83793,6 @@
       "onboard_time": 1761113482,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49242,
-      "num": 49242,
-      "word": "猫猫从小鼻嘎变成了油腻大叔",
-      "onboard_time": 1761603195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 49235,
@@ -83865,14 +83897,6 @@
       "onboard_time": 1759878797,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48891,
-      "num": 48891,
-      "word": "两岸统一后有哪些利好",
-      "onboard_time": 1761607279,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48884,
@@ -84145,6 +84169,14 @@
       "onboard_time": 1760000000,
       "rank": 25,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 47716,
+      "num": 47716,
+      "word": "高通美股涨超14%",
+      "onboard_time": 1761608119,
+      "rank": 49,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 47701,
@@ -84993,14 +85025,6 @@
       "onboard_time": 1759301780,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43810,
-      "num": 43810,
-      "word": "特朗普回应俄试射末日武器",
-      "onboard_time": 1761607279,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43796,
