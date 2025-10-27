@@ -1,0 +1,410 @@
+{
+  "runTime": 1761540610167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978714,
+        "num": 1156594,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 902437,
+        "num": 902437,
+        "word": "ELLE全阵容官宣",
+        "onboard_time": 1761534861,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 44489,
+        "num": 598896,
+        "word": "12项重大部署看未来怎么干",
+        "onboard_time": 1761534680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552318,
+        "num": 552318,
+        "word": "世界第一美少年去世",
+        "onboard_time": 1761529641,
+        "rank": 3,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 406599,
+        "num": 406599,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403187,
+        "num": 403187,
+        "word": "枭起青壤",
+        "onboard_time": 1761535941,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358389,
+        "num": 358389,
+        "word": "美方不再考虑对华加征100%的关税",
+        "onboard_time": 1761533601,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355583,
+        "num": 355583,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343801,
+        "num": 343801,
+        "word": "疯狂动物城2中文配音阵容",
+        "onboard_time": 1761533120,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321723,
+        "num": 321723,
+        "word": "美军回应2架军机在南海坠毁",
+        "onboard_time": 1761530841,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1206051,
+        "num": 321456,
+        "word": "肖战观摩开颅手术",
+        "onboard_time": 1761537921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996079,
+        "num": 319876,
+        "word": "李飞手机页面",
+        "onboard_time": 1761536961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23815,
+        "num": 318062,
+        "word": "和千玺开启天猫旗舰新体验",
+        "onboard_time": 1761536361,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 963143,
+        "num": 317156,
+        "word": "看病挂号认准副主任",
+        "onboard_time": 1761534443,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 611030,
+        "num": 316420,
+        "word": "陈粒演出时耳机爆炸",
+        "onboard_time": 1761521661,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 445018,
+        "num": 314126,
+        "word": "林心如霍建华为父母举办金婚宴",
+        "onboard_time": 1761537321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398350,
+        "num": 313806,
+        "word": "曾经爆火现在几乎没人喝的奶茶",
+        "onboard_time": 1761526101,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331701,
+        "num": 312166,
+        "word": "迪丽热巴抱迪丽热巴",
+        "onboard_time": 1761533779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136044,
+        "num": 310018,
+        "word": "下单之前上闲鱼才是真邪修",
+        "onboard_time": 1761537861,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40917,
+        "num": 309212,
+        "word": "27岁女子称花6万相亲被介绍50岁对象",
+        "onboard_time": 1761540261,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308645,
+        "num": 308645,
+        "word": "刘欢女儿结婚",
+        "onboard_time": 1761540080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292688,
+        "num": 292688,
+        "word": "雪中悍刀行2概念海报",
+        "onboard_time": 1761535341,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291692,
+        "num": 291692,
+        "word": "恋与深空新PV",
+        "onboard_time": 1761534261,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256506,
+        "num": 256506,
+        "word": "张伦硕否认顶配继父称号",
+        "onboard_time": 1761539722,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243445,
+        "num": 243445,
+        "word": "刘亦菲刘冲坐一辆车",
+        "onboard_time": 1761531379,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239139,
+        "num": 239139,
+        "word": "杨清柠王乐乐同框",
+        "onboard_time": 1761527960,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225202,
+        "num": 225202,
+        "word": "暴雪大雪暴雨要来了",
+        "onboard_time": 1761523280,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206673,
+        "num": 206673,
+        "word": "普通女生化妆最有效果的一步",
+        "onboard_time": 1761534742,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204413,
+        "num": 204413,
+        "word": "鹅厂2026大剧片单",
+        "onboard_time": 1761536721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178314,
+        "num": 204115,
+        "word": "蒋超良被双开",
+        "onboard_time": 1761536180,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203899,
+        "num": 203899,
+        "word": "唐嫣费加罗",
+        "onboard_time": 1761539362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194348,
+        "num": 194348,
+        "word": "刘亦菲朱一龙秀场同框",
+        "onboard_time": 1761539903,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184392,
+        "num": 184392,
+        "word": "10个表现说明严重睡眠不足",
+        "onboard_time": 1761539722,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176815,
+        "num": 176815,
+        "word": "夏以昼好帅",
+        "onboard_time": 1761539841,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140167,
+        "num": 168019,
+        "word": "雪中悍刀行2",
+        "onboard_time": 1761538761,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166575,
+        "num": 166575,
+        "word": "每周一三五是最需要补充的时候",
+        "onboard_time": 1761537740,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166002,
+        "num": 166002,
+        "word": "广东湛江一处沙滩现中华白海豚尸体",
+        "onboard_time": 1761537620,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163345,
+        "num": 163345,
+        "word": "男子辅导作业失手致儿子耳膜穿孔",
+        "onboard_time": 1761538043,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36024,
+        "num": 161849,
+        "word": "5岁女孩成六大派团宠宛如郭襄现世",
+        "onboard_time": 1761540203,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160599,
+        "num": 160599,
+        "word": "88岁卧倒在床有4子女却无人赡养",
+        "onboard_time": 1761537561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149331,
+        "num": 149331,
+        "word": "男朋友失联已看广告复活",
+        "onboard_time": 1761540080,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147559,
+        "num": 147559,
+        "word": "当地就招聘岗位疑似萝卜岗致歉",
+        "onboard_time": 1761540441,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 146664,
+        "num": 146664,
+        "word": "白鹿说敖瑞鹏很震惊的身高",
+        "onboard_time": 1761537443,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146639,
+        "num": 146639,
+        "word": "已经爱吃苹果 下一步可能要吃桃酥了",
+        "onboard_time": 1761536841,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145410,
+        "num": 145410,
+        "word": "美式咖啡和黑咖啡的区别",
+        "onboard_time": 1761539602,
+        "rank": 44,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 144097,
+        "num": 144097,
+        "word": "快船战胜开拓者",
+        "onboard_time": 1761539543,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 142076,
+        "word": "看到了男朋友给自己的备注",
+        "onboard_time": 1761536901,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133760,
+        "num": 133760,
+        "word": "上班时间禁止偷吃同事",
+        "onboard_time": 1761538943,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131930,
+        "num": 131930,
+        "word": "里弗斯51分",
+        "onboard_time": 1761538402,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131859,
+        "num": 131859,
+        "word": "Faker瑞士轮火力全开",
+        "onboard_time": 1761539482,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展成果由人民共享#"
+    }
+  }
+}

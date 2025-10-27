@@ -1,10 +1,10 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761539800025,
+  "endTime": 1761540610167,
   "band_list": [
     {
       "raw_hot": 1314418,
-      "num": 238495,
+      "num": 321456,
       "word": "肖战观摩开颅手术",
       "onboard_time": 1761537921,
       "rank": 11,
@@ -52,15 +52,15 @@
     },
     {
       "raw_hot": 1049693,
-      "num": 1049693,
+      "num": 1156594,
       "word": "缅甸KK园区上千人跳河出逃",
       "onboard_time": 1761535881,
       "rank": 28,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 938705,
-      "num": 238164,
+      "raw_hot": 996079,
+      "num": 319876,
       "word": "李飞手机页面",
       "onboard_time": 1761536961,
       "rank": 27,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445018,
+      "num": 314126,
+      "word": "林心如霍建华为父母举办金婚宴",
+      "onboard_time": 1761537321,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442826,
       "num": 442826,
       "word": "枭起青壤",
@@ -283,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355583,
+      "num": 355583,
+      "word": "蔡磊研发药物对病友起效自己没用",
+      "onboard_time": 1761539543,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355280,
       "num": 240042,
       "word": "奔跑吧直播",
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308645,
+      "num": 308645,
+      "word": "刘欢女儿结婚",
+      "onboard_time": 1761540080,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299713,
       "num": 299713,
       "word": "王者荣耀共创之夜",
@@ -337,14 +361,6 @@
       "onboard_time": 1761480381,
       "rank": 22,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 288699,
-      "num": 236975,
-      "word": "林心如霍建华为父母举办金婚宴",
-      "onboard_time": 1761537321,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 280504,
@@ -377,6 +393,14 @@
       "onboard_time": 1761479662,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 256506,
+      "num": 256506,
+      "word": "张伦硕否认顶配继父称号",
+      "onboard_time": 1761539722,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 253618,
@@ -499,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203899,
+      "num": 203899,
+      "word": "唐嫣费加罗",
+      "onboard_time": 1761539362,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203796,
       "num": 203796,
       "word": "刘诗诗 千里江山图",
@@ -547,20 +579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194348,
+      "num": 194348,
+      "word": "刘亦菲朱一龙秀场同框",
+      "onboard_time": 1761539903,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192435,
       "num": 192435,
       "word": "东帝汶总理流泪了",
       "onboard_time": 1761504495,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191573,
-      "num": 191573,
-      "word": "唐嫣费加罗",
-      "onboard_time": 1761539362,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 191450,
@@ -611,12 +643,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184392,
+      "num": 184392,
+      "word": "10个表现说明严重睡眠不足",
+      "onboard_time": 1761539722,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183118,
       "num": 159368,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
       "onboard_time": 1761490942,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176815,
+      "num": 176815,
+      "word": "夏以昼好帅",
+      "onboard_time": 1761539841,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 171036,
@@ -656,6 +704,14 @@
       "word": "看到了男朋友给自己的备注",
       "onboard_time": 1761536901,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166575,
+      "num": 166575,
+      "word": "每周一三五是最需要补充的时候",
+      "onboard_time": 1761537740,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -715,28 +771,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156994,
-      "num": 156994,
-      "word": "蔡磊研发药物对病友起效自己没用",
-      "onboard_time": 1761539543,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156277,
       "num": 156277,
       "word": "恋与深空直到心跳沸腾",
       "onboard_time": 1761536421,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155555,
-      "num": 155555,
-      "word": "10个表现说明严重睡眠不足",
-      "onboard_time": 1761539722,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 154964,
@@ -779,6 +819,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149331,
+      "num": 149331,
+      "word": "男朋友失联已看广告复活",
+      "onboard_time": 1761540080,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147559,
+      "num": 147559,
+      "word": "当地就招聘岗位疑似萝卜岗致歉",
+      "onboard_time": 1761540441,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146670,
       "num": 146670,
       "word": "云贵川体制内5元吃什么",
@@ -803,8 +859,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145410,
+      "num": 145410,
+      "word": "美式咖啡和黑咖啡的区别",
+      "onboard_time": 1761539602,
+      "rank": 44,
+      "category": "美食,休闲"
+    },
+    {
       "raw_hot": 144775,
-      "num": 237222,
+      "num": 310018,
       "word": "下单之前上闲鱼才是真邪修",
       "onboard_time": 1761537861,
       "rank": 19,
@@ -883,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133760,
+      "num": 133760,
+      "word": "上班时间禁止偷吃同事",
+      "onboard_time": 1761538943,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133751,
       "num": 133751,
       "word": "易烊千玺十年的外向一天用完了",
@@ -897,14 +969,6 @@
       "onboard_time": 1761534443,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 131180,
-      "num": 156087,
-      "word": "张伦硕否认顶配继父称号",
-      "onboard_time": 1761539722,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 131144,
@@ -929,14 +993,6 @@
       "onboard_time": 1761529700,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129468,
-      "num": 129468,
-      "word": "上班时间禁止偷吃同事",
-      "onboard_time": 1761538943,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 128445,
@@ -1515,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40917,
+      "num": 309212,
+      "word": "27岁女子称花6万相亲被介绍50岁对象",
+      "onboard_time": 1761540261,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40337,
       "num": 155600,
       "word": "南笙顺产纪录片",
       "onboard_time": 1761539062,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36024,
+      "num": 161849,
+      "word": "5岁女孩成六大派团宠宛如郭襄现世",
+      "onboard_time": 1761540203,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35478,
