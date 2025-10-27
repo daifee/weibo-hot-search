@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761564206397,
+  "endTime": 1761565149852,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -99,6 +99,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1019346,
+      "num": 176538,
+      "word": "黄磊微信名叫多妹弟爸",
+      "onboard_time": 1761561441,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996079,
       "num": 319876,
       "word": "李飞手机页面",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 962903,
-      "num": 144597,
+      "num": 170519,
       "word": "曝迪丽热巴与嘉行切割快结束了",
       "onboard_time": 1761562102,
       "rank": 11,
@@ -121,14 +129,6 @@
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 896828,
-      "num": 176538,
-      "word": "黄磊微信名叫多妹弟爸",
-      "onboard_time": 1761561441,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 849688,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717436,
+      "num": 1114789,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
@@ -257,14 +265,6 @@
       "onboard_time": 1761527960,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 642396,
-      "num": 1102783,
-      "word": "南海坠机所在航母正执行最后任务",
-      "onboard_time": 1761560480,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 627647,
@@ -329,6 +329,14 @@
       "onboard_time": 1761545001,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571170,
+      "num": 571170,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 563457,
@@ -409,14 +417,6 @@
       "onboard_time": 1761548661,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 484487,
-      "num": 484487,
-      "word": "市监局确认酸菜生产乱象属实",
-      "onboard_time": 1761561021,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483945,
@@ -547,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359473,
+      "num": 359473,
+      "word": "多地涨工资落地",
+      "onboard_time": 1761560000,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355280,
       "num": 240042,
       "word": "奔跑吧直播",
       "onboard_time": 1761527720,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349442,
+      "num": 168453,
+      "word": "佘诗曼谈许绍雄身体状况落泪",
+      "onboard_time": 1761561741,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339914,
@@ -585,6 +601,14 @@
       "onboard_time": 1761489563,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329343,
+      "num": 168362,
+      "word": "女子徒步误将蛇窝当野生蹦床",
+      "onboard_time": 1761563600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309444,
@@ -659,14 +683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272614,
-      "num": 145820,
-      "word": "佘诗曼谈许绍雄身体状况落泪",
-      "onboard_time": 1761561741,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 267450,
       "num": 238940,
       "word": "博主从印度泼粪节逃出后发声",
@@ -705,6 +721,14 @@
       "onboard_time": 1761530662,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252327,
+      "num": 166257,
+      "word": "刘亦菲的白VS欧美的白",
+      "onboard_time": 1761564080,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 249240,
@@ -819,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214761,
+      "num": 165130,
+      "word": "易烊千玺回应参加补办毕业典礼",
+      "onboard_time": 1761561798,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214199,
       "num": 192421,
       "word": "男子辅导作业失手致儿子耳膜穿孔",
@@ -841,14 +873,6 @@
       "onboard_time": 1761549140,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211445,
-      "num": 211445,
-      "word": "多地涨工资落地",
-      "onboard_time": 1761560000,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210155,
@@ -971,8 +995,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193651,
+      "num": 163615,
+      "word": "无畏闫桉腿特长合照",
+      "onboard_time": 1761565040,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193225,
-      "num": 142147,
+      "num": 143817,
       "word": "向佐说颜值回春到和郭碧婷恋爱期",
       "onboard_time": 1761563541,
       "rank": 23,
@@ -1251,12 +1283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167840,
-      "num": 134507,
-      "word": "易烊千玺回应参加补办毕业典礼",
-      "onboard_time": 1761561798,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 167167,
+      "num": 154199,
+      "word": "Doinb力挺Bin",
+      "onboard_time": 1761564500,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 166575,
@@ -1312,6 +1344,14 @@
       "word": "慕胥辞",
       "onboard_time": 1761548001,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162997,
+      "num": 162997,
+      "word": "辛芷蕾13秒4段眼神戏全是钩子",
+      "onboard_time": 1761564682,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1380,7 +1420,7 @@
     },
     {
       "raw_hot": 156835,
-      "num": 131179,
+      "num": 135656,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1761562460,
       "rank": 31,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1761550702,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153828,
+      "num": 153828,
+      "word": "76岁的许绍雄",
+      "onboard_time": 1761562702,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 153708,
@@ -1523,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148346,
+      "num": 148346,
+      "word": "你以为的多囊vs实际上的多囊",
+      "onboard_time": 1761563240,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146670,
       "num": 146670,
       "word": "云贵川体制内5元吃什么",
@@ -1572,7 +1628,7 @@
     },
     {
       "raw_hot": 144877,
-      "num": 144877,
+      "num": 171630,
       "word": "外交部回应美军机南海坠毁",
       "onboard_time": 1761562041,
       "rank": 9,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1761520639,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133798,
+      "num": 133798,
+      "word": "王楚然玩白鹿的辫子",
+      "onboard_time": 1761564261,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133760,
@@ -1891,6 +1955,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 125476,
+      "num": 157674,
+      "word": "孟子义发起三个拼杀杀",
+      "onboard_time": 1761564741,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125148,
       "num": 160842,
       "word": "鞠婧祎紫衣锦鲤抄舞台",
@@ -1939,14 +2011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122265,
-      "num": 122265,
-      "word": "刘亦菲的白VS欧美的白",
-      "onboard_time": 1761564080,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121800,
       "num": 146662,
       "word": "119救了119",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1761547941,
       "rank": 36,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 121179,
+      "num": 121179,
+      "word": "全伊伦鹤男双人写真",
+      "onboard_time": 1761564862,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121114,
@@ -2043,12 +2115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117585,
-      "num": 117585,
-      "word": "你以为的多囊vs实际上的多囊",
-      "onboard_time": 1761563240,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 118525,
+      "num": 118525,
+      "word": "方逸伦把罗云熙直播间弄潮了",
+      "onboard_time": 1761564862,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 117512,
@@ -2115,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115499,
+      "num": 115499,
+      "word": "黎姿张柏芝两个赵敏同框",
+      "onboard_time": 1761564982,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115191,
       "num": 115191,
       "word": "朱一龙VogueWorld出图",
@@ -2161,14 +2241,6 @@
       "onboard_time": 1761545840,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112722,
-      "num": 112722,
-      "word": "76岁的许绍雄",
-      "onboard_time": 1761562702,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 111452,
@@ -2291,12 +2363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102458,
-      "num": 122287,
-      "word": "女子徒步误将蛇窝当野生蹦床",
-      "onboard_time": 1761563600,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 102577,
+      "num": 110296,
+      "word": "iPhoneAir首销激活量远低于预期",
+      "onboard_time": 1761565101,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 102261,
@@ -2379,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98449,
+      "num": 134161,
+      "word": "上海香港飞机残障设施对比",
+      "onboard_time": 1761564320,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97981,
       "num": 97981,
       "word": "曹格儿子joe祝贝儿生日快乐",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1761525320,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94492,
+      "num": 156079,
+      "word": "深圳一双层巴士撞限高架致削顶",
+      "onboard_time": 1761561865,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92974,
@@ -2491,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87312,
+      "num": 108460,
+      "word": "西部航空道歉",
+      "onboard_time": 1761564380,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82675,
       "num": 105515,
       "word": "湖人46次罚球",
@@ -2505,6 +2601,14 @@
       "onboard_time": 1761560241,
       "rank": 40,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 81748,
+      "num": 143021,
+      "word": "男子在酸菜池中抽烟乱吐",
+      "onboard_time": 1761563061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81638,
@@ -2523,28 +2627,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81071,
-      "num": 143021,
-      "word": "男子在酸菜池中抽烟乱吐",
-      "onboard_time": 1761563061,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80579,
       "num": 118451,
       "word": "真正的化妆高手是边画眼妆边湿敷面中的",
       "onboard_time": 1761496040,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 80198,
-      "num": 151992,
-      "word": "深圳一双层巴士撞限高架致削顶",
-      "onboard_time": 1761561865,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80041,
@@ -3083,6 +3171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13594,
+      "num": 128712,
+      "word": "2025年0人走出莲花楼",
+      "onboard_time": 1761564801,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11975,
       "num": 148900,
       "word": "再过5年世界会是什么样",
@@ -3107,7 +3203,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3382,
+      "raw_hot": 3615,
       "num": 755904,
       "word": "你好十五五",
       "onboard_time": 1761468140,
