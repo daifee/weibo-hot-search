@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761591006892,
+  "endTime": 1761592914524,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -7291,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25900,
+      "num": 22014,
+      "word": "睡眠是体重管理的关键环节",
+      "onboard_time": 1761588975,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25647,
       "num": 28603,
       "word": "孙燕姿南京演唱会",
@@ -7363,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21853,
+      "num": 21853,
+      "word": "郑智化深圳机场视频",
+      "onboard_time": 1761588435,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21778,
       "num": 119079,
       "word": "台湾教授苑举正北京祭拜吴石将军",
@@ -7427,12 +7443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19264,
-      "num": 20292,
-      "word": "睡眠是体重管理的关键环节",
-      "onboard_time": 1761588975,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 19776,
+      "num": 19776,
+      "word": "长期漂发染发的受害者出现了",
+      "onboard_time": 1761591015,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 18838,
@@ -7441,14 +7457,6 @@
       "onboard_time": 1761491121,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18807,
-      "num": 20291,
-      "word": "郑智化深圳机场视频",
-      "onboard_time": 1761588435,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 18745,
@@ -7521,6 +7529,14 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14141,
+      "num": 18680,
+      "word": "监控视频下的章若楠",
+      "onboard_time": 1761592694,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 13956,
