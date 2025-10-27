@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761536432686,
+  "endTime": 1761537364665,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1255155,
+      "num": 411681,
+      "word": "看病挂号认准副主任",
+      "onboard_time": 1761534443,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1244433,
       "num": 349622,
       "word": "张予曦不小心坐毕雯珺腿上",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1143212,
-      "num": 987268,
+      "num": 1148420,
       "word": "陈粒演出时耳机爆炸",
       "onboard_time": 1761521661,
       "rank": 33,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 924717,
-      "num": 303405,
+      "num": 337625,
       "word": "曾经爆火现在几乎没人喝的奶茶",
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 908578,
+      "num": 908578,
+      "word": "ELLE全阵容官宣",
+      "onboard_time": 1761534861,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 898862,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 697119,
-      "num": 617327,
+      "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
       "onboard_time": 1761533120,
       "rank": 6,
@@ -315,16 +331,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 654139,
-      "num": 654139,
-      "word": "ELLE全阵容官宣",
-      "onboard_time": 1761534861,
-      "rank": 4,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 647034,
-      "num": 259057,
+      "num": 307212,
       "word": "杨清柠王乐乐同框",
       "onboard_time": 1761527960,
       "rank": 11,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 598474,
-      "num": 627135,
+      "num": 704490,
       "word": "美方不再考虑对华加征100%的关税",
       "onboard_time": 1761533601,
       "rank": 5,
@@ -579,6 +587,14 @@
       "category": "演出,游戏"
     },
     {
+      "raw_hot": 485548,
+      "num": 485548,
+      "word": "缅甸KK园区上千人跳河出逃",
+      "onboard_time": 1761535881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 484326,
       "num": 484326,
       "word": "女孩失联一周竟是躲房间玩手机",
@@ -592,6 +608,14 @@
       "word": "刘诗诗 千里江山图",
       "onboard_time": 1761487883,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 483945,
+      "num": 390429,
+      "word": "雪中悍刀行2概念海报",
+      "onboard_time": 1761535341,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -625,14 +649,6 @@
       "onboard_time": 1761472101,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 464184,
-      "num": 282414,
-      "word": "看病挂号认准副主任",
-      "onboard_time": 1761534443,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 449157,
@@ -736,14 +752,6 @@
       "word": "将门毒后",
       "onboard_time": 1761468800,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 390429,
-      "num": 390429,
-      "word": "雪中悍刀行2概念海报",
-      "onboard_time": 1761535341,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1051,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285082,
+      "num": 285082,
+      "word": "枭起青壤",
+      "onboard_time": 1761535941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282368,
       "num": 282368,
       "word": "钎九",
@@ -1211,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237504,
+      "num": 237504,
+      "word": "2025微博视界大会首波阵容官宣",
+      "onboard_time": 1761536660,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236045,
       "num": 236045,
       "word": "女子参加荒野求生14天后瘦成闪电",
@@ -1355,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213564,
+      "num": 213564,
+      "word": "沪指涨1%逼近4000点",
+      "onboard_time": 1761536601,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213402,
       "num": 195049,
       "word": "订婚花60万共同生活4天后遭悔婚",
@@ -1420,11 +1452,19 @@
     },
     {
       "raw_hot": 207240,
-      "num": 184072,
+      "num": 191514,
       "word": "普通女生化妆最有效果的一步",
       "onboard_time": 1761534742,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 206296,
+      "num": 206296,
+      "word": "李飞手机页面",
+      "onboard_time": 1761536961,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204927,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1761441019,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 204897,
+      "num": 204897,
+      "word": "蒋超良被双开",
+      "onboard_time": 1761536180,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204887,
@@ -1515,6 +1563,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200114,
+      "num": 200114,
+      "word": "鹅厂2026大剧片单",
+      "onboard_time": 1761536721,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200086,
+      "num": 200086,
+      "word": "孙颖莎光不只是照亮前方",
+      "onboard_time": 1761537200,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198982,
       "num": 198982,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
@@ -1595,14 +1659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191488,
-      "num": 238936,
-      "word": "枭起青壤",
-      "onboard_time": 1761535941,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191473,
       "num": 218789,
       "word": "天地剑心8集定律在第6集",
@@ -1633,14 +1689,6 @@
       "onboard_time": 1761391042,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190412,
-      "num": 237510,
-      "word": "缅甸KK园区上千人跳河出逃",
-      "onboard_time": 1761535881,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 190189,
@@ -1697,6 +1745,22 @@
       "onboard_time": 1761491183,
       "rank": 41,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 184640,
+      "num": 184640,
+      "word": "关晓彤这段不像是演的",
+      "onboard_time": 1761535701,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184516,
+      "num": 184516,
+      "word": "恋与深空舞台卡",
+      "onboard_time": 1761536241,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 183173,
@@ -1843,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "看到了男朋友给自己的备注",
+      "onboard_time": 1761536901,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168259,
       "num": 217646,
       "word": "千里江山图",
@@ -1904,6 +1976,14 @@
       "word": "李一桐出蜘蛛侠联系方式郭俊辰秒拍下",
       "onboard_time": 1761477501,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161726,
+      "num": 161726,
+      "word": "鞠婧祎全新高定首穿",
+      "onboard_time": 1761534981,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2011,14 +2091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158742,
-      "num": 151299,
-      "word": "关晓彤这段不像是演的",
-      "onboard_time": 1761535701,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1761449420,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156277,
+      "num": 156277,
+      "word": "恋与深空直到心跳沸腾",
+      "onboard_time": 1761536421,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 155854,
@@ -2067,12 +2147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154026,
-      "num": 154026,
-      "word": "鞠婧祎全新高定首穿",
-      "onboard_time": 1761534981,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 154016,
+      "num": 154016,
+      "word": "湖人战胜国王",
+      "onboard_time": 1761537261,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 153917,
@@ -2121,6 +2201,14 @@
       "onboard_time": 1761481161,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152429,
+      "num": 152429,
+      "word": "已经爱吃苹果 下一步可能要吃桃酥了",
+      "onboard_time": 1761536841,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 151688,
@@ -2249,14 +2337,6 @@
       "onboard_time": 1761450620,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145566,
-      "num": 145566,
-      "word": "恋与深空舞台卡",
-      "onboard_time": 1761536241,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 145317,
@@ -2780,7 +2860,7 @@
     },
     {
       "raw_hot": 125642,
-      "num": 159301,
+      "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
       "onboard_time": 1761536361,
       "rank": 36,
@@ -2841,14 +2921,6 @@
       "onboard_time": 1761454760,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123508,
-      "num": 123508,
-      "word": "蒋超良被双开",
-      "onboard_time": 1761536180,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123290,
@@ -4083,6 +4155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71604,
+      "num": 325630,
+      "word": "十年全赛季最强王者的含金量",
+      "onboard_time": 1761534382,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71317,
       "num": 185893,
       "word": "孙颖莎将代表河北队冲击单打金牌",
@@ -4203,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65017,
+      "num": 169156,
+      "word": "波波维奇退役很马刺",
+      "onboard_time": 1761536120,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63875,
       "num": 62705,
       "word": "他接纳了自己有个小妹妹",
@@ -4267,12 +4355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60979,
-      "num": 324986,
-      "word": "十年全赛季最强王者的含金量",
-      "onboard_time": 1761534382,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 61976,
+      "num": 870512,
+      "word": "12项重大部署看未来怎么干",
+      "onboard_time": 1761534680,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60112,
@@ -4313,14 +4401,6 @@
       "onboard_time": 1761485302,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59785,
-      "num": 832082,
-      "word": "12项重大部署看未来怎么干",
-      "onboard_time": 1761534680,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59746,
@@ -4417,14 +4497,6 @@
       "onboard_time": 1761508394,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53197,
-      "num": 156057,
-      "word": "波波维奇退役很马刺",
-      "onboard_time": 1761536120,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 52339,
@@ -4641,6 +4713,14 @@
       "onboard_time": 1761489502,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 30583,
+      "num": 169308,
+      "word": "林心如霍建华为父母举办金婚宴",
+      "onboard_time": 1761537321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30489,

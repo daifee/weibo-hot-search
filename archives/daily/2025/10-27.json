@@ -1,7 +1,15 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761536432686,
+  "endTime": 1761537364665,
   "band_list": [
+    {
+      "raw_hot": 1255155,
+      "num": 411681,
+      "word": "看病挂号认准副主任",
+      "onboard_time": 1761534443,
+      "rank": 21,
+      "category": "情感"
+    },
     {
       "raw_hot": 1149391,
       "num": 1183902,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1143212,
-      "num": 987268,
+      "num": 1148420,
       "word": "陈粒演出时耳机爆炸",
       "onboard_time": 1761521661,
       "rank": 33,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 924717,
-      "num": 303405,
+      "num": 337625,
       "word": "曾经爆火现在几乎没人喝的奶茶",
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 908578,
+      "num": 908578,
+      "word": "ELLE全阵容官宣",
+      "onboard_time": 1761534861,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 806833,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 697119,
-      "num": 617327,
+      "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
       "onboard_time": 1761533120,
       "rank": 6,
@@ -91,16 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 654139,
-      "num": 654139,
-      "word": "ELLE全阵容官宣",
-      "onboard_time": 1761534861,
-      "rank": 4,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 647034,
-      "num": 259057,
+      "num": 307212,
       "word": "杨清柠王乐乐同框",
       "onboard_time": 1761527960,
       "rank": 11,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 598474,
-      "num": 627135,
+      "num": 704490,
       "word": "美方不再考虑对华加征100%的关税",
       "onboard_time": 1761533601,
       "rank": 5,
@@ -171,12 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464184,
-      "num": 282414,
-      "word": "看病挂号认准副主任",
-      "onboard_time": 1761534443,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 485548,
+      "num": 485548,
+      "word": "缅甸KK园区上千人跳河出逃",
+      "onboard_time": 1761535881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 483945,
+      "num": 390429,
+      "word": "雪中悍刀行2概念海报",
+      "onboard_time": 1761535341,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 449157,
@@ -217,14 +233,6 @@
       "onboard_time": 1761489742,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390429,
-      "num": 390429,
-      "word": "雪中悍刀行2概念海报",
-      "onboard_time": 1761535341,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 388152,
@@ -307,6 +315,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 285082,
+      "num": 285082,
+      "word": "枭起青壤",
+      "onboard_time": 1761535941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280504,
       "num": 191253,
       "word": "王建国 爱奇艺副总裁小红",
@@ -387,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237504,
+      "num": 237504,
+      "word": "2025微博视界大会首波阵容官宣",
+      "onboard_time": 1761536660,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235603,
       "num": 235603,
       "word": "王者荣耀六耳",
@@ -395,12 +419,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213564,
+      "num": 213564,
+      "word": "沪指涨1%逼近4000点",
+      "onboard_time": 1761536601,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207240,
-      "num": 184072,
+      "num": 191514,
       "word": "普通女生化妆最有效果的一步",
       "onboard_time": 1761534742,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 206296,
+      "num": 206296,
+      "word": "李飞手机页面",
+      "onboard_time": 1761536961,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204897,
+      "num": 204897,
+      "word": "蒋超良被双开",
+      "onboard_time": 1761536180,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204216,
@@ -417,6 +465,22 @@
       "onboard_time": 1761487883,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200114,
+      "num": 200114,
+      "word": "鹅厂2026大剧片单",
+      "onboard_time": 1761536721,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200086,
+      "num": 200086,
+      "word": "孙颖莎光不只是照亮前方",
+      "onboard_time": 1761537200,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 196446,
@@ -451,28 +515,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191488,
-      "num": 238936,
-      "word": "枭起青壤",
-      "onboard_time": 1761535941,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190785,
       "num": 238759,
       "word": "白鹿说姚译添真是懂我",
       "onboard_time": 1761535461,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190412,
-      "num": 237510,
-      "word": "缅甸KK园区上千人跳河出逃",
-      "onboard_time": 1761535881,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 189845,
@@ -489,6 +537,22 @@
       "onboard_time": 1761533420,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184640,
+      "num": 184640,
+      "word": "关晓彤这段不像是演的",
+      "onboard_time": 1761535701,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184516,
+      "num": 184516,
+      "word": "恋与深空舞台卡",
+      "onboard_time": 1761536241,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 183118,
@@ -523,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "看到了男朋友给自己的备注",
+      "onboard_time": 1761536901,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166559,
       "num": 166559,
       "word": "迪丽热巴卫蓝打电话吵架戏",
@@ -537,6 +609,14 @@
       "onboard_time": 1761527661,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161726,
+      "num": 161726,
+      "word": "鞠婧祎全新高定首穿",
+      "onboard_time": 1761534981,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 159431,
@@ -555,12 +635,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158742,
-      "num": 151299,
-      "word": "关晓彤这段不像是演的",
-      "onboard_time": 1761535701,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 156277,
+      "num": 156277,
+      "word": "恋与深空直到心跳沸腾",
+      "onboard_time": 1761536421,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 154964,
@@ -571,12 +651,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154026,
-      "num": 154026,
-      "word": "鞠婧祎全新高定首穿",
-      "onboard_time": 1761534981,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 154016,
+      "num": 154016,
+      "word": "湖人战胜国王",
+      "onboard_time": 1761537261,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 152761,
@@ -585,6 +665,14 @@
       "onboard_time": 1761484880,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152429,
+      "num": 152429,
+      "word": "已经爱吃苹果 下一步可能要吃桃酥了",
+      "onboard_time": 1761536841,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 150326,
@@ -616,14 +704,6 @@
       "word": "信离",
       "onboard_time": 1761491183,
       "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 145566,
-      "num": 145566,
-      "word": "恋与深空舞台卡",
-      "onboard_time": 1761536241,
-      "rank": 43,
       "category": "游戏"
     },
     {
@@ -740,7 +820,7 @@
     },
     {
       "raw_hot": 125642,
-      "num": 159301,
+      "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
       "onboard_time": 1761536361,
       "rank": 36,
@@ -761,14 +841,6 @@
       "onboard_time": 1761530240,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123508,
-      "num": 123508,
-      "word": "蒋超良被双开",
-      "onboard_time": 1761536180,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 119879,
@@ -1083,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71604,
+      "num": 325630,
+      "word": "十年全赛季最强王者的含金量",
+      "onboard_time": 1761534382,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71210,
       "num": 71210,
       "word": "皇马vs巴萨",
@@ -1147,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65017,
+      "num": 169156,
+      "word": "波波维奇退役很马刺",
+      "onboard_time": 1761536120,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62902,
       "num": 132236,
       "word": "东部战区空军多支部队实战化训练",
@@ -1171,12 +1259,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 60979,
-      "num": 324986,
-      "word": "十年全赛季最强王者的含金量",
-      "onboard_time": 1761534382,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 61976,
+      "num": 870512,
+      "word": "12项重大部署看未来怎么干",
+      "onboard_time": 1761534680,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60112,
@@ -1193,14 +1281,6 @@
       "onboard_time": 1761501195,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 59785,
-      "num": 832082,
-      "word": "12项重大部署看未来怎么干",
-      "onboard_time": 1761534680,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59746,
@@ -1251,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53197,
-      "num": 156057,
-      "word": "波波维奇退役很马刺",
-      "onboard_time": 1761536120,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1761534081,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30583,
+      "num": 169308,
+      "word": "林心如霍建华为父母举办金婚宴",
+      "onboard_time": 1761537321,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 25647,
