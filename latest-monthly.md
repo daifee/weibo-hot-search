@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 00:34:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 00:49:37
 </p>
 </blockquote>
 <p>
@@ -2841,6 +2841,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
+14岁男生被女同学击中左胸后瘫痪（热度：878901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B8%B8%E6%B3%B3%E9%A6%86%E8%B7%B3%E6%B0%B4%E8%BA%AB%E4%BA%A1%E7%94%B7%E5%AD%90%E7%B3%BB%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%23" target="weibo">
 在游泳馆跳水身亡男子系体育老师（热度：877441）
 </a>
@@ -4467,6 +4473,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
+杨清柠（热度：687855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E6%9D%A8%E5%B9%82%E4%BD%A0%E8%AF%9D%E7%AD%92%E6%8B%BF%E4%BA%86%E5%90%97%23" target="weibo">
 何炅 杨幂你话筒拿了吗（热度：686816）
 </a>
@@ -4721,12 +4733,6 @@ ELLE（热度：673195）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9A%84%E8%85%B0%23" target="weibo">
 秦岚的腰（热度：668693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
-杨清柠（热度：668082）
 </a>
 </li>
 
@@ -5051,12 +5057,6 @@ TheShy在干啥（热度：644110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%8D%83%E4%B8%87%E5%88%AB%E8%BF%99%E6%A0%B7%E5%85%85%E7%94%B5%E4%BA%86%23" target="weibo">
 iPhone千万别这样充电了（热度：641037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
-14岁男生被女同学击中左胸后瘫痪（热度：640965）
 </a>
 </li>
 

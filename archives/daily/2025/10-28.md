@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/28 00:34:50 ~ 2025/10/28 00:34:50
+本榜单时间：2025/10/28 00:34:50 ~ 2025/10/28 00:49:37
 </p>
 </blockquote>
 <p>
@@ -21,6 +21,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
+14岁男生被女同学击中左胸后瘫痪（热度：878901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%23" target="weibo">
 这就是中国台湾省（热度：725194）
 </a>
@@ -28,19 +34,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
-杨清柠（热度：668082）
+杨清柠（热度：687855）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
 店员提醒别摸蛋糕遭妈妈发视频避雷（热度：660701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
-14岁男生被女同学击中左胸后瘫痪（热度：640965）
 </a>
 </li>
 
@@ -111,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%BE%81%E4%BF%A1%E5%B0%86%E5%8F%AF%E4%BF%AE%E5%A4%8D%23" target="weibo">
+个人征信将可修复（热度：152689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E9%83%BD%E5%8D%96%E4%B8%8D%E6%8E%89%E7%9A%84%E8%B4%A7%E4%B8%80%E6%99%9A%E4%B8%8A%E5%85%A8%E5%8D%96%E4%BA%86%23" target="weibo">
 一年都卖不掉的货一晚上全卖了（热度：147822）
 </a>
@@ -155,12 +161,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%B7%B2%E8%82%B2%E5%8F%AB%E7%A9%BA%E5%A7%90%E8%BF%98%E6%98%AF%E7%A9%BA%E5%AB%82%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB%E5%A4%A9%23" target="weibo">
 已婚已育叫空姐还是空嫂网友吵翻天（热度：96959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%BE%81%E4%BF%A1%E5%B0%86%E5%8F%AF%E4%BF%AE%E5%A4%8D%23" target="weibo">
-个人征信将可修复（热度：95700）
 </a>
 </li>
 
@@ -225,6 +225,12 @@ KK园区所在村镇出租车费已翻倍（热度：66866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0200%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+张杰200场演唱会含金量（热度：63917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E8%A1%8C%E4%BC%A0%E5%AA%92%E5%90%A6%E8%AE%A4%E4%B8%8E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%87%E5%89%B2%23" target="weibo">
 嘉行传媒否认与迪丽热巴切割（热度：63347）
 </a>
@@ -233,6 +239,12 @@ KK园区所在村镇出租车费已翻倍（热度：66866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%88%B0%E9%99%A2%E6%8E%A2%E6%9C%9B%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
 黄宗泽到院探望许绍雄（热度：60624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E6%89%93%E4%B8%AD%E5%B7%A6%E8%83%B8%E7%98%AB%E7%97%AA%E7%94%B7%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+被女同学打中左胸瘫痪男生家属发声（热度：59647）
 </a>
 </li>
 
@@ -279,6 +291,12 @@ KK园区所在村镇出租车费已翻倍（热度：66866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%AE%9E%E6%96%BD%E4%B8%80%E6%AC%A1%E6%80%A7%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E7%94%A8%E6%95%91%E6%B5%8E%E6%94%BF%E7%AD%96%23" target="weibo">
+研究实施一次性的个人信用救济政策（热度：54279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B7%B2%E8%BF%87300%E5%A4%A9%E4%BA%86%23" target="weibo">
 2025已过300天了（热度：49535）
 </a>
@@ -291,14 +309,14 @@ KK园区所在村镇出租车费已翻倍（热度：66866）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312000%E5%A4%9A%E4%BA%BA%E6%AC%A1%E6%90%9C%E5%B1%B144%E5%B0%8F%E6%97%B6%E6%89%BE%E5%AF%BB%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%23" target="weibo">
-12000多人次搜山44小时找寻走失女童（热度：46099）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E9%A2%84%E5%91%8A%E4%B8%80%E6%BB%B4%E6%B3%AA%E9%95%9C%E5%A4%B4%23" target="weibo">
+陈哲远预告一滴泪镜头（热度：47790）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%AE%9E%E6%96%BD%E4%B8%80%E6%AC%A1%E6%80%A7%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E7%94%A8%E6%95%91%E6%B5%8E%E6%94%BF%E7%AD%96%23" target="weibo">
-研究实施一次性的个人信用救济政策（热度：43677）
+<a href="https://s.weibo.com/weibo?q=%2312000%E5%A4%9A%E4%BA%BA%E6%AC%A1%E6%90%9C%E5%B1%B144%E5%B0%8F%E6%97%B6%E6%89%BE%E5%AF%BB%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%23" target="weibo">
+12000多人次搜山44小时找寻走失女童（热度：46099）
 </a>
 </li>
 

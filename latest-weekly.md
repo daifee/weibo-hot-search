@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/28 00:34:50
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/28 00:49:37
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ ELLE全阵容官宣（热度：1058138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
+14岁男生被女同学击中左胸后瘫痪（热度：878901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E5%8D%9A%E5%AF%BC%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96%23" target="weibo">
 湘潭大学37岁博导刘昊霖去世（热度：859382）
 </a>
@@ -381,6 +387,12 @@ AI把薯片误判为枪惊动八辆美国警车（热度：796530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
+杨清柠（热度：687855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E6%9D%A8%E5%B9%82%E4%BD%A0%E8%AF%9D%E7%AD%92%E6%8B%BF%E4%BA%86%E5%90%97%23" target="weibo">
 何炅 杨幂你话筒拿了吗（热度：686816）
 </a>
@@ -411,12 +423,6 @@ AI把薯片误判为枪惊动八辆美国警车（热度：796530）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
-杨清柠（热度：668082）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%23" target="weibo">
 Bin（热度：667714）
 </a>
@@ -443,12 +449,6 @@ Bin（热度：667714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%8D%83%E4%B8%87%E5%88%AB%E8%BF%99%E6%A0%B7%E5%85%85%E7%94%B5%E4%BA%86%23" target="weibo">
 iPhone千万别这样充电了（热度：641037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
-14岁男生被女同学击中左胸后瘫痪（热度：640965）
 </a>
 </li>
 
@@ -2517,6 +2517,12 @@ T1全员火锅店合照（热度：158648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%BE%81%E4%BF%A1%E5%B0%86%E5%8F%AF%E4%BF%AE%E5%A4%8D%23" target="weibo">
+个人征信将可修复（热度：152689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%A0%91%E4%B8%BA%E4%BA%86%E8%A7%81%E9%BB%84%E7%81%BF%E7%81%BF%E8%AF%B7%E7%BD%97%E4%BA%88%E5%BD%A4%E5%90%83%E9%A5%AD%23" target="weibo">
 火树为了见黄灿灿请罗予彤吃饭（热度：152576）
 </a>
@@ -4269,12 +4275,6 @@ iPhone Air开售遇冷（热度：98987）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%BE%81%E4%BF%A1%E5%B0%86%E5%8F%AF%E4%BF%AE%E5%A4%8D%23" target="weibo">
-个人征信将可修复（热度：95700）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%88%B8%E7%88%B8%E8%AE%A4%E8%AF%86%E5%A7%9A%E7%90%9B%E7%88%B8%E5%A6%88%23" target="weibo">
 回家发现爸爸认识姚琛爸妈（热度：95513）
 </a>
@@ -4941,6 +4941,12 @@ WTT蒙彼利埃冠军赛抽签仪式（热度：65688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0200%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+张杰200场演唱会含金量（热度：63917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E6%8E%A5%E7%BA%B3%E4%BA%86%E8%87%AA%E5%B7%B1%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%A6%B9%E5%A6%B9%23" target="weibo">
 他接纳了自己有个小妹妹（热度：63875）
 </a>
@@ -5039,6 +5045,12 @@ TES教练想避开AL和GEN（热度：59855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E8%99%9A%E6%9E%84%E5%A5%B3%E6%8A%80%E6%9C%AF%E9%BB%91%E5%AE%A2%E5%8F%91%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A%E6%A1%88%23" target="weibo">
 网警查处虚构女技术黑客发虚假广告案（热度：59659）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E6%89%93%E4%B8%AD%E5%B7%A6%E8%83%B8%E7%98%AB%E7%97%AA%E7%94%B7%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+被女同学打中左胸瘫痪男生家属发声（热度：59647）
 </a>
 </li>
 
@@ -5159,6 +5171,12 @@ TES教练想避开AL和GEN（热度：59855）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%93%A6%E5%AE%8C%E4%BD%A0%E7%9A%84%E6%93%A6%E4%BD%A0%E7%9A%84%23" target="weibo">
 孟子义擦完你的擦你的（热度：47953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E9%A2%84%E5%91%8A%E4%B8%80%E6%BB%B4%E6%B3%AA%E9%95%9C%E5%A4%B4%23" target="weibo">
+陈哲远预告一滴泪镜头（热度：47790）
 </a>
 </li>
 

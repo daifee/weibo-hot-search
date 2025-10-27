@@ -1,0 +1,410 @@
+{
+  "runTime": 1761583777385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553902,
+        "num": 721975,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216280,
+        "num": 216280,
+        "word": "内娱三搭cp的含金量",
+        "onboard_time": 1761568041,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15001,
+        "num": 214242,
+        "word": "北京大视听的春天很美丽",
+        "onboard_time": 1761572483,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213373,
+        "num": 213373,
+        "word": "天地剑心第三",
+        "onboard_time": 1761578600,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158035,
+        "num": 158035,
+        "word": "31省份去年婚姻数据公布",
+        "onboard_time": 1761576924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157749,
+        "num": 157749,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "个人征信将可修复",
+        "onboard_time": 1761579620,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 138570,
+        "num": 138570,
+        "word": "桃花坞6只留一个人就是孟子义",
+        "onboard_time": 1761575003,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90043,
+        "num": 90043,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78708,
+        "num": 90001,
+        "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+        "onboard_time": 1761573263,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878901,
+        "num": 89976,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687855,
+        "num": 89948,
+        "word": "杨清柠",
+        "onboard_time": 1761580820,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 683168,
+        "num": 89895,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436025,
+        "num": 89840,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353711,
+        "num": 89807,
+        "word": "杨幂 死嘴憋住",
+        "onboard_time": 1761577522,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 339586,
+        "num": 89769,
+        "word": "鹿晗ins发自拍",
+        "onboard_time": 1761577822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281742,
+        "num": 89714,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255347,
+        "num": 89672,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128577,
+        "num": 89619,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116831,
+        "num": 89603,
+        "word": "李木戈带着景甜张彬彬又杀回内娱",
+        "onboard_time": 1761575063,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103600,
+        "num": 89536,
+        "word": "为了不被裁员硅谷科技男扎堆做医美",
+        "onboard_time": 1761573083,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93781,
+        "num": 89503,
+        "word": "王乐乐杨清柠合照",
+        "onboard_time": 1761571881,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89490,
+        "num": 89490,
+        "word": "王楚钦把爆冷款穿成了爆款",
+        "onboard_time": 1761578841,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88521,
+        "num": 88521,
+        "word": "肖战宣传舒淇电影",
+        "onboard_time": 1761579620,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82648,
+        "num": 82648,
+        "word": "奔跑吧五颜六色的头发",
+        "onboard_time": 1761578781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82145,
+        "num": 82145,
+        "word": "许绍雄还未苏醒",
+        "onboard_time": 1761571041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72994,
+        "num": 82094,
+        "word": "九尾 杨幂你等等我的lsh",
+        "onboard_time": 1761561021,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 69188,
+        "num": 81961,
+        "word": "熊孩子误吞10克金豆6天后排出",
+        "onboard_time": 1761578122,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68580,
+        "num": 81918,
+        "word": "内娱男艺人都防着黄景瑜",
+        "onboard_time": 1761570741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63917,
+        "num": 81791,
+        "word": "张杰200场演唱会含金量",
+        "onboard_time": 1761582919,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59647,
+        "num": 81708,
+        "word": "被女同学打中左胸瘫痪男生家属发声",
+        "onboard_time": 1761582919,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59324,
+        "num": 81636,
+        "word": "警方通报烈性犬撕咬小猫",
+        "onboard_time": 1761570801,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 57652,
+        "num": 81493,
+        "word": "官方通报男子酸菜池中抽烟吐痰",
+        "onboard_time": 1761576741,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 56684,
+        "num": 81409,
+        "word": "王权富贵A爆了",
+        "onboard_time": 1761567802,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54279,
+        "num": 81347,
+        "word": "研究实施一次性的个人信用救济政策",
+        "onboard_time": 1761572483,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 50317,
+        "num": 81161,
+        "word": "KK园区所在村镇出租车费已翻倍",
+        "onboard_time": 1761575602,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54272,
+        "num": 81137,
+        "word": "嘉行传媒否认与迪丽热巴切割",
+        "onboard_time": 1761565642,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50756,
+        "num": 81001,
+        "word": "地球超新鲜2原班人马回归",
+        "onboard_time": 1761567380,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48806,
+        "num": 80873,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47790,
+        "num": 80856,
+        "word": "陈哲远预告一滴泪镜头",
+        "onboard_time": 1761579921,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46647,
+        "num": 80678,
+        "word": "黄宗泽到院探望许绍雄",
+        "onboard_time": 1761569962,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45589,
+        "num": 80598,
+        "word": "偶遇曾辉韩雨彤牵手逛街",
+        "onboard_time": 1761568522,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44340,
+        "num": 80505,
+        "word": "辛芷蕾封后后首部电视剧",
+        "onboard_time": 1761575362,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43153,
+        "num": 80375,
+        "word": "张晚意 也没说花少有两个晚情啊",
+        "onboard_time": 1761578063,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42960,
+        "num": 80351,
+        "word": "把吃完的橘子皮变成天然香薰",
+        "onboard_time": 1761580880,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42401,
+        "num": 80191,
+        "word": "个人信用救济政策",
+        "onboard_time": 1761570622,
+        "rank": 45,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 40739,
+        "num": 80117,
+        "word": "这些小事正在偷走你的气血",
+        "onboard_time": 1761571581,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39736,
+        "num": 80051,
+        "word": "现货黄金失守4000美元",
+        "onboard_time": 1761576203,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 35498,
+        "num": 79913,
+        "word": "呼吸道合胞病毒感染进入高发期",
+        "onboard_time": 1761575483,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34813,
+        "num": 79811,
+        "word": "12000多人次搜山44小时找寻走失女童",
+        "onboard_time": 1761577462,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  }
+}
