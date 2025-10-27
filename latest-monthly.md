@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 06:41:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 07:23:39
 </p>
 </blockquote>
 <p>
@@ -1343,6 +1343,12 @@ AL打T1（热度：1227982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2vs%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3%23" target="weibo">
 长期吃面vs长期吃米（热度：1200798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
+14岁男生被女同学击中左胸后瘫痪（热度：1200152）
 </a>
 </li>
 
@@ -2837,12 +2843,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%B6%8A%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA%23" target="weibo">
 美方限制中国航班飞越俄罗斯领空（热度：879294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
-14岁男生被女同学击中左胸后瘫痪（热度：878901）
 </a>
 </li>
 

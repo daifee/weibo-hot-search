@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761604880282,
+  "endTime": 1761607419504,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -147,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1200152,
+      "num": 187481,
+      "word": "14岁男生被女同学击中左胸后瘫痪",
+      "onboard_time": 1761582199,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1186750,
       "num": 350642,
       "word": "将门毒后 王鹤棣",
@@ -289,14 +297,6 @@
       "onboard_time": 1761440600,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 878901,
-      "num": 187481,
-      "word": "14岁男生被女同学击中左胸后瘫痪",
-      "onboard_time": 1761582199,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 859382,
@@ -1699,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260269,
+      "num": 757077,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 257841,
       "num": 257841,
       "word": "小S说谁那么会生啦",
@@ -2787,6 +2795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172182,
+      "num": 87491,
+      "word": "老君山再现阴阳分界线",
+      "onboard_time": 1761606558,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172081,
       "num": 172081,
       "word": "机器人越来越有人样了",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1761564500,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166902,
-      "num": 471148,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166834,
@@ -3929,6 +3937,14 @@
       "onboard_time": 1761572422,
       "rank": 35,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 134769,
+      "num": 134769,
+      "word": "日本18000名警察出动确保东京安全",
+      "onboard_time": 1761585018,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134434,
@@ -5315,6 +5331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104104,
+      "num": 86967,
+      "word": "黄金惊变",
+      "onboard_time": 1761606798,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103976,
       "num": 103976,
       "word": "龚俊回复彭小苒",
@@ -5899,14 +5923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89948,
-      "num": 89948,
-      "word": "日本18000名警察出动确保东京安全",
-      "onboard_time": 1761585018,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 89043,
       "num": 89043,
       "word": "广东人生娃积极性第一名",
@@ -6001,6 +6017,14 @@
       "onboard_time": 1761460700,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86535,
+      "num": 86535,
+      "word": "五个月瘦36斤减肥经验",
+      "onboard_time": 1761606618,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86402,
@@ -6187,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80880,
+      "num": 80880,
+      "word": "容祖儿 我和成龙没有误会",
+      "onboard_time": 1761603975,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80579,
       "num": 118451,
       "word": "真正的化妆高手是边画眼妆边湿敷面中的",
@@ -6281,6 +6313,14 @@
       "onboard_time": 1761403942,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77169,
+      "num": 77169,
+      "word": "睡眠是体重管理的关键环节",
+      "onboard_time": 1761588975,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77056,
@@ -6451,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68490,
+      "num": 84231,
+      "word": "果郡王也转战短剧赛道了",
+      "onboard_time": 1761606618,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68468,
       "num": 65895,
       "word": "龚俊偏偏你最争气",
@@ -6521,6 +6569,14 @@
       "onboard_time": 1761563061,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 83743,
+      "word": "许绍雄去年连拍多部作品",
+      "onboard_time": 1761606318,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 66598,
@@ -6675,6 +6731,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61366,
+      "num": 61366,
+      "word": "山姆中国换帅",
+      "onboard_time": 1761607218,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 61263,
+      "num": 81708,
+      "word": "被女同学打中左胸瘫痪男生家属发声",
+      "onboard_time": 1761582919,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60632,
+      "num": 60632,
+      "word": "50名学生因1特殊学生集体不上课",
+      "onboard_time": 1761573442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60112,
       "num": 60112,
       "word": "JackeyLove喊Nice破音",
@@ -6729,14 +6809,6 @@
       "onboard_time": 1761530601,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59647,
-      "num": 81708,
-      "word": "被女同学打中左胸瘫痪男生家属发声",
-      "onboard_time": 1761582919,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59615,
@@ -6796,7 +6868,7 @@
     },
     {
       "raw_hot": 57874,
-      "num": 57874,
+      "num": 80991,
       "word": "易烊千玺11月1日影院见舒淇新片",
       "onboard_time": 1761586097,
       "rank": 22,
@@ -6809,6 +6881,22 @@
       "onboard_time": 1761494841,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56301,
+      "num": 56301,
+      "word": "中方回应德国外长推迟访华行程",
+      "onboard_time": 1761606978,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55915,
+      "num": 55915,
+      "word": "猪肉价格暴跌牛羊肉大涨",
+      "onboard_time": 1761607218,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 55352,
@@ -6843,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53483,
+      "num": 53483,
+      "word": "huanfeng谈BLG打野轮换",
+      "onboard_time": 1761607279,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -6852,7 +6948,7 @@
     },
     {
       "raw_hot": 51663,
-      "num": 33594,
+      "num": 47454,
       "word": "孙恩盛回应拍短剧",
       "onboard_time": 1761587775,
       "rank": 22,
@@ -6883,6 +6979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49242,
+      "num": 49242,
+      "word": "猫猫从小鼻嘎变成了油腻大叔",
+      "onboard_time": 1761603195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49235,
       "num": 219296,
       "word": "妈妈是孩子的王牌引路人",
@@ -6891,11 +6995,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48891,
+      "num": 48891,
+      "word": "两岸统一后有哪些利好",
+      "onboard_time": 1761607279,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48766,
       "num": 146695,
       "word": "春秋航空称空嫂在服务儿童时有优势",
       "onboard_time": 1761560601,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48671,
+      "num": 48671,
+      "word": "47岁蔡磊与渐冻症抗争7年现状",
+      "onboard_time": 1761585617,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -7003,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43810,
+      "num": 43810,
+      "word": "特朗普回应俄试射末日武器",
+      "onboard_time": 1761607279,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43143,
       "num": 43143,
       "word": "和任何人相处都不紧张不尴尬的方法",
@@ -7033,14 +7161,6 @@
       "onboard_time": 1761587417,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 41565,
-      "num": 41565,
-      "word": "睡眠是体重管理的关键环节",
-      "onboard_time": 1761588975,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 40382,
@@ -7267,14 +7387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27662,
-      "num": 32408,
-      "word": "47岁蔡磊与渐冻症抗争7年现状",
-      "onboard_time": 1761585617,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27650,
       "num": 41013,
       "word": "当女朋友拍照时故意破坏蛋糕",
@@ -7369,22 +7481,6 @@
       "onboard_time": 1761456321,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24347,
-      "num": 24347,
-      "word": "容祖儿 我和成龙没有误会",
-      "onboard_time": 1761603975,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24343,
-      "num": 32331,
-      "word": "猫猫从小鼻嘎变成了油腻大叔",
-      "onboard_time": 1761603195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 23914,

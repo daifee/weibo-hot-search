@@ -1,0 +1,410 @@
+{
+  "runTime": 1761607419504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260269,
+        "num": 757077,
+        "word": "KK园区所在村镇出租车费已翻倍",
+        "onboard_time": 1761575602,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227007,
+        "num": 227007,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1968,
+        "num": 172767,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 148332,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135142,
+        "num": 135142,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134769,
+        "num": 134769,
+        "word": "日本18000名警察出动确保东京安全",
+        "onboard_time": 1761585018,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122661,
+        "num": 122661,
+        "word": "个人征信将可修复",
+        "onboard_time": 1761579620,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 94060,
+        "num": 94060,
+        "word": "天地剑心第三",
+        "onboard_time": 1761578600,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139313,
+        "num": 94021,
+        "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+        "onboard_time": 1761573263,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92833,
+        "num": 92833,
+        "word": "桃花坞6只留一个人就是孟子义",
+        "onboard_time": 1761575003,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1200152,
+        "num": 92561,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557905,
+        "num": 91907,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448205,
+        "num": 91537,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326124,
+        "num": 90912,
+        "word": "杨幂 死嘴憋住",
+        "onboard_time": 1761577522,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 271718,
+        "num": 90224,
+        "word": "为了不被裁员硅谷科技男扎堆做医美",
+        "onboard_time": 1761573083,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262203,
+        "num": 90198,
+        "word": "杨清柠",
+        "onboard_time": 1761580820,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258766,
+        "num": 89549,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125286,
+        "num": 89117,
+        "word": "内娱男艺人都防着黄景瑜",
+        "onboard_time": 1761570741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104330,
+        "num": 88348,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81386,
+        "num": 87807,
+        "word": "肖战宣传舒淇电影",
+        "onboard_time": 1761579620,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172182,
+        "num": 87491,
+        "word": "老君山再现阴阳分界线",
+        "onboard_time": 1761606558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104104,
+        "num": 86967,
+        "word": "黄金惊变",
+        "onboard_time": 1761606798,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86535,
+        "num": 86535,
+        "word": "五个月瘦36斤减肥经验",
+        "onboard_time": 1761606618,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84707,
+        "num": 84707,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68490,
+        "num": 84231,
+        "word": "果郡王也转战短剧赛道了",
+        "onboard_time": 1761606618,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66786,
+        "num": 83743,
+        "word": "许绍雄去年连拍多部作品",
+        "onboard_time": 1761606318,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58870,
+        "num": 83043,
+        "word": "31省份去年婚姻数据公布",
+        "onboard_time": 1761576924,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50446,
+        "num": 82312,
+        "word": "李木戈带着景甜张彬彬又杀回内娱",
+        "onboard_time": 1761575063,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50070,
+        "num": 81613,
+        "word": "王权富贵A爆了",
+        "onboard_time": 1761567802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48351,
+        "num": 80991,
+        "word": "易烊千玺11月1日影院见舒淇新片",
+        "onboard_time": 1761586097,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80880,
+        "num": 80880,
+        "word": "容祖儿 我和成龙没有误会",
+        "onboard_time": 1761603975,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79919,
+        "num": 79919,
+        "word": "鹿晗ins发自拍",
+        "onboard_time": 1761577822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77169,
+        "num": 77169,
+        "word": "睡眠是体重管理的关键环节",
+        "onboard_time": 1761588975,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67252,
+        "num": 67252,
+        "word": "呼吸道合胞病毒感染进入高发期",
+        "onboard_time": 1761575483,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64521,
+        "num": 64521,
+        "word": "熊孩子误吞10克金豆6天后排出",
+        "onboard_time": 1761578122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61366,
+        "num": 61366,
+        "word": "山姆中国换帅",
+        "onboard_time": 1761607218,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61263,
+        "num": 61263,
+        "word": "被女同学打中左胸瘫痪男生家属发声",
+        "onboard_time": 1761582919,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60632,
+        "num": 60632,
+        "word": "50名学生因1特殊学生集体不上课",
+        "onboard_time": 1761573442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56301,
+        "num": 56301,
+        "word": "中方回应德国外长推迟访华行程",
+        "onboard_time": 1761606978,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55915,
+        "num": 55915,
+        "word": "猪肉价格暴跌牛羊肉大涨",
+        "onboard_time": 1761607218,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 54970,
+        "num": 54970,
+        "word": "最佳睡眠怎么从10小时变7小时了",
+        "onboard_time": 1761566601,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 53530,
+        "num": 53530,
+        "word": "研究实施一次性的个人信用救济政策",
+        "onboard_time": 1761572483,
+        "rank": 41,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 53483,
+        "num": 53483,
+        "word": "huanfeng谈BLG打野轮换",
+        "onboard_time": 1761607279,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49559,
+        "num": 49559,
+        "word": "官方通报男子酸菜池中抽烟吐痰",
+        "onboard_time": 1761576741,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 49242,
+        "num": 49242,
+        "word": "猫猫从小鼻嘎变成了油腻大叔",
+        "onboard_time": 1761603195,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48891,
+        "num": 48891,
+        "word": "两岸统一后有哪些利好",
+        "onboard_time": 1761607279,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48671,
+        "num": 48671,
+        "word": "47岁蔡磊与渐冻症抗争7年现状",
+        "onboard_time": 1761585617,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47454,
+        "num": 47454,
+        "word": "孙恩盛回应拍短剧",
+        "onboard_time": 1761587775,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46935,
+        "num": 46935,
+        "word": "王楚钦把爆冷款穿成了爆款",
+        "onboard_time": 1761578841,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43810,
+        "num": 43810,
+        "word": "特朗普回应俄试射末日武器",
+        "onboard_time": 1761607279,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观故宫博物院展览#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761604880282,
+  "endTime": 1761607419504,
   "band_list": [
+    {
+      "raw_hot": 1200152,
+      "num": 187481,
+      "word": "14岁男生被女同学击中左胸后瘫痪",
+      "onboard_time": 1761582199,
+      "rank": 13,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 899892,
       "num": 197850,
@@ -9,14 +17,6 @@
       "onboard_time": 1761571641,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 878901,
-      "num": 187481,
-      "word": "14岁男生被女同学击中左胸后瘫痪",
-      "onboard_time": 1761582199,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 725194,
@@ -83,12 +83,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271718,
+      "num": 132910,
+      "word": "为了不被裁员硅谷科技男扎堆做医美",
+      "onboard_time": 1761573083,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 271569,
       "num": 271569,
       "word": "天地剑心第三",
       "onboard_time": 1761578600,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260269,
+      "num": 757077,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 229573,
@@ -123,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172182,
+      "num": 87491,
+      "word": "老君山再现阴阳分界线",
+      "onboard_time": 1761606558,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171822,
       "num": 171822,
       "word": "李木戈带着景甜张彬彬又杀回内娱",
@@ -131,20 +155,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166902,
-      "num": 471148,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
       "onboard_time": 1761579620,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 148332,
+      "num": 208838,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147822,
@@ -163,12 +187,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132910,
-      "num": 132910,
-      "word": "为了不被裁员硅谷科技男扎堆做医美",
-      "onboard_time": 1761573083,
-      "rank": 21,
-      "category": "海外新闻"
+      "raw_hot": 139313,
+      "num": 206290,
+      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+      "onboard_time": 1761573263,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134769,
+      "num": 134769,
+      "word": "日本18000名警察出动确保东京安全",
+      "onboard_time": 1761585018,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 125286,
+      "num": 106150,
+      "word": "内娱男艺人都防着黄景瑜",
+      "onboard_time": 1761570741,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 123815,
@@ -187,14 +227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108304,
-      "num": 106150,
-      "word": "内娱男艺人都防着黄景瑜",
-      "onboard_time": 1761570741,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106580,
       "num": 106580,
       "word": "许绍雄还未苏醒",
@@ -203,20 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100311,
-      "num": 208838,
-      "word": "南海坠机所在航母正执行最后任务",
-      "onboard_time": 1761560480,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 96959,
-      "num": 206290,
-      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
-      "onboard_time": 1761573263,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 104104,
+      "num": 86967,
+      "word": "黄金惊变",
+      "onboard_time": 1761606798,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 95306,
@@ -235,12 +259,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 89948,
-      "num": 89948,
-      "word": "日本18000名警察出动确保东京安全",
-      "onboard_time": 1761585018,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 86535,
+      "num": 86535,
+      "word": "五个月瘦36斤减肥经验",
+      "onboard_time": 1761606618,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86528,
@@ -259,6 +283,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 80880,
+      "num": 80880,
+      "word": "容祖儿 我和成龙没有误会",
+      "onboard_time": 1761603975,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77169,
+      "num": 77169,
+      "word": "睡眠是体重管理的关键环节",
+      "onboard_time": 1761588975,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73389,
       "num": 106124,
       "word": "警方通报烈性犬撕咬小猫",
@@ -273,6 +313,30 @@
       "onboard_time": 1761567802,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68490,
+      "num": 84231,
+      "word": "果郡王也转战短剧赛道了",
+      "onboard_time": 1761606618,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67252,
+      "num": 105328,
+      "word": "呼吸道合胞病毒感染进入高发期",
+      "onboard_time": 1761575483,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 83743,
+      "word": "许绍雄去年连拍多部作品",
+      "onboard_time": 1761606318,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 66598,
@@ -315,20 +379,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61366,
+      "num": 61366,
+      "word": "山姆中国换帅",
+      "onboard_time": 1761607218,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 61263,
+      "num": 81708,
+      "word": "被女同学打中左胸瘫痪男生家属发声",
+      "onboard_time": 1761582919,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60632,
+      "num": 60632,
+      "word": "50名学生因1特殊学生集体不上课",
+      "onboard_time": 1761573442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60624,
       "num": 105842,
       "word": "黄宗泽到院探望许绍雄",
       "onboard_time": 1761569962,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59647,
-      "num": 81708,
-      "word": "被女同学打中左胸瘫痪男生家属发声",
-      "onboard_time": 1761582919,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58717,
@@ -348,7 +428,7 @@
     },
     {
       "raw_hot": 57874,
-      "num": 57874,
+      "num": 80991,
       "word": "易烊千玺11月1日影院见舒淇新片",
       "onboard_time": 1761586097,
       "rank": 22,
@@ -395,6 +475,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 56301,
+      "num": 56301,
+      "word": "中方回应德国外长推迟访华行程",
+      "onboard_time": 1761606978,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55915,
+      "num": 55915,
+      "word": "猪肉价格暴跌牛羊肉大涨",
+      "onboard_time": 1761607218,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 54980,
       "num": 105454,
       "word": "偶遇曾辉韩雨彤牵手逛街",
@@ -403,8 +499,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54970,
+      "num": 54970,
+      "word": "最佳睡眠怎么从10小时变7小时了",
+      "onboard_time": 1761566601,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 53483,
+      "num": 53483,
+      "word": "huanfeng谈BLG打野轮换",
+      "onboard_time": 1761607279,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51663,
-      "num": 33594,
+      "num": 47454,
       "word": "孙恩盛回应拍短剧",
       "onboard_time": 1761587775,
       "rank": 22,
@@ -419,12 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48370,
-      "num": 105328,
-      "word": "呼吸道合胞病毒感染进入高发期",
-      "onboard_time": 1761575483,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 49242,
+      "num": 49242,
+      "word": "猫猫从小鼻嘎变成了油腻大叔",
+      "onboard_time": 1761603195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48891,
+      "num": 48891,
+      "word": "两岸统一后有哪些利好",
+      "onboard_time": 1761607279,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 48671,
+      "num": 48671,
+      "word": "47岁蔡磊与渐冻症抗争7年现状",
+      "onboard_time": 1761585617,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47790,
@@ -443,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43810,
+      "num": 43810,
+      "word": "特朗普回应俄试射末日武器",
+      "onboard_time": 1761607279,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43114,
       "num": 105150,
       "word": "这些小事正在偷走你的气血",
@@ -457,14 +593,6 @@
       "onboard_time": 1761587417,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 41565,
-      "num": 41565,
-      "word": "睡眠是体重管理的关键环节",
-      "onboard_time": 1761588975,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 31515,
@@ -489,14 +617,6 @@
       "onboard_time": 1761585976,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27662,
-      "num": 32408,
-      "word": "47岁蔡磊与渐冻症抗争7年现状",
-      "onboard_time": 1761585617,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27650,
@@ -529,22 +649,6 @@
       "onboard_time": 1761588435,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24347,
-      "num": 24347,
-      "word": "容祖儿 我和成龙没有误会",
-      "onboard_time": 1761603975,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24343,
-      "num": 32331,
-      "word": "猫猫从小鼻嘎变成了油腻大叔",
-      "onboard_time": 1761603195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 20456,
@@ -609,6 +713,14 @@
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1968,
+      "num": 172767,
+      "word": "第十五届全运会",
+      "onboard_time": 1761570622,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
