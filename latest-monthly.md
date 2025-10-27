@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 16:49:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 17:32:46
 </p>
 </blockquote>
 <p>
@@ -3219,6 +3219,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%85%A7%E6%85%A7%E9%A5%B1%E9%A5%B1%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+网红慧慧饱饱公开道歉（热度：822408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%91%E4%B8%80%E5%AE%98%E5%AE%A3%E4%B8%8E%E6%85%8E%E5%A9%95%E5%88%86%E6%89%8B%23" target="weibo">
 树一官宣与慎婕分手（热度：820775）
 </a>
@@ -4251,6 +4257,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E5%90%83%E5%AE%8C%E7%81%AB%E9%94%85%E6%94%B6%E6%8B%BE%E4%BA%86%E5%90%97%23" target="weibo">
+花少7吃完火锅收拾了吗（热度：699946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%95%BF%E8%BE%88%E4%B9%B0%E5%86%B0%E7%9A%AE%E6%9C%88%E9%A5%BC%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AF%B4%E6%98%8E%E5%90%83%E6%B3%95%23" target="weibo">
 给长辈买冰皮月饼一定要说明吃法（热度：698670）
 </a>
@@ -4379,6 +4391,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E4%B8%89%E8%BF%9E%E6%80%BC%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
 管乐三连怼祝绪丹（热度：690662）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
+印度人深圳地铁吃手抓饭（热度：690307）
 </a>
 </li>
 
@@ -4985,12 +5003,6 @@ iPhone千万别这样充电了（热度：641037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%9C%89%E4%B8%93%E5%B1%9E%E7%A9%BA%E8%B0%83%E4%BA%86%23" target="weibo">
 鸡排哥有专属空调了（热度：636519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
-印度人深圳地铁吃手抓饭（热度：636013）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ Ning浴室摔伤（热度：586285）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
-侯明昊卢昱晓 接二搭（热度：567050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
-央视曝光AI代写论文黑工厂（热度：566048）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6455,6 +6455,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%8F%91%E5%B1%95%E6%88%90%E6%9E%9C%E7%94%B1%E4%BA%BA%E6%B0%91%E5%85%B1%E4%BA%AB%23%23" target="weibo">
 #发展成果由人民共享#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%94%9F%E5%8A%A8%E9%98%90%E9%87%8A%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%23%23" target="weibo">
+#习近平主席生动阐释亚太合作#
 </a>
 </li>
 

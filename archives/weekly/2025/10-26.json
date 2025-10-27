@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761554943213,
+  "endTime": 1761557566060,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 822408,
+      "num": 822408,
+      "word": "网红慧慧饱饱公开道歉",
+      "onboard_time": 1761553221,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 806833,
       "num": 806833,
       "word": "世界第一美少年去世",
@@ -371,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699946,
+      "num": 699946,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
       "onboard_time": 1761533120,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 690307,
+      "num": 236584,
+      "word": "印度人深圳地铁吃手抓饭",
+      "onboard_time": 1761552621,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685151,
@@ -433,14 +457,6 @@
       "onboard_time": 1761470300,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 636013,
-      "num": 236584,
-      "word": "印度人深圳地铁吃手抓饭",
-      "onboard_time": 1761552621,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 635916,
@@ -1003,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363223,
+      "num": 152920,
+      "word": "何炅 杨幂你话筒拿了吗",
+      "onboard_time": 1761556281,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 362882,
       "num": 257434,
       "word": "白鹿 恰逢雨连天",
@@ -1075,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339049,
+      "num": 152584,
+      "word": "长大才意识到父母想要什么礼物",
+      "onboard_time": 1761556281,
+      "rank": 14,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 338973,
       "num": 303023,
       "word": "腾讯官宣等风热吻你",
@@ -1091,20 +1123,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338422,
+      "num": 152167,
+      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+      "onboard_time": 1761553460,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337821,
       "num": 337821,
       "word": "普京又催生",
       "onboard_time": 1761449479,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 331325,
-      "num": 231106,
-      "word": "网红慧慧饱饱公开道歉",
-      "onboard_time": 1761553221,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 325385,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1761448520,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283745,
+      "num": 283745,
+      "word": "东京进入最高警戒态势",
+      "onboard_time": 1761555022,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 282368,
@@ -1755,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206425,
+      "num": 150153,
+      "word": "谢娜说张杰是华语live王",
+      "onboard_time": 1761556520,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205934,
       "num": 205934,
       "word": "广东湛江一处沙滩现中华白海豚尸体",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1761439099,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 203955,
+      "num": 150055,
+      "word": "成龙 全部收进成家班",
+      "onboard_time": 1761555621,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 203899,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1761491843,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197659,
-      "num": 160578,
-      "word": "花少7吃完火锅收拾了吗",
-      "onboard_time": 1761553879,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 197593,
@@ -2139,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182572,
+      "num": 149630,
+      "word": "吴邪私家笔记2 付航",
+      "onboard_time": 1761556580,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181807,
       "num": 181807,
       "word": "高级河灯",
@@ -2272,6 +2328,14 @@
       "word": "英伟达退场 国产GPU接棒",
       "onboard_time": 1761442280,
       "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 172953,
+      "num": 149274,
+      "word": "明年或将出最便宜iPhone",
+      "onboard_time": 1761555621,
+      "rank": 24,
       "category": "数码"
     },
     {
@@ -2595,6 +2659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157666,
+      "num": 154100,
+      "word": "王楚钦长大了",
+      "onboard_time": 1761553879,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157614,
       "num": 157614,
       "word": "中美第五轮经贸会谈首日磋商超5小时",
@@ -2649,14 +2721,6 @@
       "onboard_time": 1761451700,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154100,
-      "num": 154100,
-      "word": "王楚钦长大了",
-      "onboard_time": 1761553879,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 154016,
@@ -2819,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148473,
+      "num": 148473,
+      "word": "孙俪陈建斌俩人小嘴淬了毒",
+      "onboard_time": 1761556700,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148104,
       "num": 148104,
       "word": "黄景瑜对王安宇的成见是一座大山",
@@ -2865,14 +2937,6 @@
       "onboard_time": 1761462140,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146601,
-      "num": 146601,
-      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
-      "onboard_time": 1761553460,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146534,
@@ -3459,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130312,
+      "num": 130312,
+      "word": "孙颖莎软糯小包叽",
+      "onboard_time": 1761557301,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130298,
       "num": 130298,
       "word": "向往的生活嘉宾一场戏只挣300",
@@ -3473,6 +3545,14 @@
       "onboard_time": 1761548300,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130169,
+      "num": 130169,
+      "word": "易烊千玺 粉色唯粉",
+      "onboard_time": 1761556821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 129933,
@@ -3691,6 +3771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123069,
+      "num": 123069,
+      "word": "春秋航空回应招已婚已育空嫂",
+      "onboard_time": 1761555621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122863,
       "num": 129508,
       "word": "水龙吟第五集的落魄十三楼真的很酷",
@@ -3835,6 +3923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116782,
+      "num": 116782,
+      "word": "特朗普抵达日本",
+      "onboard_time": 1761557060,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116714,
       "num": 116714,
       "word": "外网嘲美军机坠毁",
@@ -3865,6 +3961,14 @@
       "onboard_time": 1761469821,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115813,
+      "num": 144448,
+      "word": "秋天悄悄上色了",
+      "onboard_time": 1761557301,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115638,
@@ -3905,6 +4009,14 @@
       "onboard_time": 1761545660,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113492,
+      "num": 146662,
+      "word": "119救了119",
+      "onboard_time": 1761554241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112874,
@@ -4035,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110306,
+      "num": 119074,
+      "word": "广东某食品公司出现大量死猪",
+      "onboard_time": 1761556100,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110175,
       "num": 110175,
       "word": "花海本人已就位",
@@ -4049,6 +4169,14 @@
       "onboard_time": 1761468022,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109666,
+      "num": 109666,
+      "word": "彭昱畅新剧招聘工资上不封顶",
+      "onboard_time": 1761557360,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 109499,
@@ -4193,6 +4321,14 @@
       "onboard_time": 1761494541,
       "rank": 40,
       "category": "演出,游戏"
+    },
+    {
+      "raw_hot": 105751,
+      "num": 105751,
+      "word": "白鹿丞磊莫离吻戏",
+      "onboard_time": 1761555980,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 105517,
@@ -5067,14 +5203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73882,
-      "num": 146662,
-      "word": "119救了119",
-      "onboard_time": 1761554241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73404,
       "num": 73404,
       "word": "环卫工人节的9个倡议",
@@ -5715,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35019,
+      "num": 127782,
+      "word": "为什么手机充电器没有以旧换新",
+      "onboard_time": 1761553879,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34392,
       "num": 384696,
       "word": "重阳送礼送什么",
@@ -5803,14 +5939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25528,
-      "num": 127782,
-      "word": "为什么手机充电器没有以旧换新",
-      "onboard_time": 1761553879,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 25182,
       "num": 119138,
       "word": "张远曝苏醒逼大家让他当队长",
@@ -5897,6 +6025,14 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20126,
+      "num": 117220,
+      "word": "水龙吟导演你的养老保险来了",
+      "onboard_time": 1761557482,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 20005,
@@ -6020,7 +6156,7 @@
     },
     {
       "raw_hot": 7118,
-      "num": 377693,
+      "num": 740384,
       "word": "你好十五五",
       "onboard_time": 1761468140,
       "rank": 2,
@@ -6055,6 +6191,9 @@
     },
     {
       "word": "#发展成果由人民共享#"
+    },
+    {
+      "word": "#习近平主席生动阐释亚太合作#"
     }
   ]
 }

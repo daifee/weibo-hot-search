@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761554943213,
+  "endTime": 1761557566060,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 822408,
+      "num": 822408,
+      "word": "网红慧慧饱饱公开道歉",
+      "onboard_time": 1761553221,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 806833,
       "num": 806833,
       "word": "世界第一美少年去世",
@@ -155,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699946,
+      "num": 699946,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
       "onboard_time": 1761533120,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 690307,
+      "num": 236584,
+      "word": "印度人深圳地铁吃手抓饭",
+      "onboard_time": 1761552621,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685151,
@@ -193,14 +217,6 @@
       "onboard_time": 1761527960,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 636013,
-      "num": 236584,
-      "word": "印度人深圳地铁吃手抓饭",
-      "onboard_time": 1761552621,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 627647,
@@ -435,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363223,
+      "num": 152920,
+      "word": "何炅 杨幂你话筒拿了吗",
+      "onboard_time": 1761556281,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 362882,
       "num": 257434,
       "word": "白鹿 恰逢雨连天",
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339049,
+      "num": 152584,
+      "word": "长大才意识到父母想要什么礼物",
+      "onboard_time": 1761556281,
+      "rank": 14,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 338973,
       "num": 303023,
       "word": "腾讯官宣等风热吻你",
@@ -475,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 331325,
-      "num": 231106,
-      "word": "网红慧慧饱饱公开道歉",
-      "onboard_time": 1761553221,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 338422,
+      "num": 152167,
+      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+      "onboard_time": 1761553460,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329439,
@@ -537,6 +569,14 @@
       "onboard_time": 1761545960,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283745,
+      "num": 283745,
+      "word": "东京进入最高警戒态势",
+      "onboard_time": 1761555022,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280504,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206425,
+      "num": 150153,
+      "word": "谢娜说张杰是华语live王",
+      "onboard_time": 1761556520,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205934,
       "num": 205934,
       "word": "广东湛江一处沙滩现中华白海豚尸体",
@@ -753,6 +801,14 @@
       "onboard_time": 1761535221,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203955,
+      "num": 150055,
+      "word": "成龙 全部收进成家班",
+      "onboard_time": 1761555621,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 203899,
@@ -785,14 +841,6 @@
       "onboard_time": 1761546501,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197659,
-      "num": 160578,
-      "word": "花少7吃完火锅收拾了吗",
-      "onboard_time": 1761553879,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 197593,
@@ -931,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182572,
+      "num": 149630,
+      "word": "吴邪私家笔记2 付航",
+      "onboard_time": 1761556580,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178935,
       "num": 184890,
       "word": "杨瀚森NBA得分追平孙悦",
@@ -977,6 +1033,14 @@
       "onboard_time": 1761553281,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172953,
+      "num": 149274,
+      "word": "明年或将出最便宜iPhone",
+      "onboard_time": 1761555621,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 171036,
@@ -1131,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157666,
+      "num": 154100,
+      "word": "王楚钦长大了",
+      "onboard_time": 1761553879,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156277,
       "num": 156277,
       "word": "恋与深空直到心跳沸腾",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1761483501,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154100,
-      "num": 154100,
-      "word": "王楚钦长大了",
-      "onboard_time": 1761553879,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 154016,
@@ -1243,20 +1307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148473,
+      "num": 148473,
+      "word": "孙俪陈建斌俩人小嘴淬了毒",
+      "onboard_time": 1761556700,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146670,
       "num": 146670,
       "word": "云贵川体制内5元吃什么",
       "onboard_time": 1761530061,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146601,
-      "num": 146601,
-      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
-      "onboard_time": 1761553460,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146534,
@@ -1499,12 +1563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130312,
+      "num": 130312,
+      "word": "孙颖莎软糯小包叽",
+      "onboard_time": 1761557301,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130178,
       "num": 130178,
       "word": "人在什么时候是最轻松的",
       "onboard_time": 1761548300,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130169,
+      "num": 130169,
+      "word": "易烊千玺 粉色唯粉",
+      "onboard_time": 1761556821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 129791,
@@ -1595,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123069,
+      "num": 123069,
+      "word": "春秋航空回应招已婚已育空嫂",
+      "onboard_time": 1761555621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "谁懂考公人看到这两张的救赎感",
@@ -1675,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116782,
+      "num": 116782,
+      "word": "特朗普抵达日本",
+      "onboard_time": 1761557060,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116714,
       "num": 116714,
       "word": "外网嘲美军机坠毁",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1761542242,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115813,
+      "num": 144448,
+      "word": "秋天悄悄上色了",
+      "onboard_time": 1761557301,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115596,
@@ -1723,6 +1827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113492,
+      "num": 146662,
+      "word": "119救了119",
+      "onboard_time": 1761554241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112874,
       "num": 201952,
       "word": "朱一龙闪耀好莱坞",
@@ -1753,6 +1865,22 @@
       "onboard_time": 1761530841,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110306,
+      "num": 119074,
+      "word": "广东某食品公司出现大量死猪",
+      "onboard_time": 1761556100,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109666,
+      "num": 109666,
+      "word": "彭昱畅新剧招聘工资上不封顶",
+      "onboard_time": 1761557360,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 109495,
@@ -1809,6 +1937,14 @@
       "onboard_time": 1761494541,
       "rank": 40,
       "category": "演出,游戏"
+    },
+    {
+      "raw_hot": 105751,
+      "num": 105751,
+      "word": "白鹿丞磊莫离吻戏",
+      "onboard_time": 1761555980,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 104640,
@@ -2089,14 +2225,6 @@
       "onboard_time": 1761482181,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73882,
-      "num": 146662,
-      "word": "119救了119",
-      "onboard_time": 1761554241,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71604,
@@ -2403,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35019,
+      "num": 127782,
+      "word": "为什么手机充电器没有以旧换新",
+      "onboard_time": 1761553879,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34392,
       "num": 384696,
       "word": "重阳送礼送什么",
@@ -2435,14 +2571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25528,
-      "num": 127782,
-      "word": "为什么手机充电器没有以旧换新",
-      "onboard_time": 1761553879,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 25073,
       "num": 42859,
       "word": "男子没拔充电器客厅东西被烧光",
@@ -2473,6 +2601,14 @@
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 20126,
+      "num": 117220,
+      "word": "水龙吟导演你的养老保险来了",
+      "onboard_time": 1761557482,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 18745,
@@ -2521,6 +2657,14 @@
       "onboard_time": 1761450080,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3382,
+      "num": 740384,
+      "word": "你好十五五",
+      "onboard_time": 1761468140,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2529,6 +2673,9 @@
     },
     {
       "word": "#发展成果由人民共享#"
+    },
+    {
+      "word": "#习近平主席生动阐释亚太合作#"
     }
   ]
 }
