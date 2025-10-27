@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 22:45:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 23:28:55
 </p>
 </blockquote>
 <p>
@@ -3339,6 +3339,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%23" target="weibo">
+这就是中国台湾省（热度：809982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E5%A5%B3%E7%94%9F%E5%8E%BB%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%94%B7%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%86%B7%E6%88%983%E6%9C%88%23" target="weibo">
 约女生去图书馆男生和妈妈冷战3月（热度：809271）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9C%89%E4%BB%96%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%99%AA%E4%BC%B4%E6%88%91%E4%BD%95%E5%85%B6%E6%9C%89%E5%B9%B8%23" target="weibo">
 翁帆说有他多年的陪伴我何其有幸（热度：572649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
-发现了隐翅虫（热度：572264）
 </a>
 </li>
 
