@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761603866137,
+  "endTime": 1761604880282,
   "band_list": [
     {
       "raw_hot": 899892,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166902,
+      "num": 471148,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
@@ -169,14 +177,6 @@
       "onboard_time": 1761578841,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116755,
-      "num": 373698,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113114,
@@ -235,6 +235,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 89948,
+      "num": 89948,
+      "word": "日本18000名警察出动确保东京安全",
+      "onboard_time": 1761585018,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86528,
       "num": 106291,
       "word": "熊孩子误吞10克金豆6天后排出",
@@ -265,14 +273,6 @@
       "onboard_time": 1761567802,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70049,
-      "num": 70049,
-      "word": "日本18000名警察出动确保东京安全",
-      "onboard_time": 1761585018,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66598,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 51663,
-      "num": 32474,
+      "num": 33594,
       "word": "孙恩盛回应拍短剧",
       "onboard_time": 1761587775,
       "rank": 22,
@@ -459,8 +459,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 33193,
-      "num": 33193,
+      "raw_hot": 41565,
+      "num": 41565,
       "word": "睡眠是体重管理的关键环节",
       "onboard_time": 1761588975,
       "rank": 40,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27662,
+      "num": 32408,
+      "word": "47岁蔡磊与渐冻症抗争7年现状",
+      "onboard_time": 1761585617,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27650,
       "num": 41013,
       "word": "当女朋友拍照时故意破坏蛋糕",
@@ -499,7 +507,15 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 22608,
+      "raw_hot": 27273,
+      "num": 32353,
+      "word": "一个穿了铅笔一个穿了橡皮",
+      "onboard_time": 1761603136,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 26037,
       "num": 32457,
       "word": "杨幂当高跟鞋换成平底鞋",
       "onboard_time": 1761596833,
@@ -507,12 +523,28 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 22441,
+      "raw_hot": 25479,
       "num": 32437,
       "word": "郑智化深圳机场视频",
       "onboard_time": 1761588435,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24347,
+      "num": 24347,
+      "word": "容祖儿 我和成龙没有误会",
+      "onboard_time": 1761603975,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24343,
+      "num": 32331,
+      "word": "猫猫从小鼻嘎变成了油腻大叔",
+      "onboard_time": 1761603195,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 20456,
@@ -539,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19923,
-      "num": 32408,
-      "word": "47岁蔡磊与渐冻症抗争7年现状",
-      "onboard_time": 1761585617,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 19481,
+      "num": 22682,
+      "word": "监控视频下的章若楠",
+      "onboard_time": 1761592694,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 19118,
@@ -563,36 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17335,
-      "num": 32353,
-      "word": "一个穿了铅笔一个穿了橡皮",
-      "onboard_time": 1761603136,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 16026,
-      "num": 18680,
-      "word": "监控视频下的章若楠",
-      "onboard_time": 1761592694,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16019,
       "num": 19789,
       "word": "央行证监会系列重要消息发布",
       "onboard_time": 1761590535,
       "rank": 46,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 15777,
-      "num": 32331,
-      "word": "猫猫从小鼻嘎变成了油腻大叔",
-      "onboard_time": 1761603195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14302,
