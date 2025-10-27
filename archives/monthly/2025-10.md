@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 15:26:28
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 15:39:57
 </p>
 </blockquote>
 <p>
@@ -5181,6 +5181,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%97%85%E5%8D%B1%E5%85%A5%E9%99%A2%23" target="weibo">
+曝许绍雄病危入院（热度：621071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E9%A3%9E%E5%A4%A9%E5%A5%B3%E6%BC%94%E5%91%98%E5%A4%B1%E6%8E%A7%E8%90%BD%E6%B9%96%23" target="weibo">
 乌镇飞天女演员失控落湖（热度：620826）
 </a>
@@ -5279,6 +5285,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E5%90%91%E9%B9%8F%23" target="weibo">
 王楚钦4比3向鹏（热度：616055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%20%E7%8E%8B%E4%B9%90%E4%B9%90%23" target="weibo">
+杨清柠 王乐乐（热度：615865）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E7%AD%BE%E8%BF%90%23" target="weibo">
 BLG签运（热度：565641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%A7%B0%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B4%A6%E4%B8%8A%E6%9C%8941%E4%BA%BF%23" target="weibo">
-于东来称胖东来账上有41亿（热度：565088）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BC%8A%E4%BA%BA%E5%8E%BB%E4%BA%91%E5%8D%97%E4%BA%86%23" target="weibo">
-宋伊人去云南了（热度：564028）
 </a>
 </li>
 
