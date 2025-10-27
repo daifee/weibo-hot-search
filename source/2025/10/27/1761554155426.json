@@ -1,0 +1,410 @@
+{
+  "runTime": 1761554155426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272003,
+        "num": 1272003,
+        "word": "春秋航空开招已婚已育空嫂",
+        "onboard_time": 1761550223,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558223,
+        "num": 558223,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24637,
+        "num": 529512,
+        "word": "广电精品创作大会来了",
+        "onboard_time": 1761541583,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520129,
+        "num": 520129,
+        "word": "杨紫回应饰演董竹君",
+        "onboard_time": 1761551242,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459472,
+        "num": 459472,
+        "word": "赵一鸣 用糖找零",
+        "onboard_time": 1761541583,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285046,
+        "num": 285046,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305231,
+        "num": 268064,
+        "word": "表妹万福预告",
+        "onboard_time": 1761552321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239800,
+        "num": 239800,
+        "word": "姚润昊退出上海叠纸科技公司",
+        "onboard_time": 1761546740,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205631,
+        "num": 239650,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151507,
+        "num": 238527,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302127,
+        "num": 238020,
+        "word": "剑来官宣吴磊",
+        "onboard_time": 1761545001,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734019,
+        "num": 236930,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1761547700,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525223,
+        "num": 236584,
+        "word": "印度人深圳地铁吃手抓饭",
+        "onboard_time": 1761552621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149939,
+        "num": 235553,
+        "word": "张本智和笑不出来一点",
+        "onboard_time": 1761545960,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474900,
+        "num": 234906,
+        "word": "刘亦菲朱一龙聚餐",
+        "onboard_time": 1761548661,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425833,
+        "num": 233610,
+        "word": "爱生娃的十大省份",
+        "onboard_time": 1761549022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415837,
+        "num": 232905,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243661,
+        "num": 232041,
+        "word": "肖战观摩开颅手术",
+        "onboard_time": 1761537921,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231971,
+        "num": 231971,
+        "word": "腾讯官宣等风热吻你",
+        "onboard_time": 1761542302,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66268,
+        "num": 231350,
+        "word": "京东1元拍卖Kelly娃娃包",
+        "onboard_time": 1761552262,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 432585,
+        "num": 231241,
+        "word": "印度女医生遭警察多次性侵绝望自杀",
+        "onboard_time": 1761548121,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231106,
+        "num": 231106,
+        "word": "网红慧慧饱饱公开道歉",
+        "onboard_time": 1761553221,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207563,
+        "num": 207563,
+        "word": "田曦薇 好多漂亮女孩和男人",
+        "onboard_time": 1761543321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197593,
+        "num": 197593,
+        "word": "富贵少爷把亲爹挂了",
+        "onboard_time": 1761552921,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186570,
+        "num": 186570,
+        "word": "迪丽热巴贺思慕新照",
+        "onboard_time": 1761553640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124006,
+        "num": 174545,
+        "word": "奶茶9.9面包99",
+        "onboard_time": 1761552621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174299,
+        "num": 174299,
+        "word": "安可 好看",
+        "onboard_time": 1761553281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161448,
+        "num": 161448,
+        "word": "胡歌琅琊榜之后首部古装剧",
+        "onboard_time": 1761550041,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170120,
+        "num": 155551,
+        "word": "江浙沪父母的含金量还在上升",
+        "onboard_time": 1761548902,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "杨瀚森NBA得分追平孙悦",
+        "onboard_time": 1761548421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153754,
+        "num": 138452,
+        "word": "10个表现说明严重睡眠不足",
+        "onboard_time": 1761539722,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135758,
+        "num": 135758,
+        "word": "你等这一千块钱过年吗",
+        "onboard_time": 1761542062,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135383,
+        "num": 135383,
+        "word": "清融追星欧阳娜娜成功",
+        "onboard_time": 1761553401,
+        "rank": 32,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 134916,
+        "num": 134916,
+        "word": "王楚钦长大了",
+        "onboard_time": 1761553879,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134739,
+        "num": 134739,
+        "word": "雪中悍刀行2",
+        "onboard_time": 1761538761,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127172,
+        "num": 127172,
+        "word": "易烊千玺情绪稳定这一块",
+        "onboard_time": 1761552561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102261,
+        "num": 126409,
+        "word": "新疆吐鲁番市托克逊县4.7级地震",
+        "onboard_time": 1761553161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20917,
+        "num": 125241,
+        "word": "为什么手机充电器没有以旧换新",
+        "onboard_time": 1761553879,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77240,
+        "num": 124815,
+        "word": "花少7吃完火锅收拾了吗",
+        "onboard_time": 1761553879,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129748,
+        "num": 123448,
+        "word": "iPhone18发布或推迟",
+        "onboard_time": 1761548601,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63033,
+        "num": 121553,
+        "word": "外交部回应中美经贸磋商",
+        "onboard_time": 1761551482,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133958,
+        "num": 120890,
+        "word": "秦岚王阳二搭",
+        "onboard_time": 1761552382,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "张艺兴亮相东京电影节红毯",
+        "onboard_time": 1761552023,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118564,
+        "num": 118564,
+        "word": "何赛飞给张柏芝道歉",
+        "onboard_time": 1761547520,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117174,
+        "num": 117174,
+        "word": "刘诗诗胡先煦醉梦预告",
+        "onboard_time": 1761551602,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116383,
+        "num": 116383,
+        "word": "陈道明从未否认过自己不是易烊千玺",
+        "onboard_time": 1761543801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115752,
+        "num": 115752,
+        "word": "关晓彤友情出演",
+        "onboard_time": 1761547760,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107310,
+        "num": 107310,
+        "word": "恋与深空纯炫技",
+        "onboard_time": 1761553521,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100333,
+        "num": 106078,
+        "word": "广东发生1起流感暴发疫情",
+        "onboard_time": 1761552200,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82675,
+        "num": 105515,
+        "word": "湖人46次罚球",
+        "onboard_time": 1761553101,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展成果由人民共享#"
+    }
+  }
+}

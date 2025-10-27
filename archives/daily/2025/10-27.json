@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761550797934,
+  "endTime": 1761554155426,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -25,6 +25,14 @@
       "onboard_time": 1761537921,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272003,
+      "num": 1272003,
+      "word": "春秋航空开招已婚已育空嫂",
+      "onboard_time": 1761550223,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1255155,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734019,
+      "num": 236930,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1761547700,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 730937,
       "num": 308645,
       "word": "刘欢女儿结婚",
@@ -203,14 +219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 615865,
-      "num": 233436,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1761547700,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 613529,
       "num": 205300,
       "word": "朋友圈一定要当天发",
@@ -276,11 +284,27 @@
     },
     {
       "raw_hot": 530451,
-      "num": 218064,
+      "num": 231241,
       "word": "印度女医生遭警察多次性侵绝望自杀",
       "onboard_time": 1761548121,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 525223,
+      "num": 236584,
+      "word": "印度人深圳地铁吃手抓饭",
+      "onboard_time": 1761552621,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520129,
+      "num": 520129,
+      "word": "杨紫回应饰演董竹君",
+      "onboard_time": 1761551242,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 490255,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 488262,
-      "num": 232569,
+      "num": 234906,
       "word": "刘亦菲朱一龙聚餐",
       "onboard_time": 1761548661,
       "rank": 13,
@@ -353,6 +377,14 @@
       "onboard_time": 1761539903,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425833,
+      "num": 233610,
+      "word": "爱生娃的十大省份",
+      "onboard_time": 1761549022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419867,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305231,
+      "num": 268064,
+      "word": "表妹万福预告",
+      "onboard_time": 1761552321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303168,
       "num": 226614,
       "word": "田曦薇 好多漂亮女孩和男人",
@@ -481,14 +521,6 @@
       "onboard_time": 1761480381,
       "rank": 22,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 297148,
-      "num": 216187,
-      "word": "爱生娃的十大省份",
-      "onboard_time": 1761549022,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289039,
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231106,
+      "num": 231106,
+      "word": "网红慧慧饱饱公开道歉",
+      "onboard_time": 1761553221,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227235,
       "num": 227235,
       "word": "普通女生化妆最有效果的一步",
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197593,
+      "num": 197593,
+      "word": "富贵少爷把亲爹挂了",
+      "onboard_time": 1761552921,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196446,
       "num": 167968,
       "word": "A股",
@@ -817,6 +865,14 @@
       "onboard_time": 1761550102,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186570,
+      "num": 186570,
+      "word": "迪丽热巴贺思慕新照",
+      "onboard_time": 1761553640,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 184640,
@@ -897,6 +953,14 @@
       "onboard_time": 1761547760,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174299,
+      "num": 174299,
+      "word": "安可 好看",
+      "onboard_time": 1761553281,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 171036,
@@ -1275,12 +1339,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135383,
+      "num": 135383,
+      "word": "清融追星欧阳娜娜成功",
+      "onboard_time": 1761553401,
+      "rank": 32,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 134916,
+      "num": 134916,
+      "word": "王楚钦长大了",
+      "onboard_time": 1761553879,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134132,
       "num": 134132,
       "word": "卢昱晓像极了考试快交卷的我",
       "onboard_time": 1761539303,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133958,
+      "num": 120890,
+      "word": "秦岚王阳二搭",
+      "onboard_time": 1761552382,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 133875,
@@ -1427,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127172,
+      "num": 127172,
+      "word": "易烊千玺情绪稳定这一块",
+      "onboard_time": 1761552561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125642,
       "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
@@ -1451,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124006,
+      "num": 174545,
+      "word": "奶茶9.9面包99",
+      "onboard_time": 1761552621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123380,
       "num": 123380,
       "word": "白鹿关晓彤李兰迪 红毯妈咪级别",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1761547941,
       "rank": 36,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "张艺兴亮相东京电影节红毯",
+      "onboard_time": 1761552023,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 119879,
@@ -1512,6 +1624,14 @@
       "word": "玉簟秋",
       "onboard_time": 1761484520,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117174,
+      "num": 117174,
+      "word": "刘诗诗胡先煦醉梦预告",
+      "onboard_time": 1761551602,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1619,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107310,
+      "num": 107310,
+      "word": "恋与深空纯炫技",
+      "onboard_time": 1761553521,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105907,
       "num": 191574,
       "word": "刘宇宁演唱会上快哭了",
@@ -1667,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102261,
+      "num": 126409,
+      "word": "新疆吐鲁番市托克逊县4.7级地震",
+      "onboard_time": 1761553161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101952,
       "num": 102859,
       "word": "曹颖自曝因过量喝咖啡患焦虑症",
@@ -1681,6 +1817,14 @@
       "onboard_time": 1761531919,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100333,
+      "num": 106078,
+      "word": "广东发生1起流感暴发疫情",
+      "onboard_time": 1761552200,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99885,
@@ -1787,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82675,
+      "num": 105515,
+      "word": "湖人46次罚球",
+      "onboard_time": 1761553101,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81638,
       "num": 104924,
       "word": "皇马2比1巴萨",
@@ -1849,6 +2001,14 @@
       "onboard_time": 1761476900,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77240,
+      "num": 124815,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 76743,
@@ -1931,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66268,
+      "num": 231350,
+      "word": "京东1元拍卖Kelly娃娃包",
+      "onboard_time": 1761552262,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66047,
       "num": 87890,
       "word": "关晓彤千里江山图官宣节奏",
@@ -1969,6 +2137,14 @@
       "onboard_time": 1761536120,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63033,
+      "num": 121553,
+      "word": "外交部回应中美经贸磋商",
+      "onboard_time": 1761551482,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62902,
@@ -2048,14 +2224,6 @@
       "word": "贵州一景区石刻现大日本帝国字样",
       "onboard_time": 1761549981,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57875,
-      "num": 222428,
-      "word": "春秋航空开招已婚已育空嫂",
-      "onboard_time": 1761550223,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2233,6 +2401,14 @@
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 20917,
+      "num": 125241,
+      "word": "为什么手机充电器没有以旧换新",
+      "onboard_time": 1761553879,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 18745,

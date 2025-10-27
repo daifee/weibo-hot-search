@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761550797934,
+  "endTime": 1761554155426,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1544,6 +1544,14 @@
       "word": "鸡排哥称我人都要窒息了",
       "onboard_time": 1759566381,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1272003,
+      "num": 1272003,
+      "word": "春秋航空开招已婚已育空嫂",
+      "onboard_time": 1761550223,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5211,6 +5219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734019,
+      "num": 236930,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1761547700,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 733902,
       "num": 733902,
       "word": "惊天魔盗团",
@@ -7033,14 +7049,6 @@
       "onboard_time": 1759644681,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 615865,
-      "num": 233436,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1761547700,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 613783,
@@ -8892,7 +8900,7 @@
     },
     {
       "raw_hot": 530451,
-      "num": 218064,
+      "num": 231241,
       "word": "印度女医生遭警察多次性侵绝望自杀",
       "onboard_time": 1761548121,
       "rank": 39,
@@ -9019,6 +9027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 525223,
+      "num": 236584,
+      "word": "印度人深圳地铁吃手抓饭",
+      "onboard_time": 1761552621,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525204,
       "num": 525204,
       "word": "雷军被8000元小刀价格惊呆了",
@@ -9137,6 +9153,14 @@
       "onboard_time": 1759449258,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520129,
+      "num": 520129,
+      "word": "杨紫回应饰演董竹君",
+      "onboard_time": 1761551242,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 520015,
@@ -10068,7 +10092,7 @@
     },
     {
       "raw_hot": 488262,
-      "num": 232569,
+      "num": 234906,
       "word": "刘亦菲朱一龙聚餐",
       "onboard_time": 1761548661,
       "rank": 13,
@@ -12184,6 +12208,14 @@
       "word": "警方回应小伙与女友吃饭被铐走",
       "onboard_time": 1759848921,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425833,
+      "num": 233610,
+      "word": "爱生娃的十大省份",
+      "onboard_time": 1761549022,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -17123,6 +17155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305231,
+      "num": 268064,
+      "word": "表妹万福预告",
+      "onboard_time": 1761552321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305200,
       "num": 244409,
       "word": "水龙吟云包场",
@@ -17569,14 +17609,6 @@
       "onboard_time": 1761045320,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297148,
-      "num": 216187,
-      "word": "爱生娃的十大省份",
-      "onboard_time": 1761549022,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296861,
@@ -22163,6 +22195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231106,
+      "num": 231106,
+      "word": "网红慧慧饱饱公开道歉",
+      "onboard_time": 1761553221,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 231073,
       "num": 342614,
       "word": "00后利用办公室午休赚三份工资",
@@ -26027,6 +26067,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 197593,
+      "num": 197593,
+      "word": "富贵少爷把亲爹挂了",
+      "onboard_time": 1761552921,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197557,
       "num": 172234,
       "word": "张康乐喝过期牛奶",
@@ -28440,6 +28488,14 @@
       "word": "卢昱晓神女拉弓镜头",
       "onboard_time": 1760014220,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186570,
+      "num": 186570,
+      "word": "迪丽热巴贺思慕新照",
+      "onboard_time": 1761553640,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -30929,6 +30985,14 @@
       "onboard_time": 1761325637,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174299,
+      "num": 174299,
+      "word": "安可 好看",
+      "onboard_time": 1761553281,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 174295,
@@ -42307,6 +42371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135383,
+      "num": 135383,
+      "word": "清融追星欧阳娜娜成功",
+      "onboard_time": 1761553401,
+      "rank": 32,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 135364,
       "num": 135364,
       "word": "iPhoneAir首批售罄",
@@ -42593,6 +42665,14 @@
       "onboard_time": 1760960962,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134916,
+      "num": 134916,
+      "word": "王楚钦长大了",
+      "onboard_time": 1761553879,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 134892,
@@ -42992,6 +43072,14 @@
       "word": "吴邪私家笔记",
       "onboard_time": 1759896981,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133958,
+      "num": 120890,
+      "word": "秦岚王阳二搭",
+      "onboard_time": 1761552382,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -45955,6 +46043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127172,
+      "num": 127172,
+      "word": "易烊千玺情绪稳定这一块",
+      "onboard_time": 1761552561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127156,
       "num": 127156,
       "word": "Doinb自曝ASI约不到训练赛",
@@ -47497,6 +47593,14 @@
       "onboard_time": 1760419100,
       "rank": 22,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 124006,
+      "num": 174545,
+      "word": "奶茶9.9面包99",
+      "onboard_time": 1761552621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123976,
@@ -49257,6 +49361,14 @@
       "onboard_time": 1761470300,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "张艺兴亮相东京电影节红毯",
+      "onboard_time": 1761552023,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 120355,
@@ -51033,6 +51145,14 @@
       "onboard_time": 1761097640,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117174,
+      "num": 117174,
+      "word": "刘诗诗胡先煦醉梦预告",
+      "onboard_time": 1761551602,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117166,
@@ -57051,6 +57171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107310,
+      "num": 107310,
+      "word": "恋与深空纯炫技",
+      "onboard_time": 1761553521,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107294,
       "num": 107294,
       "word": "侯英超吐槽亚锦赛",
@@ -60355,6 +60483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102261,
+      "num": 126409,
+      "word": "新疆吐鲁番市托克逊县4.7级地震",
+      "onboard_time": 1761553161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102255,
       "num": 102255,
       "word": "eSIM手机",
@@ -61585,6 +61721,14 @@
       "onboard_time": 1759837942,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100333,
+      "num": 106078,
+      "word": "广东发生1起流感暴发疫情",
+      "onboard_time": 1761552200,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100285,
@@ -71811,6 +71955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82675,
+      "num": 105515,
+      "word": "湖人46次罚球",
+      "onboard_time": 1761553101,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82668,
       "num": 82668,
       "word": "女子应聘HR被要求注册陌陌",
@@ -74377,6 +74529,14 @@
       "onboard_time": 1760970261,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77240,
+      "num": 124815,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 77234,
@@ -77947,6 +78107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66268,
+      "num": 231350,
+      "word": "京东1元拍卖Kelly娃娃包",
+      "onboard_time": 1761552262,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66233,
       "num": 433484,
       "word": "爱德华兹41分",
@@ -78817,6 +78985,14 @@
       "onboard_time": 1760282840,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63033,
+      "num": 121553,
+      "word": "外交部回应中美经贸磋商",
+      "onboard_time": 1761551482,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63016,
@@ -80265,14 +80441,6 @@
       "onboard_time": 1761119421,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57875,
-      "num": 222428,
-      "word": "春秋航空开招已婚已育空嫂",
-      "onboard_time": 1761550223,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57827,
@@ -87617,6 +87785,14 @@
       "onboard_time": 1759351514,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20917,
+      "num": 125241,
+      "word": "为什么手机充电器没有以旧换新",
+      "onboard_time": 1761553879,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 20909,
