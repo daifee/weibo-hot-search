@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 19:39:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 20:55:03
 </p>
 </blockquote>
 <p>
@@ -1841,6 +1841,12 @@ VOGUE盛典官宣阵容（热度：1089235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E5%B0%8F%E7%B1%B3%E8%87%AA%E7%87%83%23" target="weibo">
 成都天府大道小米自燃（热度：1077843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E8%AF%AF%E5%B0%86%E8%9B%87%E7%AA%9D%E5%BD%93%E9%87%8E%E7%94%9F%E8%B9%A6%E5%BA%8A%23" target="weibo">
+女子徒步误将蛇窝当野生蹦床（热度：1076968）
 </a>
 </li>
 
@@ -4635,6 +4641,12 @@ ELLE（热度：673195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E7%A1%AE%E8%AE%A4%E9%85%B8%E8%8F%9C%E7%94%9F%E4%BA%A7%E4%B9%B1%E8%B1%A1%E5%B1%9E%E5%AE%9E%23" target="weibo">
+市监局确认酸菜生产乱象属实（热度：672993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%A4%A7%E9%9B%AA%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 暴雪大雪暴雨要来了（热度：671372）
 </a>
@@ -5991,12 +6003,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E5%B1%80%E7%A1%AE%E8%AE%A4%E9%85%B8%E8%8F%9C%E7%94%9F%E4%BA%A7%E4%B9%B1%E8%B1%A1%E5%B1%9E%E5%AE%9E%23" target="weibo">
-市监局确认酸菜生产乱象属实（热度：571170）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%99%E5%AD%A9%E5%AD%90%E5%8F%96%E5%90%8D%E8%B7%9F%E5%86%99%E5%B0%8F%E8%AF%B4%E4%B8%80%E6%A0%B7%23" target="weibo">
 姜潮麦迪娜给孩子取名跟写小说一样（热度：570913）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%96%E6%B6%88%E8%80%B3%E6%9C%BA%E5%AD%94%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E8%A0%A2%E8%B4%A7%23" target="weibo">
 第一个取消耳机孔的简直是蠢货（热度：570746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%BF%9Ccp%E9%80%89%E6%8B%A9%E4%B8%8D%E6%88%90%E4%B8%BA%E6%83%85%E4%BE%A3%23" target="weibo">
-乐远cp选择不成为情侣（热度：570592）
 </a>
 </li>
 

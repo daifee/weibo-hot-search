@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761565149852,
+  "endTime": 1761569703296,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2440,6 +2440,14 @@
       "word": "成都天府大道小米自燃",
       "onboard_time": 1760318121,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1076968,
+      "num": 175753,
+      "word": "女子徒步误将蛇窝当野生蹦床",
+      "onboard_time": 1761563600,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -6163,6 +6171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672993,
+      "num": 1107678,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 671372,
       "num": 671372,
       "word": "暴雪大雪暴雨要来了",
@@ -7971,14 +7987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 571170,
-      "num": 571170,
-      "word": "市监局确认酸菜生产乱象属实",
-      "onboard_time": 1761561021,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 570913,
       "num": 255469,
       "word": "姜潮麦迪娜给孩子取名跟写小说一样",
@@ -9241,6 +9249,14 @@
       "onboard_time": 1759449258,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520181,
+      "num": 175485,
+      "word": "嘉行传媒否认与迪丽热巴切割",
+      "onboard_time": 1761565642,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 520129,
@@ -10801,6 +10817,14 @@
       "onboard_time": 1761039681,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 467460,
+      "num": 467460,
+      "word": "西部航空道歉",
+      "onboard_time": 1761564380,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467408,
@@ -12537,6 +12561,14 @@
       "onboard_time": 1760098221,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419495,
+      "num": 419495,
+      "word": "地球超新鲜2原班人马回归",
+      "onboard_time": 1761567380,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 419143,
@@ -14859,6 +14891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353706,
+      "num": 175111,
+      "word": "易烊千玺回应参加补办毕业典礼",
+      "onboard_time": 1761561798,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353663,
       "num": 353663,
       "word": "日本预制拉面",
@@ -15036,7 +15076,7 @@
     },
     {
       "raw_hot": 349442,
-      "num": 168453,
+      "num": 174596,
       "word": "佘诗曼谈许绍雄身体状况落泪",
       "onboard_time": 1761561741,
       "rank": 42,
@@ -15547,6 +15587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338652,
+      "num": 174124,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 338626,
       "num": 436562,
       "word": "日本首位女首相的政策比男人还男人",
@@ -15947,14 +15995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 329343,
-      "num": 168362,
-      "word": "女子徒步误将蛇窝当野生蹦床",
-      "onboard_time": 1761563600,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328818,
       "num": 214468,
       "word": "你缺的不是衣服而是打扮思路",
@@ -15977,6 +16017,14 @@
       "onboard_time": 1761378501,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327606,
+      "num": 174839,
+      "word": "刘亦菲的白VS欧美的白",
+      "onboard_time": 1761564080,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 327580,
@@ -17441,6 +17489,14 @@
       "onboard_time": 1760052258,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302382,
+      "num": 174793,
+      "word": "教体局回应50名小学生集体不上课",
+      "onboard_time": 1761565521,
+      "rank": 17,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 302314,
@@ -20723,14 +20779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252327,
-      "num": 166257,
-      "word": "刘亦菲的白VS欧美的白",
-      "onboard_time": 1761564080,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252313,
       "num": 214902,
       "word": "Faker微博更新",
@@ -23675,14 +23723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214761,
-      "num": 165130,
-      "word": "易烊千玺回应参加补办毕业典礼",
-      "onboard_time": 1761561798,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214685,
       "num": 214685,
       "word": "王者荣耀貂蝉投票",
@@ -26475,6 +26515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196871,
+      "num": 196871,
+      "word": "敖瑞鹏这次录跑男跑不了了",
+      "onboard_time": 1761561620,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196866,
       "num": 208056,
       "word": "今天星期五",
@@ -27979,14 +28027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190107,
-      "num": 190107,
-      "word": "敖瑞鹏这次录跑男跑不了了",
-      "onboard_time": 1761561620,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190082,
       "num": 190082,
       "word": "王一博官宣探索新境2",
@@ -29201,6 +29241,14 @@
       "onboard_time": 1759706597,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183957,
+      "num": 183957,
+      "word": "一加15价格",
+      "onboard_time": 1761569001,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 183925,
@@ -30547,6 +30595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177420,
+      "num": 177420,
+      "word": "刘诗诗新剧美我一跳更吓我一跳",
+      "onboard_time": 1761565822,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177324,
       "num": 247880,
       "word": "凤戏阳 夏静炎",
@@ -30865,6 +30921,14 @@
       "onboard_time": 1759909582,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "外交部回应美军机南海坠毁",
+      "onboard_time": 1761562041,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175898,
@@ -31313,6 +31377,14 @@
       "onboard_time": 1761315624,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173926,
+      "num": 173926,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 173925,
@@ -34323,6 +34395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162071,
+      "num": 162071,
+      "word": "坏了对黄景瑜有刻板印象了",
+      "onboard_time": 1761568643,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161956,
       "num": 228767,
       "word": "68页PPT男子二次举报希望开除博士生",
@@ -35041,6 +35121,14 @@
       "onboard_time": 1759751122,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "钎城 期待我们的下一个十年",
+      "onboard_time": 1761569001,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 159322,
@@ -38115,6 +38203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "王权富贵A爆了",
+      "onboard_time": 1761567802,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148856,
       "num": 148856,
       "word": "你刷到的奥运冠军代言可能是假的",
@@ -39465,14 +39561,6 @@
       "onboard_time": 1760539405,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144877,
-      "num": 171630,
-      "word": "外交部回应美军机南海坠毁",
-      "onboard_time": 1761562041,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144846,
@@ -43787,6 +43875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133342,
+      "num": 133342,
+      "word": "骄阳似我冬偶",
+      "onboard_time": 1761567982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133327,
       "num": 133327,
       "word": "夜市套圈30元1500个圈",
@@ -43857,6 +43953,14 @@
       "onboard_time": 1760708543,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133150,
+      "num": 133150,
+      "word": "最佳睡眠怎么从10小时变7小时了",
+      "onboard_time": 1761566601,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 133105,
@@ -46027,6 +46131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128063,
+      "num": 128063,
+      "word": "你好种地少年直播",
+      "onboard_time": 1761569661,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128042,
       "num": 184076,
       "word": "丁禹兮山河枕少年将军",
@@ -46529,6 +46641,14 @@
       "onboard_time": 1760705843,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127027,
+      "num": 127027,
+      "word": "谭松韵刘学义新剧天崩开局",
+      "onboard_time": 1761567442,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 127019,
@@ -50331,6 +50451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119442,
+      "num": 119442,
+      "word": "左雾曝Scout还清GALA欠款",
+      "onboard_time": 1761565401,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119438,
       "num": 216961,
       "word": "塔罗牌",
@@ -50601,6 +50729,14 @@
       "onboard_time": 1759809380,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119017,
+      "num": 119017,
+      "word": "女子38克金手镯被弟媳调包",
+      "onboard_time": 1761566661,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118935,
@@ -52153,6 +52289,14 @@
       "onboard_time": 1760273423,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116233,
+      "num": 116233,
+      "word": "小落关系户美了美了",
+      "onboard_time": 1761567261,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 116193,
@@ -54075,6 +54219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112550,
+      "num": 112550,
+      "word": "张远一下班就去了孙燕姿演唱会",
+      "onboard_time": 1761569181,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112540,
       "num": 112540,
       "word": "彭昱畅闫妮 微醺的妈妈和我",
@@ -54401,6 +54553,14 @@
       "onboard_time": 1760072063,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112045,
+      "num": 112045,
+      "word": "一加15",
+      "onboard_time": 1761566061,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 112024,
@@ -58187,6 +58347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106610,
+      "num": 106610,
+      "word": "李一桐 好多妈妈",
+      "onboard_time": 1761569421,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106587,
       "num": 106587,
       "word": "正式被确诊为蛋挞",
@@ -58545,6 +58713,14 @@
       "onboard_time": 1760424623,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106006,
+      "num": 106006,
+      "word": "Deft送别EDG队宠",
+      "onboard_time": 1761566962,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 105989,
@@ -61539,6 +61715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101585,
+      "num": 122338,
+      "word": "孩子考10分遭父亲板凳砸头",
+      "onboard_time": 1761563061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101574,
       "num": 101574,
       "word": "白鹿来了也不好使",
@@ -62145,6 +62329,14 @@
       "onboard_time": 1761382941,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100606,
+      "num": 100606,
+      "word": "李沁不愿看到你流泪的眼睛",
+      "onboard_time": 1761567320,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 100605,
@@ -63793,6 +63985,14 @@
       "onboard_time": 1759400781,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97739,
+      "num": 116363,
+      "word": "偶遇曾辉韩雨彤牵手逛街",
+      "onboard_time": 1761568522,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 97737,
@@ -70051,14 +70251,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87312,
-      "num": 108460,
-      "word": "西部航空道歉",
-      "onboard_time": 1761564380,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87253,
       "num": 87253,
       "word": "长隆动物园玛利亚萌晕了",
@@ -73321,6 +73513,14 @@
       "onboard_time": 1759569621,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81143,
+      "num": 174445,
+      "word": "外骨骼送快递能不能全国推广",
+      "onboard_time": 1761567501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81115,
@@ -83467,14 +83667,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 46755,
-      "num": 122338,
-      "word": "孩子考10分遭父亲板凳砸头",
-      "onboard_time": 1761563061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46669,
       "num": 202984,
       "word": "幼师因地贫基因被前夫举报后遭解聘",
@@ -84313,6 +84505,14 @@
       "onboard_time": 1761109283,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42600,
+      "num": 116271,
+      "word": "王毅同美国国务卿鲁比奥通电话",
+      "onboard_time": 1761569661,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42598,
@@ -90153,6 +90353,14 @@
       "onboard_time": 1760041454,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10672,
+      "num": 114276,
+      "word": "王楚钦展望十五运",
+      "onboard_time": 1761569661,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 10580,

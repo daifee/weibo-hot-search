@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761565149852,
+  "endTime": 1761569703296,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -177,6 +177,14 @@
       "onboard_time": 1761534261,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1076968,
+      "num": 175753,
+      "word": "女子徒步误将蛇窝当野生蹦床",
+      "onboard_time": 1761563600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1075117,
@@ -459,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 672993,
+      "num": 1107678,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 671372,
       "num": 671372,
       "word": "暴雪大雪暴雨要来了",
@@ -635,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 571170,
-      "num": 571170,
-      "word": "市监局确认酸菜生产乱象属实",
-      "onboard_time": 1761561021,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 566041,
       "num": 195728,
       "word": "成毅直播假吃冰棍",
@@ -737,6 +745,14 @@
       "onboard_time": 1761548121,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 520181,
+      "num": 175485,
+      "word": "嘉行传媒否认与迪丽热巴切割",
+      "onboard_time": 1761565642,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 520129,
@@ -859,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 467460,
+      "num": 467460,
+      "word": "西部航空道歉",
+      "onboard_time": 1761564380,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465863,
       "num": 465863,
       "word": "中美双方形成初步共识",
@@ -961,6 +985,14 @@
       "onboard_time": 1761546740,
       "rank": 25,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 419495,
+      "num": 419495,
+      "word": "地球超新鲜2原班人马回归",
+      "onboard_time": 1761567380,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 419143,
@@ -1147,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 353706,
+      "num": 175111,
+      "word": "易烊千玺回应参加补办毕业典礼",
+      "onboard_time": 1761561798,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353194,
       "num": 251030,
       "word": "音综选手每晚吃柚子瘦了60斤",
@@ -1164,7 +1204,7 @@
     },
     {
       "raw_hot": 349442,
-      "num": 168453,
+      "num": 174596,
       "word": "佘诗曼谈许绍雄身体状况落泪",
       "onboard_time": 1761561741,
       "rank": 42,
@@ -1211,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338652,
+      "num": 174124,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 337821,
       "num": 337821,
       "word": "普京又催生",
@@ -1219,12 +1267,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 329343,
-      "num": 168362,
-      "word": "女子徒步误将蛇窝当野生蹦床",
-      "onboard_time": 1761563600,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 327606,
+      "num": 174839,
+      "word": "刘亦菲的白VS欧美的白",
+      "onboard_time": 1761564080,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 325385,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1761543321,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302382,
+      "num": 174793,
+      "word": "教体局回应50名小学生集体不上课",
+      "onboard_time": 1761565521,
+      "rank": 17,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 300287,
@@ -1529,14 +1585,6 @@
       "onboard_time": 1761530662,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252327,
-      "num": 166257,
-      "word": "刘亦菲的白VS欧美的白",
-      "onboard_time": 1761564080,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 249962,
@@ -1785,14 +1833,6 @@
       "onboard_time": 1761449600,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214761,
-      "num": 165130,
-      "word": "易烊千玺回应参加补办毕业典礼",
-      "onboard_time": 1761561798,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 214328,
@@ -2075,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196871,
+      "num": 196871,
+      "word": "敖瑞鹏这次录跑男跑不了了",
+      "onboard_time": 1761561620,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196446,
       "num": 167968,
       "word": "A股",
@@ -2219,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190107,
-      "num": 190107,
-      "word": "敖瑞鹏这次录跑男跑不了了",
-      "onboard_time": 1761561620,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190082,
       "num": 190082,
       "word": "王一博官宣探索新境2",
@@ -2328,6 +2368,14 @@
       "word": "iPhone18发布或推迟",
       "onboard_time": 1761548601,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 183957,
+      "num": 183957,
+      "word": "一加15价格",
+      "onboard_time": 1761569001,
+      "rank": 7,
       "category": "数码"
     },
     {
@@ -2435,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177420,
+      "num": 177420,
+      "word": "刘诗诗新剧美我一跳更吓我一跳",
+      "onboard_time": 1761565822,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176815,
       "num": 176815,
       "word": "夏以昼好帅",
@@ -2457,6 +2513,14 @@
       "onboard_time": 1761561561,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "外交部回应美军机南海坠毁",
+      "onboard_time": 1761562041,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174787,
@@ -2487,6 +2551,14 @@
       "num": 174082,
       "word": "彭小苒新剧卧榻躺听取妈声一片",
       "onboard_time": 1761447860,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173926,
+      "num": 173926,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
       "rank": 23,
       "category": "剧集"
     },
@@ -2715,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162071,
+      "num": 162071,
+      "word": "坏了对黄景瑜有刻板印象了",
+      "onboard_time": 1761568643,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161726,
       "num": 161726,
       "word": "鞠婧祎全新高定首穿",
@@ -2833,6 +2913,14 @@
       "onboard_time": 1761533541,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "钎城 期待我们的下一个十年",
+      "onboard_time": 1761569001,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 159195,
@@ -3123,6 +3211,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "王权富贵A爆了",
+      "onboard_time": 1761567802,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148600,
       "num": 148600,
       "word": "李一桐也没放过李荣浩",
@@ -3257,14 +3353,6 @@
       "onboard_time": 1761452721,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 144877,
-      "num": 171630,
-      "word": "外交部回应美军机南海坠毁",
-      "onboard_time": 1761562041,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144775,
@@ -3683,6 +3771,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133342,
+      "num": 133342,
+      "word": "骄阳似我冬偶",
+      "onboard_time": 1761567982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133150,
+      "num": 133150,
+      "word": "最佳睡眠怎么从10小时变7小时了",
+      "onboard_time": 1761566601,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 132870,
       "num": 132870,
       "word": "墨迹天气",
@@ -3899,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128063,
+      "num": 128063,
+      "word": "你好种地少年直播",
+      "onboard_time": 1761569661,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127758,
       "num": 127758,
       "word": "多名好友现身医院看望许绍雄",
@@ -3945,6 +4057,14 @@
       "onboard_time": 1761552561,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127027,
+      "num": 127027,
+      "word": "谭松韵刘学义新剧天崩开局",
+      "onboard_time": 1761567442,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126318,
@@ -4235,12 +4355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119442,
+      "num": 119442,
+      "word": "左雾曝Scout还清GALA欠款",
+      "onboard_time": 1761565401,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119072,
       "num": 119072,
       "word": "印度承认中国PL15E是款好武器",
       "onboard_time": 1761476600,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119017,
+      "num": 119017,
+      "word": "女子38克金手镯被弟媳调包",
+      "onboard_time": 1761566661,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118782,
@@ -4339,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116233,
+      "num": 116233,
+      "word": "小落关系户美了美了",
+      "onboard_time": 1761567261,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115638,
       "num": 196023,
       "word": "八段锦跟练视频教程",
@@ -4419,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112550,
+      "num": 112550,
+      "word": "张远一下班就去了孙燕姿演唱会",
+      "onboard_time": 1761569181,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112397,
       "num": 112397,
       "word": "马立奥知道妈妈怀孕后的反应",
@@ -4441,6 +4593,14 @@
       "onboard_time": 1761456799,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112045,
+      "num": 112045,
+      "word": "一加15",
+      "onboard_time": 1761566061,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 111938,
@@ -4635,6 +4795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106610,
+      "num": 106610,
+      "word": "李一桐 好多妈妈",
+      "onboard_time": 1761569421,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106568,
       "num": 106568,
       "word": "马思纯 一个顶好的人",
@@ -4673,6 +4841,14 @@
       "onboard_time": 1761452780,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106006,
+      "num": 106006,
+      "word": "Deft送别EDG队宠",
+      "onboard_time": 1761566962,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 105907,
@@ -4843,6 +5019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101585,
+      "num": 122338,
+      "word": "孩子考10分遭父亲板凳砸头",
+      "onboard_time": 1761563061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101550,
       "num": 196238,
       "word": "范丞丞cos绿巨人",
@@ -4889,6 +5073,14 @@
       "onboard_time": 1761445521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100606,
+      "num": 100606,
+      "word": "李沁不愿看到你流泪的眼睛",
+      "onboard_time": 1761567320,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 100413,
@@ -5008,6 +5200,14 @@
       "word": "曹格儿子joe祝贝儿生日快乐",
       "onboard_time": 1761558080,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97739,
+      "num": 116363,
+      "word": "偶遇曾辉韩雨彤牵手逛街",
+      "onboard_time": 1761568522,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -5323,14 +5523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87312,
-      "num": 108460,
-      "word": "西部航空道歉",
-      "onboard_time": 1761564380,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86756,
       "num": 86756,
       "word": "徐明浩Wonderland中英单人首封",
@@ -5481,6 +5673,14 @@
       "onboard_time": 1761469460,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81143,
+      "num": 174445,
+      "word": "外骨骼送快递能不能全国推广",
+      "onboard_time": 1761567501,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81113,
@@ -6131,14 +6331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46755,
-      "num": 122338,
-      "word": "孩子考10分遭父亲板凳砸头",
-      "onboard_time": 1761563061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46172,
       "num": 52932,
       "word": "一个永远不会得罪人的方法",
@@ -6216,6 +6408,14 @@
       "word": "未来五年的重点任务",
       "onboard_time": 1761400643,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42600,
+      "num": 116271,
+      "word": "王毅同美国国务卿鲁比奥通电话",
+      "onboard_time": 1761569661,
+      "rank": 40,
       "category": "国内时政"
     },
     {
@@ -6665,6 +6865,14 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10672,
+      "num": 114276,
+      "word": "王楚钦展望十五运",
+      "onboard_time": 1761569661,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 10378,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761569703296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 672993,
+        "num": 1107678,
+        "word": "市监局确认酸菜生产乱象属实",
+        "onboard_time": 1761561021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467460,
+        "num": 467460,
+        "word": "西部航空道歉",
+        "onboard_time": 1761564380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3469,
+        "num": 438546,
+        "word": "你好十五五",
+        "onboard_time": 1761468140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419495,
+        "num": 419495,
+        "word": "地球超新鲜2原班人马回归",
+        "onboard_time": 1761567380,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325543,
+        "num": 325543,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244393,
+        "num": 244393,
+        "word": "多地涨工资落地",
+        "onboard_time": 1761560000,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196871,
+        "num": 196871,
+        "word": "敖瑞鹏这次录跑男跑不了了",
+        "onboard_time": 1761561620,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183957,
+        "num": 183957,
+        "word": "一加15价格",
+        "onboard_time": 1761569001,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177420,
+        "num": 177420,
+        "word": "刘诗诗新剧美我一跳更吓我一跳",
+        "onboard_time": 1761565822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "外交部回应美军机南海坠毁",
+        "onboard_time": 1761562041,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1076968,
+        "num": 175753,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820103,
+        "num": 175729,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520181,
+        "num": 175485,
+        "word": "嘉行传媒否认与迪丽热巴切割",
+        "onboard_time": 1761565642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399612,
+        "num": 175409,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353989,
+        "num": 175148,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353706,
+        "num": 175111,
+        "word": "易烊千玺回应参加补办毕业典礼",
+        "onboard_time": 1761561798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327606,
+        "num": 174839,
+        "word": "刘亦菲的白VS欧美的白",
+        "onboard_time": 1761564080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302382,
+        "num": 174793,
+        "word": "教体局回应50名小学生集体不上课",
+        "onboard_time": 1761565521,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 295074,
+        "num": 174596,
+        "word": "佘诗曼谈许绍雄身体状况落泪",
+        "onboard_time": 1761561741,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81143,
+        "num": 174445,
+        "word": "外骨骼送快递能不能全国推广",
+        "onboard_time": 1761567501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706307,
+        "num": 174315,
+        "word": "九尾 杨幂你等等我的lsh",
+        "onboard_time": 1761561021,
+        "rank": 20,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 338652,
+        "num": 174124,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306962,
+        "num": 173963,
+        "word": "花少7吃完火锅收拾了吗",
+        "onboard_time": 1761553879,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173926,
+        "num": 173926,
+        "word": "内娱三搭cp的含金量",
+        "onboard_time": 1761568041,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163435,
+        "num": 163435,
+        "word": "长大才意识到父母想要什么礼物",
+        "onboard_time": 1761556281,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 162071,
+        "num": 162071,
+        "word": "坏了对黄景瑜有刻板印象了",
+        "onboard_time": 1761568643,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159335,
+        "num": 159335,
+        "word": "钎城 期待我们的下一个十年",
+        "onboard_time": 1761569001,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "王权富贵A爆了",
+        "onboard_time": 1761567802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "何炅 杨幂你话筒拿了吗",
+        "onboard_time": 1761556281,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 133342,
+        "num": 133342,
+        "word": "骄阳似我冬偶",
+        "onboard_time": 1761567982,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140515,
+        "num": 133250,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133150,
+        "num": 133150,
+        "word": "最佳睡眠怎么从10小时变7小时了",
+        "onboard_time": 1761566601,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 128063,
+        "num": 128063,
+        "word": "你好种地少年直播",
+        "onboard_time": 1761569661,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 127027,
+        "word": "谭松韵刘学义新剧天崩开局",
+        "onboard_time": 1761567442,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120366,
+        "num": 120366,
+        "word": "在冷地方待久了鼻子的变化",
+        "onboard_time": 1761557721,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119735,
+        "num": 119735,
+        "word": "你以为的多囊vs实际上的多囊",
+        "onboard_time": 1761563240,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119442,
+        "num": 119442,
+        "word": "左雾曝Scout还清GALA欠款",
+        "onboard_time": 1761565401,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119017,
+        "num": 119017,
+        "word": "女子38克金手镯被弟媳调包",
+        "onboard_time": 1761566661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84887,
+        "num": 117359,
+        "word": "春秋航空开招已婚已育空嫂",
+        "onboard_time": 1761550223,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97739,
+        "num": 116363,
+        "word": "偶遇曾辉韩雨彤牵手逛街",
+        "onboard_time": 1761568522,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42600,
+        "num": 116271,
+        "word": "王毅同美国国务卿鲁比奥通电话",
+        "onboard_time": 1761569661,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116233,
+        "num": 116233,
+        "word": "小落关系户美了美了",
+        "onboard_time": 1761567261,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10672,
+        "num": 114276,
+        "word": "王楚钦展望十五运",
+        "onboard_time": 1761569661,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 112550,
+        "word": "张远一下班就去了孙燕姿演唱会",
+        "onboard_time": 1761569181,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112045,
+        "num": 112045,
+        "word": "一加15",
+        "onboard_time": 1761566061,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106610,
+        "num": 106610,
+        "word": "李一桐 好多妈妈",
+        "onboard_time": 1761569421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106006,
+        "num": 106006,
+        "word": "Deft送别EDG队宠",
+        "onboard_time": 1761566962,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101585,
+        "num": 101585,
+        "word": "孩子考10分遭父亲板凳砸头",
+        "onboard_time": 1761563061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100606,
+        "num": 100606,
+        "word": "李沁不愿看到你流泪的眼睛",
+        "onboard_time": 1761567320,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96027,
+        "num": 96027,
+        "word": "王楚然玩白鹿的辫子",
+        "onboard_time": 1761564261,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席生动阐释亚太合作#"
+    }
+  }
+}
