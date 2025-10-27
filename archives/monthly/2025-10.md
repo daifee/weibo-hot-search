@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 14:55:38
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 15:26:28
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ VOGUE晚宴（热度：1147348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C%23" target="weibo">
+张居正官宣胡歌（热度：1143150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E5%98%B4%20%E5%8F%A3%E8%85%94%E7%99%8C%23" target="weibo">
 咬嘴 口腔癌（热度：1142464）
 </a>
@@ -2087,12 +2093,6 @@ ELLE全阵容官宣（热度：1058138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%20%E6%88%91%E6%9C%89%E4%B8%80%E5%84%BF%E4%B8%80%E5%A5%B3%E4%B8%A4%E5%8F%AA%E7%8C%AB%23" target="weibo">
 胡先煦 我有一儿一女两只猫（热度：1019235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C%23" target="weibo">
-张居正官宣胡歌（热度：1019179）
 </a>
 </li>
 
@@ -5913,6 +5913,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E5%AE%98%E5%AE%A3%E5%90%B4%E7%A3%8A%23" target="weibo">
+剑来官宣吴磊（热度：571203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%99%E5%AD%A9%E5%AD%90%E5%8F%96%E5%90%8D%E8%B7%9F%E5%86%99%E5%B0%8F%E8%AF%B4%E4%B8%80%E6%A0%B7%23" target="weibo">
 姜潮麦迪娜给孩子取名跟写小说一样（热度：570913）
 </a>
@@ -6005,12 +6011,6 @@ BLG签运（热度：565641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BC%8A%E4%BA%BA%E5%8E%BB%E4%BA%91%E5%8D%97%E4%BA%86%23" target="weibo">
 宋伊人去云南了（热度：564028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23hi6%23" target="weibo">
-hi6（热度：563954）
 </a>
 </li>
 

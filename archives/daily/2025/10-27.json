@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761548138336,
+  "endTime": 1761549988510,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -59,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1143150,
+      "num": 1182904,
+      "word": "张居正官宣胡歌",
+      "onboard_time": 1761545900,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1104563,
       "num": 1176730,
       "word": "恋与深空新PV",
@@ -73,14 +81,6 @@
       "onboard_time": 1761534861,
       "rank": 4,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1019179,
-      "num": 1019179,
-      "word": "张居正官宣胡歌",
-      "onboard_time": 1761545900,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 996079,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571203,
+      "num": 305183,
+      "word": "剑来官宣吴磊",
+      "onboard_time": 1761545001,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563457,
       "num": 563457,
       "word": "当地就招聘岗位疑似萝卜岗致歉",
@@ -243,6 +251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 552954,
+      "num": 229560,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1761547700,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 550050,
       "num": 410797,
       "word": "迪丽热巴抱迪丽热巴",
@@ -251,16 +267,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 493457,
-      "num": 287898,
-      "word": "剑来官宣吴磊",
-      "onboard_time": 1761545001,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 490255,
-      "num": 219454,
+      "num": 225705,
       "word": "何赛飞给张柏芝道歉",
       "onboard_time": 1761547520,
       "rank": 10,
@@ -273,6 +281,14 @@
       "onboard_time": 1761535341,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475823,
+      "num": 200577,
+      "word": "印度女医生遭警察多次性侵绝望自杀",
+      "onboard_time": 1761548121,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 456398,
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363781,
+      "num": 224603,
+      "word": "曝许绍雄病危入院",
+      "onboard_time": 1761548902,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362882,
       "num": 257434,
       "word": "白鹿 恰逢雨连天",
@@ -377,6 +401,14 @@
       "onboard_time": 1761527720,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346770,
+      "num": 220804,
+      "word": "刘亦菲朱一龙聚餐",
+      "onboard_time": 1761548661,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339914,
@@ -411,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326914,
+      "num": 326914,
+      "word": "姚润昊退出上海叠纸科技公司",
+      "onboard_time": 1761546740,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
       "onboard_time": 1761479121,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303168,
+      "num": 218270,
+      "word": "田曦薇 好多漂亮女孩和男人",
+      "onboard_time": 1761543321,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 299713,
@@ -475,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 257965,
+      "num": 257965,
+      "word": "张本智和笑不出来一点",
+      "onboard_time": 1761545960,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257841,
       "num": 257841,
       "word": "小S说谁那么会生啦",
@@ -505,14 +561,6 @@
       "onboard_time": 1761491183,
       "rank": 5,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 248327,
-      "num": 218270,
-      "word": "田曦薇 好多漂亮女孩和男人",
-      "onboard_time": 1761543321,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 246682,
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231541,
+      "num": 201140,
+      "word": "雪中悍刀行2",
+      "onboard_time": 1761538761,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227235,
       "num": 227235,
       "word": "普通女生化妆最有效果的一步",
@@ -601,22 +657,6 @@
       "onboard_time": 1761539722,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219516,
-      "num": 219516,
-      "word": "张本智和笑不出来一点",
-      "onboard_time": 1761545960,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217512,
-      "num": 217512,
-      "word": "姚润昊退出上海叠纸科技公司",
-      "onboard_time": 1761546740,
-      "rank": 25,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 214199,
@@ -675,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201140,
-      "num": 201140,
-      "word": "雪中悍刀行2",
-      "onboard_time": 1761538761,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200086,
       "num": 200086,
       "word": "孙颖莎光不只是照亮前方",
@@ -696,6 +728,14 @@
       "word": "龚俊第一个刑侦男主剧",
       "onboard_time": 1761546501,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196928,
+      "num": 196928,
+      "word": "杨紫玉兰花开君再来人设",
+      "onboard_time": 1761549140,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -779,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184407,
+      "num": 184407,
+      "word": "iPhone18发布或推迟",
+      "onboard_time": 1761548601,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183118,
       "num": 159368,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
@@ -795,20 +843,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178935,
+      "num": 184890,
+      "word": "杨瀚森NBA得分追平孙悦",
+      "onboard_time": 1761548421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178487,
+      "num": 157827,
+      "word": "江浙沪父母的含金量还在上升",
+      "onboard_time": 1761548902,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178449,
+      "num": 158984,
+      "word": "这些症状是病了不是老了",
+      "onboard_time": 1761549623,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176815,
       "num": 176815,
       "word": "夏以昼好帅",
       "onboard_time": 1761539841,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175619,
-      "num": 175619,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1761547700,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 171036,
@@ -825,6 +889,14 @@
       "onboard_time": 1761520039,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170834,
+      "num": 157151,
+      "word": "3女孩将房住包浆或为任性付出代价",
+      "onboard_time": 1761545121,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169735,
@@ -867,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166379,
+      "num": 166379,
+      "word": "关晓彤友情出演",
+      "onboard_time": 1761547760,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165496,
       "num": 165496,
       "word": "有厌食症的留子回国后",
@@ -881,6 +961,14 @@
       "onboard_time": 1761540261,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163650,
+      "num": 163650,
+      "word": "慕胥辞",
+      "onboard_time": 1761548001,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 161726,
@@ -955,22 +1043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154615,
-      "num": 154615,
-      "word": "关晓彤友情出演",
-      "onboard_time": 1761547760,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 154221,
-      "num": 154221,
-      "word": "3女孩将房住包浆或为任性付出代价",
-      "onboard_time": 1761545121,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "湖人战胜国王",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1761490402,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150169,
+      "num": 150169,
+      "word": "马頔南山南梗把内娱养得很好",
+      "onboard_time": 1761549320,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148600,
@@ -1187,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133726,
+      "num": 133726,
+      "word": "杨紫玉兰花开君再来开启商业传奇",
+      "onboard_time": 1761549681,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133493,
       "num": 133493,
       "word": "坠入南海美军机单价超F35",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1761534443,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132403,
+      "num": 132403,
+      "word": "男子交百万给女友保管女子全花脸上",
+      "onboard_time": 1761544040,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131632,
@@ -1235,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130178,
+      "num": 130178,
+      "word": "人在什么时候是最轻松的",
+      "onboard_time": 1761548300,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129791,
       "num": 129791,
       "word": "星品影响力",
@@ -1249,14 +1353,6 @@
       "onboard_time": 1761531321,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128418,
-      "num": 128418,
-      "word": "男子交百万给女友保管女子全花脸上",
-      "onboard_time": 1761544040,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127730,
@@ -1315,14 +1411,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 121167,
-      "num": 121167,
-      "word": "印度女医生遭警察多次性侵绝望自杀",
-      "onboard_time": 1761548121,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120898,
       "num": 120898,
       "word": "金价十周以来首周下跌",
@@ -1355,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119466,
+      "num": 119466,
+      "word": "敖瑞鹏奔跑吧卷毛路透",
+      "onboard_time": 1761549801,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119376,
       "num": 119376,
       "word": "单依纯妆造",
@@ -1368,14 +1464,6 @@
       "word": "玉簟秋",
       "onboard_time": 1761484520,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 119185,
-      "num": 119185,
-      "word": "慕胥辞",
-      "onboard_time": 1761548001,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1579,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96856,
+      "num": 206328,
+      "word": "爱生娃的十大省份",
+      "onboard_time": 1761549022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96616,
       "num": 150871,
       "word": "杨瀚森人气客场变主场",
@@ -1641,6 +1737,14 @@
       "onboard_time": 1761527061,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82642,
+      "num": 161467,
+      "word": "1部手机3个月在义乌闯出一条路",
+      "onboard_time": 1761547281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81638,
@@ -1720,14 +1824,6 @@
       "word": "卫生巾新国标已通过审查正在批准",
       "onboard_time": 1761493521,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75845,
-      "num": 154685,
-      "word": "1部手机3个月在义乌闯出一条路",
-      "onboard_time": 1761547281,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1939,6 +2035,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 49235,
+      "num": 204314,
+      "word": "妈妈是孩子的王牌引路人",
+      "onboard_time": 1761548661,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46172,
       "num": 52932,
       "word": "一个永远不会得罪人的方法",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1761497479,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42310,
+      "num": 119643,
+      "word": "S15瑞士轮数据",
+      "onboard_time": 1761548241,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 40337,
@@ -2059,6 +2171,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 18745,
+      "num": 138034,
+      "word": "王者荣耀嘉年华方圆大乔造型",
+      "onboard_time": 1761549442,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15372,
       "num": 20076,
       "word": "3800年前的差评留言",
@@ -2081,6 +2201,14 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14208,
+      "num": 137935,
+      "word": "杜海涛和傅永琪留学时同班",
+      "onboard_time": 1761549623,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 6942,

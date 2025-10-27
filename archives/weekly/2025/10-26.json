@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761548138336,
+  "endTime": 1761549988510,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1143150,
+      "num": 1182904,
+      "word": "张居正官宣胡歌",
+      "onboard_time": 1761545900,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1114184,
       "num": 236394,
       "word": "王者荣耀电话 诡异",
@@ -169,14 +177,6 @@
       "onboard_time": 1761534861,
       "rank": 4,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1019179,
-      "num": 1019179,
-      "word": "张居正官宣胡歌",
-      "onboard_time": 1761545900,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1017138,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571203,
+      "num": 305183,
+      "word": "剑来官宣吴磊",
+      "onboard_time": 1761545001,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566041,
       "num": 195728,
       "word": "成毅直播假吃冰棍",
@@ -561,6 +569,14 @@
       "onboard_time": 1761534261,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 552954,
+      "num": 229560,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1761547700,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 550050,
@@ -643,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 493457,
-      "num": 287898,
-      "word": "剑来官宣吴磊",
-      "onboard_time": 1761545001,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 491802,
       "num": 227626,
       "word": "欧盟主席气急败坏竟威胁中国",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 490255,
-      "num": 219454,
+      "num": 225705,
       "word": "何赛飞给张柏芝道歉",
       "onboard_time": 1761547520,
       "rank": 10,
@@ -704,6 +712,14 @@
       "word": "缅甸军方爆破KK园区内建筑",
       "onboard_time": 1761459079,
       "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 475823,
+      "num": 200577,
+      "word": "印度女医生遭警察多次性侵绝望自杀",
+      "onboard_time": 1761548121,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -931,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363781,
+      "num": 224603,
+      "word": "曝许绍雄病危入院",
+      "onboard_time": 1761548902,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362882,
       "num": 257434,
       "word": "白鹿 恰逢雨连天",
@@ -979,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346770,
+      "num": 220804,
+      "word": "刘亦菲朱一龙聚餐",
+      "onboard_time": 1761548661,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 343069,
       "num": 255209,
       "word": "刘亦菲VogueWorld官宣",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1761449479,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 326914,
+      "num": 326914,
+      "word": "姚润昊退出上海叠纸科技公司",
+      "onboard_time": 1761546740,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 325385,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1761476841,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303168,
+      "num": 218270,
+      "word": "田曦薇 好多漂亮女孩和男人",
+      "onboard_time": 1761543321,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 300287,
@@ -1267,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257965,
+      "num": 257965,
+      "word": "张本智和笑不出来一点",
+      "onboard_time": 1761545960,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257841,
       "num": 257841,
       "word": "小S说谁那么会生啦",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1761488721,
       "rank": 26,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 248327,
-      "num": 218270,
-      "word": "田曦薇 好多漂亮女孩和男人",
-      "onboard_time": 1761543321,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 247913,
@@ -1451,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231541,
+      "num": 201140,
+      "word": "雪中悍刀行2",
+      "onboard_time": 1761538761,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230654,
       "num": 230654,
       "word": "李昀锐某很幸福",
@@ -1513,22 +1569,6 @@
       "onboard_time": 1761539722,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219516,
-      "num": 219516,
-      "word": "张本智和笑不出来一点",
-      "onboard_time": 1761545960,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217512,
-      "num": 217512,
-      "word": "姚润昊退出上海叠纸科技公司",
-      "onboard_time": 1761546740,
-      "rank": 25,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 216571,
@@ -1747,14 +1787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201140,
-      "num": 201140,
-      "word": "雪中悍刀行2",
-      "onboard_time": 1761538761,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200530,
       "num": 138874,
       "word": "奥黛丽赫本之子在苏州胜诉",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1761491843,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196928,
+      "num": 196928,
+      "word": "杨紫玉兰花开君再来人设",
+      "onboard_time": 1761549140,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 196446,
@@ -1987,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184407,
+      "num": 184407,
+      "word": "iPhone18发布或推迟",
+      "onboard_time": 1761548601,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183173,
       "num": 183173,
       "word": "比泪失禁更尴尬的是笑失禁",
@@ -2035,12 +2083,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178935,
+      "num": 184890,
+      "word": "杨瀚森NBA得分追平孙悦",
+      "onboard_time": 1761548421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178807,
       "num": 178807,
       "word": "王者荣耀十周年",
       "onboard_time": 1761454040,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178487,
+      "num": 157827,
+      "word": "江浙沪父母的含金量还在上升",
+      "onboard_time": 1761548902,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178449,
+      "num": 158984,
+      "word": "这些症状是病了不是老了",
+      "onboard_time": 1761549623,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178339,
@@ -2065,14 +2137,6 @@
       "onboard_time": 1761458900,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175619,
-      "num": 175619,
-      "word": "杨清柠 王乐乐",
-      "onboard_time": 1761547700,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 174218,
@@ -2147,6 +2211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170834,
+      "num": 157151,
+      "word": "3女孩将房住包浆或为任性付出代价",
+      "onboard_time": 1761545121,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170758,
       "num": 261213,
       "word": "Bin 16强退役",
@@ -2203,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166379,
+      "num": 166379,
+      "word": "关晓彤友情出演",
+      "onboard_time": 1761547760,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165625,
       "num": 184994,
       "word": "敖瑞鹏跑男官宣",
@@ -2249,6 +2329,14 @@
       "onboard_time": 1761477501,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163650,
+      "num": 163650,
+      "word": "慕胥辞",
+      "onboard_time": 1761548001,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 161726,
@@ -2451,22 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154615,
-      "num": 154615,
-      "word": "关晓彤友情出演",
-      "onboard_time": 1761547760,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 154221,
-      "num": 154221,
-      "word": "3女孩将房住包浆或为任性付出代价",
-      "onboard_time": 1761545121,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "湖人战胜国王",
@@ -2593,6 +2665,14 @@
       "onboard_time": 1761451819,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150169,
+      "num": 150169,
+      "word": "马頔南山南梗把内娱养得很好",
+      "onboard_time": 1761549320,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 149762,
@@ -3083,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133726,
+      "num": 133726,
+      "word": "杨紫玉兰花开君再来开启商业传奇",
+      "onboard_time": 1761549681,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133694,
       "num": 139728,
       "word": "粉丝为张杰第200场包了35艘船",
@@ -3120,6 +3208,14 @@
       "word": "新疆放9天雪假不调休",
       "onboard_time": 1761465740,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132403,
+      "num": 132403,
+      "word": "男子交百万给女友保管女子全花脸上",
+      "onboard_time": 1761544040,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3203,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130178,
+      "num": 130178,
+      "word": "人在什么时候是最轻松的",
+      "onboard_time": 1761548300,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129933,
       "num": 196542,
       "word": "长期戴眼镜导致的面部变化",
@@ -3233,14 +3337,6 @@
       "onboard_time": 1761531321,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128418,
-      "num": 128418,
-      "word": "男子交百万给女友保管女子全花脸上",
-      "onboard_time": 1761544040,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128128,
@@ -3435,14 +3531,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 121167,
-      "num": 121167,
-      "word": "印度女医生遭警察多次性侵绝望自杀",
-      "onboard_time": 1761548121,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120898,
       "num": 120898,
       "word": "金价十周以来首周下跌",
@@ -3507,12 +3595,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 119185,
-      "num": 119185,
-      "word": "慕胥辞",
-      "onboard_time": 1761548001,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 119466,
+      "num": 119466,
+      "word": "敖瑞鹏奔跑吧卷毛路透",
+      "onboard_time": 1761549801,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119072,
@@ -4147,6 +4235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96856,
+      "num": 206328,
+      "word": "爱生娃的十大省份",
+      "onboard_time": 1761549022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96739,
       "num": 96739,
       "word": "当商家说遮瑕用之前要先激活",
@@ -4483,6 +4579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82642,
+      "num": 161467,
+      "word": "1部手机3个月在义乌闯出一条路",
+      "onboard_time": 1761547281,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82294,
       "num": 82294,
       "word": "第一巴图鲁正在研究宇宙",
@@ -4689,14 +4793,6 @@
       "onboard_time": 1761408501,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75845,
-      "num": 154685,
-      "word": "1部手机3个月在义乌闯出一条路",
-      "onboard_time": 1761547281,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74334,
@@ -5115,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49235,
+      "num": 204314,
+      "word": "妈妈是孩子的王牌引路人",
+      "onboard_time": 1761548661,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48456,
       "num": 167707,
       "word": "贷款炒金的黄金赌徒后悔了",
@@ -5209,6 +5313,14 @@
       "onboard_time": 1761400643,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42310,
+      "num": 119643,
+      "word": "S15瑞士轮数据",
+      "onboard_time": 1761548241,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 40382,
@@ -5507,6 +5619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18745,
+      "num": 138034,
+      "word": "王者荣耀嘉年华方圆大乔造型",
+      "onboard_time": 1761549442,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17946,
       "num": 29953,
       "word": "台湾省花莲县堰塞湖现状",
@@ -5545,6 +5665,14 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14208,
+      "num": 137935,
+      "word": "杜海涛和傅永琪留学时同班",
+      "onboard_time": 1761549623,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 13956,
