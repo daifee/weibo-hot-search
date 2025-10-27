@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 22:29:00
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 22:45:04
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
+为了不被裁员硅谷科技男扎堆做医美（热度：704751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%E5%AE%9A%E6%A1%A3%23" target="weibo">
 水龙吟定档（热度：704563）
 </a>
@@ -5571,12 +5577,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
-为了不被裁员硅谷科技男扎堆做医美（热度：601678）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%9F%E6%8A%8A%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%93%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%95%B4%23" target="weibo">
 日本人也把日本人当日本人整（热度：601038）
 </a>
@@ -6467,6 +6467,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E6%8C%81%E6%96%87%E7%89%A9%E5%B1%9E%E4%BA%8E%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E4%BA%BA%E6%B0%91%23%23" target="weibo">
 #坚持文物属于人民服务人民#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%B1%95%E8%A7%88%23%23" target="weibo">
+#习近平参观故宫博物院展览#
 </a>
 </li>
 
