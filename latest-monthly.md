@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 23:40:41
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 00:34:50
 </p>
 </blockquote>
 <p>
@@ -4725,6 +4725,12 @@ ELLE（热度：673195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B8%85%E6%9F%A0%23" target="weibo">
+杨清柠（热度：668082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%23" target="weibo">
 Bin（热度：667714）
 </a>
@@ -4799,6 +4805,12 @@ CFO爆冷战胜T1（热度：662519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E6%83%A8%E7%8A%B6%E5%83%8F%E5%B1%A0%E5%AE%B0%E5%9C%BA%23" target="weibo">
 医生说加沙医院惨状像屠宰场（热度：661486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
+店员提醒别摸蛋糕遭妈妈发视频避雷（热度：660701）
 </a>
 </li>
 
@@ -5043,6 +5055,12 @@ iPhone千万别这样充电了（热度：641037）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E7%94%9F%E8%A2%AB%E5%A5%B3%E5%90%8C%E5%AD%A6%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA%23" target="weibo">
+14岁男生被女同学击中左胸后瘫痪（热度：640965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%B4%E5%9C%BA%E5%8F%8D%E5%BA%94%23" target="weibo">
 刘亦菲临场反应（热度：640138）
 </a>
@@ -5057,12 +5075,6 @@ iPhone千万别这样充电了（热度：641037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E5%BA%9A%E5%B8%8C%23" target="weibo">
 素颜的刘浩存赵今麦李庚希（热度：640017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
-店员提醒别摸蛋糕遭妈妈发视频避雷（热度：638416）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
 骑手取走苹果17Promax后失联（热度：574503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92%23" target="weibo">
-卢浮宫馆长辞职被拒（热度：573725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%88%9A%E5%88%9A%E9%82%A3%E6%AE%B5%E5%88%A0%E6%8E%89%23" target="weibo">
-鹿晗刚刚那段删掉（热度：573706）
 </a>
 </li>
 

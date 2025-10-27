@@ -1,0 +1,411 @@
+{
+  "startTime": 1761582890976,
+  "endTime": 1761582890976,
+  "band_list": [
+    {
+      "raw_hot": 899892,
+      "num": 197850,
+      "word": "许绍雄",
+      "onboard_time": 1761571641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 725194,
+      "num": 852767,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 668082,
+      "num": 195991,
+      "word": "杨清柠",
+      "onboard_time": 1761580820,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 660701,
+      "num": 190509,
+      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+      "onboard_time": 1761577282,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640965,
+      "num": 187481,
+      "word": "14岁男生被女同学击中左胸后瘫痪",
+      "onboard_time": 1761582199,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491315,
+      "num": 182912,
+      "word": "杨幂 死嘴憋住",
+      "onboard_time": 1761577522,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 453674,
+      "num": 180223,
+      "word": "鹿晗ins发自拍",
+      "onboard_time": 1761577822,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356453,
+      "num": 176046,
+      "word": "黄磊微信名叫多妹弟爸",
+      "onboard_time": 1761561441,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346021,
+      "num": 172806,
+      "word": "女子徒步误将蛇窝当野生蹦床",
+      "onboard_time": 1761563600,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309782,
+      "num": 309782,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271569,
+      "num": 271569,
+      "word": "天地剑心第三",
+      "onboard_time": 1761578600,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229573,
+      "num": 229573,
+      "word": "31省份去年婚姻数据公布",
+      "onboard_time": 1761576924,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224403,
+      "num": 224403,
+      "word": "00后用打印机造假币",
+      "onboard_time": 1761576924,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210523,
+      "num": 210523,
+      "word": "桃花坞6只留一个人就是孟子义",
+      "onboard_time": 1761575003,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201109,
+      "num": 129064,
+      "word": "特朗普谈美军机南海坠毁原因",
+      "onboard_time": 1761575782,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 171822,
+      "num": 171822,
+      "word": "李木戈带着景甜张彬彬又杀回内娱",
+      "onboard_time": 1761575063,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147822,
+      "num": 147822,
+      "word": "一年都卖不掉的货一晚上全卖了",
+      "onboard_time": 1761558501,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141982,
+      "num": 141982,
+      "word": "王乐乐杨清柠合照",
+      "onboard_time": 1761571881,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 132910,
+      "num": 132910,
+      "word": "为了不被裁员硅谷科技男扎堆做医美",
+      "onboard_time": 1761573083,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123815,
+      "num": 123815,
+      "word": "王楚钦把爆冷款穿成了爆款",
+      "onboard_time": 1761578841,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113114,
+      "num": 113114,
+      "word": "肖战宣传舒淇电影",
+      "onboard_time": 1761579620,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 106580,
+      "num": 106580,
+      "word": "许绍雄还未苏醒",
+      "onboard_time": 1761571041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100311,
+      "num": 208838,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96959,
+      "num": 206290,
+      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+      "onboard_time": 1761573263,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95700,
+      "num": 202826,
+      "word": "个人征信将可修复",
+      "onboard_time": 1761579620,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 95306,
+      "num": 106559,
+      "word": "奔跑吧五颜六色的头发",
+      "onboard_time": 1761578781,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92462,
+      "num": 106482,
+      "word": "九尾 杨幂你等等我的lsh",
+      "onboard_time": 1761561021,
+      "rank": 27,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 86528,
+      "num": 106291,
+      "word": "熊孩子误吞10克金豆6天后排出",
+      "onboard_time": 1761578122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81063,
+      "num": 106247,
+      "word": "官方通报男子酸菜池中抽烟吐痰",
+      "onboard_time": 1761576741,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 76509,
+      "num": 106150,
+      "word": "内娱男艺人都防着黄景瑜",
+      "onboard_time": 1761570741,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73389,
+      "num": 106124,
+      "word": "警方通报烈性犬撕咬小猫",
+      "onboard_time": 1761570801,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70343,
+      "num": 106446,
+      "word": "王权富贵A爆了",
+      "onboard_time": 1761567802,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66866,
+      "num": 106370,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65365,
+      "num": 106044,
+      "word": "暗河传",
+      "onboard_time": 1761581839,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64106,
+      "num": 106007,
+      "word": "地球超新鲜2原班人马回归",
+      "onboard_time": 1761567380,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63347,
+      "num": 105948,
+      "word": "嘉行传媒否认与迪丽热巴切割",
+      "onboard_time": 1761565642,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60624,
+      "num": 105842,
+      "word": "黄宗泽到院探望许绍雄",
+      "onboard_time": 1761569962,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57992,
+      "num": 105786,
+      "word": "把吃完的橘子皮变成天然香薰",
+      "onboard_time": 1761580880,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 57243,
+      "num": 105696,
+      "word": "辛芷蕾封后后首部电视剧",
+      "onboard_time": 1761575362,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57158,
+      "num": 105736,
+      "word": "个人信用救济政策",
+      "onboard_time": 1761570622,
+      "rank": 39,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 56820,
+      "num": 105592,
+      "word": "张晚意 也没说花少有两个晚情啊",
+      "onboard_time": 1761578063,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56636,
+      "num": 105545,
+      "word": "曝许绍雄病危入院",
+      "onboard_time": 1761548902,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56476,
+      "num": 105474,
+      "word": "现货黄金失守4000美元",
+      "onboard_time": 1761576203,
+      "rank": 43,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 54980,
+      "num": 105454,
+      "word": "偶遇曾辉韩雨彤牵手逛街",
+      "onboard_time": 1761568522,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49535,
+      "num": 105372,
+      "word": "2025已过300天了",
+      "onboard_time": 1761582259,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48370,
+      "num": 105328,
+      "word": "呼吸道合胞病毒感染进入高发期",
+      "onboard_time": 1761575483,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46099,
+      "num": 105274,
+      "word": "12000多人次搜山44小时找寻走失女童",
+      "onboard_time": 1761577462,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43677,
+      "num": 105164,
+      "word": "研究实施一次性的个人信用救济政策",
+      "onboard_time": 1761572483,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 43114,
+      "num": 105150,
+      "word": "这些小事正在偷走你的气血",
+      "onboard_time": 1761571581,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19118,
+      "num": 273660,
+      "word": "北京大视听的春天很美丽",
+      "onboard_time": 1761572483,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  ]
+}
