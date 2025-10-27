@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761521873735,
+  "endTime": 1761530659794,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -83,6 +83,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1149391,
+      "num": 1183902,
+      "word": "2架美军机在南海相继坠毁",
+      "onboard_time": 1761525861,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1139194,
+      "num": 276539,
+      "word": "陈粒演出时耳机爆炸",
+      "onboard_time": 1761521661,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1114184,
       "num": 236394,
       "word": "王者荣耀电话 诡异",
@@ -129,6 +145,14 @@
       "onboard_time": 1761469341,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924717,
+      "num": 218861,
+      "word": "曾经爆火现在几乎没人喝的奶茶",
+      "onboard_time": 1761526101,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 898862,
@@ -243,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 671372,
+      "num": 671372,
+      "word": "暴雪大雪暴雨要来了",
+      "onboard_time": 1761523280,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 669600,
       "num": 246919,
       "word": "台湾豪宅双尸案",
@@ -257,6 +289,14 @@
       "onboard_time": 1761408681,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 647034,
+      "num": 216669,
+      "word": "杨清柠王乐乐同框",
+      "onboard_time": 1761527960,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 644370,
@@ -387,6 +427,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 544812,
+      "num": 215312,
+      "word": "世界第一美少年去世",
+      "onboard_time": 1761529641,
+      "rank": 12,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 542875,
       "num": 366270,
       "word": "单依纯妆造",
@@ -417,6 +465,14 @@
       "onboard_time": 1761481401,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514184,
+      "num": 514184,
+      "word": "南海",
+      "onboard_time": 1761527061,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 511641,
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 405917,
-      "num": 196260,
+      "num": 214069,
       "word": "大二学生家中看色情片窒息而亡",
       "onboard_time": 1761489742,
       "rank": 36,
@@ -609,6 +665,14 @@
       "onboard_time": 1761400461,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 388152,
+      "num": 261593,
+      "word": "尚公主",
+      "onboard_time": 1761528921,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 381669,
@@ -667,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355280,
+      "num": 233805,
+      "word": "奔跑吧直播",
+      "onboard_time": 1761527720,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354481,
       "num": 292708,
       "word": "李在明称电诈组织碰韩国人必死",
@@ -705,6 +777,14 @@
       "onboard_time": 1761482181,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339914,
+      "num": 209042,
+      "word": "开始推理吧4",
+      "onboard_time": 1761525442,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 337821,
@@ -843,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288342,
+      "num": 288342,
+      "word": "西贝闭麦后又开始排队了",
+      "onboard_time": 1761528322,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287812,
       "num": 287812,
       "word": "2025共创之夜节目单",
@@ -892,7 +980,7 @@
     },
     {
       "raw_hot": 277805,
-      "num": 109120,
+      "num": 199931,
       "word": "每天只睡6小时的受害者出现了",
       "onboard_time": 1761499516,
       "rank": 23,
@@ -979,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243129,
+      "num": 208381,
+      "word": "瓶子 抢话",
+      "onboard_time": 1761524122,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240362,
       "num": 240362,
       "word": "千灯之约",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1761450022,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238408,
+      "num": 205906,
+      "word": "白鹿 恰逢雨连天",
+      "onboard_time": 1761529100,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 236045,
@@ -1547,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171033,
+      "num": 171033,
+      "word": "英国律师结束刑事法庭戴假发传统",
+      "onboard_time": 1761520039,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170758,
       "num": 261213,
       "word": "Bin 16强退役",
@@ -1763,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153610,
+      "num": 153610,
+      "word": "有厌食症的留子回国后",
+      "onboard_time": 1761527661,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "太奶奶3开播追剧团",
@@ -1923,6 +2043,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143838,
+      "num": 143838,
+      "word": "爬楼救完人男子手发抖",
+      "onboard_time": 1761526642,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 143109,
+      "num": 143109,
+      "word": "王者荣耀六耳",
+      "onboard_time": 1761529820,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142092,
       "num": 142092,
       "word": "王耀庆cos英雄亚瑟",
@@ -2057,6 +2193,14 @@
       "onboard_time": 1761464000,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137969,
+      "num": 137969,
+      "word": "黄金",
+      "onboard_time": 1761529041,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 137783,
@@ -2251,14 +2395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130954,
-      "num": 108774,
-      "word": "英国律师结束刑事法庭戴假发传统",
-      "onboard_time": 1761520039,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130677,
       "num": 130677,
       "word": "司徒岭下线",
@@ -2283,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129791,
+      "num": 129791,
+      "word": "星品影响力",
+      "onboard_time": 1761529700,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128896,
       "num": 128896,
       "word": "网传赵丽颖出演开盘",
@@ -2297,6 +2441,14 @@
       "onboard_time": 1761443359,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "中国冰壶女队全胜夺冠",
+      "onboard_time": 1761529280,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 127692,
@@ -2369,6 +2521,14 @@
       "onboard_time": 1761488003,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124386,
+      "num": 124386,
+      "word": "深夜送药无人接听骑手返店查药效",
+      "onboard_time": 1761526760,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 124011,
@@ -2459,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119879,
+      "num": 119879,
+      "word": "台湾网红馆长被粉丝礼物感动",
+      "onboard_time": 1761525799,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119724,
       "num": 196306,
       "word": "专家怀疑太阳系星际访客系航天器",
@@ -2529,6 +2697,22 @@
       "onboard_time": 1761439579,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113155,
+      "num": 113155,
+      "word": "那些能支撑你走很久的话",
+      "onboard_time": 1761528441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112874,
+      "num": 201952,
+      "word": "朱一龙闪耀好莱坞",
+      "onboard_time": 1761528322,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 112823,
@@ -2771,6 +2955,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105197,
+      "num": 105197,
+      "word": "郭宇欣演过承欢记",
+      "onboard_time": 1761530421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104640,
+      "num": 104640,
+      "word": "盲人脱口秀演员谈深圳机场被吐槽",
+      "onboard_time": 1761524601,
+      "rank": 35,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 104394,
       "num": 118953,
       "word": "德国爆破国内最强大核电站",
@@ -2793,6 +2993,14 @@
       "onboard_time": 1761440778,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103976,
+      "num": 103976,
+      "word": "龚俊回复彭小苒",
+      "onboard_time": 1761530061,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 103954,
@@ -2819,12 +3027,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102957,
+      "num": 102957,
+      "word": "2025第300天",
+      "onboard_time": 1761527001,
+      "rank": 39,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 102823,
+      "num": 102823,
+      "word": "亚马尔约架",
+      "onboard_time": 1761523460,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102650,
       "num": 102650,
       "word": "当小狗发现主人晚起了半小时",
       "onboard_time": 1761453678,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101952,
+      "num": 102859,
+      "word": "曹颖自曝因过量喝咖啡患焦虑症",
+      "onboard_time": 1761522801,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 101928,
@@ -2897,6 +3129,14 @@
       "onboard_time": 1761470060,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99609,
+      "num": 99609,
+      "word": "郑国霖承认缺钱但会努力",
+      "onboard_time": 1761525262,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 99369,
@@ -3003,12 +3243,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94700,
+      "num": 94700,
+      "word": "阿里前CEO张勇购入香港半山豪宅",
+      "onboard_time": 1761525320,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94570,
       "num": 146853,
       "word": "张杰青岛哽咽感谢星星",
       "onboard_time": 1761488843,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94521,
+      "num": 94521,
+      "word": "金饰克价一夜猛跌17元",
+      "onboard_time": 1761530481,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 94114,
@@ -3035,14 +3291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92983,
-      "num": 92983,
-      "word": "陈粒演出时耳机爆炸",
-      "onboard_time": 1761521661,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 92974,
       "num": 118668,
       "word": "单依纯This is me",
@@ -3051,12 +3299,28 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 92824,
+      "num": 92824,
+      "word": "云贵川体制内5元吃什么",
+      "onboard_time": 1761530061,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92406,
       "num": 102202,
       "word": "去年出生人口最多的10个省份",
       "onboard_time": 1761477319,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92251,
+      "num": 92251,
+      "word": "管泽元说AL打T1有优势",
+      "onboard_time": 1761527841,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 92108,
@@ -3083,12 +3347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91272,
+      "num": 91272,
+      "word": "美国幼教爱上中国农村小伙",
+      "onboard_time": 1761525623,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91233,
       "num": 196124,
       "word": "AL打T1",
       "onboard_time": 1761394282,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91086,
+      "num": 91086,
+      "word": "文班亚马打破46年队史纪录",
+      "onboard_time": 1761530240,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90872,
@@ -3121,6 +3401,14 @@
       "onboard_time": 1761520339,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88917,
+      "num": 90986,
+      "word": "百花杀",
+      "onboard_time": 1761527061,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 88744,
@@ -3795,6 +4083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54972,
+      "num": 103390,
+      "word": "湖人vs国王",
+      "onboard_time": 1761528441,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54564,
       "num": 54564,
       "word": "游泳教练抱摔女童致其耳软骨断裂",
@@ -4251,6 +4547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 6942,
+      "num": 401772,
+      "word": "党历史上又一重要纲领性文件",
+      "onboard_time": 1761450080,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6939,
       "num": 135886,
       "word": "黑龙江体育局副局长慰问王曼昱",
@@ -4259,10 +4563,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5391,
-      "num": 401772,
-      "word": "党历史上又一重要纲领性文件",
-      "onboard_time": 1761450080,
+      "raw_hot": 6934,
+      "num": 571488,
+      "word": "网警查处虚构女技术黑客发虚假广告案",
+      "onboard_time": 1761530601,
       "rank": 2,
       "category": "国内时政"
     }
