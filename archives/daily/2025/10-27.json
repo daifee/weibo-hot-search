@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761532003871,
+  "endTime": 1761536432686,
   "band_list": [
     {
       "raw_hot": 1149391,
@@ -12,19 +12,35 @@
     },
     {
       "raw_hot": 1143212,
-      "num": 420177,
+      "num": 987268,
       "word": "陈粒演出时耳机爆炸",
       "onboard_time": 1761521661,
       "rank": 33,
       "category": "演出"
     },
     {
+      "raw_hot": 1104563,
+      "num": 1176730,
+      "word": "恋与深空新PV",
+      "onboard_time": 1761534261,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 924717,
-      "num": 218861,
+      "num": 303405,
       "word": "曾经爆火现在几乎没人喝的奶茶",
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 806833,
+      "num": 806833,
+      "word": "世界第一美少年去世",
+      "onboard_time": 1761529641,
+      "rank": 12,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 783554,
@@ -43,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 687500,
-      "num": 404815,
-      "word": "世界第一美少年去世",
-      "onboard_time": 1761529641,
-      "rank": 12,
-      "category": "艺人,海外新闻"
+      "raw_hot": 697119,
+      "num": 617327,
+      "word": "疯狂动物城2中文配音阵容",
+      "onboard_time": 1761533120,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 685151,
@@ -75,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 654139,
+      "num": 654139,
+      "word": "ELLE全阵容官宣",
+      "onboard_time": 1761534861,
+      "rank": 4,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 647034,
-      "num": 216669,
+      "num": 259057,
       "word": "杨清柠王乐乐同框",
       "onboard_time": 1761527960,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 627647,
+      "num": 415294,
+      "word": "刘亦菲刘冲坐一辆车",
+      "onboard_time": 1761531379,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 616347,
@@ -107,12 +139,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492209,
+      "raw_hot": 598474,
+      "num": 627135,
+      "word": "美方不再考虑对华加征100%的关税",
+      "onboard_time": 1761533601,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 576624,
       "num": 492209,
       "word": "西贝闭麦后又开始排队了",
       "onboard_time": 1761528322,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554927,
+      "num": 554927,
+      "word": "淘宝闪购",
+      "onboard_time": 1761534261,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 550050,
+      "num": 410797,
+      "word": "迪丽热巴抱迪丽热巴",
+      "onboard_time": 1761533779,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 464184,
+      "num": 282414,
+      "word": "看病挂号认准副主任",
+      "onboard_time": 1761534443,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 449157,
@@ -121,6 +185,14 @@
       "onboard_time": 1761494000,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436576,
+      "num": 436576,
+      "word": "美军回应2架军机在南海坠毁",
+      "onboard_time": 1761530841,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 414251,
@@ -147,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390429,
+      "num": 390429,
+      "word": "雪中悍刀行2概念海报",
+      "onboard_time": 1761535341,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388152,
       "num": 324701,
       "word": "尚公主",
@@ -164,7 +244,7 @@
     },
     {
       "raw_hot": 362882,
-      "num": 207740,
+      "num": 257434,
       "word": "白鹿 恰逢雨连天",
       "onboard_time": 1761529100,
       "rank": 17,
@@ -172,7 +252,7 @@
     },
     {
       "raw_hot": 355280,
-      "num": 233805,
+      "num": 240042,
       "word": "奔跑吧直播",
       "onboard_time": 1761527720,
       "rank": 8,
@@ -185,6 +265,14 @@
       "onboard_time": 1761525442,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338742,
+      "num": 338742,
+      "word": "陈粒工作室致歉",
+      "onboard_time": 1761532040,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 329439,
@@ -228,7 +316,7 @@
     },
     {
       "raw_hot": 279561,
-      "num": 200554,
+      "num": 240438,
       "word": "刘亦菲木兰红",
       "onboard_time": 1761531201,
       "rank": 14,
@@ -299,20 +387,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224959,
-      "num": 224959,
-      "word": "美军回应2架军机在南海坠毁",
-      "onboard_time": 1761530841,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 215143,
-      "num": 215143,
+      "raw_hot": 235603,
+      "num": 235603,
       "word": "王者荣耀六耳",
       "onboard_time": 1761529820,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207240,
+      "num": 184072,
+      "word": "普通女生化妆最有效果的一步",
+      "onboard_time": 1761534742,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 204216,
+      "num": 235986,
+      "word": "这一秒过火",
+      "onboard_time": 1761535221,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203796,
@@ -355,12 +451,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191488,
+      "num": 238936,
+      "word": "枭起青壤",
+      "onboard_time": 1761535941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190785,
+      "num": 238759,
+      "word": "白鹿说姚译添真是懂我",
+      "onboard_time": 1761535461,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190412,
+      "num": 237510,
+      "word": "缅甸KK园区上千人跳河出逃",
+      "onboard_time": 1761535881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 189845,
       "num": 189845,
       "word": "何老师还是太权威了",
       "onboard_time": 1761492321,
       "rank": 24,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 187914,
+      "num": 187914,
+      "word": "逐玉",
+      "onboard_time": 1761533420,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 183118,
@@ -387,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169438,
+      "num": 308091,
+      "word": "男子伙同二人驾车撞死母亲骗保",
+      "onboard_time": 1761535341,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166559,
       "num": 166559,
       "word": "迪丽热巴卫蓝打电话吵架戏",
@@ -403,12 +539,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159431,
+      "num": 159431,
+      "word": "白宇章若楠杀青",
+      "onboard_time": 1761533541,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159195,
+      "num": 159195,
+      "word": "剑网3",
+      "onboard_time": 1761535941,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 158742,
+      "num": 151299,
+      "word": "关晓彤这段不像是演的",
+      "onboard_time": 1761535701,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154964,
       "num": 142372,
       "word": "邓紫棋演唱会裤子开了",
       "onboard_time": 1761483501,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154026,
+      "num": 154026,
+      "word": "鞠婧祎全新高定首穿",
+      "onboard_time": 1761534981,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 152761,
@@ -427,11 +595,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146670,
+      "num": 146670,
+      "word": "云贵川体制内5元吃什么",
+      "onboard_time": 1761530061,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146534,
+      "num": 237162,
+      "word": "张本智和亚军",
+      "onboard_time": 1761533299,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146110,
       "num": 146110,
       "word": "信离",
       "onboard_time": 1761491183,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145566,
+      "num": 145566,
+      "word": "恋与深空舞台卡",
+      "onboard_time": 1761536241,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -441,6 +633,14 @@
       "onboard_time": 1761526642,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 141635,
+      "num": 141635,
+      "word": "那英演唱会永远是明年开",
+      "onboard_time": 1761535461,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 138399,
@@ -459,6 +659,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137008,
+      "num": 137008,
+      "word": "金饰克价一夜猛跌17元",
+      "onboard_time": 1761530481,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 133875,
+      "num": 133875,
+      "word": "那些能支撑你走很久的话",
+      "onboard_time": 1761528441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133848,
       "num": 113024,
       "word": "林忆莲染上了蒋欣在这里",
@@ -475,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131887,
-      "num": 131887,
-      "word": "刘亦菲刘冲坐一辆车",
-      "onboard_time": 1761531379,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 132870,
+      "num": 132870,
+      "word": "墨迹天气",
+      "onboard_time": 1761534443,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 131144,
@@ -523,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125642,
+      "num": 159301,
+      "word": "和千玺开启天猫旗舰新体验",
+      "onboard_time": 1761536361,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 125148,
       "num": 160842,
       "word": "鞠婧祎紫衣锦鲤抄舞台",
@@ -539,12 +763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121478,
-      "num": 121478,
-      "word": "那些能支撑你走很久的话",
-      "onboard_time": 1761528441,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 123508,
+      "num": 123508,
+      "word": "蒋超良被双开",
+      "onboard_time": 1761536180,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119879,
@@ -611,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111981,
-      "num": 111981,
-      "word": "金饰克价一夜猛跌17元",
-      "onboard_time": 1761530481,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110862,
       "num": 110862,
       "word": "缅北电诈园困住多国公民",
@@ -641,14 +857,6 @@
       "onboard_time": 1761481161,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107565,
-      "num": 107565,
-      "word": "云贵川体制内5元吃什么",
-      "onboard_time": 1761530061,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 105826,
@@ -963,6 +1171,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 60979,
+      "num": 324986,
+      "word": "十年全赛季最强王者的含金量",
+      "onboard_time": 1761534382,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60112,
       "num": 60112,
       "word": "JackeyLove喊Nice破音",
@@ -977,6 +1193,14 @@
       "onboard_time": 1761501195,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59785,
+      "num": 832082,
+      "word": "12项重大部署看未来怎么干",
+      "onboard_time": 1761534680,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59746,
@@ -1027,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53197,
+      "num": 156057,
+      "word": "波波维奇退役很马刺",
+      "onboard_time": 1761536120,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -1065,6 +1297,14 @@
       "onboard_time": 1761504855,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34392,
+      "num": 384696,
+      "word": "重阳送礼送什么",
+      "onboard_time": 1761534081,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 25647,
@@ -1134,6 +1374,9 @@
   "hotgov_list": [
     {
       "word": "#5000多字聚焦办好自己的事#"
+    },
+    {
+      "word": "#发展成果由人民共享#"
     }
   ]
 }

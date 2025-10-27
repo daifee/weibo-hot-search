@@ -1,0 +1,410 @@
+{
+  "runTime": 1761536432686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104563,
+        "num": 1176730,
+        "word": "恋与深空新PV",
+        "onboard_time": 1761534261,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 987268,
+        "num": 987268,
+        "word": "陈粒演出时耳机爆炸",
+        "onboard_time": 1761521661,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59785,
+        "num": 832082,
+        "word": "12项重大部署看未来怎么干",
+        "onboard_time": 1761534680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806833,
+        "num": 806833,
+        "word": "世界第一美少年去世",
+        "onboard_time": 1761529641,
+        "rank": 3,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 654139,
+        "num": 654139,
+        "word": "ELLE全阵容官宣",
+        "onboard_time": 1761534861,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 598474,
+        "num": 627135,
+        "word": "美方不再考虑对华加征100%的关税",
+        "onboard_time": 1761533601,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697119,
+        "num": 617327,
+        "word": "疯狂动物城2中文配音阵容",
+        "onboard_time": 1761533120,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606750,
+        "num": 606750,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554927,
+        "num": 554927,
+        "word": "淘宝闪购",
+        "onboard_time": 1761534261,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 436576,
+        "num": 436576,
+        "word": "美军回应2架军机在南海坠毁",
+        "onboard_time": 1761530841,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627647,
+        "num": 415294,
+        "word": "刘亦菲刘冲坐一辆车",
+        "onboard_time": 1761531379,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550050,
+        "num": 410797,
+        "word": "迪丽热巴抱迪丽热巴",
+        "onboard_time": 1761533779,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576624,
+        "num": 407630,
+        "word": "西贝闭麦后又开始排队了",
+        "onboard_time": 1761528322,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390429,
+        "num": 390429,
+        "word": "雪中悍刀行2概念海报",
+        "onboard_time": 1761535341,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34392,
+        "num": 384696,
+        "word": "重阳送礼送什么",
+        "onboard_time": 1761534081,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379220,
+        "num": 379220,
+        "word": "暴雪大雪暴雨要来了",
+        "onboard_time": 1761523280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353239,
+        "num": 353239,
+        "word": "南海",
+        "onboard_time": 1761527061,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338742,
+        "num": 338742,
+        "word": "陈粒工作室致歉",
+        "onboard_time": 1761532040,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60979,
+        "num": 324986,
+        "word": "十年全赛季最强王者的含金量",
+        "onboard_time": 1761534382,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169438,
+        "num": 308091,
+        "word": "男子伙同二人驾车撞死母亲骗保",
+        "onboard_time": 1761535341,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480070,
+        "num": 303405,
+        "word": "曾经爆火现在几乎没人喝的奶茶",
+        "onboard_time": 1761526101,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 464184,
+        "num": 282414,
+        "word": "看病挂号认准副主任",
+        "onboard_time": 1761534443,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366097,
+        "num": 259057,
+        "word": "杨清柠王乐乐同框",
+        "onboard_time": 1761527960,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 257434,
+        "num": 257434,
+        "word": "白鹿 恰逢雨连天",
+        "onboard_time": 1761529100,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240438,
+        "num": 240438,
+        "word": "刘亦菲木兰红",
+        "onboard_time": 1761531201,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200116,
+        "num": 240042,
+        "word": "奔跑吧直播",
+        "onboard_time": 1761527720,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191488,
+        "num": 238936,
+        "word": "枭起青壤",
+        "onboard_time": 1761535941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190785,
+        "num": 238759,
+        "word": "白鹿说姚译添真是懂我",
+        "onboard_time": 1761535461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190412,
+        "num": 237510,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146534,
+        "num": 237162,
+        "word": "张本智和亚军",
+        "onboard_time": 1761533299,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204216,
+        "num": 235986,
+        "word": "这一秒过火",
+        "onboard_time": 1761535221,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235603,
+        "num": 235603,
+        "word": "王者荣耀六耳",
+        "onboard_time": 1761529820,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187914,
+        "num": 187914,
+        "word": "逐玉",
+        "onboard_time": 1761533420,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207240,
+        "num": 184072,
+        "word": "普通女生化妆最有效果的一步",
+        "onboard_time": 1761534742,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169421,
+        "num": 169421,
+        "word": "每天只睡6小时的受害者出现了",
+        "onboard_time": 1761499516,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "白宇章若楠杀青",
+        "onboard_time": 1761533541,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125642,
+        "num": 159301,
+        "word": "和千玺开启天猫旗舰新体验",
+        "onboard_time": 1761536361,
+        "rank": 36,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 159195,
+        "num": 159195,
+        "word": "剑网3",
+        "onboard_time": 1761535941,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53197,
+        "num": 156057,
+        "word": "波波维奇退役很马刺",
+        "onboard_time": 1761536120,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154026,
+        "num": 154026,
+        "word": "鞠婧祎全新高定首穿",
+        "onboard_time": 1761534981,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158742,
+        "num": 151299,
+        "word": "关晓彤这段不像是演的",
+        "onboard_time": 1761535701,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148123,
+        "num": 148123,
+        "word": "开始推理吧4",
+        "onboard_time": 1761525442,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146670,
+        "num": 146670,
+        "word": "云贵川体制内5元吃什么",
+        "onboard_time": 1761530061,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145566,
+        "num": 145566,
+        "word": "恋与深空舞台卡",
+        "onboard_time": 1761536241,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141635,
+        "num": 141635,
+        "word": "那英演唱会永远是明年开",
+        "onboard_time": 1761535461,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137008,
+        "num": 137008,
+        "word": "金饰克价一夜猛跌17元",
+        "onboard_time": 1761530481,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133875,
+        "num": 133875,
+        "word": "那些能支撑你走很久的话",
+        "onboard_time": 1761528441,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132870,
+        "num": 132870,
+        "word": "墨迹天气",
+        "onboard_time": 1761534443,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127029,
+        "num": 127029,
+        "word": "尚公主",
+        "onboard_time": 1761528921,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 123508,
+        "word": "蒋超良被双开",
+        "onboard_time": 1761536180,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展成果由人民共享#"
+    }
+  }
+}
