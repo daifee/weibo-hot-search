@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761578935271,
+  "endTime": 1761579641727,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -179,8 +179,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 809982,
-      "num": 809982,
+      "raw_hot": 821194,
+      "num": 1131391,
       "word": "这就是中国台湾省",
       "onboard_time": 1761567802,
       "rank": 21,
@@ -209,6 +209,14 @@
       "onboard_time": 1761490102,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760140,
+      "num": 158545,
+      "word": "鹿晗ins发自拍",
+      "onboard_time": 1761577822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 745683,
@@ -313,6 +321,14 @@
       "onboard_time": 1761527960,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 638416,
+      "num": 158201,
+      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+      "onboard_time": 1761577282,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627647,
@@ -427,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533003,
-      "num": 149882,
-      "word": "鹿晗ins发自拍",
-      "onboard_time": 1761577822,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 530520,
+      "num": 530520,
+      "word": "李木戈带着景甜张彬彬又杀回内娱",
+      "onboard_time": 1761575063,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 530451,
@@ -459,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 506942,
-      "num": 506942,
-      "word": "李木戈带着景甜张彬彬又杀回内娱",
-      "onboard_time": 1761575063,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 496657,
       "num": 237492,
       "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
@@ -481,6 +489,14 @@
       "onboard_time": 1761547520,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488798,
+      "num": 157699,
+      "word": "杨幂 死嘴憋住",
+      "onboard_time": 1761577522,
+      "rank": 17,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 488262,
@@ -627,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372235,
-      "num": 146441,
-      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
-      "onboard_time": 1761577282,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 366314,
       "num": 195820,
       "word": "原来不内耗的人脑子里是这么想的",
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352055,
+      "num": 352055,
+      "word": "特朗普谈美军机南海坠毁原因",
+      "onboard_time": 1761575782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 349442,
       "num": 189632,
       "word": "佘诗曼谈许绍雄身体状况落泪",
@@ -705,14 +721,6 @@
       "onboard_time": 1761532040,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 338652,
-      "num": 338652,
-      "word": "特朗普谈美军机南海坠毁原因",
-      "onboard_time": 1761575782,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 329439,
@@ -747,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308180,
-      "num": 145499,
-      "word": "杨幂 死嘴憋住",
-      "onboard_time": 1761577522,
-      "rank": 17,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 305231,
       "num": 268064,
       "word": "表妹万福预告",
@@ -777,6 +777,14 @@
       "onboard_time": 1761565521,
       "rank": 17,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 301125,
+      "num": 301125,
+      "word": "31省份去年婚姻数据公布",
+      "onboard_time": 1761576924,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299713,
@@ -841,14 +849,6 @@
       "onboard_time": 1761481401,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279567,
-      "num": 279567,
-      "word": "31省份去年婚姻数据公布",
-      "onboard_time": 1761576924,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279561,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 218241,
-      "num": 140657,
+      "num": 156054,
       "word": "官方通报男子酸菜池中抽烟吐痰",
       "onboard_time": 1761576741,
       "rank": 21,
@@ -1056,6 +1056,14 @@
       "word": "杨紫玉兰花开君再来人设",
       "onboard_time": 1761549140,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210657,
+      "num": 157054,
+      "word": "天地剑心第三",
+      "onboard_time": 1761578600,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1225,6 +1233,14 @@
       "onboard_time": 1761504495,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191938,
+      "num": 191938,
+      "word": "00后用打印机造假币",
+      "onboard_time": 1761576924,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191450,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1761562041,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 175163,
-      "num": 137523,
-      "word": "天地剑心第三",
-      "onboard_time": 1761578600,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 174787,
@@ -1707,14 +1715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156400,
-      "num": 156400,
-      "word": "00后用打印机造假币",
-      "onboard_time": 1761576924,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156277,
       "num": 156277,
       "word": "恋与深空直到心跳沸腾",
@@ -1865,6 +1865,14 @@
       "onboard_time": 1761542302,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148540,
+      "num": 148540,
+      "word": "王楚钦把爆冷款穿成了爆款",
+      "onboard_time": 1761578841,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 148473,
@@ -3083,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95102,
+      "num": 95102,
+      "word": "奔跑吧五颜六色的头发",
+      "onboard_time": 1761578781,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95096,
       "num": 95096,
       "word": "3男子在公共场合放烈性犬虐杀小猫",
@@ -3147,12 +3163,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91590,
-      "num": 91590,
-      "word": "王楚钦把爆冷款穿成了爆款",
-      "onboard_time": 1761578841,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 92005,
+      "num": 118108,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91579,
@@ -3171,14 +3187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89098,
-      "num": 118108,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 89043,
       "num": 89043,
       "word": "广东人生娃积极性第一名",
@@ -3195,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88412,
+      "num": 88412,
+      "word": "周深你也刘德华啊",
+      "onboard_time": 1761579501,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87406,
       "num": 169461,
       "word": "1部手机3个月在义乌闯出一条路",
@@ -3203,20 +3219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84469,
-      "num": 84469,
-      "word": "奔跑吧五颜六色的头发",
-      "onboard_time": 1761578781,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83408,
       "num": 151871,
       "word": "中美外长通话称经贸问题达成框架共识",
       "onboard_time": 1761573021,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82736,
+      "num": 82736,
+      "word": "仙逆动画",
+      "onboard_time": 1761578422,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 82675,
@@ -3411,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67698,
+      "num": 156790,
+      "word": "罗永浩说AQ是重阳送礼新选择",
+      "onboard_time": 1761576741,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67337,
       "num": 86322,
       "word": "林高远刘诗雯备战全运会混双",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1761563061,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66569,
-      "num": 143262,
-      "word": "罗永浩说AQ是重阳送礼新选择",
-      "onboard_time": 1761576741,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 66553,
@@ -3817,6 +3833,14 @@
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 20183,
+      "num": 69394,
+      "word": "波尔心中的GOAT是马龙",
+      "onboard_time": 1761579441,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20126,

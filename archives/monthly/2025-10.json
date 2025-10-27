@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761578935271,
+  "endTime": 1761579641727,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -4339,6 +4339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 821194,
+      "num": 1131391,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 820775,
       "num": 228684,
       "word": "树一官宣与慎婕分手",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1760239519,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 809982,
-      "num": 809982,
-      "word": "这就是中国台湾省",
-      "onboard_time": 1761567802,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 809271,
@@ -5065,6 +5065,14 @@
       "onboard_time": 1760335642,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 760140,
+      "num": 158545,
+      "word": "鹿晗ins发自拍",
+      "onboard_time": 1761577822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 759836,
@@ -6721,6 +6729,14 @@
       "onboard_time": 1759764501,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638416,
+      "num": 158201,
+      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+      "onboard_time": 1761577282,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 637729,
@@ -8979,14 +8995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533003,
-      "num": 149882,
-      "word": "鹿晗ins发自拍",
-      "onboard_time": 1761577822,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 533001,
       "num": 533001,
       "word": "医院300万预算1000元中标采购暂停",
@@ -9049,6 +9057,14 @@
       "onboard_time": 1760893219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530520,
+      "num": 530520,
+      "word": "李木戈带着景甜张彬彬又杀回内娱",
+      "onboard_time": 1761575063,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 530451,
@@ -9651,14 +9667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 506942,
-      "num": 506942,
-      "word": "李木戈带着景甜张彬彬又杀回内娱",
-      "onboard_time": 1761575063,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 506612,
       "num": 443714,
       "word": "桑延 霜降快乐",
@@ -10225,6 +10233,14 @@
       "onboard_time": 1759826242,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488798,
+      "num": 157699,
+      "word": "杨幂 死嘴憋住",
+      "onboard_time": 1761577522,
+      "rank": 17,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 488753,
@@ -14195,14 +14211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372235,
-      "num": 146441,
-      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
-      "onboard_time": 1761577282,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372102,
       "num": 197415,
       "word": "毛不易 无名的人改歌词",
@@ -15059,6 +15067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352055,
+      "num": 352055,
+      "word": "特朗普谈美军机南海坠毁原因",
+      "onboard_time": 1761575782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 352017,
       "num": 352017,
       "word": "气温冷出11月水平",
@@ -15657,14 +15673,6 @@
       "onboard_time": 1761532040,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 338652,
-      "num": 338652,
-      "word": "特朗普谈美军机南海坠毁原因",
-      "onboard_time": 1761575782,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 338626,
@@ -17235,14 +17243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308180,
-      "num": 145499,
-      "word": "杨幂 死嘴憋住",
-      "onboard_time": 1761577522,
-      "rank": 17,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 308158,
       "num": 254554,
       "word": "Faker回应Karsa致敬",
@@ -17689,6 +17689,14 @@
       "onboard_time": 1759534277,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301125,
+      "num": 301125,
+      "word": "31省份去年婚姻数据公布",
+      "onboard_time": 1761576924,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300647,
@@ -19080,14 +19088,6 @@
       "word": "官方通报无牌小米SU7路口漂移",
       "onboard_time": 1761203901,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279567,
-      "num": 279567,
-      "word": "31省份去年婚姻数据公布",
-      "onboard_time": 1761576924,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -23548,7 +23548,7 @@
     },
     {
       "raw_hot": 218241,
-      "num": 140657,
+      "num": 156054,
       "word": "官方通报男子酸菜池中抽烟吐痰",
       "onboard_time": 1761576741,
       "rank": 21,
@@ -24312,6 +24312,14 @@
       "word": "肖战第二次演医生",
       "onboard_time": 1760583020,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210657,
+      "num": 157054,
+      "word": "天地剑心第三",
+      "onboard_time": 1761578600,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -27793,6 +27801,14 @@
       "onboard_time": 1760452403,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191938,
+      "num": 191938,
+      "word": "00后用打印机造假币",
+      "onboard_time": 1761576924,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191847,
@@ -31304,14 +31320,6 @@
       "word": "侯明昊给卢昱晓戴头纱",
       "onboard_time": 1760091861,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 175163,
-      "num": 137523,
-      "word": "天地剑心第三",
-      "onboard_time": 1761578600,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -36179,14 +36187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 156400,
-      "num": 156400,
-      "word": "00后用打印机造假币",
-      "onboard_time": 1761576924,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156386,
       "num": 156386,
       "word": "王曼昱蒯曼速胜晋级决赛",
@@ -38521,6 +38521,14 @@
       "onboard_time": 1759823840,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148540,
+      "num": 148540,
+      "word": "王楚钦把爆冷款穿成了爆款",
+      "onboard_time": 1761578841,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 148530,
@@ -65915,6 +65923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95102,
+      "num": 95102,
+      "word": "奔跑吧五颜六色的头发",
+      "onboard_time": 1761578781,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95096,
       "num": 95096,
       "word": "3男子在公共场合放烈性犬虐杀小猫",
@@ -67883,6 +67899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92005,
+      "num": 118108,
+      "word": "KK园区所在村镇出租车费已翻倍",
+      "onboard_time": 1761575602,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91980,
       "num": 91980,
       "word": "A股中长期上涨的底气充足",
@@ -68097,14 +68121,6 @@
       "onboard_time": 1759399159,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91590,
-      "num": 91590,
-      "word": "王楚钦把爆冷款穿成了爆款",
-      "onboard_time": 1761578841,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 91579,
@@ -69555,14 +69571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89098,
-      "num": 118108,
-      "word": "KK园区所在村镇出租车费已翻倍",
-      "onboard_time": 1761575602,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 89078,
       "num": 89078,
       "word": "成都小车起火车门难开消防电锯破拆",
@@ -69889,6 +69897,14 @@
       "onboard_time": 1761233422,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88412,
+      "num": 88412,
+      "word": "周深你也刘德华啊",
+      "onboard_time": 1761579501,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 88406,
@@ -72225,14 +72241,6 @@
       "onboard_time": 1761017241,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84469,
-      "num": 84469,
-      "word": "奔跑吧五颜六色的头发",
-      "onboard_time": 1761578781,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 84455,
@@ -79043,6 +79051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67698,
+      "num": 156790,
+      "word": "罗永浩说AQ是重阳送礼新选择",
+      "onboard_time": 1761576741,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67652,
       "num": 67652,
       "word": "一条微博祝福祖国",
@@ -79385,14 +79401,6 @@
       "onboard_time": 1760749100,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66569,
-      "num": 143262,
-      "word": "罗永浩说AQ是重阳送礼新选择",
-      "onboard_time": 1761576741,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 66553,
@@ -89297,6 +89305,14 @@
       "onboard_time": 1759867155,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 20183,
+      "num": 69394,
+      "word": "波尔心中的GOAT是马龙",
+      "onboard_time": 1761579441,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20180,

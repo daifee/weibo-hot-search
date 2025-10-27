@@ -1,0 +1,410 @@
+{
+  "runTime": 1761579641727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821194,
+        "num": 1131391,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755739,
+        "num": 755739,
+        "word": "内娱三搭cp的含金量",
+        "onboard_time": 1761568041,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21261,
+        "num": 532693,
+        "word": "北京大视听的春天很美丽",
+        "onboard_time": 1761572483,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530520,
+        "num": 530520,
+        "word": "李木戈带着景甜张彬彬又杀回内娱",
+        "onboard_time": 1761575063,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352055,
+        "num": 352055,
+        "word": "特朗普谈美军机南海坠毁原因",
+        "onboard_time": 1761575782,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301125,
+        "num": 301125,
+        "word": "31省份去年婚姻数据公布",
+        "onboard_time": 1761576924,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428305,
+        "num": 300349,
+        "word": "桃花坞6只留一个人就是孟子义",
+        "onboard_time": 1761575003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209705,
+        "num": 209705,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191938,
+        "num": 191938,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158877,
+        "num": 158877,
+        "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+        "onboard_time": 1761573263,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1348037,
+        "num": 158787,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760140,
+        "num": 158545,
+        "word": "鹿晗ins发自拍",
+        "onboard_time": 1761577822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651231,
+        "num": 158399,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638416,
+        "num": 158201,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583266,
+        "num": 157881,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488798,
+        "num": 157699,
+        "word": "杨幂 死嘴憋住",
+        "onboard_time": 1761577522,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 417425,
+        "num": 157395,
+        "word": "为了不被裁员硅谷科技男扎堆做医美",
+        "onboard_time": 1761573083,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285039,
+        "num": 157283,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210657,
+        "num": 157054,
+        "word": "天地剑心第三",
+        "onboard_time": 1761578600,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67698,
+        "num": 156790,
+        "word": "罗永浩说AQ是重阳送礼新选择",
+        "onboard_time": 1761576741,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254328,
+        "num": 156681,
+        "word": "王乐乐杨清柠合照",
+        "onboard_time": 1761571881,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252450,
+        "num": 156415,
+        "word": "九尾 杨幂你等等我的lsh",
+        "onboard_time": 1761561021,
+        "rank": 21,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 188319,
+        "num": 156208,
+        "word": "许绍雄还未苏醒",
+        "onboard_time": 1761571041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156054,
+        "num": 156054,
+        "word": "官方通报男子酸菜池中抽烟吐痰",
+        "onboard_time": 1761576741,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148540,
+        "num": 148540,
+        "word": "王楚钦把爆冷款穿成了爆款",
+        "onboard_time": 1761578841,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129474,
+        "num": 129474,
+        "word": "个人信用救济政策",
+        "onboard_time": 1761570622,
+        "rank": 25,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 128284,
+        "num": 128284,
+        "word": "地球超新鲜2原班人马回归",
+        "onboard_time": 1761567380,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120756,
+        "num": 120756,
+        "word": "王权富贵A爆了",
+        "onboard_time": 1761567802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112155,
+        "num": 112155,
+        "word": "刘诗诗新剧美我一跳更吓我一跳",
+        "onboard_time": 1761565822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98229,
+        "num": 112055,
+        "word": "多地涨工资落地",
+        "onboard_time": 1761560000,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132880,
+        "num": 111385,
+        "word": "黄宗泽到院探望许绍雄",
+        "onboard_time": 1761569962,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122808,
+        "num": 110792,
+        "word": "警方通报烈性犬撕咬小猫",
+        "onboard_time": 1761570801,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117244,
+        "num": 110606,
+        "word": "嘉行传媒否认与迪丽热巴切割",
+        "onboard_time": 1761565642,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110304,
+        "num": 110304,
+        "word": "现货黄金失守4000美元",
+        "onboard_time": 1761576203,
+        "rank": 33,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 108337,
+        "num": 108337,
+        "word": "内娱男艺人都防着黄景瑜",
+        "onboard_time": 1761570741,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108225,
+        "num": 108225,
+        "word": "辛芷蕾封后后首部电视剧",
+        "onboard_time": 1761575362,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107171,
+        "num": 107171,
+        "word": "白百何拿三个手机回消息",
+        "onboard_time": 1761573741,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99854,
+        "num": 99854,
+        "word": "中产女性不买单了医美暴利崩塌",
+        "onboard_time": 1761572422,
+        "rank": 37,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 98583,
+        "num": 98583,
+        "word": "沈佳润 超爱单依纯姐姐",
+        "onboard_time": 1761573322,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92005,
+        "num": 97002,
+        "word": "KK园区所在村镇出租车费已翻倍",
+        "onboard_time": 1761575602,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96126,
+        "num": 96126,
+        "word": "张晚意 也没说花少有两个晚情啊",
+        "onboard_time": 1761578063,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95102,
+        "num": 95102,
+        "word": "奔跑吧五颜六色的头发",
+        "onboard_time": 1761578781,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91338,
+        "num": 91338,
+        "word": "偶遇曾辉韩雨彤牵手逛街",
+        "onboard_time": 1761568522,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91139,
+        "num": 91139,
+        "word": "熊孩子误吞10克金豆6天后排出",
+        "onboard_time": 1761578122,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88412,
+        "num": 88412,
+        "word": "周深你也刘德华啊",
+        "onboard_time": 1761579501,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87804,
+        "num": 87804,
+        "word": "长大才意识到父母想要什么礼物",
+        "onboard_time": 1761556281,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 82736,
+        "num": 82736,
+        "word": "仙逆动画",
+        "onboard_time": 1761578422,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 72953,
+        "num": 72953,
+        "word": "深圳巴士集团致歉",
+        "onboard_time": 1761575843,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 69405,
+        "num": 69405,
+        "word": "研究实施一次性的个人信用救济政策",
+        "onboard_time": 1761572483,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 20183,
+        "num": 69394,
+        "word": "波尔心中的GOAT是马龙",
+        "onboard_time": 1761579441,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  }
+}
