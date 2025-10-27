@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761530659794,
+  "endTime": 1761532003871,
   "band_list": [
     {
       "raw_hot": 2292788,
@@ -91,8 +91,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1139194,
-      "num": 276539,
+      "raw_hot": 1143212,
+      "num": 420177,
       "word": "陈粒演出时耳机爆炸",
       "onboard_time": 1761521661,
       "rank": 33,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687500,
+      "num": 404815,
+      "word": "世界第一美少年去世",
+      "onboard_time": 1761529641,
+      "rank": 12,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 685151,
       "num": 250385,
       "word": "陈粒 我将开始减少舞台工作",
@@ -337,6 +345,14 @@
       "onboard_time": 1761457039,
       "rank": 17,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 616347,
+      "num": 616347,
+      "word": "南海",
+      "onboard_time": 1761527061,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 615881,
@@ -427,14 +443,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 544812,
-      "num": 215312,
-      "word": "世界第一美少年去世",
-      "onboard_time": 1761529641,
-      "rank": 12,
-      "category": "艺人,海外新闻"
-    },
-    {
       "raw_hot": 542875,
       "num": 366270,
       "word": "单依纯妆造",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 514184,
-      "num": 514184,
-      "word": "南海",
-      "onboard_time": 1761527061,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 511641,
       "num": 282444,
       "word": "入青云结局",
@@ -497,6 +497,14 @@
       "onboard_time": 1761403402,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 492209,
+      "num": 492209,
+      "word": "西贝闭麦后又开始排队了",
+      "onboard_time": 1761528322,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491802,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 388152,
-      "num": 261593,
+      "num": 324701,
       "word": "尚公主",
       "onboard_time": 1761528921,
       "rank": 6,
@@ -721,6 +729,14 @@
       "onboard_time": 1761459560,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362882,
+      "num": 207740,
+      "word": "白鹿 恰逢雨连天",
+      "onboard_time": 1761529100,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 359120,
@@ -923,14 +939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 288342,
-      "num": 288342,
-      "word": "西贝闭麦后又开始排队了",
-      "onboard_time": 1761528322,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287812,
       "num": 287812,
       "word": "2025共创之夜节目单",
@@ -969,6 +977,14 @@
       "onboard_time": 1761434297,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279561,
+      "num": 200554,
+      "word": "刘亦菲木兰红",
+      "onboard_time": 1761531201,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278339,
@@ -1043,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253618,
+      "num": 194022,
+      "word": "莫离",
+      "onboard_time": 1761530662,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249962,
       "num": 249962,
       "word": "周星驰不接张柏芝电话",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1761450022,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238408,
-      "num": 205906,
-      "word": "白鹿 恰逢雨连天",
-      "onboard_time": 1761529100,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 236045,
@@ -1171,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224959,
+      "num": 224959,
+      "word": "美军回应2架军机在南海坠毁",
+      "onboard_time": 1761530841,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222087,
       "num": 244644,
       "word": "迪丽热巴卫蓝打电话吵架戏",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1761482901,
       "rank": 30,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 215143,
+      "num": 215143,
+      "word": "王者荣耀六耳",
+      "onboard_time": 1761529820,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 214944,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1761491843,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196446,
+      "num": 167968,
+      "word": "A股",
+      "onboard_time": 1761531140,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 195852,
@@ -1699,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "有厌食症的留子回国后",
+      "onboard_time": 1761527661,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165403,
       "num": 165403,
       "word": "邓家佳跳了范丞丞版sugar舞",
@@ -1875,14 +1923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153610,
-      "num": 153610,
-      "word": "有厌食症的留子回国后",
-      "onboard_time": 1761527661,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153327,
       "num": 153327,
       "word": "太奶奶3开播追剧团",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1761526642,
       "rank": 25,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 143109,
-      "num": 143109,
-      "word": "王者荣耀六耳",
-      "onboard_time": 1761529820,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 142092,
@@ -2363,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "刘亦菲刘冲坐一辆车",
+      "onboard_time": 1761531379,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131512,
       "num": 131512,
       "word": "德外长取消访华执政伙伴急了",
@@ -2385,6 +2425,22 @@
       "onboard_time": 1761450258,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131144,
+      "num": 131144,
+      "word": "郭宇欣演过承欢记",
+      "onboard_time": 1761530421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131061,
+      "num": 131061,
+      "word": "深夜送药无人接听骑手返店查药效",
+      "onboard_time": 1761526760,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 131004,
@@ -2433,6 +2489,14 @@
       "onboard_time": 1761453380,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128445,
+      "num": 128445,
+      "word": "杨瀚森客场首分",
+      "onboard_time": 1761531321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 128128,
@@ -2523,12 +2587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124386,
-      "num": 124386,
-      "word": "深夜送药无人接听骑手返店查药效",
-      "onboard_time": 1761526760,
-      "rank": 31,
-      "category": "正能量"
+      "raw_hot": 124064,
+      "num": 124064,
+      "word": "文班亚马打破46年队史纪录",
+      "onboard_time": 1761530240,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124011,
@@ -2593,6 +2657,14 @@
       "onboard_time": 1761404242,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121478,
+      "num": 121478,
+      "word": "那些能支撑你走很久的话",
+      "onboard_time": 1761528441,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120376,
@@ -2691,19 +2763,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115596,
+      "num": 115596,
+      "word": "终于知道黑车怎么开到白车上了",
+      "onboard_time": 1761531559,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115191,
+      "num": 115191,
+      "word": "朱一龙VogueWorld出图",
+      "onboard_time": 1761530841,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113920,
       "num": 113920,
       "word": "北方又降4到10摄氏度",
       "onboard_time": 1761439579,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113155,
-      "num": 113155,
-      "word": "那些能支撑你走很久的话",
-      "onboard_time": 1761528441,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -2745,6 +2825,14 @@
       "onboard_time": 1761456799,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111981,
+      "num": 111981,
+      "word": "金饰克价一夜猛跌17元",
+      "onboard_time": 1761530481,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 111938,
@@ -2801,6 +2889,14 @@
       "onboard_time": 1761467061,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110862,
+      "num": 110862,
+      "word": "缅北电诈园困住多国公民",
+      "onboard_time": 1761530841,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110684,
@@ -2899,6 +2995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107565,
+      "num": 107565,
+      "word": "云贵川体制内5元吃什么",
+      "onboard_time": 1761530061,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106568,
       "num": 106568,
       "word": "马思纯 一个顶好的人",
@@ -2953,14 +3057,6 @@
       "onboard_time": 1761451220,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105197,
-      "num": 105197,
-      "word": "郭宇欣演过承欢记",
-      "onboard_time": 1761530421,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 104640,
@@ -3107,6 +3203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100413,
+      "num": 100413,
+      "word": "郑恺别演了我害怕",
+      "onboard_time": 1761531919,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100017,
       "num": 196392,
       "word": "至少今天很快乐演唱会",
@@ -3129,6 +3233,14 @@
       "onboard_time": 1761470060,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99761,
+      "num": 99761,
+      "word": "特朗普在马来西亚听了个地狱笑话",
+      "onboard_time": 1761531801,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99609,
@@ -3259,14 +3371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94521,
-      "num": 94521,
-      "word": "金饰克价一夜猛跌17元",
-      "onboard_time": 1761530481,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 94114,
       "num": 113756,
       "word": "hi6实时收视第一",
@@ -3297,14 +3401,6 @@
       "onboard_time": 1761490222,
       "rank": 42,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 92824,
-      "num": 92824,
-      "word": "云贵川体制内5元吃什么",
-      "onboard_time": 1761530061,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 92406,
@@ -3361,14 +3457,6 @@
       "onboard_time": 1761394282,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91086,
-      "num": 91086,
-      "word": "文班亚马打破46年队史纪录",
-      "onboard_time": 1761530240,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 90872,
@@ -4019,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59659,
+      "num": 610855,
+      "word": "网警查处虚构女技术黑客发虚假广告案",
+      "onboard_time": 1761530601,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59615,
       "num": 59615,
       "word": "邱贻可抵达孙颖莎梁靖崑训练基地",
@@ -4561,14 +4657,6 @@
       "onboard_time": 1761468022,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6934,
-      "num": 571488,
-      "word": "网警查处虚构女技术黑客发虚假广告案",
-      "onboard_time": 1761530601,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761530659794,
+  "endTime": 1761532003871,
   "band_list": [
     {
       "raw_hot": 1149391,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1139194,
-      "num": 276539,
+      "raw_hot": 1143212,
+      "num": 420177,
       "word": "陈粒演出时耳机爆炸",
       "onboard_time": 1761521661,
       "rank": 33,
@@ -41,6 +41,14 @@
       "onboard_time": 1761490102,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687500,
+      "num": 404815,
+      "word": "世界第一美少年去世",
+      "onboard_time": 1761529641,
+      "rank": 12,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 685151,
@@ -75,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 616347,
+      "num": 616347,
+      "word": "南海",
+      "onboard_time": 1761527061,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 613529,
       "num": 205300,
       "word": "朋友圈一定要当天发",
@@ -91,20 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544812,
-      "num": 215312,
-      "word": "世界第一美少年去世",
-      "onboard_time": 1761529641,
-      "rank": 12,
-      "category": "艺人,海外新闻"
-    },
-    {
-      "raw_hot": 514184,
-      "num": 514184,
-      "word": "南海",
-      "onboard_time": 1761527061,
-      "rank": 3,
-      "category": "国内时政"
+      "raw_hot": 492209,
+      "num": 492209,
+      "word": "西贝闭麦后又开始排队了",
+      "onboard_time": 1761528322,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449157,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 388152,
-      "num": 261593,
+      "num": 324701,
       "word": "尚公主",
       "onboard_time": 1761528921,
       "rank": 6,
@@ -153,6 +161,14 @@
       "onboard_time": 1761485962,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362882,
+      "num": 207740,
+      "word": "白鹿 恰逢雨连天",
+      "onboard_time": 1761529100,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 355280,
@@ -203,20 +219,20 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 288342,
-      "num": 288342,
-      "word": "西贝闭麦后又开始排队了",
-      "onboard_time": 1761528322,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280504,
       "num": 191253,
       "word": "王建国 爱奇艺副总裁小红",
       "onboard_time": 1761481401,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279561,
+      "num": 200554,
+      "word": "刘亦菲木兰红",
+      "onboard_time": 1761531201,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 277805,
@@ -233,6 +249,14 @@
       "onboard_time": 1761479662,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 253618,
+      "num": 194022,
+      "word": "莫离",
+      "onboard_time": 1761530662,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 249240,
@@ -275,12 +299,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 238408,
-      "num": 205906,
-      "word": "白鹿 恰逢雨连天",
-      "onboard_time": 1761529100,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 224959,
+      "num": 224959,
+      "word": "美军回应2架军机在南海坠毁",
+      "onboard_time": 1761530841,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 215143,
+      "num": 215143,
+      "word": "王者荣耀六耳",
+      "onboard_time": 1761529820,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 203796,
@@ -289,6 +321,14 @@
       "onboard_time": 1761487883,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196446,
+      "num": 167968,
+      "word": "A股",
+      "onboard_time": 1761531140,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 196081,
@@ -355,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "有厌食症的留子回国后",
+      "onboard_time": 1761527661,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154964,
       "num": 142372,
       "word": "邓紫棋演唱会裤子开了",
       "onboard_time": 1761483501,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153610,
-      "num": 153610,
-      "word": "有厌食症的留子回国后",
-      "onboard_time": 1761527661,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 152761,
@@ -403,14 +443,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 143109,
-      "num": 143109,
-      "word": "王者荣耀六耳",
-      "onboard_time": 1761529820,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138399,
       "num": 138399,
       "word": "鞠婧祎飞吻这一下",
@@ -443,12 +475,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "刘亦菲刘冲坐一辆车",
+      "onboard_time": 1761531379,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131144,
+      "num": 131144,
+      "word": "郭宇欣演过承欢记",
+      "onboard_time": 1761530421,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131061,
+      "num": 131061,
+      "word": "深夜送药无人接听骑手返店查药效",
+      "onboard_time": 1761526760,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 129791,
       "num": 129791,
       "word": "星品影响力",
       "onboard_time": 1761529700,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128445,
+      "num": 128445,
+      "word": "杨瀚森客场首分",
+      "onboard_time": 1761531321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 127730,
@@ -467,12 +531,20 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 124386,
-      "num": 124386,
-      "word": "深夜送药无人接听骑手返店查药效",
-      "onboard_time": 1761526760,
-      "rank": 31,
-      "category": "正能量"
+      "raw_hot": 124064,
+      "num": 124064,
+      "word": "文班亚马打破46年队史纪录",
+      "onboard_time": 1761530240,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121478,
+      "num": 121478,
+      "word": "那些能支撑你走很久的话",
+      "onboard_time": 1761528441,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119879,
@@ -507,19 +579,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115596,
+      "num": 115596,
+      "word": "终于知道黑车怎么开到白车上了",
+      "onboard_time": 1761531559,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115191,
+      "num": 115191,
+      "word": "朱一龙VogueWorld出图",
+      "onboard_time": 1761530841,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 114929,
       "num": 195522,
       "word": "孕检低风险却生下唐氏儿保险拒赔",
       "onboard_time": 1761472101,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113155,
-      "num": 113155,
-      "word": "那些能支撑你走很久的话",
-      "onboard_time": 1761528441,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -529,6 +609,22 @@
       "onboard_time": 1761528322,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111981,
+      "num": 111981,
+      "word": "金饰克价一夜猛跌17元",
+      "onboard_time": 1761530481,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110862,
+      "num": 110862,
+      "word": "缅北电诈园困住多国公民",
+      "onboard_time": 1761530841,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108629,
@@ -547,20 +643,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107565,
+      "num": 107565,
+      "word": "云贵川体制内5元吃什么",
+      "onboard_time": 1761530061,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105826,
       "num": 119025,
       "word": "林俊杰太好听了",
       "onboard_time": 1761494541,
       "rank": 40,
       "category": "演出,游戏"
-    },
-    {
-      "raw_hot": 105197,
-      "num": 105197,
-      "word": "郭宇欣演过承欢记",
-      "onboard_time": 1761530421,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 104640,
@@ -603,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100413,
+      "num": 100413,
+      "word": "郑恺别演了我害怕",
+      "onboard_time": 1761531919,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99885,
       "num": 99885,
       "word": "送药无人接听返店查药效骑手发声",
       "onboard_time": 1761520217,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99761,
+      "num": 99761,
+      "word": "特朗普在马来西亚听了个地狱笑话",
+      "onboard_time": 1761531801,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99609,
@@ -643,28 +755,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94521,
-      "num": 94521,
-      "word": "金饰克价一夜猛跌17元",
-      "onboard_time": 1761530481,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 92974,
       "num": 118668,
       "word": "单依纯This is me",
       "onboard_time": 1761490222,
       "rank": 42,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 92824,
-      "num": 92824,
-      "word": "云贵川体制内5元吃什么",
-      "onboard_time": 1761530061,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 92251,
@@ -681,14 +777,6 @@
       "onboard_time": 1761525623,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91086,
-      "num": 91086,
-      "word": "文班亚马打破46年队史纪录",
-      "onboard_time": 1761530240,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 89043,
@@ -899,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59659,
+      "num": 610855,
+      "word": "网警查处虚构女技术黑客发虚假广告案",
+      "onboard_time": 1761530601,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58169,
       "num": 58169,
       "word": "管泽元说TES无敌",
@@ -1031,14 +1127,6 @@
       "num": 295195,
       "word": "党历史上又一重要纲领性文件",
       "onboard_time": 1761450080,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 6934,
-      "num": 571488,
-      "word": "网警查处虚构女技术黑客发虚假广告案",
-      "onboard_time": 1761530601,
       "rank": 2,
       "category": "国内时政"
     }

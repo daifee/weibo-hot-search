@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 10:04:19
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 10:26:43
 </p>
 </blockquote>
 <p>
@@ -1521,6 +1521,12 @@ VOGUE晚宴（热度：1147348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B2%92%E6%BC%94%E5%87%BA%E6%97%B6%E8%80%B3%E6%9C%BA%E7%88%86%E7%82%B8%23" target="weibo">
+陈粒演出时耳机爆炸（热度：1143212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E9%92%BB%E7%9F%B3%E8%A1%80%23" target="weibo">
 广东一地发现首例钻石血（热度：1143185）
 </a>
@@ -1535,12 +1541,6 @@ VOGUE晚宴（热度：1147348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E9%97%AA%E7%81%B5%23" target="weibo">
 陈震闪灵（热度：1139532）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B2%92%E6%BC%94%E5%87%BA%E6%97%B6%E8%80%B3%E6%9C%BA%E7%88%86%E7%82%B8%23" target="weibo">
-陈粒演出时耳机爆炸（热度：1139194）
 </a>
 </li>
 
@@ -4293,6 +4293,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%BE%8E%E5%B0%91%E5%B9%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
+世界第一美少年去世（热度：687500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%AF%88%E7%AA%9D%E7%82%B9%E5%A2%99%E4%B8%8A%E6%9C%89%E8%A1%80%E6%89%8B%E5%8D%B0%23" target="weibo">
 电诈窝点墙上有血手印（热度：686729）
 </a>
@@ -5169,6 +5175,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%23" target="weibo">
+南海（热度：616347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%BA%9A%E5%86%9B%23" target="weibo">
 孙颖莎中国大满贯亚军（热度：616330）
 </a>
@@ -5999,18 +6011,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E6%92%9E%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%A5%B3%E5%AD%90%E6%B6%89%E5%AB%8C%E5%8D%B1%E9%99%A9%E9%A9%BE%E9%A9%B6%E7%BD%AA%23" target="weibo">
 三亚撞劳斯莱斯女子涉嫌危险驾驶罪（热度：558166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6%E9%A6%96%E6%AC%A1%E6%94%B9%E4%B8%BAwps%E6%A0%BC%E5%BC%8F%23" target="weibo">
-商务部公告附件首次改为wps格式（热度：557711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%B2%9C%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E4%BA%86%23" target="weibo">
-海鲜价格暴跌了（热度：557204）
 </a>
 </li>
 

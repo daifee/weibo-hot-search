@@ -1,0 +1,410 @@
+{
+  "runTime": 1761532003871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952012,
+        "num": 1152322,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 616347,
+        "num": 616347,
+        "word": "南海",
+        "onboard_time": 1761527061,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59659,
+        "num": 610855,
+        "word": "网警查处虚构女技术黑客发虚假广告案",
+        "onboard_time": 1761530601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606507,
+        "num": 606507,
+        "word": "暴雪大雪暴雨要来了",
+        "onboard_time": 1761523280,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492209,
+        "num": 492209,
+        "word": "西贝闭麦后又开始排队了",
+        "onboard_time": 1761528322,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1143212,
+        "num": 420177,
+        "word": "陈粒演出时耳机爆炸",
+        "onboard_time": 1761521661,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687500,
+        "num": 404815,
+        "word": "世界第一美少年去世",
+        "onboard_time": 1761529641,
+        "rank": 6,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 324701,
+        "num": 324701,
+        "word": "尚公主",
+        "onboard_time": 1761528921,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224959,
+        "num": 224959,
+        "word": "美军回应2架军机在南海坠毁",
+        "onboard_time": 1761530841,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215143,
+        "num": 215143,
+        "word": "王者荣耀六耳",
+        "onboard_time": 1761529820,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 733572,
+        "num": 213977,
+        "word": "曾经爆火现在几乎没人喝的奶茶",
+        "onboard_time": 1761526101,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 580557,
+        "num": 209626,
+        "word": "杨清柠王乐乐同框",
+        "onboard_time": 1761527960,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362882,
+        "num": 207740,
+        "word": "白鹿 恰逢雨连天",
+        "onboard_time": 1761529100,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305418,
+        "num": 203499,
+        "word": "奔跑吧直播",
+        "onboard_time": 1761527720,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279561,
+        "num": 200554,
+        "word": "刘亦菲木兰红",
+        "onboard_time": 1761531201,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265510,
+        "num": 195299,
+        "word": "开始推理吧4",
+        "onboard_time": 1761525442,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253618,
+        "num": 194022,
+        "word": "莫离",
+        "onboard_time": 1761530662,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190827,
+        "num": 190827,
+        "word": "瓶子 抢话",
+        "onboard_time": 1761524122,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173443,
+        "num": 173443,
+        "word": "多名考古学家白天考古晚上盗墓",
+        "onboard_time": 1761490102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171638,
+        "num": 171638,
+        "word": "朋友圈一定要当天发",
+        "onboard_time": 1761490942,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224706,
+        "num": 171197,
+        "word": "金价暴跌有大学生把生活费亏没了",
+        "onboard_time": 1761476659,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 201175,
+        "num": 168743,
+        "word": "每天只睡6小时的受害者出现了",
+        "onboard_time": 1761499516,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196446,
+        "num": 167968,
+        "word": "A股",
+        "onboard_time": 1761531140,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165496,
+        "num": 165496,
+        "word": "有厌食症的留子回国后",
+        "onboard_time": 1761527661,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 139631,
+        "word": "我国3岁以下婴幼儿约3000万",
+        "onboard_time": 1761479121,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131887,
+        "num": 131887,
+        "word": "刘亦菲刘冲坐一辆车",
+        "onboard_time": 1761531379,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "郭宇欣演过承欢记",
+        "onboard_time": 1761530421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "深夜送药无人接听骑手返店查药效",
+        "onboard_time": 1761526760,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128445,
+        "num": 128445,
+        "word": "杨瀚森客场首分",
+        "onboard_time": 1761531321,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124064,
+        "num": 124064,
+        "word": "文班亚马打破46年队史纪录",
+        "onboard_time": 1761530240,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121478,
+        "num": 121478,
+        "word": "那些能支撑你走很久的话",
+        "onboard_time": 1761528441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119485,
+        "num": 119485,
+        "word": "英国律师结束刑事法庭戴假发传统",
+        "onboard_time": 1761520039,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115596,
+        "num": 115596,
+        "word": "终于知道黑车怎么开到白车上了",
+        "onboard_time": 1761531559,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115191,
+        "num": 115191,
+        "word": "朱一龙VogueWorld出图",
+        "onboard_time": 1761530841,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111981,
+        "num": 111981,
+        "word": "金饰克价一夜猛跌17元",
+        "onboard_time": 1761530481,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110862,
+        "num": 110862,
+        "word": "缅北电诈园困住多国公民",
+        "onboard_time": 1761530841,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107748,
+        "num": 107748,
+        "word": "爬楼救完人男子手发抖",
+        "onboard_time": 1761526642,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107565,
+        "num": 107565,
+        "word": "云贵川体制内5元吃什么",
+        "onboard_time": 1761530061,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107488,
+        "num": 107488,
+        "word": "台湾豪宅双尸案",
+        "onboard_time": 1761491424,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "台湾网红馆长被粉丝礼物感动",
+        "onboard_time": 1761525799,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100413,
+        "num": 100413,
+        "word": "郑恺别演了我害怕",
+        "onboard_time": 1761531919,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100149,
+        "num": 100149,
+        "word": "朱一龙闪耀好莱坞",
+        "onboard_time": 1761528322,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 99761,
+        "word": "特朗普在马来西亚听了个地狱笑话",
+        "onboard_time": 1761531801,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99621,
+        "num": 99621,
+        "word": "2025第300天",
+        "onboard_time": 1761527001,
+        "rank": 43,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 99216,
+        "num": 99216,
+        "word": "黄金",
+        "onboard_time": 1761529041,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91097,
+        "num": 91097,
+        "word": "曹颖自曝因过量喝咖啡患焦虑症",
+        "onboard_time": 1761522801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90957,
+        "num": 90957,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1761475520,
+        "rank": 46,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 87877,
+        "num": 87877,
+        "word": "星品影响力",
+        "onboard_time": 1761529700,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 87681,
+        "word": "盲人脱口秀演员谈深圳机场被吐槽",
+        "onboard_time": 1761524601,
+        "rank": 48,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 86603,
+        "num": 86603,
+        "word": "何老师还是太权威了",
+        "onboard_time": 1761492321,
+        "rank": 49,
+        "category": "作品衍生,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#5000多字聚焦办好自己的事#"
+    }
+  }
+}
