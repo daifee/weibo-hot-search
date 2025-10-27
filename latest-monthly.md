@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 16:35:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 16:49:03
 </p>
 </blockquote>
 <p>
@@ -4989,6 +4989,12 @@ iPhone千万别这样充电了（热度：641037）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
+印度人深圳地铁吃手抓饭（热度：636013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%8E%BB%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6%E5%9C%A8%E6%9C%BA%E5%9C%BA%E5%BC%80%E5%A7%8B%E5%A5%94%E8%B7%91%E4%BA%86%23" target="weibo">
 王楚然去跑男录制在机场开始奔跑了（热度：635916）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
 央视曝光AI代写论文黑工厂（热度：566048）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%9B%B4%E6%92%AD%E5%81%87%E5%90%83%E5%86%B0%E6%A3%8D%23" target="weibo">
-成毅直播假吃冰棍（热度：566041）
 </a>
 </li>
 

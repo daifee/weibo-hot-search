@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761554155426,
+  "endTime": 1761554943213,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -435,6 +435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 636013,
+      "num": 236584,
+      "word": "印度人深圳地铁吃手抓饭",
+      "onboard_time": 1761552621,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635916,
       "num": 281392,
       "word": "王楚然去跑男录制在机场开始奔跑了",
@@ -641,14 +649,6 @@
       "onboard_time": 1761548121,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 525223,
-      "num": 236584,
-      "word": "印度人深圳地铁吃手抓饭",
-      "onboard_time": 1761552621,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 520129,
@@ -1099,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 331325,
+      "num": 231106,
+      "word": "网红慧慧饱饱公开道歉",
+      "onboard_time": 1761553221,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 325385,
       "num": 862061,
       "word": "光复二字遍及台湾大街小巷",
@@ -1547,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231106,
-      "num": 231106,
-      "word": "网红慧慧饱饱公开道歉",
-      "onboard_time": 1761553221,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 230654,
       "num": 230654,
       "word": "李昀锐某很幸福",
@@ -1899,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197659,
+      "num": 160578,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197593,
       "num": 197593,
       "word": "富贵少爷把亲爹挂了",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1761465980,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187070,
+      "num": 157335,
+      "word": "沪指逼近4000点再创10年新高",
+      "onboard_time": 1761554840,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 186570,
@@ -2635,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154100,
+      "num": 154100,
+      "word": "王楚钦长大了",
+      "onboard_time": 1761553879,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "湖人战胜国王",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1761462140,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146601,
+      "num": 146601,
+      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+      "onboard_time": 1761553460,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146534,
@@ -3179,14 +3211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134916,
-      "num": 134916,
-      "word": "王楚钦长大了",
-      "onboard_time": 1761553879,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134852,
       "num": 196510,
       "word": "G2抽到TES后全员大笑",
@@ -3236,7 +3260,7 @@
     },
     {
       "raw_hot": 133958,
-      "num": 120890,
+      "num": 128142,
       "word": "秦岚王阳二搭",
       "onboard_time": 1761552382,
       "rank": 41,
@@ -3483,12 +3507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128180,
+      "num": 174545,
+      "word": "奶茶9.9面包99",
+      "onboard_time": 1761552621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "女生称卖黄金被套路杀价200元1克",
       "onboard_time": 1761443359,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127758,
+      "num": 127758,
+      "word": "多名好友现身医院看望许绍雄",
+      "onboard_time": 1761554541,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 127730,
@@ -3609,14 +3649,6 @@
       "onboard_time": 1761395425,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 124006,
-      "num": 174545,
-      "word": "奶茶9.9面包99",
-      "onboard_time": 1761552621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123900,
@@ -3793,6 +3825,14 @@
       "onboard_time": 1761551602,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "喜人把漂亮饭吃成猪脚饭了",
+      "onboard_time": 1761554541,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 116714,
@@ -4105,6 +4145,14 @@
       "onboard_time": 1761449600,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106345,
+      "num": 127760,
+      "word": "孙颖莎小莎教练上线",
+      "onboard_time": 1761554421,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 106222,
@@ -4443,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96161,
+      "num": 96161,
+      "word": "花开锦绣首发预告",
+      "onboard_time": 1761554840,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96049,
       "num": 123863,
       "word": "中美进行了建设性探讨",
@@ -4473,6 +4529,14 @@
       "onboard_time": 1761401002,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95096,
+      "num": 95096,
+      "word": "3男子在公共场合放烈性犬虐杀小猫",
+      "onboard_time": 1761554241,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94889,
@@ -4939,14 +5003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77240,
-      "num": 124815,
-      "word": "花少7吃完火锅收拾了吗",
-      "onboard_time": 1761553879,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77056,
       "num": 255024,
       "word": "中美经贸团队进行深入坦诚交流",
@@ -5009,6 +5065,14 @@
       "onboard_time": 1761380901,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73882,
+      "num": 146662,
+      "word": "119救了119",
+      "onboard_time": 1761554241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73404,
@@ -5139,7 +5203,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66268,
+      "raw_hot": 66553,
       "num": 231350,
       "word": "京东1元拍卖Kelly娃娃包",
       "onboard_time": 1761552262,
@@ -5739,6 +5803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25528,
+      "num": 127782,
+      "word": "为什么手机充电器没有以旧换新",
+      "onboard_time": 1761553879,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25182,
       "num": 119138,
       "word": "张远曝苏醒逼大家让他当队长",
@@ -5825,14 +5897,6 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20917,
-      "num": 125241,
-      "word": "为什么手机充电器没有以旧换新",
-      "onboard_time": 1761553879,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 20005,
