@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761540610167,
+  "endTime": 1761542889858,
   "band_list": [
     {
       "raw_hot": 1314418,
@@ -17,6 +17,14 @@
       "onboard_time": 1761534443,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1204692,
+      "num": 1204692,
+      "word": "缅甸KK园区上千人跳河出逃",
+      "onboard_time": 1761535881,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1149391,
@@ -51,14 +59,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 1049693,
-      "num": 1156594,
-      "word": "缅甸KK园区上千人跳河出逃",
-      "onboard_time": 1761535881,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 996079,
       "num": 319876,
       "word": "李飞手机页面",
@@ -73,6 +73,22 @@
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 843367,
+      "num": 843367,
+      "word": "蔡磊研发药物对病友起效自己没用",
+      "onboard_time": 1761539543,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 806942,
+      "num": 806942,
+      "word": "赵一鸣 用糖找零",
+      "onboard_time": 1761541583,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 806833,
@@ -97,6 +113,14 @@
       "onboard_time": 1761490102,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730937,
+      "num": 308645,
+      "word": "刘欢女儿结婚",
+      "onboard_time": 1761540080,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 697119,
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563457,
+      "num": 563457,
+      "word": "当地就招聘岗位疑似萝卜岗致歉",
+      "onboard_time": 1761540441,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 554927,
       "num": 554927,
       "word": "淘宝闪购",
@@ -243,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 431429,
+      "num": 280755,
+      "word": "刘亦菲朱一龙秀场同框",
+      "onboard_time": 1761539903,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414251,
       "num": 497817,
       "word": "打野的尽头是一片海",
@@ -291,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355583,
-      "num": 355583,
-      "word": "蔡磊研发药物对病友起效自己没用",
-      "onboard_time": 1761539543,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 355280,
       "num": 240042,
       "word": "奔跑吧直播",
@@ -337,14 +369,6 @@
       "onboard_time": 1761479121,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308645,
-      "num": 308645,
-      "word": "刘欢女儿结婚",
-      "onboard_time": 1761540080,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 299713,
@@ -395,8 +419,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 263746,
+      "num": 263746,
+      "word": "腾讯官宣等风热吻你",
+      "onboard_time": 1761542302,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256506,
-      "num": 256506,
+      "num": 271238,
       "word": "张伦硕否认顶配继父称号",
       "onboard_time": 1761539722,
       "rank": 38,
@@ -425,6 +457,14 @@
       "onboard_time": 1761482362,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246332,
+      "num": 246332,
+      "word": "男朋友失联已看广告复活",
+      "onboard_time": 1761540080,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 243616,
@@ -483,6 +523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 219663,
+      "num": 219663,
+      "word": "10个表现说明严重睡眠不足",
+      "onboard_time": 1761539722,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214199,
       "num": 192421,
       "word": "男子辅导作业失手致儿子耳膜穿孔",
@@ -497,6 +545,14 @@
       "onboard_time": 1761536601,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212012,
+      "num": 212012,
+      "word": "博主从印度泼粪节逃出后发声",
+      "onboard_time": 1761542482,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205934,
@@ -579,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194348,
-      "num": 194348,
-      "word": "刘亦菲朱一龙秀场同框",
-      "onboard_time": 1761539903,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192435,
       "num": 192435,
       "word": "东帝汶总理流泪了",
@@ -609,6 +657,14 @@
       "onboard_time": 1761535461,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190261,
+      "num": 190261,
+      "word": "小S说谁那么会生啦",
+      "onboard_time": 1761541821,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 189845,
@@ -643,20 +699,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184392,
-      "num": 184392,
-      "word": "10个表现说明严重睡眠不足",
-      "onboard_time": 1761539722,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183118,
       "num": 159368,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
       "onboard_time": 1761490942,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177404,
+      "num": 177404,
+      "word": "你等这一千块钱过年吗",
+      "onboard_time": 1761542062,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176815,
@@ -731,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164692,
+      "num": 309212,
+      "word": "27岁女子称花6万相亲被介绍50岁对象",
+      "onboard_time": 1761540261,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161726,
       "num": 161726,
       "word": "鞠婧祎全新高定首穿",
@@ -779,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155141,
+      "num": 155141,
+      "word": "果农手一掂就知梨重9两2",
+      "onboard_time": 1761540680,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154964,
       "num": 142372,
       "word": "邓紫棋演唱会裤子开了",
@@ -793,6 +865,14 @@
       "onboard_time": 1761537261,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153708,
+      "num": 153708,
+      "word": "白鹿感谢大家喜欢今年的三个角色",
+      "onboard_time": 1761542062,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 152761,
@@ -819,20 +899,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149331,
-      "num": 149331,
-      "word": "男朋友失联已看广告复活",
-      "onboard_time": 1761540080,
+      "raw_hot": 148600,
+      "num": 148600,
+      "word": "李一桐也没放过李荣浩",
+      "onboard_time": 1761542302,
       "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 147559,
-      "num": 147559,
-      "word": "当地就招聘岗位疑似萝卜岗致歉",
-      "onboard_time": 1761540441,
-      "rank": 41,
-      "category": "辟谣/通报"
+      "category": "剧集"
     },
     {
       "raw_hot": 146670,
@@ -1075,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116479,
+      "num": 116479,
+      "word": "明日方舟",
+      "onboard_time": 1761542242,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115596,
       "num": 115596,
       "word": "终于知道黑车怎么开到白车上了",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1761481161,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106777,
+      "num": 148664,
+      "word": "女子穿吊带裙遭街拍被配文传播",
+      "onboard_time": 1761541702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105907,
@@ -1371,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72626,
+      "num": 148758,
+      "word": "恋爱1个月喜当爹发现竟是别人娃",
+      "onboard_time": 1761542121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71604,
       "num": 325630,
       "word": "十年全赛季最强王者的含金量",
@@ -1385,6 +1481,14 @@
       "onboard_time": 1761520639,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69771,
+      "num": 264388,
+      "word": "冰山上司竟是刘宇同担",
+      "onboard_time": 1761541401,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 68773,
@@ -1571,20 +1675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40917,
-      "num": 309212,
-      "word": "27岁女子称花6万相亲被介绍50岁对象",
-      "onboard_time": 1761540261,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40337,
       "num": 155600,
       "word": "南笙顺产纪录片",
       "onboard_time": 1761539062,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39846,
+      "num": 119092,
+      "word": "货车追尾致3死家属称司机未道歉",
+      "onboard_time": 1761541283,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36024,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1761534081,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26848,
+      "num": 817755,
+      "word": "广电精品创作大会来了",
+      "onboard_time": 1761541583,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25647,

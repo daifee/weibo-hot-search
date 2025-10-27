@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 12:50:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 13:28:09
 </p>
 </blockquote>
 <p>
@@ -1299,6 +1299,12 @@ AL打T1（热度：1227982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83%23" target="weibo">
+缅甸KK园区上千人跳河出逃（热度：1204692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2vs%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3%23" target="weibo">
 长期吃面vs长期吃米（热度：1200798）
 </a>
@@ -1907,12 +1913,6 @@ ELLE全阵容官宣（热度：1058138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%9D%8E%E8%8F%B2%E5%84%BF%23" target="weibo">
 差点没认出来李菲儿（热度：1049868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B7%B3%E6%B2%B3%E5%87%BA%E9%80%83%23" target="weibo">
-缅甸KK园区上千人跳河出逃（热度：1049693）
 </a>
 </li>
 
@@ -3009,6 +3009,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E8%8D%AF%E7%89%A9%E5%AF%B9%E7%97%85%E5%8F%8B%E8%B5%B7%E6%95%88%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8%23" target="weibo">
+蔡磊研发药物对病友起效自己没用（热度：843367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%9A%87%E6%AC%A0%E5%80%BA%E6%B4%BE%E6%83%A0%E8%8B%B1%E7%BA%A2%E8%80%81%E5%A4%AA%E5%8B%87%E5%A4%BA%E9%AB%98%E5%A5%A2%23" target="weibo">
 英皇欠债派惠英红老太勇夺高奢（热度：843326）
 </a>
@@ -3299,6 +3305,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E6%89%BF%E8%AE%A4%E9%80%83%E5%85%B5%E5%BD%B9%23" target="weibo">
 修杰楷承认逃兵役（热度：807565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E9%B8%A3%20%E7%94%A8%E7%B3%96%E6%89%BE%E9%9B%B6%23" target="weibo">
+赵一鸣 用糖找零（热度：806942）
 </a>
 </li>
 
@@ -3917,6 +3929,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A1%E7%BE%8E%23" target="weibo">
 卢昱晓工作室审美（热度：731112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%23" target="weibo">
+刘欢女儿结婚（热度：730937）
 </a>
 </li>
 
@@ -5991,26 +6009,8 @@ hi6（热度：563954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8D%97%E7%AC%99%E7%94%9F%E5%A8%83%23" target="weibo">
-网红南笙生娃（热度：562402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A7%E9%97%B9%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
-薛之谦大闹沈梦辰直播间（热度：562051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E9%A5%A5%E9%A5%BF%E6%84%9F%E5%85%A5%E7%9D%A1%E8%84%82%E8%82%AA%E7%87%83%E7%83%A7%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
-带着饥饿感入睡脂肪燃烧的全过程（热度：562035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%90%8C%E5%B1%85%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%85%AC%E6%B4%BE%E7%95%99%E5%AD%A6%23" target="weibo">
-与已婚女同居博士生被解除公派留学（热度：561247）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%B0%B1%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D%E7%96%91%E4%BC%BC%E8%90%9D%E5%8D%9C%E5%B2%97%E8%87%B4%E6%AD%89%23" target="weibo">
+当地就招聘岗位疑似萝卜岗致歉（热度：563457）
 </a>
 </li>
 
