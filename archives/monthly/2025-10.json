@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761561996018,
+  "endTime": 1761564206397,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -465,6 +465,14 @@
       "onboard_time": 1760839400,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2195267,
+      "num": 255650,
+      "word": "九尾 杨幂你等等我的lsh",
+      "onboard_time": 1761561021,
+      "rank": 31,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 2187134,
@@ -1377,14 +1385,6 @@
       "onboard_time": 1759460480,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1353877,
-      "num": 255650,
-      "word": "九尾 杨幂你等等我的lsh",
-      "onboard_time": 1761561021,
-      "rank": 31,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 1352947,
@@ -3171,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 962903,
+      "num": 144597,
+      "word": "曝迪丽热巴与嘉行切割快结束了",
+      "onboard_time": 1761562102,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960633,
       "num": 244786,
       "word": "日本旅馆老板下药性侵10名女房客",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1759794797,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 896828,
+      "num": 176538,
+      "word": "黄磊微信名叫多妹弟爸",
+      "onboard_time": 1761561441,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 895011,
@@ -6616,6 +6632,14 @@
       "word": "中国迅速对美国亮出反制工具箱",
       "onboard_time": 1760141001,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 642396,
+      "num": 1102783,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -10273,6 +10297,14 @@
       "onboard_time": 1759462220,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484487,
+      "num": 484487,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484326,
@@ -17491,14 +17523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 301026,
-      "num": 176538,
-      "word": "黄磊微信名叫多妹弟爸",
-      "onboard_time": 1761561441,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300647,
       "num": 275709,
       "word": "鸡排哥公司增资至100万",
@@ -18217,14 +18241,6 @@
       "onboard_time": 1760417482,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 289733,
-      "num": 289733,
-      "word": "南海坠机所在航母正执行最后任务",
-      "onboard_time": 1761560480,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 289684,
@@ -19241,6 +19257,14 @@
       "onboard_time": 1759473260,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272614,
+      "num": 145820,
+      "word": "佘诗曼谈许绍雄身体状况落泪",
+      "onboard_time": 1761561741,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272604,
@@ -24011,6 +24035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211445,
+      "num": 211445,
+      "word": "多地涨工资落地",
+      "onboard_time": 1761560000,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211439,
       "num": 1002284,
       "word": "张雪峰账号解封",
@@ -24112,14 +24144,6 @@
       "word": "北方多个城市已提前供暖",
       "onboard_time": 1761292700,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210282,
-      "num": 210282,
-      "word": "市监局确认酸菜生产乱象属实",
-      "onboard_time": 1761561021,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -27235,6 +27259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193225,
+      "num": 142147,
+      "word": "向佐说颜值回春到和郭碧婷恋爱期",
+      "onboard_time": 1761563541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193171,
       "num": 193171,
       "word": "赵丽颖是谁生日呢是我呀",
@@ -27920,6 +27952,14 @@
       "word": "敖瑞鹏这次录跑男跑不了了",
       "onboard_time": 1761561620,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190082,
+      "num": 190082,
+      "word": "王一博官宣探索新境2",
+      "onboard_time": 1761563002,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -29233,6 +29273,14 @@
       "onboard_time": 1761191061,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183414,
+      "num": 142032,
+      "word": "孟佳怎么越穿越大胆",
+      "onboard_time": 1761562882,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 183394,
@@ -32675,6 +32723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167840,
+      "num": 134507,
+      "word": "易烊千玺回应参加补办毕业典礼",
+      "onboard_time": 1761561798,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167791,
       "num": 167791,
       "word": "李昀锐这段牛顿别看",
@@ -35251,14 +35307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158512,
-      "num": 199890,
-      "word": "多地涨工资落地",
-      "onboard_time": 1761560000,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158511,
       "num": 158511,
       "word": "杨幂游玩plog",
@@ -35697,6 +35745,14 @@
       "onboard_time": 1759931302,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156835,
+      "num": 131179,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1761562460,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 156792,
@@ -39075,14 +39131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145820,
-      "num": 145820,
-      "word": "佘诗曼谈许绍雄身体状况落泪",
-      "onboard_time": 1761561741,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 145816,
       "num": 145816,
       "word": "修复为人民服务标语小伙公布费用",
@@ -39361,6 +39409,14 @@
       "onboard_time": 1760539405,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144877,
+      "num": 144877,
+      "word": "外交部回应美军机南海坠毁",
+      "onboard_time": 1761562041,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144846,
@@ -41707,6 +41763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137832,
+      "num": 131095,
+      "word": "宋雨琦教白鹿跳fiction",
+      "onboard_time": 1761563122,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137796,
       "num": 137796,
       "word": "两中国游客在马来西亚酒店失联3日",
@@ -43123,14 +43187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134507,
-      "num": 134507,
-      "word": "易烊千玺回应参加补办毕业典礼",
-      "onboard_time": 1761561798,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134445,
       "num": 125572,
       "word": "医院说只有这只狗摔了2次",
@@ -44449,6 +44505,14 @@
       "onboard_time": 1761472520,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131512,
+      "num": 131512,
+      "word": "对古装剧颜值有了实感",
+      "onboard_time": 1761563181,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 131494,
@@ -47827,6 +47891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124137,
+      "num": 124137,
+      "word": "iPhone18或全系标配12GB",
+      "onboard_time": 1761563841,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124131,
       "num": 122468,
       "word": "一毛红包",
@@ -48819,6 +48891,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 122265,
+      "num": 122265,
+      "word": "刘亦菲的白VS欧美的白",
+      "onboard_time": 1761564080,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122264,
       "num": 122264,
       "word": "马思纯早期书模的含金量",
@@ -49361,6 +49441,14 @@
       "onboard_time": 1759896440,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121114,
+      "num": 121114,
+      "word": "易烊千玺说一回学校就不想出来了",
+      "onboard_time": 1761563481,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 121093,
@@ -51265,6 +51353,14 @@
       "onboard_time": 1759412181,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117585,
+      "num": 117585,
+      "word": "你以为的多囊vs实际上的多囊",
+      "onboard_time": 1761563240,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117582,
@@ -53809,6 +53905,14 @@
       "onboard_time": 1761184161,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112722,
+      "num": 112722,
+      "word": "76岁的许绍雄",
+      "onboard_time": 1761562702,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 112715,
@@ -60713,6 +60817,14 @@
       "onboard_time": 1760008700,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102458,
+      "num": 122287,
+      "word": "女子徒步误将蛇窝当野生蹦床",
+      "onboard_time": 1761563600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102457,
@@ -73123,6 +73235,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 81071,
+      "num": 143021,
+      "word": "男子在酸菜池中抽烟乱吐",
+      "onboard_time": 1761563061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81070,
       "num": 114231,
       "word": "樊振东刚练完球就拍证件照",
@@ -73561,6 +73681,14 @@
       "onboard_time": 1760430741,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80198,
+      "num": 151992,
+      "word": "深圳一双层巴士撞限高架致削顶",
+      "onboard_time": 1761561865,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80182,
@@ -75249,14 +75377,6 @@
       "onboard_time": 1759567400,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76673,
-      "num": 151992,
-      "word": "深圳一双层巴士撞限高架致削顶",
-      "onboard_time": 1761561865,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76670,
@@ -78401,6 +78521,14 @@
       "onboard_time": 1759640602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66884,
+      "num": 122414,
+      "word": "樊振东压轴十五运宣传片",
+      "onboard_time": 1761563061,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 66794,
@@ -83249,6 +83377,14 @@
       "onboard_time": 1760525601,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46755,
+      "num": 122338,
+      "word": "孩子考10分遭父亲板凳砸头",
+      "onboard_time": 1761563061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46669,
