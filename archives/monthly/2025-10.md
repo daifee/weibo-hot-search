@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 18:30:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 18:46:36
 </p>
 </blockquote>
 <p>
@@ -1043,6 +1043,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%20%E6%9D%A8%E5%B9%82%E4%BD%A0%E7%AD%89%E7%AD%89%E6%88%91%E7%9A%84lsh%23" target="weibo">
+九尾 杨幂你等等我的lsh（热度：1353877）
 </a>
 </li>
 
@@ -3885,6 +3891,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E9%83%BD%E5%8D%96%E4%B8%8D%E6%8E%89%E7%9A%84%E8%B4%A7%E4%B8%80%E6%99%9A%E4%B8%8A%E5%85%A8%E5%8D%96%E4%BA%86%23" target="weibo">
+一年都卖不掉的货一晚上全卖了（热度：745683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%A4%B1%E8%81%944%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 辽宁失联4岁女童已找到（热度：745366）
 </a>
@@ -4181,12 +4193,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%8A%9B%E8%A5%BF%E5%85%B0%E8%8A%B1%23" target="weibo">
 黄子韬 抛西兰花（热度：708369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E9%83%BD%E5%8D%96%E4%B8%8D%E6%8E%89%E7%9A%84%E8%B4%A7%E4%B8%80%E6%99%9A%E4%B8%8A%E5%85%A8%E5%8D%96%E4%BA%86%23" target="weibo">
-一年都卖不掉的货一晚上全卖了（热度：707254）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A8%E5%BD%A2%E7%98%A622%E6%96%A4%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%23" target="weibo">
 梨形瘦22斤的杀伤力（热度：569407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%9B%E6%81%A9%E5%90%88%E7%BA%A6%23" target="weibo">
-李沛恩合约（热度：569275）
 </a>
 </li>
 

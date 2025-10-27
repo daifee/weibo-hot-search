@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761561057996,
+  "endTime": 1761561996018,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -17,6 +17,14 @@
       "onboard_time": 1761541583,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1353877,
+      "num": 255650,
+      "word": "九尾 杨幂你等等我的lsh",
+      "onboard_time": 1761561021,
+      "rank": 31,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 1314418,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745683,
+      "num": 210002,
+      "word": "一年都卖不掉的货一晚上全卖了",
+      "onboard_time": 1761558501,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 734019,
       "num": 236930,
       "word": "杨清柠 王乐乐",
@@ -169,14 +185,6 @@
       "onboard_time": 1761540080,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 707254,
-      "num": 206262,
-      "word": "一年都卖不掉的货一晚上全卖了",
-      "onboard_time": 1761558501,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 697119,
@@ -451,6 +459,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 419047,
+      "num": 205304,
+      "word": "深圳地铁回应印度人在车上吃手抓饭",
+      "onboard_time": 1761558681,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414251,
       "num": 497817,
       "word": "打野的尽头是一片海",
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325140,
-      "num": 202133,
-      "word": "深圳地铁回应印度人在车上吃手抓饭",
-      "onboard_time": 1761558681,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301026,
+      "num": 176538,
+      "word": "黄磊微信名叫多妹弟爸",
+      "onboard_time": 1761561441,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299713,
       "num": 299713,
       "word": "王者荣耀共创之夜",
@@ -585,6 +601,14 @@
       "onboard_time": 1761480381,
       "rank": 22,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 289733,
+      "num": 289733,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289039,
@@ -755,6 +779,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 219864,
+      "num": 198314,
+      "word": "在冷地方待久了鼻子的变化",
+      "onboard_time": 1761557721,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219663,
       "num": 219663,
       "word": "10个表现说明严重睡眠不足",
@@ -787,12 +819,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208053,
-      "num": 208053,
-      "word": "南海坠机所在航母正执行最后任务",
-      "onboard_time": 1761560480,
-      "rank": 7,
-      "category": "国际时政"
+      "raw_hot": 210282,
+      "num": 210282,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210155,
+      "num": 210155,
+      "word": "胡锡进谈郑智化道歉",
+      "onboard_time": 1761560662,
+      "rank": 9,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 206425,
@@ -849,14 +889,6 @@
       "onboard_time": 1761487883,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203646,
-      "num": 151541,
-      "word": "在冷地方待久了鼻子的变化",
-      "onboard_time": 1761557721,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 200086,
@@ -947,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190107,
+      "num": 190107,
+      "word": "敖瑞鹏这次录跑男跑不了了",
+      "onboard_time": 1761561620,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189845,
       "num": 189845,
       "word": "何老师还是太权威了",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 182572,
-      "num": 171211,
+      "num": 179197,
       "word": "吴邪私家笔记2 付航",
       "onboard_time": 1761556580,
       "rank": 23,
@@ -1067,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176296,
+      "num": 176296,
+      "word": "胡歌吴磊同日官宣主演古装剧",
+      "onboard_time": 1761561561,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174787,
       "num": 174787,
       "word": "关晓彤友情出演",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1761553281,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174038,
-      "num": 147408,
-      "word": "九尾 杨幂你等等我的lsh",
-      "onboard_time": 1761561021,
-      "rank": 31,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 172953,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1761535341,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169286,
+      "num": 169286,
+      "word": "天地剑心",
+      "onboard_time": 1761560901,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 169131,
@@ -1259,6 +1307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158648,
+      "num": 158648,
+      "word": "T1全员火锅店合照",
+      "onboard_time": 1761561441,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158512,
+      "num": 199890,
+      "word": "多地涨工资落地",
+      "onboard_time": 1761560000,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157666,
       "num": 154100,
       "word": "王楚钦长大了",
@@ -1348,7 +1412,7 @@
     },
     {
       "raw_hot": 152576,
-      "num": 152576,
+      "num": 160148,
       "word": "火树为了见黄灿灿请罗予彤吃饭",
       "onboard_time": 1761558860,
       "rank": 27,
@@ -1443,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145820,
+      "num": 145820,
+      "word": "佘诗曼谈许绍雄身体状况落泪",
+      "onboard_time": 1761561741,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145410,
       "num": 145410,
       "word": "美式咖啡和黑咖啡的区别",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1761553401,
       "rank": 32,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 134507,
+      "num": 134507,
+      "word": "易烊千玺回应参加补办毕业典礼",
+      "onboard_time": 1761561798,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 134132,
@@ -1787,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122116,
-      "num": 206874,
-      "word": "胡锡进谈郑智化道歉",
-      "onboard_time": 1761560662,
-      "rank": 9,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 121800,
       "num": 146662,
       "word": "119救了119",
@@ -1977,14 +2049,6 @@
       "onboard_time": 1761545660,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113227,
-      "num": 113227,
-      "word": "天地剑心",
-      "onboard_time": 1761560901,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 112874,
@@ -2220,7 +2284,7 @@
     },
     {
       "raw_hot": 96483,
-      "num": 96483,
+      "num": 118429,
       "word": "前阿里高管担任山姆中国总裁",
       "onboard_time": 1761558441,
       "rank": 48,
@@ -2259,20 +2323,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 93416,
-      "num": 93416,
-      "word": "市监局确认酸菜生产乱象属实",
-      "onboard_time": 1761561021,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92974,
       "num": 118668,
       "word": "单依纯This is me",
       "onboard_time": 1761490222,
       "rank": 42,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 92256,
+      "num": 200389,
+      "word": "王鹤棣帅成AI了",
+      "onboard_time": 1761559461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 92251,
@@ -2403,6 +2467,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 76673,
+      "num": 151992,
+      "word": "深圳一双层巴士撞限高架致削顶",
+      "onboard_time": 1761561865,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76037,
       "num": 194749,
       "word": "卫生巾新国标已通过审查正在批准",
@@ -2433,14 +2505,6 @@
       "onboard_time": 1761520639,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70401,
-      "num": 121493,
-      "word": "多地涨工资落地",
-      "onboard_time": 1761560000,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69771,
@@ -2627,12 +2691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55744,
-      "num": 198141,
-      "word": "王鹤棣帅成AI了",
-      "onboard_time": 1761559461,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 55352,
+      "num": 199012,
+      "word": "消费者称面包袋里的蟑螂咬开口子溜了",
+      "onboard_time": 1761560601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54972,
@@ -2668,7 +2732,7 @@
     },
     {
       "raw_hot": 48766,
-      "num": 121151,
+      "num": 146695,
       "word": "春秋航空称空嫂在服务儿童时有优势",
       "onboard_time": 1761560601,
       "rank": 36,
@@ -2835,14 +2899,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 21101,
-      "num": 199012,
-      "word": "消费者称面包袋里的蟑螂咬开口子溜了",
-      "onboard_time": 1761560601,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20126,
       "num": 117220,
       "word": "水龙吟导演你的养老保险来了",
@@ -2889,6 +2945,22 @@
       "onboard_time": 1761510793,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11975,
+      "num": 148900,
+      "word": "再过5年世界会是什么样",
+      "onboard_time": 1761561201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9610,
+      "num": 150317,
+      "word": "卢昱晓不是只有有用才值得被爱",
+      "onboard_time": 1761561865,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 6942,

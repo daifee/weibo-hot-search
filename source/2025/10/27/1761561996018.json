@@ -1,0 +1,410 @@
+{
+  "runTime": 1761561996018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764042,
+        "num": 1122246,
+        "word": "花少7吃完火锅收拾了吗",
+        "onboard_time": 1761553879,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515995,
+        "num": 515995,
+        "word": "东京进入最高警戒态势",
+        "onboard_time": 1761555022,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3247,
+        "num": 416943,
+        "word": "你好十五五",
+        "onboard_time": 1761468140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360851,
+        "num": 360851,
+        "word": "春秋航空开招已婚已育空嫂",
+        "onboard_time": 1761550223,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289733,
+        "num": 289733,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1353877,
+        "num": 255650,
+        "word": "九尾 杨幂你等等我的lsh",
+        "onboard_time": 1761561021,
+        "rank": 5,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 295068,
+        "num": 255338,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210762,
+        "num": 210762,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313441,
+        "num": 210722,
+        "word": "赵一鸣 用糖找零",
+        "onboard_time": 1761541583,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210282,
+        "num": 210282,
+        "word": "市监局确认酸菜生产乱象属实",
+        "onboard_time": 1761561021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210155,
+        "num": 210155,
+        "word": "胡锡进谈郑智化道歉",
+        "onboard_time": 1761560662,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 745683,
+        "num": 210002,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679826,
+        "num": 208405,
+        "word": "网红慧慧饱饱公开道歉",
+        "onboard_time": 1761553221,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 644187,
+        "num": 207273,
+        "word": "何炅 杨幂你话筒拿了吗",
+        "onboard_time": 1761556281,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 514885,
+        "num": 206489,
+        "word": "长大才意识到父母想要什么礼物",
+        "onboard_time": 1761556281,
+        "rank": 14,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 419047,
+        "num": 205304,
+        "word": "深圳地铁回应印度人在车上吃手抓饭",
+        "onboard_time": 1761558681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410445,
+        "num": 203489,
+        "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+        "onboard_time": 1761553460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402872,
+        "num": 203353,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226439,
+        "num": 202075,
+        "word": "杨紫回应饰演董竹君",
+        "onboard_time": 1761551242,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92256,
+        "num": 200389,
+        "word": "王鹤棣帅成AI了",
+        "onboard_time": 1761559461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158512,
+        "num": 199890,
+        "word": "多地涨工资落地",
+        "onboard_time": 1761560000,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219864,
+        "num": 198314,
+        "word": "在冷地方待久了鼻子的变化",
+        "onboard_time": 1761557721,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55352,
+        "num": 196849,
+        "word": "消费者称面包袋里的蟑螂咬开口子溜了",
+        "onboard_time": 1761560601,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215309,
+        "num": 196225,
+        "word": "印度人深圳地铁吃手抓饭",
+        "onboard_time": 1761552621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195643,
+        "num": 195643,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1761547700,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 190107,
+        "word": "敖瑞鹏这次录跑男跑不了了",
+        "onboard_time": 1761561620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179812,
+        "num": 179812,
+        "word": "刘亦菲朱一龙聚餐",
+        "onboard_time": 1761548661,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155281,
+        "num": 179197,
+        "word": "吴邪私家笔记2 付航",
+        "onboard_time": 1761556580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96100,
+        "num": 178626,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85476,
+        "num": 178012,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301026,
+        "num": 176538,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176296,
+        "num": 176296,
+        "word": "胡歌吴磊同日官宣主演古装剧",
+        "onboard_time": 1761561561,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169286,
+        "num": 169286,
+        "word": "天地剑心",
+        "onboard_time": 1761560901,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133794,
+        "num": 160148,
+        "word": "火树为了见黄灿灿请罗予彤吃饭",
+        "onboard_time": 1761558860,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159832,
+        "num": 159832,
+        "word": "金价下跌为何金饰品牌接连涨价",
+        "onboard_time": 1761559221,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 158648,
+        "num": 158648,
+        "word": "T1全员火锅店合照",
+        "onboard_time": 1761561441,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152339,
+        "num": 152339,
+        "word": "印度女医生遭警察多次性侵绝望自杀",
+        "onboard_time": 1761548121,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76673,
+        "num": 151992,
+        "word": "深圳一双层巴士撞限高架致削顶",
+        "onboard_time": 1761561865,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9610,
+        "num": 150317,
+        "word": "卢昱晓不是只有有用才值得被爱",
+        "onboard_time": 1761561865,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11975,
+        "num": 148900,
+        "word": "再过5年世界会是什么样",
+        "onboard_time": 1761561201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133682,
+        "num": 147130,
+        "word": "剑来官宣吴磊",
+        "onboard_time": 1761545001,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38123,
+        "num": 146695,
+        "word": "春秋航空称空嫂在服务儿童时有优势",
+        "onboard_time": 1761560601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145820,
+        "num": 145820,
+        "word": "佘诗曼谈许绍雄身体状况落泪",
+        "onboard_time": 1761561741,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134507,
+        "num": 134507,
+        "word": "易烊千玺回应参加补办毕业典礼",
+        "onboard_time": 1761561798,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132011,
+        "num": 132011,
+        "word": "有的鸭做羽绒 有的鸭穿羽绒",
+        "onboard_time": 1761559340,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118588,
+        "num": 118588,
+        "word": "金枝 李一桐",
+        "onboard_time": 1761558681,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91792,
+        "num": 118429,
+        "word": "前阿里高管担任山姆中国总裁",
+        "onboard_time": 1761558441,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90902,
+        "num": 117649,
+        "word": "明年或将出最便宜iPhone",
+        "onboard_time": 1761555621,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86931,
+        "num": 116859,
+        "word": "恋与深空",
+        "onboard_time": 1761558320,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72980,
+        "num": 116598,
+        "word": "杨瀚森NBA得分追平孙悦",
+        "onboard_time": 1761548421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席生动阐释亚太合作#"
+    }
+  }
+}
