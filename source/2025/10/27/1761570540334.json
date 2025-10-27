@@ -1,0 +1,410 @@
+{
+  "runTime": 1761570540334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540648,
+        "num": 1086503,
+        "word": "市监局确认酸菜生产乱象属实",
+        "onboard_time": 1761561021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484535,
+        "num": 484535,
+        "word": "西部航空道歉",
+        "onboard_time": 1761564380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7128,
+        "num": 425814,
+        "word": "我国长期向好的基本趋势没有变",
+        "onboard_time": 1761570503,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404384,
+        "num": 404384,
+        "word": "地球超新鲜2原班人马回归",
+        "onboard_time": 1761567380,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303632,
+        "num": 303632,
+        "word": "南海坠机所在航母正执行最后任务",
+        "onboard_time": 1761560480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243811,
+        "num": 243811,
+        "word": "刘诗诗新剧美我一跳更吓我一跳",
+        "onboard_time": 1761565822,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288174,
+        "num": 234678,
+        "word": "一加15价格",
+        "onboard_time": 1761569001,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3185,
+        "num": 220794,
+        "word": "你好十五五",
+        "onboard_time": 1761468140,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213071,
+        "num": 213071,
+        "word": "多地涨工资落地",
+        "onboard_time": 1761560000,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41005,
+        "num": 210677,
+        "word": "王毅同美国国务卿鲁比奥通电话",
+        "onboard_time": 1761569661,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 978449,
+        "num": 203250,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671752,
+        "num": 198877,
+        "word": "黄磊微信名叫多妹弟爸",
+        "onboard_time": 1761561441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449822,
+        "num": 193347,
+        "word": "嘉行传媒否认与迪丽热巴切割",
+        "onboard_time": 1761565642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192617,
+        "num": 192617,
+        "word": "内娱三搭cp的含金量",
+        "onboard_time": 1761568041,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405659,
+        "num": 192357,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390174,
+        "num": 191443,
+        "word": "一年都卖不掉的货一晚上全卖了",
+        "onboard_time": 1761558501,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305479,
+        "num": 191108,
+        "word": "易烊千玺回应参加补办毕业典礼",
+        "onboard_time": 1761561798,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256429,
+        "num": 190097,
+        "word": "刘亦菲的白VS欧美的白",
+        "onboard_time": 1761564080,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241242,
+        "num": 189632,
+        "word": "佘诗曼谈许绍雄身体状况落泪",
+        "onboard_time": 1761561741,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56545,
+        "num": 189199,
+        "word": "外骨骼送快递能不能全国推广",
+        "onboard_time": 1761567501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "花海也在追暗河传",
+        "onboard_time": 1761569782,
+        "rank": 20,
+        "category": "电竞,剧集"
+      },
+      {
+        "raw_hot": 575272,
+        "num": 188123,
+        "word": "九尾 杨幂你等等我的lsh",
+        "onboard_time": 1761561021,
+        "rank": 21,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 312667,
+        "num": 186828,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251355,
+        "num": 184661,
+        "word": "花少7吃完火锅收拾了吗",
+        "onboard_time": 1761553879,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233936,
+        "num": 182605,
+        "word": "教体局回应50名小学生集体不上课",
+        "onboard_time": 1761565521,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 171363,
+        "num": 181364,
+        "word": "敖瑞鹏这次录跑男跑不了了",
+        "onboard_time": 1761561620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180448,
+        "num": 180448,
+        "word": "你好种地少年直播",
+        "onboard_time": 1761569661,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174689,
+        "num": 174689,
+        "word": "王权富贵A爆了",
+        "onboard_time": 1761567802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169556,
+        "num": 169556,
+        "word": "A股临近4000点出现两个异常现象",
+        "onboard_time": 1761569962,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131157,
+        "num": 163419,
+        "word": "孟子义暮晚摇 甘为女王裙下臣",
+        "onboard_time": 1761569782,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159657,
+        "num": 159657,
+        "word": "长大才意识到父母想要什么礼物",
+        "onboard_time": 1761556281,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 138700,
+        "num": 138700,
+        "word": "最佳睡眠怎么从10小时变7小时了",
+        "onboard_time": 1761566601,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 137105,
+        "num": 137105,
+        "word": "偶遇曾辉韩雨彤牵手逛街",
+        "onboard_time": 1761568522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135151,
+        "num": 135151,
+        "word": "黄宗泽到院探望许绍雄",
+        "onboard_time": 1761569962,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129979,
+        "num": 129979,
+        "word": "何炅 杨幂你话筒拿了吗",
+        "onboard_time": 1761556281,
+        "rank": 34,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 124383,
+        "num": 124383,
+        "word": "谭松韵刘学义新剧天崩开局",
+        "onboard_time": 1761567442,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122663,
+        "num": 122663,
+        "word": "骄阳似我冬偶",
+        "onboard_time": 1761567982,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122237,
+        "num": 122237,
+        "word": "张宥浩搂着王俊凯",
+        "onboard_time": 1761569901,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122001,
+        "num": 122001,
+        "word": "外交部回应美军机南海坠毁",
+        "onboard_time": 1761562041,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12711,
+        "num": 118115,
+        "word": "王楚钦展望十五运",
+        "onboard_time": 1761569661,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116957,
+        "num": 116957,
+        "word": "女子38克金手镯被弟媳调包",
+        "onboard_time": 1761566661,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109941,
+        "num": 109941,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109457,
+        "num": 109457,
+        "word": "钎城 期待我们的下一个十年",
+        "onboard_time": 1761569001,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103237,
+        "num": 103237,
+        "word": "Deft送别EDG队宠",
+        "onboard_time": 1761566962,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103015,
+        "num": 103015,
+        "word": "罗云熙笑倒在肖顺尧怀里",
+        "onboard_time": 1761570323,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101550,
+        "num": 101550,
+        "word": "左雾曝Scout还清GALA欠款",
+        "onboard_time": 1761565401,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100918,
+        "num": 100918,
+        "word": "在冷地方待久了鼻子的变化",
+        "onboard_time": 1761557721,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95074,
+        "num": 95074,
+        "word": "原来公交卡有这么多花样",
+        "onboard_time": 1761570082,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94030,
+        "num": 94030,
+        "word": "李沁不愿看到你流泪的眼睛",
+        "onboard_time": 1761567320,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94013,
+        "num": 94013,
+        "word": "小落关系户美了美了",
+        "onboard_time": 1761567261,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  }
+}
