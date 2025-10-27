@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761572300320,
+  "endTime": 1761573031986,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -5651,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 703307,
+      "num": 176083,
+      "word": "许绍雄",
+      "onboard_time": 1761571641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 702311,
       "num": 419788,
       "word": "章泽天烫头了",
@@ -6595,6 +6603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 643909,
+      "num": 1103025,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643633,
       "num": 301234,
       "word": "何晟铭女儿13岁了",
@@ -6913,6 +6929,14 @@
       "onboard_time": 1761122661,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 626032,
+      "num": 171847,
+      "word": "许绍雄还未苏醒",
+      "onboard_time": 1761571041,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 625051,
@@ -11795,14 +11819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440425,
-      "num": 169172,
-      "word": "许绍雄还未苏醒",
-      "onboard_time": 1761571041,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440348,
       "num": 344256,
       "word": "卢昱晓空降",
@@ -11865,14 +11881,6 @@
       "onboard_time": 1760919861,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 438369,
-      "num": 438369,
-      "word": "内娱三搭cp的含金量",
-      "onboard_time": 1761568041,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 438367,
@@ -15555,6 +15563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339318,
+      "num": 186828,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 339183,
       "num": 339183,
       "word": "反手发球",
@@ -15601,14 +15617,6 @@
       "onboard_time": 1761532040,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 338652,
-      "num": 186828,
-      "word": "这就是中国台湾省",
-      "onboard_time": 1761567802,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 338626,
@@ -19787,14 +19795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267561,
-      "num": 168883,
-      "word": "许绍雄",
-      "onboard_time": 1761571641,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267457,
       "num": 219849,
       "word": "去看张艺兴演唱会的明星",
@@ -20489,6 +20489,14 @@
       "onboard_time": 1761539722,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256467,
+      "num": 256467,
+      "word": "个人信用救济政策",
+      "onboard_time": 1761570622,
+      "rank": 7,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 256458,
@@ -22923,14 +22931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224229,
-      "num": 224229,
-      "word": "个人信用救济政策",
-      "onboard_time": 1761570622,
-      "rank": 7,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 224190,
       "num": 161628,
       "word": "何晟铭翻红后第一件事",
@@ -25297,6 +25297,14 @@
       "onboard_time": 1760526142,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203224,
+      "num": 174689,
+      "word": "王权富贵A爆了",
+      "onboard_time": 1761567802,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 203211,
@@ -28571,14 +28579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187912,
-      "num": 174689,
-      "word": "王权富贵A爆了",
-      "onboard_time": 1761567802,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187888,
       "num": 248560,
       "word": "赵丽颖宣传黄晓明新片",
@@ -29113,6 +29113,14 @@
       "onboard_time": 1761094701,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185158,
+      "num": 169995,
+      "word": "黄宗泽到院探望许绍雄",
+      "onboard_time": 1761569962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 185151,
@@ -29945,14 +29953,6 @@
       "onboard_time": 1760722219,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181227,
-      "num": 167790,
-      "word": "黄宗泽到院探望许绍雄",
-      "onboard_time": 1761569962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 181203,
@@ -32513,6 +32513,14 @@
       "onboard_time": 1761550041,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169522,
+      "num": 169522,
+      "word": "王乐乐杨清柠合照",
+      "onboard_time": 1761571881,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 169448,
@@ -37233,6 +37241,14 @@
       "onboard_time": 1761486023,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "内娱男艺人都防着黄景瑜",
+      "onboard_time": 1761570741,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 152612,
@@ -43155,6 +43171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135017,
+      "num": 135017,
+      "word": "女子38克金手镯被弟媳调包",
+      "onboard_time": 1761566661,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135016,
       "num": 108058,
       "word": "王皓老婆吐槽只有他没瘦",
@@ -44337,14 +44361,6 @@
       "onboard_time": 1761285501,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132450,
-      "num": 132450,
-      "word": "内娱男艺人都防着黄景瑜",
-      "onboard_time": 1761570741,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 132430,
@@ -45955,6 +45971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128718,
+      "num": 128718,
+      "word": "龚俊说自己唱歌跟刘宇宁不相上下",
+      "onboard_time": 1761572061,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128624,
       "num": 128624,
       "word": "林玉芬回复白鹿",
@@ -47107,14 +47131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126276,
-      "num": 126276,
-      "word": "女子38克金手镯被弟媳调包",
-      "onboard_time": 1761566661,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126269,
       "num": 126269,
       "word": "鹿晗工作室回应取消演唱会",
@@ -47843,6 +47859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "中产女性不买单了医美暴利崩塌",
+      "onboard_time": 1761572422,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 124800,
       "num": 124800,
       "word": "樊振东获大本钟奖",
@@ -48233,14 +48257,6 @@
       "onboard_time": 1760195661,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124053,
-      "num": 124053,
-      "word": "王乐乐杨清柠合照",
-      "onboard_time": 1761571881,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 124032,
@@ -50681,6 +50697,14 @@
       "onboard_time": 1760796564,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119249,
+      "num": 119249,
+      "word": "阿娇皮肤状态",
+      "onboard_time": 1761570680,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 119205,
@@ -55243,14 +55267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111285,
-      "num": 111285,
-      "word": "阿娇皮肤状态",
-      "onboard_time": 1761570680,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111281,
       "num": 111281,
       "word": "邓为中世纪古堡王子",
@@ -56505,6 +56521,14 @@
       "onboard_time": 1761390982,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109573,
+      "num": 109573,
+      "word": "跑男染发组",
+      "onboard_time": 1761570861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109570,
@@ -59843,14 +59867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104468,
-      "num": 104468,
-      "word": "跑男染发组",
-      "onboard_time": 1761570861,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104460,
       "num": 109038,
       "word": "满级号",
@@ -62499,6 +62515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100603,
+      "num": 100603,
+      "word": "警方通报烈性犬撕咬小猫",
+      "onboard_time": 1761570801,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 100581,
       "num": 100581,
       "word": "王楚钦中国大满贯一天三赛",
@@ -63760,14 +63784,6 @@
       "word": "要谈有爱情没稳定关系的恋爱吗",
       "onboard_time": 1760343440,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 98290,
-      "num": 98290,
-      "word": "龚俊说自己唱歌跟刘宇宁不相上下",
-      "onboard_time": 1761572061,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -69233,14 +69249,6 @@
       "onboard_time": 1760957301,
       "rank": 46,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 89275,
-      "num": 89275,
-      "word": "警方通报烈性犬撕咬小猫",
-      "onboard_time": 1761570801,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89242,
@@ -76811,6 +76819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73689,
+      "num": 151092,
+      "word": "马克龙妻子税务档案性别被改成男性",
+      "onboard_time": 1761570622,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73685,
       "num": 606904,
       "word": "金店回应黄金每克暴跌50元",
@@ -77321,6 +77337,14 @@
       "onboard_time": 1759459878,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72265,
+      "num": 86418,
+      "word": "研究实施一次性的个人信用救济政策",
+      "onboard_time": 1761572483,
+      "rank": 48,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 72227,
@@ -78843,6 +78867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67337,
+      "num": 86322,
+      "word": "林高远刘诗雯备战全运会混双",
+      "onboard_time": 1761571762,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67315,
       "num": 100534,
       "word": "张本美和WTT女单冠军",
@@ -79145,6 +79177,14 @@
       "onboard_time": 1760870902,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66272,
+      "num": 177739,
+      "word": "中央机关遴选公务员放宽至46周岁",
+      "onboard_time": 1761571881,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66233,
@@ -81787,14 +81827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56114,
-      "num": 151092,
-      "word": "马克龙妻子税务档案性别被改成男性",
-      "onboard_time": 1761570622,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56051,
       "num": 185750,
       "word": "国民媳妇3分钟8次惊呆9次哇塞",
@@ -83113,14 +83145,6 @@
       "onboard_time": 1759741400,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50302,
-      "num": 168424,
-      "word": "中央机关遴选公务员放宽至46周岁",
-      "onboard_time": 1761571881,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50295,
@@ -89897,6 +89921,14 @@
       "onboard_time": 1761295220,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14892,
+      "num": 355205,
+      "word": "北京大视听的春天很美丽",
+      "onboard_time": 1761572483,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14851,

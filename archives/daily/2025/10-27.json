@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761572300320,
+  "endTime": 1761573031986,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -219,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 703307,
+      "num": 176083,
+      "word": "许绍雄",
+      "onboard_time": 1761571641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
@@ -283,12 +291,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 643909,
+      "num": 1103025,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 627647,
       "num": 415294,
       "word": "刘亦菲刘冲坐一辆车",
       "onboard_time": 1761531379,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 626032,
+      "num": 171847,
+      "word": "许绍雄还未苏醒",
+      "onboard_time": 1761571041,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 621071,
@@ -483,22 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440425,
-      "num": 169172,
-      "word": "许绍雄还未苏醒",
-      "onboard_time": 1761571041,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 438369,
-      "num": 438369,
-      "word": "内娱三搭cp的含金量",
-      "onboard_time": 1761568041,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 436576,
       "num": 436576,
       "word": "美军回应2架军机在南海坠毁",
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339318,
+      "num": 186828,
+      "word": "这就是中国台湾省",
+      "onboard_time": 1761567802,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 338973,
       "num": 303023,
       "word": "腾讯官宣等风热吻你",
@@ -649,14 +665,6 @@
       "onboard_time": 1761532040,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 338652,
-      "num": 186828,
-      "word": "这就是中国台湾省",
-      "onboard_time": 1761567802,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 329439,
@@ -771,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267561,
-      "num": 168883,
-      "word": "许绍雄",
-      "onboard_time": 1761571641,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267450,
       "num": 238940,
       "word": "博主从印度泼粪节逃出后发声",
@@ -809,6 +809,14 @@
       "onboard_time": 1761539722,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256467,
+      "num": 256467,
+      "word": "个人信用救济政策",
+      "onboard_time": 1761570622,
+      "rank": 7,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 253618,
@@ -915,14 +923,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 224229,
-      "num": 224229,
-      "word": "个人信用救济政策",
-      "onboard_time": 1761570622,
-      "rank": 7,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 219864,
       "num": 198314,
       "word": "在冷地方待久了鼻子的变化",
@@ -1024,6 +1024,14 @@
       "word": "刘诗诗 千里江山图",
       "onboard_time": 1761487883,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203224,
+      "num": 174689,
+      "word": "王权富贵A爆了",
+      "onboard_time": 1761567802,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1171,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187912,
-      "num": 174689,
-      "word": "王权富贵A爆了",
-      "onboard_time": 1761567802,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187878,
       "num": 187878,
       "word": "东京电影节红毯",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1761571162,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185158,
+      "num": 169995,
+      "word": "黄宗泽到院探望许绍雄",
+      "onboard_time": 1761569962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 184640,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1761556580,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181227,
-      "num": 167790,
-      "word": "黄宗泽到院探望许绍雄",
-      "onboard_time": 1761569962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 180448,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1761550041,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169522,
+      "num": 169522,
+      "word": "王乐乐杨清柠合照",
+      "onboard_time": 1761571881,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 169438,
@@ -1683,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "内娱男艺人都防着黄景瑜",
+      "onboard_time": 1761570741,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152576,
       "num": 160148,
       "word": "火树为了见黄灿灿请罗予彤吃饭",
@@ -1899,6 +1915,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 135017,
+      "num": 135017,
+      "word": "女子38克金手镯被弟媳调包",
+      "onboard_time": 1761566661,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134132,
       "num": 134132,
       "word": "卢昱晓像极了考试快交卷的我",
@@ -1979,14 +2003,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132450,
-      "num": 132450,
-      "word": "内娱男艺人都防着黄景瑜",
-      "onboard_time": 1761570741,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132403,
       "num": 132403,
       "word": "男子交百万给女友保管女子全花脸上",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1761563181,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131249,
+      "num": 140432,
+      "word": "奔跑吧",
+      "onboard_time": 1761572781,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 131157,
@@ -2099,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128718,
+      "num": 128718,
+      "word": "龚俊说自己唱歌跟刘宇宁不相上下",
+      "onboard_time": 1761572061,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128445,
       "num": 128445,
       "word": "杨瀚森客场首分",
@@ -2155,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126276,
-      "num": 126276,
-      "word": "女子38克金手镯被弟媳调包",
-      "onboard_time": 1761566661,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125642,
       "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
@@ -2187,6 +2211,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "中产女性不买单了医美暴利崩塌",
+      "onboard_time": 1761572422,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 124137,
       "num": 124137,
       "word": "iPhone18或全系标配12GB",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1761530240,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124053,
-      "num": 124053,
-      "word": "王乐乐杨清柠合照",
-      "onboard_time": 1761571881,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 123380,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1761484520,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119249,
+      "num": 119249,
+      "word": "阿娇皮肤状态",
+      "onboard_time": 1761570680,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 118525,
@@ -2523,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111285,
-      "num": 111285,
-      "word": "阿娇皮肤状态",
-      "onboard_time": 1761570680,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110862,
       "num": 110862,
       "word": "缅北电诈园困住多国公民",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1761556100,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109573,
+      "num": 109573,
+      "word": "跑男染发组",
+      "onboard_time": 1761570861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109495,
@@ -2643,14 +2675,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 104468,
-      "num": 104468,
-      "word": "跑男染发组",
-      "onboard_time": 1761570861,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103976,
       "num": 103976,
       "word": "龚俊回复彭小苒",
@@ -2747,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100603,
+      "num": 100603,
+      "word": "警方通报烈性犬撕咬小猫",
+      "onboard_time": 1761570801,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 100413,
       "num": 100413,
       "word": "郑恺别演了我害怕",
@@ -2801,14 +2833,6 @@
       "onboard_time": 1761564320,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98290,
-      "num": 98290,
-      "word": "龚俊说自己唱歌跟刘宇宁不相上下",
-      "onboard_time": 1761572061,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 97981,
@@ -2913,14 +2937,6 @@
       "onboard_time": 1761525623,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89275,
-      "num": 89275,
-      "word": "警方通报烈性犬撕咬小猫",
-      "onboard_time": 1761570801,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89043,
@@ -3067,6 +3083,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73689,
+      "num": 151092,
+      "word": "马克龙妻子税务档案性别被改成男性",
+      "onboard_time": 1761570622,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72265,
+      "num": 86418,
+      "word": "研究实施一次性的个人信用救济政策",
+      "onboard_time": 1761572483,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 71604,
       "num": 325630,
       "word": "十年全赛季最强王者的含金量",
@@ -3123,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67337,
+      "num": 86322,
+      "word": "林高远刘诗雯备战全运会混双",
+      "onboard_time": 1761571762,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67315,
       "num": 100534,
       "word": "张本美和WTT女单冠军",
@@ -3145,6 +3185,14 @@
       "onboard_time": 1761552262,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 66272,
+      "num": 177739,
+      "word": "中央机关遴选公务员放宽至46周岁",
+      "onboard_time": 1761571881,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66047,
@@ -3283,14 +3331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56114,
-      "num": 151092,
-      "word": "马克龙妻子税务档案性别被改成男性",
-      "onboard_time": 1761570622,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55352,
       "num": 199012,
       "word": "消费者称面包袋里的蟑螂咬开口子溜了",
@@ -3321,14 +3361,6 @@
       "onboard_time": 1761512713,
       "rank": 49,
       "category": "民生新闻,作品衍生"
-    },
-    {
-      "raw_hot": 50302,
-      "num": 168424,
-      "word": "中央机关遴选公务员放宽至46周岁",
-      "onboard_time": 1761571881,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49235,
@@ -3553,6 +3585,14 @@
       "onboard_time": 1761482181,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14892,
+      "num": 355205,
+      "word": "北京大视听的春天很美丽",
+      "onboard_time": 1761572483,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14245,

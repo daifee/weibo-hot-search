@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 21:38:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 21:50:31
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
+许绍雄（热度：703307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%83%AB%E5%A4%B4%E4%BA%86%23" target="weibo">
 章泽天烫头了（热度：702311）
 </a>
@@ -4959,6 +4965,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%89%E6%90%ADcp%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+内娱三搭cp的含金量（热度：643909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%99%9F%E9%93%AD%E5%A5%B3%E5%84%BF13%E5%B2%81%E4%BA%86%23" target="weibo">
 何晟铭女儿13岁了（热度：643633）
 </a>
@@ -5195,6 +5207,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23" target="weibo">
 中方回应朝鲜发射多枚弹道导弹（热度：626288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%E8%BF%98%E6%9C%AA%E8%8B%8F%E9%86%92%23" target="weibo">
+许绍雄还未苏醒（热度：626032）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%AF%B4%E6%BC%94%E5%91%98%E5%85%88%E5%81%9A%E4%BA%BA%E5%86%8D%E6%BC%94%E6%88%8F%23" target="weibo">
 成毅说演员先做人再演戏（热度：571827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E5%AE%98%E5%AE%A3%E5%90%B4%E7%A3%8A%23" target="weibo">
-剑来官宣吴磊（热度：571203）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%99%E5%AD%A9%E5%AD%90%E5%8F%96%E5%90%8D%E8%B7%9F%E5%86%99%E5%B0%8F%E8%AF%B4%E4%B8%80%E6%A0%B7%23" target="weibo">
-姜潮麦迪娜给孩子取名跟写小说一样（热度：570913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%96%E6%B6%88%E8%80%B3%E6%9C%BA%E5%AD%94%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E8%A0%A2%E8%B4%A7%23" target="weibo">
-第一个取消耳机孔的简直是蠢货（热度：570746）
 </a>
 </li>
 
