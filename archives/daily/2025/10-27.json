@@ -1,7 +1,15 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761543856119,
+  "endTime": 1761547317107,
   "band_list": [
+    {
+      "raw_hot": 3052119,
+      "num": 3052119,
+      "word": "郑智化致歉",
+      "onboard_time": 1761543321,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1611170,
       "num": 1611170,
@@ -89,6 +97,14 @@
       "onboard_time": 1761539543,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835146,
+      "num": 835146,
+      "word": "张居正官宣胡歌",
+      "onboard_time": 1761545900,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 806833,
@@ -179,14 +195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 615966,
-      "num": 615966,
-      "word": "郑智化致歉",
-      "onboard_time": 1761543321,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 613529,
       "num": 205300,
       "word": "朋友圈一定要当天发",
@@ -248,6 +256,22 @@
       "word": "雪中悍刀行2概念海报",
       "onboard_time": 1761535341,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 456398,
+      "num": 181284,
+      "word": "陈道明从未否认过自己不是易烊千玺",
+      "onboard_time": 1761543801,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450430,
+      "num": 287898,
+      "word": "剑来官宣吴磊",
+      "onboard_time": 1761545001,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -371,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327826,
+      "num": 263746,
+      "word": "腾讯官宣等风热吻你",
+      "onboard_time": 1761542302,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
       "onboard_time": 1761479121,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307769,
-      "num": 263746,
-      "word": "腾讯官宣等风热吻你",
-      "onboard_time": 1761542302,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 299713,
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201685,
+      "num": 178900,
+      "word": "田曦薇 好多漂亮女孩和男人",
+      "onboard_time": 1761543321,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201140,
       "num": 201140,
       "word": "雪中悍刀行2",
@@ -633,6 +665,14 @@
       "onboard_time": 1761537200,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199943,
+      "num": 178539,
+      "word": "龚俊第一个刑侦男主剧",
+      "onboard_time": 1761546501,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 196446,
@@ -691,6 +731,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 188792,
+      "num": 178453,
+      "word": "张本智和笑不出来一点",
+      "onboard_time": 1761545960,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187914,
       "num": 187914,
       "word": "逐玉",
@@ -721,6 +769,14 @@
       "onboard_time": 1761490942,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183061,
+      "num": 176520,
+      "word": "刘宇宁很久没有为谁折腰了",
+      "onboard_time": 1761546920,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 176815,
@@ -819,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161264,
-      "num": 161264,
-      "word": "田曦薇 好多漂亮女孩和男人",
-      "onboard_time": 1761543321,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160754,
       "num": 160754,
       "word": "快船战胜开拓者",
@@ -849,6 +897,14 @@
       "onboard_time": 1761535941,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158947,
+      "num": 158947,
+      "word": "姚润昊退出上海叠纸科技公司",
+      "onboard_time": 1761546740,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 156277,
@@ -875,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154221,
+      "num": 154221,
+      "word": "3女孩将房住包浆或为任性付出代价",
+      "onboard_time": 1761545121,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "湖人战胜国王",
@@ -891,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153061,
+      "num": 153061,
+      "word": "董洁怕临时邀约怠慢陈坤",
+      "onboard_time": 1761545840,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152761,
       "num": 203279,
       "word": "王者新英雄六耳预告",
@@ -905,6 +977,14 @@
       "onboard_time": 1761536841,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152077,
+      "num": 152077,
+      "word": "恋爱1个月喜当爹发现竟是别人娃",
+      "onboard_time": 1761542121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150326,
@@ -995,6 +1075,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139111,
+      "num": 139111,
+      "word": "入青云你很得意吧",
+      "onboard_time": 1761546201,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138801,
+      "num": 138801,
+      "word": "彭小苒本人看了都得愣两秒",
+      "onboard_time": 1761545180,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138399,
       "num": 138399,
       "word": "鞠婧祎飞吻这一下",
@@ -1059,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133493,
+      "num": 133493,
+      "word": "坠入南海美军机单价超F35",
+      "onboard_time": 1761543861,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132870,
       "num": 132870,
       "word": "墨迹天气",
@@ -1107,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128418,
+      "num": 128418,
+      "word": "男子交百万给女友保管女子全花脸上",
+      "onboard_time": 1761544040,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127730,
       "num": 127730,
       "word": "中国冰壶女队全胜夺冠",
@@ -1147,12 +1259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120983,
-      "num": 148758,
-      "word": "恋爱1个月喜当爹发现竟是别人娃",
-      "onboard_time": 1761542121,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 123380,
+      "num": 123380,
+      "word": "白鹿关晓彤李兰迪 红毯妈咪级别",
+      "onboard_time": 1761546800,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122825,
+      "num": 133989,
+      "word": "青你1选手为做音乐负债百万",
+      "onboard_time": 1761547222,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 119879,
@@ -1235,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113499,
+      "num": 113499,
+      "word": "祁煜声浪复燃",
+      "onboard_time": 1761545660,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112874,
       "num": 201952,
       "word": "朱一龙闪耀好莱坞",
       "onboard_time": 1761528322,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112804,
+      "num": 113745,
+      "word": "五竹叔梦华录花魁爱人错过",
+      "onboard_time": 1761545840,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111452,
@@ -1265,14 +1401,6 @@
       "onboard_time": 1761541103,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109066,
-      "num": 109066,
-      "word": "陈道明从未否认过自己不是易烊千玺",
-      "onboard_time": 1761543801,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 108629,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1761482181,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72638,
+      "num": 109678,
+      "word": "1部手机3个月在义乌闯出一条路",
+      "onboard_time": 1761547281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71604,
@@ -1804,7 +1940,7 @@
     },
     {
       "raw_hot": 26848,
-      "num": 817755,
+      "num": 908630,
       "word": "广电精品创作大会来了",
       "onboard_time": 1761541583,
       "rank": 2,
@@ -1827,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23914,
+      "num": 109546,
+      "word": "中国小型垃圾发电技术突破",
+      "onboard_time": 1761545722,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22503,
       "num": 25005,
       "word": "她的光芒",
@@ -1841,6 +1985,14 @@
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 18361,
+      "num": 130391,
+      "word": "杨祐宁父亲追思会",
+      "onboard_time": 1761547222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 15372,

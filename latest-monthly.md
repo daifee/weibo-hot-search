@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 13:44:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 14:41:57
 </p>
 </blockquote>
 <p>
@@ -161,6 +161,12 @@ Bin 16强退役（热度：3921368）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E5%8E%BB%E5%93%AA%E4%BA%86%23" target="weibo">
 李金铭 去哪了（热度：3200778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%E8%87%B4%E6%AD%89%23" target="weibo">
+郑智化致歉（热度：3052119）
 </a>
 </li>
 
@@ -3105,6 +3111,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C%23" target="weibo">
+张居正官宣胡歌（热度：835146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%866%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E7%AC%AC%E4%B8%80%E7%AC%94%E5%B7%A5%E8%B5%84%E7%BB%99%E4%BA%86%E6%88%91%23" target="weibo">
 资助了6年的妹妹第一笔工资给了我（热度：834365）
 </a>
@@ -5271,12 +5283,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%E8%87%B4%E6%AD%89%23" target="weibo">
-郑智化致歉（热度：615966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BD%A6%E7%89%8C%E7%B2%A4A98888%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E6%8E%A5%E7%AE%A1%23" target="weibo">
 许家印车牌粤A98888劳斯莱斯被接管（热度：613783）
 </a>
@@ -6005,12 +6011,6 @@ BLG签运（热度：565641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23hi6%23" target="weibo">
 hi6（热度：563954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%B8%B9%E9%A3%9E%E8%80%81%E5%A4%AA%E5%BD%93%E4%BA%8B%E7%94%B7%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
-台湾踹飞老太当事男子道歉（热度：563717）
 </a>
 </li>
 

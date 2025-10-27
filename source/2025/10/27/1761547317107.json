@@ -1,0 +1,410 @@
+{
+  "runTime": 1761547317107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3052119,
+        "num": 3052119,
+        "word": "郑智化致歉",
+        "onboard_time": 1761543321,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1065236,
+        "num": 1065236,
+        "word": "赵一鸣 用糖找零",
+        "onboard_time": 1761541583,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23717,
+        "num": 908630,
+        "word": "广电精品创作大会来了",
+        "onboard_time": 1761541583,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835146,
+        "num": 835146,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428234,
+        "num": 428234,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 289865,
+        "num": 289865,
+        "word": "当地就招聘岗位疑似萝卜岗致歉",
+        "onboard_time": 1761540441,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 450430,
+        "num": 287898,
+        "word": "剑来官宣吴磊",
+        "onboard_time": 1761545001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283461,
+        "num": 283461,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246160,
+        "num": 246160,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181776,
+        "num": 181776,
+        "word": "ELLE全阵容官宣",
+        "onboard_time": 1761534861,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 27335,
+        "num": 181661,
+        "word": "王楚钦堡你牛",
+        "onboard_time": 1761543261,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456398,
+        "num": 181284,
+        "word": "陈道明从未否认过自己不是易烊千玺",
+        "onboard_time": 1761543801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412448,
+        "num": 180811,
+        "word": "肖战观摩开颅手术",
+        "onboard_time": 1761537921,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327826,
+        "num": 180163,
+        "word": "腾讯官宣等风热吻你",
+        "onboard_time": 1761542302,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297378,
+        "num": 179872,
+        "word": "刘欢女儿结婚",
+        "onboard_time": 1761540080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273265,
+        "num": 179688,
+        "word": "曾经爆火现在几乎没人喝的奶茶",
+        "onboard_time": 1761526101,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201685,
+        "num": 178900,
+        "word": "田曦薇 好多漂亮女孩和男人",
+        "onboard_time": 1761543321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199943,
+        "num": 178539,
+        "word": "龚俊第一个刑侦男主剧",
+        "onboard_time": 1761546501,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188792,
+        "num": 178453,
+        "word": "张本智和笑不出来一点",
+        "onboard_time": 1761545960,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188069,
+        "num": 177804,
+        "word": "雪中悍刀行2",
+        "onboard_time": 1761538761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217897,
+        "num": 177241,
+        "word": "博主从印度泼粪节逃出后发声",
+        "onboard_time": 1761542482,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200050,
+        "num": 177086,
+        "word": "你等这一千块钱过年吗",
+        "onboard_time": 1761542062,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183061,
+        "num": 176520,
+        "word": "刘宇宁很久没有为谁折腰了",
+        "onboard_time": 1761546920,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181950,
+        "num": 176053,
+        "word": "刘亦菲朱一龙秀场同框",
+        "onboard_time": 1761539903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175993,
+        "num": 175993,
+        "word": "10个表现说明严重睡眠不足",
+        "onboard_time": 1761539722,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158947,
+        "num": 158947,
+        "word": "姚润昊退出上海叠纸科技公司",
+        "onboard_time": 1761546740,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 156575,
+        "num": 156575,
+        "word": "看病挂号认准副主任",
+        "onboard_time": 1761534443,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156017,
+        "num": 156017,
+        "word": "小S说谁那么会生啦",
+        "onboard_time": 1761541821,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154221,
+        "num": 154221,
+        "word": "3女孩将房住包浆或为任性付出代价",
+        "onboard_time": 1761545121,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153061,
+        "num": 153061,
+        "word": "董洁怕临时邀约怠慢陈坤",
+        "onboard_time": 1761545840,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152077,
+        "num": 152077,
+        "word": "恋爱1个月喜当爹发现竟是别人娃",
+        "onboard_time": 1761542121,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144509,
+        "num": 144509,
+        "word": "鹅厂2026大剧片单",
+        "onboard_time": 1761536721,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "世界第一美少年去世",
+        "onboard_time": 1761529641,
+        "rank": 32,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 139111,
+        "num": 139111,
+        "word": "入青云你很得意吧",
+        "onboard_time": 1761546201,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138801,
+        "num": 138801,
+        "word": "彭小苒本人看了都得愣两秒",
+        "onboard_time": 1761545180,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138023,
+        "num": 138023,
+        "word": "女子穿吊带裙遭街拍被配文传播",
+        "onboard_time": 1761541702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 133989,
+        "word": "青你1选手为做音乐负债百万",
+        "onboard_time": 1761547222,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "坠入南海美军机单价超F35",
+        "onboard_time": 1761543861,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18361,
+        "num": 130391,
+        "word": "杨祐宁父亲追思会",
+        "onboard_time": 1761547222,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71052,
+        "num": 129102,
+        "word": "蒋超良被双开",
+        "onboard_time": 1761536180,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128418,
+        "num": 128418,
+        "word": "男子交百万给女友保管女子全花脸上",
+        "onboard_time": 1761544040,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125107,
+        "num": 125107,
+        "word": "枭起青壤",
+        "onboard_time": 1761535941,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123380,
+        "num": 123380,
+        "word": "白鹿关晓彤李兰迪 红毯妈咪级别",
+        "onboard_time": 1761546800,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "杨清柠王乐乐同框",
+        "onboard_time": 1761527960,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 113745,
+        "word": "五竹叔梦华录花魁爱人错过",
+        "onboard_time": 1761545840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113499,
+        "num": 113499,
+        "word": "祁煜声浪复燃",
+        "onboard_time": 1761545660,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113466,
+        "num": 113466,
+        "word": "张伦硕否认顶配继父称号",
+        "onboard_time": 1761539722,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108284,
+        "num": 110063,
+        "word": "暴雪大雪暴雨要来了",
+        "onboard_time": 1761523280,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72638,
+        "num": 109678,
+        "word": "1部手机3个月在义乌闯出一条路",
+        "onboard_time": 1761547281,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23914,
+        "num": 109546,
+        "word": "中国小型垃圾发电技术突破",
+        "onboard_time": 1761545722,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展成果由人民共享#"
+    }
+  }
+}
