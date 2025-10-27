@@ -1,0 +1,410 @@
+{
+  "runTime": 1761558296674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 788922,
+        "num": 1126227,
+        "word": "春秋航空开招已婚已育空嫂",
+        "onboard_time": 1761550223,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786123,
+        "num": 786123,
+        "word": "花少7吃完火锅收拾了吗",
+        "onboard_time": 1761553879,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3369,
+        "num": 755904,
+        "word": "你好十五五",
+        "onboard_time": 1761468140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733433,
+        "num": 733433,
+        "word": "网红慧慧饱饱公开道歉",
+        "onboard_time": 1761553221,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442592,
+        "num": 442592,
+        "word": "赵一鸣 用糖找零",
+        "onboard_time": 1761541583,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384779,
+        "num": 384779,
+        "word": "东京进入最高警戒态势",
+        "onboard_time": 1761555022,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362858,
+        "num": 362858,
+        "word": "张居正官宣胡歌",
+        "onboard_time": 1761545900,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241387,
+        "num": 241387,
+        "word": "缅甸KK园区上千人跳河出逃",
+        "onboard_time": 1761535881,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139421,
+        "num": 240931,
+        "word": "2架美军机在南海相继坠毁",
+        "onboard_time": 1761525861,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136262,
+        "num": 240629,
+        "word": "蔡磊研发药物对病友起效自己没用",
+        "onboard_time": 1761539543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500570,
+        "num": 239674,
+        "word": "印度人深圳地铁吃手抓饭",
+        "onboard_time": 1761552621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494549,
+        "num": 238851,
+        "word": "何炅 杨幂你话筒拿了吗",
+        "onboard_time": 1761556281,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 479998,
+        "num": 238222,
+        "word": "长大才意识到父母想要什么礼物",
+        "onboard_time": 1761556281,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 457797,
+        "num": 237492,
+        "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+        "onboard_time": 1761553460,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410492,
+        "num": 236731,
+        "word": "杨清柠 王乐乐",
+        "onboard_time": 1761547700,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 336285,
+        "num": 236050,
+        "word": "曝许绍雄病危入院",
+        "onboard_time": 1761548902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254520,
+        "num": 235968,
+        "word": "表妹万福预告",
+        "onboard_time": 1761552321,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248910,
+        "num": 235297,
+        "word": "杨紫回应饰演董竹君",
+        "onboard_time": 1761551242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234634,
+        "num": 234634,
+        "word": "刘亦菲朱一龙聚餐",
+        "onboard_time": 1761548661,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213679,
+        "num": 213679,
+        "word": "剑来官宣吴磊",
+        "onboard_time": 1761545001,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286548,
+        "num": 205078,
+        "word": "印度女医生遭警察多次性侵绝望自杀",
+        "onboard_time": 1761548121,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171211,
+        "num": 171211,
+        "word": "吴邪私家笔记2 付航",
+        "onboard_time": 1761556580,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166158,
+        "num": 166158,
+        "word": "成龙 全部收进成家班",
+        "onboard_time": 1761555621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165697,
+        "num": 165697,
+        "word": "彭昱畅新剧招聘工资上不封顶",
+        "onboard_time": 1761557360,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155573,
+        "num": 155573,
+        "word": "这届子女开始健康查岗了",
+        "onboard_time": 1761558020,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147264,
+        "num": 147264,
+        "word": "肖战观摩开颅手术",
+        "onboard_time": 1761537921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140086,
+        "num": 140086,
+        "word": "明年或将出最便宜iPhone",
+        "onboard_time": 1761555621,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139088,
+        "num": 139088,
+        "word": "王楚钦长大了",
+        "onboard_time": 1761553879,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121800,
+        "num": 134437,
+        "word": "119救了119",
+        "onboard_time": 1761554241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117512,
+        "num": 132435,
+        "word": "秋天悄悄上色了",
+        "onboard_time": 1761557301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131989,
+        "num": 131989,
+        "word": "特朗普抵达日本",
+        "onboard_time": 1761557060,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124722,
+        "num": 124722,
+        "word": "易烊千玺 粉色唯粉",
+        "onboard_time": 1761556821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122703,
+        "num": 122703,
+        "word": "水龙吟直播",
+        "onboard_time": 1761557782,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117599,
+        "num": 117599,
+        "word": "在冷地方待久了鼻子的变化",
+        "onboard_time": 1761557721,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116400,
+        "num": 116400,
+        "word": "白衣公卿先导预告",
+        "onboard_time": 1761557840,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115584,
+        "num": 115584,
+        "word": "孙颖莎软糯小包叽",
+        "onboard_time": 1761557301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107128,
+        "num": 107128,
+        "word": "孙俪陈建斌俩人小嘴淬了毒",
+        "onboard_time": 1761556700,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90364,
+        "num": 104290,
+        "word": "广东某食品公司出现大量死猪",
+        "onboard_time": 1761556100,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29192,
+        "num": 102766,
+        "word": "高市早苗为特朗普来访准备大礼",
+        "onboard_time": 1761557601,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17555,
+        "num": 102283,
+        "word": "水龙吟导演你的养老保险来了",
+        "onboard_time": 1761557482,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 102213,
+        "num": 102213,
+        "word": "富贵少爷把亲爹挂了",
+        "onboard_time": 1761552921,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101222,
+        "num": 101222,
+        "word": "陈哲远张婧仪新剧复仇搭子",
+        "onboard_time": 1761558201,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97981,
+        "num": 97981,
+        "word": "曹格儿子joe祝贝儿生日快乐",
+        "onboard_time": 1761558080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97477,
+        "num": 97477,
+        "word": "姚润昊退出上海叠纸科技公司",
+        "onboard_time": 1761546740,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95373,
+        "num": 95373,
+        "word": "胡歌琅琊榜之后首部古装剧",
+        "onboard_time": 1761550041,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95038,
+        "num": 95038,
+        "word": "腾讯官宣等风热吻你",
+        "onboard_time": 1761542302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93908,
+        "num": 95030,
+        "word": "爱生娃的十大省份",
+        "onboard_time": 1761549022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89149,
+        "num": 95027,
+        "word": "10个表现说明严重睡眠不足",
+        "onboard_time": 1761539722,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87187,
+        "num": 95017,
+        "word": "杨瀚森NBA得分追平孙悦",
+        "onboard_time": 1761548421,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69328,
+        "num": 95007,
+        "word": "广东发生1起流感暴发疫情",
+        "onboard_time": 1761552200,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席生动阐释亚太合作#"
+    }
+  }
+}
