@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/28 03:21:54
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/28 03:37:22
 </p>
 </blockquote>
 <p>
@@ -5565,6 +5565,12 @@ S15瑞士轮数据（热度：42310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%BC%82%E5%8F%91%E6%9F%93%E5%8F%91%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+长期漂发染发的受害者出现了（热度：20456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%B0%94%E5%BF%83%E4%B8%AD%E7%9A%84GOAT%E6%98%AF%E9%A9%AC%E9%BE%99%23" target="weibo">
 波尔心中的GOAT是马龙（热度：20183）
 </a>
@@ -5591,12 +5597,6 @@ S15瑞士轮数据（热度：42310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%A3%E4%BC%A0%E9%BB%84%E6%99%93%E6%98%8E%E6%96%B0%E7%89%87%23" target="weibo">
 王俊凯宣传黄晓明新片（热度：19908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%BC%82%E5%8F%91%E6%9F%93%E5%8F%91%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-长期漂发染发的受害者出现了（热度：19776）
 </a>
 </li>
 
@@ -5651,6 +5651,12 @@ S15瑞士轮数据（热度：42310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%94%B5%E5%BD%B1%E7%89%88%E6%89%AB%E9%BC%A0%E5%B2%AD%E7%94%B7%E4%B8%BB%E8%82%96%E6%88%98%23" target="weibo">
 网传电影版扫鼠岭男主肖战（热度：14372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%B2%A1%E6%95%99%E7%9A%84%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%8D%97%23" target="weibo">
+大学没教的就业指南（热度：14302）
 </a>
 </li>
 

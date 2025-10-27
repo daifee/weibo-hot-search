@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761592914524,
+  "endTime": 1761593842365,
   "band_list": [
     {
       "raw_hot": 899892,
@@ -507,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20456,
+      "num": 20456,
+      "word": "长期漂发染发的受害者出现了",
+      "onboard_time": 1761591015,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 19967,
       "num": 19967,
       "word": "穆祉丞恋人未满MV",
       "onboard_time": 1761590474,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19776,
-      "num": 19776,
-      "word": "长期漂发染发的受害者出现了",
-      "onboard_time": 1761591015,
-      "rank": 34,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 19118,
@@ -545,6 +545,14 @@
       "onboard_time": 1761590535,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 14302,
+      "num": 17127,
+      "word": "大学没教的就业指南",
+      "onboard_time": 1761593474,
+      "rank": 44,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 14141,

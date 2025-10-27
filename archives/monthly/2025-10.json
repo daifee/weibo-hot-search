@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761592914524,
+  "endTime": 1761593842365,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -89443,6 +89443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20456,
+      "num": 20456,
+      "word": "长期漂发染发的受害者出现了",
+      "onboard_time": 1761591015,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 20352,
       "num": 196523,
       "word": "到底哪里有淘趣猫啊",
@@ -89617,14 +89625,6 @@
       "onboard_time": 1760386574,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19776,
-      "num": 19776,
-      "word": "长期漂发染发的受害者出现了",
-      "onboard_time": 1761591015,
-      "rank": 34,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 19639,
@@ -90521,6 +90521,14 @@
       "onboard_time": 1760817555,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14302,
+      "num": 17127,
+      "word": "大学没教的就业指南",
+      "onboard_time": 1761593474,
+      "rank": 44,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 14287,
