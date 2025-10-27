@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761547317107,
+  "endTime": 1761548138336,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -75,6 +75,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1019179,
+      "num": 1019179,
+      "word": "张居正官宣胡歌",
+      "onboard_time": 1761545900,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 996079,
       "num": 319876,
       "word": "李飞手机页面",
@@ -97,14 +105,6 @@
       "onboard_time": 1761539543,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 835146,
-      "num": 835146,
-      "word": "张居正官宣胡歌",
-      "onboard_time": 1761545900,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 806833,
@@ -251,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493457,
+      "num": 287898,
+      "word": "剑来官宣吴磊",
+      "onboard_time": 1761545001,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 490255,
+      "num": 219454,
+      "word": "何赛飞给张柏芝道歉",
+      "onboard_time": 1761547520,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483945,
       "num": 390429,
       "word": "雪中悍刀行2概念海报",
@@ -260,19 +276,11 @@
     },
     {
       "raw_hot": 456398,
-      "num": 181284,
+      "num": 218582,
       "word": "陈道明从未否认过自己不是易烊千玺",
       "onboard_time": 1761543801,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450430,
-      "num": 287898,
-      "word": "剑来官宣吴磊",
-      "onboard_time": 1761545001,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 449157,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338973,
+      "num": 263746,
+      "word": "腾讯官宣等风热吻你",
+      "onboard_time": 1761542302,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338742,
       "num": 338742,
       "word": "陈粒工作室致歉",
@@ -393,14 +409,6 @@
       "onboard_time": 1761489563,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327826,
-      "num": 263746,
-      "word": "腾讯官宣等风热吻你",
-      "onboard_time": 1761542302,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 309444,
@@ -499,6 +507,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 248327,
+      "num": 218270,
+      "word": "田曦薇 好多漂亮女孩和男人",
+      "onboard_time": 1761543321,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246682,
       "num": 246682,
       "word": "盛夏芬德拉女主进组玉簟秋",
@@ -587,6 +603,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219516,
+      "num": 219516,
+      "word": "张本智和笑不出来一点",
+      "onboard_time": 1761545960,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217512,
+      "num": 217512,
+      "word": "姚润昊退出上海叠纸科技公司",
+      "onboard_time": 1761546740,
+      "rank": 25,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 214199,
       "num": 192421,
       "word": "男子辅导作业失手致儿子耳膜穿孔",
@@ -641,14 +673,6 @@
       "onboard_time": 1761487883,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201685,
-      "num": 178900,
-      "word": "田曦薇 好多漂亮女孩和男人",
-      "onboard_time": 1761543321,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201140,
@@ -731,14 +755,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 188792,
-      "num": 178453,
-      "word": "张本智和笑不出来一点",
-      "onboard_time": 1761545960,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187914,
       "num": 187914,
       "word": "逐玉",
@@ -785,6 +801,14 @@
       "onboard_time": 1761539841,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175619,
+      "num": 175619,
+      "word": "杨清柠 王乐乐",
+      "onboard_time": 1761547700,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 171036,
@@ -899,12 +923,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158947,
-      "num": 158947,
-      "word": "姚润昊退出上海叠纸科技公司",
-      "onboard_time": 1761546740,
-      "rank": 25,
-      "category": "民生新闻,互联网"
+      "raw_hot": 157408,
+      "num": 154935,
+      "word": "青你1选手为做音乐负债百万",
+      "onboard_time": 1761547222,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156277,
@@ -929,6 +953,14 @@
       "onboard_time": 1761483501,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154615,
+      "num": 154615,
+      "word": "关晓彤友情出演",
+      "onboard_time": 1761547760,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 154221,
@@ -1195,6 +1227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 130326,
+      "num": 130326,
+      "word": "吉克隽逸连脚背都涂了金粉",
+      "onboard_time": 1761547821,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129791,
       "num": 129791,
       "word": "星品影响力",
@@ -1267,12 +1307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122825,
-      "num": 133989,
-      "word": "青你1选手为做音乐负债百万",
-      "onboard_time": 1761547222,
+      "raw_hot": 121500,
+      "num": 121500,
+      "word": "谁懂考公人看到这两张的救赎感",
+      "onboard_time": 1761547941,
       "rank": 36,
-      "category": "综艺"
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 121167,
+      "num": 121167,
+      "word": "印度女医生遭警察多次性侵绝望自杀",
+      "onboard_time": 1761548121,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120898,
+      "num": 120898,
+      "word": "金价十周以来首周下跌",
+      "onboard_time": 1761547400,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 119879,
@@ -1312,6 +1368,14 @@
       "word": "玉簟秋",
       "onboard_time": 1761484520,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119185,
+      "num": 119185,
+      "word": "慕胥辞",
+      "onboard_time": 1761548001,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1659,20 +1723,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75845,
+      "num": 154685,
+      "word": "1部手机3个月在义乌闯出一条路",
+      "onboard_time": 1761547281,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74681,
       "num": 118063,
       "word": "赵丽颖 披一缕落日熔金",
       "onboard_time": 1761482181,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72638,
-      "num": 109678,
-      "word": "1部手机3个月在义乌闯出一条路",
-      "onboard_time": 1761547281,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71604,
@@ -1883,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45793,
+      "num": 130391,
+      "word": "杨祐宁父亲追思会",
+      "onboard_time": 1761547222,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44877,
       "num": 52929,
       "word": "闫安双十一直播亲试口红",
@@ -1939,8 +2011,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26848,
-      "num": 908630,
+      "raw_hot": 27986,
+      "num": 1073141,
       "word": "广电精品创作大会来了",
       "onboard_time": 1761541583,
       "rank": 2,
@@ -1985,14 +2057,6 @@
       "onboard_time": 1761504194,
       "rank": 43,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 18361,
-      "num": 130391,
-      "word": "杨祐宁父亲追思会",
-      "onboard_time": 1761547222,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 15372,

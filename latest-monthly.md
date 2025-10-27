@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 14:41:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 14:55:38
 </p>
 </blockquote>
 <p>
@@ -2091,6 +2091,12 @@ ELLE全阵容官宣（热度：1058138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C%23" target="weibo">
+张居正官宣胡歌（热度：1019179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%89%AA%E7%9F%AD%E5%8F%91%E4%BA%86%23" target="weibo">
 刘宇宁剪短发了（热度：1018925）
 </a>
@@ -3107,12 +3113,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%8D%AF%20%E4%B8%8B%E6%96%99%E7%8B%A0%23" target="weibo">
 日本药 下料狠（热度：835643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%AE%A3%E8%83%A1%E6%AD%8C%23" target="weibo">
-张居正官宣胡歌（热度：835146）
 </a>
 </li>
 
