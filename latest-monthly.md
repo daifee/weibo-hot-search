@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 21:50:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/27 22:29:00
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ VOGUE盛典红毯（热度：1948168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%89%81%E4%BA%BA%E6%89%8B%E6%8C%87%E6%B3%A1%E9%85%92%23" target="weibo">
 缅北电诈园区剁人手指泡酒（热度：1898196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
+许绍雄（热度：1893110）
 </a>
 </li>
 
@@ -1259,6 +1265,12 @@ Bin lpl加油（热度：1262946）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%BF%83%E5%85%AC%E5%9B%AD%E5%89%B2%E5%96%89%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%BB%8D%E5%9C%A8%E9%80%83%23" target="weibo">
 香港海心公园割喉案嫌犯仍在逃（热度：1235000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%89%E6%90%ADcp%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+内娱三搭cp的含金量（热度：1231318）
 </a>
 </li>
 
@@ -4251,12 +4263,6 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
-许绍雄（热度：703307）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%83%AB%E5%A4%B4%E4%BA%86%23" target="weibo">
 章泽天烫头了（热度：702311）
 </a>
@@ -4965,12 +4971,6 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E4%B8%89%E6%90%ADcp%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
-内娱三搭cp的含金量（热度：643909）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%99%9F%E9%93%AD%E5%A5%B3%E5%84%BF13%E5%B2%81%E4%BA%86%23" target="weibo">
 何晟铭女儿13岁了（热度：643633）
 </a>
@@ -5571,6 +5571,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
+为了不被裁员硅谷科技男扎堆做医美（热度：601678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B9%9F%E6%8A%8A%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%93%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%95%B4%23" target="weibo">
 日本人也把日本人当日本人整（热度：601038）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%AF%B4%E6%BC%94%E5%91%98%E5%85%88%E5%81%9A%E4%BA%BA%E5%86%8D%E6%BC%94%E6%88%8F%23" target="weibo">
-成毅说演员先做人再演戏（热度：571827）
 </a>
 </li>
 

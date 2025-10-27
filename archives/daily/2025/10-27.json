@@ -1,6 +1,6 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761573031986,
+  "endTime": 1761575340421,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -17,6 +17,14 @@
       "onboard_time": 1761561021,
       "rank": 31,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 1893110,
+      "num": 176083,
+      "word": "许绍雄",
+      "onboard_time": 1761571641,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1611170,
@@ -49,6 +57,14 @@
       "onboard_time": 1761534443,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1231318,
+      "num": 1231318,
+      "word": "内娱三搭cp的含金量",
+      "onboard_time": 1761568041,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1204692,
@@ -219,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 703307,
-      "num": 176083,
-      "word": "许绍雄",
-      "onboard_time": 1761571641,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
@@ -291,14 +299,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 643909,
-      "num": 1103025,
-      "word": "内娱三搭cp的含金量",
-      "onboard_time": 1761568041,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 627647,
       "num": 415294,
       "word": "刘亦菲刘冲坐一辆车",
@@ -345,6 +345,14 @@
       "onboard_time": 1761457099,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601678,
+      "num": 161789,
+      "word": "为了不被裁员硅谷科技男扎堆做医美",
+      "onboard_time": 1761573083,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 598474,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 339318,
-      "num": 186828,
+      "num": 311688,
       "word": "这就是中国台湾省",
       "onboard_time": 1761567802,
       "rank": 21,
@@ -681,6 +689,14 @@
       "onboard_time": 1761564080,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320433,
+      "num": 320433,
+      "word": "个人信用救济政策",
+      "onboard_time": 1761570622,
+      "rank": 7,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 309444,
@@ -755,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 286196,
+      "num": 169995,
+      "word": "黄宗泽到院探望许绍雄",
+      "onboard_time": 1761569962,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280504,
       "num": 191253,
       "word": "王建国 爱奇艺副总裁小红",
@@ -809,14 +833,6 @@
       "onboard_time": 1761539722,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256467,
-      "num": 256467,
-      "word": "个人信用救济政策",
-      "onboard_time": 1761570622,
-      "rank": 7,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 253618,
@@ -921,6 +937,14 @@
       "onboard_time": 1761534742,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 225600,
+      "num": 169522,
+      "word": "王乐乐杨清柠合照",
+      "onboard_time": 1761571881,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 219864,
@@ -1123,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192802,
+      "num": 158431,
+      "word": "桃花坞6只留一个人就是孟子义",
+      "onboard_time": 1761575003,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192435,
       "num": 192435,
       "word": "东帝汶总理流泪了",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1761571162,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185158,
-      "num": 169995,
-      "word": "黄宗泽到院探望许绍雄",
-      "onboard_time": 1761569962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 184640,
@@ -1307,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176926,
+      "num": 157785,
+      "word": "警方通报烈性犬撕咬小猫",
+      "onboard_time": 1761570801,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 176815,
       "num": 176815,
       "word": "夏以昼好帅",
@@ -1387,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169730,
+      "num": 157562,
+      "word": "内娱男艺人都防着黄景瑜",
+      "onboard_time": 1761570741,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169556,
       "num": 169556,
       "word": "A股临近4000点出现两个异常现象",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1761550041,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169522,
-      "num": 169522,
-      "word": "王乐乐杨清柠合照",
-      "onboard_time": 1761571881,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 169438,
@@ -1691,14 +1723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152687,
-      "num": 152687,
-      "word": "内娱男艺人都防着黄景瑜",
-      "onboard_time": 1761570741,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152576,
       "num": 160148,
       "word": "火树为了见黄灿灿请罗予彤吃饭",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1761550401,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145576,
+      "num": 145576,
+      "word": "沈佳润 超爱单依纯姐姐",
+      "onboard_time": 1761573322,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 145410,
@@ -2003,12 +2035,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132829,
+      "num": 132829,
+      "word": "中产女性不买单了医美暴利崩塌",
+      "onboard_time": 1761572422,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 132403,
       "num": 132403,
       "word": "男子交百万给女友保管女子全花脸上",
       "onboard_time": 1761544040,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132365,
+      "num": 177739,
+      "word": "中央机关遴选公务员放宽至46周岁",
+      "onboard_time": 1761571881,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132243,
+      "num": 132243,
+      "word": "白百何拿三个手机回消息",
+      "onboard_time": 1761573741,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132169,
@@ -2211,14 +2267,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 124816,
-      "num": 124816,
-      "word": "中产女性不买单了医美暴利崩塌",
-      "onboard_time": 1761572422,
-      "rank": 35,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 124137,
       "num": 124137,
       "word": "iPhone18或全系标配12GB",
@@ -2387,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119182,
+      "num": 119182,
+      "word": "毛不易为小王填上了意难平",
+      "onboard_time": 1761575182,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118525,
       "num": 118525,
       "word": "方逸伦把罗云熙直播间弄潮了",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1761557301,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117455,
+      "num": 117455,
+      "word": "费曼在吴镇宇身后被认成当地人",
+      "onboard_time": 1761573562,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117235,
@@ -2459,6 +2523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116218,
+      "num": 116218,
+      "word": "这6类食物必须要焯水",
+      "onboard_time": 1761574223,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115596,
       "num": 115596,
       "word": "终于知道黑车怎么开到白车上了",
@@ -2505,6 +2577,14 @@
       "onboard_time": 1761472101,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114410,
+      "num": 114410,
+      "word": "跑男染发组",
+      "onboard_time": 1761570861,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 113499,
@@ -2569,14 +2649,6 @@
       "onboard_time": 1761556100,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109573,
-      "num": 109573,
-      "word": "跑男染发组",
-      "onboard_time": 1761570861,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 109495,
@@ -2771,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100603,
-      "num": 100603,
-      "word": "警方通报烈性犬撕咬小猫",
-      "onboard_time": 1761570801,
-      "rank": 49,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 100413,
       "num": 100413,
       "word": "郑恺别演了我害怕",
@@ -2825,6 +2889,14 @@
       "onboard_time": 1761472819,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98850,
+      "num": 116467,
+      "word": "没认出这是张伟丽",
+      "onboard_time": 1761574880,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 98449,
@@ -2891,6 +2963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94983,
+      "num": 94983,
+      "word": "测试伴侣是否准备好迎接小孩了",
+      "onboard_time": 1761575003,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94700,
       "num": 94700,
       "word": "阿里前CEO张勇购入香港半山豪宅",
@@ -2931,6 +3011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91579,
+      "num": 91579,
+      "word": "打工人下班后才是生活的开始",
+      "onboard_time": 1761574102,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91272,
       "num": 91272,
       "word": "美国幼教爱上中国农村小伙",
@@ -2961,6 +3049,14 @@
       "onboard_time": 1761547281,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83408,
+      "num": 151871,
+      "word": "中美外长通话称经贸问题达成框架共识",
+      "onboard_time": 1761573021,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82675,
@@ -3115,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70847,
+      "num": 116249,
+      "word": "李木戈带着景甜张彬彬又杀回内娱",
+      "onboard_time": 1761575063,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69771,
       "num": 264388,
       "word": "冰山上司竟是刘宇同担",
@@ -3185,14 +3289,6 @@
       "onboard_time": 1761552262,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 66272,
-      "num": 177739,
-      "word": "中央机关遴选公务员放宽至46周岁",
-      "onboard_time": 1761571881,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66047,
@@ -3459,6 +3555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34398,
+      "num": 116225,
+      "word": "老赖朋友圈晒旅游债主患癌求救命钱",
+      "onboard_time": 1761574880,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34392,
       "num": 384696,
       "word": "重阳送礼送什么",
@@ -3520,6 +3624,14 @@
       "word": "男子没拔充电器客厅东西被烧光",
       "onboard_time": 1761506416,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24047,
+      "num": 385765,
+      "word": "北京大视听的春天很美丽",
+      "onboard_time": 1761572483,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3585,14 +3697,6 @@
       "onboard_time": 1761482181,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14892,
-      "num": 355205,
-      "word": "北京大视听的春天很美丽",
-      "onboard_time": 1761572483,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14245,
