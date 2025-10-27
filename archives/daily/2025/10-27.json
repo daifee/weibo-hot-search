@@ -1,7 +1,15 @@
 {
   "startTime": 1761496208840,
-  "endTime": 1761542889858,
+  "endTime": 1761543856119,
   "band_list": [
+    {
+      "raw_hot": 1611170,
+      "num": 1611170,
+      "word": "赵一鸣 用糖找零",
+      "onboard_time": 1761541583,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1314418,
       "num": 321456,
@@ -80,14 +88,6 @@
       "word": "蔡磊研发药物对病友起效自己没用",
       "onboard_time": 1761539543,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 806942,
-      "num": 806942,
-      "word": "赵一鸣 用糖找零",
-      "onboard_time": 1761541583,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -177,6 +177,14 @@
       "onboard_time": 1761527061,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 615966,
+      "num": 615966,
+      "word": "郑智化致歉",
+      "onboard_time": 1761543321,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 613529,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307769,
+      "num": 263746,
+      "word": "腾讯官宣等风热吻你",
+      "onboard_time": 1761542302,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299713,
       "num": 299713,
       "word": "王者荣耀共创之夜",
@@ -411,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267450,
+      "num": 238940,
+      "word": "博主从印度泼粪节逃出后发声",
+      "onboard_time": 1761542482,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 266345,
       "num": 118593,
       "word": "日本人因超市卖中国大米破防",
@@ -419,12 +443,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 263746,
-      "num": 263746,
-      "word": "腾讯官宣等风热吻你",
-      "onboard_time": 1761542302,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 257841,
+      "num": 257841,
+      "word": "小S说谁那么会生啦",
+      "onboard_time": 1761541821,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 256506,
@@ -515,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235271,
+      "num": 235271,
+      "word": "你等这一千块钱过年吗",
+      "onboard_time": 1761542062,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227235,
       "num": 227235,
       "word": "普通女生化妆最有效果的一步",
@@ -545,14 +577,6 @@
       "onboard_time": 1761536601,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212012,
-      "num": 212012,
-      "word": "博主从印度泼粪节逃出后发声",
-      "onboard_time": 1761542482,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 205934,
@@ -659,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190261,
-      "num": 190261,
-      "word": "小S说谁那么会生啦",
-      "onboard_time": 1761541821,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189845,
       "num": 189845,
       "word": "何老师还是太权威了",
@@ -705,14 +721,6 @@
       "onboard_time": 1761490942,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 177404,
-      "num": 177404,
-      "word": "你等这一千块钱过年吗",
-      "onboard_time": 1761542062,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176815,
@@ -809,6 +817,14 @@
       "onboard_time": 1761537443,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161264,
+      "num": 161264,
+      "word": "田曦薇 好多漂亮女孩和男人",
+      "onboard_time": 1761543321,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 160754,
@@ -921,6 +937,14 @@
       "onboard_time": 1761533299,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146164,
+      "num": 148664,
+      "word": "女子穿吊带裙遭街拍被配文传播",
+      "onboard_time": 1761541702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146110,
@@ -1043,6 +1067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131632,
+      "num": 131632,
+      "word": "跑男西藏路透",
+      "onboard_time": 1761543261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131144,
       "num": 131144,
       "word": "郭宇欣演过承欢记",
@@ -1115,12 +1147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120983,
+      "num": 148758,
+      "word": "恋爱1个月喜当爹发现竟是别人娃",
+      "onboard_time": 1761542121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119879,
       "num": 119879,
       "word": "台湾网红馆长被粉丝礼物感动",
       "onboard_time": 1761525799,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119838,
+      "num": 126196,
+      "word": "林心如给李施嬅的建议",
+      "onboard_time": 1761543321,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 119812,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1761484520,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116714,
+      "num": 116714,
+      "word": "外网嘲美军机坠毁",
+      "onboard_time": 1761543081,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116479,
@@ -1187,12 +1243,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111452,
+      "num": 111452,
+      "word": "张远仅一句话绝杀苏醒",
+      "onboard_time": 1761542962,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110862,
       "num": 110862,
       "word": "缅北电诈园困住多国公民",
       "onboard_time": 1761530841,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109495,
+      "num": 109495,
+      "word": "EDGnice去汪星了",
+      "onboard_time": 1761541103,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109066,
+      "num": 109066,
+      "word": "陈道明从未否认过自己不是易烊千玺",
+      "onboard_time": 1761543801,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 108629,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1761481161,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106777,
-      "num": 148664,
-      "word": "女子穿吊带裙遭街拍被配文传播",
-      "onboard_time": 1761541702,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105907,
@@ -1411,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79530,
+      "num": 126121,
+      "word": "方博说当时没重视王楚钦",
+      "onboard_time": 1761542902,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78748,
       "num": 118168,
       "word": "王者荣耀",
@@ -1457,14 +1537,6 @@
       "onboard_time": 1761482181,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72626,
-      "num": 148758,
-      "word": "恋爱1个月喜当爹发现竟是别人娃",
-      "onboard_time": 1761542121,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71604,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1761520398,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65146,
+      "num": 270832,
+      "word": "王楚钦堡你牛",
+      "onboard_time": 1761543261,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 65017,
