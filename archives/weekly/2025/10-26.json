@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761558296674,
+  "endTime": 1761561057996,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849688,
+      "num": 1135950,
+      "word": "花少7吃完火锅收拾了吗",
+      "onboard_time": 1761553879,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 843367,
       "num": 843367,
       "word": "蔡磊研发药物对病友起效自己没用",
@@ -281,14 +289,6 @@
       "onboard_time": 1761468320,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 786123,
-      "num": 786123,
-      "word": "花少7吃完火锅收拾了吗",
-      "onboard_time": 1761553879,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 783070,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707254,
+      "num": 206262,
+      "word": "一年都卖不掉的货一晚上全卖了",
+      "onboard_time": 1761558501,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
@@ -401,6 +409,14 @@
       "onboard_time": 1761552621,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686816,
+      "num": 238851,
+      "word": "何炅 杨幂你话筒拿了吗",
+      "onboard_time": 1761556281,
+      "rank": 13,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 685151,
@@ -603,6 +619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 562469,
+      "num": 562469,
+      "word": "东京进入最高警戒态势",
+      "onboard_time": 1761555022,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 559332,
       "num": 219962,
       "word": "马思纯推荐杨紫上花少8",
@@ -617,6 +641,14 @@
       "onboard_time": 1761534261,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 552613,
+      "num": 238222,
+      "word": "长大才意识到父母想要什么礼物",
+      "onboard_time": 1761556281,
+      "rank": 14,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 550050,
@@ -715,12 +747,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 494549,
-      "num": 238851,
-      "word": "何炅 杨幂你话筒拿了吗",
-      "onboard_time": 1761556281,
-      "rank": 13,
-      "category": "艺人,游戏"
+      "raw_hot": 496657,
+      "num": 237492,
+      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
+      "onboard_time": 1761553460,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491802,
@@ -787,14 +819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 479998,
-      "num": 238222,
-      "word": "长大才意识到父母想要什么礼物",
-      "onboard_time": 1761556281,
-      "rank": 14,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 465863,
       "num": 465863,
       "word": "中美双方形成初步共识",
@@ -816,14 +840,6 @@
       "word": "孕检低风险却生下唐氏儿保险拒赔",
       "onboard_time": 1761472101,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 457797,
-      "num": 237492,
-      "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
-      "onboard_time": 1761553460,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -995,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384779,
-      "num": 384779,
-      "word": "东京进入最高警戒态势",
-      "onboard_time": 1761555022,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 381669,
       "num": 381669,
       "word": "百战成诗",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1761427274,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 325140,
+      "num": 202133,
+      "word": "深圳地铁回应印度人在车上吃手抓饭",
+      "onboard_time": 1761558681,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320160,
@@ -1795,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208053,
+      "num": 208053,
+      "word": "南海坠机所在航母正执行最后任务",
+      "onboard_time": 1761560480,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206425,
       "num": 150153,
       "word": "谢娜说张杰是华语live王",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1761490402,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203646,
+      "num": 151541,
+      "word": "在冷地方待久了鼻子的变化",
+      "onboard_time": 1761557721,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 203211,
@@ -1987,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194648,
+      "num": 194648,
+      "word": "金价下跌为何金饰品牌接连涨价",
+      "onboard_time": 1761559221,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 194360,
       "num": 109333,
       "word": "邱党WTT男单冠军",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1761485603,
       "rank": 32,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 193133,
+      "num": 147415,
+      "word": "有的鸭做羽绒 有的鸭穿羽绒",
+      "onboard_time": 1761559340,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 192435,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1761447860,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174038,
+      "num": 147408,
+      "word": "九尾 杨幂你等等我的lsh",
+      "onboard_time": 1761561021,
+      "rank": 31,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 173738,
@@ -2739,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154988,
+      "num": 154988,
+      "word": "金枝 李一桐",
+      "onboard_time": 1761558681,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "湖人战胜国王",
@@ -2809,6 +2873,14 @@
       "onboard_time": 1761486023,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "火树为了见黄灿灿请罗予彤吃饭",
+      "onboard_time": 1761558860,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 152449,
@@ -3835,6 +3907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122116,
+      "num": 206874,
+      "word": "胡锡进谈郑智化道歉",
+      "onboard_time": 1761560662,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 121800,
       "num": 146662,
       "word": "119救了119",
@@ -3849,6 +3929,14 @@
       "onboard_time": 1761547941,
       "rank": 36,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 120910,
+      "num": 120910,
+      "word": "张艺兴东京电影节",
+      "onboard_time": 1761559881,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 120376,
@@ -3947,20 +4035,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117599,
-      "num": 117599,
-      "word": "在冷地方待久了鼻子的变化",
-      "onboard_time": 1761557721,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117512,
       "num": 144448,
       "word": "秋天悄悄上色了",
       "onboard_time": 1761557301,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117235,
+      "num": 117235,
+      "word": "减肥人早上称体重现状",
+      "onboard_time": 1761559940,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 117174,
@@ -4041,6 +4129,14 @@
       "onboard_time": 1761530841,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115146,
+      "num": 115146,
+      "word": "幸福到万家编剧新作来了",
+      "onboard_time": 1761560361,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 113920,
@@ -4523,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101217,
+      "num": 101217,
+      "word": "女子没付居住费凌晨被丈夫赶出家门",
+      "onboard_time": 1761559221,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100961,
       "num": 100961,
       "word": "小华晨宇为获尚雯婕认可二度参赛",
@@ -4675,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96483,
+      "num": 96483,
+      "word": "前阿里高管担任山姆中国总裁",
+      "onboard_time": 1761558441,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96161,
       "num": 96161,
       "word": "花开锦绣首发预告",
@@ -4768,6 +4880,14 @@
       "word": "九寨沟成在逃人员克星",
       "onboard_time": 1761465620,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93416,
+      "num": 93416,
+      "word": "市监局确认酸菜生产乱象属实",
+      "onboard_time": 1761561021,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -5025,6 +5145,14 @@
       "onboard_time": 1761553101,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82391,
+      "num": 118855,
+      "word": "保时捷股价腰斩",
+      "onboard_time": 1761560241,
+      "rank": 40,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 82294,
@@ -5305,6 +5433,14 @@
       "onboard_time": 1761432675,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70401,
+      "num": 121493,
+      "word": "多地涨工资落地",
+      "onboard_time": 1761560000,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70150,
@@ -5627,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55744,
+      "num": 198141,
+      "word": "王鹤棣帅成AI了",
+      "onboard_time": 1761559461,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55129,
       "num": 116373,
       "word": "英雄联盟S15",
@@ -5681,6 +5825,14 @@
       "onboard_time": 1761548661,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48766,
+      "num": 121151,
+      "word": "春秋航空称空嫂在服务儿童时有优势",
+      "onboard_time": 1761560601,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48456,
@@ -5931,6 +6083,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 30761,
+      "num": 120249,
+      "word": "西部航空 充电宝冒烟",
+      "onboard_time": 1761559881,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30489,
       "num": 30489,
       "word": "安可",
@@ -6081,6 +6241,14 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21101,
+      "num": 199012,
+      "word": "消费者称面包袋里的蟑螂咬开口子溜了",
+      "onboard_time": 1761560601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20126,
