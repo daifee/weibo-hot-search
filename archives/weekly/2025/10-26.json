@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761691339615,
+  "endTime": 1761693889763,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -409,6 +409,14 @@
       "onboard_time": 1761440600,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 878193,
+      "num": 878193,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 871068,
@@ -1243,14 +1251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 523088,
-      "num": 533711,
-      "word": "女子想为亡夫再生一个孩子遭拒",
-      "onboard_time": 1761677773,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 520515,
       "num": 520515,
       "word": "再见小花生",
@@ -1739,6 +1739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 399762,
+      "num": 198799,
+      "word": "被蛇咬后失联的网红已找到",
+      "onboard_time": 1761692716,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399473,
       "num": 399473,
       "word": "王者荣耀节目单",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1761452780,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377398,
+      "num": 377398,
+      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+      "onboard_time": 1761665481,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376186,
@@ -2537,6 +2553,14 @@
       "onboard_time": 1761399862,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 254695,
+      "num": 194214,
+      "word": "男子强奸嫂子再杀人死者家属律师发声",
+      "onboard_time": 1761659843,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254135,
@@ -3291,6 +3315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "重阳节",
+      "onboard_time": 1761692716,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201380,
       "num": 201380,
       "word": "今年最想要的羽绒服出现了",
@@ -3643,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188872,
+      "num": 188872,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188615,
       "num": 188615,
       "word": "花海也在追暗河传",
@@ -3787,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185920,
+      "num": 185920,
+      "word": "赵樱子自曝前男友片酬2000万",
+      "onboard_time": 1761692839,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185841,
       "num": 185841,
       "word": "Zeus离开T1的这一年",
@@ -3864,14 +3912,6 @@
       "word": "对台独顽固分子沈伯洋立案侦查",
       "onboard_time": 1761618081,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183679,
-      "num": 183679,
-      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
-      "onboard_time": 1761665481,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -5275,6 +5315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146752,
+      "num": 146752,
+      "word": "杨紫我终于下山了",
+      "onboard_time": 1761693018,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146691,
       "num": 149060,
       "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
@@ -5489,6 +5537,14 @@
       "onboard_time": 1761575182,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142693,
+      "num": 142693,
+      "word": "Asen发歌",
+      "onboard_time": 1761693378,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 142401,
@@ -6131,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131921,
+      "num": 131921,
+      "word": "女子用筋膜枪按摩眼睛突发白内障",
+      "onboard_time": 1761670038,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131908,
       "num": 294489,
       "word": "十五五规划建议全文",
@@ -6339,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "推进祖国统一大业",
+      "onboard_time": 1761670098,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129791,
       "num": 129791,
       "word": "星品影响力",
@@ -6369,6 +6441,14 @@
       "onboard_time": 1761638122,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128485,
+      "num": 128485,
+      "word": "徐冬冬尹子维吵架原因",
+      "onboard_time": 1761673695,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 128445,
@@ -7187,14 +7267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115509,
-      "num": 83365,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115499,
       "num": 115499,
       "word": "黎姿张柏芝两个赵敏同框",
@@ -7217,6 +7289,14 @@
       "onboard_time": 1761560361,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115083,
+      "num": 115083,
+      "word": "金价暴跌有投资者打算割肉离场",
+      "onboard_time": 1761692776,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 114966,
@@ -7305,6 +7385,14 @@
       "onboard_time": 1761545840,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112796,
+      "num": 112796,
+      "word": "张馨予化妆师火了",
+      "onboard_time": 1761671356,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112550,
@@ -7577,14 +7665,6 @@
       "onboard_time": 1761467301,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108215,
-      "num": 83133,
-      "word": "女子用筋膜枪按摩眼睛突发白内障",
-      "onboard_time": 1761670038,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108214,
@@ -8475,6 +8555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92518,
+      "num": 92518,
+      "word": "白鹿开车了",
+      "onboard_time": 1761692776,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92406,
       "num": 102202,
       "word": "去年出生人口最多的10个省份",
@@ -8497,14 +8585,6 @@
       "onboard_time": 1761527841,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92246,
-      "num": 82382,
-      "word": "徐冬冬尹子维吵架原因",
-      "onboard_time": 1761673695,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 92108,
@@ -8633,14 +8713,6 @@
       "onboard_time": 1761609860,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89335,
-      "num": 81665,
-      "word": "张馨予化妆师火了",
-      "onboard_time": 1761671356,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89043,
@@ -8867,14 +8939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 83983,
-      "num": 83983,
-      "word": "推进祖国统一大业",
-      "onboard_time": 1761670098,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83639,
       "num": 83639,
       "word": "谁家网剧一次集齐六张权威脸",
@@ -9097,6 +9161,14 @@
       "onboard_time": 1761520639,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78550,
+      "num": 78550,
+      "word": "Zeus回应止步S15八强",
+      "onboard_time": 1761692716,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 78104,
@@ -9643,6 +9715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61449,
+      "num": 87627,
+      "word": "国色芳华",
+      "onboard_time": 1761693438,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61366,
       "num": 61366,
       "word": "山姆中国换帅",
@@ -9859,6 +9939,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 55833,
+      "num": 55833,
+      "word": "日本企业争相投资给美国搞基建",
+      "onboard_time": 1761686953,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55352,
       "num": 199012,
       "word": "消费者称面包袋里的蟑螂咬开口子溜了",
@@ -9889,6 +9977,14 @@
       "onboard_time": 1761508394,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54415,
+      "num": 54415,
+      "word": "Psy.P结婚",
+      "onboard_time": 1761692898,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 53706,
@@ -9955,6 +10051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51751,
+      "num": 51751,
+      "word": "库里三分命中数突破20个",
+      "onboard_time": 1761693438,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51663,
       "num": 47454,
       "word": "孙恩盛回应拍短剧",
@@ -9969,6 +10073,14 @@
       "onboard_time": 1761638783,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 50672,
+      "num": 50672,
+      "word": "宁绣绣封二又相聚了",
+      "onboard_time": 1761682874,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 50006,
@@ -10009,6 +10121,14 @@
       "onboard_time": 1761582259,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49434,
+      "num": 49434,
+      "word": "切尔诺贝利蓝色狗或接触了化学物质",
+      "onboard_time": 1761684133,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49330,
@@ -10089,6 +10209,14 @@
       "onboard_time": 1761608119,
       "rank": 49,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 47527,
+      "num": 47527,
+      "word": "王者虐待五旬老人",
+      "onboard_time": 1761686654,
+      "rank": 43,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 46963,
@@ -10507,14 +10635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 33666,
-      "num": 33666,
-      "word": "日本企业争相投资给美国搞基建",
-      "onboard_time": 1761686953,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 33485,
       "num": 159196,
       "word": "迅猛龙红毯生图",
@@ -10611,14 +10731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30430,
-      "num": 30430,
-      "word": "切尔诺贝利蓝色狗或接触了化学物质",
-      "onboard_time": 1761684133,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 30216,
       "num": 146087,
       "word": "观光车落水的度假区刚完成安全检查",
@@ -10659,14 +10771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28923,
-      "num": 28923,
-      "word": "王者虐待五旬老人",
-      "onboard_time": 1761686654,
-      "rank": 43,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 28677,
       "num": 126921,
       "word": "一图速览规划建议61条",
@@ -10689,14 +10793,6 @@
       "onboard_time": 1761586395,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27396,
-      "num": 28922,
-      "word": "宁绣绣封二又相聚了",
-      "onboard_time": 1761682874,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 27273,
