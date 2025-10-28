@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761687567860,
+  "endTime": 1761690353870,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1761660922,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326545,
+      "num": 417264,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325560,
@@ -5475,14 +5483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142787,
-      "num": 193002,
-      "word": "女子想为亡夫再生一个孩子遭拒",
-      "onboard_time": 1761677773,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142401,
       "num": 142401,
       "word": "成毅撞肩这一下把我钓成翘嘴了",
@@ -7131,6 +7131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116155,
+      "num": 116155,
+      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+      "onboard_time": 1761665481,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116064,
       "num": 116064,
       "word": "跑男染发组",
@@ -8076,7 +8084,7 @@
     },
     {
       "raw_hot": 99705,
-      "num": 54826,
+      "num": 57070,
       "word": "女子用筋膜枪按摩眼睛突发白内障",
       "onboard_time": 1761670038,
       "rank": 47,
@@ -8537,14 +8545,6 @@
       "onboard_time": 1761574102,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91289,
-      "num": 91289,
-      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
-      "onboard_time": 1761665481,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91272,
@@ -9227,6 +9227,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 72670,
+      "num": 56807,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72551,
       "num": 195969,
       "word": "彭小苒 翻红",
@@ -9241,6 +9249,14 @@
       "onboard_time": 1761572483,
       "rank": 48,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 72141,
+      "num": 56682,
+      "word": "徐冬冬尹子维吵架原因",
+      "onboard_time": 1761673695,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 72057,
@@ -9491,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65550,
+      "num": 56338,
+      "word": "张馨予化妆师火了",
+      "onboard_time": 1761671356,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 65146,
       "num": 270832,
       "word": "王楚钦堡你牛",
@@ -9641,14 +9665,6 @@
       "onboard_time": 1761633621,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60374,
-      "num": 47127,
-      "word": "张馨予化妆师火了",
-      "onboard_time": 1761671356,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 60335,
@@ -9865,14 +9881,6 @@
       "onboard_time": 1761528441,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54675,
-      "num": 40060,
-      "word": "徐冬冬尹子维吵架原因",
-      "onboard_time": 1761673695,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 54564,
@@ -10379,14 +10387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35728,
-      "num": 30267,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35642,
       "num": 159965,
       "word": "今冬第一批车厘子一箱近1000元",
@@ -10707,12 +10707,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26492,
+      "num": 26492,
+      "word": "日本企业争相投资给美国搞基建",
+      "onboard_time": 1761686953,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26381,
       "num": 38855,
       "word": "花少制片人京东直播回应花少8阵容",
       "onboard_time": 1761393862,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26278,
+      "num": 26278,
+      "word": "爱到最后全凭良心的含金量有多高",
+      "onboard_time": 1761685154,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 26098,
@@ -10835,12 +10851,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23254,
+      "num": 23254,
+      "word": "王者虐待五旬老人",
+      "onboard_time": 1761686654,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 23024,
       "num": 166308,
       "word": "百草味面包疑似密封袋现活蟑螂",
       "onboard_time": 1761490763,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22650,
+      "num": 22650,
+      "word": "切尔诺贝利蓝色狗或接触了化学物质",
+      "onboard_time": 1761684133,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22508,
+      "num": 22508,
+      "word": "宁绣绣封二又相聚了",
+      "onboard_time": 1761682874,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 22503,
@@ -10979,6 +11019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18710,
+      "num": 22162,
+      "word": "济南市民排百米长队买奶皮子糖葫芦",
+      "onboard_time": 1761679094,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18593,
       "num": 163706,
       "word": "医托在三甲医院忽悠病患前往中医馆",
@@ -11035,20 +11083,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17055,
+      "num": 22159,
+      "word": "王一博探索新境第2季预告",
+      "onboard_time": 1761688034,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17024,
       "num": 118773,
       "word": "公共服务应在讨论中止于至善",
       "onboard_time": 1761630082,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16984,
-      "num": 16984,
-      "word": "日本企业争相投资给美国搞基建",
-      "onboard_time": 1761686953,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16682,
@@ -11115,30 +11163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13892,
-      "num": 14627,
-      "word": "爱到最后全凭良心的含金量有多高",
-      "onboard_time": 1761685154,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 13852,
-      "num": 14627,
-      "word": "切尔诺贝利蓝色狗或接触了化学物质",
-      "onboard_time": 1761684133,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 13754,
-      "num": 14627,
-      "word": "宁绣绣封二又相聚了",
-      "onboard_time": 1761682874,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13594,
       "num": 128712,
       "word": "2025年0人走出莲花楼",
@@ -11152,14 +11176,6 @@
       "word": "地下宠物血库缺监管",
       "onboard_time": 1761644182,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12984,
-      "num": 19100,
-      "word": "济南市民排百米长队买奶皮子糖葫芦",
-      "onboard_time": 1761679094,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -11177,14 +11193,6 @@
       "onboard_time": 1761569661,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12573,
-      "num": 14627,
-      "word": "王者虐待五旬老人",
-      "onboard_time": 1761686654,
-      "rank": 43,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 12464,
