@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761643742109,
+  "endTime": 1761644598317,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1852458,
+      "num": 242827,
+      "word": "代露娃摔了",
+      "onboard_time": 1761641060,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1833806,
       "num": 282198,
       "word": "许绍雄",
       "onboard_time": 1761571641,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1710484,
-      "num": 242827,
-      "word": "代露娃摔了",
-      "onboard_time": 1761641060,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1699534,
@@ -83,6 +83,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 867863,
+      "num": 293115,
+      "word": "我们来了3回归",
+      "onboard_time": 1761642502,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 857917,
+      "num": 265922,
+      "word": "李维嘉回归湖南卫视",
+      "onboard_time": 1761641962,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 853365,
       "num": 342549,
       "word": "冲锋衣 显命苦",
@@ -131,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 764720,
-      "num": 258046,
-      "word": "李维嘉回归湖南卫视",
-      "onboard_time": 1761641962,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 742116,
       "num": 742116,
       "word": "王者荣耀嫦娥coser致歉",
@@ -152,6 +160,14 @@
       "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
       "onboard_time": 1761577282,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 728299,
+      "num": 728299,
+      "word": "动物血库灰色产业被曝光",
+      "onboard_time": 1761640223,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -187,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 665244,
-      "num": 242611,
-      "word": "我们来了3回归",
-      "onboard_time": 1761642502,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 658196,
       "num": 208358,
       "word": "周润发看望许绍雄",
@@ -225,14 +233,6 @@
       "onboard_time": 1761625526,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 591337,
-      "num": 591337,
-      "word": "动物血库灰色产业被曝光",
-      "onboard_time": 1761640223,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580949,
@@ -507,6 +507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295625,
+      "num": 229683,
+      "word": "李维嘉何炅相拥而泣",
+      "onboard_time": 1761643462,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287065,
+      "num": 350570,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282021,
       "num": 855123,
       "word": "KK园区所在村镇出租车费已翻倍",
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262443,
-      "num": 350570,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261964,
       "num": 218851,
       "word": "内娱来了一部顶配年代剧",
@@ -585,6 +593,14 @@
       "onboard_time": 1761623485,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249961,
+      "num": 239701,
+      "word": "宁艺卓好辣",
+      "onboard_time": 1761641121,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 248516,
@@ -611,20 +627,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241580,
+      "num": 227266,
+      "word": "宝宝去世两年妈妈常来墓地碎碎念",
+      "onboard_time": 1761642622,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241357,
       "num": 194140,
       "word": "韦雪张馨予与友人聚餐",
       "onboard_time": 1761632061,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239701,
-      "num": 239701,
-      "word": "宁艺卓好辣",
-      "onboard_time": 1761641121,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237803,
@@ -699,14 +715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 227266,
-      "num": 227266,
-      "word": "宝宝去世两年妈妈常来墓地碎碎念",
-      "onboard_time": 1761642622,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226542,
       "num": 395543,
       "word": "ShowMaker带队友到上海看S15",
@@ -715,12 +723,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224280,
+      "num": 224280,
+      "word": "方圆好美",
+      "onboard_time": 1761643880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
       "onboard_time": 1761620300,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221244,
+      "num": 240493,
+      "word": "男子强奸嫂子再杀人案启动再审",
+      "onboard_time": 1761642742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221150,
@@ -971,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173846,
+      "num": 148874,
+      "word": "张予曦 珊瑚新娘",
+      "onboard_time": 1761644301,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 173192,
       "num": 173192,
       "word": "特朗普回应美两军机南海坠毁",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1761640043,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169534,
-      "num": 169534,
-      "word": "李维嘉何炅相拥而泣",
-      "onboard_time": 1761643462,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 166167,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1761626544,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155349,
+      "num": 155349,
+      "word": "百万博主自曝赚40万给母亲买房",
+      "onboard_time": 1761643342,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 154543,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1761628702,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136158,
+      "num": 136158,
+      "word": "雷军发布小米汽车征战纽北纪录片",
+      "onboard_time": 1761644182,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 136054,
@@ -1875,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94970,
-      "num": 240493,
-      "word": "男子强奸嫂子再杀人案启动再审",
-      "onboard_time": 1761642742,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94032,
       "num": 94032,
       "word": "国际金银暴跌",
@@ -2035,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80521,
+      "num": 164058,
+      "word": "山姆黄金大闸蟹系水贝供货",
+      "onboard_time": 1761643103,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79091,
       "num": 221409,
       "word": "女童被水泥杆砸死40天父亲发声",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1761588975,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75762,
+      "num": 139776,
+      "word": "Kiin单杀Zeus",
+      "onboard_time": 1761644542,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 75155,
@@ -2115,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66386,
-      "num": 164058,
-      "word": "山姆黄金大闸蟹系水贝供货",
-      "onboard_time": 1761643103,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
@@ -2132,7 +2172,7 @@
     },
     {
       "raw_hot": 66106,
-      "num": 172975,
+      "num": 294489,
       "word": "十五五规划建议全文",
       "onboard_time": 1761641541,
       "rank": 31,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1761626005,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59693,
+      "num": 138058,
+      "word": "中方回应是否放松稀土出口管制",
+      "onboard_time": 1761644241,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59087,
@@ -2347,6 +2395,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 52036,
+      "num": 234140,
+      "word": "中通被行政约谈",
+      "onboard_time": 1761643704,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51831,
       "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
@@ -2443,20 +2499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46605,
+      "num": 197912,
+      "word": "于适好权威的时尚脸",
+      "onboard_time": 1761642502,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 46099,
       "num": 105274,
       "word": "12000多人次搜山44小时找寻走失女童",
       "onboard_time": 1761577462,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44827,
-      "num": 179975,
-      "word": "于适好权威的时尚脸",
-      "onboard_time": 1761642502,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43962,
@@ -2483,7 +2539,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 39815,
+      "raw_hot": 40527,
       "num": 159371,
       "word": "大爷发现女友患病要求退彩礼",
       "onboard_time": 1761643103,
@@ -2675,14 +2731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20039,
-      "num": 167748,
-      "word": "中通被行政约谈",
-      "onboard_time": 1761643704,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19967,
       "num": 19967,
       "word": "穆祉丞恋人未满MV",
@@ -2763,6 +2811,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 13571,
+      "num": 227929,
+      "word": "地下宠物血库缺监管",
+      "onboard_time": 1761644182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12355,
       "num": 667777,
       "word": "第十五届全运会",
@@ -2788,6 +2844,9 @@
     },
     {
       "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    },
+    {
+      "word": "#十五五规划建议说明#"
     }
   ]
 }
