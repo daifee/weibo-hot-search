@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761640532638,
+  "endTime": 1761641334285,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1084149,
-      "num": 315319,
+      "num": 338590,
       "word": "吃柚子 月经推迟",
       "onboard_time": 1761635302,
       "rank": 10,
@@ -75,8 +75,16 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 853365,
+      "num": 342549,
+      "word": "冲锋衣 显命苦",
+      "onboard_time": 1761637762,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 845229,
-      "num": 218312,
+      "num": 341445,
       "word": "网红被银环蛇咬嫌血清贵离去后失联",
       "onboard_time": 1761636562,
       "rank": 25,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 603806,
-      "num": 303819,
+      "num": 330026,
       "word": "田曦薇哭了",
       "onboard_time": 1761630562,
       "rank": 23,
@@ -243,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 508857,
+      "num": 336622,
+      "word": "动物血库 抽流浪猫血",
+      "onboard_time": 1761637520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491315,
       "num": 182912,
       "word": "杨幂 死嘴憋住",
@@ -251,16 +267,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 488825,
-      "num": 187486,
-      "word": "动物血库 抽流浪猫血",
-      "onboard_time": 1761637520,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484967,
-      "num": 232597,
+      "num": 316294,
       "word": "黄金",
       "onboard_time": 1761610701,
       "rank": 23,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 372304,
-      "num": 228582,
+      "num": 272620,
       "word": "爸爸开会女儿把哭声调成静音模式",
       "onboard_time": 1761633322,
       "rank": 40,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 370336,
-      "num": 221155,
+      "num": 335508,
       "word": "对不起刘亦菲VOGUE造型",
       "onboard_time": 1761636201,
       "rank": 42,
@@ -385,14 +393,6 @@
       "onboard_time": 1761561441,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349331,
-      "num": 184262,
-      "word": "冲锋衣 显命苦",
-      "onboard_time": 1761637762,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 346021,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 325560,
-      "num": 325560,
+      "num": 346566,
       "word": "满天星簪花",
       "onboard_time": 1761632781,
       "rank": 28,
@@ -467,8 +467,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280720,
+      "num": 280720,
+      "word": "特朗普略过日本国旗",
+      "onboard_time": 1761637762,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 271978,
-      "num": 271978,
+      "num": 348225,
       "word": "offer结束后实习生现状",
       "onboard_time": 1761636022,
       "rank": 29,
@@ -571,14 +579,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 231848,
-      "num": 174817,
-      "word": "特朗普略过日本国旗",
-      "onboard_time": 1761637762,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 230723,
       "num": 230723,
       "word": "许绍雄因癌症致器官衰竭",
@@ -609,6 +609,14 @@
       "onboard_time": 1761576924,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228747,
+      "num": 228747,
+      "word": "宁艺卓ELLE造型",
+      "onboard_time": 1761639023,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228447,
@@ -667,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214075,
-      "num": 170858,
-      "word": "宁艺卓ELLE造型",
-      "onboard_time": 1761639023,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 210523,
       "num": 210523,
       "word": "桃花坞6只留一个人就是孟子义",
@@ -729,6 +729,14 @@
       "onboard_time": 1761623786,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 196951,
+      "num": 196951,
+      "word": "张予曦都穿不了的裤子到底谁能买",
+      "onboard_time": 1761640883,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 196944,
@@ -787,6 +795,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186129,
+      "num": 186129,
+      "word": "佘诗曼谈许绍雄去世落泪",
+      "onboard_time": 1761640043,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184364,
+      "num": 350570,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184256,
       "num": 224985,
       "word": "TVB今年去世的艺人",
@@ -801,6 +825,14 @@
       "onboard_time": 1761618081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183128,
+      "num": 183128,
+      "word": "代露娃摔了",
+      "onboard_time": 1761641060,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182952,
@@ -840,6 +872,14 @@
       "word": "TVB也在和这个时代告别",
       "onboard_time": 1761626185,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177097,
+      "num": 177097,
+      "word": "杨幂礼服全靠脸撑着",
+      "onboard_time": 1761638840,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -915,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170042,
+      "num": 170042,
+      "word": "易梦玲海的女儿",
+      "onboard_time": 1761640401,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 166167,
       "num": 142769,
       "word": "唯一不玩手机认真听课的被轰出去了",
@@ -985,14 +1033,6 @@
       "onboard_time": 1761640342,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 159904,
-      "num": 233131,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159813,
@@ -1107,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148463,
-      "num": 148463,
-      "word": "易梦玲海的女儿",
-      "onboard_time": 1761640401,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 147822,
       "num": 147822,
       "word": "一年都卖不掉的货一晚上全卖了",
@@ -1179,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144522,
+      "num": 144522,
+      "word": "雷军财富比去年增长1960亿",
+      "onboard_time": 1761640640,
+      "rank": 35,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 144376,
       "num": 144376,
       "word": "当事人回应孩子被店员提醒别摸蛋糕",
@@ -1211,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142211,
-      "num": 142211,
-      "word": "杨幂礼服全靠脸撑着",
-      "onboard_time": 1761638840,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141982,
       "num": 141982,
       "word": "王乐乐杨清柠合照",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1761631942,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 139161,
+      "num": 159815,
+      "word": "人人都嘲刘冲 人人都学刘冲",
+      "onboard_time": 1761640043,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137996,
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128621,
+      "num": 128621,
+      "word": "OOC",
+      "onboard_time": 1761638122,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128203,
       "num": 128203,
       "word": "星穹铁道千星纪游PV",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1761620539,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126388,
+      "num": 126388,
+      "word": "宁艺卓好辣",
+      "onboard_time": 1761641121,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126215,
@@ -1475,12 +1531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118428,
+      "num": 118428,
+      "word": "宇树机器人成功拉动1.4吨汽车",
+      "onboard_time": 1761641241,
+      "rank": 48,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 118335,
       "num": 118335,
       "word": "A股",
       "onboard_time": 1761619459,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117855,
+      "num": 117855,
+      "word": "周深 杨幂你都美成啥了",
+      "onboard_time": 1761638421,
+      "rank": 49,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 117519,
@@ -1505,14 +1577,6 @@
       "onboard_time": 1761636381,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116126,
-      "num": 159834,
-      "word": "佘诗曼谈许绍雄去世落泪",
-      "onboard_time": 1761640043,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 114237,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1761620660,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101913,
+      "num": 316421,
+      "word": "坠亡学生母亲称学校71分钟才报警",
+      "onboard_time": 1761640223,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101840,
@@ -2035,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57341,
+      "num": 139436,
+      "word": "张凌赫头发被吹成海胆了",
+      "onboard_time": 1761641241,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57243,
       "num": 105696,
       "word": "辛芷蕾封后后首部电视剧",
@@ -2100,7 +2180,7 @@
     },
     {
       "raw_hot": 53468,
-      "num": 166527,
+      "num": 183412,
       "word": "谷爱凌遇上KimJones秒变迷妹",
       "onboard_time": 1761638783,
       "rank": 29,
@@ -2132,7 +2212,7 @@
     },
     {
       "raw_hot": 51061,
-      "num": 181689,
+      "num": 317562,
       "word": "波司登AREAL发布会排面",
       "onboard_time": 1761638783,
       "rank": 17,
@@ -2203,14 +2283,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 47616,
-      "num": 179284,
-      "word": "坠亡学生母亲称学校71分钟才报警",
-      "onboard_time": 1761640223,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46963,
       "num": 145382,
       "word": "家长质疑职校吹风机5分钟1元收费贵",
@@ -2225,14 +2297,6 @@
       "onboard_time": 1761577462,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45762,
-      "num": 159815,
-      "word": "人人都嘲刘冲 人人都学刘冲",
-      "onboard_time": 1761640043,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 43962,
@@ -2332,7 +2396,7 @@
     },
     {
       "raw_hot": 31864,
-      "num": 180800,
+      "num": 316671,
       "word": "京东成毅同款羽绒服减300",
       "onboard_time": 1761637520,
       "rank": 18,

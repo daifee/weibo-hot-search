@@ -1,0 +1,410 @@
+{
+  "runTime": 1761641334285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1408840,
+        "num": 1408840,
+        "word": "ELLE红毯",
+        "onboard_time": 1761638421,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355899,
+        "num": 355899,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 1,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 11752,
+        "num": 355583,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777982,
+        "num": 352881,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302539,
+        "num": 351374,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 184364,
+        "num": 350570,
+        "word": "网约房 群租房",
+        "onboard_time": 1761636022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258755,
+        "num": 348225,
+        "word": "offer结束后实习生现状",
+        "onboard_time": 1761636022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171837,
+        "num": 346566,
+        "word": "满天星簪花",
+        "onboard_time": 1761632781,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 158829,
+        "num": 345283,
+        "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+        "onboard_time": 1761631043,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147787,
+        "num": 343444,
+        "word": "安倍晋三枪击案嫌疑人认罪",
+        "onboard_time": 1761629843,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 853365,
+        "num": 342549,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 801267,
+        "num": 341445,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690724,
+        "num": 339947,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 598285,
+        "num": 338590,
+        "word": "吃柚子 月经推迟",
+        "onboard_time": 1761635302,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508857,
+        "num": 336622,
+        "word": "动物血库 抽流浪猫血",
+        "onboard_time": 1761637520,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335508,
+        "num": 335508,
+        "word": "对不起刘亦菲VOGUE造型",
+        "onboard_time": 1761636201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330026,
+        "num": 330026,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37674,
+        "num": 317562,
+        "word": "波司登AREAL发布会排面",
+        "onboard_time": 1761638783,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 22961,
+        "num": 316671,
+        "word": "京东成毅同款羽绒服减300",
+        "onboard_time": 1761637520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101913,
+        "num": 316421,
+        "word": "坠亡学生母亲称学校71分钟才报警",
+        "onboard_time": 1761640223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316294,
+        "num": 316294,
+        "word": "黄金",
+        "onboard_time": 1761634882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280720,
+        "num": 280720,
+        "word": "特朗普略过日本国旗",
+        "onboard_time": 1761637762,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272620,
+        "num": 272620,
+        "word": "爸爸开会女儿把哭声调成静音模式",
+        "onboard_time": 1761633322,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228747,
+        "num": 228747,
+        "word": "宁艺卓ELLE造型",
+        "onboard_time": 1761639023,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227525,
+        "num": 227525,
+        "word": "众星悼念许绍雄",
+        "onboard_time": 1761629962,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227337,
+        "num": 227337,
+        "word": "刘丹回应刘恺威拍拖",
+        "onboard_time": 1761634040,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208128,
+        "num": 208128,
+        "word": "赵樱子回应和陈晓很配",
+        "onboard_time": 1761629422,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196951,
+        "num": 196951,
+        "word": "张予曦都穿不了的裤子到底谁能买",
+        "onboard_time": 1761640883,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186129,
+        "num": 186129,
+        "word": "佘诗曼谈许绍雄去世落泪",
+        "onboard_time": 1761640043,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38359,
+        "num": 183412,
+        "word": "谷爱凌遇上KimJones秒变迷妹",
+        "onboard_time": 1761638783,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183128,
+        "num": 183128,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177097,
+        "num": 177097,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172671,
+        "num": 172671,
+        "word": "张艺兴金鹤奖最佳男主角",
+        "onboard_time": 1761639202,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170042,
+        "num": 170042,
+        "word": "易梦玲海的女儿",
+        "onboard_time": 1761640401,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149670,
+        "num": 149670,
+        "word": "郭宇欣否认不会再演短剧了",
+        "onboard_time": 1761633741,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "雷军财富比去年增长1960亿",
+        "onboard_time": 1761640640,
+        "rank": 35,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 143884,
+        "num": 143884,
+        "word": "选手破音萨顶顶秒按淘汰",
+        "onboard_time": 1761636740,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142095,
+        "num": 142095,
+        "word": "A股收复4000点 牛市真来了吗",
+        "onboard_time": 1761640342,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141388,
+        "num": 141388,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57341,
+        "num": 139436,
+        "word": "张凌赫头发被吹成海胆了",
+        "onboard_time": 1761641241,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139161,
+        "num": 139161,
+        "word": "人人都嘲刘冲 人人都学刘冲",
+        "onboard_time": 1761640043,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "OOC",
+        "onboard_time": 1761638122,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126388,
+        "num": 126388,
+        "word": "宁艺卓好辣",
+        "onboard_time": 1761641121,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125305,
+        "num": 125305,
+        "word": "李施嬅再见爱人你好张家妍",
+        "onboard_time": 1761633922,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128530,
+        "num": 123523,
+        "word": "张凌赫ELLE背头造型",
+        "onboard_time": 1761638302,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "76岁爷爷陪爱热闹老伴住进养老院",
+        "onboard_time": 1761639023,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119143,
+        "num": 119143,
+        "word": "陈伟霆 传新iPhone要一天多",
+        "onboard_time": 1761625526,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118516,
+        "num": 118516,
+        "word": "留学9天19岁女孩被电诈后自杀",
+        "onboard_time": 1761636022,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118428,
+        "num": 118428,
+        "word": "宇树机器人成功拉动1.4吨汽车",
+        "onboard_time": 1761641241,
+        "rank": 48,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 117855,
+        "num": 117855,
+        "word": "周深 杨幂你都美成啥了",
+        "onboard_time": 1761638421,
+        "rank": 49,
+        "category": "艺人,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    }
+  }
+}
