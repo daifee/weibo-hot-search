@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761662740117,
+  "endTime": 1761665418851,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 916900,
-      "num": 239920,
+      "num": 276494,
       "word": "小鱼海棠婚礼现场",
       "onboard_time": 1761656061,
       "rank": 40,
@@ -121,6 +121,14 @@
       "onboard_time": 1761633502,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 871068,
+      "num": 871068,
+      "word": "每天练背8分钟是回报率最高的运动",
+      "onboard_time": 1761663201,
+      "rank": 1,
+      "category": "运动健身"
     },
     {
       "raw_hot": 867863,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464157,
+      "num": 464157,
+      "word": "大批轰6K贴近台湾岛",
+      "onboard_time": 1761663442,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 461644,
       "num": 461644,
       "word": "蔡天凤碎尸案进展",
@@ -553,6 +569,14 @@
       "onboard_time": 1761619640,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437011,
+      "num": 437011,
+      "word": "很多台湾年轻人不知抗日史",
+      "onboard_time": 1761662242,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 436958,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 342130,
-      "num": 235083,
+      "num": 268068,
       "word": "李沁好像一朵蝴蝶兰",
       "onboard_time": 1761657742,
       "rank": 24,
@@ -705,6 +729,14 @@
       "onboard_time": 1761632420,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326727,
+      "num": 270511,
+      "word": "杨幂去了精品之夜",
+      "onboard_time": 1761660922,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325560,
@@ -827,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264568,
-      "num": 203260,
-      "word": "杨幂去了精品之夜",
-      "onboard_time": 1761660922,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261964,
       "num": 218851,
       "word": "内娱来了一部顶配年代剧",
@@ -849,6 +873,14 @@
       "onboard_time": 1761578781,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257180,
+      "num": 257180,
+      "word": "村民办丧事围墙倒塌致吊唁6人身亡",
+      "onboard_time": 1761663262,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254126,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1761575003,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209661,
-      "num": 209661,
-      "word": "很多台湾年轻人不知抗日史",
-      "onboard_time": 1761662242,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207601,
@@ -2171,6 +2195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129849,
+      "num": 129849,
+      "word": "早安被TOP整哭了",
+      "onboard_time": 1761664041,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "湖南一男子直播挖蛇被咬后下落不明",
@@ -2273,6 +2305,14 @@
       "onboard_time": 1761621382,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "范玮琪方发声明辟谣",
+      "onboard_time": 1761663742,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 125210,
@@ -2427,6 +2467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116952,
+      "num": 116952,
+      "word": "惠州一路边小货车被指装过亿现金",
+      "onboard_time": 1761664462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116572,
       "num": 137379,
       "word": "娶美国博士的河南小伙回应吃软饭",
@@ -2545,6 +2593,22 @@
       "onboard_time": 1761660803,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108755,
+      "num": 108755,
+      "word": "Ning谈LPL和LCK教练差距",
+      "onboard_time": 1761664041,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108632,
+      "num": 108632,
+      "word": "王楚钦和爸爸妈妈的温馨时刻",
+      "onboard_time": 1761663681,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 107873,
@@ -2803,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91671,
+      "num": 91671,
+      "word": "左奇函 老钱风",
+      "onboard_time": 1761663442,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90468,
       "num": 122458,
       "word": "这些直播打赏行为将被重点整治",
@@ -2851,6 +2923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87630,
+      "num": 87630,
+      "word": "米卡 我真的穿了",
+      "onboard_time": 1761665002,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 87319,
       "num": 87319,
       "word": "住院小猫看到主人后眼睛都亮了",
@@ -2889,6 +2969,14 @@
       "onboard_time": 1761566601,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84438,
+      "num": 84438,
+      "word": "官方回应小货车被指装过亿现金",
+      "onboard_time": 1761664221,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81063,
@@ -3251,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53296,
+      "num": 225452,
+      "word": "一台家人全票通过的车",
+      "onboard_time": 1761660441,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53228,
       "num": 53228,
       "word": "特朗普回应俄试射末日武器",
@@ -3265,14 +3361,6 @@
       "onboard_time": 1761647601,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52318,
-      "num": 225452,
-      "word": "一台家人全票通过的车",
-      "onboard_time": 1761660441,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 52104,
@@ -3443,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39740,
+      "num": 87560,
+      "word": "伊藤美诚一轮游",
+      "onboard_time": 1761663022,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39410,
       "num": 129542,
       "word": "GEN对战HLE数据前瞻",
@@ -3457,6 +3553,14 @@
       "onboard_time": 1761622167,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37664,
+      "num": 188763,
+      "word": "朱迪尼克又来给大家秀默契了",
+      "onboard_time": 1761664102,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 36996,
