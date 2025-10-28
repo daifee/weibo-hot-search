@@ -1,0 +1,410 @@
+{
+  "runTime": 1761666283539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 840547,
+        "num": 1134487,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791146,
+        "num": 791146,
+        "word": "每天练背8分钟是回报率最高的运动",
+        "onboard_time": 1761663201,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23214,
+        "num": 648114,
+        "word": "网络安全法完成修改",
+        "onboard_time": 1761637701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568126,
+        "num": 568126,
+        "word": "大批轰6K贴近台湾岛",
+        "onboard_time": 1761663442,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458819,
+        "num": 458819,
+        "word": "ELLE晚宴",
+        "onboard_time": 1761655401,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 423106,
+        "num": 423106,
+        "word": "W盛典 赢麻了",
+        "onboard_time": 1761657921,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421845,
+        "num": 421845,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410579,
+        "num": 410579,
+        "word": "许绍雄岳家捐赠了岭南四大园林之首",
+        "onboard_time": 1761651262,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233487,
+        "num": 233487,
+        "word": "奶皮子糖葫芦卖到40元一串",
+        "onboard_time": 1761642862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191166,
+        "num": 191166,
+        "word": "Peanut在休息室流泪",
+        "onboard_time": 1761653003,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 704126,
+        "num": 188964,
+        "word": "小鱼海棠婚礼现场",
+        "onboard_time": 1761656061,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 662052,
+        "num": 187002,
+        "word": "王耀庆对钟楚曦贴脸开大",
+        "onboard_time": 1761652462,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448590,
+        "num": 183974,
+        "word": "村民办丧事围墙倒塌致吊唁6人身亡",
+        "onboard_time": 1761663262,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345112,
+        "num": 182012,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318953,
+        "num": 177577,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282231,
+        "num": 175370,
+        "word": "杨幂去了精品之夜",
+        "onboard_time": 1761660922,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216780,
+        "num": 171191,
+        "word": "花少要拍团综了",
+        "onboard_time": 1761653662,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213345,
+        "num": 169161,
+        "word": "李沁好像一朵蝴蝶兰",
+        "onboard_time": 1761657742,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168078,
+        "num": 168078,
+        "word": "关晓彤第二套好辣",
+        "onboard_time": 1761652642,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36822,
+        "num": 151201,
+        "word": "朱迪尼克又来给大家秀默契了",
+        "onboard_time": 1761664102,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196721,
+        "num": 150731,
+        "word": "近8成适老化用品被年轻人买走",
+        "onboard_time": 1761665602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182945,
+        "num": 150173,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148941,
+        "num": 148941,
+        "word": "TOP 洗剪吹男团",
+        "onboard_time": 1761658823,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146464,
+        "num": 146464,
+        "word": "杨幂没走红毯",
+        "onboard_time": 1761652763,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143618,
+        "num": 143618,
+        "word": "张馨予 红毯定海神针",
+        "onboard_time": 1761646402,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141248,
+        "num": 141248,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135519,
+        "num": 135519,
+        "word": "黄金下跌要持续多久",
+        "onboard_time": 1761662121,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139127,
+        "num": 134561,
+        "word": "张馨予出场秒了",
+        "onboard_time": 1761656362,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132936,
+        "num": 132936,
+        "word": "惠州一路边小货车被指装过亿现金",
+        "onboard_time": 1761664462,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26684,
+        "num": 122365,
+        "word": "声音玩具乐队现场",
+        "onboard_time": 1761665540,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118189,
+        "num": 118189,
+        "word": "金价回调原因",
+        "onboard_time": 1761662063,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113990,
+        "num": 113990,
+        "word": "范玮琪方发声明辟谣",
+        "onboard_time": 1761663742,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112209,
+        "num": 112209,
+        "word": "男子住酒店自带床单被罩全隔离",
+        "onboard_time": 1761665721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109015,
+        "num": 109015,
+        "word": "米卡 我真的穿了",
+        "onboard_time": 1761665002,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102740,
+        "num": 102740,
+        "word": "3unshine组合十年变化太大了",
+        "onboard_time": 1761665780,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102582,
+        "num": 102582,
+        "word": "鹿晗吃面上大众点评了",
+        "onboard_time": 1761645442,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102394,
+        "num": 102394,
+        "word": "白鹿跑男新疆要染限定发色",
+        "onboard_time": 1761657863,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98966,
+        "num": 98966,
+        "word": "Ning谈LPL和LCK教练差距",
+        "onboard_time": 1761664041,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98646,
+        "num": 98646,
+        "word": "沈佳润红毯走过头了",
+        "onboard_time": 1761646402,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36289,
+        "num": 98239,
+        "word": "女子出差遭猥亵被认定为工伤",
+        "onboard_time": 1761665540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97946,
+        "num": 97946,
+        "word": "米卡穿了吗",
+        "onboard_time": 1761647482,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96970,
+        "num": 96970,
+        "word": "多地出现假彩票兑奖事件",
+        "onboard_time": 1761655823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84758,
+        "num": 96111,
+        "word": "一台家人全票通过的车",
+        "onboard_time": 1761660441,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95396,
+        "num": 95396,
+        "word": "十五五规划建议发布",
+        "onboard_time": 1761643162,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93202,
+        "num": 93202,
+        "word": "张艺凡镜头下得多瘦",
+        "onboard_time": 1761648441,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91289,
+        "num": 91289,
+        "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+        "onboard_time": 1761665481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85145,
+        "num": 91279,
+        "word": "王一博的松弛感",
+        "onboard_time": 1761665840,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83519,
+        "num": 91214,
+        "word": "李沁工作室 摄影有待提高",
+        "onboard_time": 1761645862,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78125,
+        "num": 91185,
+        "word": "左奇函 老钱风",
+        "onboard_time": 1761663442,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76416,
+        "num": 91117,
+        "word": "美国小哥被中国外卖柜震惊",
+        "onboard_time": 1761658101,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于十五五规划建议的说明#"
+    }
+  }
+}
