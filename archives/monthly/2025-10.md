@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 13:43:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 14:39:35
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%AB%A6%E5%A8%A5coser%E8%87%B4%E6%AD%89%23" target="weibo">
+王者荣耀嫦娥coser致歉（热度：742116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B71300%E4%B8%87%E6%8B%86%E8%BF%81%E6%AC%BE%E8%A2%AB%E5%88%A4%E5%88%91%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 获1300万拆迁款被判刑男子发声（热度：741596）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%88%B1%E8%B1%86%E5%BD%93%E8%A1%97%E6%9A%B4%E9%9C%B2%E4%B8%8B%E4%BD%93%E8%A2%AB%E6%8D%95%23" target="weibo">
 日本男爱豆当街暴露下体被捕（热度：579640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%E5%8C%85%E6%9C%BA%23" target="weibo">
-肖战 Gucci包机（热度：579086）
 </a>
 </li>
 

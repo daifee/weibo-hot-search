@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761630206127,
+  "endTime": 1761633575843,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1699534,
-      "num": 382138,
+      "num": 420880,
       "word": "黎芷珊 许绍雄",
       "onboard_time": 1761626065,
       "rank": 6,
@@ -475,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 742116,
+      "num": 742116,
+      "word": "王者荣耀嫦娥coser致歉",
+      "onboard_time": 1761628522,
+      "rank": 16,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 734917,
       "num": 195011,
       "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 567529,
-      "num": 377238,
+      "num": 431763,
       "word": "女明星ELLE出图",
       "onboard_time": 1761625644,
       "rank": 15,
@@ -889,6 +897,14 @@
       "onboard_time": 1761617719,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 560001,
+      "num": 560001,
+      "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+      "onboard_time": 1761631043,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559332,
@@ -1315,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 402066,
+      "num": 402066,
+      "word": "安倍晋三枪击案嫌疑人认罪",
+      "onboard_time": 1761629843,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 399473,
       "num": 399473,
       "word": "王者荣耀节目单",
@@ -1515,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341514,
-      "num": 341514,
-      "word": "王者荣耀嫦娥coser致歉",
-      "onboard_time": 1761628522,
-      "rank": 16,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 339914,
       "num": 209042,
       "word": "开始推理吧4",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1761564080,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325432,
+      "num": 325432,
+      "word": "迪丽热巴新剧开机记录",
+      "onboard_time": 1761630202,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 325385,
@@ -1915,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263020,
+      "num": 168252,
+      "word": "赵樱子回应和陈晓很配",
+      "onboard_time": 1761629422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257841,
       "num": 257841,
       "word": "小S说谁那么会生啦",
@@ -2019,12 +2051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243046,
+      "num": 181962,
+      "word": "11岁孩子为锻炼舌头吞下10克金豆",
+      "onboard_time": 1761630322,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243041,
       "num": 204705,
       "word": "日本天皇用英语说很高兴见到特朗普",
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241357,
+      "num": 166469,
+      "word": "韦雪张馨予与友人聚餐",
+      "onboard_time": 1761632061,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 240362,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1761620421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236406,
+      "num": 164511,
+      "word": "田曦薇哭了",
+      "onboard_time": 1761630562,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 236045,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1761478521,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230615,
+      "num": 178714,
+      "word": "刘宇宁怼不过的女人出现了",
+      "onboard_time": 1761627862,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 229066,
@@ -2267,6 +2331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219039,
+      "num": 219039,
+      "word": "张继科晒樊振东亲签球拍",
+      "onboard_time": 1761628104,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218789,
       "num": 218789,
       "word": "早餐就要这样发朋友圈",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1761576741,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 217245,
+      "num": 177397,
+      "word": "于正要带着清宫剧回来了",
+      "onboard_time": 1761629843,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 216663,
@@ -2344,6 +2424,14 @@
       "word": "男子辅导作业失手致儿子耳膜穿孔",
       "onboard_time": 1761538043,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213981,
+      "num": 175123,
+      "word": "刮百万大奖请假去兑奖竟是假彩票",
+      "onboard_time": 1761632420,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2827,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189282,
+      "num": 160508,
+      "word": "郑智化",
+      "onboard_time": 1761633260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188615,
       "num": 188615,
       "word": "花海也在追暗河传",
@@ -2881,6 +2977,14 @@
       "onboard_time": 1761465980,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187375,
+      "num": 187375,
+      "word": "杨瀚森NBA得分超越孙悦",
+      "onboard_time": 1761626784,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 187070,
@@ -3289,22 +3393,6 @@
       "onboard_time": 1761483981,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171685,
-      "num": 152014,
-      "word": "刘宇宁怼不过的女人出现了",
-      "onboard_time": 1761627862,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 171507,
-      "num": 171507,
-      "word": "安倍晋三枪击案嫌疑人认罪",
-      "onboard_time": 1761629843,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 171036,
@@ -4267,14 +4355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144215,
-      "num": 144215,
-      "word": "于正要带着清宫剧回来了",
-      "onboard_time": 1761629843,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144071,
       "num": 144071,
       "word": "香港男生窒息死亡警方初步排除自杀",
@@ -4345,6 +4425,14 @@
       "onboard_time": 1761452601,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141144,
+      "num": 141144,
+      "word": "关晓彤ES高定",
+      "onboard_time": 1761631942,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 140872,
@@ -4435,6 +4523,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 138318,
+      "num": 138318,
+      "word": "满天星簪花",
+      "onboard_time": 1761632781,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 138302,
       "num": 248100,
       "word": "少年的你发了新剧照",
@@ -4505,14 +4601,6 @@
       "onboard_time": 1761490702,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137776,
-      "num": 152363,
-      "word": "杨瀚森NBA得分超越孙悦",
-      "onboard_time": 1761626784,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 137394,
@@ -5155,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126167,
+      "num": 126167,
+      "word": "印尼偶遇李现爬火山",
+      "onboard_time": 1761631221,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126165,
       "num": 126165,
       "word": "俄罗斯发动大规模夜袭",
@@ -5561,14 +5657,6 @@
       "onboard_time": 1761474680,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117798,
-      "num": 117798,
-      "word": "赵樱子回应和陈晓很配",
-      "onboard_time": 1761629422,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 117519,
@@ -6179,6 +6267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105099,
+      "num": 105099,
+      "word": "种地吧",
+      "onboard_time": 1761633080,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104938,
       "num": 105592,
       "word": "张晚意 也没说花少有两个晚情啊",
@@ -6283,6 +6379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102668,
+      "num": 102668,
+      "word": "特朗普明确表示支持高市早苗",
+      "onboard_time": 1761633080,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102650,
       "num": 102650,
       "word": "当小狗发现主人晚起了半小时",
@@ -6329,6 +6433,14 @@
       "onboard_time": 1761460099,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101840,
+      "num": 101840,
+      "word": "超700人希望旁听安倍遇刺案",
+      "onboard_time": 1761633141,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101738,
@@ -6400,6 +6512,14 @@
       "word": "Bin评论区被其过往言论刷屏",
       "onboard_time": 1761445521,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100628,
+      "num": 129539,
+      "word": "bin回应showmaker名言",
+      "onboard_time": 1761628942,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -6491,14 +6611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99339,
-      "num": 129539,
-      "word": "bin回应showmaker名言",
-      "onboard_time": 1761628942,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "无限暖暖",
@@ -6563,6 +6675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98072,
+      "num": 98072,
+      "word": "陈可辛代表酱园弄一个人走红毯",
+      "onboard_time": 1761632601,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98029,
       "num": 98029,
       "word": "苹果房子",
@@ -6585,6 +6705,14 @@
       "onboard_time": 1761606618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97845,
+      "num": 97845,
+      "word": "爸爸开会女儿把哭声调成静音模式",
+      "onboard_time": 1761633322,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97612,
@@ -6657,6 +6785,14 @@
       "onboard_time": 1761628162,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95840,
+      "num": 95840,
+      "word": "龚俊神级路透那段要播了",
+      "onboard_time": 1761632184,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 95713,
@@ -6795,6 +6931,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 92773,
+      "num": 92773,
+      "word": "烟台理工学院通报学生坠楼身亡",
+      "onboard_time": 1761633502,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "这是我见过对恋爱脑最好的诠释",
@@ -6905,14 +7049,6 @@
       "onboard_time": 1761463700,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90689,
-      "num": 116123,
-      "word": "张继科晒樊振东亲签球拍",
-      "onboard_time": 1761628104,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 90420,
@@ -8147,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46428,
+      "num": 93736,
+      "word": "女尸还是男尸警方结论与目击者相反",
+      "onboard_time": 1761633561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46172,
       "num": 52932,
       "word": "一个永远不会得罪人的方法",
@@ -8371,6 +8515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35628,
+      "num": 92947,
+      "word": "文班亚马旋转上篮自带少林风",
+      "onboard_time": 1761632122,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35478,
       "num": 42903,
       "word": "范丞丞回应cos绿巨人被认出",
@@ -8384,6 +8536,14 @@
       "word": "多所高校正在培养带娃专家",
       "onboard_time": 1761504855,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35056,
+      "num": 97855,
+      "word": "湖南一男子直播挖蛇被咬后下落不明",
+      "onboard_time": 1761632961,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -8468,7 +8628,7 @@
     },
     {
       "raw_hot": 31161,
-      "num": 435585,
+      "num": 616696,
       "word": "第十五届全运会",
       "onboard_time": 1761570622,
       "rank": 2,
@@ -8881,6 +9041,14 @@
       "onboard_time": 1761564801,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13389,
+      "num": 173401,
+      "word": "保时捷回应多款油车将停产",
+      "onboard_time": 1761632781,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12825,

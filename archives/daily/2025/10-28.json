@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761630206127,
+  "endTime": 1761633575843,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1699534,
-      "num": 382138,
+      "num": 420880,
       "word": "黎芷珊 许绍雄",
       "onboard_time": 1761626065,
       "rank": 6,
@@ -81,6 +81,14 @@
       "onboard_time": 1761621687,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 742116,
+      "num": 742116,
+      "word": "王者荣耀嫦娥coser致歉",
+      "onboard_time": 1761628522,
+      "rank": 16,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 734917,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 567529,
-      "num": 377238,
+      "num": 431763,
       "word": "女明星ELLE出图",
       "onboard_time": 1761625644,
       "rank": 15,
@@ -185,6 +193,14 @@
       "onboard_time": 1761617719,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 560001,
+      "num": 560001,
+      "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+      "onboard_time": 1761631043,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491315,
@@ -227,6 +243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 402066,
+      "num": 402066,
+      "word": "安倍晋三枪击案嫌疑人认罪",
+      "onboard_time": 1761629843,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 383824,
       "num": 206290,
       "word": "已婚已育叫空姐还是空嫂网友吵翻天",
@@ -259,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341514,
-      "num": 341514,
-      "word": "王者荣耀嫦娥coser致歉",
-      "onboard_time": 1761628522,
-      "rank": 16,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 332121,
       "num": 332121,
       "word": "安倍遇刺案今天开庭",
       "onboard_time": 1761612560,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 325432,
+      "num": 325432,
+      "word": "迪丽热巴新剧开机记录",
+      "onboard_time": 1761630202,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 309782,
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263020,
+      "num": 168252,
+      "word": "赵樱子回应和陈晓很配",
+      "onboard_time": 1761629422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257210,
       "num": 257210,
       "word": "奔跑吧五颜六色的头发",
@@ -339,12 +371,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243046,
+      "num": 181962,
+      "word": "11岁孩子为锻炼舌头吞下10克金豆",
+      "onboard_time": 1761630322,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243041,
       "num": 204705,
       "word": "日本天皇用英语说很高兴见到特朗普",
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241357,
+      "num": 166469,
+      "word": "韦雪张馨予与友人聚餐",
+      "onboard_time": 1761632061,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 237803,
@@ -363,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236406,
+      "num": 164511,
+      "word": "田曦薇哭了",
+      "onboard_time": 1761630562,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233695,
       "num": 159826,
       "word": "第一批做烤水果的人吃商极高",
@@ -377,6 +433,14 @@
       "onboard_time": 1761623725,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230615,
+      "num": 178714,
+      "word": "刘宇宁怼不过的女人出现了",
+      "onboard_time": 1761627862,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 229573,
@@ -419,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219039,
+      "num": 219039,
+      "word": "张继科晒樊振东亲签球拍",
+      "onboard_time": 1761628104,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218789,
       "num": 218789,
       "word": "早餐就要这样发朋友圈",
@@ -427,11 +499,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217245,
+      "num": 177397,
+      "word": "于正要带着清宫剧回来了",
+      "onboard_time": 1761629843,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216663,
       "num": 277285,
       "word": "打击低俗团播引诱打赏",
       "onboard_time": 1761615380,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213981,
+      "num": 175123,
+      "word": "刮百万大奖请假去兑奖竟是假彩票",
+      "onboard_time": 1761632420,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -507,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189282,
+      "num": 160508,
+      "word": "郑智化",
+      "onboard_time": 1761633260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188219,
       "num": 148261,
       "word": "北京奥运会火炬手评郑智化",
       "onboard_time": 1761617660,
       "rank": 48,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 187375,
+      "num": 187375,
+      "word": "杨瀚森NBA得分超越孙悦",
+      "onboard_time": 1761626784,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 186518,
@@ -633,22 +737,6 @@
       "onboard_time": 1761575063,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171685,
-      "num": 152014,
-      "word": "刘宇宁怼不过的女人出现了",
-      "onboard_time": 1761627862,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 171507,
-      "num": 171507,
-      "word": "安倍晋三枪击案嫌疑人认罪",
-      "onboard_time": 1761629843,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 170528,
@@ -835,14 +923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144215,
-      "num": 144215,
-      "word": "于正要带着清宫剧回来了",
-      "onboard_time": 1761629843,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143932,
       "num": 188808,
       "word": "任泽平给股民9条建议",
@@ -867,20 +947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141144,
+      "num": 141144,
+      "word": "关晓彤ES高定",
+      "onboard_time": 1761631942,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 138318,
+      "num": 138318,
+      "word": "满天星簪花",
+      "onboard_time": 1761632781,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "当两个爱吃的人谈恋爱",
       "onboard_time": 1761624624,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137776,
-      "num": 152363,
-      "word": "杨瀚森NBA得分超越孙悦",
-      "onboard_time": 1761626784,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 137394,
@@ -987,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126167,
+      "num": 126167,
+      "word": "印尼偶遇李现爬火山",
+      "onboard_time": 1761631221,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125769,
       "num": 125769,
       "word": "厂家称二三十年不粘不锈铁锅已停产",
@@ -1075,14 +1171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117798,
-      "num": 117798,
-      "word": "赵樱子回应和陈晓很配",
-      "onboard_time": 1761629422,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117519,
       "num": 117519,
       "word": "剑网3无相楼主题曲悬丝入戏",
@@ -1147,12 +1235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105099,
+      "num": 105099,
+      "word": "种地吧",
+      "onboard_time": 1761633080,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102730,
       "num": 207213,
       "word": "京东黄金降价",
       "onboard_time": 1761620660,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102668,
+      "num": 102668,
+      "word": "特朗普明确表示支持高市早苗",
+      "onboard_time": 1761633080,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101840,
+      "num": 101840,
+      "word": "超700人希望旁听安倍遇刺案",
+      "onboard_time": 1761633141,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101369,
@@ -1163,20 +1275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100628,
+      "num": 129539,
+      "word": "bin回应showmaker名言",
+      "onboard_time": 1761628942,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100168,
       "num": 100168,
       "word": "金价银价暴跌原因",
       "onboard_time": 1761609620,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99339,
-      "num": 129539,
-      "word": "bin回应showmaker名言",
-      "onboard_time": 1761628942,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 99164,
@@ -1195,12 +1307,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98072,
+      "num": 98072,
+      "word": "陈可辛代表酱园弄一个人走红毯",
+      "onboard_time": 1761632601,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97887,
       "num": 147585,
       "word": "果郡王也转战短剧赛道了",
       "onboard_time": 1761606618,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97845,
+      "num": 97845,
+      "word": "爸爸开会女儿把哭声调成静音模式",
+      "onboard_time": 1761633322,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97166,
@@ -1227,6 +1355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 95840,
+      "num": 95840,
+      "word": "龚俊神级路透那段要播了",
+      "onboard_time": 1761632184,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94032,
       "num": 94032,
       "word": "国际金银暴跌",
@@ -1249,6 +1385,14 @@
       "onboard_time": 1761584777,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 92773,
+      "num": 92773,
+      "word": "烟台理工学院通报学生坠楼身亡",
+      "onboard_time": 1761633502,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 92638,
@@ -1281,14 +1425,6 @@
       "onboard_time": 1761614119,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90689,
-      "num": 116123,
-      "word": "张继科晒樊振东亲签球拍",
-      "onboard_time": 1761628104,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 90420,
@@ -1691,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46428,
+      "num": 93736,
+      "word": "女尸还是男尸警方结论与目击者相反",
+      "onboard_time": 1761633561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46099,
       "num": 105274,
       "word": "12000多人次搜山44小时找寻走失女童",
@@ -1745,6 +1889,22 @@
       "onboard_time": 1761627985,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35628,
+      "num": 92947,
+      "word": "文班亚马旋转上篮自带少林风",
+      "onboard_time": 1761632122,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35056,
+      "num": 97855,
+      "word": "湖南一男子直播挖蛇被咬后下落不明",
+      "onboard_time": 1761632961,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34882,
@@ -1915,6 +2075,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 13389,
+      "num": 173401,
+      "word": "保时捷回应多款油车将停产",
+      "onboard_time": 1761632781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9464,
       "num": 118641,
       "word": "六公主播许绍雄电影",
@@ -1924,7 +2092,7 @@
     },
     {
       "raw_hot": 5936,
-      "num": 435585,
+      "num": 616696,
       "word": "第十五届全运会",
       "onboard_time": 1761570622,
       "rank": 2,
