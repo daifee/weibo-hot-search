@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761661679852,
+  "endTime": 1761662740117,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -163,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1236092,
+      "num": 1236092,
+      "word": "吃柚子的第一批受害者出现了",
+      "onboard_time": 1761650962,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1231318,
       "num": 1231318,
       "word": "内娱三搭cp的含金量",
       "onboard_time": 1761568041,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1223155,
-      "num": 1223155,
-      "word": "吃柚子的第一批受害者出现了",
-      "onboard_time": 1761650962,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1207721,
@@ -379,7 +379,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 903982,
+      "raw_hot": 916900,
       "num": 239920,
       "word": "小鱼海棠婚礼现场",
       "onboard_time": 1761656061,
@@ -577,6 +577,14 @@
       "onboard_time": 1761621687,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 765776,
+      "num": 765776,
+      "word": "W盛典 赢麻了",
+      "onboard_time": 1761657921,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 765298,
@@ -785,14 +793,6 @@
       "onboard_time": 1761491481,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 675678,
-      "num": 675678,
-      "word": "W盛典 赢麻了",
-      "onboard_time": 1761657921,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 672993,
@@ -1939,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342130,
+      "num": 235083,
+      "word": "李沁好像一朵蝴蝶兰",
+      "onboard_time": 1761657742,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 339914,
       "num": 209042,
       "word": "开始推理吧4",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1761633922,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317630,
-      "num": 235083,
-      "word": "李沁好像一朵蝴蝶兰",
-      "onboard_time": 1761657742,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317554,
@@ -2417,6 +2417,14 @@
       "onboard_time": 1761576924,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264568,
+      "num": 203260,
+      "word": "杨幂去了精品之夜",
+      "onboard_time": 1761660922,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264142,
@@ -2795,6 +2803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 228037,
+      "num": 200134,
+      "word": "黄金下跌要持续多久",
+      "onboard_time": 1761662121,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227972,
       "num": 227972,
       "word": "普京宣布核动力巡航导弹测试完成",
@@ -3083,6 +3099,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 209661,
+      "num": 209661,
+      "word": "很多台湾年轻人不知抗日史",
+      "onboard_time": 1761662242,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209514,
       "num": 184118,
       "word": "郑智化的尊严是我们共同的底线",
@@ -3265,14 +3289,6 @@
       "onboard_time": 1761622468,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200425,
-      "num": 200425,
-      "word": "杨幂去了精品之夜",
-      "onboard_time": 1761660922,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200410,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1761655222,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185708,
+      "num": 185708,
+      "word": "金价回调原因",
+      "onboard_time": 1761662063,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 185692,
@@ -6547,6 +6571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123865,
+      "num": 203355,
+      "word": "20万内豪华插混唯一选择",
+      "onboard_time": 1761660381,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123787,
       "num": 123787,
       "word": "peanut告别世界赛",
@@ -6833,14 +6865,6 @@
       "onboard_time": 1761476600,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118966,
-      "num": 203355,
-      "word": "20万内豪华插混唯一选择",
-      "onboard_time": 1761660381,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 118782,
@@ -7371,6 +7395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "泽连斯基准备再打两三年",
+      "onboard_time": 1761660803,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108745,
       "num": 108745,
       "word": "天地剑心世恋一来了",
@@ -7897,6 +7929,14 @@
       "onboard_time": 1761470060,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99788,
+      "num": 99788,
+      "word": "三星三折叠屏实机曝光",
+      "onboard_time": 1761659961,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 99761,
@@ -9635,6 +9675,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 52318,
+      "num": 225452,
+      "word": "一台家人全票通过的车",
+      "onboard_time": 1761660441,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52104,
       "num": 240098,
       "word": "中国羽绒品牌对话全球时尚",
@@ -9665,14 +9713,6 @@
       "onboard_time": 1761587775,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51442,
-      "num": 225452,
-      "word": "一台家人全票通过的车",
-      "onboard_time": 1761660441,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 51061,
@@ -10148,7 +10188,7 @@
     },
     {
       "raw_hot": 33839,
-      "num": 738288,
+      "num": 790803,
       "word": "网络安全法完成修改",
       "onboard_time": 1761637701,
       "rank": 2,
