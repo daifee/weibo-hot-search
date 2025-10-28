@@ -1,10 +1,10 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761669326273,
+  "endTime": 1761670242827,
   "band_list": [
     {
-      "raw_hot": 805071,
-      "num": 865547,
+      "raw_hot": 991274,
+      "num": 991274,
       "word": "宝宝巴士 低俗广告",
       "onboard_time": 1761666740,
       "rank": 0,
@@ -59,7 +59,15 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 290614,
+      "raw_hot": 336497,
+      "num": 336497,
+      "word": "男子住酒店自带床单被罩全隔离",
+      "onboard_time": 1761665721,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316972,
       "num": 163489,
       "word": "3unshine组合十年变化太大了",
       "onboard_time": 1761665780,
@@ -89,14 +97,6 @@
       "onboard_time": 1761655401,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 222371,
-      "num": 222371,
-      "word": "男子住酒店自带床单被罩全隔离",
-      "onboard_time": 1761665721,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203153,
@@ -129,6 +129,14 @@
       "onboard_time": 1761652642,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139566,
+      "num": 139566,
+      "word": "重阳久久安康",
+      "onboard_time": 1761669077,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128179,
@@ -171,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109943,
-      "num": 109943,
-      "word": "重阳久久安康",
-      "onboard_time": 1761669077,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103231,
-      "num": 103231,
+      "raw_hot": 113672,
+      "num": 113672,
       "word": "杨幂没走红毯",
       "onboard_time": 1761652763,
       "rank": 24,
@@ -219,6 +219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 86720,
+      "num": 86720,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83354,
       "num": 83354,
       "word": "刘浩存蓝色纱裙",
@@ -249,14 +257,6 @@
       "onboard_time": 1761646402,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 74030,
-      "num": 74030,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73567,
@@ -297,6 +297,14 @@
       "onboard_time": 1761667039,
       "rank": 38,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 63901,
+      "num": 63901,
+      "word": "网约房乱象谁来管",
+      "onboard_time": 1761669557,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63085,
@@ -371,6 +379,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58142,
+      "num": 58142,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 52832,
+      "num": 54828,
+      "word": "推进祖国统一大业",
+      "onboard_time": 1761670098,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 54826,
+      "word": "女子用筋膜枪按摩眼睛突发白内障",
+      "onboard_time": 1761670038,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42868,
       "num": 59696,
       "word": "全运会赛场浪漫求婚",
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#关于十五五规划建议的说明#"
+    },
+    {
+      "word": "#十五五规划建议发布#"
     }
   ]
 }

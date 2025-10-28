@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 00:35:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 00:50:42
 </p>
 </blockquote>
 <p>
@@ -2331,6 +2331,12 @@ ELLE晚宴（热度：992028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%20%E4%BD%8E%E4%BF%97%E5%B9%BF%E5%91%8A%23" target="weibo">
+宝宝巴士 低俗广告（热度：991274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E9%93%BE%20%E7%BC%85%E7%94%B8%23" target="weibo">
 星链 缅甸（热度：990684）
 </a>
@@ -3533,12 +3539,6 @@ Peanut燃尽了（热度：833201）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%A4%9A%E4%BA%BA%E7%88%AC%E8%A1%8C%E5%AD%A6%E7%8B%97%E5%8F%AB%23" target="weibo">
 惠州街头多人爬行学狗叫（热度：805101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%20%E4%BD%8E%E4%BF%97%E5%B9%BF%E5%91%8A%23" target="weibo">
-宝宝巴士 低俗广告（热度：805071）
 </a>
 </li>
 
