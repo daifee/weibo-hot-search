@@ -1,0 +1,410 @@
+{
+  "runTime": 1761694721672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982776,
+        "num": 982776,
+        "word": "女子想为亡夫再生一个孩子遭拒",
+        "onboard_time": 1761677773,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623853,
+        "num": 623853,
+        "word": "宝宝巴士 低俗广告",
+        "onboard_time": 1761666740,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13449,
+        "num": 543759,
+        "word": "网络安全法完成修改",
+        "onboard_time": 1761637701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501113,
+        "num": 501113,
+        "word": "大批轰6K贴近台湾岛",
+        "onboard_time": 1761663442,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414831,
+        "num": 414831,
+        "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+        "onboard_time": 1761665481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282350,
+        "num": 282350,
+        "word": "许绍雄岳家捐赠了岭南四大园林之首",
+        "onboard_time": 1761651262,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258217,
+        "num": 258217,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247956,
+        "num": 247956,
+        "word": "男子住酒店自带床单被罩全隔离",
+        "onboard_time": 1761665721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229281,
+        "num": 229281,
+        "word": "每天练背8分钟是回报率最高的运动",
+        "onboard_time": 1761663201,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175365,
+        "num": 175365,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686128,
+        "num": 173729,
+        "word": "男子强奸嫂子再杀人死者家属律师发声",
+        "onboard_time": 1761659843,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430205,
+        "num": 171327,
+        "word": "被蛇咬后失联的网红已找到",
+        "onboard_time": 1761692716,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389548,
+        "num": 168685,
+        "word": "王耀庆对钟楚曦贴脸开大",
+        "onboard_time": 1761652462,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 352511,
+        "num": 166175,
+        "word": "赵樱子自曝前男友片酬2000万",
+        "onboard_time": 1761692839,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243670,
+        "num": 165246,
+        "word": "杨紫我终于下山了",
+        "onboard_time": 1761693018,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190626,
+        "num": 162131,
+        "word": "许绍雄73岁只身一人录节目",
+        "onboard_time": 1761678314,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180412,
+        "num": 158645,
+        "word": "小鱼海棠婚礼现场",
+        "onboard_time": 1761656061,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158331,
+        "num": 158331,
+        "word": "网红四大门面",
+        "onboard_time": 1761653242,
+        "rank": 17,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 157727,
+        "word": "Asen发歌",
+        "onboard_time": 1761693378,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 150678,
+        "word": "白鹿开车了",
+        "onboard_time": 1761692776,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148800,
+        "num": 148800,
+        "word": "金价暴跌有投资者打算割肉离场",
+        "onboard_time": 1761692776,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124709,
+        "num": 124709,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120084,
+        "num": 120084,
+        "word": "重阳久久安康",
+        "onboard_time": 1761669077,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118376,
+        "num": 118376,
+        "word": "徐冬冬尹子维吵架原因",
+        "onboard_time": 1761673695,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109184,
+        "num": 109184,
+        "word": "重阳节",
+        "onboard_time": 1761692716,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108620,
+        "num": 108620,
+        "word": "张馨予化妆师火了",
+        "onboard_time": 1761671356,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107899,
+        "num": 107899,
+        "word": "女子用筋膜枪按摩眼睛突发白内障",
+        "onboard_time": 1761670038,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100363,
+        "num": 100363,
+        "word": "推进祖国统一大业",
+        "onboard_time": 1761670098,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88984,
+        "num": 99856,
+        "word": "国色芳华",
+        "onboard_time": 1761693438,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58956,
+        "num": 99463,
+        "word": "W盛典 赢麻了",
+        "onboard_time": 1761657921,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99356,
+        "num": 99356,
+        "word": "Zeus回应止步S15八强",
+        "onboard_time": 1761692716,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98466,
+        "num": 98466,
+        "word": "网约房乱象谁来管",
+        "onboard_time": 1761669557,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88897,
+        "num": 88897,
+        "word": "Psy.P结婚",
+        "onboard_time": 1761692898,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88158,
+        "num": 88158,
+        "word": "以色列总理下令强力打击加沙",
+        "onboard_time": 1761694340,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86440,
+        "num": 86440,
+        "word": "惠州一路边小货车被指装过亿现金",
+        "onboard_time": 1761664462,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78103,
+        "num": 78103,
+        "word": "3unshine组合十年变化太大了",
+        "onboard_time": 1761665780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77137,
+        "num": 77137,
+        "word": "恋与深空",
+        "onboard_time": 1761693739,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75966,
+        "num": 75966,
+        "word": "金价回调原因",
+        "onboard_time": 1761662063,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74523,
+        "num": 74523,
+        "word": "日本企业争相投资给美国搞基建",
+        "onboard_time": 1761686953,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69577,
+        "num": 69577,
+        "word": "HLE小花生断开连接",
+        "onboard_time": 1761694340,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68415,
+        "num": 68415,
+        "word": "近8成适老化用品被年轻人买走",
+        "onboard_time": 1761665602,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65379,
+        "num": 65379,
+        "word": "黄金下跌要持续多久",
+        "onboard_time": 1761662121,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62700,
+        "num": 62700,
+        "word": "宝宝巴士客服回应APP跳转成人广告",
+        "onboard_time": 1761669139,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60972,
+        "num": 60972,
+        "word": "ELLE晚宴",
+        "onboard_time": 1761655401,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 59249,
+        "num": 59249,
+        "word": "库里三分命中数突破20个",
+        "onboard_time": 1761693438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 55371,
+        "word": "多地出现假彩票兑奖事件",
+        "onboard_time": 1761655823,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54702,
+        "num": 54702,
+        "word": "蒙彼利埃首日国乒3人出局",
+        "onboard_time": 1761694579,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53194,
+        "num": 53194,
+        "word": "王耀庆工作室回应",
+        "onboard_time": 1761694699,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52665,
+        "num": 52665,
+        "word": "关晓彤第二套好辣",
+        "onboard_time": 1761652642,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41746,
+        "num": 51729,
+        "word": "张馨予出场秒了",
+        "onboard_time": 1761656362,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于十五五规划建议的说明#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761693889763,
+  "endTime": 1761694721672,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 982776,
+      "num": 982776,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 977264,
       "num": 351389,
       "word": "金价暴跌有大学生把生活费亏没了",
@@ -409,14 +417,6 @@
       "onboard_time": 1761440600,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 878193,
-      "num": 878193,
-      "word": "女子想为亡夫再生一个孩子遭拒",
-      "onboard_time": 1761677773,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 871068,
@@ -809,6 +809,14 @@
       "onboard_time": 1761556281,
       "rank": 13,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 686128,
+      "num": 194214,
+      "word": "男子强奸嫂子再杀人死者家属律师发声",
+      "onboard_time": 1761659843,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685151,
@@ -1611,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430205,
+      "num": 198799,
+      "word": "被蛇咬后失联的网红已找到",
+      "onboard_time": 1761692716,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426674,
       "num": 338751,
       "word": "关晓彤第二套好辣",
@@ -1691,6 +1707,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 414831,
+      "num": 414831,
+      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+      "onboard_time": 1761665481,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414251,
       "num": 497817,
       "word": "打野的尽头是一片海",
@@ -1737,14 +1761,6 @@
       "onboard_time": 1761629843,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 399762,
-      "num": 198799,
-      "word": "被蛇咬后失联的网红已找到",
-      "onboard_time": 1761692716,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399473,
@@ -1833,14 +1849,6 @@
       "onboard_time": 1761452780,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377398,
-      "num": 377398,
-      "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
-      "onboard_time": 1761665481,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376186,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1761464180,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352511,
+      "num": 185920,
+      "word": "赵樱子自曝前男友片酬2000万",
+      "onboard_time": 1761692839,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 352055,
@@ -2555,14 +2571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 254695,
-      "num": 194214,
-      "word": "男子强奸嫂子再杀人死者家属律师发声",
-      "onboard_time": 1761659843,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254135,
       "num": 144277,
       "word": "恋与制作人被魅魔夹击了",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1761647422,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 243670,
+      "num": 165246,
+      "word": "杨紫我终于下山了",
+      "onboard_time": 1761693018,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243129,
@@ -3635,6 +3651,14 @@
       "category": "电竞,综艺"
     },
     {
+      "raw_hot": 190626,
+      "num": 188872,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190514,
       "num": 256009,
       "word": "深圳机场会同航空公司启动核查",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1761642681,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188872,
-      "num": 188872,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 188615,
@@ -3824,14 +3840,6 @@
       "word": "佘诗曼谈许绍雄去世落泪",
       "onboard_time": 1761640043,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185920,
-      "num": 185920,
-      "word": "赵樱子自曝前男友片酬2000万",
-      "onboard_time": 1761692839,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4827,6 +4835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157727,
+      "num": 157727,
+      "word": "Asen发歌",
+      "onboard_time": 1761693378,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157666,
       "num": 154100,
       "word": "王楚钦长大了",
@@ -5235,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148800,
+      "num": 148800,
+      "word": "金价暴跌有投资者打算割肉离场",
+      "onboard_time": 1761692776,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148600,
       "num": 148600,
       "word": "李一桐也没放过李荣浩",
@@ -5313,14 +5337,6 @@
       "onboard_time": 1761467301,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146752,
-      "num": 146752,
-      "word": "杨紫我终于下山了",
-      "onboard_time": 1761693018,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146691,
@@ -5537,14 +5553,6 @@
       "onboard_time": 1761575182,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142693,
-      "num": 142693,
-      "word": "Asen发歌",
-      "onboard_time": 1761693378,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 142401,
@@ -6779,6 +6787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123715,
+      "num": 150678,
+      "word": "白鹿开车了",
+      "onboard_time": 1761692776,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123702,
       "num": 123702,
       "word": "张维伊在古装单开一桌",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1761560361,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115083,
-      "num": 115083,
-      "word": "金价暴跌有投资者打算割肉离场",
-      "onboard_time": 1761692776,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 114966,
@@ -8203,6 +8211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99356,
+      "num": 99356,
+      "word": "Zeus回应止步S15八强",
+      "onboard_time": 1761692716,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "无限暖暖",
@@ -8555,14 +8571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92518,
-      "num": 92518,
-      "word": "白鹿开车了",
-      "onboard_time": 1761692776,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92406,
       "num": 102202,
       "word": "去年出生人口最多的10个省份",
@@ -8723,12 +8731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88984,
+      "num": 99856,
+      "word": "国色芳华",
+      "onboard_time": 1761693438,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88917,
       "num": 90986,
       "word": "百花杀",
       "onboard_time": 1761527061,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88897,
+      "num": 88897,
+      "word": "Psy.P结婚",
+      "onboard_time": 1761692898,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 88744,
@@ -8785,6 +8809,14 @@
       "onboard_time": 1761463819,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88158,
+      "num": 88158,
+      "word": "以色列总理下令强力打击加沙",
+      "onboard_time": 1761694340,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87936,
@@ -9163,14 +9195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78550,
-      "num": 78550,
-      "word": "Zeus回应止步S15八强",
-      "onboard_time": 1761692716,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 78104,
       "num": 78104,
       "word": "银灰明日方舟",
@@ -9281,6 +9305,14 @@
       "onboard_time": 1761573442,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74523,
+      "num": 74523,
+      "word": "日本企业争相投资给美国搞基建",
+      "onboard_time": 1761686953,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74334,
@@ -9425,6 +9457,14 @@
       "onboard_time": 1761636201,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69577,
+      "num": 69577,
+      "word": "HLE小花生断开连接",
+      "onboard_time": 1761694340,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 68509,
@@ -9715,14 +9755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61449,
-      "num": 87627,
-      "word": "国色芳华",
-      "onboard_time": 1761693438,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61366,
       "num": 61366,
       "word": "山姆中国换帅",
@@ -9851,6 +9883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59249,
+      "num": 59249,
+      "word": "库里三分命中数突破20个",
+      "onboard_time": 1761693438,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58910,
       "num": 195697,
       "word": "六个男艺人在综艺里馋得直流口水",
@@ -9939,14 +9979,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 55833,
-      "num": 55833,
-      "word": "日本企业争相投资给美国搞基建",
-      "onboard_time": 1761686953,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 55352,
       "num": 199012,
       "word": "消费者称面包袋里的蟑螂咬开口子溜了",
@@ -9971,20 +10003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54702,
+      "num": 54702,
+      "word": "蒙彼利埃首日国乒3人出局",
+      "onboard_time": 1761694579,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54564,
       "num": 54564,
       "word": "游泳教练抱摔女童致其耳软骨断裂",
       "onboard_time": 1761508394,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54415,
-      "num": 54415,
-      "word": "Psy.P结婚",
-      "onboard_time": 1761692898,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 53706,
@@ -10009,6 +10041,14 @@
       "onboard_time": 1761607279,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53194,
+      "num": 53194,
+      "word": "王耀庆工作室回应",
+      "onboard_time": 1761694699,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 53032,
@@ -10049,14 +10089,6 @@
       "onboard_time": 1761624325,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51751,
-      "num": 51751,
-      "word": "库里三分命中数突破20个",
-      "onboard_time": 1761693438,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 51663,

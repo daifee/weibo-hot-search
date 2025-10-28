@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761693889763,
+  "endTime": 1761694721672,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 878193,
-      "num": 878193,
+      "raw_hot": 982776,
+      "num": 982776,
       "word": "女子想为亡夫再生一个孩子遭拒",
       "onboard_time": 1761677773,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 686128,
+      "num": 194214,
+      "word": "男子强奸嫂子再杀人死者家属律师发声",
+      "onboard_time": 1761659843,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501113,
+      "num": 501113,
+      "word": "大批轰6K贴近台湾岛",
+      "onboard_time": 1761663442,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 444245,
@@ -35,12 +51,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 436749,
-      "num": 436749,
-      "word": "大批轰6K贴近台湾岛",
-      "onboard_time": 1761663442,
-      "rank": 3,
-      "category": "国内时政"
+      "raw_hot": 430205,
+      "num": 198799,
+      "word": "被蛇咬后失联的网红已找到",
+      "onboard_time": 1761692716,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420117,
@@ -51,16 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 399762,
-      "num": 198799,
-      "word": "被蛇咬后失联的网红已找到",
-      "onboard_time": 1761692716,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377398,
-      "num": 377398,
+      "raw_hot": 414831,
+      "num": 414831,
       "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
       "onboard_time": 1761665481,
       "rank": 37,
@@ -83,6 +91,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 352511,
+      "num": 185920,
+      "word": "赵樱子自曝前男友片酬2000万",
+      "onboard_time": 1761692839,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336497,
       "num": 336497,
       "word": "男子住酒店自带床单被罩全隔离",
@@ -99,28 +115,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258379,
-      "num": 258379,
+      "raw_hot": 282350,
+      "num": 282350,
       "word": "许绍雄岳家捐赠了岭南四大园林之首",
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
     },
     {
-      "raw_hot": 254695,
-      "num": 194214,
-      "word": "男子强奸嫂子再杀人死者家属律师发声",
-      "onboard_time": 1761659843,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240678,
-      "num": 240678,
+      "raw_hot": 258217,
+      "num": 258217,
       "word": "很多台湾年轻人不知抗日史",
       "onboard_time": 1761662242,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 243670,
+      "num": 165246,
+      "word": "杨紫我终于下山了",
+      "onboard_time": 1761693018,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232345,
@@ -147,19 +163,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188872,
+      "raw_hot": 190626,
       "num": 188872,
       "word": "许绍雄73岁只身一人录节目",
       "onboard_time": 1761678314,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185920,
-      "num": 185920,
-      "word": "赵樱子自曝前男友片酬2000万",
-      "onboard_time": 1761692839,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -171,6 +179,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158331,
+      "num": 158331,
+      "word": "网红四大门面",
+      "onboard_time": 1761653242,
+      "rank": 22,
+      "category": "网红,时尚"
+    },
+    {
+      "raw_hot": 157727,
+      "num": 157727,
+      "word": "Asen发歌",
+      "onboard_time": 1761693378,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150118,
       "num": 150118,
       "word": "花少要拍团综了",
@@ -179,20 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146752,
-      "num": 146752,
-      "word": "杨紫我终于下山了",
-      "onboard_time": 1761693018,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 142693,
-      "num": 142693,
-      "word": "Asen发歌",
-      "onboard_time": 1761693378,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 148800,
+      "num": 148800,
+      "word": "金价暴跌有投资者打算割肉离场",
+      "onboard_time": 1761692776,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 140476,
@@ -243,14 +259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 129332,
-      "num": 129332,
-      "word": "网红四大门面",
-      "onboard_time": 1761653242,
-      "rank": 22,
-      "category": "网红,时尚"
-    },
-    {
       "raw_hot": 128485,
       "num": 128485,
       "word": "徐冬冬尹子维吵架原因",
@@ -275,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123715,
+      "num": 150678,
+      "word": "白鹿开车了",
+      "onboard_time": 1761692776,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121554,
       "num": 121554,
       "word": "欢喜哥许绍雄逝世",
@@ -289,14 +305,6 @@
       "onboard_time": 1761642862,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115083,
-      "num": 115083,
-      "word": "金价暴跌有投资者打算割肉离场",
-      "onboard_time": 1761692776,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 113672,
@@ -315,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99356,
+      "num": 99356,
+      "word": "Zeus回应止步S15八强",
+      "onboard_time": 1761692716,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98608,
       "num": 98608,
       "word": "Peanut在休息室流泪",
@@ -329,14 +345,6 @@
       "onboard_time": 1761664462,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92518,
-      "num": 92518,
-      "word": "白鹿开车了",
-      "onboard_time": 1761692776,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 91485,
@@ -355,6 +363,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88984,
+      "num": 99856,
+      "word": "国色芳华",
+      "onboard_time": 1761693438,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88897,
+      "num": 88897,
+      "word": "Psy.P结婚",
+      "onboard_time": 1761692898,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88158,
+      "num": 88158,
+      "word": "以色列总理下令强力打击加沙",
+      "onboard_time": 1761694340,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86720,
       "num": 86720,
       "word": "宝宝巴士客服回应APP跳转成人广告",
@@ -371,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78550,
-      "num": 78550,
-      "word": "Zeus回应止步S15八强",
-      "onboard_time": 1761692716,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77455,
       "num": 77455,
       "word": "白鹿跑男新疆要染限定发色",
@@ -387,11 +411,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77137,
+      "num": 77137,
+      "word": "恋与深空",
+      "onboard_time": 1761693739,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76071,
       "num": 76071,
       "word": "黄金下跌要持续多久",
       "onboard_time": 1761662121,
       "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 75966,
+      "num": 75966,
+      "word": "金价回调原因",
+      "onboard_time": 1761662063,
+      "rank": 35,
       "category": "财经"
     },
     {
@@ -403,12 +443,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 73567,
-      "num": 73567,
-      "word": "金价回调原因",
-      "onboard_time": 1761662063,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 74523,
+      "num": 74523,
+      "word": "日本企业争相投资给美国搞基建",
+      "onboard_time": 1761686953,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73412,
@@ -417,6 +457,14 @@
       "onboard_time": 1761665002,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 69577,
+      "num": 69577,
+      "word": "HLE小花生断开连接",
+      "onboard_time": 1761694340,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 67329,
@@ -483,22 +531,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 61449,
-      "num": 87627,
-      "word": "国色芳华",
-      "onboard_time": 1761693438,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60437,
-      "num": 60437,
-      "word": "恋与深空",
-      "onboard_time": 1761693739,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 59982,
       "num": 59982,
       "word": "出发团米兰录制路透",
@@ -523,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59249,
+      "num": 59249,
+      "word": "库里三分命中数突破20个",
+      "onboard_time": 1761693438,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58142,
       "num": 58142,
       "word": "十五五规划建议发布",
@@ -531,28 +571,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55833,
-      "num": 55833,
-      "word": "日本企业争相投资给美国搞基建",
-      "onboard_time": 1761686953,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 55371,
+      "num": 55371,
+      "word": "多地出现假彩票兑奖事件",
+      "onboard_time": 1761655823,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 54415,
-      "num": 54415,
-      "word": "Psy.P结婚",
-      "onboard_time": 1761692898,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 51751,
-      "num": 51751,
-      "word": "库里三分命中数突破20个",
-      "onboard_time": 1761693438,
-      "rank": 43,
+      "raw_hot": 54702,
+      "num": 54702,
+      "word": "蒙彼利埃首日国乒3人出局",
+      "onboard_time": 1761694579,
+      "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53194,
+      "num": 53194,
+      "word": "王耀庆工作室回应",
+      "onboard_time": 1761694699,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 50672,
@@ -569,14 +609,6 @@
       "onboard_time": 1761684133,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 48154,
-      "num": 48154,
-      "word": "多地出现假彩票兑奖事件",
-      "onboard_time": 1761655823,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47527,
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 17118,
-      "num": 510200,
+      "num": 543759,
       "word": "网络安全法完成修改",
       "onboard_time": 1761637701,
       "rank": 2,
