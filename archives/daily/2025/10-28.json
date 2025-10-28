@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761648361084,
+  "endTime": 1761650545687,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1852458,
-      "num": 277446,
+      "num": 310001,
       "word": "代露娃摔了",
       "onboard_time": 1761641060,
       "rank": 30,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 857917,
-      "num": 269819,
+      "num": 290566,
       "word": "李维嘉回归湖南卫视",
       "onboard_time": 1761641962,
       "rank": 6,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 735702,
-      "num": 275552,
+      "num": 305750,
       "word": "鹿晗吃面上大众点评了",
       "onboard_time": 1761645442,
       "rank": 11,
@@ -203,12 +203,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710056,
+      "num": 1113609,
+      "word": "Peanut燃尽了",
+      "onboard_time": 1761649462,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 708488,
+      "num": 309284,
+      "word": "李沁工作室 摄影有待提高",
+      "onboard_time": 1761645862,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 687855,
       "num": 195991,
       "word": "杨清柠",
       "onboard_time": 1761580820,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 677574,
+      "num": 677574,
+      "word": "张馨予 红毯定海神针",
+      "onboard_time": 1761646402,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 671849,
@@ -235,6 +259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619820,
+      "num": 399026,
+      "word": "李宇春压轴",
+      "onboard_time": 1761648682,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 615832,
+      "num": 308462,
+      "word": "沈佳润红毯走过头了",
+      "onboard_time": 1761646402,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 603806,
       "num": 330026,
       "word": "田曦薇哭了",
@@ -249,14 +289,6 @@
       "onboard_time": 1761625526,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592306,
-      "num": 271609,
-      "word": "李沁工作室 摄影有待提高",
-      "onboard_time": 1761645862,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580949,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 551972,
-      "num": 260155,
+      "num": 289107,
       "word": "女狱警与囚犯发生关系还有囚犯放风",
       "onboard_time": 1761642622,
       "rank": 20,
@@ -412,11 +444,19 @@
     },
     {
       "raw_hot": 436928,
-      "num": 265744,
+      "num": 284853,
       "word": "方圆好美",
       "onboard_time": 1761643880,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 422643,
+      "num": 422643,
+      "word": "蔡天凤碎尸案进展",
+      "onboard_time": 1761646763,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419745,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367065,
+      "num": 367065,
+      "word": "奶皮子糖葫芦卖到40元一串",
+      "onboard_time": 1761642862,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356453,
       "num": 176046,
       "word": "黄磊微信名叫多妹弟爸",
@@ -488,22 +536,6 @@
       "word": "女子徒步误将蛇窝当野生蹦床",
       "onboard_time": 1761563600,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345939,
-      "num": 252195,
-      "word": "沈佳润红毯走过头了",
-      "onboard_time": 1761646402,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 335270,
-      "num": 335270,
-      "word": "蔡天凤碎尸案进展",
-      "onboard_time": 1761646763,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -547,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310775,
+      "num": 310775,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1761649522,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 309782,
       "num": 309782,
       "word": "内娱三搭cp的含金量",
       "onboard_time": 1761568041,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308840,
+      "num": 308840,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308394,
@@ -569,14 +617,6 @@
       "onboard_time": 1761643462,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294469,
-      "num": 294469,
-      "word": "十五五规划建议发布",
-      "onboard_time": 1761643162,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 287065,
@@ -601,6 +641,22 @@
       "onboard_time": 1761573083,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 278892,
+      "num": 278892,
+      "word": "米卡穿了吗",
+      "onboard_time": 1761647482,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275916,
+      "num": 275916,
+      "word": "再见小花生",
+      "onboard_time": 1761649882,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 271978,
@@ -657,14 +713,6 @@
       "onboard_time": 1761623485,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252336,
-      "num": 246359,
-      "word": "张馨予 红毯定海神针",
-      "onboard_time": 1761646402,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251756,
@@ -739,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236038,
+      "num": 236038,
+      "word": "张艺凡镜头下得多瘦",
+      "onboard_time": 1761648441,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233695,
       "num": 159826,
       "word": "第一批做烤水果的人吃商极高",
@@ -803,6 +859,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226473,
+      "num": 241176,
+      "word": "小米集团高层调整",
+      "onboard_time": 1761647303,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 224568,
+      "num": 224568,
+      "word": "宁艺卓 好会吹的风",
+      "onboard_time": 1761648382,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
@@ -825,14 +897,6 @@
       "onboard_time": 1761625345,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219272,
-      "num": 219272,
-      "word": "米卡穿了吗",
-      "onboard_time": 1761647482,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219039,
@@ -923,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199134,
-      "num": 241176,
-      "word": "小米集团高层调整",
-      "onboard_time": 1761647303,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 198536,
       "num": 198536,
       "word": "柚子要摔一下才好吃",
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 187577,
-      "num": 254919,
+      "num": 282881,
       "word": "阿维塔12十二项同级独享",
       "onboard_time": 1761645982,
       "rank": 23,
@@ -1075,6 +1131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180278,
+      "num": 180278,
+      "word": "特朗普1分钟内两次无视高市早苗",
+      "onboard_time": 1761646282,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179148,
+      "num": 179148,
+      "word": "英雄联盟",
+      "onboard_time": 1761649822,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177905,
       "num": 177905,
       "word": "英语真的可以速成",
@@ -1115,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175024,
-      "num": 240997,
-      "word": "奶皮子糖葫芦卖到40元一串",
-      "onboard_time": 1761642862,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173846,
       "num": 148874,
       "word": "张予曦 珊瑚新娘",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1761625106,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "星穹铁道铁墓研究进度同步",
+      "onboard_time": 1761649882,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172674,
@@ -1299,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159973,
+      "num": 159973,
+      "word": "张艺兴曾梦雪获奖感言都在打破偏见",
+      "onboard_time": 1761649702,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159948,
       "num": 159948,
       "word": "A股收复4000点 牛市真来了吗",
@@ -1352,14 +1432,6 @@
       "word": "南海坠机所在航母正执行最后任务",
       "onboard_time": 1761560480,
       "rank": 7,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157138,
-      "num": 159345,
-      "word": "特朗普1分钟内两次无视高市早苗",
-      "onboard_time": 1761646282,
-      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -1433,6 +1505,14 @@
       "onboard_time": 1761625584,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152195,
+      "num": 152195,
+      "word": "深圳机场监控公关",
+      "onboard_time": 1761649162,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151505,
@@ -1539,12 +1619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144202,
+      "num": 144202,
+      "word": "音乐缘计划首次七人成团",
+      "onboard_time": 1761650241,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143932,
       "num": 188808,
       "word": "任泽平给股民9条建议",
       "onboard_time": 1761625225,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143255,
+      "num": 143255,
+      "word": "Viper尽力了",
+      "onboard_time": 1761649642,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 143021,
@@ -1987,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107088,
+      "num": 151270,
+      "word": "丁程鑫官宣2025中国电影大数据荣誉之夜",
+      "onboard_time": 1761648802,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106580,
       "num": 106580,
       "word": "许绍雄还未苏醒",
@@ -2131,6 +2235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93314,
+      "num": 310317,
+      "word": "GEN晋级S15四强",
+      "onboard_time": 1761649763,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "这是我见过对恋爱脑最好的诠释",
@@ -2251,6 +2363,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 84724,
+      "num": 152351,
+      "word": "俄乌战争给中国的启示",
+      "onboard_time": 1761650063,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81063,
       "num": 106247,
       "word": "官方通报男子酸菜池中抽烟吐痰",
@@ -2348,7 +2468,7 @@
     },
     {
       "raw_hot": 67856,
-      "num": 260634,
+      "num": 293433,
       "word": "张小婉荣耀进化张大碗",
       "onboard_time": 1761646342,
       "rank": 19,
@@ -2892,11 +3012,19 @@
     },
     {
       "raw_hot": 30084,
-      "num": 531174,
+      "num": 692178,
       "word": "第一观察",
       "onboard_time": 1761644721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29309,
+      "num": 152244,
+      "word": "法国明确沉默或不反抗不代表性同意",
+      "onboard_time": 1761649642,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27650,
@@ -3009,6 +3137,14 @@
       "onboard_time": 1761572483,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18862,
+      "num": 135632,
+      "word": "谁家专门为了宠粉办个演唱会",
+      "onboard_time": 1761649642,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 18593,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 18:46:01
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 19:22:25
 </p>
 </blockquote>
 <p>
@@ -4341,6 +4341,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Peanut%E7%87%83%E5%B0%BD%E4%BA%86%23" target="weibo">
+Peanut燃尽了（热度：710056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E5%89%A7%E6%90%AD%E6%A1%A3%E9%99%88%E6%98%8A%E6%A3%AE%23" target="weibo">
 迪丽热巴新剧搭档陈昊森（热度：709833）
 </a>
@@ -4367,6 +4373,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%80%9F%E6%9C%8B%E5%8F%8B%E5%BC%8010%E5%88%86%E9%92%9F%E8%A2%AB%E6%92%9E%E7%83%82%23" target="weibo">
 小米SU7借朋友开10分钟被撞烂（热度：708822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%91%84%E5%BD%B1%E6%9C%89%E5%BE%85%E6%8F%90%E9%AB%98%23" target="weibo">
+李沁工作室 摄影有待提高（热度：708488）
 </a>
 </li>
 
@@ -4763,6 +4775,12 @@ TES抽中BLG（热度：681512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8C%82%E8%87%AA%E6%9B%9D%E5%9C%A8%E5%BC%A6%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E6%B1%82%E5%A9%9A%23" target="weibo">
 李茂自曝在弦子洗澡时求婚（热度：677765）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BA%A2%E6%AF%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23" target="weibo">
+张馨予 红毯定海神针（热度：677574）
 </a>
 </li>
 
@@ -5475,6 +5493,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%8B%E8%BD%B4%23" target="weibo">
+李宇春压轴（热度：619820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%95%BF%E6%9D%8E%E9%94%90%E5%9C%A8%E8%BF%AA%E6%8B%9C%E6%8B%BF%E4%B8%8B%E8%B6%8512%E4%BA%BF%E8%AE%A2%E5%8D%95%23" target="weibo">
 村长李锐在迪拜拿下超12亿订单（热度：619570）
 </a>
@@ -5555,6 +5579,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E5%90%91%E9%B9%8F%23" target="weibo">
 王楚钦4比3向鹏（热度：616055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E7%BA%A2%E6%AF%AF%E8%B5%B0%E8%BF%87%E5%A4%B4%E4%BA%86%23" target="weibo">
+沈佳润红毯走过头了（热度：615832）
 </a>
 </li>
 
@@ -5919,12 +5949,6 @@ A股太强了（热度：593831）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%91%84%E5%BD%B1%E6%9C%89%E5%BE%85%E6%8F%90%E9%AB%98%23" target="weibo">
-李沁工作室 摄影有待提高（热度：592306）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%B4%E9%BB%8E%23" target="weibo">
 肖战巴黎（热度：591763）
 </a>
@@ -5987,30 +6011,6 @@ Doinb怒喷TheShy（热度：590180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E6%8F%90%E5%89%8D%23" target="weibo">
 广东省考提前（热度：588046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%BD%A6%E7%A5%B8%E5%8F%97%E4%BC%A4%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
-陈震车祸受伤司机家属发声（热度：587904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A6%86%E5%8F%91%23" target="weibo">
-田曦薇妆发（热度：587442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%A7%B0%E6%8D%A1%E5%88%B0%E6%9C%AA%E7%88%86%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%23" target="weibo">
-印度称捡到未爆中国导弹（热度：587078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B4%E5%AE%A4%E4%BA%94%E6%9D%80%23" target="weibo">
-浴室五杀（热度：586645）
 </a>
 </li>
 

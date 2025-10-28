@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761648361084,
+  "endTime": 1761650545687,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1852458,
-      "num": 277446,
+      "num": 310001,
       "word": "代露娃摔了",
       "onboard_time": 1761641060,
       "rank": 30,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 857917,
-      "num": 269819,
+      "num": 290566,
       "word": "李维嘉回归湖南卫视",
       "onboard_time": 1761641962,
       "rank": 6,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 735702,
-      "num": 275552,
+      "num": 305750,
       "word": "鹿晗吃面上大众点评了",
       "onboard_time": 1761645442,
       "rank": 11,
@@ -651,6 +651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710056,
+      "num": 1113609,
+      "word": "Peanut燃尽了",
+      "onboard_time": 1761649462,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 708488,
+      "num": 309284,
+      "word": "李沁工作室 摄影有待提高",
+      "onboard_time": 1761645862,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 704751,
       "num": 161789,
       "word": "为了不被裁员硅谷科技男扎堆做医美",
@@ -697,6 +713,14 @@
       "onboard_time": 1761491481,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 677574,
+      "num": 677574,
+      "word": "张馨予 红毯定海神针",
+      "onboard_time": 1761646402,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 672993,
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619820,
+      "num": 399026,
+      "word": "李宇春压轴",
+      "onboard_time": 1761648682,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 618388,
       "num": 618388,
       "word": "35元1个面包被年轻人疯抢",
@@ -841,6 +873,14 @@
       "onboard_time": 1761404482,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615832,
+      "num": 308462,
+      "word": "沈佳润红毯走过头了",
+      "onboard_time": 1761646402,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 613533,
@@ -905,14 +945,6 @@
       "onboard_time": 1761457820,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592306,
-      "num": 271609,
-      "word": "李沁工作室 摄影有待提高",
-      "onboard_time": 1761645862,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 581156,
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 551972,
-      "num": 260155,
+      "num": 289107,
       "word": "女狱警与囚犯发生关系还有囚犯放风",
       "onboard_time": 1761642622,
       "rank": 20,
@@ -1388,7 +1420,7 @@
     },
     {
       "raw_hot": 436928,
-      "num": 265744,
+      "num": 284853,
       "word": "方圆好美",
       "onboard_time": 1761643880,
       "rank": 25,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1761459860,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422643,
+      "num": 422643,
+      "word": "蔡天凤碎尸案进展",
+      "onboard_time": 1761646763,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420032,
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367065,
+      "num": 367065,
+      "word": "奶皮子糖葫芦卖到40元一串",
+      "onboard_time": 1761642862,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362882,
       "num": 257434,
       "word": "白鹿 恰逢雨连天",
@@ -1731,14 +1779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345939,
-      "num": 252195,
-      "word": "沈佳润红毯走过头了",
-      "onboard_time": 1761646402,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 343069,
       "num": 255209,
       "word": "刘亦菲VogueWorld官宣",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1761449479,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 335270,
-      "num": 335270,
-      "word": "蔡天凤碎尸案进展",
-      "onboard_time": 1761646763,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332121,
@@ -1899,12 +1931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310775,
+      "num": 310775,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1761649522,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
       "onboard_time": 1761479121,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308840,
+      "num": 308840,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308394,
@@ -1993,14 +2041,6 @@
       "onboard_time": 1761643462,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294469,
-      "num": 294469,
-      "word": "十五五规划建议发布",
-      "onboard_time": 1761643162,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 293767,
@@ -2139,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278892,
+      "num": 278892,
+      "word": "米卡穿了吗",
+      "onboard_time": 1761647482,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278339,
       "num": 254085,
       "word": "Bin采访差点哭了",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1761395781,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275916,
+      "num": 275916,
+      "word": "再见小花生",
+      "onboard_time": 1761649882,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 271978,
@@ -2297,14 +2353,6 @@
       "onboard_time": 1761530662,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252336,
-      "num": 246359,
-      "word": "张馨予 红毯定海神针",
-      "onboard_time": 1761646402,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251756,
@@ -2467,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236038,
+      "num": 236038,
+      "word": "张艺凡镜头下得多瘦",
+      "onboard_time": 1761648441,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235603,
       "num": 235603,
       "word": "王者荣耀六耳",
@@ -2611,6 +2667,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226473,
+      "num": 241176,
+      "word": "小米集团高层调整",
+      "onboard_time": 1761647303,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 224568,
+      "num": 224568,
+      "word": "宁艺卓 好会吹的风",
+      "onboard_time": 1761648382,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
@@ -2673,14 +2745,6 @@
       "onboard_time": 1761539722,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219272,
-      "num": 219272,
-      "word": "米卡穿了吗",
-      "onboard_time": 1761647482,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219039,
@@ -3059,14 +3123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199134,
-      "num": 241176,
-      "word": "小米集团高层调整",
-      "onboard_time": 1761647303,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 198982,
       "num": 198982,
       "word": "韩国学生因拒绝在网诈遭受酷刑致死",
@@ -3348,7 +3404,7 @@
     },
     {
       "raw_hot": 187577,
-      "num": 254919,
+      "num": 282881,
       "word": "阿维塔12十二项同级独享",
       "onboard_time": 1761645982,
       "rank": 23,
@@ -3571,11 +3627,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180278,
+      "num": 180278,
+      "word": "特朗普1分钟内两次无视高市早苗",
+      "onboard_time": 1761646282,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179725,
       "num": 179725,
       "word": "九尾天机白泽",
       "onboard_time": 1761473059,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179148,
+      "num": 179148,
+      "word": "英雄联盟",
+      "onboard_time": 1761649822,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -3699,14 +3771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 175024,
-      "num": 240997,
-      "word": "奶皮子糖葫芦卖到40元一串",
-      "onboard_time": 1761642862,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174787,
       "num": 174787,
       "word": "关晓彤友情出演",
@@ -3793,6 +3857,14 @@
       "onboard_time": 1761555621,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "星穹铁道铁墓研究进度同步",
+      "onboard_time": 1761649882,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172674,
@@ -4251,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159973,
+      "num": 159973,
+      "word": "张艺兴曾梦雪获奖感言都在打破偏见",
+      "onboard_time": 1761649702,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159948,
       "num": 159948,
       "word": "A股收复4000点 牛市真来了吗",
@@ -4376,14 +4456,6 @@
       "word": "中美第五轮经贸会谈首日磋商超5小时",
       "onboard_time": 1761449420,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157138,
-      "num": 159345,
-      "word": "特朗普1分钟内两次无视高市早苗",
-      "onboard_time": 1761646282,
-      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -4633,6 +4705,14 @@
       "onboard_time": 1761625584,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152195,
+      "num": 152195,
+      "word": "深圳机场监控公关",
+      "onboard_time": 1761649162,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152097,
@@ -4971,6 +5051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144202,
+      "num": 144202,
+      "word": "音乐缘计划首次七人成团",
+      "onboard_time": 1761650241,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144071,
       "num": 144071,
       "word": "香港男生窒息死亡警方初步排除自杀",
@@ -4993,6 +5081,14 @@
       "onboard_time": 1761526642,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143255,
+      "num": 143255,
+      "word": "Viper尽力了",
+      "onboard_time": 1761649642,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 143021,
@@ -6923,6 +7019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107088,
+      "num": 151270,
+      "word": "丁程鑫官宣2025中国电影大数据荣誉之夜",
+      "onboard_time": 1761648802,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107075,
       "num": 121698,
       "word": "深圳巴士集团致歉",
@@ -7667,6 +7771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93314,
+      "num": 310317,
+      "word": "GEN晋级S15四强",
+      "onboard_time": 1761649763,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92974,
       "num": 118668,
       "word": "单依纯This is me",
@@ -8009,6 +8121,14 @@
       "onboard_time": 1761606978,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84724,
+      "num": 152351,
+      "word": "俄乌战争给中国的启示",
+      "onboard_time": 1761650063,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83993,
@@ -8524,7 +8644,7 @@
     },
     {
       "raw_hot": 67856,
-      "num": 260634,
+      "num": 293433,
       "word": "张小婉荣耀进化张大碗",
       "onboard_time": 1761646342,
       "rank": 19,
@@ -9620,11 +9740,19 @@
     },
     {
       "raw_hot": 30084,
-      "num": 531174,
+      "num": 692178,
       "word": "第一观察",
       "onboard_time": 1761644721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29309,
+      "num": 152244,
+      "word": "法国明确沉默或不反抗不代表性同意",
+      "onboard_time": 1761649642,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29192,
@@ -9897,6 +10025,14 @@
       "onboard_time": 1761592694,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18862,
+      "num": 135632,
+      "word": "谁家专门为了宠粉办个演唱会",
+      "onboard_time": 1761649642,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 18838,
