@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761680213621,
+  "endTime": 1761683453772,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -10507,6 +10507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31992,
+      "num": 30267,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31864,
       "num": 316671,
       "word": "京东成毅同款羽绒服减300",
@@ -10939,14 +10947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19813,
-      "num": 27932,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19481,
       "num": 22682,
       "word": "监控视频下的章若楠",
@@ -10961,6 +10961,14 @@
       "onboard_time": 1761491121,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18749,
+      "num": 19101,
+      "word": "韩国人不睡觉的一天",
+      "onboard_time": 1761679154,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 18745,
@@ -11115,12 +11123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13001,
-      "num": 19101,
-      "word": "韩国人不睡觉的一天",
-      "onboard_time": 1761679154,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 12918,
+      "num": 19100,
+      "word": "济南市民排百米长队买奶皮子糖葫芦",
+      "onboard_time": 1761679094,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12825,
@@ -11147,12 +11155,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12390,
-      "num": 19100,
-      "word": "济南市民排百米长队买奶皮子糖葫芦",
-      "onboard_time": 1761679094,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 12110,
+      "num": 14552,
+      "word": "安倍遇刺案明年1月宣判",
+      "onboard_time": 1761681734,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11975,
@@ -11161,6 +11169,14 @@
       "onboard_time": 1761561201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11781,
+      "num": 14551,
+      "word": "宁绣绣封二又相聚了",
+      "onboard_time": 1761682874,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 11446,

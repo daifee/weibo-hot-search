@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761680213621,
+  "endTime": 1761683453772,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -90427,6 +90427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31992,
+      "num": 30267,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31990,
       "num": 151116,
       "word": "南天门计划新机型紫火首次亮相",
@@ -93027,14 +93035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19813,
-      "num": 27932,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19792,
       "num": 29632,
       "word": "比伯海莉周年旅行照",
@@ -93209,6 +93209,14 @@
       "onboard_time": 1760521282,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18749,
+      "num": 19101,
+      "word": "韩国人不睡觉的一天",
+      "onboard_time": 1761679154,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 18745,
@@ -94211,12 +94219,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 13001,
-      "num": 19101,
-      "word": "韩国人不睡觉的一天",
-      "onboard_time": 1761679154,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 12918,
+      "num": 19100,
+      "word": "济南市民排百米长队买奶皮子糖葫芦",
+      "onboard_time": 1761679094,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12907,
@@ -94307,14 +94315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12390,
-      "num": 19100,
-      "word": "济南市民排百米长队买奶皮子糖葫芦",
-      "onboard_time": 1761679094,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12371,
       "num": 24969,
       "word": "南通队带刀后卫进球",
@@ -94337,6 +94337,14 @@
       "onboard_time": 1760639895,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12110,
+      "num": 14552,
+      "word": "安倍遇刺案明年1月宣判",
+      "onboard_time": 1761681734,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12098,
@@ -94376,6 +94384,14 @@
       "word": "王雷演活了西迁人的家国心",
       "onboard_time": 1760822835,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11781,
+      "num": 14551,
+      "word": "宁绣绣封二又相聚了",
+      "onboard_time": 1761682874,
+      "rank": 43,
       "category": "剧集"
     },
     {
