@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761647391142,
+  "endTime": 1761648361084,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 799143,
-      "num": 284113,
+      "num": 376727,
       "word": "李维嘉回归舞台与何炅相拥而泣",
       "onboard_time": 1761643462,
       "rank": 6,
@@ -249,6 +249,14 @@
       "onboard_time": 1761625526,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592306,
+      "num": 271609,
+      "word": "李沁工作室 摄影有待提高",
+      "onboard_time": 1761645862,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580949,
@@ -403,15 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440495,
-      "num": 271609,
-      "word": "李沁工作室 摄影有待提高",
-      "onboard_time": 1761645862,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 424327,
+      "raw_hot": 436928,
       "num": 265744,
       "word": "方圆好美",
       "onboard_time": 1761643880,
@@ -491,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345939,
+      "num": 252195,
+      "word": "沈佳润红毯走过头了",
+      "onboard_time": 1761646402,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 335270,
+      "num": 335270,
+      "word": "蔡天凤碎尸案进展",
+      "onboard_time": 1761646763,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332121,
       "num": 332121,
       "word": "安倍遇刺案今天开庭",
@@ -547,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 304811,
-      "num": 252195,
-      "word": "沈佳润红毯走过头了",
-      "onboard_time": 1761646402,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 295625,
       "num": 229683,
       "word": "李维嘉何炅相拥而泣",
@@ -563,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294469,
+      "num": 294469,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287065,
       "num": 350570,
       "word": "网约房 群租房",
       "onboard_time": 1761636022,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284773,
-      "num": 284773,
-      "word": "十五五规划建议发布",
-      "onboard_time": 1761643162,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 282021,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252336,
+      "num": 246359,
+      "word": "张馨予 红毯定海神针",
+      "onboard_time": 1761646402,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 251756,
       "num": 251756,
       "word": "阴阳师",
@@ -675,10 +691,10 @@
       "category": "网红"
     },
     {
-      "raw_hot": 246359,
-      "num": 246359,
-      "word": "张馨予 红毯定海神针",
-      "onboard_time": 1761646402,
+      "raw_hot": 245049,
+      "num": 238605,
+      "word": "迅猛龙ELLE红毯",
+      "onboard_time": 1761647422,
       "rank": 27,
       "category": "作品衍生,时尚"
     },
@@ -811,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219272,
+      "num": 219272,
+      "word": "米卡穿了吗",
+      "onboard_time": 1761647482,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219039,
       "num": 219039,
       "word": "张继科晒樊振东亲签球拍",
@@ -897,6 +921,14 @@
       "onboard_time": 1761633260,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199134,
+      "num": 241176,
+      "word": "小米集团高层调整",
+      "onboard_time": 1761647303,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 198536,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185692,
+      "num": 185692,
+      "word": "补丁拍到张艺兴",
+      "onboard_time": 1761648082,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184256,
       "num": 224985,
       "word": "TVB今年去世的艺人",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1761622404,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175024,
+      "num": 240997,
+      "word": "奶皮子糖葫芦卖到40元一串",
+      "onboard_time": 1761642862,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173846,
@@ -1163,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166193,
+      "num": 166193,
+      "word": "代露娃回应红毯摔倒",
+      "onboard_time": 1761647303,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166167,
       "num": 142769,
       "word": "唯一不玩手机认真听课的被轰出去了",
@@ -1211,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164139,
+      "num": 164139,
+      "word": "张婧仪香槟粉鱼尾裙",
+      "onboard_time": 1761648082,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163981,
+      "num": 163981,
+      "word": "这届冬奥会吉祥物是由小学生设计的",
+      "onboard_time": 1761648141,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163633,
       "num": 163633,
       "word": "玉茗茶骨预告",
@@ -1225,14 +1297,6 @@
       "onboard_time": 1761634282,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160017,
-      "num": 160017,
-      "word": "小米集团高层调整",
-      "onboard_time": 1761647303,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 159948,
@@ -1259,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158618,
+      "num": 156773,
+      "word": "米卡胸口披块布就来红毯了",
+      "onboard_time": 1761647783,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158574,
       "num": 158574,
       "word": "开拓者vs湖人",
@@ -1280,6 +1352,14 @@
       "word": "南海坠机所在航母正执行最后任务",
       "onboard_time": 1761560480,
       "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157138,
+      "num": 159345,
+      "word": "特朗普1分钟内两次无视高市早苗",
+      "onboard_time": 1761646282,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -1515,14 +1595,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 140146,
-      "num": 262282,
-      "word": "蔡天凤碎尸案进展",
-      "onboard_time": 1761646763,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "当两个爱吃的人谈恋爱",
@@ -1627,14 +1699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131504,
-      "num": 131504,
-      "word": "奶皮子糖葫芦卖到40元一串",
-      "onboard_time": 1761642862,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131328,
       "num": 131328,
       "word": "孙颖莎樊振东等拟获表彰",
@@ -1713,14 +1777,6 @@
       "onboard_time": 1761645801,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126394,
-      "num": 126394,
-      "word": "代露娃回应红毯摔倒",
-      "onboard_time": 1761647303,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126215,
@@ -1889,14 +1945,6 @@
       "onboard_time": 1761616100,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 114156,
-      "num": 159345,
-      "word": "特朗普1分钟内两次无视高市早苗",
-      "onboard_time": 1761646282,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114069,
@@ -2531,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53706,
+      "num": 166178,
+      "word": "阿维塔线下门店首挂华为标识",
+      "onboard_time": 1761647783,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53468,
       "num": 183412,
       "word": "谷爱凌遇上KimJones秒变迷妹",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1761607279,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53032,
+      "num": 165075,
+      "word": "第四批690亿国补资金已下达",
+      "onboard_time": 1761647601,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52104,
@@ -2851,8 +2915,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26514,
-      "num": 158663,
+      "raw_hot": 26520,
+      "num": 164259,
       "word": "美团宣布社保补贴覆盖所有骑手",
       "onboard_time": 1761645681,
       "rank": 39,
@@ -2883,12 +2947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25183,
+      "num": 164834,
+      "word": "东风玩偶事件",
+      "onboard_time": 1761647482,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22245,
       "num": 123938,
       "word": "刺杀安倍枪手认罪",
       "onboard_time": 1761630082,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20484,
+      "num": 165678,
+      "word": "初三女孩遭杀害妈妈称宁可自己挨刀",
+      "onboard_time": 1761648022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20456,
