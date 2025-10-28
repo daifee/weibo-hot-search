@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761633575843,
+  "endTime": 1761634376288,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 671849,
+      "num": 671849,
+      "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+      "onboard_time": 1761631043,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658196,
       "num": 208358,
       "word": "周润发看望许绍雄",
@@ -195,14 +203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 560001,
-      "num": 560001,
-      "word": "山姆一门店黄金大闸蟹涉嫌侵权",
-      "onboard_time": 1761631043,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 491315,
       "num": 182912,
       "word": "杨幂 死嘴憋住",
@@ -265,6 +265,14 @@
       "onboard_time": 1761621322,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369222,
+      "num": 197410,
+      "word": "11岁孩子为锻炼舌头吞下10克金豆",
+      "onboard_time": 1761630322,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356453,
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266262,
+      "num": 196515,
+      "word": "于正要带着清宫剧回来了",
+      "onboard_time": 1761629843,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265625,
       "num": 265625,
       "word": "00后用打印机造假币",
@@ -340,11 +356,19 @@
     },
     {
       "raw_hot": 263020,
-      "num": 168252,
+      "num": 195644,
       "word": "赵樱子回应和陈晓很配",
       "onboard_time": 1761629422,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262057,
+      "num": 196088,
+      "word": "刮百万大奖请假去兑奖竟是假彩票",
+      "onboard_time": 1761632420,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257210,
@@ -371,14 +395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 243046,
-      "num": 181962,
-      "word": "11岁孩子为锻炼舌头吞下10克金豆",
-      "onboard_time": 1761630322,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243041,
       "num": 204705,
       "word": "日本天皇用英语说很高兴见到特朗普",
@@ -388,10 +404,18 @@
     },
     {
       "raw_hot": 241357,
-      "num": 166469,
+      "num": 194140,
       "word": "韦雪张馨予与友人聚餐",
       "onboard_time": 1761632061,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238130,
+      "num": 195345,
+      "word": "郭宇欣否认不会再演短剧了",
+      "onboard_time": 1761633741,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 236406,
-      "num": 164511,
+      "num": 193232,
       "word": "田曦薇哭了",
       "onboard_time": 1761630562,
       "rank": 23,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 230615,
-      "num": 178714,
+      "num": 182776,
       "word": "刘宇宁怼不过的女人出现了",
       "onboard_time": 1761627862,
       "rank": 31,
@@ -499,27 +523,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217245,
-      "num": 177397,
-      "word": "于正要带着清宫剧回来了",
-      "onboard_time": 1761629843,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216663,
       "num": 277285,
       "word": "打击低俗团播引诱打赏",
       "onboard_time": 1761615380,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213981,
-      "num": 175123,
-      "word": "刮百万大奖请假去兑奖竟是假彩票",
-      "onboard_time": 1761632420,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -563,12 +571,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200278,
+      "num": 193869,
+      "word": "郑智化",
+      "onboard_time": 1761633260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198536,
       "num": 198536,
       "word": "柚子要摔一下才好吃",
       "onboard_time": 1761623786,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197641,
+      "num": 197641,
+      "word": "烟台理工学院通报学生坠楼身亡",
+      "onboard_time": 1761633502,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 196944,
@@ -587,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191577,
+      "num": 191577,
+      "word": "满天星簪花",
+      "onboard_time": 1761632781,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 190425,
       "num": 190425,
       "word": "徐志胜一个人炒菜9个人围观",
       "onboard_time": 1761626185,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189282,
-      "num": 160508,
-      "word": "郑智化",
-      "onboard_time": 1761633260,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 188219,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 187375,
-      "num": 187375,
+      "num": 195018,
       "word": "杨瀚森NBA得分超越孙悦",
       "onboard_time": 1761626784,
       "rank": 29,
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176300,
+      "num": 157483,
+      "word": "刘丹回应刘恺威拍拖",
+      "onboard_time": 1761634040,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173192,
       "num": 173192,
       "word": "特朗普回应美两军机南海坠毁",
@@ -721,6 +753,14 @@
       "onboard_time": 1761619580,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172532,
+      "num": 172532,
+      "word": "李施嬅再见爱人你好张家妍",
+      "onboard_time": 1761633922,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 172182,
@@ -931,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142401,
+      "num": 142401,
+      "word": "成毅撞肩这一下把我钓成翘嘴了",
+      "onboard_time": 1761633862,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141982,
       "num": 141982,
       "word": "王乐乐杨清柠合照",
@@ -953,14 +1001,6 @@
       "onboard_time": 1761631942,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 138318,
-      "num": 138318,
-      "word": "满天星簪花",
-      "onboard_time": 1761632781,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 137996,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1761624805,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132505,
+      "num": 132505,
+      "word": "电商让聚酯纤维长出血肉",
+      "onboard_time": 1761633801,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 131931,
@@ -1147,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121055,
+      "num": 121055,
+      "word": "爸爸开会女儿把哭声调成静音模式",
+      "onboard_time": 1761633322,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120990,
       "num": 120990,
       "word": "台湾光复80周年",
@@ -1219,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108752,
+      "num": 108752,
+      "word": "特朗普明确表示支持高市早苗",
+      "onboard_time": 1761633080,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107873,
       "num": 107992,
       "word": "天地剑心播放量",
@@ -1243,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103166,
+      "num": 129539,
+      "word": "bin回应showmaker名言",
+      "onboard_time": 1761628942,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102730,
       "num": 207213,
       "word": "京东黄金降价",
       "onboard_time": 1761620660,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102668,
-      "num": 102668,
-      "word": "特朗普明确表示支持高市早苗",
-      "onboard_time": 1761633080,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101840,
@@ -1273,14 +1337,6 @@
       "onboard_time": 1761628702,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100628,
-      "num": 129539,
-      "word": "bin回应showmaker名言",
-      "onboard_time": 1761628942,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 100168,
@@ -1321,14 +1377,6 @@
       "onboard_time": 1761606618,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97845,
-      "num": 97845,
-      "word": "爸爸开会女儿把哭声调成静音模式",
-      "onboard_time": 1761633322,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97166,
@@ -1387,14 +1435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 92773,
-      "num": 92773,
-      "word": "烟台理工学院通报学生坠楼身亡",
-      "onboard_time": 1761633502,
-      "rank": 46,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "这是我见过对恋爱脑最好的诠释",
@@ -1449,6 +1489,22 @@
       "onboard_time": 1761609860,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88715,
+      "num": 88715,
+      "word": "不少人忘了识别假币被骗",
+      "onboard_time": 1761634282,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88520,
+      "num": 88520,
+      "word": "张予曦红色头纱顶级魅魔",
+      "onboard_time": 1761634282,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 87319,
@@ -1555,6 +1611,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 71745,
+      "num": 111562,
+      "word": "成都马拉松官方称已报警",
+      "onboard_time": 1761634282,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70343,
       "num": 106446,
       "word": "王权富贵A爆了",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1761582919,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61201,
+      "num": 114886,
+      "word": "王鹤棣去参加发小婚礼了",
+      "onboard_time": 1761633621,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 60624,
@@ -1739,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54635,
+      "num": 194494,
+      "word": "女尸还是男尸警方结论与目击者相反",
+      "onboard_time": 1761633561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53228,
       "num": 53228,
       "word": "特朗普回应俄试射末日武器",
@@ -1803,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48164,
+      "num": 109643,
+      "word": "湖南一男子直播挖蛇被咬后下落不明",
+      "onboard_time": 1761632961,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47790,
       "num": 80856,
       "word": "陈哲远预告一滴泪镜头",
@@ -1824,14 +1912,6 @@
       "word": "家长质疑职校吹风机5分钟1元收费贵",
       "onboard_time": 1761629303,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46428,
-      "num": 93736,
-      "word": "女尸还是男尸警方结论与目击者相反",
-      "onboard_time": 1761633561,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1899,11 +1979,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35056,
-      "num": 97855,
-      "word": "湖南一男子直播挖蛇被咬后下落不明",
-      "onboard_time": 1761632961,
-      "rank": 39,
+      "raw_hot": 35451,
+      "num": 184075,
+      "word": "保时捷回应多款油车将停产",
+      "onboard_time": 1761632781,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2043,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18099,
+      "num": 115587,
+      "word": "公共议题讨论要允许不完美表达",
+      "onboard_time": 1761634282,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17993,
       "num": 32336,
       "word": "美尼米兹号退役前最后一次部署",
@@ -2075,14 +2163,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 13389,
-      "num": 173401,
-      "word": "保时捷回应多款油车将停产",
-      "onboard_time": 1761632781,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9464,
       "num": 118641,
       "word": "六公主播许绍雄电影",
@@ -2092,7 +2172,7 @@
     },
     {
       "raw_hot": 5936,
-      "num": 616696,
+      "num": 667777,
       "word": "第十五届全运会",
       "onboard_time": 1761570622,
       "rank": 2,

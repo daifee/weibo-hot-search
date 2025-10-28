@@ -1,0 +1,410 @@
+{
+  "runTime": 1761634376288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732274,
+        "num": 1732274,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671849,
+        "num": 671849,
+        "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+        "onboard_time": 1761631043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5207,
+        "num": 667777,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665261,
+        "num": 665261,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 3,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 398493,
+        "num": 398493,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 924859,
+        "num": 379502,
+        "word": "黎芷珊 许绍雄",
+        "onboard_time": 1761626065,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356559,
+        "num": 356559,
+        "word": "安倍晋三枪击案嫌疑人认罪",
+        "onboard_time": 1761629843,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321002,
+        "num": 321002,
+        "word": "迪丽热巴新剧开机记录",
+        "onboard_time": 1761630202,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210683,
+        "num": 210683,
+        "word": "张继科晒樊振东亲签球拍",
+        "onboard_time": 1761628104,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197641,
+        "num": 197641,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 369222,
+        "num": 197410,
+        "word": "11岁孩子为锻炼舌头吞下10克金豆",
+        "onboard_time": 1761630322,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348208,
+        "num": 197025,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328860,
+        "num": 196794,
+        "word": "男生没认出订婚当天打扮漂亮的女友",
+        "onboard_time": 1761625465,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266262,
+        "num": 196515,
+        "word": "于正要带着清宫剧回来了",
+        "onboard_time": 1761629843,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262057,
+        "num": 196088,
+        "word": "刮百万大奖请假去兑奖竟是假彩票",
+        "onboard_time": 1761632420,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254255,
+        "num": 195644,
+        "word": "赵樱子回应和陈晓很配",
+        "onboard_time": 1761629422,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238130,
+        "num": 195345,
+        "word": "郭宇欣否认不会再演短剧了",
+        "onboard_time": 1761633741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 195018,
+        "word": "杨瀚森NBA得分超越孙悦",
+        "onboard_time": 1761626784,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207190,
+        "num": 194867,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54635,
+        "num": 194494,
+        "word": "女尸还是男尸警方结论与目击者相反",
+        "onboard_time": 1761633561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235288,
+        "num": 194140,
+        "word": "韦雪张馨予与友人聚餐",
+        "onboard_time": 1761632061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200278,
+        "num": 193869,
+        "word": "郑智化",
+        "onboard_time": 1761633260,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199638,
+        "num": 193259,
+        "word": "佘诗曼 文慧心回来了",
+        "onboard_time": 1761622706,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193232,
+        "num": 193232,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191577,
+        "num": 191577,
+        "word": "满天星簪花",
+        "onboard_time": 1761632781,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 186094,
+        "word": "切尔诺贝利核电站附近出现蓝色狗",
+        "onboard_time": 1761615438,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35451,
+        "num": 184075,
+        "word": "保时捷回应多款油车将停产",
+        "onboard_time": 1761632781,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182776,
+        "num": 182776,
+        "word": "刘宇宁怼不过的女人出现了",
+        "onboard_time": 1761627862,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179697,
+        "num": 179697,
+        "word": "陈伟霆 传新iPhone要一天多",
+        "onboard_time": 1761625526,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172532,
+        "num": 172532,
+        "word": "李施嬅再见爱人你好张家妍",
+        "onboard_time": 1761633922,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176300,
+        "num": 157483,
+        "word": "刘丹回应刘恺威拍拖",
+        "onboard_time": 1761634040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142401,
+        "num": 142401,
+        "word": "成毅撞肩这一下把我钓成翘嘴了",
+        "onboard_time": 1761633862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133428,
+        "num": 133428,
+        "word": "发现台独线索可举报",
+        "onboard_time": 1761617719,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132505,
+        "num": 132505,
+        "word": "电商让聚酯纤维长出血肉",
+        "onboard_time": 1761633801,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131645,
+        "num": 131645,
+        "word": "关晓彤ES高定",
+        "onboard_time": 1761631942,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "柚子要摔一下才好吃",
+        "onboard_time": 1761623786,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121055,
+        "num": 121055,
+        "word": "爸爸开会女儿把哭声调成静音模式",
+        "onboard_time": 1761633322,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119149,
+        "num": 119149,
+        "word": "印尼偶遇李现爬火山",
+        "onboard_time": 1761631221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18099,
+        "num": 115587,
+        "word": "公共议题讨论要允许不完美表达",
+        "onboard_time": 1761634282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61201,
+        "num": 114886,
+        "word": "王鹤棣去参加发小婚礼了",
+        "onboard_time": 1761633621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114267,
+        "num": 114267,
+        "word": "蒋欣 毕竟上了年纪",
+        "onboard_time": 1761625345,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71745,
+        "num": 111562,
+        "word": "成都马拉松官方称已报警",
+        "onboard_time": 1761634282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111250,
+        "num": 111250,
+        "word": "王一博 马达加斯加企鹅",
+        "onboard_time": 1761625705,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48164,
+        "num": 109643,
+        "word": "湖南一男子直播挖蛇被咬后下落不明",
+        "onboard_time": 1761632961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108752,
+        "num": 108752,
+        "word": "特朗普明确表示支持高市早苗",
+        "onboard_time": 1761633080,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103669,
+        "num": 103669,
+        "word": "TVB今年去世的艺人",
+        "onboard_time": 1761627624,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103166,
+        "num": 103166,
+        "word": "bin回应showmaker名言",
+        "onboard_time": 1761628942,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89798,
+        "num": 89798,
+        "word": "陈可辛代表酱园弄一个人走红毯",
+        "onboard_time": 1761632601,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88715,
+        "num": 88715,
+        "word": "不少人忘了识别假币被骗",
+        "onboard_time": 1761634282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 88520,
+        "word": "张予曦红色头纱顶级魅魔",
+        "onboard_time": 1761634282,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  }
+}

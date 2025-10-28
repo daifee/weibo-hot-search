@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 14:39:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 14:52:56
 </p>
 </blockquote>
 <p>
@@ -4749,6 +4749,12 @@ ELLE（热度：673195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%80%E9%97%A8%E5%BA%97%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23" target="weibo">
+山姆一门店黄金大闸蟹涉嫌侵权（热度：671849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%A4%A7%E9%9B%AA%E6%9A%B4%E9%9B%A8%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 暴雪大雪暴雨要来了（热度：671372）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 陈哲远发红包（热度：580360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%88%B1%E8%B1%86%E5%BD%93%E8%A1%97%E6%9A%B4%E9%9C%B2%E4%B8%8B%E4%BD%93%E8%A2%AB%E6%8D%95%23" target="weibo">
-日本男爱豆当街暴露下体被捕（热度：579640）
 </a>
 </li>
 
