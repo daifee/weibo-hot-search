@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761629230029,
+  "endTime": 1761630206127,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 800180,
+      "num": 350536,
+      "word": "郭宇欣以后不会再演短剧了",
+      "onboard_time": 1761626842,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 767243,
       "num": 378126,
       "word": "新闻女王2",
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 651894,
-      "num": 350536,
-      "word": "郭宇欣以后不会再演短剧了",
-      "onboard_time": 1761626842,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 599923,
       "num": 289929,
       "word": "陈伟霆 传新iPhone要一天多",
@@ -171,6 +171,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 566022,
+      "num": 346584,
+      "word": "男生没认出订婚当天打扮漂亮的女友",
+      "onboard_time": 1761625465,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561071,
       "num": 561071,
       "word": "发现台独线索可举报",
@@ -185,14 +193,6 @@
       "onboard_time": 1761577522,
       "rank": 14,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 482940,
-      "num": 346584,
-      "word": "男生没认出订婚当天打扮漂亮的女友",
-      "onboard_time": 1761625465,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453674,
@@ -257,6 +257,14 @@
       "onboard_time": 1761563600,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341514,
+      "num": 341514,
+      "word": "王者荣耀嫦娥coser致歉",
+      "onboard_time": 1761628522,
+      "rank": 16,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 332121,
@@ -395,20 +403,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 226317,
-      "num": 226317,
-      "word": "王者荣耀嫦娥coser致歉",
-      "onboard_time": 1761628522,
-      "rank": 16,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
       "onboard_time": 1761620300,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221150,
+      "num": 164269,
+      "word": "蒋欣 毕竟上了年纪",
+      "onboard_time": 1761625345,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 218789,
@@ -619,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171994,
-      "num": 164269,
-      "word": "蒋欣 毕竟上了年纪",
-      "onboard_time": 1761625345,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171822,
       "num": 171822,
       "word": "李木戈带着景甜张彬彬又杀回内娱",
@@ -641,6 +641,14 @@
       "onboard_time": 1761627862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171507,
+      "num": 171507,
+      "word": "安倍晋三枪击案嫌疑人认罪",
+      "onboard_time": 1761629843,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170528,
@@ -827,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "于正要带着清宫剧回来了",
+      "onboard_time": 1761629843,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143932,
       "num": 188808,
       "word": "任泽平给股民9条建议",
@@ -857,6 +873,22 @@
       "onboard_time": 1761624624,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137776,
+      "num": 152363,
+      "word": "杨瀚森NBA得分超越孙悦",
+      "onboard_time": 1761626784,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137394,
+      "num": 137394,
+      "word": "众星悼念许绍雄",
+      "onboard_time": 1761629962,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 136186,
@@ -891,14 +923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134701,
-      "num": 152363,
-      "word": "杨瀚森NBA得分超越孙悦",
-      "onboard_time": 1761626784,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133179,
       "num": 159226,
       "word": "金价跌超2.8%",
@@ -921,6 +945,14 @@
       "onboard_time": 1761618858,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130439,
+      "num": 130439,
+      "word": "他俩暗爽偷情我守口如瓶",
+      "onboard_time": 1761629662,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 128203,
@@ -1043,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117798,
+      "num": 117798,
+      "word": "赵樱子回应和陈晓很配",
+      "onboard_time": 1761629422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117519,
       "num": 117519,
       "word": "剑网3无相楼主题曲悬丝入戏",
@@ -1083,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110202,
+      "num": 110202,
+      "word": "10件事把流失的气血补回来",
+      "onboard_time": 1761626784,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107873,
       "num": 107992,
       "word": "天地剑心播放量",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1761609620,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99339,
+      "num": 129539,
+      "word": "bin回应showmaker名言",
+      "onboard_time": 1761628942,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 99164,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1761628162,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94647,
-      "num": 129539,
-      "word": "bin回应showmaker名言",
-      "onboard_time": 1761628942,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 94032,
@@ -1275,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86080,
+      "num": 154990,
+      "word": "男性身体的求救信号别忽略了",
+      "onboard_time": 1761628942,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85774,
       "num": 145836,
       "word": "2025微博视界大会第二波阵容官宣",
@@ -1315,20 +1371,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79091,
+      "num": 221409,
+      "word": "女童被水泥杆砸死40天父亲发声",
+      "onboard_time": 1761627921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77169,
       "num": 77169,
       "word": "睡眠是体重管理的关键环节",
       "onboard_time": 1761588975,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 75832,
-      "num": 221409,
-      "word": "女童被水泥杆砸死40天父亲发声",
-      "onboard_time": 1761627921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75155,
@@ -1555,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52764,
-      "num": 154990,
-      "word": "男性身体的求救信号别忽略了",
-      "onboard_time": 1761628942,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 51831,
       "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
@@ -1635,6 +1683,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 46963,
+      "num": 145382,
+      "word": "家长质疑职校吹风机5分钟1元收费贵",
+      "onboard_time": 1761629303,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46099,
       "num": 105274,
       "word": "12000多人次搜山44小时找寻走失女童",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1761627985,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34882,
+      "num": 131378,
+      "word": "刘冲比吴刚还像陈萍萍",
+      "onboard_time": 1761629062,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 34656,
@@ -1763,12 +1827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21651,
-      "num": 131378,
-      "word": "刘冲比吴刚还像陈萍萍",
-      "onboard_time": 1761629062,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 22245,
+      "num": 123938,
+      "word": "刺杀安倍枪手认罪",
+      "onboard_time": 1761630082,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20456,
@@ -1827,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17024,
+      "num": 118773,
+      "word": "公共服务应在讨论中止于至善",
+      "onboard_time": 1761630082,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16019,
       "num": 19789,
       "word": "央行证监会系列重要消息发布",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 9464,
+      "num": 118641,
+      "word": "六公主播许绍雄电影",
+      "onboard_time": 1761630143,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 5936,

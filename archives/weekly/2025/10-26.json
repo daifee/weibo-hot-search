@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761629230029,
+  "endTime": 1761630206127,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -395,6 +395,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 800180,
+      "num": 350536,
+      "word": "郭宇欣以后不会再演短剧了",
+      "onboard_time": 1761626842,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 796530,
       "num": 1127444,
       "word": "AI把薯片误判为枪惊动八辆美国警车",
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 651894,
-      "num": 350536,
-      "word": "郭宇欣以后不会再演短剧了",
-      "onboard_time": 1761626842,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 647034,
       "num": 307212,
       "word": "杨清柠王乐乐同框",
@@ -857,6 +857,14 @@
       "onboard_time": 1761433816,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566022,
+      "num": 346584,
+      "word": "男生没认出订婚当天打扮漂亮的女友",
+      "onboard_time": 1761625465,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 563457,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1761535341,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 482940,
-      "num": 346584,
-      "word": "男生没认出订婚当天打扮漂亮的女友",
-      "onboard_time": 1761625465,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481834,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1761482181,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341514,
+      "num": 341514,
+      "word": "王者荣耀嫦娥coser致歉",
+      "onboard_time": 1761628522,
+      "rank": 16,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 339914,
@@ -2203,14 +2211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 226317,
-      "num": 226317,
-      "word": "王者荣耀嫦娥coser致歉",
-      "onboard_time": 1761628522,
-      "rank": 16,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
@@ -2225,6 +2225,14 @@
       "onboard_time": 1761492023,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221150,
+      "num": 164269,
+      "word": "蒋欣 毕竟上了年纪",
+      "onboard_time": 1761625345,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 220739,
@@ -3275,14 +3283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171994,
-      "num": 164269,
-      "word": "蒋欣 毕竟上了年纪",
-      "onboard_time": 1761625345,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "彭小苒直播",
@@ -3297,6 +3297,14 @@
       "onboard_time": 1761627862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171507,
+      "num": 171507,
+      "word": "安倍晋三枪击案嫌疑人认罪",
+      "onboard_time": 1761629843,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 171036,
@@ -4259,6 +4267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "于正要带着清宫剧回来了",
+      "onboard_time": 1761629843,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144071,
       "num": 144071,
       "word": "香港男生窒息死亡警方初步排除自杀",
@@ -4491,6 +4507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137776,
+      "num": 152363,
+      "word": "杨瀚森NBA得分超越孙悦",
+      "onboard_time": 1761626784,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137394,
+      "num": 137394,
+      "word": "众星悼念许绍雄",
+      "onboard_time": 1761629962,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137026,
       "num": 180382,
       "word": "暗河传第二",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1761572422,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 134701,
-      "num": 152363,
-      "word": "杨瀚森NBA得分超越孙悦",
-      "onboard_time": 1761626784,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 134434,
@@ -4928,6 +4952,14 @@
       "word": "司徒岭下线",
       "onboard_time": 1761459860,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130439,
+      "num": 130439,
+      "word": "他俩暗爽偷情我守口如瓶",
+      "onboard_time": 1761629662,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -5531,6 +5563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117798,
+      "num": 117798,
+      "word": "赵樱子回应和陈晓很配",
+      "onboard_time": 1761629422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117519,
       "num": 117519,
       "word": "剑网3无相楼主题曲悬丝入戏",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1761556100,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110202,
+      "num": 110202,
+      "word": "10件事把流失的气血补回来",
+      "onboard_time": 1761626784,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110175,
@@ -6443,6 +6491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99339,
+      "num": 129539,
+      "word": "bin回应showmaker名言",
+      "onboard_time": 1761628942,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "无限暖暖",
@@ -6665,14 +6721,6 @@
       "onboard_time": 1761525320,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 94647,
-      "num": 129539,
-      "word": "bin回应showmaker名言",
-      "onboard_time": 1761628942,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 94570,
@@ -7019,6 +7067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86080,
+      "num": 154990,
+      "word": "男性身体的求救信号别忽略了",
+      "onboard_time": 1761628942,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85933,
       "num": 85933,
       "word": "鲜食玉米是减脂餐的绝佳选择",
@@ -7243,6 +7299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79091,
+      "num": 221409,
+      "word": "女童被水泥杆砸死40天父亲发声",
+      "onboard_time": 1761627921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78893,
       "num": 158442,
       "word": "樊振东和刘高阳混双夺冠后采访",
@@ -7361,14 +7425,6 @@
       "onboard_time": 1761408501,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75832,
-      "num": 221409,
-      "word": "女童被水泥杆砸死40天父亲发声",
-      "onboard_time": 1761627921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75155,
@@ -7955,14 +8011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52764,
-      "num": 154990,
-      "word": "男性身体的求救信号别忽略了",
-      "onboard_time": 1761628942,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -8089,6 +8137,14 @@
       "onboard_time": 1761608119,
       "rank": 49,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 46963,
+      "num": 145382,
+      "word": "家长质疑职校吹风机5分钟1元收费贵",
+      "onboard_time": 1761629303,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46172,
@@ -8347,6 +8403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34882,
+      "num": 131378,
+      "word": "刘冲比吴刚还像陈萍萍",
+      "onboard_time": 1761629062,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34656,
       "num": 163865,
       "word": "张庭全家福",
@@ -8603,6 +8667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22245,
+      "num": 123938,
+      "word": "刺杀安倍枪手认罪",
+      "onboard_time": 1761630082,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21778,
       "num": 119079,
       "word": "台湾教授苑举正北京祭拜吴石将军",
@@ -8625,14 +8697,6 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21651,
-      "num": 131378,
-      "word": "刘冲比吴刚还像陈萍萍",
-      "onboard_time": 1761629062,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 20456,
@@ -8755,6 +8819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17024,
+      "num": 118773,
+      "word": "公共服务应在讨论中止于至善",
+      "onboard_time": 1761630082,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16019,
       "num": 19789,
       "word": "央行证监会系列重要消息发布",
@@ -8865,6 +8937,14 @@
       "onboard_time": 1761561865,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9464,
+      "num": 118641,
+      "word": "六公主播许绍雄电影",
+      "onboard_time": 1761630143,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 7128,

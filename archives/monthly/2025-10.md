@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 13:27:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 13:43:26
 </p>
 </blockquote>
 <p>
@@ -3483,6 +3483,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%BB%A5%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%BC%94%E7%9F%AD%E5%89%A7%E4%BA%86%23" target="weibo">
+郭宇欣以后不会再演短剧了（热度：800180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%97%AE%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%98%AF%E4%B8%8D%E6%98%AF%E6%9E%97%E4%B8%80%E6%9C%8B%E5%8F%8B%23" target="weibo">
 刘亦菲问王玉雯是不是林一朋友（热度：799654）
 </a>
@@ -4985,12 +4991,6 @@ vivo X300价格（热度：660203）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%8F%AB%E6%9D%BF%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%23" target="weibo">
 美国总统叫板美国前总统（热度：652409）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%BB%A5%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%BC%94%E7%9F%AD%E5%89%A7%E4%BA%86%23" target="weibo">
-郭宇欣以后不会再演短剧了（热度：651894）
 </a>
 </li>
 
