@@ -1,0 +1,410 @@
+{
+  "runTime": 1761623704164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12597565,
+        "num": 12597565,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516591,
+        "num": 516591,
+        "word": "发现台独线索可举报",
+        "onboard_time": 1761617719,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31816,
+        "num": 290873,
+        "word": "2025中国广播电视精品创作大会",
+        "onboard_time": 1761616880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767243,
+        "num": 274156,
+        "word": "新闻女王2",
+        "onboard_time": 1761621687,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234733,
+        "num": 234733,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216663,
+        "num": 216663,
+        "word": "打击低俗团播引诱打赏",
+        "onboard_time": 1761615380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448456,
+        "num": 209851,
+        "word": "佘诗曼 文慧心回来了",
+        "onboard_time": 1761622706,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200464,
+        "num": 200464,
+        "word": "Bin谈下赛季规划",
+        "onboard_time": 1761622468,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "对台独顽固分子沈伯洋立案侦查",
+        "onboard_time": 1761618081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170204,
+        "num": 183705,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508436,
+        "num": 183676,
+        "word": "阳光型抑郁",
+        "onboard_time": 1761618320,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425910,
+        "num": 183655,
+        "word": "野狗骨头",
+        "onboard_time": 1761619640,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498480,
+        "num": 183598,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381911,
+        "num": 183566,
+        "word": "林峯双手合十眉头紧皱",
+        "onboard_time": 1761621322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367824,
+        "num": 183558,
+        "word": "一年等于36个10天",
+        "onboard_time": 1761619219,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331763,
+        "num": 183528,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200600,
+        "num": 183478,
+        "word": "吴谨言陈哲远江山为聘片花",
+        "onboard_time": 1761623186,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135080,
+        "num": 183441,
+        "word": "国台办回应台独被立案",
+        "onboard_time": 1761623366,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51039,
+        "num": 183424,
+        "word": "KimJones中国时尚圈首秀",
+        "onboard_time": 1761620660,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 100934,
+        "num": 183382,
+        "word": "京东黄金降价",
+        "onboard_time": 1761620660,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1111993,
+        "num": 183362,
+        "word": "切尔诺贝利核电站附近出现蓝色狗",
+        "onboard_time": 1761615438,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 738204,
+        "num": 183321,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96608,
+        "num": 183295,
+        "word": "范丞丞用AQ反向管爸妈健康",
+        "onboard_time": 1761620660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299685,
+        "num": 183246,
+        "word": "分手1年复合后狗狗的反应",
+        "onboard_time": 1761615020,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350392,
+        "num": 183224,
+        "word": "陈伟霆说自己是老钱风的代表",
+        "onboard_time": 1761615679,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223314,
+        "num": 183182,
+        "word": "沙溢佟丽娅是邻居",
+        "onboard_time": 1761620300,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185979,
+        "num": 183141,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38753,
+        "num": 183121,
+        "word": "起底毒营养土产业链",
+        "onboard_time": 1761622167,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183094,
+        "num": 183094,
+        "word": "杨清柠说王乐乐结婚自己给当伴娘",
+        "onboard_time": 1761614540,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176308,
+        "num": 176308,
+        "word": "欢喜哥",
+        "onboard_time": 1761622404,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228447,
+        "num": 175926,
+        "word": "外国母亲看到儿子文身当场崩溃",
+        "onboard_time": 1761620359,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174040,
+        "num": 174040,
+        "word": "惠英红悼念许绍雄",
+        "onboard_time": 1761623485,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168801,
+        "num": 168801,
+        "word": "杨幂ELLE盛典第一个登岛",
+        "onboard_time": 1761623366,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 167724,
+        "num": 167724,
+        "word": "日本天皇用英语说很高兴见到特朗普",
+        "onboard_time": 1761615501,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160856,
+        "num": 160856,
+        "word": "玉茗茶骨预告",
+        "onboard_time": 1761619159,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158574,
+        "num": 158574,
+        "word": "开拓者vs湖人",
+        "onboard_time": 1761618439,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155734,
+        "num": 155734,
+        "word": "英语真的可以速成",
+        "onboard_time": 1761621506,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151505,
+        "num": 151505,
+        "word": "王安宇眼睛一转我就知道大事不好了",
+        "onboard_time": 1761622586,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43962,
+        "num": 142501,
+        "word": "永辉 穿越豆腐",
+        "onboard_time": 1761622948,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135795,
+        "num": 135795,
+        "word": "奔跑吧五颜六色的头发",
+        "onboard_time": 1761578781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128047,
+        "num": 128047,
+        "word": "刘涛 不要叫我妈妈啦",
+        "onboard_time": 1761620598,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125769,
+        "num": 125769,
+        "word": "厂家称二三十年不粘不锈铁锅已停产",
+        "onboard_time": 1761622586,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125704,
+        "num": 125704,
+        "word": "猜词的是王安宇自闭的是白敬亭",
+        "onboard_time": 1761622948,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125691,
+        "num": 125691,
+        "word": "金价",
+        "onboard_time": 1761609261,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124486,
+        "num": 124486,
+        "word": "当事人回应孩子被店员提醒别摸蛋糕",
+        "onboard_time": 1761623427,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123652,
+        "num": 123652,
+        "word": "圆桌派8豆瓣开分9.3",
+        "onboard_time": 1761623604,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122587,
+        "num": 122587,
+        "word": "中央网信办将整治验资pk",
+        "onboard_time": 1761617839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119178,
+        "num": 119178,
+        "word": "耀眼",
+        "onboard_time": 1761623666,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117628,
+        "num": 117628,
+        "word": "老外求助中国网友帮买冬奥周边",
+        "onboard_time": 1761622468,
+        "rank": 48,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 113118,
+        "num": 113118,
+        "word": "熊孩子误吞10克金豆6天后排出",
+        "onboard_time": 1761578122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观故宫博物院展览#"
+    }
+  }
+}

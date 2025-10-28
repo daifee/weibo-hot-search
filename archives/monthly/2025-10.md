@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:31:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:55:04
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
-欢喜哥许绍雄逝世（热度：11992405）
+欢喜哥许绍雄逝世（热度：12597565）
 </a>
 </li>
 
@@ -3795,6 +3795,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%23" target="weibo">
+新闻女王2（热度：767243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E6%96%B0%E6%AD%8Churts%23" target="weibo">
 陈奕恒新歌hurts（热度：765790）
 </a>
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%23" target="weibo">
 抢泡泡玛特（热度：576704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%97%AD%E9%BA%A6%E5%90%8E%E5%8F%88%E5%BC%80%E5%A7%8B%E6%8E%92%E9%98%9F%E4%BA%86%23" target="weibo">
-西贝闭麦后又开始排队了（热度：576624）
 </a>
 </li>
 

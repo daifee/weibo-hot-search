@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/28 11:31:24
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/28 11:55:04
 </p>
 </blockquote>
 <p>
@@ -609,6 +609,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
+欢喜哥许绍雄逝世（热度：12597565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%81%93%E6%AD%89%23" target="weibo">
 西贝道歉（热度：12520060）
 </a>
@@ -653,12 +659,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 鹿晗工作室（热度：12026031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
-欢喜哥许绍雄逝世（热度：11992405）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761622284919,
+  "endTime": 1761623704164,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11992405,
-      "num": 11992405,
+      "raw_hot": 12597565,
+      "num": 12597565,
       "word": "欢喜哥许绍雄逝世",
       "onboard_time": 1761621144,
       "rank": 0,
@@ -5043,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 767243,
+      "num": 274156,
+      "word": "新闻女王2",
+      "onboard_time": 1761621687,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765790,
       "num": 259086,
       "word": "陈奕恒新歌hurts",
@@ -9531,6 +9539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516591,
+      "num": 516591,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516093,
       "num": 360661,
       "word": "王建国 爱奇艺副总裁小红",
@@ -11640,6 +11656,14 @@
       "word": "李沁造型师上热搜后立马换衣服了",
       "onboard_time": 1760052319,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 448456,
+      "num": 209851,
+      "word": "佘诗曼 文慧心回来了",
+      "onboard_time": 1761622706,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -13928,6 +13952,14 @@
       "word": "六小龄童 猴子猴孙这么多",
       "onboard_time": 1759369279,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 381911,
+      "num": 205297,
+      "word": "林峯双手合十眉头紧皱",
+      "onboard_time": 1761621322,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -17595,14 +17627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304251,
-      "num": 205297,
-      "word": "林峯双手合十眉头紧皱",
-      "onboard_time": 1761621322,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304146,
       "num": 304146,
       "word": "TES晋级八强",
@@ -19113,14 +19137,6 @@
       "onboard_time": 1760505139,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280803,
-      "num": 280803,
-      "word": "发现台独线索可举报",
-      "onboard_time": 1761617719,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280508,
@@ -21843,14 +21859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241332,
-      "num": 208887,
-      "word": "新闻女王2",
-      "onboard_time": 1761621687,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 241273,
       "num": 241273,
       "word": "被15秒3次敬礼暖到",
@@ -22835,6 +22843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228447,
+      "num": 199853,
+      "word": "外国母亲看到儿子文身当场崩溃",
+      "onboard_time": 1761620359,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 228382,
       "num": 228382,
       "word": "王楚钦拼到低血糖",
@@ -23313,6 +23329,14 @@
       "onboard_time": 1761018081,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 223314,
+      "num": 203133,
+      "word": "沙溢佟丽娅是邻居",
+      "onboard_time": 1761620300,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 223184,
@@ -23872,6 +23896,14 @@
       "word": "鸡排大道为迎国庆把路铺平了",
       "onboard_time": 1759336099,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216663,
+      "num": 216663,
+      "word": "打击低俗团播引诱打赏",
+      "onboard_time": 1761615380,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -24544,14 +24576,6 @@
       "word": "北方多个城市已提前供暖",
       "onboard_time": 1761292700,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210253,
-      "num": 210253,
-      "word": "打击低俗团播引诱打赏",
-      "onboard_time": 1761615380,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -25627,14 +25651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203133,
-      "num": 203133,
-      "word": "沙溢佟丽娅是邻居",
-      "onboard_time": 1761620300,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203106,
       "num": 671952,
       "word": "圆圆圆圆中秋圆圆圆圆",
@@ -26107,6 +26123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200600,
+      "num": 183478,
+      "word": "吴谨言陈哲远江山为聘片花",
+      "onboard_time": 1761623186,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200585,
       "num": 200585,
       "word": "天地剑心播出时间",
@@ -26144,6 +26168,14 @@
       "word": "宝贝双C",
       "onboard_time": 1761481582,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "Bin谈下赛季规划",
+      "onboard_time": 1761622468,
+      "rank": 7,
       "category": "电竞"
     },
     {
@@ -26289,14 +26321,6 @@
       "onboard_time": 1761546501,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199853,
-      "num": 199853,
-      "word": "外国母亲看到儿子文身当场崩溃",
-      "onboard_time": 1761620359,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 199727,
@@ -29707,6 +29731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183730,
+      "num": 209679,
+      "word": "对台独顽固分子沈伯洋立案侦查",
+      "onboard_time": 1761618081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183726,
       "num": 183726,
       "word": "郭晋安再回应父女恋绯闻",
@@ -31251,6 +31283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176308,
+      "num": 176308,
+      "word": "欢喜哥",
+      "onboard_time": 1761622404,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176296,
       "num": 176296,
       "word": "胡歌吴磊同日官宣主演古装剧",
@@ -31777,6 +31817,14 @@
       "onboard_time": 1760958381,
       "rank": 21,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 174040,
+      "num": 174040,
+      "word": "惠英红悼念许绍雄",
+      "onboard_time": 1761623485,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 173997,
@@ -33041,6 +33089,14 @@
       "onboard_time": 1761390622,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "杨幂ELLE盛典第一个登岛",
+      "onboard_time": 1761623366,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 168783,
@@ -35907,6 +35963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158574,
+      "num": 158574,
+      "word": "开拓者vs湖人",
+      "onboard_time": 1761618439,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158558,
       "num": 223901,
       "word": "中美可以找到解决彼此关切的办法",
@@ -36657,6 +36721,14 @@
       "onboard_time": 1760072421,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155734,
+      "num": 155734,
+      "word": "英语真的可以速成",
+      "onboard_time": 1761621506,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 155694,
@@ -37987,6 +38059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151505,
+      "num": 151505,
+      "word": "王安宇眼睛一转我就知道大事不好了",
+      "onboard_time": 1761622586,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151482,
       "num": 151482,
       "word": "王者十周年CG",
@@ -38177,14 +38257,6 @@
       "onboard_time": 1761270980,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 150824,
-      "num": 209679,
-      "word": "对台独顽固分子沈伯洋立案侦查",
-      "onboard_time": 1761618081,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150804,
@@ -39521,14 +39593,6 @@
       "onboard_time": 1759309400,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 146565,
-      "num": 146565,
-      "word": "英语真的可以速成",
-      "onboard_time": 1761621506,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 146537,
@@ -43619,6 +43683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135080,
+      "num": 183441,
+      "word": "国台办回应台独被立案",
+      "onboard_time": 1761623366,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135076,
       "num": 135076,
       "word": "美国全球疯狂寻找大豆买家",
@@ -46739,14 +46811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128168,
-      "num": 128168,
-      "word": "开拓者vs湖人",
-      "onboard_time": 1761618439,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128137,
       "num": 128137,
       "word": "酒果然是最快的交通工具",
@@ -47979,12 +48043,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125769,
+      "num": 125769,
+      "word": "厂家称二三十年不粘不锈铁锅已停产",
+      "onboard_time": 1761622586,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125718,
       "num": 125718,
       "word": "慢羊羊妈妈好漂亮",
       "onboard_time": 1760187621,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125704,
+      "num": 125704,
+      "word": "猜词的是王安宇自闭的是白敬亭",
+      "onboard_time": 1761622948,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125694,
@@ -48587,6 +48667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "当事人回应孩子被店员提醒别摸蛋糕",
+      "onboard_time": 1761623427,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124483,
       "num": 124483,
       "word": "夏以昼",
@@ -49025,6 +49113,14 @@
       "onboard_time": 1760862560,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123652,
+      "num": 123652,
+      "word": "圆桌派8豆瓣开分9.3",
+      "onboard_time": 1761623604,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 123634,
@@ -51315,6 +51411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119178,
+      "num": 119178,
+      "word": "耀眼",
+      "onboard_time": 1761623666,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119173,
       "num": 119173,
       "word": "没认出这是胡歌",
@@ -52233,6 +52337,14 @@
       "onboard_time": 1760108425,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117628,
+      "num": 117628,
+      "word": "老外求助中国网友帮买冬奥周边",
+      "onboard_time": 1761622468,
+      "rank": 48,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 117623,
@@ -65441,6 +65553,14 @@
       "onboard_time": 1761538521,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96608,
+      "num": 206238,
+      "word": "范丞丞用AQ反向管爸妈健康",
+      "onboard_time": 1761620660,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 96597,
@@ -78891,14 +79011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70126,
-      "num": 206238,
-      "word": "范丞丞用AQ反向管爸妈健康",
-      "onboard_time": 1761620660,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70114,
       "num": 228640,
       "word": "官方回应深圳卷尺哥指哪修哪",
@@ -85491,6 +85603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43962,
+      "num": 142501,
+      "word": "永辉 穿越豆腐",
+      "onboard_time": 1761622948,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43945,
       "num": 606651,
       "word": "乐园保洁大姐cos蟑螂",
@@ -86553,6 +86673,14 @@
       "onboard_time": 1759377920,
       "rank": 22,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 38753,
+      "num": 183121,
+      "word": "起底毒营养土产业链",
+      "onboard_time": 1761622167,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38713,
@@ -87883,6 +88011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31816,
+      "num": 290873,
+      "word": "2025中国广播电视精品创作大会",
+      "onboard_time": 1761616880,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 31783,
       "num": 655250,
       "word": "杨振宁生平回顾",
@@ -88329,14 +88465,6 @@
       "onboard_time": 1760797043,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29732,
-      "num": 283299,
-      "word": "2025中国广播电视精品创作大会",
-      "onboard_time": 1761616880,
-      "rank": 2,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 29644,
@@ -91169,14 +91297,6 @@
       "onboard_time": 1760536642,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14397,
-      "num": 163798,
-      "word": "起底毒营养土产业链",
-      "onboard_time": 1761622167,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14384,

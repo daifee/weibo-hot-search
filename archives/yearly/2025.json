@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1761622284919,
+  "endTime": 1761623704164,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12597565,
+      "num": 12597565,
+      "word": "欢喜哥许绍雄逝世",
+      "onboard_time": 1761621144,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12520060,
       "num": 12520060,
       "word": "西贝道歉",
@@ -855,14 +863,6 @@
       "num": 12026031,
       "word": "鹿晗工作室",
       "onboard_time": 1745080294,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 11992405,
-      "num": 11992405,
-      "word": "欢喜哥许绍雄逝世",
-      "onboard_time": 1761621144,
       "rank": 0,
       "category": "艺人"
     },

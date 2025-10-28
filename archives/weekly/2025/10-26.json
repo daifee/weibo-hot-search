@@ -1,10 +1,10 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761622284919,
+  "endTime": 1761623704164,
   "band_list": [
     {
-      "raw_hot": 11992405,
-      "num": 11992405,
+      "raw_hot": 12597565,
+      "num": 12597565,
       "word": "欢喜哥许绍雄逝世",
       "onboard_time": 1761621144,
       "rank": 0,
@@ -417,6 +417,14 @@
       "onboard_time": 1761454460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767243,
+      "num": 274156,
+      "word": "新闻女王2",
+      "onboard_time": 1761621687,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 760140,
@@ -923,6 +931,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 516591,
+      "num": 516591,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516093,
       "num": 360661,
       "word": "王建国 爱奇艺副总裁小红",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1761494000,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448456,
+      "num": 209851,
+      "word": "佘诗曼 文慧心回来了",
+      "onboard_time": 1761622706,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 445018,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1761573263,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381911,
+      "num": 205297,
+      "word": "林峯双手合十眉头紧皱",
+      "onboard_time": 1761621322,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 381669,
@@ -1555,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304251,
-      "num": 205297,
-      "word": "林峯双手合十眉头紧皱",
-      "onboard_time": 1761621322,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303168,
       "num": 226614,
       "word": "田曦薇 好多漂亮女孩和男人",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1761575602,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 280803,
-      "num": 280803,
-      "word": "发现台独线索可举报",
-      "onboard_time": 1761617719,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279890,
@@ -1931,14 +1947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 241332,
-      "num": 208887,
-      "word": "新闻女王2",
-      "onboard_time": 1761621687,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240362,
       "num": 240362,
       "word": "千灯之约",
@@ -2083,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228447,
+      "num": 199853,
+      "word": "外国母亲看到儿子文身当场崩溃",
+      "onboard_time": 1761620359,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 227972,
       "num": 227972,
       "word": "普京宣布核动力巡航导弹测试完成",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1761534742,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 223314,
+      "num": 203133,
+      "word": "沙溢佟丽娅是邻居",
+      "onboard_time": 1761620300,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 222087,
@@ -2145,6 +2169,14 @@
       "onboard_time": 1761576741,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 216663,
+      "num": 216663,
+      "word": "打击低俗团播引诱打赏",
+      "onboard_time": 1761615380,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216571,
@@ -2257,14 +2289,6 @@
       "onboard_time": 1761472520,
       "rank": 23,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 210253,
-      "num": 210253,
-      "word": "打击低俗团播引诱打赏",
-      "onboard_time": 1761615380,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210155,
@@ -2395,14 +2419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 203133,
-      "num": 203133,
-      "word": "沙溢佟丽娅是邻居",
-      "onboard_time": 1761620300,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201380,
       "num": 201380,
       "word": "今年最想要的羽绒服出现了",
@@ -2419,6 +2435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200600,
+      "num": 183478,
+      "word": "吴谨言陈哲远江山为聘片花",
+      "onboard_time": 1761623186,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200530,
       "num": 138874,
       "word": "奥黛丽赫本之子在苏州胜诉",
@@ -2432,6 +2456,14 @@
       "word": "宝贝双C",
       "onboard_time": 1761481582,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "Bin谈下赛季规划",
+      "onboard_time": 1761622468,
+      "rank": 7,
       "category": "电竞"
     },
     {
@@ -2457,14 +2489,6 @@
       "onboard_time": 1761546501,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199853,
-      "num": 199853,
-      "word": "外国母亲看到儿子文身当场崩溃",
-      "onboard_time": 1761620359,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 198982,
@@ -2779,6 +2803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 183730,
+      "num": 209679,
+      "word": "对台独顽固分子沈伯洋立案侦查",
+      "onboard_time": 1761618081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183414,
       "num": 142032,
       "word": "孟佳怎么越穿越大胆",
@@ -2923,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176308,
+      "num": 176308,
+      "word": "欢喜哥",
+      "onboard_time": 1761622404,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176296,
       "num": 176296,
       "word": "胡歌吴磊同日官宣主演古装剧",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1761447860,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174040,
+      "num": 174040,
+      "word": "惠英红悼念许绍雄",
+      "onboard_time": 1761623485,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 173738,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1761536901,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "杨幂ELLE盛典第一个登岛",
+      "onboard_time": 1761623366,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 168259,
@@ -3443,6 +3499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158574,
+      "num": 158574,
+      "word": "开拓者vs湖人",
+      "onboard_time": 1761618439,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -3513,6 +3577,14 @@
       "onboard_time": 1761488243,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155734,
+      "num": 155734,
+      "word": "英语真的可以速成",
+      "onboard_time": 1761621506,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 155573,
@@ -3691,20 +3763,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151505,
+      "num": 151505,
+      "word": "王安宇眼睛一转我就知道大事不好了",
+      "onboard_time": 1761622586,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151080,
       "num": 151080,
       "word": "邓紫棋裤子开了",
       "onboard_time": 1761483501,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150824,
-      "num": 209679,
-      "word": "对台独顽固分子沈伯洋立案侦查",
-      "onboard_time": 1761618081,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150715,
@@ -3841,14 +3913,6 @@
       "onboard_time": 1761462140,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146565,
-      "num": 146565,
-      "word": "英语真的可以速成",
-      "onboard_time": 1761621506,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 146534,
@@ -4233,6 +4297,14 @@
       "onboard_time": 1761448040,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135080,
+      "num": 183441,
+      "word": "国台办回应台独被立案",
+      "onboard_time": 1761623366,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135017,
@@ -4651,14 +4723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128168,
-      "num": 128168,
-      "word": "开拓者vs湖人",
-      "onboard_time": 1761618439,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "女生称卖黄金被套路杀价200元1克",
@@ -4779,6 +4843,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125769,
+      "num": 125769,
+      "word": "厂家称二三十年不粘不锈铁锅已停产",
+      "onboard_time": 1761622586,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125704,
+      "num": 125704,
+      "word": "猜词的是王安宇自闭的是白敬亭",
+      "onboard_time": 1761622948,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125642,
       "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
@@ -4827,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "当事人回应孩子被店员提醒别摸蛋糕",
+      "onboard_time": 1761623427,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124305,
       "num": 143920,
       "word": "锦月令开播",
@@ -4872,6 +4960,14 @@
       "word": "张维伊在古装单开一桌",
       "onboard_time": 1761454760,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123652,
+      "num": 123652,
+      "word": "圆桌派8豆瓣开分9.3",
+      "onboard_time": 1761623604,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -5091,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119178,
+      "num": 119178,
+      "word": "耀眼",
+      "onboard_time": 1761623666,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119072,
       "num": 119072,
       "word": "印度承认中国PL15E是款好武器",
@@ -5121,6 +5225,14 @@
       "onboard_time": 1761474680,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117628,
+      "num": 117628,
+      "word": "老外求助中国网友帮买冬奥周边",
+      "onboard_time": 1761622468,
+      "rank": 48,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 117519,
@@ -6139,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96608,
+      "num": 206238,
+      "word": "范丞丞用AQ反向管爸妈健康",
+      "onboard_time": 1761620660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96483,
       "num": 118429,
       "word": "前阿里高管担任山姆中国总裁",
@@ -7019,14 +7139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70126,
-      "num": 206238,
-      "word": "范丞丞用AQ反向管爸妈健康",
-      "onboard_time": 1761620660,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70019,
       "num": 127751,
       "word": "网传微博视界大会嘉宾名单",
@@ -7667,6 +7779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43962,
+      "num": 142501,
+      "word": "永辉 穿越豆腐",
+      "onboard_time": 1761622948,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43882,
       "num": 43882,
       "word": "科考人员发现1400年前人类活动遗迹",
@@ -7753,6 +7873,14 @@
       "onboard_time": 1761402082,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38753,
+      "num": 183121,
+      "word": "起底毒营养土产业链",
+      "onboard_time": 1761622167,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37580,
@@ -7843,6 +7971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31816,
+      "num": 290873,
+      "word": "2025中国广播电视精品创作大会",
+      "onboard_time": 1761616880,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 31515,
       "num": 42819,
       "word": "王权富贵好温柔",
@@ -7913,14 +8049,6 @@
       "onboard_time": 1761488302,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 29732,
-      "num": 283299,
-      "word": "2025中国广播电视精品创作大会",
-      "onboard_time": 1761616880,
-      "rank": 2,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 29192,
@@ -8225,14 +8353,6 @@
       "onboard_time": 1761506053,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14397,
-      "num": 163798,
-      "word": "起底毒营养土产业链",
-      "onboard_time": 1761622167,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14372,
