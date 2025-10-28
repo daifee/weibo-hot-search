@@ -1,0 +1,410 @@
+{
+  "runTime": 1761687567860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 142787,
+        "num": 193002,
+        "word": "女子想为亡夫再生一个孩子遭拒",
+        "onboard_time": 1761677773,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105570,
+        "num": 105570,
+        "word": "宝宝巴士 低俗广告",
+        "onboard_time": 1761666740,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4432,
+        "num": 88643,
+        "word": "网络安全法完成修改",
+        "onboard_time": 1761637701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81561,
+        "num": 81561,
+        "word": "大批轰6K贴近台湾岛",
+        "onboard_time": 1761663442,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53682,
+        "num": 53682,
+        "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
+        "onboard_time": 1761665481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50252,
+        "num": 50252,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46099,
+        "num": 46099,
+        "word": "重阳久久安康",
+        "onboard_time": 1761669077,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44506,
+        "num": 44506,
+        "word": "男子住酒店自带床单被罩全隔离",
+        "onboard_time": 1761665721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36101,
+        "num": 36101,
+        "word": "推进祖国统一大业",
+        "onboard_time": 1761670098,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31433,
+        "num": 31433,
+        "word": "ELLE晚宴",
+        "onboard_time": 1761655401,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 61391,
+        "num": 31230,
+        "word": "王耀庆对钟楚曦贴脸开大",
+        "onboard_time": 1761652462,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56235,
+        "num": 31014,
+        "word": "女子用筋膜枪按摩眼睛突发白内障",
+        "onboard_time": 1761670038,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40641,
+        "num": 30702,
+        "word": "徐冬冬尹子维吵架原因",
+        "onboard_time": 1761673695,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39060,
+        "num": 30173,
+        "word": "小鱼海棠婚礼现场",
+        "onboard_time": 1761656061,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30027,
+        "num": 30027,
+        "word": "网约房乱象谁来管",
+        "onboard_time": 1761669557,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 29497,
+        "word": "张馨予化妆师火了",
+        "onboard_time": 1761671356,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35728,
+        "num": 28590,
+        "word": "许绍雄73岁只身一人录节目",
+        "onboard_time": 1761678314,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27137,
+        "num": 27137,
+        "word": "许绍雄岳家捐赠了岭南四大园林之首",
+        "onboard_time": 1761651262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26073,
+        "num": 26073,
+        "word": "张馨予出场秒了",
+        "onboard_time": 1761656362,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 25089,
+        "word": "云合",
+        "onboard_time": 1761674236,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35381,
+        "num": 25071,
+        "word": "3unshine组合十年变化太大了",
+        "onboard_time": 1761665780,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 25062,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24894,
+        "num": 24894,
+        "word": "每天练背8分钟是回报率最高的运动",
+        "onboard_time": 1761663201,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 22303,
+        "num": 22303,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20598,
+        "num": 20598,
+        "word": "宝宝巴士客服回应APP跳转成人广告",
+        "onboard_time": 1761669139,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20453,
+        "num": 20453,
+        "word": "惠州一路边小货车被指装过亿现金",
+        "onboard_time": 1761664462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 18552,
+        "word": "近8成适老化用品被年轻人买走",
+        "onboard_time": 1761665602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 18356,
+        "word": "黄金下跌要持续多久",
+        "onboard_time": 1761662121,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18101,
+        "num": 18101,
+        "word": "关晓彤第二套好辣",
+        "onboard_time": 1761652642,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15128,
+        "num": 17003,
+        "word": "W盛典 赢麻了",
+        "onboard_time": 1761657921,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16984,
+        "num": 16984,
+        "word": "日本企业争相投资给美国搞基建",
+        "onboard_time": 1761686953,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15833,
+        "num": 15833,
+        "word": "多地出现假彩票兑奖事件",
+        "onboard_time": 1761655823,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15293,
+        "num": 15293,
+        "word": "韩国人不睡觉的一天",
+        "onboard_time": 1761679154,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15248,
+        "num": 15248,
+        "word": "看檀健次请保持苹果肌扁平",
+        "onboard_time": 1761667521,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14628,
+        "num": 14628,
+        "word": "金价回调原因",
+        "onboard_time": 1761662063,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14414,
+        "num": 14628,
+        "word": "美国小哥被中国外卖柜震惊",
+        "onboard_time": 1761658101,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13932,
+        "num": 14627,
+        "word": "网红罗大美遇害案三被告均上诉",
+        "onboard_time": 1761667039,
+        "rank": 36,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 13892,
+        "num": 14627,
+        "word": "爱到最后全凭良心的含金量有多高",
+        "onboard_time": 1761685154,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13754,
+        "num": 14627,
+        "word": "宁绣绣封二又相聚了",
+        "onboard_time": 1761682874,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13511,
+        "num": 14627,
+        "word": "切尔诺贝利蓝色狗或接触了化学物质",
+        "onboard_time": 1761684133,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12984,
+        "num": 14627,
+        "word": "济南市民排百米长队买奶皮子糖葫芦",
+        "onboard_time": 1761679094,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12772,
+        "num": 14627,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12622,
+        "num": 14627,
+        "word": "白鹿跑男新疆要染限定发色",
+        "onboard_time": 1761657863,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12573,
+        "num": 14627,
+        "word": "王者虐待五旬老人",
+        "onboard_time": 1761686654,
+        "rank": 43,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 12553,
+        "num": 14627,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12272,
+        "num": 14627,
+        "word": "李沁好像一朵蝴蝶兰",
+        "onboard_time": 1761657742,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12173,
+        "num": 14627,
+        "word": "全运会赛场浪漫求婚",
+        "onboard_time": 1761667339,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11942,
+        "num": 14627,
+        "word": "米卡 我真的穿了",
+        "onboard_time": 1761665002,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11784,
+        "num": 14627,
+        "word": "安倍遇刺案明年1月宣判",
+        "onboard_time": 1761681734,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11683,
+        "num": 14627,
+        "word": "杨幂没走红毯",
+        "onboard_time": 1761652763,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五规划建议发布#"
+    }
+  }
+}

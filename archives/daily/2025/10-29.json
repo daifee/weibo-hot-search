@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761686655769,
+  "endTime": 1761687567860,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142787,
+      "num": 193002,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140476,
       "num": 140476,
       "word": "关晓彤第二套好辣",
@@ -152,14 +160,6 @@
       "word": "近8成适老化用品被年轻人买走",
       "onboard_time": 1761665602,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127463,
-      "num": 138636,
-      "word": "女子想为亡夫再生一个孩子遭拒",
-      "onboard_time": 1761677773,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -443,20 +443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35728,
+      "num": 30267,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34241,
       "num": 37351,
       "word": "看檀健次请保持苹果肌扁平",
       "onboard_time": 1761667521,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 32239,
-      "num": 30267,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 31526,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16984,
+      "num": 16984,
+      "word": "日本企业争相投资给美国搞基建",
+      "onboard_time": 1761686953,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16682,
       "num": 24705,
       "word": "吴昕ELLE红毯造型",
@@ -555,23 +563,31 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 13892,
+      "num": 14627,
+      "word": "爱到最后全凭良心的含金量有多高",
+      "onboard_time": 1761685154,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13852,
-      "num": 14409,
+      "num": 14627,
       "word": "切尔诺贝利蓝色狗或接触了化学物质",
       "onboard_time": 1761684133,
       "rank": 47,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13349,
-      "num": 14551,
+      "raw_hot": 13754,
+      "num": 14627,
       "word": "宁绣绣封二又相聚了",
       "onboard_time": 1761682874,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 12918,
+      "raw_hot": 12984,
       "num": 19100,
       "word": "济南市民排百米长队买奶皮子糖葫芦",
       "onboard_time": 1761679094,
@@ -579,20 +595,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12573,
+      "num": 14627,
+      "word": "王者虐待五旬老人",
+      "onboard_time": 1761686654,
+      "rank": 43,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 12110,
-      "num": 14552,
+      "num": 14627,
       "word": "安倍遇刺案明年1月宣判",
       "onboard_time": 1761681734,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 11771,
-      "num": 13782,
-      "word": "爱到最后全凭良心的含金量有多高",
-      "onboard_time": 1761685154,
-      "rank": 42,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
