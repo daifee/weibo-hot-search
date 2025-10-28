@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 20:53:18
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 21:07:42
 </p>
 </blockquote>
 <p>
@@ -4347,6 +4347,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
+特朗普1分钟内两次无视高市早苗（热度：712384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B5%E9%9B%A8%E8%BD%A9%20%E5%A4%8D%E6%97%A6%E5%AD%A6%E5%AD%90%E6%9D%A5%E4%B9%9F%23" target="weibo">
 邵雨轩 复旦学子来也（热度：712303）
 </a>
@@ -4631,12 +4637,6 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
 印度人深圳地铁吃手抓饭（热度：690307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
-特朗普1分钟内两次无视高市早苗（热度：687862）
 </a>
 </li>
 
@@ -5061,6 +5061,12 @@ vivo X300价格（热度：660203）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+吃柚子的第一批受害者出现了（热度：655674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%AD%94%E5%BA%94%E6%88%91%E5%88%AB%E5%BC%80%E7%BE%8E%E9%A2%9C%E4%BA%86%E5%A5%BD%E5%90%97%23" target="weibo">
 鸡排哥答应我别开美颜了好吗（热度：655592）
 </a>
@@ -5171,6 +5177,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E6%89%9B%E5%89%A7%23" target="weibo">
 成毅 扛剧（热度：646444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E6%99%9A%E5%AE%B4%23" target="weibo">
+ELLE晚宴（热度：645298）
 </a>
 </li>
 
@@ -5793,6 +5805,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E8%A6%81%E6%8B%8D%E5%9B%A2%E7%BB%BC%E4%BA%86%23" target="weibo">
+花少要拍团综了（热度：602566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
 北京下雪了（热度：601734）
 </a>
@@ -5993,24 +6011,6 @@ A股太强了（热度：593831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%BE%97%E7%9F%A5%E5%8E%9F%E5%AD%90%E5%BC%B9%E6%B2%A1%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%8F%82%E5%8A%A0%E5%93%AD%E4%BA%86%23" target="weibo">
 杨振宁得知原子弹没美国人参加哭了（热度：590716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AA%81%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
-俄罗斯自杀式无人机突袭乌克兰（热度：590539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Doinb%E6%80%92%E5%96%B7TheShy%23" target="weibo">
-Doinb怒喷TheShy（热度：590180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87%23" target="weibo">
-官方通报2人破坏为人民服务航标（热度：590001）
 </a>
 </li>
 
