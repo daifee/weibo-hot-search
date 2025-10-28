@@ -1,0 +1,410 @@
+{
+  "runTime": 1761651444731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948714,
+        "num": 1151794,
+        "word": "张馨予 红毯定海神针",
+        "onboard_time": 1761646402,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 833201,
+        "num": 833201,
+        "word": "Peanut燃尽了",
+        "onboard_time": 1761649462,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24231,
+        "num": 710829,
+        "word": "第一观察",
+        "onboard_time": 1761644721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596221,
+        "num": 596221,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461644,
+        "num": 461644,
+        "word": "蔡天凤碎尸案进展",
+        "onboard_time": 1761646763,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437800,
+        "num": 437800,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567231,
+        "num": 437554,
+        "word": "ELLE红毯",
+        "onboard_time": 1761638421,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 436958,
+        "num": 436958,
+        "word": "李宇春ELLE红毯压轴",
+        "onboard_time": 1761648682,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 415212,
+        "num": 415212,
+        "word": "再见小花生",
+        "onboard_time": 1761649882,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413457,
+        "num": 413457,
+        "word": "奶皮子糖葫芦卖到40元一串",
+        "onboard_time": 1761642862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021795,
+        "num": 410968,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609855,
+        "num": 400299,
+        "word": "李沁工作室 摄影有待提高",
+        "onboard_time": 1761645862,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 763730,
+        "num": 392421,
+        "word": "沈佳润红毯走过头了",
+        "onboard_time": 1761646402,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 481025,
+        "num": 384712,
+        "word": "鹿晗吃面上大众点评了",
+        "onboard_time": 1761645442,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383588,
+        "num": 383588,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376186,
+        "num": 376186,
+        "word": "十五五规划建议发布",
+        "onboard_time": 1761643162,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 370081,
+        "num": 370081,
+        "word": "我们来了3回归",
+        "onboard_time": 1761642502,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153906,
+        "num": 345607,
+        "word": "GEN晋级S15四强",
+        "onboard_time": 1761649763,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 339416,
+        "num": 339416,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315349,
+        "num": 315349,
+        "word": "关晓彤造型正常了",
+        "onboard_time": 1761651382,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 489146,
+        "num": 310676,
+        "word": "李维嘉回归湖南卫视",
+        "onboard_time": 1761641962,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339661,
+        "num": 280241,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55235,
+        "num": 259388,
+        "word": "阿维塔12十二项同级独享",
+        "onboard_time": 1761645982,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243435,
+        "num": 243435,
+        "word": "GEN战胜HLE",
+        "onboard_time": 1761649522,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230294,
+        "num": 230294,
+        "word": "米卡穿了吗",
+        "onboard_time": 1761647482,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226030,
+        "num": 226030,
+        "word": "李维嘉回归舞台与何炅相拥而泣",
+        "onboard_time": 1761643462,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212861,
+        "num": 212861,
+        "word": "宁艺卓 好会吹的风",
+        "onboard_time": 1761648382,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203479,
+        "num": 203479,
+        "word": "钟楚曦ELLE红毯状态",
+        "onboard_time": 1761651382,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 199149,
+        "word": "迅猛龙ELLE红毯",
+        "onboard_time": 1761647422,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156864,
+        "num": 196989,
+        "word": "特朗普略过日本国旗",
+        "onboard_time": 1761637762,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262937,
+        "num": 196986,
+        "word": "方圆好美",
+        "onboard_time": 1761643880,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196904,
+        "num": 196904,
+        "word": "特朗普1分钟内两次无视高市早苗",
+        "onboard_time": 1761646282,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179003,
+        "num": 179003,
+        "word": "小米集团高层调整",
+        "onboard_time": 1761647303,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178793,
+        "num": 178793,
+        "word": "Viper全场零失误",
+        "onboard_time": 1761645982,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174050,
+        "num": 174050,
+        "word": "张艺凡镜头下得多瘦",
+        "onboard_time": 1761648441,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159340,
+        "num": 159340,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150062,
+        "num": 150062,
+        "word": "许绍雄岳家捐赠了岭南四大园林之首",
+        "onboard_time": 1761651262,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26694,
+        "num": 149068,
+        "word": "谁家专门为了宠粉办个演唱会",
+        "onboard_time": 1761649642,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33779,
+        "num": 148816,
+        "word": "国外经济学家评全球五大未来城市",
+        "onboard_time": 1761651262,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93352,
+        "num": 148799,
+        "word": "藏海传你的受众有点狠了",
+        "onboard_time": 1761650842,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 148794,
+        "num": 148794,
+        "word": "张婧仪香槟粉鱼尾裙",
+        "onboard_time": 1761648082,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148540,
+        "num": 148540,
+        "word": "深圳机场监控公关",
+        "onboard_time": 1761649162,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33370,
+        "num": 139033,
+        "word": "阿维塔线下门店首挂华为标识",
+        "onboard_time": 1761647783,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94733,
+        "num": 133887,
+        "word": "俄乌战争给中国的启示",
+        "onboard_time": 1761650063,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130616,
+        "num": 130616,
+        "word": "致14岁男生瘫痪女生父母均为残疾人",
+        "onboard_time": 1761645621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 130261,
+        "word": "京东回应罚款美的500万",
+        "onboard_time": 1761651023,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121660,
+        "num": 121660,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "音乐缘计划首次七人成团",
+        "onboard_time": 1761650241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118740,
+        "num": 118740,
+        "word": "宁艺卓好辣",
+        "onboard_time": 1761641121,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五规划建议说明#"
+    }
+  }
+}

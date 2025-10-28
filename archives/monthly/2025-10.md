@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 19:22:25
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 19:37:24
 </p>
 </blockquote>
 <p>
@@ -2535,6 +2535,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BA%A2%E6%AF%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23" target="weibo">
+张馨予 红毯定海神针（热度：948714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川芦山4.7级地震（热度：947840）
 </a>
@@ -3255,6 +3261,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Peanut%E7%87%83%E5%B0%BD%E4%BA%86%23" target="weibo">
+Peanut燃尽了（热度：833201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%AE%80%E7%9B%B4%E6%AE%8B%E5%BF%8D%E5%88%B0%E6%B2%A1%E4%BA%BA%E6%80%A7%23" target="weibo">
 缅北魏家简直残忍到没人性（热度：832476）
 </a>
@@ -3897,6 +3909,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E7%BA%A2%E6%AF%AF%E8%B5%B0%E8%BF%87%E5%A4%B4%E4%BA%86%23" target="weibo">
+沈佳润红毯走过头了（热度：763730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%8B%89%E6%8B%89%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A%23" target="weibo">
 克拉拉官宣离婚（热度：763573）
 </a>
@@ -4341,12 +4359,6 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Peanut%E7%87%83%E5%B0%BD%E4%BA%86%23" target="weibo">
-Peanut燃尽了（热度：710056）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E5%89%A7%E6%90%AD%E6%A1%A3%E9%99%88%E6%98%8A%E6%A3%AE%23" target="weibo">
 迪丽热巴新剧搭档陈昊森（热度：709833）
 </a>
@@ -4775,12 +4787,6 @@ TES抽中BLG（热度：681512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8C%82%E8%87%AA%E6%9B%9D%E5%9C%A8%E5%BC%A6%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E6%B1%82%E5%A9%9A%23" target="weibo">
 李茂自曝在弦子洗澡时求婚（热度：677765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BA%A2%E6%AF%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23" target="weibo">
-张馨予 红毯定海神针（热度：677574）
 </a>
 </li>
 
@@ -5579,12 +5585,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E5%90%91%E9%B9%8F%23" target="weibo">
 王楚钦4比3向鹏（热度：616055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E7%BA%A2%E6%AF%AF%E8%B5%B0%E8%BF%87%E5%A4%B4%E4%BA%86%23" target="weibo">
-沈佳润红毯走过头了（热度：615832）
 </a>
 </li>
 
