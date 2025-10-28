@@ -1,0 +1,410 @@
+{
+  "runTime": 1761629230029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5544295,
+        "num": 5544295,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386487,
+        "num": 386487,
+        "word": "发现台独线索可举报",
+        "onboard_time": 1761617719,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4834,
+        "num": 384084,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1699534,
+        "num": 382138,
+        "word": "黎芷珊 许绍雄",
+        "onboard_time": 1761626065,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567529,
+        "num": 377238,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 168173,
+        "num": 371328,
+        "word": "ShowMaker带队友到上海看S15",
+        "onboard_time": 1761624204,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 548315,
+        "num": 368976,
+        "word": "佘诗曼 文慧心回来了",
+        "onboard_time": 1761622706,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 365138,
+        "word": "4点证明台独是死路",
+        "onboard_time": 1761625106,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112991,
+        "num": 360343,
+        "word": "光遇",
+        "onboard_time": 1761624385,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99742,
+        "num": 355138,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651894,
+        "num": 350536,
+        "word": "郭宇欣以后不会再演短剧了",
+        "onboard_time": 1761626842,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482940,
+        "num": 346584,
+        "word": "男生没认出订婚当天打扮漂亮的女友",
+        "onboard_time": 1761625465,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346384,
+        "num": 346384,
+        "word": "阳光型抑郁",
+        "onboard_time": 1761618320,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335169,
+        "num": 335169,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308512,
+        "num": 308512,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294191,
+        "num": 294191,
+        "word": "尹子维徐冬冬怎么了",
+        "onboard_time": 1761624086,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226317,
+        "num": 226317,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 16,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 225497,
+        "num": 225497,
+        "word": "许绍雄从未透露自己患癌",
+        "onboard_time": 1761624265,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184256,
+        "num": 224985,
+        "word": "TVB今年去世的艺人",
+        "onboard_time": 1761627624,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36220,
+        "num": 222816,
+        "word": "喜人伙食好起来了",
+        "onboard_time": 1761627985,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419130,
+        "num": 221693,
+        "word": "切尔诺贝利核电站附近出现蓝色狗",
+        "onboard_time": 1761615438,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75832,
+        "num": 221409,
+        "word": "女童被水泥杆砸死40天父亲发声",
+        "onboard_time": 1761627921,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403138,
+        "num": 219119,
+        "word": "陈伟霆 传新iPhone要一天多",
+        "onboard_time": 1761625526,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218789,
+        "num": 218789,
+        "word": "早餐就要这样发朋友圈",
+        "onboard_time": 1761628162,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 201024,
+        "word": "高圆圆化三次妆但只用卸一次",
+        "onboard_time": 1761627323,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174334,
+        "num": 174334,
+        "word": "王一博 马达加斯加企鹅",
+        "onboard_time": 1761625705,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165186,
+        "num": 165186,
+        "word": "惠英红悼念许绍雄",
+        "onboard_time": 1761623485,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52764,
+        "num": 154990,
+        "word": "男性身体的求救信号别忽略了",
+        "onboard_time": 1761628942,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153932,
+        "num": 153932,
+        "word": "老外求助中国网友帮买冬奥周边",
+        "onboard_time": 1761622468,
+        "rank": 28,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 134701,
+        "num": 152363,
+        "word": "杨瀚森NBA得分超越孙悦",
+        "onboard_time": 1761626784,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171994,
+        "num": 152220,
+        "word": "蒋欣 毕竟上了年纪",
+        "onboard_time": 1761625345,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171685,
+        "num": 152014,
+        "word": "刘宇宁怼不过的女人出现了",
+        "onboard_time": 1761627862,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151694,
+        "num": 151694,
+        "word": "柚子要摔一下才好吃",
+        "onboard_time": 1761623786,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 148967,
+        "word": "沙溢佟丽娅是邻居",
+        "onboard_time": 1761620300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140493,
+        "num": 140493,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136186,
+        "num": 136186,
+        "word": "喜欢吴磊的又爽了吧",
+        "onboard_time": 1761628702,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95871,
+        "num": 134728,
+        "word": "斗罗大陆动画10月美图",
+        "onboard_time": 1761628162,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 101369,
+        "num": 134114,
+        "word": "杨瀚森懊恼摇头",
+        "onboard_time": 1761628702,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 131378,
+        "word": "刘冲比吴刚还像陈萍萍",
+        "onboard_time": 1761629062,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94647,
+        "num": 129539,
+        "word": "bin回应showmaker名言",
+        "onboard_time": 1761628942,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129376,
+        "num": 129376,
+        "word": "佘诗曼黄宗泽同事20年首次合作",
+        "onboard_time": 1761624506,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129121,
+        "num": 129121,
+        "word": "耀眼",
+        "onboard_time": 1761623666,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128203,
+        "num": 128203,
+        "word": "星穹铁道千星纪游PV",
+        "onboard_time": 1761627921,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 124133,
+        "word": "英语真的可以速成",
+        "onboard_time": 1761621506,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122927,
+        "num": 122927,
+        "word": "清融风度Young生日封",
+        "onboard_time": 1761629062,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63738,
+        "num": 121769,
+        "word": "Doinb预测GEN打HLE",
+        "onboard_time": 1761627743,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120768,
+        "num": 120768,
+        "word": "彭小苒哭成了肿眼泡",
+        "onboard_time": 1761626725,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120719,
+        "num": 120719,
+        "word": "分手1年复合后狗狗的反应",
+        "onboard_time": 1761615020,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90689,
+        "num": 116123,
+        "word": "张继科晒樊振东亲签球拍",
+        "onboard_time": 1761628104,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79776,
+        "num": 115791,
+        "word": "广州已成大湾鸡痛城",
+        "onboard_time": 1761624864,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    }
+  }
+}
