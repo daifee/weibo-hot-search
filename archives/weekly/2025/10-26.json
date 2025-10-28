@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761683453772,
+  "endTime": 1761684213414,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -10499,20 +10499,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 32239,
+      "num": 30267,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32049,
       "num": 191094,
       "word": "手机突然黑屏恢复后49万存款被转走",
       "onboard_time": 1761482000,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31992,
-      "num": 30267,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 31864,
@@ -11185,6 +11185,14 @@
       "onboard_time": 1761425474,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10857,
+      "num": 14409,
+      "word": "切尔诺贝利蓝色狗或接触了化学物质",
+      "onboard_time": 1761684133,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10378,

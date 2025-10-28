@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761683453772,
+  "endTime": 1761684213414,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -90371,6 +90371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32239,
+      "num": 30267,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32169,
       "num": 53664,
       "word": "记者2年前照片里的城市消失了",
@@ -90425,14 +90433,6 @@
       "onboard_time": 1760969902,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31992,
-      "num": 30267,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 31990,
@@ -94545,6 +94545,14 @@
       "onboard_time": 1760860880,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10857,
+      "num": 14409,
+      "word": "切尔诺贝利蓝色狗或接触了化学物质",
+      "onboard_time": 1761684133,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10850,

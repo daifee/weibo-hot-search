@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/29 04:30:53
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/29 04:43:33
 </p>
 </blockquote>
 <p>
@@ -7887,14 +7887,14 @@ GEN对战HLE数据前瞻（热度：39410）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E9%BB%91%E5%B1%8F%E6%81%A2%E5%A4%8D%E5%90%8E49%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0%23" target="weibo">
-手机突然黑屏恢复后49万存款被转走（热度：32049）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%8473%E5%B2%81%E5%8F%AA%E8%BA%AB%E4%B8%80%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%23" target="weibo">
+许绍雄73岁只身一人录节目（热度：32239）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%8473%E5%B2%81%E5%8F%AA%E8%BA%AB%E4%B8%80%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%23" target="weibo">
-许绍雄73岁只身一人录节目（热度：31992）
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%AA%81%E7%84%B6%E9%BB%91%E5%B1%8F%E6%81%A2%E5%A4%8D%E5%90%8E49%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0%23" target="weibo">
+手机突然黑屏恢复后49万存款被转走（热度：32049）
 </a>
 </li>
 
@@ -8399,6 +8399,12 @@ Beichuan掩面ELK捂鼻（热度：13956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2375%E7%A7%92%E5%9B%9E%E7%9C%8B75%E5%B9%B4%E5%89%8D%23" target="weibo">
 75秒回看75年前（热度：11446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E8%93%9D%E8%89%B2%E7%8B%97%E6%88%96%E6%8E%A5%E8%A7%A6%E4%BA%86%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%23" target="weibo">
+切尔诺贝利蓝色狗或接触了化学物质（热度：10857）
 </a>
 </li>
 

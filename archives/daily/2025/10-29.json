@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761683453772,
+  "endTime": 1761684213414,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -451,7 +451,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 31992,
+      "raw_hot": 32239,
       "num": 30267,
       "word": "许绍雄73岁只身一人录节目",
       "onboard_time": 1761678314,
@@ -577,6 +577,14 @@
       "onboard_time": 1761682874,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10857,
+      "num": 14409,
+      "word": "切尔诺贝利蓝色狗或接触了化学物质",
+      "onboard_time": 1761684133,
+      "rank": 47,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

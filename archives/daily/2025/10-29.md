@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/29 00:35:26 ~ 2025/10/29 04:30:53
+本榜单时间：2025/10/29 00:35:26 ~ 2025/10/29 04:43:33
 </p>
 </blockquote>
 <p>
@@ -352,7 +352,7 @@ TOP 洗剪吹男团（热度：61592）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%8473%E5%B2%81%E5%8F%AA%E8%BA%AB%E4%B8%80%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%23" target="weibo">
-许绍雄73岁只身一人录节目（热度：31992）
+许绍雄73岁只身一人录节目（热度：32239）
 </a>
 </li>
 
@@ -443,6 +443,12 @@ TOP 洗剪吹男团（热度：61592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E7%BB%A3%E7%BB%A3%E5%B0%81%E4%BA%8C%E5%8F%88%E7%9B%B8%E8%81%9A%E4%BA%86%23" target="weibo">
 宁绣绣封二又相聚了（热度：11781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E8%93%9D%E8%89%B2%E7%8B%97%E6%88%96%E6%8E%A5%E8%A7%A6%E4%BA%86%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%23" target="weibo">
+切尔诺贝利蓝色狗或接触了化学物质（热度：10857）
 </a>
 </li>
 
