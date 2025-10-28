@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761659332249,
+  "endTime": 1761661679852,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1223155,
+      "num": 1223155,
+      "word": "吃柚子的第一批受害者出现了",
+      "onboard_time": 1761650962,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1207721,
       "num": 275495,
       "word": "切尔诺贝利核电站附近出现蓝色狗",
@@ -209,14 +217,6 @@
       "onboard_time": 1761465800,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1186167,
-      "num": 1189786,
-      "word": "吃柚子的第一批受害者出现了",
-      "onboard_time": 1761650962,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1149391,
@@ -315,20 +315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992028,
+      "num": 992028,
+      "word": "ELLE晚宴",
+      "onboard_time": 1761655401,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 977264,
       "num": 351389,
       "word": "金价暴跌有大学生把生活费亏没了",
       "onboard_time": 1761476659,
       "rank": 39,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 970877,
-      "num": 970877,
-      "word": "ELLE晚宴",
-      "onboard_time": 1761655401,
-      "rank": 40,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 964561,
@@ -377,6 +377,14 @@
       "onboard_time": 1761526101,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 903982,
+      "num": 239920,
+      "word": "小鱼海棠婚礼现场",
+      "onboard_time": 1761656061,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 903957,
@@ -731,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 698925,
+      "num": 698925,
+      "word": "许绍雄岳家捐赠了岭南四大园林之首",
+      "onboard_time": 1761651262,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697119,
       "num": 684196,
       "word": "疯狂动物城2中文配音阵容",
@@ -745,14 +761,6 @@
       "onboard_time": 1761552621,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 687965,
-      "num": 239920,
-      "word": "小鱼海棠婚礼现场",
-      "onboard_time": 1761656061,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 687855,
@@ -777,6 +785,14 @@
       "onboard_time": 1761491481,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 675678,
+      "num": 675678,
+      "word": "W盛典 赢麻了",
+      "onboard_time": 1761657921,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 672993,
@@ -1547,22 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430229,
-      "num": 238053,
-      "word": "W盛典 赢麻了",
-      "onboard_time": 1761657921,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 429236,
-      "num": 343099,
-      "word": "许绍雄岳家捐赠了岭南四大园林之首",
-      "onboard_time": 1761651262,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426674,
       "num": 338751,
       "word": "关晓彤第二套好辣",
@@ -2051,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317630,
+      "num": 235083,
+      "word": "李沁好像一朵蝴蝶兰",
+      "onboard_time": 1761657742,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 317554,
       "num": 191721,
       "word": "杨幂教胡连馨上节目少说话多做事",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1761466821,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296589,
-      "num": 235083,
-      "word": "李沁好像一朵蝴蝶兰",
-      "onboard_time": 1761657742,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296064,
@@ -2372,7 +2372,7 @@
     },
     {
       "raw_hot": 270732,
-      "num": 204442,
+      "num": 207617,
       "word": "张馨予出场秒了",
       "onboard_time": 1761656362,
       "rank": 34,
@@ -2851,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222120,
+      "num": 222120,
+      "word": "多地出现假彩票兑奖事件",
+      "onboard_time": 1761655823,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222087,
       "num": 244644,
       "word": "迪丽热巴卫蓝打电话吵架戏",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1761539722,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219044,
+      "num": 219044,
+      "word": "TOP 洗剪吹男团",
+      "onboard_time": 1761658823,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219039,
@@ -3251,6 +3267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200425,
+      "num": 200425,
+      "word": "杨幂去了精品之夜",
+      "onboard_time": 1761660922,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200410,
       "num": 200410,
       "word": "小酒窝和佟丽娅演真母女了",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1761552921,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196984,
+      "num": 219682,
+      "word": "蔡文静吃仙人掌果把牙染红了",
+      "onboard_time": 1761659723,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196944,
@@ -3555,6 +3587,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 188132,
+      "num": 188132,
+      "word": "被毒蛇咬伤失联男子车辆已找到",
+      "onboard_time": 1761656422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187914,
       "num": 187914,
       "word": "逐玉",
@@ -3681,6 +3721,14 @@
       "onboard_time": 1761648082,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185685,
+      "num": 185685,
+      "word": "欧阳娣娣ELLE造型",
+      "onboard_time": 1761661282,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184959,
@@ -4059,6 +4107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172496,
+      "num": 172496,
+      "word": "美国小哥被中国外卖柜震惊",
+      "onboard_time": 1761658101,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172182,
       "num": 109111,
       "word": "老君山再现阴阳分界线",
@@ -4089,6 +4145,14 @@
       "onboard_time": 1761639561,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "别人穿是公主高伟光穿是主公",
+      "onboard_time": 1761659542,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171036,
@@ -4259,14 +4323,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 165801,
-      "num": 165801,
-      "word": "被毒蛇咬伤失联男子车辆已找到",
-      "onboard_time": 1761656422,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165697,
       "num": 165697,
       "word": "彭昱畅新剧招聘工资上不封顶",
@@ -4393,14 +4449,6 @@
       "onboard_time": 1761564682,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162748,
-      "num": 162748,
-      "word": "多地出现假彩票兑奖事件",
-      "onboard_time": 1761655823,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162560,
@@ -4745,6 +4793,14 @@
       "onboard_time": 1761643342,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155182,
+      "num": 155182,
+      "word": "王耀庆见到于适哇了两秒",
+      "onboard_time": 1761660742,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155141,
@@ -6155,14 +6211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129812,
-      "num": 129812,
-      "word": "美国小哥被中国外卖柜震惊",
-      "onboard_time": 1761658101,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129791,
       "num": 129791,
       "word": "星品影响力",
@@ -6785,6 +6833,14 @@
       "onboard_time": 1761476600,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118966,
+      "num": 203355,
+      "word": "20万内豪华插混唯一选择",
+      "onboard_time": 1761660381,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 118782,
@@ -7483,6 +7539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105941,
+      "num": 105941,
+      "word": "芒果登上了罗云熙的游戏账号",
+      "onboard_time": 1761660982,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105907,
       "num": 191574,
       "word": "刘宇宁演唱会上快哭了",
@@ -7761,6 +7825,14 @@
       "onboard_time": 1761471320,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100742,
+      "num": 100742,
+      "word": "宁艺卓文淇热聊",
+      "onboard_time": 1761660023,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100666,
@@ -9123,20 +9195,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 66376,
+      "num": 201947,
+      "word": "这么大一包薯片王鹤棣先笑纳了",
+      "onboard_time": 1761658702,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
       "onboard_time": 1761634821,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66156,
-      "num": 192628,
-      "word": "这么大一包薯片王鹤棣先笑纳了",
-      "onboard_time": 1761658702,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 66047,
@@ -9241,14 +9313,6 @@
       "onboard_time": 1761434957,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62559,
-      "num": 136430,
-      "word": "TOP 洗剪吹男团",
-      "onboard_time": 1761658823,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 62434,
@@ -9601,6 +9665,14 @@
       "onboard_time": 1761587775,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51442,
+      "num": 225452,
+      "word": "一台家人全票通过的车",
+      "onboard_time": 1761660441,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 51061,
@@ -10075,6 +10147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33839,
+      "num": 738288,
+      "word": "网络安全法完成修改",
+      "onboard_time": 1761637701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33779,
       "num": 148816,
       "word": "国外经济学家评全球五大未来城市",
@@ -10225,14 +10305,6 @@
       "onboard_time": 1761541583,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27683,
-      "num": 694495,
-      "word": "网络安全法完成修改",
-      "onboard_time": 1761637701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27650,

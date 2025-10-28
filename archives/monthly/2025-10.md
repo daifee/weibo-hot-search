@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 21:48:52
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 22:27:59
 </p>
 </blockquote>
 <p>
@@ -1335,6 +1335,12 @@ AL打T1（热度：1227982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+吃柚子的第一批受害者出现了（热度：1223155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A5%B3%E5%84%BF%E5%B1%85%E7%84%B6%E9%A9%AC%E4%B8%8A%E8%A6%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%E4%BA%86%23" target="weibo">
 刘涛女儿居然马上要读大学了（热度：1220104）
 </a>
@@ -1433,12 +1439,6 @@ AL打T1（热度：1227982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%20%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 将门毒后 王鹤棣（热度：1186750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-吃柚子的第一批受害者出现了（热度：1186167）
 </a>
 </li>
 
@@ -2319,6 +2319,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E6%99%9A%E5%AE%B4%23" target="weibo">
+ELLE晚宴（热度：992028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%AA%81%E7%84%B6%E8%87%AA%E5%B7%B1%E5%BC%80%E8%B5%B0%E4%BA%86%23" target="weibo">
 官方回应小米汽车突然自己开走了（热度：991833）
 </a>
@@ -2405,12 +2411,6 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9C%9F%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 郑恺苗苗真没把我们当外人（热度：974213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E6%99%9A%E5%AE%B4%23" target="weibo">
-ELLE晚宴（热度：970877）
 </a>
 </li>
 
@@ -2753,6 +2753,12 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%8F%96%E4%BB%A3QQ%23" target="weibo">
 一直没明白为什么微信能取代QQ（热度：910262）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
+小鱼海棠婚礼现场（热度：903982）
 </a>
 </li>
 
@@ -4515,6 +4521,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%E5%B2%B3%E5%AE%B6%E6%8D%90%E8%B5%A0%E4%BA%86%E5%B2%AD%E5%8D%97%E5%9B%9B%E5%A4%A7%E5%9B%AD%E6%9E%97%E4%B9%8B%E9%A6%96%23" target="weibo">
+许绍雄岳家捐赠了岭南四大园林之首（热度：698925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%95%BF%E8%BE%88%E4%B9%B0%E5%86%B0%E7%9A%AE%E6%9C%88%E9%A5%BC%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AF%B4%E6%98%8E%E5%90%83%E6%B3%95%23" target="weibo">
 给长辈买冰皮月饼一定要说明吃法（热度：698670）
 </a>
@@ -4649,12 +4661,6 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
 印度人深圳地铁吃手抓饭（热度：690307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
-小鱼海棠婚礼现场（热度：687965）
 </a>
 </li>
 
@@ -4841,6 +4847,12 @@ TES抽中BLG（热度：681512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E7%8F%B2%E6%98%A55.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 吉林珲春5.5级地震（热度：676704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23W%E7%9B%9B%E5%85%B8%20%E8%B5%A2%E9%BA%BB%E4%BA%86%23" target="weibo">
+W盛典 赢麻了（热度：675678）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ A股太强了（热度：593831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E7%A7%B0%E5%9C%A8%E6%90%9E%E6%8A%BD%E8%B1%A1%23" target="weibo">
 男子当街直播猥亵称在搞抽象（热度：591197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2025诺贝尔化学奖揭晓（热度：591131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E6%8A%8A%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%BD%93%E4%BC%97%E8%80%8D%E4%BA%86%23" target="weibo">
-特朗普又把英国首相当众耍了（热度：590754）
 </a>
 </li>
 
