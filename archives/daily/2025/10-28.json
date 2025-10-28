@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761625862113,
+  "endTime": 1761626694115,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1207721,
-      "num": 254683,
+      "num": 275495,
       "word": "切尔诺贝利核电站附近出现蓝色狗",
       "onboard_time": 1761615438,
       "rank": 12,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 904436,
+      "raw_hot": 964561,
       "num": 434975,
       "word": "佘诗曼 文慧心回来了",
       "onboard_time": 1761622706,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 723054,
-      "num": 254327,
+      "num": 275458,
       "word": "陈伟霆说自己是老钱风的代表",
       "onboard_time": 1761615679,
       "rank": 15,
@@ -112,6 +112,22 @@
       "word": "许绍雄从未透露自己患癌",
       "onboard_time": 1761624265,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 620358,
+      "num": 309373,
+      "word": "黎芷珊 许绍雄",
+      "onboard_time": 1761626065,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 599923,
+      "num": 289929,
+      "word": "陈伟霆 传新iPhone要一天多",
+      "onboard_time": 1761625526,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -147,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 559843,
+      "num": 348959,
+      "word": "女明星ELLE出图",
+      "onboard_time": 1761625644,
+      "rank": 15,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 491315,
       "num": 182912,
       "word": "杨幂 死嘴憋住",
@@ -160,6 +184,14 @@
       "word": "鹿晗ins发自拍",
       "onboard_time": 1761577822,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 451989,
+      "num": 315893,
+      "word": "尹子维徐冬冬怎么了",
+      "onboard_time": 1761624086,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -177,14 +209,6 @@
       "onboard_time": 1761624385,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 388658,
-      "num": 315893,
-      "word": "尹子维徐冬冬怎么了",
-      "onboard_time": 1761624086,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 383824,
@@ -235,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288634,
-      "num": 288634,
-      "word": "女明星ELLE出图",
-      "onboard_time": 1761625644,
-      "rank": 15,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 282021,
       "num": 855123,
       "word": "KK园区所在村镇出租车费已翻倍",
@@ -281,6 +297,14 @@
       "onboard_time": 1761578781,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256618,
+      "num": 256618,
+      "word": "男生没认出订婚当天打扮漂亮的女友",
+      "onboard_time": 1761625465,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254126,
@@ -347,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228972,
-      "num": 193848,
-      "word": "陈伟霆 传新iPhone要一天多",
-      "onboard_time": 1761625526,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228447,
       "num": 199853,
       "word": "外国母亲看到儿子文身当场崩溃",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 216663,
-      "num": 255802,
+      "num": 277285,
       "word": "打击低俗团播引诱打赏",
       "onboard_time": 1761615380,
       "rank": 7,
@@ -427,12 +443,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196944,
+      "num": 196944,
+      "word": "王一博 马达加斯加企鹅",
+      "onboard_time": 1761625705,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192153,
       "num": 192153,
       "word": "使徒行者",
       "onboard_time": 1761625046,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190425,
+      "num": 190425,
+      "word": "徐志胜一个人炒菜9个人围观",
+      "onboard_time": 1761626185,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188219,
@@ -467,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182952,
+      "num": 194269,
+      "word": "佘诗曼黄宗泽同事20年首次合作",
+      "onboard_time": 1761624506,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177905,
+      "num": 177905,
+      "word": "英语真的可以速成",
+      "onboard_time": 1761621506,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177690,
       "num": 176044,
       "word": "刘涛 不要叫我妈妈啦",
@@ -475,19 +523,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177682,
+      "num": 177682,
+      "word": "TVB也在和这个时代告别",
+      "onboard_time": 1761626185,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176308,
       "num": 176308,
       "word": "欢喜哥",
       "onboard_time": 1761622404,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174501,
-      "num": 174501,
-      "word": "王一博 马达加斯加企鹅",
-      "onboard_time": 1761625705,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -539,28 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170331,
-      "num": 206852,
-      "word": "中央网信办将整治验资pk",
-      "onboard_time": 1761617839,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168801,
-      "num": 168801,
+      "raw_hot": 170528,
+      "num": 170528,
       "word": "杨幂ELLE盛典第一个登岛",
       "onboard_time": 1761623366,
       "rank": 32,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 166931,
-      "num": 194269,
-      "word": "佘诗曼黄宗泽同事20年首次合作",
-      "onboard_time": 1761624506,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 170331,
+      "num": 206852,
+      "word": "中央网信办将整治验资pk",
+      "onboard_time": 1761617839,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166167,
@@ -577,14 +617,6 @@
       "onboard_time": 1761621024,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165099,
-      "num": 165099,
-      "word": "英语真的可以速成",
-      "onboard_time": 1761621506,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 164581,
@@ -643,6 +675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "手机悬浮球是为方便肌无力患者",
+      "onboard_time": 1761626544,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "许绍雄最后一条视频",
@@ -657,6 +697,14 @@
       "onboard_time": 1761622586,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149442,
+      "num": 204869,
+      "word": "广州已成大湾鸡痛城",
+      "onboard_time": 1761624864,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147822,
@@ -699,6 +747,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 144605,
+      "num": 276798,
+      "word": "4点证明台独是死路",
+      "onboard_time": 1761625106,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144376,
       "num": 144376,
       "word": "当事人回应孩子被店员提醒别摸蛋糕",
@@ -731,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139279,
-      "num": 165065,
-      "word": "广州已成大湾鸡痛城",
-      "onboard_time": 1761624864,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "当两个爱吃的人谈恋爱",
@@ -755,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135437,
-      "num": 144391,
-      "word": "4点证明台独是死路",
-      "onboard_time": 1761625106,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135287,
       "num": 135287,
       "word": "日本18000名警察出动确保东京安全",
@@ -777,6 +817,14 @@
       "onboard_time": 1761623366,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133179,
+      "num": 159226,
+      "word": "金价跌超2.8%",
+      "onboard_time": 1761624805,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 131931,
@@ -881,6 +929,14 @@
       "onboard_time": 1761616758,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119873,
+      "num": 164269,
+      "word": "蒋欣 毕竟上了年纪",
+      "onboard_time": 1761625345,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 118335,
@@ -1091,20 +1147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88797,
-      "num": 164551,
-      "word": "男生没认出订婚当天打扮漂亮的女友",
-      "onboard_time": 1761625465,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87319,
       "num": 87319,
       "word": "住院小猫看到主人后眼睛都亮了",
       "onboard_time": 1761617481,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85774,
+      "num": 145836,
+      "word": "2025微博视界大会第二波阵容官宣",
+      "onboard_time": 1761626664,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 85298,
@@ -1259,20 +1315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60173,
+      "num": 276577,
+      "word": "特朗普说很喜欢金正恩",
+      "onboard_time": 1761626005,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59087,
       "num": 105164,
       "word": "研究实施一次性的个人信用救济政策",
       "onboard_time": 1761572483,
       "rank": 48,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 57994,
-      "num": 164269,
-      "word": "蒋欣 毕竟上了年纪",
-      "onboard_time": 1761625345,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 57992,
@@ -1364,7 +1420,7 @@
     },
     {
       "raw_hot": 51831,
-      "num": 255238,
+      "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
       "onboard_time": 1761624325,
       "rank": 19,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1761622167,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36996,
+      "num": 156552,
+      "word": "易烊千玺特意为毕业典礼调整了工作",
+      "onboard_time": 1761626544,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 34656,

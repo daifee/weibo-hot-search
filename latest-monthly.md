@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 12:31:02
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 12:44:54
 </p>
 </blockquote>
 <p>
@@ -2421,6 +2421,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%20%E6%96%87%E6%85%A7%E5%BF%83%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+佘诗曼 文慧心回来了（热度：964561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%E5%8F%91%E5%A3%B0%E6%98%8E%E5%9B%9E%E5%BA%94%E5%90%91%E5%AE%B6%E7%A0%B4%E4%BA%A7%23" target="weibo">
 向华强发声明回应向家破产（热度：964271）
 </a>
@@ -2699,12 +2705,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%98%8E%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%8F%96%E4%BB%A3QQ%23" target="weibo">
 一直没明白为什么微信能取代QQ（热度：910262）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%20%E6%96%87%E6%85%A7%E5%BF%83%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-佘诗曼 文慧心回来了（热度：904436）
 </a>
 </li>
 
@@ -5373,6 +5373,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E8%8A%B7%E7%8F%8A%20%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
+黎芷珊 许绍雄（热度：620358）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%B9%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
 应鹏去世（热度：620276）
 </a>
@@ -5681,6 +5687,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E5%AD%A9%E5%AD%90%20%E6%89%8B%E6%8F%A1%E9%A1%B6%E7%BA%A7%E4%BA%BA%E7%94%9F%E5%89%A7%E6%9C%AC%23" target="weibo">
 文咏珊孩子 手握顶级人生剧本（热度：600318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BC%A0%E6%96%B0iPhone%E8%A6%81%E4%B8%80%E5%A4%A9%E5%A4%9A%23" target="weibo">
+陈伟霆 传新iPhone要一天多（热度：599923）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%83%B3%E6%94%B6%E7%89%88%E6%9D%83%E8%B4%B9%E4%BA%86%23" target="weibo">
 马頔想收版权费了（热度：578394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%23" target="weibo">
-上海（热度：578248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E7%8E%8B%E6%9D%83%E7%AF%87%E6%94%B9%E5%90%8D%E4%BA%86%23" target="weibo">
-狐妖王权篇改名了（热度：578096）
 </a>
 </li>
 
