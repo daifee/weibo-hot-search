@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761677529211,
+  "endTime": 1761679314249,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -195,6 +195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 109713,
+      "num": 109713,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99705,
       "num": 54826,
       "word": "女子用筋膜枪按摩眼睛突发白内障",
@@ -371,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 60374,
+      "num": 47127,
+      "word": "张馨予化妆师火了",
+      "onboard_time": 1761671356,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 59982,
       "num": 59982,
       "word": "出发团米兰录制路透",
@@ -403,12 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49051,
-      "num": 47127,
-      "word": "张馨予化妆师火了",
-      "onboard_time": 1761671356,
-      "rank": 28,
-      "category": "作品衍生,时尚"
+      "raw_hot": 54675,
+      "num": 40060,
+      "word": "徐冬冬尹子维吵架原因",
+      "onboard_time": 1761673695,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 42868,
@@ -417,14 +433,6 @@
       "onboard_time": 1761667339,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40725,
-      "num": 40060,
-      "word": "徐冬冬尹子维吵架原因",
-      "onboard_time": 1761673695,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 39741,
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17789,
+      "num": 19773,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17118,
       "num": 418823,
       "word": "网络安全法完成修改",
@@ -529,6 +545,14 @@
       "onboard_time": 1761660441,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12390,
+      "num": 18509,
+      "word": "济南市民排百米长队买奶皮子糖葫芦",
+      "onboard_time": 1761679094,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
