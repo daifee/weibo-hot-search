@@ -1,0 +1,410 @@
+{
+  "runTime": 1761617753964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 423949,
+        "num": 1067831,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287549,
+        "num": 287549,
+        "word": "安倍遇刺案今天开庭",
+        "onboard_time": 1761612560,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28919,
+        "num": 267197,
+        "word": "2025中国广播电视精品创作大会",
+        "onboard_time": 1761616880,
+        "rank": 2,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 265625,
+        "num": 265625,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252621,
+        "num": 252621,
+        "word": "奔跑吧五颜六色的头发",
+        "onboard_time": 1761578781,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221133,
+        "num": 221133,
+        "word": "Bin称输100T和G2我要担责",
+        "onboard_time": 1761612440,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201264,
+        "num": 201264,
+        "word": "KK园区所在村镇出租车费已翻倍",
+        "onboard_time": 1761575602,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190835,
+        "num": 190835,
+        "word": "打击低俗团播引诱打赏",
+        "onboard_time": 1761615380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173192,
+        "num": 173192,
+        "word": "特朗普回应美两军机南海坠毁",
+        "onboard_time": 1761613761,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147246,
+        "num": 147246,
+        "word": "多地气温升升升升",
+        "onboard_time": 1761615020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1157379,
+        "num": 147009,
+        "word": "切尔诺贝利核电站附近出现蓝色狗",
+        "onboard_time": 1761615438,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 826700,
+        "num": 146795,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723054,
+        "num": 146640,
+        "word": "陈伟霆说自己是老钱风的代表",
+        "onboard_time": 1761615679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568186,
+        "num": 146264,
+        "word": "分手1年复合后狗狗的反应",
+        "onboard_time": 1761615020,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480657,
+        "num": 146077,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353217,
+        "num": 145820,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 145672,
+        "word": "第一批做烤水果的人吃商极高",
+        "onboard_time": 1761613281,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233249,
+        "num": 145328,
+        "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+        "onboard_time": 1761573263,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214070,
+        "num": 145077,
+        "word": "杨清柠说王乐乐结婚自己给当伴娘",
+        "onboard_time": 1761614540,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144968,
+        "num": 144968,
+        "word": "杨幂回复Fly",
+        "onboard_time": 1761615020,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 572700,
+        "num": 144078,
+        "word": "金价",
+        "onboard_time": 1761609261,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186430,
+        "num": 141715,
+        "word": "30岁失业回村开了家小卖部",
+        "onboard_time": 1761614419,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183406,
+        "num": 139818,
+        "word": "日本天皇用英语说很高兴见到特朗普",
+        "onboard_time": 1761615501,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182785,
+        "num": 137845,
+        "word": "桃花坞6只留一个人就是孟子义",
+        "onboard_time": 1761575003,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162311,
+        "num": 136530,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135680,
+        "num": 135680,
+        "word": "当社恐出门拍照又不敢举起手机",
+        "onboard_time": 1761616581,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 134065,
+        "word": "为了不被裁员硅谷科技男扎堆做医美",
+        "onboard_time": 1761573083,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91829,
+        "num": 133492,
+        "word": "张晚意花少预言家",
+        "onboard_time": 1761614119,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89145,
+        "num": 133259,
+        "word": "天地剑心第三",
+        "onboard_time": 1761578600,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85456,
+        "num": 132828,
+        "word": "果郡王也转战短剧赛道了",
+        "onboard_time": 1761606618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166167,
+        "num": 131766,
+        "word": "唯一不玩手机认真听课的被轰出去了",
+        "onboard_time": 1761616581,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131660,
+        "num": 131660,
+        "word": "以为在休息其实在耗气血",
+        "onboard_time": 1761610581,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "鹿晗ins发自拍",
+        "onboard_time": 1761577822,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120990,
+        "num": 120990,
+        "word": "台湾光复80周年",
+        "onboard_time": 1761616758,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114237,
+        "num": 114237,
+        "word": "人民日报刊文驳斥台独歪曲历史言论",
+        "onboard_time": 1761616100,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110634,
+        "num": 110634,
+        "word": "五个月瘦36斤减肥经验",
+        "onboard_time": 1761606618,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109919,
+        "num": 109919,
+        "word": "罗云熙掀开林允头纱",
+        "onboard_time": 1761612502,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104790,
+        "num": 104790,
+        "word": "熊孩子误吞10克金豆6天后排出",
+        "onboard_time": 1761578122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101117,
+        "num": 101117,
+        "word": "发现台独线索可举报",
+        "onboard_time": 1761617719,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100852,
+        "num": 100852,
+        "word": "女子徒步误将蛇窝当野生蹦床",
+        "onboard_time": 1761563600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98662,
+        "num": 98662,
+        "word": "内娱男艺人都防着黄景瑜",
+        "onboard_time": 1761570741,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97166,
+        "num": 97166,
+        "word": "老人骑车撞直行车反诬对方逃逸",
+        "onboard_time": 1761616700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95628,
+        "num": 95628,
+        "word": "王楚钦把爆冷款穿成了爆款",
+        "onboard_time": 1761578841,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "个人征信将可修复",
+        "onboard_time": 1761579620,
+        "rank": 43,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "金价银价暴跌原因",
+        "onboard_time": 1761609620,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91861,
+        "num": 91861,
+        "word": "雷军回应YU7冬测数据有没有小字",
+        "onboard_time": 1761617540,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87319,
+        "num": 87319,
+        "word": "住院小猫看到主人后眼睛都亮了",
+        "onboard_time": 1761617481,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87036,
+        "num": 87036,
+        "word": "这是我见过对恋爱脑最好的诠释",
+        "onboard_time": 1761614481,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74680,
+        "num": 86709,
+        "word": "北京奥运会火炬手评郑智化",
+        "onboard_time": 1761617660,
+        "rank": 48,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 64814,
+        "num": 84986,
+        "word": "小时候最喜欢的国产动画",
+        "onboard_time": 1761616100,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参观故宫博物院展览#"
+    }
+  }
+}

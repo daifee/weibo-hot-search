@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 09:53:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 10:15:53
 </p>
 </blockquote>
 <p>
@@ -1481,6 +1481,12 @@ VOGUE大合影（热度：1170936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%88%9A%E8%96%87%E5%8C%97%E5%A4%A7%E8%80%83%E8%AF%95%23" target="weibo">
 网友偶遇戚薇北大考试（热度：1158407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E7%8B%97%23" target="weibo">
+切尔诺贝利核电站附近出现蓝色狗（热度：1157379）
 </a>
 </li>
 
@@ -4113,6 +4119,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E8%80%81%E9%92%B1%E9%A3%8E%E7%9A%84%E4%BB%A3%E8%A1%A8%23" target="weibo">
+陈伟霆说自己是老钱风的代表（热度：723054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88%E7%9A%84%E5%B7%A5%E8%B5%84%E4%B8%8D%E7%94%A8%E6%89%93%E7%BB%99%E6%88%91%E4%BA%86%23" target="weibo">
 9月的工资不用打给我了（热度：721830）
 </a>
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23" target="weibo">
 当地规劝烤肉店停止玉米做燃料（热度：575295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%AA%E5%BE%92%E4%BB%8E%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%80%83%E8%B7%91%E6%97%B6%E6%8E%89%E8%90%BD%E7%9A%87%E5%86%A0%23" target="weibo">
-匪徒从卢浮宫逃跑时掉落皇冠（热度：574895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
-骑手取走苹果17Promax后失联（热度：574503）
 </a>
 </li>
 

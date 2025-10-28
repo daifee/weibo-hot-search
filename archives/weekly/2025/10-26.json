@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761616435397,
+  "endTime": 1761617753964,
   "band_list": [
     {
       "raw_hot": 3052119,
@@ -161,6 +161,14 @@
       "onboard_time": 1761465800,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1157379,
+      "num": 163410,
+      "word": "切尔诺贝利核电站附近出现蓝色狗",
+      "onboard_time": 1761615438,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1149391,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723054,
+      "num": 161634,
+      "word": "陈伟霆说自己是老钱风的代表",
+      "onboard_time": 1761615679,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717436,
       "num": 1114789,
       "word": "南海坠机所在航母正执行最后任务",
@@ -729,6 +745,14 @@
       "onboard_time": 1761545001,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568186,
+      "num": 160478,
+      "word": "分手1年复合后狗狗的反应",
+      "onboard_time": 1761615020,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 566041,
@@ -1019,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453594,
-      "num": 163410,
-      "word": "切尔诺贝利核电站附近出现蓝色狗",
-      "onboard_time": 1761615438,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 449157,
       "num": 196740,
       "word": "彭小苒破万福利九宫格出浴照",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1761459560,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367039,
-      "num": 161634,
-      "word": "陈伟霆说自己是老钱风的代表",
-      "onboard_time": 1761615679,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 362882,
@@ -1739,8 +1747,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 265612,
-      "num": 265612,
+      "raw_hot": 265625,
+      "num": 265625,
       "word": "00后用打印机造假币",
       "onboard_time": 1761576924,
       "rank": 9,
@@ -1939,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233695,
+      "num": 159826,
+      "word": "第一批做烤水果的人吃商极高",
+      "onboard_time": 1761613281,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231790,
       "num": 215553,
       "word": "Ning喊话姿态",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1761538043,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214070,
+      "num": 159716,
+      "word": "杨清柠说王乐乐结婚自己给当伴娘",
+      "onboard_time": 1761614540,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 213564,
@@ -2395,14 +2419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194750,
-      "num": 160478,
-      "word": "分手1年复合后狗狗的反应",
-      "onboard_time": 1761615020,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194648,
       "num": 194648,
       "word": "金价下跌为何金饰品牌接连涨价",
@@ -2465,14 +2481,6 @@
       "onboard_time": 1761559340,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192975,
-      "num": 159826,
-      "word": "第一批做烤水果的人吃商极高",
-      "onboard_time": 1761613281,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 192435,
@@ -2617,6 +2625,14 @@
       "onboard_time": 1761571162,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186430,
+      "num": 141715,
+      "word": "30岁失业回村开了家小卖部",
+      "onboard_time": 1761614419,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 186173,
@@ -2851,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173192,
+      "num": 173192,
+      "word": "特朗普回应美两军机南海坠毁",
+      "onboard_time": 1761613761,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173080,
       "num": 158248,
       "word": "内娱男艺人都防着黄景瑜",
@@ -3011,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166167,
+      "num": 131766,
+      "word": "唯一不玩手机认真听课的被轰出去了",
+      "onboard_time": 1761616581,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165697,
       "num": 165697,
       "word": "彭昱畅新剧招聘工资上不封顶",
@@ -3033,14 +3065,6 @@
       "onboard_time": 1761527661,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165475,
-      "num": 165475,
-      "word": "特朗普回应美两军机南海坠毁",
-      "onboard_time": 1761613761,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 165403,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1761568522,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162311,
+      "num": 136530,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1761616459,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 162071,
@@ -3241,14 +3273,6 @@
       "onboard_time": 1761481461,
       "rank": 35,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 159716,
-      "num": 159716,
-      "word": "杨清柠说王乐乐结婚自己给当伴娘",
-      "onboard_time": 1761614540,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 159431,
@@ -3635,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147246,
+      "num": 147246,
+      "word": "多地气温升升升升",
+      "onboard_time": 1761615020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146997,
       "num": 146997,
       "word": "张博恒总结世锦赛plog",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1761452721,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144968,
+      "num": 147751,
+      "word": "杨幂回复Fly",
+      "onboard_time": 1761615020,
+      "rank": 28,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 144775,
@@ -4009,6 +4049,14 @@
       "onboard_time": 1761473360,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135680,
+      "num": 135680,
+      "word": "当社恐出门拍照又不敢举起手机",
+      "onboard_time": 1761616581,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 135383,
@@ -4345,14 +4393,6 @@
       "onboard_time": 1761459860,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130537,
-      "num": 130537,
-      "word": "30岁失业回村开了家小卖部",
-      "onboard_time": 1761614419,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 130326,
@@ -4739,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120990,
+      "num": 120990,
+      "word": "台湾光复80周年",
+      "onboard_time": 1761616758,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120910,
       "num": 120910,
       "word": "张艺兴东京电影节",
@@ -5016,6 +5064,14 @@
       "word": "王毅同美国国务卿鲁比奥通电话",
       "onboard_time": 1761569661,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 114237,
+      "num": 114237,
+      "word": "人民日报刊文驳斥台独歪曲历史言论",
+      "onboard_time": 1761616100,
+      "rank": 41,
       "category": "国内时政"
     },
     {
@@ -5627,6 +5683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101117,
+      "num": 101117,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100961,
       "num": 100961,
       "word": "小华晨宇为获尚雯婕认可二度参赛",
@@ -5763,14 +5827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98622,
-      "num": 147751,
-      "word": "杨幂回复Fly",
-      "onboard_time": 1761615020,
-      "rank": 28,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 98596,
       "num": 196423,
       "word": "刘宪华躺着开唱爽到谁了",
@@ -5817,6 +5873,14 @@
       "onboard_time": 1761462679,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97166,
+      "num": 97166,
+      "word": "老人骑车撞直行车反诬对方逃逸",
+      "onboard_time": 1761616700,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96739,
@@ -5907,14 +5971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94956,
-      "num": 94956,
-      "word": "多地气温升升升升",
-      "onboard_time": 1761615020,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94889,
       "num": 94889,
       "word": "泰国柬埔寨联合声明",
@@ -5961,14 +6017,6 @@
       "onboard_time": 1761607640,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93900,
-      "num": 93900,
-      "word": "人民日报刊文驳斥台独歪曲历史言论",
-      "onboard_time": 1761616100,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93869,
@@ -6059,12 +6107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91861,
+      "num": 91861,
+      "word": "雷军回应YU7冬测数据有没有小字",
+      "onboard_time": 1761617540,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 91831,
       "num": 195615,
       "word": "太阳系星际访客4天后抵达近日点",
       "onboard_time": 1761398241,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91829,
+      "num": 133492,
+      "word": "张晚意花少预言家",
+      "onboard_time": 1761614119,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 91579,
@@ -6217,6 +6281,14 @@
       "onboard_time": 1761547281,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87319,
+      "num": 87319,
+      "word": "住院小猫看到主人后眼睛都亮了",
+      "onboard_time": 1761617481,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 86756,
@@ -6435,14 +6507,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 80402,
-      "num": 127031,
-      "word": "张晚意花少预言家",
-      "onboard_time": 1761614119,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80362,
       "num": 140449,
       "word": "3女孩退租欠房费马桶塞满垃圾满屋",
@@ -6593,6 +6657,14 @@
       "onboard_time": 1761573442,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74680,
+      "num": 86709,
+      "word": "北京奥运会火炬手评郑智化",
+      "onboard_time": 1761617660,
+      "rank": 48,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 74334,
@@ -7585,6 +7657,14 @@
       "onboard_time": 1761557601,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28919,
+      "num": 267197,
+      "word": "2025中国广播电视精品创作大会",
+      "onboard_time": 1761616880,
+      "rank": 2,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 27986,
