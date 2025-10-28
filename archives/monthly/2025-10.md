@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 14:52:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 15:26:02
 </p>
 </blockquote>
 <p>
@@ -2829,6 +2829,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%20%E6%9C%88%E7%BB%8F%E6%8E%A8%E8%BF%9F%23" target="weibo">
+吃柚子 月经推迟（热度：883230）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E5%B0%86%E5%BD%95%E5%9B%A2%E7%BB%BC%23" target="weibo">
 网传快乐家族将录团综（热度：883069）
 </a>
@@ -3851,6 +3857,12 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E6%AD%BB%E5%88%91%E8%AF%89%E6%B1%82%E5%90%8E%E6%B1%82%E9%A5%B6%23" target="weibo">
 杀害女同学男生听到死刑诉求后求饶（热度：761747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+烟台理工学院通报学生坠楼身亡（热度：761083）
 </a>
 </li>
 
@@ -5649,6 +5661,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%93%AD%E4%BA%86%23" target="weibo">
+田曦薇哭了（热度：603806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23" target="weibo">
 中国女子盗窃法国博物馆12斤金块（热度：603748）
 </a>
@@ -5993,24 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%9F%E9%9B%86%E4%BD%93%E5%87%9D%E5%9B%BA%23" target="weibo">
 日本队集体凝固（热度：581920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B5%B7%E7%BB%B5%E6%8E%A2%E7%8F%AD%E9%BB%84%E6%99%93%E6%98%8E%23" target="weibo">
-小海绵探班黄晓明（热度：581156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%AD%89%E4%BA%8E36%E4%B8%AA10%E5%A4%A9%23" target="weibo">
-一年等于36个10天（热度：580949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
-陈哲远发红包（热度：580360）
 </a>
 </li>
 
