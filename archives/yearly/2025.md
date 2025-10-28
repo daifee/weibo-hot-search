@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/28 11:13:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/28 11:31:24
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 鹿晗工作室（热度：12026031）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
+欢喜哥许绍雄逝世（热度：11992405）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%AC%9B%20%E8%A2%AB%E5%88%A0%23" target="weibo">
 姚笛 被删（热度：4918196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-关晓彤朋友圈（热度：4916125）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761622284919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11992405,
+        "num": 11992405,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292680,
+        "num": 292680,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761567802,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29732,
+        "num": 283299,
+        "word": "2025中国广播电视精品创作大会",
+        "onboard_time": 1761616880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1833806,
+        "num": 282198,
+        "word": "许绍雄",
+        "onboard_time": 1761571641,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280803,
+        "num": 280803,
+        "word": "发现台独线索可举报",
+        "onboard_time": 1761617719,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210253,
+        "num": 210253,
+        "word": "打击低俗团播引诱打赏",
+        "onboard_time": 1761615380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441582,
+        "num": 210154,
+        "word": "野狗骨头",
+        "onboard_time": 1761619640,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177422,
+        "num": 209848,
+        "word": "00后用打印机造假币",
+        "onboard_time": 1761576924,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150824,
+        "num": 209679,
+        "word": "对台独顽固分子沈伯洋立案侦查",
+        "onboard_time": 1761618081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147366,
+        "num": 209509,
+        "word": "a股突破4000点",
+        "onboard_time": 1761619580,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1207721,
+        "num": 209066,
+        "word": "切尔诺贝利核电站附近出现蓝色狗",
+        "onboard_time": 1761615438,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241332,
+        "num": 208887,
+        "word": "新闻女王2",
+        "onboard_time": 1761621687,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725258,
+        "num": 208769,
+        "word": "阳光型抑郁",
+        "onboard_time": 1761618320,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 658196,
+        "num": 208358,
+        "word": "周润发看望许绍雄",
+        "onboard_time": 1761618620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580949,
+        "num": 208249,
+        "word": "一年等于36个10天",
+        "onboard_time": 1761619219,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 569827,
+        "num": 208005,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188945,
+        "num": 207832,
+        "word": "奔跑吧五颜六色的头发",
+        "onboard_time": 1761578781,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50403,
+        "num": 207420,
+        "word": "KimJones中国时尚圈首秀",
+        "onboard_time": 1761620660,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 102730,
+        "num": 207213,
+        "word": "京东黄金降价",
+        "onboard_time": 1761620660,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99071,
+        "num": 207036,
+        "word": "23岁美国女孩寻找中国亲生父母",
+        "onboard_time": 1761621264,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145031,
+        "num": 206852,
+        "word": "中央网信办将整治验资pk",
+        "onboard_time": 1761617839,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49266,
+        "num": 206591,
+        "word": "食品公司堆放死猪肉7人被控制",
+        "onboard_time": 1761620960,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62251,
+        "num": 206238,
+        "word": "范丞丞用AQ反向管爸妈健康",
+        "onboard_time": 1761620660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410582,
+        "num": 206035,
+        "word": "分手1年复合后狗狗的反应",
+        "onboard_time": 1761615020,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372342,
+        "num": 205855,
+        "word": "陈伟霆说自己是老钱风的代表",
+        "onboard_time": 1761615679,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338345,
+        "num": 205547,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304251,
+        "num": 205297,
+        "word": "林峯双手合十眉头紧皱",
+        "onboard_time": 1761621322,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236494,
+        "num": 205115,
+        "word": "曝许绍雄戴着氧气机",
+        "onboard_time": 1761620421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231137,
+        "num": 204767,
+        "word": "杨清柠说王乐乐结婚自己给当伴娘",
+        "onboard_time": 1761614540,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204705,
+        "num": 204705,
+        "word": "日本天皇用英语说很高兴见到特朗普",
+        "onboard_time": 1761615501,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203133,
+        "num": 203133,
+        "word": "沙溢佟丽娅是邻居",
+        "onboard_time": 1761620300,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199853,
+        "num": 199853,
+        "word": "外国母亲看到儿子文身当场崩溃",
+        "onboard_time": 1761620359,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195011,
+        "num": 195011,
+        "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+        "onboard_time": 1761577282,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186756,
+        "num": 186756,
+        "word": "金价",
+        "onboard_time": 1761609261,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "刘涛 不要叫我妈妈啦",
+        "onboard_time": 1761620598,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 166084,
+        "word": "丁禹兮扇了自己一巴掌",
+        "onboard_time": 1761621024,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14397,
+        "num": 163798,
+        "word": "起底毒营养土产业链",
+        "onboard_time": 1761622167,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18593,
+        "num": 163706,
+        "word": "医托在三甲医院忽悠病患前往中医馆",
+        "onboard_time": 1761621564,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127416,
+        "num": 163661,
+        "word": "国产剧小妈文学上新了",
+        "onboard_time": 1761621625,
+        "rank": 38,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 163633,
+        "num": 163633,
+        "word": "玉茗茶骨预告",
+        "onboard_time": 1761619159,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146565,
+        "num": 146565,
+        "word": "英语真的可以速成",
+        "onboard_time": 1761621506,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131328,
+        "num": 131328,
+        "word": "孙颖莎樊振东等拟获表彰",
+        "onboard_time": 1761618858,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188219,
+        "num": 131290,
+        "word": "北京奥运会火炬手评郑智化",
+        "onboard_time": 1761617660,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 128168,
+        "num": 128168,
+        "word": "开拓者vs湖人",
+        "onboard_time": 1761618439,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127217,
+        "num": 127217,
+        "word": "义乌的伴飞小鸟玩具火了",
+        "onboard_time": 1761620539,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125636,
+        "num": 125636,
+        "word": "小米澎湃OS3",
+        "onboard_time": 1761621382,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124168,
+        "num": 124168,
+        "word": "唯一不玩手机认真听课的被轰出去了",
+        "onboard_time": 1761616581,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118335,
+        "num": 118335,
+        "word": "A股",
+        "onboard_time": 1761619459,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117519,
+        "num": 117519,
+        "word": "剑网3无相楼主题曲悬丝入戏",
+        "onboard_time": 1761621446,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109222,
+        "num": 113635,
+        "word": "锦月令开播",
+        "onboard_time": 1761620539,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持文物属于人民服务人民#"
+    }
+  }
+}

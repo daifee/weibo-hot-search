@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:13:48
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:31:24
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%20%E6%92%9E%E4%BA%BA%23" target="weibo">
 左航 撞人（热度：13334858）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
+欢喜哥许绍雄逝世（热度：11992405）
 </a>
 </li>
 
@@ -1330,7 +1336,7 @@ AL打T1（热度：1227982）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E7%8B%97%23" target="weibo">
-切尔诺贝利核电站附近出现蓝色狗（热度：1207614）
+切尔诺贝利核电站附近出现蓝色狗（热度：1207721）
 </a>
 </li>
 
@@ -2363,12 +2369,6 @@ VOGUE请假阵容（热度：1000675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9C%9F%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 郑恺苗苗真没把我们当外人（热度：974213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
-欢喜哥许绍雄逝世（热度：970719）
 </a>
 </li>
 
@@ -4881,6 +4881,12 @@ vivo X300价格（热度：660203）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E7%9C%8B%E6%9C%9B%E8%AE%B8%E7%BB%8D%E9%9B%84%23" target="weibo">
+周润发看望许绍雄（热度：658196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E8%AF%B43%E4%B8%AA%E5%AD%A9%E5%AD%90%E9%83%BD%E6%B2%A1%E6%9C%89%E9%85%8D%E6%89%8B%E6%9C%BA%23" target="weibo">
 威廉王子说3个孩子都没有配手机（热度：658013）
 </a>
@@ -5949,6 +5955,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%AD%89%E4%BA%8E36%E4%B8%AA10%E5%A4%A9%23" target="weibo">
+一年等于36个10天（热度：580949）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 陈哲远发红包（热度：580360）
 </a>
@@ -5957,12 +5969,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%88%B1%E8%B1%86%E5%BD%93%E8%A1%97%E6%9A%B4%E9%9C%B2%E4%B8%8B%E4%BD%93%E8%A2%AB%E6%8D%95%23" target="weibo">
 日本男爱豆当街暴露下体被捕（热度：579640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%AD%89%E4%BA%8E36%E4%B8%AA10%E5%A4%A9%23" target="weibo">
-一年等于36个10天（热度：579212）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%97%AD%E9%BA%A6%E5%90%8E%E5%8F%88%E5%BC%80%E5%A7%8B%E6%8E%92%E9%98%9F%E4%BA%86%23" target="weibo">
 西贝闭麦后又开始排队了（热度：576624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%AD%E9%80%94%E8%B5%B6%E5%AE%A2%E4%B9%98%E5%AE%A2%E7%A7%92%E6%87%82%E4%B8%8B%E8%BD%A6%23" target="weibo">
-网约车司机中途赶客乘客秒懂下车（热度：576277）
 </a>
 </li>
 

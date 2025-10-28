@@ -1,10 +1,26 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761621228269,
+  "endTime": 1761622284919,
   "band_list": [
     {
-      "raw_hot": 1207614,
-      "num": 189005,
+      "raw_hot": 11992405,
+      "num": 11992405,
+      "word": "欢喜哥许绍雄逝世",
+      "onboard_time": 1761621144,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1833806,
+      "num": 282198,
+      "word": "许绍雄",
+      "onboard_time": 1761571641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1207721,
+      "num": 209066,
       "word": "切尔诺贝利核电站附近出现蓝色狗",
       "onboard_time": 1761615438,
       "rank": 12,
@@ -12,31 +28,15 @@
     },
     {
       "raw_hot": 1200152,
-      "num": 187481,
+      "num": 205547,
       "word": "14岁男生被女同学击中左胸后瘫痪",
       "onboard_time": 1761582199,
       "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1087525,
-      "num": 197850,
-      "word": "许绍雄",
-      "onboard_time": 1761571641,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 970719,
-      "num": 1155315,
-      "word": "欢喜哥许绍雄逝世",
-      "onboard_time": 1761621144,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 838414,
-      "num": 167467,
+      "num": 208769,
       "word": "阳光型抑郁",
       "onboard_time": 1761618320,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 818435,
-      "num": 159290,
+      "num": 186756,
       "word": "金价",
       "onboard_time": 1761609261,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 734917,
-      "num": 190509,
+      "num": 195011,
       "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
       "onboard_time": 1761577282,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 723054,
-      "num": 161634,
+      "num": 205855,
       "word": "陈伟霆说自己是老钱风的代表",
       "onboard_time": 1761615679,
       "rank": 15,
@@ -83,16 +83,32 @@
       "category": "网红"
     },
     {
-      "raw_hot": 579212,
-      "num": 165802,
+      "raw_hot": 658196,
+      "num": 208358,
+      "word": "周润发看望许绍雄",
+      "onboard_time": 1761618620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 580949,
+      "num": 208249,
       "word": "一年等于36个10天",
       "onboard_time": 1761619219,
       "rank": 12,
       "category": "幽默"
     },
     {
+      "raw_hot": 569827,
+      "num": 208005,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1761616459,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 568186,
-      "num": 162944,
+      "num": 206035,
       "word": "分手1年复合后狗狗的反应",
       "onboard_time": 1761615020,
       "rank": 17,
@@ -107,20 +123,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 457973,
-      "num": 162003,
-      "word": "写字不好看的不许开蛋糕店",
-      "onboard_time": 1761616459,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 453674,
       "num": 180223,
       "word": "鹿晗ins发自拍",
       "onboard_time": 1761577822,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441582,
+      "num": 238824,
+      "word": "野狗骨头",
+      "onboard_time": 1761619640,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 383824,
@@ -163,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304251,
+      "num": 205297,
+      "word": "林峯双手合十眉头紧皱",
+      "onboard_time": 1761621322,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282021,
       "num": 855123,
       "word": "KK园区所在村镇出租车费已翻倍",
@@ -177,6 +201,14 @@
       "onboard_time": 1761573083,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 280803,
+      "num": 280803,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 271569,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 248516,
-      "num": 159716,
+      "num": 204767,
       "word": "杨清柠说王乐乐结婚自己给当伴娘",
       "onboard_time": 1761614540,
       "rank": 19,
@@ -212,18 +244,18 @@
     },
     {
       "raw_hot": 243041,
-      "num": 158128,
+      "num": 204705,
       "word": "日本天皇用英语说很高兴见到特朗普",
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
     },
     {
-      "raw_hot": 238824,
-      "num": 238824,
-      "word": "野狗骨头",
-      "onboard_time": 1761619640,
-      "rank": 3,
+      "raw_hot": 241332,
+      "num": 208887,
+      "word": "新闻女王2",
+      "onboard_time": 1761621687,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -233,6 +265,14 @@
       "onboard_time": 1761612440,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236494,
+      "num": 205115,
+      "word": "曝许绍雄戴着氧气机",
+      "onboard_time": 1761620421,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 233695,
@@ -259,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210253,
+      "num": 210253,
+      "word": "打击低俗团播引诱打赏",
+      "onboard_time": 1761615380,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203133,
+      "num": 203133,
+      "word": "沙溢佟丽娅是邻居",
+      "onboard_time": 1761620300,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201109,
       "num": 129064,
       "word": "特朗普谈美军机南海坠毁原因",
@@ -267,28 +323,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199365,
-      "num": 199365,
-      "word": "打击低俗团播引诱打赏",
-      "onboard_time": 1761615380,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 199853,
+      "num": 199853,
+      "word": "外国母亲看到儿子文身当场崩溃",
+      "onboard_time": 1761620359,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 190770,
-      "num": 145230,
-      "word": "沙溢佟丽娅是邻居",
-      "onboard_time": 1761620300,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190524,
-      "num": 190524,
-      "word": "发现台独线索可举报",
-      "onboard_time": 1761617719,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 188219,
+      "num": 148261,
+      "word": "北京奥运会火炬手评郑智化",
+      "onboard_time": 1761617660,
+      "rank": 48,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 186430,
@@ -299,16 +347,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182136,
-      "num": 144603,
-      "word": "周润发看望许绍雄",
-      "onboard_time": 1761618620,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177690,
-      "num": 142975,
+      "num": 176044,
       "word": "刘涛 不要叫我妈妈啦",
       "onboard_time": 1761620598,
       "rank": 30,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 170331,
-      "num": 170331,
+      "num": 206852,
       "word": "中央网信办将整治验资pk",
       "onboard_time": 1761617839,
       "rank": 9,
@@ -363,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166084,
+      "num": 166084,
+      "word": "丁禹兮扇了自己一巴掌",
+      "onboard_time": 1761621024,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
@@ -371,12 +419,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 164204,
-      "num": 148261,
-      "word": "北京奥运会火炬手评郑智化",
-      "onboard_time": 1761617660,
-      "rank": 48,
-      "category": "艺人,民生新闻"
+      "raw_hot": 163633,
+      "num": 163633,
+      "word": "玉茗茶骨预告",
+      "onboard_time": 1761619159,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 159803,
@@ -411,12 +459,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 148604,
-      "num": 148604,
-      "word": "玉茗茶骨预告",
-      "onboard_time": 1761619159,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 150824,
+      "num": 209679,
+      "word": "对台独顽固分子沈伯洋立案侦查",
+      "onboard_time": 1761618081,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147822,
@@ -427,12 +475,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147366,
+      "num": 209509,
+      "word": "a股突破4000点",
+      "onboard_time": 1761619580,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147246,
       "num": 147246,
       "word": "多地气温升升升升",
       "onboard_time": 1761615020,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146565,
+      "num": 146565,
+      "word": "英语真的可以速成",
+      "onboard_time": 1761621506,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 144968,
@@ -475,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133623,
-      "num": 133623,
-      "word": "外国母亲看到儿子文身当场崩溃",
-      "onboard_time": 1761620359,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 131931,
       "num": 131931,
       "word": "苏超决赛门票中签率低至1%",
@@ -491,12 +547,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126889,
-      "num": 126889,
-      "word": "a股突破4000点",
-      "onboard_time": 1761619580,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 131328,
+      "num": 131328,
+      "word": "孙颖莎樊振东等拟获表彰",
+      "onboard_time": 1761618858,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128168,
+      "num": 128168,
+      "word": "开拓者vs湖人",
+      "onboard_time": 1761618439,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127416,
+      "num": 163661,
+      "word": "国产剧小妈文学上新了",
+      "onboard_time": 1761621625,
+      "rank": 38,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 127217,
+      "num": 127217,
+      "word": "义乌的伴飞小鸟玩具火了",
+      "onboard_time": 1761620539,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126215,
@@ -505,6 +585,14 @@
       "onboard_time": 1761612502,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125636,
+      "num": 125636,
+      "word": "小米澎湃OS3",
+      "onboard_time": 1761621382,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 124305,
@@ -539,6 +627,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118335,
+      "num": 118335,
+      "word": "A股",
+      "onboard_time": 1761619459,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117519,
+      "num": 117519,
+      "word": "剑网3无相楼主题曲悬丝入戏",
+      "onboard_time": 1761621446,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114237,
       "num": 114237,
       "word": "人民日报刊文驳斥台独歪曲历史言论",
@@ -563,14 +667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107992,
-      "num": 107991,
-      "word": "对台独顽固分子沈伯洋立案侦查",
-      "onboard_time": 1761618081,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107873,
       "num": 107992,
       "word": "天地剑心播放量",
@@ -587,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105156,
-      "num": 107993,
-      "word": "丁禹兮扇了自己一巴掌",
-      "onboard_time": 1761621024,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 102730,
+      "num": 207213,
+      "word": "京东黄金降价",
+      "onboard_time": 1761620660,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 100168,
@@ -609,6 +705,14 @@
       "onboard_time": 1761619759,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99071,
+      "num": 207036,
+      "word": "23岁美国女孩寻找中国亲生父母",
+      "onboard_time": 1761621264,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97887,
@@ -683,28 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90572,
-      "num": 90572,
-      "word": "开拓者vs湖人",
-      "onboard_time": 1761618439,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90420,
       "num": 90420,
       "word": "女子向父母索要18万彩礼遭拒",
       "onboard_time": 1761619879,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90335,
-      "num": 90335,
-      "word": "A股",
-      "onboard_time": 1761619459,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 89802,
@@ -763,14 +851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 79647,
-      "num": 107998,
-      "word": "曝许绍雄戴着氧气机",
-      "onboard_time": 1761620421,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77169,
       "num": 77169,
       "word": "睡眠是体重管理的关键环节",
@@ -788,7 +868,7 @@
     },
     {
       "raw_hot": 74232,
-      "num": 153048,
+      "num": 207420,
       "word": "KimJones中国时尚圈首秀",
       "onboard_time": 1761620660,
       "rank": 18,
@@ -820,7 +900,7 @@
     },
     {
       "raw_hot": 70126,
-      "num": 150304,
+      "num": 206238,
       "word": "范丞丞用AQ反向管爸妈健康",
       "onboard_time": 1761620660,
       "rank": 20,
@@ -849,14 +929,6 @@
       "onboard_time": 1761581839,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64691,
-      "num": 154676,
-      "word": "京东黄金降价",
-      "onboard_time": 1761620660,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 64106,
@@ -1035,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49266,
+      "num": 206591,
+      "word": "食品公司堆放死猪肉7人被控制",
+      "onboard_time": 1761620960,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48671,
       "num": 48671,
       "word": "47岁蔡磊与渐冻症抗争7年现状",
@@ -1107,8 +1187,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28919,
-      "num": 267197,
+      "raw_hot": 29732,
+      "num": 283299,
       "word": "2025中国广播电视精品创作大会",
       "onboard_time": 1761616880,
       "rank": 2,
@@ -1187,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18593,
+      "num": 163706,
+      "word": "医托在三甲医院忽悠病患前往中医馆",
+      "onboard_time": 1761621564,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17993,
       "num": 32336,
       "word": "美尼米兹号退役前最后一次部署",
@@ -1203,20 +1291,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 14397,
+      "num": 163798,
+      "word": "起底毒营养土产业链",
+      "onboard_time": 1761622167,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14302,
       "num": 17127,
       "word": "大学没教的就业指南",
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 7080,
-      "num": 152398,
-      "word": "食品公司堆放死猪肉7人被控制",
-      "onboard_time": 1761620960,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5936,

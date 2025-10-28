@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1761621228269,
+  "endTime": 1761622284919,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -855,6 +855,14 @@
       "num": 12026031,
       "word": "鹿晗工作室",
       "onboard_time": 1745080294,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11992405,
+      "num": 11992405,
+      "word": "欢喜哥许绍雄逝世",
+      "onboard_time": 1761621144,
       "rank": 0,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739539282,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4916125,
-      "num": 275174,
-      "word": "关晓彤朋友圈",
-      "onboard_time": 1745194945,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
