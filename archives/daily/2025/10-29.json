@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761672332431,
+  "endTime": 1761673387787,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132276,
+      "num": 132276,
+      "word": "网约房乱象谁来管",
+      "onboard_time": 1761669557,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128179,
       "num": 116863,
       "word": "近8成适老化用品被年轻人买走",
@@ -217,14 +225,6 @@
       "onboard_time": 1761657742,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 88973,
-      "num": 88973,
-      "word": "网约房乱象谁来管",
-      "onboard_time": 1761669557,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86720,
@@ -395,7 +395,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48654,
+      "raw_hot": 54448,
       "num": 54826,
       "word": "女子用筋膜枪按摩眼睛突发白内障",
       "onboard_time": 1761670038,
@@ -403,8 +403,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47081,
-      "num": 47081,
+      "raw_hot": 47127,
+      "num": 47127,
       "word": "张馨予化妆师火了",
       "onboard_time": 1761671356,
       "rank": 28,
@@ -435,11 +435,43 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 31526,
+      "num": 36651,
+      "word": "美国小哥被中国外卖柜震惊",
+      "onboard_time": 1761658101,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29593,
       "num": 37336,
       "word": "张艺凡镜头下得多瘦",
       "onboard_time": 1761648441,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26098,
+      "num": 36642,
+      "word": "家业",
+      "onboard_time": 1761672436,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25384,
+      "num": 36640,
+      "word": "跟着奔跑吧解锁318之旅",
+      "onboard_time": 1761673155,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25146,
+      "num": 36638,
+      "word": "李明磊直播",
+      "onboard_time": 1761672856,
+      "rank": 47,
       "category": "艺人"
     },
     {
