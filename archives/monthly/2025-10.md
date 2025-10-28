@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 07:37:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 09:53:55
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
+店员提醒别摸蛋糕遭妈妈发视频避雷（热度：734917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 高速5车追尾2死3伤（热度：734082）
 </a>
@@ -4811,12 +4817,6 @@ CFO爆冷战胜T1（热度：662519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E5%8A%A0%E6%B2%99%E5%8C%BB%E9%99%A2%E6%83%A8%E7%8A%B6%E5%83%8F%E5%B1%A0%E5%AE%B0%E5%9C%BA%23" target="weibo">
 医生说加沙医院惨状像屠宰场（热度：661486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
-店员提醒别摸蛋糕遭妈妈发视频避雷（热度：660701）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761608234950,
+  "endTime": 1761616435397,
   "band_list": [
     {
       "raw_hot": 1200152,
@@ -19,8 +19,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818435,
+      "num": 159290,
+      "word": "金价",
+      "onboard_time": 1761609261,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 734917,
+      "num": 190509,
+      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
+      "onboard_time": 1761577282,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 725194,
-      "num": 852767,
+      "num": 1073133,
       "word": "这就是中国台湾省",
       "onboard_time": 1761567802,
       "rank": 0,
@@ -35,14 +51,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 660701,
-      "num": 190509,
-      "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
-      "onboard_time": 1761577282,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 491315,
       "num": 182912,
       "word": "杨幂 死嘴憋住",
@@ -55,6 +63,30 @@
       "num": 180223,
       "word": "鹿晗ins发自拍",
       "onboard_time": 1761577822,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453594,
+      "num": 163410,
+      "word": "切尔诺贝利核电站附近出现蓝色狗",
+      "onboard_time": 1761615438,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 383824,
+      "num": 206290,
+      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
+      "onboard_time": 1761573263,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367039,
+      "num": 161634,
+      "word": "陈伟霆说自己是老钱风的代表",
+      "onboard_time": 1761615679,
       "rank": 15,
       "category": "艺人"
     },
@@ -75,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332121,
+      "num": 332121,
+      "word": "安倍遇刺案今天开庭",
+      "onboard_time": 1761612560,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 309782,
       "num": 309782,
       "word": "内娱三搭cp的含金量",
@@ -92,7 +132,7 @@
     },
     {
       "raw_hot": 281128,
-      "num": 132910,
+      "num": 160951,
       "word": "为了不被裁员硅谷科技男扎堆做医美",
       "onboard_time": 1761573083,
       "rank": 21,
@@ -107,12 +147,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240177,
-      "num": 206290,
-      "word": "已婚已育叫空姐还是空嫂网友吵翻天",
-      "onboard_time": 1761573263,
-      "rank": 8,
+      "raw_hot": 265612,
+      "num": 265612,
+      "word": "00后用打印机造假币",
+      "onboard_time": 1761576924,
+      "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257210,
+      "num": 257210,
+      "word": "奔跑吧五颜六色的头发",
+      "onboard_time": 1761578781,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237803,
+      "num": 237803,
+      "word": "Bin称输100T和G2我要担责",
+      "onboard_time": 1761612440,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 229573,
@@ -120,14 +176,6 @@
       "word": "31省份去年婚姻数据公布",
       "onboard_time": 1761576924,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224403,
-      "num": 224403,
-      "word": "00后用打印机造假币",
-      "onboard_time": 1761576924,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -147,8 +195,48 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199365,
+      "num": 199365,
+      "word": "打击低俗团播引诱打赏",
+      "onboard_time": 1761615380,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194750,
+      "num": 160478,
+      "word": "分手1年复合后狗狗的反应",
+      "onboard_time": 1761615020,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192975,
+      "num": 159826,
+      "word": "第一批做烤水果的人吃商极高",
+      "onboard_time": 1761613281,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 190059,
+      "num": 158128,
+      "word": "日本天皇用英语说很高兴见到特朗普",
+      "onboard_time": 1761615501,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 172775,
+      "num": 156876,
+      "word": "黄金",
+      "onboard_time": 1761610701,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172182,
-      "num": 95627,
+      "num": 109111,
       "word": "老君山再现阴阳分界线",
       "onboard_time": 1761606558,
       "rank": 20,
@@ -163,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165475,
+      "num": 165475,
+      "word": "特朗普回应美两军机南海坠毁",
+      "onboard_time": 1761613761,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
@@ -171,12 +267,44 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 159803,
+      "num": 156586,
+      "word": "以为在休息其实在耗气血",
+      "onboard_time": 1761610581,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159716,
+      "num": 159716,
+      "word": "杨清柠说王乐乐结婚自己给当伴娘",
+      "onboard_time": 1761614540,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157731,
       "num": 208838,
       "word": "南海坠机所在航母正执行最后任务",
       "onboard_time": 1761560480,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156114,
+      "num": 156114,
+      "word": "小时候最喜欢的国产动画",
+      "onboard_time": 1761616100,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 155502,
+      "num": 155502,
+      "word": "五个月瘦36斤减肥经验",
+      "onboard_time": 1761606618,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147822,
@@ -196,7 +324,7 @@
     },
     {
       "raw_hot": 141819,
-      "num": 106150,
+      "num": 136075,
       "word": "内娱男艺人都防着黄景瑜",
       "onboard_time": 1761570741,
       "rank": 32,
@@ -209,6 +337,22 @@
       "onboard_time": 1761585018,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130537,
+      "num": 130537,
+      "word": "30岁失业回村开了家小卖部",
+      "onboard_time": 1761614419,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126215,
+      "num": 126215,
+      "word": "罗云熙掀开林允头纱",
+      "onboard_time": 1761612502,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 123815,
@@ -227,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114069,
+      "num": 114069,
+      "word": "熊孩子误吞10克金豆6天后排出",
+      "onboard_time": 1761578122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113114,
       "num": 113114,
       "word": "肖战宣传舒淇电影",
@@ -243,20 +395,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102485,
-      "num": 94185,
-      "word": "五个月瘦36斤减肥经验",
-      "onboard_time": 1761606618,
-      "rank": 22,
-      "category": "运动健身"
+      "raw_hot": 100168,
+      "num": 100168,
+      "word": "金价银价暴跌原因",
+      "onboard_time": 1761609620,
+      "rank": 38,
+      "category": "财经"
     },
     {
-      "raw_hot": 95306,
-      "num": 106559,
-      "word": "奔跑吧五颜六色的头发",
-      "onboard_time": 1761578781,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 98622,
+      "num": 147751,
+      "word": "杨幂回复Fly",
+      "onboard_time": 1761615020,
+      "rank": 28,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 97887,
+      "num": 147585,
+      "word": "果郡王也转战短剧赛道了",
+      "onboard_time": 1761606618,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94956,
+      "num": 94956,
+      "word": "多地气温升升升升",
+      "onboard_time": 1761615020,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94032,
@@ -267,12 +435,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93900,
+      "num": 93900,
+      "word": "人民日报刊文驳斥台独歪曲历史言论",
+      "onboard_time": 1761616100,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93489,
+      "num": 93489,
+      "word": "玉田7岁走失女孩已不幸溺亡",
+      "onboard_time": 1761610521,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93488,
       "num": 93488,
       "word": "小耳朵停播两年修复双眼皮11次",
       "onboard_time": 1761584777,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 92638,
+      "num": 92638,
+      "word": "这是我见过对恋爱脑最好的诠释",
+      "onboard_time": 1761614481,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 92462,
@@ -283,20 +475,28 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 86528,
-      "num": 106291,
-      "word": "熊孩子误吞10克金豆6天后排出",
-      "onboard_time": 1761578122,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 89802,
+      "num": 89802,
+      "word": "huanfeng谈BLG打野轮换",
+      "onboard_time": 1761607279,
+      "rank": 42,
+      "category": "电竞"
     },
     {
-      "raw_hot": 86278,
-      "num": 86278,
-      "word": "果郡王也转战短剧赛道了",
-      "onboard_time": 1761606618,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 89800,
+      "num": 89800,
+      "word": "李宇嘉中传专业第一的含金量还在上升",
+      "onboard_time": 1761609860,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85298,
+      "num": 86069,
+      "word": "中方回应德国外长推迟访华行程",
+      "onboard_time": 1761606978,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84898,
@@ -323,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80402,
+      "num": 127031,
+      "word": "张晚意花少预言家",
+      "onboard_time": 1761614119,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77169,
       "num": 77169,
       "word": "睡眠是体重管理的关键环节",
@@ -339,20 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74706,
-      "num": 86069,
-      "word": "中方回应德国外长推迟访华行程",
-      "onboard_time": 1761606978,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 73389,
       "num": 106124,
       "word": "警方通报烈性犬撕咬小猫",
       "onboard_time": 1761570801,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 73310,
+      "num": 85129,
+      "word": "阿根廷资产暴涨",
+      "onboard_time": 1761612860,
+      "rank": 47,
+      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 70343,
@@ -425,14 +633,6 @@
       "onboard_time": 1761582919,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61153,
-      "num": 61153,
-      "word": "huanfeng谈BLG打野轮换",
-      "onboard_time": 1761607279,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 60624,
@@ -739,8 +939,8 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 3052,
-      "num": 188743,
+      "raw_hot": 5936,
+      "num": 295085,
       "word": "第十五届全运会",
       "onboard_time": 1761570622,
       "rank": 2,
