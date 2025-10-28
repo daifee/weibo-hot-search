@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761670242827,
+  "endTime": 1761672332431,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -8603,6 +8603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88973,
+      "num": 88973,
+      "word": "网约房乱象谁来管",
+      "onboard_time": 1761669557,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88917,
       "num": 90986,
       "word": "百花杀",
@@ -9379,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67251,
+      "num": 67251,
+      "word": "推进祖国统一大业",
+      "onboard_time": 1761670098,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66947,
       "num": 66947,
       "word": "网红罗大美遇害案三被告均上诉",
@@ -9481,14 +9497,6 @@
       "onboard_time": 1761582919,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63901,
-      "num": 63901,
-      "word": "网约房乱象谁来管",
-      "onboard_time": 1761669557,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63875,
@@ -9875,14 +9883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52832,
-      "num": 54828,
-      "word": "推进祖国统一大业",
-      "onboard_time": 1761670098,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -10057,6 +10057,14 @@
       "onboard_time": 1761608119,
       "rank": 49,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 47081,
+      "num": 47081,
+      "word": "张馨予化妆师火了",
+      "onboard_time": 1761671356,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 46963,
@@ -10441,6 +10449,14 @@
       "onboard_time": 1761550282,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34241,
+      "num": 37351,
+      "word": "看檀健次请保持苹果肌扁平",
+      "onboard_time": 1761667521,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 33839,
