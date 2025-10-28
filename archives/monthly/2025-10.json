@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761637220912,
+  "endTime": 1761640532638,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1760233819,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1447102,
+      "num": 1447102,
+      "word": "ELLE红毯",
+      "onboard_time": 1761638421,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1446063,
@@ -4105,6 +4113,14 @@
       "onboard_time": 1761040941,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 845229,
+      "num": 218312,
+      "word": "网红被银环蛇咬嫌血清贵离去后失联",
+      "onboard_time": 1761636562,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 845217,
@@ -10435,6 +10451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488825,
+      "num": 187486,
+      "word": "动物血库 抽流浪猫血",
+      "onboard_time": 1761637520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488753,
       "num": 1075513,
       "word": "摇粒绒怎么穿能不显胖",
@@ -14587,6 +14611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370336,
+      "num": 221155,
+      "word": "对不起刘亦菲VOGUE造型",
+      "onboard_time": 1761636201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370209,
       "num": 370209,
       "word": "美国经济损失150亿美元",
@@ -15473,6 +15505,14 @@
       "onboard_time": 1760704461,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 349331,
+      "num": 184262,
+      "word": "冲锋衣 显命苦",
+      "onboard_time": 1761637762,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 349023,
@@ -19619,14 +19659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276659,
-      "num": 221155,
-      "word": "对不起刘亦菲VOGUE造型",
-      "onboard_time": 1761636201,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276544,
       "num": 227736,
       "word": "罗意威大秀",
@@ -19897,6 +19929,14 @@
       "onboard_time": 1760272401,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271978,
+      "num": 271978,
+      "word": "offer结束后实习生现状",
+      "onboard_time": 1761636022,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 271909,
@@ -21715,14 +21755,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 247054,
-      "num": 247054,
-      "word": "offer结束后实习生现状",
-      "onboard_time": 1761636022,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247015,
       "num": 178981,
       "word": "Bin燃尽了",
@@ -22891,6 +22923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231848,
+      "num": 174817,
+      "word": "特朗普略过日本国旗",
+      "onboard_time": 1761637762,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231790,
       "num": 215553,
       "word": "Ning喊话姿态",
@@ -23049,6 +23089,14 @@
       "onboard_time": 1761388461,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229998,
+      "num": 173557,
+      "word": "张艺兴金鹤奖最佳男主角",
+      "onboard_time": 1761639202,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 229911,
@@ -24043,14 +24091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218312,
-      "num": 218312,
-      "word": "网红被银环蛇咬嫌血清贵离去后失联",
-      "onboard_time": 1761636562,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -24473,6 +24513,14 @@
       "onboard_time": 1760800285,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214075,
+      "num": 170858,
+      "word": "宁艺卓ELLE造型",
+      "onboard_time": 1761639023,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213992,
@@ -32827,6 +32875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171651,
+      "num": 166491,
+      "word": "终于能看懂不同国家的菜单了",
+      "onboard_time": 1761639561,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171606,
       "num": 141905,
       "word": "张峻豪演唱会",
@@ -34267,6 +34323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166078,
+      "num": 166078,
+      "word": "男明星ELLE盛典出图",
+      "onboard_time": 1761639681,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165973,
       "num": 165973,
       "word": "金饰克价涨到1183元",
@@ -34512,6 +34576,14 @@
       "word": "女子谈恋爱2个月被骗181万",
       "onboard_time": 1761384441,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "动物血库灰色产业被曝光",
+      "onboard_time": 1761640223,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -35931,12 +36003,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159948,
+      "num": 159948,
+      "word": "A股收复4000点 牛市真来了吗",
+      "onboard_time": 1761640342,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159907,
       "num": 159907,
       "word": "仙逆",
       "onboard_time": 1760871141,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 159904,
+      "num": 233131,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159885,
@@ -37585,6 +37673,14 @@
       "onboard_time": 1760969422,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154543,
+      "num": 154543,
+      "word": "76岁爷爷陪爱热闹老伴住进养老院",
+      "onboard_time": 1761639023,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154542,
@@ -39411,6 +39507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148463,
+      "num": 148463,
+      "word": "易梦玲海的女儿",
+      "onboard_time": 1761640401,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 148444,
       "num": 148444,
       "word": "北京WBG对战成都GG",
@@ -40531,6 +40635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145434,
+      "num": 145434,
+      "word": "星穹铁道决战海报",
+      "onboard_time": 1761640162,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145426,
       "num": 145426,
       "word": "谁懂梁靖崑转身就走的救赎感",
@@ -41235,6 +41347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "常华森直播讲高数",
+      "onboard_time": 1761639862,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143015,
       "num": 143015,
       "word": "那艺娜登时尚芭莎",
@@ -41457,6 +41577,14 @@
       "onboard_time": 1761539482,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142211,
+      "num": 142211,
+      "word": "杨幂礼服全靠脸撑着",
+      "onboard_time": 1761638840,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 142199,
@@ -43753,6 +43881,14 @@
       "onboard_time": 1761208221,
       "rank": 47,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 136054,
+      "num": 136054,
+      "word": "张凌赫ELLE背头造型",
+      "onboard_time": 1761638302,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136011,
@@ -53753,6 +53889,14 @@
       "onboard_time": 1760423541,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116126,
+      "num": 159834,
+      "word": "佘诗曼谈许绍雄去世落泪",
+      "onboard_time": 1761640043,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116115,
@@ -67777,14 +67921,6 @@
       "onboard_time": 1759843884,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94066,
-      "num": 233131,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94043,
@@ -82507,6 +82643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60335,
+      "num": 130161,
+      "word": "河南一父亲伪装成小学生卧底救人",
+      "onboard_time": 1761638840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60320,
       "num": 58778,
       "word": "黄金暴涨谁是最大受害者",
@@ -84323,6 +84467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53468,
+      "num": 166527,
+      "word": "谷爱凌遇上KimJones秒变迷妹",
+      "onboard_time": 1761638783,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53431,
       "num": 441529,
       "word": "京东拍卖送英雄联盟门票KPL门票",
@@ -84817,6 +84969,14 @@
       "onboard_time": 1759494081,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51061,
+      "num": 181689,
+      "word": "波司登AREAL发布会排面",
+      "onboard_time": 1761638783,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 51055,
@@ -85387,6 +85547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48367,
+      "num": 159920,
+      "word": "学校收电话费校长等多人被立案审查",
+      "onboard_time": 1761638542,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48348,
       "num": 107288,
       "word": "娜扎这个wink我将循环播放",
@@ -85593,6 +85761,14 @@
       "onboard_time": 1760536703,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47616,
+      "num": 179284,
+      "word": "坠亡学生母亲称学校71分钟才报警",
+      "onboard_time": 1761640223,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47587,
@@ -85985,6 +86161,14 @@
       "onboard_time": 1761061520,
       "rank": 37,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 45762,
+      "num": 159815,
+      "word": "人人都嘲刘冲 人人都学刘冲",
+      "onboard_time": 1761640043,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 45739,
@@ -88075,6 +88259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35642,
+      "num": 159965,
+      "word": "今冬第一批车厘子一箱近1000元",
+      "onboard_time": 1761638660,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35628,
       "num": 92947,
       "word": "文班亚马旋转上篮自带少林风",
@@ -88817,6 +89009,14 @@
       "onboard_time": 1760612062,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31864,
+      "num": 180800,
+      "word": "京东成毅同款羽绒服减300",
+      "onboard_time": 1761637520,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 31848,

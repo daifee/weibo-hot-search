@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 15:40:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 16:35:32
 </p>
 </blockquote>
 <p>
@@ -917,6 +917,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E5%B7%B2%E5%A4%B1%E8%81%94%23" target="weibo">
 万科董事长辛杰已失联（热度：1448521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E7%BA%A2%E6%AF%AF%23" target="weibo">
+ELLE红毯（热度：1447102）
 </a>
 </li>
 
@@ -3089,6 +3095,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23" target="weibo">
 韩国大火中国妈妈隔窗送出孩子后坠亡（热度：845293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%A2%AB%E9%93%B6%E7%8E%AF%E8%9B%87%E5%92%AC%E5%AB%8C%E8%A1%80%E6%B8%85%E8%B4%B5%E7%A6%BB%E5%8E%BB%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
+网红被银环蛇咬嫌血清贵离去后失联（热度：845229）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%89%BE%E5%9B%9E%E6%89%8B%E6%9C%BA%E5%90%8E%E5%8F%91%E7%8E%B0%E7%9B%B8%E5%86%8C%E5%A4%9A%E4%BA%86%E6%AE%B5%E8%A7%86%E9%A2%91%23" target="weibo">
 女生找回手机后发现相册多了段视频（热度：582537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A7%B0%E4%B8%8D%E4%BE%BF%E9%80%8F%E9%9C%B2%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97%23" target="weibo">
-音乐节称不便透露坐地起价艺人名字（热度：582181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%9F%E9%9B%86%E4%BD%93%E5%87%9D%E5%9B%BA%23" target="weibo">
-日本队集体凝固（热度：581920）
 </a>
 </li>
 

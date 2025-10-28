@@ -1,0 +1,410 @@
+{
+  "runTime": 1761640532638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447102,
+        "num": 1447102,
+        "word": "ELLE红毯",
+        "onboard_time": 1761638421,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375353,
+        "num": 375353,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 1,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 12355,
+        "num": 320040,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 830609,
+        "num": 318112,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315557,
+        "num": 315557,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 688445,
+        "num": 305889,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 271978,
+        "num": 271978,
+        "word": "offer结束后实习生现状",
+        "onboard_time": 1761636022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208827,
+        "num": 208827,
+        "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+        "onboard_time": 1761631043,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197714,
+        "num": 197714,
+        "word": "满天星簪花",
+        "onboard_time": 1761632781,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 190533,
+        "num": 190533,
+        "word": "安倍晋三枪击案嫌疑人认罪",
+        "onboard_time": 1761629843,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 845229,
+        "num": 190505,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691332,
+        "num": 189052,
+        "word": "吃柚子 月经推迟",
+        "onboard_time": 1761635302,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 488825,
+        "num": 187486,
+        "word": "动物血库 抽流浪猫血",
+        "onboard_time": 1761637520,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410487,
+        "num": 186245,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370336,
+        "num": 185026,
+        "word": "对不起刘亦菲VOGUE造型",
+        "onboard_time": 1761636201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349331,
+        "num": 184262,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241235,
+        "num": 182884,
+        "word": "众星悼念许绍雄",
+        "onboard_time": 1761629962,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51061,
+        "num": 181689,
+        "word": "波司登AREAL发布会排面",
+        "onboard_time": 1761638783,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31864,
+        "num": 180800,
+        "word": "京东成毅同款羽绒服减300",
+        "onboard_time": 1761637520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47616,
+        "num": 179284,
+        "word": "坠亡学生母亲称学校71分钟才报警",
+        "onboard_time": 1761640223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341864,
+        "num": 178551,
+        "word": "黄金",
+        "onboard_time": 1761634882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310794,
+        "num": 176450,
+        "word": "爸爸开会女儿把哭声调成静音模式",
+        "onboard_time": 1761633322,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268203,
+        "num": 176346,
+        "word": "刘丹回应刘恺威拍拖",
+        "onboard_time": 1761634040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231848,
+        "num": 174817,
+        "word": "特朗普略过日本国旗",
+        "onboard_time": 1761637762,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229998,
+        "num": 173557,
+        "word": "张艺兴金鹤奖最佳男主角",
+        "onboard_time": 1761639202,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214614,
+        "num": 171822,
+        "word": "赵樱子回应和陈晓很配",
+        "onboard_time": 1761629422,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214075,
+        "num": 170858,
+        "word": "宁艺卓ELLE造型",
+        "onboard_time": 1761639023,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198520,
+        "num": 170531,
+        "word": "郭宇欣否认不会再演短剧了",
+        "onboard_time": 1761633741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169381,
+        "num": 169381,
+        "word": "选手破音萨顶顶秒按淘汰",
+        "onboard_time": 1761636740,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53468,
+        "num": 166527,
+        "word": "谷爱凌遇上KimJones秒变迷妹",
+        "onboard_time": 1761638783,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 166491,
+        "word": "终于能看懂不同国家的菜单了",
+        "onboard_time": 1761639561,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166078,
+        "num": 166078,
+        "word": "男明星ELLE盛典出图",
+        "onboard_time": 1761639681,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 164941,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163716,
+        "num": 163716,
+        "word": "李施嬅再见爱人你好张家妍",
+        "onboard_time": 1761633922,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35642,
+        "num": 159965,
+        "word": "今冬第一批车厘子一箱近1000元",
+        "onboard_time": 1761638660,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159948,
+        "num": 159948,
+        "word": "A股收复4000点 牛市真来了吗",
+        "onboard_time": 1761640342,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48367,
+        "num": 159920,
+        "word": "学校收电话费校长等多人被立案审查",
+        "onboard_time": 1761638542,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159904,
+        "num": 159904,
+        "word": "网约房 群租房",
+        "onboard_time": 1761636022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116126,
+        "num": 159834,
+        "word": "佘诗曼谈许绍雄去世落泪",
+        "onboard_time": 1761640043,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45762,
+        "num": 159815,
+        "word": "人人都嘲刘冲 人人都学刘冲",
+        "onboard_time": 1761640043,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 159813,
+        "word": "微博视界大会",
+        "onboard_time": 1761639922,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154543,
+        "num": 154543,
+        "word": "76岁爷爷陪爱热闹老伴住进养老院",
+        "onboard_time": 1761639023,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148463,
+        "num": 148463,
+        "word": "易梦玲海的女儿",
+        "onboard_time": 1761640401,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 145434,
+        "num": 145434,
+        "word": "星穹铁道决战海报",
+        "onboard_time": 1761640162,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143021,
+        "num": 143021,
+        "word": "常华森直播讲高数",
+        "onboard_time": 1761639862,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142211,
+        "num": 142211,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139673,
+        "num": 139673,
+        "word": "留学9天19岁女孩被电诈后自杀",
+        "onboard_time": 1761636022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136054,
+        "num": 136054,
+        "word": "张凌赫ELLE背头造型",
+        "onboard_time": 1761638302,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133626,
+        "num": 133626,
+        "word": "刮百万大奖请假去兑奖竟是假彩票",
+        "onboard_time": 1761632420,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60335,
+        "num": 130161,
+        "word": "河南一父亲伪装成小学生卧底救人",
+        "onboard_time": 1761638840,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    }
+  }
+}

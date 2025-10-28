@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761637220912,
+  "endTime": 1761640532638,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -25,6 +25,14 @@
       "onboard_time": 1761626065,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1447102,
+      "num": 1447102,
+      "word": "ELLE红毯",
+      "onboard_time": 1761638421,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1207721,
@@ -65,6 +73,14 @@
       "onboard_time": 1761633502,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 845229,
+      "num": 218312,
+      "word": "网红被银环蛇咬嫌血清贵离去后失联",
+      "onboard_time": 1761636562,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838414,
@@ -235,6 +251,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 488825,
+      "num": 187486,
+      "word": "动物血库 抽流浪猫血",
+      "onboard_time": 1761637520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484967,
       "num": 232597,
       "word": "黄金",
@@ -347,12 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370336,
+      "num": 221155,
+      "word": "对不起刘亦菲VOGUE造型",
+      "onboard_time": 1761636201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356453,
       "num": 176046,
       "word": "黄磊微信名叫多妹弟爸",
       "onboard_time": 1761561441,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349331,
+      "num": 184262,
+      "word": "冲锋衣 显命苦",
+      "onboard_time": 1761637762,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 346021,
@@ -427,12 +467,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 276659,
-      "num": 221155,
-      "word": "对不起刘亦菲VOGUE造型",
-      "onboard_time": 1761636201,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 271978,
+      "num": 271978,
+      "word": "offer结束后实习生现状",
+      "onboard_time": 1761636022,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 271569,
@@ -491,14 +531,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 247054,
-      "num": 247054,
-      "word": "offer结束后实习生现状",
-      "onboard_time": 1761636022,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243041,
       "num": 204705,
       "word": "日本天皇用英语说很高兴见到特朗普",
@@ -539,6 +571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 231848,
+      "num": 174817,
+      "word": "特朗普略过日本国旗",
+      "onboard_time": 1761637762,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 230723,
       "num": 230723,
       "word": "许绍雄因癌症致器官衰竭",
@@ -553,6 +593,14 @@
       "onboard_time": 1761627862,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229998,
+      "num": 173557,
+      "word": "张艺兴金鹤奖最佳男主角",
+      "onboard_time": 1761639202,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 229573,
@@ -611,20 +659,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218312,
-      "num": 218312,
-      "word": "网红被银环蛇咬嫌血清贵离去后失联",
-      "onboard_time": 1761636562,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216663,
       "num": 277285,
       "word": "打击低俗团播引诱打赏",
       "onboard_time": 1761615380,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214075,
+      "num": 170858,
+      "word": "宁艺卓ELLE造型",
+      "onboard_time": 1761639023,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210523,
@@ -843,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171651,
+      "num": 166491,
+      "word": "终于能看懂不同国家的菜单了",
+      "onboard_time": 1761639561,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170528,
       "num": 170528,
       "word": "杨幂ELLE盛典第一个登岛",
@@ -875,6 +931,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166078,
+      "num": 166078,
+      "word": "男明星ELLE盛典出图",
+      "onboard_time": 1761639681,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "动物血库灰色产业被曝光",
+      "onboard_time": 1761640223,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
@@ -905,6 +977,30 @@
       "onboard_time": 1761635302,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159948,
+      "num": 159948,
+      "word": "A股收复4000点 牛市真来了吗",
+      "onboard_time": 1761640342,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 159904,
+      "num": 233131,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159813,
+      "num": 159813,
+      "word": "微博视界大会",
+      "onboard_time": 1761639922,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159803,
@@ -963,6 +1059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 154543,
+      "num": 154543,
+      "word": "76岁爷爷陪爱热闹老伴住进养老院",
+      "onboard_time": 1761639023,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153932,
       "num": 153932,
       "word": "老外求助中国网友帮买冬奥周边",
@@ -1001,6 +1105,14 @@
       "onboard_time": 1761624864,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148463,
+      "num": 148463,
+      "word": "易梦玲海的女儿",
+      "onboard_time": 1761640401,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 147822,
@@ -1043,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145434,
+      "num": 145434,
+      "word": "星穹铁道决战海报",
+      "onboard_time": 1761640162,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144968,
       "num": 147751,
       "word": "杨幂回复Fly",
@@ -1075,12 +1195,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "常华森直播讲高数",
+      "onboard_time": 1761639862,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142401,
       "num": 142401,
       "word": "成毅撞肩这一下把我钓成翘嘴了",
       "onboard_time": 1761633862,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142211,
+      "num": 142211,
+      "word": "杨幂礼服全靠脸撑着",
+      "onboard_time": 1761638840,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 141982,
@@ -1121,6 +1257,14 @@
       "onboard_time": 1761628702,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136054,
+      "num": 136054,
+      "word": "张凌赫ELLE背头造型",
+      "onboard_time": 1761638302,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135680,
@@ -1363,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116126,
+      "num": 159834,
+      "word": "佘诗曼谈许绍雄去世落泪",
+      "onboard_time": 1761640043,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114237,
       "num": 114237,
       "word": "人民日报刊文驳斥台独歪曲历史言论",
@@ -1529,14 +1681,6 @@
       "onboard_time": 1761632184,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94066,
-      "num": 233131,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94032,
@@ -1851,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60335,
+      "num": 130161,
+      "word": "河南一父亲伪装成小学生卧底救人",
+      "onboard_time": 1761638840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60173,
       "num": 276577,
       "word": "特朗普说很喜欢金正恩",
@@ -1947,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53468,
+      "num": 166527,
+      "word": "谷爱凌遇上KimJones秒变迷妹",
+      "onboard_time": 1761638783,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53228,
       "num": 53228,
       "word": "特朗普回应俄试射末日武器",
@@ -1969,6 +2129,14 @@
       "onboard_time": 1761587775,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51061,
+      "num": 181689,
+      "word": "波司登AREAL发布会排面",
+      "onboard_time": 1761638783,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 50006,
@@ -2011,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48367,
+      "num": 159920,
+      "word": "学校收电话费校长等多人被立案审查",
+      "onboard_time": 1761638542,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47790,
       "num": 80856,
       "word": "陈哲远预告一滴泪镜头",
@@ -2027,6 +2203,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 47616,
+      "num": 179284,
+      "word": "坠亡学生母亲称学校71分钟才报警",
+      "onboard_time": 1761640223,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46963,
       "num": 145382,
       "word": "家长质疑职校吹风机5分钟1元收费贵",
@@ -2041,6 +2225,14 @@
       "onboard_time": 1761577462,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45762,
+      "num": 159815,
+      "word": "人人都嘲刘冲 人人都学刘冲",
+      "onboard_time": 1761640043,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 43962,
@@ -2099,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35642,
+      "num": 159965,
+      "word": "今冬第一批车厘子一箱近1000元",
+      "onboard_time": 1761638660,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35628,
       "num": 92947,
       "word": "文班亚马旋转上篮自带少林风",
@@ -2128,6 +2328,14 @@
       "word": "张庭全家福",
       "onboard_time": 1761624925,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31864,
+      "num": 180800,
+      "word": "京东成毅同款羽绒服减300",
+      "onboard_time": 1761637520,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2307,20 +2515,20 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 12355,
+      "num": 667777,
+      "word": "第十五届全运会",
+      "onboard_time": 1761570622,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9464,
       "num": 118641,
       "word": "六公主播许绍雄电影",
       "onboard_time": 1761630143,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6313,
-      "num": 667777,
-      "word": "第十五届全运会",
-      "onboard_time": 1761570622,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
