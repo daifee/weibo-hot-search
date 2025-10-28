@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 19:37:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 20:53:18
 </p>
 </blockquote>
 <p>
@@ -1929,6 +1929,12 @@ VOGUE盛典官宣阵容（热度：1089235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%80%E5%BA%86%E5%AF%B9%E9%92%9F%E6%A5%9A%E6%9B%A6%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23" target="weibo">
+王耀庆对钟楚曦贴脸开大（热度：1063993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%A8%E5%B1%B1%E6%99%AF%E5%8C%BA%E9%81%93%E6%AD%89%23" target="weibo">
 天门山景区道歉（热度：1062602）
 </a>
@@ -3489,6 +3495,12 @@ Peanut燃尽了（热度：833201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B2%A1%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
+杨幂没走红毯（热度：806080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
 王俊凯 抢票（热度：805585）
 </a>
@@ -4619,6 +4631,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%90%83%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
 印度人深圳地铁吃手抓饭（热度：690307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
+特朗普1分钟内两次无视高市早苗（热度：687862）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Doinb怒喷TheShy（热度：590180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A52%E4%BA%BA%E7%A0%B4%E5%9D%8F%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E8%88%AA%E6%A0%87%23" target="weibo">
 官方通报2人破坏为人民服务航标（热度：590001）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%92%BB%E6%88%92%23" target="weibo">
-黄子韬徐艺洋钻戒（热度：589631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%BE%9F%E5%AD%90%E5%A5%B3%E5%84%BF%E8%87%AA%E6%9B%9D%E4%BA%8C%E8%83%8E%E6%B5%81%E4%BA%A7%23" target="weibo">
-金龟子女儿自曝二胎流产（热度：588481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E6%8F%90%E5%89%8D%23" target="weibo">
-广东省考提前（热度：588046）
 </a>
 </li>
 

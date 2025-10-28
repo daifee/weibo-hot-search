@@ -1,0 +1,410 @@
+{
+  "runTime": 1761655998636,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 806080,
+        "num": 1128972,
+        "word": "杨幂没走红毯",
+        "onboard_time": 1761652763,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 687862,
+        "num": 687862,
+        "word": "特朗普1分钟内两次无视高市早苗",
+        "onboard_time": 1761646282,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26717,
+        "num": 577601,
+        "word": "第一观察",
+        "onboard_time": 1761644721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555648,
+        "num": 555648,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520515,
+        "num": 520515,
+        "word": "再见小花生",
+        "onboard_time": 1761649882,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 510087,
+        "num": 510087,
+        "word": "Peanut在休息室流泪",
+        "onboard_time": 1761653003,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 454194,
+        "num": 454194,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429821,
+        "num": 429821,
+        "word": "花少要拍团综了",
+        "onboard_time": 1761653662,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298795,
+        "num": 298795,
+        "word": "奶皮子糖葫芦卖到40元一串",
+        "onboard_time": 1761642862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99569,
+        "num": 298351,
+        "word": "官方介入动物血库抽流浪猫血牟利",
+        "onboard_time": 1761655282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063993,
+        "num": 297939,
+        "word": "王耀庆对钟楚曦贴脸开大",
+        "onboard_time": 1761652462,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 652295,
+        "num": 297272,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 556914,
+        "num": 296547,
+        "word": "米卡穿了吗",
+        "onboard_time": 1761647482,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 479407,
+        "num": 296036,
+        "word": "关晓彤造型正常了",
+        "onboard_time": 1761651382,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247938,
+        "num": 295901,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389224,
+        "num": 294856,
+        "word": "沈佳润红毯走过头了",
+        "onboard_time": 1761646402,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 354411,
+        "num": 294659,
+        "word": "钟楚曦ELLE红毯状态",
+        "onboard_time": 1761651382,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 343715,
+        "num": 294059,
+        "word": "郑智化无须道歉",
+        "onboard_time": 1761651501,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 365066,
+        "num": 293346,
+        "word": "关晓彤第二套好辣",
+        "onboard_time": 1761652642,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303849,
+        "num": 293094,
+        "word": "李宇春ELLE红毯压轴",
+        "onboard_time": 1761648682,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 841413,
+        "num": 292063,
+        "word": "张馨予 红毯定海神针",
+        "onboard_time": 1761646402,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361871,
+        "num": 291804,
+        "word": "蔡天凤碎尸案进展",
+        "onboard_time": 1761646763,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291416,
+        "num": 291416,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272583,
+        "num": 272583,
+        "word": "许绍雄岳家捐赠了岭南四大园林之首",
+        "onboard_time": 1761651262,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270863,
+        "num": 270863,
+        "word": "鹿晗吃面上大众点评了",
+        "onboard_time": 1761645442,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244377,
+        "num": 244377,
+        "word": "李沁工作室 摄影有待提高",
+        "onboard_time": 1761645862,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229033,
+        "num": 229033,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226698,
+        "num": 226698,
+        "word": "口呼吸",
+        "onboard_time": 1761653662,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203729,
+        "num": 214584,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185849,
+        "num": 207293,
+        "word": "十五五规划建议发布",
+        "onboard_time": 1761643162,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206319,
+        "num": 206319,
+        "word": "Peanut燃尽了",
+        "onboard_time": 1761649462,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193660,
+        "num": 193660,
+        "word": "网红四大门面",
+        "onboard_time": 1761653242,
+        "rank": 31,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 193032,
+        "num": 193032,
+        "word": "十个勤天我什么时候能为你们花点钱",
+        "onboard_time": 1761655522,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185841,
+        "num": 185841,
+        "word": "Zeus离开T1的这一年",
+        "onboard_time": 1761655222,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164360,
+        "num": 164360,
+        "word": "李维嘉回归湖南卫视",
+        "onboard_time": 1761641962,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163818,
+        "num": 163818,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139525,
+        "num": 139525,
+        "word": "宁艺卓 好会吹的风",
+        "onboard_time": 1761648382,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130750,
+        "num": 130750,
+        "word": "张艺凡镜头下得多瘦",
+        "onboard_time": 1761648441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115808,
+        "num": 127041,
+        "word": "和大美胡杨一起守护神舟腾飞",
+        "onboard_time": 1761654082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126450,
+        "num": 126450,
+        "word": "张凌赫红毯亮相",
+        "onboard_time": 1761654922,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318190,
+        "num": 125871,
+        "word": "ELLE晚宴",
+        "onboard_time": 1761655401,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "于适回应冠冕造型",
+        "onboard_time": 1761655762,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122648,
+        "num": 122648,
+        "word": "张婧仪香槟粉鱼尾裙",
+        "onboard_time": 1761648082,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118419,
+        "num": 118419,
+        "word": "我们来了3回归",
+        "onboard_time": 1761642502,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109538,
+        "num": 109538,
+        "word": "Peanut全场最高分",
+        "onboard_time": 1761655461,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109513,
+        "num": 109513,
+        "word": "WTT香港总决赛资格",
+        "onboard_time": 1761654082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107704,
+        "num": 107704,
+        "word": "迅猛龙ELLE红毯",
+        "onboard_time": 1761647422,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101597,
+        "num": 101597,
+        "word": "多地出现假彩票兑奖事件",
+        "onboard_time": 1761655823,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98455,
+        "num": 98455,
+        "word": "妈妈叮嘱吞10克黄金小孩别在外面拉",
+        "onboard_time": 1761654442,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70153,
+        "num": 93828,
+        "word": "小米集团高层调整",
+        "onboard_time": 1761647303,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五规划建议说明#"
+    }
+  }
+}
