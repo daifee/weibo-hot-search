@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761679314249,
+  "endTime": 1761680213621,
   "band_list": [
     {
       "raw_hot": 991274,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "女子想为亡夫再生一个孩子遭拒",
+      "onboard_time": 1761677773,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127452,
       "num": 127452,
       "word": "杨幂去了精品之夜",
@@ -193,14 +201,6 @@
       "onboard_time": 1761652763,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 109713,
-      "num": 109713,
-      "word": "女子想为亡夫再生一个孩子遭拒",
-      "onboard_time": 1761677773,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99705,
@@ -499,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19813,
+      "num": 27932,
+      "word": "许绍雄73岁只身一人录节目",
+      "onboard_time": 1761678314,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19056,
       "num": 24734,
       "word": "多地出现假彩票兑奖事件",
       "onboard_time": 1761655823,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17789,
-      "num": 19773,
-      "word": "许绍雄73岁只身一人录节目",
-      "onboard_time": 1761678314,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 17118,
@@ -547,8 +547,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 13001,
+      "num": 19101,
+      "word": "韩国人不睡觉的一天",
+      "onboard_time": 1761679154,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12390,
-      "num": 18509,
+      "num": 19100,
       "word": "济南市民排百米长队买奶皮子糖葫芦",
       "onboard_time": 1761679094,
       "rank": 48,
