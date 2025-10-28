@@ -1,0 +1,410 @@
+{
+  "runTime": 1761643742109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1303284,
+        "num": 1303284,
+        "word": "ELLE红毯",
+        "onboard_time": 1761638421,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 591337,
+        "num": 591337,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8815,
+        "num": 570964,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828680,
+        "num": 570034,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552549,
+        "num": 552549,
+        "word": "坠亡学生母亲称学校71分钟才报警",
+        "onboard_time": 1761640223,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262443,
+        "num": 262443,
+        "word": "网约房 群租房",
+        "onboard_time": 1761636022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764720,
+        "num": 258046,
+        "word": "李维嘉回归湖南卫视",
+        "onboard_time": 1761641962,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251258,
+        "num": 251258,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 7,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 246433,
+        "num": 246433,
+        "word": "十五五规划建议发布",
+        "onboard_time": 1761643162,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243321,
+        "num": 243321,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 849044,
+        "num": 243153,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1710484,
+        "num": 242827,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 665244,
+        "num": 242611,
+        "word": "我们来了3回归",
+        "onboard_time": 1761642502,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629300,
+        "num": 242283,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 455986,
+        "num": 241967,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390324,
+        "num": 241380,
+        "word": "特朗普略过日本国旗",
+        "onboard_time": 1761637762,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288358,
+        "num": 241254,
+        "word": "吃柚子 月经推迟",
+        "onboard_time": 1761635302,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37653,
+        "num": 240838,
+        "word": "中国新能源车以创新引领全球产业",
+        "onboard_time": 1761642442,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94970,
+        "num": 240493,
+        "word": "男子强奸嫂子再杀人案启动再审",
+        "onboard_time": 1761642742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52104,
+        "num": 240098,
+        "word": "中国羽绒品牌对话全球时尚",
+        "onboard_time": 1761642442,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 551972,
+        "num": 239803,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239701,
+        "num": 239701,
+        "word": "宁艺卓好辣",
+        "onboard_time": 1761641121,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227266,
+        "num": 227266,
+        "word": "宝宝去世两年妈妈常来墓地碎碎念",
+        "onboard_time": 1761642622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223915,
+        "num": 223915,
+        "word": "黄金",
+        "onboard_time": 1761634882,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218820,
+        "num": 218820,
+        "word": "动物血库 抽流浪猫血",
+        "onboard_time": 1761637520,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213688,
+        "num": 213688,
+        "word": "GEN对战HLE",
+        "onboard_time": 1761635302,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198370,
+        "num": 198370,
+        "word": "张予曦都穿不了的裤子到底谁能买",
+        "onboard_time": 1761640883,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189424,
+        "num": 189424,
+        "word": "天才女友",
+        "onboard_time": 1761642681,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44827,
+        "num": 179975,
+        "word": "于适好权威的时尚脸",
+        "onboard_time": 1761642502,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178672,
+        "num": 178672,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176916,
+        "num": 176916,
+        "word": "对不起刘亦菲VOGUE造型",
+        "onboard_time": 1761636201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66106,
+        "num": 172975,
+        "word": "十五五规划建议全文",
+        "onboard_time": 1761641541,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169964,
+        "num": 169964,
+        "word": "人人都嘲刘冲 人人都学刘冲",
+        "onboard_time": 1761640043,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169810,
+        "num": 169810,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 169534,
+        "word": "李维嘉何炅相拥而泣",
+        "onboard_time": 1761643462,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20039,
+        "num": 167748,
+        "word": "中通被行政约谈",
+        "onboard_time": 1761643704,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166890,
+        "num": 166890,
+        "word": "宁艺卓ELLE造型",
+        "onboard_time": 1761639023,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164515,
+        "num": 164515,
+        "word": "王楚钦在线求夸",
+        "onboard_time": 1761643103,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66386,
+        "num": 164058,
+        "word": "山姆黄金大闸蟹系水贝供货",
+        "onboard_time": 1761643103,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39815,
+        "num": 159371,
+        "word": "大爷发现女友患病要求退彩礼",
+        "onboard_time": 1761643103,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119174,
+        "num": 157704,
+        "word": "张雅琪喊七老童心看声鸣远扬",
+        "onboard_time": 1761642502,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127746,
+        "num": 156541,
+        "word": "钟睒睒第四次成中国首富",
+        "onboard_time": 1761641482,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154209,
+        "num": 154209,
+        "word": "2025KPL年总决赛节目单",
+        "onboard_time": 1761643402,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141855,
+        "num": 141855,
+        "word": "抽象人有自己的过节仪式感",
+        "onboard_time": 1761642742,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134651,
+        "num": 134651,
+        "word": "GEN的团战",
+        "onboard_time": 1761643402,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131897,
+        "num": 131897,
+        "word": "佘诗曼谈许绍雄去世落泪",
+        "onboard_time": 1761640043,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131786,
+        "num": 131786,
+        "word": "他得摔多少次才能成角儿啊",
+        "onboard_time": 1761643524,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121687,
+        "num": 131568,
+        "word": "众星悼念许绍雄",
+        "onboard_time": 1761629962,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "奶皮子糖葫芦卖到40元一串",
+        "onboard_time": 1761642862,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117163,
+        "num": 117163,
+        "word": "offer结束后实习生现状",
+        "onboard_time": 1761636022,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    }
+  }
+}

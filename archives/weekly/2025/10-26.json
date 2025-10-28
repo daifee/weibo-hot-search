@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761641334285,
+  "endTime": 1761643742109,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -73,6 +73,14 @@
       "onboard_time": 1761475520,
       "rank": 1,
       "category": "游戏,作品衍生"
+    },
+    {
+      "raw_hot": 1710484,
+      "num": 242827,
+      "word": "代露娃摔了",
+      "onboard_time": 1761641060,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1699534,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 764720,
+      "num": 258046,
+      "word": "李维嘉回归湖南卫视",
+      "onboard_time": 1761641962,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760140,
       "num": 180223,
       "word": "鹿晗ins发自拍",
@@ -691,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 665244,
+      "num": 242611,
+      "word": "我们来了3回归",
+      "onboard_time": 1761642502,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 658196,
       "num": 208358,
       "word": "周润发看望许绍雄",
@@ -859,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591337,
+      "num": 591337,
+      "word": "动物血库灰色产业被曝光",
+      "onboard_time": 1761640223,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581156,
       "num": 252465,
       "word": "小海绵探班黄晓明",
@@ -977,6 +1009,22 @@
       "onboard_time": 1761556281,
       "rank": 14,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 552549,
+      "num": 552549,
+      "word": "坠亡学生母亲称学校71分钟才报警",
+      "onboard_time": 1761640223,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551972,
+      "num": 239803,
+      "word": "女狱警与囚犯发生关系还有囚犯放风",
+      "onboard_time": 1761642622,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 550050,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1761468800,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390324,
+      "num": 280720,
+      "word": "特朗普略过日本国旗",
+      "onboard_time": 1761637762,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 388811,
@@ -1987,14 +2043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 280720,
-      "num": 280720,
-      "word": "特朗普略过日本国旗",
-      "onboard_time": 1761637762,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 279890,
       "num": 195200,
       "word": "张檬回应带儿子去香港打疫苗",
@@ -2107,6 +2155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262443,
+      "num": 350570,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261964,
       "num": 218851,
       "word": "内娱来了一部顶配年代剧",
@@ -2203,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246433,
+      "num": 246433,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246332,
       "num": 246332,
       "word": "男朋友失联已看广告复活",
@@ -2249,6 +2313,14 @@
       "onboard_time": 1761437538,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239701,
+      "num": 239701,
+      "word": "宁艺卓好辣",
+      "onboard_time": 1761641121,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239072,
@@ -2427,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227266,
+      "num": 227266,
+      "word": "宝宝去世两年妈妈常来墓地碎碎念",
+      "onboard_time": 1761642622,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227235,
       "num": 227235,
       "word": "普通女生化妆最有效果的一步",
@@ -2585,6 +2665,14 @@
       "onboard_time": 1761538043,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213688,
+      "num": 213688,
+      "word": "GEN对战HLE",
+      "onboard_time": 1761635302,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 213564,
@@ -2875,6 +2963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198370,
+      "num": 198370,
+      "word": "张予曦都穿不了的裤子到底谁能买",
+      "onboard_time": 1761640883,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198197,
       "num": 198197,
       "word": "金色的雨",
@@ -2889,14 +2985,6 @@
       "onboard_time": 1761552921,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196951,
-      "num": 196951,
-      "word": "张予曦都穿不了的裤子到底谁能买",
-      "onboard_time": 1761640883,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 196944,
@@ -3083,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189424,
+      "num": 189424,
+      "word": "天才女友",
+      "onboard_time": 1761642681,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188615,
       "num": 188615,
       "word": "花海也在追暗河传",
@@ -3235,14 +3331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 184364,
-      "num": 350570,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184256,
       "num": 224985,
       "word": "TVB今年去世的艺人",
@@ -3273,14 +3361,6 @@
       "onboard_time": 1761474500,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183128,
-      "num": 183128,
-      "word": "代露娃摔了",
-      "onboard_time": 1761641060,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183061,
@@ -3651,12 +3731,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 169964,
+      "num": 169964,
+      "word": "人人都嘲刘冲 人人都学刘冲",
+      "onboard_time": 1761640043,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169556,
       "num": 169556,
       "word": "A股临近4000点出现两个异常现象",
       "onboard_time": 1761569962,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169534,
+      "num": 169534,
+      "word": "李维嘉何炅相拥而泣",
+      "onboard_time": 1761643462,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 169527,
@@ -3779,14 +3875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164941,
-      "num": 164941,
-      "word": "动物血库灰色产业被曝光",
-      "onboard_time": 1761640223,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164692,
       "num": 309212,
       "word": "27岁女子称花6万相亲被介绍50岁对象",
@@ -3809,6 +3897,14 @@
       "onboard_time": 1761549681,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164515,
+      "num": 164515,
+      "word": "王楚钦在线求夸",
+      "onboard_time": 1761643103,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 164076,
@@ -3969,14 +4065,6 @@
       "onboard_time": 1761452721,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160009,
-      "num": 160009,
-      "word": "GEN对战HLE",
-      "onboard_time": 1761635302,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 159948,
@@ -4201,6 +4289,14 @@
       "onboard_time": 1761639023,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154209,
+      "num": 154209,
+      "word": "2025KPL年总决赛节目单",
+      "onboard_time": 1761643402,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 154016,
@@ -4723,6 +4819,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 141855,
+      "num": 141855,
+      "word": "抽象人有自己的过节仪式感",
+      "onboard_time": 1761642742,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141792,
       "num": 141792,
       "word": "你猜胡先煦为什么不笑",
@@ -4793,14 +4897,6 @@
       "onboard_time": 1761487401,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139161,
-      "num": 159815,
-      "word": "人人都嘲刘冲 人人都学刘冲",
-      "onboard_time": 1761640043,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 139111,
@@ -5051,6 +5147,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "GEN的团战",
+      "onboard_time": 1761643402,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134434,
       "num": 170807,
       "word": "龚俊暗河传16集16分16秒",
@@ -5275,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131786,
+      "num": 131786,
+      "word": "他得摔多少次才能成角儿啊",
+      "onboard_time": 1761643524,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131632,
       "num": 131632,
       "word": "跑男西藏路透",
@@ -5297,6 +5409,14 @@
       "onboard_time": 1761563181,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131504,
+      "num": 131504,
+      "word": "奶皮子糖葫芦卖到40元一串",
+      "onboard_time": 1761642862,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131458,
@@ -5515,6 +5635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127746,
+      "num": 156541,
+      "word": "钟睒睒第四次成中国首富",
+      "onboard_time": 1761641482,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127730,
       "num": 127730,
       "word": "中国冰壶女队全胜夺冠",
@@ -5577,14 +5705,6 @@
       "onboard_time": 1761567442,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126388,
-      "num": 126388,
-      "word": "宁艺卓好辣",
-      "onboard_time": 1761641121,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126318,
@@ -5993,6 +6113,14 @@
       "onboard_time": 1761570680,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119174,
+      "num": 157704,
+      "word": "张雅琪喊七老童心看声鸣远扬",
+      "onboard_time": 1761642502,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 119072,
@@ -6835,14 +6963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101913,
-      "num": 316421,
-      "word": "坠亡学生母亲称学校71分钟才报警",
-      "onboard_time": 1761640223,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101840,
       "num": 101840,
       "word": "超700人希望旁听安倍遇刺案",
@@ -7233,6 +7353,14 @@
       "onboard_time": 1761575003,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94970,
+      "num": 240493,
+      "word": "男子强奸嫂子再杀人案启动再审",
+      "onboard_time": 1761642742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94889,
@@ -8203,12 +8331,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 66386,
+      "num": 164058,
+      "word": "山姆黄金大闸蟹系水贝供货",
+      "onboard_time": 1761643103,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
       "onboard_time": 1761634821,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66106,
+      "num": 172975,
+      "word": "十五五规划建议全文",
+      "onboard_time": 1761641541,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66047,
@@ -8603,6 +8747,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 52104,
+      "num": 240098,
+      "word": "中国羽绒品牌对话全球时尚",
+      "onboard_time": 1761642442,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51831,
       "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
@@ -8811,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44827,
+      "num": 179975,
+      "word": "于适好权威的时尚脸",
+      "onboard_time": 1761642502,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44528,
       "num": 116225,
       "word": "老赖朋友圈晒旅游债主患癌求救命钱",
@@ -8907,6 +9067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39815,
+      "num": 159371,
+      "word": "大爷发现女友患病要求退彩礼",
+      "onboard_time": 1761643103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39410,
       "num": 129542,
       "word": "GEN对战HLE数据前瞻",
@@ -8929,6 +9097,14 @@
       "onboard_time": 1761622167,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37653,
+      "num": 240838,
+      "word": "中国新能源车以创新引领全球产业",
+      "onboard_time": 1761642442,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 37580,
@@ -9377,6 +9553,14 @@
       "onboard_time": 1761557482,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 20039,
+      "num": 167748,
+      "word": "中通被行政约谈",
+      "onboard_time": 1761643704,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20005,

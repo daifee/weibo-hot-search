@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 16:48:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 17:29:02
 </p>
 </blockquote>
 <p>
@@ -587,6 +587,12 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%20%E4%B8%80%E5%88%A0%E7%9A%86%E7%A9%BA%23" target="weibo">
 微信 一删皆空（热度：1713011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%91%94%E4%BA%86%23" target="weibo">
+代露娃摔了（热度：1710484）
 </a>
 </li>
 
@@ -3861,6 +3867,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%9E%E5%BD%92%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%23" target="weibo">
+李维嘉回归湖南卫视（热度：764720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BD%AC%E7%A7%BB%E8%B6%8515%E4%B8%87%E4%BA%BA%23" target="weibo">
 广东转移超15万人（热度：763916）
 </a>
@@ -4847,6 +4859,12 @@ Bin（热度：667714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%98%E5%B4%BD%E7%95%99%E5%A5%B6%23" target="weibo">
 忘崽留奶（热度：665580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%863%E5%9B%9E%E5%BD%92%23" target="weibo">
+我们来了3回归（热度：665244）
 </a>
 </li>
 
@@ -5889,6 +5907,12 @@ A股太强了（热度：593831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E8%A1%80%E5%BA%93%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%85%89%23" target="weibo">
+动物血库灰色产业被曝光（热度：591337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E7%A7%B0%E5%9C%A8%E6%90%9E%E6%8A%BD%E8%B1%A1%23" target="weibo">
 男子当街直播猥亵称在搞抽象（热度：591197）
 </a>
@@ -5987,30 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%A8%23" target="weibo">
 美政府关门（热度：584638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
-环保少女再次被以军扣押（热度：584436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E8%B0%81%E8%83%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E5%8C%85%E5%9C%BA%E9%93%BE%E6%8E%A5%23" target="weibo">
-白鹿 谁能给我一个包场链接（热度：584308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%85%E5%85%B5%E5%BC%8F%E8%B7%86%E6%8B%B3%E9%81%93%E8%A1%A8%E6%BC%94%E5%87%BA%E7%8E%B0%E5%A4%B1%E8%AF%AF%23" target="weibo">
-韩国阅兵式跆拳道表演出现失误（热度：583769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23100T%E5%98%B2%E8%AE%BDLPL%23" target="weibo">
-100T嘲讽LPL（热度：582896）
 </a>
 </li>
 
