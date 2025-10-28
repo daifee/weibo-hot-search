@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761636362169,
+  "endTime": 1761637220912,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1084149,
+      "num": 315319,
+      "word": "吃柚子 月经推迟",
+      "onboard_time": 1761635302,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 964561,
       "num": 434975,
       "word": "佘诗曼 文慧心回来了",
@@ -51,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 883230,
-      "num": 233540,
-      "word": "吃柚子 月经推迟",
-      "onboard_time": 1761635302,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 903957,
+      "num": 903957,
+      "word": "烟台理工学院通报学生坠楼身亡",
+      "onboard_time": 1761633502,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 838414,
@@ -89,14 +97,6 @@
       "onboard_time": 1761621687,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 761083,
-      "num": 761083,
-      "word": "烟台理工学院通报学生坠楼身亡",
-      "onboard_time": 1761633502,
-      "rank": 46,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 742116,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 603806,
-      "num": 233158,
+      "num": 303819,
       "word": "田曦薇哭了",
       "onboard_time": 1761630562,
       "rank": 23,
@@ -235,6 +235,22 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 484967,
+      "num": 232597,
+      "word": "黄金",
+      "onboard_time": 1761610701,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 484594,
+      "num": 291500,
+      "word": "刘丹回应刘恺威拍拖",
+      "onboard_time": 1761634040,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480303,
       "num": 414474,
       "word": "众星悼念许绍雄",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 474873,
-      "num": 231820,
+      "num": 246266,
       "word": "11岁孩子为锻炼舌头吞下10克金豆",
       "onboard_time": 1761630322,
       "rank": 13,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 449038,
-      "num": 231731,
+      "num": 287012,
       "word": "赵樱子回应和陈晓很配",
       "onboard_time": 1761629422,
       "rank": 42,
@@ -291,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433341,
-      "num": 230525,
-      "word": "刘丹回应刘恺威拍拖",
-      "onboard_time": 1761634040,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419745,
       "num": 419745,
       "word": "光遇",
@@ -313,14 +321,6 @@
       "onboard_time": 1761629843,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 399934,
-      "num": 181850,
-      "word": "黄金",
-      "onboard_time": 1761610701,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 383824,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372304,
+      "num": 228582,
+      "word": "爸爸开会女儿把哭声调成静音模式",
+      "onboard_time": 1761633322,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356453,
       "num": 176046,
       "word": "黄磊微信名叫多妹弟爸",
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344650,
-      "num": 178955,
-      "word": "爸爸开会女儿把哭声调成静音模式",
-      "onboard_time": 1761633322,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332121,
       "num": 332121,
       "word": "安倍遇刺案今天开庭",
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 328042,
-      "num": 196088,
+      "num": 223452,
       "word": "刮百万大奖请假去兑奖竟是假彩票",
       "onboard_time": 1761632420,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325560,
+      "num": 325560,
+      "word": "满天星簪花",
+      "onboard_time": 1761632781,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 325432,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 317840,
-      "num": 229653,
+      "num": 282165,
       "word": "李施嬅再见爱人你好张家妍",
       "onboard_time": 1761633922,
       "rank": 29,
@@ -419,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276659,
+      "num": 221155,
+      "word": "对不起刘亦菲VOGUE造型",
+      "onboard_time": 1761636201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271569,
       "num": 271569,
       "word": "天地剑心第三",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 261964,
-      "num": 166161,
+      "num": 218851,
       "word": "内娱来了一部顶配年代剧",
       "onboard_time": 1761634582,
       "rank": 23,
@@ -473,6 +489,14 @@
       "onboard_time": 1761614540,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247054,
+      "num": 247054,
+      "word": "offer结束后实习生现状",
+      "onboard_time": 1761636022,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 243041,
@@ -505,14 +529,6 @@
       "onboard_time": 1761620421,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233935,
-      "num": 233935,
-      "word": "满天星簪花",
-      "onboard_time": 1761632781,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 233695,
@@ -593,6 +609,14 @@
       "onboard_time": 1761628162,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218312,
+      "num": 218312,
+      "word": "网红被银环蛇咬嫌血清贵离去后失联",
+      "onboard_time": 1761636562,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216663,
@@ -737,6 +761,14 @@
       "onboard_time": 1761624506,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180761,
+      "num": 180761,
+      "word": "选手破音萨顶顶秒按淘汰",
+      "onboard_time": 1761636740,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 177905,
@@ -899,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156813,
+      "num": 194494,
+      "word": "女尸还是男尸警方结论与目击者相反",
+      "onboard_time": 1761633561,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156114,
       "num": 156114,
       "word": "小时候最喜欢的国产动画",
@@ -931,14 +971,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 152995,
-      "num": 194494,
-      "word": "女尸还是男尸警方结论与目击者相反",
-      "onboard_time": 1761633561,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "许绍雄最后一条视频",
@@ -953,6 +985,14 @@
       "onboard_time": 1761622586,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150003,
+      "num": 237640,
+      "word": "留学9天19岁女孩被电诈后自杀",
+      "onboard_time": 1761636022,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149442,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1761615020,
       "rank": 28,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 144963,
-      "num": 160379,
-      "word": "offer结束后实习生现状",
-      "onboard_time": 1761636022,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 144605,
@@ -1115,6 +1147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134000,
+      "num": 134000,
+      "word": "你介意约会对象摸别的女生头发吗",
+      "onboard_time": 1761636022,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133179,
       "num": 159226,
       "word": "金价跌超2.8%",
@@ -1131,20 +1171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131924,
-      "num": 131924,
-      "word": "你介意约会对象摸别的女生头发吗",
-      "onboard_time": 1761636022,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131328,
       "num": 131328,
       "word": "孙颖莎樊振东等拟获表彰",
       "onboard_time": 1761618858,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130522,
+      "num": 130522,
+      "word": "特朗普明确表示支持高市早苗",
+      "onboard_time": 1761633080,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130439,
@@ -1155,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128852,
-      "num": 128852,
-      "word": "对不起刘亦菲VOGUE造型",
-      "onboard_time": 1761636201,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 129821,
+      "num": 129821,
+      "word": "湖南一男子直播挖蛇被咬后下落不明",
+      "onboard_time": 1761632961,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128203,
@@ -1283,12 +1323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118498,
-      "num": 118498,
-      "word": "特朗普明确表示支持高市早苗",
-      "onboard_time": 1761633080,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 120156,
+      "num": 120156,
+      "word": "魏哲鸣内娱鸡排哥",
+      "onboard_time": 1761636740,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 118335,
@@ -1315,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116243,
+      "num": 116243,
+      "word": "s15淘汰赛",
+      "onboard_time": 1761636381,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114237,
       "num": 114237,
       "word": "人民日报刊文驳斥台独歪曲历史言论",
@@ -1339,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111131,
+      "num": 111131,
+      "word": "中国实现完全统一是势不可挡大势",
+      "onboard_time": 1761633080,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110202,
       "num": 110202,
       "word": "10件事把流失的气血补回来",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1761620179,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106821,
-      "num": 109643,
-      "word": "湖南一男子直播挖蛇被咬后下落不明",
-      "onboard_time": 1761632961,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106580,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1761632184,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94066,
+      "num": 233131,
+      "word": "网约房 群租房",
+      "onboard_time": 1761636022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94032,
@@ -1691,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69670,
+      "num": 243479,
+      "word": "女儿失踪多年未立案父母抱憾离世",
+      "onboard_time": 1761636201,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67252,
       "num": 105328,
       "word": "呼吸道合胞病毒感染进入高发期",
@@ -1707,7 +1771,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65448,
+      "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
       "onboard_time": 1761634821,
@@ -1899,28 +1963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51793,
-      "num": 184668,
-      "word": "网约房 群租房",
-      "onboard_time": 1761636022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51663,
       "num": 47454,
       "word": "孙恩盛回应拍短剧",
       "onboard_time": 1761587775,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50264,
-      "num": 161647,
-      "word": "留学9天19岁女孩被电诈后自杀",
-      "onboard_time": 1761636022,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50006,
@@ -2025,14 +2073,6 @@
       "onboard_time": 1761635060,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 39324,
-      "num": 157031,
-      "word": "女儿失踪多年未立案父母抱憾离世",
-      "onboard_time": 1761636201,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38753,
@@ -2147,20 +2187,20 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 25663,
+      "num": 132084,
+      "word": "骗子一句姐姐背后的围猎与剿杀",
+      "onboard_time": 1761635481,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25479,
       "num": 32437,
       "word": "郑智化深圳机场视频",
       "onboard_time": 1761588435,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25107,
-      "num": 132084,
-      "word": "骗子一句姐姐背后的围猎与剿杀",
-      "onboard_time": 1761635481,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22245,
@@ -2251,20 +2291,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 15084,
+      "num": 131930,
+      "word": "椰子水",
+      "onboard_time": 1761636261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14302,
       "num": 17127,
       "word": "大学没教的就业指南",
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 13697,
-      "num": 131930,
-      "word": "椰子水",
-      "onboard_time": 1761636261,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9464,

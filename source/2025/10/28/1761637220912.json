@@ -1,0 +1,410 @@
+{
+  "runTime": 1761637220912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297182,
+        "num": 1297182,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903957,
+        "num": 903957,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 5322,
+        "num": 594502,
+        "word": "第十五届全运会",
+        "onboard_time": 1761570622,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486373,
+        "num": 486373,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 3,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 346414,
+        "num": 346414,
+        "word": "安倍晋三枪击案嫌疑人认罪",
+        "onboard_time": 1761629843,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 420759,
+        "num": 344702,
+        "word": "众星悼念许绍雄",
+        "onboard_time": 1761629962,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393782,
+        "num": 344549,
+        "word": "郭宇欣否认不会再演短剧了",
+        "onboard_time": 1761633741,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340952,
+        "num": 340952,
+        "word": "山姆一门店黄金大闸蟹涉嫌侵权",
+        "onboard_time": 1761631043,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325560,
+        "num": 325560,
+        "word": "满天星簪花",
+        "onboard_time": 1761632781,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 316234,
+        "num": 316234,
+        "word": "女明星ELLE出图",
+        "onboard_time": 1761625644,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1084149,
+        "num": 315319,
+        "word": "吃柚子 月经推迟",
+        "onboard_time": 1761635302,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581972,
+        "num": 303819,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484594,
+        "num": 291500,
+        "word": "刘丹回应刘恺威拍拖",
+        "onboard_time": 1761634040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408926,
+        "num": 287012,
+        "word": "赵樱子回应和陈晓很配",
+        "onboard_time": 1761629422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282165,
+        "num": 282165,
+        "word": "李施嬅再见爱人你好张家妍",
+        "onboard_time": 1761633922,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247054,
+        "num": 247054,
+        "word": "offer结束后实习生现状",
+        "onboard_time": 1761636022,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365659,
+        "num": 246266,
+        "word": "11岁孩子为锻炼舌头吞下10克金豆",
+        "onboard_time": 1761630322,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69670,
+        "num": 243479,
+        "word": "女儿失踪多年未立案父母抱憾离世",
+        "onboard_time": 1761636201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150003,
+        "num": 237640,
+        "word": "留学9天19岁女孩被电诈后自杀",
+        "onboard_time": 1761636022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 233131,
+        "word": "网约房 群租房",
+        "onboard_time": 1761636022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484967,
+        "num": 232597,
+        "word": "黄金",
+        "onboard_time": 1761634882,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 372304,
+        "num": 228582,
+        "word": "爸爸开会女儿把哭声调成静音模式",
+        "onboard_time": 1761633322,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293172,
+        "num": 223452,
+        "word": "刮百万大奖请假去兑奖竟是假彩票",
+        "onboard_time": 1761632420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276659,
+        "num": 221155,
+        "word": "对不起刘亦菲VOGUE造型",
+        "onboard_time": 1761636201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218851,
+        "num": 218851,
+        "word": "内娱来了一部顶配年代剧",
+        "onboard_time": 1761634582,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218312,
+        "num": 218312,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186821,
+        "num": 186821,
+        "word": "于正要带着清宫剧回来了",
+        "onboard_time": 1761629843,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180761,
+        "num": 180761,
+        "word": "选手破音萨顶顶秒按淘汰",
+        "onboard_time": 1761636740,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151913,
+        "num": 151913,
+        "word": "成都马拉松官方称已报警",
+        "onboard_time": 1761634282,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151646,
+        "num": 151646,
+        "word": "迪丽热巴新剧开机记录",
+        "onboard_time": 1761630202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254649,
+        "num": 151571,
+        "word": "14岁男生被女同学击中左胸后瘫痪",
+        "onboard_time": 1761582199,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190127,
+        "num": 151171,
+        "word": "金价",
+        "onboard_time": 1761636802,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156813,
+        "num": 151160,
+        "word": "女尸还是男尸警方结论与目击者相反",
+        "onboard_time": 1761633561,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149289,
+        "num": 149289,
+        "word": "男生没认出订婚当天打扮漂亮的女友",
+        "onboard_time": 1761625465,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145808,
+        "num": 145808,
+        "word": "陈伟霆 传新iPhone要一天多",
+        "onboard_time": 1761625526,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144441,
+        "num": 144441,
+        "word": "电商让聚酯纤维长出血肉",
+        "onboard_time": 1761633801,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134000,
+        "num": 134000,
+        "word": "你介意约会对象摸别的女生头发吗",
+        "onboard_time": 1761636022,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115067,
+        "num": 131306,
+        "word": "张继科晒樊振东亲签球拍",
+        "onboard_time": 1761628104,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15084,
+        "num": 130818,
+        "word": "椰子水",
+        "onboard_time": 1761636261,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130522,
+        "num": 130522,
+        "word": "特朗普明确表示支持高市早苗",
+        "onboard_time": 1761633080,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129821,
+        "num": 129821,
+        "word": "湖南一男子直播挖蛇被咬后下落不明",
+        "onboard_time": 1761632961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124911,
+        "num": 124911,
+        "word": "写字不好看的不许开蛋糕店",
+        "onboard_time": 1761616459,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120156,
+        "num": 120156,
+        "word": "魏哲鸣内娱鸡排哥",
+        "onboard_time": 1761636740,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "s15淘汰赛",
+        "onboard_time": 1761636381,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114546,
+        "num": 114546,
+        "word": "印尼偶遇李现爬火山",
+        "onboard_time": 1761631221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113079,
+        "num": 113079,
+        "word": "韦雪张馨予与友人聚餐",
+        "onboard_time": 1761632061,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111131,
+        "num": 111131,
+        "word": "中国实现完全统一是势不可挡大势",
+        "onboard_time": 1761633080,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66163,
+        "num": 110711,
+        "word": "馆长被水立方震撼到词穷",
+        "onboard_time": 1761634821,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110416,
+        "num": 110416,
+        "word": "刘宇宁怼不过的女人出现了",
+        "onboard_time": 1761627862,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25663,
+        "num": 109235,
+        "word": "骗子一句姐姐背后的围猎与剿杀",
+        "onboard_time": 1761635481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#呵护好中华文明瑰宝习近平这样嘱托#"
+    }
+  }
+}

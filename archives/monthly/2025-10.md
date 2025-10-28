@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 15:26:02
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 15:40:20
 </p>
 </blockquote>
 <p>
@@ -1857,6 +1857,12 @@ VOGUE盛典官宣阵容（热度：1089235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%20%E6%9C%88%E7%BB%8F%E6%8E%A8%E8%BF%9F%23" target="weibo">
+吃柚子 月经推迟（热度：1084149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8%E9%80%9A%E7%BC%89%E4%BB%A4%E4%B8%8A%E8%AF%81%E4%BB%B6%E5%8F%B7%E8%AE%A4%E8%AF%81%E6%B8%B8%E6%88%8F%23" target="weibo">
 小孩哥用通缉令上证件号认证游戏（热度：1079559）
 </a>
@@ -2715,6 +2721,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+烟台理工学院通报学生坠楼身亡（热度：903957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%A0%E4%BB%AC%E7%AC%91%E5%BE%97%E5%A4%AA%E5%A4%A7%E5%A3%B0%E4%BA%86%23" target="weibo">
 陈伟霆你们笑得太大声了（热度：903404）
 </a>
@@ -2825,12 +2837,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%20%E8%8E%B2%E6%B1%A0%E6%98%A5%E6%99%9A%23" target="weibo">
 张艺兴 莲池春晚（热度：883908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%20%E6%9C%88%E7%BB%8F%E6%8E%A8%E8%BF%9F%23" target="weibo">
-吃柚子 月经推迟（热度：883230）
 </a>
 </li>
 
@@ -3857,12 +3863,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E6%AD%BB%E5%88%91%E8%AF%89%E6%B1%82%E5%90%8E%E6%B1%82%E9%A5%B6%23" target="weibo">
 杀害女同学男生听到死刑诉求后求饶（热度：761747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
-烟台理工学院通报学生坠楼身亡（热度：761083）
 </a>
 </li>
 
