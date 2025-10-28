@@ -1,7 +1,15 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761617753964,
+  "endTime": 1761621228269,
   "band_list": [
+    {
+      "raw_hot": 1207614,
+      "num": 189005,
+      "word": "切尔诺贝利核电站附近出现蓝色狗",
+      "onboard_time": 1761615438,
+      "rank": 12,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1200152,
       "num": 187481,
@@ -11,20 +19,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1157379,
-      "num": 163410,
-      "word": "切尔诺贝利核电站附近出现蓝色狗",
-      "onboard_time": 1761615438,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 899892,
+      "raw_hot": 1087525,
       "num": 197850,
       "word": "许绍雄",
       "onboard_time": 1761571641,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970719,
+      "num": 1155315,
+      "word": "欢喜哥许绍雄逝世",
+      "onboard_time": 1761621144,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 838414,
+      "num": 167467,
+      "word": "阳光型抑郁",
+      "onboard_time": 1761618320,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 818435,
@@ -67,8 +83,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 579212,
+      "num": 165802,
+      "word": "一年等于36个10天",
+      "onboard_time": 1761619219,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 568186,
-      "num": 160478,
+      "num": 162944,
       "word": "分手1年复合后狗狗的反应",
       "onboard_time": 1761615020,
       "rank": 17,
@@ -81,6 +105,14 @@
       "onboard_time": 1761577522,
       "rank": 14,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 457973,
+      "num": 162003,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1761616459,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 453674,
@@ -171,6 +203,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248516,
+      "num": 159716,
+      "word": "杨清柠说王乐乐结婚自己给当伴娘",
+      "onboard_time": 1761614540,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 243041,
+      "num": 158128,
+      "word": "日本天皇用英语说很高兴见到特朗普",
+      "onboard_time": 1761615501,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 238824,
+      "num": 238824,
+      "word": "野狗骨头",
+      "onboard_time": 1761619640,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237803,
       "num": 237803,
       "word": "Bin称输100T和G2我要担责",
@@ -193,14 +249,6 @@
       "onboard_time": 1761576924,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214070,
-      "num": 159716,
-      "word": "杨清柠说王乐乐结婚自己给当伴娘",
-      "onboard_time": 1761614540,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 210523,
@@ -227,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190059,
-      "num": 158128,
-      "word": "日本天皇用英语说很高兴见到特朗普",
-      "onboard_time": 1761615501,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 190770,
+      "num": 145230,
+      "word": "沙溢佟丽娅是邻居",
+      "onboard_time": 1761620300,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190524,
+      "num": 190524,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186430,
@@ -241,6 +297,22 @@
       "onboard_time": 1761614419,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182136,
+      "num": 144603,
+      "word": "周润发看望许绍雄",
+      "onboard_time": 1761618620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177690,
+      "num": 142975,
+      "word": "刘涛 不要叫我妈妈啦",
+      "onboard_time": 1761620598,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 173192,
@@ -275,8 +347,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170331,
+      "num": 170331,
+      "word": "中央网信办将整治验资pk",
+      "onboard_time": 1761617839,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166167,
-      "num": 131766,
+      "num": 142769,
       "word": "唯一不玩手机认真听课的被轰出去了",
       "onboard_time": 1761616581,
       "rank": 30,
@@ -291,12 +371,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 162311,
-      "num": 136530,
-      "word": "写字不好看的不许开蛋糕店",
-      "onboard_time": 1761616459,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 164204,
+      "num": 148261,
+      "word": "北京奥运会火炬手评郑智化",
+      "onboard_time": 1761617660,
+      "rank": 48,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 159803,
@@ -329,6 +409,14 @@
       "onboard_time": 1761606618,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 148604,
+      "num": 148604,
+      "word": "玉茗茶骨预告",
+      "onboard_time": 1761619159,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 147822,
@@ -387,11 +475,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133623,
+      "num": 133623,
+      "word": "外国母亲看到儿子文身当场崩溃",
+      "onboard_time": 1761620359,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131931,
+      "num": 131931,
+      "word": "苏超决赛门票中签率低至1%",
+      "onboard_time": 1761620660,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126889,
+      "num": 126889,
+      "word": "a股突破4000点",
+      "onboard_time": 1761619580,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126215,
       "num": 126215,
       "word": "罗云熙掀开林允头纱",
       "onboard_time": 1761612502,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124305,
+      "num": 143920,
+      "word": "锦月令开播",
+      "onboard_time": 1761620539,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -443,6 +563,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107992,
+      "num": 107991,
+      "word": "对台独顽固分子沈伯洋立案侦查",
+      "onboard_time": 1761618081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107873,
+      "num": 107992,
+      "word": "天地剑心播放量",
+      "onboard_time": 1761620179,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106580,
       "num": 106580,
       "word": "许绍雄还未苏醒",
@@ -451,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101117,
-      "num": 101117,
-      "word": "发现台独线索可举报",
-      "onboard_time": 1761617719,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 105156,
+      "num": 107993,
+      "word": "丁禹兮扇了自己一巴掌",
+      "onboard_time": 1761621024,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 100168,
@@ -465,6 +601,14 @@
       "onboard_time": 1761609620,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99164,
+      "num": 99164,
+      "word": "无限暖暖",
+      "onboard_time": 1761619759,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 97887,
@@ -539,6 +683,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90572,
+      "num": 90572,
+      "word": "开拓者vs湖人",
+      "onboard_time": 1761618439,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90420,
+      "num": 90420,
+      "word": "女子向父母索要18万彩礼遭拒",
+      "onboard_time": 1761619879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90335,
+      "num": 90335,
+      "word": "A股",
+      "onboard_time": 1761619459,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89802,
       "num": 89802,
       "word": "huanfeng谈BLG打野轮换",
@@ -595,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79647,
+      "num": 107998,
+      "word": "曝许绍雄戴着氧气机",
+      "onboard_time": 1761620421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77169,
       "num": 77169,
       "word": "睡眠是体重管理的关键环节",
@@ -611,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74680,
-      "num": 86709,
-      "word": "北京奥运会火炬手评郑智化",
-      "onboard_time": 1761617660,
-      "rank": 48,
-      "category": "艺人,民生新闻"
+      "raw_hot": 74232,
+      "num": 153048,
+      "word": "KimJones中国时尚圈首秀",
+      "onboard_time": 1761620660,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 73389,
@@ -643,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70126,
+      "num": 150304,
+      "word": "范丞丞用AQ反向管爸妈健康",
+      "onboard_time": 1761620660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67252,
       "num": 105328,
       "word": "呼吸道合胞病毒感染进入高发期",
@@ -665,6 +849,14 @@
       "onboard_time": 1761581839,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64691,
+      "num": 154676,
+      "word": "京东黄金降价",
+      "onboard_time": 1761620660,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 64106,
@@ -1017,6 +1209,14 @@
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 7080,
+      "num": 152398,
+      "word": "食品公司堆放死猪肉7人被控制",
+      "onboard_time": 1761620960,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5936,

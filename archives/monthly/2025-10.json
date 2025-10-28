@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761617753964,
+  "endTime": 1761621228269,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1755,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1207614,
+      "num": 189005,
+      "word": "切尔诺贝利核电站附近出现蓝色狗",
+      "onboard_time": 1761615438,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1204787,
       "num": 1204787,
       "word": "晚8秒下高速被收500元男子发声",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1760262020,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1157379,
-      "num": 163410,
-      "word": "切尔诺贝利核电站附近出现蓝色狗",
-      "onboard_time": 1761615438,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1156748,
@@ -3139,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970719,
+      "num": 1155315,
+      "word": "欢喜哥许绍雄逝世",
+      "onboard_time": 1761621144,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 969193,
       "num": 1155071,
       "word": "美国女子在迪士尼鬼屋被吓死",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1760333002,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838414,
+      "num": 167467,
+      "word": "阳光型抑郁",
+      "onboard_time": 1761618320,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 838308,
@@ -7915,6 +7931,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 579212,
+      "num": 165802,
+      "word": "一年等于36个10天",
+      "onboard_time": 1761619219,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 579086,
       "num": 263127,
       "word": "肖战 Gucci包机",
@@ -8148,7 +8172,7 @@
     },
     {
       "raw_hot": 568186,
-      "num": 160478,
+      "num": 162944,
       "word": "分手1年复合后狗狗的反应",
       "onboard_time": 1761615020,
       "rank": 17,
@@ -11209,6 +11233,14 @@
       "onboard_time": 1759406421,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 457973,
+      "num": 162003,
+      "word": "写字不好看的不许开蛋糕店",
+      "onboard_time": 1761616459,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 457863,
@@ -21275,6 +21307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 248516,
+      "num": 159716,
+      "word": "杨清柠说王乐乐结婚自己给当伴娘",
+      "onboard_time": 1761614540,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 248458,
       "num": 248458,
       "word": "沈佳润全开麦",
@@ -21659,6 +21699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243041,
+      "num": 158128,
+      "word": "日本天皇用英语说很高兴见到特朗普",
+      "onboard_time": 1761615501,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242702,
       "num": 242702,
       "word": "48岁油漆工地下室刷漆后中毒离世",
@@ -21945,6 +21993,14 @@
       "onboard_time": 1759231461,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238824,
+      "num": 238824,
+      "word": "野狗骨头",
+      "onboard_time": 1761619640,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 238749,
@@ -24049,14 +24105,6 @@
       "onboard_time": 1760800285,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214070,
-      "num": 159716,
-      "word": "杨清柠说王乐乐结婚自己给当伴娘",
-      "onboard_time": 1761614540,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 213992,
@@ -28067,6 +28115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190770,
+      "num": 145230,
+      "word": "沙溢佟丽娅是邻居",
+      "onboard_time": 1761620300,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "李沁 英气",
@@ -28121,6 +28177,14 @@
       "onboard_time": 1761106941,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190524,
+      "num": 190524,
+      "word": "发现台独线索可举报",
+      "onboard_time": 1761617719,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190509,
@@ -28305,14 +28369,6 @@
       "onboard_time": 1761122902,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190059,
-      "num": 158128,
-      "word": "日本天皇用英语说很高兴见到特朗普",
-      "onboard_time": 1761615501,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189992,
@@ -29955,6 +30011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182136,
+      "num": 144603,
+      "word": "周润发看望许绍雄",
+      "onboard_time": 1761618620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182126,
       "num": 168701,
       "word": "孙颖莎牌扫地机",
@@ -30817,6 +30881,14 @@
       "onboard_time": 1760159122,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177690,
+      "num": 142975,
+      "word": "刘涛 不要叫我妈妈啦",
+      "onboard_time": 1761620598,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 177661,
@@ -32563,6 +32635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170331,
+      "num": 170331,
+      "word": "中央网信办将整治验资pk",
+      "onboard_time": 1761617839,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170327,
       "num": 170327,
       "word": "赵丽颖祝大家中秋快乐",
@@ -33636,7 +33716,7 @@
     },
     {
       "raw_hot": 166167,
-      "num": 131766,
+      "num": 142769,
       "word": "唯一不玩手机认真听课的被轰出去了",
       "onboard_time": 1761616581,
       "rank": 30,
@@ -34137,6 +34217,14 @@
       "onboard_time": 1760926041,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164204,
+      "num": 148261,
+      "word": "北京奥运会火炬手评郑智化",
+      "onboard_time": 1761617660,
+      "rank": 48,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 164079,
@@ -34689,14 +34777,6 @@
       "onboard_time": 1759329562,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162311,
-      "num": 136530,
-      "word": "写字不好看的不许开蛋糕店",
-      "onboard_time": 1761616459,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 162289,
@@ -38673,6 +38753,14 @@
       "onboard_time": 1759922961,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148604,
+      "num": 148604,
+      "word": "玉茗茶骨预告",
+      "onboard_time": 1761619159,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 148600,
@@ -44195,6 +44283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133623,
+      "num": 133623,
+      "word": "外国母亲看到儿子文身当场崩溃",
+      "onboard_time": 1761620359,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133604,
       "num": 133604,
       "word": "山东通报威海冷库9人遇难",
@@ -44969,6 +45065,14 @@
       "onboard_time": 1761375201,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131931,
+      "num": 131931,
+      "word": "苏超决赛门票中签率低至1%",
+      "onboard_time": 1761620660,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 131921,
@@ -47179,6 +47283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126889,
+      "num": 126889,
+      "word": "a股突破4000点",
+      "onboard_time": 1761619580,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126838,
       "num": 121841,
       "word": "雪地靴成了东三省省靴",
@@ -48473,6 +48585,14 @@
       "onboard_time": 1760853380,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124305,
+      "num": 143920,
+      "word": "锦月令开播",
+      "onboard_time": 1761620539,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124284,
@@ -58003,6 +58123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107992,
+      "num": 107991,
+      "word": "对台独顽固分子沈伯洋立案侦查",
+      "onboard_time": 1761618081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107972,
       "num": 107972,
       "word": "小狗也受不了走高速",
@@ -58065,6 +58193,14 @@
       "onboard_time": 1761403942,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107873,
+      "num": 107992,
+      "word": "天地剑心播放量",
+      "onboard_time": 1761620179,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 107854,
@@ -59929,6 +60065,14 @@
       "onboard_time": 1759847603,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105156,
+      "num": 107993,
+      "word": "丁禹兮扇了自己一巴掌",
+      "onboard_time": 1761621024,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 105125,
@@ -62665,14 +62809,6 @@
       "onboard_time": 1760275099,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101117,
-      "num": 101117,
-      "word": "发现台独线索可举报",
-      "onboard_time": 1761617719,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101109,
@@ -69027,6 +69163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90572,
+      "num": 90572,
+      "word": "开拓者vs湖人",
+      "onboard_time": 1761618439,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90565,
       "num": 90565,
       "word": "郑钦文23岁生日获四大满贯祝贺",
@@ -69105,6 +69249,14 @@
       "onboard_time": 1760935280,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90420,
+      "num": 90420,
+      "word": "女子向父母索要18万彩礼遭拒",
+      "onboard_time": 1761619879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90417,
@@ -75035,6 +75187,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 79647,
+      "num": 107998,
+      "word": "曝许绍雄戴着氧气机",
+      "onboard_time": 1761620421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79643,
       "num": 169731,
       "word": "导游称不买东西实际对别人造成伤害",
@@ -77115,14 +77275,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 74680,
-      "num": 86709,
-      "word": "北京奥运会火炬手评郑智化",
-      "onboard_time": 1761617660,
-      "rank": 48,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 74588,
       "num": 74588,
       "word": "果然对得起黄毛两个字",
@@ -77265,6 +77417,14 @@
       "onboard_time": 1760144901,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74232,
+      "num": 153048,
+      "word": "KimJones中国时尚圈首秀",
+      "onboard_time": 1761620660,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 74223,
@@ -78657,6 +78817,14 @@
       "onboard_time": 1761441380,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70126,
+      "num": 150304,
+      "word": "范丞丞用AQ反向管爸妈健康",
+      "onboard_time": 1761620660,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 70114,
@@ -80281,6 +80449,14 @@
       "onboard_time": 1760778862,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64691,
+      "num": 154676,
+      "word": "京东黄金降价",
+      "onboard_time": 1761620660,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 64629,
@@ -91729,6 +91905,14 @@
       "onboard_time": 1761468140,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7080,
+      "num": 152398,
+      "word": "食品公司堆放死猪肉7人被控制",
+      "onboard_time": 1761620960,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6939,

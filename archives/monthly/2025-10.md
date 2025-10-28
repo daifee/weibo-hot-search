@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 10:15:53
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:13:48
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ AL打T1（热度：1227982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E7%8B%97%23" target="weibo">
+切尔诺贝利核电站附近出现蓝色狗（热度：1207614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%9A8%E7%A7%92%E4%B8%8B%E9%AB%98%E9%80%9F%E8%A2%AB%E6%94%B6500%E5%85%83%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 晚8秒下高速被收500元男子发声（热度：1204787）
 </a>
@@ -1481,12 +1487,6 @@ VOGUE大合影（热度：1170936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%88%9A%E8%96%87%E5%8C%97%E5%A4%A7%E8%80%83%E8%AF%95%23" target="weibo">
 网友偶遇戚薇北大考试（热度：1158407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E7%8B%97%23" target="weibo">
-切尔诺贝利核电站附近出现蓝色狗（热度：1157379）
 </a>
 </li>
 
@@ -2367,6 +2367,12 @@ VOGUE请假阵容（热度：1000675）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%96%9C%E5%93%A5%E8%AE%B8%E7%BB%8D%E9%9B%84%E9%80%9D%E4%B8%96%23" target="weibo">
+欢喜哥许绍雄逝世（热度：970719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%AC%BC%E5%B1%8B%E8%A2%AB%E5%90%93%E6%AD%BB%23" target="weibo">
 美国女子在迪士尼鬼屋被吓死（热度：969193）
 </a>
@@ -3137,6 +3143,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%BA%89%E5%90%B5%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 14岁女生与家人争吵后跳楼身亡（热度：838594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%85%89%E5%9E%8B%E6%8A%91%E9%83%81%23" target="weibo">
+阳光型抑郁（热度：838414）
 </a>
 </li>
 
@@ -5949,6 +5961,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E7%AD%89%E4%BA%8E36%E4%B8%AA10%E5%A4%A9%23" target="weibo">
+一年等于36个10天（热度：579212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%E5%8C%85%E6%9C%BA%23" target="weibo">
 肖战 Gucci包机（热度：579086）
 </a>
@@ -5993,24 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%AD%E9%80%94%E8%B5%B6%E5%AE%A2%E4%B9%98%E5%AE%A2%E7%A7%92%E6%87%82%E4%B8%8B%E8%BD%A6%23" target="weibo">
 网约车司机中途赶客乘客秒懂下车（热度：576277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E9%AA%97%E4%BA%8615%E5%B9%B4%E5%A5%B6%E5%A5%B6%E4%BF%A1%E4%BA%8615%E5%B9%B4%23" target="weibo">
-蒋一侨骗了15年奶奶信了15年（热度：576222）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%BC%80%E9%97%A8%E6%9D%80%E6%92%9E%E4%BC%A4%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%A4%E8%B5%94200%E4%B8%87%23" target="weibo">
-乘客开门杀撞伤人司机被判赔200万（热度：575642）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23" target="weibo">
-当地规劝烤肉店停止玉米做燃料（热度：575295）
 </a>
 </li>
 
