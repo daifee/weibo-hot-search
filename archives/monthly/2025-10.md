@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 11:55:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 12:31:02
 </p>
 </blockquote>
 <p>
@@ -2703,6 +2703,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%20%E6%96%87%E6%85%A7%E5%BF%83%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+佘诗曼 文慧心回来了（热度：904436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%A0%E4%BB%AC%E7%AC%91%E5%BE%97%E5%A4%AA%E5%A4%A7%E5%A3%B0%E4%BA%86%23" target="weibo">
 陈伟霆你们笑得太大声了（热度：903404）
 </a>
@@ -4959,6 +4965,12 @@ vivo X300价格（热度：660203）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%E4%BB%8E%E6%9C%AA%E9%80%8F%E9%9C%B2%E8%87%AA%E5%B7%B1%E6%82%A3%E7%99%8C%23" target="weibo">
+许绍雄从未透露自己患癌（热度：654269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E8%BA%AB%E4%BA%A1%E6%96%B0%E9%83%8E%E5%AE%B6%E4%BA%BA%E6%83%B3%E7%9C%8B%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%23" target="weibo">
 跳河身亡新郎家人想看行车记录仪（热度：652459）
 </a>
@@ -5999,18 +6011,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E7%8E%8B%E6%9D%83%E7%AF%87%E6%94%B9%E5%90%8D%E4%BA%86%23" target="weibo">
 狐妖王权篇改名了（热度：578096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%B6%89%E5%8F%8A%E6%AF%92%E9%A9%BE%E9%86%89%E9%A9%BE%23" target="weibo">
-陈震车祸事件不涉及毒驾醉驾（热度：576917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%23" target="weibo">
-抢泡泡玛特（热度：576704）
 </a>
 </li>
 

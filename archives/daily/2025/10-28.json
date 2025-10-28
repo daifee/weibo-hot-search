@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761623704164,
+  "endTime": 1761625862113,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1207721,
-      "num": 209066,
+      "num": 254683,
       "word": "切尔诺贝利核电站附近出现蓝色狗",
       "onboard_time": 1761615438,
       "rank": 12,
@@ -28,15 +28,23 @@
     },
     {
       "raw_hot": 1200152,
-      "num": 205547,
+      "num": 322307,
       "word": "14岁男生被女同学击中左胸后瘫痪",
       "onboard_time": 1761582199,
       "rank": 13,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904436,
+      "num": 434975,
+      "word": "佘诗曼 文慧心回来了",
+      "onboard_time": 1761622706,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 838414,
-      "num": 208769,
+      "num": 256040,
       "word": "阳光型抑郁",
       "onboard_time": 1761618320,
       "rank": 11,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 767243,
-      "num": 274156,
+      "num": 378126,
       "word": "新闻女王2",
       "onboard_time": 1761621687,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 723054,
-      "num": 205855,
+      "num": 254327,
       "word": "陈伟霆说自己是老钱风的代表",
       "onboard_time": 1761615679,
       "rank": 15,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654269,
+      "num": 340812,
+      "word": "许绍雄从未透露自己患癌",
+      "onboard_time": 1761624265,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580949,
       "num": 208249,
       "word": "一年等于36个10天",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 569827,
-      "num": 208005,
+      "num": 335229,
       "word": "写字不好看的不许开蛋糕店",
       "onboard_time": 1761616459,
       "rank": 24,
@@ -123,8 +139,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 516591,
-      "num": 516591,
+      "raw_hot": 561071,
+      "num": 561071,
       "word": "发现台独线索可举报",
       "onboard_time": 1761617719,
       "rank": 38,
@@ -147,20 +163,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448456,
-      "num": 209851,
-      "word": "佘诗曼 文慧心回来了",
-      "onboard_time": 1761622706,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 441582,
-      "num": 238824,
+      "num": 309977,
       "word": "野狗骨头",
       "onboard_time": 1761619640,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419745,
+      "num": 419745,
+      "word": "光遇",
+      "onboard_time": 1761624385,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 388658,
+      "num": 315893,
+      "word": "尹子维徐冬冬怎么了",
+      "onboard_time": 1761624086,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 383824,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 381911,
-      "num": 205297,
+      "num": 270809,
       "word": "林峯双手合十眉头紧皱",
       "onboard_time": 1761621322,
       "rank": 26,
@@ -209,6 +233,14 @@
       "onboard_time": 1761568041,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288634,
+      "num": 288634,
+      "word": "女明星ELLE出图",
+      "onboard_time": 1761625644,
+      "rank": 15,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 282021,
@@ -251,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254126,
+      "num": 254126,
+      "word": "惠英红悼念许绍雄",
+      "onboard_time": 1761623485,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248516,
       "num": 204767,
       "word": "杨清柠说王乐乐结婚自己给当伴娘",
@@ -291,6 +331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230723,
+      "num": 230723,
+      "word": "许绍雄因癌症致器官衰竭",
+      "onboard_time": 1761623725,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229573,
       "num": 229573,
       "word": "31省份去年婚姻数据公布",
@@ -299,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228972,
+      "num": 193848,
+      "word": "陈伟霆 传新iPhone要一天多",
+      "onboard_time": 1761625526,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228447,
       "num": 199853,
       "word": "外国母亲看到儿子文身当场崩溃",
       "onboard_time": 1761620359,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 226542,
+      "num": 395543,
+      "word": "ShowMaker带队友到上海看S15",
+      "onboard_time": 1761624204,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 223314,
@@ -316,7 +380,7 @@
     },
     {
       "raw_hot": 216663,
-      "num": 216663,
+      "num": 255802,
       "word": "打击低俗团播引诱打赏",
       "onboard_time": 1761615380,
       "rank": 7,
@@ -348,11 +412,27 @@
     },
     {
       "raw_hot": 200464,
-      "num": 200464,
+      "num": 365139,
       "word": "Bin谈下赛季规划",
       "onboard_time": 1761622468,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198536,
+      "num": 198536,
+      "word": "柚子要摔一下才好吃",
+      "onboard_time": 1761623786,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "使徒行者",
+      "onboard_time": 1761625046,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188219,
@@ -361,6 +441,14 @@
       "onboard_time": 1761617660,
       "rank": 48,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 186518,
+      "num": 186518,
+      "word": "刘宇宁期待成毅李一桐的燃斗之路",
+      "onboard_time": 1761624746,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 186430,
@@ -395,11 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174040,
-      "num": 174040,
-      "word": "惠英红悼念许绍雄",
-      "onboard_time": 1761623485,
-      "rank": 31,
+      "raw_hot": 174501,
+      "num": 174501,
+      "word": "王一博 马达加斯加企鹅",
+      "onboard_time": 1761625705,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -411,11 +499,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173120,
+      "num": 173120,
+      "word": "恋爱4年妈妈同意我和男友交往",
+      "onboard_time": 1761625106,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172775,
       "num": 156876,
       "word": "黄金",
       "onboard_time": 1761610701,
       "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 172674,
+      "num": 358270,
+      "word": "A股突破4000点",
+      "onboard_time": 1761619580,
+      "rank": 9,
       "category": "财经"
     },
     {
@@ -451,6 +555,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 166931,
+      "num": 194269,
+      "word": "佘诗曼黄宗泽同事20年首次合作",
+      "onboard_time": 1761624506,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166167,
       "num": 142769,
       "word": "唯一不玩手机认真听课的被轰出去了",
@@ -465,6 +577,14 @@
       "onboard_time": 1761621024,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165099,
+      "num": 165099,
+      "word": "英语真的可以速成",
+      "onboard_time": 1761621506,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 164581,
@@ -515,20 +635,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 155734,
-      "num": 155734,
-      "word": "英语真的可以速成",
-      "onboard_time": 1761621506,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 155502,
       "num": 155502,
       "word": "五个月瘦36斤减肥经验",
       "onboard_time": 1761606618,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 152420,
+      "num": 152420,
+      "word": "许绍雄最后一条视频",
+      "onboard_time": 1761625584,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 151505,
@@ -563,12 +683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145781,
+      "num": 145781,
+      "word": "耀眼",
+      "onboard_time": 1761623666,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144968,
       "num": 147751,
       "word": "杨幂回复Fly",
       "onboard_time": 1761615020,
       "rank": 28,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 144376,
+      "num": 144376,
+      "word": "当事人回应孩子被店员提醒别摸蛋糕",
+      "onboard_time": 1761623427,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143932,
+      "num": 188808,
+      "word": "任泽平给股民9条建议",
+      "onboard_time": 1761625225,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 141982,
@@ -587,12 +731,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139279,
+      "num": 165065,
+      "word": "广州已成大湾鸡痛城",
+      "onboard_time": 1761624864,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "当两个爱吃的人谈恋爱",
+      "onboard_time": 1761624624,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135680,
       "num": 135680,
       "word": "当社恐出门拍照又不敢举起手机",
       "onboard_time": 1761616581,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135437,
+      "num": 144391,
+      "word": "4点证明台独是死路",
+      "onboard_time": 1761625106,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135287,
@@ -675,14 +843,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 124486,
-      "num": 124486,
-      "word": "当事人回应孩子被店员提醒别摸蛋糕",
-      "onboard_time": 1761623427,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124305,
       "num": 143920,
       "word": "锦月令开播",
@@ -723,14 +883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119178,
-      "num": 119178,
-      "word": "耀眼",
-      "onboard_time": 1761623666,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118335,
       "num": 118335,
       "word": "A股",
@@ -753,6 +905,14 @@
       "onboard_time": 1761621446,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116572,
+      "num": 137379,
+      "word": "娶美国博士的河南小伙回应吃软饭",
+      "onboard_time": 1761624146,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114237,
@@ -931,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88797,
+      "num": 164551,
+      "word": "男生没认出订婚当天打扮漂亮的女友",
+      "onboard_time": 1761625465,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87319,
       "num": 87319,
       "word": "住院小猫看到主人后眼睛都亮了",
@@ -1099,6 +1267,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 57994,
+      "num": 164269,
+      "word": "蒋欣 毕竟上了年纪",
+      "onboard_time": 1761625345,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57992,
       "num": 105786,
       "word": "把吃完的橘子皮变成天然香薰",
@@ -1185,6 +1361,14 @@
       "onboard_time": 1761607279,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51831,
+      "num": 255238,
+      "word": "刘宇宁京东服饰粉丝福利",
+      "onboard_time": 1761624325,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 51663,
@@ -1289,6 +1473,14 @@
       "onboard_time": 1761622167,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34656,
+      "num": 163865,
+      "word": "张庭全家福",
+      "onboard_time": 1761624925,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 31816,
@@ -1428,7 +1620,7 @@
     },
     {
       "raw_hot": 5936,
-      "num": 295085,
+      "num": 435585,
       "word": "第十五届全运会",
       "onboard_time": 1761570622,
       "rank": 2,
