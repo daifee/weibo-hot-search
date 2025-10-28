@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 17:43:18
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 18:29:51
 </p>
 </blockquote>
 <p>
@@ -3549,6 +3549,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%9E%E5%BD%92%E8%88%9E%E5%8F%B0%E4%B8%8E%E4%BD%95%E7%82%85%E7%9B%B8%E6%8B%A5%E8%80%8C%E6%B3%A3%23" target="weibo">
+李维嘉回归舞台与何炅相拥而泣（热度：799143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BB%BB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%23" target="weibo">
 新任中国国民党主席郑丽文（热度：798511）
 </a>
@@ -3879,6 +3885,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E8%A1%80%E5%BA%93%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%85%89%23" target="weibo">
+动物血库灰色产业被曝光（热度：765298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BD%AC%E7%A7%BB%E8%B6%8515%E4%B8%87%E4%BA%BA%23" target="weibo">
 广东转移超15万人（热度：763916）
 </a>
@@ -4089,6 +4101,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%90%83%E9%9D%A2%E4%B8%8A%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%E4%BA%86%23" target="weibo">
+鹿晗吃面上大众点评了（热度：735702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%8F%90%E9%86%92%E5%88%AB%E6%91%B8%E8%9B%8B%E7%B3%95%E9%81%AD%E5%A6%88%E5%A6%88%E5%8F%91%E8%A7%86%E9%A2%91%E9%81%BF%E9%9B%B7%23" target="weibo">
 店员提醒别摸蛋糕遭妈妈发视频避雷（热度：734917）
 </a>
@@ -4163,12 +4181,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%80%9A%E5%AE%87%E5%9B%BD%E5%A4%96%E5%BD%95%E6%81%8B%E7%BB%BC%E8%B5%B0%E4%B8%A2%E5%BD%95%E9%81%97%E8%A8%80%23" target="weibo">
 高瀚宇国外录恋综走丢录遗言（热度：728559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E8%A1%80%E5%BA%93%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%85%89%23" target="weibo">
-动物血库灰色产业被曝光（热度：728299）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Doinb怒喷TheShy（热度：590180）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ning%E6%B5%B4%E5%AE%A4%E6%91%94%E4%BC%A4%23" target="weibo">
 Ning浴室摔伤（热度：586285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%20%E5%BD%AD%E6%98%B1%E7%95%85%E6%AF%94%E5%BC%A0%E8%89%BA%E5%85%B4%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%23" target="weibo">
-黄磊 彭昱畅比张艺兴长得好看（热度：585084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%A8%23" target="weibo">
-美政府关门（热度：584638）
 </a>
 </li>
 

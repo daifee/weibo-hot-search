@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761644598317,
+  "endTime": 1761647391142,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1852458,
-      "num": 242827,
+      "num": 277446,
       "word": "代露娃摔了",
       "onboard_time": 1761641060,
       "rank": 30,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 867863,
-      "num": 293115,
+      "num": 520931,
       "word": "我们来了3回归",
       "onboard_time": 1761642502,
       "rank": 12,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 857917,
-      "num": 265922,
+      "num": 269819,
       "word": "李维嘉回归湖南卫视",
       "onboard_time": 1761641962,
       "rank": 6,
@@ -139,12 +139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 799143,
+      "num": 284113,
+      "word": "李维嘉回归舞台与何炅相拥而泣",
+      "onboard_time": 1761643462,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767243,
       "num": 378126,
       "word": "新闻女王2",
       "onboard_time": 1761621687,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 765298,
+      "num": 765298,
+      "word": "动物血库灰色产业被曝光",
+      "onboard_time": 1761640223,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 742116,
@@ -155,19 +171,19 @@
       "category": "民生新闻,游戏"
     },
     {
+      "raw_hot": 735702,
+      "num": 275552,
+      "word": "鹿晗吃面上大众点评了",
+      "onboard_time": 1761645442,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734917,
       "num": 195011,
       "word": "店员提醒别摸蛋糕遭妈妈发视频避雷",
       "onboard_time": 1761577282,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 728299,
-      "num": 728299,
-      "word": "动物血库灰色产业被曝光",
-      "onboard_time": 1761640223,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 551972,
-      "num": 239803,
+      "num": 260155,
       "word": "女狱警与囚犯发生关系还有囚犯放风",
       "onboard_time": 1761642622,
       "rank": 20,
@@ -385,6 +401,22 @@
       "onboard_time": 1761619640,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440495,
+      "num": 271609,
+      "word": "李沁工作室 摄影有待提高",
+      "onboard_time": 1761645862,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 424327,
+      "num": 265744,
+      "word": "方圆好美",
+      "onboard_time": 1761643880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419745,
@@ -507,6 +539,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308394,
+      "num": 308394,
+      "word": "Viper全场零失误",
+      "onboard_time": 1761645982,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 304811,
+      "num": 252195,
+      "word": "沈佳润红毯走过头了",
+      "onboard_time": 1761646402,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 295625,
       "num": 229683,
       "word": "李维嘉何炅相拥而泣",
@@ -521,6 +569,14 @@
       "onboard_time": 1761636022,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284773,
+      "num": 284773,
+      "word": "十五五规划建议发布",
+      "onboard_time": 1761643162,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 282021,
@@ -595,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251756,
+      "num": 251756,
+      "word": "阴阳师",
+      "onboard_time": 1761646523,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249961,
       "num": 239701,
       "word": "宁艺卓好辣",
@@ -611,12 +675,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 246433,
-      "num": 246433,
-      "word": "十五五规划建议发布",
-      "onboard_time": 1761643162,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 246359,
+      "num": 246359,
+      "word": "张馨予 红毯定海神针",
+      "onboard_time": 1761646402,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 243041,
@@ -723,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224280,
-      "num": 224280,
-      "word": "方圆好美",
-      "onboard_time": 1761643880,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223314,
       "num": 203133,
       "word": "沙溢佟丽娅是邻居",
@@ -793,6 +849,14 @@
       "onboard_time": 1761575003,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207601,
+      "num": 207601,
+      "word": "刘轩丞将进组天才女友",
+      "onboard_time": 1761646882,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201109,
@@ -891,6 +955,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 187577,
+      "num": 254919,
+      "word": "阿维塔12十二项同级独享",
+      "onboard_time": 1761645982,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 187375,
       "num": 195018,
       "word": "杨瀚森NBA得分超越孙悦",
@@ -945,6 +1017,14 @@
       "onboard_time": 1761624506,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180883,
+      "num": 268469,
+      "word": "第五人格",
+      "onboard_time": 1761646941,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 180761,
@@ -1107,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165536,
+      "num": 165536,
+      "word": "张予曦完全女明星",
+      "onboard_time": 1761646644,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164581,
       "num": 202826,
       "word": "个人征信将可修复",
@@ -1139,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160017,
+      "num": 160017,
+      "word": "小米集团高层调整",
+      "onboard_time": 1761647303,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159948,
       "num": 159948,
       "word": "A股收复4000点 牛市真来了吗",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1761618439,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158561,
+      "num": 158561,
+      "word": "之前是我对VOGUE太大声了",
+      "onboard_time": 1761646581,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 157731,
@@ -1411,6 +1515,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 140146,
+      "num": 262282,
+      "word": "蔡天凤碎尸案进展",
+      "onboard_time": 1761646763,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "当两个爱吃的人谈恋爱",
@@ -1499,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131908,
+      "num": 294489,
+      "word": "十五五规划建议全文",
+      "onboard_time": 1761641541,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131786,
       "num": 131786,
       "word": "他得摔多少次才能成角儿啊",
@@ -1585,6 +1705,22 @@
       "onboard_time": 1761620539,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126925,
+      "num": 126925,
+      "word": "张馨予起太晚了还没拍出发图",
+      "onboard_time": 1761645801,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126394,
+      "num": 126394,
+      "word": "代露娃回应红毯摔倒",
+      "onboard_time": 1761647303,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126215,
@@ -1753,6 +1889,14 @@
       "onboard_time": 1761616100,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114156,
+      "num": 159345,
+      "word": "特朗普1分钟内两次无视高市早苗",
+      "onboard_time": 1761646282,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114069,
@@ -1971,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90468,
+      "num": 122458,
+      "word": "这些直播打赏行为将被重点整治",
+      "onboard_time": 1761646402,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90420,
       "num": 90420,
       "word": "女子向父母索要18万彩礼遭拒",
@@ -2147,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67856,
+      "num": 260634,
+      "word": "张小婉荣耀进化张大碗",
+      "onboard_time": 1761646342,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 67252,
       "num": 105328,
       "word": "呼吸道合胞病毒感染进入高发期",
@@ -2169,14 +2329,6 @@
       "onboard_time": 1761634821,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66106,
-      "num": 294489,
-      "word": "十五五规划建议全文",
-      "onboard_time": 1761641541,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65365,
@@ -2305,6 +2457,14 @@
       "onboard_time": 1761641241,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57315,
+      "num": 240838,
+      "word": "中国新能源车以创新引领全球产业",
+      "onboard_time": 1761642442,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 57243,
@@ -2563,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37653,
-      "num": 240838,
-      "word": "中国新能源车以创新引领全球产业",
-      "onboard_time": 1761642442,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 36996,
       "num": 156552,
       "word": "易烊千玺特意为毕业典礼调整了工作",
@@ -2627,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33485,
+      "num": 159196,
+      "word": "迅猛龙红毯生图",
+      "onboard_time": 1761646822,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 31864,
       "num": 316671,
       "word": "京东成毅同款羽绒服减300",
@@ -2667,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30084,
+      "num": 531174,
+      "word": "第一观察",
+      "onboard_time": 1761644721,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27650,
       "num": 41013,
       "word": "当女朋友拍照时故意破坏蛋糕",
@@ -2681,6 +2849,14 @@
       "onboard_time": 1761603136,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26514,
+      "num": 158663,
+      "word": "美团宣布社保补贴覆盖所有骑手",
+      "onboard_time": 1761645681,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 26037,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761647391142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 947701,
+        "num": 1151632,
+        "word": "ELLE红毯",
+        "onboard_time": 1761638421,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765298,
+        "num": 765298,
+        "word": "动物血库灰色产业被曝光",
+        "onboard_time": 1761640223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30084,
+        "num": 531174,
+        "word": "第一观察",
+        "onboard_time": 1761644721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 833819,
+        "num": 520931,
+        "word": "我们来了3回归",
+        "onboard_time": 1761642502,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308394,
+        "num": 308394,
+        "word": "Viper全场零失误",
+        "onboard_time": 1761645982,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284773,
+        "num": 284773,
+        "word": "十五五规划建议发布",
+        "onboard_time": 1761643162,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 799143,
+        "num": 284113,
+        "word": "李维嘉回归舞台与何炅相拥而泣",
+        "onboard_time": 1761643462,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661295,
+        "num": 281399,
+        "word": "欢喜哥许绍雄逝世",
+        "onboard_time": 1761621144,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192100,
+        "num": 279753,
+        "word": "网约房 群租房",
+        "onboard_time": 1761636022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 278453,
+        "word": "王者荣耀嫦娥coser致歉",
+        "onboard_time": 1761628522,
+        "rank": 9,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 1277113,
+        "num": 277446,
+        "word": "代露娃摔了",
+        "onboard_time": 1761641060,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 735702,
+        "num": 275552,
+        "word": "鹿晗吃面上大众点评了",
+        "onboard_time": 1761645442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525080,
+        "num": 273680,
+        "word": "冲锋衣 显命苦",
+        "onboard_time": 1761637762,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440495,
+        "num": 271609,
+        "word": "李沁工作室 摄影有待提高",
+        "onboard_time": 1761645862,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 504574,
+        "num": 269819,
+        "word": "李维嘉回归湖南卫视",
+        "onboard_time": 1761641962,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180883,
+        "num": 268469,
+        "word": "第五人格",
+        "onboard_time": 1761646941,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 424327,
+        "num": 265744,
+        "word": "方圆好美",
+        "onboard_time": 1761643880,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371885,
+        "num": 264188,
+        "word": "网红被银环蛇咬嫌血清贵离去后失联",
+        "onboard_time": 1761636562,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 262282,
+        "word": "蔡天凤碎尸案进展",
+        "onboard_time": 1761646763,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67856,
+        "num": 260634,
+        "word": "张小婉荣耀进化张大碗",
+        "onboard_time": 1761646342,
+        "rank": 19,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 381639,
+        "num": 260155,
+        "word": "女狱警与囚犯发生关系还有囚犯放风",
+        "onboard_time": 1761642622,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371319,
+        "num": 258060,
+        "word": "坠亡学生母亲称学校71分钟才报警",
+        "onboard_time": 1761640223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332776,
+        "num": 256172,
+        "word": "特朗普略过日本国旗",
+        "onboard_time": 1761637762,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187577,
+        "num": 254919,
+        "word": "阿维塔12十二项同级独享",
+        "onboard_time": 1761645982,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 304811,
+        "num": 252195,
+        "word": "沈佳润红毯走过头了",
+        "onboard_time": 1761646402,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251756,
+        "num": 251756,
+        "word": "阴阳师",
+        "onboard_time": 1761646523,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251323,
+        "num": 251323,
+        "word": "烟台理工学院通报学生坠楼身亡",
+        "onboard_time": 1761633502,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 246359,
+        "num": 246359,
+        "word": "张馨予 红毯定海神针",
+        "onboard_time": 1761646402,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207601,
+        "num": 207601,
+        "word": "刘轩丞将进组天才女友",
+        "onboard_time": 1761646882,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203057,
+        "num": 203057,
+        "word": "宁艺卓好辣",
+        "onboard_time": 1761641121,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196693,
+        "num": 196693,
+        "word": "男子强奸嫂子再杀人案启动再审",
+        "onboard_time": 1761642742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186333,
+        "num": 186333,
+        "word": "吃柚子 月经推迟",
+        "onboard_time": 1761635302,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173783,
+        "num": 173783,
+        "word": "宝宝去世两年妈妈常来墓地碎碎念",
+        "onboard_time": 1761642622,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 165536,
+        "word": "张予曦完全女明星",
+        "onboard_time": 1761646644,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161697,
+        "num": 161697,
+        "word": "黄金",
+        "onboard_time": 1761634882,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "小米集团高层调整",
+        "onboard_time": 1761647303,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57315,
+        "num": 159980,
+        "word": "中国新能源车以创新引领全球产业",
+        "onboard_time": 1761642442,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114156,
+        "num": 159345,
+        "word": "特朗普1分钟内两次无视高市早苗",
+        "onboard_time": 1761646282,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33485,
+        "num": 159196,
+        "word": "迅猛龙红毯生图",
+        "onboard_time": 1761646822,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26514,
+        "num": 158663,
+        "word": "美团宣布社保补贴覆盖所有骑手",
+        "onboard_time": 1761645681,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158561,
+        "num": 158561,
+        "word": "之前是我对VOGUE太大声了",
+        "onboard_time": 1761646581,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 146518,
+        "num": 146518,
+        "word": "GEN对战HLE",
+        "onboard_time": 1761635302,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143025,
+        "num": 143025,
+        "word": "杨幂礼服全靠脸撑着",
+        "onboard_time": 1761638840,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131908,
+        "num": 131908,
+        "word": "十五五规划建议全文",
+        "onboard_time": 1761641541,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130700,
+        "num": 130700,
+        "word": "田曦薇哭了",
+        "onboard_time": 1761630562,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 126925,
+        "word": "张馨予起太晚了还没拍出发图",
+        "onboard_time": 1761645801,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126455,
+        "num": 126455,
+        "word": "奶皮子糖葫芦卖到40元一串",
+        "onboard_time": 1761642862,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126394,
+        "num": 126394,
+        "word": "代露娃回应红毯摔倒",
+        "onboard_time": 1761647303,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124463,
+        "num": 124463,
+        "word": "对不起刘亦菲VOGUE造型",
+        "onboard_time": 1761636201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90468,
+        "num": 122458,
+        "word": "这些直播打赏行为将被重点整治",
+        "onboard_time": 1761646402,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五规划建议说明#"
+    }
+  }
+}
