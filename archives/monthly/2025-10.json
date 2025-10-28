@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761666283539,
+  "endTime": 1761669326273,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -4696,6 +4696,14 @@
       "word": "惠州街头多人爬行学狗叫",
       "onboard_time": 1760685442,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805071,
+      "num": 865547,
+      "word": "宝宝巴士 低俗广告",
+      "onboard_time": 1761666740,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -19059,6 +19067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 290614,
+      "num": 163489,
+      "word": "3unshine组合十年变化太大了",
+      "onboard_time": 1761665780,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290523,
       "num": 247677,
       "word": "一笑随歌翻身仗",
@@ -24169,6 +24185,14 @@
       "onboard_time": 1760802023,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222371,
+      "num": 222371,
+      "word": "男子住酒店自带床单被罩全隔离",
+      "onboard_time": 1761665721,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222368,
@@ -57107,14 +57131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112209,
-      "num": 112209,
-      "word": "男子住酒店自带床单被罩全隔离",
-      "onboard_time": 1761665721,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112170,
       "num": 112170,
       "word": "特朗普拟邀高市早苗同乘专机",
@@ -58801,6 +58817,14 @@
       "onboard_time": 1761404423,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109943,
+      "num": 109943,
+      "word": "重阳久久安康",
+      "onboard_time": 1761669077,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109941,
@@ -63697,14 +63721,6 @@
       "onboard_time": 1760446640,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102740,
-      "num": 102740,
-      "word": "3unshine组合十年变化太大了",
-      "onboard_time": 1761665780,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 102730,
@@ -75579,6 +75595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83354,
+      "num": 83354,
+      "word": "刘浩存蓝色纱裙",
+      "onboard_time": 1761669258,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83345,
       "num": 83345,
       "word": "纸房子",
@@ -79739,6 +79763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74030,
+      "num": 74030,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74008,
       "num": 471862,
       "word": "近距离感受国之重器震撼4秒",
@@ -82075,6 +82107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 66947,
+      "num": 66947,
+      "word": "网红罗大美遇害案三被告均上诉",
+      "onboard_time": 1761667039,
+      "rank": 38,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 66946,
       "num": 64411,
       "word": "新郎新娘发言惊呆亲友",
@@ -83363,6 +83403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62447,
+      "num": 62447,
+      "word": "苏新皓晚宴内场视频",
+      "onboard_time": 1761668598,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 62434,
       "num": 62434,
       "word": "美财长称贸易休战或将延长",
@@ -83977,6 +84025,14 @@
       "onboard_time": 1761260958,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59982,
+      "num": 59982,
+      "word": "出发团米兰录制路透",
+      "onboard_time": 1761667161,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 59963,
@@ -88043,6 +88099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42868,
+      "num": 59696,
+      "word": "全运会赛场浪漫求婚",
+      "onboard_time": 1761667339,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42813,
       "num": 946965,
       "word": "今年猪肉为啥这么便宜",
@@ -88697,6 +88761,14 @@
       "onboard_time": 1759998860,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39741,
+      "num": 116972,
+      "word": "袁娅维我爱唱出温暖时光",
+      "onboard_time": 1761667939,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 39740,

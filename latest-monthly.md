@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/28 23:44:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 00:35:26
 </p>
 </blockquote>
 <p>
@@ -3537,6 +3537,12 @@ Peanut燃尽了（热度：833201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%20%E4%BD%8E%E4%BF%97%E5%B9%BF%E5%91%8A%23" target="weibo">
+宝宝巴士 低俗广告（热度：805071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E7%8E%B0%E8%A1%8C%E8%B5%B0%E7%9A%84%E7%A1%AB%E9%85%B8%23" target="weibo">
 河南多地现行走的硫酸（热度：804684）
 </a>
@@ -6005,12 +6011,6 @@ A股太强了（热度：593831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 赵丽颖工作室（热度：592408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%B4%E9%BB%8E%23" target="weibo">
-肖战巴黎（热度：591763）
 </a>
 </li>
 
