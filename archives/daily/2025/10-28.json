@@ -1,6 +1,6 @@
 {
   "startTime": 1761582890976,
-  "endTime": 1761656862126,
+  "endTime": 1761658609769,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -75,6 +75,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1025027,
+      "num": 1164004,
+      "word": "吃柚子的第一批受害者出现了",
+      "onboard_time": 1761650962,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 964561,
       "num": 434975,
       "word": "佘诗曼 文慧心回来了",
@@ -89,6 +97,14 @@
       "onboard_time": 1761646402,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 943518,
+      "num": 943518,
+      "word": "ELLE晚宴",
+      "onboard_time": 1761655401,
+      "rank": 40,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 903957,
@@ -283,28 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 655674,
-      "num": 655674,
-      "word": "吃柚子的第一批受害者出现了",
-      "onboard_time": 1761650962,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 654269,
       "num": 340812,
       "word": "许绍雄从未透露自己患癌",
       "onboard_time": 1761624265,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 645298,
-      "num": 645298,
-      "word": "ELLE晚宴",
-      "onboard_time": 1761655401,
-      "rank": 40,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 619820,
@@ -315,19 +315,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 616257,
+      "num": 616257,
+      "word": "花少要拍团综了",
+      "onboard_time": 1761653662,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603806,
       "num": 330026,
       "word": "田曦薇哭了",
       "onboard_time": 1761630562,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 602566,
-      "num": 602566,
-      "word": "花少要拍团综了",
-      "onboard_time": 1761653662,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -547,6 +547,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 426674,
+      "num": 338751,
+      "word": "关晓彤第二套好辣",
+      "onboard_time": 1761652642,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 420016,
+      "num": 343099,
+      "word": "许绍雄岳家捐赠了岭南四大园林之首",
+      "onboard_time": 1761651262,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419745,
       "num": 419745,
       "word": "光遇",
@@ -619,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365066,
-      "num": 338751,
-      "word": "关晓彤第二套好辣",
-      "onboard_time": 1761652642,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 356453,
       "num": 176046,
       "word": "黄磊微信名叫多妹弟爸",
@@ -641,6 +649,14 @@
       "onboard_time": 1761651382,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 352316,
+      "num": 224747,
+      "word": "小鱼海棠婚礼现场",
+      "onboard_time": 1761656061,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 346021,
@@ -755,14 +771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 273189,
-      "num": 343099,
-      "word": "许绍雄岳家捐赠了岭南四大园林之首",
-      "onboard_time": 1761651262,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271978,
       "num": 348225,
       "word": "offer结束后实习生现状",
@@ -859,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241918,
+      "num": 180901,
+      "word": "张馨予出场秒了",
+      "onboard_time": 1761656362,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 241580,
       "num": 227266,
       "word": "宝宝去世两年妈妈常来墓地碎碎念",
@@ -905,6 +921,14 @@
       "onboard_time": 1761613281,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232419,
+      "num": 232419,
+      "word": "陈幸同0比3斯佐科斯",
+      "onboard_time": 1761656242,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 230723,
@@ -1027,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217083,
+      "num": 217083,
+      "word": "W盛典 赢麻了",
+      "onboard_time": 1761657921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216663,
       "num": 277285,
       "word": "打击低俗团播引诱打赏",
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194859,
+      "num": 194859,
+      "word": "白鹿跑男新疆要染限定发色",
+      "onboard_time": 1761657863,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193660,
       "num": 193660,
       "word": "网红四大门面",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1761645982,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 187540,
-      "num": 187540,
-      "word": "陈幸同0比3斯佐科斯",
-      "onboard_time": 1761656242,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 187375,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1761618081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183511,
+      "num": 183511,
+      "word": "李沁好像一朵蝴蝶兰",
+      "onboard_time": 1761657742,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 182952,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1761640043,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167790,
-      "num": 169062,
-      "word": "张馨予出场秒了",
-      "onboard_time": 1761656362,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166193,
@@ -1651,14 +1683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152693,
-      "num": 152693,
-      "word": "小鱼海棠婚礼现场",
-      "onboard_time": 1761656061,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 152420,
       "num": 152420,
       "word": "许绍雄最后一条视频",
@@ -1859,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141097,
+      "num": 141097,
+      "word": "中年人保持青春感的秘诀是多出去走走",
+      "onboard_time": 1761658281,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137996,
       "num": 137996,
       "word": "当两个爱吃的人谈恋爱",
@@ -1939,6 +1971,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133102,
+      "num": 133102,
+      "word": "多地出现假彩票兑奖事件",
+      "onboard_time": 1761655823,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132417,
+      "num": 132417,
+      "word": "特朗普演讲时当众搂住高市早苗",
+      "onboard_time": 1761656902,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131931,
       "num": 131931,
       "word": "苏超决赛门票中签率低至1%",
@@ -2007,6 +2055,14 @@
       "num": 129821,
       "word": "湖南一男子直播挖蛇被咬后下落不明",
       "onboard_time": 1761632961,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128882,
+      "num": 152773,
+      "word": "被毒蛇咬伤失联男子车辆已找到",
+      "onboard_time": 1761656422,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -2115,6 +2171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124351,
+      "num": 124351,
+      "word": "头号种子陈幸同落败",
+      "onboard_time": 1761658162,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124305,
       "num": 143920,
       "word": "锦月令开播",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1761623604,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123467,
+      "num": 123467,
+      "word": "陈幸同止步蒙彼利埃站首轮",
+      "onboard_time": 1761658281,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 123224,
@@ -2233,6 +2305,14 @@
       "onboard_time": 1761624146,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116258,
+      "num": 116258,
+      "word": "林允公主皇冠",
+      "onboard_time": 1761654982,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 116243,
@@ -2387,14 +2467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101597,
-      "num": 101597,
-      "word": "多地出现假彩票兑奖事件",
-      "onboard_time": 1761655823,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101369,
       "num": 134114,
       "word": "杨瀚森懊恼摇头",
@@ -2489,6 +2561,14 @@
       "onboard_time": 1761650063,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94401,
+      "num": 126971,
+      "word": "张峻宁一下就搂住了罗云熙的腰",
+      "onboard_time": 1761657621,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 94032,
@@ -2723,6 +2803,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 72057,
+      "num": 338985,
+      "word": "医疗废物转运车成移动污染源",
+      "onboard_time": 1761656422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70343,
       "num": 106446,
       "word": "王权富贵A爆了",
@@ -2873,14 +2961,6 @@
       "onboard_time": 1761572483,
       "rank": 48,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 58610,
-      "num": 152773,
-      "word": "被毒蛇咬伤失联男子车辆已找到",
-      "onboard_time": 1761656422,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57992,
@@ -3315,6 +3395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28677,
+      "num": 126921,
+      "word": "一图速览规划建议61条",
+      "onboard_time": 1761653422,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27650,
       "num": 41013,
       "word": "当女朋友拍照时故意破坏蛋糕",
@@ -3384,14 +3472,6 @@
       "word": "一宠物医院实习员工曾搜证爆料血猫",
       "onboard_time": 1761656000,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22775,
-      "num": 338985,
-      "word": "医疗废物转运车成移动污染源",
-      "onboard_time": 1761656422,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3515,6 +3595,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 14293,
+      "num": 683445,
+      "word": "网络安全法完成修改",
+      "onboard_time": 1761637701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13571,
       "num": 227929,
       "word": "地下宠物血库缺监管",
@@ -3537,6 +3625,14 @@
       "onboard_time": 1761630143,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6104,
+      "num": 124475,
+      "word": "冬奥夏奥冠军合体这一幕的含金量",
+      "onboard_time": 1761658582,
+      "rank": 41,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -3551,6 +3647,9 @@
     },
     {
       "word": "#十五五规划建议说明#"
+    },
+    {
+      "word": "#十五五规划建议发布#"
     }
   ]
 }
