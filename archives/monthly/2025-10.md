@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 17:42:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 18:30:07
 </p>
 </blockquote>
 <p>
@@ -4509,6 +4509,12 @@ BLG（热度：726181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%89%E8%8E%89%E9%9B%A8%23" target="weibo">
+茉莉雨（热度：709268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%83%8F%E4%B8%A7%E5%B0%B8%E5%A4%A7%E7%89%87%23" target="weibo">
 旧金山街头像丧尸大片（热度：709021）
 </a>
@@ -5013,12 +5019,6 @@ ELLE（热度：673195）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%89%E8%8E%89%E9%9B%A8%23" target="weibo">
-茉莉雨（热度：671162）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E6%B8%A9%E5%A5%B3%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A6%81%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%84%BF%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
 失温女生母亲要确认女儿是否被抛弃（热度：670904）
 </a>
@@ -5219,6 +5219,12 @@ vivo X300价格（热度：660203）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%AD%94%E5%BA%94%E6%88%91%E5%88%AB%E5%BC%80%E7%BE%8E%E9%A2%9C%E4%BA%86%E5%A5%BD%E5%90%97%23" target="weibo">
 鸡排哥答应我别开美颜了好吗（热度：655592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%95%99%E5%AD%A6%E7%94%9F%E5%A4%9C%E9%97%AF%E5%A5%B3%E5%AF%9D%23" target="weibo">
+三峡大学通报留学生夜闯女寝（热度：655184）
 </a>
 </li>
 
@@ -5811,6 +5817,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A4%87%E5%A9%9A%E4%BA%BA%E4%B9%B0%E4%B8%89%E9%87%91%E7%BA%A0%E7%BB%93%E7%97%87%E7%8A%AF%E4%BA%86%23" target="weibo">
+金价下跌备婚人买三金纠结症犯了（热度：612512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A5%A2%E4%BE%88%E5%93%81%E4%B8%89%E5%B7%A8%E5%A4%B4%23" target="weibo">
 当代奢侈品三巨头（热度：612508）
 </a>
@@ -5999,18 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E5%AD%A9%E5%AD%90%20%E6%89%8B%E6%8F%A1%E9%A1%B6%E7%BA%A7%E4%BA%BA%E7%94%9F%E5%89%A7%E6%9C%AC%23" target="weibo">
 文咏珊孩子 手握顶级人生剧本（热度：600318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BC%A0%E6%96%B0iPhone%E8%A6%81%E4%B8%80%E5%A4%A9%E5%A4%9A%23" target="weibo">
-陈伟霆 传新iPhone要一天多（热度：599923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E8%BD%A6%E4%B8%BB%E5%87%8C%E6%99%A8%E5%9D%A0%E6%B5%B7%E4%B8%8D%E5%B9%B8%E6%AD%BB%E4%BA%A1%23" target="weibo">
-小米SU7车主凌晨坠海不幸死亡（热度：599894）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761730923222,
+  "endTime": 1761733807079,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -867,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 709268,
+      "num": 1107385,
+      "word": "茉莉雨",
+      "onboard_time": 1761728061,
+      "rank": 0,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 708488,
       "num": 400299,
       "word": "李沁工作室 摄影有待提高",
@@ -979,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 671162,
-      "num": 1107385,
-      "word": "茉莉雨",
-      "onboard_time": 1761728061,
-      "rank": 0,
-      "category": "音乐,游戏"
-    },
-    {
       "raw_hot": 669600,
       "num": 246919,
       "word": "台湾豪宅双尸案",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1761711922,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655184,
+      "num": 486400,
+      "word": "三峡大学通报留学生夜闯女寝",
+      "onboard_time": 1761725180,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 654269,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1761485962,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612512,
+      "num": 434326,
+      "word": "金价下跌备婚人买三金纠结症犯了",
+      "onboard_time": 1761727461,
+      "rank": 37,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 609153,
@@ -1531,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505362,
-      "num": 486400,
-      "word": "三峡大学通报留学生夜闯女寝",
-      "onboard_time": 1761725180,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500392,
       "num": 229696,
       "word": "长期熬夜的受害者出现了",
@@ -1883,14 +1891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 434326,
-      "num": 434326,
-      "word": "金价下跌备婚人买三金纠结症犯了",
-      "onboard_time": 1761727461,
-      "rank": 37,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 431429,
       "num": 280755,
       "word": "刘亦菲朱一龙秀场同框",
@@ -2185,6 +2185,14 @@
       "onboard_time": 1761452780,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377317,
+      "num": 789886,
+      "word": "韩国会议员开会时专心画大猩猩",
+      "onboard_time": 1761727581,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 376186,
@@ -2571,8 +2579,8 @@
       "category": "民生新闻,作品衍生"
     },
     {
-      "raw_hot": 313870,
-      "num": 918904,
+      "raw_hot": 314549,
+      "num": 1050327,
       "word": "声生不息华流季歌手阵容",
       "onboard_time": 1761727401,
       "rank": 4,
@@ -3003,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258650,
+      "num": 258650,
+      "word": "KT战胜CFO",
+      "onboard_time": 1761730941,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258133,
       "num": 258133,
       "word": "四川精子库可选星座属相脸型",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1761646523,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251134,
+      "num": 251134,
+      "word": "胡歌曾前往墨脱缅怀母亲",
+      "onboard_time": 1761728781,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 249962,
@@ -3372,7 +3396,7 @@
     },
     {
       "raw_hot": 231356,
-      "num": 167790,
+      "num": 206990,
       "word": "韩国多人用女友照片做裸体手办",
       "onboard_time": 1761729380,
       "rank": 30,
@@ -3537,6 +3561,14 @@
       "onboard_time": 1761721942,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221783,
+      "num": 221783,
+      "word": "Angelababy亮相重阳节敬老活动",
+      "onboard_time": 1761733641,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 221244,
@@ -3820,7 +3852,7 @@
     },
     {
       "raw_hot": 208395,
-      "num": 208395,
+      "num": 255486,
       "word": "天地剑心",
       "onboard_time": 1761394703,
       "rank": 28,
@@ -3849,6 +3881,14 @@
       "onboard_time": 1761537620,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205808,
+      "num": 257474,
+      "word": "陈震回应Model3和SU7哪个更好开",
+      "onboard_time": 1761731542,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 204927,
@@ -4627,6 +4667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183216,
+      "num": 256312,
+      "word": "暗河传 云合评论区",
+      "onboard_time": 1761732801,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183173,
       "num": 183173,
       "word": "比泪失禁更尴尬的是笑失禁",
@@ -4859,6 +4907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176105,
+      "num": 118758,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 175904,
       "num": 175904,
       "word": "外交部回应美军机南海坠毁",
@@ -4936,6 +4992,14 @@
       "word": "宁静 孙红雷我没有白爱他",
       "onboard_time": 1761460159,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173228,
+      "num": 173228,
+      "word": "时代峰峻只放一人出席吗",
+      "onboard_time": 1761731061,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -5032,14 +5096,6 @@
       "word": "彭小苒直播",
       "onboard_time": 1761483981,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171688,
-      "num": 171688,
-      "word": "胡歌曾前往墨脱缅怀母亲",
-      "onboard_time": 1761728781,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -5225,14 +5281,6 @@
       "onboard_time": 1761537740,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166259,
-      "num": 789886,
-      "word": "韩国会议员开会时专心画大猩猩",
-      "onboard_time": 1761727581,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166193,
@@ -6899,6 +6947,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 136256,
+      "num": 118327,
+      "word": "Ning说TES打不过G2",
+      "onboard_time": 1761732620,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136186,
       "num": 136186,
       "word": "喜欢吴磊的又爽了吧",
@@ -7217,6 +7273,14 @@
       "onboard_time": 1761534443,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132853,
+      "num": 117850,
+      "word": "GEN将对战KT",
+      "onboard_time": 1761733461,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 132601,
@@ -7609,6 +7673,14 @@
       "onboard_time": 1761531321,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128279,
+      "num": 128279,
+      "word": "三峡大学",
+      "onboard_time": 1761733461,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128203,
@@ -8377,6 +8449,14 @@
       "onboard_time": 1761557301,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117432,
+      "num": 117432,
+      "word": "Deokdam要为Peanut复仇",
+      "onboard_time": 1761733461,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 117369,
@@ -9827,6 +9907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99697,
+      "num": 99697,
+      "word": "LCK好强",
+      "onboard_time": 1761732141,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99682,
       "num": 105328,
       "word": "呼吸道合胞病毒感染进入高发期",
@@ -9841,6 +9929,14 @@
       "onboard_time": 1761525262,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99581,
+      "num": 99581,
+      "word": "四个周杰伦等于一个月杰伦",
+      "onboard_time": 1761731842,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 99457,
@@ -10041,6 +10137,14 @@
       "onboard_time": 1761716421,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96541,
+      "num": 119133,
+      "word": "孙颖莎想念爸妈做的饭",
+      "onboard_time": 1761732321,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 96483,
@@ -10307,6 +10411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92330,
+      "num": 92330,
+      "word": "给不会修眉的人一点震撼",
+      "onboard_time": 1761732381,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 92256,
       "num": 200389,
       "word": "王鹤棣帅成AI了",
@@ -10427,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90552,
+      "num": 90552,
+      "word": "华晨宇怎么来文昌了",
+      "onboard_time": 1761733100,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90468,
       "num": 122458,
       "word": "这些直播打赏行为将被重点整治",
@@ -10448,6 +10568,14 @@
       "word": "菲律宾政府在脸书发文称遭到围攻",
       "onboard_time": 1761704540,
       "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90216,
+      "num": 437724,
+      "word": "李在明快步上前迎接特朗普",
+      "onboard_time": 1761730581,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -11001,6 +11129,14 @@
       "onboard_time": 1761441139,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77478,
+      "num": 87279,
+      "word": "九尾捡到闫桉手机",
+      "onboard_time": 1761731601,
+      "rank": 49,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 77251,
@@ -11971,6 +12107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51920,
+      "num": 99708,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51831,
       "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
@@ -12211,6 +12355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45721,
+      "num": 997510,
+      "word": "十五五规划建议这些与年轻人有关",
+      "onboard_time": 1761729981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45715,
       "num": 115902,
       "word": "BLG淘汰",
@@ -12401,14 +12553,6 @@
       "onboard_time": 1761663022,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39530,
-      "num": 437724,
-      "word": "李在明快步上前迎接特朗普",
-      "onboard_time": 1761730581,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39410,
@@ -12651,6 +12795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33643,
+      "num": 96782,
+      "word": "台湾网友惊呼吉林一号拍到我家",
+      "onboard_time": 1761732561,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33485,
       "num": 159196,
       "word": "迅猛龙红毯生图",
@@ -12857,14 +13009,6 @@
       "onboard_time": 1761586395,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27532,
-      "num": 997510,
-      "word": "十五五规划建议这些与年轻人有关",
-      "onboard_time": 1761729981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27273,
@@ -13249,6 +13393,14 @@
       "onboard_time": 1761621564,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18350,
+      "num": 99818,
+      "word": "小酒窝带作业去工作",
+      "onboard_time": 1761733761,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 18251,
