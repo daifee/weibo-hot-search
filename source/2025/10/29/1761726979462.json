@@ -1,0 +1,410 @@
+{
+  "runTime": 1761726979462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456110,
+        "num": 1072977,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 997025,
+        "num": 997025,
+        "word": "王暖暖前夫俞晓东疑似电诈头目",
+        "onboard_time": 1761724821,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23660,
+        "num": 710136,
+        "word": "网警提醒护老安全莫松懈平安度重阳",
+        "onboard_time": 1761716720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615535,
+        "num": 615535,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339869,
+        "num": 339869,
+        "word": "三峡大学涉事留学生逃跑被抓",
+        "onboard_time": 1761723980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221894,
+        "num": 221894,
+        "word": "鹿晗我们的明天上新版本了",
+        "onboard_time": 1761721942,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203114,
+        "num": 203114,
+        "word": "未来五年大量的钱将流向这里",
+        "onboard_time": 1761713961,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166482,
+        "num": 202950,
+        "word": "外交部回应中美元首即将会晤",
+        "onboard_time": 1761725780,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146723,
+        "num": 202818,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101989,
+        "num": 202508,
+        "word": "宝宝巴士致歉",
+        "onboard_time": 1761696680,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 896947,
+        "num": 202317,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 643547,
+        "num": 202029,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542587,
+        "num": 201768,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441900,
+        "num": 201503,
+        "word": "三峡大学通报留学生夜闯女寝",
+        "onboard_time": 1761725180,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426666,
+        "num": 201369,
+        "word": "警方回应留学生深夜擅闯女寝",
+        "onboard_time": 1761719961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336312,
+        "num": 200922,
+        "word": "林俊杰回复杨幂工作室",
+        "onboard_time": 1761722121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321142,
+        "num": 200816,
+        "word": "张馨予 真不把你们当外人",
+        "onboard_time": 1761720621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295272,
+        "num": 200403,
+        "word": "23考研26考公",
+        "onboard_time": 1761721340,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265126,
+        "num": 200205,
+        "word": "早餐只吃两颗鸡蛋的含金量",
+        "onboard_time": 1761722241,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82883,
+        "num": 199924,
+        "word": "内娱男星穿红衣",
+        "onboard_time": 1761726021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257141,
+        "num": 199649,
+        "word": "钟楚曦C位闹剧该收场了",
+        "onboard_time": 1761726260,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234760,
+        "num": 199435,
+        "word": "李沁说张晚意上那种班",
+        "onboard_time": 1761721340,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199381,
+        "num": 199381,
+        "word": "三峡大学女生反抗被打伤脸部",
+        "onboard_time": 1761725900,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197075,
+        "num": 197075,
+        "word": "韩网狂夸韩女的上海汉服妆造",
+        "onboard_time": 1761716000,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190690,
+        "num": 190690,
+        "word": "男人的年龄23242560",
+        "onboard_time": 1761726382,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "A股光伏产业链爆发",
+        "onboard_time": 1761726742,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167743,
+        "num": 167743,
+        "word": "欧阳娜娜自己拍了旅综",
+        "onboard_time": 1761726081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 160243,
+        "word": "30岁长期熬夜得了60岁的病",
+        "onboard_time": 1761720563,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "杨紫是不是醉氧了",
+        "onboard_time": 1761723621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107886,
+        "num": 147581,
+        "word": "一诺见到了电视上的何老师",
+        "onboard_time": 1761724342,
+        "rank": 29,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 147344,
+        "num": 147344,
+        "word": "花108万捡漏的300平米房子",
+        "onboard_time": 1761726742,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144996,
+        "num": 144996,
+        "word": "宝宝病逝34岁妈妈满头白发亲吻墓碑",
+        "onboard_time": 1761722362,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137271,
+        "num": 137271,
+        "word": "短剧圈也有真夫妻了",
+        "onboard_time": 1761715821,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91528,
+        "num": 131515,
+        "word": "今麦郎方便面 虫卵",
+        "onboard_time": 1761725000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126543,
+        "num": 126543,
+        "word": "易烊千玺同学好帅",
+        "onboard_time": 1761726562,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117195,
+        "num": 117195,
+        "word": "比跷二郎腿伤害更大的坐姿",
+        "onboard_time": 1761725962,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111574,
+        "num": 111574,
+        "word": "原来大家都听不清啊",
+        "onboard_time": 1761726500,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 21384,
+        "num": 109961,
+        "word": "广州市动物诊疗协会发布倡议",
+        "onboard_time": 1761726081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30448,
+        "num": 109929,
+        "word": "举高高 排久久",
+        "onboard_time": 1761725840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109923,
+        "num": 109923,
+        "word": "澳洲女子徒步被团队忘在海岛上身亡",
+        "onboard_time": 1761720981,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108861,
+        "num": 108861,
+        "word": "姿态曝LPL转会拍卖选手",
+        "onboard_time": 1761725780,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107778,
+        "num": 107778,
+        "word": "李宇春下面大蒜的作用是",
+        "onboard_time": 1761723260,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 106438,
+        "num": 106438,
+        "word": "8岁男童意外去世后坟墓遭破坏",
+        "onboard_time": 1761720260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105572,
+        "num": 105572,
+        "word": "留学生夜闯女寝应被驱逐出境",
+        "onboard_time": 1761724941,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106346,
+        "num": 101379,
+        "word": "实胖与虚胖的区别",
+        "onboard_time": 1761723861,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 86721,
+        "num": 95645,
+        "word": "苏有朋三年上芒果3档王牌音综",
+        "onboard_time": 1761723741,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55234,
+        "num": 94761,
+        "word": "时代峰峻 抽象是一种使命",
+        "onboard_time": 1761725362,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94721,
+        "num": 94721,
+        "word": "字母哥恐怖如斯",
+        "onboard_time": 1761726260,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91033,
+        "num": 91033,
+        "word": "黄仁勋发出警告",
+        "onboard_time": 1761726141,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97040,
+        "num": 90590,
+        "word": "短国李栋旭出现了",
+        "onboard_time": 1761713301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关于十五五规划的重要论断#"
+    }
+  }
+}
