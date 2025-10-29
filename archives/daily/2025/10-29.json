@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761708178313,
+  "endTime": 1761709013948,
   "band_list": [
     {
       "raw_hot": 1148659,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533683,
+      "num": 533683,
+      "word": "BLG",
+      "onboard_time": 1761706939,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 501113,
       "num": 501113,
       "word": "大批轰6K贴近台湾岛",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 461005,
-      "num": 226574,
+      "num": 281237,
       "word": "许绍雄认佘诗曼做干女儿原因",
       "onboard_time": 1761704901,
       "rank": 11,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 455552,
-      "num": 213650,
+      "num": 269769,
       "word": "彭小苒工作室急招",
       "onboard_time": 1761704779,
       "rank": 12,
@@ -171,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410082,
-      "num": 410082,
-      "word": "BLG",
-      "onboard_time": 1761706939,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 382974,
       "num": 362556,
       "word": "刘亦菲李宇春红毯C位",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 367244,
-      "num": 159880,
+      "num": 184679,
       "word": "沈佳润造型师审美",
       "onboard_time": 1761706401,
       "rank": 20,
@@ -267,8 +267,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287045,
-      "num": 287045,
+      "raw_hot": 302755,
+      "num": 302755,
+      "word": "迪丽热巴 双城",
+      "onboard_time": 1761707900,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293664,
+      "num": 293664,
       "word": "国台办新任发言人亮相",
       "onboard_time": 1761705979,
       "rank": 6,
@@ -283,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246418,
-      "num": 246418,
+      "raw_hot": 249370,
+      "num": 249370,
       "word": "沈腾 出发团唯一女主角",
       "onboard_time": 1761705859,
       "rank": 8,
@@ -305,6 +313,14 @@
       "onboard_time": 1761655401,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 213630,
+      "num": 186316,
+      "word": "这4类人吃柚子要慎重",
+      "onboard_time": 1761703640,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211946,
@@ -331,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206751,
+      "num": 206751,
+      "word": "36岁男子反复口腔溃疡20年以为上火",
+      "onboard_time": 1761708080,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
       "onboard_time": 1761641060,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "范丞丞唱着唱着亲了沈腾一口",
+      "onboard_time": 1761705919,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 190626,
@@ -347,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186316,
-      "num": 186316,
-      "word": "这4类人吃柚子要慎重",
-      "onboard_time": 1761703640,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184943,
       "num": 184943,
       "word": "W盛典 赢麻了",
@@ -363,12 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172407,
-      "num": 172407,
-      "word": "范丞丞唱着唱着亲了沈腾一口",
-      "onboard_time": 1761705919,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 181589,
+      "num": 181589,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174401,
+      "num": 174401,
+      "word": "女生遭同学殴打13次确诊精神分裂",
+      "onboard_time": 1761707480,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168416,
@@ -376,14 +408,6 @@
       "word": "独居女子遭陌生男多次试开家门密码",
       "onboard_time": 1761698841,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168285,
-      "num": 168285,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -427,14 +451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 153215,
-      "num": 153215,
-      "word": "迪丽热巴 双城",
-      "onboard_time": 1761707900,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150118,
       "num": 150118,
       "word": "花少要拍团综了",
@@ -459,20 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "小龙虾替代品大量上市了",
+      "onboard_time": 1761707480,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 143221,
+      "num": 134332,
+      "word": "建议千万不要水洗鸡蛋",
+      "onboard_time": 1761708560,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 142591,
       "num": 142591,
       "word": "李宇嘉被冯程郎素颜吓到",
       "onboard_time": 1761707420,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141767,
-      "num": 141767,
-      "word": "女生遭同学殴打13次确诊精神分裂",
-      "onboard_time": 1761707480,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140476,
@@ -497,6 +521,22 @@
       "onboard_time": 1761699201,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135054,
+      "num": 135054,
+      "word": "上班第一年过得怎么样",
+      "onboard_time": 1761708500,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134326,
+      "num": 134326,
+      "word": "店家笑了半小时才开始做",
+      "onboard_time": 1761708380,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 132906,
@@ -537,6 +577,14 @@
       "onboard_time": 1761642622,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130078,
+      "num": 130078,
+      "word": "美国又有实验用猴跑了",
+      "onboard_time": 1761708259,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129849,
@@ -667,12 +715,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 112659,
-      "num": 112659,
-      "word": "小龙虾替代品大量上市了",
-      "onboard_time": 1761707480,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 112605,
+      "num": 112605,
+      "word": "干过幼师才知道这个舞蹈有多难",
+      "onboard_time": 1761708919,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 112602,
@@ -689,6 +737,14 @@
       "onboard_time": 1761704779,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107987,
+      "num": 107987,
+      "word": "糖粘到什么卖什么",
+      "onboard_time": 1761708981,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 107249,
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 102879,
-      "num": 161749,
+      "num": 188855,
       "word": "京东真发钱每人1万全网比价",
       "onboard_time": 1761705020,
       "rank": 19,
@@ -760,14 +816,6 @@
       "word": "惠州一路边小货车被指装过亿现金",
       "onboard_time": 1761664462,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96175,
-      "num": 96175,
-      "word": "36岁男子反复口腔溃疡20年以为上火",
-      "onboard_time": 1761708080,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -849,6 +897,14 @@
       "onboard_time": 1761692898,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87575,
+      "num": 118003,
+      "word": "黄晓明内娱洗洁精",
+      "onboard_time": 1761708500,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 83354,
@@ -1011,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59555,
+      "num": 192560,
+      "word": "宝宝巴士就擦边广告向当事人道歉",
+      "onboard_time": 1761708020,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59249,
       "num": 59249,
       "word": "库里三分命中数突破20个",
@@ -1043,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53485,
+      "num": 117378,
+      "word": "王楚钦复古感",
+      "onboard_time": 1761708200,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50672,
       "num": 50672,
       "word": "宁绣绣封二又相聚了",
@@ -1060,7 +1132,7 @@
     },
     {
       "raw_hot": 47634,
-      "num": 112607,
+      "num": 117184,
       "word": "BOSS直聘处置近2万刷单账号",
       "onboard_time": 1761707540,
       "rank": 39,
@@ -1107,20 +1179,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33805,
-      "num": 128252,
-      "word": "宝宝巴士就擦边广告向当事人道歉",
-      "onboard_time": 1761708020,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32521,
       "num": 36651,
       "word": "美国小哥被中国外卖柜震惊",
       "onboard_time": 1761658101,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31448,
+      "num": 134333,
+      "word": "四川精子库可选星座属相脸型",
+      "onboard_time": 1761708800,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 29758,
