@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761765729727,
+  "endTime": 1761766625667,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17956,
+      "num": 34016,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17216,
       "num": 34536,
       "word": "欧阳娜娜VOGUE油画少女",
@@ -507,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11613,
-      "num": 34016,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
+      "raw_hot": 11872,
+      "num": 29465,
+      "word": "东航重启中印直飞航班",
+      "onboard_time": 1761766273,
       "rank": 47,
-      "category": "海外新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 11520,
