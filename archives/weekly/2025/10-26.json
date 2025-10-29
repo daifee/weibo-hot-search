@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761743392850,
+  "endTime": 1761745155855,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 974769,
-      "num": 434292,
+      "num": 847859,
       "word": "高铁上上个厕所1万多的电脑没了",
       "onboard_time": 1761739460,
       "rank": 10,
@@ -440,6 +440,14 @@
       "word": "郑智化 深圳机场",
       "onboard_time": 1761469341,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 930033,
+      "num": 930033,
+      "word": "沈梦辰下楼梯摔倒",
+      "onboard_time": 1761742941,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -857,6 +865,14 @@
       "onboard_time": 1761698602,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 719768,
+      "num": 719768,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 717436,
@@ -1507,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 525709,
+      "num": 525709,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520515,
       "num": 520515,
       "word": "再见小花生",
@@ -1755,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473966,
+      "num": 473966,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 473890,
       "num": 1075822,
       "word": "天地剑心",
@@ -1812,7 +1844,7 @@
     },
     {
       "raw_hot": 460076,
-      "num": 120349,
+      "num": 143714,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 33,
@@ -1945,14 +1977,6 @@
       "onboard_time": 1761530841,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 432962,
-      "num": 432962,
-      "word": "网传印度人聚众在广州酒店大厅过夜",
-      "onboard_time": 1761740781,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431429,
@@ -2355,14 +2379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359682,
-      "num": 359682,
-      "word": "彭小苒收到了2000多份简历",
-      "onboard_time": 1761741803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359473,
       "num": 359473,
       "word": "多地涨工资落地",
@@ -2459,14 +2475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346337,
-      "num": 346337,
-      "word": "沈梦辰下楼梯摔倒",
-      "onboard_time": 1761742941,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343715,
       "num": 294059,
       "word": "郑智化无须道歉",
@@ -2556,7 +2564,7 @@
     },
     {
       "raw_hot": 331506,
-      "num": 704728,
+      "num": 982554,
       "word": "985硕士女生多了",
       "onboard_time": 1761736640,
       "rank": 36,
@@ -2907,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289760,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761743662,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289702,
       "num": 169995,
       "word": "黄宗泽到院探望许绍雄",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1761448520,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286464,
+      "num": 1016541,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 284760,
@@ -3323,6 +3347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245390,
+      "num": 995254,
+      "word": "蒯曼2比3金娜英",
+      "onboard_time": 1761743422,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245049,
       "num": 238605,
       "word": "迅猛龙ELLE红毯",
@@ -3361,14 +3393,6 @@
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 241693,
-      "num": 994318,
-      "word": "王权富贵被万剑穿心",
-      "onboard_time": 1761735920,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 241580,
@@ -3673,6 +3697,14 @@
       "onboard_time": 1761647303,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 226100,
+      "num": 143154,
+      "word": "15岁女儿从126斤到102斤",
+      "onboard_time": 1761745042,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 224568,
@@ -4011,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208222,
+      "num": 968997,
+      "word": "你们去过南昌的人嘴太严了",
+      "onboard_time": 1761743062,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 207601,
       "num": 207601,
       "word": "刘轩丞将进组天才女友",
@@ -4097,6 +4137,14 @@
       "onboard_time": 1761490402,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203457,
+      "num": 962739,
+      "word": "大眼音乐节全阵容",
+      "onboard_time": 1761743243,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 203224,
@@ -4257,14 +4305,6 @@
       "onboard_time": 1761491843,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197777,
-      "num": 825099,
-      "word": "你们去过南昌的人嘴太严了",
-      "onboard_time": 1761743062,
-      "rank": 3,
-      "category": "旅游"
     },
     {
       "raw_hot": 197593,
@@ -4441,14 +4481,6 @@
       "onboard_time": 1761705919,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192543,
-      "num": 436727,
-      "word": "大眼音乐节全阵容",
-      "onboard_time": 1761743243,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 192435,
@@ -5371,6 +5403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169504,
+      "num": 949679,
+      "word": "蒯曼出局",
+      "onboard_time": 1761745042,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169438,
       "num": 308091,
       "word": "男子伙同二人驾车撞死母亲骗保",
@@ -5457,6 +5497,14 @@
       "onboard_time": 1761537740,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166445,
+      "num": 166445,
+      "word": "连皮带馅仅1毫米多的肉饼",
+      "onboard_time": 1761744082,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 166193,
@@ -5937,6 +5985,14 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157701,
+      "num": 157701,
+      "word": "子阳结婚",
+      "onboard_time": 1761743182,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 157666,
@@ -6611,6 +6667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "耀眼",
@@ -6668,7 +6732,7 @@
     },
     {
       "raw_hot": 145169,
-      "num": 145169,
+      "num": 328587,
       "word": "厄敌地球毁灭了以后",
       "onboard_time": 1761743301,
       "rank": 24,
@@ -7683,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131103,
+      "num": 131103,
+      "word": "59岁刘嘉玲怼脸皮肤状态",
+      "onboard_time": 1761743182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131061,
       "num": 131061,
       "word": "深夜送药无人接听骑手返店查药效",
@@ -7740,7 +7812,7 @@
     },
     {
       "raw_hot": 130437,
-      "num": 117486,
+      "num": 125543,
       "word": "邹市明6岁儿子拜师少林寺",
       "onboard_time": 1761740302,
       "rank": 33,
@@ -8201,6 +8273,14 @@
       "onboard_time": 1761563841,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124107,
+      "num": 124106,
+      "word": "樊振东聊爸妈的缘分",
+      "onboard_time": 1761744320,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 124064,
@@ -8883,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115330,
+      "num": 114185,
+      "word": "张呈全怪雷淞然",
+      "onboard_time": 1761744502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115191,
       "num": 115191,
       "word": "朱一龙VogueWorld出图",
@@ -8913,6 +9001,14 @@
       "onboard_time": 1761722901,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "李施嬅 吸渣体质",
+      "onboard_time": 1761743062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 114237,
@@ -8993,6 +9089,14 @@
       "onboard_time": 1761742342,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113182,
+      "num": 113182,
+      "word": "米兰的黄景瑜我狠狠笑纳了",
+      "onboard_time": 1761744681,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113114,
@@ -9129,14 +9233,6 @@
       "onboard_time": 1761456799,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112072,
-      "num": 112072,
-      "word": "子阳结婚",
-      "onboard_time": 1761743182,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 112045,
@@ -9355,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "浙江金华满足碳水脑袋",
+      "onboard_time": 1761744082,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109538,
       "num": 109538,
       "word": "Peanut全场最高分",
@@ -9433,6 +9537,14 @@
       "onboard_time": 1761704779,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108849,
+      "num": 124107,
+      "word": "孙颖莎王楚钦期待香港总决赛",
+      "onboard_time": 1761744803,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108755,
@@ -9577,6 +9689,14 @@
       "onboard_time": 1761705679,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107210,
+      "num": 107210,
+      "word": "李一桐想拉戚薇田曦薇一起搓澡",
+      "onboard_time": 1761744743,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107129,
@@ -9793,14 +9913,6 @@
       "onboard_time": 1761462140,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104317,
-      "num": 104317,
-      "word": "59岁刘嘉玲怼脸皮肤状态",
-      "onboard_time": 1761743182,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 104315,
@@ -11387,6 +11499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81731,
+      "num": 144323,
+      "word": "DRG确定败者组半决赛",
+      "onboard_time": 1761743602,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81638,
       "num": 104924,
       "word": "皇马2比1巴萨",
@@ -12731,6 +12851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49076,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48766,
       "num": 146695,
       "word": "春秋航空称空嫂在服务儿童时有优势",
@@ -12793,14 +12921,6 @@
       "onboard_time": 1761707540,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47549,
-      "num": 107578,
-      "word": "李施嬅 吸渣体质",
-      "onboard_time": 1761743062,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 47527,
@@ -13601,6 +13721,14 @@
       "onboard_time": 1761672436,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 509418,
+      "word": "大眼音乐节二开",
+      "onboard_time": 1761743602,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 26037,

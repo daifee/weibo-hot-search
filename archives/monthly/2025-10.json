@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761743392850,
+  "endTime": 1761745155855,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3252,7 +3252,7 @@
     },
     {
       "raw_hot": 974769,
-      "num": 434292,
+      "num": 847859,
       "word": "高铁上上个厕所1万多的电脑没了",
       "onboard_time": 1761739460,
       "rank": 10,
@@ -3577,6 +3577,14 @@
       "onboard_time": 1760158701,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 930033,
+      "num": 930033,
+      "word": "沈梦辰下楼梯摔倒",
+      "onboard_time": 1761742941,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 929148,
@@ -5857,6 +5865,14 @@
       "onboard_time": 1759568840,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 719768,
+      "num": 719768,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 718725,
@@ -9875,6 +9891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 525709,
+      "num": 525709,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525204,
       "num": 525204,
       "word": "雷军被8000元小刀价格惊呆了",
@@ -11499,6 +11523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473966,
+      "num": 473966,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 473886,
       "num": 473886,
       "word": "S15瑞士轮第五轮抽签",
@@ -11892,7 +11924,7 @@
     },
     {
       "raw_hot": 460076,
-      "num": 120349,
+      "num": 143714,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 33,
@@ -13017,14 +13049,6 @@
       "onboard_time": 1761357559,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 432962,
-      "num": 432962,
-      "word": "网传印度人聚众在广州酒店大厅过夜",
-      "onboard_time": 1761740781,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432947,
@@ -15843,14 +15867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359682,
-      "num": 359682,
-      "word": "彭小苒收到了2000多份简历",
-      "onboard_time": 1761741803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359473,
       "num": 359473,
       "word": "多地涨工资落地",
@@ -16417,14 +16433,6 @@
       "onboard_time": 1760578761,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 346337,
-      "num": 346337,
-      "word": "沈梦辰下楼梯摔倒",
-      "onboard_time": 1761742941,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 346102,
@@ -17140,7 +17148,7 @@
     },
     {
       "raw_hot": 331506,
-      "num": 704728,
+      "num": 982554,
       "word": "985硕士女生多了",
       "onboard_time": 1761736640,
       "rank": 36,
@@ -19763,6 +19771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289760,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1760722517,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289702,
       "num": 169995,
       "word": "黄宗泽到院探望许绍雄",
@@ -19961,6 +19977,14 @@
       "onboard_time": 1761331635,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286464,
+      "num": 1016541,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 286136,
@@ -22955,6 +22979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245390,
+      "num": 995254,
+      "word": "蒯曼2比3金娜英",
+      "onboard_time": 1761743422,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245362,
       "num": 591777,
       "word": "五角大楼延用你妈式回答",
@@ -23225,14 +23257,6 @@
       "onboard_time": 1761124639,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241693,
-      "num": 994318,
-      "word": "王权富贵被万剑穿心",
-      "onboard_time": 1761735920,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 241580,
@@ -24641,6 +24665,14 @@
       "onboard_time": 1760686161,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226100,
+      "num": 143154,
+      "word": "15岁女儿从126斤到102斤",
+      "onboard_time": 1761745042,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226065,
@@ -26419,6 +26451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208222,
+      "num": 968997,
+      "word": "你们去过南昌的人嘴太严了",
+      "onboard_time": 1761743062,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 208173,
       "num": 208173,
       "word": "张晚意为李沁新剧宣传",
@@ -27201,6 +27241,14 @@
       "onboard_time": 1759502902,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203457,
+      "num": 962739,
+      "word": "大眼音乐节全阵容",
+      "onboard_time": 1761743243,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 203454,
@@ -28339,14 +28387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197777,
-      "num": 825099,
-      "word": "你们去过南昌的人嘴太严了",
-      "onboard_time": 1761743062,
-      "rank": 3,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 197685,
       "num": 1045436,
       "word": "二十届四中全会",
@@ -28841,14 +28881,6 @@
       "onboard_time": 1759812981,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195941,
-      "num": 195941,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1760722517,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 195852,
@@ -29649,14 +29681,6 @@
       "onboard_time": 1760847020,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192543,
-      "num": 436727,
-      "word": "大眼音乐节全阵容",
-      "onboard_time": 1761743243,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 192492,
@@ -35091,6 +35115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169504,
+      "num": 949679,
+      "word": "蒯曼出局",
+      "onboard_time": 1761745042,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169448,
       "num": 169448,
       "word": "一个恋爱玄学",
@@ -35937,6 +35969,14 @@
       "onboard_time": 1761214580,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 166445,
+      "num": 166445,
+      "word": "连皮带馅仅1毫米多的肉饼",
+      "onboard_time": 1761744082,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 166417,
@@ -38569,6 +38609,14 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157701,
+      "num": 157701,
+      "word": "子阳结婚",
+      "onboard_time": 1761743182,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 157666,
@@ -42443,6 +42491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 145891,
       "num": 145891,
       "word": "100T向LPL道歉",
@@ -42740,7 +42796,7 @@
     },
     {
       "raw_hot": 145169,
-      "num": 145169,
+      "num": 328587,
       "word": "厄敌地球毁灭了以后",
       "onboard_time": 1761743301,
       "rank": 24,
@@ -48627,6 +48683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131103,
+      "num": 131103,
+      "word": "59岁刘嘉玲怼脸皮肤状态",
+      "onboard_time": 1761743182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131095,
       "num": 186101,
       "word": "OPPOFindX9标准版超Pro",
@@ -48956,7 +49020,7 @@
     },
     {
       "raw_hot": 130437,
-      "num": 117486,
+      "num": 125543,
       "word": "邹市明6岁儿子拜师少林寺",
       "onboard_time": 1761740302,
       "rank": 33,
@@ -52065,6 +52129,14 @@
       "onboard_time": 1760958561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124107,
+      "num": 124106,
+      "word": "樊振东聊爸妈的缘分",
+      "onboard_time": 1761744320,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 124079,
@@ -56955,6 +57027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115330,
+      "num": 114185,
+      "word": "张呈全怪雷淞然",
+      "onboard_time": 1761744502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115328,
       "num": 115328,
       "word": "警方回应男子扮辱华动漫角色被围攻",
@@ -57489,6 +57569,14 @@
       "onboard_time": 1760789182,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "李施嬅 吸渣体质",
+      "onboard_time": 1761743062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 114445,
@@ -58217,6 +58305,14 @@
       "onboard_time": 1759931183,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113182,
+      "num": 113182,
+      "word": "米兰的黄景瑜我狠狠笑纳了",
+      "onboard_time": 1761744681,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113166,
@@ -58977,14 +59073,6 @@
       "onboard_time": 1760946144,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112072,
-      "num": 112072,
-      "word": "子阳结婚",
-      "onboard_time": 1761743182,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 112048,
@@ -60907,6 +60995,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "浙江金华满足碳水脑袋",
+      "onboard_time": 1761744082,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109606,
       "num": 109606,
       "word": "刘浩存好萌",
@@ -61505,6 +61601,14 @@
       "onboard_time": 1760538564,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 108849,
+      "num": 124107,
+      "word": "孙颖莎王楚钦期待香港总决赛",
+      "onboard_time": 1761744803,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108828,
@@ -62625,6 +62729,14 @@
       "onboard_time": 1761042381,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107210,
+      "num": 107210,
+      "word": "李一桐想拉戚薇田曦薇一起搓澡",
+      "onboard_time": 1761744743,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107194,
@@ -64529,14 +64641,6 @@
       "onboard_time": 1760436741,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104317,
-      "num": 104317,
-      "word": "59岁刘嘉玲怼脸皮肤状态",
-      "onboard_time": 1761743182,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 104315,
@@ -78835,6 +78939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81731,
+      "num": 144323,
+      "word": "DRG确定败者组半决赛",
+      "onboard_time": 1761743602,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81730,
       "num": 81730,
       "word": "卢伟冰祝贺小米副总裁入职五周年",
@@ -89427,6 +89539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49076,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49037,
       "num": 208056,
       "word": "杨瀚森训练时已不需要翻译了",
@@ -89793,14 +89913,6 @@
       "onboard_time": 1760980696,
       "rank": 40,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 47549,
-      "num": 107578,
-      "word": "李施嬅 吸渣体质",
-      "onboard_time": 1761743062,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 47527,
@@ -94561,6 +94673,14 @@
       "onboard_time": 1761390622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 509418,
+      "word": "大眼音乐节二开",
+      "onboard_time": 1761743602,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 26037,

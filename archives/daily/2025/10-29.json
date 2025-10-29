@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761743392850,
+  "endTime": 1761745155855,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 974769,
-      "num": 434292,
+      "num": 847859,
       "word": "高铁上上个厕所1万多的电脑没了",
       "onboard_time": 1761739460,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1761720500,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 930033,
+      "num": 930033,
+      "word": "沈梦辰下楼梯摔倒",
+      "onboard_time": 1761742941,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 921105,
@@ -145,6 +153,14 @@
       "onboard_time": 1761698602,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 719768,
+      "num": 719768,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 709268,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525709,
+      "num": 525709,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501113,
       "num": 501113,
       "word": "大批轰6K贴近台湾岛",
@@ -315,6 +339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 473966,
+      "num": 473966,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 473890,
       "num": 1075822,
       "word": "天地剑心",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 460076,
-      "num": 120349,
+      "num": 143714,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 33,
@@ -385,14 +417,6 @@
       "onboard_time": 1761656061,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 432962,
-      "num": 432962,
-      "word": "网传印度人聚众在广州酒店大厅过夜",
-      "onboard_time": 1761740781,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430205,
@@ -547,14 +571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 359682,
-      "num": 359682,
-      "word": "彭小苒收到了2000多份简历",
-      "onboard_time": 1761741803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352511,
       "num": 227730,
       "word": "赵樱子自曝前男友片酬2000万",
@@ -569,14 +585,6 @@
       "onboard_time": 1761692776,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346337,
-      "num": 346337,
-      "word": "沈梦辰下楼梯摔倒",
-      "onboard_time": 1761742941,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 336497,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 331506,
-      "num": 704728,
+      "num": 982554,
       "word": "985硕士女生多了",
       "onboard_time": 1761736640,
       "rank": 36,
@@ -699,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289760,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761743662,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286464,
+      "num": 1016541,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282350,
       "num": 282350,
       "word": "许绍雄岳家捐赠了岭南四大园林之首",
@@ -795,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245390,
+      "num": 995254,
+      "word": "蒯曼2比3金娜英",
+      "onboard_time": 1761743422,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244603,
       "num": 244603,
       "word": "杭州4人吃西贝点9个菜仅花2元",
@@ -809,14 +841,6 @@
       "onboard_time": 1761693018,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241693,
-      "num": 994318,
-      "word": "王权富贵被万剑穿心",
-      "onboard_time": 1761735920,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 234760,
@@ -865,6 +889,14 @@
       "onboard_time": 1761725900,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226100,
+      "num": 143154,
+      "word": "15岁女儿从126斤到102斤",
+      "onboard_time": 1761745042,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 221894,
@@ -939,6 +971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208222,
+      "num": 968997,
+      "word": "你们去过南昌的人嘴太严了",
+      "onboard_time": 1761743062,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 203457,
+      "num": 962739,
+      "word": "大眼音乐节全阵容",
+      "onboard_time": 1761743243,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -971,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197777,
-      "num": 825099,
-      "word": "你们去过南昌的人嘴太严了",
-      "onboard_time": 1761743062,
-      "rank": 3,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 197550,
       "num": 197550,
       "word": "当代00后一天的精神状态",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1761705919,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192543,
-      "num": 436727,
-      "word": "大眼音乐节全阵容",
-      "onboard_time": 1761743243,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 190690,
@@ -1179,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169504,
+      "num": 949679,
+      "word": "蒯曼出局",
+      "onboard_time": 1761745042,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168897,
       "num": 168897,
       "word": "原来健康才是顶配人生",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1761726081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166445,
+      "num": 166445,
+      "word": "连皮带馅仅1毫米多的肉饼",
+      "onboard_time": 1761744082,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 165456,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157701,
+      "num": 157701,
+      "word": "子阳结婚",
+      "onboard_time": 1761743182,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 157197,
@@ -1419,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145896,
+      "num": 145896,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 145575,
       "num": 231416,
       "word": "37张熟脸闯进一部年代剧",
@@ -1436,7 +1500,7 @@
     },
     {
       "raw_hot": 145169,
-      "num": 145169,
+      "num": 328587,
       "word": "厄敌地球毁灭了以后",
       "onboard_time": 1761743301,
       "rank": 24,
@@ -1651,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131103,
+      "num": 131103,
+      "word": "59岁刘嘉玲怼脸皮肤状态",
+      "onboard_time": 1761743182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130672,
       "num": 130672,
       "word": "清融打卡生日大屏",
@@ -1668,7 +1740,7 @@
     },
     {
       "raw_hot": 130437,
-      "num": 117486,
+      "num": 125543,
       "word": "邹市明6岁儿子拜师少林寺",
       "onboard_time": 1761740302,
       "rank": 33,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1761718341,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124107,
+      "num": 124106,
+      "word": "樊振东聊爸妈的缘分",
+      "onboard_time": 1761744320,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 124056,
@@ -1923,12 +2003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115330,
+      "num": 114185,
+      "word": "张呈全怪雷淞然",
+      "onboard_time": 1761744502,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114630,
       "num": 661180,
       "word": "KT对战CFO",
       "onboard_time": 1761722901,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "李施嬅 吸渣体质",
+      "onboard_time": 1761743062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 113720,
@@ -1977,6 +2073,14 @@
       "onboard_time": 1761742342,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113182,
+      "num": 113182,
+      "word": "米兰的黄景瑜我狠狠笑纳了",
+      "onboard_time": 1761744681,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113105,
@@ -2049,14 +2153,6 @@
       "onboard_time": 1761668839,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112072,
-      "num": 112072,
-      "word": "子阳结婚",
-      "onboard_time": 1761743182,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 111964,
@@ -2139,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "浙江金华满足碳水脑袋",
+      "onboard_time": 1761744082,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109416,
       "num": 109416,
       "word": "孤老贷66万去世民政局被判还款",
@@ -2161,6 +2265,14 @@
       "onboard_time": 1761704779,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108849,
+      "num": 124107,
+      "word": "孙颖莎王楚钦期待香港总决赛",
+      "onboard_time": 1761744803,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 108445,
@@ -2201,6 +2313,14 @@
       "onboard_time": 1761705679,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107210,
+      "num": 107210,
+      "word": "李一桐想拉戚薇田曦薇一起搓澡",
+      "onboard_time": 1761744743,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 106898,
@@ -2257,14 +2377,6 @@
       "onboard_time": 1761719662,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104317,
-      "num": 104317,
-      "word": "59岁刘嘉玲怼脸皮肤状态",
-      "onboard_time": 1761743182,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 104154,
@@ -2763,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81731,
+      "num": 144323,
+      "word": "DRG确定败者组半决赛",
+      "onboard_time": 1761743602,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80552,
       "num": 146181,
       "word": "水龙吟是罗云熙的翻身仗吗",
@@ -3179,20 +3299,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49076,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47634,
       "num": 117184,
       "word": "BOSS直聘处置近2万刷单账号",
       "onboard_time": 1761707540,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47549,
-      "num": 107578,
-      "word": "李施嬅 吸渣体质",
-      "onboard_time": 1761743062,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 47527,
@@ -3417,6 +3537,14 @@
       "onboard_time": 1761672436,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26038,
+      "num": 509418,
+      "word": "大眼音乐节二开",
+      "onboard_time": 1761743602,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 25384,
