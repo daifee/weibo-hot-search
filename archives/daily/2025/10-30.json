@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761777728790,
+  "endTime": 1761780295732,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -19,6 +19,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 615864,
+      "num": 821038,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 577425,
       "num": 577425,
       "word": "喜人奇妙夜",
@@ -27,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458070,
+      "raw_hot": 523322,
       "num": 458070,
       "word": "高铁上上个厕所1万多的电脑没了",
       "onboard_time": 1761739460,
@@ -43,20 +51,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328507,
-      "num": 502578,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 4,
-      "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 305555,
+      "raw_hot": 393598,
       "num": 418753,
       "word": "李一桐送房求李荣浩给自己写歌",
       "onboard_time": 1761748823,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363349,
+      "num": 415843,
+      "word": "高反失温女孩昏迷19天后苏醒",
+      "onboard_time": 1761753921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323342,
+      "num": 415009,
+      "word": "千万网红仙女酵母已近一年无收入",
+      "onboard_time": 1761738321,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 298867,
+      "num": 298867,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 279598,
@@ -91,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231096,
-      "num": 415843,
-      "word": "高反失温女孩昏迷19天后苏醒",
-      "onboard_time": 1761753921,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 235586,
+      "num": 476053,
+      "word": "日本网民怒批高市早苗谄媚",
+      "onboard_time": 1761747982,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230335,
@@ -123,20 +147,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158298,
-      "num": 476053,
-      "word": "日本网民怒批高市早苗谄媚",
-      "onboard_time": 1761747982,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 162500,
+      "num": 76279,
+      "word": "降息",
+      "onboard_time": 1761780259,
+      "rank": 20,
+      "category": "财经"
     },
     {
-      "raw_hot": 150697,
-      "num": 415009,
-      "word": "千万网红仙女酵母已近一年无收入",
-      "onboard_time": 1761738321,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 155160,
+      "num": 83229,
+      "word": "李维嘉完全是天赋型梗王",
+      "onboard_time": 1761775875,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152148,
+      "num": 483430,
+      "word": "小米高管回应巨省电是空调名",
+      "onboard_time": 1761748043,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 147424,
@@ -147,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146341,
-      "num": 483430,
-      "word": "小米高管回应巨省电是空调名",
-      "onboard_time": 1761748043,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 142365,
       "num": 415919,
       "word": "王曼昱父母用爱托举的奥运冠军",
@@ -163,12 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136577,
-      "num": 136577,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 129147,
+      "num": 129147,
+      "word": "市场预计美联储将再次降息",
+      "onboard_time": 1761773534,
+      "rank": 28,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 124857,
@@ -193,6 +217,22 @@
       "onboard_time": 1761752900,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104328,
+      "num": 407508,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95083,
+      "num": 95083,
+      "word": "跑男在西藏确定不缺氧吗",
+      "onboard_time": 1761776595,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88446,
@@ -235,6 +275,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80630,
+      "num": 207760,
+      "word": "谁来救救陈伟霆",
+      "onboard_time": 1761759076,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79510,
+      "num": 195562,
+      "word": "公务员旷工超15工作日被登报辞退",
+      "onboard_time": 1761749541,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75435,
+      "num": 75435,
+      "word": "江西一老人持锄头进店砸向女店员",
+      "onboard_time": 1761779418,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75393,
       "num": 408441,
       "word": "建议早餐要吃够4类食物",
@@ -243,12 +307,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 71523,
-      "num": 71523,
-      "word": "市场预计美联储将再次降息",
-      "onboard_time": 1761773534,
-      "rank": 28,
-      "category": "海外新闻,财经"
+      "raw_hot": 71963,
+      "num": 413065,
+      "word": "王权富贵被万剑穿心我等了两年",
+      "onboard_time": 1761752421,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 71295,
@@ -257,14 +321,6 @@
       "onboard_time": 1761729380,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 70320,
-      "num": 413065,
-      "word": "王权富贵被万剑穿心我等了两年",
-      "onboard_time": 1761752421,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 69508,
@@ -307,28 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58055,
-      "num": 407508,
-      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
-      "onboard_time": 1761734241,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57627,
       "num": 408134,
       "word": "高超 一辈子就只过了5分钟消停日子",
       "onboard_time": 1761749003,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53478,
-      "num": 195562,
-      "word": "公务员旷工超15工作日被登报辞退",
-      "onboard_time": 1761749541,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52012,
@@ -339,6 +379,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 51745,
+      "num": 58403,
+      "word": "利物浦0比3水晶宫",
+      "onboard_time": 1761779478,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49812,
       "num": 404524,
       "word": "Knight开播回应特别想打T1",
@@ -347,12 +395,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49010,
+      "num": 58403,
+      "word": "满头白发亲病逝宝宝墓碑妈妈发声",
+      "onboard_time": 1761780259,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48834,
       "num": 405127,
       "word": "Knight 大黄直播间",
       "onboard_time": 1761746904,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 58402,
+      "word": "第一次见商场是4A级景区的",
+      "onboard_time": 1761778457,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 46604,
@@ -369,6 +433,14 @@
       "onboard_time": 1761756199,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43555,
+      "num": 58431,
+      "word": "向鹏2比3弗朗西斯卡",
+      "onboard_time": 1761780138,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 43229,
@@ -395,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41984,
+      "num": 58401,
+      "word": "谢娜和张杰是爱人也是朋友",
+      "onboard_time": 1761777797,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40328,
       "num": 503210,
       "word": "中国是韩国第一大贸易伙伴国",
@@ -412,7 +492,7 @@
     },
     {
       "raw_hot": 39481,
-      "num": 51001,
+      "num": 58400,
       "word": "刘宇宁就这个纯正江湖味儿",
       "onboard_time": 1761763275,
       "rank": 18,
@@ -435,20 +515,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38633,
+      "num": 58401,
+      "word": "婴幼儿近期警惕呼吸道合胞病毒",
+      "onboard_time": 1761780259,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 37864,
       "num": 411666,
       "word": "广州小蛮腰换上限定时装",
       "onboard_time": 1761746182,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36879,
-      "num": 207760,
-      "word": "谁来救救陈伟霆",
-      "onboard_time": 1761759076,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 35101,
@@ -459,20 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32398,
-      "num": 50809,
-      "word": "跑男在西藏确定不缺氧吗",
-      "onboard_time": 1761776595,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30478,
-      "num": 50507,
-      "word": "李维嘉完全是天赋型梗王",
-      "onboard_time": 1761775875,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 31874,
+      "num": 58398,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29296,
@@ -491,7 +563,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22943,
+      "raw_hot": 24846,
       "num": 65080,
       "word": "删了吧有个学美术的破防了",
       "onboard_time": 1761759496,
@@ -499,20 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20864,
+      "raw_hot": 22962,
       "num": 64885,
       "word": "声生不息",
       "onboard_time": 1761762735,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19325,
-      "num": 49868,
-      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
-      "onboard_time": 1761770774,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18929,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761777728790,
+  "endTime": 1761780295732,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -7763,6 +7763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615864,
+      "num": 821038,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 613783,
       "num": 532243,
       "word": "许家印车牌粤A98888劳斯莱斯被接管",
@@ -10185,14 +10193,6 @@
       "onboard_time": 1759492340,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516710,
-      "num": 516710,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 516650,
@@ -15811,6 +15811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 363349,
+      "num": 415843,
+      "word": "高反失温女孩昏迷19天后苏醒",
+      "onboard_time": 1761753921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363061,
       "num": 197423,
       "word": "交换人生",
@@ -19185,6 +19193,14 @@
       "onboard_time": 1761226163,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298867,
+      "num": 298867,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 298842,
@@ -24273,14 +24289,6 @@
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 231096,
-      "num": 415843,
-      "word": "高反失温女孩昏迷19天后苏醒",
-      "onboard_time": 1761753921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231073,
@@ -37323,6 +37331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162500,
+      "num": 76279,
+      "word": "降息",
+      "onboard_time": 1761780259,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162429,
       "num": 162429,
       "word": "VOGUE散场好像爸妈接小孩放学",
@@ -39553,6 +39569,14 @@
       "onboard_time": 1759648040,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155160,
+      "num": 83229,
+      "word": "李维嘉完全是天赋型梗王",
+      "onboard_time": 1761775875,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 155141,
@@ -46147,14 +46171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136577,
-      "num": 136577,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 136542,
       "num": 136542,
       "word": "徐璐卢昱晓唐嫣 爱人如养花",
@@ -49793,6 +49809,14 @@
       "onboard_time": 1759384941,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129147,
+      "num": 129147,
+      "word": "市场预计美联储将再次降息",
+      "onboard_time": 1761773534,
+      "rank": 28,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 129130,
@@ -71147,6 +71171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95083,
+      "num": 95083,
+      "word": "跑男在西藏确定不缺氧吗",
+      "onboard_time": 1761776595,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95076,
       "num": 95076,
       "word": "张继科回应拍瀑布时突然落水",
@@ -79931,6 +79963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80630,
+      "num": 207760,
+      "word": "谁来救救陈伟霆",
+      "onboard_time": 1761759076,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80612,
       "num": 98209,
       "word": "这几年月饼还卖得动吗",
@@ -80481,6 +80521,14 @@
       "onboard_time": 1761045681,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79510,
+      "num": 195562,
+      "word": "公务员旷工超15工作日被登报辞退",
+      "onboard_time": 1761749541,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79493,
@@ -82291,6 +82339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75435,
+      "num": 75435,
+      "word": "江西一老人持锄头进店砸向女店员",
+      "onboard_time": 1761779418,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75426,
       "num": 75426,
       "word": "小狗只是想给每种食物一个家",
@@ -83609,14 +83665,6 @@
       "onboard_time": 1759370479,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71523,
-      "num": 71523,
-      "word": "市场预计美联储将再次降息",
-      "onboard_time": 1761773534,
-      "rank": 28,
-      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 71427,
@@ -88987,14 +89035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53478,
-      "num": 195562,
-      "word": "公务员旷工超15工作日被登报辞退",
-      "onboard_time": 1761749541,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53468,
       "num": 183412,
       "word": "谷爱凌遇上KimJones秒变迷妹",
@@ -89384,6 +89424,14 @@
       "word": "国乒逆转之夜把球迷看哭",
       "onboard_time": 1760508741,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51745,
+      "num": 58403,
+      "word": "利物浦0比3水晶宫",
+      "onboard_time": 1761779478,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -90051,6 +90099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49010,
+      "num": 58403,
+      "word": "满头白发亲病逝宝宝墓碑妈妈发声",
+      "onboard_time": 1761780259,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48908,
       "num": 48908,
       "word": "孙颖莎WTT大满贯单打四冠王",
@@ -90489,6 +90545,14 @@
       "onboard_time": 1760763753,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 58402,
+      "word": "第一次见商场是4A级景区的",
+      "onboard_time": 1761778457,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 47177,
@@ -91315,6 +91379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43555,
+      "num": 58431,
+      "word": "向鹏2比3弗朗西斯卡",
+      "onboard_time": 1761780138,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43480,
       "num": 226017,
       "word": "油车高速领航全国都好开",
@@ -91641,6 +91713,14 @@
       "onboard_time": 1760206276,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41984,
+      "num": 58401,
+      "word": "谢娜和张杰是爱人也是朋友",
+      "onboard_time": 1761777797,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 41983,
@@ -92204,7 +92284,7 @@
     },
     {
       "raw_hot": 39481,
-      "num": 51001,
+      "num": 58400,
       "word": "刘宇宁就这个纯正江湖味儿",
       "onboard_time": 1761763275,
       "rank": 18,
@@ -92425,6 +92505,14 @@
       "onboard_time": 1759754544,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 38633,
+      "num": 58401,
+      "word": "婴幼儿近期警惕呼吸道合胞病毒",
+      "onboard_time": 1761780259,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 38584,
@@ -92793,14 +92881,6 @@
       "onboard_time": 1759793657,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 36879,
-      "num": 207760,
-      "word": "谁来救救陈伟霆",
-      "onboard_time": 1761759076,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 36876,
@@ -93763,14 +93843,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 32398,
-      "num": 50809,
-      "word": "跑男在西藏确定不缺氧吗",
-      "onboard_time": 1761776595,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32396,
       "num": 123050,
       "word": "胡先煦你知道得太多了",
@@ -93904,6 +93976,14 @@
       "word": "两男子学野鸡叫打猎误将对方打伤",
       "onboard_time": 1760612062,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31874,
+      "num": 58398,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -94265,14 +94345,6 @@
       "onboard_time": 1760848639,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30478,
-      "num": 50507,
-      "word": "李维嘉完全是天赋型梗王",
-      "onboard_time": 1761775875,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 30449,
@@ -95571,6 +95643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24846,
+      "num": 65080,
+      "word": "删了吧有个学美术的破防了",
+      "onboard_time": 1761759496,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24829,
       "num": 50767,
       "word": "余宇涵出发录制一路繁花2",
@@ -96003,12 +96083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22943,
-      "num": 65080,
-      "word": "删了吧有个学美术的破防了",
-      "onboard_time": 1761759496,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 22962,
+      "num": 64885,
+      "word": "声生不息",
+      "onboard_time": 1761762735,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 22929,
@@ -96337,14 +96417,6 @@
       "onboard_time": 1760480655,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20864,
-      "num": 64885,
-      "word": "声生不息",
-      "onboard_time": 1761762735,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 20805,
@@ -96697,14 +96769,6 @@
       "onboard_time": 1760465836,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19325,
-      "num": 49868,
-      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
-      "onboard_time": 1761770774,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19313,

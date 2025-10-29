@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 06:42:08
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 07:24:55
 </p>
 </blockquote>
 <p>
@@ -5835,6 +5835,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AF%92%E6%A0%AA%E7%94%B2%E5%9E%8BH3N2%E6%9D%A5%E8%A2%AD%23" target="weibo">
+新毒株甲型H3N2来袭（热度：615864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BD%A6%E7%89%8C%E7%B2%A4A98888%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E6%8E%A5%E7%AE%A1%23" target="weibo">
 许家印车牌粤A98888劳斯莱斯被接管（热度：613783）
 </a>
@@ -6005,12 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23" target="weibo">
 中国女子盗窃法国博物馆12斤金块（热度：603748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%88%B7%E7%88%B7%E5%B8%88%E4%BB%8E%E5%90%B4%E5%86%A0%E4%B8%AD%23" target="weibo">
-王诗龄爷爷师从吴冠中（热度：603113）
 </a>
 </li>
 
