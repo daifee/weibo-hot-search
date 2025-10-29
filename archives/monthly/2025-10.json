@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761734764773,
+  "endTime": 1761737006220,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -10516,11 +10516,19 @@
     },
     {
       "raw_hot": 501397,
-      "num": 804936,
+      "num": 1065896,
       "word": "天地剑心",
       "onboard_time": 1760163801,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501337,
+      "num": 501337,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 500930,
@@ -14169,6 +14177,14 @@
       "onboard_time": 1760081001,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399482,
+      "num": 399482,
+      "word": "Angelababy亮相重阳节敬老活动",
+      "onboard_time": 1761733641,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 399473,
@@ -21748,7 +21764,7 @@
     },
     {
       "raw_hot": 258650,
-      "num": 258650,
+      "num": 1024386,
       "word": "KT战胜CFO",
       "onboard_time": 1761730941,
       "rank": 1,
@@ -22201,6 +22217,14 @@
       "onboard_time": 1760570240,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253027,
+      "num": 881521,
+      "word": "陈震回应Model3和SU7哪个更好开",
+      "onboard_time": 1761731542,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 252997,
@@ -23627,14 +23651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 235630,
-      "num": 257474,
-      "word": "陈震回应Model3和SU7哪个更好开",
-      "onboard_time": 1761731542,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 235603,
       "num": 235603,
       "word": "王者荣耀六耳",
@@ -24883,14 +24899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221783,
-      "num": 221783,
-      "word": "Angelababy亮相重阳节敬老活动",
-      "onboard_time": 1761733641,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221770,
       "num": 221770,
       "word": "肖战为新剧小城良方减重15斤",
@@ -25587,6 +25595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214371,
+      "num": 214371,
+      "word": "TF家族新年音乐会有53个人",
+      "onboard_time": 1761734121,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214328,
       "num": 144141,
       "word": "果然会穿搭的人在那个赛道都能成功",
@@ -26193,14 +26209,6 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208737,
-      "num": 208737,
-      "word": "TF家族新年音乐会有53个人",
-      "onboard_time": 1761734121,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 208703,
@@ -31731,14 +31739,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 183028,
-      "num": 183028,
-      "word": "建议大家点外卖不要点预订单",
-      "onboard_time": 1761732201,
-      "rank": 30,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 183013,
       "num": 201475,
       "word": "微博视界大会年度推荐",
@@ -32225,6 +32225,14 @@
       "onboard_time": 1759825761,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180895,
+      "num": 728303,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 180887,
@@ -33296,6 +33304,14 @@
       "word": "将进酒",
       "onboard_time": 1759756102,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175785,
+      "num": 598044,
+      "word": "花少浪姐团 审美疲劳",
+      "onboard_time": 1761736221,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -45379,6 +45395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137363,
+      "num": 137363,
+      "word": "雷淞然 好喜欢这对",
+      "onboard_time": 1761735561,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137354,
       "num": 137354,
       "word": "电影刺杀小说家2",
@@ -47017,6 +47041,14 @@
       "onboard_time": 1761520639,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133837,
+      "num": 133837,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133798,
@@ -50281,6 +50313,14 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127114,
+      "num": 127114,
+      "word": "日本导演呼吁别让父母沦为下流老人",
+      "onboard_time": 1761736340,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127104,
@@ -60371,6 +60411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110005,
+      "num": 110005,
+      "word": "LCK锁定S15决赛",
+      "onboard_time": 1761733221,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109999,
       "num": 109999,
       "word": "iPhone秒变单反的设置",
@@ -60825,14 +60873,6 @@
       "onboard_time": 1760333722,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109429,
-      "num": 109429,
-      "word": "LCK锁定S15决赛",
-      "onboard_time": 1761733221,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 109416,
@@ -63273,6 +63313,14 @@
       "onboard_time": 1761369021,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105935,
+      "num": 510668,
+      "word": "孙颖莎想念爸妈做的饭",
+      "onboard_time": 1761732321,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 105929,
@@ -68251,14 +68299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98598,
-      "num": 98598,
-      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
-      "onboard_time": 1761734241,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98596,
       "num": 196423,
       "word": "刘宪华躺着开唱爽到谁了",
@@ -69441,14 +69481,6 @@
       "onboard_time": 1759733481,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96541,
-      "num": 208537,
-      "word": "孙颖莎想念爸妈做的饭",
-      "onboard_time": 1761732321,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 96534,
@@ -71059,6 +71091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93991,
+      "num": 93991,
+      "word": "不同地方的山歌belike",
+      "onboard_time": 1761735861,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93986,
       "num": 93986,
       "word": "李艺彤自曝会卖二手",
@@ -71939,6 +71979,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92730,
+      "num": 119141,
+      "word": "爹万箭穿心儿子万剑穿心",
+      "onboard_time": 1761735141,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92713,
       "num": 92713,
       "word": "还有什么是Paraboy不会的",
@@ -72795,6 +72843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91425,
+      "num": 173630,
+      "word": "小米冬测质疑",
+      "onboard_time": 1761735861,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 91420,
       "num": 91420,
       "word": "孙颖莎真7个",
@@ -72809,6 +72865,14 @@
       "onboard_time": 1760001681,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91386,
+      "num": 91386,
+      "word": "云南人已经把唱跳刻进DNA了",
+      "onboard_time": 1761735740,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 91376,
@@ -75483,6 +75547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87148,
+      "num": 169350,
+      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+      "onboard_time": 1761732082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87123,
       "num": 105064,
       "word": "金晨跳着跳着大喜就出来了",
@@ -77995,6 +78067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82772,
+      "num": 173203,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82758,
       "num": 82758,
       "word": "朱易第五",
@@ -78897,6 +78977,14 @@
       "onboard_time": 1760314159,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80964,
+      "num": 118191,
+      "word": "985硕士女生多了",
+      "onboard_time": 1761736640,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 80943,
@@ -81163,14 +81251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76062,
-      "num": 173203,
-      "word": "外交部回应中国是否复购美国大豆",
-      "onboard_time": 1761733161,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76037,
       "num": 76037,
       "word": "刘些宁扛住了外网镜头",
@@ -81281,14 +81361,6 @@
       "onboard_time": 1761063738,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 75769,
-      "num": 169350,
-      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
-      "onboard_time": 1761732082,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75762,
@@ -84808,6 +84880,14 @@
       "word": "亚历山大罚球历史最多",
       "onboard_time": 1761357439,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65207,
+      "num": 85037,
+      "word": "徐嘉余备战全运会VLOG",
+      "onboard_time": 1761736762,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -88780,7 +88860,7 @@
     },
     {
       "raw_hot": 50027,
-      "num": 997510,
+      "num": 997643,
       "word": "十五五规划建议这些与年轻人有关",
       "onboard_time": 1761729981,
       "rank": 2,
@@ -90147,6 +90227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44159,
+      "num": 133839,
+      "word": "中国兽协就动物血库灰色产业发声",
+      "onboard_time": 1761735381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44152,
       "num": 553491,
       "word": "星空有约",
@@ -90833,6 +90921,14 @@
       "onboard_time": 1760105604,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41014,
+      "num": 114982,
+      "word": "留学生不会有超国民待遇",
+      "onboard_time": 1761736461,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41002,
@@ -95795,6 +95891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18208,
+      "num": 114420,
+      "word": "刘嘉玲家里最法式的是梁朝伟的奖杯",
+      "onboard_time": 1761736040,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18205,
       "num": 82467,
       "word": "张艺凡叠门开挂指南",
@@ -96297,6 +96401,14 @@
       "onboard_time": 1760172020,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15170,
+      "num": 110180,
+      "word": "李宇春callback白马公主",
+      "onboard_time": 1761736102,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15084,
