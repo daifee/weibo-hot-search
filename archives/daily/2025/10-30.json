@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761770626389,
+  "endTime": 1761773086899,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65442,
+      "num": 65442,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64568,
       "num": 410266,
       "word": "Shadow 三天没出门",
@@ -337,14 +345,6 @@
       "onboard_time": 1761746904,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48578,
-      "num": 48578,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 46604,
@@ -515,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12129,
+      "num": 29682,
+      "word": "停火18天后以总理再启加沙战事",
+      "onboard_time": 1761769874,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11872,
       "num": 29734,
       "word": "东航重启中印直飞航班",
@@ -531,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10362,
-      "num": 29682,
-      "word": "停火18天后以总理再启加沙战事",
-      "onboard_time": 1761769874,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10121,
       "num": 29666,
       "word": "重阳是秋意最浓的一封家书",
       "onboard_time": 1761769153,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 9912,
+      "num": 18970,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
