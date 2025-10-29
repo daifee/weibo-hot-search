@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761737929973,
+  "endTime": 1761742520139,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -4491,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 832107,
+      "num": 390291,
+      "word": "高铁上上个厕所1万多的电脑没了",
+      "onboard_time": 1761739460,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 832077,
       "num": 832077,
       "word": "钱学森遭美方拘禁后失声暴瘦",
@@ -7953,6 +7961,14 @@
       "onboard_time": 1759506859,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602810,
+      "num": 602810,
+      "word": "花少浪姐团 审美疲劳",
+      "onboard_time": 1761736221,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 602797,
@@ -11867,6 +11883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 460076,
+      "num": 120349,
+      "word": "韩国偶遇刘强东章泽天",
+      "onboard_time": 1761737480,
+      "rank": 33,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 460029,
       "num": 470852,
       "word": "乌克兰幼儿园遭袭瞬间画面曝光",
@@ -14379,6 +14403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394192,
+      "num": 394192,
+      "word": "李在明款待特朗普菜单曝光",
+      "onboard_time": 1761739521,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 394030,
       "num": 980559,
       "word": "卢浮宫被盗藏品可在1小时内被分解",
@@ -14585,6 +14617,14 @@
       "onboard_time": 1759919720,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389325,
+      "num": 389325,
+      "word": "千万网红仙女酵母已近一年无收入",
+      "onboard_time": 1761738321,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 389069,
@@ -15049,14 +15089,6 @@
       "onboard_time": 1761030802,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376404,
-      "num": 598044,
-      "word": "花少浪姐团 审美疲劳",
-      "onboard_time": 1761736221,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 376274,
@@ -15721,6 +15753,14 @@
       "onboard_time": 1761058462,
       "rank": 8,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 362633,
+      "num": 1058021,
+      "word": "DRG战胜TTG",
+      "onboard_time": 1761741742,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 362369,
@@ -17075,6 +17115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331506,
+      "num": 704728,
+      "word": "985硕士女生多了",
+      "onboard_time": 1761736640,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 331411,
       "num": 217834,
       "word": "对面这么小刀我真的会同意的",
@@ -17320,6 +17368,14 @@
       "word": "网友称买10斤芒果礼盒3斤是书",
       "onboard_time": 1759923142,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325726,
+      "num": 325726,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -20003,6 +20059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "台湾歌手坣娜去世",
+      "onboard_time": 1761739940,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284276,
       "num": 284276,
       "word": "王者荣耀回复",
@@ -21955,6 +22019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 256285,
+      "num": 256285,
+      "word": "白鹿助理说谁家小孩落这了",
+      "onboard_time": 1761741081,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256197,
       "num": 230611,
       "word": "张婧仪 仪态之神",
@@ -23140,7 +23212,7 @@
     },
     {
       "raw_hot": 241693,
-      "num": 728303,
+      "num": 883435,
       "word": "王权富贵被万剑穿心",
       "onboard_time": 1761735920,
       "rank": 6,
@@ -25427,14 +25499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "985硕士女生多了",
-      "onboard_time": 1761736640,
-      "rank": 36,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 216422,
       "num": 216422,
       "word": "国乒男团扳平比分",
@@ -26177,6 +26241,14 @@
       "onboard_time": 1761455419,
       "rank": 15,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 209455,
+      "num": 1056943,
+      "word": "TTG对战DRG",
+      "onboard_time": 1761733941,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 209362,
@@ -28089,6 +28161,14 @@
       "onboard_time": 1760933661,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198674,
+      "num": 198674,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 198672,
@@ -38876,7 +38956,7 @@
     },
     {
       "raw_hot": 156178,
-      "num": 156178,
+      "num": 390751,
       "word": "成毅直播",
       "onboard_time": 1761391342,
       "rank": 40,
@@ -48827,6 +48907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130437,
+      "num": 117486,
+      "word": "邹市明6岁儿子拜师少林寺",
+      "onboard_time": 1761740302,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130430,
       "num": 130430,
       "word": "聚星名人赛十月杭州见",
@@ -58099,14 +58187,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 113132,
-      "num": 113132,
-      "word": "韩国偶遇刘强东章泽天",
-      "onboard_time": 1761737480,
-      "rank": 33,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 113116,
       "num": 113116,
       "word": "四周后全运会就开幕了",
@@ -58761,6 +58841,14 @@
       "onboard_time": 1760705003,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112181,
+      "num": 112181,
+      "word": "王楚钦快比赛吧",
+      "onboard_time": 1761740841,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112170,
@@ -61635,6 +61723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108445,
+      "num": 125719,
+      "word": "怀疑水龙吟有四个群聊",
+      "onboard_time": 1761741563,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108441,
       "num": 463489,
       "word": "升级鸿蒙6流畅度最高提升40%",
@@ -63305,14 +63401,6 @@
       "onboard_time": 1759747282,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105943,
-      "num": 208676,
-      "word": "TTG对战DRG",
-      "onboard_time": 1761733941,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 105941,
@@ -67345,6 +67433,14 @@
       "onboard_time": 1759549460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100177,
+      "num": 100177,
+      "word": "清融打卡生日大屏",
+      "onboard_time": 1761742224,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 100168,
@@ -72027,6 +72123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92721,
+      "num": 92721,
+      "word": "猫猫出去玩被蜜蜂蛰了",
+      "onboard_time": 1761741981,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92713,
       "num": 92713,
       "word": "还有什么是Paraboy不会的",
@@ -72489,6 +72593,14 @@
       "onboard_time": 1760513780,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92132,
+      "num": 124710,
+      "word": "彭小苒突袭直播",
+      "onboard_time": 1761741803,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 92116,
@@ -74259,6 +74371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89337,
+      "num": 89337,
+      "word": "沈腾杨幂 爱的二舅定律",
+      "onboard_time": 1761742342,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89334,
       "num": 89334,
       "word": "十五五发展原则",
@@ -74337,6 +74457,14 @@
       "onboard_time": 1760362581,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89163,
+      "num": 89163,
+      "word": "南瓜烤蛋奶麻薯",
+      "onboard_time": 1761742161,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 89139,
@@ -75347,6 +75475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87520,
+      "num": 87520,
+      "word": "特朗普称美国与韩国结婚了",
+      "onboard_time": 1761738202,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87488,
       "num": 87488,
       "word": "第一次在鱼的脸上看到了震惊",
@@ -76105,6 +76241,14 @@
       "onboard_time": 1759236802,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86249,
+      "num": 117525,
+      "word": "马丽到底是挽着谁走红毯",
+      "onboard_time": 1761741803,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 86243,
@@ -79881,6 +80025,14 @@
       "onboard_time": 1759546939,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79172,
+      "num": 369521,
+      "word": "飓风相机",
+      "onboard_time": 1761737962,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 79146,
@@ -84755,6 +84907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 65719,
+      "num": 110746,
+      "word": "岚图泰山首搭鸿蒙座舱语音大模型",
+      "onboard_time": 1761739521,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65691,
       "num": 79653,
       "word": "隋文静韩聪回应复出首秀",
@@ -86667,6 +86827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58985,
+      "num": 124267,
+      "word": "孙颖莎期待与最顶尖的选手一较高下",
+      "onboard_time": 1761740841,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58972,
       "num": 195283,
       "word": "全新坦克400动态首测",
@@ -86873,6 +87041,14 @@
       "onboard_time": 1759716260,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58571,
+      "num": 123616,
+      "word": "WTT香港总决赛门票预售",
+      "onboard_time": 1761742224,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 58549,
@@ -88379,6 +88555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52381,
+      "num": 109052,
+      "word": "贵州茅台三季度净利润192.2亿",
+      "onboard_time": 1761740361,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -88985,6 +89169,14 @@
       "onboard_time": 1760429482,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49723,
+      "num": 108629,
+      "word": "中国稀土业绩大涨",
+      "onboard_time": 1761738681,
+      "rank": 40,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 49693,
@@ -95329,6 +95521,14 @@
       "onboard_time": 1760429722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21350,
+      "num": 967084,
+      "word": "十五五中国发展新图景",
+      "onboard_time": 1761742462,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21297,

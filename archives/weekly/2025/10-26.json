@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761737929973,
+  "endTime": 1761742520139,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -585,6 +585,14 @@
       "onboard_time": 1761649462,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 832107,
+      "num": 390291,
+      "word": "高铁上上个厕所1万多的电脑没了",
+      "onboard_time": 1761739460,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 828629,
@@ -1203,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602810,
+      "num": 602810,
+      "word": "花少浪姐团 审美疲劳",
+      "onboard_time": 1761736221,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599923,
       "num": 289929,
       "word": "陈伟霆 传新iPhone要一天多",
@@ -1787,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460076,
+      "num": 120349,
+      "word": "韩国偶遇刘强东章泽天",
+      "onboard_time": 1761737480,
+      "rank": 33,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 456643,
       "num": 1073062,
       "word": "中美元首釜山会晤",
@@ -2123,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 394192,
+      "num": 394192,
+      "word": "李在明款待特朗普菜单曝光",
+      "onboard_time": 1761739521,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391777,
       "num": 309267,
       "word": "将门毒后",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1761637762,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 389325,
+      "num": 389325,
+      "word": "千万网红仙女酵母已近一年无收入",
+      "onboard_time": 1761738321,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 388811,
@@ -2219,14 +2259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 376404,
-      "num": 598044,
-      "word": "花少浪姐团 审美疲劳",
-      "onboard_time": 1761736221,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376186,
       "num": 442153,
       "word": "十五五规划建议发布",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1761529100,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362633,
+      "num": 1058021,
+      "word": "DRG战胜TTG",
+      "onboard_time": 1761741742,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 359473,
@@ -2491,6 +2531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331506,
+      "num": 704728,
+      "word": "985硕士女生多了",
+      "onboard_time": 1761736640,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 329413,
       "num": 260420,
       "word": "国台办称决不承诺放弃使用武力",
@@ -2521,6 +2569,14 @@
       "onboard_time": 1761660922,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325726,
+      "num": 325726,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325560,
@@ -2891,6 +2947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "台湾歌手坣娜去世",
+      "onboard_time": 1761739940,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282368,
       "num": 282368,
       "word": "钎九",
@@ -3099,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256285,
+      "num": 256285,
+      "word": "白鹿助理说谁家小孩落这了",
+      "onboard_time": 1761741081,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254135,
       "num": 144277,
       "word": "恋与制作人被魅魔夹击了",
@@ -3276,7 +3348,7 @@
     },
     {
       "raw_hot": 241693,
-      "num": 728303,
+      "num": 883435,
       "word": "王权富贵被万剑穿心",
       "onboard_time": 1761735920,
       "rank": 6,
@@ -3723,14 +3795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216500,
-      "num": 216500,
-      "word": "985硕士女生多了",
-      "onboard_time": 1761736640,
-      "rank": 36,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 215616,
       "num": 186325,
       "word": "孟子义李昀锐未公开拍立得",
@@ -3897,6 +3961,14 @@
       "onboard_time": 1761455419,
       "rank": 15,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 209455,
+      "num": 1056943,
+      "word": "TTG对战DRG",
+      "onboard_time": 1761733941,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 209230,
@@ -4129,6 +4201,14 @@
       "onboard_time": 1761490942,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198674,
+      "num": 198674,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 198672,
@@ -6667,6 +6747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142740,
+      "num": 390751,
+      "word": "成毅直播",
+      "onboard_time": 1761740903,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142591,
       "num": 142591,
       "word": "李宇嘉被冯程郎素颜吓到",
@@ -7601,6 +7689,14 @@
       "onboard_time": 1761629662,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130437,
+      "num": 117486,
+      "word": "邹市明6岁儿子拜师少林寺",
+      "onboard_time": 1761740302,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 130326,
@@ -8835,14 +8931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113132,
-      "num": 113132,
-      "word": "韩国偶遇刘强东章泽天",
-      "onboard_time": 1761737480,
-      "rank": 33,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 113114,
       "num": 113114,
       "word": "肖战宣传舒淇电影",
@@ -8969,6 +9057,14 @@
       "onboard_time": 1761452181,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112181,
+      "num": 112181,
+      "word": "王楚钦快比赛吧",
+      "onboard_time": 1761740841,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112170,
@@ -9315,6 +9411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108445,
+      "num": 125719,
+      "word": "怀疑水龙吟有四个群聊",
+      "onboard_time": 1761741563,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108292,
       "num": 108292,
       "word": "入青云结局的片尾彩蛋",
@@ -9512,14 +9616,6 @@
       "word": "Deft送别EDG队宠",
       "onboard_time": 1761566962,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 105943,
-      "num": 208676,
-      "word": "TTG对战DRG",
-      "onboard_time": 1761733941,
-      "rank": 9,
       "category": "电竞"
     },
     {
@@ -9985,6 +10081,14 @@
       "onboard_time": 1761552200,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100177,
+      "num": 100177,
+      "word": "清融打卡生日大屏",
+      "onboard_time": 1761742224,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 100168,
@@ -10563,6 +10667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92721,
+      "num": 92721,
+      "word": "猫猫出去玩被蜜蜂蛰了",
+      "onboard_time": 1761741981,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "这是我见过对恋爱脑最好的诠释",
@@ -10609,6 +10721,14 @@
       "onboard_time": 1761527841,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92132,
+      "num": 124710,
+      "word": "彭小苒突袭直播",
+      "onboard_time": 1761741803,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 92108,
@@ -10795,6 +10915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89337,
+      "num": 89337,
+      "word": "沈腾杨幂 爱的二舅定律",
+      "onboard_time": 1761742342,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89163,
+      "num": 89163,
+      "word": "南瓜烤蛋奶麻薯",
+      "onboard_time": 1761742161,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89043,
       "num": 89043,
       "word": "广东人生娃积极性第一名",
@@ -10931,6 +11067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87520,
+      "num": 87520,
+      "word": "特朗普称美国与韩国结婚了",
+      "onboard_time": 1761738202,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87406,
       "num": 169461,
       "word": "1部手机3个月在义乌闯出一条路",
@@ -10961,6 +11105,14 @@
       "onboard_time": 1761451099,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86249,
+      "num": 117525,
+      "word": "马丽到底是挽着谁走红毯",
+      "onboard_time": 1761741803,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 86145,
@@ -11281,6 +11433,14 @@
       "onboard_time": 1761737841,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79172,
+      "num": 369521,
+      "word": "飓风相机",
+      "onboard_time": 1761737962,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 79091,
@@ -11795,6 +11955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65719,
+      "num": 110746,
+      "word": "岚图泰山首搭鸿蒙座舱语音大模型",
+      "onboard_time": 1761739521,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65688,
       "num": 102160,
       "word": "WTT蒙彼利埃冠军赛抽签仪式",
@@ -12115,12 +12283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58985,
+      "num": 124267,
+      "word": "孙颖莎期待与最顶尖的选手一较高下",
+      "onboard_time": 1761740841,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58910,
       "num": 195697,
       "word": "六个男艺人在综艺里馋得直流口水",
       "onboard_time": 1761397642,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58571,
+      "num": 123616,
+      "word": "WTT香港总决赛门票预售",
+      "onboard_time": 1761742224,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 58549,
@@ -12315,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52381,
+      "num": 109052,
+      "word": "贵州茅台三季度净利润192.2亿",
+      "onboard_time": 1761740361,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -12409,6 +12601,14 @@
       "onboard_time": 1761449359,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49723,
+      "num": 108629,
+      "word": "中国稀土业绩大涨",
+      "onboard_time": 1761738681,
+      "rank": 40,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 49693,
@@ -13545,6 +13745,14 @@
       "onboard_time": 1761469642,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21350,
+      "num": 967084,
+      "word": "十五五中国发展新图景",
+      "onboard_time": 1761742462,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20484,

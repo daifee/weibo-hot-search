@@ -1,0 +1,410 @@
+{
+  "runTime": 1761742520139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 362633,
+        "num": 1058021,
+        "word": "DRG战胜TTG",
+        "onboard_time": 1761741742,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209455,
+        "num": 1056943,
+        "word": "TTG对战DRG",
+        "onboard_time": 1761733941,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21350,
+        "num": 967084,
+        "word": "十五五中国发展新图景",
+        "onboard_time": 1761742462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170668,
+        "num": 883435,
+        "word": "王权富贵被万剑穿心",
+        "onboard_time": 1761735920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126938,
+        "num": 770145,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 331506,
+        "num": 704728,
+        "word": "985硕士女生多了",
+        "onboard_time": 1761736640,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 34103,
+        "num": 606867,
+        "word": "十五五规划建议这些与年轻人有关",
+        "onboard_time": 1761729981,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602810,
+        "num": 602810,
+        "word": "花少浪姐团 审美疲劳",
+        "onboard_time": 1761736221,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394192,
+        "num": 394192,
+        "word": "李在明款待特朗普菜单曝光",
+        "onboard_time": 1761739521,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142740,
+        "num": 390751,
+        "word": "成毅直播",
+        "onboard_time": 1761740903,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 832107,
+        "num": 390291,
+        "word": "高铁上上个厕所1万多的电脑没了",
+        "onboard_time": 1761739460,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414659,
+        "num": 389817,
+        "word": "天地剑心",
+        "onboard_time": 1761733281,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389325,
+        "num": 389325,
+        "word": "千万网红仙女酵母已近一年无收入",
+        "onboard_time": 1761738321,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79172,
+        "num": 369521,
+        "word": "飓风相机",
+        "onboard_time": 1761737962,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354536,
+        "num": 354536,
+        "word": "建议大家点外卖不要点预订单",
+        "onboard_time": 1761732201,
+        "rank": 14,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 325726,
+        "num": 325726,
+        "word": "网传印度人聚众在广州酒店大厅过夜",
+        "onboard_time": 1761740781,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284303,
+        "num": 284303,
+        "word": "台湾歌手坣娜去世",
+        "onboard_time": 1761739940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259714,
+        "num": 259714,
+        "word": "三峡大学通报留学生夜闯女寝",
+        "onboard_time": 1761725180,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71252,
+        "num": 256981,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71159,
+        "num": 256483,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 256285,
+        "word": "白鹿助理说谁家小孩落这了",
+        "onboard_time": 1761741081,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222114,
+        "num": 222114,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198674,
+        "num": 198674,
+        "word": "彭小苒收到了2000多份简历",
+        "onboard_time": 1761741803,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140128,
+        "num": 140128,
+        "word": "雷淞然 好喜欢这对",
+        "onboard_time": 1761735561,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128793,
+        "num": 128793,
+        "word": "日本导演呼吁别让父母沦为下流老人",
+        "onboard_time": 1761736340,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125915,
+        "num": 125915,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108445,
+        "num": 125719,
+        "word": "怀疑水龙吟有四个群聊",
+        "onboard_time": 1761741563,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92132,
+        "num": 124710,
+        "word": "彭小苒突袭直播",
+        "onboard_time": 1761741803,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58985,
+        "num": 124267,
+        "word": "孙颖莎期待与最顶尖的选手一较高下",
+        "onboard_time": 1761740841,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58571,
+        "num": 123616,
+        "word": "WTT香港总决赛门票预售",
+        "onboard_time": 1761742224,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123160,
+        "num": 123160,
+        "word": "Angelababy亮相重阳节敬老活动",
+        "onboard_time": 1761733641,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460076,
+        "num": 120349,
+        "word": "韩国偶遇刘强东章泽天",
+        "onboard_time": 1761737480,
+        "rank": 31,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 86249,
+        "num": 117525,
+        "word": "马丽到底是挽着谁走红毯",
+        "onboard_time": 1761741803,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130437,
+        "num": 117486,
+        "word": "邹市明6岁儿子拜师少林寺",
+        "onboard_time": 1761740302,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115308,
+        "num": 115308,
+        "word": "金价下跌备婚人买三金纠结症犯了",
+        "onboard_time": 1761727461,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 112327,
+        "num": 112327,
+        "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+        "onboard_time": 1761734241,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112181,
+        "num": 112181,
+        "word": "王楚钦快比赛吧",
+        "onboard_time": 1761740841,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65719,
+        "num": 110746,
+        "word": "岚图泰山首搭鸿蒙座舱语音大模型",
+        "onboard_time": 1761739521,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 110544,
+        "word": "茉莉雨",
+        "onboard_time": 1761728061,
+        "rank": 38,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 52381,
+        "num": 109052,
+        "word": "贵州茅台三季度净利润192.2亿",
+        "onboard_time": 1761740361,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49723,
+        "num": 108629,
+        "word": "中国稀土业绩大涨",
+        "onboard_time": 1761738681,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 108529,
+        "num": 108529,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102930,
+        "num": 102930,
+        "word": "小米冬测质疑",
+        "onboard_time": 1761735861,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100177,
+        "num": 100177,
+        "word": "清融打卡生日大屏",
+        "onboard_time": 1761742224,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92721,
+        "num": 92721,
+        "word": "猫猫出去玩被蜜蜂蛰了",
+        "onboard_time": 1761741981,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90761,
+        "num": 90761,
+        "word": "TF家族新年音乐会有53个人",
+        "onboard_time": 1761734121,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89337,
+        "num": 89337,
+        "word": "沈腾杨幂 爱的二舅定律",
+        "onboard_time": 1761742342,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89163,
+        "num": 89163,
+        "word": "南瓜烤蛋奶麻薯",
+        "onboard_time": 1761742161,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87520,
+        "num": 87520,
+        "word": "特朗普称美国与韩国结婚了",
+        "onboard_time": 1761738202,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40249,
+        "num": 86187,
+        "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+        "onboard_time": 1761732082,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}

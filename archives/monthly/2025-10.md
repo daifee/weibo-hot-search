@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 19:38:49
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 20:55:20
 </p>
 </blockquote>
 <p>
@@ -3381,6 +3381,12 @@ Peanut燃尽了（热度：833201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E4%B8%8A%E4%B8%AA%E5%8E%95%E6%89%801%E4%B8%87%E5%A4%9A%E7%9A%84%E7%94%B5%E8%84%91%E6%B2%A1%E4%BA%86%23" target="weibo">
+高铁上上个厕所1万多的电脑没了（热度：832107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6%23" target="weibo">
 钱学森遭美方拘禁后失声暴瘦（热度：832077）
 </a>
@@ -5979,6 +5985,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E6%B5%AA%E5%A7%90%E5%9B%A2%20%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3%23" target="weibo">
+花少浪姐团 审美疲劳（热度：602810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%82%A5%E8%83%96%E7%85%A7%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%23" target="weibo">
 美军肥胖照火遍全网（热度：602797）
 </a>
@@ -5999,18 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
 金价银价大跳水（热度：600529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%A9%99%E8%89%B2%23" target="weibo">
-明星接受采访不要穿橙色（热度：600522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BA%BA%20%E5%B1%85%E7%84%B6%E4%BA%BA%23" target="weibo">
-竟然人 居然人（热度：600453）
 </a>
 </li>
 
