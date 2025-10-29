@@ -1,0 +1,410 @@
+{
+  "runTime": 1761723608379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925060,
+        "num": 1148009,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337082,
+        "num": 337082,
+        "word": "警方回应留学生深夜擅闯女寝",
+        "onboard_time": 1761719961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21914,
+        "num": 278513,
+        "word": "网警提醒护老安全莫松懈平安度重阳",
+        "onboard_time": 1761716720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649680,
+        "num": 275722,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 486603,
+        "num": 268045,
+        "word": "高市早苗被特朗普介绍后高兴到转圈",
+        "onboard_time": 1761718880,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234377,
+        "num": 234377,
+        "word": "未来五年大量的钱将流向这里",
+        "onboard_time": 1761713961,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197079,
+        "num": 233877,
+        "word": "鹿晗我们的明天上新版本了",
+        "onboard_time": 1761721942,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157429,
+        "num": 232986,
+        "word": "宝宝巴士致歉",
+        "onboard_time": 1761696680,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 151122,
+        "num": 232199,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66549,
+        "num": 231416,
+        "word": "37张熟脸闯进一部年代剧",
+        "onboard_time": 1761722601,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 965800,
+        "num": 231132,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 907269,
+        "num": 230062,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22334,
+        "num": 229088,
+        "word": "刘浩存深蓝L06品牌大使",
+        "onboard_time": 1761719781,
+        "rank": 12,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 384678,
+        "num": 228543,
+        "word": "张馨予 真不把你们当外人",
+        "onboard_time": 1761720621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334840,
+        "num": 227933,
+        "word": "韩网狂夸韩女的上海汉服妆造",
+        "onboard_time": 1761716000,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227526,
+        "num": 227526,
+        "word": "李沁说张晚意上那种班",
+        "onboard_time": 1761721340,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197550,
+        "num": 197550,
+        "word": "当代00后一天的精神状态",
+        "onboard_time": 1761722901,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188575,
+        "num": 188575,
+        "word": "建议千万不要水洗鸡蛋",
+        "onboard_time": 1761708560,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 53822,
+        "num": 184283,
+        "word": "KT对战CFO",
+        "onboard_time": 1761722901,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28872,
+        "num": 183663,
+        "word": "3游客爬上泰山仙人桥悬空巨石",
+        "onboard_time": 1761723080,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123686,
+        "num": 183282,
+        "word": "宝宝病逝34岁妈妈满头白发亲吻墓碑",
+        "onboard_time": 1761722362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183264,
+        "num": 183264,
+        "word": "林俊杰回复杨幂工作室",
+        "onboard_time": 1761722121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "23考研26考公",
+        "onboard_time": 1761721340,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165456,
+        "num": 165456,
+        "word": "30岁长期熬夜得了60岁的病",
+        "onboard_time": 1761720563,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164506,
+        "num": 164506,
+        "word": "短剧圈也有真夫妻了",
+        "onboard_time": 1761715821,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158680,
+        "num": 158680,
+        "word": "专家称A股仍处于牛市上半场",
+        "onboard_time": 1761723562,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158101,
+        "num": 158101,
+        "word": "第一次见这样给奶奶过生日的",
+        "onboard_time": 1761722780,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141407,
+        "num": 141407,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107146,
+        "num": 141388,
+        "word": "李维嘉杜海涛临时救场offer",
+        "onboard_time": 1761714741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52895,
+        "num": 141370,
+        "word": "娱乐圈不老明星都在用AQ",
+        "onboard_time": 1761722181,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150678,
+        "num": 141337,
+        "word": "泽连斯基声称无力施压中国望美出手",
+        "onboard_time": 1761715162,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152976,
+        "num": 141304,
+        "word": "清融22岁继续向前",
+        "onboard_time": 1761723562,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141270,
+        "num": 141270,
+        "word": "早餐只吃两颗鸡蛋的含金量",
+        "onboard_time": 1761722241,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129851,
+        "num": 129851,
+        "word": "澳洲女子徒步被团队忘在海岛上身亡",
+        "onboard_time": 1761720981,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41701,
+        "num": 128585,
+        "word": "今天是百年一遇的晚重阳",
+        "onboard_time": 1761721701,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127720,
+        "num": 127720,
+        "word": "李宇春下面大蒜的作用是",
+        "onboard_time": 1761723260,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 24237,
+        "num": 126892,
+        "word": "年轻人把黄金买成最贵周边",
+        "onboard_time": 1761722901,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 31708,
+        "num": 126241,
+        "word": "日本熊灾大难不死职员已重返职场",
+        "onboard_time": 1761722961,
+        "rank": 37,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 33923,
+        "num": 124526,
+        "word": "男子踩踏奶猫被阻后带三只活猫逃走",
+        "onboard_time": 1761722422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11131,
+        "num": 122395,
+        "word": "齐聚郑州共赴诗词之约",
+        "onboard_time": 1761721280,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122046,
+        "num": 122046,
+        "word": "潘玮柏吃面一筷子社死一辈子",
+        "onboard_time": 1761722302,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116413,
+        "num": 116413,
+        "word": "毛不易下次有这种婚礼记得先开票",
+        "onboard_time": 1761720740,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113105,
+        "num": 113105,
+        "word": "黄仁勋不甘心失去中国市场",
+        "onboard_time": 1761723142,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110378,
+        "num": 110378,
+        "word": "短国李栋旭出现了",
+        "onboard_time": 1761713301,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103701,
+        "num": 103701,
+        "word": "每天走10000步身体的变化",
+        "onboard_time": 1761722422,
+        "rank": 44,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 103503,
+        "num": 103503,
+        "word": "现在的裤脚等于以前的裤腰",
+        "onboard_time": 1761719120,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102467,
+        "num": 102467,
+        "word": "冬天赖床是最简单的养生方式",
+        "onboard_time": 1761723562,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97383,
+        "num": 101702,
+        "word": "小酒窝走在学校会被打招呼",
+        "onboard_time": 1761721761,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101622,
+        "num": 101622,
+        "word": "成都马拉松赛事发放社死雨衣",
+        "onboard_time": 1761720381,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 90154,
+        "num": 100701,
+        "word": "王者新英雄六耳将到来",
+        "onboard_time": 1761722302,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关于十五五规划的重要论断#"
+    }
+  }
+}
