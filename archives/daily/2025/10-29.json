@@ -1,21 +1,37 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761713277876,
+  "endTime": 1761715647025,
   "band_list": [
+    {
+      "raw_hot": 2380432,
+      "num": 261567,
+      "word": "孕妇退房退款酒店员工发信息说恶心",
+      "onboard_time": 1761712340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1289071,
+      "num": 1289071,
+      "word": "新闻女王道歉",
+      "onboard_time": 1761714262,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1240236,
+      "num": 1123455,
+      "word": "BLG 商K",
+      "onboard_time": 1761711682,
+      "rank": 5,
+      "category": "电竞"
+    },
     {
       "raw_hot": 1148659,
       "num": 1183785,
       "word": "高考体检正常大学查出色弱遭退学",
       "onboard_time": 1761696982,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1046372,
-      "num": 261567,
-      "word": "孕妇退房退款酒店员工发信息说恶心",
-      "onboard_time": 1761712340,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -67,12 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 771595,
-      "num": 1123455,
-      "word": "BLG 商K",
-      "onboard_time": 1761711682,
-      "rank": 5,
-      "category": "电竞"
+      "raw_hot": 771562,
+      "num": 258562,
+      "word": "三峡大学留学生",
+      "onboard_time": 1761712941,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726181,
@@ -129,6 +145,14 @@
       "onboard_time": 1761694879,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549370,
+      "num": 549370,
+      "word": "刘文祥 吃出整块抹布",
+      "onboard_time": 1761710601,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532675,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424398,
-      "num": 424398,
-      "word": "刘文祥 吃出整块抹布",
-      "onboard_time": 1761710601,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 420117,
       "num": 420117,
       "word": "吃柚子的第一批受害者出现了",
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414428,
+      "num": 203620,
+      "word": "短国李栋旭出现了",
+      "onboard_time": 1761713301,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382974,
       "num": 362556,
       "word": "刘亦菲李宇春红毯C位",
@@ -249,6 +273,14 @@
       "onboard_time": 1761710121,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370337,
+      "num": 271276,
+      "word": "万剑穿心名场面",
+      "onboard_time": 1761712822,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 367244,
@@ -307,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325898,
+      "num": 203334,
+      "word": "特朗普",
+      "onboard_time": 1761712702,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 316972,
       "num": 163489,
       "word": "3unshine组合十年变化太大了",
@@ -361,14 +401,6 @@
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274274,
-      "num": 258562,
-      "word": "三峡大学留学生",
-      "onboard_time": 1761712941,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258133,
@@ -451,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204562,
+      "num": 204562,
+      "word": "中国花滑选手因玩偶遭国际滑联调查",
+      "onboard_time": 1761713122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -467,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196786,
-      "num": 211179,
-      "word": "万剑穿心名场面",
-      "onboard_time": 1761712822,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196208,
       "num": 196208,
       "word": "在韩国很流行的骨盆整形",
@@ -483,12 +515,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194367,
-      "num": 194367,
-      "word": "特朗普",
-      "onboard_time": 1761712702,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 193578,
+      "num": 193578,
+      "word": "李维嘉杜海涛临时救场offer",
+      "onboard_time": 1761714741,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 193114,
@@ -523,12 +555,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188034,
+      "raw_hot": 188949,
       "num": 259080,
       "word": "令人心动的offer",
       "onboard_time": 1761711741,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187574,
+      "num": 187574,
+      "word": "Chovy切屏看补刀",
+      "onboard_time": 1761715220,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 184943,
@@ -563,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180992,
+      "num": 180992,
+      "word": "泽连斯基声称无力施压中国望美出手",
+      "onboard_time": 1761715162,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174401,
       "num": 174401,
       "word": "女生遭同学殴打13次确诊精神分裂",
       "onboard_time": 1761707480,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173017,
+      "num": 173017,
+      "word": "琴女",
+      "onboard_time": 1761713661,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 168416,
@@ -651,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152689,
+      "num": 174262,
+      "word": "迪丽热巴粉丝帮助寻亲梁志辉",
+      "onboard_time": 1761714381,
+      "rank": 28,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 151681,
       "num": 151681,
       "word": "恋与深空直到心跳沸腾",
@@ -697,6 +761,14 @@
       "onboard_time": 1761707420,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141923,
+      "num": 141923,
+      "word": "柳承敏涉嫌受贿2亿韩元",
+      "onboard_time": 1761713301,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 140476,
@@ -883,12 +955,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125878,
-      "num": 128746,
-      "word": "中国花滑选手因玩偶遭国际滑联调查",
-      "onboard_time": 1761713122,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 122758,
+      "num": 141691,
+      "word": "花少8 浪姐组团",
+      "onboard_time": 1761714202,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122021,
+      "num": 173474,
+      "word": "未来五年大量的钱将流向这里",
+      "onboard_time": 1761713961,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 121554,
@@ -929,6 +1009,14 @@
       "onboard_time": 1761699979,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118564,
+      "num": 118564,
+      "word": "庞铮offer7没播的新闻在复旦首播了",
+      "onboard_time": 1761714561,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 117369,
@@ -1003,11 +1091,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112196,
+      "num": 112196,
+      "word": "暗河传",
+      "onboard_time": 1761668839,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111964,
+      "num": 111964,
+      "word": "打工人真正需要的领导出现了",
+      "onboard_time": 1761714981,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111090,
       "num": 116926,
       "word": "恋与深空能不能登顶",
       "onboard_time": 1761709941,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111032,
+      "num": 111032,
+      "word": "剑网3新品实机展示",
+      "onboard_time": 1761715580,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1299,6 +1411,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 66390,
+      "num": 140838,
+      "word": "王鹤棣被嬢嬢们围着拍合照",
+      "onboard_time": 1761714561,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63085,
       "num": 63085,
       "word": "水龙吟",
@@ -1321,14 +1441,6 @@
       "onboard_time": 1761668598,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 62337,
-      "num": 62337,
-      "word": "暗河传",
-      "onboard_time": 1761668839,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 62234,
@@ -1427,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54216,
+      "num": 141272,
+      "word": "张婧仪 怎么都是熟人",
+      "onboard_time": 1761715281,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 53485,
       "num": 117378,
       "word": "王楚钦复古感",
@@ -1489,6 +1609,22 @@
       "onboard_time": 1761667939,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38034,
+      "num": 178944,
+      "word": "山东入室抢婴案二审宣判",
+      "onboard_time": 1761714021,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34354,
+      "num": 140603,
+      "word": "缅甸军方连续多日爆破KK园区",
+      "onboard_time": 1761715399,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34054,
@@ -1555,12 +1691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22479,
+      "num": 179007,
+      "word": "体育生色弱被退学当地已介入调查",
+      "onboard_time": 1761715399,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21895,
       "num": 28894,
       "word": "王一博探索新境第2季预告",
       "onboard_time": 1761688034,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21081,
+      "num": 141358,
+      "word": "小天才社交催生未成年刷赞生意",
+      "onboard_time": 1761715462,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18749,

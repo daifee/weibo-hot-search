@@ -1,0 +1,410 @@
+{
+  "runTime": 1761715647025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289071,
+        "num": 1289071,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549370,
+        "num": 549370,
+        "word": "刘文祥 吃出整块抹布",
+        "onboard_time": 1761710601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22497,
+        "num": 364768,
+        "word": "重阳久久安康",
+        "onboard_time": 1761669077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623689,
+        "num": 332579,
+        "word": "李维嘉回应回湖南卫视",
+        "onboard_time": 1761711922,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295674,
+        "num": 295674,
+        "word": "宝宝巴士致歉",
+        "onboard_time": 1761696680,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1240236,
+        "num": 277331,
+        "word": "BLG 商K",
+        "onboard_time": 1761711682,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370337,
+        "num": 271276,
+        "word": "万剑穿心名场面",
+        "onboard_time": 1761712822,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249101,
+        "num": 249101,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354445,
+        "num": 247760,
+        "word": "BLG",
+        "onboard_time": 1761706939,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204562,
+        "num": 204562,
+        "word": "中国花滑选手因玩偶遭国际滑联调查",
+        "onboard_time": 1761713122,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2380432,
+        "num": 204448,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771562,
+        "num": 204246,
+        "word": "三峡大学留学生",
+        "onboard_time": 1761712941,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480548,
+        "num": 203752,
+        "word": "建议千万不要水洗鸡蛋",
+        "onboard_time": 1761708560,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 414428,
+        "num": 203620,
+        "word": "短国李栋旭出现了",
+        "onboard_time": 1761713301,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325898,
+        "num": 203334,
+        "word": "特朗普",
+        "onboard_time": 1761712702,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203166,
+        "num": 203166,
+        "word": "宝宝巴士 低俗广告",
+        "onboard_time": 1761666740,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257974,
+        "num": 201694,
+        "word": "花少8要去南极",
+        "onboard_time": 1761703939,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246695,
+        "num": 199152,
+        "word": "36岁男子反复口腔溃疡20年以为上火",
+        "onboard_time": 1761708080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193578,
+        "num": 193578,
+        "word": "李维嘉杜海涛临时救场offer",
+        "onboard_time": 1761714741,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188949,
+        "num": 188949,
+        "word": "令人心动的offer",
+        "onboard_time": 1761711741,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229819,
+        "num": 188488,
+        "word": "女子想为亡夫再生一个孩子遭拒",
+        "onboard_time": 1761677773,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193765,
+        "num": 188284,
+        "word": "花少8打破奇数偶数魔咒",
+        "onboard_time": 1761711202,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187574,
+        "num": 187574,
+        "word": "Chovy切屏看补刀",
+        "onboard_time": 1761715220,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181232,
+        "num": 181232,
+        "word": "国台办称决不承诺放弃使用武力",
+        "onboard_time": 1761709041,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180992,
+        "num": 180992,
+        "word": "泽连斯基声称无力施压中国望美出手",
+        "onboard_time": 1761715162,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22479,
+        "num": 179007,
+        "word": "体育生色弱被退学当地已介入调查",
+        "onboard_time": 1761715399,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38034,
+        "num": 178944,
+        "word": "山东入室抢婴案二审宣判",
+        "onboard_time": 1761714021,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178941,
+        "num": 178941,
+        "word": "惠英红 从要饭第一到亚洲第一",
+        "onboard_time": 1761710121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 174262,
+        "word": "迪丽热巴粉丝帮助寻亲梁志辉",
+        "onboard_time": 1761714381,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 122021,
+        "num": 173474,
+        "word": "未来五年大量的钱将流向这里",
+        "onboard_time": 1761713961,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173017,
+        "num": 173017,
+        "word": "琴女",
+        "onboard_time": 1761713661,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159792,
+        "num": 159792,
+        "word": "韩国又一性犯罪网站曝光",
+        "onboard_time": 1761702380,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153126,
+        "num": 153126,
+        "word": "在韩国很流行的骨盆整形",
+        "onboard_time": 1761710001,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145583,
+        "num": 145583,
+        "word": "黄金大跌是倒车接人还是顶部崩塌",
+        "onboard_time": 1761711442,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141923,
+        "num": 141923,
+        "word": "柳承敏涉嫌受贿2亿韩元",
+        "onboard_time": 1761713301,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122758,
+        "num": 141691,
+        "word": "花少8 浪姐组团",
+        "onboard_time": 1761714202,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21081,
+        "num": 141358,
+        "word": "小天才社交催生未成年刷赞生意",
+        "onboard_time": 1761715462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54216,
+        "num": 141272,
+        "word": "张婧仪 怎么都是熟人",
+        "onboard_time": 1761715281,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66390,
+        "num": 140838,
+        "word": "王鹤棣被嬢嬢们围着拍合照",
+        "onboard_time": 1761714561,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34354,
+        "num": 140603,
+        "word": "缅甸军方连续多日爆破KK园区",
+        "onboard_time": 1761715399,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140393,
+        "num": 140393,
+        "word": "被蛇咬后失联网红称手已变形",
+        "onboard_time": 1761710541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136707,
+        "num": 136707,
+        "word": "浙江一教师轻生疑似因请病假未批",
+        "onboard_time": 1761710961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "高考体检正常大学查出色弱遭退学",
+        "onboard_time": 1761696982,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125770,
+        "num": 125770,
+        "word": "四川精子库可选星座属相脸型",
+        "onboard_time": 1761708800,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 118564,
+        "num": 118564,
+        "word": "庞铮offer7没播的新闻在复旦首播了",
+        "onboard_time": 1761714561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118036,
+        "num": 118036,
+        "word": "迪丽热巴 双城",
+        "onboard_time": 1761707900,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116000,
+        "num": 116000,
+        "word": "何赛飞 双洁党",
+        "onboard_time": 1761713061,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 112196,
+        "word": "暗河传",
+        "onboard_time": 1761714620,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111964,
+        "num": 111964,
+        "word": "打工人真正需要的领导出现了",
+        "onboard_time": 1761714981,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111032,
+        "num": 111032,
+        "word": "剑网3新品实机展示",
+        "onboard_time": 1761715580,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关于十五五规划的重要论断#"
+    }
+  }
+}
