@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761720794931,
+  "endTime": 1761722781348,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 925005,
+      "num": 178233,
+      "word": "日本熊灾",
+      "onboard_time": 1761720500,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 888962,
       "num": 888962,
       "word": "台湾",
@@ -89,6 +97,14 @@
       "onboard_time": 1761703939,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759282,
+      "num": 284289,
+      "word": "疑似携带病毒的猴子在美国逃脱",
+      "onboard_time": 1761719720,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 726181,
@@ -225,6 +241,14 @@
       "onboard_time": 1761712702,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 446177,
+      "num": 446177,
+      "word": "高市早苗被特朗普介绍后高兴到转圈",
+      "onboard_time": 1761718880,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 444245,
@@ -435,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293491,
+      "num": 176185,
+      "word": "张馨予 真不把你们当外人",
+      "onboard_time": 1761720621,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290467,
       "num": 258399,
       "word": "花少8打破奇数偶数魔咒",
@@ -449,14 +481,6 @@
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276104,
-      "num": 276104,
-      "word": "疑似携带病毒的猴子在美国逃脱",
-      "onboard_time": 1761719720,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 259254,
@@ -507,12 +531,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242374,
+      "num": 242374,
+      "word": "警方回应留学生深夜擅闯女寝",
+      "onboard_time": 1761719961,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233009,
+      "num": 190650,
+      "word": "短剧圈也有真夫妻了",
+      "onboard_time": 1761715821,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232345,
       "num": 232345,
       "word": "ELLE晚宴",
       "onboard_time": 1761655401,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 224407,
+      "num": 173550,
+      "word": "李沁说张晚意上那种班",
+      "onboard_time": 1761721340,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 213630,
@@ -555,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207564,
-      "num": 190650,
-      "word": "短剧圈也有真夫妻了",
-      "onboard_time": 1761715821,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -585,6 +625,14 @@
       "onboard_time": 1761710001,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194843,
+      "num": 194843,
+      "word": "鹿晗我们的明天上新版本了",
+      "onboard_time": 1761721942,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 193114,
@@ -667,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175862,
-      "num": 175862,
-      "word": "警方回应留学生深夜擅闯女寝",
-      "onboard_time": 1761719961,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174401,
       "num": 174401,
       "word": "女生遭同学殴打13次确诊精神分裂",
@@ -691,12 +731,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169977,
-      "num": 169977,
-      "word": "高市早苗被特朗普介绍后高兴到转圈",
-      "onboard_time": 1761718880,
+      "raw_hot": 172495,
+      "num": 172495,
+      "word": "23考研26考公",
+      "onboard_time": 1761721340,
       "rank": 22,
-      "category": "海外新闻"
+      "category": "教育"
+    },
+    {
+      "raw_hot": 168485,
+      "num": 168485,
+      "word": "林俊杰回复杨幂工作室",
+      "onboard_time": 1761722121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 168416,
@@ -835,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145575,
+      "num": 145575,
+      "word": "37张熟脸闯进一部年代剧",
+      "onboard_time": 1761722601,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145300,
       "num": 145300,
       "word": "和刘宇宁合唱的童星惨遭淘汰",
@@ -867,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141669,
+      "num": 141669,
+      "word": "澳洲女子徒步被团队忘在海岛上身亡",
+      "onboard_time": 1761720981,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140476,
       "num": 140476,
       "word": "关晓彤第二套好辣",
@@ -897,6 +961,14 @@
       "onboard_time": 1761710001,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139794,
+      "num": 139794,
+      "word": "30岁长期熬夜得了60岁的病",
+      "onboard_time": 1761720563,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 139566,
@@ -1043,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129246,
-      "num": 129246,
-      "word": "日本熊灾",
-      "onboard_time": 1761720500,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128485,
       "num": 128485,
       "word": "徐冬冬尹子维吵架原因",
@@ -1195,14 +1259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113709,
-      "num": 113709,
-      "word": "30岁长期熬夜得了60岁的病",
-      "onboard_time": 1761720563,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113672,
       "num": 113672,
       "word": "杨幂没走红毯",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1761707240,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112890,
+      "num": 112890,
+      "word": "每天走10000步身体的变化",
+      "onboard_time": 1761722422,
+      "rank": 31,
+      "category": "健康医疗,休闲"
     },
     {
       "raw_hot": 112796,
@@ -1291,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111772,
+      "num": 111772,
+      "word": "现在的裤脚等于以前的裤腰",
+      "onboard_time": 1761719120,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111090,
       "num": 116926,
       "word": "恋与深空能不能登顶",
@@ -1323,19 +1395,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108948,
+      "num": 108948,
+      "word": "秦岚讨厌冷空气",
+      "onboard_time": 1761720860,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108938,
       "num": 108938,
       "word": "林一cos铁筒僵尸",
       "onboard_time": 1761704779,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108585,
-      "num": 108585,
-      "word": "张馨予 真不把你们当外人",
-      "onboard_time": 1761720621,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1419,12 +1491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101363,
+      "num": 101363,
+      "word": "毛不易下次有这种婚礼记得先开票",
+      "onboard_time": 1761720740,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101002,
       "num": 101002,
       "word": "美警方称逃跑实验猴有攻击性",
       "onboard_time": 1761703521,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100846,
+      "num": 100846,
+      "word": "潘玮柏吃面一筷子社死一辈子",
+      "onboard_time": 1761722302,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 100334,
@@ -1491,12 +1579,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 94138,
-      "num": 94138,
-      "word": "毛不易下次有这种婚礼记得先开票",
-      "onboard_time": 1761720740,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 95269,
+      "num": 95269,
+      "word": "A股再上4000点半日放量719亿",
+      "onboard_time": 1761722721,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 93834,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1761662063,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75034,
+      "num": 173837,
+      "word": "宝宝病逝34岁妈妈满头白发亲吻墓碑",
+      "onboard_time": 1761722362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74531,
@@ -1867,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53246,
+      "num": 138720,
+      "word": "娱乐圈不老明星都在用AQ",
+      "onboard_time": 1761722181,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51504,
       "num": 217126,
       "word": "刘浩存深蓝L06品牌大使",
@@ -1881,6 +1985,14 @@
       "onboard_time": 1761682874,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50053,
+      "num": 101143,
+      "word": "小酒窝走在学校会被打招呼",
+      "onboard_time": 1761721761,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 49434,
@@ -1907,12 +2019,36 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 46913,
+      "num": 101284,
+      "word": "邻里误会爆发3分钟冲突致3死3重伤",
+      "onboard_time": 1761721701,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46703,
+      "num": 100853,
+      "word": "宝宝巴士不向苹果手机推送低俗广告",
+      "onboard_time": 1761721340,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42868,
       "num": 59696,
       "word": "全运会赛场浪漫求婚",
       "onboard_time": 1761667339,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41730,
+      "num": 138727,
+      "word": "脑控轮椅机器人",
+      "onboard_time": 1761721040,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 41554,
@@ -1947,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36155,
+      "num": 174229,
+      "word": "今天是百年一遇的晚重阳",
+      "onboard_time": 1761721701,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36112,
       "num": 173651,
       "word": "胡兵冻龄的健康管理帮手AQ",
@@ -1976,6 +2120,14 @@
       "word": "小天才社交催生未成年刷赞生意",
       "onboard_time": 1761715462,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32588,
+      "num": 101255,
+      "word": "男子踩踏奶猫被阻后带三只活猫逃走",
+      "onboard_time": 1761722422,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2113,6 +2265,14 @@
       "onboard_time": 1761681734,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11399,
+      "num": 101037,
+      "word": "齐聚郑州共赴诗词之约",
+      "onboard_time": 1761721280,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9563,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 14:53:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 15:26:21
 </p>
 </blockquote>
 <p>
@@ -2703,6 +2703,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%23" target="weibo">
+日本熊灾（热度：925005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E7%88%86%E7%81%AB%E7%8E%B0%E5%9C%A8%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E5%96%9D%E7%9A%84%E5%A5%B6%E8%8C%B6%23" target="weibo">
 曾经爆火现在几乎没人喝的奶茶（热度：924717）
 </a>
@@ -4055,6 +4061,12 @@ W盛典 赢麻了（热度：765776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%AF%B7%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%B0%B1%E5%A5%BD%E5%A5%B9%E7%88%B9%E4%BC%9A%E8%B7%9F%E7%9D%80%E5%8E%BB%E7%9A%84%23" target="weibo">
 主办方请沈佳润就好她爹会跟着去的（热度：759795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%90%BA%E5%B8%A6%E7%97%85%E6%AF%92%E7%9A%84%E7%8C%B4%E5%AD%90%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%80%83%E8%84%B1%23" target="weibo">
+疑似携带病毒的猴子在美国逃脱（热度：759282）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E5%85%B3%E7%B3%BB%E7%86%9F%E4%BA%86%E4%BA%BA%E4%B9%9F%E7%86%9F%E4%BA%86%23" target="weibo">
 龚俊 关系熟了人也熟了（热度：598754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-第一批金价下跌受害者出现了（热度：598528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%81100%25%E7%9A%84%E5%85%B3%E7%A8%8E%23" target="weibo">
-美方不再考虑对华加征100%的关税（热度：598474）
 </a>
 </li>
 
