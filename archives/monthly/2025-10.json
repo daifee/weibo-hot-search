@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761703231526,
+  "endTime": 1761704587245,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -6201,6 +6201,14 @@
       "onboard_time": 1760832860,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 691842,
+      "num": 349878,
+      "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
+      "onboard_time": 1761701420,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 691581,
@@ -14467,6 +14475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383251,
+      "num": 383251,
+      "word": "韩国又一性犯罪网站曝光",
+      "onboard_time": 1761702380,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 382998,
       "num": 174862,
       "word": "冯建宇直播",
@@ -19953,14 +19969,6 @@
       "onboard_time": 1760952081,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279783,
-      "num": 279783,
-      "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
-      "onboard_time": 1761701420,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279710,
@@ -26091,6 +26099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206138,
+      "num": 206138,
+      "word": "花少8要去南极",
+      "onboard_time": 1761703939,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206119,
       "num": 206119,
       "word": "TTG战胜TES",
@@ -30395,6 +30411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186316,
+      "num": 186316,
+      "word": "这4类人吃柚子要慎重",
+      "onboard_time": 1761703640,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186147,
       "num": 178479,
       "word": "水龙吟第一案婚礼变葬礼",
@@ -31241,14 +31265,6 @@
       "onboard_time": 1761556580,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182561,
-      "num": 182561,
-      "word": "韩国又一性犯罪网站曝光",
-      "onboard_time": 1761702380,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 182487,
@@ -36169,6 +36185,14 @@
       "onboard_time": 1760599460,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162699,
+      "num": 162699,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162644,
@@ -43571,14 +43595,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139529,
-      "num": 139529,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139501,
       "num": 110382,
       "word": "马龙说不做体育就做旅游博主",
@@ -46473,6 +46489,14 @@
       "onboard_time": 1761219021,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132906,
+      "num": 132906,
+      "word": "特朗普在未领薪的美军面前跳舞",
+      "onboard_time": 1761702679,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132902,
@@ -52353,6 +52377,14 @@
       "onboard_time": 1760268680,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121197,
+      "num": 121197,
+      "word": "办个eSIM怎么这么难",
+      "onboard_time": 1761703521,
+      "rank": 32,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 121192,
@@ -60601,14 +60633,6 @@
       "onboard_time": 1761115160,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107749,
-      "num": 107749,
-      "word": "特朗普在未领薪的美军面前跳舞",
-      "onboard_time": 1761702679,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107733,
@@ -70051,6 +70075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93296,
+      "num": 93296,
+      "word": "美警方称逃跑实验猴有攻击性",
+      "onboard_time": 1761703521,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93293,
       "num": 93293,
       "word": "苏新皓跳Richman",
@@ -71835,6 +71867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90367,
+      "num": 90367,
+      "word": "菲律宾政府在脸书发文称遭到围攻",
+      "onboard_time": 1761704540,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90331,
       "num": 90331,
       "word": "人和人的关系真的是一期一会",
@@ -72660,7 +72700,7 @@
     },
     {
       "raw_hot": 88984,
-      "num": 140147,
+      "num": 146538,
       "word": "国色芳华",
       "onboard_time": 1761693438,
       "rank": 28,

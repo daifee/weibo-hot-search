@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761703231526,
+  "endTime": 1761704587245,
   "band_list": [
     {
       "raw_hot": 1148659,
@@ -41,6 +41,14 @@
       "onboard_time": 1761698602,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 691842,
+      "num": 349878,
+      "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
+      "onboard_time": 1761701420,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686128,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383251,
+      "num": 383251,
+      "word": "韩国又一性犯罪网站曝光",
+      "onboard_time": 1761702380,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 382974,
       "num": 362556,
       "word": "刘亦菲李宇春红毯C位",
@@ -139,8 +155,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 373203,
-      "num": 373203,
+      "raw_hot": 375483,
+      "num": 375483,
       "word": "很多台湾年轻人不知抗日史",
       "onboard_time": 1761662242,
       "rank": 6,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279783,
-      "num": 279783,
-      "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
-      "onboard_time": 1761701420,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243670,
       "num": 185562,
       "word": "杨紫我终于下山了",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206138,
+      "num": 206138,
+      "word": "花少8要去南极",
+      "onboard_time": 1761703939,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186316,
+      "num": 186316,
+      "word": "这4类人吃柚子要慎重",
+      "onboard_time": 1761703640,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184943,
       "num": 184943,
       "word": "W盛典 赢麻了",
@@ -291,19 +315,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182561,
-      "num": 182561,
-      "word": "韩国又一性犯罪网站曝光",
-      "onboard_time": 1761702380,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 168416,
       "num": 168416,
       "word": "独居女子遭陌生男多次试开家门密码",
       "onboard_time": 1761698841,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162699,
+      "num": 162699,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -371,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139529,
-      "num": 139529,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135891,
       "num": 135891,
       "word": "巴西警方击毙至少56人",
       "onboard_time": 1761699201,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132906,
+      "num": 132906,
+      "word": "特朗普在未领薪的美军面前跳舞",
+      "onboard_time": 1761702679,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132276,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121197,
+      "num": 121197,
+      "word": "办个eSIM怎么这么难",
+      "onboard_time": 1761703521,
+      "rank": 32,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 120467,
       "num": 120467,
       "word": "恋与深空开门",
@@ -505,14 +537,6 @@
       "onboard_time": 1761671356,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 107749,
-      "num": 107749,
-      "word": "特朗普在未领薪的美军面前跳舞",
-      "onboard_time": 1761702679,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104897,
@@ -579,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93296,
+      "num": 93296,
+      "word": "美警方称逃跑实验猴有攻击性",
+      "onboard_time": 1761703521,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93016,
       "num": 93016,
       "word": "今天这9个提醒转给长辈们",
@@ -593,6 +625,14 @@
       "onboard_time": 1761656362,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 90367,
+      "num": 90367,
+      "word": "菲律宾政府在脸书发文称遭到围攻",
+      "onboard_time": 1761704540,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89979,
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 88984,
-      "num": 140147,
+      "num": 146538,
       "word": "国色芳华",
       "onboard_time": 1761693438,
       "rank": 28,

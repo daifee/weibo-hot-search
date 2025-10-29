@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/29 10:00:31
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/29 10:23:07
 </p>
 </blockquote>
 <p>
@@ -617,6 +617,12 @@ W盛典 赢麻了（热度：765776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3%E9%98%B5%E5%AE%B9%23" target="weibo">
 疯狂动物城2中文配音阵容（热度：697119）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%81%AD%E9%81%87%E9%BB%91%E5%A4%A9%E9%B9%85%E6%8A%A2%E6%96%B0%E5%A8%98%23" target="weibo">
+新人拍婚纱照遭遇黑天鹅抢新娘（热度：691842）
 </a>
 </li>
 
@@ -1419,6 +1425,12 @@ Peanut在休息室流泪（热度：510087）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%88%E4%B8%80%E6%80%A7%E7%8A%AF%E7%BD%AA%E7%BD%91%E7%AB%99%E6%9B%9D%E5%85%89%23" target="weibo">
+韩国又一性犯罪网站曝光（热度：383251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%8E%E5%AE%87%E6%98%A5%E7%BA%A2%E6%AF%AFC%E4%BD%8D%23" target="weibo">
 刘亦菲李宇春红毯C位（热度：382974）
 </a>
@@ -1889,12 +1901,6 @@ KK园区所在村镇出租车费已翻倍（热度：282021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AA%AC%E5%9B%9E%E5%BA%94%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E6%89%93%E7%96%AB%E8%8B%97%23" target="weibo">
 张檬回应带儿子去香港打疫苗（热度：279890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E9%81%AD%E9%81%87%E9%BB%91%E5%A4%A9%E9%B9%85%E6%8A%A2%E6%96%B0%E5%A8%98%23" target="weibo">
-新人拍婚纱照遭遇黑天鹅抢新娘（热度：279783）
 </a>
 </li>
 
@@ -2535,6 +2541,12 @@ GEN对战HLE（热度：213688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E8%A6%81%E5%8E%BB%E5%8D%97%E6%9E%81%23" target="weibo">
+花少8要去南极（热度：206138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E4%B8%80%E5%A4%84%E6%B2%99%E6%BB%A9%E7%8E%B0%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B0%B8%E4%BD%93%23" target="weibo">
 广东湛江一处沙滩现中华白海豚尸体（热度：205934）
 </a>
@@ -2967,6 +2979,12 @@ A股（热度：196446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%994%E7%B1%BB%E4%BA%BA%E5%90%83%E6%9F%9A%E5%AD%90%E8%A6%81%E6%85%8E%E9%87%8D%23" target="weibo">
+这4类人吃柚子要慎重（热度：186316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23" target="weibo">
 我家那闺女（热度：186173）
 </a>
@@ -3065,12 +3083,6 @@ TVB今年去世的艺人（热度：184256）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%82%AA%E7%A7%81%E5%AE%B6%E7%AC%94%E8%AE%B02%20%E4%BB%98%E8%88%AA%23" target="weibo">
 吴邪私家笔记2 付航（热度：182572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%88%E4%B8%80%E6%80%A7%E7%8A%AF%E7%BD%AA%E7%BD%91%E7%AB%99%E6%9B%9D%E5%85%89%23" target="weibo">
-韩国又一性犯罪网站曝光（热度：182561）
 </a>
 </li>
 
@@ -3551,6 +3563,12 @@ Doinb力挺Bin（热度：167167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE13%E7%A7%924%E6%AE%B5%E7%9C%BC%E7%A5%9E%E6%88%8F%E5%85%A8%E6%98%AF%E9%92%A9%E5%AD%90%23" target="weibo">
 辛芷蕾13秒4段眼神戏全是钩子（热度：162997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94APP%E8%B7%B3%E8%BD%AC%E6%88%90%E4%BA%BA%E5%B9%BF%E5%91%8A%23" target="weibo">
+宝宝巴士客服回应APP跳转成人广告（热度：162699）
 </a>
 </li>
 
@@ -4377,12 +4395,6 @@ Faker瑞士轮火力全开（热度：142221）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94APP%E8%B7%B3%E8%BD%AC%E6%88%90%E4%BA%BA%E5%B9%BF%E5%91%8A%23" target="weibo">
-宝宝巴士客服回应APP跳转成人广告（热度：139529）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%892%E6%AF%944%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B%23" target="weibo">
 北京国安2比4青岛海牛（热度：139373）
 </a>
@@ -4715,6 +4727,12 @@ TFING出发时刻（热度：133906）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E5%B7%9E%E4%B8%80%E8%B7%AF%E8%BE%B9%E5%B0%8F%E8%B4%A7%E8%BD%A6%E8%A2%AB%E6%8C%87%E8%A3%85%E8%BF%87%E4%BA%BF%E7%8E%B0%E9%87%91%23" target="weibo">
 惠州一路边小货车被指装过亿现金（热度：132936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%9C%AA%E9%A2%86%E8%96%AA%E7%9A%84%E7%BE%8E%E5%86%9B%E9%9D%A2%E5%89%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
+特朗普在未领薪的美军面前跳舞（热度：132906）
 </a>
 </li>
 
@@ -5325,6 +5343,12 @@ peanut告别世界赛（热度：123787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%9E%E4%B8%AAeSIM%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE%23" target="weibo">
+办个eSIM怎么这么难（热度：121197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%BC%8A%E4%BC%A6%E9%B9%A4%E7%94%B7%E5%8F%8C%E4%BA%BA%E5%86%99%E7%9C%9F%23" target="weibo">
 全伊伦鹤男双人写真（热度：121179）
 </a>
@@ -5927,12 +5951,6 @@ Ning谈LPL和LCK教练差距（热度：108755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E6%92%AD%E6%94%BE%E9%87%8F%23" target="weibo">
 天地剑心播放量（热度：107873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%9C%AA%E9%A2%86%E8%96%AA%E7%9A%84%E7%BE%8E%E5%86%9B%E9%9D%A2%E5%89%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
-特朗普在未领薪的美军面前跳舞（热度：107749）
 </a>
 </li>
 
@@ -6603,6 +6621,12 @@ iPhone锁屏滑动相机能关闭了（热度：93376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%80%83%E8%B7%91%E5%AE%9E%E9%AA%8C%E7%8C%B4%E6%9C%89%E6%94%BB%E5%87%BB%E6%80%A7%23" target="weibo">
+美警方称逃跑实验猴有攻击性（热度：93296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%BF%999%E4%B8%AA%E6%8F%90%E9%86%92%E8%BD%AC%E7%BB%99%E9%95%BF%E8%BE%88%E4%BB%AC%23" target="weibo">
 今天这9个提醒转给长辈们（热度：93016）
 </a>
@@ -6713,6 +6737,12 @@ AL打T1（热度：91233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%91%E7%88%B6%E6%AF%8D%E7%B4%A2%E8%A6%8118%E4%B8%87%E5%BD%A9%E7%A4%BC%E9%81%AD%E6%8B%92%23" target="weibo">
 女子向父母索要18万彩礼遭拒（热度：90420）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%94%BF%E5%BA%9C%E5%9C%A8%E8%84%B8%E4%B9%A6%E5%8F%91%E6%96%87%E7%A7%B0%E9%81%AD%E5%88%B0%E5%9B%B4%E6%94%BB%23" target="weibo">
+菲律宾政府在脸书发文称遭到围攻（热度：90367）
 </a>
 </li>
 

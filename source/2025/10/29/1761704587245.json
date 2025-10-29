@@ -1,0 +1,410 @@
+{
+  "runTime": 1761704587245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 915752,
+        "num": 1146520,
+        "word": "高考体检正常大学查出色弱遭退学",
+        "onboard_time": 1761696982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665217,
+        "num": 665217,
+        "word": "台湾",
+        "onboard_time": 1761699140,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6015,
+        "num": 517743,
+        "word": "网络安全法完成修改",
+        "onboard_time": 1761637701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411200,
+        "num": 411200,
+        "word": "喀什大学编制到人无非升即走引关注",
+        "onboard_time": 1761697161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392183,
+        "num": 392183,
+        "word": "宝宝巴士 低俗广告",
+        "onboard_time": 1761666740,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684590,
+        "num": 389239,
+        "word": "女子想为亡夫再生一个孩子遭拒",
+        "onboard_time": 1761677773,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622853,
+        "num": 388898,
+        "word": "特朗普称轰炸广岛长崎只是小冲突",
+        "onboard_time": 1761698602,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383251,
+        "num": 383251,
+        "word": "韩国又一性犯罪网站曝光",
+        "onboard_time": 1761702380,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375483,
+        "num": 375483,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354387,
+        "num": 354387,
+        "word": "宝宝巴士致歉",
+        "onboard_time": 1761696680,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 691842,
+        "num": 349878,
+        "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
+        "onboard_time": 1761701420,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333361,
+        "num": 333361,
+        "word": "刘亦菲李宇春红毯C位",
+        "onboard_time": 1761695900,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307762,
+        "num": 307762,
+        "word": "重阳节",
+        "onboard_time": 1761692716,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285108,
+        "num": 285108,
+        "word": "杨幂黄明昊手挽着手下班",
+        "onboard_time": 1761697640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227755,
+        "num": 227755,
+        "word": "青岛烤肠大叔要2年内还清4600万",
+        "onboard_time": 1761696921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225825,
+        "num": 225825,
+        "word": "白鹿开车了",
+        "onboard_time": 1761692776,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212200,
+        "num": 212200,
+        "word": "被蛇咬后失联的网红已找到",
+        "onboard_time": 1761692716,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206138,
+        "num": 206138,
+        "word": "花少8要去南极",
+        "onboard_time": 1761703939,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203722,
+        "num": 203722,
+        "word": "大批轰6K贴近台湾岛",
+        "onboard_time": 1761663442,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156626,
+        "num": 202737,
+        "word": "生命树是正午阳光战损率最高的戏",
+        "onboard_time": 1761696020,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492070,
+        "num": 202736,
+        "word": "马思纯李沁这是睡一起了吗",
+        "onboard_time": 1761694879,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202391,
+        "num": 202391,
+        "word": "赵樱子自曝前男友片酬2000万",
+        "onboard_time": 1761692839,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186316,
+        "num": 186316,
+        "word": "这4类人吃柚子要慎重",
+        "onboard_time": 1761703640,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169956,
+        "num": 169956,
+        "word": "杨紫我终于下山了",
+        "onboard_time": 1761693018,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139108,
+        "num": 165189,
+        "word": "许绍雄73岁只身一人录节目",
+        "onboard_time": 1761678314,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162699,
+        "num": 162699,
+        "word": "宝宝巴士客服回应APP跳转成人广告",
+        "onboard_time": 1761669139,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158839,
+        "num": 158839,
+        "word": "王耀庆工作室回应",
+        "onboard_time": 1761694699,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157907,
+        "num": 157907,
+        "word": "以色列总理下令强力打击加沙",
+        "onboard_time": 1761694340,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149721,
+        "num": 149721,
+        "word": "独居女子遭陌生男多次试开家门密码",
+        "onboard_time": 1761698841,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71486,
+        "num": 146538,
+        "word": "国色芳华",
+        "onboard_time": 1761693438,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145451,
+        "num": 145451,
+        "word": "南北方一起升温",
+        "onboard_time": 1761700880,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132906,
+        "num": 132906,
+        "word": "特朗普在未领薪的美军面前跳舞",
+        "onboard_time": 1761702679,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121197,
+        "num": 121197,
+        "word": "办个eSIM怎么这么难",
+        "onboard_time": 1761703521,
+        "rank": 32,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 120792,
+        "num": 120792,
+        "word": "Asen dissback",
+        "onboard_time": 1761695299,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115215,
+        "num": 115215,
+        "word": "金价暴跌有投资者打算割肉离场",
+        "onboard_time": 1761692776,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113009,
+        "num": 113009,
+        "word": "重要账号建议密码长度不少于12位",
+        "onboard_time": 1761702140,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111858,
+        "num": 111858,
+        "word": "金饰价格下跌近百元",
+        "onboard_time": 1761696801,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105782,
+        "num": 105782,
+        "word": "巴西警方击毙至少56人",
+        "onboard_time": 1761699201,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101217,
+        "num": 101217,
+        "word": "男子住酒店自带床单被罩全隔离",
+        "onboard_time": 1761665721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "恋与深空开门",
+        "onboard_time": 1761699979,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 96870,
+        "word": "邢菲拖着一尾钻石裙",
+        "onboard_time": 1761699261,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93296,
+        "num": 93296,
+        "word": "美警方称逃跑实验猴有攻击性",
+        "onboard_time": 1761703521,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90367,
+        "num": 90367,
+        "word": "菲律宾政府在脸书发文称遭到围攻",
+        "onboard_time": 1761704540,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88555,
+        "num": 88555,
+        "word": "每天练背8分钟是回报率最高的运动",
+        "onboard_time": 1761663201,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88372,
+        "num": 88372,
+        "word": "吃柚子的第一批受害者出现了",
+        "onboard_time": 1761650962,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86500,
+        "num": 86500,
+        "word": "美队当爸爸",
+        "onboard_time": 1761696680,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82496,
+        "num": 82496,
+        "word": "特朗普吐槽美航母电磁弹射",
+        "onboard_time": 1761702679,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80636,
+        "num": 80636,
+        "word": "重阳久久安康",
+        "onboard_time": 1761669077,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79562,
+        "num": 79562,
+        "word": "恋与深空",
+        "onboard_time": 1761693739,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63116,
+        "num": 77068,
+        "word": "Asen发歌",
+        "onboard_time": 1761693378,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五规划建议发布#"
+    }
+  }
+}
