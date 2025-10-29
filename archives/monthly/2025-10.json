@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761748105746,
+  "endTime": 1761749161082,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1715,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1241201,
+      "num": 249948,
+      "word": "on",
+      "onboard_time": 1761746363,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1240236,
       "num": 1123455,
       "word": "BLG 商K",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1759323321,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1108672,
-      "num": 249948,
-      "word": "on",
-      "onboard_time": 1761746363,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 1108538,
@@ -5939,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715522,
+      "num": 848277,
+      "word": "Bin",
+      "onboard_time": 1761408681,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 715109,
       "num": 190328,
       "word": "陈赫一家四口瑞士度假",
@@ -6779,14 +6787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 667714,
-      "num": 848277,
-      "word": "Bin",
-      "onboard_time": 1761408681,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 666817,
       "num": 457645,
       "word": "普京口误",
@@ -7553,6 +7553,14 @@
       "onboard_time": 1760768426,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 622465,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1760722517,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 622179,
@@ -9771,14 +9779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530650,
-      "num": 1046361,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1760722517,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 530520,
       "num": 530520,
       "word": "李木戈带着景甜张彬彬又杀回内娱",
@@ -10177,6 +10177,14 @@
       "onboard_time": 1759492340,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516710,
+      "num": 516710,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 516650,
@@ -11948,7 +11956,7 @@
     },
     {
       "raw_hot": 460076,
-      "num": 169628,
+      "num": 180073,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 33,
@@ -15841,14 +15849,6 @@
       "onboard_time": 1761391641,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 361502,
-      "num": 361502,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 361160,
@@ -21851,6 +21851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 259674,
+      "num": 185604,
+      "word": "李一桐送房求李荣浩给自己写歌",
+      "onboard_time": 1761748823,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259573,
       "num": 259573,
       "word": "美国19岁女生车祸丧生家属追责特斯拉",
@@ -23936,6 +23944,14 @@
       "word": "男子买马一觉醒来1匹变2匹",
       "onboard_time": 1761403642,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234454,
+      "num": 184157,
+      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+      "onboard_time": 1761747982,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -26588,7 +26604,7 @@
     },
     {
       "raw_hot": 207691,
-      "num": 129014,
+      "num": 180134,
       "word": "Knight 大黄直播间",
       "onboard_time": 1761746904,
       "rank": 31,
@@ -26665,6 +26681,14 @@
       "onboard_time": 1760459120,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207338,
+      "num": 250219,
+      "word": "特朗普叫停所有美航母电磁弹射",
+      "onboard_time": 1761747262,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207330,
@@ -26993,6 +27017,14 @@
       "onboard_time": 1761441019,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 204914,
+      "num": 204914,
+      "word": "张杰带着天下杀回来了",
+      "onboard_time": 1761748522,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 204897,
@@ -32619,6 +32651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179856,
+      "num": 179856,
+      "word": "李庚希微醺赛道又多了一人",
+      "onboard_time": 1761747862,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179808,
       "num": 179808,
       "word": "张柏芝戴了泉州非遗簪花",
@@ -33033,14 +33073,6 @@
       "onboard_time": 1759757182,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177861,
-      "num": 250219,
-      "word": "特朗普叫停所有美航母电磁弹射",
-      "onboard_time": 1761747262,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177810,
@@ -34099,6 +34131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173503,
+      "num": 203824,
+      "word": "英伟达",
+      "onboard_time": 1761748703,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173502,
       "num": 157216,
       "word": "王楚钦这回自拍只能自己掌镜了",
@@ -34499,6 +34539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172191,
+      "num": 172191,
+      "word": "张雅钦对卢昱晓的偏爱藏不住了",
+      "onboard_time": 1761748464,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172182,
       "num": 109111,
       "word": "老君山再现阴阳分界线",
@@ -34553,14 +34601,6 @@
       "onboard_time": 1759583961,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 171976,
-      "num": 127688,
-      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
-      "onboard_time": 1761747982,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171967,
@@ -43539,6 +43579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143078,
+      "num": 143078,
+      "word": "成毅李一桐陪看哭了",
+      "onboard_time": 1761747802,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143035,
       "num": 143035,
       "word": "王橹杰台历",
@@ -48001,6 +48049,14 @@
       "onboard_time": 1760697683,
       "rank": 49,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 132586,
+      "num": 132586,
+      "word": "小时候是没有穿衣体面权的",
+      "onboard_time": 1761748342,
+      "rank": 40,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 132575,
@@ -52739,6 +52795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123259,
+      "num": 123259,
+      "word": "建议早餐要吃够4类食物",
+      "onboard_time": 1761748043,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123249,
       "num": 121399,
       "word": "谁家剧一集送走一个",
@@ -53544,14 +53608,6 @@
       "word": "李昀锐怎么又演了个小苦瓜",
       "onboard_time": 1760426482,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121807,
-      "num": 121807,
-      "word": "成毅李一桐陪看哭了",
-      "onboard_time": 1761747802,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -55033,6 +55089,14 @@
       "onboard_time": 1759809380,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118943,
+      "num": 118943,
+      "word": "高超 一辈子就只过了5分钟消停日子",
+      "onboard_time": 1761749003,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 118935,
@@ -57067,6 +57131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115545,
+      "num": 115545,
+      "word": "晚上躺床上有两件事特纠结",
+      "onboard_time": 1761748823,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "解清帅婚礼约100桌",
@@ -57889,6 +57961,14 @@
       "onboard_time": 1761036140,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114073,
+      "num": 114073,
+      "word": "这和自己亲生的有什么区别",
+      "onboard_time": 1761748103,
+      "rank": 45,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 114069,
@@ -59745,14 +59825,6 @@
       "onboard_time": 1760691322,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111372,
-      "num": 111372,
-      "word": "李庚希微醺赛道又多了一人",
-      "onboard_time": 1761747862,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 111351,
@@ -62515,6 +62587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107629,
+      "num": 107629,
+      "word": "第一个想到喜宝塑雷淞然的是天才",
+      "onboard_time": 1761748522,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107593,
       "num": 103591,
       "word": "马拉松精神的本质就是长期主义",
@@ -63875,6 +63955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105753,
+      "num": 203234,
+      "word": "日本网民怒批高市早苗谄媚",
+      "onboard_time": 1761747982,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105751,
       "num": 105751,
       "word": "白鹿丞磊莫离吻戏",
@@ -64836,7 +64924,7 @@
     },
     {
       "raw_hot": 104194,
-      "num": 133488,
+      "num": 152169,
       "word": "广州小蛮腰换上限定时装",
       "onboard_time": 1761746182,
       "rank": 28,
@@ -65529,6 +65617,14 @@
       "onboard_time": 1761216022,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 103267,
+      "num": 180841,
+      "word": "王艺迪为国乒破局",
+      "onboard_time": 1761748823,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 103256,
@@ -71913,14 +72009,6 @@
       "onboard_time": 1759571900,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 93613,
-      "num": 93613,
-      "word": "建议早餐要吃够4类食物",
-      "onboard_time": 1761748043,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93604,
@@ -84819,6 +84907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67096,
+      "num": 132682,
+      "word": "香港大学站伤人案",
+      "onboard_time": 1761749063,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67091,
       "num": 67091,
       "word": "联合孙颖莎微博公益榜第二",
@@ -85923,6 +86019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63485,
+      "num": 189098,
+      "word": "黄圣依葛夕都把AQ当健康顾问",
+      "onboard_time": 1761748103,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63468,
       "num": 246357,
       "word": "vivoX300系列发布会",
@@ -85985,14 +86089,6 @@
       "onboard_time": 1759464201,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63148,
-      "num": 123096,
-      "word": "日本网民怒批高市早苗谄媚",
-      "onboard_time": 1761747982,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63147,
@@ -87105,6 +87201,14 @@
       "onboard_time": 1759831521,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 59428,
+      "num": 132793,
+      "word": "金价狂飙情侣等两年婚事更慌了",
+      "onboard_time": 1761748643,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 59384,
