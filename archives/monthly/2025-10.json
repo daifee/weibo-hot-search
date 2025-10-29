@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761737006220,
+  "endTime": 1761737929973,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3625,6 +3625,14 @@
       "onboard_time": 1760267480,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 921105,
+      "num": 501337,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 920371,
@@ -10516,19 +10524,11 @@
     },
     {
       "raw_hot": 501397,
-      "num": 1065896,
+      "num": 1075822,
       "word": "天地剑心",
       "onboard_time": 1760163801,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 501337,
-      "num": 501337,
-      "word": "建议大家点外卖不要点预订单",
-      "onboard_time": 1761732201,
-      "rank": 30,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 500930,
@@ -11617,6 +11617,14 @@
       "onboard_time": 1760435361,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467992,
+      "num": 399482,
+      "word": "Angelababy亮相重阳节敬老活动",
+      "onboard_time": 1761733641,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 467976,
@@ -14179,14 +14187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 399482,
-      "num": 399482,
-      "word": "Angelababy亮相重阳节敬老活动",
-      "onboard_time": 1761733641,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 399473,
       "num": 399473,
       "word": "王者荣耀节目单",
@@ -15049,6 +15049,14 @@
       "onboard_time": 1761030802,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376404,
+      "num": 598044,
+      "word": "花少浪姐团 审美疲劳",
+      "onboard_time": 1761736221,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 376274,
@@ -21403,6 +21411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263921,
+      "num": 189169,
+      "word": "日本导演呼吁别让父母沦为下流老人",
+      "onboard_time": 1761736340,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 263599,
       "num": 1121511,
       "word": "杨戬三星堆新皮肤爆料",
@@ -23121,6 +23137,14 @@
       "onboard_time": 1761124639,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241693,
+      "num": 728303,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 241580,
@@ -25051,6 +25075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220340,
+      "num": 214371,
+      "word": "TF家族新年音乐会有53个人",
+      "onboard_time": 1761734121,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220225,
       "num": 198304,
       "word": "曝LPL俱乐部投入",
@@ -25395,6 +25427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216500,
+      "num": 216500,
+      "word": "985硕士女生多了",
+      "onboard_time": 1761736640,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 216422,
       "num": 216422,
       "word": "国乒男团扳平比分",
@@ -25593,14 +25633,6 @@
       "onboard_time": 1759645100,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214371,
-      "num": 214371,
-      "word": "TF家族新年音乐会有53个人",
-      "onboard_time": 1761734121,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 214328,
@@ -32227,14 +32259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180895,
-      "num": 728303,
-      "word": "王权富贵被万剑穿心",
-      "onboard_time": 1761735920,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180887,
       "num": 180887,
       "word": "孟羽童 离职就像情侣分手",
@@ -33304,14 +33328,6 @@
       "word": "将进酒",
       "onboard_time": 1759756102,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175785,
-      "num": 598044,
-      "word": "花少浪姐团 审美疲劳",
-      "onboard_time": 1761736221,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -35145,6 +35161,14 @@
       "onboard_time": 1760325142,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168589,
+      "num": 168589,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168558,
@@ -38537,6 +38561,14 @@
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157197,
+      "num": 157197,
+      "word": "雷淞然 好喜欢这对",
+      "onboard_time": 1761735561,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 157155,
@@ -45395,14 +45427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "雷淞然 好喜欢这对",
-      "onboard_time": 1761735561,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137354,
       "num": 137354,
       "word": "电影刺杀小说家2",
@@ -45489,6 +45513,14 @@
       "onboard_time": 1759817901,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137059,
+      "num": 137059,
+      "word": "LCK锁定S15决赛",
+      "onboard_time": 1761733221,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 137045,
@@ -47041,14 +47073,6 @@
       "onboard_time": 1761520639,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133837,
-      "num": 133837,
-      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
-      "onboard_time": 1761734241,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133798,
@@ -50313,14 +50337,6 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127114,
-      "num": 127114,
-      "word": "日本导演呼吁别让父母沦为下流老人",
-      "onboard_time": 1761736340,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 127104,
@@ -56107,6 +56123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116595,
+      "num": 196402,
+      "word": "小米冬测质疑",
+      "onboard_time": 1761735861,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116591,
       "num": 116591,
       "word": "第一次见把男主关鸟笼里的",
@@ -58073,6 +58097,14 @@
       "onboard_time": 1761185480,
       "rank": 26,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 113132,
+      "num": 113132,
+      "word": "韩国偶遇刘强东章泽天",
+      "onboard_time": 1761737480,
+      "rank": 33,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 113116,
@@ -60411,14 +60443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110005,
-      "num": 110005,
-      "word": "LCK锁定S15决赛",
-      "onboard_time": 1761733221,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109999,
       "num": 109999,
       "word": "iPhone秒变单反的设置",
@@ -62713,6 +62737,14 @@
       "onboard_time": 1759934061,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106898,
+      "num": 106898,
+      "word": "以为是湿疹其实是银屑病",
+      "onboard_time": 1761735020,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106883,
@@ -70811,6 +70843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94423,
+      "num": 94423,
+      "word": "暗河传第20集",
+      "onboard_time": 1761737302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94422,
       "num": 94422,
       "word": "正式被确诊为酱油人",
@@ -72299,6 +72339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92334,
+      "num": 169350,
+      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+      "onboard_time": 1761732082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92330,
       "num": 92330,
       "word": "给不会修眉的人一点震撼",
@@ -72841,14 +72889,6 @@
       "onboard_time": 1761039441,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91425,
-      "num": 173630,
-      "word": "小米冬测质疑",
-      "onboard_time": 1761735861,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 91420,
@@ -74939,6 +74979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88070,
+      "num": 173203,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88045,
       "num": 88045,
       "word": "周深福州",
@@ -75545,14 +75593,6 @@
       "onboard_time": 1760272159,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87148,
-      "num": 169350,
-      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
-      "onboard_time": 1761732082,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87123,
@@ -77731,6 +77771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83355,
+      "num": 83355,
+      "word": "当我用打王者的心眼子上班",
+      "onboard_time": 1761737781,
+      "rank": 46,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 83354,
       "num": 83354,
       "word": "刘浩存蓝色纱裙",
@@ -78065,14 +78113,6 @@
       "onboard_time": 1759766000,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82772,
-      "num": 173203,
-      "word": "外交部回应中国是否复购美国大豆",
-      "onboard_time": 1761733161,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82758,
@@ -78979,14 +79019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80964,
-      "num": 118191,
-      "word": "985硕士女生多了",
-      "onboard_time": 1761736640,
-      "rank": 36,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 80943,
       "num": 80943,
       "word": "一个IP带火一座城",
@@ -79803,6 +79835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79275,
+      "num": 79275,
+      "word": "王权富贵开大",
+      "onboard_time": 1761737841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79248,
       "num": 144710,
       "word": "四川屏山县公安局副局长李虎因公殉职",
@@ -79977,6 +80017,14 @@
       "onboard_time": 1761117441,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 78883,
+      "num": 78883,
+      "word": "富贵少爷都扎透了",
+      "onboard_time": 1761737421,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 78880,
@@ -88939,6 +88987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49693,
+      "num": 114982,
+      "word": "留学生不会有超国民待遇",
+      "onboard_time": 1761736461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49535,
       "num": 105372,
       "word": "2025已过300天了",
@@ -90107,6 +90163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44520,
+      "num": 89241,
+      "word": "首尔全城拉响防空警报",
+      "onboard_time": 1761737421,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44501,
       "num": 95137,
       "word": "考编年龄松绑能打破职场35岁门槛吗",
@@ -90921,14 +90985,6 @@
       "onboard_time": 1760105604,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41014,
-      "num": 114982,
-      "word": "留学生不会有超国民待遇",
-      "onboard_time": 1761736461,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41002,

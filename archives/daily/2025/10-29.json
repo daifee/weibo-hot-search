@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761737006220,
+  "endTime": 1761737929973,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -65,6 +65,14 @@
       "onboard_time": 1761720500,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 921105,
+      "num": 501337,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 888962,
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 501337,
-      "num": 501337,
-      "word": "建议大家点外卖不要点预订单",
-      "onboard_time": 1761732201,
-      "rank": 30,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 501113,
       "num": 501113,
       "word": "大批轰6K贴近台湾岛",
@@ -289,6 +289,22 @@
       "onboard_time": 1761718880,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 473890,
+      "num": 1075822,
+      "word": "天地剑心",
+      "onboard_time": 1761733281,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 467992,
+      "num": 399482,
+      "word": "Angelababy亮相重阳节敬老活动",
+      "onboard_time": 1761733641,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 461005,
@@ -387,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 411852,
-      "num": 1065896,
-      "word": "天地剑心",
-      "onboard_time": 1761733281,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 404688,
       "num": 364353,
       "word": "易烊千玺同学好帅",
@@ -409,14 +417,6 @@
       "onboard_time": 1761715162,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 399482,
-      "num": 399482,
-      "word": "Angelababy亮相重阳节敬老活动",
-      "onboard_time": 1761733641,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 384678,
@@ -441,6 +441,14 @@
       "onboard_time": 1761727581,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 376404,
+      "num": 598044,
+      "word": "花少浪姐团 审美疲劳",
+      "onboard_time": 1761736221,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 375483,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263921,
+      "num": 189169,
+      "word": "日本导演呼吁别让父母沦为下流老人",
+      "onboard_time": 1761736340,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 259254,
       "num": 259254,
       "word": "中国花滑选手因玩偶遭国际滑联调查",
@@ -707,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241693,
+      "num": 728303,
+      "word": "王权富贵被万剑穿心",
+      "onboard_time": 1761735920,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234760,
       "num": 227526,
       "word": "李沁说张晚意上那种班",
@@ -755,12 +779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214371,
+      "raw_hot": 220340,
       "num": 214371,
       "word": "TF家族新年音乐会有53个人",
       "onboard_time": 1761734121,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216500,
+      "num": 216500,
+      "word": "985硕士女生多了",
+      "onboard_time": 1761736640,
+      "rank": 36,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 213630,
@@ -979,22 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180895,
-      "num": 728303,
-      "word": "王权富贵被万剑穿心",
-      "onboard_time": 1761735920,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 175785,
-      "num": 598044,
-      "word": "花少浪姐团 审美疲劳",
-      "onboard_time": 1761736221,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174401,
       "num": 174401,
       "word": "女生遭同学殴打13次确诊精神分裂",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1761729141,
       "rank": 28,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 168589,
+      "num": 168589,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168416,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157197,
+      "num": 157197,
+      "word": "雷淞然 好喜欢这对",
+      "onboard_time": 1761735561,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 156966,
@@ -1395,12 +1427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "雷淞然 好喜欢这对",
-      "onboard_time": 1761735561,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 137059,
+      "num": 137059,
+      "word": "LCK锁定S15决赛",
+      "onboard_time": 1761733221,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 136256,
@@ -1433,14 +1465,6 @@
       "onboard_time": 1761708500,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133837,
-      "num": 133837,
-      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
-      "onboard_time": 1761734241,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132906,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1761660922,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127114,
-      "num": 127114,
-      "word": "日本导演呼吁别让父母沦为下流老人",
-      "onboard_time": 1761736340,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 126269,
@@ -1731,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116595,
+      "num": 196402,
+      "word": "小米冬测质疑",
+      "onboard_time": 1761735861,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116413,
       "num": 116413,
       "word": "毛不易下次有这种婚礼记得先开票",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1761719539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113132,
+      "num": 113132,
+      "word": "韩国偶遇刘强东章泽天",
+      "onboard_time": 1761737480,
+      "rank": 33,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 113105,
@@ -1947,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110005,
-      "num": 110005,
-      "word": "LCK锁定S15决赛",
-      "onboard_time": 1761733221,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109416,
       "num": 109416,
       "word": "孤老贷66万去世民政局被判还款",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1761705679,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106898,
+      "num": 106898,
+      "word": "以为是湿疹其实是银屑病",
+      "onboard_time": 1761735020,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106415,
@@ -2291,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94423,
+      "num": 94423,
+      "word": "暗河传第20集",
+      "onboard_time": 1761737302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93991,
       "num": 93991,
       "word": "不同地方的山歌belike",
@@ -2339,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92334,
+      "num": 169350,
+      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+      "onboard_time": 1761732082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92330,
       "num": 92330,
       "word": "给不会修眉的人一点震撼",
@@ -2361,14 +2409,6 @@
       "onboard_time": 1761656362,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 91425,
-      "num": 173630,
-      "word": "小米冬测质疑",
-      "onboard_time": 1761735861,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 91386,
@@ -2459,6 +2499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88070,
+      "num": 173203,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87575,
       "num": 118003,
       "word": "黄晓明内娱洗洁精",
@@ -2467,20 +2515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87148,
-      "num": 169350,
-      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
-      "onboard_time": 1761732082,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85487,
       "num": 159992,
       "word": "全球投资者撤资印度急了",
       "onboard_time": 1761710421,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83355,
+      "num": 83355,
+      "word": "当我用打王者的心眼子上班",
+      "onboard_time": 1761737781,
+      "rank": 46,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 83354,
@@ -2499,27 +2547,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82772,
-      "num": 173203,
-      "word": "外交部回应中国是否复购美国大豆",
-      "onboard_time": 1761733161,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 80964,
-      "num": 118191,
-      "word": "985硕士女生多了",
-      "onboard_time": 1761736640,
-      "rank": 36,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 80552,
       "num": 146181,
       "word": "水龙吟是罗云熙的翻身仗吗",
       "onboard_time": 1761729860,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79275,
+      "num": 79275,
+      "word": "王权富贵开大",
+      "onboard_time": 1761737841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78883,
+      "num": 78883,
+      "word": "富贵少爷都扎透了",
+      "onboard_time": 1761737421,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2851,6 +2899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49693,
+      "num": 114982,
+      "word": "留学生不会有超国民待遇",
+      "onboard_time": 1761736461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49434,
       "num": 49434,
       "word": "切尔诺贝利蓝色狗或接触了化学物质",
@@ -2891,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44520,
+      "num": 89241,
+      "word": "首尔全城拉响防空警报",
+      "onboard_time": 1761737421,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44159,
       "num": 133839,
       "word": "中国兽协就动物血库灰色产业发声",
@@ -2929,14 +2993,6 @@
       "onboard_time": 1761667521,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 41014,
-      "num": 114982,
-      "word": "留学生不会有超国民待遇",
-      "onboard_time": 1761736461,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39741,

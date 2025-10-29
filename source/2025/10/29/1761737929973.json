@@ -1,0 +1,410 @@
+{
+  "runTime": 1761737929973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473890,
+        "num": 1075822,
+        "word": "天地剑心",
+        "onboard_time": 1761733281,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216500,
+        "num": 216500,
+        "word": "985硕士女生多了",
+        "onboard_time": 1761736640,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 42708,
+        "num": 203124,
+        "word": "十五五规划建议这些与年轻人有关",
+        "onboard_time": 1761729981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376404,
+        "num": 202381,
+        "word": "花少浪姐团 审美疲劳",
+        "onboard_time": 1761736221,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279991,
+        "num": 202376,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200431,
+        "num": 200431,
+        "word": "陈震回应Model3和SU7哪个更好开",
+        "onboard_time": 1761731542,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 241693,
+        "num": 199491,
+        "word": "王权富贵被万剑穿心",
+        "onboard_time": 1761735920,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135003,
+        "num": 199074,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120290,
+        "num": 196996,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116595,
+        "num": 196402,
+        "word": "小米冬测质疑",
+        "onboard_time": 1761735861,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 921105,
+        "num": 195202,
+        "word": "建议大家点外卖不要点预订单",
+        "onboard_time": 1761732201,
+        "rank": 10,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 467992,
+        "num": 193921,
+        "word": "Angelababy亮相重阳节敬老活动",
+        "onboard_time": 1761733641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447474,
+        "num": 192722,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358131,
+        "num": 191762,
+        "word": "三峡大学通报留学生夜闯女寝",
+        "onboard_time": 1761725180,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100583,
+        "num": 189889,
+        "word": "一家在拼多多开了十年的羊肉店",
+        "onboard_time": 1761728839,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 263921,
+        "num": 189169,
+        "word": "日本导演呼吁别让父母沦为下流老人",
+        "onboard_time": 1761736340,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255675,
+        "num": 187922,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220340,
+        "num": 187110,
+        "word": "TF家族新年音乐会有53个人",
+        "onboard_time": 1761734121,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186287,
+        "num": 186287,
+        "word": "胡歌曾前往墨脱缅怀母亲",
+        "onboard_time": 1761728781,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168405,
+        "num": 180059,
+        "word": "声生不息华流季歌手阵容",
+        "onboard_time": 1761727401,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497807,
+        "num": 177851,
+        "word": "金价下跌备婚人买三金纠结症犯了",
+        "onboard_time": 1761727461,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 325060,
+        "num": 176908,
+        "word": "茉莉雨",
+        "onboard_time": 1761728061,
+        "rank": 21,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "早餐只吃两颗鸡蛋的含金量",
+        "onboard_time": 1761722241,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168589,
+        "num": 168589,
+        "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+        "onboard_time": 1761734241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159809,
+        "num": 159809,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157197,
+        "num": 157197,
+        "word": "雷淞然 好喜欢这对",
+        "onboard_time": 1761735561,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100266,
+        "num": 147486,
+        "word": "KT战胜CFO",
+        "onboard_time": 1761730941,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142942,
+        "num": 142942,
+        "word": "易烊千玺同学好帅",
+        "onboard_time": 1761726562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92334,
+        "num": 137146,
+        "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+        "onboard_time": 1761732082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92122,
+        "num": 137101,
+        "word": "孙颖莎想念爸妈做的饭",
+        "onboard_time": 1761732321,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137059,
+        "num": 137059,
+        "word": "LCK锁定S15决赛",
+        "onboard_time": 1761733221,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128726,
+        "num": 128726,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126023,
+        "num": 126023,
+        "word": "钟楚曦C位闹剧该收场了",
+        "onboard_time": 1761726260,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113132,
+        "num": 113132,
+        "word": "韩国偶遇刘强东章泽天",
+        "onboard_time": 1761737480,
+        "rank": 33,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 106898,
+        "num": 106898,
+        "word": "以为是湿疹其实是银屑病",
+        "onboard_time": 1761735020,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101617,
+        "num": 101617,
+        "word": "见弟弟被捅哥哥持杀猪刀致2人死亡",
+        "onboard_time": 1761727102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100488,
+        "num": 100488,
+        "word": "时代峰峻只放一人出席吗",
+        "onboard_time": 1761731061,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94423,
+        "num": 94423,
+        "word": "暗河传第20集",
+        "onboard_time": 1761737302,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91829,
+        "num": 91829,
+        "word": "Viper让圣枪哥小心Faker",
+        "onboard_time": 1761730401,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44520,
+        "num": 89241,
+        "word": "首尔全城拉响防空警报",
+        "onboard_time": 1761737421,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88802,
+        "num": 88802,
+        "word": "钟楚曦VOGUE战袍被挂出标价88万",
+        "onboard_time": 1761729680,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 88361,
+        "num": 88361,
+        "word": "考研考编考公三手抓",
+        "onboard_time": 1761731601,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88070,
+        "num": 88070,
+        "word": "外交部回应中国是否复购美国大豆",
+        "onboard_time": 1761733161,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85809,
+        "num": 85809,
+        "word": "常华森素人时期曾去山区支教",
+        "onboard_time": 1761734422,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49693,
+        "num": 84639,
+        "word": "留学生不会有超国民待遇",
+        "onboard_time": 1761736461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84049,
+        "num": 84049,
+        "word": "爹万箭穿心儿子万剑穿心",
+        "onboard_time": 1761735141,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 83355,
+        "word": "当我用打王者的心眼子上班",
+        "onboard_time": 1761737781,
+        "rank": 46,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 80352,
+        "num": 80352,
+        "word": "KPL",
+        "onboard_time": 1761735080,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79275,
+        "num": 79275,
+        "word": "王权富贵开大",
+        "onboard_time": 1761737841,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78883,
+        "num": 78883,
+        "word": "富贵少爷都扎透了",
+        "onboard_time": 1761737421,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}
