@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761745155855,
+  "endTime": 1761745875963,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1057994,
+      "num": 1169279,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 991274,
       "num": 991274,
       "word": "宝宝巴士 低俗广告",
@@ -75,7 +83,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 930033,
+      "raw_hot": 942572,
       "num": 930033,
       "word": "沈梦辰下楼梯摔倒",
       "onboard_time": 1761742941,
@@ -339,14 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 473966,
-      "num": 473966,
-      "word": "Elk发文澄清",
-      "onboard_time": 1761745042,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 473890,
       "num": 1075822,
       "word": "天地剑心",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 460076,
-      "num": 143714,
+      "num": 169628,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 33,
@@ -441,6 +441,14 @@
       "onboard_time": 1761650962,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419721,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761743662,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 416197,
@@ -707,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289760,
-      "num": 1046361,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1761743662,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286464,
       "num": 1016541,
       "word": "王权富贵被万剑穿心",
@@ -729,6 +729,14 @@
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276728,
+      "num": 968997,
+      "word": "你们去过南昌的人嘴太严了",
+      "onboard_time": 1761743062,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 263921,
@@ -971,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208222,
-      "num": 968997,
-      "word": "你们去过南昌的人嘴太严了",
-      "onboard_time": 1761743062,
-      "rank": 3,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 203457,
       "num": 962739,
       "word": "大眼音乐节全阵容",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1761705919,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "跟你们这些不懂米饭的人说不清楚",
+      "onboard_time": 1761745642,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 190690,
@@ -1147,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182391,
+      "num": 182391,
+      "word": "李一桐想拉戚薇田曦薇一起搓澡",
+      "onboard_time": 1761744743,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181589,
       "num": 181589,
       "word": "宝宝巴士客服回应APP跳转成人广告",
@@ -1203,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170345,
+      "num": 170345,
+      "word": "子阳结婚",
+      "onboard_time": 1761743182,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170093,
       "num": 884253,
       "word": "外交部回应中美元首即将会晤",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1761726081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166772,
+      "num": 172009,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 166445,
@@ -1345,14 +1377,6 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157701,
-      "num": 157701,
-      "word": "子阳结婚",
-      "onboard_time": 1761743182,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 157197,
@@ -1475,14 +1499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145896,
-      "num": 145896,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 145575,
       "num": 231416,
       "word": "37张熟脸闯进一部年代剧",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1761733821,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138344,
+      "num": 138344,
+      "word": "米兰的黄景瑜我狠狠笑纳了",
+      "onboard_time": 1761744681,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 137812,
@@ -2003,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115506,
+      "num": 115506,
+      "word": "金价下跌买是捡漏还是再等等",
+      "onboard_time": 1761742520,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115330,
       "num": 114185,
       "word": "张呈全怪雷淞然",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1761743062,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114335,
+      "num": 135769,
+      "word": "天地剑心BGM没用梦回还",
+      "onboard_time": 1761745763,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 113720,
@@ -2073,14 +2113,6 @@
       "onboard_time": 1761742342,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113182,
-      "num": 113182,
-      "word": "米兰的黄景瑜我狠狠笑纳了",
-      "onboard_time": 1761744681,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 113105,
@@ -2268,7 +2300,7 @@
     },
     {
       "raw_hot": 108849,
-      "num": 124107,
+      "num": 132573,
       "word": "孙颖莎王楚钦期待香港总决赛",
       "onboard_time": 1761744803,
       "rank": 39,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1761705679,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107210,
-      "num": 107210,
-      "word": "李一桐想拉戚薇田曦薇一起搓澡",
-      "onboard_time": 1761744743,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 106898,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1761664462,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96848,
+      "num": 96848,
+      "word": "Chovy说Peanut只是暂时退役",
+      "onboard_time": 1761745343,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96592,
@@ -2915,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78775,
+      "num": 170385,
+      "word": "昆明警方通报校外男子在高校自杀身亡",
+      "onboard_time": 1761745642,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 77478,
       "num": 87279,
       "word": "九尾捡到闫桉手机",
@@ -3043,6 +3083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65272,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65207,
       "num": 85037,
       "word": "徐嘉余备战全运会VLOG",
@@ -3164,7 +3212,7 @@
     },
     {
       "raw_hot": 58985,
-      "num": 124267,
+      "num": 134512,
       "word": "孙颖莎期待与最顶尖的选手一较高下",
       "onboard_time": 1761740841,
       "rank": 28,
@@ -3297,14 +3345,6 @@
       "onboard_time": 1761684133,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 49076,
-      "num": 1030642,
-      "word": "中国是韩国第一大贸易伙伴国",
-      "onboard_time": 1761743901,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47634,
@@ -3720,6 +3760,14 @@
       "word": "齐聚郑州共赴诗词之约",
       "onboard_time": 1761721280,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10123,
+      "num": 134160,
+      "word": "31岁男子腿型修长丝袜厂家求合作",
+      "onboard_time": 1761745283,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

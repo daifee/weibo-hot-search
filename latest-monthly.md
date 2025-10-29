@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 21:39:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 21:51:15
 </p>
 </blockquote>
 <p>
@@ -2007,6 +2007,12 @@ ELLE全阵容官宣（热度：1058138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Elk%E5%8F%91%E6%96%87%E6%BE%84%E6%B8%85%23" target="weibo">
+Elk发文澄清（热度：1057994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E5%A7%90%E4%BD%A0%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E8%BE%9B%E8%8B%A6%23" target="weibo">
 小S 姐你不在的人生真的很辛苦（热度：1057349）
 </a>
@@ -2643,6 +2649,12 @@ ELLE晚宴（热度：992028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8B%E6%A5%BC%E6%A2%AF%E6%91%94%E5%80%92%23" target="weibo">
+沈梦辰下楼梯摔倒（热度：942572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%20%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%23" target="weibo">
 郑智化 深圳机场（热度：940322）
 </a>
@@ -2693,12 +2705,6 @@ ELLE晚宴（热度：992028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%A0%8D%E4%BC%A4%E5%93%88%E5%A3%AB%E5%A5%87%E5%B7%B2%E5%AE%89%E4%B9%90%E6%AD%BB%23" target="weibo">
 成都被砍伤哈士奇已安乐死（热度：930406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%8B%E6%A5%BC%E6%A2%AF%E6%91%94%E5%80%92%23" target="weibo">
-沈梦辰下楼梯摔倒（热度：930033）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%82%A5%E8%83%96%E7%85%A7%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%23" target="weibo">
 美军肥胖照火遍全网（热度：602797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
-北京下雪了（热度：601734）
 </a>
 </li>
 
