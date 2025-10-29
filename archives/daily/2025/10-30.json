@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761776743582,
+  "endTime": 1761777728790,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328507,
+      "num": 502578,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 305555,
       "num": 418753,
       "word": "李一桐送房求李荣浩给自己写歌",
@@ -75,19 +83,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257619,
-      "num": 497013,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 4,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 250761,
       "num": 418191,
       "word": "男子遭多次刑讯逼供后死亡11人被判刑",
       "onboard_time": 1761747982,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231096,
+      "num": 415843,
+      "word": "高反失温女孩昏迷19天后苏醒",
+      "onboard_time": 1761753921,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186490,
-      "num": 415843,
-      "word": "高反失温女孩昏迷19天后苏醒",
-      "onboard_time": 1761753921,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158298,
       "num": 476053,
       "word": "日本网民怒批高市早苗谄媚",
       "onboard_time": 1761747982,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150697,
+      "num": 415009,
+      "word": "千万网红仙女酵母已近一年无收入",
+      "onboard_time": 1761738321,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 147424,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124857,
       "num": 414180,
       "word": "蒋易发博",
@@ -163,28 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118921,
-      "num": 415009,
-      "word": "千万网红仙女酵母已近一年无收入",
-      "onboard_time": 1761738321,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 112569,
       "num": 470172,
       "word": "12306回应轮椅旅客深圳北站行路难",
       "onboard_time": 1761751521,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109542,
-      "num": 109542,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108655,
@@ -241,6 +241,14 @@
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71523,
+      "num": 71523,
+      "word": "市场预计美联储将再次降息",
+      "onboard_time": 1761773534,
+      "rank": 28,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 71295,
@@ -403,6 +411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 39481,
+      "num": 51001,
+      "word": "刘宇宁就这个纯正江湖味儿",
+      "onboard_time": 1761763275,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39117,
       "num": 207625,
       "word": "水龙吟",
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37838,
-      "num": 34600,
-      "word": "刘宇宁就这个纯正江湖味儿",
-      "onboard_time": 1761763275,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36879,
       "num": 207760,
       "word": "谁来救救陈伟霆",
@@ -451,12 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32097,
-      "num": 32097,
-      "word": "市场预计美联储将再次降息",
-      "onboard_time": 1761773534,
-      "rank": 28,
-      "category": "海外新闻,财经"
+      "raw_hot": 32398,
+      "num": 50809,
+      "word": "跑男在西藏确定不缺氧吗",
+      "onboard_time": 1761776595,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30478,
+      "num": 50507,
+      "word": "李维嘉完全是天赋型梗王",
+      "onboard_time": 1761775875,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 29296,
@@ -483,7 +499,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18688,
+      "raw_hot": 20864,
       "num": 64885,
       "word": "声生不息",
       "onboard_time": 1761762735,
@@ -491,7 +507,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18621,
+      "raw_hot": 19325,
+      "num": 49868,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18929,
       "num": 63525,
       "word": "昆明理工一学生被压榨自杀系谣言",
       "onboard_time": 1761756977,
@@ -507,20 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17173,
-      "num": 29392,
-      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
-      "onboard_time": 1761770774,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16023,
-      "num": 29385,
-      "word": "李维嘉完全是天赋型梗王",
-      "onboard_time": 1761775875,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 15151,
+      "num": 49514,
+      "word": "东航重启中印直飞航班",
+      "onboard_time": 1761766273,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15003,
@@ -539,28 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14291,
-      "num": 29682,
+      "raw_hot": 14475,
+      "num": 49352,
       "word": "停火18天后以总理再启加沙战事",
       "onboard_time": 1761769874,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13445,
-      "num": 29734,
-      "word": "东航重启中印直飞航班",
-      "onboard_time": 1761766273,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12552,
-      "num": 29344,
-      "word": "跑男在西藏确定不缺氧吗",
-      "onboard_time": 1761776595,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 11520,

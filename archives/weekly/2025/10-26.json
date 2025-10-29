@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761776743582,
+  "endTime": 1761777728790,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -3675,6 +3675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231096,
+      "num": 415843,
+      "word": "高反失温女孩昏迷19天后苏醒",
+      "onboard_time": 1761753921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230723,
       "num": 230723,
       "word": "许绍雄因癌症致器官衰竭",
@@ -4873,14 +4881,6 @@
       "onboard_time": 1761624746,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186490,
-      "num": 415843,
-      "word": "高反失温女孩昏迷19天后苏醒",
-      "onboard_time": 1761753921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186430,
@@ -7427,6 +7427,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136256,
       "num": 118327,
       "word": "Ning说TES打不过G2",
@@ -9753,14 +9761,6 @@
       "onboard_time": 1761744082,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109542,
-      "num": 109542,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109538,
@@ -12331,6 +12331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71523,
+      "num": 71523,
+      "word": "市场预计美联储将再次降息",
+      "onboard_time": 1761773534,
+      "rank": 28,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 71333,
       "num": 173551,
       "word": "名创优品 糖果找零",
@@ -13691,6 +13699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39481,
+      "num": 51001,
+      "word": "刘宇宁就这个纯正江湖味儿",
+      "onboard_time": 1761763275,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39410,
       "num": 129542,
       "word": "GEN对战HLE数据前瞻",
@@ -13737,14 +13753,6 @@
       "onboard_time": 1761714021,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37838,
-      "num": 34600,
-      "word": "刘宇宁就这个纯正江湖味儿",
-      "onboard_time": 1761763275,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 37692,
@@ -13995,20 +14003,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32398,
+      "num": 50809,
+      "word": "跑男在西藏确定不缺氧吗",
+      "onboard_time": 1761776595,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32396,
       "num": 123050,
       "word": "胡先煦你知道得太多了",
       "onboard_time": 1761716600,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32097,
-      "num": 32097,
-      "word": "市场预计美联储将再次降息",
-      "onboard_time": 1761773534,
-      "rank": 28,
-      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 32049,
@@ -14104,6 +14112,14 @@
       "word": "安可",
       "onboard_time": 1761415995,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30478,
+      "num": 50507,
+      "word": "李维嘉完全是天赋型梗王",
+      "onboard_time": 1761775875,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -14531,6 +14547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20864,
+      "num": 64885,
+      "word": "声生不息",
+      "onboard_time": 1761762735,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20484,
       "num": 165678,
       "word": "初三女孩遭杀害妈妈称宁可自己挨刀",
@@ -14611,6 +14635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19325,
+      "num": 49868,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18929,
+      "num": 63525,
+      "word": "昆明理工一学生被压榨自杀系谣言",
+      "onboard_time": 1761756977,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18838,
       "num": 192840,
       "word": "男子持续两三年朝商店扔钱拒绝拿回",
@@ -14633,22 +14673,6 @@
       "onboard_time": 1761549442,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18688,
-      "num": 64885,
-      "word": "声生不息",
-      "onboard_time": 1761762735,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18621,
-      "num": 63525,
-      "word": "昆明理工一学生被压榨自杀系谣言",
-      "onboard_time": 1761756977,
-      "rank": 43,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18593,
@@ -14731,14 +14755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17173,
-      "num": 29392,
-      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
-      "onboard_time": 1761770774,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17024,
       "num": 118773,
       "word": "公共服务应在讨论中止于至善",
@@ -14761,14 +14777,6 @@
       "onboard_time": 1761674955,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 16023,
-      "num": 29385,
-      "word": "李维嘉完全是天赋型梗王",
-      "onboard_time": 1761775875,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 16019,
@@ -14795,6 +14803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 15151,
+      "num": 49514,
+      "word": "东航重启中印直飞航班",
+      "onboard_time": 1761766273,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15084,
       "num": 131930,
       "word": "椰子水",
@@ -14819,6 +14835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14475,
+      "num": 49352,
+      "word": "停火18天后以总理再启加沙战事",
+      "onboard_time": 1761769874,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14372,
       "num": 156110,
       "word": "网传电影版扫鼠岭男主肖战",
@@ -14833,14 +14857,6 @@
       "onboard_time": 1761593474,
       "rank": 44,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 14291,
-      "num": 29682,
-      "word": "停火18天后以总理再启加沙战事",
-      "onboard_time": 1761769874,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14245,
@@ -14883,14 +14899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13445,
-      "num": 29734,
-      "word": "东航重启中印直飞航班",
-      "onboard_time": 1761766273,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12825,
       "num": 30095,
       "word": "澎湖海战的澎湖是中国的澎湖",
@@ -14905,14 +14913,6 @@
       "onboard_time": 1761569661,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12552,
-      "num": 29344,
-      "word": "跑男在西藏确定不缺氧吗",
-      "onboard_time": 1761776595,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 12464,
