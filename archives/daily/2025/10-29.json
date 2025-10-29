@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761742520139,
+  "endTime": 1761743392850,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 974769,
+      "num": 434292,
+      "word": "高铁上上个厕所1万多的电脑没了",
+      "onboard_time": 1761739460,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 965800,
       "num": 618851,
       "word": "日本熊灾",
@@ -105,14 +113,6 @@
       "onboard_time": 1761702380,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 832107,
-      "num": 390291,
-      "word": "高铁上上个厕所1万多的电脑没了",
-      "onboard_time": 1761739460,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 828629,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 493316,
+      "num": 493316,
+      "word": "李在明款待特朗普菜单曝光",
+      "onboard_time": 1761739521,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 490548,
       "num": 490548,
       "word": "喀什大学编制到人无非升即走引关注",
@@ -379,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 432962,
+      "num": 432962,
+      "word": "网传印度人聚众在广州酒店大厅过夜",
+      "onboard_time": 1761740781,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430205,
       "num": 239073,
       "word": "被蛇咬后失联的网红已找到",
@@ -440,14 +456,6 @@
       "word": "泽连斯基声称无力施压中国望美出手",
       "onboard_time": 1761715162,
       "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 394192,
-      "num": 394192,
-      "word": "李在明款待特朗普菜单曝光",
-      "onboard_time": 1761739521,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -539,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359682,
+      "num": 359682,
+      "word": "彭小苒收到了2000多份简历",
+      "onboard_time": 1761741803,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352511,
       "num": 227730,
       "word": "赵樱子自曝前男友片酬2000万",
@@ -553,6 +569,14 @@
       "onboard_time": 1761692776,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346337,
+      "num": 346337,
+      "word": "沈梦辰下楼梯摔倒",
+      "onboard_time": 1761742941,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 336497,
@@ -585,14 +609,6 @@
       "onboard_time": 1761709041,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 325726,
-      "num": 325726,
-      "word": "网传印度人聚众在广州酒店大厅过夜",
-      "onboard_time": 1761740781,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316972,
@@ -651,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296162,
+      "num": 296162,
+      "word": "台湾歌手坣娜去世",
+      "onboard_time": 1761739940,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295272,
       "num": 287516,
       "word": "23考研26考公",
@@ -673,14 +697,6 @@
       "onboard_time": 1761711202,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284303,
-      "num": 284303,
-      "word": "台湾歌手坣娜去世",
-      "onboard_time": 1761739940,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 282350,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 241693,
-      "num": 883435,
+      "num": 994318,
       "word": "王权富贵被万剑穿心",
       "onboard_time": 1761735920,
       "rank": 6,
@@ -809,6 +825,14 @@
       "onboard_time": 1761721340,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233167,
+      "num": 233167,
+      "word": "彭小苒 差十岁你们都嗑得动",
+      "onboard_time": 1761742822,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 233009,
@@ -939,20 +963,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 198674,
-      "num": 198674,
-      "word": "彭小苒收到了2000多份简历",
-      "onboard_time": 1761741803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198672,
       "num": 198672,
       "word": "娱乐圈刘家大院的含金量",
       "onboard_time": 1761711741,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197777,
+      "num": 825099,
+      "word": "你们去过南昌的人嘴太严了",
+      "onboard_time": 1761743062,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 197550,
@@ -985,6 +1009,14 @@
       "onboard_time": 1761705919,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192543,
+      "num": 436727,
+      "word": "大眼音乐节全阵容",
+      "onboard_time": 1761743243,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 190690,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1761669139,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175195,
+      "num": 390751,
+      "word": "成毅直播",
+      "onboard_time": 1761740903,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174401,
@@ -1395,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145169,
+      "num": 145169,
+      "word": "厄敌地球毁灭了以后",
+      "onboard_time": 1761743301,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145126,
       "num": 175286,
       "word": "柳承敏涉嫌受贿2亿韩元",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1761707480,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142740,
-      "num": 390751,
-      "word": "成毅直播",
-      "onboard_time": 1761740903,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142591,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1761717201,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130672,
+      "num": 130672,
+      "word": "清融打卡生日大屏",
+      "onboard_time": 1761742224,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 130606,
@@ -1859,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116247,
+      "num": 116247,
+      "word": "王楚钦快比赛吧",
+      "onboard_time": 1761740841,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116215,
       "num": 116215,
       "word": "奶皮子糖葫芦卖到40元一串",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1761719539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113199,
+      "num": 113199,
+      "word": "沈腾杨幂 爱的二舅定律",
+      "onboard_time": 1761742342,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113105,
@@ -1987,12 +2051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112181,
-      "num": 112181,
-      "word": "王楚钦快比赛吧",
-      "onboard_time": 1761740841,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 112072,
+      "num": 112072,
+      "word": "子阳结婚",
+      "onboard_time": 1761743182,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 111964,
@@ -2195,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104317,
+      "num": 104317,
+      "word": "59岁刘嘉玲怼脸皮肤状态",
+      "onboard_time": 1761743182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104154,
       "num": 166572,
       "word": "苏有朋三年上芒果3档王牌音综",
@@ -2208,6 +2280,14 @@
       "word": "MANTA天生坏种",
       "onboard_time": 1761719662,
       "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 104021,
+      "num": 104021,
+      "word": "张福正要给729员工10倍工资",
+      "onboard_time": 1761742882,
+      "rank": 43,
       "category": "动漫"
     },
     {
@@ -2297,14 +2377,6 @@
       "onboard_time": 1761719181,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100177,
-      "num": 100177,
-      "word": "清融打卡生日大屏",
-      "onboard_time": 1761742224,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 99761,
@@ -2585,14 +2657,6 @@
       "onboard_time": 1761693739,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89337,
-      "num": 89337,
-      "word": "沈腾杨幂 爱的二舅定律",
-      "onboard_time": 1761742342,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 89163,
@@ -3123,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47549,
+      "num": 107578,
+      "word": "李施嬅 吸渣体质",
+      "onboard_time": 1761743062,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47527,
       "num": 47527,
       "word": "王者虐待五旬老人",
@@ -3425,6 +3497,14 @@
       "onboard_time": 1761742462,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19619,
+      "num": 107938,
+      "word": "黑人留学生半夜翻墙爬进女生宿舍",
+      "onboard_time": 1761742822,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18749,
