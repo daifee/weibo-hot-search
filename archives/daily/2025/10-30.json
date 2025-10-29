@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761766625667,
+  "endTime": 1761769804887,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41946,
+      "num": 41946,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40328,
       "num": 503210,
       "word": "中国是韩国第一大贸易伙伴国",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17956,
-      "num": 34016,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17216,
       "num": 34536,
       "word": "欧阳娜娜VOGUE油画少女",
@@ -529,6 +529,14 @@
       "onboard_time": 1761748823,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10121,
+      "num": 26253,
+      "word": "重阳是秋意最浓的一封家书",
+      "onboard_time": 1761769153,
+      "rank": 47,
+      "category": "读书作家"
     }
   ],
   "hotgov_list": [
