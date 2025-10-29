@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761763846109,
+  "endTime": 1761765729727,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -475,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17216,
+      "num": 34536,
+      "word": "欧阳娜娜VOGUE油画少女",
+      "onboard_time": 1761763154,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16783,
       "num": 63525,
       "word": "昆明理工一学生被压榨自杀系谣言",
       "onboard_time": 1761756977,
       "rank": 43,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 15809,
-      "num": 34536,
-      "word": "欧阳娜娜VOGUE油画少女",
-      "onboard_time": 1761763154,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 15003,
@@ -505,6 +505,14 @@
       "onboard_time": 1761763816,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11613,
+      "num": 34016,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11520,
