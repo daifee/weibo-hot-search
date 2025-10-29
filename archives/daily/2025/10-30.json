@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761773959679,
+  "endTime": 1761776743582,
   "band_list": [
     {
       "raw_hot": 959006,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109542,
+      "num": 109542,
+      "word": "首尔官员回应咖啡店不接待中国游客",
+      "onboard_time": 1761764774,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
@@ -257,14 +265,6 @@
       "onboard_time": 1761732201,
       "rank": 34,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 68669,
-      "num": 68669,
-      "word": "首尔官员回应咖啡店不接待中国游客",
-      "onboard_time": 1761764774,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65980,
@@ -435,7 +435,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36124,
+      "raw_hot": 36879,
       "num": 207760,
       "word": "谁来救救陈伟霆",
       "onboard_time": 1761759076,
@@ -449,6 +449,14 @@
       "onboard_time": 1761754341,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32097,
+      "num": 32097,
+      "word": "市场预计美联储将再次降息",
+      "onboard_time": 1761773534,
+      "rank": 28,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 29296,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18621,
+      "num": 63525,
+      "word": "昆明理工一学生被压榨自杀系谣言",
+      "onboard_time": 1761756977,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 17216,
       "num": 34536,
       "word": "欧阳娜娜VOGUE油画少女",
@@ -491,12 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16783,
-      "num": 63525,
-      "word": "昆明理工一学生被压榨自杀系谣言",
-      "onboard_time": 1761756977,
-      "rank": 43,
-      "category": "辟谣/通报"
+      "raw_hot": 17173,
+      "num": 29392,
+      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
+      "onboard_time": 1761770774,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16023,
+      "num": 29385,
+      "word": "李维嘉完全是天赋型梗王",
+      "onboard_time": 1761775875,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 15003,
@@ -515,15 +539,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13994,
-      "num": 23968,
-      "word": "市场预计美联储将再次降息",
-      "onboard_time": 1761773534,
-      "rank": 28,
-      "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 12129,
+      "raw_hot": 14291,
       "num": 29682,
       "word": "停火18天后以总理再启加沙战事",
       "onboard_time": 1761769874,
@@ -531,12 +547,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11872,
+      "raw_hot": 13445,
       "num": 29734,
       "word": "东航重启中印直飞航班",
       "onboard_time": 1761766273,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12552,
+      "num": 29344,
+      "word": "跑男在西藏确定不缺氧吗",
+      "onboard_time": 1761776595,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 11520,
@@ -545,14 +569,6 @@
       "onboard_time": 1761748823,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10583,
-      "num": 23854,
-      "word": "高校男生深夜砸玻璃闯进女生宿舍楼",
-      "onboard_time": 1761770774,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10121,

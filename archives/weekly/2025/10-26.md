@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/30 05:39:19
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/30 06:25:43
 </p>
 </blockquote>
 <p>
@@ -7329,6 +7329,12 @@ Viper回应止步S15八强（热度：113652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%AE%98%E5%91%98%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23" target="weibo">
+首尔官员回应咖啡店不接待中国游客（热度：109542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Peanut%E5%85%A8%E5%9C%BA%E6%9C%80%E9%AB%98%E5%88%86%23" target="weibo">
 Peanut全场最高分（热度：109538）
 </a>
@@ -9321,12 +9327,6 @@ HLE小花生断开连接（热度：69577）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%AE%98%E5%91%98%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23" target="weibo">
-首尔官员回应咖啡店不接待中国游客（热度：68669）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%20%E6%88%91%E5%98%B4%E8%A7%92%E5%8E%8B%E4%B8%8D%E4%B8%8B%E6%9D%A5%23" target="weibo">
 曾舜晞 我嘴角压不下来（热度：68509）
 </a>
@@ -10359,6 +10359,12 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E9%99%88%E4%BC%9F%E9%9C%86%23" target="weibo">
+谁来救救陈伟霆（热度：36879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%87%BA%E5%B7%AE%E9%81%AD%E7%8C%A5%E4%BA%B5%E8%A2%AB%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%B7%A5%E4%BC%A4%23" target="weibo">
 女子出差遭猥亵被认定为工伤（热度：36289）
 </a>
@@ -10367,12 +10373,6 @@ DRG回应战胜TTG（热度：38851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E4%BC%99%E9%A3%9F%E5%A5%BD%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 喜人伙食好起来了（热度：36220）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E9%99%88%E4%BC%9F%E9%9C%86%23" target="weibo">
-谁来救救陈伟霆（热度：36124）
 </a>
 </li>
 
@@ -10511,6 +10511,12 @@ DRG回应战胜TTG（热度：38851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E4%BD%A0%E7%9F%A5%E9%81%93%E5%BE%97%E5%A4%AA%E5%A4%9A%E4%BA%86%23" target="weibo">
 胡先煦你知道得太多了（热度：32396）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E5%9C%BA%E9%A2%84%E8%AE%A1%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86%E5%86%8D%E6%AC%A1%E9%99%8D%E6%81%AF%23" target="weibo">
+市场预计美联储将再次降息（热度：32097）
 </a>
 </li>
 
@@ -10989,6 +10995,12 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8E%8B%E6%A6%A8%E8%87%AA%E6%9D%80%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+昆明理工一学生被压榨自杀系谣言（热度：18621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%89%98%E5%9C%A8%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%BF%BD%E6%82%A0%E7%97%85%E6%82%A3%E5%89%8D%E5%BE%80%E4%B8%AD%E5%8C%BB%E9%A6%86%23" target="weibo">
 医托在三甲医院忽悠病患前往中医馆（热度：18593）
 </a>
@@ -11049,6 +11061,12 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%A0%B8%E7%8E%BB%E7%92%83%E9%97%AF%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%23" target="weibo">
+高校男生深夜砸玻璃闯进女生宿舍楼（热度：17173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E5%BA%94%E5%9C%A8%E8%AE%A8%E8%AE%BA%E4%B8%AD%E6%AD%A2%E4%BA%8E%E8%87%B3%E5%96%84%23" target="weibo">
 公共服务应在讨论中止于至善（热度：17024）
 </a>
@@ -11061,14 +11079,14 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8E%8B%E6%A6%A8%E8%87%AA%E6%9D%80%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
-昆明理工一学生被压榨自杀系谣言（热度：16783）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95ELLE%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
+吴昕ELLE红毯造型（热度：16682）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95ELLE%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23" target="weibo">
-吴昕ELLE红毯造型（热度：16682）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%8C%E5%85%A8%E6%98%AF%E5%A4%A9%E8%B5%8B%E5%9E%8B%E6%A2%97%E7%8E%8B%23" target="weibo">
+李维嘉完全是天赋型梗王（热度：16023）
 </a>
 </li>
 
@@ -11121,14 +11139,14 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E6%98%AF%E4%B8%AA%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
-断联是个试金石（热度：14245）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E7%81%AB18%E5%A4%A9%E5%90%8E%E4%BB%A5%E6%80%BB%E7%90%86%E5%86%8D%E5%90%AF%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%8B%23" target="weibo">
+停火18天后以总理再启加沙战事（热度：14291）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%82%E5%9C%BA%E9%A2%84%E8%AE%A1%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86%E5%86%8D%E6%AC%A1%E9%99%8D%E6%81%AF%23" target="weibo">
-市场预计美联储将再次降息（热度：13994）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E6%98%AF%E4%B8%AA%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
+断联是个试金石（热度：14245）
 </a>
 </li>
 
@@ -11157,6 +11175,12 @@ Beichuan掩面ELK捂鼻（热度：13956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E9%87%8D%E5%90%AF%E4%B8%AD%E5%8D%B0%E7%9B%B4%E9%A3%9E%E8%88%AA%E7%8F%AD%23" target="weibo">
+东航重启中印直飞航班（热度：13445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E7%9A%84%E6%BE%8E%E6%B9%96%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%BE%8E%E6%B9%96%23" target="weibo">
 澎湖海战的澎湖是中国的澎湖（热度：12825）
 </a>
@@ -11169,14 +11193,14 @@ Beichuan掩面ELK捂鼻（热度：13956）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2375%E5%B9%B4%E4%BA%86%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0%23" target="weibo">
-75年了我们永远不能忘记（热度：12464）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%9C%A8%E8%A5%BF%E8%97%8F%E7%A1%AE%E5%AE%9A%E4%B8%8D%E7%BC%BA%E6%B0%A7%E5%90%97%23" target="weibo">
+跑男在西藏确定不缺氧吗（热度：12552）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E7%81%AB18%E5%A4%A9%E5%90%8E%E4%BB%A5%E6%80%BB%E7%90%86%E5%86%8D%E5%90%AF%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%8B%23" target="weibo">
-停火18天后以总理再启加沙战事（热度：12129）
+<a href="https://s.weibo.com/weibo?q=%2375%E5%B9%B4%E4%BA%86%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%83%BD%E5%BF%98%E8%AE%B0%23" target="weibo">
+75年了我们永远不能忘记（热度：12464）
 </a>
 </li>
 
@@ -11193,12 +11217,6 @@ Beichuan掩面ELK捂鼻（热度：13956）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E9%87%8D%E5%90%AF%E4%B8%AD%E5%8D%B0%E7%9B%B4%E9%A3%9E%E8%88%AA%E7%8F%AD%23" target="weibo">
-东航重启中印直飞航班（热度：11872）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2375%E7%A7%92%E5%9B%9E%E7%9C%8B75%E5%B9%B4%E5%89%8D%23" target="weibo">
 75秒回看75年前（热度：11446）
 </a>
@@ -11207,12 +11225,6 @@ Beichuan掩面ELK捂鼻（热度：13956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%81%9A%E9%83%91%E5%B7%9E%E5%85%B1%E8%B5%B4%E8%AF%97%E8%AF%8D%E4%B9%8B%E7%BA%A6%23" target="weibo">
 齐聚郑州共赴诗词之约（热度：11399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%A0%B8%E7%8E%BB%E7%92%83%E9%97%AF%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%23" target="weibo">
-高校男生深夜砸玻璃闯进女生宿舍楼（热度：10583）
 </a>
 </li>
 
