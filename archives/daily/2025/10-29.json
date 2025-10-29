@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761733807079,
+  "endTime": 1761734764773,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -675,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235630,
+      "num": 257474,
+      "word": "陈震回应Model3和SU7哪个更好开",
+      "onboard_time": 1761731542,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 234760,
       "num": 227526,
       "word": "李沁说张晚意上那种班",
@@ -771,20 +779,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208737,
+      "num": 208737,
+      "word": "TF家族新年音乐会有53个人",
+      "onboard_time": 1761734121,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208703,
       "num": 291410,
       "word": "见弟弟被捅哥哥持杀猪刀致2人死亡",
       "onboard_time": 1761727102,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205808,
-      "num": 257474,
-      "word": "陈震回应Model3和SU7哪个更好开",
-      "onboard_time": 1761731542,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 203153,
@@ -907,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184755,
+      "num": 184755,
+      "word": "三峡大学",
+      "onboard_time": 1761733461,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183658,
       "num": 183658,
       "word": "被蛇咬后失联网红称手已变形",
@@ -921,6 +937,14 @@
       "onboard_time": 1761732801,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183028,
+      "num": 183028,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 183002,
@@ -947,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176105,
-      "num": 118758,
-      "word": "建议大家点外卖不要点预订单",
-      "onboard_time": 1761732201,
-      "rank": 30,
-      "category": "幽默,休闲"
+      "raw_hot": 181272,
+      "num": 255486,
+      "word": "天地剑心",
+      "onboard_time": 1761733281,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 174401,
@@ -1056,14 +1080,6 @@
       "word": "重器官宣杀青",
       "onboard_time": 1761706279,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162828,
-      "num": 255486,
-      "word": "天地剑心",
-      "onboard_time": 1761733281,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -1339,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138659,
+      "num": 183741,
+      "word": "水龙吟编剧",
+      "onboard_time": 1761733821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137812,
       "num": 137812,
       "word": "店家笑了半小时才开始做",
@@ -1491,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128279,
-      "num": 128279,
-      "word": "三峡大学",
-      "onboard_time": 1761733461,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128179,
       "num": 116863,
       "word": "近8成适老化用品被年轻人买走",
@@ -1579,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121442,
+      "num": 121442,
+      "word": "Deokdam要为Peanut复仇",
+      "onboard_time": 1761733461,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121248,
       "num": 121248,
       "word": "第一批贷款炒黄金亏损的人出现了",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1761726141,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117432,
-      "num": 117432,
-      "word": "Deokdam要为Peanut复仇",
-      "onboard_time": 1761733461,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 117369,
@@ -1867,6 +1883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 110396,
+      "num": 110396,
+      "word": "常华森素人时期曾去山区支教",
+      "onboard_time": 1761734422,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110366,
       "num": 110366,
       "word": "在小公司上班是什么感受",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1761729021,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109429,
+      "num": 109429,
+      "word": "LCK锁定S15决赛",
+      "onboard_time": 1761733221,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 109416,
@@ -1955,6 +1987,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 105943,
+      "num": 208676,
+      "word": "TTG对战DRG",
+      "onboard_time": 1761733941,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105572,
       "num": 105572,
       "word": "留学生夜闯女寝应被驱逐出境",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1761719662,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103950,
+      "num": 103950,
+      "word": "考研考编考公三手抓",
+      "onboard_time": 1761731601,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 103944,
@@ -2059,6 +2107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100950,
+      "num": 100950,
+      "word": "买黄金之后变得爱看书了",
+      "onboard_time": 1761732501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100334,
       "num": 100334,
       "word": "枫原万叶",
@@ -2123,6 +2179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98598,
+      "num": 98598,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97383,
       "num": 101702,
       "word": "小酒窝走在学校会被打招呼",
@@ -2156,11 +2220,19 @@
     },
     {
       "raw_hot": 96541,
-      "num": 119133,
+      "num": 208537,
       "word": "孙颖莎想念爸妈做的饭",
       "onboard_time": 1761732321,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96402,
+      "num": 96402,
+      "word": "龚俊有这样的核心拿什么输",
+      "onboard_time": 1761734721,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95269,
@@ -2307,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88077,
+      "num": 208596,
+      "word": "iPhone17屏幕成本或为40美元",
+      "onboard_time": 1761733881,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87575,
       "num": 118003,
       "word": "黄晓明内娱洗洁精",
@@ -2371,12 +2451,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76062,
+      "num": 173203,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75966,
       "num": 75966,
       "word": "金价回调原因",
       "onboard_time": 1761662063,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75769,
+      "num": 169350,
+      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+      "onboard_time": 1761732082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74531,
@@ -2643,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51920,
-      "num": 99708,
-      "word": "外交部回应中国是否复购美国大豆",
-      "onboard_time": 1761733161,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51504,
       "num": 229088,
       "word": "刘浩存深蓝L06品牌大使",
@@ -2665,6 +2753,14 @@
       "onboard_time": 1761682874,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50027,
+      "num": 997510,
+      "word": "十五五规划建议这些与年轻人有关",
+      "onboard_time": 1761729981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49434,
@@ -2705,14 +2801,6 @@
       "onboard_time": 1761721340,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45721,
-      "num": 997510,
-      "word": "十五五规划建议这些与年轻人有关",
-      "onboard_time": 1761729981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42868,
@@ -2843,6 +2931,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 31071,
+      "num": 104175,
+      "word": "小酒窝带作业去工作",
+      "onboard_time": 1761733761,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30448,
       "num": 109929,
       "word": "举高高 排久久",
@@ -2969,14 +3065,6 @@
       "onboard_time": 1761679154,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18350,
-      "num": 99818,
-      "word": "小酒窝带作业去工作",
-      "onboard_time": 1761733761,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 18251,

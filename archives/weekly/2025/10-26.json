@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761733807079,
+  "endTime": 1761734764773,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -3315,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235630,
+      "num": 257474,
+      "word": "陈震回应Model3和SU7哪个更好开",
+      "onboard_time": 1761731542,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 235603,
       "num": 235603,
       "word": "王者荣耀六耳",
@@ -3843,6 +3851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208737,
+      "num": 208737,
+      "word": "TF家族新年音乐会有53个人",
+      "onboard_time": 1761734121,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208703,
       "num": 291410,
       "word": "见弟弟被捅哥哥持杀猪刀致2人死亡",
@@ -3881,14 +3897,6 @@
       "onboard_time": 1761537620,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205808,
-      "num": 257474,
-      "word": "陈震回应Model3和SU7哪个更好开",
-      "onboard_time": 1761731542,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 204927,
@@ -4611,6 +4619,14 @@
       "category": "作品衍生,游戏"
     },
     {
+      "raw_hot": 184755,
+      "num": 184755,
+      "word": "三峡大学",
+      "onboard_time": 1761733461,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184640,
       "num": 184640,
       "word": "关晓彤这段不像是演的",
@@ -4689,6 +4705,14 @@
       "onboard_time": 1761546920,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183028,
+      "num": 183028,
+      "word": "建议大家点外卖不要点预订单",
+      "onboard_time": 1761732201,
+      "rank": 30,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 183002,
@@ -4905,14 +4929,6 @@
       "onboard_time": 1761561561,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176105,
-      "num": 118758,
-      "word": "建议大家点外卖不要点预订单",
-      "onboard_time": 1761732201,
-      "rank": 30,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 175904,
@@ -6811,6 +6827,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 138659,
+      "num": 183741,
+      "word": "水龙吟编剧",
+      "onboard_time": 1761733821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138548,
       "num": 138548,
       "word": "肖顺尧新剧亡妻回忆录",
@@ -7675,14 +7699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128279,
-      "num": 128279,
-      "word": "三峡大学",
-      "onboard_time": 1761733461,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128203,
       "num": 128203,
       "word": "星穹铁道千星纪游PV",
@@ -8187,6 +8203,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 121442,
+      "num": 121442,
+      "word": "Deokdam要为Peanut复仇",
+      "onboard_time": 1761733461,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121248,
       "num": 121248,
       "word": "第一批贷款炒黄金亏损的人出现了",
@@ -8449,14 +8473,6 @@
       "onboard_time": 1761557301,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117432,
-      "num": 117432,
-      "word": "Deokdam要为Peanut复仇",
-      "onboard_time": 1761733461,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 117369,
@@ -9051,6 +9067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 110396,
+      "num": 110396,
+      "word": "常华森素人时期曾去山区支教",
+      "onboard_time": 1761734422,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110366,
       "num": 110366,
       "word": "在小公司上班是什么感受",
@@ -9128,6 +9152,14 @@
       "word": "EDGnice去汪星了",
       "onboard_time": 1761541103,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109429,
+      "num": 109429,
+      "word": "LCK锁定S15决赛",
+      "onboard_time": 1761733221,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -9411,6 +9443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105943,
+      "num": 208676,
+      "word": "TTG对战DRG",
+      "onboard_time": 1761733941,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105941,
       "num": 105941,
       "word": "芒果登上了罗云熙的游戏账号",
@@ -9561,6 +9601,14 @@
       "onboard_time": 1761396082,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103950,
+      "num": 103950,
+      "word": "考研考编考公三手抓",
+      "onboard_time": 1761731601,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 103949,
@@ -9803,6 +9851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100950,
+      "num": 100950,
+      "word": "买黄金之后变得爱看书了",
+      "onboard_time": 1761732501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100742,
       "num": 100742,
       "word": "宁艺卓文淇热聊",
@@ -10019,6 +10075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98598,
+      "num": 98598,
+      "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+      "onboard_time": 1761734241,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98596,
       "num": 196423,
       "word": "刘宪华躺着开唱爽到谁了",
@@ -10140,7 +10204,7 @@
     },
     {
       "raw_hot": 96541,
-      "num": 119133,
+      "num": 208537,
       "word": "孙颖莎想念爸妈做的饭",
       "onboard_time": 1761732321,
       "rank": 29,
@@ -10153,6 +10217,14 @@
       "onboard_time": 1761558441,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96402,
+      "num": 96402,
+      "word": "龚俊有这样的核心拿什么输",
+      "onboard_time": 1761734721,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96161,
@@ -10699,6 +10771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88077,
+      "num": 208596,
+      "word": "iPhone17屏幕成本或为40美元",
+      "onboard_time": 1761733881,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87936,
       "num": 87936,
       "word": "无予伦毕合体走红毯吗",
@@ -11187,6 +11267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76062,
+      "num": 173203,
+      "word": "外交部回应中国是否复购美国大豆",
+      "onboard_time": 1761733161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76037,
       "num": 194749,
       "word": "卫生巾新国标已通过审查正在批准",
@@ -11201,6 +11289,14 @@
       "onboard_time": 1761408501,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75769,
+      "num": 169350,
+      "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+      "onboard_time": 1761732082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75762,
@@ -12107,14 +12203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51920,
-      "num": 99708,
-      "word": "外交部回应中国是否复购美国大豆",
-      "onboard_time": 1761733161,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51831,
       "num": 276401,
       "word": "刘宇宁京东服饰粉丝福利",
@@ -12153,6 +12241,14 @@
       "onboard_time": 1761682874,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50027,
+      "num": 997510,
+      "word": "十五五规划建议这些与年轻人有关",
+      "onboard_time": 1761729981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50006,
@@ -12353,14 +12449,6 @@
       "onboard_time": 1761547222,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45721,
-      "num": 997510,
-      "word": "十五五规划建议这些与年轻人有关",
-      "onboard_time": 1761729981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45715,
@@ -12883,6 +12971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31071,
+      "num": 104175,
+      "word": "小酒窝带作业去工作",
+      "onboard_time": 1761733761,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30792,
       "num": 147237,
       "word": "老铺黄金有产品一夜涨6000元",
@@ -13393,14 +13489,6 @@
       "onboard_time": 1761621564,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18350,
-      "num": 99818,
-      "word": "小酒窝带作业去工作",
-      "onboard_time": 1761733761,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 18251,

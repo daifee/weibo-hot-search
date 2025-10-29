@@ -1,0 +1,410 @@
+{
+  "runTime": 1761734764773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288210,
+        "num": 1046113,
+        "word": "声生不息华流季歌手阵容",
+        "onboard_time": 1761727401,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235630,
+        "num": 235630,
+        "word": "陈震回应Model3和SU7哪个更好开",
+        "onboard_time": 1761731542,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50027,
+        "num": 213328,
+        "word": "十五五规划建议这些与年轻人有关",
+        "onboard_time": 1761729981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277267,
+        "num": 211108,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208737,
+        "num": 208737,
+        "word": "TF家族新年音乐会有53个人",
+        "onboard_time": 1761734121,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199445,
+        "num": 208724,
+        "word": "KT战胜CFO",
+        "onboard_time": 1761730941,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181272,
+        "num": 208713,
+        "word": "天地剑心",
+        "onboard_time": 1761733281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151069,
+        "num": 208697,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114536,
+        "num": 208689,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 208676,
+        "word": "TTG对战DRG",
+        "onboard_time": 1761733941,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 582195,
+        "num": 208651,
+        "word": "三峡大学通报留学生夜闯女寝",
+        "onboard_time": 1761725180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581718,
+        "num": 208641,
+        "word": "茉莉雨",
+        "onboard_time": 1761728061,
+        "rank": 11,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 451726,
+        "num": 208635,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380348,
+        "num": 208615,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88077,
+        "num": 208596,
+        "word": "iPhone17屏幕成本或为40美元",
+        "onboard_time": 1761733881,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294392,
+        "num": 208580,
+        "word": "韩国会议员开会时专心画大猩猩",
+        "onboard_time": 1761727581,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293912,
+        "num": 208571,
+        "word": "早餐只吃两颗鸡蛋的含金量",
+        "onboard_time": 1761722241,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250072,
+        "num": 208549,
+        "word": "胡歌曾前往墨脱缅怀母亲",
+        "onboard_time": 1761728781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90559,
+        "num": 208537,
+        "word": "孙颖莎想念爸妈做的饭",
+        "onboard_time": 1761732321,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137719,
+        "num": 208525,
+        "word": "暗河传 云合评论区",
+        "onboard_time": 1761732801,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499038,
+        "num": 208507,
+        "word": "金价下跌备婚人买三金纠结症犯了",
+        "onboard_time": 1761727461,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 211890,
+        "num": 208500,
+        "word": "Angelababy亮相重阳节敬老活动",
+        "onboard_time": 1761733641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208489,
+        "num": 208489,
+        "word": "易烊千玺同学好帅",
+        "onboard_time": 1761726562,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207190,
+        "num": 207190,
+        "word": "钟楚曦C位闹剧该收场了",
+        "onboard_time": 1761726260,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186437,
+        "num": 186437,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184755,
+        "num": 184755,
+        "word": "三峡大学",
+        "onboard_time": 1761733461,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138659,
+        "num": 183741,
+        "word": "水龙吟编剧",
+        "onboard_time": 1761733821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183028,
+        "num": 183028,
+        "word": "建议大家点外卖不要点预订单",
+        "onboard_time": 1761732201,
+        "rank": 27,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 76062,
+        "num": 173203,
+        "word": "外交部回应中国是否复购美国大豆",
+        "onboard_time": 1761733161,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75769,
+        "num": 169350,
+        "word": "三峡大学女生宿舍因丢内衣加装钢刺",
+        "onboard_time": 1761732082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165561,
+        "num": 165561,
+        "word": "时代峰峻只放一人出席吗",
+        "onboard_time": 1761731061,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151362,
+        "num": 151362,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128346,
+        "num": 128346,
+        "word": "Viper让圣枪哥小心Faker",
+        "onboard_time": 1761730401,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121442,
+        "num": 121442,
+        "word": "Deokdam要为Peanut复仇",
+        "onboard_time": 1761733461,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110396,
+        "num": 110396,
+        "word": "常华森素人时期曾去山区支教",
+        "onboard_time": 1761734422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109429,
+        "num": 109429,
+        "word": "LCK锁定S15决赛",
+        "onboard_time": 1761733221,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "见弟弟被捅哥哥持杀猪刀致2人死亡",
+        "onboard_time": 1761727102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 105252,
+        "word": "Ning说TES打不过G2",
+        "onboard_time": 1761732620,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59785,
+        "num": 104575,
+        "word": "历史上黄金牛市是如何终结的",
+        "onboard_time": 1761727642,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31071,
+        "num": 104175,
+        "word": "小酒窝带作业去工作",
+        "onboard_time": 1761733761,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103950,
+        "num": 103950,
+        "word": "考研考编考公三手抓",
+        "onboard_time": 1761731601,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102052,
+        "num": 102052,
+        "word": "GEN将对战KT",
+        "onboard_time": 1761733461,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101454,
+        "num": 101454,
+        "word": "杨紫是不是醉氧了",
+        "onboard_time": 1761723621,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100950,
+        "num": 100950,
+        "word": "买黄金之后变得爱看书了",
+        "onboard_time": 1761732501,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99218,
+        "num": 99218,
+        "word": "韩网狂夸韩女的上海汉服妆造",
+        "onboard_time": 1761716000,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98598,
+        "num": 98598,
+        "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+        "onboard_time": 1761734241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98407,
+        "num": 98407,
+        "word": "钟楚曦VOGUE战袍被挂出标价88万",
+        "onboard_time": 1761729680,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 96402,
+        "num": 96402,
+        "word": "龚俊有这样的核心拿什么输",
+        "onboard_time": 1761734721,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57851,
+        "num": 96395,
+        "word": "外交部回应中美元首即将会晤",
+        "onboard_time": 1761725780,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53054,
+        "num": 96384,
+        "word": "美X59飞机首次试飞",
+        "onboard_time": 1761729141,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}
