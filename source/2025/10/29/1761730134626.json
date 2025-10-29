@@ -1,0 +1,410 @@
+{
+  "runTime": 1761730134626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 671162,
+        "num": 1107385,
+        "word": "茉莉雨",
+        "onboard_time": 1761728061,
+        "rank": 0,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 245465,
+        "num": 245465,
+        "word": "中美元首釜山会晤",
+        "onboard_time": 1761722961,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11822,
+        "num": 236449,
+        "word": "十五五规划建议这些与年轻人有关",
+        "onboard_time": 1761729981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 415675,
+        "num": 232332,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313870,
+        "num": 222564,
+        "word": "声生不息华流季歌手阵容",
+        "onboard_time": 1761727401,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 209826,
+        "word": "外交部回应中美元首即将会晤",
+        "onboard_time": 1761725780,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200698,
+        "num": 200698,
+        "word": "云合",
+        "onboard_time": 1761727821,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134138,
+        "num": 200595,
+        "word": "未来五年大量的钱将流向这里",
+        "onboard_time": 1761713961,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117781,
+        "num": 199616,
+        "word": "韩国会议员开会时专心画大猩猩",
+        "onboard_time": 1761727581,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115382,
+        "num": 199035,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750257,
+        "num": 198601,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 696142,
+        "num": 198378,
+        "word": "早餐只吃两颗鸡蛋的含金量",
+        "onboard_time": 1761722241,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588972,
+        "num": 197597,
+        "word": "钟楚曦C位闹剧该收场了",
+        "onboard_time": 1761726260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546185,
+        "num": 196762,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546129,
+        "num": 196258,
+        "word": "三峡大学涉事留学生逃跑被抓",
+        "onboard_time": 1761723980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916084,
+        "num": 195909,
+        "word": "王暖暖前夫俞晓东疑似电诈头目",
+        "onboard_time": 1761724821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505362,
+        "num": 195381,
+        "word": "三峡大学通报留学生夜闯女寝",
+        "onboard_time": 1761725180,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18251,
+        "num": 194967,
+        "word": "文化中国行重阳遇非遗",
+        "onboard_time": 1761704961,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404688,
+        "num": 193952,
+        "word": "易烊千玺同学好帅",
+        "onboard_time": 1761726562,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102235,
+        "num": 193757,
+        "word": "一家在拼多多开了十年的羊肉店",
+        "onboard_time": 1761728839,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 310787,
+        "num": 192843,
+        "word": "金价下跌备婚人买三金纠结症犯了",
+        "onboard_time": 1761727461,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 285100,
+        "num": 192318,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247375,
+        "num": 191776,
+        "word": "皮肤病是纯搞人心态来的吧",
+        "onboard_time": 1761729802,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208703,
+        "num": 191438,
+        "word": "见弟弟被捅哥哥持杀猪刀致2人死亡",
+        "onboard_time": 1761727102,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191100,
+        "num": 191100,
+        "word": "林俊杰回复杨幂工作室",
+        "onboard_time": 1761722121,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23572,
+        "num": 183300,
+        "word": "华为见非凡对话惠英红",
+        "onboard_time": 1761727102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181539,
+        "num": 181539,
+        "word": "钟楚曦VOGUE战袍被挂出标价88万",
+        "onboard_time": 1761729680,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168949,
+        "num": 168949,
+        "word": "三峡大学女生反抗被打伤脸部",
+        "onboard_time": 1761725900,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168897,
+        "num": 168897,
+        "word": "原来健康才是顶配人生",
+        "onboard_time": 1761729141,
+        "rank": 28,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 161312,
+        "num": 161312,
+        "word": "胡歌曾前往墨脱缅怀母亲",
+        "onboard_time": 1761728781,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231356,
+        "num": 160130,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "敖子逸原生眼没戴美瞳",
+        "onboard_time": 1761729021,
+        "rank": 31,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 154487,
+        "num": 154487,
+        "word": "张兴朝以为张艺兴跳五子棋是AI",
+        "onboard_time": 1761728301,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13377,
+        "num": 151752,
+        "word": "前程无忧推送简历被看0次弹窗",
+        "onboard_time": 1761729981,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149162,
+        "num": 149162,
+        "word": "23考研26考公",
+        "onboard_time": 1761721340,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147023,
+        "num": 147023,
+        "word": "男人的年龄23242560",
+        "onboard_time": 1761726382,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146345,
+        "num": 146345,
+        "word": "韩网狂夸韩女的上海汉服妆造",
+        "onboard_time": 1761716000,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72348,
+        "num": 146181,
+        "word": "水龙吟是罗云熙的翻身仗吗",
+        "onboard_time": 1761729860,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22530,
+        "num": 146163,
+        "word": "刘宇宁眼纱接花瓣",
+        "onboard_time": 1761729440,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118316,
+        "num": 146152,
+        "word": "历史上黄金牛市是如何终结的",
+        "onboard_time": 1761727642,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146146,
+        "num": 146146,
+        "word": "KT的状态",
+        "onboard_time": 1761729380,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "张馨予 真不把你们当外人",
+        "onboard_time": 1761720621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146055,
+        "num": 140094,
+        "word": "新音",
+        "onboard_time": 1761729621,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127659,
+        "num": 127659,
+        "word": "A股光伏产业链爆发",
+        "onboard_time": 1761726742,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123943,
+        "num": 123943,
+        "word": "花108万捡漏的300平米房子",
+        "onboard_time": 1761726742,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 120525,
+        "word": "惠英红 至今唯一的打女影后",
+        "onboard_time": 1761729621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119565,
+        "num": 119565,
+        "word": "杨紫是不是醉氧了",
+        "onboard_time": 1761723621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112528,
+        "num": 112528,
+        "word": "欧阳娜娜自己拍了旅综",
+        "onboard_time": 1761726081,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98777,
+        "num": 110588,
+        "word": "黄仁勋发出警告",
+        "onboard_time": 1761726141,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110328,
+        "num": 110328,
+        "word": "胡先煦是去意大利上体育课的吗",
+        "onboard_time": 1761729021,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}
