@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761709013948,
+  "endTime": 1761712421884,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -433,6 +433,14 @@
       "onboard_time": 1761699140,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 880741,
+      "num": 242967,
+      "word": "建议千万不要水洗鸡蛋",
+      "onboard_time": 1761708560,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 871068,
@@ -915,6 +923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 665236,
+      "num": 1106437,
+      "word": "BLG",
+      "onboard_time": 1761706939,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 658196,
       "num": 208358,
       "word": "周润发看望许绍雄",
@@ -1307,12 +1323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 533683,
-      "num": 533683,
-      "word": "BLG",
-      "onboard_time": 1761706939,
-      "rank": 3,
-      "category": "电竞"
+      "raw_hot": 532675,
+      "num": 240204,
+      "word": "36岁男子反复口腔溃疡20年以为上火",
+      "onboard_time": 1761708080,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 530520,
@@ -1739,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424398,
+      "num": 424398,
+      "word": "刘文祥 吃出整块抹布",
+      "onboard_time": 1761710601,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423544,
       "num": 419637,
       "word": "李飞重生的证据又多了",
@@ -1971,6 +1995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375119,
+      "num": 234330,
+      "word": "惠英红 从要饭第一到亚洲第一",
+      "onboard_time": 1761710121,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372304,
       "num": 272620,
       "word": "爸爸开会女儿把哭声调成静音模式",
@@ -2012,11 +2044,19 @@
     },
     {
       "raw_hot": 367244,
-      "num": 184679,
+      "num": 185126,
       "word": "沈佳润造型师审美",
       "onboard_time": 1761706401,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365383,
+      "num": 226441,
+      "word": "孕妇退房退款酒店员工发信息说恶心",
+      "onboard_time": 1761712340,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362882,
@@ -2227,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325712,
+      "num": 225110,
+      "word": "国台办称决不承诺放弃使用武力",
+      "onboard_time": 1761709041,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325560,
       "num": 346566,
       "word": "满天星簪花",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1761665780,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316361,
+      "num": 316361,
+      "word": "BLG 商K",
+      "onboard_time": 1761711682,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 314805,
@@ -2491,11 +2547,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 290467,
+      "num": 224546,
+      "word": "花少8打破奇数偶数魔咒",
+      "onboard_time": 1761711202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289702,
       "num": 169995,
       "word": "黄宗泽到院探望许绍雄",
       "onboard_time": 1761569962,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289438,
+      "num": 231938,
+      "word": "李维嘉回应回湖南卫视",
+      "onboard_time": 1761711922,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2835,6 +2907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244603,
+      "num": 244603,
+      "word": "杭州4人吃西贝点9个菜仅花2元",
+      "onboard_time": 1761710060,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243670,
       "num": 185562,
       "word": "杨紫我终于下山了",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1761444138,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234871,
+      "num": 223306,
+      "word": "四川精子库可选星座属相脸型",
+      "onboard_time": 1761708800,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 234466,
@@ -3387,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210761,
+      "num": 210761,
+      "word": "光与夜之恋",
+      "onboard_time": 1761711922,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210322,
       "num": 210322,
       "word": "印度仿制中国霹雳15导弹",
@@ -3433,14 +3529,6 @@
       "onboard_time": 1761646882,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206751,
-      "num": 206751,
-      "word": "36岁男子反复口腔溃疡20年以为上火",
-      "onboard_time": 1761708080,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206425,
@@ -3633,6 +3721,14 @@
       "onboard_time": 1761490942,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198672,
+      "num": 198672,
+      "word": "娱乐圈刘家大院的含金量",
+      "onboard_time": 1761711741,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198536,
@@ -3907,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189410,
+      "num": 189410,
+      "word": "无需羡慕你本来就很耀眼",
+      "onboard_time": 1761712281,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188615,
       "num": 188615,
       "word": "花海也在追暗河传",
@@ -4001,6 +4105,14 @@
       "onboard_time": 1761554840,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186990,
+      "num": 228879,
+      "word": "令人心动的offer",
+      "onboard_time": 1761711741,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 186570,
@@ -4131,6 +4243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183658,
+      "num": 183658,
+      "word": "被蛇咬后失联网红称手已变形",
+      "onboard_time": 1761710541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183414,
       "num": 142032,
       "word": "孟佳怎么越穿越大胆",
@@ -4163,12 +4283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182590,
+      "num": 184328,
+      "word": "男子强奸嫂子再杀人死者家属发声",
+      "onboard_time": 1761710121,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182572,
       "num": 179197,
       "word": "吴邪私家笔记2 付航",
       "onboard_time": 1761556580,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181834,
+      "num": 181834,
+      "word": "在韩国很流行的骨盆整形",
+      "onboard_time": 1761710001,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181807,
@@ -4803,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163684,
+      "num": 163684,
+      "word": "兮夜晒和Peanut聚餐照",
+      "onboard_time": 1761710480,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163650,
       "num": 163650,
       "word": "慕胥辞",
@@ -5001,6 +5145,14 @@
       "onboard_time": 1761481461,
       "rank": 35,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 159538,
+      "num": 159538,
+      "word": "黄金大跌是倒车接人还是顶部崩塌",
+      "onboard_time": 1761711442,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 159431,
@@ -5547,6 +5699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148338,
+      "num": 148338,
+      "word": "宝宝巴士对审核负责人严肃处理",
+      "onboard_time": 1761712340,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148104,
       "num": 148104,
       "word": "黄景瑜对王安宇的成见是一座大山",
@@ -5811,14 +5971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143221,
-      "num": 134332,
-      "word": "建议千万不要水洗鸡蛋",
-      "onboard_time": 1761708560,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 143021,
       "num": 143021,
       "word": "常华森直播讲高数",
@@ -5939,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139917,
+      "num": 139917,
+      "word": "内娱男团上新了",
+      "onboard_time": 1761710001,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139866,
       "num": 139866,
       "word": "百战成诗 王者荣耀自己的难忘今宵",
@@ -5956,7 +6116,7 @@
     },
     {
       "raw_hot": 139566,
-      "num": 420634,
+      "num": 438113,
       "word": "重阳久久安康",
       "onboard_time": 1761669077,
       "rank": 23,
@@ -5985,6 +6145,14 @@
       "onboard_time": 1761478401,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138883,
+      "num": 154049,
+      "word": "看完张杰之后只想看张杰了",
+      "onboard_time": 1761711682,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 138801,
@@ -6081,6 +6249,14 @@
       "onboard_time": 1761563122,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137812,
+      "num": 137812,
+      "word": "店家笑了半小时才开始做",
+      "onboard_time": 1761708380,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 137783,
@@ -6265,14 +6441,6 @@
       "onboard_time": 1761474981,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134326,
-      "num": 134326,
-      "word": "店家笑了半小时才开始做",
-      "onboard_time": 1761708380,
-      "rank": 32,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 134267,
@@ -6875,6 +7043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127597,
+      "num": 127597,
+      "word": "地球到现在养了8个小时的人",
+      "onboard_time": 1761709701,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 127416,
       "num": 163661,
       "word": "国产剧小妈文学上新了",
@@ -7307,6 +7483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120930,
+      "num": 120930,
+      "word": "女子如厕遭男同事偷拍公司让她离职",
+      "onboard_time": 1761710001,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120910,
       "num": 120910,
       "word": "张艺兴东京电影节",
@@ -7499,6 +7683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117369,
+      "num": 117369,
+      "word": "一部剧带火一座城",
+      "onboard_time": 1761708742,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117235,
       "num": 117235,
       "word": "减肥人早上称体重现状",
@@ -7529,6 +7721,14 @@
       "onboard_time": 1761696801,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116770,
+      "num": 116770,
+      "word": "吴昕这些年的变化",
+      "onboard_time": 1761712403,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116714,
@@ -7899,6 +8099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111090,
+      "num": 116926,
+      "word": "恋与深空能不能登顶",
+      "onboard_time": 1761709941,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111045,
       "num": 111045,
       "word": "日本准备发放大米粮票",
@@ -8201,6 +8409,14 @@
       "onboard_time": 1761449600,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106484,
+      "num": 130864,
+      "word": "浙江一教师轻生疑似因请病假未批",
+      "onboard_time": 1761710961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106345,
@@ -9435,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85487,
+      "num": 159992,
+      "word": "全球投资者撤资印度急了",
+      "onboard_time": 1761710421,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85298,
       "num": 86069,
       "word": "中方回应德国外长推迟访华行程",
@@ -9977,6 +10201,14 @@
       "onboard_time": 1761694340,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69014,
+      "num": 227369,
+      "word": "伟哥市场乱象调查",
+      "onboard_time": 1761710722,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 68509,
@@ -10579,6 +10811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52916,
+      "num": 152844,
+      "word": "日网称负担沉重到让日本沉沦半个世纪",
+      "onboard_time": 1761712163,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52339,
       "num": 52339,
       "word": "红舞鞋致歉消失责任无法消失",
@@ -10625,6 +10865,14 @@
       "onboard_time": 1761638783,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 50841,
+      "num": 228073,
+      "word": "宝宝巴士整改声明",
+      "onboard_time": 1761711802,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50672,
@@ -11233,14 +11481,6 @@
       "onboard_time": 1761584716,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31448,
-      "num": 134333,
-      "word": "四川精子库可选星座属相脸型",
-      "onboard_time": 1761708800,
-      "rank": 30,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 31201,
