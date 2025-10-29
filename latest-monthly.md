@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 07:38:41
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 10:00:31
 </p>
 </blockquote>
 <p>
@@ -1571,6 +1571,12 @@ VOGUE大合影（热度：1170936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81%23" target="weibo">
 2架美军机在南海相继坠毁（热度：1149391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%93%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A4%A7%E5%AD%A6%E6%9F%A5%E5%87%BA%E8%89%B2%E5%BC%B1%E9%81%AD%E9%80%80%E5%AD%A6%23" target="weibo">
+高考体检正常大学查出色弱遭退学（热度：1148659）
 </a>
 </li>
 
@@ -4311,6 +4317,12 @@ W盛典 赢麻了（热度：765776）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23" target="weibo">
+特朗普称轰炸广岛长崎只是小冲突（热度：721741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C%23" target="weibo">
 孙颖莎vs陈幸同（热度：720452）
 </a>
@@ -5997,20 +6009,8 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23" target="weibo">
-柯佳嬿老公涉嫌逃兵役（热度：594355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%E9%A6%96%E6%97%A5%E4%B8%8D%E5%88%B012%E7%82%B9%E6%BB%A1%E5%BA%A7%23" target="weibo">
-西贝降价首日不到12点满座（热度：594000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
-A股太强了（热度：593831）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E9%98%B3%E8%8A%82%23" target="weibo">
+重阳节（热度：594376）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761694721672,
+  "endTime": 1761703231526,
   "band_list": [
+    {
+      "raw_hot": 1148659,
+      "num": 1183785,
+      "word": "高考体检正常大学查出色弱遭退学",
+      "onboard_time": 1761696982,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 991274,
       "num": 991274,
@@ -19,6 +27,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888962,
+      "num": 888962,
+      "word": "台湾",
+      "onboard_time": 1761699140,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 721741,
+      "num": 721741,
+      "word": "特朗普称轰炸广岛长崎只是小冲突",
+      "onboard_time": 1761698602,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 686128,
       "num": 194214,
       "word": "男子强奸嫂子再杀人死者家属律师发声",
@@ -27,12 +51,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594376,
+      "num": 594376,
+      "word": "重阳节",
+      "onboard_time": 1761692716,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559342,
+      "num": 212264,
+      "word": "马思纯李沁这是睡一起了吗",
+      "onboard_time": 1761694879,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501113,
       "num": 501113,
       "word": "大批轰6K贴近台湾岛",
       "onboard_time": 1761663442,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490548,
+      "num": 490548,
+      "word": "喀什大学编制到人无非升即走引关注",
+      "onboard_time": 1761697161,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444245,
@@ -52,7 +100,7 @@
     },
     {
       "raw_hot": 430205,
-      "num": 198799,
+      "num": 239073,
       "word": "被蛇咬后失联的网红已找到",
       "onboard_time": 1761692716,
       "rank": 10,
@@ -67,12 +115,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416197,
+      "num": 416197,
+      "word": "宝宝巴士致歉",
+      "onboard_time": 1761696680,
+      "rank": 8,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 414831,
       "num": 414831,
       "word": "参加葬礼围墙倒塌25岁女孩与姑姑遇难",
       "onboard_time": 1761665481,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382974,
+      "num": 362556,
+      "word": "刘亦菲李宇春红毯C位",
+      "onboard_time": 1761695900,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373203,
+      "num": 373203,
+      "word": "很多台湾年轻人不知抗日史",
+      "onboard_time": 1761662242,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 367089,
@@ -92,11 +164,19 @@
     },
     {
       "raw_hot": 352511,
-      "num": 185920,
+      "num": 227730,
       "word": "赵樱子自曝前男友片酬2000万",
       "onboard_time": 1761692839,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348017,
+      "num": 348017,
+      "word": "白鹿开车了",
+      "onboard_time": 1761692776,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 336497,
@@ -115,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304561,
+      "num": 304561,
+      "word": "杨幂黄明昊手挽着手下班",
+      "onboard_time": 1761697640,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 304444,
+      "num": 304444,
+      "word": "青岛烤肠大叔要2年内还清4600万",
+      "onboard_time": 1761696921,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282350,
       "num": 282350,
       "word": "许绍雄岳家捐赠了岭南四大园林之首",
@@ -123,16 +219,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258217,
-      "num": 258217,
-      "word": "很多台湾年轻人不知抗日史",
-      "onboard_time": 1761662242,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 279783,
+      "num": 279783,
+      "word": "新人拍婚纱照遭遇黑天鹅抢新娘",
+      "onboard_time": 1761701420,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243670,
-      "num": 165246,
+      "num": 185562,
       "word": "杨紫我终于下山了",
       "onboard_time": 1761693018,
       "rank": 17,
@@ -147,6 +243,30 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 211946,
+      "num": 211946,
+      "word": "以色列总理下令强力打击加沙",
+      "onboard_time": 1761694340,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211378,
+      "num": 219249,
+      "word": "生命树是正午阳光战损率最高的戏",
+      "onboard_time": 1761696020,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211052,
+      "num": 211052,
+      "word": "王耀庆工作室回应",
+      "onboard_time": 1761694699,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -155,16 +275,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202115,
-      "num": 202115,
-      "word": "重阳节",
-      "onboard_time": 1761692716,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190626,
-      "num": 188872,
+      "num": 212530,
       "word": "许绍雄73岁只身一人录节目",
       "onboard_time": 1761678314,
       "rank": 29,
@@ -177,6 +289,22 @@
       "onboard_time": 1761657921,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182561,
+      "num": 182561,
+      "word": "韩国又一性犯罪网站曝光",
+      "onboard_time": 1761702380,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168416,
+      "num": 168416,
+      "word": "独居女子遭陌生男多次试开家门密码",
+      "onboard_time": 1761698841,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158331,
@@ -195,6 +323,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154519,
+      "num": 154519,
+      "word": "重要账号建议密码长度不少于12位",
+      "onboard_time": 1761702140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153857,
+      "num": 153857,
+      "word": "金价暴跌有投资者打算割肉离场",
+      "onboard_time": 1761692776,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150118,
       "num": 150118,
       "word": "花少要拍团综了",
@@ -203,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148800,
-      "num": 148800,
-      "word": "金价暴跌有投资者打算割肉离场",
-      "onboard_time": 1761692776,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 147963,
+      "num": 147963,
+      "word": "南北方一起升温",
+      "onboard_time": 1761700880,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140476,
@@ -225,6 +369,22 @@
       "onboard_time": 1761669077,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139529,
+      "num": 139529,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135891,
+      "num": 135891,
+      "word": "巴西警方击毙至少56人",
+      "onboard_time": 1761699201,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132276,
@@ -249,6 +409,14 @@
       "onboard_time": 1761642622,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129849,
+      "num": 129849,
+      "word": "Asen dissback",
+      "onboard_time": 1761695299,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 129821,
@@ -283,20 +451,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123715,
-      "num": 150678,
-      "word": "白鹿开车了",
-      "onboard_time": 1761692776,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121554,
       "num": 121554,
       "word": "欢喜哥许绍雄逝世",
       "onboard_time": 1761621144,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120467,
+      "num": 120467,
+      "word": "恋与深空开门",
+      "onboard_time": 1761699979,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116908,
+      "num": 116908,
+      "word": "金饰价格下跌近百元",
+      "onboard_time": 1761696801,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 116215,
@@ -315,11 +491,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113386,
+      "num": 113386,
+      "word": "美队当爸爸",
+      "onboard_time": 1761696680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112796,
       "num": 112796,
       "word": "张馨予化妆师火了",
       "onboard_time": 1761671356,
       "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107749,
+      "num": 107749,
+      "word": "特朗普在未领薪的美军面前跳舞",
+      "onboard_time": 1761702679,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104897,
+      "num": 104897,
+      "word": "邢菲拖着一尾钻石裙",
+      "onboard_time": 1761699261,
+      "rank": 40,
       "category": "作品衍生,时尚"
     },
     {
@@ -339,11 +539,51 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97067,
+      "num": 97067,
+      "word": "特朗普吐槽美航母电磁弹射",
+      "onboard_time": 1761702679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96894,
       "num": 96894,
       "word": "惠州一路边小货车被指装过亿现金",
       "onboard_time": 1761664462,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93834,
+      "num": 93834,
+      "word": "里约剿匪行动",
+      "onboard_time": 1761701960,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93376,
+      "num": 93376,
+      "word": "iPhone锁屏滑动相机能关闭了",
+      "onboard_time": 1761696322,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 93340,
+      "num": 93340,
+      "word": "国际金价还在跌",
+      "onboard_time": 1761699921,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93016,
+      "num": 93016,
+      "word": "今天这9个提醒转给长辈们",
+      "onboard_time": 1761701360,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -355,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 89979,
+      "num": 89979,
+      "word": "恋与深空",
+      "onboard_time": 1761693739,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 89009,
       "num": 89009,
       "word": "李沁好像一朵蝴蝶兰",
@@ -364,7 +612,7 @@
     },
     {
       "raw_hot": 88984,
-      "num": 99856,
+      "num": 140147,
       "word": "国色芳华",
       "onboard_time": 1761693438,
       "rank": 28,
@@ -379,22 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88158,
-      "num": 88158,
-      "word": "以色列总理下令强力打击加沙",
-      "onboard_time": 1761694340,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 86720,
-      "num": 86720,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83354,
       "num": 83354,
       "word": "刘浩存蓝色纱裙",
@@ -403,20 +635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82894,
+      "num": 82894,
+      "word": "国安机关提醒密码设置不是小事",
+      "onboard_time": 1761701241,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77455,
       "num": 77455,
       "word": "白鹿跑男新疆要染限定发色",
       "onboard_time": 1761657863,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77137,
-      "num": 77137,
-      "word": "恋与深空",
-      "onboard_time": 1761693739,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 76071,
@@ -587,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53194,
-      "num": 53194,
-      "word": "王耀庆工作室回应",
-      "onboard_time": 1761694699,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50672,
       "num": 50672,
       "word": "宁绣绣封二又相聚了",
@@ -724,7 +948,7 @@
     },
     {
       "raw_hot": 17118,
-      "num": 543759,
+      "num": 866108,
       "word": "网络安全法完成修改",
       "onboard_time": 1761637701,
       "rank": 2,
