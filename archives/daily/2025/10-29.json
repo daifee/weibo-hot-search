@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761704587245,
+  "endTime": 1761708178313,
   "band_list": [
     {
       "raw_hot": 1148659,
@@ -33,6 +33,22 @@
       "onboard_time": 1761699140,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 833492,
+      "num": 383251,
+      "word": "韩国又一性犯罪网站曝光",
+      "onboard_time": 1761702380,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 828629,
+      "num": 1132580,
+      "word": "花少8要去南极",
+      "onboard_time": 1761703939,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 721741,
@@ -91,6 +107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461005,
+      "num": 226574,
+      "word": "许绍雄认佘诗曼做干女儿原因",
+      "onboard_time": 1761704901,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455552,
+      "num": 213650,
+      "word": "彭小苒工作室急招",
+      "onboard_time": 1761704779,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444245,
       "num": 197606,
       "word": "王耀庆对钟楚曦贴脸开大",
@@ -139,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383251,
-      "num": 383251,
-      "word": "韩国又一性犯罪网站曝光",
-      "onboard_time": 1761702380,
-      "rank": 24,
-      "category": "海外新闻"
+      "raw_hot": 410082,
+      "num": 410082,
+      "word": "BLG",
+      "onboard_time": 1761706939,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 382974,
@@ -161,6 +193,14 @@
       "onboard_time": 1761662242,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 367244,
+      "num": 159880,
+      "word": "沈佳润造型师审美",
+      "onboard_time": 1761706401,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 367089,
@@ -227,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287045,
+      "num": 287045,
+      "word": "国台办新任发言人亮相",
+      "onboard_time": 1761705979,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 282350,
       "num": 282350,
       "word": "许绍雄岳家捐赠了岭南四大园林之首",
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246418,
+      "num": 246418,
+      "word": "沈腾 出发团唯一女主角",
+      "onboard_time": 1761705859,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 243670,
@@ -275,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206138,
-      "num": 206138,
-      "word": "花少8要去南极",
-      "onboard_time": 1761703939,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203153,
       "num": 155283,
       "word": "代露娃摔了",
@@ -315,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172407,
+      "num": 172407,
+      "word": "范丞丞唱着唱着亲了沈腾一口",
+      "onboard_time": 1761705919,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168416,
       "num": 168416,
       "word": "独居女子遭陌生男多次试开家门密码",
@@ -323,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162699,
-      "num": 162699,
+      "raw_hot": 168285,
+      "num": 168285,
       "word": "宝宝巴士客服回应APP跳转成人广告",
       "onboard_time": 1761669139,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162967,
+      "num": 162967,
+      "word": "重器官宣杀青",
+      "onboard_time": 1761706279,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 158331,
@@ -363,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 153215,
+      "num": 153215,
+      "word": "迪丽热巴 双城",
+      "onboard_time": 1761707900,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150118,
       "num": 150118,
       "word": "花少要拍团综了",
@@ -371,11 +443,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149167,
+      "num": 149167,
+      "word": "梅婷向观众介绍杨紫",
+      "onboard_time": 1761705979,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147963,
       "num": 147963,
       "word": "南北方一起升温",
       "onboard_time": 1761700880,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142591,
+      "num": 142591,
+      "word": "李宇嘉被冯程郎素颜吓到",
+      "onboard_time": 1761707420,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141767,
+      "num": 141767,
+      "word": "女生遭同学殴打13次确诊精神分裂",
+      "onboard_time": 1761707480,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -388,7 +484,7 @@
     },
     {
       "raw_hot": 139566,
-      "num": 139566,
+      "num": 420634,
       "word": "重阳久久安康",
       "onboard_time": 1761669077,
       "rank": 23,
@@ -427,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131436,
+      "num": 131436,
+      "word": "80岁女儿有个110岁可爱妈妈",
+      "onboard_time": 1761705200,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130606,
       "num": 130606,
       "word": "女狱警与囚犯发生关系还有囚犯放风",
@@ -449,6 +553,14 @@
       "onboard_time": 1761670098,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129413,
+      "num": 129413,
+      "word": "美警方回应运猴车翻车带病毒猴逃跑",
+      "onboard_time": 1761705260,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128485,
@@ -481,6 +593,14 @@
       "onboard_time": 1761621144,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121248,
+      "num": 121248,
+      "word": "第一批贷款炒黄金亏损的人出现了",
+      "onboard_time": 1761705260,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 121197,
@@ -531,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113040,
+      "num": 113040,
+      "word": "女子喜提10万订单后银行卡被封",
+      "onboard_time": 1761707240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112796,
       "num": 112796,
       "word": "张馨予化妆师火了",
@@ -539,12 +667,68 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112659,
+      "num": 112659,
+      "word": "小龙虾替代品大量上市了",
+      "onboard_time": 1761707480,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 112602,
+      "num": 112602,
+      "word": "水龙吟没喝中药",
+      "onboard_time": 1761707300,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108938,
+      "num": 108938,
+      "word": "林一cos铁筒僵尸",
+      "onboard_time": 1761704779,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107249,
+      "num": 107249,
+      "word": "陈幸同0比3爆冷落败",
+      "onboard_time": 1761705679,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104897,
       "num": 104897,
       "word": "邢菲拖着一尾钻石裙",
       "onboard_time": 1761699261,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 103944,
+      "num": 103944,
+      "word": "杨幂章若楠周雨彤同框",
+      "onboard_time": 1761706519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 161749,
+      "word": "京东真发钱每人1万全网比价",
+      "onboard_time": 1761705020,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "美警方称逃跑实验猴有攻击性",
+      "onboard_time": 1761703521,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99356,
@@ -579,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96175,
+      "num": 96175,
+      "word": "36岁男子反复口腔溃疡20年以为上火",
+      "onboard_time": 1761708080,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93834,
       "num": 93834,
       "word": "里约剿匪行动",
@@ -601,14 +793,6 @@
       "onboard_time": 1761699921,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93296,
-      "num": 93296,
-      "word": "美警方称逃跑实验猴有攻击性",
-      "onboard_time": 1761703521,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 93016,
@@ -875,6 +1059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47634,
+      "num": 112607,
+      "word": "BOSS直聘处置近2万刷单账号",
+      "onboard_time": 1761707540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47527,
       "num": 47527,
       "word": "王者虐待五旬老人",
@@ -913,6 +1105,14 @@
       "onboard_time": 1761685154,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33805,
+      "num": 128252,
+      "word": "宝宝巴士就擦边广告向当事人道歉",
+      "onboard_time": 1761708020,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32521,
@@ -1033,6 +1233,9 @@
     },
     {
       "word": "#十五五规划建议发布#"
+    },
+    {
+      "word": "#习近平关于十五五规划的重要论断#"
     }
   ]
 }

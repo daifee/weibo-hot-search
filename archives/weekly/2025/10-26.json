@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761704587245,
+  "endTime": 1761708178313,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -507,12 +507,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 833492,
+      "num": 383251,
+      "word": "韩国又一性犯罪网站曝光",
+      "onboard_time": 1761702380,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 833201,
       "num": 1113609,
       "word": "Peanut燃尽了",
       "onboard_time": 1761649462,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 828629,
+      "num": 1132580,
+      "word": "花少8要去南极",
+      "onboard_time": 1761703939,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 822408,
@@ -1563,11 +1579,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461005,
+      "num": 226574,
+      "word": "许绍雄认佘诗曼做干女儿原因",
+      "onboard_time": 1761704901,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456398,
       "num": 218582,
       "word": "陈道明从未否认过自己不是易烊千玺",
       "onboard_time": 1761543801,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455552,
+      "num": 213650,
+      "word": "彭小苒工作室急招",
+      "onboard_time": 1761704779,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1803,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410082,
+      "num": 410082,
+      "word": "BLG",
+      "onboard_time": 1761706939,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405917,
       "num": 214069,
       "word": "大二学生家中看色情片窒息而亡",
@@ -1881,14 +1921,6 @@
       "onboard_time": 1761573263,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383251,
-      "num": 383251,
-      "word": "韩国又一性犯罪网站曝光",
-      "onboard_time": 1761702380,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 382974,
@@ -1977,6 +2009,14 @@
       "onboard_time": 1761459560,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367244,
+      "num": 159880,
+      "word": "沈佳润造型师审美",
+      "onboard_time": 1761706401,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 362882,
@@ -2483,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287045,
+      "num": 287045,
+      "word": "国台办新任发言人亮相",
+      "onboard_time": 1761705979,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 286726,
       "num": 286726,
       "word": "恋与深空",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1761472160,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246418,
+      "num": 246418,
+      "word": "沈腾 出发团唯一女主角",
+      "onboard_time": 1761705859,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 246332,
@@ -3369,14 +3425,6 @@
       "onboard_time": 1761556520,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206138,
-      "num": 206138,
-      "word": "花少8要去南极",
-      "onboard_time": 1761703939,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 205934,
@@ -4395,6 +4443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172407,
+      "num": 172407,
+      "word": "范丞丞唱着唱着亲了沈腾一口",
+      "onboard_time": 1761705919,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172182,
       "num": 109111,
       "word": "老君山再现阴阳分界线",
@@ -4536,6 +4592,14 @@
       "word": "独居女子遭陌生男多次试开家门密码",
       "onboard_time": 1761698841,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168285,
+      "num": 168285,
+      "word": "宝宝巴士客服回应APP跳转成人广告",
+      "onboard_time": 1761669139,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4739,12 +4803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162699,
-      "num": 162699,
-      "word": "宝宝巴士客服回应APP跳转成人广告",
-      "onboard_time": 1761669139,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 162967,
+      "num": 162967,
+      "word": "重器官宣杀青",
+      "onboard_time": 1761706279,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 162560,
@@ -5243,6 +5307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153215,
+      "num": 153215,
+      "word": "迪丽热巴 双城",
+      "onboard_time": 1761707900,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153133,
       "num": 153133,
       "word": "不要轻易尝试冰冻柚子",
@@ -5417,6 +5489,14 @@
       "onboard_time": 1761624864,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149167,
+      "num": 149167,
+      "word": "梅婷向观众介绍杨紫",
+      "onboard_time": 1761705979,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 148600,
@@ -5723,6 +5803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142591,
+      "num": 142591,
+      "word": "李宇嘉被冯程郎素颜吓到",
+      "onboard_time": 1761707420,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142401,
       "num": 142401,
       "word": "成毅撞肩这一下把我钓成翘嘴了",
@@ -5761,6 +5849,14 @@
       "onboard_time": 1761482720,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141767,
+      "num": 141767,
+      "word": "女生遭同学殴打13次确诊精神分裂",
+      "onboard_time": 1761707480,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141635,
@@ -5836,7 +5932,7 @@
     },
     {
       "raw_hot": 139566,
-      "num": 139566,
+      "num": 420634,
       "word": "重阳久久安康",
       "onboard_time": 1761669077,
       "rank": 23,
@@ -6435,6 +6531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131436,
+      "num": 131436,
+      "word": "80岁女儿有个110岁可爱妈妈",
+      "onboard_time": 1761705200,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131392,
       "num": 131392,
       "word": "陶喆去了广东也得进厂",
@@ -6617,6 +6721,14 @@
       "onboard_time": 1761529700,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129413,
+      "num": 129413,
+      "word": "美警方回应运猴车翻车带病毒猴逃跑",
+      "onboard_time": 1761705260,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128896,
@@ -7107,6 +7219,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 121248,
+      "num": 121248,
+      "word": "第一批贷款炒黄金亏损的人出现了",
+      "onboard_time": 1761705260,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121197,
       "num": 121197,
       "word": "办个eSIM怎么这么难",
@@ -7579,6 +7699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113040,
+      "num": 113040,
+      "word": "女子喜提10万订单后银行卡被封",
+      "onboard_time": 1761707240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113017,
       "num": 113017,
       "word": "爱吃榴莲和爱吃肥肠的都沉默了",
@@ -7617,6 +7745,22 @@
       "onboard_time": 1761671356,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112659,
+      "num": 112659,
+      "word": "小龙虾替代品大量上市了",
+      "onboard_time": 1761707480,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 112602,
+      "num": 112602,
+      "word": "水龙吟没喝中药",
+      "onboard_time": 1761707300,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 112550,
@@ -7843,6 +7987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108938,
+      "num": 108938,
+      "word": "林一cos铁筒僵尸",
+      "onboard_time": 1761704779,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108755,
       "num": 108755,
       "word": "Ning谈LPL和LCK教练差距",
@@ -7945,6 +8097,14 @@
       "onboard_time": 1761553521,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107249,
+      "num": 107249,
+      "word": "陈幸同0比3爆冷落败",
+      "onboard_time": 1761705679,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 107129,
@@ -8155,6 +8315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103944,
+      "num": 103944,
+      "word": "杨幂章若楠周雨彤同框",
+      "onboard_time": 1761706519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103433,
       "num": 196109,
       "word": "龚俊李沁牵手这段好嗑",
@@ -8185,6 +8353,14 @@
       "onboard_time": 1761527001,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 102879,
+      "num": 161749,
+      "word": "京东真发钱每人1万全网比价",
+      "onboard_time": 1761705020,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 102823,
@@ -8313,6 +8489,14 @@
       "onboard_time": 1761559221,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101002,
+      "num": 101002,
+      "word": "美警方称逃跑实验猴有攻击性",
+      "onboard_time": 1761703521,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100961,
@@ -8603,6 +8787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96175,
+      "num": 96175,
+      "word": "36岁男子反复口腔溃疡20年以为上火",
+      "onboard_time": 1761708080,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96161,
       "num": 96161,
       "word": "花开锦绣首发预告",
@@ -8809,14 +9001,6 @@
       "onboard_time": 1761699921,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93296,
-      "num": 93296,
-      "word": "美警方称逃跑实验猴有攻击性",
-      "onboard_time": 1761703521,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 93016,
@@ -10507,6 +10691,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 47634,
+      "num": 112607,
+      "word": "BOSS直聘处置近2万刷单账号",
+      "onboard_time": 1761707540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47527,
       "num": 47527,
       "word": "王者虐待五旬老人",
@@ -10920,6 +11112,14 @@
       "word": "网络安全法完成修改",
       "onboard_time": 1761637701,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33805,
+      "num": 128252,
+      "word": "宝宝巴士就擦边广告向当事人道歉",
+      "onboard_time": 1761708020,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -11708,6 +11908,9 @@
     },
     {
       "word": "#关于十五五规划建议的说明#"
+    },
+    {
+      "word": "#习近平关于十五五规划的重要论断#"
     }
   ]
 }
