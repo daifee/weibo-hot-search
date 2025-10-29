@@ -1,0 +1,410 @@
+{
+  "runTime": 1761756675214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737448,
+        "num": 744727,
+        "word": "Elk发文澄清",
+        "onboard_time": 1761745042,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 504950,
+        "num": 504950,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1761743662,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32700,
+        "num": 503210,
+        "word": "中国是韩国第一大贸易伙伴国",
+        "onboard_time": 1761743901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214114,
+        "num": 497013,
+        "word": "新毒株甲型H3N2来袭",
+        "onboard_time": 1761745042,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 161139,
+        "num": 493975,
+        "word": "易烊千玺跳失重狂野的探戈",
+        "onboard_time": 1761749662,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139682,
+        "num": 484785,
+        "word": "日高校副校长说高市早苗做的过火",
+        "onboard_time": 1761750323,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117512,
+        "num": 483430,
+        "word": "小米高管回应巨省电是空调名",
+        "onboard_time": 1761748043,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113381,
+        "num": 476053,
+        "word": "日本网民怒批高市早苗谄媚",
+        "onboard_time": 1761747982,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112569,
+        "num": 470172,
+        "word": "12306回应轮椅旅客深圳北站行路难",
+        "onboard_time": 1761751521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108655,
+        "num": 467433,
+        "word": "TTG发文道歉",
+        "onboard_time": 1761752900,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 874701,
+        "num": 461824,
+        "word": "on",
+        "onboard_time": 1761746363,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 458070,
+        "num": 458070,
+        "word": "高铁上上个厕所1万多的电脑没了",
+        "onboard_time": 1761739460,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419025,
+        "num": 419025,
+        "word": "蒋易孙天宇",
+        "onboard_time": 1761752121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223729,
+        "num": 418753,
+        "word": "李一桐送房求李荣浩给自己写歌",
+        "onboard_time": 1761748823,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219541,
+        "num": 418191,
+        "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+        "onboard_time": 1761747982,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217172,
+        "num": 417709,
+        "word": "Bin",
+        "onboard_time": 1761746063,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199590,
+        "num": 417475,
+        "word": "杨雨光 李明磊",
+        "onboard_time": 1761750323,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180310,
+        "num": 417048,
+        "word": "酷酷的滕 团里有人结婚了吗",
+        "onboard_time": 1761750742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154552,
+        "num": 416459,
+        "word": "沈梦辰下楼梯摔倒",
+        "onboard_time": 1761742941,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97530,
+        "num": 415919,
+        "word": "王曼昱父母用爱托举的奥运冠军",
+        "onboard_time": 1761751701,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135827,
+        "num": 415843,
+        "word": "高反失温女孩昏迷19天后苏醒",
+        "onboard_time": 1761753921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133488,
+        "num": 415442,
+        "word": "彭小苒收到了2000多份简历",
+        "onboard_time": 1761741803,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100937,
+        "num": 415009,
+        "word": "千万网红仙女酵母已近一年无收入",
+        "onboard_time": 1761738321,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87523,
+        "num": 414180,
+        "word": "蒋易发博",
+        "onboard_time": 1761751701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76077,
+        "num": 414129,
+        "word": "坚持晚睡一个小时的身体变化",
+        "onboard_time": 1761743602,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 71980,
+        "num": 413411,
+        "word": "花少浪姐团 审美疲劳",
+        "onboard_time": 1761736221,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64345,
+        "num": 413065,
+        "word": "王权富贵被万剑穿心我等了两年",
+        "onboard_time": 1761752421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56723,
+        "num": 412735,
+        "word": "张杰带着天下杀回来了",
+        "onboard_time": 1761748522,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31223,
+        "num": 412142,
+        "word": "国乒WTT蒙彼利埃站四连败",
+        "onboard_time": 1761746663,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30769,
+        "num": 411666,
+        "word": "广州小蛮腰换上限定时装",
+        "onboard_time": 1761746182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75426,
+        "num": 411446,
+        "word": "北川 基地吃饭",
+        "onboard_time": 1761751822,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59618,
+        "num": 410637,
+        "word": "李明磊为什么被叫婶儿",
+        "onboard_time": 1761753380,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58642,
+        "num": 410266,
+        "word": "Shadow 三天没出门",
+        "onboard_time": 1761746542,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58520,
+        "num": 409981,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57975,
+        "num": 409377,
+        "word": "建议大家点外卖不要点预订单",
+        "onboard_time": 1761732201,
+        "rank": 34,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 57718,
+        "num": 409001,
+        "word": "成毅李一桐陪看哭了",
+        "onboard_time": 1761747802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55366,
+        "num": 408441,
+        "word": "建议早餐要吃够4类食物",
+        "onboard_time": 1761748043,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54195,
+        "num": 408134,
+        "word": "高超 一辈子就只过了5分钟消停日子",
+        "onboard_time": 1761749003,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53883,
+        "num": 407508,
+        "word": "新婚夫妻结婚当天被新娘亲哥拦车",
+        "onboard_time": 1761734241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36529,
+        "num": 407127,
+        "word": "爸妈爷爷是潘展乐最稳的靠山",
+        "onboard_time": 1761754580,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50818,
+        "num": 406826,
+        "word": "张雅钦对卢昱晓的偏爱藏不住了",
+        "onboard_time": 1761748464,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45490,
+        "num": 406371,
+        "word": "井胧请教产后恢复问题",
+        "onboard_time": 1761749844,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45259,
+        "num": 405861,
+        "word": "肖宇梁的打戏戒不掉",
+        "onboard_time": 1761756199,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43713,
+        "num": 405277,
+        "word": "韩国偶遇刘强东章泽天",
+        "onboard_time": 1761737480,
+        "rank": 43,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 41769,
+        "num": 405127,
+        "word": "Knight 大黄直播间",
+        "onboard_time": 1761746904,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 404524,
+        "word": "Knight开播回应特别想打T1",
+        "onboard_time": 1761749963,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39603,
+        "num": 404035,
+        "word": "昆明警方通报校外男子在高校自杀身亡",
+        "onboard_time": 1761745642,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38851,
+        "num": 403885,
+        "word": "DRG回应战胜TTG",
+        "onboard_time": 1761755959,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28221,
+        "num": 403233,
+        "word": "中国国家队祝福冬奥健儿",
+        "onboard_time": 1761754341,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23572,
+        "num": 402970,
+        "word": "北京发布大雾预警",
+        "onboard_time": 1761752721,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}
