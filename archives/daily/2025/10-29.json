@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761745875963,
+  "endTime": 1761748105746,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -9,6 +9,14 @@
       "onboard_time": 1761712340,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2343800,
+      "num": 2343800,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 1921241,
@@ -35,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108672,
+      "num": 249948,
+      "word": "on",
+      "onboard_time": 1761746363,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1080897,
       "num": 997025,
       "word": "王暖暖前夫俞晓东疑似电诈头目",
       "onboard_time": 1761724821,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1057994,
-      "num": 1169279,
-      "word": "Elk发文澄清",
-      "onboard_time": 1761745042,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 991274,
@@ -83,7 +91,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 942572,
+      "raw_hot": 956930,
       "num": 930033,
       "word": "沈梦辰下楼梯摔倒",
       "onboard_time": 1761742941,
@@ -243,6 +251,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 610956,
+      "num": 249720,
+      "word": "Bin",
+      "onboard_time": 1761746063,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 602810,
       "num": 602810,
       "word": "花少浪姐团 审美疲劳",
@@ -299,12 +315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530650,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761743662,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525709,
       "num": 525709,
       "word": "网传印度人聚众在广州酒店大厅过夜",
       "onboard_time": 1761740781,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513547,
+      "num": 249622,
+      "word": "Shadow 三天没出门",
+      "onboard_time": 1761746542,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 501113,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419721,
-      "num": 1046361,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1761743662,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 416197,
       "num": 416197,
       "word": "宝宝巴士致歉",
@@ -577,6 +601,14 @@
       "onboard_time": 1761741742,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361502,
+      "num": 361502,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 352511,
@@ -811,6 +843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249476,
+      "num": 249476,
+      "word": "小米高管回应巨省电是空调名",
+      "onboard_time": 1761748043,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249370,
       "num": 249370,
       "word": "沈腾 出发团唯一女主角",
@@ -977,6 +1017,14 @@
       "onboard_time": 1761727102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207691,
+      "num": 129014,
+      "word": "Knight 大黄直播间",
+      "onboard_time": 1761746904,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 203457,
@@ -1171,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177861,
+      "num": 250219,
+      "word": "特朗普叫停所有美航母电磁弹射",
+      "onboard_time": 1761747262,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175195,
       "num": 390751,
       "word": "成毅直播",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1761713661,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171976,
+      "num": 127688,
+      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+      "onboard_time": 1761747982,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170345,
@@ -1275,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166772,
-      "num": 172009,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 166445,
       "num": 166445,
       "word": "连皮带馅仅1毫米多的肉饼",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1761720563,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 170385,
+      "word": "昆明警方通报校外男子在高校自杀身亡",
+      "onboard_time": 1761745642,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 163899,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1761712281,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151015,
+      "num": 250153,
+      "word": "国乒WTT蒙彼利埃站四连败",
+      "onboard_time": 1761746663,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 150684,
@@ -1683,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133721,
+      "num": 133721,
+      "word": "陈瑶一出场就在英雌救美",
+      "onboard_time": 1761747143,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132906,
       "num": 132906,
       "word": "特朗普在未领薪的美军面前跳舞",
@@ -1889,6 +1969,14 @@
       "onboard_time": 1761722302,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121807,
+      "num": 121807,
+      "word": "成毅李一桐陪看哭了",
+      "onboard_time": 1761747802,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 121554,
@@ -2211,6 +2299,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 111372,
+      "num": 111372,
+      "word": "李庚希微醺赛道又多了一人",
+      "onboard_time": 1761747862,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111090,
       "num": 116926,
       "word": "恋与深空能不能登顶",
@@ -2403,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104194,
+      "num": 133488,
+      "word": "广州小蛮腰换上限定时装",
+      "onboard_time": 1761746182,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104154,
       "num": 166572,
       "word": "苏有朋三年上芒果3档王牌音综",
@@ -2571,6 +2675,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98559,
+      "num": 98559,
+      "word": "卢昱晓极星渊vlog",
+      "onboard_time": 1761747082,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "地球你是怎么把恐龙养死了的",
+      "onboard_time": 1761748043,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98051,
       "num": 133997,
       "word": "KPL",
@@ -2593,6 +2713,14 @@
       "onboard_time": 1761702679,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97052,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96894,
@@ -2665,6 +2793,14 @@
       "onboard_time": 1761701960,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93613,
+      "num": 93613,
+      "word": "建议早餐要吃够4类食物",
+      "onboard_time": 1761748043,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93376,
@@ -2867,6 +3003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86916,
+      "num": 90808,
+      "word": "又有新人歌手来修音响了",
+      "onboard_time": 1761747802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86249,
       "num": 117525,
       "word": "马丽到底是挽着谁走红毯",
@@ -2945,14 +3089,6 @@
       "onboard_time": 1761737421,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78775,
-      "num": 170385,
-      "word": "昆明警方通报校外男子在高校自杀身亡",
-      "onboard_time": 1761745642,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 77478,
@@ -3043,6 +3179,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 67570,
+      "num": 107727,
+      "word": "外交部回应中日领导人是否会晤",
+      "onboard_time": 1761746242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67329,
       "num": 65155,
       "word": "王一博的松弛感",
@@ -3083,14 +3227,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 65272,
-      "num": 1030642,
-      "word": "中国是韩国第一大贸易伙伴国",
-      "onboard_time": 1761743901,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65207,
       "num": 85037,
       "word": "徐嘉余备战全运会VLOG",
@@ -3113,6 +3249,14 @@
       "onboard_time": 1761730221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63148,
+      "num": 123096,
+      "word": "日本网民怒批高市早苗谄媚",
+      "onboard_time": 1761747982,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63085,
@@ -3449,6 +3593,14 @@
       "onboard_time": 1761714021,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37692,
+      "num": 248172,
+      "word": "胡兵携非遗醒狮助力全运会",
+      "onboard_time": 1761746962,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 36112,

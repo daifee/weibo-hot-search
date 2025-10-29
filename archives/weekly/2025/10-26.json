@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761745875963,
+  "endTime": 1761748105746,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -25,6 +25,14 @@
       "onboard_time": 1761712340,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2343800,
+      "num": 2343800,
+      "word": "Elk发文澄清",
+      "onboard_time": 1761745042,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 2292788,
@@ -283,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1108672,
+      "num": 249948,
+      "word": "on",
+      "onboard_time": 1761746363,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1104563,
       "num": 1176730,
       "word": "恋与深空新PV",
@@ -329,14 +345,6 @@
       "onboard_time": 1761534861,
       "rank": 4,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1057994,
-      "num": 1169279,
-      "word": "Elk发文澄清",
-      "onboard_time": 1761745042,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 1019346,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 956930,
+      "num": 930033,
+      "word": "沈梦辰下楼梯摔倒",
+      "onboard_time": 1761742941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 953050,
       "num": 362193,
       "word": "曝女艺人盖浇饭泼导游",
@@ -441,14 +457,6 @@
       "onboard_time": 1761646402,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 942572,
-      "num": 930033,
-      "word": "沈梦辰下楼梯摔倒",
-      "onboard_time": 1761742941,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 940322,
@@ -1515,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530650,
+      "num": 1046361,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761743662,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530520,
       "num": 530520,
       "word": "李木戈带着景甜张彬彬又杀回内娱",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1761481401,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513547,
+      "num": 249622,
+      "word": "Shadow 三天没出门",
+      "onboard_time": 1761746542,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 511641,
@@ -2051,14 +2075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 419721,
-      "num": 1046361,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1761743662,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 419495,
       "num": 419495,
       "word": "地球超新鲜2原班人马回归",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1761741742,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361502,
+      "num": 361502,
+      "word": "新毒株甲型H3N2来袭",
+      "onboard_time": 1761745042,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 359473,
@@ -3307,6 +3331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249476,
+      "num": 249476,
+      "word": "小米高管回应巨省电是空调名",
+      "onboard_time": 1761748043,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249370,
       "num": 249370,
       "word": "沈腾 出发团唯一女主角",
@@ -4049,6 +4081,14 @@
       "onboard_time": 1761727102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207691,
+      "num": 129014,
+      "word": "Knight 大黄直播间",
+      "onboard_time": 1761746904,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 207601,
@@ -5059,6 +5099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177861,
+      "num": 250219,
+      "word": "特朗普叫停所有美航母电磁弹射",
+      "onboard_time": 1761747262,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177690,
       "num": 176044,
       "word": "刘涛 不要叫我妈妈啦",
@@ -5307,6 +5355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171976,
+      "num": 127688,
+      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+      "onboard_time": 1761747982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "彭小苒直播",
@@ -5515,14 +5571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166772,
-      "num": 172009,
-      "word": "新毒株甲型H3N2来袭",
-      "onboard_time": 1761745042,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 166575,
       "num": 166575,
       "word": "每周一三五是最需要补充的时候",
@@ -5649,6 +5697,14 @@
       "onboard_time": 1761643103,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 170385,
+      "word": "昆明警方通报校外男子在高校自杀身亡",
+      "onboard_time": 1761745642,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 164139,
@@ -6441,6 +6497,14 @@
       "onboard_time": 1761483501,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151015,
+      "num": 250153,
+      "word": "国乒WTT蒙彼利埃站四连败",
+      "onboard_time": 1761746663,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 150715,
@@ -7515,6 +7579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133721,
+      "num": 133721,
+      "word": "陈瑶一出场就在英雌救美",
+      "onboard_time": 1761747143,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133694,
       "num": 139728,
       "word": "粉丝为张杰第200场包了35艘船",
@@ -8491,6 +8563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121807,
+      "num": 121807,
+      "word": "成毅李一桐陪看哭了",
+      "onboard_time": 1761747802,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121800,
       "num": 146662,
       "word": "119救了119",
@@ -9339,6 +9419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111372,
+      "num": 111372,
+      "word": "李庚希微醺赛道又多了一人",
+      "onboard_time": 1761747862,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111131,
       "num": 111131,
       "word": "中国实现完全统一是势不可挡大势",
@@ -9947,6 +10035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104194,
+      "num": 133488,
+      "word": "广州小蛮腰换上限定时装",
+      "onboard_time": 1761746182,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104154,
       "num": 166572,
       "word": "苏有朋三年上芒果3档王牌音综",
@@ -10475,6 +10571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98559,
+      "num": 98559,
+      "word": "卢昱晓极星渊vlog",
+      "onboard_time": 1761747082,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98455,
       "num": 98455,
       "word": "妈妈叮嘱吞10克黄金小孩别在外面拉",
@@ -10489,6 +10593,14 @@
       "onboard_time": 1761564320,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "地球你是怎么把恐龙养死了的",
+      "onboard_time": 1761748043,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 98072,
@@ -10561,6 +10673,14 @@
       "onboard_time": 1761702679,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97052,
+      "num": 1030642,
+      "word": "中国是韩国第一大贸易伙伴国",
+      "onboard_time": 1761743901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96848,
@@ -10817,6 +10937,14 @@
       "onboard_time": 1761465620,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93613,
+      "num": 93613,
+      "word": "建议早餐要吃够4类食物",
+      "onboard_time": 1761748043,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93489,
@@ -11299,6 +11427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86916,
+      "num": 90808,
+      "word": "又有新人歌手来修音响了",
+      "onboard_time": 1761747802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86756,
       "num": 86756,
       "word": "徐明浩Wonderland中英单人首封",
@@ -11691,14 +11827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 78775,
-      "num": 170385,
-      "word": "昆明警方通报校外男子在高校自杀身亡",
-      "onboard_time": 1761745642,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 78698,
       "num": 102224,
       "word": "张杰200场嘉年华烟花秀",
@@ -12075,6 +12203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67570,
+      "num": 107727,
+      "word": "外交部回应中日领导人是否会晤",
+      "onboard_time": 1761746242,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67337,
       "num": 86322,
       "word": "林高远刘诗雯备战全运会混双",
@@ -12195,14 +12331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65272,
-      "num": 1030642,
-      "word": "中国是韩国第一大贸易伙伴国",
-      "onboard_time": 1761743901,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65207,
       "num": 85037,
       "word": "徐嘉余备战全运会VLOG",
@@ -12281,6 +12409,14 @@
       "onboard_time": 1761458421,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63148,
+      "num": 123096,
+      "word": "日本网民怒批高市早苗谄媚",
+      "onboard_time": 1761747982,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63085,
@@ -13273,6 +13409,14 @@
       "onboard_time": 1761714021,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37692,
+      "num": 248172,
+      "word": "胡兵携非遗醒狮助力全运会",
+      "onboard_time": 1761746962,
+      "rank": 19,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 37664,
