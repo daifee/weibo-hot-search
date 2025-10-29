@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761715647025,
+  "endTime": 1761716632175,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1289071,
-      "num": 1289071,
+      "raw_hot": 1921241,
+      "num": 1921241,
       "word": "新闻女王道歉",
       "onboard_time": 1761714262,
       "rank": 0,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446346,
+      "num": 203334,
+      "word": "特朗普",
+      "onboard_time": 1761712702,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 444245,
       "num": 197606,
       "word": "王耀庆对钟楚曦贴脸开大",
@@ -339,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 325898,
-      "num": 203334,
-      "word": "特朗普",
-      "onboard_time": 1761712702,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 316972,
       "num": 163489,
       "word": "3unshine组合十年变化太大了",
@@ -403,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278125,
+      "num": 180992,
+      "word": "泽连斯基声称无力施压中国望美出手",
+      "onboard_time": 1761715162,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 259254,
+      "num": 259254,
+      "word": "中国花滑选手因玩偶遭国际滑联调查",
+      "onboard_time": 1761713122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258133,
       "num": 258133,
       "word": "四川精子库可选星座属相脸型",
@@ -433,6 +449,14 @@
       "onboard_time": 1761693018,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236492,
+      "num": 193578,
+      "word": "李维嘉杜海涛临时救场offer",
+      "onboard_time": 1761714741,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 232345,
@@ -483,12 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204562,
-      "num": 204562,
-      "word": "中国花滑选手因玩偶遭国际滑联调查",
-      "onboard_time": 1761713122,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 207621,
+      "num": 147867,
+      "word": "韩网狂夸韩女的上海汉服妆造",
+      "onboard_time": 1761716000,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207564,
+      "num": 172403,
+      "word": "短剧圈也有真夫妻了",
+      "onboard_time": 1761715821,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 203153,
@@ -513,14 +545,6 @@
       "onboard_time": 1761710001,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 193578,
-      "num": 193578,
-      "word": "李维嘉杜海涛临时救场offer",
-      "onboard_time": 1761714741,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 193114,
@@ -601,14 +625,6 @@
       "onboard_time": 1761669139,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180992,
-      "num": 180992,
-      "word": "泽连斯基声称无力施压中国望美出手",
-      "onboard_time": 1761715162,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174401,
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145126,
+      "num": 175286,
+      "word": "柳承敏涉嫌受贿2亿韩元",
+      "onboard_time": 1761713301,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143920,
       "num": 143920,
       "word": "小龙虾替代品大量上市了",
@@ -761,14 +785,6 @@
       "onboard_time": 1761707420,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141923,
-      "num": 141923,
-      "word": "柳承敏涉嫌受贿2亿韩元",
-      "onboard_time": 1761713301,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 140476,
@@ -955,8 +971,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124056,
+      "num": 124056,
+      "word": "光与夜之恋第六日之前",
+      "onboard_time": 1761715941,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122758,
-      "num": 141691,
+      "num": 149252,
       "word": "花少8 浪姐组团",
       "onboard_time": 1761714202,
       "rank": 35,
@@ -1131,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108174,
+      "num": 108174,
+      "word": "孙颖莎各种帽子轻松驾驭",
+      "onboard_time": 1761716061,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107987,
       "num": 107987,
       "word": "糖粘到什么卖什么",
@@ -1216,6 +1248,22 @@
       "word": "惠州一路边小货车被指装过亿现金",
       "onboard_time": 1761664462,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96592,
+      "num": 96592,
+      "word": "A股神州信息涨停",
+      "onboard_time": 1761716421,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 96164,
+      "num": 96164,
+      "word": "留学生深夜徒手爬楼闯入女寝",
+      "onboard_time": 1761716600,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1379,6 +1427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 71333,
+      "num": 173551,
+      "word": "名创优品 糖果找零",
+      "onboard_time": 1761716120,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69577,
       "num": 69577,
       "word": "HLE小花生断开连接",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1761667039,
       "rank": 38,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 66568,
+      "num": 179007,
+      "word": "体育生色弱被退学当地已介入调查",
+      "onboard_time": 1761715399,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66390,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1761658823,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 61001,
+      "num": 124302,
+      "word": "冉莹颖带小儿子拜师成为少林弟子",
+      "onboard_time": 1761716482,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 59982,
@@ -1611,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39368,
+      "num": 173281,
+      "word": "安德鲁王子头衔尽失成王室弃子",
+      "onboard_time": 1761716120,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38034,
       "num": 178944,
       "word": "山东入室抢婴案二审宣判",
@@ -1635,12 +1715,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32601,
+      "num": 141358,
+      "word": "小天才社交催生未成年刷赞生意",
+      "onboard_time": 1761715462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32521,
       "num": 36651,
       "word": "美国小哥被中国外卖柜震惊",
       "onboard_time": 1761658101,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32396,
+      "num": 123050,
+      "word": "胡先煦你知道得太多了",
+      "onboard_time": 1761716600,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 29758,
@@ -1656,6 +1752,14 @@
       "word": "张艺凡镜头下得多瘦",
       "onboard_time": 1761648441,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28004,
+      "num": 173651,
+      "word": "胡兵冻龄的健康管理帮手AQ",
+      "onboard_time": 1761715762,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1691,28 +1795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22479,
-      "num": 179007,
-      "word": "体育生色弱被退学当地已介入调查",
-      "onboard_time": 1761715399,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21895,
       "num": 28894,
       "word": "王一博探索新境第2季预告",
       "onboard_time": 1761688034,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21081,
-      "num": 141358,
-      "word": "小天才社交催生未成年刷赞生意",
-      "onboard_time": 1761715462,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18749,
