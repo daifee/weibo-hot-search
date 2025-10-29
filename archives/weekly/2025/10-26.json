@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761751861243,
+  "endTime": 1761752718285,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1819,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477557,
+      "num": 466456,
+      "word": "特朗普叫停所有美航母电磁弹射",
+      "onboard_time": 1761747262,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 474873,
       "num": 246266,
       "word": "11岁孩子为锻炼舌头吞下10克金豆",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1761733641,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466456,
-      "num": 466456,
-      "word": "特朗普叫停所有美航母电磁弹射",
-      "onboard_time": 1761747262,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 465863,
@@ -2859,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300991,
+      "num": 300991,
+      "word": "日本网民怒批高市早苗谄媚",
+      "onboard_time": 1761747982,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300287,
       "num": 300287,
       "word": "竞男扫腿舞",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1761491183,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291000,
-      "num": 291000,
-      "word": "日本网民怒批高市早苗谄媚",
-      "onboard_time": 1761747982,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 290880,
@@ -3169,6 +3169,14 @@
       "onboard_time": 1761542482,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 266786,
+      "num": 206402,
+      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+      "onboard_time": 1761747982,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266345,
@@ -3523,14 +3531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237011,
-      "num": 206402,
-      "word": "男子遭多次刑讯逼供后死亡11人被判刑",
-      "onboard_time": 1761747982,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236678,
       "num": 236678,
       "word": "鹅厂2026大剧片单",
@@ -3787,6 +3787,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 225383,
+      "num": 204593,
+      "word": "杨雨光 李明磊",
+      "onboard_time": 1761750323,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224568,
       "num": 224568,
       "word": "宁艺卓 好会吹的风",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1761449600,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214750,
+      "num": 210070,
+      "word": "英伟达",
+      "onboard_time": 1761748703,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 214328,
@@ -4185,14 +4201,6 @@
       "onboard_time": 1761491901,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204593,
-      "num": 204593,
-      "word": "杨雨光 李明磊",
-      "onboard_time": 1761750323,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 204216,
@@ -4481,14 +4489,6 @@
       "onboard_time": 1761462620,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194737,
-      "num": 210070,
-      "word": "英伟达",
-      "onboard_time": 1761748703,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 194648,
@@ -5075,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181465,
+      "num": 205402,
+      "word": "日高校副校长说高市早苗做的过火",
+      "onboard_time": 1761750323,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180978,
       "num": 180978,
       "word": "白桃星座",
@@ -5443,6 +5451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171677,
+      "num": 171677,
+      "word": "蒋易发博",
+      "onboard_time": 1761751701,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171651,
       "num": 166491,
       "word": "终于能看懂不同国家的菜单了",
@@ -5521,6 +5537,14 @@
       "onboard_time": 1761725780,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 170055,
+      "num": 170055,
+      "word": "酷酷的滕 团里有人结婚了吗",
+      "onboard_time": 1761750742,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 170042,
@@ -5609,14 +5633,6 @@
       "onboard_time": 1761483501,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167776,
-      "num": 167776,
-      "word": "酷酷的滕 团里有人结婚了吗",
-      "onboard_time": 1761750742,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 167743,
@@ -6219,6 +6235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 155892,
+      "num": 139862,
+      "word": "蒋易孙天宇",
+      "onboard_time": 1761752121,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155854,
       "num": 155854,
       "word": "最好吃的火锅就是开水里放一勺猪油",
@@ -6713,14 +6737,6 @@
       "onboard_time": 1761700880,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147739,
-      "num": 205402,
-      "word": "日高校副校长说高市早苗做的过火",
-      "onboard_time": 1761750323,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 147366,
@@ -8380,7 +8396,7 @@
     },
     {
       "raw_hot": 125701,
-      "num": 125701,
+      "num": 138572,
       "word": "建议早餐要吃够4类食物",
       "onboard_time": 1761748043,
       "rank": 45,
@@ -8753,14 +8769,6 @@
       "onboard_time": 1761626725,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120735,
-      "num": 120735,
-      "word": "蒋易发博",
-      "onboard_time": 1761751701,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 120525,
@@ -9268,7 +9276,7 @@
     },
     {
       "raw_hot": 114073,
-      "num": 114073,
+      "num": 138088,
       "word": "这和自己亲生的有什么区别",
       "onboard_time": 1761748103,
       "rank": 45,
@@ -9284,7 +9292,7 @@
     },
     {
       "raw_hot": 114063,
-      "num": 113789,
+      "num": 137996,
       "word": "李逗逗直播",
       "onboard_time": 1761749662,
       "rank": 38,
@@ -9300,7 +9308,7 @@
     },
     {
       "raw_hot": 113799,
-      "num": 113799,
+      "num": 137941,
       "word": "Knight开播回应特别想打T1",
       "onboard_time": 1761749963,
       "rank": 37,
@@ -9483,6 +9491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112383,
+      "num": 138543,
+      "word": "北川 基地吃饭",
+      "onboard_time": 1761751822,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112293,
       "num": 112293,
       "word": "李昀锐来自日落金山的好运",
@@ -9569,6 +9585,14 @@
       "onboard_time": 1761542962,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111287,
+      "num": 172999,
+      "word": "12306回应轮椅旅客深圳北站行路难",
+      "onboard_time": 1761751521,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111131,
@@ -9859,6 +9883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108426,
+      "num": 154292,
+      "word": "苏暮雨罚站",
+      "onboard_time": 1761751642,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108292,
       "num": 108292,
       "word": "入青云结局的片尾彩蛋",
@@ -10001,14 +10033,6 @@
       "onboard_time": 1761569421,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106605,
-      "num": 158672,
-      "word": "12306回应轮椅旅客深圳北站行路难",
-      "onboard_time": 1761751521,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106568,
@@ -10601,14 +10625,6 @@
       "onboard_time": 1761470060,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 99809,
-      "num": 154292,
-      "word": "苏暮雨罚站",
-      "onboard_time": 1761751642,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 99788,
@@ -11276,7 +11292,7 @@
     },
     {
       "raw_hot": 91888,
-      "num": 113676,
+      "num": 137669,
       "word": "井胧请教产后恢复问题",
       "onboard_time": 1761749844,
       "rank": 45,
@@ -11449,14 +11465,6 @@
       "onboard_time": 1761609860,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89658,
-      "num": 113625,
-      "word": "北川 基地吃饭",
-      "onboard_time": 1761751822,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 89163,
@@ -11737,6 +11745,14 @@
       "onboard_time": 1761660441,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84711,
+      "num": 137676,
+      "word": "王权富贵被万剑穿心我等了两年",
+      "onboard_time": 1761752421,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 84438,
@@ -12155,6 +12171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74973,
+      "num": 138174,
+      "word": "2个弟弟送姐姐出嫁吃分家饭时憋笑",
+      "onboard_time": 1761752121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74523,
       "num": 74523,
       "word": "日本企业争相投资给美国搞基建",
@@ -12193,6 +12217,14 @@
       "onboard_time": 1761570622,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73593,
+      "num": 137502,
+      "word": "香港大学站伤人案",
+      "onboard_time": 1761749063,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73404,
@@ -12433,14 +12465,6 @@
       "onboard_time": 1761520697,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67096,
-      "num": 132682,
-      "word": "香港大学站伤人案",
-      "onboard_time": 1761749063,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66947,
@@ -12915,6 +12939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58117,
+      "num": 201868,
+      "word": "印度航司加密中国航班",
+      "onboard_time": 1761750023,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58036,
       "num": 223380,
       "word": "贵州一景区石刻现大日本帝国字样",
@@ -13033,14 +13065,6 @@
       "onboard_time": 1761508394,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54492,
-      "num": 201868,
-      "word": "印度航司加密中国航班",
-      "onboard_time": 1761750023,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54216,
@@ -14560,6 +14584,14 @@
       "word": "公共服务应在讨论中止于至善",
       "onboard_time": 1761630082,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17005,
+      "num": 137904,
+      "word": "男子遭刑讯逼供死亡妻子患重度抑郁",
+      "onboard_time": 1761752661,
+      "rank": 43,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761752718285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105529,
+        "num": 1176884,
+        "word": "Elk发文澄清",
+        "onboard_time": 1761745042,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 739047,
+        "num": 739047,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1761743662,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23328,
+        "num": 519424,
+        "word": "网络中国节",
+        "onboard_time": 1761748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429852,
+        "num": 429852,
+        "word": "新毒株甲型H3N2来袭",
+        "onboard_time": 1761745042,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 364456,
+        "num": 364456,
+        "word": "易烊千玺跳失重狂野的探戈",
+        "onboard_time": 1761749662,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300991,
+        "num": 300991,
+        "word": "日本网民怒批高市早苗谄媚",
+        "onboard_time": 1761747982,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260786,
+        "num": 260786,
+        "word": "小米高管回应巨省电是空调名",
+        "onboard_time": 1761748043,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184349,
+        "num": 184349,
+        "word": "张杰带着天下杀回来了",
+        "onboard_time": 1761748522,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181465,
+        "num": 181465,
+        "word": "日高校副校长说高市早苗做的过火",
+        "onboard_time": 1761750323,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214750,
+        "num": 181119,
+        "word": "英伟达",
+        "onboard_time": 1761748703,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 965210,
+        "num": 179942,
+        "word": "on",
+        "onboard_time": 1761746363,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 608592,
+        "num": 179660,
+        "word": "李一桐送房求李荣浩给自己写歌",
+        "onboard_time": 1761748823,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535395,
+        "num": 178361,
+        "word": "高铁上上个厕所1万多的电脑没了",
+        "onboard_time": 1761739460,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477557,
+        "num": 177635,
+        "word": "特朗普叫停所有美航母电磁弹射",
+        "onboard_time": 1761747262,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472549,
+        "num": 177258,
+        "word": "沈梦辰下楼梯摔倒",
+        "onboard_time": 1761742941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382540,
+        "num": 176238,
+        "word": "Bin",
+        "onboard_time": 1761746063,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296839,
+        "num": 175721,
+        "word": "彭小苒收到了2000多份简历",
+        "onboard_time": 1761741803,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266786,
+        "num": 174291,
+        "word": "男子遭多次刑讯逼供后死亡11人被判刑",
+        "onboard_time": 1761747982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166395,
+        "num": 173917,
+        "word": "王曼昱父母用爱托举的奥运冠军",
+        "onboard_time": 1761751701,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111287,
+        "num": 172999,
+        "word": "12306回应轮椅旅客深圳北站行路难",
+        "onboard_time": 1761751521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225383,
+        "num": 172019,
+        "word": "杨雨光 李明磊",
+        "onboard_time": 1761750323,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171677,
+        "num": 171677,
+        "word": "蒋易发博",
+        "onboard_time": 1761751701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170055,
+        "num": 170055,
+        "word": "酷酷的滕 团里有人结婚了吗",
+        "onboard_time": 1761750742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158432,
+        "num": 158432,
+        "word": "建议大家点外卖不要点预订单",
+        "onboard_time": 1761732201,
+        "rank": 23,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 155172,
+        "num": 155172,
+        "word": "千万网红仙女酵母已近一年无收入",
+        "onboard_time": 1761738321,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152485,
+        "num": 152485,
+        "word": "花少浪姐团 审美疲劳",
+        "onboard_time": 1761736221,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108426,
+        "num": 150968,
+        "word": "苏暮雨罚站",
+        "onboard_time": 1761751642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80111,
+        "num": 148242,
+        "word": "国乒WTT蒙彼利埃站四连败",
+        "onboard_time": 1761746663,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62617,
+        "num": 146907,
+        "word": "广州小蛮腰换上限定时装",
+        "onboard_time": 1761746182,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58117,
+        "num": 141957,
+        "word": "印度航司加密中国航班",
+        "onboard_time": 1761750023,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155892,
+        "num": 139862,
+        "word": "蒋易孙天宇",
+        "onboard_time": 1761752121,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138623,
+        "num": 138623,
+        "word": "张雅钦对卢昱晓的偏爱藏不住了",
+        "onboard_time": 1761748464,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120673,
+        "num": 138572,
+        "word": "建议早餐要吃够4类食物",
+        "onboard_time": 1761748043,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112383,
+        "num": 138543,
+        "word": "北川 基地吃饭",
+        "onboard_time": 1761751822,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107328,
+        "num": 138471,
+        "word": "成毅李一桐陪看哭了",
+        "onboard_time": 1761747802,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107167,
+        "num": 138398,
+        "word": "韩国偶遇刘强东章泽天",
+        "onboard_time": 1761737480,
+        "rank": 35,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 106299,
+        "num": 138354,
+        "word": "Shadow 三天没出门",
+        "onboard_time": 1761746542,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105381,
+        "num": 138276,
+        "word": "韩国多人用女友照片做裸体手办",
+        "onboard_time": 1761729380,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53636,
+        "num": 138222,
+        "word": "王艺迪为国乒破局",
+        "onboard_time": 1761748823,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74973,
+        "num": 138174,
+        "word": "2个弟弟送姐姐出嫁吃分家饭时憋笑",
+        "onboard_time": 1761752121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98388,
+        "num": 138088,
+        "word": "这和自己亲生的有什么区别",
+        "onboard_time": 1761748103,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 95575,
+        "num": 137996,
+        "word": "李逗逗直播",
+        "onboard_time": 1761749662,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94992,
+        "num": 137941,
+        "word": "Knight开播回应特别想打T1",
+        "onboard_time": 1761749963,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17005,
+        "num": 137904,
+        "word": "男子遭刑讯逼供死亡妻子患重度抑郁",
+        "onboard_time": 1761752661,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94206,
+        "num": 137859,
+        "word": "Knight 大黄直播间",
+        "onboard_time": 1761746904,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86257,
+        "num": 137782,
+        "word": "你们去过南昌的人嘴太严了",
+        "onboard_time": 1761743062,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 84711,
+        "num": 137676,
+        "word": "王权富贵被万剑穿心我等了两年",
+        "onboard_time": 1761752421,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83719,
+        "num": 137669,
+        "word": "井胧请教产后恢复问题",
+        "onboard_time": 1761749844,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75392,
+        "num": 137586,
+        "word": "昆明警方通报校外男子在高校自杀身亡",
+        "onboard_time": 1761745642,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73593,
+        "num": 137502,
+        "word": "香港大学站伤人案",
+        "onboard_time": 1761749063,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}
