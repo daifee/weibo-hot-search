@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761712421884,
+  "endTime": 1761713277876,
   "band_list": [
     {
       "raw_hot": 1148659,
@@ -8,6 +8,14 @@
       "word": "高考体检正常大学查出色弱遭退学",
       "onboard_time": 1761696982,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046372,
+      "num": 261567,
+      "word": "孕妇退房退款酒店员工发信息说恶心",
+      "onboard_time": 1761712340,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 880741,
-      "num": 242967,
+      "num": 261360,
       "word": "建议千万不要水洗鸡蛋",
       "onboard_time": 1761708560,
       "rank": 31,
@@ -57,6 +65,22 @@
       "onboard_time": 1761703939,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 771595,
+      "num": 1123455,
+      "word": "BLG 商K",
+      "onboard_time": 1761711682,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 726181,
+      "num": 1106437,
+      "word": "BLG",
+      "onboard_time": 1761706939,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 721741,
@@ -83,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 665236,
-      "num": 1106437,
-      "word": "BLG",
-      "onboard_time": 1761706939,
-      "rank": 3,
-      "category": "电竞"
+      "raw_hot": 655898,
+      "num": 655898,
+      "word": "李维嘉回应回湖南卫视",
+      "onboard_time": 1761711922,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 594376,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 532675,
-      "num": 240204,
+      "num": 261152,
       "word": "36岁男子反复口腔溃疡20年以为上火",
       "onboard_time": 1761708080,
       "rank": 48,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 375119,
-      "num": 234330,
+      "num": 260232,
       "word": "惠英红 从要饭第一到亚洲第一",
       "onboard_time": 1761710121,
       "rank": 13,
@@ -240,14 +264,6 @@
       "word": "村民办丧事围墙倒塌致吊唁6人身亡",
       "onboard_time": 1761663262,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365383,
-      "num": 226441,
-      "word": "孕妇退房退款酒店员工发信息说恶心",
-      "onboard_time": 1761712340,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -283,8 +299,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325712,
-      "num": 225110,
+      "raw_hot": 329413,
+      "num": 260420,
       "word": "国台办称决不承诺放弃使用武力",
       "onboard_time": 1761709041,
       "rank": 22,
@@ -297,14 +313,6 @@
       "onboard_time": 1761665780,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316361,
-      "num": 316361,
-      "word": "BLG 商K",
-      "onboard_time": 1761711682,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 304561,
@@ -340,19 +348,11 @@
     },
     {
       "raw_hot": 290467,
-      "num": 224546,
+      "num": 258399,
       "word": "花少8打破奇数偶数魔咒",
       "onboard_time": 1761711202,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289438,
-      "num": 231938,
-      "word": "李维嘉回应回湖南卫视",
-      "onboard_time": 1761711922,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 282350,
@@ -361,6 +361,22 @@
       "onboard_time": 1761651262,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274274,
+      "num": 258562,
+      "word": "三峡大学留学生",
+      "onboard_time": 1761712941,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258133,
+      "num": 258133,
+      "word": "四川精子库可选星座属相脸型",
+      "onboard_time": 1761708800,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 249370,
@@ -385,14 +401,6 @@
       "onboard_time": 1761693018,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234871,
-      "num": 223306,
-      "word": "四川精子库可选星座属相脸型",
-      "onboard_time": 1761708800,
-      "rank": 30,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 232345,
@@ -459,6 +467,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196786,
+      "num": 211179,
+      "word": "万剑穿心名场面",
+      "onboard_time": 1761712822,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196208,
+      "num": 196208,
+      "word": "在韩国很流行的骨盆整形",
+      "onboard_time": 1761710001,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194367,
+      "num": 194367,
+      "word": "特朗普",
+      "onboard_time": 1761712702,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 193114,
+      "num": 193114,
+      "word": "宝宝巴士对审核负责人严肃处理",
+      "onboard_time": 1761712340,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192868,
       "num": 192868,
       "word": "范丞丞唱着唱着亲了沈腾一口",
@@ -483,8 +523,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186990,
-      "num": 228879,
+      "raw_hot": 188034,
+      "num": 259080,
       "word": "令人心动的offer",
       "onboard_time": 1761711741,
       "rank": 16,
@@ -515,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181834,
-      "num": 181834,
-      "word": "在韩国很流行的骨盆整形",
-      "onboard_time": 1761710001,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 181589,
       "num": 181589,
       "word": "宝宝巴士客服回应APP跳转成人广告",
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163899,
+      "num": 163899,
+      "word": "黄金大跌是倒车接人还是顶部崩塌",
+      "onboard_time": 1761711442,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163684,
       "num": 163684,
       "word": "兮夜晒和Peanut聚餐照",
@@ -563,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159538,
-      "num": 159538,
-      "word": "黄金大跌是倒车接人还是顶部崩塌",
-      "onboard_time": 1761711442,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 159635,
+      "num": 159635,
+      "word": "吴昕这些年的变化",
+      "onboard_time": 1761712403,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 158331,
@@ -585,6 +625,14 @@
       "onboard_time": 1761693378,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156966,
+      "num": 156966,
+      "word": "易烊千玺说慢慢来挺好",
+      "onboard_time": 1761712582,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 154519,
@@ -625,14 +673,6 @@
       "onboard_time": 1761705979,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148338,
-      "num": 148338,
-      "word": "宝宝巴士对审核负责人严肃处理",
-      "onboard_time": 1761712340,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147963,
@@ -676,7 +716,7 @@
     },
     {
       "raw_hot": 139566,
-      "num": 438113,
+      "num": 684563,
       "word": "重阳久久安康",
       "onboard_time": 1761669077,
       "rank": 23,
@@ -697,6 +737,22 @@
       "onboard_time": 1761708380,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 137597,
+      "num": 137597,
+      "word": "浙江一教师轻生疑似因请病假未批",
+      "onboard_time": 1761710961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136054,
+      "num": 136054,
+      "word": "女子如厕遭男同事偷拍公司让她离职",
+      "onboard_time": 1761710001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135891,
@@ -729,6 +785,14 @@
       "onboard_time": 1761669557,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132269,
+      "num": 132269,
+      "word": "何赛飞 双洁党",
+      "onboard_time": 1761713061,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131921,
@@ -819,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125878,
+      "num": 128746,
+      "word": "中国花滑选手因玩偶遭国际滑联调查",
+      "onboard_time": 1761713122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121554,
       "num": 121554,
       "word": "欢喜哥许绍雄逝世",
@@ -843,16 +915,8 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 120930,
-      "num": 120930,
-      "word": "女子如厕遭男同事偷拍公司让她离职",
-      "onboard_time": 1761710001,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120766,
-      "num": 190542,
+      "num": 194408,
       "word": "这就是中国台湾省",
       "onboard_time": 1761710902,
       "rank": 29,
@@ -881,14 +945,6 @@
       "onboard_time": 1761696801,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 116770,
-      "num": 116770,
-      "word": "吴昕这些年的变化",
-      "onboard_time": 1761712403,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116215,
@@ -979,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106484,
-      "num": 130864,
-      "word": "浙江一教师轻生疑似因请病假未批",
-      "onboard_time": 1761710961,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 106415,
+      "num": 151792,
+      "word": "刘宇宁像是要把衣服卖给周深",
+      "onboard_time": 1761712881,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 104897,
@@ -1220,7 +1276,7 @@
     },
     {
       "raw_hot": 69014,
-      "num": 227369,
+      "num": 258869,
       "word": "伟哥市场乱象调查",
       "onboard_time": 1761710722,
       "rank": 19,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1761668718,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62841,
+      "num": 152844,
+      "word": "日网称负担沉重到让日本沉沦半个世纪",
+      "onboard_time": 1761712163,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62447,
@@ -1339,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56320,
+      "num": 228073,
+      "word": "宝宝巴士整改声明",
+      "onboard_time": 1761711802,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55371,
       "num": 55371,
       "word": "多地出现假彩票兑奖事件",
@@ -1361,22 +1433,6 @@
       "onboard_time": 1761708200,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52916,
-      "num": 152844,
-      "word": "日网称负担沉重到让日本沉沦半个世纪",
-      "onboard_time": 1761712163,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 50841,
-      "num": 228073,
-      "word": "宝宝巴士整改声明",
-      "onboard_time": 1761711802,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50672,
