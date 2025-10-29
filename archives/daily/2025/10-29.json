@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761720015414,
+  "endTime": 1761720794931,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -131,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641730,
+      "num": 389901,
+      "word": "留学生深夜徒手爬楼闯入女寝",
+      "onboard_time": 1761716600,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620749,
+      "num": 215223,
+      "word": "韩网狂夸韩女的上海汉服妆造",
+      "onboard_time": 1761716000,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594376,
       "num": 594376,
       "word": "重阳节",
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 548294,
-      "num": 202647,
-      "word": "韩网狂夸韩女的上海汉服妆造",
-      "onboard_time": 1761716000,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 532675,
       "num": 261152,
       "word": "36岁男子反复口腔溃疡20年以为上火",
@@ -184,6 +192,14 @@
       "word": "喀什大学编制到人无非升即走引关注",
       "onboard_time": 1761697161,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487208,
+      "num": 487208,
+      "word": "三峡大学官微关闭评论",
+      "onboard_time": 1761718282,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -268,19 +284,11 @@
     },
     {
       "raw_hot": 401680,
-      "num": 201521,
+      "num": 212409,
       "word": "泽连斯基声称无力施压中国望美出手",
       "onboard_time": 1761715162,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 389901,
-      "num": 389901,
-      "word": "留学生深夜徒手爬楼闯入女寝",
-      "onboard_time": 1761716600,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 382974,
@@ -347,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352484,
-      "num": 352484,
-      "word": "三峡大学官微关闭评论",
-      "onboard_time": 1761718282,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 348017,
       "num": 348017,
       "word": "白鹿开车了",
@@ -385,6 +385,14 @@
       "onboard_time": 1761665780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316715,
+      "num": 316715,
+      "word": "再见爱人",
+      "onboard_time": 1761717801,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 304561,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276104,
+      "num": 276104,
+      "word": "疑似携带病毒的猴子在美国逃脱",
+      "onboard_time": 1761719720,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 259254,
       "num": 259254,
       "word": "中国花滑选手因玩偶遭国际滑联调查",
@@ -497,14 +513,6 @@
       "onboard_time": 1761655401,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 220526,
-      "num": 220526,
-      "word": "再见爱人",
-      "onboard_time": 1761717801,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 213630,
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175862,
+      "num": 175862,
+      "word": "警方回应留学生深夜擅闯女寝",
+      "onboard_time": 1761719961,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174401,
       "num": 174401,
       "word": "女生遭同学殴打13次确诊精神分裂",
@@ -673,6 +689,14 @@
       "onboard_time": 1761713661,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169977,
+      "num": 169977,
+      "word": "高市早苗被特朗普介绍后高兴到转圈",
+      "onboard_time": 1761718880,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168416,
@@ -707,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160500,
+      "num": 191829,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1761719421,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159635,
       "num": 159635,
       "word": "吴昕这些年的变化",
@@ -739,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155312,
-      "num": 155312,
-      "word": "高市早苗被特朗普介绍后高兴到转圈",
-      "onboard_time": 1761718880,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 154519,
       "num": 154519,
       "word": "重要账号建议密码长度不少于12位",
@@ -771,20 +795,20 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 152457,
+      "num": 152457,
+      "word": "何赛飞儿子跟自己姓",
+      "onboard_time": 1761719900,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151681,
       "num": 151681,
       "word": "恋与深空直到心跳沸腾",
       "onboard_time": 1761712281,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151020,
-      "num": 191829,
-      "word": "华晨宇演唱会",
-      "onboard_time": 1761719421,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 150118,
@@ -809,6 +833,14 @@
       "onboard_time": 1761700880,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145300,
+      "num": 145300,
+      "word": "和刘宇宁合唱的童星惨遭淘汰",
+      "onboard_time": 1761719602,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145126,
@@ -843,8 +875,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140332,
+      "num": 140332,
+      "word": "当老人和00后一起过重阳节",
+      "onboard_time": 1761720141,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140011,
-      "num": 123359,
+      "num": 131272,
       "word": "手机内存是金子做的吗",
       "onboard_time": 1761719720,
       "rank": 30,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 131238,
-      "num": 131238,
+      "num": 139321,
       "word": "蔡依林萧亚轩在芒果合体了",
       "onboard_time": 1761717201,
       "rank": 26,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1761705260,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129246,
+      "num": 129246,
+      "word": "日本熊灾",
+      "onboard_time": 1761720500,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128485,
@@ -1107,14 +1155,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119146,
-      "num": 119146,
-      "word": "疑似携带病毒的猴子在美国逃脱",
-      "onboard_time": 1761719720,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 118564,
       "num": 118564,
       "word": "庞铮offer7没播的新闻在复旦首播了",
@@ -1145,6 +1185,22 @@
       "onboard_time": 1761642862,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113720,
+      "num": 113720,
+      "word": "西卡称JackeyLove夺冠是最好的",
+      "onboard_time": 1761720081,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113709,
+      "num": 113709,
+      "word": "30岁长期熬夜得了60岁的病",
+      "onboard_time": 1761720563,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 113672,
@@ -1211,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112510,
+      "num": 112510,
+      "word": "8岁男童意外去世后坟墓遭破坏",
+      "onboard_time": 1761720260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112196,
       "num": 112196,
       "word": "暗河传",
@@ -1251,11 +1315,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 109416,
+      "num": 109416,
+      "word": "孤老贷66万去世民政局被判还款",
+      "onboard_time": 1761717620,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108938,
       "num": 108938,
       "word": "林一cos铁筒僵尸",
       "onboard_time": 1761704779,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108585,
+      "num": 108585,
+      "word": "张馨予 真不把你们当外人",
+      "onboard_time": 1761720621,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1291,20 +1371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106030,
-      "num": 106030,
-      "word": "孤老贷66万去世民政局被判还款",
-      "onboard_time": 1761717620,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104897,
       "num": 104897,
       "word": "邢菲拖着一尾钻石裙",
       "onboard_time": 1761699261,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104807,
+      "num": 104807,
+      "word": "特朗普到韩国神情疲惫",
+      "onboard_time": 1761719662,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104043,
@@ -1339,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101141,
-      "num": 101141,
-      "word": "和刘宇宁合唱的童星惨遭淘汰",
-      "onboard_time": 1761719602,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101002,
       "num": 101002,
       "word": "美警方称逃跑实验猴有攻击性",
@@ -1363,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99761,
+      "num": 99761,
+      "word": "现在就出发游戏",
+      "onboard_time": 1761720681,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99356,
       "num": 99356,
       "word": "Zeus回应止步S15八强",
@@ -1377,14 +1457,6 @@
       "onboard_time": 1761717140,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99048,
-      "num": 99048,
-      "word": "何赛飞儿子跟自己姓",
-      "onboard_time": 1761719900,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 98608,
@@ -1419,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94138,
+      "num": 94138,
+      "word": "毛不易下次有这种婚礼记得先开票",
+      "onboard_time": 1761720740,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93834,
       "num": 93834,
       "word": "里约剿匪行动",
@@ -1448,14 +1528,6 @@
       "word": "今天这9个提醒转给长辈们",
       "onboard_time": 1761701360,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92770,
-      "num": 92770,
-      "word": "警方回应留学生深夜擅闯女寝",
-      "onboard_time": 1761719961,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1585,6 +1657,14 @@
       "onboard_time": 1761665002,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 72150,
+      "num": 105043,
+      "word": "欧阳娜娜腾冲自驾爆胎了",
+      "onboard_time": 1761720563,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 71333,
@@ -1788,7 +1868,7 @@
     },
     {
       "raw_hot": 51504,
-      "num": 127633,
+      "num": 217126,
       "word": "刘浩存深蓝L06品牌大使",
       "onboard_time": 1761719781,
       "rank": 27,
@@ -1963,20 +2043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24803,
+      "num": 109425,
+      "word": "美国发生交通事故带病猴子逃跑",
+      "onboard_time": 1761718999,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24503,
       "num": 28912,
       "word": "济南市民排百米长队买奶皮子糖葫芦",
       "onboard_time": 1761679094,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23459,
-      "num": 109425,
-      "word": "美国发生交通事故带病猴子逃跑",
-      "onboard_time": 1761718999,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21895,
@@ -2033,6 +2113,14 @@
       "onboard_time": 1761681734,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9563,
+      "num": 105840,
+      "word": "胡先煦不喝哑药原来是这种感觉",
+      "onboard_time": 1761720200,
+      "rank": 38,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

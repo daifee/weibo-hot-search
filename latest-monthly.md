@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 14:40:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/29 14:53:14
 </p>
 </blockquote>
 <p>
@@ -5367,6 +5367,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E6%B7%B1%E5%A4%9C%E5%BE%92%E6%89%8B%E7%88%AC%E6%A5%BC%E9%97%AF%E5%85%A5%E5%A5%B3%E5%AF%9D%23" target="weibo">
+留学生深夜徒手爬楼闯入女寝（热度：641730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%8D%83%E4%B8%87%E5%88%AB%E8%BF%99%E6%A0%B7%E5%85%85%E7%94%B5%E4%BA%86%23" target="weibo">
 iPhone千万别这样充电了（热度：641037）
 </a>
@@ -5633,6 +5639,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E9%A3%9E%E5%A4%A9%E5%A5%B3%E6%BC%94%E5%91%98%E5%A4%B1%E6%8E%A7%E8%90%BD%E6%B9%96%23" target="weibo">
 乌镇飞天女演员失控落湖（热度：620826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%8B%82%E5%A4%B8%E9%9F%A9%E5%A5%B3%E7%9A%84%E4%B8%8A%E6%B5%B7%E6%B1%89%E6%9C%8D%E5%A6%86%E9%80%A0%23" target="weibo">
+韩网狂夸韩女的上海汉服妆造（热度：620749）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%81100%25%E7%9A%84%E5%85%B3%E7%A8%8E%23" target="weibo">
 美方不再考虑对华加征100%的关税（热度：598474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%93%E4%BA%86%E8%A1%80%E7%9A%84%E7%BA%A2%E8%88%9E%E9%9E%8B%E8%BF%98%E8%83%BD%E8%B7%B3%E8%B5%B7%E6%9D%A5%E5%90%97%23" target="weibo">
-染了血的红舞鞋还能跳起来吗（热度：598032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%B6%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%90%B5%E6%9E%B6%E5%8E%9F%E5%9B%A0%23" target="weibo">
-王鹤润工作室辟谣吵架原因（热度：597748）
 </a>
 </li>
 

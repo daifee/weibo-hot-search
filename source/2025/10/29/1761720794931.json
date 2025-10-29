@@ -1,0 +1,410 @@
+{
+  "runTime": 1761720794931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251977,
+        "num": 1251977,
+        "word": "新闻女王道歉",
+        "onboard_time": 1761714262,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487208,
+        "num": 487208,
+        "word": "三峡大学官微关闭评论",
+        "onboard_time": 1761718282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20431,
+        "num": 396143,
+        "word": "网警提醒护老安全莫松懈平安度重阳",
+        "onboard_time": 1761716720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316715,
+        "num": 316715,
+        "word": "再见爱人",
+        "onboard_time": 1761717801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811629,
+        "num": 314041,
+        "word": "三峡大学留学生",
+        "onboard_time": 1761712941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641730,
+        "num": 298927,
+        "word": "留学生深夜徒手爬楼闯入女寝",
+        "onboard_time": 1761716600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276104,
+        "num": 276104,
+        "word": "疑似携带病毒的猴子在美国逃脱",
+        "onboard_time": 1761719720,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245823,
+        "num": 245823,
+        "word": "李维嘉杜海涛临时救场offer",
+        "onboard_time": 1761714741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236229,
+        "num": 236229,
+        "word": "未来五年大量的钱将流向这里",
+        "onboard_time": 1761713961,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225463,
+        "num": 225463,
+        "word": "很多台湾年轻人不知抗日史",
+        "onboard_time": 1761662242,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1119751,
+        "num": 225047,
+        "word": "孕妇退房退款酒店员工发信息说恶心",
+        "onboard_time": 1761712340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24432,
+        "num": 217126,
+        "word": "刘浩存深蓝L06品牌大使",
+        "onboard_time": 1761719781,
+        "rank": 11,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 620749,
+        "num": 215223,
+        "word": "韩网狂夸韩女的上海汉服妆造",
+        "onboard_time": 1761716000,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325792,
+        "num": 212409,
+        "word": "泽连斯基声称无力施压中国望美出手",
+        "onboard_time": 1761715162,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289421,
+        "num": 207904,
+        "word": "建议千万不要水洗鸡蛋",
+        "onboard_time": 1761708560,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 263346,
+        "num": 202649,
+        "word": "短国李栋旭出现了",
+        "onboard_time": 1761713301,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200118,
+        "num": 200118,
+        "word": "中国花滑选手因玩偶遭国际滑联调查",
+        "onboard_time": 1761713122,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175862,
+        "num": 175862,
+        "word": "警方回应留学生深夜擅闯女寝",
+        "onboard_time": 1761719961,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 171451,
+        "word": "万剑穿心名场面",
+        "onboard_time": 1761712822,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160500,
+        "num": 170027,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1761719421,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169977,
+        "num": 169977,
+        "word": "高市早苗被特朗普介绍后高兴到转圈",
+        "onboard_time": 1761718880,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152457,
+        "num": 152457,
+        "word": "何赛飞儿子跟自己姓",
+        "onboard_time": 1761719900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149352,
+        "num": 149352,
+        "word": "宝宝巴士致歉",
+        "onboard_time": 1761696680,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 147703,
+        "num": 147703,
+        "word": "短剧圈也有真夫妻了",
+        "onboard_time": 1761715821,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145300,
+        "num": 145300,
+        "word": "和刘宇宁合唱的童星惨遭淘汰",
+        "onboard_time": 1761719602,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140332,
+        "num": 140332,
+        "word": "当老人和00后一起过重阳节",
+        "onboard_time": 1761720141,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 139321,
+        "word": "蔡依林萧亚轩在芒果合体了",
+        "onboard_time": 1761717201,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112659,
+        "num": 136940,
+        "word": "李维嘉回应回湖南卫视",
+        "onboard_time": 1761711922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111887,
+        "num": 135724,
+        "word": "花少8要去南极",
+        "onboard_time": 1761703939,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63572,
+        "num": 131560,
+        "word": "这就是中国台湾省",
+        "onboard_time": 1761710902,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131272,
+        "num": 131272,
+        "word": "手机内存是金子做的吗",
+        "onboard_time": 1761719720,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 129246,
+        "word": "日本熊灾",
+        "onboard_time": 1761720500,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128696,
+        "num": 128696,
+        "word": "36岁男子反复口腔溃疡20年以为上火",
+        "onboard_time": 1761708080,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113720,
+        "num": 113720,
+        "word": "西卡称JackeyLove夺冠是最好的",
+        "onboard_time": 1761720081,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113709,
+        "num": 113709,
+        "word": "30岁长期熬夜得了60岁的病",
+        "onboard_time": 1761720563,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112510,
+        "num": 112510,
+        "word": "8岁男童意外去世后坟墓遭破坏",
+        "onboard_time": 1761720260,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109416,
+        "num": 109416,
+        "word": "孤老贷66万去世民政局被判还款",
+        "onboard_time": 1761717620,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108585,
+        "num": 108585,
+        "word": "张馨予 真不把你们当外人",
+        "onboard_time": 1761720621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9563,
+        "num": 105840,
+        "word": "胡先煦不喝哑药原来是这种感觉",
+        "onboard_time": 1761720200,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72150,
+        "num": 105043,
+        "word": "欧阳娜娜腾冲自驾爆胎了",
+        "onboard_time": 1761720563,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104807,
+        "num": 104807,
+        "word": "特朗普到韩国神情疲惫",
+        "onboard_time": 1761719662,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 630542,
+        "num": 103358,
+        "word": "BLG 商K",
+        "onboard_time": 1761711682,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101163,
+        "num": 101163,
+        "word": "花少8国民级艺人",
+        "onboard_time": 1761719300,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249555,
+        "num": 100891,
+        "word": "BLG",
+        "onboard_time": 1761706939,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 99761,
+        "word": "现在就出发游戏",
+        "onboard_time": 1761720681,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92720,
+        "num": 97683,
+        "word": "Viper回应止步S15八强",
+        "onboard_time": 1761719062,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95745,
+        "num": 95745,
+        "word": "在韩国很流行的骨盆整形",
+        "onboard_time": 1761710001,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94950,
+        "num": 94950,
+        "word": "MANTA天生坏种",
+        "onboard_time": 1761719662,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94138,
+        "num": 94138,
+        "word": "毛不易下次有这种婚礼记得先开票",
+        "onboard_time": 1761720740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24803,
+        "num": 93774,
+        "word": "美国发生交通事故带病猴子逃跑",
+        "onboard_time": 1761718999,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关于十五五规划的重要论断#"
+    }
+  }
+}
