@@ -1,6 +1,6 @@
 {
   "startTime": 1761669326273,
-  "endTime": 1761716632175,
+  "endTime": 1761720015414,
   "band_list": [
     {
       "raw_hot": 2380432,
@@ -67,6 +67,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 877757,
+      "num": 877757,
+      "word": "三峡大学留学生",
+      "onboard_time": 1761712941,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 833492,
       "num": 383251,
       "word": "韩国又一性犯罪网站曝光",
@@ -81,14 +89,6 @@
       "onboard_time": 1761703939,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 771562,
-      "num": 258562,
-      "word": "三峡大学留学生",
-      "onboard_time": 1761712941,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 726181,
@@ -153,6 +153,14 @@
       "onboard_time": 1761710601,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548294,
+      "num": 202647,
+      "word": "韩网狂夸韩女的上海汉服妆造",
+      "onboard_time": 1761716000,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 532675,
@@ -259,6 +267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401680,
+      "num": 201521,
+      "word": "泽连斯基声称无力施压中国望美出手",
+      "onboard_time": 1761715162,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 389901,
+      "num": 389901,
+      "word": "留学生深夜徒手爬楼闯入女寝",
+      "onboard_time": 1761716600,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382974,
       "num": 362556,
       "word": "刘亦菲李宇春红毯C位",
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352484,
+      "num": 352484,
+      "word": "三峡大学官微关闭评论",
+      "onboard_time": 1761718282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348017,
       "num": 348017,
       "word": "白鹿开车了",
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297210,
+      "num": 297210,
+      "word": "李维嘉杜海涛临时救场offer",
+      "onboard_time": 1761714741,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293664,
       "num": 293664,
       "word": "国台办新任发言人亮相",
@@ -403,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278125,
-      "num": 180992,
-      "word": "泽连斯基声称无力施压中国望美出手",
-      "onboard_time": 1761715162,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 259254,
       "num": 259254,
       "word": "中国花滑选手因玩偶遭国际滑联调查",
@@ -425,6 +457,14 @@
       "onboard_time": 1761708800,
       "rank": 30,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 251919,
+      "num": 251919,
+      "word": "未来五年大量的钱将流向这里",
+      "onboard_time": 1761713961,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 249370,
@@ -451,20 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236492,
-      "num": 193578,
-      "word": "李维嘉杜海涛临时救场offer",
-      "onboard_time": 1761714741,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232345,
       "num": 232345,
       "word": "ELLE晚宴",
       "onboard_time": 1761655401,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 220526,
+      "num": 220526,
+      "word": "再见爱人",
+      "onboard_time": 1761717801,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 213630,
@@ -507,16 +547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207621,
-      "num": 147867,
-      "word": "韩网狂夸韩女的上海汉服妆造",
-      "onboard_time": 1761716000,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207564,
-      "num": 172403,
+      "num": 190650,
       "word": "短剧圈也有真夫妻了",
       "onboard_time": 1761715821,
       "rank": 23,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155312,
+      "num": 155312,
+      "word": "高市早苗被特朗普介绍后高兴到转圈",
+      "onboard_time": 1761718880,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154519,
       "num": 154519,
       "word": "重要账号建议密码长度不少于12位",
@@ -737,6 +777,14 @@
       "onboard_time": 1761712281,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151020,
+      "num": 191829,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1761719421,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 150118,
@@ -793,6 +841,14 @@
       "onboard_time": 1761652642,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140011,
+      "num": 123359,
+      "word": "手机内存是金子做的吗",
+      "onboard_time": 1761719720,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 139917,
@@ -899,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131238,
+      "num": 131238,
+      "word": "蔡依林萧亚轩在芒果合体了",
+      "onboard_time": 1761717201,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130606,
       "num": 130606,
       "word": "女狱警与囚犯发生关系还有囚犯放风",
@@ -971,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126269,
+      "num": 122596,
+      "word": "ON假期与朋友聚会",
+      "onboard_time": 1761718341,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124056,
       "num": 124056,
       "word": "光与夜之恋第六日之前",
@@ -987,12 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122021,
-      "num": 173474,
-      "word": "未来五年大量的钱将流向这里",
-      "onboard_time": 1761713961,
-      "rank": 29,
-      "category": "财经"
+      "raw_hot": 122700,
+      "num": 122700,
+      "word": "文韬示弱打法稳拿第一",
+      "onboard_time": 1761718880,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 121554,
@@ -1035,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119146,
+      "num": 119146,
+      "word": "疑似携带病毒的猴子在美国逃脱",
+      "onboard_time": 1761719720,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118564,
       "num": 118564,
       "word": "庞铮offer7没播的新闻在复旦首播了",
@@ -1075,10 +1155,26 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113652,
+      "num": 113652,
+      "word": "Viper回应止步S15八强",
+      "onboard_time": 1761719062,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113386,
       "num": 113386,
       "word": "美队当爸爸",
       "onboard_time": 1761696680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113378,
+      "num": 113378,
+      "word": "徐若晗东方美人",
+      "onboard_time": 1761719539,
       "rank": 36,
       "category": "艺人"
     },
@@ -1147,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110620,
+      "num": 110620,
+      "word": "张凌赫工作室",
+      "onboard_time": 1761718941,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 108938,
       "num": 108938,
       "word": "林一cos铁筒僵尸",
@@ -1187,12 +1291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106030,
+      "num": 106030,
+      "word": "孤老贷66万去世民政局被判还款",
+      "onboard_time": 1761717620,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104897,
       "num": 104897,
       "word": "邢菲拖着一尾钻石裙",
       "onboard_time": 1761699261,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104043,
+      "num": 104043,
+      "word": "MANTA天生坏种",
+      "onboard_time": 1761719662,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 103944,
@@ -1211,6 +1331,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101559,
+      "num": 101559,
+      "word": "花少8国民级艺人",
+      "onboard_time": 1761719300,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101141,
+      "num": 101141,
+      "word": "和刘宇宁合唱的童星惨遭淘汰",
+      "onboard_time": 1761719602,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101002,
       "num": 101002,
       "word": "美警方称逃跑实验猴有攻击性",
@@ -1219,12 +1355,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100334,
+      "num": 100334,
+      "word": "枫原万叶",
+      "onboard_time": 1761719181,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99356,
       "num": 99356,
       "word": "Zeus回应止步S15八强",
       "onboard_time": 1761692716,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99297,
+      "num": 99297,
+      "word": "陈赫自己现在看都恍惚吧",
+      "onboard_time": 1761717140,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99048,
+      "num": 99048,
+      "word": "何赛飞儿子跟自己姓",
+      "onboard_time": 1761719900,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 98608,
@@ -1259,14 +1419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 96164,
-      "num": 96164,
-      "word": "留学生深夜徒手爬楼闯入女寝",
-      "onboard_time": 1761716600,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93834,
       "num": 93834,
       "word": "里约剿匪行动",
@@ -1296,6 +1448,14 @@
       "word": "今天这9个提醒转给长辈们",
       "onboard_time": 1761701360,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92770,
+      "num": 92770,
+      "word": "警方回应留学生深夜擅闯女寝",
+      "onboard_time": 1761719961,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1627,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51504,
+      "num": 127633,
+      "word": "刘浩存深蓝L06品牌大使",
+      "onboard_time": 1761719781,
+      "rank": 27,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 50672,
       "num": 50672,
       "word": "宁绣绣封二又相聚了",
@@ -1699,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36112,
+      "num": 173651,
+      "word": "胡兵冻龄的健康管理帮手AQ",
+      "onboard_time": 1761715762,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34354,
       "num": 140603,
       "word": "缅甸军方连续多日爆破KK园区",
@@ -1755,20 +1931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28004,
-      "num": 173651,
-      "word": "胡兵冻龄的健康管理帮手AQ",
-      "onboard_time": 1761715762,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26098,
       "num": 36642,
       "word": "家业",
       "onboard_time": 1761672436,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25578,
+      "num": 584478,
+      "word": "网警提醒护老安全莫松懈平安度重阳",
+      "onboard_time": 1761716720,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25384,
@@ -1793,6 +1969,14 @@
       "onboard_time": 1761679094,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23459,
+      "num": 109425,
+      "word": "美国发生交通事故带病猴子逃跑",
+      "onboard_time": 1761718999,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21895,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761716632175,
+  "endTime": 1761720015414,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3939,6 +3939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 877757,
+      "num": 877757,
+      "word": "三峡大学留学生",
+      "onboard_time": 1761712941,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 877441,
       "num": 233728,
       "word": "在游泳馆跳水身亡男子系体育老师",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1760052378,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 771562,
-      "num": 258562,
-      "word": "三峡大学留学生",
-      "onboard_time": 1761712941,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 770502,
@@ -9145,6 +9145,14 @@
       "onboard_time": 1760762438,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548294,
+      "num": 202647,
+      "word": "韩网狂夸韩女的上海汉服妆造",
+      "onboard_time": 1761716000,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 548000,
@@ -13979,6 +13987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401680,
+      "num": 201521,
+      "word": "泽连斯基声称无力施压中国望美出手",
+      "onboard_time": 1761715162,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -14392,6 +14408,14 @@
       "word": "香港机场货机与地勤车相撞后坠海",
       "onboard_time": 1760922800,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389901,
+      "num": 389901,
+      "word": "留学生深夜徒手爬楼闯入女寝",
+      "onboard_time": 1761716600,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -15921,6 +15945,14 @@
       "onboard_time": 1761692839,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352484,
+      "num": 352484,
+      "word": "三峡大学官微关闭评论",
+      "onboard_time": 1761718282,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352364,
@@ -18899,6 +18931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 297210,
+      "num": 297210,
+      "word": "李维嘉杜海涛临时救场offer",
+      "onboard_time": 1761714741,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297179,
       "num": 586755,
       "word": "龚俊剧粉去哪了",
@@ -20241,14 +20281,6 @@
       "onboard_time": 1761406641,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 278125,
-      "num": 180992,
-      "word": "泽连斯基声称无力施压中国望美出手",
-      "onboard_time": 1761715162,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 278048,
@@ -22091,6 +22123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251919,
+      "num": 251919,
+      "word": "未来五年大量的钱将流向这里",
+      "onboard_time": 1761713961,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251906,
       "num": 186967,
       "word": "岳父机场接机梁靖崑",
@@ -23337,14 +23377,6 @@
       "onboard_time": 1761620421,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236492,
-      "num": 193578,
-      "word": "李维嘉杜海涛临时救场offer",
-      "onboard_time": 1761714741,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 236438,
@@ -24763,6 +24795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220526,
+      "num": 220526,
+      "word": "再见爱人",
+      "onboard_time": 1760520981,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220447,
       "num": 583753,
       "word": "Faker和Keria给历届S冠排名",
@@ -26091,14 +26131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207621,
-      "num": 147867,
-      "word": "韩网狂夸韩女的上海汉服妆造",
-      "onboard_time": 1761716000,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207610,
       "num": 218607,
       "word": "杨超越找工作找到女团去了",
@@ -26124,7 +26156,7 @@
     },
     {
       "raw_hot": 207564,
-      "num": 172403,
+      "num": 190650,
       "word": "短剧圈也有真夫妻了",
       "onboard_time": 1761715821,
       "rank": 23,
@@ -26673,14 +26705,6 @@
       "onboard_time": 1761535221,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204178,
-      "num": 204178,
-      "word": "再见爱人",
-      "onboard_time": 1760520981,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 204165,
@@ -38675,6 +38699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155312,
+      "num": 155312,
+      "word": "高市早苗被特朗普介绍后高兴到转圈",
+      "onboard_time": 1761718880,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155274,
       "num": 155274,
       "word": "锂电池出口管制",
@@ -40105,6 +40137,14 @@
       "onboard_time": 1760949622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151020,
+      "num": 191829,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1761719421,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 150947,
@@ -43769,6 +43809,14 @@
       "onboard_time": 1759292361,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140011,
+      "num": 123359,
+      "word": "手机内存是金子做的吗",
+      "onboard_time": 1761719720,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 139979,
@@ -47803,6 +47851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131238,
+      "num": 131238,
+      "word": "蔡依林萧亚轩在芒果合体了",
+      "onboard_time": 1761717201,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131230,
       "num": 131230,
       "word": "日媒称赞王楚钦气魄",
@@ -50171,6 +50227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126269,
+      "num": 122596,
+      "word": "ON假期与朋友聚会",
+      "onboard_time": 1761718341,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126240,
       "num": 126240,
       "word": "特朗普在以色列议会演讲被打断",
@@ -52099,6 +52163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122700,
+      "num": 122700,
+      "word": "文韬示弱打法稳拿第一",
+      "onboard_time": 1761718880,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122693,
       "num": 122693,
       "word": "MRC五连胜",
@@ -52497,14 +52569,6 @@
       "onboard_time": 1760097021,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122021,
-      "num": 173474,
-      "word": "未来五年大量的钱将流向这里",
-      "onboard_time": 1761713961,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 122004,
@@ -53977,6 +54041,14 @@
       "onboard_time": 1760247441,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119146,
+      "num": 119146,
+      "word": "疑似携带病毒的猴子在美国逃脱",
+      "onboard_time": 1761719720,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119139,
@@ -57107,6 +57179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113652,
+      "num": 113652,
+      "word": "Viper回应止步S15八强",
+      "onboard_time": 1761719062,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113644,
       "num": 113644,
       "word": "为什么苍蝇会把头拧下来玩",
@@ -57271,6 +57351,14 @@
       "num": 113386,
       "word": "美队当爸爸",
       "onboard_time": 1761696680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113378,
+      "num": 113378,
+      "word": "徐若晗东方美人",
+      "onboard_time": 1761719539,
       "rank": 36,
       "category": "艺人"
     },
@@ -59161,6 +59249,14 @@
       "onboard_time": 1760708603,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110620,
+      "num": 110620,
+      "word": "张凌赫工作室",
+      "onboard_time": 1761718941,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 110606,
@@ -62411,6 +62507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106030,
+      "num": 106030,
+      "word": "孤老贷66万去世民政局被判还款",
+      "onboard_time": 1761717620,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106019,
       "num": 134125,
       "word": "景德镇努力接住鸡排哥泼天流量",
@@ -63689,6 +63793,14 @@
       "onboard_time": 1761029660,
       "rank": 37,
       "category": "情感,科学科普"
+    },
+    {
+      "raw_hot": 104043,
+      "num": 104043,
+      "word": "MANTA天生坏种",
+      "onboard_time": 1761719662,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 104034,
@@ -65539,6 +65651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101559,
+      "num": 101559,
+      "word": "花少8国民级艺人",
+      "onboard_time": 1761719300,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101558,
       "num": 101558,
       "word": "檀健次路演人气",
@@ -65817,6 +65937,14 @@
       "onboard_time": 1761289040,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101141,
+      "num": 101141,
+      "word": "和刘宇宁合唱的童星惨遭淘汰",
+      "onboard_time": 1761719602,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 101139,
@@ -66305,6 +66433,14 @@
       "onboard_time": 1759837942,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100334,
+      "num": 100334,
+      "word": "枫原万叶",
+      "onboard_time": 1761719181,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 100333,
@@ -66883,6 +67019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99297,
+      "num": 99297,
+      "word": "陈赫自己现在看都恍惚吧",
+      "onboard_time": 1761717140,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99296,
       "num": 99296,
       "word": "时代少年团周边",
@@ -67065,6 +67209,14 @@
       "onboard_time": 1761273860,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99048,
+      "num": 99048,
+      "word": "何赛飞儿子跟自己姓",
+      "onboard_time": 1761719900,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 99027,
@@ -68768,14 +68920,6 @@
       "word": "官方回应网红骑马强闯洱海廊道",
       "onboard_time": 1759973718,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96164,
-      "num": 96164,
-      "word": "留学生深夜徒手爬楼闯入女寝",
-      "onboard_time": 1761716600,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -70985,6 +71129,14 @@
       "onboard_time": 1761380781,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92770,
+      "num": 92770,
+      "word": "警方回应留学生深夜擅闯女寝",
+      "onboard_time": 1761719961,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92713,
@@ -87411,6 +87563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51504,
+      "num": 127633,
+      "word": "刘浩存深蓝L06品牌大使",
+      "onboard_time": 1761719781,
+      "rank": 27,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 51397,
       "num": 51397,
       "word": "白宫裁员",
@@ -90787,6 +90947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36112,
+      "num": 173651,
+      "word": "胡兵冻龄的健康管理帮手AQ",
+      "onboard_time": 1761715762,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36099,
       "num": 36099,
       "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
@@ -92467,14 +92635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28004,
-      "num": 173651,
-      "word": "胡兵冻龄的健康管理帮手AQ",
-      "onboard_time": 1761715762,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27986,
       "num": 1073141,
       "word": "广电精品创作大会来了",
@@ -93067,6 +93227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25578,
+      "num": 584478,
+      "word": "网警提醒护老安全莫松懈平安度重阳",
+      "onboard_time": 1761716720,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25479,
       "num": 32437,
       "word": "郑智化深圳机场视频",
@@ -93561,6 +93729,14 @@
       "onboard_time": 1759438273,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23459,
+      "num": 109425,
+      "word": "美国发生交通事故带病猴子逃跑",
+      "onboard_time": 1761718999,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23430,
