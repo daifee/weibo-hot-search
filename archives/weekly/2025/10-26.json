@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761824296799,
+  "endTime": 1761828817216,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -481,6 +481,14 @@
       "onboard_time": 1761677773,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 982638,
+      "num": 173716,
+      "word": "刘谦抗癌成功后近况",
+      "onboard_time": 1761825621,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 977264,
@@ -1291,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 661160,
+      "num": 1105785,
+      "word": "山河枕热度",
+      "onboard_time": 1761824061,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658196,
       "num": 208358,
       "word": "周润发看望许绍雄",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1761528322,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575205,
+      "num": 167855,
+      "word": "大麦 偷跑",
+      "onboard_time": 1761824781,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 572676,
@@ -2427,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426393,
+      "num": 426393,
+      "word": "鼠鼠我啊要上太空了",
+      "onboard_time": 1761824301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425833,
       "num": 233610,
       "word": "爱生娃的十大省份",
@@ -3043,6 +3075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 336949,
+      "num": 159268,
+      "word": "小孩高铁生病哭闹乘客生气质问",
+      "onboard_time": 1761825441,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336497,
       "num": 336497,
       "word": "男子住酒店自带床单被罩全隔离",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1761457039,
       "rank": 31,
       "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 314563,
+      "num": 196353,
+      "word": "桂花很笨",
+      "onboard_time": 1761823344,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 314549,
@@ -4243,6 +4291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233294,
+      "num": 233294,
+      "word": "新闻女王2又来爆金句了",
+      "onboard_time": 1761823941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233167,
       "num": 233167,
       "word": "彭小苒 差十岁你们都嗑得动",
@@ -4449,6 +4505,14 @@
       "onboard_time": 1761745042,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 225457,
+      "num": 142896,
+      "word": "妻子去世获136万赔偿父女闹翻",
+      "onboard_time": 1761824361,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224620,
@@ -5195,6 +5259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197949,
+      "num": 141996,
+      "word": "张萌你别带资组都是你的",
+      "onboard_time": 1761825502,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197593,
       "num": 197593,
       "word": "富贵少爷把亲爹挂了",
@@ -5249,14 +5321,6 @@
       "onboard_time": 1761531140,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196353,
-      "num": 196353,
-      "word": "桂花很笨",
-      "onboard_time": 1761823344,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 196208,
@@ -6091,6 +6155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178382,
+      "num": 178382,
+      "word": "谁家好剧集齐四个影帝",
+      "onboard_time": 1761828022,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178339,
       "num": 178339,
       "word": "顶光下的孔雪儿",
@@ -6145,6 +6217,14 @@
       "onboard_time": 1761539841,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176773,
+      "num": 133833,
+      "word": "九尾帅麻了",
+      "onboard_time": 1761828201,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 176671,
@@ -6337,6 +6417,14 @@
       "onboard_time": 1761649882,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172699,
+      "num": 131355,
+      "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
+      "onboard_time": 1761825860,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 172674,
@@ -7283,6 +7371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156152,
+      "num": 156152,
+      "word": "解放军将以更强大能力粉碎台独图谋",
+      "onboard_time": 1761823462,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156114,
       "num": 156114,
       "word": "小时候最喜欢的国产动画",
@@ -8155,6 +8251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144301,
+      "num": 144301,
+      "word": "iQOONeo11发布会",
+      "onboard_time": 1761827782,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144202,
       "num": 144202,
       "word": "音乐缘计划首次七人成团",
@@ -8336,6 +8440,14 @@
       "word": "入青云直播",
       "onboard_time": 1761452601,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141366,
+      "num": 141366,
+      "word": "水龙吟改名封神榜吧",
+      "onboard_time": 1761827360,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8937,14 +9049,6 @@
       "onboard_time": 1761463400,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133877,
-      "num": 161173,
-      "word": "山河枕热度",
-      "onboard_time": 1761824061,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 133875,
@@ -9688,6 +9792,14 @@
       "word": "义乌的伴飞小鸟玩具火了",
       "onboard_time": 1761620539,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127195,
+      "num": 127195,
+      "word": "西安通报汽车撞上钟楼",
+      "onboard_time": 1761824001,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -10699,6 +10811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116392,
+      "num": 116392,
+      "word": "薛之谦被锤娜丽莎李川追着喂糖",
+      "onboard_time": 1761826462,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "林允公主皇冠",
@@ -10817,6 +10937,14 @@
       "onboard_time": 1761531559,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115555,
+      "num": 115555,
+      "word": "李沛恩营业",
+      "onboard_time": 1761827182,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 115545,
@@ -11867,14 +11995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 106858,
-      "num": 150448,
-      "word": "新闻女王2又来爆金句了",
-      "onboard_time": 1761823941,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106654,
       "num": 106654,
       "word": "Ning说G2是TES充电宝",
@@ -11899,6 +12019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106451,
+      "num": 106451,
+      "word": "中方一票否决朱拉尼摘出制裁名单",
+      "onboard_time": 1761827001,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106415,
       "num": 151792,
       "word": "刘宇宁像是要把衣服卖给周深",
@@ -11921,6 +12049,14 @@
       "onboard_time": 1761554421,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106299,
+      "num": 106299,
+      "word": "原来内娱真的有养成系友情",
+      "onboard_time": 1761828562,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 106277,
@@ -12875,6 +13011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97840,
+      "num": 133597,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97625,
       "num": 97625,
       "word": "美联储降息致金价回升",
@@ -12891,12 +13035,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97522,
+      "num": 97522,
+      "word": "邱鼎杰直播",
+      "onboard_time": 1761828682,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97400,
+      "num": 97400,
+      "word": "国内现货黄金克价跌破900元大关",
+      "onboard_time": 1761828682,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97383,
       "num": 101702,
       "word": "小酒窝走在学校会被打招呼",
       "onboard_time": 1761721761,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97331,
+      "num": 97331,
+      "word": "发明苹果包肉的人是天才吧",
+      "onboard_time": 1761825801,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 97166,
@@ -12921,6 +13089,14 @@
       "onboard_time": 1761743901,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97047,
+      "num": 140009,
+      "word": "莫雷加德或需自费参加洛奥",
+      "onboard_time": 1761827722,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 96848,
@@ -13321,6 +13497,14 @@
       "onboard_time": 1761614481,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92548,
+      "num": 136335,
+      "word": "中级会计 等成绩",
+      "onboard_time": 1761826880,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 92510,
@@ -14371,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77609,
+      "num": 144314,
+      "word": "iQOO让我在宿舍一战成名",
+      "onboard_time": 1761826041,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77550,
       "num": 77550,
       "word": "鹦鹉把这两口子得隐私全交代了",
@@ -14475,14 +14667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74988,
-      "num": 103191,
-      "word": "解放军将以更强大能力粉碎台独图谋",
-      "onboard_time": 1761823462,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 74973,
       "num": 138174,
       "word": "2个弟弟送姐姐出嫁吃分家饭时憋笑",
@@ -14553,6 +14737,14 @@
       "onboard_time": 1761612860,
       "rank": 47,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 72762,
+      "num": 171246,
+      "word": "央视追踪卖粮28万账户遭冻结案",
+      "onboard_time": 1761827482,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72551,
@@ -14968,14 +15160,6 @@
       "word": "人均30的现制酸奶卖不动了",
       "onboard_time": 1761730221,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63983,
-      "num": 133597,
-      "word": "女子生育后才领结婚证津贴少60天",
-      "onboard_time": 1761819621,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -16227,6 +16411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39773,
+      "num": 178292,
+      "word": "今晚八点京东首发机器人新品",
+      "onboard_time": 1761826041,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39741,
       "num": 116972,
       "word": "袁娅维我爱唱出温暖时光",
@@ -17112,6 +17304,14 @@
       "word": "前程无忧推送简历被看0次弹窗",
       "onboard_time": 1761729981,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23239,
+      "num": 113857,
+      "word": "深山走红动物园喊网友别打钱了",
+      "onboard_time": 1761827660,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
