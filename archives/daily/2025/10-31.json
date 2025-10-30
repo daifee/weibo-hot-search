@@ -1,9 +1,9 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761866666070,
+  "endTime": 1761867452423,
   "band_list": [
     {
-      "raw_hot": 785882,
+      "raw_hot": 874326,
       "num": 604917,
       "word": "建议不要将肉汤倒进下水道",
       "onboard_time": 1761837623,
@@ -19,20 +19,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 376157,
-      "num": 599730,
-      "word": "重庆一大学老师被指刻薄魅男",
-      "onboard_time": 1761842658,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376134,
+      "raw_hot": 474150,
       "num": 602635,
       "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
       "onboard_time": 1761825860,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473189,
+      "num": 599730,
+      "word": "重庆一大学老师被指刻薄魅男",
+      "onboard_time": 1761842658,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282252,
@@ -75,6 +75,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 247301,
+      "num": 741807,
+      "word": "警方通报钱志敏潜逃英国",
+      "onboard_time": 1761852194,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 239861,
+      "num": 601504,
+      "word": "金价狂飙婚事耽搁2年女子发声",
+      "onboard_time": 1761836362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210032,
       "num": 634475,
       "word": "高三男生赤脚进火场救坐轮椅邻居",
@@ -88,14 +104,6 @@
       "word": "重庆工商大学涉事学生道歉",
       "onboard_time": 1761816382,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194106,
-      "num": 601504,
-      "word": "金价狂飙婚事耽搁2年女子发声",
-      "onboard_time": 1761836362,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -131,16 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164832,
-      "num": 741807,
-      "word": "警方通报钱志敏潜逃英国",
-      "onboard_time": 1761852194,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 159777,
-      "num": 429370,
+      "num": 842057,
       "word": "中美元首会晤的重大意义",
       "onboard_time": 1761850095,
       "rank": 31,
@@ -153,6 +153,14 @@
       "onboard_time": 1761833603,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155936,
+      "num": 601995,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150311,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141222,
+      "num": 67388,
+      "word": "杨瀚森恐遭开拓者边缘化",
+      "onboard_time": 1761867319,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130636,
       "num": 603263,
       "word": "李飞 没法创排谁能管管",
@@ -187,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125701,
+      "num": 444856,
+      "word": "外交部奉劝巴拉圭政府",
+      "onboard_time": 1761848775,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123783,
       "num": 616622,
       "word": "美方加征24%关税继续暂停一年",
       "onboard_time": 1761809000,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119296,
-      "num": 601995,
-      "word": "公务员不是混日子避风港",
-      "onboard_time": 1761817761,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113627,
@@ -235,28 +251,36 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 106367,
-      "num": 444856,
-      "word": "外交部奉劝巴拉圭政府",
-      "onboard_time": 1761848775,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 104087,
+      "num": 104087,
+      "word": "胡杏儿送胡定欣一对纯金龙凤镯",
+      "onboard_time": 1761867438,
+      "rank": 21,
+      "category": "艺人"
     },
     {
-      "raw_hot": 96460,
-      "num": 96460,
+      "raw_hot": 101116,
+      "num": 601695,
+      "word": "妻子去世获136万赔偿父女闹翻",
+      "onboard_time": 1761824361,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98051,
+      "num": 108409,
       "word": "原来现实里真的有莫小贝",
       "onboard_time": 1761863236,
       "rank": 40,
       "category": "幽默"
     },
     {
-      "raw_hot": 94904,
-      "num": 601695,
-      "word": "妻子去世获136万赔偿父女闹翻",
-      "onboard_time": 1761824361,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 94514,
+      "num": 600594,
+      "word": "尼格买提原来现实中长这样",
+      "onboard_time": 1761842119,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 94413,
@@ -267,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89007,
-      "num": 600594,
-      "word": "尼格买提原来现实中长这样",
-      "onboard_time": 1761842119,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88967,
       "num": 610793,
       "word": "国防部回应台湾高清卫星图",
       "onboard_time": 1761818721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88292,
+      "num": 417915,
+      "word": "蕉内回应地铁广告辣眼",
+      "onboard_time": 1761849616,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86760,
@@ -299,6 +323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82942,
+      "num": 427984,
+      "word": "山河枕首播实时热度登顶",
+      "onboard_time": 1761850695,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80527,
+      "num": 88799,
+      "word": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
+      "onboard_time": 1761862515,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78690,
       "num": 601106,
       "word": "大麦致歉声明",
@@ -315,28 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76332,
-      "num": 417915,
-      "word": "蕉内回应地铁广告辣眼",
-      "onboard_time": 1761849616,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72777,
-      "num": 88799,
-      "word": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
-      "onboard_time": 1761862515,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 70763,
-      "num": 427984,
-      "word": "山河枕首播实时热度登顶",
-      "onboard_time": 1761850695,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 74012,
+      "num": 64125,
+      "word": "特朗普全面关税被参议院批准终止",
+      "onboard_time": 1761866959,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69494,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59918,
+      "num": 59918,
+      "word": "中级会计",
+      "onboard_time": 1761867438,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 58930,
       "num": 402157,
       "word": "爱自己的5个层次",
@@ -419,7 +451,15 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 55165,
+      "raw_hot": 57859,
+      "num": 418057,
+      "word": "丁太升谈周深单依纯升key事件",
+      "onboard_time": 1761846075,
+      "rank": 25,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 57504,
       "num": 88700,
       "word": "徐冬冬称不会为了备婚减肥",
       "onboard_time": 1761861554,
@@ -433,6 +473,14 @@
       "onboard_time": 1761829282,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53833,
+      "num": 57482,
+      "word": "英国安德鲁王子被剥夺头衔",
+      "onboard_time": 1761867079,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53647,
@@ -467,14 +515,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 52281,
-      "num": 418057,
-      "word": "丁太升谈周深单依纯升key事件",
-      "onboard_time": 1761846075,
-      "rank": 25,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 51283,
       "num": 410443,
       "word": "JackeyLove赛后发博",
@@ -499,6 +539,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 42950,
+      "num": 106331,
+      "word": "神21今日出征",
+      "onboard_time": 1761867079,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38582,
       "num": 599175,
       "word": "蕉内地铁广告被指辣眼",
@@ -507,7 +555,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35732,
+      "raw_hot": 36175,
       "num": 409030,
       "word": "涉事学生不该给老师贴媚男标签",
       "onboard_time": 1761851474,
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 17808,
-      "num": 97206,
+      "num": 107093,
       "word": "中国电影大数据荣誉之夜影人群像",
       "onboard_time": 1761853815,
       "rank": 19,
@@ -595,7 +643,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15679,
+      "raw_hot": 16306,
       "num": 449311,
       "word": "2025APEC",
       "onboard_time": 1761814223,
