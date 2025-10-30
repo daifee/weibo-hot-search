@@ -1,10 +1,10 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761801974857,
+  "endTime": 1761802944933,
   "band_list": [
     {
-      "raw_hot": 4929141,
-      "num": 302050,
+      "raw_hot": 6469656,
+      "num": 6469656,
       "word": "江一燕离婚",
       "onboard_time": 1761799282,
       "rank": 33,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 987488,
+      "num": 1157998,
+      "word": "高市早苗当面拒绝美国要求",
+      "onboard_time": 1761800363,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 959006,
       "num": 461824,
       "word": "on",
@@ -73,14 +81,6 @@
       "onboard_time": 1761792020,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 855641,
-      "num": 1136902,
-      "word": "高市早苗当面拒绝美国要求",
-      "onboard_time": 1761800363,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 837050,
@@ -123,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662611,
+      "num": 328790,
+      "word": "37岁阚清子孕晚期状态",
+      "onboard_time": 1761798142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634015,
       "num": 926511,
       "word": "新毒株甲型H3N2来袭",
       "onboard_time": 1761745042,
       "rank": 4,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 629405,
-      "num": 328790,
-      "word": "37岁阚清子孕晚期状态",
-      "onboard_time": 1761798142,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 610562,
@@ -275,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 349164,
+      "num": 278083,
+      "word": "向太说嫁入豪门基本不幸福",
+      "onboard_time": 1761800903,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341970,
       "num": 341970,
       "word": "里夫斯绝杀森林狼",
@@ -327,14 +335,6 @@
       "num": 417475,
       "word": "杨雨光 李明磊",
       "onboard_time": 1761750323,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278083,
-      "num": 278083,
-      "word": "向太说嫁入豪门基本不幸福",
-      "onboard_time": 1761800903,
       "rank": 14,
       "category": "艺人"
     },
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237464,
+      "num": 208487,
+      "word": "原来女明星们候场也坐塑料凳子",
+      "onboard_time": 1761800063,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230950,
       "num": 281406,
       "word": "再见爱人5",
@@ -457,14 +465,6 @@
       "onboard_time": 1761794781,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 208487,
-      "num": 208487,
-      "word": "原来女明星们候场也坐塑料凳子",
-      "onboard_time": 1761800063,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 207566,
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187876,
+      "num": 187876,
+      "word": "稀土",
+      "onboard_time": 1761802043,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187575,
       "num": 175841,
       "word": "何炅人没来镜头一点没少",
@@ -577,6 +585,14 @@
       "onboard_time": 1761793159,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184701,
+      "num": 184701,
+      "word": "出门在外七情六欲只剩食欲",
+      "onboard_time": 1761802283,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 182733,
@@ -699,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155296,
+      "num": 155296,
+      "word": "黄磊调侃自己被网上传得像在ICU",
+      "onboard_time": 1761801022,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154957,
       "num": 154957,
       "word": "钟汉良法拉利还是那个法拉利",
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145053,
+      "num": 145053,
+      "word": "想整理一下房间结果三年过去了",
+      "onboard_time": 1761802403,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143600,
       "num": 129444,
       "word": "陈乔恩说自己很强选择的伴侣就不会差",
@@ -801,6 +833,14 @@
       "onboard_time": 1761795681,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137983,
+      "num": 137983,
+      "word": "吃播网红回应在高铁边吃边吐2小时",
+      "onboard_time": 1761802644,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137465,
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 131644,
-      "num": 148973,
+      "num": 155633,
       "word": "支付方式变了盗窃手段也升级了",
       "onboard_time": 1761801381,
       "rank": 28,
@@ -875,12 +915,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122961,
-      "num": 122961,
-      "word": "黄磊调侃自己被网上传得像在ICU",
-      "onboard_time": 1761801022,
-      "rank": 36,
+      "raw_hot": 124653,
+      "num": 124653,
+      "word": "刘亦菲带火满天星",
+      "onboard_time": 1761800662,
+      "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122557,
+      "num": 122557,
+      "word": "订单留言被在意是种什么感觉",
+      "onboard_time": 1761802525,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 121783,
@@ -889,14 +937,6 @@
       "onboard_time": 1761801562,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121430,
-      "num": 121430,
-      "word": "刘亦菲带火满天星",
-      "onboard_time": 1761800662,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 120217,
@@ -937,6 +977,14 @@
       "onboard_time": 1761791060,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117623,
+      "num": 117623,
+      "word": "女孩要卖房留学起诉重病父亲",
+      "onboard_time": 1761799463,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117501,
@@ -1041,14 +1089,6 @@
       "onboard_time": 1761752900,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107591,
-      "num": 107591,
-      "word": "女孩要卖房留学起诉重病父亲",
-      "onboard_time": 1761799463,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106277,
@@ -1219,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90750,
+      "num": 138704,
+      "word": "维嘉说何老师是买单王",
+      "onboard_time": 1761801863,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90046,
       "num": 169453,
       "word": "蓝战非车祸后报平安",
@@ -1347,20 +1395,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70273,
+      "num": 193166,
+      "word": "十五运会进入10天倒计时",
+      "onboard_time": 1761802163,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69508,
       "num": 409377,
       "word": "建议大家点外卖不要点预订单",
       "onboard_time": 1761732201,
       "rank": 34,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 68951,
-      "num": 121784,
-      "word": "维嘉说何老师是买单王",
-      "onboard_time": 1761801863,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 68758,
@@ -1475,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55552,
+      "num": 192028,
+      "word": "西安省级文保户县钟楼深夜被撞",
+      "onboard_time": 1761802583,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54661,
       "num": 156824,
       "word": "神21航天员简历",
@@ -1507,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49545,
+      "num": 209131,
+      "word": "双11给你指条明道",
+      "onboard_time": 1761800783,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49518,
       "num": 101845,
       "word": "向鹏2比3弗朗西斯卡",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1761746904,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48778,
+      "num": 185644,
+      "word": "网曝湖南永州一烈士墓地成养鸡场",
+      "onboard_time": 1761802703,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48185,
@@ -1539,20 +1611,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 45961,
-      "num": 209131,
-      "word": "双11给你指条明道",
-      "onboard_time": 1761800783,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 45259,
       "num": 405861,
       "word": "肖宇梁的打戏戒不掉",
       "onboard_time": 1761756199,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44805,
+      "num": 140921,
+      "word": "张晚意什么时候开班",
+      "onboard_time": 1761802223,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 44485,
@@ -1612,7 +1684,7 @@
     },
     {
       "raw_hot": 40977,
-      "num": 97009,
+      "num": 112496,
       "word": "好信用派上用场了",
       "onboard_time": 1761800962,
       "rank": 49,
@@ -1668,7 +1740,7 @@
     },
     {
       "raw_hot": 37652,
-      "num": 120974,
+      "num": 136349,
       "word": "变老是从哪一刻开始的",
       "onboard_time": 1761800482,
       "rank": 39,
@@ -1712,6 +1784,14 @@
       "word": "北京发布大雾预警",
       "onboard_time": 1761752721,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28515,
+      "num": 154068,
+      "word": "子女为老人做断舍离收出384个塑料袋",
+      "onboard_time": 1761802764,
+      "rank": 32,
       "category": "民生新闻"
     },
     {

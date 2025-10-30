@@ -1,0 +1,410 @@
+{
+  "runTime": 1761802944933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 987488,
+        "num": 1157998,
+        "word": "高市早苗当面拒绝美国要求",
+        "onboard_time": 1761800363,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 774606,
+        "num": 774606,
+        "word": "大学生集体染上水龙瘾了",
+        "onboard_time": 1761796821,
+        "rank": 1,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 18956,
+        "num": 594524,
+        "word": "跟着这张思维导图学十五五规划建议",
+        "onboard_time": 1761757638,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592111,
+        "num": 592111,
+        "word": "中美元首握手合影",
+        "onboard_time": 1761794540,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420132,
+        "num": 420132,
+        "word": "高市早苗演砸了",
+        "onboard_time": 1761791839,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319353,
+        "num": 319353,
+        "word": "中国年龄最小的航天员",
+        "onboard_time": 1761789679,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314352,
+        "num": 314352,
+        "word": "特朗普回应会晤",
+        "onboard_time": 1761794781,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291739,
+        "num": 291739,
+        "word": "里夫斯绝杀森林狼",
+        "onboard_time": 1761798263,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25110,
+        "num": 253332,
+        "word": "神21瞄准31日23时44分发射",
+        "onboard_time": 1761787879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220209,
+        "num": 220209,
+        "word": "中美元首釜山会晤现场",
+        "onboard_time": 1761790880,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6469656,
+        "num": 6469656,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662611,
+        "num": 211579,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365556,
+        "num": 205545,
+        "word": "上完厕所卧铺被外国人霸占",
+        "onboard_time": 1761795681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349164,
+        "num": 196399,
+        "word": "向太说嫁入豪门基本不幸福",
+        "onboard_time": 1761800903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195826,
+        "num": 195826,
+        "word": "再见爱人5",
+        "onboard_time": 1761799404,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147806,
+        "num": 194911,
+        "word": "巅峰榜十大艺人",
+        "onboard_time": 1761797001,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49545,
+        "num": 194652,
+        "word": "双11给你指条明道",
+        "onboard_time": 1761800783,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70273,
+        "num": 193166,
+        "word": "十五运会进入10天倒计时",
+        "onboard_time": 1761802163,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55552,
+        "num": 192028,
+        "word": "西安省级文保户县钟楼深夜被撞",
+        "onboard_time": 1761802583,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43242,
+        "num": 191240,
+        "word": "好运接接接接波1折好货",
+        "onboard_time": 1761800783,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243520,
+        "num": 189472,
+        "word": "时间带走了Angelababy什么",
+        "onboard_time": 1761784760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237464,
+        "num": 188105,
+        "word": "原来女明星们候场也坐塑料凳子",
+        "onboard_time": 1761800063,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187876,
+        "num": 187876,
+        "word": "稀土",
+        "onboard_time": 1761802043,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48778,
+        "num": 185644,
+        "word": "网曝湖南永州一烈士墓地成养鸡场",
+        "onboard_time": 1761802703,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184701,
+        "num": 184701,
+        "word": "出门在外七情六欲只剩食欲",
+        "onboard_time": 1761802283,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181220,
+        "num": 181220,
+        "word": "鞠婧祎发型师起诉丝芭传媒",
+        "onboard_time": 1761800182,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166453,
+        "num": 166453,
+        "word": "黄金",
+        "onboard_time": 1761790220,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160641,
+        "num": 160641,
+        "word": "爷爷起的名字堪比古代进士",
+        "onboard_time": 1761787699,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156301,
+        "num": 156301,
+        "word": "韩国机场鸣放21响礼炮",
+        "onboard_time": 1761792020,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110010,
+        "num": 155633,
+        "word": "支付方式变了盗窃手段也升级了",
+        "onboard_time": 1761801381,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465871,
+        "num": 155565,
+        "word": "刘强东扶着章泽天",
+        "onboard_time": 1761795623,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155296,
+        "num": 155296,
+        "word": "黄磊调侃自己被网上传得像在ICU",
+        "onboard_time": 1761801022,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28515,
+        "num": 154068,
+        "word": "子女为老人做断舍离收出384个塑料袋",
+        "onboard_time": 1761802764,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153667,
+        "num": 153667,
+        "word": "给女儿的300克黄金嫁妆掉落高速上",
+        "onboard_time": 1761793579,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147013,
+        "num": 147013,
+        "word": "美国重启核试验",
+        "onboard_time": 1761797243,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145053,
+        "num": 145053,
+        "word": "想整理一下房间结果三年过去了",
+        "onboard_time": 1761802403,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 44805,
+        "num": 140921,
+        "word": "张晚意什么时候开班",
+        "onboard_time": 1761802223,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90750,
+        "num": 138704,
+        "word": "维嘉说何老师是买单王",
+        "onboard_time": 1761801863,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137983,
+        "num": 137983,
+        "word": "吃播网红回应在高铁边吃边吐2小时",
+        "onboard_time": 1761802644,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29620,
+        "num": 136349,
+        "word": "变老是从哪一刻开始的",
+        "onboard_time": 1761800482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136249,
+        "num": 136249,
+        "word": "女医学生被前男友杀害",
+        "onboard_time": 1761787340,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "A股",
+        "onboard_time": 1761795081,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130254,
+        "num": 130254,
+        "word": "王昱中戏毕业表演0分",
+        "onboard_time": 1761797481,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "拖堂都拖到婚姻的殿堂了",
+        "onboard_time": 1761799342,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125238,
+        "num": 125238,
+        "word": "戚薇说张艺凡很像Lucky",
+        "onboard_time": 1761797302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124653,
+        "num": 124653,
+        "word": "刘亦菲带火满天星",
+        "onboard_time": 1761800662,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "订单留言被在意是种什么感觉",
+        "onboard_time": 1761802525,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117623,
+        "num": 117623,
+        "word": "女孩要卖房留学起诉重病父亲",
+        "onboard_time": 1761799463,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112527,
+        "num": 112527,
+        "word": "你的50块正在揍你的3000块",
+        "onboard_time": 1761795441,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37243,
+        "num": 112496,
+        "word": "好信用派上用场了",
+        "onboard_time": 1761800962,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首釜山会晤#"
+    }
+  }
+}
