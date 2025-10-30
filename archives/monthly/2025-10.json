@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761853014797,
+  "endTime": 1761856147689,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -95355,6 +95355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40074,
+      "num": 429370,
+      "word": "中美元首会晤的重大意义",
+      "onboard_time": 1761850095,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40066,
       "num": 108060,
       "word": "里夫斯膝盖受伤",
@@ -99627,14 +99635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22172,
-      "num": 429370,
-      "word": "中美元首会晤的重大意义",
-      "onboard_time": 1761850095,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22162,
       "num": 26502,
       "word": "檀健次被送锦旗有种领奖的感觉",
@@ -99801,6 +99801,14 @@
       "onboard_time": 1759383381,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21164,
+      "num": 427984,
+      "word": "山河枕首播实时热度登顶",
+      "onboard_time": 1761850695,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 21060,
@@ -100467,14 +100475,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 18269,
-      "num": 427984,
-      "word": "山河枕首播实时热度登顶",
-      "onboard_time": 1761850695,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18251,
       "num": 194967,
       "word": "文化中国行重阳遇非遗",
@@ -100593,6 +100593,14 @@
       "onboard_time": 1759559120,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17808,
+      "num": 19683,
+      "word": "中国电影大数据荣誉之夜影人群像",
+      "onboard_time": 1761853815,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 17649,
@@ -100729,6 +100737,14 @@
       "onboard_time": 1760628202,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16879,
+      "num": 18509,
+      "word": "神二十一乘组有了新名字",
+      "onboard_time": 1761853454,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16835,
@@ -100961,6 +100977,14 @@
       "onboard_time": 1760513900,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15528,
+      "num": 390774,
+      "word": "警方通报钱志敏潜逃英国",
+      "onboard_time": 1761852194,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 15464,
@@ -101265,14 +101289,6 @@
       "onboard_time": 1760901735,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14175,
-      "num": 390774,
-      "word": "警方通报钱志敏潜逃英国",
-      "onboard_time": 1761852194,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14172,
@@ -101625,6 +101641,14 @@
       "onboard_time": 1760822835,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11834,
+      "num": 18415,
+      "word": "中美可以相互成就",
+      "onboard_time": 1761855793,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11723,

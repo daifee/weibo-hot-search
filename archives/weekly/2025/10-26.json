@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761853014797,
+  "endTime": 1761856147689,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -17027,6 +17027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40074,
+      "num": 429370,
+      "word": "中美元首会晤的重大意义",
+      "onboard_time": 1761850095,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40034,
       "num": 158220,
       "word": "让残疾人从从容容登机不该是奢望",
@@ -18035,14 +18043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 22172,
-      "num": 429370,
-      "word": "中美元首会晤的重大意义",
-      "onboard_time": 1761850095,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21895,
       "num": 28894,
       "word": "王一博探索新境第2季预告",
@@ -18089,6 +18089,14 @@
       "onboard_time": 1761742462,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21164,
+      "num": 427984,
+      "word": "山河枕首播实时热度登顶",
+      "onboard_time": 1761850695,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 20741,
@@ -18267,14 +18275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18269,
-      "num": 427984,
-      "word": "山河枕首播实时热度登顶",
-      "onboard_time": 1761850695,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18251,
       "num": 194967,
       "word": "文化中国行重阳遇非遗",
@@ -18331,6 +18331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17808,
+      "num": 19683,
+      "word": "中国电影大数据荣誉之夜影人群像",
+      "onboard_time": 1761853815,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17530,
       "num": 24437,
       "word": "刘宇宁黑袍剑客",
@@ -18363,6 +18371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16879,
+      "num": 18509,
+      "word": "神二十一乘组有了新名字",
+      "onboard_time": 1761853454,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16682,
       "num": 24705,
       "word": "吴昕ELLE红毯造型",
@@ -18377,6 +18393,14 @@
       "onboard_time": 1761590535,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 15528,
+      "num": 390774,
+      "word": "警方通报钱志敏潜逃英国",
+      "onboard_time": 1761852194,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 15372,
@@ -18467,14 +18491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14175,
-      "num": 390774,
-      "word": "警方通报钱志敏潜逃英国",
-      "onboard_time": 1761852194,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 13956,
       "num": 24001,
       "word": "Beichuan掩面ELK捂鼻",
@@ -18553,6 +18569,14 @@
       "onboard_time": 1761561201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11834,
+      "num": 18415,
+      "word": "中美可以相互成就",
+      "onboard_time": 1761855793,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11446,

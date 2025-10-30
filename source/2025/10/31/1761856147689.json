@@ -1,0 +1,410 @@
+{
+  "runTime": 1761856147689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 325025,
+        "num": 325025,
+        "word": "Mac",
+        "onboard_time": 1761852194,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40074,
+        "num": 40074,
+        "word": "中美元首会晤的重大意义",
+        "onboard_time": 1761850095,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6628,
+        "num": 33577,
+        "word": "2025APEC",
+        "onboard_time": 1761814223,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42330,
+        "num": 33565,
+        "word": "被18岁男生从火场救出老人女儿发声",
+        "onboard_time": 1761844276,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33432,
+        "num": 33432,
+        "word": "高三男生赤脚进火场救坐轮椅邻居",
+        "onboard_time": 1761833360,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 29353,
+        "num": 29353,
+        "word": "外交部奉劝巴拉圭政府",
+        "onboard_time": 1761848775,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26484,
+        "num": 26484,
+        "word": "泰国哀悼王太后服装店换成黑白款",
+        "onboard_time": 1761834982,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23654,
+        "num": 23654,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22814,
+        "num": 22814,
+        "word": "Homme建议LPL缩减队伍",
+        "onboard_time": 1761833424,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22583,
+        "num": 22583,
+        "word": "中级会计 等成绩",
+        "onboard_time": 1761826880,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94548,
+        "num": 22536,
+        "word": "建议不要将肉汤倒进下水道",
+        "onboard_time": 1761837623,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47693,
+        "num": 22331,
+        "word": "重庆一大学老师被指刻薄魅男",
+        "onboard_time": 1761842658,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26221,
+        "num": 21975,
+        "word": "火锅店回应空中座位玻璃碎裂",
+        "onboard_time": 1761839901,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24660,
+        "num": 21816,
+        "word": "刘谦抗癌成功后近况",
+        "onboard_time": 1761825621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24462,
+        "num": 21638,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21450,
+        "num": 21450,
+        "word": "小孩高铁生病哭闹乘客生气质问",
+        "onboard_time": 1761825441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21164,
+        "num": 21164,
+        "word": "山河枕首播实时热度登顶",
+        "onboard_time": 1761850695,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19773,
+        "num": 19773,
+        "word": "鼠鼠我啊要上太空了",
+        "onboard_time": 1761824301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17819,
+        "num": 19702,
+        "word": "金价狂飙婚事耽搁2年女子发声",
+        "onboard_time": 1761836362,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17808,
+        "num": 19683,
+        "word": "中国电影大数据荣誉之夜影人群像",
+        "onboard_time": 1761853815,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27109,
+        "num": 19683,
+        "word": "女子做绿番茄美甲遇冷秒变红",
+        "onboard_time": 1761835882,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19683,
+        "num": 19682,
+        "word": "蕉内回应地铁广告辣眼",
+        "onboard_time": 1761849616,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19553,
+        "num": 19553,
+        "word": "妻子去世获136万赔偿父女闹翻",
+        "onboard_time": 1761824361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19436,
+        "num": 19436,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18801,
+        "num": 18801,
+        "word": "尼格买提原来现实中长这样",
+        "onboard_time": 1761842119,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18519,
+        "num": 18519,
+        "word": "山河枕",
+        "onboard_time": 1761819080,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17086,
+        "num": 18518,
+        "word": "涉事学生不该给老师贴媚男标签",
+        "onboard_time": 1761851474,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16879,
+        "num": 18509,
+        "word": "神二十一乘组有了新名字",
+        "onboard_time": 1761853454,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19131,
+        "num": 18509,
+        "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
+        "onboard_time": 1761825860,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16217,
+        "num": 18500,
+        "word": "华晨宇演唱会文昌站官宣",
+        "onboard_time": 1761829282,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16042,
+        "num": 18499,
+        "word": "国防部回应台湾高清卫星图",
+        "onboard_time": 1761818721,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15528,
+        "num": 18493,
+        "word": "警方通报钱志敏潜逃英国",
+        "onboard_time": 1761852194,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15281,
+        "num": 18491,
+        "word": "中方对军品出口采取慎重负责态度",
+        "onboard_time": 1761838041,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15193,
+        "num": 18485,
+        "word": "满13岁女生免费接种HPV疫苗",
+        "onboard_time": 1761818962,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 14984,
+        "num": 18479,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 18474,
+        "word": "美国商务部闯大祸",
+        "onboard_time": 1761821360,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 18470,
+        "word": "跑男团有孩子和没孩子的区别",
+        "onboard_time": 1761829042,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13988,
+        "num": 18464,
+        "word": "马龙王楚钦备战全运",
+        "onboard_time": 1761840621,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13855,
+        "num": 18459,
+        "word": "李飞 没法创排谁能管管",
+        "onboard_time": 1761840501,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13810,
+        "num": 18457,
+        "word": "爱自己的5个层次",
+        "onboard_time": 1761840441,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13281,
+        "num": 18451,
+        "word": "政府主管部门接管民企数亿资产",
+        "onboard_time": 1761838461,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13207,
+        "num": 18447,
+        "word": "大麦致歉声明",
+        "onboard_time": 1761836241,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13085,
+        "num": 18439,
+        "word": "戚薇是田曦薇永远的榜一",
+        "onboard_time": 1761833002,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13061,
+        "num": 18438,
+        "word": "丁太升谈周深单依纯升key事件",
+        "onboard_time": 1761846075,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 12309,
+        "num": 18429,
+        "word": "公务员不是混日子避风港",
+        "onboard_time": 1761817761,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12118,
+        "num": 18424,
+        "word": "动森更新",
+        "onboard_time": 1761834564,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11902,
+        "num": 18423,
+        "word": "肖战才进组就传了三个饼",
+        "onboard_time": 1761833603,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11834,
+        "num": 18415,
+        "word": "中美可以相互成就",
+        "onboard_time": 1761855793,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11764,
+        "num": 18415,
+        "word": "JackeyLove赛后发博",
+        "onboard_time": 1761837502,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11386,
+        "num": 18409,
+        "word": "第十五届全运会",
+        "onboard_time": 1761855073,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这些话亮明中国态度#"
+    }
+  }
+}
