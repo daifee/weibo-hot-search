@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761852101137,
+  "endTime": 1761853014797,
   "band_list": [
     {
       "raw_hot": 779217,
@@ -9,6 +9,14 @@
       "onboard_time": 1761837623,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450791,
+      "num": 450791,
+      "word": "Mac",
+      "onboard_time": 1761852194,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 282252,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 58930,
-      "num": 140473,
+      "num": 402157,
       "word": "爱自己的5个层次",
       "onboard_time": 1761840441,
       "rank": 39,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 58691,
-      "num": 363979,
+      "num": 448159,
       "word": "被18岁男生从火场救出老人女儿发声",
       "onboard_time": 1761844276,
       "rank": 48,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 51283,
-      "num": 381983,
+      "num": 410443,
       "word": "JackeyLove赛后发博",
       "onboard_time": 1761837502,
       "rank": 47,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30724,
+      "num": 444856,
+      "word": "外交部奉劝巴拉圭政府",
+      "onboard_time": 1761848775,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29554,
       "num": 366612,
       "word": "女子生育后才领结婚证津贴少60天",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 27951,
-      "num": 128398,
+      "num": 418057,
       "word": "丁太升谈周深单依纯升key事件",
       "onboard_time": 1761846075,
       "rank": 25,
@@ -451,16 +467,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21706,
-      "num": 128149,
-      "word": "外交部奉劝巴拉圭政府",
-      "onboard_time": 1761848775,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 22172,
+      "num": 429370,
+      "word": "中美元首会晤的重大意义",
+      "onboard_time": 1761850095,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20963,
-      "num": 128232,
+      "num": 415007,
       "word": "动森更新",
       "onboard_time": 1761834564,
       "rank": 35,
@@ -475,40 +491,48 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20180,
-      "num": 91231,
-      "word": "中美元首会晤的重大意义",
-      "onboard_time": 1761850095,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17480,
-      "num": 90583,
+      "raw_hot": 20568,
+      "num": 417915,
       "word": "蕉内回应地铁广告辣眼",
       "onboard_time": 1761849616,
       "rank": 43,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15617,
-      "num": 32120,
+      "raw_hot": 20049,
+      "num": 413302,
+      "word": "罗云熙方逸伦别人难哄他们难绷",
+      "onboard_time": 1761852495,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18537,
+      "num": 409030,
       "word": "涉事学生不该给老师贴媚男标签",
       "onboard_time": 1761851474,
       "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14095,
-      "num": 32559,
+      "raw_hot": 18269,
+      "num": 427984,
       "word": "山河枕首播实时热度登顶",
       "onboard_time": 1761850695,
       "rank": 19,
       "category": "剧集"
     },
     {
-      "raw_hot": 6917,
-      "num": 128775,
+      "raw_hot": 14175,
+      "num": 390774,
+      "word": "警方通报钱志敏潜逃英国",
+      "onboard_time": 1761852194,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7101,
+      "num": 449311,
       "word": "2025APEC",
       "onboard_time": 1761814223,
       "rank": 2,
