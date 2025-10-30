@@ -1,7 +1,15 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761794312736,
+  "endTime": 1761795169277,
   "band_list": [
+    {
+      "raw_hot": 1307310,
+      "num": 1307310,
+      "word": "中美元首釜山会晤现场",
+      "onboard_time": 1761790880,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1117292,
       "num": 336318,
@@ -35,11 +43,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 945499,
-      "num": 1151279,
-      "word": "中美元首釜山会晤现场",
-      "onboard_time": 1761790880,
-      "rank": 0,
+      "raw_hot": 882735,
+      "num": 882735,
+      "word": "韩国机场鸣放21响礼炮",
+      "onboard_time": 1761792020,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -51,20 +59,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 745080,
+      "num": 175105,
+      "word": "BLG 商K狼人杀",
+      "onboard_time": 1761792079,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 708035,
       "num": 244944,
       "word": "胡歌直言无法走出母亲去世阴影",
       "onboard_time": 1761783801,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 671976,
-      "num": 175105,
-      "word": "BLG 商K狼人杀",
-      "onboard_time": 1761792079,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 634015,
@@ -81,6 +89,14 @@
       "onboard_time": 1761787101,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 597242,
+      "num": 223846,
+      "word": "黄金",
+      "onboard_time": 1761790220,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 579692,
@@ -107,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554641,
-      "num": 223846,
-      "word": "黄金",
-      "onboard_time": 1761790220,
-      "rank": 21,
-      "category": "财经"
+      "raw_hot": 531544,
+      "num": 531544,
+      "word": "中国年龄最小的航天员",
+      "onboard_time": 1761789679,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 448237,
@@ -147,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363422,
-      "num": 363422,
-      "word": "韩国机场鸣放21响礼炮",
-      "onboard_time": 1761792020,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 381469,
+      "num": 156200,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 363349,
@@ -160,6 +176,14 @@
       "word": "高反失温女孩昏迷19天后苏醒",
       "onboard_time": 1761753921,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351856,
+      "num": 155828,
+      "word": "给女儿的300克黄金嫁妆掉落高速上",
+      "onboard_time": 1761793579,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -171,14 +195,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 337213,
-      "num": 145166,
-      "word": "高市早苗演砸了",
-      "onboard_time": 1761791839,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 331242,
       "num": 224140,
       "word": "瘦了以后面相反而变差了",
@@ -187,19 +203,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324949,
-      "num": 324949,
-      "word": "中国年龄最小的航天员",
-      "onboard_time": 1761789679,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
       "onboard_time": 1761788119,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 310279,
+      "num": 310279,
+      "word": "特朗普相信中美将建立长期良好关系",
+      "onboard_time": 1761793759,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220627,
-      "num": 144449,
-      "word": "给女儿的300克黄金嫁妆掉落高速上",
-      "onboard_time": 1761793579,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216031,
       "num": 484785,
       "word": "日高校副校长说高市早苗做的过火",
@@ -337,6 +345,14 @@
       "onboard_time": 1761792079,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 212340,
+      "num": 155492,
+      "word": "黄金暴涨暴跌AI都被问冒烟了",
+      "onboard_time": 1761794781,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 200191,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 188895,
-      "num": 143937,
+      "num": 153048,
       "word": "喜人 叔婶事变",
       "onboard_time": 1761792259,
       "rank": 26,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 185119,
-      "num": 143732,
+      "num": 155133,
       "word": "夫妻因曾黎年纪吵起来了",
       "onboard_time": 1761793159,
       "rank": 27,
@@ -435,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166376,
+      "num": 166376,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162629,
       "num": 483430,
       "word": "小米高管回应巨省电是空调名",
@@ -475,6 +499,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154957,
+      "num": 154957,
+      "word": "钟汉良法拉利还是那个法拉利",
+      "onboard_time": 1761794600,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151861,
+      "num": 168311,
+      "word": "特朗普回应会晤",
+      "onboard_time": 1761794781,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 151593,
+      "num": 151593,
+      "word": "藏马熊进村咬死并拖走一条狗",
+      "onboard_time": 1761793159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151470,
       "num": 151470,
       "word": "神21任务发布会",
@@ -491,6 +539,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150355,
+      "num": 150355,
+      "word": "李一桐bg之光",
+      "onboard_time": 1761794242,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147750,
+      "num": 147750,
+      "word": "工业富联今年累涨超300%",
+      "onboard_time": 1761794781,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 147424,
       "num": 415442,
       "word": "彭小苒收到了2000多份简历",
@@ -499,28 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145879,
-      "num": 145879,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145723,
       "num": 145723,
       "word": "神21任务清单",
       "onboard_time": 1761788839,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142901,
-      "num": 142901,
-      "word": "特朗普相信中美将建立长期良好关系",
-      "onboard_time": 1761793759,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142720,
@@ -563,6 +611,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 126010,
+      "num": 126010,
+      "word": "据说这一套动作叫最伟大的拉伸",
+      "onboard_time": 1761793579,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 125558,
       "num": 125558,
       "word": "陈冬首个在轨超400天中国航天员",
@@ -579,12 +635,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124703,
+      "num": 156051,
+      "word": "新闻女王2定档",
+      "onboard_time": 1761794902,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120217,
+      "num": 120217,
+      "word": "女推三不加人",
+      "onboard_time": 1761794600,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119943,
       "num": 119943,
       "word": "人民日报对话周深",
       "onboard_time": 1761790640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117852,
+      "num": 117852,
+      "word": "锚定2030年前实现中国人登月",
+      "onboard_time": 1761791060,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117501,
@@ -600,14 +680,6 @@
       "word": "航天员将在轨饲养4只小鼠",
       "onboard_time": 1761790101,
       "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 115276,
-      "num": 115276,
-      "word": "锚定2030年前实现中国人登月",
-      "onboard_time": 1761791060,
-      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -635,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109149,
-      "num": 109149,
-      "word": "据说这一套动作叫最伟大的拉伸",
-      "onboard_time": 1761793579,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
@@ -651,12 +715,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107334,
+      "num": 107334,
+      "word": "A股",
+      "onboard_time": 1761795081,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105485,
       "num": 105485,
       "word": "重生也逃不过生理性喜欢",
       "onboard_time": 1761792920,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105345,
+      "num": 153337,
+      "word": "水龙吟12集是谁的一辈子",
+      "onboard_time": 1761793220,
+      "rank": 22,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 104328,
@@ -707,22 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96612,
-      "num": 96612,
-      "word": "藏马熊进村咬死并拖走一条狗",
-      "onboard_time": 1761793159,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93659,
-      "num": 93659,
-      "word": "李一桐bg之光",
-      "onboard_time": 1761794242,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "左凌峰 少爷和我",
@@ -737,6 +801,14 @@
       "onboard_time": 1761793519,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91106,
+      "num": 180993,
+      "word": "中美元首握手合影",
+      "onboard_time": 1761794540,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90046,
@@ -761,14 +833,6 @@
       "onboard_time": 1761751822,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86912,
-      "num": 145055,
-      "word": "水龙吟12集是谁的一辈子",
-      "onboard_time": 1761793220,
-      "rank": 22,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 85702,
@@ -867,6 +931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66420,
+      "num": 251828,
+      "word": "京东暖心留言",
+      "onboard_time": 1761790039,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65980,
       "num": 409001,
       "word": "成毅李一桐陪看哭了",
@@ -947,20 +1019,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54661,
+      "num": 156824,
+      "word": "神21航天员简历",
+      "onboard_time": 1761794600,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52012,
       "num": 405277,
       "word": "韩国偶遇刘强东章泽天",
       "onboard_time": 1761737480,
       "rank": 43,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 50620,
-      "num": 251828,
-      "word": "京东暖心留言",
-      "onboard_time": 1761790039,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 49812,
@@ -1132,7 +1204,7 @@
     },
     {
       "raw_hot": 27467,
-      "num": 320940,
+      "num": 596445,
       "word": "跟着这张思维导图学十五五规划建议",
       "onboard_time": 1761757638,
       "rank": 39,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1761759496,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23539,
+      "num": 126029,
+      "word": "这是音乐节还是运动会",
+      "onboard_time": 1761794481,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 23343,
@@ -1230,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#6个关键词展望习主席韩国之行#"
+    },
+    {
+      "word": "#中美元首釜山会晤#"
     }
   ]
 }
