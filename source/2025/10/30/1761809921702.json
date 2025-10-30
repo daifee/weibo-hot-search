@@ -1,0 +1,410 @@
+{
+  "runTime": 1761809921702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359960,
+        "num": 1359960,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600014,
+        "num": 600014,
+        "word": "给中美和世界经济吃下一颗定心丸",
+        "onboard_time": 1761806662,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5319,
+        "num": 484427,
+        "word": "跟着这张思维导图学十五五规划建议",
+        "onboard_time": 1761757638,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 437237,
+        "num": 437237,
+        "word": "大学法学老师被学生吐槽称将起诉",
+        "onboard_time": 1761803963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417349,
+        "num": 417349,
+        "word": "高市早苗当面拒绝美国要求",
+        "onboard_time": 1761800363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255664,
+        "num": 255664,
+        "word": "中国年龄最小的航天员",
+        "onboard_time": 1761789679,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237587,
+        "num": 237587,
+        "word": "中美元首握手合影",
+        "onboard_time": 1761794540,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198776,
+        "num": 198776,
+        "word": "中美吉隆坡经贸磋商成果共识",
+        "onboard_time": 1761808521,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27410,
+        "num": 191847,
+        "word": "神21瞄准31日23时44分发射",
+        "onboard_time": 1761787879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190735,
+        "num": 190735,
+        "word": "高市早苗演砸了",
+        "onboard_time": 1761791839,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 657652,
+        "num": 190371,
+        "word": "江一燕前夫是导演赵汉唐",
+        "onboard_time": 1761805942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471627,
+        "num": 189792,
+        "word": "稀土",
+        "onboard_time": 1761802043,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437941,
+        "num": 188752,
+        "word": "甲沟炎 剪v字",
+        "onboard_time": 1761806542,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408676,
+        "num": 187083,
+        "word": "向太说嫁入豪门基本不幸福",
+        "onboard_time": 1761800903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319578,
+        "num": 186063,
+        "word": "王楚然对白鹿生理性喜欢",
+        "onboard_time": 1761802943,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298456,
+        "num": 185468,
+        "word": "吃播网红回应在高铁边吃边吐2小时",
+        "onboard_time": 1761802644,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185111,
+        "num": 185111,
+        "word": "成毅天地剑心飙升190%",
+        "onboard_time": 1761806481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65183,
+        "num": 185011,
+        "word": "美方暂停出口管制50%穿透性规则一年",
+        "onboard_time": 1761809422,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63057,
+        "num": 183723,
+        "word": "到底谁吃到了宁哥的炒饭",
+        "onboard_time": 1761808162,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43951,
+        "num": 181311,
+        "word": "波司登集邮国际顶流设计师",
+        "onboard_time": 1761808042,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 2398088,
+        "num": 180227,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143564,
+        "num": 179765,
+        "word": "丁禹兮山河枕品牌云包场",
+        "onboard_time": 1761808521,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 836962,
+        "num": 178408,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385347,
+        "num": 176255,
+        "word": "大学生集体染上水龙瘾了",
+        "onboard_time": 1761796821,
+        "rank": 23,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 176110,
+        "num": 176110,
+        "word": "美方将取消所谓芬太尼关税",
+        "onboard_time": 1761809722,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284372,
+        "num": 175939,
+        "word": "还以为是霍思燕",
+        "onboard_time": 1761803364,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250874,
+        "num": 173158,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187747,
+        "num": 170346,
+        "word": "卢浮宫追回的失窃皇冠被压平",
+        "onboard_time": 1761809242,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163531,
+        "num": 163531,
+        "word": "黄晓明说很羡慕易烊千玺朱一龙",
+        "onboard_time": 1761807321,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 156941,
+        "word": "宋威龙包场山河枕",
+        "onboard_time": 1761808641,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228830,
+        "num": 156866,
+        "word": "刘强东扶着章泽天",
+        "onboard_time": 1761795623,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156659,
+        "num": 156659,
+        "word": "肖战中广联合会演员委员会会员",
+        "onboard_time": 1761809900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 143317,
+        "word": "特朗普吐槽韩国潜艇太老了",
+        "onboard_time": 1761804983,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134657,
+        "num": 134657,
+        "word": "TES对战G2",
+        "onboard_time": 1761807321,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133071,
+        "num": 133071,
+        "word": "甲流合胞病毒鼻病毒都来了",
+        "onboard_time": 1761806241,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 132658,
+        "num": 132658,
+        "word": "原来女明星们候场也坐塑料凳子",
+        "onboard_time": 1761800063,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "第二杯半价不是让你一个人喝两杯的",
+        "onboard_time": 1761809180,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27919,
+        "num": 128913,
+        "word": "退役军人手指被夹断强撑救出2人",
+        "onboard_time": 1761809540,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74237,
+        "num": 128060,
+        "word": "韩网也在看BLG热闹",
+        "onboard_time": 1761809062,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109242,
+        "num": 127705,
+        "word": "徐梦桃买车也要国家补贴",
+        "onboard_time": 1761809362,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32750,
+        "num": 127244,
+        "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
+        "onboard_time": 1761804444,
+        "rank": 40,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 126650,
+        "num": 126650,
+        "word": "张洪章将带项目在天上开展实验",
+        "onboard_time": 1761804382,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126498,
+        "num": 126498,
+        "word": "黄景瑜敖瑞鹏都生不出这么像的",
+        "onboard_time": 1761804142,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95542,
+        "num": 125390,
+        "word": "第一次喝拉菲是种什么体验",
+        "onboard_time": 1761809062,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125240,
+        "num": 125240,
+        "word": "黄金手镯和皮带扣涂成银色入境被查",
+        "onboard_time": 1761807441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "原来小时候妈妈那么年轻",
+        "onboard_time": 1761807862,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113550,
+        "num": 113550,
+        "word": "薛之谦刘宇宁 南薛北刘",
+        "onboard_time": 1761808460,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111885,
+        "num": 111885,
+        "word": "李施嬅男友送她写自己名字的房子",
+        "onboard_time": 1761808521,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21370,
+        "num": 111126,
+        "word": "村民称自家20棵果树疑因防蚊被清理",
+        "onboard_time": 1761808342,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99025,
+        "num": 110302,
+        "word": "再见爱人5",
+        "onboard_time": 1761799404,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首釜山会晤#"
+    }
+  }
+}
