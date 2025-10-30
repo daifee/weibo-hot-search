@@ -1,0 +1,410 @@
+{
+  "runTime": 1761835549835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572403,
+        "num": 1091584,
+        "word": "鼠鼠我啊要上太空了",
+        "onboard_time": 1761824301,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383478,
+        "num": 383478,
+        "word": "清华回应孙颖莎王曼昱免试录取",
+        "onboard_time": 1761828922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27866,
+        "num": 340657,
+        "word": "培育壮大新兴产业和未来产业",
+        "onboard_time": 1761832041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324511,
+        "num": 324511,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266357,
+        "num": 266357,
+        "word": "动森更新",
+        "onboard_time": 1761834564,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228126,
+        "num": 228126,
+        "word": "国防部回应台湾高清卫星图",
+        "onboard_time": 1761818721,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221207,
+        "num": 221207,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198626,
+        "num": 221030,
+        "word": "满13岁女生免费接种HPV疫苗",
+        "onboard_time": 1761818962,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 141194,
+        "num": 220574,
+        "word": "小鼠航天员训练日常大公开",
+        "onboard_time": 1761828863,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137672,
+        "num": 219866,
+        "word": "高三男生赤脚进火场救坐轮椅邻居",
+        "onboard_time": 1761833360,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 660663,
+        "num": 219435,
+        "word": "王暖暖回应前夫疑为电诈头目",
+        "onboard_time": 1761830602,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588316,
+        "num": 218913,
+        "word": "刘谦抗癌成功后近况",
+        "onboard_time": 1761825621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423683,
+        "num": 218084,
+        "word": "跑男团有孩子和没孩子的区别",
+        "onboard_time": 1761829042,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303464,
+        "num": 217375,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94911,
+        "num": 217201,
+        "word": "深蓝L06入门满配预售价13.99万",
+        "onboard_time": 1761835281,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24377,
+        "num": 216379,
+        "word": "深蓝L06用众多离谱造就超级靠谱",
+        "onboard_time": 1761831442,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261515,
+        "num": 215968,
+        "word": "肖战才进组就传了三个饼",
+        "onboard_time": 1761833603,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252937,
+        "num": 215106,
+        "word": "造谣老师刻薄媚男女生发声",
+        "onboard_time": 1761818841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230513,
+        "num": 214691,
+        "word": "Homme建议LPL缩减队伍",
+        "onboard_time": 1761833424,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214532,
+        "num": 214532,
+        "word": "小孩高铁生病哭闹乘客生气质问",
+        "onboard_time": 1761825441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581479,
+        "num": 214244,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532767,
+        "num": 210884,
+        "word": "水龙吟改名封神榜吧",
+        "onboard_time": 1761827360,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237866,
+        "num": 210607,
+        "word": "丁禹兮热度破两万八拆卡4小时",
+        "onboard_time": 1761830002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207104,
+        "num": 207104,
+        "word": "央视专访侯明昊",
+        "onboard_time": 1761834441,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205417,
+        "num": 205417,
+        "word": "谁家好剧集齐四个影帝",
+        "onboard_time": 1761828022,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149631,
+        "num": 149631,
+        "word": "戚薇是田曦薇永远的榜一",
+        "onboard_time": 1761833002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143967,
+        "num": 143967,
+        "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
+        "onboard_time": 1761825860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139628,
+        "num": 139628,
+        "word": "妻子去世获136万赔偿父女闹翻",
+        "onboard_time": 1761824361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138922,
+        "num": 138922,
+        "word": "陈丽君领奖",
+        "onboard_time": 1761834923,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124970,
+        "num": 124970,
+        "word": "泰国哀悼王太后服装店换成黑白款",
+        "onboard_time": 1761834982,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141342,
+        "num": 123457,
+        "word": "特朗普出席韩国晚宴前吃了汉堡薯条",
+        "onboard_time": 1761835341,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120207,
+        "num": 120207,
+        "word": "华晨宇演唱会文昌站官宣",
+        "onboard_time": 1761829282,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119840,
+        "num": 119840,
+        "word": "周洁琼评论区连跪10次",
+        "onboard_time": 1761833302,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116805,
+        "num": 116805,
+        "word": "山河枕",
+        "onboard_time": 1761819080,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116664,
+        "num": 116664,
+        "word": "大麦 偷跑",
+        "onboard_time": 1761824781,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112122,
+        "num": 112122,
+        "word": "山河枕热度",
+        "onboard_time": 1761824061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111563,
+        "num": 111563,
+        "word": "倪萍蔡明通告费一分钱没白拿",
+        "onboard_time": 1761831382,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110262,
+        "num": 110262,
+        "word": "郑恺当上瓜主了",
+        "onboard_time": 1761830122,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108253,
+        "num": 108253,
+        "word": "成都一客车撞上路边停放货车已致6死",
+        "onboard_time": 1761832761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107982,
+        "num": 107982,
+        "word": "何瑞贤演技",
+        "onboard_time": 1761831382,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105385,
+        "num": 105385,
+        "word": "公务员不是混日子避风港",
+        "onboard_time": 1761817761,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104887,
+        "num": 104887,
+        "word": "携6.1万枚比特币出逃的钱志敏是谁",
+        "onboard_time": 1761835281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104343,
+        "num": 104343,
+        "word": "蕉内地铁广告被指辣眼",
+        "onboard_time": 1761816862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99493,
+        "num": 99493,
+        "word": "狼队战胜KSG",
+        "onboard_time": 1761831922,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99018,
+        "num": 99018,
+        "word": "中级会计 等成绩",
+        "onboard_time": 1761826880,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94827,
+        "num": 94827,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93772,
+        "num": 93772,
+        "word": "张本智和3比2宇田幸矢",
+        "onboard_time": 1761834682,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90743,
+        "num": 90743,
+        "word": "369坚定选择AL",
+        "onboard_time": 1761835521,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90250,
+        "num": 90250,
+        "word": "金价反弹",
+        "onboard_time": 1761815242,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13932,
+        "num": 89458,
+        "word": "双十一哪些好物值得以旧换新",
+        "onboard_time": 1761834024,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这些话亮明中国态度#"
+    }
+  }
+}
