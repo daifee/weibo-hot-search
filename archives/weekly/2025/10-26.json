@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761790886093,
+  "endTime": 1761794312736,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1117292,
+      "num": 336318,
+      "word": "爷爷起的名字堪比古代进士",
+      "onboard_time": 1761787699,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1114184,
       "num": 236394,
       "word": "王者荣耀电话 诡异",
@@ -473,6 +481,14 @@
       "onboard_time": 1761646402,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 945499,
+      "num": 1151279,
+      "word": "中美元首釜山会晤现场",
+      "onboard_time": 1761790880,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 940322,
@@ -1067,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 671976,
+      "num": 175105,
+      "word": "BLG 商K狼人杀",
+      "onboard_time": 1761792079,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 671849,
       "num": 671849,
       "word": "山姆一门店黄金大闸蟹涉嫌侵权",
@@ -1499,6 +1523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 554641,
+      "num": 316294,
+      "word": "黄金",
+      "onboard_time": 1761529041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 552613,
       "num": 238222,
       "word": "长大才意识到父母想要什么礼物",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1761718880,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 484967,
-      "num": 316294,
-      "word": "黄金",
-      "onboard_time": 1761529041,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 484594,
@@ -2483,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363422,
+      "num": 363422,
+      "word": "韩国机场鸣放21响礼炮",
+      "onboard_time": 1761792020,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 363349,
       "num": 415843,
       "word": "高反失温女孩昏迷19天后苏醒",
@@ -2667,20 +2699,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 337213,
+      "num": 145166,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 336497,
       "num": 336497,
       "word": "男子住酒店自带床单被罩全隔离",
       "onboard_time": 1761665721,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336318,
-      "num": 336318,
-      "word": "爷爷起的名字堪比古代进士",
-      "onboard_time": 1761787699,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 336312,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1761743062,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 272412,
+      "num": 272412,
+      "word": "让中美关系这艘大船平稳前行",
+      "onboard_time": 1761791720,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 271978,
@@ -4035,6 +4075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220627,
+      "num": 144449,
+      "word": "给女儿的300克黄金嫁妆掉落高速上",
+      "onboard_time": 1761793579,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220340,
       "num": 214371,
       "word": "TF家族新年音乐会有53个人",
@@ -4169,6 +4217,14 @@
       "onboard_time": 1761538043,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213727,
+      "num": 213727,
+      "word": "中美携手多办一些大事实事好事",
+      "onboard_time": 1761792079,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213688,
@@ -4923,6 +4979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188895,
+      "num": 143937,
+      "word": "喜人 叔婶事变",
+      "onboard_time": 1761792259,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188615,
       "num": 188615,
       "word": "花海也在追暗河传",
@@ -5107,6 +5171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185119,
+      "num": 143732,
+      "word": "夫妻因曾黎年纪吵起来了",
+      "onboard_time": 1761793159,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184959,
       "num": 184959,
       "word": "鞠婧祎古风小手办",
@@ -5225,6 +5297,14 @@
       "onboard_time": 1761751701,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182733,
+      "num": 143637,
+      "word": "专家称恐怖片才是焦虑情绪良药",
+      "onboard_time": 1761793281,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 182590,
@@ -5819,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168526,
+      "num": 168526,
+      "word": "天地剑心我儿曹植",
+      "onboard_time": 1761791480,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168416,
       "num": 168416,
       "word": "独居女子遭陌生男多次试开家门密码",
@@ -5873,6 +5961,14 @@
       "onboard_time": 1761487101,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166699,
+      "num": 143080,
+      "word": "BLG 不在场证明",
+      "onboard_time": 1761791658,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 166575,
@@ -6313,6 +6409,14 @@
       "onboard_time": 1761535941,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159008,
+      "num": 170205,
+      "word": "酷酷的滕 喜人永远在一起",
+      "onboard_time": 1761788720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 159002,
@@ -7099,6 +7203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145879,
+      "num": 145879,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "耀眼",
@@ -7289,6 +7401,14 @@
       "onboard_time": 1761639862,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142901,
+      "num": 142901,
+      "word": "特朗普相信中美将建立长期良好关系",
+      "onboard_time": 1761793759,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142886,
@@ -9531,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115276,
+      "num": 115276,
+      "word": "锚定2030年前实现中国人登月",
+      "onboard_time": 1761791060,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115191,
       "num": 115191,
       "word": "朱一龙VogueWorld出图",
@@ -10123,6 +10251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109149,
+      "num": 109149,
+      "word": "据说这一套动作叫最伟大的拉伸",
+      "onboard_time": 1761793579,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 109015,
       "num": 109015,
       "word": "米卡 我真的穿了",
@@ -10489,6 +10625,14 @@
       "onboard_time": 1761470901,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105485,
+      "num": 105485,
+      "word": "重生也逃不过生理性喜欢",
+      "onboard_time": 1761792920,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 105458,
@@ -10955,20 +11099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100200,
+      "num": 100200,
+      "word": "女老师晒工作四个月的变化",
+      "onboard_time": 1761791179,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100168,
       "num": 100168,
       "word": "金价银价暴跌原因",
       "onboard_time": 1761609620,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 100162,
-      "num": 170205,
-      "word": "酷酷的滕 喜人永远在一起",
-      "onboard_time": 1761788720,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 100019,
@@ -11283,6 +11427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96612,
+      "num": 96612,
+      "word": "藏马熊进村咬死并拖走一条狗",
+      "onboard_time": 1761793159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96608,
       "num": 206238,
       "word": "范丞丞用AQ反向管爸妈健康",
@@ -11523,6 +11675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93659,
+      "num": 93659,
+      "word": "李一桐bg之光",
+      "onboard_time": 1761794242,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93489,
       "num": 93489,
       "word": "玉田7岁走失女孩已不幸溺亡",
@@ -11595,12 +11755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92714,
+      "num": 92714,
+      "word": "左凌峰 少爷和我",
+      "onboard_time": 1761792679,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "这是我见过对恋爱脑最好的诠释",
       "onboard_time": 1761614481,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92510,
+      "num": 92510,
+      "word": "对手盛赞杨瀚森",
+      "onboard_time": 1761793519,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92406,
@@ -11851,6 +12027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89344,
+      "num": 89344,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1761791360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89163,
       "num": 89163,
       "word": "南瓜烤蛋奶麻薯",
@@ -12025,6 +12209,14 @@
       "onboard_time": 1761747802,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86912,
+      "num": 145055,
+      "word": "水龙吟12集是谁的一辈子",
+      "onboard_time": 1761793220,
+      "rank": 22,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 86756,
@@ -13667,6 +13859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50620,
+      "num": 251828,
+      "word": "京东暖心留言",
+      "onboard_time": 1761790039,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50027,
       "num": 997643,
       "word": "十五五规划建议这些与年轻人有关",
@@ -14129,14 +14329,6 @@
       "onboard_time": 1761541283,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39766,
-      "num": 251828,
-      "word": "京东暖心留言",
-      "onboard_time": 1761790039,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 39741,
@@ -14684,7 +14876,7 @@
     },
     {
       "raw_hot": 27467,
-      "num": 207851,
+      "num": 320940,
       "word": "跟着这张思维导图学十五五规划建议",
       "onboard_time": 1761757638,
       "rank": 39,

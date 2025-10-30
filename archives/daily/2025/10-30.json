@@ -1,7 +1,15 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761790886093,
+  "endTime": 1761794312736,
   "band_list": [
+    {
+      "raw_hot": 1117292,
+      "num": 336318,
+      "word": "爷爷起的名字堪比古代进士",
+      "onboard_time": 1761787699,
+      "rank": 18,
+      "category": "情感"
+    },
     {
       "raw_hot": 1060328,
       "num": 251325,
@@ -27,6 +35,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 945499,
+      "num": 1151279,
+      "word": "中美元首釜山会晤现场",
+      "onboard_time": 1761790880,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 837050,
       "num": 870664,
       "word": "Elk发文澄清",
@@ -41,6 +57,14 @@
       "onboard_time": 1761783801,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671976,
+      "num": 175105,
+      "word": "BLG 商K狼人杀",
+      "onboard_time": 1761792079,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 634015,
@@ -83,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554641,
+      "num": 223846,
+      "word": "黄金",
+      "onboard_time": 1761790220,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 448237,
       "num": 242155,
       "word": "ON 好快的切割",
@@ -115,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363422,
+      "num": 363422,
+      "word": "韩国机场鸣放21响礼炮",
+      "onboard_time": 1761792020,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 363349,
       "num": 415843,
       "word": "高反失温女孩昏迷19天后苏醒",
@@ -131,12 +171,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 336318,
-      "num": 336318,
-      "word": "爷爷起的名字堪比古代进士",
-      "onboard_time": 1761787699,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 337213,
+      "num": 145166,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 331242,
@@ -185,6 +225,14 @@
       "onboard_time": 1761750323,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272412,
+      "num": 272412,
+      "word": "让中美关系这艘大船平稳前行",
+      "onboard_time": 1761791720,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 262319,
@@ -259,14 +307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223846,
-      "num": 223846,
-      "word": "黄金",
-      "onboard_time": 1761790220,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222347,
       "num": 222347,
       "word": "第一个让沈梦辰戴眼镜的人是个天才",
@@ -275,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220627,
+      "num": 144449,
+      "word": "给女儿的300克黄金嫁妆掉落高速上",
+      "onboard_time": 1761793579,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216031,
       "num": 484785,
       "word": "日高校副校长说高市早苗做的过火",
       "onboard_time": 1761750323,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 213727,
+      "num": 213727,
+      "word": "中美携手多办一些大事实事好事",
+      "onboard_time": 1761792079,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200191,
@@ -315,6 +371,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188895,
+      "num": 143937,
+      "word": "喜人 叔婶事变",
+      "onboard_time": 1761792259,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185119,
+      "num": 143732,
+      "word": "夫妻因曾黎年纪吵起来了",
+      "onboard_time": 1761793159,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182733,
+      "num": 143637,
+      "word": "专家称恐怖片才是焦虑情绪良药",
+      "onboard_time": 1761793281,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172649,
       "num": 172649,
       "word": "杨瀚森勾手得分",
@@ -331,12 +411,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168526,
+      "num": 168526,
+      "word": "天地剑心我儿曹植",
+      "onboard_time": 1761791480,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167701,
       "num": 167701,
       "word": "外籍航天员训练进展",
       "onboard_time": 1761790039,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166699,
+      "num": 143080,
+      "word": "BLG 不在场证明",
+      "onboard_time": 1761791658,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 162629,
@@ -361,6 +457,14 @@
       "onboard_time": 1761786081,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159008,
+      "num": 170205,
+      "word": "酷酷的滕 喜人永远在一起",
+      "onboard_time": 1761788720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 159002,
@@ -395,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145879,
+      "num": 145879,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145723,
       "num": 145723,
       "word": "神21任务清单",
       "onboard_time": 1761788839,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142901,
+      "num": 142901,
+      "word": "特朗普相信中美将建立长期良好关系",
+      "onboard_time": 1761793759,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142720,
@@ -483,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115276,
+      "num": 115276,
+      "word": "锚定2030年前实现中国人登月",
+      "onboard_time": 1761791060,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112569,
       "num": 470172,
       "word": "12306回应轮椅旅客深圳北站行路难",
@@ -507,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109149,
+      "num": 109149,
+      "word": "据说这一套动作叫最伟大的拉伸",
+      "onboard_time": 1761793579,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
       "onboard_time": 1761752900,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105485,
+      "num": 105485,
+      "word": "重生也逃不过生理性喜欢",
+      "onboard_time": 1761792920,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 104328,
@@ -547,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100162,
-      "num": 170205,
-      "word": "酷酷的滕 喜人永远在一起",
-      "onboard_time": 1761788720,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 100200,
+      "num": 100200,
+      "word": "女老师晒工作四个月的变化",
+      "onboard_time": 1761791179,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 100019,
@@ -563,6 +707,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96612,
+      "num": 96612,
+      "word": "藏马熊进村咬死并拖走一条狗",
+      "onboard_time": 1761793159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93659,
+      "num": 93659,
+      "word": "李一桐bg之光",
+      "onboard_time": 1761794242,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92714,
+      "num": 92714,
+      "word": "左凌峰 少爷和我",
+      "onboard_time": 1761792679,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92510,
+      "num": 92510,
+      "word": "对手盛赞杨瀚森",
+      "onboard_time": 1761793519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90046,
       "num": 169453,
       "word": "蓝战非车祸后报平安",
@@ -571,12 +747,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 89344,
+      "num": 89344,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1761791360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88446,
       "num": 411446,
       "word": "北川 基地吃饭",
       "onboard_time": 1761751822,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86912,
+      "num": 145055,
+      "word": "水龙吟12集是谁的一辈子",
+      "onboard_time": 1761793220,
+      "rank": 22,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 85702,
@@ -763,6 +955,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 50620,
+      "num": 251828,
+      "word": "京东暖心留言",
+      "onboard_time": 1761790039,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49812,
       "num": 404524,
       "word": "Knight开播回应特别想打T1",
@@ -859,14 +1059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39766,
-      "num": 251828,
-      "word": "京东暖心留言",
-      "onboard_time": 1761790039,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 39603,
       "num": 404035,
       "word": "昆明警方通报校外男子在高校自杀身亡",
@@ -940,7 +1132,7 @@
     },
     {
       "raw_hot": 27467,
-      "num": 207851,
+      "num": 320940,
       "word": "跟着这张思维导图学十五五规划建议",
       "onboard_time": 1761757638,
       "rank": 39,
