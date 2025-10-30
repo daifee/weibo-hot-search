@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761820183533,
+  "endTime": 1761821101401,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 794587,
+      "num": 233158,
+      "word": "造谣老师刻薄媚男女生发声",
+      "onboard_time": 1761818841,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783070,
       "num": 380610,
       "word": "龚俊暗河传破万",
@@ -913,6 +921,14 @@
       "onboard_time": 1761719720,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 756410,
+      "num": 756410,
+      "word": "TES晋级S15四强",
+      "onboard_time": 1761819922,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 749337,
@@ -2587,6 +2603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 396233,
+      "num": 396233,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 395215,
       "num": 395215,
       "word": "一年一度梦泪羞辱仪式",
@@ -3179,14 +3203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315068,
-      "num": 315068,
-      "word": "满13岁女生免费接种HPV疫苗",
-      "onboard_time": 1761818962,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 314805,
       "num": 210670,
       "word": "红舞鞋剧组工作人员回复",
@@ -3481,14 +3497,6 @@
       "onboard_time": 1761569001,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 287828,
-      "num": 213641,
-      "word": "造谣老师刻薄媚男女生发声",
-      "onboard_time": 1761818841,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 287812,
@@ -4075,12 +4083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239164,
+      "num": 239164,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239072,
       "num": 239072,
       "word": "恋与制作人",
       "onboard_time": 1761450022,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237981,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 237803,
@@ -4361,14 +4385,6 @@
       "onboard_time": 1761653662,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 226662,
-      "num": 179321,
-      "word": "谢娜爸爸悄悄退机票买硬座",
-      "onboard_time": 1761818301,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 226542,
@@ -5107,6 +5123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197998,
+      "num": 197998,
+      "word": "TES淘汰G2",
+      "onboard_time": 1761820102,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197593,
       "num": 197593,
       "word": "富贵少爷把亲爹挂了",
@@ -5171,14 +5195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 196121,
-      "num": 196121,
-      "word": "TES晋级S15四强",
-      "onboard_time": 1761819922,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195852,
       "num": 243282,
       "word": "何老师还是太权威了",
@@ -5200,14 +5216,6 @@
       "word": "彭小苒近日妆造全是紫色",
       "onboard_time": 1761462620,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194900,
-      "num": 194900,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -5705,6 +5713,14 @@
       "onboard_time": 1761806481,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185078,
+      "num": 150694,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 184959,
@@ -8179,6 +8195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142149,
+      "num": 142149,
+      "word": "孙颖莎王曼昱清华再同窗",
+      "onboard_time": 1761820222,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142092,
       "num": 142092,
       "word": "王耀庆cos英雄亚瑟",
@@ -8379,6 +8403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138729,
+      "num": 138729,
+      "word": "宋茜神奇的社交圈",
+      "onboard_time": 1761820762,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138700,
       "num": 138700,
       "word": "最佳睡眠怎么从10小时变7小时了",
@@ -8401,6 +8433,14 @@
       "onboard_time": 1761805824,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138597,
+      "num": 138597,
+      "word": "狼队对战KSG",
+      "onboard_time": 1761820581,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 138548,
@@ -9467,14 +9507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128028,
-      "num": 128028,
-      "word": "TES淘汰G2",
-      "onboard_time": 1761820102,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127758,
       "num": 127758,
       "word": "多名好友现身医院看望许绍雄",
@@ -9585,6 +9617,14 @@
       "onboard_time": 1761813741,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126553,
+      "num": 126553,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126450,
@@ -10001,14 +10041,6 @@
       "onboard_time": 1761802525,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122428,
-      "num": 122428,
-      "word": "辛芷蕾 任何女性还是少听建议吧",
-      "onboard_time": 1761819741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 122237,
@@ -10563,6 +10595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 116257,
+      "num": 116257,
+      "word": "杨瀚森表现",
+      "onboard_time": 1761820340,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116247,
       "num": 116247,
       "word": "王楚钦快比赛吧",
@@ -10617,14 +10657,6 @@
       "onboard_time": 1761570861,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115991,
-      "num": 115991,
-      "word": "公务员不是混日子避风港",
-      "onboard_time": 1761817761,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115808,
@@ -11323,6 +11355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110316,
+      "num": 110316,
+      "word": "吴迪自曝患抑郁症",
+      "onboard_time": 1761821001,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 110306,
       "num": 119074,
       "word": "广东某食品公司出现大量死猪",
@@ -11641,6 +11681,14 @@
       "onboard_time": 1761705679,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107164,
+      "num": 185172,
+      "word": "女子离婚朋友办宴席庆祝",
+      "onboard_time": 1761818601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107129,
@@ -14019,6 +14067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79983,
+      "num": 189794,
+      "word": "TES不经夸",
+      "onboard_time": 1761819922,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79637,
       "num": 251842,
       "word": "罗德岛番茄派对",
@@ -14297,14 +14353,6 @@
       "onboard_time": 1761612860,
       "rank": 47,
       "category": "财经,海外新闻"
-    },
-    {
-      "raw_hot": 73309,
-      "num": 185172,
-      "word": "女子离婚朋友办宴席庆祝",
-      "onboard_time": 1761818601,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72551,
@@ -14716,11 +14764,19 @@
     },
     {
       "raw_hot": 64618,
-      "num": 194765,
+      "num": 199283,
       "word": "留学投资还值吗",
       "onboard_time": 1761818962,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 63983,
+      "num": 133597,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63917,
@@ -15236,7 +15292,7 @@
     },
     {
       "raw_hot": 55089,
-      "num": 193067,
+      "num": 195169,
       "word": "iQOONeo11标准版的含金量",
       "onboard_time": 1761818962,
       "rank": 19,
@@ -15313,22 +15369,6 @@
       "onboard_time": 1761638783,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53401,
-      "num": 189794,
-      "word": "TES不经夸",
-      "onboard_time": 1761819922,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 53260,
-      "num": 133597,
-      "word": "女子生育后才领结婚证津贴少60天",
-      "onboard_time": 1761819621,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53246,
@@ -16123,6 +16163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36580,
+      "num": 176661,
+      "word": "激情全运会已经传到胡兵了",
+      "onboard_time": 1761818601,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 36289,
       "num": 98239,
       "word": "女子出差遭猥亵被认定为工伤",
@@ -16340,7 +16388,7 @@
     },
     {
       "raw_hot": 33329,
-      "num": 673519,
+      "num": 825202,
       "word": "2025APEC",
       "onboard_time": 1761814223,
       "rank": 2,
@@ -16369,14 +16417,6 @@
       "onboard_time": 1761716600,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32186,
-      "num": 176661,
-      "word": "激情全运会已经传到胡兵了",
-      "onboard_time": 1761818601,
-      "rank": 30,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 32049,
@@ -16868,7 +16908,7 @@
     },
     {
       "raw_hot": 23323,
-      "num": 449674,
+      "num": 499264,
       "word": "一起看全运会",
       "onboard_time": 1761814223,
       "rank": 5,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 18:29:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 18:45:01
 </p>
 </blockquote>
 <p>
@@ -3843,6 +3843,12 @@ AI把薯片误判为枪惊动八辆美国警车（热度：796530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E8%80%81%E5%B8%88%E5%88%BB%E8%96%84%E5%AA%9A%E7%94%B7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+造谣老师刻薄媚男女生发声（热度：794587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%B4%E5%AF%86%E7%BF%85%E8%86%80%23" target="weibo">
 杨幂维密翅膀（热度：794390）
 </a>
@@ -4235,6 +4241,12 @@ W盛典 赢麻了（热度：765776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E4%BA%BF%E7%83%82%E5%B0%BE%E6%A5%BC%E6%94%B9%E9%85%92%E5%BA%973688%E5%85%83%E5%A5%97%E6%88%BF%E8%A2%AB%E8%AE%A2%23" target="weibo">
 2亿烂尾楼改酒店3688元套房被订（热度：756562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TES%E6%99%8B%E7%BA%A7S15%E5%9B%9B%E5%BC%BA%23" target="weibo">
+TES晋级S15四强（热度：756410）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%91%E8%B4%A2%E4%BA%86%23" target="weibo">
 鸡排哥回应是否发财了（热度：613533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%8D%E5%86%85%E8%80%97%E7%9A%84%E4%BA%BA%E8%84%91%E5%AD%90%E9%87%8C%E6%98%AF%E8%BF%99%E4%B9%88%E6%83%B3%E7%9A%84%23" target="weibo">
-原来不内耗的人脑子里是这么想的（热度：613484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%9D%9A%E6%8C%81AA%E5%88%B6%E5%A6%BB%E5%AD%90%E6%97%A0%E5%8A%9B%E6%94%AF%E4%BB%98%E8%A6%81%E5%86%99%E6%AC%A0%E6%9D%A1%23" target="weibo">
-丈夫坚持AA制妻子无力支付要写欠条（热度：613237）
 </a>
 </li>
 

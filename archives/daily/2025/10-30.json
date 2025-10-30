@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761820183533,
+  "endTime": 1761821101401,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -139,12 +139,28 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 794587,
+      "num": 233158,
+      "word": "造谣老师刻薄媚男女生发声",
+      "onboard_time": 1761818841,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 774709,
       "num": 774709,
       "word": "高市早苗演砸了",
       "onboard_time": 1761791839,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 756410,
+      "num": 756410,
+      "word": "TES晋级S15四强",
+      "onboard_time": 1761819922,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 749337,
@@ -411,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396233,
+      "num": 396233,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 393598,
       "num": 418753,
       "word": "李一桐送房求李荣浩给自己写歌",
@@ -507,14 +531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 315068,
-      "num": 315068,
-      "word": "满13岁女生免费接种HPV疫苗",
-      "onboard_time": 1761818962,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
@@ -545,14 +561,6 @@
       "onboard_time": 1761813021,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287828,
-      "num": 213641,
-      "word": "造谣老师刻薄媚男女生发声",
-      "onboard_time": 1761818841,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286182,
@@ -667,6 +675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239164,
+      "num": 239164,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237981,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237261,
       "num": 292261,
       "word": "美方暂停对华海事等301调查",
@@ -696,14 +720,6 @@
       "word": "酷酷的滕 团里有人结婚了吗",
       "onboard_time": 1761750742,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 226662,
-      "num": 179321,
-      "word": "谢娜爸爸悄悄退机票买硬座",
-      "onboard_time": 1761818301,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -803,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197998,
+      "num": 197998,
+      "word": "TES淘汰G2",
+      "onboard_time": 1761820102,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197509,
       "num": 416459,
       "word": "沈梦辰下楼梯摔倒",
@@ -811,28 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196121,
-      "num": 196121,
-      "word": "TES晋级S15四强",
-      "onboard_time": 1761819922,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195756,
       "num": 195756,
       "word": "邵子恒公主抱刘晓庆过河",
       "onboard_time": 1761797602,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194900,
-      "num": 194900,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 194180,
@@ -913,6 +921,14 @@
       "onboard_time": 1761806481,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185078,
+      "num": 150694,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 184701,
@@ -1275,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142149,
+      "num": 142149,
+      "word": "孙颖莎王曼昱清华再同窗",
+      "onboard_time": 1761820222,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140500,
       "num": 140500,
       "word": "张洽和潘潘结婚了",
@@ -1299,12 +1323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138729,
+      "num": 138729,
+      "word": "宋茜神奇的社交圈",
+      "onboard_time": 1761820762,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138612,
       "num": 138612,
       "word": "李沁马思纯怪不得你俩能玩到一块",
       "onboard_time": 1761805824,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138597,
+      "num": 138597,
+      "word": "狼队对战KSG",
+      "onboard_time": 1761820581,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 137465,
@@ -1427,20 +1467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128028,
-      "num": 128028,
-      "word": "TES淘汰G2",
-      "onboard_time": 1761820102,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126770,
       "num": 218888,
       "word": "华晨宇 王牌名场面记录仪",
       "onboard_time": 1761813741,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126553,
+      "num": 126553,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126010,
@@ -1505,14 +1545,6 @@
       "onboard_time": 1761802525,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122428,
-      "num": 122428,
-      "word": "辛芷蕾 任何女性还是少听建议吧",
-      "onboard_time": 1761819741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 122098,
@@ -1651,20 +1683,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116257,
+      "num": 116257,
+      "word": "杨瀚森表现",
+      "onboard_time": 1761820340,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116211,
       "num": 161158,
       "word": "张檬曾多次表示整容葬送了演艺生涯",
       "onboard_time": 1761816561,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115991,
-      "num": 115991,
-      "word": "公务员不是混日子避风港",
-      "onboard_time": 1761817761,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115488,
@@ -1811,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110316,
+      "num": 110316,
+      "word": "吴迪自曝患抑郁症",
+      "onboard_time": 1761821001,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109473,
       "num": 109473,
       "word": "江西一老人持锄头进店砸向女店员",
@@ -1843,12 +1883,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 107164,
+      "num": 185172,
+      "word": "女子离婚朋友办宴席庆祝",
+      "onboard_time": 1761818601,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106654,
       "num": 106654,
       "word": "Ning说G2是TES充电宝",
       "onboard_time": 1761814941,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106604,
+      "num": 106604,
+      "word": "天地剑心",
+      "onboard_time": 1761820882,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 106277,
@@ -2267,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79983,
+      "num": 189794,
+      "word": "TES不经夸",
+      "onboard_time": 1761819922,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79315,
       "num": 140201,
       "word": "伊万退休",
@@ -2289,14 +2353,6 @@
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 73309,
-      "num": 185172,
-      "word": "女子离婚朋友办宴席庆祝",
-      "onboard_time": 1761818601,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72615,
@@ -2372,7 +2428,7 @@
     },
     {
       "raw_hot": 64618,
-      "num": 194765,
+      "num": 199283,
       "word": "留学投资还值吗",
       "onboard_time": 1761818962,
       "rank": 18,
@@ -2393,6 +2449,14 @@
       "onboard_time": 1761748464,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63983,
+      "num": 133597,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63885,
@@ -2492,7 +2556,7 @@
     },
     {
       "raw_hot": 55089,
-      "num": 193067,
+      "num": 195169,
       "word": "iQOONeo11标准版的含金量",
       "onboard_time": 1761818962,
       "rank": 19,
@@ -2512,22 +2576,6 @@
       "word": "多名用户称工行app内资产被清零",
       "onboard_time": 1761813801,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53401,
-      "num": 189794,
-      "word": "TES不经夸",
-      "onboard_time": 1761819922,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 53260,
-      "num": 133597,
-      "word": "女子生育后才领结婚证津贴少60天",
-      "onboard_time": 1761819621,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2787,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36580,
+      "num": 176661,
+      "word": "激情全运会已经传到胡兵了",
+      "onboard_time": 1761818601,
+      "rank": 30,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 36062,
       "num": 245563,
       "word": "游轮派发小费袋建议每人给150元",
@@ -2828,7 +2884,7 @@
     },
     {
       "raw_hot": 33329,
-      "num": 673519,
+      "num": 825202,
       "word": "2025APEC",
       "onboard_time": 1761814223,
       "rank": 2,
@@ -2841,14 +2897,6 @@
       "onboard_time": 1761786141,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32186,
-      "num": 176661,
-      "word": "激情全运会已经传到胡兵了",
-      "onboard_time": 1761818601,
-      "rank": 30,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 29296,
@@ -2924,7 +2972,7 @@
     },
     {
       "raw_hot": 23323,
-      "num": 449674,
+      "num": 499264,
       "word": "一起看全运会",
       "onboard_time": 1761814223,
       "rank": 5,

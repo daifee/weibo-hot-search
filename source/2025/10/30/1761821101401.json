@@ -1,0 +1,410 @@
+{
+  "runTime": 1761821101401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 836893,
+        "num": 1133903,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 590714,
+        "num": 936492,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33087,
+        "num": 825202,
+        "word": "2025APEC",
+        "onboard_time": 1761814223,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 756410,
+        "num": 756410,
+        "word": "TES晋级S15四强",
+        "onboard_time": 1761819922,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 594913,
+        "num": 594913,
+        "word": "电竞奥运会暂停举办",
+        "onboard_time": 1761818242,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20131,
+        "num": 499264,
+        "word": "一起看全运会",
+        "onboard_time": 1761814223,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438090,
+        "num": 438090,
+        "word": "孙颖莎王曼昱被清华免试录取",
+        "onboard_time": 1761817882,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396233,
+        "num": 396233,
+        "word": "满13岁女生免费接种HPV疫苗",
+        "onboard_time": 1761818962,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 267607,
+        "num": 267607,
+        "word": "天地剑心仙改",
+        "onboard_time": 1761816382,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239164,
+        "num": 239164,
+        "word": "山河枕",
+        "onboard_time": 1761819080,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 930317,
+        "num": 238331,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794587,
+        "num": 233158,
+        "word": "造谣老师刻薄媚男女生发声",
+        "onboard_time": 1761818841,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338528,
+        "num": 227411,
+        "word": "叠穿",
+        "onboard_time": 1761814941,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 279848,
+        "num": 221450,
+        "word": "荷兰",
+        "onboard_time": 1761814102,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219178,
+        "num": 219178,
+        "word": "TES对战G2",
+        "onboard_time": 1761807321,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206518,
+        "num": 206518,
+        "word": "第二杯半价不是让你一个人喝两杯的",
+        "onboard_time": 1761809180,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200578,
+        "num": 200578,
+        "word": "卢浮宫追回的失窃皇冠被压平",
+        "onboard_time": 1761809242,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61403,
+        "num": 199283,
+        "word": "留学投资还值吗",
+        "onboard_time": 1761818962,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197998,
+        "num": 197998,
+        "word": "TES淘汰G2",
+        "onboard_time": 1761820102,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45279,
+        "num": 195169,
+        "word": "iQOONeo11标准版的含金量",
+        "onboard_time": 1761818962,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1343086,
+        "num": 191320,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79983,
+        "num": 186408,
+        "word": "TES不经夸",
+        "onboard_time": 1761819922,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322885,
+        "num": 185887,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276541,
+        "num": 179124,
+        "word": "金价反弹",
+        "onboard_time": 1761815242,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237981,
+        "num": 175821,
+        "word": "谢娜爸爸悄悄退机票买硬座",
+        "onboard_time": 1761818301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220702,
+        "num": 173839,
+        "word": "辛芷蕾井柏然刘雯同框",
+        "onboard_time": 1761819020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170607,
+        "num": 170607,
+        "word": "TES 陌生",
+        "onboard_time": 1761811161,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "国防部回应台湾高清卫星图",
+        "onboard_time": 1761818721,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155173,
+        "num": 155173,
+        "word": "关晓彤聊了半天没认出吴彤",
+        "onboard_time": 1761812541,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152005,
+        "num": 152005,
+        "word": "李一桐 我下部戏必须带你进组了",
+        "onboard_time": 1761812001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185078,
+        "num": 150694,
+        "word": "辛芷蕾 任何女性还是少听建议吧",
+        "onboard_time": 1761819741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36580,
+        "num": 146273,
+        "word": "激情全运会已经传到胡兵了",
+        "onboard_time": 1761818601,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 142149,
+        "num": 142149,
+        "word": "孙颖莎王曼昱清华再同窗",
+        "onboard_time": 1761820222,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138729,
+        "num": 138729,
+        "word": "宋茜神奇的社交圈",
+        "onboard_time": 1761820762,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138597,
+        "num": 138597,
+        "word": "狼队对战KSG",
+        "onboard_time": 1761820581,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136841,
+        "num": 136841,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126553,
+        "num": 126553,
+        "word": "公务员不是混日子避风港",
+        "onboard_time": 1761817761,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119936,
+        "num": 119936,
+        "word": "王楚然对白鹿生理性喜欢",
+        "onboard_time": 1761802943,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "宋茜微博转发区",
+        "onboard_time": 1761815962,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116257,
+        "num": 116257,
+        "word": "杨瀚森表现",
+        "onboard_time": 1761820340,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115672,
+        "num": 115672,
+        "word": "山河枕直播",
+        "onboard_time": 1761818362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115215,
+        "num": 115215,
+        "word": "蕉内地铁广告被指辣眼",
+        "onboard_time": 1761816862,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110590,
+        "num": 110590,
+        "word": "于适 不是求婚是抢婚吧",
+        "onboard_time": 1761819441,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110316,
+        "num": 110316,
+        "word": "吴迪自曝患抑郁症",
+        "onboard_time": 1761821001,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64952,
+        "num": 107701,
+        "word": "比黄金更稳定的投资方式",
+        "onboard_time": 1761818902,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107164,
+        "num": 107164,
+        "word": "女子离婚朋友办宴席庆祝",
+        "onboard_time": 1761818601,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63983,
+        "num": 106844,
+        "word": "女子生育后才领结婚证津贴少60天",
+        "onboard_time": 1761819621,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106604,
+        "num": 106604,
+        "word": "天地剑心",
+        "onboard_time": 1761820882,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103899,
+        "num": 103899,
+        "word": "15万创业后卖labubu娃衣赚疯了",
+        "onboard_time": 1761816081,
+        "rank": 48,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 94931,
+        "num": 102012,
+        "word": "张檬曾多次表示整容葬送了演艺生涯",
+        "onboard_time": 1761816561,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首韩国釜山会晤#"
+    }
+  }
+}
