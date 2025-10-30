@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761863121052,
+  "endTime": 1761864017223,
   "band_list": [
     {
       "raw_hot": 779217,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 450791,
-      "num": 450791,
+      "num": 482769,
       "word": "Mac",
       "onboard_time": 1761852194,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154341,
+      "num": 448159,
+      "word": "被18岁男生从火场救出老人女儿发声",
+      "onboard_time": 1761844276,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 150311,
       "num": 643849,
       "word": "中级会计 等成绩",
@@ -137,14 +145,6 @@
       "onboard_time": 1761840501,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128985,
-      "num": 448159,
-      "word": "被18岁男生从火场救出老人女儿发声",
-      "onboard_time": 1761844276,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 126690,
@@ -187,20 +187,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 108262,
+      "num": 601504,
+      "word": "金价狂飙婚事耽搁2年女子发声",
+      "onboard_time": 1761836362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100534,
       "num": 616622,
       "word": "美方加征24%关税继续暂停一年",
       "onboard_time": 1761809000,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97246,
-      "num": 601504,
-      "word": "金价狂飙婚事耽搁2年女子发声",
-      "onboard_time": 1761836362,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94746,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93269,
+      "num": 429370,
+      "word": "中美元首会晤的重大意义",
+      "onboard_time": 1761850095,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88967,
       "num": 610793,
       "word": "国防部回应台湾高清卫星图",
@@ -235,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86127,
+      "num": 390774,
+      "word": "警方通报钱志敏潜逃英国",
+      "onboard_time": 1761852194,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 85650,
       "num": 602596,
       "word": "山河枕",
       "onboard_time": 1761819080,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80970,
-      "num": 429370,
-      "word": "中美元首会晤的重大意义",
-      "onboard_time": 1761850095,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 78690,
@@ -265,14 +273,6 @@
       "onboard_time": 1761841879,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75301,
-      "num": 390774,
-      "word": "警方通报钱志敏潜逃英国",
-      "onboard_time": 1761852194,
-      "rank": 48,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 71559,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59305,
+      "num": 444856,
+      "word": "外交部奉劝巴拉圭政府",
+      "onboard_time": 1761848775,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58930,
       "num": 402157,
       "word": "爱自己的5个层次",
@@ -427,14 +435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51173,
-      "num": 444856,
-      "word": "外交部奉劝巴拉圭政府",
-      "onboard_time": 1761848775,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49027,
       "num": 600203,
       "word": "369问karsa求夸",
@@ -459,12 +459,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30215,
+      "raw_hot": 34923,
       "num": 427984,
       "word": "山河枕首播实时热度登顶",
       "onboard_time": 1761850695,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32068,
+      "num": 32068,
+      "word": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
+      "onboard_time": 1761862515,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31736,
+      "num": 31736,
+      "word": "徐冬冬称不会为了备婚减肥",
+      "onboard_time": 1761861554,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31100,
+      "num": 417915,
+      "word": "蕉内回应地铁广告辣眼",
+      "onboard_time": 1761849616,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29554,
@@ -483,16 +507,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 26944,
-      "num": 417915,
-      "word": "蕉内回应地铁广告辣眼",
-      "onboard_time": 1761849616,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26561,
-      "num": 26561,
+      "num": 30479,
       "word": "国际奥委会终止与沙特电竞奥运合作",
       "onboard_time": 1761856693,
       "rank": 43,
@@ -507,12 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25447,
-      "num": 25447,
-      "word": "徐冬冬称不会为了备婚减肥",
-      "onboard_time": 1761861554,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 23636,
+      "num": 30475,
+      "word": "原来现实里真的有莫小贝",
+      "onboard_time": 1761863236,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22496,
+      "num": 409030,
+      "word": "涉事学生不该给老师贴媚男标签",
+      "onboard_time": 1761851474,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20963,
@@ -539,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19729,
-      "num": 409030,
-      "word": "涉事学生不该给老师贴媚男标签",
-      "onboard_time": 1761851474,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17808,
       "num": 44154,
       "word": "中国电影大数据荣誉之夜影人群像",
@@ -555,19 +571,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17455,
-      "num": 25371,
-      "word": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
-      "onboard_time": 1761862515,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16879,
       "num": 25104,
       "word": "神二十一乘组有了新名字",
       "onboard_time": 1761853454,
       "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16868,
+      "num": 30467,
+      "word": "中美可以相互成就",
+      "onboard_time": 1761855793,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -579,15 +595,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13498,
-      "num": 25107,
-      "word": "中美可以相互成就",
-      "onboard_time": 1761855793,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8901,
+      "raw_hot": 9284,
       "num": 449311,
       "word": "2025APEC",
       "onboard_time": 1761814223,
