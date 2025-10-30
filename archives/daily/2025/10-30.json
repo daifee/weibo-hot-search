@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761832135939,
+  "endTime": 1761834470647,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634382,
+      "num": 313026,
+      "word": "王暖暖回应前夫疑为电诈头目",
+      "onboard_time": 1761830602,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634015,
       "num": 926511,
       "word": "新毒株甲型H3N2来袭",
@@ -347,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 565601,
-      "num": 313026,
-      "word": "王暖暖回应前夫疑为电诈头目",
-      "onboard_time": 1761830602,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 541416,
       "num": 541416,
       "word": "孙颖莎王曼昱被清华免试录取",
@@ -395,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511584,
+      "num": 439673,
+      "word": "水龙吟改名封神榜吧",
+      "onboard_time": 1761827360,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497075,
       "num": 278083,
       "word": "向太说嫁入豪门基本不幸福",
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460599,
+      "num": 250822,
+      "word": "跑男团有孩子和没孩子的区别",
+      "onboard_time": 1761829042,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456063,
       "num": 223288,
       "word": "王楚然对白鹿生理性喜欢",
@@ -433,14 +449,6 @@
       "onboard_time": 1761780738,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 439673,
-      "num": 439673,
-      "word": "水龙吟改名封神榜吧",
-      "onboard_time": 1761827360,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 437941,
@@ -579,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335836,
-      "num": 250822,
-      "word": "跑男团有孩子和没孩子的区别",
-      "onboard_time": 1761829042,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331242,
       "num": 224140,
       "word": "瘦了以后面相反而变差了",
@@ -617,6 +617,14 @@
       "onboard_time": 1761793759,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 317200,
+      "num": 317200,
+      "word": "清华回应孙颖莎王曼昱免试录取",
+      "onboard_time": 1761828922,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 314563,
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182351,
+      "num": 140364,
+      "word": "Homme建议LPL缩减队伍",
+      "onboard_time": 1761833424,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180995,
       "num": 180995,
       "word": "余承东官宣享界品牌大使",
@@ -1268,7 +1284,7 @@
     },
     {
       "raw_hot": 164341,
-      "num": 164341,
+      "num": 211009,
       "word": "狼队战胜KSG",
       "onboard_time": 1761831922,
       "rank": 28,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1761811102,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163452,
+      "num": 163452,
+      "word": "肖战才进组就传了三个饼",
+      "onboard_time": 1761833603,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 163442,
@@ -1347,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156939,
+      "num": 156939,
+      "word": "戚薇是田曦薇永远的榜一",
+      "onboard_time": 1761833002,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156659,
       "num": 156659,
       "word": "肖战中广联合会演员委员会会员",
@@ -1387,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153740,
+      "num": 153740,
+      "word": "央视专访侯明昊",
+      "onboard_time": 1761834441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151982,
       "num": 151982,
       "word": "扩大免税店经营品类",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1761785781,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150697,
-      "num": 150697,
-      "word": "清华回应孙颖莎王曼昱免试录取",
-      "onboard_time": 1761828922,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 150355,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1761820222,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141946,
+      "num": 141946,
+      "word": "周洁琼评论区连跪10次",
+      "onboard_time": 1761833302,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 140500,
@@ -2443,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103069,
+      "num": 103069,
+      "word": "成都一客车撞上路边停放货车已致6死",
+      "onboard_time": 1761832761,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101984,
       "num": 125146,
       "word": "国乒男单3人均止步首轮",
@@ -2465,6 +2513,14 @@
       "onboard_time": 1761801263,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101746,
+      "num": 208666,
+      "word": "中级会计 等成绩",
+      "onboard_time": 1761826880,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 101527,
@@ -2539,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99047,
+      "num": 190617,
+      "word": "KSG年总遗憾淘汰",
+      "onboard_time": 1761833902,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98808,
       "num": 98808,
       "word": "成毅天地剑心总榜第一",
@@ -2609,14 +2673,6 @@
       "onboard_time": 1761799404,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96405,
-      "num": 136335,
-      "word": "中级会计 等成绩",
-      "onboard_time": 1761826880,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 95374,
@@ -2705,6 +2761,14 @@
       "onboard_time": 1761785062,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 89972,
+      "num": 89972,
+      "word": "动物园回应1995年前出生可买老年票",
+      "onboard_time": 1761834143,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89344,
@@ -3203,6 +3267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49661,
+      "num": 186565,
+      "word": "高三男生赤脚进火场救坐轮椅邻居",
+      "onboard_time": 1761833360,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49545,
       "num": 209131,
       "word": "双11给你指条明道",
@@ -3460,7 +3532,7 @@
     },
     {
       "raw_hot": 35724,
-      "num": 166304,
+      "num": 197802,
       "word": "深蓝L06用众多离谱造就超级靠谱",
       "onboard_time": 1761831442,
       "rank": 19,
@@ -3511,6 +3583,14 @@
       "num": 355705,
       "word": "网警依法查处编造有人跳桥失踪谣言者",
       "onboard_time": 1761786141,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 30648,
+      "num": 352570,
+      "word": "培育壮大新兴产业和未来产业",
+      "onboard_time": 1761832041,
       "rank": 2,
       "category": "国内时政"
     },
@@ -3715,20 +3795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10763,
+      "num": 89312,
+      "word": "双十一哪些好物值得以旧换新",
+      "onboard_time": 1761834024,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 10121,
       "num": 29666,
       "word": "重阳是秋意最浓的一封家书",
       "onboard_time": 1761769153,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 8937,
-      "num": 352570,
-      "word": "培育壮大新兴产业和未来产业",
-      "onboard_time": 1761832041,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2840,
