@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761835549835,
+  "endTime": 1761838311088,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -97,6 +97,14 @@
       "onboard_time": 1761800363,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 974364,
+      "num": 249911,
+      "word": "建议不要将肉汤倒进下水道",
+      "onboard_time": 1761837623,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 964023,
@@ -571,12 +579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350757,
+      "num": 253741,
+      "word": "泰国哀悼王太后服装店换成黑白款",
+      "onboard_time": 1761834982,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 349798,
       "num": 415009,
       "word": "千万网红仙女酵母已近一年无收入",
       "onboard_time": 1761738321,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 346875,
+      "num": 249143,
+      "word": "肖战才进组就传了三个饼",
+      "onboard_time": 1761833603,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 345351,
@@ -635,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313645,
+      "num": 253147,
+      "word": "高三男生赤脚进火场救坐轮椅邻居",
+      "onboard_time": 1761833360,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
@@ -681,6 +713,14 @@
       "onboard_time": 1761750323,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277075,
+      "num": 123457,
+      "word": "特朗普出席韩国晚宴前吃了汉堡薯条",
+      "onboard_time": 1761835341,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 272412,
@@ -737,14 +777,6 @@
       "onboard_time": 1761746063,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 261515,
-      "num": 215968,
-      "word": "肖战才进组就传了三个饼",
-      "onboard_time": 1761833603,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 260043,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 230513,
-      "num": 214691,
+      "num": 219371,
       "word": "Homme建议LPL缩减队伍",
       "onboard_time": 1761833424,
       "rank": 30,
@@ -929,6 +961,22 @@
       "onboard_time": 1761786562,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221859,
+      "num": 221859,
+      "word": "钟楚曦年度口碑女演员",
+      "onboard_time": 1761837502,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 217490,
+      "num": 92079,
+      "word": "Bin 双眼皮",
+      "onboard_time": 1761835882,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 216031,
@@ -1307,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164408,
+      "num": 164408,
+      "word": "大麦致歉声明",
+      "onboard_time": 1761836241,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164341,
       "num": 211009,
       "word": "狼队战胜KSG",
@@ -1419,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155664,
+      "num": 155664,
+      "word": "女子做绿番茄美甲遇冷秒变红",
+      "onboard_time": 1761835882,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155296,
       "num": 155296,
       "word": "黄磊调侃自己被网上传得像在ICU",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1761794600,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154059,
+      "num": 252143,
+      "word": "携6.1万枚比特币出逃的钱志敏是谁",
+      "onboard_time": 1761835281,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151982,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1761793159,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151574,
+      "num": 151574,
+      "word": "张杰演唱会电影获年度音乐电影",
+      "onboard_time": 1761836960,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 151470,
@@ -1489,6 +1569,14 @@
       "onboard_time": 1761806241,
       "rank": 46,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 149193,
+      "num": 149193,
+      "word": "刘雯井柏然秀场合体",
+      "onboard_time": 1761836602,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 147750,
@@ -1603,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143170,
+      "num": 143170,
+      "word": "林允 cp感是一种玄学",
+      "onboard_time": 1761837081,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142720,
       "num": 142720,
       "word": "神20乘组有望刷新一项纪录",
@@ -1633,14 +1729,6 @@
       "onboard_time": 1761833302,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141342,
-      "num": 123457,
-      "word": "特朗普出席韩国晚宴前吃了汉堡薯条",
-      "onboard_time": 1761835341,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140500,
@@ -1697,14 +1785,6 @@
       "onboard_time": 1761816862,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137672,
-      "num": 219866,
-      "word": "高三男生赤脚进火场救坐轮椅邻居",
-      "onboard_time": 1761833360,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 137465,
@@ -1913,14 +1993,6 @@
       "onboard_time": 1761828682,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124970,
-      "num": 124970,
-      "word": "泰国哀悼王太后服装店换成黑白款",
-      "onboard_time": 1761834982,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124857,
@@ -2419,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106830,
+      "num": 106830,
+      "word": "看杨幂沈腾无法保持苹果肌扁平",
+      "onboard_time": 1761837801,
+      "rank": 31,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 106654,
       "num": 106654,
       "word": "Ning说G2是TES充电宝",
@@ -2481,14 +2561,6 @@
       "onboard_time": 1761793220,
       "rank": 22,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 104887,
-      "num": 104887,
-      "word": "携6.1万枚比特币出逃的钱志敏是谁",
-      "onboard_time": 1761835281,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104427,
@@ -2585,6 +2657,22 @@
       "onboard_time": 1761822080,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101246,
+      "num": 101246,
+      "word": "369坚定选择AL",
+      "onboard_time": 1761835521,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101153,
+      "num": 101153,
+      "word": "金价狂飙婚事耽搁2年女子发声",
+      "onboard_time": 1761836362,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100909,
@@ -2740,7 +2828,7 @@
     },
     {
       "raw_hot": 94911,
-      "num": 217201,
+      "num": 224391,
       "word": "深蓝L06入门满配预售价13.99万",
       "onboard_time": 1761835281,
       "rank": 14,
@@ -2779,6 +2867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92968,
+      "num": 92968,
+      "word": "369问karsa求夸",
+      "onboard_time": 1761837502,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "左凌峰 少爷和我",
@@ -2803,20 +2899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92027,
+      "num": 92027,
+      "word": "中方对军品出口采取慎重负责态度",
+      "onboard_time": 1761838041,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 91244,
+      "num": 91244,
+      "word": "周深出道11年第一个跨年演唱会",
+      "onboard_time": 1761838041,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90750,
       "num": 138704,
       "word": "维嘉说何老师是买单王",
       "onboard_time": 1761801863,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90743,
-      "num": 90743,
-      "word": "369坚定选择AL",
-      "onboard_time": 1761835521,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 90696,
@@ -2915,6 +3019,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 84894,
+      "num": 84894,
+      "word": "轻薄羽绒服洗后薄得像纸",
+      "onboard_time": 1761836061,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 84783,
       "num": 125060,
       "word": "三天把作息调整到11点睡6点起",
@@ -2963,12 +3075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83372,
+      "num": 83372,
+      "word": "TES刚赢比赛马上又打训练赛",
+      "onboard_time": 1761836781,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83283,
       "num": 412735,
       "word": "张杰带着天下杀回来了",
       "onboard_time": 1761748522,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82048,
+      "num": 82048,
+      "word": "明天A股市场能否反包大涨",
+      "onboard_time": 1761836902,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 82035,
@@ -3379,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48769,
+      "num": 92089,
+      "word": "师生矛盾该不该上法庭",
+      "onboard_time": 1761837261,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 48621,
       "num": 114835,
       "word": "上海地铁现宝剑造型交通卡引热议",
@@ -3409,6 +3545,14 @@
       "onboard_time": 1761748103,
       "rank": 46,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 46361,
+      "num": 101986,
+      "word": "阳光玫瑰葡萄市场乱象调查",
+      "onboard_time": 1761836423,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45259,
@@ -3777,6 +3921,14 @@
       "onboard_time": 1761806662,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20486,
+      "num": 92424,
+      "word": "特朗普韩国下榻酒店安保森严",
+      "onboard_time": 1761837201,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20086,
