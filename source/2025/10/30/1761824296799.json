@@ -1,0 +1,410 @@
+{
+  "runTime": 1761824296799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909842,
+        "num": 1145574,
+        "word": "满13岁女生免费接种HPV疫苗",
+        "onboard_time": 1761818962,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 521149,
+        "num": 521149,
+        "word": "TES晋级S15四强",
+        "onboard_time": 1761819922,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24130,
+        "num": 457780,
+        "word": "2025APEC",
+        "onboard_time": 1761814223,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427722,
+        "num": 427722,
+        "word": "国防部回应台湾高清卫星图",
+        "onboard_time": 1761818721,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413382,
+        "num": 413382,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23665,
+        "num": 397334,
+        "word": "一起看全运会",
+        "onboard_time": 1761814223,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383807,
+        "num": 383807,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322386,
+        "num": 322386,
+        "word": "孙颖莎王曼昱被清华免试录取",
+        "onboard_time": 1761817882,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279988,
+        "num": 279988,
+        "word": "电竞奥运会暂停举办",
+        "onboard_time": 1761818242,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226111,
+        "num": 226111,
+        "word": "LPL",
+        "onboard_time": 1761822141,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 950588,
+        "num": 225819,
+        "word": "造谣老师刻薄媚男女生发声",
+        "onboard_time": 1761818841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863792,
+        "num": 225687,
+        "word": "美国商务部闯大祸",
+        "onboard_time": 1761821360,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505309,
+        "num": 225280,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269921,
+        "num": 225008,
+        "word": "山河枕",
+        "onboard_time": 1761819080,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243526,
+        "num": 224586,
+        "word": "第二杯半价不是让你一个人喝两杯的",
+        "onboard_time": 1761809180,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226143,
+        "num": 224200,
+        "word": "JackeyLove说终于进四强了",
+        "onboard_time": 1761823283,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224122,
+        "num": 224122,
+        "word": "公务员不是混日子避风港",
+        "onboard_time": 1761817761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205211,
+        "num": 205211,
+        "word": "山河枕开局下线7万人",
+        "onboard_time": 1761822682,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196353,
+        "num": 196353,
+        "word": "桂花很笨",
+        "onboard_time": 1761823344,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192104,
+        "num": 192104,
+        "word": "荷兰",
+        "onboard_time": 1761814102,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1069765,
+        "num": 186234,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320600,
+        "num": 181085,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252217,
+        "num": 178568,
+        "word": "谢娜爸爸悄悄退机票买硬座",
+        "onboard_time": 1761818301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232540,
+        "num": 174102,
+        "word": "辛芷蕾 任何女性还是少听建议吧",
+        "onboard_time": 1761819741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200503,
+        "num": 163642,
+        "word": "三个少年",
+        "onboard_time": 1761823163,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162289,
+        "num": 162289,
+        "word": "天地剑心仙改",
+        "onboard_time": 1761816382,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133877,
+        "num": 161173,
+        "word": "山河枕热度",
+        "onboard_time": 1761824061,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114838,
+        "num": 154110,
+        "word": "卢浮宫追回的失窃皇冠被压平",
+        "onboard_time": 1761809242,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106858,
+        "num": 150448,
+        "word": "新闻女王2又来爆金句了",
+        "onboard_time": 1761823941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85622,
+        "num": 146702,
+        "word": "2025仅剩2个月",
+        "onboard_time": 1761823762,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145786,
+        "num": 145786,
+        "word": "00后小伙打工后发现厂是自家的",
+        "onboard_time": 1761824061,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147805,
+        "num": 144809,
+        "word": "金价反弹",
+        "onboard_time": 1761815242,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178819,
+        "num": 144635,
+        "word": "AL对战T1预测",
+        "onboard_time": 1761823042,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143507,
+        "num": 143507,
+        "word": "韩国偶遇杜华",
+        "onboard_time": 1761823344,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137781,
+        "num": 137781,
+        "word": "蕉内地铁广告被指辣眼",
+        "onboard_time": 1761816862,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137041,
+        "num": 137041,
+        "word": "龚俊去年今日杀青藏头诗",
+        "onboard_time": 1761823523,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136599,
+        "num": 136599,
+        "word": "辛芷蕾井柏然刘雯同框",
+        "onboard_time": 1761819020,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135952,
+        "num": 135952,
+        "word": "叠穿",
+        "onboard_time": 1761814941,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 75856,
+        "num": 134771,
+        "word": "陈雨菲黄雅琼潘展乐等出征",
+        "onboard_time": 1761823344,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76443,
+        "num": 134411,
+        "word": "TES已追平队史最佳成绩",
+        "onboard_time": 1761824121,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134278,
+        "num": 134278,
+        "word": "宋茜神奇的社交圈",
+        "onboard_time": 1761820762,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127771,
+        "num": 127771,
+        "word": "李一桐 我下部戏必须带你进组了",
+        "onboard_time": 1761812001,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125160,
+        "num": 125160,
+        "word": "于适 不是求婚是抢婚吧",
+        "onboard_time": 1761819441,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124765,
+        "num": 124765,
+        "word": "韩总统尴尬等待柬埔寨首相",
+        "onboard_time": 1761824061,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121765,
+        "num": 121765,
+        "word": "G2本届世界赛只输TES",
+        "onboard_time": 1761822981,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114144,
+        "num": 114144,
+        "word": "山河枕直播",
+        "onboard_time": 1761818362,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109037,
+        "num": 109037,
+        "word": "超过40人陈尸巴西街头",
+        "onboard_time": 1761822261,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108563,
+        "num": 108563,
+        "word": "阿水Flandre有望加入BeryL俱乐部",
+        "onboard_time": 1761811223,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74988,
+        "num": 103191,
+        "word": "解放军将以更强大能力粉碎台独图谋",
+        "onboard_time": 1761823462,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68739,
+        "num": 100728,
+        "word": "杨瀚森表现",
+        "onboard_time": 1761820340,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首韩国釜山会晤#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761823404199,
+  "endTime": 1761824296799,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -587,6 +587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 909842,
+      "num": 1145574,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 904724,
       "num": 299977,
       "word": "十日终焉 肖战",
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 863792,
+      "num": 225687,
+      "word": "美国商务部闯大祸",
+      "onboard_time": 1761821360,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 859382,
       "num": 1137501,
       "word": "湘潭大学37岁博导刘昊霖去世",
@@ -689,14 +705,6 @@
       "onboard_time": 1761637762,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 853115,
-      "num": 153181,
-      "word": "美国商务部闯大祸",
-      "onboard_time": 1761821360,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 849688,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1761457039,
       "rank": 17,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 616662,
-      "num": 616662,
-      "word": "满13岁女生免费接种HPV疫苗",
-      "onboard_time": 1761818962,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 616347,
@@ -2403,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427722,
+      "num": 427722,
+      "word": "国防部回应台湾高清卫星图",
+      "onboard_time": 1761818721,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 426674,
       "num": 338751,
       "word": "关晓彤第二套好辣",
@@ -2945,14 +2953,6 @@
       "onboard_time": 1761434116,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 350644,
-      "num": 350644,
-      "word": "国防部回应台湾高清卫星图",
-      "onboard_time": 1761818721,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 349442,
@@ -3691,6 +3691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269921,
+      "num": 239164,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269191,
       "num": 244866,
       "word": "阿水Flandre有望加入BeryL俱乐部",
@@ -3795,14 +3803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 258199,
-      "num": 239164,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258133,
       "num": 258133,
       "word": "四川精子库可选星座属相脸型",
@@ -3897,6 +3897,14 @@
       "onboard_time": 1761731542,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 252217,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 251919,
@@ -4075,14 +4083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 241989,
-      "num": 179321,
-      "word": "谢娜爸爸悄悄退机票买硬座",
-      "onboard_time": 1761818301,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241580,
       "num": 227266,
       "word": "宝宝去世两年妈妈常来墓地碎碎念",
@@ -4259,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232540,
+      "num": 174102,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231790,
       "num": 215553,
       "word": "Ning喊话姿态",
@@ -4419,6 +4427,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 226143,
+      "num": 224200,
+      "word": "JackeyLove说终于进四强了",
+      "onboard_time": 1761823283,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 226111,
+      "num": 226111,
+      "word": "LPL",
+      "onboard_time": 1761822141,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226100,
       "num": 143154,
       "word": "15岁女儿从126斤到102斤",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1761648382,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224122,
+      "num": 224122,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223314,
@@ -4641,14 +4673,6 @@
       "onboard_time": 1761397281,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214285,
-      "num": 167337,
-      "word": "辛芷蕾 任何女性还是少听建议吧",
-      "onboard_time": 1761819741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 214199,
@@ -4883,6 +4907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205211,
+      "num": 205211,
+      "word": "山河枕开局下线7万人",
+      "onboard_time": 1761822682,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204927,
       "num": 150997,
       "word": "减肥时脂肪消耗是有顺序的",
@@ -5025,6 +5057,14 @@
       "onboard_time": 1761397041,
       "rank": 16,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 200503,
+      "num": 167136,
+      "word": "三个少年",
+      "onboard_time": 1761823163,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 200483,
@@ -5209,6 +5249,14 @@
       "onboard_time": 1761531140,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196353,
+      "num": 196353,
+      "word": "桂花很笨",
+      "onboard_time": 1761823344,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 196208,
@@ -5425,14 +5473,6 @@
       "onboard_time": 1761537561,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191288,
-      "num": 191288,
-      "word": "LPL",
-      "onboard_time": 1761822141,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 190785,
@@ -5787,14 +5827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184422,
-      "num": 167136,
-      "word": "三个少年",
-      "onboard_time": 1761823163,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184407,
       "num": 184407,
       "word": "iPhone18发布或推迟",
@@ -6027,20 +6059,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178819,
+      "num": 153166,
+      "word": "AL对战T1预测",
+      "onboard_time": 1761823042,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178807,
       "num": 178807,
       "word": "王者荣耀十周年",
       "onboard_time": 1761454040,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178722,
-      "num": 178722,
-      "word": "公务员不是混日子避风港",
-      "onboard_time": 1761817761,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178487,
@@ -7491,14 +7523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153166,
-      "num": 153166,
-      "word": "AL对战T1预测",
-      "onboard_time": 1761823042,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153133,
       "num": 153133,
       "word": "不要轻易尝试冰冻柚子",
@@ -7971,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145786,
+      "num": 145786,
+      "word": "00后小伙打工后发现厂是自家的",
+      "onboard_time": 1761824061,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145781,
       "num": 145781,
       "word": "耀眼",
@@ -8177,6 +8209,14 @@
       "onboard_time": 1761795741,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143507,
+      "num": 143507,
+      "word": "韩国偶遇杜华",
+      "onboard_time": 1761823344,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 143255,
@@ -8587,6 +8627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137781,
+      "num": 137781,
+      "word": "蕉内地铁广告被指辣眼",
+      "onboard_time": 1761816862,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137651,
       "num": 137651,
       "word": "每周2次让你的心脏变年轻",
@@ -8617,6 +8665,14 @@
       "onboard_time": 1761733221,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137041,
+      "num": 137041,
+      "word": "龚俊去年今日杀青藏头诗",
+      "onboard_time": 1761823523,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137026,
@@ -8881,6 +8937,14 @@
       "onboard_time": 1761463400,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133877,
+      "num": 161173,
+      "word": "山河枕热度",
+      "onboard_time": 1761824061,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 133875,
@@ -9491,14 +9555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128742,
-      "num": 128742,
-      "word": "蕉内地铁广告被指辣眼",
-      "onboard_time": 1761816862,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128718,
       "num": 128718,
       "word": "龚俊说自己唱歌跟刘宇宁不相上下",
@@ -9833,6 +9889,14 @@
       "onboard_time": 1761816322,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124765,
+      "num": 124765,
+      "word": "韩总统尴尬等待柬埔寨首相",
+      "onboard_time": 1761824061,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124746,
@@ -10243,14 +10307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120303,
-      "num": 172674,
-      "word": "山河枕开局下线7万人",
-      "onboard_time": 1761822682,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120217,
       "num": 120217,
       "word": "女推三不加人",
@@ -10641,14 +10697,6 @@
       "onboard_time": 1761557840,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116306,
-      "num": 116306,
-      "word": "JackeyLove说终于进四强了",
-      "onboard_time": 1761823283,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 116258,
@@ -11539,6 +11587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109037,
+      "num": 109037,
+      "word": "超过40人陈尸巴西街头",
+      "onboard_time": 1761822261,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109015,
       "num": 109015,
       "word": "米卡 我真的穿了",
@@ -11755,14 +11811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107459,
-      "num": 107459,
-      "word": "超过40人陈尸巴西街头",
-      "onboard_time": 1761822261,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 107310,
       "num": 107310,
       "word": "恋与深空纯炫技",
@@ -11817,6 +11865,14 @@
       "onboard_time": 1761735020,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106858,
+      "num": 150448,
+      "word": "新闻女王2又来爆金句了",
+      "onboard_time": 1761823941,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 106654,
@@ -11953,14 +12009,6 @@
       "onboard_time": 1761796941,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105586,
-      "num": 105586,
-      "word": "桂花很笨",
-      "onboard_time": 1761823344,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 105572,
@@ -12153,14 +12201,6 @@
       "onboard_time": 1761706519,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103753,
-      "num": 103753,
-      "word": "韩国偶遇杜华",
-      "onboard_time": 1761823344,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 103433,
@@ -13851,6 +13891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85622,
+      "num": 146702,
+      "word": "2025仅剩2个月",
+      "onboard_time": 1761823762,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85487,
       "num": 159992,
       "word": "全球投资者撤资印度急了",
@@ -14292,7 +14340,7 @@
     },
     {
       "raw_hot": 78299,
-      "num": 97881,
+      "num": 134771,
       "word": "陈雨菲黄雅琼潘展乐等出征",
       "onboard_time": 1761823344,
       "rank": 49,
@@ -14363,6 +14411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76443,
+      "num": 134411,
+      "word": "TES已追平队史最佳成绩",
+      "onboard_time": 1761824121,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76396,
       "num": 76396,
       "word": "熬夜真的会让人长白发",
@@ -14417,6 +14473,14 @@
       "onboard_time": 1761573442,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74988,
+      "num": 103191,
+      "word": "解放军将以更强大能力粉碎台独图谋",
+      "onboard_time": 1761823462,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74973,
@@ -17019,6 +17083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23665,
+      "num": 499264,
+      "word": "一起看全运会",
+      "onboard_time": 1761814223,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23636,
       "num": 138224,
       "word": "张檬最后一次拍戏是在8年前",
@@ -17041,14 +17113,6 @@
       "onboard_time": 1761729981,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23323,
-      "num": 499264,
-      "word": "一起看全运会",
-      "onboard_time": 1761814223,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 23093,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 19:23:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 19:38:16
 </p>
 </blockquote>
 <p>
@@ -2913,6 +2913,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A113%E5%B2%81%E5%A5%B3%E7%94%9F%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23" target="weibo">
+满13岁女生免费接种HPV疫苗（热度：909842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%20%E8%82%96%E6%88%98%23" target="weibo">
 十日终焉 肖战（热度：904724）
 </a>
@@ -3213,6 +3219,12 @@ A股（热度：871787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%97%AF%E5%A4%A7%E7%A5%B8%23" target="weibo">
+美国商务部闯大祸（热度：863792）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%91%E5%8D%95%23" target="weibo">
 凑单（热度：862324）
 </a>
@@ -3281,12 +3293,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B2%E9%94%8B%E8%A1%A3%20%E6%98%BE%E5%91%BD%E8%8B%A6%23" target="weibo">
 冲锋衣 显命苦（热度：853365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%97%AF%E5%A4%A7%E7%A5%B8%23" target="weibo">
-美国商务部闯大祸（热度：853115）
 </a>
 </li>
 
@@ -5969,12 +5975,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%BA%AD%E9%9B%87%E7%9A%84%E5%8D%B0%E5%B0%BC%E5%A5%B3%E4%BD%A3%E7%AB%9F%E6%98%AF%E5%AF%8C%E5%AE%B6%E5%A5%B3%23" target="weibo">
 香港家庭雇的印尼女佣竟是富家女（热度：617066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A113%E5%B2%81%E5%A5%B3%E7%94%9F%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23" target="weibo">
-满13岁女生免费接种HPV疫苗（热度：616662）
 </a>
 </li>
 
