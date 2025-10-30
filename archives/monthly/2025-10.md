@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 21:37:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 21:48:55
 </p>
 </blockquote>
 <p>
@@ -6521,6 +6521,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%9F%A9%E5%9B%BD%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%23%23" target="weibo">
 #中美元首韩国釜山会晤#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E8%BF%99%E4%BA%9B%E8%AF%9D%E4%BA%AE%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%80%81%E5%BA%A6%23%23" target="weibo">
+#习主席这些话亮明中国态度#
 </a>
 </li>
 

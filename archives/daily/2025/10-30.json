@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761831435463,
+  "endTime": 1761832135939,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565601,
+      "num": 313026,
+      "word": "王暖暖回应前夫疑为电诈头目",
+      "onboard_time": 1761830602,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541416,
       "num": 541416,
       "word": "孙颖莎王曼昱被清华免试录取",
@@ -425,6 +433,14 @@
       "onboard_time": 1761780738,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 439673,
+      "num": 439673,
+      "word": "水龙吟改名封神榜吧",
+      "onboard_time": 1761827360,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 437941,
@@ -547,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 345351,
+      "num": 345351,
+      "word": "谁家好剧集齐四个影帝",
+      "onboard_time": 1761828022,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341970,
       "num": 341970,
       "word": "里夫斯绝杀森林狼",
@@ -555,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333631,
-      "num": 333631,
-      "word": "水龙吟改名封神榜吧",
-      "onboard_time": 1761827360,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 335836,
+      "num": 250822,
+      "word": "跑男团有孩子和没孩子的区别",
+      "onboard_time": 1761829042,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 331242,
@@ -601,22 +625,6 @@
       "onboard_time": 1761823344,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313026,
-      "num": 313026,
-      "word": "王暖暖回应前夫疑为电诈头目",
-      "onboard_time": 1761830602,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312973,
-      "num": 327653,
-      "word": "谁家好剧集齐四个影帝",
-      "onboard_time": 1761828022,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 312193,
@@ -745,14 +753,6 @@
       "onboard_time": 1761818301,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250822,
-      "num": 250822,
-      "word": "跑男团有孩子和没孩子的区别",
-      "onboard_time": 1761829042,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 250761,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218833,
+      "num": 194429,
+      "word": "丁禹兮热度破两万八拆卡4小时",
+      "onboard_time": 1761830002,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216031,
       "num": 484785,
       "word": "日高校副校长说高市早苗做的过火",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1761797602,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194429,
-      "num": 194429,
-      "word": "丁禹兮热度破两万八拆卡4小时",
-      "onboard_time": 1761830002,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 194180,
@@ -1227,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167830,
+      "num": 320193,
+      "word": "小鼠航天员训练日常大公开",
+      "onboard_time": 1761828863,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167701,
       "num": 167701,
       "word": "外籍航天员训练进展",
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164341,
+      "num": 164341,
+      "word": "狼队战胜KSG",
+      "onboard_time": 1761831922,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164238,
       "num": 164238,
       "word": "小鱼海棠婚礼镜头签",
@@ -1288,14 +1304,6 @@
       "word": "12岁女儿讲英语帮妈妈卖文具赚10万",
       "onboard_time": 1761781460,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161055,
-      "num": 320193,
-      "word": "小鼠航天员训练日常大公开",
-      "onboard_time": 1761828863,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1419,6 +1427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150697,
+      "num": 150697,
+      "word": "清华回应孙颖莎王曼昱免试录取",
+      "onboard_time": 1761828922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150355,
       "num": 150355,
       "word": "李一桐bg之光",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1761741803,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146660,
+      "num": 146660,
+      "word": "何瑞贤演技",
+      "onboard_time": 1761831382,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 146172,
@@ -1667,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132991,
+      "num": 132991,
+      "word": "丝塔芙发红包",
+      "onboard_time": 1761829642,
+      "rank": 48,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 132847,
       "num": 132847,
       "word": "西安通报汽车撞上钟楼",
@@ -1723,12 +1755,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130483,
-      "num": 130483,
-      "word": "丝塔芙发红包",
-      "onboard_time": 1761829642,
-      "rank": 48,
-      "category": "美妆,艺人"
+      "raw_hot": 131012,
+      "num": 131012,
+      "word": "吴敬平晒地板控樊振东",
+      "onboard_time": 1761831682,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 129951,
@@ -1761,6 +1793,22 @@
       "onboard_time": 1761813380,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128692,
+      "num": 128692,
+      "word": "成毅天地剑心横扫爱奇艺热播榜",
+      "onboard_time": 1761831022,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128415,
+      "num": 128415,
+      "word": "倪萍蔡明通告费一分钱没白拿",
+      "onboard_time": 1761831382,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126770,
@@ -1963,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117981,
-      "num": 117981,
-      "word": "成毅天地剑心横扫爱奇艺热播榜",
-      "onboard_time": 1761831022,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117852,
       "num": 117852,
       "word": "锚定2030年前实现中国人登月",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1761810742,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116675,
-      "num": 148910,
-      "word": "清华回应孙颖莎王曼昱免试录取",
-      "onboard_time": 1761828922,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 116614,
@@ -2291,14 +2323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107860,
-      "num": 107860,
-      "word": "倪萍蔡明通告费一分钱没白拿",
-      "onboard_time": 1761831382,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107164,
       "num": 185172,
       "word": "女子离婚朋友办宴席庆祝",
@@ -2377,14 +2401,6 @@
       "onboard_time": 1761798202,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 104395,
-      "num": 104395,
-      "word": "何瑞贤演技",
-      "onboard_time": 1761831382,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 104328,
@@ -2779,6 +2795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84458,
+      "num": 128462,
+      "word": "karsa支持369",
+      "onboard_time": 1761831562,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83880,
       "num": 123248,
       "word": "罗云熙林允水龙吟情侣装",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73140,
+      "num": 118428,
+      "word": "jiejie不装因为真的帅",
+      "onboard_time": 1761832102,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 72615,
@@ -3427,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35724,
+      "num": 166304,
+      "word": "深蓝L06用众多离谱造就超级靠谱",
+      "onboard_time": 1761831442,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35303,
       "num": 204251,
       "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
@@ -3683,6 +3723,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 8937,
+      "num": 352570,
+      "word": "培育壮大新兴产业和未来产业",
+      "onboard_time": 1761832041,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2840,
       "num": 133972,
       "word": "三峡大学毕业典礼的外国人",
@@ -3700,6 +3748,9 @@
     },
     {
       "word": "#中美元首韩国釜山会晤#"
+    },
+    {
+      "word": "#习主席这些话亮明中国态度#"
     }
   ]
 }
