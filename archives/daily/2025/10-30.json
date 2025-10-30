@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761807078147,
+  "endTime": 1761809115729,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -75,20 +75,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 904724,
+      "num": 299977,
+      "word": "十日终焉 肖战",
+      "onboard_time": 1761804142,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 882735,
       "num": 882735,
       "word": "韩国机场鸣放21响礼炮",
       "onboard_time": 1761792020,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 848138,
-      "num": 299977,
-      "word": "十日终焉 肖战",
-      "onboard_time": 1761804142,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 837050,
@@ -131,19 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697633,
+      "num": 203213,
+      "word": "江一燕前夫是导演赵汉唐",
+      "onboard_time": 1761805942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 687972,
+      "num": 1110075,
+      "word": "给中美和世界经济吃下一颗定心丸",
+      "onboard_time": 1761806662,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 662611,
       "num": 328790,
       "word": "37岁阚清子孕晚期状态",
       "onboard_time": 1761798142,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 647651,
-      "num": 203213,
-      "word": "江一燕前夫是导演赵汉唐",
-      "onboard_time": 1761805942,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456063,
+      "num": 203338,
+      "word": "王楚然对白鹿生理性喜欢",
+      "onboard_time": 1761802943,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448237,
       "num": 242155,
       "word": "ON 好快的切割",
@@ -265,14 +281,6 @@
       "onboard_time": 1761752121,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406351,
-      "num": 203338,
-      "word": "王楚然对白鹿生理性喜欢",
-      "onboard_time": 1761802943,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 404927,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362695,
+      "num": 202660,
+      "word": "吃播网红回应在高铁边吃边吐2小时",
+      "onboard_time": 1761802644,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349798,
       "num": 415009,
       "word": "千万网红仙女酵母已近一年无收入",
@@ -329,6 +345,14 @@
       "onboard_time": 1761798263,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340116,
+      "num": 167758,
+      "word": "甲沟炎 剪v字",
+      "onboard_time": 1761806542,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 331242,
@@ -459,11 +483,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236038,
-      "num": 202660,
-      "word": "吃播网红回应在高铁边吃边吐2小时",
-      "onboard_time": 1761802644,
-      "rank": 38,
+      "raw_hot": 236554,
+      "num": 236554,
+      "word": "大学法学老师被学生吐槽称将起诉",
+      "onboard_time": 1761803963,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -603,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193368,
-      "num": 193368,
-      "word": "大学法学老师被学生吐槽称将起诉",
-      "onboard_time": 1761803963,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192483,
       "num": 192483,
       "word": "鞠婧祎发型师起诉丝芭传媒",
@@ -691,7 +707,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174400,
+      "raw_hot": 177408,
       "num": 193424,
       "word": "成毅天地剑心飙升190%",
       "onboard_time": 1761806481,
@@ -707,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172574,
-      "num": 136383,
-      "word": "甲沟炎 剪v字",
-      "onboard_time": 1761806542,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 168949,
+      "num": 168949,
+      "word": "丁禹兮山河枕品牌云包场",
+      "onboard_time": 1761808521,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 168843,
@@ -737,6 +753,14 @@
       "onboard_time": 1761790039,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166732,
+      "num": 166732,
+      "word": "当代成年人最顶级的自律",
+      "onboard_time": 1761807922,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 166699,
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149930,
+      "num": 149930,
+      "word": "甲流合胞病毒鼻病毒都来了",
+      "onboard_time": 1761806241,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 147750,
       "num": 147750,
       "word": "工业富联今年累涨超300%",
@@ -865,6 +897,14 @@
       "onboard_time": 1761741803,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147052,
+      "num": 148103,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 146172,
@@ -931,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139416,
-      "num": 208308,
-      "word": "给中美和世界经济吃下一颗定心丸",
-      "onboard_time": 1761806662,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138612,
       "num": 138612,
       "word": "李沁马思纯怪不得你俩能玩到一块",
@@ -963,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135533,
-      "num": 135533,
-      "word": "甲流合胞病毒鼻病毒都来了",
-      "onboard_time": 1761806241,
-      "rank": 46,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 133983,
       "num": 225347,
       "word": "喜人 乱成一锅粥了",
@@ -985,6 +1009,38 @@
       "onboard_time": 1761787940,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132312,
+      "num": 132312,
+      "word": "黄金手镯和皮带扣涂成银色入境被查",
+      "onboard_time": 1761807441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132148,
+      "num": 132148,
+      "word": "薛之谦刘宇宁 南薛北刘",
+      "onboard_time": 1761808460,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131888,
+      "num": 131888,
+      "word": "美方加征24%关税继续暂停一年",
+      "onboard_time": 1761809000,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131655,
+      "num": 132611,
+      "word": "黄晓明说很羡慕易烊千玺朱一龙",
+      "onboard_time": 1761807321,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 131644,
@@ -1052,11 +1108,19 @@
     },
     {
       "raw_hot": 122557,
-      "num": 122557,
+      "num": 134914,
       "word": "订单留言被在意是种什么感觉",
       "onboard_time": 1761802525,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122506,
+      "num": 122506,
+      "word": "病逝宝宝墓地离家5分钟",
+      "onboard_time": 1761807562,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121783,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1761801381,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119455,
+      "num": 119455,
+      "word": "原来小时候妈妈那么年轻",
+      "onboard_time": 1761807862,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 118215,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1761790101,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115142,
+      "num": 149954,
+      "word": "宋威龙包场山河枕",
+      "onboard_time": 1761808641,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 114931,
@@ -1363,12 +1443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101197,
+      "num": 176445,
+      "word": "中美吉隆坡经贸磋商成果共识",
+      "onboard_time": 1761808521,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100909,
       "num": 100909,
       "word": "杨瀚森生涯第二个运动战得分",
       "onboard_time": 1761805702,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100492,
+      "num": 133156,
+      "word": "第一次喝拉菲是种什么体验",
+      "onboard_time": 1761809062,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 100200,
@@ -1475,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92831,
+      "num": 135280,
+      "word": "李施嬅男友送她写自己名字的房子",
+      "onboard_time": 1761808521,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "左凌峰 少爷和我",
@@ -1547,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87864,
+      "num": 141377,
+      "word": "成毅龚俊罗云熙打戏",
+      "onboard_time": 1761807623,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85702,
       "num": 413411,
       "word": "花少浪姐团 审美疲劳",
@@ -1617,6 +1729,14 @@
       "onboard_time": 1761805942,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81594,
+      "num": 134235,
+      "word": "韩网也在看BLG热闹",
+      "onboard_time": 1761809062,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 80627,
@@ -1779,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57478,
+      "num": 169844,
+      "word": "到底谁吃到了宁哥的炒饭",
+      "onboard_time": 1761808162,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55552,
       "num": 192028,
       "word": "西安省级文保户县钟楼深夜被撞",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1761737480,
       "rank": 43,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 51430,
+      "num": 169398,
+      "word": "波司登集邮国际顶流设计师",
+      "onboard_time": 1761808042,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 50962,
@@ -2003,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35303,
+      "num": 204251,
+      "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
+      "onboard_time": 1761804444,
+      "rank": 13,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 35101,
       "num": 403233,
       "word": "中国国家队祝福冬奥健儿",
@@ -2033,14 +2177,6 @@
       "onboard_time": 1761786141,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30151,
-      "num": 204251,
-      "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
-      "onboard_time": 1761804444,
-      "rank": 13,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 29296,
@@ -2163,6 +2299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12218,
+      "num": 136146,
+      "word": "村民称自家20棵果树疑因防蚊被清理",
+      "onboard_time": 1761808342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11520,
       "num": 207588,
       "word": "王艺迪为国乒破局",
@@ -2177,6 +2321,14 @@
       "onboard_time": 1761769153,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 2840,
+      "num": 133972,
+      "word": "三峡大学毕业典礼的外国人",
+      "onboard_time": 1761807862,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
