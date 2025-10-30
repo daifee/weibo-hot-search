@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761828817216,
+  "endTime": 1761829721103,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1032110,
+      "num": 201746,
+      "word": "刘谦抗癌成功后近况",
+      "onboard_time": 1761825621,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1030481,
       "num": 304247,
       "word": "时间带走了Angelababy什么",
@@ -89,14 +97,6 @@
       "onboard_time": 1761800363,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 982638,
-      "num": 173716,
-      "word": "刘谦抗癌成功后近况",
-      "onboard_time": 1761825621,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 964023,
@@ -235,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 670945,
+      "num": 201483,
+      "word": "大麦 偷跑",
+      "onboard_time": 1761824781,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 662611,
       "num": 328790,
       "word": "37岁阚清子孕晚期状态",
@@ -275,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 614151,
+      "num": 1098264,
+      "word": "鼠鼠我啊要上太空了",
+      "onboard_time": 1761824301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610562,
       "num": 353442,
       "word": "少爷和我",
@@ -313,14 +329,6 @@
       "onboard_time": 1761743662,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 575205,
-      "num": 167855,
-      "word": "大麦 偷跑",
-      "onboard_time": 1761824781,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 572676,
@@ -443,14 +451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 426393,
-      "num": 426393,
-      "word": "鼠鼠我啊要上太空了",
-      "onboard_time": 1761824301,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424416,
       "num": 424416,
       "word": "TES对战G2",
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356702,
+      "num": 200612,
+      "word": "小孩高铁生病哭闹乘客生气质问",
+      "onboard_time": 1761825441,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349798,
       "num": 415009,
       "word": "千万网红仙女酵母已近一年无收入",
@@ -545,14 +553,6 @@
       "onboard_time": 1761798263,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336949,
-      "num": 159268,
-      "word": "小孩高铁生病哭闹乘客生气质问",
-      "onboard_time": 1761825441,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331242,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 314563,
-      "num": 196353,
+      "num": 199398,
       "word": "桂花很笨",
       "onboard_time": 1761823344,
       "rank": 47,
@@ -641,6 +641,14 @@
       "onboard_time": 1761750323,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274334,
+      "num": 274334,
+      "word": "谁家好剧集齐四个影帝",
+      "onboard_time": 1761828022,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 272412,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241064,
+      "num": 199679,
+      "word": "妻子去世获136万赔偿父女闹翻",
+      "onboard_time": 1761824361,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237261,
       "num": 292261,
       "word": "美方暂停对华海事等301调查",
@@ -817,14 +833,6 @@
       "onboard_time": 1761822141,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225457,
-      "num": 142896,
-      "word": "妻子去世获136万赔偿父女闹翻",
-      "onboard_time": 1761824361,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224620,
@@ -931,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199227,
+      "num": 199227,
+      "word": "跑男团有孩子和没孩子的区别",
+      "onboard_time": 1761829042,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198776,
       "num": 198776,
       "word": "中美吉隆坡经贸磋商成果共识",
@@ -956,7 +972,7 @@
     },
     {
       "raw_hot": 197949,
-      "num": 141996,
+      "num": 155600,
       "word": "张萌你别带资组都是你的",
       "onboard_time": 1761825502,
       "rank": 25,
@@ -1075,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182627,
+      "num": 182627,
+      "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
+      "onboard_time": 1761825860,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180995,
       "num": 180995,
       "word": "余承东官宣享界品牌大使",
@@ -1107,16 +1131,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178382,
-      "num": 178382,
-      "word": "谁家好剧集齐四个影帝",
-      "onboard_time": 1761828022,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176773,
-      "num": 133833,
+      "num": 151021,
       "word": "九尾帅麻了",
       "onboard_time": 1761828201,
       "rank": 30,
@@ -1131,12 +1147,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 172699,
-      "num": 131355,
-      "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
-      "onboard_time": 1761825860,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 174836,
+      "num": 174836,
+      "word": "华晨宇演唱会文昌站官宣",
+      "onboard_time": 1761829282,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 172649,
@@ -1267,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158561,
+      "num": 202040,
+      "word": "小鼠航天员训练日常大公开",
+      "onboard_time": 1761828863,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158173,
       "num": 175547,
       "word": "新闻女王2定档",
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 156152,
-      "num": 156152,
+      "num": 156227,
       "word": "解放军将以更强大能力粉碎台独图谋",
       "onboard_time": 1761823462,
       "rank": 48,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 144301,
-      "num": 144301,
+      "num": 199530,
       "word": "iQOONeo11发布会",
       "onboard_time": 1761827782,
       "rank": 21,
@@ -1467,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143198,
+      "num": 163320,
+      "word": "水龙吟改名封神榜吧",
+      "onboard_time": 1761827360,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142720,
       "num": 142720,
       "word": "神20乘组有望刷新一项纪录",
@@ -1489,14 +1521,6 @@
       "onboard_time": 1761820222,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141366,
-      "num": 141366,
-      "word": "水龙吟改名封神榜吧",
-      "onboard_time": 1761827360,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 140500,
@@ -1603,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132847,
+      "num": 132847,
+      "word": "西安通报汽车撞上钟楼",
+      "onboard_time": 1761824001,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132794,
       "num": 132794,
       "word": "病逝宝宝墓地离家5分钟",
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129276,
+      "num": 129276,
+      "word": "原来内娱真的有养成系友情",
+      "onboard_time": 1761828562,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129147,
       "num": 129147,
       "word": "市场预计美联储将再次降息",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1761813380,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127195,
-      "num": 127195,
-      "word": "西安通报汽车撞上钟楼",
-      "onboard_time": 1761824001,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126770,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1761789500,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "邱鼎杰直播",
+      "onboard_time": 1761828682,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 124857,
@@ -1843,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119090,
+      "num": 201807,
+      "word": "央视追踪卖粮28万账户遭冻结案",
+      "onboard_time": 1761827482,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 118774,
       "num": 123559,
       "word": "阚清子为吃奶皮子糖葫芦排队2小时",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1761790101,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115397,
+      "num": 115397,
+      "word": "国内现货黄金克价跌破900元大关",
+      "onboard_time": 1761828682,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 114931,
@@ -2155,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107606,
+      "num": 115442,
+      "word": "清华回应孙颖莎王曼昱免试录取",
+      "onboard_time": 1761828922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107164,
       "num": 185172,
       "word": "女子离婚朋友办宴席庆祝",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1761827001,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106299,
-      "num": 106299,
-      "word": "原来内娱真的有养成系友情",
-      "onboard_time": 1761828562,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 106277,
@@ -2249,6 +2305,14 @@
       "onboard_time": 1761734241,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103645,
+      "num": 103645,
+      "word": "邵兵还是和邵子恒沟通的太少了",
+      "onboard_time": 1761829461,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103389,
@@ -2379,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97883,
+      "num": 97883,
+      "word": "柳承敏被判定无罪",
+      "onboard_time": 1761828802,
+      "rank": 47,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 97840,
       "num": 133597,
       "word": "女子生育后才领结婚证津贴少60天",
@@ -2395,28 +2467,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 97522,
-      "num": 97522,
-      "word": "邱鼎杰直播",
-      "onboard_time": 1761828682,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97400,
-      "num": 97400,
-      "word": "国内现货黄金克价跌破900元大关",
-      "onboard_time": 1761828682,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 97331,
       "num": 97331,
       "word": "发明苹果包肉的人是天才吧",
       "onboard_time": 1761825801,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97092,
+      "num": 97092,
+      "word": "丝塔芙发红包",
+      "onboard_time": 1761829642,
+      "rank": 48,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 97047,
@@ -2716,7 +2780,7 @@
     },
     {
       "raw_hot": 77609,
-      "num": 144314,
+      "num": 199988,
       "word": "iQOO让我在宿舍一战成名",
       "onboard_time": 1761826041,
       "rank": 19,
@@ -2737,14 +2801,6 @@
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72762,
-      "num": 171246,
-      "word": "央视追踪卖粮28万账户遭冻结案",
-      "onboard_time": 1761827482,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 72615,
@@ -2833,6 +2889,14 @@
       "onboard_time": 1761746542,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64476,
+      "num": 115414,
+      "word": "挖藕工人每年干半年活赚10到20万",
+      "onboard_time": 1761829161,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64363,
@@ -3147,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41034,
+      "num": 201208,
+      "word": "今晚八点京东首发机器人新品",
+      "onboard_time": 1761826041,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 40977,
       "num": 112496,
       "word": "好信用派上用场了",
@@ -3161,14 +3233,6 @@
       "onboard_time": 1761743901,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39773,
-      "num": 178292,
-      "word": "今晚八点京东首发机器人新品",
-      "onboard_time": 1761826041,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 39603,
