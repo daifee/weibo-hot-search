@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761821101401,
+  "endTime": 1761823404199,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 964023,
+      "num": 233158,
+      "word": "造谣老师刻薄媚男女生发声",
+      "onboard_time": 1761818841,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 962903,
       "num": 170519,
       "word": "曝迪丽热巴与嘉行切割快结束了",
@@ -683,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 853115,
+      "num": 153181,
+      "word": "美国商务部闯大祸",
+      "onboard_time": 1761821360,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 849688,
       "num": 1135950,
       "word": "花少7吃完火锅收拾了吗",
@@ -819,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 794587,
-      "num": 233158,
-      "word": "造谣老师刻薄媚男女生发声",
-      "onboard_time": 1761818841,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 783070,
       "num": 380610,
       "word": "龚俊暗河传破万",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 756410,
-      "num": 756410,
+      "num": 1101030,
       "word": "TES晋级S15四强",
       "onboard_time": 1761819922,
       "rank": 16,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1761457039,
       "rank": 17,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 616662,
+      "num": 616662,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 616347,
@@ -2603,14 +2619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 396233,
-      "num": 396233,
-      "word": "满13岁女生免费接种HPV疫苗",
-      "onboard_time": 1761818962,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 395215,
       "num": 395215,
       "word": "一年一度梦泪羞辱仪式",
@@ -2937,6 +2945,14 @@
       "onboard_time": 1761434116,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350644,
+      "num": 350644,
+      "word": "国防部回应台湾高清卫星图",
+      "onboard_time": 1761818721,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 349442,
@@ -3779,6 +3795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258199,
+      "num": 239164,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258133,
       "num": 258133,
       "word": "四川精子库可选星座属相脸型",
@@ -4051,6 +4075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241989,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241580,
       "num": 227266,
       "word": "宝宝去世两年妈妈常来墓地碎碎念",
@@ -4083,28 +4115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239164,
-      "num": 239164,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239072,
       "num": 239072,
       "word": "恋与制作人",
       "onboard_time": 1761450022,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 237981,
-      "num": 179321,
-      "word": "谢娜爸爸悄悄退机票买硬座",
-      "onboard_time": 1761818301,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 237803,
@@ -4625,6 +4641,14 @@
       "onboard_time": 1761397281,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214285,
+      "num": 167337,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 214199,
@@ -5403,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191288,
+      "num": 191288,
+      "word": "LPL",
+      "onboard_time": 1761822141,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190785,
       "num": 238759,
       "word": "白鹿说姚译添真是懂我",
@@ -5715,14 +5747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185078,
-      "num": 150694,
-      "word": "辛芷蕾 任何女性还是少听建议吧",
-      "onboard_time": 1761819741,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184959,
       "num": 184959,
       "word": "鞠婧祎古风小手办",
@@ -5761,6 +5785,14 @@
       "onboard_time": 1761536241,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184422,
+      "num": 167136,
+      "word": "三个少年",
+      "onboard_time": 1761823163,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 184407,
@@ -6001,6 +6033,14 @@
       "onboard_time": 1761454040,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178722,
+      "num": 178722,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178487,
@@ -6739,14 +6779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164014,
-      "num": 164014,
-      "word": "国防部回应台湾高清卫星图",
-      "onboard_time": 1761818721,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "这届冬奥会吉祥物是由小学生设计的",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1761610581,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "于适 不是求婚是抢婚吧",
+      "onboard_time": 1761819441,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 159746,
@@ -7449,6 +7489,14 @@
       "onboard_time": 1761656902,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153166,
+      "num": 153166,
+      "word": "AL对战T1预测",
+      "onboard_time": 1761823042,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 153133,
@@ -8099,6 +8147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143932,
+      "num": 143932,
+      "word": "宋茜神奇的社交圈",
+      "onboard_time": 1761820762,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143920,
       "num": 143920,
       "word": "小龙虾替代品大量上市了",
@@ -8129,14 +8185,6 @@
       "onboard_time": 1761649642,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143216,
-      "num": 143216,
-      "word": "于适 不是求婚是抢婚吧",
-      "onboard_time": 1761819441,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 143078,
@@ -8401,14 +8449,6 @@
       "onboard_time": 1761545180,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138729,
-      "num": 138729,
-      "word": "宋茜神奇的社交圈",
-      "onboard_time": 1761820762,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 138700,
@@ -9083,6 +9123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132131,
+      "num": 132131,
+      "word": "G2本届世界赛只输TES",
+      "onboard_time": 1761822981,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132068,
       "num": 132068,
       "word": "金价十周以来首周下跌",
@@ -9619,14 +9667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126553,
-      "num": 126553,
-      "word": "公务员不是混日子避风港",
-      "onboard_time": 1761817761,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126450,
       "num": 126450,
       "word": "张凌赫红毯亮相",
@@ -10059,6 +10099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121934,
+      "num": 173730,
+      "word": "超级战队完结",
+      "onboard_time": 1761821841,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 121800,
       "num": 146662,
       "word": "119救了119",
@@ -10193,6 +10241,14 @@
       "onboard_time": 1761552023,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120303,
+      "num": 172674,
+      "word": "山河枕开局下线7万人",
+      "onboard_time": 1761822682,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 120217,
@@ -10587,6 +10643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116306,
+      "num": 116306,
+      "word": "JackeyLove说终于进四强了",
+      "onboard_time": 1761823283,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116258,
       "num": 116258,
       "word": "林允公主皇冠",
@@ -10665,6 +10729,14 @@
       "onboard_time": 1761654082,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115779,
+      "num": 115779,
+      "word": "穆祉丞台上是丞哥台下是恩仔",
+      "onboard_time": 1761822802,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 115765,
@@ -11523,6 +11595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108657,
+      "num": 108657,
+      "word": "华为Mate80系列颜色曝光",
+      "onboard_time": 1761822981,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
@@ -11561,6 +11641,14 @@
       "onboard_time": 1761814041,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108506,
+      "num": 108506,
+      "word": "同时包含了五感的图片",
+      "onboard_time": 1761822501,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 108445,
@@ -11665,6 +11753,14 @@
       "onboard_time": 1761748522,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107459,
+      "num": 107459,
+      "word": "超过40人陈尸巴西街头",
+      "onboard_time": 1761822261,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107310,
@@ -11859,6 +11955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105586,
+      "num": 105586,
+      "word": "桂花很笨",
+      "onboard_time": 1761823344,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105572,
       "num": 105572,
       "word": "留学生夜闯女寝应被驱逐出境",
@@ -12049,6 +12153,14 @@
       "onboard_time": 1761706519,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103753,
+      "num": 103753,
+      "word": "韩国偶遇杜华",
+      "onboard_time": 1761823344,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 103433,
@@ -12291,6 +12403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101469,
+      "num": 105633,
+      "word": "我是龚俊剧粉 爱看广告",
+      "onboard_time": 1761822080,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101369,
       "num": 134114,
       "word": "杨瀚森懊恼摇头",
@@ -12449,6 +12569,14 @@
       "onboard_time": 1761520217,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99877,
+      "num": 110997,
+      "word": "五粮液前三季度营收",
+      "onboard_time": 1761822561,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 99837,
@@ -14163,6 +14291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78299,
+      "num": 97881,
+      "word": "陈雨菲黄雅琼潘展乐等出征",
+      "onboard_time": 1761823344,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78104,
       "num": 78104,
       "word": "银灰明日方舟",
@@ -14467,6 +14603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69727,
+      "num": 199283,
+      "word": "留学投资还值吗",
+      "onboard_time": 1761818962,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69670,
       "num": 243479,
       "word": "女儿失踪多年未立案父母抱憾离世",
@@ -14761,14 +14905,6 @@
       "onboard_time": 1761730221,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64618,
-      "num": 199283,
-      "word": "留学投资还值吗",
-      "onboard_time": 1761818962,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 63983,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 18:45:01
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 19:23:24
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ ELLE晚宴（热度：992028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E8%80%81%E5%B8%88%E5%88%BB%E8%96%84%E5%AA%9A%E7%94%B7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+造谣老师刻薄媚男女生发声（热度：964023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E7%BB%99%E7%BF%81%E5%B8%86%E7%9A%84%E6%B0%B8%E5%88%AB%E4%BF%A1%23" target="weibo">
 杨振宁给翁帆的永别信（热度：963104）
 </a>
@@ -3279,6 +3285,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%97%AF%E5%A4%A7%E7%A5%B8%23" target="weibo">
+美国商务部闯大祸（热度：853115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E6%9B%B4%E6%8D%A2%E9%97%A8%E5%A4%B4%23" target="weibo">
 西贝更换门头（热度：852900）
 </a>
@@ -3839,12 +3851,6 @@ AI把薯片误判为枪惊动八辆美国警车（热度：796530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%83%A6%E4%BA%BA%E9%9A%BE%E7%9C%8B%E5%B9%BC%E7%A8%9A%23" target="weibo">
 董璇说张维伊烦人难看幼稚（热度：794647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E8%80%81%E5%B8%88%E5%88%BB%E8%96%84%E5%AA%9A%E7%94%B7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-造谣老师刻薄媚男女生发声（热度：794587）
 </a>
 </li>
 
@@ -5967,6 +5973,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A113%E5%B2%81%E5%A5%B3%E7%94%9F%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%A7%8DHPV%E7%96%AB%E8%8B%97%23" target="weibo">
+满13岁女生免费接种HPV疫苗（热度：616662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9Avs%E6%97%A0%E9%94%A1%23" target="weibo">
 南通vs无锡（热度：616626）
 </a>
@@ -5999,18 +6011,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%943%E5%90%91%E9%B9%8F%23" target="weibo">
 王楚钦4比3向鹏（热度：616055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%BD%A6%E7%89%8C%E7%B2%A4A98888%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%A2%AB%E6%8E%A5%E7%AE%A1%23" target="weibo">
-许家印车牌粤A98888劳斯莱斯被接管（热度：613783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%91%E8%B4%A2%E4%BA%86%23" target="weibo">
-鸡排哥回应是否发财了（热度：613533）
 </a>
 </li>
 
