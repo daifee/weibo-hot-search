@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761838311088,
+  "endTime": 1761839066819,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -33,6 +33,14 @@
       "onboard_time": 1761790880,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1128947,
+      "num": 249911,
+      "word": "建议不要将肉汤倒进下水道",
+      "onboard_time": 1761837623,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1123586,
@@ -97,14 +105,6 @@
       "onboard_time": 1761800363,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 974364,
-      "num": 249911,
-      "word": "建议不要将肉汤倒进下水道",
-      "onboard_time": 1761837623,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 964023,
@@ -579,8 +579,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350757,
-      "num": 253741,
+      "raw_hot": 352541,
+      "num": 281757,
       "word": "泰国哀悼王太后服装店换成黑白款",
       "onboard_time": 1761834982,
       "rank": 29,
@@ -651,20 +651,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 316789,
+      "num": 276530,
+      "word": "高三男生赤脚进火场救坐轮椅邻居",
+      "onboard_time": 1761833360,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 314563,
       "num": 199398,
       "word": "桂花很笨",
       "onboard_time": 1761823344,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 313645,
-      "num": 253147,
-      "word": "高三男生赤脚进火场救坐轮椅邻居",
-      "onboard_time": 1761833360,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 312193,
@@ -681,6 +681,14 @@
       "onboard_time": 1761764774,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 298343,
+      "num": 227258,
+      "word": "钟楚曦年度口碑女演员",
+      "onboard_time": 1761837502,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 292542,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 241064,
-      "num": 199679,
+      "num": 208543,
       "word": "妻子去世获136万赔偿父女闹翻",
       "onboard_time": 1761824361,
       "rank": 24,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 237866,
-      "num": 210607,
+      "num": 210829,
       "word": "丁禹兮热度破两万八拆卡4小时",
       "onboard_time": 1761830002,
       "rank": 23,
@@ -963,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221859,
-      "num": 221859,
-      "word": "钟楚曦年度口碑女演员",
-      "onboard_time": 1761837502,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217490,
       "num": 92079,
       "word": "Bin 双眼皮",
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 207104,
-      "num": 207104,
+      "num": 208947,
       "word": "央视专访侯明昊",
       "onboard_time": 1761834441,
       "rank": 25,
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 182627,
-      "num": 182627,
+      "num": 210557,
       "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
       "onboard_time": 1761825860,
       "rank": 31,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1761790340,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172099,
+      "num": 265755,
+      "word": "携6.1万枚比特币出逃的钱志敏是谁",
+      "onboard_time": 1761835281,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168949,
@@ -1347,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165917,
+      "num": 210409,
+      "word": "JackeyLove赛后发博",
+      "onboard_time": 1761837502,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165715,
       "num": 165715,
       "word": "沈腾不在王牌的日子大家很想你",
@@ -1355,8 +1371,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164912,
+      "num": 211210,
+      "word": "女子做绿番茄美甲遇冷秒变红",
+      "onboard_time": 1761835882,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164408,
-      "num": 164408,
+      "num": 211998,
       "word": "大麦致歉声明",
       "onboard_time": 1761836241,
       "rank": 19,
@@ -1444,7 +1468,7 @@
     },
     {
       "raw_hot": 156939,
-      "num": 156939,
+      "num": 210274,
       "word": "戚薇是田曦薇永远的榜一",
       "onboard_time": 1761833002,
       "rank": 24,
@@ -1475,14 +1499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 155664,
-      "num": 155664,
-      "word": "女子做绿番茄美甲遇冷秒变红",
-      "onboard_time": 1761835882,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155296,
       "num": 155296,
       "word": "黄磊调侃自己被网上传得像在ICU",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1761794600,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154059,
-      "num": 252143,
-      "word": "携6.1万枚比特币出逃的钱志敏是谁",
-      "onboard_time": 1761835281,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151982,
@@ -1532,7 +1540,7 @@
     },
     {
       "raw_hot": 151574,
-      "num": 151574,
+      "num": 208055,
       "word": "张杰演唱会电影获年度音乐电影",
       "onboard_time": 1761836960,
       "rank": 23,
@@ -1563,20 +1571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150000,
+      "num": 211019,
+      "word": "刘雯井柏然秀场合体",
+      "onboard_time": 1761836602,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149930,
       "num": 149930,
       "word": "甲流合胞病毒鼻病毒都来了",
       "onboard_time": 1761806241,
       "rank": 46,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 149193,
-      "num": 149193,
-      "word": "刘雯井柏然秀场合体",
-      "onboard_time": 1761836602,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 147750,
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 143170,
-      "num": 143170,
+      "num": 210247,
       "word": "林允 cp感是一种玄学",
       "onboard_time": 1761837081,
       "rank": 26,
@@ -1881,6 +1889,14 @@
       "onboard_time": 1761807441,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132252,
+      "num": 210945,
+      "word": "看杨幂沈腾无法保持苹果肌扁平",
+      "onboard_time": 1761837801,
+      "rank": 31,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 132148,
@@ -2491,14 +2507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106830,
-      "num": 106830,
-      "word": "看杨幂沈腾无法保持苹果肌扁平",
-      "onboard_time": 1761837801,
-      "rank": 31,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 106654,
       "num": 106654,
       "word": "Ning说G2是TES充电宝",
@@ -2660,7 +2668,7 @@
     },
     {
       "raw_hot": 101246,
-      "num": 101246,
+      "num": 209620,
       "word": "369坚定选择AL",
       "onboard_time": 1761835521,
       "rank": 47,
@@ -2668,7 +2676,7 @@
     },
     {
       "raw_hot": 101153,
-      "num": 101153,
+      "num": 209818,
       "word": "金价狂飙婚事耽搁2年女子发声",
       "onboard_time": 1761836362,
       "rank": 35,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1761805883,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98139,
+      "num": 209973,
+      "word": "周深出道11年第一个跨年演唱会",
+      "onboard_time": 1761838041,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 98051,
@@ -2868,7 +2884,7 @@
     },
     {
       "raw_hot": 92968,
-      "num": 92968,
+      "num": 208709,
       "word": "369问karsa求夸",
       "onboard_time": 1761837502,
       "rank": 37,
@@ -2900,19 +2916,11 @@
     },
     {
       "raw_hot": 92027,
-      "num": 92027,
+      "num": 209293,
       "word": "中方对军品出口采取慎重负责态度",
       "onboard_time": 1761838041,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91244,
-      "num": 91244,
-      "word": "周深出道11年第一个跨年演唱会",
-      "onboard_time": 1761838041,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 90750,
@@ -3020,7 +3028,7 @@
     },
     {
       "raw_hot": 84894,
-      "num": 84894,
+      "num": 208343,
       "word": "轻薄羽绒服洗后薄得像纸",
       "onboard_time": 1761836061,
       "rank": 44,
@@ -3075,8 +3083,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83372,
-      "num": 83372,
+      "raw_hot": 83491,
+      "num": 209469,
       "word": "TES刚赢比赛马上又打训练赛",
       "onboard_time": 1761836781,
       "rank": 46,
@@ -3147,6 +3155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79223,
+      "num": 209172,
+      "word": "萝卜状态",
+      "onboard_time": 1761837261,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78513,
+      "num": 209143,
+      "word": "曝iPhone17扩产",
+      "onboard_time": 1761836842,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78479,
       "num": 135697,
       "word": "G2成外乡人了",
@@ -3195,12 +3219,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 74720,
+      "num": 208811,
+      "word": "姿态说TES的BP不一样了",
+      "onboard_time": 1761838641,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73140,
       "num": 118428,
       "word": "jiejie不装因为真的帅",
       "onboard_time": 1761832102,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72727,
+      "num": 208431,
+      "word": "江衡营业",
+      "onboard_time": 1761838939,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 72615,
@@ -3729,6 +3769,14 @@
       "onboard_time": 1761818601,
       "rank": 30,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 36183,
+      "num": 211776,
+      "word": "政府主管部门接管民企数亿资产",
+      "onboard_time": 1761838461,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36062,
