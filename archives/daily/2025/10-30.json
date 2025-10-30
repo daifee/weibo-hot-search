@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761802944933,
+  "endTime": 1761806278535,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -115,6 +115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 725978,
+      "num": 299977,
+      "word": "十日终焉 肖战",
+      "onboard_time": 1761804142,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708035,
       "num": 273294,
       "word": "胡歌直言无法走出母亲去世阴影",
@@ -179,12 +187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572676,
+      "num": 204940,
+      "word": "还以为是霍思燕",
+      "onboard_time": 1761803364,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572012,
       "num": 326866,
       "word": "上完厕所卧铺被外国人霸占",
       "onboard_time": 1761795681,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566021,
+      "num": 204519,
+      "word": "稀土",
+      "onboard_time": 1761802043,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 539958,
@@ -201,6 +225,14 @@
       "onboard_time": 1761789679,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 459034,
+      "num": 278083,
+      "word": "向太说嫁入豪门基本不幸福",
+      "onboard_time": 1761800903,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 448237,
@@ -275,12 +307,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 349164,
-      "num": 278083,
-      "word": "向太说嫁入豪门基本不幸福",
-      "onboard_time": 1761800903,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 348095,
+      "num": 203338,
+      "word": "王楚然对白鹿生理性喜欢",
+      "onboard_time": 1761802943,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 341970,
@@ -289,6 +321,14 @@
       "onboard_time": 1761798263,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335048,
+      "num": 203213,
+      "word": "江一燕前夫是导演赵汉唐",
+      "onboard_time": 1761805942,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 331242,
@@ -403,7 +443,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237464,
+      "raw_hot": 243176,
       "num": 208487,
       "word": "原来女明星们候场也坐塑料凳子",
       "onboard_time": 1761800063,
@@ -433,6 +473,14 @@
       "onboard_time": 1761781639,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222419,
+      "num": 198964,
+      "word": "黄景瑜敖瑞鹏都生不出这么像的",
+      "onboard_time": 1761804142,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 222347,
@@ -467,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212177,
+      "num": 212177,
+      "word": "张洪章将带项目在天上开展实验",
+      "onboard_time": 1761804382,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207566,
       "num": 207566,
       "word": "你的50块正在揍你的3000块",
@@ -481,6 +537,14 @@
       "onboard_time": 1761797481,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202660,
+      "num": 202660,
+      "word": "吃播网红回应在高铁边吃边吐2小时",
+      "onboard_time": 1761802644,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200191,
@@ -563,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187876,
-      "num": 187876,
-      "word": "稀土",
-      "onboard_time": 1761802043,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 187575,
       "num": 175841,
       "word": "何炅人没来镜头一点没少",
@@ -609,6 +665,14 @@
       "onboard_time": 1761795380,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 179572,
+      "num": 179572,
+      "word": "特朗普吐槽韩国潜艇太老了",
+      "onboard_time": 1761804983,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179444,
@@ -755,6 +819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150391,
+      "num": 150391,
+      "word": "大学法学老师被学生吐槽称将起诉",
+      "onboard_time": 1761803963,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150355,
       "num": 150355,
       "word": "李一桐bg之光",
@@ -803,6 +875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 144444,
+      "num": 144444,
+      "word": "孙红雷的接班人出现了",
+      "onboard_time": 1761803064,
+      "rank": 25,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 143600,
       "num": 129444,
       "word": "陈乔恩说自己很强选择的伴侣就不会差",
@@ -835,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137983,
-      "num": 137983,
-      "word": "吃播网红回应在高铁边吃边吐2小时",
-      "onboard_time": 1761802644,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 138612,
+      "num": 138612,
+      "word": "李沁马思纯怪不得你俩能玩到一块",
+      "onboard_time": 1761805824,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 137465,
@@ -963,12 +1043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "日本中学引入校狗",
+      "onboard_time": 1761803364,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119487,
       "num": 114879,
       "word": "星穹铁道反铁墓战争最新资讯",
       "onboard_time": 1761801381,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118215,
+      "num": 118215,
+      "word": "李宇嘉庞铮率先达到一百分",
+      "onboard_time": 1761805222,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 117852,
@@ -1019,12 +1115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115251,
+      "num": 121981,
+      "word": "周深首位内地歌手登香港启德主场",
+      "onboard_time": 1761803663,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114931,
       "num": 114931,
       "word": "詹姆斯说里夫斯牛大发了",
       "onboard_time": 1761800482,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113525,
+      "num": 113525,
+      "word": "鲍威尔表态引发黄金跳水",
+      "onboard_time": 1761805824,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 112757,
@@ -1073,6 +1185,14 @@
       "onboard_time": 1761790101,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110618,
+      "num": 110618,
+      "word": "陈乔恩天选疯批长公主人设",
+      "onboard_time": 1761804082,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 109473,
@@ -1171,6 +1291,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101446,
+      "num": 101446,
+      "word": "内娱好久没出这么清新的搭配了",
+      "onboard_time": 1761805103,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100909,
+      "num": 100909,
+      "word": "杨瀚森生涯第二个运动战得分",
+      "onboard_time": 1761805702,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100200,
       "num": 100200,
       "word": "女老师晒工作四个月的变化",
@@ -1227,6 +1363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95374,
+      "num": 95374,
+      "word": "包上恩周柯宇跳华尔兹",
+      "onboard_time": 1761806122,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95340,
+      "num": 95340,
+      "word": "女孩朋友圈发遗书十几名骑手回忆定位",
+      "onboard_time": 1761804923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94913,
       "num": 94913,
       "word": "辛芷蕾预告三句话信息量好大",
@@ -1243,6 +1395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92997,
+      "num": 92997,
+      "word": "女子称留学花销大起诉父亲姑姑腾房",
+      "onboard_time": 1761805522,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92996,
+      "num": 92996,
+      "word": "人确实是留不住任何关系的",
+      "onboard_time": 1761805824,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "左凌峰 少爷和我",
@@ -1257,6 +1425,30 @@
       "onboard_time": 1761793519,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92351,
+      "num": 92351,
+      "word": "宋雨琦翟子路互拍",
+      "onboard_time": 1761806241,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92186,
+      "num": 93145,
+      "word": "第一次见短剧男主有这样的设定",
+      "onboard_time": 1761804682,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91119,
+      "num": 91119,
+      "word": "甲流合胞病毒鼻病毒都来了",
+      "onboard_time": 1761806241,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 90750,
@@ -1363,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81728,
+      "num": 86517,
+      "word": "东契奇说里夫斯真GOAT",
+      "onboard_time": 1761805942,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80627,
       "num": 101959,
       "word": "美高官称政府停摆或持续至11月",
@@ -1401,6 +1601,14 @@
       "onboard_time": 1761802163,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69863,
+      "num": 95781,
+      "word": "全国多地出现负电价",
+      "onboard_time": 1761805462,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69508,
@@ -1779,6 +1987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30151,
+      "num": 204251,
+      "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
+      "onboard_time": 1761804444,
+      "rank": 13,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 29296,
       "num": 402970,
       "word": "北京发布大雾预警",
@@ -1833,6 +2049,14 @@
       "onboard_time": 1761795320,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19562,
+      "num": 95517,
+      "word": "云南BIGBANG7天涨粉72万",
+      "onboard_time": 1761806122,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 18929,

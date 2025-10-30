@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 13:42:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 14:37:58
 </p>
 </blockquote>
 <p>
@@ -4467,6 +4467,12 @@ BLG（热度：726181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%20%E8%82%96%E6%88%98%23" target="weibo">
+十日终焉 肖战（热度：725978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%20%E5%85%AB%E5%B9%B4%E5%89%8D%E7%9A%84%E7%BA%A2%E5%BE%88%E7%AA%81%E7%84%B6%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%8F%8A%E6%97%B6%23" target="weibo">
 彭小苒 八年前的红很突然现在是及时（热度：724282）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro的受害者出现了（热度：612045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
 少爷和我（热度：610562）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%87%BA%E9%81%93%E5%9B%A2%E6%88%90%E5%91%98%E7%94%B1%E5%85%AC%E5%8F%B8%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%23" target="weibo">
-TF四代出道团成员由公司自主决定（热度：610474）
 </a>
 </li>
 
