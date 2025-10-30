@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 09:59:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 10:21:26
 </p>
 </blockquote>
 <p>
@@ -2007,6 +2007,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%23" target="weibo">
+女医学生被前男友杀害（热度：1060328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%B8%B9%E9%A3%9E%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%23" target="weibo">
 曝广西一小学老师踹飞两名学生（热度：1058745）
 </a>
@@ -3959,12 +3965,6 @@ iPhone命名或跳过19（热度：786793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E6%89%8E%E5%A0%86%E5%AF%BF%E8%A1%A3%E5%BA%97%E8%AF%95%E7%A9%BF%E8%B4%AD%E4%B9%B0%23" target="weibo">
 外籍游客扎堆寿衣店试穿购买（热度：774214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%23" target="weibo">
-女医学生被前男友杀害（热度：774042）
 </a>
 </li>
 
@@ -5937,6 +5937,12 @@ iPhone17Pro的受害者出现了（热度：612045）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
+少爷和我（热度：610562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%87%BA%E9%81%93%E5%9B%A2%E6%88%90%E5%91%98%E7%94%B1%E5%85%AC%E5%8F%B8%E8%87%AA%E4%B8%BB%E5%86%B3%E5%AE%9A%23" target="weibo">
 TF四代出道团成员由公司自主决定（热度：610474）
 </a>
@@ -6005,12 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A5%961000%E4%B8%87%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23" target="weibo">
 中奖1000万男子回应打赏主播（热度：605408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
-偶遇贾乃亮买金钞（热度：605032）
 </a>
 </li>
 

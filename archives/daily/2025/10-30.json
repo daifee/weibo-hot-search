@@ -1,10 +1,18 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761789594903,
+  "endTime": 1761790886093,
   "band_list": [
     {
+      "raw_hot": 1060328,
+      "num": 251325,
+      "word": "女医学生被前男友杀害",
+      "onboard_time": 1761787340,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1030481,
-      "num": 192001,
+      "num": 250210,
       "word": "时间带走了Angelababy什么",
       "onboard_time": 1761784760,
       "rank": 10,
@@ -27,16 +35,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 774042,
-      "num": 191921,
-      "word": "女医学生被前男友杀害",
-      "onboard_time": 1761787340,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 708035,
-      "num": 191813,
+      "num": 244944,
       "word": "胡歌直言无法走出母亲去世阴影",
       "onboard_time": 1761783801,
       "rank": 12,
@@ -49,6 +49,14 @@
       "onboard_time": 1761745042,
       "rank": 4,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 610562,
+      "num": 353442,
+      "word": "少爷和我",
+      "onboard_time": 1761787101,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 579692,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 448237,
-      "num": 191710,
+      "num": 242155,
       "word": "ON 好快的切割",
       "onboard_time": 1761780738,
       "rank": 37,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 389162,
-      "num": 207760,
+      "num": 235931,
       "word": "谁来救救陈伟霆",
       "onboard_time": 1761759076,
       "rank": 35,
@@ -123,20 +131,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 336318,
+      "num": 336318,
+      "word": "爷爷起的名字堪比古代进士",
+      "onboard_time": 1761787699,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331242,
-      "num": 191116,
+      "num": 224140,
       "word": "瘦了以后面相反而变差了",
       "onboard_time": 1761781639,
       "rank": 21,
       "category": "幽默"
     },
     {
-      "raw_hot": 302291,
-      "num": 302291,
-      "word": "少爷和我",
-      "onboard_time": 1761787101,
-      "rank": 3,
-      "category": "作品衍生"
+      "raw_hot": 324949,
+      "num": 324949,
+      "word": "中国年龄最小的航天员",
+      "onboard_time": 1761789679,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 312193,
+      "num": 312193,
+      "word": "神21航天员乘组公布",
+      "onboard_time": 1761788119,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298867,
@@ -161,14 +185,6 @@
       "onboard_time": 1761750323,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268387,
-      "num": 268387,
-      "word": "神21航天员乘组公布",
-      "onboard_time": 1761788119,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 262319,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248991,
+      "num": 248991,
+      "word": "神21发射时间",
+      "onboard_time": 1761787879,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247719,
       "num": 195562,
       "word": "公务员旷工超15工作日被登报辞退",
@@ -228,11 +252,27 @@
     },
     {
       "raw_hot": 224620,
-      "num": 191000,
+      "num": 213688,
       "word": "怀孕为什么叫有身子了",
       "onboard_time": 1761781639,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223846,
+      "num": 223846,
+      "word": "黄金",
+      "onboard_time": 1761790220,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 222347,
+      "num": 222347,
+      "word": "第一个让沈梦辰戴眼镜的人是个天才",
+      "onboard_time": 1761786562,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 216031,
@@ -241,14 +281,6 @@
       "onboard_time": 1761750323,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 203607,
-      "num": 191302,
-      "word": "爷爷起的名字堪比古代进士",
-      "onboard_time": 1761787699,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 200191,
@@ -275,20 +307,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192683,
-      "num": 192683,
-      "word": "神21发射时间",
-      "onboard_time": 1761787879,
-      "rank": 8,
+      "raw_hot": 192095,
+      "num": 192095,
+      "word": "神舟二十二号载人飞船",
+      "onboard_time": 1761789500,
+      "rank": 38,
       "category": "国内时政"
     },
     {
-      "raw_hot": 190789,
-      "num": 190789,
-      "word": "第一个让沈梦辰戴眼镜的人是个天才",
-      "onboard_time": 1761786562,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 172649,
+      "num": 172649,
+      "word": "杨瀚森勾手得分",
+      "onboard_time": 1761790340,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168843,
+      "num": 168843,
+      "word": "我国载人登月准备情况",
+      "onboard_time": 1761790220,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 167701,
+      "num": 167701,
+      "word": "外籍航天员训练进展",
+      "onboard_time": 1761790039,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162629,
@@ -307,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160323,
+      "num": 160323,
+      "word": "马来西亚女保镖飞身上车",
+      "onboard_time": 1761786081,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159002,
       "num": 159002,
       "word": "跑男在西藏确定不缺氧吗",
       "onboard_time": 1761776595,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157176,
-      "num": 157176,
-      "word": "马来西亚女保镖飞身上车",
-      "onboard_time": 1761786081,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 151470,
@@ -371,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133983,
+      "num": 225347,
+      "word": "喜人 乱成一锅粥了",
+      "onboard_time": 1761785542,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133652,
       "num": 133652,
       "word": "修复欧仁妮皇后皇冠将十分困难",
       "onboard_time": 1761787940,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133604,
-      "num": 133604,
-      "word": "神舟二十二号载人飞船",
-      "onboard_time": 1761789500,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129147,
@@ -411,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119943,
+      "num": 119943,
+      "word": "人民日报对话周深",
+      "onboard_time": 1761790640,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117501,
       "num": 125296,
       "word": "Yagao问Elk你也早就睡了吗",
@@ -419,11 +475,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115419,
+      "num": 115419,
+      "word": "航天员将在轨饲养4只小鼠",
+      "onboard_time": 1761790101,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112569,
       "num": 470172,
       "word": "12306回应轮椅旅客深圳北站行路难",
       "onboard_time": 1761751521,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110699,
+      "num": 110699,
+      "word": "中国科学院研究员上太空",
+      "onboard_time": 1761790101,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -459,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103213,
+      "num": 103213,
+      "word": "狗该轮到摸我了",
+      "onboard_time": 1761790760,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101984,
       "num": 125146,
       "word": "国乒男单3人均止步首轮",
@@ -468,7 +548,7 @@
     },
     {
       "raw_hot": 100162,
-      "num": 157637,
+      "num": 170205,
       "word": "酷酷的滕 喜人永远在一起",
       "onboard_time": 1761788720,
       "rank": 27,
@@ -483,16 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99138,
-      "num": 157397,
-      "word": "喜人 乱成一锅粥了",
-      "onboard_time": 1761785542,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90046,
-      "num": 157282,
+      "num": 169453,
       "word": "蓝战非车祸后报平安",
       "onboard_time": 1761785062,
       "rank": 29,
@@ -659,6 +731,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 58017,
+      "num": 224269,
+      "word": "儒家智慧是企业家流量密码",
+      "onboard_time": 1761790039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57627,
       "num": 408134,
       "word": "高超 一辈子就只过了5分钟消停日子",
@@ -779,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39766,
+      "num": 251828,
+      "word": "京东暖心留言",
+      "onboard_time": 1761790039,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39603,
       "num": 404035,
       "word": "昆明警方通报校外男子在高校自杀身亡",
@@ -835,7 +923,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29530,
+      "raw_hot": 33001,
       "num": 355705,
       "word": "网警依法查处编造有人跳桥失踪谣言者",
       "onboard_time": 1761786141,
@@ -865,6 +953,14 @@
       "onboard_time": 1761759496,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23343,
+      "num": 1003734,
+      "word": "中美元首釜山会晤",
+      "onboard_time": 1761722961,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22962,
