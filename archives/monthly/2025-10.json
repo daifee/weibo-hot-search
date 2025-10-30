@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761817397458,
+  "endTime": 1761820183533,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2915,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1035239,
+      "num": 242016,
+      "word": "重庆工商大学涉事学生道歉",
+      "onboard_time": 1761816382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034870,
       "num": 921706,
       "word": "李在明女翻译因高颜值走红",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1759415541,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 891819,
+      "num": 1142691,
+      "word": "微信三大新功能",
+      "onboard_time": 1761815540,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 891465,
@@ -6788,7 +6804,7 @@
     },
     {
       "raw_hot": 679750,
-      "num": 191111,
+      "num": 230156,
       "word": "荷兰",
       "onboard_time": 1761814102,
       "rank": 11,
@@ -7049,6 +7065,14 @@
       "onboard_time": 1759248561,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 661705,
+      "num": 661705,
+      "word": "电竞奥运会暂停举办",
+      "onboard_time": 1761818242,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 661547,
@@ -7313,14 +7337,6 @@
       "onboard_time": 1761305600,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 647261,
-      "num": 647261,
-      "word": "微信三大新功能",
-      "onboard_time": 1761815540,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 647034,
@@ -9739,6 +9755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541416,
+      "num": 541416,
+      "word": "孙颖莎王曼昱被清华免试录取",
+      "onboard_time": 1761817882,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540779,
       "num": 438040,
       "word": "张婧仪小时候睡过觉吗",
@@ -10036,7 +10060,7 @@
     },
     {
       "raw_hot": 530494,
-      "num": 171268,
+      "num": 186534,
       "word": "金价反弹",
       "onboard_time": 1761815242,
       "rank": 23,
@@ -11417,14 +11441,6 @@
       "onboard_time": 1761231322,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 486333,
-      "num": 170142,
-      "word": "重庆工商大学涉事学生道歉",
-      "onboard_time": 1761816382,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486270,
@@ -13771,6 +13787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 424416,
+      "num": 424416,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 423544,
       "num": 419637,
       "word": "李飞重生的证据又多了",
@@ -15321,6 +15345,14 @@
       "onboard_time": 1759497322,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380737,
+      "num": 236713,
+      "word": "叠穿",
+      "onboard_time": 1761814941,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 380734,
@@ -18563,6 +18595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315068,
+      "num": 315068,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 314820,
       "num": 314820,
       "word": "AL对战GEN",
@@ -19515,14 +19555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 300262,
-      "num": 300262,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 300245,
       "num": 251525,
       "word": "易烊千玺参加了毕业聚餐",
@@ -19995,6 +20027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 292542,
+      "num": 292542,
+      "word": "天地剑心仙改",
+      "onboard_time": 1761816382,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292365,
       "num": 292365,
       "word": "国乒女团vs日本",
@@ -20384,6 +20424,14 @@
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287828,
+      "num": 213641,
+      "word": "造谣老师刻薄媚男女生发声",
+      "onboard_time": 1761818841,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -23155,6 +23203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 249925,
+      "num": 181530,
+      "word": "辛芷蕾井柏然刘雯同框",
+      "onboard_time": 1761819020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249857,
       "num": 249857,
       "word": "陈哲远过膝皮靴",
@@ -25227,6 +25283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226662,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226656,
       "num": 258501,
       "word": "纪念台湾光复80周年大会邀请台湾同胞",
@@ -26993,14 +27057,6 @@
       "onboard_time": 1761733941,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209441,
-      "num": 167755,
-      "word": "叠穿",
-      "onboard_time": 1761814941,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 209362,
@@ -29600,6 +29656,14 @@
       "word": "TE对战MRC",
       "onboard_time": 1761386721,
       "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196121,
+      "num": 196121,
+      "word": "TES晋级S15四强",
+      "onboard_time": 1761819922,
+      "rank": 16,
       "category": "电竞"
     },
     {
@@ -32489,14 +32553,6 @@
       "onboard_time": 1759706597,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183981,
-      "num": 183981,
-      "word": "天地剑心仙改",
-      "onboard_time": 1761816382,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 183925,
@@ -37649,6 +37705,14 @@
       "onboard_time": 1759901181,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164014,
+      "num": 164014,
+      "word": "国防部回应台湾高清卫星图",
+      "onboard_time": 1761818721,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164008,
@@ -44627,6 +44691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143216,
+      "num": 143216,
+      "word": "于适 不是求婚是抢婚吧",
+      "onboard_time": 1761819441,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143169,
       "num": 143169,
       "word": "刘诗诗陈哲远王安宇孙千同框",
@@ -46081,6 +46153,14 @@
       "onboard_time": 1760599460,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139234,
+      "num": 139234,
+      "word": "山河枕直播",
+      "onboard_time": 1761818362,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 139197,
@@ -51419,6 +51499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128028,
+      "num": 128028,
+      "word": "TES淘汰G2",
+      "onboard_time": 1761820102,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128005,
       "num": 128005,
       "word": "特朗普放狠话称要做不可逆转之事",
@@ -54563,6 +54651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122419,
       "num": 122419,
       "word": "想买上衣就去搜裤子",
@@ -56539,6 +56635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118774,
+      "num": 123559,
+      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+      "onboard_time": 1761812600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118767,
       "num": 212450,
       "word": "刘宇宁京东",
@@ -58187,6 +58291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116211,
+      "num": 161158,
+      "word": "张檬曾多次表示整容葬送了演艺生涯",
+      "onboard_time": 1761816561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "全球围观中国放假",
@@ -58281,6 +58393,14 @@
       "onboard_time": 1760366483,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 115991,
+      "num": 115991,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115980,
@@ -59353,14 +59473,6 @@
       "onboard_time": 1760586562,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114117,
-      "num": 147932,
-      "word": "张檬曾多次表示整容葬送了演艺生涯",
-      "onboard_time": 1761816561,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 114110,
@@ -75779,6 +75891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90696,
+      "num": 121161,
+      "word": "比黄金更稳定的投资方式",
+      "onboard_time": 1761818902,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90688,
       "num": 110196,
       "word": "邓娅兰失误",
@@ -84859,6 +84979,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 73309,
+      "num": 185172,
+      "word": "女子离婚朋友办宴席庆祝",
+      "onboard_time": 1761818601,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73294,
       "num": 81901,
       "word": "鸡排哥鸡排预处理现场曝光",
@@ -87771,6 +87899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64618,
+      "num": 194765,
+      "word": "留学投资还值吗",
+      "onboard_time": 1761818962,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 64596,
       "num": 48834,
       "word": "再懒都要做凯格尔运动",
@@ -90011,14 +90147,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 57193,
-      "num": 123559,
-      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
-      "onboard_time": 1761812600,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -90523,6 +90651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55089,
+      "num": 193067,
+      "word": "iQOONeo11标准版的含金量",
+      "onboard_time": 1761818962,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55079,
       "num": 608048,
       "word": "这个团喷不了他们真有实绩",
@@ -91011,6 +91147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53401,
+      "num": 189794,
+      "word": "TES不经夸",
+      "onboard_time": 1761819922,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53384,
       "num": 190613,
       "word": "张艺兴京东双11开场",
@@ -91041,6 +91185,14 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53260,
+      "num": 133597,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53246,
@@ -91513,6 +91665,14 @@
       "onboard_time": 1760006961,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51342,
+      "num": 132007,
+      "word": "韩国进口辣白菜超99.9%来自中国",
+      "onboard_time": 1761819141,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51329,
@@ -95755,6 +95915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33329,
+      "num": 673519,
+      "word": "2025APEC",
+      "onboard_time": 1761814223,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33201,
       "num": 223399,
       "word": "百人测评团组队为用户验货",
@@ -95945,6 +96113,14 @@
       "onboard_time": 1759371080,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32186,
+      "num": 176661,
+      "word": "激情全运会已经传到胡兵了",
+      "onboard_time": 1761818601,
+      "rank": 30,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 32169,
@@ -96361,14 +96537,6 @@
       "onboard_time": 1761130820,
       "rank": 22,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 30691,
-      "num": 385325,
-      "word": "2025APEC",
-      "onboard_time": 1761814223,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30686,
@@ -97072,6 +97240,14 @@
       "word": "古画里的绝美秋色",
       "onboard_time": 1761208881,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27565,
+      "num": 116524,
+      "word": "12306回应乘客被座椅针扎到",
+      "onboard_time": 1761818601,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -98115,6 +98291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23323,
+      "num": 449674,
+      "word": "一起看全运会",
+      "onboard_time": 1761814223,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23298,
       "num": 29739,
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
@@ -98865,6 +99049,14 @@
       "onboard_time": 1761066557,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19546,
+      "num": 183068,
+      "word": "神21乘组集齐70后80后90后",
+      "onboard_time": 1761818601,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19522,

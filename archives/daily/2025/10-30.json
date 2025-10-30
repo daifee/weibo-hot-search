@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761817397458,
+  "endTime": 1761820183533,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1035239,
+      "num": 242016,
+      "word": "重庆工商大学涉事学生道歉",
+      "onboard_time": 1761816382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1030481,
       "num": 304247,
       "word": "时间带走了Angelababy什么",
@@ -97,6 +105,14 @@
       "onboard_time": 1761804142,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 891819,
+      "num": 1142691,
+      "word": "微信三大新功能",
+      "onboard_time": 1761815540,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 882735,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 679750,
-      "num": 191111,
+      "num": 230156,
       "word": "荷兰",
       "onboard_time": 1761814102,
       "rank": 11,
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 647261,
-      "num": 647261,
-      "word": "微信三大新功能",
-      "onboard_time": 1761815540,
+      "raw_hot": 661705,
+      "num": 661705,
+      "word": "电竞奥运会暂停举办",
+      "onboard_time": 1761818242,
       "rank": 3,
-      "category": "互联网"
+      "category": "电竞"
     },
     {
       "raw_hot": 634015,
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541416,
+      "num": 541416,
+      "word": "孙颖莎王曼昱被清华免试录取",
+      "onboard_time": 1761817882,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539958,
       "num": 539958,
       "word": "特朗普回应会晤",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 530494,
-      "num": 171268,
+      "num": 186534,
       "word": "金价反弹",
       "onboard_time": 1761815242,
       "rank": 23,
@@ -313,14 +337,6 @@
       "onboard_time": 1761807321,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486333,
-      "num": 170142,
-      "word": "重庆工商大学涉事学生道歉",
-      "onboard_time": 1761816382,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 480410,
@@ -361,6 +377,14 @@
       "onboard_time": 1761803963,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424416,
+      "num": 424416,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 421964,
@@ -409,6 +433,14 @@
       "onboard_time": 1761795623,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380737,
+      "num": 236713,
+      "word": "叠穿",
+      "onboard_time": 1761814941,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 363349,
@@ -475,20 +507,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 315068,
+      "num": 315068,
+      "word": "满13岁女生免费接种HPV疫苗",
+      "onboard_time": 1761818962,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
       "onboard_time": 1761788119,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 300262,
-      "num": 300262,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 298867,
@@ -499,12 +531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 292542,
+      "num": 292542,
+      "word": "天地剑心仙改",
+      "onboard_time": 1761816382,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288718,
       "num": 288718,
       "word": "陈芋汐巴黎奥运会后想逃",
       "onboard_time": 1761813021,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287828,
+      "num": 213641,
+      "word": "造谣老师刻薄媚男女生发声",
+      "onboard_time": 1761818841,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286182,
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249925,
+      "num": 181530,
+      "word": "辛芷蕾井柏然刘雯同框",
+      "onboard_time": 1761819020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248991,
       "num": 248991,
       "word": "神21发射时间",
@@ -643,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226662,
+      "num": 179321,
+      "word": "谢娜爸爸悄悄退机票买硬座",
+      "onboard_time": 1761818301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224620,
       "num": 213688,
       "word": "怀孕为什么叫有身子了",
@@ -689,14 +753,6 @@
       "onboard_time": 1761804382,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 209441,
-      "num": 167755,
-      "word": "叠穿",
-      "onboard_time": 1761814941,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 207566,
@@ -755,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196121,
+      "num": 196121,
+      "word": "TES晋级S15四强",
+      "onboard_time": 1761819922,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195756,
       "num": 195756,
       "word": "邵子恒公主抱刘晓庆过河",
       "onboard_time": 1761797602,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194900,
+      "num": 194900,
+      "word": "山河枕",
+      "onboard_time": 1761791000,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 194180,
@@ -849,14 +921,6 @@
       "onboard_time": 1761802283,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183981,
-      "num": 183981,
-      "word": "天地剑心仙改",
-      "onboard_time": 1761816382,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 182733,
@@ -963,20 +1027,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166376,
-      "num": 166376,
-      "word": "山河枕",
-      "onboard_time": 1761791000,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164238,
       "num": 164238,
       "word": "小鱼海棠婚礼镜头签",
       "onboard_time": 1761811102,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164014,
+      "num": 164014,
+      "word": "国防部回应台湾高清卫星图",
+      "onboard_time": 1761818721,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163442,
@@ -1187,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143216,
+      "num": 143216,
+      "word": "于适 不是求婚是抢婚吧",
+      "onboard_time": 1761819441,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142720,
       "num": 142720,
       "word": "神20乘组有望刷新一项纪录",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1761795681,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139234,
+      "num": 139234,
+      "word": "山河枕直播",
+      "onboard_time": 1761818362,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 138612,
@@ -1347,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128028,
+      "num": 128028,
+      "word": "TES淘汰G2",
+      "onboard_time": 1761820102,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126770,
       "num": 218888,
       "word": "华晨宇 王牌名场面记录仪",
@@ -1417,6 +1505,14 @@
       "onboard_time": 1761802525,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122428,
+      "num": 122428,
+      "word": "辛芷蕾 任何女性还是少听建议吧",
+      "onboard_time": 1761819741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122098,
@@ -1491,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118774,
+      "num": 123559,
+      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+      "onboard_time": 1761812600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118215,
       "num": 118215,
       "word": "李宇嘉庞铮率先达到一百分",
@@ -1547,6 +1651,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116211,
+      "num": 161158,
+      "word": "张檬曾多次表示整容葬送了演艺生涯",
+      "onboard_time": 1761816561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115991,
+      "num": 115991,
+      "word": "公务员不是混日子避风港",
+      "onboard_time": 1761817761,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115488,
       "num": 115488,
       "word": "93年航天员说越努力越幸运",
@@ -1577,14 +1697,6 @@
       "onboard_time": 1761804923,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114117,
-      "num": 147932,
-      "word": "张檬曾多次表示整容葬送了演艺生涯",
-      "onboard_time": 1761816561,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 113552,
@@ -1995,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90696,
+      "num": 121161,
+      "word": "比黄金更稳定的投资方式",
+      "onboard_time": 1761818902,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90046,
       "num": 169453,
       "word": "蓝战非车祸后报平安",
@@ -2171,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73309,
+      "num": 185172,
+      "word": "女子离婚朋友办宴席庆祝",
+      "onboard_time": 1761818601,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72615,
       "num": 413065,
       "word": "王权富贵被万剑穿心我等了两年",
@@ -2241,6 +2369,14 @@
       "onboard_time": 1761809422,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64618,
+      "num": 194765,
+      "word": "留学投资还值吗",
+      "onboard_time": 1761818962,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 64568,
@@ -2339,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57193,
-      "num": 123559,
-      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
-      "onboard_time": 1761812600,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56766,
       "num": 132740,
       "word": "国家一级运动员捐3个器官2个组织",
@@ -2361,6 +2489,14 @@
       "onboard_time": 1761802583,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55089,
+      "num": 193067,
+      "word": "iQOONeo11标准版的含金量",
+      "onboard_time": 1761818962,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 54661,
@@ -2379,6 +2515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53401,
+      "num": 189794,
+      "word": "TES不经夸",
+      "onboard_time": 1761819922,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 53260,
+      "num": 133597,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52012,
       "num": 405277,
       "word": "韩国偶遇刘强东章泽天",
@@ -2393,6 +2545,14 @@
       "onboard_time": 1761808042,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 51342,
+      "num": 132007,
+      "word": "韩国进口辣白菜超99.9%来自中国",
+      "onboard_time": 1761819141,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50962,
@@ -2667,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33329,
+      "num": 673519,
+      "word": "2025APEC",
+      "onboard_time": 1761814223,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33001,
       "num": 355705,
       "word": "网警依法查处编造有人跳桥失踪谣言者",
@@ -2675,12 +2843,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30691,
-      "num": 385325,
-      "word": "2025APEC",
-      "onboard_time": 1761814223,
-      "rank": 2,
-      "category": "国际时政"
+      "raw_hot": 32186,
+      "num": 176661,
+      "word": "激情全运会已经传到胡兵了",
+      "onboard_time": 1761818601,
+      "rank": 30,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 29296,
@@ -2715,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27565,
+      "num": 116524,
+      "word": "12306回应乘客被座椅针扎到",
+      "onboard_time": 1761818601,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24846,
       "num": 65080,
       "word": "删了吧有个学美术的破防了",
@@ -2745,6 +2921,14 @@
       "onboard_time": 1761722961,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23323,
+      "num": 449674,
+      "word": "一起看全运会",
+      "onboard_time": 1761814223,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 23093,
@@ -2784,6 +2968,14 @@
       "word": "无障碍网约车无法选车型赶上啥坐啥",
       "onboard_time": 1761795320,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19546,
+      "num": 183068,
+      "word": "神21乘组集齐70后80后90后",
+      "onboard_time": 1761818601,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
