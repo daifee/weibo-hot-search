@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761842945463,
+  "endTime": 1761845125344,
   "band_list": [
     {
       "raw_hot": 779217,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126690,
+      "num": 603903,
+      "word": "火锅店回应空中座位玻璃碎裂",
+      "onboard_time": 1761839901,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113627,
       "num": 602997,
       "word": "跑男团有孩子和没孩子的区别",
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91929,
-      "num": 603903,
-      "word": "火锅店回应空中座位玻璃碎裂",
-      "onboard_time": 1761839901,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88967,
       "num": 610793,
       "word": "国防部回应台湾高清卫星图",
@@ -209,6 +209,14 @@
       "onboard_time": 1761819080,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82792,
+      "num": 599730,
+      "word": "重庆一大学老师被指刻薄魅男",
+      "onboard_time": 1761842658,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78690,
@@ -272,6 +280,14 @@
       "word": "雎晓雯摇曳生姿具象化了",
       "onboard_time": 1761839659,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65328,
+      "num": 600594,
+      "word": "尼格买提原来现实中长这样",
+      "onboard_time": 1761842119,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -371,8 +387,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 51207,
-      "num": 140429,
+      "raw_hot": 51283,
+      "num": 381983,
       "word": "JackeyLove赛后发博",
       "onboard_time": 1761837502,
       "rank": 47,
@@ -387,14 +403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48274,
-      "num": 600594,
-      "word": "尼格买提原来现实中长这样",
-      "onboard_time": 1761842119,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46270,
       "num": 599509,
       "word": "师生矛盾该不该上法庭",
@@ -403,20 +411,28 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 43805,
-      "num": 599730,
-      "word": "重庆一大学老师被指刻薄魅男",
-      "onboard_time": 1761842658,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38582,
       "num": 599175,
       "word": "蕉内地铁广告被指辣眼",
       "onboard_time": 1761816862,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29554,
+      "num": 366612,
+      "word": "女子生育后才领结婚证津贴少60天",
+      "onboard_time": 1761819621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28979,
+      "num": 363979,
+      "word": "被18岁男生从火场救出老人女儿发声",
+      "onboard_time": 1761844276,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 20611,
