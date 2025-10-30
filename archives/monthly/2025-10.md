@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 07:39:06
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/30 09:59:54
 </p>
 </blockquote>
 <p>
@@ -2187,6 +2187,12 @@ ELLE全阵容官宣（热度：1058138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%97%B4%E5%B8%A6%E8%B5%B0%E4%BA%86Angelababy%E4%BB%80%E4%B9%88%23" target="weibo">
+时间带走了Angelababy什么（热度：1030481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%20%E8%80%81%E9%BC%A0%E6%A8%AA%E8%A1%8C%23" target="weibo">
 蜜雪冰城门店 老鼠横行（热度：1028081）
 </a>
@@ -3957,6 +3963,12 @@ iPhone命名或跳过19（热度：786793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B3%23" target="weibo">
+女医学生被前男友杀害（热度：774042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E9%9C%87%E6%84%9F%23" target="weibo">
 太原震感（热度：772759）
 </a>
@@ -4589,6 +4601,12 @@ Bin（热度：715522）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%8A%9B%E8%A5%BF%E5%85%B0%E8%8A%B1%23" target="weibo">
 黄子韬 抛西兰花（热度：708369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%9B%B4%E8%A8%80%E6%97%A0%E6%B3%95%E8%B5%B0%E5%87%BA%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E9%98%B4%E5%BD%B1%23" target="weibo">
+胡歌直言无法走出母亲去世阴影（热度：708035）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
 偶遇贾乃亮买金钞（热度：605032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BF%9E%E5%A4%9C%E6%8B%9B%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8A%E4%BB%BB%E9%B8%A1%E6%8E%92%E4%BF%9D%E9%95%96%23" target="weibo">
-景德镇连夜招大学生上任鸡排保镖（热度：604353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%93%AD%E4%BA%86%23" target="weibo">
-田曦薇哭了（热度：603806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23" target="weibo">
-中国女子盗窃法国博物馆12斤金块（热度：603748）
 </a>
 </li>
 

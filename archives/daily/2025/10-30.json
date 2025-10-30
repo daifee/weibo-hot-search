@@ -1,7 +1,15 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761781146563,
+  "endTime": 1761789594903,
   "band_list": [
+    {
+      "raw_hot": 1030481,
+      "num": 192001,
+      "word": "时间带走了Angelababy什么",
+      "onboard_time": 1761784760,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 959006,
       "num": 461824,
@@ -19,12 +27,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 774042,
+      "num": 191921,
+      "word": "女医学生被前男友杀害",
+      "onboard_time": 1761787340,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 708035,
+      "num": 191813,
+      "word": "胡歌直言无法走出母亲去世阴影",
+      "onboard_time": 1761783801,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634015,
       "num": 926511,
       "word": "新毒株甲型H3N2来袭",
       "onboard_time": 1761745042,
       "rank": 4,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 579692,
+      "num": 1092750,
+      "word": "降息",
+      "onboard_time": 1761780259,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 578699,
@@ -43,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448237,
+      "num": 191710,
+      "word": "ON 好快的切割",
+      "onboard_time": 1761780738,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 419025,
       "num": 419025,
       "word": "蒋易孙天宇",
@@ -56,6 +96,14 @@
       "word": "李一桐送房求李荣浩给自己写歌",
       "onboard_time": 1761748823,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389162,
+      "num": 207760,
+      "word": "谁来救救陈伟霆",
+      "onboard_time": 1761759076,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -75,12 +123,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 340836,
-      "num": 109551,
-      "word": "降息",
-      "onboard_time": 1761780259,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 331242,
+      "num": 191116,
+      "word": "瘦了以后面相反而变差了",
+      "onboard_time": 1761781639,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 302291,
+      "num": 302291,
+      "word": "少爷和我",
+      "onboard_time": 1761787101,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298867,
@@ -91,12 +147,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 286182,
+      "num": 286182,
+      "word": "卢浮宫抢劫案出现重大进展",
+      "onboard_time": 1761784402,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 279598,
       "num": 417475,
       "word": "杨雨光 李明磊",
       "onboard_time": 1761750323,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268387,
+      "num": 268387,
+      "word": "神21航天员乘组公布",
+      "onboard_time": 1761788119,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 262319,
+      "num": 262319,
+      "word": "满头白发亲病逝宝宝墓碑妈妈发声",
+      "onboard_time": 1761780259,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261872,
@@ -131,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247719,
+      "num": 195562,
+      "word": "公务员旷工超15工作日被登报辞退",
+      "onboard_time": 1761749541,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230335,
       "num": 417048,
       "word": "酷酷的滕 团里有人结婚了吗",
@@ -139,12 +227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224620,
+      "num": 191000,
+      "word": "怀孕为什么叫有身子了",
+      "onboard_time": 1761781639,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216031,
       "num": 484785,
       "word": "日高校副校长说高市早苗做的过火",
       "onboard_time": 1761750323,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203607,
+      "num": 191302,
+      "word": "爷爷起的名字堪比古代进士",
+      "onboard_time": 1761787699,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 200191,
+      "num": 190829,
+      "word": "女子照出全家发光源头竟是洗衣粉",
+      "onboard_time": 1761781881,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197509,
@@ -163,12 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192683,
+      "num": 192683,
+      "word": "神21发射时间",
+      "onboard_time": 1761787879,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 190789,
+      "num": 190789,
+      "word": "第一个让沈梦辰戴眼镜的人是个天才",
+      "onboard_time": 1761786562,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162629,
       "num": 483430,
       "word": "小米高管回应巨省电是空调名",
       "onboard_time": 1761748043,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "12岁女儿讲英语帮妈妈卖文具赚10万",
+      "onboard_time": 1761781460,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159002,
@@ -179,12 +315,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157176,
+      "num": 157176,
+      "word": "马来西亚女保镖飞身上车",
+      "onboard_time": 1761786081,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 151470,
+      "num": 151470,
+      "word": "神21任务发布会",
+      "onboard_time": 1761784940,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 151137,
+      "num": 151137,
+      "word": "当我意识到蛋挞只是一种形状",
+      "onboard_time": 1761785781,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147424,
       "num": 415442,
       "word": "彭小苒收到了2000多份简历",
       "onboard_time": 1761741803,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145723,
+      "num": 145723,
+      "word": "神21任务清单",
+      "onboard_time": 1761788839,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142720,
+      "num": 142720,
+      "word": "神20乘组有望刷新一项纪录",
+      "onboard_time": 1761789500,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142365,
@@ -195,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133652,
+      "num": 133652,
+      "word": "修复欧仁妮皇后皇冠将十分困难",
+      "onboard_time": 1761787940,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133604,
+      "num": 133604,
+      "word": "神舟二十二号载人飞船",
+      "onboard_time": 1761789500,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129147,
       "num": 129147,
       "word": "市场预计美联储将再次降息",
@@ -203,12 +395,12 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 126603,
-      "num": 195562,
-      "word": "公务员旷工超15工作日被登报辞退",
-      "onboard_time": 1761749541,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 125558,
+      "num": 125558,
+      "word": "陈冬首个在轨超400天中国航天员",
+      "onboard_time": 1761789500,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124857,
@@ -217,6 +409,14 @@
       "onboard_time": 1761751701,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117501,
+      "num": 125296,
+      "word": "Yagao问Elk你也早就睡了吗",
+      "onboard_time": 1761780319,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 112569,
@@ -251,6 +451,54 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103389,
+      "num": 125175,
+      "word": "易烊千玺用裤子擦手",
+      "onboard_time": 1761789140,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101984,
+      "num": 125146,
+      "word": "国乒男单3人均止步首轮",
+      "onboard_time": 1761784702,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100162,
+      "num": 157637,
+      "word": "酷酷的滕 喜人永远在一起",
+      "onboard_time": 1761788720,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100019,
+      "num": 125080,
+      "word": "黄磊回应戴呼吸机睡觉",
+      "onboard_time": 1761787520,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99138,
+      "num": 157397,
+      "word": "喜人 乱成一锅粥了",
+      "onboard_time": 1761785542,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90046,
+      "num": 157282,
+      "word": "蓝战非车祸后报平安",
+      "onboard_time": 1761785062,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 88446,
       "num": 411446,
       "word": "北川 基地吃饭",
@@ -275,6 +523,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 84783,
+      "num": 125060,
+      "word": "三天把作息调整到11点睡6点起",
+      "onboard_time": 1761786202,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84640,
+      "num": 125006,
+      "word": "台湾人不知抗美援朝自己也有参与",
+      "onboard_time": 1761788181,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83283,
       "num": 412735,
       "word": "张杰带着天下杀回来了",
@@ -291,28 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80630,
-      "num": 207760,
-      "word": "谁来救救陈伟霆",
-      "onboard_time": 1761759076,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80627,
       "num": 101959,
       "word": "美高官称政府停摆或持续至11月",
       "onboard_time": 1761780378,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78490,
-      "num": 109726,
-      "word": "满头白发亲病逝宝宝墓碑妈妈发声",
-      "onboard_time": 1761780259,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75393,
@@ -345,6 +593,14 @@
       "onboard_time": 1761732201,
       "rank": 34,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 68758,
+      "num": 153366,
+      "word": "航天员张陆武飞张洪章",
+      "onboard_time": 1761787879,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65980,
@@ -387,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59748,
-      "num": 101884,
-      "word": "Yagao问Elk你也早就睡了吗",
-      "onboard_time": 1761780319,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 59271,
       "num": 101870,
       "word": "谢娜和张杰是爱人也是朋友",
@@ -427,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54758,
-      "num": 101812,
-      "word": "ON 好快的切割",
-      "onboard_time": 1761780738,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 52012,
       "num": 405277,
       "word": "韩国偶遇刘强东章泽天",
@@ -465,6 +705,14 @@
       "onboard_time": 1761746904,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 191151,
+      "word": "神21瞄准31日23时44分发射",
+      "onboard_time": 1761787879,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46604,
@@ -585,6 +833,14 @@
       "onboard_time": 1761770774,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29530,
+      "num": 355705,
+      "word": "网警依法查处编造有人跳桥失踪谣言者",
+      "onboard_time": 1761786141,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29296,
