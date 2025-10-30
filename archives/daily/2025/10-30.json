@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761809921702,
+  "endTime": 1761813287844,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -11,19 +11,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1571158,
+      "num": 1571158,
+      "word": "美方加征24%关税继续暂停一年",
+      "onboard_time": 1761809000,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1390931,
       "num": 1390931,
       "word": "中美元首握手合影",
       "onboard_time": 1761794540,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1359960,
-      "num": 1359960,
-      "word": "美方加征24%关税继续暂停一年",
-      "onboard_time": 1761809000,
-      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -33,6 +33,14 @@
       "onboard_time": 1761790880,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1123586,
+      "num": 1123586,
+      "word": "卢浮宫追回的失窃皇冠被压平",
+      "onboard_time": 1761809242,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1117292,
@@ -251,11 +259,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 517341,
+      "num": 180760,
+      "word": "关税",
+      "onboard_time": 1761811341,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 497075,
       "num": 278083,
       "word": "向太说嫁入豪门基本不幸福",
       "onboard_time": 1761800903,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493654,
+      "num": 180468,
+      "word": "黄晓明说很羡慕易烊千玺朱一龙",
+      "onboard_time": 1761807321,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -427,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269769,
+      "num": 176864,
+      "word": "第二杯半价不是让你一个人喝两杯的",
+      "onboard_time": 1761809180,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 269191,
+      "num": 176075,
+      "word": "阿水Flandre有望加入BeryL俱乐部",
+      "onboard_time": 1761811223,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262319,
       "num": 262319,
       "word": "满头白发亲病逝宝宝墓碑妈妈发声",
@@ -491,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247172,
+      "num": 173970,
+      "word": "李一桐 我下部戏必须带你进组了",
+      "onboard_time": 1761812001,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244623,
       "num": 198964,
       "word": "黄景瑜敖瑞鹏都生不出这么像的",
       "onboard_time": 1761804142,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240012,
+      "num": 240012,
+      "word": "TES 陌生",
+      "onboard_time": 1761811161,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 230950,
@@ -603,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198179,
+      "num": 169336,
+      "word": "关晓彤聊了半天没认出吴彤",
+      "onboard_time": 1761812541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197509,
       "num": 416459,
       "word": "沈梦辰下楼梯摔倒",
@@ -667,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187747,
-      "num": 170346,
-      "word": "卢浮宫追回的失窃皇冠被压平",
-      "onboard_time": 1761809242,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 188860,
+      "num": 188860,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 187575,
@@ -771,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168669,
+      "num": 168669,
+      "word": "剑网3 郭炜炜",
+      "onboard_time": 1761811582,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168526,
       "num": 168526,
       "word": "天地剑心我儿曹植",
@@ -811,12 +883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163531,
-      "num": 163531,
-      "word": "黄晓明说很羡慕易烊千玺朱一龙",
-      "onboard_time": 1761807321,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 164238,
+      "num": 164238,
+      "word": "小鱼海棠婚礼镜头签",
+      "onboard_time": 1761811102,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 162629,
@@ -947,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147052,
-      "num": 148103,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 146172,
       "num": 146172,
       "word": "A股",
@@ -1011,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140500,
+      "num": 140500,
+      "word": "张洽和潘潘结婚了",
+      "onboard_time": 1761810981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139492,
       "num": 139492,
       "word": "姚安娜也是吃上玉制菜了",
@@ -1059,6 +1131,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133487,
+      "num": 133487,
+      "word": "张峻豪真空西装",
+      "onboard_time": 1761812422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "病逝宝宝墓地离家5分钟",
+      "onboard_time": 1761807562,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132312,
       "num": 132312,
       "word": "黄金手镯和皮带扣涂成银色入境被查",
@@ -1099,12 +1187,12 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 129098,
-      "num": 129098,
-      "word": "第二杯半价不是让你一个人喝两杯的",
-      "onboard_time": 1761809180,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "陈芋汐巴黎奥运会后想逃",
+      "onboard_time": 1761813021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 126010,
@@ -1155,14 +1243,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 122506,
-      "num": 122506,
-      "word": "病逝宝宝墓地离家5分钟",
-      "onboard_time": 1761807562,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121783,
       "num": 148288,
       "word": "2025微博视界大会第四波阵容官宣",
@@ -1179,6 +1259,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121277,
+      "num": 121277,
+      "word": "胡先煦一开口我都不知道该怎么笑",
+      "onboard_time": 1761813021,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "雷军财富平均每秒增长6000元",
+      "onboard_time": 1761812600,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120217,
       "num": 120217,
       "word": "女推三不加人",
@@ -1193,6 +1289,14 @@
       "onboard_time": 1761790640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 117042,
+      "word": "十日终焉齐夏",
+      "onboard_time": 1761813261,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119651,
@@ -1259,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "18.8万娶缅北新娘竟轮流上岗",
+      "onboard_time": 1761810742,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116614,
       "num": 116614,
       "word": "周深哇你们都好好看啊",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1761804923,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113704,
+      "num": 113704,
+      "word": "原来音综迪丽热巴实力这么强",
+      "onboard_time": 1761813261,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113525,
@@ -1369,6 +1489,14 @@
       "onboard_time": 1761798142,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111384,
+      "num": 126584,
+      "word": "周深回应香港启德跨年场",
+      "onboard_time": 1761811161,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 110699,
@@ -1787,12 +1915,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78479,
+      "num": 124381,
+      "word": "G2成外乡人了",
+      "onboard_time": 1761813141,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75393,
       "num": 408441,
       "word": "建议早餐要吃够4类食物",
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73832,
+      "num": 126073,
+      "word": "伊万退休",
+      "onboard_time": 1761813202,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 72615,
@@ -1841,6 +1985,14 @@
       "onboard_time": 1761796402,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67234,
+      "num": 181613,
+      "word": "京东今晚8点再加补",
+      "onboard_time": 1761811520,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 66420,
@@ -2075,6 +2227,22 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 44388,
+      "num": 123559,
+      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+      "onboard_time": 1761812600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43255,
+      "num": 114374,
+      "word": "全季矿泉水 酒味",
+      "onboard_time": 1761811940,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43229,
       "num": 412142,
       "word": "国乒WTT蒙彼利埃站四连败",
@@ -2171,6 +2339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38190,
+      "num": 114023,
+      "word": "点红包弹窗养老金被连环扣款13笔",
+      "onboard_time": 1761812001,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37864,
       "num": 411666,
       "word": "广州小蛮腰换上限定时装",
@@ -2232,6 +2408,14 @@
       "word": "北京发布大雾预警",
       "onboard_time": 1761752721,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28554,
+      "num": 125610,
+      "word": "游轮派发小费袋建议每人给150元",
+      "onboard_time": 1761813202,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

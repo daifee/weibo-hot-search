@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761809921702,
+  "endTime": 1761813287844,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1051,6 +1051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1571158,
+      "num": 1571158,
+      "word": "美方加征24%关税继续暂停一年",
+      "onboard_time": 1761809000,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1570062,
       "num": 576410,
       "word": "赵樱子官宣分手",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1759460480,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1359960,
-      "num": 1359960,
-      "word": "美方加征24%关税继续暂停一年",
-      "onboard_time": 1761809000,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1352947,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1760769325,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1123586,
+      "num": 1123586,
+      "word": "卢浮宫追回的失窃皇冠被压平",
+      "onboard_time": 1761809242,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1123355,
@@ -10371,6 +10379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 517341,
+      "num": 180760,
+      "word": "关税",
+      "onboard_time": 1760139379,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 517070,
       "num": 1293652,
       "word": "中方回应高市早苗当选日本首相",
@@ -11097,6 +11113,14 @@
       "onboard_time": 1759844304,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 493654,
+      "num": 180468,
+      "word": "黄晓明说很羡慕易烊千玺朱一龙",
+      "onboard_time": 1761807321,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 493562,
@@ -21555,6 +21579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 269769,
+      "num": 176864,
+      "word": "第二杯半价不是让你一个人喝两杯的",
+      "onboard_time": 1761809180,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269620,
       "num": 269620,
       "word": "杨瀚森连进两记三分",
@@ -21593,6 +21625,14 @@
       "onboard_time": 1761232582,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269191,
+      "num": 176075,
+      "word": "阿水Flandre有望加入BeryL俱乐部",
+      "onboard_time": 1761811223,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 268721,
@@ -23323,6 +23363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247172,
+      "num": 173970,
+      "word": "李一桐 我下部戏必须带你进组了",
+      "onboard_time": 1761812001,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247079,
       "num": 247079,
       "word": "朋友圈不点赞真的没别的心思",
@@ -23857,6 +23905,14 @@
       "onboard_time": 1761231743,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 240012,
+      "num": 240012,
+      "word": "TES 陌生",
+      "onboard_time": 1761811161,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 239929,
@@ -28907,6 +28963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198179,
+      "num": 169336,
+      "word": "关晓彤聊了半天没认出吴彤",
+      "onboard_time": 1761812541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198145,
       "num": 198145,
       "word": "网友吐槽喜茶界面太阴间",
@@ -31235,6 +31299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188860,
+      "num": 188860,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188788,
       "num": 188788,
       "word": "朱志鑫 能不能不上班就有工资",
@@ -31505,14 +31577,6 @@
       "onboard_time": 1760520801,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187747,
-      "num": 170346,
-      "word": "卢浮宫追回的失窃皇冠被压平",
-      "onboard_time": 1761809242,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 187596,
@@ -33625,14 +33689,6 @@
       "onboard_time": 1760447602,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178221,
-      "num": 121577,
-      "word": "关税",
-      "onboard_time": 1760139379,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 178188,
@@ -36131,6 +36187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168669,
+      "num": 168669,
+      "word": "剑网3 郭炜炜",
+      "onboard_time": 1761811582,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168589,
       "num": 407508,
       "word": "新婚夫妻结婚当天被新娘亲哥拦车",
@@ -37443,6 +37507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164238,
+      "num": 164238,
+      "word": "小鱼海棠婚礼镜头签",
+      "onboard_time": 1761811102,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 164139,
       "num": 164139,
       "word": "张婧仪香槟粉鱼尾裙",
@@ -37681,14 +37753,6 @@
       "onboard_time": 1761021803,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163531,
-      "num": 163531,
-      "word": "黄晓明说很羡慕易烊千玺朱一龙",
-      "onboard_time": 1761807321,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 163497,
@@ -42995,14 +43059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147052,
-      "num": 148103,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147051,
       "num": 147051,
       "word": "电商让聚酯纤维长出血肉",
@@ -45305,6 +45361,14 @@
       "onboard_time": 1759836801,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140500,
+      "num": 140500,
+      "word": "张洽和潘潘结婚了",
+      "onboard_time": 1761810981,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 140473,
@@ -48571,6 +48635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133487,
+      "num": 133487,
+      "word": "张峻豪真空西装",
+      "onboard_time": 1761812422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "朱志鑫苏新皓入围影视cp",
@@ -48865,6 +48937,14 @@
       "onboard_time": 1760327060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "病逝宝宝墓地离家5分钟",
+      "onboard_time": 1761807562,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132792,
@@ -50715,14 +50795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129098,
-      "num": 129098,
-      "word": "第二杯半价不是让你一个人喝两杯的",
-      "onboard_time": 1761809180,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "地球超新鲜庆功宴",
@@ -51681,6 +51753,14 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "陈芋汐巴黎奥运会后想逃",
+      "onboard_time": 1761813021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 127104,
@@ -54259,14 +54339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122506,
-      "num": 122506,
-      "word": "病逝宝宝墓地离家5分钟",
-      "onboard_time": 1761807562,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122497,
       "num": 122497,
       "word": "一代人有一代人的丝巾",
@@ -54899,6 +54971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121277,
+      "num": 121277,
+      "word": "胡先煦一开口我都不知道该怎么笑",
+      "onboard_time": 1761813021,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121270,
       "num": 121270,
       "word": "猫咪也会偷偷给两脚兽取名字",
@@ -54961,6 +55041,14 @@
       "onboard_time": 1761297201,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "雷军财富平均每秒增长6000元",
+      "onboard_time": 1761812600,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 121179,
@@ -55697,6 +55785,14 @@
       "onboard_time": 1759998441,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 117042,
+      "word": "十日终焉齐夏",
+      "onboard_time": 1761813261,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119690,
@@ -57547,6 +57643,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "18.8万娶缅北新娘竟轮流上岗",
+      "onboard_time": 1761810742,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116812,
       "num": 340568,
       "word": "利物浦vs曼联",
@@ -59387,6 +59491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113704,
+      "num": 113704,
+      "word": "原来音综迪丽热巴实力这么强",
+      "onboard_time": 1761813261,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113692,
       "num": 113692,
       "word": "WB确定年总胜者组半决赛",
@@ -61089,6 +61201,14 @@
       "onboard_time": 1759661965,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111384,
+      "num": 126584,
+      "word": "周深回应香港启德跨年场",
+      "onboard_time": 1761811161,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 111376,
@@ -82467,6 +82587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78479,
+      "num": 124381,
+      "word": "G2成外乡人了",
+      "onboard_time": 1761813141,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78471,
       "num": 103619,
       "word": "肖战宣传黄晓明新片",
@@ -84321,6 +84449,14 @@
       "onboard_time": 1760369601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73832,
+      "num": 126073,
+      "word": "伊万退休",
+      "onboard_time": 1761813202,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 73831,
@@ -86585,6 +86721,14 @@
       "onboard_time": 1761232823,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67234,
+      "num": 181613,
+      "word": "京东今晚8点再加补",
+      "onboard_time": 1761811520,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 67219,
@@ -92779,6 +92923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44388,
+      "num": 123559,
+      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+      "onboard_time": 1761812600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44382,
       "num": 313547,
       "word": "小当家特级厨师争霸赛重启",
@@ -93041,6 +93193,14 @@
       "onboard_time": 1759619778,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43255,
+      "num": 114374,
+      "word": "全季矿泉水 酒味",
+      "onboard_time": 1761811940,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43238,
@@ -94177,6 +94337,14 @@
       "onboard_time": 1760878882,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38190,
+      "num": 114023,
+      "word": "点红包弹窗养老金被连环扣款13笔",
+      "onboard_time": 1761812001,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38186,
@@ -96377,6 +96545,14 @@
       "onboard_time": 1760516361,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28554,
+      "num": 125610,
+      "word": "游轮派发小费袋建议每人给150元",
+      "onboard_time": 1761813202,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28515,
