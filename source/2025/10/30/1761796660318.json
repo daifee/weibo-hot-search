@@ -1,0 +1,410 @@
+{
+  "runTime": 1761796660318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1099824,
+        "num": 1175971,
+        "word": "中美元首釜山会晤现场",
+        "onboard_time": 1761790880,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 974206,
+        "num": 974206,
+        "word": "中美元首握手合影",
+        "onboard_time": 1761794540,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34814,
+        "num": 700304,
+        "word": "跟着这张思维导图学十五五规划建议",
+        "onboard_time": 1761757638,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593187,
+        "num": 593187,
+        "word": "韩国机场鸣放21响礼炮",
+        "onboard_time": 1761792020,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488535,
+        "num": 488535,
+        "word": "中国年龄最小的航天员",
+        "onboard_time": 1761789679,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455498,
+        "num": 455498,
+        "word": "特朗普回应会晤",
+        "onboard_time": 1761794781,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265895,
+        "num": 265895,
+        "word": "特朗普相信中美将建立长期良好关系",
+        "onboard_time": 1761793759,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250052,
+        "num": 250052,
+        "word": "神21航天员乘组公布",
+        "onboard_time": 1761788119,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158173,
+        "num": 158173,
+        "word": "新闻女王2定档",
+        "onboard_time": 1761794902,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140707,
+        "num": 140707,
+        "word": "山河枕",
+        "onboard_time": 1761791000,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688464,
+        "num": 140607,
+        "word": "爷爷起的名字堪比古代进士",
+        "onboard_time": 1761787699,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440850,
+        "num": 140536,
+        "word": "高市早苗演砸了",
+        "onboard_time": 1761791839,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421964,
+        "num": 140405,
+        "word": "给女儿的300克黄金嫁妆掉落高速上",
+        "onboard_time": 1761793579,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388074,
+        "num": 140254,
+        "word": "彭小苒去非洲没涂防晒",
+        "onboard_time": 1761795623,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373616,
+        "num": 140241,
+        "word": "时间带走了Angelababy什么",
+        "onboard_time": 1761784760,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315933,
+        "num": 140067,
+        "word": "女医学生被前男友杀害",
+        "onboard_time": 1761787340,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292567,
+        "num": 139925,
+        "word": "胡歌直言无法走出母亲去世阴影",
+        "onboard_time": 1761783801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113195,
+        "num": 139845,
+        "word": "天地剑心我儿曹植",
+        "onboard_time": 1761791480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41932,
+        "num": 139730,
+        "word": "解锁百岁老人长寿配方",
+        "onboard_time": 1761795380,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242094,
+        "num": 139601,
+        "word": "上完厕所卧铺被外国人霸占",
+        "onboard_time": 1761795681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139557,
+        "num": 139557,
+        "word": "神21发射时间",
+        "onboard_time": 1761787879,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545983,
+        "num": 139554,
+        "word": "黄金",
+        "onboard_time": 1761790220,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 468265,
+        "num": 139541,
+        "word": "少爷和我",
+        "onboard_time": 1761787101,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173604,
+        "num": 139510,
+        "word": "瘦了以后面相反而变差了",
+        "onboard_time": 1761781639,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147768,
+        "num": 139503,
+        "word": "怀孕为什么叫有身子了",
+        "onboard_time": 1761781639,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139492,
+        "num": 139492,
+        "word": "姚安娜也是吃上玉制菜了",
+        "onboard_time": 1761795681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "陈乔恩说自己很强选择的伴侣就不会差",
+        "onboard_time": 1761795741,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127588,
+        "num": 127588,
+        "word": "秦昊去哪都要给女儿报备",
+        "onboard_time": 1761796523,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125967,
+        "num": 125967,
+        "word": "黄金暴涨暴跌AI都被问冒烟了",
+        "onboard_time": 1761794781,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116386,
+        "num": 116386,
+        "word": "藏马熊进村咬死并拖走一条狗",
+        "onboard_time": 1761793159,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465572,
+        "num": 116042,
+        "word": "刘强东扶着章泽天",
+        "onboard_time": 1761795623,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134967,
+        "num": 115948,
+        "word": "你的50块正在揍你的3000块",
+        "onboard_time": 1761795441,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115488,
+        "num": 115488,
+        "word": "93年航天员说越努力越幸运",
+        "onboard_time": 1761795801,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114506,
+        "num": 114506,
+        "word": "新毒株甲型H3N2来袭",
+        "onboard_time": 1761745042,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 82060,
+        "num": 113148,
+        "word": "酷酷的滕 喜人永远在一起",
+        "onboard_time": 1761788720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111877,
+        "num": 111877,
+        "word": "邵子恒多少继承了邵兵的帅",
+        "onboard_time": 1761795922,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53318,
+        "num": 110001,
+        "word": "神21航天员简历",
+        "onboard_time": 1761794600,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50964,
+        "num": 108681,
+        "word": "京东暖心留言",
+        "onboard_time": 1761790039,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67703,
+        "num": 108628,
+        "word": "120位明星相聚湖北宜昌",
+        "onboard_time": 1761796402,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108608,
+        "num": 108608,
+        "word": "让中美关系这艘大船平稳前行",
+        "onboard_time": 1761791720,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106277,
+        "num": 106277,
+        "word": "这届年轻人开始入局养老服务业",
+        "onboard_time": 1761796402,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103254,
+        "num": 103254,
+        "word": "喜人 叔婶事变",
+        "onboard_time": 1761792259,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98085,
+        "num": 98085,
+        "word": "神21任务发布会",
+        "onboard_time": 1761784940,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20086,
+        "num": 98058,
+        "word": "无障碍网约车无法选车型赶上啥坐啥",
+        "onboard_time": 1761795320,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98051,
+        "num": 98051,
+        "word": "小时候求爸妈买过的高级货",
+        "onboard_time": 1761796642,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94962,
+        "num": 94962,
+        "word": "杨瀚森勾手得分",
+        "onboard_time": 1761790340,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 94353,
+        "word": "A股",
+        "onboard_time": 1761795081,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94038,
+        "num": 94038,
+        "word": "开拓者vs爵士",
+        "onboard_time": 1761792980,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89428,
+        "num": 92585,
+        "word": "夫妻因曾黎年纪吵起来了",
+        "onboard_time": 1761793159,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64761,
+        "num": 92123,
+        "word": "余承东官宣享界品牌大使",
+        "onboard_time": 1761795380,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#6个关键词展望习主席韩国之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761795169277,
+  "endTime": 1761796660318,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -441,6 +441,14 @@
       "onboard_time": 1761739460,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 974206,
+      "num": 974206,
+      "word": "中美元首握手合影",
+      "onboard_time": 1761794540,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 965800,
@@ -1939,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 465572,
+      "num": 116042,
+      "word": "刘强东扶着章泽天",
+      "onboard_time": 1761795623,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 464657,
       "num": 237031,
       "word": "原来是李一桐自己录的动捕",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1761704779,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455498,
+      "num": 455498,
+      "word": "特朗普回应会晤",
+      "onboard_time": 1761794781,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 451989,
@@ -2083,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440850,
+      "num": 156200,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 437011,
       "num": 439978,
       "word": "很多台湾年轻人不知抗日史",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1761459860,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421964,
+      "num": 155828,
+      "word": "给女儿的300克黄金嫁妆掉落高速上",
+      "onboard_time": 1761793579,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420032,
@@ -2387,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388074,
+      "num": 140254,
+      "word": "彭小苒去非洲没涂防晒",
+      "onboard_time": 1761795623,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384678,
       "num": 257747,
       "word": "张馨予 真不把你们当外人",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1761483981,
       "rank": 3,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 381469,
-      "num": 156200,
-      "word": "高市早苗演砸了",
-      "onboard_time": 1761791839,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 380464,
@@ -2633,14 +2673,6 @@
       "onboard_time": 1761434116,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351856,
-      "num": 155828,
-      "word": "给女儿的300克黄金嫁妆掉落高速上",
-      "onboard_time": 1761793579,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349442,
@@ -3681,6 +3713,14 @@
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242094,
+      "num": 139601,
+      "word": "上完厕所卧铺被外国人霸占",
+      "onboard_time": 1761795681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241580,
@@ -6515,6 +6555,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 158173,
+      "num": 158173,
+      "word": "新闻女王2定档",
+      "onboard_time": 1761794902,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158101,
       "num": 158101,
       "word": "第一次见这样给奶奶过生日的",
@@ -6921,14 +6969,6 @@
       "onboard_time": 1761542121,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151861,
-      "num": 168311,
-      "word": "特朗普回应会晤",
-      "onboard_time": 1761794781,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151688,
@@ -7635,6 +7675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139492,
+      "num": 139492,
+      "word": "姚安娜也是吃上玉制菜了",
+      "onboard_time": 1761795681,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139373,
       "num": 315332,
       "word": "北京国安2比4青岛海牛",
@@ -7969,6 +8017,14 @@
       "onboard_time": 1761566661,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134967,
+      "num": 115948,
+      "word": "你的50块正在揍你的3000块",
+      "onboard_time": 1761795441,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 134852,
@@ -8579,6 +8635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129444,
+      "num": 129444,
+      "word": "陈乔恩说自己很强选择的伴侣就不会差",
+      "onboard_time": 1761795741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129413,
       "num": 129413,
       "word": "美警方回应运猴车翻车带病毒猴逃跑",
@@ -8705,6 +8769,14 @@
       "onboard_time": 1761709701,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 127588,
+      "num": 127588,
+      "word": "秦昊去哪都要给女儿报备",
+      "onboard_time": 1761796523,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 127416,
@@ -8937,14 +9009,6 @@
       "onboard_time": 1761655762,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 124703,
-      "num": 156051,
-      "word": "新闻女王2定档",
-      "onboard_time": 1761794902,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 124351,
@@ -9715,6 +9779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115488,
+      "num": 115488,
+      "word": "93年航天员说越努力越幸运",
+      "onboard_time": 1761795801,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115419,
       "num": 115419,
       "word": "航天员将在轨饲养4只小鼠",
@@ -10056,6 +10128,14 @@
       "word": "宁静是澳门第一部电影的女主",
       "onboard_time": 1761462441,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111877,
+      "num": 111877,
+      "word": "邵子恒多少继承了邵兵的帅",
+      "onboard_time": 1761795922,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -10601,6 +10681,14 @@
       "onboard_time": 1761554421,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106277,
+      "num": 106277,
+      "word": "这届年轻人开始入局养老服务业",
+      "onboard_time": 1761796402,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106222,
@@ -11411,6 +11499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "小时候求爸妈买过的高级货",
+      "onboard_time": 1761796642,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98029,
       "num": 98029,
       "word": "苹果房子",
@@ -11699,6 +11795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94038,
+      "num": 94038,
+      "word": "开拓者vs爵士",
+      "onboard_time": 1761792980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94032,
       "num": 94032,
       "word": "国际金银暴跌",
@@ -11977,14 +12081,6 @@
       "onboard_time": 1761394282,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91106,
-      "num": 180993,
-      "word": "中美元首握手合影",
-      "onboard_time": 1761794540,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91066,
@@ -13115,6 +13211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67703,
+      "num": 108628,
+      "word": "120位明星相聚湖北宜昌",
+      "onboard_time": 1761796402,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67698,
       "num": 156790,
       "word": "罗永浩说AQ是重阳送礼新选择",
@@ -13297,6 +13401,14 @@
       "onboard_time": 1761730221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64761,
+      "num": 92123,
+      "word": "余承东官宣享界品牌大使",
+      "onboard_time": 1761795380,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 63917,
@@ -14315,6 +14427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41932,
+      "num": 139730,
+      "word": "解锁百岁老人长寿配方",
+      "onboard_time": 1761795380,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41840,
       "num": 32431,
       "word": "安静公主剪短发",
@@ -14627,6 +14747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34814,
+      "num": 700304,
+      "word": "跟着这张思维导图学十五五规划建议",
+      "onboard_time": 1761757638,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34656,
       "num": 163865,
       "word": "张庭全家福",
@@ -14937,14 +15065,6 @@
       "onboard_time": 1761586395,
       "rank": 45,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27467,
-      "num": 596445,
-      "word": "跟着这张思维导图学十五五规划建议",
-      "onboard_time": 1761757638,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27273,
@@ -15305,6 +15425,14 @@
       "onboard_time": 1761557482,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 20086,
+      "num": 98058,
+      "word": "无障碍网约车无法选车型赶上啥坐啥",
+      "onboard_time": 1761795320,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20005,
