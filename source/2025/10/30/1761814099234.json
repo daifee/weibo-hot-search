@@ -1,0 +1,410 @@
+{
+  "runTime": 1761814099234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1539659,
+        "num": 1539659,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1074573,
+        "num": 1074573,
+        "word": "卢浮宫追回的失窃皇冠被压平",
+        "onboard_time": 1761809242,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4211,
+        "num": 522317,
+        "word": "跟着这张思维导图学十五五规划建议",
+        "onboard_time": 1761757638,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321232,
+        "num": 321232,
+        "word": "TES 陌生",
+        "onboard_time": 1761811161,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 293773,
+        "num": 293773,
+        "word": "TES对战G2",
+        "onboard_time": 1761807321,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208551,
+        "num": 293346,
+        "word": "高市早苗当面拒绝美国要求",
+        "onboard_time": 1761800363,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175036,
+        "num": 292261,
+        "word": "美方暂停对华海事等301调查",
+        "onboard_time": 1761810561,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174710,
+        "num": 291824,
+        "word": "给中美和世界经济吃下一颗定心丸",
+        "onboard_time": 1761806662,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21027,
+        "num": 291104,
+        "word": "神21瞄准31日23时44分发射",
+        "onboard_time": 1761787879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404640,
+        "num": 289439,
+        "word": "大学法学老师被学生吐槽称将起诉",
+        "onboard_time": 1761803963,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59993,
+        "num": 289241,
+        "word": "京东今晚8点再加补",
+        "onboard_time": 1761811520,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462951,
+        "num": 288481,
+        "word": "关税",
+        "onboard_time": 1761811341,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460178,
+        "num": 287055,
+        "word": "第二杯半价不是让你一个人喝两杯的",
+        "onboard_time": 1761809180,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 426934,
+        "num": 285979,
+        "word": "李一桐 我下部戏必须带你进组了",
+        "onboard_time": 1761812001,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385595,
+        "num": 285573,
+        "word": "黄晓明说很羡慕易烊千玺朱一龙",
+        "onboard_time": 1761807321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329489,
+        "num": 284855,
+        "word": "甲沟炎 剪v字",
+        "onboard_time": 1761806542,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284090,
+        "num": 284090,
+        "word": "江一燕前夫是导演赵汉唐",
+        "onboard_time": 1761805942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264221,
+        "num": 264221,
+        "word": "关晓彤聊了半天没认出吴彤",
+        "onboard_time": 1761812541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246585,
+        "num": 246585,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36062,
+        "num": 245563,
+        "word": "游轮派发小费袋建议每人给150元",
+        "onboard_time": 1761813202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546668,
+        "num": 245323,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1689713,
+        "num": 245231,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244866,
+        "num": 244866,
+        "word": "阿水Flandre有望加入BeryL俱乐部",
+        "onboard_time": 1761811223,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238185,
+        "num": 238185,
+        "word": "向太说嫁入豪门基本不幸福",
+        "onboard_time": 1761800903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234478,
+        "num": 234478,
+        "word": "原来音综迪丽热巴实力这么强",
+        "onboard_time": 1761813261,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223288,
+        "num": 223288,
+        "word": "王楚然对白鹿生理性喜欢",
+        "onboard_time": 1761802943,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163717,
+        "num": 222875,
+        "word": "陈芋汐巴黎奥运会后想逃",
+        "onboard_time": 1761813021,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137548,
+        "num": 220403,
+        "word": "成毅天地剑心飙升190%",
+        "onboard_time": 1761806481,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128768,
+        "num": 219022,
+        "word": "龚俊一集一封神",
+        "onboard_time": 1761813380,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 218888,
+        "word": "华晨宇 王牌名场面记录仪",
+        "onboard_time": 1761813741,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217493,
+        "num": 217493,
+        "word": "大学生集体染上水龙瘾了",
+        "onboard_time": 1761796821,
+        "rank": 30,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 206979,
+        "num": 206979,
+        "word": "稀土",
+        "onboard_time": 1761802043,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206950,
+        "num": 206950,
+        "word": "十日终焉齐夏",
+        "onboard_time": 1761813261,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154055,
+        "num": 154055,
+        "word": "小鱼海棠婚礼镜头签",
+        "onboard_time": 1761811102,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 151982,
+        "word": "扩大免税店经营品类",
+        "onboard_time": 1761813560,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142485,
+        "num": 142485,
+        "word": "剑网3 郭炜炜",
+        "onboard_time": 1761811582,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79315,
+        "num": 140201,
+        "word": "伊万退休",
+        "onboard_time": 1761813202,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14598,
+        "num": 138599,
+        "word": "陆毅鲍蕾不奢求贝儿大富大贵",
+        "onboard_time": 1761813801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69603,
+        "num": 135697,
+        "word": "G2成外乡人了",
+        "onboard_time": 1761813141,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54434,
+        "num": 134506,
+        "word": "多名用户称工行app内资产被清零",
+        "onboard_time": 1761813801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132742,
+        "num": 132742,
+        "word": "胡先煦一开口我都不知道该怎么笑",
+        "onboard_time": 1761813021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119958,
+        "num": 119958,
+        "word": "女子赌博输1300万卷跑公司2000万",
+        "onboard_time": 1761813983,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119738,
+        "num": 119738,
+        "word": "雷军财富平均每秒增长6000元",
+        "onboard_time": 1761812600,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115796,
+        "num": 115796,
+        "word": "刘强东扶着章泽天",
+        "onboard_time": 1761795623,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114938,
+        "num": 114938,
+        "word": "还以为是霍思燕",
+        "onboard_time": 1761803364,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 113500,
+        "word": "张洽和潘潘结婚了",
+        "onboard_time": 1761810981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57193,
+        "num": 112915,
+        "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+        "onboard_time": 1761812600,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112883,
+        "num": 112883,
+        "word": "中国年龄最小的航天员",
+        "onboard_time": 1761789679,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113246,
+        "num": 110763,
+        "word": "淡淡的就会顺顺的",
+        "onboard_time": 1761812061,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108516,
+        "num": 108516,
+        "word": "江苏省考",
+        "onboard_time": 1761814041,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首釜山会晤#"
+    }
+  }
+}

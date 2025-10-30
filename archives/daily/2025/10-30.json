@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761813287844,
+  "endTime": 1761814099234,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 697633,
-      "num": 203213,
+      "num": 284090,
       "word": "江一燕前夫是导演赵汉唐",
       "onboard_time": 1761805942,
       "rank": 17,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 630576,
-      "num": 204519,
+      "num": 206979,
       "word": "稀土",
       "onboard_time": 1761802043,
       "rank": 22,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 517341,
-      "num": 180760,
+      "num": 288481,
       "word": "关税",
       "onboard_time": 1761811341,
       "rank": 11,
@@ -276,15 +276,23 @@
     },
     {
       "raw_hot": 493654,
-      "num": 180468,
+      "num": 285573,
       "word": "黄晓明说很羡慕易烊千玺朱一龙",
       "onboard_time": 1761807321,
       "rank": 44,
       "category": "艺人"
     },
     {
+      "raw_hot": 460178,
+      "num": 287055,
+      "word": "第二杯半价不是让你一个人喝两杯的",
+      "onboard_time": 1761809180,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 456063,
-      "num": 203338,
+      "num": 223288,
       "word": "王楚然对白鹿生理性喜欢",
       "onboard_time": 1761802943,
       "rank": 16,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 437941,
-      "num": 188752,
+      "num": 284855,
       "word": "甲沟炎 剪v字",
       "onboard_time": 1761806542,
       "rank": 31,
@@ -313,6 +321,14 @@
       "onboard_time": 1761803963,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426934,
+      "num": 285979,
+      "word": "李一桐 我下部戏必须带你进组了",
+      "onboard_time": 1761812001,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 421964,
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321232,
+      "num": 321232,
+      "word": "TES 陌生",
+      "onboard_time": 1761811161,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321204,
       "num": 321204,
       "word": "特朗普相信中美将建立长期良好关系",
@@ -425,6 +449,14 @@
       "onboard_time": 1761764774,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 293773,
+      "num": 293773,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 286182,
@@ -451,20 +483,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 269769,
-      "num": 176864,
-      "word": "第二杯半价不是让你一个人喝两杯的",
-      "onboard_time": 1761809180,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269191,
-      "num": 176075,
+      "num": 244866,
       "word": "阿水Flandre有望加入BeryL俱乐部",
       "onboard_time": 1761811223,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 264221,
+      "num": 264221,
+      "word": "关晓彤聊了半天没认出吴彤",
+      "onboard_time": 1761812541,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262319,
@@ -531,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247172,
-      "num": 173970,
-      "word": "李一桐 我下部戏必须带你进组了",
-      "onboard_time": 1761812001,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244623,
       "num": 198964,
       "word": "黄景瑜敖瑞鹏都生不出这么像的",
@@ -547,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240012,
-      "num": 240012,
-      "word": "TES 陌生",
-      "onboard_time": 1761811161,
-      "rank": 4,
-      "category": "电竞"
+      "raw_hot": 234478,
+      "num": 234478,
+      "word": "原来音综迪丽热巴实力这么强",
+      "onboard_time": 1761813261,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 230950,
@@ -627,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206950,
+      "num": 206950,
+      "word": "十日终焉齐夏",
+      "onboard_time": 1761813261,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202747,
       "num": 202747,
       "word": "王昱中戏毕业表演0分",
@@ -656,14 +688,6 @@
       "word": "戚薇说张艺凡很像Lucky",
       "onboard_time": 1761797302,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198179,
-      "num": 169336,
-      "word": "关晓彤聊了半天没认出吴彤",
-      "onboard_time": 1761812541,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -731,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188860,
-      "num": 188860,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187575,
       "num": 175841,
       "word": "何炅人没来镜头一点没少",
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 185111,
-      "num": 193424,
+      "num": 220403,
       "word": "成毅天地剑心飙升190%",
       "onboard_time": 1761806481,
       "rank": 19,
@@ -808,6 +824,14 @@
       "word": "美方将取消所谓芬太尼关税",
       "onboard_time": 1761809722,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 175036,
+      "num": 292261,
+      "word": "美方暂停对华海事等301调查",
+      "onboard_time": 1761810561,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -891,6 +915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163717,
+      "num": 222875,
+      "word": "陈芋汐巴黎奥运会后想逃",
+      "onboard_time": 1761813021,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162629,
       "num": 483430,
       "word": "小米高管回应巨省电是空调名",
@@ -961,6 +993,14 @@
       "onboard_time": 1761794600,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151982,
+      "num": 151982,
+      "word": "扩大免税店经营品类",
+      "onboard_time": 1761813560,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151593,
@@ -1147,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132742,
+      "num": 132742,
+      "word": "胡先煦一开口我都不知道该怎么笑",
+      "onboard_time": 1761813021,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132312,
       "num": 132312,
       "word": "黄金手镯和皮带扣涂成银色入境被查",
@@ -1187,12 +1235,20 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "陈芋汐巴黎奥运会后想逃",
-      "onboard_time": 1761813021,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 128768,
+      "num": 219022,
+      "word": "龚俊一集一封神",
+      "onboard_time": 1761813380,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126770,
+      "num": 218888,
+      "word": "华晨宇 王牌名场面记录仪",
+      "onboard_time": 1761813741,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 126010,
@@ -1259,14 +1315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121277,
-      "num": 121277,
-      "word": "胡先煦一开口我都不知道该怎么笑",
-      "onboard_time": 1761813021,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "雷军财富平均每秒增长6000元",
@@ -1283,20 +1331,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119958,
+      "num": 119958,
+      "word": "女子赌博输1300万卷跑公司2000万",
+      "onboard_time": 1761813983,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119943,
       "num": 119943,
       "word": "人民日报对话周深",
       "onboard_time": 1761790640,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119751,
-      "num": 117042,
-      "word": "十日终焉齐夏",
-      "onboard_time": 1761813261,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 119651,
@@ -1411,20 +1459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113704,
-      "num": 113704,
-      "word": "原来音综迪丽热巴实力这么强",
-      "onboard_time": 1761813261,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113525,
       "num": 113525,
       "word": "鲍威尔表态引发黄金跳水",
       "onboard_time": 1761805824,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113246,
+      "num": 110763,
+      "word": "淡淡的就会顺顺的",
+      "onboard_time": 1761812061,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 112837,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1761752900,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108516,
+      "num": 108516,
+      "word": "江苏省考",
+      "onboard_time": 1761814041,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 106277,
@@ -1915,8 +1971,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79315,
+      "num": 140201,
+      "word": "伊万退休",
+      "onboard_time": 1761813202,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78479,
-      "num": 124381,
+      "num": 135697,
       "word": "G2成外乡人了",
       "onboard_time": 1761813141,
       "rank": 38,
@@ -1929,14 +1993,6 @@
       "onboard_time": 1761748043,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 73832,
-      "num": 126073,
-      "word": "伊万退休",
-      "onboard_time": 1761813202,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 72615,
@@ -1988,7 +2044,7 @@
     },
     {
       "raw_hot": 67234,
-      "num": 181613,
+      "num": 289241,
       "word": "京东今晚8点再加补",
       "onboard_time": 1761811520,
       "rank": 10,
@@ -2107,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57193,
+      "num": 123559,
+      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
+      "onboard_time": 1761812600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55552,
       "num": 192028,
       "word": "西安省级文保户县钟楼深夜被撞",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1761794600,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 54434,
+      "num": 134506,
+      "word": "多名用户称工行app内资产被清零",
+      "onboard_time": 1761813801,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52012,
@@ -2225,14 +2297,6 @@
       "onboard_time": 1761780259,
       "rank": 37,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 44388,
-      "num": 123559,
-      "word": "阚清子为吃奶皮子糖葫芦排队2小时",
-      "onboard_time": 1761812600,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 43255,
@@ -2363,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36062,
+      "num": 245563,
+      "word": "游轮派发小费袋建议每人给150元",
+      "onboard_time": 1761813202,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35303,
       "num": 204251,
       "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
@@ -2408,14 +2480,6 @@
       "word": "北京发布大雾预警",
       "onboard_time": 1761752721,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28554,
-      "num": 125610,
-      "word": "游轮派发小费袋建议每人给150元",
-      "onboard_time": 1761813202,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2529,6 +2593,14 @@
       "onboard_time": 1761762915,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14598,
+      "num": 138599,
+      "word": "陆毅鲍蕾不奢求贝儿大富大贵",
+      "onboard_time": 1761813801,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 14517,
