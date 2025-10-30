@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761799463726,
+  "endTime": 1761801974857,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -9,6 +9,14 @@
       "onboard_time": 1761621144,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4929141,
+      "num": 302050,
+      "word": "江一燕离婚",
+      "onboard_time": 1761799282,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 3052119,
@@ -619,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 855641,
+      "num": 1136902,
+      "word": "高市早苗当面拒绝美国要求",
+      "onboard_time": 1761800363,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 853365,
       "num": 383588,
       "word": "冲锋衣 显命苦",
@@ -705,6 +721,14 @@
       "onboard_time": 1761466641,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 815293,
+      "num": 815293,
+      "word": "大学生集体染上水龙瘾了",
+      "onboard_time": 1761796821,
+      "rank": 8,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 806833,
@@ -1235,20 +1259,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 629405,
+      "num": 328790,
+      "word": "37岁阚清子孕晚期状态",
+      "onboard_time": 1761798142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627647,
       "num": 415294,
       "word": "刘亦菲刘冲坐一辆车",
       "onboard_time": 1761531379,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 626829,
-      "num": 328790,
-      "word": "37岁阚清子孕晚期状态",
-      "onboard_time": 1761798142,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 626032,
@@ -2555,14 +2579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 371128,
-      "num": 371128,
-      "word": "大学生集体染上水龙瘾了",
-      "onboard_time": 1761796821,
-      "rank": 8,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 370732,
       "num": 381755,
       "word": "张继科至今没人超越的记录",
@@ -2755,6 +2771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 341970,
+      "num": 341970,
+      "word": "里夫斯绝杀森林狼",
+      "onboard_time": 1761798263,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339914,
       "num": 209042,
       "word": "开始推理吧4",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1761781639,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 331177,
-      "num": 331177,
-      "word": "里夫斯绝杀森林狼",
-      "onboard_time": 1761798263,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 329413,
@@ -3345,6 +3361,14 @@
       "onboard_time": 1761406641,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278083,
+      "num": 278083,
+      "word": "向太说嫁入豪门基本不幸福",
+      "onboard_time": 1761800903,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 277805,
@@ -3939,6 +3963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 230950,
+      "num": 281406,
+      "word": "再见爱人5",
+      "onboard_time": 1761799404,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230723,
       "num": 230723,
       "word": "许绍雄因癌症致器官衰竭",
@@ -4467,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208487,
+      "num": 208487,
+      "word": "原来女明星们候场也坐塑料凳子",
+      "onboard_time": 1761800063,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207691,
       "num": 405127,
       "word": "Knight 大黄直播间",
@@ -4977,6 +5017,14 @@
       "onboard_time": 1761745642,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192483,
+      "num": 192483,
+      "word": "鞠婧祎发型师起诉丝芭传媒",
+      "onboard_time": 1761800182,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 192435,
@@ -7971,6 +8019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137465,
+      "num": 137465,
+      "word": "拖堂都拖到婚姻的殿堂了",
+      "onboard_time": 1761799342,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 137059,
       "num": 137059,
       "word": "LCK锁定S15决赛",
@@ -8008,14 +8064,6 @@
       "word": "秦昊去哪都要给女儿报备",
       "onboard_time": 1761796523,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136378,
-      "num": 136378,
-      "word": "江一燕离婚",
-      "onboard_time": 1761799282,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -8489,6 +8537,14 @@
       "onboard_time": 1761643524,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131644,
+      "num": 148973,
+      "word": "支付方式变了盗窃手段也升级了",
+      "onboard_time": 1761801381,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 131632,
@@ -9259,6 +9315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122961,
+      "num": 122961,
+      "word": "黄磊调侃自己被网上传得像在ICU",
+      "onboard_time": 1761801022,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122927,
       "num": 122927,
       "word": "清融风度Young生日封",
@@ -9339,6 +9403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121783,
+      "num": 148288,
+      "word": "2025微博视界大会第四波阵容官宣",
+      "onboard_time": 1761801562,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "谁懂考公人看到这两张的救赎感",
@@ -9353,6 +9425,14 @@
       "onboard_time": 1761733461,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121430,
+      "num": 121430,
+      "word": "刘亦菲带火满天星",
+      "onboard_time": 1761800662,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 121248,
@@ -9521,6 +9601,14 @@
       "onboard_time": 1761441559,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 119487,
+      "num": 114879,
+      "word": "星穹铁道反铁墓战争最新资讯",
+      "onboard_time": 1761801381,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 119466,
@@ -9945,6 +10033,14 @@
       "onboard_time": 1761569661,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114931,
+      "num": 114931,
+      "word": "詹姆斯说里夫斯牛大发了",
+      "onboard_time": 1761800482,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 114630,
@@ -10475,14 +10571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109847,
-      "num": 109847,
-      "word": "拖堂都拖到婚姻的殿堂了",
-      "onboard_time": 1761799342,
-      "rank": 42,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 109802,
       "num": 109802,
       "word": "邓妍唯一高位女性角色",
@@ -10745,6 +10833,14 @@
       "onboard_time": 1761748522,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107591,
+      "num": 107591,
+      "word": "女孩要卖房留学起诉重病父亲",
+      "onboard_time": 1761799463,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107310,
@@ -11235,14 +11331,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 102169,
-      "num": 102169,
-      "word": "再见爱人5",
-      "onboard_time": 1761799404,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102106,
       "num": 113736,
       "word": "陈哲远好吃到吧唧嘴",
@@ -11281,6 +11369,14 @@
       "onboard_time": 1761460099,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101877,
+      "num": 101877,
+      "word": "本喵电量已耗尽",
+      "onboard_time": 1761801263,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 101840,
@@ -11547,6 +11643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99404,
+      "num": 99404,
+      "word": "周柯宇赵晴试戏片段",
+      "onboard_time": 1761800123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99369,
       "num": 118235,
       "word": "14国发表联合声明",
@@ -11617,6 +11721,14 @@
       "onboard_time": 1761574880,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "成毅天地剑心总榜第一",
+      "onboard_time": 1761799524,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 98596,
@@ -13363,6 +13475,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 68951,
+      "num": 121784,
+      "word": "维嘉说何老师是买单王",
+      "onboard_time": 1761801863,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68872,
       "num": 113719,
       "word": "王楚钦回应获得香港总决赛资格",
@@ -14259,6 +14379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 50962,
+      "num": 208710,
+      "word": "好运接接接接波1折好货",
+      "onboard_time": 1761800783,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50672,
       "num": 50672,
       "word": "宁绣绣封二又相聚了",
@@ -14404,7 +14532,7 @@
     },
     {
       "raw_hot": 48185,
-      "num": 191151,
+      "num": 314170,
       "word": "神21瞄准31日23时44分发射",
       "onboard_time": 1761787879,
       "rank": 20,
@@ -14497,6 +14625,14 @@
       "onboard_time": 1761577462,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45961,
+      "num": 209131,
+      "word": "双11给你指条明道",
+      "onboard_time": 1761800783,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 45793,
@@ -14699,6 +14835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40977,
+      "num": 97009,
+      "word": "好信用派上用场了",
+      "onboard_time": 1761800962,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 40527,
       "num": 159371,
       "word": "大爷发现女友患病要求退彩礼",
@@ -14833,6 +14977,14 @@
       "onboard_time": 1761664102,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37652,
+      "num": 120974,
+      "word": "变老是从哪一刻开始的",
+      "onboard_time": 1761800482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37580,
@@ -14980,7 +15132,7 @@
     },
     {
       "raw_hot": 34814,
-      "num": 700304,
+      "num": 796403,
       "word": "跟着这张思维导图学十五五规划建议",
       "onboard_time": 1761757638,
       "rank": 39,

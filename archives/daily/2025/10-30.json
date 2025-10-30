@@ -1,7 +1,15 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761799463726,
+  "endTime": 1761801974857,
   "band_list": [
+    {
+      "raw_hot": 4929141,
+      "num": 302050,
+      "word": "江一燕离婚",
+      "onboard_time": 1761799282,
+      "rank": 33,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1390931,
       "num": 1390931,
@@ -67,12 +75,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 855641,
+      "num": 1136902,
+      "word": "高市早苗当面拒绝美国要求",
+      "onboard_time": 1761800363,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 837050,
       "num": 870664,
       "word": "Elk发文澄清",
       "onboard_time": 1761745042,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 815293,
+      "num": 815293,
+      "word": "大学生集体染上水龙瘾了",
+      "onboard_time": 1761796821,
+      "rank": 8,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 774709,
@@ -107,7 +131,7 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 626829,
+      "raw_hot": 629405,
       "num": 328790,
       "word": "37岁阚清子孕晚期状态",
       "onboard_time": 1761798142,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371128,
-      "num": 371128,
-      "word": "大学生集体染上水龙瘾了",
-      "onboard_time": 1761796821,
-      "rank": 8,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 363349,
       "num": 415843,
       "word": "高反失温女孩昏迷19天后苏醒",
@@ -259,20 +275,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 341970,
+      "num": 341970,
+      "word": "里夫斯绝杀森林狼",
+      "onboard_time": 1761798263,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331242,
       "num": 224140,
       "word": "瘦了以后面相反而变差了",
       "onboard_time": 1761781639,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 331177,
-      "num": 331177,
-      "word": "里夫斯绝杀森林狼",
-      "onboard_time": 1761798263,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 321204,
@@ -311,6 +327,14 @@
       "num": 417475,
       "word": "杨雨光 李明磊",
       "onboard_time": 1761750323,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278083,
+      "num": 278083,
+      "word": "向太说嫁入豪门基本不幸福",
+      "onboard_time": 1761800903,
       "rank": 14,
       "category": "艺人"
     },
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230950,
+      "num": 281406,
+      "word": "再见爱人5",
+      "onboard_time": 1761799404,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230335,
       "num": 417048,
       "word": "酷酷的滕 团里有人结婚了吗",
@@ -425,6 +457,14 @@
       "onboard_time": 1761794781,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208487,
+      "num": 208487,
+      "word": "原来女明星们候场也坐塑料凳子",
+      "onboard_time": 1761800063,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 207566,
@@ -497,6 +537,14 @@
       "onboard_time": 1761775875,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192483,
+      "num": 192483,
+      "word": "鞠婧祎发型师起诉丝芭传媒",
+      "onboard_time": 1761800182,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 192095,
@@ -707,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146172,
+      "num": 146172,
+      "word": "A股",
+      "onboard_time": 1761795081,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145723,
       "num": 145723,
       "word": "神21任务清单",
@@ -747,19 +803,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137465,
+      "num": 137465,
+      "word": "拖堂都拖到婚姻的殿堂了",
+      "onboard_time": 1761799342,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 136620,
       "num": 155831,
       "word": "秦昊去哪都要给女儿报备",
       "onboard_time": 1761796523,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136378,
-      "num": 136378,
-      "word": "江一燕离婚",
-      "onboard_time": 1761799282,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -777,6 +833,14 @@
       "onboard_time": 1761787940,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 131644,
+      "num": 148973,
+      "word": "支付方式变了盗窃手段也升级了",
+      "onboard_time": 1761801381,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 129147,
@@ -811,6 +875,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122961,
+      "num": 122961,
+      "word": "黄磊调侃自己被网上传得像在ICU",
+      "onboard_time": 1761801022,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121783,
+      "num": 148288,
+      "word": "2025微博视界大会第四波阵容官宣",
+      "onboard_time": 1761801562,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121430,
+      "num": 121430,
+      "word": "刘亦菲带火满天星",
+      "onboard_time": 1761800662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120217,
       "num": 120217,
       "word": "女推三不加人",
@@ -833,6 +921,14 @@
       "onboard_time": 1761798202,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119487,
+      "num": 114879,
+      "word": "星穹铁道反铁墓战争最新资讯",
+      "onboard_time": 1761801381,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 117852,
@@ -873,6 +969,14 @@
       "onboard_time": 1761790101,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114931,
+      "num": 114931,
+      "word": "詹姆斯说里夫斯牛大发了",
+      "onboard_time": 1761800482,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112757,
@@ -923,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109847,
-      "num": 109847,
-      "word": "拖堂都拖到婚姻的殿堂了",
-      "onboard_time": 1761799342,
-      "rank": 42,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 109473,
       "num": 109473,
       "word": "江西一老人持锄头进店砸向女店员",
@@ -939,20 +1035,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109148,
-      "num": 109148,
-      "word": "A股",
-      "onboard_time": 1761795081,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
       "onboard_time": 1761752900,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107591,
+      "num": 107591,
+      "word": "女孩要卖房留学起诉重病父亲",
+      "onboard_time": 1761799463,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106277,
@@ -1019,20 +1115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102169,
-      "num": 102169,
-      "word": "再见爱人5",
-      "onboard_time": 1761799404,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101984,
       "num": 125146,
       "word": "国乒男单3人均止步首轮",
       "onboard_time": 1761784702,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101877,
+      "num": 101877,
+      "word": "本喵电量已耗尽",
+      "onboard_time": 1761801263,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 100200,
@@ -1049,6 +1145,22 @@
       "onboard_time": 1761787520,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99404,
+      "num": 99404,
+      "word": "周柯宇赵晴试戏片段",
+      "onboard_time": 1761800123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "成毅天地剑心总榜第一",
+      "onboard_time": 1761799524,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 98051,
@@ -1243,6 +1355,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 68951,
+      "num": 121784,
+      "word": "维嘉说何老师是买单王",
+      "onboard_time": 1761801863,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68758,
       "num": 153366,
       "word": "航天员张陆武飞张洪章",
@@ -1371,6 +1491,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 50962,
+      "num": 208710,
+      "word": "好运接接接接波1折好货",
+      "onboard_time": 1761800783,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49812,
       "num": 404524,
       "word": "Knight开播回应特别想打T1",
@@ -1396,7 +1524,7 @@
     },
     {
       "raw_hot": 48185,
-      "num": 191151,
+      "num": 314170,
       "word": "神21瞄准31日23时44分发射",
       "onboard_time": 1761787879,
       "rank": 20,
@@ -1409,6 +1537,14 @@
       "onboard_time": 1761748103,
       "rank": 46,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 45961,
+      "num": 209131,
+      "word": "双11给你指条明道",
+      "onboard_time": 1761800783,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 45259,
@@ -1475,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40977,
+      "num": 97009,
+      "word": "好信用派上用场了",
+      "onboard_time": 1761800962,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 40328,
       "num": 503210,
       "word": "中国是韩国第一大贸易伙伴国",
@@ -1523,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37652,
+      "num": 120974,
+      "word": "变老是从哪一刻开始的",
+      "onboard_time": 1761800482,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35101,
       "num": 403233,
       "word": "中国国家队祝福冬奥健儿",
@@ -1540,7 +1692,7 @@
     },
     {
       "raw_hot": 34814,
-      "num": 700304,
+      "num": 796403,
       "word": "跟着这张思维导图学十五五规划建议",
       "onboard_time": 1761757638,
       "rank": 39,
