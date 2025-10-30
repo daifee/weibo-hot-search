@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761845125344,
+  "endTime": 1761846172672,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -6113,6 +6113,14 @@
       "onboard_time": 1761624506,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182926,
+      "num": 599730,
+      "word": "重庆一大学老师被指刻薄魅男",
+      "onboard_time": 1761842658,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182885,
@@ -14715,14 +14723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82792,
-      "num": 599730,
-      "word": "重庆一大学老师被指刻薄魅男",
-      "onboard_time": 1761842658,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82736,
       "num": 82736,
       "word": "仙逆动画",
@@ -17769,6 +17769,14 @@
       "onboard_time": 1761596833,
       "rank": 43,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 25910,
+      "num": 265820,
+      "word": "陈丽君年度文化传承创新演员",
+      "onboard_time": 1761845237,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 25663,
