@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761816546190,
+  "endTime": 1761817397458,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647261,
+      "num": 647261,
+      "word": "微信三大新功能",
+      "onboard_time": 1761815540,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 647034,
       "num": 307212,
       "word": "杨清柠王乐乐同框",
@@ -1787,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530494,
+      "num": 171268,
+      "word": "金价反弹",
+      "onboard_time": 1761815242,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 530451,
       "num": 231241,
       "word": "印度女医生遭警察多次性侵绝望自杀",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1761718880,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 486333,
+      "num": 170142,
+      "word": "重庆工商大学涉事学生道歉",
+      "onboard_time": 1761816382,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484594,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1761619640,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438221,
-      "num": 171268,
-      "word": "金价反弹",
-      "onboard_time": 1761815242,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 437941,
@@ -3131,14 +3147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315470,
-      "num": 315470,
-      "word": "微信三大新功能",
-      "onboard_time": 1761815540,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 314805,
       "num": 210670,
       "word": "红舞鞋剧组工作人员回复",
@@ -3283,6 +3291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 300262,
+      "num": 300262,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 300245,
       "num": 251525,
       "word": "易烊千玺参加了毕业聚餐",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1761721340,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 293773,
-      "num": 293773,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 293767,
@@ -3416,6 +3424,14 @@
       "word": "张本智和笑不出来一点",
       "onboard_time": 1761545960,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288718,
+      "num": 288718,
+      "word": "陈芋汐巴黎奥运会后想逃",
+      "onboard_time": 1761813021,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -4699,6 +4715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209441,
+      "num": 167755,
+      "word": "叠穿",
+      "onboard_time": 1761814941,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 209230,
       "num": 209230,
       "word": "43名新生弃读东华大学不必公告姓名",
@@ -4761,14 +4785,6 @@
       "onboard_time": 1761537620,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204972,
-      "num": 222875,
-      "word": "陈芋汐巴黎奥运会后想逃",
-      "onboard_time": 1761813021,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 204927,
@@ -4969,14 +4985,6 @@
       "onboard_time": 1761546501,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199162,
-      "num": 149880,
-      "word": "重庆工商大学涉事学生道歉",
-      "onboard_time": 1761816382,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198989,
@@ -5249,6 +5257,14 @@
       "onboard_time": 1761705919,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192747,
+      "num": 170658,
+      "word": "宋茜微博转发区",
+      "onboard_time": 1761815962,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 192662,
@@ -5673,6 +5689,14 @@
       "onboard_time": 1761627624,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183981,
+      "num": 183981,
+      "word": "天地剑心仙改",
+      "onboard_time": 1761816382,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183730,
@@ -6267,14 +6291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170658,
-      "num": 170658,
-      "word": "宋茜微博转发区",
-      "onboard_time": 1761815962,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170528,
       "num": 170528,
       "word": "杨幂ELLE盛典第一个登岛",
@@ -6697,6 +6713,14 @@
       "onboard_time": 1761619159,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163442,
+      "num": 163442,
+      "word": "特朗普座驾现身韩国街头",
+      "onboard_time": 1761815181,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162997,
@@ -7467,6 +7491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151604,
+      "num": 151604,
+      "word": "15万创业后卖labubu娃衣赚疯了",
+      "onboard_time": 1761816081,
+      "rank": 29,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 151600,
       "num": 248596,
       "word": "TES战胜BLG",
@@ -7569,14 +7601,6 @@
       "onboard_time": 1761549320,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150108,
-      "num": 150108,
-      "word": "15万创业后卖labubu娃衣赚疯了",
-      "onboard_time": 1761816081,
-      "rank": 29,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 150003,
@@ -7683,20 +7707,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147926,
-      "num": 147926,
-      "word": "叠穿",
-      "onboard_time": 1761814941,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 147750,
       "num": 147750,
       "word": "工业富联今年累涨超300%",
       "onboard_time": 1761794781,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147468,
+      "num": 147468,
+      "word": "女子赌博输1300万卷跑公司2000万",
+      "onboard_time": 1761813983,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147366,
@@ -8443,14 +8467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137023,
-      "num": 137023,
-      "word": "特朗普座驾现身韩国街头",
-      "onboard_time": 1761815181,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137008,
       "num": 137008,
       "word": "金饰克价一夜猛跌17元",
@@ -8865,14 +8881,6 @@
       "onboard_time": 1761813021,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132651,
-      "num": 132651,
-      "word": "女子赌博输1300万卷跑公司2000万",
-      "onboard_time": 1761813983,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132601,
@@ -9315,6 +9323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128742,
+      "num": 128742,
+      "word": "蕉内地铁广告被指辣眼",
+      "onboard_time": 1761816862,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128718,
       "num": 128718,
       "word": "龚俊说自己唱歌跟刘宇宁不相上下",
@@ -9409,14 +9425,6 @@
       "onboard_time": 1761468621,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127634,
-      "num": 145139,
-      "word": "天地剑心仙改",
-      "onboard_time": 1761816382,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 127597,
@@ -9715,6 +9723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124122,
+      "num": 124122,
+      "word": "残疾人看完郑智化道歉夜不能寐",
+      "onboard_time": 1761816142,
+      "rank": 44,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 124107,
       "num": 124106,
       "word": "樊振东聊爸妈的缘分",
@@ -9817,14 +9833,6 @@
       "onboard_time": 1761470781,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123250,
-      "num": 123250,
-      "word": "残疾人看完郑智化道歉夜不能寐",
-      "onboard_time": 1761816142,
-      "rank": 44,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 123224,
@@ -10659,6 +10667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114117,
+      "num": 147932,
+      "word": "张檬曾多次表示整容葬送了演艺生涯",
+      "onboard_time": 1761816561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114073,
       "num": 195204,
       "word": "这和自己亲生的有什么区别",
@@ -10956,7 +10972,7 @@
     },
     {
       "raw_hot": 112075,
-      "num": 112075,
+      "num": 138323,
       "word": "孙颖莎积极备战全运会",
       "onboard_time": 1761816501,
       "rank": 48,
@@ -11545,6 +11561,14 @@
       "onboard_time": 1761735020,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106654,
+      "num": 106654,
+      "word": "Ning说G2是TES充电宝",
+      "onboard_time": 1761814941,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 106610,
@@ -12233,6 +12257,14 @@
       "onboard_time": 1761609620,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100041,
+      "num": 289241,
+      "word": "京东今晚8点再加补",
+      "onboard_time": 1761811520,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 100019,
@@ -13515,6 +13547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85686,
+      "num": 183404,
+      "word": "中国女数学家王虹接连斩获两项大奖",
+      "onboard_time": 1761815301,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85487,
       "num": 159992,
       "word": "全球投资者撤资印度急了",
@@ -13608,6 +13648,14 @@
       "word": "当地再通报女童被水泥杆砸中身亡",
       "onboard_time": 1761798623,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83749,
+      "num": 187542,
+      "word": "采销直播间比价到账1万",
+      "onboard_time": 1761815301,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -14051,14 +14099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75215,
-      "num": 187542,
-      "word": "采销直播间比价到账1万",
-      "onboard_time": 1761815301,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75155,
       "num": 75155,
       "word": "50名学生因1特殊学生集体不上课",
@@ -14387,14 +14427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67234,
-      "num": 289241,
-      "word": "京东今晚8点再加补",
-      "onboard_time": 1761811520,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 66947,
       "num": 66947,
       "word": "网红罗大美遇害案三被告均上诉",
@@ -14561,6 +14593,14 @@
       "onboard_time": 1761582919,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63885,
+      "num": 132652,
+      "word": "明星们为何都在上身波司登AREAL系列",
+      "onboard_time": 1761816021,
+      "rank": 40,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 63875,
@@ -15003,6 +15043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56766,
+      "num": 132740,
+      "word": "国家一级运动员捐3个器官2个组织",
+      "onboard_time": 1761816021,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 56559,
       "num": 56559,
       "word": "两岸统一后有哪些利好",
@@ -15035,14 +15083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55534,
-      "num": 132740,
-      "word": "国家一级运动员捐3个器官2个组织",
-      "onboard_time": 1761816021,
-      "rank": 38,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 55352,
       "num": 199012,
       "word": "消费者称面包袋里的蟑螂咬开口子溜了",
@@ -15073,14 +15113,6 @@
       "onboard_time": 1761528441,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54774,
-      "num": 132652,
-      "word": "明星们为何都在上身波司登AREAL系列",
-      "onboard_time": 1761816021,
-      "rank": 40,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 54702,
@@ -15667,14 +15699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42847,
-      "num": 183404,
-      "word": "中国女数学家王虹接连斩获两项大奖",
-      "onboard_time": 1761815301,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42649,
       "num": 101762,
       "word": "喜人奇妙夜2",
@@ -16259,6 +16283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30691,
+      "num": 385325,
+      "word": "2025APEC",
+      "onboard_time": 1761814223,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30686,
       "num": 41015,
       "word": "抑郁症的躯体症状到底有多痛苦",
@@ -16371,14 +16403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28119,
-      "num": 335566,
-      "word": "2025APEC",
-      "onboard_time": 1761814223,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27986,
       "num": 1073141,
       "word": "广电精品创作大会来了",
@@ -16388,7 +16412,7 @@
     },
     {
       "raw_hot": 27978,
-      "num": 132675,
+      "num": 137993,
       "word": "水泥杆砸死女童为何找不出责任方",
       "onboard_time": 1761816200,
       "rank": 39,
@@ -16641,6 +16665,14 @@
       "onboard_time": 1761492144,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23636,
+      "num": 138224,
+      "word": "张檬最后一次拍戏是在8年前",
+      "onboard_time": 1761817224,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23539,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761816546190,
+  "endTime": 1761817397458,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647261,
+      "num": 647261,
+      "word": "微信三大新功能",
+      "onboard_time": 1761815540,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 634015,
       "num": 926511,
       "word": "新毒株甲型H3N2来袭",
@@ -275,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 530494,
+      "num": 171268,
+      "word": "金价反弹",
+      "onboard_time": 1761815242,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 517341,
       "num": 288481,
       "word": "关税",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486333,
+      "num": 170142,
+      "word": "重庆工商大学涉事学生道歉",
+      "onboard_time": 1761816382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480410,
       "num": 285979,
       "word": "李一桐 我下部戏必须带你进组了",
@@ -321,14 +345,6 @@
       "onboard_time": 1761780738,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 438221,
-      "num": 171268,
-      "word": "金价反弹",
-      "onboard_time": 1761815242,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 437941,
@@ -459,20 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 315470,
-      "num": 315470,
-      "word": "微信三大新功能",
-      "onboard_time": 1761815540,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
       "onboard_time": 1761788119,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300262,
+      "num": 300262,
+      "word": "TES对战G2",
+      "onboard_time": 1761807321,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 298867,
@@ -483,12 +499,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 293773,
-      "num": 293773,
-      "word": "TES对战G2",
-      "onboard_time": 1761807321,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 288718,
+      "num": 288718,
+      "word": "陈芋汐巴黎奥运会后想逃",
+      "onboard_time": 1761813021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 286182,
@@ -675,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209441,
+      "num": 167755,
+      "word": "叠穿",
+      "onboard_time": 1761814941,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 207566,
       "num": 207566,
       "word": "你的50块正在揍你的3000块",
@@ -691,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204972,
-      "num": 222875,
-      "word": "陈芋汐巴黎奥运会后想逃",
-      "onboard_time": 1761813021,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202747,
       "num": 202747,
       "word": "王昱中戏毕业表演0分",
@@ -712,14 +728,6 @@
       "word": "女子照出全家发光源头竟是洗衣粉",
       "onboard_time": 1761781881,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199162,
-      "num": 149880,
-      "word": "重庆工商大学涉事学生道歉",
-      "onboard_time": 1761816382,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -779,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192747,
+      "num": 170658,
+      "word": "宋茜微博转发区",
+      "onboard_time": 1761815962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192483,
       "num": 192483,
       "word": "鞠婧祎发型师起诉丝芭传媒",
@@ -835,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183981,
+      "num": 183981,
+      "word": "天地剑心仙改",
+      "onboard_time": 1761816382,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182733,
       "num": 143637,
       "word": "专家称恐怖片才是焦虑情绪良药",
@@ -881,14 +905,6 @@
       "onboard_time": 1761790340,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170658,
-      "num": 170658,
-      "word": "宋茜微博转发区",
-      "onboard_time": 1761815962,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 168949,
@@ -961,6 +977,14 @@
       "onboard_time": 1761811102,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163442,
+      "num": 163442,
+      "word": "特朗普座驾现身韩国街头",
+      "onboard_time": 1761815181,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162629,
@@ -1043,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151604,
+      "num": 151604,
+      "word": "15万创业后卖labubu娃衣赚疯了",
+      "onboard_time": 1761816081,
+      "rank": 29,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 151593,
       "num": 151593,
       "word": "藏马熊进村咬死并拖走一条狗",
@@ -1075,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150108,
-      "num": 150108,
-      "word": "15万创业后卖labubu娃衣赚疯了",
-      "onboard_time": 1761816081,
-      "rank": 29,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 149930,
       "num": 149930,
       "word": "甲流合胞病毒鼻病毒都来了",
@@ -1091,20 +1115,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 147926,
-      "num": 147926,
-      "word": "叠穿",
-      "onboard_time": 1761814941,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 147750,
       "num": 147750,
       "word": "工业富联今年累涨超300%",
       "onboard_time": 1761794781,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147468,
+      "num": 147468,
+      "word": "女子赌博输1300万卷跑公司2000万",
+      "onboard_time": 1761813983,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147424,
@@ -1211,14 +1235,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 137023,
-      "num": 137023,
-      "word": "特朗普座驾现身韩国街头",
-      "onboard_time": 1761815181,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136620,
       "num": 155831,
       "word": "秦昊去哪都要给女儿报备",
@@ -1275,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132651,
-      "num": 132651,
-      "word": "女子赌博输1300万卷跑公司2000万",
-      "onboard_time": 1761813983,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132312,
       "num": 132312,
       "word": "黄金手镯和皮带扣涂成银色入境被查",
@@ -1331,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127634,
-      "num": 145139,
-      "word": "天地剑心仙改",
-      "onboard_time": 1761816382,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 128742,
+      "num": 128742,
+      "word": "蕉内地铁广告被指辣眼",
+      "onboard_time": 1761816862,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126770,
@@ -1395,8 +1403,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 123250,
-      "num": 123250,
+      "raw_hot": 124122,
+      "num": 124122,
       "word": "残疾人看完郑智化道歉夜不能寐",
       "onboard_time": 1761816142,
       "rank": 44,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1761802525,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122098,
+      "num": 122098,
+      "word": "英雄联盟",
+      "onboard_time": 1761817102,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 121783,
@@ -1563,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114117,
+      "num": 147932,
+      "word": "张檬曾多次表示整容葬送了演艺生涯",
+      "onboard_time": 1761816561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113552,
       "num": 113552,
       "word": "劳斯莱斯换胎大娘将螺丝当废品顺走",
@@ -1620,7 +1644,7 @@
     },
     {
       "raw_hot": 112075,
-      "num": 112075,
+      "num": 138323,
       "word": "孙颖莎积极备战全运会",
       "onboard_time": 1761816501,
       "rank": 48,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1761814041,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 106654,
+      "num": 106654,
+      "word": "Ning说G2是TES充电宝",
+      "onboard_time": 1761814941,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 106277,
@@ -1825,6 +1857,14 @@
       "onboard_time": 1761791179,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100041,
+      "num": 289241,
+      "word": "京东今晚8点再加补",
+      "onboard_time": 1761811520,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 100019,
@@ -2011,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85686,
+      "num": 183404,
+      "word": "中国女数学家王虹接连斩获两项大奖",
+      "onboard_time": 1761815301,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85081,
       "num": 414129,
       "word": "坚持晚睡一个小时的身体变化",
@@ -2048,6 +2096,14 @@
       "word": "当地再通报女童被水泥杆砸中身亡",
       "onboard_time": 1761798623,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83749,
+      "num": 187542,
+      "word": "采销直播间比价到账1万",
+      "onboard_time": 1761815301,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2115,14 +2171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 75215,
-      "num": 187542,
-      "word": "采销直播间比价到账1万",
-      "onboard_time": 1761815301,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72615,
       "num": 413065,
       "word": "王权富贵被万剑穿心我等了两年",
@@ -2171,14 +2219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67234,
-      "num": 289241,
-      "word": "京东今晚8点再加补",
-      "onboard_time": 1761811520,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 66420,
       "num": 251828,
       "word": "京东暖心留言",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1761748464,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63885,
+      "num": 132652,
+      "word": "明星们为何都在上身波司登AREAL系列",
+      "onboard_time": 1761816021,
+      "rank": 40,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 63057,
@@ -2299,15 +2347,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55552,
-      "num": 192028,
-      "word": "西安省级文保户县钟楼深夜被撞",
-      "onboard_time": 1761802583,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55534,
+      "raw_hot": 56766,
       "num": 132740,
       "word": "国家一级运动员捐3个器官2个组织",
       "onboard_time": 1761816021,
@@ -2315,12 +2355,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 54774,
-      "num": 132652,
-      "word": "明星们为何都在上身波司登AREAL系列",
-      "onboard_time": 1761816021,
-      "rank": 40,
-      "category": "时尚,作品衍生"
+      "raw_hot": 55552,
+      "num": 192028,
+      "word": "西安省级文保户县钟楼深夜被撞",
+      "onboard_time": 1761802583,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54661,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1761797722,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42847,
-      "num": 183404,
-      "word": "中国女数学家王虹接连斩获两项大奖",
-      "onboard_time": 1761815301,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42649,
@@ -2643,6 +2675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30691,
+      "num": 385325,
+      "word": "2025APEC",
+      "onboard_time": 1761814223,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29296,
       "num": 402970,
       "word": "北京发布大雾预警",
@@ -2659,16 +2699,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28119,
-      "num": 335566,
-      "word": "2025APEC",
-      "onboard_time": 1761814223,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27978,
-      "num": 132675,
+      "num": 137993,
       "word": "水泥杆砸死女童为何找不出责任方",
       "onboard_time": 1761816200,
       "rank": 39,
@@ -2689,6 +2721,14 @@
       "onboard_time": 1761759496,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23636,
+      "num": 138224,
+      "word": "张檬最后一次拍戏是在8年前",
+      "onboard_time": 1761817224,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23539,

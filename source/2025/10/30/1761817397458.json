@@ -1,0 +1,410 @@
+{
+  "runTime": 1761817397458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969406,
+        "num": 1155105,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 647261,
+        "num": 647261,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30691,
+        "num": 385325,
+        "word": "2025APEC",
+        "onboard_time": 1761814223,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383401,
+        "num": 383401,
+        "word": "卢浮宫追回的失窃皇冠被压平",
+        "onboard_time": 1761809242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300262,
+        "num": 300262,
+        "word": "TES对战G2",
+        "onboard_time": 1761807321,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296254,
+        "num": 296254,
+        "word": "TES 陌生",
+        "onboard_time": 1761811161,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 288718,
+        "num": 288718,
+        "word": "陈芋汐巴黎奥运会后想逃",
+        "onboard_time": 1761813021,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193339,
+        "num": 193339,
+        "word": "美方暂停对华海事等301调查",
+        "onboard_time": 1761810561,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183981,
+        "num": 183981,
+        "word": "天地剑心仙改",
+        "onboard_time": 1761816382,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171549,
+        "num": 171549,
+        "word": "高市早苗当面拒绝美国要求",
+        "onboard_time": 1761800363,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604573,
+        "num": 171088,
+        "word": "第二杯半价不是让你一个人喝两杯的",
+        "onboard_time": 1761809180,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 567584,
+        "num": 170783,
+        "word": "荷兰",
+        "onboard_time": 1761814102,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486333,
+        "num": 170142,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372278,
+        "num": 169366,
+        "word": "李一桐 我下部戏必须带你进组了",
+        "onboard_time": 1761812001,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370094,
+        "num": 169187,
+        "word": "大学法学老师被学生吐槽称将起诉",
+        "onboard_time": 1761803963,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300288,
+        "num": 168127,
+        "word": "关晓彤聊了半天没认出吴彤",
+        "onboard_time": 1761812541,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 167755,
+        "word": "叠穿",
+        "onboard_time": 1761814941,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207583,
+        "num": 167039,
+        "word": "关税",
+        "onboard_time": 1761811341,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201898,
+        "num": 166875,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83749,
+        "num": 166192,
+        "word": "采销直播间比价到账1万",
+        "onboard_time": 1761815301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1507602,
+        "num": 165189,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530494,
+        "num": 165074,
+        "word": "金价反弹",
+        "onboard_time": 1761815242,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416359,
+        "num": 164339,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192747,
+        "num": 163718,
+        "word": "宋茜微博转发区",
+        "onboard_time": 1761815962,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163442,
+        "num": 163442,
+        "word": "特朗普座驾现身韩国街头",
+        "onboard_time": 1761815181,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153129,
+        "num": 153129,
+        "word": "黄晓明说很羡慕易烊千玺朱一龙",
+        "onboard_time": 1761807321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151604,
+        "num": 151604,
+        "word": "15万创业后卖labubu娃衣赚疯了",
+        "onboard_time": 1761816081,
+        "rank": 26,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 151304,
+        "num": 151304,
+        "word": "给中美和世界经济吃下一颗定心丸",
+        "onboard_time": 1761806662,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114117,
+        "num": 147932,
+        "word": "张檬曾多次表示整容葬送了演艺生涯",
+        "onboard_time": 1761816561,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108545,
+        "num": 147495,
+        "word": "张洪章将带项目在天上开展实验",
+        "onboard_time": 1761804382,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147468,
+        "num": 147468,
+        "word": "女子赌博输1300万卷跑公司2000万",
+        "onboard_time": 1761813983,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147091,
+        "num": 147091,
+        "word": "甲沟炎 剪v字",
+        "onboard_time": 1761806542,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142726,
+        "num": 142726,
+        "word": "原来音综迪丽热巴实力这么强",
+        "onboard_time": 1761813261,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "江一燕前夫是导演赵汉唐",
+        "onboard_time": 1761805942,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138688,
+        "num": 138688,
+        "word": "王楚然对白鹿生理性喜欢",
+        "onboard_time": 1761802943,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85686,
+        "num": 138664,
+        "word": "中国女数学家王虹接连斩获两项大奖",
+        "onboard_time": 1761815301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100041,
+        "num": 138419,
+        "word": "京东今晚8点再加补",
+        "onboard_time": 1761811520,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99100,
+        "num": 138323,
+        "word": "孙颖莎积极备战全运会",
+        "onboard_time": 1761816501,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23636,
+        "num": 138224,
+        "word": "张檬最后一次拍戏是在8年前",
+        "onboard_time": 1761817224,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26955,
+        "num": 137993,
+        "word": "水泥杆砸死女童为何找不出责任方",
+        "onboard_time": 1761816200,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "阿水Flandre有望加入BeryL俱乐部",
+        "onboard_time": 1761811223,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134489,
+        "num": 134489,
+        "word": "十日终焉齐夏",
+        "onboard_time": 1761813261,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63885,
+        "num": 129046,
+        "word": "明星们为何都在上身波司登AREAL系列",
+        "onboard_time": 1761816021,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 56766,
+        "num": 128835,
+        "word": "国家一级运动员捐3个器官2个组织",
+        "onboard_time": 1761816021,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128742,
+        "num": 128742,
+        "word": "蕉内地铁广告被指辣眼",
+        "onboard_time": 1761816862,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124122,
+        "num": 124122,
+        "word": "残疾人看完郑智化道歉夜不能寐",
+        "onboard_time": 1761816142,
+        "rank": 45,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 122098,
+        "num": 122098,
+        "word": "英雄联盟",
+        "onboard_time": 1761817102,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112338,
+        "num": 112338,
+        "word": "小鱼海棠婚礼镜头签",
+        "onboard_time": 1761811102,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106654,
+        "num": 106654,
+        "word": "Ning说G2是TES充电宝",
+        "onboard_time": 1761814941,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102759,
+        "num": 102759,
+        "word": "苹果包烤肉",
+        "onboard_time": 1761816322,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首韩国釜山会晤#"
+    }
+  }
+}
