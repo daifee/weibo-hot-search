@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761806278535,
+  "endTime": 1761807078147,
   "band_list": [
     {
       "raw_hot": 6469656,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 848138,
+      "num": 299977,
+      "word": "十日终焉 肖战",
+      "onboard_time": 1761804142,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837050,
       "num": 870664,
       "word": "Elk发文澄清",
@@ -115,14 +123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 725978,
-      "num": 299977,
-      "word": "十日终焉 肖战",
-      "onboard_time": 1761804142,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 708035,
       "num": 273294,
       "word": "胡歌直言无法走出母亲去世阴影",
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647651,
+      "num": 203213,
+      "word": "江一燕前夫是导演赵汉唐",
+      "onboard_time": 1761805942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634015,
       "num": 926511,
       "word": "新毒株甲型H3N2来袭",
       "onboard_time": 1761745042,
       "rank": 4,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 630576,
+      "num": 204519,
+      "word": "稀土",
+      "onboard_time": 1761802043,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 610562,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 566021,
-      "num": 204519,
-      "word": "稀土",
-      "onboard_time": 1761802043,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 539958,
       "num": 539958,
       "word": "特朗普回应会晤",
@@ -227,7 +235,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 459034,
+      "raw_hot": 497075,
       "num": 278083,
       "word": "向太说嫁入豪门基本不幸福",
       "onboard_time": 1761800903,
@@ -257,6 +265,14 @@
       "onboard_time": 1761752121,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406351,
+      "num": 203338,
+      "word": "王楚然对白鹿生理性喜欢",
+      "onboard_time": 1761802943,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 404927,
@@ -307,28 +323,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 348095,
-      "num": 203338,
-      "word": "王楚然对白鹿生理性喜欢",
-      "onboard_time": 1761802943,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341970,
       "num": 341970,
       "word": "里夫斯绝杀森林狼",
       "onboard_time": 1761798263,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335048,
-      "num": 203213,
-      "word": "江一燕前夫是导演赵汉唐",
-      "onboard_time": 1761805942,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 331242,
@@ -419,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255193,
+      "num": 208487,
+      "word": "原来女明星们候场也坐塑料凳子",
+      "onboard_time": 1761800063,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250761,
       "num": 418191,
       "word": "男子遭多次刑讯逼供后死亡11人被判刑",
@@ -443,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243176,
-      "num": 208487,
-      "word": "原来女明星们候场也坐塑料凳子",
-      "onboard_time": 1761800063,
+      "raw_hot": 244623,
+      "num": 198964,
+      "word": "黄景瑜敖瑞鹏都生不出这么像的",
+      "onboard_time": 1761804142,
       "rank": 20,
-      "category": "艺人"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236038,
+      "num": 202660,
+      "word": "吃播网红回应在高铁边吃边吐2小时",
+      "onboard_time": 1761802644,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230950,
@@ -473,14 +489,6 @@
       "onboard_time": 1761781639,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222419,
-      "num": 198964,
-      "word": "黄景瑜敖瑞鹏都生不出这么像的",
-      "onboard_time": 1761804142,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 222347,
@@ -539,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202660,
-      "num": 202660,
-      "word": "吃播网红回应在高铁边吃边吐2小时",
-      "onboard_time": 1761802644,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200191,
       "num": 190829,
       "word": "女子照出全家发光源头竟是洗衣粉",
@@ -601,6 +601,14 @@
       "onboard_time": 1761775875,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193368,
+      "num": 193368,
+      "word": "大学法学老师被学生吐槽称将起诉",
+      "onboard_time": 1761803963,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192483,
@@ -683,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174400,
+      "num": 193424,
+      "word": "成毅天地剑心飙升190%",
+      "onboard_time": 1761806481,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172649,
       "num": 172649,
       "word": "杨瀚森勾手得分",
       "onboard_time": 1761790340,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172574,
+      "num": 136383,
+      "word": "甲沟炎 剪v字",
+      "onboard_time": 1761806542,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 168843,
@@ -819,14 +843,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150391,
-      "num": 150391,
-      "word": "大学法学老师被学生吐槽称将起诉",
-      "onboard_time": 1761803963,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150355,
       "num": 150355,
       "word": "李一桐bg之光",
@@ -915,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139416,
+      "num": 208308,
+      "word": "给中美和世界经济吃下一颗定心丸",
+      "onboard_time": 1761806662,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138612,
       "num": 138612,
       "word": "李沁马思纯怪不得你俩能玩到一块",
@@ -939,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "甲流合胞病毒鼻病毒都来了",
+      "onboard_time": 1761806241,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 133983,
       "num": 225347,
       "word": "喜人 乱成一锅粥了",
@@ -961,6 +993,14 @@
       "onboard_time": 1761801381,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129951,
+      "num": 129951,
+      "word": "宋雨琦翟子路互拍",
+      "onboard_time": 1761806241,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129147,
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124288,
+      "num": 135705,
+      "word": "日本中学引入校狗",
+      "onboard_time": 1761803364,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122557,
       "num": 122557,
       "word": "订单留言被在意是种什么感觉",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1761801562,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121277,
+      "num": 137004,
+      "word": "周深首位内地歌手登香港启德主场",
+      "onboard_time": 1761803663,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 120217,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1761798202,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "日本中学引入校狗",
-      "onboard_time": 1761803364,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119487,
@@ -1115,14 +1163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115251,
-      "num": 121981,
-      "word": "周深首位内地歌手登香港启德主场",
-      "onboard_time": 1761803663,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114931,
       "num": 114931,
       "word": "詹姆斯说里夫斯牛大发了",
@@ -1131,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114611,
+      "num": 114611,
+      "word": "女孩朋友圈发遗书十几名骑手回忆定位",
+      "onboard_time": 1761804923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113525,
       "num": 113525,
       "word": "鲍威尔表态引发黄金跳水",
       "onboard_time": 1761805824,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112837,
+      "num": 112837,
+      "word": "内娱好久没出这么清新的搭配了",
+      "onboard_time": 1761805103,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 112757,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1761751521,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112554,
+      "num": 110618,
+      "word": "陈乔恩天选疯批长公主人设",
+      "onboard_time": 1761804082,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 111877,
@@ -1187,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110618,
-      "num": 110618,
-      "word": "陈乔恩天选疯批长公主人设",
-      "onboard_time": 1761804082,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109473,
       "num": 109473,
       "word": "江西一老人持锄头进店砸向女店员",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1761796941,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105556,
+      "num": 105556,
+      "word": "金饰价格连跌3天",
+      "onboard_time": 1761806781,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 105485,
@@ -1267,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103346,
+      "num": 103346,
+      "word": "国乒男单蒙彼利埃一胜难求",
+      "onboard_time": 1761806602,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103213,
       "num": 103213,
       "word": "狗该轮到摸我了",
@@ -1289,14 +1361,6 @@
       "onboard_time": 1761801263,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101446,
-      "num": 101446,
-      "word": "内娱好久没出这么清新的搭配了",
-      "onboard_time": 1761805103,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 100909,
@@ -1339,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98185,
+      "num": 115177,
+      "word": "短剧有自己的父母爱情",
+      "onboard_time": 1761805883,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98051,
       "num": 98051,
       "word": "小时候求爸妈买过的高级货",
@@ -1369,14 +1441,6 @@
       "onboard_time": 1761806122,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95340,
-      "num": 95340,
-      "word": "女孩朋友圈发遗书十几名骑手回忆定位",
-      "onboard_time": 1761804923,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94913,
@@ -1427,28 +1491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92351,
-      "num": 92351,
-      "word": "宋雨琦翟子路互拍",
-      "onboard_time": 1761806241,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92186,
       "num": 93145,
       "word": "第一次见短剧男主有这样的设定",
       "onboard_time": 1761804682,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91119,
-      "num": 91119,
-      "word": "甲流合胞病毒鼻病毒都来了",
-      "onboard_time": 1761806241,
-      "rank": 46,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 90750,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1761751822,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88185,
+      "num": 95781,
+      "word": "全国多地出现负电价",
+      "onboard_time": 1761805462,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85702,
@@ -1601,14 +1657,6 @@
       "onboard_time": 1761802163,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69863,
-      "num": 95781,
-      "word": "全国多地出现负电价",
-      "onboard_time": 1761805462,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69508,
@@ -2035,11 +2083,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23093,
+      "num": 114614,
+      "word": "云南BIGBANG7天涨粉72万",
+      "onboard_time": 1761806122,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 22962,
       "num": 64885,
       "word": "声生不息",
       "onboard_time": 1761762735,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20741,
+      "num": 114669,
+      "word": "梁淞问何美延为这个家付出了什么",
+      "onboard_time": 1761806662,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -2049,14 +2113,6 @@
       "onboard_time": 1761795320,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19562,
-      "num": 95517,
-      "word": "云南BIGBANG7天涨粉72万",
-      "onboard_time": 1761806122,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 18929,

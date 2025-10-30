@@ -1,0 +1,410 @@
+{
+  "runTime": 1761807078147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636637,
+        "num": 1101861,
+        "word": "高市早苗当面拒绝美国要求",
+        "onboard_time": 1761800363,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279791,
+        "num": 279791,
+        "word": "中美元首握手合影",
+        "onboard_time": 1761794540,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11020,
+        "num": 262598,
+        "word": "跟着这张思维导图学十五五规划建议",
+        "onboard_time": 1761757638,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562563,
+        "num": 262251,
+        "word": "大学生集体染上水龙瘾了",
+        "onboard_time": 1761796821,
+        "rank": 3,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 848138,
+        "num": 260507,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257868,
+        "num": 257868,
+        "word": "中国年龄最小的航天员",
+        "onboard_time": 1761789679,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236742,
+        "num": 236742,
+        "word": "高市早苗演砸了",
+        "onboard_time": 1761791839,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214159,
+        "num": 214159,
+        "word": "特朗普回应会晤",
+        "onboard_time": 1761794781,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31429,
+        "num": 210736,
+        "word": "神21瞄准31日23时44分发射",
+        "onboard_time": 1761787879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 208308,
+        "word": "给中美和世界经济吃下一颗定心丸",
+        "onboard_time": 1761806662,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4807913,
+        "num": 204833,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630576,
+        "num": 201485,
+        "word": "稀土",
+        "onboard_time": 1761802043,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 555080,
+        "num": 199947,
+        "word": "还以为是霍思燕",
+        "onboard_time": 1761803364,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497075,
+        "num": 193924,
+        "word": "向太说嫁入豪门基本不幸福",
+        "onboard_time": 1761800903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193507,
+        "num": 193507,
+        "word": "张洪章将带项目在天上开展实验",
+        "onboard_time": 1761804382,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27545,
+        "num": 193505,
+        "word": "薛之谦潘玮柏加盟京东1111惊喜之夜",
+        "onboard_time": 1761804444,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 647651,
+        "num": 193479,
+        "word": "江一燕前夫是导演赵汉唐",
+        "onboard_time": 1761805942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406351,
+        "num": 193467,
+        "word": "王楚然对白鹿生理性喜欢",
+        "onboard_time": 1761802943,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351722,
+        "num": 193447,
+        "word": "37岁阚清子孕晚期状态",
+        "onboard_time": 1761798142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174400,
+        "num": 193424,
+        "word": "成毅天地剑心飙升190%",
+        "onboard_time": 1761806481,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255193,
+        "num": 193418,
+        "word": "原来女明星们候场也坐塑料凳子",
+        "onboard_time": 1761800063,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244623,
+        "num": 193387,
+        "word": "黄景瑜敖瑞鹏都生不出这么像的",
+        "onboard_time": 1761804142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236038,
+        "num": 193370,
+        "word": "吃播网红回应在高铁边吃边吐2小时",
+        "onboard_time": 1761802644,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193368,
+        "num": 193368,
+        "word": "大学法学老师被学生吐槽称将起诉",
+        "onboard_time": 1761803963,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185340,
+        "num": 185340,
+        "word": "上完厕所卧铺被外国人霸占",
+        "onboard_time": 1761795681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173139,
+        "num": 173139,
+        "word": "特朗普吐槽韩国潜艇太老了",
+        "onboard_time": 1761804983,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143354,
+        "num": 143354,
+        "word": "黄磊调侃自己被网上传得像在ICU",
+        "onboard_time": 1761801022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138715,
+        "num": 138715,
+        "word": "中美元首釜山会晤现场",
+        "onboard_time": 1761790880,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137440,
+        "num": 137440,
+        "word": "李沁马思纯怪不得你俩能玩到一块",
+        "onboard_time": 1761805824,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121277,
+        "num": 137004,
+        "word": "周深首位内地歌手登香港启德主场",
+        "onboard_time": 1761803663,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262851,
+        "num": 136930,
+        "word": "刘强东扶着章泽天",
+        "onboard_time": 1761795623,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172574,
+        "num": 136383,
+        "word": "甲沟炎 剪v字",
+        "onboard_time": 1761806542,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124288,
+        "num": 135705,
+        "word": "日本中学引入校狗",
+        "onboard_time": 1761803364,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135533,
+        "num": 135533,
+        "word": "甲流合胞病毒鼻病毒都来了",
+        "onboard_time": 1761806241,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 129951,
+        "num": 129951,
+        "word": "宋雨琦翟子路互拍",
+        "onboard_time": 1761806241,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129777,
+        "num": 129777,
+        "word": "时间带走了Angelababy什么",
+        "onboard_time": 1761784760,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120755,
+        "num": 120755,
+        "word": "给女儿的300克黄金嫁妆掉落高速上",
+        "onboard_time": 1761793579,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98185,
+        "num": 115177,
+        "word": "短剧有自己的父母爱情",
+        "onboard_time": 1761805883,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20741,
+        "num": 114669,
+        "word": "梁淞问何美延为这个家付出了什么",
+        "onboard_time": 1761806662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23093,
+        "num": 114614,
+        "word": "云南BIGBANG7天涨粉72万",
+        "onboard_time": 1761806122,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114611,
+        "num": 114611,
+        "word": "女孩朋友圈发遗书十几名骑手回忆定位",
+        "onboard_time": 1761804923,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112837,
+        "num": 112837,
+        "word": "内娱好久没出这么清新的搭配了",
+        "onboard_time": 1761805103,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105556,
+        "num": 105556,
+        "word": "金饰价格连跌3天",
+        "onboard_time": 1761806781,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 105124,
+        "word": "陈乔恩天选疯批长公主人设",
+        "onboard_time": 1761804082,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103346,
+        "num": 103346,
+        "word": "国乒男单蒙彼利埃一胜难求",
+        "onboard_time": 1761806602,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85270,
+        "num": 95500,
+        "word": "孙红雷的接班人出现了",
+        "onboard_time": 1761803064,
+        "rank": 45,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 91511,
+        "num": 91511,
+        "word": "杨瀚森生涯第二个运动战得分",
+        "onboard_time": 1761805702,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89102,
+        "num": 89102,
+        "word": "再见爱人5",
+        "onboard_time": 1761799404,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88185,
+        "num": 88185,
+        "word": "全国多地出现负电价",
+        "onboard_time": 1761805462,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84538,
+        "num": 84538,
+        "word": "里夫斯绝杀森林狼",
+        "onboard_time": 1761798263,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首釜山会晤#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761806278535,
+  "endTime": 1761807078147,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 848138,
+      "num": 299977,
+      "word": "十日终焉 肖战",
+      "onboard_time": 1761804142,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 845229,
       "num": 341445,
       "word": "网红被银环蛇咬嫌血清贵离去后失联",
@@ -963,14 +971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 725978,
-      "num": 299977,
-      "word": "十日终焉 肖战",
-      "onboard_time": 1761804142,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 724282,
       "num": 251277,
       "word": "彭小苒 八年前的红很突然现在是及时",
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647651,
+      "num": 203213,
+      "word": "江一燕前夫是导演赵汉唐",
+      "onboard_time": 1761805942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647034,
       "num": 307212,
       "word": "杨清柠王乐乐同框",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1761745042,
       "rank": 27,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 630576,
+      "num": 204519,
+      "word": "稀土",
+      "onboard_time": 1761802043,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 627647,
@@ -1563,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 566021,
-      "num": 204519,
-      "word": "稀土",
-      "onboard_time": 1761802043,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 563457,
       "num": 563457,
       "word": "当地就招聘岗位疑似萝卜岗致歉",
@@ -1843,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 497075,
+      "num": 278083,
+      "word": "向太说嫁入豪门基本不幸福",
+      "onboard_time": 1761800903,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496657,
       "num": 237492,
       "word": "17岁少女差点被男友诱骗赴缅甸干电诈",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1761737480,
       "rank": 33,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 459034,
-      "num": 278083,
-      "word": "向太说嫁入豪门基本不幸福",
-      "onboard_time": 1761800903,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 456643,
@@ -2385,6 +2393,14 @@
       "onboard_time": 1761466761,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406351,
+      "num": 203338,
+      "word": "王楚然对白鹿生理性喜欢",
+      "onboard_time": 1761802943,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 405917,
@@ -2763,14 +2779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 348095,
-      "num": 203338,
-      "word": "王楚然对白鹿生理性喜欢",
-      "onboard_time": 1761802943,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348017,
       "num": 348017,
       "word": "白鹿开车了",
@@ -2864,14 +2872,6 @@
       "word": "林俊杰回复杨幂工作室",
       "onboard_time": 1761722121,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 335048,
-      "num": 203213,
-      "word": "江一燕前夫是导演赵汉唐",
-      "onboard_time": 1761805942,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3619,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255193,
+      "num": 208487,
+      "word": "原来女明星们候场也坐塑料凳子",
+      "onboard_time": 1761800063,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254135,
       "num": 144277,
       "word": "恋与制作人被魅魔夹击了",
@@ -3787,6 +3795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244623,
+      "num": 198964,
+      "word": "黄景瑜敖瑞鹏都生不出这么像的",
+      "onboard_time": 1761804142,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244603,
       "num": 244603,
       "word": "杭州4人吃西贝点9个菜仅花2元",
@@ -3801,14 +3817,6 @@
       "onboard_time": 1761693018,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243176,
-      "num": 208487,
-      "word": "原来女明星们候场也坐塑料凳子",
-      "onboard_time": 1761800063,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 243129,
@@ -3913,6 +3921,14 @@
       "onboard_time": 1761648441,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236038,
+      "num": 202660,
+      "word": "吃播网红回应在高铁边吃边吐2小时",
+      "onboard_time": 1761802644,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235603,
@@ -4176,14 +4192,6 @@
       "word": "沙溢佟丽娅是邻居",
       "onboard_time": 1761620300,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 222419,
-      "num": 198964,
-      "word": "黄景瑜敖瑞鹏都生不出这么像的",
-      "onboard_time": 1761804142,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4699,14 +4707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202660,
-      "num": 202660,
-      "word": "吃播网红回应在高铁边吃边吐2小时",
-      "onboard_time": 1761802644,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201380,
       "num": 201380,
       "word": "今年最想要的羽绒服出现了",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1761775875,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193368,
+      "num": 193368,
+      "word": "大学法学老师被学生吐槽称将起诉",
+      "onboard_time": 1761803963,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193293,
@@ -5851,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174400,
+      "num": 193424,
+      "word": "成毅天地剑心飙升190%",
+      "onboard_time": 1761806481,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174299,
       "num": 174299,
       "word": "安可 好看",
@@ -5985,6 +6001,14 @@
       "onboard_time": 1761790340,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172574,
+      "num": 136383,
+      "word": "甲沟炎 剪v字",
+      "onboard_time": 1761806542,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 172496,
@@ -7307,14 +7331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150391,
-      "num": 150391,
-      "word": "大学法学老师被学生吐槽称将起诉",
-      "onboard_time": 1761803963,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150355,
       "num": 150355,
       "word": "李一桐bg之光",
@@ -7955,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139416,
+      "num": 208308,
+      "word": "给中美和世界经济吃下一颗定心丸",
+      "onboard_time": 1761806662,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139373,
       "num": 315332,
       "word": "北京国安2比4青岛海牛",
@@ -8265,6 +8289,14 @@
       "onboard_time": 1761616581,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135533,
+      "num": 135533,
+      "word": "甲流合胞病毒鼻病毒都来了",
+      "onboard_time": 1761806241,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 135383,
@@ -8883,6 +8915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129951,
+      "num": 129951,
+      "word": "宋雨琦翟子路互拍",
+      "onboard_time": 1761806241,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129933,
       "num": 196542,
       "word": "长期戴眼镜导致的面部变化",
@@ -9315,6 +9355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124288,
+      "num": 135705,
+      "word": "日本中学引入校狗",
+      "onboard_time": 1761803364,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 124137,
       "num": 124137,
       "word": "iPhone18或全系标配12GB",
@@ -9555,6 +9603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121277,
+      "num": 137004,
+      "word": "周深首位内地歌手登香港启德主场",
+      "onboard_time": 1761803663,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121248,
       "num": 121248,
       "word": "第一批贷款炒黄金亏损的人出现了",
@@ -9721,14 +9777,6 @@
       "onboard_time": 1761441559,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "日本中学引入校狗",
-      "onboard_time": 1761803364,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119487,
@@ -10155,14 +10203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115251,
-      "num": 121981,
-      "word": "周深首位内地歌手登香港启德主场",
-      "onboard_time": 1761803663,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 115191,
       "num": 115191,
       "word": "朱一龙VogueWorld出图",
@@ -10201,6 +10241,14 @@
       "onboard_time": 1761722901,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114611,
+      "num": 114611,
+      "word": "女孩朋友圈发遗书十几名骑手回忆定位",
+      "onboard_time": 1761804923,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114446,
@@ -10387,6 +10435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112837,
+      "num": 112837,
+      "word": "内娱好久没出这么清新的搭配了",
+      "onboard_time": 1761805103,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112823,
       "num": 112823,
       "word": "鸡排哥回应过气",
@@ -10441,6 +10497,14 @@
       "onboard_time": 1761751521,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112554,
+      "num": 110618,
+      "word": "陈乔恩天选疯批长公主人设",
+      "onboard_time": 1761804082,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 112550,
@@ -10673,14 +10737,6 @@
       "onboard_time": 1761718941,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 110618,
-      "num": 110618,
-      "word": "陈乔恩天选疯批长公主人设",
-      "onboard_time": 1761804082,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 110468,
@@ -11187,6 +11243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105556,
+      "num": 105556,
+      "word": "金饰价格连跌3天",
+      "onboard_time": 1761806781,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105517,
       "num": 105517,
       "word": "真正关系好的朋友",
@@ -11377,6 +11441,14 @@
       "onboard_time": 1761789140,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103346,
+      "num": 103346,
+      "word": "国乒男单蒙彼利埃一胜难求",
+      "onboard_time": 1761806602,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 103267,
@@ -11593,14 +11665,6 @@
       "onboard_time": 1761467061,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101446,
-      "num": 101446,
-      "word": "内娱好久没出这么清新的搭配了",
-      "onboard_time": 1761805103,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 101369,
@@ -11939,6 +12003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98185,
+      "num": 115177,
+      "word": "短剧有自己的父母爱情",
+      "onboard_time": 1761805883,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98152,
       "num": 98152,
       "word": "地球你是怎么把恐龙养死了的",
@@ -12177,14 +12249,6 @@
       "onboard_time": 1761401002,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95340,
-      "num": 95340,
-      "word": "女孩朋友圈发遗书十几名骑手回忆定位",
-      "onboard_time": 1761804923,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95269,
@@ -12467,14 +12531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92351,
-      "num": 92351,
-      "word": "宋雨琦翟子路互拍",
-      "onboard_time": 1761806241,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92334,
       "num": 169350,
       "word": "三峡大学女生宿舍因丢内衣加装钢刺",
@@ -12617,14 +12673,6 @@
       "onboard_time": 1761394282,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91119,
-      "num": 91119,
-      "word": "甲流合胞病毒鼻病毒都来了",
-      "onboard_time": 1761806241,
-      "rank": 46,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 91066,
@@ -12849,6 +12897,14 @@
       "onboard_time": 1761463819,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88185,
+      "num": 95781,
+      "word": "全国多地出现负电价",
+      "onboard_time": 1761805462,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88077,
@@ -13697,14 +13753,6 @@
       "onboard_time": 1761453380,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69863,
-      "num": 95781,
-      "word": "全国多地出现负电价",
-      "onboard_time": 1761805462,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69771,
@@ -15987,6 +16035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23093,
+      "num": 114614,
+      "word": "云南BIGBANG7天涨粉72万",
+      "onboard_time": 1761806122,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 23024,
       "num": 166308,
       "word": "百草味面包疑似密封袋现活蟑螂",
@@ -16067,6 +16123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20741,
+      "num": 114669,
+      "word": "梁淞问何美延为这个家付出了什么",
+      "onboard_time": 1761806662,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20484,
       "num": 165678,
       "word": "初三女孩遭杀害妈妈称宁可自己挨刀",
@@ -16145,14 +16209,6 @@
       "onboard_time": 1761742822,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19562,
-      "num": 95517,
-      "word": "云南BIGBANG7天涨粉72万",
-      "onboard_time": 1761806122,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 19481,
