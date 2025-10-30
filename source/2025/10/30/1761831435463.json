@@ -1,0 +1,410 @@
+{
+  "runTime": 1761831435463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 628638,
+        "num": 1100582,
+        "word": "鼠鼠我啊要上太空了",
+        "onboard_time": 1761824301,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333631,
+        "num": 333631,
+        "word": "水龙吟改名封神榜吧",
+        "onboard_time": 1761827360,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327860,
+        "num": 327860,
+        "word": "微信三大新功能",
+        "onboard_time": 1761815540,
+        "rank": 2,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312973,
+        "num": 327653,
+        "word": "谁家好剧集齐四个影帝",
+        "onboard_time": 1761828022,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198695,
+        "num": 325847,
+        "word": "美方加征24%关税继续暂停一年",
+        "onboard_time": 1761809000,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206591,
+        "num": 324408,
+        "word": "满13岁女生免费接种HPV疫苗",
+        "onboard_time": 1761818962,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 191175,
+        "num": 323240,
+        "word": "国防部回应台湾高清卫星图",
+        "onboard_time": 1761818721,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161055,
+        "num": 320193,
+        "word": "小鼠航天员训练日常大公开",
+        "onboard_time": 1761828863,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150656,
+        "num": 318880,
+        "word": "新闻女王2又来爆金句了",
+        "onboard_time": 1761823941,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119536,
+        "num": 318171,
+        "word": "JackeyLove说终于进四强了",
+        "onboard_time": 1761823283,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 826872,
+        "num": 316314,
+        "word": "刘谦抗癌成功后近况",
+        "onboard_time": 1761825621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365316,
+        "num": 315214,
+        "word": "大麦 偷跑",
+        "onboard_time": 1761824781,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314002,
+        "num": 314002,
+        "word": "造谣老师刻薄媚男女生发声",
+        "onboard_time": 1761818841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313026,
+        "num": 313026,
+        "word": "王暖暖回应前夫疑为电诈头目",
+        "onboard_time": 1761830602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308476,
+        "num": 308476,
+        "word": "小孩高铁生病哭闹乘客生气质问",
+        "onboard_time": 1761825441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295053,
+        "num": 295053,
+        "word": "重庆工商大学涉事学生道歉",
+        "onboard_time": 1761816382,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268869,
+        "num": 268869,
+        "word": "华晨宇演唱会文昌站官宣",
+        "onboard_time": 1761829282,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250822,
+        "num": 250822,
+        "word": "跑男团有孩子和没孩子的区别",
+        "onboard_time": 1761829042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175318,
+        "num": 241626,
+        "word": "美国商务部闯大祸",
+        "onboard_time": 1761821360,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76203,
+        "num": 236027,
+        "word": "iQOONeo11真2K屏幕",
+        "onboard_time": 1761829763,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65818,
+        "num": 218696,
+        "word": "iQOONeo11发布会",
+        "onboard_time": 1761827782,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 709793,
+        "num": 216661,
+        "word": "江一燕离婚",
+        "onboard_time": 1761799282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398022,
+        "num": 204150,
+        "word": "山河枕热度",
+        "onboard_time": 1761824061,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194429,
+        "num": 194429,
+        "word": "丁禹兮热度破两万八拆卡4小时",
+        "onboard_time": 1761830002,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188868,
+        "num": 188868,
+        "word": "华晨宇火箭场真的来了",
+        "onboard_time": 1761830722,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165715,
+        "num": 165715,
+        "word": "沈腾不在王牌的日子大家很想你",
+        "onboard_time": 1761830963,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161145,
+        "num": 161145,
+        "word": "薛凯琪为江一燕颁奖曾说不要脸就好了",
+        "onboard_time": 1761825860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "郑恺当上瓜主了",
+        "onboard_time": 1761830122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153051,
+        "num": 153051,
+        "word": "十日终焉 肖战",
+        "onboard_time": 1761804142,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116675,
+        "num": 148910,
+        "word": "清华回应孙颖莎王曼昱免试录取",
+        "onboard_time": 1761828922,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148357,
+        "num": 148357,
+        "word": "妻子去世获136万赔偿父女闹翻",
+        "onboard_time": 1761824361,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131796,
+        "num": 131796,
+        "word": "张萌你别带资组都是你的",
+        "onboard_time": 1761825502,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130483,
+        "num": 130483,
+        "word": "丝塔芙发红包",
+        "onboard_time": 1761829642,
+        "rank": 32,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 121849,
+        "word": "爱上一串代码没什么丢人的",
+        "onboard_time": 1761830662,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 101975,
+        "num": 119807,
+        "word": "五粮液分红100.07亿",
+        "onboard_time": 1761831082,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117981,
+        "num": 117981,
+        "word": "成毅天地剑心横扫爱奇艺热播榜",
+        "onboard_time": 1761831022,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114875,
+        "num": 114875,
+        "word": "山河枕",
+        "onboard_time": 1761819080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35864,
+        "num": 111895,
+        "word": "今晚八点京东首发机器人新品",
+        "onboard_time": 1761826041,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97635,
+        "num": 110998,
+        "word": "央视追踪卖粮28万账户遭冻结案",
+        "onboard_time": 1761827482,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47602,
+        "num": 110957,
+        "word": "Creme今天拉满了",
+        "onboard_time": 1761830662,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110935,
+        "num": 110935,
+        "word": "桂花很笨",
+        "onboard_time": 1761823344,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49437,
+        "num": 110524,
+        "word": "女子携500亿元比特币出逃受害者发声",
+        "onboard_time": 1761830122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110346,
+        "num": 110346,
+        "word": "金价反弹",
+        "onboard_time": 1761815242,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110182,
+        "num": 110182,
+        "word": "国内现货黄金克价跌破900元大关",
+        "onboard_time": 1761828682,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108112,
+        "num": 108112,
+        "word": "税务局回应辞退旷工公务员",
+        "onboard_time": 1761827901,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107860,
+        "num": 107860,
+        "word": "倪萍蔡明通告费一分钱没白拿",
+        "onboard_time": 1761831382,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104395,
+        "num": 104395,
+        "word": "何瑞贤演技",
+        "onboard_time": 1761831382,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96405,
+        "num": 102600,
+        "word": "中级会计 等成绩",
+        "onboard_time": 1761826880,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87793,
+        "num": 101587,
+        "word": "解放军将以更强大能力粉碎台独图谋",
+        "onboard_time": 1761823462,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101527,
+        "num": 101527,
+        "word": "伞兵新发色帅成啥了",
+        "onboard_time": 1761830662,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美元首韩国釜山会晤#"
+    }
+  }
+}
