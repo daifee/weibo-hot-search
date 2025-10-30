@@ -1,6 +1,6 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761798640023,
+  "endTime": 1761799463726,
   "band_list": [
     {
       "raw_hot": 1390931,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1116705,
-      "num": 161608,
+      "num": 173783,
       "word": "刘强东扶着章泽天",
       "onboard_time": 1761795623,
       "rank": 30,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1030481,
-      "num": 250210,
+      "num": 304247,
       "word": "时间带走了Angelababy什么",
       "onboard_time": 1761784760,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 774709,
+      "num": 774709,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 745080,
       "num": 175105,
       "word": "BLG 商K狼人杀",
@@ -84,19 +92,11 @@
     },
     {
       "raw_hot": 708035,
-      "num": 244944,
+      "num": 273294,
       "word": "胡歌直言无法走出母亲去世阴影",
       "onboard_time": 1761783801,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 687813,
-      "num": 217279,
-      "word": "高市早苗演砸了",
-      "onboard_time": 1761791839,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 634015,
@@ -105,6 +105,14 @@
       "onboard_time": 1761745042,
       "rank": 4,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 626829,
+      "num": 328790,
+      "word": "37岁阚清子孕晚期状态",
+      "onboard_time": 1761798142,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 610562,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 597242,
-      "num": 223846,
+      "num": 245595,
       "word": "黄金",
       "onboard_time": 1761790220,
       "rank": 21,
@@ -147,20 +155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572012,
+      "num": 326866,
+      "word": "上完厕所卧铺被外国人霸占",
+      "onboard_time": 1761795681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539958,
       "num": 539958,
       "word": "特朗普回应会晤",
       "onboard_time": 1761794781,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 536307,
-      "num": 215409,
-      "word": "上完厕所卧铺被外国人霸占",
-      "onboard_time": 1761795681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 531544,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 421964,
-      "num": 214745,
+      "num": 322523,
       "word": "给女儿的300克黄金嫁妆掉落高速上",
       "onboard_time": 1761793579,
       "rank": 24,
@@ -220,11 +228,19 @@
     },
     {
       "raw_hot": 388074,
-      "num": 214199,
+      "num": 293539,
       "word": "彭小苒去非洲没涂防晒",
       "onboard_time": 1761795623,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371128,
+      "num": 371128,
+      "word": "大学生集体染上水龙瘾了",
+      "onboard_time": 1761796821,
+      "rank": 8,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 363349,
@@ -251,19 +267,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331177,
+      "num": 331177,
+      "word": "里夫斯绝杀森林狼",
+      "onboard_time": 1761798263,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 321204,
+      "num": 321204,
+      "word": "特朗普相信中美将建立长期良好关系",
+      "onboard_time": 1761793759,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 312193,
       "num": 312193,
       "word": "神21航天员乘组公布",
       "onboard_time": 1761788119,
       "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 310279,
-      "num": 310279,
-      "word": "特朗普相信中美将建立长期良好关系",
-      "onboard_time": 1761793759,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -331,14 +355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 254927,
-      "num": 210804,
-      "word": "37岁阚清子孕晚期状态",
-      "onboard_time": 1761798142,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250761,
       "num": 418191,
       "word": "男子遭多次刑讯逼供后死亡11人被判刑",
@@ -361,14 +377,6 @@
       "onboard_time": 1761749541,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241006,
-      "num": 241006,
-      "word": "大学生集体染上水龙瘾了",
-      "onboard_time": 1761796821,
-      "rank": 8,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 230335,
@@ -427,8 +435,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200400,
-      "num": 200400,
+      "raw_hot": 202747,
+      "num": 202747,
       "word": "王昱中戏毕业表演0分",
       "onboard_time": 1761797481,
       "rank": 23,
@@ -475,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194116,
+      "num": 194116,
+      "word": "山河枕开播",
+      "onboard_time": 1761798382,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193554,
       "num": 109957,
       "word": "李维嘉完全是天赋型梗王",
@@ -491,14 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188932,
-      "num": 188932,
-      "word": "里夫斯绝杀森林狼",
-      "onboard_time": 1761798263,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188895,
       "num": 153048,
       "word": "喜人 叔婶事变",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 187575,
-      "num": 159920,
+      "num": 175841,
       "word": "何炅人没来镜头一点没少",
       "onboard_time": 1761797722,
       "rank": 31,
@@ -529,6 +537,22 @@
       "onboard_time": 1761793281,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180995,
+      "num": 180995,
+      "word": "余承东官宣享界品牌大使",
+      "onboard_time": 1761795380,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 179444,
+      "num": 179444,
+      "word": "薛之谦周深刘宇宁黄子弘凡音综F4",
+      "onboard_time": 1761798803,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 172649,
@@ -577,14 +601,6 @@
       "onboard_time": 1761791000,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162765,
-      "num": 162765,
-      "word": "余承东官宣享界品牌大使",
-      "onboard_time": 1761795380,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 162629,
@@ -739,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136378,
+      "num": 136378,
+      "word": "江一燕离婚",
+      "onboard_time": 1761799282,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133983,
       "num": 225347,
       "word": "喜人 乱成一锅粥了",
@@ -785,14 +809,6 @@
       "onboard_time": 1761751701,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121222,
-      "num": 121222,
-      "word": "山河枕开播",
-      "onboard_time": 1761798382,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 120217,
@@ -907,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109847,
+      "num": 109847,
+      "word": "拖堂都拖到婚姻的殿堂了",
+      "onboard_time": 1761799342,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 109473,
       "num": 109473,
       "word": "江西一老人持锄头进店砸向女店员",
@@ -995,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102169,
+      "num": 102169,
+      "word": "再见爱人5",
+      "onboard_time": 1761799404,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101984,
       "num": 125146,
       "word": "国乒男单3人均止步首轮",
@@ -1025,6 +1057,30 @@
       "onboard_time": 1761796642,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97625,
+      "num": 97625,
+      "word": "美联储降息致金价回升",
+      "onboard_time": 1761798803,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 96706,
+      "num": 96706,
+      "word": "NBA",
+      "onboard_time": 1761799404,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94913,
+      "num": 94913,
+      "word": "辛芷蕾预告三句话信息量好大",
+      "onboard_time": 1761799163,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 94038,
@@ -1067,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88715,
+      "num": 245597,
+      "word": "新的GDP万亿城市或将在东北诞生",
+      "onboard_time": 1761798563,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88446,
       "num": 411446,
       "word": "北川 基地吃饭",
@@ -1105,6 +1169,22 @@
       "onboard_time": 1761788181,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83880,
+      "num": 123248,
+      "word": "罗云熙林允水龙吟情侣装",
+      "onboard_time": 1761798923,
+      "rank": 37,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 83833,
+      "num": 119716,
+      "word": "当地再通报女童被水泥杆砸中身亡",
+      "onboard_time": 1761798623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83283,
@@ -1252,7 +1332,7 @@
     },
     {
       "raw_hot": 57899,
-      "num": 209596,
+      "num": 250837,
       "word": "解锁百岁老人长寿配方",
       "onboard_time": 1761795380,
       "rank": 18,
@@ -1289,14 +1369,6 @@
       "onboard_time": 1761737480,
       "rank": 43,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 50930,
-      "num": 145927,
-      "word": "新的GDP万亿城市或将在东北诞生",
-      "onboard_time": 1761798563,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49812,
