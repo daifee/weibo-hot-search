@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/10/31 01:42:52
+本榜单时间：2025/10/26 00:29:49 ~ 2025/10/31 02:37:48
 </p>
 </blockquote>
 <p>
@@ -12597,6 +12597,12 @@ BLG淘汰（热度：45715）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB18%E5%B2%81%E7%94%B7%E7%94%9F%E4%BB%8E%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+被18岁男生从火场救出老人女儿发声（热度：45374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E5%AE%87%E6%A2%81%E7%9A%84%E6%89%93%E6%88%8F%E6%88%92%E4%B8%8D%E6%8E%89%23" target="weibo">
 肖宇梁的打戏戒不掉（热度：45259）
 </a>
@@ -13209,12 +13215,6 @@ DRG回应战胜TTG（热度：38851）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB18%E5%B2%81%E7%94%B7%E7%94%9F%E4%BB%8E%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
-被18岁男生从火场救出老人女儿发声（热度：28979）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%233%E6%B8%B8%E5%AE%A2%E7%88%AC%E4%B8%8A%E6%B3%B0%E5%B1%B1%E4%BB%99%E4%BA%BA%E6%A1%A5%E6%82%AC%E7%A9%BA%E5%B7%A8%E7%9F%B3%23" target="weibo">
 3游客爬上泰山仙人桥悬空巨石（热度：28872）
 </a>
@@ -13253,6 +13253,12 @@ DRG回应战胜TTG（热度：38851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%B3%A5%E6%9D%86%E7%A0%B8%E6%AD%BB%E5%A5%B3%E7%AB%A5%E4%B8%BA%E4%BD%95%E6%89%BE%E4%B8%8D%E5%87%BA%E8%B4%A3%E4%BB%BB%E6%96%B9%23" target="weibo">
 水泥杆砸死女童为何找不出责任方（热度：27978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%A4%AA%E5%8D%87%E8%B0%88%E5%91%A8%E6%B7%B1%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%8D%87key%E4%BA%8B%E4%BB%B6%23" target="weibo">
+丁太升谈周深单依纯升key事件（热度：27951）
 </a>
 </li>
 
@@ -13637,6 +13643,12 @@ DRG回应战胜TTG（热度：38851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91%E4%B8%8B%E7%9A%84%E7%AB%A0%E8%8B%A5%E6%A5%A0%23" target="weibo">
 监控视频下的章若楠（热度：19481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%A5%89%E5%8A%9D%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%94%BF%E5%BA%9C%23" target="weibo">
+外交部奉劝巴拉圭政府（热度：19044）
 </a>
 </li>
 
