@@ -1,7 +1,15 @@
 {
   "startTime": 1761755731091,
-  "endTime": 1761796660318,
+  "endTime": 1761798640023,
   "band_list": [
+    {
+      "raw_hot": 1390931,
+      "num": 1390931,
+      "word": "中美元首握手合影",
+      "onboard_time": 1761794540,
+      "rank": 9,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1307310,
       "num": 1307310,
@@ -19,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1116705,
+      "num": 161608,
+      "word": "刘强东扶着章泽天",
+      "onboard_time": 1761795623,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1060328,
       "num": 251325,
       "word": "女医学生被前男友杀害",
@@ -33,14 +49,6 @@
       "onboard_time": 1761784760,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 974206,
-      "num": 974206,
-      "word": "中美元首握手合影",
-      "onboard_time": 1761794540,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 959006,
@@ -81,6 +89,14 @@
       "onboard_time": 1761783801,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687813,
+      "num": 217279,
+      "word": "高市早苗演砸了",
+      "onboard_time": 1761791839,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 634015,
@@ -131,27 +147,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539958,
+      "num": 539958,
+      "word": "特朗普回应会晤",
+      "onboard_time": 1761794781,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 536307,
+      "num": 215409,
+      "word": "上完厕所卧铺被外国人霸占",
+      "onboard_time": 1761795681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531544,
       "num": 531544,
       "word": "中国年龄最小的航天员",
       "onboard_time": 1761789679,
       "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 465572,
-      "num": 116042,
-      "word": "刘强东扶着章泽天",
-      "onboard_time": 1761795623,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 455498,
-      "num": 455498,
-      "word": "特朗普回应会晤",
-      "onboard_time": 1761794781,
-      "rank": 14,
       "category": "国内时政"
     },
     {
@@ -163,16 +179,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 440850,
-      "num": 156200,
-      "word": "高市早苗演砸了",
-      "onboard_time": 1761791839,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 421964,
-      "num": 155828,
+      "num": 214745,
       "word": "给女儿的300克黄金嫁妆掉落高速上",
       "onboard_time": 1761793579,
       "rank": 24,
@@ -185,6 +193,14 @@
       "onboard_time": 1761752121,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404927,
+      "num": 404927,
+      "word": "巅峰榜十大艺人",
+      "onboard_time": 1761797001,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 393598,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 388074,
-      "num": 140254,
+      "num": 214199,
       "word": "彭小苒去非洲没涂防晒",
       "onboard_time": 1761795623,
       "rank": 13,
@@ -315,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254927,
+      "num": 210804,
+      "word": "37岁阚清子孕晚期状态",
+      "onboard_time": 1761798142,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250761,
       "num": 418191,
       "word": "男子遭多次刑讯逼供后死亡11人被判刑",
@@ -339,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242094,
-      "num": 139601,
-      "word": "上完厕所卧铺被外国人霸占",
-      "onboard_time": 1761795681,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 241006,
+      "num": 241006,
+      "word": "大学生集体染上水龙瘾了",
+      "onboard_time": 1761796821,
+      "rank": 8,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 230335,
@@ -395,6 +419,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 207566,
+      "num": 207566,
+      "word": "你的50块正在揍你的3000块",
+      "onboard_time": 1761795441,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200400,
+      "num": 200400,
+      "word": "王昱中戏毕业表演0分",
+      "onboard_time": 1761797481,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200191,
       "num": 190829,
       "word": "女子照出全家发光源头竟是洗衣粉",
@@ -403,12 +443,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198209,
+      "num": 198209,
+      "word": "戚薇说张艺凡很像Lucky",
+      "onboard_time": 1761797302,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197509,
       "num": 416459,
       "word": "沈梦辰下楼梯摔倒",
       "onboard_time": 1761742941,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195756,
+      "num": 195756,
+      "word": "邵子恒公主抱刘晓庆过河",
+      "onboard_time": 1761797602,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194180,
+      "num": 194180,
+      "word": "美国重启核试验",
+      "onboard_time": 1761797243,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193554,
@@ -427,11 +491,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188932,
+      "num": 188932,
+      "word": "里夫斯绝杀森林狼",
+      "onboard_time": 1761798263,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188895,
       "num": 153048,
       "word": "喜人 叔婶事变",
       "onboard_time": 1761792259,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187575,
+      "num": 159920,
+      "word": "何炅人没来镜头一点没少",
+      "onboard_time": 1761797722,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -499,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162765,
+      "num": 162765,
+      "word": "余承东官宣享界品牌大使",
+      "onboard_time": 1761795380,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162629,
       "num": 483430,
       "word": "小米高管回应巨省电是空调名",
@@ -540,7 +628,7 @@
     },
     {
       "raw_hot": 158173,
-      "num": 158173,
+      "num": 175547,
       "word": "新闻女王2定档",
       "onboard_time": 1761794902,
       "rank": 24,
@@ -611,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143600,
+      "num": 129444,
+      "word": "陈乔恩说自己很强选择的伴侣就不会差",
+      "onboard_time": 1761795741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142720,
       "num": 142720,
       "word": "神20乘组有望刷新一项纪录",
@@ -635,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134967,
-      "num": 115948,
-      "word": "你的50块正在揍你的3000块",
-      "onboard_time": 1761795441,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 136620,
+      "num": 155831,
+      "word": "秦昊去哪都要给女儿报备",
+      "onboard_time": 1761796523,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 133983,
@@ -659,28 +755,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129444,
-      "num": 129444,
-      "word": "陈乔恩说自己很强选择的伴侣就不会差",
-      "onboard_time": 1761795741,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129147,
       "num": 129147,
       "word": "市场预计美联储将再次降息",
       "onboard_time": 1761773534,
       "rank": 28,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 127588,
-      "num": 127588,
-      "word": "秦昊去哪都要给女儿报备",
-      "onboard_time": 1761796523,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 126010,
@@ -707,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121222,
+      "num": 121222,
+      "word": "山河枕开播",
+      "onboard_time": 1761798382,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120217,
       "num": 120217,
       "word": "女推三不加人",
@@ -721,6 +809,14 @@
       "onboard_time": 1761790640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119651,
+      "num": 119651,
+      "word": "开拓者2分险胜爵士",
+      "onboard_time": 1761798202,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 117852,
@@ -739,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116614,
+      "num": 116614,
+      "word": "周深哇你们都好好看啊",
+      "onboard_time": 1761797543,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115488,
       "num": 115488,
       "word": "93年航天员说越努力越幸运",
@@ -753,6 +857,14 @@
       "onboard_time": 1761790101,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112757,
+      "num": 111671,
+      "word": "12306回应女子被外国人霸占卧铺",
+      "onboard_time": 1761797243,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112569,
@@ -771,6 +883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111700,
+      "num": 111700,
+      "word": "穆祉丞王牌封面好敢",
+      "onboard_time": 1761797123,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111604,
+      "num": 111604,
+      "word": "什么意思和啥意思是有区别的",
+      "onboard_time": 1761798142,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110699,
       "num": 110699,
       "word": "中国科学院研究员上太空",
@@ -787,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109148,
+      "num": 109148,
+      "word": "A股",
+      "onboard_time": 1761795081,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108655,
       "num": 467433,
       "word": "TTG发文道歉",
@@ -795,20 +931,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107334,
-      "num": 107334,
-      "word": "A股",
-      "onboard_time": 1761795081,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 106277,
       "num": 106277,
       "word": "这届年轻人开始入局养老服务业",
       "onboard_time": 1761796402,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105750,
+      "num": 111645,
+      "word": "新疆人最近都在追同一部剧",
+      "onboard_time": 1761796941,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105485,
@@ -825,6 +961,14 @@
       "onboard_time": 1761793220,
       "rank": 22,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 104427,
+      "num": 104427,
+      "word": "报告称99%电车用户考虑复购",
+      "onboard_time": 1761798202,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 104328,
@@ -1051,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64761,
-      "num": 92123,
-      "word": "余承东官宣享界品牌大使",
-      "onboard_time": 1761795380,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 64568,
       "num": 410266,
       "word": "Shadow 三天没出门",
@@ -1115,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57899,
+      "num": 209596,
+      "word": "解锁百岁老人长寿配方",
+      "onboard_time": 1761795380,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57627,
       "num": 408134,
       "word": "高超 一辈子就只过了5分钟消停日子",
@@ -1145,6 +1289,14 @@
       "onboard_time": 1761737480,
       "rank": 43,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 50930,
+      "num": 145927,
+      "word": "新的GDP万亿城市或将在东北诞生",
+      "onboard_time": 1761798563,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49812,
@@ -1211,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43071,
+      "num": 120187,
+      "word": "悬疑剧 审美疲劳",
+      "onboard_time": 1761797722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42649,
       "num": 101762,
       "word": "喜人奇妙夜2",
@@ -1235,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41932,
-      "num": 139730,
-      "word": "解锁百岁老人长寿配方",
-      "onboard_time": 1761795380,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 41424,
+      "num": 119735,
+      "word": "河南女性的粉红守护已送达",
+      "onboard_time": 1761796881,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40328,
