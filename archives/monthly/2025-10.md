@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 12:46:22
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 13:27:41
 </p>
 </blockquote>
 <p>
@@ -5331,6 +5331,12 @@ ELLE（热度：673195）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%BF%97%E5%BC%BA%E7%A6%BB%E4%B8%96%23" target="weibo">
+甄志强离世（热度：667229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%A3%E8%AF%AF%23" target="weibo">
 普京口误（热度：666817）
 </a>
@@ -6005,12 +6011,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%20alo%23" target="weibo">
 宁艺卓 alo（热度：620006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%8B%E8%BD%B4%23" target="weibo">
-李宇春压轴（热度：619820）
 </a>
 </li>
 

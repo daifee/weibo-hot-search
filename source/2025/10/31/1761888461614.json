@@ -1,0 +1,410 @@
+{
+  "runTime": 1761888461614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 261793,
+        "num": 1041886,
+        "word": "向往的生活",
+        "onboard_time": 1761887601,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210725,
+        "num": 210725,
+        "word": "中韩元首握手合影",
+        "onboard_time": 1761879498,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47055,
+        "num": 204037,
+        "word": "11月一批新规将施行",
+        "onboard_time": 1761880280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316307,
+        "num": 203855,
+        "word": "杨紫胡歌生命树最新海报",
+        "onboard_time": 1761880221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200960,
+        "num": 200960,
+        "word": "新生儿转运时从推车坠落",
+        "onboard_time": 1761868821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195491,
+        "num": 195491,
+        "word": "王楚钦时装男士封面",
+        "onboard_time": 1761885683,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 115560,
+        "num": 194568,
+        "word": "AL挑战Faker研讨会",
+        "onboard_time": 1761880999,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111098,
+        "num": 193074,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1761886342,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27448,
+        "num": 191770,
+        "word": "10月最后一天",
+        "onboard_time": 1761880340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109089,
+        "num": 189817,
+        "word": "星穹铁道昔涟",
+        "onboard_time": 1761887662,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1159854,
+        "num": 188518,
+        "word": "包上恩司机",
+        "onboard_time": 1761883462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667229,
+        "num": 188159,
+        "word": "甄志强离世",
+        "onboard_time": 1761887780,
+        "rank": 11,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 541602,
+        "num": 186092,
+        "word": "三人虐待室友致死案赔偿已执行",
+        "onboard_time": 1761876560,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495630,
+        "num": 184770,
+        "word": "美国男子在酒店洗澡被热水烫死",
+        "onboard_time": 1761882380,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310730,
+        "num": 182850,
+        "word": "刘嘉玲何赛飞因生育观不合爆发争吵",
+        "onboard_time": 1761886162,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295393,
+        "num": 182075,
+        "word": "张晚意瘦的只剩牙在飘",
+        "onboard_time": 1761885861,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236361,
+        "num": 180595,
+        "word": "骨溶症女生植骨4次均溶解",
+        "onboard_time": 1761883580,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51026,
+        "num": 178910,
+        "word": "京东请客送炸鸡红酒大闸蟹",
+        "onboard_time": 1761884000,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "郭晓东 张杰的最强站哥",
+        "onboard_time": 1761879620,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90338,
+        "num": 178419,
+        "word": "女孩面试因无相关经验被拒当场讨说法",
+        "onboard_time": 1761887601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643799,
+        "num": 178038,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293204,
+        "num": 177864,
+        "word": "包上恩私人物品被司机扣留售卖",
+        "onboard_time": 1761876679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266368,
+        "num": 177568,
+        "word": "江一燕官宣离婚众女星留言鼓励",
+        "onboard_time": 1761873501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209186,
+        "num": 177340,
+        "word": "刘浩存晒新车订单",
+        "onboard_time": 1761878421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88652,
+        "num": 176896,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 176779,
+        "word": "天冷了王一博有鸭鸭不怕冷",
+        "onboard_time": 1761887181,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 189399,
+        "num": 176440,
+        "word": "彭小苒傩戏神女",
+        "onboard_time": 1761887481,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24017,
+        "num": 176217,
+        "word": "天猫光与夜之恋",
+        "onboard_time": 1761883580,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121410,
+        "num": 175981,
+        "word": "陈芋汐感谢全红婵",
+        "onboard_time": 1761883100,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104464,
+        "num": 175836,
+        "word": "金饰克价一夜涨28元",
+        "onboard_time": 1761884000,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175581,
+        "num": 175581,
+        "word": "这生日过的够吹一辈子了",
+        "onboard_time": 1761887900,
+        "rank": 30,
+        "category": "情感,游戏"
+      },
+      {
+        "raw_hot": 162644,
+        "num": 162644,
+        "word": "白鹿敖瑞鹏急缺二搭现偶",
+        "onboard_time": 1761882860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162276,
+        "num": 162276,
+        "word": "KPL年总决赛门票12秒售罄",
+        "onboard_time": 1761887542,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "很多人对体重没有概念",
+        "onboard_time": 1761882500,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "建议不要将肉汤倒进下水道",
+        "onboard_time": 1761837623,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128697,
+        "num": 128697,
+        "word": "刘嘉玲强调自己不想生孩子",
+        "onboard_time": 1761884782,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138492,
+        "num": 127906,
+        "word": "白鹿十一月行程",
+        "onboard_time": 1761884480,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83387,
+        "num": 127828,
+        "word": "每一份守护都闪闪发光",
+        "onboard_time": 1761873860,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87353,
+        "num": 126950,
+        "word": "柯淳说自己还没有作品",
+        "onboard_time": 1761888141,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105876,
+        "num": 125785,
+        "word": "陈浚铭 一天一个样",
+        "onboard_time": 1761887662,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125503,
+        "num": 125503,
+        "word": "张柏芝支持儿子婚姻自由",
+        "onboard_time": 1761886401,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120873,
+        "num": 120873,
+        "word": "张予曦毕雯珺上恋综我是同意的",
+        "onboard_time": 1761885020,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116969,
+        "num": 116969,
+        "word": "多部门回应于和伟捐1200万片酬",
+        "onboard_time": 1761887422,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 116321,
+        "num": 116321,
+        "word": "蔡依林官宣新巡演台北首站",
+        "onboard_time": 1761885560,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59188,
+        "num": 110835,
+        "word": "刘宇宁微博视界大会年度巅峰人物",
+        "onboard_time": 1761886461,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108636,
+        "num": 108636,
+        "word": "AL爱笑与T1的三年之约",
+        "onboard_time": 1761888381,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107726,
+        "num": 107726,
+        "word": "工作留痕",
+        "onboard_time": 1761882081,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103821,
+        "num": 103821,
+        "word": "特朗普全面关税被参议院批准终止",
+        "onboard_time": 1761866959,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105453,
+        "num": 102517,
+        "word": "王晶谈富家女下嫁",
+        "onboard_time": 1761886943,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78474,
+        "num": 101710,
+        "word": "文班亚马27分18篮板",
+        "onboard_time": 1761887001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出5点建议#"
+    }
+  }
+}

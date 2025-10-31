@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761885982723,
+  "endTime": 1761888461614,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1761491424,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667229,
+      "num": 188159,
+      "word": "甄志强离世",
+      "onboard_time": 1761887780,
+      "rank": 11,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 662611,
@@ -3571,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310730,
+      "num": 182850,
+      "word": "刘嘉玲何赛飞因生育观不合爆发争吵",
+      "onboard_time": 1761886162,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
@@ -3736,6 +3752,14 @@
       "word": "李维嘉何炅相拥而泣",
       "onboard_time": 1761643462,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295393,
+      "num": 182075,
+      "word": "张晚意瘦的只剩牙在飘",
+      "onboard_time": 1761885861,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -4145,6 +4169,14 @@
       "onboard_time": 1761634582,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261793,
+      "num": 1041886,
+      "word": "向往的生活",
+      "onboard_time": 1761887601,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 259254,
@@ -5555,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200960,
+      "num": 381576,
+      "word": "新生儿转运时从推车坠落",
+      "onboard_time": 1761868821,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200698,
       "num": 757450,
       "word": "云合",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1761797602,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195491,
+      "num": 386681,
+      "word": "王楚钦时装男士封面",
+      "onboard_time": 1761885683,
+      "rank": 5,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 195209,
@@ -6129,6 +6177,14 @@
       "onboard_time": 1761712281,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189399,
+      "num": 176440,
+      "word": "彭小苒傩戏神女",
+      "onboard_time": 1761887481,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188949,
@@ -6699,14 +6755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177974,
-      "num": 386681,
-      "word": "王楚钦时装男士封面",
-      "onboard_time": 1761885683,
-      "rank": 5,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 177905,
       "num": 177905,
       "word": "英语真的可以速成",
@@ -6801,6 +6849,14 @@
       "onboard_time": 1761562041,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 175581,
+      "num": 175581,
+      "word": "这生日过的够吹一辈子了",
+      "onboard_time": 1761887900,
+      "rank": 30,
+      "category": "情感,游戏"
     },
     {
       "raw_hot": 175195,
@@ -7435,14 +7491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165355,
-      "num": 381576,
-      "word": "新生儿转运时从推车坠落",
-      "onboard_time": 1761868821,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164912,
       "num": 603164,
       "word": "女子做绿番茄美甲遇冷秒变红",
@@ -7624,6 +7672,14 @@
       "word": "Kanavi谈AL与T1打野",
       "onboard_time": 1761885382,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162276,
+      "num": 162276,
+      "word": "KPL年总决赛门票12秒售罄",
+      "onboard_time": 1761887542,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -8008,14 +8064,6 @@
       "word": "雷淞然 好喜欢这对",
       "onboard_time": 1761735561,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156973,
-      "num": 156973,
-      "word": "张晚意瘦的只剩牙在飘",
-      "onboard_time": 1761885861,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -8755,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147034,
+      "num": 176779,
+      "word": "天冷了王一博有鸭鸭不怕冷",
+      "onboard_time": 1761887181,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 146997,
       "num": 146997,
       "word": "张博恒总结世锦赛plog",
@@ -8836,7 +8892,7 @@
     },
     {
       "raw_hot": 146161,
-      "num": 123278,
+      "num": 176896,
       "word": "你好砺箭二十一乘组",
       "onboard_time": 1761879440,
       "rank": 28,
@@ -10843,6 +10899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125503,
+      "num": 125503,
+      "word": "张柏芝支持儿子婚姻自由",
+      "onboard_time": 1761886401,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125476,
       "num": 157674,
       "word": "孟子义发起三个拼杀杀",
@@ -11665,6 +11729,14 @@
       "onboard_time": 1761554541,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116969,
+      "num": 116969,
+      "word": "多部门回应于和伟捐1200万片酬",
+      "onboard_time": 1761887422,
+      "rank": 42,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 116908,
@@ -12667,6 +12739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109089,
+      "num": 189817,
+      "word": "星穹铁道昔涟",
+      "onboard_time": 1761887662,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109037,
       "num": 109037,
       "word": "超过40人陈尸巴西街头",
@@ -12744,6 +12824,14 @@
       "word": "TTG发文道歉",
       "onboard_time": 1761752900,
       "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108636,
+      "num": 108636,
+      "word": "AL爱笑与T1的三年之约",
+      "onboard_time": 1761888381,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -13115,6 +13203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105876,
+      "num": 125785,
+      "word": "陈浚铭 一天一个样",
+      "onboard_time": 1761887662,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105826,
       "num": 119025,
       "word": "林俊杰太好听了",
@@ -13177,6 +13273,14 @@
       "onboard_time": 1761451220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105453,
+      "num": 102517,
+      "word": "王晶谈富家女下嫁",
+      "onboard_time": 1761886943,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105345,
@@ -14412,7 +14516,7 @@
     },
     {
       "raw_hot": 94903,
-      "num": 94903,
+      "num": 127828,
       "word": "每一份守护都闪闪发光",
       "onboard_time": 1761873860,
       "rank": 37,
@@ -14915,6 +15019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90338,
+      "num": 178419,
+      "word": "女孩面试因无相关经验被拒当场讨说法",
+      "onboard_time": 1761887601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90216,
       "num": 437724,
       "word": "李在明快步上前迎接特朗普",
@@ -15169,6 +15281,14 @@
       "onboard_time": 1761547281,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87353,
+      "num": 126950,
+      "word": "柯淳说自己还没有作品",
+      "onboard_time": 1761888141,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 87319,
@@ -15825,6 +15945,14 @@
       "onboard_time": 1761813141,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78474,
+      "num": 101710,
+      "word": "文班亚马27分18篮板",
+      "onboard_time": 1761887001,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78435,
@@ -16897,6 +17025,14 @@
       "onboard_time": 1761693438,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59188,
+      "num": 110835,
+      "word": "刘宇宁微博视界大会年度巅峰人物",
+      "onboard_time": 1761886461,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 58985,
