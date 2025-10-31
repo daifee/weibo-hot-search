@@ -1,0 +1,410 @@
+{
+  "runTime": 1761906512466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 891473,
+        "num": 1142635,
+        "word": "理想就车辆起火道歉",
+        "onboard_time": 1761904462,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 790864,
+        "num": 790864,
+        "word": "AL对战T1",
+        "onboard_time": 1761893662,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11044,
+        "num": 588882,
+        "word": "中国人的太空美学",
+        "onboard_time": 1761879620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448358,
+        "num": 448358,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350602,
+        "num": 350602,
+        "word": "湘潭大学投毒案周立人已执行死刑",
+        "onboard_time": 1761901762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285214,
+        "num": 285214,
+        "word": "AL拿到赛点",
+        "onboard_time": 1761903983,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281097,
+        "num": 281097,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173214,
+        "num": 173214,
+        "word": "杨紫梅婷生命树合照",
+        "onboard_time": 1761903262,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33705,
+        "num": 161238,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158356,
+        "num": 158356,
+        "word": "Uzi 我们明天见",
+        "onboard_time": 1761904162,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 403027,
+        "num": 156931,
+        "word": "土家香酱饼 土家酱香饼",
+        "onboard_time": 1761904162,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185739,
+        "num": 153696,
+        "word": "跑男团围观郑恺野外洗澡",
+        "onboard_time": 1761903200,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180438,
+        "num": 152638,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147291,
+        "num": 147291,
+        "word": "杨紫白菊杀青照",
+        "onboard_time": 1761905601,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140307,
+        "num": 140307,
+        "word": "南北CP 影视CP榜断层第一",
+        "onboard_time": 1761901821,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59910,
+        "num": 139418,
+        "word": "燃油智能第一车",
+        "onboard_time": 1761905121,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52177,
+        "num": 138992,
+        "word": "天猫双11美妆大牌特卖2折抢",
+        "onboard_time": 1761905121,
+        "rank": 16,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "富贵有三勺盐三勺糖三个馒头",
+        "onboard_time": 1761906082,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66648,
+        "num": 135292,
+        "word": "成毅天地剑心直播",
+        "onboard_time": 1761898822,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63731,
+        "num": 133341,
+        "word": "生命树",
+        "onboard_time": 1761900863,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123567,
+        "num": 132660,
+        "word": "京东手机5折",
+        "onboard_time": 1761901522,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132330,
+        "num": 132330,
+        "word": "AL要稳住",
+        "onboard_time": 1761905662,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437582,
+        "num": 130707,
+        "word": "蔡徐坤",
+        "onboard_time": 1761906023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296939,
+        "num": 129093,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249477,
+        "num": 128360,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153244,
+        "num": 127252,
+        "word": "爸爸一躺下小孩面相都变了",
+        "onboard_time": 1761901821,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125692,
+        "num": 125692,
+        "word": "头像真的很影响聊天欲",
+        "onboard_time": 1761897622,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118955,
+        "num": 118955,
+        "word": "打工人口中吃顿好的",
+        "onboard_time": 1761902242,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105276,
+        "num": 117964,
+        "word": "日本人看侵华罪证展3分钟就走",
+        "onboard_time": 1761896180,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84264,
+        "num": 117769,
+        "word": "周五基础支付宝晚高疯就不基础",
+        "onboard_time": 1761905121,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117762,
+        "num": 117762,
+        "word": "小咪住上了海景房",
+        "onboard_time": 1761905960,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116629,
+        "num": 116629,
+        "word": "白鹿决定补录",
+        "onboard_time": 1761891922,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114367,
+        "num": 114367,
+        "word": "山河枕 一念关山",
+        "onboard_time": 1761889941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109800,
+        "num": 109800,
+        "word": "曝蔡徐坤复出演唱会有猫腻",
+        "onboard_time": 1761906383,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100715,
+        "num": 100715,
+        "word": "警方通报女子驾车撞上半挂致5死",
+        "onboard_time": 1761892825,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93179,
+        "num": 93179,
+        "word": "曝国内厂商暂停轻薄Air手机项目",
+        "onboard_time": 1761905542,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90233,
+        "num": 90233,
+        "word": "MEGA2024款电动汽车部分召回",
+        "onboard_time": 1761902721,
+        "rank": 36,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 88463,
+        "num": 88463,
+        "word": "河南濮阳婚内强奸案最新进展",
+        "onboard_time": 1761904462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87885,
+        "num": 87885,
+        "word": "二胎家庭的刚需是仓库级的",
+        "onboard_time": 1761899661,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 87039,
+        "num": 87039,
+        "word": "被确诊微信文字讨好症",
+        "onboard_time": 1761906261,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 86586,
+        "num": 86586,
+        "word": "流金岁月导演曾拉黑刘诗诗经纪人",
+        "onboard_time": 1761896239,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86131,
+        "num": 86131,
+        "word": "Mata的bp",
+        "onboard_time": 1761904822,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60043,
+        "num": 85668,
+        "word": "李晟有边界感但不多",
+        "onboard_time": 1761905121,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85292,
+        "num": 85292,
+        "word": "朝鲜国营网吧",
+        "onboard_time": 1761901942,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82458,
+        "num": 82458,
+        "word": "明星说瘦就真瘦啊",
+        "onboard_time": 1761901103,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78206,
+        "num": 78206,
+        "word": "台海两岸统一是不可阻挡的大势",
+        "onboard_time": 1761893602,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76569,
+        "num": 76569,
+        "word": "理想回应MEGA2024款召回",
+        "onboard_time": 1761905181,
+        "rank": 46,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 21168,
+        "num": 75699,
+        "word": "适合普通人的低成本护肤好物",
+        "onboard_time": 1761904283,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80543,
+        "num": 75581,
+        "word": "英伟达为何盯上韩国",
+        "onboard_time": 1761905721,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16559,
+        "num": 75409,
+        "word": "看懂这个时间表双11就稳了",
+        "onboard_time": 1761904762,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

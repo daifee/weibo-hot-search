@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761903716583,
+  "endTime": 1761906512466,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -723,6 +723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 891473,
+      "num": 1142635,
+      "word": "理想就车辆起火道歉",
+      "onboard_time": 1761904462,
+      "rank": 0,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 888962,
       "num": 888962,
       "word": "台湾",
@@ -953,6 +961,14 @@
       "onboard_time": 1761743662,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790864,
+      "num": 1097461,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 787974,
@@ -1689,14 +1705,6 @@
       "onboard_time": 1761466941,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609132,
-      "num": 1097461,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 603806,
@@ -2555,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448358,
+      "num": 448358,
+      "word": "婚内强奸遭羁押285天男子获国赔",
+      "onboard_time": 1761902303,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448237,
       "num": 242155,
       "word": "ON 好快的切割",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1761806542,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 437582,
+      "num": 130707,
+      "word": "蔡徐坤",
+      "onboard_time": 1761906023,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 437237,
@@ -2881,6 +2905,14 @@
       "onboard_time": 1761726562,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403027,
+      "num": 156931,
+      "word": "土家香酱饼 土家酱香饼",
+      "onboard_time": 1761904162,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 402066,
@@ -3683,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313984,
-      "num": 150808,
-      "word": "婚内强奸遭羁押285天男子获国赔",
-      "onboard_time": 1761902303,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312240,
       "num": 253322,
       "word": "红舞鞋剧组",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1761784402,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285214,
+      "num": 285214,
+      "word": "AL拿到赛点",
+      "onboard_time": 1761903983,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 284760,
@@ -6699,6 +6731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185739,
+      "num": 153696,
+      "word": "跑男团围观郑恺野外洗澡",
+      "onboard_time": 1761903200,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185708,
       "num": 185708,
       "word": "金价回调原因",
@@ -6977,6 +7017,14 @@
       "onboard_time": 1761569661,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180438,
+      "num": 152638,
+      "word": "男子无培训上班第一天害死同事",
+      "onboard_time": 1761903080,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179856,
@@ -7289,6 +7337,14 @@
       "onboard_time": 1761731061,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173214,
+      "num": 173214,
+      "word": "杨紫梅婷生命树合照",
+      "onboard_time": 1761903262,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 173192,
@@ -8331,6 +8387,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 158356,
+      "num": 158356,
+      "word": "Uzi 我们明天见",
+      "onboard_time": 1761904162,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -9179,6 +9243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147291,
+      "num": 147291,
+      "word": "杨紫白菊杀青照",
+      "onboard_time": 1761905601,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147246,
       "num": 147246,
       "word": "多地气温升升升升",
@@ -9915,6 +9987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138588,
+      "num": 138588,
+      "word": "富贵有三勺盐三勺糖三个馒头",
+      "onboard_time": 1761906082,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138548,
       "num": 138548,
       "word": "肖顺尧新剧亡妻回忆录",
@@ -10569,6 +10649,14 @@
       "onboard_time": 1761571881,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132330,
+      "num": 132330,
+      "word": "AL要稳住",
+      "onboard_time": 1761905662,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 132312,
@@ -11603,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123567,
+      "num": 135741,
+      "word": "京东手机5折",
+      "onboard_time": 1761901522,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123467,
       "num": 123467,
       "word": "陈幸同止步蒙彼利埃站首轮",
@@ -11680,14 +11776,6 @@
       "word": "花少8 浪姐组团",
       "onboard_time": 1761714202,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122715,
-      "num": 122715,
-      "word": "跑男团围观郑恺野外洗澡",
-      "onboard_time": 1761903200,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -12169,6 +12257,14 @@
       "onboard_time": 1761791060,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117762,
+      "num": 117762,
+      "word": "小咪住上了海景房",
+      "onboard_time": 1761905960,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 117732,
@@ -13267,6 +13363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109800,
+      "num": 109800,
+      "word": "曝蔡徐坤复出演唱会有猫腻",
+      "onboard_time": 1761906383,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109609,
       "num": 109609,
       "word": "浙江金华满足碳水脑袋",
@@ -13673,14 +13777,6 @@
       "onboard_time": 1761575843,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 106978,
-      "num": 106978,
-      "word": "男子无培训上班第一天害死同事",
-      "onboard_time": 1761903080,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106966,
@@ -14281,14 +14377,6 @@
       "onboard_time": 1761723562,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 102420,
-      "num": 137964,
-      "word": "杨紫梅婷生命树合照",
-      "onboard_time": 1761903262,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 102261,
@@ -15483,6 +15571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93179,
+      "num": 93179,
+      "word": "曝国内厂商暂停轻薄Air手机项目",
+      "onboard_time": 1761905542,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93099,
       "num": 93099,
       "word": "马龙樊振东顶尖高手的极限拉扯",
@@ -15995,6 +16091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88463,
+      "num": 88463,
+      "word": "河南濮阳婚内强奸案最新进展",
+      "onboard_time": 1761904462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88412,
       "num": 88412,
       "word": "周深你也刘德华啊",
@@ -16131,6 +16235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87039,
+      "num": 87039,
+      "word": "被确诊微信文字讨好症",
+      "onboard_time": 1761906261,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 86916,
       "num": 90808,
       "word": "又有新人歌手来修音响了",
@@ -16169,6 +16281,14 @@
       "onboard_time": 1761484342,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 86131,
+      "word": "Mata的bp",
+      "onboard_time": 1761904822,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 86080,
@@ -16353,6 +16473,14 @@
       "onboard_time": 1761884060,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84264,
+      "num": 117769,
+      "word": "周五基础支付宝晚高疯就不基础",
+      "onboard_time": 1761905121,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 83993,
@@ -16675,6 +16803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80543,
+      "num": 75581,
+      "word": "英伟达为何盯上韩国",
+      "onboard_time": 1761905721,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80527,
       "num": 88799,
       "word": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
@@ -16929,6 +17065,14 @@
       "onboard_time": 1761470661,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76569,
+      "num": 76569,
+      "word": "理想回应MEGA2024款召回",
+      "onboard_time": 1761905181,
+      "rank": 46,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 76443,
@@ -17867,6 +18011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60043,
+      "num": 85668,
+      "word": "李晟有边界感但不多",
+      "onboard_time": 1761905121,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60019,
       "num": 195787,
       "word": "保时捷曾因电池问题召回部分车型",
@@ -17881,6 +18033,14 @@
       "onboard_time": 1761667161,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59910,
+      "num": 139418,
+      "word": "燃油智能第一车",
+      "onboard_time": 1761905121,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 59855,
@@ -18363,12 +18523,12 @@
       "category": "民生新闻,作品衍生"
     },
     {
-      "raw_hot": 52303,
-      "num": 135741,
-      "word": "京东手机5折",
-      "onboard_time": 1761901522,
-      "rank": 21,
-      "category": "数码"
+      "raw_hot": 52177,
+      "num": 138992,
+      "word": "天猫双11美妆大牌特卖2折抢",
+      "onboard_time": 1761905121,
+      "rank": 16,
+      "category": "互联网,美妆"
     },
     {
       "raw_hot": 52155,
@@ -20211,6 +20371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21168,
+      "num": 75699,
+      "word": "适合普通人的低成本护肤好物",
+      "onboard_time": 1761904283,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 20741,
       "num": 114669,
       "word": "梁淞问何美延为这个家付出了什么",
@@ -20515,6 +20683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16559,
+      "num": 75409,
+      "word": "看懂这个时间表双11就稳了",
+      "onboard_time": 1761904762,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16418,
       "num": 106979,
       "word": "冬季保暖的穿搭思路",
@@ -20739,6 +20915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11044,
+      "num": 588882,
+      "word": "中国人的太空美学",
+      "onboard_time": 1761879620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10378,
       "num": 115629,
       "word": "刘宇宁粉丝工作日常表",
@@ -20881,6 +21065,9 @@
     },
     {
       "word": "#共建普惠包容的开放型亚太经济#"
+    },
+    {
+      "word": "#习主席韩国之行#"
     }
   ]
 }
