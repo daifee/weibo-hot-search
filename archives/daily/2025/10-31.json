@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761917787592,
+  "endTime": 1761918437371,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -161,6 +161,14 @@
       "onboard_time": 1761875000,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 736611,
+      "num": 225938,
+      "word": "4岁男童药店打针呕吐抽搐后死亡",
+      "onboard_time": 1761917242,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 705612,
@@ -329,14 +337,6 @@
       "onboard_time": 1761879620,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 374897,
-      "num": 225938,
-      "word": "4岁男童药店打针呕吐抽搐后死亡",
-      "onboard_time": 1761917242,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373089,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263646,
+      "num": 263646,
+      "word": "神二十一航天员出征仪式",
+      "onboard_time": 1761914542,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263001,
       "num": 263001,
       "word": "AL 意难平",
@@ -593,14 +601,6 @@
       "onboard_time": 1761895101,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254789,
-      "num": 254789,
-      "word": "神二十一航天员出征仪式",
-      "onboard_time": 1761914542,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252450,
@@ -713,6 +713,14 @@
       "onboard_time": 1761915504,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224255,
+      "num": 224255,
+      "word": "AG战胜WB",
+      "onboard_time": 1761917423,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 222114,
@@ -843,14 +851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202139,
-      "num": 202139,
-      "word": "AG战胜WB",
-      "onboard_time": 1761917423,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 201422,
       "num": 165368,
       "word": "医院通报新生儿转运坠床",
@@ -953,6 +953,14 @@
       "onboard_time": 1761910281,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194438,
+      "num": 218233,
+      "word": "暗河传官微 进高人了",
+      "onboard_time": 1761916284,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 193959,
@@ -1131,6 +1139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179614,
+      "num": 151509,
+      "word": "Wolf说Hope确实菜",
+      "onboard_time": 1761918022,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178196,
       "num": 227674,
       "word": "再见爱人5 芒果最强后期",
@@ -1184,14 +1200,6 @@
       "word": "杨紫梅婷生命树合照",
       "onboard_time": 1761903262,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 173005,
-      "num": 218233,
-      "word": "暗河传官微 进高人了",
-      "onboard_time": 1761916284,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -1401,6 +1409,14 @@
       "onboard_time": 1761884782,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153564,
+      "num": 153564,
+      "word": "关晓彤劈叉",
+      "onboard_time": 1761918083,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 152416,
@@ -1659,12 +1675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138809,
+      "num": 192992,
+      "word": "别人演贵妃 宋茜演跪废",
+      "onboard_time": 1761918083,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137778,
       "num": 137778,
       "word": "狗狗故意学猫揣手手",
       "onboard_time": 1761890363,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137609,
+      "num": 137609,
+      "word": "钎城抓你来了",
+      "onboard_time": 1761917364,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 137234,
@@ -1696,14 +1728,6 @@
       "word": "AL要稳住",
       "onboard_time": 1761905662,
       "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 132015,
-      "num": 132015,
-      "word": "钎城抓你来了",
-      "onboard_time": 1761917364,
-      "rank": 46,
       "category": "电竞"
     },
     {
@@ -1873,6 +1897,14 @@
       "onboard_time": 1761890422,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120269,
+      "num": 120269,
+      "word": "全伊伦鹤男好嗑",
+      "onboard_time": 1761918383,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 119903,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1761874041,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102504,
+      "num": 201441,
+      "word": "联合国感谢中国缴清会费",
+      "onboard_time": 1761917423,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101629,
@@ -2819,6 +2859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81264,
+      "num": 200643,
+      "word": "张凌赫的手机也在减重",
+      "onboard_time": 1761915862,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81065,
       "num": 81065,
       "word": "爱吃榴莲和爱吃肥肠的都沉默了",
@@ -2979,12 +3027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73151,
-      "num": 201441,
-      "word": "联合国感谢中国缴清会费",
-      "onboard_time": 1761917423,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 73138,
+      "num": 147617,
+      "word": "惊天魔盗团主演回应卢浮宫劫案",
+      "onboard_time": 1761917183,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 73135,
@@ -3017,14 +3065,6 @@
       "onboard_time": 1761874759,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71053,
-      "num": 200643,
-      "word": "张凌赫的手机也在减重",
-      "onboard_time": 1761915862,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 70664,
@@ -3219,14 +3259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56174,
-      "num": 147617,
-      "word": "惊天魔盗团主演回应卢浮宫劫案",
-      "onboard_time": 1761917183,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 55593,
       "num": 329854,
       "word": "刘宇宁双11剧场",
@@ -3241,6 +3273,14 @@
       "onboard_time": 1761894382,
       "rank": 24,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 55193,
+      "num": 192747,
+      "word": "女性的创造力会发光",
+      "onboard_time": 1761917722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54973,
@@ -3379,6 +3419,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 45224,
+      "num": 201669,
+      "word": "你的飞天小鼠已就位",
+      "onboard_time": 1761917302,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44477,
       "num": 163449,
       "word": "外媒评中美会谈美国退缩了",
@@ -3465,14 +3513,6 @@
       "onboard_time": 1761883820,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32889,
-      "num": 201669,
-      "word": "你的飞天小鼠已就位",
-      "onboard_time": 1761917302,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32726,
@@ -3571,6 +3611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23134,
+      "num": 148772,
+      "word": "原来大闸蟹小时候长这样",
+      "onboard_time": 1761916825,
+      "rank": 38,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 22301,
       "num": 192501,
       "word": "一亩玉米地投入上千元遭灾仅赔9元",
@@ -3667,6 +3715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17369,
+      "num": 152018,
+      "word": "必会的iPhone截图技巧",
+      "onboard_time": 1761918022,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 16879,
       "num": 25104,
       "word": "神二十一乘组有了新名字",
@@ -3723,14 +3779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14008,
-      "num": 148772,
-      "word": "原来大闸蟹小时候长这样",
-      "onboard_time": 1761916825,
-      "rank": 38,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 13727,
       "num": 188573,
       "word": "30年仍不粘不锈钢锅复产预售60元",
@@ -3771,12 +3819,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 6018,
-      "num": 137727,
-      "word": "女性的创造力会发光",
-      "onboard_time": 1761917722,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 1384,
+      "num": 271408,
+      "word": "神21入轨后约3.5小时后到空间站",
+      "onboard_time": 1761790039,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 920,
