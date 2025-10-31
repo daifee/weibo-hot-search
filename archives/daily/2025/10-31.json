@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761896330368,
+  "endTime": 1761899635338,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 528124,
+      "num": 528124,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 513258,
       "num": 482769,
       "word": "Mac",
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338799,
+      "num": 338799,
+      "word": "成毅天地剑心直播",
+      "onboard_time": 1761898822,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322554,
       "num": 322554,
       "word": "骨溶症女生植骨4次均溶解",
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307970,
-      "num": 307970,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 305549,
       "num": 634475,
       "word": "高三男生赤脚进火场救坐轮椅邻居",
@@ -345,6 +353,14 @@
       "onboard_time": 1761885861,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290672,
+      "num": 290672,
+      "word": "AL状态",
+      "onboard_time": 1761897562,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 282252,
@@ -507,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225444,
+      "num": 127689,
+      "word": "游本昌爱发朋友圈",
+      "onboard_time": 1761898940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222114,
       "num": 207104,
       "word": "流金岁月导演曾拉黑刘诗诗经纪人",
@@ -659,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190698,
+      "num": 208932,
+      "word": "日本人看侵华罪证展3分钟就走",
+      "onboard_time": 1761896180,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 190504,
       "num": 190504,
       "word": "歌幂 相见时难别亦难",
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172995,
+      "num": 160527,
+      "word": "T1状态绝佳",
+      "onboard_time": 1761898822,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172115,
       "num": 297138,
       "word": "神21出征当天是钱老逝世纪念日",
@@ -777,6 +817,14 @@
       "onboard_time": 1761849616,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170713,
+      "num": 209200,
+      "word": "Faker说Flandre未战先败",
+      "onboard_time": 1761895280,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 170691,
@@ -891,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152201,
+      "num": 118107,
+      "word": "T1被低估了",
+      "onboard_time": 1761899301,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "内娱00花恶女又上新了",
@@ -969,6 +1025,14 @@
       "onboard_time": 1761879440,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144650,
+      "num": 144650,
+      "word": "向往的生活下期预告",
+      "onboard_time": 1761896901,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 142812,
@@ -1075,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126405,
-      "num": 209200,
-      "word": "Faker说Flandre未战先败",
-      "onboard_time": 1761895280,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126175,
       "num": 126175,
       "word": "郭俊辰收到成毅送的美式",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1761887422,
       "rank": 42,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 116182,
+      "num": 116182,
+      "word": "苗苗一个眼神郑恺疯狂解释",
+      "onboard_time": 1761896421,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 116024,
@@ -1235,6 +1299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110483,
+      "num": 110483,
+      "word": "公务员辞去公职规定",
+      "onboard_time": 1761893541,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110243,
+      "num": 110243,
+      "word": "头像真的很影响聊天欲",
+      "onboard_time": 1761897622,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110069,
       "num": 110069,
       "word": "包上恩私密物品被司机扣留售卖",
@@ -1275,6 +1355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107184,
+      "num": 107184,
+      "word": "编剧古二爆料仅剩1条",
+      "onboard_time": 1761898822,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107105,
       "num": 107105,
       "word": "宋茜红衣舞剑直拍",
@@ -1291,6 +1379,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106592,
+      "num": 106592,
+      "word": "成毅眼睛不知道放哪里了",
+      "onboard_time": 1761899481,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106530,
+      "num": 106530,
+      "word": "河北一医院全体医护下班后跑操",
+      "onboard_time": 1761895641,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106440,
       "num": 106440,
       "word": "原来命运的齿轮真的有提示音",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1761887662,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105576,
+      "num": 106854,
+      "word": "T1对战AL先下一城",
+      "onboard_time": 1761898401,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 105453,
@@ -1483,6 +1595,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 95082,
+      "num": 106603,
+      "word": "国民IP文创在苏州团建啦",
+      "onboard_time": 1761897622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94903,
       "num": 127828,
       "word": "每一份守护都闪闪发光",
@@ -1507,6 +1627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94559,
+      "num": 94559,
+      "word": "明日方舟最好的小鸟姐妹",
+      "onboard_time": 1761898882,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94514,
       "num": 600594,
       "word": "尼格买提原来现实中长这样",
@@ -1515,20 +1643,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94452,
+      "num": 94452,
+      "word": "陈赫中了黄磊黄酒的毒",
+      "onboard_time": 1761897562,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94413,
       "num": 602844,
       "word": "水龙吟改名封神榜吧",
       "onboard_time": 1761827360,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93401,
-      "num": 93401,
-      "word": "公务员辞去公职规定",
-      "onboard_time": 1761893541,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90461,
@@ -1579,6 +1707,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85503,
+      "num": 85503,
+      "word": "王家卫曾多次肯定唐嫣",
+      "onboard_time": 1761897683,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84716,
+      "num": 84716,
+      "word": "张柏芝满脑子都是捡垃圾",
+      "onboard_time": 1761899602,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84336,
       "num": 159152,
       "word": "留给内娱官宣的方式不多了",
@@ -1609,6 +1753,14 @@
       "onboard_time": 1761873081,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81627,
+      "num": 161594,
+      "word": "京东便宜",
+      "onboard_time": 1761898341,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 80982,
@@ -1699,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73135,
+      "num": 122284,
+      "word": "以前怕晚高峰现在盼晚高疯",
+      "onboard_time": 1761898341,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71879,
       "num": 121731,
       "word": "李施嬅曾在媒体面前假装幸福",
@@ -1721,14 +1881,6 @@
       "onboard_time": 1761874759,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70853,
-      "num": 208932,
-      "word": "日本人看侵华罪证展3分钟就走",
-      "onboard_time": 1761896180,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 70664,
@@ -1907,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53956,
+      "num": 133078,
+      "word": "南北方过冬达成历史性一致",
+      "onboard_time": 1761898940,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53647,
       "num": 600466,
       "word": "美国商务部闯大祸",
@@ -1995,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40503,
+      "num": 136452,
+      "word": "岷县哪些局长主任在享受免费暖气",
+      "onboard_time": 1761899241,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38582,
       "num": 599175,
       "word": "蕉内地铁广告被指辣眼",
@@ -2025,6 +2193,14 @@
       "onboard_time": 1761856693,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34763,
+      "num": 135141,
+      "word": "婚事耽搁2年咋还怪上金价了",
+      "onboard_time": 1761898940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34390,
@@ -2104,6 +2280,14 @@
       "word": "同事起争执后猝死家属索赔32万",
       "onboard_time": 1761891262,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23293,
+      "num": 106668,
+      "word": "弃婴被夫妻收养9年仍是黑户",
+      "onboard_time": 1761899481,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
