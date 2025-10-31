@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 11:17:23
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 11:33:56
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ VOGUE大合影（热度：1170936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%BA%E8%99%90%E5%BE%85%E5%AE%A4%E5%8F%8B%E8%87%B4%E6%AD%BB%E6%A1%88%E8%B5%94%E5%81%BF%E5%B7%B2%E6%89%A7%E8%A1%8C%23" target="weibo">
+三人虐待室友致死案赔偿已执行（热度：1162277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
 黄金（热度：1161590）
 </a>
@@ -1769,12 +1775,6 @@ VOGUE直播（热度：1132311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%B6%A8%E5%88%B01213%E5%85%83%23" target="weibo">
 金饰价格涨到1213元（热度：1123355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%BA%E8%99%90%E5%BE%85%E5%AE%A4%E5%8F%8B%E8%87%B4%E6%AD%BB%E6%A1%88%E8%B5%94%E5%81%BF%E5%B7%B2%E6%89%A7%E8%A1%8C%23" target="weibo">
-三人虐待室友致死案赔偿已执行（热度：1122587）
 </a>
 </li>
 
