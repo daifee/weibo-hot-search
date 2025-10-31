@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761895520383,
+  "endTime": 1761896330368,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825161,
+      "num": 211776,
+      "word": "王家卫秦雯录音受害者名单",
+      "onboard_time": 1761895222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787974,
       "num": 1126075,
       "word": "特朗普全面关税被参议院批准终止",
@@ -107,20 +115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 768118,
-      "num": 211776,
-      "word": "王家卫秦雯录音受害者名单",
-      "onboard_time": 1761895222,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743429,
       "num": 1118948,
       "word": "玉簟秋开机",
       "onboard_time": 1761875000,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 705612,
+      "num": 1112897,
+      "word": "央视曝光盗版剧APP",
+      "onboard_time": 1761894262,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652597,
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363684,
-      "num": 1058189,
-      "word": "央视曝光盗版剧APP",
-      "onboard_time": 1761894262,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363384,
       "num": 363384,
       "word": "山河枕 一念关山",
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307970,
+      "num": 307970,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305549,
       "num": 634475,
       "word": "高三男生赤脚进火场救坐轮椅邻居",
@@ -337,14 +345,6 @@
       "onboard_time": 1761885861,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285755,
-      "num": 285755,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 282252,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259847,
+      "num": 226804,
+      "word": "董璇也在吃张维伊的瓜",
+      "onboard_time": 1761895101,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252450,
       "num": 252450,
       "word": "嫉妒 忮忌",
@@ -440,6 +448,14 @@
       "word": "刘嘉玲强调自己不想生孩子",
       "onboard_time": 1761884782,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242354,
+      "num": 357773,
+      "word": "公主小妹兄妹篇",
+      "onboard_time": 1761892221,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -491,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222114,
+      "num": 207104,
+      "word": "流金岁月导演曾拉黑刘诗诗经纪人",
+      "onboard_time": 1761896239,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219862,
       "num": 219862,
       "word": "刘浩存晒新车订单",
@@ -507,12 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211024,
-      "num": 357773,
-      "word": "公主小妹兄妹篇",
-      "onboard_time": 1761892221,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 208371,
+      "num": 208371,
+      "word": "张凌赫 女孩一定得吃碳水",
+      "onboard_time": 1761894861,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 206124,
@@ -651,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188188,
+      "num": 278513,
+      "word": "三人行定档",
+      "onboard_time": 1761893781,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188088,
       "num": 188088,
       "word": "KPL",
@@ -689,6 +721,14 @@
       "onboard_time": 1761873620,
       "rank": 12,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 181336,
+      "num": 181336,
+      "word": "刘亦菲晒与成龙新合照",
+      "onboard_time": 1761894741,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 178196,
@@ -731,14 +771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 171870,
-      "num": 221236,
-      "word": "董璇也在吃张维伊的瓜",
-      "onboard_time": 1761895101,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171476,
       "num": 417915,
       "word": "蕉内回应地铁广告辣眼",
@@ -753,14 +785,6 @@
       "onboard_time": 1761833424,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169690,
-      "num": 278513,
-      "word": "三人行定档",
-      "onboard_time": 1761893781,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 169589,
@@ -843,14 +867,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 156568,
-      "num": 156568,
-      "word": "张凌赫 女孩一定得吃碳水",
-      "onboard_time": 1761894861,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155936,
       "num": 601995,
       "word": "公务员不是混日子避风港",
@@ -907,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149008,
-      "num": 149008,
-      "word": "刘亦菲晒与成龙新合照",
-      "onboard_time": 1761894741,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148479,
       "num": 148479,
       "word": "工作留痕",
@@ -937,6 +945,14 @@
       "onboard_time": 1761835882,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147128,
+      "num": 210166,
+      "word": "影人1加1王一博专场",
+      "onboard_time": 1761895941,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 146482,
@@ -1059,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126405,
+      "num": 209200,
+      "word": "Faker说Flandre未战先败",
+      "onboard_time": 1761895280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126175,
       "num": 126175,
       "word": "郭俊辰收到成毅送的美式",
@@ -1155,6 +1179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113073,
+      "num": 113073,
+      "word": "白敬亭给沈腾中译中",
+      "onboard_time": 1761895399,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113021,
+      "num": 113021,
+      "word": "干饭主理人",
+      "onboard_time": 1761896060,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 112480,
       "num": 112480,
       "word": "李沁喜不喜欢这下也是分明了",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1761887662,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108682,
-      "num": 108682,
-      "word": "Faker说Flandre未战先败",
-      "onboard_time": 1761895280,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 108469,
@@ -1291,12 +1323,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105206,
+      "num": 105206,
+      "word": "谁在为2000元1克的黄金买单",
+      "onboard_time": 1761895521,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104529,
       "num": 104529,
       "word": "预售女装我真的没空陪你闹了",
       "onboard_time": 1761884540,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103824,
+      "num": 103824,
+      "word": "马龙全运会史上首个男单卫冕冠军",
+      "onboard_time": 1761894920,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 103307,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1761875959,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101431,
-      "num": 101431,
-      "word": "白敬亭给沈腾中译中",
-      "onboard_time": 1761895399,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 101116,
@@ -1427,6 +1467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95638,
+      "num": 95638,
+      "word": "谁给徐明浩设计的造型",
+      "onboard_time": 1761896001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95162,
       "num": 95162,
       "word": "流感发病48小时是黄金自救时间",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1761893541,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90461,
+      "num": 90461,
+      "word": "白酒股利空出尽了吗",
+      "onboard_time": 1761895941,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 89777,
@@ -1643,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71879,
+      "num": 121731,
+      "word": "李施嬅曾在媒体面前假装幸福",
+      "onboard_time": 1761896060,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71787,
       "num": 78063,
       "word": "JackeyLove为AL加油",
@@ -1657,6 +1721,22 @@
       "onboard_time": 1761874759,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70853,
+      "num": 208932,
+      "word": "日本人看侵华罪证展3分钟就走",
+      "onboard_time": 1761896180,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70664,
+      "num": 279655,
+      "word": "京东每2小时送电视手机机器人",
+      "onboard_time": 1761891021,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 70101,
@@ -1769,14 +1849,6 @@
       "onboard_time": 1761837801,
       "rank": 41,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 58166,
-      "num": 279655,
-      "word": "京东每2小时送电视手机机器人",
-      "onboard_time": 1761891021,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 57859,
@@ -1963,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32726,
+      "num": 209415,
+      "word": "谁允许白敬亭这么会穿",
+      "onboard_time": 1761894382,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31038,
       "num": 278156,
       "word": "推进现房销售制实现所见即所得",
@@ -1977,14 +2057,6 @@
       "onboard_time": 1761819621,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28472,
-      "num": 206140,
-      "word": "谁允许白敬亭这么会穿",
-      "onboard_time": 1761894382,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 28373,
