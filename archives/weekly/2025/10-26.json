@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761906512466,
+  "endTime": 1761907493500,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -201,6 +201,14 @@
       "onboard_time": 1761457099,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1357006,
+      "num": 128935,
+      "word": "曝蔡徐坤复出演唱会有猫腻",
+      "onboard_time": 1761906383,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 1339087,
@@ -555,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 988149,
+      "num": 1158103,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 987488,
       "num": 1157998,
       "word": "高市早苗当面拒绝美国要求",
@@ -643,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953024,
+      "num": 1142635,
+      "word": "理想就车辆起火道歉",
+      "onboard_time": 1761904462,
+      "rank": 0,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 948714,
       "num": 1151794,
       "word": "张馨予 红毯定海神针",
@@ -721,14 +745,6 @@
       "onboard_time": 1761815540,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 891473,
-      "num": 1142635,
-      "word": "理想就车辆起火道歉",
-      "onboard_time": 1761904462,
-      "rank": 0,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 888962,
@@ -961,14 +977,6 @@
       "onboard_time": 1761743662,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790864,
-      "num": 1097461,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 787974,
@@ -1443,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661817,
+      "num": 130707,
+      "word": "蔡徐坤",
+      "onboard_time": 1761906023,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661705,
       "num": 661705,
       "word": "电竞奥运会暂停举办",
@@ -1835,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571054,
+      "num": 162011,
+      "word": "土家香酱饼 土家酱香饼",
+      "onboard_time": 1761904162,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 569827,
       "num": 335229,
       "word": "写字不好看的不许开蛋糕店",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1761617719,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 560185,
+      "num": 560185,
+      "word": "婚内强奸遭羁押285天男子获国赔",
+      "onboard_time": 1761902303,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559342,
@@ -2563,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448358,
-      "num": 448358,
-      "word": "婚内强奸遭羁押285天男子获国赔",
-      "onboard_time": 1761902303,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 448237,
       "num": 242155,
       "word": "ON 好快的切割",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1761806542,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 437582,
-      "num": 130707,
-      "word": "蔡徐坤",
-      "onboard_time": 1761906023,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 437237,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1761726562,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403027,
-      "num": 156931,
-      "word": "土家香酱饼 土家酱香饼",
-      "onboard_time": 1761904162,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 402066,
@@ -3377,6 +3385,14 @@
       "onboard_time": 1761561741,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348392,
+      "num": 348392,
+      "word": "AL拿到赛点",
+      "onboard_time": 1761903983,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 348017,
@@ -3931,6 +3947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 294318,
+      "num": 161992,
+      "word": "男子无培训上班第一天害死同事",
+      "onboard_time": 1761903080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293767,
       "num": 293767,
       "word": "刘诗诗新剧美我一跳更吓我一跳",
@@ -4081,14 +4105,6 @@
       "onboard_time": 1761784402,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 285214,
-      "num": 285214,
-      "word": "AL拿到赛点",
-      "onboard_time": 1761903983,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 284760,
@@ -6732,7 +6748,7 @@
     },
     {
       "raw_hot": 185739,
-      "num": 153696,
+      "num": 157952,
       "word": "跑男团围观郑恺野外洗澡",
       "onboard_time": 1761903200,
       "rank": 32,
@@ -7019,14 +7035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180438,
-      "num": 152638,
-      "word": "男子无培训上班第一天害死同事",
-      "onboard_time": 1761903080,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179856,
       "num": 179856,
       "word": "李庚希微醺赛道又多了一人",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1761626185,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177270,
+      "num": 177270,
+      "word": "Uzi 我们明天见",
+      "onboard_time": 1761904162,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 177097,
@@ -7329,6 +7345,14 @@
       "onboard_time": 1761460159,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173602,
+      "num": 123525,
+      "word": "iPhone17Pro系列京东优惠1000",
+      "onboard_time": 1761906923,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 173228,
@@ -8387,14 +8411,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 158356,
-      "num": 158356,
-      "word": "Uzi 我们明天见",
-      "onboard_time": 1761904162,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 158283,
       "num": 196578,
       "word": "脑梗来临前身体有3个征兆",
@@ -8681,6 +8697,14 @@
       "onboard_time": 1761728301,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154396,
+      "num": 154396,
+      "word": "富贵有三勺盐三勺糖三个馒头",
+      "onboard_time": 1761906082,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 154367,
@@ -9057,6 +9081,14 @@
       "onboard_time": 1761549320,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150090,
+      "num": 150090,
+      "word": "WB对战AG",
+      "onboard_time": 1761906621,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 150003,
@@ -9985,14 +10017,6 @@
       "onboard_time": 1761820581,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138588,
-      "num": 138588,
-      "word": "富贵有三勺盐三勺糖三个馒头",
-      "onboard_time": 1761906082,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 138548,
@@ -13363,14 +13387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109800,
-      "num": 109800,
-      "word": "曝蔡徐坤复出演唱会有猫腻",
-      "onboard_time": 1761906383,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 109609,
       "num": 109609,
       "word": "浙江金华满足碳水脑袋",
@@ -16003,6 +16019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89266,
+      "num": 114600,
+      "word": "前三季度上海韩国游客巨增121%",
+      "onboard_time": 1761906923,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89163,
       "num": 89163,
       "word": "南瓜烤蛋奶麻薯",
@@ -16025,6 +16049,14 @@
       "onboard_time": 1761693438,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88950,
+      "num": 88950,
+      "word": "王楚钦好优越的侧脸",
+      "onboard_time": 1761906923,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 88917,
@@ -16089,6 +16121,14 @@
       "onboard_time": 1761634282,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88514,
+      "num": 88514,
+      "word": "11月份十二星座重点提示",
+      "onboard_time": 1761907223,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 88463,
@@ -16619,6 +16659,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 82353,
+      "num": 82353,
+      "word": "泡泡玛特",
+      "onboard_time": 1761906982,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 82294,
       "num": 82294,
       "word": "第一巴图鲁正在研究宇宙",
@@ -16721,6 +16769,14 @@
       "onboard_time": 1761809062,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81570,
+      "num": 81570,
+      "word": "林心如说霍建华没有送过无语的礼物",
+      "onboard_time": 1761907401,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 81543,
@@ -17129,6 +17185,14 @@
       "onboard_time": 1761408501,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75873,
+      "num": 75873,
+      "word": "Faker陷入绝境",
+      "onboard_time": 1761907223,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 75762,
@@ -18537,6 +18601,14 @@
       "onboard_time": 1761893602,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52148,
+      "num": 82423,
+      "word": "泽连斯基又要中国帮忙",
+      "onboard_time": 1761907101,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52104,
@@ -20387,6 +20459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20686,
+      "num": 95774,
+      "word": "双11优惠一波接一波",
+      "onboard_time": 1761906682,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20486,
       "num": 92424,
       "word": "特朗普韩国下榻酒店安保森严",
@@ -20417,6 +20497,14 @@
       "onboard_time": 1761595933,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20188,
+      "num": 725542,
+      "word": "中国人的太空美学",
+      "onboard_time": 1761879620,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20183,
@@ -20867,6 +20955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12618,
+      "num": 70815,
+      "word": "双11点燃了我沉睡的分享欲",
+      "onboard_time": 1761907163,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 12464,
       "num": 26013,
       "word": "75年了我们永远不能忘记",
@@ -20913,14 +21009,6 @@
       "onboard_time": 1761721280,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11044,
-      "num": 588882,
-      "word": "中国人的太空美学",
-      "onboard_time": 1761879620,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10378,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 18:28:32
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 18:44:53
 </p>
 </blockquote>
 <p>
@@ -1139,6 +1139,12 @@ ELLE红毯（热度：1447102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%87%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%89%E7%8C%AB%E8%85%BB%23" target="weibo">
+曝蔡徐坤复出演唱会有猫腻（热度：1357006）
 </a>
 </li>
 
@@ -2523,6 +2529,12 @@ ELLE晚宴（热度：992028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AL%E5%AF%B9%E6%88%98T1%23" target="weibo">
+AL对战T1（热度：988149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%9D%A2%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%23" target="weibo">
 高市早苗当面拒绝美国要求（热度：987488）
 </a>
@@ -2723,6 +2735,12 @@ ELLE晚宴（热度：992028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A5%B3%E8%89%BA%E4%BA%BA%E7%9B%96%E6%B5%87%E9%A5%AD%E6%B3%BC%E5%AF%BC%E6%B8%B8%23" target="weibo">
 曝女艺人盖浇饭泼导游（热度：953050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E5%B0%B1%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E9%81%93%E6%AD%89%23" target="weibo">
+理想就车辆起火道歉（热度：953024）
 </a>
 </li>
 
@@ -3059,12 +3077,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23" target="weibo">
 微信三大新功能（热度：891819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E5%B0%B1%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E9%81%93%E6%AD%89%23" target="weibo">
-理想就车辆起火道歉（热度：891473）
 </a>
 </li>
 
@@ -3977,12 +3989,6 @@ AI把薯片误判为枪惊动八辆美国警车（热度：796530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B8%A6%E5%84%BF%E5%AD%90%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%23" target="weibo">
 奚梦瑶何猷君带儿子出席活动（热度：792089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AL%E5%AF%B9%E6%88%98T1%23" target="weibo">
-AL对战T1（热度：790864）
 </a>
 </li>
 
@@ -5457,6 +5463,12 @@ CFO爆冷战胜T1（热度：662519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%23" target="weibo">
+蔡徐坤（热度：661817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%9A%82%E5%81%9C%E4%B8%BE%E5%8A%9E%23" target="weibo">
 电竞奥运会暂停举办（热度：661705）
 </a>
@@ -5999,18 +6011,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
 高通涉嫌违反反垄断法（热度：624068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
-网友为鸡排哥的用油吵翻了天（热度：623863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
-山西地震（热度：623682）
 </a>
 </li>
 
