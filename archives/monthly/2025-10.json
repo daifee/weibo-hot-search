@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761889377188,
+  "endTime": 1761892705377,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -104,6 +104,14 @@
       "word": "陈伟霆何穗什么时候在一起的",
       "onboard_time": 1760753604,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7178251,
+      "num": 7178251,
+      "word": "王家卫说唐嫣很装",
+      "onboard_time": 1761889881,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1355,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1425200,
+      "num": 167237,
+      "word": "王家卫说陈道明是极品",
+      "onboard_time": 1761889041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1422561,
       "num": 401267,
       "word": "鸡排哥晒检测报告健康证回应质疑",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1759640661,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1129775,
+      "num": 170381,
+      "word": "古二爆料刘诗诗倪妮流金岁月内幕",
+      "onboard_time": 1761892283,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128947,
@@ -16499,6 +16523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 363384,
+      "num": 363384,
+      "word": "山河枕 一念关山",
+      "onboard_time": 1761889941,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363349,
       "num": 415843,
       "word": "高反失温女孩昏迷19天后苏醒",
@@ -17201,6 +17233,14 @@
       "onboard_time": 1759311080,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346896,
+      "num": 346896,
+      "word": "白鹿决定补录",
+      "onboard_time": 1761891922,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 346875,
@@ -25107,14 +25147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233880,
-      "num": 160440,
-      "word": "王家卫说陈道明是极品",
-      "onboard_time": 1761889041,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233848,
       "num": 233848,
       "word": "卖不完的月饼都去哪儿了",
@@ -27505,6 +27537,14 @@
       "onboard_time": 1761694699,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211024,
+      "num": 357773,
+      "word": "公主小妹兄妹篇",
+      "onboard_time": 1761892221,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 210765,
@@ -30171,6 +30211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196836,
+      "num": 159613,
+      "word": "新疆五美",
+      "onboard_time": 1761891262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196819,
       "num": 196819,
       "word": "龙凤胎眼睛差距有多大",
@@ -31905,6 +31953,14 @@
       "onboard_time": 1759642401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "天地剑心追剧团",
+      "onboard_time": 1761892582,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 189780,
@@ -34577,6 +34633,14 @@
       "onboard_time": 1760447602,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178196,
+      "num": 178196,
+      "word": "再见爱人5 芒果最强后期",
+      "onboard_time": 1761889941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 178188,
@@ -42627,6 +42691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151809,
+      "num": 151809,
+      "word": "内娱00花恶女又上新了",
+      "onboard_time": 1761892221,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151800,
       "num": 151800,
       "word": "宇树CEO回应新人形机器人长得吓人",
@@ -44596,7 +44668,7 @@
     },
     {
       "raw_hot": 146161,
-      "num": 237147,
+      "num": 359206,
       "word": "你好砺箭二十一乘组",
       "onboard_time": 1761879440,
       "rank": 28,
@@ -47867,6 +47939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137778,
+      "num": 137778,
+      "word": "狗狗故意学猫揣手手",
+      "onboard_time": 1761890363,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137752,
       "num": 137752,
       "word": "NIP",
@@ -48049,6 +48129,14 @@
       "onboard_time": 1761384441,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137234,
+      "num": 137234,
+      "word": "李琳对经超的心疼全写在嘴上了",
+      "onboard_time": 1761892341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137228,
@@ -55579,6 +55667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "黄仁勋与韩财阀吃饭高喊全场免单",
+      "onboard_time": 1761891442,
+      "rank": 35,
+      "category": "互联网,海外新闻"
+    },
+    {
       "raw_hot": 122838,
       "num": 122838,
       "word": "联通获批eSIM手机运营服务商用试验",
@@ -56817,6 +56913,14 @@
       "onboard_time": 1760523801,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120598,
+      "num": 120598,
+      "word": "谁能想到邓恩熙才20岁",
+      "onboard_time": 1761890422,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 120530,
@@ -60979,6 +61083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113850,
+      "num": 113850,
+      "word": "龚俊常华森 以为ai又发力了",
+      "onboard_time": 1761889341,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113835,
       "num": 116795,
       "word": "乱穿衣的季节",
@@ -61945,6 +62057,14 @@
       "onboard_time": 1760927539,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112480,
+      "num": 112480,
+      "word": "李沁喜不喜欢这下也是分明了",
+      "onboard_time": 1761892283,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 112458,
@@ -63833,6 +63953,14 @@
       "onboard_time": 1760592081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110069,
+      "num": 110069,
+      "word": "包上恩私密物品被司机扣留售卖",
+      "onboard_time": 1761876679,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 110068,
@@ -67443,6 +67571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105379,
+      "num": 105379,
+      "word": "剑网3又双叕上电视啦",
+      "onboard_time": 1761891682,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105376,
       "num": 105376,
       "word": "导播真的太牛了配享太庙",
@@ -69505,6 +69641,14 @@
       "onboard_time": 1759825461,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102538,
+      "num": 102538,
+      "word": "彭昱畅到底在燃什么",
+      "onboard_time": 1761892582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 102531,
@@ -74537,6 +74681,14 @@
       "onboard_time": 1759652780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95132,
+      "num": 103801,
+      "word": "花20万整牙两月反弹成地包天",
+      "onboard_time": 1761891143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95123,
@@ -82787,6 +82939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82256,
+      "num": 172270,
+      "word": "想吃王鹤棣手里的薯片",
+      "onboard_time": 1761891143,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "有综艺让中国菜扬眉吐气了",
@@ -84305,6 +84465,14 @@
       "onboard_time": 1759687936,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 79453,
+      "num": 252370,
+      "word": "神21乘组太空出差行囊揭秘",
+      "onboard_time": 1761890482,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79443,
@@ -91875,6 +92043,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58166,
+      "num": 199327,
+      "word": "京东每2小时送电视手机机器人",
+      "onboard_time": 1761891021,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58154,
       "num": 56507,
       "word": "第一次看到狗回头睡脖子是悬空的",
@@ -93025,6 +93201,14 @@
       "onboard_time": 1761303800,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53978,
+      "num": 113987,
+      "word": "印度或成关税战最大受害者",
+      "onboard_time": 1761892341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53966,
@@ -95905,6 +96089,14 @@
       "onboard_time": 1759475001,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42365,
+      "num": 349410,
+      "word": "中美国防部长会谈",
+      "onboard_time": 1761891862,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42310,
@@ -99803,14 +99995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25819,
-      "num": 109738,
-      "word": "龚俊常华森 以为ai又发力了",
-      "onboard_time": 1761889341,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25808,
       "num": 35624,
       "word": "是时候打王牌对王牌商战了",
@@ -100328,6 +100512,14 @@
       "word": "中国小型垃圾发电技术突破",
       "onboard_time": 1761545722,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23889,
+      "num": 106724,
+      "word": "同事起争执后猝死家属索赔32万",
+      "onboard_time": 1761891262,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -102337,6 +102529,14 @@
       "onboard_time": 1760817555,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 114224,
+      "word": "德国机构称欧洲已经完全落后",
+      "onboard_time": 1761892461,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14302,

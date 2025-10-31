@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1761889377188,
+  "endTime": 1761892705377,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2011,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7178251,
+      "num": 7178251,
+      "word": "王家卫说唐嫣很装",
+      "onboard_time": 1761889881,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7112313,
       "num": 7112313,
       "word": "黄杨钿甜爸爸发文",
@@ -2391,14 +2399,6 @@
       "num": 994348,
       "word": "许凯照片",
       "onboard_time": 1755860426,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4938738,
-      "num": 3731564,
-      "word": "金钟国官宣结婚",
-      "onboard_time": 1755482481,
       "rank": 10,
       "category": "艺人"
     }

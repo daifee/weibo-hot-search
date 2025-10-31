@@ -1,7 +1,15 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761889377188,
+  "endTime": 1761892705377,
   "band_list": [
+    {
+      "raw_hot": 7178251,
+      "num": 7178251,
+      "word": "王家卫说唐嫣很装",
+      "onboard_time": 1761889881,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1544513,
       "num": 323860,
@@ -19,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1425200,
+      "num": 167237,
+      "word": "王家卫说陈道明是极品",
+      "onboard_time": 1761889041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1339087,
       "num": 581031,
       "word": "甄志强离世",
@@ -33,6 +49,14 @@
       "onboard_time": 1761876560,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1129775,
+      "num": 170381,
+      "word": "古二爆料刘诗诗倪妮流金岁月内幕",
+      "onboard_time": 1761892283,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128459,
@@ -211,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363384,
+      "num": 363384,
+      "word": "山河枕 一念关山",
+      "onboard_time": 1761889941,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347669,
       "num": 232647,
       "word": "的哥疑因乘客少付2块起争执被气死",
       "onboard_time": 1761874100,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346896,
+      "num": 346896,
+      "word": "白鹿决定补录",
+      "onboard_time": 1761891922,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 322554,
@@ -355,14 +395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233880,
-      "num": 160440,
-      "word": "王家卫说陈道明是极品",
-      "onboard_time": 1761889041,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230305,
       "num": 187946,
       "word": "十年前的彭小苒",
@@ -401,6 +433,14 @@
       "onboard_time": 1761884480,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211024,
+      "num": 357773,
+      "word": "公主小妹兄妹篇",
+      "onboard_time": 1761892221,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 206124,
@@ -449,6 +489,14 @@
       "onboard_time": 1761873919,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196836,
+      "num": 159613,
+      "word": "新疆五美",
+      "onboard_time": 1761891262,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 196279,
@@ -507,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "天地剑心追剧团",
+      "onboard_time": 1761892582,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189399,
       "num": 184718,
       "word": "彭小苒傩戏神女",
@@ -545,6 +601,14 @@
       "onboard_time": 1761873620,
       "rank": 12,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 178196,
+      "num": 178196,
+      "word": "再见爱人5 芒果最强后期",
+      "onboard_time": 1761889941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 175581,
@@ -691,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151809,
+      "num": 151809,
+      "word": "内娱00花恶女又上新了",
+      "onboard_time": 1761892221,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150311,
       "num": 643849,
       "word": "中级会计 等成绩",
@@ -732,7 +804,7 @@
     },
     {
       "raw_hot": 146161,
-      "num": 237147,
+      "num": 359206,
       "word": "你好砺箭二十一乘组",
       "onboard_time": 1761879440,
       "rank": 28,
@@ -753,6 +825,22 @@
       "onboard_time": 1761867319,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137778,
+      "num": 137778,
+      "word": "狗狗故意学猫揣手手",
+      "onboard_time": 1761890363,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137234,
+      "num": 137234,
+      "word": "李琳对经超的心疼全写在嘴上了",
+      "onboard_time": 1761892341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 132851,
@@ -819,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "黄仁勋与韩财阀吃饭高喊全场免单",
+      "onboard_time": 1761891442,
+      "rank": 35,
+      "category": "互联网,海外新闻"
+    },
+    {
       "raw_hot": 122187,
       "num": 326474,
       "word": "2025微博视界大会第五波阵容官宣",
       "onboard_time": 1761885262,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120598,
+      "num": 120598,
+      "word": "谁能想到邓恩熙才20岁",
+      "onboard_time": 1761890422,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 119395,
@@ -859,11 +963,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113850,
+      "num": 113850,
+      "word": "龚俊常华森 以为ai又发力了",
+      "onboard_time": 1761889341,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113627,
       "num": 602997,
       "word": "跑男团有孩子和没孩子的区别",
       "onboard_time": 1761829042,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112480,
+      "num": 112480,
+      "word": "李沁喜不喜欢这下也是分明了",
+      "onboard_time": 1761892283,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -897,6 +1017,14 @@
       "onboard_time": 1761886342,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110069,
+      "num": 110069,
+      "word": "包上恩私密物品被司机扣留售卖",
+      "onboard_time": 1761876679,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 109600,
@@ -963,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105379,
+      "num": 105379,
+      "word": "剑网3又双叕上电视啦",
+      "onboard_time": 1761891682,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104529,
       "num": 104529,
       "word": "预售女装我真的没空陪你闹了",
@@ -1001,6 +1137,14 @@
       "onboard_time": 1761874041,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102538,
+      "num": 102538,
+      "word": "彭昱畅到底在燃什么",
+      "onboard_time": 1761892582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 101483,
@@ -1073,6 +1217,14 @@
       "onboard_time": 1761876860,
       "rank": 37,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 95132,
+      "num": 103801,
+      "word": "花20万整牙两月反弹成地包天",
+      "onboard_time": 1761891143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94903,
@@ -1163,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82256,
+      "num": 172270,
+      "word": "想吃王鹤棣手里的薯片",
+      "onboard_time": 1761891143,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81966,
       "num": 81966,
       "word": "中美元首釜山会晤微镜头",
@@ -1193,6 +1353,14 @@
       "onboard_time": 1761873980,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79453,
+      "num": 252370,
+      "word": "神21乘组太空出差行囊揭秘",
+      "onboard_time": 1761890482,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79385,
@@ -1379,6 +1547,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 58166,
+      "num": 199327,
+      "word": "京东每2小时送电视手机机器人",
+      "onboard_time": 1761891021,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57859,
       "num": 418057,
       "word": "丁太升谈周深单依纯升key事件",
@@ -1417,6 +1593,14 @@
       "onboard_time": 1761829282,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53978,
+      "num": 113987,
+      "word": "印度或成关税战最大受害者",
+      "onboard_time": 1761892341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53647,
@@ -1488,6 +1672,14 @@
       "word": "神21今日出征",
       "onboard_time": 1761867079,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42365,
+      "num": 349410,
+      "word": "中美国防部长会谈",
+      "onboard_time": 1761891862,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -1563,14 +1755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25819,
-      "num": 109738,
-      "word": "龚俊常华森 以为ai又发力了",
-      "onboard_time": 1761889341,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24628,
       "num": 87349,
       "word": "万科前三季度大亏损",
@@ -1584,6 +1768,14 @@
       "word": "女子称被强行痔疮术后盆底肌断裂",
       "onboard_time": 1761888740,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23889,
+      "num": 106724,
+      "word": "同事起争执后猝死家属索赔32万",
+      "onboard_time": 1761891262,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1673,6 +1865,14 @@
       "onboard_time": 1761855073,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 114224,
+      "word": "德国机构称欧洲已经完全落后",
+      "onboard_time": 1761892461,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13727,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761889377188,
+  "endTime": 1761892705377,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -8,6 +8,14 @@
       "word": "欢喜哥许绍雄逝世",
       "onboard_time": 1761621144,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7178251,
+      "num": 7178251,
+      "word": "王家卫说唐嫣很装",
+      "onboard_time": 1761889881,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1761638421,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1425200,
+      "num": 167237,
+      "word": "王家卫说陈道明是极品",
+      "onboard_time": 1761889041,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1390931,
@@ -353,6 +369,14 @@
       "onboard_time": 1761545900,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1129775,
+      "num": 170381,
+      "word": "古二爆料刘诗诗倪妮流金岁月内幕",
+      "onboard_time": 1761892283,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128947,
@@ -3115,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363384,
+      "num": 363384,
+      "word": "山河枕 一念关山",
+      "onboard_time": 1761889941,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363349,
       "num": 415843,
       "word": "高反失温女孩昏迷19天后苏醒",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1761874100,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346896,
+      "num": 346896,
+      "word": "白鹿决定补录",
+      "onboard_time": 1761891922,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 346875,
@@ -4707,14 +4747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233880,
-      "num": 160440,
-      "word": "王家卫说陈道明是极品",
-      "onboard_time": 1761889041,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233695,
       "num": 159826,
       "word": "第一批做烤水果的人吃商极高",
@@ -5339,6 +5371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211024,
+      "num": 357773,
+      "word": "公主小妹兄妹篇",
+      "onboard_time": 1761892221,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210761,
       "num": 210761,
       "word": "光与夜之恋",
@@ -5835,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196836,
+      "num": 159613,
+      "word": "新疆五美",
+      "onboard_time": 1761891262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196721,
       "num": 150731,
       "word": "近8成适老化用品被年轻人买走",
@@ -6177,6 +6225,14 @@
       "onboard_time": 1761563002,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "天地剑心追剧团",
+      "onboard_time": 1761892582,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 189716,
@@ -6777,6 +6833,14 @@
       "onboard_time": 1761488602,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178196,
+      "num": 178196,
+      "word": "再见爱人5 芒果最强后期",
+      "onboard_time": 1761889941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 177905,
@@ -8515,6 +8579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151809,
+      "num": 151809,
+      "word": "内娱00花恶女又上新了",
+      "onboard_time": 1761892221,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151688,
       "num": 213826,
       "word": "入青云主演发红包",
@@ -8916,7 +8988,7 @@
     },
     {
       "raw_hot": 146161,
-      "num": 237147,
+      "num": 359206,
       "word": "你好砺箭二十一乘组",
       "onboard_time": 1761879440,
       "rank": 28,
@@ -9627,6 +9699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137778,
+      "num": 137778,
+      "word": "狗狗故意学猫揣手手",
+      "onboard_time": 1761890363,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137651,
       "num": 137651,
       "word": "每周2次让你的心脏变年轻",
@@ -9649,6 +9729,14 @@
       "onboard_time": 1761799342,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 137234,
+      "num": 137234,
+      "word": "李琳对经超的心疼全写在嘴上了",
+      "onboard_time": 1761892341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137059,
@@ -11211,6 +11299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122844,
+      "num": 122844,
+      "word": "黄仁勋与韩财阀吃饭高喊全场免单",
+      "onboard_time": 1761891442,
+      "rank": 35,
+      "category": "互联网,海外新闻"
+    },
+    {
       "raw_hot": 122770,
       "num": 122770,
       "word": "建议冬天床单两周换洗一次",
@@ -11401,6 +11497,14 @@
       "onboard_time": 1761626725,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120598,
+      "num": 120598,
+      "word": "谁能想到邓恩熙才20岁",
+      "onboard_time": 1761890422,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 120525,
@@ -12163,6 +12267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113850,
+      "num": 113850,
+      "word": "龚俊常华森 以为ai又发力了",
+      "onboard_time": 1761889341,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113799,
       "num": 404524,
       "word": "Knight开播回应特别想打T1",
@@ -12393,6 +12505,14 @@
       "onboard_time": 1761720260,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112480,
+      "num": 112480,
+      "word": "李沁喜不喜欢这下也是分明了",
+      "onboard_time": 1761892283,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 112397,
@@ -12697,6 +12817,14 @@
       "onboard_time": 1761473059,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110069,
+      "num": 110069,
+      "word": "包上恩私密物品被司机扣留售卖",
+      "onboard_time": 1761876679,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 109802,
@@ -13323,6 +13451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105379,
+      "num": 105379,
+      "word": "剑网3又双叕上电视啦",
+      "onboard_time": 1761891682,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105345,
       "num": 153337,
       "word": "水龙吟12集是谁的一辈子",
@@ -13633,6 +13769,14 @@
       "onboard_time": 1761874041,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102538,
+      "num": 102538,
+      "word": "彭昱畅到底在燃什么",
+      "onboard_time": 1761892582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 102467,
@@ -14513,6 +14657,14 @@
       "onboard_time": 1761876860,
       "rank": 37,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 95132,
+      "num": 103801,
+      "word": "花20万整牙两月反弹成地包天",
+      "onboard_time": 1761891143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95096,
@@ -15659,6 +15811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82256,
+      "num": 172270,
+      "word": "想吃王鹤棣手里的薯片",
+      "onboard_time": 1761891143,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82110,
       "num": 132614,
       "word": "花花突然冒猫猫头笑眯眯的站在门口",
@@ -15873,6 +16033,14 @@
       "onboard_time": 1761542902,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79453,
+      "num": 252370,
+      "word": "神21乘组太空出差行囊揭秘",
+      "onboard_time": 1761890482,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79385,
@@ -17123,6 +17291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58166,
+      "num": 199327,
+      "word": "京东每2小时送电视手机机器人",
+      "onboard_time": 1761891021,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58117,
       "num": 201868,
       "word": "印度航司加密中国航班",
@@ -17353,6 +17529,14 @@
       "onboard_time": 1761715281,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 53978,
+      "num": 113987,
+      "word": "印度或成关税战最大受害者",
+      "onboard_time": 1761892341,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53706,
@@ -17977,6 +18161,14 @@
       "onboard_time": 1761815002,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42365,
+      "num": 349410,
+      "word": "中美国防部长会谈",
+      "onboard_time": 1761891862,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42310,
@@ -18883,14 +19075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25819,
-      "num": 109738,
-      "word": "龚俊常华森 以为ai又发力了",
-      "onboard_time": 1761889341,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25663,
       "num": 132084,
       "word": "骗子一句姐姐背后的围猎与剿杀",
@@ -19032,6 +19216,14 @@
       "word": "中国小型垃圾发电技术突破",
       "onboard_time": 1761545722,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23889,
+      "num": 106724,
+      "word": "同事起争执后猝死家属索赔32万",
+      "onboard_time": 1761891262,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -19569,6 +19761,14 @@
       "onboard_time": 1761444799,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 114224,
+      "word": "德国机构称欧洲已经完全落后",
+      "onboard_time": 1761892461,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14302,
