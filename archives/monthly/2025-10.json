@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761893521183,
+  "endTime": 1761895520383,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1732,7 +1732,7 @@
     },
     {
       "raw_hot": 1264184,
-      "num": 172886,
+      "num": 216860,
       "word": "古二爆料刘诗诗倪妮流金岁月内幕",
       "onboard_time": 1761892283,
       "rank": 23,
@@ -4812,7 +4812,7 @@
     },
     {
       "raw_hot": 826612,
-      "num": 167602,
+      "num": 218927,
       "word": "刘诗诗被编剧怼回去了",
       "onboard_time": 1761892825,
       "rank": 27,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1759628480,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 768118,
+      "num": 211776,
+      "word": "王家卫秦雯录音受害者名单",
+      "onboard_time": 1761895222,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 767686,
@@ -16507,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363684,
+      "num": 1058189,
+      "word": "央视曝光盗版剧APP",
+      "onboard_time": 1761894262,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363618,
       "num": 241666,
       "word": "广州一市民家中惊现鼠条",
@@ -16729,6 +16745,14 @@
       "onboard_time": 1759756703,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 358003,
+      "num": 289244,
+      "word": "警方通报女子驾车撞上半挂致5死",
+      "onboard_time": 1761892825,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 357778,
@@ -18561,6 +18585,14 @@
       "onboard_time": 1760712625,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 320979,
+      "num": 320979,
+      "word": "天地剑心追剧团",
+      "onboard_time": 1761892582,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 320543,
@@ -21019,6 +21051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285755,
+      "num": 285755,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285716,
       "num": 285716,
       "word": "Ning说GEN是故意输AL",
@@ -21161,14 +21201,6 @@
       "onboard_time": 1759901181,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283082,
-      "num": 283082,
-      "word": "天地剑心追剧团",
-      "onboard_time": 1761892582,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 283044,
@@ -21553,6 +21585,14 @@
       "onboard_time": 1760799862,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278703,
+      "num": 278703,
+      "word": "台海两岸统一是不可阻挡的大势",
+      "onboard_time": 1761893602,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 278474,
@@ -23499,6 +23539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252450,
+      "num": 252450,
+      "word": "嫉妒 忮忌",
+      "onboard_time": 1761894202,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252313,
       "num": 214902,
       "word": "Faker微博更新",
@@ -24041,6 +24089,14 @@
       "onboard_time": 1760355441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246297,
+      "num": 205452,
+      "word": "包上恩粉丝为司机发声",
+      "onboard_time": 1761894320,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 246164,
@@ -25545,14 +25601,6 @@
       "onboard_time": 1761725900,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230080,
-      "num": 289244,
-      "word": "警方通报女子驾车撞上半挂致5死",
-      "onboard_time": 1761892825,
-      "rank": 4,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 229998,
@@ -31755,6 +31803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190504,
+      "num": 190504,
+      "word": "歌幂 相见时难别亦难",
+      "onboard_time": 1761894320,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190489,
       "num": 190489,
       "word": "云南地震",
@@ -34668,7 +34724,7 @@
     },
     {
       "raw_hot": 178196,
-      "num": 178196,
+      "num": 227674,
       "word": "再见爱人5 芒果最强后期",
       "onboard_time": 1761889941,
       "rank": 18,
@@ -36403,6 +36459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171870,
+      "num": 221236,
+      "word": "董璇也在吃张维伊的瓜",
+      "onboard_time": 1761895101,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171747,
       "num": 171747,
       "word": "彭小苒直播",
@@ -36961,6 +37025,14 @@
       "onboard_time": 1761142523,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169690,
+      "num": 278513,
+      "word": "三人行定档",
+      "onboard_time": 1761893781,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 169660,
@@ -41067,6 +41139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 156568,
+      "num": 156568,
+      "word": "张凌赫 女孩一定得吃碳水",
+      "onboard_time": 1761894861,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156541,
       "num": 156541,
       "word": "周传雄上海站嘉宾是女儿",
@@ -43640,6 +43720,14 @@
       "word": "刘轩丞超绝不经意展示新手机",
       "onboard_time": 1759309819,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149008,
+      "num": 149008,
+      "word": "刘亦菲晒与成龙新合照",
+      "onboard_time": 1761894741,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -52163,6 +52251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129588,
+      "num": 129588,
+      "word": "龚俊 我也不管钱",
+      "onboard_time": 1761894681,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129587,
       "num": 228805,
       "word": "马龙回复王楚钦",
@@ -52833,6 +52929,14 @@
       "onboard_time": 1761188120,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128032,
+      "num": 282962,
+      "word": "神21乘组太空出差行囊揭秘",
+      "onboard_time": 1761890482,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128005,
@@ -53857,6 +53961,14 @@
       "onboard_time": 1760261481,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126175,
+      "num": 126175,
+      "word": "郭俊辰收到成毅送的美式",
+      "onboard_time": 1761895041,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 126167,
@@ -56337,6 +56449,14 @@
       "onboard_time": 1760070382,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121887,
+      "num": 277558,
+      "word": "神21两名航天员将在太空过生日",
+      "onboard_time": 1761893901,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121886,
@@ -65155,6 +65275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108682,
+      "num": 108682,
+      "word": "Faker说Flandre未战先败",
+      "onboard_time": 1761895280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108664,
       "num": 135910,
       "word": "男子开飞机15分钟回老家过国庆",
@@ -66441,14 +66569,6 @@
       "onboard_time": 1760702423,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106973,
-      "num": 282962,
-      "word": "神21乘组太空出差行囊揭秘",
-      "onboard_time": 1761890482,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 106971,
@@ -70595,6 +70715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101431,
+      "num": 101431,
+      "word": "白敬亭给沈腾中译中",
+      "onboard_time": 1761895399,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101430,
       "num": 101430,
       "word": "伞兵好丰盛的中秋晚餐",
@@ -72411,6 +72539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 98694,
+      "num": 98694,
+      "word": "把缺少的布料还给女装",
+      "onboard_time": 1761894082,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98668,
       "num": 98668,
       "word": "浪浪人生把范丞丞演热血了",
@@ -73121,6 +73257,14 @@
       "onboard_time": 1760063959,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97697,
+      "num": 140908,
+      "word": "看比赛也能领国家补贴了",
+      "onboard_time": 1761893901,
+      "rank": 37,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 97681,
@@ -75075,6 +75219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94699,
+      "num": 94699,
+      "word": "Flandre说Faker只是下个对手",
+      "onboard_time": 1761893541,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94637,
       "num": 94637,
       "word": "3男子停车场盗走迈巴赫手舞足蹈",
@@ -76024,6 +76176,14 @@
       "word": "车牌7777报废路虎5500元起拍",
       "onboard_time": 1761179180,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93401,
+      "num": 93401,
+      "word": "公务员辞去公职规定",
+      "onboard_time": 1761893541,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -83004,7 +83164,7 @@
     },
     {
       "raw_hot": 82256,
-      "num": 172270,
+      "num": 210250,
       "word": "想吃王鹤棣手里的薯片",
       "onboard_time": 1761891143,
       "rank": 22,
@@ -92779,6 +92939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55473,
+      "num": 213774,
+      "word": "尼格买提送外卖",
+      "onboard_time": 1761894382,
+      "rank": 24,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 55387,
       "num": 55387,
       "word": "王俊凯NBA名人赛核心C位",
@@ -93704,6 +93872,14 @@
       "word": "国庆返程车尾挂满鸡鸭大鹅",
       "onboard_time": 1759911741,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52155,
+      "num": 150497,
+      "word": "卫健委回应新生儿从推车坠落骨折",
+      "onboard_time": 1761893602,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -98851,6 +99027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31038,
+      "num": 278156,
+      "word": "推进现房销售制实现所见即所得",
+      "onboard_time": 1761894382,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31034,
       "num": 48070,
       "word": "店家得打电话逐字确认好几遍",
@@ -99385,6 +99569,14 @@
       "onboard_time": 1761802764,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28472,
+      "num": 206140,
+      "word": "谁允许白敬亭这么会穿",
+      "onboard_time": 1761894382,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 28373,
