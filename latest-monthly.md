@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 19:22:27
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 19:37:46
 </p>
 </blockquote>
 <p>
@@ -5979,6 +5979,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%8F%B0%E4%BF%83%E4%BC%9A%23" target="weibo">
+蔡徐坤 台促会（热度：626998）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%A4%9A%E6%9E%9A%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23" target="weibo">
 中方回应朝鲜发射多枚弹道导弹（热度：626288）
 </a>
@@ -6005,12 +6011,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AE%A3%E4%BC%A0%E6%96%B0%E7%89%87%23" target="weibo">
 黄晓明回应刘亦菲宣传新片（热度：624651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
-高通涉嫌违反反垄断法（热度：624068）
 </a>
 </li>
 

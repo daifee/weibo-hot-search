@@ -1,0 +1,410 @@
+{
+  "runTime": 1761910666807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906148,
+        "num": 1144983,
+        "word": "AL对战T1",
+        "onboard_time": 1761893662,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 356798,
+        "num": 356798,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19622,
+        "num": 326330,
+        "word": "中国人的太空美学",
+        "onboard_time": 1761879620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301460,
+        "num": 301460,
+        "word": "AL对战T1决胜局",
+        "onboard_time": 1761907583,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191621,
+        "num": 191621,
+        "word": "中方回应特朗普所称G2会议",
+        "onboard_time": 1761908302,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147658,
+        "num": 147658,
+        "word": "泽连斯基又要中国帮忙",
+        "onboard_time": 1761907101,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145266,
+        "num": 145266,
+        "word": "暖阳镜单杀一诺孙尚香",
+        "onboard_time": 1761909981,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124425,
+        "num": 124425,
+        "word": "tabe的bp",
+        "onboard_time": 1761908961,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15591,
+        "num": 121470,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119884,
+        "num": 119884,
+        "word": "光与夜之恋新联动",
+        "onboard_time": 1761908542,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460415,
+        "num": 119581,
+        "word": "理想就车辆起火道歉",
+        "onboard_time": 1761904462,
+        "rank": 10,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 393531,
+        "num": 119070,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326506,
+        "num": 117676,
+        "word": "胡歌拥抱并夸了杨紫",
+        "onboard_time": 1761908601,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315202,
+        "num": 116864,
+        "word": "土家香酱饼 土家酱香饼",
+        "onboard_time": 1761904162,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219590,
+        "num": 116122,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201422,
+        "num": 115854,
+        "word": "医院通报新生儿转运坠床",
+        "onboard_time": 1761910221,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 195357,
+        "num": 114424,
+        "word": "转运坠床新生儿生命体征平稳",
+        "onboard_time": 1761910281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 114238,
+        "word": "龚俊怎么做到人人满意的",
+        "onboard_time": 1761909622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133718,
+        "num": 112964,
+        "word": "湘潭大学投毒案周立人已执行死刑",
+        "onboard_time": 1761901762,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112679,
+        "num": 112679,
+        "word": "天地剑心",
+        "onboard_time": 1761910341,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1540953,
+        "num": 112591,
+        "word": "曝蔡徐坤复出演唱会有猫腻",
+        "onboard_time": 1761906383,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 626998,
+        "num": 112405,
+        "word": "蔡徐坤 台促会",
+        "onboard_time": 1761909681,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115971,
+        "num": 112389,
+        "word": "周深被选手的一句话感动到红了眼眶",
+        "onboard_time": 1761909922,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239104,
+        "num": 112186,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189803,
+        "num": 111976,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139854,
+        "num": 111880,
+        "word": "杨紫梅婷生命树合照",
+        "onboard_time": 1761903262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124896,
+        "num": 111703,
+        "word": "林心如说霍建华没有送过无语的礼物",
+        "onboard_time": 1761907401,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106600,
+        "num": 111659,
+        "word": "iPhone17Pro系列京东优惠1000",
+        "onboard_time": 1761906923,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111535,
+        "num": 111535,
+        "word": "暴雪大暴雪特大暴雪来袭",
+        "onboard_time": 1761909441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89698,
+        "num": 110370,
+        "word": "免签入境老外的魔都打卡清单",
+        "onboard_time": 1761909802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116308,
+        "num": 110174,
+        "word": "魏大勋 叔圈娃娃菜",
+        "onboard_time": 1761909862,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109209,
+        "num": 109209,
+        "word": "徐冬冬 肚子厚是个人风格",
+        "onboard_time": 1761910161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106950,
+        "num": 106950,
+        "word": "为父母补缴社保用光了购房首付",
+        "onboard_time": 1761908843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106467,
+        "num": 106467,
+        "word": "请所有单位都按这个工位标配",
+        "onboard_time": 1761908782,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 101629,
+        "num": 101629,
+        "word": "泡泡玛特",
+        "onboard_time": 1761906982,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 92672,
+        "num": 101321,
+        "word": "马龙将六战全运会",
+        "onboard_time": 1761910402,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11381,
+        "num": 100724,
+        "word": "终于把双11优惠券用明白了",
+        "onboard_time": 1761910221,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61862,
+        "num": 100279,
+        "word": "你喜欢赠品还是满减",
+        "onboard_time": 1761909322,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42737,
+        "num": 99984,
+        "word": "日本熊快入侵京都了",
+        "onboard_time": 1761910041,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99683,
+        "num": 99683,
+        "word": "于正问赵晴像不像林青霞",
+        "onboard_time": 1761907702,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "新生儿转运时坠落骨折最新进展",
+        "onboard_time": 1761907523,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91357,
+        "num": 91357,
+        "word": "奶皮子冰糖葫芦",
+        "onboard_time": 1761909622,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89715,
+        "num": 89715,
+        "word": "爸爸一躺下小孩面相都变了",
+        "onboard_time": 1761901821,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 88019,
+        "num": 88019,
+        "word": "王楚钦好优越的侧脸",
+        "onboard_time": 1761906923,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81169,
+        "num": 81169,
+        "word": "白鹿决定补录",
+        "onboard_time": 1761891922,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78561,
+        "num": 78561,
+        "word": "剧本都写不出杨幂的临场发挥",
+        "onboard_time": 1761910641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78354,
+        "num": 78354,
+        "word": "中超联赛",
+        "onboard_time": 1761909922,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77341,
+        "num": 77341,
+        "word": "Faker陷入绝境",
+        "onboard_time": 1761907223,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75562,
+        "num": 75562,
+        "word": "中加关系呈恢复向好态势",
+        "onboard_time": 1761909020,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74481,
+        "num": 74481,
+        "word": "富贵有三勺盐三勺糖三个馒头",
+        "onboard_time": 1761906082,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

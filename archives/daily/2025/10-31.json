@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761909747341,
+  "endTime": 1761910666807,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626998,
+      "num": 134352,
+      "word": "蔡徐坤 台促会",
+      "onboard_time": 1761909681,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 617013,
       "num": 917043,
       "word": "杨紫胡歌生命树最新海报",
@@ -185,14 +193,6 @@
       "onboard_time": 1761879498,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 578449,
-      "num": 134352,
-      "word": "蔡徐坤 台促会",
-      "onboard_time": 1761909681,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 571054,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326506,
+      "num": 137816,
+      "word": "胡歌拥抱并夸了杨紫",
+      "onboard_time": 1761908601,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322554,
       "num": 322554,
       "word": "骨溶症女生植骨4次均溶解",
@@ -409,6 +417,14 @@
       "onboard_time": 1761833360,
       "rank": 3,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 301460,
+      "num": 301460,
+      "word": "AL对战T1决胜局",
+      "onboard_time": 1761907583,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 297200,
@@ -505,14 +521,6 @@
       "onboard_time": 1761895101,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257065,
-      "num": 257065,
-      "word": "AL对战T1决胜局",
-      "onboard_time": 1761907583,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 252450,
@@ -635,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214463,
-      "num": 137816,
-      "word": "胡歌拥抱并夸了杨紫",
-      "onboard_time": 1761908601,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212929,
       "num": 212929,
       "word": "白鹿十一月行程",
@@ -723,6 +723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201422,
+      "num": 115854,
+      "word": "医院通报新生儿转运坠床",
+      "onboard_time": 1761910221,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 201404,
       "num": 166978,
       "word": "潘玮柏新歌去你的",
@@ -787,6 +795,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 195357,
+      "num": 114424,
+      "word": "转运坠床新生儿生命体征平稳",
+      "onboard_time": 1761910281,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193959,
       "num": 193959,
       "word": "蔡依林官宣新巡演台北首站",
@@ -817,6 +833,14 @@
       "onboard_time": 1761867438,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191621,
+      "num": 191621,
+      "word": "中方回应特朗普所称G2会议",
+      "onboard_time": 1761908302,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190706,
@@ -1024,14 +1048,6 @@
       "word": "美方加征24%关税继续暂停一年",
       "onboard_time": 1761809000,
       "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 166484,
-      "num": 166484,
-      "word": "中方回应特朗普所称G2会议",
-      "onboard_time": 1761908302,
-      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -1243,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147658,
+      "num": 147658,
+      "word": "泽连斯基又要中国帮忙",
+      "onboard_time": 1761907101,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147291,
       "num": 147291,
       "word": "杨紫白菊杀青照",
@@ -1281,6 +1305,22 @@
       "onboard_time": 1761879440,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145498,
+      "num": 114238,
+      "word": "龚俊怎么做到人人满意的",
+      "onboard_time": 1761909622,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145266,
+      "num": 145266,
+      "word": "暖阳镜单杀一诺孙尚香",
+      "onboard_time": 1761909981,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 144650,
@@ -1353,14 +1393,6 @@
       "onboard_time": 1761892341,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134704,
-      "num": 134704,
-      "word": "泽连斯基又要中国帮忙",
-      "onboard_time": 1761907101,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132851,
@@ -1555,6 +1587,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 116308,
+      "num": 110174,
+      "word": "魏大勋 叔圈娃娃菜",
+      "onboard_time": 1761909862,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116182,
       "num": 116182,
       "word": "苗苗一个眼神郑恺疯狂解释",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1761879200,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115971,
+      "num": 112389,
+      "word": "周深被选手的一句话感动到红了眼眶",
+      "onboard_time": 1761909922,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 115439,
@@ -1635,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112679,
+      "num": 112679,
+      "word": "天地剑心",
+      "onboard_time": 1761910341,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112480,
       "num": 112480,
       "word": "李沁喜不喜欢这下也是分明了",
@@ -1648,6 +1704,14 @@
       "word": "小孩高铁生病哭闹乘客生气质问",
       "onboard_time": 1761825441,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111535,
+      "num": 111535,
+      "word": "暴雪大暴雪特大暴雪来袭",
+      "onboard_time": 1761909441,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1699,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109209,
+      "num": 109209,
+      "word": "徐冬冬 肚子厚是个人风格",
+      "onboard_time": 1761910161,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109089,
       "num": 295291,
       "word": "星穹铁道昔涟",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1761891862,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106950,
+      "num": 106950,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106592,
@@ -1875,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101629,
+      "num": 101629,
+      "word": "泡泡玛特",
+      "onboard_time": 1761906982,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 101483,
       "num": 101483,
       "word": "张继科说没有资源纯靠拼出来",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1761824361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99683,
+      "num": 99683,
+      "word": "于正问赵晴像不像林青霞",
+      "onboard_time": 1761907702,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 98934,
@@ -2011,14 +2107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95389,
-      "num": 94908,
-      "word": "于正问赵晴像不像林青霞",
-      "onboard_time": 1761907702,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95162,
       "num": 95162,
       "word": "流感发病48小时是黄金自救时间",
@@ -2033,14 +2121,6 @@
       "onboard_time": 1761897622,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94920,
-      "num": 94920,
-      "word": "泡泡玛特",
-      "onboard_time": 1761906982,
-      "rank": 40,
-      "category": "休闲"
     },
     {
       "raw_hot": 94903,
@@ -2099,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94012,
-      "num": 94012,
-      "word": "龚俊怎么做到人人满意的",
-      "onboard_time": 1761909622,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93179,
       "num": 93179,
       "word": "曝国内厂商暂停轻薄Air手机项目",
@@ -2131,12 +2203,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 92672,
+      "num": 101321,
+      "word": "马龙将六战全运会",
+      "onboard_time": 1761910402,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92241,
       "num": 88957,
       "word": "冷门大学清华大学",
       "onboard_time": 1761901340,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91357,
+      "num": 91357,
+      "word": "奶皮子冰糖葫芦",
+      "onboard_time": 1761909622,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 90461,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1761875540,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89698,
+      "num": 110370,
+      "word": "免签入境老外的魔都打卡清单",
+      "onboard_time": 1761909802,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89683,
@@ -2209,14 +2305,6 @@
       "onboard_time": 1761904462,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88361,
-      "num": 88361,
-      "word": "奶皮子冰糖葫芦",
-      "onboard_time": 1761909622,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 88025,
@@ -2331,14 +2419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83468,
-      "num": 104367,
-      "word": "暴雪大暴雪特大暴雪来袭",
-      "onboard_time": 1761909441,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83387,
       "num": 104597,
       "word": "基金业绩比较基准征求意见稿发布",
@@ -2435,12 +2515,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 78570,
-      "num": 94954,
-      "word": "为父母补缴社保用光了购房首付",
-      "onboard_time": 1761908843,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 78561,
+      "num": 78561,
+      "word": "剧本都写不出杨幂的临场发挥",
+      "onboard_time": 1761910641,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 78505,
@@ -2467,8 +2547,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78354,
+      "num": 78354,
+      "word": "中超联赛",
+      "onboard_time": 1761909922,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77341,
+      "num": 77341,
+      "word": "Faker陷入绝境",
+      "onboard_time": 1761907223,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76599,
-      "num": 94997,
+      "num": 100279,
       "word": "你喜欢赠品还是满减",
       "onboard_time": 1761909322,
       "rank": 38,
@@ -2481,14 +2577,6 @@
       "onboard_time": 1761905181,
       "rank": 46,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 75873,
-      "num": 75873,
-      "word": "Faker陷入绝境",
-      "onboard_time": 1761907223,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 75449,
@@ -2891,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42737,
+      "num": 99984,
+      "word": "日本熊快入侵京都了",
+      "onboard_time": 1761910041,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40784,
       "num": 695639,
       "word": "10月最后一天",
@@ -3201,6 +3297,14 @@
       "onboard_time": 1761880040,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11381,
+      "num": 100724,
+      "word": "终于把双11优惠券用明白了",
+      "onboard_time": 1761910221,
+      "rank": 36,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
