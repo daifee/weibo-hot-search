@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761900434929,
+  "endTime": 1761902932312,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -243,6 +243,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391216,
+      "num": 391216,
+      "word": "湘潭大学投毒案周立人已执行死刑",
+      "onboard_time": 1761901762,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378381,
+      "num": 136003,
+      "word": "游本昌爱发朋友圈",
+      "onboard_time": 1761898940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373089,
       "num": 373089,
       "word": "白鹿敖瑞鹏急缺二搭现偶",
@@ -376,14 +392,6 @@
       "word": "刘谦抗癌成功后近况",
       "onboard_time": 1761825621,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 279211,
-      "num": 127689,
-      "word": "游本昌爱发朋友圈",
-      "onboard_time": 1761898940,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -555,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210288,
+      "num": 131623,
+      "word": "爸爸一躺下小孩面相都变了",
+      "onboard_time": 1761901821,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 208371,
       "num": 208371,
       "word": "张凌赫 女孩一定得吃碳水",
@@ -675,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 192388,
+      "num": 148018,
+      "word": "头像真的很影响聊天欲",
+      "onboard_time": 1761897622,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192269,
       "num": 230267,
       "word": "玉簟秋开机当天就有预告了",
@@ -747,6 +771,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187227,
+      "num": 145960,
+      "word": "南北CP 影视CP榜断层第一",
+      "onboard_time": 1761901821,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186826,
+      "num": 186826,
+      "word": "MEGA2024款电动汽车部分召回",
+      "onboard_time": 1761902721,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 185597,
       "num": 655710,
       "word": "泰国哀悼王太后服装店换成黑白款",
@@ -769,6 +809,14 @@
       "onboard_time": 1761894741,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180230,
+      "num": 180230,
+      "word": "北京12345回应王楚钦夺冠球台争议",
+      "onboard_time": 1761902482,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 178196,
@@ -857,6 +905,14 @@
       "onboard_time": 1761838461,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165130,
+      "num": 143836,
+      "word": "打工人口中吃顿好的",
+      "onboard_time": 1761902242,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 164398,
@@ -963,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150763,
+      "num": 150763,
+      "word": "ivl",
+      "onboard_time": 1761901582,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150311,
       "num": 643849,
       "word": "中级会计 等成绩",
@@ -1043,12 +1107,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144388,
+      "num": 135176,
+      "word": "明星说瘦就真瘦啊",
+      "onboard_time": 1761901103,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143506,
+      "num": 143506,
+      "word": "第五人格",
+      "onboard_time": 1761902182,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142812,
       "num": 142812,
       "word": "王楚然一出手就是神图",
       "onboard_time": 1761888682,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142583,
+      "num": 135034,
+      "word": "婚内强奸遭羁押285天男子获国赔",
+      "onboard_time": 1761902303,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141222,
@@ -1139,6 +1227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127191,
+      "num": 127191,
+      "word": "AL扳平",
+      "onboard_time": 1761900863,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126690,
       "num": 603903,
       "word": "火锅店回应空中座位玻璃碎裂",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1761886401,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124196,
+      "num": 134821,
+      "word": "XXXL月亮来了",
+      "onboard_time": 1761896961,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122187,
@@ -1235,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115112,
-      "num": 115112,
-      "word": "XXXL月亮来了",
-      "onboard_time": 1761896961,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 115439,
+      "num": 136525,
+      "word": "生命树",
+      "onboard_time": 1761900863,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 113850,
@@ -1273,6 +1377,22 @@
       "onboard_time": 1761896060,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 112976,
+      "num": 112976,
+      "word": "王俊凯最好的舞台没有捷径",
+      "onboard_time": 1761901522,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 112683,
+      "num": 112683,
+      "word": "52岁女子试管怀上双胎还遇上早产",
+      "onboard_time": 1761899721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112480,
@@ -1315,28 +1435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110894,
-      "num": 110894,
-      "word": "52岁女子试管怀上双胎还遇上早产",
-      "onboard_time": 1761899721,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110483,
       "num": 110483,
       "word": "公务员辞去公职规定",
       "onboard_time": 1761893541,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110243,
-      "num": 110243,
-      "word": "头像真的很影响聊天欲",
-      "onboard_time": 1761897622,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 110069,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1761898401,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105480,
+      "num": 136464,
+      "word": "生命树首发杀青特辑",
+      "onboard_time": 1761902242,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 105453,
@@ -1699,6 +1811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93099,
+      "num": 93099,
+      "word": "马龙樊振东顶尖高手的极限拉扯",
+      "onboard_time": 1761902539,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 88957,
+      "word": "冷门大学清华大学",
+      "onboard_time": 1761901340,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90461,
       "num": 90461,
       "word": "白酒股利空出尽了吗",
@@ -1721,6 +1849,22 @@
       "onboard_time": 1761818721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88025,
+      "num": 93111,
+      "word": "近7成网友称凑单是双十一痛点",
+      "onboard_time": 1761901282,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 87952,
+      "num": 95608,
+      "word": "减肥药王炸来了",
+      "onboard_time": 1761901223,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87353,
@@ -1900,7 +2044,7 @@
     },
     {
       "raw_hot": 73135,
-      "num": 122284,
+      "num": 134767,
       "word": "以前怕晚高峰现在盼晚高疯",
       "onboard_time": 1761898341,
       "rank": 27,
@@ -1956,7 +2100,7 @@
     },
     {
       "raw_hot": 69167,
-      "num": 133078,
+      "num": 136065,
       "word": "南北方过冬达成历史性一致",
       "onboard_time": 1761898940,
       "rank": 19,
@@ -2147,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52714,
+      "num": 89288,
+      "word": "双十一买什么家电过冬",
+      "onboard_time": 1761901282,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52518,
       "num": 599109,
       "word": "立讯精密预计全年净利润超165.18亿",
@@ -2187,12 +2339,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47381,
+      "num": 136276,
+      "word": "大牌保暖空调天猫国补历史最低价",
+      "onboard_time": 1761901821,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46270,
       "num": 599509,
       "word": "师生矛盾该不该上法庭",
       "onboard_time": 1761837261,
       "rank": 49,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 44134,
+      "num": 135741,
+      "word": "京东手机5折",
+      "onboard_time": 1761901522,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 44123,
@@ -2251,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34679,
+      "num": 135689,
+      "word": "王鹤棣吃薯片的样子演我",
+      "onboard_time": 1761899842,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34390,
       "num": 374079,
       "word": "大眼音乐节免费接驳车",
@@ -2299,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26225,
-      "num": 111886,
-      "word": "王鹤棣吃薯片的样子演我",
-      "onboard_time": 1761899842,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25910,
       "num": 265820,
       "word": "陈丽君年度文化传承创新演员",
@@ -2345,6 +2513,14 @@
       "onboard_time": 1761891262,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23729,
+      "num": 89522,
+      "word": "以色列再次重启袭击哈马斯",
+      "onboard_time": 1761901402,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22301,
@@ -2427,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16418,
+      "num": 104179,
+      "word": "冬季保暖的穿搭思路",
+      "onboard_time": 1761901223,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 16306,
       "num": 449311,
       "word": "2025APEC",
@@ -2448,6 +2632,14 @@
       "word": "30年仍不粘不锈钢锅复产预售60元",
       "onboard_time": 1761885741,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13524,
+      "num": 88917,
+      "word": "知情者称有流浪猫寄养时被当血猫",
+      "onboard_time": 1761901402,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
