@@ -1,0 +1,410 @@
+{
+  "runTime": 1761916026282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602218,
+        "num": 1096354,
+        "word": "Hope表现",
+        "onboard_time": 1761913283,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287202,
+        "num": 287202,
+        "word": "731导演穿防弹衣出席日本试映",
+        "onboard_time": 1761910944,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14146,
+        "num": 274433,
+        "word": "中国人的太空美学",
+        "onboard_time": 1761879620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262023,
+        "num": 262023,
+        "word": "AL 意难平",
+        "onboard_time": 1761912324,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260821,
+        "num": 260821,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2534189,
+        "num": 257231,
+        "word": "T1战胜AL",
+        "onboard_time": 1761911004,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238603,
+        "num": 238603,
+        "word": "AL止步八强",
+        "onboard_time": 1761911305,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229671,
+        "num": 229671,
+        "word": "tabe的bp",
+        "onboard_time": 1761908961,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20200,
+        "num": 225137,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224963,
+        "num": 224963,
+        "word": "神21航天员亮相",
+        "onboard_time": 1761915504,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333758,
+        "num": 222170,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263239,
+        "num": 210348,
+        "word": "胡歌拥抱并夸了杨紫",
+        "onboard_time": 1761908601,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262524,
+        "num": 203927,
+        "word": "理想就车辆起火道歉",
+        "onboard_time": 1761904462,
+        "rank": 12,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 191993,
+        "num": 191993,
+        "word": "爱笑 Hope",
+        "onboard_time": 1761915142,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169507,
+        "num": 191948,
+        "word": "龚俊暗河传23集27分33秒",
+        "onboard_time": 1761910763,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152604,
+        "num": 191914,
+        "word": "暴雪大暴雪特大暴雪来袭",
+        "onboard_time": 1761909441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143310,
+        "num": 191863,
+        "word": "王牌对王牌",
+        "onboard_time": 1761915203,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131063,
+        "num": 191801,
+        "word": "山河枕",
+        "onboard_time": 1761912263,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45925,
+        "num": 191745,
+        "word": "高市早苗滑动椅子靠近印尼总统交谈",
+        "onboard_time": 1761915504,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59578,
+        "num": 191657,
+        "word": "京东百亿补贴1元买百吋电视",
+        "onboard_time": 1761912324,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114000,
+        "num": 191576,
+        "word": "神二十一航天员出征仪式",
+        "onboard_time": 1761914542,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667683,
+        "num": 191531,
+        "word": "王晓晨怎么了",
+        "onboard_time": 1761914243,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261809,
+        "num": 191512,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238906,
+        "num": 191422,
+        "word": "蔡徐坤",
+        "onboard_time": 1761906023,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205700,
+        "num": 191377,
+        "word": "这居然是黄雅莉",
+        "onboard_time": 1761914362,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191334,
+        "num": 191334,
+        "word": "韩国偶遇黄奕",
+        "onboard_time": 1761914842,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188162,
+        "num": 188162,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182006,
+        "num": 182006,
+        "word": "骗子最爱精准围猎高自尊人群",
+        "onboard_time": 1761915023,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 137053,
+        "num": 173708,
+        "word": "王楚钦说敬佩马龙但成为不了他",
+        "onboard_time": 1761914602,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119903,
+        "num": 172499,
+        "word": "全球一半以上的夏威夷果产自中国",
+        "onboard_time": 1761915262,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268497,
+        "num": 172403,
+        "word": "孙亚龙曝LPL和LCK停止训练赛",
+        "onboard_time": 1761915683,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171397,
+        "num": 171397,
+        "word": "蔡依林宝格丽晚宴造型",
+        "onboard_time": 1761913224,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6966,
+        "num": 169947,
+        "word": "王鹤棣吃薯片都这么帅",
+        "onboard_time": 1761915862,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 169673,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165368,
+        "num": 165368,
+        "word": "医院通报新生儿转运坠床",
+        "onboard_time": 1761910221,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 7134,
+        "num": 164991,
+        "word": "张凌赫的手机也在减重",
+        "onboard_time": 1761915862,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52966,
+        "num": 164001,
+        "word": "小酒窝说黄明昊哥哥太帅了",
+        "onboard_time": 1761915023,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44477,
+        "num": 163449,
+        "word": "外媒评中美会谈美国退缩了",
+        "onboard_time": 1761915621,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19619,
+        "num": 162803,
+        "word": "买狗退款后女子连收3天丧葬用品",
+        "onboard_time": 1761915683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17930,
+        "num": 162377,
+        "word": "双11能用国补买点啥",
+        "onboard_time": 1761913643,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "饼抢肖战",
+        "onboard_time": 1761913461,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152688,
+        "num": 152688,
+        "word": "圣枪哥燃尽了",
+        "onboard_time": 1761911603,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148461,
+        "num": 148461,
+        "word": "Faker说赛前曾想会是告别赛",
+        "onboard_time": 1761915563,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145910,
+        "num": 145910,
+        "word": "土家香酱饼 土家酱香饼",
+        "onboard_time": 1761904162,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133555,
+        "num": 133555,
+        "word": "T1 绝望",
+        "onboard_time": 1761912983,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129149,
+        "num": 129149,
+        "word": "原来柠檬是一种很全能的水果",
+        "onboard_time": 1761915023,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30780,
+        "num": 125525,
+        "word": "手把手教你用国补抄底",
+        "onboard_time": 1761912263,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123917,
+        "num": 123917,
+        "word": "星穹铁道糖果神秘屋",
+        "onboard_time": 1761915742,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122696,
+        "num": 122696,
+        "word": "Tarzan 可惜",
+        "onboard_time": 1761914183,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110476,
+        "num": 110476,
+        "word": "米勒 说不出话",
+        "onboard_time": 1761914362,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

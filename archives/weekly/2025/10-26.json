@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761915182447,
+  "endTime": 1761916026282,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667683,
+      "num": 191531,
+      "word": "王晓晨怎么了",
+      "onboard_time": 1761914243,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662611,
       "num": 328790,
       "word": "37岁阚清子孕晚期状态",
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 661817,
-      "num": 182720,
+      "num": 191422,
       "word": "蔡徐坤",
       "onboard_time": 1761906023,
       "rank": 22,
@@ -1755,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 602218,
+      "num": 1096354,
+      "word": "Hope表现",
+      "onboard_time": 1761913283,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 599923,
       "num": 289929,
       "word": "陈伟霆 传新iPhone要一天多",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1761726260,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585163,
-      "num": 585163,
-      "word": "Hope表现",
-      "onboard_time": 1761913283,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 581156,
@@ -2675,14 +2683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 437433,
-      "num": 184209,
-      "word": "王晓晨怎么了",
-      "onboard_time": 1761914243,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437237,
       "num": 437237,
       "word": "大学法学老师被学生吐槽称将起诉",
@@ -2980,7 +2980,7 @@
     },
     {
       "raw_hot": 399214,
-      "num": 159180,
+      "num": 169673,
       "word": "游本昌爱发朋友圈",
       "onboard_time": 1761898940,
       "rank": 23,
@@ -3332,7 +3332,7 @@
     },
     {
       "raw_hot": 357166,
-      "num": 205324,
+      "num": 210348,
       "word": "胡歌拥抱并夸了杨紫",
       "onboard_time": 1761908601,
       "rank": 16,
@@ -3708,7 +3708,7 @@
     },
     {
       "raw_hot": 319596,
-      "num": 231545,
+      "num": 238603,
       "word": "AL止步八强",
       "onboard_time": 1761911305,
       "rank": 6,
@@ -4012,7 +4012,7 @@
     },
     {
       "raw_hot": 294318,
-      "num": 180182,
+      "num": 188162,
       "word": "男子无培训上班第一天害死同事",
       "onboard_time": 1761903080,
       "rank": 37,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1761476600,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287202,
+      "num": 287202,
+      "word": "731导演穿防弹衣出席日本试映",
+      "onboard_time": 1761910944,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 287065,
@@ -4355,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268497,
+      "num": 172403,
+      "word": "孙亚龙曝LPL和LCK停止训练赛",
+      "onboard_time": 1761915683,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268334,
       "num": 217556,
       "word": "入青云",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1761780259,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262023,
+      "num": 262023,
+      "word": "AL 意难平",
+      "onboard_time": 1761912324,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 261964,
@@ -4833,14 +4857,6 @@
       "onboard_time": 1761493402,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240303,
-      "num": 240303,
-      "word": "AL 意难平",
-      "onboard_time": 1761912324,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 239895,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1761745042,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 224963,
+      "num": 224963,
+      "word": "神21航天员亮相",
+      "onboard_time": 1761915504,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224620,
@@ -5803,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205700,
+      "num": 191377,
+      "word": "这居然是黄雅莉",
+      "onboard_time": 1761914362,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205211,
       "num": 205211,
       "word": "山河枕开局下线7万人",
@@ -5940,7 +5972,7 @@
     },
     {
       "raw_hot": 201422,
-      "num": 146695,
+      "num": 165368,
       "word": "医院通报新生儿转运坠床",
       "onboard_time": 1761910221,
       "rank": 15,
@@ -6499,6 +6531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191993,
+      "num": 191993,
+      "word": "爱笑 Hope",
+      "onboard_time": 1761915142,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191895,
       "num": 191895,
       "word": "中级会计",
@@ -6529,6 +6569,14 @@
       "onboard_time": 1761537561,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191334,
+      "num": 191334,
+      "word": "韩国偶遇黄奕",
+      "onboard_time": 1761914842,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190785,
@@ -6620,7 +6668,7 @@
     },
     {
       "raw_hot": 189446,
-      "num": 181540,
+      "num": 182006,
       "word": "骗子最爱精准围猎高自尊人群",
       "onboard_time": 1761915023,
       "rank": 24,
@@ -6873,14 +6921,6 @@
       "onboard_time": 1761640043,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186019,
-      "num": 186019,
-      "word": "731导演穿防弹衣出席日本试映",
-      "onboard_time": 1761910944,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 185841,
@@ -7144,14 +7184,6 @@
       "word": "刘亦菲晒与成龙新合照",
       "onboard_time": 1761894741,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181298,
-      "num": 181298,
-      "word": "这居然是黄雅莉",
-      "onboard_time": 1761914362,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -7808,6 +7840,14 @@
       "word": "胡歌琅琊榜之后首部古装剧",
       "onboard_time": 1761550041,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169507,
+      "num": 191948,
+      "word": "龚俊暗河传23集27分33秒",
+      "onboard_time": 1761910763,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -8827,14 +8867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155187,
-      "num": 155187,
-      "word": "韩国偶遇黄奕",
-      "onboard_time": 1761914842,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155182,
       "num": 155182,
       "word": "王耀庆见到于适哇了两秒",
@@ -9411,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148461,
+      "num": 148461,
+      "word": "Faker说赛前曾想会是告别赛",
+      "onboard_time": 1761915563,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148423,
       "num": 176779,
       "word": "天冷了王一博有鸭鸭不怕冷",
@@ -9915,6 +9955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143310,
+      "num": 191863,
+      "word": "王牌对王牌",
+      "onboard_time": 1761915203,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143255,
       "num": 143255,
       "word": "Viper尽力了",
@@ -10156,7 +10204,7 @@
     },
     {
       "raw_hot": 139727,
-      "num": 171037,
+      "num": 173708,
       "word": "王楚钦说敬佩马龙但成为不了他",
       "onboard_time": 1761914602,
       "rank": 28,
@@ -11963,6 +12011,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 123917,
+      "num": 123917,
+      "word": "星穹铁道糖果神秘屋",
+      "onboard_time": 1761915742,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123900,
       "num": 123900,
       "word": "王者十周年全是梗",
@@ -12259,22 +12315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121101,
-      "num": 121101,
-      "word": "爱笑 Hope",
-      "onboard_time": 1761915142,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 121018,
-      "num": 184895,
-      "word": "龚俊暗河传23集27分33秒",
-      "onboard_time": 1761910763,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120990,
       "num": 120990,
       "word": "台湾光复80周年",
@@ -12377,6 +12417,14 @@
       "onboard_time": 1761790640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119903,
+      "num": 172499,
+      "word": "全球一半以上的夏威夷果产自中国",
+      "onboard_time": 1761915262,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119879,
@@ -13129,6 +13177,14 @@
       "onboard_time": 1761749662,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114000,
+      "num": 209949,
+      "word": "神二十一航天员出征仪式",
+      "onboard_time": 1761914542,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113920,
@@ -16580,7 +16636,7 @@
     },
     {
       "raw_hot": 88448,
-      "num": 124434,
+      "num": 125525,
       "word": "手把手教你用国补抄底",
       "onboard_time": 1761912263,
       "rank": 44,
@@ -18627,6 +18683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59578,
+      "num": 191657,
+      "word": "京东百亿补贴1元买百吋电视",
+      "onboard_time": 1761912324,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59555,
       "num": 192560,
       "word": "宝宝巴士就擦边广告向当事人道歉",
@@ -18825,14 +18889,6 @@
       "onboard_time": 1761642442,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 57197,
-      "num": 184464,
-      "word": "京东百亿补贴1元买百吋电视",
-      "onboard_time": 1761912324,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 56970,
@@ -19041,6 +19097,14 @@
       "onboard_time": 1761647601,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52966,
+      "num": 164001,
+      "word": "小酒窝说黄明昊哥哥太帅了",
+      "onboard_time": 1761915023,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 52714,
@@ -19475,20 +19539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45925,
+      "num": 191745,
+      "word": "高市早苗滑动椅子靠近印尼总统交谈",
+      "onboard_time": 1761915504,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45793,
       "num": 130391,
       "word": "杨祐宁父亲追思会",
       "onboard_time": 1761547222,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45730,
-      "num": 135282,
-      "word": "小酒窝说黄明昊哥哥太帅了",
-      "onboard_time": 1761915023,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 45715,
@@ -19569,6 +19633,14 @@
       "onboard_time": 1761780259,
       "rank": 37,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 44477,
+      "num": 163449,
+      "word": "外媒评中美会谈美国退缩了",
+      "onboard_time": 1761915621,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44159,
@@ -20499,14 +20571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27661,
-      "num": 209949,
-      "word": "神二十一航天员出征仪式",
-      "onboard_time": 1761914542,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27650,
       "num": 41013,
       "word": "当女朋友拍照时故意破坏蛋糕",
@@ -20916,7 +20980,7 @@
     },
     {
       "raw_hot": 21779,
-      "num": 135212,
+      "num": 162377,
       "word": "双11能用国补买点啥",
       "onboard_time": 1761913643,
       "rank": 39,
@@ -21079,6 +21143,14 @@
       "num": 107938,
       "word": "黑人留学生半夜翻墙爬进女生宿舍",
       "onboard_time": 1761742822,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19619,
+      "num": 162803,
+      "word": "买狗退款后女子连收3天丧葬用品",
+      "onboard_time": 1761915683,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -21579,6 +21651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 7134,
+      "num": 164991,
+      "word": "张凌赫的手机也在减重",
+      "onboard_time": 1761915862,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7128,
       "num": 425814,
       "word": "我国长期向好的基本趋势没有变",
@@ -21593,6 +21673,14 @@
       "onboard_time": 1761468140,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6966,
+      "num": 169947,
+      "word": "王鹤棣吃薯片都这么帅",
+      "onboard_time": 1761915862,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 6942,
