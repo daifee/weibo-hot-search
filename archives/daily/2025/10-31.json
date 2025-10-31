@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761920830527,
+  "endTime": 1761921911637,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1088332,
+      "num": 1174133,
+      "word": "将门毒后 王鹤棣孟子义",
+      "onboard_time": 1761919463,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1033850,
       "num": 331660,
       "word": "建议洗澡千万不要先洗头",
@@ -123,7 +131,7 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 876520,
+      "raw_hot": 880509,
       "num": 1140243,
       "word": "联合国感谢中国缴清会费",
       "onboard_time": 1761917423,
@@ -179,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 734548,
+      "num": 202961,
+      "word": "李纯马頔一看就很会过日子",
+      "onboard_time": 1761919162,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705612,
       "num": 1112897,
       "word": "央视曝光盗版剧APP",
       "onboard_time": 1761894262,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 685319,
+      "num": 202380,
+      "word": "张远否认与王霏霏恋情",
+      "onboard_time": 1761919642,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 661817,
@@ -235,14 +259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 579910,
-      "num": 579910,
-      "word": "将门毒后 王鹤棣孟子义",
-      "onboard_time": 1761919463,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 571054,
       "num": 162011,
       "word": "土家香酱饼 土家酱香饼",
@@ -265,14 +281,6 @@
       "onboard_time": 1761852194,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 501592,
-      "num": 202961,
-      "word": "李纯马頔一看就很会过日子",
-      "onboard_time": 1761919162,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 478787,
@@ -305,14 +313,6 @@
       "onboard_time": 1761901762,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461030,
-      "num": 202380,
-      "word": "张远否认与王霏霏恋情",
-      "onboard_time": 1761919642,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 456715,
@@ -555,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285293,
+      "num": 260450,
+      "word": "关晓彤劈叉",
+      "onboard_time": 1761918083,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282252,
       "num": 789066,
       "word": "鼠鼠我啊要上太空了",
@@ -627,14 +635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 260450,
-      "num": 260450,
-      "word": "关晓彤劈叉",
-      "onboard_time": 1761918083,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259847,
       "num": 226804,
       "word": "董璇也在吃张维伊的瓜",
@@ -649,6 +649,14 @@
       "onboard_time": 1761894202,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247886,
+      "num": 201517,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1761916702,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 247863,
@@ -723,6 +731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234512,
+      "num": 181231,
+      "word": "AL教练后台痛哭",
+      "onboard_time": 1761919883,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230305,
       "num": 187946,
       "word": "十年前的彭小苒",
@@ -739,20 +755,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228453,
+      "num": 260774,
+      "word": "神21航天员亮相",
+      "onboard_time": 1761915504,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 228231,
       "num": 757517,
       "word": "AL挑战Faker研讨会",
       "onboard_time": 1761880999,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 224963,
-      "num": 260774,
-      "word": "神21航天员亮相",
-      "onboard_time": 1761915504,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 224255,
@@ -777,6 +793,14 @@
       "onboard_time": 1761878421,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218229,
+      "num": 205597,
+      "word": "Wolf说Hope确实菜",
+      "onboard_time": 1761918022,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 215842,
@@ -851,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205597,
-      "num": 205597,
-      "word": "Wolf说Hope确实菜",
-      "onboard_time": 1761918022,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204997,
       "num": 164556,
       "word": "9岁半女孩已来2次月经",
@@ -899,22 +915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202215,
-      "num": 174337,
-      "word": "AL教练后台痛哭",
-      "onboard_time": 1761919883,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 201517,
-      "num": 201517,
-      "word": "蔡徐坤直播",
-      "onboard_time": 1761916702,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201422,
       "num": 165368,
       "word": "医院通报新生儿转运坠床",
@@ -945,6 +945,14 @@
       "onboard_time": 1761873919,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198500,
+      "num": 152221,
+      "word": "Ning说AL这种输是最可惜的",
+      "onboard_time": 1761920904,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 198301,
@@ -1179,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182079,
+      "num": 182079,
+      "word": "一诺这一次鸟巢见",
+      "onboard_time": 1761920964,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181983,
       "num": 336039,
       "word": "加湿器加精油可能致肺炎",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1761906621,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180697,
+      "num": 180697,
+      "word": "将门毒后",
+      "onboard_time": 1761920664,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 178702,
@@ -1707,12 +1731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143559,
+      "num": 143559,
+      "word": "刘隽十月vlog",
+      "onboard_time": 1761920783,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143506,
       "num": 143506,
       "word": "第五人格",
       "onboard_time": 1761902182,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143426,
+      "num": 143426,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142812,
@@ -1875,14 +1915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127207,
-      "num": 127207,
-      "word": "为父母补缴社保用光了购房首付",
-      "onboard_time": 1761908843,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127191,
       "num": 139406,
       "word": "AL扳平",
@@ -1963,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122996,
+      "num": 122996,
+      "word": "严鼎皓任意球破门",
+      "onboard_time": 1761921804,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122187,
       "num": 326474,
       "word": "2025微博视界大会第五波阵容官宣",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1761918563,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120966,
+      "num": 120966,
+      "word": "Tom回应战胜AL",
+      "onboard_time": 1761921622,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 120598,
@@ -2084,7 +2132,7 @@
     },
     {
       "raw_hot": 116280,
-      "num": 116280,
+      "num": 155770,
       "word": "周深当主持人在台上演了段小品",
       "onboard_time": 1761920423,
       "rank": 44,
@@ -2129,14 +2177,6 @@
       "onboard_time": 1761900863,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115102,
-      "num": 115102,
-      "word": "刘隽十月vlog",
-      "onboard_time": 1761920783,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 114995,
@@ -2227,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111428,
+      "num": 152533,
+      "word": "上海申花1比0深圳新鹏城",
+      "onboard_time": 1761921204,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111290,
       "num": 603792,
       "word": "大麦 偷跑",
@@ -2259,6 +2307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110930,
+      "num": 110930,
+      "word": "大龙 下次再也不躲了",
+      "onboard_time": 1761921622,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110483,
       "num": 110483,
       "word": "公务员辞去公职规定",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1761876679,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109610,
-      "num": 109610,
-      "word": "将门毒后",
-      "onboard_time": 1761920664,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 109600,
@@ -2345,6 +2393,14 @@
       "onboard_time": 1761891862,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106686,
+      "num": 106686,
+      "word": "王楚钦一年五大刊",
+      "onboard_time": 1761921443,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106592,
@@ -3123,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74633,
+      "num": 144207,
+      "word": "尹锡悦庭上批检察官直呼金建希名字",
+      "onboard_time": 1761921022,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74543,
       "num": 78153,
       "word": "全国已有29个省份延长婚假",
@@ -3347,6 +3411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58927,
+      "num": 174465,
+      "word": "必会的iPhone截图技巧",
+      "onboard_time": 1761918022,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 58545,
       "num": 599884,
       "word": "TES刚赢比赛马上又打训练赛",
@@ -3529,14 +3601,6 @@
       "onboard_time": 1761837502,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47786,
-      "num": 174465,
-      "word": "必会的iPhone截图技巧",
-      "onboard_time": 1761918022,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 47381,
@@ -3827,11 +3891,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20001,
+      "num": 147070,
+      "word": "那些年iPhone被取消的设计",
+      "onboard_time": 1761921263,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19619,
       "num": 162803,
       "word": "买狗退款后女子连收3天丧葬用品",
       "onboard_time": 1761915683,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18826,
+      "num": 145198,
+      "word": "动物园回应狮子因腿短走红",
+      "onboard_time": 1761920783,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3953,14 +4033,6 @@
       "onboard_time": 1761910221,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 7579,
-      "num": 129935,
-      "word": "动物园回应狮子因腿短走红",
-      "onboard_time": 1761920783,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5569,
