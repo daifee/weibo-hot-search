@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 19:37:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 20:53:02
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%23" target="weibo">
 台湾（热度：4384753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CAL%23" target="weibo">
+T1战胜AL（热度：4324529）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E8%B7%AF%E8%A1%8C%E8%BE%9E%E8%81%8C%23" target="weibo">
 邓莎老公路行辞职（热度：624727）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%AE%A3%E4%BC%A0%E6%96%B0%E7%89%87%23" target="weibo">
-黄晓明回应刘亦菲宣传新片（热度：624651）
 </a>
 </li>
 
