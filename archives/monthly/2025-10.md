@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 12:32:13
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 12:46:22
 </p>
 </blockquote>
 <p>
@@ -911,6 +911,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%BD%95%E7%A9%97%E5%89%8D%E5%A4%AB%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 网传何穗前夫参加过再见爱人（热度：1481478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E5%8F%B8%E6%9C%BA%23" target="weibo">
+包上恩司机（热度：1477706）
 </a>
 </li>
 
@@ -2235,6 +2241,12 @@ ELLE全阵容官宣（热度：1058138）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B4%97%E6%BE%A1%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%85%88%E6%B4%97%E5%A4%B4%23" target="weibo">
+建议洗澡千万不要先洗头（热度：1033850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%B0%A6%E6%8A%97%E7%99%8C%E6%88%90%E5%8A%9F%E5%90%8E%E8%BF%91%E5%86%B5%23" target="weibo">
 刘谦抗癌成功后近况（热度：1032110）
 </a>
@@ -2543,6 +2555,12 @@ ELLE晚宴（热度：992028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23" target="weibo">
 金价暴跌有大学生把生活费亏没了（热度：977264）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E8%A2%AB%E7%83%AD%E6%B0%B4%E7%83%AB%E6%AD%BB%23" target="weibo">
+美国男子在酒店洗澡被热水烫死（热度：977122）
 </a>
 </li>
 
@@ -3009,12 +3027,6 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E8%A2%AB%E7%83%AD%E6%B0%B4%E7%83%AB%E6%AD%BB%23" target="weibo">
-美国男子在酒店洗澡被热水烫死（热度：892241）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23" target="weibo">
 微信三大新功能（热度：891819）
 </a>
@@ -3437,12 +3449,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
 网红罗大美被害案宣判（热度：842934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E5%8F%B8%E6%9C%BA%23" target="weibo">
-包上恩司机（热度：842838）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%8B%E8%BD%B4%23" target="weibo">
 李宇春压轴（热度：619820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%95%BF%E6%9D%8E%E9%94%90%E5%9C%A8%E8%BF%AA%E6%8B%9C%E6%8B%BF%E4%B8%8B%E8%B6%8512%E4%BA%BF%E8%AE%A2%E5%8D%95%23" target="weibo">
-村长李锐在迪拜拿下超12亿订单（热度：619570）
 </a>
 </li>
 

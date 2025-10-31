@@ -1,26 +1,42 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761885133951,
+  "endTime": 1761885982723,
   "band_list": [
     {
       "raw_hot": 1544513,
-      "num": 288796,
+      "num": 323860,
       "word": "江一燕官宣离婚众女星留言鼓励",
       "onboard_time": 1761873501,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1477706,
+      "num": 379679,
+      "word": "包上恩司机",
+      "onboard_time": 1761883462,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1162277,
-      "num": 235637,
+      "num": 378588,
       "word": "三人虐待室友致死案赔偿已执行",
       "onboard_time": 1761876560,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 892241,
-      "num": 219717,
+      "raw_hot": 1033850,
+      "num": 331660,
+      "word": "建议洗澡千万不要先洗头",
+      "onboard_time": 1761885382,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 977122,
+      "num": 374777,
       "word": "美国男子在酒店洗澡被热水烫死",
       "onboard_time": 1761882380,
       "rank": 15,
@@ -33,14 +49,6 @@
       "onboard_time": 1761837623,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 842838,
-      "num": 218964,
-      "word": "包上恩司机",
-      "onboard_time": 1761883462,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 787974,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 652597,
-      "num": 214181,
+      "num": 325326,
       "word": "包上恩私人物品被司机扣留售卖",
       "onboard_time": 1761876679,
       "rank": 21,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 617013,
-      "num": 256692,
+      "num": 582561,
       "word": "杨紫胡歌生命树最新海报",
       "onboard_time": 1761880221,
       "rank": 19,
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 393553,
-      "num": 234091,
+      "num": 336303,
       "word": "郭晓东 张杰的最强站哥",
       "onboard_time": 1761879620,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373089,
+      "num": 373089,
+      "word": "白鹿敖瑞鹏急缺二搭现偶",
+      "onboard_time": 1761882860,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 371473,
@@ -179,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314551,
-      "num": 211843,
-      "word": "白鹿敖瑞鹏急缺二搭现偶",
-      "onboard_time": 1761882860,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 322554,
+      "num": 322554,
+      "word": "骨溶症女生植骨4次均溶解",
+      "onboard_time": 1761883580,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305549,
@@ -243,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261199,
-      "num": 210987,
-      "word": "骨溶症女生植骨4次均溶解",
-      "onboard_time": 1761883580,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247863,
       "num": 448159,
       "word": "被18岁男生从火场救出老人女儿发声",
@@ -267,6 +275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 245323,
+      "num": 245323,
+      "word": "刘嘉玲强调自己不想生孩子",
+      "onboard_time": 1761884782,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239861,
       "num": 601504,
       "word": "金价狂飙婚事耽搁2年女子发声",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 236783,
-      "num": 236783,
+      "num": 383882,
       "word": "APEC重要讲话",
       "onboard_time": 1761876560,
       "rank": 26,
@@ -308,19 +324,35 @@
     },
     {
       "raw_hot": 228231,
-      "num": 228231,
+      "num": 757517,
       "word": "AL挑战Faker研讨会",
       "onboard_time": 1761880999,
       "rank": 27,
       "category": "电竞"
     },
     {
-      "raw_hot": 207468,
-      "num": 207468,
+      "raw_hot": 213305,
+      "num": 213305,
+      "word": "刘浩存晒新车订单",
+      "onboard_time": 1761878421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212929,
+      "num": 212929,
       "word": "白鹿十一月行程",
       "onboard_time": 1761884480,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206124,
+      "num": 206124,
+      "word": "很多人对体重没有概念",
+      "onboard_time": 1761882500,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 204997,
@@ -355,12 +387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196279,
+      "num": 293473,
+      "word": "陈芋汐感谢全红婵",
+      "onboard_time": 1761883100,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196059,
       "num": 196059,
       "word": "白鹿这个香蕉真好吃",
       "onboard_time": 1761873501,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193959,
+      "num": 193959,
+      "word": "蔡依林官宣新巡演台北首站",
+      "onboard_time": 1761885560,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 192565,
@@ -387,6 +435,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188088,
+      "num": 188088,
+      "word": "KPL",
+      "onboard_time": 1761885382,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187783,
+      "num": 187783,
+      "word": "每月攒一克金对于我们普通人有多重要",
+      "onboard_time": 1761885683,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 185597,
       "num": 655710,
       "word": "泰国哀悼王太后服装店换成黑白款",
@@ -396,19 +460,27 @@
     },
     {
       "raw_hot": 181983,
-      "num": 293726,
+      "num": 336039,
       "word": "加湿器加精油可能致肺炎",
       "onboard_time": 1761873620,
       "rank": 12,
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 176096,
-      "num": 176096,
-      "word": "很多人对体重没有概念",
-      "onboard_time": 1761882500,
-      "rank": 33,
-      "category": "情感,休闲"
+      "raw_hot": 177974,
+      "num": 386681,
+      "word": "王楚钦时装男士封面",
+      "onboard_time": 1761885683,
+      "rank": 5,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 174245,
+      "num": 174245,
+      "word": "张予曦毕雯珺上恋综我是同意的",
+      "onboard_time": 1761885020,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174242,
@@ -451,27 +523,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 169586,
-      "num": 169586,
-      "word": "刘嘉玲强调自己不想生孩子",
-      "onboard_time": 1761884782,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 169027,
-      "num": 209341,
-      "word": "陈芋汐感谢全红婵",
-      "onboard_time": 1761883100,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165956,
       "num": 604321,
       "word": "政府主管部门接管民企数亿资产",
       "onboard_time": 1761838461,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165355,
+      "num": 381576,
+      "word": "新生儿转运时从推车坠落",
+      "onboard_time": 1761868821,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -483,12 +547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160667,
-      "num": 176507,
-      "word": "刘浩存晒新车订单",
-      "onboard_time": 1761878421,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 162423,
+      "num": 162423,
+      "word": "Kanavi谈AL与T1打野",
+      "onboard_time": 1761885382,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 159777,
@@ -531,12 +595,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156973,
+      "num": 156973,
+      "word": "张晚意瘦的只剩牙在飘",
+      "onboard_time": 1761885861,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155936,
       "num": 601995,
       "word": "公务员不是混日子避风港",
       "onboard_time": 1761817761,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154367,
+      "num": 154367,
+      "word": "陈瑶金发美成啥了",
+      "onboard_time": 1761884782,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 150311,
@@ -553,6 +633,14 @@
       "onboard_time": 1761873501,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148479,
+      "num": 148479,
+      "word": "工作留痕",
+      "onboard_time": 1761882081,
+      "rank": 45,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 147750,
@@ -603,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126986,
-      "num": 222943,
-      "word": "新生儿转运时从推车坠落",
-      "onboard_time": 1761868821,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 127622,
+      "num": 190249,
+      "word": "金饰克价一夜涨28元",
+      "onboard_time": 1761884000,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 126690,
@@ -619,20 +707,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126143,
-      "num": 126143,
-      "word": "陈瑶金发美成啥了",
-      "onboard_time": 1761884782,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125701,
       "num": 444856,
       "word": "外交部奉劝巴拉圭政府",
       "onboard_time": 1761848775,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122187,
+      "num": 326474,
+      "word": "2025微博视界大会第五波阵容官宣",
+      "onboard_time": 1761885262,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 119395,
@@ -667,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111975,
-      "num": 111975,
-      "word": "工作留痕",
-      "onboard_time": 1761882081,
-      "rank": 45,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 111871,
       "num": 604017,
       "word": "小孩高铁生病哭闹乘客生气质问",
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 108469,
-      "num": 216368,
+      "num": 334770,
       "word": "京东请客送炸鸡红酒大闸蟹",
       "onboard_time": 1761884000,
       "rank": 19,
@@ -771,22 +851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101851,
-      "num": 101851,
-      "word": "张予曦毕雯珺上恋综我是同意的",
-      "onboard_time": 1761885020,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 101775,
-      "num": 159241,
-      "word": "金饰克价一夜涨28元",
-      "onboard_time": 1761884000,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101483,
       "num": 101483,
       "word": "张继科说没有资源纯靠拼出来",
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 96685,
-      "num": 212928,
+      "num": 327557,
       "word": "天猫双11大额券今天用完明天再发",
       "onboard_time": 1761880880,
       "rank": 33,
@@ -996,7 +1060,7 @@
     },
     {
       "raw_hot": 78435,
-      "num": 379918,
+      "num": 636493,
       "word": "11月一批新规将施行",
       "onboard_time": 1761880280,
       "rank": 2,
@@ -1012,7 +1076,7 @@
     },
     {
       "raw_hot": 74327,
-      "num": 159163,
+      "num": 164347,
       "word": "书卷一梦种地吧 花王",
       "onboard_time": 1761884601,
       "rank": 38,
@@ -1043,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70101,
+      "num": 279528,
+      "word": "原来买羽绒服不能只看充绒量",
+      "onboard_time": 1761883580,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 69494,
       "num": 602206,
       "word": "马龙王楚钦备战全运",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1761839659,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64934,
-      "num": 207688,
-      "word": "原来买羽绒服不能只看充绒量",
-      "onboard_time": 1761883580,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 64621,
@@ -1156,7 +1220,7 @@
     },
     {
       "raw_hot": 55593,
-      "num": 213363,
+      "num": 329854,
       "word": "刘宇宁双11剧场",
       "onboard_time": 1761880040,
       "rank": 26,
@@ -1244,7 +1308,7 @@
     },
     {
       "raw_hot": 40784,
-      "num": 238963,
+      "num": 382868,
       "word": "10月最后一天",
       "onboard_time": 1761880340,
       "rank": 8,
@@ -1256,6 +1320,14 @@
       "word": "蕉内地铁广告被指辣眼",
       "onboard_time": 1761816862,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36441,
+      "num": 332619,
+      "word": "南方毒虫隐翅虫突袭北方",
+      "onboard_time": 1761885442,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34390,
+      "num": 374079,
+      "word": "大眼音乐节免费接驳车",
+      "onboard_time": 1761883820,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29554,
       "num": 366612,
       "word": "女子生育后才领结婚证津贴少60天",
@@ -1283,16 +1363,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28596,
-      "num": 220489,
-      "word": "大眼音乐节免费接驳车",
-      "onboard_time": 1761883820,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 28373,
-      "num": 208840,
+      "num": 282698,
       "word": "传祺M8载着华语电影圈到场",
       "onboard_time": 1761883580,
       "rank": 28,
@@ -1300,7 +1372,7 @@
     },
     {
       "raw_hot": 27715,
-      "num": 221612,
+      "num": 376250,
       "word": "天猫光与夜之恋",
       "onboard_time": 1761883580,
       "rank": 12,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1761855073,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13727,
+      "num": 188573,
+      "word": "30年仍不粘不锈钢锅复产预售60元",
+      "onboard_time": 1761885741,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11447,
