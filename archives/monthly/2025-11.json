@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761939424582,
+  "endTime": 1761942552515,
   "band_list": [
     {
       "raw_hot": 1203616,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22220,
+      "num": 33294,
+      "word": "金卡戴珊质疑美国登月造假",
+      "onboard_time": 1761940333,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21999,
       "num": 117254,
       "word": "音乐缘计划",
@@ -483,12 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19193,
+      "raw_hot": 20447,
       "num": 41489,
       "word": "用生命扳倒安德鲁王子的女人",
       "onboard_time": 1761936855,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13015,
+      "num": 32737,
+      "word": "京豆哥直播半小时怒发600万",
+      "onboard_time": 1761919522,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 8085,
