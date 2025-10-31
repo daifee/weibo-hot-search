@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761924380242,
+  "endTime": 1761925298631,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346862,
+      "num": 198801,
+      "word": "AL教练后台痛哭",
+      "onboard_time": 1761919883,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338799,
       "num": 338799,
       "word": "成毅天地剑心直播",
@@ -455,14 +463,6 @@
       "num": 303664,
       "word": "孙亚龙曝LPL和LCK停止训练赛",
       "onboard_time": 1761915683,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 335441,
-      "num": 186512,
-      "word": "AL教练后台痛哭",
-      "onboard_time": 1761919883,
       "rank": 30,
       "category": "电竞"
     },
@@ -665,6 +665,14 @@
       "onboard_time": 1761894202,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252420,
+      "num": 252420,
+      "word": "司机6000里送货到酒泉才知是航天保障车",
+      "onboard_time": 1761922642,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247886,
@@ -883,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205416,
-      "num": 205416,
-      "word": "司机6000里送货到酒泉才知是航天保障车",
-      "onboard_time": 1761922642,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204997,
       "num": 164556,
       "word": "9岁半女孩已来2次月经",
@@ -931,6 +931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201445,
+      "num": 194764,
+      "word": "Gumayusi回应淘汰AL",
+      "onboard_time": 1761923124,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201422,
       "num": 165368,
       "word": "医院通报新生儿转运坠床",
@@ -960,6 +968,14 @@
       "word": "钱学森逝世16年了",
       "onboard_time": 1761873919,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198878,
+      "num": 198878,
+      "word": "长沙潮宗街一面墙体倒塌",
+      "onboard_time": 1761922342,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1355,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171669,
+      "num": 171669,
+      "word": "汪苏泷说加衣服不如加我微信",
+      "onboard_time": 1761924024,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171476,
       "num": 417915,
       "word": "蕉内回应地铁广告辣眼",
@@ -1411,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166878,
+      "num": 166878,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166412,
       "num": 166412,
       "word": "T1 绝望",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1761873440,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 164149,
-      "num": 164149,
-      "word": "为父母补缴社保用光了购房首付",
-      "onboard_time": 1761908843,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163237,
@@ -1643,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148521,
+      "num": 148521,
+      "word": "海底捞回应家长就餐区给孩子接尿",
+      "onboard_time": 1761920063,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148479,
       "num": 148479,
       "word": "工作留痕",
@@ -1795,28 +1827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143413,
-      "num": 141103,
-      "word": "长沙潮宗街一面墙体倒塌",
-      "onboard_time": 1761922342,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142812,
       "num": 142812,
       "word": "王楚然一出手就是神图",
       "onboard_time": 1761888682,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142535,
-      "num": 142535,
-      "word": "Gumayusi回应淘汰AL",
-      "onboard_time": 1761923124,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 141222,
@@ -1915,6 +1931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131549,
+      "num": 131549,
+      "word": "佛山一私房菜馆被曝宰杀活猫",
+      "onboard_time": 1761922223,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130636,
       "num": 603263,
       "word": "李飞 没法创排谁能管管",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1761894681,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129058,
+      "num": 166733,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1761922284,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 128786,
@@ -2099,14 +2131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120584,
-      "num": 142623,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1761922284,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120269,
       "num": 120269,
       "word": "全伊伦鹤男好嗑",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1761922463,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118893,
+      "num": 118893,
+      "word": "水龙吟5V5超燃站位",
+      "onboard_time": 1761924381,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 118287,
@@ -2395,14 +2427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110221,
-      "num": 110221,
-      "word": "汪苏泷说加衣服不如加我微信",
-      "onboard_time": 1761924024,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 110069,
       "num": 110069,
       "word": "包上恩私密物品被司机扣留售卖",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1761880581,
       "rank": 48,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 106967,
+      "num": 106967,
+      "word": "一瞬间分不清是肖奈还是杨洋",
+      "onboard_time": 1761924564,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 106966,
@@ -2571,14 +2603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104274,
-      "num": 104274,
-      "word": "海底捞回应家长就餐区给孩子接尿",
-      "onboard_time": 1761920063,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103824,
       "num": 103824,
       "word": "马龙全运会史上首个男单卫冕冠军",
@@ -2643,20 +2667,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100308,
+      "num": 106963,
+      "word": "T1下路有信心击败TES",
+      "onboard_time": 1761924622,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99683,
       "num": 99683,
       "word": "于正问赵晴像不像林青霞",
       "onboard_time": 1761907702,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99340,
-      "num": 99340,
-      "word": "佛山一私房菜馆被曝宰杀活猫",
-      "onboard_time": 1761922223,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98934,
@@ -2899,12 +2923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92478,
+      "num": 106959,
+      "word": "Faker 大山",
+      "onboard_time": 1761924442,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92241,
       "num": 88957,
       "word": "冷门大学清华大学",
       "onboard_time": 1761901340,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91395,
+      "num": 106962,
+      "word": "音乐缘计划",
+      "onboard_time": 1761924564,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 91357,
@@ -3859,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30900,
+      "num": 106962,
+      "word": "女子称因未婚未育被取消面试",
+      "onboard_time": 1761923903,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29554,
       "num": 366612,
       "word": "女子生育后才领结婚证津贴少60天",
@@ -3945,14 +3993,6 @@
       "onboard_time": 1761901402,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 23195,
-      "num": 105078,
-      "word": "女子称因未婚未育被取消面试",
-      "onboard_time": 1761923903,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23134,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1761925298631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088388,
+        "num": 1174142,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421781,
+        "num": 421781,
+        "word": "联合国感谢中国缴清会费",
+        "onboard_time": 1761917423,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7827,
+        "num": 330460,
+        "word": "神21入轨后约3.5小时后到空间站",
+        "onboard_time": 1761790039,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284468,
+        "num": 284468,
+        "word": "樊振东全运会男单4号种子",
+        "onboard_time": 1761922703,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252420,
+        "num": 252420,
+        "word": "司机6000里送货到酒泉才知是航天保障车",
+        "onboard_time": 1761922642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416902,
+        "num": 247865,
+        "word": "T1战胜AL",
+        "onboard_time": 1761911004,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198878,
+        "num": 198878,
+        "word": "长沙潮宗街一面墙体倒塌",
+        "onboard_time": 1761922342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346862,
+        "num": 198801,
+        "word": "AL教练后台痛哭",
+        "onboard_time": 1761919883,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14729,
+        "num": 198266,
+        "word": "神21乘组太空出差行囊揭秘",
+        "onboard_time": 1761890482,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198235,
+        "num": 198235,
+        "word": "神21航天员亮相",
+        "onboard_time": 1761915504,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469766,
+        "num": 195381,
+        "word": "4岁男童药店打针呕吐抽搐后死亡",
+        "onboard_time": 1761917242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201445,
+        "num": 194764,
+        "word": "Gumayusi回应淘汰AL",
+        "onboard_time": 1761923124,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189341,
+        "num": 189341,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180438,
+        "num": 180438,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171832,
+        "num": 171832,
+        "word": "关晓彤劈叉",
+        "onboard_time": 1761918083,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171669,
+        "num": 171669,
+        "word": "汪苏泷说加衣服不如加我微信",
+        "onboard_time": 1761924024,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166878,
+        "num": 166878,
+        "word": "为父母补缴社保用光了购房首付",
+        "onboard_time": 1761908843,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129058,
+        "num": 166733,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1761922284,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125814,
+        "num": 166487,
+        "word": "将门毒后",
+        "onboard_time": 1761920664,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 166396,
+        "word": "731导演穿防弹衣出席日本试映",
+        "onboard_time": 1761910944,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 568214,
+        "num": 165917,
+        "word": "李纯马頔一看就很会过日子",
+        "onboard_time": 1761919162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500543,
+        "num": 165715,
+        "word": "张远否认与王霏霏恋情",
+        "onboard_time": 1761919642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165675,
+        "num": 165675,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148521,
+        "num": 148521,
+        "word": "海底捞回应家长就餐区给孩子接尿",
+        "onboard_time": 1761920063,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139128,
+        "num": 139128,
+        "word": "为什么女装裤频频无中生裆",
+        "onboard_time": 1761916825,
+        "rank": 24,
+        "category": "议题讨论,时尚"
+      },
+      {
+        "raw_hot": 132288,
+        "num": 132288,
+        "word": "薛之谦一开口把刘宇宁周深噎着了",
+        "onboard_time": 1761923663,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131549,
+        "num": 131549,
+        "word": "佛山一私房菜馆被曝宰杀活猫",
+        "onboard_time": 1761922223,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121605,
+        "num": 121605,
+        "word": "AL 意难平",
+        "onboard_time": 1761912324,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118893,
+        "num": 118893,
+        "word": "水龙吟5V5超燃站位",
+        "onboard_time": 1761924381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114068,
+        "num": 114068,
+        "word": "土家香酱饼 土家酱香饼",
+        "onboard_time": 1761904162,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 113997,
+        "word": "Ning说AL这种输是最可惜的",
+        "onboard_time": 1761920904,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113824,
+        "num": 113824,
+        "word": "张峻豪直播",
+        "onboard_time": 1761923422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110738,
+        "num": 110738,
+        "word": "乒协公布全运会乒乓项目种子排序",
+        "onboard_time": 1761923002,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110665,
+        "num": 110665,
+        "word": "Wolf说Hope确实菜",
+        "onboard_time": 1761918022,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107809,
+        "num": 107809,
+        "word": "孙亚龙曝LPL和LCK停止训练赛",
+        "onboard_time": 1761915683,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107178,
+        "num": 107178,
+        "word": "王晓晨怎么了",
+        "onboard_time": 1761914243,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107085,
+        "num": 107085,
+        "word": "AL止步八强",
+        "onboard_time": 1761911305,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106967,
+        "num": 106967,
+        "word": "一瞬间分不清是肖奈还是杨洋",
+        "onboard_time": 1761924564,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100637,
+        "num": 106967,
+        "word": "Hope表现",
+        "onboard_time": 1761913283,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 106964,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100308,
+        "num": 106963,
+        "word": "T1下路有信心击败TES",
+        "onboard_time": 1761924622,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91395,
+        "num": 106962,
+        "word": "音乐缘计划",
+        "onboard_time": 1761924564,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30900,
+        "num": 106962,
+        "word": "女子称因未婚未育被取消面试",
+        "onboard_time": 1761923903,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92478,
+        "num": 106959,
+        "word": "Faker 大山",
+        "onboard_time": 1761924442,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90592,
+        "num": 106959,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90010,
+        "num": 106956,
+        "word": "APEC",
+        "onboard_time": 1761918921,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89554,
+        "num": 106955,
+        "word": "杨幂这个后仰好A",
+        "onboard_time": 1761918563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85989,
+        "num": 106953,
+        "word": "尹锡悦庭上批检察官直呼金建希名字",
+        "onboard_time": 1761921022,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82655,
+        "num": 106952,
+        "word": "王楚钦全运会1号种子选手",
+        "onboard_time": 1761922463,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78862,
+        "num": 106952,
+        "word": "别人演贵妃 宋茜演跪废",
+        "onboard_time": 1761918083,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}
