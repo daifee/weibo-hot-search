@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761881636097,
+  "endTime": 1761885133951,
   "band_list": [
     {
       "raw_hot": 1544513,
@@ -19,12 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 892241,
+      "num": 219717,
+      "word": "美国男子在酒店洗澡被热水烫死",
+      "onboard_time": 1761882380,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 874326,
       "num": 604917,
       "word": "建议不要将肉汤倒进下水道",
       "onboard_time": 1761837623,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 842838,
+      "num": 218964,
+      "word": "包上恩司机",
+      "onboard_time": 1761883462,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 787974,
@@ -44,11 +60,19 @@
     },
     {
       "raw_hot": 652597,
-      "num": 191105,
+      "num": 214181,
       "word": "包上恩私人物品被司机扣留售卖",
       "onboard_time": 1761876679,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617013,
+      "num": 256692,
+      "word": "杨紫胡歌生命树最新海报",
+      "onboard_time": 1761880221,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 614687,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 415307,
-      "num": 403764,
+      "num": 1054760,
       "word": "高市早苗向韩国国旗鞠躬",
       "onboard_time": 1761877940,
       "rank": 12,
@@ -155,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326777,
-      "num": 256692,
-      "word": "杨紫胡歌生命树最新海报",
-      "onboard_time": 1761880221,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 314551,
+      "num": 211843,
+      "word": "白鹿敖瑞鹏急缺二搭现偶",
+      "onboard_time": 1761882860,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 305549,
@@ -219,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261199,
+      "num": 210987,
+      "word": "骨溶症女生植骨4次均溶解",
+      "onboard_time": 1761883580,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247863,
       "num": 448159,
       "word": "被18岁男生从火场救出老人女儿发声",
@@ -273,6 +305,22 @@
       "onboard_time": 1761867499,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228231,
+      "num": 228231,
+      "word": "AL挑战Faker研讨会",
+      "onboard_time": 1761880999,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 207468,
+      "num": 207468,
+      "word": "白鹿十一月行程",
+      "onboard_time": 1761884480,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204997,
@@ -355,12 +403,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 175962,
-      "num": 175962,
-      "word": "AL挑战Faker研讨会",
-      "onboard_time": 1761880999,
-      "rank": 27,
-      "category": "电竞"
+      "raw_hot": 176096,
+      "num": 176096,
+      "word": "很多人对体重没有概念",
+      "onboard_time": 1761882500,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "看李一桐这段循环了30遍",
+      "onboard_time": 1761884299,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 172115,
@@ -395,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169586,
+      "num": 169586,
+      "word": "刘嘉玲强调自己不想生孩子",
+      "onboard_time": 1761884782,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169027,
+      "num": 209341,
+      "word": "陈芋汐感谢全红婵",
+      "onboard_time": 1761883100,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165956,
       "num": 604321,
       "word": "政府主管部门接管民企数亿资产",
@@ -411,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160667,
+      "num": 176507,
+      "word": "刘浩存晒新车订单",
+      "onboard_time": 1761878421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159777,
       "num": 842057,
       "word": "中美元首会晤的重大意义",
@@ -425,6 +505,14 @@
       "onboard_time": 1761878901,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159149,
+      "num": 159149,
+      "word": "0个人能从杨幂名场面走出来",
+      "onboard_time": 1761882980,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 158416,
@@ -516,7 +604,7 @@
     },
     {
       "raw_hot": 126986,
-      "num": 159724,
+      "num": 222943,
       "word": "新生儿转运时从推车坠落",
       "onboard_time": 1761868821,
       "rank": 31,
@@ -529,6 +617,14 @@
       "onboard_time": 1761839901,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126143,
+      "num": 126143,
+      "word": "陈瑶金发美成啥了",
+      "onboard_time": 1761884782,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125701,
@@ -571,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111975,
+      "num": 111975,
+      "word": "工作留痕",
+      "onboard_time": 1761882081,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 111871,
       "num": 604017,
       "word": "小孩高铁生病哭闹乘客生气质问",
@@ -595,20 +699,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 108469,
+      "num": 216368,
+      "word": "京东请客送炸鸡红酒大闸蟹",
+      "onboard_time": 1761884000,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107540,
       "num": 107540,
       "word": "飞天茅台4年跌幅近50%",
       "onboard_time": 1761878421,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 107132,
-      "num": 176507,
-      "word": "刘浩存晒新车订单",
-      "onboard_time": 1761878421,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 107105,
@@ -627,12 +731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104529,
+      "num": 104529,
+      "word": "预售女装我真的没空陪你闹了",
+      "onboard_time": 1761884540,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103307,
       "num": 103307,
       "word": "20岁中国女孩日本失联超20天",
       "onboard_time": 1761876739,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102844,
+      "num": 135259,
+      "word": "情侣养130斤猪配专属卧室独立卫浴",
+      "onboard_time": 1761883221,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102735,
@@ -649,6 +769,22 @@
       "onboard_time": 1761874041,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101851,
+      "num": 101851,
+      "word": "张予曦毕雯珺上恋综我是同意的",
+      "onboard_time": 1761885020,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101775,
+      "num": 159241,
+      "word": "金饰克价一夜涨28元",
+      "onboard_time": 1761884000,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 101483,
@@ -689,6 +825,22 @@
       "onboard_time": 1761874881,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97373,
+      "num": 107339,
+      "word": "马刺开局5连胜",
+      "onboard_time": 1761883280,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96685,
+      "num": 212928,
+      "word": "天猫双11大额券今天用完明天再发",
+      "onboard_time": 1761880880,
+      "rank": 33,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 96575,
@@ -747,14 +899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89536,
-      "num": 134914,
-      "word": "天猫双11大额券今天用完明天再发",
-      "onboard_time": 1761880880,
-      "rank": 33,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 88967,
       "num": 610793,
       "word": "国防部回应台湾高清卫星图",
@@ -776,6 +920,14 @@
       "word": "山河枕",
       "onboard_time": 1761819080,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84336,
+      "num": 159152,
+      "word": "留给内娱官宣的方式不多了",
+      "onboard_time": 1761884060,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -859,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74327,
+      "num": 159163,
+      "word": "书卷一梦种地吧 花王",
+      "onboard_time": 1761884601,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74135,
       "num": 88609,
       "word": "雄鹿战胜勇士",
@@ -905,6 +1065,14 @@
       "onboard_time": 1761839659,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64934,
+      "num": 207688,
+      "word": "原来买羽绒服不能只看充绒量",
+      "onboard_time": 1761883580,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 64621,
@@ -988,7 +1156,7 @@
     },
     {
       "raw_hot": 55593,
-      "num": 188486,
+      "num": 213363,
       "word": "刘宇宁双11剧场",
       "onboard_time": 1761880040,
       "rank": 26,
@@ -1115,6 +1283,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28596,
+      "num": 220489,
+      "word": "大眼音乐节免费接驳车",
+      "onboard_time": 1761883820,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28373,
+      "num": 208840,
+      "word": "传祺M8载着华语电影圈到场",
+      "onboard_time": 1761883580,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27715,
+      "num": 221612,
+      "word": "天猫光与夜之恋",
+      "onboard_time": 1761883580,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25910,
       "num": 265820,
       "word": "陈丽君年度文化传承创新演员",
@@ -1233,6 +1425,9 @@
     },
     {
       "word": "#习近平主席提出5点建议#"
+    },
+    {
+      "word": "#共建普惠包容的开放型亚太经济#"
     }
   ]
 }

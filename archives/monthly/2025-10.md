@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 11:33:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 12:32:13
 </p>
 </blockquote>
 <p>
@@ -3009,6 +3009,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E8%A2%AB%E7%83%AD%E6%B0%B4%E7%83%AB%E6%AD%BB%23" target="weibo">
+美国男子在酒店洗澡被热水烫死（热度：892241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23" target="weibo">
 微信三大新功能（热度：891819）
 </a>
@@ -3431,6 +3437,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
 网红罗大美被害案宣判（热度：842934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E5%8F%B8%E6%9C%BA%23" target="weibo">
+包上恩司机（热度：842838）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ iPhone18系列迎史上最大革新（热度：622179）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%2335%E5%85%831%E4%B8%AA%E9%9D%A2%E5%8C%85%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%96%AF%E6%8A%A2%23" target="weibo">
-35元1个面包被年轻人疯抢（热度：618388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%B0%91%20%E8%9B%80%E7%89%99%23" target="weibo">
-喝水少 蛀牙（热度：618213）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6533,6 +6533,12 @@ iPhone18系列迎史上最大革新（热度：622179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E6%8F%90%E5%87%BA5%E7%82%B9%E5%BB%BA%E8%AE%AE%23%23" target="weibo">
 #习近平主席提出5点建议#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%85%B1%E5%BB%BA%E6%99%AE%E6%83%A0%E5%8C%85%E5%AE%B9%E7%9A%84%E5%BC%80%E6%94%BE%E5%9E%8B%E4%BA%9A%E5%A4%AA%E7%BB%8F%E6%B5%8E%23%23" target="weibo">
+#共建普惠包容的开放型亚太经济#
 </a>
 </li>
 
