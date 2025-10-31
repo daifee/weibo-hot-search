@@ -1,0 +1,410 @@
+{
+  "runTime": 1761920830527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 876520,
+        "num": 1140243,
+        "word": "联合国感谢中国缴清会费",
+        "onboard_time": 1761917423,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579910,
+        "num": 579910,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5569,
+        "num": 387817,
+        "word": "神21入轨后约3.5小时后到空间站",
+        "onboard_time": 1761790039,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303664,
+        "num": 303664,
+        "word": "孙亚龙曝LPL和LCK停止训练赛",
+        "onboard_time": 1761915683,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206586,
+        "num": 290839,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591160,
+        "num": 289131,
+        "word": "T1战胜AL",
+        "onboard_time": 1761911004,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 284645,
+        "word": "731导演穿防弹衣出席日本试映",
+        "onboard_time": 1761910944,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280203,
+        "num": 280203,
+        "word": "Hope表现",
+        "onboard_time": 1761913283,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21047,
+        "num": 265920,
+        "word": "神21乘组太空出差行囊揭秘",
+        "onboard_time": 1761890482,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183494,
+        "num": 260774,
+        "word": "神21航天员亮相",
+        "onboard_time": 1761915504,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1014492,
+        "num": 260669,
+        "word": "4岁男童药店打针呕吐抽搐后死亡",
+        "onboard_time": 1761917242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260450,
+        "num": 260450,
+        "word": "关晓彤劈叉",
+        "onboard_time": 1761918083,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177491,
+        "num": 240401,
+        "word": "一诺第十二次进决赛",
+        "onboard_time": 1761919824,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238379,
+        "num": 238379,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205597,
+        "num": 205597,
+        "word": "Wolf说Hope确实菜",
+        "onboard_time": 1761918022,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178702,
+        "num": 205316,
+        "word": "成都蓉城1比2河南队",
+        "onboard_time": 1761920363,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178259,
+        "num": 204840,
+        "word": "别人演贵妃 宋茜演跪废",
+        "onboard_time": 1761918083,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135977,
+        "num": 204305,
+        "word": "暗河传官微 进高人了",
+        "onboard_time": 1761916284,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90094,
+        "num": 203982,
+        "word": "京豆哥直播半小时怒发600万",
+        "onboard_time": 1761919522,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40042,
+        "num": 203681,
+        "word": "女性的创造力会发光",
+        "onboard_time": 1761917722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203246,
+        "num": 203246,
+        "word": "AL 意难平",
+        "onboard_time": 1761912324,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 501592,
+        "num": 202961,
+        "word": "李纯马頔一看就很会过日子",
+        "onboard_time": 1761919162,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48319,
+        "num": 202950,
+        "word": "张凌赫的手机也在减重",
+        "onboard_time": 1761915862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488227,
+        "num": 202654,
+        "word": "王晓晨怎么了",
+        "onboard_time": 1761914243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461030,
+        "num": 202380,
+        "word": "张远否认与王霏霏恋情",
+        "onboard_time": 1761919642,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225949,
+        "num": 201833,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36983,
+        "num": 201720,
+        "word": "王鹤棣吃薯片都这么帅",
+        "onboard_time": 1761915862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201517,
+        "num": 201517,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1761916702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "Gumayusi谈对战TES",
+        "onboard_time": 1761919824,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47786,
+        "num": 174465,
+        "word": "必会的iPhone截图技巧",
+        "onboard_time": 1761918022,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202215,
+        "num": 174337,
+        "word": "AL教练后台痛哭",
+        "onboard_time": 1761919883,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172558,
+        "num": 172558,
+        "word": "神二十一航天员出征仪式",
+        "onboard_time": 1761914542,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170361,
+        "num": 170361,
+        "word": "APEC",
+        "onboard_time": 1761918921,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162582,
+        "num": 162582,
+        "word": "为什么女装裤频频无中生裆",
+        "onboard_time": 1761916825,
+        "rank": 33,
+        "category": "议题讨论,时尚"
+      },
+      {
+        "raw_hot": 37922,
+        "num": 150108,
+        "word": "冬日暖男王楚钦",
+        "onboard_time": 1761919104,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140639,
+        "num": 140639,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135127,
+        "num": 135127,
+        "word": "土家香酱饼 土家酱香饼",
+        "onboard_time": 1761904162,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134834,
+        "num": 134834,
+        "word": "被刘宇宁一嗓子唤醒了青春回忆",
+        "onboard_time": 1761920124,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132567,
+        "num": 132567,
+        "word": "惠英红晒与王一博陈都灵合照",
+        "onboard_time": 1761918862,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7579,
+        "num": 129935,
+        "word": "动物园回应狮子因腿短走红",
+        "onboard_time": 1761920783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127684,
+        "num": 127684,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 125718,
+        "word": "AL止步八强",
+        "onboard_time": 1761911305,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121476,
+        "num": 121476,
+        "word": "杨幂这个后仰好A",
+        "onboard_time": 1761918563,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117894,
+        "num": 117894,
+        "word": "白鹿跑男粉切黑",
+        "onboard_time": 1761919883,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116280,
+        "num": 116280,
+        "word": "周深当主持人在台上演了段小品",
+        "onboard_time": 1761920423,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "刘隽十月vlog",
+        "onboard_time": 1761920783,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "给李沁唱爽了",
+        "onboard_time": 1761917302,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109939,
+        "num": 109939,
+        "word": "AG战胜WB",
+        "onboard_time": 1761917423,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109610,
+        "num": 109610,
+        "word": "将门毒后",
+        "onboard_time": 1761920664,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107193,
+        "num": 107193,
+        "word": "饼抢肖战",
+        "onboard_time": 1761913461,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作共赢才是越走越宽的人间正道#"
+    }
+  }
+}
