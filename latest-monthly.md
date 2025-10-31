@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 18:44:53
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/31 19:22:27
 </p>
 </blockquote>
 <p>
@@ -603,6 +603,12 @@ iG对战T1（热度：1886560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%87%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%89%E7%8C%AB%E8%85%BB%23" target="weibo">
+曝蔡徐坤复出演唱会有猫腻（热度：1738275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%B7%B2%E6%B2%A1%E4%BA%86%E7%88%86%E7%81%AB%E6%97%B6%E7%9A%84%E4%BA%BA%E6%BD%AE%23" target="weibo">
 晓华理发店已没了爆火时的人潮（热度：1730271）
 </a>
@@ -1139,12 +1145,6 @@ ELLE红毯（热度：1447102）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A4%8D%E5%87%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%89%E7%8C%AB%E8%85%BB%23" target="weibo">
-曝蔡徐坤复出演唱会有猫腻（热度：1357006）
 </a>
 </li>
 

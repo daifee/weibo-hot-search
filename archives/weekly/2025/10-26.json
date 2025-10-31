@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761907493500,
+  "endTime": 1761909747341,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -123,6 +123,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 1738275,
+      "num": 134542,
+      "word": "曝蔡徐坤复出演唱会有猫腻",
+      "onboard_time": 1761906383,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1699534,
       "num": 420880,
       "word": "黎芷珊 许绍雄",
@@ -201,14 +209,6 @@
       "onboard_time": 1761457099,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1357006,
-      "num": 128935,
-      "word": "曝蔡徐坤复出演唱会有猫腻",
-      "onboard_time": 1761906383,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 1339087,
@@ -1817,6 +1817,14 @@
       "onboard_time": 1761780259,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 578449,
+      "num": 134352,
+      "word": "蔡徐坤 台促会",
+      "onboard_time": 1761909681,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 576624,
@@ -4427,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257065,
+      "num": 257065,
+      "word": "AL对战T1决胜局",
+      "onboard_time": 1761907583,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256506,
       "num": 271238,
       "word": "张伦硕否认顶配继父称号",
@@ -5417,6 +5433,14 @@
       "onboard_time": 1761748703,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214463,
+      "num": 137816,
+      "word": "胡歌拥抱并夸了杨紫",
+      "onboard_time": 1761908601,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214328,
@@ -6779,6 +6803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185236,
+      "num": 185236,
+      "word": "S15",
+      "onboard_time": 1761908782,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185119,
       "num": 155133,
       "word": "夫妻因曾黎年纪吵起来了",
@@ -7348,7 +7380,7 @@
     },
     {
       "raw_hot": 173602,
-      "num": 123525,
+      "num": 132363,
       "word": "iPhone17Pro系列京东优惠1000",
       "onboard_time": 1761906923,
       "rank": 24,
@@ -7793,6 +7825,14 @@
       "onboard_time": 1761537740,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166484,
+      "num": 166484,
+      "word": "中方回应特朗普所称G2会议",
+      "onboard_time": 1761908302,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166445,
@@ -9171,6 +9211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149134,
+      "num": 149134,
+      "word": "卡莎",
+      "onboard_time": 1761908423,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148600,
       "num": 148600,
       "word": "李一桐也没放过李荣浩",
@@ -9243,6 +9291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147828,
+      "num": 133930,
+      "word": "清融红发变粉前",
+      "onboard_time": 1761908542,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147750,
       "num": 147750,
       "word": "工业富联今年累涨超300%",
@@ -9313,6 +9369,14 @@
       "onboard_time": 1761467301,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146894,
+      "num": 132651,
+      "word": "林心如说霍建华没有送过无语的礼物",
+      "onboard_time": 1761907401,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146691,
@@ -9713,6 +9777,14 @@
       "onboard_time": 1761888682,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142784,
+      "num": 142784,
+      "word": "tabe的bp",
+      "onboard_time": 1761908961,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 142720,
@@ -10361,6 +10433,14 @@
       "onboard_time": 1761572422,
       "rank": 35,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 134704,
+      "num": 134704,
+      "word": "泽连斯基又要中国帮忙",
+      "onboard_time": 1761907101,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134651,
@@ -11763,6 +11843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123155,
+      "num": 123155,
+      "word": "光与夜之恋新联动",
+      "onboard_time": 1761908542,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123069,
       "num": 123069,
       "word": "春秋航空回应招已婚已育空嫂",
@@ -12371,6 +12459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117162,
+      "num": 133510,
+      "word": "新生儿转运时坠落骨折最新进展",
+      "onboard_time": 1761907523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116969,
       "num": 116969,
       "word": "多部门回应于和伟捐1200万片酬",
@@ -12689,6 +12785,14 @@
       "onboard_time": 1761560361,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114995,
+      "num": 114995,
+      "word": "请所有单位都按这个工位标配",
+      "onboard_time": 1761908782,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 114966,
@@ -14083,6 +14187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105082,
+      "num": 105082,
+      "word": "什么精神状态一看就是吃好了",
+      "onboard_time": 1761909082,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 104938,
       "num": 105592,
       "word": "张晚意 也没说花少有两个晚情啊",
@@ -15227,6 +15339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96116,
+      "num": 96116,
+      "word": "那些总是叫错的名字",
+      "onboard_time": 1761909322,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96049,
       "num": 123863,
       "word": "中美进行了建设性探讨",
@@ -15299,6 +15419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95389,
+      "num": 94908,
+      "word": "于正问赵晴像不像林青霞",
+      "onboard_time": 1761907702,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95374,
       "num": 95374,
       "word": "包上恩周柯宇跳华尔兹",
@@ -15363,6 +15491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94920,
+      "num": 94920,
+      "word": "泡泡玛特",
+      "onboard_time": 1761906982,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 94913,
       "num": 94913,
       "word": "辛芷蕾预告三句话信息量好大",
@@ -15385,6 +15521,14 @@
       "onboard_time": 1761873860,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94896,
+      "num": 94896,
+      "word": "王楚钦好优越的侧脸",
+      "onboard_time": 1761906923,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 94889,
@@ -15505,6 +15649,14 @@
       "onboard_time": 1761607640,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 94012,
+      "word": "龚俊怎么做到人人满意的",
+      "onboard_time": 1761909622,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 93991,
@@ -15947,6 +16099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90205,
+      "num": 118193,
+      "word": "中加关系呈恢复向好态势",
+      "onboard_time": 1761909020,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90154,
       "num": 100701,
       "word": "王者新英雄六耳将到来",
@@ -16003,6 +16163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89683,
+      "num": 89683,
+      "word": "11月份十二星座重点提示",
+      "onboard_time": 1761907223,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89492,
       "num": 89492,
       "word": "医生建议不要频繁洗澡",
@@ -16049,14 +16217,6 @@
       "onboard_time": 1761693438,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88950,
-      "num": 88950,
-      "word": "王楚钦好优越的侧脸",
-      "onboard_time": 1761906923,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 88917,
@@ -16123,14 +16283,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88514,
-      "num": 88514,
-      "word": "11月份十二星座重点提示",
-      "onboard_time": 1761907223,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88463,
       "num": 88463,
       "word": "河南濮阳婚内强奸案最新进展",
@@ -16153,6 +16305,14 @@
       "onboard_time": 1761399502,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88361,
+      "num": 88361,
+      "word": "奶皮子冰糖葫芦",
+      "onboard_time": 1761909622,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 88188,
@@ -16579,12 +16739,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83468,
+      "num": 104367,
+      "word": "暴雪大暴雪特大暴雪来袭",
+      "onboard_time": 1761909441,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83408,
       "num": 151871,
       "word": "中美外长通话称经贸问题达成框架共识",
       "onboard_time": 1761573021,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83387,
+      "num": 104597,
+      "word": "基金业绩比较基准征求意见稿发布",
+      "onboard_time": 1761908423,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 83355,
@@ -16657,14 +16833,6 @@
       "onboard_time": 1761560241,
       "rank": 40,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 82353,
-      "num": 82353,
-      "word": "泡泡玛特",
-      "onboard_time": 1761906982,
-      "rank": 40,
-      "category": "休闲"
     },
     {
       "raw_hot": 82294,
@@ -16769,14 +16937,6 @@
       "onboard_time": 1761809062,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81570,
-      "num": 81570,
-      "word": "林心如说霍建华没有送过无语的礼物",
-      "onboard_time": 1761907401,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 81543,
@@ -17003,6 +17163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78570,
+      "num": 94954,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78513,
       "num": 209143,
       "word": "曝iPhone17扩产",
@@ -17121,6 +17289,14 @@
       "onboard_time": 1761470661,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76599,
+      "num": 94997,
+      "word": "你喜欢赠品还是满减",
+      "onboard_time": 1761909322,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 76569,
@@ -17249,6 +17425,14 @@
       "onboard_time": 1761686953,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 74352,
+      "num": 86268,
+      "word": "中方4倡导4反对",
+      "onboard_time": 1761909141,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74334,
@@ -18100,7 +18284,7 @@
     },
     {
       "raw_hot": 59910,
-      "num": 139418,
+      "num": 139804,
       "word": "燃油智能第一车",
       "onboard_time": 1761905121,
       "rank": 15,
@@ -18145,6 +18329,14 @@
       "onboard_time": 1761434418,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59605,
+      "num": 94908,
+      "word": "女子强占车位被以牙还牙",
+      "onboard_time": 1761908423,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59555,
@@ -18601,14 +18793,6 @@
       "onboard_time": 1761893602,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52148,
-      "num": 82423,
-      "word": "泽连斯基又要中国帮忙",
-      "onboard_time": 1761907101,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52104,
@@ -20187,6 +20371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25019,
+      "num": 725542,
+      "word": "中国人的太空美学",
+      "onboard_time": 1761879620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24917,
       "num": 185089,
       "word": "巴基斯坦对阿富汗发出战争警告",
@@ -20497,14 +20689,6 @@
       "onboard_time": 1761595933,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20188,
-      "num": 725542,
-      "word": "中国人的太空美学",
-      "onboard_time": 1761879620,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20183,

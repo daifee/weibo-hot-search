@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761907493500,
+  "endTime": 1761909747341,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -787,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1738275,
+      "num": 134542,
+      "word": "曝蔡徐坤复出演唱会有猫腻",
+      "onboard_time": 1761906383,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1730271,
       "num": 1730271,
       "word": "晓华理发店已没了爆火时的人潮",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1759460480,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1357006,
-      "num": 128935,
-      "word": "曝蔡徐坤复出演唱会有猫腻",
-      "onboard_time": 1761906383,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 1352947,
@@ -8993,6 +8993,14 @@
       "onboard_time": 1759932502,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 578449,
+      "num": 134352,
+      "word": "蔡徐坤 台促会",
+      "onboard_time": 1761909681,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 578394,
@@ -23227,6 +23235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257065,
+      "num": 257065,
+      "word": "AL对战T1决胜局",
+      "onboard_time": 1761907583,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256896,
       "num": 256896,
       "word": "夏静石死在了大仇得报的那一天",
@@ -27265,6 +27281,14 @@
       "onboard_time": 1760951721,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214463,
+      "num": 137816,
+      "word": "胡歌拥抱并夸了杨紫",
+      "onboard_time": 1761908601,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214425,
@@ -33371,6 +33395,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 185236,
+      "num": 185236,
+      "word": "S15",
+      "onboard_time": 1760537302,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185180,
       "num": 1100507,
       "word": "秋季最后一个节气要来了",
@@ -34827,14 +34859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178517,
-      "num": 178517,
-      "word": "S15",
-      "onboard_time": 1760537302,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178487,
       "num": 169450,
       "word": "江浙沪父母的含金量还在上升",
@@ -36108,7 +36132,7 @@
     },
     {
       "raw_hot": 173602,
-      "num": 123525,
+      "num": 132363,
       "word": "iPhone17Pro系列京东优惠1000",
       "onboard_time": 1761906923,
       "rank": 24,
@@ -38209,6 +38233,14 @@
       "onboard_time": 1760340321,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166484,
+      "num": 166484,
+      "word": "中方回应特朗普所称G2会议",
+      "onboard_time": 1761908302,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166480,
@@ -43955,6 +43987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149134,
+      "num": 149134,
+      "word": "卡莎",
+      "onboard_time": 1761908423,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149121,
       "num": 426669,
       "word": "警方多地抓获24名卖淫女42名嫖客",
@@ -44411,6 +44451,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 147828,
+      "num": 133930,
+      "word": "清融红发变粉前",
+      "onboard_time": 1761908542,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147827,
       "num": 147827,
       "word": "王楚钦亚锦赛后发文",
@@ -44777,6 +44825,14 @@
       "onboard_time": 1760521521,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146894,
+      "num": 132651,
+      "word": "林心如说霍建华没有送过无语的礼物",
+      "onboard_time": 1761907401,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146882,
@@ -46393,6 +46449,14 @@
       "onboard_time": 1759322841,
       "rank": 26,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 142784,
+      "num": 142784,
+      "word": "tabe的bp",
+      "onboard_time": 1761908961,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 142772,
@@ -49809,6 +49873,14 @@
       "onboard_time": 1760602701,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134704,
+      "num": 134704,
+      "word": "泽连斯基又要中国帮忙",
+      "onboard_time": 1761907101,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134702,
@@ -56027,6 +56099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123155,
+      "num": 123155,
+      "word": "光与夜之恋新联动",
+      "onboard_time": 1761908542,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123153,
       "num": 123153,
       "word": "被黄鼠狼骚扰 两天睡了4小时",
@@ -59571,6 +59651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117162,
+      "num": 133510,
+      "word": "新生儿转运时坠落骨折最新进展",
+      "onboard_time": 1761907523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117153,
       "num": 117153,
       "word": "李煜东 每周登微博带来一个坏消息",
@@ -60905,6 +60993,14 @@
       "onboard_time": 1759556421,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114995,
+      "num": 114995,
+      "word": "请所有单位都按这个工位标配",
+      "onboard_time": 1761908782,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 114966,
@@ -68371,6 +68467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105082,
+      "num": 105082,
+      "word": "什么精神状态一看就是吃好了",
+      "onboard_time": 1761909082,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 105074,
       "num": 105074,
       "word": "张晚意找到同皂中人了",
@@ -74659,6 +74763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96116,
+      "num": 96116,
+      "word": "那些总是叫错的名字",
+      "onboard_time": 1761909322,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96089,
       "num": 96089,
       "word": "建议焦虑内耗的人去培养输出型爱好",
@@ -75131,6 +75243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95389,
+      "num": 94908,
+      "word": "于正问赵晴像不像林青霞",
+      "onboard_time": 1761907702,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95374,
       "num": 95374,
       "word": "包上恩周柯宇跳华尔兹",
@@ -75515,6 +75635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94920,
+      "num": 94920,
+      "word": "泡泡玛特",
+      "onboard_time": 1761906982,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 94918,
       "num": 94918,
       "word": "猫猫顶起两苹果已打败99%的猫猫",
@@ -75561,6 +75689,14 @@
       "onboard_time": 1761873860,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94896,
+      "num": 94896,
+      "word": "王楚钦好优越的侧脸",
+      "onboard_time": 1761906923,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 94893,
@@ -76073,6 +76209,14 @@
       "onboard_time": 1759640301,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94012,
+      "num": 94012,
+      "word": "龚俊怎么做到人人满意的",
+      "onboard_time": 1761909622,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 94001,
@@ -78803,6 +78947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90205,
+      "num": 118193,
+      "word": "中加关系呈恢复向好态势",
+      "onboard_time": 1761909020,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90200,
       "num": 90200,
       "word": "苏晓彤朋友爆选秀头部情侣",
@@ -79185,6 +79337,14 @@
       "onboard_time": 1760852001,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89683,
+      "num": 89683,
+      "word": "11月份十二星座重点提示",
+      "onboard_time": 1761907223,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 89680,
@@ -79611,14 +79771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88950,
-      "num": 88950,
-      "word": "王楚钦好优越的侧脸",
-      "onboard_time": 1761906923,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "昆明5岁女童23楼坠下生还",
@@ -79867,14 +80019,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88514,
-      "num": 88514,
-      "word": "11月份十二星座重点提示",
-      "onboard_time": 1761907223,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88496,
       "num": 88496,
       "word": "糖炒栗子加糖不是为了甜",
@@ -79961,6 +80105,14 @@
       "onboard_time": 1761126320,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88361,
+      "num": 88361,
+      "word": "奶皮子冰糖葫芦",
+      "onboard_time": 1761909622,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 88339,
@@ -83147,6 +83299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83468,
+      "num": 104367,
+      "word": "暴雪大暴雪特大暴雪来袭",
+      "onboard_time": 1761909441,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83421,
       "num": 83421,
       "word": "TTG对战RW",
@@ -83177,6 +83337,14 @@
       "onboard_time": 1761197721,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83387,
+      "num": 104597,
+      "word": "基金业绩比较基准征求意见稿发布",
+      "onboard_time": 1761908423,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 83378,
@@ -83715,14 +83883,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 82353,
-      "num": 82353,
-      "word": "泡泡玛特",
-      "onboard_time": 1761906982,
-      "rank": 40,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 82332,
       "num": 82332,
       "word": "微博大眼音乐节阵容官宣",
@@ -84241,14 +84401,6 @@
       "onboard_time": 1760959222,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81570,
-      "num": 81570,
-      "word": "林心如说霍建华没有送过无语的礼物",
-      "onboard_time": 1761907401,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 81514,
@@ -85771,6 +85923,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 78570,
+      "num": 94954,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78561,
       "num": 156804,
       "word": "宇树科技新机器人高一米八重70kg",
@@ -86771,6 +86931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76599,
+      "num": 94997,
+      "word": "你喜欢赠品还是满减",
+      "onboard_time": 1761909322,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76569,
       "num": 76569,
       "word": "理想回应MEGA2024款召回",
@@ -87617,6 +87785,14 @@
       "onboard_time": 1760334802,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74352,
+      "num": 86268,
+      "word": "中方4倡导4反对",
+      "onboard_time": 1761909141,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74334,
@@ -92332,7 +92508,7 @@
     },
     {
       "raw_hot": 59910,
-      "num": 139418,
+      "num": 139804,
       "word": "燃油智能第一车",
       "onboard_time": 1761905121,
       "rank": 15,
@@ -92489,6 +92665,14 @@
       "onboard_time": 1761434418,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59605,
+      "num": 94908,
+      "word": "女子强占车位被以牙还牙",
+      "onboard_time": 1761908423,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59561,
@@ -94617,14 +94801,6 @@
       "onboard_time": 1761893602,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52148,
-      "num": 82423,
-      "word": "泽连斯基又要中国帮忙",
-      "onboard_time": 1761907101,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52104,
@@ -101259,6 +101435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25019,
+      "num": 725542,
+      "word": "中国人的太空美学",
+      "onboard_time": 1761879620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25002,
       "num": 210374,
       "word": "百色多个村屯被洪水围成孤岛",
@@ -102321,14 +102505,6 @@
       "onboard_time": 1759867155,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 20188,
-      "num": 725542,
-      "word": "中国人的太空美学",
-      "onboard_time": 1761879620,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20183,
