@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761921911637,
+  "endTime": 1761924380242,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1088332,
-      "num": 1174133,
+      "raw_hot": 1102673,
+      "num": 1176427,
       "word": "将门毒后 王鹤棣孟子义",
       "onboard_time": 1761919463,
       "rank": 1,
@@ -459,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 335441,
+      "num": 186512,
+      "word": "AL教练后台痛哭",
+      "onboard_time": 1761919883,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326832,
       "num": 233444,
       "word": "tabe的bp",
@@ -553,6 +561,14 @@
       "onboard_time": 1761897562,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290364,
+      "num": 290364,
+      "word": "樊振东全运会男单4号种子",
+      "onboard_time": 1761922703,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 285293,
@@ -731,14 +747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 234512,
-      "num": 181231,
-      "word": "AL教练后台痛哭",
-      "onboard_time": 1761919883,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 230305,
       "num": 187946,
       "word": "十年前的彭小苒",
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205416,
+      "num": 205416,
+      "word": "司机6000里送货到酒泉才知是航天保障车",
+      "onboard_time": 1761922642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204997,
       "num": 164556,
       "word": "9岁半女孩已来2次月经",
@@ -961,6 +977,14 @@
       "onboard_time": 1761902482,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198085,
+      "num": 141938,
+      "word": "张峻豪直播",
+      "onboard_time": 1761923422,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196836,
@@ -1411,6 +1435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164149,
+      "num": 164149,
+      "word": "为父母补缴社保用光了购房首付",
+      "onboard_time": 1761908843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163237,
       "num": 602596,
       "word": "山河枕",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1761887542,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161139,
+      "num": 161139,
+      "word": "乒协公布全运会乒乓项目种子排序",
+      "onboard_time": 1761923002,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 160941,
@@ -1627,6 +1667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "薛之谦一开口把刘宇宁周深噎着了",
+      "onboard_time": 1761923663,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147828,
       "num": 133930,
       "word": "清融红发变粉前",
@@ -1747,11 +1795,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143426,
-      "num": 143426,
-      "word": "为父母补缴社保用光了购房首付",
-      "onboard_time": 1761908843,
-      "rank": 39,
+      "raw_hot": 143413,
+      "num": 141103,
+      "word": "长沙潮宗街一面墙体倒塌",
+      "onboard_time": 1761922342,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1761,6 +1809,14 @@
       "onboard_time": 1761888682,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142535,
+      "num": 142535,
+      "word": "Gumayusi回应淘汰AL",
+      "onboard_time": 1761923124,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 141222,
@@ -2043,6 +2099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120584,
+      "num": 142623,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1761922284,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120269,
       "num": 120269,
       "word": "全伊伦鹤男好嗑",
@@ -2065,6 +2129,14 @@
       "onboard_time": 1761879981,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118932,
+      "num": 118932,
+      "word": "王楚钦全运会1号种子选手",
+      "onboard_time": 1761922463,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 118287,
@@ -2323,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110221,
+      "num": 110221,
+      "word": "汪苏泷说加衣服不如加我微信",
+      "onboard_time": 1761924024,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110069,
       "num": 110069,
       "word": "包上恩私密物品被司机扣留售卖",
@@ -2491,6 +2571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104274,
+      "num": 104274,
+      "word": "海底捞回应家长就餐区给孩子接尿",
+      "onboard_time": 1761920063,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103824,
       "num": 103824,
       "word": "马龙全运会史上首个男单卫冕冠军",
@@ -2563,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99340,
+      "num": 99340,
+      "word": "佛山一私房菜馆被曝宰杀活猫",
+      "onboard_time": 1761922223,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98934,
       "num": 98934,
       "word": "陈赫中了黄磊黄酒的毒",
@@ -2603,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97938,
+      "num": 144207,
+      "word": "尹锡悦庭上批检察官直呼金建希名字",
+      "onboard_time": 1761921022,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97697,
       "num": 140908,
       "word": "看比赛也能领国家补贴了",
@@ -2617,6 +2721,14 @@
       "onboard_time": 1761899661,
       "rank": 40,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 97571,
+      "num": 97571,
+      "word": "伞兵粉丝先吃",
+      "onboard_time": 1761923723,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 97373,
@@ -3179,14 +3291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74633,
-      "num": 144207,
-      "word": "尹锡悦庭上批检察官直呼金建希名字",
-      "onboard_time": 1761921022,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74543,
       "num": 78153,
       "word": "全国已有29个省份延长婚假",
@@ -3235,6 +3339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72600,
+      "num": 98039,
+      "word": "航天员出征车牌是8个汉字",
+      "onboard_time": 1761921983,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71879,
       "num": 121731,
       "word": "李施嬅曾在媒体面前假装幸福",
@@ -3257,6 +3369,14 @@
       "onboard_time": 1761874759,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71444,
+      "num": 97266,
+      "word": "内娱首个用手机拍MV的男团",
+      "onboard_time": 1761923061,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 70664,
@@ -3747,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28678,
+      "num": 147070,
+      "word": "那些年iPhone被取消的设计",
+      "onboard_time": 1761921263,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28373,
       "num": 282698,
       "word": "传祺M8载着华语电影圈到场",
@@ -3819,6 +3947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 23195,
+      "num": 105078,
+      "word": "女子称因未婚未育被取消面试",
+      "onboard_time": 1761923903,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23134,
       "num": 148772,
       "word": "原来大闸蟹小时候长这样",
@@ -3889,14 +4025,6 @@
       "onboard_time": 1761852495,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20001,
-      "num": 147070,
-      "word": "那些年iPhone被取消的设计",
-      "onboard_time": 1761921263,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 19619,
@@ -4035,7 +4163,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 5569,
+      "raw_hot": 8311,
       "num": 387817,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
