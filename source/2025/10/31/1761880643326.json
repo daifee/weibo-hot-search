@@ -1,0 +1,410 @@
+{
+  "runTime": 1761880643326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456715,
+        "num": 1073074,
+        "word": "生命树杀青",
+        "onboard_time": 1761878719,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348359,
+        "num": 348359,
+        "word": "特朗普全面关税被参议院批准终止",
+        "onboard_time": 1761866959,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58000,
+        "num": 291210,
+        "word": "11月一批新规将施行",
+        "onboard_time": 1761880280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268000,
+        "num": 268000,
+        "word": "中韩元首握手合影",
+        "onboard_time": 1761879498,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510061,
+        "num": 255371,
+        "word": "玉簟秋开机",
+        "onboard_time": 1761875000,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236783,
+        "num": 236783,
+        "word": "APEC重要讲话",
+        "onboard_time": 1761876560,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195639,
+        "num": 234913,
+        "word": "钱学森逝世16年了",
+        "onboard_time": 1761873919,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297200,
+        "num": 234335,
+        "word": "郭宇欣开机路透",
+        "onboard_time": 1761877400,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32181,
+        "num": 233836,
+        "word": "10月最后一天",
+        "onboard_time": 1761880340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233379,
+        "num": 233379,
+        "word": "英国安德鲁王子被剥夺头衔",
+        "onboard_time": 1761867079,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1122587,
+        "num": 232711,
+        "word": "三人虐待室友致死案赔偿已执行",
+        "onboard_time": 1761876560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438997,
+        "num": 226796,
+        "word": "建议不要将肉汤倒进下水道",
+        "onboard_time": 1761837623,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415307,
+        "num": 221453,
+        "word": "高市早苗向韩国国旗鞠躬",
+        "onboard_time": 1761877940,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304566,
+        "num": 217337,
+        "word": "的哥疑因乘客少付2块起争执被气死",
+        "onboard_time": 1761874100,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215320,
+        "num": 215320,
+        "word": "JackeyLove说半决赛想打AL",
+        "onboard_time": 1761877100,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197907,
+        "num": 197907,
+        "word": "价值上亿民企遭强吞吃相难看需警惕",
+        "onboard_time": 1761869720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181983,
+        "num": 181983,
+        "word": "加湿器加精油可能致肺炎",
+        "onboard_time": 1761873620,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 165805,
+        "num": 165805,
+        "word": "天津一小区围墙防盗刺插满烧饼馒头",
+        "onboard_time": 1761873679,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164289,
+        "num": 164289,
+        "word": "高三男生赤脚进火场救坐轮椅邻居",
+        "onboard_time": 1761833360,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135773,
+        "num": 135773,
+        "word": "杨紫胡歌生命树最新海报",
+        "onboard_time": 1761880221,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668154,
+        "num": 135427,
+        "word": "江一燕官宣离婚众女星留言鼓励",
+        "onboard_time": 1761873501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652597,
+        "num": 133471,
+        "word": "包上恩私人物品被司机扣留售卖",
+        "onboard_time": 1761876679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230305,
+        "num": 132606,
+        "word": "十年前的彭小苒",
+        "onboard_time": 1761878359,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222643,
+        "num": 130157,
+        "word": "丁禹兮 不要关注别的夫妻的生活",
+        "onboard_time": 1761867499,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193852,
+        "num": 129607,
+        "word": "张檬小五在一起六年没有分开过一天",
+        "onboard_time": 1761868279,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107132,
+        "num": 127932,
+        "word": "刘浩存晒新车订单",
+        "onboard_time": 1761878421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45280,
+        "num": 126499,
+        "word": "刘宇宁双11剧场",
+        "onboard_time": 1761880040,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165320,
+        "num": 124684,
+        "word": "9岁半女孩已来2次月经",
+        "onboard_time": 1761868821,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146161,
+        "num": 123278,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122509,
+        "num": 122509,
+        "word": "新生儿转运时从推车坠落",
+        "onboard_time": 1761868821,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231538,
+        "num": 122470,
+        "word": "郭晓东 张杰的最强站哥",
+        "onboard_time": 1761879620,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192269,
+        "num": 122182,
+        "word": "玉簟秋开机当天就有预告了",
+        "onboard_time": 1761880040,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19921,
+        "num": 121876,
+        "word": "神21今日出征",
+        "onboard_time": 1761867079,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159616,
+        "num": 121769,
+        "word": "43岁前围绝经期的真实状态",
+        "onboard_time": 1761878901,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 121511,
+        "word": "重庆一大学老师被指刻薄魅男",
+        "onboard_time": 1761842658,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "神21出征当天是钱老逝世纪念日",
+        "onboard_time": 1761870501,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120504,
+        "num": 120504,
+        "word": "原来看指甲可以辨健康",
+        "onboard_time": 1761873440,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119395,
+        "num": 119395,
+        "word": "上班一个月的变化",
+        "onboard_time": 1761879981,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98060,
+        "num": 117233,
+        "word": "队记谈杨瀚森吃宵夜",
+        "onboard_time": 1761879740,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16660,
+        "num": 116057,
+        "word": "王庄遗址实证商丘不断代文明史",
+        "onboard_time": 1761879681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11447,
+        "num": 116037,
+        "word": "这就是APEC",
+        "onboard_time": 1761880040,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116024,
+        "num": 116024,
+        "word": "刘轩丞11月暂不发布行程",
+        "onboard_time": 1761879200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109280,
+        "num": 109280,
+        "word": "白鹿这个香蕉真好吃",
+        "onboard_time": 1761873501,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106309,
+        "num": 106309,
+        "word": "法学老师起诉学生是一堂生动法治课",
+        "onboard_time": 1761872900,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103782,
+        "num": 103782,
+        "word": "女生真的要努力走出去",
+        "onboard_time": 1761873501,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 95162,
+        "word": "流感发病48小时是黄金自救时间",
+        "onboard_time": 1761876860,
+        "rank": 45,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "sevenkids成团聊天记录被发出来了",
+        "onboard_time": 1761880519,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90280,
+        "num": 90280,
+        "word": "小米捐赠5亿元支持科研",
+        "onboard_time": 1761873620,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89120,
+        "num": 89120,
+        "word": "宋茜红衣舞剑直拍",
+        "onboard_time": 1761880581,
+        "rank": 48,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 74135,
+        "num": 88609,
+        "word": "雄鹿战胜勇士",
+        "onboard_time": 1761880400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出5点建议#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761877154901,
+  "endTime": 1761880643326,
   "band_list": [
     {
       "raw_hot": 1544513,
@@ -9,6 +9,14 @@
       "onboard_time": 1761873501,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1122587,
+      "num": 232711,
+      "word": "三人虐待室友致死案赔偿已执行",
+      "onboard_time": 1761876560,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 874326,
@@ -35,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 652597,
+      "num": 164001,
+      "word": "包上恩私人物品被司机扣留售卖",
+      "onboard_time": 1761876679,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513258,
       "num": 482769,
       "word": "Mac",
@@ -57,6 +73,22 @@
       "onboard_time": 1761842658,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456715,
+      "num": 1073074,
+      "word": "生命树杀青",
+      "onboard_time": 1761878719,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 415307,
+      "num": 221453,
+      "word": "高市早苗向韩国国旗鞠躬",
+      "onboard_time": 1761877940,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 413636,
@@ -107,6 +139,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 304566,
+      "num": 217337,
+      "word": "的哥疑因乘客少付2块起争执被气死",
+      "onboard_time": 1761874100,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297200,
+      "num": 234335,
+      "word": "郭宇欣开机路透",
+      "onboard_time": 1761877400,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282252,
       "num": 789066,
       "word": "鼠鼠我啊要上太空了",
@@ -147,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268000,
+      "num": 268000,
+      "word": "中韩元首握手合影",
+      "onboard_time": 1761879498,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 247863,
       "num": 448159,
       "word": "被18岁男生从火场救出老人女儿发声",
@@ -171,6 +227,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236783,
+      "num": 236783,
+      "word": "APEC重要讲话",
+      "onboard_time": 1761876560,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 231538,
+      "num": 122470,
+      "word": "郭晓东 张杰的最强站哥",
+      "onboard_time": 1761879620,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 230305,
+      "num": 132606,
+      "word": "十年前的彭小苒",
+      "onboard_time": 1761878359,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229857,
       "num": 182258,
       "word": "把金毛舔到生气的萨摩耶",
@@ -179,12 +259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205453,
-      "num": 164001,
-      "word": "包上恩私人物品被司机扣留售卖",
-      "onboard_time": 1761876679,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 215320,
+      "num": 215320,
+      "word": "JackeyLove说半决赛想打AL",
+      "onboard_time": 1761877100,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 204997,
@@ -219,20 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193966,
-      "num": 193966,
-      "word": "三人虐待室友致死案赔偿已执行",
-      "onboard_time": 1761876560,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192565,
       "num": 669384,
       "word": "微信三大新功能",
       "onboard_time": 1761815540,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192269,
+      "num": 122182,
+      "word": "玉簟秋开机当天就有预告了",
+      "onboard_time": 1761880040,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191895,
@@ -249,6 +329,14 @@
       "onboard_time": 1761834982,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 181983,
+      "num": 293726,
+      "word": "加湿器加精油可能致肺炎",
+      "onboard_time": 1761873620,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 172115,
@@ -283,14 +371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167815,
-      "num": 293726,
-      "word": "加湿器加精油可能致肺炎",
-      "onboard_time": 1761873620,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 165956,
       "num": 604321,
       "word": "政府主管部门接管民企数亿资产",
@@ -313,6 +393,14 @@
       "onboard_time": 1761850095,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159616,
+      "num": 121769,
+      "word": "43岁前围绝经期的真实状态",
+      "onboard_time": 1761878901,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158416,
@@ -363,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143892,
-      "num": 143892,
-      "word": "的哥疑因乘客少付2块起争执被气死",
-      "onboard_time": 1761874100,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 146161,
+      "num": 123278,
+      "word": "你好砺箭二十一乘组",
+      "onboard_time": 1761879440,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141222,
@@ -379,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133192,
-      "num": 133192,
-      "word": "APEC重要讲话",
-      "onboard_time": 1761876560,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 135773,
+      "num": 135773,
+      "word": "杨紫胡歌生命树最新海报",
+      "onboard_time": 1761880221,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 132851,
@@ -427,12 +515,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119395,
+      "num": 119395,
+      "word": "上班一个月的变化",
+      "onboard_time": 1761879981,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118287,
       "num": 118287,
       "word": "小鼠航天员选拔vlog来了",
       "onboard_time": 1761871881,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116024,
+      "num": 116024,
+      "word": "刘轩丞11月暂不发布行程",
+      "onboard_time": 1761879200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 113627,
@@ -465,6 +569,14 @@
       "onboard_time": 1761818962,
       "rank": 7,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 107132,
+      "num": 127932,
+      "word": "刘浩存晒新车订单",
+      "onboard_time": 1761878421,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 106440,
@@ -507,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98060,
+      "num": 117233,
+      "word": "队记谈杨瀚森吃宵夜",
+      "onboard_time": 1761879740,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98051,
       "num": 108409,
       "word": "原来现实里真的有莫小贝",
@@ -521,6 +641,14 @@
       "onboard_time": 1761874881,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95162,
+      "num": 95162,
+      "word": "流感发病48小时是黄金自救时间",
+      "onboard_time": 1761876860,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 94903,
@@ -539,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94557,
-      "num": 94557,
-      "word": "流感发病48小时是黄金自救时间",
-      "onboard_time": 1761876860,
-      "rank": 37,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 94514,
       "num": 600594,
       "word": "尼格买提原来现实中长这样",
@@ -563,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94004,
+      "num": 94004,
+      "word": "sevenkids成团聊天记录被发出来了",
+      "onboard_time": 1761880519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92074,
       "num": 92074,
       "word": "20岁中国女孩日本失联超20天",
@@ -577,6 +705,14 @@
       "onboard_time": 1761875540,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89120,
+      "num": 89120,
+      "word": "宋茜红衣舞剑直拍",
+      "onboard_time": 1761880581,
+      "rank": 48,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 88967,
@@ -667,20 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74600,
-      "num": 74600,
-      "word": "JackeyLove说半决赛想打AL",
-      "onboard_time": 1761877100,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74543,
       "num": 78153,
       "word": "全国已有29个省份延长婚假",
       "onboard_time": 1761868941,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74135,
+      "num": 88609,
+      "word": "雄鹿战胜勇士",
+      "onboard_time": 1761880400,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71787,
@@ -787,6 +923,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 58000,
+      "num": 291210,
+      "word": "11月一批新规将施行",
+      "onboard_time": 1761880280,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57859,
       "num": 418057,
       "word": "丁太升谈周深单依纯升key事件",
@@ -867,6 +1011,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 45280,
+      "num": 126499,
+      "word": "刘宇宁双11剧场",
+      "onboard_time": 1761880040,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44123,
       "num": 314719,
       "word": "网警侦破假借高薪招聘实施侵公案",
@@ -876,7 +1028,7 @@
     },
     {
       "raw_hot": 42950,
-      "num": 106331,
+      "num": 121876,
       "word": "神21今日出征",
       "onboard_time": 1761867079,
       "rank": 19,
@@ -905,6 +1057,14 @@
       "onboard_time": 1761856693,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32181,
+      "num": 233836,
+      "word": "10月最后一天",
+      "onboard_time": 1761880340,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29554,
@@ -979,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16660,
+      "num": 116057,
+      "word": "王庄遗址实证商丘不断代文明史",
+      "onboard_time": 1761879681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16306,
       "num": 449311,
       "word": "2025APEC",
@@ -993,11 +1161,22 @@
       "onboard_time": 1761855073,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11447,
+      "num": 116037,
+      "word": "这就是APEC",
+      "onboard_time": 1761880040,
+      "rank": 40,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习主席这些话亮明中国态度#"
+    },
+    {
+      "word": "#习近平主席提出5点建议#"
     }
   ]
 }

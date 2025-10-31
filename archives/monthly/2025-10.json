@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761877154901,
+  "endTime": 1761880643326,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1760407400,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1122587,
+      "num": 232711,
+      "word": "三人虐待室友致死案赔偿已执行",
+      "onboard_time": 1761876560,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1121731,
@@ -7361,6 +7369,14 @@
       "onboard_time": 1761653662,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652597,
+      "num": 164001,
+      "word": "包上恩私人物品被司机扣留售卖",
+      "onboard_time": 1761876679,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 652459,
@@ -12547,6 +12563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456715,
+      "num": 1073074,
+      "word": "生命树杀青",
+      "onboard_time": 1761878719,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456675,
       "num": 217206,
       "word": "白鹿粉发白裙",
@@ -14289,6 +14313,14 @@
       "onboard_time": 1759998321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415307,
+      "num": 221453,
+      "word": "高市早苗向韩国国旗鞠躬",
+      "onboard_time": 1761877940,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 415183,
@@ -19507,6 +19539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304566,
+      "num": 217337,
+      "word": "的哥疑因乘客少付2块起争执被气死",
+      "onboard_time": 1761874100,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304561,
       "num": 304561,
       "word": "杨幂黄明昊手挽着手下班",
@@ -19961,6 +20001,14 @@
       "onboard_time": 1761714741,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297200,
+      "num": 234335,
+      "word": "郭宇欣开机路透",
+      "onboard_time": 1761877400,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 297179,
@@ -22097,6 +22145,14 @@
       "onboard_time": 1761280102,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268000,
+      "num": 268000,
+      "word": "中韩元首握手合影",
+      "onboard_time": 1761879498,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267882,
@@ -24643,6 +24699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236783,
+      "num": 236783,
+      "word": "APEC重要讲话",
+      "onboard_time": 1761876560,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236779,
       "num": 236779,
       "word": "两客机在纽约机场相撞",
@@ -25155,6 +25219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231538,
+      "num": 122470,
+      "word": "郭晓东 张杰的最强站哥",
+      "onboard_time": 1761879620,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231400,
       "num": 231400,
       "word": "卢远前采",
@@ -25289,6 +25361,14 @@
       "onboard_time": 1759396341,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 230305,
+      "num": 132606,
+      "word": "十年前的彭小苒",
+      "onboard_time": 1761878359,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 230294,
@@ -26755,6 +26835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215320,
+      "num": 215320,
+      "word": "JackeyLove说半决赛想打AL",
+      "onboard_time": 1761877100,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215291,
       "num": 215291,
       "word": "这种凳子请走出大学",
@@ -28049,14 +28137,6 @@
       "onboard_time": 1761396201,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205453,
-      "num": 164001,
-      "word": "包上恩私人物品被司机扣留售卖",
-      "onboard_time": 1761876679,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 205413,
@@ -30587,14 +30667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193966,
-      "num": 193966,
-      "word": "三人虐待室友致死案赔偿已执行",
-      "onboard_time": 1761876560,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193958,
       "num": 193958,
       "word": "刘冲端水",
@@ -31033,6 +31105,14 @@
       "onboard_time": 1759555160,
       "rank": 31,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 192269,
+      "num": 122182,
+      "word": "玉簟秋开机当天就有预告了",
+      "onboard_time": 1761880040,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192166,
@@ -33513,6 +33593,14 @@
       "onboard_time": 1761387561,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181983,
+      "num": 293726,
+      "word": "加湿器加精油可能致肺炎",
+      "onboard_time": 1761873620,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 181975,
@@ -37067,14 +37155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167815,
-      "num": 293726,
-      "word": "加湿器加精油可能致肺炎",
-      "onboard_time": 1761873620,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 167791,
       "num": 167791,
       "word": "李昀锐这段牛顿别看",
@@ -39601,6 +39681,14 @@
       "onboard_time": 1759990940,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159616,
+      "num": 121769,
+      "word": "43岁前围绝经期的真实状态",
+      "onboard_time": 1761878901,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159570,
@@ -44243,6 +44331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146161,
+      "num": 123278,
+      "word": "你好砺箭二十一乘组",
+      "onboard_time": 1761879440,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146135,
       "num": 146135,
       "word": "张杰带谢娜下场打球",
@@ -45129,14 +45225,6 @@
       "onboard_time": 1759559001,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143892,
-      "num": 143892,
-      "word": "的哥疑因乘客少付2块起争执被气死",
-      "onboard_time": 1761874100,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143879,
@@ -48299,6 +48387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135773,
+      "num": 135773,
+      "word": "杨紫胡歌生命树最新海报",
+      "onboard_time": 1761880221,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135766,
       "num": 135766,
       "word": "Ella为了演唱会卷成啥样了",
@@ -49713,14 +49809,6 @@
       "onboard_time": 1760708543,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133192,
-      "num": 133192,
-      "word": "APEC重要讲话",
-      "onboard_time": 1761876560,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133179,
@@ -57139,6 +57227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119395,
+      "num": 119395,
+      "word": "上班一个月的变化",
+      "onboard_time": 1761879981,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "发现了相亲最高效的办法",
@@ -59265,6 +59361,14 @@
       "onboard_time": 1759661724,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 116024,
+      "num": 116024,
+      "word": "刘轩丞11月暂不发布行程",
+      "onboard_time": 1761879200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115992,
@@ -65673,6 +65777,14 @@
       "onboard_time": 1759375640,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107132,
+      "num": 127932,
+      "word": "刘浩存晒新车订单",
+      "onboard_time": 1761878421,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 107130,
@@ -72107,6 +72219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98060,
+      "num": 117233,
+      "word": "队记谈杨瀚森吃宵夜",
+      "onboard_time": 1761879740,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98051,
       "num": 98051,
       "word": "小时候求爸妈买过的高级货",
@@ -73963,6 +74083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95162,
+      "num": 95162,
+      "word": "流感发病48小时是黄金自救时间",
+      "onboard_time": 1761876860,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 95159,
       "num": 95159,
       "word": "王浩泽回家乡分享了3句话",
@@ -74395,14 +74523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94557,
-      "num": 94557,
-      "word": "流感发病48小时是黄金自救时间",
-      "onboard_time": 1761876860,
-      "rank": 37,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 94545,
       "num": 653046,
       "word": "万豪每桌8千8的婚宴被吐槽预制菜",
@@ -74729,6 +74849,14 @@
       "onboard_time": 1759640301,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94004,
+      "num": 94004,
+      "word": "sevenkids成团聊天记录被发出来了",
+      "onboard_time": 1761880519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 94001,
@@ -78113,6 +78241,14 @@
       "onboard_time": 1760233999,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89120,
+      "num": 89120,
+      "word": "宋茜红衣舞剑直拍",
+      "onboard_time": 1761880581,
+      "rank": 48,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 89105,
@@ -85875,14 +86011,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 74600,
-      "num": 74600,
-      "word": "JackeyLove说半决赛想打AL",
-      "onboard_time": 1761877100,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74588,
       "num": 74588,
       "word": "果然对得起黄毛两个字",
@@ -86081,6 +86209,14 @@
       "onboard_time": 1761323120,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74135,
+      "num": 88609,
+      "word": "雄鹿战胜勇士",
+      "onboard_time": 1761880400,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74126,
@@ -91379,6 +91515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58000,
+      "num": 291210,
+      "word": "11月一批新规将施行",
+      "onboard_time": 1761880280,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57992,
       "num": 105786,
       "word": "把吃完的橘子皮变成天然香薰",
@@ -94579,6 +94723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45280,
+      "num": 126499,
+      "word": "刘宇宁双11剧场",
+      "onboard_time": 1761880040,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45259,
       "num": 405861,
       "word": "肖宇梁的打戏戒不掉",
@@ -95148,7 +95300,7 @@
     },
     {
       "raw_hot": 42950,
-      "num": 106331,
+      "num": 121876,
       "word": "神21今日出征",
       "onboard_time": 1761867079,
       "rank": 19,
@@ -97648,6 +97800,14 @@
       "word": "网警提醒5种网络安全风险需警惕",
       "onboard_time": 1759371080,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32181,
+      "num": 233836,
+      "word": "10月最后一天",
+      "onboard_time": 1761880340,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -101219,6 +101379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 16660,
+      "num": 116057,
+      "word": "王庄遗址实证商丘不断代文明史",
+      "onboard_time": 1761879681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16487,
       "num": 109738,
       "word": "日本新首相的烂摊子",
@@ -102131,6 +102299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11447,
+      "num": 116037,
+      "word": "这就是APEC",
+      "onboard_time": 1761880040,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11446,
       "num": 16746,
       "word": "75秒回看75年前",
@@ -102866,6 +103042,9 @@
     },
     {
       "word": "#习主席这些话亮明中国态度#"
+    },
+    {
+      "word": "#习近平主席提出5点建议#"
     }
   ]
 }
