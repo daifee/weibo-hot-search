@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761953052262,
+  "endTime": 1761953767085,
   "band_list": [
     {
       "raw_hot": 1203616,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 534346,
-      "num": 753655,
+      "num": 837275,
       "word": "神二十一发射升空",
       "onboard_time": 1761926602,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100528,
+      "num": 504027,
+      "word": "为什么女装裤频频无中生裆",
+      "onboard_time": 1761916825,
+      "rank": 24,
+      "category": "议题讨论,时尚"
+    },
+    {
       "raw_hot": 98534,
       "num": 504162,
       "word": "婚内强奸遭羁押285天男子获国赔",
@@ -203,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95071,
-      "num": 504027,
-      "word": "为什么女装裤频频无中生裆",
-      "onboard_time": 1761916825,
-      "rank": 24,
-      "category": "议题讨论,时尚"
-    },
-    {
       "raw_hot": 89445,
       "num": 504021,
       "word": "AL止步八强",
@@ -227,6 +227,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87668,
+      "num": 118044,
+      "word": "11月",
+      "onboard_time": 1761952637,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84953,
+      "num": 113135,
+      "word": "张智霖问就是在打麻将",
+      "onboard_time": 1761949154,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84691,
       "num": 503881,
       "word": "央视曝光盗版剧APP",
@@ -241,6 +257,14 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 80284,
+      "num": 84915,
+      "word": "AG老板谈AL不敌T1",
+      "onboard_time": 1761953419,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 77819,
@@ -264,14 +288,6 @@
       "word": "11月第1天",
       "onboard_time": 1761927800,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76543,
-      "num": 118044,
-      "word": "11月",
-      "onboard_time": 1761952637,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -355,12 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62801,
-      "num": 113135,
-      "word": "张智霖问就是在打麻将",
-      "onboard_time": 1761949154,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 65854,
+      "num": 84912,
+      "word": "原来这就是传说中的龙舌兰",
+      "onboard_time": 1761953538,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 62352,
@@ -401,6 +417,14 @@
       "onboard_time": 1761904162,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57608,
+      "num": 84930,
+      "word": "iPhoneAir激活量曝光",
+      "onboard_time": 1761953357,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 56085,
@@ -499,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34978,
+      "num": 84886,
+      "word": "没人告诉我团播发展成这样了",
+      "onboard_time": 1761953657,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 34955,
       "num": 117373,
       "word": "Wolf说Hope确实菜",
@@ -515,20 +547,20 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 28968,
+      "num": 109237,
+      "word": "包上恩方再发说明",
+      "onboard_time": 1761952157,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27677,
       "num": 109523,
       "word": "目前中日关系机遇和挑战并存",
       "onboard_time": 1761943874,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24961,
-      "num": 109237,
-      "word": "包上恩方再发说明",
-      "onboard_time": 1761952157,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 23482,
