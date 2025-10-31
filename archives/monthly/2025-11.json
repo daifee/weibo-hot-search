@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761945720334,
+  "endTime": 1761946616925,
   "band_list": [
     {
       "raw_hot": 1203616,
@@ -219,6 +219,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 82104,
+      "num": 34934,
+      "word": "金卡戴珊质疑美国登月造假",
+      "onboard_time": 1761940333,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77819,
       "num": 503802,
       "word": "海底捞回应家长就餐区给孩子接尿",
@@ -257,14 +265,6 @@
       "onboard_time": 1761885382,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 74211,
-      "num": 33294,
-      "word": "金卡戴珊质疑美国登月造假",
-      "onboard_time": 1761940333,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 73110,
@@ -475,6 +475,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 26219,
+      "num": 41489,
+      "word": "用生命扳倒安德鲁王子的女人",
+      "onboard_time": 1761936855,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23482,
       "num": 117264,
       "word": "蓉城提前一轮无缘争冠",
@@ -491,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21269,
-      "num": 41489,
-      "word": "用生命扳倒安德鲁王子的女人",
-      "onboard_time": 1761936855,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 13015,
       "num": 32737,
       "word": "京豆哥直播半小时怒发600万",
       "onboard_time": 1761919522,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 12508,
+      "num": 34433,
+      "word": "目前中日关系机遇和挑战并存",
+      "onboard_time": 1761943874,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8085,
