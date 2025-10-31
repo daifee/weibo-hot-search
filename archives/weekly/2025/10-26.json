@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761936647797,
+  "endTime": 1761938425344,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -21881,6 +21881,14 @@
       "onboard_time": 1761592694,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19063,
+      "num": 41489,
+      "word": "用生命扳倒安德鲁王子的女人",
+      "onboard_time": 1761936855,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18929,

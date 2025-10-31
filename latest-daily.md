@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 02:50:47
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 03:20:25
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ Wolf说Hope确实菜（热度：34955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
 音乐缘计划（热度：21999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E7%94%9F%E5%91%BD%E6%89%B3%E5%80%92%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E7%9A%84%E5%A5%B3%E4%BA%BA%23" target="weibo">
+用生命扳倒安德鲁王子的女人（热度：19063）
 </a>
 </li>
 
