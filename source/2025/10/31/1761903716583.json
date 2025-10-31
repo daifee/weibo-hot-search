@@ -1,0 +1,410 @@
+{
+  "runTime": 1761903716583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609132,
+        "num": 1097461,
+        "word": "AL对战T1",
+        "onboard_time": 1761893662,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 469364,
+        "num": 469364,
+        "word": "湘潭大学投毒案周立人已执行死刑",
+        "onboard_time": 1761901762,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28392,
+        "num": 436353,
+        "word": "11月一批新规将施行",
+        "onboard_time": 1761880280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431829,
+        "num": 431829,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212588,
+        "num": 212588,
+        "word": "MEGA2024款电动汽车部分召回",
+        "onboard_time": 1761902721,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198301,
+        "num": 198301,
+        "word": "北京12345回应王楚钦夺冠球台争议",
+        "onboard_time": 1761902482,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181722,
+        "num": 181722,
+        "word": "日本人看侵华罪证展3分钟就走",
+        "onboard_time": 1761896180,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "警方通报女子驾车撞上半挂致5死",
+        "onboard_time": 1761892825,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128737,
+        "num": 164135,
+        "word": "台海两岸统一是不可阻挡的大势",
+        "onboard_time": 1761893602,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112429,
+        "num": 159504,
+        "word": "XXXL月亮来了",
+        "onboard_time": 1761896961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313984,
+        "num": 150808,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240622,
+        "num": 145593,
+        "word": "头像真的很影响聊天欲",
+        "onboard_time": 1761897622,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202666,
+        "num": 143052,
+        "word": "打工人口中吃顿好的",
+        "onboard_time": 1761902242,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139656,
+        "num": 139656,
+        "word": "南北CP 影视CP榜断层第一",
+        "onboard_time": 1761901821,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 139406,
+        "word": "AL扳平",
+        "onboard_time": 1761900863,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102420,
+        "num": 137964,
+        "word": "杨紫梅婷生命树合照",
+        "onboard_time": 1761903262,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100081,
+        "num": 137503,
+        "word": "生命树",
+        "onboard_time": 1761900863,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96150,
+        "num": 136224,
+        "word": "成毅天地剑心直播",
+        "onboard_time": 1761898822,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88717,
+        "num": 134606,
+        "word": "生命树首发杀青特辑",
+        "onboard_time": 1761902242,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39017,
+        "num": 134131,
+        "word": "大牌保暖空调天猫国补历史最低价",
+        "onboard_time": 1761901821,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133435,
+        "num": 133435,
+        "word": "白鹿决定补录",
+        "onboard_time": 1761891922,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52303,
+        "num": 132662,
+        "word": "京东手机5折",
+        "onboard_time": 1761901522,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399214,
+        "num": 131770,
+        "word": "游本昌爱发朋友圈",
+        "onboard_time": 1761898940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263241,
+        "num": 131712,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75449,
+        "num": 130220,
+        "word": "湘潭大学宿舍投毒案时间线",
+        "onboard_time": 1761903560,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107714,
+        "num": 129854,
+        "word": "Faker说Flandre未战先败",
+        "onboard_time": 1761895280,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63363,
+        "num": 129149,
+        "word": "京东便宜",
+        "onboard_time": 1761898341,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149764,
+        "num": 128119,
+        "word": "泰国首富家族点赞中国科技",
+        "onboard_time": 1761903022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137704,
+        "num": 127416,
+        "word": "山河枕 一念关山",
+        "onboard_time": 1761889941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31863,
+        "num": 125991,
+        "word": "王鹤棣吃薯片的样子演我",
+        "onboard_time": 1761899842,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169925,
+        "num": 125820,
+        "word": "爸爸一躺下小孩面相都变了",
+        "onboard_time": 1761901821,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125099,
+        "num": 125099,
+        "word": "明星说瘦就真瘦啊",
+        "onboard_time": 1761901103,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122715,
+        "num": 122715,
+        "word": "跑男团围观郑恺野外洗澡",
+        "onboard_time": 1761903200,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112198,
+        "num": 112198,
+        "word": "AL状态",
+        "onboard_time": 1761897562,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109598,
+        "num": 109598,
+        "word": "第五人格",
+        "onboard_time": 1761902182,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106997,
+        "num": 106997,
+        "word": "二胎家庭的刚需是仓库级的",
+        "onboard_time": 1761899661,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 15736,
+        "num": 106979,
+        "word": "冬季保暖的穿搭思路",
+        "onboard_time": 1761901223,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 106978,
+        "num": 106978,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100941,
+        "num": 100941,
+        "word": "美国男子在酒店洗澡被热水烫死",
+        "onboard_time": 1761882380,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60311,
+        "num": 98222,
+        "word": "减肥药王炸来了",
+        "onboard_time": 1761901223,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96275,
+        "num": 96275,
+        "word": "52岁女子试管怀上双胎还遇上早产",
+        "onboard_time": 1761899721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95392,
+        "num": 95392,
+        "word": "侵华罪证展现场有日本人直接逃跑",
+        "onboard_time": 1761903560,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94628,
+        "num": 94628,
+        "word": "流金岁月导演曾拉黑刘诗诗经纪人",
+        "onboard_time": 1761896239,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92996,
+        "num": 92996,
+        "word": "朝鲜国营网吧",
+        "onboard_time": 1761901942,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89492,
+        "num": 89492,
+        "word": "医生建议不要频繁洗澡",
+        "onboard_time": 1761903382,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88620,
+        "num": 88620,
+        "word": "明年中国将担任亚太经合组织东道主",
+        "onboard_time": 1761903502,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86941,
+        "num": 86941,
+        "word": "张凌赫 女孩一定得吃碳水",
+        "onboard_time": 1761894861,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85560,
+        "num": 85560,
+        "word": "成毅 我知道你们很激动你们先别激动",
+        "onboard_time": 1761903441,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83510,
+        "num": 83510,
+        "word": "中国是世界经济增长的主要贡献者",
+        "onboard_time": 1761903382,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49123,
+        "num": 82877,
+        "word": "双十一买什么家电过冬",
+        "onboard_time": 1761901282,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建普惠包容的开放型亚太经济#"
+    }
+  }
+}

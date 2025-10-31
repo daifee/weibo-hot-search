@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761902932312,
+  "endTime": 1761903716583,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1691,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609132,
+      "num": 1097461,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 603806,
       "num": 330026,
       "word": "田曦薇哭了",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1761625644,
       "rank": 15,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 566403,
-      "num": 1090624,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 566041,
@@ -2411,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469364,
+      "num": 469364,
+      "word": "湘潭大学投毒案周立人已执行死刑",
+      "onboard_time": 1761901762,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467992,
       "num": 399482,
       "word": "Angelababy亮相重阳节敬老活动",
@@ -2899,6 +2907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399214,
+      "num": 136003,
+      "word": "游本昌爱发朋友圈",
+      "onboard_time": 1761898940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397347,
       "num": 178622,
       "word": "丁禹兮 不要关注别的夫妻的生活",
@@ -2945,14 +2961,6 @@
       "onboard_time": 1761468800,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391216,
-      "num": 391216,
-      "word": "湘潭大学投毒案周立人已执行死刑",
-      "onboard_time": 1761901762,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 390324,
@@ -3065,14 +3073,6 @@
       "onboard_time": 1761462679,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378381,
-      "num": 136003,
-      "word": "游本昌爱发朋友圈",
-      "onboard_time": 1761898940,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 377938,
@@ -3681,6 +3681,14 @@
       "onboard_time": 1761727401,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313984,
+      "num": 150808,
+      "word": "婚内强奸遭羁押285天男子获国赔",
+      "onboard_time": 1761902303,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312240,
@@ -4699,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240622,
+      "num": 148018,
+      "word": "头像真的很影响聊天欲",
+      "onboard_time": 1761897622,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240362,
       "num": 240362,
       "word": "千灯之约",
@@ -5443,6 +5459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212588,
+      "num": 212588,
+      "word": "MEGA2024款电动汽车部分召回",
+      "onboard_time": 1761902721,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 212340,
       "num": 155492,
       "word": "黄金暴涨暴跌AI都被问冒烟了",
@@ -5771,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202666,
+      "num": 143836,
+      "word": "打工人口中吃顿好的",
+      "onboard_time": 1761902242,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201404,
       "num": 166978,
       "word": "潘玮柏新歌去你的",
@@ -5953,6 +5985,14 @@
       "onboard_time": 1761640883,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198301,
+      "num": 198301,
+      "word": "北京12345回应王楚钦夺冠球台争议",
+      "onboard_time": 1761902482,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 198209,
@@ -6265,14 +6305,6 @@
       "onboard_time": 1761504495,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192388,
-      "num": 148018,
-      "word": "头像真的很影响聊天欲",
-      "onboard_time": 1761897622,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 192269,
@@ -6611,14 +6643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 186826,
-      "num": 186826,
-      "word": "MEGA2024款电动汽车部分召回",
-      "onboard_time": 1761902721,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 186570,
       "num": 186570,
       "word": "迪丽热巴贺思慕新照",
@@ -6953,14 +6977,6 @@
       "onboard_time": 1761569661,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180230,
-      "num": 180230,
-      "word": "北京12345回应王楚钦夺冠球台争议",
-      "onboard_time": 1761902482,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 179856,
@@ -7809,14 +7825,6 @@
       "onboard_time": 1761452358,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165130,
-      "num": 143836,
-      "word": "打工人口中吃顿好的",
-      "onboard_time": 1761902242,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 164912,
@@ -9011,6 +9019,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 149764,
+      "num": 128119,
+      "word": "泰国首富家族点赞中国科技",
+      "onboard_time": 1761903022,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149762,
       "num": 253386,
       "word": "甘孜4.7级地震",
@@ -9609,14 +9625,6 @@
       "onboard_time": 1761707420,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142583,
-      "num": 135034,
-      "word": "婚内强奸遭羁押285天男子获国赔",
-      "onboard_time": 1761902303,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142401,
@@ -11196,7 +11204,7 @@
     },
     {
       "raw_hot": 127191,
-      "num": 127191,
+      "num": 139406,
       "word": "AL扳平",
       "onboard_time": 1761900863,
       "rank": 31,
@@ -11500,7 +11508,7 @@
     },
     {
       "raw_hot": 124196,
-      "num": 134821,
+      "num": 159504,
       "word": "XXXL月亮来了",
       "onboard_time": 1761896961,
       "rank": 17,
@@ -11672,6 +11680,14 @@
       "word": "花少8 浪姐组团",
       "onboard_time": 1761714202,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122715,
+      "num": 122715,
+      "word": "跑男团围观郑恺野外洗澡",
+      "onboard_time": 1761903200,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -12508,7 +12524,7 @@
     },
     {
       "raw_hot": 115439,
-      "num": 136525,
+      "num": 137503,
       "word": "生命树",
       "onboard_time": 1761900863,
       "rank": 16,
@@ -13659,6 +13675,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106978,
+      "num": 106978,
+      "word": "男子无培训上班第一天害死同事",
+      "onboard_time": 1761903080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106966,
       "num": 349410,
       "word": "中美国防部长会谈",
@@ -14257,6 +14281,14 @@
       "onboard_time": 1761723562,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102420,
+      "num": 137964,
+      "word": "杨紫梅婷生命树合照",
+      "onboard_time": 1761903262,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 102261,
@@ -15155,6 +15187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95392,
+      "num": 95392,
+      "word": "侵华罪证展现场有日本人直接逃跑",
+      "onboard_time": 1761903560,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95374,
       "num": 95374,
       "word": "包上恩周柯宇跳华尔兹",
@@ -15473,6 +15513,14 @@
       "onboard_time": 1761805824,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92996,
+      "num": 92996,
+      "word": "朝鲜国营网吧",
+      "onboard_time": 1761901942,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92974,
@@ -15843,6 +15891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89492,
+      "num": 89492,
+      "word": "医生建议不要频繁洗澡",
+      "onboard_time": 1761903382,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89344,
       "num": 89344,
       "word": "湖人vs森林狼",
@@ -15913,6 +15969,14 @@
       "onboard_time": 1761798563,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88620,
+      "num": 88620,
+      "word": "明年中国将担任亚太经合组织东道主",
+      "onboard_time": 1761903502,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88533,
@@ -15988,7 +16052,7 @@
     },
     {
       "raw_hot": 87952,
-      "num": 95608,
+      "num": 98222,
       "word": "减肥药王炸来了",
       "onboard_time": 1761901223,
       "rank": 39,
@@ -16163,6 +16227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85560,
+      "num": 85560,
+      "word": "成毅 我知道你们很激动你们先别激动",
+      "onboard_time": 1761903441,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85503,
       "num": 85503,
       "word": "王家卫曾多次肯定唐嫣",
@@ -16321,6 +16393,14 @@
       "onboard_time": 1761457700,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83510,
+      "num": 83510,
+      "word": "中国是世界经济增长的主要贡献者",
+      "onboard_time": 1761903382,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83491,
@@ -16913,6 +16993,14 @@
       "onboard_time": 1761644542,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75449,
+      "num": 130220,
+      "word": "湘潭大学宿舍投毒案时间线",
+      "onboard_time": 1761903560,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75155,
@@ -18275,6 +18363,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 52303,
+      "num": 135741,
+      "word": "京东手机5折",
+      "onboard_time": 1761901522,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52155,
       "num": 150497,
       "word": "卫健委回应新生儿从推车坠落骨折",
@@ -18761,14 +18857,6 @@
       "onboard_time": 1761735381,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44134,
-      "num": 135741,
-      "word": "京东手机5折",
-      "onboard_time": 1761901522,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 44123,
@@ -20428,7 +20516,7 @@
     },
     {
       "raw_hot": 16418,
-      "num": 104179,
+      "num": 106979,
       "word": "冬季保暖的穿搭思路",
       "onboard_time": 1761901223,
       "rank": 37,
