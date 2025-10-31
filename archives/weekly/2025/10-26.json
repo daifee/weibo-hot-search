@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761899635338,
+  "endTime": 1761900434929,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1851,6 +1851,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 566403,
+      "num": 1090624,
+      "word": "AL对战T1",
+      "onboard_time": 1761893662,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 566041,
       "num": 195728,
       "word": "成毅直播假吃冰棍",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1761548121,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 528124,
-      "num": 528124,
-      "word": "AL对战T1",
-      "onboard_time": 1761893662,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 525709,
@@ -4091,6 +4091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279211,
+      "num": 127689,
+      "word": "游本昌爱发朋友圈",
+      "onboard_time": 1761898940,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278703,
       "num": 278703,
       "word": "台海两岸统一是不可阻挡的大势",
@@ -5107,14 +5115,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 225444,
-      "num": 127689,
-      "word": "游本昌爱发朋友圈",
-      "onboard_time": 1761898940,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224620,
       "num": 213688,
       "word": "怀孕为什么叫有身子了",
@@ -5569,6 +5569,14 @@
       "onboard_time": 1761746904,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207669,
+      "num": 208932,
+      "word": "日本人看侵华罪证展3分钟就走",
+      "onboard_time": 1761896180,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207601,
@@ -6299,12 +6307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190698,
-      "num": 208932,
-      "word": "日本人看侵华罪证展3分钟就走",
-      "onboard_time": 1761896180,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 190706,
+      "num": 113849,
+      "word": "二胎家庭的刚需是仓库级的",
+      "onboard_time": 1761899661,
+      "rank": 22,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 190690,
@@ -12443,6 +12451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115112,
+      "num": 115112,
+      "word": "XXXL月亮来了",
+      "onboard_time": 1761896961,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114966,
       "num": 210677,
       "word": "王毅同美国国务卿鲁比奥通电话",
@@ -12993,6 +13009,14 @@
       "onboard_time": 1761398241,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110894,
+      "num": 110894,
+      "word": "52岁女子试管怀上双胎还遇上早产",
+      "onboard_time": 1761899721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110863,
@@ -14611,6 +14635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98934,
+      "num": 98934,
+      "word": "陈赫中了黄磊黄酒的毒",
+      "onboard_time": 1761897562,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98850,
       "num": 116467,
       "word": "没认出这是张伟丽",
@@ -14777,6 +14809,14 @@
       "onboard_time": 1761893901,
       "rank": 37,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 97683,
+      "num": 97683,
+      "word": "深圳国资并购重组第一枪打响",
+      "onboard_time": 1761899661,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 97625,
@@ -14961,6 +15001,14 @@
       "onboard_time": 1761628162,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95848,
+      "num": 95848,
+      "word": "张柏芝满脑子都是捡垃圾",
+      "onboard_time": 1761899602,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 95840,
@@ -15169,14 +15217,6 @@
       "onboard_time": 1761561865,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94452,
-      "num": 94452,
-      "word": "陈赫中了黄磊黄酒的毒",
-      "onboard_time": 1761897562,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 94423,
@@ -16019,6 +16059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85118,
+      "num": 85118,
+      "word": "我吃瓜的手速就像李一桐这样",
+      "onboard_time": 1761900382,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85081,
       "num": 414129,
       "word": "坚持晚睡一个小时的身体变化",
@@ -16035,6 +16083,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 84793,
+      "num": 84793,
+      "word": "李沁 大家行我就行",
+      "onboard_time": 1761900142,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84783,
       "num": 125060,
       "word": "三天把作息调整到11点睡6点起",
@@ -16049,14 +16105,6 @@
       "onboard_time": 1761660441,
       "rank": 13,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84716,
-      "num": 84716,
-      "word": "张柏芝满脑子都是捡垃圾",
-      "onboard_time": 1761899602,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 84711,
@@ -17051,6 +17099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69167,
+      "num": 133078,
+      "word": "南北方过冬达成历史性一致",
+      "onboard_time": 1761898940,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69014,
       "num": 258869,
       "word": "伟哥市场乱象调查",
@@ -17843,6 +17899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 56970,
+      "num": 136452,
+      "word": "岷县哪些局长主任在享受免费暖气",
+      "onboard_time": 1761899241,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56766,
       "num": 132740,
       "word": "国家一级运动员捐3个器官2个组织",
@@ -17995,14 +18059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53956,
-      "num": 133078,
-      "word": "南北方过冬达成历史性一致",
-      "onboard_time": 1761898940,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53706,
       "num": 166178,
       "word": "阿维塔线下门店首挂华为标识",
@@ -18113,6 +18169,14 @@
       "onboard_time": 1761587775,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51662,
+      "num": 135141,
+      "word": "婚事耽搁2年咋还怪上金价了",
+      "onboard_time": 1761898940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51504,
@@ -18723,14 +18787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40503,
-      "num": 136452,
-      "word": "岷县哪些局长主任在享受免费暖气",
-      "onboard_time": 1761899241,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40382,
       "num": 173786,
       "word": "天猫无限暖暖",
@@ -19081,14 +19137,6 @@
       "onboard_time": 1761757638,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34763,
-      "num": 135141,
-      "word": "婚事耽搁2年咋还怪上金价了",
-      "onboard_time": 1761898940,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34656,
@@ -19531,12 +19579,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 26446,
+      "num": 106668,
+      "word": "弃婴被夫妻收养9年仍是黑户",
+      "onboard_time": 1761899481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26381,
       "num": 38855,
       "word": "花少制片人京东直播回应花少8阵容",
       "onboard_time": 1761393862,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26225,
+      "num": 111886,
+      "word": "王鹤棣吃薯片的样子演我",
+      "onboard_time": 1761899842,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 26098,
@@ -19776,14 +19840,6 @@
       "word": "前程无忧推送简历被看0次弹窗",
       "onboard_time": 1761729981,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23293,
-      "num": 106668,
-      "word": "弃婴被夫妻收养9年仍是黑户",
-      "onboard_time": 1761899481,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -20065,6 +20121,14 @@
       "onboard_time": 1761880941,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18350,
+      "num": 97769,
+      "word": "刘谦的脸是做了什么魔术吗",
+      "onboard_time": 1761900202,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 18251,
