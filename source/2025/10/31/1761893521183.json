@@ -1,0 +1,410 @@
+{
+  "runTime": 1761893521183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 356767,
+        "num": 1057082,
+        "word": "向往的生活",
+        "onboard_time": 1761887601,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120742,
+        "num": 585777,
+        "word": "中韩元首握手合影",
+        "onboard_time": 1761879498,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35976,
+        "num": 418005,
+        "word": "11月一批新规将施行",
+        "onboard_time": 1761880280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330776,
+        "num": 330776,
+        "word": "山河枕 一念关山",
+        "onboard_time": 1761889941,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230080,
+        "num": 289244,
+        "word": "警方通报女子驾车撞上半挂致5死",
+        "onboard_time": 1761892825,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116077,
+        "num": 284980,
+        "word": "新生儿转运时从推车坠落",
+        "onboard_time": 1761868821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283082,
+        "num": 283082,
+        "word": "天地剑心追剧团",
+        "onboard_time": 1761892582,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106973,
+        "num": 282962,
+        "word": "神21乘组太空出差行囊揭秘",
+        "onboard_time": 1761890482,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 281695,
+        "word": "中美国防部长会谈",
+        "onboard_time": 1761891862,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88449,
+        "num": 280596,
+        "word": "你好砺箭二十一乘组",
+        "onboard_time": 1761879440,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45701,
+        "num": 279655,
+        "word": "京东每2小时送电视手机机器人",
+        "onboard_time": 1761891021,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 686718,
+        "num": 279447,
+        "word": "甄志强离世",
+        "onboard_time": 1761887780,
+        "rank": 11,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 360130,
+        "num": 277836,
+        "word": "白鹿决定补录",
+        "onboard_time": 1761891922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277730,
+        "num": 277730,
+        "word": "女孩面试因无相关经验被拒当场讨说法",
+        "onboard_time": 1761887601,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263947,
+        "num": 263947,
+        "word": "美国男子在酒店洗澡被热水烫死",
+        "onboard_time": 1761882380,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207993,
+        "num": 207993,
+        "word": "公主小妹兄妹篇",
+        "onboard_time": 1761892221,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187715,
+        "num": 187715,
+        "word": "一群魔丸里突然出现了一颗灵珠",
+        "onboard_time": 1761893000,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184541,
+        "num": 184541,
+        "word": "三人虐待室友致死案赔偿已执行",
+        "onboard_time": 1761876560,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175076,
+        "num": 175076,
+        "word": "再见爱人5 芒果最强后期",
+        "onboard_time": 1761889941,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 175061,
+        "word": "KPL年总决赛门票12秒售罄",
+        "onboard_time": 1761887542,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6535107,
+        "num": 6535107,
+        "word": "王家卫说唐嫣很装",
+        "onboard_time": 1761889881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1264184,
+        "num": 172886,
+        "word": "古二爆料刘诗诗倪妮流金岁月内幕",
+        "onboard_time": 1761892283,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627537,
+        "num": 171703,
+        "word": "古二再曝王家卫秦雯录音",
+        "onboard_time": 1761888562,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417719,
+        "num": 170859,
+        "word": "建议洗澡千万不要先洗头",
+        "onboard_time": 1761885382,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69731,
+        "num": 169879,
+        "word": "想吃王鹤棣手里的薯片",
+        "onboard_time": 1761891143,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1451025,
+        "num": 169234,
+        "word": "王家卫说陈道明是极品",
+        "onboard_time": 1761889041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148423,
+        "num": 168398,
+        "word": "天冷了王一博有鸭鸭不怕冷",
+        "onboard_time": 1761887181,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 826612,
+        "num": 167602,
+        "word": "刘诗诗被编剧怼回去了",
+        "onboard_time": 1761892825,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201404,
+        "num": 166978,
+        "word": "潘玮柏新歌去你的",
+        "onboard_time": 1761893362,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74648,
+        "num": 166331,
+        "word": "陈芋汐感谢全红婵",
+        "onboard_time": 1761883100,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165461,
+        "num": 165461,
+        "word": "张晚意瘦的只剩牙在飘",
+        "onboard_time": 1761885861,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202836,
+        "num": 162201,
+        "word": "刘浩存晒新车订单",
+        "onboard_time": 1761878421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192900,
+        "num": 160727,
+        "word": "新疆五美",
+        "onboard_time": 1761891262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "黄仁勋与韩财阀吃饭高喊全场免单",
+        "onboard_time": 1761891442,
+        "rank": 33,
+        "category": "互联网,海外新闻"
+      },
+      {
+        "raw_hot": 149407,
+        "num": 149407,
+        "word": "宋妍霏泪崩",
+        "onboard_time": 1761892882,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146482,
+        "num": 146482,
+        "word": "甄志强去世前一天还在发视频",
+        "onboard_time": 1761892761,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139900,
+        "num": 139900,
+        "word": "彭昱畅到底在燃什么",
+        "onboard_time": 1761892582,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66378,
+        "num": 132382,
+        "word": "陈芋汐回应遇上巅峰期全红婵",
+        "onboard_time": 1761890061,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25684,
+        "num": 131934,
+        "word": "德国机构称欧洲已经完全落后",
+        "onboard_time": 1761892461,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49318,
+        "num": 131600,
+        "word": "印度或成关税战最大受害者",
+        "onboard_time": 1761892341,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "杨紫胡歌生命树最新海报",
+        "onboard_time": 1761880221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123038,
+        "num": 123038,
+        "word": "刘嘉玲何赛飞因生育观不合爆发争吵",
+        "onboard_time": 1761886162,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 118705,
+        "word": "狗狗故意学猫揣手手",
+        "onboard_time": 1761890363,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117403,
+        "num": 117403,
+        "word": "李琳对经超的心疼全写在嘴上了",
+        "onboard_time": 1761892341,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115325,
+        "num": 115325,
+        "word": "内娱00花恶女又上新了",
+        "onboard_time": 1761892221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110946,
+        "num": 110946,
+        "word": "谁能想到邓恩熙才20岁",
+        "onboard_time": 1761890422,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98813,
+        "num": 98813,
+        "word": "包上恩私密物品被司机扣留售卖",
+        "onboard_time": 1761876679,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97072,
+        "num": 97072,
+        "word": "花20万整牙两月反弹成地包天",
+        "onboard_time": 1761891143,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61261,
+        "num": 94654,
+        "word": "王楚钦时装男士封面",
+        "onboard_time": 1761885683,
+        "rank": 48,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 93981,
+        "num": 93981,
+        "word": "龚俊常华森 以为ai又发力了",
+        "onboard_time": 1761889341,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席这些话亮明中国态度#"
+    }
+  }
+}
