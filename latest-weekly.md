@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/26 00:29:49 ~ 2025/11/01 01:24:53
+本榜单时间：2025/10/26 00:29:49 ~ 2025/11/01 01:41:31
 </p>
 </blockquote>
 <p>
@@ -15827,6 +15827,12 @@ DRG回应战胜TTG（热度：38851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E5%85%B4%E4%BA%A7%E4%B8%9A%E5%92%8C%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A%23" target="weibo">
 培育壮大新兴产业和未来产业（热度：30648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%81%94%E6%83%B3%23" target="weibo">
+张凌赫 联想（热度：30547）
 </a>
 </li>
 

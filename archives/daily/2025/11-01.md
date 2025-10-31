@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 01:24:53
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 01:41:31
 </p>
 </blockquote>
 <p>
@@ -346,13 +346,25 @@ Faker 大山（热度：53314）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Wolf%E8%AF%B4Hope%E7%A1%AE%E5%AE%9E%E8%8F%9C%23" target="weibo">
-Wolf说Hope确实菜（热度：33777）
+Wolf说Hope确实菜（热度：34955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%81%94%E6%83%B3%23" target="weibo">
+张凌赫 联想（热度：30547）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%89%E5%9F%8E%E6%8F%90%E5%89%8D%E4%B8%80%E8%BD%AE%E6%97%A0%E7%BC%98%E4%BA%89%E5%86%A0%23" target="weibo">
 蓉城提前一轮无缘争冠（热度：23482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
+音乐缘计划（热度：21999）
 </a>
 </li>
 
