@@ -1,6 +1,6 @@
 {
   "startTime": 1761842068988,
-  "endTime": 1761916026282,
+  "endTime": 1761917787592,
   "band_list": [
     {
       "raw_hot": 7178251,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 828754,
+      "num": 201375,
+      "word": "王晓晨怎么了",
+      "onboard_time": 1761914243,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826612,
       "num": 218927,
       "word": "刘诗诗被编剧怼回去了",
@@ -161,14 +169,6 @@
       "onboard_time": 1761894262,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667683,
-      "num": 191531,
-      "word": "王晓晨怎么了",
-      "onboard_time": 1761914243,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 661817,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374897,
+      "num": 225938,
+      "word": "4岁男童药店打针呕吐抽搐后死亡",
+      "onboard_time": 1761917242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373089,
       "num": 373089,
       "word": "白鹿敖瑞鹏急缺二搭现偶",
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338034,
+      "num": 214268,
+      "word": "孙亚龙曝LPL和LCK停止训练赛",
+      "onboard_time": 1761915683,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 326832,
       "num": 233444,
       "word": "tabe的bp",
@@ -449,6 +465,14 @@
       "onboard_time": 1761886162,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305775,
+      "num": 305775,
+      "word": "731导演穿防弹衣出席日本试映",
+      "onboard_time": 1761910944,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 305549,
@@ -497,14 +521,6 @@
       "onboard_time": 1761897562,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287202,
-      "num": 287202,
-      "word": "731导演穿防弹衣出席日本试映",
-      "onboard_time": 1761910944,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 282252,
@@ -563,16 +579,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268497,
-      "num": 172403,
-      "word": "孙亚龙曝LPL和LCK停止训练赛",
-      "onboard_time": 1761915683,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 262023,
-      "num": 262023,
+      "raw_hot": 263001,
+      "num": 263001,
       "word": "AL 意难平",
       "onboard_time": 1761912324,
       "rank": 4,
@@ -585,6 +593,14 @@
       "onboard_time": 1761895101,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254789,
+      "num": 254789,
+      "word": "神二十一航天员出征仪式",
+      "onboard_time": 1761914542,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252450,
@@ -771,6 +787,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 205873,
+      "num": 200194,
+      "word": "为什么女装裤频频无中生裆",
+      "onboard_time": 1761916825,
+      "rank": 28,
+      "category": "议题讨论,时尚"
+    },
+    {
       "raw_hot": 205700,
       "num": 191377,
       "word": "这居然是黄雅莉",
@@ -819,6 +843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202139,
+      "num": 202139,
+      "word": "AG战胜WB",
+      "onboard_time": 1761917423,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201422,
       "num": 165368,
       "word": "医院通报新生儿转运坠床",
@@ -849,6 +881,14 @@
       "onboard_time": 1761873919,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200103,
+      "num": 200103,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1761916702,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 198301,
@@ -1083,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181309,
+      "num": 200482,
+      "word": "WB对战AG",
+      "onboard_time": 1761906621,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178196,
       "num": 227674,
       "word": "再见爱人5 芒果最强后期",
@@ -1136,6 +1184,14 @@
       "word": "杨紫梅婷生命树合照",
       "onboard_time": 1761903262,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173005,
+      "num": 218233,
+      "word": "暗河传官微 进高人了",
+      "onboard_time": 1761916284,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -1235,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163237,
+      "num": 602596,
+      "word": "山河枕",
+      "onboard_time": 1761819080,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162753,
       "num": 162753,
       "word": "相信TES",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1761887542,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160941,
+      "num": 201918,
+      "word": "薛之谦 湖泊",
+      "onboard_time": 1761916763,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 159777,
@@ -1331,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152416,
+      "num": 152416,
+      "word": "给李沁唱爽了",
+      "onboard_time": 1761917302,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152201,
       "num": 118107,
       "word": "T1被低估了",
@@ -1363,14 +1443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150090,
-      "num": 150090,
-      "word": "WB对战AG",
-      "onboard_time": 1761906621,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149764,
       "num": 128119,
       "word": "泰国首富家族点赞中国科技",
@@ -1392,6 +1464,14 @@
       "word": "宋妍霏泪崩",
       "onboard_time": 1761892882,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149320,
+      "num": 200805,
+      "word": "王牌对王牌",
+      "onboard_time": 1761915203,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1515,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144578,
+      "num": 137408,
+      "word": "王艺迪3比2高桥布鲁娜",
+      "onboard_time": 1761916702,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144388,
       "num": 135176,
       "word": "明星说瘦就真瘦啊",
@@ -1531,14 +1619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143310,
-      "num": 191863,
-      "word": "王牌对王牌",
-      "onboard_time": 1761915203,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142812,
       "num": 142812,
       "word": "王楚然一出手就是神图",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1761867319,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140060,
+      "num": 140060,
+      "word": "Doran说AL非常强",
+      "onboard_time": 1761916942,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 139900,
@@ -1611,12 +1699,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131063,
-      "num": 602596,
-      "word": "山河枕",
-      "onboard_time": 1761819080,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 132015,
+      "num": 132015,
+      "word": "钎城抓你来了",
+      "onboard_time": 1761917364,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 130636,
@@ -1827,6 +1915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117321,
+      "num": 191745,
+      "word": "高市早苗滑动椅子靠近印尼总统交谈",
+      "onboard_time": 1761915504,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117162,
       "num": 133510,
       "word": "新生儿转运时坠落骨折最新进展",
@@ -1897,14 +1993,6 @@
       "onboard_time": 1761908782,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 114000,
-      "num": 209949,
-      "word": "神二十一航天员出征仪式",
-      "onboard_time": 1761914542,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113850,
@@ -2891,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73151,
+      "num": 201441,
+      "word": "联合国感谢中国缴清会费",
+      "onboard_time": 1761917423,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73135,
       "num": 134767,
       "word": "以前怕晚高峰现在盼晚高疯",
@@ -2921,6 +3017,14 @@
       "onboard_time": 1761874759,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71053,
+      "num": 200643,
+      "word": "张凌赫的手机也在减重",
+      "onboard_time": 1761915862,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 70664,
@@ -2977,6 +3081,14 @@
       "onboard_time": 1761839659,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64747,
+      "num": 233207,
+      "word": "3名航天员在歌唱祖国中出征",
+      "onboard_time": 1761917302,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64621,
@@ -3107,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56174,
+      "num": 147617,
+      "word": "惊天魔盗团主演回应卢浮宫劫案",
+      "onboard_time": 1761917183,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55593,
       "num": 329854,
       "word": "刘宇宁双11剧场",
@@ -3219,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51352,
+      "num": 201171,
+      "word": "王鹤棣吃薯片都这么帅",
+      "onboard_time": 1761915862,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51283,
       "num": 410443,
       "word": "JackeyLove赛后发博",
@@ -3249,14 +3377,6 @@
       "onboard_time": 1761837261,
       "rank": 49,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 45925,
-      "num": 191745,
-      "word": "高市早苗滑动椅子靠近印尼总统交谈",
-      "onboard_time": 1761915504,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44477,
@@ -3345,6 +3465,14 @@
       "onboard_time": 1761883820,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32889,
+      "num": 201669,
+      "word": "你的飞天小鼠已就位",
+      "onboard_time": 1761917302,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32726,
@@ -3491,6 +3619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20250,
+      "num": 161258,
+      "word": "超显白的简易日常妆",
+      "onboard_time": 1761916463,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 20049,
       "num": 413302,
       "word": "罗云熙方逸伦别人难哄他们难绷",
@@ -3587,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14008,
+      "num": 148772,
+      "word": "原来大闸蟹小时候长这样",
+      "onboard_time": 1761916825,
+      "rank": 38,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 13727,
       "num": 188573,
       "word": "30年仍不粘不锈钢锅复产预售60元",
@@ -3627,20 +3771,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 7134,
-      "num": 164991,
-      "word": "张凌赫的手机也在减重",
-      "onboard_time": 1761915862,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 6018,
+      "num": 137727,
+      "word": "女性的创造力会发光",
+      "onboard_time": 1761917722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 6966,
-      "num": 169947,
-      "word": "王鹤棣吃薯片都这么帅",
-      "onboard_time": 1761915862,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 920,
+      "num": 238867,
+      "word": "小鼠航天员训练日常大公开",
+      "onboard_time": 1761828863,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 910,
+      "num": 281259,
+      "word": "神21瞄准31日23时44分发射",
+      "onboard_time": 1761787879,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
