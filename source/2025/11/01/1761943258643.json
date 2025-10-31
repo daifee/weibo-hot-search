@@ -1,0 +1,410 @@
+{
+  "runTime": 1761943258643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67118,
+        "num": 67118,
+        "word": "神二十一发射升空",
+        "onboard_time": 1761926602,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44103,
+        "num": 44103,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1170,
+        "num": 33343,
+        "word": "神21入轨后约3.5小时后到空间站",
+        "onboard_time": 1761790039,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32657,
+        "num": 32657,
+        "word": "神二十一发射成功",
+        "onboard_time": 1761927561,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31216,
+        "num": 31216,
+        "word": "联合国感谢中国缴清会费",
+        "onboard_time": 1761917423,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40126,
+        "num": 31005,
+        "word": "T1战胜AL",
+        "onboard_time": 1761911004,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22943,
+        "num": 29990,
+        "word": "731导演穿防弹衣出席日本试映",
+        "onboard_time": 1761910944,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 29299,
+        "word": "AL教练后台痛哭",
+        "onboard_time": 1761919883,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20163,
+        "num": 29291,
+        "word": "国考",
+        "onboard_time": 1761926901,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19833,
+        "num": 29241,
+        "word": "山河枕",
+        "onboard_time": 1761912263,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41551,
+        "num": 29233,
+        "word": "4岁男童药店打针呕吐抽搐后死亡",
+        "onboard_time": 1761917242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35816,
+        "num": 29198,
+        "word": "为父母补缴社保用光了购房首付",
+        "onboard_time": 1761908843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31024,
+        "num": 29173,
+        "word": "金卡戴珊质疑美国登月造假",
+        "onboard_time": 1761940333,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29152,
+        "num": 29152,
+        "word": "官方通报长沙一店铺脚手架局部垮塌",
+        "onboard_time": 1761926841,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28525,
+        "num": 29151,
+        "word": "寒武纪被要求赔偿股权激励损失42.87亿",
+        "onboard_time": 1761927621,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 26821,
+        "num": 29149,
+        "word": "婚内强奸遭羁押285天男子获国赔",
+        "onboard_time": 1761902303,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22228,
+        "num": 29147,
+        "word": "佛山一私房菜馆被曝宰杀活猫",
+        "onboard_time": 1761922223,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18847,
+        "num": 29145,
+        "word": "将门毒后",
+        "onboard_time": 1761920664,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15659,
+        "num": 29142,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1761922284,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15234,
+        "num": 29140,
+        "word": "音乐缘计划",
+        "onboard_time": 1761924564,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30645,
+        "num": 29137,
+        "word": "李纯马頔一看就很会过日子",
+        "onboard_time": 1761919162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21481,
+        "num": 29137,
+        "word": "员工介绍非洲狮柯基把自己整笑了",
+        "onboard_time": 1761926183,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26748,
+        "num": 29135,
+        "word": "张远否认与王霏霏恋情",
+        "onboard_time": 1761919642,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23577,
+        "num": 29133,
+        "word": "为什么女装裤频频无中生裆",
+        "onboard_time": 1761916825,
+        "rank": 23,
+        "category": "议题讨论,时尚"
+      },
+      {
+        "raw_hot": 21689,
+        "num": 29130,
+        "word": "当地回应私房菜馆被曝宰杀活猫",
+        "onboard_time": 1761926183,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20140,
+        "num": 29129,
+        "word": "用生命扳倒安德鲁王子的女人",
+        "onboard_time": 1761936855,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19988,
+        "num": 29126,
+        "word": "王晓晨怎么了",
+        "onboard_time": 1761914243,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 29125,
+        "word": "11月第1天",
+        "onboard_time": 1761927800,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18398,
+        "num": 29121,
+        "word": "AL止步八强",
+        "onboard_time": 1761911305,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12777,
+        "num": 29120,
+        "word": "奔跑吧",
+        "onboard_time": 1761928460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17212,
+        "num": 29118,
+        "word": "男子无培训上班第一天害死同事",
+        "onboard_time": 1761903080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 29115,
+        "word": "科学家研发能治病的毒液机器人",
+        "onboard_time": 1761927141,
+        "rank": 31,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 16342,
+        "num": 29115,
+        "word": "APEC",
+        "onboard_time": 1761918921,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15874,
+        "num": 29113,
+        "word": "Hope表现",
+        "onboard_time": 1761913283,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15447,
+        "num": 29111,
+        "word": "海底捞回应家长就餐区给孩子接尿",
+        "onboard_time": 1761920063,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15032,
+        "num": 29108,
+        "word": "太空厨房可以烤牛排烤鸡翅了",
+        "onboard_time": 1761931038,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14953,
+        "num": 29104,
+        "word": "Gumayusi回应淘汰AL",
+        "onboard_time": 1761923124,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14796,
+        "num": 29103,
+        "word": "长沙潮宗街一面墙体倒塌",
+        "onboard_time": 1761922342,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14679,
+        "num": 29101,
+        "word": "神二十一乘组飞赴苍穹",
+        "onboard_time": 1761926361,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14497,
+        "num": 29100,
+        "word": "AL 意难平",
+        "onboard_time": 1761912324,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14489,
+        "num": 29098,
+        "word": "央视曝光盗版剧APP",
+        "onboard_time": 1761894262,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13900,
+        "num": 29094,
+        "word": "国考缴费",
+        "onboard_time": 1761933436,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13245,
+        "num": 29094,
+        "word": "Ning说AL这种输是最可惜的",
+        "onboard_time": 1761920904,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13054,
+        "num": 29090,
+        "word": "杨幂这个后仰好A",
+        "onboard_time": 1761918563,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13026,
+        "num": 29090,
+        "word": "神21航天员亮相",
+        "onboard_time": 1761915504,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13000,
+        "num": 29088,
+        "word": "樊振东全运会男单4号种子",
+        "onboard_time": 1761922703,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12698,
+        "num": 29085,
+        "word": "Wolf说Hope确实菜",
+        "onboard_time": 1761918022,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12448,
+        "num": 29083,
+        "word": "乒协公布全运会乒乓项目种子排序",
+        "onboard_time": 1761923002,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 29082,
+        "word": "曾庆杰手滑",
+        "onboard_time": 1761925461,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11020,
+        "num": 29080,
+        "word": "蓉城提前一轮无缘争冠",
+        "onboard_time": 1761926841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作共赢才是越走越宽的人间正道#"
+    }
+  }
+}
