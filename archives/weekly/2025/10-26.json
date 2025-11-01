@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761985857613,
+  "endTime": 1761986600017,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -139,20 +139,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1795380,
+      "num": 174560,
+      "word": "花少6小团体好明显",
+      "onboard_time": 1761983360,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1738275,
       "num": 134542,
       "word": "曝蔡徐坤复出演唱会有猫腻",
       "onboard_time": 1761906383,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1710080,
-      "num": 171546,
-      "word": "花少6小团体好明显",
-      "onboard_time": 1761983360,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1699534,
@@ -1979,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587996,
+      "num": 174401,
+      "word": "白宫马桶照片",
+      "onboard_time": 1761983480,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 581156,
       "num": 252465,
       "word": "小海绵探班黄晓明",
@@ -2587,12 +2595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483326,
+      "num": 172423,
+      "word": "老人地铁强坐女生腿上女生无奈报警",
+      "onboard_time": 1761983480,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481834,
       "num": 481834,
       "word": "缅甸军方爆破KK园区内建筑",
       "onboard_time": 1761459079,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 481168,
+      "num": 1076986,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1761984621,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 480410,
@@ -2873,6 +2897,14 @@
       "onboard_time": 1761535941,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442000,
+      "num": 170154,
+      "word": "张翰给谈莉娜送了新婚祝福",
+      "onboard_time": 1761982100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 441582,
@@ -3161,14 +3193,6 @@
       "onboard_time": 1761484880,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 404698,
-      "num": 169081,
-      "word": "张翰给谈莉娜送了新婚祝福",
-      "onboard_time": 1761982100,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 404688,
@@ -3563,14 +3587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 359091,
-      "num": 164887,
-      "word": "老人地铁强坐女生腿上女生无奈报警",
-      "onboard_time": 1761983480,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358003,
       "num": 289244,
       "word": "警方通报女子驾车撞上半挂致5死",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1761828022,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345129,
+      "num": 164894,
+      "word": "恶心穿搭",
+      "onboard_time": 1761979101,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 343715,
@@ -3905,14 +3929,6 @@
       "onboard_time": 1761660922,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325851,
-      "num": 137405,
-      "word": "白宫马桶照片",
-      "onboard_time": 1761983480,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 325560,
@@ -4203,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303555,
+      "num": 1046785,
+      "word": "郑丽文就职马英九哭了",
+      "onboard_time": 1761982339,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303375,
       "num": 229902,
       "word": "山东人蒸大馒头研究出了透明馒头",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1761565521,
       "rank": 17,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 302242,
-      "num": 164019,
-      "word": "恶心穿搭",
-      "onboard_time": 1761979101,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 301460,
@@ -4393,14 +4409,6 @@
       "onboard_time": 1761816382,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 292408,
-      "num": 1046785,
-      "word": "郑丽文就职马英九哭了",
-      "onboard_time": 1761982339,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 292000,
@@ -4673,14 +4681,6 @@
       "onboard_time": 1761743062,
       "rank": 3,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 276045,
-      "num": 276045,
-      "word": "唐朝诡事录之长安",
-      "onboard_time": 1761984621,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 275391,
@@ -7915,6 +7915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181552,
+      "num": 169847,
+      "word": "王俊凯领衔主演无名之辈意义非凡",
+      "onboard_time": 1761986301,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181336,
       "num": 181336,
       "word": "刘亦菲晒与成龙新合照",
@@ -8348,7 +8356,7 @@
     },
     {
       "raw_hot": 173801,
-      "num": 173801,
+      "num": 176859,
       "word": "文荣奖",
       "onboard_time": 1761982460,
       "rank": 34,
@@ -9803,6 +9811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155368,
+      "num": 155368,
+      "word": "35岁发现患二型糖尿病的原因",
+      "onboard_time": 1761982639,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155349,
       "num": 155349,
       "word": "百万博主自曝赚40万给母亲买房",
@@ -10081,6 +10097,14 @@
       "onboard_time": 1761917302,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152403,
+      "num": 179340,
+      "word": "Faker预测S15决赛对手",
+      "onboard_time": 1761985580,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 152201,
@@ -11097,6 +11121,14 @@
       "onboard_time": 1761747802,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143053,
+      "num": 120773,
+      "word": "84岁日本赌王遭子女设局痛失财产",
+      "onboard_time": 1761985040,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143021,
@@ -12387,14 +12419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131154,
-      "num": 131154,
-      "word": "35岁发现患二型糖尿病的原因",
-      "onboard_time": 1761982639,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131144,
       "num": 131144,
       "word": "郭宇欣演过承欢记",
@@ -12780,7 +12804,7 @@
     },
     {
       "raw_hot": 127939,
-      "num": 141799,
+      "num": 168512,
       "word": "这些公务员不能辞职",
       "onboard_time": 1761981681,
       "rank": 42,
@@ -13683,14 +13707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120773,
-      "num": 120773,
-      "word": "84岁日本赌王遭子女设局痛失财产",
-      "onboard_time": 1761985040,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 120768,
       "num": 120768,
       "word": "彭小苒哭成了肿眼泡",
@@ -13777,6 +13793,14 @@
       "onboard_time": 1761460040,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119974,
+      "num": 119974,
+      "word": "何泓姗 脸和性格各长各的",
+      "onboard_time": 1761986481,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 119962,
@@ -16179,6 +16203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104535,
+      "num": 104535,
+      "word": "李一桐现在理解尼格买提了吧",
+      "onboard_time": 1761984199,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104529,
       "num": 104529,
       "word": "预售女装我真的没空陪你闹了",
@@ -16209,6 +16241,14 @@
       "onboard_time": 1761434657,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104278,
+      "num": 104278,
+      "word": "以为只有情侣爱把腿放对方身上",
+      "onboard_time": 1761986180,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 104226,
@@ -16337,6 +16377,14 @@
       "onboard_time": 1761806602,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103323,
+      "num": 99135,
+      "word": "敖子逸跳了青春修炼手册",
+      "onboard_time": 1761985880,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 103307,
@@ -17475,14 +17523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96083,
-      "num": 96083,
-      "word": "李一桐现在理解尼格买提了吧",
-      "onboard_time": 1761984199,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96049,
       "num": 123863,
       "word": "中美进行了建设性探讨",
@@ -17521,6 +17561,14 @@
       "onboard_time": 1761469100,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95677,
+      "num": 120232,
+      "word": "零跑月销从6万到7万凭啥这么快",
+      "onboard_time": 1761986420,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 95664,
@@ -18411,14 +18459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89607,
-      "num": 161777,
-      "word": "Faker预测S15决赛对手",
-      "onboard_time": 1761985580,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 89492,
       "num": 89492,
       "word": "医生建议不要频繁洗澡",
@@ -18516,7 +18556,7 @@
     },
     {
       "raw_hot": 88715,
-      "num": 88715,
+      "num": 121281,
       "word": "孙颖莎小伸懒腰",
       "onboard_time": 1761985281,
       "rank": 48,
@@ -19179,6 +19219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 82719,
+      "num": 82719,
+      "word": "花儿与少年同心季",
+      "onboard_time": 1761986481,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82698,
       "num": 93695,
       "word": "范丞丞王安宇 姜妍救完这个救那个",
@@ -19216,6 +19264,14 @@
       "word": "想吃王鹤棣手里的薯片",
       "onboard_time": 1761891143,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82238,
+      "num": 82238,
+      "word": "演员王一博的人生镜头",
+      "onboard_time": 1761983059,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -20217,6 +20273,14 @@
       "onboard_time": 1761965481,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70935,
+      "num": 82302,
+      "word": "中韩元首会谈",
+      "onboard_time": 1761985401,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70664,
@@ -23148,7 +23212,7 @@
     },
     {
       "raw_hot": 27425,
-      "num": 170217,
+      "num": 175987,
       "word": "出行得流感怎么办",
       "onboard_time": 1761984259,
       "rank": 12,
