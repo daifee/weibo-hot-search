@@ -1,0 +1,410 @@
+{
+  "runTime": 1761974696622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 594143,
+        "num": 1095062,
+        "word": "十日终焉阵容",
+        "onboard_time": 1761970940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290487,
+        "num": 290487,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47197,
+        "num": 271502,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1761972141,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401434,
+        "num": 269128,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264328,
+        "num": 264328,
+        "word": "小狗疑被毒死女子辞职追凶3年",
+        "onboard_time": 1761965179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162286,
+        "num": 264244,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215404,
+        "num": 263908,
+        "word": "喜人奇妙夜 再见爱人",
+        "onboard_time": 1761971239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140031,
+        "num": 263239,
+        "word": "年轻人爱上越剧",
+        "onboard_time": 1761962780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138766,
+        "num": 263087,
+        "word": "APEC2026在深圳举办",
+        "onboard_time": 1761969860,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 262691,
+        "word": "郑丽文正式就任国民党主席",
+        "onboard_time": 1761972681,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1000964,
+        "num": 262461,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708665,
+        "num": 262063,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1761970640,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28489,
+        "num": 261658,
+        "word": "2025感谢庆典",
+        "onboard_time": 1761969980,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536122,
+        "num": 260976,
+        "word": "杨国福1斤豆芽28元贵过山姆",
+        "onboard_time": 1761970459,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423552,
+        "num": 260886,
+        "word": "手机一年一换竟然更省钱",
+        "onboard_time": 1761971120,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413148,
+        "num": 260427,
+        "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+        "onboard_time": 1761967220,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325878,
+        "num": 260190,
+        "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+        "onboard_time": 1761959600,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259850,
+        "num": 259850,
+        "word": "向太直言统一是破局钥匙",
+        "onboard_time": 1761968660,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 257864,
+        "num": 257864,
+        "word": "上班的隐形成本真的很高",
+        "onboard_time": 1761970099,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 185363,
+        "num": 231791,
+        "word": "三人行今日开播",
+        "onboard_time": 1761972499,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504305,
+        "num": 231707,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228254,
+        "num": 228254,
+        "word": "包上恩更新ins",
+        "onboard_time": 1761971239,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220139,
+        "num": 220139,
+        "word": "天猫双11又双叒叕发万元大券包",
+        "onboard_time": 1761973519,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203650,
+        "num": 203650,
+        "word": "山东人蒸大馒头研究出了透明馒头",
+        "onboard_time": 1761973400,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202386,
+        "num": 202386,
+        "word": "演员史元庭承包100亩地赚了10万",
+        "onboard_time": 1761974601,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178879,
+        "num": 178879,
+        "word": "陈赫做综艺是真有效果",
+        "onboard_time": 1761974120,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137436,
+        "num": 137436,
+        "word": "入青云",
+        "onboard_time": 1761973100,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87745,
+        "num": 137167,
+        "word": "苏超十三太保齐聚南京",
+        "onboard_time": 1761973821,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87313,
+        "num": 137048,
+        "word": "东契奇复出44分",
+        "onboard_time": 1761971780,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165604,
+        "num": 137040,
+        "word": "AL中单不理解Faker高龄依旧强大",
+        "onboard_time": 1761972560,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136998,
+        "num": 136998,
+        "word": "高中儿子半月花1000元妈妈绷不住了",
+        "onboard_time": 1761972800,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135955,
+        "num": 135955,
+        "word": "李茂和弦子结婚不知道有彩礼",
+        "onboard_time": 1761965059,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118863,
+        "num": 133838,
+        "word": "躲过了东宫没躲过山河枕",
+        "onboard_time": 1761973400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "王晶发文悼念冯淬帆",
+        "onboard_time": 1761974179,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127730,
+        "num": 127730,
+        "word": "快乐家族不愧是综艺白月光",
+        "onboard_time": 1761974120,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89442,
+        "num": 125970,
+        "word": "丁禹兮山河枕演技",
+        "onboard_time": 1761973041,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124514,
+        "num": 124514,
+        "word": "再见爱人",
+        "onboard_time": 1761974060,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123726,
+        "num": 123726,
+        "word": "车主选中尾号6646号牌被告知作废",
+        "onboard_time": 1761970999,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64930,
+        "num": 120969,
+        "word": "教师反击媚男指控是一次法律公开课",
+        "onboard_time": 1761974001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105753,
+        "num": 120920,
+        "word": "将门毒后已经溜了王鹤棣3年了",
+        "onboard_time": 1761974240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73008,
+        "num": 120894,
+        "word": "黄仁勋直言低估中国那就太愚蠢了",
+        "onboard_time": 1761972560,
+        "rank": 40,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 120878,
+        "num": 120878,
+        "word": "他们能结婚是我工作上的疏忽",
+        "onboard_time": 1761970220,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113326,
+        "num": 120193,
+        "word": "余承恩内娱新晋黑月光",
+        "onboard_time": 1761973280,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73175,
+        "num": 120185,
+        "word": "入室抢婴案被拐卖的孩子原谅买家",
+        "onboard_time": 1761972800,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120184,
+        "num": 120184,
+        "word": "张柏芝 为什么你听得懂我的普通话",
+        "onboard_time": 1761974421,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116111,
+        "num": 116111,
+        "word": "贺峻霖开个唱跳班吧",
+        "onboard_time": 1761974179,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106396,
+        "num": 106396,
+        "word": "男子杀害发小妻儿3人假装不知情",
+        "onboard_time": 1761961280,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104219,
+        "num": 104219,
+        "word": "神二十一发射升空",
+        "onboard_time": 1761926602,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99246,
+        "num": 99246,
+        "word": "严屹宽还在穿20年前的衣服",
+        "onboard_time": 1761966199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74951,
+        "num": 97949,
+        "word": "新赛季篮不住",
+        "onboard_time": 1761974481,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同开创可持续的美好明天#"
+    }
+  }
+}
