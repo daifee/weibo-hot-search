@@ -1,0 +1,410 @@
+{
+  "runTime": 1762035770614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 55374,
+        "num": 358929,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52366,
+        "num": 52366,
+        "word": "江苏省委书记为泰州队颁奖",
+        "onboard_time": 1762008742,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9000,
+        "num": 40117,
+        "word": "中国人有7张太空全家福了",
+        "onboard_time": 1761987741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34886,
+        "num": 34886,
+        "word": "泰州金灿灿",
+        "onboard_time": 1762012761,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30058,
+        "num": 34881,
+        "word": "广东多人收到百里挑一短信",
+        "onboard_time": 1762015281,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29051,
+        "num": 34871,
+        "word": "中韩是搬不走的重要近邻",
+        "onboard_time": 1762016359,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 34866,
+        "word": "全国1%人口抽样调查",
+        "onboard_time": 1762006585,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20831,
+        "num": 34851,
+        "word": "DRG早点 回家吧",
+        "onboard_time": 1762010422,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20772,
+        "num": 34839,
+        "word": "无限暖暖",
+        "onboard_time": 1761999321,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18474,
+        "num": 34834,
+        "word": "李在明说将致力于加强与中国合作",
+        "onboard_time": 1762026735,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185310,
+        "num": 34820,
+        "word": "男子杀人后淡定去被害人家吃饭",
+        "onboard_time": 1762011801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147400,
+        "num": 34811,
+        "word": "刘强东 从此在老婆面前没有了自信",
+        "onboard_time": 1762000102,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123288,
+        "num": 34809,
+        "word": "中方强烈抗议高市早苗涉台错误言行",
+        "onboard_time": 1762006824,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88070,
+        "num": 34791,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60145,
+        "num": 34781,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48245,
+        "num": 34774,
+        "word": "女子手镯10年未摘长进肉里",
+        "onboard_time": 1761993621,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44211,
+        "num": 34762,
+        "word": "日本男子保存现场26年凶手落网",
+        "onboard_time": 1762011862,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42928,
+        "num": 34755,
+        "word": "宁静10年了还没走出花少阴影",
+        "onboard_time": 1762006404,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34752,
+        "num": 34752,
+        "word": "周深紧急叫停",
+        "onboard_time": 1762007963,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34558,
+        "num": 34558,
+        "word": "警方回应大狗遭柯基主人酒瓶爆头",
+        "onboard_time": 1762017318,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50604,
+        "num": 34013,
+        "word": "觉得自己闯祸了就来看翁青雅朱珠",
+        "onboard_time": 1762001481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33152,
+        "num": 33152,
+        "word": "多少钱能让卢昱晓把这条视频删了",
+        "onboard_time": 1762002923,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32736,
+        "num": 32736,
+        "word": "小婴儿的核磁共振全是脑子",
+        "onboard_time": 1762000822,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26525,
+        "num": 32734,
+        "word": "程晓玥生一胎把无痛打满了",
+        "onboard_time": 1762000521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26171,
+        "num": 32734,
+        "word": "美军机连续坠入南海最新调查曝光",
+        "onboard_time": 1762004182,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25403,
+        "num": 32730,
+        "word": "34岁男子右手绞进机器碎成多瓣",
+        "onboard_time": 1762014380,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25338,
+        "num": 32727,
+        "word": "苏超南通亚军",
+        "onboard_time": 1762014020,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24874,
+        "num": 32723,
+        "word": "能先把肖战让给我们三体吗",
+        "onboard_time": 1761999981,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23601,
+        "num": 32719,
+        "word": "郑丽文 台湾正处于最困难最危险的时刻",
+        "onboard_time": 1762006884,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22517,
+        "num": 32718,
+        "word": "赵今麦穿了miumiu珍藏定制系列",
+        "onboard_time": 1762012042,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20857,
+        "num": 32717,
+        "word": "李茂自曝被亲戚骗光所有积蓄",
+        "onboard_time": 1761996259,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20219,
+        "num": 32712,
+        "word": "众星发文悼念屠颖",
+        "onboard_time": 1762006106,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19637,
+        "num": 32709,
+        "word": "刘佳玺才13岁",
+        "onboard_time": 1762011801,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 32708,
+        "word": "日本男子为破杀妻案保存现场26年",
+        "onboard_time": 1762009344,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19049,
+        "num": 32702,
+        "word": "现在小孩的玩具真高级",
+        "onboard_time": 1762029435,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 32702,
+        "word": "泰州女主帅踢过世界杯",
+        "onboard_time": 1762020557,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17792,
+        "num": 32699,
+        "word": "李一桐的剧宣永远大大方方",
+        "onboard_time": 1762011082,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17648,
+        "num": 32696,
+        "word": "苏超球迷称度过了不一样的2025",
+        "onboard_time": 1762012761,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17533,
+        "num": 32691,
+        "word": "村委会回应公园密集扶手已拆除",
+        "onboard_time": 1762025774,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16769,
+        "num": 32691,
+        "word": "张柏芝 完全没有法令纹的痕迹",
+        "onboard_time": 1762006345,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16670,
+        "num": 32685,
+        "word": "网红胡楚靓左耳重度耳聋",
+        "onboard_time": 1761998180,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16178,
+        "num": 32684,
+        "word": "官方回应被人口调查短信翻牌",
+        "onboard_time": 1762034473,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15694,
+        "num": 32681,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14939,
+        "num": 32677,
+        "word": "Ruler回应败给KT",
+        "onboard_time": 1762007604,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14546,
+        "num": 32676,
+        "word": "藏海传年度平台推荐剧集",
+        "onboard_time": 1762030994,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14512,
+        "num": 32673,
+        "word": "没人告诉我汪苏泷裤腿上是字啊",
+        "onboard_time": 1762012521,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14006,
+        "num": 32671,
+        "word": "遏制未成年人犯罪核准追诉不是终点",
+        "onboard_time": 1762025955,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13998,
+        "num": 32667,
+        "word": "泰州 一黑到底",
+        "onboard_time": 1762008983,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10459,
+        "num": 32665,
+        "word": "王俊凯无边界演唱会六周年",
+        "onboard_time": 1762012821,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9292,
+        "num": 32663,
+        "word": "汪苏泷演唱会要风度不要温度",
+        "onboard_time": 1762025594,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#APEC领导人集体合影#"
+    }
+  }
+}
