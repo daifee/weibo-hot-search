@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761975653499,
+  "endTime": 1761978923949,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412687,
+      "num": 217017,
+      "word": "出差遭性侵检方不起诉女子发声",
+      "onboard_time": 1761976819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395763,
       "num": 219618,
       "word": "陈乔恩说带孩子辛苦所以选择在外工作",
@@ -201,6 +209,14 @@
       "onboard_time": 1761919162,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303375,
+      "num": 229902,
+      "word": "山东人蒸大馒头研究出了透明馒头",
+      "onboard_time": 1761973400,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 302785,
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241786,
+      "num": 213541,
+      "word": "女子故意夹门赶地铁",
+      "onboard_time": 1761974781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241707,
       "num": 241707,
       "word": "荷兰政府对企业内部事务不当干预",
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229902,
-      "num": 229902,
-      "word": "山东人蒸大馒头研究出了透明馒头",
-      "onboard_time": 1761973400,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 228254,
@@ -305,6 +321,14 @@
       "onboard_time": 1761919883,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222474,
+      "num": 213203,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1761978079,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 222367,
@@ -353,6 +377,14 @@
       "onboard_time": 1761940333,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213106,
+      "num": 213106,
+      "word": "杨瀚森首次被开拓者DNP",
+      "onboard_time": 1761975080,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 211031,
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "周洁琼报了关晓彤的仇",
+      "onboard_time": 1761978440,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193088,
       "num": 269737,
       "word": "年轻人爱上越剧",
@@ -441,6 +481,14 @@
       "onboard_time": 1761917423,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188773,
+      "num": 188773,
+      "word": "金店一边涨价一边关店",
+      "onboard_time": 1761977060,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 188680,
@@ -579,6 +627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164098,
+      "num": 215012,
+      "word": "花儿与少年7",
+      "onboard_time": 1761977000,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163004,
       "num": 163004,
       "word": "Ning为Tarzan鸣不平",
@@ -699,12 +755,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 141595,
-      "num": 141595,
-      "word": "女子故意夹门赶地铁",
-      "onboard_time": 1761974781,
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "刘嘉玲 内娱文化冲击",
+      "onboard_time": 1761978740,
       "rank": 31,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 138921,
@@ -755,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133893,
+      "num": 218465,
+      "word": "伦纳德绝杀",
+      "onboard_time": 1761976521,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132793,
       "num": 132793,
       "word": "王晶发文悼念冯淬帆",
@@ -763,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132774,
-      "num": 132774,
-      "word": "杨瀚森首次被开拓者DNP",
-      "onboard_time": 1761975080,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 130984,
+      "num": 130984,
+      "word": "iPhone18Pro前瞻",
+      "onboard_time": 1761978860,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 127988,
@@ -793,6 +857,14 @@
       "onboard_time": 1761966021,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126399,
+      "num": 126399,
+      "word": "以后按这个标准给关晓彤做造型",
+      "onboard_time": 1761976041,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 125649,
@@ -833,6 +905,14 @@
       "onboard_time": 1761956960,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123186,
+      "num": 123186,
+      "word": "胡先煦说王安宇潮的快风湿了",
+      "onboard_time": 1761977060,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 121225,
@@ -891,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117514,
+      "num": 117514,
+      "word": "iPhone18Pro八大升级",
+      "onboard_time": 1761978621,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116391,
       "num": 165181,
       "word": "许绍雄家人发讣闻",
@@ -931,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108899,
+      "num": 108899,
+      "word": "国漫第一款三百岁的美强惨",
+      "onboard_time": 1761977900,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108393,
       "num": 150390,
       "word": "中国航天一箭穿月",
       "onboard_time": 1761965240,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108316,
+      "num": 103096,
+      "word": "黄景瑜 人怎么能聪明成胡先煦这样",
+      "onboard_time": 1761977840,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 108265,
@@ -971,6 +1075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104875,
+      "num": 104875,
+      "word": "宋亚轩笑到一半发现还在录节目",
+      "onboard_time": 1761977541,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104618,
       "num": 152608,
       "word": "开拓者罚球绝杀掘金",
@@ -995,12 +1107,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101858,
+      "num": 101858,
+      "word": "小米汽车交付周期再次缩短",
+      "onboard_time": 1761978260,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 101116,
+      "num": 101116,
+      "word": "大厨小婿开播",
+      "onboard_time": 1761977960,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100856,
+      "num": 100856,
+      "word": "多喝热水的含金量还在上升",
+      "onboard_time": 1761978560,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100475,
       "num": 100475,
       "word": "TVB公布许绍雄未播遗作",
       "onboard_time": 1761974961,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100464,
+      "num": 100464,
+      "word": "内娱真有正主嗑自己cp",
+      "onboard_time": 1761978379,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 99650,
@@ -1024,6 +1168,14 @@
       "word": "婚内强奸遭羁押285天男子获国赔",
       "onboard_time": 1761902303,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98452,
+      "num": 98452,
+      "word": "车管所回应选中6646号牌被作废",
+      "onboard_time": 1761975920,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1636,7 +1788,7 @@
     },
     {
       "raw_hot": 53166,
-      "num": 209570,
+      "num": 214410,
       "word": "范志毅演我爸爸吃薯片",
       "onboard_time": 1761975201,
       "rank": 19,
@@ -1739,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34078,
+      "num": 147262,
+      "word": "何与递的乐事谁不想接",
+      "onboard_time": 1761977060,
+      "rank": 29,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 30547,
       "num": 117302,
       "word": "张凌赫 联想",
@@ -1787,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19750,
+      "num": 103121,
+      "word": "掉进李沁的魅力陷阱",
+      "onboard_time": 1761978260,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17212,
       "num": 106233,
       "word": "这部剧不能让秦海璐刷到",
@@ -1811,12 +1979,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 10977,
+      "num": 198673,
+      "word": "为救儿子盗窃入狱的男子仍待业",
+      "onboard_time": 1761978621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8085,
       "num": 572424,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6550,
+      "num": 196464,
+      "word": "神21过境北京太美了",
+      "onboard_time": 1761978621,
+      "rank": 25,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
