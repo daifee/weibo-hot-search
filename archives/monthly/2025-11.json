@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761974696622,
+  "endTime": 1761975653499,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1283543,
-      "num": 269128,
+      "num": 270616,
       "word": "冯淬帆去世",
       "onboard_time": 1761959719,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1180605,
-      "num": 260190,
+      "num": 268687,
       "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
       "onboard_time": 1761959600,
       "rank": 10,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1000964,
-      "num": 262461,
+      "raw_hot": 1047627,
+      "num": 269533,
       "word": "程晓玥官宣二胎",
       "onboard_time": 1761969740,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656745,
+      "num": 1105079,
+      "word": "十日终焉阵容",
+      "onboard_time": 1761970940,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 655398,
+      "num": 269370,
+      "word": "杨国福1斤豆芽28元贵过山姆",
+      "onboard_time": 1761970459,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 654815,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 638582,
-      "num": 260427,
+      "num": 268891,
       "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
       "onboard_time": 1761967220,
       "rank": 13,
@@ -83,14 +99,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 594143,
-      "num": 1095062,
-      "word": "十日终焉阵容",
-      "onboard_time": 1761970940,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 560101,
       "num": 185760,
       "word": "男子杀害发小妻儿3人假装不知情",
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 536122,
-      "num": 260976,
-      "word": "杨国福1斤豆芽28元贵过山姆",
-      "onboard_time": 1761970459,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 540307,
+      "num": 269060,
+      "word": "手机一年一换竟然更省钱",
+      "onboard_time": 1761971120,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 534346,
@@ -124,19 +132,11 @@
     },
     {
       "raw_hot": 473493,
-      "num": 264328,
+      "num": 270458,
       "word": "小狗疑被毒死女子辞职追凶3年",
       "onboard_time": 1761965179,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423552,
-      "num": 260886,
-      "word": "手机一年一换竟然更省钱",
-      "onboard_time": 1761971120,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 395763,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287546,
+      "num": 270182,
+      "word": "喜人奇妙夜 再见爱人",
+      "onboard_time": 1761971239,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279371,
       "num": 504320,
       "word": "T1战胜AL",
@@ -235,8 +243,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264494,
-      "num": 257864,
+      "raw_hot": 273506,
+      "num": 268822,
       "word": "上班的隐形成本真的很高",
       "onboard_time": 1761970099,
       "rank": 17,
@@ -265,6 +273,14 @@
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229902,
+      "num": 229902,
+      "word": "山东人蒸大馒头研究出了透明馒头",
+      "onboard_time": 1761973400,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 228254,
@@ -323,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215404,
-      "num": 263908,
-      "word": "喜人奇妙夜 再见爱人",
-      "onboard_time": 1761971239,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214672,
       "num": 214672,
       "word": "多吃优质碳水能抗衰老",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203650,
-      "num": 203650,
-      "word": "山东人蒸大馒头研究出了透明馒头",
-      "onboard_time": 1761973400,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 202386,
       "num": 202386,
       "word": "演员史元庭承包100亩地赚了10万",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 193088,
-      "num": 263239,
+      "num": 269737,
       "word": "年轻人爱上越剧",
       "onboard_time": 1761962780,
       "rank": 9,
@@ -444,11 +444,27 @@
     },
     {
       "raw_hot": 188680,
-      "num": 263087,
+      "num": 269804,
       "word": "APEC2026在深圳举办",
       "onboard_time": 1761969860,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187948,
+      "num": 182705,
+      "word": "张柏芝 为什么你听得懂我的普通话",
+      "onboard_time": 1761974421,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186958,
+      "num": 186958,
+      "word": "将门毒后已经溜了王鹤棣3年了",
+      "onboard_time": 1761974240,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 185363,
@@ -523,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169012,
+      "num": 169012,
+      "word": "罗永浩呼吁车企为电池健康负责",
+      "onboard_time": 1761975319,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168165,
       "num": 168165,
       "word": "宣璐cos辛德瑞拉",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 165604,
-      "num": 137040,
+      "num": 151176,
       "word": "AL中单不理解Faker高龄依旧强大",
       "onboard_time": 1761972560,
       "rank": 29,
@@ -595,12 +619,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149066,
+      "num": 269989,
+      "word": "郑丽文正式就任国民党主席",
+      "onboard_time": 1761972681,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148317,
       "num": 148317,
       "word": "张柏芝在炮火中心吃瓜",
       "onboard_time": 1761958400,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147991,
+      "num": 147991,
+      "word": "沙溢 宋亚轩让你的兵来一下",
+      "onboard_time": 1761975319,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 147759,
@@ -659,12 +699,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141595,
+      "num": 141595,
+      "word": "女子故意夹门赶地铁",
+      "onboard_time": 1761974781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138921,
       "num": 150871,
       "word": "Hope回应惜败T1",
       "onboard_time": 1761963199,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138775,
+      "num": 138775,
+      "word": "刘宇宁送礼上限是200块",
+      "onboard_time": 1761974899,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137643,
@@ -675,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137517,
+      "num": 137517,
+      "word": "高中儿子半月花1000元妈妈绷不住了",
+      "onboard_time": 1761972800,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137436,
       "num": 137436,
       "word": "入青云",
       "onboard_time": 1761973100,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136998,
-      "num": 136998,
-      "word": "高中儿子半月花1000元妈妈绷不住了",
-      "onboard_time": 1761972800,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135633,
@@ -705,6 +761,14 @@
       "onboard_time": 1761974179,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132774,
+      "num": 132774,
+      "word": "杨瀚森首次被开拓者DNP",
+      "onboard_time": 1761975080,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 127988,
@@ -795,12 +859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120184,
-      "num": 120184,
-      "word": "张柏芝 为什么你听得懂我的普通话",
-      "onboard_time": 1761974421,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 120855,
+      "num": 114328,
+      "word": "敖瑞鹏直播之我在西藏当导游",
+      "onboard_time": 1761974719,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119173,
@@ -907,12 +971,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105753,
-      "num": 120920,
-      "word": "将门毒后已经溜了王鹤棣3年了",
-      "onboard_time": 1761974240,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 104618,
+      "num": 152608,
+      "word": "开拓者罚球绝杀掘金",
+      "onboard_time": 1761974781,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 104226,
@@ -931,12 +995,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 99973,
-      "num": 262691,
-      "word": "郑丽文正式就任国民党主席",
-      "onboard_time": 1761972681,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 100475,
+      "num": 100475,
+      "word": "TVB公布许绍雄未播遗作",
+      "onboard_time": 1761974961,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 99650,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1761965121,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91539,
+      "num": 91539,
+      "word": "25岁吴磊怼脸皮肤状态",
+      "onboard_time": 1761975500,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 90823,
@@ -1275,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73594,
+      "num": 261658,
+      "word": "2025感谢庆典",
+      "onboard_time": 1761969980,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73175,
       "num": 120185,
       "word": "入室抢婴案被拐卖的孩子原谅买家",
       "onboard_time": 1761972800,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73130,
+      "num": 87470,
+      "word": "2026要发射梦舟一号了",
+      "onboard_time": 1761973760,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73110,
@@ -1355,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69980,
+      "num": 120969,
+      "word": "教师反击媚男指控是一次法律公开课",
+      "onboard_time": 1761974001,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67041,
       "num": 67041,
       "word": "原来这个世界上还有线条小狗",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1761968660,
       "rank": 46,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 64930,
-      "num": 120969,
-      "word": "教师反击媚男指控是一次法律公开课",
-      "onboard_time": 1761974001,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64845,
@@ -1547,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53166,
+      "num": 209570,
+      "word": "范志毅演我爸爸吃薯片",
+      "onboard_time": 1761975201,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52757,
       "num": 503703,
       "word": "将门毒后",
@@ -1657,14 +1753,6 @@
       "onboard_time": 1761952157,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28489,
-      "num": 261658,
-      "word": "2025感谢庆典",
-      "onboard_time": 1761969980,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 27677,
