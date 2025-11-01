@@ -1,0 +1,410 @@
+{
+  "runTime": 1761992740284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 527162,
+        "num": 1084346,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305278,
+        "num": 305278,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38819,
+        "num": 301363,
+        "word": "2026研考冲刺攻略来了",
+        "onboard_time": 1761991400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299470,
+        "num": 299470,
+        "word": "chovy状态",
+        "onboard_time": 1761991281,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231613,
+        "num": 231613,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170197,
+        "num": 170197,
+        "word": "Faker预测S15决赛对手",
+        "onboard_time": 1761985580,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 453970,
+        "num": 167731,
+        "word": "高市早苗主动上前搂住智利总统",
+        "onboard_time": 1761986660,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163928,
+        "num": 163928,
+        "word": "每片红叶里都有一场盛大的秋天",
+        "onboard_time": 1761991041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17239,
+        "num": 157989,
+        "word": "中国第42次南极考察队从上海起航",
+        "onboard_time": 1761965059,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "这件4000多年前的上古礼器有多绝",
+        "onboard_time": 1761987920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229862,
+        "num": 152648,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676828,
+        "num": 148144,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251715,
+        "num": 146807,
+        "word": "老人地铁强坐女生腿上女生无奈报警",
+        "onboard_time": 1761983480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250381,
+        "num": 142436,
+        "word": "香港六旬男女在码头作不雅行为被捕",
+        "onboard_time": 1761987260,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218602,
+        "num": 138241,
+        "word": "白宫马桶照片",
+        "onboard_time": 1761983480,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137251,
+        "num": 137251,
+        "word": "iPhone背面还可以这样用",
+        "onboard_time": 1761990439,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128695,
+        "num": 128695,
+        "word": "暗河传法拉利停车场",
+        "onboard_time": 1761991579,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29884,
+        "num": 128468,
+        "word": "黄子弘凡演唱会后台小法宝",
+        "onboard_time": 1761990381,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22782,
+        "num": 127717,
+        "word": "没课也不能待宿舍是对学生瞎折腾",
+        "onboard_time": 1761992480,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53219,
+        "num": 126702,
+        "word": "一汽大众批发式送车100台",
+        "onboard_time": 1761991521,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 401735,
+        "num": 125748,
+        "word": "卢昱晓审丑积累中",
+        "onboard_time": 1761987980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210850,
+        "num": 124851,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381114,
+        "num": 123837,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307213,
+        "num": 122910,
+        "word": "费曼杨阳洋互拍",
+        "onboard_time": 1761986600,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288857,
+        "num": 122558,
+        "word": "杜海涛章泽天去看展了",
+        "onboard_time": 1761987741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219926,
+        "num": 121010,
+        "word": "杨国福回应1斤豆芽28元",
+        "onboard_time": 1761987741,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181139,
+        "num": 120845,
+        "word": "王一博新西兰回国",
+        "onboard_time": 1761991160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157305,
+        "num": 119575,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130075,
+        "num": 119130,
+        "word": "全红婵不参加全运会单人项目",
+        "onboard_time": 1761991880,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95449,
+        "num": 117542,
+        "word": "杨紫生命树杀青vlog",
+        "onboard_time": 1761991999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 117035,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150971,
+        "num": 116066,
+        "word": "屠颖",
+        "onboard_time": 1761991880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115782,
+        "num": 115782,
+        "word": "马思纯 没有笑的义务",
+        "onboard_time": 1761988522,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "郑丽文就职马英九哭了",
+        "onboard_time": 1761982339,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101039,
+        "num": 101039,
+        "word": "女子故意夹门赶地铁",
+        "onboard_time": 1761974781,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100391,
+        "num": 100391,
+        "word": "张翰给谈莉娜送了新婚祝福",
+        "onboard_time": 1761982100,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98035,
+        "num": 98035,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1761972141,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96312,
+        "num": 96312,
+        "word": "钱天一王昶秀恩爱",
+        "onboard_time": 1761981501,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96074,
+        "num": 96074,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47091,
+        "num": 95462,
+        "word": "每10个新生儿1个广东娃",
+        "onboard_time": 1761991820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95399,
+        "num": 95399,
+        "word": "268斤男子做切胃手术后在ICU身亡",
+        "onboard_time": 1761981921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94257,
+        "num": 94257,
+        "word": "李昀锐小学同学录",
+        "onboard_time": 1761986660,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93019,
+        "num": 93019,
+        "word": "BDD冲击首冠",
+        "onboard_time": 1761990921,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91288,
+        "num": 91288,
+        "word": "流感H3N2毒株",
+        "onboard_time": 1761985160,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88917,
+        "num": 88917,
+        "word": "华晨宇效应",
+        "onboard_time": 1761992599,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87249,
+        "num": 87249,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86596,
+        "num": 86596,
+        "word": "拴绳大狗遭柯基主人殴打被立案",
+        "onboard_time": 1761990561,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86475,
+        "num": 86475,
+        "word": "猫咪怎么什么都想捅咕两下",
+        "onboard_time": 1761992361,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82155,
+        "num": 82155,
+        "word": "神秘富豪3.65亿捡漏深圳豪宅",
+        "onboard_time": 1761981980,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81681,
+        "num": 81681,
+        "word": "APEC领导人集体合影",
+        "onboard_time": 1761989780,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同开创可持续的美好明天#"
+    }
+  }
+}

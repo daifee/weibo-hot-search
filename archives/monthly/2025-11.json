@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761989851196,
+  "endTime": 1761992740284,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -81,6 +81,14 @@
       "onboard_time": 1761984621,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 676828,
+      "num": 148144,
+      "word": "关晓彤掉了好多头发",
+      "onboard_time": 1761989060,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 656745,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453970,
+      "num": 407121,
+      "word": "高市早苗主动上前搂住智利总统",
+      "onboard_time": 1761986660,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 444288,
       "num": 267894,
       "word": "268斤男子做切胃手术后在ICU身亡",
@@ -219,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407121,
-      "num": 407121,
-      "word": "高市早苗主动上前搂住智利总统",
-      "onboard_time": 1761986660,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 401735,
+      "num": 174841,
+      "word": "卢昱晓审丑积累中",
+      "onboard_time": 1761987980,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 395763,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307213,
+      "num": 176058,
+      "word": "费曼杨阳洋互拍",
+      "onboard_time": 1761986600,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306478,
       "num": 259850,
       "word": "向太直言统一是破局钥匙",
@@ -347,11 +371,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 287871,
-      "num": 176058,
-      "word": "费曼杨阳洋互拍",
-      "onboard_time": 1761986600,
-      "rank": 21,
+      "raw_hot": 299470,
+      "num": 299470,
+      "word": "chovy状态",
+      "onboard_time": 1761991281,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 288857,
+      "num": 172906,
+      "word": "杜海涛章泽天去看展了",
+      "onboard_time": 1761987741,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -377,14 +409,6 @@
       "onboard_time": 1761957080,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276103,
-      "num": 172906,
-      "word": "杜海涛章泽天去看展了",
-      "onboard_time": 1761987741,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 275391,
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250381,
+      "num": 173485,
+      "word": "香港六旬男女在码头作不雅行为被捕",
+      "onboard_time": 1761987260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "李沁告别花儿与少年",
@@ -449,6 +481,14 @@
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231613,
+      "num": 231613,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 228254,
@@ -507,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219926,
+      "num": 121010,
+      "word": "杨国福回应1斤豆芽28元",
+      "onboard_time": 1761987741,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217137,
       "num": 217137,
       "word": "A勒布伦惊天逆转张本智和",
@@ -561,14 +609,6 @@
       "onboard_time": 1761976941,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206687,
-      "num": 174841,
-      "word": "卢昱晓审丑积累中",
-      "onboard_time": 1761987980,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 205248,
@@ -643,27 +683,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192538,
-      "num": 192538,
-      "word": "GEN对战KT",
-      "onboard_time": 1761981140,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 192218,
       "num": 192218,
       "word": "你好星期六这把兄弟局",
       "onboard_time": 1761967281,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192132,
-      "num": 147429,
-      "word": "关晓彤掉了好多头发",
-      "onboard_time": 1761989060,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -731,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181139,
+      "num": 120845,
+      "word": "王一博新西兰回国",
+      "onboard_time": 1761991160,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "陈赫做综艺是真有效果",
@@ -785,14 +817,6 @@
       "onboard_time": 1761982460,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173485,
-      "num": 173485,
-      "word": "香港六旬男女在码头作不雅行为被捕",
-      "onboard_time": 1761987260,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172301,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163928,
+      "num": 163928,
+      "word": "每片红叶里都有一场盛大的秋天",
+      "onboard_time": 1761991041,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163004,
       "num": 163004,
       "word": "Ning为Tarzan鸣不平",
@@ -915,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153634,
+      "num": 153634,
+      "word": "这件4000多年前的上古礼器有多绝",
+      "onboard_time": 1761987920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152370,
       "num": 145843,
       "word": "郑恺最近别出门了避避风头吧",
@@ -929,6 +969,14 @@
       "onboard_time": 1761988522,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150971,
+      "num": 116066,
+      "word": "屠颖",
+      "onboard_time": 1761991880,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 150649,
@@ -951,14 +999,6 @@
       "num": 149673,
       "word": "深圳一独栋别墅法拍3.64亿元成交",
       "onboard_time": 1761980721,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149349,
-      "num": 149349,
-      "word": "这件4000多年前的上古礼器有多绝",
-      "onboard_time": 1761987920,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1139,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137251,
+      "num": 137251,
+      "word": "iPhone背面还可以这样用",
+      "onboard_time": 1761990439,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136187,
       "num": 131282,
       "word": "何泓姗 脸和性格各长各的",
@@ -1168,6 +1216,22 @@
       "word": "Angelababy期待马天宇新剧三人行",
       "onboard_time": 1761979820,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130075,
+      "num": 119130,
+      "word": "全红婵不参加全运会单人项目",
+      "onboard_time": 1761991880,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128695,
+      "num": 128695,
+      "word": "暗河传法拉利停车场",
+      "onboard_time": 1761991579,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1385,14 +1449,6 @@
       "onboard_time": 1761916825,
       "rank": 24,
       "category": "议题讨论,时尚"
-    },
-    {
-      "raw_hot": 113346,
-      "num": 113346,
-      "word": "杨国福回应1斤豆芽28元",
-      "onboard_time": 1761987741,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113326,
@@ -1755,6 +1811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95449,
+      "num": 117542,
+      "word": "杨紫生命树杀青vlog",
+      "onboard_time": 1761991999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "张峻豪黑胶",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1761965121,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93019,
+      "num": 93019,
+      "word": "BDD冲击首冠",
+      "onboard_time": 1761990921,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 92509,
@@ -1867,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88917,
+      "num": 88917,
+      "word": "华晨宇效应",
+      "onboard_time": 1761992599,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88715,
       "num": 121281,
       "word": "孙颖莎小伸懒腰",
@@ -1915,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87249,
+      "num": 87249,
+      "word": "14岁男孩获刑13年震慑未成年人犯罪",
+      "onboard_time": 1761992661,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87026,
       "num": 87026,
       "word": "A勒布伦3比2张本智和",
@@ -1929,6 +2017,22 @@
       "onboard_time": 1761987620,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86596,
+      "num": 86596,
+      "word": "拴绳大狗遭柯基主人殴打被立案",
+      "onboard_time": 1761990561,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86475,
+      "num": 86475,
+      "word": "猫咪怎么什么都想捅咕两下",
+      "onboard_time": 1761992361,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 85892,
@@ -2025,6 +2129,14 @@
       "onboard_time": 1761983059,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81681,
+      "num": 86916,
+      "word": "APEC领导人集体合影",
+      "onboard_time": 1761989780,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81165,
@@ -2243,14 +2355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70620,
-      "num": 86916,
-      "word": "APEC领导人集体合影",
-      "onboard_time": 1761989780,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69980,
       "num": 120969,
       "word": "教师反击媚男指控是一次法律公开课",
@@ -2467,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53219,
+      "num": 126702,
+      "word": "一汽大众批发式送车100台",
+      "onboard_time": 1761991521,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53166,
       "num": 214410,
       "word": "范志毅演我爸爸吃薯片",
@@ -2489,6 +2601,14 @@
       "onboard_time": 1761970099,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47091,
+      "num": 95462,
+      "word": "每10个新生儿1个广东娃",
+      "onboard_time": 1761991820,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47012,
@@ -2571,6 +2691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38819,
+      "num": 301363,
+      "word": "2026研考冲刺攻略来了",
+      "onboard_time": 1761991400,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36322,
       "num": 117286,
       "word": "被钱天一手推波惊艳到",
@@ -2601,6 +2729,14 @@
       "onboard_time": 1761932237,
       "rank": 45,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 29884,
+      "num": 128468,
+      "word": "黄子弘凡演唱会后台小法宝",
+      "onboard_time": 1761990381,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 28968,
@@ -2649,6 +2785,14 @@
       "onboard_time": 1761926841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22782,
+      "num": 127717,
+      "word": "没课也不能待宿舍是对学生瞎折腾",
+      "onboard_time": 1761992480,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22054,
