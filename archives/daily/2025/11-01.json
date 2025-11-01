@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761989112169,
+  "endTime": 1761989851196,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407121,
+      "num": 407121,
+      "word": "高市早苗主动上前搂住智利总统",
+      "onboard_time": 1761986660,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 395763,
       "num": 219618,
       "word": "陈乔恩说带孩子辛苦所以选择在外工作",
@@ -233,14 +241,6 @@
       "onboard_time": 1761978440,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371216,
-      "num": 371216,
-      "word": "高市早苗主动上前搂住智利总统",
-      "onboard_time": 1761986660,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 345461,
@@ -377,6 +377,14 @@
       "onboard_time": 1761957080,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276103,
+      "num": 172906,
+      "word": "杜海涛章泽天去看展了",
+      "onboard_time": 1761987741,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 275391,
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192132,
+      "num": 147429,
+      "word": "关晓彤掉了好多头发",
+      "onboard_time": 1761989060,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188786,
       "num": 504279,
       "word": "联合国感谢中国缴清会费",
@@ -779,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172906,
-      "num": 172906,
-      "word": "杜海涛章泽天去看展了",
-      "onboard_time": 1761987741,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172301,
       "num": 188442,
       "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159204,
+      "num": 159204,
+      "word": "苏超",
+      "onboard_time": 1761988880,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158589,
       "num": 158589,
       "word": "十个勤天 时间的参照物",
@@ -899,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152370,
+      "num": 145843,
+      "word": "郑恺最近别出门了避避风头吧",
+      "onboard_time": 1761989060,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "马思纯 没有笑的义务",
@@ -927,6 +951,14 @@
       "num": 149673,
       "word": "深圳一独栋别墅法拍3.64亿元成交",
       "onboard_time": 1761980721,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149349,
+      "num": 149349,
+      "word": "这件4000多年前的上古礼器有多绝",
+      "onboard_time": 1761987920,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1099,8 +1131,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137344,
+      "num": 137344,
+      "word": "于正内涵曾庆杰",
+      "onboard_time": 1761988941,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136187,
-      "num": 119974,
+      "num": 131282,
       "word": "何泓姗 脸和性格各长各的",
       "onboard_time": 1761986481,
       "rank": 32,
@@ -1235,14 +1275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121109,
-      "num": 121109,
-      "word": "苏超",
-      "onboard_time": 1761988880,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121101,
       "num": 186751,
       "word": "2025微博视界大会第六波阵容官宣",
@@ -1315,14 +1347,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116861,
-      "num": 116861,
-      "word": "这件4000多年前的上古礼器有多绝",
-      "onboard_time": 1761987920,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116391,
       "num": 165181,
       "word": "许绍雄家人发讣闻",
@@ -1347,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115730,
-      "num": 115730,
-      "word": "关晓彤掉了好多头发",
-      "onboard_time": 1761989060,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115211,
       "num": 115211,
       "word": "李在明夫人穿韩服接待APEC夫人团",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1761916825,
       "rank": 24,
       "category": "议题讨论,时尚"
+    },
+    {
+      "raw_hot": 113346,
+      "num": 113346,
+      "word": "杨国福回应1斤豆芽28元",
+      "onboard_time": 1761987741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113326,
@@ -1419,14 +1443,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 108422,
-      "num": 108422,
-      "word": "于正内涵曾庆杰",
-      "onboard_time": 1761988941,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108393,
       "num": 150390,
       "word": "中国航天一箭穿月",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1761978379,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107341,
+      "num": 271502,
+      "word": "每天与一件国宝相遇",
+      "onboard_time": 1761972141,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107232,
@@ -1539,12 +1563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102717,
-      "num": 271502,
-      "word": "每天与一件国宝相遇",
-      "onboard_time": 1761972141,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 103077,
+      "num": 103077,
+      "word": "李昀锐小学同学录",
+      "onboard_time": 1761986660,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 102069,
@@ -1723,12 +1747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94970,
-      "num": 94970,
-      "word": "郑恺最近别出门了避避风头吧",
-      "onboard_time": 1761989060,
+      "raw_hot": 95454,
+      "num": 95454,
+      "word": "终于知道离职后交社保的顺序了",
+      "onboard_time": 1761986481,
       "rank": 43,
-      "category": "剧集"
+      "category": "情感"
     },
     {
       "raw_hot": 94445,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1761970280,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94267,
-      "num": 94267,
-      "word": "杨国福回应1斤豆芽28元",
-      "onboard_time": 1761987741,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93278,
@@ -1804,7 +1820,7 @@
     },
     {
       "raw_hot": 90132,
-      "num": 90132,
+      "num": 100354,
       "word": "中韩元首会谈",
       "onboard_time": 1761985401,
       "rank": 47,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1761962419,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87951,
+      "num": 87951,
+      "word": "别人养猫我养大面包",
+      "onboard_time": 1761989359,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 87745,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1761914243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70620,
+      "num": 86916,
+      "word": "APEC领导人集体合影",
+      "onboard_time": 1761989780,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69980,
@@ -2587,6 +2619,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 27923,
+      "num": 145184,
+      "word": "268斤男子切胃手术后身亡家属发声",
+      "onboard_time": 1761989599,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27677,
       "num": 109523,
       "word": "目前中日关系机遇和挑战并存",
@@ -2627,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21968,
+      "num": 99934,
+      "word": "警方回应杭州男子当街虐狗",
+      "onboard_time": 1761988522,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21568,
       "num": 108982,
       "word": "甄志强曾获最帅展昭之称",
@@ -2641,6 +2689,14 @@
       "onboard_time": 1761978260,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17565,
+      "num": 189006,
+      "word": "中国第42次南极考察队从上海起航",
+      "onboard_time": 1761965059,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17212,
@@ -2659,14 +2715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15515,
-      "num": 99623,
-      "word": "警方回应杭州男子当街虐狗",
-      "onboard_time": 1761988522,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13902,
       "num": 196464,
       "word": "神21过境北京太美了",
@@ -2681,14 +2729,6 @@
       "onboard_time": 1761952637,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13272,
-      "num": 189006,
-      "word": "中国第42次南极考察队从上海起航",
-      "onboard_time": 1761965059,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13015,
