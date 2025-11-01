@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761971343567,
+  "endTime": 1761972119653,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -44,14 +44,14 @@
     },
     {
       "raw_hot": 1048325,
-      "num": 183015,
+      "num": 186549,
       "word": "倪妮名誉维权声明",
       "onboard_time": 1761966920,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 850311,
+      "raw_hot": 998177,
       "num": 228332,
       "word": "程晓玥官宣二胎",
       "onboard_time": 1761969740,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 560101,
-      "num": 182750,
+      "num": 185760,
       "word": "男子杀害发小妻儿3人假装不知情",
       "onboard_time": 1761961280,
       "rank": 12,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318634,
+      "num": 318634,
+      "word": "十日终焉阵容",
+      "onboard_time": 1761970940,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306478,
       "num": 228193,
       "word": "向太直言统一是破局钥匙",
@@ -185,6 +193,14 @@
       "onboard_time": 1761961159,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290628,
+      "num": 187453,
+      "word": "杨国福1斤豆芽28元贵过山姆",
+      "onboard_time": 1761970459,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279371,
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264494,
+      "num": 228043,
+      "word": "上班的隐形成本真的很高",
+      "onboard_time": 1761970099,
+      "rank": 17,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 251735,
       "num": 504212,
       "word": "4岁男童药店打针呕吐抽搐后死亡",
@@ -235,20 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228514,
-      "num": 228514,
-      "word": "十日终焉阵容",
-      "onboard_time": 1761970940,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 228043,
-      "num": 228043,
-      "word": "上班的隐形成本真的很高",
-      "onboard_time": 1761970099,
-      "rank": 17,
-      "category": "情感,休闲"
+      "raw_hot": 228500,
+      "num": 186431,
+      "word": "手机一年一换竟然更省钱",
+      "onboard_time": 1761971120,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 227795,
@@ -281,6 +297,14 @@
       "onboard_time": 1761957500,
       "rank": 20,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 218889,
+      "num": 186295,
+      "word": "包上恩更新ins",
+      "onboard_time": 1761971239,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 217137,
@@ -387,23 +411,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 183677,
-      "num": 183677,
-      "word": "手机一年一换竟然更省钱",
-      "onboard_time": 1761971120,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 182017,
-      "num": 182017,
-      "word": "杨国福1斤豆芽28元贵过山姆",
-      "onboard_time": 1761970459,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181219,
+      "raw_hot": 188680,
       "num": 228469,
       "word": "APEC2026在深圳举办",
       "onboard_time": 1761969860,
@@ -451,8 +459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172590,
+      "num": 187861,
+      "word": "喜人奇妙夜 再见爱人",
+      "onboard_time": 1761971239,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172301,
-      "num": 172301,
+      "num": 188442,
       "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
       "onboard_time": 1761963321,
       "rank": 22,
@@ -491,12 +507,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 162658,
-      "num": 162658,
-      "word": "包上恩更新ins",
-      "onboard_time": 1761971239,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 163004,
+      "num": 163004,
+      "word": "Ning为Tarzan鸣不平",
+      "onboard_time": 1761970820,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 161175,
@@ -515,16 +531,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155247,
-      "num": 155247,
-      "word": "Ning为Tarzan鸣不平",
-      "onboard_time": 1761970820,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 150161,
-      "num": 150161,
+      "raw_hot": 156569,
+      "num": 156569,
       "word": "他们能结婚是我工作上的疏忽",
       "onboard_time": 1761970220,
       "rank": 31,
@@ -563,12 +571,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147408,
+      "num": 186134,
+      "word": "龚俊暗河传拿了一周榜1",
+      "onboard_time": 1761971301,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147355,
       "num": 504258,
       "word": "科学家研发能治病的毒液机器人",
       "onboard_time": 1761927141,
       "rank": 16,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 146987,
+      "num": 186006,
+      "word": "东契奇复出44分",
+      "onboard_time": 1761971780,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 143689,
@@ -595,6 +619,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137643,
+      "num": 185827,
+      "word": "现在就出发",
+      "onboard_time": 1761971360,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135633,
+      "num": 135633,
+      "word": "车主选中尾号6646号牌被告知作废",
+      "onboard_time": 1761970999,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127988,
       "num": 127988,
       "word": "光夜查理苏悬顶之心",
@@ -619,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124167,
+      "num": 124167,
+      "word": "眉压眼和眉包眼的区别",
+      "onboard_time": 1761970401,
+      "rank": 37,
+      "category": "美妆,休闲"
+    },
+    {
       "raw_hot": 123665,
       "num": 150780,
       "word": "工作两年没在公司留下任何一枚指纹",
@@ -641,6 +689,14 @@
       "onboard_time": 1761954559,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121101,
+      "num": 186751,
+      "word": "2025微博视界大会第六波阵容官宣",
+      "onboard_time": 1761971540,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 120894,
@@ -683,12 +739,12 @@
       "category": "议题讨论,时尚"
     },
     {
-      "raw_hot": 114617,
-      "num": 114617,
-      "word": "眉压眼和眉包眼的区别",
-      "onboard_time": 1761970401,
-      "rank": 37,
-      "category": "美妆,休闲"
+      "raw_hot": 110282,
+      "num": 124104,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1761971420,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108393,
@@ -697,6 +753,14 @@
       "onboard_time": 1761965240,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108265,
+      "num": 150657,
+      "word": "白猫在猫界是最丑的",
+      "onboard_time": 1761966499,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 107232,
@@ -723,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106377,
-      "num": 150657,
-      "word": "白猫在猫界是最丑的",
-      "onboard_time": 1761966499,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104226,
       "num": 150844,
       "word": "无意识拥有好皮肤的8个习惯",
@@ -745,14 +801,6 @@
       "onboard_time": 1761959840,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 101208,
-      "num": 101208,
-      "word": "车主选中尾号6646号牌被告知作废",
-      "onboard_time": 1761970999,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99650,
@@ -787,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97564,
+      "num": 124071,
+      "word": "零跑汽车10月交付70289台",
+      "onboard_time": 1761971841,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97345,
       "num": 504038,
       "word": "AL 意难平",
@@ -817,14 +873,6 @@
       "onboard_time": 1761967460,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94826,
-      "num": 94826,
-      "word": "喜人奇妙夜 再见爱人",
-      "onboard_time": 1761971239,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 94445,
@@ -892,7 +940,7 @@
     },
     {
       "raw_hot": 87276,
-      "num": 114190,
+      "num": 124038,
       "word": "中级经济师",
       "onboard_time": 1761970520,
       "rank": 38,
@@ -969,6 +1017,14 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 82767,
+      "num": 176533,
+      "word": "寒武纪回应被索赔42.87亿",
+      "onboard_time": 1761971540,
+      "rank": 28,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 81165,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1761933436,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 72534,
-      "num": 108165,
-      "word": "龚俊暗河传拿了一周榜1",
-      "onboard_time": 1761971301,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 71286,
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 60877,
-      "num": 155474,
+      "num": 176364,
       "word": "接到王鹤棣的视频电话了",
       "onboard_time": 1761969980,
       "rank": 29,
