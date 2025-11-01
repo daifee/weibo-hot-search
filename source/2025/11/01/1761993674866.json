@@ -1,0 +1,410 @@
+{
+  "runTime": 1761993674866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519613,
+        "num": 1083138,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355771,
+        "num": 355771,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25934,
+        "num": 336042,
+        "word": "2026研考冲刺攻略来了",
+        "onboard_time": 1761991400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332361,
+        "num": 332361,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277713,
+        "num": 277713,
+        "word": "chovy状态",
+        "onboard_time": 1761991281,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 204355,
+        "word": "iPhone背面还可以这样用",
+        "onboard_time": 1761990439,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148769,
+        "num": 204332,
+        "word": "全红婵不参加全运会单人项目",
+        "onboard_time": 1761991880,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148431,
+        "num": 204297,
+        "word": "这件4000多年前的上古礼器有多绝",
+        "onboard_time": 1761987920,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18957,
+        "num": 204212,
+        "word": "中国第42次南极考察队从上海起航",
+        "onboard_time": 1761965059,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 204155,
+        "word": "每片红叶里都有一场盛大的秋天",
+        "onboard_time": 1761991041,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1306988,
+        "num": 204106,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677715,
+        "num": 204078,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405538,
+        "num": 204004,
+        "word": "高市早苗主动上前搂住智利总统",
+        "onboard_time": 1761986660,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124810,
+        "num": 203925,
+        "word": "Faker预测S15决赛对手",
+        "onboard_time": 1761985580,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308540,
+        "num": 203903,
+        "word": "香港六旬男女在码头作不雅行为被捕",
+        "onboard_time": 1761987260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288400,
+        "num": 203821,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62740,
+        "num": 203806,
+        "word": "一汽大众批发式送车100台",
+        "onboard_time": 1761991521,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48411,
+        "num": 203729,
+        "word": "男子好心载同事出事故赔6万",
+        "onboard_time": 1761992780,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44278,
+        "num": 203646,
+        "word": "没课也不能待宿舍是对学生瞎折腾",
+        "onboard_time": 1761992480,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20747,
+        "num": 203602,
+        "word": "黄子弘凡演唱会后台小法宝",
+        "onboard_time": 1761990381,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 438765,
+        "num": 203573,
+        "word": "卢昱晓审丑积累中",
+        "onboard_time": 1761987980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152036,
+        "num": 203503,
+        "word": "离张杰演唱会只差一包乐事",
+        "onboard_time": 1761993500,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237574,
+        "num": 203459,
+        "word": "老人地铁强坐女生腿上女生无奈报警",
+        "onboard_time": 1761983480,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342787,
+        "num": 203417,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327669,
+        "num": 203336,
+        "word": "杜海涛章泽天去看展了",
+        "onboard_time": 1761987741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276944,
+        "num": 203314,
+        "word": "杨国福回应1斤豆芽28元",
+        "onboard_time": 1761987741,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238838,
+        "num": 203262,
+        "word": "费曼杨阳洋互拍",
+        "onboard_time": 1761986600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203209,
+        "num": 203209,
+        "word": "王一博新西兰回国",
+        "onboard_time": 1761991160,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201520,
+        "num": 201520,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178505,
+        "num": 178505,
+        "word": "白宫马桶照片",
+        "onboard_time": 1761983480,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168863,
+        "num": 168863,
+        "word": "屠颖",
+        "onboard_time": 1761991880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152344,
+        "num": 152344,
+        "word": "KT对战GEN拿到赛点",
+        "onboard_time": 1761993500,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144781,
+        "num": 144781,
+        "word": "马思纯 没有笑的义务",
+        "onboard_time": 1761988522,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 144596,
+        "word": "女子手镯10年未摘长进肉里",
+        "onboard_time": 1761993621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140202,
+        "num": 140202,
+        "word": "昀牵孟绕",
+        "onboard_time": 1761992900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138586,
+        "num": 138586,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129655,
+        "num": 129655,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125320,
+        "num": 125320,
+        "word": "我最羡慕的一种人",
+        "onboard_time": 1761993500,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124697,
+        "num": 124697,
+        "word": "马思纯编完你的编你的",
+        "onboard_time": 1761992840,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111051,
+        "num": 111051,
+        "word": "全红婵全运会报名两项",
+        "onboard_time": 1761993023,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100739,
+        "num": 108482,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1761993200,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111940,
+        "num": 108200,
+        "word": "郑丽文就职马英九哭了",
+        "onboard_time": 1761982339,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107668,
+        "num": 107668,
+        "word": "华晨宇效应",
+        "onboard_time": 1761992599,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106962,
+        "num": 106962,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106721,
+        "num": 106721,
+        "word": "3女生虐室友致死案主犯被执行死刑",
+        "onboard_time": 1761993081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101631,
+        "num": 101631,
+        "word": "GW对战成都GG",
+        "onboard_time": 1761993621,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98980,
+        "num": 98980,
+        "word": "这个丁禹兮把我哄成啥了",
+        "onboard_time": 1761993081,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98004,
+        "num": 98004,
+        "word": "前央视最帅主持人亚宁复出",
+        "onboard_time": 1761993621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94429,
+        "num": 96158,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1761972141,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 95901,
+        "word": "暗河传法拉利停车场",
+        "onboard_time": 1761991579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025APEC领导人庆州宣言#"
+    }
+  }
+}

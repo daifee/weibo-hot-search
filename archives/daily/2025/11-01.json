@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761992740284,
+  "endTime": 1761993674866,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1795380,
-      "num": 186162,
+      "num": 204106,
       "word": "花少6小团体好明显",
       "onboard_time": 1761983360,
       "rank": 10,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 676828,
-      "num": 148144,
+      "raw_hot": 677715,
+      "num": 204078,
       "word": "关晓彤掉了好多头发",
       "onboard_time": 1761989060,
       "rank": 32,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 526473,
-      "num": 184003,
+      "num": 203459,
       "word": "老人地铁强坐女生腿上女生无奈报警",
       "onboard_time": 1761983480,
       "rank": 16,
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438765,
+      "num": 203573,
+      "word": "卢昱晓审丑积累中",
+      "onboard_time": 1761987980,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418838,
       "num": 256580,
       "word": "钱天一王昶秀恩爱",
       "onboard_time": 1761981501,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401735,
-      "num": 174841,
-      "word": "卢昱晓审丑积累中",
-      "onboard_time": 1761987980,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 395763,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355771,
+      "num": 355771,
+      "word": "这些公务员不能辞职",
+      "onboard_time": 1761981681,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345461,
       "num": 165246,
       "word": "耳聋小猫因为可爱被导演选中",
@@ -275,12 +283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338388,
-      "num": 338388,
-      "word": "这些公务员不能辞职",
-      "onboard_time": 1761981681,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 332361,
+      "num": 332361,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 330814,
@@ -289,6 +297,14 @@
       "onboard_time": 1761953958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327669,
+      "num": 203336,
+      "word": "杜海涛章泽天去看展了",
+      "onboard_time": 1761987741,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 327184,
@@ -323,8 +339,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308540,
+      "num": 203903,
+      "word": "香港六旬男女在码头作不雅行为被捕",
+      "onboard_time": 1761987260,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307213,
-      "num": 176058,
+      "num": 203262,
       "word": "费曼杨阳洋互拍",
       "onboard_time": 1761986600,
       "rank": 21,
@@ -379,12 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 288857,
-      "num": 172906,
-      "word": "杜海涛章泽天去看展了",
-      "onboard_time": 1761987741,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 288400,
+      "num": 203821,
+      "word": "14岁男孩获刑13年震慑未成年人犯罪",
+      "onboard_time": 1761992661,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287546,
@@ -401,6 +425,14 @@
       "onboard_time": 1761911004,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276944,
+      "num": 203314,
+      "word": "杨国福回应1斤豆芽28元",
+      "onboard_time": 1761987741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276767,
@@ -451,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250381,
-      "num": 173485,
-      "word": "香港六旬男女在码头作不雅行为被捕",
-      "onboard_time": 1761987260,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249387,
       "num": 249387,
       "word": "李沁告别花儿与少年",
@@ -481,14 +505,6 @@
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 231613,
-      "num": 231613,
-      "word": "GEN对战KT",
-      "onboard_time": 1761981140,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 228254,
@@ -545,14 +561,6 @@
       "onboard_time": 1761973519,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219926,
-      "num": 121010,
-      "word": "杨国福回应1斤豆芽28元",
-      "onboard_time": 1761987741,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217137,
@@ -624,6 +632,22 @@
       "word": "曾庆杰手滑",
       "onboard_time": 1761925461,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 204355,
+      "word": "iPhone背面还可以这样用",
+      "onboard_time": 1761990439,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 203209,
+      "word": "王一博新西兰回国",
+      "onboard_time": 1761991160,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -755,14 +779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181139,
-      "num": 120845,
-      "word": "王一博新西兰回国",
-      "onboard_time": 1761991160,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "陈赫做综艺是真有效果",
@@ -843,6 +859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168863,
+      "num": 168863,
+      "word": "屠颖",
+      "onboard_time": 1761991880,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168165,
       "num": 168165,
       "word": "宣璐cos辛德瑞拉",
@@ -884,7 +908,7 @@
     },
     {
       "raw_hot": 163928,
-      "num": 163928,
+      "num": 204155,
       "word": "每片红叶里都有一场盛大的秋天",
       "onboard_time": 1761991041,
       "rank": 7,
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 153634,
-      "num": 153634,
+      "num": 204297,
       "word": "这件4000多年前的上古礼器有多绝",
       "onboard_time": 1761987920,
       "rank": 29,
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152344,
+      "num": 152344,
+      "word": "KT对战GEN拿到赛点",
+      "onboard_time": 1761993500,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "马思纯 没有笑的义务",
@@ -971,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150971,
-      "num": 116066,
-      "word": "屠颖",
-      "onboard_time": 1761991880,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 152036,
+      "num": 203503,
+      "word": "离张杰演唱会只差一包乐事",
+      "onboard_time": 1761993500,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 150649,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1761972681,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148769,
+      "num": 204332,
+      "word": "全红婵不参加全运会单人项目",
+      "onboard_time": 1761991880,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148318,
@@ -1107,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144596,
+      "num": 144596,
+      "word": "女子手镯10年未摘长进肉里",
+      "onboard_time": 1761993621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143689,
       "num": 106192,
       "word": "光夜齐司礼时序彼端",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1761985040,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140202,
+      "num": 140202,
+      "word": "昀牵孟绕",
+      "onboard_time": 1761992900,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 138921,
@@ -1179,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137251,
-      "num": 137251,
-      "word": "iPhone背面还可以这样用",
-      "onboard_time": 1761990439,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136187,
       "num": 131282,
       "word": "何泓姗 脸和性格各长各的",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1761979820,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130075,
-      "num": 119130,
-      "word": "全红婵不参加全运会单人项目",
-      "onboard_time": 1761991880,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 128695,
@@ -1289,6 +1329,22 @@
       "onboard_time": 1761961340,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125320,
+      "num": 125320,
+      "word": "我最羡慕的一种人",
+      "onboard_time": 1761993500,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124697,
+      "num": 124697,
+      "word": "马思纯编完你的编你的",
+      "onboard_time": 1761992840,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 124514,
@@ -1475,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111051,
+      "num": 111051,
+      "word": "全红婵全运会报名两项",
+      "onboard_time": 1761993023,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110282,
       "num": 124104,
       "word": "喜人奇妙夜",
@@ -1531,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107668,
+      "num": 107668,
+      "word": "华晨宇效应",
+      "onboard_time": 1761992599,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107341,
       "num": 271502,
       "word": "每天与一件国宝相遇",
@@ -1552,6 +1624,14 @@
       "word": "凯里动物园爷爷两天收到十几万捐款",
       "onboard_time": 1761963081,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106721,
+      "num": 106721,
+      "word": "3女生虐室友致死案主犯被执行死刑",
+      "onboard_time": 1761993081,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1643,6 +1723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101631,
+      "num": 101631,
+      "word": "GW对战成都GG",
+      "onboard_time": 1761993621,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101581,
       "num": 101581,
       "word": "长沙市运会开幕式出现王楚钦",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1761978560,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100739,
+      "num": 108482,
+      "word": "西西域来了一位貌美之人",
+      "onboard_time": 1761993200,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 100475,
@@ -1707,6 +1803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98980,
+      "num": 98980,
+      "word": "这个丁禹兮把我哄成啥了",
+      "onboard_time": 1761993081,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98769,
       "num": 98769,
       "word": "一觉醒来神20神21会师",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1761988280,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98004,
+      "num": 98004,
+      "word": "前央视最帅主持人亚宁复出",
+      "onboard_time": 1761993621,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97564,
@@ -1939,14 +2051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88917,
-      "num": 88917,
-      "word": "华晨宇效应",
-      "onboard_time": 1761992599,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88715,
       "num": 121281,
       "word": "孙颖莎小伸懒腰",
@@ -1993,14 +2097,6 @@
       "onboard_time": 1761970520,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 87249,
-      "num": 87249,
-      "word": "14岁男孩获刑13年震慑未成年人犯罪",
-      "onboard_time": 1761992661,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87026,
@@ -2451,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62740,
+      "num": 203806,
+      "word": "一汽大众批发式送车100台",
+      "onboard_time": 1761991521,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62636,
       "num": 101400,
       "word": "潘展乐练瘦了",
@@ -2571,14 +2675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 53219,
-      "num": 126702,
-      "word": "一汽大众批发式送车100台",
-      "onboard_time": 1761991521,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 53166,
       "num": 214410,
       "word": "范志毅演我爸爸吃薯片",
@@ -2603,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48411,
+      "num": 203729,
+      "word": "男子好心载同事出事故赔6万",
+      "onboard_time": 1761992780,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47091,
       "num": 95462,
       "word": "每10个新生儿1个广东娃",
@@ -2617,6 +2721,14 @@
       "onboard_time": 1761923002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44278,
+      "num": 203646,
+      "word": "没课也不能待宿舍是对学生瞎折腾",
+      "onboard_time": 1761992480,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43794,
@@ -2692,7 +2804,7 @@
     },
     {
       "raw_hot": 38819,
-      "num": 301363,
+      "num": 336042,
       "word": "2026研考冲刺攻略来了",
       "onboard_time": 1761991400,
       "rank": 2,
@@ -2732,7 +2844,7 @@
     },
     {
       "raw_hot": 29884,
-      "num": 128468,
+      "num": 203602,
       "word": "黄子弘凡演唱会后台小法宝",
       "onboard_time": 1761990381,
       "rank": 17,
@@ -2787,14 +2899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22782,
-      "num": 127717,
-      "word": "没课也不能待宿舍是对学生瞎折腾",
-      "onboard_time": 1761992480,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22054,
       "num": 198673,
       "word": "为救儿子盗窃入狱的男子仍待业",
@@ -2835,8 +2939,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17565,
-      "num": 189006,
+      "raw_hot": 18957,
+      "num": 204212,
       "word": "中国第42次南极考察队从上海起航",
       "onboard_time": 1761965059,
       "rank": 8,
@@ -2903,6 +3007,9 @@
     },
     {
       "word": "#共同开创可持续的美好明天#"
+    },
+    {
+      "word": "#2025APEC领导人庆州宣言#"
     }
   ]
 }
