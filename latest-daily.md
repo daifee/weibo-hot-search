@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 00:28:19
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 00:42:48
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@ DRG早点 回家吧（热度：256453）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E4%BF%9D%E5%AD%98%E7%8E%B0%E5%9C%BA26%E5%B9%B4%E5%87%B6%E6%89%8B%E8%90%BD%E7%BD%91%23" target="weibo">
+日本男子保存现场26年凶手落网（热度：218661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B7%9E%E9%87%91%E7%81%BF%E7%81%BF%23" target="weibo">
 泰州金灿灿（热度：191534）
 </a>
@@ -111,20 +117,14 @@ DRG早点 回家吧（热度：256453）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E4%BF%9D%E5%AD%98%E7%8E%B0%E5%9C%BA26%E5%B9%B4%E5%87%B6%E6%89%8B%E8%90%BD%E7%BD%91%23" target="weibo">
-日本男子保存现场26年凶手落网（热度：172805）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
+你好星期六下期张凌赫（热度：180860）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E5%94%AF%E4%B8%80%E8%BE%93%E7%9A%84%E4%B8%80%E5%9C%BA%E6%98%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
 南通唯一输的一场是决赛（热度：172747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
-你好星期六下期张凌赫（热度：167468）
 </a>
 </li>
 
@@ -148,7 +148,7 @@ DRG早点 回家吧（热度：256453）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E5%90%8E%E6%B7%A1%E5%AE%9A%E5%8E%BB%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%AE%B6%E5%90%83%E9%A5%AD%23" target="weibo">
-男子杀人后淡定去被害人家吃饭（热度：131809）
+男子杀人后淡定去被害人家吃饭（热度：136347）
 </a>
 </li>
 
@@ -160,7 +160,7 @@ DRG早点 回家吧（热度：256453）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BD%B3%E7%8E%BA%E6%89%8D13%E5%B2%81%23" target="weibo">
-刘佳玺才13岁（热度：124511）
+刘佳玺才13岁（热度：129634）
 </a>
 </li>
 
@@ -305,6 +305,18 @@ DRG对战狼队（热度：76842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E9%98%9F%E9%95%BF%E5%93%AD%E4%BA%86%23" target="weibo">
 南通队长哭了（热度：65433）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%B1%A0%E9%A2%96%E7%A6%BB%E4%B8%96%23" target="weibo">
+著名音乐人屠颖离世（热度：59154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%9A%E4%BA%BA%E6%94%B6%E5%88%B0%E7%99%BE%E9%87%8C%E6%8C%91%E4%B8%80%E7%9F%AD%E4%BF%A1%23" target="weibo">
+广东多人收到百里挑一短信（热度：57424）
 </a>
 </li>
 
