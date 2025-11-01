@@ -1,7 +1,15 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761993674866,
+  "endTime": 1761996013372,
   "band_list": [
+    {
+      "raw_hot": 2334332,
+      "num": 2334332,
+      "word": "KT战胜GEN",
+      "onboard_time": 1761994883,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 1797747,
       "num": 1797747,
@@ -12,11 +20,19 @@
     },
     {
       "raw_hot": 1795380,
-      "num": 204106,
+      "num": 257204,
       "word": "花少6小团体好明显",
       "onboard_time": 1761983360,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1374766,
+      "num": 259576,
+      "word": "14岁男孩获刑13年震慑未成年人犯罪",
+      "onboard_time": 1761992661,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1283543,
@@ -67,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912806,
+      "num": 475247,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 869920,
+      "num": 253945,
+      "word": "女子手镯10年未摘长进肉里",
+      "onboard_time": 1761993621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752671,
       "num": 1120427,
       "word": "iPhone18Pro前瞻",
@@ -83,8 +115,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 706292,
+      "num": 299470,
+      "word": "chovy状态",
+      "onboard_time": 1761991281,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 677715,
-      "num": 204078,
+      "num": 252763,
       "word": "关晓彤掉了好多头发",
       "onboard_time": 1761989060,
       "rank": 32,
@@ -147,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 575080,
+      "num": 224099,
+      "word": "昀牵孟绕",
+      "onboard_time": 1761992900,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560101,
       "num": 185760,
       "word": "男子杀害发小妻儿3人假装不知情",
@@ -169,6 +217,14 @@
       "onboard_time": 1761926602,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 532950,
+      "num": 532950,
+      "word": "iPhone背面还可以这样用",
+      "onboard_time": 1761990439,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 526473,
@@ -228,7 +284,7 @@
     },
     {
       "raw_hot": 438765,
-      "num": 203573,
+      "num": 222728,
       "word": "卢昱晓审丑积累中",
       "onboard_time": 1761987980,
       "rank": 22,
@@ -283,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 332361,
-      "num": 332361,
-      "word": "GEN对战KT",
-      "onboard_time": 1761981140,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 330814,
       "num": 1052930,
       "word": "十日终焉影视化",
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 327669,
-      "num": 203336,
+      "num": 222054,
       "word": "杜海涛章泽天去看展了",
       "onboard_time": 1761987741,
       "rank": 25,
@@ -395,22 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 299470,
-      "num": 299470,
-      "word": "chovy状态",
-      "onboard_time": 1761991281,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 288400,
-      "num": 203821,
-      "word": "14岁男孩获刑13年震慑未成年人犯罪",
-      "onboard_time": 1761992661,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -475,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251238,
+      "num": 251238,
+      "word": "管泽元恭喜KT",
+      "onboard_time": 1761995062,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251016,
       "num": 228055,
       "word": "严屹宽还在穿20年前的衣服",
@@ -488,6 +528,14 @@
       "word": "李沁告别花儿与少年",
       "onboard_time": 1761979520,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243593,
+      "num": 243593,
+      "word": "怪不得刘嘉玲王菲那英是好朋友",
+      "onboard_time": 1761993800,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -513,6 +561,14 @@
       "onboard_time": 1761971239,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227935,
+      "num": 266807,
+      "word": "全红婵不参加全运会单人项目",
+      "onboard_time": 1761991880,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 227795,
@@ -635,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204355,
-      "num": 204355,
-      "word": "iPhone背面还可以这样用",
-      "onboard_time": 1761990439,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 203209,
       "num": 203209,
       "word": "王一博新西兰回国",
@@ -667,12 +715,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201490,
+      "num": 201490,
+      "word": "爸爸去哪儿男生近照",
+      "onboard_time": 1761995000,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201128,
       "num": 504208,
       "word": "Gumayusi回应淘汰AL",
       "onboard_time": 1761923124,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198899,
+      "num": 223867,
+      "word": "张柏芝拒绝儿子母亲节礼物",
+      "onboard_time": 1761995181,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 197943,
@@ -699,6 +763,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 194963,
+      "num": 264492,
+      "word": "这件4000多年前的上古礼器有多绝",
+      "onboard_time": 1761987920,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193088,
       "num": 269737,
       "word": "年轻人爱上越剧",
@@ -713,6 +785,14 @@
       "onboard_time": 1761967281,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191115,
+      "num": 191115,
+      "word": "果郡王 竟然居然人",
+      "onboard_time": 1761994402,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 188786,
@@ -732,7 +812,7 @@
     },
     {
       "raw_hot": 188680,
-      "num": 339427,
+      "num": 479682,
       "word": "APEC2026在深圳举办",
       "onboard_time": 1761969860,
       "rank": 7,
@@ -753,6 +833,14 @@
       "onboard_time": 1761974240,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186043,
+      "num": 186043,
+      "word": "著名音乐人屠颖离世",
+      "onboard_time": 1761995360,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 185363,
@@ -931,8 +1019,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159813,
+      "num": 261517,
+      "word": "西西域来了一位貌美之人",
+      "onboard_time": 1761993200,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159204,
-      "num": 159204,
+      "num": 226260,
       "word": "苏超",
       "onboard_time": 1761988880,
       "rank": 28,
@@ -955,12 +1051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156747,
+      "num": 156747,
+      "word": "前央视最帅主持人亚宁复出",
+      "onboard_time": 1761993621,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156569,
       "num": 156569,
       "word": "他们能结婚是我工作上的疏忽",
       "onboard_time": 1761970220,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156016,
+      "num": 156016,
+      "word": "在乌镇偶遇张艺兴",
+      "onboard_time": 1761995422,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 155368,
@@ -971,12 +1083,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153634,
-      "num": 204297,
-      "word": "这件4000多年前的上古礼器有多绝",
-      "onboard_time": 1761987920,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 154442,
+      "num": 154442,
+      "word": "BDD冲击首冠",
+      "onboard_time": 1761990921,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 152370,
@@ -1004,7 +1116,7 @@
     },
     {
       "raw_hot": 152036,
-      "num": 203503,
+      "num": 224893,
       "word": "离张杰演唱会只差一包乐事",
       "onboard_time": 1761993500,
       "rank": 21,
@@ -1049,14 +1161,6 @@
       "onboard_time": 1761972681,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 148769,
-      "num": 204332,
-      "word": "全红婵不参加全运会单人项目",
-      "onboard_time": 1761991880,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 148318,
@@ -1131,12 +1235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146323,
+      "num": 146323,
+      "word": "Ruler失利之后哭了",
+      "onboard_time": 1761995722,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146021,
       "num": 167557,
       "word": "成毅天地剑心撕漫感大片",
       "onboard_time": 1761984080,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145459,
+      "num": 145459,
+      "word": "ShowMaker复刻名场面",
+      "onboard_time": 1761995121,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 144902,
@@ -1147,12 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144596,
-      "num": 144596,
-      "word": "女子手镯10年未摘长进肉里",
-      "onboard_time": 1761993621,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 143727,
+      "num": 194713,
+      "word": "怪不得水龙吟敢在18集断更",
+      "onboard_time": 1761995660,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 143689,
@@ -1177,14 +1297,6 @@
       "onboard_time": 1761985040,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140202,
-      "num": 140202,
-      "word": "昀牵孟绕",
-      "onboard_time": 1761992900,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 138921,
@@ -1241,6 +1353,14 @@
       "onboard_time": 1761986481,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "斗破苍穹",
+      "onboard_time": 1761995781,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 135633,
@@ -1387,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121886,
+      "num": 121886,
+      "word": "BDD单杀Chovy",
+      "onboard_time": 1761993980,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121225,
       "num": 154978,
       "word": "6名航天员共同在空间站约5天",
@@ -1441,6 +1569,14 @@
       "onboard_time": 1761953838,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119039,
+      "num": 188202,
+      "word": "DRG对战狼队",
+      "onboard_time": 1761994402,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 118863,
@@ -1755,14 +1891,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100739,
-      "num": 108482,
-      "word": "西西域来了一位貌美之人",
-      "onboard_time": 1761993200,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100475,
       "num": 100475,
       "word": "TVB公布许绍雄未播遗作",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1761983840,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99015,
+      "num": 191233,
+      "word": "上海新增带薪休假 最长7天",
+      "onboard_time": 1761994282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98980,
@@ -1849,14 +1985,6 @@
       "onboard_time": 1761988280,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98004,
-      "num": 98004,
-      "word": "前央视最帅主持人亚宁复出",
-      "onboard_time": 1761993621,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97564,
@@ -1947,14 +2075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93019,
-      "num": 93019,
-      "word": "BDD冲击首冠",
-      "onboard_time": 1761990921,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 92509,
       "num": 92509,
       "word": "一鸟传三代人走鸟还在",
@@ -2001,6 +2121,14 @@
       "onboard_time": 1761959539,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90658,
+      "num": 225553,
+      "word": "罗永浩说乐道L90是今年最大黑马",
+      "onboard_time": 1761995481,
+      "rank": 18,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 90132,
@@ -2153,6 +2281,14 @@
       "onboard_time": 1761964160,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85133,
+      "num": 121794,
+      "word": "段永平捐赠市值1500万茅台股票",
+      "onboard_time": 1761995062,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 84953,
@@ -2393,6 +2529,14 @@
       "onboard_time": 1761933436,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 71872,
+      "num": 121740,
+      "word": "库里首次成为NBA收入最高球员",
+      "onboard_time": 1761994643,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71487,

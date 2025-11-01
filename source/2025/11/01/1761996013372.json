@@ -1,0 +1,410 @@
+{
+  "runTime": 1761996013372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2334332,
+        "num": 2334332,
+        "word": "KT战胜GEN",
+        "onboard_time": 1761994883,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 532950,
+        "num": 532950,
+        "word": "iPhone背面还可以这样用",
+        "onboard_time": 1761990439,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21388,
+        "num": 479682,
+        "word": "APEC2026在深圳举办",
+        "onboard_time": 1761969860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 912806,
+        "num": 475247,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 431814,
+        "num": 431814,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269184,
+        "num": 269184,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706292,
+        "num": 268058,
+        "word": "chovy状态",
+        "onboard_time": 1761991281,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227935,
+        "num": 266807,
+        "word": "全红婵不参加全运会单人项目",
+        "onboard_time": 1761991880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194963,
+        "num": 264492,
+        "word": "这件4000多年前的上古礼器有多绝",
+        "onboard_time": 1761987920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 261517,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1761993200,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1374766,
+        "num": 259576,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1200306,
+        "num": 257204,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869920,
+        "num": 253945,
+        "word": "女子手镯10年未摘长进肉里",
+        "onboard_time": 1761993621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553701,
+        "num": 252763,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251238,
+        "num": 251238,
+        "word": "管泽元恭喜KT",
+        "onboard_time": 1761995062,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243593,
+        "num": 243593,
+        "word": "怪不得刘嘉玲王菲那英是好朋友",
+        "onboard_time": 1761993800,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226310,
+        "num": 226310,
+        "word": "Faker预测S15决赛对手",
+        "onboard_time": 1761985580,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156853,
+        "num": 226260,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90658,
+        "num": 225553,
+        "word": "罗永浩说乐道L90是今年最大黑马",
+        "onboard_time": 1761995481,
+        "rank": 18,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 42943,
+        "num": 224893,
+        "word": "离张杰演唱会只差一包乐事",
+        "onboard_time": 1761993500,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575080,
+        "num": 224099,
+        "word": "昀牵孟绕",
+        "onboard_time": 1761992900,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198899,
+        "num": 223867,
+        "word": "张柏芝拒绝儿子母亲节礼物",
+        "onboard_time": 1761995181,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342953,
+        "num": 222728,
+        "word": "卢昱晓审丑积累中",
+        "onboard_time": 1761987980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279998,
+        "num": 222113,
+        "word": "高市早苗主动上前搂住智利总统",
+        "onboard_time": 1761986660,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222054,
+        "num": 222054,
+        "word": "杜海涛章泽天去看展了",
+        "onboard_time": 1761987741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201490,
+        "num": 201490,
+        "word": "爸爸去哪儿男生近照",
+        "onboard_time": 1761995000,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200490,
+        "num": 200490,
+        "word": "老人地铁强坐女生腿上女生无奈报警",
+        "onboard_time": 1761983480,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143727,
+        "num": 194713,
+        "word": "怪不得水龙吟敢在18集断更",
+        "onboard_time": 1761995660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110960,
+        "num": 191771,
+        "word": "每片红叶里都有一场盛大的秋天",
+        "onboard_time": 1761991041,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99015,
+        "num": 191233,
+        "word": "上海新增带薪休假 最长7天",
+        "onboard_time": 1761994282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191115,
+        "num": 191115,
+        "word": "果郡王 竟然居然人",
+        "onboard_time": 1761994402,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 188202,
+        "word": "DRG对战狼队",
+        "onboard_time": 1761994402,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186043,
+        "num": 186043,
+        "word": "著名音乐人屠颖离世",
+        "onboard_time": 1761995360,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166860,
+        "num": 166860,
+        "word": "王一博新西兰回国",
+        "onboard_time": 1761991160,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "杨国福回应1斤豆芽28元",
+        "onboard_time": 1761987741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156747,
+        "num": 156747,
+        "word": "前央视最帅主持人亚宁复出",
+        "onboard_time": 1761993621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156016,
+        "num": 156016,
+        "word": "在乌镇偶遇张艺兴",
+        "onboard_time": 1761995422,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154442,
+        "num": 154442,
+        "word": "BDD冲击首冠",
+        "onboard_time": 1761990921,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90307,
+        "num": 146681,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1761972141,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146323,
+        "num": 146323,
+        "word": "Ruler失利之后哭了",
+        "onboard_time": 1761995722,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145459,
+        "num": 145459,
+        "word": "ShowMaker复刻名场面",
+        "onboard_time": 1761995121,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143425,
+        "num": 143425,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141638,
+        "num": 141638,
+        "word": "费曼杨阳洋互拍",
+        "onboard_time": 1761986600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135839,
+        "num": 135839,
+        "word": "斗破苍穹",
+        "onboard_time": 1761995781,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123495,
+        "num": 123495,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39414,
+        "num": 122520,
+        "word": "一汽大众批发式送车100台",
+        "onboard_time": 1761991521,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127365,
+        "num": 122389,
+        "word": "屠颖",
+        "onboard_time": 1761991880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121886,
+        "num": 121886,
+        "word": "BDD单杀Chovy",
+        "onboard_time": 1761993980,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85133,
+        "num": 121794,
+        "word": "段永平捐赠市值1500万茅台股票",
+        "onboard_time": 1761995062,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71872,
+        "num": 121740,
+        "word": "库里首次成为NBA收入最高球员",
+        "onboard_time": 1761994643,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025APEC领导人庆州宣言#"
+    }
+  }
+}
