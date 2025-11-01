@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762010593788,
+  "endTime": 1762011400457,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309547,
+      "num": 309547,
+      "word": "南通唯一输的一场是决赛",
+      "onboard_time": 1762008503,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309140,
       "num": 166191,
       "word": "黄凯选迪丽热巴offer5知道吗",
@@ -585,14 +593,6 @@
       "onboard_time": 1761961159,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 301163,
-      "num": 301163,
-      "word": "南通唯一输的一场是决赛",
-      "onboard_time": 1762008503,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 287546,
@@ -697,6 +697,14 @@
       "onboard_time": 1761996020,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253832,
+      "num": 295805,
+      "word": "泰州 一黑到底",
+      "onboard_time": 1762008983,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 251735,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203960,
+      "num": 190859,
+      "word": "胡彦斌演唱会上座率",
+      "onboard_time": 1762010303,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203278,
       "num": 203278,
       "word": "Ruler回应败给KT",
@@ -1179,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175131,
-      "num": 295805,
-      "word": "泰州 一黑到底",
-      "onboard_time": 1762008983,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173801,
       "num": 176859,
       "word": "文荣奖",
@@ -1320,6 +1328,14 @@
       "word": "怪不得水龙吟敢在18集断更",
       "onboard_time": 1761995660,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161487,
+      "num": 161487,
+      "word": "李一桐的剧宣永远大大方方",
+      "onboard_time": 1762011082,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1507,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149257,
+      "num": 295096,
+      "word": "全国1%人口抽样调查",
+      "onboard_time": 1762006585,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149070,
       "num": 149070,
       "word": "神秘富豪3.65亿捡漏深圳豪宅",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1761972681,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148912,
+      "num": 252959,
+      "word": "DRG早点 回家吧",
+      "onboard_time": 1762010422,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 148318,
@@ -1691,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139578,
+      "num": 139578,
+      "word": "陈小春这个退场太牛了",
+      "onboard_time": 1762009703,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "冯建宇拍上了心心念念的格莱美镜头",
@@ -1795,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135391,
-      "num": 151376,
-      "word": "胡彦斌演唱会上座率",
-      "onboard_time": 1762010303,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 135061,
       "num": 126563,
       "word": "张小斐马伊琍张子枫应该是一家",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1761993081,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "日本男子为破杀妻案保存现场26年",
+      "onboard_time": 1762009344,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129462,
@@ -2019,14 +2059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123486,
-      "num": 295096,
-      "word": "全国1%人口抽样调查",
-      "onboard_time": 1762006585,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123484,
       "num": 123484,
       "word": "谢娜给自己超级加辈上了",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1761977060,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123008,
+      "num": 123008,
+      "word": "久酷采访",
+      "onboard_time": 1762010783,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 122707,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1761973400,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118799,
-      "num": 118799,
-      "word": "陈小春这个退场太牛了",
-      "onboard_time": 1762009703,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 118405,
@@ -2339,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109666,
-      "num": 109666,
-      "word": "DRG早点 回家吧",
-      "onboard_time": 1762010422,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 108928,
       "num": 108928,
       "word": "240斤女生为婚礼5个月瘦60斤",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1761977900,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108602,
+      "num": 132757,
+      "word": "山河枕腾讯站内热度破24000",
+      "onboard_time": 1762010962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 108393,
@@ -2739,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96873,
+      "num": 96873,
+      "word": "Bdd谈Faker",
+      "onboard_time": 1762011142,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96595,
       "num": 503981,
       "word": "员工介绍非洲狮柯基把自己整笑了",
@@ -2955,14 +2995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88183,
-      "num": 119341,
-      "word": "日本男子为破杀妻案保存现场26年",
-      "onboard_time": 1762009344,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87951,
       "num": 87951,
       "word": "别人养猫我养大面包",
@@ -3163,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78713,
+      "num": 192893,
+      "word": "美国豆农松了一口气",
+      "onboard_time": 1762011022,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78411,
       "num": 150565,
       "word": "赵鸿刚在世界职业扇耳光大赛后报平安",
@@ -3315,20 +3355,20 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 72879,
+      "num": 284894,
+      "word": "苏超现场最特别的应援蓝海",
+      "onboard_time": 1762005923,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72583,
       "num": 109320,
       "word": "国考缴费",
       "onboard_time": 1761933436,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 72374,
-      "num": 284894,
-      "word": "苏超现场最特别的应援蓝海",
-      "onboard_time": 1762005923,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 71872,

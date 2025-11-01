@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1762010593788,
+  "endTime": 1762011400457,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -4379,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309547,
+      "num": 309547,
+      "word": "南通唯一输的一场是决赛",
+      "onboard_time": 1762008503,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309444,
       "num": 309444,
       "word": "我国3岁以下婴幼儿约3000万",
@@ -4529,14 +4537,6 @@
       "onboard_time": 1761907583,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 301163,
-      "num": 301163,
-      "word": "南通唯一输的一场是决赛",
-      "onboard_time": 1762008503,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 301125,
@@ -5297,6 +5297,14 @@
       "onboard_time": 1761623485,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253832,
+      "num": 295805,
+      "word": "泰州 一黑到底",
+      "onboard_time": 1762008983,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 253618,
@@ -6897,6 +6905,14 @@
       "onboard_time": 1761439099,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 203960,
+      "num": 190859,
+      "word": "胡彦斌演唱会上座率",
+      "onboard_time": 1762010303,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 203955,
@@ -8723,14 +8739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175131,
-      "num": 295805,
-      "word": "泰州 一黑到底",
-      "onboard_time": 1762008983,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174890,
       "num": 406826,
       "word": "张雅钦对卢昱晓的偏爱藏不住了",
@@ -9809,6 +9817,14 @@
       "onboard_time": 1761462740,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161487,
+      "num": 161487,
+      "word": "李一桐的剧宣永远大大方方",
+      "onboard_time": 1762011082,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 161436,
@@ -11043,6 +11059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149257,
+      "num": 295096,
+      "word": "全国1%人口抽样调查",
+      "onboard_time": 1762006585,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149167,
       "num": 149167,
       "word": "梅婷向观众介绍杨紫",
@@ -11073,6 +11097,14 @@
       "onboard_time": 1761972681,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148912,
+      "num": 252959,
+      "word": "DRG早点 回家吧",
+      "onboard_time": 1762010422,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 148600,
@@ -12075,6 +12107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139578,
+      "num": 139578,
+      "word": "陈小春这个退场太牛了",
+      "onboard_time": 1762009703,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139566,
       "num": 684563,
       "word": "重阳久久安康",
@@ -12561,14 +12601,6 @@
       "onboard_time": 1761970999,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135391,
-      "num": 151376,
-      "word": "胡彦斌演唱会上座率",
-      "onboard_time": 1762010303,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 135383,
@@ -13419,6 +13451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "日本男子为破杀妻案保存现场26年",
+      "onboard_time": 1762009344,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129821,
       "num": 129821,
       "word": "湖南一男子直播挖蛇被咬后下落不明",
@@ -14251,14 +14291,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123486,
-      "num": 295096,
-      "word": "全国1%人口抽样调查",
-      "onboard_time": 1762006585,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123484,
       "num": 123484,
       "word": "谢娜给自己超级加辈上了",
@@ -14337,6 +14369,14 @@
       "onboard_time": 1761555621,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123008,
+      "num": 123008,
+      "word": "久酷采访",
+      "onboard_time": 1762010783,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 122996,
@@ -14929,14 +14969,6 @@
       "onboard_time": 1761973400,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118799,
-      "num": 118799,
-      "word": "陈小春这个退场太牛了",
-      "onboard_time": 1762009703,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 118782,
@@ -16379,14 +16411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109666,
-      "num": 109666,
-      "word": "DRG早点 回家吧",
-      "onboard_time": 1762010422,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109609,
       "num": 109609,
       "word": "浙江金华满足碳水脑袋",
@@ -16593,6 +16617,14 @@
       "onboard_time": 1761520039,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108602,
+      "num": 132757,
+      "word": "山河枕腾讯站内热度破24000",
+      "onboard_time": 1762010962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 108535,
@@ -18571,6 +18603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96873,
+      "num": 96873,
+      "word": "Bdd谈Faker",
+      "onboard_time": 1762011142,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96848,
       "num": 96848,
       "word": "Chovy说Peanut只是暂时退役",
@@ -19875,14 +19915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88183,
-      "num": 119341,
-      "word": "日本男子为破杀妻案保存现场26年",
-      "onboard_time": 1762009344,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88077,
       "num": 208596,
       "word": "iPhone17屏幕成本或为40美元",
@@ -20899,6 +20931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78713,
+      "num": 192893,
+      "word": "美国豆农松了一口气",
+      "onboard_time": 1762011022,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78698,
       "num": 102224,
       "word": "张杰200场嘉年华烟花秀",
@@ -21403,6 +21443,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 72879,
+      "num": 284894,
+      "word": "苏超现场最特别的应援蓝海",
+      "onboard_time": 1762005923,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72727,
       "num": 208431,
       "word": "江衡营业",
@@ -21433,14 +21481,6 @@
       "onboard_time": 1761388401,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72374,
-      "num": 284894,
-      "word": "苏超现场最特别的应援蓝海",
-      "onboard_time": 1762005923,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 72265,
