@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761981761776,
+  "endTime": 1761982605288,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -1187,6 +1187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 752671,
+      "num": 1120427,
+      "word": "iPhone18Pro前瞻",
+      "onboard_time": 1761978860,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 749337,
       "num": 287055,
       "word": "第二杯半价不是让你一个人喝两杯的",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1761876679,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 647278,
-      "num": 1103564,
-      "word": "iPhone18Pro前瞻",
-      "onboard_time": 1761978860,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 647034,
@@ -2411,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502961,
+      "num": 167425,
+      "word": "刘嘉玲 内娱文化冲击",
+      "onboard_time": 1761978740,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500392,
       "num": 229696,
       "word": "长期熬夜的受害者出现了",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1761471860,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 465172,
-      "num": 167425,
-      "word": "刘嘉玲 内娱文化冲击",
-      "onboard_time": 1761978740,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 464657,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1761752121,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418838,
+      "num": 209121,
+      "word": "钱天一王昶秀恩爱",
+      "onboard_time": 1761981501,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 417928,
@@ -5171,6 +5179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242878,
+      "num": 242878,
+      "word": "李沁告别花儿与少年",
+      "onboard_time": 1761979520,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242354,
       "num": 357773,
       "word": "公主小妹兄妹篇",
@@ -6259,14 +6275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207175,
-      "num": 164831,
-      "word": "钱天一王昶秀恩爱",
-      "onboard_time": 1761981501,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207104,
       "num": 600898,
       "word": "央视专访侯明昊",
@@ -6491,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202062,
+      "num": 151277,
+      "word": "王力宏把最后一排变成第一排",
+      "onboard_time": 1761981501,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201445,
       "num": 504208,
       "word": "Gumayusi回应淘汰AL",
@@ -6545,14 +6561,6 @@
       "onboard_time": 1761868821,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200901,
-      "num": 183573,
-      "word": "李沁告别花儿与少年",
-      "onboard_time": 1761979520,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 200698,
@@ -6921,6 +6929,14 @@
       "onboard_time": 1761559221,
       "rank": 23,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 194617,
+      "num": 146948,
+      "word": "张翰给谈莉娜送了新婚祝福",
+      "onboard_time": 1761982100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194438,
@@ -8105,6 +8121,14 @@
       "onboard_time": 1761458900,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176610,
+      "num": 150234,
+      "word": "李冰冰大花含金量还在上升",
+      "onboard_time": 1761981259,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 176308,
@@ -10235,6 +10259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149673,
+      "num": 149673,
+      "word": "深圳一独栋别墅法拍3.64亿元成交",
+      "onboard_time": 1761980721,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149501,
       "num": 149501,
       "word": "女生真的要努力走出去",
@@ -10353,6 +10385,14 @@
       "onboard_time": 1761563240,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148318,
+      "num": 148318,
+      "word": "找到我和猫都能吃很好的办法了",
+      "onboard_time": 1761981980,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 148317,
@@ -10537,6 +10577,14 @@
       "onboard_time": 1761907401,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146847,
+      "num": 146847,
+      "word": "恶心穿搭",
+      "onboard_time": 1761979101,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 146691,
@@ -10937,14 +10985,6 @@
       "onboard_time": 1761936855,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143328,
-      "num": 143328,
-      "word": "王力宏把最后一排变成第一排",
-      "onboard_time": 1761981501,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 143255,
@@ -12427,14 +12467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129902,
-      "num": 129902,
-      "word": "李冰冰大花含金量还在上升",
-      "onboard_time": 1761981259,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129849,
       "num": 129849,
       "word": "早安被TOP整哭了",
@@ -12595,6 +12627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128271,
+      "num": 128271,
+      "word": "要不给王赫野报工伤吧",
+      "onboard_time": 1761982161,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128226,
       "num": 128226,
       "word": "米勒 说不出话",
@@ -12641,6 +12681,14 @@
       "onboard_time": 1761961880,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127939,
+      "num": 127939,
+      "word": "这些公务员不能辞职",
+      "onboard_time": 1761981681,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127758,
@@ -12947,14 +12995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 125599,
-      "num": 125599,
-      "word": "深圳一独栋别墅法拍3.64亿元成交",
-      "onboard_time": 1761980721,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125558,
       "num": 125558,
       "word": "陈冬首个在轨超400天中国航天员",
@@ -13121,14 +13161,6 @@
       "onboard_time": 1761744320,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124079,
-      "num": 124079,
-      "word": "恶心穿搭",
-      "onboard_time": 1761979101,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 124064,
@@ -14139,6 +14171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116357,
+      "num": 116357,
+      "word": "原来心梗是有征兆的",
+      "onboard_time": 1761979459,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116308,
       "num": 110174,
       "word": "魏大勋 叔圈娃娃菜",
@@ -14731,6 +14771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112722,
+      "num": 157605,
+      "word": "268斤男子做切胃手术后在ICU身亡",
+      "onboard_time": 1761981921,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112683,
       "num": 112683,
       "word": "52岁女子试管怀上双胎还遇上早产",
@@ -14761,14 +14809,6 @@
       "onboard_time": 1761751521,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112562,
-      "num": 112562,
-      "word": "原来心梗是有征兆的",
-      "onboard_time": 1761979459,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 112554,
@@ -15235,6 +15275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109347,
+      "num": 128063,
+      "word": "文荣奖",
+      "onboard_time": 1761982460,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109242,
       "num": 127705,
       "word": "徐梦桃买车也要国家补贴",
@@ -15305,6 +15353,14 @@
       "onboard_time": 1761704779,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108928,
+      "num": 108928,
+      "word": "240斤女生为婚礼5个月瘦60斤",
+      "onboard_time": 1761981321,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108899,
@@ -15939,6 +15995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105375,
+      "num": 105375,
+      "word": "神秘富豪3.65亿捡漏深圳豪宅",
+      "onboard_time": 1761981980,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105345,
       "num": 153337,
       "word": "水龙吟12集是谁的一辈子",
@@ -16435,12 +16499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101561,
-      "num": 101561,
-      "word": "240斤女生为婚礼5个月瘦60斤",
-      "onboard_time": 1761981321,
-      "rank": 38,
-      "category": "运动健身"
+      "raw_hot": 101581,
+      "num": 101581,
+      "word": "长沙市运会开幕式出现王楚钦",
+      "onboard_time": 1761981681,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 101559,
@@ -16505,14 +16569,6 @@
       "onboard_time": 1761835521,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101240,
-      "num": 101240,
-      "word": "长沙市运会开幕式出现王楚钦",
-      "onboard_time": 1761981681,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 101222,
@@ -17371,14 +17427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95582,
-      "num": 95582,
-      "word": "这些公务员不能辞职",
-      "onboard_time": 1761981681,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95513,
       "num": 95513,
       "word": "回家发现爸爸认识姚琛爸妈",
@@ -17657,6 +17705,14 @@
       "onboard_time": 1761834682,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93714,
+      "num": 93714,
+      "word": "原来素颜也能当主播",
+      "onboard_time": 1761982521,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 93489,
@@ -18163,6 +18219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 90022,
+      "num": 163812,
+      "word": "王多多称T1暴露了很多破绽",
+      "onboard_time": 1761981379,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89972,
       "num": 89972,
       "word": "动物园回应1995年前出生可买老年票",
@@ -18459,6 +18523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87681,
+      "num": 162266,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87668,
       "num": 118044,
       "word": "11月",
@@ -18569,14 +18641,6 @@
       "onboard_time": 1761451099,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86322,
-      "num": 162266,
-      "word": "GEN对战KT",
-      "onboard_time": 1761981140,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 86249,
@@ -20323,6 +20387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66356,
+      "num": 150472,
+      "word": "郑丽文就职马英九哭了",
+      "onboard_time": 1761982339,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
@@ -21067,6 +21139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56774,
+      "num": 110773,
+      "word": "加拿大总理称旧的世界秩序不复存在",
+      "onboard_time": 1761981800,
+      "rank": 39,
+      "category": "国际时政,议题讨论"
+    },
+    {
       "raw_hot": 56766,
       "num": 132740,
       "word": "国家一级运动员捐3个器官2个组织",
@@ -21611,14 +21691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48538,
-      "num": 163812,
-      "word": "王多多称T1暴露了很多破绽",
-      "onboard_time": 1761981379,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 48456,
       "num": 167707,
       "word": "贷款炒金的黄金赌徒后悔了",
@@ -21896,6 +21968,14 @@
       "word": "科考人员发现1400年前人类活动遗迹",
       "onboard_time": 1761434418,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43794,
+      "num": 111037,
+      "word": "女装为何退货率高商家心里没数吗",
+      "onboard_time": 1761982221,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -22828,7 +22908,7 @@
     },
     {
       "raw_hot": 28604,
-      "num": 96569,
+      "num": 153884,
       "word": "高校职称晋升 金钱游戏",
       "onboard_time": 1761981740,
       "rank": 41,
@@ -23779,7 +23859,7 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 15537,
+      "raw_hot": 15549,
       "num": 163430,
       "word": "和花少7一起好状态迎接年终",
       "onboard_time": 1761980600,

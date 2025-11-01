@@ -1,0 +1,410 @@
+{
+  "runTime": 1761982605288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752671,
+        "num": 1120427,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 242878,
+        "num": 242878,
+        "word": "李沁告别花儿与少年",
+        "onboard_time": 1761979520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22259,
+        "num": 217958,
+        "word": "神二十一发射成功",
+        "onboard_time": 1761927561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418838,
+        "num": 209121,
+        "word": "钱天一王昶秀恩爱",
+        "onboard_time": 1761981501,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195907,
+        "num": 195907,
+        "word": "全红婵时隔183天参加正式比赛",
+        "onboard_time": 1761976941,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271290,
+        "num": 192015,
+        "word": "喜人奇妙夜 再见爱人",
+        "onboard_time": 1761971239,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186292,
+        "num": 186292,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158554,
+        "num": 158554,
+        "word": "杨瀚森首次被开拓者DNP",
+        "onboard_time": 1761975080,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157915,
+        "num": 157915,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112722,
+        "num": 157605,
+        "word": "268斤男子做切胃手术后在ICU身亡",
+        "onboard_time": 1761981921,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606158,
+        "num": 157211,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 156965,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 502961,
+        "num": 156363,
+        "word": "刘嘉玲 内娱文化冲击",
+        "onboard_time": 1761978740,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498868,
+        "num": 155872,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323795,
+        "num": 155101,
+        "word": "周洁琼报了关晓彤的仇",
+        "onboard_time": 1761978440,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34079,
+        "num": 154772,
+        "word": "孙颖莎东方美人",
+        "onboard_time": 1761979159,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286536,
+        "num": 154421,
+        "word": "手机一年一换竟然更省钱",
+        "onboard_time": 1761971120,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28217,
+        "num": 153884,
+        "word": "高校职称晋升 金钱游戏",
+        "onboard_time": 1761981740,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 90022,
+        "num": 153613,
+        "word": "王多多称T1暴露了很多破绽",
+        "onboard_time": 1761981379,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15549,
+        "num": 152916,
+        "word": "和花少7一起好状态迎接年终",
+        "onboard_time": 1761980600,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286331,
+        "num": 152276,
+        "word": "黄凯选迪丽热巴offer5知道吗",
+        "onboard_time": 1761979101,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252044,
+        "num": 151820,
+        "word": "十日终焉阵容",
+        "onboard_time": 1761970940,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218178,
+        "num": 151579,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202062,
+        "num": 151277,
+        "word": "王力宏把最后一排变成第一排",
+        "onboard_time": 1761981501,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66356,
+        "num": 150472,
+        "word": "郑丽文就职马英九哭了",
+        "onboard_time": 1761982339,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176610,
+        "num": 150234,
+        "word": "李冰冰大花含金量还在上升",
+        "onboard_time": 1761981259,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149858,
+        "num": 149858,
+        "word": "山东人蒸大馒头研究出了透明馒头",
+        "onboard_time": 1761973400,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149673,
+        "num": 149673,
+        "word": "深圳一独栋别墅法拍3.64亿元成交",
+        "onboard_time": 1761980721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148318,
+        "num": 148318,
+        "word": "找到我和猫都能吃很好的办法了",
+        "onboard_time": 1761981980,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78398,
+        "num": 146967,
+        "word": "伦纳德绝杀",
+        "onboard_time": 1761976521,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194617,
+        "num": 146948,
+        "word": "张翰给谈莉娜送了新婚祝福",
+        "onboard_time": 1761982100,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146847,
+        "num": 146847,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137856,
+        "num": 137856,
+        "word": "女子故意夹门赶地铁",
+        "onboard_time": 1761974781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128271,
+        "num": 128271,
+        "word": "要不给王赫野报工伤吧",
+        "onboard_time": 1761982161,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109347,
+        "num": 128063,
+        "word": "文荣奖",
+        "onboard_time": 1761982460,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127939,
+        "num": 127939,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116357,
+        "num": 116357,
+        "word": "原来心梗是有征兆的",
+        "onboard_time": 1761979459,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115745,
+        "num": 115745,
+        "word": "Angelababy期待马天宇新剧三人行",
+        "onboard_time": 1761979820,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43794,
+        "num": 111037,
+        "word": "女装为何退货率高商家心里没数吗",
+        "onboard_time": 1761982221,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56774,
+        "num": 110773,
+        "word": "加拿大总理称旧的世界秩序不复存在",
+        "onboard_time": 1761981800,
+        "rank": 39,
+        "category": "国际时政,议题讨论"
+      },
+      {
+        "raw_hot": 110731,
+        "num": 110731,
+        "word": "小狗疑被毒死女子辞职追凶3年",
+        "onboard_time": 1761965179,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108928,
+        "num": 108928,
+        "word": "240斤女生为婚礼5个月瘦60斤",
+        "onboard_time": 1761981321,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105375,
+        "num": 105375,
+        "word": "神秘富豪3.65亿捡漏深圳豪宅",
+        "onboard_time": 1761981980,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101581,
+        "num": 101581,
+        "word": "长沙市运会开幕式出现王楚钦",
+        "onboard_time": 1761981681,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57901,
+        "num": 94860,
+        "word": "潘展乐练瘦了",
+        "onboard_time": 1761981200,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94172,
+        "num": 94172,
+        "word": "杨国福1斤豆芽28元贵过山姆",
+        "onboard_time": 1761970459,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 93714,
+        "word": "原来素颜也能当主播",
+        "onboard_time": 1761982521,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92343,
+        "num": 92343,
+        "word": "李在明夫人穿韩服接待APEC夫人团",
+        "onboard_time": 1761980420,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88972,
+        "num": 88972,
+        "word": "刘亦菲演个恶女吧",
+        "onboard_time": 1761979159,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88895,
+        "num": 88895,
+        "word": "金店一边涨价一边关店",
+        "onboard_time": 1761977060,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出3点建议#"
+    }
+  }
+}
