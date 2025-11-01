@@ -1,0 +1,410 @@
+{
+  "runTime": 1761962426871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 275391,
+        "num": 1044062,
+        "word": "光与夜之恋",
+        "onboard_time": 1761959361,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236991,
+        "num": 236991,
+        "word": "十日终焉影视化",
+        "onboard_time": 1761953958,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61541,
+        "num": 218086,
+        "word": "神21创造一个最快纪录",
+        "onboard_time": 1761954800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283543,
+        "num": 216965,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215144,
+        "num": 215144,
+        "word": "A勒布伦惊天逆转张本智和",
+        "onboard_time": 1761959900,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182222,
+        "num": 182222,
+        "word": "多吃优质碳水能抗衰老",
+        "onboard_time": 1761959900,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177313,
+        "num": 177313,
+        "word": "光夜陆沉全知默示",
+        "onboard_time": 1761961880,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168768,
+        "num": 168768,
+        "word": "荷兰在安世半导体问题上进退两难",
+        "onboard_time": 1761953778,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166059,
+        "num": 166059,
+        "word": "光与夜之恋第六日之前",
+        "onboard_time": 1761961640,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433672,
+        "num": 165650,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1180605,
+        "num": 165190,
+        "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+        "onboard_time": 1761959600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345461,
+        "num": 163905,
+        "word": "耳聋小猫因为可爱被导演选中",
+        "onboard_time": 1761961220,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306620,
+        "num": 163423,
+        "word": "男子杀害发小妻儿3人假装不知情",
+        "onboard_time": 1761961280,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276767,
+        "num": 162284,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1761957080,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222367,
+        "num": 161251,
+        "word": "没人告诉我团播发展成这样了",
+        "onboard_time": 1761953657,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161175,
+        "num": 161175,
+        "word": "天才女友田曦薇胡一天表白戏",
+        "onboard_time": 1761955458,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157172,
+        "num": 157172,
+        "word": "光夜萧逸爱欲驯养",
+        "onboard_time": 1761961640,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125649,
+        "num": 156712,
+        "word": "冯淬帆曾悼念许绍雄",
+        "onboard_time": 1761961340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121225,
+        "num": 154978,
+        "word": "6名航天员共同在空间站约5天",
+        "onboard_time": 1761954559,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119173,
+        "num": 152003,
+        "word": "杨紫拍生命树高反到边说词边吸氧",
+        "onboard_time": 1761953838,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221734,
+        "num": 151812,
+        "word": "儿童性早熟的4个诱因",
+        "onboard_time": 1761957500,
+        "rank": 20,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 150101,
+        "num": 150101,
+        "word": "AG老板谈AL不敌T1",
+        "onboard_time": 1761953419,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148317,
+        "num": 148317,
+        "word": "张柏芝在炮火中心吃瓜",
+        "onboard_time": 1761958400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127988,
+        "num": 127988,
+        "word": "光夜查理苏悬顶之心",
+        "onboard_time": 1761961880,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123318,
+        "num": 123318,
+        "word": "中行农行收巨额罚单",
+        "onboard_time": 1761956960,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 120894,
+        "word": "原来小猫也会嫌弃自己脚臭",
+        "onboard_time": 1761959600,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118405,
+        "num": 118405,
+        "word": "长沙今日防空警报试鸣",
+        "onboard_time": 1761962121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115179,
+        "num": 115179,
+        "word": "为什么女装裤频频无中生裆",
+        "onboard_time": 1761916825,
+        "rank": 27,
+        "category": "议题讨论,时尚"
+      },
+      {
+        "raw_hot": 110505,
+        "num": 110505,
+        "word": "为父母补缴社保用光了购房首付",
+        "onboard_time": 1761908843,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49247,
+        "num": 106495,
+        "word": "将门毒后",
+        "onboard_time": 1761920664,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150136,
+        "num": 106244,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143689,
+        "num": 106192,
+        "word": "光夜齐司礼时序彼端",
+        "onboard_time": 1761961819,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105483,
+        "num": 105483,
+        "word": "麻辣烫店主离店2男孩对监控数签子",
+        "onboard_time": 1761961520,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103414,
+        "num": 103414,
+        "word": "联合国感谢中国缴清会费",
+        "onboard_time": 1761917423,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "高校规定学生没课也不能待宿舍",
+        "onboard_time": 1761959840,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 88475,
+        "word": "张远否认与王霏霏恋情",
+        "onboard_time": 1761919642,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87026,
+        "num": 87026,
+        "word": "A勒布伦3比2张本智和",
+        "onboard_time": 1761962059,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85892,
+        "num": 85892,
+        "word": "无忧老板邀请汪涵加入无忧",
+        "onboard_time": 1761957080,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83547,
+        "num": 83547,
+        "word": "中行回应被罚9790万",
+        "onboard_time": 1761962241,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 79740,
+        "num": 79740,
+        "word": "金卡戴珊质疑美国登月造假",
+        "onboard_time": 1761940333,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77557,
+        "num": 77557,
+        "word": "男童打针后去世母亲悲痛晕倒入院",
+        "onboard_time": 1761921204,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74738,
+        "num": 74738,
+        "word": "海底捞回应家长就餐区给孩子接尿",
+        "onboard_time": 1761920063,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71223,
+        "num": 71223,
+        "word": "Doinb谈LPL和LCK夺冠区别",
+        "onboard_time": 1761959840,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71008,
+        "num": 71008,
+        "word": "Yagao曝Lvmao要离队了",
+        "onboard_time": 1761961280,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166907,
+        "num": 70998,
+        "word": "4岁男童药店打针呕吐抽搐后死亡",
+        "onboard_time": 1761917242,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70978,
+        "num": 70978,
+        "word": "200多人投资5000多万血本无归",
+        "onboard_time": 1761961700,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67041,
+        "num": 67041,
+        "word": "原来这个世界上还有线条小狗",
+        "onboard_time": 1761961280,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66315,
+        "num": 66315,
+        "word": "美国政府停摆满月",
+        "onboard_time": 1761959539,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64845,
+        "num": 64845,
+        "word": "张本智和无缘八强",
+        "onboard_time": 1761961159,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39715,
+        "num": 64747,
+        "word": "刘宇宁上音综圆了男团梦",
+        "onboard_time": 1761957441,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作共赢才是越走越宽的人间正道#"
+    }
+  }
+}

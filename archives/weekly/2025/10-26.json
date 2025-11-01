@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761953767085,
+  "endTime": 1761962426871,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1283543,
+      "num": 216965,
+      "word": "冯淬帆去世",
+      "onboard_time": 1761959719,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1282932,
       "num": 348861,
       "word": "吴尊女儿neinei疑恋爱",
@@ -361,6 +369,14 @@
       "onboard_time": 1761465800,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1180605,
+      "num": 165190,
+      "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+      "onboard_time": 1761959600,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1162277,
@@ -3523,6 +3539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345461,
+      "num": 163905,
+      "word": "耳聋小猫因为可爱被导演选中",
+      "onboard_time": 1761961220,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345351,
       "num": 345351,
       "word": "谁家好剧集齐四个影帝",
@@ -3936,6 +3960,14 @@
       "word": "3女孩2个月将房子住包浆欠费跑路",
       "onboard_time": 1761476841,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306620,
+      "num": 163423,
+      "word": "男子杀害发小妻儿3人假装不知情",
+      "onboard_time": 1761961280,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -4387,12 +4419,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276767,
+      "num": 162284,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1761957080,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276728,
       "num": 968997,
       "word": "你们去过南昌的人嘴太严了",
       "onboard_time": 1761743062,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 275391,
+      "num": 1044062,
+      "word": "光与夜之恋",
+      "onboard_time": 1761711922,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 272412,
@@ -5035,6 +5083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236991,
+      "num": 236991,
+      "word": "十日终焉影视化",
+      "onboard_time": 1761953958,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236783,
       "num": 383882,
       "word": "APEC重要讲话",
@@ -5451,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222367,
+      "num": 161251,
+      "word": "没人告诉我团播发展成这样了",
+      "onboard_time": 1761953657,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 222347,
       "num": 222347,
       "word": "第一个让沈梦辰戴眼镜的人是个天才",
@@ -5489,6 +5553,14 @@
       "onboard_time": 1761721942,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221734,
+      "num": 151812,
+      "word": "儿童性早熟的4个诱因",
+      "onboard_time": 1761957500,
+      "rank": 20,
+      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 221244,
@@ -5649,6 +5721,14 @@
       "onboard_time": 1761482901,
       "rank": 30,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 215144,
+      "num": 215144,
+      "word": "A勒布伦惊天逆转张本智和",
+      "onboard_time": 1761959900,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 214944,
@@ -5825,14 +5905,6 @@
       "onboard_time": 1761694699,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210761,
-      "num": 210761,
-      "word": "光与夜之恋",
-      "onboard_time": 1761711922,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 210322,
@@ -7363,6 +7435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182222,
+      "num": 182222,
+      "word": "多吃优质碳水能抗衰老",
+      "onboard_time": 1761959900,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182079,
       "num": 182079,
       "word": "一诺这一次鸟巢见",
@@ -7601,6 +7681,14 @@
       "onboard_time": 1761919824,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177313,
+      "num": 177313,
+      "word": "光夜陆沉全知默示",
+      "onboard_time": 1761961880,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 177270,
@@ -8171,6 +8259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168768,
+      "num": 168768,
+      "word": "荷兰在安世半导体问题上进退两难",
+      "onboard_time": 1761953778,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168669,
       "num": 168669,
       "word": "剑网3 郭炜炜",
@@ -8329,6 +8425,14 @@
       "onboard_time": 1761639681,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 166059,
+      "num": 166059,
+      "word": "光与夜之恋第六日之前",
+      "onboard_time": 1761715941,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 165956,
@@ -8657,6 +8761,14 @@
       "onboard_time": 1761634282,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161175,
+      "num": 161175,
+      "word": "天才女友田曦薇胡一天表白戏",
+      "onboard_time": 1761955458,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 161166,
@@ -9001,6 +9113,14 @@
       "onboard_time": 1761735561,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157172,
+      "num": 157172,
+      "word": "光夜萧逸爱欲驯养",
+      "onboard_time": 1761961640,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 156966,
@@ -9611,6 +9731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150136,
+      "num": 106244,
+      "word": "Faker回应打LPL没输过",
+      "onboard_time": 1761961159,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 150101,
+      "num": 150101,
+      "word": "AG老板谈AL不敌T1",
+      "onboard_time": 1761953419,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150003,
       "num": 237640,
       "word": "留学9天19岁女孩被电诈后自杀",
@@ -9769,6 +9905,14 @@
       "onboard_time": 1761563240,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148317,
+      "num": 148317,
+      "word": "张柏芝在炮火中心吃瓜",
+      "onboard_time": 1761958400,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 148286,
@@ -10265,6 +10409,14 @@
       "onboard_time": 1761526642,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143689,
+      "num": 106192,
+      "word": "光夜齐司礼时序彼端",
+      "onboard_time": 1761961819,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 143600,
@@ -11923,6 +12075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127988,
+      "num": 127988,
+      "word": "光夜查理苏悬顶之心",
+      "onboard_time": 1761961880,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127758,
       "num": 127758,
       "word": "多名好友现身医院看望许绍雄",
@@ -12179,6 +12339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125649,
+      "num": 156712,
+      "word": "冯淬帆曾悼念许绍雄",
+      "onboard_time": 1761961340,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125642,
       "num": 408698,
       "word": "和千玺开启天猫旗舰新体验",
@@ -12363,14 +12531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124056,
-      "num": 124056,
-      "word": "光与夜之恋第六日之前",
-      "onboard_time": 1761715941,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124011,
       "num": 238888,
       "word": "吉林珲春5.5级地震",
@@ -12449,6 +12609,14 @@
       "onboard_time": 1761546800,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123318,
+      "num": 123318,
+      "word": "中行农行收巨额罚单",
+      "onboard_time": 1761956960,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 123290,
@@ -12667,6 +12835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121225,
+      "num": 154978,
+      "word": "6名航天员共同在空间站约5天",
+      "onboard_time": 1761954559,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121197,
       "num": 121197,
       "word": "办个eSIM怎么这么难",
@@ -12721,6 +12897,14 @@
       "onboard_time": 1761559881,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120894,
+      "num": 120894,
+      "word": "原来小猫也会嫌弃自己脚臭",
+      "onboard_time": 1761959600,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 120768,
@@ -12923,6 +13107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119173,
+      "num": 152003,
+      "word": "杨紫拍生命树高反到边说词边吸氧",
+      "onboard_time": 1761953838,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119090,
       "num": 201807,
       "word": "央视追踪卖粮28万账户遭冻结案",
@@ -13009,6 +13201,14 @@
       "onboard_time": 1761641241,
       "rank": 48,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 118405,
+      "num": 118405,
+      "word": "长沙今日防空警报试鸣",
+      "onboard_time": 1761962121,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118289,
@@ -14923,6 +15123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105483,
+      "num": 105483,
+      "word": "麻辣烫店主离店2男孩对监控数签子",
+      "onboard_time": 1761961520,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105480,
       "num": 136464,
       "word": "生命树首发杀青特辑",
@@ -15825,6 +16033,14 @@
       "onboard_time": 1761799524,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98801,
+      "num": 98801,
+      "word": "高校规定学生没课也不能待宿舍",
+      "onboard_time": 1761959840,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 98694,
@@ -17315,6 +17531,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 87026,
+      "num": 87026,
+      "word": "A勒布伦3比2张本智和",
+      "onboard_time": 1761962059,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86916,
       "num": 90808,
       "word": "又有新人歌手来修音响了",
@@ -17377,6 +17601,14 @@
       "onboard_time": 1761449000,
       "rank": 46,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 85892,
+      "num": 85892,
+      "word": "无忧老板邀请汪涵加入无忧",
+      "onboard_time": 1761957080,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 85886,
@@ -17601,6 +17833,14 @@
       "onboard_time": 1761457700,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83547,
+      "num": 83547,
+      "word": "中行回应被罚9790万",
+      "onboard_time": 1761962241,
+      "rank": 38,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 83510,
@@ -17939,14 +18179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80284,
-      "num": 84915,
-      "word": "AG老板谈AL不敌T1",
-      "onboard_time": 1761953419,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 79983,
       "num": 189794,
       "word": "TES不经夸",
@@ -18153,6 +18385,14 @@
       "onboard_time": 1761826041,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 77557,
+      "num": 77557,
+      "word": "男童打针后去世母亲悲痛晕倒入院",
+      "onboard_time": 1761921204,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77550,
@@ -18579,6 +18819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 71223,
+      "num": 71223,
+      "word": "Doinb谈LPL和LCK夺冠区别",
+      "onboard_time": 1761959840,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71210,
       "num": 71210,
       "word": "皇马vs巴萨",
@@ -18593,6 +18841,22 @@
       "onboard_time": 1761432675,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71008,
+      "num": 71008,
+      "word": "Yagao曝Lvmao要离队了",
+      "onboard_time": 1761961280,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 70978,
+      "num": 70978,
+      "word": "200多人投资5000多万血本无归",
+      "onboard_time": 1761961700,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 70664,
@@ -18803,6 +19067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67041,
+      "num": 67041,
+      "word": "原来这个世界上还有线条小狗",
+      "onboard_time": 1761961280,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66947,
       "num": 66947,
       "word": "网红罗大美遇害案三被告均上诉",
@@ -18889,6 +19161,14 @@
       "onboard_time": 1761658702,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66315,
+      "num": 66315,
+      "word": "美国政府停摆满月",
+      "onboard_time": 1761959539,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66163,
@@ -18993,6 +19273,14 @@
       "onboard_time": 1761727039,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64845,
+      "num": 64845,
+      "word": "张本智和无缘八强",
+      "onboard_time": 1761961159,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 64770,
@@ -19167,6 +19455,14 @@
       "num": 870512,
       "word": "12项重大部署看未来怎么干",
       "onboard_time": 1761534680,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61541,
+      "num": 218086,
+      "word": "神21创造一个最快纪录",
+      "onboard_time": 1761954800,
       "rank": 2,
       "category": "国内时政"
     },
@@ -20603,6 +20899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39715,
+      "num": 64747,
+      "word": "刘宇宁上音综圆了男团梦",
+      "onboard_time": 1761957441,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39481,
       "num": 101713,
       "word": "刘宇宁就这个纯正江湖味儿",
@@ -20897,14 +21201,6 @@
       "onboard_time": 1761553879,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 34978,
-      "num": 84886,
-      "word": "没人告诉我团播发展成这样了",
-      "onboard_time": 1761953657,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 34882,
