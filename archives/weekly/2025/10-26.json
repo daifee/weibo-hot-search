@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1762002072951,
+  "endTime": 1762003773814,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -97,6 +97,14 @@
       "onboard_time": 1761453259,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2062571,
+      "num": 1175021,
+      "word": "刘强东 从此在老婆面前没有了自信",
+      "onboard_time": 1762000102,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1921241,
@@ -521,14 +529,6 @@
       "onboard_time": 1761919463,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1093884,
-      "num": 1175021,
-      "word": "刘强东 从此在老婆面前没有了自信",
-      "onboard_time": 1762000102,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 1084149,
@@ -3003,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443472,
+      "num": 443472,
+      "word": "无限暖暖",
+      "onboard_time": 1761619759,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442878,
       "num": 413187,
       "word": "郭宇欣否认不会再演短剧了",
@@ -3483,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386869,
+      "num": 241446,
+      "word": "能先把肖战让给我们三体吗",
+      "onboard_time": 1761999981,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384678,
       "num": 257747,
       "word": "张馨予 真不把你们当外人",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1761561741,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 349081,
-      "num": 349081,
-      "word": "无限暖暖",
-      "onboard_time": 1761619759,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 348392,
@@ -4457,6 +4465,14 @@
       "onboard_time": 1761907583,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 301236,
+      "num": 301236,
+      "word": "泰州vs南通",
+      "onboard_time": 1761999441,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 301125,
@@ -5523,14 +5539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241446,
-      "num": 241446,
-      "word": "能先把肖战让给我们三体吗",
-      "onboard_time": 1761999981,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 241357,
       "num": 194140,
       "word": "韦雪张馨予与友人聚餐",
@@ -6051,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222707,
+      "num": 194380,
+      "word": "程晓玥生一胎把无痛打满了",
+      "onboard_time": 1762000521,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222474,
       "num": 213203,
       "word": "敖瑞鹏直播",
@@ -6225,6 +6241,14 @@
       "onboard_time": 1761918022,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218090,
+      "num": 218090,
+      "word": "第十一届文荣奖获奖名单",
+      "onboard_time": 1762001901,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 217490,
@@ -7291,6 +7315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194309,
+      "num": 194309,
+      "word": "小婴儿的核磁共振全是脑子",
+      "onboard_time": 1762000822,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194180,
       "num": 194180,
       "word": "美国重启核试验",
@@ -7955,14 +7987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 185399,
-      "num": 185399,
-      "word": "小婴儿的核磁共振全是脑子",
-      "onboard_time": 1762000822,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185363,
       "num": 231791,
       "word": "三人行今日开播",
@@ -8056,14 +8080,6 @@
       "word": "TVB今年去世的艺人",
       "onboard_time": 1761627624,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 184177,
-      "num": 184177,
-      "word": "程晓玥生一胎把无痛打满了",
-      "onboard_time": 1762000521,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -8329,14 +8345,6 @@
       "onboard_time": 1761974120,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178858,
-      "num": 243447,
-      "word": "泰州vs南通",
-      "onboard_time": 1761999441,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 178819,
@@ -8905,6 +8913,14 @@
       "onboard_time": 1761520039,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170989,
+      "num": 170989,
+      "word": "彭小苒从剧播出到现在没换过美甲",
+      "onboard_time": 1762002981,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 170834,
@@ -10483,6 +10499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152344,
+      "num": 152344,
+      "word": "多少钱能让卢昱晓把这条视频删了",
+      "onboard_time": 1762002923,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "马思纯 没有笑的义务",
@@ -11667,6 +11691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141469,
+      "num": 248424,
+      "word": "退货被指少退赠品遭扣232元",
+      "onboard_time": 1762000460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141381,
       "num": 141381,
       "word": "入青云直播",
@@ -12227,6 +12259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136165,
+      "num": 136165,
+      "word": "不知道朱珠在说什么光看脸了",
+      "onboard_time": 1762002923,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136158,
       "num": 136158,
       "word": "雷军发布小米汽车征战纽北纪录片",
@@ -12377,14 +12417,6 @@
       "onboard_time": 1761572422,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 134656,
-      "num": 134656,
-      "word": "第十一届文荣奖获奖名单",
-      "onboard_time": 1762001901,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 134651,
@@ -13203,6 +13235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128973,
+      "num": 128973,
+      "word": "邓家佳最近的衣橱我好爱",
+      "onboard_time": 1762002742,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128896,
       "num": 128896,
       "word": "网传赵丽颖出演开盘",
@@ -13697,14 +13737,6 @@
       "onboard_time": 1761993500,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125280,
-      "num": 248424,
-      "word": "退货被指少退赠品遭扣232元",
-      "onboard_time": 1762000460,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125210,
@@ -14779,6 +14811,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 117224,
+      "num": 117224,
+      "word": "给TES送考",
+      "onboard_time": 1762001302,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117195,
       "num": 117195,
       "word": "比跷二郎腿伤害更大的坐姿",
@@ -15091,14 +15131,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 115610,
-      "num": 115610,
-      "word": "给TES送考",
-      "onboard_time": 1762001302,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115596,
       "num": 115596,
       "word": "终于知道黑车怎么开到白车上了",
@@ -15145,6 +15177,14 @@
       "onboard_time": 1761795801,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115485,
+      "num": 115485,
+      "word": "王力宏支持所有人亲嘴自由",
+      "onboard_time": 1762002021,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 115439,
@@ -15313,6 +15353,14 @@
       "onboard_time": 1761749963,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113750,
+      "num": 113750,
+      "word": "谢娜给自己超级加辈上了",
+      "onboard_time": 1762003343,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 113720,
@@ -15833,6 +15881,14 @@
       "onboard_time": 1761915142,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110943,
+      "num": 122178,
+      "word": "这集把医保卡都刷爆了吧",
+      "onboard_time": 1762002441,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 110930,
@@ -17171,6 +17227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102561,
+      "num": 136991,
+      "word": "熊孩子违法年龄不是护身符",
+      "onboard_time": 1762002142,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102542,
       "num": 102542,
       "word": "云南禁止制售封建迷信丧葬用品",
@@ -18251,6 +18315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96001,
+      "num": 96001,
+      "word": "觉得自己闯祸了就来看翁青雅朱珠",
+      "onboard_time": 1762001481,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95871,
       "num": 134728,
       "word": "斗罗大陆动画10月美图",
@@ -18545,6 +18617,14 @@
       "onboard_time": 1761657621,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 94200,
+      "num": 91699,
+      "word": "米勒谈KT战胜GEN",
+      "onboard_time": 1762002380,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 94114,
@@ -19019,14 +19099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90800,
-      "num": 90800,
-      "word": "王力宏支持所有人亲嘴自由",
-      "onboard_time": 1762002021,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 90750,
       "num": 138704,
       "word": "维嘉说何老师是买单王",
@@ -19201,6 +19273,14 @@
       "onboard_time": 1761875540,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89757,
+      "num": 89757,
+      "word": "彝族女足走出山村亮相苏超",
+      "onboard_time": 1762003702,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 89698,
@@ -21915,6 +21995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59811,
+      "num": 112426,
+      "word": "美4000万人面临断粮",
+      "onboard_time": 1762003221,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59746,
       "num": 59746,
       "word": "3女孩租房住包浆跑路房东发声",
@@ -24011,6 +24099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29006,
+      "num": 250749,
+      "word": "京东苏超决赛直播",
+      "onboard_time": 1761998601,
+      "rank": 17,
+      "category": "体育,互联网"
+    },
+    {
       "raw_hot": 28968,
       "num": 109237,
       "word": "包上恩方再发说明",
@@ -24481,14 +24577,6 @@
       "onboard_time": 1761729981,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23364,
-      "num": 250749,
-      "word": "京东苏超决赛直播",
-      "onboard_time": 1761998601,
-      "rank": 17,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 23239,
