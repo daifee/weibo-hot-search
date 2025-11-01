@@ -1,0 +1,410 @@
+{
+  "runTime": 1762004455829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736722,
+        "num": 1117875,
+        "word": "苏超决赛直播",
+        "onboard_time": 1761998121,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499161,
+        "num": 499161,
+        "word": "泰州vs南通",
+        "onboard_time": 1761999441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7297,
+        "num": 452153,
+        "word": "APEC2026在深圳举办",
+        "onboard_time": 1761969860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446963,
+        "num": 446963,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392483,
+        "num": 392483,
+        "word": "无限暖暖",
+        "onboard_time": 1761999321,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211512,
+        "num": 211512,
+        "word": "第十一届文荣奖获奖名单",
+        "onboard_time": 1762001901,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195597,
+        "num": 195597,
+        "word": "KT战胜GEN",
+        "onboard_time": 1761994883,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188614,
+        "num": 188614,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169140,
+        "num": 169140,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1761993200,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159811,
+        "num": 159811,
+        "word": "彝族女足走出山村亮相苏超",
+        "onboard_time": 1762003702,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1983667,
+        "num": 159765,
+        "word": "刘强东 从此在老婆面前没有了自信",
+        "onboard_time": 1762000102,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 720508,
+        "num": 159652,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439033,
+        "num": 159597,
+        "word": "女子手镯10年未摘长进肉里",
+        "onboard_time": 1761993621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381849,
+        "num": 159497,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355256,
+        "num": 159421,
+        "word": "李茂自曝被亲戚骗光所有积蓄",
+        "onboard_time": 1761996259,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341832,
+        "num": 159361,
+        "word": "能先把肖战让给我们三体吗",
+        "onboard_time": 1761999981,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272096,
+        "num": 159219,
+        "word": "小米",
+        "onboard_time": 1762003823,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266916,
+        "num": 159148,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69074,
+        "num": 159131,
+        "word": "东莞一公园长凳装密集扶手被质疑",
+        "onboard_time": 1762004062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22845,
+        "num": 159042,
+        "word": "苏超决赛领免单",
+        "onboard_time": 1762000642,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382797,
+        "num": 158909,
+        "word": "爸爸去哪儿男生近照",
+        "onboard_time": 1761995000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274002,
+        "num": 158868,
+        "word": "昀牵孟绕",
+        "onboard_time": 1761992900,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262409,
+        "num": 158780,
+        "word": "多少钱能让卢昱晓把这条视频删了",
+        "onboard_time": 1762002923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253903,
+        "num": 158710,
+        "word": "著名音乐人屠颖离世",
+        "onboard_time": 1761995360,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241744,
+        "num": 158608,
+        "word": "程晓玥生一胎把无痛打满了",
+        "onboard_time": 1762000521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226768,
+        "num": 158538,
+        "word": "张柏芝拒绝儿子母亲节礼物",
+        "onboard_time": 1761995181,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158456,
+        "num": 158456,
+        "word": "Ruler失利之后哭了",
+        "onboard_time": 1761995722,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188457,
+        "num": 158316,
+        "word": "小婴儿的核磁共振全是脑子",
+        "onboard_time": 1762000822,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "退货被指少退赠品遭扣232元",
+        "onboard_time": 1762000460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152749,
+        "num": 152749,
+        "word": "彭小苒从剧播出到现在没换过美甲",
+        "onboard_time": 1762002981,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "网红胡楚靓左耳重度耳聋",
+        "onboard_time": 1761998180,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144502,
+        "num": 144502,
+        "word": "觉得自己闯祸了就来看翁青雅朱珠",
+        "onboard_time": 1762001481,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123484,
+        "num": 123484,
+        "word": "谢娜给自己超级加辈上了",
+        "onboard_time": 1762003343,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117868,
+        "num": 117868,
+        "word": "成都球迷涉嫌种族歧视被拘留",
+        "onboard_time": 1762004242,
+        "rank": 33,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 114357,
+        "num": 114357,
+        "word": "美军机连续坠入南海最新调查曝光",
+        "onboard_time": 1762004182,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113897,
+        "num": 113897,
+        "word": "给TES送考",
+        "onboard_time": 1762001302,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110606,
+        "num": 110606,
+        "word": "上海地铁回应老人坐女孩腿上事件",
+        "onboard_time": 1761998240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108309,
+        "num": 108309,
+        "word": "BDD太想赢了",
+        "onboard_time": 1762003942,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99980,
+        "num": 99980,
+        "word": "熊孩子违法年龄不是护身符",
+        "onboard_time": 1762002142,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56725,
+        "num": 98892,
+        "word": "美4000万人面临断粮",
+        "onboard_time": 1762003221,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98450,
+        "num": 98450,
+        "word": "米勒谈KT战胜GEN",
+        "onboard_time": 1762002380,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94569,
+        "num": 94569,
+        "word": "不知道朱珠在说什么光看脸了",
+        "onboard_time": 1762002923,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96649,
+        "num": 94496,
+        "word": "管泽元说GEN没人干净",
+        "onboard_time": 1761998841,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94247,
+        "num": 94247,
+        "word": "iPhone背面还可以这样用",
+        "onboard_time": 1761990439,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93535,
+        "num": 93535,
+        "word": "为研究生贺峻霖点灯",
+        "onboard_time": 1762001722,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93035,
+        "num": 93035,
+        "word": "李沁 慢热的人爱意最汹涌",
+        "onboard_time": 1762004423,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92631,
+        "num": 92631,
+        "word": "羽绒服基础搭配就不基础",
+        "onboard_time": 1762003761,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 88627,
+        "num": 88627,
+        "word": "林俊杰新歌首唱live",
+        "onboard_time": 1762004423,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88497,
+        "num": 88497,
+        "word": "Chovy世界赛成绩 8884844",
+        "onboard_time": 1761996020,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86528,
+        "num": 86528,
+        "word": "邓家佳最近的衣橱我好爱",
+        "onboard_time": 1762002742,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明举行会谈#"
+    }
+  }
+}

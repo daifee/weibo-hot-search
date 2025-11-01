@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762003773814,
+  "endTime": 1762004455829,
   "band_list": [
     {
       "raw_hot": 2334332,
@@ -115,6 +115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 736722,
+      "num": 1117875,
+      "word": "苏超决赛直播",
+      "onboard_time": 1761998121,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 733985,
       "num": 1117437,
       "word": "唐朝诡事录之长安",
@@ -193,14 +201,6 @@
       "onboard_time": 1761962780,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 599677,
-      "num": 1095948,
-      "word": "苏超决赛直播",
-      "onboard_time": 1761998121,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 588099,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499161,
+      "num": 499161,
+      "word": "泰州vs南通",
+      "onboard_time": 1761999441,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495289,
       "num": 246031,
       "word": "爸爸去哪儿男生近照",
@@ -313,6 +321,14 @@
       "onboard_time": 1761986660,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 446963,
+      "num": 446963,
+      "word": "苏超",
+      "onboard_time": 1761988880,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 444288,
@@ -361,14 +377,6 @@
       "onboard_time": 1761995722,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 398814,
-      "num": 398814,
-      "word": "苏超",
-      "onboard_time": 1761988880,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 395763,
@@ -523,14 +531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 301236,
-      "num": 301236,
-      "word": "泰州vs南通",
-      "onboard_time": 1761999441,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -579,6 +579,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 272096,
+      "num": 159219,
+      "word": "小米",
+      "onboard_time": 1762003823,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 267147,
       "num": 243593,
       "word": "怪不得刘嘉玲王菲那英是好朋友",
@@ -601,6 +609,14 @@
       "onboard_time": 1761999441,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262409,
+      "num": 158780,
+      "word": "多少钱能让卢昱晓把这条视频删了",
+      "onboard_time": 1762002923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 258662,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241744,
+      "num": 194380,
+      "word": "程晓玥生一胎把无痛打满了",
+      "onboard_time": 1762000521,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241707,
       "num": 241707,
       "word": "荷兰政府对企业内部事务不当干预",
@@ -697,14 +721,6 @@
       "onboard_time": 1761919883,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222707,
-      "num": 194380,
-      "word": "程晓玥生一胎把无痛打满了",
-      "onboard_time": 1762000521,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 222474,
@@ -1171,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159811,
+      "num": 159811,
+      "word": "彝族女足走出山村亮相苏超",
+      "onboard_time": 1762003702,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158589,
       "num": 158589,
       "word": "十个勤天 时间的参照物",
       "onboard_time": 1761988460,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157507,
+      "num": 248424,
+      "word": "退货被指少退赠品遭扣232元",
+      "onboard_time": 1762000460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157172,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1761993500,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152344,
-      "num": 152344,
-      "word": "多少钱能让卢昱晓把这条视频删了",
-      "onboard_time": 1762002923,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 152211,
@@ -1411,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144502,
+      "num": 144502,
+      "word": "觉得自己闯祸了就来看翁青雅朱珠",
+      "onboard_time": 1762001481,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143689,
       "num": 106192,
       "word": "光夜齐司礼时序彼端",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1761985040,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 141469,
-      "num": 248424,
-      "word": "退货被指少退赠品遭扣232元",
-      "onboard_time": 1762000460,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141092,
@@ -1731,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123484,
+      "num": 123484,
+      "word": "谢娜给自己超级加辈上了",
+      "onboard_time": 1762003343,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123318,
       "num": 123318,
       "word": "中行农行收巨额罚单",
@@ -1859,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117868,
+      "num": 117868,
+      "word": "成都球迷涉嫌种族歧视被拘留",
+      "onboard_time": 1762004242,
+      "rank": 33,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 117514,
       "num": 117514,
       "word": "iPhone18Pro八大升级",
@@ -1923,12 +1963,12 @@
       "category": "议题讨论,时尚"
     },
     {
-      "raw_hot": 113750,
-      "num": 113750,
-      "word": "谢娜给自己超级加辈上了",
-      "onboard_time": 1762003343,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 114357,
+      "num": 114357,
+      "word": "美军机连续坠入南海最新调查曝光",
+      "onboard_time": 1762004182,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113326,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1761977840,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108309,
+      "num": 108309,
+      "word": "BDD太想赢了",
+      "onboard_time": 1762003942,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 108265,
@@ -2315,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98450,
+      "num": 98450,
+      "word": "米勒谈KT战胜GEN",
+      "onboard_time": 1762002380,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98267,
       "num": 504150,
       "word": "731导演穿防弹衣出席日本试映",
@@ -2379,14 +2435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96001,
-      "num": 96001,
-      "word": "觉得自己闯祸了就来看翁青雅朱珠",
-      "onboard_time": 1762001481,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95677,
       "num": 178187,
       "word": "零跑月销从6万到7万凭啥这么快",
@@ -2427,20 +2475,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94200,
-      "num": 91699,
-      "word": "米勒谈KT战胜GEN",
-      "onboard_time": 1762002380,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 93278,
       "num": 150446,
       "word": "驻外分公司总经理被威逼利诱5小时",
       "onboard_time": 1761965121,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93035,
+      "num": 93035,
+      "word": "李沁 慢热的人爱意最汹涌",
+      "onboard_time": 1762004423,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92631,
+      "num": 92631,
+      "word": "羽绒服基础搭配就不基础",
+      "onboard_time": 1762003761,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 92509,
@@ -2515,14 +2571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89757,
-      "num": 89757,
-      "word": "彝族女足走出山村亮相苏超",
-      "onboard_time": 1762003702,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89619,
       "num": 89619,
       "word": "程潇我们录这个节目录得好不体面",
@@ -2561,6 +2609,14 @@
       "onboard_time": 1761985281,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88627,
+      "num": 88627,
+      "word": "林俊杰新歌首唱live",
+      "onboard_time": 1762004423,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 88577,
@@ -3008,6 +3064,14 @@
       "word": "教师反击媚男指控是一次法律公开课",
       "onboard_time": 1761974001,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69074,
+      "num": 159131,
+      "word": "东莞一公园长凳装密集扶手被质疑",
+      "onboard_time": 1762004062,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3610,6 +3674,9 @@
     },
     {
       "word": "#2025APEC领导人庆州宣言#"
+    },
+    {
+      "word": "#习近平同韩国总统李在明举行会谈#"
     }
   ]
 }
