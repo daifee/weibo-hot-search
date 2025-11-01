@@ -1,0 +1,410 @@
+{
+  "runTime": 1761989112169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 733985,
+        "num": 1117437,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371216,
+        "num": 371216,
+        "word": "高市早苗主动上前搂住智利总统",
+        "onboard_time": 1761986660,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23710,
+        "num": 339427,
+        "word": "APEC2026在深圳举办",
+        "onboard_time": 1761969860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338388,
+        "num": 338388,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258662,
+        "num": 258662,
+        "word": "Faker预测S15决赛对手",
+        "onboard_time": 1761985580,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205881,
+        "num": 205881,
+        "word": "郑丽文就职马英九哭了",
+        "onboard_time": 1761982339,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191024,
+        "num": 191024,
+        "word": "268斤男子做切胃手术后在ICU身亡",
+        "onboard_time": 1761981921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126322,
+        "num": 190714,
+        "word": "李沁告别花儿与少年",
+        "onboard_time": 1761979520,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13272,
+        "num": 189006,
+        "word": "中国第42次南极考察队从上海起航",
+        "onboard_time": 1761965059,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122658,
+        "num": 188919,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26192,
+        "num": 187566,
+        "word": "出行得流感怎么办",
+        "onboard_time": 1761984259,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1719411,
+        "num": 186162,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588099,
+        "num": 185717,
+        "word": "白宫马桶照片",
+        "onboard_time": 1761983480,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 526473,
+        "num": 184003,
+        "word": "老人地铁强坐女生腿上女生无奈报警",
+        "onboard_time": 1761983480,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340997,
+        "num": 183124,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329767,
+        "num": 182712,
+        "word": "张翰给谈莉娜送了新婚祝福",
+        "onboard_time": 1761982100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321358,
+        "num": 180800,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265416,
+        "num": 180023,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144902,
+        "num": 178866,
+        "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
+        "onboard_time": 1761987980,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73738,
+        "num": 178187,
+        "word": "零跑月销从6万到7万凭啥这么快",
+        "onboard_time": 1761986420,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 639975,
+        "num": 177317,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287871,
+        "num": 176058,
+        "word": "费曼杨阳洋互拍",
+        "onboard_time": 1761986600,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206687,
+        "num": 174841,
+        "word": "卢昱晓审丑积累中",
+        "onboard_time": 1761987980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194963,
+        "num": 174049,
+        "word": "钱天一王昶秀恩爱",
+        "onboard_time": 1761981501,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173485,
+        "num": 173485,
+        "word": "香港六旬男女在码头作不雅行为被捕",
+        "onboard_time": 1761987260,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172906,
+        "num": 172906,
+        "word": "杜海涛章泽天去看展了",
+        "onboard_time": 1761987741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158589,
+        "num": 158589,
+        "word": "十个勤天 时间的参照物",
+        "onboard_time": 1761988460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152211,
+        "num": 152211,
+        "word": "马思纯 没有笑的义务",
+        "onboard_time": 1761988522,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121109,
+        "num": 121109,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116861,
+        "num": 116861,
+        "word": "这件4000多年前的上古礼器有多绝",
+        "onboard_time": 1761987920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136187,
+        "num": 116362,
+        "word": "何泓姗 脸和性格各长各的",
+        "onboard_time": 1761986481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120192,
+        "num": 116332,
+        "word": "欧阳娜娜小孩装大人既视感",
+        "onboard_time": 1761988280,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115730,
+        "num": 115730,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111372,
+        "num": 111372,
+        "word": "流感H3N2毒株",
+        "onboard_time": 1761985160,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111057,
+        "num": 111057,
+        "word": "神秘富豪3.65亿捡漏深圳豪宅",
+        "onboard_time": 1761981980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109215,
+        "num": 109215,
+        "word": "35岁发现患二型糖尿病的原因",
+        "onboard_time": 1761982639,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108422,
+        "num": 108422,
+        "word": "于正内涵曾庆杰",
+        "onboard_time": 1761988941,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102717,
+        "num": 102717,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1761972141,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15515,
+        "num": 99623,
+        "word": "警方回应杭州男子当街虐狗",
+        "onboard_time": 1761988522,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31296,
+        "num": 98371,
+        "word": "10年后欧洲日本的衰落可能超乎想象",
+        "onboard_time": 1761987859,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104942,
+        "num": 98296,
+        "word": "女子故意夹门赶地铁",
+        "onboard_time": 1761974781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98182,
+        "num": 98182,
+        "word": "Uzi来S15线下了",
+        "onboard_time": 1761988280,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96993,
+        "num": 96993,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94970,
+        "num": 94970,
+        "word": "郑恺最近别出门了避避风头吧",
+        "onboard_time": 1761989060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94267,
+        "num": 94267,
+        "word": "杨国福回应1斤豆芽28元",
+        "onboard_time": 1761987741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92509,
+        "num": 92509,
+        "word": "一鸟传三代人走鸟还在",
+        "onboard_time": 1761988041,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86785,
+        "num": 90141,
+        "word": "苏新皓别喂了吃不过来了",
+        "onboard_time": 1761987620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90132,
+        "num": 90132,
+        "word": "中韩元首会谈",
+        "onboard_time": 1761985401,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78172,
+        "num": 87011,
+        "word": "文荣奖",
+        "onboard_time": 1761982460,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91520,
+        "num": 87004,
+        "word": "刘嘉玲 内娱文化冲击",
+        "onboard_time": 1761978740,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同开创可持续的美好明天#"
+    }
+  }
+}
