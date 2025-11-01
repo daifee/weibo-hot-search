@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762028715099,
+  "endTime": 1762029467083,
   "band_list": [
     {
       "raw_hot": 872476,
@@ -515,7 +515,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15546,
+      "raw_hot": 16973,
+      "num": 31311,
+      "word": "李在明说将致力于加强与中国合作",
+      "onboard_time": 1762026735,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15729,
       "num": 51765,
       "word": "村委会回应公园密集扶手已拆除",
       "onboard_time": 1762025774,
@@ -523,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15371,
-      "num": 30760,
-      "word": "李在明说将致力于加强与中国合作",
-      "onboard_time": 1762026735,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12266,
-      "num": 30734,
+      "raw_hot": 12859,
+      "num": 31304,
       "word": "一场在博物馆举行的欢迎仪式",
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11695,
+      "num": 31303,
+      "word": "现在小孩的玩具真高级",
+      "onboard_time": 1762029435,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
