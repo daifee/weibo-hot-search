@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761982605288,
+  "endTime": 1761985857613,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -145,6 +145,14 @@
       "onboard_time": 1761906383,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1710080,
+      "num": 171546,
+      "word": "花少6小团体好明显",
+      "onboard_time": 1761983360,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1699534,
@@ -2843,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444288,
+      "num": 267894,
+      "word": "268斤男子做切胃手术后在ICU身亡",
+      "onboard_time": 1761981921,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442878,
       "num": 413187,
       "word": "郭宇欣否认不会再演短剧了",
@@ -3044,7 +3060,7 @@
     },
     {
       "raw_hot": 418838,
-      "num": 209121,
+      "num": 256580,
       "word": "钱天一王昶秀恩爱",
       "onboard_time": 1761981501,
       "rank": 17,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1761484880,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 404698,
+      "num": 169081,
+      "word": "张翰给谈莉娜送了新婚祝福",
+      "onboard_time": 1761982100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 404688,
@@ -3539,6 +3563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359091,
+      "num": 164887,
+      "word": "老人地铁强坐女生腿上女生无奈报警",
+      "onboard_time": 1761983480,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358003,
       "num": 289244,
       "word": "警方通报女子驾车撞上半挂致5死",
@@ -3875,6 +3907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325851,
+      "num": 137405,
+      "word": "白宫马桶照片",
+      "onboard_time": 1761983480,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 325560,
       "num": 346566,
       "word": "满天星簪花",
@@ -4203,6 +4243,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 302242,
+      "num": 164019,
+      "word": "恶心穿搭",
+      "onboard_time": 1761979101,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301460,
       "num": 301460,
       "word": "AL对战T1决胜局",
@@ -4345,6 +4393,14 @@
       "onboard_time": 1761816382,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292408,
+      "num": 1046785,
+      "word": "郑丽文就职马英九哭了",
+      "onboard_time": 1761982339,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 292000,
@@ -4617,6 +4673,14 @@
       "onboard_time": 1761743062,
       "rank": 3,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 276045,
+      "num": 276045,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1761984621,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 275391,
@@ -5019,6 +5083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249387,
+      "num": 249387,
+      "word": "李沁告别花儿与少年",
+      "onboard_time": 1761979520,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249370,
       "num": 249370,
       "word": "沈腾 出发团唯一女主角",
@@ -5177,14 +5249,6 @@
       "onboard_time": 1761615501,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 242878,
-      "num": 242878,
-      "word": "李沁告别花儿与少年",
-      "onboard_time": 1761979520,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 242354,
@@ -6907,6 +6971,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 195425,
+      "num": 160638,
+      "word": "房子基础穷装就不基础",
+      "onboard_time": 1761984921,
+      "rank": 20,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 195357,
       "num": 114424,
       "word": "转运坠床新生儿生命体征平稳",
@@ -6929,14 +7001,6 @@
       "onboard_time": 1761559221,
       "rank": 23,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 194617,
-      "num": 146948,
-      "word": "张翰给谈莉娜送了新婚祝福",
-      "onboard_time": 1761982100,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 194438,
@@ -7089,6 +7153,14 @@
       "onboard_time": 1761745642,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192538,
+      "num": 192538,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 192483,
@@ -8273,6 +8345,14 @@
       "onboard_time": 1761644301,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 173801,
+      "num": 173801,
+      "word": "文荣奖",
+      "onboard_time": 1761982460,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173738,
@@ -10315,6 +10395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149070,
+      "num": 149070,
+      "word": "神秘富豪3.65亿捡漏深圳豪宅",
+      "onboard_time": 1761981980,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149066,
       "num": 269989,
       "word": "郑丽文正式就任国民党主席",
@@ -10579,14 +10667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146847,
-      "num": 146847,
-      "word": "恶心穿搭",
-      "onboard_time": 1761979101,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146691,
       "num": 149060,
       "word": "卢浮宫劫案2名涉案嫌疑人已被捕",
@@ -10673,6 +10753,14 @@
       "onboard_time": 1761879440,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146021,
+      "num": 167557,
+      "word": "成毅天地剑心撕漫感大片",
+      "onboard_time": 1761984080,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 145909,
@@ -12299,6 +12387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131154,
+      "num": 131154,
+      "word": "35岁发现患二型糖尿病的原因",
+      "onboard_time": 1761982639,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131144,
       "num": 131144,
       "word": "郭宇欣演过承欢记",
@@ -12684,7 +12780,7 @@
     },
     {
       "raw_hot": 127939,
-      "num": 127939,
+      "num": 141799,
       "word": "这些公务员不能辞职",
       "onboard_time": 1761981681,
       "rank": 42,
@@ -12937,6 +13033,14 @@
       "onboard_time": 1761461540,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125789,
+      "num": 144124,
+      "word": "文荣奖红毯",
+      "onboard_time": 1761984740,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 125769,
@@ -13579,6 +13683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120773,
+      "num": 120773,
+      "word": "84岁日本赌王遭子女设局痛失财产",
+      "onboard_time": 1761985040,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120768,
       "num": 120768,
       "word": "彭小苒哭成了肿眼泡",
@@ -13625,6 +13737,14 @@
       "onboard_time": 1761552023,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120348,
+      "num": 120348,
+      "word": "流感H3N2毒株",
+      "onboard_time": 1761985160,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120269,
@@ -14771,14 +14891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112722,
-      "num": 157605,
-      "word": "268斤男子做切胃手术后在ICU身亡",
-      "onboard_time": 1761981921,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112683,
       "num": 112683,
       "word": "52岁女子试管怀上双胎还遇上早产",
@@ -15273,14 +15385,6 @@
       "onboard_time": 1761717620,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109347,
-      "num": 128063,
-      "word": "文荣奖",
-      "onboard_time": 1761982460,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 109242,
@@ -15993,14 +16097,6 @@
       "onboard_time": 1761891682,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105375,
-      "num": 105375,
-      "word": "神秘富豪3.65亿捡漏深圳豪宅",
-      "onboard_time": 1761981980,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105345,
@@ -16843,6 +16939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99587,
+      "num": 99587,
+      "word": "原来素颜也能当主播",
+      "onboard_time": 1761982521,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99581,
       "num": 99581,
       "word": "四个周杰伦等于一个月杰伦",
@@ -16905,6 +17009,14 @@
       "onboard_time": 1761621264,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99051,
+      "num": 99051,
+      "word": "Uzi预测比分",
+      "onboard_time": 1761983840,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 99047,
@@ -17363,6 +17475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96083,
+      "num": 96083,
+      "word": "李一桐现在理解尼格买提了吧",
+      "onboard_time": 1761984199,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96049,
       "num": 123863,
       "word": "中美进行了建设性探讨",
@@ -17705,14 +17825,6 @@
       "onboard_time": 1761834682,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93714,
-      "num": 93714,
-      "word": "原来素颜也能当主播",
-      "onboard_time": 1761982521,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 93489,
@@ -18091,6 +18203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90943,
+      "num": 90943,
+      "word": "吴邪私家笔记",
+      "onboard_time": 1761983959,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90872,
       "num": 134476,
       "word": "孟子义甜妹到虎妞只需一个词",
@@ -18291,6 +18411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89607,
+      "num": 161777,
+      "word": "Faker预测S15决赛对手",
+      "onboard_time": 1761985580,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89492,
       "num": 89492,
       "word": "医生建议不要频繁洗澡",
@@ -18385,6 +18513,14 @@
       "onboard_time": 1761798563,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88715,
+      "num": 88715,
+      "word": "孙颖莎小伸懒腰",
+      "onboard_time": 1761985281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88620,
@@ -18521,14 +18657,6 @@
       "onboard_time": 1761973821,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87681,
-      "num": 162266,
-      "word": "GEN对战KT",
-      "onboard_time": 1761981140,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 87668,
@@ -19049,6 +19177,14 @@
       "onboard_time": 1761578422,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 82698,
+      "num": 93695,
+      "word": "范丞丞王安宇 姜妍救完这个救那个",
+      "onboard_time": 1761984439,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 82675,
@@ -19995,6 +20131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71487,
+      "num": 127983,
+      "word": "胖东来2万元参访不到2小时报满",
+      "onboard_time": 1761984021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71444,
       "num": 97266,
       "word": "内娱首个用手机拍MV的男团",
@@ -20387,14 +20531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66356,
-      "num": 150472,
-      "word": "郑丽文就职马英九哭了",
-      "onboard_time": 1761982339,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
@@ -20729,6 +20865,14 @@
       "onboard_time": 1761607218,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 61316,
+      "num": 100035,
+      "word": "Tabe职业生涯S赛交手Faker战绩",
+      "onboard_time": 1761984621,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 61263,
@@ -23001,6 +23145,14 @@
       "onboard_time": 1761818601,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27425,
+      "num": 170217,
+      "word": "出行得流感怎么办",
+      "onboard_time": 1761984259,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27273,

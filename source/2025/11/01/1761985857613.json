@@ -1,0 +1,410 @@
+{
+  "runTime": 1761985857613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 292408,
+        "num": 1046785,
+        "word": "郑丽文就职马英九哭了",
+        "onboard_time": 1761982339,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276045,
+        "num": 276045,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30408,
+        "num": 270872,
+        "word": "神二十一发射成功",
+        "onboard_time": 1761927561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444288,
+        "num": 267894,
+        "word": "268斤男子做切胃手术后在ICU身亡",
+        "onboard_time": 1761981921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388334,
+        "num": 256580,
+        "word": "钱天一王昶秀恩爱",
+        "onboard_time": 1761981501,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626422,
+        "num": 255470,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249387,
+        "num": 249387,
+        "word": "李沁告别花儿与少年",
+        "onboard_time": 1761979520,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192538,
+        "num": 192538,
+        "word": "GEN对战KT",
+        "onboard_time": 1761981140,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173801,
+        "num": 173801,
+        "word": "文荣奖",
+        "onboard_time": 1761982460,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127979,
+        "num": 173276,
+        "word": "杨瀚森首次被开拓者DNP",
+        "onboard_time": 1761975080,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1710080,
+        "num": 171546,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547849,
+        "num": 170878,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27425,
+        "num": 170217,
+        "word": "出行得流感怎么办",
+        "onboard_time": 1761984259,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404698,
+        "num": 169081,
+        "word": "张翰给谈莉娜送了新婚祝福",
+        "onboard_time": 1761982100,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146021,
+        "num": 167557,
+        "word": "成毅天地剑心撕漫感大片",
+        "onboard_time": 1761984080,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378351,
+        "num": 166419,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359091,
+        "num": 164887,
+        "word": "老人地铁强坐女生腿上女生无奈报警",
+        "onboard_time": 1761983480,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302242,
+        "num": 164019,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240588,
+        "num": 162466,
+        "word": "刘嘉玲 内娱文化冲击",
+        "onboard_time": 1761978740,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89607,
+        "num": 161777,
+        "word": "Faker预测S15决赛对手",
+        "onboard_time": 1761985580,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195425,
+        "num": 160638,
+        "word": "房子基础穷装就不基础",
+        "onboard_time": 1761984921,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 193777,
+        "num": 159114,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187079,
+        "num": 157378,
+        "word": "周洁琼报了关晓彤的仇",
+        "onboard_time": 1761978440,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157331,
+        "num": 157331,
+        "word": "手机一年一换竟然更省钱",
+        "onboard_time": 1761971120,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149070,
+        "num": 149070,
+        "word": "神秘富豪3.65亿捡漏深圳豪宅",
+        "onboard_time": 1761981980,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144668,
+        "num": 144668,
+        "word": "黄凯选迪丽热巴offer5知道吗",
+        "onboard_time": 1761979101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125789,
+        "num": 144124,
+        "word": "文荣奖红毯",
+        "onboard_time": 1761984740,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121580,
+        "num": 141799,
+        "word": "这些公务员不能辞职",
+        "onboard_time": 1761981681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108460,
+        "num": 141138,
+        "word": "全红婵时隔183天参加正式比赛",
+        "onboard_time": 1761976941,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64480,
+        "num": 139613,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 325851,
+        "num": 137405,
+        "word": "白宫马桶照片",
+        "onboard_time": 1761983480,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136507,
+        "num": 136507,
+        "word": "李冰冰大花含金量还在上升",
+        "onboard_time": 1761981259,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131154,
+        "num": 131154,
+        "word": "35岁发现患二型糖尿病的原因",
+        "onboard_time": 1761982639,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128348,
+        "num": 128348,
+        "word": "十日终焉阵容",
+        "onboard_time": 1761970940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71487,
+        "num": 127983,
+        "word": "胖东来2万元参访不到2小时报满",
+        "onboard_time": 1761984021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127820,
+        "num": 127820,
+        "word": "女子故意夹门赶地铁",
+        "onboard_time": 1761974781,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "喜人奇妙夜 再见爱人",
+        "onboard_time": 1761971239,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120773,
+        "num": 120773,
+        "word": "84岁日本赌王遭子女设局痛失财产",
+        "onboard_time": 1761985040,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120348,
+        "num": 120348,
+        "word": "流感H3N2毒株",
+        "onboard_time": 1761985160,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101399,
+        "num": 101399,
+        "word": "山东人蒸大馒头研究出了透明馒头",
+        "onboard_time": 1761973400,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61316,
+        "num": 100035,
+        "word": "Tabe职业生涯S赛交手Faker战绩",
+        "onboard_time": 1761984621,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99587,
+        "num": 99587,
+        "word": "原来素颜也能当主播",
+        "onboard_time": 1761982521,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99051,
+        "num": 99051,
+        "word": "Uzi预测比分",
+        "onboard_time": 1761983840,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96083,
+        "num": 96083,
+        "word": "李一桐现在理解尼格买提了吧",
+        "onboard_time": 1761984199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82698,
+        "num": 93695,
+        "word": "范丞丞王安宇 姜妍救完这个救那个",
+        "onboard_time": 1761984439,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93333,
+        "num": 93333,
+        "word": "王力宏把最后一排变成第一排",
+        "onboard_time": 1761981501,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93290,
+        "num": 93290,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90943,
+        "num": 90943,
+        "word": "吴邪私家笔记",
+        "onboard_time": 1761983959,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88715,
+        "num": 88715,
+        "word": "孙颖莎小伸懒腰",
+        "onboard_time": 1761985281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86231,
+        "num": 86231,
+        "word": "原来心梗是有征兆的",
+        "onboard_time": 1761979459,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同开创可持续的美好明天#"
+    }
+  }
+}
