@@ -1,10 +1,18 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761969437859,
+  "endTime": 1761971343567,
   "band_list": [
     {
+      "raw_hot": 1797747,
+      "num": 1797747,
+      "word": "时代少年团六周年演唱会",
+      "onboard_time": 1761970640,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1283543,
-      "num": 257326,
+      "num": 261802,
       "word": "冯淬帆去世",
       "onboard_time": 1761959719,
       "rank": 3,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1180605,
-      "num": 170670,
+      "num": 228255,
       "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
       "onboard_time": 1761959600,
       "rank": 10,
@@ -36,10 +44,18 @@
     },
     {
       "raw_hot": 1048325,
-      "num": 165032,
+      "num": 183015,
       "word": "倪妮名誉维权声明",
       "onboard_time": 1761966920,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 850311,
+      "num": 228332,
+      "word": "程晓玥官宣二胎",
+      "onboard_time": 1761969740,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -51,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 638582,
+      "num": 228307,
+      "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+      "onboard_time": 1761967220,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609560,
       "num": 1097529,
       "word": "黄金有关税收政策公告来了",
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 560101,
-      "num": 165073,
+      "num": 182750,
       "word": "男子杀害发小妻儿3人假装不知情",
       "onboard_time": 1761961280,
       "rank": 12,
@@ -75,24 +99,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 525935,
-      "num": 167922,
-      "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
-      "onboard_time": 1761967220,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489266,
-      "num": 171249,
+      "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
       "onboard_time": 1761965059,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 468017,
-      "num": 243536,
+      "raw_hot": 473493,
+      "num": 255315,
       "word": "小狗疑被毒死女子辞职追凶3年",
       "onboard_time": 1761965179,
       "rank": 5,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 395763,
-      "num": 169188,
+      "num": 219618,
       "word": "陈乔恩说带孩子辛苦所以选择在外工作",
       "onboard_time": 1761965059,
       "rank": 14,
@@ -145,6 +161,14 @@
       "onboard_time": 1761908843,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306478,
+      "num": 228193,
+      "word": "向太直言统一是破局钥匙",
+      "onboard_time": 1761968660,
+      "rank": 30,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 303923,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 251016,
-      "num": 167206,
+      "num": 228055,
       "word": "严屹宽还在穿20年前的衣服",
       "onboard_time": 1761966199,
       "rank": 27,
@@ -209,6 +233,22 @@
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228514,
+      "num": 228514,
+      "word": "十日终焉阵容",
+      "onboard_time": 1761970940,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228043,
+      "num": 228043,
+      "word": "上班的隐形成本真的很高",
+      "onboard_time": 1761970099,
+      "rank": 17,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 227795,
@@ -283,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205248,
+      "num": 182423,
+      "word": "时代少年团台历",
+      "onboard_time": 1761970699,
+      "rank": 23,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 204458,
       "num": 504054,
       "word": "曾庆杰手滑",
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 193088,
-      "num": 193088,
+      "num": 228411,
       "word": "年轻人爱上越剧",
       "onboard_time": 1761962780,
       "rank": 9,
@@ -337,6 +385,30 @@
       "onboard_time": 1761917423,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183677,
+      "num": 183677,
+      "word": "手机一年一换竟然更省钱",
+      "onboard_time": 1761971120,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182017,
+      "num": 182017,
+      "word": "杨国福1斤豆芽28元贵过山姆",
+      "onboard_time": 1761970459,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181219,
+      "num": 228469,
+      "word": "APEC2026在深圳举办",
+      "onboard_time": 1761969860,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181162,
@@ -371,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176209,
+      "num": 176209,
+      "word": "蔡依林也摆了徐冬冬出圈pose",
+      "onboard_time": 1761970340,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172301,
       "num": 172301,
       "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
@@ -385,6 +465,14 @@
       "onboard_time": 1761953778,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168165,
+      "num": 168165,
+      "word": "宣璐cos辛德瑞拉",
+      "onboard_time": 1761970401,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 166059,
@@ -403,6 +491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 162658,
+      "num": 162658,
+      "word": "包上恩更新ins",
+      "onboard_time": 1761971239,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161175,
       "num": 161175,
       "word": "天才女友田曦薇胡一天表白戏",
@@ -411,20 +507,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159619,
-      "num": 150812,
-      "word": "向太直言统一是破局钥匙",
-      "onboard_time": 1761968660,
-      "rank": 30,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 157172,
       "num": 157172,
       "word": "光夜萧逸爱欲驯养",
       "onboard_time": 1761961640,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155247,
+      "num": 155247,
+      "word": "Ning为Tarzan鸣不平",
+      "onboard_time": 1761970820,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 150161,
+      "num": 150161,
+      "word": "他们能结婚是我工作上的疏忽",
+      "onboard_time": 1761970220,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 150101,
@@ -579,6 +683,14 @@
       "category": "议题讨论,时尚"
     },
     {
+      "raw_hot": 114617,
+      "num": 114617,
+      "word": "眉压眼和眉包眼的区别",
+      "onboard_time": 1761970401,
+      "rank": 37,
+      "category": "美妆,休闲"
+    },
+    {
       "raw_hot": 108393,
       "num": 150390,
       "word": "中国航天一箭穿月",
@@ -633,6 +745,14 @@
       "onboard_time": 1761959840,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101208,
+      "num": 101208,
+      "word": "车主选中尾号6646号牌被告知作废",
+      "onboard_time": 1761970999,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99650,
@@ -699,6 +819,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94826,
+      "num": 94826,
+      "word": "喜人奇妙夜 再见爱人",
+      "onboard_time": 1761971239,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94445,
+      "num": 94445,
+      "word": "张峻豪黑胶",
+      "onboard_time": 1761970280,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93278,
       "num": 150446,
       "word": "驻外分公司总经理被威逼利诱5小时",
@@ -708,7 +844,7 @@
     },
     {
       "raw_hot": 90823,
-      "num": 90823,
+      "num": 228462,
       "word": "神20神21航天员笑得好灿烂",
       "onboard_time": 1761959361,
       "rank": 37,
@@ -753,6 +889,14 @@
       "onboard_time": 1761952637,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87276,
+      "num": 114190,
+      "word": "中级经济师",
+      "onboard_time": 1761970520,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 87026,
@@ -931,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72534,
+      "num": 108165,
+      "word": "龚俊暗河传拿了一周榜1",
+      "onboard_time": 1761971301,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71286,
       "num": 503871,
       "word": "官方通报长沙一店铺脚手架局部垮塌",
@@ -1059,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63513,
+      "num": 183294,
+      "word": "毒营养土公司年销上亿",
+      "onboard_time": 1761970099,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62352,
       "num": 503850,
       "word": "男子无培训上班第一天害死同事",
@@ -1073,6 +1233,14 @@
       "onboard_time": 1761918083,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60877,
+      "num": 155474,
+      "word": "接到王鹤棣的视频电话了",
+      "onboard_time": 1761969980,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 59729,
@@ -1153,6 +1321,14 @@
       "onboard_time": 1761920664,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52467,
+      "num": 109926,
+      "word": "舒淇能叫出每一只熊猫的名字",
+      "onboard_time": 1761970099,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 47012,
@@ -1251,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27287,
+      "num": 228147,
+      "word": "2025感谢庆典",
+      "onboard_time": 1761969980,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23482,
       "num": 117264,
       "word": "蓉城提前一轮无缘争冠",
@@ -1273,6 +1457,14 @@
       "onboard_time": 1761952037,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17212,
+      "num": 106233,
+      "word": "这部剧不能让秦海璐刷到",
+      "onboard_time": 1761970099,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 13288,
