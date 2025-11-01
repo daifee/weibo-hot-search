@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 02:32:24
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 02:44:46
 </p>
 </blockquote>
 <p>
@@ -371,6 +371,12 @@ DRG对战狼队（热度：76842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E6%98%AF%E4%B8%80%E5%9C%BA%E7%9B%9B%E5%A4%A7%E7%9A%84%E6%B1%9F%E6%B9%96%E6%82%B2%E6%AD%8C%23" target="weibo">
 暗河传是一场盛大的江湖悲歌（热度：23318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E7%85%BD%E6%83%85%E4%B8%8D%E5%BF%98%E7%8E%A9%E6%A2%97%23" target="weibo">
+汪苏泷演唱会煽情不忘玩梗（热度：22986）
 </a>
 </li>
 

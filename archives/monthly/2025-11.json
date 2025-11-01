@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762021944289,
+  "endTime": 1762022686882,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -4161,6 +4161,14 @@
       "onboard_time": 1762021815,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22986,
+      "num": 62548,
+      "word": "汪苏泷演唱会煽情不忘玩梗",
+      "onboard_time": 1762022594,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 22054,
