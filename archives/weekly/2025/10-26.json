@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761978923949,
+  "endTime": 1761979614829,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -2267,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531922,
+      "num": 217017,
+      "word": "出差遭性侵检方不起诉女子发声",
+      "onboard_time": 1761976819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531544,
       "num": 531544,
       "word": "中国年龄最小的航天员",
@@ -3080,14 +3088,6 @@
       "word": "奶皮子糖葫芦卖到40元一串",
       "onboard_time": 1761642862,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412687,
-      "num": 217017,
-      "word": "出差遭性侵检方不起诉女子发声",
-      "onboard_time": 1761976819,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -4179,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301101,
+      "num": 194502,
+      "word": "周洁琼报了关晓彤的仇",
+      "onboard_time": 1761978440,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300991,
       "num": 476053,
       "word": "日本网民怒批高市早苗谄媚",
@@ -4816,6 +4824,14 @@
       "word": "奔跑吧五颜六色的头发",
       "onboard_time": 1761578781,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256739,
+      "num": 156122,
+      "word": "黄凯选迪丽热巴offer5知道吗",
+      "onboard_time": 1761979101,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -6867,14 +6883,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "周洁琼报了关晓彤的仇",
-      "onboard_time": 1761978440,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194438,
       "num": 218233,
       "word": "暗河传官微 进高人了",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1761745642,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192521,
+      "num": 155840,
+      "word": "iPhone18Pro前瞻",
+      "onboard_time": 1761978860,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 192483,
@@ -10091,6 +10107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150649,
+      "num": 218465,
+      "word": "伦纳德绝杀",
+      "onboard_time": 1761976521,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150556,
       "num": 150556,
       "word": "养成系李莲花",
@@ -11188,7 +11212,7 @@
     },
     {
       "raw_hot": 138953,
-      "num": 138953,
+      "num": 155996,
       "word": "刘嘉玲 内娱文化冲击",
       "onboard_time": 1761978740,
       "rank": 31,
@@ -11747,14 +11771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133893,
-      "num": 218465,
-      "word": "伦纳德绝杀",
-      "onboard_time": 1761976521,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133875,
       "num": 133875,
       "word": "那些能支撑你走很久的话",
@@ -12233,14 +12249,6 @@
       "onboard_time": 1761476841,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130984,
-      "num": 130984,
-      "word": "iPhone18Pro前瞻",
-      "onboard_time": 1761978860,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 130677,
@@ -12827,6 +12835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125790,
+      "num": 125790,
+      "word": "李沁告别花儿与少年",
+      "onboard_time": 1761979520,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125769,
       "num": 125769,
       "word": "厂家称二三十年不粘不锈铁锅已停产",
@@ -13049,6 +13065,14 @@
       "onboard_time": 1761744320,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124079,
+      "num": 124079,
+      "word": "恶心穿搭",
+      "onboard_time": 1761979101,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 124064,
@@ -14803,6 +14827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111717,
+      "num": 111717,
+      "word": "刘亦菲演个恶女吧",
+      "onboard_time": 1761979159,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111700,
       "num": 111700,
       "word": "穆祉丞王牌封面好敢",
@@ -15371,6 +15403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107996,
+      "num": 107996,
+      "word": "内娱真有正主嗑自己cp",
+      "onboard_time": 1761978379,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107987,
       "num": 107987,
       "word": "糖粘到什么卖什么",
@@ -15641,6 +15681,14 @@
       "onboard_time": 1761554421,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106338,
+      "num": 106338,
+      "word": "李施嬅 车崇健",
+      "onboard_time": 1761979159,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106277,
@@ -16475,14 +16523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100464,
-      "num": 100464,
-      "word": "内娱真有正主嗑自己cp",
-      "onboard_time": 1761978379,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100413,
       "num": 100413,
       "word": "郑恺别演了我害怕",
@@ -16505,6 +16545,14 @@
       "onboard_time": 1761552200,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100310,
+      "num": 108015,
+      "word": "妻子吃药装睡老公旁边出轨",
+      "onboard_time": 1761979459,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 100308,
@@ -16675,6 +16723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99359,
+      "num": 99359,
+      "word": "全红婵时隔183天参加正式比赛",
+      "onboard_time": 1761976941,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99356,
       "num": 99356,
       "word": "Zeus回应止步S15八强",
@@ -16689,6 +16745,14 @@
       "onboard_time": 1761717140,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99185,
+      "num": 99185,
+      "word": "原来心梗是有征兆的",
+      "onboard_time": 1761979459,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99164,
@@ -18049,6 +18113,14 @@
       "onboard_time": 1761907223,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89619,
+      "num": 89619,
+      "word": "程潇我们录这个节目录得好不体面",
+      "onboard_time": 1761979580,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 89492,
@@ -19417,6 +19489,14 @@
       "onboard_time": 1761493521,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76021,
+      "num": 156054,
+      "word": "孙颖莎东方美人",
+      "onboard_time": 1761979159,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 76005,
@@ -21771,6 +21851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42450,
+      "num": 108134,
+      "word": "六姊妹小巷人家剧组重聚",
+      "onboard_time": 1761979039,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42310,
       "num": 119643,
       "word": "S15瑞士轮数据",
@@ -21825,6 +21913,14 @@
       "onboard_time": 1761796881,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41167,
+      "num": 147262,
+      "word": "何与递的乐事谁不想接",
+      "onboard_time": 1761977060,
+      "rank": 29,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 41034,
@@ -22289,14 +22385,6 @@
       "onboard_time": 1761550282,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34078,
-      "num": 147262,
-      "word": "何与递的乐事谁不想接",
-      "onboard_time": 1761977060,
-      "rank": 29,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 34054,
@@ -23091,6 +23179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22054,
+      "num": 198673,
+      "word": "为救儿子盗窃入狱的男子仍待业",
+      "onboard_time": 1761978621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21895,
       "num": 28894,
       "word": "王一博探索新境第2季预告",
@@ -23643,6 +23739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 13902,
+      "num": 196464,
+      "word": "神21过境北京太美了",
+      "onboard_time": 1761978621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13758,
       "num": 115764,
       "word": "韩国仪仗队演奏YMCA迎接特朗普",
@@ -23771,14 +23875,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 10977,
-      "num": 198673,
-      "word": "为救儿子盗窃入狱的男子仍待业",
-      "onboard_time": 1761978621,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10378,
       "num": 115629,
       "word": "刘宇宁粉丝工作日常表",
@@ -23865,14 +23961,6 @@
       "onboard_time": 1761468022,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6550,
-      "num": 196464,
-      "word": "神21过境北京太美了",
-      "onboard_time": 1761978621,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2840,

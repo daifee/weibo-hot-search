@@ -1,0 +1,410 @@
+{
+  "runTime": 1761979614829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384837,
+        "num": 1061573,
+        "word": "十日终焉阵容",
+        "onboard_time": 1761970940,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26924,
+        "num": 192907,
+        "word": "神二十一发射成功",
+        "onboard_time": 1761927561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242016,
+        "num": 190420,
+        "word": "喜人奇妙夜 再见爱人",
+        "onboard_time": 1761971239,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187760,
+        "num": 187760,
+        "word": "小狗疑被毒死女子辞职追凶3年",
+        "onboard_time": 1761965179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173022,
+        "num": 173022,
+        "word": "杨瀚森首次被开拓者DNP",
+        "onboard_time": 1761975080,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235123,
+        "num": 169445,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "向太直言统一是破局钥匙",
+        "onboard_time": 1761968660,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 150649,
+        "num": 156322,
+        "word": "伦纳德绝杀",
+        "onboard_time": 1761976521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13902,
+        "num": 156282,
+        "word": "神21过境北京太美了",
+        "onboard_time": 1761978621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615997,
+        "num": 156261,
+        "word": "程晓玥官宣二胎",
+        "onboard_time": 1761969740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531922,
+        "num": 156212,
+        "word": "出差遭性侵检方不起诉女子发声",
+        "onboard_time": 1761976819,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329575,
+        "num": 156211,
+        "word": "手机一年一换竟然更省钱",
+        "onboard_time": 1761971120,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301101,
+        "num": 156162,
+        "word": "周洁琼报了关晓彤的仇",
+        "onboard_time": 1761978440,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272451,
+        "num": 156152,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1761970640,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256739,
+        "num": 156122,
+        "word": "黄凯选迪丽热巴offer5知道吗",
+        "onboard_time": 1761979101,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242898,
+        "num": 156074,
+        "word": "山东人蒸大馒头研究出了透明馒头",
+        "onboard_time": 1761973400,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76021,
+        "num": 156054,
+        "word": "孙颖莎东方美人",
+        "onboard_time": 1761979159,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22054,
+        "num": 156036,
+        "word": "为救儿子盗窃入狱的男子仍待业",
+        "onboard_time": 1761978621,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112209,
+        "num": 155996,
+        "word": "刘嘉玲 内娱文化冲击",
+        "onboard_time": 1761978740,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125712,
+        "num": 155971,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325849,
+        "num": 155955,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 155915,
+        "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+        "onboard_time": 1761967220,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228846,
+        "num": 155879,
+        "word": "女子故意夹门赶地铁",
+        "onboard_time": 1761974781,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 155846,
+        "word": "杨国福1斤豆芽28元贵过山姆",
+        "onboard_time": 1761970459,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 155840,
+        "word": "iPhone18Pro前瞻",
+        "onboard_time": 1761978860,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175453,
+        "num": 155814,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1761978079,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155785,
+        "num": 155785,
+        "word": "花儿与少年7",
+        "onboard_time": 1761977000,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153403,
+        "num": 153403,
+        "word": "金店一边涨价一边关店",
+        "onboard_time": 1761977060,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41167,
+        "num": 136505,
+        "word": "何与递的乐事谁不想接",
+        "onboard_time": 1761977060,
+        "rank": 29,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 125790,
+        "num": 125790,
+        "word": "李沁告别花儿与少年",
+        "onboard_time": 1761979520,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46173,
+        "num": 124643,
+        "word": "范志毅演我爸爸吃薯片",
+        "onboard_time": 1761975201,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124079,
+        "num": 124079,
+        "word": "恶心穿搭",
+        "onboard_time": 1761979101,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118070,
+        "num": 118070,
+        "word": "上班的隐形成本真的很高",
+        "onboard_time": 1761970099,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 117056,
+        "num": 117056,
+        "word": "iPhone18Pro八大升级",
+        "onboard_time": 1761978621,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111717,
+        "num": 111717,
+        "word": "刘亦菲演个恶女吧",
+        "onboard_time": 1761979159,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109329,
+        "num": 109329,
+        "word": "年轻人爱上越剧",
+        "onboard_time": 1761962780,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108614,
+        "num": 108614,
+        "word": "胡先煦说王安宇潮的快风湿了",
+        "onboard_time": 1761977060,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42450,
+        "num": 108134,
+        "word": "六姊妹小巷人家剧组重聚",
+        "onboard_time": 1761979039,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100310,
+        "num": 108015,
+        "word": "妻子吃药装睡老公旁边出轨",
+        "onboard_time": 1761979459,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107996,
+        "num": 107996,
+        "word": "内娱真有正主嗑自己cp",
+        "onboard_time": 1761978379,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106338,
+        "num": 106338,
+        "word": "李施嬅 车崇健",
+        "onboard_time": 1761979159,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99359,
+        "num": 99359,
+        "word": "全红婵时隔183天参加正式比赛",
+        "onboard_time": 1761976941,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99185,
+        "num": 99185,
+        "word": "原来心梗是有征兆的",
+        "onboard_time": 1761979459,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92327,
+        "num": 92327,
+        "word": "以后按这个标准给关晓彤做造型",
+        "onboard_time": 1761976041,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89619,
+        "num": 89619,
+        "word": "程潇我们录这个节目录得好不体面",
+        "onboard_time": 1761979580,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89583,
+        "num": 89583,
+        "word": "高中儿子半月花1000元妈妈绷不住了",
+        "onboard_time": 1761972800,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89072,
+        "num": 89072,
+        "word": "将门毒后已经溜了王鹤棣3年了",
+        "onboard_time": 1761974240,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88540,
+        "num": 88540,
+        "word": "多喝热水的含金量还在上升",
+        "onboard_time": 1761978560,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65805,
+        "num": 87412,
+        "word": "黄景瑜 人怎么能聪明成胡先煦这样",
+        "onboard_time": 1761977840,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同开创可持续的美好明天#"
+    }
+  }
+}

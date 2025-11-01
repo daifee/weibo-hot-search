@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761978923949,
+  "endTime": 1761979614829,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 531922,
+      "num": 217017,
+      "word": "出差遭性侵检方不起诉女子发声",
+      "onboard_time": 1761976819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489266,
       "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
@@ -136,14 +144,6 @@
       "word": "小狗疑被毒死女子辞职追凶3年",
       "onboard_time": 1761965179,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412687,
-      "num": 217017,
-      "word": "出差遭性侵检方不起诉女子发声",
-      "onboard_time": 1761976819,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 301101,
+      "num": 194502,
+      "word": "周洁琼报了关晓彤的仇",
+      "onboard_time": 1761978440,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -265,6 +273,14 @@
       "onboard_time": 1761970099,
       "rank": 17,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 256739,
+      "num": 156122,
+      "word": "黄凯选迪丽热巴offer5知道吗",
+      "onboard_time": 1761979101,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 251735,
@@ -451,20 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194502,
-      "num": 194502,
-      "word": "周洁琼报了关晓彤的仇",
-      "onboard_time": 1761978440,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193088,
       "num": 269737,
       "word": "年轻人爱上越剧",
       "onboard_time": 1761962780,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192521,
+      "num": 155840,
+      "word": "iPhone18Pro前瞻",
+      "onboard_time": 1761978860,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 192218,
@@ -667,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150649,
+      "num": 218465,
+      "word": "伦纳德绝杀",
+      "onboard_time": 1761976521,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "AG老板谈AL不敌T1",
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 138953,
-      "num": 138953,
+      "num": 155996,
       "word": "刘嘉玲 内娱文化冲击",
       "onboard_time": 1761978740,
       "rank": 31,
@@ -811,28 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133893,
-      "num": 218465,
-      "word": "伦纳德绝杀",
-      "onboard_time": 1761976521,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132793,
       "num": 132793,
       "word": "王晶发文悼念冯淬帆",
       "onboard_time": 1761974179,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130984,
-      "num": 130984,
-      "word": "iPhone18Pro前瞻",
-      "onboard_time": 1761978860,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 127988,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125790,
+      "num": 125790,
+      "word": "李沁告别花儿与少年",
+      "onboard_time": 1761979520,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125649,
       "num": 156712,
       "word": "冯淬帆曾悼念许绍雄",
@@ -889,6 +905,14 @@
       "onboard_time": 1761970401,
       "rank": 37,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 124079,
+      "num": 124079,
+      "word": "恶心穿搭",
+      "onboard_time": 1761979101,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 123665,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111717,
+      "num": 111717,
+      "word": "刘亦菲演个恶女吧",
+      "onboard_time": 1761979159,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110282,
       "num": 124104,
       "word": "喜人奇妙夜",
@@ -1051,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107996,
+      "num": 107996,
+      "word": "内娱真有正主嗑自己cp",
+      "onboard_time": 1761978379,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107232,
       "num": 150612,
       "word": "上班不许欺负同事",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1761965540,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106338,
+      "num": 106338,
+      "word": "李施嬅 车崇健",
+      "onboard_time": 1761979159,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 104875,
@@ -1139,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100464,
-      "num": 100464,
-      "word": "内娱真有正主嗑自己cp",
-      "onboard_time": 1761978379,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 100310,
+      "num": 108015,
+      "word": "妻子吃药装睡老公旁边出轨",
+      "onboard_time": 1761979459,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 99650,
@@ -1153,6 +1201,22 @@
       "onboard_time": 1761966379,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99359,
+      "num": 99359,
+      "word": "全红婵时隔183天参加正式比赛",
+      "onboard_time": 1761976941,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99185,
+      "num": 99185,
+      "word": "原来心梗是有征兆的",
+      "onboard_time": 1761979459,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98769,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1761959539,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89619,
+      "num": 89619,
+      "word": "程潇我们录这个节目录得好不体面",
+      "onboard_time": 1761979580,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 89445,
@@ -1473,6 +1545,14 @@
       "onboard_time": 1761926183,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76021,
+      "num": 156054,
+      "word": "孙颖莎东方美人",
+      "onboard_time": 1761979159,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 75705,
@@ -1851,6 +1931,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42450,
+      "num": 108134,
+      "word": "六姊妹小巷人家剧组重聚",
+      "onboard_time": 1761979039,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41167,
+      "num": 147262,
+      "word": "何与递的乐事谁不想接",
+      "onboard_time": 1761977060,
+      "rank": 29,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 40059,
       "num": 117498,
       "word": "暗河传",
@@ -1891,14 +1987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34078,
-      "num": 147262,
-      "word": "何与递的乐事谁不想接",
-      "onboard_time": 1761977060,
-      "rank": 29,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 30547,
       "num": 117302,
       "word": "张凌赫 联想",
@@ -1929,6 +2017,14 @@
       "onboard_time": 1761926841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22054,
+      "num": 198673,
+      "word": "为救儿子盗窃入狱的男子仍待业",
+      "onboard_time": 1761978621,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21999,
@@ -1963,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13902,
+      "num": 196464,
+      "word": "神21过境北京太美了",
+      "onboard_time": 1761978621,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13288,
       "num": 108910,
       "word": "赵睿担任十五运会火炬手",
@@ -1979,28 +2083,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 10977,
-      "num": 198673,
-      "word": "为救儿子盗窃入狱的男子仍待业",
-      "onboard_time": 1761978621,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8085,
       "num": 572424,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6550,
-      "num": 196464,
-      "word": "神21过境北京太美了",
-      "onboard_time": 1761978621,
-      "rank": 25,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
