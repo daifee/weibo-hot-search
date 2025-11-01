@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 00:42:48
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/02 01:20:25
 </p>
 </blockquote>
 <p>
@@ -148,7 +148,7 @@ DRG早点 回家吧（热度：256453）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E5%90%8E%E6%B7%A1%E5%AE%9A%E5%8E%BB%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%AE%B6%E5%90%83%E9%A5%AD%23" target="weibo">
-男子杀人后淡定去被害人家吃饭（热度：136347）
+男子杀人后淡定去被害人家吃饭（热度：143528）
 </a>
 </li>
 
@@ -215,6 +215,12 @@ Ruler回应败给KT（热度：112265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E7%94%B7%E7%94%9F%E8%BF%91%E7%85%A7%23" target="weibo">
 爸爸去哪儿男生近照（热度：97563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2334%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%B3%E6%89%8B%E7%BB%9E%E8%BF%9B%E6%9C%BA%E5%99%A8%E7%A2%8E%E6%88%90%E5%A4%9A%E7%93%A3%23" target="weibo">
+34岁男子右手绞进机器碎成多瓣（热度：94763）
 </a>
 </li>
 
@@ -297,12 +303,6 @@ DRG对战狼队（热度：76842）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2334%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%B3%E6%89%8B%E7%BB%9E%E8%BF%9B%E6%9C%BA%E5%99%A8%E7%A2%8E%E6%88%90%E5%A4%9A%E7%93%A3%23" target="weibo">
-34岁男子右手绞进机器碎成多瓣（热度：71247）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E9%98%9F%E9%95%BF%E5%93%AD%E4%BA%86%23" target="weibo">
 南通队长哭了（热度：65433）
 </a>
@@ -321,6 +321,24 @@ DRG对战狼队（热度：76842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9F%A9%E6%98%AF%E6%90%AC%E4%B8%8D%E8%B5%B0%E7%9A%84%E9%87%8D%E8%A6%81%E8%BF%91%E9%82%BB%23" target="weibo">
+中韩是搬不走的重要近邻（热度：44519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%9C%BA%E8%BF%9E%E7%BB%AD%E5%9D%A0%E5%85%A5%E5%8D%97%E6%B5%B7%E6%9C%80%E6%96%B0%E8%B0%83%E6%9F%A5%E6%9B%9D%E5%85%89%23" target="weibo">
+美军机连续坠入南海最新调查曝光（热度：42095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%8B%97%E9%81%AD%E6%9F%AF%E5%9F%BA%E4%B8%BB%E4%BA%BA%E9%85%92%E7%93%B6%E7%88%86%E5%A4%B4%23" target="weibo">
+警方回应大狗遭柯基主人酒瓶爆头（热度：41610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%897%E5%BC%A0%E5%A4%AA%E7%A9%BA%E5%85%A8%E5%AE%B6%E7%A6%8F%E4%BA%86%23" target="weibo">
 中国人有7张太空全家福了（热度：31893）
 </a>
@@ -335,6 +353,12 @@ DRG对战狼队（热度：76842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%23%23" target="weibo">
 #APEC领导人集体合影#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88%23%23" target="weibo">
+#习近平同韩国总统李在明举行会谈#
 </a>
 </li>
 
