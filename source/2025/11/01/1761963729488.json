@@ -1,0 +1,410 @@
+{
+  "runTime": 1761963729488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 330814,
+        "num": 1052930,
+        "word": "十日终焉影视化",
+        "onboard_time": 1761953958,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289458,
+        "num": 289458,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77257,
+        "num": 261502,
+        "word": "神21创造一个最快纪录",
+        "onboard_time": 1761954800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1027972,
+        "num": 257326,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242351,
+        "num": 242351,
+        "word": "光与夜之恋",
+        "onboard_time": 1761959361,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217137,
+        "num": 217137,
+        "word": "A勒布伦惊天逆转张本智和",
+        "onboard_time": 1761959900,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214672,
+        "num": 214672,
+        "word": "多吃优质碳水能抗衰老",
+        "onboard_time": 1761959900,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171055,
+        "num": 171055,
+        "word": "荷兰在安世半导体问题上进退两难",
+        "onboard_time": 1761953778,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163221,
+        "num": 163221,
+        "word": "商务部回应安世半导体相关问题",
+        "onboard_time": 1761962540,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137086,
+        "num": 137086,
+        "word": "年轻人爱上越剧",
+        "onboard_time": 1761962780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034848,
+        "num": 136869,
+        "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+        "onboard_time": 1761959600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382621,
+        "num": 134663,
+        "word": "男子杀害发小妻儿3人假装不知情",
+        "onboard_time": 1761961280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356024,
+        "num": 133662,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342147,
+        "num": 132223,
+        "word": "谈莉娜刘正飞官宣怀孕",
+        "onboard_time": 1761963321,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264323,
+        "num": 130057,
+        "word": "耳聋小猫因为可爱被导演选中",
+        "onboard_time": 1761961220,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205122,
+        "num": 129076,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1761957080,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 128056,
+        "word": "没人告诉我团播发展成这样了",
+        "onboard_time": 1761953657,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126890,
+        "num": 126890,
+        "word": "荷兰政府对企业内部事务不当干预",
+        "onboard_time": 1761962479,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121804,
+        "num": 121804,
+        "word": "张柏芝在炮火中心吃瓜",
+        "onboard_time": 1761958400,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120199,
+        "num": 120199,
+        "word": "冯淬帆曾悼念许绍雄",
+        "onboard_time": 1761961340,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169404,
+        "num": 119719,
+        "word": "儿童性早熟的4个诱因",
+        "onboard_time": 1761957500,
+        "rank": 20,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 118853,
+        "num": 118853,
+        "word": "原来小猫也会嫌弃自己脚臭",
+        "onboard_time": 1761959600,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114387,
+        "num": 114387,
+        "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
+        "onboard_time": 1761963321,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107157,
+        "num": 107157,
+        "word": "凯里动物园爷爷两天收到十几万捐款",
+        "onboard_time": 1761963081,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105798,
+        "num": 105798,
+        "word": "光与夜之恋第六日之前",
+        "onboard_time": 1761961640,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105564,
+        "num": 105564,
+        "word": "麻辣烫店主离店2男孩对监控数签子",
+        "onboard_time": 1761961520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104158,
+        "num": 104158,
+        "word": "天才女友田曦薇胡一天表白戏",
+        "onboard_time": 1761955458,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102069,
+        "num": 102069,
+        "word": "高校规定学生没课也不能待宿舍",
+        "onboard_time": 1761959840,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101717,
+        "num": 101717,
+        "word": "光夜陆沉全知默示",
+        "onboard_time": 1761961880,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50174,
+        "num": 101337,
+        "word": "将门毒后",
+        "onboard_time": 1761920664,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167517,
+        "num": 101240,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120204,
+        "num": 101154,
+        "word": "Hope回应惜败T1",
+        "onboard_time": 1761963199,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101000,
+        "num": 101000,
+        "word": "神20神21航天员全家福",
+        "onboard_time": 1761963199,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100044,
+        "num": 100044,
+        "word": "AG老板谈AL不敌T1",
+        "onboard_time": 1761953419,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98769,
+        "num": 98769,
+        "word": "一觉醒来神20神21会师",
+        "onboard_time": 1761954438,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91956,
+        "num": 91956,
+        "word": "中行农行收巨额罚单",
+        "onboard_time": 1761956960,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91855,
+        "num": 91855,
+        "word": "光夜查理苏悬顶之心",
+        "onboard_time": 1761961880,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90823,
+        "num": 90823,
+        "word": "神20神21航天员笑得好灿烂",
+        "onboard_time": 1761959361,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90747,
+        "num": 90747,
+        "word": "美国政府停摆满月",
+        "onboard_time": 1761959539,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90399,
+        "num": 90399,
+        "word": "光夜萧逸爱欲驯养",
+        "onboard_time": 1761961640,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88309,
+        "num": 88309,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1761962419,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85956,
+        "num": 85956,
+        "word": "11月第一个好消息",
+        "onboard_time": 1761960741,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84370,
+        "num": 84370,
+        "word": "光夜齐司礼时序彼端",
+        "onboard_time": 1761961819,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83654,
+        "num": 83654,
+        "word": "光夜夏鸣星欢愉祭冕",
+        "onboard_time": 1761962540,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82259,
+        "num": 82259,
+        "word": "6名航天员共同在空间站约5天",
+        "onboard_time": 1761954559,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81215,
+        "num": 81215,
+        "word": "为什么女装裤频频无中生裆",
+        "onboard_time": 1761916825,
+        "rank": 45,
+        "category": "议题讨论,时尚"
+      },
+      {
+        "raw_hot": 80159,
+        "num": 80159,
+        "word": "杨紫拍生命树高反到边说词边吸氧",
+        "onboard_time": 1761953838,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79309,
+        "num": 79309,
+        "word": "长沙今日防空警报试鸣",
+        "onboard_time": 1761962121,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78540,
+        "num": 78540,
+        "word": "张远否认与王霏霏恋情",
+        "onboard_time": 1761919642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72967,
+        "num": 78135,
+        "word": "许绍雄家人发讣闻",
+        "onboard_time": 1761963021,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

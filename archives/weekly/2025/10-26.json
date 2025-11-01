@@ -1,6 +1,6 @@
 {
   "startTime": 1761409789437,
-  "endTime": 1761962426871,
+  "endTime": 1761963729488,
   "band_list": [
     {
       "raw_hot": 12597565,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1283543,
-      "num": 216965,
+      "num": 257326,
       "word": "冯淬帆去世",
       "onboard_time": 1761959719,
       "rank": 3,
@@ -3187,6 +3187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 382621,
+      "num": 163423,
+      "word": "男子杀害发小妻儿3人假装不知情",
+      "onboard_time": 1761961280,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381911,
       "num": 270809,
       "word": "林峯双手合十眉头紧皱",
@@ -3579,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342147,
+      "num": 132223,
+      "word": "谈莉娜刘正飞官宣怀孕",
+      "onboard_time": 1761963321,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342130,
       "num": 268068,
       "word": "李沁好像一朵蝴蝶兰",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1761781639,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330814,
+      "num": 1052930,
+      "word": "十日终焉影视化",
+      "onboard_time": 1761953958,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 329413,
@@ -3963,14 +3987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306620,
-      "num": 163423,
-      "word": "男子杀害发小妻儿3人假装不知情",
-      "onboard_time": 1761961280,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305775,
       "num": 504150,
       "word": "731导演穿防弹衣出席日本试映",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1761569962,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289458,
+      "num": 289458,
+      "word": "黄金有关税收政策公告来了",
+      "onboard_time": 1761962780,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 289039,
@@ -5083,14 +5107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 236991,
-      "num": 236991,
-      "word": "十日终焉影视化",
-      "onboard_time": 1761953958,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236783,
       "num": 383882,
       "word": "APEC重要讲话",
@@ -5675,6 +5691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217137,
+      "num": 217137,
+      "word": "A勒布伦惊天逆转张本智和",
+      "onboard_time": 1761959900,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216663,
       "num": 277285,
       "word": "打击低俗团播引诱打赏",
@@ -5723,14 +5747,6 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 215144,
-      "num": 215144,
-      "word": "A勒布伦惊天逆转张本智和",
-      "onboard_time": 1761959900,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214944,
       "num": 147617,
       "word": "短剧离了李柯以谁还拿我当小孩",
@@ -5745,6 +5761,14 @@
       "onboard_time": 1761748703,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214672,
+      "num": 214672,
+      "word": "多吃优质碳水能抗衰老",
+      "onboard_time": 1761959900,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214328,
@@ -7435,14 +7459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182222,
-      "num": 182222,
-      "word": "多吃优质碳水能抗衰老",
-      "onboard_time": 1761959900,
-      "rank": 5,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182079,
       "num": 182079,
       "word": "一诺这一次鸟巢见",
@@ -8083,6 +8099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "荷兰在安世半导体问题上进退两难",
+      "onboard_time": 1761953778,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171036,
       "num": 171036,
       "word": "里弗斯51分",
@@ -8259,14 +8283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168768,
-      "num": 168768,
-      "word": "荷兰在安世半导体问题上进退两难",
-      "onboard_time": 1761953778,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 168669,
       "num": 168669,
       "word": "剑网3 郭炜炜",
@@ -8329,6 +8345,14 @@
       "onboard_time": 1761790039,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167517,
+      "num": 106244,
+      "word": "Faker回应打LPL没输过",
+      "onboard_time": 1761961159,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 167315,
@@ -8657,6 +8681,14 @@
       "onboard_time": 1761815181,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163221,
+      "num": 163221,
+      "word": "商务部回应安世半导体相关问题",
+      "onboard_time": 1761962540,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162997,
@@ -9729,14 +9761,6 @@
       "onboard_time": 1761549320,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150136,
-      "num": 106244,
-      "word": "Faker回应打LPL没输过",
-      "onboard_time": 1761961159,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 150101,
@@ -10979,6 +11003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137086,
+      "num": 137086,
+      "word": "年轻人爱上越剧",
+      "onboard_time": 1761962780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137059,
       "num": 137059,
       "word": "LCK锁定S15决赛",
@@ -12203,6 +12235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126890,
+      "num": 126890,
+      "word": "荷兰政府对企业内部事务不当干预",
+      "onboard_time": 1761962479,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126770,
       "num": 218888,
       "word": "华晨宇 王牌名场面记录仪",
@@ -12969,6 +13009,14 @@
       "onboard_time": 1761794600,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120204,
+      "num": 101154,
+      "word": "Hope回应惜败T1",
+      "onboard_time": 1761963199,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 120156,
@@ -13777,6 +13825,14 @@
       "onboard_time": 1761743062,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114387,
+      "num": 114387,
+      "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
+      "onboard_time": 1761963321,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114335,
@@ -14843,6 +14899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107157,
+      "num": 107157,
+      "word": "凯里动物园爷爷两天收到十几万捐款",
+      "onboard_time": 1761963081,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107129,
       "num": 107129,
       "word": "WTT总决赛混双仅剩三席",
@@ -15099,6 +15163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105564,
+      "num": 105564,
+      "word": "麻辣烫店主离店2男孩对监控数签子",
+      "onboard_time": 1761961520,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105556,
       "num": 105556,
       "word": "金饰价格连跌3天",
@@ -15121,14 +15193,6 @@
       "onboard_time": 1761792920,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105483,
-      "num": 105483,
-      "word": "麻辣烫店主离店2男孩对监控数签子",
-      "onboard_time": 1761961520,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105480,
@@ -15531,6 +15595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "高校规定学生没课也不能待宿舍",
+      "onboard_time": 1761959840,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 102064,
       "num": 102064,
       "word": "一诺黄明昊合照",
@@ -15705,6 +15777,14 @@
       "onboard_time": 1761703521,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101000,
+      "num": 101000,
+      "word": "神20神21航天员全家福",
+      "onboard_time": 1761963199,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100961,
@@ -16035,12 +16115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98801,
-      "num": 98801,
-      "word": "高校规定学生没课也不能待宿舍",
-      "onboard_time": 1761959840,
+      "raw_hot": 98769,
+      "num": 98769,
+      "word": "一觉醒来神20神21会师",
+      "onboard_time": 1761954438,
       "rank": 34,
-      "category": "教育"
+      "category": "国内时政"
     },
     {
       "raw_hot": 98694,
@@ -17091,12 +17171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90823,
+      "num": 90823,
+      "word": "神20神21航天员笑得好灿烂",
+      "onboard_time": 1761959361,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90750,
       "num": 138704,
       "word": "维嘉说何老师是买单王",
       "onboard_time": 1761801863,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90747,
+      "num": 90747,
+      "word": "美国政府停摆满月",
+      "onboard_time": 1761959539,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90697,
@@ -17395,6 +17491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88309,
+      "num": 88309,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1761962419,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88188,
       "num": 88188,
       "word": "陈清晨贾一凡回应最后一舞",
@@ -17593,6 +17697,14 @@
       "onboard_time": 1761628942,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85956,
+      "num": 85956,
+      "word": "11月第一个好消息",
+      "onboard_time": 1761960741,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85933,
@@ -17825,6 +17937,14 @@
       "onboard_time": 1761815301,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83654,
+      "num": 83654,
+      "word": "光夜夏鸣星欢愉祭冕",
+      "onboard_time": 1761962540,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 83639,
@@ -18419,6 +18539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77257,
+      "num": 261502,
+      "word": "神21创造一个最快纪录",
+      "onboard_time": 1761954800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77251,
       "num": 195853,
       "word": "西安一辆保时捷新能源车突发自燃",
@@ -18689,6 +18817,14 @@
       "onboard_time": 1761898341,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 72967,
+      "num": 78135,
+      "word": "许绍雄家人发讣闻",
+      "onboard_time": 1761963021,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72727,
@@ -19163,14 +19299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66315,
-      "num": 66315,
-      "word": "美国政府停摆满月",
-      "onboard_time": 1761959539,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 66163,
       "num": 162394,
       "word": "馆长被水立方震撼到词穷",
@@ -19455,14 +19583,6 @@
       "num": 870512,
       "word": "12项重大部署看未来怎么干",
       "onboard_time": 1761534680,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 61541,
-      "num": 218086,
-      "word": "神21创造一个最快纪录",
-      "onboard_time": 1761954800,
       "rank": 2,
       "category": "国内时政"
     },
