@@ -1,0 +1,410 @@
+{
+  "runTime": 1761969437859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 469220,
+        "num": 1075075,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294796,
+        "num": 294796,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58970,
+        "num": 207626,
+        "word": "神21创造一个最快纪录",
+        "onboard_time": 1761954800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544749,
+        "num": 199037,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468017,
+        "num": 188693,
+        "word": "小狗疑被毒死女子辞职追凶3年",
+        "onboard_time": 1761965179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172481,
+        "num": 172481,
+        "word": "荷兰政府对企业内部事务不当干预",
+        "onboard_time": 1761962479,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168803,
+        "num": 168803,
+        "word": "光与夜之恋",
+        "onboard_time": 1761959361,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148675,
+        "num": 167882,
+        "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
+        "onboard_time": 1761963321,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144655,
+        "num": 166610,
+        "word": "年轻人爱上越剧",
+        "onboard_time": 1761962780,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 165501,
+        "word": "商务部回应安世半导体相关问题",
+        "onboard_time": 1761962540,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525935,
+        "num": 164518,
+        "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+        "onboard_time": 1761967220,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418875,
+        "num": 164098,
+        "word": "李茂和弦子结婚不知道有彩礼",
+        "onboard_time": 1761965059,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333689,
+        "num": 162586,
+        "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+        "onboard_time": 1761959600,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305495,
+        "num": 161979,
+        "word": "陈乔恩说带孩子辛苦所以选择在外工作",
+        "onboard_time": 1761965059,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251016,
+        "num": 160017,
+        "word": "严屹宽还在穿20年前的衣服",
+        "onboard_time": 1761966199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 159335,
+        "word": "麻辣烫店主离店2男孩对监控数签子",
+        "onboard_time": 1761961520,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89666,
+        "num": 158436,
+        "word": "许绍雄家人发讣闻",
+        "onboard_time": 1761963021,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70473,
+        "num": 157242,
+        "word": "周深成都演唱会",
+        "onboard_time": 1761967460,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58768,
+        "num": 155462,
+        "word": "你好星期六这把兄弟局",
+        "onboard_time": 1761967281,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41167,
+        "num": 155209,
+        "word": "梅西C罗签名球衣京东拍卖",
+        "onboard_time": 1761966259,
+        "rank": 19,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 1048325,
+        "num": 153268,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487322,
+        "num": 152463,
+        "word": "男子杀害发小妻儿3人假装不知情",
+        "onboard_time": 1761961280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171822,
+        "num": 151007,
+        "word": "十日终焉影视化",
+        "onboard_time": 1761953958,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150970,
+        "num": 150970,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 150954,
+        "word": "神二十一发射升空",
+        "onboard_time": 1761926602,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115536,
+        "num": 150933,
+        "word": "耳聋小猫因为可爱被导演选中",
+        "onboard_time": 1761961220,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107842,
+        "num": 150898,
+        "word": "弦子连夜为李茂患心梗父亲安排就医",
+        "onboard_time": 1761966021,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106329,
+        "num": 150888,
+        "word": "11月第一个好消息",
+        "onboard_time": 1761960741,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104626,
+        "num": 150871,
+        "word": "Hope回应惜败T1",
+        "onboard_time": 1761963199,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104226,
+        "num": 150844,
+        "word": "无意识拥有好皮肤的8个习惯",
+        "onboard_time": 1761968419,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159619,
+        "num": 150812,
+        "word": "向太直言统一是破局钥匙",
+        "onboard_time": 1761968660,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 123665,
+        "num": 150780,
+        "word": "工作两年没在公司留下任何一枚指纹",
+        "onboard_time": 1761967640,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106681,
+        "num": 150772,
+        "word": "Flandre希望TES赢下T1",
+        "onboard_time": 1761965540,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102219,
+        "num": 150749,
+        "word": "儿童性早熟的4个诱因",
+        "onboard_time": 1761957500,
+        "rank": 33,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 96343,
+        "num": 150712,
+        "word": "我国打破核电对铀的依赖",
+        "onboard_time": 1761963861,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90369,
+        "num": 150681,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1761957080,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86542,
+        "num": 150657,
+        "word": "白猫在猫界是最丑的",
+        "onboard_time": 1761966499,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85771,
+        "num": 150651,
+        "word": "基金新规来了",
+        "onboard_time": 1761967882,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85300,
+        "num": 150612,
+        "word": "上班不许欺负同事",
+        "onboard_time": 1761966379,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 150607,
+        "word": "369这一次能做到吗",
+        "onboard_time": 1761968900,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78411,
+        "num": 150565,
+        "word": "赵鸿刚在世界职业扇耳光大赛后报平安",
+        "onboard_time": 1761968179,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75705,
+        "num": 150554,
+        "word": "杨瀚森生涯首次对阵偶像约基奇",
+        "onboard_time": 1761968361,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72024,
+        "num": 150532,
+        "word": "小米汽车10月交付量超4万台",
+        "onboard_time": 1761966259,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71864,
+        "num": 150508,
+        "word": "神20神21航天员全家福",
+        "onboard_time": 1761963199,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70968,
+        "num": 150472,
+        "word": "柬电诈头目1.5亿新元资产被冻结",
+        "onboard_time": 1761965481,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69418,
+        "num": 150446,
+        "word": "驻外分公司总经理被威逼利诱5小时",
+        "onboard_time": 1761965121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65786,
+        "num": 150433,
+        "word": "灵魂的欲望是命运的先知",
+        "onboard_time": 1761968660,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 65296,
+        "num": 150402,
+        "word": "原来小猫也会嫌弃自己脚臭",
+        "onboard_time": 1761959600,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64499,
+        "num": 150390,
+        "word": "中国航天一箭穿月",
+        "onboard_time": 1761965240,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64338,
+        "num": 150345,
+        "word": "警方回应男子拉6个液化气罐拦婚车",
+        "onboard_time": 1761969081,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出3点建议#"
+    }
+  }
+}
