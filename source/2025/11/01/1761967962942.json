@@ -1,0 +1,410 @@
+{
+  "runTime": 1761967962942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 533448,
+        "num": 1085351,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1761962780,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276224,
+        "num": 276224,
+        "word": "Faker回应打LPL没输过",
+        "onboard_time": 1761961159,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56481,
+        "num": 244422,
+        "word": "神21创造一个最快纪录",
+        "onboard_time": 1761954800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674819,
+        "num": 244275,
+        "word": "冯淬帆去世",
+        "onboard_time": 1761959719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344728,
+        "num": 243536,
+        "word": "小狗疑被毒死女子辞职追凶3年",
+        "onboard_time": 1761965179,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241707,
+        "num": 241707,
+        "word": "荷兰政府对企业内部事务不当干预",
+        "onboard_time": 1761962479,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193088,
+        "num": 193088,
+        "word": "年轻人爱上越剧",
+        "onboard_time": 1761962780,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192218,
+        "num": 192218,
+        "word": "你好星期六这把兄弟局",
+        "onboard_time": 1761967281,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178025,
+        "num": 178025,
+        "word": "商务部回应安世半导体相关问题",
+        "onboard_time": 1761962540,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172301,
+        "num": 172301,
+        "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
+        "onboard_time": 1761963321,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489266,
+        "num": 171249,
+        "word": "李茂和弦子结婚不知道有彩礼",
+        "onboard_time": 1761965059,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390071,
+        "num": 170670,
+        "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
+        "onboard_time": 1761959600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341575,
+        "num": 169188,
+        "word": "陈乔恩说带孩子辛苦所以选择在外工作",
+        "onboard_time": 1761965059,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221982,
+        "num": 167922,
+        "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+        "onboard_time": 1761967220,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 167206,
+        "word": "严屹宽还在穿20年前的衣服",
+        "onboard_time": 1761966199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185467,
+        "num": 164905,
+        "word": "麻辣烫店主离店2男孩对监控数签子",
+        "onboard_time": 1761961520,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164905,
+        "num": 164904,
+        "word": "光与夜之恋",
+        "onboard_time": 1761959361,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97323,
+        "num": 164394,
+        "word": "许绍雄家人发讣闻",
+        "onboard_time": 1761963021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96278,
+        "num": 163132,
+        "word": "周深成都演唱会",
+        "onboard_time": 1761967460,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50328,
+        "num": 162036,
+        "word": "梅西C罗签名球衣京东拍卖",
+        "onboard_time": 1761966259,
+        "rank": 19,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 912695,
+        "num": 160243,
+        "word": "倪妮名誉维权声明",
+        "onboard_time": 1761966920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560101,
+        "num": 159375,
+        "word": "男子杀害发小妻儿3人假装不知情",
+        "onboard_time": 1761961280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238012,
+        "num": 158645,
+        "word": "十日终焉影视化",
+        "onboard_time": 1761953958,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236270,
+        "num": 157135,
+        "word": "将门毒后 王鹤棣孟子义",
+        "onboard_time": 1761919463,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156359,
+        "num": 156359,
+        "word": "耳聋小猫因为可爱被导演选中",
+        "onboard_time": 1761961220,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154736,
+        "num": 154736,
+        "word": "11月第一个好消息",
+        "onboard_time": 1761960741,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132700,
+        "num": 132700,
+        "word": "神二十一发射升空",
+        "onboard_time": 1761926602,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127240,
+        "num": 127240,
+        "word": "弦子连夜为李茂患心梗父亲安排就医",
+        "onboard_time": 1761966021,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125553,
+        "num": 125553,
+        "word": "Hope回应惜败T1",
+        "onboard_time": 1761963199,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115647,
+        "num": 115647,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1761957080,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113026,
+        "num": 113026,
+        "word": "儿童性早熟的4个诱因",
+        "onboard_time": 1761957500,
+        "rank": 30,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 112234,
+        "num": 112234,
+        "word": "多吃优质碳水能抗衰老",
+        "onboard_time": 1761959900,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106398,
+        "num": 106398,
+        "word": "小米汽车10月交付量超4万台",
+        "onboard_time": 1761966259,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 99639,
+        "word": "44岁2胎宝妈创业卖饺子月入百万",
+        "onboard_time": 1761966379,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98234,
+        "num": 98234,
+        "word": "中国航天一箭穿月",
+        "onboard_time": 1761965240,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95283,
+        "num": 95283,
+        "word": "上班不许欺负同事",
+        "onboard_time": 1761966379,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95008,
+        "num": 95008,
+        "word": "我国打破核电对铀的依赖",
+        "onboard_time": 1761963861,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91788,
+        "num": 91788,
+        "word": "神20神21航天员全家福",
+        "onboard_time": 1761963199,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86285,
+        "num": 86285,
+        "word": "工作两年没在公司留下任何一枚指纹",
+        "onboard_time": 1761967640,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83574,
+        "num": 83574,
+        "word": "没人告诉我团播发展成这样了",
+        "onboard_time": 1761953657,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82751,
+        "num": 82751,
+        "word": "原来小猫也会嫌弃自己脚臭",
+        "onboard_time": 1761959600,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82568,
+        "num": 82568,
+        "word": "白猫在猫界是最丑的",
+        "onboard_time": 1761966499,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82052,
+        "num": 82052,
+        "word": "Flandre希望TES赢下T1",
+        "onboard_time": 1761965540,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81165,
+        "num": 81165,
+        "word": "杨瀚森与偶像约基奇同框了",
+        "onboard_time": 1761967161,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78722,
+        "num": 78722,
+        "word": "驻外分公司总经理被威逼利诱5小时",
+        "onboard_time": 1761965121,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77054,
+        "num": 77054,
+        "word": "基金新规来了",
+        "onboard_time": 1761967882,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75519,
+        "num": 75519,
+        "word": "凯里动物园爷爷两天收到十几万捐款",
+        "onboard_time": 1761963081,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51996,
+        "num": 75226,
+        "word": "冯淬帆曾悼念许绍雄",
+        "onboard_time": 1761961340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51975,
+        "num": 74823,
+        "word": "吴彤上自己节目一样被下黑手",
+        "onboard_time": 1761964940,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49895,
+        "num": 74020,
+        "word": "天才女友田曦薇胡一天表白戏",
+        "onboard_time": 1761955458,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

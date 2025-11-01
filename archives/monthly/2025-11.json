@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761967134678,
+  "endTime": 1761967962942,
   "band_list": [
     {
       "raw_hot": 1283543,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1180605,
-      "num": 165373,
+      "num": 170670,
       "word": "夫妻入住希尔顿酒店半夜遭赤身男闯入",
       "onboard_time": 1761959600,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912695,
+      "num": 165032,
+      "word": "倪妮名誉维权声明",
+      "onboard_time": 1761966920,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 654815,
@@ -51,7 +59,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 542751,
+      "raw_hot": 560101,
       "num": 165073,
       "word": "男子杀害发小妻儿3人假装不知情",
       "onboard_time": 1761961280,
@@ -67,8 +75,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 444984,
-      "num": 165470,
+      "raw_hot": 489266,
+      "num": 171249,
       "word": "李茂和弦子结婚不知道有彩礼",
       "onboard_time": 1761965059,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 395763,
-      "num": 165311,
+      "num": 169188,
       "word": "陈乔恩说带孩子辛苦所以选择在外工作",
       "onboard_time": 1761965059,
       "rank": 14,
@@ -91,20 +99,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344728,
+      "num": 243536,
+      "word": "小狗疑被毒死女子辞职追凶3年",
+      "onboard_time": 1761965179,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330814,
       "num": 1052930,
       "word": "十日终焉影视化",
       "onboard_time": 1761953958,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328989,
-      "num": 165032,
-      "word": "倪妮名誉维权声明",
-      "onboard_time": 1761966920,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 327184,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241707,
+      "num": 241707,
+      "word": "荷兰政府对企业内部事务不当干预",
+      "onboard_time": 1761962479,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227795,
       "num": 111041,
       "word": "男子回家发现床上躺着陌生男女",
@@ -201,6 +217,14 @@
       "onboard_time": 1761953657,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 221982,
+      "num": 167922,
+      "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
+      "onboard_time": 1761967220,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221734,
@@ -233,14 +257,6 @@
       "onboard_time": 1761940333,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212638,
-      "num": 212638,
-      "word": "荷兰政府对企业内部事务不当干预",
-      "onboard_time": 1761962479,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211031,
@@ -291,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193088,
+      "num": 193088,
+      "word": "年轻人爱上越剧",
+      "onboard_time": 1761962780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192218,
+      "num": 192218,
+      "word": "你好星期六这把兄弟局",
+      "onboard_time": 1761967281,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188786,
       "num": 504279,
       "word": "联合国感谢中国缴清会费",
@@ -299,12 +331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 187096,
-      "num": 187096,
-      "word": "小狗疑被毒死女子辞职追凶3年",
-      "onboard_time": 1761965179,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 186102,
+      "num": 167206,
+      "word": "严屹宽还在穿20年前的衣服",
+      "onboard_time": 1761966199,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 181162,
@@ -323,12 +355,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178025,
+      "num": 178025,
+      "word": "商务部回应安世半导体相关问题",
+      "onboard_time": 1761962540,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177313,
       "num": 177313,
       "word": "光夜陆沉全知默示",
       "onboard_time": 1761961880,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172301,
+      "num": 172301,
+      "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
+      "onboard_time": 1761963321,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171055,
@@ -339,28 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 169509,
-      "num": 169509,
-      "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
-      "onboard_time": 1761963321,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 166059,
       "num": 166059,
       "word": "光与夜之恋第六日之前",
       "onboard_time": 1761961640,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165482,
-      "num": 165482,
-      "word": "商务部回应安世半导体相关问题",
-      "onboard_time": 1761962540,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164859,
@@ -377,14 +409,6 @@
       "onboard_time": 1761955458,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160549,
-      "num": 171508,
-      "word": "年轻人爱上越剧",
-      "onboard_time": 1761962780,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157172,
@@ -435,14 +459,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 145183,
-      "num": 145183,
-      "word": "严屹宽还在穿20年前的衣服",
-      "onboard_time": 1761966199,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143689,
       "num": 106192,
       "word": "光夜齐司礼时序彼端",
@@ -473,6 +489,14 @@
       "onboard_time": 1761961880,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127240,
+      "num": 127240,
+      "word": "弦子连夜为李茂患心梗父亲安排就医",
+      "onboard_time": 1761966021,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 125649,
@@ -563,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106509,
-      "num": 106509,
-      "word": "弦子连夜为李茂患心梗父亲安排就医",
-      "onboard_time": 1761966021,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106377,
       "num": 106377,
       "word": "白猫在猫界是最丑的",
@@ -643,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96278,
+      "num": 163132,
+      "word": "周深成都演唱会",
+      "onboard_time": 1761967460,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93278,
       "num": 93278,
       "word": "驻外分公司总经理被威逼利诱5小时",
@@ -707,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86285,
+      "num": 86285,
+      "word": "工作两年没在公司留下任何一枚指纹",
+      "onboard_time": 1761967640,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85892,
       "num": 85892,
       "word": "无忧老板邀请汪涵加入无忧",
@@ -763,6 +795,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 82052,
+      "num": 82052,
+      "word": "Flandre希望TES赢下T1",
+      "onboard_time": 1761965540,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81165,
+      "num": 81165,
+      "word": "杨瀚森与偶像约基奇同框了",
+      "onboard_time": 1761967161,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79139,
       "num": 165170,
       "word": "吴彤上自己节目一样被下黑手",
@@ -801,6 +849,14 @@
       "onboard_time": 1761954800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77054,
+      "num": 77054,
+      "word": "基金新规来了",
+      "onboard_time": 1761967882,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 76953,
