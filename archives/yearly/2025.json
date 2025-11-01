@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1762004455829,
+  "endTime": 1762006934817,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2275,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5959028,
+      "num": 7209028,
+      "word": "苏超泰州队冠军",
+      "onboard_time": 1762004724,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5865317,
       "num": 509455,
       "word": "李明德解释为什么暴力损害酒店财物",
@@ -2391,14 +2399,6 @@
       "num": 5005347,
       "word": "左航 剐蹭",
       "onboard_time": 1759838601,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4945993,
-      "num": 994348,
-      "word": "许凯照片",
-      "onboard_time": 1755860426,
       "rank": 10,
       "category": "艺人"
     }

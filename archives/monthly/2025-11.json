@@ -1,7 +1,15 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762004455829,
+  "endTime": 1762006934817,
   "band_list": [
+    {
+      "raw_hot": 5959028,
+      "num": 7209028,
+      "word": "苏超泰州队冠军",
+      "onboard_time": 1762004724,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2334332,
       "num": 2334332,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 941063,
+      "num": 941063,
+      "word": "泰州vs南通",
+      "onboard_time": 1761999441,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 912806,
       "num": 475247,
       "word": "GEN对战KT",
@@ -105,6 +121,14 @@
       "onboard_time": 1761993621,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 780615,
+      "num": 196969,
+      "word": "多少钱能让卢昱晓把这条视频删了",
+      "onboard_time": 1762002923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 752671,
@@ -185,6 +209,14 @@
       "onboard_time": 1761967220,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 625250,
+      "num": 199847,
+      "word": "小米",
+      "onboard_time": 1762003823,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 621968,
@@ -283,19 +315,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 499161,
-      "num": 499161,
-      "word": "泰州vs南通",
-      "onboard_time": 1761999441,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 495289,
       "num": 246031,
       "word": "爸爸去哪儿男生近照",
       "onboard_time": 1761995000,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 494901,
+      "num": 196603,
+      "word": "觉得自己闯祸了就来看翁青雅朱珠",
+      "onboard_time": 1762001481,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -579,14 +611,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 272096,
-      "num": 159219,
-      "word": "小米",
-      "onboard_time": 1762003823,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 267147,
       "num": 243593,
       "word": "怪不得刘嘉玲王菲那英是好朋友",
@@ -609,14 +633,6 @@
       "onboard_time": 1761999441,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 262409,
-      "num": 158780,
-      "word": "多少钱能让卢昱晓把这条视频删了",
-      "onboard_time": 1762002923,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 258662,
@@ -667,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242906,
+      "num": 195726,
+      "word": "小婴儿的核磁共振全是脑子",
+      "onboard_time": 1762000822,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241786,
       "num": 213541,
       "word": "女子故意夹门赶地铁",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 241744,
-      "num": 194380,
+      "num": 194524,
       "word": "程晓玥生一胎把无痛打满了",
       "onboard_time": 1762000521,
       "rank": 32,
@@ -689,6 +713,22 @@
       "onboard_time": 1761962479,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241413,
+      "num": 241413,
+      "word": "长沙潮宗街墙体垮塌致2名女孩遇难",
+      "onboard_time": 1762006404,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232632,
+      "num": 232632,
+      "word": "DRG对战狼队",
+      "onboard_time": 1761994402,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 229646,
@@ -713,6 +753,14 @@
       "onboard_time": 1761952698,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227531,
+      "num": 227531,
+      "word": "警方通报2球迷中超比赛做侮辱性动作",
+      "onboard_time": 1762005323,
+      "rank": 7,
+      "category": "辟谣/通报,体育"
     },
     {
       "raw_hot": 226913,
@@ -819,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206779,
+      "num": 188997,
+      "word": "泰州队这匹黑马直接通关了",
+      "onboard_time": 1762006884,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206694,
       "num": 206694,
       "word": "全红婵时隔183天参加正式比赛",
@@ -899,20 +955,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 194309,
-      "num": 194309,
-      "word": "小婴儿的核磁共振全是脑子",
-      "onboard_time": 1762000822,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193088,
       "num": 269737,
       "word": "年轻人爱上越剧",
       "onboard_time": 1761962780,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192824,
+      "num": 192824,
+      "word": "张凌赫 老牛耕地",
+      "onboard_time": 1762005744,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192218,
@@ -937,6 +993,14 @@
       "onboard_time": 1761994402,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190962,
+      "num": 190962,
+      "word": "中方强烈抗议高市早苗涉台错误言行",
+      "onboard_time": 1762006824,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188786,
@@ -985,6 +1049,14 @@
       "onboard_time": 1761972499,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185171,
+      "num": 185171,
+      "word": "张柏芝 完全没有法令纹的痕迹",
+      "onboard_time": 1762006345,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 181552,
@@ -1051,12 +1123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176050,
+      "num": 176050,
+      "word": "朱芊曦4比3桥本帆乃香",
+      "onboard_time": 1762005744,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175905,
+      "num": 175905,
+      "word": "众星发文悼念屠颖",
+      "onboard_time": 1762006106,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173801,
       "num": 176859,
       "word": "文荣奖",
       "onboard_time": 1761982460,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173551,
+      "num": 173551,
+      "word": "宁静10年了还没走出花少阴影",
+      "onboard_time": 1762006404,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 172301,
@@ -1105,6 +1201,14 @@
       "onboard_time": 1761970401,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166864,
+      "num": 166864,
+      "word": "藏海传导演感谢肖战",
+      "onboard_time": 1762004543,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 166148,
@@ -1219,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156645,
+      "num": 156645,
+      "word": "长沙脚手架垮塌致2死店铺正在装修",
+      "onboard_time": 1762005443,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156569,
       "num": 156569,
       "word": "他们能结婚是我工作上的疏忽",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1761982639,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154924,
+      "num": 154924,
+      "word": "美军机连续坠入南海最新调查曝光",
+      "onboard_time": 1762004182,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154442,
@@ -1435,12 +1555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144502,
-      "num": 144502,
-      "word": "觉得自己闯祸了就来看翁青雅朱珠",
-      "onboard_time": 1762001481,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 144346,
+      "num": 144346,
+      "word": "被吓的导演 敬业的戏骨 不土的明星",
+      "onboard_time": 1762005804,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 143689,
@@ -1595,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133564,
+      "num": 155635,
+      "word": "周深 劳资蜀到山",
+      "onboard_time": 1762004663,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133104,
       "num": 133104,
       "word": "GEN回应不敌KT",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1761991579,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128424,
+      "num": 128424,
+      "word": "苏超决赛收视率破1",
+      "onboard_time": 1762004844,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128271,
@@ -1803,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121349,
+      "num": 159131,
+      "word": "东莞一公园长凳装密集扶手被质疑",
+      "onboard_time": 1762004062,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121225,
       "num": 154978,
       "word": "6名航天员共同在空间站约5天",
@@ -1865,14 +2009,6 @@
       "onboard_time": 1761953838,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119039,
-      "num": 188202,
-      "word": "DRG对战狼队",
-      "onboard_time": 1761994402,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 118863,
@@ -1961,14 +2097,6 @@
       "onboard_time": 1761916825,
       "rank": 24,
       "category": "议题讨论,时尚"
-    },
-    {
-      "raw_hot": 114357,
-      "num": 114357,
-      "word": "美军机连续坠入南海最新调查曝光",
-      "onboard_time": 1762004182,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113326,
@@ -2412,7 +2540,7 @@
     },
     {
       "raw_hot": 97087,
-      "num": 150712,
+      "num": 209431,
       "word": "我国打破核电对铀的依赖",
       "onboard_time": 1761963861,
       "rank": 40,
@@ -2987,6 +3115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72374,
+      "num": 197630,
+      "word": "苏超现场最特别的应援蓝海",
+      "onboard_time": 1762005923,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71872,
       "num": 121740,
       "word": "库里首次成为NBA收入最高球员",
@@ -3064,14 +3200,6 @@
       "word": "教师反击媚男指控是一次法律公开课",
       "onboard_time": 1761974001,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69074,
-      "num": 159131,
-      "word": "东莞一公园长凳装密集扶手被质疑",
-      "onboard_time": 1762004062,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3259,6 +3387,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 57053,
+      "num": 158412,
+      "word": "郑丽文 台湾正处于最困难最危险的时刻",
+      "onboard_time": 1762006884,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56774,
       "num": 110773,
       "word": "加拿大总理称旧的世界秩序不复存在",
@@ -3323,11 +3459,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51247,
+      "num": 616703,
+      "word": "中国人有7张太空全家福了",
+      "onboard_time": 1761987741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48411,
       "num": 203729,
       "word": "男子好心载同事出事故赔6万",
       "onboard_time": 1761992780,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48106,
+      "num": 197392,
+      "word": "全国1%人口抽样调查",
+      "onboard_time": 1762006585,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3345,6 +3497,14 @@
       "onboard_time": 1761923002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45197,
+      "num": 152377,
+      "word": "金店换金 心算测验",
+      "onboard_time": 1762006884,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44278,
@@ -3401,6 +3561,14 @@
       "onboard_time": 1761979039,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41620,
+      "num": 165590,
+      "word": "老人感冒医生多看一眼片子救了一命",
+      "onboard_time": 1762006884,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41167,
@@ -3609,6 +3777,14 @@
       "onboard_time": 1761965059,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18531,
+      "num": 160208,
+      "word": "免费黄金打卡位竟被揽拍霸占",
+      "onboard_time": 1762006464,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17212,

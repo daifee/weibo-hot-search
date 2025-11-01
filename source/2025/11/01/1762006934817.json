@@ -1,0 +1,410 @@
+{
+  "runTime": 1762006934817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5959028,
+        "num": 7209028,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941063,
+        "num": 941063,
+        "word": "泰州vs南通",
+        "onboard_time": 1761999441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51247,
+        "num": 616703,
+        "word": "中国人有7张太空全家福了",
+        "onboard_time": 1761987741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425815,
+        "num": 425815,
+        "word": "苏超决赛直播",
+        "onboard_time": 1761998121,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276325,
+        "num": 276325,
+        "word": "无限暖暖",
+        "onboard_time": 1761999321,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241413,
+        "num": 241413,
+        "word": "长沙潮宗街墙体垮塌致2名女孩遇难",
+        "onboard_time": 1762006404,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232632,
+        "num": 232632,
+        "word": "DRG对战狼队",
+        "onboard_time": 1761994402,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227531,
+        "num": 227531,
+        "word": "警方通报2球迷中超比赛做侮辱性动作",
+        "onboard_time": 1762005323,
+        "rank": 7,
+        "category": "辟谣/通报,体育"
+      },
+      {
+        "raw_hot": 4785,
+        "num": 209431,
+        "word": "我国打破核电对铀的依赖",
+        "onboard_time": 1761963861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201006,
+        "num": 201006,
+        "word": "第十一届文荣奖获奖名单",
+        "onboard_time": 1762001901,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1594271,
+        "num": 200893,
+        "word": "刘强东 从此在老婆面前没有了自信",
+        "onboard_time": 1762000102,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 666341,
+        "num": 200285,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625250,
+        "num": 199847,
+        "word": "小米",
+        "onboard_time": 1762003823,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 464004,
+        "num": 199710,
+        "word": "女子手镯10年未摘长进肉里",
+        "onboard_time": 1761993621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373374,
+        "num": 199291,
+        "word": "苏超",
+        "onboard_time": 1761988880,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364530,
+        "num": 198806,
+        "word": "14岁男孩获刑13年震慑未成年人犯罪",
+        "onboard_time": 1761992661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263495,
+        "num": 198344,
+        "word": "关晓彤掉了好多头发",
+        "onboard_time": 1761989060,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260279,
+        "num": 198240,
+        "word": "能先把肖战让给我们三体吗",
+        "onboard_time": 1761999981,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72374,
+        "num": 197630,
+        "word": "苏超现场最特别的应援蓝海",
+        "onboard_time": 1762005923,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48106,
+        "num": 197392,
+        "word": "全国1%人口抽样调查",
+        "onboard_time": 1762006585,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780615,
+        "num": 196969,
+        "word": "多少钱能让卢昱晓把这条视频删了",
+        "onboard_time": 1762002923,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494901,
+        "num": 196603,
+        "word": "觉得自己闯祸了就来看翁青雅朱珠",
+        "onboard_time": 1762001481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277194,
+        "num": 196030,
+        "word": "爸爸去哪儿男生近照",
+        "onboard_time": 1761995000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242906,
+        "num": 195726,
+        "word": "小婴儿的核磁共振全是脑子",
+        "onboard_time": 1762000822,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238631,
+        "num": 195194,
+        "word": "李茂自曝被亲戚骗光所有积蓄",
+        "onboard_time": 1761996259,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179079,
+        "num": 194810,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1761984621,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204629,
+        "num": 194524,
+        "word": "程晓玥生一胎把无痛打满了",
+        "onboard_time": 1762000521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194295,
+        "num": 194295,
+        "word": "著名音乐人屠颖离世",
+        "onboard_time": 1761995360,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192824,
+        "num": 192824,
+        "word": "张凌赫 老牛耕地",
+        "onboard_time": 1762005744,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190962,
+        "num": 190962,
+        "word": "中方强烈抗议高市早苗涉台错误言行",
+        "onboard_time": 1762006824,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206779,
+        "num": 188997,
+        "word": "泰州队这匹黑马直接通关了",
+        "onboard_time": 1762006884,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 185171,
+        "word": "张柏芝 完全没有法令纹的痕迹",
+        "onboard_time": 1762006345,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176050,
+        "num": 176050,
+        "word": "朱芊曦4比3桥本帆乃香",
+        "onboard_time": 1762005744,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175905,
+        "num": 175905,
+        "word": "众星发文悼念屠颖",
+        "onboard_time": 1762006106,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173551,
+        "num": 173551,
+        "word": "宁静10年了还没走出花少阴影",
+        "onboard_time": 1762006404,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166864,
+        "num": 166864,
+        "word": "藏海传导演感谢肖战",
+        "onboard_time": 1762004543,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41620,
+        "num": 165590,
+        "word": "老人感冒医生多看一眼片子救了一命",
+        "onboard_time": 1762006884,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164694,
+        "num": 164694,
+        "word": "KT战胜GEN",
+        "onboard_time": 1761994883,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18531,
+        "num": 160208,
+        "word": "免费黄金打卡位竟被揽拍霸占",
+        "onboard_time": 1762006464,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57053,
+        "num": 158412,
+        "word": "郑丽文 台湾正处于最困难最危险的时刻",
+        "onboard_time": 1762006884,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156645,
+        "num": 156645,
+        "word": "长沙脚手架垮塌致2死店铺正在装修",
+        "onboard_time": 1762005443,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133564,
+        "num": 155635,
+        "word": "周深 劳资蜀到山",
+        "onboard_time": 1762004663,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154924,
+        "num": 154924,
+        "word": "美军机连续坠入南海最新调查曝光",
+        "onboard_time": 1762004182,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45197,
+        "num": 152377,
+        "word": "金店换金 心算测验",
+        "onboard_time": 1762006884,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151856,
+        "num": 151856,
+        "word": "昀牵孟绕",
+        "onboard_time": 1761992900,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144346,
+        "num": 144346,
+        "word": "被吓的导演 敬业的戏骨 不土的明星",
+        "onboard_time": 1762005804,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143420,
+        "num": 143420,
+        "word": "退货被指少退赠品遭扣232元",
+        "onboard_time": 1762000460,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128488,
+        "num": 128488,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1761993200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128424,
+        "num": 128424,
+        "word": "苏超决赛收视率破1",
+        "onboard_time": 1762004844,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121349,
+        "num": 121349,
+        "word": "东莞一公园长凳装密集扶手被质疑",
+        "onboard_time": 1762004062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明举行会谈#"
+    }
+  }
+}
