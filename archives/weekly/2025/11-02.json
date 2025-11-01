@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762022686882,
+  "endTime": 1762024757934,
   "band_list": [
     {
       "raw_hot": 872476,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24223,
+      "num": 44399,
+      "word": "汪苏泷演唱会万人签到",
+      "onboard_time": 1762024274,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23318,
       "num": 111080,
       "word": "暗河传是一场盛大的江湖悲歌",
@@ -489,6 +497,14 @@
       "onboard_time": 1762022594,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18028,
+      "num": 44272,
+      "word": "乔振宇生日直播",
+      "onboard_time": 1762023554,
+      "rank": 43,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

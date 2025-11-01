@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/02 02:44:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/02 03:19:17
 </p>
 </blockquote>
 <p>
@@ -3123,6 +3123,12 @@ Wolf说Hope确实菜（热度：34955）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BA%BA%E7%AD%BE%E5%88%B0%23" target="weibo">
+汪苏泷演唱会万人签到（热度：24223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%89%E5%9F%8E%E6%8F%90%E5%89%8D%E4%B8%80%E8%BD%AE%E6%97%A0%E7%BC%98%E4%BA%89%E5%86%A0%23" target="weibo">
 蓉城提前一轮无缘争冠（热度：23482）
 </a>
@@ -3173,6 +3179,12 @@ Wolf说Hope确实菜（热度：34955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC42%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E4%BB%8E%E4%B8%8A%E6%B5%B7%E8%B5%B7%E8%88%AA%23" target="weibo">
 中国第42次南极考察队从上海起航（热度：18957）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%8C%AF%E5%AE%87%E7%94%9F%E6%97%A5%E7%9B%B4%E6%92%AD%23" target="weibo">
+乔振宇生日直播（热度：18028）
 </a>
 </li>
 

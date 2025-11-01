@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762022686882,
+  "endTime": 1762024757934,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -4147,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24223,
+      "num": 44399,
+      "word": "汪苏泷演唱会万人签到",
+      "onboard_time": 1762024274,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23482,
       "num": 117264,
       "word": "蓉城提前一轮无缘争冠",
@@ -4217,6 +4225,14 @@
       "onboard_time": 1761965059,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18028,
+      "num": 44272,
+      "word": "乔振宇生日直播",
+      "onboard_time": 1762023554,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 17212,
