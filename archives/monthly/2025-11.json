@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1761979614829,
+  "endTime": 1761981761776,
   "band_list": [
     {
       "raw_hot": 1797747,
@@ -83,11 +83,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647278,
+      "num": 1103564,
+      "word": "iPhone18Pro前瞻",
+      "onboard_time": 1761978860,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 638582,
       "num": 268891,
       "word": "拴绳大狗惨遭柯基主人砸酒瓶爆头",
       "onboard_time": 1761967220,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617308,
+      "num": 217017,
+      "word": "出差遭性侵检方不起诉女子发声",
+      "onboard_time": 1761976819,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -123,14 +139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 531922,
-      "num": 217017,
-      "word": "出差遭性侵检方不起诉女子发声",
-      "onboard_time": 1761976819,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489266,
       "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
@@ -147,11 +155,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465172,
+      "num": 167425,
+      "word": "刘嘉玲 内娱文化冲击",
+      "onboard_time": 1761978740,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395763,
       "num": 219618,
       "word": "陈乔恩说带孩子辛苦所以选择在外工作",
       "onboard_time": 1761965059,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373163,
+      "num": 194502,
+      "word": "周洁琼报了关晓彤的仇",
+      "onboard_time": 1761978440,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309140,
+      "num": 166191,
+      "word": "黄凯选迪丽热巴offer5知道吗",
+      "onboard_time": 1761979101,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306478,
       "num": 259850,
       "word": "向太直言统一是破局钥匙",
@@ -225,14 +257,6 @@
       "onboard_time": 1761961159,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 301101,
-      "num": 194502,
-      "word": "周洁琼报了关晓彤的仇",
-      "onboard_time": 1761978440,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 287546,
@@ -273,14 +297,6 @@
       "onboard_time": 1761970099,
       "rank": 17,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 256739,
-      "num": 156122,
-      "word": "黄凯选迪丽热巴offer5知道吗",
-      "onboard_time": 1761979101,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 251735,
@@ -419,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207175,
+      "num": 164831,
+      "word": "钱天一王昶秀恩爱",
+      "onboard_time": 1761981501,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206694,
+      "num": 206694,
+      "word": "全红婵时隔183天参加正式比赛",
+      "onboard_time": 1761976941,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205248,
       "num": 182423,
       "word": "时代少年团台历",
@@ -451,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200901,
+      "num": 183573,
+      "word": "李沁告别花儿与少年",
+      "onboard_time": 1761979520,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197943,
       "num": 504333,
       "word": "长沙潮宗街一面墙体倒塌",
@@ -473,14 +513,6 @@
       "onboard_time": 1761962780,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192521,
-      "num": 155840,
-      "word": "iPhone18Pro前瞻",
-      "onboard_time": 1761978860,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 192218,
@@ -739,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147459,
+      "num": 147459,
+      "word": "银灰",
+      "onboard_time": 1761979700,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147408,
       "num": 186134,
       "word": "龚俊暗河传拿了一周榜1",
@@ -779,12 +819,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 138953,
-      "num": 155996,
-      "word": "刘嘉玲 内娱文化冲击",
-      "onboard_time": 1761978740,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 143328,
+      "num": 143328,
+      "word": "王力宏把最后一排变成第一排",
+      "onboard_time": 1761981501,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 138921,
@@ -843,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131862,
+      "num": 131862,
+      "word": "Angelababy期待马天宇新剧三人行",
+      "onboard_time": 1761979820,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129902,
+      "num": 129902,
+      "word": "李冰冰大花含金量还在上升",
+      "onboard_time": 1761981259,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127988,
       "num": 127988,
       "word": "光夜查理苏悬顶之心",
@@ -875,20 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125790,
-      "num": 125790,
-      "word": "李沁告别花儿与少年",
-      "onboard_time": 1761979520,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125649,
       "num": 156712,
       "word": "冯淬帆曾悼念许绍雄",
       "onboard_time": 1761961340,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125599,
+      "num": 125599,
+      "word": "深圳一独栋别墅法拍3.64亿元成交",
+      "onboard_time": 1761980721,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124514,
@@ -1019,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115211,
+      "num": 115211,
+      "word": "李在明夫人穿韩服接待APEC夫人团",
+      "onboard_time": 1761980420,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115179,
       "num": 504027,
       "word": "为什么女装裤频频无中生裆",
@@ -1035,11 +1099,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112562,
+      "num": 112562,
+      "word": "原来心梗是有征兆的",
+      "onboard_time": 1761979459,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111717,
       "num": 111717,
       "word": "刘亦菲演个恶女吧",
       "onboard_time": 1761979159,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111352,
+      "num": 111352,
+      "word": "陆毅鲍蕾 新一小兰",
+      "onboard_time": 1761980901,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1163,6 +1243,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101561,
+      "num": 101561,
+      "word": "240斤女生为婚礼5个月瘦60斤",
+      "onboard_time": 1761981321,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 101240,
+      "num": 101240,
+      "word": "长沙市运会开幕式出现王楚钦",
+      "onboard_time": 1761981681,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101116,
       "num": 101116,
       "word": "大厨小婿开播",
@@ -1188,7 +1284,7 @@
     },
     {
       "raw_hot": 100310,
-      "num": 108015,
+      "num": 111866,
       "word": "妻子吃药装睡老公旁边出轨",
       "onboard_time": 1761979459,
       "rank": 39,
@@ -1201,22 +1297,6 @@
       "onboard_time": 1761966379,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 99359,
-      "num": 99359,
-      "word": "全红婵时隔183天参加正式比赛",
-      "onboard_time": 1761976941,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 99185,
-      "num": 99185,
-      "word": "原来心梗是有征兆的",
-      "onboard_time": 1761979459,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 98769,
@@ -1291,6 +1371,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95664,
+      "num": 94516,
+      "word": "李沁说龚俊也被传染了",
+      "onboard_time": 1761981140,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95582,
+      "num": 95582,
+      "word": "这些公务员不能辞职",
+      "onboard_time": 1761981681,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94445,
       "num": 94445,
       "word": "张峻豪黑胶",
@@ -1305,6 +1401,14 @@
       "onboard_time": 1761965121,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91892,
+      "num": 91892,
+      "word": "成毅打戏的快进键被人扣了",
+      "onboard_time": 1761980241,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 91539,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1761962059,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86322,
+      "num": 162266,
+      "word": "GEN对战KT",
+      "onboard_time": 1761981140,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 85892,
@@ -1548,7 +1660,7 @@
     },
     {
       "raw_hot": 76021,
-      "num": 156054,
+      "num": 164972,
       "word": "孙颖莎东方美人",
       "onboard_time": 1761979159,
       "rank": 17,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1761974481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74137,
+      "num": 94641,
+      "word": "刘晓庆对刘嘉玲说你要乖噢",
+      "onboard_time": 1761980241,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 73594,
@@ -1771,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62636,
+      "num": 101400,
+      "word": "潘展乐练瘦了",
+      "onboard_time": 1761981200,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62352,
       "num": 503850,
       "word": "男子无培训上班第一天害死同事",
@@ -1891,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48538,
+      "num": 163812,
+      "word": "王多多称T1暴露了很多破绽",
+      "onboard_time": 1761981379,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47197,
       "num": 271502,
       "word": "每天与一件国宝相遇",
@@ -2003,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28604,
+      "num": 96569,
+      "word": "高校职称晋升 金钱游戏",
+      "onboard_time": 1761981740,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 27677,
       "num": 109523,
       "word": "目前中日关系机遇和挑战并存",
@@ -2057,6 +2201,14 @@
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15537,
+      "num": 163430,
+      "word": "和花少7一起好状态迎接年终",
+      "onboard_time": 1761980600,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 13902,
