@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762011400457,
+  "endTime": 1762014499365,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392107,
+      "num": 268783,
+      "word": "日本男子为破杀妻案保存现场26年",
+      "onboard_time": 1762009344,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 386869,
       "num": 241446,
       "word": "能先把肖战让给我们三体吗",
@@ -457,6 +465,14 @@
       "onboard_time": 1761978440,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362532,
+      "num": 845661,
+      "word": "江苏省委书记为泰州队颁奖",
+      "onboard_time": 1762008742,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 355771,
@@ -603,11 +619,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283173,
-      "num": 283173,
-      "word": "江苏省委书记为泰州队颁奖",
-      "onboard_time": 1762008742,
-      "rank": 17,
+      "raw_hot": 282765,
+      "num": 295805,
+      "word": "泰州 一黑到底",
+      "onboard_time": 1762008983,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -691,20 +707,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256453,
+      "num": 280567,
+      "word": "DRG早点 回家吧",
+      "onboard_time": 1762010422,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254697,
       "num": 263638,
       "word": "Chovy世界赛成绩 8884844",
       "onboard_time": 1761996020,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 253832,
-      "num": 295805,
-      "word": "泰州 一黑到底",
-      "onboard_time": 1762008983,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 251735,
@@ -777,6 +793,14 @@
       "onboard_time": 1761994402,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233359,
+      "num": 172779,
+      "word": "赵今麦穿了miumiu珍藏定制系列",
+      "onboard_time": 1762012042,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230111,
@@ -1067,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191534,
+      "num": 191534,
+      "word": "泰州金灿灿",
+      "onboard_time": 1762012761,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191115,
       "num": 191115,
       "word": "果郡王 竟然居然人",
@@ -1203,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172805,
+      "num": 172805,
+      "word": "日本男子保存现场26年凶手落网",
+      "onboard_time": 1762011862,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172301,
       "num": 188442,
       "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
@@ -1251,12 +1291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167468,
+      "num": 282026,
+      "word": "你好星期六下期张凌赫",
+      "onboard_time": 1762011501,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166864,
       "num": 166864,
       "word": "藏海传导演感谢肖战",
       "onboard_time": 1762004543,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166811,
+      "num": 295096,
+      "word": "全国1%人口抽样调查",
+      "onboard_time": 1762006585,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166148,
@@ -1523,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149257,
-      "num": 295096,
-      "word": "全国1%人口抽样调查",
-      "onboard_time": 1762006585,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149070,
       "num": 149070,
       "word": "神秘富豪3.65亿捡漏深圳豪宅",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1761972681,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 148912,
-      "num": 252959,
-      "word": "DRG早点 回家吧",
-      "onboard_time": 1762010422,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 148318,
@@ -1883,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131809,
+      "num": 131809,
+      "word": "男子杀人后淡定去被害人家吃饭",
+      "onboard_time": 1762011801,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131386,
       "num": 139574,
       "word": "邪恶车厘子沈春阳当导演了",
@@ -1897,14 +1945,6 @@
       "onboard_time": 1761993081,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129833,
-      "num": 129833,
-      "word": "日本男子为破杀妻案保存现场26年",
-      "onboard_time": 1762009344,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129462,
@@ -2043,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124511,
+      "num": 124511,
+      "word": "刘佳玺才13岁",
+      "onboard_time": 1762011801,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124167,
       "num": 124167,
       "word": "眉压眼和眉包眼的区别",
@@ -2084,7 +2132,7 @@
     },
     {
       "raw_hot": 123008,
-      "num": 123008,
+      "num": 276179,
       "word": "久酷采访",
       "onboard_time": 1762010783,
       "rank": 33,
@@ -2539,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103856,
+      "num": 274864,
+      "word": "王俊凯无边界演唱会六周年",
+      "onboard_time": 1762012821,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103323,
       "num": 99135,
       "word": "敖子逸跳了青春修炼手册",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1761986660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102796,
+      "num": 102796,
+      "word": "邓紫棋这次真的不一样",
+      "onboard_time": 1762013720,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 102561,
@@ -2843,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93052,
+      "num": 93052,
+      "word": "没人告诉我汪苏泷裤腿上是字啊",
+      "onboard_time": 1762012521,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93035,
       "num": 93035,
       "word": "李沁 慢热的人爱意最汹涌",
@@ -2873,6 +2945,14 @@
       "onboard_time": 1761980241,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91697,
+      "num": 91697,
+      "word": "如果感到迷茫就去读书吧",
+      "onboard_time": 1762013781,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 91539,
@@ -3163,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82131,
+      "num": 88011,
+      "word": "苏超球迷称度过了不一样的2025",
+      "onboard_time": 1762012761,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81681,
       "num": 86916,
       "word": "APEC领导人集体合影",
@@ -3283,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75526,
+      "num": 83690,
+      "word": "罗云熙小心翼翼闯了很多祸",
+      "onboard_time": 1762012400,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75409,
       "num": 503917,
       "word": "建议洗澡千万不要先洗头",
@@ -3321,6 +3417,14 @@
       "onboard_time": 1761969980,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73198,
+      "num": 83668,
+      "word": "苏超南通亚军",
+      "onboard_time": 1762014020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 73175,
@@ -3393,6 +3497,14 @@
       "onboard_time": 1761926841,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 71247,
+      "num": 83656,
+      "word": "34岁男子右手绞进机器碎成多瓣",
+      "onboard_time": 1762014380,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71223,
@@ -4101,6 +4213,9 @@
     },
     {
       "word": "#习近平同韩国总统李在明举行会谈#"
+    },
+    {
+      "word": "#APEC领导人集体合影#"
     }
   ]
 }
