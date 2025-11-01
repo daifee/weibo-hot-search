@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762025804371,
+  "endTime": 1762028715099,
   "band_list": [
     {
       "raw_hot": 872476,
@@ -499,7 +499,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21082,
+      "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
       "onboard_time": 1762025594,
@@ -515,12 +515,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12806,
+      "raw_hot": 15546,
       "num": 51765,
       "word": "村委会回应公园密集扶手已拆除",
       "onboard_time": 1762025774,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15371,
+      "num": 30760,
+      "word": "李在明说将致力于加强与中国合作",
+      "onboard_time": 1762026735,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12266,
+      "num": 30734,
+      "word": "一场在博物馆举行的欢迎仪式",
+      "onboard_time": 1762027636,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
