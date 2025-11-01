@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762032091686,
+  "endTime": 1762033002729,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -4227,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19335,
+      "num": 31303,
+      "word": "现在小孩的玩具真高级",
+      "onboard_time": 1762029435,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18957,
       "num": 204212,
       "word": "中国第42次南极考察队从上海起航",
@@ -4243,20 +4251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17886,
+      "num": 31311,
+      "word": "李在明说将致力于加强与中国合作",
+      "onboard_time": 1762026735,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17212,
       "num": 106233,
       "word": "这部剧不能让秦海璐刷到",
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16973,
-      "num": 31311,
-      "word": "李在明说将致力于加强与中国合作",
-      "onboard_time": 1762026735,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15729,
@@ -4283,20 +4291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15293,
-      "num": 31303,
-      "word": "现在小孩的玩具真高级",
-      "onboard_time": 1762029435,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13902,
       "num": 196464,
       "word": "神21过境北京太美了",
       "onboard_time": 1761978621,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13703,
+      "num": 31304,
+      "word": "一场在博物馆举行的欢迎仪式",
+      "onboard_time": 1762027636,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13288,
@@ -4315,12 +4323,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 12859,
-      "num": 31304,
-      "word": "一场在博物馆举行的欢迎仪式",
-      "onboard_time": 1762027636,
-      "rank": 49,
-      "category": "国内时政"
+      "raw_hot": 12927,
+      "num": 25230,
+      "word": "遏制未成年人犯罪核准追诉不是终点",
+      "onboard_time": 1762025955,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8085,
