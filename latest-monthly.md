@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 19:20:13
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/01 19:37:13
 </p>
 </blockquote>
 <p>
@@ -165,6 +165,12 @@ chovy状态（热度：706292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%B1%A0%E9%A2%96%E7%A6%BB%E4%B8%96%23" target="weibo">
+著名音乐人屠颖离世（热度：547458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E7%AB%9F%E7%84%B6%E6%9B%B4%E7%9C%81%E9%92%B1%23" target="weibo">
 手机一年一换竟然更省钱（热度：540307）
 </a>
@@ -233,6 +239,12 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%A4%A9%E4%B8%80%E7%8E%8B%E6%98%B6%E7%A7%80%E6%81%A9%E7%88%B1%23" target="weibo">
 钱天一王昶秀恩爱（热度：418838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%A4%B1%E5%88%A9%E4%B9%8B%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
+Ruler失利之后哭了（热度：403914）
 </a>
 </li>
 
@@ -381,8 +393,20 @@ T1战胜AL（热度：279371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%88%98%E5%98%89%E7%8E%B2%E7%8E%8B%E8%8F%B2%E9%82%A3%E8%8B%B1%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
+怪不得刘嘉玲王菲那英是好朋友（热度：267147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E9%A2%84%E6%B5%8BS15%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%23" target="weibo">
 Faker预测S15决赛对手（热度：258662）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Chovy%E4%B8%96%E7%95%8C%E8%B5%9B%E6%88%90%E7%BB%A9%208884844%23" target="weibo">
+Chovy世界赛成绩 8884844（热度：254697）
 </a>
 </li>
 
@@ -411,12 +435,6 @@ Faker预测S15决赛对手（热度：258662）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%88%98%E5%98%89%E7%8E%B2%E7%8E%8B%E8%8F%B2%E9%82%A3%E8%8B%B1%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
-怪不得刘嘉玲王菲那英是好朋友（热度：243593）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%95%85%E6%84%8F%E5%A4%B9%E9%97%A8%E8%B5%B6%E5%9C%B0%E9%93%81%23" target="weibo">
 女子故意夹门赶地铁（热度：241786）
 </a>
@@ -429,14 +447,14 @@ Faker预测S15决赛对手（热度：258662）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E6%9B%B4%E6%96%B0ins%23" target="weibo">
-包上恩更新ins（热度：228254）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%85%A8%E8%BF%90%E4%BC%9A%E5%8D%95%E4%BA%BA%E9%A1%B9%E7%9B%AE%23" target="weibo">
+全红婵不参加全运会单人项目（热度：229646）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%85%A8%E8%BF%90%E4%BC%9A%E5%8D%95%E4%BA%BA%E9%A1%B9%E7%9B%AE%23" target="weibo">
-全红婵不参加全运会单人项目（热度：227935）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E4%B8%8A%E6%81%A9%E6%9B%B4%E6%96%B0ins%23" target="weibo">
+包上恩更新ins（热度：228254）
 </a>
 </li>
 
@@ -449,6 +467,12 @@ Faker预测S15决赛对手（热度：258662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AL%E6%95%99%E7%BB%83%E5%90%8E%E5%8F%B0%E7%97%9B%E5%93%AD%23" target="weibo">
 AL教练后台痛哭（热度：226913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%A5%BF%E5%9F%9F%E6%9D%A5%E4%BA%86%E4%B8%80%E4%BD%8D%E8%B2%8C%E7%BE%8E%E4%B9%8B%E4%BA%BA%23" target="weibo">
+西西域来了一位貌美之人（热度：224335）
 </a>
 </li>
 
@@ -471,8 +495,20 @@ AL教练后台痛哭（热度：226913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%8B%92%E7%BB%9D%E5%84%BF%E5%AD%90%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23" target="weibo">
+张柏芝拒绝儿子母亲节礼物（热度：221239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%8F%91%E4%B8%87%E5%85%83%E5%A4%A7%E5%88%B8%E5%8C%85%23" target="weibo">
 天猫双11又双叒叕发万元大券包（热度：220139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%23" target="weibo">
+苏超（热度：219611）
 </a>
 </li>
 
@@ -485,6 +521,12 @@ A勒布伦惊天逆转张本智和（热度：217137）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%83%E4%BC%98%E8%B4%A8%E7%A2%B3%E6%B0%B4%E8%83%BD%E6%8A%97%E8%A1%B0%E8%80%81%23" target="weibo">
 多吃优质碳水能抗衰老（热度：214672）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%B64000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%8A%E5%8F%A4%E7%A4%BC%E5%99%A8%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
+这件4000多年前的上古礼器有多绝（热度：214147）
 </a>
 </li>
 
@@ -537,6 +579,12 @@ A勒布伦惊天逆转张本智和（热度：217137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8C%82%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%BA%B2%E6%88%9A%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23" target="weibo">
+李茂自曝被亲戚骗光所有积蓄（热度：202714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%8F%B2%E5%85%83%E5%BA%AD%E6%89%BF%E5%8C%85100%E4%BA%A9%E5%9C%B0%E8%B5%9A%E4%BA%8610%E4%B8%87%23" target="weibo">
 演员史元庭承包100亩地赚了10万（热度：202386）
 </a>
@@ -561,12 +609,6 @@ Gumayusi回应淘汰AL（热度：201128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%8B%92%E7%BB%9D%E5%84%BF%E5%AD%90%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23" target="weibo">
-张柏芝拒绝儿子母亲节礼物（热度：198899）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%BD%AE%E5%AE%97%E8%A1%97%E4%B8%80%E9%9D%A2%E5%A2%99%E4%BD%93%E5%80%92%E5%A1%8C%23" target="weibo">
 长沙潮宗街一面墙体倒塌（热度：197943）
 </a>
@@ -581,12 +623,6 @@ Gumayusi回应淘汰AL（热度：201128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%90%E5%9F%BA%E7%A1%80%E7%A9%B7%E8%A3%85%E5%B0%B1%E4%B8%8D%E5%9F%BA%E7%A1%80%23" target="weibo">
 房子基础穷装就不基础（热度：195425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%B64000%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%8A%E5%8F%A4%E7%A4%BC%E5%99%A8%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
-这件4000多年前的上古礼器有多绝（热度：194963）
 </a>
 </li>
 
@@ -635,12 +671,6 @@ APEC2026在深圳举办（热度：188680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%B7%B2%E7%BB%8F%E6%BA%9C%E4%BA%86%E7%8E%8B%E9%B9%A4%E6%A3%A33%E5%B9%B4%E4%BA%86%23" target="weibo">
 将门毒后已经溜了王鹤棣3年了（热度：186958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%B1%A0%E9%A2%96%E7%A6%BB%E4%B8%96%23" target="weibo">
-著名音乐人屠颖离世（热度：186043）
 </a>
 </li>
 
@@ -771,20 +801,14 @@ Ning为Tarzan鸣不平（热度：163004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B0%B4%E9%BE%99%E5%90%9F%E6%95%A2%E5%9C%A818%E9%9B%86%E6%96%AD%E6%9B%B4%23" target="weibo">
+怪不得水龙吟敢在18集断更（热度：162130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E7%94%B0%E6%9B%A6%E8%96%87%E8%83%A1%E4%B8%80%E5%A4%A9%E8%A1%A8%E7%99%BD%E6%88%8F%23" target="weibo">
 天才女友田曦薇胡一天表白戏（热度：161175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%A5%BF%E5%9F%9F%E6%9D%A5%E4%BA%86%E4%B8%80%E4%BD%8D%E8%B2%8C%E7%BE%8E%E4%B9%8B%E4%BA%BA%23" target="weibo">
-西西域来了一位貌美之人（热度：159813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%23" target="weibo">
-苏超（热度：159204）
 </a>
 </li>
 
@@ -939,12 +963,6 @@ AG老板谈AL不敌T1（热度：150101）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%A4%B1%E5%88%A9%E4%B9%8B%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
-Ruler失利之后哭了（热度：146323）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E6%92%95%E6%BC%AB%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
 成毅天地剑心撕漫感大片（热度：146021）
 </a>
@@ -959,12 +977,6 @@ ShowMaker复刻名场面（热度：145459）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%BF%98%E4%BA%86%E6%A2%81%E6%9C%9D%E4%BC%9F%E8%AF%B4%E8%AF%9D%E6%85%A2%E4%B8%89%E7%A7%92%E7%9A%84%E5%98%B1%E5%92%90%E4%BA%86%23" target="weibo">
 刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了（热度：144902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B0%B4%E9%BE%99%E5%90%9F%E6%95%A2%E5%9C%A818%E9%9B%86%E6%96%AD%E6%9B%B4%23" target="weibo">
-怪不得水龙吟敢在18集断更（热度：143727）
 </a>
 </li>
 
@@ -987,6 +999,24 @@ ShowMaker复刻名场面（热度：145459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%23" target="weibo">
+斗破苍穹（热度：140440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E5%8E%BB%E7%9C%8B%E7%86%8A%E7%8C%AB%E4%BA%86%23" target="weibo">
+展轩去看熊猫了（热度：140078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B5%AB%E9%87%8E%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%95%BF%E9%AB%9810%E5%8E%98%E7%B1%B3%23" target="weibo">
+王赫野一觉醒来长高10厘米（热度：139659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Hope%E5%9B%9E%E5%BA%94%E6%83%9C%E8%B4%A5T1%23" target="weibo">
 Hope回应惜败T1（热度：138921）
 </a>
@@ -995,6 +1025,12 @@ Hope回应惜败T1（热度：138921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E9%80%81%E7%A4%BC%E4%B8%8A%E9%99%90%E6%98%AF200%E5%9D%97%23" target="weibo">
 刘宇宁送礼上限是200块（热度：138775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Chovy%E5%86%8D%E6%AC%A1%E6%AD%A2%E6%AD%A5%E5%9B%9B%E5%BC%BA%23" target="weibo">
+Chovy再次止步四强（热度：138569）
 </a>
 </li>
 
@@ -1029,12 +1065,6 @@ Hope回应惜败T1（热度：138921）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%23" target="weibo">
-斗破苍穹（热度：135839）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E9%80%89%E4%B8%AD%E5%B0%BE%E5%8F%B76646%E5%8F%B7%E7%89%8C%E8%A2%AB%E5%91%8A%E7%9F%A5%E4%BD%9C%E5%BA%9F%23" target="weibo">
 车主选中尾号6646号牌被告知作废（热度：135633）
 </a>
@@ -1049,6 +1079,18 @@ Hope回应惜败T1（热度：138921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E6%9C%9F%E5%BE%85%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%96%B0%E5%89%A7%E4%B8%89%E4%BA%BA%E8%A1%8C%23" target="weibo">
 Angelababy期待马天宇新剧三人行（热度：131862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%AA%E6%81%B6%E8%BD%A6%E5%8E%98%E5%AD%90%E6%B2%88%E6%98%A5%E9%98%B3%E5%BD%93%E5%AF%BC%E6%BC%94%E4%BA%86%23" target="weibo">
+邪恶车厘子沈春阳当导演了（热度：131386）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%A5%B3%E7%94%9F%E8%99%90%E5%AE%A4%E5%8F%8B%E8%87%B4%E6%AD%BB%E6%A1%88%E4%B8%BB%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+3女生虐室友致死案主犯被执行死刑（热度：130077）
 </a>
 </li>
 
@@ -1085,6 +1127,12 @@ Angelababy期待马天宇新剧三人行（热度：131862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%90%8E%E6%8C%89%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%E7%BB%99%E5%85%B3%E6%99%93%E5%BD%A4%E5%81%9A%E9%80%A0%E5%9E%8B%23" target="weibo">
 以后按这个标准给关晓彤做造型（热度：126399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%98%8E%E4%BF%A1%E7%89%87%E8%83%8C%E9%9D%A2%E6%98%AF%E4%B8%8D%E5%BF%83%E5%8A%A8%E6%8C%91%E6%88%98%23" target="weibo">
+王橹杰明信片背面是不心动挑战（热度：126028）
 </a>
 </li>
 
@@ -1251,6 +1299,12 @@ iPhone18Pro八大升级（热度：117514）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%A6%BB%E5%BC%80%E5%B0%8F%E7%B1%B3%E5%90%8E%E6%96%B0%E5%8A%A8%E5%90%91%23" target="weibo">
+王腾离开小米后新动向（热度：112033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%BC%94%E4%B8%AA%E6%81%B6%E5%A5%B3%E5%90%A7%23" target="weibo">
 刘亦菲演个恶女吧（热度：111717）
 </a>
@@ -1331,12 +1385,6 @@ iPhone18Pro八大升级（热度：117514）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E9%87%8C%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%88%B7%E7%88%B7%E4%B8%A4%E5%A4%A9%E6%94%B6%E5%88%B0%E5%8D%81%E5%87%A0%E4%B8%87%E6%8D%90%E6%AC%BE%23" target="weibo">
 凯里动物园爷爷两天收到十几万捐款（热度：107157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%A5%B3%E7%94%9F%E8%99%90%E5%AE%A4%E5%8F%8B%E8%87%B4%E6%AD%BB%E6%A1%88%E4%B8%BB%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-3女生虐室友致死案主犯被执行死刑（热度：106721）
 </a>
 </li>
 
@@ -1793,6 +1841,12 @@ APEC领导人集体合影（热度：81681）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E4%B8%8E%E5%81%B6%E5%83%8F%E7%BA%A6%E5%9F%BA%E5%A5%87%E5%90%8C%E6%A1%86%E4%BA%86%23" target="weibo">
 杨瀚森与偶像约基奇同框了（热度：81165）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A6%B9%E8%83%8C%E7%9D%80%E7%97%9B%E5%8C%85%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+全妹背着痛包回来了（热度：80740）
 </a>
 </li>
 
@@ -2255,6 +2309,12 @@ Wolf说Hope确实菜（热度：34955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E5%B0%8F%E6%B3%95%E5%AE%9D%23" target="weibo">
 黄子弘凡演唱会后台小法宝（热度：29884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E8%8B%8F%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+2025苏超总决赛（热度：29154）
 </a>
 </li>
 
