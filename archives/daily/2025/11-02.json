@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762036746255,
+  "endTime": 1762039396237,
   "band_list": [
     {
       "raw_hot": 872476,
@@ -41,6 +41,14 @@
       "onboard_time": 1762002923,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428356,
+      "num": 159246,
+      "word": "男子杀人后淡定去被害人家吃饭",
+      "onboard_time": 1762011801,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392107,
@@ -107,14 +115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250645,
-      "num": 159246,
-      "word": "男子杀人后淡定去被害人家吃饭",
-      "onboard_time": 1762011801,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233359,
       "num": 172779,
       "word": "赵今麦穿了miumiu珍藏定制系列",
@@ -131,20 +131,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 195391,
+      "num": 187296,
+      "word": "14岁男孩获刑13年震慑未成年人犯罪",
+      "onboard_time": 1761992661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191534,
       "num": 191534,
       "word": "泰州金灿灿",
       "onboard_time": 1762012761,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187296,
-      "num": 187296,
-      "word": "14岁男孩获刑13年震慑未成年人犯罪",
-      "onboard_time": 1761992661,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180860,
@@ -179,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152368,
+      "num": 70837,
+      "word": "赵樱子曝孟子义上综艺和她有关系",
+      "onboard_time": 1762038616,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149513,
       "num": 277799,
       "word": "无限暖暖",
@@ -209,6 +217,14 @@
       "onboard_time": 1761999981,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129736,
+      "num": 71991,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1762038377,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 129634,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97934,
+      "num": 111327,
+      "word": "美军机连续坠入南海最新调查曝光",
+      "onboard_time": 1762004182,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97563,
       "num": 158158,
       "word": "爸爸去哪儿男生近照",
@@ -323,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91168,
+      "num": 91168,
+      "word": "乌11名特种兵遭俄军击毙",
+      "onboard_time": 1762038257,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89646,
       "num": 158356,
       "word": "网红胡楚靓左耳重度耳聋",
@@ -347,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "南通队队长射失点球泪洒当场",
+      "onboard_time": 1762036455,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84462,
       "num": 157861,
       "word": "众星发文悼念屠颖",
@@ -369,6 +409,14 @@
       "onboard_time": 1762012761,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79294,
+      "num": 69480,
+      "word": "27岁脑子一热给自己报了26年高考",
+      "onboard_time": 1762039098,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 76842,
@@ -403,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69279,
+      "num": 69279,
+      "word": "叶童迪丽热巴穿Prada的女王",
+      "onboard_time": 1762038495,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65433,
       "num": 157081,
       "word": "南通队长哭了",
@@ -419,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59146,
+      "num": 59146,
+      "word": "男子乔迁聚会300万名表丢失",
+      "onboard_time": 1762038197,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57424,
       "num": 156934,
       "word": "广东多人收到百里挑一短信",
       "onboard_time": 1762015281,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55225,
+      "num": 111196,
+      "word": "泰州女主帅踢过世界杯",
+      "onboard_time": 1762020557,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 52511,
@@ -435,12 +507,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42095,
-      "num": 111327,
-      "word": "美军机连续坠入南海最新调查曝光",
-      "onboard_time": 1762004182,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 50214,
+      "num": 50214,
+      "word": "赵晴获奖感言",
+      "onboard_time": 1762038737,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40593,
+      "num": 40593,
+      "word": "现在小孩的玩具真高级",
+      "onboard_time": 1762029435,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 40592,
+      "num": 40591,
+      "word": "陈熠2比4申裕斌",
+      "onboard_time": 1762039338,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39012,
+      "num": 40592,
+      "word": "果郡王 竟然居然人",
+      "onboard_time": 1761994402,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34409,
+      "num": 51765,
+      "word": "村委会回应公园密集扶手已拆除",
+      "onboard_time": 1762025774,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31893,
@@ -451,20 +555,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31693,
+      "num": 40017,
+      "word": "官方回应被人口调查短信翻牌",
+      "onboard_time": 1762034473,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26690,
       "num": 111210,
       "word": "汪苏泷以后就这么穿吧",
       "onboard_time": 1762021096,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26403,
-      "num": 111196,
-      "word": "泰州女主帅踢过世界杯",
-      "onboard_time": 1762020557,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 26074,
@@ -499,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21490,
-      "num": 38668,
-      "word": "现在小孩的玩具真高级",
-      "onboard_time": 1762029435,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
@@ -523,20 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21239,
-      "num": 41038,
-      "word": "南通队队长射失点球泪洒当场",
-      "onboard_time": 1762036455,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20750,
-      "num": 51765,
-      "word": "村委会回应公园密集扶手已拆除",
-      "onboard_time": 1762025774,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 18985,
+      "num": 40002,
+      "word": "藏海传年度平台推荐剧集",
+      "onboard_time": 1762030994,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 18028,
@@ -545,22 +633,6 @@
       "onboard_time": 1762023554,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16178,
-      "num": 32684,
-      "word": "官方回应被人口调查短信翻牌",
-      "onboard_time": 1762034473,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15945,
-      "num": 38645,
-      "word": "藏海传年度平台推荐剧集",
-      "onboard_time": 1762030994,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 14006,

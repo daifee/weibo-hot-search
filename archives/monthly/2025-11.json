@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762036746255,
+  "endTime": 1762039396237,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428356,
+      "num": 159246,
+      "word": "男子杀人后淡定去被害人家吃饭",
+      "onboard_time": 1762011801,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418838,
       "num": 256580,
       "word": "钱天一王昶秀恩爱",
@@ -745,14 +753,6 @@
       "onboard_time": 1761966199,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250645,
-      "num": 159246,
-      "word": "男子杀人后淡定去被害人家吃饭",
-      "onboard_time": 1762011801,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249387,
@@ -1531,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152368,
+      "num": 70837,
+      "word": "赵樱子曝孟子义上综艺和她有关系",
+      "onboard_time": 1762038616,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152344,
       "num": 152344,
       "word": "KT对战GEN拿到赛点",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1761993081,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129736,
+      "num": 71991,
+      "word": "王艺迪vs张本美和",
+      "onboard_time": 1762038377,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 129634,
@@ -2987,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91168,
+      "num": 91168,
+      "word": "乌11名特种兵遭俄军击毙",
+      "onboard_time": 1762038257,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90943,
       "num": 90943,
       "word": "吴邪私家笔记",
@@ -3147,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "南通队队长射失点球泪洒当场",
+      "onboard_time": 1762036455,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86596,
       "num": 86596,
       "word": "拴绳大狗遭柯基主人殴打被立案",
@@ -3297,6 +3329,14 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79294,
+      "num": 69480,
+      "word": "27岁脑子一热给自己报了26年高考",
+      "onboard_time": 1762039098,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 79139,
@@ -3579,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69279,
+      "num": 69279,
+      "word": "叶童迪丽热巴穿Prada的女王",
+      "onboard_time": 1762038495,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67280,
       "num": 180878,
       "word": "抢救玉米工人通宵25小时",
@@ -3747,6 +3795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59146,
+      "num": 59146,
+      "word": "男子乔迁聚会300万名表丢失",
+      "onboard_time": 1762038197,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58484,
       "num": 503741,
       "word": "土家香酱饼 土家酱香饼",
@@ -3801,6 +3857,14 @@
       "onboard_time": 1761925761,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55225,
+      "num": 111196,
+      "word": "泰州女主帅踢过世界杯",
+      "onboard_time": 1762020557,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 54457,
@@ -3865,6 +3929,14 @@
       "onboard_time": 1761987741,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50214,
+      "num": 50214,
+      "word": "赵晴获奖感言",
+      "onboard_time": 1762038737,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 48411,
@@ -3955,6 +4027,22 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 40593,
+      "num": 40593,
+      "word": "现在小孩的玩具真高级",
+      "onboard_time": 1762029435,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 40592,
+      "num": 40591,
+      "word": "陈熠2比4申裕斌",
+      "onboard_time": 1762039338,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40189,
       "num": 141264,
       "word": "黄景瑜做起饭来发狠忘情了",
@@ -4027,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34409,
+      "num": 51765,
+      "word": "村委会回应公园密集扶手已拆除",
+      "onboard_time": 1762025774,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33030,
       "num": 254141,
       "word": "苏超决赛领免单",
@@ -4040,6 +4136,14 @@
       "word": "免费黄金打卡位竟被揽拍霸占",
       "onboard_time": 1762006464,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31693,
+      "num": 40017,
+      "word": "官方回应被人口调查短信翻牌",
+      "onboard_time": 1762034473,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -4131,14 +4235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26403,
-      "num": 111196,
-      "word": "泰州女主帅踢过世界杯",
-      "onboard_time": 1762020557,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26074,
       "num": 111187,
       "word": "卢昱晓cos企鹅表情包",
@@ -4211,14 +4307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21490,
-      "num": 38668,
-      "word": "现在小孩的玩具真高级",
-      "onboard_time": 1762029435,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
@@ -4235,28 +4323,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21239,
-      "num": 41038,
-      "word": "南通队队长射失点球泪洒当场",
-      "onboard_time": 1762036455,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20750,
-      "num": 51765,
-      "word": "村委会回应公园密集扶手已拆除",
-      "onboard_time": 1762025774,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19750,
       "num": 103121,
       "word": "掉进李沁的魅力陷阱",
       "onboard_time": 1761978260,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18985,
+      "num": 40002,
+      "word": "藏海传年度平台推荐剧集",
+      "onboard_time": 1762030994,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 18957,
@@ -4280,22 +4360,6 @@
       "word": "这部剧不能让秦海璐刷到",
       "onboard_time": 1761970099,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16178,
-      "num": 32684,
-      "word": "官方回应被人口调查短信翻牌",
-      "onboard_time": 1762034473,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15945,
-      "num": 38645,
-      "word": "藏海传年度平台推荐剧集",
-      "onboard_time": 1762030994,
-      "rank": 24,
       "category": "剧集"
     },
     {
