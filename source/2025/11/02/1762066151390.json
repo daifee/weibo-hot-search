@@ -1,0 +1,410 @@
+{
+  "runTime": 1762066151390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 621146,
+        "num": 1099383,
+        "word": "女子忍痛踩趾压板脚喷血",
+        "onboard_time": 1762058540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199457,
+        "num": 199457,
+        "word": "明年开始卷谍战了",
+        "onboard_time": 1762059680,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27573,
+        "num": 195623,
+        "word": "APEC深圳之约期待值拉满",
+        "onboard_time": 1762054100,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193385,
+        "num": 193385,
+        "word": "看爱情公寓最怕的剧情",
+        "onboard_time": 1762063399,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165476,
+        "num": 165476,
+        "word": "疑似贩卖婴儿4人被抓",
+        "onboard_time": 1762064421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163968,
+        "num": 163968,
+        "word": "Gumayusi说3比0战胜TES",
+        "onboard_time": 1762057340,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166252,
+        "num": 162449,
+        "word": "新闻女王2李施嬅饰演的张家妍",
+        "onboard_time": 1762059141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158605,
+        "num": 158605,
+        "word": "湖南警方通报发现疑似贩卖婴儿",
+        "onboard_time": 1762065080,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 158159,
+        "word": "乡村有了数字范儿",
+        "onboard_time": 1762053739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124519,
+        "num": 156584,
+        "word": "李隼称全运会乒乓球水平超过奥运会",
+        "onboard_time": 1762064961,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1087061,
+        "num": 156082,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114544,
+        "num": 153824,
+        "word": "黄安称屠颖因酒店跑步机摔跤离世",
+        "onboard_time": 1762053739,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 636889,
+        "num": 153250,
+        "word": "温峥嵘同时间出现在3个直播间",
+        "onboard_time": 1762062142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109799,
+        "num": 151281,
+        "word": "四川多名教师曝被欠薪欠缴社保",
+        "onboard_time": 1762055961,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 487436,
+        "num": 151018,
+        "word": "吴昕微信好友竟然这么少",
+        "onboard_time": 1762057520,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450367,
+        "num": 149102,
+        "word": "网传印度人中国街头随地大小便",
+        "onboard_time": 1762063280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365038,
+        "num": 148165,
+        "word": "朱珠给翁青雅关门",
+        "onboard_time": 1762061961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333403,
+        "num": 146294,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306925,
+        "num": 145333,
+        "word": "网友发帖寻找的3名小孩已去世",
+        "onboard_time": 1762064479,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185462,
+        "num": 144770,
+        "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+        "onboard_time": 1762058599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685120,
+        "num": 142871,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170933,
+        "num": 141664,
+        "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+        "onboard_time": 1762060760,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141207,
+        "num": 141207,
+        "word": "新衣服一定要洗了再穿",
+        "onboard_time": 1762051700,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
+        "onboard_time": 1762064479,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132276,
+        "num": 132276,
+        "word": "让杨幂盛典图给内娱一些震撼",
+        "onboard_time": 1762065560,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131720,
+        "num": 131720,
+        "word": "陈小春儿子全英发言",
+        "onboard_time": 1762064240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123861,
+        "num": 123861,
+        "word": "偶遇angelababy和闺蜜逛街",
+        "onboard_time": 1762056261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "水库附近放生致大量猫咪落水",
+        "onboard_time": 1762052178,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97266,
+        "num": 109443,
+        "word": "刘宪华乌镇录制向往的生活",
+        "onboard_time": 1762062200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95739,
+        "num": 107773,
+        "word": "终于看清孔雪儿暗河传长啥样了",
+        "onboard_time": 1762064000,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149413,
+        "num": 107768,
+        "word": "马思纯写给张晚意的信",
+        "onboard_time": 1762065921,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107751,
+        "num": 107751,
+        "word": "张博恒解说T1对战TES",
+        "onboard_time": 1762065560,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102287,
+        "num": 104336,
+        "word": "警方通报怀化3名被拐婴儿被解救",
+        "onboard_time": 1762065799,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104061,
+        "num": 104061,
+        "word": "央视再曝医美陷阱",
+        "onboard_time": 1762065620,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102980,
+        "num": 102980,
+        "word": "镖人",
+        "onboard_time": 1762051939,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102437,
+        "num": 102437,
+        "word": "多人在水库岸边放生猫目击者发声",
+        "onboard_time": 1762065200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102099,
+        "num": 102099,
+        "word": "警方正追查水库放生猫人员",
+        "onboard_time": 1762065319,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97070,
+        "num": 101257,
+        "word": "彭小苒说最胖的样子在郭敬明镜头里",
+        "onboard_time": 1762060461,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40079,
+        "num": 100610,
+        "word": "男子拒分手杀前女友后报警",
+        "onboard_time": 1762065679,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44623,
+        "num": 100511,
+        "word": "男子回应妻儿3人被发小杀害",
+        "onboard_time": 1762065501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100446,
+        "num": 100446,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84521,
+        "num": 99480,
+        "word": "第一视角感受北马",
+        "onboard_time": 1762066040,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98951,
+        "num": 98951,
+        "word": "我使馆已向日方提出严正交涉",
+        "onboard_time": 1762061719,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47635,
+        "num": 97357,
+        "word": "金饰以旧换新 少了21克",
+        "onboard_time": 1762064899,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97179,
+        "num": 97179,
+        "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
+        "onboard_time": 1762063040,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88115,
+        "num": 88115,
+        "word": "这种泡泡馄饨到底是谁在爱吃",
+        "onboard_time": 1762059620,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85829,
+        "num": 85829,
+        "word": "杜若溪曾因严屹宽打孩子提出离婚",
+        "onboard_time": 1762053140,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84840,
+        "num": 84840,
+        "word": "内娱再火一个陈瑶怎么了",
+        "onboard_time": 1762063821,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84174,
+        "num": 84174,
+        "word": "刘宇宁被鹰报复了",
+        "onboard_time": 1762066100,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82735,
+        "num": 82735,
+        "word": "李沁说着说着就哽咽了",
+        "onboard_time": 1762063221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束韩国之行#"
+    }
+  }
+}

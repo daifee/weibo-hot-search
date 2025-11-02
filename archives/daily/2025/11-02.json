@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762065390392,
+  "endTime": 1762066151390,
   "band_list": [
     {
       "raw_hot": 1257159,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1083814,
-      "num": 136745,
+      "num": 148165,
       "word": "朱珠给翁青雅关门",
       "onboard_time": 1762061961,
       "rank": 15,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 692247,
-      "num": 123962,
+      "num": 142871,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 690145,
-      "num": 127086,
+      "num": 153250,
       "word": "温峥嵘同时间出现在3个直播间",
       "onboard_time": 1762062142,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 485828,
-      "num": 126338,
+      "num": 149102,
       "word": "网传印度人中国街头随地大小便",
       "onboard_time": 1762063280,
       "rank": 13,
@@ -249,6 +249,14 @@
       "onboard_time": 1762038495,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306925,
+      "num": 145333,
+      "word": "网友发帖寻找的3名小孩已去世",
+      "onboard_time": 1762064479,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295392,
@@ -428,19 +436,19 @@
     },
     {
       "raw_hot": 198669,
-      "num": 123885,
+      "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
       "onboard_time": 1762064479,
       "rank": 21,
       "category": "剧集"
     },
     {
-      "raw_hot": 195280,
-      "num": 125094,
-      "word": "网友发帖寻找的3名小孩已去世",
-      "onboard_time": 1762064479,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 193385,
+      "num": 193385,
+      "word": "看爱情公寓最怕的剧情",
+      "onboard_time": 1762063399,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192418,
@@ -523,8 +531,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170725,
-      "num": 128976,
+      "raw_hot": 170933,
+      "num": 141664,
       "word": "1岁孩子住美高梅酒店被毒虫咬伤",
       "onboard_time": 1762060760,
       "rank": 31,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165476,
+      "num": 165476,
+      "word": "疑似贩卖婴儿4人被抓",
+      "onboard_time": 1762064421,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164900,
       "num": 122984,
       "word": "终于看清孔雪儿暗河传长啥样了",
@@ -579,20 +595,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158605,
+      "num": 158605,
+      "word": "湖南警方通报发现疑似贩卖婴儿",
+      "onboard_time": 1762065080,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
       "onboard_time": 1762016359,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 155890,
-      "num": 124416,
-      "word": "看爱情公寓最怕的剧情",
-      "onboard_time": 1762063399,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151726,
@@ -619,12 +635,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148079,
-      "num": 148079,
-      "word": "疑似贩卖婴儿4人被抓",
-      "onboard_time": 1762064421,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 149413,
+      "num": 107768,
+      "word": "马思纯写给张晚意的信",
+      "onboard_time": 1762065921,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 147521,
@@ -641,14 +657,6 @@
       "onboard_time": 1762055359,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144274,
-      "num": 144274,
-      "word": "湖南警方通报发现疑似贩卖婴儿",
-      "onboard_time": 1762065080,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 143711,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 134631,
-      "num": 122378,
+      "num": 131720,
       "word": "陈小春儿子全英发言",
       "onboard_time": 1762064240,
       "rank": 25,
@@ -713,6 +721,14 @@
       "onboard_time": 1762056919,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132276,
+      "num": 132276,
+      "word": "让杨幂盛典图给内娱一些震撼",
+      "onboard_time": 1762065560,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 131024,
@@ -753,6 +769,14 @@
       "onboard_time": 1762042159,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124519,
+      "num": 156584,
+      "word": "李隼称全运会乒乓球水平超过奥运会",
+      "onboard_time": 1762064961,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 123048,
@@ -971,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107751,
+      "num": 107751,
+      "word": "张博恒解说T1对战TES",
+      "onboard_time": 1762065560,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107222,
       "num": 107222,
       "word": "何炅说只想看徐正溪跳舞",
@@ -1011,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104782,
-      "num": 104782,
-      "word": "李隼称全运会乒乓球水平超过奥运会",
-      "onboard_time": 1762064961,
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "央视再曝医美陷阱",
+      "onboard_time": 1762065620,
       "rank": 33,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103886,
@@ -1051,6 +1083,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102437,
+      "num": 102437,
+      "word": "多人在水库岸边放生猫目击者发声",
+      "onboard_time": 1762065200,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102287,
+      "num": 104336,
+      "word": "警方通报怀化3名被拐婴儿被解救",
+      "onboard_time": 1762065799,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 102262,
       "num": 158428,
       "word": "李茂自曝被亲戚骗光所有积蓄",
@@ -1059,8 +1107,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102099,
+      "num": 102099,
+      "word": "警方正追查水库放生猫人员",
+      "onboard_time": 1762065319,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101856,
-      "num": 101856,
+      "num": 109443,
       "word": "刘宪华乌镇录制向往的生活",
       "onboard_time": 1762062200,
       "rank": 35,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1761995000,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97179,
+      "num": 97179,
+      "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
+      "onboard_time": 1762063040,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94763,
@@ -1243,14 +1307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87573,
-      "num": 87573,
-      "word": "多人在水库岸边放生猫目击者发声",
-      "onboard_time": 1762065200,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87514,
       "num": 87514,
       "word": "成毅这次完全是主人级别的",
@@ -1347,12 +1403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84521,
+      "num": 99480,
+      "word": "第一视角感受北马",
+      "onboard_time": 1762066040,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 84462,
       "num": 157861,
       "word": "众星发文悼念屠颖",
       "onboard_time": 1762006106,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84174,
+      "num": 84174,
+      "word": "刘宇宁被鹰报复了",
+      "onboard_time": 1762066100,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 83741,
@@ -1369,14 +1441,6 @@
       "onboard_time": 1762062019,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 82328,
-      "num": 82328,
-      "word": "警方正追查水库放生猫人员",
-      "onboard_time": 1762065319,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82156,
@@ -1497,14 +1561,6 @@
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 73632,
-      "num": 86425,
-      "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
-      "onboard_time": 1762063040,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73616,
@@ -1771,6 +1827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 44623,
+      "num": 100511,
+      "word": "男子回应妻儿3人被发小杀害",
+      "onboard_time": 1762065501,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43820,
       "num": 43820,
       "word": "现在小孩的玩具真高级",
@@ -1785,6 +1849,14 @@
       "onboard_time": 1762039697,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40079,
+      "num": 100610,
+      "word": "男子拒分手杀前女友后报警",
+      "onboard_time": 1762065679,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39012,
