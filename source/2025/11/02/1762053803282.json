@@ -1,0 +1,410 @@
+{
+  "runTime": 1762053803282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 637230,
+        "num": 1101956,
+        "word": "马斯克称5年后不再有手机和App",
+        "onboard_time": 1762045100,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 386797,
+        "num": 386797,
+        "word": "镖人",
+        "onboard_time": 1762051939,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163592,
+        "num": 348162,
+        "word": "第15届全运会火炬传递",
+        "onboard_time": 1762046539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342359,
+        "num": 342359,
+        "word": "12306部分车票带宠字",
+        "onboard_time": 1762046539,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258392,
+        "num": 258392,
+        "word": "万斯一句话让印度裔美国人炸锅",
+        "onboard_time": 1762050979,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204114,
+        "num": 204114,
+        "word": "双十一为什么挤不动牙膏了",
+        "onboard_time": 1762050919,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12700,
+        "num": 198277,
+        "word": "中国人有7张太空全家福了",
+        "onboard_time": 1761987741,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198189,
+        "num": 198189,
+        "word": "苏超冠军奖励",
+        "onboard_time": 1762040418,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7049,
+        "num": 184767,
+        "word": "乡村有了数字范儿",
+        "onboard_time": 1762053739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176466,
+        "num": 176466,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077594,
+        "num": 175881,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174012,
+        "num": 174012,
+        "word": "高铁宠物托运指南",
+        "onboard_time": 1762041499,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468010,
+        "num": 174012,
+        "word": "水库附近放生致大量猫咪落水",
+        "onboard_time": 1762052178,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378412,
+        "num": 174011,
+        "word": "弦子回应嫁给李茂没有下嫁感",
+        "onboard_time": 1762051099,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356023,
+        "num": 174011,
+        "word": "新衣服一定要洗了再穿",
+        "onboard_time": 1762051700,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332298,
+        "num": 174010,
+        "word": "安世中国郑重声明",
+        "onboard_time": 1762047681,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230388,
+        "num": 174010,
+        "word": "张真源缺席奔跑吧新疆站",
+        "onboard_time": 1762048399,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115622,
+        "num": 174010,
+        "word": "郭宇欣回应盛夏芬德拉爆火",
+        "onboard_time": 1762050919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112387,
+        "num": 174009,
+        "word": "电影特立独行定档2026暑期",
+        "onboard_time": 1762052840,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17459,
+        "num": 174009,
+        "word": "馆长到厦门大伙齐喊欢迎回家",
+        "onboard_time": 1762053200,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211226,
+        "num": 174008,
+        "word": "医生眼中的生理性厌恶",
+        "onboard_time": 1762052599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186987,
+        "num": 174008,
+        "word": "樊振东微博粉丝破千万",
+        "onboard_time": 1762052720,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174008,
+        "num": 174007,
+        "word": "男子杀人后淡定去被害人家吃饭",
+        "onboard_time": 1762011801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170189,
+        "num": 170189,
+        "word": "杜若溪曾因严屹宽打孩子提出离婚",
+        "onboard_time": 1762053140,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167703,
+        "num": 167703,
+        "word": "曝安德鲁王子招40名泰国性工作者",
+        "onboard_time": 1762049420,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143823,
+        "num": 143823,
+        "word": "赵樱子曝孟子义上综艺和她有关系",
+        "onboard_time": 1762038616,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137717,
+        "num": 137717,
+        "word": "叶童迪丽热巴穿Prada的女王",
+        "onboard_time": 1762038495,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135933,
+        "num": 135933,
+        "word": "Tarzan发文致歉",
+        "onboard_time": 1762053380,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130185,
+        "num": 130185,
+        "word": "谢娜做吴京经典动作",
+        "onboard_time": 1762053140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123857,
+        "num": 123857,
+        "word": "中方强烈抗议高市早苗涉台错误言行",
+        "onboard_time": 1762006824,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171368,
+        "num": 123788,
+        "word": "她这一套换下来我要躺到明年",
+        "onboard_time": 1762051640,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113328,
+        "num": 121916,
+        "word": "安世中国不存在违约行为",
+        "onboard_time": 1762046360,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120200,
+        "num": 120200,
+        "word": "老头乐逆行撞上劳斯莱斯",
+        "onboard_time": 1762053020,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114765,
+        "num": 114765,
+        "word": "C罗点球绝杀",
+        "onboard_time": 1762053079,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111908,
+        "num": 111908,
+        "word": "会穿衣服是一种超绝的能力",
+        "onboard_time": 1762039758,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108522,
+        "num": 108522,
+        "word": "张一山爆改霸道总裁",
+        "onboard_time": 1762049119,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97917,
+        "num": 97917,
+        "word": "梨型瘦腿邪修",
+        "onboard_time": 1762052359,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93406,
+        "num": 93406,
+        "word": "Faker16局游戏使用13个英雄",
+        "onboard_time": 1762051039,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86495,
+        "num": 90527,
+        "word": "找人上门喂猫缅因掉下8楼",
+        "onboard_time": 1762053319,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90166,
+        "num": 90166,
+        "word": "全运会",
+        "onboard_time": 1762051159,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88504,
+        "num": 88504,
+        "word": "刘学义说唐嫣演戏敬业专业",
+        "onboard_time": 1762041378,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87186,
+        "num": 87186,
+        "word": "妈妈有你有事业没有老公",
+        "onboard_time": 1762042459,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83589,
+        "num": 83589,
+        "word": "荷兰安世半导体无中生有恶意抹黑",
+        "onboard_time": 1762047318,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82686,
+        "num": 82686,
+        "word": "冬天真不建议你吃太多烤红薯",
+        "onboard_time": 1762041079,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82182,
+        "num": 82182,
+        "word": "侯明昊演技",
+        "onboard_time": 1762042159,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81931,
+        "num": 81931,
+        "word": "黄安称屠颖因酒店跑步机摔跤离世",
+        "onboard_time": 1762053739,
+        "rank": 45,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 81832,
+        "num": 81832,
+        "word": "为什么劝你首饰要定期摘下",
+        "onboard_time": 1762053140,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55686,
+        "num": 78717,
+        "word": "小哥将快递扔进院子获打赏点赞",
+        "onboard_time": 1762052120,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 76433,
+        "num": 76433,
+        "word": "一句她哪都比你好扎心了",
+        "onboard_time": 1762040958,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75686,
+        "num": 75686,
+        "word": "英国一列火车上多人被刺",
+        "onboard_time": 1762047740,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明举行会谈#"
+    }
+  }
+}
