@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762079104317,
+  "endTime": 1762080043704,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1083814,
-      "num": 170562,
+      "num": 191586,
       "word": "朱珠给翁青雅关门",
       "onboard_time": 1762061961,
       "rank": 15,
@@ -211,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 806384,
+      "num": 264544,
+      "word": "12岁女孩做外贸3个月卖了10万",
+      "onboard_time": 1762075760,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752671,
       "num": 1120427,
       "word": "iPhone18Pro前瞻",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 692247,
-      "num": 181628,
+      "num": 191587,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
@@ -281,14 +289,6 @@
       "onboard_time": 1762062142,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 682869,
-      "num": 264544,
-      "word": "12岁女孩做外贸3个月卖了10万",
-      "onboard_time": 1762075760,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 677715,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 575819,
-      "num": 331228,
+      "num": 336504,
       "word": "卢浮宫失窃珠宝现身",
       "onboard_time": 1762073242,
       "rank": 5,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 484922,
-      "num": 121000,
+      "num": 206567,
       "word": "米勒 完全披萨",
       "onboard_time": 1762077801,
       "rank": 30,
@@ -705,6 +705,14 @@
       "onboard_time": 1761978440,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372284,
+      "num": 372284,
+      "word": "糖尿病不是吃糖吃出来的",
+      "onboard_time": 1762073721,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 363655,
@@ -1003,14 +1011,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 271354,
-      "num": 271354,
-      "word": "糖尿病不是吃糖吃出来的",
-      "onboard_time": 1762073721,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 270955,
       "num": 270955,
       "word": "宁静10年了还没走出花少阴影",
@@ -1267,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228299,
+      "num": 206333,
+      "word": "AL的含金量还在上升",
+      "onboard_time": 1762078460,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228254,
       "num": 228254,
       "word": "包上恩更新ins",
@@ -1443,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206911,
+      "num": 206911,
+      "word": "代号鸢",
+      "onboard_time": 1762079120,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206779,
       "num": 200465,
       "word": "泰州队这匹黑马直接通关了",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1762059141,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206260,
+      "num": 206260,
+      "word": "这居然是谭松韵",
+      "onboard_time": 1762079481,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 205248,
@@ -1707,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "TES 打野",
+      "onboard_time": 1762079300,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187367,
       "num": 187367,
       "word": "LPL",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1761915504,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181005,
-      "num": 181005,
-      "word": "AL的含金量还在上升",
-      "onboard_time": 1762078460,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 180860,
@@ -3515,6 +3539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 108784,
+      "num": 131885,
+      "word": "天地剑心",
+      "onboard_time": 1762079481,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108602,
       "num": 132757,
       "word": "山河枕腾讯站内热度破24000",
@@ -4371,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91877,
+      "num": 91877,
+      "word": "丁禹兮穿黑色高领毛衣跳姐姐有点坏",
+      "onboard_time": 1762079840,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91857,
       "num": 157647,
       "word": "苏超球迷称度过了不一样的2025",
@@ -4465,6 +4505,14 @@
       "onboard_time": 1762036455,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90032,
+      "num": 121047,
+      "word": "水库放生猫多只落水已救起3只",
+      "onboard_time": 1762076302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90022,
@@ -4649,6 +4697,14 @@
       "onboard_time": 1761987620,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86638,
+      "num": 91879,
+      "word": "感谢所有菌子们一直以来的支持",
+      "onboard_time": 1762078761,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 86596,
@@ -4915,6 +4971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81838,
+      "num": 99809,
+      "word": "全红婵陈芋汐携手新搭档出战",
+      "onboard_time": 1762079360,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "为什么劝你首饰要定期摘下",
@@ -4953,14 +5017,6 @@
       "onboard_time": 1762055359,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80959,
-      "num": 121047,
-      "word": "水库放生猫多只落水已救起3只",
-      "onboard_time": 1762076302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80740,
@@ -5323,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71372,
+      "num": 191587,
+      "word": "杨紫新剧杀青后首个活动",
+      "onboard_time": 1762077801,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71286,
       "num": 503871,
       "word": "官方通报长沙一店铺脚手架局部垮塌",
@@ -5595,14 +5659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63722,
-      "num": 172672,
-      "word": "杨紫新剧杀青后首个活动",
-      "onboard_time": 1762077801,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63513,
       "num": 183294,
       "word": "毒营养土公司年销上亿",
@@ -5689,6 +5745,14 @@
       "onboard_time": 1761969980,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60310,
+      "num": 91993,
+      "word": "广州地铁跳转广告",
+      "onboard_time": 1762080021,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60131,
