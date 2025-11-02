@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762082416545,
+  "endTime": 1762083453432,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423880,
+      "num": 205825,
+      "word": "辛芷蕾被评为威尼斯近十年最佳影后",
+      "onboard_time": 1762080080,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418838,
       "num": 256580,
       "word": "钱天一王昶秀恩爱",
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392110,
+      "num": 205813,
+      "word": "广州地铁跳转广告",
+      "onboard_time": 1762080021,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392107,
       "num": 268783,
       "word": "日本男子为破杀妻案保存现场26年",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 383454,
-      "num": 200956,
+      "num": 205791,
       "word": "朱珠英语主持",
       "onboard_time": 1762081040,
       "rank": 15,
@@ -763,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 347762,
-      "num": 205553,
-      "word": "广州地铁跳转广告",
-      "onboard_time": 1762080021,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345461,
       "num": 165246,
       "word": "耳聋小猫因为可爱被导演选中",
@@ -833,6 +841,22 @@
       "onboard_time": 1761908843,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318912,
+      "num": 318912,
+      "word": "向往的生活一家六口世纪同框",
+      "onboard_time": 1762080680,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317103,
+      "num": 317103,
+      "word": "全红婵陈芋汐携手新搭档出战",
+      "onboard_time": 1762079360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 309547,
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 300919,
-      "num": 204563,
+      "num": 205792,
       "word": "涵艺爆料RNG和FPX退出LPL",
       "onboard_time": 1762080680,
       "rank": 12,
@@ -969,14 +993,6 @@
       "onboard_time": 1762048399,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283732,
-      "num": 283732,
-      "word": "全红婵陈芋汐携手新搭档出战",
-      "onboard_time": 1762079360,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 282765,
@@ -1099,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259992,
+      "num": 205808,
+      "word": "12岁女孩做外贸15个月卖了10万",
+      "onboard_time": 1762075760,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258662,
       "num": 258662,
       "word": "Faker预测S15决赛对手",
@@ -1163,20 +1187,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 254076,
-      "num": 203779,
-      "word": "辛芷蕾被评为威尼斯近十年最佳影后",
-      "onboard_time": 1762080080,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 251735,
       "num": 504212,
       "word": "4岁男童药店打针呕吐抽搐后死亡",
       "onboard_time": 1761917242,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251670,
+      "num": 205799,
+      "word": "迪丽热巴用腿刹车",
+      "onboard_time": 1762082311,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 251238,
@@ -1387,14 +1411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 219996,
-      "num": 219996,
-      "word": "向往的生活一家六口世纪同框",
-      "onboard_time": 1762080680,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218661,
       "num": 172805,
       "word": "日本男子保存现场26年凶手落网",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1762001901,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217447,
+      "num": 217447,
+      "word": "赵丽颖李沁或演简单的人生",
+      "onboard_time": 1762082721,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 217137,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1761922703,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208527,
+      "num": 121541,
+      "word": "TES面对LCK十五连败",
+      "onboard_time": 1762082542,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 208410,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1761923124,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200585,
-      "num": 200585,
-      "word": "12岁女孩做外贸15个月卖了10万",
-      "onboard_time": 1762075760,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198669,
@@ -1891,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179632,
-      "num": 179632,
-      "word": "迪丽热巴用腿刹车",
-      "onboard_time": 1762082311,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "陈赫做综艺是真有效果",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1761972560,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 205783,
+      "word": "音乐缘计划2",
+      "onboard_time": 1762082780,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 164900,
@@ -2451,6 +2475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149037,
+      "num": 149037,
+      "word": "KPL",
+      "onboard_time": 1762082721,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148318,
       "num": 148318,
       "word": "找到我和猫都能吃很好的办法了",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1761958400,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148278,
+      "num": 132031,
+      "word": "Tian说Faker又要夺冠了",
+      "onboard_time": 1762082103,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 147991,
@@ -2585,6 +2625,14 @@
       "onboard_time": 1761987980,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144594,
+      "num": 144594,
+      "word": "还我卷毛陈奕迅",
+      "onboard_time": 1762081760,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 144450,
@@ -2883,20 +2931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132031,
-      "num": 132031,
-      "word": "Tian说Faker又要夺冠了",
-      "onboard_time": 1762082103,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131862,
       "num": 131862,
       "word": "Angelababy期待马天宇新剧三人行",
       "onboard_time": 1761979820,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131721,
+      "num": 131721,
+      "word": "狼队对战WB",
+      "onboard_time": 1762078940,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 131386,
@@ -3011,6 +3059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127287,
+      "num": 127287,
+      "word": "仙逆",
+      "onboard_time": 1762082661,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 127240,
       "num": 150898,
       "word": "弦子连夜为李茂患心梗父亲安排就医",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1761961340,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125615,
+      "num": 116174,
+      "word": "学校通报女生买淀粉肠被拿走钥匙",
+      "onboard_time": 1762082542,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125320,
@@ -3371,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118784,
+      "num": 118784,
+      "word": "黄金税收新政对个人买金有何影响",
+      "onboard_time": 1762082600,
+      "rank": 33,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 118405,
       "num": 118405,
       "word": "长沙今日防空警报试鸣",
@@ -3441,6 +3513,14 @@
       "onboard_time": 1762001302,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117032,
+      "num": 139383,
+      "word": "公务员岗位不是避风港和安乐窝",
+      "onboard_time": 1762080680,
+      "rank": 28,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 116391,
@@ -3619,6 +3699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111470,
+      "num": 117797,
+      "word": "短短10集8死7伤哭8次",
+      "onboard_time": 1762083201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111352,
       "num": 111352,
       "word": "陆毅鲍蕾 新一小兰",
@@ -3787,6 +3875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107440,
+      "num": 114974,
+      "word": "马龙妻子夏露分享舞蹈视频",
+      "onboard_time": 1762082311,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107341,
       "num": 271502,
       "word": "每天与一件国宝相遇",
@@ -3947,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104038,
+      "num": 104038,
+      "word": "如鸢 诸葛亮",
+      "onboard_time": 1762082721,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103886,
       "num": 103886,
       "word": "51岁阿姨月薪1710元的独居生活",
@@ -4017,14 +4121,6 @@
       "onboard_time": 1762013720,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102780,
-      "num": 139383,
-      "word": "公务员岗位不是避风港和安乐窝",
-      "onboard_time": 1762080680,
-      "rank": 28,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 102561,
@@ -4193,14 +4289,6 @@
       "onboard_time": 1762008803,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99215,
-      "num": 99215,
-      "word": "狼队对战WB",
-      "onboard_time": 1762078940,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 99051,
@@ -4539,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92973,
+      "num": 92973,
+      "word": "33衣服都成酸菜条了",
+      "onboard_time": 1762082542,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92631,
       "num": 92631,
       "word": "羽绒服基础搭配就不基础",
@@ -4571,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92002,
+      "num": 92002,
+      "word": "突然的陀螺",
+      "onboard_time": 1762083381,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91892,
       "num": 91892,
       "word": "成毅打戏的快进键被人扣了",
@@ -4593,14 +4697,6 @@
       "onboard_time": 1762012761,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91711,
-      "num": 91711,
-      "word": "还我卷毛陈奕迅",
-      "onboard_time": 1762081760,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 91697,
@@ -6051,14 +6147,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 55136,
-      "num": 110162,
-      "word": "马龙妻子夏露分享舞蹈视频",
-      "onboard_time": 1762082311,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54457,
       "num": 214922,
       "word": "金店换金 心算测验",
@@ -6379,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35632,
+      "num": 172304,
+      "word": "奶皮子糖葫芦火了奶皮子也涨价了",
+      "onboard_time": 1762082542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34955,
       "num": 117373,
       "word": "Wolf说Hope确实菜",
@@ -6465,6 +6561,14 @@
       "onboard_time": 1762058060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29499,
+      "num": 115534,
+      "word": "住建局回应丹阳一小区沉降楼体开裂",
+      "onboard_time": 1762082480,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 29154,
