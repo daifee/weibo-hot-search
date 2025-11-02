@@ -1,0 +1,410 @@
+{
+  "runTime": 1762050327946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813031,
+        "num": 1130085,
+        "word": "马斯克称5年后不再有手机和App",
+        "onboard_time": 1762045100,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 660949,
+        "num": 660949,
+        "word": "12306部分车票带宠字",
+        "onboard_time": 1762046539,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19784,
+        "num": 452650,
+        "word": "中国人有7张太空全家福了",
+        "onboard_time": 1761987741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285304,
+        "num": 285304,
+        "word": "张真源缺席奔跑吧新疆站",
+        "onboard_time": 1762048399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278979,
+        "num": 278979,
+        "word": "安世中国不存在违约行为",
+        "onboard_time": 1762046360,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272950,
+        "num": 272950,
+        "word": "苏超冠军奖励",
+        "onboard_time": 1762040418,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192418,
+        "num": 192418,
+        "word": "第15届全运会火炬传递",
+        "onboard_time": 1762046539,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155388,
+        "num": 155388,
+        "word": "高铁宠物托运指南",
+        "onboard_time": 1762041499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154018,
+        "num": 154018,
+        "word": "杨瀚森将派至发展联盟进行训练",
+        "onboard_time": 1762046300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152753,
+        "num": 152753,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556033,
+        "num": 149845,
+        "word": "安世中国郑重声明",
+        "onboard_time": 1762047681,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277900,
+        "num": 146514,
+        "word": "男子杀人后淡定去被害人家吃饭",
+        "onboard_time": 1762011801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215200,
+        "num": 138439,
+        "word": "妈妈有你有事业没有老公",
+        "onboard_time": 1762042459,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 136256,
+        "word": "中方强烈抗议高市早苗涉台错误言行",
+        "onboard_time": 1762006824,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131370,
+        "num": 131370,
+        "word": "刘学义说唐嫣演戏敬业专业",
+        "onboard_time": 1762041378,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174671,
+        "num": 130824,
+        "word": "会穿衣服是一种超绝的能力",
+        "onboard_time": 1762039758,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123373,
+        "num": 123373,
+        "word": "花少6小团体好明显",
+        "onboard_time": 1761983360,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112675,
+        "num": 123325,
+        "word": "荷兰安世半导体无中生有恶意抹黑",
+        "onboard_time": 1762047318,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271509,
+        "num": 123289,
+        "word": "叶童迪丽热巴穿Prada的女王",
+        "onboard_time": 1762038495,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110773,
+        "num": 123183,
+        "word": "法院回应法官直播卖螃蟹",
+        "onboard_time": 1762039577,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218237,
+        "num": 123141,
+        "word": "赵樱子曝孟子义上综艺和她有关系",
+        "onboard_time": 1762038616,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154217,
+        "num": 123099,
+        "word": "曝安德鲁王子招40名泰国性工作者",
+        "onboard_time": 1762049420,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123048,
+        "num": 123048,
+        "word": "小米YU7成国产新能源车保值率第一",
+        "onboard_time": 1762049059,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107955,
+        "num": 122570,
+        "word": "机器人当上火炬手了",
+        "onboard_time": 1762049000,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122408,
+        "num": 122408,
+        "word": "冬季睡衣应该多久洗一次",
+        "onboard_time": 1762044559,
+        "rank": 24,
+        "category": "科学科普,时尚"
+      },
+      {
+        "raw_hot": 115947,
+        "num": 115947,
+        "word": "冬天真不建议你吃太多烤红薯",
+        "onboard_time": 1762041079,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111581,
+        "num": 111581,
+        "word": "觉得自己闯祸了就来看翁青雅朱珠",
+        "onboard_time": 1762001481,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108416,
+        "num": 108416,
+        "word": "12306回应宠物托运服务上新",
+        "onboard_time": 1762049961,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103266,
+        "num": 103266,
+        "word": "自闭症男孩身亡涉事老师失联未道歉",
+        "onboard_time": 1762043719,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100805,
+        "num": 100805,
+        "word": "侯明昊演技",
+        "onboard_time": 1762042159,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98972,
+        "num": 98972,
+        "word": "一句她哪都比你好扎心了",
+        "onboard_time": 1762040958,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87032,
+        "num": 87032,
+        "word": "泰州书记市长捧起奖杯与泰州队合影",
+        "onboard_time": 1762049059,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86965,
+        "num": 86965,
+        "word": "英国一列火车上多人被刺",
+        "onboard_time": 1762047740,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85842,
+        "num": 85842,
+        "word": "陈乔恩婉拒催生",
+        "onboard_time": 1762048218,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85047,
+        "num": 85047,
+        "word": "香山红叶",
+        "onboard_time": 1762049660,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 84894,
+        "num": 84894,
+        "word": "Perfect感谢Flandre一对一练习",
+        "onboard_time": 1762039398,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84307,
+        "num": 84307,
+        "word": "多少钱能让卢昱晓把这条视频删了",
+        "onboard_time": 1762002923,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82400,
+        "num": 82400,
+        "word": "张一山爆改霸道总裁",
+        "onboard_time": 1762049119,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78886,
+        "num": 78886,
+        "word": "在小猫喝水的时候假装阻止",
+        "onboard_time": 1762047018,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75407,
+        "num": 75407,
+        "word": "27岁脑子一热给自己报了26年高考",
+        "onboard_time": 1762039098,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70802,
+        "num": 70802,
+        "word": "乌11名特种兵遭俄军击毙",
+        "onboard_time": 1762038257,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70477,
+        "num": 70477,
+        "word": "警方回应大狗遭柯基主人酒瓶爆头",
+        "onboard_time": 1762017318,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68755,
+        "num": 68755,
+        "word": "国产大飞机越来越争气了",
+        "onboard_time": 1762047621,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66839,
+        "num": 66839,
+        "word": "周深紧急叫停",
+        "onboard_time": 1762007963,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66822,
+        "num": 66822,
+        "word": "江苏省委书记为泰州队颁奖",
+        "onboard_time": 1762008742,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66798,
+        "num": 66798,
+        "word": "全红婵出战女团双人10米台",
+        "onboard_time": 1762048279,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66462,
+        "num": 66462,
+        "word": "男子乔迁聚会300万名表丢失",
+        "onboard_time": 1762038197,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65401,
+        "num": 65401,
+        "word": "黄星见面会",
+        "onboard_time": 1762050259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64920,
+        "num": 64920,
+        "word": "美团骑手屏蔽恶意顾客功能全国上线",
+        "onboard_time": 1762049838,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64234,
+        "num": 64234,
+        "word": "又一家电巨头官宣造车",
+        "onboard_time": 1762048099,
+        "rank": 49,
+        "category": "汽车,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明举行会谈#"
+    }
+  }
+}

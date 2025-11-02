@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762048965098,
+  "endTime": 1762050327946,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660949,
+      "num": 660949,
+      "word": "12306部分车票带宠字",
+      "onboard_time": 1762046539,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 656745,
       "num": 1105079,
       "word": "十日终焉阵容",
@@ -259,14 +267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 591035,
-      "num": 591035,
-      "word": "12306部分车票带宠字",
-      "onboard_time": 1762046539,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 588099,
       "num": 185717,
       "word": "白宫马桶照片",
@@ -297,6 +297,14 @@
       "onboard_time": 1761961280,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556033,
+      "num": 388167,
+      "word": "安世中国郑重声明",
+      "onboard_time": 1762047681,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 540307,
@@ -483,14 +491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 388167,
-      "num": 388167,
-      "word": "安世中国郑重声明",
-      "onboard_time": 1762047681,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 386869,
       "num": 241446,
       "word": "能先把肖战让给我们三体吗",
@@ -672,6 +672,14 @@
       "word": "喜人奇妙夜 再见爱人",
       "onboard_time": 1761971239,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285304,
+      "num": 285304,
+      "word": "张真源缺席奔跑吧新疆站",
+      "onboard_time": 1762048399,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "第15届全运会火炬传递",
+      "onboard_time": 1762046539,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192218,
       "num": 192218,
       "word": "你好星期六这把兄弟局",
@@ -1467,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164022,
-      "num": 164022,
-      "word": "第15届全运会火炬传递",
-      "onboard_time": 1762046539,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163928,
       "num": 204155,
       "word": "每片红叶里都有一场盛大的秋天",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1761990921,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154217,
+      "num": 123099,
+      "word": "曝安德鲁王子招40名泰国性工作者",
+      "onboard_time": 1762049420,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152370,
@@ -2291,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123048,
+      "num": 123048,
+      "word": "小米YU7成国产新能源车保值率第一",
+      "onboard_time": 1762049059,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123008,
       "num": 276179,
       "word": "久酷采访",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1762010244,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122408,
+      "num": 122408,
+      "word": "冬季睡衣应该多久洗一次",
+      "onboard_time": 1762044559,
+      "rank": 28,
+      "category": "科学科普,时尚"
     },
     {
       "raw_hot": 122183,
@@ -2451,14 +2483,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 117378,
-      "num": 136968,
-      "word": "张真源缺席奔跑吧新疆站",
-      "onboard_time": 1762048399,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117224,
       "num": 117224,
       "word": "给TES送考",
@@ -2529,6 +2553,14 @@
       "onboard_time": 1761999681,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112675,
+      "num": 123325,
+      "word": "荷兰安世半导体无中生有恶意抹黑",
+      "onboard_time": 1762047318,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112033,
@@ -2619,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108416,
+      "num": 108416,
+      "word": "12306回应宠物托运服务上新",
+      "onboard_time": 1762049961,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108393,
       "num": 150390,
       "word": "中国航天一箭穿月",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1761978379,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107955,
+      "num": 122570,
+      "word": "机器人当上火炬手了",
+      "onboard_time": 1762049000,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 107668,
@@ -2915,14 +2963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99076,
-      "num": 99076,
-      "word": "冬季睡衣应该多久洗一次",
-      "onboard_time": 1762044559,
-      "rank": 28,
-      "category": "科学科普,时尚"
-    },
-    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "Uzi预测比分",
@@ -3113,14 +3153,6 @@
       "onboard_time": 1761970280,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94150,
-      "num": 94150,
-      "word": "荷兰安世半导体无中生有恶意抹黑",
-      "onboard_time": 1762047318,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93278,
@@ -3355,12 +3387,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87032,
+      "num": 87032,
+      "word": "泰州书记市长捧起奖杯与泰州队合影",
+      "onboard_time": 1762049059,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87026,
       "num": 87026,
       "word": "A勒布伦3比2张本智和",
       "onboard_time": 1761962059,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86965,
+      "num": 86965,
+      "word": "英国一列火车上多人被刺",
+      "onboard_time": 1762047740,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86785,
@@ -3395,6 +3443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85842,
+      "num": 85842,
+      "word": "陈乔恩婉拒催生",
+      "onboard_time": 1762048218,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85771,
       "num": 150651,
       "word": "基金新规来了",
@@ -3427,12 +3483,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 85035,
-      "num": 85035,
-      "word": "英国一列火车上多人被刺",
-      "onboard_time": 1762047740,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 85047,
+      "num": 85047,
+      "word": "香山红叶",
+      "onboard_time": 1762049660,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 84953,
@@ -3441,6 +3497,14 @@
       "onboard_time": 1761949154,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84894,
+      "num": 84894,
+      "word": "Perfect感谢Flandre一对一练习",
+      "onboard_time": 1762039398,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 84691,
@@ -3499,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82400,
+      "num": 82400,
+      "word": "张一山爆改霸道总裁",
+      "onboard_time": 1762049119,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82238,
       "num": 82238,
       "word": "演员王一博的人生镜头",
@@ -3513,14 +3585,6 @@
       "onboard_time": 1761989780,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81325,
-      "num": 81325,
-      "word": "Perfect感谢Flandre一对一练习",
-      "onboard_time": 1762039398,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 81165,
@@ -3545,6 +3609,14 @@
       "onboard_time": 1761964940,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78886,
+      "num": 78886,
+      "word": "在小猫喝水的时候假装阻止",
+      "onboard_time": 1762047018,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 78713,
@@ -3755,14 +3827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 72556,
-      "num": 72556,
-      "word": "陈乔恩婉拒催生",
-      "onboard_time": 1762048218,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71872,
       "num": 121740,
       "word": "库里首次成为NBA收入最高球员",
@@ -3851,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68755,
+      "num": 68755,
+      "word": "国产大飞机越来越争气了",
+      "onboard_time": 1762047621,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67567,
       "num": 72550,
       "word": "莫兰特被球队禁赛一场",
@@ -3937,6 +4009,22 @@
       "onboard_time": 1761968660,
       "rank": 46,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 65401,
+      "num": 65401,
+      "word": "黄星见面会",
+      "onboard_time": 1762050259,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64920,
+      "num": 64920,
+      "word": "美团骑手屏蔽恶意顾客功能全国上线",
+      "onboard_time": 1762049838,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 64845,

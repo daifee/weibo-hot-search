@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762048965098,
+  "endTime": 1762050327946,
   "band_list": [
     {
       "raw_hot": 996383,
@@ -27,12 +27,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 591035,
-      "num": 591035,
+      "raw_hot": 660949,
+      "num": 660949,
       "word": "12306部分车票带宠字",
       "onboard_time": 1762046539,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556033,
+      "num": 388167,
+      "word": "安世中国郑重声明",
+      "onboard_time": 1762047681,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 537743,
@@ -83,14 +91,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 388167,
-      "num": 388167,
-      "word": "安世中国郑重声明",
-      "onboard_time": 1762047681,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 363139,
       "num": 363139,
       "word": "苏超冠军奖励",
@@ -129,6 +129,14 @@
       "onboard_time": 1762038495,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285304,
+      "num": 285304,
+      "word": "张真源缺席奔跑吧新疆站",
+      "onboard_time": 1762048399,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 282765,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "第15届全运会火炬传递",
+      "onboard_time": 1762046539,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191534,
       "num": 191534,
       "word": "泰州金灿灿",
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164022,
-      "num": 164022,
-      "word": "第15届全运会火炬传递",
-      "onboard_time": 1762046539,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -289,6 +297,14 @@
       "onboard_time": 1762016359,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154217,
+      "num": 123099,
+      "word": "曝安德鲁王子招40名泰国性工作者",
+      "onboard_time": 1762049420,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 150618,
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123048,
+      "num": 123048,
+      "word": "小米YU7成国产新能源车保值率第一",
+      "onboard_time": 1762049059,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122854,
       "num": 122854,
       "word": "冬天真不建议你吃太多烤红薯",
@@ -371,20 +395,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122408,
+      "num": 122408,
+      "word": "冬季睡衣应该多久洗一次",
+      "onboard_time": 1762044559,
+      "rank": 28,
+      "category": "科学科普,时尚"
+    },
+    {
       "raw_hot": 121356,
       "num": 276179,
       "word": "久酷采访",
       "onboard_time": 1762010783,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117378,
-      "num": 136968,
-      "word": "张真源缺席奔跑吧新疆站",
-      "onboard_time": 1762048399,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 115347,
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112675,
+      "num": 123325,
+      "word": "荷兰安世半导体无中生有恶意抹黑",
+      "onboard_time": 1762047318,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112265,
       "num": 158590,
       "word": "Ruler回应败给KT",
@@ -417,6 +449,22 @@
       "onboard_time": 1762011082,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108416,
+      "num": 108416,
+      "word": "12306回应宠物托运服务上新",
+      "onboard_time": 1762049961,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107955,
+      "num": 122570,
+      "word": "机器人当上火炬手了",
+      "onboard_time": 1762049000,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 107900,
@@ -459,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99076,
-      "num": 99076,
-      "word": "冬季睡衣应该多久洗一次",
-      "onboard_time": 1762044559,
-      "rank": 28,
-      "category": "科学科普,时尚"
-    },
-    {
       "raw_hot": 97924,
       "num": 97924,
       "word": "27岁脑子一热给自己报了26年高考",
@@ -497,14 +537,6 @@
       "onboard_time": 1762014380,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94150,
-      "num": 94150,
-      "word": "荷兰安世半导体无中生有恶意抹黑",
-      "onboard_time": 1762047318,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93052,
@@ -579,6 +611,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87032,
+      "num": 87032,
+      "word": "泰州书记市长捧起奖杯与泰州队合影",
+      "onboard_time": 1762049059,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86965,
+      "num": 86965,
+      "word": "英国一列火车上多人被刺",
+      "onboard_time": 1762047740,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85842,
+      "num": 85842,
+      "word": "陈乔恩婉拒催生",
+      "onboard_time": 1762048218,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85520,
       "num": 85520,
       "word": "李白没想到几千年后还有这一劫",
@@ -587,12 +643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85035,
-      "num": 85035,
-      "word": "英国一列火车上多人被刺",
-      "onboard_time": 1762047740,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 85047,
+      "num": 85047,
+      "word": "香山红叶",
+      "onboard_time": 1762049660,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 84894,
+      "num": 84894,
+      "word": "Perfect感谢Flandre一对一练习",
+      "onboard_time": 1762039398,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 84462,
@@ -611,12 +675,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81325,
-      "num": 81325,
-      "word": "Perfect感谢Flandre一对一练习",
-      "onboard_time": 1762039398,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 82400,
+      "num": 82400,
+      "word": "张一山爆改霸道总裁",
+      "onboard_time": 1762049119,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78886,
+      "num": 78886,
+      "word": "在小猫喝水的时候假装阻止",
+      "onboard_time": 1762047018,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 76842,
@@ -667,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72556,
-      "num": 72556,
-      "word": "陈乔恩婉拒催生",
-      "onboard_time": 1762048218,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69598,
       "num": 69598,
       "word": "赵晴获奖感言",
       "onboard_time": 1762038737,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68755,
+      "num": 68755,
+      "word": "国产大飞机越来越争气了",
+      "onboard_time": 1762047621,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67567,
@@ -713,6 +785,22 @@
       "onboard_time": 1762010244,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65401,
+      "num": 65401,
+      "word": "黄星见面会",
+      "onboard_time": 1762050259,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64920,
+      "num": 64920,
+      "word": "美团骑手屏蔽恶意顾客功能全国上线",
+      "onboard_time": 1762049838,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 62693,
@@ -828,7 +916,7 @@
     },
     {
       "raw_hot": 31893,
-      "num": 431656,
+      "num": 452650,
       "word": "中国人有7张太空全家福了",
       "onboard_time": 1761987741,
       "rank": 2,
