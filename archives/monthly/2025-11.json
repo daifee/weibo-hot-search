@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762058686659,
+  "endTime": 1762061129603,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -57,6 +57,14 @@
       "onboard_time": 1761959719,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1257159,
+      "num": 190108,
+      "word": "吴昕微信好友竟然这么少",
+      "onboard_time": 1762057520,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1203616,
@@ -123,14 +131,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 952583,
-      "num": 190108,
-      "word": "吴昕微信好友竟然这么少",
-      "onboard_time": 1762057520,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 941063,
       "num": 941063,
       "word": "泰州vs南通",
@@ -152,6 +152,14 @@
       "word": "多少钱能让卢昱晓把这条视频删了",
       "onboard_time": 1762002923,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 893063,
+      "num": 168378,
+      "word": "朱珠工伤",
+      "onboard_time": 1762059800,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -217,6 +225,14 @@
       "onboard_time": 1761989060,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 666664,
+      "num": 1106666,
+      "word": "女子忍痛踩趾压板脚喷血",
+      "onboard_time": 1762058540,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660949,
@@ -635,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323896,
+      "num": 323896,
+      "word": "中国人素质太高了",
+      "onboard_time": 1762058359,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321450,
       "num": 504240,
       "word": "佛山一私房菜馆被曝宰杀活猫",
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266967,
+      "num": 266967,
+      "word": "四川多名教师曝被欠薪欠缴社保",
+      "onboard_time": 1762055961,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 266597,
       "num": 266597,
       "word": "西西域来了一位貌美之人",
@@ -969,6 +1001,14 @@
       "onboard_time": 1762038616,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234151,
+      "num": 164459,
+      "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+      "onboard_time": 1762058599,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233359,
@@ -1243,6 +1283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200010,
+      "num": 157014,
+      "word": "彭小苒说最胖的样子在郭敬明镜头里",
+      "onboard_time": 1762060461,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197943,
       "num": 504333,
       "word": "长沙潮宗街一面墙体倒塌",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1762006106,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194013,
-      "num": 194013,
-      "word": "四川多名教师曝被欠薪欠缴社保",
-      "onboard_time": 1762055961,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 193088,
@@ -1419,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180214,
+      "num": 180214,
+      "word": "Gumayusi说3比0战胜TES",
+      "onboard_time": 1762057340,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "陈赫做综艺是真有效果",
@@ -1531,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169894,
+      "num": 169894,
+      "word": "明年开始卷谍战了",
+      "onboard_time": 1762059680,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1762053140,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166234,
-      "num": 166234,
-      "word": "Gumayusi说3比0战胜TES",
-      "onboard_time": 1762057340,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 166148,
@@ -1843,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151726,
+      "num": 151726,
+      "word": "谁来给宋亚轩递个喜剧本子",
+      "onboard_time": 1762060821,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151124,
       "num": 151124,
       "word": "TES将交手T1",
@@ -1995,6 +2051,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 147333,
+      "num": 147333,
+      "word": "香港地铁偶遇费曼杨阳洋",
+      "onboard_time": 1762055359,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146987,
       "num": 186006,
       "word": "东契奇复出44分",
@@ -2019,20 +2083,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145225,
+      "num": 145225,
+      "word": "新闻女王2李施嬅饰演的张家妍",
+      "onboard_time": 1762059141,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144902,
       "num": 178866,
       "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
       "onboard_time": 1761987980,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143797,
-      "num": 143797,
-      "word": "香港地铁偶遇费曼杨阳洋",
-      "onboard_time": 1762055359,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 143689,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1761995781,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 140171,
+      "num": 161872,
+      "word": "2025微博视界大会第七波阵容官宣",
+      "onboard_time": 1762060100,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 140078,
@@ -2177,6 +2249,14 @@
       "onboard_time": 1761988941,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136724,
+      "num": 136724,
+      "word": "这种泡泡馄饨到底是谁在爱吃",
+      "onboard_time": 1762059620,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 136187,
@@ -2315,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128976,
+      "num": 128976,
+      "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+      "onboard_time": 1762060760,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128973,
       "num": 128973,
       "word": "邓家佳最近的衣橱我好爱",
@@ -2435,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124749,
+      "num": 139261,
+      "word": "邓家佳角色查重率为0",
+      "onboard_time": 1762059381,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124697,
       "num": 124697,
       "word": "马思纯编完你的编你的",
@@ -2481,14 +2577,6 @@
       "onboard_time": 1761956960,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 123226,
-      "num": 112096,
-      "word": "中国人素质太高了",
-      "onboard_time": 1762058359,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123186,
@@ -2667,6 +2755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "星穹铁道昔涟角色PV",
+      "onboard_time": 1762059921,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117955,
+      "num": 161248,
+      "word": "永夜星河开播一周年",
+      "onboard_time": 1762060401,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117868,
       "num": 117868,
       "word": "成都球迷涉嫌种族歧视被拘留",
@@ -2761,6 +2865,14 @@
       "onboard_time": 1762053079,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114701,
+      "num": 159781,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1762058839,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 113326,
@@ -2865,14 +2977,6 @@
       "onboard_time": 1762002441,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110904,
-      "num": 110904,
-      "word": "女子忍痛踩趾压板脚喷血",
-      "onboard_time": 1762058540,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110282,
@@ -2995,6 +3099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107222,
+      "num": 107222,
+      "word": "何炅说只想看徐正溪跳舞",
+      "onboard_time": 1762060461,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107157,
       "num": 107157,
       "word": "凯里动物园爷爷两天收到十几万捐款",
@@ -3027,12 +3139,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106487,
+      "num": 136991,
+      "word": "MLB美职棒大联盟",
+      "onboard_time": 1762058961,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106338,
       "num": 106338,
       "word": "李施嬅 车崇健",
       "onboard_time": 1761979159,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105887,
+      "num": 105887,
+      "word": "2025KPL年度总决赛",
+      "onboard_time": 1762061001,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 104875,
@@ -3105,6 +3233,14 @@
       "onboard_time": 1761985880,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103266,
+      "num": 103266,
+      "word": "六公主说和没看周深现场的说不清",
+      "onboard_time": 1762058721,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 103077,
@@ -3427,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95201,
+      "num": 95201,
+      "word": "李一桐动漫版清瞳",
+      "onboard_time": 1762060941,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94763,
       "num": 158049,
       "word": "34岁男子右手绞进机器碎成多瓣",
@@ -3659,6 +3803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88536,
+      "num": 88536,
+      "word": "艾热父亲离世前最后一顿饭是孜巴做的",
+      "onboard_time": 1762059201,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88504,
+      "num": 88504,
+      "word": "胡先煦被黄景瑜急出英语",
+      "onboard_time": 1762060880,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88309,
       "num": 88309,
       "word": "灰熊vs湖人",
@@ -3819,6 +3979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 84986,
+      "num": 84986,
+      "word": "樊振东的第1条微博",
+      "onboard_time": 1762060700,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84953,
       "num": 113135,
       "word": "张智霖问就是在打麻将",
@@ -3899,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82156,
+      "num": 82156,
+      "word": "多方回应小区因千万欠费3年未供暖",
+      "onboard_time": 1762059860,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 81909,
       "num": 81909,
       "word": "小狗其实那晚我根本没睡着",
@@ -3953,6 +4129,14 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80060,
+      "num": 153018,
+      "word": "有人居家打金因炸金损失8克",
+      "onboard_time": 1762059620,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79139,
@@ -4312,6 +4496,14 @@
       "word": "教师反击媚男指控是一次法律公开课",
       "onboard_time": 1761974001,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69689,
+      "num": 89174,
+      "word": "小伙理发变投资砸了40多万",
+      "onboard_time": 1762059620,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -4980,7 +5172,7 @@
     },
     {
       "raw_hot": 31280,
-      "num": 314109,
+      "num": 324141,
       "word": "APEC深圳之约期待值拉满",
       "onboard_time": 1762054100,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762061129603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666664,
+        "num": 1106666,
+        "word": "女子忍痛踩趾压板脚喷血",
+        "onboard_time": 1762058540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327245,
+        "num": 327245,
+        "word": "黄安称屠颖因酒店跑步机摔跤离世",
+        "onboard_time": 1762053739,
+        "rank": 1,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 29045,
+        "num": 324141,
+        "word": "APEC深圳之约期待值拉满",
+        "onboard_time": 1762054100,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323896,
+        "num": 323896,
+        "word": "中国人素质太高了",
+        "onboard_time": 1762058359,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266967,
+        "num": 266967,
+        "word": "四川多名教师曝被欠薪欠缴社保",
+        "onboard_time": 1762055961,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 192396,
+        "word": "马斯克称5年后不再有手机和App",
+        "onboard_time": 1762045100,
+        "rank": 5,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 180214,
+        "num": 180214,
+        "word": "Gumayusi说3比0战胜TES",
+        "onboard_time": 1762057340,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170227,
+        "num": 170227,
+        "word": "Tarzan发文致歉",
+        "onboard_time": 1762053380,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19671,
+        "num": 169918,
+        "word": "乡村有了数字范儿",
+        "onboard_time": 1762053739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169894,
+        "num": 169894,
+        "word": "明年开始卷谍战了",
+        "onboard_time": 1762059680,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1257159,
+        "num": 169506,
+        "word": "吴昕微信好友竟然这么少",
+        "onboard_time": 1762057520,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 893063,
+        "num": 168378,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583467,
+        "num": 167453,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317271,
+        "num": 166713,
+        "word": "新衣服一定要洗了再穿",
+        "onboard_time": 1762051700,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305612,
+        "num": 165657,
+        "word": "杜若溪曾因严屹宽打孩子提出离婚",
+        "onboard_time": 1762053140,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234151,
+        "num": 164459,
+        "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+        "onboard_time": 1762058599,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188249,
+        "num": 162704,
+        "word": "水库附近放生致大量猫咪落水",
+        "onboard_time": 1762052178,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140171,
+        "num": 161872,
+        "word": "2025微博视界大会第七波阵容官宣",
+        "onboard_time": 1762060100,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117955,
+        "num": 161248,
+        "word": "永夜星河开播一周年",
+        "onboard_time": 1762060401,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114701,
+        "num": 159781,
+        "word": "王源宇宙超级无敌大狂欢巡演",
+        "onboard_time": 1762058839,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442228,
+        "num": 158681,
+        "word": "镖人",
+        "onboard_time": 1762051939,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215764,
+        "num": 157804,
+        "word": "偶遇angelababy和闺蜜逛街",
+        "onboard_time": 1762056261,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200010,
+        "num": 157014,
+        "word": "彭小苒说最胖的样子在郭敬明镜头里",
+        "onboard_time": 1762060461,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80060,
+        "num": 153018,
+        "word": "有人居家打金因炸金损失8克",
+        "onboard_time": 1762059620,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151726,
+        "num": 151726,
+        "word": "谁来给宋亚轩递个喜剧本子",
+        "onboard_time": 1762060821,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147333,
+        "num": 147333,
+        "word": "香港地铁偶遇费曼杨阳洋",
+        "onboard_time": 1762055359,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145225,
+        "num": 145225,
+        "word": "新闻女王2李施嬅饰演的张家妍",
+        "onboard_time": 1762059141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124749,
+        "num": 139261,
+        "word": "邓家佳角色查重率为0",
+        "onboard_time": 1762059381,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106487,
+        "num": 136991,
+        "word": "MLB美职棒大联盟",
+        "onboard_time": 1762058961,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136724,
+        "num": 136724,
+        "word": "这种泡泡馄饨到底是谁在爱吃",
+        "onboard_time": 1762059620,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128976,
+        "num": 128976,
+        "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+        "onboard_time": 1762060760,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "医生眼中的生理性厌恶",
+        "onboard_time": 1762052599,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117997,
+        "num": 117997,
+        "word": "星穹铁道昔涟角色PV",
+        "onboard_time": 1762059921,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107222,
+        "num": 107222,
+        "word": "何炅说只想看徐正溪跳舞",
+        "onboard_time": 1762060461,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 105887,
+        "word": "2025KPL年度总决赛",
+        "onboard_time": 1762061001,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104748,
+        "num": 104748,
+        "word": "老头乐逆行撞上劳斯莱斯",
+        "onboard_time": 1762053020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88560,
+        "num": 103552,
+        "word": "12306部分车票带宠字",
+        "onboard_time": 1762046539,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103266,
+        "num": 103266,
+        "word": "六公主说和没看周深现场的说不清",
+        "onboard_time": 1762058721,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99822,
+        "num": 99822,
+        "word": "51岁阿姨月薪1710元的独居生活",
+        "onboard_time": 1762054639,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 97806,
+        "num": 97806,
+        "word": "日本是一个橱窗国家",
+        "onboard_time": 1762057641,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95201,
+        "num": 95201,
+        "word": "李一桐动漫版清瞳",
+        "onboard_time": 1762060941,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89381,
+        "num": 89381,
+        "word": "她这一套换下来我要躺到明年",
+        "onboard_time": 1762051640,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69689,
+        "num": 89174,
+        "word": "小伙理发变投资砸了40多万",
+        "onboard_time": 1762059620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88986,
+        "num": 88986,
+        "word": "万斯一句话让印度裔美国人炸锅",
+        "onboard_time": 1762050979,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88536,
+        "num": 88536,
+        "word": "艾热父亲离世前最后一顿饭是孜巴做的",
+        "onboard_time": 1762059201,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88504,
+        "num": 88504,
+        "word": "胡先煦被黄景瑜急出英语",
+        "onboard_time": 1762060880,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84986,
+        "num": 84986,
+        "word": "樊振东的第1条微博",
+        "onboard_time": 1762060700,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83337,
+        "num": 83337,
+        "word": "这是跨越山海的浪漫",
+        "onboard_time": 1762057700,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82156,
+        "num": 82156,
+        "word": "多方回应小区因千万欠费3年未供暖",
+        "onboard_time": 1762059860,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束韩国之行#"
+    }
+  }
+}
