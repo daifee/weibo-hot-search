@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762080043704,
+  "endTime": 1762082416545,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -691,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 383454,
+      "num": 200956,
+      "word": "朱珠英语主持",
+      "onboard_time": 1762081040,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378412,
       "num": 174011,
       "word": "弦子回应嫁给李茂没有下嫁感",
@@ -752,6 +760,14 @@
       "word": "疑似贩卖婴儿4人被抓",
       "onboard_time": 1762064421,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347762,
+      "num": 205553,
+      "word": "广州地铁跳转广告",
+      "onboard_time": 1762080021,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -915,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 300919,
+      "num": 204563,
+      "word": "涵艺爆料RNG和FPX退出LPL",
+      "onboard_time": 1762080680,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -945,6 +969,14 @@
       "onboard_time": 1762048399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283732,
+      "num": 283732,
+      "word": "全红婵陈芋汐携手新搭档出战",
+      "onboard_time": 1762079360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 282765,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1761996020,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254076,
+      "num": 203779,
+      "word": "辛芷蕾被评为威尼斯近十年最佳影后",
+      "onboard_time": 1762080080,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 251735,
@@ -1347,6 +1387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219996,
+      "num": 219996,
+      "word": "向往的生活一家六口世纪同框",
+      "onboard_time": 1762080680,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218661,
       "num": 172805,
       "word": "日本男子保存现场26年凶手落网",
@@ -1427,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211416,
+      "num": 133076,
+      "word": "Uzi离开场馆",
+      "onboard_time": 1762080380,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211377,
       "num": 211377,
       "word": "再见TES",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1761966379,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207282,
+      "num": 207282,
+      "word": "郭宇欣横店微短剧之夜红毯",
+      "onboard_time": 1762080441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 206911,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1761923124,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200585,
+      "num": 200585,
+      "word": "12岁女孩做外贸15个月卖了10万",
+      "onboard_time": 1762075760,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198669,
@@ -1817,6 +1889,14 @@
       "onboard_time": 1762011501,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179632,
+      "num": 179632,
+      "word": "迪丽热巴用腿刹车",
+      "onboard_time": 1762082311,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 178879,
@@ -2225,6 +2305,14 @@
       "onboard_time": 1762074021,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155618,
+      "num": 155618,
+      "word": "如鸢",
+      "onboard_time": 1762081279,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 155368,
@@ -2795,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132031,
+      "num": 132031,
+      "word": "Tian说Faker又要夺冠了",
+      "onboard_time": 1762082103,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131862,
       "num": 131862,
       "word": "Angelababy期待马天宇新剧三人行",
@@ -2923,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127054,
+      "num": 127054,
+      "word": "余霜采访",
+      "onboard_time": 1762081100,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126722,
       "num": 126722,
       "word": "侯明昊演技",
@@ -2969,6 +3073,14 @@
       "onboard_time": 1761993500,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125288,
+      "num": 159918,
+      "word": "武林外传20周年要合体了",
+      "onboard_time": 1762081641,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 124800,
@@ -3171,6 +3283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120749,
+      "num": 144623,
+      "word": "王力宏演唱会模仿蝴蝶眨眼睛",
+      "onboard_time": 1762081582,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120743,
+      "num": 120743,
+      "word": "JackeyLove尽力局",
+      "onboard_time": 1762080561,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120544,
       "num": 111762,
       "word": "丁禹兮演完魔丸演灵珠",
@@ -3201,6 +3329,14 @@
       "onboard_time": 1761988280,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120040,
+      "num": 142779,
+      "word": "第一次见一人表白四人心碎的",
+      "onboard_time": 1762081160,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 119724,
@@ -3513,6 +3649,14 @@
       "onboard_time": 1761971420,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110238,
+      "num": 140661,
+      "word": "水龙吟剧粉开始人传人现象了",
+      "onboard_time": 1762082025,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 110194,
@@ -3875,11 +4019,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102780,
+      "num": 139383,
+      "word": "公务员岗位不是避风港和安乐窝",
+      "onboard_time": 1762080680,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 102561,
       "num": 136991,
       "word": "熊孩子违法年龄不是护身符",
       "onboard_time": 1762002142,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102514,
+      "num": 137007,
+      "word": "水库放生猫多只落水已救起3只",
+      "onboard_time": 1762076302,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3937,6 +4097,14 @@
       "onboard_time": 1762001601,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101163,
+      "num": 101163,
+      "word": "Angelababy精灵羽翼妆",
+      "onboard_time": 1762081160,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101116,
@@ -4283,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94907,
+      "num": 93258,
+      "word": "水龙吟",
+      "onboard_time": 1762082361,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94774,
       "num": 94774,
       "word": "用完的吹风机千万不要放在浴室",
@@ -4419,6 +4595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91711,
+      "num": 91711,
+      "word": "还我卷毛陈奕迅",
+      "onboard_time": 1762081760,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91697,
       "num": 91697,
       "word": "如果感到迷茫就去读书吧",
@@ -4433,6 +4617,14 @@
       "onboard_time": 1761975500,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91250,
+      "num": 91250,
+      "word": "半夜总醒可能是气血不足",
+      "onboard_time": 1762081520,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90947,
@@ -4505,14 +4697,6 @@
       "onboard_time": 1762036455,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90032,
-      "num": 121047,
-      "word": "水库放生猫多只落水已救起3只",
-      "onboard_time": 1762076302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90022,
@@ -4969,14 +5153,6 @@
       "onboard_time": 1762057160,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81838,
-      "num": 99809,
-      "word": "全红婵陈芋汐携手新搭档出战",
-      "onboard_time": 1762079360,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 81832,
@@ -5747,14 +5923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60310,
-      "num": 91993,
-      "word": "广州地铁跳转广告",
-      "onboard_time": 1762080021,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60131,
       "num": 72469,
       "word": "吃辣带来的三大健康红利",
@@ -5881,6 +6049,14 @@
       "onboard_time": 1762052120,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55136,
+      "num": 110162,
+      "word": "马龙妻子夏露分享舞蹈视频",
+      "onboard_time": 1762082311,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 54457,
