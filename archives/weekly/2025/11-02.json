@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762072183085,
+  "endTime": 1762072927492,
   "band_list": [
     {
       "raw_hot": 1257159,
@@ -43,20 +43,20 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 878231,
+      "num": 1140517,
+      "word": "T1对战TES",
+      "onboard_time": 1762066279,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 872476,
       "num": 273890,
       "word": "刘强东 从此在老婆面前没有了自信",
       "onboard_time": 1762000102,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 766457,
-      "num": 1122633,
-      "word": "T1对战TES",
-      "onboard_time": 1762066279,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 752071,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 692247,
-      "num": 142871,
+      "num": 148459,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 449852,
-      "num": 143318,
+      "num": 149102,
       "word": "马思纯写给张晚意的信",
       "onboard_time": 1762065921,
       "rank": 30,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 439280,
-      "num": 144114,
+      "num": 149348,
       "word": "男子因彩礼轻生父母索赔20万",
       "onboard_time": 1762066581,
       "rank": 21,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322192,
+      "num": 322192,
+      "word": "TES醒一醒",
+      "onboard_time": 1762070601,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 320258,
       "num": 172781,
       "word": "觉得自己闯祸了就来看翁青雅朱珠",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 306925,
-      "num": 145333,
+      "num": 148230,
       "word": "网友发帖寻找的3名小孩已去世",
       "onboard_time": 1762064479,
       "rank": 17,
@@ -475,12 +483,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 216247,
-      "num": 216247,
-      "word": "TES醒一醒",
-      "onboard_time": 1762070601,
-      "rank": 4,
-      "category": "电竞"
+      "raw_hot": 213334,
+      "num": 148384,
+      "word": "马天宇vs马天宇vs马天宇",
+      "onboard_time": 1762069520,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 206424,
@@ -488,14 +496,6 @@
       "word": "新闻女王2李施嬅饰演的张家妍",
       "onboard_time": 1762059141,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205721,
-      "num": 141535,
-      "word": "马天宇vs马天宇vs马天宇",
-      "onboard_time": 1762069520,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -540,11 +540,27 @@
     },
     {
       "raw_hot": 196124,
-      "num": 128100,
+      "num": 129342,
       "word": "杨紫连续三年说准MLB冠军",
       "onboard_time": 1762067000,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 195374,
+      "num": 195374,
+      "word": "你未婚我卫韫",
+      "onboard_time": 1762070061,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194802,
+      "num": 194802,
+      "word": "罗云熙水龙吟布达拉宫热度双破万",
+      "onboard_time": 1762071800,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 192418,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 185510,
-      "num": 141186,
+      "num": 148261,
       "word": "怪不得舞蹈生都喜欢穿长羽绒服",
       "onboard_time": 1762068140,
       "rank": 30,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169775,
+      "num": 169775,
+      "word": "Rita评论席举起LPL战旗",
+      "onboard_time": 1762072460,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -672,6 +696,14 @@
       "word": "全国1%人口抽样调查",
       "onboard_time": 1762006585,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166621,
+      "num": 166621,
+      "word": "药中茅台片仔癀跌破官方指导价",
+      "onboard_time": 1762070961,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -763,20 +795,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147037,
+      "num": 147037,
+      "word": "坠河去世姐弟俩母亲痛哭发声",
+      "onboard_time": 1762068681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145312,
       "num": 145312,
       "word": "LPL",
       "onboard_time": 1762069760,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145131,
-      "num": 145131,
-      "word": "你未婚我卫韫",
-      "onboard_time": 1762070061,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 143711,
@@ -899,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124381,
-      "num": 120066,
-      "word": "坠河去世姐弟俩母亲痛哭发声",
-      "onboard_time": 1762068681,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "MRC对战Gr",
@@ -971,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120925,
+      "num": 120925,
+      "word": "坏了她是真读过研",
+      "onboard_time": 1762071860,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119724,
       "num": 119724,
       "word": "你只需要学4小时",
@@ -985,6 +1017,14 @@
       "onboard_time": 1762053319,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118584,
+      "num": 132531,
+      "word": "上海交大招5000名博士",
+      "onboard_time": 1762071860,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 118219,
@@ -1084,7 +1124,7 @@
     },
     {
       "raw_hot": 112673,
-      "num": 143529,
+      "num": 148594,
       "word": "谁是零食届顶流",
       "onboard_time": 1762068800,
       "rank": 19,
@@ -1203,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106558,
-      "num": 145088,
-      "word": "罗云熙水龙吟布达拉宫热度双破万",
-      "onboard_time": 1762071800,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106487,
       "num": 136991,
       "word": "MLB美职棒大联盟",
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99543,
+      "num": 144756,
+      "word": "俄方回应委内瑞拉求援",
+      "onboard_time": 1762071140,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97924,
       "num": 97924,
       "word": "27岁脑子一热给自己报了26年高考",
@@ -1355,12 +1395,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97446,
+      "num": 147329,
+      "word": "竹林七贤荣启期跨700年砖墙同框",
+      "onboard_time": 1762064360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97179,
       "num": 97179,
       "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
       "onboard_time": 1762063040,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96372,
+      "num": 131602,
+      "word": "终于有剧带火乌鲁木齐了",
+      "onboard_time": 1762072521,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95369,
+      "num": 95369,
+      "word": "跟周深上班久了会被同化",
+      "onboard_time": 1762072160,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 94993,
@@ -1393,14 +1457,6 @@
       "onboard_time": 1762071978,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93438,
-      "num": 101217,
-      "word": "上海交大招5000名博士",
-      "onboard_time": 1762071860,
-      "rank": 39,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 93406,
@@ -1443,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91899,
-      "num": 91899,
-      "word": "坏了她是真读过研",
-      "onboard_time": 1762071860,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91857,
       "num": 157647,
       "word": "苏超球迷称度过了不一样的2025",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1762013781,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90963,
-      "num": 144756,
-      "word": "俄方回应委内瑞拉求援",
-      "onboard_time": 1762071140,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90947,
@@ -1529,22 +1569,6 @@
       "onboard_time": 1762059201,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88353,
-      "num": 142989,
-      "word": "药中茅台片仔癀跌破官方指导价",
-      "onboard_time": 1762070961,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88278,
-      "num": 140384,
-      "word": "竹林七贤荣启期跨700年砖墙同框",
-      "onboard_time": 1762064360,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87908,
@@ -1723,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82169,
+      "num": 82169,
+      "word": "广东潮汕一个炭烧响螺至少上千元",
+      "onboard_time": 1762072460,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82156,
       "num": 82156,
       "word": "多方回应小区因千万欠费3年未供暖",
@@ -1752,14 +1784,6 @@
       "word": "王源厦门站vlog",
       "onboard_time": 1762056800,
       "rank": 42,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 81719,
-      "num": 81719,
-      "word": "跟周深上班久了会被同化",
-      "onboard_time": 1762072160,
-      "rank": 46,
       "category": "演出"
     },
     {
@@ -1865,6 +1889,14 @@
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74070,
+      "num": 74070,
+      "word": "怪不得脚掌心总是有种被拉扯的感觉",
+      "onboard_time": 1762072821,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 73616,
@@ -2091,7 +2123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57631,
+      "raw_hot": 58601,
       "num": 80517,
       "word": "陕西3只退役警犬征集领养人",
       "onboard_time": 1762071081,
