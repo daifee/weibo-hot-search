@@ -1,0 +1,410 @@
+{
+  "runTime": 1762090124685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2533325,
+        "num": 2566651,
+        "word": "全红婵首秀第1跳全场最高分",
+        "onboard_time": 1762088242,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349139,
+        "num": 349139,
+        "word": "全红婵陈芋汐携手新搭档出战",
+        "onboard_time": 1762079360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6007,
+        "num": 344800,
+        "word": "全运会观赛日历",
+        "onboard_time": 1762046360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1059980,
+        "num": 344188,
+        "word": "短剧演员红毯上接吻",
+        "onboard_time": 1762084462,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342051,
+        "num": 342051,
+        "word": "区委书记沉迷游戏区长沉迷高尔夫",
+        "onboard_time": 1762088603,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267338,
+        "num": 267338,
+        "word": "向往的生活一家六口世纪同框",
+        "onboard_time": 1762080680,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265571,
+        "num": 265571,
+        "word": "全红婵十五运首金",
+        "onboard_time": 1762089562,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250609,
+        "num": 250609,
+        "word": "TES不敌T1后发文",
+        "onboard_time": 1762083561,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230775,
+        "num": 230775,
+        "word": "杨紫生命树收官文被网友做成歌了",
+        "onboard_time": 1762086441,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 212034,
+        "word": "糖尿病不是吃糖吃出来的",
+        "onboard_time": 1762073721,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209397,
+        "num": 209397,
+        "word": "全红婵复出首战告捷",
+        "onboard_time": 1762088782,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3101667,
+        "num": 208700,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709116,
+        "num": 207645,
+        "word": "儿子无法接受妈妈被打致残曾想自杀",
+        "onboard_time": 1762083681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483470,
+        "num": 205287,
+        "word": "杨紫郭宇欣同框",
+        "onboard_time": 1762084761,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340544,
+        "num": 204026,
+        "word": "被男友割喉护士曾多次被勒脖子",
+        "onboard_time": 1762083621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276691,
+        "num": 201948,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246343,
+        "num": 201008,
+        "word": "张纪中被孩子问爸爸你什么时候死",
+        "onboard_time": 1762085241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222590,
+        "num": 199182,
+        "word": "网传王鹤棣签了将门毒后",
+        "onboard_time": 1762088841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198688,
+        "num": 198688,
+        "word": "广东队跳水女团冠军",
+        "onboard_time": 1762089741,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221766,
+        "num": 197778,
+        "word": "易烊千玺演的沈星",
+        "onboard_time": 1762088122,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350600,
+        "num": 197243,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304882,
+        "num": 196850,
+        "word": "建议气血不足的人不要留太长的头发",
+        "onboard_time": 1762085601,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195861,
+        "num": 195861,
+        "word": "陈芋汐全运会第一跳",
+        "onboard_time": 1762089442,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191591,
+        "num": 191591,
+        "word": "12岁女孩做外贸15个月卖了10万",
+        "onboard_time": 1762075760,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190936,
+        "num": 190936,
+        "word": "马龙妻子夏露分享舞蹈视频",
+        "onboard_time": 1762082311,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151134,
+        "num": 151134,
+        "word": "熬夜其实是在熬甲状腺的寿命",
+        "onboard_time": 1762086742,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137939,
+        "num": 137939,
+        "word": "台官员宴请美官员结果无一人到场",
+        "onboard_time": 1762083921,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129532,
+        "num": 137923,
+        "word": "周洁琼 哭戏",
+        "onboard_time": 1762087882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102890,
+        "num": 137905,
+        "word": "短短10集8死7伤哭8次",
+        "onboard_time": 1762083201,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99272,
+        "num": 137858,
+        "word": "赵丽颖李沁或演简单的人生",
+        "onboard_time": 1762082721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143622,
+        "num": 137813,
+        "word": "韩总统向中方额外赠送200盒皇南饼",
+        "onboard_time": 1762083561,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137813,
+        "num": 137812,
+        "word": "Faker说今天状态不太好",
+        "onboard_time": 1762084581,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131883,
+        "num": 131883,
+        "word": "卢浮宫失窃珠宝现身",
+        "onboard_time": 1762073242,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "T1战胜TES",
+        "onboard_time": 1762076362,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118113,
+        "num": 118113,
+        "word": "跳水",
+        "onboard_time": 1762089981,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113734,
+        "num": 113734,
+        "word": "湖南警方通报发现疑似贩卖婴儿",
+        "onboard_time": 1762065080,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 103836,
+        "num": 103836,
+        "word": "辛芷蕾被评为威尼斯近十年最佳影后",
+        "onboard_time": 1762080080,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97310,
+        "num": 97310,
+        "word": "学校通报女生买淀粉肠被拿走钥匙",
+        "onboard_time": 1762082542,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 96986,
+        "word": "上班的8个好处",
+        "onboard_time": 1762086382,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96443,
+        "num": 96443,
+        "word": "建议讨厌上班的人反复观看",
+        "onboard_time": 1762086863,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90558,
+        "num": 90558,
+        "word": "黄金征税部分商家火速下架金条",
+        "onboard_time": 1762084100,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 89909,
+        "num": 89909,
+        "word": "帝丹校花毛利兰",
+        "onboard_time": 1762087222,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89791,
+        "num": 89791,
+        "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
+        "onboard_time": 1762087101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89370,
+        "num": 89370,
+        "word": "彭小苒换发型了",
+        "onboard_time": 1762085541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89221,
+        "num": 89221,
+        "word": "迪丽热巴用腿刹车",
+        "onboard_time": 1762082311,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84220,
+        "num": 84220,
+        "word": "背的是嫂子吗背的是德",
+        "onboard_time": 1762086143,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82723,
+        "num": 82723,
+        "word": "T1对战TES",
+        "onboard_time": 1762066279,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81524,
+        "num": 81524,
+        "word": "狼队对战WB",
+        "onboard_time": 1762078940,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38046,
+        "num": 80773,
+        "word": "女护士遭同居男友杀害案姐姐发声",
+        "onboard_time": 1762088422,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80591,
+        "num": 80591,
+        "word": "女子遭丈夫掐脖致半身不遂案开庭",
+        "onboard_time": 1762089202,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的韩国APEC时间#"
+    }
+  }
+}
