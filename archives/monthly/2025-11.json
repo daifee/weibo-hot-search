@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762057837904,
+  "endTime": 1762058686659,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1077594,
-      "num": 175881,
+      "num": 189110,
       "word": "关晓彤 你们是不认识孟子义吗",
       "onboard_time": 1762051339,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1762045100,
       "rank": 0,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 952583,
+      "num": 190108,
+      "word": "吴昕微信好友竟然这么少",
+      "onboard_time": 1762057520,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 941063,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 563948,
-      "num": 170189,
+      "num": 186445,
       "word": "杜若溪曾因严屹宽打孩子提出离婚",
       "onboard_time": 1762053140,
       "rank": 23,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 531998,
-      "num": 174011,
+      "num": 185366,
       "word": "新衣服一定要洗了再穿",
       "onboard_time": 1762051700,
       "rank": 14,
@@ -395,8 +403,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500155,
+      "num": 1080024,
+      "word": "黄安称屠颖因酒店跑步机摔跤离世",
+      "onboard_time": 1762053739,
+      "rank": 45,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 498708,
-      "num": 174012,
+      "num": 180952,
       "word": "水库附近放生致大量猫咪落水",
       "onboard_time": 1762052178,
       "rank": 12,
@@ -489,14 +505,6 @@
       "onboard_time": 1761987980,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422331,
-      "num": 1067572,
-      "word": "黄安称屠颖因酒店跑步机摔跤离世",
-      "onboard_time": 1762053739,
-      "rank": 45,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 418838,
@@ -723,6 +731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 295392,
+      "num": 295392,
+      "word": "Tarzan发文致歉",
+      "onboard_time": 1762053380,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -760,14 +776,6 @@
       "word": "T1战胜AL",
       "onboard_time": 1761911004,
       "rank": 5,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 277056,
-      "num": 277056,
-      "word": "Tarzan发文致歉",
-      "onboard_time": 1762053380,
-      "rank": 27,
       "category": "电竞"
     },
     {
@@ -827,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266307,
+      "num": 179697,
+      "word": "偶遇angelababy和闺蜜逛街",
+      "onboard_time": 1762056261,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264049,
       "num": 264049,
       "word": "藏海传剧组亮相文荣奖",
@@ -851,14 +867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257075,
-      "num": 134104,
-      "word": "偶遇angelababy和闺蜜逛街",
-      "onboard_time": 1762056261,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 255221,
-      "num": 174008,
+      "num": 179231,
       "word": "医生眼中的生理性厌恶",
       "onboard_time": 1762052599,
       "rank": 20,
@@ -969,14 +977,6 @@
       "onboard_time": 1762012042,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 230345,
-      "num": 135154,
-      "word": "吴昕微信好友竟然这么少",
-      "onboard_time": 1762057520,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 230111,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194013,
+      "num": 194013,
+      "word": "四川多名教师曝被欠薪欠缴社保",
+      "onboard_time": 1762055961,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 193088,
       "num": 269737,
       "word": "年轻人爱上越剧",
@@ -1419,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178684,
+      "num": 178684,
+      "word": "老头乐逆行撞上劳斯莱斯",
+      "onboard_time": 1762053020,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178665,
       "num": 178665,
       "word": "11月第一个好消息",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1761962540,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 177381,
-      "num": 147851,
-      "word": "老头乐逆行撞上劳斯莱斯",
-      "onboard_time": 1762053020,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177313,
@@ -1524,7 +1532,7 @@
     },
     {
       "raw_hot": 169813,
-      "num": 133552,
+      "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
       "onboard_time": 1762054460,
       "rank": 47,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1762053140,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166234,
+      "num": 166234,
+      "word": "Gumayusi说3比0战胜TES",
+      "onboard_time": 1762057340,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 166148,
@@ -2011,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143797,
+      "num": 143797,
+      "word": "香港地铁偶遇费曼杨阳洋",
+      "onboard_time": 1762055359,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143689,
       "num": 106192,
       "word": "光夜齐司礼时序彼端",
@@ -2195,12 +2219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133380,
-      "num": 133380,
-      "word": "Gumayusi说3比0战胜TES",
-      "onboard_time": 1762057340,
-      "rank": 23,
-      "category": "电竞"
+      "raw_hot": 133314,
+      "num": 112166,
+      "word": "日本是一个橱窗国家",
+      "onboard_time": 1762057641,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133277,
@@ -2307,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128594,
-      "num": 128594,
-      "word": "香港地铁偶遇费曼杨阳洋",
-      "onboard_time": 1762055359,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128424,
       "num": 128424,
       "word": "苏超决赛收视率破1",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1761982161,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128250,
-      "num": 128250,
-      "word": "四川多名教师曝被欠薪欠缴社保",
-      "onboard_time": 1762055961,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 127988,
@@ -2473,6 +2481,14 @@
       "onboard_time": 1761956960,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123226,
+      "num": 112096,
+      "word": "中国人素质太高了",
+      "onboard_time": 1762058359,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123186,
@@ -2659,6 +2675,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 117629,
+      "num": 117629,
+      "word": "指甲宽别做白色美甲",
+      "onboard_time": 1762055481,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 117514,
       "num": 117514,
       "word": "iPhone18Pro八大升级",
@@ -2763,6 +2787,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112540,
+      "num": 184856,
+      "word": "入青云今日收官",
+      "onboard_time": 1762055481,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112486,
+      "num": 112486,
+      "word": "这是跨越山海的浪漫",
+      "onboard_time": 1762057700,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112387,
       "num": 174009,
       "word": "电影特立独行定档2026暑期",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1762002441,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110904,
+      "num": 110904,
+      "word": "女子忍痛踩趾压板脚喷血",
+      "onboard_time": 1762058540,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110282,
@@ -2955,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107153,
+      "num": 183259,
+      "word": "为什么要警惕城市青纱帐",
+      "onboard_time": 1762057401,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106707,
       "num": 106707,
       "word": "女人从鲨鱼妈妈腹中救下宝宝",
@@ -2985,14 +3041,6 @@
       "onboard_time": 1761977541,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104671,
-      "num": 104671,
-      "word": "日本是一个橱窗国家",
-      "onboard_time": 1762057641,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 104656,
@@ -3128,14 +3176,6 @@
       "word": "大厨小婿开播",
       "onboard_time": 1761977960,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100924,
-      "num": 134812,
-      "word": "入青云今日收官",
-      "onboard_time": 1762055481,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3307,14 +3347,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 97615,
-      "num": 97615,
-      "word": "指甲宽别做白色美甲",
-      "onboard_time": 1762055481,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 97564,
       "num": 124071,
       "word": "零跑汽车10月交付70289台",
@@ -3409,14 +3441,6 @@
       "onboard_time": 1761970280,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94311,
-      "num": 134713,
-      "word": "为什么要警惕城市青纱帐",
-      "onboard_time": 1762057401,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 93406,
@@ -3609,14 +3633,6 @@
       "onboard_time": 1761922284,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88917,
-      "num": 88917,
-      "word": "这是跨越山海的浪漫",
-      "onboard_time": 1762057700,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88715,
@@ -3923,19 +3939,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81021,
+      "num": 81021,
+      "word": "梅西89分钟世界波难救主",
+      "onboard_time": 1762055359,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80740,
       "num": 112536,
       "word": "全妹背着痛包回来了",
       "onboard_time": 1761996083,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 80260,
-      "num": 80260,
-      "word": "梅西89分钟世界波难救主",
-      "onboard_time": 1762055359,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -3953,6 +3969,14 @@
       "onboard_time": 1762047018,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78740,
+      "num": 78740,
+      "word": "英国一火车突发持刀袭击事件",
+      "onboard_time": 1762058239,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78713,
@@ -4001,6 +4025,14 @@
       "onboard_time": 1761921204,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77498,
+      "num": 75354,
+      "word": "弦子 引导型恋人",
+      "onboard_time": 1762058359,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 77257,
@@ -4065,6 +4097,14 @@
       "onboard_time": 1761885382,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75028,
+      "num": 75028,
+      "word": "被空军的高燃混剪硬控了",
+      "onboard_time": 1762055660,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 74977,
@@ -4289,6 +4329,14 @@
       "onboard_time": 1762047621,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68475,
+      "num": 93329,
+      "word": "王艺迪为国乒保留争冠希望",
+      "onboard_time": 1762058599,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 68161,
@@ -4716,7 +4764,7 @@
     },
     {
       "raw_hot": 45198,
-      "num": 134326,
+      "num": 183166,
       "word": "是时候换台骁龙新机了",
       "onboard_time": 1762055421,
       "rank": 19,
@@ -4931,6 +4979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31280,
+      "num": 314109,
+      "word": "APEC深圳之约期待值拉满",
+      "onboard_time": 1762054100,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30547,
       "num": 117302,
       "word": "张凌赫 联想",
@@ -4945,6 +5001,14 @@
       "onboard_time": 1761990381,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29522,
+      "num": 181422,
+      "word": "男童独自进涌浪池深水区游玩溺亡",
+      "onboard_time": 1762058060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29154,
@@ -4971,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28671,
+      "num": 93313,
+      "word": "被网友求链接的温州铁锅厂复工复产了",
+      "onboard_time": 1762057700,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28604,
       "num": 153884,
       "word": "高校职称晋升 金钱游戏",
@@ -4992,14 +5064,6 @@
       "word": "目前中日关系机遇和挑战并存",
       "onboard_time": 1761943874,
       "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 27448,
-      "num": 314109,
-      "word": "APEC深圳之约期待值拉满",
-      "onboard_time": 1762054100,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -5027,12 +5091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25964,
-      "num": 86616,
-      "word": "被网友求链接的温州铁锅厂复工复产了",
-      "onboard_time": 1762057700,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 25479,
+      "num": 93575,
+      "word": "婆孙泳池边被毒虫咬伤索赔酒店遭拒",
+      "onboard_time": 1762057820,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24223,
@@ -5115,20 +5179,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21366,
+      "num": 191858,
+      "word": "乡村有了数字范儿",
+      "onboard_time": 1762053739,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19750,
       "num": 103121,
       "word": "掉进李沁的魅力陷阱",
       "onboard_time": 1761978260,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19423,
-      "num": 184767,
-      "word": "乡村有了数字范儿",
-      "onboard_time": 1762053739,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18985,
