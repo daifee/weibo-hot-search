@@ -1,0 +1,410 @@
+{
+  "runTime": 1762097029231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369184,
+        "num": 1369184,
+        "word": "全红婵复出夺冠",
+        "onboard_time": 1762090643,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 664724,
+        "num": 664724,
+        "word": "翁青雅说闯祸了可以看看我",
+        "onboard_time": 1762093643,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26286,
+        "num": 471758,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762092380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356259,
+        "num": 356259,
+        "word": "区委书记沉迷游戏区长沉迷高尔夫",
+        "onboard_time": 1762088603,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262795,
+        "num": 262795,
+        "word": "全红婵发文说我真棒",
+        "onboard_time": 1762093763,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215284,
+        "num": 215284,
+        "word": "全红婵首秀第1跳全场最高分",
+        "onboard_time": 1762088242,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200239,
+        "num": 200239,
+        "word": "央视记者卧底揭兼职培训骗局",
+        "onboard_time": 1762090643,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 196160,
+        "num": 196160,
+        "word": "TES不敌T1后发文",
+        "onboard_time": 1762083561,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165717,
+        "num": 195995,
+        "word": "狼队赢了",
+        "onboard_time": 1762092443,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158424,
+        "num": 194355,
+        "word": "小胖哭了",
+        "onboard_time": 1762095563,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1794160,
+        "num": 193169,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591489,
+        "num": 192686,
+        "word": "被男友割喉护士曾多次被勒脖子",
+        "onboard_time": 1762083621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493772,
+        "num": 191842,
+        "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+        "onboard_time": 1762092983,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434127,
+        "num": 189927,
+        "word": "台湾人面临的三种选择",
+        "onboard_time": 1762093043,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421976,
+        "num": 189756,
+        "word": "爆改化妆师兔子怀孕了",
+        "onboard_time": 1762090702,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316627,
+        "num": 187742,
+        "word": "张艺兴 小家为主",
+        "onboard_time": 1762095923,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313857,
+        "num": 187041,
+        "word": "卢昱晓 学服装设计不是让你干这个的",
+        "onboard_time": 1762090763,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271063,
+        "num": 185674,
+        "word": "杨紫直播",
+        "onboard_time": 1762092501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185509,
+        "num": 185509,
+        "word": "张纪中被孩子问爸爸你什么时候死",
+        "onboard_time": 1762085241,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170892,
+        "num": 170892,
+        "word": "上官正义回应举报贩婴反被警方扣留",
+        "onboard_time": 1762093163,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892805,
+        "num": 170661,
+        "word": "短剧演员红毯上接吻",
+        "onboard_time": 1762084462,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236443,
+        "num": 170291,
+        "word": "建议气血不足的人不要留太长的头发",
+        "onboard_time": 1762085601,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222312,
+        "num": 169365,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 169121,
+        "word": "全红婵被观众的娃娃雨淹没了",
+        "onboard_time": 1762096461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168733,
+        "num": 168733,
+        "word": "陈芋汐全运会第一跳",
+        "onboard_time": 1762089442,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163488,
+        "num": 163488,
+        "word": "陈天润微博在线了",
+        "onboard_time": 1762096102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157674,
+        "num": 157674,
+        "word": "孩子哭的那一刻去与不去已经没意义了",
+        "onboard_time": 1762092081,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143807,
+        "num": 143807,
+        "word": "长剧导演找郭宇欣刘萧旭二搭",
+        "onboard_time": 1762094002,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135723,
+        "num": 135723,
+        "word": "易烊千玺蛮荒禁地演的沈星",
+        "onboard_time": 1762088122,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107342,
+        "num": 132451,
+        "word": "陈添祥红毯压轴",
+        "onboard_time": 1762093763,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154046,
+        "num": 132393,
+        "word": "杨紫郭宇欣同框",
+        "onboard_time": 1762084761,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136241,
+        "num": 132369,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1762094242,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "白桃星座",
+        "onboard_time": 1762095503,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128197,
+        "num": 128197,
+        "word": "全红婵状态回来了",
+        "onboard_time": 1762095801,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125652,
+        "num": 125652,
+        "word": "TES把Faker打瞌睡了",
+        "onboard_time": 1762092803,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118888,
+        "num": 118888,
+        "word": "12岁女孩做外贸15个月卖了10万",
+        "onboard_time": 1762075760,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118086,
+        "num": 118086,
+        "word": "女子排队礼让孕妇",
+        "onboard_time": 1762091962,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113403,
+        "num": 113403,
+        "word": "网传王鹤棣签了将门毒后",
+        "onboard_time": 1762088841,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109916,
+        "num": 109916,
+        "word": "汪苏泷演唱会大合照",
+        "onboard_time": 1762095981,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109799,
+        "num": 109799,
+        "word": "何广智还回去说脱口秀吗",
+        "onboard_time": 1762093882,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101513,
+        "num": 101513,
+        "word": "狼队 归期",
+        "onboard_time": 1762096343,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99225,
+        "num": 99225,
+        "word": "熬夜其实是在熬甲状腺的寿命",
+        "onboard_time": 1762086742,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96128,
+        "num": 96128,
+        "word": "只给敖瑞鹏打滤镜不管沙溢死活",
+        "onboard_time": 1762096580,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102063,
+        "num": 94868,
+        "word": "汪苏泷停顿那一刻哽咽了",
+        "onboard_time": 1762095323,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92215,
+        "num": 92215,
+        "word": "向往的生活一家六口世纪同框",
+        "onboard_time": 1762080680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92375,
+        "num": 91929,
+        "word": "长期侧睡发现肩膀前移了",
+        "onboard_time": 1762095682,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89156,
+        "num": 89156,
+        "word": "邓紫棋武汉演唱会",
+        "onboard_time": 1762096942,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87689,
+        "num": 87689,
+        "word": "oner谈S赛对LPL连胜",
+        "onboard_time": 1762092380,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86628,
+        "num": 86628,
+        "word": "热依扎把星河穿在了身上",
+        "onboard_time": 1762096822,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79661,
+        "num": 86329,
+        "word": "全红婵3跳合集",
+        "onboard_time": 1762096942,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席韩国之行精彩瞬间#"
+    }
+  }
+}

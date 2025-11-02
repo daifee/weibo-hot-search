@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762094338168,
+  "endTime": 1762097029231,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664724,
+      "num": 664724,
+      "word": "翁青雅说闯祸了可以看看我",
+      "onboard_time": 1762093643,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660949,
       "num": 660949,
       "word": "12306部分车票带宠字",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493772,
+      "num": 213285,
+      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+      "onboard_time": 1762092983,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485828,
       "num": 149102,
       "word": "网传印度人中国街头随地大小便",
@@ -361,6 +377,14 @@
       "onboard_time": 1762066581,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434127,
+      "num": 189927,
+      "word": "台湾人面临的三种选择",
+      "onboard_time": 1762093043,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 428412,
@@ -515,6 +539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316627,
+      "num": 187742,
+      "word": "张艺兴 小家为主",
+      "onboard_time": 1762095923,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313857,
+      "num": 213525,
+      "word": "卢昱晓 学服装设计不是让你干这个的",
+      "onboard_time": 1762090763,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310623,
       "num": 310623,
       "word": "TES不敌T1后发文",
@@ -569,14 +609,6 @@
       "onboard_time": 1762053380,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287870,
-      "num": 213525,
-      "word": "卢昱晓 学服装设计不是让你干这个的",
-      "onboard_time": 1762090763,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 287504,
@@ -673,6 +705,14 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262795,
+      "num": 262795,
+      "word": "全红婵发文说我真棒",
+      "onboard_time": 1762093763,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 262298,
@@ -819,14 +859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 227107,
-      "num": 227107,
-      "word": "翁青雅说闯祸了可以看看我",
-      "onboard_time": 1762093643,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
@@ -865,14 +897,6 @@
       "onboard_time": 1762069520,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213285,
-      "num": 213285,
-      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
-      "onboard_time": 1762092983,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 211416,
@@ -985,6 +1009,14 @@
       "onboard_time": 1762046300,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200239,
+      "num": 200239,
+      "word": "央视记者卧底揭兼职培训骗局",
+      "onboard_time": 1762090643,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 199679,
@@ -1171,6 +1203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176520,
+      "num": 169121,
+      "word": "全红婵被观众的娃娃雨淹没了",
+      "onboard_time": 1762096461,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "高铁宠物托运指南",
@@ -1188,7 +1228,7 @@
     },
     {
       "raw_hot": 171975,
-      "num": 151420,
+      "num": 157674,
       "word": "孩子哭的那一刻去与不去已经没意义了",
       "onboard_time": 1762092081,
       "rank": 30,
@@ -1219,20 +1259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170892,
+      "num": 170892,
+      "word": "上官正义回应举报贩婴反被警方扣留",
+      "onboard_time": 1762093163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
       "onboard_time": 1762054460,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167715,
-      "num": 167715,
-      "word": "台湾人面临的三种选择",
-      "onboard_time": 1762093043,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167703,
@@ -1257,14 +1297,6 @@
       "onboard_time": 1762006585,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166672,
-      "num": 166672,
-      "word": "全红婵发文说我真棒",
-      "onboard_time": 1762093763,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 166502,
@@ -1307,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163488,
+      "num": 163488,
+      "word": "陈天润微博在线了",
+      "onboard_time": 1762096102,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1762093043,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158424,
+      "num": 194355,
+      "word": "小胖哭了",
+      "onboard_time": 1762095563,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 157995,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1761999321,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149382,
-      "num": 197419,
-      "word": "央视记者卧底揭兼职培训骗局",
-      "onboard_time": 1762090643,
-      "rank": 23,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 149037,
@@ -1555,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136241,
+      "num": 132369,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1762094242,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135740,
       "num": 135740,
       "word": "貂蝉赢了",
@@ -1569,14 +1617,6 @@
       "onboard_time": 1762075099,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "上官正义回应举报贩婴反被警方扣留",
-      "onboard_time": 1762093163,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134631,
@@ -1627,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132111,
+      "num": 132111,
+      "word": "白桃星座",
+      "onboard_time": 1762095503,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131024,
       "num": 131024,
       "word": "警方回应大狗遭柯基主人酒瓶爆头",
@@ -1675,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129525,
-      "num": 129525,
-      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
-      "onboard_time": 1762094242,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129184,
       "num": 129184,
       "word": "海南通报一干部工作时间打高尔夫",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1762074800,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128197,
+      "num": 128197,
+      "word": "全红婵状态回来了",
+      "onboard_time": 1762095801,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 127756,
@@ -2075,6 +2123,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109916,
+      "num": 109916,
+      "word": "汪苏泷演唱会大合照",
+      "onboard_time": 1762095981,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109799,
+      "num": 109799,
+      "word": "何广智还回去说脱口秀吗",
+      "onboard_time": 1762093882,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108784,
       "num": 131885,
       "word": "天地剑心",
@@ -2331,12 +2395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102063,
+      "num": 94868,
+      "word": "汪苏泷停顿那一刻哽咽了",
+      "onboard_time": 1762095323,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101856,
       "num": 121410,
       "word": "刘宪华乌镇录制向往的生活",
       "onboard_time": 1762062200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101513,
+      "num": 101513,
+      "word": "狼队 归期",
+      "onboard_time": 1762096343,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 101163,
@@ -2491,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96128,
+      "num": 96128,
+      "word": "只给敖瑞鹏打滤镜不管沙溢死活",
+      "onboard_time": 1762096580,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95936,
       "num": 95936,
       "word": "张晚意 底色顶顶好的人",
@@ -2619,6 +2707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92375,
+      "num": 91929,
+      "word": "长期侧睡发现肩膀前移了",
+      "onboard_time": 1762095682,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92321,
       "num": 92321,
       "word": "大一新生也开始卷实习了",
@@ -2739,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89156,
+      "num": 89156,
+      "word": "邓紫棋武汉演唱会",
+      "onboard_time": 1762096942,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88586,
       "num": 100040,
       "word": "芒果给水龙吟剪了26分钟超长预告",
@@ -2833,6 +2937,14 @@
       "onboard_time": 1762078761,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86628,
+      "num": 86628,
+      "word": "热依扎把星河穿在了身上",
+      "onboard_time": 1762096822,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86525,
@@ -3041,6 +3153,14 @@
       "onboard_time": 1762059620,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79661,
+      "num": 86329,
+      "word": "全红婵3跳合集",
+      "onboard_time": 1762096942,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79291,
@@ -3651,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26286,
+      "num": 850672,
+      "word": "关注第八届进博会",
+      "onboard_time": 1762092380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26074,
       "num": 111187,
       "word": "卢昱晓cos企鹅表情包",
@@ -3737,14 +3865,6 @@
       "onboard_time": 1762053739,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20814,
-      "num": 850672,
-      "word": "关注第八届进博会",
-      "onboard_time": 1762092380,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18985,

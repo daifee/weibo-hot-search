@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762094338168,
+  "endTime": 1762097029231,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664724,
+      "num": 664724,
+      "word": "翁青雅说闯祸了可以看看我",
+      "onboard_time": 1762093643,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660949,
       "num": 660949,
       "word": "12306部分车票带宠字",
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493772,
+      "num": 213285,
+      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+      "onboard_time": 1762092983,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489266,
       "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
@@ -737,6 +753,14 @@
       "onboard_time": 1761987980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434127,
+      "num": 189927,
+      "word": "台湾人面临的三种选择",
+      "onboard_time": 1762093043,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 428412,
@@ -979,6 +1003,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316627,
+      "num": 187742,
+      "word": "张艺兴 小家为主",
+      "onboard_time": 1762095923,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313857,
+      "num": 213525,
+      "word": "卢昱晓 学服装设计不是让你干这个的",
+      "onboard_time": 1762090763,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310623,
       "num": 310623,
       "word": "TES不敌T1后发文",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1762053380,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 287870,
-      "num": 213525,
-      "word": "卢昱晓 学服装设计不是让你干这个的",
-      "onboard_time": 1762090763,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 287546,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1761999441,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262795,
+      "num": 262795,
+      "word": "全红婵发文说我真棒",
+      "onboard_time": 1762093763,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 262298,
@@ -1547,14 +1587,6 @@
       "category": "辟谣/通报,体育"
     },
     {
-      "raw_hot": 227107,
-      "num": 227107,
-      "word": "翁青雅说闯祸了可以看看我",
-      "onboard_time": 1762093643,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226913,
       "num": 504286,
       "word": "AL教练后台痛哭",
@@ -1673,14 +1705,6 @@
       "onboard_time": 1762069520,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213285,
-      "num": 213285,
-      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
-      "onboard_time": 1762092983,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 213106,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1761923124,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200239,
+      "num": 200239,
+      "word": "央视记者卧底揭兼职培训骗局",
+      "onboard_time": 1762090643,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 198669,
@@ -2251,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176520,
+      "num": 169121,
+      "word": "全红婵被观众的娃娃雨淹没了",
+      "onboard_time": 1762096461,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176209,
       "num": 176209,
       "word": "蔡依林也摆了徐冬冬出圈pose",
@@ -2292,7 +2332,7 @@
     },
     {
       "raw_hot": 171975,
-      "num": 151420,
+      "num": 157674,
       "word": "孩子哭的那一刻去与不去已经没意义了",
       "onboard_time": 1762092081,
       "rank": 30,
@@ -2339,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170892,
+      "num": 170892,
+      "word": "上官正义回应举报贩婴反被警方扣留",
+      "onboard_time": 1762093163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
@@ -2371,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167715,
-      "num": 167715,
-      "word": "台湾人面临的三种选择",
-      "onboard_time": 1762093043,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -2409,14 +2449,6 @@
       "onboard_time": 1762006585,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166672,
-      "num": 166672,
-      "word": "全红婵发文说我真棒",
-      "onboard_time": 1762093763,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 166502,
@@ -2515,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163488,
+      "num": 163488,
+      "word": "陈天润微博在线了",
+      "onboard_time": 1762096102,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163004,
       "num": 163004,
       "word": "Ning为Tarzan鸣不平",
@@ -2593,6 +2633,14 @@
       "onboard_time": 1762005804,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158424,
+      "num": 194355,
+      "word": "小胖哭了",
+      "onboard_time": 1762095563,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 157995,
@@ -2825,14 +2873,6 @@
       "onboard_time": 1761980721,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149382,
-      "num": 197419,
-      "word": "央视记者卧底揭兼职培训骗局",
-      "onboard_time": 1762090643,
-      "rank": 23,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 149070,
@@ -3227,6 +3267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136241,
+      "num": 132369,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1762094242,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136187,
       "num": 131282,
       "word": "何泓姗 脸和性格各长各的",
@@ -3273,14 +3321,6 @@
       "onboard_time": 1762075099,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "上官正义回应举报贩婴反被警方扣留",
-      "onboard_time": 1762093163,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134631,
@@ -3363,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132111,
+      "num": 132111,
+      "word": "白桃星座",
+      "onboard_time": 1762095503,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131862,
       "num": 131862,
       "word": "Angelababy期待马天宇新剧三人行",
@@ -3427,14 +3475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129525,
-      "num": 129525,
-      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
-      "onboard_time": 1762094242,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129462,
       "num": 129462,
       "word": "沈腾咱不跟宋亚轩争第一",
@@ -3489,6 +3529,14 @@
       "onboard_time": 1761982161,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128197,
+      "num": 128197,
+      "word": "全红婵状态回来了",
+      "onboard_time": 1762095801,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 127988,
@@ -4251,6 +4299,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109916,
+      "num": 109916,
+      "word": "汪苏泷演唱会大合照",
+      "onboard_time": 1762095981,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109799,
+      "num": 109799,
+      "word": "何广智还回去说脱口秀吗",
+      "onboard_time": 1762093882,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108928,
       "num": 108928,
       "word": "240斤女生为婚礼5个月瘦60斤",
@@ -4691,6 +4755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102063,
+      "num": 94868,
+      "word": "汪苏泷停顿那一刻哽咽了",
+      "onboard_time": 1762095323,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101858,
       "num": 101858,
       "word": "小米汽车交付周期再次缩短",
@@ -4721,6 +4793,14 @@
       "onboard_time": 1761981681,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101513,
+      "num": 101513,
+      "word": "狼队 归期",
+      "onboard_time": 1762096343,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 101438,
@@ -5067,6 +5147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96128,
+      "num": 96128,
+      "word": "只给敖瑞鹏打滤镜不管沙溢死活",
+      "onboard_time": 1762096580,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95936,
       "num": 95936,
       "word": "张晚意 底色顶顶好的人",
@@ -5257,6 +5345,14 @@
       "onboard_time": 1761988041,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92375,
+      "num": 91929,
+      "word": "长期侧睡发现肩膀前移了",
+      "onboard_time": 1762095682,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92321,
@@ -5467,6 +5563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89156,
+      "num": 89156,
+      "word": "邓紫棋武汉演唱会",
+      "onboard_time": 1762096942,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88715,
       "num": 121281,
       "word": "孙颖莎小伸懒腰",
@@ -5625,6 +5729,14 @@
       "onboard_time": 1762078761,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86628,
+      "num": 86628,
+      "word": "热依扎把星河穿在了身上",
+      "onboard_time": 1762096822,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86596,
@@ -5961,6 +6073,14 @@
       "onboard_time": 1762059620,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79661,
+      "num": 86329,
+      "word": "全红婵3跳合集",
+      "onboard_time": 1762096942,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79291,
@@ -7315,6 +7435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26286,
+      "num": 850672,
+      "word": "关注第八届进博会",
+      "onboard_time": 1762092380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26074,
       "num": 111187,
       "word": "卢昱晓cos企鹅表情包",
@@ -7441,14 +7569,6 @@
       "onboard_time": 1762053739,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20814,
-      "num": 850672,
-      "word": "关注第八届进博会",
-      "onboard_time": 1762092380,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19750,
