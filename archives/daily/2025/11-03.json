@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762118517082,
+  "endTime": 1762119415618,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -476,15 +476,15 @@
     },
     {
       "raw_hot": 13471,
-      "num": 27220,
+      "num": 28983,
       "word": "鼠鼠我啊上太空了",
       "onboard_time": 1762115534,
       "rank": 37,
       "category": "国内时政"
     },
     {
-      "raw_hot": 11296,
-      "num": 27050,
+      "raw_hot": 11336,
+      "num": 28943,
       "word": "身体不适住院学生全部康复返校",
       "onboard_time": 1762116793,
       "rank": 47,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 11121,
-      "num": 27010,
+      "num": 28896,
       "word": "展轩新歌DayByDay",
       "onboard_time": 1762105576,
       "rank": 49,
