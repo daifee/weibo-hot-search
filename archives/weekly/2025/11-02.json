@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762100929844,
+  "endTime": 1762101820089,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -753,6 +753,14 @@
       "onboard_time": 1762075760,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259323,
+      "num": 259323,
+      "word": "何晟铭称于正还没有放下",
+      "onboard_time": 1762099880,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 258593,
@@ -1587,14 +1595,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 142189,
-      "num": 142189,
-      "word": "何晟铭称于正还没有放下",
-      "onboard_time": 1762099880,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "热依扎把星河穿在了身上",
@@ -1625,6 +1625,22 @@
       "onboard_time": 1762095682,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139061,
+      "num": 135580,
+      "word": "郭宇欣工作室出图",
+      "onboard_time": 1762100239,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139006,
+      "num": 129542,
+      "word": "男子夜钓遭枪击头部生命垂危",
+      "onboard_time": 1762099039,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137227,
@@ -1665,14 +1681,6 @@
       "onboard_time": 1762093763,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135580,
-      "num": 135580,
-      "word": "郭宇欣工作室出图",
-      "onboard_time": 1762100239,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134884,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1762011801,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129542,
-      "num": 129542,
-      "word": "男子夜钓遭枪击头部生命垂危",
-      "onboard_time": 1762099039,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129532,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1762058239,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78094,
+      "num": 97779,
+      "word": "王鹤棣新歌Pretty",
+      "onboard_time": 1762101199,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 77779,
