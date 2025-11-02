@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762090811168,
+  "endTime": 1762093339744,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1098089,
+      "num": 1098089,
+      "word": "全红婵复出夺冠",
+      "onboard_time": 1762090643,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1087235,
       "num": 1087235,
       "word": "TES 陀螺",
@@ -104,6 +112,14 @@
       "word": "12岁女孩做外贸3个月卖了10万",
       "onboard_time": 1762075760,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784821,
+      "num": 784821,
+      "word": "区委书记沉迷游戏区长沉迷高尔夫",
+      "onboard_time": 1762088603,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595176,
+      "num": 196190,
+      "word": "爆改化妆师兔子怀孕了",
+      "onboard_time": 1762090702,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575819,
       "num": 336504,
       "word": "卢浮宫失窃珠宝现身",
@@ -249,14 +273,6 @@
       "onboard_time": 1762053739,
       "rank": 45,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 499207,
-      "num": 499207,
-      "word": "区委书记沉迷游戏区长沉迷高尔夫",
-      "onboard_time": 1762088603,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 498708,
@@ -395,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 386713,
+      "num": 208210,
+      "word": "张纪中被孩子问爸爸你什么时候死",
+      "onboard_time": 1762085241,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383454,
       "num": 205791,
       "word": "朱珠英语主持",
@@ -449,14 +473,6 @@
       "onboard_time": 1762064421,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349753,
-      "num": 208210,
-      "word": "张纪中被孩子问爸爸你什么时候死",
-      "onboard_time": 1762085241,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 337147,
@@ -539,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287870,
+      "num": 194490,
+      "word": "卢昱晓 学服装设计不是让你干这个的",
+      "onboard_time": 1762090763,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287504,
       "num": 259055,
       "word": "坏了她是真读过研",
@@ -577,6 +601,30 @@
       "onboard_time": 1762065799,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 272730,
+      "num": 195861,
+      "word": "陈芋汐全运会第一跳",
+      "onboard_time": 1762089442,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269384,
+      "num": 269384,
+      "word": "易烊千玺演的沈星",
+      "onboard_time": 1762088122,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 268033,
+      "num": 182443,
+      "word": "杨紫直播",
+      "onboard_time": 1762092501,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 267538,
@@ -691,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249976,
+      "num": 249976,
+      "word": "狼队对战WB",
+      "onboard_time": 1762078940,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247319,
       "num": 247319,
       "word": "Rita评论席举起LPL战旗",
@@ -705,14 +761,6 @@
       "onboard_time": 1762076002,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 238750,
-      "num": 238750,
-      "word": "易烊千玺演的沈星",
-      "onboard_time": 1762088122,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 237070,
@@ -745,14 +793,6 @@
       "onboard_time": 1762012042,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 228639,
-      "num": 195861,
-      "word": "陈芋汐全运会第一跳",
-      "onboard_time": 1762089442,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 228299,
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197714,
+      "num": 197714,
+      "word": "狼队赢了",
+      "onboard_time": 1762092443,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196670,
       "num": 196670,
       "word": "台官员宴请美官员结果无一人到场",
@@ -947,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193895,
+      "num": 193895,
+      "word": "刘宪华回归第一章划船",
+      "onboard_time": 1762092262,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193661,
       "num": 145612,
       "word": "跟着王楚钦走进深秋故宫",
@@ -961,14 +1017,6 @@
       "onboard_time": 1762073482,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192893,
-      "num": 192893,
-      "word": "全红婵复出夺冠",
-      "onboard_time": 1762090643,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 192418,
@@ -1091,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171975,
+      "num": 141867,
+      "word": "孩子哭的那一刻去与不去已经没意义了",
+      "onboard_time": 1762092081,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171783,
       "num": 171783,
       "word": "英雄联盟",
@@ -1195,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156770,
+      "num": 156770,
+      "word": "oner谈S赛对LPL连胜",
+      "onboard_time": 1762092380,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156617,
       "num": 156617,
       "word": "熬夜其实是在熬甲状腺的寿命",
@@ -1259,12 +1323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149872,
+      "num": 141811,
+      "word": "TES把Faker打瞌睡了",
+      "onboard_time": 1762092803,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149513,
       "num": 277799,
       "word": "无限暖暖",
       "onboard_time": 1761999321,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149382,
+      "num": 197419,
+      "word": "央视记者卧底揭兼职培训骗局",
+      "onboard_time": 1762090643,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 149037,
@@ -1355,12 +1435,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 141650,
+      "num": 141650,
+      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+      "onboard_time": 1762092983,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140171,
       "num": 161872,
       "word": "2025微博视界大会第七波阵容官宣",
       "onboard_time": 1762060100,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137227,
+      "num": 137227,
+      "word": "女子排队礼让孕妇",
+      "onboard_time": 1762091962,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136724,
@@ -1427,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131721,
-      "num": 131721,
-      "word": "狼队对战WB",
-      "onboard_time": 1762078940,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131024,
       "num": 131024,
       "word": "警方回应大狗遭柯基主人酒瓶爆头",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1762087882,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129184,
+      "num": 129184,
+      "word": "海南通报一干部工作时间打高尔夫",
+      "onboard_time": 1762090581,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129116,
@@ -1755,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112703,
+      "num": 112703,
+      "word": "台湾人面临的三种选择",
+      "onboard_time": 1762093043,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112675,
       "num": 123325,
       "word": "荷兰安世半导体无中生有恶意抹黑",
@@ -1809,6 +1913,14 @@
       "onboard_time": 1762007604,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111825,
+      "num": 111825,
+      "word": "林允 那年杏花微雨",
+      "onboard_time": 1762093043,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 111517,
@@ -1907,6 +2019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107562,
+      "num": 107562,
+      "word": "上官正义回应举报贩婴反被警方扣留",
+      "onboard_time": 1762093163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107229,
       "num": 107229,
       "word": "TES与T1对位选手投票结果公布",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1762060941,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "三亚海滩长满了俄罗斯人",
+      "onboard_time": 1762091422,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106487,
@@ -2043,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103082,
+      "num": 103082,
+      "word": "刘宪华给我干哪年来了",
+      "onboard_time": 1762092742,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102796,
       "num": 111295,
       "word": "邓紫棋这次真的不一样",
@@ -2091,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101440,
+      "num": 142011,
+      "word": "这部剧不能和家长一起看",
+      "onboard_time": 1762092983,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101163,
       "num": 101163,
       "word": "Angelababy精灵羽翼妆",
@@ -2112,6 +2256,38 @@
       "word": "一句她哪都比你好扎心了",
       "onboard_time": 1762040958,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100209,
+      "num": 100209,
+      "word": "陈芋汐想为家乡争光",
+      "onboard_time": 1762093163,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100182,
+      "num": 100182,
+      "word": "王楚钦说喜欢小动物",
+      "onboard_time": 1762091781,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100175,
+      "num": 98322,
+      "word": "李沁在张晚意这也成了妹妹",
+      "onboard_time": 1762093224,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99839,
+      "num": 99839,
+      "word": "男子夜钓时头部遭枪击后自己走回家",
+      "onboard_time": 1762091542,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2419,14 +2595,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91080,
-      "num": 91080,
-      "word": "卢昱晓 学服装设计不是让你干这个的",
-      "onboard_time": 1762090763,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90947,
       "num": 90947,
       "word": "樊振东的第1条微博",
@@ -2481,14 +2649,6 @@
       "onboard_time": 1762061841,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89267,
-      "num": 89267,
-      "word": "海南通报一干部工作时间打高尔夫",
-      "onboard_time": 1762090581,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88586,
@@ -3235,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47361,
+      "num": 111857,
+      "word": "美方称美军机连掉两架并非巧合",
+      "onboard_time": 1762092623,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45198,
       "num": 183166,
       "word": "是时候换台骁龙新机了",
@@ -3459,14 +3627,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 21850,
-      "num": 187213,
-      "word": "央视记者卧底揭兼职培训骗局",
-      "onboard_time": 1762090643,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
@@ -3523,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14073,
+      "num": 850672,
+      "word": "关注第八届进博会",
+      "onboard_time": 1762092380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14006,
       "num": 32671,
       "word": "遏制未成年人犯罪核准追诉不是终点",
@@ -3537,6 +3705,14 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10669,
+      "num": 108252,
+      "word": "中国体育名场面感动了一遍又一遍",
+      "onboard_time": 1762070301,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 10240,
@@ -3567,6 +3743,9 @@
     },
     {
       "word": "#习主席的韩国APEC时间#"
+    },
+    {
+      "word": "#习近平主席韩国之行精彩瞬间#"
     }
   ]
 }
