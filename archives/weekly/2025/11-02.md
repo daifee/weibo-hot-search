@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/03 03:37:09
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/03 04:26:08
 </p>
 </blockquote>
 <p>
@@ -3051,14 +3051,14 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%8E%A2%E9%95%BF%E6%B2%99%E5%A2%99%E4%BD%93%E5%9E%AE%E5%A1%8C2%E4%BA%BA%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%23" target="weibo">
-再探长沙墙体垮塌2人遇难现场（热度：15659）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BE%A4%E9%AD%94%E4%B8%B8%E9%87%8C%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E4%B8%80%E9%A2%97%E7%81%B5%E7%8F%A0%23" target="weibo">
+一群魔丸里突然出现了一颗灵珠（热度：16043）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BE%A4%E9%AD%94%E4%B8%B8%E9%87%8C%E7%AA%81%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E4%B8%80%E9%A2%97%E7%81%B5%E7%8F%A0%23" target="weibo">
-一群魔丸里突然出现了一颗灵珠（热度：15635）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%8E%A2%E9%95%BF%E6%B2%99%E5%A2%99%E4%BD%93%E5%9E%AE%E5%A1%8C2%E4%BA%BA%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%23" target="weibo">
+再探长沙墙体垮塌2人遇难现场（热度：15659）
 </a>
 </li>
 
@@ -3095,6 +3095,12 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%A7%82%E8%B5%9B%E6%97%A5%E5%8E%86%23" target="weibo">
 全运会观赛日历（热度：10240）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E6%96%B0%E6%AD%8CDayByDay%23" target="weibo">
+展轩新歌DayByDay（热度：10082）
 </a>
 </li>
 
