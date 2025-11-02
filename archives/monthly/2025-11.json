@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762072927492,
+  "endTime": 1762075416052,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1257159,
-      "num": 190108,
+      "num": 228711,
       "word": "吴昕微信好友竟然这么少",
       "onboard_time": 1762057520,
       "rank": 16,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1200448,
-      "num": 168378,
+      "num": 232631,
       "word": "朱珠工伤",
       "onboard_time": 1762059800,
       "rank": 11,
@@ -99,8 +99,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1116860,
+      "num": 1178697,
+      "word": "T1对战TES",
+      "onboard_time": 1762066279,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1083814,
-      "num": 148165,
+      "num": 153064,
       "word": "朱珠给翁青雅关门",
       "onboard_time": 1762061961,
       "rank": 15,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1077594,
-      "num": 189110,
+      "num": 204206,
       "word": "关晓彤 你们是不认识孟子义吗",
       "onboard_time": 1762051339,
       "rank": 10,
@@ -169,14 +177,6 @@
       "onboard_time": 1762002923,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 878231,
-      "num": 1140517,
-      "word": "T1对战TES",
-      "onboard_time": 1762066279,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 869920,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 692247,
-      "num": 148459,
+      "num": 167329,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 690145,
-      "num": 153250,
+      "num": 224721,
       "word": "温峥嵘同时间出现在3个直播间",
       "onboard_time": 1762062142,
       "rank": 11,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558086,
+      "num": 558086,
+      "word": "TES醒一醒",
+      "onboard_time": 1762070601,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 556033,
       "num": 388167,
       "word": "安世中国郑重声明",
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491454,
+      "num": 262780,
+      "word": "卢浮宫失窃珠宝现身",
+      "onboard_time": 1762073242,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 489266,
       "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 439280,
-      "num": 149348,
+      "num": 227951,
       "word": "男子因彩礼轻生父母索赔20万",
       "onboard_time": 1762066581,
       "rank": 21,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 353670,
-      "num": 165476,
+      "num": 203080,
       "word": "疑似贩卖婴儿4人被抓",
       "onboard_time": 1762064421,
       "rank": 5,
@@ -745,14 +761,6 @@
       "onboard_time": 1762066519,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322192,
-      "num": 322192,
-      "word": "TES醒一醒",
-      "onboard_time": 1762070601,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 321450,
@@ -1035,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257268,
+      "num": 257268,
+      "word": "你未婚我卫韫",
+      "onboard_time": 1762070061,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -1091,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247319,
+      "num": 247319,
+      "word": "Rita评论席举起LPL战旗",
+      "onboard_time": 1762072460,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242906,
       "num": 204646,
       "word": "小婴儿的核磁共振全是脑子",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1762038616,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234746,
+      "num": 234746,
+      "word": "药中茅台片仔癀跌破官方指导价",
+      "onboard_time": 1762070961,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233461,
@@ -1292,7 +1324,7 @@
     },
     {
       "raw_hot": 213334,
-      "num": 148384,
+      "num": 165757,
       "word": "马天宇vs马天宇vs马天宇",
       "onboard_time": 1762069520,
       "rank": 23,
@@ -1443,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200431,
+      "num": 200431,
+      "word": "坏了她是真读过研",
+      "onboard_time": 1762071860,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198669,
       "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
@@ -1483,14 +1523,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 195374,
-      "num": 195374,
-      "word": "你未婚我卫韫",
-      "onboard_time": 1762070061,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194802,
       "num": 194802,
       "word": "罗云熙水龙吟布达拉宫热度双破万",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1762006106,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193096,
+      "num": 193096,
+      "word": "青铜器有自己的配方说明书",
+      "onboard_time": 1762073482,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193088,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1761974421,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187082,
+      "num": 187082,
+      "word": "TES 陀螺",
+      "onboard_time": 1762074919,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 186987,
@@ -1795,14 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169775,
-      "num": 169775,
-      "word": "Rita评论席举起LPL战旗",
-      "onboard_time": 1762072460,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169012,
       "num": 169012,
       "word": "罗永浩呼吁车企为电池健康负责",
@@ -1848,14 +1888,6 @@
       "word": "全国1%人口抽样调查",
       "onboard_time": 1762006585,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166621,
-      "num": 166621,
-      "word": "药中茅台片仔癀跌破官方指导价",
-      "onboard_time": 1762070961,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1995,6 +2027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159165,
+      "num": 159165,
+      "word": "听见你说",
+      "onboard_time": 1762075160,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158971,
+      "num": 143810,
+      "word": "注销后的微信是什么样子",
+      "onboard_time": 1762073960,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158589,
       "num": 158589,
       "word": "十个勤天 时间的参照物",
@@ -2064,6 +2112,14 @@
       "word": "在乌镇偶遇张艺兴",
       "onboard_time": 1761995422,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155929,
+      "num": 155929,
+      "word": "鞠婧祎出道十二周年发博",
+      "onboard_time": 1762074021,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2251,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147506,
+      "num": 147506,
+      "word": "张博恒解说T1对战TES",
+      "onboard_time": 1762065560,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "银灰",
@@ -2355,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143652,
+      "num": 143652,
+      "word": "上海交大招5000名博士",
+      "onboard_time": 1762071860,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 143394,
       "num": 114542,
       "word": "用生命扳倒安德鲁王子的女人",
@@ -2377,14 +2449,6 @@
       "onboard_time": 1762000162,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140659,
-      "num": 140659,
-      "word": "张博恒解说T1对战TES",
-      "onboard_time": 1762065560,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 140440,
@@ -2505,6 +2569,14 @@
       "onboard_time": 1761988941,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137120,
+      "num": 137120,
+      "word": "糖尿病不是吃糖吃出来的",
+      "onboard_time": 1762073721,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136724,
@@ -2827,6 +2899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124295,
+      "num": 124295,
+      "word": "Faker独自回休息室",
+      "onboard_time": 1762074800,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124167,
       "num": 124167,
       "word": "眉压眼和眉包眼的区别",
@@ -2979,14 +3059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120925,
-      "num": 120925,
-      "word": "坏了她是真读过研",
-      "onboard_time": 1762071860,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120894,
       "num": 150402,
       "word": "原来小猫也会嫌弃自己脚臭",
@@ -3067,14 +3139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118584,
-      "num": 132531,
-      "word": "上海交大招5000名博士",
-      "onboard_time": 1762071860,
-      "rank": 39,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 118405,
       "num": 118405,
       "word": "长沙今日防空警报试鸣",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1762001302,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116545,
+      "num": 116545,
+      "word": "女主一舔嘴唇都得被自己毒死吧",
+      "onboard_time": 1762075099,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 116391,
@@ -3451,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107740,
+      "num": 107740,
+      "word": "印度留学生超市偷窃向警察哭诉",
+      "onboard_time": 1762073242,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107668,
       "num": 107668,
       "word": "华晨宇效应",
@@ -3523,6 +3603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106583,
+      "num": 106583,
+      "word": "TES落入绝境",
+      "onboard_time": 1762074800,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106487,
       "num": 136991,
       "word": "MLB美职棒大联盟",
@@ -3545,6 +3633,14 @@
       "onboard_time": 1762061659,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105385,
+      "num": 105385,
+      "word": "女子为儿子订婚花7千买酒全是假货",
+      "onboard_time": 1762073301,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104875,
@@ -3625,6 +3721,14 @@
       "onboard_time": 1762069041,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 103445,
+      "num": 147329,
+      "word": "竹林七贤荣启期跨700年砖墙同框",
+      "onboard_time": 1762064360,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103328,
@@ -3891,6 +3995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98058,
+      "num": 98058,
+      "word": "hang娜美",
+      "onboard_time": 1762074021,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97924,
       "num": 97924,
       "word": "27岁脑子一热给自己报了26年高考",
@@ -3923,20 +4035,20 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 97809,
+      "num": 97809,
+      "word": "第十五届全运会",
+      "onboard_time": 1762074381,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97564,
       "num": 124071,
       "word": "零跑汽车10月交付70289台",
       "onboard_time": 1761971841,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 97446,
-      "num": 147329,
-      "word": "竹林七贤荣启期跨700年砖墙同框",
-      "onboard_time": 1762064360,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97345,
@@ -4307,6 +4419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88586,
+      "num": 88586,
+      "word": "芒果给水龙吟剪了26分钟超长预告",
+      "onboard_time": 1762075400,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88577,
       "num": 118409,
       "word": "今晚是江苏人的春晚",
@@ -4363,12 +4483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87406,
+      "num": 87406,
+      "word": "Uzi谈TESvsT1",
+      "onboard_time": 1762070719,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87276,
       "num": 124038,
       "word": "中级经济师",
       "onboard_time": 1761970520,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87124,
+      "num": 145984,
+      "word": "疯狂好六夜官宣得拿放大镜看",
+      "onboard_time": 1762073121,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 87032,
@@ -5595,6 +5731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50049,
+      "num": 240003,
+      "word": "神二十乘组回家",
+      "onboard_time": 1762074980,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49698,
       "num": 99824,
       "word": "金饰以旧换新 少了21克",
@@ -6217,6 +6361,14 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6669,
+      "num": 417959,
+      "word": "全运会观赛日历",
+      "onboard_time": 1762046360,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -6243,6 +6395,9 @@
     },
     {
       "word": "#习近平圆满结束韩国之行#"
+    },
+    {
+      "word": "#习主席的韩国APEC时间#"
     }
   ]
 }
