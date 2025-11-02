@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762123174997,
+  "endTime": 1762125800685,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -27,8 +27,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530535,
+      "num": 129542,
+      "word": "男子夜钓遭枪击头部生命垂危",
+      "onboard_time": 1762099039,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490416,
-      "num": 154085,
+      "num": 207677,
       "word": "全红婵被观众的娃娃雨淹没了",
       "onboard_time": 1762096461,
       "rank": 11,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 449201,
-      "num": 516316,
+      "num": 774817,
       "word": "何晟铭称于正还没有放下",
       "onboard_time": 1762099880,
       "rank": 18,
@@ -83,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309794,
-      "num": 129542,
-      "word": "男子夜钓遭枪击头部生命垂危",
-      "onboard_time": 1762099039,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 304580,
+      "num": 98418,
+      "word": "轻断食从116斤瘦到94斤",
+      "onboard_time": 1762125317,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 288488,
@@ -131,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209601,
+      "num": 108741,
+      "word": "月经量少的根源其实不在子宫",
+      "onboard_time": 1762125258,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -161,6 +177,14 @@
       "onboard_time": 1762083561,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164206,
+      "num": 91867,
+      "word": "怪不得现在早餐店大部分都是预制的了",
+      "onboard_time": 1762125258,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 157442,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129729,
+      "num": 129729,
+      "word": "全红婵首秀第1跳全场最高分",
+      "onboard_time": 1762088242,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "狼队 归期",
@@ -243,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102836,
+      "num": 102836,
+      "word": "张纪中被孩子问爸爸你什么时候死",
+      "onboard_time": 1762085241,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99221,
       "num": 99221,
       "word": "全运会乒乓球神秘定律",
@@ -275,12 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91232,
-      "num": 91232,
-      "word": "全红婵首秀第1跳全场最高分",
-      "onboard_time": 1762088242,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 90654,
+      "num": 90654,
+      "word": "韩总统向中方额外赠送200盒皇南饼",
+      "onboard_time": 1762083561,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89338,
@@ -321,6 +361,14 @@
       "onboard_time": 1762098500,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82135,
+      "num": 54329,
+      "word": "间谍加大对我国粮食领域渗透",
+      "onboard_time": 1762125738,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79484,
@@ -395,20 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67857,
-      "num": 71155,
-      "word": "张纪中被孩子问爸爸你什么时候死",
-      "onboard_time": 1762085241,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 65967,
+      "num": 123381,
+      "word": "入青云",
+      "onboard_time": 1762125078,
+      "rank": 8,
+      "category": "剧集"
     },
     {
-      "raw_hot": 52794,
-      "num": 71215,
-      "word": "韩总统向中方额外赠送200盒皇南饼",
-      "onboard_time": 1762083561,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 54278,
+      "num": 54278,
+      "word": "一群魔丸里突然出现了一颗灵珠",
+      "onboard_time": 1762110555,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42194,
+      "num": 42687,
+      "word": "ChatGP禁止提供专业医疗法律财务建议",
+      "onboard_time": 1762105755,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 39282,
@@ -427,28 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34832,
-      "num": 42687,
-      "word": "ChatGP禁止提供专业医疗法律财务建议",
-      "onboard_time": 1762105755,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 29624,
       "num": 42683,
       "word": "汪苏泷演唱会帅成啥样了",
       "onboard_time": 1762107135,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28407,
-      "num": 33154,
-      "word": "一群魔丸里突然出现了一颗灵珠",
-      "onboard_time": 1762110555,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 26177,
