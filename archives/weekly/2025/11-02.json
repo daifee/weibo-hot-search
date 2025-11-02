@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762105102480,
+  "endTime": 1762108334099,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -3859,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34832,
+      "num": 42687,
+      "word": "ChatGP禁止提供专业医疗法律财务建议",
+      "onboard_time": 1762105755,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34409,
       "num": 51765,
       "word": "村委会回应公园密集扶手已拆除",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1762068079,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29624,
+      "num": 42683,
+      "word": "汪苏泷演唱会帅成啥样了",
+      "onboard_time": 1762107135,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 29522,

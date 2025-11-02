@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/03 00:28:49 ~ 2025/11/03 01:38:22
+本榜单时间：2025/11/03 00:28:49 ~ 2025/11/03 02:32:14
 </p>
 </blockquote>
 <p>
@@ -333,8 +333,26 @@ TES把Faker打瞌睡了（热度：74380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ChatGP%E7%A6%81%E6%AD%A2%E6%8F%90%E4%BE%9B%E4%B8%93%E4%B8%9A%E5%8C%BB%E7%96%97%E6%B3%95%E5%BE%8B%E8%B4%A2%E5%8A%A1%E5%BB%BA%E8%AE%AE%23" target="weibo">
+ChatGP禁止提供专业医疗法律财务建议（热度：34832）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%85%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23" target="weibo">
+汪苏泷演唱会帅成啥样了（热度：29624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23" target="weibo">
 关注第八届进博会（热度：26177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%81%9C%E9%A1%BF%E9%82%A3%E4%B8%80%E5%88%BB%E5%93%BD%E5%92%BD%E4%BA%86%23" target="weibo">
+汪苏泷停顿那一刻哽咽了（热度：23708）
 </a>
 </li>
 

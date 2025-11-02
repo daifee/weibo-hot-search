@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762105102480,
+  "endTime": 1762108334099,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -7419,6 +7419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34832,
+      "num": 42687,
+      "word": "ChatGP禁止提供专业医疗法律财务建议",
+      "onboard_time": 1762105755,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34710,
       "num": 119432,
       "word": "丁禹兮谈笑间四菜一汤",
@@ -7488,6 +7496,14 @@
       "word": "黄子弘凡演唱会后台小法宝",
       "onboard_time": 1761990381,
       "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29624,
+      "num": 42683,
+      "word": "汪苏泷演唱会帅成啥样了",
+      "onboard_time": 1762107135,
+      "rank": 27,
       "category": "演出"
     },
     {
