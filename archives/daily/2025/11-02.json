@@ -1,10 +1,10 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762093339744,
+  "endTime": 1762094338168,
   "band_list": [
     {
       "raw_hot": 3905506,
-      "num": 208797,
+      "num": 222061,
       "word": "翁青雅道歉",
       "onboard_time": 1762086801,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1592188,
+      "num": 1592188,
+      "word": "全红婵复出夺冠",
+      "onboard_time": 1762090643,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1291333,
       "num": 479366,
       "word": "短剧演员红毯上接吻",
@@ -57,14 +65,6 @@
       "onboard_time": 1762059800,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1098089,
-      "num": 1098089,
-      "word": "全红婵复出夺冠",
-      "onboard_time": 1762090643,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 1087235,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 696178,
-      "num": 208162,
+      "num": 214650,
       "word": "被男友割喉护士曾多次被勒脖子",
       "onboard_time": 1762083621,
       "rank": 11,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 692247,
-      "num": 197243,
+      "num": 210416,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 595176,
-      "num": 196190,
+      "num": 219895,
       "word": "爆改化妆师兔子怀孕了",
       "onboard_time": 1762090702,
       "rank": 12,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 483470,
-      "num": 208456,
+      "num": 211380,
       "word": "杨紫郭宇欣同框",
       "onboard_time": 1762084761,
       "rank": 14,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 386713,
-      "num": 208210,
+      "num": 216848,
       "word": "张纪中被孩子问爸爸你什么时候死",
       "onboard_time": 1762085241,
       "rank": 23,
@@ -443,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 366356,
+      "num": 218440,
+      "word": "网传王鹤棣签了将门毒后",
+      "onboard_time": 1762088841,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363655,
       "num": 363655,
       "word": "湖南警方通报发现疑似贩卖婴儿",
@@ -465,6 +473,14 @@
       "onboard_time": 1762008742,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359583,
+      "num": 217387,
+      "word": "杨紫直播",
+      "onboard_time": 1762092501,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 353670,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 304882,
-      "num": 196850,
+      "num": 208704,
       "word": "建议气血不足的人不要留太长的头发",
       "onboard_time": 1762085601,
       "rank": 21,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 287870,
-      "num": 194490,
+      "num": 213525,
       "word": "卢昱晓 学服装设计不是让你干这个的",
       "onboard_time": 1762090763,
       "rank": 48,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 272730,
-      "num": 195861,
+      "num": 209951,
       "word": "陈芋汐全运会第一跳",
       "onboard_time": 1762089442,
       "rank": 22,
@@ -617,14 +633,6 @@
       "onboard_time": 1762088122,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 268033,
-      "num": 182443,
-      "word": "杨紫直播",
-      "onboard_time": 1762092501,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 267538,
@@ -665,6 +673,14 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262298,
+      "num": 262298,
+      "word": "狼队赢了",
+      "onboard_time": 1762092443,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 259992,
@@ -803,19 +819,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 227107,
+      "num": 227107,
+      "word": "翁青雅说闯祸了可以看看我",
+      "onboard_time": 1762093643,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
       "onboard_time": 1762059680,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 222590,
-      "num": 199182,
-      "word": "网传王鹤棣签了将门毒后",
-      "onboard_time": 1762088841,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -851,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213285,
+      "num": 213285,
+      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+      "onboard_time": 1762092983,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -883,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208204,
+      "num": 208204,
+      "word": "全红婵全运会首金后发文",
+      "onboard_time": 1762093763,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207882,
       "num": 207882,
       "word": "广东队跳水女团冠军",
@@ -905,6 +937,14 @@
       "onboard_time": 1762079120,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206649,
+      "num": 206649,
+      "word": "侯明昊这次真的不是普通黄毛",
+      "onboard_time": 1762093882,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 206424,
@@ -961,14 +1001,6 @@
       "onboard_time": 1762064479,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197714,
-      "num": 197714,
-      "word": "狼队赢了",
-      "onboard_time": 1762092443,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 196670,
@@ -1067,12 +1099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186586,
+      "num": 226698,
+      "word": "易烊千玺蛮荒禁地演的沈星",
+      "onboard_time": 1762088122,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185510,
       "num": 148261,
       "word": "怪不得舞蹈生都喜欢穿长羽绒服",
       "onboard_time": 1762068140,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184869,
+      "num": 184869,
+      "word": "长剧导演找郭宇欣刘萧旭二搭",
+      "onboard_time": 1762094002,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 183206,
@@ -1140,7 +1188,7 @@
     },
     {
       "raw_hot": 171975,
-      "num": 141867,
+      "num": 151420,
       "word": "孩子哭的那一刻去与不去已经没意义了",
       "onboard_time": 1762092081,
       "rank": 30,
@@ -1179,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "台湾人面临的三种选择",
+      "onboard_time": 1762093043,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -1187,12 +1243,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 167492,
+      "num": 167492,
+      "word": "全红婵说我真棒",
+      "onboard_time": 1762094062,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166811,
       "num": 278779,
       "word": "全国1%人口抽样调查",
       "onboard_time": 1762006585,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166672,
+      "num": 166672,
+      "word": "全红婵发文说我真棒",
+      "onboard_time": 1762093763,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 166502,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1762038257,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159589,
+      "num": 159589,
+      "word": "林允 那年杏花微雨",
+      "onboard_time": 1762093043,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 157995,
@@ -1299,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153231,
+      "num": 153231,
+      "word": "TES把Faker打瞌睡了",
+      "onboard_time": 1762092803,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152882,
       "num": 156584,
       "word": "李隼称全运会乒乓球水平超过奥运会",
@@ -1321,14 +1409,6 @@
       "onboard_time": 1762039577,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149872,
-      "num": 141811,
-      "word": "TES把Faker打瞌睡了",
-      "onboard_time": 1762092803,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 149513,
@@ -1435,12 +1515,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 141650,
-      "num": 141650,
-      "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+      "raw_hot": 140309,
+      "num": 166867,
+      "word": "这部剧不能和家长一起看",
       "onboard_time": 1762092983,
-      "rank": 32,
-      "category": "艺人"
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140171,
@@ -1475,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135740,
+      "num": 135740,
+      "word": "貂蝉赢了",
+      "onboard_time": 1762093763,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134884,
       "num": 134884,
       "word": "女主一舔嘴唇都得被自己毒死吧",
@@ -1483,12 +1571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134645,
+      "num": 134645,
+      "word": "上官正义回应举报贩婴反被警方扣留",
+      "onboard_time": 1762093163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134631,
       "num": 131720,
       "word": "陈小春儿子全英发言",
       "onboard_time": 1762064240,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133846,
+      "num": 166684,
+      "word": "陈添祥红毯压轴",
+      "onboard_time": 1762093763,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 133474,
@@ -1531,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130890,
+      "num": 130890,
+      "word": "陈芋汐想为家乡争光",
+      "onboard_time": 1762093163,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130676,
       "num": 158967,
       "word": "能先把肖战让给我们三体吗",
@@ -1561,6 +1673,14 @@
       "onboard_time": 1762087882,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129525,
+      "num": 129525,
+      "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+      "onboard_time": 1762094242,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129184,
@@ -1683,6 +1803,14 @@
       "category": "科学科普,时尚"
     },
     {
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "李沁在张晚意这也成了妹妹",
+      "onboard_time": 1762093224,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121837,
       "num": 121837,
       "word": "时代少年团六周年演唱会开票时间",
@@ -1753,6 +1881,14 @@
       "onboard_time": 1762082600,
       "rank": 33,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 118518,
+      "num": 118518,
+      "word": "AG与狼队会师鸟巢",
+      "onboard_time": 1762094002,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 118219,
@@ -1851,14 +1987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112703,
-      "num": 112703,
-      "word": "台湾人面临的三种选择",
-      "onboard_time": 1762093043,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 112675,
       "num": 123325,
       "word": "荷兰安世半导体无中生有恶意抹黑",
@@ -1913,14 +2041,6 @@
       "onboard_time": 1762007604,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111825,
-      "num": 111825,
-      "word": "林允 那年杏花微雨",
-      "onboard_time": 1762093043,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 111517,
@@ -2017,14 +2137,6 @@
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107562,
-      "num": 107562,
-      "word": "上官正义回应举报贩婴反被警方扣留",
-      "onboard_time": 1762093163,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107229,
@@ -2227,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101440,
-      "num": 142011,
-      "word": "这部剧不能和家长一起看",
-      "onboard_time": 1762092983,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101163,
       "num": 101163,
       "word": "Angelababy精灵羽翼妆",
@@ -2259,28 +2363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100209,
-      "num": 100209,
-      "word": "陈芋汐想为家乡争光",
-      "onboard_time": 1762093163,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100182,
       "num": 100182,
       "word": "王楚钦说喜欢小动物",
       "onboard_time": 1762091781,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100175,
-      "num": 98322,
-      "word": "李沁在张晚意这也成了妹妹",
-      "onboard_time": 1762093224,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 99839,
@@ -3651,6 +3739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20814,
+      "num": 850672,
+      "word": "关注第八届进博会",
+      "onboard_time": 1762092380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -3681,14 +3777,6 @@
       "onboard_time": 1762068140,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14073,
-      "num": 850672,
-      "word": "关注第八届进博会",
-      "onboard_time": 1762092380,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14006,

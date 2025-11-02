@@ -1,0 +1,410 @@
+{
+  "runTime": 1762094338168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592188,
+        "num": 1592188,
+        "word": "全红婵复出夺冠",
+        "onboard_time": 1762090643,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796687,
+        "num": 796687,
+        "word": "全红婵首秀第1跳全场最高分",
+        "onboard_time": 1762088242,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20814,
+        "num": 688458,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762092380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606125,
+        "num": 606125,
+        "word": "区委书记沉迷游戏区长沉迷高尔夫",
+        "onboard_time": 1762088603,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262298,
+        "num": 262298,
+        "word": "狼队赢了",
+        "onboard_time": 1762092443,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235215,
+        "num": 235215,
+        "word": "TES不敌T1后发文",
+        "onboard_time": 1762083561,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227107,
+        "num": 227107,
+        "word": "翁青雅说闯祸了可以看看我",
+        "onboard_time": 1762093643,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186586,
+        "num": 226698,
+        "word": "易烊千玺蛮荒禁地演的沈星",
+        "onboard_time": 1762088122,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168619,
+        "num": 225311,
+        "word": "狼队对战WB",
+        "onboard_time": 1762078940,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135896,
+        "num": 223357,
+        "word": "全红婵十五运首金",
+        "onboard_time": 1762089562,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895101,
+        "num": 222401,
+        "word": "短剧演员红毯上接吻",
+        "onboard_time": 1762084462,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2146830,
+        "num": 222061,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464341,
+        "num": 219895,
+        "word": "爆改化妆师兔子怀孕了",
+        "onboard_time": 1762090702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366356,
+        "num": 218440,
+        "word": "网传王鹤棣签了将门毒后",
+        "onboard_time": 1762088841,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359583,
+        "num": 217387,
+        "word": "杨紫直播",
+        "onboard_time": 1762092501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299316,
+        "num": 216848,
+        "word": "张纪中被孩子问爸爸你什么时候死",
+        "onboard_time": 1762085241,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283702,
+        "num": 214650,
+        "word": "被男友割喉护士曾多次被勒脖子",
+        "onboard_time": 1762083621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264339,
+        "num": 213525,
+        "word": "卢昱晓 学服装设计不是让你干这个的",
+        "onboard_time": 1762090763,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213285,
+        "num": 213285,
+        "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
+        "onboard_time": 1762092983,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244249,
+        "num": 211380,
+        "word": "杨紫郭宇欣同框",
+        "onboard_time": 1762084761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244286,
+        "num": 210416,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241273,
+        "num": 209951,
+        "word": "陈芋汐全运会第一跳",
+        "onboard_time": 1762089442,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208704,
+        "num": 208704,
+        "word": "建议气血不足的人不要留太长的头发",
+        "onboard_time": 1762085601,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208204,
+        "num": 208204,
+        "word": "全红婵全运会首金后发文",
+        "onboard_time": 1762093763,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206649,
+        "num": 206649,
+        "word": "侯明昊这次真的不是普通黄毛",
+        "onboard_time": 1762093882,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184869,
+        "num": 184869,
+        "word": "长剧导演找郭宇欣刘萧旭二搭",
+        "onboard_time": 1762094002,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167715,
+        "num": 167715,
+        "word": "台湾人面临的三种选择",
+        "onboard_time": 1762093043,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167492,
+        "num": 167492,
+        "word": "全红婵说我真棒",
+        "onboard_time": 1762094062,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140309,
+        "num": 166867,
+        "word": "这部剧不能和家长一起看",
+        "onboard_time": 1762092983,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133846,
+        "num": 166684,
+        "word": "陈添祥红毯压轴",
+        "onboard_time": 1762093763,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166672,
+        "num": 166672,
+        "word": "全红婵发文说我真棒",
+        "onboard_time": 1762093763,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159589,
+        "num": 159589,
+        "word": "林允 那年杏花微雨",
+        "onboard_time": 1762093043,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153231,
+        "num": 153231,
+        "word": "TES把Faker打瞌睡了",
+        "onboard_time": 1762092803,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151420,
+        "num": 151420,
+        "word": "孩子哭的那一刻去与不去已经没意义了",
+        "onboard_time": 1762092081,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146267,
+        "num": 146267,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 143593,
+        "word": "12岁女孩做外贸15个月卖了10万",
+        "onboard_time": 1762075760,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136200,
+        "num": 136200,
+        "word": "女子排队礼让孕妇",
+        "onboard_time": 1762091962,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135740,
+        "num": 135740,
+        "word": "貂蝉赢了",
+        "onboard_time": 1762093763,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134645,
+        "num": 134645,
+        "word": "上官正义回应举报贩婴反被警方扣留",
+        "onboard_time": 1762093163,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133687,
+        "num": 133687,
+        "word": "央视记者卧底揭兼职培训骗局",
+        "onboard_time": 1762090643,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130890,
+        "num": 130890,
+        "word": "陈芋汐想为家乡争光",
+        "onboard_time": 1762093163,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129525,
+        "num": 129525,
+        "word": "29岁女子半年每天喝奶茶确诊糖尿病",
+        "onboard_time": 1762094242,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127978,
+        "num": 127978,
+        "word": "熬夜其实是在熬甲状腺的寿命",
+        "onboard_time": 1762086742,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "oner谈S赛对LPL连胜",
+        "onboard_time": 1762092380,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112336,
+        "num": 124625,
+        "word": "向往的生活一家六口世纪同框",
+        "onboard_time": 1762080680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124076,
+        "num": 124076,
+        "word": "全红婵陈芋汐携手新搭档出战",
+        "onboard_time": 1762079360,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122291,
+        "num": 122291,
+        "word": "李沁在张晚意这也成了妹妹",
+        "onboard_time": 1762093224,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 121186,
+        "word": "海南通报一干部工作时间打高尔夫",
+        "onboard_time": 1762090581,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118518,
+        "num": 118518,
+        "word": "AG与狼队会师鸟巢",
+        "onboard_time": 1762094002,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101865,
+        "num": 116025,
+        "word": "短短10集8死7伤哭8次",
+        "onboard_time": 1762083201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席韩国之行精彩瞬间#"
+    }
+  }
+}
