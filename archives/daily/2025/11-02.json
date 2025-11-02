@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762066151390,
+  "endTime": 1762068228337,
   "band_list": [
     {
       "raw_hot": 1257159,
@@ -195,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 401809,
+      "num": 129621,
+      "word": "马思纯写给张晚意的信",
+      "onboard_time": 1762065921,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392107,
       "num": 268783,
       "word": "日本男子为破杀妻案保存现场26年",
@@ -209,6 +217,14 @@
       "onboard_time": 1762051099,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363655,
+      "num": 363655,
+      "word": "湖南警方通报发现疑似贩卖婴儿",
+      "onboard_time": 1762065080,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 363139,
@@ -227,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357859,
+      "num": 357859,
+      "word": "警方正追查水库放生猫人员",
+      "onboard_time": 1762065319,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353670,
+      "num": 165476,
+      "word": "疑似贩卖婴儿4人被抓",
+      "onboard_time": 1762064421,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337147,
       "num": 358929,
       "word": "苏超泰州队冠军",
@@ -235,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324679,
+      "num": 129035,
+      "word": "朱珠情商太高了",
+      "onboard_time": 1762066519,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320258,
       "num": 172781,
       "word": "觉得自己闯祸了就来看翁青雅朱珠",
       "onboard_time": 1762001481,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309440,
+      "num": 309440,
+      "word": "看爱情公寓最怕的剧情",
+      "onboard_time": 1762063399,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308117,
@@ -257,6 +305,14 @@
       "onboard_time": 1762064479,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302444,
+      "num": 302444,
+      "word": "T1对战TES",
+      "onboard_time": 1762066279,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 295392,
@@ -347,12 +403,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255989,
+      "num": 128631,
+      "word": "警方通报怀化3名被拐婴儿被解救",
+      "onboard_time": 1762065799,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 255221,
       "num": 179231,
       "word": "医生眼中的生理性厌恶",
       "onboard_time": 1762052599,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245888,
+      "num": 128282,
+      "word": "男子因彩礼轻生父母索赔20万",
+      "onboard_time": 1762066581,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237070,
@@ -443,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193385,
-      "num": 193385,
-      "word": "看爱情公寓最怕的剧情",
-      "onboard_time": 1762063399,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 196124,
+      "num": 128100,
+      "word": "杨紫连续三年说准MLB冠军",
+      "onboard_time": 1762067000,
+      "rank": 22,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 192418,
@@ -523,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171783,
+      "num": 171783,
+      "word": "英雄联盟",
+      "onboard_time": 1762067540,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171368,
       "num": 149792,
       "word": "她这一套换下来我要躺到明年",
@@ -571,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165476,
-      "num": 165476,
-      "word": "疑似贩卖婴儿4人被抓",
-      "onboard_time": 1762064421,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164900,
       "num": 122984,
       "word": "终于看清孔雪儿暗河传长啥样了",
@@ -595,12 +667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158605,
-      "num": 158605,
-      "word": "湖南警方通报发现疑似贩卖婴儿",
-      "onboard_time": 1762065080,
-      "rank": 6,
-      "category": "辟谣/通报"
+      "raw_hot": 158978,
+      "num": 127602,
+      "word": "南航员工参加3000米考核后猝死",
+      "onboard_time": 1762066341,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157995,
@@ -635,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149413,
-      "num": 107768,
-      "word": "马思纯写给张晚意的信",
-      "onboard_time": 1762065921,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147521,
       "num": 127664,
       "word": "自闭症男孩身亡涉事老师失联未道歉",
@@ -673,6 +737,14 @@
       "onboard_time": 1762060100,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137171,
+      "num": 156584,
+      "word": "李隼称全运会乒乓球水平超过奥运会",
+      "onboard_time": 1762064961,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136724,
@@ -771,12 +843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124519,
-      "num": 156584,
-      "word": "李隼称全运会乒乓球水平超过奥运会",
-      "onboard_time": 1762064961,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 124372,
+      "num": 120644,
+      "word": "怪不得舞蹈生都喜欢穿长羽绒服",
+      "onboard_time": 1762068140,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "MRC对战Gr",
+      "onboard_time": 1762067361,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 123048,
@@ -825,6 +905,14 @@
       "onboard_time": 1762010783,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119514,
+      "num": 119514,
+      "word": "你只需要学4小时",
+      "onboard_time": 1762067480,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 119014,
@@ -963,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110194,
+      "num": 110194,
+      "word": "Chovy回应输给KT",
+      "onboard_time": 1762067061,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108522,
       "num": 108522,
       "word": "张一山爆改霸道总裁",
@@ -1091,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102287,
-      "num": 104336,
-      "word": "警方通报怀化3名被拐婴儿被解救",
-      "onboard_time": 1762065799,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 102262,
       "num": 158428,
       "word": "李茂自曝被亲戚骗光所有积蓄",
@@ -1107,16 +1195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102099,
-      "num": 102099,
-      "word": "警方正追查水库放生猫人员",
-      "onboard_time": 1762065319,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101856,
-      "num": 109443,
+      "num": 121410,
       "word": "刘宪华乌镇录制向往的生活",
       "onboard_time": 1762062200,
       "rank": 35,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1762063821,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98635,
+      "num": 98635,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1762067300,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 97924,
@@ -1177,6 +1265,14 @@
       "onboard_time": 1762063040,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94993,
+      "num": 94993,
+      "word": "周日有种干什么都很亏的感觉",
+      "onboard_time": 1762067719,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 94763,
@@ -1419,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84295,
+      "num": 94310,
+      "word": "邓聪冲收外卖的电话被打爆",
+      "onboard_time": 1762067421,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84174,
       "num": 84174,
       "word": "刘宇宁被鹰报复了",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1762006345,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83708,
+      "num": 127701,
+      "word": "陈星旭录地球超新鲜前私信王玉雯求带",
+      "onboard_time": 1762067660,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 82945,
@@ -1513,6 +1625,14 @@
       "onboard_time": 1762063700,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77731,
+      "num": 127858,
+      "word": "少爷和我现在是俩少爷",
+      "onboard_time": 1762066701,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 77498,
@@ -1699,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65976,
+      "num": 94105,
+      "word": "李隼采访太可爱了",
+      "onboard_time": 1762067840,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65433,
       "num": 157081,
       "word": "南通队长哭了",
@@ -1723,12 +1851,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64228,
+      "num": 95007,
+      "word": "马思纯花少7收官文",
+      "onboard_time": 1762066879,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62693,
       "num": 72500,
       "word": "泰州队复刻阿根廷队夺冠世界杯动作",
       "onboard_time": 1762048760,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62689,
+      "num": 94995,
+      "word": "幼儿园园长被查曾说绝不触碰红线",
+      "onboard_time": 1762066941,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61459,
@@ -1761,6 +1905,14 @@
       "onboard_time": 1761995360,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58954,
+      "num": 94805,
+      "word": "那英喜欢 张晚意能给不能给的都给",
+      "onboard_time": 1762066701,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 57424,
@@ -1908,7 +2060,7 @@
     },
     {
       "raw_hot": 31280,
-      "num": 324141,
+      "num": 359567,
       "word": "APEC深圳之约期待值拉满",
       "onboard_time": 1762054100,
       "rank": 2,
@@ -2019,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14719,
+      "num": 99284,
+      "word": "宋亚轩 最萌的脸做最猛的动作",
+      "onboard_time": 1762068079,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14006,
       "num": 32671,
       "word": "遏制未成年人犯罪核准追诉不是终点",
@@ -2033,6 +2193,14 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10338,
+      "num": 99048,
+      "word": "Red即兴真是即兴",
+      "onboard_time": 1762068140,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 9249,
