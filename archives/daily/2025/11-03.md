@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/03 00:28:49 ~ 2025/11/03 04:39:06
+本榜单时间：2025/11/03 00:28:49 ~ 2025/11/03 05:21:57
 </p>
 </blockquote>
 <p>
@@ -369,8 +369,20 @@ ChatGP禁止提供专业医疗法律财务建议（热度：34832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BC%A0%E9%BC%A0%E6%88%91%E5%95%8A%E4%B8%8A%E5%A4%AA%E7%A9%BA%E4%BA%86%23" target="weibo">
+鼠鼠我啊上太空了（热度：13471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E4%BD%8F%E9%99%A2%E5%AD%A6%E7%94%9F%E5%85%A8%E9%83%A8%E5%BA%B7%E5%A4%8D%E8%BF%94%E6%A0%A1%23" target="weibo">
+身体不适住院学生全部康复返校（热度：11296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E6%96%B0%E6%AD%8CDayByDay%23" target="weibo">
-展轩新歌DayByDay（热度：10082）
+展轩新歌DayByDay（热度：11121）
 </a>
 </li>
 
