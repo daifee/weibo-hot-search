@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762068997400,
+  "endTime": 1762072183085,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -185,6 +185,14 @@
       "onboard_time": 1762006824,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 766457,
+      "num": 1122633,
+      "word": "T1对战TES",
+      "onboard_time": 1762066279,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 752671,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 449852,
-      "num": 129621,
+      "num": 143318,
       "word": "马思纯写给张晚意的信",
       "onboard_time": 1762065921,
       "rank": 30,
@@ -561,6 +569,14 @@
       "onboard_time": 1761982100,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439280,
+      "num": 144114,
+      "word": "男子因彩礼轻生父母索赔20万",
+      "onboard_time": 1762066581,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438765,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 324679,
-      "num": 129035,
+      "num": 140285,
       "word": "朱珠情商太高了",
       "onboard_time": 1762066519,
       "rank": 16,
@@ -739,28 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319633,
-      "num": 128282,
-      "word": "男子因彩礼轻生父母索赔20万",
-      "onboard_time": 1762066581,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319101,
       "num": 504231,
       "word": "为父母补缴社保用光了购房首付",
       "onboard_time": 1761908843,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314916,
-      "num": 314916,
-      "word": "T1对战TES",
-      "onboard_time": 1762066279,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 309547,
@@ -1019,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257958,
+      "num": 192703,
+      "word": "南航员工参加3000米考核后猝死",
+      "onboard_time": 1762066341,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -1251,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216247,
+      "num": 216247,
+      "word": "TES醒一醒",
+      "onboard_time": 1762070601,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214672,
       "num": 214672,
       "word": "多吃优质碳水能抗衰老",
@@ -1328,6 +1344,14 @@
       "word": "新闻女王2李施嬅饰演的张家妍",
       "onboard_time": 1762059141,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205721,
+      "num": 141535,
+      "word": "马天宇vs马天宇vs马天宇",
+      "onboard_time": 1762069520,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1475,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192703,
-      "num": 192703,
-      "word": "南航员工参加3000米考核后猝死",
-      "onboard_time": 1762066341,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192418,
       "num": 348162,
       "word": "第15届全运会火炬传递",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1761974240,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185510,
+      "num": 141186,
+      "word": "怪不得舞蹈生都喜欢穿长羽绒服",
+      "onboard_time": 1762068140,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 185363,
@@ -1860,7 +1884,7 @@
     },
     {
       "raw_hot": 164250,
-      "num": 120821,
+      "num": 133226,
       "word": "经常视奸自己的朋友圈",
       "onboard_time": 1762067300,
       "rank": 41,
@@ -2267,6 +2291,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145312,
+      "num": 145312,
+      "word": "LPL",
+      "onboard_time": 1762069760,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145131,
+      "num": 145131,
+      "word": "你未婚我卫韫",
+      "onboard_time": 1762070061,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144902,
       "num": 178866,
       "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1762000162,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140659,
+      "num": 140659,
+      "word": "张博恒解说T1对战TES",
+      "onboard_time": 1762065560,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 140440,
@@ -2603,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129251,
-      "num": 120644,
-      "word": "怪不得舞蹈生都喜欢穿长羽绒服",
-      "onboard_time": 1762068140,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128973,
       "num": 128973,
       "word": "邓家佳最近的衣橱我好爱",
@@ -2843,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122512,
+      "num": 122512,
+      "word": "Kanavi失误",
+      "onboard_time": 1762070840,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122408,
       "num": 122408,
       "word": "冬季睡衣应该多久洗一次",
@@ -3027,6 +3075,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 117646,
+      "num": 117646,
+      "word": "年锦道歉",
+      "onboard_time": 1762071200,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117629,
       "num": 117629,
       "word": "指甲宽别做白色美甲",
@@ -3156,7 +3212,7 @@
     },
     {
       "raw_hot": 112673,
-      "num": 122540,
+      "num": 143529,
       "word": "谁是零食届顶流",
       "onboard_time": 1762068800,
       "rank": 19,
@@ -3355,14 +3411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107751,
-      "num": 107751,
-      "word": "张博恒解说T1对战TES",
-      "onboard_time": 1762065560,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 107668,
       "num": 107668,
       "word": "华晨宇效应",
@@ -3433,6 +3481,14 @@
       "onboard_time": 1761965540,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106558,
+      "num": 145088,
+      "word": "罗云熙水龙吟布达拉宫热度双破万",
+      "onboard_time": 1762071800,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 106487,
@@ -3508,7 +3564,7 @@
     },
     {
       "raw_hot": 104061,
-      "num": 104061,
+      "num": 140311,
       "word": "央视再曝医美陷阱",
       "onboard_time": 1762065620,
       "rank": 33,
@@ -3529,6 +3585,14 @@
       "onboard_time": 1762012821,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103849,
+      "num": 103849,
+      "word": "只有戴过牙套的才懂她有多真实",
+      "onboard_time": 1762069041,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 103328,
@@ -3939,6 +4003,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93940,
+      "num": 93940,
+      "word": "内娱都按照张予曦这个标准卷起来",
+      "onboard_time": 1762071978,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93438,
+      "num": 101217,
+      "word": "上海交大招5000名博士",
+      "onboard_time": 1762071860,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -4003,6 +4083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91899,
+      "num": 91899,
+      "word": "坏了她是真读过研",
+      "onboard_time": 1762071860,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91892,
       "num": 91892,
       "word": "成毅打戏的快进键被人扣了",
@@ -4033,6 +4121,14 @@
       "onboard_time": 1761975500,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90963,
+      "num": 144756,
+      "word": "俄方回应委内瑞拉求援",
+      "onboard_time": 1762071140,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90947,
@@ -4187,12 +4283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88353,
+      "num": 142989,
+      "word": "药中茅台片仔癀跌破官方指导价",
+      "onboard_time": 1762070961,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88309,
       "num": 88309,
       "word": "灰熊vs湖人",
       "onboard_time": 1761962419,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88278,
+      "num": 140384,
+      "word": "竹林七贤荣启期跨700年砖墙同框",
+      "onboard_time": 1762064360,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87951,
@@ -4257,6 +4369,14 @@
       "onboard_time": 1762047740,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "网友偶遇孙颖莎开心合影",
+      "onboard_time": 1762068740,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86785,
@@ -4419,14 +4539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83909,
-      "num": 83909,
-      "word": "网友偶遇孙颖莎开心合影",
-      "onboard_time": 1762068740,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83708,
       "num": 127701,
       "word": "陈星旭录地球超新鲜前私信王玉雯求带",
@@ -4539,6 +4651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81719,
+      "num": 81719,
+      "word": "跟周深上班久了会被同化",
+      "onboard_time": 1762072160,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81681,
       "num": 86916,
       "word": "APEC领导人集体合影",
@@ -4577,6 +4697,14 @@
       "onboard_time": 1762059620,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79291,
+      "num": 142528,
+      "word": "T1对战TES先下一城",
+      "onboard_time": 1762071081,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 79139,
@@ -5291,6 +5419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57631,
+      "num": 80517,
+      "word": "陕西3只退役警犬征集领养人",
+      "onboard_time": 1762071081,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57608,
       "num": 84930,
       "word": "iPhoneAir激活量曝光",
@@ -5553,6 +5689,14 @@
       "onboard_time": 1761979039,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42056,
+      "num": 80407,
+      "word": "李越宏说全世界最好的射手都在中国",
+      "onboard_time": 1762071200,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41167,
