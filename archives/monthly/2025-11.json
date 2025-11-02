@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762087549432,
+  "endTime": 1762088443047,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -11,7 +11,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2698614,
+      "raw_hot": 3905506,
       "num": 193044,
       "word": "翁青雅道歉",
       "onboard_time": 1762086801,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1291333,
+      "num": 430632,
+      "word": "短剧演员红毯上接吻",
+      "onboard_time": 1762084462,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1283543,
       "num": 270616,
       "word": "冯淬帆去世",
       "onboard_time": 1761959719,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1277136,
-      "num": 313035,
-      "word": "短剧演员红毯上接吻",
-      "onboard_time": 1762084462,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1257159,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 651836,
+      "num": 191078,
+      "word": "儿子无法接受妈妈被打致残曾想自杀",
+      "onboard_time": 1762083681,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 639975,
       "num": 217017,
       "word": "出差遭性侵检方不起诉女子发声",
@@ -385,6 +393,14 @@
       "onboard_time": 1761996259,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 615878,
+      "num": 179628,
+      "word": "全红婵复出第一跳",
+      "onboard_time": 1762086922,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 609560,
@@ -499,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 520352,
-      "num": 191078,
-      "word": "儿子无法接受妈妈被打致残曾想自杀",
-      "onboard_time": 1762083681,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 515010,
       "num": 252759,
       "word": "张柏芝拒绝儿子母亲节礼物",
@@ -609,6 +617,22 @@
       "onboard_time": 1761965179,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470410,
+      "num": 1075265,
+      "word": "全红婵首秀第1跳全场最高分",
+      "onboard_time": 1762088242,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463736,
+      "num": 463736,
+      "word": "全红婵陈芋汐携手新搭档出战",
+      "onboard_time": 1762079360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 453970,
@@ -779,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377255,
-      "num": 377255,
-      "word": "全红婵陈芋汐携手新搭档出战",
-      "onboard_time": 1762079360,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 373163,
       "num": 194502,
       "word": "周洁琼报了关晓彤的仇",
@@ -907,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310623,
+      "num": 310623,
+      "word": "TES不敌T1后发文",
+      "onboard_time": 1762083561,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 309547,
       "num": 309547,
       "word": "南通唯一输的一场是决赛",
@@ -969,14 +993,6 @@
       "onboard_time": 1761968660,
       "rank": 30,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 306399,
-      "num": 306399,
-      "word": "TES不敌T1后发文",
-      "onboard_time": 1762083561,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 303923,
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269452,
+      "num": 167445,
+      "word": "建议气血不足的人不要留太长的头发",
+      "onboard_time": 1762085601,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 267147,
       "num": 243593,
       "word": "怪不得刘嘉玲王菲那英是好朋友",
@@ -1243,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253129,
+      "num": 253129,
+      "word": "杨紫生命树收官文被网友做成歌了",
+      "onboard_time": 1762086441,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251735,
       "num": 504212,
       "word": "4岁男童药店打针呕吐抽搐后死亡",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1762082311,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251341,
-      "num": 167445,
-      "word": "建议气血不足的人不要留太长的头发",
-      "onboard_time": 1762085601,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251238,
@@ -1803,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193869,
-      "num": 193869,
-      "word": "杨紫生命树收官文被网友做成歌了",
-      "onboard_time": 1762086441,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193096,
       "num": 199753,
       "word": "青铜器有自己的配方说明书",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1762011501,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179563,
+      "num": 137002,
+      "word": "韩总统向中方额外赠送200盒皇南饼",
+      "onboard_time": 1762083561,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178879,
@@ -2283,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "张纪中被孩子问爸爸你什么时候死",
+      "onboard_time": 1762085241,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163004,
       "num": 163004,
       "word": "Ning为Tarzan鸣不平",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1762038257,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160729,
-      "num": 160729,
-      "word": "张纪中被孩子问爸爸你什么时候死",
-      "onboard_time": 1762085241,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 160223,
@@ -2456,6 +2480,14 @@
       "word": "BDD冲击首冠",
       "onboard_time": 1761990921,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 154294,
+      "num": 154294,
+      "word": "Faker说今天状态不太好",
+      "onboard_time": 1762084581,
+      "rank": 28,
       "category": "电竞"
     },
     {
@@ -2731,14 +2763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145354,
-      "num": 137002,
-      "word": "韩总统向中方额外赠送200盒皇南饼",
-      "onboard_time": 1762083561,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144902,
       "num": 178866,
       "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1761996322,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139856,
-      "num": 139856,
-      "word": "Faker说今天状态不太好",
-      "onboard_time": 1762084581,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 139659,
@@ -3195,6 +3211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127351,
+      "num": 123531,
+      "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
+      "onboard_time": 1762087101,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127287,
       "num": 127287,
       "word": "仙逆",
@@ -3268,7 +3292,7 @@
     },
     {
       "raw_hot": 125615,
-      "num": 119850,
+      "num": 121925,
       "word": "学校通报女生买淀粉肠被拿走钥匙",
       "onboard_time": 1762082542,
       "rank": 36,
@@ -3337,6 +3361,14 @@
       "onboard_time": 1762067361,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124210,
+      "num": 124210,
+      "word": "周洁琼 哭戏",
+      "onboard_time": 1762087882,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124167,
@@ -4091,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107148,
+      "num": 107148,
+      "word": "易烊千玺演的沈星",
+      "onboard_time": 1762088122,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106849,
       "num": 106849,
       "word": "李一桐动漫版清瞳",
@@ -4137,14 +4177,6 @@
       "onboard_time": 1762061659,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105088,
-      "num": 105088,
-      "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
-      "onboard_time": 1762087101,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 104875,
@@ -4243,14 +4275,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 103479,
-      "num": 179628,
-      "word": "全红婵复出第一跳",
-      "onboard_time": 1762086922,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103445,
       "num": 147329,
       "word": "竹林七贤荣启期跨700年砖墙同框",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1762065200,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102308,
+      "num": 102308,
+      "word": "王楚然一直想认识的邻家女孩",
+      "onboard_time": 1762087761,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 102069,
@@ -4529,6 +4561,14 @@
       "onboard_time": 1762002380,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98427,
+      "num": 98427,
+      "word": "愿孙颖莎归途往前都是快乐",
+      "onboard_time": 1762088062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98302,
@@ -4827,6 +4867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92874,
+      "num": 92874,
+      "word": "4K高清视角看神21发射",
+      "onboard_time": 1762087641,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92631,
       "num": 92631,
       "word": "羽绒服基础搭配就不基础",
@@ -4913,6 +4961,14 @@
       "onboard_time": 1761975500,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91525,
+      "num": 91525,
+      "word": "这下知道SUV与轿车的区别了吧",
+      "onboard_time": 1762087882,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 91250,
@@ -5129,6 +5185,14 @@
       "onboard_time": 1761970520,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87198,
+      "num": 87198,
+      "word": "原来小猫咪也会吐口水",
+      "onboard_time": 1762088362,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 87153,

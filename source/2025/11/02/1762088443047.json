@@ -1,0 +1,410 @@
+{
+  "runTime": 1762088443047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470410,
+        "num": 1075265,
+        "word": "全红婵首秀第1跳全场最高分",
+        "onboard_time": 1762088242,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463736,
+        "num": 463736,
+        "word": "全红婵陈芋汐携手新搭档出战",
+        "onboard_time": 1762079360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7498,
+        "num": 434335,
+        "word": "全运会观赛日历",
+        "onboard_time": 1762046360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1291333,
+        "num": 430632,
+        "word": "短剧演员红毯上接吻",
+        "onboard_time": 1762084462,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423777,
+        "num": 423777,
+        "word": "向往的生活一家六口世纪同框",
+        "onboard_time": 1762080680,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310623,
+        "num": 310623,
+        "word": "TES不敌T1后发文",
+        "onboard_time": 1762083561,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253129,
+        "num": 253129,
+        "word": "杨紫生命树收官文被网友做成歌了",
+        "onboard_time": 1762086441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189189,
+        "num": 189189,
+        "word": "糖尿病不是吃糖吃出来的",
+        "onboard_time": 1762073721,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186215,
+        "num": 186215,
+        "word": "卢浮宫失窃珠宝现身",
+        "onboard_time": 1762073242,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185175,
+        "num": 185175,
+        "word": "台官员宴请美官员结果无一人到场",
+        "onboard_time": 1762083921,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3905506,
+        "num": 184722,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651836,
+        "num": 182469,
+        "word": "儿子无法接受妈妈被打致残曾想自杀",
+        "onboard_time": 1762083681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615878,
+        "num": 177933,
+        "word": "全红婵复出第一跳",
+        "onboard_time": 1762086922,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564242,
+        "num": 175891,
+        "word": "被男友割喉护士曾多次被勒脖子",
+        "onboard_time": 1762083621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425922,
+        "num": 173931,
+        "word": "杨紫郭宇欣同框",
+        "onboard_time": 1762084761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328083,
+        "num": 170726,
+        "word": "马龙妻子夏露分享舞蹈视频",
+        "onboard_time": 1762082311,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300644,
+        "num": 169768,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203617,
+        "num": 166047,
+        "word": "12岁女孩做外贸15个月卖了10万",
+        "onboard_time": 1762075760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188211,
+        "num": 164061,
+        "word": "辛芷蕾被评为威尼斯近十年最佳影后",
+        "onboard_time": 1762080080,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163128,
+        "num": 163128,
+        "word": "张纪中被孩子问爸爸你什么时候死",
+        "onboard_time": 1762085241,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294958,
+        "num": 163119,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269452,
+        "num": 163066,
+        "word": "建议气血不足的人不要留太长的头发",
+        "onboard_time": 1762085601,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162726,
+        "num": 162726,
+        "word": "赵丽颖李沁或演简单的人生",
+        "onboard_time": 1762082721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157406,
+        "num": 157406,
+        "word": "T1战胜TES",
+        "onboard_time": 1762076362,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154294,
+        "num": 154294,
+        "word": "Faker说今天状态不太好",
+        "onboard_time": 1762084581,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150034,
+        "num": 150034,
+        "word": "湖南警方通报发现疑似贩卖婴儿",
+        "onboard_time": 1762065080,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142768,
+        "num": 142768,
+        "word": "彭小苒换发型了",
+        "onboard_time": 1762085541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135572,
+        "num": 135572,
+        "word": "短短10集8死7伤哭8次",
+        "onboard_time": 1762083201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131613,
+        "num": 131613,
+        "word": "全红婵携新搭档王伟莹出战10米跳台",
+        "onboard_time": 1762083501,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124210,
+        "num": 124210,
+        "word": "周洁琼 哭戏",
+        "onboard_time": 1762087882,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179563,
+        "num": 123828,
+        "word": "韩总统向中方额外赠送200盒皇南饼",
+        "onboard_time": 1762083561,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127351,
+        "num": 123531,
+        "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
+        "onboard_time": 1762087101,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121925,
+        "num": 121925,
+        "word": "学校通报女生买淀粉肠被拿走钥匙",
+        "onboard_time": 1762082542,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121651,
+        "num": 121651,
+        "word": "迪丽热巴用腿刹车",
+        "onboard_time": 1762082311,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121616,
+        "num": 121616,
+        "word": "熬夜其实是在熬甲状腺的寿命",
+        "onboard_time": 1762086742,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107148,
+        "num": 107148,
+        "word": "易烊千玺演的沈星",
+        "onboard_time": 1762088122,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102912,
+        "num": 102912,
+        "word": "背的是嫂子吗背的是德",
+        "onboard_time": 1762086143,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102308,
+        "num": 102308,
+        "word": "王楚然一直想认识的邻家女孩",
+        "onboard_time": 1762087761,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101490,
+        "num": 101490,
+        "word": "广州地铁跳转广告",
+        "onboard_time": 1762080021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98427,
+        "num": 98427,
+        "word": "愿孙颖莎归途往前都是快乐",
+        "onboard_time": 1762088062,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97896,
+        "num": 97896,
+        "word": "T1胜后全员大合照",
+        "onboard_time": 1762085481,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96220,
+        "num": 96220,
+        "word": "如鸢 诸葛亮",
+        "onboard_time": 1762082721,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95845,
+        "num": 95845,
+        "word": "黄金征税部分商家火速下架金条",
+        "onboard_time": 1762084100,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 95553,
+        "num": 95553,
+        "word": "原来穿秋裤和不穿秋裤的是同一批人",
+        "onboard_time": 1762086681,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92874,
+        "num": 92874,
+        "word": "4K高清视角看神21发射",
+        "onboard_time": 1762087641,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92433,
+        "num": 92433,
+        "word": "上班的8个好处",
+        "onboard_time": 1762086382,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 91525,
+        "num": 91525,
+        "word": "这下知道SUV与轿车的区别了吧",
+        "onboard_time": 1762087882,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88598,
+        "num": 88598,
+        "word": "T1对战TES",
+        "onboard_time": 1762066279,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87198,
+        "num": 87198,
+        "word": "原来小猫咪也会吐口水",
+        "onboard_time": 1762088362,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83341,
+        "num": 86870,
+        "word": "全红婵王伟莹赛前热身",
+        "onboard_time": 1762087222,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的韩国APEC时间#"
+    }
+  }
+}
