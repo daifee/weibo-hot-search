@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762097029231,
+  "endTime": 1762097876625,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 771778,
+      "num": 771778,
+      "word": "翁青雅说闯祸了可以看看我",
+      "onboard_time": 1762093643,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752071,
       "num": 272431,
       "word": "周深紧急叫停",
@@ -184,14 +192,6 @@
       "word": "温峥嵘同时间出现在3个直播间",
       "onboard_time": 1762062142,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 664724,
-      "num": 664724,
-      "word": "翁青雅说闯祸了可以看看我",
-      "onboard_time": 1762093643,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494340,
+      "num": 189927,
+      "word": "台湾人面临的三种选择",
+      "onboard_time": 1762093043,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 493772,
       "num": 213285,
       "word": "黄子韬徐艺洋戴了无牙仔情侣头套",
@@ -379,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434127,
-      "num": 189927,
-      "word": "台湾人面临的三种选择",
-      "onboard_time": 1762093043,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 428412,
       "num": 190936,
       "word": "马龙妻子夏露分享舞蹈视频",
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425871,
+      "num": 187742,
+      "word": "张艺兴 小家为主",
+      "onboard_time": 1762095923,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423880,
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351079,
+      "num": 351079,
+      "word": "全红婵发文说我真棒",
+      "onboard_time": 1762093763,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337147,
       "num": 358929,
       "word": "苏超泰州队冠军",
@@ -537,14 +553,6 @@
       "onboard_time": 1762001481,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316627,
-      "num": 187742,
-      "word": "张艺兴 小家为主",
-      "onboard_time": 1762095923,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313857,
@@ -705,14 +713,6 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262795,
-      "num": 262795,
-      "word": "全红婵发文说我真棒",
-      "onboard_time": 1762093763,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 262298,
@@ -1115,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187626,
+      "num": 170892,
+      "word": "上官正义回应举报贩婴反被警方扣留",
+      "onboard_time": 1762093163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187367,
       "num": 187367,
       "word": "LPL",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1762052720,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186742,
+      "num": 194355,
+      "word": "小胖哭了",
+      "onboard_time": 1762095563,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 186586,
@@ -1259,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170892,
-      "num": 170892,
-      "word": "上官正义回应举报贩婴反被警方扣留",
-      "onboard_time": 1762093163,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1762093043,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158424,
-      "num": 194355,
-      "word": "小胖哭了",
-      "onboard_time": 1762095563,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 157995,
@@ -1555,6 +1555,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 142089,
+      "num": 142089,
+      "word": "热依扎把星河穿在了身上",
+      "onboard_time": 1762096822,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140309,
       "num": 166867,
       "word": "这部剧不能和家长一起看",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1762060100,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139508,
+      "num": 130920,
+      "word": "长期侧睡发现肩膀前移了",
+      "onboard_time": 1762095682,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137227,
@@ -2139,12 +2155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109434,
+      "num": 131933,
+      "word": "我给永夜星河一周年做的片头",
+      "onboard_time": 1762097542,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108784,
       "num": 131885,
       "word": "天地剑心",
       "onboard_time": 1762079481,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108695,
+      "num": 108695,
+      "word": "狼队 归期",
+      "onboard_time": 1762096343,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 108545,
@@ -2161,6 +2193,14 @@
       "onboard_time": 1762049119,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108498,
+      "num": 108498,
+      "word": "该怎么给外国人解释这一幕",
+      "onboard_time": 1762097482,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 108416,
@@ -2201,6 +2241,14 @@
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "只给敖瑞鹏打滤镜不管沙溢死活",
+      "onboard_time": 1762096580,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 107229,
@@ -2411,12 +2459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101513,
-      "num": 101513,
-      "word": "狼队 归期",
-      "onboard_time": 1762096343,
-      "rank": 40,
-      "category": "电竞"
+      "raw_hot": 101276,
+      "num": 101276,
+      "word": "全红婵和新搭档双人10米跳台夺冠",
+      "onboard_time": 1762097360,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 101163,
@@ -2433,6 +2481,14 @@
       "onboard_time": 1762086081,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100614,
+      "num": 106131,
+      "word": "邓紫棋武汉演唱会",
+      "onboard_time": 1762096942,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 100600,
@@ -2571,14 +2627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96128,
-      "num": 96128,
-      "word": "只给敖瑞鹏打滤镜不管沙溢死活",
-      "onboard_time": 1762096580,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95936,
       "num": 95936,
       "word": "张晚意 底色顶顶好的人",
@@ -2707,14 +2755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92375,
-      "num": 91929,
-      "word": "长期侧睡发现肩膀前移了",
-      "onboard_time": 1762095682,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 92321,
       "num": 92321,
       "word": "大一新生也开始卷实习了",
@@ -2835,14 +2875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89156,
-      "num": 89156,
-      "word": "邓紫棋武汉演唱会",
-      "onboard_time": 1762096942,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88586,
       "num": 100040,
       "word": "芒果给水龙吟剪了26分钟超长预告",
@@ -2937,14 +2969,6 @@
       "onboard_time": 1762078761,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86628,
-      "num": 86628,
-      "word": "热依扎把星河穿在了身上",
-      "onboard_time": 1762096822,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 86525,
@@ -3257,6 +3281,14 @@
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74246,
+      "num": 94339,
+      "word": "全红婵回应全运会夺金",
+      "onboard_time": 1762094602,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74070,
