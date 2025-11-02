@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762075416052,
+  "endTime": 1762076221458,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -41,6 +41,14 @@
       "onboard_time": 1761983360,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1793569,
+      "num": 1793569,
+      "word": "T1对战TES",
+      "onboard_time": 1762066279,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 1374766,
@@ -99,16 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1116860,
-      "num": 1178697,
-      "word": "T1对战TES",
-      "onboard_time": 1762066279,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1083814,
-      "num": 153064,
+      "num": 153883,
       "word": "朱珠给翁青雅关门",
       "onboard_time": 1762061961,
       "rank": 15,
@@ -244,11 +244,19 @@
     },
     {
       "raw_hot": 692247,
-      "num": 167329,
+      "num": 181628,
       "word": "章泽天 烫头需谨慎",
       "onboard_time": 1762062620,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 690746,
+      "num": 690746,
+      "word": "TES醒一醒",
+      "onboard_time": 1762070601,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 690145,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618572,
+      "num": 618572,
+      "word": "TES 陀螺",
+      "onboard_time": 1762074919,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 609560,
       "num": 1097529,
       "word": "黄金有关税收政策公告来了",
@@ -344,6 +360,14 @@
       "word": "白宫马桶照片",
       "onboard_time": 1761983480,
       "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 575819,
+      "num": 331228,
+      "word": "卢浮宫失窃珠宝现身",
+      "onboard_time": 1762073242,
+      "rank": 5,
       "category": "海外新闻"
     },
     {
@@ -377,14 +401,6 @@
       "onboard_time": 1761961280,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 558086,
-      "num": 558086,
-      "word": "TES醒一醒",
-      "onboard_time": 1762070601,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 556033,
@@ -497,14 +513,6 @@
       "onboard_time": 1762001481,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 491454,
-      "num": 262780,
-      "word": "卢浮宫失窃珠宝现身",
-      "onboard_time": 1762073242,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 489266,
@@ -889,6 +897,14 @@
       "onboard_time": 1761971239,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287504,
+      "num": 200431,
+      "word": "坏了她是真读过研",
+      "onboard_time": 1762071860,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 285304,
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213786,
+      "num": 197597,
+      "word": "张博恒解说T1对战TES",
+      "onboard_time": 1762065560,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213334,
       "num": 165757,
       "word": "马天宇vs马天宇vs马天宇",
@@ -1475,12 +1499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200431,
-      "num": 200431,
-      "word": "坏了她是真读过研",
-      "onboard_time": 1762071860,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 200789,
+      "num": 197520,
+      "word": "Kanavi失误",
+      "onboard_time": 1762070840,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 198669,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 193096,
-      "num": 193096,
+      "num": 199753,
       "word": "青铜器有自己的配方说明书",
       "onboard_time": 1762073482,
       "rank": 17,
@@ -1635,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187082,
-      "num": 187082,
-      "word": "TES 陀螺",
-      "onboard_time": 1762074919,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186987,
       "num": 174008,
       "word": "樊振东微博粉丝破千万",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1761972499,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183206,
+      "num": 183206,
+      "word": "听见你说",
+      "onboard_time": 1762075160,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 181552,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1761960741,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178186,
+      "num": 178186,
+      "word": "注销后的微信是什么样子",
+      "onboard_time": 1762073960,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 178025,
@@ -2027,20 +2059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159165,
-      "num": 159165,
-      "word": "听见你说",
-      "onboard_time": 1762075160,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 158971,
-      "num": 143810,
-      "word": "注销后的微信是什么样子",
-      "onboard_time": 1762073960,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 158988,
+      "num": 158988,
+      "word": "12岁女孩做外贸3个月卖了10万",
+      "onboard_time": 1762075760,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158589,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1761982639,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155164,
+      "num": 155164,
+      "word": "LPL",
+      "onboard_time": 1762069760,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 154924,
@@ -2307,14 +2339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147506,
-      "num": 147506,
-      "word": "张博恒解说T1对战TES",
-      "onboard_time": 1762065560,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "银灰",
@@ -2395,20 +2419,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145312,
-      "num": 145312,
-      "word": "LPL",
-      "onboard_time": 1762069760,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144902,
       "num": 178866,
       "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
       "onboard_time": 1761987980,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "TES落入绝境",
+      "onboard_time": 1762074800,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 143689,
@@ -2627,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134884,
+      "num": 134884,
+      "word": "女主一舔嘴唇都得被自己毒死吧",
+      "onboard_time": 1762075099,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134631,
       "num": 131720,
       "word": "陈小春儿子全英发言",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1762004663,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133538,
+      "num": 133538,
+      "word": "JackeyLove击杀Faker",
+      "onboard_time": 1762076002,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 133474,
@@ -2753,6 +2793,14 @@
       "onboard_time": 1762007843,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129116,
+      "num": 129116,
+      "word": "Faker独自回休息室",
+      "onboard_time": 1762074800,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 128973,
@@ -2899,14 +2947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124295,
-      "num": 124295,
-      "word": "Faker独自回休息室",
-      "onboard_time": 1762074800,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124167,
       "num": 124167,
       "word": "眉压眼和眉包眼的区别",
@@ -2985,14 +3025,6 @@
       "onboard_time": 1762010244,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122512,
-      "num": 122512,
-      "word": "Kanavi失误",
-      "onboard_time": 1762070840,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 122408,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1762001302,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116545,
-      "num": 116545,
-      "word": "女主一舔嘴唇都得被自己毒死吧",
-      "onboard_time": 1762075099,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 116391,
@@ -3600,14 +3624,6 @@
       "word": "Flandre希望TES赢下T1",
       "onboard_time": 1761965540,
       "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 106583,
-      "num": 106583,
-      "word": "TES落入绝境",
-      "onboard_time": 1762074800,
-      "rank": 40,
       "category": "电竞"
     },
     {
@@ -4195,6 +4211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93289,
+      "num": 139291,
+      "word": "马思纯花少蹦极犹豫了0秒",
+      "onboard_time": 1762075581,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93278,
       "num": 150446,
       "word": "驻外分公司总经理被威逼利诱5小时",
@@ -4217,6 +4241,14 @@
       "onboard_time": 1762004423,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92960,
+      "num": 92960,
+      "word": "Uzi谈TESvsT1",
+      "onboard_time": 1762070719,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 92631,
@@ -4420,7 +4452,7 @@
     },
     {
       "raw_hot": 88586,
-      "num": 88586,
+      "num": 100040,
       "word": "芒果给水龙吟剪了26分钟超长预告",
       "onboard_time": 1762075400,
       "rank": 46,
@@ -4481,14 +4513,6 @@
       "onboard_time": 1762056079,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87406,
-      "num": 87406,
-      "word": "Uzi谈TESvsT1",
-      "onboard_time": 1762070719,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 87276,
@@ -4827,6 +4851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81548,
+      "num": 81548,
+      "word": "管泽元说滔博打的像训练赛",
+      "onboard_time": 1762073181,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81165,
       "num": 81165,
       "word": "杨瀚森与偶像约基奇同框了",
@@ -4849,6 +4881,14 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80302,
+      "num": 80302,
+      "word": "流感真的要提前来了",
+      "onboard_time": 1762073960,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80060,
@@ -4969,6 +5009,14 @@
       "onboard_time": 1761954800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77148,
+      "num": 80848,
+      "word": "泰州夺冠大礼包",
+      "onboard_time": 1762074980,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 76953,
@@ -6291,6 +6339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15659,
+      "num": 101045,
+      "word": "再探长沙墙体垮塌2人遇难现场",
+      "onboard_time": 1762076002,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15551,
       "num": 107572,
       "word": "Red即兴真是即兴",
@@ -6347,6 +6403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 10240,
+      "num": 648385,
+      "word": "全运会观赛日历",
+      "onboard_time": 1762046360,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9249,
       "num": 154665,
       "word": "一段视频跟航天员出征",
@@ -6361,14 +6425,6 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6669,
-      "num": 417959,
-      "word": "全运会观赛日历",
-      "onboard_time": 1762046360,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

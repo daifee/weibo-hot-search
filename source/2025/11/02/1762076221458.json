@@ -1,0 +1,410 @@
+{
+  "runTime": 1762076221458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793569,
+        "num": 1793569,
+        "word": "T1对战TES",
+        "onboard_time": 1762066279,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 690746,
+        "num": 690746,
+        "word": "TES醒一醒",
+        "onboard_time": 1762070601,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10240,
+        "num": 648385,
+        "word": "全运会观赛日历",
+        "onboard_time": 1762046360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618572,
+        "num": 618572,
+        "word": "TES 陀螺",
+        "onboard_time": 1762074919,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338490,
+        "num": 338490,
+        "word": "女子忍痛踩趾压板脚喷血",
+        "onboard_time": 1762058540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575819,
+        "num": 331228,
+        "word": "卢浮宫失窃珠宝现身",
+        "onboard_time": 1762073242,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323129,
+        "num": 323129,
+        "word": "湖南警方通报发现疑似贩卖婴儿",
+        "onboard_time": 1762065080,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 200387,
+        "num": 200387,
+        "word": "你未婚我卫韫",
+        "onboard_time": 1762070061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170536,
+        "num": 200123,
+        "word": "药中茅台片仔癀跌破官方指导价",
+        "onboard_time": 1762070961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169900,
+        "num": 199753,
+        "word": "青铜器有自己的配方说明书",
+        "onboard_time": 1762073482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541668,
+        "num": 199600,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293534,
+        "num": 199329,
+        "word": "吴昕微信好友竟然这么少",
+        "onboard_time": 1762057520,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287504,
+        "num": 198681,
+        "word": "坏了她是真读过研",
+        "onboard_time": 1762071860,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265204,
+        "num": 198539,
+        "word": "男子因彩礼轻生父母索赔20万",
+        "onboard_time": 1762066581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223725,
+        "num": 198127,
+        "word": "Rita评论席举起LPL战旗",
+        "onboard_time": 1762072460,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213786,
+        "num": 197597,
+        "word": "张博恒解说T1对战TES",
+        "onboard_time": 1762065560,
+        "rank": 15,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 200789,
+        "num": 197520,
+        "word": "Kanavi失误",
+        "onboard_time": 1762070840,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197215,
+        "num": 197215,
+        "word": "温峥嵘同时间出现在3个直播间",
+        "onboard_time": 1762062142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186639,
+        "num": 186639,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183206,
+        "num": 183206,
+        "word": "听见你说",
+        "onboard_time": 1762075160,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410903,
+        "num": 181628,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178186,
+        "num": 178186,
+        "word": "注销后的微信是什么样子",
+        "onboard_time": 1762073960,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163465,
+        "num": 163465,
+        "word": "疑似贩卖婴儿4人被抓",
+        "onboard_time": 1762064421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158988,
+        "num": 158988,
+        "word": "12岁女孩做外贸3个月卖了10万",
+        "onboard_time": 1762075760,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "LPL",
+        "onboard_time": 1762069760,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153883,
+        "num": 153883,
+        "word": "朱珠给翁青雅关门",
+        "onboard_time": 1762061961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145666,
+        "num": 145666,
+        "word": "马天宇vs马天宇vs马天宇",
+        "onboard_time": 1762069520,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144450,
+        "num": 144450,
+        "word": "TES落入绝境",
+        "onboard_time": 1762074800,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 140144,
+        "word": "上海交大招5000名博士",
+        "onboard_time": 1762071860,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 93289,
+        "num": 139291,
+        "word": "马思纯花少蹦极犹豫了0秒",
+        "onboard_time": 1762075581,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138811,
+        "num": 138811,
+        "word": "网友发帖寻找的3名小孩已去世",
+        "onboard_time": 1762064479,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134884,
+        "num": 134884,
+        "word": "女主一舔嘴唇都得被自己毒死吧",
+        "onboard_time": 1762075099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133538,
+        "num": 133538,
+        "word": "JackeyLove击杀Faker",
+        "onboard_time": 1762076002,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87005,
+        "num": 131166,
+        "word": "看爱情公寓最怕的剧情",
+        "onboard_time": 1762063399,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129116,
+        "num": 129116,
+        "word": "Faker独自回休息室",
+        "onboard_time": 1762074800,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122998,
+        "num": 122998,
+        "word": "糖尿病不是吃糖吃出来的",
+        "onboard_time": 1762073721,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117085,
+        "num": 117085,
+        "word": "马思纯写给张晚意的信",
+        "onboard_time": 1762065921,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102575,
+        "num": 102575,
+        "word": "竹林七贤荣启期跨700年砖墙同框",
+        "onboard_time": 1762064360,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102185,
+        "num": 102185,
+        "word": "鞠婧祎出道十二周年发博",
+        "onboard_time": 1762074021,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15659,
+        "num": 101045,
+        "word": "再探长沙墙体垮塌2人遇难现场",
+        "onboard_time": 1762076002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73115,
+        "num": 100040,
+        "word": "芒果给水龙吟剪了26分钟超长预告",
+        "onboard_time": 1762075400,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99953,
+        "num": 99953,
+        "word": "坠河去世姐弟俩母亲痛哭发声",
+        "onboard_time": 1762068681,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98849,
+        "num": 98849,
+        "word": "女子为儿子订婚花7千买酒全是假货",
+        "onboard_time": 1762073301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98663,
+        "num": 98663,
+        "word": "杨紫连续三年说准MLB冠军",
+        "onboard_time": 1762067000,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 97943,
+        "num": 97943,
+        "word": "肖战怎么越来越嫩了",
+        "onboard_time": 1762068020,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93923,
+        "num": 93923,
+        "word": "印度留学生超市偷窃向警察哭诉",
+        "onboard_time": 1762073242,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92960,
+        "num": 92960,
+        "word": "Uzi谈TESvsT1",
+        "onboard_time": 1762070719,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81548,
+        "num": 81548,
+        "word": "管泽元说滔博打的像训练赛",
+        "onboard_time": 1762073181,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77148,
+        "num": 80848,
+        "word": "泰州夺冠大礼包",
+        "onboard_time": 1762074980,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80302,
+        "num": 80302,
+        "word": "流感真的要提前来了",
+        "onboard_time": 1762073960,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的韩国APEC时间#"
+    }
+  }
+}
