@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762076221458,
+  "endTime": 1762079104317,
   "band_list": [
     {
       "raw_hot": 1793569,
@@ -11,8 +11,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1686829,
+      "num": 1686829,
+      "word": "T1战胜TES",
+      "onboard_time": 1762076362,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1257159,
-      "num": 228711,
+      "num": 260048,
       "word": "吴昕微信好友竟然这么少",
       "onboard_time": 1762057520,
       "rank": 16,
@@ -20,15 +28,23 @@
     },
     {
       "raw_hot": 1200448,
-      "num": 232631,
+      "num": 261651,
       "word": "朱珠工伤",
       "onboard_time": 1762059800,
       "rank": 11,
       "category": "艺人"
     },
     {
+      "raw_hot": 1087235,
+      "num": 1087235,
+      "word": "TES 陀螺",
+      "onboard_time": 1762074919,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1083814,
-      "num": 153883,
+      "num": 170562,
       "word": "朱珠给翁青雅关门",
       "onboard_time": 1762061961,
       "rank": 15,
@@ -107,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682869,
+      "num": 264544,
+      "word": "12岁女孩做外贸3个月卖了10万",
+      "onboard_time": 1762075760,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660949,
       "num": 660949,
       "word": "12306部分车票带宠字",
       "onboard_time": 1762046539,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 618572,
-      "num": 618572,
-      "word": "TES 陀螺",
-      "onboard_time": 1762074919,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 575819,
@@ -209,6 +225,14 @@
       "onboard_time": 1762063280,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484922,
+      "num": 121000,
+      "word": "米勒 完全披萨",
+      "onboard_time": 1762077801,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 484876,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 287504,
-      "num": 200431,
+      "num": 259055,
       "word": "坏了她是真读过研",
       "onboard_time": 1762071860,
       "rank": 43,
@@ -393,6 +417,14 @@
       "onboard_time": 1762065799,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 271354,
+      "num": 271354,
+      "word": "糖尿病不是吃糖吃出来的",
+      "onboard_time": 1762073721,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 267538,
@@ -435,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258593,
+      "num": 258593,
+      "word": "Kanavi失误",
+      "onboard_time": 1762070840,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258392,
       "num": 258392,
       "word": "万斯一句话让印度裔美国人炸锅",
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 257268,
-      "num": 257268,
+      "num": 268759,
       "word": "你未婚我卫韫",
       "onboard_time": 1762070061,
       "rank": 7,
@@ -483,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241670,
+      "num": 241670,
+      "word": "JackeyLove击杀Faker",
+      "onboard_time": 1762076002,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237070,
       "num": 143823,
       "word": "赵樱子曝孟子义上综艺和她有关系",
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 234746,
-      "num": 234746,
+      "num": 267546,
       "word": "药中茅台片仔癀跌破官方指导价",
       "onboard_time": 1762070961,
       "rank": 17,
@@ -547,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211377,
+      "num": 211377,
+      "word": "再见TES",
+      "onboard_time": 1762077801,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206424,
       "num": 206424,
       "word": "新闻女王2李施嬅饰演的张家妍",
@@ -577,14 +633,6 @@
       "onboard_time": 1762046300,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200789,
-      "num": 197520,
-      "word": "Kanavi失误",
-      "onboard_time": 1762070840,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 199679,
@@ -651,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187367,
+      "num": 187367,
+      "word": "LPL",
+      "onboard_time": 1762069760,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186987,
       "num": 174008,
       "word": "樊振东微博粉丝破千万",
@@ -680,6 +736,14 @@
       "word": "Gumayusi说3比0战胜TES",
       "onboard_time": 1762057340,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 181005,
+      "num": 181005,
+      "word": "AL的含金量还在上升",
+      "onboard_time": 1762078460,
+      "rank": 18,
       "category": "电竞"
     },
     {
@@ -803,14 +867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158988,
-      "num": 158988,
-      "word": "12岁女孩做外贸3个月卖了10万",
-      "onboard_time": 1762075760,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
@@ -825,14 +881,6 @@
       "onboard_time": 1762074021,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155164,
-      "num": 155164,
-      "word": "LPL",
-      "onboard_time": 1762069760,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 152882,
@@ -923,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137120,
-      "num": 137120,
-      "word": "糖尿病不是吃糖吃出来的",
-      "onboard_time": 1762073721,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136724,
       "num": 136724,
       "word": "这种泡泡馄饨到底是谁在爱吃",
@@ -961,14 +1001,6 @@
       "onboard_time": 1762064240,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133538,
-      "num": 133538,
-      "word": "JackeyLove击杀Faker",
-      "onboard_time": 1762076002,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 133474,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1762042159,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124687,
+      "num": 124687,
+      "word": "Uzi谈TESvsT1",
+      "onboard_time": 1762070719,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 124304,
@@ -1283,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108545,
+      "num": 108545,
+      "word": "女子为儿子订婚花7千买酒全是假货",
+      "onboard_time": 1762073301,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108522,
       "num": 108522,
       "word": "张一山爆改霸道总裁",
@@ -1323,12 +1371,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107229,
+      "num": 107229,
+      "word": "TES与T1对位选手投票结果公布",
+      "onboard_time": 1762077801,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107222,
       "num": 107222,
       "word": "何炅说只想看徐正溪跳舞",
       "onboard_time": 1762060461,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107219,
+      "num": 107219,
+      "word": "官方通报一小区楼栋发生沉降",
+      "onboard_time": 1762076482,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 107153,
@@ -1361,14 +1425,6 @@
       "onboard_time": 1762061659,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105385,
-      "num": 105385,
-      "word": "女子为儿子订婚花7千买酒全是假货",
-      "onboard_time": 1762073301,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104061,
@@ -1483,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99215,
+      "num": 99215,
+      "word": "狼队对战WB",
+      "onboard_time": 1762078940,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98058,
       "num": 98058,
       "word": "hang娜美",
@@ -1547,6 +1611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95936,
+      "num": 95936,
+      "word": "张晚意 底色顶顶好的人",
+      "onboard_time": 1762078580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95604,
+      "num": 95604,
+      "word": "369尽力了",
+      "onboard_time": 1762079000,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95369,
       "num": 95369,
       "word": "跟周深上班久了会被同化",
@@ -1587,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93690,
+      "num": 93690,
+      "word": "猫 没完了是吧",
+      "onboard_time": 1762077860,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -1617,14 +1705,6 @@
       "onboard_time": 1761989060,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92960,
-      "num": 92960,
-      "word": "Uzi谈TESvsT1",
-      "onboard_time": 1762070719,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 92321,
@@ -1875,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84064,
+      "num": 84064,
+      "word": "管泽元说滔博打的像训练赛",
+      "onboard_time": 1762073181,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83741,
       "num": 157109,
       "word": "张柏芝 完全没有法令纹的痕迹",
@@ -1947,20 +2035,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81548,
-      "num": 81548,
-      "word": "管泽元说滔博打的像训练赛",
-      "onboard_time": 1762073181,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81021,
       "num": 81021,
       "word": "梅西89分钟世界波难救主",
       "onboard_time": 1762055359,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80959,
+      "num": 121047,
+      "word": "水库放生猫多只落水已救起3只",
+      "onboard_time": 1762076302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80302,
@@ -2259,12 +2347,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63722,
+      "num": 172672,
+      "word": "杨紫新剧杀青后首个活动",
+      "onboard_time": 1762077801,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63317,
+      "num": 84499,
+      "word": "原来脐橙竟是无人机采收的",
+      "onboard_time": 1762078820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62693,
       "num": 72500,
       "word": "泰州队复刻阿根廷队夺冠世界杯动作",
       "onboard_time": 1762048760,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62265,
+      "num": 95673,
+      "word": "网红大熊猫渝可从树上跌落",
+      "onboard_time": 1762077622,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61459,
@@ -2644,7 +2756,7 @@
     },
     {
       "raw_hot": 10240,
-      "num": 648385,
+      "num": 886296,
       "word": "全运会观赛日历",
       "onboard_time": 1762046360,
       "rank": 2,
