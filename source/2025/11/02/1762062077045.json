@@ -1,0 +1,410 @@
+{
+  "runTime": 1762062077045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739771,
+        "num": 1118363,
+        "word": "女子忍痛踩趾压板脚喷血",
+        "onboard_time": 1762058540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251500,
+        "num": 251500,
+        "word": "黄安称屠颖因酒店跑步机摔跤离世",
+        "onboard_time": 1762053739,
+        "rank": 1,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 27736,
+        "num": 230438,
+        "word": "APEC深圳之约期待值拉满",
+        "onboard_time": 1762054100,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225038,
+        "num": 225038,
+        "word": "明年开始卷谍战了",
+        "onboard_time": 1762059680,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181364,
+        "num": 181364,
+        "word": "Gumayusi说3比0战胜TES",
+        "onboard_time": 1762057340,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177549,
+        "num": 177549,
+        "word": "四川多名教师曝被欠薪欠缴社保",
+        "onboard_time": 1762055961,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185985,
+        "num": 176533,
+        "word": "新闻女王2李施嬅饰演的张家妍",
+        "onboard_time": 1762059141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154809,
+        "num": 154809,
+        "word": "马斯克称5年后不再有手机和App",
+        "onboard_time": 1762045100,
+        "rank": 7,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 16422,
+        "num": 145908,
+        "word": "乡村有了数字范儿",
+        "onboard_time": 1762053739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137223,
+        "num": 137223,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1200448,
+        "num": 137192,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 993113,
+        "num": 137112,
+        "word": "吴昕微信好友竟然这么少",
+        "onboard_time": 1762057520,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495947,
+        "num": 137002,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264815,
+        "num": 136919,
+        "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+        "onboard_time": 1762058599,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248029,
+        "num": 136767,
+        "word": "新衣服一定要洗了再穿",
+        "onboard_time": 1762051700,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1083814,
+        "num": 136745,
+        "word": "朱珠给翁青雅关门",
+        "onboard_time": 1762061961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218412,
+        "num": 136587,
+        "word": "杜若溪曾因严屹宽打孩子提出离婚",
+        "onboard_time": 1762053140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143900,
+        "num": 136497,
+        "word": "水库附近放生致大量猫咪落水",
+        "onboard_time": 1762052178,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136480,
+        "num": 136480,
+        "word": "2025KPL年度总决赛",
+        "onboard_time": 1762061001,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130223,
+        "num": 130223,
+        "word": "Tarzan发文致歉",
+        "onboard_time": 1762053380,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390723,
+        "num": 128833,
+        "word": "镖人",
+        "onboard_time": 1762051939,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233461,
+        "num": 128088,
+        "word": "彭小苒说最胖的样子在郭敬明镜头里",
+        "onboard_time": 1762060461,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216371,
+        "num": 125014,
+        "word": "偶遇angelababy和闺蜜逛街",
+        "onboard_time": 1762056261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 124113,
+        "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+        "onboard_time": 1762060760,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133474,
+        "num": 121502,
+        "word": "邓家佳角色查重率为0",
+        "onboard_time": 1762059381,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121416,
+        "num": 121416,
+        "word": "胡先煦被黄景瑜急出英语",
+        "onboard_time": 1762060880,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117311,
+        "num": 117311,
+        "word": "这种泡泡馄饨到底是谁在爱吃",
+        "onboard_time": 1762059620,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114489,
+        "num": 114489,
+        "word": "永夜星河开播一周年",
+        "onboard_time": 1762060401,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111517,
+        "num": 111517,
+        "word": "我使馆已向日方提出严正交涉",
+        "onboard_time": 1762061719,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92163,
+        "num": 110869,
+        "word": "全红婵训练现场再次上演水花消失术",
+        "onboard_time": 1762061599,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414398,
+        "num": 109257,
+        "word": "中国人素质太高了",
+        "onboard_time": 1762058359,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114957,
+        "num": 108359,
+        "word": "谁来给宋亚轩递个喜剧本子",
+        "onboard_time": 1762060821,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112230,
+        "num": 107965,
+        "word": "香港地铁偶遇费曼杨阳洋",
+        "onboard_time": 1762055359,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106849,
+        "num": 106849,
+        "word": "李一桐动漫版清瞳",
+        "onboard_time": 1762060941,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105528,
+        "num": 105528,
+        "word": "横店最忙的阶梯",
+        "onboard_time": 1762061659,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103328,
+        "num": 103328,
+        "word": "六公主说和没看周深现场的说不清",
+        "onboard_time": 1762058721,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101993,
+        "num": 101993,
+        "word": "日本是一个橱窗国家",
+        "onboard_time": 1762057641,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99250,
+        "num": 99250,
+        "word": "医生眼中的生理性厌恶",
+        "onboard_time": 1762052599,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93066,
+        "num": 93066,
+        "word": "何炅说只想看徐正溪跳舞",
+        "onboard_time": 1762060461,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83676,
+        "num": 90994,
+        "word": "这是跨越山海的浪漫",
+        "onboard_time": 1762057700,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90947,
+        "num": 90947,
+        "word": "樊振东的第1条微博",
+        "onboard_time": 1762060700,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47117,
+        "num": 90634,
+        "word": "2025微博视界大会第七波阵容官宣",
+        "onboard_time": 1762060100,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90563,
+        "num": 90563,
+        "word": "王源宇宙超级无敌大狂欢巡演",
+        "onboard_time": 1762058839,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89549,
+        "num": 89549,
+        "word": "惊蛰无声",
+        "onboard_time": 1762061841,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86525,
+        "num": 86525,
+        "word": "原来米和米之间的差别这么大",
+        "onboard_time": 1762061719,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86517,
+        "num": 86517,
+        "word": "老头乐逆行撞上劳斯莱斯",
+        "onboard_time": 1762053020,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84622,
+        "num": 84622,
+        "word": "她这一套换下来我要躺到明年",
+        "onboard_time": 1762051640,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82945,
+        "num": 82945,
+        "word": "荷兰启动2025年光刻机出口新规",
+        "onboard_time": 1762062019,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72853,
+        "num": 80772,
+        "word": "停车月付最高750元遭业主吐槽",
+        "onboard_time": 1762061961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70193,
+        "num": 79713,
+        "word": "道奇卫冕",
+        "onboard_time": 1762058961,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束韩国之行#"
+    }
+  }
+}

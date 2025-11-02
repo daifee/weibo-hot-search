@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762061129603,
+  "endTime": 1762062077045,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -75,6 +75,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1200448,
+      "num": 168378,
+      "word": "朱珠工伤",
+      "onboard_time": 1762059800,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1180887,
       "num": 132223,
       "word": "谈莉娜刘正飞官宣怀孕",
@@ -89,6 +97,14 @@
       "onboard_time": 1761959600,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1083814,
+      "num": 136745,
+      "word": "朱珠给翁青雅关门",
+      "onboard_time": 1762061961,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1077594,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 893063,
-      "num": 168378,
-      "word": "朱珠工伤",
-      "onboard_time": 1762059800,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 869920,
       "num": 285693,
       "word": "女子手镯10年未摘长进肉里",
@@ -185,6 +193,14 @@
       "onboard_time": 1761978860,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 739771,
+      "num": 1118363,
+      "word": "女子忍痛踩趾压板脚喷血",
+      "onboard_time": 1762058540,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 736722,
@@ -225,14 +241,6 @@
       "onboard_time": 1761989060,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 666664,
-      "num": 1106666,
-      "word": "女子忍痛踩趾压板脚喷血",
-      "onboard_time": 1762058540,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 660949,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414398,
+      "num": 323896,
+      "word": "中国人素质太高了",
+      "onboard_time": 1762058359,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410134,
       "num": 410134,
       "word": "安世中国不存在违约行为",
@@ -649,14 +665,6 @@
       "onboard_time": 1761919642,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323896,
-      "num": 323896,
-      "word": "中国人素质太高了",
-      "onboard_time": 1762058359,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321450,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264815,
+      "num": 164459,
+      "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+      "onboard_time": 1762058599,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264049,
       "num": 264049,
       "word": "藏海传剧组亮相文荣奖",
@@ -1003,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234151,
-      "num": 164459,
-      "word": "湖南一男子夜晚钓鱼被当猎物枪击",
-      "onboard_time": 1762058599,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 233461,
+      "num": 157014,
+      "word": "彭小苒说最胖的样子在郭敬明镜头里",
+      "onboard_time": 1762060461,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233359,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1761919883,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225038,
+      "num": 225038,
+      "word": "明年开始卷谍战了",
+      "onboard_time": 1762059680,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 222474,
@@ -1283,14 +1307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200010,
-      "num": 157014,
-      "word": "彭小苒说最胖的样子在郭敬明镜头里",
-      "onboard_time": 1762060461,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197943,
       "num": 504333,
       "word": "长沙潮宗街一面墙体倒塌",
@@ -1427,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185985,
+      "num": 176533,
+      "word": "新闻女王2李施嬅饰演的张家妍",
+      "onboard_time": 1762059141,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185363,
       "num": 231791,
       "word": "三人行今日开播",
@@ -1443,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181364,
+      "num": 181364,
+      "word": "Gumayusi说3比0战胜TES",
+      "onboard_time": 1762057340,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181162,
       "num": 504187,
       "word": "神21航天员亮相",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1762011501,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180214,
-      "num": 180214,
-      "word": "Gumayusi说3比0战胜TES",
-      "onboard_time": 1762057340,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 178879,
@@ -1579,12 +1603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169894,
-      "num": 169894,
-      "word": "明年开始卷谍战了",
-      "onboard_time": 1762059680,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 170725,
+      "num": 128976,
+      "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+      "onboard_time": 1762060760,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169813,
@@ -2083,14 +2107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145225,
-      "num": 145225,
-      "word": "新闻女王2李施嬅饰演的张家妍",
-      "onboard_time": 1762059141,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144902,
       "num": 178866,
       "word": "刘嘉玲忘了梁朝伟说话慢三秒的嘱咐了",
@@ -2259,6 +2275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136480,
+      "num": 136480,
+      "word": "2025KPL年度总决赛",
+      "onboard_time": 1762061001,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136187,
       "num": 131282,
       "word": "何泓姗 脸和性格各长各的",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1762004663,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133474,
+      "num": 139261,
+      "word": "邓家佳角色查重率为0",
+      "onboard_time": 1762059381,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133314,
@@ -2393,14 +2425,6 @@
       "onboard_time": 1762007843,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128976,
-      "num": 128976,
-      "word": "1岁孩子住美高梅酒店被毒虫咬伤",
-      "onboard_time": 1762060760,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128973,
@@ -2523,14 +2547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124749,
-      "num": 139261,
-      "word": "邓家佳角色查重率为0",
-      "onboard_time": 1762059381,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 124697,
       "num": 124697,
       "word": "马思纯编完你的编你的",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1761993980,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121416,
+      "num": 121416,
+      "word": "胡先煦被黄景瑜急出英语",
+      "onboard_time": 1762060880,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121349,
@@ -2947,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111517,
+      "num": 111517,
+      "word": "我使馆已向日方提出严正交涉",
+      "onboard_time": 1762061719,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111497,
       "num": 111497,
       "word": "萧炎突破斗圣",
@@ -3123,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106849,
+      "num": 106849,
+      "word": "李一桐动漫版清瞳",
+      "onboard_time": 1762060941,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106707,
       "num": 106707,
       "word": "女人从鲨鱼妈妈腹中救下宝宝",
@@ -3155,12 +3195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105887,
-      "num": 105887,
-      "word": "2025KPL年度总决赛",
-      "onboard_time": 1762061001,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 105528,
+      "num": 105528,
+      "word": "横店最忙的阶梯",
+      "onboard_time": 1762061659,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 104875,
@@ -3227,20 +3267,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103328,
+      "num": 103328,
+      "word": "六公主说和没看周深现场的说不清",
+      "onboard_time": 1762058721,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103323,
       "num": 99135,
       "word": "敖子逸跳了青春修炼手册",
       "onboard_time": 1761985880,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103266,
-      "num": 103266,
-      "word": "六公主说和没看周深现场的说不清",
-      "onboard_time": 1762058721,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 103077,
@@ -3563,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95201,
-      "num": 95201,
-      "word": "李一桐动漫版清瞳",
-      "onboard_time": 1762060941,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94763,
       "num": 158049,
       "word": "34岁男子右手绞进机器碎成多瓣",
@@ -3643,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92163,
+      "num": 110869,
+      "word": "全红婵训练现场再次上演水花消失术",
+      "onboard_time": 1762061599,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91892,
       "num": 91892,
       "word": "成毅打戏的快进键被人扣了",
@@ -3673,6 +3713,14 @@
       "onboard_time": 1761975500,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90947,
+      "num": 90947,
+      "word": "樊振东的第1条微博",
+      "onboard_time": 1762060700,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90943,
@@ -3755,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89549,
+      "num": 89549,
+      "word": "惊蛰无声",
+      "onboard_time": 1762061841,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89445,
       "num": 504021,
       "word": "AL止步八强",
@@ -3808,14 +3864,6 @@
       "word": "艾热父亲离世前最后一顿饭是孜巴做的",
       "onboard_time": 1762059201,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88504,
-      "num": 88504,
-      "word": "胡先煦被黄景瑜急出英语",
-      "onboard_time": 1762060880,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -3907,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86525,
+      "num": 86525,
+      "word": "原来米和米之间的差别这么大",
+      "onboard_time": 1762061719,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86512,
       "num": 86512,
       "word": "李荣浩定做直径五米火锅被说神经病",
@@ -3979,14 +4035,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 84986,
-      "num": 84986,
-      "word": "樊振东的第1条微博",
-      "onboard_time": 1762060700,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84953,
       "num": 113135,
       "word": "张智霖问就是在打麻将",
@@ -4033,6 +4081,14 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 82945,
+      "num": 82945,
+      "word": "荷兰启动2025年光刻机出口新规",
+      "onboard_time": 1762062019,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82767,
@@ -4379,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72853,
+      "num": 80772,
+      "word": "停车月付最高750元遭业主吐槽",
+      "onboard_time": 1762061961,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72790,
       "num": 72790,
       "word": "全红婵全运会备战画面",
@@ -4489,6 +4553,14 @@
       "onboard_time": 1761914243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70193,
+      "num": 79713,
+      "word": "道奇卫冕",
+      "onboard_time": 1762058961,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69980,
