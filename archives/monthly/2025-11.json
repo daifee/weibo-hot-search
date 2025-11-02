@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762053803282,
+  "endTime": 1762054485178,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -339,6 +339,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 531998,
+      "num": 174011,
+      "word": "新衣服一定要洗了再穿",
+      "onboard_time": 1762051700,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 529560,
+      "num": 529560,
+      "word": "镖人",
+      "onboard_time": 1762051939,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 526473,
       "num": 203459,
       "word": "老人地铁强坐女生腿上女生无奈报警",
@@ -369,6 +385,14 @@
       "onboard_time": 1761978740,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498708,
+      "num": 174012,
+      "word": "水库附近放生致大量猫咪落水",
+      "onboard_time": 1762052178,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 495289,
@@ -409,14 +433,6 @@
       "onboard_time": 1761965179,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468010,
-      "num": 174012,
-      "word": "水库附近放生致大量猫咪落水",
-      "onboard_time": 1762052178,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 453970,
@@ -515,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 386797,
-      "num": 386797,
-      "word": "镖人",
-      "onboard_time": 1762051939,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 378412,
       "num": 174011,
       "word": "弦子回应嫁给李茂没有下嫁感",
@@ -553,14 +561,6 @@
       "onboard_time": 1762008742,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356023,
-      "num": 174011,
-      "word": "新衣服一定要洗了再穿",
-      "onboard_time": 1762051700,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 355771,
@@ -707,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 298199,
+      "num": 170189,
+      "word": "杜若溪曾因严屹宽打孩子提出离婚",
+      "onboard_time": 1762053140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -833,6 +841,14 @@
       "onboard_time": 1762010422,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255221,
+      "num": 174008,
+      "word": "医生眼中的生理性厌恶",
+      "onboard_time": 1762052599,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 254697,
@@ -1075,20 +1091,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211226,
-      "num": 174008,
-      "word": "医生眼中的生理性厌恶",
-      "onboard_time": 1762052599,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211031,
       "num": 504306,
       "word": "樊振东全运会男单4号种子",
       "onboard_time": 1761922703,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210031,
+      "num": 151589,
+      "word": "Tarzan发文致歉",
+      "onboard_time": 1762053380,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 208410,
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 171368,
-      "num": 123788,
+      "num": 149792,
       "word": "她这一套换下来我要躺到明年",
       "onboard_time": 1762051640,
       "rank": 30,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1762002981,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170189,
-      "num": 170189,
-      "word": "杜若溪曾因严屹宽打孩子提出离婚",
-      "onboard_time": 1762053140,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 169012,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1762006585,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166502,
+      "num": 150739,
+      "word": "谢娜做吴京经典动作",
+      "onboard_time": 1762053140,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 166148,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1762007304,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157229,
+      "num": 149898,
+      "word": "黄安称屠颖因酒店跑步机摔跤离世",
+      "onboard_time": 1762053739,
+      "rank": 45,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 157172,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1761975319,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147851,
+      "num": 147851,
+      "word": "老头乐逆行撞上劳斯莱斯",
+      "onboard_time": 1762053020,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147759,
@@ -2115,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135933,
-      "num": 135933,
-      "word": "Tarzan发文致歉",
-      "onboard_time": 1762053380,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 135633,
       "num": 135633,
       "word": "车主选中尾号6646号牌被告知作废",
@@ -2193,14 +2217,6 @@
       "onboard_time": 1762017318,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130185,
-      "num": 130185,
-      "word": "谢娜做吴京经典动作",
-      "onboard_time": 1762053140,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 130077,
@@ -2539,14 +2555,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 120200,
-      "num": 120200,
-      "word": "老头乐逆行撞上劳斯莱斯",
-      "onboard_time": 1762053020,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120192,
       "num": 116332,
       "word": "欧阳娜娜小孩装大人既视感",
@@ -2560,6 +2568,14 @@
       "word": "杨紫拍生命树高反到边说词边吸氧",
       "onboard_time": 1761953838,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119014,
+      "num": 119014,
+      "word": "找人上门喂猫缅因掉下8楼",
+      "onboard_time": 1762053319,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3355,6 +3371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92321,
+      "num": 92321,
+      "word": "大一新生也开始卷实习了",
+      "onboard_time": 1762053800,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91892,
       "num": 91892,
       "word": "成毅打戏的快进键被人扣了",
@@ -3595,14 +3619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86495,
-      "num": 90527,
-      "word": "找人上门喂猫缅因掉下8楼",
-      "onboard_time": 1762053319,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86475,
       "num": 86475,
       "word": "猫咪怎么什么都想捅咕两下",
@@ -3747,14 +3763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81931,
-      "num": 81931,
-      "word": "黄安称屠颖因酒店跑步机摔跤离世",
-      "onboard_time": 1762053739,
-      "rank": 45,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "为什么劝你首饰要定期摘下",
@@ -3875,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76066,
+      "num": 76066,
+      "word": "俄罗斯新核潜艇出坞",
+      "onboard_time": 1762053920,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76021,
       "num": 164972,
       "word": "孙颖莎东方美人",
@@ -3928,6 +3944,14 @@
       "word": "刘晓庆对刘嘉玲说你要乖噢",
       "onboard_time": 1761980241,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73761,
+      "num": 73761,
+      "word": "白敬亭质疑孙千理解孙千成为孙千",
+      "onboard_time": 1762054460,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -4009,6 +4033,14 @@
       "onboard_time": 1761933436,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "跳过课间操的才知道这有多牛",
+      "onboard_time": 1762052720,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71872,
@@ -4467,6 +4499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50264,
+      "num": 119261,
+      "word": "官方回应苏超奖励设置",
+      "onboard_time": 1762054400,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48411,
       "num": 203729,
       "word": "男子好心载同事出事故赔6万",
@@ -4640,6 +4680,14 @@
       "word": "官方回应被人口调查短信翻牌",
       "onboard_time": 1762034473,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37721,
+      "num": 174009,
+      "word": "馆长到厦门大伙齐喊欢迎回家",
+      "onboard_time": 1762053200,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4907,20 +4955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17459,
-      "num": 174009,
-      "word": "馆长到厦门大伙齐喊欢迎回家",
-      "onboard_time": 1762053200,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17212,
       "num": 106233,
       "word": "这部剧不能让秦海璐刷到",
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15930,
+      "num": 184767,
+      "word": "乡村有了数字范儿",
+      "onboard_time": 1762053739,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15549,
@@ -4963,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13239,
+      "num": 305785,
+      "word": "APEC深圳之约期待值拉满",
+      "onboard_time": 1762054100,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13015,
       "num": 32737,
       "word": "京豆哥直播半小时怒发600万",
@@ -4971,19 +5027,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 9249,
+      "num": 154665,
+      "word": "一段视频跟航天员出征",
+      "onboard_time": 1762054100,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8085,
       "num": 572424,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 7049,
-      "num": 184767,
-      "word": "乡村有了数字范儿",
-      "onboard_time": 1762053739,
-      "rank": 8,
       "category": "国内时政"
     }
   ],
@@ -5008,6 +5064,9 @@
     },
     {
       "word": "#APEC领导人集体合影#"
+    },
+    {
+      "word": "#习近平圆满结束韩国之行#"
     }
   ]
 }

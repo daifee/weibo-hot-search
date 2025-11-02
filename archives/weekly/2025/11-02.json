@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762053803282,
+  "endTime": 1762054485178,
   "band_list": [
     {
       "raw_hot": 1077594,
@@ -59,12 +59,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531998,
+      "num": 174011,
+      "word": "新衣服一定要洗了再穿",
+      "onboard_time": 1762051700,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 529560,
+      "num": 529560,
+      "word": "镖人",
+      "onboard_time": 1762051939,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 519533,
       "num": 269284,
       "word": "中方强烈抗议高市早苗涉台错误言行",
       "onboard_time": 1762006824,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 498708,
+      "num": 174012,
+      "word": "水库附近放生致大量猫咪落水",
+      "onboard_time": 1762052178,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 495500,
@@ -83,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 468010,
-      "num": 174012,
-      "word": "水库附近放生致大量猫咪落水",
-      "onboard_time": 1762052178,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 410134,
       "num": 410134,
       "word": "安世中国不存在违约行为",
@@ -105,14 +121,6 @@
       "onboard_time": 1762009344,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 386797,
-      "num": 386797,
-      "word": "镖人",
-      "onboard_time": 1762051939,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 378412,
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356023,
-      "num": 174011,
-      "word": "新衣服一定要洗了再穿",
-      "onboard_time": 1762051700,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 337147,
       "num": 358929,
       "word": "苏超泰州队冠军",
@@ -169,6 +169,14 @@
       "onboard_time": 1762038495,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 298199,
+      "num": 170189,
+      "word": "杜若溪曾因严屹宽打孩子提出离婚",
+      "onboard_time": 1762053140,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 285304,
@@ -227,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255221,
+      "num": 174008,
+      "word": "医生眼中的生理性厌恶",
+      "onboard_time": 1762052599,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237070,
       "num": 143823,
       "word": "赵樱子曝孟子义上综艺和她有关系",
@@ -251,12 +267,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 211226,
-      "num": 174008,
-      "word": "医生眼中的生理性厌恶",
-      "onboard_time": 1762052599,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 210031,
+      "num": 151589,
+      "word": "Tarzan发文致歉",
+      "onboard_time": 1762053380,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 204114,
@@ -348,19 +364,11 @@
     },
     {
       "raw_hot": 171368,
-      "num": 123788,
+      "num": 149792,
       "word": "她这一套换下来我要躺到明年",
       "onboard_time": 1762051640,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170189,
-      "num": 170189,
-      "word": "杜若溪曾因严屹宽打孩子提出离婚",
-      "onboard_time": 1762053140,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 167703,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166502,
+      "num": 150739,
+      "word": "谢娜做吴京经典动作",
+      "onboard_time": 1762053140,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -393,6 +409,14 @@
       "onboard_time": 1762016359,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157229,
+      "num": 149898,
+      "word": "黄安称屠颖因酒店跑步机摔跤离世",
+      "onboard_time": 1762053739,
+      "rank": 45,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 150618,
@@ -411,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147851,
+      "num": 147851,
+      "word": "老头乐逆行撞上劳斯莱斯",
+      "onboard_time": 1762053020,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147521,
       "num": 127664,
       "word": "自闭症男孩身亡涉事老师失联未道歉",
@@ -427,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135933,
-      "num": 135933,
-      "word": "Tarzan发文致歉",
-      "onboard_time": 1762053380,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131024,
       "num": 131024,
       "word": "警方回应大狗遭柯基主人酒瓶爆头",
@@ -449,14 +473,6 @@
       "onboard_time": 1761999981,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130185,
-      "num": 130185,
-      "word": "谢娜做吴京经典动作",
-      "onboard_time": 1762053140,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 129779,
@@ -515,11 +531,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120200,
-      "num": 120200,
-      "word": "老头乐逆行撞上劳斯莱斯",
-      "onboard_time": 1762053020,
-      "rank": 32,
+      "raw_hot": 119014,
+      "num": 119014,
+      "word": "找人上门喂猫缅因掉下8楼",
+      "onboard_time": 1762053319,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92321,
+      "num": 92321,
+      "word": "大一新生也开始卷实习了",
+      "onboard_time": 1762053800,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91857,
       "num": 157647,
       "word": "苏超球迷称度过了不一样的2025",
@@ -795,14 +819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86495,
-      "num": 90527,
-      "word": "找人上门喂猫缅因掉下8楼",
-      "onboard_time": 1762053319,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85842,
       "num": 85842,
       "word": "陈乔恩婉拒催生",
@@ -851,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81931,
-      "num": 81931,
-      "word": "黄安称屠颖因酒店跑步机摔跤离世",
-      "onboard_time": 1762053739,
-      "rank": 45,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "为什么劝你首饰要定期摘下",
@@ -891,11 +899,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76066,
+      "num": 76066,
+      "word": "俄罗斯新核潜艇出坞",
+      "onboard_time": 1762053920,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75526,
       "num": 157440,
       "word": "罗云熙小心翼翼闯了很多祸",
       "onboard_time": 1762012400,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73761,
+      "num": 73761,
+      "word": "白敬亭质疑孙千理解孙千成为孙千",
+      "onboard_time": 1762054460,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -921,6 +945,14 @@
       "onboard_time": 1762047259,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "跳过课间操的才知道这有多牛",
+      "onboard_time": 1762052720,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 69598,
@@ -1043,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50264,
+      "num": 119261,
+      "word": "官方回应苏超奖励设置",
+      "onboard_time": 1762054400,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48016,
       "num": 48016,
       "word": "王一博在困境中展现出的从容感",
@@ -1096,6 +1136,14 @@
       "word": "官方回应被人口调查短信翻牌",
       "onboard_time": 1762034473,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37721,
+      "num": 174009,
+      "word": "馆长到厦门大伙齐喊欢迎回家",
+      "onboard_time": 1762053200,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1187,12 +1235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17459,
-      "num": 174009,
-      "word": "馆长到厦门大伙齐喊欢迎回家",
-      "onboard_time": 1762053200,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 15930,
+      "num": 184767,
+      "word": "乡村有了数字范儿",
+      "onboard_time": 1762053739,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14006,
@@ -1211,10 +1259,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7049,
-      "num": 184767,
-      "word": "乡村有了数字范儿",
-      "onboard_time": 1762053739,
+      "raw_hot": 13239,
+      "num": 305785,
+      "word": "APEC深圳之约期待值拉满",
+      "onboard_time": 1762054100,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9249,
+      "num": 154665,
+      "word": "一段视频跟航天员出征",
+      "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
     }
@@ -1225,6 +1281,9 @@
     },
     {
       "word": "#习近平同韩国总统李在明举行会谈#"
+    },
+    {
+      "word": "#习近平圆满结束韩国之行#"
     }
   ]
 }
