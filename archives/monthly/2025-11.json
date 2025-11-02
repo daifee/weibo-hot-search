@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762054485178,
+  "endTime": 1762057837904,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712077,
+      "num": 529560,
+      "word": "镖人",
+      "onboard_time": 1762051939,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 706292,
       "num": 299470,
       "word": "chovy状态",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563948,
+      "num": 170189,
+      "word": "杜若溪曾因严屹宽打孩子提出离婚",
+      "onboard_time": 1762053140,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560101,
       "num": 185760,
       "word": "男子杀害发小妻儿3人假装不知情",
@@ -345,14 +361,6 @@
       "onboard_time": 1762051700,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 529560,
-      "num": 529560,
-      "word": "镖人",
-      "onboard_time": 1762051939,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 526473,
@@ -481,6 +489,14 @@
       "onboard_time": 1761987980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422331,
+      "num": 1067572,
+      "word": "黄安称屠颖因酒店跑步机摔跤离世",
+      "onboard_time": 1762053739,
+      "rank": 45,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 418838,
@@ -707,14 +723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 298199,
-      "num": 170189,
-      "word": "杜若溪曾因严屹宽打孩子提出离婚",
-      "onboard_time": 1762053140,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287546,
       "num": 270182,
       "word": "喜人奇妙夜 再见爱人",
@@ -752,6 +760,14 @@
       "word": "T1战胜AL",
       "onboard_time": 1761911004,
       "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 277056,
+      "num": 277056,
+      "word": "Tarzan发文致歉",
+      "onboard_time": 1762053380,
+      "rank": 27,
       "category": "电竞"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1762050979,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257075,
+      "num": 134104,
+      "word": "偶遇angelababy和闺蜜逛街",
+      "onboard_time": 1762056261,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 256453,
@@ -945,6 +969,14 @@
       "onboard_time": 1762012042,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230345,
+      "num": 135154,
+      "word": "吴昕微信好友竟然这么少",
+      "onboard_time": 1762057520,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 230111,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1761922703,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210031,
-      "num": 151589,
-      "word": "Tarzan发文致歉",
-      "onboard_time": 1762053380,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 208410,
@@ -1411,6 +1435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177381,
+      "num": 147851,
+      "word": "老头乐逆行撞上劳斯莱斯",
+      "onboard_time": 1762053020,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177313,
       "num": 177313,
       "word": "光夜陆沉全知默示",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1762002981,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169813,
+      "num": 133552,
+      "word": "白敬亭质疑孙千理解孙千成为孙千",
+      "onboard_time": 1762054460,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 169012,
@@ -1699,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157229,
-      "num": 149898,
-      "word": "黄安称屠颖因酒店跑步机摔跤离世",
-      "onboard_time": 1762053739,
-      "rank": 45,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 157172,
       "num": 157172,
       "word": "光夜萧逸爱欲驯养",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1761975319,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147851,
-      "num": 147851,
-      "word": "老头乐逆行撞上劳斯莱斯",
-      "onboard_time": 1762053020,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147759,
@@ -2171,6 +2195,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133380,
+      "num": 133380,
+      "word": "Gumayusi说3比0战胜TES",
+      "onboard_time": 1762057340,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 133277,
+      "num": 133277,
+      "word": "赵鸿刚回忆扇耳光大赛赛场经过",
+      "onboard_time": 1762056919,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133104,
       "num": 133104,
       "word": "GEN回应不敌KT",
@@ -2267,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128594,
+      "num": 128594,
+      "word": "香港地铁偶遇费曼杨阳洋",
+      "onboard_time": 1762055359,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128424,
       "num": 128424,
       "word": "苏超决赛收视率破1",
@@ -2281,6 +2329,14 @@
       "onboard_time": 1761982161,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128250,
+      "num": 128250,
+      "word": "四川多名教师曝被欠薪欠缴社保",
+      "onboard_time": 1762055961,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 127988,
@@ -2931,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104671,
+      "num": 104671,
+      "word": "日本是一个橱窗国家",
+      "onboard_time": 1762057641,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "为研究生贺峻霖点灯",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1761968419,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103886,
+      "num": 103886,
+      "word": "51岁阿姨月薪1710元的独居生活",
+      "onboard_time": 1762054639,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 103856,
@@ -3056,6 +3128,14 @@
       "word": "大厨小婿开播",
       "onboard_time": 1761977960,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100924,
+      "num": 134812,
+      "word": "入青云今日收官",
+      "onboard_time": 1762055481,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3227,6 +3307,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "指甲宽别做白色美甲",
+      "onboard_time": 1762055481,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 97564,
       "num": 124071,
       "word": "零跑汽车10月交付70289台",
@@ -3321,6 +3409,14 @@
       "onboard_time": 1761970280,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94311,
+      "num": 134713,
+      "word": "为什么要警惕城市青纱帐",
+      "onboard_time": 1762057401,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 93406,
@@ -3515,6 +3611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88917,
+      "num": 88917,
+      "word": "这是跨越山海的浪漫",
+      "onboard_time": 1762057700,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88715,
       "num": 121281,
       "word": "孙颖莎小伸懒腰",
@@ -3571,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87514,
+      "num": 87514,
+      "word": "成毅这次完全是主人级别的",
+      "onboard_time": 1762056079,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87276,
       "num": 124038,
       "word": "中级经济师",
@@ -3617,6 +3729,14 @@
       "onboard_time": 1761990561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86512,
+      "num": 86512,
+      "word": "李荣浩定做直径五米火锅被说神经病",
+      "onboard_time": 1762055900,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 86475,
@@ -3763,12 +3883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81909,
+      "num": 81909,
+      "word": "小狗其实那晚我根本没睡着",
+      "onboard_time": 1762057160,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "为什么劝你首饰要定期摘下",
       "onboard_time": 1762053140,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81827,
+      "num": 81827,
+      "word": "王源厦门站vlog",
+      "onboard_time": 1762056800,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 81681,
@@ -3792,6 +3928,14 @@
       "word": "全妹背着痛包回来了",
       "onboard_time": 1761996083,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80260,
+      "num": 80260,
+      "word": "梅西89分钟世界波难救主",
+      "onboard_time": 1762055359,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -3947,14 +4091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73761,
-      "num": 73761,
-      "word": "白敬亭质疑孙千理解孙千成为孙千",
-      "onboard_time": 1762054460,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73616,
       "num": 73616,
       "word": "男子乔迁聚会300万名表丢失",
@@ -4035,6 +4171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72317,
+      "num": 72317,
+      "word": "无限暖暖凌晨道歉",
+      "onboard_time": 1762057520,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72143,
       "num": 72143,
       "word": "跳过课间操的才知道这有多牛",
@@ -4073,6 +4217,14 @@
       "onboard_time": 1761959840,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71223,
+      "num": 71223,
+      "word": "每天都不知道穿啥出门",
+      "onboard_time": 1762056500,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71114,
@@ -4137,6 +4289,14 @@
       "onboard_time": 1762047621,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68161,
+      "num": 74340,
+      "word": "关晓彤找到副业了",
+      "onboard_time": 1762055720,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 67567,
@@ -4305,6 +4465,14 @@
       "onboard_time": 1761903080,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61459,
+      "num": 70127,
+      "word": "镖人看点推介",
+      "onboard_time": 1762056199,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 61316,
@@ -4545,6 +4713,14 @@
       "onboard_time": 1761923002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45198,
+      "num": 134326,
+      "word": "是时候换台骁龙新机了",
+      "onboard_time": 1762055421,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 44278,
@@ -4819,6 +4995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27448,
+      "num": 314109,
+      "word": "APEC深圳之约期待值拉满",
+      "onboard_time": 1762054100,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27425,
       "num": 187566,
       "word": "出行得流感怎么办",
@@ -4841,6 +5025,14 @@
       "onboard_time": 1762021515,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25964,
+      "num": 86616,
+      "word": "被网友求链接的温州铁锅厂复工复产了",
+      "onboard_time": 1762057700,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24223,
@@ -4931,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19423,
+      "num": 184767,
+      "word": "乡村有了数字范儿",
+      "onboard_time": 1762053739,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -4961,14 +5161,6 @@
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15930,
-      "num": 184767,
-      "word": "乡村有了数字范儿",
-      "onboard_time": 1762053739,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15549,
@@ -5009,14 +5201,6 @@
       "onboard_time": 1761952637,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13239,
-      "num": 305785,
-      "word": "APEC深圳之约期待值拉满",
-      "onboard_time": 1762054100,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13015,
