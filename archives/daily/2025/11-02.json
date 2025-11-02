@@ -1,7 +1,15 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762083453432,
+  "endTime": 1762087549432,
   "band_list": [
+    {
+      "raw_hot": 2698614,
+      "num": 193044,
+      "word": "翁青雅道歉",
+      "onboard_time": 1762086801,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1793569,
       "num": 1793569,
@@ -17,6 +25,14 @@
       "onboard_time": 1762076362,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1277136,
+      "num": 313035,
+      "word": "短剧演员红毯上接吻",
+      "onboard_time": 1762084462,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1257159,
@@ -107,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 696178,
+      "num": 192281,
+      "word": "被男友割喉护士曾多次被勒脖子",
+      "onboard_time": 1762083621,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692247,
       "num": 191587,
       "word": "章泽天 烫头需谨慎",
@@ -187,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 520352,
+      "num": 191078,
+      "word": "儿子无法接受妈妈被打致残曾想自杀",
+      "onboard_time": 1762083681,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519533,
       "num": 269284,
       "word": "中方强烈抗议高市早苗涉台错误言行",
@@ -243,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480550,
+      "num": 1076888,
+      "word": "向往的生活一家六口世纪同框",
+      "onboard_time": 1762080680,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449852,
       "num": 149102,
       "word": "马思纯写给张晚意的信",
@@ -257,6 +297,22 @@
       "onboard_time": 1762066581,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438701,
+      "num": 188945,
+      "word": "杨紫郭宇欣同框",
+      "onboard_time": 1762084761,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 428412,
+      "num": 189946,
+      "word": "马龙妻子夏露分享舞蹈视频",
+      "onboard_time": 1762082311,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 423880,
@@ -313,6 +369,14 @@
       "onboard_time": 1762051099,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377255,
+      "num": 377255,
+      "word": "全红婵陈芋汐携手新搭档出战",
+      "onboard_time": 1762079360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 372284,
@@ -379,22 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318912,
-      "num": 318912,
-      "word": "向往的生活一家六口世纪同框",
-      "onboard_time": 1762080680,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 317103,
-      "num": 317103,
-      "word": "全红婵陈芋汐携手新搭档出战",
-      "onboard_time": 1762079360,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309440,
       "num": 309440,
       "word": "看爱情公寓最怕的剧情",
@@ -417,6 +465,14 @@
       "onboard_time": 1762064479,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306399,
+      "num": 306399,
+      "word": "TES不敌T1后发文",
+      "onboard_time": 1762083561,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 300919,
@@ -577,6 +633,14 @@
       "onboard_time": 1762082311,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251341,
+      "num": 167445,
+      "word": "建议气血不足的人不要留太长的头发",
+      "onboard_time": 1762085601,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247319,
@@ -771,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196670,
+      "num": 196670,
+      "word": "台官员宴请美官员结果无一人到场",
+      "onboard_time": 1762083921,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196124,
       "num": 129342,
       "word": "杨紫连续三年说准MLB冠军",
@@ -784,6 +856,14 @@
       "word": "罗云熙水龙吟布达拉宫热度双破万",
       "onboard_time": 1762071800,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193869,
+      "num": 193869,
+      "word": "杨紫生命树收官文被网友做成歌了",
+      "onboard_time": 1762086441,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -963,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166088,
+      "num": 166088,
+      "word": "短短10集8死7伤哭8次",
+      "onboard_time": 1762083201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165237,
       "num": 205783,
       "word": "音乐缘计划2",
@@ -993,6 +1081,14 @@
       "onboard_time": 1762038257,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160729,
+      "num": 160729,
+      "word": "张纪中被孩子问爸爸你什么时候死",
+      "onboard_time": 1762085241,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 157995,
@@ -1059,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149012,
+      "num": 149012,
+      "word": "彭小苒换发型了",
+      "onboard_time": 1762085541,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148278,
       "num": 132031,
       "word": "Tian说Faker又要夺冠了",
@@ -1089,6 +1193,22 @@
       "onboard_time": 1762068681,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146458,
+      "num": 146458,
+      "word": "全红婵携新搭档王伟莹出战10米跳台",
+      "onboard_time": 1762083501,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145354,
+      "num": 137002,
+      "word": "韩总统向中方额外赠送200盒皇南饼",
+      "onboard_time": 1762083561,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144594,
@@ -1129,6 +1249,14 @@
       "onboard_time": 1762060100,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "Faker说今天状态不太好",
+      "onboard_time": 1762084581,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 136724,
@@ -1243,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "原来穿秋裤和不穿秋裤的是同一批人",
+      "onboard_time": 1762086681,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127287,
       "num": 127287,
       "word": "仙逆",
@@ -1267,12 +1403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126481,
+      "num": 126481,
+      "word": "T1胜后全员大合照",
+      "onboard_time": 1762085481,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125615,
-      "num": 116174,
+      "num": 119850,
       "word": "学校通报女生买淀粉肠被拿走钥匙",
       "onboard_time": 1762082542,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 125299,
+      "num": 125299,
+      "word": "熬夜其实是在熬甲状腺的寿命",
+      "onboard_time": 1762086742,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125288,
@@ -1523,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112438,
+      "num": 112438,
+      "word": "背的是嫂子吗背的是德",
+      "onboard_time": 1762086143,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112387,
       "num": 174009,
       "word": "电影特立独行定档2026暑期",
@@ -1545,14 +1705,6 @@
       "onboard_time": 1762061719,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 111470,
-      "num": 117797,
-      "word": "短短10集8死7伤哭8次",
-      "onboard_time": 1762083201,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 111224,
@@ -1627,20 +1779,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107893,
+      "num": 107893,
+      "word": "上班的8个好处",
+      "onboard_time": 1762086382,
+      "rank": 37,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 107740,
       "num": 107740,
       "word": "印度留学生超市偷窃向警察哭诉",
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107440,
-      "num": 114974,
-      "word": "马龙妻子夏露分享舞蹈视频",
-      "onboard_time": 1762082311,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 107229,
@@ -1699,6 +1851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105088,
+      "num": 105088,
+      "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
+      "onboard_time": 1762087101,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104424,
+      "num": 104424,
+      "word": "建议讨厌上班的人反复观看",
+      "onboard_time": 1762086863,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104061,
       "num": 140311,
       "word": "央视再曝医美陷阱",
@@ -1737,6 +1905,14 @@
       "onboard_time": 1762069041,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 103479,
+      "num": 179628,
+      "word": "全红婵复出第一跳",
+      "onboard_time": 1762086922,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 103445,
@@ -1811,6 +1987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101045,
+      "num": 104607,
+      "word": "王艺迪4比2朱芊曦",
+      "onboard_time": 1762086081,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100600,
       "num": 133498,
       "word": "一句她哪都比你好扎心了",
@@ -1833,6 +2017,14 @@
       "onboard_time": 1762071140,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98302,
+      "num": 98302,
+      "word": "黄金征税部分商家火速下架金条",
+      "onboard_time": 1762084100,
+      "rank": 46,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 98058,
@@ -2011,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92623,
+      "num": 92623,
+      "word": "LPL无缘本土S赛决赛",
+      "onboard_time": 1762087222,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92321,
       "num": 92321,
       "word": "大一新生也开始卷实习了",
@@ -2153,6 +2353,14 @@
       "onboard_time": 1762010303,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87153,
+      "num": 87153,
+      "word": "全红婵王伟莹赛前热身",
+      "onboard_time": 1762087222,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87124,
@@ -2993,6 +3201,14 @@
       "onboard_time": 1762057820,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 25069,
+      "num": 98911,
+      "word": "迎咀水库两年前也有人放生猫",
+      "onboard_time": 1762086021,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24227,
