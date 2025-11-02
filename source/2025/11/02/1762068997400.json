@@ -1,0 +1,410 @@
+{
+  "runTime": 1762068997400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 539095,
+        "num": 1086255,
+        "word": "女子忍痛踩趾压板脚喷血",
+        "onboard_time": 1762058540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352755,
+        "num": 352755,
+        "word": "湖南警方通报发现疑似贩卖婴儿",
+        "onboard_time": 1762065080,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18774,
+        "num": 333751,
+        "word": "APEC深圳之约期待值拉满",
+        "onboard_time": 1762054100,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314916,
+        "num": 314916,
+        "word": "T1对战TES",
+        "onboard_time": 1762066279,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302620,
+        "num": 302620,
+        "word": "看爱情公寓最怕的剧情",
+        "onboard_time": 1762063399,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534598,
+        "num": 274591,
+        "word": "警方正追查水库放生猫人员",
+        "onboard_time": 1762065319,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192703,
+        "num": 192703,
+        "word": "南航员工参加3000米考核后猝死",
+        "onboard_time": 1762066341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152882,
+        "num": 152882,
+        "word": "李隼称全运会乒乓球水平超过奥运会",
+        "onboard_time": 1762064961,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14618,
+        "num": 139461,
+        "word": "乡村有了数字范儿",
+        "onboard_time": 1762053739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127910,
+        "num": 127910,
+        "word": "英雄联盟",
+        "onboard_time": 1762067540,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1060310,
+        "num": 127906,
+        "word": "朱珠工伤",
+        "onboard_time": 1762059800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541744,
+        "num": 127167,
+        "word": "温峥嵘同时间出现在3个直播间",
+        "onboard_time": 1762062142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449852,
+        "num": 126128,
+        "word": "马思纯写给张晚意的信",
+        "onboard_time": 1762065921,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443168,
+        "num": 125284,
+        "word": "吴昕微信好友竟然这么少",
+        "onboard_time": 1762057520,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319633,
+        "num": 124960,
+        "word": "男子因彩礼轻生父母索赔20万",
+        "onboard_time": 1762066581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303988,
+        "num": 124286,
+        "word": "网友发帖寻找的3名小孩已去世",
+        "onboard_time": 1762064479,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301590,
+        "num": 123250,
+        "word": "关晓彤 你们是不认识孟子义吗",
+        "onboard_time": 1762051339,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123046,
+        "num": 123046,
+        "word": "明年开始卷谍战了",
+        "onboard_time": 1762059680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103145,
+        "num": 122983,
+        "word": "山河枕抱着必出丁禹兮神图的决心",
+        "onboard_time": 1762068441,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112673,
+        "num": 122540,
+        "word": "谁是零食届顶流",
+        "onboard_time": 1762068800,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287544,
+        "num": 121997,
+        "word": "疑似贩卖婴儿4人被抓",
+        "onboard_time": 1762064421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584227,
+        "num": 121864,
+        "word": "章泽天 烫头需谨慎",
+        "onboard_time": 1762062620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278895,
+        "num": 121332,
+        "word": "警方通报怀化3名被拐婴儿被解救",
+        "onboard_time": 1762065799,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 279640,
+        "num": 121186,
+        "word": "朱珠情商太高了",
+        "onboard_time": 1762066519,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164250,
+        "num": 120821,
+        "word": "经常视奸自己的朋友圈",
+        "onboard_time": 1762067300,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141944,
+        "num": 120333,
+        "word": "杨紫连续三年说准MLB冠军",
+        "onboard_time": 1762067000,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 124381,
+        "num": 120066,
+        "word": "坠河去世姐弟俩母亲痛哭发声",
+        "onboard_time": 1762068681,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119724,
+        "num": 119724,
+        "word": "你只需要学4小时",
+        "onboard_time": 1762067480,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 445932,
+        "num": 119243,
+        "word": "网传印度人中国街头随地大小便",
+        "onboard_time": 1762063280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89716,
+        "num": 119164,
+        "word": "刘宪华乌镇录制向往的生活",
+        "onboard_time": 1762062200,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129251,
+        "num": 118228,
+        "word": "怪不得舞蹈生都喜欢穿长羽绒服",
+        "onboard_time": 1762068140,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81152,
+        "num": 117601,
+        "word": "陈星旭录地球超新鲜前私信王玉雯求带",
+        "onboard_time": 1762067660,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117537,
+        "num": 117537,
+        "word": "陈小春儿子全英发言",
+        "onboard_time": 1762064240,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116209,
+        "num": 116209,
+        "word": "肖战怎么越来越嫩了",
+        "onboard_time": 1762068020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115352,
+        "num": 115352,
+        "word": "湖南一男子夜晚钓鱼被当猎物枪击",
+        "onboard_time": 1762058599,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 110471,
+        "word": "1岁孩子住美高梅酒店被毒虫咬伤",
+        "onboard_time": 1762060760,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24227,
+        "num": 110381,
+        "word": "当地回应村民筹30万修路10年未动工",
+        "onboard_time": 1762068380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57044,
+        "num": 109217,
+        "word": "大学也在建家长群了",
+        "onboard_time": 1762068860,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 15551,
+        "num": 107572,
+        "word": "Red即兴真是即兴",
+        "onboard_time": 1762068140,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31224,
+        "num": 106458,
+        "word": "宋亚轩 最萌的脸做最猛的动作",
+        "onboard_time": 1762068079,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99810,
+        "num": 106171,
+        "word": "MRC对战Gr",
+        "onboard_time": 1762067361,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105340,
+        "num": 105340,
+        "word": "偶遇angelababy和闺蜜逛街",
+        "onboard_time": 1762056261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100568,
+        "num": 100568,
+        "word": "多人在水库岸边放生猫目击者发声",
+        "onboard_time": 1762065200,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98401,
+        "num": 98401,
+        "word": "新衣服一定要洗了再穿",
+        "onboard_time": 1762051700,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94774,
+        "num": 94774,
+        "word": "用完的吹风机千万不要放在浴室",
+        "onboard_time": 1762068740,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91673,
+        "num": 91673,
+        "word": "央视再曝医美陷阱",
+        "onboard_time": 1762065620,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91593,
+        "num": 91593,
+        "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
+        "onboard_time": 1762064479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83909,
+        "num": 83909,
+        "word": "网友偶遇孙颖莎开心合影",
+        "onboard_time": 1762068740,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82711,
+        "num": 82711,
+        "word": "幼儿园园长被查曾说绝不触碰红线",
+        "onboard_time": 1762066941,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64227,
+        "num": 80616,
+        "word": "苏超泰州队冠军",
+        "onboard_time": 1762004724,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束韩国之行#"
+    }
+  }
+}
