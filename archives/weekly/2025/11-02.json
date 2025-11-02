@@ -1,7 +1,15 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762040213877,
+  "endTime": 1762048965098,
   "band_list": [
+    {
+      "raw_hot": 996383,
+      "num": 1159421,
+      "word": "马斯克称5年后不再有手机和App",
+      "onboard_time": 1762045100,
+      "rank": 0,
+      "category": "数码,互联网"
+    },
     {
       "raw_hot": 872476,
       "num": 273890,
@@ -17,6 +25,14 @@
       "onboard_time": 1762007963,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 591035,
+      "num": 591035,
+      "word": "12306部分车票带宠字",
+      "onboard_time": 1762046539,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537743,
@@ -44,11 +60,19 @@
     },
     {
       "raw_hot": 484876,
-      "num": 159246,
+      "num": 172422,
       "word": "男子杀人后淡定去被害人家吃饭",
       "onboard_time": 1762011801,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410134,
+      "num": 410134,
+      "word": "安世中国不存在违约行为",
+      "onboard_time": 1762046360,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 392107,
@@ -57,6 +81,22 @@
       "onboard_time": 1762009344,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388167,
+      "num": 388167,
+      "word": "安世中国郑重声明",
+      "onboard_time": 1762047681,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 363139,
+      "num": 363139,
+      "word": "苏超冠军奖励",
+      "onboard_time": 1762040418,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 362532,
@@ -83,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308117,
+      "num": 170627,
+      "word": "叶童迪丽热巴穿Prada的女王",
+      "onboard_time": 1762038495,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282765,
       "num": 282765,
       "word": "泰州 一黑到底",
       "onboard_time": 1762008983,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282629,
+      "num": 161731,
+      "word": "妈妈有你有事业没有老公",
+      "onboard_time": 1762042459,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 267538,
@@ -115,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237070,
+      "num": 129721,
+      "word": "赵樱子曝孟子义上综艺和她有关系",
+      "onboard_time": 1762038616,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233359,
       "num": 172779,
       "word": "赵今麦穿了miumiu珍藏定制系列",
@@ -131,12 +195,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209118,
-      "num": 74944,
-      "word": "赵樱子曝孟子义上综艺和她有关系",
-      "onboard_time": 1762038616,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 203489,
+      "num": 203489,
+      "word": "刘学义说唐嫣演戏敬业专业",
+      "onboard_time": 1762041378,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202534,
+      "num": 202534,
+      "word": "杨瀚森将派至发展联盟进行训练",
+      "onboard_time": 1762046300,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 199679,
@@ -155,12 +227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190339,
+      "num": 157280,
+      "word": "会穿衣服是一种超绝的能力",
+      "onboard_time": 1762039758,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
       "onboard_time": 1762011501,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174397,
+      "num": 174397,
+      "word": "高铁宠物托运指南",
+      "onboard_time": 1762041499,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172747,
@@ -176,6 +264,14 @@
       "word": "全国1%人口抽样调查",
       "onboard_time": 1762006585,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164022,
+      "num": 164022,
+      "word": "第15届全运会火炬传递",
+      "onboard_time": 1762046539,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -195,12 +291,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150618,
+      "num": 150618,
+      "word": "法院回应法官直播卖螃蟹",
+      "onboard_time": 1762039577,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149513,
       "num": 277799,
       "word": "无限暖暖",
       "onboard_time": 1761999321,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147521,
+      "num": 127664,
+      "word": "自闭症男孩身亡涉事老师失联未道歉",
+      "onboard_time": 1762043719,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143711,
@@ -243,12 +355,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126722,
+      "num": 126722,
+      "word": "侯明昊演技",
+      "onboard_time": 1762042159,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122854,
+      "num": 122854,
+      "word": "冬天真不建议你吃太多烤红薯",
+      "onboard_time": 1762041079,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121356,
       "num": 276179,
       "word": "久酷采访",
       "onboard_time": 1762010783,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117378,
+      "num": 136968,
+      "word": "张真源缺席奔跑吧新疆站",
+      "onboard_time": 1762048399,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 115347,
@@ -299,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103555,
-      "num": 75084,
-      "word": "叶童迪丽热巴穿Prada的女王",
-      "onboard_time": 1762038495,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102796,
       "num": 111295,
       "word": "邓紫棋这次真的不一样",
@@ -321,6 +449,38 @@
       "onboard_time": 1761996259,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100600,
+      "num": 133498,
+      "word": "一句她哪都比你好扎心了",
+      "onboard_time": 1762040958,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99076,
+      "num": 99076,
+      "word": "冬季睡衣应该多久洗一次",
+      "onboard_time": 1762044559,
+      "rank": 28,
+      "category": "科学科普,时尚"
+    },
+    {
+      "raw_hot": 97924,
+      "num": 97924,
+      "word": "27岁脑子一热给自己报了26年高考",
+      "onboard_time": 1762039098,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97892,
+      "num": 114186,
+      "word": "又一家电巨头官宣造车",
+      "onboard_time": 1762048099,
+      "rank": 25,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 97563,
@@ -339,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94150,
+      "num": 94150,
+      "word": "荷兰安世半导体无中生有恶意抹黑",
+      "onboard_time": 1762047318,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93052,
       "num": 158534,
       "word": "没人告诉我汪苏泷裤腿上是字啊",
@@ -355,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91857,
+      "num": 157647,
+      "word": "苏超球迷称度过了不一样的2025",
+      "onboard_time": 1762012761,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91697,
       "num": 91697,
       "word": "如果感到迷茫就去读书吧",
@@ -363,12 +539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91107,
-      "num": 73653,
-      "word": "27岁脑子一热给自己报了26年高考",
-      "onboard_time": 1762039098,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 90599,
+      "num": 90599,
+      "word": "勇士vs步行者",
+      "onboard_time": 1762048099,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 90095,
@@ -403,6 +579,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85520,
+      "num": 85520,
+      "word": "李白没想到几千年后还有这一劫",
+      "onboard_time": 1762044020,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85035,
+      "num": 85035,
+      "word": "英国一列火车上多人被刺",
+      "onboard_time": 1762047740,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84462,
       "num": 157861,
       "word": "众星发文悼念屠颖",
@@ -419,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82131,
-      "num": 157647,
-      "word": "苏超球迷称度过了不一样的2025",
-      "onboard_time": 1762012761,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 81325,
+      "num": 81325,
+      "word": "Perfect感谢Flandre一对一练习",
+      "onboard_time": 1762039398,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 76842,
@@ -467,12 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72047,
-      "num": 61393,
-      "word": "Perfect感谢Flandre一对一练习",
-      "onboard_time": 1762039398,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 72790,
+      "num": 72790,
+      "word": "全红婵全运会备战画面",
+      "onboard_time": 1762047259,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72556,
+      "num": 72556,
+      "word": "陈乔恩婉拒催生",
+      "onboard_time": 1762048218,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 69598,
@@ -483,12 +683,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67567,
+      "num": 72550,
+      "word": "莫兰特被球队禁赛一场",
+      "onboard_time": 1762046421,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67207,
+      "num": 72535,
+      "word": "杨瀚森预计对阵湖人归队",
+      "onboard_time": 1762048099,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66993,
+      "num": 72516,
+      "word": "全红婵出战女团双人10米台",
+      "onboard_time": 1762048279,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65433,
       "num": 157081,
       "word": "南通队长哭了",
       "onboard_time": 1762010244,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62693,
+      "num": 72500,
+      "word": "泰州队复刻阿根廷队夺冠世界杯动作",
+      "onboard_time": 1762048760,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60131,
+      "num": 72469,
+      "word": "吃辣带来的三大健康红利",
+      "onboard_time": 1762047499,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 59516,
@@ -539,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45961,
-      "num": 45961,
-      "word": "会穿衣服是一种超绝的能力",
-      "onboard_time": 1762039758,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 43820,
       "num": 43820,
       "word": "现在小孩的玩具真高级",
@@ -595,16 +827,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33429,
-      "num": 38193,
-      "word": "法院回应法官直播卖螃蟹",
-      "onboard_time": 1762039577,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31893,
-      "num": 306294,
+      "num": 431656,
       "word": "中国人有7张太空全家福了",
       "onboard_time": 1761987741,
       "rank": 2,
