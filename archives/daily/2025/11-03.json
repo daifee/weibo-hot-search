@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762155634013,
+  "endTime": 1762159009173,
   "band_list": [
     {
       "raw_hot": 2331125,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2260781,
+      "num": 329230,
+      "word": "蒲熠星 通告费",
+      "onboard_time": 1762155380,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1849546,
       "num": 331562,
       "word": "白鹿 美神",
       "onboard_time": 1762153161,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1364666,
-      "num": 329230,
-      "word": "蒲熠星 通告费",
-      "onboard_time": 1762155380,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1279637,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 825191,
+      "num": 1132030,
+      "word": "被骗到缅北男生刷到自己新闻",
+      "onboard_time": 1762152559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 714663,
       "num": 1114346,
       "word": "亲属想侵吞3姐妹亡父赔偿款",
@@ -55,6 +63,14 @@
       "num": 534585,
       "word": "陈赫带女儿出国两眼一睁就是找粥",
       "onboard_time": 1762152921,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 690035,
+      "num": 690035,
+      "word": "白鹿王鹤棣坐一起",
+      "onboard_time": 1762155860,
       "rank": 1,
       "category": "综艺"
     },
@@ -171,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506085,
+      "num": 125770,
+      "word": "山姆 阿里系",
+      "onboard_time": 1762156281,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490416,
       "num": 239300,
       "word": "全红婵被观众的娃娃雨淹没了",
@@ -203,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455589,
-      "num": 455589,
-      "word": "被骗到缅北男生刷到自己新闻",
-      "onboard_time": 1762152559,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 453393,
       "num": 882542,
       "word": "何晟铭称于正还没有放下",
@@ -225,6 +241,14 @@
       "onboard_time": 1762093643,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425735,
+      "num": 425735,
+      "word": "全运会首个跳水0分",
+      "onboard_time": 1762154840,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 416809,
@@ -283,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345439,
+      "num": 345439,
+      "word": "全红婵14岁和18岁对比照",
+      "onboard_time": 1762152802,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345347,
       "num": 209228,
       "word": "感觉她上的才是真大学",
@@ -315,20 +347,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 334093,
-      "num": 334093,
-      "word": "全红婵14岁和18岁对比照",
-      "onboard_time": 1762152802,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332997,
       "num": 145586,
       "word": "月经量少的根源其实不在子宫",
       "onboard_time": 1762125258,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 323337,
+      "num": 323337,
+      "word": "中国对瑞典免签",
+      "onboard_time": 1762157241,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 319011,
@@ -467,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246303,
-      "num": 182266,
-      "word": "全运会首个跳水0分",
-      "onboard_time": 1762154840,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240259,
       "num": 240259,
       "word": "全体搜救队员静候航天员凯旋",
@@ -603,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200087,
+      "num": 200087,
+      "word": "延长对法国等免签至2026年底",
+      "onboard_time": 1762157361,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197735,
       "num": 197735,
       "word": "迪丽热巴新剧路透梦回关小迪",
@@ -657,6 +689,14 @@
       "onboard_time": 1762139840,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181423,
+      "num": 181423,
+      "word": "你缺的不是口红而是变美公式",
+      "onboard_time": 1762156581,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 180312,
@@ -731,6 +771,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 166312,
+      "num": 166312,
+      "word": "竞燃之夜阵容官宣",
+      "onboard_time": 1762157662,
+      "rank": 17,
+      "category": "电竞,综艺"
+    },
+    {
       "raw_hot": 165699,
       "num": 165699,
       "word": "第一个让他们演情侣的简直是天才",
@@ -771,6 +819,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160623,
+      "num": 160623,
+      "word": "京东直播比价发钱",
+      "onboard_time": 1762158382,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 159925,
+      "num": 159925,
+      "word": "考研的车门关上了",
+      "onboard_time": 1762157902,
+      "rank": 22,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 158497,
       "num": 158497,
       "word": "Wayward谈Kanavi琪亚娜",
@@ -785,6 +849,14 @@
       "onboard_time": 1762133060,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157503,
+      "num": 157503,
+      "word": "皮肤科医生眼中的护肤顺序",
+      "onboard_time": 1762156162,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157442,
@@ -1003,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125494,
+      "num": 125494,
+      "word": "男子称杀人40厘米刀是用来磨死皮",
+      "onboard_time": 1762157241,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "00后野人医学生自制荒野版蒙脱石散",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1762135100,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121478,
+      "num": 121478,
+      "word": "华为Mate70Air真机曝光",
+      "onboard_time": 1762156581,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 117943,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1762145062,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113922,
+      "num": 113922,
+      "word": "睡前一个动作把气血养回来",
+      "onboard_time": 1762152500,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112601,
@@ -1184,6 +1280,14 @@
       "word": "全红婵夺冠后秒变显眼包",
       "onboard_time": 1762134620,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107354,
+      "num": 107354,
+      "word": "孙颖莎奖杯多到差点放不下",
+      "onboard_time": 1762156702,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1307,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99055,
+      "num": 99055,
+      "word": "第一次见买奶茶送秋裤的",
+      "onboard_time": 1762157061,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98912,
       "num": 127093,
       "word": "第一次见自己哄自己的男主",
@@ -1387,14 +1499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94993,
-      "num": 94993,
-      "word": "睡前一个动作把气血养回来",
-      "onboard_time": 1762152500,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94973,
       "num": 94973,
       "word": "金条和金豆全线涨价",
@@ -1408,6 +1512,14 @@
       "word": "墨西哥一市长中枪身亡",
       "onboard_time": 1762136539,
       "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93799,
+      "num": 93799,
+      "word": "ICU抢救失败收到19万美元账单",
+      "onboard_time": 1762149140,
+      "rank": 40,
       "category": "海外新闻"
     },
     {
@@ -1499,6 +1611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89928,
+      "num": 89928,
+      "word": "全红婵领奖前甩头适应长发",
+      "onboard_time": 1762156882,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89598,
+      "num": 89598,
+      "word": "赴加拿大团队游恢复",
+      "onboard_time": 1762156940,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89555,
       "num": 105384,
       "word": "国考超35岁考生担心体检难通过",
@@ -1531,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88869,
+      "num": 88869,
+      "word": "王楚钦领衔WTT男单冠军榜",
+      "onboard_time": 1762158501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88716,
       "num": 88716,
       "word": "只有两家影城的鹤岗走出世界影后",
@@ -1553,6 +1689,14 @@
       "onboard_time": 1762131021,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87408,
+      "num": 160630,
+      "word": "山姆变得像盒马",
+      "onboard_time": 1762158442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87242,
@@ -1651,12 +1795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83277,
-      "num": 83277,
-      "word": "ICU抢救失败收到19万美元账单",
-      "onboard_time": 1762149140,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 83821,
+      "num": 128330,
+      "word": "迪丽热巴入选亚太U35行业先锋领袖",
+      "onboard_time": 1762156041,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 82939,
@@ -1689,6 +1833,14 @@
       "onboard_time": 1762151241,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80974,
+      "num": 80974,
+      "word": "为什么近视眯眼就能变清楚",
+      "onboard_time": 1762158741,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 80255,
@@ -1793,6 +1945,14 @@
       "onboard_time": 1762126579,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74456,
+      "num": 125856,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 74438,
@@ -1939,6 +2099,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 60717,
+      "num": 96927,
+      "word": "印度发射重量为4410公斤通信卫星",
+      "onboard_time": 1762157721,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59932,
       "num": 118882,
       "word": "杨紫回应拍完家业无缝进组生命树",
@@ -1961,6 +2129,14 @@
       "onboard_time": 1762143141,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54140,
+      "num": 99905,
+      "word": "张翰选二手车",
+      "onboard_time": 1762158382,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 50409,
@@ -2060,7 +2236,7 @@
     },
     {
       "raw_hot": 26177,
-      "num": 360709,
+      "num": 527169,
       "word": "关注第八届进博会",
       "onboard_time": 1762092380,
       "rank": 2,
@@ -2081,6 +2257,14 @@
       "onboard_time": 1762095323,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20232,
+      "num": 173606,
+      "word": "中国10天过境免签口岸再增5个",
+      "onboard_time": 1762138940,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18772,
@@ -2137,6 +2321,9 @@
     },
     {
       "word": "#书写亚太发展新愿景#"
+    },
+    {
+      "word": "#三组关键词看习近平韩国之行#"
     }
   ]
 }

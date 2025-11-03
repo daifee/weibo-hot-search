@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762155634013,
+  "endTime": 1762159009173,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -40,6 +40,14 @@
       "word": "王紫璇李鸿其官宣结婚",
       "onboard_time": 1762150942,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2260781,
+      "num": 329230,
+      "word": "蒲熠星 通告费",
+      "onboard_time": 1762155380,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1761992661,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1364666,
-      "num": 329230,
-      "word": "蒲熠星 通告费",
-      "onboard_time": 1762155380,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1291333,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 825191,
+      "num": 1132030,
+      "word": "被骗到缅北男生刷到自己新闻",
+      "onboard_time": 1762152559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819224,
       "num": 288138,
       "word": "中方强烈抗议高市早苗涉台错误言行",
@@ -401,6 +409,14 @@
       "onboard_time": 1762062142,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 690035,
+      "num": 690035,
+      "word": "白鹿王鹤棣坐一起",
+      "onboard_time": 1762155860,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 677715,
@@ -707,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506085,
+      "num": 125770,
+      "word": "山姆 阿里系",
+      "onboard_time": 1762156281,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504051,
       "num": 257898,
       "word": "长沙潮宗街墙体垮塌致2名女孩遇难",
@@ -875,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 455589,
-      "num": 455589,
-      "word": "被骗到缅北男生刷到自己新闻",
-      "onboard_time": 1762152559,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 453970,
       "num": 407121,
       "word": "高市早苗主动上前搂住智利总统",
@@ -960,6 +976,14 @@
       "word": "马龙妻子夏露分享舞蹈视频",
       "onboard_time": 1762082311,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 425735,
+      "num": 425735,
+      "word": "全运会首个跳水0分",
+      "onboard_time": 1762154840,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1195,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345439,
+      "num": 345439,
+      "word": "全红婵14岁和18岁对比照",
+      "onboard_time": 1762152802,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345347,
       "num": 209228,
       "word": "感觉她上的才是真大学",
@@ -1235,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 334093,
-      "num": 334093,
-      "word": "全红婵14岁和18岁对比照",
-      "onboard_time": 1762152802,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332997,
       "num": 145586,
       "word": "月经量少的根源其实不在子宫",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1762066519,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323337,
+      "num": 323337,
+      "word": "中国对瑞典免签",
+      "onboard_time": 1762157241,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 321450,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1762072460,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246303,
-      "num": 182266,
-      "word": "全运会首个跳水0分",
-      "onboard_time": 1762154840,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 242906,
@@ -2459,6 +2483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 200087,
+      "num": 200087,
+      "word": "延长对法国等免签至2026年底",
+      "onboard_time": 1762157361,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198669,
       "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
@@ -2761,6 +2793,14 @@
       "onboard_time": 1761986301,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181423,
+      "num": 181423,
+      "word": "你缺的不是口红而是变美公式",
+      "onboard_time": 1762156581,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 181364,
@@ -3075,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166312,
+      "num": 166312,
+      "word": "竞燃之夜阵容官宣",
+      "onboard_time": 1762157662,
+      "rank": 17,
+      "category": "电竞,综艺"
+    },
+    {
       "raw_hot": 166148,
       "num": 156747,
       "word": "前央视最帅主持人亚宁复出",
@@ -3243,12 +3291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160623,
+      "num": 160623,
+      "word": "京东直播比价发钱",
+      "onboard_time": 1762158382,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160223,
       "num": 160223,
       "word": "DRG巅峰对决狼队",
       "onboard_time": 1762008082,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159925,
+      "num": 159925,
+      "word": "考研的车门关上了",
+      "onboard_time": 1762157902,
+      "rank": 22,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 159811,
@@ -3321,6 +3385,14 @@
       "onboard_time": 1762007304,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157503,
+      "num": 157503,
+      "word": "皮肤科医生眼中的护肤顺序",
+      "onboard_time": 1762156162,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157442,
@@ -4523,6 +4595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 125494,
+      "num": 125494,
+      "word": "男子称杀人40厘米刀是用来磨死皮",
+      "onboard_time": 1762157241,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125320,
       "num": 125320,
       "word": "我最羡慕的一种人",
@@ -4745,6 +4825,14 @@
       "onboard_time": 1762063821,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121478,
+      "num": 121478,
+      "word": "华为Mate70Air真机曝光",
+      "onboard_time": 1762156581,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 121416,
@@ -5105,6 +5193,14 @@
       "onboard_time": 1762145062,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113922,
+      "num": 113922,
+      "word": "睡前一个动作把气血养回来",
+      "onboard_time": 1762152500,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113326,
@@ -5481,6 +5577,14 @@
       "onboard_time": 1762096580,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107354,
+      "num": 107354,
+      "word": "孙颖莎奖杯多到差点放不下",
+      "onboard_time": 1762156702,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 107341,
@@ -6083,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99055,
+      "num": 99055,
+      "word": "第一次见买奶茶送秋裤的",
+      "onboard_time": 1762157061,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "Uzi预测比分",
@@ -6435,14 +6547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94993,
-      "num": 94993,
-      "word": "睡前一个动作把气血养回来",
-      "onboard_time": 1762152500,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94973,
       "num": 94973,
       "word": "金条和金豆全线涨价",
@@ -6497,6 +6601,14 @@
       "onboard_time": 1762071978,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93799,
+      "num": 93799,
+      "word": "ICU抢救失败收到19万美元账单",
+      "onboard_time": 1762149140,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93690,
@@ -6827,6 +6939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89928,
+      "num": 89928,
+      "word": "全红婵领奖前甩头适应长发",
+      "onboard_time": 1762156882,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89909,
       "num": 89909,
       "word": "帝丹校花毛利兰",
@@ -6841,6 +6961,14 @@
       "onboard_time": 1761979580,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89598,
+      "num": 89598,
+      "word": "赴加拿大团队游恢复",
+      "onboard_time": 1762156940,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89555,
@@ -6896,6 +7024,14 @@
       "word": "全红婵无论胖瘦都压住了水花",
       "onboard_time": 1762154721,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88869,
+      "num": 88869,
+      "word": "王楚钦领衔WTT男单冠军榜",
+      "onboard_time": 1762158501,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -6993,6 +7129,14 @@
       "onboard_time": 1762056079,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87408,
+      "num": 160630,
+      "word": "山姆变得像盒马",
+      "onboard_time": 1762158442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87276,
@@ -7307,6 +7451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83821,
+      "num": 128330,
+      "word": "迪丽热巴入选亚太U35行业先锋领袖",
+      "onboard_time": 1762156041,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83708,
       "num": 127701,
       "word": "陈星旭录地球超新鲜前私信王玉雯求带",
@@ -7337,14 +7489,6 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 83277,
-      "num": 83277,
-      "word": "ICU抢救失败收到19万美元账单",
-      "onboard_time": 1762149140,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82945,
@@ -7489,6 +7633,14 @@
       "onboard_time": 1762055359,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80974,
+      "num": 80974,
+      "word": "为什么近视眯眼就能变清楚",
+      "onboard_time": 1762158741,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 80740,
@@ -7817,6 +7969,14 @@
       "onboard_time": 1761974481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74456,
+      "num": 125856,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 74438,
@@ -8443,6 +8603,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 60717,
+      "num": 96927,
+      "word": "印度发射重量为4410公斤通信卫星",
+      "onboard_time": 1762157721,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60131,
       "num": 72469,
       "word": "吃辣带来的三大健康红利",
@@ -8609,6 +8777,14 @@
       "onboard_time": 1761918563,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54140,
+      "num": 99905,
+      "word": "张翰选二手车",
+      "onboard_time": 1762158382,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 53314,
@@ -9347,6 +9523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20232,
+      "num": 173606,
+      "word": "中国10天过境免签口岸再增5个",
+      "onboard_time": 1762138940,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19750,
       "num": 103121,
       "word": "掉进李沁的魅力陷阱",
@@ -9564,6 +9748,9 @@
     },
     {
       "word": "#书写亚太发展新愿景#"
+    },
+    {
+      "word": "#三组关键词看习近平韩国之行#"
     }
   ]
 }
