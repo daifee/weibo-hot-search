@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 02:36:02
+本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 02:46:51
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,13 @@ KPL一千零一夜（热度：57734）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23369%E8%87%B4%E6%AD%89%23" target="weibo">
-369致歉（热度：35201）
+369致歉（热度：37941）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%8B%89%E5%A6%82%E9%97%AF%E5%85%A5%E5%B0%8F%E8%8B%B1%E5%A8%98%E5%AE%B6%E6%8A%8A%E5%B0%8F%E8%8B%B1%E5%90%93%E5%93%AD%23" target="weibo">
+上拉如闯入小英娘家把小英吓哭（热度：31548）
 </a>
 </li>
 
@@ -383,12 +389,6 @@ KPL一千零一夜（热度：57734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E4%BD%93%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%23" target="weibo">
 固体杨枝甘露（热度：29181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%8B%89%E5%A6%82%E9%97%AF%E5%85%A5%E5%B0%8F%E8%8B%B1%E5%A8%98%E5%AE%B6%E6%8A%8A%E5%B0%8F%E8%8B%B1%E5%90%93%E5%93%AD%23" target="weibo">
-上拉如闯入小英娘家把小英吓哭（热度：28781）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762194962527,
+  "endTime": 1762195611889,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -7107,6 +7107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37941,
+      "num": 31794,
+      "word": "369致歉",
+      "onboard_time": 1762192515,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37721,
       "num": 174009,
       "word": "馆长到厦门大伙齐喊欢迎回家",
@@ -7163,14 +7171,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 35201,
-      "num": 29900,
-      "word": "369致歉",
-      "onboard_time": 1762192515,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 34409,
       "num": 51765,
       "word": "村委会回应公园密集扶手已拆除",
@@ -7217,6 +7217,14 @@
       "onboard_time": 1762168822,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31548,
+      "num": 31548,
+      "word": "上拉如闯入小英娘家把小英吓哭",
+      "onboard_time": 1762193114,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 31280,
@@ -7313,14 +7321,6 @@
       "onboard_time": 1762159462,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28781,
-      "num": 28781,
-      "word": "上拉如闯入小英娘家把小英吓哭",
-      "onboard_time": 1762193114,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 28671,

@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762194962527,
+  "endTime": 1762195611889,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -459,12 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35201,
-      "num": 29900,
+      "raw_hot": 37941,
+      "num": 31794,
       "word": "369致歉",
       "onboard_time": 1762192515,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31548,
+      "num": 31548,
+      "word": "上拉如闯入小英娘家把小英吓哭",
+      "onboard_time": 1762193114,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 31143,
@@ -497,14 +505,6 @@
       "onboard_time": 1762190236,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 28781,
-      "num": 28781,
-      "word": "上拉如闯入小英娘家把小英吓哭",
-      "onboard_time": 1762193114,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 25867,
