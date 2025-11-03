@@ -1,0 +1,410 @@
+{
+  "runTime": 1762174491778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 554003,
+        "num": 1088640,
+        "word": "外国想涨价就涨如今成功国产",
+        "onboard_time": 1762169782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508522,
+        "num": 508522,
+        "word": "何炅谢娜一出场我的青春回来了",
+        "onboard_time": 1762168702,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2089,
+        "num": 426613,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762092380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406609,
+        "num": 406609,
+        "word": "刘宇宁衣服比我人还长",
+        "onboard_time": 1762170502,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227149,
+        "num": 227149,
+        "word": "山姆变得像盒马",
+        "onboard_time": 1762158442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204901,
+        "num": 204901,
+        "word": "中国制造让碳纤维价格去掉一个0",
+        "onboard_time": 1762169841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307480,
+        "num": 199527,
+        "word": "成毅天地剑心戏份",
+        "onboard_time": 1762170803,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245706,
+        "num": 197084,
+        "word": "微博视界大会内场",
+        "onboard_time": 1762164681,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189737,
+        "num": 189737,
+        "word": "T1严正声明",
+        "onboard_time": 1762165281,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167331,
+        "num": 167331,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939138,
+        "num": 166782,
+        "word": "房主任搂着杨幂给女儿录视频",
+        "onboard_time": 1762168763,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 891278,
+        "num": 166217,
+        "word": "她一上午挣了我一个月的工资",
+        "onboard_time": 1762171641,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 693285,
+        "num": 164313,
+        "word": "符龙飞 双爹带娃的一天",
+        "onboard_time": 1762170803,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544290,
+        "num": 163632,
+        "word": "金靖曝陈都灵经常看恶评警醒自己",
+        "onboard_time": 1762169241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331249,
+        "num": 163110,
+        "word": "巨型吊牌 防退货",
+        "onboard_time": 1762161322,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328765,
+        "num": 161323,
+        "word": "张凌赫 daddy级别",
+        "onboard_time": 1762168042,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209276,
+        "num": 160826,
+        "word": "王鹤棣白鹿台下模仿乖乖女名场面",
+        "onboard_time": 1762172003,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194126,
+        "num": 159222,
+        "word": "鬼灭之刃无限城篇定档",
+        "onboard_time": 1762164800,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 194020,
+        "num": 158989,
+        "word": "Kanavi谈输给T1",
+        "onboard_time": 1762172481,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158053,
+        "num": 158053,
+        "word": "特朗普70分钟采访提及中国41次",
+        "onboard_time": 1762173982,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 619153,
+        "num": 157381,
+        "word": "蒲熠星回应通告费",
+        "onboard_time": 1762164561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401870,
+        "num": 156391,
+        "word": "白鹿第二套",
+        "onboard_time": 1762166061,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302609,
+        "num": 154730,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271195,
+        "num": 153136,
+        "word": "杨幂 蓝孔雀女王",
+        "onboard_time": 1762159222,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152294,
+        "num": 152294,
+        "word": "关晓彤张凌赫好长的两条人",
+        "onboard_time": 1762172841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311755,
+        "num": 152093,
+        "word": "蒲熠星 通告费",
+        "onboard_time": 1762155380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150252,
+        "num": 150252,
+        "word": "工行建行暂停提取实体金条",
+        "onboard_time": 1762172661,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 140163,
+        "num": 140163,
+        "word": "李现要准备双份份子钱了",
+        "onboard_time": 1762168283,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133248,
+        "num": 133248,
+        "word": "王玉雯 特别喜欢爷爷与狗的组合",
+        "onboard_time": 1762172061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110807,
+        "num": 125985,
+        "word": "五稂液 五粮液",
+        "onboard_time": 1762172782,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119854,
+        "num": 125089,
+        "word": "为什么中产害怕山姆阿里化",
+        "onboard_time": 1762172661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137086,
+        "num": 124924,
+        "word": "曝LPL转会期新规",
+        "onboard_time": 1762171641,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124508,
+        "num": 124508,
+        "word": "王鹤棣毛晓彤cha了新歌",
+        "onboard_time": 1762174281,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121932,
+        "num": 121932,
+        "word": "等我小了也要檀健次带我",
+        "onboard_time": 1762174222,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114586,
+        "num": 114586,
+        "word": "胎儿在妈妈肚子里都在干嘛",
+        "onboard_time": 1762173322,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113307,
+        "num": 113307,
+        "word": "张凌赫刘宇宁快把合影交出来",
+        "onboard_time": 1762173741,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "早睡时你的器官belike",
+        "onboard_time": 1762174161,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111680,
+        "num": 111680,
+        "word": "网传唐嫣新剧撤档",
+        "onboard_time": 1762169061,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91715,
+        "num": 110242,
+        "word": "南京大学称999元帝王蟹比市场价便宜",
+        "onboard_time": 1762171823,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 109465,
+        "word": "短剧演员贴脸给内娱一些震撼",
+        "onboard_time": 1762173502,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109310,
+        "num": 109310,
+        "word": "沈月发型",
+        "onboard_time": 1762172602,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106739,
+        "num": 106739,
+        "word": "微博视界大会直播",
+        "onboard_time": 1762152380,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "微博视界大会座位",
+        "onboard_time": 1762168161,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103226,
+        "num": 103226,
+        "word": "Cat即将回归赛场",
+        "onboard_time": 1762167021,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91193,
+        "num": 101215,
+        "word": "中国空间站4只鼠鼠征名",
+        "onboard_time": 1762169662,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100364,
+        "num": 100364,
+        "word": "白鹿刘宇宁年度榜样演员",
+        "onboard_time": 1762170322,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 89637,
+        "num": 99795,
+        "word": "当地回应男孩手术被切六个器官",
+        "onboard_time": 1762173622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74008,
+        "num": 99222,
+        "word": "陈若琳来看全红婵比赛了",
+        "onboard_time": 1762169961,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64919,
+        "num": 98500,
+        "word": "全运会乒乓球启用新赛制",
+        "onboard_time": 1762170921,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64063,
+        "num": 98272,
+        "word": "孙颖莎备战全运狠劲十足",
+        "onboard_time": 1762172421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}
