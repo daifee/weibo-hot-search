@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762140319585,
+  "endTime": 1762141134705,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -235,20 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 851369,
+      "num": 1136219,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762137440,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 819224,
       "num": 288138,
       "word": "中方强烈抗议高市早苗涉台错误言行",
       "onboard_time": 1762006824,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 818778,
-      "num": 1131004,
-      "word": "唐朝诡事录",
-      "onboard_time": 1762137440,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 806384,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521536,
+      "num": 195082,
+      "word": "李茂因弦子生孩子晕倒大哭",
+      "onboard_time": 1762138159,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515010,
       "num": 252759,
       "word": "张柏芝拒绝儿子母亲节礼物",
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478113,
+      "num": 185529,
+      "word": "金价",
+      "onboard_time": 1762133420,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 477030,
       "num": 477030,
       "word": "全红婵十五运首金",
@@ -753,14 +769,6 @@
       "onboard_time": 1761965179,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 467553,
-      "num": 185529,
-      "word": "金价",
-      "onboard_time": 1762133420,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 465320,
@@ -809,14 +817,6 @@
       "onboard_time": 1761988880,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446104,
-      "num": 195082,
-      "word": "李茂因弦子生孩子晕倒大哭",
-      "onboard_time": 1762138159,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 444288,
@@ -1067,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350841,
+      "num": 192465,
+      "word": "Faker切屏同时预判金身",
+      "onboard_time": 1762138099,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345461,
       "num": 165246,
       "word": "耳聋小猫因为可爱被导演选中",
       "onboard_time": 1761961220,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345347,
+      "num": 193721,
+      "word": "感觉她上的才是真大学",
+      "onboard_time": 1762137140,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 345129,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1762066519,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322465,
-      "num": 193721,
-      "word": "感觉她上的才是真大学",
-      "onboard_time": 1762137140,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 321450,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1761968660,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 305376,
+      "num": 305376,
+      "word": "全红婵的减肥计划精确到克",
+      "onboard_time": 1762133300,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 304882,
@@ -1387,14 +1403,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 277364,
-      "num": 192465,
-      "word": "Faker切屏同时预判金身",
-      "onboard_time": 1762138099,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 276944,
       "num": 203314,
       "word": "杨国福回应1斤豆芽28元",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1762089442,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272636,
+      "num": 272636,
+      "word": "金吾不禁开机",
+      "onboard_time": 1762139419,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 270955,
@@ -1723,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236193,
-      "num": 236193,
-      "word": "全红婵的减肥计划精确到克",
-      "onboard_time": 1762133300,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234746,
       "num": 267546,
       "word": "药中茅台片仔癀跌破官方指导价",
@@ -1843,6 +1851,14 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 220717,
+      "num": 220717,
+      "word": "间谍加大对我国粮食领域渗透",
+      "onboard_time": 1762125738,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220139,
       "num": 220139,
       "word": "天猫双11又双叒叕发万元大券包",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1762001901,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 217730,
-      "num": 217730,
-      "word": "间谍加大对我国粮食领域渗透",
-      "onboard_time": 1762125738,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217447,
@@ -1987,6 +1995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209879,
+      "num": 209879,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 209397,
       "num": 209397,
       "word": "全红婵复出首战告捷",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1761966379,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208241,
-      "num": 208241,
-      "word": "台湾不能再吃战争的苦",
-      "onboard_time": 1762135100,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 208204,
@@ -2171,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201524,
+      "num": 118344,
+      "word": "发完分手宣言的人结婚了",
+      "onboard_time": 1762140623,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201128,
       "num": 504208,
       "word": "Gumayusi回应淘汰AL",
@@ -2219,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197735,
+      "num": 197735,
+      "word": "迪丽热巴新剧路透梦回关小迪",
+      "onboard_time": 1762136899,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197400,
       "num": 165273,
       "word": "麻辣烫店主离店2男孩对监控数签子",
@@ -2243,28 +2267,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 195817,
-      "num": 195817,
-      "word": "金吾不禁开机",
-      "onboard_time": 1762139419,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195425,
       "num": 160638,
       "word": "房子基础穷装就不基础",
       "onboard_time": 1761984921,
       "rank": 20,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 195131,
-      "num": 195131,
-      "word": "迪丽热巴新剧路透梦回关小迪",
-      "onboard_time": 1762136899,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 194802,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1762090643,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193160,
+      "num": 175241,
+      "word": "驻日美军接连发生性暴力事件",
+      "onboard_time": 1762139419,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193096,
@@ -2467,6 +2483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183194,
+      "num": 183194,
+      "word": "王建军被双开",
+      "onboard_time": 1762140562,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
@@ -2585,6 +2609,22 @@
       "onboard_time": 1762005744,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175442,
+      "num": 175442,
+      "word": "单依纯献唱日掛中天主题曲",
+      "onboard_time": 1762140440,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174405,
+      "num": 174405,
+      "word": "父亲称被害护士开始不知男友已婚已育",
+      "onboard_time": 1762136660,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174397,
@@ -2851,14 +2891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162065,
-      "num": 162065,
-      "word": "父亲称被害护士开始不知男友已婚已育",
-      "onboard_time": 1762136660,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161487,
       "num": 161487,
       "word": "李一桐的剧宣永远大大方方",
@@ -3049,6 +3081,14 @@
       "onboard_time": 1762004182,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154823,
+      "num": 117152,
+      "word": "剑网3新品金发",
+      "onboard_time": 1762140562,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 154442,
@@ -3411,14 +3451,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 143248,
-      "num": 143248,
-      "word": "驻日美军接连发生性暴力事件",
-      "onboard_time": 1762139419,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143053,
       "num": 120773,
       "word": "84岁日本赌王遭子女设局痛失财产",
@@ -3675,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134513,
+      "num": 163735,
+      "word": "微博视界大会全阵容",
+      "onboard_time": 1762140920,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133846,
       "num": 166684,
       "word": "陈添祥红毯压轴",
@@ -3779,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130917,
+      "num": 130917,
+      "word": "240小时过境免签口岸数再增5个",
+      "onboard_time": 1762139121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130890,
       "num": 130890,
       "word": "陈芋汐想为家乡争光",
@@ -3841,14 +3889,6 @@
       "onboard_time": 1762074800,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129091,
-      "num": 129091,
-      "word": "240小时过境免签口岸数再增5个",
-      "onboard_time": 1762139121,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128973,
@@ -4097,6 +4137,14 @@
       "onboard_time": 1762003343,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123479,
+      "num": 123479,
+      "word": "这个凶手不是影帝就是影后",
+      "onboard_time": 1762140261,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123318,
@@ -4483,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116169,
+      "num": 116169,
+      "word": "为什么医院椅子都是滑溜溜的",
+      "onboard_time": 1762139899,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116111,
       "num": 116111,
       "word": "贺峻霖开个唱跳班吧",
@@ -4713,6 +4769,14 @@
       "onboard_time": 1762093882,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109348,
+      "num": 109348,
+      "word": "艺考新要求",
+      "onboard_time": 1762139419,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 108928,
@@ -5179,6 +5243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102312,
+      "num": 102312,
+      "word": "遭男友杀害护士生前日记曝光",
+      "onboard_time": 1762140139,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102308,
       "num": 102308,
       "word": "王楚然一直想认识的邻家女孩",
@@ -5275,6 +5347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100960,
+      "num": 105411,
+      "word": "丁禹兮也太会演心动了",
+      "onboard_time": 1762139899,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100856,
       "num": 100856,
       "word": "多喝热水的含金量还在上升",
@@ -5353,6 +5433,14 @@
       "onboard_time": 1761966379,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99613,
+      "num": 99613,
+      "word": "国际金价再现断崖式下跌",
+      "onboard_time": 1762140679,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 99587,
@@ -5739,14 +5827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94163,
-      "num": 94163,
-      "word": "丁禹兮也太会演心动了",
-      "onboard_time": 1762139899,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93940,
       "num": 93940,
       "word": "内娱都按照张予曦这个标准卷起来",
@@ -5931,12 +6011,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 91410,
-      "num": 91410,
-      "word": "为什么医院椅子都是滑溜溜的",
-      "onboard_time": 1762139899,
-      "rank": 36,
-      "category": "科学科普"
+      "raw_hot": 91308,
+      "num": 91308,
+      "word": "当你兄弟陪你去看中医",
+      "onboard_time": 1762141040,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 91250,
@@ -5945,14 +6025,6 @@
       "onboard_time": 1762081520,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 91059,
-      "num": 91059,
-      "word": "艺考新要求",
-      "onboard_time": 1762139419,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 90947,
@@ -6065,6 +6137,14 @@
       "onboard_time": 1761979580,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89555,
+      "num": 105384,
+      "word": "国考超35岁考生担心体检难通过",
+      "onboard_time": 1762140202,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 89549,
@@ -6259,6 +6339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86803,
+      "num": 91403,
+      "word": "天道鸿元隐匿网上敛财500万奸淫10人",
+      "onboard_time": 1762139479,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86785,
       "num": 90141,
       "word": "苏新皓别喂了吃不过来了",
@@ -6395,14 +6483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85105,
-      "num": 85105,
-      "word": "遭男友杀害护士生前日记曝光",
-      "onboard_time": 1762140139,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85047,
       "num": 85047,
       "word": "香山红叶",
@@ -6513,14 +6593,6 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 83148,
-      "num": 83148,
-      "word": "这个凶手不是影帝就是影后",
-      "onboard_time": 1762140261,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 82945,
@@ -7147,14 +7219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69962,
-      "num": 91199,
-      "word": "国考超35岁考生担心体检难通过",
-      "onboard_time": 1762140202,
-      "rank": 39,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 69689,
       "num": 89174,
       "word": "小伙理发变投资砸了40多万",
@@ -7419,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62576,
-      "num": 91403,
-      "word": "天道鸿元隐匿网上敛财500万奸淫10人",
-      "onboard_time": 1762139479,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62352,
       "num": 503850,
       "word": "男子无培训上班第一天害死同事",
@@ -7508,7 +7564,7 @@
     },
     {
       "raw_hot": 59743,
-      "num": 91274,
+      "num": 94048,
       "word": "光晞不能捐 龚俊不能说",
       "onboard_time": 1762139659,
       "rank": 38,
@@ -7724,7 +7780,7 @@
     },
     {
       "raw_hot": 49119,
-      "num": 300355,
+      "num": 312751,
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,

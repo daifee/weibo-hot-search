@@ -1,0 +1,410 @@
+{
+  "runTime": 1762141134705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 851369,
+        "num": 1136219,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377536,
+        "num": 377536,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38571,
+        "num": 312751,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305376,
+        "num": 305376,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272636,
+        "num": 272636,
+        "word": "金吾不禁开机",
+        "onboard_time": 1762139419,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220717,
+        "num": 220717,
+        "word": "间谍加大对我国粮食领域渗透",
+        "onboard_time": 1762125738,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218315,
+        "num": 218315,
+        "word": "全红婵陈芋汐仅差0.9分",
+        "onboard_time": 1762126399,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209879,
+        "num": 209879,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197735,
+        "num": 197735,
+        "word": "迪丽热巴新剧路透梦回关小迪",
+        "onboard_time": 1762136899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183194,
+        "num": 183194,
+        "word": "王建军被双开",
+        "onboard_time": 1762140562,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 654289,
+        "num": 182801,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624869,
+        "num": 181503,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521536,
+        "num": 180662,
+        "word": "李茂因弦子生孩子晕倒大哭",
+        "onboard_time": 1762138159,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422398,
+        "num": 180125,
+        "word": "彭小苒 发际线后移",
+        "onboard_time": 1762138520,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421239,
+        "num": 179742,
+        "word": "大批品牌检出苏丹红",
+        "onboard_time": 1762131981,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 350841,
+        "num": 178519,
+        "word": "Faker切屏同时预判金身",
+        "onboard_time": 1762138099,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345347,
+        "num": 177456,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1762137140,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262793,
+        "num": 176387,
+        "word": "郭宇欣一条裙子穿了三次",
+        "onboard_time": 1762134140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209174,
+        "num": 175499,
+        "word": "考上研究生是对混子的最大惩罚",
+        "onboard_time": 1762127720,
+        "rank": 18,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 175442,
+        "num": 175442,
+        "word": "单依纯献唱日掛中天主题曲",
+        "onboard_time": 1762140440,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 478113,
+        "num": 175289,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193160,
+        "num": 175241,
+        "word": "驻日美军接连发生性暴力事件",
+        "onboard_time": 1762139419,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174405,
+        "num": 174405,
+        "word": "父亲称被害护士开始不知男友已婚已育",
+        "onboard_time": 1762136660,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167250,
+        "num": 167250,
+        "word": "开拓者召回杨瀚森",
+        "onboard_time": 1762134680,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 163735,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1762140920,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163519,
+        "num": 163519,
+        "word": "全体搜救队员静候航天员凯旋",
+        "onboard_time": 1762134740,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130917,
+        "num": 130917,
+        "word": "240小时过境免签口岸数再增5个",
+        "onboard_time": 1762139121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126312,
+        "num": 126312,
+        "word": "轻断食从116斤瘦到94斤",
+        "onboard_time": 1762125317,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123479,
+        "num": 123479,
+        "word": "这个凶手不是影帝就是影后",
+        "onboard_time": 1762140261,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118715,
+        "num": 118715,
+        "word": "南航通报员工参加3000米体测猝死",
+        "onboard_time": 1762128380,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 201524,
+        "num": 118344,
+        "word": "发完分手宣言的人结婚了",
+        "onboard_time": 1762140623,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109881,
+        "num": 117173,
+        "word": "彭小苒被爸爸监督工作",
+        "onboard_time": 1762139840,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154823,
+        "num": 117152,
+        "word": "剑网3新品金发",
+        "onboard_time": 1762140562,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116169,
+        "num": 116169,
+        "word": "为什么医院椅子都是滑溜溜的",
+        "onboard_time": 1762139899,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115147,
+        "num": 115147,
+        "word": "驻日美军在冲绳街头首次单独巡逻",
+        "onboard_time": 1762130120,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "翁青雅在伦敦上的大学",
+        "onboard_time": 1762128200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109348,
+        "num": 109348,
+        "word": "艺考新要求",
+        "onboard_time": 1762139419,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105443,
+        "num": 105443,
+        "word": "出现5个症状说明血糖高了",
+        "onboard_time": 1762098260,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100960,
+        "num": 105411,
+        "word": "丁禹兮也太会演心动了",
+        "onboard_time": 1762139899,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89555,
+        "num": 105384,
+        "word": "国考超35岁考生担心体检难通过",
+        "onboard_time": 1762140202,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 105379,
+        "num": 105379,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104545,
+        "num": 104545,
+        "word": "学生买淀粉肠钥匙被拿走",
+        "onboard_time": 1762135100,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102312,
+        "num": 102312,
+        "word": "遭男友杀害护士生前日记曝光",
+        "onboard_time": 1762140139,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99613,
+        "num": 99613,
+        "word": "国际金价再现断崖式下跌",
+        "onboard_time": 1762140679,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48620,
+        "num": 94048,
+        "word": "光晞不能捐 龚俊不能说",
+        "onboard_time": 1762139659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91308,
+        "num": 91308,
+        "word": "当你兄弟陪你去看中医",
+        "onboard_time": 1762141040,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88866,
+        "num": 88866,
+        "word": "中国公民持澳签今起免签入境新西兰",
+        "onboard_time": 1762139600,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86803,
+        "num": 86803,
+        "word": "天道鸿元隐匿网上敛财500万奸淫10人",
+        "onboard_time": 1762139479,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88341,
+        "num": 86771,
+        "word": "金条和金豆全线涨价",
+        "onboard_time": 1762135521,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86735,
+        "num": 86735,
+        "word": "乐扣官宣订婚",
+        "onboard_time": 1762133719,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}
