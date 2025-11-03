@@ -1,0 +1,410 @@
+{
+  "runTime": 1762177720001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222273,
+        "num": 1222273,
+        "word": "蓝盈莹蔡文静撞衫",
+        "onboard_time": 1762174942,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317758,
+        "num": 317758,
+        "word": "外国想涨价就涨如今成功国产",
+        "onboard_time": 1762169782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2788,
+        "num": 317497,
+        "word": "中国体育名场面感动了一遍又一遍",
+        "onboard_time": 1762070301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1142367,
+        "num": 317318,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192476,
+        "num": 317064,
+        "word": "山姆变得像盒马",
+        "onboard_time": 1762158442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184900,
+        "num": 316623,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454792,
+        "num": 316585,
+        "word": "王鹤棣白鹿台下模仿乖乖女名场面",
+        "onboard_time": 1762172003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347096,
+        "num": 316210,
+        "word": "关晓彤张凌赫好长的两条人",
+        "onboard_time": 1762172841,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136028,
+        "num": 315786,
+        "word": "T1严正声明",
+        "onboard_time": 1762165281,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120615,
+        "num": 315584,
+        "word": "中国制造让碳纤维价格去掉一个0",
+        "onboard_time": 1762169841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801067,
+        "num": 315432,
+        "word": "她一上午挣了我一个月的工资",
+        "onboard_time": 1762171641,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555869,
+        "num": 314912,
+        "word": "金靖曝陈都灵经常看恶评警醒自己",
+        "onboard_time": 1762169241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518577,
+        "num": 314843,
+        "word": "邢菲拿奖导播切杨幂秦海璐",
+        "onboard_time": 1762176142,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431921,
+        "num": 314441,
+        "word": "白百何 还能这么操作",
+        "onboard_time": 1762176262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424014,
+        "num": 314086,
+        "word": "符龙飞 双爹带娃的一天",
+        "onboard_time": 1762170803,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343422,
+        "num": 313919,
+        "word": "特朗普70分钟采访提及中国41次",
+        "onboard_time": 1762173982,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313723,
+        "num": 313723,
+        "word": "何炅谢娜一出场我的青春回来了",
+        "onboard_time": 1762168702,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298411,
+        "num": 298411,
+        "word": "巨型吊牌 防退货",
+        "onboard_time": 1762161322,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200865,
+        "num": 294117,
+        "word": "刘宇宁衣服比我人还长",
+        "onboard_time": 1762170502,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35546,
+        "num": 290734,
+        "word": "芝麻800亮相微博视界大会",
+        "onboard_time": 1762175061,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774955,
+        "num": 287891,
+        "word": "房主任搂着杨幂给女儿录视频",
+        "onboard_time": 1762168763,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353009,
+        "num": 280600,
+        "word": "蒲熠星回应通告费",
+        "onboard_time": 1762164561,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279233,
+        "num": 279233,
+        "word": "影视飓风Tim震惊00后博主负债240万创作",
+        "onboard_time": 1762175602,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228870,
+        "num": 228870,
+        "word": "白鹿第二套",
+        "onboard_time": 1762166061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194508,
+        "num": 194508,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194433,
+        "num": 194433,
+        "word": "早睡时你的器官belike",
+        "onboard_time": 1762174161,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194280,
+        "num": 194280,
+        "word": "蒲熠星 通告费",
+        "onboard_time": 1762155380,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192945,
+        "num": 192945,
+        "word": "王一栩 回冷宫",
+        "onboard_time": 1762177403,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 189391,
+        "word": "工行建行暂停提取实体金条",
+        "onboard_time": 1762172661,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 86330,
+        "num": 188443,
+        "word": "餐馆售卖现杀猫肉每份80元",
+        "onboard_time": 1762175122,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187935,
+        "num": 187935,
+        "word": "侯明昊 属于我们的奖杯",
+        "onboard_time": 1762176922,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247533,
+        "num": 187438,
+        "word": "JDG经理疑曝Kanavi态度有问题",
+        "onboard_time": 1762177644,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186583,
+        "num": 186583,
+        "word": "张凌赫 daddy级别",
+        "onboard_time": 1762168042,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178330,
+        "num": 178330,
+        "word": "成毅天地剑心戏份",
+        "onboard_time": 1762170803,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173591,
+        "num": 173591,
+        "word": "白鹿不是第一次一年播三剧了",
+        "onboard_time": 1762176682,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152388,
+        "num": 152388,
+        "word": "微博视界大会内场",
+        "onboard_time": 1762164681,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147967,
+        "num": 147967,
+        "word": "泰国贵妃或与王后展开权力较量",
+        "onboard_time": 1762174581,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141446,
+        "num": 141446,
+        "word": "生万物",
+        "onboard_time": 1762175602,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "井柏然刘雯情侣手机链",
+        "onboard_time": 1762177644,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128941,
+        "num": 128941,
+        "word": "蒋欣关晓彤 妈妈带着你",
+        "onboard_time": 1762175242,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 126925,
+        "word": "49岁女子拒绝猥亵被害",
+        "onboard_time": 1762175122,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "鬼灭之刃无限城篇定档",
+        "onboard_time": 1762164800,
+        "rank": 41,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 126193,
+        "num": 126193,
+        "word": "李现要准备双份份子钱了",
+        "onboard_time": 1762168283,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123587,
+        "num": 123587,
+        "word": "林允珍珠围脖",
+        "onboard_time": 1762176443,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116692,
+        "num": 123409,
+        "word": "患癌女孩生前遗憾或是未能见到妈妈",
+        "onboard_time": 1762175122,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "杨幂发言",
+        "onboard_time": 1762176081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117209,
+        "num": 117209,
+        "word": "Kanavi谈输给T1",
+        "onboard_time": 1762172481,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104865,
+        "num": 111227,
+        "word": "有效补气血的10件小事",
+        "onboard_time": 1762176142,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80147,
+        "num": 110967,
+        "word": "南京大学称999元帝王蟹比市场价便宜",
+        "onboard_time": 1762171823,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69132,
+        "num": 110881,
+        "word": "江旻憓已申请放弃加拿大护照",
+        "onboard_time": 1762177223,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}
