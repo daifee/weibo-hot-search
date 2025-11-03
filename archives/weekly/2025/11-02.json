@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762184622839,
+  "endTime": 1762187467799,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558452,
+      "num": 854977,
+      "word": "蓝盈莹回应撞衫",
+      "onboard_time": 1762182441,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556033,
       "num": 388167,
       "word": "安世中国郑重声明",
@@ -713,14 +721,6 @@
       "onboard_time": 1762096461,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 490367,
-      "num": 324324,
-      "word": "蓝盈莹回应撞衫",
-      "onboard_time": 1762182441,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 485828,
@@ -1145,6 +1145,22 @@
       "onboard_time": 1762127720,
       "rank": 13,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 337398,
+      "num": 337398,
+      "word": "山姆在争议声中再更新APP",
+      "onboard_time": 1762184899,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337333,
+      "num": 115230,
+      "word": "王传君 春树",
+      "onboard_time": 1762185081,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 337147,
@@ -2761,6 +2777,14 @@
       "onboard_time": 1762060821,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150773,
+      "num": 110373,
+      "word": "全红婵帮谢思埸带娃",
+      "onboard_time": 1762185320,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 150618,
@@ -5859,6 +5883,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83118,
+      "num": 98103,
+      "word": "后台收到了关晓彤送的彩椒碗",
+      "onboard_time": 1762185501,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83101,
+      "num": 98050,
+      "word": "曾辉韩雨彤公主抱",
+      "onboard_time": 1762185021,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82945,
       "num": 82945,
       "word": "荷兰启动2025年光刻机出口新规",
@@ -6723,6 +6763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57734,
+      "num": 97561,
+      "word": "KPL一千零一夜",
+      "onboard_time": 1762186280,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57424,
       "num": 156934,
       "word": "广东多人收到百里挑一短信",
@@ -6739,12 +6787,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 56090,
+      "num": 97534,
+      "word": "身体缺4种营养素会大把掉头发",
+      "onboard_time": 1762185200,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55686,
       "num": 78717,
       "word": "小哥将快递扔进院子获打赏点赞",
       "onboard_time": 1762052120,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55360,
+      "num": 97478,
+      "word": "刘宇宁脚滑之后的反应",
+      "onboard_time": 1762187358,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 54498,
