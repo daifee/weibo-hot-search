@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762126607015,
+  "endTime": 1762135318036,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -243,12 +243,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561310,
+      "num": 152006,
+      "word": "饶雪漫回复翁青雅",
+      "onboard_time": 1762130420,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 557131,
+      "num": 1089140,
+      "word": "骗子用l0086冒充10086",
+      "onboard_time": 1762129040,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556033,
       "num": 388167,
       "word": "安世中国郑重声明",
       "onboard_time": 1762047681,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 541658,
+      "num": 151452,
+      "word": "大批品牌检出苏丹红",
+      "onboard_time": 1762131981,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 537743,
@@ -451,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396508,
+      "num": 150180,
+      "word": "南航通报员工参加3000米体测猝死",
+      "onboard_time": 1762128380,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 392110,
       "num": 205813,
       "word": "广州地铁跳转广告",
@@ -555,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339656,
+      "num": 149258,
+      "word": "考上研究生是对混子的最大惩罚",
+      "onboard_time": 1762127720,
+      "rank": 13,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 339350,
+      "num": 339350,
+      "word": "开拓者召回杨瀚森",
+      "onboard_time": 1762134680,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337147,
       "num": 358929,
       "word": "苏超泰州队冠军",
@@ -611,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 309812,
+      "num": 309812,
+      "word": "驻日美军在冲绳街头首次单独巡逻",
+      "onboard_time": 1762130120,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 309440,
       "num": 309440,
       "word": "看爱情公寓最怕的剧情",
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 304580,
-      "num": 115167,
+      "num": 141963,
       "word": "轻断食从116斤瘦到94斤",
       "onboard_time": 1762125317,
       "rank": 20,
@@ -657,6 +713,14 @@
       "onboard_time": 1762080680,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 300664,
+      "num": 142943,
+      "word": "金价",
+      "onboard_time": 1762133420,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 295392,
@@ -681,6 +745,14 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285774,
+      "num": 285774,
+      "word": "全红婵陈芋汐仅差0.9分",
+      "onboard_time": 1762126399,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 285304,
@@ -763,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265574,
+      "num": 149086,
+      "word": "翁青雅在伦敦上的大学",
+      "onboard_time": 1762128200,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264815,
       "num": 164459,
       "word": "湖南一男子夜晚钓鱼被当猎物枪击",
@@ -809,6 +889,14 @@
       "onboard_time": 1762066341,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257271,
+      "num": 148378,
+      "word": "郭宇欣一条裙子穿了三次",
+      "onboard_time": 1762134140,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 257268,
@@ -955,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212635,
+      "num": 146890,
+      "word": "乐扣官宣订婚",
+      "onboard_time": 1762133719,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -1019,12 +1115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207091,
+      "num": 145939,
+      "word": "莲花楼里的土狗叫狐狸精",
+      "onboard_time": 1762130961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206911,
       "num": 206911,
       "word": "代号鸢",
       "onboard_time": 1762079120,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206744,
+      "num": 206744,
+      "word": "间谍加大对我国粮食领域渗透",
+      "onboard_time": 1762125738,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206649,
@@ -1283,12 +1395,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176751,
+      "num": 176751,
+      "word": "全体搜救队员静候航天员凯旋",
+      "onboard_time": 1762134740,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "高铁宠物托运指南",
       "onboard_time": 1762041499,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173775,
+      "num": 140413,
+      "word": "全红婵的减肥计划精确到克",
+      "onboard_time": 1762133300,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 172747,
@@ -1443,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "缉毒犬能有多帅",
+      "onboard_time": 1762133060,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157442,
       "num": 157442,
       "word": "家禽界也有四不像",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1762064961,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152706,
+      "num": 152706,
+      "word": "TES主教练回应输给T1",
+      "onboard_time": 1762126459,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 151726,
@@ -1651,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140209,
+      "num": 140209,
+      "word": "妻子临产矿工丈夫满身煤灰直奔医院",
+      "onboard_time": 1762129460,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140171,
       "num": 161872,
       "word": "2025微博视界大会第七波阵容官宣",
@@ -1673,14 +1825,6 @@
       "onboard_time": 1762091962,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136740,
-      "num": 136740,
-      "word": "全红婵陈芋汐仅差0.9分",
-      "onboard_time": 1762126399,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 136724,
@@ -1947,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122408,
       "num": 122408,
       "word": "冬季睡衣应该多久洗一次",
@@ -2083,6 +2235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 117566,
+      "num": 117566,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762126399,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117032,
       "num": 139383,
       "word": "公务员岗位不是避风港和安乐窝",
@@ -2121,14 +2281,6 @@
       "onboard_time": 1762004182,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115285,
-      "num": 115285,
-      "word": "间谍加大对我国粮食领域渗透",
-      "onboard_time": 1762125738,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114765,
@@ -2419,14 +2571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104978,
-      "num": 104978,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1762126399,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104424,
       "num": 104424,
       "word": "建议讨厌上班的人反复观看",
@@ -2499,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103142,
+      "num": 103142,
+      "word": "黄金",
+      "onboard_time": 1762134260,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103082,
       "num": 103082,
       "word": "刘宪华给我干哪年来了",
@@ -2513,6 +2665,14 @@
       "onboard_time": 1762013720,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "中美就扩大农产品贸易达成共识",
+      "onboard_time": 1762131560,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102514,
@@ -2545,14 +2705,6 @@
       "onboard_time": 1761996259,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102153,
-      "num": 85253,
-      "word": "TES主教练回应输给T1",
-      "onboard_time": 1762126459,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 102063,
@@ -2592,6 +2744,14 @@
       "word": "王艺迪4比2朱芊曦",
       "onboard_time": 1762086081,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100655,
+      "num": 100655,
+      "word": "全红婵夺冠后秒变显眼包",
+      "onboard_time": 1762134620,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -2745,6 +2905,14 @@
       "onboard_time": 1762097900,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96523,
+      "num": 96523,
+      "word": "00后野人医学生自制荒野版蒙脱石散",
+      "onboard_time": 1762133060,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96372,
@@ -3027,6 +3195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87792,
+      "num": 87792,
+      "word": "郭宇欣工作室",
+      "onboard_time": 1762131021,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87514,
       "num": 87514,
       "word": "成毅这次完全是主人级别的",
@@ -3129,6 +3305,14 @@
       "onboard_time": 1762062080,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86288,
+      "num": 86288,
+      "word": "马斯克万亿美元薪酬方案下周表决",
+      "onboard_time": 1762127180,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85842,
@@ -3299,6 +3483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81594,
+      "num": 81594,
+      "word": "女子眼睛一按就咯吱响",
+      "onboard_time": 1762134021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81021,
       "num": 81021,
       "word": "梅西89分钟世界波难救主",
@@ -3353,6 +3545,14 @@
       "onboard_time": 1762047018,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78818,
+      "num": 78818,
+      "word": "孟子义龚俊张凌赫 百灵鸟开会",
+      "onboard_time": 1762131501,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 78740,
@@ -3443,12 +3643,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75338,
+      "num": 75338,
+      "word": "驻冲绳美军刑事案件数量创纪录",
+      "onboard_time": 1762133540,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75054,
+      "num": 75054,
+      "word": "女子骑错车反将车主小孩赶下",
+      "onboard_time": 1762126579,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75028,
       "num": 75028,
       "word": "被空军的高燃混剪硬控了",
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74770,
+      "num": 74770,
+      "word": "学生买淀粉肠钥匙被拿走",
+      "onboard_time": 1762135100,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74438,
@@ -3521,6 +3745,14 @@
       "onboard_time": 1762052720,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71444,
+      "num": 71444,
+      "word": "总领馆提醒日本旅游注意防熊",
+      "onboard_time": 1762132280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71372,
@@ -3627,12 +3859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66080,
-      "num": 66080,
-      "word": "女子骑错车反将车主小孩赶下",
-      "onboard_time": 1762126579,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 66823,
+      "num": 66823,
+      "word": "以色列总理称遭严重舆论打击",
+      "onboard_time": 1762126758,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65976,
@@ -3729,6 +3961,14 @@
       "onboard_time": 1762047499,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59932,
+      "num": 118882,
+      "word": "杨紫回应拍完家业无缝进组生命树",
+      "onboard_time": 1762126579,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 59516,
@@ -3881,14 +4121,6 @@
       "onboard_time": 1762029435,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43810,
-      "num": 64352,
-      "word": "杨紫回应拍完家业无缝进组生命树",
-      "onboard_time": 1762126579,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 42056,
@@ -4065,6 +4297,14 @@
       "onboard_time": 1762021515,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25557,
+      "num": 144771,
+      "word": "辛纳首夺巴黎大师赛冠军",
+      "onboard_time": 1762134800,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 25479,

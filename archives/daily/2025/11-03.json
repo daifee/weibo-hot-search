@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762126607015,
+  "endTime": 1762135318036,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -27,12 +27,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561310,
+      "num": 152006,
+      "word": "饶雪漫回复翁青雅",
+      "onboard_time": 1762130420,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 557131,
+      "num": 1089140,
+      "word": "骗子用l0086冒充10086",
+      "onboard_time": 1762129040,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554059,
       "num": 135143,
       "word": "短剧演员红毯上接吻",
       "onboard_time": 1762084462,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541658,
+      "num": 151452,
+      "word": "大批品牌检出苏丹红",
+      "onboard_time": 1762131981,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 490416,
@@ -75,6 +99,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396508,
+      "num": 150180,
+      "word": "南航通报员工参加3000米体测猝死",
+      "onboard_time": 1762128380,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 339656,
+      "num": 149258,
+      "word": "考上研究生是对混子的最大惩罚",
+      "onboard_time": 1762127720,
+      "rank": 13,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 339350,
+      "num": 339350,
+      "word": "开拓者召回杨瀚森",
+      "onboard_time": 1762134680,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334158,
       "num": 334158,
       "word": "小胖哭了",
@@ -99,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309812,
+      "num": 309812,
+      "word": "驻日美军在冲绳街头首次单独巡逻",
+      "onboard_time": 1762130120,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304580,
-      "num": 115167,
+      "num": 141963,
       "word": "轻断食从116斤瘦到94斤",
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300664,
+      "num": 142943,
+      "word": "金价",
+      "onboard_time": 1762133420,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 288488,
@@ -123,12 +187,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285774,
+      "num": 285774,
+      "word": "全红婵陈芋汐仅差0.9分",
+      "onboard_time": 1762126399,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277129,
       "num": 277129,
       "word": "区委书记沉迷游戏区长沉迷高尔夫",
       "onboard_time": 1762088603,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265574,
+      "num": 149086,
+      "word": "翁青雅在伦敦上的大学",
+      "onboard_time": 1762128200,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257271,
+      "num": 148378,
+      "word": "郭宇欣一条裙子穿了三次",
+      "onboard_time": 1762134140,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 224297,
@@ -139,12 +227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212635,
+      "num": 146890,
+      "word": "乐扣官宣订婚",
+      "onboard_time": 1762133719,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210344,
       "num": 134524,
       "word": "出现5个症状说明血糖高了",
       "onboard_time": 1762098260,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207091,
+      "num": 145939,
+      "word": "莲花楼里的土狗叫狐狸精",
+      "onboard_time": 1762130961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206744,
+      "num": 206744,
+      "word": "间谍加大对我国粮食领域渗透",
+      "onboard_time": 1762125738,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200798,
@@ -179,6 +291,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176751,
+      "num": 176751,
+      "word": "全体搜救队员静候航天员凯旋",
+      "onboard_time": 1762134740,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173775,
+      "num": 140413,
+      "word": "全红婵的减肥计划精确到克",
+      "onboard_time": 1762133300,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164412,
       "num": 164412,
       "word": "全红婵首秀第1跳全场最高分",
@@ -195,12 +323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "缉毒犬能有多帅",
+      "onboard_time": 1762133060,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157442,
       "num": 157442,
       "word": "家禽界也有四不像",
       "onboard_time": 1762098260,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152706,
+      "num": 152706,
+      "word": "TES主教练回应输给T1",
+      "onboard_time": 1762126459,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 148369,
@@ -211,12 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136740,
-      "num": 136740,
-      "word": "全红婵陈芋汐仅差0.9分",
-      "onboard_time": 1762126399,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 140209,
+      "num": 140209,
+      "word": "妻子临产矿工丈夫满身煤灰直奔医院",
+      "onboard_time": 1762129460,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133795,
@@ -243,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 117566,
+      "num": 117566,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762126399,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116225,
       "num": 116225,
       "word": "狼队 归期",
@@ -257,14 +417,6 @@
       "onboard_time": 1762095682,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115285,
-      "num": 115285,
-      "word": "间谍加大对我国粮食领域渗透",
-      "onboard_time": 1762125738,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114992,
@@ -291,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104978,
-      "num": 104978,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1762126399,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104097,
       "num": 104097,
       "word": "杨紫郭宇欣同框",
@@ -307,12 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102153,
-      "num": 85253,
-      "word": "TES主教练回应输给T1",
-      "onboard_time": 1762126459,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 103142,
+      "num": 103142,
+      "word": "黄金",
+      "onboard_time": 1762134260,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "中美就扩大农产品贸易达成共识",
+      "onboard_time": 1762131560,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100655,
+      "num": 100655,
+      "word": "全红婵夺冠后秒变显眼包",
+      "onboard_time": 1762134620,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 99578,
@@ -347,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96523,
+      "num": 96523,
+      "word": "00后野人医学生自制荒野版蒙脱石散",
+      "onboard_time": 1762133060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91878,
       "num": 91878,
       "word": "孩子哭的那一刻去与不去已经没意义了",
@@ -371,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87792,
+      "num": 87792,
+      "word": "郭宇欣工作室",
+      "onboard_time": 1762131021,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86826,
       "num": 86826,
       "word": "央视记者卧底揭兼职培训骗局",
@@ -385,6 +561,14 @@
       "onboard_time": 1762125078,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86288,
+      "num": 86288,
+      "word": "马斯克万亿美元薪酬方案下周表决",
+      "onboard_time": 1762127180,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85316,
@@ -411,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81594,
+      "num": 81594,
+      "word": "女子眼睛一按就咯吱响",
+      "onboard_time": 1762134021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79484,
       "num": 79484,
       "word": "12岁女孩做外贸15个月卖了10万",
       "onboard_time": 1762075760,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78818,
+      "num": 78818,
+      "word": "孟子义龚俊张凌赫 百灵鸟开会",
+      "onboard_time": 1762131501,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 78094,
@@ -443,6 +643,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75338,
+      "num": 75338,
+      "word": "驻冲绳美军刑事案件数量创纪录",
+      "onboard_time": 1762133540,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 75054,
+      "num": 75054,
+      "word": "女子骑错车反将车主小孩赶下",
+      "onboard_time": 1762126579,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74770,
+      "num": 74770,
+      "word": "学生买淀粉肠钥匙被拿走",
+      "onboard_time": 1762135100,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74438,
       "num": 115438,
       "word": "龚俊花儿与少年蹦极",
@@ -465,6 +689,14 @@
       "onboard_time": 1762062620,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71444,
+      "num": 71444,
+      "word": "总领馆提醒日本旅游注意防熊",
+      "onboard_time": 1762132280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70372,
@@ -491,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66080,
-      "num": 66080,
-      "word": "女子骑错车反将车主小孩赶下",
-      "onboard_time": 1762126579,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 66823,
+      "num": 66823,
+      "word": "以色列总理称遭严重舆论打击",
+      "onboard_time": 1762126758,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64502,
@@ -505,6 +737,14 @@
       "onboard_time": 1762110555,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59932,
+      "num": 118882,
+      "word": "杨紫回应拍完家业无缝进组生命树",
+      "onboard_time": 1762126579,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 50409,
@@ -521,14 +761,6 @@
       "onboard_time": 1762126520,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43810,
-      "num": 64352,
-      "word": "杨紫回应拍完家业无缝进组生命树",
-      "onboard_time": 1762126579,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 39910,
@@ -561,6 +793,14 @@
       "onboard_time": 1762092380,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25557,
+      "num": 144771,
+      "word": "辛纳首夺巴黎大师赛冠军",
+      "onboard_time": 1762134800,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 23708,
