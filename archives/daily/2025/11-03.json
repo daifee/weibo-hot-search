@@ -1,9 +1,9 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762152030556,
+  "endTime": 1762152832416,
   "band_list": [
     {
-      "raw_hot": 1377856,
+      "raw_hot": 2331125,
       "num": 209358,
       "word": "王紫璇李鸿其官宣结婚",
       "onboard_time": 1762150942,
@@ -41,6 +41,14 @@
       "onboard_time": 1762130420,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 644200,
+      "num": 1103072,
+      "word": "亲属想侵吞3姐妹亡父赔偿款",
+      "onboard_time": 1762148600,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635309,
@@ -121,14 +129,6 @@
       "onboard_time": 1762138159,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510722,
-      "num": 510722,
-      "word": "亲属想侵吞3姐妹亡父赔偿款",
-      "onboard_time": 1762148600,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507369,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308468,
+      "num": 193075,
+      "word": "旺旺向金靖介绍自己男友",
+      "onboard_time": 1762149861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "全红婵的减肥计划精确到克",
@@ -387,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248539,
-      "num": 193075,
-      "word": "旺旺向金靖介绍自己男友",
-      "onboard_time": 1762149861,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 256189,
+      "num": 256189,
+      "word": "高中生讲述缅北51天经历",
+      "onboard_time": 1762150341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247988,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180312,
+      "num": 180312,
+      "word": "微博视界大会直播",
+      "onboard_time": 1762152380,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180067,
       "num": 180067,
       "word": "TES不敌T1后发文",
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155462,
+      "num": 155462,
+      "word": "陈赫考上戏上岸靠打嗝",
+      "onboard_time": 1762149922,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155243,
       "num": 145965,
       "word": "一周晒一次被子",
@@ -755,12 +779,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148111,
-      "num": 210944,
-      "word": "高中生讲述缅北51天经历",
-      "onboard_time": 1762150341,
-      "rank": 9,
+      "raw_hot": 144313,
+      "num": 144313,
+      "word": "高校食堂卖999元帝王蟹",
+      "onboard_time": 1762149741,
+      "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143508,
+      "num": 143508,
+      "word": "美国一女子为保护孩子击毙实验猴",
+      "onboard_time": 1762151720,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142736,
@@ -859,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127180,
+      "num": 125130,
+      "word": "这居然是王敬轩",
+      "onboard_time": 1762150582,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "00后野人医学生自制荒野版蒙脱石散",
@@ -867,19 +907,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125130,
-      "num": 125130,
-      "word": "这居然是王敬轩",
-      "onboard_time": 1762150582,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 124811,
-      "num": 124811,
-      "word": "高校食堂卖999元帝王蟹",
-      "onboard_time": 1762149741,
-      "rank": 32,
+      "raw_hot": 124842,
+      "num": 124842,
+      "word": "今日说法主持人被骗1千元买茶叶",
+      "onboard_time": 1762152141,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1123,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100213,
+      "num": 100213,
+      "word": "被骗到缅北男生刷到自己新闻",
+      "onboard_time": 1762152559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100114,
       "num": 100114,
       "word": "叠纸 返场投票",
@@ -1195,11 +1235,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 97694,
-      "num": 97694,
-      "word": "陈赫考上戏上岸靠打嗝",
-      "onboard_time": 1762149922,
-      "rank": 33,
+      "raw_hot": 97837,
+      "num": 97837,
+      "word": "沈腾 安宇学过不像你们",
+      "onboard_time": 1762152260,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1291,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91695,
-      "num": 91695,
-      "word": "美国一女子为保护孩子击毙实验猴",
-      "onboard_time": 1762151720,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1762131201,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88716,
+      "num": 88716,
+      "word": "只有两家影城的鹤岗走出世界影后",
+      "onboard_time": 1762152680,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 88031,
@@ -1483,6 +1523,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82072,
+      "num": 82072,
+      "word": "青涩的樊振东看着好好rua",
+      "onboard_time": 1762152260,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81142,
+      "num": 81142,
+      "word": "王楚钦乖乖顺毛",
+      "onboard_time": 1762151241,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80255,
       "num": 80255,
       "word": "A股半日缩量1755亿",
@@ -1515,14 +1571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 77822,
-      "num": 77822,
-      "word": "王楚钦乖乖顺毛",
-      "onboard_time": 1762151241,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77797,
       "num": 77797,
       "word": "批准公开虐囚视频的以军检察官被捕",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1762148541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75911,
+      "num": 75911,
+      "word": "睡前一个动作把气血养回来",
+      "onboard_time": 1762152500,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75856,
@@ -1587,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74424,
+      "num": 74424,
+      "word": "当爸妈说客人走了时",
+      "onboard_time": 1762152802,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74380,
       "num": 74380,
       "word": "TES把Faker打瞌睡了",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1762062620,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71474,
+      "num": 71474,
+      "word": "全红婵14岁和18岁对比照",
+      "onboard_time": 1762152802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71444,
@@ -1659,12 +1731,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66308,
+      "num": 91025,
+      "word": "科颜氏回应产品被曝检出苏丹红",
+      "onboard_time": 1762151780,
+      "rank": 38,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 64502,
       "num": 64502,
       "word": "一群魔丸里突然出现了一颗灵珠",
       "onboard_time": 1762110555,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60741,
+      "num": 91336,
+      "word": "官方回应称明确禁止个人淘金",
+      "onboard_time": 1762151780,
+      "rank": 37,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 59932,
@@ -1681,14 +1769,6 @@
       "onboard_time": 1762139659,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58434,
-      "num": 91025,
-      "word": "科颜氏回应产品被曝检出苏丹红",
-      "onboard_time": 1762151780,
-      "rank": 38,
-      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 54498,
@@ -1713,14 +1793,6 @@
       "onboard_time": 1762138821,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48707,
-      "num": 91146,
-      "word": "官方回应称明确禁止个人淘金",
-      "onboard_time": 1762151780,
-      "rank": 37,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 45996,
@@ -1764,7 +1836,7 @@
     },
     {
       "raw_hot": 35587,
-      "num": 75138,
+      "num": 119294,
       "word": "自然堂与龚俊实力共赴",
       "onboard_time": 1762150882,
       "rank": 48,

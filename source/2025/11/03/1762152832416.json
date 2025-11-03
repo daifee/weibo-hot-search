@@ -1,0 +1,410 @@
+{
+  "runTime": 1762152832416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 644200,
+        "num": 1103072,
+        "word": "亲属想侵吞3姐妹亡父赔偿款",
+        "onboard_time": 1762148600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595319,
+        "num": 595319,
+        "word": "电影鬼灭之刃",
+        "onboard_time": 1762146501,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 29611,
+        "num": 433540,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317806,
+        "num": 317806,
+        "word": "2007年后出生的人不能在马尔代夫吸烟",
+        "onboard_time": 1762144521,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256189,
+        "num": 256189,
+        "word": "高中生讲述缅北51天经历",
+        "onboard_time": 1762150341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254218,
+        "num": 254218,
+        "word": "沈月 是公主也是自己的骑士",
+        "onboard_time": 1762147281,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201473,
+        "num": 201473,
+        "word": "以军虐囚视频",
+        "onboard_time": 1762145721,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196076,
+        "num": 196076,
+        "word": "广州地铁回应APP乘车码频繁弹窗广告",
+        "onboard_time": 1762143621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194261,
+        "num": 194261,
+        "word": "花儿与少年",
+        "onboard_time": 1762148600,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182311,
+        "num": 182311,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2331125,
+        "num": 182230,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488761,
+        "num": 181912,
+        "word": "出生率接近0的日本城市后来怎样了",
+        "onboard_time": 1762146082,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351227,
+        "num": 181741,
+        "word": "朱珠说没关系早就翻了",
+        "onboard_time": 1762144762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308468,
+        "num": 181287,
+        "word": "旺旺向金靖介绍自己男友",
+        "onboard_time": 1762149861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277826,
+        "num": 181139,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201375,
+        "num": 180793,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1762141820,
+        "rank": 15,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 180736,
+        "num": 180736,
+        "word": "杨幂VOGUE开年刊",
+        "onboard_time": 1762150942,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180312,
+        "num": 180312,
+        "word": "微博视界大会直播",
+        "onboard_time": 1762152380,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173744,
+        "num": 173744,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44001,
+        "num": 155719,
+        "word": "北马破三人数创纪录",
+        "onboard_time": 1762149861,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 179691,
+        "num": 155627,
+        "word": "金饰克价一夜暴涨63元",
+        "onboard_time": 1762146681,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155462,
+        "num": 155462,
+        "word": "陈赫考上戏上岸靠打嗝",
+        "onboard_time": 1762149922,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144313,
+        "num": 144313,
+        "word": "高校食堂卖999元帝王蟹",
+        "onboard_time": 1762149741,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143508,
+        "num": 143508,
+        "word": "美国一女子为保护孩子击毙实验猴",
+        "onboard_time": 1762151720,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "黄金 征税",
+        "onboard_time": 1762146443,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 130862,
+        "num": 130862,
+        "word": "台媒称两岸统一进程正在加快",
+        "onboard_time": 1762148002,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127703,
+        "num": 127703,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1762140920,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124842,
+        "num": 124842,
+        "word": "今日说法主持人被骗1千元买茶叶",
+        "onboard_time": 1762152141,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101946,
+        "num": 123464,
+        "word": "陈瑶穿了五彩斑斓的白",
+        "onboard_time": 1762145423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31477,
+        "num": 119294,
+        "word": "自然堂与龚俊实力共赴",
+        "onboard_time": 1762150882,
+        "rank": 29,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 129144,
+        "num": 118716,
+        "word": "一周晒一次被子",
+        "onboard_time": 1762151422,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 127180,
+        "num": 114490,
+        "word": "这居然是王敬轩",
+        "onboard_time": 1762150582,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113105,
+        "num": 113105,
+        "word": "我国成功发射遥感四十六号卫星",
+        "onboard_time": 1762145062,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103745,
+        "num": 103745,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100213,
+        "num": 100213,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 97837,
+        "word": "沈腾 安宇学过不像你们",
+        "onboard_time": 1762152260,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96181,
+        "num": 96181,
+        "word": "网传瑞幸团建店员饮酒过量致死",
+        "onboard_time": 1762145960,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92575,
+        "num": 92575,
+        "word": "鱼你有染",
+        "onboard_time": 1762146201,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60741,
+        "num": 91336,
+        "word": "官方回应称明确禁止个人淘金",
+        "onboard_time": 1762151780,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 66308,
+        "num": 90928,
+        "word": "科颜氏回应产品被曝检出苏丹红",
+        "onboard_time": 1762151780,
+        "rank": 39,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 90525,
+        "num": 90525,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88716,
+        "num": 88716,
+        "word": "只有两家影城的鹤岗走出世界影后",
+        "onboard_time": 1762152680,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85033,
+        "num": 85033,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82072,
+        "num": 82072,
+        "word": "青涩的樊振东看着好好rua",
+        "onboard_time": 1762152260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81142,
+        "num": 81142,
+        "word": "王楚钦乖乖顺毛",
+        "onboard_time": 1762151241,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77778,
+        "num": 77778,
+        "word": "杨紫入选2025年亚太行业先锋领袖榜单",
+        "onboard_time": 1762148181,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76606,
+        "num": 76606,
+        "word": "全红婵陈芋汐张家齐跳台贴贴",
+        "onboard_time": 1762145002,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75911,
+        "num": 75911,
+        "word": "睡前一个动作把气血养回来",
+        "onboard_time": 1762152500,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74424,
+        "num": 74424,
+        "word": "当爸妈说客人走了时",
+        "onboard_time": 1762152802,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71474,
+        "num": 71474,
+        "word": "全红婵14岁和18岁对比照",
+        "onboard_time": 1762152802,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}
