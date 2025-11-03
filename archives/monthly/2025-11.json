@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762163106737,
+  "endTime": 1762165872675,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1012390,
+      "num": 207154,
+      "word": "巨型吊牌 防退货",
+      "onboard_time": 1762161322,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 996383,
       "num": 1159421,
       "word": "马斯克称5年后不再有手机和App",
@@ -321,6 +329,14 @@
       "onboard_time": 1761978860,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 740416,
+      "num": 185195,
+      "word": "蒲熠星回应通告费",
+      "onboard_time": 1762164561,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 739771,
@@ -432,6 +448,14 @@
       "word": "关晓彤掉了好多头发",
       "onboard_time": 1761989060,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 671706,
+      "num": 1107473,
+      "word": "微博视界大会内场",
+      "onboard_time": 1762164681,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608265,
+      "num": 375249,
+      "word": "小巷人家剧组聊太嗨忘走红毯",
+      "onboard_time": 1762163900,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595176,
       "num": 219895,
       "word": "爆改化妆师兔子怀孕了",
@@ -593,6 +625,14 @@
       "onboard_time": 1762073242,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 575198,
+      "num": 374258,
+      "word": "蒋欣在哪里 蒋欣在这里",
+      "onboard_time": 1762163301,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 575080,
@@ -697,6 +737,14 @@
       "onboard_time": 1762051700,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 528233,
+      "num": 283909,
+      "word": "鬼灭之刃无限城篇定档",
+      "onboard_time": 1762164800,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 526473,
@@ -921,14 +969,6 @@
       "onboard_time": 1762079360,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 457011,
-      "num": 207154,
-      "word": "巨型吊牌 防退货",
-      "onboard_time": 1762161322,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 453970,
@@ -1571,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293922,
+      "num": 184254,
+      "word": "杨幂指挥交通",
+      "onboard_time": 1762164621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288488,
       "num": 288488,
       "word": "我给永夜星河一周年做的片头",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1762048399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283118,
+      "num": 185946,
+      "word": "男孩做微创手术被切六个器官",
+      "onboard_time": 1762163843,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282765,
@@ -2008,6 +2064,14 @@
       "word": "山姆",
       "onboard_time": 1762156281,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237709,
+      "num": 183728,
+      "word": "山东被切六个器官男孩妈妈发声",
+      "onboard_time": 1762164742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2747,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188277,
+      "num": 188277,
+      "word": "广州一地发20万奖励结婚",
+      "onboard_time": 1762164621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187948,
       "num": 182705,
       "word": "张柏芝 为什么你听得懂我的普通话",
@@ -2865,6 +2937,14 @@
       "onboard_time": 1761986301,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181455,
+      "num": 181455,
+      "word": "生万物红毯压轴",
+      "onboard_time": 1762163424,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 181364,
@@ -3899,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145947,
+      "num": 145947,
+      "word": "山姆APP更新被指图片失真",
+      "onboard_time": 1762160181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145459,
       "num": 145459,
       "word": "ShowMaker复刻名场面",
@@ -3937,6 +4025,14 @@
       "onboard_time": 1762149741,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143978,
+      "num": 143978,
+      "word": "全红婵搭档称压力大到不敢洗头发",
+      "onboard_time": 1762164621,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 143689,
@@ -3979,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142543,
+      "num": 142543,
+      "word": "老人疑强占幼儿园练剑与家长起冲突",
+      "onboard_time": 1762164021,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142412,
       "num": 142412,
       "word": "于正找到了让赵晴最好看的办法",
@@ -3993,14 +4097,6 @@
       "onboard_time": 1762096822,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141675,
-      "num": 141675,
-      "word": "山姆APP更新被指图片失真",
-      "onboard_time": 1762160181,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141092,
@@ -4681,6 +4777,14 @@
       "onboard_time": 1762133060,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125302,
+      "num": 125302,
+      "word": "T1严正声明",
+      "onboard_time": 1762165281,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 125288,
@@ -5835,6 +5939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104316,
+      "num": 104316,
+      "word": "李沁花少收官晒照",
+      "onboard_time": 1762165221,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104278,
       "num": 104278,
       "word": "以为只有情侣爱把腿放对方身上",
@@ -6139,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101003,
+      "num": 101003,
+      "word": "梁洁看得出她是公主",
+      "onboard_time": 1762163424,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100960,
       "num": 105411,
       "word": "丁禹兮也太会演心动了",
@@ -6233,6 +6353,14 @@
       "onboard_time": 1762063821,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99758,
+      "num": 99758,
+      "word": "杨超越和她的仆人们",
+      "onboard_time": 1762163242,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 99650,
@@ -6627,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95413,
+      "num": 95413,
+      "word": "25后看00后 00后看75后",
+      "onboard_time": 1762165281,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 95369,
       "num": 95369,
       "word": "跟周深上班久了会被同化",
@@ -6707,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93861,
+      "num": 89067,
+      "word": "小巷人家剧组同框",
+      "onboard_time": 1762162701,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93799,
       "num": 93799,
       "word": "ICU抢救失败收到19万美元账单",
@@ -6721,6 +6865,14 @@
       "onboard_time": 1762077860,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93684,
+      "num": 95064,
+      "word": "肖战粉丝给肖战新剧写歌",
+      "onboard_time": 1762164081,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 93406,
@@ -7203,12 +7355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88430,
+      "num": 88430,
+      "word": "被王鹤棣对视比耶",
+      "onboard_time": 1762165403,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88309,
       "num": 88309,
       "word": "灰熊vs湖人",
       "onboard_time": 1761962419,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88242,
+      "num": 88242,
+      "word": "水贝金价突然大涨",
+      "onboard_time": 1762165403,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 87951,
@@ -8603,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64965,
+      "num": 95417,
+      "word": "厦门不愧是00后喜欢的城市",
+      "onboard_time": 1762164081,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64920,
       "num": 64920,
       "word": "美团骑手屏蔽恶意顾客功能全国上线",
@@ -9387,6 +9563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34551,
+      "num": 95138,
+      "word": "全运会乒乓球场馆9张球台",
+      "onboard_time": 1762165821,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34409,
       "num": 51765,
       "word": "村委会回应公园密集扶手已拆除",
@@ -9569,6 +9753,14 @@
       "onboard_time": 1761984259,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27061,
+      "num": 188247,
+      "word": "从釜山会晤看历史主动",
+      "onboard_time": 1762164800,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26690,
@@ -9921,6 +10113,14 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 872,
+      "num": 95431,
+      "word": "高材生去墨西哥打工成为毒品帝国头目",
+      "onboard_time": 1762165161,
+      "rank": 38,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
