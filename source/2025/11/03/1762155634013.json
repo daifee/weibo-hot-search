@@ -1,0 +1,410 @@
+{
+  "runTime": 1762155634013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701020,
+        "num": 1112163,
+        "word": "亲属想侵吞3姐妹亡父赔偿款",
+        "onboard_time": 1762148600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609464,
+        "num": 609464,
+        "word": "微博视界大会红毯",
+        "onboard_time": 1762153041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28930,
+        "num": 471624,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455589,
+        "num": 455589,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413722,
+        "num": 413722,
+        "word": "高中生讲述缅北51天经历",
+        "onboard_time": 1762150341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344340,
+        "num": 344340,
+        "word": "电影鬼灭之刃",
+        "onboard_time": 1762146501,
+        "rank": 5,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 336455,
+        "num": 336455,
+        "word": "今日说法主持人被骗1千元买茶叶",
+        "onboard_time": 1762152141,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334093,
+        "num": 334093,
+        "word": "全红婵14岁和18岁对比照",
+        "onboard_time": 1762152802,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157000,
+        "num": 333161,
+        "word": "广州地铁回应APP乘车码频繁弹窗广告",
+        "onboard_time": 1762143621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136762,
+        "num": 331718,
+        "word": "2007年后出生的人不能在马尔代夫吸烟",
+        "onboard_time": 1762144521,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1849546,
+        "num": 331562,
+        "word": "白鹿 美神",
+        "onboard_time": 1762153161,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1682370,
+        "num": 329913,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1364666,
+        "num": 329230,
+        "word": "蒲熠星 通告费",
+        "onboard_time": 1762155380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696793,
+        "num": 327925,
+        "word": "陈赫带女儿出国两眼一睁就是找粥",
+        "onboard_time": 1762152921,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130341,
+        "num": 326130,
+        "word": "柯淳给余宇涵系丝巾",
+        "onboard_time": 1762155380,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325597,
+        "num": 325597,
+        "word": "出生率接近0的日本城市后来怎样了",
+        "onboard_time": 1762146082,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256435,
+        "num": 256435,
+        "word": "朱珠说没关系早就翻了",
+        "onboard_time": 1762144762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231582,
+        "num": 231582,
+        "word": "旺旺向金靖介绍自己男友",
+        "onboard_time": 1762149861,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185494,
+        "num": 185494,
+        "word": "美国一女子为保护孩子击毙实验猴",
+        "onboard_time": 1762151720,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64674,
+        "num": 182280,
+        "word": "启境CEO在线收简历",
+        "onboard_time": 1762153941,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246303,
+        "num": 182266,
+        "word": "全运会首个跳水0分",
+        "onboard_time": 1762154840,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181979,
+        "num": 181979,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1762141820,
+        "rank": 21,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 174820,
+        "num": 174820,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161952,
+        "num": 161952,
+        "word": "许魏洲极限救车后手一直在抖",
+        "onboard_time": 1762154541,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140598,
+        "num": 140598,
+        "word": "高校食堂卖999元帝王蟹",
+        "onboard_time": 1762149741,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138938,
+        "num": 138938,
+        "word": "于正找到了让赵晴最好看的办法",
+        "onboard_time": 1762152980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136579,
+        "num": 136579,
+        "word": "一周晒一次被子",
+        "onboard_time": 1762151422,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 131614,
+        "num": 131614,
+        "word": "周翊然徐志胜 少爷和我",
+        "onboard_time": 1762154541,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132799,
+        "num": 130125,
+        "word": "成毅入选2025年亚太行业先锋领袖榜单",
+        "onboard_time": 1762154901,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110722,
+        "num": 125899,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124645,
+        "num": 124645,
+        "word": "江一燕是用智商换的容貌吧",
+        "onboard_time": 1762154301,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123639,
+        "num": 123639,
+        "word": "16岁少年在未管所遭殴打身亡",
+        "onboard_time": 1762153881,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118171,
+        "num": 118171,
+        "word": "金饰克价一夜暴涨63元",
+        "onboard_time": 1762146681,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112474,
+        "num": 112474,
+        "word": "我国成功发射遥感四十六号卫星",
+        "onboard_time": 1762145062,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99635,
+        "num": 99635,
+        "word": "台媒称两岸统一进程正在加快",
+        "onboard_time": 1762148002,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96343,
+        "num": 96343,
+        "word": "俄总理抵达中国画面",
+        "onboard_time": 1762154840,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "杨幂VOGUE开年刊",
+        "onboard_time": 1762150942,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94993,
+        "num": 94993,
+        "word": "睡前一个动作把气血养回来",
+        "onboard_time": 1762152500,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92914,
+        "num": 92914,
+        "word": "LPL的S15结束了",
+        "onboard_time": 1762153460,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92859,
+        "num": 92859,
+        "word": "泉果基金创始人王国斌离世",
+        "onboard_time": 1762154781,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90983,
+        "num": 90983,
+        "word": "黄金 征税",
+        "onboard_time": 1762146443,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 88885,
+        "num": 90971,
+        "word": "全红婵无论胖瘦都压住了水花",
+        "onboard_time": 1762154721,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37416,
+        "num": 90939,
+        "word": "家长上来推搡别人孩子",
+        "onboard_time": 1762154182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80127,
+        "num": 90889,
+        "word": "陈赫考上戏上岸靠打嗝",
+        "onboard_time": 1762149922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79257,
+        "num": 90839,
+        "word": "这居然是王敬轩",
+        "onboard_time": 1762150582,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78624,
+        "num": 90805,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78310,
+        "num": 90780,
+        "word": "我的鸟巢云座席",
+        "onboard_time": 1762155442,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77133,
+        "num": 90751,
+        "word": "李沁说着说着怎么还卡壳了",
+        "onboard_time": 1762155501,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76962,
+        "num": 90694,
+        "word": "以军虐囚视频",
+        "onboard_time": 1762145721,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73953,
+        "num": 90673,
+        "word": "时代峰峻热度标识",
+        "onboard_time": 1762152980,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762154825893,
+  "endTime": 1762155634013,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2331125,
-      "num": 209358,
+      "num": 329913,
       "word": "王紫璇李鸿其官宣结婚",
       "onboard_time": 1762150942,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1762000102,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1849546,
+      "num": 331562,
+      "word": "白鹿 美神",
+      "onboard_time": 1762153161,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1797747,
@@ -75,14 +83,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1729961,
-      "num": 168542,
-      "word": "白鹿 美神",
-      "onboard_time": 1762153161,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1686829,
       "num": 1686829,
       "word": "T1战胜TES",
@@ -105,6 +105,14 @@
       "onboard_time": 1761992661,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1364666,
+      "num": 329230,
+      "word": "蒲熠星 通告费",
+      "onboard_time": 1762155380,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1291333,
@@ -355,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 696793,
+      "num": 534585,
+      "word": "陈赫带女儿出国两眼一睁就是找粥",
+      "onboard_time": 1762152921,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696178,
       "num": 214650,
       "word": "被男友割喉护士曾多次被勒脖子",
@@ -507,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 609464,
+      "num": 609464,
+      "word": "微博视界大会红毯",
+      "onboard_time": 1762153041,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595176,
       "num": 219895,
       "word": "爆改化妆师兔子怀孕了",
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 581199,
-      "num": 200035,
+      "num": 256435,
       "word": "朱珠说没关系早就翻了",
       "onboard_time": 1762144762,
       "rank": 15,
@@ -611,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 534585,
-      "num": 534585,
-      "word": "陈赫带女儿出国两眼一睁就是找粥",
-      "onboard_time": 1762152921,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 534346,
       "num": 837275,
       "word": "神二十一发射升空",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 525342,
-      "num": 202274,
+      "num": 325597,
       "word": "出生率接近0的日本城市后来怎样了",
       "onboard_time": 1762146082,
       "rank": 15,
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486216,
-      "num": 486216,
-      "word": "微博视界大会红毯",
-      "onboard_time": 1762153041,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 485828,
       "num": 149102,
       "word": "网传印度人中国街头随地大小便",
@@ -865,6 +873,14 @@
       "onboard_time": 1762079360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455589,
+      "num": 455589,
+      "word": "被骗到缅北男生刷到自己新闻",
+      "onboard_time": 1762152559,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453970,
@@ -971,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413722,
+      "num": 413722,
+      "word": "高中生讲述缅北51天经历",
+      "onboard_time": 1762150341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410134,
       "num": 410134,
       "word": "安世中国不存在违约行为",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1762081040,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381876,
-      "num": 381876,
-      "word": "高中生讲述缅北51天经历",
-      "onboard_time": 1762150341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 378412,
@@ -1203,12 +1219,28 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 336455,
+      "num": 336455,
+      "word": "今日说法主持人被骗1千元买茶叶",
+      "onboard_time": 1762152141,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334158,
       "num": 334158,
       "word": "小胖哭了",
       "onboard_time": 1762095563,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 334093,
+      "num": 334093,
+      "word": "全红婵14岁和18岁对比照",
+      "onboard_time": 1762152802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 332997,
@@ -1332,7 +1364,7 @@
     },
     {
       "raw_hot": 308468,
-      "num": 193075,
+      "num": 231582,
       "word": "旺旺向金靖介绍自己男友",
       "onboard_time": 1762149861,
       "rank": 14,
@@ -1555,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275977,
-      "num": 275977,
-      "word": "被骗到缅北男生刷到自己新闻",
-      "onboard_time": 1762152559,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275391,
       "num": 1044062,
       "word": "光与夜之恋",
@@ -1723,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257376,
-      "num": 257376,
-      "word": "今日说法主持人被骗1千元买茶叶",
-      "onboard_time": 1762152141,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257268,
       "num": 268759,
       "word": "你未婚我卫韫",
@@ -1819,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248483,
-      "num": 248483,
-      "word": "全红婵14岁和18岁对比照",
-      "onboard_time": 1762152802,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247988,
       "num": 145939,
       "word": "莲花楼里的土狗叫狐狸精",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1762072460,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246303,
+      "num": 182266,
+      "word": "全运会首个跳水0分",
+      "onboard_time": 1762154840,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 242906,
@@ -2108,7 +2124,7 @@
     },
     {
       "raw_hot": 215422,
-      "num": 215422,
+      "num": 333161,
       "word": "广州地铁回应APP乘车码频繁弹窗广告",
       "onboard_time": 1762143621,
       "rank": 29,
@@ -2691,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185494,
+      "num": 185494,
+      "word": "美国一女子为保护孩子击毙实验猴",
+      "onboard_time": 1762151720,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185363,
       "num": 231791,
       "word": "三人行今日开播",
@@ -3027,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167027,
-      "num": 167027,
-      "word": "美国一女子为保护孩子击毙实验猴",
-      "onboard_time": 1762151720,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 166864,
       "num": 166864,
       "word": "藏海传导演感谢肖战",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1761995660,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161952,
+      "num": 161952,
+      "word": "许魏洲极限救车后手一直在抖",
+      "onboard_time": 1762154541,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 161560,
@@ -4163,6 +4187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132799,
+      "num": 130125,
+      "word": "成毅入选2025年亚太行业先锋领袖榜单",
+      "onboard_time": 1762154901,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132793,
       "num": 132793,
       "word": "王晶发文悼念冯淬帆",
@@ -4211,6 +4243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131614,
+      "num": 131614,
+      "word": "周翊然徐志胜 少爷和我",
+      "onboard_time": 1762154541,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131553,
       "num": 131553,
       "word": "iG夺冠七周年",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1762093163,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130341,
+      "num": 326130,
+      "word": "柯淳给余宇涵系丝巾",
+      "onboard_time": 1762155380,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 130077,
@@ -4523,6 +4571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124645,
+      "num": 124645,
+      "word": "江一燕是用智商换的容貌吧",
+      "onboard_time": 1762154301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124514,
       "num": 124514,
       "word": "再见爱人",
@@ -4561,6 +4617,14 @@
       "onboard_time": 1761967640,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123639,
+      "num": 123639,
+      "word": "16岁少年在未管所遭殴打身亡",
+      "onboard_time": 1762153881,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123484,
@@ -6011,14 +6075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99420,
-      "num": 99420,
-      "word": "江一燕是用智商换的容貌吧",
-      "onboard_time": 1762154301,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99221,
       "num": 99221,
       "word": "全运会乒乓球神秘定律",
@@ -6129,14 +6185,6 @@
       "onboard_time": 1761988280,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98089,
-      "num": 98089,
-      "word": "许魏洲极限救车后手一直在抖",
-      "onboard_time": 1762154541,
-      "rank": 28,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 98058,
@@ -6299,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96343,
+      "num": 96343,
+      "word": "俄总理抵达中国画面",
+      "onboard_time": 1762154840,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96278,
       "num": 163132,
       "word": "周深成都演唱会",
@@ -6377,6 +6433,14 @@
       "onboard_time": 1762067719,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94993,
+      "num": 94993,
+      "word": "睡前一个动作把气血养回来",
+      "onboard_time": 1762152500,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94973,
@@ -6491,12 +6555,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92914,
+      "num": 92914,
+      "word": "LPL的S15结束了",
+      "onboard_time": 1762153460,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92874,
       "num": 92874,
       "word": "4K高清视角看神21发射",
       "onboard_time": 1762087641,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92859,
+      "num": 92859,
+      "word": "泉果基金创始人王国斌离世",
+      "onboard_time": 1762154781,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 92767,
@@ -6545,14 +6625,6 @@
       "onboard_time": 1762053800,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92304,
-      "num": 92304,
-      "word": "LPL的S15结束了",
-      "onboard_time": 1762153460,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 92163,
@@ -6817,6 +6889,14 @@
       "onboard_time": 1762131201,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88885,
+      "num": 90971,
+      "word": "全红婵无论胖瘦都压住了水花",
+      "onboard_time": 1762154721,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 88716,
@@ -7131,14 +7211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85128,
-      "num": 85128,
-      "word": "周翊然徐志胜 少爷和我",
-      "onboard_time": 1762154541,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85047,
       "num": 85047,
       "word": "香山红叶",
@@ -7411,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81105,
-      "num": 81105,
-      "word": "全红婵无论胖瘦都压住了水花",
-      "onboard_time": 1762154721,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81021,
       "num": 81021,
       "word": "梅西89分钟世界波难救主",
@@ -7433,14 +7497,6 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80659,
-      "num": 80659,
-      "word": "泉果基金创始人王国斌离世",
-      "onboard_time": 1762154781,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 80591,
@@ -7465,14 +7521,6 @@
       "onboard_time": 1762148360,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80185,
-      "num": 80185,
-      "word": "16岁少年在未管所遭殴打身亡",
-      "onboard_time": 1762153881,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80060,
@@ -7545,6 +7593,14 @@
       "onboard_time": 1761968179,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78310,
+      "num": 90780,
+      "word": "我的鸟巢云座席",
+      "onboard_time": 1762155442,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 78094,
@@ -7643,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77133,
+      "num": 90751,
+      "word": "李沁说着说着怎么还卡壳了",
+      "onboard_time": 1762155501,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76953,
       "num": 503732,
       "word": "11月第1天",
@@ -7681,14 +7745,6 @@
       "onboard_time": 1762148541,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75928,
-      "num": 75928,
-      "word": "睡前一个动作把气血养回来",
-      "onboard_time": 1762152500,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75856,
@@ -7801,6 +7857,14 @@
       "onboard_time": 1762072821,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 73953,
+      "num": 90673,
+      "word": "时代峰峻热度标识",
+      "onboard_time": 1762152980,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 73769,
@@ -7929,14 +7993,6 @@
       "onboard_time": 1761994643,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71744,
-      "num": 79179,
-      "word": "时代峰峻热度标识",
-      "onboard_time": 1762152980,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 71487,
@@ -8243,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64674,
+      "num": 182280,
+      "word": "启境CEO在线收简历",
+      "onboard_time": 1762153941,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64502,
       "num": 64502,
       "word": "一群魔丸里突然出现了一颗灵珠",
@@ -8457,14 +8521,6 @@
       "onboard_time": 1761904162,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58109,
-      "num": 152114,
-      "word": "启境CEO在线收简历",
-      "onboard_time": 1762153941,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 57608,
@@ -8907,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37416,
+      "num": 90939,
+      "word": "家长上来推搡别人孩子",
+      "onboard_time": 1762154182,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37187,
       "num": 156779,
       "word": "李鬼律师乱象调查",
@@ -9129,14 +9193,6 @@
       "onboard_time": 1761984259,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27415,
-      "num": 83879,
-      "word": "家长上来推搡别人孩子",
-      "onboard_time": 1762154182,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26690,
