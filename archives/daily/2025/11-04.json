@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762212300138,
+  "endTime": 1762213137571,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 568346,
-      "num": 813435,
+      "raw_hot": 627983,
+      "num": 925546,
       "word": "何炅 最近谣传我有衰老焦虑",
       "onboard_time": 1762188078,
       "rank": 30,
@@ -35,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 400933,
+      "raw_hot": 428550,
       "num": 117384,
       "word": "女子反抗猥亵被害153斤巨石压尸",
       "onboard_time": 1762180102,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415774,
+      "num": 110320,
+      "word": "品牌回应翁青雅直播翻车",
+      "onboard_time": 1762212138,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 392994,
@@ -115,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209193,
-      "num": 110320,
-      "word": "品牌回应翁青雅直播翻车",
-      "onboard_time": 1762212138,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194093,
       "num": 112893,
       "word": "邢菲拿奖导播切杨幂秦海璐",
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138059,
+      "num": 110065,
+      "word": "上拉如闯入小英娘家把小英吓哭",
+      "onboard_time": 1762193114,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 132127,
       "num": 132127,
       "word": "高中生被骗出国10万元卖给诈骗园区",
@@ -211,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116664,
-      "num": 109526,
-      "word": "上拉如闯入小英娘家把小英吓哭",
-      "onboard_time": 1762193114,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 116647,
       "num": 108204,
       "word": "JDG经理疑曝Kanavi态度有问题",
@@ -233,6 +233,14 @@
       "onboard_time": 1762178722,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110026,
+      "num": 110026,
+      "word": "特朗普70分钟采访提及中国41次",
+      "onboard_time": 1762173982,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107681,
@@ -265,14 +273,6 @@
       "onboard_time": 1762166061,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98420,
-      "num": 98420,
-      "word": "特朗普70分钟采访提及中国41次",
-      "onboard_time": 1762173982,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 97264,
@@ -411,6 +411,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61363,
+      "num": 61363,
+      "word": "杨阳特别感谢了杨洋",
+      "onboard_time": 1762212739,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60427,
+      "num": 60427,
+      "word": "杨幂 美羊羊扶额",
+      "onboard_time": 1762190597,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57734,
       "num": 97561,
       "word": "KPL一千零一夜",
@@ -459,12 +475,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51044,
-      "num": 51044,
-      "word": "杨幂 美羊羊扶额",
-      "onboard_time": 1762190597,
+      "raw_hot": 54098,
+      "num": 54098,
+      "word": "特朗普吹牛遭记者尴尬打断",
+      "onboard_time": 1762212498,
       "rank": 32,
-      "category": "综艺"
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 53294,
+      "num": 53294,
+      "word": "商家回应26元上门开锁最终收费1300",
+      "onboard_time": 1762212558,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51230,
+      "num": 52222,
+      "word": "7个月婴儿遭月嫂恶意猛摇",
+      "onboard_time": 1762190176,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48170,
@@ -475,11 +507,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46904,
-      "num": 51031,
-      "word": "7个月婴儿遭月嫂恶意猛摇",
-      "onboard_time": 1762190176,
-      "rank": 49,
+      "raw_hot": 46753,
+      "num": 52220,
+      "word": "光绪 DNA",
+      "onboard_time": 1762212859,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 43511,
+      "num": 52219,
+      "word": "人民海军居里夫人式女杰萨本茂逝世",
+      "onboard_time": 1762202053,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -491,12 +531,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42616,
+      "num": 52218,
+      "word": "男子1315元羽绒服一根羽绒都没有",
+      "onboard_time": 1762211838,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42026,
+      "num": 52218,
+      "word": "洪承畴 康熙",
+      "onboard_time": 1762212859,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41681,
       "num": 83856,
       "word": "陈艾森朱子锋男团双人10米台第一",
       "onboard_time": 1762188078,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40765,
+      "num": 52216,
+      "word": "鬼灭之刃",
+      "onboard_time": 1762212438,
+      "rank": 44,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 40173,
+      "num": 52215,
+      "word": "最权威的两张冷脸萌坐一块了",
+      "onboard_time": 1762212739,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38632,
+      "num": 52213,
+      "word": "发色对人的改变有多大",
+      "onboard_time": 1762212739,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 37941,
@@ -507,20 +587,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36047,
-      "num": 51002,
-      "word": "人民海军居里夫人式女杰萨本茂逝世",
-      "onboard_time": 1762202053,
+      "raw_hot": 37787,
+      "num": 52213,
+      "word": "为啥感冒很多时候会从嗓子疼开始",
+      "onboard_time": 1762212618,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 35874,
-      "num": 50987,
-      "word": "男子1315元羽绒服一根羽绒都没有",
-      "onboard_time": 1762211838,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 37552,
+      "num": 52212,
+      "word": "横店病",
+      "onboard_time": 1762213099,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 35445,
@@ -619,7 +699,7 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 3003,
+      "raw_hot": 3099,
       "num": 374865,
       "word": "中国体育名场面感动了一遍又一遍",
       "onboard_time": 1762070301,

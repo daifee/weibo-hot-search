@@ -1,0 +1,410 @@
+{
+  "runTime": 1762213137571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627983,
+        "num": 925546,
+        "word": "何炅 最近谣传我有衰老焦虑",
+        "onboard_time": 1762188078,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318542,
+        "num": 318542,
+        "word": "山姆在争议声中再更新APP",
+        "onboard_time": 1762184899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3099,
+        "num": 295168,
+        "word": "中国体育名场面感动了一遍又一遍",
+        "onboard_time": 1762070301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288170,
+        "num": 288170,
+        "word": "蓝盈莹回应撞衫",
+        "onboard_time": 1762182441,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189061,
+        "num": 189061,
+        "word": "台湾省可以用高德导航了",
+        "onboard_time": 1762181363,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145641,
+        "num": 145641,
+        "word": "孙铭阳卡点为孙颖莎庆生",
+        "onboard_time": 1762188498,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177585,
+        "num": 144070,
+        "word": "白鹿说我不是第一次一年播三部剧",
+        "onboard_time": 1762189217,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "中国空间站可以吃烧烤了",
+        "onboard_time": 1762181123,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134634,
+        "num": 134634,
+        "word": "王鹤棣攒了一年八卦就等今天了",
+        "onboard_time": 1762183225,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110186,
+        "num": 110186,
+        "word": "高中生被骗出国10万元卖给诈骗园区",
+        "onboard_time": 1762204514,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428550,
+        "num": 110169,
+        "word": "女子反抗猥亵被害153斤巨石压尸",
+        "onboard_time": 1762180102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415774,
+        "num": 110135,
+        "word": "品牌回应翁青雅直播翻车",
+        "onboard_time": 1762212138,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249450,
+        "num": 110103,
+        "word": "她一上午挣了我一个月的工资",
+        "onboard_time": 1762171641,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 110065,
+        "word": "上拉如闯入小英娘家把小英吓哭",
+        "onboard_time": 1762193114,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115677,
+        "num": 110057,
+        "word": "肖战人不到奖照拿",
+        "onboard_time": 1762182084,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110026,
+        "num": 110026,
+        "word": "特朗普70分钟采访提及中国41次",
+        "onboard_time": 1762173982,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105856,
+        "num": 105856,
+        "word": "大奉打更人官宣第二季",
+        "onboard_time": 1762181303,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94561,
+        "num": 94561,
+        "word": "王传君 春树",
+        "onboard_time": 1762185081,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91975,
+        "num": 91975,
+        "word": "杨笠清空抖音",
+        "onboard_time": 1762180162,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86474,
+        "num": 86474,
+        "word": "全红婵帮谢思埸带娃",
+        "onboard_time": 1762185320,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424547,
+        "num": 83195,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91895,
+        "num": 79972,
+        "word": "邢菲拿奖导播切杨幂秦海璐",
+        "onboard_time": 1762176142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74584,
+        "num": 74584,
+        "word": "中国航天员太空烤鸡翅",
+        "onboard_time": 1762179982,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73947,
+        "num": 73947,
+        "word": "上海可以夜间领证结婚了",
+        "onboard_time": 1762182502,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68150,
+        "num": 68150,
+        "word": "女子做美甲5年服务4万顾客获15万奖金",
+        "onboard_time": 1762206073,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67567,
+        "num": 67567,
+        "word": "340斤男生展示8块腹肌走红",
+        "onboard_time": 1762182203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63591,
+        "num": 63591,
+        "word": "JDG经理疑曝Kanavi态度有问题",
+        "onboard_time": 1762177644,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62922,
+        "num": 62922,
+        "word": "蓝盈莹蔡文静撞衫",
+        "onboard_time": 1762174942,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61363,
+        "num": 61363,
+        "word": "杨阳特别感谢了杨洋",
+        "onboard_time": 1762212739,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60427,
+        "num": 60427,
+        "word": "杨幂 美羊羊扶额",
+        "onboard_time": 1762190597,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59844,
+        "num": 59844,
+        "word": "海底捞美甲冠军获15万奖金",
+        "onboard_time": 1762178722,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54530,
+        "num": 54530,
+        "word": "影视飓风Tim震惊00后博主负债240万创作",
+        "onboard_time": 1762175602,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54098,
+        "num": 54098,
+        "word": "特朗普吹牛遭记者尴尬打断",
+        "onboard_time": 1762212498,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53771,
+        "num": 53771,
+        "word": "李现要准备双份份子钱了",
+        "onboard_time": 1762168283,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53294,
+        "num": 53294,
+        "word": "商家回应26元上门开锁最终收费1300",
+        "onboard_time": 1762212558,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52222,
+        "num": 52222,
+        "word": "武林外传世纪合体",
+        "onboard_time": 1762178183,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51230,
+        "num": 52222,
+        "word": "7个月婴儿遭月嫂恶意猛摇",
+        "onboard_time": 1762190176,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47179,
+        "num": 52221,
+        "word": "王一栩 回冷宫",
+        "onboard_time": 1762177403,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47092,
+        "num": 52220,
+        "word": "白百何 还能这么操作",
+        "onboard_time": 1762176262,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46753,
+        "num": 52220,
+        "word": "光绪 DNA",
+        "onboard_time": 1762212859,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43511,
+        "num": 52219,
+        "word": "人民海军居里夫人式女杰萨本茂逝世",
+        "onboard_time": 1762202053,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42616,
+        "num": 52218,
+        "word": "男子1315元羽绒服一根羽绒都没有",
+        "onboard_time": 1762211838,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42026,
+        "num": 52218,
+        "word": "洪承畴 康熙",
+        "onboard_time": 1762212859,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41894,
+        "num": 52216,
+        "word": "刘宇宁衣服比我人还长",
+        "onboard_time": 1762170502,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40765,
+        "num": 52216,
+        "word": "鬼灭之刃",
+        "onboard_time": 1762212438,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 40173,
+        "num": 52215,
+        "word": "最权威的两张冷脸萌坐一块了",
+        "onboard_time": 1762212739,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39752,
+        "num": 52215,
+        "word": "蒲熠星回应通告费",
+        "onboard_time": 1762164561,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38632,
+        "num": 52213,
+        "word": "发色对人的改变有多大",
+        "onboard_time": 1762212739,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37787,
+        "num": 52213,
+        "word": "为啥感冒很多时候会从嗓子疼开始",
+        "onboard_time": 1762212618,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37552,
+        "num": 52212,
+        "word": "横店病",
+        "onboard_time": 1762213099,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}
