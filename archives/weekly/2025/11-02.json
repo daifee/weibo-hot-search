@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762168997070,
+  "endTime": 1762169848077,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -443,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 555978,
+      "num": 271240,
+      "word": "男孩做微创手术被切六个器官",
+      "onboard_time": 1762163843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537743,
       "num": 270726,
       "word": "花少6小团体好明显",
@@ -627,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 475605,
-      "num": 271240,
-      "word": "男孩做微创手术被切六个器官",
-      "onboard_time": 1762163843,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475485,
       "num": 187742,
       "word": "张艺兴 小家为主",
@@ -672,6 +672,14 @@
       "word": "马思纯写给张晚意的信",
       "onboard_time": 1762065921,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 446536,
+      "num": 304582,
+      "word": "白鹿第二套",
+      "onboard_time": 1762166061,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -721,6 +729,14 @@
       "onboard_time": 1762046360,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 399930,
+      "num": 231631,
+      "word": "张凌赫 daddy级别",
+      "onboard_time": 1762168042,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 399271,
@@ -787,20 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385010,
-      "num": 258521,
-      "word": "白鹿第二套",
-      "onboard_time": 1762166061,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383454,
       "num": 205791,
       "word": "朱珠英语主持",
       "onboard_time": 1762081040,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379722,
+      "num": 379722,
+      "word": "T1严正声明",
+      "onboard_time": 1762165281,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 378435,
@@ -937,14 +953,6 @@
       "onboard_time": 1762004724,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336701,
-      "num": 336701,
-      "word": "T1严正声明",
-      "onboard_time": 1762165281,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 336455,
@@ -1443,6 +1451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233730,
+      "num": 170769,
+      "word": "房主任搂着杨幂给女儿录视频",
+      "onboard_time": 1762168763,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233461,
       "num": 157014,
       "word": "彭小苒说最胖的样子在郭敬明镜头里",
@@ -1763,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197952,
-      "num": 197952,
-      "word": "张凌赫 daddy级别",
-      "onboard_time": 1762168042,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197735,
       "num": 197735,
       "word": "迪丽热巴新剧路透梦回关小迪",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1762067000,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 195128,
+      "num": 208415,
+      "word": "老人疑强占幼儿园练剑与家长起冲突",
+      "onboard_time": 1762164021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194802,
@@ -2107,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169735,
+      "num": 169735,
+      "word": "何炅谢娜一出场我的青春回来了",
+      "onboard_time": 1762168702,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -2168,6 +2192,14 @@
       "word": "第一个让他们演情侣的简直是天才",
       "onboard_time": 1762143023,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165399,
+      "num": 165399,
+      "word": "网传唐嫣新剧撤档",
+      "onboard_time": 1762169061,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2273,14 +2305,6 @@
       "onboard_time": 1762133060,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157863,
-      "num": 157111,
-      "word": "房主任搂着杨幂给女儿录视频",
-      "onboard_time": 1762168763,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 157503,
@@ -2563,14 +2587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142543,
-      "num": 208415,
-      "word": "老人疑强占幼儿园练剑与家长起冲突",
-      "onboard_time": 1762164021,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142412,
       "num": 142412,
       "word": "于正找到了让赵晴最好看的办法",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1762060100,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139604,
+      "num": 139604,
+      "word": "李现要准备双份份子钱了",
+      "onboard_time": 1762168283,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 139508,
@@ -2659,6 +2683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136560,
+      "num": 119872,
+      "word": "张凌赫bking拨珠帘",
+      "onboard_time": 1762169662,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136480,
       "num": 136480,
       "word": "2025KPL年度总决赛",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1762064240,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134389,
+      "num": 134389,
+      "word": "微博视界大会 男帅女美",
+      "onboard_time": 1762169421,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 133846,
@@ -2891,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127849,
-      "num": 123476,
-      "word": "李现要准备双份份子钱了",
-      "onboard_time": 1762168283,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127756,
       "num": 127756,
       "word": "原来穿秋裤和不穿秋裤的是同一批人",
@@ -3033,6 +3065,14 @@
       "onboard_time": 1762153881,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123481,
+      "num": 123481,
+      "word": "微博视界大会座位",
+      "onboard_time": 1762168161,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 123479,
@@ -3475,20 +3515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109807,
-      "num": 109807,
-      "word": "微博视界大会座位",
-      "onboard_time": 1762168161,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109799,
       "num": 109799,
       "word": "何广智还回去说脱口秀吗",
       "onboard_time": 1762093882,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109562,
+      "num": 109562,
+      "word": "早睡简直就是人生作弊器",
+      "onboard_time": 1762166961,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 109348,
@@ -3555,12 +3595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108210,
-      "num": 108210,
-      "word": "早睡简直就是人生作弊器",
-      "onboard_time": 1762166961,
+      "raw_hot": 107974,
+      "num": 107974,
+      "word": "外国想涨价就涨如今成功国产",
+      "onboard_time": 1762169782,
       "rank": 35,
-      "category": "情感"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107955,
@@ -3649,6 +3689,14 @@
       "onboard_time": 1762057401,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107051,
+      "num": 107051,
+      "word": "刘宇宁二创直通盛典",
+      "onboard_time": 1762169602,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 106849,
@@ -4211,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96408,
+      "num": 96408,
+      "word": "日本首相官邸发布高市早苗外交名场面",
+      "onboard_time": 1762169121,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96372,
       "num": 131602,
       "word": "终于有剧带火乌鲁木齐了",
@@ -4364,7 +4420,7 @@
     },
     {
       "raw_hot": 93356,
-      "num": 86385,
+      "num": 87331,
       "word": "双胞胎做美甲中途换人的体验",
       "onboard_time": 1762167862,
       "rank": 44,
@@ -4385,6 +4441,14 @@
       "onboard_time": 1762012521,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93024,
+      "num": 93024,
+      "word": "我愿意为这个房子每天爬6楼",
+      "onboard_time": 1762169302,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 92973,
@@ -4771,6 +4835,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 87717,
+      "num": 87717,
+      "word": "中国空间站4只鼠鼠征名",
+      "onboard_time": 1762169662,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87514,
       "num": 87514,
       "word": "成毅这次完全是主人级别的",
@@ -4857,6 +4929,14 @@
       "onboard_time": 1762125078,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86710,
+      "num": 121570,
+      "word": "冬日就是要出色",
+      "onboard_time": 1762167801,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86638,
@@ -5003,6 +5083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 84467,
+      "num": 161097,
+      "word": "上海网友称91元买1根甘蔗",
+      "onboard_time": 1762168941,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84462,
       "num": 157861,
       "word": "众星发文悼念屠颖",
@@ -5043,14 +5131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84055,
-      "num": 84055,
-      "word": "何炅谢娜一出场我的青春回来了",
-      "onboard_time": 1762168702,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83821,
       "num": 128330,
       "word": "迪丽热巴入选亚太U35行业先锋领袖",
@@ -5081,6 +5161,14 @@
       "onboard_time": 1762166782,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83484,
+      "num": 116329,
+      "word": "用户连麦京东直播领到iPhone17",
+      "onboard_time": 1762169722,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 82945,
@@ -5171,14 +5259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81233,
-      "num": 96093,
-      "word": "冬日就是要出色",
-      "onboard_time": 1762167801,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81142,
       "num": 81142,
       "word": "王楚钦乖乖顺毛",
@@ -5257,6 +5337,14 @@
       "onboard_time": 1762096942,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79423,
+      "num": 79423,
+      "word": "炅娜",
+      "onboard_time": 1762169121,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 79291,
@@ -5345,6 +5433,14 @@
       "onboard_time": 1762066701,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77727,
+      "num": 77727,
+      "word": "54岁的母亲第一次独立",
+      "onboard_time": 1762169782,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 77498,
@@ -5787,14 +5883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62853,
-      "num": 108686,
-      "word": "上海网友称91元买1根甘蔗",
-      "onboard_time": 1762168941,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62693,
       "num": 72500,
       "word": "泰州队复刻阿根廷队夺冠世界杯动作",
@@ -5809,6 +5897,14 @@
       "onboard_time": 1762077622,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61786,
+      "num": 95004,
+      "word": "吴宣仪提醒路人拉链没拉",
+      "onboard_time": 1762168822,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 61459,
@@ -6115,6 +6211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39395,
+      "num": 93799,
+      "word": "金靖曝陈都灵经常看恶评警醒自己",
+      "onboard_time": 1762169241,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39012,
       "num": 40592,
       "word": "果郡王 竟然居然人",
@@ -6219,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33567,
+      "num": 162922,
+      "word": "志愿者称清远放生猫三成或感染猫瘟",
+      "onboard_time": 1762167621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32770,
       "num": 88988,
       "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
@@ -6233,6 +6345,14 @@
       "onboard_time": 1761987741,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31824,
+      "num": 163316,
+      "word": "商家操纵甲醛检测数据制造焦虑",
+      "onboard_time": 1762168822,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31280,
@@ -6339,14 +6459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25676,
-      "num": 95004,
-      "word": "吴宣仪提醒路人拉链没拉",
-      "onboard_time": 1762168822,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25557,
       "num": 144771,
       "word": "辛纳首夺巴黎大师赛冠军",
@@ -6419,14 +6531,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 22926,
-      "num": 123986,
-      "word": "商家操纵甲醛检测数据制造焦虑",
-      "onboard_time": 1762168822,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
@@ -6465,14 +6569,6 @@
       "onboard_time": 1762030994,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18859,
-      "num": 162922,
-      "word": "志愿者称清远放生猫三成或感染猫瘟",
-      "onboard_time": 1762167621,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18829,

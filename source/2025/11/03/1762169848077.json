@@ -1,0 +1,410 @@
+{
+  "runTime": 1762169848077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560174,
+        "num": 1089627,
+        "word": "微博视界大会内场",
+        "onboard_time": 1762164681,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379722,
+        "num": 379722,
+        "word": "T1严正声明",
+        "onboard_time": 1762165281,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2608,
+        "num": 316468,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762092380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446536,
+        "num": 304582,
+        "word": "白鹿第二套",
+        "onboard_time": 1762166061,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281208,
+        "num": 281208,
+        "word": "山姆变得像盒马",
+        "onboard_time": 1762158442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234190,
+        "num": 234190,
+        "word": "Cat即将回归赛场",
+        "onboard_time": 1762167021,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409400,
+        "num": 232363,
+        "word": "鬼灭之刃无限城篇定档",
+        "onboard_time": 1762164800,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399930,
+        "num": 231631,
+        "word": "张凌赫 daddy级别",
+        "onboard_time": 1762168042,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225628,
+        "num": 225628,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195128,
+        "num": 195128,
+        "word": "老人疑强占幼儿园练剑与家长起冲突",
+        "onboard_time": 1762164021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694627,
+        "num": 191399,
+        "word": "山东被切六个器官男孩妈妈发声",
+        "onboard_time": 1762164742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555978,
+        "num": 187959,
+        "word": "男孩做微创手术被切六个器官",
+        "onboard_time": 1762163843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450146,
+        "num": 181847,
+        "word": "巨型吊牌 防退货",
+        "onboard_time": 1762161322,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233730,
+        "num": 170769,
+        "word": "房主任搂着杨幂给女儿录视频",
+        "onboard_time": 1762168763,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169735,
+        "num": 169735,
+        "word": "何炅谢娜一出场我的青春回来了",
+        "onboard_time": 1762168702,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945873,
+        "num": 168572,
+        "word": "蒲熠星回应通告费",
+        "onboard_time": 1762164561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165399,
+        "num": 165399,
+        "word": "网传唐嫣新剧撤档",
+        "onboard_time": 1762169061,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110725,
+        "num": 164882,
+        "word": "全运会首个跳水0分",
+        "onboard_time": 1762154840,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31824,
+        "num": 163316,
+        "word": "商家操纵甲醛检测数据制造焦虑",
+        "onboard_time": 1762168822,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84467,
+        "num": 161097,
+        "word": "上海网友称91元买1根甘蔗",
+        "onboard_time": 1762168941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574298,
+        "num": 160072,
+        "word": "杨幂 蓝孔雀女王",
+        "onboard_time": 1762159222,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 158536,
+        "word": "微博视界大会直播",
+        "onboard_time": 1762152380,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501203,
+        "num": 153807,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412069,
+        "num": 150811,
+        "word": "蒲熠星 通告费",
+        "onboard_time": 1762155380,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145117,
+        "num": 145117,
+        "word": "电影鬼灭之刃",
+        "onboard_time": 1762146501,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 139604,
+        "num": 139604,
+        "word": "李现要准备双份份子钱了",
+        "onboard_time": 1762168283,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134389,
+        "num": 134389,
+        "word": "微博视界大会 男帅女美",
+        "onboard_time": 1762169421,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126972,
+        "num": 126972,
+        "word": "白鹿王鹤棣坐一起",
+        "onboard_time": 1762155860,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123481,
+        "num": 123481,
+        "word": "微博视界大会座位",
+        "onboard_time": 1762168161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86710,
+        "num": 121570,
+        "word": "冬日就是要出色",
+        "onboard_time": 1762167801,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136560,
+        "num": 119872,
+        "word": "张凌赫bking拨珠帘",
+        "onboard_time": 1762169662,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83484,
+        "num": 116329,
+        "word": "用户连麦京东直播领到iPhone17",
+        "onboard_time": 1762169722,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100015,
+        "num": 112209,
+        "word": "周大福珠宝涨价",
+        "onboard_time": 1762168581,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 110196,
+        "num": 110196,
+        "word": "颖儿怎么把黄瓜香芋穿身上",
+        "onboard_time": 1762166421,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109562,
+        "num": 109562,
+        "word": "早睡简直就是人生作弊器",
+        "onboard_time": 1762166961,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107974,
+        "num": 107974,
+        "word": "外国想涨价就涨如今成功国产",
+        "onboard_time": 1762169782,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107051,
+        "num": 107051,
+        "word": "刘宇宁二创直通盛典",
+        "onboard_time": 1762169602,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96408,
+        "num": 96408,
+        "word": "日本首相官邸发布高市早苗外交名场面",
+        "onboard_time": 1762169121,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61786,
+        "num": 94615,
+        "word": "吴宣仪提醒路人拉链没拉",
+        "onboard_time": 1762168822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39395,
+        "num": 93799,
+        "word": "金靖曝陈都灵经常看恶评警醒自己",
+        "onboard_time": 1762169241,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93024,
+        "num": 93024,
+        "word": "我愿意为这个房子每天爬6楼",
+        "onboard_time": 1762169302,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87717,
+        "num": 87717,
+        "word": "中国空间站4只鼠鼠征名",
+        "onboard_time": 1762169662,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90690,
+        "num": 87331,
+        "word": "双胞胎做美甲中途换人的体验",
+        "onboard_time": 1762167862,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84435,
+        "num": 86289,
+        "word": "暴食了十根香蕉会长胖吗",
+        "onboard_time": 1762166480,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 86210,
+        "num": 86210,
+        "word": "杨超越和她的仆人们",
+        "onboard_time": 1762163242,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81917,
+        "num": 81917,
+        "word": "今日说法主持人被骗1千元买茶叶",
+        "onboard_time": 1762152141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223174,
+        "num": 81589,
+        "word": "全红婵搭档称压力大到不敢洗头发",
+        "onboard_time": 1762164621,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33567,
+        "num": 79926,
+        "word": "志愿者称清远放生猫三成或感染猫瘟",
+        "onboard_time": 1762167621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79423,
+        "num": 79423,
+        "word": "炅娜",
+        "onboard_time": 1762169121,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77727,
+        "num": 77727,
+        "word": "54岁的母亲第一次独立",
+        "onboard_time": 1762169782,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}
