@@ -1,7 +1,15 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762148578907,
+  "endTime": 1762152030556,
   "band_list": [
+    {
+      "raw_hot": 1377856,
+      "num": 209358,
+      "word": "王紫璇李鸿其官宣结婚",
+      "onboard_time": 1762150942,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1279637,
       "num": 157224,
@@ -43,8 +51,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 612599,
+      "num": 1098015,
+      "word": "电影鬼灭之刃",
+      "onboard_time": 1762146501,
+      "rank": 3,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 581199,
-      "num": 177830,
+      "num": 200035,
       "word": "朱珠说没关系早就翻了",
       "onboard_time": 1762144762,
       "rank": 15,
@@ -91,12 +107,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 525342,
+      "num": 202274,
+      "word": "出生率接近0的日本城市后来怎样了",
+      "onboard_time": 1762146082,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 521536,
       "num": 210257,
       "word": "李茂因弦子生孩子晕倒大哭",
       "onboard_time": 1762138159,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510722,
+      "num": 510722,
+      "word": "亲属想侵吞3姐妹亡父赔偿款",
+      "onboard_time": 1762148600,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507369,
@@ -147,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453354,
-      "num": 234831,
-      "word": "电影鬼灭之刃",
-      "onboard_time": 1762146501,
-      "rank": 3,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 430721,
       "num": 430721,
       "word": "翁青雅说闯祸了可以看看我",
@@ -169,6 +193,14 @@
       "onboard_time": 1762093043,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 399271,
+      "num": 399271,
+      "word": "2007年后出生的人不能在马尔代夫吸烟",
+      "onboard_time": 1762144521,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 397058,
@@ -275,19 +307,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 301999,
-      "num": 177616,
-      "word": "出生率接近0的日本城市后来怎样了",
-      "onboard_time": 1762146082,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 294426,
       "num": 209722,
       "word": "陈乔恩结婚前没有朋友圈",
       "onboard_time": 1762142242,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294162,
+      "num": 294162,
+      "word": "沈月 是公主也是自己的骑士",
+      "onboard_time": 1762147281,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248539,
+      "num": 193075,
+      "word": "旺旺向金靖介绍自己男友",
+      "onboard_time": 1762149861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247988,
       "num": 145939,
       "word": "莲花楼里的土狗叫狐狸精",
@@ -387,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228045,
+      "num": 221288,
+      "word": "花儿与少年",
+      "onboard_time": 1762148600,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226415,
+      "num": 190830,
+      "word": "杨幂VOGUE开年刊",
+      "onboard_time": 1762150942,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225198,
       "num": 225198,
       "word": "台湾不能再吃战争的苦",
@@ -411,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215422,
+      "num": 215422,
+      "word": "广州地铁回应APP乘车码频繁弹窗广告",
+      "onboard_time": 1762143621,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212635,
       "num": 146890,
       "word": "乐扣官宣订婚",
       "onboard_time": 1762133719,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212619,
-      "num": 212619,
-      "word": "广州地铁回应APP乘车码频繁弹窗广告",
-      "onboard_time": 1762143621,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210344,
@@ -499,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185746,
+      "num": 170325,
+      "word": "金饰克价一夜暴涨63元",
+      "onboard_time": 1762146681,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183896,
       "num": 183896,
       "word": "杨超越 红与黑",
@@ -571,14 +635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170325,
-      "num": 170325,
-      "word": "金饰克价一夜暴涨63元",
-      "onboard_time": 1762146681,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167578,
       "num": 167578,
       "word": "柯南计时引爆摩天楼官宣引进",
@@ -627,14 +683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158153,
-      "num": 176136,
-      "word": "沈月 是公主也是自己的骑士",
-      "onboard_time": 1762147281,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157964,
       "num": 157964,
       "word": "缉毒犬能有多帅",
@@ -651,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155243,
+      "num": 145965,
+      "word": "一周晒一次被子",
+      "onboard_time": 1762151422,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 154823,
       "num": 117152,
       "word": "剑网3新品金发",
@@ -665,6 +721,14 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148659,
+      "num": 148659,
+      "word": "时代少年团贵阳演唱会定妆花絮",
+      "onboard_time": 1762150702,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 148411,
@@ -691,20 +755,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148111,
+      "num": 210944,
+      "word": "高中生讲述缅北51天经历",
+      "onboard_time": 1762150341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142736,
       "num": 142736,
       "word": "网传瑞幸团建店员饮酒过量致死",
       "onboard_time": 1762145960,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141641,
-      "num": 178117,
-      "word": "2007年后出生的人不能在马尔代夫吸烟",
-      "onboard_time": 1762144521,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140209,
@@ -800,6 +864,22 @@
       "word": "00后野人医学生自制荒野版蒙脱石散",
       "onboard_time": 1762133060,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125130,
+      "num": 125130,
+      "word": "这居然是王敬轩",
+      "onboard_time": 1762150582,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124811,
+      "num": 124811,
+      "word": "高校食堂卖999元帝王蟹",
+      "onboard_time": 1762149741,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98912,
+      "num": 127093,
+      "word": "第一次见自己哄自己的男主",
+      "onboard_time": 1762150763,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98716,
       "num": 98716,
       "word": "全红婵捡到了星星人",
@@ -1105,6 +1193,14 @@
       "onboard_time": 1762142601,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97694,
+      "num": 97694,
+      "word": "陈赫考上戏上岸靠打嗝",
+      "onboard_time": 1762149922,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 96977,
@@ -1163,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92716,
+      "num": 92716,
+      "word": "孙杨用意志在泳池前行",
+      "onboard_time": 1762151422,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92033,
       "num": 92033,
       "word": "湖人vs热火",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1762092081,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91695,
+      "num": 91695,
+      "word": "美国一女子为保护孩子击毙实验猴",
+      "onboard_time": 1762151720,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91308,
@@ -1363,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82292,
+      "num": 82292,
+      "word": "爱到最后都是iMessage",
+      "onboard_time": 1762151601,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80255,
       "num": 80255,
       "word": "A股半日缩量1755亿",
@@ -1379,12 +1499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79260,
+      "num": 79260,
+      "word": "王楚钦的英语表达好local",
+      "onboard_time": 1762151841,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78094,
       "num": 97779,
       "word": "王鹤棣新歌Pretty",
       "onboard_time": 1762101199,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77822,
+      "num": 77822,
+      "word": "王楚钦乖乖顺毛",
+      "onboard_time": 1762151241,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77797,
+      "num": 77797,
+      "word": "批准公开虐囚视频的以军检察官被捕",
+      "onboard_time": 1762149682,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77772,
@@ -1539,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58434,
+      "num": 91025,
+      "word": "科颜氏回应产品被曝检出苏丹红",
+      "onboard_time": 1762151780,
+      "rank": 38,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 54498,
       "num": 208995,
       "word": "周一也有周一的开工仪式",
@@ -1556,11 +1708,27 @@
     },
     {
       "raw_hot": 49119,
-      "num": 345906,
+      "num": 449520,
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48707,
+      "num": 91146,
+      "word": "官方回应称明确禁止个人淘金",
+      "onboard_time": 1762151780,
+      "rank": 37,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 45996,
+      "num": 156271,
+      "word": "北马破三人数创纪录",
+      "onboard_time": 1762149861,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 44784,
@@ -1569,6 +1737,14 @@
       "onboard_time": 1762126520,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40665,
+      "num": 90977,
+      "word": "男子穿板鞋违法穿越鳌太线",
+      "onboard_time": 1762150821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39910,
@@ -1587,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35587,
+      "num": 75138,
+      "word": "自然堂与龚俊实力共赴",
+      "onboard_time": 1762150882,
+      "rank": 48,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 32770,
       "num": 88988,
       "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
@@ -1601,6 +1785,14 @@
       "onboard_time": 1762107135,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29567,
+      "num": 74563,
+      "word": "海斯湖人生涯第一个三分",
+      "onboard_time": 1762150341,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26177,
