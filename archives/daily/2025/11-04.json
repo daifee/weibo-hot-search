@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762205977510,
+  "endTime": 1762208765463,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190262,
+      "num": 395459,
+      "word": "何炅 最近谣传我有衰老焦虑",
+      "onboard_time": 1762188078,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175936,
       "num": 112011,
       "word": "王一栩 回冷宫",
@@ -129,14 +137,6 @@
       "onboard_time": 1762178542,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166510,
-      "num": 183368,
-      "word": "何炅 最近谣传我有衰老焦虑",
-      "onboard_time": 1762188078,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 152256,
@@ -515,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26991,
+      "num": 26991,
+      "word": "高中生被骗出国10万元卖给诈骗园区",
+      "onboard_time": 1762204514,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26768,
       "num": 28354,
       "word": "杨幂黄晓明微博年度演员",
@@ -531,7 +539,23 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15339,
+      "raw_hot": 25015,
+      "num": 25015,
+      "word": "女子做美甲5年服务4万顾客获15万奖金",
+      "onboard_time": 1762206073,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22588,
+      "num": 22588,
+      "word": "美股三大指数集体拉升",
+      "onboard_time": 1762207815,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 21324,
       "num": 21662,
       "word": "凤凰台上",
       "onboard_time": 1762202714,
@@ -539,28 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13601,
-      "num": 21592,
-      "word": "高中生被骗出国10万元卖给诈骗园区",
-      "onboard_time": 1762204514,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13393,
-      "num": 21583,
-      "word": "马尔代夫培养无烟一代",
-      "onboard_time": 1762201633,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12839,
+      "raw_hot": 21067,
       "num": 21567,
       "word": "人民海军居里夫人式女杰萨本茂逝世",
       "onboard_time": 1762202053,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14321,
+      "num": 21583,
+      "word": "马尔代夫培养无烟一代",
+      "onboard_time": 1762201633,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12643,
