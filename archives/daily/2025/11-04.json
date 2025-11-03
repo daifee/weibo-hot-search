@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762202595995,
+  "endTime": 1762205065849,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -467,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32340,
+      "num": 32340,
+      "word": "卢浮宫盗贼居住在巴黎本地",
+      "onboard_time": 1762199114,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31548,
       "num": 31548,
       "word": "上拉如闯入小英娘家把小英吓哭",
@@ -523,20 +531,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15129,
-      "num": 15129,
-      "word": "卢浮宫盗贼居住在巴黎本地",
-      "onboard_time": 1762199114,
-      "rank": 30,
+      "raw_hot": 14187,
+      "num": 14557,
+      "word": "凤凰台上",
+      "onboard_time": 1762202714,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13393,
+      "num": 14551,
+      "word": "马尔代夫培养无烟一代",
+      "onboard_time": 1762201633,
+      "rank": 47,
       "category": "海外新闻"
     },
     {
       "raw_hot": 12643,
-      "num": 13848,
+      "num": 14549,
       "word": "墨西哥米却肯州4年7位市长遇害",
       "onboard_time": 1762199593,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12611,
+      "num": 14548,
+      "word": "高中生被骗出国10万元卖给诈骗园区",
+      "onboard_time": 1762204514,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12245,
@@ -547,16 +571,8 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 11592,
-      "num": 13845,
-      "word": "马尔代夫培养无烟一代",
-      "onboard_time": 1762201633,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 11380,
-      "num": 13731,
+      "raw_hot": 12012,
+      "num": 14545,
       "word": "人民海军居里夫人式女杰萨本茂逝世",
       "onboard_time": 1762202053,
       "rank": 48,
