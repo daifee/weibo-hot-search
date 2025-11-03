@@ -1,0 +1,410 @@
+{
+  "runTime": 1762147684010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656822,
+        "num": 1105091,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245622,
+        "num": 245622,
+        "word": "王建军被双开",
+        "onboard_time": 1762140562,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 33056,
+        "num": 235163,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349363,
+        "num": 234831,
+        "word": "电影鬼灭之刃",
+        "onboard_time": 1762146501,
+        "rank": 3,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 234202,
+        "num": 234202,
+        "word": "以军虐囚视频",
+        "onboard_time": 1762145721,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212619,
+        "num": 212619,
+        "word": "广州地铁回应APP乘车码频繁弹窗广告",
+        "onboard_time": 1762143621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273881,
+        "num": 210330,
+        "word": "陈瑶穿了五彩斑斓的白",
+        "onboard_time": 1762145423,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200631,
+        "num": 200631,
+        "word": "我国成功发射遥感四十六号卫星",
+        "onboard_time": 1762145062,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196967,
+        "num": 196967,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "Faker切屏同时预判金身",
+        "onboard_time": 1762138099,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 581199,
+        "num": 174168,
+        "word": "朱珠说没关系早就翻了",
+        "onboard_time": 1762144762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506306,
+        "num": 174055,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355503,
+        "num": 172907,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319011,
+        "num": 172581,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1762141820,
+        "rank": 13,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 256577,
+        "num": 171637,
+        "word": "陈乔恩结婚前没有朋友圈",
+        "onboard_time": 1762142242,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222222,
+        "num": 171155,
+        "word": "出生率接近0的日本城市后来怎样了",
+        "onboard_time": 1762146082,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189807,
+        "num": 170778,
+        "word": "发完分手宣言的人结婚了",
+        "onboard_time": 1762140623,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170401,
+        "num": 170401,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1762140920,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164786,
+        "num": 164786,
+        "word": "唐诡3好多返场老熟人",
+        "onboard_time": 1762142541,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33760,
+        "num": 161307,
+        "word": "周一也有周一的开工仪式",
+        "onboard_time": 1762143141,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179774,
+        "num": 160705,
+        "word": "黄金 征税",
+        "onboard_time": 1762146443,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 179875,
+        "num": 160449,
+        "word": "鱼你有染",
+        "onboard_time": 1762146201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153551,
+        "num": 153551,
+        "word": "金饰克价一夜暴涨63元",
+        "onboard_time": 1762146681,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142736,
+        "num": 142736,
+        "word": "网传瑞幸团建店员饮酒过量致死",
+        "onboard_time": 1762145960,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135575,
+        "num": 135575,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126516,
+        "num": 126516,
+        "word": "沈月 是公主也是自己的骑士",
+        "onboard_time": 1762147281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123835,
+        "num": 123835,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116912,
+        "num": 116912,
+        "word": "李沁9年后再蹦极哭的是我",
+        "onboard_time": 1762147340,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116571,
+        "num": 116571,
+        "word": "被大体老师震撼到了",
+        "onboard_time": 1762142780,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111813,
+        "num": 111813,
+        "word": "肖战入选2025年亚太行业先锋领袖榜单",
+        "onboard_time": 1762146023,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111710,
+        "num": 111710,
+        "word": "全红婵陈芋汐张家齐跳台贴贴",
+        "onboard_time": 1762145002,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109638,
+        "num": 109638,
+        "word": "2007年后出生的人不能在马尔代夫吸烟",
+        "onboard_time": 1762144521,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105517,
+        "num": 105517,
+        "word": "才知道中医问有没谈恋爱是什么意思",
+        "onboard_time": 1762145062,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 105359,
+        "word": "彭小苒 发际线后移",
+        "onboard_time": 1762138520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102301,
+        "num": 102301,
+        "word": "何炅谢娜视界大会主持",
+        "onboard_time": 1762146621,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101611,
+        "num": 101611,
+        "word": "李茂因弦子生孩子晕倒大哭",
+        "onboard_time": 1762138159,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100972,
+        "num": 100972,
+        "word": "上海最贵的面vs上海最便宜的面",
+        "onboard_time": 1762143742,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67339,
+        "num": 100149,
+        "word": "成毅上半身冬天下半身夏天",
+        "onboard_time": 1762146681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18201,
+        "num": 99938,
+        "word": "丁禹兮手臂伤疤",
+        "onboard_time": 1762147223,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99911,
+        "num": 99911,
+        "word": "徐梦洁校园剧",
+        "onboard_time": 1762146981,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98716,
+        "num": 98716,
+        "word": "全红婵捡到了星星人",
+        "onboard_time": 1762145662,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96217,
+        "num": 96217,
+        "word": "Wayward谈Kanavi琪亚娜",
+        "onboard_time": 1762145123,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95367,
+        "num": 95367,
+        "word": "让别人从骨子里觉得你不好惹",
+        "onboard_time": 1762147223,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93598,
+        "num": 93598,
+        "word": "驻日美军接连发生性暴力事件",
+        "onboard_time": 1762139419,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91045,
+        "num": 91045,
+        "word": "叠纸心意",
+        "onboard_time": 1762146141,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90611,
+        "num": 90611,
+        "word": "大批品牌检出苏丹红",
+        "onboard_time": 1762131981,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 68232,
+        "num": 89359,
+        "word": "新款小鹏X9首发电动三折叠",
+        "onboard_time": 1762142601,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 88520,
+        "word": "金吾不禁开机",
+        "onboard_time": 1762139419,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84246,
+        "num": 84246,
+        "word": "国际金价再现断崖式下跌",
+        "onboard_time": 1762140679,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}

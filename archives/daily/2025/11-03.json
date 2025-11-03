@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762145367786,
+  "endTime": 1762147684010,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -41,6 +41,14 @@
       "onboard_time": 1762131981,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 581199,
+      "num": 174168,
+      "word": "朱珠说没关系早就翻了",
+      "onboard_time": 1762144762,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 570508,
@@ -187,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349363,
+      "num": 234831,
+      "word": "电影鬼灭之刃",
+      "onboard_time": 1762146501,
+      "rank": 3,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 345347,
       "num": 209228,
       "word": "感觉她上的才是真大学",
@@ -219,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319011,
+      "num": 209358,
+      "word": "长期焦虑过度的表现",
+      "onboard_time": 1762141820,
+      "rank": 16,
+      "category": "情感,健康医疗"
+    },
+    {
       "raw_hot": 313329,
       "num": 149750,
       "word": "被男友割喉护士曾多次被勒脖子",
@@ -249,14 +273,6 @@
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304442,
-      "num": 209358,
-      "word": "长期焦虑过度的表现",
-      "onboard_time": 1762141820,
-      "rank": 16,
-      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 294426,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273881,
+      "num": 210330,
+      "word": "陈瑶穿了五彩斑斓的白",
+      "onboard_time": 1762145423,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272636,
       "num": 272636,
       "word": "金吾不禁开机",
@@ -320,14 +344,6 @@
       "word": "翁青雅在伦敦上的大学",
       "onboard_time": 1762128200,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 258132,
-      "num": 173478,
-      "word": "朱珠说没关系早就翻了",
-      "onboard_time": 1762144762,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1762134740,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234202,
+      "num": 234202,
+      "word": "以军虐囚视频",
+      "onboard_time": 1762145721,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230454,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222222,
+      "num": 171155,
+      "word": "出生率接近0的日本城市后来怎样了",
+      "onboard_time": 1762146082,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 220717,
       "num": 220717,
       "word": "间谍加大对我国粮食领域渗透",
@@ -385,6 +417,14 @@
       "onboard_time": 1762133719,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212619,
+      "num": 212619,
+      "word": "广州地铁回应APP乘车码频繁弹窗广告",
+      "onboard_time": 1762143621,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210344,
@@ -409,6 +449,14 @@
       "onboard_time": 1762093163,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200631,
+      "num": 200631,
+      "word": "我国成功发射遥感四十六号卫星",
+      "onboard_time": 1762145062,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197735,
@@ -459,6 +507,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179875,
+      "num": 160449,
+      "word": "鱼你有染",
+      "onboard_time": 1762146201,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179774,
+      "num": 160705,
+      "word": "黄金 征税",
+      "onboard_time": 1762146443,
+      "rank": 20,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 178829,
       "num": 178829,
       "word": "闪耀暖暖",
@@ -497,14 +561,6 @@
       "onboard_time": 1762144042,
       "rank": 26,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 166804,
-      "num": 166804,
-      "word": "广州地铁回应APP乘车码频繁弹窗广告",
-      "onboard_time": 1762143621,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165699,
@@ -563,20 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155017,
-      "num": 155017,
-      "word": "我国成功发射遥感四十六号卫星",
-      "onboard_time": 1762145062,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154823,
       "num": 117152,
       "word": "剑网3新品金发",
       "onboard_time": 1762140562,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153551,
+      "num": 153551,
+      "word": "金饰克价一夜暴涨63元",
+      "onboard_time": 1762146681,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 152706,
@@ -609,6 +665,14 @@
       "onboard_time": 1762143502,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142736,
+      "num": 142736,
+      "word": "网传瑞幸团建店员饮酒过量致死",
+      "onboard_time": 1762145960,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140209,
@@ -691,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126516,
+      "num": 126516,
+      "word": "沈月 是公主也是自己的骑士",
+      "onboard_time": 1762147281,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "00后野人医学生自制荒野版蒙脱石散",
@@ -729,6 +801,14 @@
       "onboard_time": 1762126399,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116912,
+      "num": 116912,
+      "word": "李沁9年后再蹦极哭的是我",
+      "onboard_time": 1762147340,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 116280,
@@ -795,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111813,
+      "num": 111813,
+      "word": "肖战入选2025年亚太行业先锋领袖榜单",
+      "onboard_time": 1762146023,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111607,
       "num": 111607,
       "word": "恋与深空",
@@ -809,6 +897,14 @@
       "onboard_time": 1762100900,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109638,
+      "num": 109638,
+      "word": "2007年后出生的人不能在马尔代夫吸烟",
+      "onboard_time": 1762144521,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109348,
@@ -899,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102301,
+      "num": 102301,
+      "word": "何炅谢娜视界大会主持",
+      "onboard_time": 1762146621,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100960,
       "num": 105411,
       "word": "丁禹兮也太会演心动了",
@@ -913,6 +1017,14 @@
       "onboard_time": 1762145182,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99911,
+      "num": 99911,
+      "word": "徐梦洁校园剧",
+      "onboard_time": 1762146981,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 99578,
@@ -936,6 +1048,14 @@
       "word": "全运会乒乓球神秘定律",
       "onboard_time": 1762099941,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98716,
+      "num": 98716,
+      "word": "全红婵捡到了星星人",
+      "onboard_time": 1762145662,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -969,6 +1089,14 @@
       "onboard_time": 1762136420,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "让别人从骨子里觉得你不好惹",
+      "onboard_time": 1762147223,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 94973,
@@ -1017,6 +1145,14 @@
       "onboard_time": 1762141040,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91045,
+      "num": 91045,
+      "word": "叠纸心意",
+      "onboard_time": 1762146141,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 90697,
@@ -1275,6 +1411,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67339,
+      "num": 100149,
+      "word": "成毅上半身冬天下半身夏天",
+      "onboard_time": 1762146681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66823,
       "num": 66823,
       "word": "以色列总理称遭严重舆论打击",
@@ -1305,14 +1449,6 @@
       "onboard_time": 1762139659,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59474,
-      "num": 107109,
-      "word": "2007年后出生的人不能在马尔代夫吸烟",
-      "onboard_time": 1762144521,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 54498,
@@ -1400,6 +1536,14 @@
       "word": "吴谨言晒近照",
       "onboard_time": 1762111094,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18201,
+      "num": 99938,
+      "word": "丁禹兮手臂伤疤",
+      "onboard_time": 1762147223,
+      "rank": 39,
       "category": "艺人"
     },
     {
