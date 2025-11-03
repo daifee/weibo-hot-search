@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762209739814,
+  "endTime": 1762212300138,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -8,6 +8,14 @@
       "word": "欧豪在看马思纯吗",
       "onboard_time": 1762177043,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 568346,
+      "num": 813435,
+      "word": "何炅 最近谣传我有衰老焦虑",
+      "onboard_time": 1762188078,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -27,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393171,
+      "raw_hot": 400933,
       "num": 117384,
       "word": "女子反抗猥亵被害153斤巨石压尸",
       "onboard_time": 1762180102,
@@ -57,14 +65,6 @@
       "onboard_time": 1762185081,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 281524,
-      "num": 495061,
-      "word": "何炅 最近谣传我有衰老焦虑",
-      "onboard_time": 1762188078,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 260407,
@@ -115,11 +115,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209193,
+      "num": 110320,
+      "word": "品牌回应翁青雅直播翻车",
+      "onboard_time": 1762212138,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194093,
       "num": 112893,
       "word": "邢菲拿奖导播切杨幂秦海璐",
       "onboard_time": 1762176142,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181306,
+      "num": 146798,
+      "word": "白鹿说我不是第一次一年播三部剧",
+      "onboard_time": 1762189217,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -139,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163819,
+      "num": 163819,
+      "word": "孙铭阳卡点为孙颖莎庆生",
+      "onboard_time": 1762188498,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161892,
+      "num": 146285,
+      "word": "王鹤棣攒了一年八卦就等今天了",
+      "onboard_time": 1762183225,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152256,
       "num": 110373,
       "word": "全红婵帮谢思埸带娃",
@@ -155,20 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132306,
-      "num": 132306,
-      "word": "孙铭阳卡点为孙颖莎庆生",
-      "onboard_time": 1762188498,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124094,
-      "num": 124094,
-      "word": "王鹤棣攒了一年八卦就等今天了",
-      "onboard_time": 1762183225,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 132127,
+      "num": 132127,
+      "word": "高中生被骗出国10万元卖给诈骗园区",
+      "onboard_time": 1762204514,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121693,
@@ -179,20 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119028,
-      "num": 119028,
-      "word": "白鹿说我不是第一次一年播三部剧",
-      "onboard_time": 1762189217,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117728,
       "num": 117728,
       "word": "上海可以夜间领证结婚了",
       "onboard_time": 1762182502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116664,
+      "num": 109526,
+      "word": "上拉如闯入小英娘家把小英吓哭",
+      "onboard_time": 1762193114,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 116647,
@@ -227,8 +251,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101511,
-      "num": 101511,
+      "raw_hot": 101732,
+      "num": 101732,
       "word": "杨笠清空抖音",
       "onboard_time": 1762180162,
       "rank": 25,
@@ -305,6 +329,14 @@
       "onboard_time": 1762182743,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76458,
+      "num": 76458,
+      "word": "女子做美甲5年服务4万顾客获15万奖金",
+      "onboard_time": 1762206073,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75727,
@@ -427,16 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53539,
-      "num": 53539,
-      "word": "高中生被骗出国10万元卖给诈骗园区",
-      "onboard_time": 1762204514,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48341,
-      "num": 48341,
+      "raw_hot": 51044,
+      "num": 51044,
       "word": "杨幂 美羊羊扶额",
       "onboard_time": 1762190597,
       "rank": 32,
@@ -448,6 +472,14 @@
       "word": "太空烤翅出炉航天员直呼哇塞",
       "onboard_time": 1762181123,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46904,
+      "num": 51031,
+      "word": "7个月婴儿遭月嫂恶意猛摇",
+      "onboard_time": 1762190176,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -468,27 +500,43 @@
     },
     {
       "raw_hot": 37941,
-      "num": 31794,
+      "num": 50996,
       "word": "369致歉",
       "onboard_time": 1762192515,
       "rank": 21,
       "category": "电竞"
     },
     {
-      "raw_hot": 35840,
-      "num": 35840,
-      "word": "上拉如闯入小英娘家把小英吓哭",
-      "onboard_time": 1762193114,
-      "rank": 25,
-      "category": "网红"
+      "raw_hot": 36047,
+      "num": 51002,
+      "word": "人民海军居里夫人式女杰萨本茂逝世",
+      "onboard_time": 1762202053,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35874,
+      "num": 50987,
+      "word": "男子1315元羽绒服一根羽绒都没有",
+      "onboard_time": 1762211838,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35445,
-      "num": 35445,
+      "num": 50930,
       "word": "肖战藏海传多领域第一",
       "onboard_time": 1762209436,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33832,
+      "num": 50982,
+      "word": "美股三大指数集体拉升",
+      "onboard_time": 1762207815,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 32340,
@@ -500,7 +548,7 @@
     },
     {
       "raw_hot": 31143,
-      "num": 45503,
+      "num": 50948,
       "word": "莱巴金娜年终总决赛两连胜",
       "onboard_time": 1762189097,
       "rank": 45,
@@ -515,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29711,
-      "num": 45470,
-      "word": "7个月婴儿遭月嫂恶意猛摇",
-      "onboard_time": 1762190176,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29181,
       "num": 39590,
       "word": "固体杨枝甘露",
@@ -531,12 +571,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 29009,
-      "num": 29009,
-      "word": "女子做美甲5年服务4万顾客获15万奖金",
-      "onboard_time": 1762206073,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 27475,
+      "num": 50959,
+      "word": "凤凰台上",
+      "onboard_time": 1762202714,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 26768,
@@ -553,30 +593,6 @@
       "onboard_time": 1762164681,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22588,
-      "num": 27189,
-      "word": "美股三大指数集体拉升",
-      "onboard_time": 1762207815,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 21324,
-      "num": 27189,
-      "word": "凤凰台上",
-      "onboard_time": 1762202714,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21067,
-      "num": 27189,
-      "word": "人民海军居里夫人式女杰萨本茂逝世",
-      "onboard_time": 1762202053,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14321,
