@@ -1,0 +1,410 @@
+{
+  "runTime": 1762140319585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818778,
+        "num": 1131004,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386479,
+        "num": 386479,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49119,
+        "num": 300355,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236193,
+        "num": 236193,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221006,
+        "num": 221006,
+        "word": "全红婵陈芋汐仅差0.9分",
+        "onboard_time": 1762126399,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214197,
+        "num": 214197,
+        "word": "全体搜救队员静候航天员凯旋",
+        "onboard_time": 1762134740,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208241,
+        "num": 208241,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202449,
+        "num": 202449,
+        "word": "间谍加大对我国粮食领域渗透",
+        "onboard_time": 1762125738,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195817,
+        "num": 195817,
+        "word": "金吾不禁开机",
+        "onboard_time": 1762139419,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195131,
+        "num": 195131,
+        "word": "迪丽热巴新剧路透梦回关小迪",
+        "onboard_time": 1762136899,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664490,
+        "num": 195125,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633864,
+        "num": 195105,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465320,
+        "num": 195103,
+        "word": "彭小苒 发际线后移",
+        "onboard_time": 1762138520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446104,
+        "num": 195082,
+        "word": "李茂因弦子生孩子晕倒大哭",
+        "onboard_time": 1762138159,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417909,
+        "num": 195063,
+        "word": "大批品牌检出苏丹红",
+        "onboard_time": 1762131981,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195062,
+        "word": "开拓者召回杨瀚森",
+        "onboard_time": 1762134680,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322465,
+        "num": 193721,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1762137140,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277364,
+        "num": 192465,
+        "word": "Faker切屏同时预判金身",
+        "onboard_time": 1762138099,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264817,
+        "num": 189287,
+        "word": "郭宇欣一条裙子穿了三次",
+        "onboard_time": 1762134140,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26415,
+        "num": 186728,
+        "word": "被波司登店长暖到了",
+        "onboard_time": 1762136241,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 467553,
+        "num": 185529,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233498,
+        "num": 182312,
+        "word": "考上研究生是对混子的最大惩罚",
+        "onboard_time": 1762127720,
+        "rank": 21,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 181736,
+        "word": "彭小苒被爸爸监督工作",
+        "onboard_time": 1762139840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162065,
+        "num": 162065,
+        "word": "父亲称被害护士开始不知男友已婚已育",
+        "onboard_time": 1762136660,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143248,
+        "num": 143248,
+        "word": "驻日美军接连发生性暴力事件",
+        "onboard_time": 1762139419,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139514,
+        "num": 139514,
+        "word": "驻日美军在冲绳街头首次单独巡逻",
+        "onboard_time": 1762130120,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133774,
+        "num": 133774,
+        "word": "南航通报员工参加3000米体测猝死",
+        "onboard_time": 1762128380,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129091,
+        "num": 129091,
+        "word": "240小时过境免签口岸数再增5个",
+        "onboard_time": 1762139121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125665,
+        "num": 125665,
+        "word": "轻断食从116斤瘦到94斤",
+        "onboard_time": 1762125317,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122074,
+        "num": 122074,
+        "word": "学生买淀粉肠钥匙被拿走",
+        "onboard_time": 1762135100,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120302,
+        "num": 120302,
+        "word": "翁青雅在伦敦上的大学",
+        "onboard_time": 1762128200,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111381,
+        "num": 111381,
+        "word": "出现5个症状说明血糖高了",
+        "onboard_time": 1762098260,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102734,
+        "num": 102734,
+        "word": "缉毒犬能有多帅",
+        "onboard_time": 1762133060,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94163,
+        "num": 94163,
+        "word": "丁禹兮也太会演心动了",
+        "onboard_time": 1762139899,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92033,
+        "num": 92033,
+        "word": "湖人vs热火",
+        "onboard_time": 1762138520,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109934,
+        "num": 91834,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91410,
+        "num": 91410,
+        "word": "为什么医院椅子都是滑溜溜的",
+        "onboard_time": 1762139899,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62576,
+        "num": 91403,
+        "word": "天道鸿元隐匿网上敛财500万奸淫10人",
+        "onboard_time": 1762139479,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59743,
+        "num": 91274,
+        "word": "光晞不能捐 龚俊不能说",
+        "onboard_time": 1762139659,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69962,
+        "num": 91199,
+        "word": "国考超35岁考生担心体检难通过",
+        "onboard_time": 1762140202,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 89519,
+        "num": 91088,
+        "word": "乐扣官宣订婚",
+        "onboard_time": 1762133719,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91059,
+        "num": 91059,
+        "word": "艺考新要求",
+        "onboard_time": 1762139419,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90405,
+        "num": 90405,
+        "word": "中国公民持澳签今起免签入境新西兰",
+        "onboard_time": 1762139600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86597,
+        "num": 86597,
+        "word": "女子眼睛一按就咯吱响",
+        "onboard_time": 1762134021,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86435,
+        "num": 86435,
+        "word": "金条和金豆全线涨价",
+        "onboard_time": 1762135521,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86228,
+        "num": 86228,
+        "word": "莲花楼里的土狗叫狐狸精",
+        "onboard_time": 1762130961,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86105,
+        "num": 86105,
+        "word": "中国国家队恭喜王艺迪夺冠",
+        "onboard_time": 1762139600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85105,
+        "num": 85105,
+        "word": "遭男友杀害护士生前日记曝光",
+        "onboard_time": 1762140139,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83148,
+        "num": 83148,
+        "word": "这个凶手不是影帝就是影后",
+        "onboard_time": 1762140261,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58313,
+        "num": 81900,
+        "word": "何晟铭称于正还没有放下",
+        "onboard_time": 1762099880,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}

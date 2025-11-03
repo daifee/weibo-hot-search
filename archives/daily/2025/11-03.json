@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762136668868,
+  "endTime": 1762140319585,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -11,12 +11,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818778,
+      "num": 1131004,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762137440,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 664490,
+      "num": 195125,
+      "word": "左边已经是美女 娜扎美成神仙了",
+      "onboard_time": 1762136119,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635309,
-      "num": 151452,
+      "num": 195063,
       "word": "大批品牌检出苏丹红",
       "onboard_time": 1762131981,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 633864,
+      "num": 195105,
+      "word": "饶雪漫回复翁青雅",
+      "onboard_time": 1762130420,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 570508,
@@ -43,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 561310,
-      "num": 152006,
-      "word": "饶雪漫回复翁青雅",
-      "onboard_time": 1762130420,
-      "rank": 10,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 554059,
       "num": 135143,
       "word": "短剧演员红毯上接吻",
@@ -75,12 +91,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 466821,
-      "num": 142943,
+      "raw_hot": 467553,
+      "num": 185529,
       "word": "金价",
       "onboard_time": 1762133420,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 465320,
+      "num": 195103,
+      "word": "彭小苒 发际线后移",
+      "onboard_time": 1762138520,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 453393,
@@ -89,6 +113,14 @@
       "onboard_time": 1762099880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446104,
+      "num": 195082,
+      "word": "李茂因弦子生孩子晕倒大哭",
+      "onboard_time": 1762138159,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 430721,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 397058,
-      "num": 148378,
+      "num": 189287,
       "word": "郭宇欣一条裙子穿了三次",
       "onboard_time": 1762134140,
       "rank": 15,
@@ -132,7 +164,7 @@
     },
     {
       "raw_hot": 339656,
-      "num": 149258,
+      "num": 182312,
       "word": "考上研究生是对混子的最大惩罚",
       "onboard_time": 1762127720,
       "rank": 13,
@@ -153,6 +185,14 @@
       "onboard_time": 1762125258,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 322465,
+      "num": 193721,
+      "word": "感觉她上的才是真大学",
+      "onboard_time": 1762137140,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 313329,
@@ -203,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277364,
+      "num": 192465,
+      "word": "Faker切屏同时预判金身",
+      "onboard_time": 1762138099,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 277129,
       "num": 277129,
       "word": "区委书记沉迷游戏区长沉迷高尔夫",
@@ -235,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225658,
-      "num": 137046,
-      "word": "左边已经是美女 娜扎美成神仙了",
-      "onboard_time": 1762136119,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 236193,
+      "num": 236193,
+      "word": "全红婵的减肥计划精确到克",
+      "onboard_time": 1762133300,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 224297,
@@ -275,6 +323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208241,
+      "num": 208241,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -299,20 +355,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191303,
-      "num": 140413,
-      "word": "全红婵的减肥计划精确到克",
-      "onboard_time": 1762133300,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 195817,
+      "num": 195817,
+      "word": "金吾不禁开机",
+      "onboard_time": 1762139419,
+      "rank": 8,
+      "category": "剧集"
     },
     {
-      "raw_hot": 183871,
-      "num": 183871,
-      "word": "台湾不能再吃战争的苦",
-      "onboard_time": 1762135100,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 195131,
+      "num": 195131,
+      "word": "迪丽热巴新剧路透梦回关小迪",
+      "onboard_time": 1762136899,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181736,
+      "num": 181736,
+      "word": "彭小苒被爸爸监督工作",
+      "onboard_time": 1762139840,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 180067,
@@ -337,6 +401,14 @@
       "onboard_time": 1762125258,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162065,
+      "num": 162065,
+      "word": "父亲称被害护士开始不知男友已婚已育",
+      "onboard_time": 1762136660,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157964,
@@ -371,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143248,
+      "num": 143248,
+      "word": "驻日美军接连发生性暴力事件",
+      "onboard_time": 1762139419,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "妻子临产矿工丈夫满身煤灰直奔医院",
@@ -403,11 +483,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129091,
+      "num": 129091,
+      "word": "240小时过境免签口岸数再增5个",
+      "onboard_time": 1762139121,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "00后野人医学生自制荒野版蒙脱石散",
       "onboard_time": 1762133060,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122074,
+      "num": 122074,
+      "word": "学生买淀粉肠钥匙被拿走",
+      "onboard_time": 1762135100,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -523,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99177,
-      "num": 99177,
-      "word": "学生买淀粉肠钥匙被拿走",
-      "onboard_time": 1762135100,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98145,
       "num": 115676,
       "word": "长剧导演找郭宇欣刘萧旭二搭",
@@ -571,12 +659,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94163,
+      "num": 94163,
+      "word": "丁禹兮也太会演心动了",
+      "onboard_time": 1762139899,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92767,
       "num": 92767,
       "word": "人民日报关注商业体检乱象",
       "onboard_time": 1762135400,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92033,
+      "num": 92033,
+      "word": "湖人vs热火",
+      "onboard_time": 1762138520,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 91878,
@@ -587,12 +691,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91410,
+      "num": 91410,
+      "word": "为什么医院椅子都是滑溜溜的",
+      "onboard_time": 1762139899,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 91059,
+      "num": 91059,
+      "word": "艺考新要求",
+      "onboard_time": 1762139419,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90697,
       "num": 90697,
       "word": "孟子义龚俊张凌赫 百灵鸟开会",
       "onboard_time": 1762131501,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90405,
+      "num": 90405,
+      "word": "中国公民持澳签今起免签入境新西兰",
+      "onboard_time": 1762139600,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89338,
@@ -651,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86105,
+      "num": 86105,
+      "word": "中国国家队恭喜王艺迪夺冠",
+      "onboard_time": 1762139600,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85584,
       "num": 85584,
       "word": "它怎么睡成一张猫饼了",
@@ -675,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85105,
+      "num": 85105,
+      "word": "遭男友杀害护士生前日记曝光",
+      "onboard_time": 1762140139,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84375,
       "num": 84375,
       "word": "全红婵拿着金牌摸了又摸",
       "onboard_time": 1762098500,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83148,
+      "num": 83148,
+      "word": "这个凶手不是影帝就是影后",
+      "onboard_time": 1762140261,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79484,
@@ -771,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69962,
+      "num": 91199,
+      "word": "国考超35岁考生担心体检难通过",
+      "onboard_time": 1762140202,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 69233,
       "num": 71185,
       "word": "龚俊打戏",
@@ -788,7 +948,7 @@
     },
     {
       "raw_hot": 68360,
-      "num": 136853,
+      "num": 186728,
       "word": "被波司登店长暖到了",
       "onboard_time": 1762136241,
       "rank": 19,
@@ -811,11 +971,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62576,
+      "num": 91403,
+      "word": "天道鸿元隐匿网上敛财500万奸淫10人",
+      "onboard_time": 1762139479,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59932,
       "num": 118882,
       "word": "杨紫回应拍完家业无缝进组生命树",
       "onboard_time": 1762126579,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59743,
+      "num": 91274,
+      "word": "光晞不能捐 龚俊不能说",
+      "onboard_time": 1762139659,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -825,6 +1001,14 @@
       "onboard_time": 1762105755,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49119,
+      "num": 300355,
+      "word": "网警斩断侵害未成年人网络黑色产业链",
+      "onboard_time": 1762138821,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44784,
@@ -926,6 +1110,9 @@
   "hotgov_list": [
     {
       "word": "#习近平主席韩国之行精彩瞬间#"
+    },
+    {
+      "word": "#书写亚太发展新愿景#"
     }
   ]
 }
