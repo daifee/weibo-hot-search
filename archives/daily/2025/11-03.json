@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762181121713,
+  "endTime": 1762183743173,
   "band_list": [
     {
       "raw_hot": 2664851,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 675805,
+      "num": 1108128,
+      "word": "大奉打更人官宣第二季",
+      "onboard_time": 1762181303,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664490,
       "num": 210360,
       "word": "左边已经是美女 娜扎美成神仙了",
@@ -256,6 +264,14 @@
       "word": "邢菲拿奖导播切杨幂秦海璐",
       "onboard_time": 1762176142,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 590154,
+      "num": 335343,
+      "word": "何老师准备再干个三四十年",
+      "onboard_time": 1762180102,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501785,
+      "num": 247235,
+      "word": "肖战人不到奖照拿",
+      "onboard_time": 1762182084,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494254,
       "num": 340847,
       "word": "武林外传世纪合体",
@@ -401,6 +425,14 @@
       "onboard_time": 1762133420,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 476565,
+      "num": 225588,
+      "word": "女子反抗猥亵被害153斤巨石压尸",
+      "onboard_time": 1762180102,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475485,
@@ -449,6 +481,14 @@
       "onboard_time": 1762093043,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 414771,
+      "num": 311427,
+      "word": "小巷人家",
+      "onboard_time": 1762178542,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 413722,
@@ -555,14 +595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 372463,
-      "num": 311427,
-      "word": "小巷人家",
-      "onboard_time": 1762178542,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365204,
       "num": 365204,
       "word": "关晓彤张凌赫好长的两条人",
@@ -585,6 +617,14 @@
       "onboard_time": 1762177644,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 345619,
+      "num": 345619,
+      "word": "台湾省可以用高德导航了",
+      "onboard_time": 1762181363,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 345439,
@@ -633,6 +673,14 @@
       "onboard_time": 1762095563,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333291,
+      "num": 333291,
+      "word": "中国空间站可以吃烧烤了",
+      "onboard_time": 1762181123,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 332997,
@@ -795,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273207,
+      "num": 217917,
+      "word": "蓝盈莹回应撞衫",
+      "onboard_time": 1762182441,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272636,
       "num": 272636,
       "word": "金吾不禁开机",
@@ -817,6 +873,14 @@
       "onboard_time": 1762167021,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256535,
+      "num": 303668,
+      "word": "海底捞美甲冠军获15万奖金",
+      "onboard_time": 1762178722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247988,
@@ -873,6 +937,14 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229357,
+      "num": 229357,
+      "word": "中国航天员太空烤鸡翅",
+      "onboard_time": 1762179982,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228045,
@@ -1003,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200486,
+      "num": 200486,
+      "word": "杨笠清空抖音",
+      "onboard_time": 1762180162,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200087,
       "num": 200087,
       "word": "延长对法国等免签至2026年底",
@@ -1035,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194750,
-      "num": 171425,
-      "word": "女子反抗猥亵被害153斤巨石压尸",
-      "onboard_time": 1762180102,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194433,
       "num": 203942,
       "word": "早睡时你的器官belike",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1762139419,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189856,
+      "num": 169350,
+      "word": "敖瑞鹏的脸张新成的嗓子",
+      "onboard_time": 1762182743,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185746,
@@ -1179,20 +1259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171313,
+      "num": 171313,
+      "word": "李兰迪获奖感言",
+      "onboard_time": 1762181722,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171130,
       "num": 171130,
       "word": "台媒称两岸统一进程正在加快",
       "onboard_time": 1762148002,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 167672,
-      "num": 167672,
-      "word": "杨笠清空抖音",
-      "onboard_time": 1762180162,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 167578,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1762125258,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164103,
+      "num": 164103,
+      "word": "谢娜获奖准备了发言稿",
+      "onboard_time": 1762183403,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 161952,
@@ -1425,14 +1513,6 @@
       "onboard_time": 1762149741,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143184,
-      "num": 171287,
-      "word": "何老师准备再干个三四十年",
-      "onboard_time": 1762180102,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 142736,
@@ -1731,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124398,
-      "num": 170507,
-      "word": "中国航天员太空烤鸡翅",
-      "onboard_time": 1762179982,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
@@ -1779,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122513,
+      "num": 211762,
+      "word": "上海可以夜间领证结婚了",
+      "onboard_time": 1762182502,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122508,
       "num": 122508,
       "word": "杨超越和她的仆人们",
@@ -1803,11 +1883,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 121452,
-      "num": 303668,
-      "word": "海底捞美甲冠军获15万奖金",
-      "onboard_time": 1762178722,
-      "rank": 42,
+      "raw_hot": 120990,
+      "num": 201995,
+      "word": "340斤男生展示8块腹肌走红",
+      "onboard_time": 1762182203,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1825,6 +1905,14 @@
       "onboard_time": 1762172661,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119080,
+      "num": 129529,
+      "word": "王鹤棣攒了一年八卦就等今天了",
+      "onboard_time": 1762183225,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 117943,
@@ -2099,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106020,
+      "num": 129098,
+      "word": "张桂源juun机械舞",
+      "onboard_time": 1762183462,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105437,
       "num": 105437,
       "word": "不要随便给别人当伴娘",
@@ -2169,6 +2265,14 @@
       "onboard_time": 1762134260,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103084,
+      "num": 129254,
+      "word": "太空烤翅出炉航天员直呼哇塞",
+      "onboard_time": 1762181123,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102858,
@@ -2425,6 +2529,14 @@
       "onboard_time": 1762136539,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93918,
+      "num": 128731,
+      "word": "队友炸鱼全红婵表情亮了",
+      "onboard_time": 1762180162,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 93861,
@@ -2833,6 +2945,14 @@
       "onboard_time": 1762146681,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84472,
+      "num": 128379,
+      "word": "全运会乒乓球日程来了",
+      "onboard_time": 1762183403,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84467,
