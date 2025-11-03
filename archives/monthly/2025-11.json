@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762152832416,
+  "endTime": 1762154825893,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -73,6 +73,14 @@
       "onboard_time": 1762066279,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1729961,
+      "num": 168542,
+      "word": "白鹿 美神",
+      "onboard_time": 1762153161,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1686829,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 714663,
+      "num": 1114346,
+      "word": "亲属想侵吞3姐妹亡父赔偿款",
+      "onboard_time": 1762148600,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 712077,
       "num": 529560,
       "word": "镖人",
@@ -425,14 +441,6 @@
       "onboard_time": 1761919463,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 644200,
-      "num": 1103072,
-      "word": "亲属想侵吞3姐妹亡父赔偿款",
-      "onboard_time": 1762148600,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 639975,
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534585,
+      "num": 534585,
+      "word": "陈赫带女儿出国两眼一睁就是找粥",
+      "onboard_time": 1762152921,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534346,
       "num": 837275,
       "word": "神二十一发射升空",
@@ -752,6 +768,14 @@
       "word": "李茂和弦子结婚不知道有彩礼",
       "onboard_time": 1761965059,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 486216,
+      "num": 486216,
+      "word": "微博视界大会红毯",
+      "onboard_time": 1762153041,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1033,6 +1057,14 @@
       "onboard_time": 1762081040,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381876,
+      "num": 381876,
+      "word": "高中生讲述缅北51天经历",
+      "onboard_time": 1762150341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378412,
@@ -1523,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275977,
+      "num": 275977,
+      "word": "被骗到缅北男生刷到自己新闻",
+      "onboard_time": 1762152559,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275391,
       "num": 1044062,
       "word": "光与夜之恋",
@@ -1683,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257376,
+      "num": 257376,
+      "word": "今日说法主持人被骗1千元买茶叶",
+      "onboard_time": 1762152141,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257268,
       "num": 268759,
       "word": "你未婚我卫韫",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1762010422,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256189,
-      "num": 256189,
-      "word": "高中生讲述缅北51天经历",
-      "onboard_time": 1762150341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255221,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1761979520,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248483,
+      "num": 248483,
+      "word": "全红婵14岁和18岁对比照",
+      "onboard_time": 1762152802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 247988,
@@ -2979,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167027,
+      "num": 167027,
+      "word": "美国一女子为保护孩子击毙实验猴",
+      "onboard_time": 1762151720,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166864,
       "num": 166864,
       "word": "藏海传导演感谢肖战",
@@ -3747,14 +3803,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 143508,
-      "num": 143508,
-      "word": "美国一女子为保护孩子击毙实验猴",
-      "onboard_time": 1762151720,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 143394,
       "num": 114542,
       "word": "用生命扳倒安德鲁王子的女人",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1762145960,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142412,
+      "num": 142412,
+      "word": "于正找到了让赵晴最好看的办法",
+      "onboard_time": 1762152980,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 142089,
@@ -4441,14 +4497,6 @@
       "onboard_time": 1762081641,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124842,
-      "num": 124842,
-      "word": "今日说法主持人被骗1千元买茶叶",
-      "onboard_time": 1762152141,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124800,
@@ -5875,14 +5923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100213,
-      "num": 100213,
-      "word": "被骗到缅北男生刷到自己新闻",
-      "onboard_time": 1762152559,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100182,
       "num": 100182,
       "word": "王楚钦说喜欢小动物",
@@ -5969,6 +6009,14 @@
       "onboard_time": 1762008803,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99420,
+      "num": 99420,
+      "word": "江一燕是用智商换的容貌吧",
+      "onboard_time": 1762154301,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 99221,
@@ -6081,6 +6129,14 @@
       "onboard_time": 1761988280,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98089,
+      "num": 98089,
+      "word": "许魏洲极限救车后手一直在抖",
+      "onboard_time": 1762154541,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 98058,
@@ -6489,6 +6545,14 @@
       "onboard_time": 1762053800,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92304,
+      "num": 92304,
+      "word": "LPL的S15结束了",
+      "onboard_time": 1762153460,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 92163,
@@ -7067,6 +7131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85128,
+      "num": 85128,
+      "word": "周翊然徐志胜 少爷和我",
+      "onboard_time": 1762154541,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85047,
       "num": 85047,
       "word": "香山红叶",
@@ -7193,6 +7265,14 @@
       "onboard_time": 1761927621,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 83277,
+      "num": 83277,
+      "word": "ICU抢救失败收到19万美元账单",
+      "onboard_time": 1762149140,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82945,
@@ -7331,6 +7411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81105,
+      "num": 81105,
+      "word": "全红婵无论胖瘦都压住了水花",
+      "onboard_time": 1762154721,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81021,
       "num": 81021,
       "word": "梅西89分钟世界波难救主",
@@ -7345,6 +7433,14 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80659,
+      "num": 80659,
+      "word": "泉果基金创始人王国斌离世",
+      "onboard_time": 1762154781,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 80591,
@@ -7369,6 +7465,14 @@
       "onboard_time": 1762148360,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80185,
+      "num": 80185,
+      "word": "16岁少年在未管所遭殴打身亡",
+      "onboard_time": 1762153881,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80060,
@@ -7579,8 +7683,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75911,
-      "num": 75911,
+      "raw_hot": 75928,
+      "num": 75928,
       "word": "睡前一个动作把气血养回来",
       "onboard_time": 1762152500,
       "rank": 47,
@@ -7699,6 +7803,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 73769,
+      "num": 73769,
+      "word": "重度恐猫症患者第一次接触猫",
+      "onboard_time": 1762154119,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73616,
       "num": 73616,
       "word": "男子乔迁聚会300万名表丢失",
@@ -7795,6 +7907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72172,
+      "num": 72172,
+      "word": "贾冰说黄景瑜没有心眼子",
+      "onboard_time": 1762153341,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72143,
       "num": 72143,
       "word": "跳过课间操的才知道这有多牛",
@@ -7811,20 +7931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71744,
+      "num": 79179,
+      "word": "时代峰峻热度标识",
+      "onboard_time": 1762152980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71487,
       "num": 127983,
       "word": "胖东来2万元参访不到2小时报满",
       "onboard_time": 1761984021,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71474,
-      "num": 71474,
-      "word": "全红婵14岁和18岁对比照",
-      "onboard_time": 1762152802,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 71444,
@@ -8339,6 +8459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58109,
+      "num": 152114,
+      "word": "启境CEO在线收简历",
+      "onboard_time": 1762153941,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57608,
       "num": 84930,
       "word": "iPhoneAir激活量曝光",
@@ -8508,7 +8636,7 @@
     },
     {
       "raw_hot": 49119,
-      "num": 449520,
+      "num": 500772,
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,
@@ -9001,6 +9129,14 @@
       "onboard_time": 1761984259,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27415,
+      "num": 83879,
+      "word": "家长上来推搡别人孩子",
+      "onboard_time": 1762154182,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26690,
