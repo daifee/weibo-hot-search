@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762159009173,
+  "endTime": 1762159810402,
   "band_list": [
     {
       "raw_hot": 2331125,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493672,
+      "num": 493672,
+      "word": "全运会首个跳水0分",
+      "onboard_time": 1762154840,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490416,
       "num": 239300,
       "word": "全红婵被观众的娃娃雨淹没了",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425735,
-      "num": 425735,
-      "word": "全运会首个跳水0分",
-      "onboard_time": 1762154840,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 416809,
       "num": 150782,
       "word": "台湾人面临的三种选择",
@@ -291,12 +291,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 395036,
+      "num": 221233,
+      "word": "你缺的不是口红而是变美公式",
+      "onboard_time": 1762156581,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 378130,
       "num": 378130,
       "word": "开拓者召回杨瀚森",
       "onboard_time": 1762134680,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373193,
+      "num": 373193,
+      "word": "中国对瑞典免签",
+      "onboard_time": 1762157241,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 350841,
@@ -353,14 +369,6 @@
       "onboard_time": 1762125258,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 323337,
-      "num": 323337,
-      "word": "中国对瑞典免签",
-      "onboard_time": 1762157241,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 319011,
@@ -489,6 +497,14 @@
       "onboard_time": 1762128200,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255067,
+      "num": 255067,
+      "word": "山姆变得像盒马",
+      "onboard_time": 1762158442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247988,
@@ -683,20 +699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183514,
+      "num": 183514,
+      "word": "张翰选二手车",
+      "onboard_time": 1762158382,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
       "onboard_time": 1762139840,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181423,
-      "num": 181423,
-      "word": "你缺的不是口红而是变美公式",
-      "onboard_time": 1762156581,
-      "rank": 13,
-      "category": "时尚"
     },
     {
       "raw_hot": 180312,
@@ -713,6 +729,14 @@
       "onboard_time": 1762083561,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178987,
+      "num": 178987,
+      "word": "考研的车门关上了",
+      "onboard_time": 1762157902,
+      "rank": 22,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 178829,
@@ -825,14 +849,6 @@
       "onboard_time": 1762158382,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 159925,
-      "num": 159925,
-      "word": "考研的车门关上了",
-      "onboard_time": 1762157902,
-      "rank": 22,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 158497,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1762155380,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127928,
+      "num": 127928,
+      "word": "蒲熠星买了芒果股票",
+      "onboard_time": 1762159402,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 127180,
@@ -1363,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101807,
+      "num": 101807,
+      "word": "建议给晒过的被子一点个人空间",
+      "onboard_time": 1762159402,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 100960,
       "num": 105411,
       "word": "丁禹兮也太会演心动了",
@@ -1651,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89145,
+      "num": 131624,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88885,
       "num": 90971,
       "word": "全红婵无论胖瘦都压住了水花",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1762131021,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87408,
-      "num": 160630,
-      "word": "山姆变得像盒马",
-      "onboard_time": 1762158442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87242,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1762139600,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85915,
+      "num": 96927,
+      "word": "印度发射重量为4410公斤通信卫星",
+      "onboard_time": 1762157721,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85584,
@@ -1899,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77460,
+      "num": 79410,
+      "word": "黄金税改提升黄金ETF吸引力吗",
+      "onboard_time": 1762159282,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77133,
       "num": 90751,
       "word": "李沁说着说着怎么还卡壳了",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1762126579,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74456,
-      "num": 125856,
-      "word": "四喜",
-      "onboard_time": 1762157061,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 74438,
@@ -2099,14 +2139,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 60717,
-      "num": 96927,
-      "word": "印度发射重量为4410公斤通信卫星",
-      "onboard_time": 1762157721,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59932,
       "num": 118882,
       "word": "杨紫回应拍完家业无缝进组生命树",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1762143141,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 54140,
-      "num": 99905,
-      "word": "张翰选二手车",
-      "onboard_time": 1762158382,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 50409,
@@ -2235,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28912,
+      "num": 86297,
+      "word": "韩国托儿所将幼童塞马桶被调查",
+      "onboard_time": 1762159462,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26177,
       "num": 527169,
       "word": "关注第八届进博会",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1762134800,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24263,
+      "num": 86212,
+      "word": "大哥分享东北两元自助餐被批嘲韩",
+      "onboard_time": 1762159702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23708,
