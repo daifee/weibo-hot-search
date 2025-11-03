@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762135318036,
+  "endTime": 1762136668868,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635309,
+      "num": 151452,
+      "word": "大批品牌检出苏丹红",
+      "onboard_time": 1762131981,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 615878,
       "num": 179628,
       "word": "全红婵复出第一跳",
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563498,
+      "num": 1090159,
+      "word": "骗子用l0086冒充10086",
+      "onboard_time": 1762129040,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561310,
       "num": 152006,
       "word": "饶雪漫回复翁青雅",
@@ -251,28 +267,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 557131,
-      "num": 1089140,
-      "word": "骗子用l0086冒充10086",
-      "onboard_time": 1762129040,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 556033,
       "num": 388167,
       "word": "安世中国郑重声明",
       "onboard_time": 1762047681,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 541658,
-      "num": 151452,
-      "word": "大批品牌检出苏丹红",
-      "onboard_time": 1762131981,
-      "rank": 11,
-      "category": "美妆"
     },
     {
       "raw_hot": 537743,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466821,
+      "num": 142943,
+      "word": "金价",
+      "onboard_time": 1762133420,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 463736,
       "num": 463736,
       "word": "全红婵陈芋汐携手新搭档出战",
@@ -475,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 397058,
+      "num": 148378,
+      "word": "郭宇欣一条裙子穿了三次",
+      "onboard_time": 1762134140,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396508,
       "num": 150180,
       "word": "南航通报员工参加3000米体测猝死",
@@ -521,6 +537,14 @@
       "onboard_time": 1762051099,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378130,
+      "num": 378130,
+      "word": "开拓者召回杨瀚森",
+      "onboard_time": 1762134680,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 372284,
@@ -593,14 +617,6 @@
       "onboard_time": 1762127720,
       "rank": 13,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 339350,
-      "num": 339350,
-      "word": "开拓者召回杨瀚森",
-      "onboard_time": 1762134680,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 337147,
@@ -713,14 +729,6 @@
       "onboard_time": 1762080680,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 300664,
-      "num": 142943,
-      "word": "金价",
-      "onboard_time": 1762133420,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 295392,
@@ -891,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257271,
-      "num": 148378,
-      "word": "郭宇欣一条裙子穿了三次",
-      "onboard_time": 1762134140,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257268,
       "num": 268759,
       "word": "你未婚我卫韫",
@@ -947,6 +947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247988,
+      "num": 145939,
+      "word": "莲花楼里的土狗叫狐狸精",
+      "onboard_time": 1762130961,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247319,
       "num": 247319,
       "word": "Rita评论席举起LPL战旗",
@@ -961,6 +969,14 @@
       "onboard_time": 1762076002,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240259,
+      "num": 240259,
+      "word": "全体搜救队员静候航天员凯旋",
+      "onboard_time": 1762134740,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237070,
@@ -1003,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225658,
+      "num": 137046,
+      "word": "左边已经是美女 娜扎美成神仙了",
+      "onboard_time": 1762136119,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1762011862,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217730,
+      "num": 217730,
+      "word": "间谍加大对我国粮食领域渗透",
+      "onboard_time": 1762125738,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217447,
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 210344,
-      "num": 134524,
+      "num": 136105,
       "word": "出现5个症状说明血糖高了",
       "onboard_time": 1762098260,
       "rank": 21,
@@ -1115,28 +1147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207091,
-      "num": 145939,
-      "word": "莲花楼里的土狗叫狐狸精",
-      "onboard_time": 1762130961,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206911,
       "num": 206911,
       "word": "代号鸢",
       "onboard_time": 1762079120,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206744,
-      "num": 206744,
-      "word": "间谍加大对我国粮食领域渗透",
-      "onboard_time": 1762125738,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206649,
@@ -1291,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191303,
+      "num": 140413,
+      "word": "全红婵的减肥计划精确到克",
+      "onboard_time": 1762133300,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190339,
       "num": 157280,
       "word": "会穿衣服是一种超绝的能力",
@@ -1347,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183871,
+      "num": 183871,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -1395,28 +1427,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 176751,
-      "num": 176751,
-      "word": "全体搜救队员静候航天员凯旋",
-      "onboard_time": 1762134740,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "高铁宠物托运指南",
       "onboard_time": 1762041499,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173775,
-      "num": 140413,
-      "word": "全红婵的减肥计划精确到克",
-      "onboard_time": 1762133300,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 172747,
@@ -2051,6 +2067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 125305,
+      "num": 125305,
+      "word": "00后野人医学生自制荒野版蒙脱石散",
+      "onboard_time": 1762133060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125288,
       "num": 159918,
       "word": "武林外传20周年要合体了",
@@ -2089,14 +2113,6 @@
       "onboard_time": 1762041079,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122717,
-      "num": 122717,
-      "word": "台湾不能再吃战争的苦",
-      "onboard_time": 1762135100,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 122408,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1762080680,
       "rank": 28,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 116280,
+      "num": 116280,
+      "word": "A股",
+      "onboard_time": 1762136241,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 116225,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1762086382,
       "rank": 37,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 107852,
+      "num": 107852,
+      "word": "全红婵夺冠后秒变显眼包",
+      "onboard_time": 1762134620,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 107740,
@@ -2747,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100655,
-      "num": 100655,
-      "word": "全红婵夺冠后秒变显眼包",
-      "onboard_time": 1762134620,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100614,
       "num": 106131,
       "word": "邓紫棋武汉演唱会",
@@ -2803,12 +2827,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99542,
+      "num": 99542,
+      "word": "女子眼睛一按就咯吱响",
+      "onboard_time": 1762134021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99221,
       "num": 99221,
       "word": "全运会乒乓球神秘定律",
       "onboard_time": 1762099941,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99177,
+      "num": 99177,
+      "word": "学生买淀粉肠钥匙被拿走",
+      "onboard_time": 1762135100,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98427,
@@ -2907,11 +2947,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96523,
-      "num": 96523,
-      "word": "00后野人医学生自制荒野版蒙脱石散",
-      "onboard_time": 1762133060,
-      "rank": 37,
+      "raw_hot": 96910,
+      "num": 96910,
+      "word": "双胞胎姐妹玩石头剪刀布默契度100%",
+      "onboard_time": 1762136420,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2955,12 +2995,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94973,
+      "num": 94973,
+      "word": "金条和金豆全线涨价",
+      "onboard_time": 1762135521,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94907,
       "num": 93258,
       "word": "水龙吟",
       "onboard_time": 1762082361,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94834,
+      "num": 96993,
+      "word": "墨西哥一市长中枪身亡",
+      "onboard_time": 1762136539,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94774,
@@ -3043,6 +3099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92767,
+      "num": 92767,
+      "word": "人民日报关注商业体检乱象",
+      "onboard_time": 1762135400,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92623,
       "num": 92623,
       "word": "LPL无缘本土S赛决赛",
@@ -3123,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90697,
+      "num": 90697,
+      "word": "孟子义龚俊张凌赫 百灵鸟开会",
+      "onboard_time": 1762131501,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90599,
       "num": 90599,
       "word": "勇士vs步行者",
@@ -3169,6 +3241,14 @@
       "onboard_time": 1762061841,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89177,
+      "num": 89177,
+      "word": "馒头性价比之王",
+      "onboard_time": 1762131201,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 88586,
@@ -3321,6 +3401,14 @@
       "onboard_time": 1762048218,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85584,
+      "num": 85584,
+      "word": "它怎么睡成一张猫饼了",
+      "onboard_time": 1762136420,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 85520,
@@ -3483,14 +3571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81594,
-      "num": 81594,
-      "word": "女子眼睛一按就咯吱响",
-      "onboard_time": 1762134021,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81021,
       "num": 81021,
       "word": "梅西89分钟世界波难救主",
@@ -3545,14 +3625,6 @@
       "onboard_time": 1762047018,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78818,
-      "num": 78818,
-      "word": "孟子义龚俊张凌赫 百灵鸟开会",
-      "onboard_time": 1762131501,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 78740,
@@ -3665,14 +3737,6 @@
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 74770,
-      "num": 74770,
-      "word": "学生买淀粉肠钥匙被拿走",
-      "onboard_time": 1762135100,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74438,
@@ -3825,6 +3889,14 @@
       "onboard_time": 1762058599,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68360,
+      "num": 136853,
+      "word": "被波司登店长暖到了",
+      "onboard_time": 1762136241,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 68161,

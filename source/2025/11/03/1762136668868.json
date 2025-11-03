@@ -1,0 +1,410 @@
+{
+  "runTime": 1762136668868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 563498,
+        "num": 1090159,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378130,
+        "num": 378130,
+        "word": "开拓者召回杨瀚森",
+        "onboard_time": 1762134680,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20542,
+        "num": 310229,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762092380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281092,
+        "num": 281092,
+        "word": "驻日美军在冲绳街头首次单独巡逻",
+        "onboard_time": 1762130120,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266192,
+        "num": 266192,
+        "word": "全红婵陈芋汐仅差0.9分",
+        "onboard_time": 1762126399,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240259,
+        "num": 240259,
+        "word": "全体搜救队员静候航天员凯旋",
+        "onboard_time": 1762134740,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217730,
+        "num": 217730,
+        "word": "间谍加大对我国粮食领域渗透",
+        "onboard_time": 1762125738,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185240,
+        "num": 185240,
+        "word": "区委书记沉迷游戏区长沉迷高尔夫",
+        "onboard_time": 1762088603,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183871,
+        "num": 183871,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "缉毒犬能有多帅",
+        "onboard_time": 1762133060,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635309,
+        "num": 137896,
+        "word": "大批品牌检出苏丹红",
+        "onboard_time": 1762131981,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 546290,
+        "num": 137855,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397058,
+        "num": 137632,
+        "word": "郭宇欣一条裙子穿了三次",
+        "onboard_time": 1762134140,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332543,
+        "num": 137558,
+        "word": "考上研究生是对混子的最大惩罚",
+        "onboard_time": 1762127720,
+        "rank": 13,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 316989,
+        "num": 137427,
+        "word": "南航通报员工参加3000米体测猝死",
+        "onboard_time": 1762128380,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 247988,
+        "num": 137308,
+        "word": "莲花楼里的土狗叫狐狸精",
+        "onboard_time": 1762130961,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245549,
+        "num": 137158,
+        "word": "翁青雅在伦敦上的大学",
+        "onboard_time": 1762128200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225658,
+        "num": 137046,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113987,
+        "num": 136905,
+        "word": "何晟铭称于正还没有放下",
+        "onboard_time": 1762099880,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68360,
+        "num": 136853,
+        "word": "被波司登店长暖到了",
+        "onboard_time": 1762136241,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 466821,
+        "num": 136665,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268423,
+        "num": 136558,
+        "word": "翁青雅道歉",
+        "onboard_time": 1762086801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161516,
+        "num": 136418,
+        "word": "乐扣官宣订婚",
+        "onboard_time": 1762133719,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195789,
+        "num": 136240,
+        "word": "轻断食从116斤瘦到94斤",
+        "onboard_time": 1762125317,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191303,
+        "num": 136153,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136112,
+        "num": 136112,
+        "word": "TES主教练回应输给T1",
+        "onboard_time": 1762126459,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136105,
+        "num": 136105,
+        "word": "出现5个症状说明血糖高了",
+        "onboard_time": 1762098260,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125498,
+        "num": 125498,
+        "word": "男子夜钓遭枪击头部生命垂危",
+        "onboard_time": 1762099039,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125305,
+        "num": 125305,
+        "word": "00后野人医学生自制荒野版蒙脱石散",
+        "onboard_time": 1762133060,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116280,
+        "num": 116280,
+        "word": "A股",
+        "onboard_time": 1762136241,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113688,
+        "num": 113688,
+        "word": "上官正义回应举报贩婴反被警方扣留",
+        "onboard_time": 1762093163,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108030,
+        "num": 108030,
+        "word": "全红婵被观众的娃娃雨淹没了",
+        "onboard_time": 1762096461,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "全红婵夺冠后秒变显眼包",
+        "onboard_time": 1762134620,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49307,
+        "num": 106644,
+        "word": "入青云",
+        "onboard_time": 1762125078,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53137,
+        "num": 106616,
+        "word": "杨紫回应拍完家业无缝进组生命树",
+        "onboard_time": 1762126579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106605,
+        "num": 106605,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1762126399,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105065,
+        "num": 105065,
+        "word": "妻子临产矿工丈夫满身煤灰直奔医院",
+        "onboard_time": 1762129460,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102007,
+        "num": 102007,
+        "word": "中美就扩大农产品贸易达成共识",
+        "onboard_time": 1762131560,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 100104,
+        "word": "月经量少的根源其实不在子宫",
+        "onboard_time": 1762125258,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99542,
+        "num": 99542,
+        "word": "女子眼睛一按就咯吱响",
+        "onboard_time": 1762134021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99177,
+        "num": 99177,
+        "word": "学生买淀粉肠钥匙被拿走",
+        "onboard_time": 1762135100,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94834,
+        "num": 96993,
+        "word": "墨西哥一市长中枪身亡",
+        "onboard_time": 1762136539,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21325,
+        "num": 96948,
+        "word": "辛纳首夺巴黎大师赛冠军",
+        "onboard_time": 1762134800,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96910,
+        "num": 96910,
+        "word": "双胞胎姐妹玩石头剪刀布默契度100%",
+        "onboard_time": 1762136420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94973,
+        "num": 94973,
+        "word": "金条和金豆全线涨价",
+        "onboard_time": 1762135521,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92767,
+        "num": 92767,
+        "word": "人民日报关注商业体检乱象",
+        "onboard_time": 1762135400,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90697,
+        "num": 90697,
+        "word": "孟子义龚俊张凌赫 百灵鸟开会",
+        "onboard_time": 1762131501,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 89177,
+        "word": "馒头性价比之王",
+        "onboard_time": 1762131201,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85584,
+        "num": 85584,
+        "word": "它怎么睡成一张猫饼了",
+        "onboard_time": 1762136420,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81156,
+        "num": 81156,
+        "word": "郭宇欣工作室",
+        "onboard_time": 1762131021,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席韩国之行精彩瞬间#"
+    }
+  }
+}
