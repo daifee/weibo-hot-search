@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762166847528,
+  "endTime": 1762168997070,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -123,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1021876,
+      "num": 272834,
+      "word": "蒲熠星回应通告费",
+      "onboard_time": 1762164561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012390,
       "num": 278335,
       "word": "巨型吊牌 防退货",
       "onboard_time": 1762161322,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1010857,
+      "num": 1151280,
+      "word": "小巷人家剧组聊太嗨忘走红毯",
+      "onboard_time": 1762163900,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 996383,
@@ -145,14 +161,6 @@
       "onboard_time": 1762137440,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 945501,
-      "num": 1151280,
-      "word": "小巷人家剧组聊太嗨忘走红毯",
-      "onboard_time": 1762163900,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 872476,
@@ -211,14 +219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 740416,
-      "num": 272834,
-      "word": "蒲熠星回应通告费",
-      "onboard_time": 1762164561,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 739771,
       "num": 1118363,
       "word": "女子忍痛踩趾压板脚喷血",
@@ -248,6 +248,14 @@
       "word": "儿子无法接受妈妈被打致残曾想自杀",
       "onboard_time": 1762083681,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697148,
+      "num": 274781,
+      "word": "山东被切六个器官男孩妈妈发声",
+      "onboard_time": 1762164742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 681840,
-      "num": 285171,
+      "num": 312481,
       "word": "鬼灭之刃无限城篇定档",
       "onboard_time": 1762164800,
       "rank": 6,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475605,
+      "num": 271240,
+      "word": "男孩做微创手术被切六个器官",
+      "onboard_time": 1762163843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475485,
       "num": 187742,
       "word": "张艺兴 小家为主",
@@ -707,14 +723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 404042,
-      "num": 274781,
-      "word": "山东被切六个器官男孩妈妈发声",
-      "onboard_time": 1762164742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 399271,
       "num": 399271,
       "word": "2007年后出生的人不能在马尔代夫吸烟",
@@ -777,6 +785,14 @@
       "onboard_time": 1762085241,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385010,
+      "num": 258521,
+      "word": "白鹿第二套",
+      "onboard_time": 1762166061,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 383454,
@@ -921,6 +937,14 @@
       "onboard_time": 1762004724,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336701,
+      "num": 336701,
+      "word": "T1严正声明",
+      "onboard_time": 1762165281,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 336455,
@@ -1131,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283118,
-      "num": 271240,
-      "word": "男孩做微创手术被切六个器官",
-      "onboard_time": 1762163843,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282765,
       "num": 282765,
       "word": "泰州 一黑到底",
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259607,
+      "num": 259607,
+      "word": "Cat即将回归赛场",
+      "onboard_time": 1762167021,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 258593,
       "num": 258593,
       "word": "Kanavi失误",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1762130961,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247884,
-      "num": 247884,
-      "word": "T1严正声明",
-      "onboard_time": 1762165281,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 247319,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1762059680,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224802,
+      "num": 280649,
+      "word": "全红婵搭档称压力大到不敢洗头发",
+      "onboard_time": 1762164621,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 220717,
@@ -1739,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197952,
+      "num": 197952,
+      "word": "张凌赫 daddy级别",
+      "onboard_time": 1762168042,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197735,
       "num": 197735,
       "word": "迪丽热巴新剧路透梦回关小迪",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1762073960,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177442,
-      "num": 177442,
-      "word": "白鹿第二套",
-      "onboard_time": 1762166061,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 176119,
@@ -2251,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157863,
+      "num": 157111,
+      "word": "房主任搂着杨幂给女儿录视频",
+      "onboard_time": 1762168763,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157503,
       "num": 157503,
       "word": "皮肤科医生眼中的护肤顺序",
@@ -2507,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143978,
-      "num": 280649,
-      "word": "全红婵搭档称压力大到不敢洗头发",
-      "onboard_time": 1762164621,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143711,
       "num": 159052,
       "word": "小婴儿的核磁共振全是脑子",
@@ -2540,7 +2564,7 @@
     },
     {
       "raw_hot": 142543,
-      "num": 142543,
+      "num": 208415,
       "word": "老人疑强占幼儿园练剑与家长起冲突",
       "onboard_time": 1762164021,
       "rank": 29,
@@ -2867,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127849,
+      "num": 123476,
+      "word": "李现要准备双份份子钱了",
+      "onboard_time": 1762168283,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127756,
       "num": 127756,
       "word": "原来穿秋裤和不穿秋裤的是同一批人",
@@ -2921,6 +2953,14 @@
       "onboard_time": 1762085481,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125877,
+      "num": 125877,
+      "word": "周大福珠宝涨价",
+      "onboard_time": 1762168581,
+      "rank": 27,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 125615,
@@ -3435,6 +3475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109807,
+      "num": 109807,
+      "word": "微博视界大会座位",
+      "onboard_time": 1762168161,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109799,
       "num": 109799,
       "word": "何广智还回去说脱口秀吗",
@@ -3505,6 +3553,14 @@
       "onboard_time": 1762049961,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108210,
+      "num": 108210,
+      "word": "早睡简直就是人生作弊器",
+      "onboard_time": 1762166961,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 107955,
@@ -3923,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100247,
+      "num": 100247,
+      "word": "张凌赫好认真在看自己的二创视频",
+      "onboard_time": 1762168221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100182,
       "num": 100182,
       "word": "王楚钦说喜欢小动物",
@@ -4297,6 +4361,14 @@
       "onboard_time": 1762051039,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 86385,
+      "word": "双胞胎做美甲中途换人的体验",
+      "onboard_time": 1762167862,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 93289,
@@ -4971,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84055,
+      "num": 84055,
+      "word": "何炅谢娜一出场我的青春回来了",
+      "onboard_time": 1762168702,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83821,
       "num": 128330,
       "word": "迪丽热巴入选亚太U35行业先锋领袖",
@@ -5081,6 +5161,22 @@
       "onboard_time": 1762056800,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81670,
+      "num": 123480,
+      "word": "一公司入职需签署放弃考研承诺书",
+      "onboard_time": 1762167260,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81233,
+      "num": 96093,
+      "word": "冬日就是要出色",
+      "onboard_time": 1762167801,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81142,
@@ -5619,6 +5715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65912,
+      "num": 95286,
+      "word": "乒协发布关于全运会乒乓球决赛文件",
+      "onboard_time": 1762168042,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65433,
       "num": 157081,
       "word": "南通队长哭了",
@@ -5680,6 +5784,14 @@
       "word": "原来脐橙竟是无人机采收的",
       "onboard_time": 1762078820,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 108686,
+      "word": "上海网友称91元买1根甘蔗",
+      "onboard_time": 1762168941,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -6075,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36185,
+      "num": 80966,
+      "word": "郭焱说王艺迪扛起国乒的希望",
+      "onboard_time": 1762168941,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35632,
       "num": 172304,
       "word": "奶皮子糖葫芦火了奶皮子也涨价了",
@@ -6219,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25676,
+      "num": 95004,
+      "word": "吴宣仪提醒路人拉链没拉",
+      "onboard_time": 1762168822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25557,
       "num": 144771,
       "word": "辛纳首夺巴黎大师赛冠军",
@@ -6291,6 +6419,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 22926,
+      "num": 123986,
+      "word": "商家操纵甲醛检测数据制造焦虑",
+      "onboard_time": 1762168822,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21428,
       "num": 51767,
       "word": "汪苏泷演唱会要风度不要温度",
@@ -6329,6 +6465,22 @@
       "onboard_time": 1762030994,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18859,
+      "num": 162922,
+      "word": "志愿者称清远放生猫三成或感染猫瘟",
+      "onboard_time": 1762167621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18829,
+      "num": 88131,
+      "word": "北上广深开满咖啡主理人门店",
+      "onboard_time": 1762167621,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18772,
