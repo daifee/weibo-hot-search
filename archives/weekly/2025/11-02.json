@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762188500780,
+  "endTime": 1762190724650,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 382266,
-      "num": 382266,
+      "num": 474008,
       "word": "山姆在争议声中再更新APP",
       "onboard_time": 1762184899,
       "rank": 1,
@@ -3249,6 +3249,14 @@
       "onboard_time": 1762166601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132306,
+      "num": 132306,
+      "word": "孙铭阳卡点为孙颖莎庆生",
+      "onboard_time": 1762188498,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 132276,
@@ -6475,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69003,
+      "num": 54386,
+      "word": "白鹿说我不是第一次一年播三部剧",
+      "onboard_time": 1762189217,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68755,
       "num": 68755,
       "word": "国产大飞机越来越争气了",
@@ -6811,6 +6827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55726,
+      "num": 55726,
+      "word": "孙铭阳喊孙颖莎小胖墩",
+      "onboard_time": 1762188498,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55686,
       "num": 78717,
       "word": "小哥将快递扔进院子获打赏点赞",
@@ -6993,6 +7017,14 @@
       "onboard_time": 1762188078,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41665,
+      "num": 45627,
+      "word": "杨幂 美羊羊扶额",
+      "onboard_time": 1762190597,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 40907,
@@ -7193,6 +7225,30 @@
       "onboard_time": 1762068079,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31143,
+      "num": 45503,
+      "word": "莱巴金娜年终总决赛两连胜",
+      "onboard_time": 1762189097,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31062,
+      "num": 45497,
+      "word": "又有新的全红婵表情包了",
+      "onboard_time": 1762190476,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29711,
+      "num": 45470,
+      "word": "7个月婴儿遭月嫂恶意猛摇",
+      "onboard_time": 1762190176,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29624,
