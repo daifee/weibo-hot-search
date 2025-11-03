@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762191708364,
+  "endTime": 1762194962527,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -129,6 +129,14 @@
       "onboard_time": 1762178542,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166510,
+      "num": 166510,
+      "word": "何炅 最近谣传我有衰老焦虑",
+      "onboard_time": 1762188078,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 152256,
@@ -264,14 +272,6 @@
       "word": "白鹿说我不是第一次一年播三部剧",
       "onboard_time": 1762189217,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 84515,
-      "num": 84515,
-      "word": "何炅 最近谣传我有衰老焦虑",
-      "onboard_time": 1762188078,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35201,
+      "num": 29900,
+      "word": "369致歉",
+      "onboard_time": 1762192515,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31143,
       "num": 45503,
       "word": "莱巴金娜年终总决赛两连胜",
@@ -489,6 +497,14 @@
       "onboard_time": 1762190236,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 28781,
+      "num": 28781,
+      "word": "上拉如闯入小英娘家把小英吓哭",
+      "onboard_time": 1762193114,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 25867,
