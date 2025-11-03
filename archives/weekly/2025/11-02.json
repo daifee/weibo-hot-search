@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762198664174,
+  "endTime": 1762201822158,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -7555,6 +7555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14964,
+      "num": 14964,
+      "word": "卢浮宫盗贼居住在巴黎本地",
+      "onboard_time": 1762199114,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14555,
       "num": 27629,
       "word": "人生路上",
@@ -7595,12 +7603,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 11635,
+      "raw_hot": 12643,
+      "num": 13848,
+      "word": "墨西哥米却肯州4年7位市长遇害",
+      "onboard_time": 1762199593,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12245,
       "num": 27555,
       "word": "这是古人的饼铛小手办吗",
       "onboard_time": 1762191916,
       "rank": 49,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 11592,
+      "num": 13845,
+      "word": "马尔代夫培养无烟一代",
+      "onboard_time": 1762201633,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10669,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 03:37:44
+本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 04:30:22
 </p>
 </blockquote>
 <p>
@@ -405,8 +405,26 @@ KPL一千零一夜（热度：57734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%9B%97%E8%B4%BC%E5%B1%85%E4%BD%8F%E5%9C%A8%E5%B7%B4%E9%BB%8E%E6%9C%AC%E5%9C%B0%23" target="weibo">
+卢浮宫盗贼居住在巴黎本地（热度：14964）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%B1%B3%E5%8D%B4%E8%82%AF%E5%B7%9E4%E5%B9%B47%E4%BD%8D%E5%B8%82%E9%95%BF%E9%81%87%E5%AE%B3%23" target="weibo">
+墨西哥米却肯州4年7位市长遇害（热度：12643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%8F%A4%E4%BA%BA%E7%9A%84%E9%A5%BC%E9%93%9B%E5%B0%8F%E6%89%8B%E5%8A%9E%E5%90%97%23" target="weibo">
-这是古人的饼铛小手办吗（热度：11635）
+这是古人的饼铛小手办吗（热度：12245）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%9F%B9%E5%85%BB%E6%97%A0%E7%83%9F%E4%B8%80%E4%BB%A3%23" target="weibo">
+马尔代夫培养无烟一代（热度：11592）
 </a>
 </li>
 
