@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762174491778,
+  "endTime": 1762175322197,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -155,6 +155,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 984131,
+      "num": 227020,
+      "word": "房主任搂着杨幂给女儿录视频",
+      "onboard_time": 1762168763,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 983745,
       "num": 1157399,
       "word": "唐朝诡事录",
@@ -163,16 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 939138,
-      "num": 170769,
-      "word": "房主任搂着杨幂给女儿录视频",
-      "onboard_time": 1762168763,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 891278,
-      "num": 166217,
+      "raw_hot": 979092,
+      "num": 226312,
       "word": "她一上午挣了我一个月的工资",
       "onboard_time": 1762171641,
       "rank": 11,
@@ -201,6 +201,14 @@
       "onboard_time": 1762075760,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789045,
+      "num": 225809,
+      "word": "符龙飞 双爹带娃的一天",
+      "onboard_time": 1762170803,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 784821,
@@ -241,6 +249,14 @@
       "onboard_time": 1762058540,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 735086,
+      "num": 225245,
+      "word": "金靖曝陈都灵经常看恶评警醒自己",
+      "onboard_time": 1762169241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 714663,
@@ -289,14 +305,6 @@
       "onboard_time": 1762083621,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 693285,
-      "num": 164313,
-      "word": "符龙飞 双爹带娃的一天",
-      "onboard_time": 1762170803,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 692247,
@@ -384,6 +392,14 @@
       "word": "山姆变得像盒马",
       "onboard_time": 1762158442,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621419,
+      "num": 1099427,
+      "word": "外国想涨价就涨如今成功国产",
+      "onboard_time": 1762169782,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -475,22 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554003,
-      "num": 1088640,
-      "word": "外国想涨价就涨如今成功国产",
-      "onboard_time": 1762169782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544290,
-      "num": 163632,
-      "word": "金靖曝陈都灵经常看恶评警醒自己",
-      "onboard_time": 1762169241,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 537743,
       "num": 270726,
       "word": "花少6小团体好明显",
@@ -547,8 +547,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 508522,
-      "num": 508522,
+      "raw_hot": 516700,
+      "num": 516700,
       "word": "何炅谢娜一出场我的青春回来了",
       "onboard_time": 1762168702,
       "rank": 47,
@@ -777,6 +777,14 @@
       "onboard_time": 1762046360,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 407966,
+      "num": 407966,
+      "word": "王鹤棣白鹿台下模仿乖乖女名场面",
+      "onboard_time": 1762172003,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 406609,
@@ -1108,7 +1116,7 @@
     },
     {
       "raw_hot": 307480,
-      "num": 199527,
+      "num": 228433,
       "word": "成毅天地剑心戏份",
       "onboard_time": 1762170803,
       "rank": 6,
@@ -1427,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251066,
+      "num": 224463,
+      "word": "关晓彤张凌赫好长的两条人",
+      "onboard_time": 1762172841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249976,
       "num": 249976,
       "word": "狼队对战WB",
@@ -1603,6 +1619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 217864,
+      "num": 217864,
+      "word": "Kanavi谈输给T1",
+      "onboard_time": 1762172481,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217447,
       "num": 217447,
       "word": "赵丽颖李沁或演简单的人生",
@@ -1667,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209925,
+      "num": 209925,
+      "word": "特朗普70分钟采访提及中国41次",
+      "onboard_time": 1762173982,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209831,
       "num": 176760,
       "word": "鱼你有染",
@@ -1681,14 +1713,6 @@
       "onboard_time": 1762088782,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209276,
-      "num": 160826,
-      "word": "王鹤棣白鹿台下模仿乖乖女名场面",
-      "onboard_time": 1762172003,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 208527,
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 204901,
-      "num": 204901,
+      "num": 229476,
       "word": "中国制造让碳纤维价格去掉一个0",
       "onboard_time": 1762169841,
       "rank": 5,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1762071800,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194020,
-      "num": 158989,
-      "word": "Kanavi谈输给T1",
-      "onboard_time": 1762172481,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 193895,
@@ -2171,6 +2187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171460,
+      "num": 171460,
+      "word": "王鹤棣毛晓彤cha了新歌",
+      "onboard_time": 1762174281,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171368,
       "num": 149792,
       "word": "她这一套换下来我要躺到明年",
@@ -2363,14 +2387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158053,
-      "num": 158053,
-      "word": "特朗普70分钟采访提及中国41次",
-      "onboard_time": 1762173982,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
@@ -2385,6 +2401,14 @@
       "onboard_time": 1762133060,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157640,
+      "num": 157640,
+      "word": "等我小了也要檀健次带我",
+      "onboard_time": 1762174222,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 157503,
@@ -2499,14 +2523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152294,
-      "num": 152294,
-      "word": "关晓彤张凌赫好长的两条人",
-      "onboard_time": 1762172841,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151726,
       "num": 151726,
       "word": "谁来给宋亚轩递个喜剧本子",
@@ -2524,7 +2540,7 @@
     },
     {
       "raw_hot": 150252,
-      "num": 150252,
+      "num": 165525,
       "word": "工行建行暂停提取实体金条",
       "onboard_time": 1762172661,
       "rank": 26,
@@ -2635,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145429,
+      "num": 145429,
+      "word": "曝LPL转会期新规",
+      "onboard_time": 1762171641,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144594,
       "num": 144594,
       "word": "还我卷毛陈奕迅",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1762074800,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144443,
+      "num": 144443,
+      "word": "刘宇宁被地板打了",
+      "onboard_time": 1762174762,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 144313,
@@ -2761,14 +2793,6 @@
       "onboard_time": 1762091962,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137086,
-      "num": 124924,
-      "word": "曝LPL转会期新规",
-      "onboard_time": 1762171641,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 136892,
@@ -2929,6 +2953,14 @@
       "onboard_time": 1762095503,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132095,
+      "num": 132095,
+      "word": "早睡时你的器官belike",
+      "onboard_time": 1762174161,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131972,
@@ -3155,14 +3187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124508,
-      "num": 124508,
-      "word": "王鹤棣毛晓彤cha了新歌",
-      "onboard_time": 1762174281,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "MRC对战Gr",
@@ -3251,12 +3275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121932,
-      "num": 121932,
-      "word": "等我小了也要檀健次带我",
-      "onboard_time": 1762174222,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 121869,
+      "num": 121869,
+      "word": "泰国贵妃或与王后展开权力较量",
+      "onboard_time": 1762174581,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121837,
@@ -3419,6 +3443,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 116784,
+      "num": 162169,
+      "word": "南京大学称999元帝王蟹比市场价便宜",
+      "onboard_time": 1762171823,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116280,
       "num": 116280,
       "word": "A股",
@@ -3449,6 +3481,14 @@
       "onboard_time": 1762139899,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 115869,
+      "num": 115869,
+      "word": "iG无畏契约分部成立",
+      "onboard_time": 1762174942,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 115795,
@@ -3531,12 +3571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113296,
-      "num": 113296,
-      "word": "早睡时你的器官belike",
-      "onboard_time": 1762174161,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 113301,
+      "num": 113301,
+      "word": "mlxg谈LPL韩援",
+      "onboard_time": 1762171701,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 113123,
@@ -3603,6 +3643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112387,
+      "num": 112387,
+      "word": "蓝盈莹蔡文静撞衫",
+      "onboard_time": 1762174942,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112265,
       "num": 158590,
       "word": "Ruler回应败给KT",
@@ -3651,12 +3699,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110870,
+      "num": 110870,
+      "word": "蒋欣关晓彤 妈妈带着你",
+      "onboard_time": 1762175242,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110807,
       "num": 125985,
       "word": "五稂液 五粮液",
       "onboard_time": 1762172782,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110666,
+      "num": 110666,
+      "word": "减肥到底要瘦到什么程度才算合适",
+      "onboard_time": 1762174702,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 110238,
@@ -4411,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97034,
+      "num": 123242,
+      "word": "49岁女子拒绝猥亵被害",
+      "onboard_time": 1762175122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96977,
       "num": 96977,
       "word": "Faker谈SKT时期与T1时期",
@@ -4433,6 +4505,14 @@
       "onboard_time": 1762136420,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96596,
+      "num": 109264,
+      "word": "陈若琳来看全红婵比赛了",
+      "onboard_time": 1762169961,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96408,
@@ -4753,14 +4833,6 @@
       "onboard_time": 1762166480,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 91715,
-      "num": 110242,
-      "word": "南京大学称999元帝王蟹比市场价便宜",
-      "onboard_time": 1762171823,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91697,
@@ -5356,7 +5428,7 @@
     },
     {
       "raw_hot": 83484,
-      "num": 116329,
+      "num": 121973,
       "word": "用户连麦京东直播领到iPhone17",
       "onboard_time": 1762169722,
       "rank": 31,
@@ -5779,14 +5851,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 74008,
-      "num": 99222,
-      "word": "陈若琳来看全红婵比赛了",
-      "onboard_time": 1762169961,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73953,
       "num": 90673,
       "word": "时代峰峻热度标识",
@@ -6060,7 +6124,7 @@
     },
     {
       "raw_hot": 64919,
-      "num": 98500,
+      "num": 109131,
       "word": "全运会乒乓球启用新赛制",
       "onboard_time": 1762170921,
       "rank": 48,
@@ -6092,7 +6156,7 @@
     },
     {
       "raw_hot": 64063,
-      "num": 98272,
+      "num": 109093,
       "word": "孙颖莎备战全运狠劲十足",
       "onboard_time": 1762172421,
       "rank": 49,
@@ -6257,6 +6321,14 @@
       "onboard_time": 1762166360,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53141,
+      "num": 122802,
+      "word": "餐馆售卖现杀猫肉每份80元",
+      "onboard_time": 1762175122,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52511,
@@ -6427,6 +6499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39954,
+      "num": 168878,
+      "word": "患癌女孩生前遗憾或是未能见到妈妈",
+      "onboard_time": 1762175122,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39910,
       "num": 71345,
       "word": "马尔代夫实施世代禁烟令",
@@ -6539,12 +6619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34204,
+      "num": 123864,
+      "word": "拖欠18人77万工资老板获刑",
+      "onboard_time": 1762175302,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33567,
       "num": 162922,
       "word": "志愿者称清远放生猫三成或感染猫瘟",
       "onboard_time": 1762167621,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33546,
+      "num": 208942,
+      "word": "芝麻800亮相微博视界大会",
+      "onboard_time": 1762175061,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 32770,
