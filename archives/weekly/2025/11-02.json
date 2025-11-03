@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762197727181,
+  "endTime": 1762198664174,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -7593,6 +7593,14 @@
       "onboard_time": 1762105576,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11635,
+      "num": 27555,
+      "word": "这是古人的饼铛小手办吗",
+      "onboard_time": 1762191916,
+      "rank": 49,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 10669,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/04 03:22:07
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/04 03:37:44
 </p>
 </blockquote>
 <p>
@@ -5705,6 +5705,12 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E6%96%B0%E6%AD%8CDayByDay%23" target="weibo">
 展轩新歌DayByDay（热度：13148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%8F%A4%E4%BA%BA%E7%9A%84%E9%A5%BC%E9%93%9B%E5%B0%8F%E6%89%8B%E5%8A%9E%E5%90%97%23" target="weibo">
+这是古人的饼铛小手办吗（热度：11635）
 </a>
 </li>
 
