@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 02:46:51
+本榜单时间：2025/11/04 00:31:07 ~ 2025/11/04 03:22:07
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ KPL一千零一夜（热度：57734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E4%BD%93%E6%9D%A8%E6%9E%9D%E7%94%98%E9%9C%B2%23" target="weibo">
 固体杨枝甘露（热度：29181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BB%84%E6%99%93%E6%98%8E%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E6%BC%94%E5%91%98%23" target="weibo">
+杨幂黄晓明微博年度演员（热度：26768）
 </a>
 </li>
 
