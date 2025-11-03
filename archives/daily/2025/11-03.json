@@ -1,7 +1,15 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762177720001,
+  "endTime": 1762180065836,
   "band_list": [
+    {
+      "raw_hot": 2664851,
+      "num": 2664851,
+      "word": "欧豪在看马思纯吗",
+      "onboard_time": 1762177043,
+      "rank": 31,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2331125,
       "num": 329913,
@@ -40,14 +48,6 @@
       "word": "蓝盈莹蔡文静撞衫",
       "onboard_time": 1762174942,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1142367,
-      "num": 317318,
-      "word": "欧豪在看马思纯吗",
-      "onboard_time": 1762177043,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -120,6 +120,14 @@
       "word": "符龙飞 双爹带娃的一天",
       "onboard_time": 1762170803,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 782164,
+      "num": 314441,
+      "word": "白百何 还能这么操作",
+      "onboard_time": 1762176262,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590238,
+      "num": 323275,
+      "word": "邢菲拿奖导播切杨幂秦海璐",
+      "onboard_time": 1762176142,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581199,
       "num": 256435,
       "word": "朱珠说没关系早就翻了",
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555006,
+      "num": 286352,
+      "word": "王一栩 回冷宫",
+      "onboard_time": 1762177403,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554059,
       "num": 135143,
       "word": "短剧演员红毯上接吻",
@@ -311,14 +335,6 @@
       "num": 210257,
       "word": "李茂因弦子生孩子晕倒大哭",
       "onboard_time": 1762138159,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 518577,
-      "num": 323275,
-      "word": "邢菲拿奖导播切杨幂秦海璐",
-      "onboard_time": 1762176142,
       "rank": 13,
       "category": "综艺"
     },
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431921,
-      "num": 314441,
-      "word": "白百何 还能这么操作",
-      "onboard_time": 1762176262,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430721,
       "num": 430721,
       "word": "翁青雅说闯祸了可以看看我",
@@ -448,6 +456,14 @@
       "word": "刘宇宁衣服比我人还长",
       "onboard_time": 1762170502,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 401999,
+      "num": 303347,
+      "word": "武林外传世纪合体",
+      "onboard_time": 1762178183,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -505,6 +521,14 @@
       "onboard_time": 1762165281,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 379267,
+      "num": 300244,
+      "word": "侯明昊 属于我们的奖杯",
+      "onboard_time": 1762176922,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 378435,
@@ -609,6 +633,14 @@
       "onboard_time": 1762141820,
       "rank": 16,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 314430,
+      "num": 314430,
+      "word": "JDG经理疑曝Kanavi态度有问题",
+      "onboard_time": 1762177644,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 313329,
@@ -779,20 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247533,
-      "num": 187438,
-      "word": "JDG经理疑曝Kanavi态度有问题",
-      "onboard_time": 1762177644,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 246932,
       "num": 204207,
       "word": "考研的车门关上了",
       "onboard_time": 1762157902,
       "rank": 22,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 243197,
+      "num": 243197,
+      "word": "小巷人家",
+      "onboard_time": 1762178542,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 240259,
@@ -939,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200988,
+      "num": 200988,
+      "word": "井柏然刘雯情侣手机链",
+      "onboard_time": 1762177644,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -1009,22 +1049,6 @@
       "onboard_time": 1762139419,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192945,
-      "num": 192945,
-      "word": "王一栩 回冷宫",
-      "onboard_time": 1762177403,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187935,
-      "num": 187935,
-      "word": "侯明昊 属于我们的奖杯",
-      "onboard_time": 1762176922,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 185746,
@@ -1283,6 +1307,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 154876,
+      "num": 295567,
+      "word": "工行建行暂停提取实体金条",
+      "onboard_time": 1762172661,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 154823,
       "num": 117152,
       "word": "剑网3新品金发",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150252,
-      "num": 200488,
-      "word": "工行建行暂停提取实体金条",
-      "onboard_time": 1762172661,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 148659,
@@ -1467,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134947,
+      "num": 134947,
+      "word": "王格格这张脸太权威了",
+      "onboard_time": 1762180043,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134389,
       "num": 134389,
       "word": "微博视界大会 男帅女美",
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131569,
+      "num": 130177,
+      "word": "天地剑心蜘蛛姐弟",
+      "onboard_time": 1762179563,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131553,
       "num": 131553,
       "word": "iG夺冠七周年",
@@ -1601,14 +1641,6 @@
       "onboard_time": 1762155380,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129990,
-      "num": 129990,
-      "word": "井柏然刘雯情侣手机链",
-      "onboard_time": 1762177644,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 127180,
@@ -1715,6 +1747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120421,
+      "num": 120421,
+      "word": "闫妮笑着笑着就哭了",
+      "onboard_time": 1762179262,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119854,
       "num": 125089,
       "word": "为什么中产害怕山姆阿里化",
@@ -1731,6 +1771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117874,
+      "num": 129767,
+      "word": "中国航天员太空烤鸡翅",
+      "onboard_time": 1762179982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117566,
       "num": 117566,
       "word": "本周做什么都顺的星座",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1762171823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116470,
+      "num": 173452,
+      "word": "江旻憓已申请放弃加拿大护照",
+      "onboard_time": 1762177223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116280,
@@ -1907,6 +1963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 109576,
+      "num": 109576,
+      "word": "罗云熙一往首唱舞台",
+      "onboard_time": 1762179262,
+      "rank": 47,
+      "category": "综艺,演出"
+    },
+    {
       "raw_hot": 109562,
       "num": 109562,
       "word": "早睡简直就是人生作弊器",
@@ -1955,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "颖儿领奖梅婷秦海璐拍照",
+      "onboard_time": 1762177944,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107354,
       "num": 107354,
       "word": "孙颖莎奖杯多到差点放不下",
@@ -1971,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106961,
+      "num": 188443,
+      "word": "餐馆售卖现杀猫肉每份80元",
+      "onboard_time": 1762175122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105437,
       "num": 105437,
       "word": "不要随便给别人当伴娘",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1762143802,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104392,
+      "num": 120558,
+      "word": "广东包揽跳水男女团冠军",
+      "onboard_time": 1762179684,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 104316,
@@ -2177,6 +2265,14 @@
       "onboard_time": 1762159821,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 98415,
+      "num": 120998,
+      "word": "海底捞美甲冠军获15万奖金",
+      "onboard_time": 1762178722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98145,
@@ -2377,6 +2473,14 @@
       "onboard_time": 1762148061,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91948,
+      "num": 128357,
+      "word": "蒋欣蓝盈莹华妃浣碧同框了",
+      "onboard_time": 1762179684,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 91878,
@@ -2625,14 +2729,6 @@
       "onboard_time": 1762161982,
       "rank": 41,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 86330,
-      "num": 188443,
-      "word": "餐馆售卖现杀猫肉每份80元",
-      "onboard_time": 1762175122,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86288,
@@ -3043,14 +3139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69132,
-      "num": 110881,
-      "word": "江旻憓已申请放弃加拿大护照",
-      "onboard_time": 1762177223,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68553,
       "num": 71177,
       "word": "迪丽热巴用腿刹车",
@@ -3089,6 +3177,14 @@
       "onboard_time": 1762168042,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65021,
+      "num": 171213,
+      "word": "提供低价线索就得苹果17",
+      "onboard_time": 1762178604,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 64965,
@@ -3483,7 +3579,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2788,
+      "raw_hot": 6240,
       "num": 376230,
       "word": "中国体育名场面感动了一遍又一遍",
       "onboard_time": 1762070301,

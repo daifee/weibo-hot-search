@@ -1,0 +1,410 @@
+{
+  "runTime": 1762180065836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2664851,
+        "num": 2664851,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314430,
+        "num": 314430,
+        "word": "JDG经理疑曝Kanavi态度有问题",
+        "onboard_time": 1762177644,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6240,
+        "num": 313648,
+        "word": "中国体育名场面感动了一遍又一遍",
+        "onboard_time": 1762070301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 590238,
+        "num": 309542,
+        "word": "邢菲拿奖导播切杨幂秦海璐",
+        "onboard_time": 1762176142,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195782,
+        "num": 308332,
+        "word": "外国想涨价就涨如今成功国产",
+        "onboard_time": 1762169782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183070,
+        "num": 303835,
+        "word": "山姆变得像盒马",
+        "onboard_time": 1762158442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401999,
+        "num": 303347,
+        "word": "武林外传世纪合体",
+        "onboard_time": 1762178183,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379267,
+        "num": 300244,
+        "word": "侯明昊 属于我们的奖杯",
+        "onboard_time": 1762176922,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171440,
+        "num": 297281,
+        "word": "被骗到缅北男生刷到自己新闻",
+        "onboard_time": 1762152559,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154876,
+        "num": 295567,
+        "word": "工行建行暂停提取实体金条",
+        "onboard_time": 1762172661,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 782164,
+        "num": 291765,
+        "word": "白百何 还能这么操作",
+        "onboard_time": 1762176262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592326,
+        "num": 288513,
+        "word": "她一上午挣了我一个月的工资",
+        "onboard_time": 1762171641,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555006,
+        "num": 286352,
+        "word": "王一栩 回冷宫",
+        "onboard_time": 1762177403,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285024,
+        "num": 285024,
+        "word": "特朗普70分钟采访提及中国41次",
+        "onboard_time": 1762173982,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243197,
+        "num": 243197,
+        "word": "小巷人家",
+        "onboard_time": 1762178542,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218739,
+        "num": 218739,
+        "word": "符龙飞 双爹带娃的一天",
+        "onboard_time": 1762170803,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216876,
+        "num": 216876,
+        "word": "金靖曝陈都灵经常看恶评警醒自己",
+        "onboard_time": 1762169241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213593,
+        "num": 213593,
+        "word": "巨型吊牌 防退货",
+        "onboard_time": 1762161322,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200988,
+        "num": 200988,
+        "word": "井柏然刘雯情侣手机链",
+        "onboard_time": 1762177644,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135384,
+        "num": 200938,
+        "word": "早睡时你的器官belike",
+        "onboard_time": 1762174161,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1127447,
+        "num": 199145,
+        "word": "蓝盈莹蔡文静撞衫",
+        "onboard_time": 1762174942,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468083,
+        "num": 196441,
+        "word": "房主任搂着杨幂给女儿录视频",
+        "onboard_time": 1762168763,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415444,
+        "num": 194934,
+        "word": "王鹤棣白鹿台下模仿乖乖女名场面",
+        "onboard_time": 1762172003,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194354,
+        "num": 194354,
+        "word": "刘宇宁衣服比我人还长",
+        "onboard_time": 1762170502,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319046,
+        "num": 192051,
+        "word": "关晓彤张凌赫好长的两条人",
+        "onboard_time": 1762172841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312480,
+        "num": 189497,
+        "word": "蒲熠星回应通告费",
+        "onboard_time": 1762164561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197600,
+        "num": 188967,
+        "word": "何炅谢娜一出场我的青春回来了",
+        "onboard_time": 1762168702,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180715,
+        "num": 180715,
+        "word": "影视飓风Tim震惊00后博主负债240万创作",
+        "onboard_time": 1762175602,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116470,
+        "num": 173452,
+        "word": "江旻憓已申请放弃加拿大护照",
+        "onboard_time": 1762177223,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65021,
+        "num": 171213,
+        "word": "提供低价线索就得苹果17",
+        "onboard_time": 1762178604,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171022,
+        "num": 171022,
+        "word": "蒲熠星 通告费",
+        "onboard_time": 1762155380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162037,
+        "num": 162037,
+        "word": "张凌赫 daddy级别",
+        "onboard_time": 1762168042,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152167,
+        "num": 152167,
+        "word": "微博视界大会内场",
+        "onboard_time": 1762164681,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "白鹿第二套",
+        "onboard_time": 1762166061,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 134947,
+        "word": "王格格这张脸太权威了",
+        "onboard_time": 1762180043,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130672,
+        "num": 130672,
+        "word": "T1严正声明",
+        "onboard_time": 1762165281,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131569,
+        "num": 130177,
+        "word": "天地剑心蜘蛛姐弟",
+        "onboard_time": 1762179563,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117874,
+        "num": 129767,
+        "word": "中国航天员太空烤鸡翅",
+        "onboard_time": 1762179982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106961,
+        "num": 128962,
+        "word": "餐馆售卖现杀猫肉每份80元",
+        "onboard_time": 1762175122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91948,
+        "num": 128357,
+        "word": "蒋欣蓝盈莹华妃浣碧同框了",
+        "onboard_time": 1762179684,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127821,
+        "num": 127821,
+        "word": "王紫璇李鸿其官宣结婚",
+        "onboard_time": 1762150942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121643,
+        "num": 121643,
+        "word": "李现要准备双份份子钱了",
+        "onboard_time": 1762168283,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98415,
+        "num": 120998,
+        "word": "海底捞美甲冠军获15万奖金",
+        "onboard_time": 1762178722,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104392,
+        "num": 120558,
+        "word": "广东包揽跳水男女团冠军",
+        "onboard_time": 1762179684,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120421,
+        "num": 120421,
+        "word": "闫妮笑着笑着就哭了",
+        "onboard_time": 1762179262,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115490,
+        "num": 115490,
+        "word": "生万物",
+        "onboard_time": 1762175602,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111629,
+        "num": 111629,
+        "word": "有效补气血的10件小事",
+        "onboard_time": 1762176142,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109576,
+        "num": 109576,
+        "word": "罗云熙一往首唱舞台",
+        "onboard_time": 1762179262,
+        "rank": 47,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 108730,
+        "num": 108730,
+        "word": "鬼灭之刃无限城篇定档",
+        "onboard_time": 1762164800,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 107423,
+        "num": 107423,
+        "word": "颖儿领奖梅婷秦海璐拍照",
+        "onboard_time": 1762177944,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}

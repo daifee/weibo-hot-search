@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762177720001,
+  "endTime": 1762180065836,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -9,6 +9,14 @@
       "onboard_time": 1762086801,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2664851,
+      "num": 2664851,
+      "word": "欧豪在看马思纯吗",
+      "onboard_time": 1762177043,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 2533325,
@@ -97,14 +105,6 @@
       "onboard_time": 1762059800,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1142367,
-      "num": 317318,
-      "word": "欧豪在看马思纯吗",
-      "onboard_time": 1762177043,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1087235,
@@ -233,6 +233,14 @@
       "onboard_time": 1762088603,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782164,
+      "num": 314441,
+      "word": "白百何 还能这么操作",
+      "onboard_time": 1762176262,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 771778,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590238,
+      "num": 323275,
+      "word": "邢菲拿奖导播切杨幂秦海璐",
+      "onboard_time": 1762176142,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581199,
       "num": 256435,
       "word": "朱珠说没关系早就翻了",
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555006,
+      "num": 286352,
+      "word": "王一栩 回冷宫",
+      "onboard_time": 1762177403,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537743,
       "num": 270726,
       "word": "花少6小团体好明显",
@@ -561,14 +585,6 @@
       "onboard_time": 1762006824,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 518577,
-      "num": 323275,
-      "word": "邢菲拿奖导播切杨幂秦海璐",
-      "onboard_time": 1762176142,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 516700,
@@ -771,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 431921,
-      "num": 314441,
-      "word": "白百何 还能这么操作",
-      "onboard_time": 1762176262,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428412,
       "num": 190936,
       "word": "马龙妻子夏露分享舞蹈视频",
@@ -824,6 +832,14 @@
       "word": "刘宇宁衣服比我人还长",
       "onboard_time": 1762170502,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 401999,
+      "num": 303347,
+      "word": "武林外传世纪合体",
+      "onboard_time": 1762178183,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -913,6 +929,14 @@
       "onboard_time": 1762165281,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 379267,
+      "num": 300244,
+      "word": "侯明昊 属于我们的奖杯",
+      "onboard_time": 1762176922,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 378435,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1762141820,
       "rank": 16,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 314430,
+      "num": 314430,
+      "word": "JDG经理疑曝Kanavi态度有问题",
+      "onboard_time": 1762177644,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 313857,
@@ -1507,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247533,
-      "num": 187438,
-      "word": "JDG经理疑曝Kanavi态度有问题",
-      "onboard_time": 1762177644,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 247319,
       "num": 247319,
       "word": "Rita评论席举起LPL战旗",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1762157902,
       "rank": 22,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 243197,
+      "num": 243197,
+      "word": "小巷人家",
+      "onboard_time": 1762178542,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 241670,
@@ -1867,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200988,
+      "num": 200988,
+      "word": "井柏然刘雯情侣手机链",
+      "onboard_time": 1762177644,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -2003,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192945,
-      "num": 192945,
-      "word": "王一栩 回冷宫",
-      "onboard_time": 1762177403,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192418,
       "num": 348162,
       "word": "第15届全运会火炬传递",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187935,
-      "num": 187935,
-      "word": "侯明昊 属于我们的奖杯",
-      "onboard_time": 1762176922,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 187740,
@@ -2571,6 +2595,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 154876,
+      "num": 295567,
+      "word": "工行建行暂停提取实体金条",
+      "onboard_time": 1762172661,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 154823,
       "num": 117152,
       "word": "剑网3新品金发",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1762039577,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150252,
-      "num": 200488,
-      "word": "工行建行暂停提取实体金条",
-      "onboard_time": 1762172661,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 149513,
@@ -2963,6 +2987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134947,
+      "num": 134947,
+      "word": "王格格这张脸太权威了",
+      "onboard_time": 1762180043,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134884,
       "num": 134884,
       "word": "女主一舔嘴唇都得被自己毒死吧",
@@ -3107,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131569,
+      "num": 130177,
+      "word": "天地剑心蜘蛛姐弟",
+      "onboard_time": 1762179563,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131553,
       "num": 131553,
       "word": "iG夺冠七周年",
@@ -3161,14 +3201,6 @@
       "onboard_time": 1762155380,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129990,
-      "num": 129990,
-      "word": "井柏然刘雯情侣手机链",
-      "onboard_time": 1762177644,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129779,
@@ -3475,6 +3507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120421,
+      "num": 120421,
+      "word": "闫妮笑着笑着就哭了",
+      "onboard_time": 1762179262,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120040,
       "num": 142779,
       "word": "第一次见一人表白四人心碎的",
@@ -3555,6 +3595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117874,
+      "num": 129767,
+      "word": "中国航天员太空烤鸡翅",
+      "onboard_time": 1762179982,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117646,
       "num": 117646,
       "word": "年锦道歉",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1762171823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116470,
+      "num": 173452,
+      "word": "江旻憓已申请放弃加拿大护照",
+      "onboard_time": 1762177223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116280,
@@ -3883,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109576,
+      "num": 109576,
+      "word": "罗云熙一往首唱舞台",
+      "onboard_time": 1762179262,
+      "rank": 47,
+      "category": "综艺,演出"
+    },
+    {
       "raw_hot": 109562,
       "num": 109562,
       "word": "早睡简直就是人生作弊器",
@@ -4011,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107423,
+      "num": 107423,
+      "word": "颖儿领奖梅婷秦海璐拍照",
+      "onboard_time": 1762177944,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107354,
       "num": 107354,
       "word": "孙颖莎奖杯多到差点放不下",
@@ -4057,6 +4129,14 @@
       "onboard_time": 1762169602,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106961,
+      "num": 188443,
+      "word": "餐馆售卖现杀猫肉每份80元",
+      "onboard_time": 1762175122,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106849,
@@ -4121,6 +4201,14 @@
       "onboard_time": 1762086863,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104392,
+      "num": 120558,
+      "word": "广东包揽跳水男女团冠军",
+      "onboard_time": 1762179684,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 104316,
@@ -4505,6 +4593,14 @@
       "onboard_time": 1762088062,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98415,
+      "num": 120998,
+      "word": "海底捞美甲冠军获15万奖金",
+      "onboard_time": 1762178722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98302,
@@ -4929,6 +5025,14 @@
       "onboard_time": 1762083381,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91948,
+      "num": 128357,
+      "word": "蒋欣蓝盈莹华妃浣碧同框了",
+      "onboard_time": 1762179684,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 91877,
@@ -5361,14 +5465,6 @@
       "onboard_time": 1762062080,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86330,
-      "num": 188443,
-      "word": "餐馆售卖现杀猫肉每份80元",
-      "onboard_time": 1762175122,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86288,
@@ -6123,14 +6219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69132,
-      "num": 110881,
-      "word": "江旻憓已申请放弃加拿大护照",
-      "onboard_time": 1762177223,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68755,
       "num": 68755,
       "word": "国产大飞机越来越争气了",
@@ -6241,6 +6329,14 @@
       "onboard_time": 1762050259,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65021,
+      "num": 171213,
+      "word": "提供低价线索就得苹果17",
+      "onboard_time": 1762178604,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 64965,
