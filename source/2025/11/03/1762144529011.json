@@ -1,0 +1,410 @@
+{
+  "runTime": 1762144529011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 983745,
+        "num": 1157399,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532074,
+        "num": 532074,
+        "word": "王建军被双开",
+        "onboard_time": 1762140562,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 39969,
+        "num": 345906,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301315,
+        "num": 301315,
+        "word": "Faker切屏同时预判金身",
+        "onboard_time": 1762138099,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279896,
+        "num": 279896,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1762140920,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248705,
+        "num": 248705,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225198,
+        "num": 225198,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218833,
+        "num": 218833,
+        "word": "唐诡3好多返场老熟人",
+        "onboard_time": 1762142541,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211196,
+        "num": 211196,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176359,
+        "num": 211117,
+        "word": "全红婵陈芋汐仅差0.9分",
+        "onboard_time": 1762126399,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590446,
+        "num": 210843,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507369,
+        "num": 210497,
+        "word": "发完分手宣言的人结婚了",
+        "onboard_time": 1762140623,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362763,
+        "num": 210360,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277106,
+        "num": 210257,
+        "word": "李茂因弦子生孩子晕倒大哭",
+        "onboard_time": 1762138159,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272660,
+        "num": 209936,
+        "word": "彭小苒 发际线后移",
+        "onboard_time": 1762138520,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258003,
+        "num": 209722,
+        "word": "陈乔恩结婚前没有朋友圈",
+        "onboard_time": 1762142242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240666,
+        "num": 209358,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1762141820,
+        "rank": 16,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 220835,
+        "num": 209228,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1762137140,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54498,
+        "num": 208995,
+        "word": "周一也有周一的开工仪式",
+        "onboard_time": 1762143141,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208862,
+        "num": 208862,
+        "word": "金吾不禁开机",
+        "onboard_time": 1762139419,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295329,
+        "num": 206488,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202824,
+        "num": 202824,
+        "word": "大批品牌检出苏丹红",
+        "onboard_time": 1762131981,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183896,
+        "num": 183896,
+        "word": "杨超越 红与黑",
+        "onboard_time": 1762143380,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172932,
+        "num": 172932,
+        "word": "电影日掛中天",
+        "onboard_time": 1762143682,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165699,
+        "num": 165699,
+        "word": "第一个让他们演情侣的简直是天才",
+        "onboard_time": 1762143023,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161560,
+        "num": 161560,
+        "word": "上海最贵的面vs上海最便宜的面",
+        "onboard_time": 1762143742,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148658,
+        "num": 148658,
+        "word": "柯南计时引爆摩天楼官宣引进",
+        "onboard_time": 1762144042,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 148626,
+        "word": "天地剑心三个人能凑出一堆笑料",
+        "onboard_time": 1762143621,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88876,
+        "num": 148497,
+        "word": "新款小鹏X9首发电动三折叠",
+        "onboard_time": 1762142601,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113647,
+        "num": 148450,
+        "word": "广州地铁回应APP乘车码频繁弹窗广告",
+        "onboard_time": 1762143621,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159589,
+        "num": 148342,
+        "word": "驻日美军接连发生性暴力事件",
+        "onboard_time": 1762139419,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 148332,
+        "word": "内娱11月是有什么KPI吗",
+        "onboard_time": 1762143502,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139125,
+        "num": 139125,
+        "word": "弦子照顾不能动的李茂两个月",
+        "onboard_time": 1762141882,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "闪耀暖暖",
+        "onboard_time": 1762143380,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135029,
+        "num": 135029,
+        "word": "国际金价再现断崖式下跌",
+        "onboard_time": 1762140679,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131972,
+        "num": 131972,
+        "word": "懒人在家到底多会没福硬享",
+        "onboard_time": 1762143980,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 131727,
+        "word": "安泰集团涨停",
+        "onboard_time": 1762143802,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105716,
+        "num": 131630,
+        "word": "间谍加大对我国粮食领域渗透",
+        "onboard_time": 1762125738,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131553,
+        "num": 131553,
+        "word": "iG夺冠七周年",
+        "onboard_time": 1762143202,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117943,
+        "num": 117943,
+        "word": "被大体老师震撼到了",
+        "onboard_time": 1762142780,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117571,
+        "num": 117571,
+        "word": "父亲称被害护士开始不知男友已婚已育",
+        "onboard_time": 1762136660,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115143,
+        "num": 115143,
+        "word": "郭宇欣一条裙子穿了三次",
+        "onboard_time": 1762134140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112601,
+        "num": 112601,
+        "word": "李在明支持率上升",
+        "onboard_time": 1762141580,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111607,
+        "num": 111607,
+        "word": "恋与深空",
+        "onboard_time": 1762143861,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108535,
+        "num": 108535,
+        "word": "泡面的叉子是这样固定盖子的",
+        "onboard_time": 1762143921,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70041,
+        "num": 107129,
+        "word": "世代禁烟令建议国内参考",
+        "onboard_time": 1762142122,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106935,
+        "num": 106935,
+        "word": "迪丽热巴新剧路透梦回关小迪",
+        "onboard_time": 1762136899,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "不要随便给别人当伴娘",
+        "onboard_time": 1762141341,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104002,
+        "num": 104002,
+        "word": "网络热传生物鉴定",
+        "onboard_time": 1762144401,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84616,
+        "num": 100505,
+        "word": "布朗尼空接暴扣",
+        "onboard_time": 1762144463,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}

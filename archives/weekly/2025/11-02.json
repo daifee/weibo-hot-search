@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762141134705,
+  "endTime": 1762144529011,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -99,20 +99,20 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 983745,
+      "num": 1157399,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762137440,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 872476,
       "num": 273890,
       "word": "刘强东 从此在老婆面前没有了自信",
       "onboard_time": 1762000102,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 851369,
-      "num": 1136219,
-      "word": "唐朝诡事录",
-      "onboard_time": 1762137440,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 806384,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 664490,
-      "num": 195125,
+      "num": 210360,
       "word": "左边已经是美女 娜扎美成神仙了",
       "onboard_time": 1762136119,
       "rank": 17,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 635309,
-      "num": 195063,
+      "num": 202824,
       "word": "大批品牌检出苏丹红",
       "onboard_time": 1762131981,
       "rank": 11,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 633864,
-      "num": 195105,
+      "num": 210843,
       "word": "饶雪漫回复翁青雅",
       "onboard_time": 1762130420,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532074,
+      "num": 532074,
+      "word": "王建军被双开",
+      "onboard_time": 1762140562,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 531998,
       "num": 185366,
       "word": "新衣服一定要洗了再穿",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 521536,
-      "num": 195082,
+      "num": 210257,
       "word": "李茂因弦子生孩子晕倒大哭",
       "onboard_time": 1762138159,
       "rank": 13,
@@ -329,6 +337,14 @@
       "onboard_time": 1762006824,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 507369,
+      "num": 210497,
+      "word": "发完分手宣言的人结婚了",
+      "onboard_time": 1762140623,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 500155,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 478113,
-      "num": 185529,
+      "num": 206488,
       "word": "金价",
       "onboard_time": 1762133420,
       "rank": 21,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 465320,
-      "num": 195103,
+      "num": 209936,
       "word": "彭小苒 发际线后移",
       "onboard_time": 1762138520,
       "rank": 12,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 350841,
-      "num": 192465,
+      "num": 301315,
       "word": "Faker切屏同时预判金身",
       "onboard_time": 1762138099,
       "rank": 17,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 345347,
-      "num": 193721,
+      "num": 209228,
       "word": "感觉她上的才是真大学",
       "onboard_time": 1762137140,
       "rank": 16,
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279896,
+      "num": 279896,
+      "word": "微博视界大会全阵容",
+      "onboard_time": 1762140920,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278895,
       "num": 128631,
       "word": "警方通报怀化3名被拐婴儿被解救",
@@ -955,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258003,
+      "num": 209722,
+      "word": "陈乔恩结婚前没有朋友圈",
+      "onboard_time": 1762142242,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257958,
       "num": 192703,
       "word": "南航员工参加3000米考核后猝死",
@@ -1035,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240666,
+      "num": 209358,
+      "word": "长期焦虑过度的表现",
+      "onboard_time": 1762141820,
+      "rank": 16,
+      "category": "情感,健康医疗"
+    },
+    {
       "raw_hot": 240259,
       "num": 240259,
       "word": "全体搜救队员静候航天员凯旋",
@@ -1083,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225198,
+      "num": 225198,
+      "word": "台湾不能再吃战争的苦",
+      "onboard_time": 1762135100,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1762125738,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218833,
+      "num": 218833,
+      "word": "唐诡3好多返场老熟人",
+      "onboard_time": 1762142541,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 218661,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1762098260,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209879,
-      "num": 209879,
-      "word": "台湾不能再吃战争的苦",
-      "onboard_time": 1762135100,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 209397,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1762046300,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201524,
-      "num": 118344,
-      "word": "发完分手宣言的人结婚了",
-      "onboard_time": 1762140623,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 200798,
@@ -1451,20 +1491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183896,
+      "num": 183896,
+      "word": "杨超越 红与黑",
+      "onboard_time": 1762143380,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
       "onboard_time": 1762075160,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183194,
-      "num": 183194,
-      "word": "王建军被双开",
-      "onboard_time": 1762140562,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 181736,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1762041499,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172932,
+      "num": 172932,
+      "word": "电影日掛中天",
+      "onboard_time": 1762143682,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 172747,
@@ -1627,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165699,
+      "num": 165699,
+      "word": "第一个让他们演情侣的简直是天才",
+      "onboard_time": 1762143023,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165237,
       "num": 205783,
       "word": "音乐缘计划2",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1762096102,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161560,
+      "num": 161560,
+      "word": "上海最贵的面vs上海最便宜的面",
+      "onboard_time": 1762143742,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 161028,
@@ -1827,11 +1891,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148658,
+      "num": 148658,
+      "word": "柯南计时引爆摩天楼官宣引进",
+      "onboard_time": 1762144042,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 148369,
       "num": 135580,
       "word": "郭宇欣工作室出图",
       "onboard_time": 1762100239,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148332,
+      "num": 148332,
+      "word": "内娱11月是有什么KPI吗",
+      "onboard_time": 1762143502,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -1947,6 +2027,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "弦子照顾不能动的李茂两个月",
+      "onboard_time": 1762141882,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138059,
+      "num": 148626,
+      "word": "天地剑心三个人能凑出一堆笑料",
+      "onboard_time": 1762143621,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137227,
       "num": 137227,
       "word": "女子排队礼让孕妇",
@@ -1987,6 +2083,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135506,
+      "num": 135506,
+      "word": "闪耀暖暖",
+      "onboard_time": 1762143380,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135029,
+      "num": 135029,
+      "word": "国际金价再现断崖式下跌",
+      "onboard_time": 1762140679,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134884,
       "num": 134884,
       "word": "女主一舔嘴唇都得被自己毒死吧",
@@ -2001,14 +2113,6 @@
       "onboard_time": 1762064240,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134513,
-      "num": 163735,
-      "word": "微博视界大会全阵容",
-      "onboard_time": 1762140920,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 133846,
@@ -2057,6 +2161,22 @@
       "onboard_time": 1762095503,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131972,
+      "num": 131972,
+      "word": "懒人在家到底多会没福硬享",
+      "onboard_time": 1762143980,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131553,
+      "num": 131553,
+      "word": "iG夺冠七周年",
+      "onboard_time": 1762143202,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 131024,
@@ -2379,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117943,
+      "num": 117943,
+      "word": "被大体老师震撼到了",
+      "onboard_time": 1762142780,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 117646,
       "num": 117646,
       "word": "年锦道歉",
@@ -2475,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113647,
+      "num": 148450,
+      "word": "广州地铁回应APP乘车码频繁弹窗广告",
+      "onboard_time": 1762143621,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113123,
       "num": 158733,
       "word": "程晓玥生一胎把无痛打满了",
@@ -2497,6 +2633,14 @@
       "onboard_time": 1762068800,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112601,
+      "num": 112601,
+      "word": "李在明支持率上升",
+      "onboard_time": 1762141580,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112540,
@@ -2537,6 +2681,14 @@
       "onboard_time": 1762007604,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111607,
+      "num": 111607,
+      "word": "恋与深空",
+      "onboard_time": 1762143861,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 111517,
@@ -2617,6 +2769,14 @@
       "onboard_time": 1762073301,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 108535,
+      "word": "泡面的叉子是这样固定盖子的",
+      "onboard_time": 1762143921,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 108522,
@@ -2755,12 +2915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105437,
+      "num": 105437,
+      "word": "不要随便给别人当伴娘",
+      "onboard_time": 1762141341,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105400,
       "num": 105400,
       "word": "王伟莹单人10米台排名第一",
       "onboard_time": 1762090643,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104780,
+      "num": 131727,
+      "word": "安泰集团涨停",
+      "onboard_time": 1762143802,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 104424,
@@ -2785,6 +2961,14 @@
       "onboard_time": 1762082721,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104002,
+      "num": 104002,
+      "word": "网络热传生物鉴定",
+      "onboard_time": 1762144401,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 103886,
@@ -2993,14 +3177,6 @@
       "onboard_time": 1762063821,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99613,
-      "num": 99613,
-      "word": "国际金价再现断崖式下跌",
-      "onboard_time": 1762140679,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 99543,
@@ -3459,6 +3635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88876,
+      "num": 148497,
+      "word": "新款小鹏X9首发电动三折叠",
+      "onboard_time": 1762142601,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88586,
       "num": 100040,
       "word": "芒果给水龙吟剪了26分钟超长预告",
@@ -3673,6 +3857,14 @@
       "onboard_time": 1762063821,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84616,
+      "num": 100505,
+      "word": "布朗尼空接暴扣",
+      "onboard_time": 1762144463,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84521,
@@ -4067,6 +4259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70041,
+      "num": 107129,
+      "word": "世代禁烟令建议国内参考",
+      "onboard_time": 1762142122,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69689,
       "num": 89174,
       "word": "小伙理发变投资砸了40多万",
@@ -4331,6 +4531,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 54498,
+      "num": 208995,
+      "word": "周一也有周一的开工仪式",
+      "onboard_time": 1762143141,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52511,
       "num": 111430,
       "word": "宁静张智尧 你也没有变我的爱人",
@@ -4372,7 +4580,7 @@
     },
     {
       "raw_hot": 49119,
-      "num": 312751,
+      "num": 345906,
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,
