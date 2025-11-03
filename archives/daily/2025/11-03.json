@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762159810402,
+  "endTime": 1762162352851,
   "band_list": [
     {
       "raw_hot": 2331125,
@@ -33,6 +33,14 @@
       "onboard_time": 1762086801,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1059335,
+      "num": 1169493,
+      "word": "杨幂 蓝孔雀女王",
+      "onboard_time": 1762159222,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 983745,
@@ -153,6 +161,14 @@
       "onboard_time": 1762084462,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542721,
+      "num": 542721,
+      "word": "山姆变得像盒马",
+      "onboard_time": 1762158442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532074,
@@ -315,6 +331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368409,
+      "num": 195578,
+      "word": "蒲熠星买了芒果股票",
+      "onboard_time": 1762159402,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350841,
       "num": 301315,
       "word": "Faker切屏同时预判金身",
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293863,
+      "num": 195214,
+      "word": "张翰选二手车",
+      "onboard_time": 1762158382,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288488,
       "num": 288488,
       "word": "我给永夜星河一周年做的片头",
@@ -499,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255067,
-      "num": 255067,
-      "word": "山姆变得像盒马",
-      "onboard_time": 1762158442,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247988,
       "num": 145939,
       "word": "莲花楼里的土狗叫狐狸精",
@@ -515,11 +539,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246932,
+      "num": 194732,
+      "word": "考研的车门关上了",
+      "onboard_time": 1762157902,
+      "rank": 22,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 240259,
       "num": 240259,
       "word": "全体搜救队员静候航天员凯旋",
       "onboard_time": 1762134740,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238271,
+      "num": 238271,
+      "word": "山姆",
+      "onboard_time": 1762156281,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -585,6 +625,14 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214480,
+      "num": 214480,
+      "word": "水龙吟暗河传豆瓣开分",
+      "onboard_time": 1762161021,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 212635,
@@ -699,20 +747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183514,
-      "num": 183514,
-      "word": "张翰选二手车",
-      "onboard_time": 1762158382,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
       "onboard_time": 1762139840,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181488,
+      "num": 181488,
+      "word": "巨型吊牌 防退货",
+      "onboard_time": 1762161322,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 180312,
@@ -729,14 +777,6 @@
       "onboard_time": 1762083561,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178987,
-      "num": 178987,
-      "word": "考研的车门关上了",
-      "onboard_time": 1762157902,
-      "rank": 22,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 178829,
@@ -1083,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127928,
-      "num": 127928,
-      "word": "蒲熠星买了芒果股票",
-      "onboard_time": 1762159402,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127180,
       "num": 125130,
       "word": "这居然是王敬轩",
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106971,
+      "num": 106971,
+      "word": "山姆APP更新被指图片失真",
+      "onboard_time": 1762160181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105437,
       "num": 105437,
       "word": "不要随便给别人当伴娘",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1762131560,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102617,
+      "num": 102617,
+      "word": "全红婵三年跳了13个满分",
+      "onboard_time": 1762160061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 102312,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1762145662,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98504,
+      "num": 98504,
+      "word": "幼儿园的童车已经进化成这样了",
+      "onboard_time": 1762159821,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 98145,
@@ -1643,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90081,
+      "num": 90081,
+      "word": "高市早苗手搭澳大利亚总理桌子上",
+      "onboard_time": 1762160660,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89928,
       "num": 89928,
       "word": "全红婵领奖前甩头适应长发",
@@ -1761,6 +1825,14 @@
       "onboard_time": 1762125078,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86479,
+      "num": 86479,
+      "word": "桂花香 霸道",
+      "onboard_time": 1762161982,
+      "rank": 41,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 86288,
@@ -1891,6 +1963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79766,
+      "num": 79766,
+      "word": "好长条的一只猫",
+      "onboard_time": 1762162223,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79484,
       "num": 79484,
       "word": "12岁女孩做外贸15个月卖了10万",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1762155442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78111,
+      "num": 78111,
+      "word": "什么塑料袋啊 一系上就来钱",
+      "onboard_time": 1762160302,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 78094,
@@ -1953,6 +2041,14 @@
       "onboard_time": 1762155501,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76277,
+      "num": 76277,
+      "word": "一诺官宣微博竞燃之夜",
+      "onboard_time": 1762161802,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 75945,
@@ -2139,6 +2235,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 59963,
+      "num": 187466,
+      "word": "X300拍出了非遗里的民族美学",
+      "onboard_time": 1762160660,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59932,
       "num": 118882,
       "word": "杨紫回应拍完家业无缝进组生命树",
@@ -2176,6 +2280,14 @@
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47207,
+      "num": 77298,
+      "word": "瑞幸回应团建店员饮酒过量送医",
+      "onboard_time": 1762160721,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2259,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29200,
+      "num": 195788,
+      "word": "竞燃之夜阵容官宣第一波",
+      "onboard_time": 1762161501,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28912,
       "num": 86297,
       "word": "韩国托儿所将幼童塞马桶被调查",
@@ -2268,7 +2388,7 @@
     },
     {
       "raw_hot": 26177,
-      "num": 527169,
+      "num": 556707,
       "word": "关注第八届进博会",
       "onboard_time": 1762092380,
       "rank": 2,
@@ -2291,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24115,
+      "num": 88475,
+      "word": "俄罗斯幻影坦克别具一格",
+      "onboard_time": 1762161862,
+      "rank": 38,
+      "category": "海外新闻,军事"
+    },
+    {
       "raw_hot": 23708,
       "num": 42666,
       "word": "汪苏泷停顿那一刻哽咽了",
@@ -2305,6 +2433,14 @@
       "onboard_time": 1762138940,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19005,
+      "num": 87958,
+      "word": "黄晓明又回春了",
+      "onboard_time": 1762162102,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 18772,
