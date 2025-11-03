@@ -1,0 +1,410 @@
+{
+  "runTime": 1762148578907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546771,
+        "num": 1087483,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762137440,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206627,
+        "num": 206627,
+        "word": "王建军被双开",
+        "onboard_time": 1762140562,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 34722,
+        "num": 202742,
+        "word": "网警斩断侵害未成年人网络黑色产业链",
+        "onboard_time": 1762138821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453354,
+        "num": 201908,
+        "word": "电影鬼灭之刃",
+        "onboard_time": 1762146501,
+        "rank": 3,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 200734,
+        "num": 200734,
+        "word": "广州地铁回应APP乘车码频繁弹窗广告",
+        "onboard_time": 1762143621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "以军虐囚视频",
+        "onboard_time": 1762145721,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244669,
+        "num": 185567,
+        "word": "陈瑶穿了五彩斑斓的白",
+        "onboard_time": 1762145423,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178442,
+        "num": 178442,
+        "word": "全红婵的减肥计划精确到克",
+        "onboard_time": 1762133300,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159021,
+        "num": 178317,
+        "word": "Faker切屏同时预判金身",
+        "onboard_time": 1762138099,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141641,
+        "num": 178117,
+        "word": "2007年后出生的人不能在马尔代夫吸烟",
+        "onboard_time": 1762144521,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 426878,
+        "num": 177880,
+        "word": "饶雪漫回复翁青雅",
+        "onboard_time": 1762130420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404018,
+        "num": 177830,
+        "word": "朱珠说没关系早就翻了",
+        "onboard_time": 1762144762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301999,
+        "num": 177616,
+        "word": "出生率接近0的日本城市后来怎样了",
+        "onboard_time": 1762146082,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129400,
+        "num": 177448,
+        "word": "我国成功发射遥感四十六号卫星",
+        "onboard_time": 1762145062,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276461,
+        "num": 177156,
+        "word": "左边已经是美女 娜扎美成神仙了",
+        "onboard_time": 1762136119,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272531,
+        "num": 176978,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1762141820,
+        "rank": 15,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 209831,
+        "num": 176760,
+        "word": "鱼你有染",
+        "onboard_time": 1762146201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204932,
+        "num": 176578,
+        "word": "黄金 征税",
+        "onboard_time": 1762146443,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 202834,
+        "num": 176383,
+        "word": "陈乔恩结婚前没有朋友圈",
+        "onboard_time": 1762142242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158153,
+        "num": 176136,
+        "word": "沈月 是公主也是自己的骑士",
+        "onboard_time": 1762147281,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176119,
+        "num": 176119,
+        "word": "杨紫入选2025年亚太行业先锋领袖榜单",
+        "onboard_time": 1762148181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171130,
+        "num": 171130,
+        "word": "台媒称两岸统一进程正在加快",
+        "onboard_time": 1762148002,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170325,
+        "num": 170325,
+        "word": "金饰克价一夜暴涨63元",
+        "onboard_time": 1762146681,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142951,
+        "num": 142951,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1762140920,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136892,
+        "num": 136892,
+        "word": "陈星旭回应自己是异食癖",
+        "onboard_time": 1762147701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 130484,
+        "word": "唐诡3好多返场老熟人",
+        "onboard_time": 1762142541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "发完分手宣言的人结婚了",
+        "onboard_time": 1762140623,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123935,
+        "num": 123935,
+        "word": "李沁9年后再蹦极哭的是我",
+        "onboard_time": 1762147340,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 122311,
+        "word": "网传瑞幸团建店员饮酒过量致死",
+        "onboard_time": 1762145960,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121055,
+        "num": 121055,
+        "word": "台湾不能再吃战争的苦",
+        "onboard_time": 1762135100,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111028,
+        "num": 111028,
+        "word": "全红婵陈芋汐张家齐跳台贴贴",
+        "onboard_time": 1762145002,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108773,
+        "num": 108773,
+        "word": "明日方舟",
+        "onboard_time": 1762147761,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108163,
+        "num": 108163,
+        "word": "金价",
+        "onboard_time": 1762133420,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103688,
+        "num": 103688,
+        "word": "骗子用l0086冒充10086",
+        "onboard_time": 1762129040,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103365,
+        "num": 103365,
+        "word": "肖战入选2025年亚太行业先锋领袖榜单",
+        "onboard_time": 1762146023,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96977,
+        "num": 96977,
+        "word": "Faker谈SKT时期与T1时期",
+        "onboard_time": 1762147701,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96282,
+        "num": 96282,
+        "word": "被大体老师震撼到了",
+        "onboard_time": 1762142780,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 93308,
+        "num": 93308,
+        "word": "Wayward谈Kanavi琪亚娜",
+        "onboard_time": 1762145123,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92030,
+        "num": 92030,
+        "word": "28岁为自己准备的婚前小屋",
+        "onboard_time": 1762148061,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32770,
+        "num": 88988,
+        "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
+        "onboard_time": 1762147881,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88365,
+        "num": 88365,
+        "word": "才知道中医问有没谈恋爱是什么意思",
+        "onboard_time": 1762145062,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87242,
+        "num": 87242,
+        "word": "猫 第一次当妈要求别太高",
+        "onboard_time": 1762147701,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84606,
+        "num": 84606,
+        "word": "成毅上半身冬天下半身夏天",
+        "onboard_time": 1762146681,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82939,
+        "num": 82939,
+        "word": "谁给黄渤设计的这个翘腿",
+        "onboard_time": 1762148422,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82760,
+        "num": 82760,
+        "word": "驻日美军接连发生性暴力事件",
+        "onboard_time": 1762139419,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77772,
+        "num": 82079,
+        "word": "童瑶五十朵立体玫瑰裙",
+        "onboard_time": 1762147041,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81963,
+        "num": 81963,
+        "word": "叠纸心意",
+        "onboard_time": 1762146141,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80255,
+        "num": 80255,
+        "word": "A股半日缩量1755亿",
+        "onboard_time": 1762148360,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76041,
+        "num": 76041,
+        "word": "TES迎接冬季转会期",
+        "onboard_time": 1762144942,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75945,
+        "num": 75945,
+        "word": "救救这个王建华他快碎了",
+        "onboard_time": 1762148541,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写亚太发展新愿景#"
+    }
+  }
+}

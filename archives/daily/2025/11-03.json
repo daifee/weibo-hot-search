@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762147684010,
+  "endTime": 1762148578907,
   "band_list": [
     {
       "raw_hot": 1279637,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 581199,
-      "num": 174168,
+      "num": 177830,
       "word": "朱珠说没关系早就翻了",
       "onboard_time": 1762144762,
       "rank": 15,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453354,
+      "num": 234831,
+      "word": "电影鬼灭之刃",
+      "onboard_time": 1762146501,
+      "rank": 3,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 430721,
       "num": 430721,
       "word": "翁青雅说闯祸了可以看看我",
@@ -193,14 +201,6 @@
       "onboard_time": 1762138099,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 349363,
-      "num": 234831,
-      "word": "电影鬼灭之刃",
-      "onboard_time": 1762146501,
-      "rank": 3,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 345347,
@@ -273,6 +273,14 @@
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 301999,
+      "num": 177616,
+      "word": "出生率接近0的日本城市后来怎样了",
+      "onboard_time": 1762146082,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 294426,
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222222,
-      "num": 171155,
-      "word": "出生率接近0的日本城市后来怎样了",
-      "onboard_time": 1762146082,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 220717,
       "num": 220717,
       "word": "间谍加大对我国粮食领域渗透",
@@ -433,6 +433,22 @@
       "onboard_time": 1762098260,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209831,
+      "num": 176760,
+      "word": "鱼你有染",
+      "onboard_time": 1762146201,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204932,
+      "num": 176578,
+      "word": "黄金 征税",
+      "onboard_time": 1762146443,
+      "rank": 20,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 200798,
@@ -507,28 +523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179875,
-      "num": 160449,
-      "word": "鱼你有染",
-      "onboard_time": 1762146201,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 179774,
-      "num": 160705,
-      "word": "黄金 征税",
-      "onboard_time": 1762146443,
-      "rank": 20,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 178829,
       "num": 178829,
       "word": "闪耀暖暖",
       "onboard_time": 1762143380,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176119,
+      "num": 176119,
+      "word": "杨紫入选2025年亚太行业先锋领袖榜单",
+      "onboard_time": 1762148181,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 175442,
@@ -553,6 +561,22 @@
       "onboard_time": 1762143682,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171130,
+      "num": 171130,
+      "word": "台媒称两岸统一进程正在加快",
+      "onboard_time": 1762148002,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 170325,
+      "num": 170325,
+      "word": "金饰克价一夜暴涨63元",
+      "onboard_time": 1762146681,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 167578,
@@ -603,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158153,
+      "num": 176136,
+      "word": "沈月 是公主也是自己的骑士",
+      "onboard_time": 1762147281,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157964,
       "num": 157964,
       "word": "缉毒犬能有多帅",
@@ -625,14 +657,6 @@
       "onboard_time": 1762140562,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153551,
-      "num": 153551,
-      "word": "金饰克价一夜暴涨63元",
-      "onboard_time": 1762146681,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 152706,
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141641,
+      "num": 178117,
+      "word": "2007年后出生的人不能在马尔代夫吸烟",
+      "onboard_time": 1762144521,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "妻子临产矿工丈夫满身煤灰直奔医院",
@@ -697,6 +729,14 @@
       "onboard_time": 1762143621,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "陈星旭回应自己是异食癖",
+      "onboard_time": 1762147701,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 135029,
@@ -755,20 +795,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126516,
-      "num": 126516,
-      "word": "沈月 是公主也是自己的骑士",
-      "onboard_time": 1762147281,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "00后野人医学生自制荒野版蒙脱石散",
       "onboard_time": 1762133060,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123935,
+      "num": 123935,
+      "word": "李沁9年后再蹦极哭的是我",
+      "onboard_time": 1762147340,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 123479,
@@ -801,14 +841,6 @@
       "onboard_time": 1762126399,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116912,
-      "num": 116912,
-      "word": "李沁9年后再蹦极哭的是我",
-      "onboard_time": 1762147340,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 116280,
@@ -899,20 +931,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109638,
-      "num": 109638,
-      "word": "2007年后出生的人不能在马尔代夫吸烟",
-      "onboard_time": 1762144521,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109348,
       "num": 109348,
       "word": "艺考新要求",
       "onboard_time": 1762139419,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108773,
+      "num": 108773,
+      "word": "明日方舟",
+      "onboard_time": 1762147761,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 108535,
@@ -1075,6 +1107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 96977,
+      "num": 96977,
+      "word": "Faker谈SKT时期与T1时期",
+      "onboard_time": 1762147701,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96930,
       "num": 115526,
       "word": "张晚意发文告别花儿与少年",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1762138520,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92030,
+      "num": 92030,
+      "word": "28岁为自己准备的婚前小屋",
+      "onboard_time": 1762148061,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 91878,
@@ -1211,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87242,
+      "num": 87242,
+      "word": "猫 第一次当妈要求别太高",
+      "onboard_time": 1762147701,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86826,
       "num": 86826,
       "word": "央视记者卧底揭兼职培训骗局",
@@ -1283,12 +1339,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84606,
+      "num": 100149,
+      "word": "成毅上半身冬天下半身夏天",
+      "onboard_time": 1762146681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84375,
       "num": 84375,
       "word": "全红婵拿着金牌摸了又摸",
       "onboard_time": 1762098500,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82939,
+      "num": 82939,
+      "word": "谁给黄渤设计的这个翘腿",
+      "onboard_time": 1762148422,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80255,
+      "num": 80255,
+      "word": "A股半日缩量1755亿",
+      "onboard_time": 1762148360,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 79484,
@@ -1305,6 +1385,22 @@
       "onboard_time": 1762101199,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77772,
+      "num": 82079,
+      "word": "童瑶五十朵立体玫瑰裙",
+      "onboard_time": 1762147041,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75945,
+      "num": 75945,
+      "word": "救救这个王建华他快碎了",
+      "onboard_time": 1762148541,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75856,
@@ -1411,14 +1507,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 67339,
-      "num": 100149,
-      "word": "成毅上半身冬天下半身夏天",
-      "onboard_time": 1762146681,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66823,
       "num": 66823,
       "word": "以色列总理称遭严重舆论打击",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1762102220,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32770,
+      "num": 88988,
+      "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
+      "onboard_time": 1762147881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 29624,
