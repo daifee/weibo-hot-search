@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762162352851,
+  "endTime": 1762163106737,
   "band_list": [
     {
       "raw_hot": 2331125,
@@ -107,6 +107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 628124,
+      "num": 628124,
+      "word": "山姆变得像盒马",
+      "onboard_time": 1762158442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612599,
       "num": 1098015,
       "word": "电影鬼灭之刃",
@@ -161,14 +169,6 @@
       "onboard_time": 1762084462,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 542721,
-      "num": 542721,
-      "word": "山姆变得像盒马",
-      "onboard_time": 1762158442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 532074,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457011,
+      "num": 207154,
+      "word": "巨型吊牌 防退货",
+      "onboard_time": 1762161322,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453393,
       "num": 882542,
       "word": "何晟铭称于正还没有放下",
@@ -315,6 +323,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 388092,
+      "num": 205828,
+      "word": "蒲熠星买了芒果股票",
+      "onboard_time": 1762159402,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 378435,
+      "num": 205357,
+      "word": "张翰选二手车",
+      "onboard_time": 1762158382,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378130,
       "num": 378130,
       "word": "开拓者召回杨瀚森",
@@ -329,14 +353,6 @@
       "onboard_time": 1762157241,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 368409,
-      "num": 195578,
-      "word": "蒲熠星买了芒果股票",
-      "onboard_time": 1762159402,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 350841,
@@ -459,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293863,
-      "num": 195214,
-      "word": "张翰选二手车",
-      "onboard_time": 1762158382,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288488,
       "num": 288488,
       "word": "我给永夜星河一周年做的片头",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 246932,
-      "num": 194732,
+      "num": 204207,
       "word": "考研的车门关上了",
       "onboard_time": 1762157902,
       "rank": 22,
@@ -553,6 +561,14 @@
       "onboard_time": 1762134740,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238280,
+      "num": 238280,
+      "word": "水龙吟暗河传豆瓣开分",
+      "onboard_time": 1762161021,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 238271,
@@ -625,14 +641,6 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214480,
-      "num": 214480,
-      "word": "水龙吟暗河传豆瓣开分",
-      "onboard_time": 1762161021,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 212635,
@@ -753,14 +761,6 @@
       "onboard_time": 1762139840,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181488,
-      "num": 181488,
-      "word": "巨型吊牌 防退货",
-      "onboard_time": 1762161322,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 180312,
@@ -1011,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141675,
+      "num": 141675,
+      "word": "山姆APP更新被指图片失真",
+      "onboard_time": 1762160181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "妻子临产矿工丈夫满身煤灰直奔医院",
@@ -1243,6 +1251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115237,
+      "num": 115237,
+      "word": "全红婵紧急撤回一个哈欠",
+      "onboard_time": 1762161141,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114992,
       "num": 114992,
       "word": "张纪中被孩子问爸爸你什么时候死",
@@ -1347,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106971,
-      "num": 106971,
-      "word": "山姆APP更新被指图片失真",
-      "onboard_time": 1762160181,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105437,
       "num": 105437,
       "word": "不要随便给别人当伴娘",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1762134260,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102858,
+      "num": 102858,
+      "word": "iG官宣参加竞燃之夜",
+      "onboard_time": 1762162942,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 102764,
@@ -1963,6 +1979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80117,
+      "num": 80117,
+      "word": "看出来杨幂真冷到了",
+      "onboard_time": 1762163061,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79766,
       "num": 79766,
       "word": "好长条的一只猫",
@@ -2236,7 +2260,7 @@
     },
     {
       "raw_hot": 59963,
-      "num": 187466,
+      "num": 203832,
       "word": "X300拍出了非遗里的民族美学",
       "onboard_time": 1762160660,
       "rank": 19,
@@ -2307,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44604,
+      "num": 87958,
+      "word": "黄晓明又回春了",
+      "onboard_time": 1762162102,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40665,
       "num": 90977,
       "word": "男子穿板鞋违法穿越鳌太线",
@@ -2323,12 +2355,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38124,
+      "num": 84743,
+      "word": "短剧四巨头会面",
+      "onboard_time": 1762159582,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37416,
       "num": 90939,
       "word": "家长上来推搡别人孩子",
       "onboard_time": 1762154182,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37396,
+      "num": 88475,
+      "word": "俄罗斯幻影坦克别具一格",
+      "onboard_time": 1762161862,
+      "rank": 38,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 36639,
@@ -2372,7 +2420,7 @@
     },
     {
       "raw_hot": 29200,
-      "num": 195788,
+      "num": 206942,
       "word": "竞燃之夜阵容官宣第一波",
       "onboard_time": 1762161501,
       "rank": 14,
@@ -2411,14 +2459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24115,
-      "num": 88475,
-      "word": "俄罗斯幻影坦克别具一格",
-      "onboard_time": 1762161862,
-      "rank": 38,
-      "category": "海外新闻,军事"
-    },
-    {
       "raw_hot": 23708,
       "num": 42666,
       "word": "汪苏泷停顿那一刻哽咽了",
@@ -2433,14 +2473,6 @@
       "onboard_time": 1762138940,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19005,
-      "num": 87958,
-      "word": "黄晓明又回春了",
-      "onboard_time": 1762162102,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 18772,
