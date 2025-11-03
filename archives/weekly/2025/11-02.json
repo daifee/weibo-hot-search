@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762183743173,
+  "endTime": 1762184622839,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -419,6 +419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 629005,
+      "num": 241208,
+      "word": "女子反抗猥亵被害153斤巨石压尸",
+      "onboard_time": 1762180102,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628124,
       "num": 628124,
       "word": "山姆变得像盒马",
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 501785,
-      "num": 247235,
+      "num": 273242,
       "word": "肖战人不到奖照拿",
       "onboard_time": 1762182084,
       "rank": 6,
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490367,
+      "num": 324324,
+      "word": "蓝盈莹回应撞衫",
+      "onboard_time": 1762182441,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485828,
       "num": 149102,
       "word": "网传印度人中国街头随地大小便",
@@ -761,14 +777,6 @@
       "onboard_time": 1762089562,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 476565,
-      "num": 225588,
-      "word": "女子反抗猥亵被害153斤巨石压尸",
-      "onboard_time": 1762180102,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475485,
@@ -843,7 +851,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 414771,
+      "raw_hot": 416933,
       "num": 311427,
       "word": "小巷人家",
       "onboard_time": 1762178542,
@@ -1267,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "海底捞美甲冠军获15万奖金",
+      "onboard_time": 1762178722,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "全红婵的减肥计划精确到克",
@@ -1427,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273207,
-      "num": 217917,
-      "word": "蓝盈莹回应撞衫",
-      "onboard_time": 1762182441,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272730,
       "num": 209951,
       "word": "陈芋汐全运会第一跳",
@@ -1563,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256535,
-      "num": 303668,
-      "word": "海底捞美甲冠军获15万奖金",
-      "onboard_time": 1762178722,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -1593,6 +1593,14 @@
       "onboard_time": 1762086441,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253021,
+      "num": 253021,
+      "word": "中国航天员太空烤鸡翅",
+      "onboard_time": 1762179982,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251670,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229357,
-      "num": 229357,
-      "word": "中国航天员太空烤鸡翅",
-      "onboard_time": 1762179982,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228299,
@@ -2123,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192693,
+      "num": 192693,
+      "word": "敖瑞鹏的脸张新成的嗓子",
+      "onboard_time": 1762182743,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192418,
       "num": 348162,
       "word": "第15届全运会火炬传递",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189856,
-      "num": 169350,
-      "word": "敖瑞鹏的脸张新成的嗓子",
-      "onboard_time": 1762182743,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 187740,
@@ -2315,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175698,
+      "num": 175698,
+      "word": "李兰迪获奖感言",
+      "onboard_time": 1762181722,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175442,
       "num": 175442,
       "word": "单依纯献唱日掛中天主题曲",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1762051640,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171313,
-      "num": 171313,
-      "word": "李兰迪获奖感言",
-      "onboard_time": 1762181722,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 171130,
@@ -2768,6 +2768,14 @@
       "word": "法院回应法官直播卖螃蟹",
       "onboard_time": 1762039577,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150525,
+      "num": 246302,
+      "word": "上海可以夜间领证结婚了",
+      "onboard_time": 1762182502,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3331,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129745,
+      "num": 129745,
+      "word": "王玉雯与技能五子棋T恤痛失交臂",
+      "onboard_time": 1762183820,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129634,
       "num": 159189,
       "word": "刘佳玺才13岁",
@@ -3515,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123630,
+      "num": 129529,
+      "word": "王鹤棣攒了一年八卦就等今天了",
+      "onboard_time": 1762183225,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123537,
       "num": 128357,
       "word": "蒋欣蓝盈莹华妃浣碧同框了",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1762041079,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122513,
-      "num": 211762,
-      "word": "上海可以夜间领证结婚了",
-      "onboard_time": 1762182502,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122508,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1762067480,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119080,
-      "num": 129529,
-      "word": "王鹤棣攒了一年八卦就等今天了",
-      "onboard_time": 1762183225,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 119014,
@@ -4460,7 +4468,7 @@
     },
     {
       "raw_hot": 103084,
-      "num": 129254,
+      "num": 152794,
       "word": "太空烤翅出炉航天员直呼哇塞",
       "onboard_time": 1762181123,
       "rank": 39,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1762095323,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101906,
+      "num": 101906,
+      "word": "邢菲有效播剧具像化了",
+      "onboard_time": 1762184121,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 101856,
@@ -4993,6 +5009,14 @@
       "onboard_time": 1762014380,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94260,
+      "num": 101419,
+      "word": "推给我干嘛推给王赫野啊",
+      "onboard_time": 1762184121,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 93940,
@@ -5547,6 +5571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86928,
+      "num": 101362,
+      "word": "丁禹兮你有如此音色进入山河枕",
+      "onboard_time": 1762184061,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86877,
       "num": 86877,
       "word": "网友偶遇孙颖莎开心合影",
@@ -5641,6 +5673,14 @@
       "onboard_time": 1762157721,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85898,
+      "num": 101344,
+      "word": "王嘉尔点评广东的天气",
+      "onboard_time": 1762183883,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 85842,
@@ -6601,6 +6641,14 @@
       "onboard_time": 1762090224,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60931,
+      "num": 102490,
+      "word": "马斯克称自己永远不会自杀",
+      "onboard_time": 1762184361,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60741,

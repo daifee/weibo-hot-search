@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762183743173,
+  "endTime": 1762184622839,
   "band_list": [
     {
       "raw_hot": 2664851,
@@ -227,6 +227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 629005,
+      "num": 241208,
+      "word": "女子反抗猥亵被害153斤巨石压尸",
+      "onboard_time": 1762180102,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628124,
       "num": 628124,
       "word": "山姆变得像盒马",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 501785,
-      "num": 247235,
+      "num": 273242,
       "word": "肖战人不到奖照拿",
       "onboard_time": 1762182084,
       "rank": 6,
@@ -419,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 490367,
+      "num": 324324,
+      "word": "蓝盈莹回应撞衫",
+      "onboard_time": 1762182441,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478113,
       "num": 206488,
       "word": "金价",
       "onboard_time": 1762133420,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 476565,
-      "num": 225588,
-      "word": "女子反抗猥亵被害153斤巨石压尸",
-      "onboard_time": 1762180102,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475485,
@@ -475,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416933,
+      "num": 311427,
+      "word": "小巷人家",
+      "onboard_time": 1762178542,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416809,
       "num": 150782,
       "word": "台湾人面临的三种选择",
       "onboard_time": 1762093043,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 414771,
-      "num": 311427,
-      "word": "小巷人家",
-      "onboard_time": 1762178542,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 413722,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "海底捞美甲冠军获15万奖金",
+      "onboard_time": 1762178722,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "全红婵的减肥计划精确到克",
@@ -843,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273207,
-      "num": 217917,
-      "word": "蓝盈莹回应撞衫",
-      "onboard_time": 1762182441,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272636,
       "num": 272636,
       "word": "金吾不禁开机",
@@ -875,11 +883,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 256535,
-      "num": 303668,
-      "word": "海底捞美甲冠军获15万奖金",
-      "onboard_time": 1762178722,
-      "rank": 42,
+      "raw_hot": 253021,
+      "num": 253021,
+      "word": "中国航天员太空烤鸡翅",
+      "onboard_time": 1762179982,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -937,14 +945,6 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229357,
-      "num": 229357,
-      "word": "中国航天员太空烤鸡翅",
-      "onboard_time": 1762179982,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228045,
@@ -1131,8 +1131,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189856,
-      "num": 169350,
+      "raw_hot": 192693,
+      "num": 192693,
       "word": "敖瑞鹏的脸张新成的嗓子",
       "onboard_time": 1762182743,
       "rank": 28,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175698,
+      "num": 175698,
+      "word": "李兰迪获奖感言",
+      "onboard_time": 1762181722,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175442,
       "num": 175442,
       "word": "单依纯献唱日掛中天主题曲",
@@ -1256,14 +1264,6 @@
       "word": "王格格这张脸太权威了",
       "onboard_time": 1762180043,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171313,
-      "num": 171313,
-      "word": "李兰迪获奖感言",
-      "onboard_time": 1762181722,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1441,6 +1441,14 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150525,
+      "num": 246302,
+      "word": "上海可以夜间领证结婚了",
+      "onboard_time": 1762182502,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148659,
@@ -1763,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129745,
+      "num": 129745,
+      "word": "王玉雯与技能五子棋T恤痛失交臂",
+      "onboard_time": 1762183820,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127180,
       "num": 125130,
       "word": "这居然是王敬轩",
@@ -1827,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123630,
+      "num": 129529,
+      "word": "王鹤棣攒了一年八卦就等今天了",
+      "onboard_time": 1762183225,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123537,
       "num": 128357,
       "word": "蒋欣蓝盈莹华妃浣碧同框了",
@@ -1849,14 +1873,6 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122513,
-      "num": 211762,
-      "word": "上海可以夜间领证结婚了",
-      "onboard_time": 1762182502,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122508,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1762172661,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119080,
-      "num": 129529,
-      "word": "王鹤棣攒了一年八卦就等今天了",
-      "onboard_time": 1762183225,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 117943,
@@ -2268,7 +2276,7 @@
     },
     {
       "raw_hot": 103084,
-      "num": 129254,
+      "num": 152794,
       "word": "太空烤翅出炉航天员直呼哇塞",
       "onboard_time": 1762181123,
       "rank": 39,
@@ -2312,6 +2320,14 @@
       "word": "何炅谢娜视界大会主持",
       "onboard_time": 1762146621,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101906,
+      "num": 101906,
+      "word": "邢菲有效播剧具像化了",
+      "onboard_time": 1762184121,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -2529,6 +2545,14 @@
       "onboard_time": 1762136539,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94260,
+      "num": 101419,
+      "word": "推给我干嘛推给王赫野啊",
+      "onboard_time": 1762184121,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 93918,
@@ -2843,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86928,
+      "num": 101362,
+      "word": "丁禹兮你有如此音色进入山河枕",
+      "onboard_time": 1762184061,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86826,
       "num": 86826,
       "word": "央视记者卧底揭兼职培训骗局",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1762157721,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85898,
+      "num": 101344,
+      "word": "王嘉尔点评广东的天气",
+      "onboard_time": 1762183883,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 85584,
@@ -3393,6 +3433,14 @@
       "onboard_time": 1762168822,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60931,
+      "num": 102490,
+      "word": "马斯克称自己永远不会自杀",
+      "onboard_time": 1762184361,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60741,
