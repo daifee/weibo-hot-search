@@ -1,6 +1,6 @@
 {
   "startTime": 1762100929844,
-  "endTime": 1762165872675,
+  "endTime": 1762166847528,
   "band_list": [
     {
       "raw_hot": 2331125,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1012390,
-      "num": 207154,
+      "num": 278335,
       "word": "巨型吊牌 防退货",
       "onboard_time": 1762161322,
       "rank": 21,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 945501,
+      "num": 1151280,
+      "word": "小巷人家剧组聊太嗨忘走红毯",
+      "onboard_time": 1762163900,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 825191,
       "num": 1132030,
       "word": "被骗到缅北男生刷到自己新闻",
@@ -67,8 +75,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766353,
+      "num": 1107473,
+      "word": "微博视界大会内场",
+      "onboard_time": 1762164681,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740416,
-      "num": 185195,
+      "num": 272834,
       "word": "蒲熠星回应通告费",
       "onboard_time": 1762164561,
       "rank": 16,
@@ -99,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 671706,
-      "num": 1107473,
-      "word": "微博视界大会内场",
-      "onboard_time": 1762164681,
-      "rank": 0,
-      "category": "综艺"
+      "raw_hot": 681840,
+      "num": 285171,
+      "word": "鬼灭之刃无限城篇定档",
+      "onboard_time": 1762164800,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 664490,
@@ -121,6 +137,14 @@
       "onboard_time": 1762130420,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 661093,
+      "num": 374258,
+      "word": "蒋欣在哪里 蒋欣在这里",
+      "onboard_time": 1762163301,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 635309,
@@ -155,28 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 608265,
-      "num": 375249,
-      "word": "小巷人家剧组聊太嗨忘走红毯",
-      "onboard_time": 1762163900,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 581199,
       "num": 256435,
       "word": "朱珠说没关系早就翻了",
       "onboard_time": 1762144762,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575198,
-      "num": 374258,
-      "word": "蒋欣在哪里 蒋欣在这里",
-      "onboard_time": 1762163301,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 570508,
@@ -217,14 +225,6 @@
       "onboard_time": 1762140562,
       "rank": 9,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 528233,
-      "num": 283909,
-      "word": "鬼灭之刃无限城篇定档",
-      "onboard_time": 1762164800,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 525342,
@@ -328,6 +328,14 @@
       "word": "高中生讲述缅北51天经历",
       "onboard_time": 1762150341,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404042,
+      "num": 274781,
+      "word": "山东被切六个器官男孩妈妈发声",
+      "onboard_time": 1762164742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -499,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302302,
+      "num": 302302,
+      "word": "广州一地发20万奖励结婚",
+      "onboard_time": 1762164621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294426,
       "num": 209722,
       "word": "陈乔恩结婚前没有朋友圈",
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 293922,
-      "num": 184254,
+      "num": 209827,
       "word": "杨幂指挥交通",
       "onboard_time": 1762164621,
       "rank": 18,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 283118,
-      "num": 185946,
+      "num": 271240,
       "word": "男孩做微创手术被切六个器官",
       "onboard_time": 1762163843,
       "rank": 14,
@@ -603,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247884,
+      "num": 247884,
+      "word": "T1严正声明",
+      "onboard_time": 1762165281,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246932,
       "num": 204207,
       "word": "考研的车门关上了",
@@ -632,14 +656,6 @@
       "word": "山姆",
       "onboard_time": 1762156281,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237709,
-      "num": 183728,
-      "word": "山东被切六个器官男孩妈妈发声",
-      "onboard_time": 1762164742,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -795,14 +811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188277,
-      "num": 188277,
-      "word": "广州一地发20万奖励结婚",
-      "onboard_time": 1762164621,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185746,
       "num": 170325,
       "word": "金饰克价一夜暴涨63元",
@@ -865,6 +873,14 @@
       "onboard_time": 1762143380,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177442,
+      "num": 177442,
+      "word": "白鹿第二套",
+      "onboard_time": 1762166061,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 176119,
@@ -1084,7 +1100,7 @@
     },
     {
       "raw_hot": 143978,
-      "num": 143978,
+      "num": 280649,
       "word": "全红婵搭档称压力大到不敢洗头发",
       "onboard_time": 1762164621,
       "rank": 28,
@@ -1163,11 +1179,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133639,
+      "num": 133639,
+      "word": "颖儿怎么把黄瓜香芋穿身上",
+      "onboard_time": 1762166421,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132799,
       "num": 130125,
       "word": "成毅入选2025年亚太行业先锋领袖榜单",
       "onboard_time": 1762154901,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132532,
+      "num": 132532,
+      "word": "沙一汀发红包",
+      "onboard_time": 1762166601,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1251,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125302,
-      "num": 125302,
-      "word": "T1严正声明",
-      "onboard_time": 1762165281,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124645,
       "num": 124645,
       "word": "江一燕是用智商换的容貌吧",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122508,
+      "num": 122508,
+      "word": "杨超越和她的仆人们",
+      "onboard_time": 1762163242,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 122074,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1762139899,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 115795,
+      "num": 115795,
+      "word": "陈瑶 人鱼公主",
+      "onboard_time": 1762165941,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 115413,
@@ -1603,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99758,
-      "num": 99758,
-      "word": "杨超越和她的仆人们",
-      "onboard_time": 1762163242,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99578,
       "num": 99578,
       "word": "韩总统向中方额外赠送200盒皇南饼",
@@ -1835,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91835,
+      "num": 91835,
+      "word": "暴食了十根香蕉会长胖吗",
+      "onboard_time": 1762166480,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1762156882,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89809,
+      "num": 89809,
+      "word": "山姆回应产品图更改",
+      "onboard_time": 1762166241,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 89598,
@@ -1971,12 +2019,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87884,
+      "num": 87884,
+      "word": "再也不怕上学迟到了",
+      "onboard_time": 1762166421,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87792,
       "num": 87792,
       "word": "郭宇欣工作室",
       "onboard_time": 1762131021,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87780,
+      "num": 87780,
+      "word": "牛油锅沾麻酱 拉肚子",
+      "onboard_time": 1762166720,
+      "rank": 46,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 87242,
@@ -2097,6 +2161,14 @@
       "onboard_time": 1762156041,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83688,
+      "num": 83688,
+      "word": "邢菲只需稍微出手",
+      "onboard_time": 1762166782,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 82939,
@@ -2467,6 +2539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53838,
+      "num": 93563,
+      "word": "Gumayusi谈如何度过低谷期",
+      "onboard_time": 1762166360,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50409,
       "num": 64443,
       "word": "ChatGP禁止提供专业医疗法律财务建议",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1762138821,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48398,
+      "num": 95138,
+      "word": "全运会乒乓球场馆9张球台",
+      "onboard_time": 1762165821,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 47207,
@@ -2569,14 +2657,6 @@
       "onboard_time": 1762150882,
       "rank": 48,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 34551,
-      "num": 95138,
-      "word": "全运会乒乓球场馆9张球台",
-      "onboard_time": 1762165821,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 32770,
@@ -2715,7 +2795,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 872,
+      "raw_hot": 1998,
       "num": 95431,
       "word": "高材生去墨西哥打工成为毒品帝国头目",
       "onboard_time": 1762165161,
