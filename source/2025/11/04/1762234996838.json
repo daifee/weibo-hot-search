@@ -1,0 +1,410 @@
+{
+  "runTime": 1762234996838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559041,
+        "num": 1089446,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314318,
+        "num": 314318,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21123,
+        "num": 311137,
+        "word": "进博会时光",
+        "onboard_time": 1762226900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310718,
+        "num": 310718,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 427866,
+        "num": 309054,
+        "word": "唐俪辞有5吨黄金",
+        "onboard_time": 1762229240,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286377,
+        "num": 286377,
+        "word": "杨幂童瑶蒋欣 三张权威的脸",
+        "onboard_time": 1762228640,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204804,
+        "num": 204804,
+        "word": "马天宇演技",
+        "onboard_time": 1762231102,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193177,
+        "num": 193177,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157755,
+        "num": 193155,
+        "word": "缅北白家21人获刑",
+        "onboard_time": 1762230081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106005,
+        "num": 193000,
+        "word": "央视揭网购故意发错货骗局",
+        "onboard_time": 1762214418,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37474,
+        "num": 192995,
+        "word": "红旗为孙颖莎许下生日祝福",
+        "onboard_time": 1762232661,
+        "rank": 10,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 693198,
+        "num": 192840,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680917,
+        "num": 192738,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380353,
+        "num": 192711,
+        "word": "光与夜之恋 查理苏换配音",
+        "onboard_time": 1762231162,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 377364,
+        "num": 192629,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244559,
+        "num": 192528,
+        "word": "姜妍做饭是有什么KPI吗",
+        "onboard_time": 1762232840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242277,
+        "num": 192397,
+        "word": "男子晒媳妇买了15双一样的勃肯鞋",
+        "onboard_time": 1762215922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358480,
+        "num": 192331,
+        "word": "白百何发生了什么",
+        "onboard_time": 1762219760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146560,
+        "num": 192183,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84934,
+        "num": 192113,
+        "word": "中学再通报学生买淀粉肠被拿钥匙",
+        "onboard_time": 1762233920,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192092,
+        "num": 192092,
+        "word": "谢霆锋记丁真的仇记四年",
+        "onboard_time": 1762233920,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188924,
+        "num": 188924,
+        "word": "彭小苒白开水妆",
+        "onboard_time": 1762234041,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26159,
+        "num": 176362,
+        "word": "全红婵夺冠全网沸腾",
+        "onboard_time": 1762233623,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167817,
+        "num": 167817,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 163382,
+        "num": 163382,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 137111,
+        "num": 137111,
+        "word": "Doinb谈明年AL阵容",
+        "onboard_time": 1762232423,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135071,
+        "num": 135071,
+        "word": "成都街头巨型LOL奖杯引围观",
+        "onboard_time": 1762233980,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129366,
+        "num": 129366,
+        "word": "迪丽热巴陈星旭枭起青壤快来了",
+        "onboard_time": 1762230021,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114378,
+        "num": 129215,
+        "word": "腾讯视频11月电视剧片单",
+        "onboard_time": 1762228100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 129166,
+        "word": "柯淳在同学录上写廖慧佳真漂亮",
+        "onboard_time": 1762233499,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133268,
+        "num": 129162,
+        "word": "剑网3酷熊宝宝",
+        "onboard_time": 1762234701,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129139,
+        "num": 129139,
+        "word": "女子劝邻居不要乱扔垃圾被群殴",
+        "onboard_time": 1762229001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127824,
+        "num": 127824,
+        "word": "为什么一到冬天你就突然变好看了",
+        "onboard_time": 1762232241,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123966,
+        "num": 123966,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 33,
+        "category": "幽默,健康医疗"
+      },
+      {
+        "raw_hot": 103719,
+        "num": 122116,
+        "word": "给宋茜演爽了",
+        "onboard_time": 1762234521,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121742,
+        "num": 121742,
+        "word": "北京一副区长停电动车竟遭三连拒",
+        "onboard_time": 1762225880,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114914,
+        "num": 114914,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112999,
+        "num": 112999,
+        "word": "激情全运会活力大湾区",
+        "onboard_time": 1762233980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109786,
+        "num": 109786,
+        "word": "南京大学后勤发布情况说明",
+        "onboard_time": 1762234761,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 102007,
+        "num": 102007,
+        "word": "全国小学生统一口头禅",
+        "onboard_time": 1762233321,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "谁懂央视力挺二次元的含金量",
+        "onboard_time": 1762230801,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100319,
+        "num": 100319,
+        "word": "到了三十岁就变得很脆皮",
+        "onboard_time": 1762234880,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62630,
+        "num": 99067,
+        "word": "别因为一根淀粉肠背离教育初心",
+        "onboard_time": 1762233560,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98969,
+        "num": 98969,
+        "word": "曝香港导演刘家良墓被盗",
+        "onboard_time": 1762234940,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97230,
+        "num": 97230,
+        "word": "Faker回应英雄池问题",
+        "onboard_time": 1762234521,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62672,
+        "num": 96178,
+        "word": "杨幂回应获年度演员",
+        "onboard_time": 1762233201,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95429,
+        "num": 95429,
+        "word": "四喜定档",
+        "onboard_time": 1762224140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94358,
+        "num": 94358,
+        "word": "小伙花170万买迈巴赫跑婚车",
+        "onboard_time": 1762217482,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95804,
+        "num": 93887,
+        "word": "杨瀚森没上场",
+        "onboard_time": 1762232722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94765,
+        "num": 93089,
+        "word": "吴泽林cha了go",
+        "onboard_time": 1762233980,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}
