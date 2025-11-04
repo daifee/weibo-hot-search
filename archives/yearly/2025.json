@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1762246223723,
+  "endTime": 1762248631128,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2099,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6934386,
+      "num": 8184386,
+      "word": "2026春节放9天假",
+      "onboard_time": 1762247421,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6912060,
       "num": 6912060,
       "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749267869,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 5005347,
-      "num": 5005347,
-      "word": "左航 剐蹭",
-      "onboard_time": 1759838601,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

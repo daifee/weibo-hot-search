@@ -1,7 +1,15 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762246223723,
+  "endTime": 1762248631128,
   "band_list": [
+    {
+      "raw_hot": 6934386,
+      "num": 8184386,
+      "word": "2026春节放9天假",
+      "onboard_time": 1762247421,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 3905506,
       "num": 222061,
@@ -251,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 881192,
+      "num": 149900,
+      "word": "小S二女儿谈具俊晔暴瘦",
+      "onboard_time": 1762246283,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872476,
       "num": 273890,
       "word": "刘强东 从此在老婆面前没有了自信",
       "onboard_time": 1762000102,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 859960,
+      "num": 859960,
+      "word": "2026年节假日安排",
+      "onboard_time": 1762247662,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 833435,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 736678,
-      "num": 136807,
+      "num": 147664,
       "word": "马思纯我很爱你",
       "onboard_time": 1762245621,
       "rank": 12,
@@ -977,6 +1001,14 @@
       "onboard_time": 1762079360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455164,
+      "num": 180263,
+      "word": "缺乏维生素D 抑郁症状",
+      "onboard_time": 1762243402,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 453393,
@@ -1683,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292497,
+      "num": 135651,
+      "word": "献血400ml没事失血400ml很危险",
+      "onboard_time": 1762246881,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 288488,
       "num": 288488,
       "word": "我给永夜星河一周年做的片头",
@@ -2107,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228588,
+      "num": 228588,
+      "word": "喜人成恋综了",
+      "onboard_time": 1762246341,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228299,
       "num": 206333,
       "word": "AL的含金量还在上升",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1762230021,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222536,
-      "num": 180263,
-      "word": "缺乏维生素D 抑郁症状",
-      "onboard_time": 1762243402,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 220717,
@@ -2667,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186796,
+      "num": 134413,
+      "word": "祝绪丹造型师审美",
+      "onboard_time": 1762247360,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186586,
       "num": 226698,
       "word": "易烊千玺蛮荒禁地演的沈星",
@@ -2795,6 +2843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 179968,
+      "num": 179968,
+      "word": "姿态谈T1换上单再进决赛",
+      "onboard_time": 1762247662,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179563,
       "num": 138435,
       "word": "韩总统向中方额外赠送200盒皇南饼",
@@ -2825,6 +2881,14 @@
       "onboard_time": 1762073960,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176251,
+      "num": 133390,
+      "word": "患癌男子8万救命钱全打赏主播",
+      "onboard_time": 1762245561,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176119,
@@ -2929,6 +2993,14 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171539,
+      "num": 135688,
+      "word": "金饰克价一夜猛跌69元",
+      "onboard_time": 1762244781,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 171460,
@@ -3419,6 +3491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151250,
+      "num": 151250,
+      "word": "孙乐言首次来offer",
+      "onboard_time": 1762246401,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150772,
       "num": 135766,
       "word": "孙颖莎25岁的第一条微博",
@@ -3883,14 +3963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135688,
-      "num": 135688,
-      "word": "金饰克价一夜猛跌69元",
-      "onboard_time": 1762244781,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135029,
       "num": 135029,
       "word": "国际金价再现断崖式下跌",
@@ -4105,6 +4177,14 @@
       "onboard_time": 1762143202,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131240,
+      "num": 184904,
+      "word": "孙颖莎生日蛋糕是超级玛丽",
+      "onboard_time": 1762242321,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 131101,
@@ -4523,14 +4603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122231,
-      "num": 184904,
-      "word": "孙颖莎生日蛋糕是超级玛丽",
-      "onboard_time": 1762242321,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122074,
       "num": 122074,
       "word": "学生买淀粉肠钥匙被拿走",
@@ -4699,6 +4771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117770,
+      "num": 117770,
+      "word": "深圳一男子喝6瓶饮料后中毒",
+      "onboard_time": 1762244480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117654,
       "num": 117654,
       "word": "彭小苒章时安 女明星和保镖",
@@ -4859,12 +4939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115585,
-      "num": 115585,
-      "word": "深圳一男子喝6瓶饮料后中毒",
-      "onboard_time": 1762244480,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 115533,
+      "num": 115533,
+      "word": "白敬亭转圈摔进王安宇怀里",
+      "onboard_time": 1762247000,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 115472,
@@ -4937,6 +5017,14 @@
       "onboard_time": 1762238600,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113927,
+      "num": 113927,
+      "word": "当你忘了自己已经30岁时",
+      "onboard_time": 1762247901,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 113922,
@@ -6043,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99431,
+      "num": 99431,
+      "word": "马斯克预测未来将人人高收入",
+      "onboard_time": 1762245022,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99221,
       "num": 99221,
       "word": "全运会乒乓球神秘定律",
@@ -6179,6 +6275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97784,
+      "num": 97784,
+      "word": "田曦薇毫不犹豫地选了错误答案",
+      "onboard_time": 1762246283,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97717,
       "num": 97717,
       "word": "陈靖可新剧为爱扛尸",
@@ -6232,14 +6336,6 @@
       "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
       "onboard_time": 1762063040,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97129,
-      "num": 97129,
-      "word": "患癌男子8万救命钱全打赏主播",
-      "onboard_time": 1762245561,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -7187,6 +7283,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 86418,
+      "num": 86418,
+      "word": "21岁小伙200个深蹲后肌肉溶解了",
+      "onboard_time": 1762246461,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 86412,
       "num": 86412,
       "word": "王安宇胡先煦 请苍天辨忠奸",
@@ -7201,6 +7305,14 @@
       "onboard_time": 1762127180,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86270,
+      "num": 86270,
+      "word": "Switch2销量破千万",
+      "onboard_time": 1762248442,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 86105,
@@ -7531,14 +7643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81931,
-      "num": 81931,
-      "word": "马斯克预测未来将人人高收入",
-      "onboard_time": 1762245022,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 81909,
       "num": 81909,
       "word": "小狗其实那晚我根本没睡着",
@@ -7585,6 +7689,14 @@
       "onboard_time": 1762151241,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81056,
+      "num": 81056,
+      "word": "具俊晔每周会去小S家吃饭",
+      "onboard_time": 1762248321,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 81021,
@@ -7739,6 +7851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78362,
+      "num": 115250,
+      "word": "A股两市成交额萎缩近2000亿",
+      "onboard_time": 1762246522,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78310,
       "num": 90780,
       "word": "我的鸟巢云座席",
@@ -7811,6 +7931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77545,
+      "num": 77545,
+      "word": "王鹤棣回应谢娜喊话",
+      "onboard_time": 1762247301,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77498,
       "num": 75354,
       "word": "弦子 引导型恋人",
@@ -7825,6 +7953,14 @@
       "onboard_time": 1762159282,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77259,
+      "num": 77259,
+      "word": "马来西亚仍维持稀土出口禁令",
+      "onboard_time": 1762248080,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77148,
@@ -7849,6 +7985,14 @@
       "onboard_time": 1762222460,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76855,
+      "num": 76855,
+      "word": "Faker被问是否处于巅峰期",
+      "onboard_time": 1762248502,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 76842,
@@ -8083,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70793,
+      "num": 115217,
+      "word": "河北体育局为孙颖莎庆生",
+      "onboard_time": 1762248020,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70193,
       "num": 79713,
       "word": "道奇卫冕",
@@ -8299,6 +8451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64479,
+      "num": 86279,
+      "word": "茅台电商补贴价跌破1600元",
+      "onboard_time": 1762248020,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64228,
       "num": 95007,
       "word": "马思纯花少7收官文",
@@ -8316,7 +8476,7 @@
     },
     {
       "raw_hot": 63330,
-      "num": 259612,
+      "num": 471655,
       "word": "一人一句为全运健儿加油",
       "onboard_time": 1762245502,
       "rank": 2,
@@ -8737,6 +8897,14 @@
       "onboard_time": 1762160721,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47200,
+      "num": 76824,
+      "word": "孙颖莎孙铭阳叠叠乐",
+      "onboard_time": 1762248200,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 46909,
