@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762263596123,
+  "endTime": 1762264279673,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 711829,
-      "num": 167193,
+      "num": 171179,
       "word": "印度一女警怀胎七月参加举重比赛",
       "onboard_time": 1762257920,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 707431,
+      "num": 171738,
+      "word": "网传快乐家族回归好六",
+      "onboard_time": 1762262303,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 693198,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 672799,
-      "num": 163868,
+      "num": 169306,
       "word": "樊振东怎么瘦这么多",
       "onboard_time": 1762258281,
       "rank": 20,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 526215,
-      "num": 166620,
+      "num": 168966,
       "word": "男子辞职到女儿学校旁卖炒饭",
       "onboard_time": 1762256962,
       "rank": 11,
@@ -241,14 +249,6 @@
       "onboard_time": 1762239261,
       "rank": 11,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 493242,
-      "num": 158096,
-      "word": "网传快乐家族回归好六",
-      "onboard_time": 1762262303,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 487309,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468652,
+      "num": 468652,
+      "word": "清瞳人设",
+      "onboard_time": 1762258759,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468469,
       "num": 264332,
       "word": "光与夜之恋 查理苏换配音",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 462313,
-      "num": 163676,
+      "num": 170460,
       "word": "法国废弃公园虎鲸母子或面临安乐死",
       "onboard_time": 1762258462,
       "rank": 22,
@@ -289,14 +297,6 @@
       "onboard_time": 1762243402,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 453381,
-      "num": 453381,
-      "word": "清瞳人设",
-      "onboard_time": 1762258759,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 435359,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 354803,
-      "num": 166093,
+      "num": 168819,
       "word": "模特码 正常码",
       "onboard_time": 1762253540,
       "rank": 30,
@@ -627,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230296,
+      "num": 170102,
+      "word": "妈妈检查女儿书包发现诡异恐怖画",
+      "onboard_time": 1762263621,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228588,
       "num": 228588,
       "word": "喜人成恋综了",
@@ -739,20 +747,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197883,
+      "num": 197883,
+      "word": "崩铁",
+      "onboard_time": 1762262721,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197000,
       "num": 197000,
       "word": "樊振东出发全运会",
       "onboard_time": 1762244120,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196519,
-      "num": 196519,
-      "word": "崩铁",
-      "onboard_time": 1762262721,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 195716,
@@ -787,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189520,
+      "num": 169532,
+      "word": "邓亚萍建议陈梦珍惜当下",
+      "onboard_time": 1762262542,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "彭小苒白开水妆",
       "onboard_time": 1762234041,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186812,
+      "num": 186812,
+      "word": "郑丽文再表态",
+      "onboard_time": 1762262062,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186796,
@@ -889,6 +913,14 @@
       "onboard_time": 1762253361,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174100,
+      "num": 174100,
+      "word": "陈丽君荣获文华表演奖",
+      "onboard_time": 1762263742,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 173857,
@@ -1075,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155989,
-      "num": 155989,
-      "word": "郑丽文再表态",
-      "onboard_time": 1762262062,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 155925,
       "num": 196157,
       "word": "乘客开门杀致人损害谁担责",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1762245380,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150716,
+      "num": 150716,
+      "word": "林青霞71岁庆生照",
+      "onboard_time": 1762263022,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150629,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1762226542,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141245,
-      "num": 141245,
-      "word": "林青霞71岁庆生照",
-      "onboard_time": 1762263022,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 141148,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1762262483,
       "rank": 35,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 133585,
-      "num": 155980,
-      "word": "邓亚萍建议陈梦珍惜当下",
-      "onboard_time": 1762262542,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 133268,
@@ -1587,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120552,
+      "num": 164100,
+      "word": "人民咖啡馆店标引争议",
+      "onboard_time": 1762260022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118487,
       "num": 118487,
       "word": "桃黑黑的父母也不是泛泛之辈",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1762228160,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117154,
-      "num": 164100,
-      "word": "人民咖啡馆店标引争议",
-      "onboard_time": 1762260022,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117118,
@@ -2017,6 +2033,14 @@
       "onboard_time": 1762245441,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105228,
+      "num": 105228,
+      "word": "张函瑞popping",
+      "onboard_time": 1762263983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 104367,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1762241840,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92949,
+      "num": 92949,
+      "word": "苹果严禁线下经销商线上售产品",
+      "onboard_time": 1762260501,
+      "rank": 47,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 91983,
@@ -2883,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76427,
+      "num": 109666,
+      "word": "中国驻美大使谢锋发声",
+      "onboard_time": 1762262062,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75772,
       "num": 75772,
       "word": "异宠绝对不能放生",
@@ -2953,6 +2993,22 @@
       "onboard_time": 1762232423,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66607,
+      "num": 92877,
+      "word": "王宗源回应夺冠",
+      "onboard_time": 1762263802,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66593,
+      "num": 156552,
+      "word": "山姆会员吐槽花680不是来看AI图的",
+      "onboard_time": 1762255581,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66311,
@@ -3089,14 +3145,6 @@
       "onboard_time": 1762190597,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60047,
-      "num": 156552,
-      "word": "山姆会员吐槽花680不是来看AI图的",
-      "onboard_time": 1762255581,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57734,
@@ -3241,14 +3289,6 @@
       "onboard_time": 1762181123,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47340,
-      "num": 96843,
-      "word": "中国驻美大使谢锋发声",
-      "onboard_time": 1762262062,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47200,
@@ -3556,7 +3596,7 @@
     },
     {
       "raw_hot": 21395,
-      "num": 516013,
+      "num": 527585,
       "word": "进博会时光",
       "onboard_time": 1762226900,
       "rank": 8,
