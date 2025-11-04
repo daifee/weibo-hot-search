@@ -1,0 +1,410 @@
+{
+  "runTime": 1762252290569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9703049,
+        "num": 9703049,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300127,
+        "num": 300127,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 30329,
+        "num": 217054,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185818,
+        "num": 185818,
+        "word": "2026年节假日安排",
+        "onboard_time": 1762247662,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166704,
+        "num": 166704,
+        "word": "喜人成恋综了",
+        "onboard_time": 1762246341,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147736,
+        "num": 147736,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147701,
+        "num": 147701,
+        "word": "B站回应拉黑指定用户屏蔽开屏广告",
+        "onboard_time": 1762250121,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205605,
+        "num": 147297,
+        "word": "元旦调休",
+        "onboard_time": 1762251200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115390,
+        "num": 147085,
+        "word": "AL在等一个不会来的人",
+        "onboard_time": 1762243340,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106210,
+        "num": 146657,
+        "word": "花少同心季 幸好有你们",
+        "onboard_time": 1762250481,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103818,
+        "num": 145878,
+        "word": "胡锡进认为南京大学售卖帝王蟹不妥",
+        "onboard_time": 1762250002,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634656,
+        "num": 145395,
+        "word": "调休",
+        "onboard_time": 1762248680,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632606,
+        "num": 144852,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513426,
+        "num": 144585,
+        "word": "小S二女儿谈具俊晔暴瘦",
+        "onboard_time": 1762246283,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458322,
+        "num": 143724,
+        "word": "满清野史",
+        "onboard_time": 1762240459,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 143234,
+        "word": "星巴克中国卖掉了",
+        "onboard_time": 1762251381,
+        "rank": 15,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 84021,
+        "num": 142803,
+        "word": "孙乐言首次来offer",
+        "onboard_time": 1762246401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227527,
+        "num": 142442,
+        "word": "马思纯我很爱你",
+        "onboard_time": 1762245621,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78917,
+        "num": 142019,
+        "word": "水中贵族的含金量",
+        "onboard_time": 1762250661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79063,
+        "num": 141477,
+        "word": "京东有自己的五常大米基地",
+        "onboard_time": 1762250721,
+        "rank": 19,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 262368,
+        "num": 141064,
+        "word": "献血400ml没事失血400ml很危险",
+        "onboard_time": 1762246881,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247377,
+        "num": 140521,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184298,
+        "num": 140037,
+        "word": "缺乏维生素D 抑郁症状",
+        "onboard_time": 1762243402,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169161,
+        "num": 139298,
+        "word": "孙颖莎生日发博",
+        "onboard_time": 1762242321,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169037,
+        "num": 139057,
+        "word": "大学生花钱有自己的刀刃",
+        "onboard_time": 1762251501,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153113,
+        "num": 138660,
+        "word": "Ning为TES发声",
+        "onboard_time": 1762250121,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138162,
+        "num": 138162,
+        "word": "视界大会cp奖给了向往的生活的狗",
+        "onboard_time": 1762249881,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120930,
+        "num": 120930,
+        "word": "祝绪丹造型师审美",
+        "onboard_time": 1762247360,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112542,
+        "num": 112542,
+        "word": "患癌男子8万救命钱全打赏主播",
+        "onboard_time": 1762245561,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104485,
+        "num": 104485,
+        "word": "金饰克价一夜猛跌69元",
+        "onboard_time": 1762244781,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145020,
+        "num": 102909,
+        "word": "全红婵未报个人赛原因",
+        "onboard_time": 1762251561,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46427,
+        "num": 101723,
+        "word": "民政局回应夜店登记结婚争议",
+        "onboard_time": 1762250422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128208,
+        "num": 101484,
+        "word": "狗狗因没人摸它都快委屈哭了",
+        "onboard_time": 1762250242,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101173,
+        "num": 101173,
+        "word": "真的建议检查一下爸妈的手机",
+        "onboard_time": 1762239261,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 100123,
+        "num": 100123,
+        "word": "有这么妈味十足的剧进入内娱",
+        "onboard_time": 1762251080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99030,
+        "num": 99030,
+        "word": "孙颖莎生日蛋糕是超级玛丽",
+        "onboard_time": 1762242321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95933,
+        "num": 95933,
+        "word": "姿态谈T1换上单再进决赛",
+        "onboard_time": 1762247662,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90946,
+        "num": 90946,
+        "word": "饿了么骑手新工服 赛车服",
+        "onboard_time": 1762240100,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84810,
+        "num": 90730,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30486,
+        "num": 90591,
+        "word": "中国女生失联前曾打听日本自杀森林",
+        "onboard_time": 1762251441,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83785,
+        "num": 90571,
+        "word": "2026中秋国庆请3休13",
+        "onboard_time": 1762250180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90567,
+        "num": 90567,
+        "word": "樊振东的FZD小巧思",
+        "onboard_time": 1762251802,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86264,
+        "num": 86264,
+        "word": "没有班味的工位长这样",
+        "onboard_time": 1762235181,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84068,
+        "num": 84068,
+        "word": "威少说掘金不想让他留队",
+        "onboard_time": 1762252101,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81267,
+        "num": 81267,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80928,
+        "num": 80928,
+        "word": "闫安为多哈球台事件道歉",
+        "onboard_time": 1762250842,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78735,
+        "num": 78735,
+        "word": "市监局回应饭馆老板卖猫肉每天现杀",
+        "onboard_time": 1762252040,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74585,
+        "num": 74585,
+        "word": "白敬亭转圈摔进王安宇怀里",
+        "onboard_time": 1762247000,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73764,
+        "num": 73764,
+        "word": "张晚意 造次完最害怕的一次",
+        "onboard_time": 1762248982,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61461,
+        "num": 73354,
+        "word": "中秋国庆终于解绑了",
+        "onboard_time": 1762252221,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}

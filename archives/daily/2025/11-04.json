@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762249483606,
+  "endTime": 1762252290569,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -136,6 +136,14 @@
       "word": "男子晒媳妇买了15双一样的勃肯鞋",
       "onboard_time": 1762215922,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 634656,
+      "num": 186945,
+      "word": "调休",
+      "onboard_time": 1762248680,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -563,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205605,
+      "num": 147297,
+      "word": "元旦调休",
+      "onboard_time": 1762251200,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203585,
       "num": 205348,
       "word": "1个剧组13座奖杯",
@@ -625,14 +641,6 @@
       "onboard_time": 1762234041,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186945,
-      "num": 186945,
-      "word": "调休",
-      "onboard_time": 1762248680,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186796,
@@ -739,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169037,
+      "num": 139057,
+      "word": "大学生花钱有自己的刀刃",
+      "onboard_time": 1762251501,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168403,
       "num": 110618,
       "word": "小巷人家",
@@ -785,6 +801,14 @@
       "onboard_time": 1762226900,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162208,
+      "num": 143234,
+      "word": "星巴克中国卖掉了",
+      "onboard_time": 1762251381,
+      "rank": 15,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 161947,
@@ -843,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153113,
+      "num": 138660,
+      "word": "Ning为TES发声",
+      "onboard_time": 1762250121,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152256,
       "num": 110373,
       "word": "全红婵帮谢思埸带娃",
@@ -883,6 +915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147701,
+      "num": 147701,
+      "word": "B站回应拉黑指定用户屏蔽开屏广告",
+      "onboard_time": 1762250121,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145950,
       "num": 118575,
       "word": "剑网3瑶台仙梦",
@@ -896,6 +936,14 @@
       "word": "孙颖莎20岁到25岁的变化",
       "onboard_time": 1762240580,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145020,
+      "num": 102909,
+      "word": "全红婵未报个人赛原因",
+      "onboard_time": 1762251561,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -952,6 +1000,14 @@
       "word": "谁懂央视力挺二次元的含金量",
       "onboard_time": 1762230801,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138162,
+      "num": 138162,
+      "word": "视界大会cp奖给了向往的生活的狗",
+      "onboard_time": 1762249881,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1089,6 +1145,14 @@
       "onboard_time": 1762245201,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128208,
+      "num": 101484,
+      "word": "狗狗因没人摸它都快委屈哭了",
+      "onboard_time": 1762250242,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 127700,
@@ -1459,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106210,
+      "num": 146657,
+      "word": "花少同心季 幸好有你们",
+      "onboard_time": 1762250481,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105636,
       "num": 105636,
       "word": "朱开说Kanavi只能在LPL打",
@@ -1497,6 +1569,14 @@
       "onboard_time": 1762248321,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103818,
+      "num": 145878,
+      "word": "胡锡进认为南京大学售卖帝王蟹不妥",
+      "onboard_time": 1762250002,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103719,
@@ -1625,6 +1705,14 @@
       "onboard_time": 1762221800,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100123,
+      "num": 100123,
+      "word": "有这么妈味十足的剧进入内娱",
+      "onboard_time": 1762251080,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 99811,
@@ -1803,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90567,
+      "num": 90567,
+      "word": "樊振东的FZD小巧思",
+      "onboard_time": 1762251802,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90365,
       "num": 90365,
       "word": "孙颖莎头发立起来了",
@@ -1931,6 +2027,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84068,
+      "num": 84068,
+      "word": "威少说掘金不想让他留队",
+      "onboard_time": 1762252101,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83785,
+      "num": 90571,
+      "word": "2026中秋国庆请3休13",
+      "onboard_time": 1762250180,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83134,
       "num": 83134,
       "word": "65岁女子帮带娃1个月遭邻居杀害",
@@ -1984,6 +2096,14 @@
       "word": "威少拿底薪干顶薪的活",
       "onboard_time": 1762238839,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80928,
+      "num": 80928,
+      "word": "闫安为多哈球台事件道歉",
+      "onboard_time": 1762250842,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2041,6 +2161,30 @@
       "onboard_time": 1762241000,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79063,
+      "num": 141477,
+      "word": "京东有自己的五常大米基地",
+      "onboard_time": 1762250721,
+      "rank": 19,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 78917,
+      "num": 142019,
+      "word": "水中贵族的含金量",
+      "onboard_time": 1762250661,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78735,
+      "num": 78735,
+      "word": "市监局回应饭馆老板卖猫肉每天现杀",
+      "onboard_time": 1762252040,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78701,
@@ -2283,6 +2427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61461,
+      "num": 73354,
+      "word": "中秋国庆终于解绑了",
+      "onboard_time": 1762252221,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60427,
       "num": 60427,
       "word": "杨幂 美羊羊扶额",
@@ -2451,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46427,
+      "num": 101723,
+      "word": "民政局回应夜店登记结婚争议",
+      "onboard_time": 1762250422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43511,
       "num": 52219,
       "word": "人民海军居里夫人式女杰萨本茂逝世",
@@ -2601,6 +2761,14 @@
       "onboard_time": 1762190476,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30486,
+      "num": 90591,
+      "word": "中国女生失联前曾打听日本自杀森林",
+      "onboard_time": 1762251441,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29181,
