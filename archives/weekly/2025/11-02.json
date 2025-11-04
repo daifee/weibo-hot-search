@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762276959491,
+  "endTime": 1762278042161,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -5099,6 +5099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123713,
+      "num": 87321,
+      "word": "马思纯工作室写给马思纯的信",
+      "onboard_time": 1762271599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123639,
       "num": 123639,
       "word": "16岁少年在未管所遭殴打身亡",
@@ -6153,14 +6161,6 @@
       "onboard_time": 1762224440,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108177,
-      "num": 87321,
-      "word": "马思纯工作室写给马思纯的信",
-      "onboard_time": 1762271599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 107955,
@@ -10811,6 +10811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26651,
+      "num": 52425,
+      "word": "王权富贵再次燃命",
+      "onboard_time": 1762277176,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26286,
       "num": 850672,
       "word": "关注第八届进博会",
@@ -10873,6 +10881,14 @@
       "onboard_time": 1762086021,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24377,
+      "num": 52368,
+      "word": "双11疯狂好六夜定档",
+      "onboard_time": 1762277295,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 24263,

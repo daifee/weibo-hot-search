@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762276959491,
+  "endTime": 1762278042161,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123713,
+      "num": 87321,
+      "word": "马思纯工作室写给马思纯的信",
+      "onboard_time": 1762271599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122299,
       "num": 122299,
       "word": "JackeyLove致歉",
@@ -161,14 +169,6 @@
       "onboard_time": 1762269201,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108177,
-      "num": 87321,
-      "word": "马思纯工作室写给马思纯的信",
-      "onboard_time": 1762271599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 107288,
@@ -419,12 +419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26651,
+      "num": 52425,
+      "word": "王权富贵再次燃命",
+      "onboard_time": 1762277176,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26578,
       "num": 57329,
       "word": "久哲离开TTG",
       "onboard_time": 1762258222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24377,
+      "num": 52368,
+      "word": "双11疯狂好六夜定档",
+      "onboard_time": 1762277295,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 23620,
