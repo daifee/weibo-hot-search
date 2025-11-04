@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762245372067,
+  "endTime": 1762246223723,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1220113,
+      "num": 183777,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1203616,
       "num": 1203616,
       "word": "国考",
@@ -209,14 +217,6 @@
       "onboard_time": 1761959600,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1165459,
-      "num": 183777,
-      "word": "满清野史",
-      "onboard_time": 1762240459,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 1087235,
@@ -481,6 +481,14 @@
       "onboard_time": 1761998121,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736678,
+      "num": 136807,
+      "word": "马思纯我很爱你",
+      "onboard_time": 1762245621,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 735086,
@@ -2891,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222536,
+      "num": 180263,
+      "word": "缺乏维生素D 抑郁症状",
+      "onboard_time": 1762243402,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222474,
       "num": 213203,
       "word": "敖瑞鹏直播",
@@ -3811,12 +3827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180263,
-      "num": 180263,
-      "word": "缺乏维生素D 抑郁症状",
-      "onboard_time": 1762243402,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 180219,
+      "num": 136141,
+      "word": "B站拉黑指定用户 屏蔽开屏广告",
+      "onboard_time": 1762244480,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 179563,
@@ -4347,14 +4363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162503,
-      "num": 111746,
-      "word": "B站拉黑指定用户 屏蔽开屏广告",
-      "onboard_time": 1762244480,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 162271,
       "num": 162271,
       "word": "迪丽热巴卫蓝白裙路透",
@@ -4793,6 +4801,14 @@
       "onboard_time": 1762010244,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150772,
+      "num": 135766,
+      "word": "孙颖莎25岁的第一条微博",
+      "onboard_time": 1762245380,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 150649,
@@ -5555,6 +5571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135688,
+      "num": 135688,
+      "word": "金饰克价一夜猛跌69元",
+      "onboard_time": 1762244781,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135633,
       "num": 135633,
       "word": "车主选中尾号6646号牌被告知作废",
@@ -5625,14 +5649,6 @@
       "onboard_time": 1762176081,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134007,
-      "num": 134007,
-      "word": "金饰克价一夜猛跌69元",
-      "onboard_time": 1762244781,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 133846,
@@ -5899,6 +5915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129985,
+      "num": 129985,
+      "word": "龚俊你把我弄哭了满意吗",
+      "onboard_time": 1762245680,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129779,
       "num": 75879,
       "word": "王艺迪vs张本美和",
@@ -5993,6 +6017,14 @@
       "onboard_time": 1762002742,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128733,
+      "num": 128733,
+      "word": "短剧里居然有穿越不开挂的男主",
+      "onboard_time": 1762245201,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128695,
@@ -6443,6 +6475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122231,
+      "num": 184904,
+      "word": "孙颖莎生日蛋糕是超级玛丽",
+      "onboard_time": 1762242321,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122183,
       "num": 122183,
       "word": "高叶才是真的魔嫂降世",
@@ -6835,6 +6875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116349,
+      "num": 116349,
+      "word": "谁看了陈数这段能忍住不哭",
+      "onboard_time": 1762245860,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116280,
       "num": 116280,
       "word": "A股",
@@ -6905,6 +6953,14 @@
       "onboard_time": 1762050919,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115585,
+      "num": 115585,
+      "word": "深圳一男子喝6瓶饮料后中毒",
+      "onboard_time": 1762244480,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115485,
@@ -7027,20 +7083,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113189,
+      "num": 113189,
+      "word": "这居然是20岁的邓恩熙",
+      "onboard_time": 1762245801,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113063,
       "num": 193128,
       "word": "京东拍卖巴掌大野生黑松露",
       "onboard_time": 1762225399,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113054,
-      "num": 184904,
-      "word": "孙颖莎生日蛋糕是超级玛丽",
-      "onboard_time": 1762242321,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 112999,
@@ -7273,6 +7329,14 @@
       "onboard_time": 1762174702,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110465,
+      "num": 110465,
+      "word": "这样干一天我得休一星期",
+      "onboard_time": 1762245441,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 110416,
@@ -7739,6 +7803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105355,
+      "num": 105355,
+      "word": "愿意给孩子买的卫生吹糖人",
+      "onboard_time": 1762245441,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104875,
       "num": 104875,
       "word": "宋亚轩笑到一半发现还在录节目",
@@ -8017,6 +8089,14 @@
       "onboard_time": 1762131560,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102717,
+      "num": 102717,
+      "word": "白鹿大学生严选角色第一",
+      "onboard_time": 1762245621,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 102648,
@@ -8305,14 +8385,6 @@
       "onboard_time": 1762221800,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100265,
-      "num": 100265,
-      "word": "深圳一男子喝6瓶饮料后中毒",
-      "onboard_time": 1762244480,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100247,
@@ -8688,6 +8760,14 @@
       "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
       "onboard_time": 1762063040,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97129,
+      "num": 97129,
+      "word": "患癌男子8万救命钱全打赏主播",
+      "onboard_time": 1762245561,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -9324,7 +9404,7 @@
     },
     {
       "raw_hot": 90912,
-      "num": 111864,
+      "num": 137228,
       "word": "孙颖莎全运会出发",
       "onboard_time": 1762241721,
       "rank": 37,
@@ -9385,6 +9465,14 @@
       "onboard_time": 1762139600,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90365,
+      "num": 90365,
+      "word": "孙颖莎头发立起来了",
+      "onboard_time": 1762246040,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 90166,
@@ -9809,14 +9897,6 @@
       "onboard_time": 1762068740,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86824,
-      "num": 104290,
-      "word": "短剧里居然有穿越不开挂的男主",
-      "onboard_time": 1762245201,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 86803,
@@ -10417,6 +10497,14 @@
       "onboard_time": 1762221321,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80816,
+      "num": 80816,
+      "word": "东北糖葫芦vs南方糖葫芦",
+      "onboard_time": 1762246099,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 80740,
@@ -11451,6 +11539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63330,
+      "num": 259612,
+      "word": "一人一句为全运健儿加油",
+      "onboard_time": 1762245502,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63317,
       "num": 84499,
       "word": "原来脐橙竟是无人机采收的",
@@ -11971,11 +12067,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49137,
+      "num": 115793,
+      "word": "三变科技涨停",
+      "onboard_time": 1762245380,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49119,
       "num": 500772,
       "word": "网警斩断侵害未成年人网络黑色产业链",
       "onboard_time": 1762138821,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48852,
+      "num": 80281,
+      "word": "南大学子发文回应帝王蟹事件",
+      "onboard_time": 1762246160,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -12049,6 +12161,14 @@
       "onboard_time": 1762239920,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46559,
+      "num": 80203,
+      "word": "陈梦说澳门见",
+      "onboard_time": 1762245680,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 45996,
