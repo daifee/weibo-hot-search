@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762285008573,
+  "endTime": 1762288242529,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -11203,6 +11203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 12259,
+      "num": 30624,
+      "word": "没有完美的性格",
+      "onboard_time": 1762278915,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12245,
       "num": 27555,
       "word": "这是古人的饼铛小手办吗",
@@ -11219,15 +11227,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 11659,
-      "num": 30624,
-      "word": "没有完美的性格",
-      "onboard_time": 1762278915,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 11096,
+      "raw_hot": 11303,
       "num": 30607,
       "word": "秋招会工资写0到1000元医院致歉",
       "onboard_time": 1762283835,
@@ -11249,6 +11249,22 @@
       "onboard_time": 1762046360,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10119,
+      "num": 17115,
+      "word": "陈浚铭可爱鬼九宫格",
+      "onboard_time": 1762285214,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9631,
+      "num": 17089,
+      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
+      "onboard_time": 1762288216,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9249,

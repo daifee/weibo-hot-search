@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762285008573,
+  "endTime": 1762288242529,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -523,7 +523,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11659,
+      "raw_hot": 12259,
       "num": 30624,
       "word": "没有完美的性格",
       "onboard_time": 1762278915,
@@ -531,12 +531,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11096,
+      "raw_hot": 11303,
       "num": 30607,
       "word": "秋招会工资写0到1000元医院致歉",
       "onboard_time": 1762283835,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 10119,
+      "num": 17115,
+      "word": "陈浚铭可爱鬼九宫格",
+      "onboard_time": 1762285214,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9631,
+      "num": 17089,
+      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
+      "onboard_time": 1762288216,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
