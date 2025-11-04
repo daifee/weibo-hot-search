@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762291502578,
+  "endTime": 1762292339861,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15492,
+      "num": 18343,
+      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
+      "onboard_time": 1762288216,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14753,
       "num": 28192,
       "word": "丁禹兮原声真的很有力量感",
@@ -523,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12512,
-      "num": 18343,
-      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
-      "onboard_time": 1762288216,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12259,
       "num": 30624,
       "word": "没有完美的性格",
@@ -547,20 +547,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 10647,
-      "num": 14565,
-      "word": "和秋冬最适配的编发",
-      "onboard_time": 1762290013,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 10269,
-      "num": 14563,
+      "raw_hot": 11095,
+      "num": 14901,
       "word": "原来这就是100大卡的概念",
       "onboard_time": 1762289114,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10680,
+      "num": 14886,
+      "word": "和秋冬最适配的编发",
+      "onboard_time": 1762290013,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 10119,

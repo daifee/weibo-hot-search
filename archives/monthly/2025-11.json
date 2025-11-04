@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762291502578,
+  "endTime": 1762292339861,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14811,6 +14811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15492,
+      "num": 18343,
+      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
+      "onboard_time": 1762288216,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15327,
       "num": 122789,
       "word": "银行储户损失千万本金事件已设调查组",
@@ -14923,14 +14931,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12512,
-      "num": 18343,
-      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
-      "onboard_time": 1762288216,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12259,
       "num": 30624,
       "word": "没有完美的性格",
@@ -14963,28 +14963,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 10669,
-      "num": 550959,
-      "word": "中国体育名场面感动了一遍又一遍",
-      "onboard_time": 1762070301,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 11095,
+      "num": 14901,
+      "word": "原来这就是100大卡的概念",
+      "onboard_time": 1762289114,
+      "rank": 45,
+      "category": "美食"
     },
     {
-      "raw_hot": 10647,
-      "num": 14565,
+      "raw_hot": 10680,
+      "num": 14886,
       "word": "和秋冬最适配的编发",
       "onboard_time": 1762290013,
       "rank": 44,
       "category": "美妆"
     },
     {
-      "raw_hot": 10269,
-      "num": 14563,
-      "word": "原来这就是100大卡的概念",
-      "onboard_time": 1762289114,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 10669,
+      "num": 550959,
+      "word": "中国体育名场面感动了一遍又一遍",
+      "onboard_time": 1762070301,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 10240,
