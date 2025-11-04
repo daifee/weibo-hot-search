@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762234996838,
+  "endTime": 1762238386874,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -105,6 +105,14 @@
       "onboard_time": 1762076362,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1645066,
+      "num": 192738,
+      "word": "疑似白百何朋友圈",
+      "onboard_time": 1762233920,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1592188,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 861960,
+      "num": 1137913,
+      "word": "饿了么骑手已更换橙黑新工服",
+      "onboard_time": 1762233860,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 833435,
       "num": 314441,
       "word": "白百何 还能这么操作",
@@ -569,14 +585,6 @@
       "onboard_time": 1762164800,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 680917,
-      "num": 192738,
-      "word": "疑似白百何朋友圈",
-      "onboard_time": 1762233920,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 677715,
@@ -1619,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365717,
+      "num": 192092,
+      "word": "谢霆锋记丁真的仇记四年",
+      "onboard_time": 1762233920,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365204,
       "num": 365204,
       "word": "关晓彤张凌赫好长的两条人",
@@ -2075,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300684,
+      "num": 204057,
+      "word": "姜妍做饭是有什么KPI吗",
+      "onboard_time": 1762232840,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -2355,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263113,
+      "num": 263113,
+      "word": "枭起青壤",
+      "onboard_time": 1762233380,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262298,
       "num": 262298,
       "word": "狼队赢了",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1762010422,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255544,
+      "num": 183456,
+      "word": "曝香港导演刘家良墓被盗",
+      "onboard_time": 1762234940,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 255221,
@@ -2529,14 +2569,6 @@
       "onboard_time": 1762157902,
       "rank": 22,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 244559,
-      "num": 204057,
-      "word": "姜妍做饭是有什么KPI吗",
-      "onboard_time": 1762232840,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 242906,
@@ -3011,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208150,
+      "num": 182720,
+      "word": "徐冬冬提起爱过的人尹子维转身就走",
+      "onboard_time": 1762237040,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207882,
       "num": 207882,
       "word": "广东队跳水女团冠军",
@@ -3275,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196926,
+      "num": 196926,
+      "word": "山姆改回实拍图",
+      "onboard_time": 1762235960,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196670,
       "num": 196670,
       "word": "台官员宴请美官员结果无一人到场",
@@ -3411,14 +3459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192092,
-      "num": 192092,
-      "word": "谢霆锋记丁真的仇记四年",
-      "onboard_time": 1762233920,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191895,
       "num": 191895,
       "word": "网红胡楚靓左耳重度耳聋",
@@ -3441,6 +3481,14 @@
       "onboard_time": 1761994402,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191072,
+      "num": 191072,
+      "word": "龚俊告别花儿与少年vlog",
+      "onboard_time": 1762237761,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 190339,
@@ -3787,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173848,
+      "num": 173848,
+      "word": "没有班味的工位长这样",
+      "onboard_time": 1762235181,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173801,
       "num": 176859,
       "word": "文荣奖",
@@ -3809,14 +3865,6 @@
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173113,
-      "num": 192183,
-      "word": "枭起青壤",
-      "onboard_time": 1762233380,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 172932,
@@ -3915,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170620,
+      "num": 192113,
+      "word": "中学再通报学生买淀粉肠被拿钥匙",
+      "onboard_time": 1762233920,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
@@ -3953,14 +4009,6 @@
       "onboard_time": 1761970401,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167817,
-      "num": 167817,
-      "word": "饿了么骑手已更换橙黑新工服",
-      "onboard_time": 1762233860,
-      "rank": 44,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 167703,
@@ -5299,6 +5347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136631,
+      "num": 136631,
+      "word": "Faker当保安看监控也能赚不少钱",
+      "onboard_time": 1762236800,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136560,
       "num": 119872,
       "word": "张凌赫bking拨珠帘",
@@ -5529,6 +5585,14 @@
       "onboard_time": 1762008503,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132750,
+      "num": 109081,
+      "word": "荷方继续一意孤行",
+      "onboard_time": 1762238299,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132532,
@@ -5841,6 +5905,14 @@
       "onboard_time": 1762087101,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127336,
+      "num": 127336,
+      "word": "王伟莹跳水女子个人全能冠军",
+      "onboard_time": 1762237340,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 127287,
@@ -6491,6 +6563,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 117581,
+      "num": 117581,
+      "word": "梨形身材坚持跳绳7个月的变化",
+      "onboard_time": 1762229600,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 117566,
       "num": 117566,
       "word": "本周做什么都顺的星座",
@@ -6763,6 +6843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112875,
+      "num": 112875,
+      "word": "男子以问厕所位置为由牵走女孩",
+      "onboard_time": 1762236381,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112815,
       "num": 112815,
       "word": "疯狂好六夜艺人集体出走",
@@ -6979,6 +7067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109848,
+      "num": 109848,
+      "word": "湖人复仇开拓者",
+      "onboard_time": 1762237580,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109799,
       "num": 109799,
       "word": "何广智还回去说脱口秀吗",
@@ -7009,14 +7105,6 @@
       "onboard_time": 1762166961,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109546,
-      "num": 109546,
-      "word": "梨形身材坚持跳绳7个月的变化",
-      "onboard_time": 1762229600,
-      "rank": 41,
-      "category": "运动健身"
     },
     {
       "raw_hot": 109348,
@@ -7787,6 +7875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 101734,
+      "num": 109370,
+      "word": "李一桐音感好准",
+      "onboard_time": 1762237640,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101631,
       "num": 101631,
       "word": "GW对战成都GG",
@@ -8073,14 +8169,6 @@
       "onboard_time": 1761993081,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98969,
-      "num": 98969,
-      "word": "曝香港导演刘家良墓被盗",
-      "onboard_time": 1762234940,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 98912,
@@ -8939,6 +9027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90587,
+      "num": 90587,
+      "word": "网购售后理赔成刷单陷阱",
+      "onboard_time": 1762238179,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90405,
       "num": 90405,
       "word": "中国公民持澳签今起免签入境新西兰",
@@ -9411,6 +9507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86490,
+      "num": 86490,
+      "word": "胡先煦 大孝子我有一争之力",
+      "onboard_time": 1762237821,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86479,
       "num": 86479,
       "word": "桂花香 霸道",
@@ -9579,12 +9683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84934,
-      "num": 192113,
-      "word": "中学再通报学生买淀粉肠被拿钥匙",
-      "onboard_time": 1762233920,
-      "rank": 36,
-      "category": "辟谣/通报"
+      "raw_hot": 84905,
+      "num": 84905,
+      "word": "金饰价格跌回1187元",
+      "onboard_time": 1762235241,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 84894,
@@ -9699,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83697,
+      "num": 83697,
+      "word": "拔车钥匙人员为当值副校长",
+      "onboard_time": 1762238119,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83688,
       "num": 83688,
       "word": "邢菲只需稍微出手",
@@ -9761,6 +9873,14 @@
       "onboard_time": 1762148422,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82821,
+      "num": 80043,
+      "word": "杨瀚森再次被DNP",
+      "onboard_time": 1762237882,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 82767,
@@ -9955,6 +10075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80110,
+      "num": 80110,
+      "word": "杜兰特只打关键球",
+      "onboard_time": 1762237282,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80060,
       "num": 153018,
       "word": "有人居家打金因炸金损失8克",
@@ -10017,6 +10145,14 @@
       "onboard_time": 1762047018,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78880,
+      "num": 78880,
+      "word": "刘宇宁感谢粉丝二创",
+      "onboard_time": 1762238000,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 78740,
@@ -11003,6 +11139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61562,
+      "num": 80241,
+      "word": "台军报告承认军购被美坑",
+      "onboard_time": 1762236862,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61459,
       "num": 70127,
       "word": "镖人看点推介",
@@ -11379,6 +11523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50955,
+      "num": 212057,
+      "word": "红旗为孙颖莎许下生日祝福",
+      "onboard_time": 1762232661,
+      "rank": 13,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 50409,
       "num": 64443,
       "word": "ChatGP禁止提供专业医疗法律财务建议",
@@ -11585,14 +11737,6 @@
       "onboard_time": 1761952818,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 42629,
-      "num": 212057,
-      "word": "红旗为孙颖莎许下生日祝福",
-      "onboard_time": 1762232661,
-      "rank": 13,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 42616,
@@ -11897,6 +12041,14 @@
       "onboard_time": 1762209436,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35027,
+      "num": 86091,
+      "word": "郭焱为孙颖莎送上生日祝福",
+      "onboard_time": 1762237160,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 34955,
@@ -12385,6 +12537,14 @@
       "onboard_time": 1761978260,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19354,
+      "num": 86115,
+      "word": "环球偶遇宋威龙",
+      "onboard_time": 1762238060,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 18985,
