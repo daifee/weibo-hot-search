@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762264279673,
+  "endTime": 1762266498308,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -137,6 +137,14 @@
       "onboard_time": 1762090643,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1463299,
+      "num": 209731,
+      "word": "妈妈检查女儿书包发现诡异恐怖画",
+      "onboard_time": 1762263621,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1374766,
@@ -289,6 +297,14 @@
       "onboard_time": 1761969740,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031397,
+      "num": 206041,
+      "word": "网传快乐家族回归好六",
+      "onboard_time": 1762262303,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1021876,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 711829,
-      "num": 171179,
+      "num": 195277,
       "word": "印度一女警怀胎七月参加举重比赛",
       "onboard_time": 1762257920,
       "rank": 14,
@@ -569,14 +585,6 @@
       "onboard_time": 1762083681,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 707431,
-      "num": 171738,
-      "word": "网传快乐家族回归好六",
-      "onboard_time": 1762262303,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 706292,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 672799,
-      "num": 169306,
+      "num": 181720,
       "word": "樊振东怎么瘦这么多",
       "onboard_time": 1762258281,
       "rank": 20,
@@ -1396,7 +1404,7 @@
     },
     {
       "raw_hot": 462313,
-      "num": 170460,
+      "num": 198296,
       "word": "法国废弃公园虎鲸母子或面临安乐死",
       "onboard_time": 1762258462,
       "rank": 22,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1762046360,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 410134,
+      "num": 410134,
+      "word": "第十八届文华奖获奖名单",
+      "onboard_time": 1762265062,
+      "rank": 3,
+      "category": "读书作家,剧集"
     },
     {
       "raw_hot": 406873,
@@ -1848,6 +1864,14 @@
       "word": "江苏省委书记为泰州队颁奖",
       "onboard_time": 1762008742,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 359675,
+      "num": 203145,
+      "word": "邓亚萍建议陈梦珍惜当下",
+      "onboard_time": 1762262542,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2963,14 +2987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230296,
-      "num": 170102,
-      "word": "妈妈检查女儿书包发现诡异恐怖画",
-      "onboard_time": 1762263621,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230111,
       "num": 214163,
       "word": "张柏芝 完全没有法令纹的痕迹",
@@ -3139,6 +3155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 218568,
+      "num": 189870,
+      "word": "林青霞71岁庆生照",
+      "onboard_time": 1762263022,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218090,
       "num": 218090,
       "word": "第十一届文荣奖获奖名单",
@@ -3177,6 +3201,14 @@
       "onboard_time": 1761959900,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216955,
+      "num": 216955,
+      "word": "郑丽文再表态",
+      "onboard_time": 1762262062,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215670,
@@ -3452,7 +3484,7 @@
     },
     {
       "raw_hot": 204266,
-      "num": 204266,
+      "num": 214552,
       "word": "久哲离开TTG",
       "onboard_time": 1762258222,
       "rank": 5,
@@ -3827,12 +3859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189520,
-      "num": 169532,
-      "word": "邓亚萍建议陈梦珍惜当下",
-      "onboard_time": 1762262542,
+      "raw_hot": 189632,
+      "num": 189632,
+      "word": "迪丽热巴18秒超强压迫感",
+      "onboard_time": 1762265782,
       "rank": 18,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 188924,
@@ -3905,14 +3937,6 @@
       "onboard_time": 1761974240,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186812,
-      "num": 186812,
-      "word": "郑丽文再表态",
-      "onboard_time": 1762262062,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 186796,
@@ -5035,6 +5059,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 155092,
+      "num": 155092,
+      "word": "王安宇这个老钱风好浓",
+      "onboard_time": 1762264523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154924,
       "num": 154924,
       "word": "美军机连续坠入南海最新调查曝光",
@@ -5209,14 +5241,6 @@
       "onboard_time": 1762245380,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150716,
-      "num": 150716,
-      "word": "林青霞71岁庆生照",
-      "onboard_time": 1762263022,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 150649,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1762147701,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136745,
+      "num": 136745,
+      "word": "我模仿的肖战演技名场面",
+      "onboard_time": 1762265002,
+      "rank": 25,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 136724,
@@ -7235,6 +7267,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 118620,
+      "num": 118620,
+      "word": "我很少同情一个有钱人的",
+      "onboard_time": 1762265243,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "咖啡店员小票写满红字回怼顾客要求",
+      "onboard_time": 1762264822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118518,
       "num": 118518,
       "word": "AG与狼队会师鸟巢",
@@ -7417,6 +7465,14 @@
       "onboard_time": 1762171823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116671,
+      "num": 116671,
+      "word": "双高胎回屯里当大胖小子了",
+      "onboard_time": 1762264402,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 116614,
@@ -8019,6 +8075,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 109651,
+      "num": 109651,
+      "word": "樊振东穿上了新队服",
+      "onboard_time": 1762265963,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109576,
       "num": 109576,
       "word": "罗云熙一往首唱舞台",
@@ -8217,6 +8281,14 @@
       "onboard_time": 1762134620,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107824,
+      "num": 107823,
+      "word": "T1总决赛对成员来说是什么",
+      "onboard_time": 1762265362,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 107759,
@@ -8745,6 +8817,14 @@
       "onboard_time": 1761986660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102974,
+      "num": 100639,
+      "word": "孙颖莎生日也在转场",
+      "onboard_time": 1762265662,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102971,
@@ -10931,6 +11011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85369,
+      "num": 98714,
+      "word": "买3万斤滞销白菜农民连谢13年",
+      "onboard_time": 1762264942,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85133,
       "num": 121794,
       "word": "段永平捐赠市值1500万茅台股票",
@@ -11803,6 +11891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76890,
+      "num": 107831,
+      "word": "WTT香港总决赛最新参赛资格名单",
+      "onboard_time": 1762266382,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76694,
+      "num": 101176,
+      "word": "孙颖莎球迷现场大喊生日快乐",
+      "onboard_time": 1762264402,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76497,
       "num": 503970,
       "word": "当地回应私房菜馆被曝宰杀活猫",
@@ -12443,6 +12547,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 66100,
+      "num": 118680,
+      "word": "央视曝免费洗金饰骗局",
+      "onboard_time": 1762266201,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65976,
       "num": 94105,
       "word": "李隼采访太可爱了",
@@ -12945,6 +13057,14 @@
       "onboard_time": 1761925761,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55917,
+      "num": 193533,
+      "word": "上汽旗舰智己LS9颠覆30万大六座格局",
+      "onboard_time": 1762265122,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 55738,
@@ -14473,6 +14593,14 @@
       "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8625,
+      "num": 107824,
+      "word": "停产多年的锅厂因一条视频复工复产",
+      "onboard_time": 1762266022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8085,
