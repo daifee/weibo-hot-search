@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762242054789,
+  "endTime": 1762245372067,
   "band_list": [
     {
       "raw_hot": 1645066,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1618279,
+      "num": 197907,
+      "word": "白百何 王传君",
+      "onboard_time": 1762241541,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1198254,
       "num": 289020,
       "word": "讨好型人格走路",
@@ -19,12 +27,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1113240,
-      "num": 197907,
-      "word": "白百何 王传君",
-      "onboard_time": 1762241541,
-      "rank": 10,
-      "category": "电影"
+      "raw_hot": 1165459,
+      "num": 183777,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 999141,
@@ -163,6 +171,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 480816,
+      "num": 183433,
+      "word": "孙颖莎生日发博",
+      "onboard_time": 1762242321,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468469,
       "num": 264332,
       "word": "光与夜之恋 查理苏换配音",
@@ -209,6 +225,14 @@
       "onboard_time": 1762212138,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406873,
+      "num": 191386,
+      "word": "女孩发视频称父亲看其洗澡警方介入",
+      "onboard_time": 1762241541,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392994,
@@ -267,12 +291,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 355317,
-      "num": 191386,
-      "word": "女孩发视频称父亲看其洗澡警方介入",
-      "onboard_time": 1762241541,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 336482,
+      "num": 336482,
+      "word": "饿了么骑手新工服 赛车服",
+      "onboard_time": 1762240100,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 333432,
@@ -281,6 +305,14 @@
       "onboard_time": 1762221081,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 333411,
+      "num": 333411,
+      "word": "AL在等一个不会来的人",
+      "onboard_time": 1762243340,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 332808,
@@ -395,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239645,
+      "num": 185729,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237213,
       "num": 191053,
       "word": "何老师准备再干个三四十年",
@@ -467,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203585,
+      "num": 205348,
+      "word": "1个剧组13座奖杯",
+      "onboard_time": 1762239201,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201607,
       "num": 189903,
       "word": "许绍雄生忌女儿发文",
       "onboard_time": 1762219640,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197000,
+      "num": 197000,
+      "word": "樊振东出发全运会",
+      "onboard_time": 1762244120,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 195716,
@@ -515,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185729,
-      "num": 185729,
-      "word": "张婧仪 我头很大",
-      "onboard_time": 1762239079,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184490,
       "num": 184490,
       "word": "高度近视改善眼凸的方法",
@@ -547,6 +595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 180263,
+      "num": 180263,
+      "word": "缺乏维生素D 抑郁症状",
+      "onboard_time": 1762243402,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175936,
       "num": 112011,
       "word": "王一栩 回冷宫",
@@ -555,20 +611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173857,
+      "num": 173857,
+      "word": "丁禹兮泰国活动生图",
+      "onboard_time": 1762244241,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173578,
       "num": 145081,
       "word": "AL爱笑谈队员续约",
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173039,
-      "num": 212374,
-      "word": "饿了么骑手新工服 赛车服",
-      "onboard_time": 1762240100,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 172603,
@@ -625,6 +681,14 @@
       "onboard_time": 1762188498,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162503,
+      "num": 111746,
+      "word": "B站拉黑指定用户 屏蔽开屏广告",
+      "onboard_time": 1762244480,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 162271,
@@ -707,12 +771,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 149077,
-      "num": 149077,
-      "word": "满清野史",
-      "onboard_time": 1762240459,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 150377,
+      "num": 150377,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 145950,
@@ -771,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138980,
+      "num": 111114,
+      "word": "孙颖莎与球迷双向奔赴太暖了",
+      "onboard_time": 1762244301,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138253,
       "num": 150888,
       "word": "谁懂央视力挺二次元的含金量",
@@ -817,6 +889,14 @@
       "onboard_time": 1762231283,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134007,
+      "num": 134007,
+      "word": "金饰克价一夜猛跌69元",
+      "onboard_time": 1762244781,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 133268,
@@ -939,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122069,
+      "num": 104288,
+      "word": "孙颖莎说球迷是自己最珍贵的力量",
+      "onboard_time": 1762244660,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121693,
       "num": 109212,
       "word": "武林外传世纪合体",
@@ -953,14 +1041,6 @@
       "onboard_time": 1762240160,
       "rank": 30,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 117798,
-      "num": 107697,
-      "word": "剪毁刘海意外成了人生发型",
-      "onboard_time": 1762240400,
-      "rank": 40,
-      "category": "美妆"
     },
     {
       "raw_hot": 117728,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117118,
+      "num": 117118,
+      "word": "卜凡直播被贴脸开大",
+      "onboard_time": 1762240280,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116647,
       "num": 108204,
       "word": "JDG经理疑曝Kanavi态度有问题",
@@ -1033,14 +1121,6 @@
       "onboard_time": 1762226961,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115516,
-      "num": 205348,
-      "word": "1个剧组13座奖杯",
-      "onboard_time": 1762239201,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 115472,
@@ -1075,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113054,
+      "num": 184904,
+      "word": "孙颖莎生日蛋糕是超级玛丽",
+      "onboard_time": 1762242321,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112999,
       "num": 112999,
       "word": "激情全运会活力大湾区",
@@ -1091,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112846,
-      "num": 112846,
-      "word": "卜凡直播被贴脸开大",
-      "onboard_time": 1762240280,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112815,
       "num": 112815,
       "word": "疯狂好六夜艺人集体出走",
@@ -1107,12 +1187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112491,
+      "num": 112491,
+      "word": "窦骁戴婚戒参加活动",
+      "onboard_time": 1762241661,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112232,
       "num": 112232,
       "word": "孙颖莎本赛季胜率百分之94",
       "onboard_time": 1762241299,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111085,
+      "num": 111085,
+      "word": "刘亦菲VOGUE造型试了20多套礼服",
+      "onboard_time": 1762241961,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 110967,
@@ -1203,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107116,
-      "num": 107116,
-      "word": "窦骁戴婚戒参加活动",
-      "onboard_time": 1762241661,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105636,
       "num": 105636,
       "word": "朱开说Kanavi只能在LPL打",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1762215922,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102970,
+      "num": 181792,
+      "word": "黑松露为什么比黄金还贵",
+      "onboard_time": 1762243040,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 102881,
@@ -1347,8 +1443,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100265,
+      "num": 100265,
+      "word": "深圳一男子喝6瓶饮料后中毒",
+      "onboard_time": 1762244480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98290,
-      "num": 98290,
+      "num": 182023,
       "word": "竞燃之夜阵容官宣第二波",
       "onboard_time": 1762240879,
       "rank": 36,
@@ -1459,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "男子修水管时血管爆管心脏几乎空转",
+      "onboard_time": 1762241840,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91983,
       "num": 91983,
       "word": "刘宇宁感谢粉丝二创",
@@ -1484,7 +1596,7 @@
     },
     {
       "raw_hot": 90912,
-      "num": 98277,
+      "num": 111864,
       "word": "孙颖莎全运会出发",
       "onboard_time": 1762241721,
       "rank": 37,
@@ -1496,14 +1608,6 @@
       "word": "网购售后理赔成刷单陷阱",
       "onboard_time": 1762238179,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89665,
-      "num": 89665,
-      "word": "男子修水管时血管爆管心脏几乎空转",
-      "onboard_time": 1762241840,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1523,12 +1627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88074,
+      "num": 88074,
+      "word": "TES真的太需要一个国际赛冠军了",
+      "onboard_time": 1762244419,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87686,
       "num": 87686,
       "word": "星巴克中国易主",
       "onboard_time": 1762218380,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87532,
+      "num": 87532,
+      "word": "让脸变干净可以这样吃",
+      "onboard_time": 1762242081,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 87267,
@@ -1547,20 +1667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86824,
+      "num": 104290,
+      "word": "短剧里居然有穿越不开挂的男主",
+      "onboard_time": 1762245201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86006,
       "num": 86006,
       "word": "孙颖莎依旧糯米团子",
       "onboard_time": 1762228521,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85965,
-      "num": 85965,
-      "word": "刘亦菲VOGUE造型试了20多套礼服",
-      "onboard_time": 1762241961,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 85927,
@@ -1603,6 +1723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83134,
+      "num": 83134,
+      "word": "65岁女子帮带娃1个月遭邻居杀害",
+      "onboard_time": 1762243761,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83101,
       "num": 98050,
       "word": "曾辉韩雨彤公主抱",
@@ -1617,6 +1745,14 @@
       "onboard_time": 1762239500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81931,
+      "num": 81931,
+      "word": "马斯克预测未来将人人高收入",
+      "onboard_time": 1762245022,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 81827,
@@ -1916,7 +2052,7 @@
     },
     {
       "raw_hot": 54507,
-      "num": 150400,
+      "num": 174250,
       "word": "自驾西藏的easy模式",
       "onboard_time": 1762241600,
       "rank": 18,
@@ -2187,7 +2323,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21261,
+      "raw_hot": 21395,
       "num": 403656,
       "word": "进博会时光",
       "onboard_time": 1762226900,
@@ -2233,6 +2369,9 @@
     },
     {
       "word": "#三组关键词看习近平韩国之行#"
+    },
+    {
+      "word": "#习近平会见俄罗斯总理#"
     }
   ]
 }
