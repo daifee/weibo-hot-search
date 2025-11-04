@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762238386874,
+  "endTime": 1762239168698,
   "band_list": [
     {
       "raw_hot": 1645066,
@@ -35,20 +35,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 915745,
+      "num": 1146519,
+      "word": "饿了么骑手已更换橙黑新工服",
+      "onboard_time": 1762233860,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 902678,
       "num": 291067,
       "word": "鲍蕾因贝儿课业奔溃拍桌子",
       "onboard_time": 1762228640,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 861960,
-      "num": 1137913,
-      "word": "饿了么骑手已更换橙黑新工服",
-      "onboard_time": 1762233860,
-      "rank": 44,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 797030,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306481,
+      "num": 306481,
+      "word": "山姆改回实拍图",
+      "onboard_time": 1762235960,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300684,
       "num": 204057,
       "word": "姜妍做饭是有什么KPI吗",
@@ -281,6 +289,14 @@
       "onboard_time": 1762230081,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287707,
+      "num": 287707,
+      "word": "枭起青壤",
+      "onboard_time": 1762233380,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 282658,
@@ -299,20 +315,20 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 270276,
+      "num": 183456,
+      "word": "曝香港导演刘家良墓被盗",
+      "onboard_time": 1762234940,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266566,
       "num": 192562,
       "word": "原来月经期是女生最好的恢复期",
       "onboard_time": 1762219640,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263113,
-      "num": 263113,
-      "word": "枭起青壤",
-      "onboard_time": 1762233380,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 260407,
@@ -329,14 +345,6 @@
       "onboard_time": 1762171641,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255544,
-      "num": 183456,
-      "word": "曝香港导演刘家良墓被盗",
-      "onboard_time": 1762234940,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 255091,
@@ -427,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196926,
-      "num": 196926,
-      "word": "山姆改回实拍图",
-      "onboard_time": 1762235960,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 198735,
+      "num": 173848,
+      "word": "没有班味的工位长这样",
+      "onboard_time": 1762235181,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 195716,
@@ -491,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180666,
+      "num": 192113,
+      "word": "中学再通报学生买淀粉肠被拿钥匙",
+      "onboard_time": 1762233920,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 175936,
       "num": 112011,
       "word": "王一栩 回冷宫",
       "onboard_time": 1762177403,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173848,
-      "num": 173848,
-      "word": "没有班味的工位长这样",
-      "onboard_time": 1762235181,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 173578,
@@ -521,14 +529,6 @@
       "onboard_time": 1762227920,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 170620,
-      "num": 192113,
-      "word": "中学再通报学生买淀粉肠被拿钥匙",
-      "onboard_time": 1762233920,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 169536,
@@ -907,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116614,
+      "num": 100720,
+      "word": "G2的S15训练赛战绩",
+      "onboard_time": 1762238720,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116081,
       "num": 116081,
       "word": "海底捞美甲冠军获15万奖金",
@@ -937,6 +945,14 @@
       "onboard_time": 1762230381,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113997,
+      "num": 113997,
+      "word": "王曼昱出发全运会",
+      "onboard_time": 1762238600,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 113063,
@@ -1115,6 +1131,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102108,
+      "num": 109992,
+      "word": "白百何 春树",
+      "onboard_time": 1762238480,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101968,
+      "num": 101968,
+      "word": "拔车钥匙人员为当值副校长",
+      "onboard_time": 1762238119,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 101944,
       "num": 101944,
       "word": "房主任搂着杨幂给女儿录视频",
@@ -1203,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96776,
+      "num": 96776,
+      "word": "杨瀚森再次被DNP",
+      "onboard_time": 1762237882,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95804,
       "num": 93887,
       "word": "杨瀚森没上场",
@@ -1227,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95446,
+      "num": 99556,
+      "word": "胡先煦 大孝子我有一争之力",
+      "onboard_time": 1762237821,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94765,
       "num": 94378,
       "word": "吴泽林cha了go",
@@ -1241,6 +1289,22 @@
       "onboard_time": 1762233801,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94191,
+      "num": 94191,
+      "word": "369谈Faker",
+      "onboard_time": 1762238540,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 91983,
+      "num": 91983,
+      "word": "刘宇宁感谢粉丝二创",
+      "onboard_time": 1762238000,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 91631,
@@ -1307,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86490,
-      "num": 86490,
-      "word": "胡先煦 大孝子我有一争之力",
-      "onboard_time": 1762237821,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86006,
       "num": 86006,
       "word": "孙颖莎依旧糯米团子",
@@ -1355,14 +1411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83697,
-      "num": 83697,
-      "word": "拔车钥匙人员为当值副校长",
-      "onboard_time": 1762238119,
-      "rank": 43,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 83101,
       "num": 98050,
       "word": "曾辉韩雨彤公主抱",
@@ -1371,20 +1419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82821,
-      "num": 80043,
-      "word": "杨瀚森再次被DNP",
-      "onboard_time": 1762237882,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 81827,
       "num": 97987,
       "word": "王鹤棣白鹿台下模仿乖乖女名场面",
       "onboard_time": 1762172003,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81667,
+      "num": 81667,
+      "word": "威少拿底薪干顶薪的活",
+      "onboard_time": 1762238839,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 80830,
@@ -1411,12 +1459,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78880,
-      "num": 78880,
-      "word": "刘宇宁感谢粉丝二创",
-      "onboard_time": 1762238000,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 79797,
+      "num": 79797,
+      "word": "这支湖人让人好陌生",
+      "onboard_time": 1762238661,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79563,
+      "num": 79563,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78137,
+      "num": 78137,
+      "word": "深大陪孙颖莎奔赴下一站",
+      "onboard_time": 1762239079,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77624,
@@ -1448,6 +1512,14 @@
       "word": "女子做美甲5年服务4万顾客获15万奖金",
       "onboard_time": 1762206073,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75772,
+      "num": 75772,
+      "word": "异宠绝对不能放生",
+      "onboard_time": 1762239079,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1899,20 +1971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21123,
+      "raw_hot": 25728,
+      "num": 88526,
+      "word": "环球偶遇宋威龙",
+      "onboard_time": 1762238060,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21261,
       "num": 397792,
       "word": "进博会时光",
       "onboard_time": 1762226900,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19354,
-      "num": 86115,
-      "word": "环球偶遇宋威龙",
-      "onboard_time": 1762238060,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 14321,
