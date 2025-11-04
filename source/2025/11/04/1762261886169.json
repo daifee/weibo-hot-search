@@ -1,0 +1,410 @@
+{
+  "runTime": 1762261886169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228694,
+        "num": 1228694,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626297,
+        "num": 626297,
+        "word": "星巴克中国卖掉了",
+        "onboard_time": 1762251381,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 3710,
+        "num": 516013,
+        "word": "进博会时光",
+        "onboard_time": 1762226900,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485710,
+        "num": 485710,
+        "word": "嘎子哥及妻子被限消",
+        "onboard_time": 1762255462,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 294644,
+        "num": 294644,
+        "word": "献血400ml没事失血400ml很危险",
+        "onboard_time": 1762246881,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264829,
+        "num": 264829,
+        "word": "赵丽颖连包10场支持辛芷蕾新片",
+        "onboard_time": 1762259481,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250182,
+        "num": 250182,
+        "word": "秦岚新剧造型",
+        "onboard_time": 1762255102,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204266,
+        "num": 204266,
+        "word": "久哲离开TTG",
+        "onboard_time": 1762258222,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168538,
+        "num": 168538,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 8,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 117679,
+        "num": 168095,
+        "word": "南京大学食堂999元帝王蟹已撤下",
+        "onboard_time": 1762259182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027355,
+        "num": 167789,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549182,
+        "num": 167193,
+        "word": "印度一女警怀胎七月参加举重比赛",
+        "onboard_time": 1762257920,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404088,
+        "num": 166620,
+        "word": "男子辞职到女儿学校旁卖炒饭",
+        "onboard_time": 1762256962,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331685,
+        "num": 166093,
+        "word": "模特码 正常码",
+        "onboard_time": 1762253540,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 304095,
+        "num": 165503,
+        "word": "何健麒 我算什么东西",
+        "onboard_time": 1762254081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283393,
+        "num": 164846,
+        "word": "JackeyLove致歉",
+        "onboard_time": 1762259600,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249898,
+        "num": 164728,
+        "word": "小S二女儿谈具俊晔暴瘦",
+        "onboard_time": 1762246283,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202975,
+        "num": 164056,
+        "word": "清瞳人设",
+        "onboard_time": 1762258759,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102159,
+        "num": 163482,
+        "word": "人民咖啡馆店标引争议",
+        "onboard_time": 1762260022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41873,
+        "num": 163126,
+        "word": "京东直播比价贵3分也奖1万",
+        "onboard_time": 1762257982,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 603690,
+        "num": 162634,
+        "word": "樊振东怎么瘦这么多",
+        "onboard_time": 1762258281,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207145,
+        "num": 161678,
+        "word": "法国废弃公园虎鲸母子或面临安乐死",
+        "onboard_time": 1762258462,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200622,
+        "num": 161276,
+        "word": "王晓白为孙颖莎庆生",
+        "onboard_time": 1762260623,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184336,
+        "num": 160887,
+        "word": "推妻入海骗保男子已被执行死刑",
+        "onboard_time": 1762253781,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160534,
+        "num": 160534,
+        "word": "穆祉丞发花絮图",
+        "onboard_time": 1762260442,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 159355,
+        "word": "他永远困在了女儿被害的雨夜",
+        "onboard_time": 1762259424,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "如何看女孩吃避孕药调经期",
+        "onboard_time": 1762257501,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138775,
+        "num": 138775,
+        "word": "王橹杰 今年是更成熟的小鬼",
+        "onboard_time": 1762259481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138621,
+        "num": 138621,
+        "word": "满蒙八旗不及华妃凤仪万千",
+        "onboard_time": 1762252702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103314,
+        "num": 132734,
+        "word": "教练说全红婵疼得无法正常行动",
+        "onboard_time": 1762254500,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129245,
+        "num": 129245,
+        "word": "佛罗伦萨偶遇王安宇金晨",
+        "onboard_time": 1762256541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128995,
+        "num": 128995,
+        "word": "天地剑心打戏是前菜哭戏是大餐",
+        "onboard_time": 1762260981,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 125151,
+        "word": "杨紫还在用何惟芳手机壳",
+        "onboard_time": 1762256481,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122324,
+        "num": 122324,
+        "word": "王鹤棣这衣服正经吗",
+        "onboard_time": 1762259120,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121181,
+        "num": 121181,
+        "word": "水龙吟一部剧情拉满的饱和剧",
+        "onboard_time": 1762261401,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 112683,
+        "word": "石凯到底在搞什么惊喜",
+        "onboard_time": 1762261221,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101952,
+        "num": 111771,
+        "word": "中国有自己的taco",
+        "onboard_time": 1762261762,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 111015,
+        "word": "樊振东孙颖莎王楚钦全运会海报来了",
+        "onboard_time": 1762259301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31719,
+        "num": 110974,
+        "word": "张子枫王安宇或将合作无孔不入",
+        "onboard_time": 1762261521,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110946,
+        "num": 110946,
+        "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+        "onboard_time": 1762260022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106931,
+        "num": 106931,
+        "word": "TES绝对核心回应输给T1",
+        "onboard_time": 1762258881,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107089,
+        "num": 106706,
+        "word": "孙颖莎生日发博",
+        "onboard_time": 1762242321,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99964,
+        "num": 99964,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99335,
+        "num": 99335,
+        "word": "美国前副总统切尼去世",
+        "onboard_time": 1762261821,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39215,
+        "num": 98387,
+        "word": "女子和3岁女儿黄河边失联近24小时",
+        "onboard_time": 1762260322,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20515,
+        "num": 98027,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87258,
+        "num": 97760,
+        "word": "陈梦请教邓亚萍如何学好英语",
+        "onboard_time": 1762254741,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97690,
+        "num": 97690,
+        "word": "鲁豫爱情观正的发邪",
+        "onboard_time": 1762261102,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95033,
+        "num": 97618,
+        "word": "惠英红蒋欣胡杏儿好权威的三张脸",
+        "onboard_time": 1762255700,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96110,
+        "num": 97562,
+        "word": "清瞳炼化苦情树",
+        "onboard_time": 1762260142,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}

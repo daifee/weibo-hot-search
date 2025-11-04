@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762261032201,
+  "endTime": 1762261886169,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -755,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549182,
+      "num": 167193,
+      "word": "印度一女警怀胎七月参加举重比赛",
+      "onboard_time": 1762257920,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 546802,
       "num": 1085240,
       "word": "帝王蟹不应进入学校食堂",
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 526215,
-      "num": 165415,
+      "num": 166620,
       "word": "男子辞职到女儿学校旁卖炒饭",
       "onboard_time": 1762256962,
       "rank": 11,
@@ -945,6 +953,14 @@
       "onboard_time": 1762063280,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485710,
+      "num": 485710,
+      "word": "嘎子哥及妻子被限消",
+      "onboard_time": 1762255462,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 484922,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1762170502,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401811,
-      "num": 401811,
-      "word": "嘎子哥及妻子被限消",
-      "onboard_time": 1762255462,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 399930,
@@ -1404,7 +1412,7 @@
     },
     {
       "raw_hot": 354803,
-      "num": 165267,
+      "num": 166093,
       "word": "模特码 正常码",
       "onboard_time": 1762253540,
       "rank": 30,
@@ -1739,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294644,
+      "num": 294644,
+      "word": "献血400ml没事失血400ml很危险",
+      "onboard_time": 1762246881,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294574,
       "num": 294574,
       "word": "白百何 春树",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1762164621,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292497,
-      "num": 165756,
-      "word": "献血400ml没事失血400ml很危险",
-      "onboard_time": 1762246881,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 288488,
@@ -1819,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283393,
+      "num": 164846,
+      "word": "JackeyLove致歉",
+      "onboard_time": 1762259600,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 282765,
       "num": 282765,
       "word": "泰州 一黑到底",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1762140920,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279325,
-      "num": 164889,
-      "word": "印度一女警怀胎七月参加举重比赛",
-      "onboard_time": 1762257920,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 278895,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1762139419,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270509,
-      "num": 164682,
-      "word": "JackeyLove致歉",
-      "onboard_time": 1762259600,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 270276,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1762128200,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264829,
+      "num": 264829,
+      "word": "赵丽颖连包10场支持辛芷蕾新片",
+      "onboard_time": 1762259481,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 264815,
@@ -2299,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224519,
-      "num": 183914,
-      "word": "赵丽颖连包10场支持辛芷蕾新片",
-      "onboard_time": 1762259481,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -2483,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207145,
+      "num": 163676,
+      "word": "法国废弃公园虎鲸母子或面临安乐死",
+      "onboard_time": 1762258462,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -2547,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204266,
+      "num": 204266,
+      "word": "久哲离开TTG",
+      "onboard_time": 1762258222,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204114,
       "num": 204114,
       "word": "双十一为什么挤不动牙膏了",
@@ -2568,6 +2584,14 @@
       "word": "刘学义说唐嫣演戏敬业专业",
       "onboard_time": 1762041378,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202975,
+      "num": 164056,
+      "word": "清瞳人设",
+      "onboard_time": 1762258759,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -2609,6 +2633,14 @@
       "onboard_time": 1762145062,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200622,
+      "num": 163749,
+      "word": "王晓白为孙颖莎庆生",
+      "onboard_time": 1762260623,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 200486,
@@ -2819,14 +2851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187023,
-      "num": 163749,
-      "word": "王晓白为孙颖莎庆生",
-      "onboard_time": 1762260623,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186987,
       "num": 174008,
       "word": "樊振东微博粉丝破千万",
@@ -2849,22 +2873,6 @@
       "onboard_time": 1762088122,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186243,
-      "num": 163676,
-      "word": "法国废弃公园虎鲸母子或面临安乐死",
-      "onboard_time": 1762258462,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 185869,
-      "num": 185869,
-      "word": "久哲离开TTG",
-      "onboard_time": 1762258222,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 185746,
@@ -4003,14 +4011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142512,
-      "num": 142512,
-      "word": "清瞳人设",
-      "onboard_time": 1762258759,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142412,
       "num": 142412,
       "word": "于正找到了让赵晴最好看的办法",
@@ -4635,6 +4635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128995,
+      "num": 128995,
+      "word": "天地剑心打戏是前菜哭戏是大餐",
+      "onboard_time": 1762260981,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128733,
       "num": 128733,
       "word": "短剧里居然有穿越不开挂的男主",
@@ -4907,6 +4915,14 @@
       "category": "科学科普,时尚"
     },
     {
+      "raw_hot": 122324,
+      "num": 122324,
+      "word": "王鹤棣这衣服正经吗",
+      "onboard_time": 1762259120,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122291,
       "num": 122291,
       "word": "李沁在张晚意这也成了妹妹",
@@ -4985,6 +5001,14 @@
       "onboard_time": 1762259301,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121181,
+      "num": 121181,
+      "word": "水龙吟一部剧情拉满的饱和剧",
+      "onboard_time": 1762261401,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 120990,
@@ -5120,6 +5144,14 @@
       "word": "深圳一男子喝6瓶饮料后中毒",
       "onboard_time": 1762244480,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117679,
+      "num": 168095,
+      "word": "南京大学食堂999元帝王蟹已撤下",
+      "onboard_time": 1762259182,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -5475,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112683,
+      "num": 112683,
+      "word": "石凯到底在搞什么惊喜",
+      "onboard_time": 1762261221,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112675,
       "num": 123325,
       "word": "荷兰安世半导体无中生有恶意抹黑",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1762225819,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110946,
+      "num": 110946,
+      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+      "onboard_time": 1762260022,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110807,
@@ -6203,6 +6251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103314,
+      "num": 140378,
+      "word": "教练说全红婵疼得无法正常行动",
+      "onboard_time": 1762254500,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103239,
       "num": 103239,
       "word": "多家存储封测厂商开始计划涨价",
@@ -6371,6 +6427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102159,
+      "num": 164100,
+      "word": "人民咖啡馆店标引争议",
+      "onboard_time": 1762260022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102063,
       "num": 94868,
       "word": "汪苏泷停顿那一刻哽咽了",
@@ -6379,20 +6443,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102029,
-      "num": 140495,
-      "word": "南京大学食堂999元帝王蟹已撤下",
-      "onboard_time": 1762259182,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101968,
       "num": 101968,
       "word": "拔车钥匙人员为当值副校长",
       "onboard_time": 1762238119,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101952,
+      "num": 111771,
+      "word": "中国有自己的taco",
+      "onboard_time": 1762261762,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101906,
@@ -6619,12 +6683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99456,
-      "num": 140378,
-      "word": "教练说全红婵疼得无法正常行动",
-      "onboard_time": 1762254500,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 99335,
+      "num": 99335,
+      "word": "美国前副总统切尼去世",
+      "onboard_time": 1762261821,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99221,
@@ -6779,14 +6843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97817,
-      "num": 97817,
-      "word": "天地剑心打戏是前菜哭戏是大餐",
-      "onboard_time": 1762260981,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97809,
       "num": 97809,
       "word": "第十五届全运会",
@@ -6809,6 +6865,14 @@
       "onboard_time": 1762090224,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97690,
+      "num": 97690,
+      "word": "鲁豫爱情观正的发邪",
+      "onboard_time": 1762261102,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 97563,
@@ -7059,27 +7123,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94637,
-      "num": 97513,
-      "word": "王鹤棣这衣服正经吗",
-      "onboard_time": 1762259120,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94286,
       "num": 94286,
       "word": "我国1707万人养异宠",
       "onboard_time": 1762233801,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94262,
-      "num": 107759,
-      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
-      "onboard_time": 1762260022,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8803,14 +8851,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 74044,
-      "num": 164100,
-      "word": "人民咖啡馆店标引争议",
-      "onboard_time": 1762260022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73953,
       "num": 90673,
       "word": "时代峰峻热度标识",
@@ -9827,6 +9867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39215,
+      "num": 107766,
+      "word": "女子和3岁女儿黄河边失联近24小时",
+      "onboard_time": 1762260322,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39195,
       "num": 110352,
       "word": "庆生也要拼出仪式感",
@@ -10003,14 +10051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33860,
-      "num": 107766,
-      "word": "女子和3岁女儿黄河边失联近24小时",
-      "onboard_time": 1762260322,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33832,
       "num": 50982,
       "word": "美股三大指数集体拉升",
@@ -10057,6 +10097,14 @@
       "onboard_time": 1762168822,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31719,
+      "num": 110974,
+      "word": "张子枫王安宇或将合作无孔不入",
+      "onboard_time": 1762261521,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 31280,
@@ -10340,7 +10388,7 @@
     },
     {
       "raw_hot": 21395,
-      "num": 403656,
+      "num": 516013,
       "word": "进博会时光",
       "onboard_time": 1762226900,
       "rank": 8,
