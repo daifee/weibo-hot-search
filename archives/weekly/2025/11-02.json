@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762266498308,
+  "endTime": 1762267551691,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -99,7 +99,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1463299,
+      "raw_hot": 1525965,
       "num": 209731,
       "word": "妈妈检查女儿书包发现诡异恐怖画",
       "onboard_time": 1762263621,
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440968,
+      "num": 379567,
+      "word": "献血400ml没事失血400ml很危险",
+      "onboard_time": 1762246881,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 439280,
       "num": 227951,
       "word": "男子因彩礼轻生父母索赔20万",
@@ -1139,20 +1147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427959,
+      "num": 264829,
+      "word": "赵丽颖连包10场支持辛芷蕾新片",
+      "onboard_time": 1762259481,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 426017,
       "num": 426017,
       "word": "用iPhone前vs用iPhone后",
       "onboard_time": 1762226301,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 425059,
-      "num": 264829,
-      "word": "赵丽颖连包10场支持辛芷蕾新片",
-      "onboard_time": 1762259481,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 423880,
@@ -1267,6 +1275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 392735,
+      "num": 392735,
+      "word": "邓亚萍建议陈梦珍惜当下",
+      "onboard_time": 1762262542,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392110,
       "num": 205813,
       "word": "广州地铁跳转广告",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1762165281,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 379567,
-      "num": 379567,
-      "word": "献血400ml没事失血400ml很危险",
-      "onboard_time": 1762246881,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 379267,
@@ -1448,14 +1456,6 @@
       "word": "江苏省委书记为泰州队颁奖",
       "onboard_time": 1762008742,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 359675,
-      "num": 203145,
-      "word": "邓亚萍建议陈梦珍惜当下",
-      "onboard_time": 1762262542,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -1769,6 +1769,14 @@
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303580,
+      "num": 189870,
+      "word": "林青霞71岁庆生照",
+      "onboard_time": 1762263022,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 302302,
@@ -2387,14 +2395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 218568,
-      "num": 189870,
-      "word": "林青霞71岁庆生照",
-      "onboard_time": 1762263022,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218079,
       "num": 200797,
       "word": "山神异闻录开播",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214754,
+      "num": 189632,
+      "word": "迪丽热巴18秒超强压迫感",
+      "onboard_time": 1762265782,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 213786,
@@ -2875,20 +2883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191018,
+      "num": 177845,
+      "word": "黄胜利致歉",
+      "onboard_time": 1762266923,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190339,
       "num": 157280,
       "word": "会穿衣服是一种超绝的能力",
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189632,
-      "num": 189632,
-      "word": "迪丽热巴18秒超强压迫感",
-      "onboard_time": 1762265782,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 188924,
@@ -3627,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157765,
+      "num": 157765,
+      "word": "王安宇这个老钱风好浓",
+      "onboard_time": 1762264523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157640,
       "num": 157640,
       "word": "等我小了也要檀健次带我",
@@ -3731,14 +3747,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 155092,
-      "num": 155092,
-      "word": "王安宇这个老钱风好浓",
-      "onboard_time": 1762264523,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154876,
       "num": 304096,
       "word": "工行建行暂停提取实体金条",
@@ -3825,6 +3833,14 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152291,
+      "num": 152291,
+      "word": "布瑞吉所有不动产都写的胡佳名字",
+      "onboard_time": 1762266382,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 152256,
@@ -4971,6 +4987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124276,
+      "num": 124276,
+      "word": "咖啡店员小票写满红字回怼顾客要求",
+      "onboard_time": 1762264822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
@@ -5225,14 +5249,6 @@
       "onboard_time": 1762265243,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "咖啡店员小票写满红字回怼顾客要求",
-      "onboard_time": 1762264822,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118518,
@@ -6891,6 +6907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "自用多年的雪媚娘方子",
+      "onboard_time": 1762267101,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99055,
       "num": 99055,
       "word": "第一次见买奶茶送秋裤的",
@@ -6921,6 +6945,14 @@
       "onboard_time": 1762145662,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98568,
+      "num": 98568,
+      "word": "王靖雯开口还是这么没轻没重",
+      "onboard_time": 1762266980,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 98504,
@@ -7209,6 +7241,14 @@
       "onboard_time": 1762185501,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95686,
+      "num": 107831,
+      "word": "WTT香港总决赛最新参赛资格名单",
+      "onboard_time": 1762266382,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 95604,
@@ -7851,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88558,
+      "num": 88558,
+      "word": "S7主题曲原唱到成都了",
+      "onboard_time": 1762267462,
+      "rank": 45,
+      "category": "音乐,电竞"
+    },
+    {
       "raw_hot": 88536,
       "num": 88536,
       "word": "艾热父亲离世前最后一顿饭是孜巴做的",
@@ -8033,6 +8081,14 @@
       "onboard_time": 1762068740,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86855,
+      "num": 86855,
+      "word": "35岁后的就业方向",
+      "onboard_time": 1762267162,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 86803,
@@ -8923,14 +8979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76890,
-      "num": 107831,
-      "word": "WTT香港总决赛最新参赛资格名单",
-      "onboard_time": 1762266382,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76842,
       "num": 156866,
       "word": "DRG对战狼队",
@@ -9113,6 +9161,14 @@
       "onboard_time": 1762061961,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72800,
+      "num": 86126,
+      "word": "王宗源断层第一",
+      "onboard_time": 1762267162,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72790,
@@ -10585,6 +10641,14 @@
       "onboard_time": 1762086021,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24443,
+      "num": 411450,
+      "word": "中国机遇是因为中国的确定性",
+      "onboard_time": 1762262182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24263,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762267551691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743358,
+        "num": 1118937,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625446,
+        "num": 625446,
+        "word": "星巴克中国卖掉了",
+        "onboard_time": 1762251381,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 24443,
+        "num": 411450,
+        "word": "中国机遇是因为中国的确定性",
+        "onboard_time": 1762262182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403313,
+        "num": 403313,
+        "word": "清瞳人设",
+        "onboard_time": 1762258759,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392735,
+        "num": 392735,
+        "word": "邓亚萍建议陈梦珍惜当下",
+        "onboard_time": 1762262542,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376062,
+        "num": 376062,
+        "word": "第十八届文华奖获奖名单",
+        "onboard_time": 1762265062,
+        "rank": 5,
+        "category": "读书作家,剧集"
+      },
+      {
+        "raw_hot": 222589,
+        "num": 222589,
+        "word": "JackeyLove致歉",
+        "onboard_time": 1762259600,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184314,
+        "num": 184314,
+        "word": "郑丽文再表态",
+        "onboard_time": 1762262062,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182070,
+        "num": 182070,
+        "word": "嘎子哥及妻子被限消",
+        "onboard_time": 1762255462,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117240,
+        "num": 181771,
+        "word": "久哲离开TTG",
+        "onboard_time": 1762258222,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1525965,
+        "num": 181276,
+        "word": "妈妈检查女儿书包发现诡异恐怖画",
+        "onboard_time": 1762263621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852461,
+        "num": 181104,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 852157,
+        "num": 180722,
+        "word": "网传快乐家族回归好六",
+        "onboard_time": 1762262303,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440968,
+        "num": 180306,
+        "word": "献血400ml没事失血400ml很危险",
+        "onboard_time": 1762246881,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303580,
+        "num": 179565,
+        "word": "林青霞71岁庆生照",
+        "onboard_time": 1762263022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235585,
+        "num": 179284,
+        "word": "法国废弃公园虎鲸母子或面临安乐死",
+        "onboard_time": 1762258462,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 178796,
+        "word": "上汽旗舰智己LS9颠覆30万大六座格局",
+        "onboard_time": 1762265122,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214754,
+        "num": 178463,
+        "word": "迪丽热巴18秒超强压迫感",
+        "onboard_time": 1762265782,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191018,
+        "num": 177845,
+        "word": "黄胜利致歉",
+        "onboard_time": 1762266923,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177842,
+        "num": 177842,
+        "word": "印度一女警怀胎七月参加举重比赛",
+        "onboard_time": 1762257920,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 427959,
+        "num": 175216,
+        "word": "赵丽颖连包10场支持辛芷蕾新片",
+        "onboard_time": 1762259481,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364025,
+        "num": 174066,
+        "word": "樊振东怎么瘦这么多",
+        "onboard_time": 1762258281,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166990,
+        "num": 166990,
+        "word": "小S二女儿谈具俊晔暴瘦",
+        "onboard_time": 1762246283,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157765,
+        "num": 157765,
+        "word": "王安宇这个老钱风好浓",
+        "onboard_time": 1762264523,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152291,
+        "num": 152291,
+        "word": "布瑞吉所有不动产都写的胡佳名字",
+        "onboard_time": 1762266382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141130,
+        "num": 141130,
+        "word": "秦岚新剧造型",
+        "onboard_time": 1762255102,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136721,
+        "num": 136721,
+        "word": "何健麒 我算什么东西",
+        "onboard_time": 1762254081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132897,
+        "num": 132897,
+        "word": "我模仿的肖战演技名场面",
+        "onboard_time": 1762265002,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 99687,
+        "num": 128406,
+        "word": "人民咖啡馆店标引争议",
+        "onboard_time": 1762260022,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 125365,
+        "word": "蒲熠星ELLE活动花絮",
+        "onboard_time": 1762262841,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124276,
+        "num": 124276,
+        "word": "咖啡店员小票写满红字回怼顾客要求",
+        "onboard_time": 1762264822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116994,
+        "num": 116994,
+        "word": "推妻入海骗保男子已被执行死刑",
+        "onboard_time": 1762253781,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105895,
+        "num": 105895,
+        "word": "王橹杰 今年是更成熟的小鬼",
+        "onboard_time": 1762259481,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87215,
+        "num": 99434,
+        "word": "他永远困在了女儿被害的雨夜",
+        "onboard_time": 1762259424,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 99365,
+        "word": "孙颖莎球迷现场大喊生日快乐",
+        "onboard_time": 1762264402,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99334,
+        "num": 99334,
+        "word": "我很少同情一个有钱人的",
+        "onboard_time": 1762265243,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99119,
+        "num": 99119,
+        "word": "自用多年的雪媚娘方子",
+        "onboard_time": 1762267101,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98568,
+        "num": 98568,
+        "word": "王靖雯开口还是这么没轻没重",
+        "onboard_time": 1762266980,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95686,
+        "num": 98398,
+        "word": "WTT香港总决赛最新参赛资格名单",
+        "onboard_time": 1762266382,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76218,
+        "num": 98321,
+        "word": "中国驻美大使谢锋发声",
+        "onboard_time": 1762262062,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98292,
+        "num": 98292,
+        "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+        "onboard_time": 1762260022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96974,
+        "num": 96974,
+        "word": "吴磊今年已与两家游戏解约",
+        "onboard_time": 1762262483,
+        "rank": 41,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 96351,
+        "num": 96351,
+        "word": "王鹤棣这衣服正经吗",
+        "onboard_time": 1762259120,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95530,
+        "num": 95530,
+        "word": "男子辞职到女儿学校旁卖炒饭",
+        "onboard_time": 1762256962,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90865,
+        "num": 90865,
+        "word": "等我中一个亿也做个这样的房子",
+        "onboard_time": 1762260381,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88558,
+        "num": 88558,
+        "word": "S7主题曲原唱到成都了",
+        "onboard_time": 1762267462,
+        "rank": 45,
+        "category": "音乐,电竞"
+      },
+      {
+        "raw_hot": 5350,
+        "num": 87092,
+        "word": "停产多年的锅厂因一条视频复工复产",
+        "onboard_time": 1762266022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84422,
+        "num": 86890,
+        "word": "王权富贵 信我",
+        "onboard_time": 1762263383,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86855,
+        "num": 86855,
+        "word": "35岁后的就业方向",
+        "onboard_time": 1762267162,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 72800,
+        "num": 86126,
+        "word": "王宗源断层第一",
+        "onboard_time": 1762267162,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒回顾习近平韩国之行#"
+    }
+  }
+}
