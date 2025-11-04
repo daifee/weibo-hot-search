@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762295117051,
+  "endTime": 1762296138049,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2891,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243044,
+      "num": 126488,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242906,
       "num": 204646,
       "word": "小婴儿的核磁共振全是脑子",
@@ -2944,14 +2952,6 @@
       "word": "全体搜救队员静候航天员凯旋",
       "onboard_time": 1762134740,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239747,
-      "num": 126488,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -4473,6 +4473,14 @@
       "onboard_time": 1762051640,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171169,
+      "num": 477404,
+      "word": "欧冠联赛",
+      "onboard_time": 1762295175,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 171130,
@@ -12660,7 +12668,7 @@
     },
     {
       "raw_hot": 67290,
-      "num": 30679,
+      "num": 35993,
       "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
       "onboard_time": 1762282334,
       "rank": 30,
@@ -12779,6 +12787,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 66205,
+      "num": 81987,
+      "word": "甲流H3N2症状比普通感冒更重",
+      "onboard_time": 1762268721,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66100,
       "num": 118680,
       "word": "央视曝免费洗金饰骗局",
@@ -12817,14 +12833,6 @@
       "onboard_time": 1761968660,
       "rank": 46,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 65524,
-      "num": 81987,
-      "word": "甲流H3N2症状比普通感冒更重",
-      "onboard_time": 1762268721,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 65401,
@@ -13475,6 +13483,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 50815,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50409,
       "num": 64443,
       "word": "ChatGP禁止提供专业医疗法律财务建议",
@@ -13537,14 +13553,6 @@
       "onboard_time": 1762246160,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48580,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 48411,
@@ -13785,6 +13793,14 @@
       "onboard_time": 1762071200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42046,
+      "num": 81876,
+      "word": "演员狗狗大黄上台领奖",
+      "onboard_time": 1762274177,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 42026,
@@ -14179,14 +14195,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 32129,
-      "num": 81876,
-      "word": "演员狗狗大黄上台领奖",
-      "onboard_time": 1762274177,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31824,
       "num": 163316,
       "word": "商家操纵甲醛检测数据制造焦虑",
@@ -14387,6 +14395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27658,
+      "num": 36010,
+      "word": "霉霉和GigiHadid外出就餐街拍",
+      "onboard_time": 1762281734,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27475,
       "num": 50959,
       "word": "凤凰台上",
@@ -14556,7 +14572,7 @@
     },
     {
       "raw_hot": 23884,
-      "num": 30717,
+      "num": 35935,
       "word": "王橹杰今年是更成熟的小鬼",
       "onboard_time": 1762278915,
       "rank": 24,
@@ -14691,14 +14707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19518,
-      "num": 30675,
-      "word": "霉霉和GigiHadid外出就餐街拍",
-      "onboard_time": 1762281734,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -14747,6 +14755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18086,
+      "num": 35943,
+      "word": "原来这就是100大卡的概念",
+      "onboard_time": 1762289114,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 18057,
       "num": 111604,
       "word": "双十一什么值得买",
@@ -14769,6 +14785,14 @@
       "onboard_time": 1762116793,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17647,
+      "num": 35940,
+      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
+      "onboard_time": 1762288216,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17212,
@@ -14809,14 +14833,6 @@
       "onboard_time": 1761980600,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15492,
-      "num": 28797,
-      "word": "多方回应大学生回乡参加婚礼坠坝身亡",
-      "onboard_time": 1762288216,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15327,
@@ -14905,14 +14921,6 @@
       "onboard_time": 1761919522,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12825,
-      "num": 28754,
-      "word": "原来这就是100大卡的概念",
-      "onboard_time": 1762289114,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 12812,

@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762295117051,
+  "endTime": 1762296138049,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -67,7 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239747,
+      "raw_hot": 243044,
       "num": 113233,
       "word": "网友买高铁靠窗座位却遇面壁座",
       "onboard_time": 1762270702,
@@ -120,6 +120,14 @@
       "word": "樊振东怎么瘦这么多",
       "onboard_time": 1762258281,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171169,
+      "num": 477404,
+      "word": "欧冠联赛",
+      "onboard_time": 1762295175,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -244,14 +252,14 @@
     },
     {
       "raw_hot": 67290,
-      "num": 30679,
+      "num": 35993,
       "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
       "onboard_time": 1762282334,
       "rank": 30,
       "category": "国内时政"
     },
     {
-      "raw_hot": 65524,
+      "raw_hot": 66205,
       "num": 81987,
       "word": "甲流H3N2症状比普通感冒更重",
       "onboard_time": 1762268721,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50815,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49212,
       "num": 81911,
       "word": "常华森 可爱这一块",
@@ -339,20 +355,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48580,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47553,
       "num": 81931,
       "word": "郑丽文再表态",
       "onboard_time": 1762262062,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46829,
+      "num": 81890,
+      "word": "吴磊今年已与两家游戏解约",
+      "onboard_time": 1762262483,
+      "rank": 46,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 46046,
@@ -395,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42046,
+      "num": 81876,
+      "word": "演员狗狗大黄上台领奖",
+      "onboard_time": 1762274177,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41795,
       "num": 82001,
       "word": "山姆会员吐槽花680不是来看AI图的",
       "onboard_time": 1762255581,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38199,
-      "num": 81890,
-      "word": "吴磊今年已与两家游戏解约",
-      "onboard_time": 1762262483,
-      "rank": 46,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 37100,
@@ -419,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32129,
-      "num": 81876,
-      "word": "演员狗狗大黄上台领奖",
-      "onboard_time": 1762274177,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 27658,
+      "num": 36010,
+      "word": "霉霉和GigiHadid外出就餐街拍",
+      "onboard_time": 1762281734,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26651,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 23884,
-      "num": 30717,
+      "num": 35935,
       "word": "王橹杰今年是更成熟的小鬼",
       "onboard_time": 1762278915,
       "rank": 24,
@@ -491,16 +507,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19518,
-      "num": 30675,
-      "word": "霉霉和GigiHadid外出就餐街拍",
-      "onboard_time": 1762281734,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 18086,
+      "num": 35943,
+      "word": "原来这就是100大卡的概念",
+      "onboard_time": 1762289114,
+      "rank": 45,
+      "category": "美食"
     },
     {
-      "raw_hot": 15492,
-      "num": 28797,
+      "raw_hot": 17647,
+      "num": 35940,
       "word": "多方回应大学生回乡参加婚礼坠坝身亡",
       "onboard_time": 1762288216,
       "rank": 48,
@@ -513,14 +529,6 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12825,
-      "num": 28754,
-      "word": "原来这就是100大卡的概念",
-      "onboard_time": 1762289114,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 12812,
