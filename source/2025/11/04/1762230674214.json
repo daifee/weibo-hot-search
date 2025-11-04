@@ -1,0 +1,410 @@
+{
+  "runTime": 1762230674214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776618,
+        "num": 1124259,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 422140,
+        "num": 422140,
+        "word": "四喜定档",
+        "onboard_time": 1762224140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26761,
+        "num": 383136,
+        "word": "优质主播中国行奋进荆楚上善十堰",
+        "onboard_time": 1762228760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364214,
+        "num": 364214,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352123,
+        "num": 352123,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332808,
+        "num": 332808,
+        "word": "腾讯视频11月电视剧片单",
+        "onboard_time": 1762228100,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312254,
+        "num": 312254,
+        "word": "杨幂童瑶蒋欣 三张权威的脸",
+        "onboard_time": 1762228640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186662,
+        "num": 186662,
+        "word": "央视揭网购故意发错货骗局",
+        "onboard_time": 1762214418,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172603,
+        "num": 172603,
+        "word": "神20神21交接空间站钥匙",
+        "onboard_time": 1762227920,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85175,
+        "num": 159107,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996059,
+        "num": 158918,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 881188,
+        "num": 158867,
+        "word": "鲍蕾因贝儿课业奔溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "缅北白家21人获刑",
+        "onboard_time": 1762230081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420226,
+        "num": 158123,
+        "word": "北京一副区长停电动车竟遭三连拒",
+        "onboard_time": 1762225880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409297,
+        "num": 157604,
+        "word": "白百何发生了什么",
+        "onboard_time": 1762219760,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325054,
+        "num": 157272,
+        "word": "男子晒媳妇买了15双一样的勃肯鞋",
+        "onboard_time": 1762215922,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 156664,
+        "word": "唐俪辞有5吨黄金",
+        "onboard_time": 1762229240,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205741,
+        "num": 156227,
+        "word": "迪丽热巴陈星旭枭起青壤快来了",
+        "onboard_time": 1762230021,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162258,
+        "num": 155168,
+        "word": "何炅 最近谣传我有衰老焦虑",
+        "onboard_time": 1762188078,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79028,
+        "num": 154639,
+        "word": "京东拍卖千万分之一的龙虾奇迹",
+        "onboard_time": 1762229001,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275930,
+        "num": 154223,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 212808,
+        "num": 154044,
+        "word": "用芥末泡虾虾线都快吐出来了",
+        "onboard_time": 1762221081,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249045,
+        "num": 153149,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184323,
+        "num": 152881,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168181,
+        "num": 152266,
+        "word": "小伙花170万买迈巴赫跑婚车",
+        "onboard_time": 1762217482,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151894,
+        "num": 151894,
+        "word": "山神异闻录开播",
+        "onboard_time": 1762225461,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136910,
+        "num": 136910,
+        "word": "品牌回应翁青雅直播翻车",
+        "onboard_time": 1762212138,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136682,
+        "num": 136682,
+        "word": "女子劝邻居不要乱扔垃圾被群殴",
+        "onboard_time": 1762229001,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122737,
+        "num": 122737,
+        "word": "光绪 DNA",
+        "onboard_time": 1762212859,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119263,
+        "num": 119263,
+        "word": "AL爱笑谈队员续约",
+        "onboard_time": 1762224920,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145950,
+        "num": 118575,
+        "word": "剑网3瑶台仙梦",
+        "onboard_time": 1762230021,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126422,
+        "num": 118541,
+        "word": "中国航天员烧烤外国网友看呆了",
+        "onboard_time": 1762230081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124498,
+        "num": 118474,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1762229841,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117654,
+        "num": 117654,
+        "word": "彭小苒章时安 女明星和保镖",
+        "onboard_time": 1762229120,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115648,
+        "num": 115648,
+        "word": "中国空间站可以吃烧烤了",
+        "onboard_time": 1762181123,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114168,
+        "num": 114168,
+        "word": "宋亚轩人前脆爷人后男模",
+        "onboard_time": 1762230381,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112203,
+        "num": 112203,
+        "word": "迪丽热巴卫蓝白裙路透",
+        "onboard_time": 1762226900,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51694,
+        "num": 110966,
+        "word": "万千惠对老公的爱 包文婧都甘拜下风",
+        "onboard_time": 1762229600,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73674,
+        "num": 110588,
+        "word": "侯明昊的手机屏保是奥特曼",
+        "onboard_time": 1762230021,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37491,
+        "num": 110352,
+        "word": "庆生也要拼出仪式感",
+        "onboard_time": 1762228879,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110218,
+        "num": 110218,
+        "word": "没想到短剧让我恶补了历史知识",
+        "onboard_time": 1762228160,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109546,
+        "num": 109546,
+        "word": "梨形身材坚持跳绳7个月的变化",
+        "onboard_time": 1762229600,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109181,
+        "num": 109181,
+        "word": "章若楠直播带粉丝看落日",
+        "onboard_time": 1762230321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106646,
+        "num": 106646,
+        "word": "李兰迪发言我都有点智性恋了",
+        "onboard_time": 1762217602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104355,
+        "num": 104355,
+        "word": "知道为什么有的人不爱存钱了",
+        "onboard_time": 1762230262,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103239,
+        "num": 103239,
+        "word": "多家存储封测厂商开始计划涨价",
+        "onboard_time": 1762229841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103062,
+        "num": 103062,
+        "word": "考公人vs考研人",
+        "onboard_time": 1762227681,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101521,
+        "num": 101521,
+        "word": "技能五子棋已经传到TVB视帝了",
+        "onboard_time": 1762228760,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100109,
+        "num": 100109,
+        "word": "白鹿说我不是第一次一年播三部剧",
+        "onboard_time": 1762189217,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98923,
+        "num": 98923,
+        "word": "欧豪把6个角色的名字挂在衣服上",
+        "onboard_time": 1762226301,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}

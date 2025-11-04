@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762228606041,
+  "endTime": 1762230674214,
   "band_list": [
     {
       "raw_hot": 1198254,
@@ -25,6 +25,14 @@
       "onboard_time": 1762223599,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 881188,
+      "num": 158867,
+      "word": "鲍蕾因贝儿课业奔溃拍桌子",
+      "onboard_time": 1762228640,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 797030,
@@ -155,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364214,
+      "num": 364214,
+      "word": "上海一夜店可现场登记结婚",
+      "onboard_time": 1762226360,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359014,
       "num": 115708,
       "word": "王传君 春树",
       "onboard_time": 1762185081,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352123,
+      "num": 352123,
+      "word": "用iPhone前vs用iPhone后",
+      "onboard_time": 1762226301,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 333432,
@@ -171,12 +195,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 332808,
+      "num": 332808,
+      "word": "腾讯视频11月电视剧片单",
+      "onboard_time": 1762228100,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312254,
+      "num": 312254,
+      "word": "杨幂童瑶蒋欣 三张权威的脸",
+      "onboard_time": 1762228640,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282658,
       "num": 193089,
       "word": "为什么方圆脸要多尝试半框眼镜",
       "onboard_time": 1762216223,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 275930,
+      "num": 168909,
+      "word": "建议不要用酒店的沐浴露",
+      "onboard_time": 1762226422,
+      "rank": 45,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 266566,
@@ -219,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219088,
-      "num": 168909,
-      "word": "建议不要用酒店的沐浴露",
-      "onboard_time": 1762226422,
-      "rank": 45,
-      "category": "情感,休闲"
+      "raw_hot": 228864,
+      "num": 156664,
+      "word": "唐俪辞有5吨黄金",
+      "onboard_time": 1762229240,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 218489,
@@ -259,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207239,
-      "num": 178560,
-      "word": "腾讯视频11月电视剧片单",
-      "onboard_time": 1762228100,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -275,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201811,
-      "num": 201811,
-      "word": "上海一夜店可现场登记结婚",
-      "onboard_time": 1762226360,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 205741,
+      "num": 156227,
+      "word": "迪丽热巴陈星旭枭起青壤快来了",
+      "onboard_time": 1762230021,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 201607,
@@ -323,14 +363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 182131,
-      "num": 182131,
-      "word": "用iPhone前vs用iPhone后",
-      "onboard_time": 1762226301,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175936,
       "num": 112011,
       "word": "王一栩 回冷宫",
@@ -345,6 +377,14 @@
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172603,
+      "num": 181423,
+      "word": "神20神21交接空间站钥匙",
+      "onboard_time": 1762227920,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169536,
@@ -411,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158405,
+      "num": 158405,
+      "word": "缅北白家21人获刑",
+      "onboard_time": 1762230081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157529,
       "num": 157529,
       "word": "杨阳特别感谢了杨洋",
@@ -443,12 +491,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146965,
-      "num": 181423,
-      "word": "神20神21交接空间站钥匙",
-      "onboard_time": 1762227920,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 145950,
+      "num": 118575,
+      "word": "剑网3瑶台仙梦",
+      "onboard_time": 1762230021,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 144376,
@@ -481,6 +529,14 @@
       "onboard_time": 1762193114,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 136682,
+      "num": 136682,
+      "word": "女子劝邻居不要乱扔垃圾被群殴",
+      "onboard_time": 1762229001,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135823,
@@ -523,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126422,
+      "num": 118541,
+      "word": "中国航天员烧烤外国网友看呆了",
+      "onboard_time": 1762230081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125480,
       "num": 125480,
       "word": "赵子豪的全运队服好显白",
@@ -537,6 +601,14 @@
       "onboard_time": 1762224320,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124498,
+      "num": 118474,
+      "word": "删了吧有个研究生破防了",
+      "onboard_time": 1762229841,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 123183,
@@ -561,6 +633,14 @@
       "onboard_time": 1762182502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117654,
+      "num": 117654,
+      "word": "彭小苒章时安 女明星和保镖",
+      "onboard_time": 1762229120,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 117603,
@@ -611,6 +691,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 114168,
+      "num": 114168,
+      "word": "宋亚轩人前脆爷人后男模",
+      "onboard_time": 1762230381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113063,
       "num": 193128,
       "word": "京东拍卖巴掌大野生黑松露",
@@ -649,6 +737,22 @@
       "onboard_time": 1762173982,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109546,
+      "num": 109546,
+      "word": "梨形身材坚持跳绳7个月的变化",
+      "onboard_time": 1762229600,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 109181,
+      "num": 109181,
+      "word": "章若楠直播带粉丝看落日",
+      "onboard_time": 1762230321,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 109164,
@@ -691,6 +795,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104355,
+      "num": 104355,
+      "word": "知道为什么有的人不爱存钱了",
+      "onboard_time": 1762230262,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 103239,
+      "num": 103239,
+      "word": "多家存储封测厂商开始计划涨价",
+      "onboard_time": 1762229841,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "Faker紧急教学oner",
@@ -713,6 +833,14 @@
       "onboard_time": 1762168763,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101521,
+      "num": 101521,
+      "word": "技能五子棋已经传到TVB视帝了",
+      "onboard_time": 1762228760,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 100982,
@@ -843,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85175,
+      "num": 159107,
+      "word": "缅北白家5人死刑",
+      "onboard_time": 1762229719,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84956,
       "num": 84956,
       "word": "国际奥委会为孙颖莎庆生",
@@ -883,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79028,
+      "num": 154639,
+      "word": "京东拍卖千万分之一的龙虾奇迹",
+      "onboard_time": 1762229001,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77624,
       "num": 77624,
       "word": "再也不敢直视没认真洗过的西兰花了",
@@ -921,6 +1065,14 @@
       "onboard_time": 1762182203,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73674,
+      "num": 110588,
+      "word": "侯明昊的手机屏保是奥特曼",
+      "onboard_time": 1762230021,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 70168,
@@ -1091,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51694,
+      "num": 110966,
+      "word": "万千惠对老公的爱 包文婧都甘拜下风",
+      "onboard_time": 1762229600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51230,
       "num": 52222,
       "word": "7个月婴儿遭月嫂恶意猛摇",
@@ -1195,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37491,
+      "num": 110352,
+      "word": "庆生也要拼出仪式感",
+      "onboard_time": 1762228879,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35445,
       "num": 50930,
       "word": "肖战藏海传多领域第一",
@@ -1257,6 +1425,14 @@
       "onboard_time": 1762196294,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26761,
+      "num": 383136,
+      "word": "优质主播中国行奋进荆楚上善十堰",
+      "onboard_time": 1762228760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25867,
