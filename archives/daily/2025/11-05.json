@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762296138049,
+  "endTime": 1762298715451,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418289,
+      "num": 113233,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392293,
       "num": 110267,
       "word": "金价",
       "onboard_time": 1762269381,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 371214,
+      "num": 115949,
+      "word": "多名韩国男性在菲律宾非婚生子失联",
+      "onboard_time": 1762269681,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 369522,
@@ -43,20 +59,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 334211,
-      "num": 115949,
-      "word": "多名韩国男性在菲律宾非婚生子失联",
-      "onboard_time": 1762269681,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 327887,
       "num": 115716,
       "word": "原来肖战19年就有晋江式演技了",
       "onboard_time": 1762268662,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320114,
+      "num": 86237,
+      "word": "舒淇冯德伦真夫妻就是好嗑",
+      "onboard_time": 1762298178,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 258587,
@@ -67,11 +83,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243044,
-      "num": 113233,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 19,
+      "raw_hot": 253168,
+      "num": 114384,
+      "word": "史上最相似夫妻称刚认识时并不像",
+      "onboard_time": 1762269201,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -81,6 +97,22 @@
       "onboard_time": 1762262303,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212039,
+      "num": 81936,
+      "word": "赵樱子想让陈晓掀头纱",
+      "onboard_time": 1762298118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210164,
+      "num": 78072,
+      "word": "KK园区已被严重破坏",
+      "onboard_time": 1762298059,
+      "rank": 21,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 201497,
@@ -107,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183077,
+      "num": 183077,
+      "word": "KK园区2年扩大3倍",
+      "onboard_time": 1762270639,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181049,
       "num": 181049,
       "word": "2026春节放9天假",
@@ -131,12 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152106,
-      "num": 152106,
-      "word": "KK园区2年扩大3倍",
-      "onboard_time": 1762270639,
-      "rank": 5,
-      "category": "海外新闻"
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "跳绳是减重排行榜第一名的运动",
+      "onboard_time": 1762298238,
+      "rank": 3,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148367,
@@ -145,6 +185,30 @@
       "onboard_time": 1762270639,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134297,
+      "num": 134297,
+      "word": "邓亚萍建议陈梦珍惜当下",
+      "onboard_time": 1762262542,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127776,
+      "num": 81987,
+      "word": "甲流H3N2症状比普通感冒更重",
+      "onboard_time": 1762268721,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123767,
+      "num": 123767,
+      "word": "山姆会员吐槽花680不是来看AI图的",
+      "onboard_time": 1762255581,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123713,
@@ -171,14 +235,6 @@
       "category": "读书作家,剧集"
     },
     {
-      "raw_hot": 114384,
-      "num": 114384,
-      "word": "史上最相似夫妻称刚认识时并不像",
-      "onboard_time": 1762269201,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "布瑞吉所有不动产都写的胡佳名字",
@@ -187,20 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99245,
-      "num": 116682,
-      "word": "邓亚萍建议陈梦珍惜当下",
-      "onboard_time": 1762262542,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97287,
       "num": 97287,
       "word": "赵丽颖连包10场支持辛芷蕾新片",
       "onboard_time": 1762259481,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94042,
+      "num": 81978,
+      "word": "咖啡店员小票写满红字回怼顾客要求",
+      "onboard_time": 1762264822,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93410,
@@ -219,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91553,
+      "num": 74976,
+      "word": "满蒙八旗不及华妃凤仪万千",
+      "onboard_time": 1762252702,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82880,
       "num": 82880,
       "word": "谁敢听龚俊常华森唱五子棋",
@@ -232,6 +296,14 @@
       "word": "龚俊直播",
       "onboard_time": 1762268002,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80291,
+      "num": 80291,
+      "word": "孟子义拍完尚公主将无缝进组",
+      "onboard_time": 1762298421,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -251,20 +323,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72018,
+      "num": 67602,
+      "word": "读研年龄一定不要超过28岁",
+      "onboard_time": 1762298238,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 70001,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69761,
+      "num": 81890,
+      "word": "吴磊今年已与两家游戏解约",
+      "onboard_time": 1762262483,
+      "rank": 46,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 67290,
-      "num": 35993,
+      "num": 40721,
       "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
       "onboard_time": 1762282334,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66205,
-      "num": 81987,
-      "word": "甲流H3N2症状比普通感冒更重",
-      "onboard_time": 1762268721,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 62437,
@@ -280,14 +368,6 @@
       "word": "杨国福外卖素菜每斤高达35.8元",
       "onboard_time": 1762269622,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60836,
-      "num": 81978,
-      "word": "咖啡店员小票写满红字回怼顾客要求",
-      "onboard_time": 1762264822,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -315,6 +395,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55512,
+      "num": 68202,
+      "word": "王权富贵再次燃命",
+      "onboard_time": 1762277176,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55019,
+      "num": 81876,
+      "word": "演员狗狗大黄上台领奖",
+      "onboard_time": 1762274177,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53427,
+      "num": 53427,
+      "word": "山航空乘穿上小毛衣了",
+      "onboard_time": 1762254262,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 81916,
+      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+      "onboard_time": 1762260022,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52128,
       "num": 81924,
       "word": "王安宇这个老钱风好浓",
@@ -329,14 +441,6 @@
       "onboard_time": 1762270579,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50815,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 49212,
@@ -355,28 +459,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47555,
+      "num": 47555,
+      "word": "惠英红蒋欣胡杏儿好权威的三张脸",
+      "onboard_time": 1762255700,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 47553,
       "num": 81931,
       "word": "郑丽文再表态",
       "onboard_time": 1762262062,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46829,
-      "num": 81890,
-      "word": "吴磊今年已与两家游戏解约",
-      "onboard_time": 1762262483,
-      "rank": 46,
-      "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 46046,
-      "num": 81916,
-      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
-      "onboard_time": 1762260022,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44816,
@@ -411,20 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42046,
-      "num": 81876,
-      "word": "演员狗狗大黄上台领奖",
-      "onboard_time": 1762274177,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 41795,
-      "num": 82001,
-      "word": "山姆会员吐槽花680不是来看AI图的",
-      "onboard_time": 1762255581,
+      "raw_hot": 39523,
+      "num": 40743,
+      "word": "利物浦1比0皇马",
+      "onboard_time": 1762298538,
       "rank": 43,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 37100,
@@ -435,20 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27658,
-      "num": 36010,
+      "raw_hot": 34734,
+      "num": 40693,
       "word": "霉霉和GigiHadid外出就餐街拍",
       "onboard_time": 1762281734,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26651,
-      "num": 52425,
-      "word": "王权富贵再次燃命",
-      "onboard_time": 1762277176,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 26578,

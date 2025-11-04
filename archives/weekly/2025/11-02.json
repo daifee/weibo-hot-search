@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762296138049,
+  "endTime": 1762298715451,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1179,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418289,
+      "num": 126488,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416933,
       "num": 311427,
       "word": "小巷人家",
@@ -1411,6 +1419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371214,
+      "num": 159242,
+      "word": "多名韩国男性在菲律宾非婚生子失联",
+      "onboard_time": 1762269681,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 366416,
       "num": 193149,
       "word": "李兰迪发言我都有点智性恋了",
@@ -1611,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334211,
-      "num": 159242,
-      "word": "多名韩国男性在菲律宾非婚生子失联",
-      "onboard_time": 1762269681,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 334158,
       "num": 334158,
       "word": "小胖哭了",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1762001481,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320114,
+      "num": 86237,
+      "word": "舒淇冯德伦真夫妻就是好嗑",
+      "onboard_time": 1762298178,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 319011,
@@ -2179,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253168,
+      "num": 136391,
+      "word": "史上最相似夫妻称刚认识时并不像",
+      "onboard_time": 1762269201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253129,
       "num": 253129,
       "word": "杨紫生命树收官文被网友做成歌了",
@@ -2241,14 +2265,6 @@
       "onboard_time": 1762252882,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243044,
-      "num": 126488,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241670,
@@ -2523,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212039,
+      "num": 81936,
+      "word": "赵樱子想让陈晓掀头纱",
+      "onboard_time": 1762298118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1762098260,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210164,
+      "num": 78072,
+      "word": "KK园区已被严重破坏",
+      "onboard_time": 1762298059,
+      "rank": 21,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 209831,
@@ -3073,6 +3105,14 @@
       "onboard_time": 1762232840,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183077,
+      "num": 183077,
+      "word": "KK园区2年扩大3倍",
+      "onboard_time": 1762270639,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182547,
@@ -3651,6 +3691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "跳绳是减重排行榜第一名的运动",
+      "onboard_time": 1762298238,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 160623,
       "num": 160623,
       "word": "京东直播比价发钱",
@@ -3929,14 +3977,6 @@
       "onboard_time": 1762185320,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152106,
-      "num": 152106,
-      "word": "KK园区2年扩大3倍",
-      "onboard_time": 1762270639,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 151726,
@@ -4467,14 +4507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136391,
-      "num": 136391,
-      "word": "史上最相似夫妻称刚认识时并不像",
-      "onboard_time": 1762269201,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136241,
       "num": 132369,
       "word": "29岁女子半年每天喝奶茶确诊糖尿病",
@@ -4931,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127776,
+      "num": 81987,
+      "word": "甲流H3N2症状比普通感冒更重",
+      "onboard_time": 1762268721,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127756,
       "num": 127756,
       "word": "原来穿秋裤和不穿秋裤的是同一批人",
@@ -5105,6 +5145,14 @@
       "onboard_time": 1762147340,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123767,
+      "num": 156552,
+      "word": "山姆会员吐槽花680不是来看AI图的",
+      "onboard_time": 1762255581,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123713,
@@ -8835,6 +8883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80291,
+      "num": 80291,
+      "word": "孟子义拍完尚公主将无缝进组",
+      "onboard_time": 1762298421,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80255,
       "num": 80255,
       "word": "A股半日缩量1755亿",
@@ -9379,6 +9435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72018,
+      "num": 67602,
+      "word": "读研年龄一定不要超过28岁",
+      "onboard_time": 1762298238,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 71444,
       "num": 71444,
       "word": "总领馆提醒日本旅游注意防熊",
@@ -9441,6 +9505,14 @@
       "onboard_time": 1762142122,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70001,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 69696,
@@ -9532,7 +9604,7 @@
     },
     {
       "raw_hot": 67290,
-      "num": 35993,
+      "num": 40721,
       "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
       "onboard_time": 1762282334,
       "rank": 30,
@@ -9587,28 +9659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66593,
-      "num": 156552,
-      "word": "山姆会员吐槽花680不是来看AI图的",
-      "onboard_time": 1762255581,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66308,
       "num": 91025,
       "word": "科颜氏回应产品被曝检出苏丹红",
       "onboard_time": 1762151780,
       "rank": 38,
       "category": "民生新闻,美妆"
-    },
-    {
-      "raw_hot": 66205,
-      "num": 81987,
-      "word": "甲流H3N2症状比普通感冒更重",
-      "onboard_time": 1762268721,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 66100,
@@ -10003,11 +10059,27 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 55512,
+      "num": 68202,
+      "word": "王权富贵再次燃命",
+      "onboard_time": 1762277176,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55360,
       "num": 97478,
       "word": "刘宇宁脚滑之后的反应",
       "onboard_time": 1762187358,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55019,
+      "num": 81876,
+      "word": "演员狗狗大黄上台领奖",
+      "onboard_time": 1762274177,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -10089,14 +10161,6 @@
       "onboard_time": 1762232661,
       "rank": 13,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 50815,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 50409,
@@ -10331,14 +10395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42046,
-      "num": 81876,
-      "word": "演员狗狗大黄上台领奖",
-      "onboard_time": 1762274177,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42026,
       "num": 52218,
       "word": "洪承畴 康熙",
@@ -10417,6 +10473,14 @@
       "onboard_time": 1762103957,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39523,
+      "num": 40743,
+      "word": "利物浦1比0皇马",
+      "onboard_time": 1762298538,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 39215,
@@ -10585,6 +10649,14 @@
       "onboard_time": 1762237160,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34734,
+      "num": 40693,
+      "word": "霉霉和GigiHadid外出就餐街拍",
+      "onboard_time": 1762281734,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 34409,
@@ -10779,14 +10851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27658,
-      "num": 36010,
-      "word": "霉霉和GigiHadid外出就餐街拍",
-      "onboard_time": 1762281734,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27475,
       "num": 50959,
       "word": "凤凰台上",
@@ -10833,14 +10897,6 @@
       "onboard_time": 1762021096,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26651,
-      "num": 52425,
-      "word": "王权富贵再次燃命",
-      "onboard_time": 1762277176,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 26286,
