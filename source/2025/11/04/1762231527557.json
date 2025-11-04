@@ -1,0 +1,410 @@
+{
+  "runTime": 1762231527557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 644051,
+        "num": 1103048,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 426017,
+        "num": 426017,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13843,
+        "num": 397792,
+        "word": "进博会时光",
+        "onboard_time": 1762226900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380437,
+        "num": 380437,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364516,
+        "num": 364516,
+        "word": "四喜定档",
+        "onboard_time": 1762224140,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361480,
+        "num": 361480,
+        "word": "杨幂童瑶蒋欣 三张权威的脸",
+        "onboard_time": 1762228640,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337156,
+        "num": 337156,
+        "word": "唐俪辞有5吨黄金",
+        "onboard_time": 1762229240,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335796,
+        "num": 335796,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294921,
+        "num": 294921,
+        "word": "缅北白家21人获刑",
+        "onboard_time": 1762230081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171131,
+        "num": 294491,
+        "word": "央视揭网购故意发错货骗局",
+        "onboard_time": 1762214418,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902678,
+        "num": 291067,
+        "word": "鲍蕾因贝儿课业奔溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830523,
+        "num": 289020,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458697,
+        "num": 287793,
+        "word": "白百何发生了什么",
+        "onboard_time": 1762219760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308762,
+        "num": 284705,
+        "word": "男子晒媳妇买了15双一样的勃肯鞋",
+        "onboard_time": 1762215922,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283566,
+        "num": 283566,
+        "word": "腾讯视频11月电视剧片单",
+        "onboard_time": 1762228100,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264332,
+        "num": 264332,
+        "word": "光与夜之恋 查理苏换配音",
+        "onboard_time": 1762231162,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223209,
+        "num": 223209,
+        "word": "北京一副区长停电动车竟遭三连拒",
+        "onboard_time": 1762225880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222605,
+        "num": 222605,
+        "word": "迪丽热巴陈星旭枭起青壤快来了",
+        "onboard_time": 1762230021,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128502,
+        "num": 211320,
+        "word": "何炅 最近谣传我有衰老焦虑",
+        "onboard_time": 1762188078,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97513,
+        "num": 200132,
+        "word": "京东拍卖千万分之一的龙虾奇迹",
+        "onboard_time": 1762229001,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263486,
+        "num": 196883,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 227606,
+        "num": 172907,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172671,
+        "num": 172671,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167209,
+        "num": 167209,
+        "word": "用芥末泡虾虾线都快吐出来了",
+        "onboard_time": 1762221081,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156020,
+        "num": 156020,
+        "word": "神20神21交接空间站钥匙",
+        "onboard_time": 1762227920,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143827,
+        "num": 143827,
+        "word": "小伙花170万买迈巴赫跑婚车",
+        "onboard_time": 1762217482,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140269,
+        "num": 140269,
+        "word": "内娱短剧的质量这么高了吗",
+        "onboard_time": 1762230981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138072,
+        "num": 138072,
+        "word": "谁懂央视力挺二次元的含金量",
+        "onboard_time": 1762230801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137275,
+        "num": 137275,
+        "word": "女子劝邻居不要乱扔垃圾被群殴",
+        "onboard_time": 1762229001,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "逐梦十五运活力粤港澳",
+        "onboard_time": 1762231283,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141148,
+        "num": 132362,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1762229841,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129430,
+        "num": 129430,
+        "word": "中国航天员烧烤外国网友看呆了",
+        "onboard_time": 1762230081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119096,
+        "num": 119096,
+        "word": "品牌回应翁青雅直播翻车",
+        "onboard_time": 1762212138,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100579,
+        "num": 114867,
+        "word": "侯明昊的手机屏保是奥特曼",
+        "onboard_time": 1762230021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113026,
+        "num": 113026,
+        "word": "山神异闻录开播",
+        "onboard_time": 1762225461,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108620,
+        "num": 108620,
+        "word": "光绪 DNA",
+        "onboard_time": 1762212859,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107905,
+        "num": 107905,
+        "word": "马天宇演技",
+        "onboard_time": 1762231102,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105995,
+        "num": 105995,
+        "word": "彭小苒章时安 女明星和保镖",
+        "onboard_time": 1762229120,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41526,
+        "num": 105102,
+        "word": "中国游客在马尔代夫浮潜时溺亡",
+        "onboard_time": 1762230862,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39195,
+        "num": 104687,
+        "word": "庆生也要拼出仪式感",
+        "onboard_time": 1762228879,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104367,
+        "num": 104367,
+        "word": "原来存的龚俊第一张图是这段",
+        "onboard_time": 1762230921,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101886,
+        "num": 101886,
+        "word": "李兰迪发言我都有点智性恋了",
+        "onboard_time": 1762217602,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99857,
+        "num": 99857,
+        "word": "梨形身材坚持跳绳7个月的变化",
+        "onboard_time": 1762229600,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99898,
+        "num": 98992,
+        "word": "剑网3瑶台仙梦",
+        "onboard_time": 1762230021,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96219,
+        "num": 96219,
+        "word": "中国空间站可以吃烧烤了",
+        "onboard_time": 1762181123,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96093,
+        "num": 96093,
+        "word": "AL爱笑谈队员续约",
+        "onboard_time": 1762224920,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94974,
+        "num": 94974,
+        "word": "宋亚轩人前脆爷人后男模",
+        "onboard_time": 1762230381,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93544,
+        "num": 93544,
+        "word": "白鹿说我不是第一次一年播三部剧",
+        "onboard_time": 1762189217,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93460,
+        "num": 93460,
+        "word": "迪丽热巴卫蓝白裙路透",
+        "onboard_time": 1762226900,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93445,
+        "num": 93445,
+        "word": "知道为什么有的人不爱存钱了",
+        "onboard_time": 1762230262,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}

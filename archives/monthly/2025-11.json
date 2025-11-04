@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762230674214,
+  "endTime": 1762231527557,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1198254,
-      "num": 184109,
+      "num": 289020,
       "word": "讨好型人格走路",
       "onboard_time": 1762226180,
       "rank": 14,
@@ -331,20 +331,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 902678,
+      "num": 291067,
+      "word": "鲍蕾因贝儿课业奔溃拍桌子",
+      "onboard_time": 1762228640,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894050,
       "num": 214609,
       "word": "多少钱能让卢昱晓把这条视频删了",
       "onboard_time": 1762002923,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 881188,
-      "num": 158867,
-      "word": "鲍蕾因贝儿课业奔溃拍桌子",
-      "onboard_time": 1762228640,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 869920,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 797030,
-      "num": 194443,
+      "num": 223209,
       "word": "北京一副区长停电动车竟遭三连拒",
       "onboard_time": 1762225880,
       "rank": 15,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 636655,
-      "num": 195265,
+      "num": 284705,
       "word": "男子晒媳妇买了15双一样的勃肯鞋",
       "onboard_time": 1762215922,
       "rank": 10,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 604008,
-      "num": 194860,
+      "num": 287793,
       "word": "白百何发生了什么",
       "onboard_time": 1762219760,
       "rank": 12,
@@ -1315,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426017,
+      "num": 426017,
+      "word": "用iPhone前vs用iPhone后",
+      "onboard_time": 1762226301,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 423880,
       "num": 205825,
       "word": "辛芷蕾被评为威尼斯近十年最佳影后",
@@ -1491,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380437,
+      "num": 380437,
+      "word": "缅北白家5人死刑",
+      "onboard_time": 1762229719,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379722,
       "num": 379722,
       "word": "T1严正声明",
@@ -1611,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361480,
+      "num": 361480,
+      "word": "杨幂童瑶蒋欣 三张权威的脸",
+      "onboard_time": 1762228640,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359583,
       "num": 217387,
       "word": "杨紫直播",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1762064421,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352123,
-      "num": 352123,
-      "word": "用iPhone前vs用iPhone后",
-      "onboard_time": 1762226301,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 351079,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1762127720,
       "rank": 13,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 337156,
+      "num": 337156,
+      "word": "唐俪辞有5吨黄金",
+      "onboard_time": 1762229240,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 336455,
@@ -1841,14 +1865,6 @@
       "onboard_time": 1762090763,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312254,
-      "num": 312254,
-      "word": "杨幂童瑶蒋欣 三张权威的脸",
-      "onboard_time": 1762228640,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 310623,
@@ -2043,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 294921,
+      "num": 294921,
+      "word": "缅北白家21人获刑",
+      "onboard_time": 1762230081,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294426,
       "num": 209722,
       "word": "陈乔恩结婚前没有朋友圈",
@@ -2180,7 +2204,7 @@
     },
     {
       "raw_hot": 275930,
-      "num": 168909,
+      "num": 196883,
       "word": "建议不要用酒店的沐浴露",
       "onboard_time": 1762226422,
       "rank": 45,
@@ -2297,6 +2321,14 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264332,
+      "num": 264332,
+      "word": "光与夜之恋 查理苏换配音",
+      "onboard_time": 1762231162,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 264049,
@@ -2619,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228864,
-      "num": 156664,
-      "word": "唐俪辞有5吨黄金",
-      "onboard_time": 1762229240,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228299,
       "num": 206333,
       "word": "AL的含金量还在上升",
@@ -2705,6 +2729,14 @@
       "onboard_time": 1762164621,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222605,
+      "num": 222605,
+      "word": "迪丽热巴陈星旭枭起青壤快来了",
+      "onboard_time": 1762230021,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 222474,
@@ -3017,14 +3049,6 @@
       "onboard_time": 1762079481,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205741,
-      "num": 156227,
-      "word": "迪丽热巴陈星旭枭起青壤快来了",
-      "onboard_time": 1762230021,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 205248,
@@ -4219,14 +4243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158405,
-      "num": 158405,
-      "word": "缅北白家21人获刑",
-      "onboard_time": 1762230081,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
@@ -4939,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141148,
+      "num": 132362,
+      "word": "删了吧有个研究生破防了",
+      "onboard_time": 1762229841,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141092,
       "num": 141092,
       "word": "宋亚轩金靖俩魔童凑一起了",
@@ -4968,6 +4992,14 @@
       "word": "这部剧不能和家长一起看",
       "onboard_time": 1762092983,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140269,
+      "num": 140269,
+      "word": "内娱短剧的质量这么高了吗",
+      "onboard_time": 1762230981,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -5075,6 +5107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "谁懂央视力挺二次元的含金量",
+      "onboard_time": 1762230801,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138059,
       "num": 148626,
       "word": "天地剑心三个人能凑出一堆笑料",
@@ -5131,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137275,
+      "num": 137275,
+      "word": "女子劝邻居不要乱扔垃圾被群殴",
+      "onboard_time": 1762229001,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137227,
       "num": 137227,
       "word": "女子排队礼让孕妇",
@@ -5153,14 +5201,6 @@
       "onboard_time": 1762059620,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 136682,
-      "num": 136682,
-      "word": "女子劝邻居不要乱扔垃圾被群殴",
-      "onboard_time": 1762229001,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136560,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1762075099,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "逐梦十五运活力粤港澳",
+      "onboard_time": 1762231283,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 134631,
@@ -5555,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129430,
+      "num": 129430,
+      "word": "中国航天员烧烤外国网友看呆了",
+      "onboard_time": 1762230081,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129409,
       "num": 129409,
       "word": "光绪 DNA",
@@ -5731,14 +5787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126422,
-      "num": 118541,
-      "word": "中国航天员烧烤外国网友看呆了",
-      "onboard_time": 1762230081,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126399,
       "num": 126399,
       "word": "以后按这个标准给关晓彤做造型",
@@ -5873,14 +5921,6 @@
       "onboard_time": 1761974060,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124498,
-      "num": 118474,
-      "word": "删了吧有个研究生破防了",
-      "onboard_time": 1762229841,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 124304,
@@ -7003,6 +7043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107905,
+      "num": 107905,
+      "word": "马天宇演技",
+      "onboard_time": 1762231102,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107893,
       "num": 107893,
       "word": "上班的8个好处",
@@ -7281,6 +7329,14 @@
       "onboard_time": 1762179684,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104367,
+      "num": 104367,
+      "word": "原来存的龚俊第一张图是这段",
+      "onboard_time": 1762230921,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 104355,
@@ -7691,6 +7747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100579,
+      "num": 114867,
+      "word": "侯明昊的手机屏保是奥特曼",
+      "onboard_time": 1762230021,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100475,
       "num": 100475,
       "word": "TVB公布许绍雄未播遗作",
@@ -8041,6 +8105,14 @@
       "onboard_time": 1762227080,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97513,
+      "num": 200132,
+      "word": "京东拍卖千万分之一的龙虾奇迹",
+      "onboard_time": 1762229001,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 97345,
@@ -9275,14 +9347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85175,
-      "num": 159107,
-      "word": "缅北白家5人死刑",
-      "onboard_time": 1762229719,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85133,
       "num": 121794,
       "word": "段永平捐赠市值1500万茅台股票",
@@ -9747,14 +9811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79028,
-      "num": 154639,
-      "word": "京东拍卖千万分之一的龙虾奇迹",
-      "onboard_time": 1762229001,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 78886,
       "num": 78886,
       "word": "在小猫喝水的时候假装阻止",
@@ -10121,14 +10177,6 @@
       "onboard_time": 1762154119,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73674,
-      "num": 110588,
-      "word": "侯明昊的手机屏保是奥特曼",
-      "onboard_time": 1762230021,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 73616,
@@ -11347,6 +11395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41526,
+      "num": 105102,
+      "word": "中国游客在马尔代夫浮潜时溺亡",
+      "onboard_time": 1762230862,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41167,
       "num": 147262,
       "word": "何与递的乐事谁不想接",
@@ -11435,6 +11491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39195,
+      "num": 110352,
+      "word": "庆生也要拼出仪式感",
+      "onboard_time": 1762228879,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38915,
       "num": 117321,
       "word": "太空厨房可以烤牛排烤鸡翅了",
@@ -11521,14 +11585,6 @@
       "onboard_time": 1762213099,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37491,
-      "num": 110352,
-      "word": "庆生也要拼出仪式感",
-      "onboard_time": 1762228879,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 37416,
@@ -12211,6 +12267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13843,
+      "num": 397792,
+      "word": "进博会时光",
+      "onboard_time": 1762226900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13703,
       "num": 31304,
       "word": "一场在博物馆举行的欢迎仪式",
@@ -12289,14 +12353,6 @@
       "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8193,
-      "num": 185917,
-      "word": "进博会时光",
-      "onboard_time": 1762226900,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8085,
