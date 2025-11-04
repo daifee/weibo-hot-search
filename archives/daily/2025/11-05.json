@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762282233277,
+  "endTime": 1762284139102,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44488,
+      "num": 25130,
+      "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
+      "onboard_time": 1762282334,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42891,
       "num": 71073,
       "word": "王鹤棣这衣服正经吗",
@@ -395,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38009,
+      "raw_hot": 38199,
       "num": 81890,
       "word": "吴磊今年已与两家游戏解约",
       "onboard_time": 1762262483,
@@ -433,6 +441,14 @@
       "onboard_time": 1762258222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 25427,
+      "num": 25427,
+      "word": "陈丽君5天获2奖",
+      "onboard_time": 1762284014,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 24377,
@@ -475,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16432,
+      "raw_hot": 19518,
       "num": 26388,
       "word": "霉霉和GigiHadid外出就餐街拍",
       "onboard_time": 1762281734,
@@ -489,6 +505,22 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12812,
+      "num": 25080,
+      "word": "翟子路敖瑞鹏合照",
+      "onboard_time": 1762279454,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12766,
+      "num": 25078,
+      "word": "金饰清洗多少损耗属于正常范围",
+      "onboard_time": 1762283174,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

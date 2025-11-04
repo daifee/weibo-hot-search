@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 02:50:33
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 03:22:19
 </p>
 </blockquote>
 <p>
@@ -7719,6 +7719,12 @@ ChatGP禁止提供专业医疗法律财务建议（热度：50409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%97%AD%E9%A6%86%E9%80%9A%E5%91%8A%23" target="weibo">
+南京大屠杀遇难同胞纪念馆闭馆通告（热度：44488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%8F%E5%AD%A9%E7%9A%84%E7%8E%A9%E5%85%B7%E7%9C%9F%E9%AB%98%E7%BA%A7%23" target="weibo">
 现在小孩的玩具真高级（热度：43820）
 </a>
@@ -8169,6 +8175,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B5%E5%A4%A9%E8%8E%B72%E5%A5%96%23" target="weibo">
+陈丽君5天获2奖（热度：25427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%8E%E5%92%80%E6%B0%B4%E5%BA%93%E4%B8%A4%E5%B9%B4%E5%89%8D%E4%B9%9F%E6%9C%89%E4%BA%BA%E6%94%BE%E7%94%9F%E7%8C%AB%23" target="weibo">
 迎咀水库两年前也有人放生猫（热度：25069）
 </a>
@@ -8265,6 +8277,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D%23" target="weibo">
+霉霉和GigiHadid外出就餐街拍（热度：19518）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%B9%B4%E5%BA%A6%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90%E5%89%A7%E9%9B%86%23" target="weibo">
 藏海传年度平台推荐剧集（热度：18985）
 </a>
@@ -8315,12 +8333,6 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E8%8A%82%23" target="weibo">
 第十四届中国艺术节（热度：16800）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D%23" target="weibo">
-霉霉和GigiHadid外出就餐街拍（热度：16432）
 </a>
 </li>
 
@@ -8381,6 +8393,18 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E6%96%B0%E6%AD%8CDayByDay%23" target="weibo">
 展轩新歌DayByDay（热度：13148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E5%AD%90%E8%B7%AF%E6%95%96%E7%91%9E%E9%B9%8F%E5%90%88%E7%85%A7%23" target="weibo">
+翟子路敖瑞鹏合照（热度：12812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E6%B8%85%E6%B4%97%E5%A4%9A%E5%B0%91%E6%8D%9F%E8%80%97%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E8%8C%83%E5%9B%B4%23" target="weibo">
+金饰清洗多少损耗属于正常范围（热度：12766）
 </a>
 </li>
 

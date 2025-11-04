@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/05 00:32:26 ~ 2025/11/05 02:50:33
+本榜单时间：2025/11/05 00:32:26 ~ 2025/11/05 03:22:19
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ JackeyLove致歉（热度：122299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%97%AD%E9%A6%86%E9%80%9A%E5%91%8A%23" target="weibo">
+南京大屠杀遇难同胞纪念馆闭馆通告（热度：44488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%BF%99%E8%A1%A3%E6%9C%8D%E6%AD%A3%E7%BB%8F%E5%90%97%23" target="weibo">
 王鹤棣这衣服正经吗（热度：42891）
 </a>
@@ -310,7 +316,7 @@ JackeyLove致歉（热度：122299）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E4%BB%8A%E5%B9%B4%E5%B7%B2%E4%B8%8E%E4%B8%A4%E5%AE%B6%E6%B8%B8%E6%88%8F%E8%A7%A3%E7%BA%A6%23" target="weibo">
-吴磊今年已与两家游戏解约（热度：38009）
+吴磊今年已与两家游戏解约（热度：38199）
 </a>
 </li>
 
@@ -335,6 +341,12 @@ JackeyLove致歉（热度：122299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E7%A6%BB%E5%BC%80TTG%23" target="weibo">
 久哲离开TTG（热度：26578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B5%E5%A4%A9%E8%8E%B72%E5%A5%96%23" target="weibo">
+陈丽君5天获2奖（热度：25427）
 </a>
 </li>
 
@@ -370,13 +382,25 @@ JackeyLove致歉（热度：122299）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D%23" target="weibo">
-霉霉和GigiHadid外出就餐街拍（热度：16432）
+霉霉和GigiHadid外出就餐街拍（热度：19518）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8E%9F%E5%A3%B0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E5%8A%9B%E9%87%8F%E6%84%9F%23" target="weibo">
 丁禹兮原声真的很有力量感（热度：14753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E5%AD%90%E8%B7%AF%E6%95%96%E7%91%9E%E9%B9%8F%E5%90%88%E7%85%A7%23" target="weibo">
+翟子路敖瑞鹏合照（热度：12812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E6%B8%85%E6%B4%97%E5%A4%9A%E5%B0%91%E6%8D%9F%E8%80%97%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E8%8C%83%E5%9B%B4%23" target="weibo">
+金饰清洗多少损耗属于正常范围（热度：12766）
 </a>
 </li>
 

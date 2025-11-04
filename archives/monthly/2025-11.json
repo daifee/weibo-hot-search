@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762282233277,
+  "endTime": 1762284139102,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -13691,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44488,
+      "num": 25130,
+      "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
+      "onboard_time": 1762282334,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44278,
       "num": 203646,
       "word": "没课也不能待宿舍是对学生瞎折腾",
@@ -14499,6 +14507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25427,
+      "num": 25427,
+      "word": "陈丽君5天获2奖",
+      "onboard_time": 1762284014,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25069,
       "num": 98911,
       "word": "迎咀水库两年前也有人放生猫",
@@ -14675,6 +14691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19518,
+      "num": 26388,
+      "word": "霉霉和GigiHadid外出就餐街拍",
+      "onboard_time": 1762281734,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -14761,14 +14785,6 @@
       "onboard_time": 1762262542,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16432,
-      "num": 26388,
-      "word": "霉霉和GigiHadid外出就餐街拍",
-      "onboard_time": 1762281734,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 15659,
@@ -14881,6 +14897,22 @@
       "onboard_time": 1761919522,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 12812,
+      "num": 25080,
+      "word": "翟子路敖瑞鹏合照",
+      "onboard_time": 1762279454,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12766,
+      "num": 25078,
+      "word": "金饰清洗多少损耗属于正常范围",
+      "onboard_time": 1762283174,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12643,
