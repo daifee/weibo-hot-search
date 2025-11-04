@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762255494920,
+  "endTime": 1762256374722,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1618279,
-      "num": 197907,
+      "num": 241712,
       "word": "白百何 王传君",
       "onboard_time": 1762241541,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1762226180,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1161342,
+      "num": 1161342,
+      "word": "星巴克中国卖掉了",
+      "onboard_time": 1762251381,
+      "rank": 15,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1087235,
@@ -243,14 +251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 936607,
-      "num": 936607,
-      "word": "星巴克中国卖掉了",
-      "onboard_time": 1762251381,
-      "rank": 15,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 915745,
       "num": 1146519,
       "word": "饿了么骑手已更换橙黑新工服",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 881192,
-      "num": 185512,
+      "num": 241295,
       "word": "小S二女儿谈具俊晔暴瘦",
       "onboard_time": 1762246283,
       "rank": 11,
@@ -1555,6 +1555,14 @@
       "category": "情感,健康医疗"
     },
     {
+      "raw_hot": 316502,
+      "num": 240909,
+      "word": "何健麒 我算什么东西",
+      "onboard_time": 1762254081,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313857,
       "num": 213525,
       "word": "卢昱晓 学服装设计不是让你干这个的",
@@ -2067,12 +2075,28 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 245587,
+      "num": 154887,
+      "word": "樊振东的Labubu是D",
+      "onboard_time": 1762252882,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241670,
       "num": 241670,
       "word": "JackeyLove击杀Faker",
       "onboard_time": 1762076002,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240685,
+      "num": 240685,
+      "word": "推妻入海骗保男子已被执行死刑",
+      "onboard_time": 1762253781,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240259,
@@ -2219,12 +2243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223642,
-      "num": 152748,
-      "word": "樊振东的Labubu是D",
-      "onboard_time": 1762252882,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 223032,
+      "num": 223032,
+      "word": "满蒙八旗不及华妃凤仪万千",
+      "onboard_time": 1762252702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 222605,
@@ -2507,14 +2531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200756,
-      "num": 161403,
-      "word": "何健麒 我算什么东西",
-      "onboard_time": 1762254081,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200692,
       "num": 170892,
       "word": "上官正义回应举报贩婴反被警方扣留",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190177,
-      "num": 160958,
-      "word": "满蒙八旗不及华妃凤仪万千",
-      "onboard_time": 1762252702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 188924,
@@ -2963,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175642,
+      "num": 175642,
+      "word": "杨幂查寝 卓沅收收自己的双开门",
+      "onboard_time": 1762253361,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175442,
       "num": 175442,
       "word": "单依纯献唱日掛中天主题曲",
@@ -3172,7 +3188,7 @@
     },
     {
       "raw_hot": 166401,
-      "num": 166401,
+      "num": 243544,
       "word": "视界大会cp奖给了向往的生活的狗",
       "onboard_time": 1762249881,
       "rank": 26,
@@ -3299,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162159,
+      "num": 162159,
+      "word": "山航空乘穿上小毛衣了",
+      "onboard_time": 1762254262,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 161952,
       "num": 161952,
       "word": "许魏洲极限救车后手一直在抖",
@@ -3347,19 +3371,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159986,
-      "num": 159986,
-      "word": "推妻入海骗保男子已被执行死刑",
-      "onboard_time": 1762253781,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159589,
       "num": 159589,
       "word": "林允 那年杏花微雨",
       "onboard_time": 1762093043,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158981,
+      "num": 244081,
+      "word": "迪丽热巴粉丝枭起青壤云包场",
+      "onboard_time": 1762254081,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -3497,14 +3521,6 @@
       "onboard_time": 1762151422,
       "rank": 23,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 155207,
-      "num": 155207,
-      "word": "杨幂查寝 卓沅收收自己的双开门",
-      "onboard_time": 1762253361,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 154876,
@@ -3716,7 +3732,7 @@
     },
     {
       "raw_hot": 147701,
-      "num": 165595,
+      "num": 242868,
       "word": "B站回应拉黑指定用户屏蔽开屏广告",
       "onboard_time": 1762250121,
       "rank": 6,
@@ -3883,6 +3899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141712,
+      "num": 141712,
+      "word": "惠英红蒋欣胡杏儿好权威的三张脸",
+      "onboard_time": 1762255700,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141665,
       "num": 141665,
       "word": "刘宇宁王以纶候场热聊",
@@ -3987,14 +4011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138666,
-      "num": 117895,
-      "word": "山航空乘穿上小毛衣了",
-      "onboard_time": 1762254262,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 138253,
       "num": 150888,
       "word": "谁懂央视力挺二次元的含金量",
@@ -4097,14 +4113,6 @@
       "onboard_time": 1762093763,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135434,
-      "num": 165892,
-      "word": "迪丽热巴粉丝枭起青壤云包场",
-      "onboard_time": 1762254081,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 135029,
@@ -4289,6 +4297,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131801,
+      "num": 243091,
+      "word": "山姆APP开始投放广告",
+      "onboard_time": 1762252521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131726,
@@ -4683,6 +4699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123609,
+      "num": 123609,
+      "word": "模特码 正常码",
+      "onboard_time": 1762253540,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 123537,
       "num": 128357,
       "word": "蒋欣蓝盈莹华妃浣碧同框了",
@@ -4779,8 +4803,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121642,
+      "num": 121642,
+      "word": "JackeyLove谈身体伤病",
+      "onboard_time": 1762252941,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121576,
-      "num": 121576,
+      "num": 242606,
       "word": "山河枕13集亲密戏",
       "onboard_time": 1762254620,
       "rank": 26,
@@ -4873,14 +4905,6 @@
       "onboard_time": 1762053319,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118859,
-      "num": 118859,
-      "word": "JackeyLove谈身体伤病",
-      "onboard_time": 1762252941,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 118784,
@@ -5153,14 +5177,6 @@
       "onboard_time": 1762161141,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115013,
-      "num": 164578,
-      "word": "山姆APP开始投放广告",
-      "onboard_time": 1762252521,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114765,
@@ -5760,6 +5776,14 @@
       "word": "李一桐动漫版清瞳",
       "onboard_time": 1762060941,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106788,
+      "num": 123708,
+      "word": "好消息结婚了坏消息大婚当日反目",
+      "onboard_time": 1762255581,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -6475,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98133,
+      "num": 123629,
+      "word": "全球股指杀跌",
+      "onboard_time": 1762252762,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 98058,
       "num": 98058,
       "word": "hang娜美",
@@ -6899,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93299,
+      "num": 242151,
+      "word": "王者曹操新皮肤逐霄之志",
+      "onboard_time": 1762255221,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93290,
       "num": 93290,
       "word": "男子修水管时血管爆管心脏几乎空转",
@@ -7123,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91153,
+      "num": 91153,
+      "word": "同事 不火但演技很好的演员",
+      "onboard_time": 1762253540,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91045,
       "num": 91045,
       "word": "叠纸心意",
@@ -7155,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90627,
+      "num": 117895,
+      "word": "陈梦请教邓亚萍如何学好英语",
+      "onboard_time": 1762254741,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90599,
       "num": 90599,
       "word": "勇士vs步行者",
@@ -7169,14 +7225,6 @@
       "onboard_time": 1762238179,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90423,
-      "num": 90423,
-      "word": "王者曹操新皮肤逐霄之志",
-      "onboard_time": 1762255221,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 90405,
@@ -7435,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87421,
-      "num": 109489,
-      "word": "全球股指杀跌",
-      "onboard_time": 1762252762,
-      "rank": 42,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 87267,
       "num": 122241,
       "word": "何炅 我想cue张凌赫",
@@ -7699,6 +7739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85445,
+      "num": 101860,
+      "word": "秦岚新剧造型",
+      "onboard_time": 1762255102,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85129,
       "num": 85129,
       "word": "孙女回应爷爷将厨房打理的像咖啡屋",
@@ -7833,6 +7881,22 @@
       "onboard_time": 1762073181,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83946,
+      "num": 91550,
+      "word": "17位单身男蹄花店被宰3万多",
+      "onboard_time": 1762252581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83843,
+      "num": 80765,
+      "word": "孙颖莎生日全是球拍与汗水",
+      "onboard_time": 1762256181,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83821,
@@ -8001,6 +8065,14 @@
       "onboard_time": 1762056800,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81707,
+      "num": 81707,
+      "word": "TES主教练看好T1夺冠",
+      "onboard_time": 1762256240,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 81670,
@@ -8499,14 +8571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74095,
-      "num": 117895,
-      "word": "陈梦请教邓亚萍如何学好英语",
-      "onboard_time": 1762254741,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74070,
       "num": 74070,
       "word": "怪不得脚掌心总是有种被拉扯的感觉",
@@ -8900,7 +8964,7 @@
     },
     {
       "raw_hot": 63330,
-      "num": 471655,
+      "num": 492936,
       "word": "一人一句为全运健儿加油",
       "onboard_time": 1762245502,
       "rank": 2,
@@ -8961,6 +9025,14 @@
       "onboard_time": 1762077622,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62071,
+      "num": 196855,
+      "word": "王玉雯芝麻800从从容容游刃有余",
+      "onboard_time": 1762254262,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 61786,
@@ -9187,14 +9259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53889,
-      "num": 76846,
-      "word": "17位单身男蹄花店被宰3万多",
-      "onboard_time": 1762252581,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53838,
       "num": 93563,
       "word": "Gumayusi谈如何度过低谷期",
@@ -9241,14 +9305,6 @@
       "onboard_time": 1762232661,
       "rank": 13,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 50419,
-      "num": 162902,
-      "word": "王玉雯芝麻800从从容容游刃有余",
-      "onboard_time": 1762254262,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 50409,
@@ -9307,6 +9363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48836,
+      "num": 156552,
+      "word": "山姆会员吐槽花680不是来看AI图的",
+      "onboard_time": 1762255581,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48398,
       "num": 95138,
       "word": "全运会乒乓球场馆9张球台",
@@ -9361,6 +9425,14 @@
       "onboard_time": 1762239920,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46569,
+      "num": 102044,
+      "word": "徐若晗跳了企鹅舞",
+      "onboard_time": 1762255281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 46559,
@@ -9931,6 +10003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26021,
+      "num": 93726,
+      "word": "胡锡进评民政局与夜店合作",
+      "onboard_time": 1762256301,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25728,
       "num": 88526,
       "word": "环球偶遇宋威龙",
@@ -10009,14 +10089,6 @@
       "onboard_time": 1762090643,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 21520,
-      "num": 102044,
-      "word": "徐若晗跳了企鹅舞",
-      "onboard_time": 1762255281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 21428,
@@ -10129,14 +10201,6 @@
       "onboard_time": 1762116793,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 16702,
-      "num": 101860,
-      "word": "秦岚新剧造型",
-      "onboard_time": 1762255102,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 15659,
