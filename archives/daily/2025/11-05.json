@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762298715451,
+  "endTime": 1762299551682,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 462792,
-      "num": 832397,
+      "num": 876113,
       "word": "赵丽颖新剧一种气血很足的美",
       "onboard_time": 1762268360,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 381899,
+      "num": 98422,
+      "word": "赵樱子想让陈晓掀头纱",
+      "onboard_time": 1762298118,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371214,
       "num": 115949,
       "word": "多名韩国男性在菲律宾非婚生子失联",
@@ -59,6 +67,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 367112,
+      "num": 98192,
+      "word": "舒淇冯德伦真夫妻就是好嗑",
+      "onboard_time": 1762298178,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 332604,
+      "num": 93040,
+      "word": "KK园区已被严重破坏",
+      "onboard_time": 1762298059,
+      "rank": 21,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 327887,
       "num": 115716,
       "word": "原来肖战19年就有晋江式演技了",
@@ -67,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320114,
-      "num": 86237,
-      "word": "舒淇冯德伦真夫妻就是好嗑",
-      "onboard_time": 1762298178,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 275934,
+      "num": 114384,
+      "word": "史上最相似夫妻称刚认识时并不像",
+      "onboard_time": 1762269201,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258587,
@@ -83,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253168,
-      "num": 114384,
-      "word": "史上最相似夫妻称刚认识时并不像",
-      "onboard_time": 1762269201,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 236413,
+      "num": 236413,
+      "word": "跳绳是减重排行榜第一名的运动",
+      "onboard_time": 1762298238,
+      "rank": 3,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 219374,
+      "num": 219374,
+      "word": "KK园区2年扩大3倍",
+      "onboard_time": 1762270639,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 213573,
@@ -97,22 +129,6 @@
       "onboard_time": 1762262303,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212039,
-      "num": 81936,
-      "word": "赵樱子想让陈晓掀头纱",
-      "onboard_time": 1762298118,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210164,
-      "num": 78072,
-      "word": "KK园区已被严重破坏",
-      "onboard_time": 1762298059,
-      "rank": 21,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 201497,
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183077,
-      "num": 183077,
-      "word": "KK园区2年扩大3倍",
-      "onboard_time": 1762270639,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 181049,
       "num": 181049,
       "word": "2026春节放9天假",
@@ -171,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160769,
-      "num": 160769,
-      "word": "跳绳是减重排行榜第一名的运动",
-      "onboard_time": 1762298238,
-      "rank": 3,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 148367,
       "num": 124526,
       "word": "吴京晒流浪地球3片场照片",
@@ -187,28 +187,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134297,
-      "num": 134297,
+      "raw_hot": 144071,
+      "num": 144071,
       "word": "邓亚萍建议陈梦珍惜当下",
       "onboard_time": 1762262542,
       "rank": 9,
       "category": "体育"
     },
     {
-      "raw_hot": 127776,
-      "num": 81987,
-      "word": "甲流H3N2症状比普通感冒更重",
-      "onboard_time": 1762268721,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 141892,
+      "num": 141892,
+      "word": "孟子义拍完尚公主将无缝进组",
+      "onboard_time": 1762298421,
+      "rank": 19,
+      "category": "剧集"
     },
     {
-      "raw_hot": 123767,
-      "num": 123767,
+      "raw_hot": 128224,
+      "num": 128224,
       "word": "山姆会员吐槽花680不是来看AI图的",
       "onboard_time": 1762255581,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127776,
+      "num": 92629,
+      "word": "甲流H3N2症状比普通感冒更重",
+      "onboard_time": 1762268721,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123713,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102870,
+      "num": 94501,
+      "word": "你好星期六配置",
+      "onboard_time": 1762299018,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97287,
       "num": 97287,
       "word": "赵丽颖连包10场支持辛芷蕾新片",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 94042,
-      "num": 81978,
+      "num": 92231,
       "word": "咖啡店员小票写满红字回怼顾客要求",
       "onboard_time": 1762264822,
       "rank": 35,
@@ -276,11 +292,19 @@
     },
     {
       "raw_hot": 91553,
-      "num": 74976,
+      "num": 83620,
       "word": "满蒙八旗不及华妃凤仪万千",
       "onboard_time": 1762252702,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86495,
+      "num": 86495,
+      "word": "利物浦1比0皇马",
+      "onboard_time": 1762298538,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 82880,
@@ -299,20 +323,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80291,
-      "num": 80291,
-      "word": "孟子义拍完尚公主将无缝进组",
-      "onboard_time": 1762298421,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79348,
       "num": 81984,
       "word": "献血400ml没事失血400ml很危险",
       "onboard_time": 1762246881,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77863,
+      "num": 72171,
+      "word": "巴黎圣日耳曼1比2拜仁",
+      "onboard_time": 1762299259,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77396,
+      "num": 77396,
+      "word": "武汉街头出现一架大飞机",
+      "onboard_time": 1762299199,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75081,
+      "num": 75081,
+      "word": "山航空乘穿上小毛衣了",
+      "onboard_time": 1762254262,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 73144,
@@ -347,8 +387,16 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 68842,
+      "num": 68842,
+      "word": "金价突涨水贝商家遭大量退单",
+      "onboard_time": 1762299440,
+      "rank": 33,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 67290,
-      "num": 40721,
+      "num": 46569,
       "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
       "onboard_time": 1762282334,
       "rank": 30,
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 55512,
-      "num": 68202,
+      "num": 69254,
       "word": "王权富贵再次燃命",
       "onboard_time": 1762277176,
       "rank": 42,
@@ -411,15 +459,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53427,
-      "num": 53427,
-      "word": "山航空乘穿上小毛衣了",
-      "onboard_time": 1762254262,
-      "rank": 35,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 52928,
+      "raw_hot": 53442,
       "num": 81916,
       "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
       "onboard_time": 1762260022,
@@ -459,8 +499,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47555,
-      "num": 47555,
+      "raw_hot": 48942,
+      "num": 48942,
       "word": "惠英红蒋欣胡杏儿好权威的三张脸",
       "onboard_time": 1762255700,
       "rank": 40,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43022,
+      "num": 47297,
+      "word": "何意味",
+      "onboard_time": 1762299259,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42891,
       "num": 71073,
       "word": "王鹤棣这衣服正经吗",
@@ -507,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39523,
-      "num": 40743,
-      "word": "利物浦1比0皇马",
-      "onboard_time": 1762298538,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 39725,
+      "num": 46373,
+      "word": "吴镇宇刷老年卡被质疑",
+      "onboard_time": 1762299499,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 37100,
@@ -571,7 +619,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23084,
+      "raw_hot": 23342,
       "num": 257004,
       "word": "中国机遇是因为中国的确定性",
       "onboard_time": 1762262182,

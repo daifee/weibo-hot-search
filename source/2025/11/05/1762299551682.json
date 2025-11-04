@@ -1,0 +1,410 @@
+{
+  "runTime": 1762299551682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 319025,
+        "num": 876113,
+        "word": "赵丽颖新剧一种气血很足的美",
+        "onboard_time": 1762268360,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236413,
+        "num": 236413,
+        "word": "跳绳是减重排行榜第一名的运动",
+        "onboard_time": 1762298238,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23342,
+        "num": 226108,
+        "word": "中国机遇是因为中国的确定性",
+        "onboard_time": 1762262182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219374,
+        "num": 219374,
+        "word": "KK园区2年扩大3倍",
+        "onboard_time": 1762270639,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144071,
+        "num": 144071,
+        "word": "邓亚萍建议陈梦珍惜当下",
+        "onboard_time": 1762262542,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141892,
+        "num": 141892,
+        "word": "孟子义拍完尚公主将无缝进组",
+        "onboard_time": 1762298421,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141738,
+        "num": 141738,
+        "word": "星巴克中国卖掉了",
+        "onboard_time": 1762251381,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 128224,
+        "num": 128224,
+        "word": "山姆会员吐槽花680不是来看AI图的",
+        "onboard_time": 1762255581,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114614,
+        "num": 114614,
+        "word": "欧冠联赛",
+        "onboard_time": 1762295175,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99431,
+        "num": 99431,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392866,
+        "num": 99307,
+        "word": "妈妈检查女儿书包发现诡异恐怖画",
+        "onboard_time": 1762263621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381899,
+        "num": 98422,
+        "word": "赵樱子想让陈晓掀头纱",
+        "onboard_time": 1762298118,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367112,
+        "num": 98192,
+        "word": "舒淇冯德伦真夫妻就是好嗑",
+        "onboard_time": 1762298178,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364506,
+        "num": 97621,
+        "word": "网友买高铁靠窗座位却遇面壁座",
+        "onboard_time": 1762270702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359642,
+        "num": 97131,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347528,
+        "num": 96149,
+        "word": "多名韩国男性在菲律宾非婚生子失联",
+        "onboard_time": 1762269681,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275934,
+        "num": 95721,
+        "word": "史上最相似夫妻称刚认识时并不像",
+        "onboard_time": 1762269201,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202615,
+        "num": 95286,
+        "word": "原来肖战19年就有晋江式演技了",
+        "onboard_time": 1762268662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102870,
+        "num": 94501,
+        "word": "你好星期六配置",
+        "onboard_time": 1762299018,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86448,
+        "num": 94034,
+        "word": "清瞳人设",
+        "onboard_time": 1762258759,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360812,
+        "num": 93452,
+        "word": "金价",
+        "onboard_time": 1762269381,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 332604,
+        "num": 93040,
+        "word": "KK园区已被严重破坏",
+        "onboard_time": 1762298059,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 124114,
+        "num": 92629,
+        "word": "甲流H3N2症状比普通感冒更重",
+        "onboard_time": 1762268721,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92231,
+        "num": 92231,
+        "word": "咖啡店员小票写满红字回怼顾客要求",
+        "onboard_time": 1762264822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86495,
+        "num": 86495,
+        "word": "利物浦1比0皇马",
+        "onboard_time": 1762298538,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83620,
+        "num": 83620,
+        "word": "满蒙八旗不及华妃凤仪万千",
+        "onboard_time": 1762252702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77396,
+        "num": 77396,
+        "word": "武汉街头出现一架大飞机",
+        "onboard_time": 1762299199,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75081,
+        "num": 75081,
+        "word": "山航空乘穿上小毛衣了",
+        "onboard_time": 1762254262,
+        "rank": 27,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 73431,
+        "num": 73431,
+        "word": "35岁后的就业方向",
+        "onboard_time": 1762267162,
+        "rank": 28,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 48145,
+        "num": 72271,
+        "word": "吴京晒流浪地球3片场照片",
+        "onboard_time": 1762270639,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77863,
+        "num": 72171,
+        "word": "巴黎圣日耳曼1比2拜仁",
+        "onboard_time": 1762299259,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71833,
+        "num": 71833,
+        "word": "程序员被裁后卖卤肉饭10元一盒",
+        "onboard_time": 1762269081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47265,
+        "num": 69254,
+        "word": "王权富贵再次燃命",
+        "onboard_time": 1762277176,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68842,
+        "num": 68842,
+        "word": "金价突涨水贝商家遭大量退单",
+        "onboard_time": 1762299440,
+        "rank": 33,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 67638,
+        "num": 67638,
+        "word": "法国废弃公园虎鲸母子或面临安乐死",
+        "onboard_time": 1762258462,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67433,
+        "num": 67433,
+        "word": "布瑞吉所有不动产都写的胡佳名字",
+        "onboard_time": 1762266382,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58693,
+        "num": 58693,
+        "word": "孙颖莎所有幸福都稳稳接住",
+        "onboard_time": 1762274897,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55855,
+        "num": 55855,
+        "word": "樊振东怎么瘦这么多",
+        "onboard_time": 1762258281,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54967,
+        "num": 54967,
+        "word": "吴磊今年已与两家游戏解约",
+        "onboard_time": 1762262483,
+        "rank": 38,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 54164,
+        "num": 54164,
+        "word": "网传快乐家族回归好六",
+        "onboard_time": 1762262303,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53442,
+        "num": 53442,
+        "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+        "onboard_time": 1762260022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52771,
+        "num": 52771,
+        "word": "第十八届文华奖获奖名单",
+        "onboard_time": 1762265062,
+        "rank": 41,
+        "category": "读书作家,剧集"
+      },
+      {
+        "raw_hot": 48942,
+        "num": 48942,
+        "word": "惠英红蒋欣胡杏儿好权威的三张脸",
+        "onboard_time": 1762255700,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48638,
+        "num": 48638,
+        "word": "推妻入海骗保男子已被执行死刑",
+        "onboard_time": 1762253781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 47382,
+        "word": "JackeyLove致歉",
+        "onboard_time": 1762259600,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43022,
+        "num": 47297,
+        "word": "何意味",
+        "onboard_time": 1762299259,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40641,
+        "num": 46932,
+        "word": "你一定要相信人生真的会突然变好的",
+        "onboard_time": 1762267941,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40456,
+        "num": 46884,
+        "word": "演员狗狗大黄上台领奖",
+        "onboard_time": 1762274177,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40410,
+        "num": 46569,
+        "word": "南京大屠杀遇难同胞纪念馆闭馆通告",
+        "onboard_time": 1762282334,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39725,
+        "num": 46373,
+        "word": "吴镇宇刷老年卡被质疑",
+        "onboard_time": 1762299499,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒回顾习近平韩国之行#"
+    }
+  }
+}
