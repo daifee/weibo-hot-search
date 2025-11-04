@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 01:40:42
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 02:37:54
 </p>
 </blockquote>
 <p>
@@ -8199,6 +8199,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%9B%B4%E6%88%90%E7%86%9F%E7%9A%84%E5%B0%8F%E9%AC%BC%23" target="weibo">
+王橹杰今年是更成熟的小鬼（热度：23884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E6%98%AF%E4%B8%80%E5%9C%BA%E7%9B%9B%E5%A4%A7%E7%9A%84%E6%B1%9F%E6%B9%96%E6%82%B2%E6%AD%8C%23" target="weibo">
 暗河传是一场盛大的江湖悲歌（热度：23318）
 </a>
@@ -8327,6 +8333,12 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%82%A8%E6%88%B7%E6%8D%9F%E5%A4%B1%E5%8D%83%E4%B8%87%E6%9C%AC%E9%87%91%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%AE%BE%E8%B0%83%E6%9F%A5%E7%BB%84%23" target="weibo">
 银行储户损失千万本金事件已设调查组（热度：15327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8E%9F%E5%A3%B0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E5%8A%9B%E9%87%8F%E6%84%9F%23" target="weibo">
+丁禹兮原声真的很有力量感（热度：14753）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762278042161,
+  "endTime": 1762281474760,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23884,
+      "num": 28363,
+      "word": "王橹杰今年是更成熟的小鬼",
+      "onboard_time": 1762278915,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23620,
       "num": 71072,
       "word": "广东男篮vs山东男篮",
@@ -465,6 +473,14 @@
       "onboard_time": 1762275138,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14753,
+      "num": 28192,
+      "word": "丁禹兮原声真的很有力量感",
+      "onboard_time": 1762280475,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

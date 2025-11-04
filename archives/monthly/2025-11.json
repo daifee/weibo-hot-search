@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762278042161,
+  "endTime": 1762281474760,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14539,6 +14539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23884,
+      "num": 28363,
+      "word": "王橹杰今年是更成熟的小鬼",
+      "onboard_time": 1762278915,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23482,
       "num": 117264,
       "word": "蓉城提前一轮无缘争冠",
@@ -14785,6 +14793,14 @@
       "onboard_time": 1762180822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14753,
+      "num": 28192,
+      "word": "丁禹兮原声真的很有力量感",
+      "onboard_time": 1762280475,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 14555,
