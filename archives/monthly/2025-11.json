@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762226180306,
+  "endTime": 1762227163601,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797030,
+      "num": 194443,
+      "word": "北京一副区长停电动车竟遭三连拒",
+      "onboard_time": 1762225880,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 789045,
       "num": 328294,
       "word": "符龙飞 双爹带娃的一天",
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 725141,
+      "num": 1116022,
+      "word": "南京大学通报食堂卖999元帝王蟹",
+      "onboard_time": 1762223599,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 714663,
       "num": 1114346,
       "word": "亲属想侵吞3姐妹亡父赔偿款",
@@ -489,14 +505,6 @@
       "onboard_time": 1762083621,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 694360,
-      "num": 1111097,
-      "word": "南京大学通报食堂卖999元帝王蟹",
-      "onboard_time": 1762223599,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 692247,
@@ -607,6 +615,14 @@
       "num": 654815,
       "word": "将门毒后 王鹤棣孟子义",
       "onboard_time": 1761919463,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 651258,
+      "num": 651258,
+      "word": "四喜定档",
+      "onboard_time": 1762224140,
       "rank": 1,
       "category": "剧集"
     },
@@ -873,14 +889,6 @@
       "onboard_time": 1762163843,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 555702,
-      "num": 555702,
-      "word": "四喜定档",
-      "onboard_time": 1762224140,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 555006,
@@ -1763,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322059,
-      "num": 194443,
-      "word": "北京一副区长停电动车竟遭三连拒",
-      "onboard_time": 1762225880,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321450,
       "num": 504240,
       "word": "佛山一私房菜馆被曝宰杀活猫",
@@ -2315,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256911,
+      "num": 184109,
+      "word": "讨好型人格走路",
+      "onboard_time": 1762226180,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -2348,7 +2356,7 @@
     },
     {
       "raw_hot": 253021,
-      "num": 253021,
+      "num": 372840,
       "word": "中国航天员太空烤鸡翅",
       "onboard_time": 1762179982,
       "rank": 37,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215243,
+      "num": 195697,
+      "word": "山神异闻录开播",
+      "onboard_time": 1762225461,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 214672,
@@ -3160,14 +3176,6 @@
       "word": "唐嫣新剧编剧秦雯",
       "onboard_time": 1762218680,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195697,
-      "num": 195697,
-      "word": "山神异闻录开播",
-      "onboard_time": 1762225461,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -3939,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164546,
+      "num": 164546,
+      "word": "欧豪把6个角色的名字挂在衣服上",
+      "onboard_time": 1762226301,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164250,
       "num": 133226,
       "word": "经常视奸自己的朋友圈",
@@ -4651,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146847,
+      "num": 146847,
+      "word": "用iPhone前vs用iPhone后",
+      "onboard_time": 1762226301,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146458,
       "num": 146458,
       "word": "全红婵携新搭档王伟莹出战10米跳台",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1762096822,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "刘宇宁王以纶候场热聊",
+      "onboard_time": 1762226542,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 141446,
@@ -6283,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115640,
+      "num": 115640,
+      "word": "孙颖莎女孩与王冠",
+      "onboard_time": 1762226961,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115622,
       "num": 174010,
       "word": "郭宇欣回应盛夏芬德拉爆火",
@@ -6395,6 +6435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113063,
+      "num": 193128,
+      "word": "京东拍卖巴掌大野生黑松露",
+      "onboard_time": 1762225399,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112921,
       "num": 149481,
       "word": "天地剑心世上再无兵人",
@@ -6457,6 +6505,14 @@
       "onboard_time": 1762052840,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112311,
+      "num": 112311,
+      "word": "迪丽热巴卫蓝白裙路透",
+      "onboard_time": 1762226900,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 112033,
@@ -6537,6 +6593,14 @@
       "onboard_time": 1761959840,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110947,
+      "num": 113948,
+      "word": "副县级干部退休的他工资卡余额38元",
+      "onboard_time": 1762225819,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 110943,
@@ -6633,6 +6697,14 @@
       "onboard_time": 1762172602,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109164,
+      "num": 112319,
+      "word": "3天后立冬",
+      "onboard_time": 1762215680,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108928,
@@ -7123,6 +7195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103545,
+      "num": 103545,
+      "word": "建议不要用酒店的沐浴露",
+      "onboard_time": 1762226422,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 103445,
       "num": 147329,
       "word": "竹林七贤荣启期跨700年砖墙同框",
@@ -7297,14 +7377,6 @@
       "onboard_time": 1762095323,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102035,
-      "num": 102035,
-      "word": "3天后立冬",
-      "onboard_time": 1762215680,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101906,
@@ -7667,6 +7739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98331,
+      "num": 109895,
+      "word": "上海一夜店可现场登记结婚",
+      "onboard_time": 1762226360,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98302,
       "num": 98302,
       "word": "黄金征税部分商家火速下架金条",
@@ -7777,6 +7857,14 @@
       "onboard_time": 1761971841,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97542,
+      "num": 97542,
+      "word": "字母哥绝杀步行者",
+      "onboard_time": 1762227080,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97345,
@@ -8297,6 +8385,14 @@
       "onboard_time": 1762013781,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91631,
+      "num": 193532,
+      "word": "湖人vs开拓者",
+      "onboard_time": 1762225760,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 91539,
@@ -9307,14 +9403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81186,
-      "num": 193128,
-      "word": "京东拍卖巴掌大野生黑松露",
-      "onboard_time": 1762225399,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 81165,
       "num": 81165,
       "word": "杨瀚森与偶像约基奇同框了",
@@ -9401,14 +9489,6 @@
       "onboard_time": 1762059620,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79874,
-      "num": 193532,
-      "word": "湖人vs开拓者",
-      "onboard_time": 1762225760,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 79766,
@@ -10371,6 +10451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63043,
+      "num": 112300,
+      "word": "俄罗斯飞行员来中国成箱采购啤酒",
+      "onboard_time": 1762225760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62740,
       "num": 203806,
       "word": "一汽大众批发式送车100台",
@@ -10891,6 +10979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45176,
+      "num": 109646,
+      "word": "凶手拍下女护士视频威胁分手就发上网",
+      "onboard_time": 1762227080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44784,
       "num": 64376,
       "word": "韩东君昨天冠军今天又冠军",
@@ -11017,14 +11113,6 @@
       "onboard_time": 1762188078,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41654,
-      "num": 113948,
-      "word": "副县级干部退休的他工资卡余额38元",
-      "onboard_time": 1762225819,
-      "rank": 38,
-      "category": "正能量"
     },
     {
       "raw_hot": 41167,
@@ -11473,14 +11561,6 @@
       "onboard_time": 1761996801,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29113,
-      "num": 112300,
-      "word": "俄罗斯飞行员来中国成箱采购啤酒",
-      "onboard_time": 1762225760,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29006,
@@ -11961,6 +12041,14 @@
       "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8193,
+      "num": 185917,
+      "word": "进博会时光",
+      "onboard_time": 1762226900,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8085,

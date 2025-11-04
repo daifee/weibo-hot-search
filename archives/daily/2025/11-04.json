@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762226180306,
+  "endTime": 1762227163601,
   "band_list": [
     {
       "raw_hot": 999141,
@@ -11,12 +11,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 694360,
-      "num": 1111097,
+      "raw_hot": 797030,
+      "num": 194443,
+      "word": "北京一副区长停电动车竟遭三连拒",
+      "onboard_time": 1762225880,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725141,
+      "num": 1116022,
       "word": "南京大学通报食堂卖999元帝王蟹",
       "onboard_time": 1762223599,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 651258,
+      "num": 651258,
+      "word": "四喜定档",
+      "onboard_time": 1762224140,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 638195,
@@ -73,14 +89,6 @@
       "onboard_time": 1762182441,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555702,
-      "num": 555702,
-      "word": "四喜定档",
-      "onboard_time": 1762224140,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 546802,
@@ -155,14 +163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 322059,
-      "num": 194443,
-      "word": "北京一副区长停电动车竟遭三连拒",
-      "onboard_time": 1762225880,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282658,
       "num": 193089,
       "word": "为什么方圆脸要多尝试半框眼镜",
@@ -193,6 +193,14 @@
       "onboard_time": 1762171641,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256911,
+      "num": 184109,
+      "word": "讨好型人格走路",
+      "onboard_time": 1762226180,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 255091,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215243,
+      "num": 195697,
+      "word": "山神异闻录开播",
+      "onboard_time": 1762225461,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211430,
       "num": 113434,
       "word": "白百何 还能这么操作",
@@ -256,14 +272,6 @@
       "word": "唐嫣新剧编剧秦雯",
       "onboard_time": 1762218680,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195697,
-      "num": 195697,
-      "word": "山神异闻录开播",
-      "onboard_time": 1762225461,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164546,
+      "num": 164546,
+      "word": "欧豪把6个角色的名字挂在衣服上",
+      "onboard_time": 1762226301,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163819,
       "num": 163819,
       "word": "孙铭阳卡点为孙颖莎庆生",
@@ -379,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146847,
+      "num": 146847,
+      "word": "用iPhone前vs用iPhone后",
+      "onboard_time": 1762226301,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144376,
       "num": 144376,
       "word": "孙颖莎25岁首场大赛是全运会",
@@ -388,11 +412,19 @@
     },
     {
       "raw_hot": 143491,
-      "num": 143491,
+      "num": 372840,
       "word": "中国航天员太空烤鸡翅",
       "onboard_time": 1762179982,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "刘宇宁王以纶候场热聊",
+      "onboard_time": 1762226542,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 138059,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115640,
+      "num": 115640,
+      "word": "孙颖莎女孩与王冠",
+      "onboard_time": 1762226961,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115472,
       "num": 115472,
       "word": "终于学会羽绒服的搭配技巧了",
@@ -515,12 +555,52 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 113063,
+      "num": 193128,
+      "word": "京东拍卖巴掌大野生黑松露",
+      "onboard_time": 1762225399,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 112311,
+      "num": 112311,
+      "word": "迪丽热巴卫蓝白裙路透",
+      "onboard_time": 1762226900,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110947,
+      "num": 113948,
+      "word": "副县级干部退休的他工资卡余额38元",
+      "onboard_time": 1762225819,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110026,
       "num": 110026,
       "word": "特朗普70分钟采访提及中国41次",
       "onboard_time": 1762173982,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109164,
+      "num": 112319,
+      "word": "3天后立冬",
+      "onboard_time": 1762215680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108310,
+      "num": 108310,
+      "word": "西西域来了一位貌美之人",
+      "onboard_time": 1762224440,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 107681,
@@ -547,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103545,
+      "num": 103545,
+      "word": "建议不要用酒店的沐浴露",
+      "onboard_time": 1762226422,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "Faker紧急教学oner",
@@ -561,14 +649,6 @@
       "onboard_time": 1762222161,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102035,
-      "num": 102035,
-      "word": "3天后立冬",
-      "onboard_time": 1762215680,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101944,
@@ -595,20 +675,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98331,
+      "num": 109895,
+      "word": "上海一夜店可现场登记结婚",
+      "onboard_time": 1762226360,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97542,
+      "num": 97542,
+      "word": "字母哥绝杀步行者",
+      "onboard_time": 1762227080,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97264,
       "num": 88793,
       "word": "莱巴金娜2比1斯瓦泰克",
       "onboard_time": 1762187719,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96109,
-      "num": 96109,
-      "word": "西西域来了一位貌美之人",
-      "onboard_time": 1762224440,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 95747,
@@ -625,6 +713,14 @@
       "onboard_time": 1762185501,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91631,
+      "num": 193532,
+      "word": "湖人vs开拓者",
+      "onboard_time": 1762225760,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 91163,
@@ -699,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81186,
-      "num": 193128,
-      "word": "京东拍卖巴掌大野生黑松露",
-      "onboard_time": 1762225399,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 80830,
       "num": 80830,
       "word": "网友质疑山姆商品信息打码展示",
@@ -721,14 +809,6 @@
       "onboard_time": 1762183403,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79874,
-      "num": 193532,
-      "word": "湖人vs开拓者",
-      "onboard_time": 1762225760,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 77624,
@@ -835,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63043,
+      "num": 112300,
+      "word": "俄罗斯飞行员来中国成箱采购啤酒",
+      "onboard_time": 1762225760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62871,
       "num": 97632,
       "word": "李现要准备双份份子钱了",
@@ -939,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45176,
+      "num": 109646,
+      "word": "凶手拍下女护士视频威胁分手就发上网",
+      "onboard_time": 1762227080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43511,
       "num": 52219,
       "word": "人民海军居里夫人式女杰萨本茂逝世",
@@ -977,14 +1073,6 @@
       "onboard_time": 1762188078,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41654,
-      "num": 113948,
-      "word": "副县级干部退休的他工资卡余额38元",
-      "onboard_time": 1762225819,
-      "rank": 38,
-      "category": "正能量"
     },
     {
       "raw_hot": 40765,
@@ -1083,14 +1171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 29113,
-      "num": 112300,
-      "word": "俄罗斯飞行员来中国成箱采购啤酒",
-      "onboard_time": 1762225760,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27475,
       "num": 50959,
       "word": "凤凰台上",
@@ -1139,6 +1219,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 8193,
+      "num": 185917,
+      "word": "进博会时光",
+      "onboard_time": 1762226900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3981,
       "num": 550959,
       "word": "中国体育名场面感动了一遍又一遍",
@@ -1150,6 +1238,9 @@
   "hotgov_list": [
     {
       "word": "#习主席韩国之行#"
+    },
+    {
+      "word": "#三组关键词看习近平韩国之行#"
     }
   ]
 }
