@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762267551691,
+  "endTime": 1762270211840,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -307,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 443451,
+      "num": 443451,
+      "word": "赵丽颖新剧一种气血很足的美",
+      "onboard_time": 1762268360,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440968,
       "num": 379567,
       "word": "献血400ml没事失血400ml很危险",
@@ -401,6 +409,14 @@
       "onboard_time": 1762184899,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366774,
+      "num": 180768,
+      "word": "原来肖战19年就有晋江式演技了",
+      "onboard_time": 1762268662,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 366416,
@@ -555,6 +571,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 279776,
+      "num": 179341,
+      "word": "黄胜利致歉",
+      "onboard_time": 1762266923,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278539,
       "num": 278539,
       "word": "秦岚新剧造型",
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225467,
+      "num": 189632,
+      "word": "迪丽热巴18秒超强压迫感",
+      "onboard_time": 1762265782,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -713,14 +745,6 @@
       "onboard_time": 1762189217,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214754,
-      "num": 189632,
-      "word": "迪丽热巴18秒超强压迫感",
-      "onboard_time": 1762265782,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 211430,
@@ -835,20 +859,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191018,
-      "num": 177845,
-      "word": "黄胜利致歉",
-      "onboard_time": 1762266923,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "彭小苒白开水妆",
       "onboard_time": 1762234041,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187595,
+      "num": 174394,
+      "word": "黄金",
+      "onboard_time": 1762269262,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 186796,
@@ -923,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176449,
+      "num": 176449,
+      "word": "范趣町致歉声明",
+      "onboard_time": 1762269440,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176251,
       "num": 170511,
       "word": "患癌男子8万救命钱全打赏主播",
@@ -993,6 +1025,14 @@
       "onboard_time": 1762260442,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171908,
+      "num": 171908,
+      "word": "35岁后的就业方向",
+      "onboard_time": 1762267162,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 171539,
@@ -1080,6 +1120,14 @@
       "word": "迪丽热巴卫蓝白裙路透",
       "onboard_time": 1762226900,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162187,
+      "num": 184559,
+      "word": "龚俊直播",
+      "onboard_time": 1762268002,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -1355,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138373,
+      "num": 138373,
+      "word": "咖啡店员小票写满红字回怼顾客要求",
+      "onboard_time": 1762264822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138253,
       "num": 150888,
       "word": "谁懂央视力挺二次元的含金量",
@@ -1595,14 +1651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 124276,
-      "num": 124276,
-      "word": "咖啡店员小票写满红字回怼顾客要求",
-      "onboard_time": 1762264822,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123183,
       "num": 123183,
       "word": "彩礼背后真正的意义",
@@ -1835,6 +1883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 115318,
+      "num": 115318,
+      "word": "罗云熙再现老钱风的笑",
+      "onboard_time": 1762269561,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114168,
       "num": 114168,
       "word": "宋亚轩人前脆爷人后男模",
@@ -1931,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112281,
+      "num": 112281,
+      "word": "史上最相似夫妻称刚认识时并不像",
+      "onboard_time": 1762269201,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112232,
       "num": 112232,
       "word": "孙颖莎本赛季胜率百分之94",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1762225819,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110793,
+      "num": 110793,
+      "word": "金价",
+      "onboard_time": 1762269381,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 110688,
@@ -2049,6 +2121,14 @@
       "onboard_time": 1762224440,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107972,
+      "num": 107972,
+      "word": "多名韩国男性在菲律宾非婚生子失联",
+      "onboard_time": 1762269681,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107824,
@@ -2579,6 +2659,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 92474,
+      "num": 115500,
+      "word": "S7主题曲原唱到成都了",
+      "onboard_time": 1762267462,
+      "rank": 45,
+      "category": "音乐,电竞"
+    },
+    {
       "raw_hot": 91983,
       "num": 91983,
       "word": "刘宇宁感谢粉丝二创",
@@ -2627,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90868,
+      "num": 90868,
+      "word": "程序员被裁后卖卤肉饭10元一盒",
+      "onboard_time": 1762269081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90587,
       "num": 90587,
       "word": "网购售后理赔成刷单陷阱",
@@ -2643,20 +2739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89820,
+      "num": 89820,
+      "word": "你一定要相信人生真的会突然变好的",
+      "onboard_time": 1762267941,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89100,
       "num": 89100,
       "word": "全红婵每天冰敷再起跳",
       "onboard_time": 1762227980,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88558,
-      "num": 88558,
-      "word": "S7主题曲原唱到成都了",
-      "onboard_time": 1762267462,
-      "rank": 45,
-      "category": "音乐,电竞"
     },
     {
       "raw_hot": 88234,
@@ -2705,14 +2801,6 @@
       "onboard_time": 1762221200,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86855,
-      "num": 86855,
-      "word": "35岁后的就业方向",
-      "onboard_time": 1762267162,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 86418,
@@ -2779,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84952,
+      "num": 84952,
+      "word": "苏新皓上舞蹈课vlog",
+      "onboard_time": 1762268901,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84905,
       "num": 84905,
       "word": "金饰价格跌回1187元",
@@ -2817,6 +2913,14 @@
       "onboard_time": 1762250180,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83261,
+      "num": 115349,
+      "word": "孙颖莎球迷现场大喊生日快乐",
+      "onboard_time": 1762264402,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 83134,
@@ -2921,6 +3025,14 @@
       "onboard_time": 1762246099,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80381,
+      "num": 80381,
+      "word": "东莞离婚无可预约时段系号源紧张",
+      "onboard_time": 1762265841,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80110,
@@ -3051,14 +3163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76694,
-      "num": 101176,
-      "word": "孙颖莎球迷现场大喊生日快乐",
-      "onboard_time": 1762264402,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76458,
       "num": 76458,
       "word": "女子做美甲5年服务4万顾客获15万奖金",
@@ -3088,6 +3192,14 @@
       "word": "340斤男生展示8块腹肌走红",
       "onboard_time": 1762182203,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73272,
+      "num": 115325,
+      "word": "杨国福外卖素菜每斤高达35.8元",
+      "onboard_time": 1762269622,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3153,6 +3265,14 @@
       "onboard_time": 1762232423,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66789,
+      "num": 71039,
+      "word": "广东男篮vs山东男篮",
+      "onboard_time": 1762269140,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 66607,
@@ -3643,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34040,
+      "num": 443669,
+      "word": "中国机遇是因为中国的确定性",
+      "onboard_time": 1762262182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33832,
       "num": 50982,
       "word": "美股三大指数集体拉升",
@@ -3769,14 +3897,6 @@
       "onboard_time": 1762238060,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24443,
-      "num": 411450,
-      "word": "中国机遇是因为中国的确定性",
-      "onboard_time": 1762262182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21395,
