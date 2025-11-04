@@ -1,0 +1,410 @@
+{
+  "runTime": 1762242054789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629599,
+        "num": 1100735,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 408483,
+        "num": 408483,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20147,
+        "num": 307845,
+        "word": "进博会时光",
+        "onboard_time": 1762226900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259916,
+        "num": 259916,
+        "word": "山姆改回实拍图",
+        "onboard_time": 1762235960,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218037,
+        "num": 218037,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145418,
+        "num": 215812,
+        "word": "孙颖莎20岁到25岁的变化",
+        "onboard_time": 1762240580,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126046,
+        "num": 212374,
+        "word": "饿了么骑手新工服 赛车服",
+        "onboard_time": 1762240100,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111320,
+        "num": 208052,
+        "word": "龚俊告别花儿与少年vlog",
+        "onboard_time": 1762237761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101286,
+        "num": 205348,
+        "word": "1个剧组13座奖杯",
+        "onboard_time": 1762239201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 203373,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1113240,
+        "num": 197907,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504057,
+        "num": 195699,
+        "word": "真的建议检查一下爸妈的手机",
+        "onboard_time": 1762239261,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 355317,
+        "num": 191386,
+        "word": "女孩发视频称父亲看其洗澡警方介入",
+        "onboard_time": 1762241541,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228531,
+        "num": 188252,
+        "word": "没有班味的工位长这样",
+        "onboard_time": 1762235181,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185729,
+        "num": 185729,
+        "word": "张婧仪 我头很大",
+        "onboard_time": 1762239079,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914377,
+        "num": 180160,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167979,
+        "num": 167979,
+        "word": "曝香港导演刘家良墓被盗",
+        "onboard_time": 1762234940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150796,
+        "num": 150796,
+        "word": "谢霆锋记丁真的仇记四年",
+        "onboard_time": 1762233920,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54507,
+        "num": 150400,
+        "word": "自驾西藏的easy模式",
+        "onboard_time": 1762241600,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37364,
+        "num": 150003,
+        "word": "京东白酒88折",
+        "onboard_time": 1762239920,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213188,
+        "num": 149915,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154784,
+        "num": 149338,
+        "word": "孟子义3秒消失术",
+        "onboard_time": 1762240821,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149077,
+        "num": 149077,
+        "word": "满清野史",
+        "onboard_time": 1762240459,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 144759,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131726,
+        "num": 131726,
+        "word": "管泽元谈oner蒙多是现学的",
+        "onboard_time": 1762239440,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 115005,
+        "word": "光与夜之恋 查理苏换配音",
+        "onboard_time": 1762231162,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114307,
+        "num": 114307,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112232,
+        "num": 112232,
+        "word": "孙颖莎本赛季胜率百分之94",
+        "onboard_time": 1762241299,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "马思纯写给自己的信",
+        "onboard_time": 1762239742,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117798,
+        "num": 107697,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1762240400,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110967,
+        "num": 107629,
+        "word": "张艺凡戚薇毯子还能塞下一个我吗",
+        "onboard_time": 1762240641,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107116,
+        "num": 107116,
+        "word": "窦骁戴婚戒参加活动",
+        "onboard_time": 1762241661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105115,
+        "num": 105115,
+        "word": "卜凡直播被贴脸开大",
+        "onboard_time": 1762240280,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92069,
+        "num": 103492,
+        "word": "谢娜回应何炅谢娜同台主持",
+        "onboard_time": 1762240700,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102775,
+        "num": 102775,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102556,
+        "num": 102556,
+        "word": "桃黑黑的父母也不是泛泛之辈",
+        "onboard_time": 1762240160,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 90912,
+        "num": 98277,
+        "word": "孙颖莎全运会出发",
+        "onboard_time": 1762241721,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98266,
+        "num": 98266,
+        "word": "姚晨 经济上行的美",
+        "onboard_time": 1762241481,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96737,
+        "num": 96737,
+        "word": "徐冬冬提起爱过的人尹子维转身就走",
+        "onboard_time": 1762237040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94841,
+        "num": 94841,
+        "word": "拔车钥匙人员为当值副校长",
+        "onboard_time": 1762238119,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 89685,
+        "num": 89685,
+        "word": "姜妍做饭是有什么KPI吗",
+        "onboard_time": 1762232840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89665,
+        "num": 89665,
+        "word": "男子修水管时血管爆管心脏几乎空转",
+        "onboard_time": 1762241840,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88237,
+        "num": 88237,
+        "word": "Faker当保安看监控也能赚不少钱",
+        "onboard_time": 1762236800,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85965,
+        "num": 85965,
+        "word": "刘亦菲VOGUE造型试了20多套礼服",
+        "onboard_time": 1762241961,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81628,
+        "num": 81628,
+        "word": "中学再通报学生买淀粉肠被拿钥匙",
+        "onboard_time": 1762233920,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 77510,
+        "num": 81579,
+        "word": "张艺凡 大馋丫头",
+        "onboard_time": 1762241000,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75645,
+        "num": 81288,
+        "word": "威少首发26分12板6助攻",
+        "onboard_time": 1762239500,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74902,
+        "num": 81054,
+        "word": "王伟莹跳水女子个人全能冠军",
+        "onboard_time": 1762237340,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72718,
+        "num": 80884,
+        "word": "杨幂童瑶蒋欣 三张权威的脸",
+        "onboard_time": 1762228640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}

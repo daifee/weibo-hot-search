@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762241217659,
+  "endTime": 1762242054789,
   "band_list": [
     {
       "raw_hot": 1645066,
@@ -17,6 +17,14 @@
       "onboard_time": 1762226180,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1113240,
+      "num": 197907,
+      "word": "白百何 王传君",
+      "onboard_time": 1762241541,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 999141,
@@ -147,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 482659,
-      "num": 172419,
+      "raw_hot": 504057,
+      "num": 195699,
       "word": "真的建议检查一下爸妈的手机",
       "onboard_time": 1762239261,
       "rank": 11,
@@ -259,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355317,
+      "num": 191386,
+      "word": "女孩发视频称父亲看其洗澡警方介入",
+      "onboard_time": 1762241541,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333432,
       "num": 194564,
       "word": "用芥末泡虾虾线都快吐出来了",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 263631,
-      "num": 173848,
+      "num": 188252,
       "word": "没有班味的工位长这样",
       "onboard_time": 1762235181,
       "rank": 16,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 191072,
-      "num": 191072,
+      "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
       "onboard_time": 1762237761,
       "rank": 5,
@@ -497,6 +513,14 @@
       "onboard_time": 1762234041,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185729,
+      "num": 185729,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 184490,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 173039,
-      "num": 173039,
+      "num": 212374,
       "word": "饿了么骑手新工服 赛车服",
       "onboard_time": 1762240100,
       "rank": 6,
@@ -553,14 +577,6 @@
       "onboard_time": 1762227920,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 171654,
-      "num": 171654,
-      "word": "张婧仪 我头很大",
-      "onboard_time": 1762239079,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 169536,
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154784,
+      "num": 149338,
+      "word": "孟子义3秒消失术",
+      "onboard_time": 1762240821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154243,
       "num": 154243,
       "word": "为什么一到冬天你就突然变好看了",
@@ -683,12 +707,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149077,
+      "num": 149077,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145950,
       "num": 118575,
       "word": "剑网3瑶台仙梦",
       "onboard_time": 1762230021,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145418,
+      "num": 215812,
+      "word": "孙颖莎20岁到25岁的变化",
+      "onboard_time": 1762240580,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 144376,
@@ -787,14 +827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132858,
-      "num": 172850,
-      "word": "孙颖莎20岁到25岁的变化",
-      "onboard_time": 1762240580,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132750,
       "num": 109081,
       "word": "荷方继续一意孤行",
@@ -809,6 +841,14 @@
       "onboard_time": 1762204514,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131726,
+      "num": 131726,
+      "word": "管泽元谈oner蒙多是现学的",
+      "onboard_time": 1762239440,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 131101,
@@ -899,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123151,
-      "num": 123151,
-      "word": "管泽元谈oner蒙多是现学的",
-      "onboard_time": 1762239440,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121693,
       "num": 109212,
       "word": "武林外传世纪合体",
@@ -915,20 +947,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119886,
-      "num": 119886,
-      "word": "满清野史",
-      "onboard_time": 1762240459,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118487,
       "num": 118487,
       "word": "桃黑黑的父母也不是泛泛之辈",
       "onboard_time": 1762240160,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 117798,
+      "num": 107697,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 117728,
@@ -987,14 +1019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116452,
-      "num": 116452,
-      "word": "孟子义3秒消失术",
-      "onboard_time": 1762240821,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116081,
       "num": 116081,
       "word": "海底捞美甲冠军获15万奖金",
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 115516,
-      "num": 120048,
+      "num": 205348,
       "word": "1个剧组13座奖杯",
       "onboard_time": 1762239201,
       "rank": 27,
@@ -1080,6 +1104,22 @@
       "word": "疯狂好六夜艺人集体出走",
       "onboard_time": 1762227321,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112232,
+      "num": 112232,
+      "word": "孙颖莎本赛季胜率百分之94",
+      "onboard_time": 1762241299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110967,
+      "num": 107629,
+      "word": "张艺凡戚薇毯子还能塞下一个我吗",
+      "onboard_time": 1762240641,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1160,6 +1200,14 @@
       "word": "杨笠清空抖音",
       "onboard_time": 1762180162,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107116,
+      "num": 107116,
+      "word": "窦骁戴婚戒参加活动",
+      "onboard_time": 1762241661,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1275,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100858,
-      "num": 100858,
-      "word": "张艺凡戚薇毯子还能塞下一个我吗",
-      "onboard_time": 1762240641,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100579,
       "num": 114867,
       "word": "侯明昊的手机屏保是奥特曼",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1762240879,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "姚晨 经济上行的美",
+      "onboard_time": 1762241481,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 97542,
@@ -1427,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91375,
-      "num": 91375,
-      "word": "剪毁刘海意外成了人生发型",
-      "onboard_time": 1762240400,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 91163,
       "num": 98122,
       "word": "蒲熠星回应通告费",
@@ -1443,11 +1483,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90912,
+      "num": 98277,
+      "word": "孙颖莎全运会出发",
+      "onboard_time": 1762241721,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90587,
       "num": 90587,
       "word": "网购售后理赔成刷单陷阱",
       "onboard_time": 1762238179,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89665,
+      "num": 89665,
+      "word": "男子修水管时血管爆管心脏几乎空转",
+      "onboard_time": 1762241840,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1497,6 +1553,14 @@
       "onboard_time": 1762228521,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85965,
+      "num": 85965,
+      "word": "刘亦菲VOGUE造型试了20多套礼服",
+      "onboard_time": 1762241961,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 85927,
@@ -1604,7 +1668,7 @@
     },
     {
       "raw_hot": 79780,
-      "num": 79780,
+      "num": 81579,
       "word": "张艺凡 大馋丫头",
       "onboard_time": 1762241000,
       "rank": 47,
@@ -1851,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54507,
+      "num": 150400,
+      "word": "自驾西藏的easy模式",
+      "onboard_time": 1762241600,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54098,
       "num": 54098,
       "word": "特朗普吹牛遭记者尴尬打断",
@@ -1900,7 +1972,7 @@
     },
     {
       "raw_hot": 46909,
-      "num": 143403,
+      "num": 150003,
       "word": "京东白酒88折",
       "onboard_time": 1762239920,
       "rank": 19,

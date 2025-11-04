@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762241217659,
+  "endTime": 1762242054789,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -121,6 +121,14 @@
       "onboard_time": 1762226180,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1113240,
+      "num": 197907,
+      "word": "白百何 王传君",
+      "onboard_time": 1762241541,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1087235,
@@ -771,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504057,
+      "num": 195699,
+      "word": "真的建议检查一下爸妈的手机",
+      "onboard_time": 1762239261,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 501785,
       "num": 273242,
       "word": "肖战人不到奖照拿",
@@ -881,14 +897,6 @@
       "onboard_time": 1762084761,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 482659,
-      "num": 172419,
-      "word": "真的建议检查一下爸妈的手机",
-      "onboard_time": 1762239261,
-      "rank": 11,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 480550,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1762185081,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 355317,
+      "num": 191386,
+      "word": "女孩发视频称父亲看其洗澡警方介入",
+      "onboard_time": 1762241541,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353670,
@@ -1820,7 +1836,7 @@
     },
     {
       "raw_hot": 263631,
-      "num": 173848,
+      "num": 188252,
       "word": "没有班味的工位长这样",
       "onboard_time": 1762235181,
       "rank": 16,
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 191072,
-      "num": 191072,
+      "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
       "onboard_time": 1762237761,
       "rank": 5,
@@ -2593,6 +2609,14 @@
       "onboard_time": 1762146681,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185729,
+      "num": 185729,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 185510,
@@ -2788,7 +2812,7 @@
     },
     {
       "raw_hot": 173039,
-      "num": 173039,
+      "num": 212374,
       "word": "饿了么骑手新工服 赛车服",
       "onboard_time": 1762240100,
       "rank": 6,
@@ -2833,14 +2857,6 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171654,
-      "num": 171654,
-      "word": "张婧仪 我头很大",
-      "onboard_time": 1762239079,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 171460,
@@ -3267,6 +3283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154784,
+      "num": 149338,
+      "word": "孟子义3秒消失术",
+      "onboard_time": 1762240821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154294,
       "num": 154294,
       "word": "Faker说今天状态不太好",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1761999321,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149077,
+      "num": 149077,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 149037,
@@ -3473,6 +3505,14 @@
       "onboard_time": 1762171641,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145418,
+      "num": 215812,
+      "word": "孙颖莎20岁到25岁的变化",
+      "onboard_time": 1762240580,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 144594,
@@ -3875,14 +3915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132858,
-      "num": 172850,
-      "word": "孙颖莎20岁到25岁的变化",
-      "onboard_time": 1762240580,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132799,
       "num": 130125,
       "word": "成毅入选2025年亚太行业先锋领袖榜单",
@@ -3945,6 +3977,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131726,
+      "num": 131726,
+      "word": "管泽元谈oner蒙多是现学的",
+      "onboard_time": 1762239440,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 131614,
@@ -4331,14 +4371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123151,
-      "num": 123151,
-      "word": "管泽元谈oner蒙多是现学的",
-      "onboard_time": 1762239440,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123048,
       "num": 123048,
       "word": "小米YU7成国产新能源车保值率第一",
@@ -4459,14 +4491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119886,
-      "num": 119886,
-      "word": "满清野史",
-      "onboard_time": 1762240459,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119854,
       "num": 125089,
       "word": "为什么中产害怕山姆阿里化",
@@ -4545,6 +4569,14 @@
       "onboard_time": 1762142780,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117798,
+      "num": 107697,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 117654,
@@ -4627,14 +4659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116452,
-      "num": 116452,
-      "word": "孟子义3秒消失术",
-      "onboard_time": 1762240821,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116280,
       "num": 116280,
       "word": "A股",
@@ -4700,7 +4724,7 @@
     },
     {
       "raw_hot": 115516,
-      "num": 120048,
+      "num": 205348,
       "word": "1个剧组13座奖杯",
       "onboard_time": 1762239201,
       "rank": 27,
@@ -4915,6 +4939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112232,
+      "num": 112232,
+      "word": "孙颖莎本赛季胜率百分之94",
+      "onboard_time": 1762241299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111813,
       "num": 111813,
       "word": "肖战入选2025年亚太行业先锋领袖榜单",
@@ -4953,6 +4985,14 @@
       "onboard_time": 1762100900,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110967,
+      "num": 107629,
+      "word": "张艺凡戚薇毯子还能塞下一个我吗",
+      "onboard_time": 1762240641,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 110947,
@@ -5241,6 +5281,14 @@
       "onboard_time": 1762057401,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107116,
+      "num": 107116,
+      "word": "窦骁戴婚戒参加活动",
+      "onboard_time": 1762241661,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 107051,
@@ -5707,14 +5755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100858,
-      "num": 100858,
-      "word": "张艺凡戚薇毯子还能塞下一个我吗",
-      "onboard_time": 1762240641,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100614,
       "num": 106131,
       "word": "邓紫棋武汉演唱会",
@@ -5889,6 +5929,14 @@
       "onboard_time": 1762240879,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "姚晨 经济上行的美",
+      "onboard_time": 1762241481,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 98058,
@@ -6475,14 +6523,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 91375,
-      "num": 91375,
-      "word": "剪毁刘海意外成了人生发型",
-      "onboard_time": 1762240400,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -6520,6 +6560,14 @@
       "word": "樊振东的第1条微博",
       "onboard_time": 1762060700,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90912,
+      "num": 98277,
+      "word": "孙颖莎全运会出发",
+      "onboard_time": 1762241721,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -6601,6 +6649,14 @@
       "onboard_time": 1762166241,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89665,
+      "num": 89665,
+      "word": "男子修水管时血管爆管心脏几乎空转",
+      "onboard_time": 1762241840,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89646,
@@ -6953,6 +7009,14 @@
       "onboard_time": 1762228521,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85965,
+      "num": 85965,
+      "word": "刘亦菲VOGUE造型试了20多套礼服",
+      "onboard_time": 1762241961,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 85927,
@@ -7388,7 +7452,7 @@
     },
     {
       "raw_hot": 79780,
-      "num": 79780,
+      "num": 81579,
       "word": "张艺凡 大馋丫头",
       "onboard_time": 1762241000,
       "rank": 47,
@@ -8275,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54507,
+      "num": 150400,
+      "word": "自驾西藏的easy模式",
+      "onboard_time": 1762241600,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54498,
       "num": 208995,
       "word": "周一也有周一的开工仪式",
@@ -8420,7 +8492,7 @@
     },
     {
       "raw_hot": 46909,
-      "num": 143403,
+      "num": 150003,
       "word": "京东白酒88折",
       "onboard_time": 1762239920,
       "rank": 19,
