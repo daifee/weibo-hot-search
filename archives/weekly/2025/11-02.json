@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762221440258,
+  "endTime": 1762222762864,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 546802,
-      "num": 546802,
+      "num": 1085240,
       "word": "帝王蟹不应进入学校食堂",
       "onboard_time": 1762217482,
       "rank": 3,
@@ -1275,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 328817,
+      "num": 168516,
+      "word": "用芥末泡虾虾线都快吐出来了",
+      "onboard_time": 1762221081,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 324679,
       "num": 140285,
       "word": "朱珠情商太高了",
@@ -1715,6 +1723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249753,
+      "num": 166321,
+      "word": "原来月经期是女生最好的恢复期",
+      "onboard_time": 1762219640,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247988,
       "num": 145939,
       "word": "莲花楼里的土狗叫狐狸精",
@@ -1963,14 +1979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209890,
-      "num": 122885,
-      "word": "用芥末泡虾虾线都快吐出来了",
-      "onboard_time": 1762221081,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 209831,
       "num": 176760,
       "word": "鱼你有染",
@@ -2099,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201607,
+      "num": 189903,
+      "word": "许绍雄生忌女儿发文",
+      "onboard_time": 1762219640,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -2187,12 +2203,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 195502,
-      "num": 158981,
-      "word": "原来月经期是女生最好的恢复期",
-      "onboard_time": 1762219640,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 195716,
+      "num": 166900,
+      "word": "唐嫣新剧编剧秦雯",
+      "onboard_time": 1762218680,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 195128,
@@ -2289,14 +2305,6 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189903,
-      "num": 189903,
-      "word": "许绍雄生忌女儿发文",
-      "onboard_time": 1762219640,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 187740,
@@ -2425,14 +2433,6 @@
       "onboard_time": 1762083561,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178983,
-      "num": 158539,
-      "word": "唐嫣新剧编剧秦雯",
-      "onboard_time": 1762218680,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 178829,
@@ -2587,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169536,
+      "num": 193321,
+      "word": "境外间谍借兼职拉拢学生收集敏感数据",
+      "onboard_time": 1762214240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1762157662,
       "rank": 17,
       "category": "电竞,综艺"
+    },
+    {
+      "raw_hot": 166132,
+      "num": 166132,
+      "word": "男子杀人埋尸因坦白情节被判死缓",
+      "onboard_time": 1762221200,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166088,
@@ -3027,14 +3043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148279,
-      "num": 193321,
-      "word": "境外间谍借兼职拉拢学生收集敏感数据",
-      "onboard_time": 1762214240,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148278,
       "num": 132031,
       "word": "Tian说Faker又要夺冠了",
@@ -3305,6 +3313,14 @@
       "onboard_time": 1762094242,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135823,
+      "num": 135823,
+      "word": "369谈LPL与LCK差距",
+      "onboard_time": 1762221560,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 135740,
@@ -3579,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129249,
+      "num": 129249,
+      "word": "天地剑心王弘毅演技",
+      "onboard_time": 1762220420,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129184,
       "num": 129184,
       "word": "海南通报一干部工作时间打高尔夫",
@@ -3771,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123183,
+      "num": 123183,
+      "word": "彩礼背后真正的意义",
+      "onboard_time": 1762219280,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123048,
       "num": 123048,
       "word": "小米YU7成国产新能源车保值率第一",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1762053319,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118803,
+      "num": 118803,
+      "word": "光绪 DNA",
+      "onboard_time": 1762212859,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 118784,
@@ -4259,14 +4299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110692,
-      "num": 110692,
-      "word": "光绪 DNA",
-      "onboard_time": 1762212859,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110666,
       "num": 110666,
       "word": "减肥到底要瘦到什么程度才算合适",
@@ -4320,14 +4352,6 @@
       "word": "早睡简直就是人生作弊器",
       "onboard_time": 1762166961,
       "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 109520,
-      "num": 109520,
-      "word": "彩礼背后真正的意义",
-      "onboard_time": 1762219280,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -4441,14 +4465,6 @@
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107559,
-      "num": 128021,
-      "word": "天地剑心王弘毅演技",
-      "onboard_time": 1762220420,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 107538,
@@ -4755,6 +4771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102648,
+      "num": 102648,
+      "word": "晚餐可能直接影响第二天能不能掉秤",
+      "onboard_time": 1762222161,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102617,
       "num": 102617,
       "word": "全红婵三年跳了13个满分",
@@ -4907,6 +4931,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 100275,
+      "num": 100275,
+      "word": "印度空难幸存者饱受PTSD折磨",
+      "onboard_time": 1762221800,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100247,
       "num": 100247,
       "word": "张凌赫好认真在看自己的二创视频",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1762145662,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98512,
+      "num": 98512,
+      "word": "3天后立冬",
+      "onboard_time": 1762215680,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98504,
@@ -5331,14 +5371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93641,
-      "num": 93641,
-      "word": "男子杀人埋尸因坦白情节被判死缓",
-      "onboard_time": 1762221200,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -5627,14 +5659,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 89874,
-      "num": 89874,
-      "word": "3天后立冬",
-      "onboard_time": 1762215680,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89809,
       "num": 89809,
       "word": "山姆回应产品图更改",
@@ -5787,12 +5811,28 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 87686,
+      "num": 87686,
+      "word": "星巴克中国易主",
+      "onboard_time": 1762218380,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87514,
       "num": 87514,
       "word": "成毅这次完全是主人级别的",
       "onboard_time": 1762056079,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87267,
+      "num": 122241,
+      "word": "何炅 我想cue张凌赫",
+      "onboard_time": 1762217841,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 87242,
@@ -6001,14 +6041,6 @@
       "onboard_time": 1762044020,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85488,
-      "num": 85488,
-      "word": "何炅 我想cue张凌赫",
-      "onboard_time": 1762217841,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 85129,
@@ -6347,14 +6379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79723,
-      "num": 79723,
-      "word": "星巴克中国易主",
-      "onboard_time": 1762218380,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 79661,
       "num": 86329,
       "word": "全红婵3跳合集",
@@ -6507,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76927,
+      "num": 76927,
+      "word": "向涵之徐振轩红毯",
+      "onboard_time": 1762222460,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76842,
       "num": 156866,
       "word": "DRG对战狼队",
@@ -6553,6 +6585,14 @@
       "onboard_time": 1762148541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75889,
+      "num": 75889,
+      "word": "张艺兴KTV开超长4小时演唱会",
+      "onboard_time": 1762222521,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 75856,
@@ -6735,6 +6775,14 @@
       "num": 79713,
       "word": "道奇卫冕",
       "onboard_time": 1762058961,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70168,
+      "num": 70168,
+      "word": "WTT赞孙颖莎闪闪发光",
+      "onboard_time": 1762222700,
       "rank": 49,
       "category": "体育"
     },
