@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/04 18:31:30
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/04 18:47:55
 </p>
 </blockquote>
 <p>
@@ -959,6 +959,12 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%83%AD%E5%AE%87%E6%AC%A3%E5%90%8C%E6%A1%86%23" target="weibo">
 杨紫郭宇欣同框（热度：483470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23" target="weibo">
+星巴克中国卖掉了（热度：482389）
 </a>
 </li>
 
@@ -2847,6 +2853,12 @@ LPL（热度：187367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%AF%B4%E9%83%BD%E6%98%AF%E6%9C%8B%E5%8F%8B%E9%BB%84%E5%AE%97%E6%B3%BD%E9%99%A4%E5%A4%96%23" target="weibo">
+佘诗曼说都是朋友黄宗泽除外（热度：185479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%BA%E8%A1%8C%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
 三人行今日开播（热度：185363）
 </a>
@@ -2987,6 +2999,12 @@ B站拉黑指定用户 屏蔽开屏广告（热度：180219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%9C%E9%99%86%E6%B2%89%E5%85%A8%E7%9F%A5%E9%BB%98%E7%A4%BA%23" target="weibo">
 光夜陆沉全知默示（热度：177313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84Labubu%E6%98%AFD%23" target="weibo">
+樊振东的Labubu是D（热度：177252）
 </a>
 </li>
 
@@ -3359,12 +3377,6 @@ Ning为Tarzan鸣不平（热度：163004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8D%AB%E8%93%9D%E7%99%BD%E8%A3%99%E8%B7%AF%E9%80%8F%23" target="weibo">
 迪丽热巴卫蓝白裙路透（热度：162271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23" target="weibo">
-星巴克中国卖掉了（热度：162208）
 </a>
 </li>
 
@@ -4041,6 +4053,12 @@ TES落入绝境（热度：144450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9Acp%E5%A5%96%E7%BB%99%E4%BA%86%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E7%9A%84%E7%8B%97%23" target="weibo">
+视界大会cp奖给了向往的生活的狗（热度：141677）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E4%BB%A5%E7%BA%B6%E5%80%99%E5%9C%BA%E7%83%AD%E8%81%8A%23" target="weibo">
 刘宇宁王以纶候场热聊（热度：141665）
 </a>
@@ -4067,6 +4085,12 @@ TES落入绝境（热度：144450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%97%BB%E6%86%93%E5%B7%B2%E7%94%B3%E8%AF%B7%E6%94%BE%E5%BC%83%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8A%A4%E7%85%A7%23" target="weibo">
 江旻憓已申请放弃加拿大护照（热度：140635）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%8B%E4%BB%A3%E5%B0%B1%E6%B5%81%E8%A1%8C%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E4%BA%86%23" target="weibo">
+原来宋代就流行这些东西了（热度：140548）
 </a>
 </li>
 
@@ -4175,12 +4199,6 @@ Chovy再次止步四强（热度：138569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E5%A4%AE%E8%A7%86%E5%8A%9B%E6%8C%BA%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 谁懂央视力挺二次元的含金量（热度：138253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9Acp%E5%A5%96%E7%BB%99%E4%BA%86%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E7%9A%84%E7%8B%97%23" target="weibo">
-视界大会cp奖给了向往的生活的狗（热度：138162）
 </a>
 </li>
 
@@ -5625,6 +5643,12 @@ Doinb谈LPL和LCK夺冠区别（热度：110982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%BE%81%E7%A8%8E%E5%90%8E%E6%B0%B4%E8%B4%9D%E6%89%B9%E5%8F%91%E5%95%86%E4%B8%8D%E6%95%A2%E5%87%BA%E8%B4%A7%23" target="weibo">
+黄金征税后水贝批发商不敢出货（热度：110688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%88%B0%E5%BA%95%E8%A6%81%E7%98%A6%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E6%89%8D%E7%AE%97%E5%90%88%E9%80%82%23" target="weibo">
 减肥到底要瘦到什么程度才算合适（热度：110666）
 </a>
@@ -5987,30 +6011,6 @@ MLB美职棒大联盟（热度：106487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E5%8F%91%E5%8D%9A%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23" target="weibo">
 TES发博回应淘汰（热度：105394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%BF%E6%84%8F%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E7%9A%84%E5%8D%AB%E7%94%9F%E5%90%B9%E7%B3%96%E4%BA%BA%23" target="weibo">
-愿意给孩子买的卫生吹糖人（热度：105355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%AC%91%E5%88%B0%E4%B8%80%E5%8D%8A%E5%8F%91%E7%8E%B0%E8%BF%98%E5%9C%A8%E5%BD%95%E8%8A%82%E7%9B%AE%23" target="weibo">
-宋亚轩笑到一半发现还在录节目（热度：104875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%B3%B0%E9%9B%86%E5%9B%A2%E6%B6%A8%E5%81%9C%23" target="weibo">
-安泰集团涨停（热度：104780）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%A0%94%E7%A9%B6%E7%94%9F%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%82%B9%E7%81%AF%23" target="weibo">
-为研究生贺峻霖点灯（热度：104656）
 </a>
 </li>
 

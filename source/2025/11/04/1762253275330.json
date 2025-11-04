@@ -1,0 +1,410 @@
+{
+  "runTime": 1762253275330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8313144,
+        "num": 8313144,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482389,
+        "num": 482389,
+        "word": "星巴克中国卖掉了",
+        "onboard_time": 1762251381,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 27525,
+        "num": 348181,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291931,
+        "num": 291931,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 147661,
+        "num": 147661,
+        "word": "喜人成恋综了",
+        "onboard_time": 1762246341,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 147388,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145180,
+        "num": 145180,
+        "word": "B站回应拉黑指定用户屏蔽开屏广告",
+        "onboard_time": 1762250121,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141677,
+        "num": 141677,
+        "word": "视界大会cp奖给了向往的生活的狗",
+        "onboard_time": 1762249881,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109311,
+        "num": 141677,
+        "word": "AL在等一个不会来的人",
+        "onboard_time": 1762243340,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93397,
+        "num": 141585,
+        "word": "胡锡进认为南京大学售卖帝王蟹不妥",
+        "onboard_time": 1762250002,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731087,
+        "num": 141524,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460457,
+        "num": 141436,
+        "word": "小S二女儿谈具俊晔暴瘦",
+        "onboard_time": 1762246283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388389,
+        "num": 141334,
+        "word": "满清野史",
+        "onboard_time": 1762240459,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190501,
+        "num": 141283,
+        "word": "马思纯我很爱你",
+        "onboard_time": 1762245621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162381,
+        "num": 141199,
+        "word": "孙颖莎生日发博",
+        "onboard_time": 1762242321,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99966,
+        "num": 141126,
+        "word": "花少同心季 幸好有你们",
+        "onboard_time": 1762250481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151856,
+        "num": 141074,
+        "word": "缺乏维生素D 抑郁症状",
+        "onboard_time": 1762243402,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61163,
+        "num": 141005,
+        "word": "京东有自己的五常大米基地",
+        "onboard_time": 1762250721,
+        "rank": 17,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 66215,
+        "num": 140938,
+        "word": "水中贵族的含金量",
+        "onboard_time": 1762250661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31682,
+        "num": 140858,
+        "word": "山姆APP开始投放广告",
+        "onboard_time": 1762252521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89298,
+        "num": 140776,
+        "word": "2026年节假日安排",
+        "onboard_time": 1762247662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249793,
+        "num": 140713,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218595,
+        "num": 140682,
+        "word": "献血400ml没事失血400ml很危险",
+        "onboard_time": 1762246881,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185479,
+        "num": 140579,
+        "word": "佘诗曼说都是朋友黄宗泽除外",
+        "onboard_time": 1762252281,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140548,
+        "num": 140548,
+        "word": "原来宋代就流行这些东西了",
+        "onboard_time": 1762252822,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 124340,
+        "num": 124340,
+        "word": "Ning为TES发声",
+        "onboard_time": 1762250121,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121563,
+        "num": 121563,
+        "word": "狗狗因没人摸它都快委屈哭了",
+        "onboard_time": 1762250242,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120203,
+        "num": 120203,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110688,
+        "num": 110688,
+        "word": "黄金征税后水贝批发商不敢出货",
+        "onboard_time": 1762252762,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 111005,
+        "num": 107945,
+        "word": "祝绪丹造型师审美",
+        "onboard_time": 1762247360,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 107488,
+        "word": "樊振东的Labubu是D",
+        "onboard_time": 1762252882,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122267,
+        "num": 106802,
+        "word": "全红婵未报个人赛原因",
+        "onboard_time": 1762251561,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104066,
+        "num": 104066,
+        "word": "樊振东的FZD小巧思",
+        "onboard_time": 1762251802,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102157,
+        "num": 102157,
+        "word": "患癌男子8万救命钱全打赏主播",
+        "onboard_time": 1762245561,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100843,
+        "num": 100843,
+        "word": "JackeyLove谈身体伤病",
+        "onboard_time": 1762252941,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78377,
+        "num": 100438,
+        "word": "山河枕",
+        "onboard_time": 1762253182,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20453,
+        "num": 97288,
+        "word": "3亿建的体育馆使用不到2年就漏水",
+        "onboard_time": 1762252941,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35056,
+        "num": 96376,
+        "word": "作业帮被指用学生跳楼出题",
+        "onboard_time": 1762253121,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31029,
+        "num": 94564,
+        "word": "满蒙八旗不及华妃凤仪万千",
+        "onboard_time": 1762252702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90122,
+        "num": 91918,
+        "word": "谢娜晒照为李维嘉庆生",
+        "onboard_time": 1762252402,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91455,
+        "num": 91455,
+        "word": "金饰克价一夜猛跌69元",
+        "onboard_time": 1762244781,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90632,
+        "num": 90632,
+        "word": "孙颖莎生日蛋糕是超级玛丽",
+        "onboard_time": 1762242321,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87421,
+        "num": 87421,
+        "word": "全球股指杀跌",
+        "onboard_time": 1762252762,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 84400,
+        "word": "真的建议检查一下爸妈的手机",
+        "onboard_time": 1762239261,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 81541,
+        "num": 81541,
+        "word": "大学生花钱有自己的刀刃",
+        "onboard_time": 1762251501,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78185,
+        "num": 78185,
+        "word": "小猫世界的扫墓",
+        "onboard_time": 1762252521,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77386,
+        "num": 77386,
+        "word": "姿态谈T1换上单再进决赛",
+        "onboard_time": 1762247662,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77206,
+        "num": 77206,
+        "word": "范丞丞意大利街头小少爷",
+        "onboard_time": 1762253242,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53889,
+        "num": 76846,
+        "word": "17位单身男蹄花店被宰3万多",
+        "onboard_time": 1762252581,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65442,
+        "num": 76787,
+        "word": "孙乐言首次来offer",
+        "onboard_time": 1762246401,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}

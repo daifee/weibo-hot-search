@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762252290569,
+  "endTime": 1762253275330,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1762084761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482389,
+      "num": 482389,
+      "word": "星巴克中国卖掉了",
+      "onboard_time": 1762251381,
+      "rank": 15,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 480816,
@@ -3779,6 +3787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185479,
+      "num": 140579,
+      "word": "佘诗曼说都是朋友黄宗泽除外",
+      "onboard_time": 1762252281,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185363,
       "num": 231791,
       "word": "三人行今日开播",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1761961880,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177252,
+      "num": 107488,
+      "word": "樊振东的Labubu是D",
+      "onboard_time": 1762252882,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 176610,
@@ -4465,14 +4489,6 @@
       "onboard_time": 1762226900,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162208,
-      "num": 143234,
-      "word": "星巴克中国卖掉了",
-      "onboard_time": 1762251381,
-      "rank": 15,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 162130,
@@ -5252,7 +5268,7 @@
     },
     {
       "raw_hot": 145020,
-      "num": 102909,
+      "num": 106802,
       "word": "全红婵未报个人赛原因",
       "onboard_time": 1762251561,
       "rank": 30,
@@ -5371,6 +5387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141677,
+      "num": 141677,
+      "word": "视界大会cp奖给了向往的生活的狗",
+      "onboard_time": 1762249881,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141665,
       "num": 141665,
       "word": "刘宇宁王以纶候场热聊",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1762177223,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140548,
+      "num": 140548,
+      "word": "原来宋代就流行这些东西了",
+      "onboard_time": 1762252822,
+      "rank": 24,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 140440,
@@ -5552,14 +5584,6 @@
       "word": "谁懂央视力挺二次元的含金量",
       "onboard_time": 1762230801,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138162,
-      "num": 138162,
-      "word": "视界大会cp奖给了向往的生活的狗",
-      "onboard_time": 1762249881,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -6196,7 +6220,7 @@
     },
     {
       "raw_hot": 128208,
-      "num": 101484,
+      "num": 121563,
       "word": "狗狗因没人摸它都快委屈哭了",
       "onboard_time": 1762250242,
       "rank": 32,
@@ -7483,6 +7507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110688,
+      "num": 110688,
+      "word": "黄金征税后水贝批发商不敢出货",
+      "onboard_time": 1762252762,
+      "rank": 28,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 110666,
       "num": 110666,
       "word": "减肥到底要瘦到什么程度才算合适",
@@ -8083,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104066,
+      "num": 104066,
+      "word": "樊振东的FZD小巧思",
+      "onboard_time": 1762251802,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104061,
       "num": 140311,
       "word": "央视再曝医美陷阱",
@@ -8505,6 +8545,14 @@
       "onboard_time": 1761978560,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100843,
+      "num": 100843,
+      "word": "JackeyLove谈身体伤病",
+      "onboard_time": 1762252941,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 100614,
@@ -9659,14 +9707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90567,
-      "num": 90567,
-      "word": "樊振东的FZD小巧思",
-      "onboard_time": 1762251802,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90405,
       "num": 90405,
       "word": "中国公民持澳签今起免签入境新西兰",
@@ -9697,6 +9737,14 @@
       "onboard_time": 1761985401,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90122,
+      "num": 91918,
+      "word": "谢娜晒照为李维嘉庆生",
+      "onboard_time": 1762252402,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90095,
@@ -10009,6 +10057,14 @@
       "onboard_time": 1762056079,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87421,
+      "num": 87421,
+      "word": "全球股指杀跌",
+      "onboard_time": 1762252762,
+      "rank": 42,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 87276,
@@ -10955,6 +11011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78377,
+      "num": 503830,
+      "word": "山河枕",
+      "onboard_time": 1761912263,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78362,
       "num": 115250,
       "word": "A股两市成交额萎缩近2000亿",
@@ -10969,6 +11033,14 @@
       "onboard_time": 1762155442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78185,
+      "num": 78185,
+      "word": "小猫世界的扫墓",
+      "onboard_time": 1762252521,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 78111,
@@ -11105,6 +11177,14 @@
       "onboard_time": 1761954800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77206,
+      "num": 77206,
+      "word": "范丞丞意大利街头小少爷",
+      "onboard_time": 1762253242,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 77148,
@@ -12307,6 +12387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53889,
+      "num": 76846,
+      "word": "17位单身男蹄花店被宰3万多",
+      "onboard_time": 1762252581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53838,
       "num": 93563,
       "word": "Gumayusi谈如何度过低谷期",
@@ -12635,14 +12723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 42930,
-      "num": 503830,
-      "word": "山河枕",
-      "onboard_time": 1761912263,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42785,
       "num": 110202,
       "word": "国考抢考点",
@@ -12955,6 +13035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35056,
+      "num": 96376,
+      "word": "作业帮被指用学生跳楼出题",
+      "onboard_time": 1762253121,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35027,
       "num": 86091,
       "word": "郭焱为孙颖莎送上生日祝福",
@@ -13051,6 +13139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31682,
+      "num": 140858,
+      "word": "山姆APP开始投放广告",
+      "onboard_time": 1762252521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31296,
       "num": 98371,
       "word": "10年后欧洲日本的衰落可能超乎想象",
@@ -13089,6 +13185,14 @@
       "onboard_time": 1762190476,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31029,
+      "num": 94564,
+      "word": "满蒙八旗不及华妃凤仪万千",
+      "onboard_time": 1762252702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30547,
@@ -13449,6 +13553,14 @@
       "onboard_time": 1762053739,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20453,
+      "num": 97288,
+      "word": "3亿建的体育馆使用不到2年就漏水",
+      "onboard_time": 1762252941,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20232,
