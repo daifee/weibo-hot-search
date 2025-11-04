@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762227163601,
+  "endTime": 1762228606041,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198254,
+      "num": 184109,
+      "word": "讨好型人格走路",
+      "onboard_time": 1762226180,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1180887,
       "num": 132223,
       "word": "谈莉娜刘正飞官宣怀孕",
@@ -289,6 +297,14 @@
       "onboard_time": 1762137440,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 982855,
+      "num": 1157256,
+      "word": "南京大学通报食堂卖999元帝王蟹",
+      "onboard_time": 1762223599,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 979092,
@@ -441,14 +457,6 @@
       "onboard_time": 1761984621,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 725141,
-      "num": 1116022,
-      "word": "南京大学通报食堂卖999元帝王蟹",
-      "onboard_time": 1762223599,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 714663,
@@ -619,8 +627,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 651258,
-      "num": 651258,
+      "raw_hot": 652807,
+      "num": 652807,
       "word": "四喜定档",
       "onboard_time": 1762224140,
       "rank": 1,
@@ -2315,14 +2323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256911,
-      "num": 184109,
-      "word": "讨好型人格走路",
-      "onboard_time": 1762226180,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256453,
       "num": 280567,
       "word": "DRG早点 回家吧",
@@ -2356,7 +2356,7 @@
     },
     {
       "raw_hot": 253021,
-      "num": 372840,
+      "num": 381013,
       "word": "中国航天员太空烤鸡翅",
       "onboard_time": 1762179982,
       "rank": 37,
@@ -2691,6 +2691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219088,
+      "num": 168909,
+      "word": "建议不要用酒店的沐浴露",
+      "onboard_time": 1762226422,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 218661,
       "num": 172805,
       "word": "日本男子保存现场26年凶手落网",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1762001901,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218079,
+      "num": 200797,
+      "word": "山神异闻录开播",
+      "onboard_time": 1762225461,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 217864,
@@ -2745,14 +2761,6 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215243,
-      "num": 195697,
-      "word": "山神异闻录开播",
-      "onboard_time": 1762225461,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 214672,
@@ -2907,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207239,
+      "num": 178560,
+      "word": "腾讯视频11月电视剧片单",
+      "onboard_time": 1762228100,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1761981501,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201811,
+      "num": 201811,
+      "word": "上海一夜店可现场登记结婚",
+      "onboard_time": 1762226360,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201607,
@@ -3457,6 +3481,14 @@
       "onboard_time": 1762075160,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182131,
+      "num": 182131,
+      "word": "用iPhone前vs用iPhone后",
+      "onboard_time": 1762226301,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 181736,
@@ -4019,6 +4051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162271,
+      "num": 162271,
+      "word": "迪丽热巴卫蓝白裙路透",
+      "onboard_time": 1762226900,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162130,
       "num": 194713,
       "word": "怪不得水龙吟敢在18集断更",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1762093043,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158617,
+      "num": 158617,
+      "word": "赵晴发了新剧开机照",
+      "onboard_time": 1762228040,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 158589,
@@ -4667,12 +4715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146847,
-      "num": 146847,
-      "word": "用iPhone前vs用iPhone后",
-      "onboard_time": 1762226301,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 146965,
+      "num": 181423,
+      "word": "神20神21交接空间站钥匙",
+      "onboard_time": 1762227920,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146458,
@@ -6219,6 +6267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 117229,
+      "num": 117229,
+      "word": "没想到短剧让我恶补了历史知识",
+      "onboard_time": 1762228160,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117224,
       "num": 117224,
       "word": "给TES送考",
@@ -6451,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112815,
+      "num": 112815,
+      "word": "疯狂好六夜艺人集体出走",
+      "onboard_time": 1762227321,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112675,
       "num": 123325,
       "word": "荷兰安世半导体无中生有恶意抹黑",
@@ -6505,14 +6569,6 @@
       "onboard_time": 1762052840,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112311,
-      "num": 112311,
-      "word": "迪丽热巴卫蓝白裙路透",
-      "onboard_time": 1762226900,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 112033,
@@ -6625,6 +6681,14 @@
       "onboard_time": 1762174702,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "考公人vs考研人",
+      "onboard_time": 1762227681,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 110282,
@@ -7195,14 +7259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103545,
-      "num": 103545,
-      "word": "建议不要用酒店的沐浴露",
-      "onboard_time": 1762226422,
-      "rank": 45,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 103445,
       "num": 147329,
       "word": "竹林七贤荣启期跨700年砖墙同框",
@@ -7737,14 +7793,6 @@
       "onboard_time": 1762088062,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98331,
-      "num": 109895,
-      "word": "上海一夜店可现场登记结婚",
-      "onboard_time": 1762226360,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98302,
@@ -8651,6 +8699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89100,
+      "num": 89100,
+      "word": "全红婵每天冰敷再起跳",
+      "onboard_time": 1762227980,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88885,
       "num": 90971,
       "word": "全红婵无论胖瘦都压住了水花",
@@ -9003,12 +9059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86006,
+      "num": 86006,
+      "word": "孙颖莎依旧糯米团子",
+      "onboard_time": 1762228521,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85915,
       "num": 96927,
       "word": "印度发射重量为4410公斤通信卫星",
       "onboard_time": 1762157721,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85905,
+      "num": 109646,
+      "word": "凶手拍下女护士视频威胁分手就发上网",
+      "onboard_time": 1762227080,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85898,
@@ -10691,6 +10763,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 57214,
+      "num": 100702,
+      "word": "孙颖莎今年还剩4项大赛",
+      "onboard_time": 1762228401,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57044,
       "num": 109217,
       "word": "大学也在建家长群了",
@@ -10977,14 +11057,6 @@
       "onboard_time": 1762055421,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 45176,
-      "num": 109646,
-      "word": "凶手拍下女护士视频威胁分手就发上网",
-      "onboard_time": 1762227080,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44784,

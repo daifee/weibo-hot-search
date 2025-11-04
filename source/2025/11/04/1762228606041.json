@@ -1,0 +1,410 @@
+{
+  "runTime": 1762228606041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 982855,
+        "num": 1157256,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 652807,
+        "num": 652807,
+        "word": "四喜定档",
+        "onboard_time": 1762224140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72386,
+        "num": 381013,
+        "word": "中国航天员太空烤鸡翅",
+        "onboard_time": 1762179982,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308604,
+        "num": 308604,
+        "word": "何炅 最近谣传我有衰老焦虑",
+        "onboard_time": 1762188078,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235134,
+        "num": 235134,
+        "word": "央视揭网购故意发错货骗局",
+        "onboard_time": 1762214418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201811,
+        "num": 201811,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218079,
+        "num": 200797,
+        "word": "山神异闻录开播",
+        "onboard_time": 1762225461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159534,
+        "num": 181991,
+        "word": "中国空间站可以吃烧烤了",
+        "onboard_time": 1762181123,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146965,
+        "num": 181423,
+        "word": "神20神21交接空间站钥匙",
+        "onboard_time": 1762227920,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1198254,
+        "num": 181104,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 724246,
+        "num": 180774,
+        "word": "北京一副区长停电动车竟遭三连拒",
+        "onboard_time": 1762225880,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391745,
+        "num": 179939,
+        "word": "白百何发生了什么",
+        "onboard_time": 1762219760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367211,
+        "num": 179613,
+        "word": "男子晒媳妇买了15双一样的勃肯鞋",
+        "onboard_time": 1762215922,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269233,
+        "num": 179094,
+        "word": "用芥末泡虾虾线都快吐出来了",
+        "onboard_time": 1762221081,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235052,
+        "num": 179027,
+        "word": "小伙花170万买迈巴赫跑婚车",
+        "onboard_time": 1762217482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207239,
+        "num": 178560,
+        "word": "腾讯视频11月电视剧片单",
+        "onboard_time": 1762228100,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80610,
+        "num": 177728,
+        "word": "京东拍卖巴掌大野生黑松露",
+        "onboard_time": 1762225399,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177700,
+        "num": 177700,
+        "word": "品牌回应翁青雅直播翻车",
+        "onboard_time": 1762212138,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170687,
+        "num": 170687,
+        "word": "李兰迪发言我都有点智性恋了",
+        "onboard_time": 1762217602,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342839,
+        "num": 169784,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219088,
+        "num": 168909,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 199673,
+        "num": 166653,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162271,
+        "num": 162271,
+        "word": "迪丽热巴卫蓝白裙路透",
+        "onboard_time": 1762226900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158617,
+        "num": 158617,
+        "word": "赵晴发了新剧开机照",
+        "onboard_time": 1762228040,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143425,
+        "num": 143425,
+        "word": "山姆在争议声中再更新APP",
+        "onboard_time": 1762184899,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161486,
+        "num": 143329,
+        "word": "欧豪把6个角色的名字挂在衣服上",
+        "onboard_time": 1762226301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142400,
+        "num": 142400,
+        "word": "白鹿说我不是第一次一年播三部剧",
+        "onboard_time": 1762189217,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127909,
+        "num": 127909,
+        "word": "高度近视改善眼凸的方法",
+        "onboard_time": 1762223539,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126769,
+        "num": 126769,
+        "word": "许绍雄生忌女儿发文",
+        "onboard_time": 1762219640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 126612,
+        "word": "AL爱笑谈队员续约",
+        "onboard_time": 1762224920,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126151,
+        "num": 126151,
+        "word": "金永南逝世",
+        "onboard_time": 1762214240,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119645,
+        "num": 119645,
+        "word": "光绪 DNA",
+        "onboard_time": 1762212859,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117229,
+        "num": 117229,
+        "word": "没想到短剧让我恶补了历史知识",
+        "onboard_time": 1762228160,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112815,
+        "num": 112815,
+        "word": "疯狂好六夜艺人集体出走",
+        "onboard_time": 1762227321,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112102,
+        "num": 112102,
+        "word": "乘客开门杀致人损害谁担责",
+        "onboard_time": 1762222939,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110416,
+        "num": 110416,
+        "word": "考公人vs考研人",
+        "onboard_time": 1762227681,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105739,
+        "num": 105739,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1762224440,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 102619,
+        "word": "iOS26.1正式版来了",
+        "onboard_time": 1762224320,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57214,
+        "num": 100702,
+        "word": "孙颖莎今年还剩4项大赛",
+        "onboard_time": 1762228401,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99549,
+        "num": 99549,
+        "word": "张艺兴KTV开超长4小时演唱会",
+        "onboard_time": 1762222521,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97558,
+        "num": 97558,
+        "word": "3天后立冬",
+        "onboard_time": 1762215680,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93721,
+        "num": 93721,
+        "word": "蓝盈莹回应撞衫",
+        "onboard_time": 1762182441,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92955,
+        "num": 92955,
+        "word": "字母哥绝杀步行者",
+        "onboard_time": 1762227080,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92654,
+        "num": 92654,
+        "word": "孙颖莎女孩与王冠",
+        "onboard_time": 1762226961,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85905,
+        "num": 92228,
+        "word": "凶手拍下女护士视频威胁分手就发上网",
+        "onboard_time": 1762227080,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92083,
+        "num": 92083,
+        "word": "唐嫣新剧编剧秦雯",
+        "onboard_time": 1762218680,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90878,
+        "num": 90878,
+        "word": "副县级干部退休的他工资卡余额38元",
+        "onboard_time": 1762225819,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 89100,
+        "num": 89100,
+        "word": "全红婵每天冰敷再起跳",
+        "onboard_time": 1762227980,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86006,
+        "num": 86006,
+        "word": "孙颖莎依旧糯米团子",
+        "onboard_time": 1762228521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}
