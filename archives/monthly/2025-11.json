@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762231527557,
+  "endTime": 1762234025936,
   "band_list": [
     {
       "raw_hot": 5959028,
@@ -576,6 +576,14 @@
       "word": "大奉打更人官宣第二季",
       "onboard_time": 1762181303,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 666791,
+      "num": 220654,
+      "word": "鲍蕾因贝儿课业崩溃拍桌子",
+      "onboard_time": 1762228640,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468469,
+      "num": 264332,
+      "word": "光与夜之恋 查理苏换配音",
+      "onboard_time": 1762231162,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 465320,
       "num": 209936,
       "word": "彭小苒 发际线后移",
@@ -1307,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428553,
+      "num": 1068568,
+      "word": "唐俪辞有5吨黄金",
+      "onboard_time": 1762229240,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428412,
       "num": 190936,
       "word": "马龙妻子夏露分享舞蹈视频",
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428387,
+      "num": 428387,
+      "word": "缅北白家5人死刑",
+      "onboard_time": 1762229719,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426017,
@@ -1499,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380437,
-      "num": 380437,
-      "word": "缅北白家5人死刑",
-      "onboard_time": 1762229719,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379722,
       "num": 379722,
       "word": "T1严正声明",
@@ -1603,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364060,
+      "num": 364060,
+      "word": "杨幂童瑶蒋欣 三张权威的脸",
+      "onboard_time": 1762228640,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363655,
       "num": 363655,
       "word": "湖南警方通报发现疑似贩卖婴儿",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1762008742,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361480,
-      "num": 361480,
-      "word": "杨幂童瑶蒋欣 三张权威的脸",
-      "onboard_time": 1762228640,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 359583,
@@ -1745,14 +1769,6 @@
       "onboard_time": 1762127720,
       "rank": 13,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 337156,
-      "num": 337156,
-      "word": "唐俪辞有5吨黄金",
-      "onboard_time": 1762229240,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 336455,
@@ -2211,6 +2227,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 275419,
+      "num": 184325,
+      "word": "疑似白百何朋友圈",
+      "onboard_time": 1762233920,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275391,
       "num": 1044062,
       "word": "光与夜之恋",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264332,
-      "num": 264332,
-      "word": "光与夜之恋 查理苏换配音",
-      "onboard_time": 1762231162,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 264049,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1762012042,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 232215,
+      "num": 232215,
+      "word": "马天宇演技",
+      "onboard_time": 1762231102,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 230454,
@@ -3091,6 +3115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 204057,
+      "num": 204057,
+      "word": "姜妍做饭是有什么KPI吗",
+      "onboard_time": 1762232840,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203960,
       "num": 190859,
       "word": "胡彦斌演唱会上座率",
@@ -3547,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183194,
+      "num": 183194,
+      "word": "下雪后出片的正确打开方式",
+      "onboard_time": 1762232840,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173113,
+      "num": 173113,
+      "word": "枭起青壤",
+      "onboard_time": 1762233380,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 172932,
@@ -4051,6 +4099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164371,
+      "num": 164371,
+      "word": "成都街头巨型LOL奖杯引围观",
+      "onboard_time": 1762233980,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164250,
       "num": 133226,
       "word": "经常视奸自己的朋友圈",
@@ -4323,6 +4379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156733,
+      "num": 156733,
+      "word": "女子劝邻居不要乱扔垃圾被群殴",
+      "onboard_time": 1762229001,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156645,
       "num": 214696,
       "word": "长沙脚手架垮塌致2死店铺正在装修",
@@ -4449,6 +4513,14 @@
       "onboard_time": 1762084581,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154243,
+      "num": 154243,
+      "word": "为什么一到冬天你就突然变好看了",
+      "onboard_time": 1762232241,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 153231,
@@ -5107,8 +5179,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138072,
-      "num": 138072,
+      "raw_hot": 138253,
+      "num": 150888,
       "word": "谁懂央视力挺二次元的含金量",
       "onboard_time": 1762230801,
       "rank": 27,
@@ -5171,14 +5243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137275,
-      "num": 137275,
-      "word": "女子劝邻居不要乱扔垃圾被群殴",
-      "onboard_time": 1762229001,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137227,
       "num": 137227,
       "word": "女子排队礼让孕妇",
@@ -5225,6 +5289,14 @@
       "onboard_time": 1762094242,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136194,
+      "num": 136194,
+      "word": "Doinb谈明年AL阵容",
+      "onboard_time": 1762232423,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 136187,
@@ -5619,6 +5691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129266,
+      "num": 129266,
+      "word": "何瑞贤县城文学女主",
+      "onboard_time": 1762233141,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129249,
       "num": 145418,
       "word": "天地剑心王弘毅演技",
@@ -5785,6 +5865,14 @@
       "onboard_time": 1762085481,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126433,
+      "num": 126433,
+      "word": "柯淳在同学录上写廖慧佳真漂亮",
+      "onboard_time": 1762233499,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126399,
@@ -7043,14 +7131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107905,
-      "num": 107905,
-      "word": "马天宇演技",
-      "onboard_time": 1762231102,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107893,
       "num": 107893,
       "word": "上班的8个好处",
@@ -7081,6 +7161,14 @@
       "onboard_time": 1761992599,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107652,
+      "num": 107652,
+      "word": "激情全运会活力大湾区",
+      "onboard_time": 1762233980,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 107538,
@@ -7419,6 +7507,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 103715,
+      "num": 103715,
+      "word": "饿了么骑手已更换橙黑新工服",
+      "onboard_time": 1762233860,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 103547,
       "num": 103547,
       "word": "TES迎接冬季转会期",
@@ -7499,12 +7595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103064,
+      "num": 103064,
+      "word": "谢霆锋记丁真的仇记四年",
+      "onboard_time": 1762233920,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102971,
       "num": 102971,
       "word": "Faker紧急教学oner",
       "onboard_time": 1762215922,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102881,
+      "num": 102881,
+      "word": "全国小学生统一口头禅",
+      "onboard_time": 1762233321,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 102858,
@@ -8369,6 +8481,22 @@
       "onboard_time": 1761970280,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94378,
+      "num": 94378,
+      "word": "吴泽林cha了go",
+      "onboard_time": 1762233980,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94286,
+      "num": 94286,
+      "word": "我国1707万人养异宠",
+      "onboard_time": 1762233801,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94260,
@@ -10547,6 +10675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66812,
+      "num": 157311,
+      "word": "金正恩吊唁金永南画面",
+      "onboard_time": 1762232423,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66693,
       "num": 503865,
       "word": "Hope表现",
@@ -10769,6 +10905,14 @@
       "onboard_time": 1762077622,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62040,
+      "num": 189302,
+      "word": "杨幂回应获年度演员",
+      "onboard_time": 1762233201,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 61786,
@@ -11008,6 +11152,14 @@
       "word": "长沙潮宗街墙体倒塌目击者发声",
       "onboard_time": 1761925761,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55738,
+      "num": 131201,
+      "word": "馆长为赖清德寻根",
+      "onboard_time": 1762232002,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -11291,6 +11443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44503,
+      "num": 126562,
+      "word": "别因为一根淀粉肠背离教育初心",
+      "onboard_time": 1762233560,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44278,
       "num": 203646,
       "word": "没课也不能待宿舍是对学生瞎折腾",
@@ -11353,6 +11513,14 @@
       "onboard_time": 1761952818,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42629,
+      "num": 212057,
+      "word": "红旗为孙颖莎许下生日祝福",
+      "onboard_time": 1762232661,
+      "rank": 13,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 42616,
@@ -12115,6 +12283,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21109,
+      "num": 397792,
+      "word": "进博会时光",
+      "onboard_time": 1762226900,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20818,
+      "num": 196134,
+      "word": "全红婵夺冠全网沸腾",
+      "onboard_time": 1762233623,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20232,
       "num": 173606,
       "word": "中国10天过境免签口岸再增5个",
@@ -12211,6 +12395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15577,
+      "num": 130146,
+      "word": "中学再通报学生买淀粉肠被拿钥匙",
+      "onboard_time": 1762233920,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 15551,
       "num": 107572,
       "word": "Red即兴真是即兴",
@@ -12264,14 +12456,6 @@
       "word": "神21过境北京太美了",
       "onboard_time": 1761978621,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13843,
-      "num": 397792,
-      "word": "进博会时光",
-      "onboard_time": 1762226900,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
