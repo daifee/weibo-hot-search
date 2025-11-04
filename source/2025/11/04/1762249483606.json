@@ -1,0 +1,410 @@
+{
+  "runTime": 1762249483606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12384593,
+        "num": 13634593,
+        "word": "2026春节放9天假",
+        "onboard_time": 1762247421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 616810,
+        "num": 616810,
+        "word": "2026年节假日安排",
+        "onboard_time": 1762247662,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31325,
+        "num": 344523,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336094,
+        "num": 336094,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 214745,
+        "num": 214745,
+        "word": "喜人成恋综了",
+        "onboard_time": 1762246341,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "AL在等一个不会来的人",
+        "onboard_time": 1762243340,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186945,
+        "num": 186945,
+        "word": "调休",
+        "onboard_time": 1762248680,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169197,
+        "num": 186802,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154396,
+        "num": 186138,
+        "word": "饿了么骑手新工服 赛车服",
+        "onboard_time": 1762240100,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 185897,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673806,
+        "num": 185512,
+        "word": "小S二女儿谈具俊晔暴瘦",
+        "onboard_time": 1762246283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621468,
+        "num": 185081,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 568034,
+        "num": 184569,
+        "word": "满清野史",
+        "onboard_time": 1762240459,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398129,
+        "num": 184241,
+        "word": "马思纯我很爱你",
+        "onboard_time": 1762245621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356780,
+        "num": 183486,
+        "word": "缺乏维生素D 抑郁症状",
+        "onboard_time": 1762243402,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183354,
+        "num": 183354,
+        "word": "真的建议检查一下爸妈的手机",
+        "onboard_time": 1762239261,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170511,
+        "num": 170511,
+        "word": "患癌男子8万救命钱全打赏主播",
+        "onboard_time": 1762245561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 162584,
+        "word": "孙颖莎生日发博",
+        "onboard_time": 1762242321,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100182,
+        "num": 161045,
+        "word": "孙乐言首次来offer",
+        "onboard_time": 1762246401,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11894,
+        "num": 160695,
+        "word": "社交平台不能成为诈骗犯罪温床",
+        "onboard_time": 1762249100,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129522,
+        "num": 157945,
+        "word": "姿态谈T1换上单再进决赛",
+        "onboard_time": 1762247662,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 481436,
+        "num": 156721,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256266,
+        "num": 154398,
+        "word": "献血400ml没事失血400ml很危险",
+        "onboard_time": 1762246881,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153204,
+        "num": 153204,
+        "word": "祝绪丹造型师审美",
+        "onboard_time": 1762247360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137512,
+        "num": 137512,
+        "word": "金饰克价一夜猛跌69元",
+        "onboard_time": 1762244781,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112859,
+        "num": 112859,
+        "word": "孙颖莎生日蛋糕是超级玛丽",
+        "onboard_time": 1762242321,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107081,
+        "num": 107081,
+        "word": "张婧仪 我头很大",
+        "onboard_time": 1762239079,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104138,
+        "num": 104138,
+        "word": "具俊晔每周会去小S家吃饭",
+        "onboard_time": 1762248321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103165,
+        "num": 103165,
+        "word": "山姆改回实拍图",
+        "onboard_time": 1762235960,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102515,
+        "num": 102515,
+        "word": "没有班味的工位长这样",
+        "onboard_time": 1762235181,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99811,
+        "num": 99811,
+        "word": "马斯克预测未来将人人高收入",
+        "onboard_time": 1762245022,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92419,
+        "num": 92419,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91507,
+        "num": 91507,
+        "word": "愿意给孩子买的卫生吹糖人",
+        "onboard_time": 1762245441,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82833,
+        "num": 82833,
+        "word": "张晚意 造次完最害怕的一次",
+        "onboard_time": 1762248982,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70936,
+        "num": 82343,
+        "word": "1个剧组13座奖杯",
+        "onboard_time": 1762239201,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82100,
+        "num": 82100,
+        "word": "Faker被问是否处于巅峰期",
+        "onboard_time": 1762248502,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81231,
+        "num": 81231,
+        "word": "深圳一男子喝6瓶饮料后中毒",
+        "onboard_time": 1762244480,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80927,
+        "num": 80927,
+        "word": "工作后终于看懂了这一集",
+        "onboard_time": 1762249042,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61896,
+        "num": 80089,
+        "word": "河北体育局为孙颖莎庆生",
+        "onboard_time": 1762248020,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18295,
+        "num": 79556,
+        "word": "韩国想在中美之间保持平衡",
+        "onboard_time": 1762249100,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79316,
+        "num": 79316,
+        "word": "当你忘了自己已经30岁时",
+        "onboard_time": 1762247901,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78701,
+        "num": 78701,
+        "word": "我将不再称呼自己为牛马",
+        "onboard_time": 1762248680,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78589,
+        "num": 78589,
+        "word": "樊振东出发全运会",
+        "onboard_time": 1762244120,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78317,
+        "num": 78317,
+        "word": "白敬亭转圈摔进王安宇怀里",
+        "onboard_time": 1762247000,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72559,
+        "num": 72559,
+        "word": "deepseek崩了",
+        "onboard_time": 1762247241,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69696,
+        "num": 69696,
+        "word": "教育不该这么霸气凌人",
+        "onboard_time": 1762246581,
+        "rank": 45,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 69241,
+        "num": 69241,
+        "word": "管泽元谈oner蒙多是现学的",
+        "onboard_time": 1762239440,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68784,
+        "num": 68784,
+        "word": "田曦薇毫不犹豫地选了错误答案",
+        "onboard_time": 1762246283,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68093,
+        "num": 68093,
+        "word": "窦骁戴婚戒参加活动",
+        "onboard_time": 1762241661,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55455,
+        "num": 67903,
+        "word": "王鹤棣回应谢娜喊话",
+        "onboard_time": 1762247301,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯总理#"
+    }
+  }
+}
