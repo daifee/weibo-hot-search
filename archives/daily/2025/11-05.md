@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/05 00:32:26 ~ 2025/11/05 02:37:54
+本榜单时间：2025/11/05 00:32:26 ~ 2025/11/05 02:50:33
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ JackeyLove致歉（热度：122299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E4%BA%94%E5%B0%B1%E7%AB%8B%E5%86%AC%E4%BA%86%23" target="weibo">
 这周五就立冬了（热度：21298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D%23" target="weibo">
+霉霉和GigiHadid外出就餐街拍（热度：16432）
 </a>
 </li>
 

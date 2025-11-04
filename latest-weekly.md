@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 02:37:54
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/05 02:50:33
 </p>
 </blockquote>
 <p>
@@ -8315,6 +8315,12 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E8%8A%82%23" target="weibo">
 第十四届中国艺术节（热度：16800）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D%23" target="weibo">
+霉霉和GigiHadid外出就餐街拍（热度：16432）
 </a>
 </li>
 

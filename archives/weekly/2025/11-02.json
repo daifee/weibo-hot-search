@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762281474760,
+  "endTime": 1762282233277,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -11073,6 +11073,14 @@
       "onboard_time": 1762262542,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16432,
+      "num": 26388,
+      "word": "霉霉和GigiHadid外出就餐街拍",
+      "onboard_time": 1762281734,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 15659,
