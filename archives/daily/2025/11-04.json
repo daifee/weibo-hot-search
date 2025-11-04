@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762261886169,
+  "endTime": 1762263596123,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711829,
+      "num": 167193,
+      "word": "印度一女警怀胎七月参加举重比赛",
+      "onboard_time": 1762257920,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 693198,
       "num": 220654,
       "word": "鲍蕾因贝儿课业崩溃拍桌子",
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549182,
-      "num": 167193,
-      "word": "印度一女警怀胎七月参加举重比赛",
-      "onboard_time": 1762257920,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 546802,
       "num": 1085240,
       "word": "帝王蟹不应进入学校食堂",
@@ -243,8 +243,16 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 485710,
-      "num": 485710,
+      "raw_hot": 493242,
+      "num": 158096,
+      "word": "网传快乐家族回归好六",
+      "onboard_time": 1762262303,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 487309,
+      "num": 487309,
       "word": "嘎子哥及妻子被限消",
       "onboard_time": 1762255462,
       "rank": 43,
@@ -267,12 +275,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 462313,
+      "num": 163676,
+      "word": "法国废弃公园虎鲸母子或面临安乐死",
+      "onboard_time": 1762258462,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
       "onboard_time": 1762243402,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 453381,
+      "num": 453381,
+      "word": "清瞳人设",
+      "onboard_time": 1762258759,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 435359,
@@ -307,6 +331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 425059,
+      "num": 264829,
+      "word": "赵丽颖连包10场支持辛芷蕾新片",
+      "onboard_time": 1762259481,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415774,
       "num": 193759,
       "word": "品牌回应翁青雅直播翻车",
@@ -337,6 +369,14 @@
       "onboard_time": 1762184899,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379567,
+      "num": 379567,
+      "word": "献血400ml没事失血400ml很危险",
+      "onboard_time": 1762246881,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366416,
@@ -427,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332632,
+      "num": 332632,
+      "word": "JackeyLove致歉",
+      "onboard_time": 1762259600,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323742,
       "num": 323742,
       "word": "山姆改回实拍图",
@@ -451,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294644,
-      "num": 294644,
-      "word": "献血400ml没事失血400ml很危险",
-      "onboard_time": 1762246881,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 294574,
       "num": 294574,
       "word": "白百何 春树",
@@ -473,14 +513,6 @@
       "onboard_time": 1762233380,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283393,
-      "num": 164846,
-      "word": "JackeyLove致歉",
-      "onboard_time": 1762259600,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 282658,
@@ -521,14 +553,6 @@
       "onboard_time": 1762219640,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264829,
-      "num": 264829,
-      "word": "赵丽颖连包10场支持辛芷蕾新片",
-      "onboard_time": 1762259481,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 263631,
@@ -667,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207145,
-      "num": 163676,
-      "word": "法国废弃公园虎鲸母子或面临安乐死",
-      "onboard_time": 1762258462,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -707,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202975,
-      "num": 164056,
-      "word": "清瞳人设",
-      "onboard_time": 1762258759,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201607,
       "num": 189903,
       "word": "许绍雄生忌女儿发文",
@@ -737,6 +745,14 @@
       "onboard_time": 1762244120,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196519,
+      "num": 196519,
+      "word": "崩铁",
+      "onboard_time": 1762262721,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 195716,
@@ -899,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172423,
+      "num": 152992,
+      "word": "蒲熠星ELLE活动花絮",
+      "onboard_time": 1762262841,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172093,
       "num": 163173,
       "word": "穆祉丞发花絮图",
@@ -979,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162523,
+      "num": 154749,
+      "word": "王橹杰 今年是更成熟的小鬼",
+      "onboard_time": 1762259481,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162271,
       "num": 162271,
       "word": "迪丽热巴卫蓝白裙路透",
@@ -1043,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155989,
+      "num": 155989,
+      "word": "郑丽文再表态",
+      "onboard_time": 1762262062,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155925,
       "num": 196157,
       "word": "乘客开门杀致人损害谁担责",
@@ -1067,11 +1107,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154145,
-      "num": 140331,
-      "word": "王橹杰 今年是更成熟的小鬼",
-      "onboard_time": 1762259481,
-      "rank": 30,
+      "raw_hot": 153861,
+      "num": 153861,
+      "word": "王鹤棣这衣服正经吗",
+      "onboard_time": 1762259120,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1081,6 +1121,14 @@
       "onboard_time": 1762250121,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152963,
+      "num": 152963,
+      "word": "我的宝宝也有了宝宝",
+      "onboard_time": 1762260381,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 152256,
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141245,
+      "num": 141245,
+      "word": "林青霞71岁庆生照",
+      "onboard_time": 1762263022,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141148,
       "num": 132362,
       "word": "删了吧有个研究生破防了",
@@ -1283,6 +1339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134571,
+      "num": 134571,
+      "word": "吴磊今年已与两家游戏解约",
+      "onboard_time": 1762262483,
+      "rank": 35,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 133585,
+      "num": 155980,
+      "word": "邓亚萍建议陈梦珍惜当下",
+      "onboard_time": 1762262542,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133268,
       "num": 129162,
       "word": "剑网3酷熊宝宝",
@@ -1339,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129989,
+      "num": 129989,
+      "word": "等我中一个亿也做个这样的房子",
+      "onboard_time": 1762260381,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129985,
       "num": 129985,
       "word": "龚俊你把我弄哭了满意吗",
       "onboard_time": 1762245680,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129626,
+      "num": 129626,
+      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
+      "onboard_time": 1762260022,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129430,
@@ -1451,14 +1539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122324,
-      "num": 122324,
-      "word": "王鹤棣这衣服正经吗",
-      "onboard_time": 1762259120,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122069,
       "num": 104288,
       "word": "孙颖莎说球迷是自己最珍贵的力量",
@@ -1492,7 +1572,7 @@
     },
     {
       "raw_hot": 121189,
-      "num": 121189,
+      "num": 153399,
       "word": "樊振东孙颖莎王楚钦全运会海报来了",
       "onboard_time": 1762259301,
       "rank": 33,
@@ -1585,6 +1665,14 @@
       "onboard_time": 1762228160,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117154,
+      "num": 164100,
+      "word": "人民咖啡馆店标引争议",
+      "onboard_time": 1762260022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117118,
@@ -1683,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113878,
-      "num": 113878,
-      "word": "我的宝宝也有了宝宝",
-      "onboard_time": 1762260381,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113559,
       "num": 113559,
       "word": "杨博文的字 感觉是好人",
@@ -1739,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112797,
+      "num": 112797,
+      "word": "剧版新闻女王遇到现实新闻女王了",
+      "onboard_time": 1762263083,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112683,
       "num": 112683,
       "word": "石凯到底在搞什么惊喜",
@@ -1785,14 +1873,6 @@
       "onboard_time": 1762225819,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 110946,
-      "num": 110946,
-      "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
-      "onboard_time": 1762260022,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110688,
@@ -1971,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103978,
+      "num": 103978,
+      "word": "王权富贵 信我",
+      "onboard_time": 1762263383,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103818,
       "num": 145878,
       "word": "胡锡进认为南京大学售卖帝王蟹不妥",
@@ -2051,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102159,
-      "num": 164100,
-      "word": "人民咖啡馆店标引争议",
-      "onboard_time": 1762260022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101968,
       "num": 101968,
       "word": "拔车钥匙人员为当值副校长",
@@ -2068,7 +2148,7 @@
     },
     {
       "raw_hot": 101952,
-      "num": 111771,
+      "num": 116580,
       "word": "中国有自己的taco",
       "onboard_time": 1762261762,
       "rank": 36,
@@ -2171,20 +2251,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99198,
+      "num": 99198,
+      "word": "老二次元现状",
+      "onboard_time": 1762263262,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98920,
       "num": 98920,
       "word": "单独看就不认识的字",
       "onboard_time": 1762254500,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98442,
-      "num": 98442,
-      "word": "等我中一个亿也做个这样的房子",
-      "onboard_time": 1762260381,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 98290,
@@ -3011,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60047,
+      "num": 156552,
+      "word": "山姆会员吐槽花680不是来看AI图的",
+      "onboard_time": 1762255581,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57734,
       "num": 97561,
       "word": "KPL一千零一夜",
@@ -3033,6 +3121,14 @@
       "onboard_time": 1762228401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56578,
+      "num": 93046,
+      "word": "塞尔维亚一球队主帅比赛中猝死",
+      "onboard_time": 1762263561,
+      "rank": 49,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 56090,
@@ -3139,20 +3235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48836,
-      "num": 156552,
-      "word": "山姆会员吐槽花680不是来看AI图的",
-      "onboard_time": 1762255581,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48170,
       "num": 97403,
       "word": "太空烤翅出炉航天员直呼哇塞",
       "onboard_time": 1762181123,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47340,
+      "num": 96843,
+      "word": "中国驻美大使谢锋发声",
+      "onboard_time": 1762262062,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47200,
@@ -3483,6 +3579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16800,
+      "num": 579661,
+      "word": "第十四届中国艺术节",
+      "onboard_time": 1762262542,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14321,
       "num": 21583,
       "word": "马尔代夫培养无烟一代",
@@ -3532,6 +3636,9 @@
     },
     {
       "word": "#习近平会见俄罗斯总理#"
+    },
+    {
+      "word": "#100秒回顾习近平韩国之行#"
     }
   ]
 }
