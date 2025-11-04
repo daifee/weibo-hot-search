@@ -1,0 +1,410 @@
+{
+  "runTime": 1762241217659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 719328,
+        "num": 1115092,
+        "word": "饿了么骑手已更换橙黑新工服",
+        "onboard_time": 1762233860,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 487698,
+        "num": 487698,
+        "word": "缅北白家5人死刑",
+        "onboard_time": 1762229719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19945,
+        "num": 403656,
+        "word": "进博会时光",
+        "onboard_time": 1762226900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323742,
+        "num": 323742,
+        "word": "山姆改回实拍图",
+        "onboard_time": 1762235960,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294574,
+        "num": 294574,
+        "word": "白百何 春树",
+        "onboard_time": 1762238480,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239413,
+        "num": 239413,
+        "word": "枭起青壤",
+        "onboard_time": 1762233380,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173039,
+        "num": 173039,
+        "word": "饿了么骑手新工服 赛车服",
+        "onboard_time": 1762240100,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139967,
+        "num": 173017,
+        "word": "龚俊告别花儿与少年vlog",
+        "onboard_time": 1762237761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132858,
+        "num": 172850,
+        "word": "孙颖莎20岁到25岁的变化",
+        "onboard_time": 1762240580,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99702,
+        "num": 172666,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1056121,
+        "num": 172557,
+        "word": "疑似白百何朋友圈",
+        "onboard_time": 1762233920,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482659,
+        "num": 172419,
+        "word": "真的建议检查一下爸妈的手机",
+        "onboard_time": 1762239261,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 263631,
+        "num": 172259,
+        "word": "没有班味的工位长这样",
+        "onboard_time": 1762235181,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229322,
+        "num": 172048,
+        "word": "曝香港导演刘家良墓被盗",
+        "onboard_time": 1762234940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99529,
+        "num": 171959,
+        "word": "王曼昱出发全运会",
+        "onboard_time": 1762238600,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182912,
+        "num": 171763,
+        "word": "谢霆锋记丁真的仇记四年",
+        "onboard_time": 1762233920,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171654,
+        "num": 171654,
+        "word": "张婧仪 我头很大",
+        "onboard_time": 1762239079,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164791,
+        "num": 164791,
+        "word": "用iPhone前vs用iPhone后",
+        "onboard_time": 1762226301,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131101,
+        "num": 144234,
+        "word": "马思纯写给自己的信",
+        "onboard_time": 1762239742,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46909,
+        "num": 143403,
+        "word": "京东白酒88折",
+        "onboard_time": 1762239920,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265471,
+        "num": 143265,
+        "word": "鲍蕾因贝儿课业崩溃拍桌子",
+        "onboard_time": 1762228640,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143067,
+        "num": 143067,
+        "word": "上海一夜店可现场登记结婚",
+        "onboard_time": 1762226360,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133412,
+        "num": 133412,
+        "word": "姜妍做饭是有什么KPI吗",
+        "onboard_time": 1762232840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130436,
+        "num": 130436,
+        "word": "徐冬冬提起爱过的人尹子维转身就走",
+        "onboard_time": 1762237040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123151,
+        "num": 123151,
+        "word": "管泽元谈oner蒙多是现学的",
+        "onboard_time": 1762239440,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121883,
+        "num": 121883,
+        "word": "讨好型人格走路",
+        "onboard_time": 1762226180,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120489,
+        "num": 120489,
+        "word": "光与夜之恋 查理苏换配音",
+        "onboard_time": 1762231162,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 120048,
+        "word": "1个剧组13座奖杯",
+        "onboard_time": 1762239201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102238,
+        "num": 119917,
+        "word": "谢娜回应何炅谢娜同台主持",
+        "onboard_time": 1762240700,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119886,
+        "num": 119886,
+        "word": "满清野史",
+        "onboard_time": 1762240459,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118487,
+        "num": 118487,
+        "word": "桃黑黑的父母也不是泛泛之辈",
+        "onboard_time": 1762240160,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 116452,
+        "word": "孟子义3秒消失术",
+        "onboard_time": 1762240821,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112846,
+        "num": 112846,
+        "word": "卜凡直播被贴脸开大",
+        "onboard_time": 1762240280,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107493,
+        "num": 107493,
+        "word": "建议不要用酒店的沐浴露",
+        "onboard_time": 1762226422,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 105298,
+        "word": "中学再通报学生买淀粉肠被拿钥匙",
+        "onboard_time": 1762233920,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 100858,
+        "num": 100858,
+        "word": "张艺凡戚薇毯子还能塞下一个我吗",
+        "onboard_time": 1762240641,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98290,
+        "num": 98290,
+        "word": "竞燃之夜阵容官宣第二波",
+        "onboard_time": 1762240879,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95726,
+        "num": 95726,
+        "word": "拔车钥匙人员为当值副校长",
+        "onboard_time": 1762238119,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 92186,
+        "num": 92186,
+        "word": "唐俪辞有5吨黄金",
+        "onboard_time": 1762229240,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83835,
+        "num": 91718,
+        "word": "王伟莹跳水女子个人全能冠军",
+        "onboard_time": 1762237340,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91375,
+        "num": 91375,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1762240400,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90011,
+        "num": 90011,
+        "word": "Faker当保安看监控也能赚不少钱",
+        "onboard_time": 1762236800,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88991,
+        "num": 88991,
+        "word": "杨幂童瑶蒋欣 三张权威的脸",
+        "onboard_time": 1762228640,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88453,
+        "num": 88453,
+        "word": "G2的S15训练赛战绩",
+        "onboard_time": 1762238720,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85927,
+        "num": 85927,
+        "word": "深大陪孙颖莎奔赴下一站",
+        "onboard_time": 1762239079,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82881,
+        "num": 82881,
+        "word": "男子以问厕所位置为由牵走女孩",
+        "onboard_time": 1762236381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82552,
+        "num": 82552,
+        "word": "威少首发26分12板6助攻",
+        "onboard_time": 1762239500,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79780,
+        "num": 79780,
+        "word": "张艺凡 大馋丫头",
+        "onboard_time": 1762241000,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78514,
+        "num": 78514,
+        "word": "杨瀚森再次被DNP",
+        "onboard_time": 1762237882,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77210,
+        "num": 77210,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 49,
+        "category": "幽默,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#三组关键词看习近平韩国之行#"
+    }
+  }
+}

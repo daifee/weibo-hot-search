@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762239168698,
+  "endTime": 1762241217659,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482659,
+      "num": 172419,
+      "word": "真的建议检查一下爸妈的手机",
+      "onboard_time": 1762239261,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 480550,
       "num": 1076888,
       "word": "向往的生活一家六口世纪同框",
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323742,
+      "num": 323742,
+      "word": "山姆改回实拍图",
+      "onboard_time": 1762235960,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320258,
       "num": 172781,
       "word": "觉得自己闯祸了就来看翁青雅朱珠",
@@ -1496,14 +1512,6 @@
       "word": "网友发帖寻找的3名小孩已去世",
       "onboard_time": 1762064479,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306481,
-      "num": 306481,
-      "word": "山姆改回实拍图",
-      "onboard_time": 1762235960,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1585,6 +1593,14 @@
       "onboard_time": 1762230081,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294574,
+      "num": 294574,
+      "word": "白百何 春树",
+      "onboard_time": 1762238480,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 294426,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263631,
+      "num": 173848,
+      "word": "没有班味的工位长这样",
+      "onboard_time": 1762235181,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 262298,
@@ -2379,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198735,
-      "num": 173848,
-      "word": "没有班味的工位长这样",
-      "onboard_time": 1762235181,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198669,
       "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
@@ -2771,6 +2787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173039,
+      "num": 173039,
+      "word": "饿了么骑手新工服 赛车服",
+      "onboard_time": 1762240100,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172932,
       "num": 172932,
       "word": "电影日掛中天",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171654,
+      "num": 171654,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 171460,
@@ -3843,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132858,
+      "num": 172850,
+      "word": "孙颖莎20岁到25岁的变化",
+      "onboard_time": 1762240580,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132799,
       "num": 130125,
       "word": "成毅入选2025年亚太行业先锋领袖榜单",
@@ -3929,6 +3969,14 @@
       "onboard_time": 1762143202,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131101,
+      "num": 144234,
+      "word": "马思纯写给自己的信",
+      "onboard_time": 1762239742,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 131024,
@@ -4283,6 +4331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123151,
+      "num": 123151,
+      "word": "管泽元谈oner蒙多是现学的",
+      "onboard_time": 1762239440,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123048,
       "num": 123048,
       "word": "小米YU7成国产新能源车保值率第一",
@@ -4403,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119886,
+      "num": 119886,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119854,
       "num": 125089,
       "word": "为什么中产害怕山姆阿里化",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1762094002,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "桃黑黑的父母也不是泛泛之辈",
+      "onboard_time": 1762240160,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 118219,
@@ -4555,6 +4627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116452,
+      "num": 116452,
+      "word": "孟子义3秒消失术",
+      "onboard_time": 1762240821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116280,
       "num": 116280,
       "word": "A股",
@@ -4616,6 +4696,14 @@
       "word": "郭宇欣回应盛夏芬德拉爆火",
       "onboard_time": 1762050919,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115516,
+      "num": 120048,
+      "word": "1个剧组13座奖杯",
+      "onboard_time": 1762239201,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4684,7 +4772,7 @@
     },
     {
       "raw_hot": 113997,
-      "num": 113997,
+      "num": 171959,
       "word": "王曼昱出发全运会",
       "onboard_time": 1762238600,
       "rank": 9,
@@ -4745,6 +4833,14 @@
       "onboard_time": 1762236381,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112846,
+      "num": 112846,
+      "word": "卜凡直播被贴脸开大",
+      "onboard_time": 1762240280,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 112815,
@@ -5507,12 +5603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102108,
-      "num": 109992,
-      "word": "白百何 春树",
-      "onboard_time": 1762238480,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 102238,
+      "num": 119917,
+      "word": "谢娜回应何炅谢娜同台主持",
+      "onboard_time": 1762240700,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 102063,
@@ -5609,6 +5705,14 @@
       "onboard_time": 1762139899,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100858,
+      "num": 100858,
+      "word": "张艺凡戚薇毯子还能塞下一个我吗",
+      "onboard_time": 1762240641,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 100614,
@@ -5777,6 +5881,14 @@
       "onboard_time": 1762084100,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 98290,
+      "num": 98290,
+      "word": "竞燃之夜阵容官宣第二波",
+      "onboard_time": 1762240879,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 98058,
@@ -6363,6 +6475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91375,
+      "num": 91375,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -6835,6 +6955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85927,
+      "num": 85927,
+      "word": "深大陪孙颖莎奔赴下一站",
+      "onboard_time": 1762239079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85915,
       "num": 96927,
       "word": "印度发射重量为4410公斤通信卫星",
@@ -7091,6 +7219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82552,
+      "num": 82552,
+      "word": "威少首发26分12板6助攻",
+      "onboard_time": 1762239500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82292,
       "num": 82292,
       "word": "爱到最后都是iMessage",
@@ -7251,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79780,
+      "num": 79780,
+      "word": "张艺凡 大馋丫头",
+      "onboard_time": 1762241000,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79766,
       "num": 79766,
       "word": "好长条的一只猫",
@@ -7265,14 +7409,6 @@
       "onboard_time": 1762096942,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79563,
-      "num": 79563,
-      "word": "张婧仪 我头很大",
-      "onboard_time": 1762239079,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 79423,
@@ -7321,14 +7457,6 @@
       "onboard_time": 1762155442,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78137,
-      "num": 78137,
-      "word": "深大陪孙颖莎奔赴下一站",
-      "onboard_time": 1762239079,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 78111,
@@ -8291,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46909,
+      "num": 143403,
+      "word": "京东白酒88折",
+      "onboard_time": 1762239920,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45996,
       "num": 156271,
       "word": "北马破三人数创纪录",
@@ -8924,7 +9060,7 @@
     },
     {
       "raw_hot": 21261,
-      "num": 397792,
+      "num": 403656,
       "word": "进博会时光",
       "onboard_time": 1762226900,
       "rank": 8,

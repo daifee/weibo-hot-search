@@ -1,6 +1,6 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762239168698,
+  "endTime": 1762241217659,
   "band_list": [
     {
       "raw_hot": 1645066,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482659,
+      "num": 172419,
+      "word": "真的建议检查一下爸妈的手机",
+      "onboard_time": 1762239261,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 468469,
       "num": 264332,
       "word": "光与夜之恋 查理苏换配音",
@@ -267,8 +275,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306481,
-      "num": 306481,
+      "raw_hot": 323742,
+      "num": 323742,
       "word": "山姆改回实拍图",
       "onboard_time": 1762235960,
       "rank": 4,
@@ -289,6 +297,14 @@
       "onboard_time": 1762230081,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294574,
+      "num": 294574,
+      "word": "白百何 春树",
+      "onboard_time": 1762238480,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 287707,
@@ -329,6 +345,14 @@
       "onboard_time": 1762219640,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263631,
+      "num": 173848,
+      "word": "没有班味的工位长这样",
+      "onboard_time": 1762235181,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 260407,
@@ -435,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198735,
-      "num": 173848,
-      "word": "没有班味的工位长这样",
-      "onboard_time": 1762235181,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195716,
       "num": 166900,
       "word": "唐嫣新剧编剧秦雯",
@@ -523,12 +539,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173039,
+      "num": 173039,
+      "word": "饿了么骑手新工服 赛车服",
+      "onboard_time": 1762240100,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172603,
       "num": 181423,
       "word": "神20神21交接空间站钥匙",
       "onboard_time": 1762227920,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171654,
+      "num": 171654,
+      "word": "张婧仪 我头很大",
+      "onboard_time": 1762239079,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 169536,
@@ -755,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132858,
+      "num": 172850,
+      "word": "孙颖莎20岁到25岁的变化",
+      "onboard_time": 1762240580,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132750,
       "num": 109081,
       "word": "荷方继续一意孤行",
@@ -769,6 +809,14 @@
       "onboard_time": 1762204514,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131101,
+      "num": 144234,
+      "word": "马思纯写给自己的信",
+      "onboard_time": 1762239742,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 129430,
@@ -851,12 +899,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123151,
+      "num": 123151,
+      "word": "管泽元谈oner蒙多是现学的",
+      "onboard_time": 1762239440,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121693,
       "num": 109212,
       "word": "武林外传世纪合体",
       "onboard_time": 1762178183,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119886,
+      "num": 119886,
+      "word": "满清野史",
+      "onboard_time": 1762240459,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118487,
+      "num": 118487,
+      "word": "桃黑黑的父母也不是泛泛之辈",
+      "onboard_time": 1762240160,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 117728,
@@ -915,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116452,
+      "num": 116452,
+      "word": "孟子义3秒消失术",
+      "onboard_time": 1762240821,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116081,
       "num": 116081,
       "word": "海底捞美甲冠军获15万奖金",
@@ -929,6 +1009,14 @@
       "onboard_time": 1762226961,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115516,
+      "num": 120048,
+      "word": "1个剧组13座奖杯",
+      "onboard_time": 1762239201,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 115472,
@@ -948,7 +1036,7 @@
     },
     {
       "raw_hot": 113997,
-      "num": 113997,
+      "num": 171959,
       "word": "王曼昱出发全运会",
       "onboard_time": 1762238600,
       "rank": 9,
@@ -977,6 +1065,14 @@
       "onboard_time": 1762236381,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112846,
+      "num": 112846,
+      "word": "卜凡直播被贴脸开大",
+      "onboard_time": 1762240280,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 112815,
@@ -1131,12 +1227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102108,
-      "num": 109992,
-      "word": "白百何 春树",
-      "onboard_time": 1762238480,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 102238,
+      "num": 119917,
+      "word": "谢娜回应何炅谢娜同台主持",
+      "onboard_time": 1762240700,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 101968,
@@ -1179,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100858,
+      "num": 100858,
+      "word": "张艺凡戚薇毯子还能塞下一个我吗",
+      "onboard_time": 1762240641,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100579,
       "num": 114867,
       "word": "侯明昊的手机屏保是奥特曼",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1762221800,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98290,
+      "num": 98290,
+      "word": "竞燃之夜阵容官宣第二波",
+      "onboard_time": 1762240879,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 97542,
@@ -1315,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91375,
+      "num": 91375,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91163,
       "num": 98122,
       "word": "蒲熠星回应通告费",
@@ -1379,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85927,
+      "num": 85927,
+      "word": "深大陪孙颖莎奔赴下一站",
+      "onboard_time": 1762239079,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85905,
       "num": 109646,
       "word": "凶手拍下女护士视频威胁分手就发上网",
@@ -1417,6 +1545,14 @@
       "onboard_time": 1762185021,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82552,
+      "num": 82552,
+      "word": "威少首发26分12板6助攻",
+      "onboard_time": 1762239500,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 81827,
@@ -1467,20 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79563,
-      "num": 79563,
-      "word": "张婧仪 我头很大",
-      "onboard_time": 1762239079,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 78137,
-      "num": 78137,
-      "word": "深大陪孙颖莎奔赴下一站",
-      "onboard_time": 1762239079,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 79780,
+      "num": 79780,
+      "word": "张艺凡 大馋丫头",
+      "onboard_time": 1762241000,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 77624,
@@ -1771,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46909,
+      "num": 143403,
+      "word": "京东白酒88折",
+      "onboard_time": 1762239920,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43511,
       "num": 52219,
       "word": "人民海军居里夫人式女杰萨本茂逝世",
@@ -1980,7 +2116,7 @@
     },
     {
       "raw_hot": 21261,
-      "num": 397792,
+      "num": 403656,
       "word": "进博会时光",
       "onboard_time": 1762226900,
       "rank": 8,
