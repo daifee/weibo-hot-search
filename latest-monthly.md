@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/05 00:49:26
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/05 01:22:39
 </p>
 </blockquote>
 <p>
@@ -2223,6 +2223,12 @@ JackeyLove击杀Faker（热度：241670）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E9%9D%A2%E5%A3%81%E5%BA%A7%23" target="weibo">
+网友买高铁靠窗座位却遇面壁座（热度：239747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DRG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F%23" target="weibo">
 DRG对战狼队（热度：239735）
 </a>
@@ -2633,12 +2639,6 @@ TES面对LCK十五连败（热度：208527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B0%83%E4%BC%91%23" target="weibo">
 元旦调休（热度：205605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E9%9D%A2%E5%A3%81%E5%BA%A7%23" target="weibo">
-网友买高铁靠窗座位却遇面壁座（热度：205428）
 </a>
 </li>
 

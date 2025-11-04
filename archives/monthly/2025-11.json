@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762274966923,
+  "endTime": 1762276959491,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2947,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239747,
+      "num": 126488,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239735,
       "num": 296835,
       "word": "DRG对战狼队",
@@ -3496,14 +3504,6 @@
       "word": "元旦调休",
       "onboard_time": 1762251200,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205428,
-      "num": 126488,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -8371,6 +8371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108177,
+      "num": 87321,
+      "word": "马思纯工作室写给马思纯的信",
+      "onboard_time": 1762271599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107996,
       "num": 107996,
       "word": "内娱真有正主嗑自己cp",
@@ -10865,14 +10873,6 @@
       "onboard_time": 1762056079,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87321,
-      "num": 87321,
-      "word": "马思纯工作室写给马思纯的信",
-      "onboard_time": 1762271599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 87276,
@@ -13531,6 +13531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48580,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48411,
       "num": 203729,
       "word": "男子好心载同事出事故赔6万",
@@ -13755,6 +13763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42423,
+      "num": 57965,
+      "word": "孙颖莎说继续乒乒乓乓",
+      "onboard_time": 1762274957,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42056,
       "num": 80407,
       "word": "李越宏说全世界最好的射手都在中国",
@@ -13905,14 +13921,6 @@
       "onboard_time": 1761991400,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38739,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 38632,
@@ -14163,6 +14171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32129,
+      "num": 81876,
+      "word": "演员狗狗大黄上台领奖",
+      "onboard_time": 1762274177,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31824,
       "num": 163316,
       "word": "商家操纵甲醛检测数据制造焦虑",
@@ -14177,14 +14193,6 @@
       "onboard_time": 1762261521,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31495,
-      "num": 81876,
-      "word": "演员狗狗大黄上台领奖",
-      "onboard_time": 1762274177,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 31296,
@@ -14609,6 +14617,14 @@
       "onboard_time": 1762053739,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21298,
+      "num": 57279,
+      "word": "这周五就立冬了",
+      "onboard_time": 1762275138,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20453,

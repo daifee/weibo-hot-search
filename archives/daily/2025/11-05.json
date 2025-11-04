@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762274966923,
+  "endTime": 1762276959491,
   "band_list": [
     {
       "raw_hot": 536142,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239747,
+      "num": 113233,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213573,
       "num": 115172,
       "word": "网传快乐家族回归好六",
       "onboard_time": 1762262303,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205428,
-      "num": 113233,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201497,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108177,
+      "num": 87321,
+      "word": "马思纯工作室写给马思纯的信",
+      "onboard_time": 1762271599,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107288,
       "num": 107288,
       "word": "布瑞吉所有不动产都写的胡佳名字",
@@ -201,14 +209,6 @@
       "onboard_time": 1762265782,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87321,
-      "num": 87321,
-      "word": "马思纯工作室写给马思纯的信",
-      "onboard_time": 1762271599,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 82880,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48580,
+      "num": 81892,
+      "word": "孙颖莎所有幸福都稳稳接住",
+      "onboard_time": 1762274897,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47553,
       "num": 81931,
       "word": "郑丽文再表态",
@@ -371,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42423,
+      "num": 57965,
+      "word": "孙颖莎说继续乒乒乓乓",
+      "onboard_time": 1762274957,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41795,
       "num": 82001,
       "word": "山姆会员吐槽花680不是来看AI图的",
       "onboard_time": 1762255581,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38739,
-      "num": 81892,
-      "word": "孙颖莎所有幸福都稳稳接住",
-      "onboard_time": 1762274897,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 38009,
@@ -403,12 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31495,
+      "raw_hot": 32129,
       "num": 81876,
       "word": "演员狗狗大黄上台领奖",
       "onboard_time": 1762274177,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26578,
+      "num": 57329,
+      "word": "久哲离开TTG",
+      "onboard_time": 1762258222,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 23620,
@@ -425,6 +441,14 @@
       "onboard_time": 1762262182,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21298,
+      "num": 57279,
+      "word": "这周五就立冬了",
+      "onboard_time": 1762275138,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
