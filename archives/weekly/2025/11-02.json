@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762271057677,
+  "endTime": 1762273946852,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 495506,
-      "num": 495506,
+      "num": 832397,
       "word": "赵丽颖新剧一种气血很足的美",
       "onboard_time": 1762268360,
       "rank": 3,
@@ -1611,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334211,
+      "num": 159242,
+      "word": "多名韩国男性在菲律宾非婚生子失联",
+      "onboard_time": 1762269681,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 334158,
       "num": 334158,
       "word": "小胖哭了",
@@ -2121,6 +2129,14 @@
       "onboard_time": 1762070840,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 258587,
+      "num": 127925,
+      "word": "程序员被裁后卖卤肉饭10元一盒",
+      "onboard_time": 1762269081,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258392,
@@ -2691,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201497,
+      "num": 171908,
+      "word": "35岁后的就业方向",
+      "onboard_time": 1762267162,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -2899,14 +2923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191210,
-      "num": 159242,
-      "word": "多名韩国男性在菲律宾非婚生子失联",
-      "onboard_time": 1762269681,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 191072,
       "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
@@ -2977,14 +2993,6 @@
       "onboard_time": 1762088122,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186084,
-      "num": 171908,
-      "word": "35岁后的就业方向",
-      "onboard_time": 1762267162,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 185746,
@@ -3905,6 +3913,14 @@
       "onboard_time": 1762185320,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152106,
+      "num": 152106,
+      "word": "KK园区2年扩大3倍",
+      "onboard_time": 1762270639,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151726,
@@ -5699,6 +5715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113233,
+      "num": 126488,
+      "word": "网友买高铁靠窗座位却遇面壁座",
+      "onboard_time": 1762270702,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113189,
       "num": 113189,
       "word": "这居然是20岁的邓恩熙",
@@ -6115,14 +6139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108399,
-      "num": 127925,
-      "word": "程序员被裁后卖卤肉饭10元一盒",
-      "onboard_time": 1762269081,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108310,
       "num": 108310,
       "word": "西西域来了一位貌美之人",
@@ -6449,6 +6465,14 @@
       "onboard_time": 1762082721,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104017,
+      "num": 126619,
+      "word": "吴京晒流浪地球3片场照片",
+      "onboard_time": 1762270639,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 104002,
@@ -8595,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "谁敢听龚俊常华森唱五子棋",
+      "onboard_time": 1762272020,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82833,
       "num": 82833,
       "word": "张晚意 造次完最害怕的一次",
@@ -8809,14 +8841,6 @@
       "onboard_time": 1762237282,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80077,
-      "num": 126488,
-      "word": "网友买高铁靠窗座位却遇面壁座",
-      "onboard_time": 1762270702,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80060,
@@ -9259,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73144,
+      "num": 73144,
+      "word": "好好珍惜真正对你好的人",
+      "onboard_time": 1762272919,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72853,
       "num": 80772,
       "word": "停车月付最高750元遭业主吐槽",
@@ -9361,6 +9393,14 @@
       "onboard_time": 1762270821,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71089,
+      "num": 71089,
+      "word": "马思纯工作室写给马思纯的信",
+      "onboard_time": 1762271599,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 70793,
@@ -9516,7 +9556,7 @@
     },
     {
       "raw_hot": 66789,
-      "num": 71039,
+      "num": 71072,
       "word": "广东男篮vs山东男篮",
       "onboard_time": 1762269140,
       "rank": 49,
@@ -9707,20 +9747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62669,
+      "num": 71088,
+      "word": "甲流H3N2症状比普通感冒更重",
+      "onboard_time": 1762268721,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62630,
       "num": 126562,
       "word": "别因为一根淀粉肠背离教育初心",
       "onboard_time": 1762233560,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62505,
-      "num": 126788,
-      "word": "KK园区2年扩大3倍",
-      "onboard_time": 1762270639,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62265,
@@ -10011,6 +10051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51372,
+      "num": 71081,
+      "word": "脚手架垮塌遇难者父亲发声",
+      "onboard_time": 1762270579,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51230,
       "num": 52222,
       "word": "7个月婴儿遭月嫂恶意猛摇",
@@ -10073,6 +10121,14 @@
       "onboard_time": 1762138821,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49041,
+      "num": 71077,
+      "word": "此沙好恐怖的角色塑造力",
+      "onboard_time": 1762273278,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 48852,
@@ -10505,14 +10561,6 @@
       "onboard_time": 1762175302,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34147,
-      "num": 126619,
-      "word": "吴京晒流浪地球3片场照片",
-      "onboard_time": 1762270639,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 34040,
