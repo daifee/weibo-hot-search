@@ -1,0 +1,410 @@
+{
+  "runTime": 1762226180306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 694360,
+        "num": 1111097,
+        "word": "南京大学通报食堂卖999元帝王蟹",
+        "onboard_time": 1762223599,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 555702,
+        "num": 555702,
+        "word": "四喜定档",
+        "onboard_time": 1762224140,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2946,
+        "num": 479987,
+        "word": "中国体育名场面感动了一遍又一遍",
+        "onboard_time": 1762070301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435183,
+        "num": 435183,
+        "word": "何炅 最近谣传我有衰老焦虑",
+        "onboard_time": 1762188078,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281128,
+        "num": 281128,
+        "word": "金永南逝世",
+        "onboard_time": 1762214240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261394,
+        "num": 261394,
+        "word": "央视揭网购故意发错货骗局",
+        "onboard_time": 1762214418,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202100,
+        "num": 202100,
+        "word": "白鹿说我不是第一次一年播三部剧",
+        "onboard_time": 1762189217,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155925,
+        "num": 196157,
+        "word": "乘客开门杀致人损害谁担责",
+        "onboard_time": 1762222939,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154592,
+        "num": 195826,
+        "word": "山姆在争议声中再更新APP",
+        "onboard_time": 1762184899,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140752,
+        "num": 195741,
+        "word": "中国空间站可以吃烧烤了",
+        "onboard_time": 1762181123,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195697,
+        "num": 195697,
+        "word": "山神异闻录开播",
+        "onboard_time": 1762225461,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63098,
+        "num": 195462,
+        "word": "朝鲜将为金永南举行国葬",
+        "onboard_time": 1762224861,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 460387,
+        "num": 195265,
+        "word": "男子晒媳妇买了15双一样的勃肯鞋",
+        "onboard_time": 1762215922,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379370,
+        "num": 194860,
+        "word": "白百何发生了什么",
+        "onboard_time": 1762219760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333432,
+        "num": 194564,
+        "word": "用芥末泡虾虾线都快吐出来了",
+        "onboard_time": 1762221081,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322059,
+        "num": 194443,
+        "word": "北京一副区长停电动车竟遭三连拒",
+        "onboard_time": 1762225880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319972,
+        "num": 194006,
+        "word": "小伙花170万买迈巴赫跑婚车",
+        "onboard_time": 1762217482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213961,
+        "num": 193759,
+        "word": "品牌回应翁青雅直播翻车",
+        "onboard_time": 1762212138,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79874,
+        "num": 193532,
+        "word": "湖人vs开拓者",
+        "onboard_time": 1762225760,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81186,
+        "num": 193128,
+        "word": "京东拍卖巴掌大野生黑松露",
+        "onboard_time": 1762225399,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 450222,
+        "num": 192938,
+        "word": "欧豪在看马思纯吗",
+        "onboard_time": 1762177043,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266566,
+        "num": 192562,
+        "word": "原来月经期是女生最好的恢复期",
+        "onboard_time": 1762219640,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202431,
+        "num": 192218,
+        "word": "女子反抗猥亵被害153斤巨石压尸",
+        "onboard_time": 1762180102,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192045,
+        "num": 192045,
+        "word": "李兰迪发言我都有点智性恋了",
+        "onboard_time": 1762217602,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184490,
+        "num": 184490,
+        "word": "高度近视改善眼凸的方法",
+        "onboard_time": 1762223539,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164291,
+        "num": 164291,
+        "word": "男子杀人埋尸因坦白情节被判死缓",
+        "onboard_time": 1762221200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162734,
+        "num": 162734,
+        "word": "许绍雄生忌女儿发文",
+        "onboard_time": 1762219640,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146101,
+        "num": 146101,
+        "word": "蓝盈莹回应撞衫",
+        "onboard_time": 1762182441,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127700,
+        "num": 145927,
+        "word": "张艺兴KTV开超长4小时演唱会",
+        "onboard_time": 1762222521,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113423,
+        "num": 145418,
+        "word": "天地剑心王弘毅演技",
+        "onboard_time": 1762220420,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173578,
+        "num": 145081,
+        "word": "AL爱笑谈队员续约",
+        "onboard_time": 1762224920,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157277,
+        "num": 144638,
+        "word": "唐嫣新剧编剧秦雯",
+        "onboard_time": 1762218680,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144376,
+        "num": 144376,
+        "word": "孙颖莎25岁首场大赛是全运会",
+        "onboard_time": 1762225160,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "光绪 DNA",
+        "onboard_time": 1762212859,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128231,
+        "num": 128231,
+        "word": "为什么方圆脸要多尝试半框眼镜",
+        "onboard_time": 1762216223,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125480,
+        "num": 125480,
+        "word": "赵子豪的全运队服好显白",
+        "onboard_time": 1762226001,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 124766,
+        "word": "iOS26.1正式版来了",
+        "onboard_time": 1762224320,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "黄金有关税收政策公告来了",
+        "onboard_time": 1762225280,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41654,
+        "num": 113948,
+        "word": "副县级干部退休的他工资卡余额38元",
+        "onboard_time": 1762225819,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 29113,
+        "num": 112300,
+        "word": "俄罗斯飞行员来中国成箱采购啤酒",
+        "onboard_time": 1762225760,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111752,
+        "num": 111752,
+        "word": "王鹤棣攒了一年八卦就等今天了",
+        "onboard_time": 1762183225,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109101,
+        "num": 109101,
+        "word": "杨阳特别感谢了杨洋",
+        "onboard_time": 1762212739,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105636,
+        "num": 105636,
+        "word": "朱开说Kanavi只能在LPL打",
+        "onboard_time": 1762222820,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102035,
+        "num": 102035,
+        "word": "3天后立冬",
+        "onboard_time": 1762215680,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96109,
+        "num": 96109,
+        "word": "西西域来了一位貌美之人",
+        "onboard_time": 1762224440,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "美政府停摆已影响320万航空旅客",
+        "onboard_time": 1762223421,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 88516,
+        "word": "终于学会羽绒服的搭配技巧了",
+        "onboard_time": 1762219099,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 88234,
+        "num": 88234,
+        "word": "杨瀚森再战湖人",
+        "onboard_time": 1762223661,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86530,
+        "num": 86530,
+        "word": "大奉打更人官宣第二季",
+        "onboard_time": 1762181303,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86465,
+        "num": 86465,
+        "word": "中国航天员太空烤鸡翅",
+        "onboard_time": 1762179982,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席韩国之行#"
+    }
+  }
+}
