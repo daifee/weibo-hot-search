@@ -1,14 +1,30 @@
 {
   "startTime": 1762187467799,
-  "endTime": 1762213137571,
+  "endTime": 1762221440258,
   "band_list": [
     {
       "raw_hot": 999141,
-      "num": 108713,
+      "num": 161721,
       "word": "欧豪在看马思纯吗",
       "onboard_time": 1762177043,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 638195,
+      "num": 1102111,
+      "word": "央视揭网购故意发错货骗局",
+      "onboard_time": 1762214418,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636655,
+      "num": 193301,
+      "word": "男子晒媳妇买了15双一样的勃肯鞋",
+      "onboard_time": 1762215922,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627983,
@@ -19,12 +35,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612626,
+      "num": 193245,
+      "word": "小伙花170万买迈巴赫跑婚车",
+      "onboard_time": 1762217482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604008,
+      "num": 193210,
+      "word": "白百何发生了什么",
+      "onboard_time": 1762219760,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 589837,
+      "num": 589837,
+      "word": "金永南逝世",
+      "onboard_time": 1762214240,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 558452,
       "num": 854977,
       "word": "蓝盈莹回应撞衫",
       "onboard_time": 1762182441,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546802,
+      "num": 546802,
+      "word": "帝王蟹不应进入学校食堂",
+      "onboard_time": 1762217482,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435359,
@@ -36,7 +84,7 @@
     },
     {
       "raw_hot": 428550,
-      "num": 117384,
+      "num": 193057,
       "word": "女子反抗猥亵被害153斤巨石压尸",
       "onboard_time": 1762180102,
       "rank": 10,
@@ -44,7 +92,7 @@
     },
     {
       "raw_hot": 415774,
-      "num": 110320,
+      "num": 193172,
       "word": "品牌回应翁青雅直播翻车",
       "onboard_time": 1762212138,
       "rank": 12,
@@ -67,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366416,
+      "num": 193149,
+      "word": "李兰迪发言我都有点智性恋了",
+      "onboard_time": 1762217602,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359014,
       "num": 115708,
       "word": "王传君 春树",
       "onboard_time": 1762185081,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282658,
+      "num": 193089,
+      "word": "为什么方圆脸要多尝试半框眼镜",
+      "onboard_time": 1762216223,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 260407,
@@ -115,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215670,
+      "num": 215670,
+      "word": "白鹿说我不是第一次一年播三部剧",
+      "onboard_time": 1762189217,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211430,
       "num": 113434,
       "word": "白百何 还能这么操作",
@@ -123,20 +195,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209890,
+      "num": 122885,
+      "word": "用芥末泡虾虾线都快吐出来了",
+      "onboard_time": 1762221081,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 207006,
+      "num": 160394,
+      "word": "孙颖莎生日",
+      "onboard_time": 1762213640,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195502,
+      "num": 158981,
+      "word": "原来月经期是女生最好的恢复期",
+      "onboard_time": 1762219640,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194093,
-      "num": 112893,
+      "num": 124242,
       "word": "邢菲拿奖导播切杨幂秦海璐",
       "onboard_time": 1762176142,
       "rank": 14,
       "category": "综艺"
     },
     {
-      "raw_hot": 181306,
-      "num": 146798,
-      "word": "白鹿说我不是第一次一年播三部剧",
-      "onboard_time": 1762189217,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "哥伦比亚23岁女子喝酒挑战后去世",
+      "onboard_time": 1762213400,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189903,
+      "num": 189903,
+      "word": "许绍雄生忌女儿发文",
+      "onboard_time": 1762219640,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178983,
+      "num": 158539,
+      "word": "唐嫣新剧编剧秦雯",
+      "onboard_time": 1762218680,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 175936,
@@ -163,10 +275,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161892,
-      "num": 146285,
+      "raw_hot": 161947,
+      "num": 161947,
       "word": "王鹤棣攒了一年八卦就等今天了",
       "onboard_time": 1762183225,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157529,
+      "num": 157529,
+      "word": "杨阳特别感谢了杨洋",
+      "onboard_time": 1762212739,
       "rank": 28,
       "category": "综艺"
     },
@@ -177,6 +297,22 @@
       "onboard_time": 1762185320,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150629,
+      "num": 150629,
+      "word": "阿里回应饿了么更名",
+      "onboard_time": 1762220600,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 148279,
+      "num": 193321,
+      "word": "境外间谍借兼职拉拢学生收集敏感数据",
+      "onboard_time": 1762214240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143491,
@@ -235,12 +371,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115472,
+      "num": 115472,
+      "word": "终于学会羽绒服的搭配技巧了",
+      "onboard_time": 1762219099,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 110692,
+      "num": 110692,
+      "word": "光绪 DNA",
+      "onboard_time": 1762212859,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110026,
       "num": 110026,
       "word": "特朗普70分钟采访提及中国41次",
       "onboard_time": 1762173982,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109520,
+      "num": 109520,
+      "word": "彩礼背后真正的意义",
+      "onboard_time": 1762219280,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 107681,
@@ -251,20 +411,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107559,
+      "num": 128021,
+      "word": "天地剑心王弘毅演技",
+      "onboard_time": 1762220420,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107237,
+      "num": 107237,
+      "word": "杨笠清空抖音",
+      "onboard_time": 1762180162,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102971,
+      "num": 102971,
+      "word": "Faker紧急教学oner",
+      "onboard_time": 1762215922,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101944,
       "num": 101944,
       "word": "房主任搂着杨幂给女儿录视频",
       "onboard_time": 1762168763,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101732,
-      "num": 101732,
-      "word": "杨笠清空抖音",
-      "onboard_time": 1762180162,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 100982,
@@ -291,12 +467,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93641,
+      "num": 93641,
+      "word": "男子杀人埋尸因坦白情节被判死缓",
+      "onboard_time": 1762221200,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91163,
       "num": 98122,
       "word": "蒲熠星回应通告费",
       "onboard_time": 1762164561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89874,
+      "num": 89874,
+      "word": "3天后立冬",
+      "onboard_time": 1762215680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87158,
+      "num": 87158,
+      "word": "库里做客詹姆斯播客节目",
+      "onboard_time": 1762221200,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85577,
+      "num": 85577,
+      "word": "王鹤棣 何老师我们爱你",
+      "onboard_time": 1762220119,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85488,
+      "num": 85488,
+      "word": "何炅 我想cue张凌赫",
+      "onboard_time": 1762217841,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84956,
+      "num": 84956,
+      "word": "国际奥委会为孙颖莎庆生",
+      "onboard_time": 1762216040,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 83101,
@@ -315,12 +539,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80830,
+      "num": 80830,
+      "word": "网友质疑山姆商品信息打码展示",
+      "onboard_time": 1762221321,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79982,
       "num": 98029,
       "word": "谢娜获奖准备了发言稿",
       "onboard_time": 1762183403,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79723,
+      "num": 79723,
+      "word": "星巴克中国易主",
+      "onboard_time": 1762218380,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 77624,
+      "num": 77624,
+      "word": "再也不敢直视没认真洗过的西兰花了",
+      "onboard_time": 1762219640,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 77022,
@@ -411,14 +659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 61363,
-      "num": 61363,
-      "word": "杨阳特别感谢了杨洋",
-      "onboard_time": 1762212739,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60427,
       "num": 60427,
       "word": "杨幂 美羊羊扶额",
@@ -505,14 +745,6 @@
       "onboard_time": 1762181123,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46753,
-      "num": 52220,
-      "word": "光绪 DNA",
-      "onboard_time": 1762212859,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 43511,
@@ -699,8 +931,8 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 3099,
-      "num": 374865,
+      "raw_hot": 3780,
+      "num": 550959,
       "word": "中国体育名场面感动了一遍又一遍",
       "onboard_time": 1762070301,
       "rank": 2,

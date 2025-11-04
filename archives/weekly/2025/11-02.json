@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762213137571,
+  "endTime": 1762221440258,
   "band_list": [
     {
       "raw_hot": 3905506,
@@ -411,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638195,
+      "num": 1102111,
+      "word": "央视揭网购故意发错货骗局",
+      "onboard_time": 1762214418,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636655,
+      "num": 193301,
+      "word": "男子晒媳妇买了15双一样的勃肯鞋",
+      "onboard_time": 1762215922,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635309,
       "num": 202824,
       "word": "大批品牌检出苏丹红",
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612626,
+      "num": 193245,
+      "word": "小伙花170万买迈巴赫跑婚车",
+      "onboard_time": 1762217482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612599,
       "num": 1098015,
       "word": "电影鬼灭之刃",
@@ -473,6 +497,14 @@
       "onboard_time": 1762153041,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604008,
+      "num": 193210,
+      "word": "白百何发生了什么",
+      "onboard_time": 1762219760,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 595176,
@@ -497,6 +529,14 @@
       "onboard_time": 1762180102,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 589837,
+      "num": 589837,
+      "word": "金永南逝世",
+      "onboard_time": 1762214240,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 581199,
@@ -569,6 +609,14 @@
       "onboard_time": 1762177403,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 546802,
+      "num": 546802,
+      "word": "帝王蟹不应进入学校食堂",
+      "onboard_time": 1762217482,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537743,
@@ -868,7 +916,7 @@
     },
     {
       "raw_hot": 415774,
-      "num": 110320,
+      "num": 193172,
       "word": "品牌回应翁青雅直播翻车",
       "onboard_time": 1762212138,
       "rank": 12,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1762073721,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 366416,
+      "num": 193149,
+      "word": "李兰迪发言我都有点智性恋了",
+      "onboard_time": 1762217602,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 366356,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1762008983,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282658,
+      "num": 193089,
+      "word": "为什么方圆脸要多尝试半框眼镜",
+      "onboard_time": 1762216223,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 282629,
@@ -1835,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215670,
+      "num": 215670,
+      "word": "白鹿说我不是第一次一年播三部剧",
+      "onboard_time": 1762189217,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215422,
       "num": 333161,
       "word": "广州地铁回应APP乘车码频繁弹窗广告",
@@ -1891,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209890,
+      "num": 122885,
+      "word": "用芥末泡虾虾线都快吐出来了",
+      "onboard_time": 1762221081,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209831,
       "num": 176760,
       "word": "鱼你有染",
@@ -1937,6 +2017,14 @@
       "onboard_time": 1762080441,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207006,
+      "num": 160394,
+      "word": "孙颖莎生日",
+      "onboard_time": 1762213640,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 206911,
@@ -2099,6 +2187,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 195502,
+      "num": 158981,
+      "word": "原来月经期是女生最好的恢复期",
+      "onboard_time": 1762219640,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195128,
       "num": 208415,
       "word": "老人疑强占幼儿园练剑与家长起冲突",
@@ -2155,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "哥伦比亚23岁女子喝酒挑战后去世",
+      "onboard_time": 1762213400,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192693,
       "num": 192693,
       "word": "敖瑞鹏的脸张新成的嗓子",
@@ -2185,6 +2289,14 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189903,
+      "num": 189903,
+      "word": "许绍雄生忌女儿发文",
+      "onboard_time": 1762219640,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 187740,
@@ -2291,14 +2403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181306,
-      "num": 146798,
-      "word": "白鹿说我不是第一次一年播三部剧",
-      "onboard_time": 1762189217,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
@@ -2321,6 +2425,14 @@
       "onboard_time": 1762083561,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178983,
+      "num": 158539,
+      "word": "唐嫣新剧编剧秦雯",
+      "onboard_time": 1762218680,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 178829,
@@ -2619,8 +2731,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 161892,
-      "num": 146285,
+      "raw_hot": 161947,
+      "num": 161947,
       "word": "王鹤棣攒了一年八卦就等今天了",
       "onboard_time": 1762183225,
       "rank": 36,
@@ -2689,6 +2801,14 @@
       "onboard_time": 1762174222,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157529,
+      "num": 157529,
+      "word": "杨阳特别感谢了杨洋",
+      "onboard_time": 1762212739,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 157503,
@@ -2827,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150629,
+      "num": 150629,
+      "word": "阿里回应饿了么更名",
+      "onboard_time": 1762220600,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150618,
       "num": 150618,
       "word": "法院回应法官直播卖螃蟹",
@@ -2897,6 +3025,14 @@
       "onboard_time": 1762143502,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148279,
+      "num": 193321,
+      "word": "境外间谍借兼职拉拢学生收集敏感数据",
+      "onboard_time": 1762214240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148278,
@@ -3923,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115472,
+      "num": 115472,
+      "word": "终于学会羽绒服的搭配技巧了",
+      "onboard_time": 1762219099,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 115347,
       "num": 115347,
       "word": "美军机连续坠入南海最新调查曝光",
@@ -4115,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110692,
+      "num": 110692,
+      "word": "光绪 DNA",
+      "onboard_time": 1762212859,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110666,
       "num": 110666,
       "word": "减肥到底要瘦到什么程度才算合适",
@@ -4168,6 +4320,14 @@
       "word": "早睡简直就是人生作弊器",
       "onboard_time": 1762166961,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 109520,
+      "num": 109520,
+      "word": "彩礼背后真正的意义",
+      "onboard_time": 1762219280,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -4281,6 +4441,14 @@
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107559,
+      "num": 128021,
+      "word": "天地剑心王弘毅演技",
+      "onboard_time": 1762220420,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 107538,
@@ -4553,6 +4721,14 @@
       "onboard_time": 1762092742,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102971,
+      "num": 102971,
+      "word": "Faker紧急教学oner",
+      "onboard_time": 1762215922,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 102858,
@@ -5155,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93641,
+      "num": 93641,
+      "word": "男子杀人埋尸因坦白情节被判死缓",
+      "onboard_time": 1762221200,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -5443,6 +5627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 89874,
+      "num": 89874,
+      "word": "3天后立冬",
+      "onboard_time": 1762215680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89809,
       "num": 89809,
       "word": "山姆回应产品图更改",
@@ -5627,6 +5819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87158,
+      "num": 87158,
+      "word": "库里做客詹姆斯播客节目",
+      "onboard_time": 1762221200,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87153,
       "num": 87153,
       "word": "全红婵王伟莹赛前热身",
@@ -5787,12 +5987,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85577,
+      "num": 85577,
+      "word": "王鹤棣 何老师我们爱你",
+      "onboard_time": 1762220119,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85520,
       "num": 85520,
       "word": "李白没想到几千年后还有这一劫",
       "onboard_time": 1762044020,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85488,
+      "num": 85488,
+      "word": "何炅 我想cue张凌赫",
+      "onboard_time": 1762217841,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 85129,
@@ -5809,6 +6025,14 @@
       "onboard_time": 1762049660,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 84956,
+      "num": 84956,
+      "word": "国际奥委会为孙颖莎庆生",
+      "onboard_time": 1762216040,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 84894,
@@ -6067,6 +6291,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 80830,
+      "num": 80830,
+      "word": "网友质疑山姆商品信息打码展示",
+      "onboard_time": 1762221321,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80591,
       "num": 80591,
       "word": "女子遭丈夫掐脖致半身不遂案开庭",
@@ -6113,6 +6345,14 @@
       "onboard_time": 1762162223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79723,
+      "num": 79723,
+      "word": "星巴克中国易主",
+      "onboard_time": 1762218380,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 79661,
@@ -6225,6 +6465,14 @@
       "onboard_time": 1762169782,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77624,
+      "num": 77624,
+      "word": "再也不敢直视没认真洗过的西兰花了",
+      "onboard_time": 1762219640,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 77498,
@@ -6739,14 +6987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 61363,
-      "num": 61363,
-      "word": "杨阳特别感谢了杨洋",
-      "onboard_time": 1762212739,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61220,
       "num": 103073,
       "word": "吴彤杨幂是难得反应很快的嘉宾",
@@ -7025,14 +7265,6 @@
       "onboard_time": 1762160721,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46753,
-      "num": 52220,
-      "word": "光绪 DNA",
-      "onboard_time": 1762212859,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 45996,
@@ -7772,7 +8004,7 @@
     },
     {
       "raw_hot": 10669,
-      "num": 376230,
+      "num": 550959,
       "word": "中国体育名场面感动了一遍又一遍",
       "onboard_time": 1762070301,
       "rank": 41,
