@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762327605753,
+  "endTime": 1762328389017,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -115,20 +115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1474377,
+      "num": 208055,
+      "word": "抗癌针",
+      "onboard_time": 1762325540,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1291333,
       "num": 479366,
       "word": "短剧演员红毯上接吻",
       "onboard_time": 1762084462,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1283060,
-      "num": 208055,
-      "word": "抗癌针",
-      "onboard_time": 1762325540,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1273997,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 897912,
+      "num": 199657,
+      "word": "考生笑了五分钟才开始答卷",
+      "onboard_time": 1762325300,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 881192,
       "num": 241295,
       "word": "小S二女儿谈具俊晔暴瘦",
@@ -473,14 +481,6 @@
       "onboard_time": 1762007963,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 741516,
-      "num": 199657,
-      "word": "考生笑了五分钟才开始答卷",
-      "onboard_time": 1762325300,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 739771,
@@ -880,6 +880,14 @@
       "word": "骗子用l0086冒充10086",
       "onboard_time": 1762129040,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560199,
+      "num": 560199,
+      "word": "律师自曝取款被银行盘问报警",
+      "onboard_time": 1762322841,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1297,6 +1305,14 @@
       "onboard_time": 1762246881,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 440325,
+      "num": 440325,
+      "word": "唐嫣爱情没有神话 撤档",
+      "onboard_time": 1762325900,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 439280,
@@ -1787,6 +1803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355635,
+      "num": 177383,
+      "word": "康熙",
+      "onboard_time": 1762326140,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 354803,
       "num": 168819,
       "word": "模特码 正常码",
@@ -2000,14 +2024,6 @@
       "word": "山姆改回实拍图",
       "onboard_time": 1762235960,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320496,
-      "num": 320496,
-      "word": "律师自曝取款被银行盘问报警",
-      "onboard_time": 1762322841,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2227,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288793,
+      "num": 181301,
+      "word": "新加坡鞭刑执行画面",
+      "onboard_time": 1762326321,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 288488,
       "num": 288488,
       "word": "我给永夜星河一周年做的片头",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1762317982,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283542,
+      "num": 190749,
+      "word": "央视撤档爱情没有神话",
+      "onboard_time": 1762325720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 283157,
@@ -2449,14 +2481,6 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264783,
-      "num": 216551,
-      "word": "唐嫣爱情没有神话 撤档",
-      "onboard_time": 1762325900,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 263631,
@@ -3467,14 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190749,
-      "num": 190749,
-      "word": "央视撤档爱情没有神话",
-      "onboard_time": 1762325720,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190339,
       "num": 157280,
       "word": "会穿衣服是一种超绝的能力",
@@ -3675,14 +3691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181301,
-      "num": 181301,
-      "word": "新加坡鞭刑执行画面",
-      "onboard_time": 1762326321,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
@@ -3753,14 +3761,6 @@
       "onboard_time": 1762073960,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177383,
-      "num": 177383,
-      "word": "康熙",
-      "onboard_time": 1762326140,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 177351,
@@ -3905,6 +3905,14 @@
       "onboard_time": 1762262841,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172235,
+      "num": 172235,
+      "word": "Doinb谈Uzi",
+      "onboard_time": 1762328360,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 172093,
@@ -4171,6 +4179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164803,
+      "num": 164803,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164546,
       "num": 164546,
       "word": "欧豪把6个角色的名字挂在衣服上",
@@ -4249,6 +4265,14 @@
       "onboard_time": 1762259481,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162304,
+      "num": 183590,
+      "word": "倪萍说出了多少男人在家庭中的真实状态",
+      "onboard_time": 1762326741,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 162271,
@@ -4340,7 +4364,7 @@
     },
     {
       "raw_hot": 159309,
-      "num": 159309,
+      "num": 164870,
       "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
       "onboard_time": 1762315821,
       "rank": 32,
@@ -4675,14 +4699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151280,
-      "num": 183590,
-      "word": "倪萍说出了多少男人在家庭中的真实状态",
-      "onboard_time": 1762326741,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151250,
       "num": 161045,
       "word": "孙乐言首次来offer",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1762082103,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148005,
-      "num": 148005,
-      "word": "糖化脸和吃糖是什么关系",
-      "onboard_time": 1762326980,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 147967,
@@ -5011,20 +5019,20 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 143530,
+      "num": 182966,
+      "word": "新闻女王2没有徐晓薇",
+      "onboard_time": 1762326440,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143295,
       "num": 143295,
       "word": "大侦探十周年闪耀大赏",
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143147,
-      "num": 182966,
-      "word": "新闻女王2没有徐晓薇",
-      "onboard_time": 1762326440,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 142736,
@@ -5201,6 +5209,14 @@
       "onboard_time": 1762095682,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139465,
+      "num": 139465,
+      "word": "何小鹏首次披露物理AI巨大进展",
+      "onboard_time": 1762325181,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 139125,
@@ -5851,12 +5867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127722,
+      "num": 186709,
+      "word": "中美11月10日将互降关税",
+      "onboard_time": 1762326260,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127700,
       "num": 145927,
       "word": "张艺兴KTV开超长4小时演唱会",
       "onboard_time": 1762222521,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127641,
+      "num": 127641,
+      "word": "iPhone面容解锁不需要摄像头",
+      "onboard_time": 1762328239,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 127351,
@@ -6027,6 +6059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123949,
+      "num": 123949,
+      "word": "成都160万元凶宅26.6万拍卖",
+      "onboard_time": 1762327521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
@@ -6123,14 +6163,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122667,
-      "num": 122667,
-      "word": "何小鹏首次披露物理AI巨大进展",
-      "onboard_time": 1762325181,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "杨瀚森翻译刘禹铖进入开拓者教练组",
@@ -6161,14 +6193,6 @@
       "onboard_time": 1762093224,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122271,
-      "num": 186709,
-      "word": "中美11月10日将互降关税",
-      "onboard_time": 1762326260,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122074,
@@ -7449,6 +7473,14 @@
       "onboard_time": 1762061659,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105525,
+      "num": 168133,
+      "word": "李沁给每个人都买了头巾",
+      "onboard_time": 1762328061,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 105491,
@@ -8979,6 +9011,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 92538,
+      "num": 92538,
+      "word": "东京电影节",
+      "onboard_time": 1762328299,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92474,
       "num": 125922,
       "word": "S7主题曲原唱到成都了",
@@ -9345,6 +9385,14 @@
       "onboard_time": 1762061841,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89305,
+      "num": 89305,
+      "word": "怪不得老师都不爱改试卷",
+      "onboard_time": 1762327941,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89177,
@@ -10283,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81174,
+      "num": 189954,
+      "word": "宠物冥币",
+      "onboard_time": 1762326621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81142,
       "num": 81142,
       "word": "王楚钦乖乖顺毛",
@@ -10883,6 +10939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72830,
+      "num": 169169,
+      "word": "巴西临时迁都",
+      "onboard_time": 1762328239,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72800,
       "num": 86126,
       "word": "王宗源断层第一",
@@ -11171,14 +11235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66897,
-      "num": 110923,
-      "word": "成都160万元凶宅26.6万拍卖",
-      "onboard_time": 1762327521,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66823,
       "num": 66823,
       "word": "以色列总理称遭严重舆论打击",
@@ -11337,6 +11393,14 @@
       "onboard_time": 1762172421,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63793,
+      "num": 118317,
+      "word": "上海高级感螺蛳粉",
+      "onboard_time": 1762327220,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63330,
@@ -11617,14 +11681,6 @@
       "onboard_time": 1762185200,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 56050,
-      "num": 189954,
-      "word": "宠物冥币",
-      "onboard_time": 1762326621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55917,
@@ -12347,14 +12403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33001,
-      "num": 111090,
-      "word": "上海高级感螺蛳粉",
-      "onboard_time": 1762327220,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32770,
       "num": 88988,
       "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
@@ -12451,6 +12499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29693,
+      "num": 132801,
+      "word": "大批理工科人才要逃离韩国",
+      "onboard_time": 1762327220,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29624,
       "num": 42683,
       "word": "汪苏泷演唱会帅成啥样了",
@@ -12513,14 +12569,6 @@
       "onboard_time": 1762057700,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27495,
-      "num": 112388,
-      "word": "大批理工科人才要逃离韩国",
-      "onboard_time": 1762327220,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27475,
