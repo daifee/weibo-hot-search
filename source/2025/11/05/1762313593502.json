@@ -1,0 +1,410 @@
+{
+  "runTime": 1762313593502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117707,
+        "num": 1178833,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 861826,
+        "num": 861826,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72525,
+        "num": 678193,
+        "word": "第八届进博会",
+        "onboard_time": 1762312701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670463,
+        "num": 670463,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429845,
+        "num": 429845,
+        "word": "常华森天地剑心戏份",
+        "onboard_time": 1762310480,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363895,
+        "num": 363895,
+        "word": "神20返回任务推迟",
+        "onboard_time": 1762308681,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354881,
+        "num": 354881,
+        "word": "雀骨",
+        "onboard_time": 1762309699,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307637,
+        "num": 307637,
+        "word": "KK园区电诈人员已开始再就业",
+        "onboard_time": 1762305680,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259873,
+        "num": 259873,
+        "word": "新公务员发涉密文件炫耀被处分",
+        "onboard_time": 1762301479,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175559,
+        "num": 220515,
+        "word": "赵丽颖新剧一种气血很足的美",
+        "onboard_time": 1762268360,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709024,
+        "num": 218810,
+        "word": "金银暴涨意味着全球滞胀吗",
+        "onboard_time": 1762307121,
+        "rank": 10,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 444409,
+        "num": 218632,
+        "word": "吴镇宇刷老年卡被质疑",
+        "onboard_time": 1762299499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216718,
+        "num": 216718,
+        "word": "张凌赫出道前的理想是去国家电网",
+        "onboard_time": 1762302621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210561,
+        "num": 210561,
+        "word": "将门毒后女主接触章若楠",
+        "onboard_time": 1762310961,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185484,
+        "num": 185484,
+        "word": "龚俊 你俩单独出去开一间吧",
+        "onboard_time": 1762311380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181213,
+        "num": 181213,
+        "word": "赵樱子晒因为爱情有多美聚会vlog",
+        "onboard_time": 1762303941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177481,
+        "num": 177481,
+        "word": "杨丞琳给我干哪年来了",
+        "onboard_time": 1762311620,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169108,
+        "num": 169108,
+        "word": "妈妈检查女儿书包发现诡异恐怖画",
+        "onboard_time": 1762263621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "刘思涵你的校服在非洲火了",
+        "onboard_time": 1762305680,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57315,
+        "num": 152839,
+        "word": "在沙漠看大地星河有多浪漫",
+        "onboard_time": 1762311920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513349,
+        "num": 152786,
+        "word": "全红婵并腿的权威性",
+        "onboard_time": 1762311500,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190142,
+        "num": 152646,
+        "word": "原来有酒窝的人脸部肌肉天生独特",
+        "onboard_time": 1762306099,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173492,
+        "num": 152502,
+        "word": "家长抱婴儿在学校路边值护学岗",
+        "onboard_time": 1762312341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146994,
+        "num": 152443,
+        "word": "小心快递放家门口骗局",
+        "onboard_time": 1762312280,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152352,
+        "num": 152352,
+        "word": "赵樱子想让陈晓掀头纱",
+        "onboard_time": 1762298118,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137362,
+        "num": 152142,
+        "word": "新闻女王2开播",
+        "onboard_time": 1762309699,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 150826,
+        "word": "刘也首部古装男主剧终于要来了",
+        "onboard_time": 1762312820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131467,
+        "num": 149557,
+        "word": "惊天魔盗团3官宣黄子弘凡新身份",
+        "onboard_time": 1762301421,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128848,
+        "num": 148307,
+        "word": "花少7戒断期要来了",
+        "onboard_time": 1762312040,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127243,
+        "num": 147574,
+        "word": "你好星期六配置",
+        "onboard_time": 1762299018,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "苏醒你对我的经济实力一无所知",
+        "onboard_time": 1762312880,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169813,
+        "num": 147033,
+        "word": "本科生和研究生的宿舍差距",
+        "onboard_time": 1762312940,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147006,
+        "num": 147006,
+        "word": "12306回应高铁1A座被指面壁座",
+        "onboard_time": 1762301421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144220,
+        "num": 144220,
+        "word": "11月最适合躺平的星座",
+        "onboard_time": 1762312639,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130635,
+        "num": 130635,
+        "word": "原来肖战19年就有晋江式演技了",
+        "onboard_time": 1762268662,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123926,
+        "num": 123926,
+        "word": "折叠屏iPhone明年亮相",
+        "onboard_time": 1762300760,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103873,
+        "num": 103873,
+        "word": "纽约3岁华裔男童被撞身亡母亲发声",
+        "onboard_time": 1762309939,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90851,
+        "num": 90851,
+        "word": "内蒙古出现巨型大地之树",
+        "onboard_time": 1762309100,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27250,
+        "num": 90472,
+        "word": "男子求见李嘉诚被拦打伤保安",
+        "onboard_time": 1762312940,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78632,
+        "num": 90327,
+        "word": "刘宇宁是不是连夜背梗了",
+        "onboard_time": 1762312639,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90317,
+        "num": 90317,
+        "word": "玉簟秋诚不欺我",
+        "onboard_time": 1762308140,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85155,
+        "num": 85155,
+        "word": "男子醉酒冻死街头同桌6人赔20多万",
+        "onboard_time": 1762308021,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80626,
+        "num": 80626,
+        "word": "国台办新发言人张晗",
+        "onboard_time": 1762309999,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80010,
+        "num": 80010,
+        "word": "2025电视剧演员中坚力量",
+        "onboard_time": 1762312221,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77160,
+        "num": 77160,
+        "word": "苹果有苹果的办法",
+        "onboard_time": 1762306040,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 75416,
+        "num": 75416,
+        "word": "成都英雄联盟总决赛观赛氛围拉满",
+        "onboard_time": 1762308979,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74304,
+        "num": 74304,
+        "word": "中国皮蛋海外圈粉",
+        "onboard_time": 1762312040,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74247,
+        "num": 74247,
+        "word": "冬天穿袜子睡觉不只暖脚",
+        "onboard_time": 1762313540,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69575,
+        "num": 73826,
+        "word": "黄金还要继续跌吗",
+        "onboard_time": 1762311920,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67420,
+        "num": 73674,
+        "word": "离了京阿尼谁还把我当小孩",
+        "onboard_time": 1762311680,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

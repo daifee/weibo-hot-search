@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762312700434,
+  "endTime": 1762313593502,
   "band_list": [
     {
       "raw_hot": 1229180,
@@ -9,6 +9,14 @@
       "onboard_time": 1762306099,
       "rank": 0,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 861826,
+      "num": 861826,
+      "word": "神二十疑遭碎片撞击",
+      "onboard_time": 1762311260,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 768177,
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 766759,
-      "num": 429883,
+      "num": 670463,
       "word": "墨西哥女总统当街遭男子猥亵",
       "onboard_time": 1762308260,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 709024,
+      "num": 265386,
+      "word": "金银暴涨意味着全球滞胀吗",
+      "onboard_time": 1762307121,
+      "rank": 36,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 626933,
@@ -51,12 +67,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 479062,
-      "num": 265386,
-      "word": "金银暴涨意味着全球滞胀吗",
-      "onboard_time": 1762307121,
-      "rank": 36,
-      "category": "财经,民生新闻"
+      "raw_hot": 513349,
+      "num": 190498,
+      "word": "全红婵并腿的权威性",
+      "onboard_time": 1762311500,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 462792,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429845,
+      "num": 429845,
+      "word": "常华森天地剑心戏份",
+      "onboard_time": 1762310480,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422885,
       "num": 422885,
       "word": "KK园区电诈人员已开始再就业",
@@ -105,14 +129,6 @@
       "onboard_time": 1762302621,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404046,
-      "num": 404046,
-      "word": "常华森天地剑心戏份",
-      "onboard_time": 1762310480,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 392293,
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327885,
-      "num": 327885,
-      "word": "神二十疑遭碎片撞击",
-      "onboard_time": 1762311260,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 303203,
       "num": 200144,
       "word": "刘思涵你的校服在非洲火了",
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245582,
-      "num": 190498,
-      "word": "全红婵并腿的权威性",
-      "onboard_time": 1762311500,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236413,
       "num": 236413,
       "word": "跳绳是减重排行榜第一名的运动",
@@ -273,6 +273,14 @@
       "onboard_time": 1762262303,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210561,
+      "num": 210561,
+      "word": "将门毒后女主接触章若楠",
+      "onboard_time": 1762310961,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 201861,
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189447,
-      "num": 189447,
-      "word": "将门毒后女主接触章若楠",
-      "onboard_time": 1762310961,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186291,
       "num": 117182,
       "word": "UPS货机坠毁已致3死11伤",
@@ -371,12 +371,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177481,
+      "num": 177481,
+      "word": "杨丞琳给我干哪年来了",
+      "onboard_time": 1762311620,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 173492,
+      "num": 152502,
+      "word": "家长抱婴儿在学校路边值护学岗",
+      "onboard_time": 1762312341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171169,
       "num": 477404,
       "word": "欧冠联赛",
       "onboard_time": 1762295175,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169813,
+      "num": 147033,
+      "word": "本科生和研究生的宿舍差距",
+      "onboard_time": 1762312940,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 166847,
@@ -403,20 +427,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151258,
-      "num": 151258,
-      "word": "杨丞琳给我干哪年来了",
-      "onboard_time": 1762311620,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148367,
       "num": 124526,
       "word": "吴京晒流浪地球3片场照片",
       "onboard_time": 1762270639,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147034,
+      "num": 147034,
+      "word": "苏醒你对我的经济实力一无所知",
+      "onboard_time": 1762312880,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146994,
+      "num": 152443,
+      "word": "小心快递放家门口骗局",
+      "onboard_time": 1762312280,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144661,
@@ -427,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144457,
-      "num": 144457,
-      "word": "小心快递放家门口骗局",
-      "onboard_time": 1762312280,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 144220,
+      "num": 144220,
+      "word": "11月最适合躺平的星座",
+      "onboard_time": 1762312639,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 144166,
@@ -464,6 +496,14 @@
       "word": "孟子义拍完尚公主将无缝进组",
       "onboard_time": 1762298421,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136967,
+      "num": 150826,
+      "word": "刘也首部古装男主剧终于要来了",
+      "onboard_time": 1762312820,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -523,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118831,
-      "num": 118831,
-      "word": "家长抱婴儿在学校路边值护学岗",
-      "onboard_time": 1762312341,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117205,
       "num": 117205,
       "word": "第十八届文华奖获奖名单",
@@ -585,14 +617,6 @@
       "onboard_time": 1762311800,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105040,
-      "num": 105040,
-      "word": "11月最适合躺平的星座",
-      "onboard_time": 1762312639,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 98635,
@@ -875,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78632,
+      "num": 99714,
+      "word": "刘宇宁是不是连夜背梗了",
+      "onboard_time": 1762312639,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77863,
       "num": 72171,
       "word": "巴黎圣日耳曼1比2拜仁",
@@ -891,12 +923,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 74953,
-      "num": 99714,
-      "word": "刘宇宁是不是连夜背梗了",
-      "onboard_time": 1762312639,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 74247,
+      "num": 74247,
+      "word": "冬天穿袜子睡觉不只暖脚",
+      "onboard_time": 1762313540,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73144,
@@ -905,6 +937,14 @@
       "onboard_time": 1762272919,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72525,
+      "num": 678193,
+      "word": "第八届进博会",
+      "onboard_time": 1762312701,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72018,
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27250,
+      "num": 90472,
+      "word": "男子求见李嘉诚被拦打伤保安",
+      "onboard_time": 1762312940,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26578,
       "num": 57329,
       "word": "久哲离开TTG",
@@ -1270,6 +1318,9 @@
   "hotgov_list": [
     {
       "word": "#100秒回顾习近平韩国之行#"
+    },
+    {
+      "word": "#让开放的春风温暖世界#"
     }
   ]
 }
