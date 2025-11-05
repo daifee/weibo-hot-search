@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762341860199,
+  "endTime": 1762342752150,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -817,6 +817,14 @@
       "onboard_time": 1762155860,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688228,
+      "num": 189035,
+      "word": "蒋欣哭了",
+      "onboard_time": 1762340661,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 681840,
@@ -1659,14 +1667,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 458130,
-      "num": 143179,
-      "word": "蒋欣哭了",
-      "onboard_time": 1762340661,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -1916,7 +1916,7 @@
     },
     {
       "raw_hot": 409618,
-      "num": 143048,
+      "num": 188434,
       "word": "徐冬冬 怀孕了一定大大方方告诉大家",
       "onboard_time": 1762339641,
       "rank": 12,
@@ -3571,6 +3571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230874,
+      "num": 187763,
+      "word": "骨灰盒价格",
+      "onboard_time": 1762341201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230454,
       "num": 221871,
       "word": "唐诡3好多返场老熟人",
@@ -4331,6 +4339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200939,
+      "num": 186988,
+      "word": "杨紫直播造型",
+      "onboard_time": 1762342399,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -4681,6 +4697,14 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190150,
+      "num": 190150,
+      "word": "王楚钦奔驰直播",
+      "onboard_time": 1762342100,
+      "rank": 4,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 189445,
@@ -5963,6 +5987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157564,
+      "num": 157564,
+      "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
+      "onboard_time": 1762340601,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157529,
       "num": 157529,
       "word": "杨阳特别感谢了杨洋",
@@ -6057,6 +6089,22 @@
       "onboard_time": 1761970220,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156490,
+      "num": 156490,
+      "word": "iPhone17会成为新的钉子户神机吗",
+      "onboard_time": 1762340122,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "暗河传登顶",
+      "onboard_time": 1762341800,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 156016,
@@ -6699,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146161,
+      "num": 146161,
+      "word": "瞒着家人复读一年成功上岸",
+      "onboard_time": 1762341322,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146021,
       "num": 167557,
       "word": "成毅天地剑心撕漫感大片",
@@ -6987,14 +7043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140861,
-      "num": 140861,
-      "word": "iPhone17会成为新的钉子户神机吗",
-      "onboard_time": 1762340122,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 140635,
       "num": 173452,
       "word": "江旻憓已申请放弃加拿大护照",
@@ -7243,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137773,
+      "num": 137773,
+      "word": "电视剧顶流演员还得是90后",
+      "onboard_time": 1762342581,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137769,
       "num": 132033,
       "word": "摇粒绒 梳毛",
@@ -7457,14 +7513,6 @@
       "onboard_time": 1762231283,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134650,
-      "num": 134650,
-      "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
-      "onboard_time": 1762340601,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134631,
@@ -8169,14 +8217,6 @@
       "onboard_time": 1761976041,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126128,
-      "num": 123609,
-      "word": "瞒着家人复读一年成功上岸",
-      "onboard_time": 1762341322,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 126028,
@@ -8897,6 +8937,14 @@
       "onboard_time": 1762244480,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117763,
+      "num": 117763,
+      "word": "龚宇称AI打破了影视创作边界",
+      "onboard_time": 1762342461,
+      "rank": 33,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 117679,
@@ -10627,6 +10675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102866,
+      "num": 102866,
+      "word": "樊振东奥特曼队服",
+      "onboard_time": 1762342100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102858,
       "num": 102858,
       "word": "iG官宣参加竞燃之夜",
@@ -10707,14 +10763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102344,
-      "num": 102344,
-      "word": "骨灰盒价格",
-      "onboard_time": 1762341201,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102312,
       "num": 102312,
       "word": "遭男友杀害护士生前日记曝光",
@@ -10737,6 +10785,14 @@
       "onboard_time": 1762146621,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102288,
+      "num": 102288,
+      "word": "生产日期为什么不直接写",
+      "onboard_time": 1762341741,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 102238,
@@ -12035,6 +12091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93592,
+      "num": 97798,
+      "word": "杨幂连包10场支持辛芷蕾新片",
+      "onboard_time": 1762341081,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -13059,6 +13123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86897,
+      "num": 86897,
+      "word": "余宇涵吃播",
+      "onboard_time": 1762342521,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86877,
       "num": 86877,
       "word": "网友偶遇孙颖莎开心合影",
@@ -13249,6 +13321,14 @@
       "onboard_time": 1762048218,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85793,
+      "num": 85793,
+      "word": "100克馒头vs100克米饭",
+      "onboard_time": 1762342581,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 85771,
@@ -13713,14 +13793,6 @@
       "onboard_time": 1762239500,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82514,
-      "num": 82514,
-      "word": "暗河传登顶",
-      "onboard_time": 1762341800,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 82432,
@@ -14347,14 +14419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77087,
-      "num": 77087,
-      "word": "生产日期为什么不直接写",
-      "onboard_time": 1762341741,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77025,
       "num": 105161,
       "word": "男子高铁请求让座被拒后怒骂畜生",
@@ -14516,7 +14580,7 @@
     },
     {
       "raw_hot": 74625,
-      "num": 141634,
+      "num": 187209,
       "word": "能效王居然是奔驰纯电CLA",
       "onboard_time": 1762340661,
       "rank": 19,
@@ -14897,6 +14961,14 @@
       "onboard_time": 1761914243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70757,
+      "num": 146343,
+      "word": "演唱会内部票新型诈骗",
+      "onboard_time": 1762341623,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70566,
@@ -15505,14 +15577,6 @@
       "onboard_time": 1762184361,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 60892,
-      "num": 124196,
-      "word": "演唱会内部票新型诈骗",
-      "onboard_time": 1762341623,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60877,
@@ -16347,14 +16411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41408,
-      "num": 97798,
-      "word": "杨幂连包10场支持辛芷蕾新片",
-      "onboard_time": 1762341081,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 41167,
       "num": 147262,
       "word": "何与递的乐事谁不想接",
@@ -17169,6 +17225,14 @@
       "onboard_time": 1761926841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23377,
+      "num": 92601,
+      "word": "背着轮胎到意大利维权车主发声",
+      "onboard_time": 1762342699,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23318,

@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762341860199,
+  "endTime": 1762342752150,
   "band_list": [
     {
       "raw_hot": 6617734,
@@ -163,6 +163,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 688228,
+      "num": 189035,
+      "word": "蒋欣哭了",
+      "onboard_time": 1762340661,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661353,
       "num": 247361,
       "word": "老人火化后骨灰里多出4颗钢钉",
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458130,
-      "num": 143179,
-      "word": "蒋欣哭了",
-      "onboard_time": 1762340661,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 449456,
       "num": 398967,
       "word": "赵樱子晒因为爱情有多美聚会vlog",
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 409618,
-      "num": 143048,
+      "num": 188434,
       "word": "徐冬冬 怀孕了一定大大方方告诉大家",
       "onboard_time": 1762339641,
       "rank": 12,
@@ -611,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230874,
+      "num": 187763,
+      "word": "骨灰盒价格",
+      "onboard_time": 1762341201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229110,
       "num": 194796,
       "word": "巧克力 孟子义嫡长狗",
@@ -779,6 +787,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 200939,
+      "num": 186988,
+      "word": "杨紫直播造型",
+      "onboard_time": 1762342399,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199293,
       "num": 190249,
       "word": "原来有酒窝的人脸部肌肉天生独特",
@@ -865,6 +881,14 @@
       "onboard_time": 1762317141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190150,
+      "num": 190150,
+      "word": "王楚钦奔驰直播",
+      "onboard_time": 1762342100,
+      "rank": 4,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 189445,
@@ -1091,12 +1115,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157564,
+      "num": 157564,
+      "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
+      "onboard_time": 1762340601,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156729,
       "num": 156729,
       "word": "佛州可禁止中国人购买房产",
       "onboard_time": 1762322781,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156490,
+      "num": 156490,
+      "word": "iPhone17会成为新的钉子户神机吗",
+      "onboard_time": 1762340122,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 156212,
+      "num": 156212,
+      "word": "暗河传登顶",
+      "onboard_time": 1762341800,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 155986,
@@ -1219,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146161,
+      "num": 146161,
+      "word": "瞒着家人复读一年成功上岸",
+      "onboard_time": 1762341322,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145331,
       "num": 148747,
       "word": "大尺度国产剧又上新一部",
@@ -1307,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140861,
-      "num": 140861,
-      "word": "iPhone17会成为新的钉子户神机吗",
-      "onboard_time": 1762340122,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 140177,
       "num": 140177,
       "word": "张柏芝 排队都轮不到你",
@@ -1363,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137773,
+      "num": 137773,
+      "word": "电视剧顶流演员还得是90后",
+      "onboard_time": 1762342581,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137769,
       "num": 132033,
       "word": "摇粒绒 梳毛",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1762329981,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 134650,
-      "num": 134650,
-      "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
-      "onboard_time": 1762340601,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133607,
@@ -1481,14 +1529,6 @@
       "onboard_time": 1762327039,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126128,
-      "num": 123609,
-      "word": "瞒着家人复读一年成功上岸",
-      "onboard_time": 1762341322,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 125752,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1762338804,
       "rank": 32,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 117763,
+      "num": 117763,
+      "word": "龚宇称AI打破了影视创作边界",
+      "onboard_time": 1762342461,
+      "rank": 33,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 117625,
@@ -1859,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102866,
+      "num": 102866,
+      "word": "樊振东奥特曼队服",
+      "onboard_time": 1762342100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102843,
       "num": 102843,
       "word": "庄达菲敷着面膜吃东西",
@@ -1867,12 +1923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102344,
-      "num": 102344,
-      "word": "骨灰盒价格",
-      "onboard_time": 1762341201,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 102288,
+      "num": 102288,
+      "word": "生产日期为什么不直接写",
+      "onboard_time": 1762341741,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101792,
@@ -2139,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93592,
+      "num": 97798,
+      "word": "杨幂连包10场支持辛芷蕾新片",
+      "onboard_time": 1762341081,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93410,
       "num": 93410,
       "word": "法国废弃公园虎鲸母子或面临安乐死",
@@ -2355,6 +2419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86897,
+      "num": 86897,
+      "word": "余宇涵吃播",
+      "onboard_time": 1762342521,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86495,
       "num": 86495,
       "word": "利物浦1比0皇马",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1762312461,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85793,
+      "num": 85793,
+      "word": "100克馒头vs100克米饭",
+      "onboard_time": 1762342581,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 85166,
@@ -2457,14 +2537,6 @@
       "onboard_time": 1762305680,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82514,
-      "num": 82514,
-      "word": "暗河传登顶",
-      "onboard_time": 1762341800,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 82045,
@@ -2571,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77087,
-      "num": 77087,
-      "word": "生产日期为什么不直接写",
-      "onboard_time": 1762341741,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77025,
       "num": 105161,
       "word": "男子高铁请求让座被拒后怒骂畜生",
@@ -2596,7 +2660,7 @@
     },
     {
       "raw_hot": 74625,
-      "num": 141634,
+      "num": 187209,
       "word": "能效王居然是奔驰纯电CLA",
       "onboard_time": 1762340661,
       "rank": 19,
@@ -2665,6 +2729,14 @@
       "onboard_time": 1762324821,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70757,
+      "num": 146343,
+      "word": "演唱会内部票新型诈骗",
+      "onboard_time": 1762341623,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70566,
@@ -2760,14 +2832,6 @@
       "word": "杨国福外卖素菜每斤高达35.8元",
       "onboard_time": 1762269622,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60892,
-      "num": 124196,
-      "word": "演唱会内部票新型诈骗",
-      "onboard_time": 1762341623,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3011,14 +3075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41408,
-      "num": 97798,
-      "word": "杨幂连包10场支持辛芷蕾新片",
-      "onboard_time": 1762341081,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40386,
       "num": 488473,
       "word": "第十五届全运会",
@@ -3153,6 +3209,14 @@
       "onboard_time": 1762269140,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23377,
+      "num": 92601,
+      "word": "背着轮胎到意大利维权车主发声",
+      "onboard_time": 1762342699,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23342,
