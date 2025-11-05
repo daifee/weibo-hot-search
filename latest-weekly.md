@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/06 00:35:23
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/06 00:50:41
 </p>
 </blockquote>
 <p>
@@ -5169,6 +5169,12 @@ MRC对战Gr（热度：124304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9050%E5%85%83%E4%B9%B0%E7%8B%97%E9%80%80%E6%AC%BE%E9%81%AD%E6%8B%92%E6%91%94%E6%AD%BB%E7%8B%97%23" target="weibo">
+男子50元买狗退款遭拒摔死狗（热度：122688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BF%BB%E8%AF%91%E5%88%98%E7%A6%B9%E9%93%96%E8%BF%9B%E5%85%A5%E5%BC%80%E6%8B%93%E8%80%85%E6%95%99%E7%BB%83%E7%BB%84%23" target="weibo">
 杨瀚森翻译刘禹铖进入开拓者教练组（热度：122546）
 </a>
@@ -5219,12 +5225,6 @@ MRC对战Gr（热度：124304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%AD%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E7%A5%A8%E6%97%B6%E9%97%B4%23" target="weibo">
 时代少年团六周年演唱会开票时间（热度：121837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9050%E5%85%83%E4%B9%B0%E7%8B%97%E9%80%80%E6%AC%BE%E9%81%AD%E6%8B%92%E6%91%94%E6%AD%BB%E7%8B%97%23" target="weibo">
-男子50元买狗退款遭拒摔死狗（热度：121820）
 </a>
 </li>
 
@@ -5589,6 +5589,12 @@ iG无畏契约分部成立（热度：115869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%BD%91%E4%BC%A0%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9%23" target="weibo">
+将门毒后网传演员阵容（热度：115726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%AD%A9%E4%B8%8E%E7%8E%8B%E5%86%A0%23" target="weibo">
 孙颖莎女孩与王冠（热度：115640）
 </a>
@@ -5639,12 +5645,6 @@ C罗点球绝杀（热度：114765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%87%E5%AE%99%E8%B6%85%E7%BA%A7%E6%97%A0%E6%95%8C%E5%A4%A7%E7%8B%82%E6%AC%A2%E5%B7%A1%E6%BC%94%23" target="weibo">
 王源宇宙超级无敌大狂欢巡演（热度：114701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%BD%91%E4%BC%A0%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9%23" target="weibo">
-将门毒后网传演员阵容（热度：114697）
 </a>
 </li>
 
@@ -9825,6 +9825,12 @@ X300拍出了非遗里的民族美学（热度：59963）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%B4%A7%E8%B7%9F%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AC%91%E5%AE%B9%E6%BB%A1%E9%9D%A2%23" target="weibo">
+章泽天紧跟刘强东笑容满面（热度：57760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C%23" target="weibo">
 KPL一千零一夜（热度：57734）
 </a>
@@ -10025,6 +10031,12 @@ ChatGP禁止提供专业医疗法律财务建议（热度：50409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%20%E5%B0%91%E4%BA%8621%E5%85%8B%23" target="weibo">
 金饰以旧换新 少了21克（热度：49698）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A5%94%E9%A9%B0%E6%98%9F%E6%84%BF%E5%9F%BA%E9%87%91%E5%85%AC%E7%9B%8A%E4%BC%99%E4%BC%B4%23" target="weibo">
+王楚钦奔驰星愿基金公益伙伴（热度：49484）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762361441103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 285069,
+        "num": 672347,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 455729,
+        "num": 455729,
+        "word": "央视披露户晨风封号详情",
+        "onboard_time": 1762356680,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1725,
+        "num": 294557,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224418,
+        "num": 224418,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 182379,
+        "num": 182379,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52678,
+        "num": 179397,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215500,
+        "num": 178330,
+        "word": "王传君工作室回应获奖",
+        "onboard_time": 1762355721,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38876,
+        "num": 171034,
+        "word": "北京 大雾",
+        "onboard_time": 1762352362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38570,
+        "num": 169763,
+        "word": "vivoX300拍到了超级月亮",
+        "onboard_time": 1762356261,
+        "rank": 8,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 36213,
+        "num": 165157,
+        "word": "金店关门潮蔓延",
+        "onboard_time": 1762355541,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 574022,
+        "num": 159610,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279180,
+        "num": 156699,
+        "word": "苗圃 至今内娱无代餐",
+        "onboard_time": 1762353024,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155623,
+        "num": 155623,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153954,
+        "num": 153954,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122688,
+        "num": 149170,
+        "word": "男子50元买狗退款遭拒摔死狗",
+        "onboard_time": 1762357160,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147397,
+        "num": 147397,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104101,
+        "num": 147273,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102381,
+        "num": 146995,
+        "word": "丈夫病亡后妻子两天后不幸离世",
+        "onboard_time": 1762355061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81920,
+        "num": 146910,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72111,
+        "num": 146573,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534878,
+        "num": 146359,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115726,
+        "num": 146158,
+        "word": "将门毒后网传演员阵容",
+        "onboard_time": 1762358780,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87633,
+        "num": 145993,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74927,
+        "num": 145681,
+        "word": "杨幂好像从雪见变成了夕瑶",
+        "onboard_time": 1762357520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70739,
+        "num": 145521,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66035,
+        "num": 145366,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63972,
+        "num": 144943,
+        "word": "王楚然 山东人的说话艺术",
+        "onboard_time": 1762357759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60888,
+        "num": 144726,
+        "word": "男老师称涉猥亵教学动作是误会",
+        "onboard_time": 1762353502,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48832,
+        "num": 144579,
+        "word": "茅台拟以15亿至30亿回购股份并注销",
+        "onboard_time": 1762357220,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48443,
+        "num": 144364,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59353,
+        "num": 144250,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58299,
+        "num": 143934,
+        "word": "蒋欣哭了",
+        "onboard_time": 1762340661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57760,
+        "num": 143641,
+        "word": "章泽天紧跟刘强东笑容满面",
+        "onboard_time": 1762361358,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 57317,
+        "num": 143467,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56369,
+        "num": 143332,
+        "word": "动物塑测试",
+        "onboard_time": 1762353502,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49484,
+        "num": 143078,
+        "word": "王楚钦奔驰星愿基金公益伙伴",
+        "onboard_time": 1762361237,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47903,
+        "num": 142770,
+        "word": "李现新疆vlog",
+        "onboard_time": 1762354402,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46013,
+        "num": 142605,
+        "word": "生产日期为什么不直接写",
+        "onboard_time": 1762341741,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45545,
+        "num": 142257,
+        "word": "江苏电网回应张凌赫",
+        "onboard_time": 1762354820,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35372,
+        "num": 142143,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44172,
+        "num": 141904,
+        "word": "符龙飞晒合照",
+        "onboard_time": 1762354762,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41621,
+        "num": 141560,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40885,
+        "num": 141472,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40206,
+        "num": 141169,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36645,
+        "num": 141072,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36399,
+        "num": 140787,
+        "word": "八仙子团播",
+        "onboard_time": 1762350562,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35434,
+        "num": 140519,
+        "word": "左奇函猫耳帽",
+        "onboard_time": 1762358419,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33265,
+        "num": 140215,
+        "word": "特斯拉撞死野猪车主被判全责",
+        "onboard_time": 1762359079,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32738,
+        "num": 140123,
+        "word": "超级月亮高清大图来了",
+        "onboard_time": 1762352722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22694,
+        "num": 139915,
+        "word": "户晨风恶意制造对立收割流量牟利",
+        "onboard_time": 1762359380,
+        "rank": 49,
+        "category": "民生新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

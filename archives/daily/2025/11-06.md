@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/06 00:35:23 ~ 2025/11/06 00:35:23
+本榜单时间：2025/11/06 00:35:23 ~ 2025/11/06 00:50:41
 </p>
 </blockquote>
 <p>
@@ -100,13 +100,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9050%E5%85%83%E4%B9%B0%E7%8B%97%E9%80%80%E6%AC%BE%E9%81%AD%E6%8B%92%E6%91%94%E6%AD%BB%E7%8B%97%23" target="weibo">
-男子50元买狗退款遭拒摔死狗（热度：121820）
+男子50元买狗退款遭拒摔死狗（热度：122688）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%BD%91%E4%BC%A0%E6%BC%94%E5%91%98%E9%98%B5%E5%AE%B9%23" target="weibo">
-将门毒后网传演员阵容（热度：114697）
+将门毒后网传演员阵容（热度：115726）
 </a>
 </li>
 
@@ -213,6 +213,12 @@ Peanut晒与Faker拥抱照（热度：69302）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%B4%A7%E8%B7%9F%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AC%91%E5%AE%B9%E6%BB%A1%E9%9D%A2%23" target="weibo">
+章泽天紧跟刘强东笑容满面（热度：57760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E6%8B%9F%E4%BB%A515%E4%BA%BF%E8%87%B330%E4%BA%BF%E5%9B%9E%E8%B4%AD%E8%82%A1%E4%BB%BD%E5%B9%B6%E6%B3%A8%E9%94%80%23" target="weibo">
 茅台拟以15亿至30亿回购股份并注销（热度：56978）
 </a>
@@ -220,7 +226,7 @@ Peanut晒与Faker拥抱照（热度：69302）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%A1%91%E6%B5%8B%E8%AF%95%23" target="weibo">
-动物塑测试（热度：56161）
+动物塑测试（热度：56369）
 </a>
 </li>
 
@@ -249,14 +255,20 @@ vivoX300拍到了超级月亮（热度：55053）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E6%99%A8%E9%A3%8E%E6%81%B6%E6%84%8F%E5%88%B6%E9%80%A0%E5%AF%B9%E7%AB%8B%E6%94%B6%E5%89%B2%E6%B5%81%E9%87%8F%E7%89%9F%E5%88%A9%23" target="weibo">
-户晨风恶意制造对立收割流量牟利（热度：44591）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A5%94%E9%A9%B0%E6%98%9F%E6%84%BF%E5%9F%BA%E9%87%91%E5%85%AC%E7%9B%8A%E4%BC%99%E4%BC%B4%23" target="weibo">
+王楚钦奔驰星愿基金公益伙伴（热度：49484）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%9B%B4%E6%8E%A5%E5%86%99%23" target="weibo">
-生产日期为什么不直接写（热度：42952）
+生产日期为什么不直接写（热度：46013）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B7%E6%99%A8%E9%A3%8E%E6%81%B6%E6%84%8F%E5%88%B6%E9%80%A0%E5%AF%B9%E7%AB%8B%E6%94%B6%E5%89%B2%E6%B5%81%E9%87%8F%E7%89%9F%E5%88%A9%23" target="weibo">
+户晨风恶意制造对立收割流量牟利（热度：44591）
 </a>
 </li>
 
@@ -269,6 +281,12 @@ vivoX300拍到了超级月亮（热度：55053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E6%9D%A5%E4%BA%86%23" target="weibo">
 超级月亮高清大图来了（热度：41802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%98%8E%E6%98%9F%E7%95%99%E5%AD%90%E5%91%B3%23" target="weibo">
+内娱女明星留子味（热度：40885）
 </a>
 </li>
 
@@ -305,6 +323,12 @@ vivoX300拍到了超级月亮（热度：55053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9D%96%E5%8F%AF%E4%BB%8A%E6%99%9A%E5%81%9A%E6%A2%A6%E9%83%BD%E4%BC%9A%E7%AC%91%E9%86%92%E5%90%A7%23" target="weibo">
 陈靖可今晚做梦都会笑醒吧（热度：37478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%AE%8Cbra%E5%B0%B1%E6%8C%A0%E5%A4%B4%E4%BA%86%23" target="weibo">
+张艺兴说完bra就挠头了（热度：36645）
 </a>
 </li>
 
