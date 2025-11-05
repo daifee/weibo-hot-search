@@ -1,0 +1,410 @@
+{
+  "runTime": 1762325539436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 902082,
+        "num": 1144333,
+        "word": "王子奇拒绝剧宣吻戏",
+        "onboard_time": 1762324040,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658136,
+        "num": 658136,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25510,
+        "num": 438715,
+        "word": "第八届进博会",
+        "onboard_time": 1762312701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368101,
+        "num": 368101,
+        "word": "孙乐言主持界首个拿下奥斯卡的人",
+        "onboard_time": 1762319422,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273619,
+        "num": 273619,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 211808,
+        "num": 211808,
+        "word": "福建舰入列",
+        "onboard_time": 1762317563,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 197294,
+        "num": 197294,
+        "word": "田曦薇嫁金钗开机",
+        "onboard_time": 1762325241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189559,
+        "num": 189559,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172713,
+        "num": 172713,
+        "word": "小米YU7全网首拆",
+        "onboard_time": 1762314862,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148427,
+        "num": 172197,
+        "word": "被中方点赞后李在明加送200盒皇南饼",
+        "onboard_time": 1762315401,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1392421,
+        "num": 169664,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926640,
+        "num": 168992,
+        "word": "娜扎经纪人",
+        "onboard_time": 1762321460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25369,
+        "num": 167406,
+        "word": "翁法罗斯大结局",
+        "onboard_time": 1762322661,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 539935,
+        "num": 166170,
+        "word": "警方通报28岁男子持刀扎伤2同事",
+        "onboard_time": 1762323861,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 392179,
+        "num": 163709,
+        "word": "向太称子女敢去美国就捐光家产",
+        "onboard_time": 1762320800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347847,
+        "num": 162458,
+        "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+        "onboard_time": 1762320622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329979,
+        "num": 161331,
+        "word": "赵樱子听到张康乐的反应",
+        "onboard_time": 1762316421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321362,
+        "num": 160019,
+        "word": "翁帆疑似未入职清华大学当讲师",
+        "onboard_time": 1762316181,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286207,
+        "num": 158041,
+        "word": "收到了去世朋友7年前的邮件",
+        "onboard_time": 1762315821,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 182892,
+        "num": 156621,
+        "word": "谢娜王鹤棣加盟疯狂好六夜",
+        "onboard_time": 1762323321,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220877,
+        "num": 155694,
+        "word": "女子名叫丽春多次申请改名被拒",
+        "onboard_time": 1762318461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185491,
+        "num": 152679,
+        "word": "房中房中房中房中房",
+        "onboard_time": 1762321219,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152648,
+        "num": 152648,
+        "word": "秦昊因头发长被认成女孩",
+        "onboard_time": 1762324222,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151392,
+        "num": 151392,
+        "word": "律师自曝取款被银行盘问报警",
+        "onboard_time": 1762322841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150789,
+        "num": 150789,
+        "word": "佛州可禁止中国人购买房产",
+        "onboard_time": 1762322781,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137427,
+        "num": 137427,
+        "word": "爸爸当家坦然聊儿童性教育",
+        "onboard_time": 1762323560,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117996,
+        "num": 137286,
+        "word": "林尚武去世",
+        "onboard_time": 1762317982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117468,
+        "num": 136689,
+        "word": "C罗说赢得世界杯不是我的梦想",
+        "onboard_time": 1762324222,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111321,
+        "num": 136352,
+        "word": "嫁金钗",
+        "onboard_time": 1762325060,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70566,
+        "num": 135860,
+        "word": "尔滨冰雪狂欢要来了",
+        "onboard_time": 1762324281,
+        "rank": 29,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 143724,
+        "num": 135602,
+        "word": "老人火化后骨灰里多出4颗钢钉",
+        "onboard_time": 1762315580,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135290,
+        "num": 135290,
+        "word": "原来小孩约会在大人眼里这么明显",
+        "onboard_time": 1762321460,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123677,
+        "num": 123677,
+        "word": "全红婵并腿的权威性",
+        "onboard_time": 1762311500,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122667,
+        "num": 122667,
+        "word": "何小鹏首次披露物理AI巨大进展",
+        "onboard_time": 1762325181,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121874,
+        "num": 121874,
+        "word": "欧阳娜娜在副驾开livehouse",
+        "onboard_time": 1762323802,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111903,
+        "num": 111903,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100798,
+        "num": 110367,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109180,
+        "num": 109180,
+        "word": "李一桐和李雪琴把雪上加霜坐实了",
+        "onboard_time": 1762325120,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89045,
+        "num": 108747,
+        "word": "杀出原生家庭的人没有无能之辈",
+        "onboard_time": 1762324821,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71100,
+        "num": 108526,
+        "word": "辛芷蕾 影后看镜头",
+        "onboard_time": 1762324821,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108404,
+        "num": 108404,
+        "word": "女子穿运动内衣跑完越野胸部染色",
+        "onboard_time": 1762318702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 104313,
+        "word": "雷军回应小米YU7首拆视频",
+        "onboard_time": 1762322841,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100638,
+        "num": 100638,
+        "word": "福建舰",
+        "onboard_time": 1762318342,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100304,
+        "num": 100304,
+        "word": "鲨鱼夹星人有自己的最强收纳",
+        "onboard_time": 1762325360,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98198,
+        "num": 98198,
+        "word": "C罗婚礼计划",
+        "onboard_time": 1762323802,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96416,
+        "num": 96416,
+        "word": "4类人不适合吃奶皮子糖葫芦",
+        "onboard_time": 1762325000,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96077,
+        "num": 96077,
+        "word": "微信式恋爱",
+        "onboard_time": 1762315221,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 91018,
+        "num": 91018,
+        "word": "教育局回应家长抱婴儿值护学岗",
+        "onboard_time": 1762321820,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86907,
+        "num": 86907,
+        "word": "刘亦菲入选亚太最具影响力青年女性",
+        "onboard_time": 1762314500,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85047,
+        "num": 85047,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

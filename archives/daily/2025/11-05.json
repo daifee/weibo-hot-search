@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762324760848,
+  "endTime": 1762325539436,
   "band_list": [
     {
       "raw_hot": 1505297,
@@ -43,12 +43,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 925898,
+      "raw_hot": 926640,
       "num": 184628,
       "word": "娜扎经纪人",
       "onboard_time": 1762321460,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902082,
+      "num": 1144333,
+      "word": "王子奇拒绝剧宣吻戏",
+      "onboard_time": 1762324040,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 835613,
@@ -121,6 +129,14 @@
       "onboard_time": 1762308681,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 539935,
+      "num": 166871,
+      "word": "警方通报28岁男子持刀扎伤2同事",
+      "onboard_time": 1762323861,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 537646,
@@ -267,6 +283,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 368101,
+      "num": 368101,
+      "word": "孙乐言主持界首个拿下奥斯卡的人",
+      "onboard_time": 1762319422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367112,
       "num": 98192,
       "word": "舒淇冯德伦真夫妻就是好嗑",
@@ -291,20 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343009,
-      "num": 343009,
-      "word": "孙乐言主持界首个拿下奥斯卡的人",
-      "onboard_time": 1762319422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 341686,
-      "num": 341686,
-      "word": "王子奇拒绝剧宣吻戏",
-      "onboard_time": 1762324040,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 347847,
+      "num": 190729,
+      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+      "onboard_time": 1762320622,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 332604,
@@ -328,14 +344,6 @@
       "word": "原来肖战19年就有晋江式演技了",
       "onboard_time": 1762268662,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310403,
-      "num": 190729,
-      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
-      "onboard_time": 1762320622,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -377,14 +385,6 @@
       "onboard_time": 1762269201,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260357,
-      "num": 166871,
-      "word": "警方通报28岁男子持刀扎伤2同事",
-      "onboard_time": 1762323861,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 258587,
@@ -528,6 +528,14 @@
       "word": "新闻女王2",
       "onboard_time": 1762316841,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197294,
+      "num": 197294,
+      "word": "田曦薇嫁金钗开机",
+      "onboard_time": 1762325241,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152648,
+      "num": 152648,
+      "word": "秦昊因头发长被认成女孩",
+      "onboard_time": 1762324222,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "花少7戒断期要来了",
@@ -1019,20 +1035,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122667,
+      "num": 122667,
+      "word": "何小鹏首次披露物理AI巨大进展",
+      "onboard_time": 1762325181,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "杨瀚森翻译刘禹铖进入开拓者教练组",
       "onboard_time": 1762304721,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122314,
-      "num": 122314,
-      "word": "秦昊因头发长被认成女孩",
-      "onboard_time": 1762324222,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 122299,
@@ -1048,6 +1064,14 @@
       "word": "C罗婚礼计划",
       "onboard_time": 1762323802,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117468,
+      "num": 136689,
+      "word": "C罗说赢得世界杯不是我的梦想",
+      "onboard_time": 1762324222,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1099,6 +1123,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 111903,
+      "num": 111903,
+      "word": "考生笑了五分钟才开始答卷",
+      "onboard_time": 1762325300,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111321,
+      "num": 136352,
+      "word": "嫁金钗",
+      "onboard_time": 1762325060,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109311,
       "num": 109311,
       "word": "男子醉酒冻死街头同桌6人赔20多万",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1762308920,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109180,
+      "num": 109180,
+      "word": "李一桐和李雪琴把雪上加霜坐实了",
+      "onboard_time": 1762325120,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 107592,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1762266382,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105873,
-      "num": 105873,
-      "word": "C罗说赢得世界杯不是我的梦想",
-      "onboard_time": 1762324222,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 105491,
@@ -1211,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100304,
+      "num": 100304,
+      "word": "鲨鱼夹星人有自己的最强收纳",
+      "onboard_time": 1762325360,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99861,
       "num": 99861,
       "word": "剧本都写不出李莎旻子的临场发挥",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1762314862,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96416,
+      "num": 96416,
+      "word": "4类人不适合吃奶皮子糖葫芦",
+      "onboard_time": 1762325000,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96375,
@@ -1387,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91018,
+      "num": 91018,
+      "word": "教育局回应家长抱婴儿值护学岗",
+      "onboard_time": 1762321820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90647,
       "num": 90647,
       "word": "上海一老人疑地域歧视打扰顾客用餐",
@@ -1425,6 +1489,14 @@
       "onboard_time": 1762308979,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89045,
+      "num": 108747,
+      "word": "杀出原生家庭的人没有无能之辈",
+      "onboard_time": 1762324821,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 88772,
@@ -1529,14 +1601,6 @@
       "onboard_time": 1762313540,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 83633,
-      "num": 83633,
-      "word": "教育局回应家长抱婴儿值护学岗",
-      "onboard_time": 1762321820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83154,
@@ -1675,6 +1739,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71100,
+      "num": 108526,
+      "word": "辛芷蕾 影后看镜头",
+      "onboard_time": 1762324821,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 70566,
+      "num": 138925,
+      "word": "尔滨冰雪狂欢要来了",
+      "onboard_time": 1762324281,
+      "rank": 29,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 70001,
       "num": 81892,
       "word": "孙颖莎所有幸福都稳稳接住",
@@ -1689,14 +1769,6 @@
       "onboard_time": 1762262483,
       "rank": 46,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 68860,
-      "num": 138925,
-      "word": "尔滨冰雪狂欢要来了",
-      "onboard_time": 1762324281,
-      "rank": 29,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 68842,

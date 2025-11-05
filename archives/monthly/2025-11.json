@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762324760848,
+  "endTime": 1762325539436,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -419,7 +419,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 925898,
+      "raw_hot": 926640,
       "num": 184628,
       "word": "娜扎经纪人",
       "onboard_time": 1762321460,
@@ -448,6 +448,14 @@
       "word": "鲍蕾因贝儿课业奔溃拍桌子",
       "onboard_time": 1762228640,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 902082,
+      "num": 1144333,
+      "word": "王子奇拒绝剧宣吻戏",
+      "onboard_time": 1762324040,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1177,6 +1185,14 @@
       "onboard_time": 1761971120,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 539935,
+      "num": 166871,
+      "word": "警方通报28岁男子持刀扎伤2同事",
+      "onboard_time": 1762323861,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 537646,
@@ -2051,6 +2067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 368101,
+      "num": 368101,
+      "word": "孙乐言主持界首个拿下奥斯卡的人",
+      "onboard_time": 1762319422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367112,
       "num": 98192,
       "word": "舒淇冯德伦真夫妻就是好嗑",
@@ -2219,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347847,
+      "num": 190729,
+      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+      "onboard_time": 1762320622,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345619,
       "num": 345619,
       "word": "台湾省可以用高德导航了",
@@ -2265,22 +2297,6 @@
       "onboard_time": 1762173982,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 343009,
-      "num": 343009,
-      "word": "孙乐言主持界首个拿下奥斯卡的人",
-      "onboard_time": 1762319422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 341686,
-      "num": 341686,
-      "word": "王子奇拒绝剧宣吻戏",
-      "onboard_time": 1762324040,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 339656,
@@ -2457,14 +2473,6 @@
       "onboard_time": 1762083561,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 310403,
-      "num": 190729,
-      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
-      "onboard_time": 1762320622,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 309812,
@@ -3025,14 +3033,6 @@
       "onboard_time": 1762092443,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 260357,
-      "num": 166871,
-      "word": "警方通报28岁男子持刀扎伤2同事",
-      "onboard_time": 1762323861,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 259992,
@@ -4177,6 +4177,14 @@
       "onboard_time": 1761961520,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197294,
+      "num": 197294,
+      "word": "田曦薇嫁金钗开机",
+      "onboard_time": 1762325241,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 197111,
@@ -5905,6 +5913,14 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152648,
+      "num": 152648,
+      "word": "秦昊因头发长被认成女孩",
+      "onboard_time": 1762324222,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152370,
@@ -7971,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122667,
+      "num": 122667,
+      "word": "何小鹏首次披露物理AI巨大进展",
+      "onboard_time": 1762325181,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "杨瀚森翻译刘禹铖进入开拓者教练组",
@@ -7993,14 +8017,6 @@
       "onboard_time": 1762044559,
       "rank": 28,
       "category": "科学科普,时尚"
-    },
-    {
-      "raw_hot": 122314,
-      "num": 122314,
-      "word": "秦昊因头发长被认成女孩",
-      "onboard_time": 1762324222,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 122291,
@@ -8417,6 +8433,14 @@
       "onboard_time": 1761978621,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117468,
+      "num": 136689,
+      "word": "C罗说赢得世界杯不是我的梦想",
+      "onboard_time": 1762324222,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 117432,
@@ -8915,6 +8939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111903,
+      "num": 111903,
+      "word": "考生笑了五分钟才开始答卷",
+      "onboard_time": 1762325300,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111813,
       "num": 111813,
       "word": "肖战入选2025年亚太行业先锋领袖榜单",
@@ -8969,6 +9001,14 @@
       "onboard_time": 1761980901,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111321,
+      "num": 136352,
+      "word": "嫁金钗",
+      "onboard_time": 1762325060,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 111085,
@@ -9177,6 +9217,14 @@
       "onboard_time": 1762230321,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109180,
+      "num": 109180,
+      "word": "李一桐和李雪琴把雪上加霜坐实了",
+      "onboard_time": 1762325120,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 109164,
@@ -9561,14 +9609,6 @@
       "onboard_time": 1762183462,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105873,
-      "num": 105873,
-      "word": "C罗说赢得世界杯不是我的梦想",
-      "onboard_time": 1762324222,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 105636,
@@ -10323,6 +10363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100304,
+      "num": 100304,
+      "word": "鲨鱼夹星人有自己的最强收纳",
+      "onboard_time": 1762325360,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100275,
       "num": 100275,
       "word": "印度空难幸存者饱受PTSD折磨",
@@ -10897,6 +10945,14 @@
       "onboard_time": 1761926183,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96416,
+      "num": 96416,
+      "word": "4类人不适合吃奶皮子糖葫芦",
+      "onboard_time": 1762325000,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96408,
@@ -11603,6 +11659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91018,
+      "num": 91018,
+      "word": "教育局回应家长抱婴儿值护学岗",
+      "onboard_time": 1762321820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90947,
       "num": 90947,
       "word": "樊振东的第1条微博",
@@ -11889,6 +11953,14 @@
       "onboard_time": 1762227980,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89045,
+      "num": 108747,
+      "word": "杀出原生家庭的人没有无能之辈",
+      "onboard_time": 1762324821,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 88885,
@@ -12697,14 +12769,6 @@
       "onboard_time": 1761962540,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83633,
-      "num": 83633,
-      "word": "教育局回应家长抱婴儿值护学岗",
-      "onboard_time": 1762321820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83547,
@@ -13899,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71100,
+      "num": 108526,
+      "word": "辛芷蕾 影后看镜头",
+      "onboard_time": 1762324821,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71008,
       "num": 71008,
       "word": "Yagao曝Lvmao要离队了",
@@ -13937,6 +14009,14 @@
       "onboard_time": 1761914243,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70566,
+      "num": 138925,
+      "word": "尔滨冰雪狂欢要来了",
+      "onboard_time": 1762324281,
+      "rank": 29,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 70193,
@@ -14017,14 +14097,6 @@
       "onboard_time": 1762100119,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68860,
-      "num": 138925,
-      "word": "尔滨冰雪狂欢要来了",
-      "onboard_time": 1762324281,
-      "rank": 29,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 68842,
