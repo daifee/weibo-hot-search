@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/06 06:42:26
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/06 07:25:09
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ Ruler失利之后哭了（热度：403914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23" target="weibo">
+王传君获奖表情（热度：402090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E7%94%9F%E5%92%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E5%AE%BF%E8%88%8D%E5%B7%AE%E8%B7%9D%23" target="weibo">
 本科生和研究生的宿舍差距（热度：401224）
 </a>
@@ -2237,6 +2243,12 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%23" target="weibo">
 福建舰入列（热度：299207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AE%A9%E5%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC%23" target="weibo">
+高铁上被要求让座年轻人霸气回怼（热度：298496）
 </a>
 </li>
 
@@ -3315,6 +3327,12 @@ TES面对LCK十五连败（热度：208527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8D%E7%BB%AD%E7%BA%A6%E4%B9%90%E5%8D%8E%23" target="weibo">
+曝王一博不续约乐华（热度：204279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E7%A6%BB%E5%BC%80TTG%23" target="weibo">
 久哲离开TTG（热度：204266）
 </a>
@@ -3345,6 +3363,12 @@ TES面对LCK十五连败（热度：208527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%97%85%E4%BA%A1%E5%90%8E%E5%A6%BB%E5%AD%90%E4%B8%A4%E5%A4%A9%E5%90%8E%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23" target="weibo">
+丈夫病亡后妻子两天后不幸离世（热度：203577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E8%AF%B4%E5%94%90%E5%AB%A3%E6%BC%94%E6%88%8F%E6%95%AC%E4%B8%9A%E4%B8%93%E4%B8%9A%23" target="weibo">
 刘学义说唐嫣演戏敬业专业（热度：203489）
 </a>
@@ -3359,12 +3383,6 @@ Ruler回应败给KT（热度：203278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9B%9E%E5%9B%BD%23" target="weibo">
 王一博新西兰回国（热度：203209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23" target="weibo">
-王传君获奖表情（热度：203190）
 </a>
 </li>
 
@@ -3845,6 +3863,12 @@ A股（热度：186226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E6%94%B9%E5%96%84%E7%9C%BC%E5%87%B8%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 高度近视改善眼凸的方法（热度：184490）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%97%B6%E9%95%BF%E7%A0%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
+美国政府停摆时长破历史纪录（热度：183899）
 </a>
 </li>
 
@@ -5463,12 +5487,6 @@ TES落入绝境（热度：144450）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%97%85%E4%BA%A1%E5%90%8E%E5%A6%BB%E5%AD%90%E4%B8%A4%E5%A4%A9%E5%90%8E%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23" target="weibo">
-丈夫病亡后妻子两天后不幸离世（热度：141322）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E6%9C%89%E4%B8%AA%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
 删了吧有个研究生破防了（热度：141148）
 </a>
@@ -5993,24 +6011,6 @@ GEN回应不敌KT（热度：133104）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E9%AA%97%E5%87%BA%E5%9B%BD10%E4%B8%87%E5%85%83%E5%8D%96%E7%BB%99%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%23" target="weibo">
 高中生被骗出国10万元卖给诈骗园区（热度：132127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：132111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%87%92%E4%BA%BA%E5%9C%A8%E5%AE%B6%E5%88%B0%E5%BA%95%E5%A4%9A%E4%BC%9A%E6%B2%A1%E7%A6%8F%E7%A1%AC%E4%BA%AB%23" target="weibo">
-懒人在家到底多会没福硬享（热度：131972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E6%9C%9F%E5%BE%85%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%96%B0%E5%89%A7%E4%B8%89%E4%BA%BA%E8%A1%8C%23" target="weibo">
-Angelababy期待马天宇新剧三人行（热度：131862）
 </a>
 </li>
 

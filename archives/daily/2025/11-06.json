@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762382546384,
+  "endTime": 1762385109614,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -27,20 +27,28 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 364497,
-      "num": 672347,
-      "word": "王传君东京电影节影帝",
-      "onboard_time": 1762332922,
-      "rank": 1,
+      "raw_hot": 402090,
+      "num": 93724,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
       "category": "电影"
     },
     {
-      "raw_hot": 348567,
+      "raw_hot": 366092,
       "num": 186484,
       "word": "苗圃 至今内娱无代餐",
       "onboard_time": 1762353024,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364497,
+      "num": 760465,
+      "word": "王传君东京电影节影帝",
+      "onboard_time": 1762332922,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 324043,
@@ -49,6 +57,14 @@
       "onboard_time": 1762355483,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 298496,
+      "num": 92092,
+      "word": "高铁上被要求让座年轻人霸气回怼",
+      "onboard_time": 1762384997,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268346,
@@ -75,12 +91,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203190,
-      "num": 75756,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 204279,
+      "num": 90985,
+      "word": "曝王一博不续约乐华",
+      "onboard_time": 1762384997,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203577,
+      "num": 146995,
+      "word": "丈夫病亡后妻子两天后不幸离世",
+      "onboard_time": 1762355061,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185823,
@@ -89,6 +113,14 @@
       "onboard_time": 1762348282,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183899,
+      "num": 183899,
+      "word": "美国政府停摆时长破历史纪录",
+      "onboard_time": 1762379594,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173898,
@@ -104,14 +136,6 @@
       "word": "女护士称给95岁大爷扎针时被摸腿",
       "onboard_time": 1762352301,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139281,
-      "num": 146995,
-      "word": "丈夫病亡后妻子两天后不幸离世",
-      "onboard_time": 1762355061,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -147,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112954,
+      "num": 112954,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107472,
       "num": 145993,
       "word": "吴昕微信几乎不留聊天记录",
@@ -171,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97847,
+      "num": 144726,
+      "word": "男老师称涉猥亵教学动作是误会",
+      "onboard_time": 1762353502,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93124,
       "num": 145366,
       "word": "iPhone17会成为新的钉子户神机吗",
@@ -179,20 +219,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87964,
+      "num": 144250,
+      "word": "新加坡91岁老人每天工作12小时",
+      "onboard_time": 1762343540,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86982,
       "num": 146573,
       "word": "水龙吟口碑反转只用了三集",
       "onboard_time": 1762346061,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86428,
-      "num": 144726,
-      "word": "男老师称涉猥亵教学动作是误会",
-      "onboard_time": 1762353502,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83526,
@@ -219,6 +259,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 72659,
+      "num": 142605,
+      "word": "生产日期为什么不直接写",
+      "onboard_time": 1762341741,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 72584,
+      "num": 144364,
+      "word": "全红婵复出或成体育界新样本",
+      "onboard_time": 1762350562,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69302,
       "num": 254986,
       "word": "Peanut晒与Faker拥抱照",
@@ -241,22 +297,6 @@
       "onboard_time": 1762354762,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64056,
-      "num": 144364,
-      "word": "全红婵复出或成体育界新样本",
-      "onboard_time": 1762350562,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63350,
-      "num": 144250,
-      "word": "新加坡91岁老人每天工作12小时",
-      "onboard_time": 1762343540,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62854,
@@ -291,6 +331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59212,
+      "num": 209256,
+      "word": "户晨风恶意制造对立收割流量牟利",
+      "onboard_time": 1762359380,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 58067,
+      "num": 165157,
+      "word": "金店关门潮蔓延",
+      "onboard_time": 1762355541,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 56978,
       "num": 144579,
       "word": "茅台拟以15亿至30亿回购股份并注销",
@@ -315,6 +371,22 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 54674,
+      "num": 224725,
+      "word": "北京 大雾",
+      "onboard_time": 1762352362,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53109,
+      "num": 70630,
+      "word": "杨紫直播",
+      "onboard_time": 1762346602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51982,
       "num": 140215,
       "word": "特斯拉撞死野猪车主被判全责",
@@ -331,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49751,
-      "num": 224725,
-      "word": "北京 大雾",
-      "onboard_time": 1762352362,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 50319,
+      "num": 142143,
+      "word": "央视点名柴怼怼",
+      "onboard_time": 1762348402,
+      "rank": 44,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 49484,
@@ -345,38 +417,6 @@
       "onboard_time": 1762361237,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46013,
-      "num": 142605,
-      "word": "生产日期为什么不直接写",
-      "onboard_time": 1762341741,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 44591,
-      "num": 209256,
-      "word": "户晨风恶意制造对立收割流量牟利",
-      "onboard_time": 1762359380,
-      "rank": 9,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 42593,
-      "num": 78197,
-      "word": "iPhone闹钟被低估的仪式感",
-      "onboard_time": 1762370714,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 42515,
-      "num": 165157,
-      "word": "金店关门潮蔓延",
-      "onboard_time": 1762355541,
-      "rank": 39,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 41802,
@@ -395,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39816,
-      "num": 142143,
-      "word": "央视点名柴怼怼",
-      "onboard_time": 1762348402,
+      "raw_hot": 40346,
+      "num": 70567,
+      "word": "原相机下的周冬雨马思纯",
+      "onboard_time": 1762378514,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40252,
+      "num": 70562,
+      "word": "李维嘉杜海涛吴昕有小群",
+      "onboard_time": 1762363275,
       "rank": 44,
-      "category": "民生新闻,网红"
+      "category": "艺人"
     },
     {
       "raw_hot": 39516,
@@ -443,7 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36645,
+      "raw_hot": 36875,
       "num": 141072,
       "word": "张艺兴说完bra就挠头了",
       "onboard_time": 1762346240,
@@ -451,20 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36105,
+      "num": 70518,
+      "word": "入冬第1个顶流出现了",
+      "onboard_time": 1762384637,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 33422,
+      "num": 70453,
+      "word": "校方回应大二女生校内溺亡",
+      "onboard_time": 1762374373,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30632,
-      "num": 37081,
+      "num": 70385,
       "word": "宋雨琦ins晒跑男合照",
       "onboard_time": 1762366155,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30526,
-      "num": 38930,
-      "word": "美国政府停摆时长破历史纪录",
-      "onboard_time": 1762379594,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29499,
@@ -483,12 +539,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 26639,
-      "num": 60965,
-      "word": "李维嘉杜海涛吴昕有小群",
-      "onboard_time": 1762363275,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 25298,
+      "num": 70361,
+      "word": "樊振东王楚钦马龙有望小组对决",
+      "onboard_time": 1762375213,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 23895,
@@ -499,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22977,
-      "num": 37184,
-      "word": "原相机下的周冬雨马思纯",
-      "onboard_time": 1762378514,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 21972,
+      "num": 70350,
+      "word": "易烊千玺在更大的舞台上见面",
+      "onboard_time": 1762358239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 20177,
@@ -515,20 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18384,
-      "num": 37121,
-      "word": "校方回应大二女生校内溺亡",
-      "onboard_time": 1762374373,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17898,
-      "num": 37095,
-      "word": "樊振东王楚钦马龙有望小组对决",
-      "onboard_time": 1762375213,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 19695,
+      "num": 70338,
+      "word": "王一博为火炬传递广州站打call",
+      "onboard_time": 1762376714,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 17302,
@@ -537,14 +585,6 @@
       "onboard_time": 1762381155,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 15833,
-      "num": 37075,
-      "word": "王一博为火炬传递广州站打call",
-      "onboard_time": 1762376714,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 15670,
@@ -571,15 +611,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13604,
-      "num": 23396,
-      "word": "易烊千玺在更大的舞台上见面",
-      "onboard_time": 1762358239,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 1836,
+      "raw_hot": 2056,
       "num": 327648,
       "word": "一人一句为全运健儿加油",
       "onboard_time": 1762245502,

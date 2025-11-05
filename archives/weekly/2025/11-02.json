@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762382546384,
+  "endTime": 1762385109614,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1659,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402090,
+      "num": 93724,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401224,
       "num": 246528,
       "word": "本科生和研究生的宿舍差距",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1762317563,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 298496,
+      "num": 92092,
+      "word": "高铁上被要求让座年轻人霸气回怼",
+      "onboard_time": 1762384997,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295392,
@@ -3531,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204279,
+      "num": 90985,
+      "word": "曝王一博不续约乐华",
+      "onboard_time": 1762384997,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204266,
       "num": 214552,
       "word": "久哲离开TTG",
@@ -3563,20 +3587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203577,
+      "num": 146995,
+      "word": "丈夫病亡后妻子两天后不幸离世",
+      "onboard_time": 1762355061,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203489,
       "num": 203489,
       "word": "刘学义说唐嫣演戏敬业专业",
       "onboard_time": 1762041378,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203190,
-      "num": 75756,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 202534,
@@ -4089,6 +4113,14 @@
       "onboard_time": 1762223539,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183899,
+      "num": 183899,
+      "word": "美国政府停摆时长破历史纪录",
+      "onboard_time": 1762379594,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183896,
@@ -5713,14 +5745,6 @@
       "onboard_time": 1762175602,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141322,
-      "num": 146995,
-      "word": "丈夫病亡后妻子两天后不幸离世",
-      "onboard_time": 1762355061,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141148,
@@ -7667,6 +7691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112954,
+      "num": 112954,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112875,
       "num": 112875,
       "word": "男子以问厕所位置为由牵走女孩",
@@ -9435,6 +9467,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 97847,
+      "num": 144726,
+      "word": "男老师称涉猥亵教学动作是误会",
+      "onboard_time": 1762353502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97837,
       "num": 97837,
       "word": "沈腾 安宇学过不像你们",
@@ -10321,14 +10361,6 @@
       "onboard_time": 1762253540,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91128,
-      "num": 144726,
-      "word": "男老师称涉猥亵教学动作是误会",
-      "onboard_time": 1762353502,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91045,
@@ -13051,6 +13083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59212,
+      "num": 209256,
+      "word": "户晨风恶意制造对立收割流量牟利",
+      "onboard_time": 1762359380,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 59154,
       "num": 157277,
       "word": "著名音乐人屠颖离世",
@@ -13571,14 +13611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44591,
-      "num": 209256,
-      "word": "户晨风恶意制造对立收割流量牟利",
-      "onboard_time": 1762359380,
-      "rank": 9,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 43957,
       "num": 99840,
       "word": "电商在衣服上挂密码锁防蹭穿退货",
@@ -13641,14 +13673,6 @@
       "onboard_time": 1762339942,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42593,
-      "num": 78197,
-      "word": "iPhone闹钟被低估的仪式感",
-      "onboard_time": 1762370714,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 42423,
@@ -13721,6 +13745,22 @@
       "onboard_time": 1762150821,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40346,
+      "num": 70567,
+      "word": "原相机下的周冬雨马思纯",
+      "onboard_time": 1762378514,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40252,
+      "num": 70562,
+      "word": "李维嘉杜海涛吴昕有小群",
+      "onboard_time": 1762363275,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 40173,
@@ -13923,6 +13963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36105,
+      "num": 70518,
+      "word": "入冬第1个顶流出现了",
+      "onboard_time": 1762384637,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 35632,
       "num": 172304,
       "word": "奶皮子糖葫芦火了奶皮子也涨价了",
@@ -14027,6 +14075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33422,
+      "num": 70453,
+      "word": "校方回应大二女生校内溺亡",
+      "onboard_time": 1762374373,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32770,
       "num": 88988,
       "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
@@ -14116,19 +14172,11 @@
     },
     {
       "raw_hot": 30632,
-      "num": 37081,
+      "num": 70385,
       "word": "宋雨琦ins晒跑男合照",
       "onboard_time": 1762366155,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30526,
-      "num": 38930,
-      "word": "美国政府停摆时长破历史纪录",
-      "onboard_time": 1762379594,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30486,
@@ -14291,14 +14339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26639,
-      "num": 60965,
-      "word": "李维嘉杜海涛吴昕有小群",
-      "onboard_time": 1762363275,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26286,
       "num": 850672,
       "word": "关注第八届进博会",
@@ -14369,6 +14409,14 @@
       "onboard_time": 1762057820,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 25298,
+      "num": 70361,
+      "word": "樊振东王楚钦马龙有望小组对决",
+      "onboard_time": 1762375213,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 25069,
@@ -14451,20 +14499,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22977,
-      "num": 37184,
-      "word": "原相机下的周冬雨马思纯",
-      "onboard_time": 1762378514,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22965,
       "num": 139035,
       "word": "学校通报多名学生头晕呕吐",
       "onboard_time": 1762090643,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 21972,
+      "num": 70350,
+      "word": "易烊千玺在更大的舞台上见面",
+      "onboard_time": 1762358239,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 21428,
@@ -14531,6 +14579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19695,
+      "num": 70338,
+      "word": "王一博为火炬传递广州站打call",
+      "onboard_time": 1762376714,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -14553,14 +14609,6 @@
       "onboard_time": 1762111094,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18384,
-      "num": 37121,
-      "word": "校方回应大二女生校内溺亡",
-      "onboard_time": 1762374373,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18295,
@@ -14601,14 +14649,6 @@
       "onboard_time": 1762023554,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17898,
-      "num": 37095,
-      "word": "樊振东王楚钦马龙有望小组对决",
-      "onboard_time": 1762375213,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 17790,
@@ -14657,14 +14697,6 @@
       "onboard_time": 1762262542,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15833,
-      "num": 37075,
-      "word": "王一博为火炬传递广州站打call",
-      "onboard_time": 1762376714,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 15659,
@@ -14737,14 +14769,6 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13604,
-      "num": 23396,
-      "word": "易烊千玺在更大的舞台上见面",
-      "onboard_time": 1762358239,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 13471,
