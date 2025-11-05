@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762320439208,
+  "endTime": 1762321372341,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835613,
+      "num": 196442,
+      "word": "收到了去世朋友7年前的邮件",
+      "onboard_time": 1762315821,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 833435,
       "num": 314441,
       "word": "白百何 还能这么操作",
@@ -393,14 +401,6 @@
       "onboard_time": 1762316421,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774739,
-      "num": 181320,
-      "word": "收到了去世朋友7年前的邮件",
-      "onboard_time": 1762315821,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 771778,
@@ -1899,6 +1899,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 329975,
+      "num": 195373,
+      "word": "女子名叫丽春多次申请改名被拒",
+      "onboard_time": 1762318461,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324679,
       "num": 140285,
       "word": "朱珠情商太高了",
@@ -1912,14 +1920,6 @@
       "word": "山姆改回实拍图",
       "onboard_time": 1762235960,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321890,
-      "num": 180343,
-      "word": "女子名叫丽春多次申请改名被拒",
-      "onboard_time": 1762318461,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299207,
+      "num": 194669,
+      "word": "福建舰入列",
+      "onboard_time": 1762317563,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -2171,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284719,
+      "num": 284719,
+      "word": "林尚武去世",
+      "onboard_time": 1762317982,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283157,
       "num": 283157,
       "word": "美国一机场发生飞机坠毁事故",
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 276619,
-      "num": 176977,
+      "num": 191930,
       "word": "孙乐言主持界首个拿下奥斯卡的人",
       "onboard_time": 1762319422,
       "rank": 21,
@@ -2283,28 +2299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271217,
-      "num": 271217,
-      "word": "林尚武去世",
-      "onboard_time": 1762317982,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270276,
       "num": 183456,
       "word": "曝香港导演刘家良墓被盗",
       "onboard_time": 1762234940,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269940,
-      "num": 179861,
-      "word": "福建舰入列",
-      "onboard_time": 1762317563,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 269384,
@@ -2531,6 +2531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240711,
+      "num": 194133,
+      "word": "向太称子女敢去美国就捐光家产",
+      "onboard_time": 1762320800,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240685,
       "num": 240685,
       "word": "推妻入海骗保男子已被执行死刑",
@@ -2635,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229110,
+      "num": 194796,
+      "word": "巧克力 孟子义嫡长狗",
+      "onboard_time": 1762317202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229004,
       "num": 229004,
       "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
@@ -2723,16 +2739,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221900,
-      "num": 194796,
-      "word": "巧克力 孟子义嫡长狗",
-      "onboard_time": 1762317202,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 222044,
+      "num": 222044,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 221898,
-      "num": 183269,
+      "num": 187053,
       "word": "微信式恋爱",
       "onboard_time": 1762315221,
       "rank": 43,
@@ -3355,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190729,
+      "num": 190729,
+      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+      "onboard_time": 1762320622,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190339,
       "num": 157280,
       "word": "会穿衣服是一种超绝的能力",
@@ -3515,12 +3539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182777,
-      "num": 182777,
-      "word": "小米YU7全网首拆",
-      "onboard_time": 1762314862,
-      "rank": 44,
-      "category": "汽车"
+      "raw_hot": 182913,
+      "num": 190795,
+      "word": "新闻女王2开局11广",
+      "onboard_time": 1762320380,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182547,
@@ -4179,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160048,
+      "num": 160048,
+      "word": "戚薇大侦探演唱会路透",
+      "onboard_time": 1762320380,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159589,
       "num": 159589,
       "word": "林允 那年杏花微雨",
@@ -4491,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "梁景仁下线",
+      "onboard_time": 1762320741,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151250,
       "num": 161045,
       "word": "孙乐言首次来offer",
@@ -4755,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144372,
+      "num": 151090,
+      "word": "刘宇宁巡演抢票",
+      "onboard_time": 1762321041,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144313,
       "num": 144313,
       "word": "高校食堂卖999元帝王蟹",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1762129460,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140177,
+      "num": 140177,
+      "word": "张柏芝 排队都轮不到你",
+      "onboard_time": 1762318102,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 140171,
@@ -5145,14 +5201,6 @@
       "onboard_time": 1762075099,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134852,
-      "num": 134852,
-      "word": "张柏芝 排队都轮不到你",
-      "onboard_time": 1762318102,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 134749,
@@ -5379,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131123,
+      "num": 131123,
+      "word": "内娱中女含金量还在上升",
+      "onboard_time": 1762317922,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131101,
       "num": 144234,
       "word": "马思纯写给自己的信",
@@ -5563,6 +5619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128566,
+      "num": 192874,
+      "word": "骑手社保咨询处挤满保安快递员",
+      "onboard_time": 1762319061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128224,
       "num": 156552,
       "word": "山姆会员吐槽花680不是来看AI图的",
@@ -5691,14 +5755,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 125723,
-      "num": 125723,
-      "word": "新闻女王2开局11广",
-      "onboard_time": 1762320380,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125615,
       "num": 121925,
       "word": "学校通报女生买淀粉肠被拿走钥匙",
@@ -5817,6 +5873,14 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123235,
+      "num": 123235,
+      "word": "崩铁Cyrene昔涟神迹",
+      "onboard_time": 1762321282,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 123183,
@@ -5977,14 +6041,6 @@
       "onboard_time": 1762182203,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120943,
-      "num": 120943,
-      "word": "内娱中女含金量还在上升",
-      "onboard_time": 1762317922,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120749,
@@ -6395,6 +6451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114582,
+      "num": 114582,
+      "word": "房中房中房中房中房",
+      "onboard_time": 1762321219,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114430,
       "num": 114430,
       "word": "才知道中医问有没谈恋爱是什么意思",
@@ -6467,6 +6531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113190,
+      "num": 113190,
+      "word": "太阳vs勇士",
+      "onboard_time": 1762320982,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113189,
       "num": 113189,
       "word": "这居然是20岁的邓恩熙",
@@ -6521,14 +6593,6 @@
       "onboard_time": 1762263083,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112774,
-      "num": 178234,
-      "word": "骑手社保咨询处挤满保安快递员",
-      "onboard_time": 1762319061,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112683,
@@ -6985,6 +7049,14 @@
       "onboard_time": 1762308979,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107589,
+      "num": 151055,
+      "word": "继续暂停实施24%的对美加征关税税率",
+      "onboard_time": 1762320500,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107538,
@@ -7609,6 +7681,14 @@
       "onboard_time": 1762237640,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101627,
+      "num": 101627,
+      "word": "台湾网红馆长又把深圳夸爆了",
+      "onboard_time": 1762320982,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101521,
@@ -8337,14 +8417,6 @@
       "onboard_time": 1762314982,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94307,
-      "num": 94307,
-      "word": "戚薇大侦探演唱会路透",
-      "onboard_time": 1762320380,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 94286,
@@ -9939,6 +10011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80320,
+      "num": 193196,
+      "word": "请6休17",
+      "onboard_time": 1762320862,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "流感真的要提前来了",
@@ -11091,6 +11171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58219,
+      "num": 115792,
+      "word": "石宇奇又又又换发色了",
+      "onboard_time": 1762320261,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58140,
       "num": 169019,
       "word": "美国一货机坠毁致3死11伤",
@@ -11539,14 +11627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42242,
-      "num": 115100,
-      "word": "石宇奇又又又换发色了",
-      "onboard_time": 1762320261,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42056,
       "num": 80407,
       "word": "李越宏说全世界最好的射手都在中国",
@@ -11609,6 +11689,14 @@
       "onboard_time": 1762212739,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40163,
+      "num": 114834,
+      "word": "三部剧拼拼凑凑看完了琅琊王的一生",
+      "onboard_time": 1762320741,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 40120,

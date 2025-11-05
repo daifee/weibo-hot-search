@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762320439208,
+  "endTime": 1762321372341,
   "band_list": [
     {
       "raw_hot": 1273997,
@@ -35,20 +35,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 835613,
+      "num": 196442,
+      "word": "收到了去世朋友7年前的邮件",
+      "onboard_time": 1762315821,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 775494,
       "num": 222881,
       "word": "赵樱子听到张康乐的反应",
       "onboard_time": 1762316421,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774739,
-      "num": 181320,
-      "word": "收到了去世朋友7年前的邮件",
-      "onboard_time": 1762315821,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 768177,
@@ -275,6 +275,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 329975,
+      "num": 195373,
+      "word": "女子名叫丽春多次申请改名被拒",
+      "onboard_time": 1762318461,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327887,
       "num": 155503,
       "word": "原来肖战19年就有晋江式演技了",
@@ -283,20 +291,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321890,
-      "num": 180343,
-      "word": "女子名叫丽春多次申请改名被拒",
-      "onboard_time": 1762318461,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303203,
       "num": 200144,
       "word": "刘思涵你的校服在非洲火了",
       "onboard_time": 1762305680,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 299207,
+      "num": 194669,
+      "word": "福建舰入列",
+      "onboard_time": 1762317563,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 284719,
+      "num": 284719,
+      "word": "林尚武去世",
+      "onboard_time": 1762317982,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 283157,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 276619,
-      "num": 176977,
+      "num": 191930,
       "word": "孙乐言主持界首个拿下奥斯卡的人",
       "onboard_time": 1762319422,
       "rank": 21,
@@ -323,28 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271217,
-      "num": 271217,
-      "word": "林尚武去世",
-      "onboard_time": 1762317982,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269940,
-      "num": 179861,
-      "word": "福建舰入列",
-      "onboard_time": 1762317563,
-      "rank": 34,
-      "category": "军事"
-    },
-    {
       "raw_hot": 258587,
       "num": 115348,
       "word": "程序员被裁后卖卤肉饭10元一盒",
       "onboard_time": 1762269081,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240711,
+      "num": 194133,
+      "word": "向太称子女敢去美国就捐光家产",
+      "onboard_time": 1762320800,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 236413,
@@ -355,6 +363,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 229110,
+      "num": 194796,
+      "word": "巧克力 孟子义嫡长狗",
+      "onboard_time": 1762317202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229004,
       "num": 229004,
       "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
@@ -363,16 +379,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221900,
-      "num": 194796,
-      "word": "巧克力 孟子义嫡长狗",
-      "onboard_time": 1762317202,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 222044,
+      "num": 222044,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 221898,
-      "num": 183269,
+      "num": 187053,
       "word": "微信式恋爱",
       "onboard_time": 1762315221,
       "rank": 43,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190729,
+      "num": 190729,
+      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+      "onboard_time": 1762320622,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -547,12 +571,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 182777,
-      "num": 182777,
-      "word": "小米YU7全网首拆",
-      "onboard_time": 1762314862,
-      "rank": 44,
-      "category": "汽车"
+      "raw_hot": 182913,
+      "num": 190795,
+      "word": "新闻女王2开局11广",
+      "onboard_time": 1762320380,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181049,
@@ -643,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160048,
+      "num": 160048,
+      "word": "戚薇大侦探演唱会路透",
+      "onboard_time": 1762320380,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159309,
       "num": 159309,
       "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "梁景仁下线",
+      "onboard_time": 1762320741,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148367,
       "num": 124526,
       "word": "吴京晒流浪地球3片场照片",
@@ -713,6 +753,14 @@
       "onboard_time": 1762314500,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144372,
+      "num": 151090,
+      "word": "刘宇宁巡演抢票",
+      "onboard_time": 1762321041,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 144220,
@@ -763,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140177,
+      "num": 140177,
+      "word": "张柏芝 排队都轮不到你",
+      "onboard_time": 1762318102,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139742,
       "num": 139742,
       "word": "老人临终前儿女们的欺上瞒下",
@@ -795,12 +851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134852,
-      "num": 134852,
-      "word": "张柏芝 排队都轮不到你",
-      "onboard_time": 1762318102,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 131123,
+      "num": 131123,
+      "word": "内娱中女含金量还在上升",
+      "onboard_time": 1762317922,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 131037,
@@ -809,6 +865,14 @@
       "onboard_time": 1762309939,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128566,
+      "num": 192874,
+      "word": "骑手社保咨询处挤满保安快递员",
+      "onboard_time": 1762319061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128224,
@@ -827,20 +891,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125723,
-      "num": 125723,
-      "word": "新闻女王2开局11广",
-      "onboard_time": 1762320380,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123713,
       "num": 87321,
       "word": "马思纯工作室写给马思纯的信",
       "onboard_time": 1762271599,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123235,
+      "num": 123235,
+      "word": "崩铁Cyrene昔涟神迹",
+      "onboard_time": 1762321282,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 123170,
@@ -875,14 +939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120943,
-      "num": 120943,
-      "word": "内娱中女含金量还在上升",
-      "onboard_time": 1762317922,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117205,
       "num": 117205,
       "word": "第十八届文华奖获奖名单",
@@ -907,6 +963,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114582,
+      "num": 114582,
+      "word": "房中房中房中房中房",
+      "onboard_time": 1762321219,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113238,
       "num": 113238,
       "word": "Oner蒙多出装照抄Tarzan",
@@ -915,12 +979,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112774,
-      "num": 178234,
-      "word": "骑手社保咨询处挤满保安快递员",
-      "onboard_time": 1762319061,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 113190,
+      "num": 113190,
+      "word": "太阳vs勇士",
+      "onboard_time": 1762320982,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 112459,
@@ -953,6 +1017,14 @@
       "onboard_time": 1762308979,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107589,
+      "num": 151055,
+      "word": "继续暂停实施24%的对美加征关税税率",
+      "onboard_time": 1762320500,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107288,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1762314380,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101627,
+      "num": 101627,
+      "word": "台湾网红馆长又把深圳夸爆了",
+      "onboard_time": 1762320982,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99861,
@@ -1089,14 +1169,6 @@
       "onboard_time": 1762314982,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94307,
-      "num": 94307,
-      "word": "戚薇大侦探演唱会路透",
-      "onboard_time": 1762320380,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 94178,
@@ -1371,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80320,
+      "num": 193196,
+      "word": "请6休17",
+      "onboard_time": 1762320862,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80090,
       "num": 118263,
       "word": "屠颖已在广州火化",
@@ -1505,6 +1585,14 @@
       "onboard_time": 1762253781,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58219,
+      "num": 115792,
+      "word": "石宇奇又又又换发色了",
+      "onboard_time": 1762320261,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 58140,
@@ -1667,12 +1755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42242,
-      "num": 115100,
-      "word": "石宇奇又又又换发色了",
-      "onboard_time": 1762320261,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 40163,
+      "num": 114834,
+      "word": "三部剧拼拼凑凑看完了琅琊王的一生",
+      "onboard_time": 1762320741,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 37100,
