@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762377950742,
+  "endTime": 1762378658639,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -195,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82654,
+      "num": 34914,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78313,
       "num": 145681,
       "word": "杨幂好像从雪见变成了夕瑶",
       "onboard_time": 1762357520,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76290,
-      "num": 33755,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 72831,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 31325,
-      "num": 37244,
+      "num": 38422,
       "word": "iPhone闹钟被低估的仪式感",
       "onboard_time": 1762370714,
       "rank": 8,
@@ -491,8 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15920,
-      "num": 35823,
+      "raw_hot": 18594,
+      "num": 37543,
       "word": "美国肯塔基州坠机事故已致9人死亡",
       "onboard_time": 1762374733,
       "rank": 45,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14438,
+      "num": 30995,
+      "word": "校方回应大二女生校内溺亡",
+      "onboard_time": 1762374373,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14039,
       "num": 50035,
       "word": "2026年国庆拼假能休17天",
@@ -523,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13942,
-      "num": 30995,
-      "word": "校方回应大二女生校内溺亡",
-      "onboard_time": 1762374373,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 13679,
+      "num": 30983,
+      "word": "樊振东王楚钦马龙有望小组对决",
+      "onboard_time": 1762375213,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 13604,
@@ -537,14 +545,6 @@
       "onboard_time": 1762358239,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13322,
-      "num": 30983,
-      "word": "樊振东王楚钦马龙有望小组对决",
-      "onboard_time": 1762375213,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 9301,
