@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762368663502,
+  "endTime": 1762370543574,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30632,
+      "num": 30632,
+      "word": "宋雨琦ins晒跑男合照",
+      "onboard_time": 1762366155,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29499,
       "num": 29499,
       "word": "苏新皓和老师编了最后两个八拍",
@@ -465,14 +473,6 @@
       "onboard_time": 1762358181,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19583,
-      "num": 23468,
-      "word": "宋雨琦ins晒跑男合照",
-      "onboard_time": 1762366155,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 15670,
