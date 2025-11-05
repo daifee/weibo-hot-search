@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762350623394,
+  "endTime": 1762352893904,
   "band_list": [
     {
       "raw_hot": 6617734,
@@ -123,6 +123,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 814785,
+      "num": 384252,
+      "word": "桂纶镁回应白百何落选",
+      "onboard_time": 1762347561,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 775494,
       "num": 222881,
       "word": "赵樱子听到张康乐的反应",
@@ -203,19 +211,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 637287,
-      "num": 384252,
-      "word": "桂纶镁回应白百何落选",
-      "onboard_time": 1762347561,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 626933,
       "num": 626933,
       "word": "12306回应高铁1A座被指面壁座",
       "onboard_time": 1762301421,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592974,
+      "num": 244318,
+      "word": "男子与堂哥合谋撞死7岁儿子骗保",
+      "onboard_time": 1762348282,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412036,
+      "num": 221484,
+      "word": "被朋友的公积金余额震惊到了",
+      "onboard_time": 1762350202,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409618,
       "num": 188434,
       "word": "徐冬冬 怀孕了一定大大方方告诉大家",
@@ -424,14 +440,6 @@
       "word": "新公务员发涉密文件炫耀被处分",
       "onboard_time": 1762301479,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382576,
-      "num": 244318,
-      "word": "男子与堂哥合谋撞死7岁儿子骗保",
-      "onboard_time": 1762348282,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336019,
+      "num": 468811,
+      "word": "春节调休凑9天是福利还是负担",
+      "onboard_time": 1762346662,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332604,
       "num": 165804,
       "word": "KK园区已被严重破坏",
@@ -595,6 +611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 297461,
+      "num": 226536,
+      "word": "八仙子团播",
+      "onboard_time": 1762350562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290721,
       "num": 335227,
       "word": "樊振东王楚钦全运会男团同组",
@@ -619,14 +643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 279836,
-      "num": 468811,
-      "word": "春节调休凑9天是福利还是负担",
-      "onboard_time": 1762346662,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275934,
       "num": 114384,
       "word": "史上最相似夫妻称刚认识时并不像",
@@ -643,19 +659,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260565,
+      "num": 220972,
+      "word": "吴昕微信几乎不留聊天记录",
+      "onboard_time": 1762349302,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260108,
       "num": 207720,
       "word": "王格格 张凌赫是我见过最帅的男人",
       "onboard_time": 1762336102,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259725,
-      "num": 142558,
-      "word": "吴昕微信几乎不留聊天记录",
-      "onboard_time": 1762349302,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -697,6 +713,14 @@
       "onboard_time": 1762334902,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241801,
+      "num": 241801,
+      "word": "iPhone17会成为新的钉子户神机吗",
+      "onboard_time": 1762340122,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 236413,
@@ -923,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198806,
+      "num": 240800,
+      "word": "水龙吟口碑反转只用了三集",
+      "onboard_time": 1762346061,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197671,
       "num": 197671,
       "word": "新闻女王2",
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174965,
+      "num": 174965,
+      "word": "温峥嵘 AI盗播",
+      "onboard_time": 1762350141,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171169,
       "num": 477404,
       "word": "欧冠联赛",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1762345581,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168315,
+      "num": 168315,
+      "word": "有严重鱼鳞病所以经常用猪油泡澡",
+      "onboard_time": 1762352243,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168239,
@@ -1259,20 +1307,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156490,
-      "num": 156490,
-      "word": "iPhone17会成为新的钉子户神机吗",
-      "onboard_time": 1762340122,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 155986,
       "num": 155986,
       "word": "崩坏星穹铁道超话",
       "onboard_time": 1762308260,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155113,
+      "num": 152373,
+      "word": "女护士称给95岁大爷扎针时被摸腿",
+      "onboard_time": 1762352301,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154634,
@@ -1587,14 +1635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135921,
-      "num": 135921,
-      "word": "八仙子团播",
-      "onboard_time": 1762350562,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134858,
       "num": 134858,
       "word": "不同的年龄段应该如何护肤",
@@ -1628,7 +1668,7 @@
     },
     {
       "raw_hot": 131539,
-      "num": 131539,
+      "num": 154623,
       "word": "央视点名柴怼怼",
       "onboard_time": 1762348402,
       "rank": 27,
@@ -1811,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118583,
-      "num": 177949,
-      "word": "水龙吟口碑反转只用了三集",
-      "onboard_time": 1762346061,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118384,
       "num": 118384,
       "word": "俞灏明端木磊把我干哪年来了",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1762338804,
       "rank": 32,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 118030,
+      "num": 118030,
+      "word": "全红婵复出或成体育界新样本",
+      "onboard_time": 1762350562,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 117849,
@@ -2131,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103543,
+      "num": 103543,
+      "word": "郭俊辰找到了",
+      "onboard_time": 1762351221,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103523,
       "num": 103523,
       "word": "星穹铁道动画短片",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1762329321,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100235,
-      "num": 100235,
-      "word": "温峥嵘 AI盗播",
-      "onboard_time": 1762350141,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 99970,
@@ -2635,6 +2675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89997,
+      "num": 89997,
+      "word": "同年同月同日夫妻生同月同日宝宝",
+      "onboard_time": 1762350801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89929,
       "num": 89929,
       "word": "成都英雄联盟总决赛观赛氛围拉满",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1762302261,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87491,
+      "num": 87491,
+      "word": "孙颖莎上身全运会河北队服",
+      "onboard_time": 1762352362,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 87366,
@@ -2851,11 +2907,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82789,
-      "num": 92131,
-      "word": "全红婵复出或成体育界新样本",
-      "onboard_time": 1762350562,
-      "rank": 47,
+      "raw_hot": 82630,
+      "num": 82630,
+      "word": "全红婵带伤备战全运会第二金",
+      "onboard_time": 1762352362,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2993,6 +3049,14 @@
       "onboard_time": 1762344321,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76112,
+      "num": 104435,
+      "word": "十个勤天 网友们还是太好心了",
+      "onboard_time": 1762349781,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 75595,
@@ -3179,20 +3243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62523,
-      "num": 104435,
-      "word": "十个勤天 网友们还是太好心了",
-      "onboard_time": 1762349781,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 62437,
       "num": 81966,
       "word": "王橹杰 今年是更成熟的小鬼",
       "onboard_time": 1762259481,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61675,
+      "num": 154256,
+      "word": "超级月亮高清大图来了",
+      "onboard_time": 1762352722,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61056,
@@ -3467,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41523,
+      "num": 76182,
+      "word": "手机租赁平台疑爆雷涉金额超10亿",
+      "onboard_time": 1762351221,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40386,
       "num": 488473,
       "word": "第十五届全运会",
@@ -3513,6 +3585,14 @@
       "onboard_time": 1762281734,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34255,
+      "num": 222468,
+      "word": "北京 大雾",
+      "onboard_time": 1762352362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33780,

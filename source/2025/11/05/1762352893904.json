@@ -1,0 +1,410 @@
+{
+  "runTime": 1762352893904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 716104,
+        "num": 1114576,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390232,
+        "num": 390232,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9859,
+        "num": 337018,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336019,
+        "num": 336019,
+        "word": "春节调休凑9天是福利还是负担",
+        "onboard_time": 1762346662,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241801,
+        "num": 241801,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198806,
+        "num": 240800,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152184,
+        "num": 240106,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 238785,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103945,
+        "num": 237168,
+        "word": "苹果回应iPhone面容解锁不用摄像头",
+        "onboard_time": 1762337962,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95689,
+        "num": 236494,
+        "word": "中国台北参与APEC政治前提",
+        "onboard_time": 1762340181,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1372662,
+        "num": 234428,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 814785,
+        "num": 233885,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592974,
+        "num": 231613,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445106,
+        "num": 231138,
+        "word": "蒋欣哭了",
+        "onboard_time": 1762340661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402630,
+        "num": 230156,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327637,
+        "num": 228815,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297461,
+        "num": 226536,
+        "word": "八仙子团播",
+        "onboard_time": 1762350562,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241961,
+        "num": 225838,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225234,
+        "num": 225234,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34255,
+        "num": 222468,
+        "word": "北京 大雾",
+        "onboard_time": 1762352362,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412036,
+        "num": 221484,
+        "word": "被朋友的公积金余额震惊到了",
+        "onboard_time": 1762350202,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260565,
+        "num": 220972,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220306,
+        "num": 220306,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202863,
+        "num": 202863,
+        "word": "王楚钦奔驰磕到了",
+        "onboard_time": 1762349062,
+        "rank": 23,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 202269,
+        "num": 202269,
+        "word": "王传君感谢白百何",
+        "onboard_time": 1762335923,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 174965,
+        "word": "温峥嵘 AI盗播",
+        "onboard_time": 1762350141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168315,
+        "num": 168315,
+        "word": "有严重鱼鳞病所以经常用猪油泡澡",
+        "onboard_time": 1762352243,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130265,
+        "num": 154623,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 61675,
+        "num": 154256,
+        "word": "超级月亮高清大图来了",
+        "onboard_time": 1762352722,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 154255,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155113,
+        "num": 152373,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141453,
+        "num": 141453,
+        "word": "温峥嵘说我很难证明我是我",
+        "onboard_time": 1762347261,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129552,
+        "num": 129552,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118030,
+        "num": 118030,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106312,
+        "num": 106312,
+        "word": "俞灏明端木磊把我干哪年来了",
+        "onboard_time": 1762349902,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103543,
+        "num": 103543,
+        "word": "郭俊辰找到了",
+        "onboard_time": 1762351221,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98841,
+        "num": 98841,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89997,
+        "num": 89997,
+        "word": "同年同月同日夫妻生同月同日宝宝",
+        "onboard_time": 1762350801,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87491,
+        "num": 87491,
+        "word": "孙颖莎上身全运会河北队服",
+        "onboard_time": 1762352362,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86721,
+        "num": 86721,
+        "word": "中国海军5对4围观四国舰队演习",
+        "onboard_time": 1762345521,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85895,
+        "num": 85895,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82733,
+        "num": 82733,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82640,
+        "num": 82640,
+        "word": "赴山海女配参加唱歌选秀被淘汰",
+        "onboard_time": 1762350382,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82630,
+        "num": 82630,
+        "word": "全红婵带伤备战全运会第二金",
+        "onboard_time": 1762352362,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83530,
+        "num": 82469,
+        "word": "TF家族都有六代了",
+        "onboard_time": 1762338621,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81616,
+        "num": 81616,
+        "word": "冬天多久洗一次澡才最好",
+        "onboard_time": 1762350562,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76513,
+        "num": 76513,
+        "word": "户晨风多平台账号被封禁",
+        "onboard_time": 1762335623,
+        "rank": 46,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 80069,
+        "num": 76359,
+        "word": "欧阳妮妮我也是第一次当妈妈",
+        "onboard_time": 1762347201,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41523,
+        "num": 76182,
+        "word": "手机租赁平台疑爆雷涉金额超10亿",
+        "onboard_time": 1762351221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76112,
+        "num": 76112,
+        "word": "十个勤天 网友们还是太好心了",
+        "onboard_time": 1762349781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}
