@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762307916593,
+  "endTime": 1762309270587,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1229180,
+      "num": 1229180,
+      "word": "网红瑞恩宝贝去世年仅3岁",
+      "onboard_time": 1762306099,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1222273,
       "num": 1222273,
       "word": "蓝盈莹蔡文静撞衫",
@@ -297,14 +305,6 @@
       "onboard_time": 1761969740,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1037258,
-      "num": 1165961,
-      "word": "网红瑞恩宝贝去世年仅3岁",
-      "onboard_time": 1762306099,
-      "rank": 0,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1031397,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449456,
+      "num": 398967,
+      "word": "赵樱子晒因为爱情有多美聚会vlog",
+      "onboard_time": 1762303941,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446963,
       "num": 446963,
       "word": "苏超",
@@ -1619,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414096,
+      "num": 169371,
+      "word": "张凌赫出道前的理想是去国家电网",
+      "onboard_time": 1762302621,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413722,
       "num": 413722,
       "word": "高中生讲述缅北51天经历",
@@ -1691,14 +1707,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 398967,
-      "num": 398967,
-      "word": "赵樱子晒因为爱情有多美聚会vlog",
-      "onboard_time": 1762303941,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397058,
       "num": 189287,
       "word": "郭宇欣一条裙子穿了三次",
@@ -1755,14 +1763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 391052,
-      "num": 169371,
-      "word": "张凌赫出道前的理想是去国家电网",
-      "onboard_time": 1762302621,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390969,
       "num": 179341,
       "word": "黄胜利致歉",
@@ -1785,6 +1785,14 @@
       "onboard_time": 1761999981,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386788,
+      "num": 386788,
+      "word": "新公务员发涉密文件炫耀被处分",
+      "onboard_time": 1762301479,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386713,
@@ -2025,6 +2033,14 @@
       "onboard_time": 1762254081,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353211,
+      "num": 353211,
+      "word": "KK园区电诈人员已开始再就业",
+      "onboard_time": 1762305680,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 351079,
@@ -3259,14 +3275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224785,
-      "num": 224785,
-      "word": "新公务员发涉密文件炫耀被处分",
-      "onboard_time": 1762301479,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -3497,14 +3505,6 @@
       "onboard_time": 1761922703,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210462,
-      "num": 210462,
-      "word": "KK园区电诈人员已开始再就业",
-      "onboard_time": 1762305680,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210344,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 193764,
-      "num": 166878,
+      "num": 169005,
       "word": "惊天魔盗团3官宣黄子弘凡新身份",
       "onboard_time": 1762301421,
       "rank": 18,
@@ -4243,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183701,
+      "num": 156188,
+      "word": "原来有酒窝的人脸部肌肉天生独特",
+      "onboard_time": 1762306099,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1762083561,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179033,
+      "num": 157683,
+      "word": "墨西哥女总统当街遭男子猥亵",
+      "onboard_time": 1762308260,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 178879,
@@ -5259,6 +5275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155986,
+      "num": 155986,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1762308260,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155929,
       "num": 155929,
       "word": "鞠婧祎出道十二周年发博",
@@ -5891,6 +5915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144166,
+      "num": 144166,
+      "word": "折叠屏iPhone明年亮相",
+      "onboard_time": 1762300760,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143689,
       "num": 106192,
       "word": "光夜齐司礼时序彼端",
@@ -5937,6 +5969,14 @@
       "onboard_time": 1762176081,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142574,
+      "num": 142574,
+      "word": "玉簟秋诚不欺我",
+      "onboard_time": 1762308140,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 142412,
@@ -6649,6 +6689,14 @@
       "onboard_time": 1762242321,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "金银暴涨意味着全球滞胀吗",
+      "onboard_time": 1762307121,
+      "rank": 36,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 131101,
@@ -7923,14 +7971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115285,
-      "num": 115285,
-      "word": "原来有酒窝的人脸部肌肉天生独特",
-      "onboard_time": 1762306099,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115237,
       "num": 115237,
       "word": "全红婵紧急撤回一个哈欠",
@@ -8025,14 +8065,6 @@
       "onboard_time": 1762253961,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113334,
-      "num": 113334,
-      "word": "折叠屏iPhone明年亮相",
-      "onboard_time": 1762300760,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 113326,
@@ -8171,6 +8203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112459,
+      "num": 109946,
+      "word": "苹果有苹果的办法",
+      "onboard_time": 1762306040,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 112438,
       "num": 112438,
       "word": "背的是嫂子吗背的是德",
@@ -8185,6 +8225,14 @@
       "onboard_time": 1762052840,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112266,
+      "num": 112266,
+      "word": "神20返回任务推迟",
+      "onboard_time": 1762308681,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112232,
@@ -8443,6 +8491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109295,
+      "num": 109295,
+      "word": "UPS坠毁货机上有28万加仑燃油",
+      "onboard_time": 1762308920,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109181,
       "num": 109181,
       "word": "章若楠直播带粉丝看落日",
@@ -8641,6 +8697,14 @@
       "onboard_time": 1761992599,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107592,
+      "num": 107592,
+      "word": "发明固体杨枝甘露的人是天才吧",
+      "onboard_time": 1762308979,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 107538,
@@ -9891,6 +9955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97810,
+      "num": 97810,
+      "word": "爸爸叫宝宝不要吓到猫猫",
+      "onboard_time": 1762303761,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 97809,
       "num": 97809,
       "word": "第十五届全运会",
@@ -10089,14 +10161,6 @@
       "onboard_time": 1762078580,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95907,
-      "num": 95907,
-      "word": "金银暴涨意味着全球滞胀吗",
-      "onboard_time": 1762307121,
-      "rank": 36,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 95845,
@@ -10305,6 +10369,14 @@
       "onboard_time": 1762238540,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93972,
+      "num": 93972,
+      "word": "丁禹兮从粉丝里捞工作人员",
+      "onboard_time": 1762308620,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 93940,
@@ -10659,6 +10731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91507,
+      "num": 91507,
+      "word": "内蒙古出现巨型大地之树",
+      "onboard_time": 1762309100,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -10753,6 +10833,14 @@
       "onboard_time": 1761995481,
       "rank": 18,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 90647,
+      "num": 90647,
+      "word": "上海一老人疑地域歧视打扰顾客用餐",
+      "onboard_time": 1762307719,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90599,
@@ -10947,6 +11035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89125,
+      "num": 89125,
+      "word": "成都英雄联盟总决赛观赛氛围拉满",
+      "onboard_time": 1762308979,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89100,
       "num": 89100,
       "word": "全红婵每天冰敷再起跳",
@@ -10977,6 +11073,14 @@
       "onboard_time": 1762300700,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88760,
+      "num": 88760,
+      "word": "专家称前借后挪调休非最优方案",
+      "onboard_time": 1762308140,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88716,
@@ -11057,6 +11161,14 @@
       "onboard_time": 1762223661,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88109,
+      "num": 88109,
+      "word": "其实过得幸福花不了太多钱",
+      "onboard_time": 1762307480,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 88074,
@@ -11288,14 +11400,6 @@
       "word": "拴绳大狗遭柯基主人殴打被立案",
       "onboard_time": 1761990561,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86570,
-      "num": 86570,
-      "word": "上海一老人疑地域歧视打扰顾客用餐",
-      "onboard_time": 1762307719,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -11747,6 +11851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83016,
+      "num": 83016,
+      "word": "小猫枕着小猫睡",
+      "onboard_time": 1762305979,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82945,
       "num": 82945,
       "word": "荷兰启动2025年光刻机出口新规",
@@ -11809,14 +11921,6 @@
       "onboard_time": 1761984439,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82660,
-      "num": 82660,
-      "word": "爸爸叫宝宝不要吓到猫猫",
-      "onboard_time": 1762303761,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 82604,
@@ -13555,6 +13659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58140,
+      "num": 169019,
+      "word": "美国一货机坠毁致3死11伤",
+      "onboard_time": 1762307600,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57734,
       "num": 97561,
       "word": "KPL一千零一夜",
@@ -14537,14 +14649,6 @@
       "onboard_time": 1762147881,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32549,
-      "num": 169019,
-      "word": "美国一货机坠毁致3死11伤",
-      "onboard_time": 1762307600,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 32340,

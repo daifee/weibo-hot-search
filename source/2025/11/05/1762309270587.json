@@ -1,0 +1,410 @@
+{
+  "runTime": 1762309270587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229180,
+        "num": 1229180,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 441710,
+        "num": 441710,
+        "word": "12306回应高铁1A座被指面壁座",
+        "onboard_time": 1762301421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19291,
+        "num": 400304,
+        "word": "中国机遇是因为中国的确定性",
+        "onboard_time": 1762262182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386788,
+        "num": 386788,
+        "word": "新公务员发涉密文件炫耀被处分",
+        "onboard_time": 1762301479,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353211,
+        "num": 353211,
+        "word": "KK园区电诈人员已开始再就业",
+        "onboard_time": 1762305680,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257759,
+        "num": 257759,
+        "word": "你好星期六配置",
+        "onboard_time": 1762299018,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240411,
+        "num": 240411,
+        "word": "赵丽颖新剧一种气血很足的美",
+        "onboard_time": 1762268360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198075,
+        "num": 198075,
+        "word": "美国一机场发生飞机坠毁事故",
+        "onboard_time": 1762300280,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169005,
+        "num": 169005,
+        "word": "惊天魔盗团3官宣黄子弘凡新身份",
+        "onboard_time": 1762301421,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164352,
+        "num": 164352,
+        "word": "跳绳是减重排行榜第一名的运动",
+        "onboard_time": 1762298238,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 726074,
+        "num": 164212,
+        "word": "吴镇宇刷老年卡被质疑",
+        "onboard_time": 1762299499,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449456,
+        "num": 163236,
+        "word": "赵樱子晒因为爱情有多美聚会vlog",
+        "onboard_time": 1762303941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414096,
+        "num": 162785,
+        "word": "张凌赫出道前的理想是去国家电网",
+        "onboard_time": 1762302621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291464,
+        "num": 161985,
+        "word": "刘思涵你的校服在非洲火了",
+        "onboard_time": 1762305680,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254664,
+        "num": 160956,
+        "word": "妈妈检查女儿书包发现诡异恐怖画",
+        "onboard_time": 1762263621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221237,
+        "num": 160196,
+        "word": "白百何 王传君",
+        "onboard_time": 1762241541,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272391,
+        "num": 159663,
+        "word": "赵樱子想让陈晓掀头纱",
+        "onboard_time": 1762298118,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58140,
+        "num": 158313,
+        "word": "美国一货机坠毁致3死11伤",
+        "onboard_time": 1762307600,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179033,
+        "num": 157683,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176151,
+        "num": 157151,
+        "word": "李一桐戏份",
+        "onboard_time": 1762300760,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183701,
+        "num": 156188,
+        "word": "原来有酒窝的人脸部肌肉天生独特",
+        "onboard_time": 1762306099,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155986,
+        "num": 155986,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1762308260,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151837,
+        "num": 151837,
+        "word": "原来肖战19年就有晋江式演技了",
+        "onboard_time": 1762268662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144166,
+        "num": 144166,
+        "word": "折叠屏iPhone明年亮相",
+        "onboard_time": 1762300760,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 142574,
+        "word": "玉簟秋诚不欺我",
+        "onboard_time": 1762308140,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "金银暴涨意味着全球滞胀吗",
+        "onboard_time": 1762307121,
+        "rank": 25,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 125403,
+        "num": 125403,
+        "word": "KK园区已被严重破坏",
+        "onboard_time": 1762298059,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112266,
+        "num": 112266,
+        "word": "神20返回任务推迟",
+        "onboard_time": 1762308681,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79977,
+        "num": 111047,
+        "word": "屠颖已在广州火化",
+        "onboard_time": 1762304780,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78886,
+        "num": 109951,
+        "word": "被卢昱晓折月亮路透美到了",
+        "onboard_time": 1762302261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112459,
+        "num": 109946,
+        "word": "苹果有苹果的办法",
+        "onboard_time": 1762306040,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 109867,
+        "num": 109867,
+        "word": "杨瀚森翻译刘禹铖进入开拓者教练组",
+        "onboard_time": 1762304721,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109295,
+        "num": 109295,
+        "word": "UPS坠毁货机上有28万加仑燃油",
+        "onboard_time": 1762308920,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "发明固体杨枝甘露的人是天才吧",
+        "onboard_time": 1762308979,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97810,
+        "num": 97810,
+        "word": "爸爸叫宝宝不要吓到猫猫",
+        "onboard_time": 1762303761,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 93972,
+        "word": "丁禹兮从粉丝里捞工作人员",
+        "onboard_time": 1762308620,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91507,
+        "num": 91507,
+        "word": "内蒙古出现巨型大地之树",
+        "onboard_time": 1762309100,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90647,
+        "num": 90647,
+        "word": "上海一老人疑地域歧视打扰顾客用餐",
+        "onboard_time": 1762307719,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90144,
+        "num": 90144,
+        "word": "武汉街头出现一架大飞机",
+        "onboard_time": 1762299199,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89125,
+        "num": 89125,
+        "word": "成都英雄联盟总决赛观赛氛围拉满",
+        "onboard_time": 1762308979,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88760,
+        "num": 88760,
+        "word": "专家称前借后挪调休非最优方案",
+        "onboard_time": 1762308140,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88109,
+        "num": 88109,
+        "word": "其实过得幸福花不了太多钱",
+        "onboard_time": 1762307480,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87770,
+        "num": 87770,
+        "word": "JackeyLove谈明年规划",
+        "onboard_time": 1762306099,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87424,
+        "num": 87424,
+        "word": "孟子义拍完尚公主将无缝进组",
+        "onboard_time": 1762298421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80111,
+        "num": 87041,
+        "word": "水库放生猫动机为祈福非违法犯罪",
+        "onboard_time": 1762307781,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86912,
+        "num": 86912,
+        "word": "究竟谁在说运动使人年轻啊",
+        "onboard_time": 1762307121,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85144,
+        "num": 85144,
+        "word": "多名韩国男性在菲律宾非婚生子失联",
+        "onboard_time": 1762269681,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42842,
+        "num": 83560,
+        "word": "2025最大超级月亮今晚登场",
+        "onboard_time": 1762306880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83140,
+        "num": 83140,
+        "word": "甲流H3N2症状比普通感冒更重",
+        "onboard_time": 1762268721,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83016,
+        "num": 83016,
+        "word": "小猫枕着小猫睡",
+        "onboard_time": 1762305979,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#100秒回顾习近平韩国之行#"
+    }
+  }
+}
