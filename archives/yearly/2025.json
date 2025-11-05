@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1762335050157,
+  "endTime": 1762335879070,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2187,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6617734,
+      "num": 6617734,
+      "word": "王传君东京电影节影帝",
+      "onboard_time": 1762332922,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 6585357,
       "num": 6585357,
       "word": "林高远父亲去世",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1757383400,
       "rank": 0,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 5725859,
-      "num": 5725859,
-      "word": "王传君东京电影节影帝",
-      "onboard_time": 1762332922,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 5694074,
