@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762381534769,
+  "endTime": 1762382546384,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203190,
+      "num": 75756,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185823,
       "num": 185823,
       "word": "男子与堂哥合谋撞死7岁儿子骗保",
@@ -97,14 +105,6 @@
       "onboard_time": 1762352301,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143057,
-      "num": 75756,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 139281,
@@ -363,6 +363,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 42593,
+      "num": 78197,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42515,
       "num": 165157,
       "word": "金店关门潮蔓延",
@@ -443,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32693,
-      "num": 78197,
-      "word": "iPhone闹钟被低估的仪式感",
-      "onboard_time": 1762370714,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 30632,
-      "num": 30632,
+      "num": 37081,
       "word": "宋雨琦ins晒跑男合照",
       "onboard_time": 1762366155,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30526,
+      "num": 38930,
+      "word": "美国政府停摆时长破历史纪录",
+      "onboard_time": 1762379594,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29499,
@@ -491,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21941,
-      "num": 28921,
-      "word": "美国政府停摆时长破历史纪录",
-      "onboard_time": 1762379594,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 22977,
+      "num": 37184,
+      "word": "原相机下的周冬雨马思纯",
+      "onboard_time": 1762378514,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 20177,
@@ -507,8 +515,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18384,
+      "num": 37121,
+      "word": "校方回应大二女生校内溺亡",
+      "onboard_time": 1762374373,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17898,
-      "num": 30983,
+      "num": 37095,
       "word": "樊振东王楚钦马龙有望小组对决",
       "onboard_time": 1762375213,
       "rank": 39,
@@ -516,27 +532,19 @@
     },
     {
       "raw_hot": 17302,
-      "num": 28885,
+      "num": 37059,
       "word": "纳指跌1.59%",
       "onboard_time": 1762381155,
       "rank": 39,
       "category": "财经"
     },
     {
-      "raw_hot": 17283,
-      "num": 28881,
-      "word": "原相机下的周冬雨马思纯",
-      "onboard_time": 1762378514,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16372,
-      "num": 30995,
-      "word": "校方回应大二女生校内溺亡",
-      "onboard_time": 1762374373,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 15833,
+      "num": 37075,
+      "word": "王一博为火炬传递广州站打call",
+      "onboard_time": 1762376714,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 15670,
@@ -561,14 +569,6 @@
       "onboard_time": 1762363875,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14002,
-      "num": 30918,
-      "word": "王一博为火炬传递广州站打call",
-      "onboard_time": 1762376714,
-      "rank": 48,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 13604,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/06 06:25:34
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/06 06:42:26
 </p>
 </blockquote>
 <p>
@@ -3363,6 +3363,12 @@ Ruler回应败给KT（热度：203278）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23" target="weibo">
+王传君获奖表情（热度：203190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%B0%86%E6%B4%BE%E8%87%B3%E5%8F%91%E5%B1%95%E8%81%94%E7%9B%9F%E8%BF%9B%E8%A1%8C%E8%AE%AD%E7%BB%83%23" target="weibo">
 杨瀚森将派至发展联盟进行训练（热度：202534）
 </a>
@@ -5393,12 +5399,6 @@ TES落入绝境（热度：144450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E5%8D%81%E5%91%A8%E5%B9%B4%E9%97%AA%E8%80%80%E5%A4%A7%E8%B5%8F%23" target="weibo">
 大侦探十周年闪耀大赏（热度：143295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23" target="weibo">
-王传君获奖表情（热度：143057）
 </a>
 </li>
 
