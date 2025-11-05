@@ -1,0 +1,410 @@
+{
+  "runTime": 1762356464118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609560,
+        "num": 1097529,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509180,
+        "num": 509180,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13697,
+        "num": 502644,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164083,
+        "num": 485346,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100698,
+        "num": 476144,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200134,
+        "num": 467542,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148034,
+        "num": 453626,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 86433,
+        "num": 429732,
+        "word": "北京 大雾",
+        "onboard_time": 1762352362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73882,
+        "num": 415812,
+        "word": "苹果回应iPhone面容解锁不用摄像头",
+        "onboard_time": 1762337962,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72208,
+        "num": 409532,
+        "word": "超级月亮高清大图来了",
+        "onboard_time": 1762352722,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1583067,
+        "num": 393336,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 593129,
+        "num": 384753,
+        "word": "苗圃 至今内娱无代餐",
+        "onboard_time": 1762353024,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371686,
+        "num": 371686,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341096,
+        "num": 341096,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237201,
+        "num": 237201,
+        "word": "蒋欣哭了",
+        "onboard_time": 1762340661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163232,
+        "num": 228188,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449886,
+        "num": 216891,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196253,
+        "num": 196253,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95058,
+        "num": 168892,
+        "word": "金店关门潮蔓延",
+        "onboard_time": 1762355541,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 473224,
+        "num": 168692,
+        "word": "被朋友的公积金余额震惊到了",
+        "onboard_time": 1762350202,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167070,
+        "num": 167070,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142958,
+        "num": 142958,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141292,
+        "num": 141292,
+        "word": "丈夫病亡后妻子两天后不幸离世",
+        "onboard_time": 1762355061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 139703,
+        "word": "王传君工作室回应获奖",
+        "onboard_time": 1762355721,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124274,
+        "num": 124274,
+        "word": "温峥嵘 AI盗播",
+        "onboard_time": 1762350141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 123054,
+        "word": "八仙子团播",
+        "onboard_time": 1762350562,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117284,
+        "num": 117284,
+        "word": "潘玮柏蒋梦婕 秀完你的秀我的",
+        "onboard_time": 1762352900,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116387,
+        "num": 116387,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72879,
+        "num": 114794,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 29,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 113536,
+        "num": 113536,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107455,
+        "num": 107455,
+        "word": "江苏电网回应张凌赫",
+        "onboard_time": 1762354820,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103400,
+        "num": 103400,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102094,
+        "num": 102094,
+        "word": "陈靖可今晚做梦都会笑醒吧",
+        "onboard_time": 1762353381,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93652,
+        "num": 99144,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246463,
+        "num": 98577,
+        "word": "春节调休凑9天是福利还是负担",
+        "onboard_time": 1762346662,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97523,
+        "num": 97523,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90093,
+        "num": 97515,
+        "word": "符龙飞晒合照",
+        "onboard_time": 1762354762,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89261,
+        "num": 97514,
+        "word": "同年同月同日夫妻生同月同日宝宝",
+        "onboard_time": 1762350801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52332,
+        "num": 97500,
+        "word": "中国台北参与APEC政治前提",
+        "onboard_time": 1762340181,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82027,
+        "num": 97488,
+        "word": "尚雯婕 这个语法忍不了一点",
+        "onboard_time": 1762354522,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76704,
+        "num": 97486,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75861,
+        "num": 97476,
+        "word": "李现新疆vlog",
+        "onboard_time": 1762354402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68375,
+        "num": 97458,
+        "word": "vivoX300拍到了超级月亮",
+        "onboard_time": 1762356261,
+        "rank": 43,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 68005,
+        "num": 97454,
+        "word": "男老师称涉猥亵教学动作是误会",
+        "onboard_time": 1762353502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66193,
+        "num": 97444,
+        "word": "好温柔的王楚钦",
+        "onboard_time": 1762352900,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65091,
+        "num": 97437,
+        "word": "Keria谈S12决赛失利",
+        "onboard_time": 1762355483,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63779,
+        "num": 97429,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47298,
+        "num": 97416,
+        "word": "全红婵带伤备战全运会第二金",
+        "onboard_time": 1762352362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45308,
+        "num": 97404,
+        "word": "乒乓球全国冠军太难拿了",
+        "onboard_time": 1762353563,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网是人类的共同家园#"
+    }
+  }
+}
