@@ -1,0 +1,410 @@
+{
+  "runTime": 1762347274261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928669,
+        "num": 1148587,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 584086,
+        "num": 584086,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2909,
+        "num": 325086,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197646,
+        "num": 197646,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 181199,
+        "word": "暗河传登顶",
+        "onboard_time": 1762341800,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135089,
+        "num": 181038,
+        "word": "户晨风多平台账号被封禁",
+        "onboard_time": 1762335623,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167160,
+        "num": 180968,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125845,
+        "num": 180729,
+        "word": "苹果回应iPhone面容解锁不用摄像头",
+        "onboard_time": 1762337962,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 180553,
+        "word": "杨瀚森方回应宵夜争议",
+        "onboard_time": 1762340063,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85432,
+        "num": 180521,
+        "word": "厄敌的钻石",
+        "onboard_time": 1762345161,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1864097,
+        "num": 180322,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 572998,
+        "num": 180045,
+        "word": "蒋欣哭了",
+        "onboard_time": 1762340661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537026,
+        "num": 180013,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440790,
+        "num": 179739,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384284,
+        "num": 179635,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381435,
+        "num": 179475,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281292,
+        "num": 179223,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65485,
+        "num": 179096,
+        "word": "中国台北参与APEC政治前提",
+        "onboard_time": 1762340181,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50254,
+        "num": 178956,
+        "word": "男子听信AI把自己吃成溴中毒",
+        "onboard_time": 1762346721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76250,
+        "num": 178804,
+        "word": "平替很好但我选奔驰",
+        "onboard_time": 1762344321,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 843280,
+        "num": 178700,
+        "word": "王传君感谢白百何",
+        "onboard_time": 1762335923,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210042,
+        "num": 178547,
+        "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
+        "onboard_time": 1762340601,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208870,
+        "num": 178249,
+        "word": "杨紫直播",
+        "onboard_time": 1762346602,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188832,
+        "num": 178215,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111173,
+        "num": 177949,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177897,
+        "num": 177897,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 168604,
+        "word": "陈靖可你小子吃这么好",
+        "onboard_time": 1762345581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142641,
+        "num": 142641,
+        "word": "TF家族都有六代了",
+        "onboard_time": 1762338621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98014,
+        "num": 141826,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51860,
+        "num": 141333,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762346482,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 141080,
+        "word": "马国明紧急撤回一份盒饭",
+        "onboard_time": 1762345821,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139624,
+        "num": 139624,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131015,
+        "num": 131015,
+        "word": "糖化脸和吃糖是什么关系",
+        "onboard_time": 1762326980,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49455,
+        "num": 130422,
+        "word": "超级月亮美图来了",
+        "onboard_time": 1762345342,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129966,
+        "num": 129966,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129625,
+        "num": 129625,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71988,
+        "num": 128630,
+        "word": "水贝黄金零售价一天内大涨",
+        "onboard_time": 1762347141,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13297,
+        "num": 124884,
+        "word": "龚宇称AI打破了影视创作边界",
+        "onboard_time": 1762342461,
+        "rank": 37,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 60170,
+        "num": 123730,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17726,
+        "num": 122176,
+        "word": "32个假男友骗离婚女买房涉案千万",
+        "onboard_time": 1762345941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120079,
+        "num": 120079,
+        "word": "中国海军5对4围观四国舰队演习",
+        "onboard_time": 1762345521,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117849,
+        "num": 117849,
+        "word": "生产日期为什么不直接写",
+        "onboard_time": 1762341741,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108122,
+        "num": 108122,
+        "word": "乌军突袭库尔斯克州近2000人伤亡",
+        "onboard_time": 1762344501,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103498,
+        "num": 103498,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100900,
+        "num": 100900,
+        "word": "专家回应近期康熙身世假说",
+        "onboard_time": 1762344441,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 97238,
+        "num": 97238,
+        "word": "杨幂连包10场支持辛芷蕾新片",
+        "onboard_time": 1762341081,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94718,
+        "num": 94718,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90812,
+        "num": 90812,
+        "word": "知情人回应老太太抱鸭痛哭",
+        "onboard_time": 1762346841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62306,
+        "num": 90689,
+        "word": "春节调休凑9天是福利还是负担",
+        "onboard_time": 1762346662,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90587,
+        "num": 90587,
+        "word": "欧阳妮妮我也是第一次当妈妈",
+        "onboard_time": 1762347201,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网是人类的共同家园#"
+    }
+  }
+}
