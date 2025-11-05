@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762335879070,
+  "endTime": 1762338628266,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -217,6 +217,14 @@
       "onboard_time": 1762251381,
       "rank": 15,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1112743,
+      "num": 213585,
+      "word": "王传君感谢白百何",
+      "onboard_time": 1762335923,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1087235,
@@ -1227,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483153,
+      "num": 334385,
+      "word": "台媒曝欧弟将移民日本",
+      "onboard_time": 1762332620,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480816,
       "num": 183433,
       "word": "孙颖莎生日发博",
@@ -1267,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 469683,
-      "num": 334385,
-      "word": "台媒曝欧弟将移民日本",
-      "onboard_time": 1762332620,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468652,
       "num": 468652,
       "word": "清瞳人设",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1762258462,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 457480,
+      "num": 457480,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 455164,
@@ -1891,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352199,
-      "num": 352199,
-      "word": "糖化脸和吃糖是什么关系",
-      "onboard_time": 1762326980,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 351079,
       "num": 351079,
       "word": "全红婵发文说我真棒",
@@ -2067,11 +2075,27 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 331922,
+      "num": 335741,
+      "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+      "onboard_time": 1762315821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329975,
       "num": 195373,
       "word": "女子名叫丽春多次申请改名被拒",
       "onboard_time": 1762318461,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326295,
+      "num": 252281,
+      "word": "郑州19岁大二女生校内溺亡",
+      "onboard_time": 1762334721,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2651,14 +2675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252281,
-      "num": 252281,
-      "word": "郑州19岁大二女生校内溺亡",
-      "onboard_time": 1762334721,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251670,
       "num": 205799,
       "word": "迪丽热巴用腿刹车",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1762157902,
       "rank": 22,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 336563,
+      "word": "剑来",
+      "onboard_time": 1762334541,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 245587,
@@ -2739,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239344,
+      "num": 258397,
+      "word": "将门毒后选角101",
+      "onboard_time": 1762334902,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238280,
       "num": 238280,
       "word": "水龙吟暗河传豆瓣开分",
@@ -2769,14 +2801,6 @@
       "onboard_time": 1762298238,
       "rank": 3,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 235258,
-      "num": 336563,
-      "word": "剑来",
-      "onboard_time": 1762334541,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 234746,
@@ -3067,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "户晨风多平台账号被封禁",
+      "onboard_time": 1762335623,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213786,
       "num": 197597,
       "word": "张博恒解说T1对战TES",
@@ -3235,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205561,
+      "num": 190961,
+      "word": "王格格 张凌赫是我见过最帅的男人",
+      "onboard_time": 1762336102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205529,
       "num": 200240,
       "word": "酷酷的滕直播",
@@ -3315,6 +3355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201636,
+      "num": 189175,
+      "word": "月亮",
+      "onboard_time": 1762335801,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201607,
       "num": 189903,
       "word": "许绍雄生忌女儿发文",
@@ -3392,6 +3440,14 @@
       "word": "14岁男孩获刑13年震慑未成年人犯罪",
       "onboard_time": 1761992661,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199467,
+      "num": 199467,
+      "word": "超级月亮",
+      "onboard_time": 1762336463,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -3627,14 +3683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190091,
-      "num": 190091,
-      "word": "户晨风多平台账号被封禁",
-      "onboard_time": 1762335623,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -3729,14 +3777,6 @@
       "onboard_time": 1762146681,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 185738,
-      "num": 185738,
-      "word": "月亮",
-      "onboard_time": 1762335801,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185510,
@@ -4443,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "AL世界赛行程表曝光",
+      "onboard_time": 1762337422,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162523,
       "num": 154749,
       "word": "王橹杰 今年是更成熟的小鬼",
@@ -4483,6 +4531,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 162071,
+      "num": 191829,
+      "word": "春树",
+      "onboard_time": 1762337482,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161952,
       "num": 161952,
       "word": "许魏洲极限救车后手一直在抖",
@@ -4505,6 +4561,14 @@
       "onboard_time": 1762143742,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "东京电影节影后双黄蛋",
+      "onboard_time": 1762336343,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 161028,
@@ -4545,14 +4609,6 @@
       "onboard_time": 1762093043,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159309,
-      "num": 335741,
-      "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
-      "onboard_time": 1762315821,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158981,
@@ -4977,14 +5033,6 @@
       "onboard_time": 1762150702,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148585,
-      "num": 258397,
-      "word": "将门毒后选角101",
-      "onboard_time": 1762334902,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 148411,
@@ -5467,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "为什么家里妈妈做饭后厨却少有女性",
+      "onboard_time": 1762335801,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138373,
       "num": 138373,
       "word": "咖啡店员小票写满红字回怼顾客要求",
@@ -5787,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132237,
+      "num": 132237,
+      "word": "日本地下偶像因饮料上人的倒影退团",
+      "onboard_time": 1762335801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132233,
       "num": 132233,
       "word": "蒋欣关晓彤 妈妈带着你",
@@ -5817,6 +5881,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131838,
+      "num": 198169,
+      "word": "土帅是否更适合国足",
+      "onboard_time": 1762338501,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 131801,
@@ -6121,6 +6193,14 @@
       "onboard_time": 1762222521,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127444,
+      "num": 127444,
+      "word": "新人结婚遭拦车要50条烟",
+      "onboard_time": 1762336943,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127351,
@@ -6561,14 +6641,6 @@
       "onboard_time": 1762081160,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120039,
-      "num": 120039,
-      "word": "日本地下偶像因饮料上人的倒影退团",
-      "onboard_time": 1762335801,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 119854,
@@ -7219,6 +7291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111836,
+      "num": 111836,
+      "word": "Shadow删博道歉",
+      "onboard_time": 1762337602,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111813,
       "num": 111813,
       "word": "肖战入选2025年亚太行业先锋领袖榜单",
@@ -7819,6 +7899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105218,
+      "num": 99726,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1762336881,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105161,
       "num": 105160,
       "word": "讨厌别人喜欢自己喜欢了很久的东西",
@@ -8017,6 +8105,14 @@
       "onboard_time": 1762319540,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103516,
+      "num": 194911,
+      "word": "苹果回应iPhone面容解锁不用摄像头",
+      "onboard_time": 1762337962,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 103445,
@@ -8361,6 +8457,14 @@
       "onboard_time": 1762040958,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "刘强东外卖留言板成网友花活区",
+      "onboard_time": 1762338442,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 100579,
@@ -8777,6 +8881,14 @@
       "onboard_time": 1762261102,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97626,
+      "num": 97626,
+      "word": "晚上八点放学的幼儿园",
+      "onboard_time": 1762337662,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 97563,
@@ -10171,6 +10283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86332,
+      "num": 86332,
+      "word": "庄达菲敷着面膜吃东西",
+      "onboard_time": 1762338442,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86288,
       "num": 86288,
       "word": "马斯克万亿美元薪酬方案下周表决",
@@ -10593,6 +10713,14 @@
       "onboard_time": 1762248982,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82805,
+      "num": 82805,
+      "word": "记者向杨瀚森翻译道歉",
+      "onboard_time": 1762337602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82711,
@@ -11379,6 +11507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72510,
+      "num": 99909,
+      "word": "业主说小区房价下跌后被造黄谣",
+      "onboard_time": 1762337362,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72381,
       "num": 109465,
       "word": "短剧演员贴脸给内娱一些震撼",
@@ -11473,14 +11609,6 @@
       "onboard_time": 1762324281,
       "rank": 29,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 70303,
-      "num": 121026,
-      "word": "为什么家里妈妈做饭后厨却少有女性",
-      "onboard_time": 1762335801,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 70193,
@@ -11601,6 +11729,14 @@
       "onboard_time": 1762055720,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67589,
+      "num": 193000,
+      "word": "国足回应邵佳一出任主帅",
+      "onboard_time": 1762336824,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 67567,
@@ -12192,6 +12328,14 @@
       "word": "商家回应26元上门开锁最终收费1300",
       "onboard_time": 1762212558,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52778,
+      "num": 138484,
+      "word": "后排乘客不系安全带属违法",
+      "onboard_time": 1762337302,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

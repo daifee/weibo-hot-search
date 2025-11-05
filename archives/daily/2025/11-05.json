@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762335879070,
+  "endTime": 1762338628266,
   "band_list": [
     {
       "raw_hot": 6617734,
@@ -57,6 +57,14 @@
       "onboard_time": 1762306099,
       "rank": 0,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1112743,
+      "num": 213585,
+      "word": "王传君感谢白百何",
+      "onboard_time": 1762335923,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1069598,
@@ -227,7 +235,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 469683,
+      "raw_hot": 483153,
       "num": 334385,
       "word": "台媒曝欧弟将移民日本",
       "onboard_time": 1762332620,
@@ -241,6 +249,14 @@
       "onboard_time": 1762268360,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457480,
+      "num": 457480,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 449456,
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352199,
-      "num": 352199,
-      "word": "糖化脸和吃糖是什么关系",
-      "onboard_time": 1762326980,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 350434,
       "num": 350434,
       "word": "刘亦菲入选亚太最具影响力青年女性",
@@ -443,6 +451,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 331922,
+      "num": 335741,
+      "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+      "onboard_time": 1762315821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329975,
       "num": 195373,
       "word": "女子名叫丽春多次申请改名被拒",
@@ -457,6 +473,14 @@
       "onboard_time": 1762268662,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326295,
+      "num": 252281,
+      "word": "郑州19岁大二女生校内溺亡",
+      "onboard_time": 1762334721,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303203,
@@ -523,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252281,
-      "num": 252281,
-      "word": "郑州19岁大二女生校内溺亡",
-      "onboard_time": 1762334721,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 246627,
+      "num": 336563,
+      "word": "剑来",
+      "onboard_time": 1762334541,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239344,
+      "num": 258397,
+      "word": "将门毒后选角101",
+      "onboard_time": 1762334902,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 236413,
@@ -537,14 +569,6 @@
       "onboard_time": 1762298238,
       "rank": 3,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 235258,
-      "num": 336563,
-      "word": "剑来",
-      "onboard_time": 1762334541,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 231537,
@@ -643,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "户晨风多平台账号被封禁",
+      "onboard_time": 1762335623,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213573,
       "num": 115172,
       "word": "网传快乐家族回归好六",
@@ -665,6 +697,14 @@
       "onboard_time": 1762330881,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 205561,
+      "num": 190961,
+      "word": "王格格 张凌赫是我见过最帅的男人",
+      "onboard_time": 1762336102,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 205529,
@@ -691,12 +731,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201636,
+      "num": 189175,
+      "word": "月亮",
+      "onboard_time": 1762335801,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201497,
       "num": 114704,
       "word": "35岁后的就业方向",
       "onboard_time": 1762267162,
       "rank": 16,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 199467,
+      "num": 199467,
+      "word": "超级月亮",
+      "onboard_time": 1762336463,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199293,
@@ -787,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190091,
-      "num": 190091,
-      "word": "户晨风多平台账号被封禁",
-      "onboard_time": 1762335623,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -825,14 +873,6 @@
       "onboard_time": 1762307241,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 185738,
-      "num": 185738,
-      "word": "月亮",
-      "onboard_time": 1762335801,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185465,
@@ -987,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "AL世界赛行程表曝光",
+      "onboard_time": 1762337422,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162304,
       "num": 183590,
       "word": "倪萍说出了多少男人在家庭中的真实状态",
@@ -995,20 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162071,
+      "num": 191829,
+      "word": "春树",
+      "onboard_time": 1762337482,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 161320,
+      "num": 161320,
+      "word": "东京电影节影后双黄蛋",
+      "onboard_time": 1762336343,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160048,
       "num": 160048,
       "word": "戚薇大侦探演唱会路透",
       "onboard_time": 1762320380,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159309,
-      "num": 335741,
-      "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
-      "onboard_time": 1762315821,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156729,
@@ -1088,14 +1144,6 @@
       "word": "谁家短剧男主60多岁",
       "onboard_time": 1762335023,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148585,
-      "num": 258397,
-      "word": "将门毒后选角101",
-      "onboard_time": 1762334902,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1251,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "为什么家里妈妈做饭后厨却少有女性",
+      "onboard_time": 1762335801,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138056,
       "num": 138056,
       "word": "75岁刘晓庆喊同龄影迷姥姥",
@@ -1289,6 +1345,22 @@
       "onboard_time": 1762329981,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 132237,
+      "num": 132237,
+      "word": "日本地下偶像因饮料上人的倒影退团",
+      "onboard_time": 1762335801,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131838,
+      "num": 198169,
+      "word": "土帅是否更适合国足",
+      "onboard_time": 1762338501,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 131564,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1762268721,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127444,
+      "num": 127444,
+      "word": "新人结婚遭拦车要50条烟",
+      "onboard_time": 1762336943,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127116,
@@ -1417,14 +1497,6 @@
       "onboard_time": 1762259600,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120039,
-      "num": 120039,
-      "word": "日本地下偶像因饮料上人的倒影退团",
-      "onboard_time": 1762335801,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 118988,
@@ -1523,6 +1595,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 111836,
+      "num": 111836,
+      "word": "Shadow删博道歉",
+      "onboard_time": 1762337602,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111321,
       "num": 136352,
       "word": "嫁金钗",
@@ -1611,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105218,
+      "num": 99726,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1762336881,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105161,
       "num": 105160,
       "word": "讨厌别人喜欢自己喜欢了很久的东西",
@@ -1667,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103516,
+      "num": 194911,
+      "word": "苹果回应iPhone面容解锁不用摄像头",
+      "onboard_time": 1762337962,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103159,
       "num": 103159,
       "word": "Hang谈LPL与LCK风格差异",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1762320982,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100586,
+      "num": 100586,
+      "word": "刘强东外卖留言板成网友花活区",
+      "onboard_time": 1762338442,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 100304,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1762303761,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 97626,
+      "num": 97626,
+      "word": "晚上八点放学的幼儿园",
+      "onboard_time": 1762337662,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 97287,
@@ -2139,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86332,
+      "num": 86332,
+      "word": "庄达菲敷着面膜吃东西",
+      "onboard_time": 1762338442,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86228,
       "num": 86228,
       "word": "孙颖莎好鲜活",
@@ -2201,6 +2321,14 @@
       "onboard_time": 1762272020,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82805,
+      "num": 82805,
+      "word": "记者向杨瀚森翻译道歉",
+      "onboard_time": 1762337602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82604,
@@ -2323,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72510,
+      "num": 99909,
+      "word": "业主说小区房价下跌后被造黄谣",
+      "onboard_time": 1762337362,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72018,
       "num": 67602,
       "word": "读研年龄一定不要超过28岁",
@@ -2347,14 +2483,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 70303,
-      "num": 121026,
-      "word": "为什么家里妈妈做饭后厨却少有女性",
-      "onboard_time": 1762335801,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70001,
       "num": 81892,
       "word": "孙颖莎所有幸福都稳稳接住",
@@ -2377,6 +2505,14 @@
       "onboard_time": 1762299440,
       "rank": 33,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 67589,
+      "num": 193000,
+      "word": "国足回应邵佳一出任主帅",
+      "onboard_time": 1762336824,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 67290,
@@ -2512,6 +2648,14 @@
       "word": "大学生回乡参加朋友婚礼意外坠坝身亡",
       "onboard_time": 1762260022,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52778,
+      "num": 138484,
+      "word": "后排乘客不系安全带属违法",
+      "onboard_time": 1762337302,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
