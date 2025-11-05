@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/05 16:36:23
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/05 16:50:01
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E7%99%BD%E7%99%BE%E4%BD%95%23" target="weibo">
+王传君 白百何（热度：862755）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%8A%82%E5%81%87%E6%97%A5%E5%AE%89%E6%8E%92%23" target="weibo">
 2026年节假日安排（热度：859960）
 </a>
@@ -687,6 +693,12 @@ TES醒一醒（热度：690746）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
+iPhone面容解锁不需要摄像头（热度：640462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E6%96%B9%E7%82%B9%E8%B5%9E%E5%90%8E%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8A%A0%E9%80%81200%E7%9B%92%E7%9A%87%E5%8D%97%E9%A5%BC%23" target="weibo">
 被中方点赞后李在明加送200盒皇南饼（热度：640302）
 </a>
@@ -809,12 +821,6 @@ TES醒一醒（热度：690746）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%86%E6%94%B9%E5%8C%96%E5%A6%86%E5%B8%88%E5%85%94%E5%AD%90%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
 爆改化妆师兔子怀孕了（热度：595176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
-iPhone面容解锁不需要摄像头（热度：593536）
 </a>
 </li>
 
@@ -1413,8 +1419,8 @@ KK园区电诈人员已开始再就业（热度：422885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%20%E7%99%BD%E7%99%BE%E4%BD%95%23" target="weibo">
-王传君 白百何（热度：408864）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD160%E4%B8%87%E5%85%83%E5%87%B6%E5%AE%8526.6%E4%B8%87%E6%8B%8D%E5%8D%96%23" target="weibo">
+成都160万元凶宅26.6万拍卖（热度：408854）
 </a>
 </li>
 
@@ -1541,12 +1547,6 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E8%8B%B1%E8%AF%AD%E4%B8%BB%E6%8C%81%23" target="weibo">
 朱珠英语主持（热度：383454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD160%E4%B8%87%E5%85%83%E5%87%B6%E5%AE%8526.6%E4%B8%87%E6%8B%8D%E5%8D%96%23" target="weibo">
-成都160万元凶宅26.6万拍卖（热度：382878）
 </a>
 </li>
 
@@ -1929,6 +1929,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%8C%96%E8%84%B8%E5%92%8C%E5%90%83%E7%B3%96%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%23" target="weibo">
+糖化脸和吃糖是什么关系（热度：312674）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%E4%B8%8D%E6%95%8CT1%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
 TES不敌T1后发文（热度：310623）
 </a>
@@ -2301,6 +2307,12 @@ T1战胜AL（热度：279371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%23" target="weibo">
+东京电影节（热度：268896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%88%98%E5%98%89%E7%8E%B2%E7%8E%8B%E8%8F%B2%E9%82%A3%E8%8B%B1%E6%98%AF%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
 怪不得刘嘉玲王菲那英是好朋友（热度：267147）
 </a>
@@ -2435,12 +2447,6 @@ Chovy世界赛成绩 8884844（热度：254697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%83%A4%E9%B8%A1%E7%BF%85%23" target="weibo">
 中国航天员太空烤鸡翅（热度：253021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%8C%96%E8%84%B8%E5%92%8C%E5%90%83%E7%B3%96%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%23" target="weibo">
-糖化脸和吃糖是什么关系（热度：252868）
 </a>
 </li>
 
@@ -3201,12 +3207,6 @@ Gumayusi回应淘汰AL（热度：201128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%23" target="weibo">
-东京电影节（热度：199184）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%BB%99%E6%88%91%E5%B9%B2%E5%93%AA%E5%B9%B4%E6%9D%A5%E4%BA%86%23" target="weibo">
 杨丞琳给我干哪年来了（热度：198992）
 </a>
@@ -3657,6 +3657,12 @@ B站拉黑指定用户 屏蔽开屏广告（热度：180219）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%80%81%E5%BC%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
+当你的朋友是老式大学生（热度：179736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%90%91%E4%B8%AD%E6%96%B9%E9%A2%9D%E5%A4%96%E8%B5%A0%E9%80%81200%E7%9B%92%E7%9A%87%E5%8D%97%E9%A5%BC%23" target="weibo">
 韩总统向中方额外赠送200盒皇南饼（热度：179563）
 </a>
@@ -3813,12 +3819,6 @@ AL爱笑谈队员续约（热度：173578）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%80%81%E5%BC%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-当你的朋友是老式大学生（热度：173415）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%97%A5%E6%8E%9B%E4%B8%AD%E5%A4%A9%23" target="weibo">
 电影日掛中天（热度：172932）
 </a>
@@ -3923,6 +3923,12 @@ AL爱笑谈队员续约（热度：173578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%83%E5%A4%96%E9%97%B4%E8%B0%8D%E5%80%9F%E5%85%BC%E8%81%8C%E6%8B%89%E6%8B%A2%E5%AD%A6%E7%94%9F%E6%94%B6%E9%9B%86%E6%95%8F%E6%84%9F%E6%95%B0%E6%8D%AE%23" target="weibo">
 境外间谍借兼职拉拢学生收集敏感数据（热度：169536）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8B%E9%83%A8%E5%89%A7%E8%BF%9B%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23" target="weibo">
+肖战下部剧进十日终焉（热度：169281）
 </a>
 </li>
 
@@ -4379,12 +4385,6 @@ Wayward谈Kanavi琪亚娜（热度：158497）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%9C%E8%90%A7%E9%80%B8%E7%88%B1%E6%AC%B2%E9%A9%AF%E5%85%BB%23" target="weibo">
 光夜萧逸爱欲驯养（热度：157172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8B%E9%83%A8%E5%89%A7%E8%BF%9B%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23" target="weibo">
-肖战下部剧进十日终焉（热度：157129）
 </a>
 </li>
 
@@ -6003,14 +6003,14 @@ T1胜后全员大合照（热度：126481）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E7%BB%BC%E9%80%89%E6%89%8B%E5%94%B1%E6%AD%8C%E5%81%B7%E5%81%B7%E6%94%BE%E5%8E%9F%E5%A3%B0%23" target="weibo">
-音综选手唱歌偷偷放原声（热度：124800）
+<a href="https://s.weibo.com/weibo?q=%23Shadow%E5%AE%98%E5%AE%A3Delight%E7%BB%AD%E7%BA%A6HLE%23" target="weibo">
+Shadow官宣Delight续约HLE（热度：125107）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iOS26.1%E6%AD%A3%E5%BC%8F%E7%89%88%E6%9D%A5%E4%BA%86%23" target="weibo">
-iOS26.1正式版来了（热度：124766）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E7%BB%BC%E9%80%89%E6%89%8B%E5%94%B1%E6%AD%8C%E5%81%B7%E5%81%B7%E6%94%BE%E5%8E%9F%E5%A3%B0%23" target="weibo">
+音综选手唱歌偷偷放原声（热度：124800）
 </a>
 </li>
 
