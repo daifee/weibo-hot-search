@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762374641759,
+  "endTime": 1762375427315,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74294,
+      "num": 30978,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72831,
       "num": 143467,
       "word": "康熙",
       "onboard_time": 1762326140,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 69795,
-      "num": 30978,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 69302,
@@ -523,12 +523,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10173,
+      "raw_hot": 10351,
       "num": 30372,
       "word": "校方回应大二女生校内溺亡",
       "onboard_time": 1762374373,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10190,
+      "num": 17865,
+      "word": "樊振东王楚钦马龙有望小组对决",
+      "onboard_time": 1762375213,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9850,
+      "num": 17849,
+      "word": "美国肯塔基州坠机事故已致9人死亡",
+      "onboard_time": 1762374733,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1836,
