@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762309270587,
+  "endTime": 1762312700434,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -508,11 +508,19 @@
     },
     {
       "raw_hot": 768177,
-      "num": 169967,
+      "num": 269172,
       "word": "吴镇宇刷老年卡被质疑",
       "onboard_time": 1762299499,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 766759,
+      "num": 429883,
+      "word": "墨西哥女总统当街遭男子猥亵",
+      "onboard_time": 1762308260,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 766353,
@@ -995,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566881,
+      "num": 566881,
+      "word": "神20返回任务推迟",
+      "onboard_time": 1762308681,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 565331,
       "num": 256276,
       "word": "著名音乐人屠颖离世",
@@ -1371,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479062,
+      "num": 265386,
+      "word": "金银暴涨意味着全球滞胀吗",
+      "onboard_time": 1762307121,
+      "rank": 36,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 478113,
       "num": 206488,
       "word": "金价",
@@ -1587,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422885,
+      "num": 422885,
+      "word": "KK园区电诈人员已开始再就业",
+      "onboard_time": 1762305680,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 418838,
       "num": 256580,
       "word": "钱天一王昶秀恩爱",
@@ -1628,7 +1660,7 @@
     },
     {
       "raw_hot": 414096,
-      "num": 169371,
+      "num": 247652,
       "word": "张凌赫出道前的理想是去国家电网",
       "onboard_time": 1762302621,
       "rank": 11,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1762170502,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404046,
+      "num": 404046,
+      "word": "常华森天地剑心戏份",
+      "onboard_time": 1762310480,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 403914,
@@ -1820,7 +1860,7 @@
     },
     {
       "raw_hot": 381899,
-      "num": 168701,
+      "num": 178935,
       "word": "赵樱子想让陈晓掀头纱",
       "onboard_time": 1762298118,
       "rank": 17,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1762134680,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374128,
+      "num": 374128,
+      "word": "雀骨",
+      "onboard_time": 1762309699,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 373193,
@@ -2035,14 +2083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353211,
-      "num": 353211,
-      "word": "KK园区电诈人员已开始再就业",
-      "onboard_time": 1762305680,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 351079,
       "num": 351079,
       "word": "全红婵发文说我真棒",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1761953958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327885,
+      "num": 327885,
+      "word": "神二十疑遭碎片撞击",
+      "onboard_time": 1762311260,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 327669,
@@ -2436,7 +2484,7 @@
     },
     {
       "raw_hot": 303203,
-      "num": 167582,
+      "num": 200144,
       "word": "刘思涵你的校服在非洲火了",
       "onboard_time": 1762305680,
       "rank": 16,
@@ -3008,6 +3056,14 @@
       "word": "樊振东的Labubu是D",
       "onboard_time": 1762252882,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245582,
+      "num": 190498,
+      "word": "全红婵并腿的权威性",
+      "onboard_time": 1762311500,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -3755,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201861,
+      "num": 201861,
+      "word": "离了京阿尼谁还把我当小孩",
+      "onboard_time": 1762311680,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201607,
       "num": 189903,
       "word": "许绍雄生忌女儿发文",
@@ -3835,6 +3899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199293,
+      "num": 190249,
+      "word": "原来有酒窝的人脸部肌肉天生独特",
+      "onboard_time": 1762306099,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198669,
       "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
@@ -3873,6 +3945,14 @@
       "onboard_time": 1761961520,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197254,
+      "num": 197254,
+      "word": "龚俊 你俩单独出去开一间吧",
+      "onboard_time": 1762311380,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 197000,
@@ -4067,6 +4147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189447,
+      "num": 189447,
+      "word": "将门毒后女主接触章若楠",
+      "onboard_time": 1762310961,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "彭小苒白开水妆",
@@ -4243,14 +4331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183701,
-      "num": 156188,
-      "word": "原来有酒窝的人脸部肌肉天生独特",
-      "onboard_time": 1762306099,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -4361,14 +4441,6 @@
       "onboard_time": 1762083561,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 179033,
-      "num": 157683,
-      "word": "墨西哥女总统当街遭男子猥亵",
-      "onboard_time": 1762308260,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 178879,
@@ -4768,6 +4840,14 @@
       "word": "藏海传导演感谢肖战",
       "onboard_time": 1762004543,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166847,
+      "num": 166847,
+      "word": "新闻女王2开播",
+      "onboard_time": 1762309699,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5499,6 +5579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151393,
+      "num": 151393,
+      "word": "花少7戒断期要来了",
+      "onboard_time": 1762312040,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151258,
+      "num": 151258,
+      "word": "杨丞琳给我干哪年来了",
+      "onboard_time": 1762311620,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151250,
       "num": 161045,
       "word": "孙乐言首次来offer",
@@ -5881,6 +5977,14 @@
       "onboard_time": 1762081760,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144457,
+      "num": 144457,
+      "word": "小心快递放家门口骗局",
+      "onboard_time": 1762312280,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144450,
@@ -6691,20 +6795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131213,
-      "num": 131213,
-      "word": "金银暴涨意味着全球滞胀吗",
-      "onboard_time": 1762307121,
-      "rank": 36,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 131101,
       "num": 144234,
       "word": "马思纯写给自己的信",
       "onboard_time": 1762239742,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131037,
+      "num": 131037,
+      "word": "纽约3岁华裔男童被撞身亡母亲发声",
+      "onboard_time": 1762309939,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131024,
@@ -7323,6 +7427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "中国皮蛋海外圈粉",
+      "onboard_time": 1762312040,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122854,
       "num": 122854,
       "word": "冬天真不建议你吃太多烤红薯",
@@ -7625,6 +7737,14 @@
       "onboard_time": 1761973400,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118831,
+      "num": 118831,
+      "word": "家长抱婴儿在学校路边值护学岗",
+      "onboard_time": 1762312341,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118784,
@@ -8227,14 +8347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112266,
-      "num": 112266,
-      "word": "神20返回任务推迟",
-      "onboard_time": 1762308681,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 112232,
       "num": 112232,
       "word": "孙颖莎本赛季胜率百分之94",
@@ -8481,6 +8593,14 @@
       "onboard_time": 1762139419,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109311,
+      "num": 109311,
+      "word": "男子醉酒冻死街头同桌6人赔20多万",
+      "onboard_time": 1762308021,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109310,
@@ -8931,12 +9051,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105327,
+      "num": 105327,
+      "word": "雀骨杀青",
+      "onboard_time": 1762311800,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105228,
       "num": 105228,
       "word": "张函瑞popping",
       "onboard_time": 1762263983,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105040,
+      "num": 105040,
+      "word": "11月最适合躺平的星座",
+      "onboard_time": 1762312639,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 104875,
@@ -10371,6 +10507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94178,
+      "num": 94178,
+      "word": "2025电视剧演员中坚力量",
+      "onboard_time": 1762312221,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93972,
       "num": 93972,
       "word": "丁禹兮从粉丝里捞工作人员",
@@ -10393,6 +10537,14 @@
       "onboard_time": 1762180162,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93913,
+      "num": 93913,
+      "word": "内蒙古出现巨型大地之树",
+      "onboard_time": 1762309100,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93861,
@@ -10489,6 +10641,14 @@
       "onboard_time": 1761965121,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93251,
+      "num": 93251,
+      "word": "这才是真正的沪上阿姨",
+      "onboard_time": 1762311140,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 93245,
@@ -10593,6 +10753,14 @@
       "onboard_time": 1762087222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92538,
+      "num": 93946,
+      "word": "日韩股市暴跌来袭",
+      "onboard_time": 1762312461,
+      "rank": 42,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 92509,
@@ -10731,14 +10899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 91507,
-      "num": 91507,
-      "word": "内蒙古出现巨型大地之树",
-      "onboard_time": 1762309100,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -10859,11 +11019,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90461,
+      "num": 90461,
+      "word": "黄金还要继续跌吗",
+      "onboard_time": 1762311920,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90405,
       "num": 90405,
       "word": "中国公民持澳签今起免签入境新西兰",
       "onboard_time": 1762139600,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90368,
+      "num": 190511,
+      "word": "在沙漠看大地星河有多浪漫",
+      "onboard_time": 1762311920,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -10920,6 +11096,14 @@
       "word": "王多多称T1暴露了很多破绽",
       "onboard_time": 1761981379,
       "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89929,
+      "num": 89929,
+      "word": "成都英雄联盟总决赛观赛氛围拉满",
+      "onboard_time": 1762308979,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -11035,14 +11219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89125,
-      "num": 89125,
-      "word": "成都英雄联盟总决赛观赛氛围拉满",
-      "onboard_time": 1762308979,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 89100,
       "num": 89100,
       "word": "全红婵每天冰敷再起跳",
@@ -11065,6 +11241,14 @@
       "onboard_time": 1762158501,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88772,
+      "num": 88772,
+      "word": "国台办新发言人张晗",
+      "onboard_time": 1762309999,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88763,
@@ -11473,6 +11657,14 @@
       "onboard_time": 1762248442,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86228,
+      "num": 86228,
+      "word": "孙颖莎好鲜活",
+      "onboard_time": 1762312461,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86105,
@@ -12641,6 +12833,14 @@
       "onboard_time": 1761999681,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74953,
+      "num": 99714,
+      "word": "刘宇宁是不是连夜背梗了",
+      "onboard_time": 1762312639,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 74951,
@@ -14921,6 +15121,14 @@
       "onboard_time": 1762092380,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26216,
+      "num": 436125,
+      "word": "第七届中阿广电合作论坛",
+      "onboard_time": 1762309761,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26159,
