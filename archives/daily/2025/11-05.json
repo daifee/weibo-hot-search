@@ -1,13 +1,21 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762325539436,
+  "endTime": 1762327605753,
   "band_list": [
     {
       "raw_hot": 1505297,
-      "num": 193196,
+      "num": 204032,
       "word": "请6休17",
       "onboard_time": 1762320862,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1283060,
+      "num": 208055,
+      "word": "抗癌针",
+      "onboard_time": 1762325540,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -27,6 +35,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1069598,
+      "num": 1144333,
+      "word": "王子奇拒绝剧宣吻戏",
+      "onboard_time": 1762324040,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1004091,
       "num": 932870,
       "word": "翁帆疑似未入职清华大学当讲师",
@@ -44,19 +60,11 @@
     },
     {
       "raw_hot": 926640,
-      "num": 184628,
+      "num": 197793,
       "word": "娜扎经纪人",
       "onboard_time": 1762321460,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 902082,
-      "num": 1144333,
-      "word": "王子奇拒绝剧宣吻戏",
-      "onboard_time": 1762324040,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 835613,
@@ -89,6 +97,14 @@
       "onboard_time": 1762308260,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 741516,
+      "num": 199657,
+      "word": "考生笑了五分钟才开始答卷",
+      "onboard_time": 1762325300,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 709024,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 166871,
+      "num": 196128,
       "word": "警方通报28岁男子持刀扎伤2同事",
       "onboard_time": 1762323861,
       "rank": 19,
@@ -233,6 +249,14 @@
       "onboard_time": 1762269381,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 389932,
+      "num": 389932,
+      "word": "田曦薇嫁金钗开机",
+      "onboard_time": 1762325241,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 386788,
@@ -347,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320496,
+      "num": 320496,
+      "word": "律师自曝取款被银行盘问报警",
+      "onboard_time": 1762322841,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303203,
       "num": 200144,
       "word": "刘思涵你的校服在非洲火了",
@@ -385,6 +417,14 @@
       "onboard_time": 1762269201,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264783,
+      "num": 216551,
+      "word": "唐嫣爱情没有神话 撤档",
+      "onboard_time": 1762325900,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 258587,
@@ -531,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "田曦薇嫁金钗开机",
-      "onboard_time": 1762325241,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197111,
       "num": 166214,
       "word": "房中房中房中房中房",
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190749,
+      "num": 190749,
+      "word": "央视撤档爱情没有神话",
+      "onboard_time": 1762325720,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181301,
+      "num": 181301,
+      "word": "新加坡鞭刑执行画面",
+      "onboard_time": 1762326321,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181049,
       "num": 181049,
       "word": "2026春节放9天假",
@@ -649,6 +697,14 @@
       "onboard_time": 1762258281,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177383,
+      "num": 177383,
+      "word": "康熙",
+      "onboard_time": 1762326140,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 175758,
@@ -681,14 +737,6 @@
       "onboard_time": 1762317563,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167955,
-      "num": 165765,
-      "word": "律师自曝取款被银行盘问报警",
-      "onboard_time": 1762322841,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167681,
@@ -795,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152597,
+      "num": 185428,
+      "word": "嫁金钗 闫桉",
+      "onboard_time": 1762325660,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "花少7戒断期要来了",
@@ -811,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151280,
+      "num": 183590,
+      "word": "倪萍说出了多少男人在家庭中的真实状态",
+      "onboard_time": 1762326741,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148367,
       "num": 124526,
       "word": "吴京晒流浪地球3片场照片",
       "onboard_time": 1762270639,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148005,
+      "num": 148005,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147828,
@@ -889,6 +961,14 @@
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143147,
+      "num": 182966,
+      "word": "新闻女王2没有徐晓薇",
+      "onboard_time": 1762326440,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 142574,
@@ -995,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127116,
+      "num": 181572,
+      "word": "海南发展涨停",
+      "onboard_time": 1762327039,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125752,
       "num": 125752,
       "word": "雷军回应小米YU7首拆视频",
@@ -1059,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122271,
+      "num": 186709,
+      "word": "中美11月10日将互降关税",
+      "onboard_time": 1762326260,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117625,
       "num": 140450,
       "word": "C罗婚礼计划",
@@ -1091,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116635,
+      "num": 116635,
+      "word": "遇到樊振东因为太瘦没认出来",
+      "onboard_time": 1762326020,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115860,
       "num": 115860,
       "word": "福建舰",
@@ -1121,14 +1225,6 @@
       "onboard_time": 1762306040,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 111903,
-      "num": 111903,
-      "word": "考生笑了五分钟才开始答卷",
-      "onboard_time": 1762325300,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 111321,
@@ -1243,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102976,
+      "num": 102976,
+      "word": "这才是真正的留人吃饭",
+      "onboard_time": 1762326381,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101627,
       "num": 101627,
       "word": "台湾网红馆长又把深圳夸爆了",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1762315702,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98642,
+      "num": 123735,
+      "word": "小宇宙用爸爸裤子擦油顺手的事",
+      "onboard_time": 1762327100,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 98635,
@@ -1328,6 +1440,14 @@
       "word": "水库放生猫动机为祈福非违法犯罪",
       "onboard_time": 1762307781,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94517,
+      "num": 94517,
+      "word": "做试管的女人们",
+      "onboard_time": 1762326980,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1473,6 +1593,14 @@
       "onboard_time": 1762311920,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90347,
+      "num": 90347,
+      "word": "考上研后你会发现",
+      "onboard_time": 1762325540,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 90146,
@@ -1787,6 +1915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66897,
+      "num": 110923,
+      "word": "成都160万元凶宅26.6万拍卖",
+      "onboard_time": 1762327521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66116,
       "num": 166614,
       "word": "2025最大超级月亮今晚登场",
@@ -1817,6 +1953,14 @@
       "onboard_time": 1762253781,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58740,
+      "num": 186462,
+      "word": "翁法罗斯大结局",
+      "onboard_time": 1762322661,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 58219,
@@ -1859,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56050,
+      "num": 189954,
+      "word": "宠物冥币",
+      "onboard_time": 1762326621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55512,
       "num": 69254,
       "word": "王权富贵再次燃命",
@@ -1897,6 +2049,14 @@
       "onboard_time": 1762270579,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50090,
+      "num": 90757,
+      "word": "聂九罗颠覆迪丽热巴以往角色",
+      "onboard_time": 1762326020,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 49212,
@@ -2027,6 +2187,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 33001,
+      "num": 111090,
+      "word": "上海高级感螺蛳粉",
+      "onboard_time": 1762327220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31641,
       "num": 112092,
       "word": "以前压缩饼干 现在烤鸡翅烤牛排",
@@ -2035,20 +2203,20 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 27495,
+      "num": 112388,
+      "word": "大批理工科人才要逃离韩国",
+      "onboard_time": 1762327220,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27250,
       "num": 90472,
       "word": "男子求见李嘉诚被拦打伤保安",
       "onboard_time": 1762312940,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26698,
-      "num": 173495,
-      "word": "翁法罗斯大结局",
-      "onboard_time": 1762322661,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 26578,

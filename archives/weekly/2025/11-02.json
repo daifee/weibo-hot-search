@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762325539436,
+  "endTime": 1762327605753,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1505297,
-      "num": 193196,
+      "num": 204032,
       "word": "请6休17",
       "onboard_time": 1762320862,
       "rank": 18,
@@ -121,6 +121,14 @@
       "onboard_time": 1762084462,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1283060,
+      "num": 208055,
+      "word": "抗癌针",
+      "onboard_time": 1762325540,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1273997,
@@ -208,6 +216,14 @@
       "word": "关晓彤 你们是不认识孟子义吗",
       "onboard_time": 1762051339,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1069598,
+      "num": 1144333,
+      "word": "王子奇拒绝剧宣吻戏",
+      "onboard_time": 1762324040,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 926640,
-      "num": 184628,
+      "num": 197793,
       "word": "娜扎经纪人",
       "onboard_time": 1762321460,
       "rank": 11,
@@ -328,14 +344,6 @@
       "word": "鲍蕾因贝儿课业奔溃拍桌子",
       "onboard_time": 1762228640,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 902082,
-      "num": 1144333,
-      "word": "王子奇拒绝剧宣吻戏",
-      "onboard_time": 1762324040,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -465,6 +473,14 @@
       "onboard_time": 1762007963,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 741516,
+      "num": 199657,
+      "word": "考生笑了五分钟才开始答卷",
+      "onboard_time": 1762325300,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 739771,
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 539935,
-      "num": 166871,
+      "num": 196128,
       "word": "警方通报28岁男子持刀扎伤2同事",
       "onboard_time": 1762323861,
       "rank": 19,
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389932,
+      "num": 389932,
+      "word": "田曦薇嫁金钗开机",
+      "onboard_time": 1762325241,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388092,
       "num": 205828,
       "word": "蒲熠星买了芒果股票",
@@ -1979,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320496,
+      "num": 320496,
+      "word": "律师自曝取款被银行盘问报警",
+      "onboard_time": 1762322841,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320258,
       "num": 172781,
       "word": "觉得自己闯祸了就来看翁青雅朱珠",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1762058599,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264783,
+      "num": 216551,
+      "word": "唐嫣爱情没有神话 撤档",
+      "onboard_time": 1762325900,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 263631,
@@ -3251,14 +3291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "田曦薇嫁金钗开机",
-      "onboard_time": 1762325241,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197111,
       "num": 166214,
       "word": "房中房中房中房中房",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1762317141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190749,
+      "num": 190749,
+      "word": "央视撤档爱情没有神话",
+      "onboard_time": 1762325720,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 190339,
@@ -3635,6 +3675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181301,
+      "num": 181301,
+      "word": "新加坡鞭刑执行画面",
+      "onboard_time": 1762326321,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
@@ -3705,6 +3753,14 @@
       "onboard_time": 1762073960,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177383,
+      "num": 177383,
+      "word": "康熙",
+      "onboard_time": 1762326140,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 177351,
@@ -3969,14 +4025,6 @@
       "onboard_time": 1762317563,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167955,
-      "num": 165765,
-      "word": "律师自曝取款被银行盘问报警",
-      "onboard_time": 1762322841,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167703,
@@ -4579,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152597,
+      "num": 185428,
+      "word": "嫁金钗 闫桉",
+      "onboard_time": 1762325660,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152291,
       "num": 152291,
       "word": "布瑞吉所有不动产都写的胡佳名字",
@@ -4617,6 +4673,14 @@
       "onboard_time": 1762320741,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151280,
+      "num": 183590,
+      "word": "倪萍说出了多少男人在家庭中的真实状态",
+      "onboard_time": 1762326741,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 151250,
@@ -4737,6 +4801,14 @@
       "onboard_time": 1762082103,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148005,
+      "num": 148005,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147967,
@@ -4945,6 +5017,14 @@
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143147,
+      "num": 182966,
+      "word": "新闻女王2没有徐晓薇",
+      "onboard_time": 1762326440,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 142736,
@@ -5811,6 +5891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127116,
+      "num": 181572,
+      "word": "海南发展涨停",
+      "onboard_time": 1762327039,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127054,
       "num": 127054,
       "word": "余霜采访",
@@ -6073,6 +6161,14 @@
       "onboard_time": 1762093224,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122271,
+      "num": 186709,
+      "word": "中美11月10日将互降关税",
+      "onboard_time": 1762326260,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122074,
@@ -6433,6 +6529,14 @@
       "onboard_time": 1762264402,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116635,
+      "num": 116635,
+      "word": "遇到樊振东因为太瘦没认出来",
+      "onboard_time": 1762326020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 116614,
@@ -6817,14 +6921,6 @@
       "onboard_time": 1762241299,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111903,
-      "num": 111903,
-      "word": "考生笑了五分钟才开始答卷",
-      "onboard_time": 1762325300,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 111813,
@@ -7651,6 +7747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102976,
+      "num": 102976,
+      "word": "这才是真正的留人吃饭",
+      "onboard_time": 1762326381,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102974,
       "num": 100639,
       "word": "孙颖莎生日也在转场",
@@ -8139,6 +8243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98642,
+      "num": 123735,
+      "word": "小宇宙用爸爸裤子擦油顺手的事",
+      "onboard_time": 1762327100,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98635,
       "num": 98635,
       "word": "JackeyLove谈明年规划",
@@ -8576,6 +8688,14 @@
       "word": "34岁男子右手绞进机器碎成多瓣",
       "onboard_time": 1762014380,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94517,
+      "num": 94517,
+      "word": "做试管的女人们",
+      "onboard_time": 1762326980,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -9105,6 +9225,14 @@
       "onboard_time": 1762246040,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90347,
+      "num": 90347,
+      "word": "考上研后你会发现",
+      "onboard_time": 1762325540,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 90166,
@@ -11043,6 +11171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66897,
+      "num": 110923,
+      "word": "成都160万元凶宅26.6万拍卖",
+      "onboard_time": 1762327521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66823,
       "num": 66823,
       "word": "以色列总理称遭严重舆论打击",
@@ -11395,6 +11531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58740,
+      "num": 186462,
+      "word": "翁法罗斯大结局",
+      "onboard_time": 1762322661,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58601,
       "num": 80517,
       "word": "陕西3只退役警犬征集领养人",
@@ -11473,6 +11617,14 @@
       "onboard_time": 1762185200,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56050,
+      "num": 189954,
+      "word": "宠物冥币",
+      "onboard_time": 1762326621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55917,
@@ -11625,6 +11777,14 @@
       "onboard_time": 1762054400,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50090,
+      "num": 90757,
+      "word": "聂九罗颠覆迪丽热巴以往角色",
+      "onboard_time": 1762326020,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 50049,
@@ -12187,6 +12347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33001,
+      "num": 111090,
+      "word": "上海高级感螺蛳粉",
+      "onboard_time": 1762327220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32770,
       "num": 88988,
       "word": "何健麒会看姚冠宇张翅陈添祥的吻戏",
@@ -12347,6 +12515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27495,
+      "num": 112388,
+      "word": "大批理工科人才要逃离韩国",
+      "onboard_time": 1762327220,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27475,
       "num": 50959,
       "word": "凤凰台上",
@@ -12393,14 +12569,6 @@
       "onboard_time": 1762228760,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26698,
-      "num": 173495,
-      "word": "翁法罗斯大结局",
-      "onboard_time": 1762322661,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 26690,

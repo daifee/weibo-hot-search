@@ -1,0 +1,410 @@
+{
+  "runTime": 1762327605753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 543568,
+        "num": 1086970,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389932,
+        "num": 389932,
+        "word": "田曦薇嫁金钗开机",
+        "onboard_time": 1762325241,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30890,
+        "num": 334845,
+        "word": "第八届进博会",
+        "onboard_time": 1762312701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320496,
+        "num": 320496,
+        "word": "律师自曝取款被银行盘问报警",
+        "onboard_time": 1762322841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271668,
+        "num": 271668,
+        "word": "孙乐言主持界首个拿下奥斯卡的人",
+        "onboard_time": 1762319422,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217138,
+        "num": 217138,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 264783,
+        "num": 216551,
+        "word": "唐嫣爱情没有神话 撤档",
+        "onboard_time": 1762325900,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150770,
+        "num": 213246,
+        "word": "小米YU7全网首拆",
+        "onboard_time": 1762314862,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147683,
+        "num": 212096,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147290,
+        "num": 209482,
+        "word": "被中方点赞后李在明加送200盒皇南饼",
+        "onboard_time": 1762315401,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1283060,
+        "num": 208055,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 961899,
+        "num": 204032,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1069598,
+        "num": 201942,
+        "word": "王子奇拒绝剧宣吻戏",
+        "onboard_time": 1762324040,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741516,
+        "num": 199657,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 647047,
+        "num": 197793,
+        "word": "娜扎经纪人",
+        "onboard_time": 1762321460,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518899,
+        "num": 196128,
+        "word": "警方通报28岁男子持刀扎伤2同事",
+        "onboard_time": 1762323861,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317058,
+        "num": 193884,
+        "word": "收到了去世朋友7年前的邮件",
+        "onboard_time": 1762315821,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 290065,
+        "num": 190957,
+        "word": "向太称子女敢去美国就捐光家产",
+        "onboard_time": 1762320800,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190749,
+        "num": 190749,
+        "word": "央视撤档爱情没有神话",
+        "onboard_time": 1762325720,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56050,
+        "num": 189954,
+        "word": "宠物冥币",
+        "onboard_time": 1762326621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258527,
+        "num": 189353,
+        "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+        "onboard_time": 1762320622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212508,
+        "num": 188459,
+        "word": "翁帆疑似未入职清华大学当讲师",
+        "onboard_time": 1762316181,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122271,
+        "num": 186709,
+        "word": "中美11月10日将互降关税",
+        "onboard_time": 1762326260,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58740,
+        "num": 186462,
+        "word": "翁法罗斯大结局",
+        "onboard_time": 1762322661,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152597,
+        "num": 185428,
+        "word": "嫁金钗 闫桉",
+        "onboard_time": 1762325660,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151280,
+        "num": 183590,
+        "word": "倪萍说出了多少男人在家庭中的真实状态",
+        "onboard_time": 1762326741,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 182966,
+        "word": "新闻女王2没有徐晓薇",
+        "onboard_time": 1762326440,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127116,
+        "num": 181572,
+        "word": "海南发展涨停",
+        "onboard_time": 1762327039,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181301,
+        "num": 181301,
+        "word": "新加坡鞭刑执行画面",
+        "onboard_time": 1762326321,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114225,
+        "num": 178846,
+        "word": "谢娜王鹤棣加盟疯狂好六夜",
+        "onboard_time": 1762323321,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177383,
+        "num": 177383,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173507,
+        "num": 173507,
+        "word": "赵樱子听到张康乐的反应",
+        "onboard_time": 1762316421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148005,
+        "num": 148005,
+        "word": "糖化脸和吃糖是什么关系",
+        "onboard_time": 1762326980,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128832,
+        "num": 128832,
+        "word": "女子名叫丽春多次申请改名被拒",
+        "onboard_time": 1762318461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98642,
+        "num": 123735,
+        "word": "小宇宙用爸爸裤子擦油顺手的事",
+        "onboard_time": 1762327100,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120211,
+        "num": 120211,
+        "word": "何小鹏首次披露物理AI巨大进展",
+        "onboard_time": 1762325181,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116635,
+        "num": 116635,
+        "word": "遇到樊振东因为太瘦没认出来",
+        "onboard_time": 1762326020,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27495,
+        "num": 112388,
+        "word": "大批理工科人才要逃离韩国",
+        "onboard_time": 1762327220,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33001,
+        "num": 111090,
+        "word": "上海高级感螺蛳粉",
+        "onboard_time": 1762327220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66897,
+        "num": 110923,
+        "word": "成都160万元凶宅26.6万拍卖",
+        "onboard_time": 1762327521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 110860,
+        "word": "佛州可禁止中国人购买房产",
+        "onboard_time": 1762322781,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102976,
+        "num": 102976,
+        "word": "这才是真正的留人吃饭",
+        "onboard_time": 1762326381,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101852,
+        "num": 101852,
+        "word": "福建舰",
+        "onboard_time": 1762318342,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 99778,
+        "num": 99778,
+        "word": "老人火化后骨灰里多出4颗钢钉",
+        "onboard_time": 1762315580,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94517,
+        "num": 94517,
+        "word": "做试管的女人们",
+        "onboard_time": 1762326980,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92897,
+        "num": 92897,
+        "word": "原来小孩约会在大人眼里这么明显",
+        "onboard_time": 1762321460,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50090,
+        "num": 90757,
+        "word": "聂九罗颠覆迪丽热巴以往角色",
+        "onboard_time": 1762326020,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90347,
+        "num": 90347,
+        "word": "考上研后你会发现",
+        "onboard_time": 1762325540,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89837,
+        "num": 89837,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89275,
+        "num": 89275,
+        "word": "房中房中房中房中房",
+        "onboard_time": 1762321219,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}
