@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762363565132,
+  "endTime": 1762364500130,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14363,6 +14363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23895,
+      "num": 50188,
+      "word": "程潇中传线下活动",
+      "onboard_time": 1762363576,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23884,
       "num": 35935,
       "word": "王橹杰今年是更成熟的小鬼",
@@ -14457,6 +14465,14 @@
       "onboard_time": 1762138940,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20177,
+      "num": 50050,
+      "word": "别把心力浪费在内耗上",
+      "onboard_time": 1762358181,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 18985,
@@ -14609,6 +14625,14 @@
       "onboard_time": 1762201633,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14039,
+      "num": 50035,
+      "word": "2026年国庆拼假能休17天",
+      "onboard_time": 1762363875,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14006,
