@@ -1,0 +1,410 @@
+{
+  "runTime": 1762335050157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5725859,
+        "num": 5725859,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308467,
+        "num": 308467,
+        "word": "糖化脸和吃糖是什么关系",
+        "onboard_time": 1762326980,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25738,
+        "num": 253572,
+        "word": "第十五届全运会",
+        "onboard_time": 1762329800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214029,
+        "num": 214029,
+        "word": "肖战下部剧进十日终焉",
+        "onboard_time": 1762330581,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185465,
+        "num": 185465,
+        "word": "孙颖莎首轮轮空",
+        "onboard_time": 1762334061,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409449,
+        "num": 183665,
+        "word": "iPhone面容解锁不需要摄像头",
+        "onboard_time": 1762328239,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179194,
+        "num": 179194,
+        "word": "邵佳一将出任国足主帅",
+        "onboard_time": 1762333523,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177850,
+        "num": 177850,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 162204,
+        "word": "樊振东王楚钦全运会男团同组",
+        "onboard_time": 1762329681,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159049,
+        "num": 159049,
+        "word": "剑来",
+        "onboard_time": 1762334541,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279788,
+        "num": 158582,
+        "word": "央视撤档爱情没有神话",
+        "onboard_time": 1762325720,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1623448,
+        "num": 155563,
+        "word": "王传君 白百何",
+        "onboard_time": 1762330220,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24545,
+        "num": 153414,
+        "word": "关注第八届进博会",
+        "onboard_time": 1762329741,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640046,
+        "num": 151188,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547346,
+        "num": 150535,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445789,
+        "num": 149087,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411529,
+        "num": 145752,
+        "word": "新加坡鞭刑执行画面",
+        "onboard_time": 1762326321,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385504,
+        "num": 145170,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 46363,
+        "num": 143092,
+        "word": "小鹏将推出3款全球化Robotaxi",
+        "onboard_time": 1762331662,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117985,
+        "num": 140476,
+        "word": "年轻人的头发去哪了",
+        "onboard_time": 1762331241,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351510,
+        "num": 139158,
+        "word": "成都160万元凶宅26.6万拍卖",
+        "onboard_time": 1762327521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299806,
+        "num": 137068,
+        "word": "台媒曝欧弟将移民日本",
+        "onboard_time": 1762332620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275439,
+        "num": 134692,
+        "word": "王子奇拒绝剧宣吻戏",
+        "onboard_time": 1762324040,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205529,
+        "num": 131453,
+        "word": "酷酷的滕直播",
+        "onboard_time": 1762334662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 130124,
+        "word": "东京电影节",
+        "onboard_time": 1762328299,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129317,
+        "num": 129317,
+        "word": "演员王祖蓝受聘为高校教授",
+        "onboard_time": 1762333702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 118988,
+        "word": "樊振东首轮对阵周雨",
+        "onboard_time": 1762333281,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106354,
+        "num": 106354,
+        "word": "田曦薇嫁金钗开机",
+        "onboard_time": 1762325241,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103025,
+        "num": 103025,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170797,
+        "num": 102823,
+        "word": "小鹏机器人会走猫步太像人了",
+        "onboard_time": 1762333523,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184919,
+        "num": 102440,
+        "word": "你俩亲害羞了倒是给我看爽了",
+        "onboard_time": 1762332740,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155386,
+        "num": 101680,
+        "word": "娜扎经纪人",
+        "onboard_time": 1762321460,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152182,
+        "num": 101194,
+        "word": "郑州19岁大二女生校内溺亡",
+        "onboard_time": 1762334721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99762,
+        "num": 100807,
+        "word": "孙乐言主持界首个拿下奥斯卡的人",
+        "onboard_time": 1762319422,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71864,
+        "num": 100176,
+        "word": "中美11月10日将互降关税",
+        "onboard_time": 1762326260,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99970,
+        "num": 99970,
+        "word": "王楚钦樊振东男单同一半区",
+        "onboard_time": 1762333340,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137769,
+        "num": 99955,
+        "word": "摇粒绒 梳毛",
+        "onboard_time": 1762332381,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 99906,
+        "word": "彭小苒上半身过冬天下半身过夏天",
+        "onboard_time": 1762334782,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68715,
+        "num": 99858,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36509,
+        "num": 99840,
+        "word": "电商在衣服上挂密码锁防蹭穿退货",
+        "onboard_time": 1762334421,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104541,
+        "num": 99789,
+        "word": "刘敏涛闷声干大事",
+        "onboard_time": 1762333161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99776,
+        "num": 99776,
+        "word": "张馨予把长毛的蘑菇酱吃了",
+        "onboard_time": 1762330641,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98561,
+        "num": 98561,
+        "word": "朱开爆料FPX退出LPL",
+        "onboard_time": 1762334782,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94717,
+        "num": 94717,
+        "word": "不运动也能降体脂的7个小习惯",
+        "onboard_time": 1762330341,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93623,
+        "num": 93623,
+        "word": "管泽元给八强上单排名",
+        "onboard_time": 1762334662,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90109,
+        "num": 90109,
+        "word": "李沁给每个人都买了头巾",
+        "onboard_time": 1762328061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88480,
+        "num": 88480,
+        "word": "Doinb谈Uzi",
+        "onboard_time": 1762328360,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85205,
+        "num": 85205,
+        "word": "谁家短剧男主60多岁",
+        "onboard_time": 1762335023,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82943,
+        "num": 82943,
+        "word": "德国驻华大使馆回应德国正统在太仓",
+        "onboard_time": 1762334962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79345,
+        "num": 81414,
+        "word": "律师自曝取款被银行盘问报警",
+        "onboard_time": 1762322841,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国愿同各国一道在开放中创造机遇#"
+    }
+  }
+}

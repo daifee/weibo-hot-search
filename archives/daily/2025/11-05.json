@@ -1,7 +1,23 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762332601423,
+  "endTime": 1762335050157,
   "band_list": [
+    {
+      "raw_hot": 5725859,
+      "num": 5725859,
+      "word": "王传君东京电影节影帝",
+      "onboard_time": 1762332922,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1623448,
+      "num": 179311,
+      "word": "王传君 白百何",
+      "onboard_time": 1762330220,
+      "rank": 16,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1505297,
       "num": 204032,
@@ -81,14 +97,6 @@
       "onboard_time": 1762325300,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 862755,
-      "num": 179311,
-      "word": "王传君 白百何",
-      "onboard_time": 1762330220,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 835613,
@@ -451,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299806,
+      "num": 137068,
+      "word": "台媒曝欧弟将移民日本",
+      "onboard_time": 1762332620,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299207,
       "num": 215568,
       "word": "福建舰入列",
@@ -595,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214029,
+      "num": 214029,
+      "word": "肖战下部剧进十日终焉",
+      "onboard_time": 1762330581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213573,
       "num": 115172,
       "word": "网传快乐家族回归好六",
@@ -617,6 +641,14 @@
       "onboard_time": 1762330881,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 205529,
+      "num": 131453,
+      "word": "酷酷的滕直播",
+      "onboard_time": 1762334662,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 203851,
@@ -763,6 +795,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185465,
+      "num": 185465,
+      "word": "孙颖莎首轮轮空",
+      "onboard_time": 1762334061,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184919,
+      "num": 102440,
+      "word": "你俩亲害羞了倒是给我看爽了",
+      "onboard_time": 1762332740,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182913,
       "num": 190795,
       "word": "新闻女王2开局11广",
@@ -795,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179194,
+      "num": 179194,
+      "word": "邵佳一将出任国足主帅",
+      "onboard_time": 1762333523,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178983,
       "num": 110058,
       "word": "樊振东怎么瘦这么多",
@@ -819,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169281,
-      "num": 169281,
-      "word": "肖战下部剧进十日终焉",
-      "onboard_time": 1762330581,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 170797,
+      "num": 102823,
+      "word": "小鹏机器人会走猫步太像人了",
+      "onboard_time": 1762333523,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 169152,
@@ -915,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159049,
+      "num": 159049,
+      "word": "剑来",
+      "onboard_time": 1762334541,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156729,
       "num": 156729,
       "word": "佛州可禁止中国人购买房产",
@@ -969,6 +1033,14 @@
       "onboard_time": 1762328061,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152182,
+      "num": 101194,
+      "word": "郑州19岁大二女生校内溺亡",
+      "onboard_time": 1762334721,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151393,
@@ -1147,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137769,
+      "num": 113646,
+      "word": "摇粒绒 梳毛",
+      "onboard_time": 1762332381,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136967,
       "num": 150826,
       "word": "刘也首部古装男主剧终于要来了",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1762309939,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129317,
+      "num": 129317,
+      "word": "演员王祖蓝受聘为高校教授",
+      "onboard_time": 1762333702,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 128566,
@@ -1291,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118988,
+      "num": 118988,
+      "word": "樊振东首轮对阵周雨",
+      "onboard_time": 1762333281,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117625,
       "num": 140450,
       "word": "C罗婚礼计划",
@@ -1339,12 +1435,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 113646,
-      "num": 113646,
-      "word": "摇粒绒 梳毛",
-      "onboard_time": 1762332381,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 114977,
+      "num": 99906,
+      "word": "彭小苒上半身过冬天下半身过夏天",
+      "onboard_time": 1762334782,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 113292,
@@ -1483,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104541,
+      "num": 99789,
+      "word": "刘敏涛闷声干大事",
+      "onboard_time": 1762333161,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104463,
       "num": 104463,
       "word": "36岁苦练化妆1个月的变化",
@@ -1555,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99970,
+      "num": 99970,
+      "word": "王楚钦樊振东男单同一半区",
+      "onboard_time": 1762333340,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99861,
       "num": 99861,
       "word": "剧本都写不出李莎旻子的临场发挥",
@@ -1592,6 +1704,14 @@
       "word": "JackeyLove谈明年规划",
       "onboard_time": 1762306099,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98561,
+      "num": 98561,
+      "word": "朱开爆料FPX退出LPL",
+      "onboard_time": 1762334782,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -1729,6 +1849,14 @@
       "onboard_time": 1762303342,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93623,
+      "num": 93623,
+      "word": "管泽元给八强上单排名",
+      "onboard_time": 1762334662,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 93410,
@@ -1963,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85205,
+      "num": 85205,
+      "word": "谁家短剧男主60多岁",
+      "onboard_time": 1762335023,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85166,
       "num": 85166,
       "word": "彭小苒是我们村最好的大厨",
@@ -2009,6 +2145,14 @@
       "onboard_time": 1762305979,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82943,
+      "num": 82943,
+      "word": "德国驻华大使馆回应德国正统在太仓",
+      "onboard_time": 1762334962,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82880,
@@ -2185,6 +2329,14 @@
       "onboard_time": 1762299440,
       "rank": 33,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 68715,
+      "num": 99858,
+      "word": "将门毒后选角101",
+      "onboard_time": 1762334902,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 67290,
@@ -2467,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36509,
+      "num": 99840,
+      "word": "电商在衣服上挂密码锁防蹭穿退货",
+      "onboard_time": 1762334421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35226,
       "num": 115080,
       "word": "杨瀚森翻译进教练组系误传",
@@ -2537,6 +2697,14 @@
       "onboard_time": 1762284014,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24545,
+      "num": 153414,
+      "word": "关注第八届进博会",
+      "onboard_time": 1762329741,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24377,
