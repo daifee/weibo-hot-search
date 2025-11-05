@@ -1,0 +1,410 @@
+{
+  "runTime": 1762339605863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5595474,
+        "num": 5595474,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480649,
+        "num": 480649,
+        "word": "糖化脸和吃糖是什么关系",
+        "onboard_time": 1762326980,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25236,
+        "num": 369035,
+        "word": "第十五届全运会",
+        "onboard_time": 1762329800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295529,
+        "num": 295529,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225006,
+        "num": 225006,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 986230,
+        "num": 222893,
+        "word": "王传君感谢白百何",
+        "onboard_time": 1762335923,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241826,
+        "num": 222221,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210425,
+        "num": 210425,
+        "word": "户晨风多平台账号被封禁",
+        "onboard_time": 1762335623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136381,
+        "num": 210402,
+        "word": "苹果回应iPhone面容解锁不用摄像头",
+        "onboard_time": 1762337962,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109112,
+        "num": 209896,
+        "word": "土帅是否更适合国足",
+        "onboard_time": 1762338501,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549025,
+        "num": 209447,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463865,
+        "num": 209066,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423288,
+        "num": 208817,
+        "word": "台媒曝欧弟将移民日本",
+        "onboard_time": 1762332620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360524,
+        "num": 208429,
+        "word": "郑州19岁大二女生校内溺亡",
+        "onboard_time": 1762334721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331502,
+        "num": 207830,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260108,
+        "num": 207720,
+        "word": "王格格 张凌赫是我见过最帅的男人",
+        "onboard_time": 1762336102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237574,
+        "num": 207023,
+        "word": "TF家族都有六代了",
+        "onboard_time": 1762338621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225999,
+        "num": 206899,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107395,
+        "num": 206335,
+        "word": "邵佳一将出任国足主帅",
+        "onboard_time": 1762333523,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220231,
+        "num": 205939,
+        "word": "剑来",
+        "onboard_time": 1762334541,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205806,
+        "num": 205806,
+        "word": "新加坡鞭刑执行画面",
+        "onboard_time": 1762326321,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176161,
+        "num": 176161,
+        "word": "月亮",
+        "onboard_time": 1762335801,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162459,
+        "num": 162459,
+        "word": "王子奇拒绝剧宣吻戏",
+        "onboard_time": 1762324040,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161026,
+        "num": 161026,
+        "word": "东京电影节影后双黄蛋",
+        "onboard_time": 1762336343,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155965,
+        "num": 155965,
+        "word": "iPhone面容解锁不需要摄像头",
+        "onboard_time": 1762328239,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146662,
+        "num": 146662,
+        "word": "新人结婚遭拦车要50条烟",
+        "onboard_time": 1762336943,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133607,
+        "num": 133607,
+        "word": "日本地下偶像因饮料上人的倒影退团",
+        "onboard_time": 1762335801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 127200,
+        "word": "肖战下部剧进十日终焉",
+        "onboard_time": 1762330581,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128311,
+        "num": 126861,
+        "word": "娜扎经纪人",
+        "onboard_time": 1762321460,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50306,
+        "num": 126351,
+        "word": "后排乘客不系安全带属违法",
+        "onboard_time": 1762337302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 126026,
+        "word": "为什么家里妈妈做饭后厨却少有女性",
+        "onboard_time": 1762335801,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124507,
+        "num": 124507,
+        "word": "AL世界赛行程表曝光",
+        "onboard_time": 1762337422,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118244,
+        "num": 118244,
+        "word": "陈佩斯说顶尖演员不会被AI替代",
+        "onboard_time": 1762338804,
+        "rank": 32,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 106247,
+        "num": 106247,
+        "word": "酷酷的滕直播",
+        "onboard_time": 1762334662,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105397,
+        "num": 105397,
+        "word": "成都160万元凶宅26.6万拍卖",
+        "onboard_time": 1762327521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102843,
+        "num": 102843,
+        "word": "庄达菲敷着面膜吃东西",
+        "onboard_time": 1762338442,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101594,
+        "num": 101594,
+        "word": "天地剑心",
+        "onboard_time": 1762339401,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 101443,
+        "word": "晚上八点放学的幼儿园",
+        "onboard_time": 1762337662,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 131146,
+        "num": 101332,
+        "word": "刘强东外卖留言板成网友花活区",
+        "onboard_time": 1762338442,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98558,
+        "num": 98558,
+        "word": "没人发现北京地铁的牙线吗",
+        "onboard_time": 1762338861,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91881,
+        "num": 91881,
+        "word": "大侦探十周年就这个熟人局爽",
+        "onboard_time": 1762335381,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89492,
+        "num": 89492,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1762336881,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60820,
+        "num": 87437,
+        "word": "小鹏机器人会走猫步太像人了",
+        "onboard_time": 1762333523,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85806,
+        "num": 85806,
+        "word": "Shadow删博道歉",
+        "onboard_time": 1762337602,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83218,
+        "num": 83218,
+        "word": "樊振东许昕有望对阵王楚钦马龙",
+        "onboard_time": 1762338923,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84808,
+        "num": 82959,
+        "word": "摇粒绒 梳毛",
+        "onboard_time": 1762332381,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81037,
+        "num": 81037,
+        "word": "仅用0秒就get到肖战的权威了",
+        "onboard_time": 1762339221,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74620,
+        "num": 79682,
+        "word": "见过怂的狗没见过这么怂的",
+        "onboard_time": 1762339341,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78349,
+        "num": 78349,
+        "word": "水龙吟",
+        "onboard_time": 1762339581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69213,
+        "num": 77577,
+        "word": "一键登记投诚祖国软件引两岸热议",
+        "onboard_time": 1762336222,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国愿同各国一道在开放中创造机遇#"
+    }
+  }
+}
