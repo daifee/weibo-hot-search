@@ -1,0 +1,410 @@
+{
+  "runTime": 1762324760848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 703932,
+        "num": 1112629,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343009,
+        "num": 343009,
+        "word": "孙乐言主持界首个拿下奥斯卡的人",
+        "onboard_time": 1762319422,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25878,
+        "num": 341742,
+        "word": "第八届进博会",
+        "onboard_time": 1762312701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341686,
+        "num": 341686,
+        "word": "王子奇拒绝剧宣吻戏",
+        "onboard_time": 1762324040,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330191,
+        "num": 330191,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 215568,
+        "num": 215568,
+        "word": "福建舰入列",
+        "onboard_time": 1762317563,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 193638,
+        "num": 193638,
+        "word": "小米YU7全网首拆",
+        "onboard_time": 1762314862,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193401,
+        "num": 193401,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191643,
+        "num": 191643,
+        "word": "谢娜王鹤棣加盟疯狂好六夜",
+        "onboard_time": 1762323321,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 188781,
+        "word": "被中方点赞后李在明加送200盒皇南饼",
+        "onboard_time": 1762315401,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1505297,
+        "num": 186965,
+        "word": "请6休17",
+        "onboard_time": 1762320862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925898,
+        "num": 184628,
+        "word": "娜扎经纪人",
+        "onboard_time": 1762321460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415794,
+        "num": 182222,
+        "word": "向太称子女敢去美国就捐光家产",
+        "onboard_time": 1762320800,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383080,
+        "num": 177555,
+        "word": "赵樱子听到张康乐的反应",
+        "onboard_time": 1762316421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26698,
+        "num": 173495,
+        "word": "翁法罗斯大结局",
+        "onboard_time": 1762322661,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361580,
+        "num": 171595,
+        "word": "翁帆疑似未入职清华大学当讲师",
+        "onboard_time": 1762316181,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310403,
+        "num": 170073,
+        "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+        "onboard_time": 1762320622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167408,
+        "num": 167408,
+        "word": "爸爸当家坦然聊儿童性教育",
+        "onboard_time": 1762323560,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148322,
+        "num": 167155,
+        "word": "林尚武去世",
+        "onboard_time": 1762317982,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260357,
+        "num": 166871,
+        "word": "警方通报28岁男子持刀扎伤2同事",
+        "onboard_time": 1762323861,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 270824,
+        "num": 166634,
+        "word": "收到了去世朋友7年前的邮件",
+        "onboard_time": 1762315821,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 244312,
+        "num": 166512,
+        "word": "女子名叫丽春多次申请改名被拒",
+        "onboard_time": 1762318461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197111,
+        "num": 166214,
+        "word": "房中房中房中房中房",
+        "onboard_time": 1762321219,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167955,
+        "num": 165765,
+        "word": "律师自曝取款被银行盘问报警",
+        "onboard_time": 1762322841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165718,
+        "num": 165718,
+        "word": "老人火化后骨灰里多出4颗钢钉",
+        "onboard_time": 1762315580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156729,
+        "num": 156729,
+        "word": "佛州可禁止中国人购买房产",
+        "onboard_time": 1762322781,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147828,
+        "num": 147828,
+        "word": "原来小孩约会在大人眼里这么明显",
+        "onboard_time": 1762321460,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117625,
+        "num": 140450,
+        "word": "C罗婚礼计划",
+        "onboard_time": 1762323802,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97270,
+        "num": 138947,
+        "word": "刘亦菲入选亚太最具影响力青年女性",
+        "onboard_time": 1762314500,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68860,
+        "num": 138925,
+        "word": "尔滨冰雪狂欢要来了",
+        "onboard_time": 1762324281,
+        "rank": 29,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "欧阳娜娜在副驾开livehouse",
+        "onboard_time": 1762323802,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126148,
+        "num": 126148,
+        "word": "全红婵并腿的权威性",
+        "onboard_time": 1762311500,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125752,
+        "num": 125752,
+        "word": "雷军回应小米YU7首拆视频",
+        "onboard_time": 1762322841,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122314,
+        "num": 122314,
+        "word": "秦昊因头发长被认成女孩",
+        "onboard_time": 1762324222,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113969,
+        "num": 113969,
+        "word": "女子穿运动内衣跑完越野胸部染色",
+        "onboard_time": 1762318702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113213,
+        "num": 113213,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111426,
+        "num": 111426,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105873,
+        "num": 105873,
+        "word": "C罗说赢得世界杯不是我的梦想",
+        "onboard_time": 1762324222,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16971,
+        "num": 105168,
+        "word": "荷兰明抢安世半导体总共分几步",
+        "onboard_time": 1762323620,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77025,
+        "num": 105161,
+        "word": "男子高铁请求让座被拒后怒骂畜生",
+        "onboard_time": 1762323620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105161,
+        "num": 105160,
+        "word": "讨厌别人喜欢自己喜欢了很久的东西",
+        "onboard_time": 1762322781,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103683,
+        "num": 103683,
+        "word": "微信式恋爱",
+        "onboard_time": 1762315221,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "于正约吴谨言商议后续的戏",
+        "onboard_time": 1762319483,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97258,
+        "num": 97258,
+        "word": "福建舰",
+        "onboard_time": 1762318342,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91756,
+        "num": 91756,
+        "word": "马天宇 回完你的回你的",
+        "onboard_time": 1762322000,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87911,
+        "num": 87911,
+        "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
+        "onboard_time": 1762316841,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85419,
+        "num": 85419,
+        "word": "张艺兴 我们去睡觉好吧",
+        "onboard_time": 1762313721,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84176,
+        "num": 84176,
+        "word": "猎杀游戏定档",
+        "onboard_time": 1762322781,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83633,
+        "num": 83633,
+        "word": "教育局回应家长抱婴儿值护学岗",
+        "onboard_time": 1762321820,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81382,
+        "num": 81382,
+        "word": "全运会樊振东全红婵咖啡",
+        "onboard_time": 1762322301,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

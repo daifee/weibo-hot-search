@@ -1,7 +1,15 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762321372341,
+  "endTime": 1762324760848,
   "band_list": [
+    {
+      "raw_hot": 1505297,
+      "num": 193196,
+      "word": "请6休17",
+      "onboard_time": 1762320862,
+      "rank": 18,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1273997,
       "num": 1273997,
@@ -33,6 +41,14 @@
       "onboard_time": 1762311260,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 925898,
+      "num": 184628,
+      "word": "娜扎经纪人",
+      "onboard_time": 1762321460,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 835613,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415794,
+      "num": 194133,
+      "word": "向太称子女敢去美国就捐光家产",
+      "onboard_time": 1762320800,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414096,
       "num": 247652,
       "word": "张凌赫出道前的理想是去国家电网",
@@ -267,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343009,
+      "num": 343009,
+      "word": "孙乐言主持界首个拿下奥斯卡的人",
+      "onboard_time": 1762319422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341686,
+      "num": 341686,
+      "word": "王子奇拒绝剧宣吻戏",
+      "onboard_time": 1762324040,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332604,
       "num": 165804,
       "word": "KK园区已被严重破坏",
@@ -291,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310403,
+      "num": 190729,
+      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
+      "onboard_time": 1762320622,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303203,
       "num": 200144,
       "word": "刘思涵你的校服在非洲火了",
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 299207,
-      "num": 194669,
+      "num": 215568,
       "word": "福建舰入列",
       "onboard_time": 1762317563,
       "rank": 34,
@@ -323,14 +371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 276619,
-      "num": 191930,
-      "word": "孙乐言主持界首个拿下奥斯卡的人",
-      "onboard_time": 1762319422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275934,
       "num": 114384,
       "word": "史上最相似夫妻称刚认识时并不像",
@@ -339,20 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260357,
+      "num": 166871,
+      "word": "警方通报28岁男子持刀扎伤2同事",
+      "onboard_time": 1762323861,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 258587,
       "num": 115348,
       "word": "程序员被裁后卖卤肉饭10元一盒",
       "onboard_time": 1762269081,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240711,
-      "num": 194133,
-      "word": "向太称子女敢去美国就捐光家产",
-      "onboard_time": 1762320800,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 236413,
@@ -491,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197111,
+      "num": 166214,
+      "word": "房中房中房中房中房",
+      "onboard_time": 1762321219,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194799,
       "num": 194799,
       "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
@@ -531,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191643,
+      "num": 191643,
+      "word": "谢娜王鹤棣加盟疯狂好六夜",
+      "onboard_time": 1762323321,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190873,
       "num": 190873,
       "word": "入坑迪丽热巴太容易了",
       "onboard_time": 1762317141,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190729,
-      "num": 190729,
-      "word": "陈伟霆你不是黄明昊 别喂黄景瑜",
-      "onboard_time": 1762320622,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 189445,
@@ -627,12 +675,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167955,
+      "num": 165765,
+      "word": "律师自曝取款被银行盘问报警",
+      "onboard_time": 1762322841,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167681,
       "num": 216693,
       "word": "马秋元一边开机一边杀青",
       "onboard_time": 1762316241,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167408,
+      "num": 167408,
+      "word": "爸爸当家坦然聊儿童性教育",
+      "onboard_time": 1762323560,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 166847,
@@ -683,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156729,
+      "num": 156729,
+      "word": "佛州可禁止中国人购买房产",
+      "onboard_time": 1762322781,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155986,
       "num": 155986,
       "word": "崩坏星穹铁道超话",
@@ -729,6 +801,14 @@
       "onboard_time": 1762270639,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147828,
+      "num": 147828,
+      "word": "原来小孩约会在大人眼里这么明显",
+      "onboard_time": 1762321460,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 146994,
@@ -835,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138903,
+      "num": 138903,
+      "word": "欧阳娜娜在副驾开livehouse",
+      "onboard_time": 1762323802,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138056,
       "num": 138056,
       "word": "75岁刘晓庆喊同龄影迷姥姥",
@@ -891,6 +979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125752,
+      "num": 125752,
+      "word": "雷军回应小米YU7首拆视频",
+      "onboard_time": 1762322841,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123713,
       "num": 87321,
       "word": "马思纯工作室写给马思纯的信",
@@ -931,12 +1027,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122314,
+      "num": 122314,
+      "word": "秦昊因头发长被认成女孩",
+      "onboard_time": 1762324222,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122299,
       "num": 122299,
       "word": "JackeyLove致歉",
       "onboard_time": 1762259600,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117625,
+      "num": 140450,
+      "word": "C罗婚礼计划",
+      "onboard_time": 1762323802,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 117205,
@@ -961,14 +1073,6 @@
       "onboard_time": 1762318342,
       "rank": 36,
       "category": "军事"
-    },
-    {
-      "raw_hot": 114582,
-      "num": 114582,
-      "word": "房中房中房中房中房",
-      "onboard_time": 1762321219,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 113238,
@@ -1035,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105873,
+      "num": 105873,
+      "word": "C罗说赢得世界杯不是我的梦想",
+      "onboard_time": 1762324222,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105491,
       "num": 105491,
       "word": "坚持运动1个月的身体变化",
@@ -1057,6 +1169,14 @@
       "onboard_time": 1762319961,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105161,
+      "num": 105160,
+      "word": "讨厌别人喜欢自己喜欢了很久的东西",
+      "onboard_time": 1762322781,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 105013,
@@ -1251,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91756,
+      "num": 91756,
+      "word": "马天宇 回完你的回你的",
+      "onboard_time": 1762322000,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91553,
       "num": 83620,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -1379,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84176,
+      "num": 84176,
+      "word": "猎杀游戏定档",
+      "onboard_time": 1762322781,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84020,
       "num": 84020,
       "word": "马姆达尼当选纽约市长",
@@ -1393,6 +1529,14 @@
       "onboard_time": 1762313540,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83633,
+      "num": 83633,
+      "word": "教育局回应家长抱婴儿值护学岗",
+      "onboard_time": 1762321820,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83154,
@@ -1427,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81382,
+      "num": 81382,
+      "word": "全运会樊振东全红婵咖啡",
+      "onboard_time": 1762322301,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80894,
       "num": 120071,
       "word": "台独顽固分子将被终身追责",
@@ -1441,14 +1593,6 @@
       "onboard_time": 1762268002,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80320,
-      "num": 193196,
-      "word": "请6休17",
-      "onboard_time": 1762320862,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80090,
@@ -1489,6 +1633,14 @@
       "onboard_time": 1762299259,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77025,
+      "num": 105161,
+      "word": "男子高铁请求让座被拒后怒骂畜生",
+      "onboard_time": 1762323620,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75081,
@@ -1537,6 +1689,14 @@
       "onboard_time": 1762262483,
       "rank": 46,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 68860,
+      "num": 138925,
+      "word": "尔滨冰雪狂欢要来了",
+      "onboard_time": 1762324281,
+      "rank": 29,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 68842,
@@ -1811,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26698,
+      "num": 173495,
+      "word": "翁法罗斯大结局",
+      "onboard_time": 1762322661,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26578,
       "num": 57329,
       "word": "久哲离开TTG",
@@ -1889,6 +2057,14 @@
       "onboard_time": 1762288216,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16971,
+      "num": 105168,
+      "word": "荷兰明抢安世半导体总共分几步",
+      "onboard_time": 1762323620,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14753,
