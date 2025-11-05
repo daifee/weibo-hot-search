@@ -1,0 +1,410 @@
+{
+  "runTime": 1762315165939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969592,
+        "num": 1155134,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 962950,
+        "num": 962950,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 19430,
+        "num": 634193,
+        "word": "第七届中阿广电合作论坛",
+        "onboard_time": 1762309761,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513423,
+        "num": 513423,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465748,
+        "num": 465748,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "常华森天地剑心戏份",
+        "onboard_time": 1762310480,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325840,
+        "num": 325840,
+        "word": "雀骨",
+        "onboard_time": 1762309699,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259382,
+        "num": 259382,
+        "word": "KK园区电诈人员已开始再就业",
+        "onboard_time": 1762305680,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218745,
+        "num": 218745,
+        "word": "新公务员发涉密文件炫耀被处分",
+        "onboard_time": 1762301479,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145204,
+        "num": 218407,
+        "word": "神20返回任务推迟",
+        "onboard_time": 1762308681,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643756,
+        "num": 217516,
+        "word": "金银暴涨意味着全球滞胀吗",
+        "onboard_time": 1762307121,
+        "rank": 10,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 401224,
+        "num": 216812,
+        "word": "本科生和研究生的宿舍差距",
+        "onboard_time": 1762312940,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388128,
+        "num": 216217,
+        "word": "吴镇宇刷老年卡被质疑",
+        "onboard_time": 1762299499,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227283,
+        "num": 215672,
+        "word": "张艺兴 我们去睡觉好吧",
+        "onboard_time": 1762313721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215063,
+        "num": 215063,
+        "word": "龚俊 你俩单独出去开一间吧",
+        "onboard_time": 1762311380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198992,
+        "num": 198992,
+        "word": "杨丞琳给我干哪年来了",
+        "onboard_time": 1762311620,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189445,
+        "num": 189445,
+        "word": "我妈买药vs我买药",
+        "onboard_time": 1762314442,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 174101,
+        "num": 174101,
+        "word": "家长抱婴儿在学校路边值护学岗",
+        "onboard_time": 1762312341,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127082,
+        "num": 172979,
+        "word": "赵丽颖新剧一种气血很足的美",
+        "onboard_time": 1762268360,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47226,
+        "num": 170077,
+        "word": "在沙漠看大地星河有多浪漫",
+        "onboard_time": 1762311920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537646,
+        "num": 168245,
+        "word": "全红婵并腿的权威性",
+        "onboard_time": 1762311500,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194560,
+        "num": 166553,
+        "word": "爱你的人舍不得你吃一点苦",
+        "onboard_time": 1762314500,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164288,
+        "num": 164288,
+        "word": "苏醒你对我的经济实力一无所知",
+        "onboard_time": 1762312880,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 162221,
+        "word": "张凌赫出道前的理想是去国家电网",
+        "onboard_time": 1762302621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 151316,
+        "word": "原来有酒窝的人脸部肌肉天生独特",
+        "onboard_time": 1762306099,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148880,
+        "num": 148880,
+        "word": "将门毒后女主接触章若楠",
+        "onboard_time": 1762310961,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139742,
+        "num": 139742,
+        "word": "老人临终前儿女们的欺上瞒下",
+        "onboard_time": 1762314561,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123170,
+        "num": 131804,
+        "word": "沈腾快把胡先煦玩碎了",
+        "onboard_time": 1762314622,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112003,
+        "num": 131562,
+        "word": "惊天魔盗团3官宣黄子弘凡新身份",
+        "onboard_time": 1762301421,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83154,
+        "num": 131493,
+        "word": "国台办回应中国台湾省最新卫星图像",
+        "onboard_time": 1762314321,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131436,
+        "num": 131436,
+        "word": "11月最适合躺平的星座",
+        "onboard_time": 1762312639,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125855,
+        "num": 125855,
+        "word": "刘亦菲入选亚太最具影响力青年女性",
+        "onboard_time": 1762314500,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "妈妈检查女儿书包发现诡异恐怖画",
+        "onboard_time": 1762263621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113888,
+        "num": 113888,
+        "word": "赵樱子晒因为爱情有多美聚会vlog",
+        "onboard_time": 1762303941,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112817,
+        "num": 112817,
+        "word": "纽约3岁华裔男童被撞身亡母亲发声",
+        "onboard_time": 1762309939,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105013,
+        "num": 105013,
+        "word": "侯明昊艾米雀骨杀青特辑",
+        "onboard_time": 1762313599,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103188,
+        "num": 103188,
+        "word": "新闻女王2开播",
+        "onboard_time": 1762309699,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103159,
+        "num": 103159,
+        "word": "Hang谈LPL与LCK风格差异",
+        "onboard_time": 1762314380,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80953,
+        "num": 97971,
+        "word": "迪丽热巴入选亚太最具影响力青年女性",
+        "onboard_time": 1762314500,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108686,
+        "num": 97756,
+        "word": "赵樱子想让陈晓掀头纱",
+        "onboard_time": 1762298118,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97499,
+        "num": 97499,
+        "word": "折叠屏iPhone明年亮相",
+        "onboard_time": 1762300760,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96872,
+        "num": 96872,
+        "word": "小学生的文具越来越离谱了",
+        "onboard_time": 1762314862,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 95374,
+        "word": "12306回应高铁1A座被指面壁座",
+        "onboard_time": 1762301421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94313,
+        "num": 94313,
+        "word": "鲁豫把岩中花述做到了平台第一",
+        "onboard_time": 1762314982,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "小米YU7全网首拆",
+        "onboard_time": 1762314862,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93160,
+        "num": 93160,
+        "word": "刘思涵你的校服在非洲火了",
+        "onboard_time": 1762305680,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90571,
+        "num": 90571,
+        "word": "花少7戒断期要来了",
+        "onboard_time": 1762312040,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85166,
+        "num": 85166,
+        "word": "彭小苒是我们村最好的大厨",
+        "onboard_time": 1762314920,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84020,
+        "num": 84020,
+        "word": "马姆达尼当选纽约市长",
+        "onboard_time": 1762314261,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83873,
+        "num": 83873,
+        "word": "冬天穿袜子睡觉不只暖脚",
+        "onboard_time": 1762313540,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

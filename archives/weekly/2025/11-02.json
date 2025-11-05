@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762313593502,
+  "endTime": 1762315165939,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -275,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 969592,
+      "num": 1155134,
+      "word": "神二十疑遭碎片撞击",
+      "onboard_time": 1762311260,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 915745,
       "num": 1146519,
       "word": "饿了么骑手已更换橙黑新工服",
@@ -305,14 +313,6 @@
       "onboard_time": 1762000102,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 861826,
-      "num": 861826,
-      "word": "神二十疑遭碎片撞击",
-      "onboard_time": 1762311260,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 859960,
@@ -851,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537646,
+      "num": 190498,
+      "word": "全红婵并腿的权威性",
+      "onboard_time": 1762311500,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534598,
       "num": 357859,
       "word": "警方正追查水库放生猫人员",
@@ -915,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513349,
-      "num": 190498,
-      "word": "全红婵并腿的权威性",
-      "onboard_time": 1762311500,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 513423,
+      "num": 513423,
+      "word": "第一批奶皮子糖葫芦受害者现身",
+      "onboard_time": 1762314261,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 507369,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1762170502,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401224,
+      "num": 216812,
+      "word": "本科生和研究生的宿舍差距",
+      "onboard_time": 1762312940,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 399930,
@@ -2555,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227283,
+      "num": 215672,
+      "word": "张艺兴 我们去睡觉好吧",
+      "onboard_time": 1762313721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226415,
       "num": 190830,
       "word": "杨幂VOGUE开年刊",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215063,
+      "num": 215063,
+      "word": "龚俊 你俩单独出去开一间吧",
+      "onboard_time": 1762311380,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 213786,
@@ -3003,6 +3035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198992,
+      "num": 198992,
+      "word": "杨丞琳给我干哪年来了",
+      "onboard_time": 1762311620,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198669,
       "num": 136922,
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
@@ -3024,14 +3064,6 @@
       "word": "迪丽热巴新剧路透梦回关小迪",
       "onboard_time": 1762136899,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197254,
-      "num": 197254,
-      "word": "龚俊 你俩单独出去开一间吧",
-      "onboard_time": 1762311380,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -3081,6 +3113,14 @@
       "onboard_time": 1762071800,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194560,
+      "num": 166553,
+      "word": "爱你的人舍不得你吃一点苦",
+      "onboard_time": 1762314500,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 194433,
@@ -3177,6 +3217,14 @@
       "onboard_time": 1762039758,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189445,
+      "num": 189445,
+      "word": "我妈买药vs我买药",
+      "onboard_time": 1762314442,
+      "rank": 16,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 188924,
@@ -3427,14 +3475,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 177481,
-      "num": 177481,
-      "word": "杨丞琳给我干哪年来了",
-      "onboard_time": 1762311620,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 177351,
       "num": 163314,
       "word": "他永远困在了女儿被害的雨夜",
@@ -3507,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174101,
+      "num": 174101,
+      "word": "家长抱婴儿在学校路边值护学岗",
+      "onboard_time": 1762312341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174100,
       "num": 174100,
       "word": "陈丽君荣获文华表演奖",
@@ -3537,14 +3585,6 @@
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173492,
-      "num": 152502,
-      "word": "家长抱婴儿在学校路边值护学岗",
-      "onboard_time": 1762312341,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172932,
@@ -3665,14 +3705,6 @@
       "onboard_time": 1762054460,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169813,
-      "num": 147033,
-      "word": "本科生和研究生的宿舍差距",
-      "onboard_time": 1762312940,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 169536,
@@ -3825,6 +3857,14 @@
       "onboard_time": 1762233980,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164288,
+      "num": 164288,
+      "word": "苏醒你对我的经济实力一无所知",
+      "onboard_time": 1762312880,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 164250,
@@ -4395,14 +4435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147034,
-      "num": 147034,
-      "word": "苏醒你对我的经济实力一无所知",
-      "onboard_time": 1762312880,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146994,
       "num": 152443,
       "word": "小心快递放家门口骗局",
@@ -4681,6 +4713,14 @@
       "onboard_time": 1762168283,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139742,
+      "num": 139742,
+      "word": "老人临终前儿女们的欺上瞒下",
+      "onboard_time": 1762314561,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 139508,
@@ -5395,6 +5435,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 125855,
+      "num": 125855,
+      "word": "刘亦菲入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125615,
       "num": 121925,
       "word": "学校通报女生买淀粉肠被拿走钥匙",
@@ -5521,6 +5569,14 @@
       "onboard_time": 1762219280,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123170,
+      "num": 131804,
+      "word": "沈腾快把胡先煦玩碎了",
+      "onboard_time": 1762314622,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 123048,
@@ -6827,6 +6883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105013,
+      "num": 105013,
+      "word": "侯明昊艾米雀骨杀青特辑",
+      "onboard_time": 1762313599,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104780,
       "num": 131727,
       "word": "安泰集团涨停",
@@ -7001,6 +7065,14 @@
       "onboard_time": 1762229841,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103159,
+      "num": 103159,
+      "word": "Hang谈LPL与LCK风格差异",
+      "onboard_time": 1762314380,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 103145,
@@ -7707,6 +7779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96872,
+      "num": 96872,
+      "word": "小学生的文具越来越离谱了",
+      "onboard_time": 1762314862,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96776,
       "num": 96776,
       "word": "杨瀚森再次被DNP",
@@ -7907,6 +7987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94313,
+      "num": 94313,
+      "word": "鲁豫把岩中花述做到了平台第一",
+      "onboard_time": 1762314982,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94286,
       "num": 94286,
       "word": "我国1707万人养异宠",
@@ -8017,6 +8105,14 @@
       "onboard_time": 1762164081,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 93406,
@@ -8995,6 +9091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85166,
+      "num": 85166,
+      "word": "彭小苒是我们村最好的大厨",
+      "onboard_time": 1762314920,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85129,
       "num": 85129,
       "word": "孙女回应爷爷将厨房打理的像咖啡屋",
@@ -9139,12 +9243,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84020,
+      "num": 84020,
+      "word": "马姆达尼当选纽约市长",
+      "onboard_time": 1762314261,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83946,
       "num": 91550,
       "word": "17位单身男蹄花店被宰3万多",
       "onboard_time": 1762252581,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83873,
+      "num": 83873,
+      "word": "冬天穿袜子睡觉不只暖脚",
+      "onboard_time": 1762313540,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83843,
@@ -9209,6 +9329,14 @@
       "onboard_time": 1762264402,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83154,
+      "num": 131493,
+      "word": "国台办回应中国台湾省最新卫星图像",
+      "onboard_time": 1762314321,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83134,
@@ -9409,6 +9537,14 @@
       "onboard_time": 1762158741,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 80953,
+      "num": 97971,
+      "word": "迪丽热巴入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80928,
@@ -9889,14 +10025,6 @@
       "onboard_time": 1762152802,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74247,
-      "num": 74247,
-      "word": "冬天穿袜子睡觉不只暖脚",
-      "onboard_time": 1762313540,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74246,
@@ -11548,7 +11676,7 @@
     },
     {
       "raw_hot": 26216,
-      "num": 436125,
+      "num": 634193,
       "word": "第七届中阿广电合作论坛",
       "onboard_time": 1762309761,
       "rank": 2,
