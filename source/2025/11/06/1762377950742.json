@@ -1,0 +1,410 @@
+{
+  "runTime": 1762377950742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 52432,
+        "num": 133823,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38329,
+        "num": 38329,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914,
+        "num": 37990,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24530,
+        "num": 37542,
+        "word": "将门毒后网传演员阵容",
+        "onboard_time": 1762358780,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20000,
+        "num": 37244,
+        "word": "iPhone闹钟被低估的仪式感",
+        "onboard_time": 1762370714,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16806,
+        "num": 36650,
+        "word": "户晨风恶意制造对立收割流量牟利",
+        "onboard_time": 1762359380,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 15920,
+        "num": 35823,
+        "word": "美国肯塔基州坠机事故已致9人死亡",
+        "onboard_time": 1762374733,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15377,
+        "num": 35336,
+        "word": "金店关门潮蔓延",
+        "onboard_time": 1762355541,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 14983,
+        "num": 35122,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 10768,
+        "num": 34409,
+        "word": "北京 大雾",
+        "onboard_time": 1762352362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79716,
+        "num": 33875,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76290,
+        "num": 33755,
+        "word": "王传君获奖表情",
+        "onboard_time": 1762370774,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39191,
+        "num": 33078,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32754,
+        "num": 32754,
+        "word": "苗圃 至今内娱无代餐",
+        "onboard_time": 1762353024,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26289,
+        "num": 31163,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31059,
+        "num": 31059,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23227,
+        "num": 31058,
+        "word": "丈夫病亡后妻子两天后不幸离世",
+        "onboard_time": 1762355061,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21008,
+        "num": 31053,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19280,
+        "num": 31049,
+        "word": "男子50元买狗退款遭拒摔死狗",
+        "onboard_time": 1762357160,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17540,
+        "num": 31046,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60796,
+        "num": 31040,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 31034,
+        "word": "章泽天紧跟刘强东笑容满面",
+        "onboard_time": 1762361358,
+        "rank": 21,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 21289,
+        "num": 31033,
+        "word": "黄金裔明天见",
+        "onboard_time": 1762363396,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16492,
+        "num": 31028,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15636,
+        "num": 31020,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15188,
+        "num": 31017,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14839,
+        "num": 31014,
+        "word": "男老师称涉猥亵教学动作是误会",
+        "onboard_time": 1762353502,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14745,
+        "num": 31010,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 14592,
+        "num": 31004,
+        "word": "生产日期为什么不直接写",
+        "onboard_time": 1762341741,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14294,
+        "num": 31000,
+        "word": "杨幂好像从雪见变成了夕瑶",
+        "onboard_time": 1762357520,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13942,
+        "num": 30995,
+        "word": "校方回应大二女生校内溺亡",
+        "onboard_time": 1762374373,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13863,
+        "num": 30991,
+        "word": "动物塑测试",
+        "onboard_time": 1762353502,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13493,
+        "num": 30987,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13322,
+        "num": 30983,
+        "word": "樊振东王楚钦马龙有望小组对决",
+        "onboard_time": 1762375213,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12744,
+        "num": 30978,
+        "word": "别把心力浪费在内耗上",
+        "onboard_time": 1762358181,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12460,
+        "num": 30973,
+        "word": "李维嘉杜海涛吴昕有小群",
+        "onboard_time": 1762363275,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12454,
+        "num": 30972,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11772,
+        "num": 30964,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11739,
+        "num": 30961,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11669,
+        "num": 30957,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11465,
+        "num": 30954,
+        "word": "王楚钦奔驰星愿基金公益伙伴",
+        "onboard_time": 1762361237,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10631,
+        "num": 30946,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10548,
+        "num": 30943,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10129,
+        "num": 30937,
+        "word": "左奇函猫耳帽",
+        "onboard_time": 1762358419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9971,
+        "num": 30935,
+        "word": "苏新皓和老师编了最后两个八拍",
+        "onboard_time": 1762367954,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9766,
+        "num": 30930,
+        "word": "vivoX300拍到了超级月亮",
+        "onboard_time": 1762356261,
+        "rank": 45,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 9613,
+        "num": 30924,
+        "word": "茅台拟以15亿至30亿回购股份并注销",
+        "onboard_time": 1762357220,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9475,
+        "num": 30923,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9301,
+        "num": 30918,
+        "word": "王一博为火炬传递广州站打call",
+        "onboard_time": 1762376714,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 9198,
+        "num": 30911,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}
