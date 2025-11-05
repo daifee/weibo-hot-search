@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762339605863,
+  "endTime": 1762341860199,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1331,6 +1331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 458130,
+      "num": 143179,
+      "word": "蒋欣哭了",
+      "onboard_time": 1762340661,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1762265062,
       "rank": 3,
       "category": "读书作家,剧集"
+    },
+    {
+      "raw_hot": 409618,
+      "num": 143048,
+      "word": "徐冬冬 怀孕了一定大大方方告诉大家",
+      "onboard_time": 1762339641,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 408854,
@@ -2739,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243998,
+      "num": 207023,
+      "word": "TF家族都有六代了",
+      "onboard_time": 1762338621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241826,
       "num": 258397,
       "word": "将门毒后选角101",
@@ -2793,14 +2817,6 @@
       "onboard_time": 1762156281,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237574,
-      "num": 207023,
-      "word": "TF家族都有六代了",
-      "onboard_time": 1762338621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 237070,
@@ -5011,6 +5027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 150331,
+      "num": 210402,
+      "word": "苹果回应iPhone面容解锁不用摄像头",
+      "onboard_time": 1762337962,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 149513,
       "num": 277799,
       "word": "无限暖暖",
@@ -5403,6 +5427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140861,
+      "num": 140861,
+      "word": "iPhone17会成为新的钉子户神机吗",
+      "onboard_time": 1762340122,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140635,
       "num": 173452,
       "word": "江旻憓已申请放弃加拿大护照",
@@ -5667,14 +5699,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136381,
-      "num": 210402,
-      "word": "苹果回应iPhone面容解锁不用摄像头",
-      "onboard_time": 1762337962,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136241,
       "num": 132369,
       "word": "29岁女子半年每天喝奶茶确诊糖尿病",
@@ -5729,6 +5753,14 @@
       "onboard_time": 1762231283,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134650,
+      "num": 134650,
+      "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
+      "onboard_time": 1762340601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134631,
@@ -6307,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126128,
+      "num": 123609,
+      "word": "瞒着家人复读一年成功上岸",
+      "onboard_time": 1762341322,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125877,
       "num": 125877,
       "word": "周大福珠宝涨价",
@@ -6449,6 +6489,14 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123242,
+      "num": 123242,
+      "word": "王心凌回应与吴克群绯闻",
+      "onboard_time": 1762339701,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 123235,
@@ -7305,6 +7353,14 @@
       "onboard_time": 1762052840,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "没人发现北京地铁的牙线吗",
+      "onboard_time": 1762338861,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 112265,
@@ -8315,6 +8371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102344,
+      "num": 102344,
+      "word": "骨灰盒价格",
+      "onboard_time": 1762341201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102312,
       "num": 102312,
       "word": "遭男友杀害护士生前日记曝光",
@@ -8401,6 +8465,14 @@
       "onboard_time": 1762159402,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 101792,
+      "num": 143638,
+      "word": "中国台北参与APEC政治前提",
+      "onboard_time": 1762340181,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101734,
@@ -8771,14 +8843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98558,
-      "num": 98558,
-      "word": "没人发现北京地铁的牙线吗",
-      "onboard_time": 1762338861,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98504,
       "num": 98504,
       "word": "幼儿园的童车已经进化成这样了",
@@ -8969,6 +9033,14 @@
       "onboard_time": 1762063040,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97164,
+      "num": 97164,
+      "word": "孙颖莎拽姐甜妹切换自如",
+      "onboard_time": 1762339942,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 96977,
@@ -10699,6 +10771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83105,
+      "num": 83105,
+      "word": "猜到女主惨但没猜到这么惨",
+      "onboard_time": 1762339701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83101,
       "num": 98050,
       "word": "曾辉韩雨彤公主抱",
@@ -10779,6 +10859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82514,
+      "num": 82514,
+      "word": "暗河传登顶",
+      "onboard_time": 1762341800,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82432,
       "num": 164299,
       "word": "京东直播比价贵3分也奖1万",
@@ -10825,6 +10913,14 @@
       "onboard_time": 1762152260,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82045,
+      "num": 82045,
+      "word": "切个柚子切出了赌石的感觉",
+      "onboard_time": 1762339641,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 81909,
@@ -10969,6 +11065,14 @@
       "onboard_time": 1762089202,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80380,
+      "num": 80380,
+      "word": "每个人都在拼命抢回自己的脚",
+      "onboard_time": 1762341261,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 80302,
@@ -11291,6 +11395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77087,
+      "num": 77087,
+      "word": "生产日期为什么不直接写",
+      "onboard_time": 1762341741,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77025,
       "num": 105161,
       "word": "男子高铁请求让座被拒后怒骂畜生",
@@ -11409,6 +11521,14 @@
       "onboard_time": 1762055660,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 74625,
+      "num": 141634,
+      "word": "能效王居然是奔驰纯电CLA",
+      "onboard_time": 1762340661,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 74620,
@@ -11593,6 +11713,14 @@
       "onboard_time": 1762052720,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72064,
+      "num": 110308,
+      "word": "知情人称女孩因叛逆期才说父亲偷看",
+      "onboard_time": 1762340000,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72018,
@@ -12123,6 +12251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60892,
+      "num": 124196,
+      "word": "演唱会内部票新型诈骗",
+      "onboard_time": 1762341623,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60741,
       "num": 91336,
       "word": "官方回应称明确禁止个人淘金",
@@ -12475,6 +12611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49180,
+      "num": 97466,
+      "word": "卢浮宫监控系统密码竟就是卢浮宫",
+      "onboard_time": 1762341441,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49137,
       "num": 115793,
       "word": "三变科技涨停",
@@ -12699,6 +12843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42613,
+      "num": 141104,
+      "word": "年度最大满月来了",
+      "onboard_time": 1762339942,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42423,
       "num": 57965,
       "word": "孙颖莎说继续乒乒乓乓",
@@ -12737,6 +12889,14 @@
       "onboard_time": 1762230862,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41408,
+      "num": 97798,
+      "word": "杨幂连包10场支持辛芷蕾新片",
+      "onboard_time": 1762341081,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 40907,
