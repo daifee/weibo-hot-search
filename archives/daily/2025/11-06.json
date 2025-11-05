@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762371446644,
+  "endTime": 1762374641759,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -209,6 +209,14 @@
       "onboard_time": 1762326140,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 69795,
+      "num": 30978,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 69302,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31325,
+      "num": 31325,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30632,
       "num": 30632,
       "word": "宋雨琦ins晒跑男合照",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 29499,
-      "num": 29499,
+      "num": 30400,
       "word": "苏新皓和老师编了最后两个八拍",
       "onboard_time": 1762367954,
       "rank": 14,
@@ -475,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17584,
-      "num": 21978,
-      "word": "王传君获奖表情",
-      "onboard_time": 1762370774,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 15670,
       "num": 19469,
       "word": "平替很好但我选奔驰",
@@ -492,19 +500,11 @@
     },
     {
       "raw_hot": 15472,
-      "num": 23417,
+      "num": 30437,
       "word": "张馨予 不太懂现在的新闻",
       "onboard_time": 1762343961,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14219,
-      "num": 31312,
-      "word": "iPhone闹钟被低估的仪式感",
-      "onboard_time": 1762370714,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 14039,
@@ -521,6 +521,14 @@
       "onboard_time": 1762358239,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10173,
+      "num": 30372,
+      "word": "校方回应大二女生校内溺亡",
+      "onboard_time": 1762374373,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1836,
