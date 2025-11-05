@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762328389017,
+  "endTime": 1762331783431,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -129,6 +129,14 @@
       "onboard_time": 1762084462,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1277867,
+      "num": 188210,
+      "word": "康熙",
+      "onboard_time": 1762326140,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1273997,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769325,
+      "num": 1123092,
+      "word": "央视撤档爱情没有神话",
+      "onboard_time": 1762325720,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768177,
       "num": 269172,
       "word": "吴镇宇刷老年卡被质疑",
@@ -473,6 +489,14 @@
       "onboard_time": 1762164681,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 755780,
+      "num": 181301,
+      "word": "新加坡鞭刑执行画面",
+      "onboard_time": 1762326321,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 752071,
@@ -809,6 +833,14 @@
       "onboard_time": 1762090702,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593536,
+      "num": 593536,
+      "word": "iPhone面容解锁不需要摄像头",
+      "onboard_time": 1762328239,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 590238,
@@ -1451,6 +1483,14 @@
       "category": "读书作家,剧集"
     },
     {
+      "raw_hot": 408864,
+      "num": 173489,
+      "word": "王传君 白百何",
+      "onboard_time": 1762330220,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407786,
       "num": 180768,
       "word": "原来肖战19年就有晋江式演技了",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1762081040,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382878,
+      "num": 172653,
+      "word": "成都160万元凶宅26.6万拍卖",
+      "onboard_time": 1762327521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382266,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1762185081,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 355635,
-      "num": 177383,
-      "word": "康熙",
-      "onboard_time": 1762326140,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 354803,
@@ -2243,12 +2283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288793,
-      "num": 181301,
-      "word": "新加坡鞭刑执行画面",
-      "onboard_time": 1762326321,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 290721,
+      "num": 290721,
+      "word": "樊振东王楚钦全运会男团同组",
+      "onboard_time": 1762329681,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 288488,
@@ -2297,14 +2337,6 @@
       "onboard_time": 1762317982,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283542,
-      "num": 190749,
-      "word": "央视撤档爱情没有神话",
-      "onboard_time": 1762325720,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 283157,
@@ -2587,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252868,
+      "num": 252868,
+      "word": "糖化脸和吃糖是什么关系",
+      "onboard_time": 1762326980,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251670,
       "num": 205799,
       "word": "迪丽热巴用腿刹车",
@@ -2739,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231537,
+      "num": 172235,
+      "word": "Doinb谈Uzi",
+      "onboard_time": 1762328360,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230454,
       "num": 221871,
       "word": "唐诡3好多返场老熟人",
@@ -2889,6 +2937,14 @@
       "onboard_time": 1762011862,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218494,
+      "num": 151635,
+      "word": "奚梦瑶何猷君挽手逛商场",
+      "onboard_time": 1762328480,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 218079,
@@ -3049,6 +3105,14 @@
       "onboard_time": 1762237040,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208099,
+      "num": 149694,
+      "word": "年轻人有自己的扣扣搜搜",
+      "onboard_time": 1762330881,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 207882,
@@ -3273,6 +3337,14 @@
       "onboard_time": 1762306099,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199184,
+      "num": 199184,
+      "word": "东京电影节",
+      "onboard_time": 1762328299,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 198992,
@@ -3507,6 +3579,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 188931,
+      "num": 188931,
+      "word": "中美11月10日将互降关税",
+      "onboard_time": 1762326260,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "彭小苒白开水妆",
@@ -3665,6 +3745,14 @@
       "onboard_time": 1762257501,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182078,
+      "num": 148291,
+      "word": "何小鹏首次披露物理AI巨大进展",
+      "onboard_time": 1762325181,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 181736,
@@ -3875,6 +3963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173415,
+      "num": 147657,
+      "word": "当你的朋友是老式大学生",
+      "onboard_time": 1762331481,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172932,
       "num": 172932,
       "word": "电影日掛中天",
@@ -3905,14 +4001,6 @@
       "onboard_time": 1762262841,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172235,
-      "num": 172235,
-      "word": "Doinb谈Uzi",
-      "onboard_time": 1762328360,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 172093,
@@ -4179,14 +4267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164803,
-      "num": 164803,
-      "word": "糖化脸和吃糖是什么关系",
-      "onboard_time": 1762326980,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164546,
       "num": 164546,
       "word": "欧豪把6个角色的名字挂在衣服上",
@@ -4451,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157129,
+      "num": 157129,
+      "word": "肖战下部剧进十日终焉",
+      "onboard_time": 1762330581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156770,
       "num": 156770,
       "word": "oner谈S赛对LPL连胜",
@@ -4659,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152494,
+      "num": 168133,
+      "word": "李沁给每个人都买了头巾",
+      "onboard_time": 1762328061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152291,
       "num": 152291,
       "word": "布瑞吉所有不动产都写的胡佳名字",
@@ -4859,6 +4955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147078,
+      "num": 147078,
+      "word": "张馨予把长毛的蘑菇酱吃了",
+      "onboard_time": 1762330641,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147037,
       "num": 147037,
       "word": "坠河去世姐弟俩母亲痛哭发声",
@@ -4913,6 +5017,14 @@
       "onboard_time": 1762240580,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145331,
+      "num": 145331,
+      "word": "大尺度国产剧又上新一部",
+      "onboard_time": 1762330581,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 145020,
@@ -5211,14 +5323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 139465,
-      "num": 139465,
-      "word": "何小鹏首次披露物理AI巨大进展",
-      "onboard_time": 1762325181,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 139125,
       "num": 139125,
       "word": "弦子照顾不能动的李茂两个月",
@@ -5401,6 +5505,14 @@
       "onboard_time": 1762075099,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134858,
+      "num": 134858,
+      "word": "不同的年龄段应该如何护肤",
+      "onboard_time": 1762329981,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 134749,
@@ -5867,28 +5979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127722,
-      "num": 186709,
-      "word": "中美11月10日将互降关税",
-      "onboard_time": 1762326260,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127700,
       "num": 145927,
       "word": "张艺兴KTV开超长4小时演唱会",
       "onboard_time": 1762222521,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127641,
-      "num": 127641,
-      "word": "iPhone面容解锁不需要摄像头",
-      "onboard_time": 1762328239,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 127351,
@@ -6059,14 +6155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123949,
-      "num": 123949,
-      "word": "成都160万元凶宅26.6万拍卖",
-      "onboard_time": 1762327521,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
@@ -6161,6 +6249,14 @@
       "onboard_time": 1762041079,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122820,
+      "num": 161211,
+      "word": "全运会",
+      "onboard_time": 1762051159,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 122546,
@@ -6571,6 +6667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116504,
+      "num": 169797,
+      "word": "年轻人的头发去哪了",
+      "onboard_time": 1762331241,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116349,
       "num": 116349,
       "word": "谁看了陈数这段能忍住不哭",
@@ -6777,6 +6881,14 @@
       "onboard_time": 1762171701,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113292,
+      "num": 145414,
+      "word": "小鹏将推出3款全球化Robotaxi",
+      "onboard_time": 1762331662,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 113238,
@@ -7475,14 +7587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105525,
-      "num": 168133,
-      "word": "李沁给每个人都买了头巾",
-      "onboard_time": 1762328061,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105491,
       "num": 105491,
       "word": "坚持运动1个月的身体变化",
@@ -7569,6 +7673,14 @@
       "onboard_time": 1762143802,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104463,
+      "num": 104463,
+      "word": "36岁苦练化妆1个月的变化",
+      "onboard_time": 1762331300,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 104424,
@@ -8115,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100247,
+      "num": 145369,
+      "word": "全运会乒乓球男团分组",
+      "onboard_time": 1762329321,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100182,
       "num": 100182,
       "word": "王楚钦说喜欢小动物",
@@ -8412,7 +8532,7 @@
     },
     {
       "raw_hot": 97809,
-      "num": 97809,
+      "num": 488473,
       "word": "第十五届全运会",
       "onboard_time": 1762074381,
       "rank": 45,
@@ -8579,6 +8699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95941,
+      "num": 95941,
+      "word": "吴昕以后请都按这个标准来",
+      "onboard_time": 1762328422,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95936,
       "num": 95936,
       "word": "张晚意 底色顶顶好的人",
@@ -8737,6 +8865,14 @@
       "onboard_time": 1762307121,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94392,
+      "num": 94392,
+      "word": "甲流H3N2到底有多严重",
+      "onboard_time": 1762330401,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94313,
@@ -8995,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92643,
+      "num": 106800,
+      "word": "樊振东孙颖莎汪顺高能量壁纸",
+      "onboard_time": 1762331060,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92623,
       "num": 92623,
       "word": "LPL无缘本土S赛决赛",
@@ -9009,14 +9153,6 @@
       "onboard_time": 1762312461,
       "rank": 42,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 92538,
-      "num": 92538,
-      "word": "东京电影节",
-      "onboard_time": 1762328299,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 92474,
@@ -9275,14 +9411,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 90166,
-      "num": 90166,
-      "word": "全运会",
-      "onboard_time": 1762051159,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "山东省考",
@@ -9329,6 +9457,14 @@
       "onboard_time": 1762087222,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 89834,
+      "num": 89834,
+      "word": "网传肖战ELLE2026开年刊",
+      "onboard_time": 1762330279,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89820,
@@ -10811,6 +10947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75788,
+      "num": 167503,
+      "word": "反诈中心回应银行盘问取款用途",
+      "onboard_time": 1762331421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75772,
       "num": 75772,
       "word": "异宠绝对不能放生",
@@ -11715,6 +11859,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 55686,
+      "num": 135184,
+      "word": "朱开谈T1第六冠",
+      "onboard_time": 1762331060,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55512,
       "num": 69254,
       "word": "王权富贵再次燃命",
@@ -12257,6 +12409,14 @@
       "onboard_time": 1762053200,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37562,
+      "num": 179287,
+      "word": "竞燃之夜阵容官宣第三波",
+      "onboard_time": 1762330881,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 37552,
@@ -13156,6 +13316,9 @@
     },
     {
       "word": "#让开放的春风温暖世界#"
+    },
+    {
+      "word": "#中国愿同各国一道在开放中创造机遇#"
     }
   ]
 }
