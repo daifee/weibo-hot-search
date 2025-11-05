@@ -1,0 +1,410 @@
+{
+  "runTime": 1762320439208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918156,
+        "num": 1146905,
+        "word": "第一批奶皮子糖葫芦受害者现身",
+        "onboard_time": 1762314261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571447,
+        "num": 571447,
+        "word": "网红瑞恩宝贝去世年仅3岁",
+        "onboard_time": 1762306099,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 32071,
+        "num": 395816,
+        "word": "第八届进博会",
+        "onboard_time": 1762312701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324149,
+        "num": 324149,
+        "word": "刘亦菲入选亚太最具影响力青年女性",
+        "onboard_time": 1762314500,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321418,
+        "num": 321418,
+        "word": "被中方点赞后李在明加送200盒皇南饼",
+        "onboard_time": 1762315401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411186,
+        "num": 313537,
+        "word": "神二十疑遭碎片撞击",
+        "onboard_time": 1762311260,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271217,
+        "num": 271217,
+        "word": "林尚武去世",
+        "onboard_time": 1762317982,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251984,
+        "num": 251984,
+        "word": "墨西哥女总统当街遭男子猥亵",
+        "onboard_time": 1762308260,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229004,
+        "num": 229004,
+        "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
+        "onboard_time": 1762316841,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182777,
+        "num": 182777,
+        "word": "小米YU7全网首拆",
+        "onboard_time": 1762314862,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1004091,
+        "num": 182663,
+        "word": "翁帆疑似未入职清华大学当讲师",
+        "onboard_time": 1762316181,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775494,
+        "num": 182210,
+        "word": "赵樱子听到张康乐的反应",
+        "onboard_time": 1762316421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774739,
+        "num": 181320,
+        "word": "收到了去世朋友7年前的邮件",
+        "onboard_time": 1762315821,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 508707,
+        "num": 180812,
+        "word": "老人火化后骨灰里多出4颗钢钉",
+        "onboard_time": 1762315580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321890,
+        "num": 180343,
+        "word": "女子名叫丽春多次申请改名被拒",
+        "onboard_time": 1762318461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269940,
+        "num": 179861,
+        "word": "福建舰入列",
+        "onboard_time": 1762317563,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 221900,
+        "num": 179475,
+        "word": "巧克力 孟子义嫡长狗",
+        "onboard_time": 1762317202,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199224,
+        "num": 178958,
+        "word": "吴镇宇刷老年卡被质疑",
+        "onboard_time": 1762299499,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48815,
+        "num": 178272,
+        "word": "超级满月今晚21点19分见",
+        "onboard_time": 1762319781,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112774,
+        "num": 178234,
+        "word": "骑手社保咨询处挤满保安快递员",
+        "onboard_time": 1762319061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372284,
+        "num": 177468,
+        "word": "张艺兴 我们去睡觉好吧",
+        "onboard_time": 1762313721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276619,
+        "num": 176977,
+        "word": "孙乐言主持界首个拿下奥斯卡的人",
+        "onboard_time": 1762319422,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257320,
+        "num": 176518,
+        "word": "全红婵并腿的权威性",
+        "onboard_time": 1762311500,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221898,
+        "num": 176013,
+        "word": "微信式恋爱",
+        "onboard_time": 1762315221,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 175758,
+        "num": 175758,
+        "word": "于正约吴谨言商议后续的戏",
+        "onboard_time": 1762319483,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152775,
+        "num": 152775,
+        "word": "女子穿运动内衣跑完越野胸部染色",
+        "onboard_time": 1762318702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150391,
+        "num": 150391,
+        "word": "常华森天地剑心戏份",
+        "onboard_time": 1762310480,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144424,
+        "num": 144424,
+        "word": "本科生和研究生的宿舍差距",
+        "onboard_time": 1762312940,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135515,
+        "num": 135515,
+        "word": "令人心动的offer",
+        "onboard_time": 1762316962,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134852,
+        "num": 134852,
+        "word": "张柏芝 排队都轮不到你",
+        "onboard_time": 1762318102,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134420,
+        "num": 134420,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129017,
+        "num": 129017,
+        "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
+        "onboard_time": 1762317023,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127495,
+        "num": 127495,
+        "word": "家长抱婴儿在学校路边值护学岗",
+        "onboard_time": 1762312341,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125723,
+        "num": 125723,
+        "word": "新闻女王2开局11广",
+        "onboard_time": 1762320380,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125470,
+        "num": 125470,
+        "word": "原来有酒窝的人脸部肌肉天生独特",
+        "onboard_time": 1762306099,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120943,
+        "num": 120943,
+        "word": "内娱中女含金量还在上升",
+        "onboard_time": 1762317922,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115860,
+        "num": 115860,
+        "word": "福建舰",
+        "onboard_time": 1762318342,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 76116,
+        "num": 115176,
+        "word": "国台办回应中国台湾省最新卫星图像",
+        "onboard_time": 1762314321,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42242,
+        "num": 115100,
+        "word": "石宇奇又又又换发色了",
+        "onboard_time": 1762320261,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35226,
+        "num": 115080,
+        "word": "杨瀚森翻译进教练组系误传",
+        "onboard_time": 1762319301,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115069,
+        "num": 115069,
+        "word": "金银暴涨意味着全球滞胀吗",
+        "onboard_time": 1762307121,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 113238,
+        "num": 113238,
+        "word": "Oner蒙多出装照抄Tarzan",
+        "onboard_time": 1762318702,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31641,
+        "num": 112092,
+        "word": "以前压缩饼干 现在烤鸡翅烤牛排",
+        "onboard_time": 1762319061,
+        "rank": 42,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 111992,
+        "word": "大侦探十周年闪耀大赏",
+        "onboard_time": 1762317023,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106628,
+        "num": 106628,
+        "word": "KK园区电诈人员已开始再就业",
+        "onboard_time": 1762305680,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105491,
+        "num": 105491,
+        "word": "坚持运动1个月的身体变化",
+        "onboard_time": 1762317382,
+        "rank": 45,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 105286,
+        "num": 105286,
+        "word": "龚俊不语只一味登顶",
+        "onboard_time": 1762319961,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103523,
+        "num": 103523,
+        "word": "星穹铁道动画短片",
+        "onboard_time": 1762319540,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99861,
+        "num": 99861,
+        "word": "剧本都写不出李莎旻子的临场发挥",
+        "onboard_time": 1762318281,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94307,
+        "num": 94307,
+        "word": "戚薇大侦探演唱会路透",
+        "onboard_time": 1762320380,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

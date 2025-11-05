@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762317927284,
+  "endTime": 1762320439208,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004091,
+      "num": 932870,
+      "word": "翁帆疑似未入职清华大学当讲师",
+      "onboard_time": 1762316181,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 996383,
       "num": 1159421,
       "word": "马斯克称5年后不再有手机和App",
@@ -289,14 +297,6 @@
       "onboard_time": 1762311260,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 932870,
-      "num": 932870,
-      "word": "翁帆疑似未入职清华大学当讲师",
-      "onboard_time": 1762316181,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 915745,
@@ -385,6 +385,22 @@
       "onboard_time": 1762088603,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 775494,
+      "num": 222881,
+      "word": "赵樱子听到张康乐的反应",
+      "onboard_time": 1762316421,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774739,
+      "num": 181320,
+      "word": "收到了去世朋友7年前的邮件",
+      "onboard_time": 1762315821,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 771778,
@@ -1579,6 +1595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372284,
+      "num": 245105,
+      "word": "张艺兴 我们去睡觉好吧",
+      "onboard_time": 1762313721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371214,
       "num": 159242,
       "word": "多名韩国男性在菲律宾非婚生子失联",
@@ -1691,14 +1715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 355020,
-      "num": 245105,
-      "word": "张艺兴 我们去睡觉好吧",
-      "onboard_time": 1762313721,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354803,
       "num": 168819,
       "word": "模特码 正常码",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1762173982,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 342792,
-      "num": 222881,
-      "word": "赵樱子听到张康乐的反应",
-      "onboard_time": 1762316421,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 339656,
@@ -1904,6 +1912,14 @@
       "word": "山姆改回实拍图",
       "onboard_time": 1762235960,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321890,
+      "num": 180343,
+      "word": "女子名叫丽春多次申请改名被拒",
+      "onboard_time": 1762318461,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2219,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276619,
+      "num": 176977,
+      "word": "孙乐言主持界首个拿下奥斯卡的人",
+      "onboard_time": 1762319422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275934,
       "num": 136391,
       "word": "史上最相似夫妻称刚认识时并不像",
@@ -2259,12 +2283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271217,
+      "num": 271217,
+      "word": "林尚武去世",
+      "onboard_time": 1762317982,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270276,
       "num": 183456,
       "word": "曝香港导演刘家良墓被盗",
       "onboard_time": 1762234940,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269940,
+      "num": 179861,
+      "word": "福建舰入列",
+      "onboard_time": 1762317563,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 269384,
@@ -2531,14 +2571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237680,
-      "num": 180224,
-      "word": "收到了去世朋友7年前的邮件",
-      "onboard_time": 1762315821,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 237070,
       "num": 143823,
       "word": "赵樱子曝孟子义上综艺和她有关系",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229004,
+      "num": 229004,
+      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
+      "onboard_time": 1762316841,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 228588,
@@ -2681,6 +2721,22 @@
       "onboard_time": 1762230021,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221900,
+      "num": 194796,
+      "word": "巧克力 孟子义嫡长狗",
+      "onboard_time": 1762317202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221898,
+      "num": 183269,
+      "word": "微信式恋爱",
+      "onboard_time": 1762315221,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 220717,
@@ -3115,14 +3171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198638,
-      "num": 198638,
-      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
-      "onboard_time": 1762316841,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197883,
       "num": 197883,
       "word": "崩铁",
@@ -3291,14 +3339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191463,
-      "num": 194796,
-      "word": "巧克力 孟子义嫡长狗",
-      "onboard_time": 1762317202,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191072,
       "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
@@ -3459,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183269,
-      "num": 183269,
-      "word": "微信式恋爱",
-      "onboard_time": 1762315221,
-      "rank": 43,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1762232840,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182777,
+      "num": 182777,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 182547,
@@ -3545,14 +3585,6 @@
       "onboard_time": 1762244480,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 180196,
-      "num": 180196,
-      "word": "小米YU7全网首拆",
-      "onboard_time": 1762314862,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 179968,
@@ -3624,6 +3656,14 @@
       "word": "杨紫入选2025年亚太行业先锋领袖榜单",
       "onboard_time": 1762148181,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175758,
+      "num": 175758,
+      "word": "于正约吴谨言商议后续的戏",
+      "onboard_time": 1762319483,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -3953,14 +3993,6 @@
       "onboard_time": 1762143023,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165666,
-      "num": 165666,
-      "word": "福建舰入列",
-      "onboard_time": 1762317563,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 165399,
@@ -4409,6 +4441,14 @@
       "onboard_time": 1762064961,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152775,
+      "num": 152775,
+      "word": "女子穿运动内衣跑完越野胸部染色",
+      "onboard_time": 1762318702,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152706,
@@ -5107,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134852,
+      "num": 134852,
+      "word": "张柏芝 排队都轮不到你",
+      "onboard_time": 1762318102,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134749,
       "num": 134749,
       "word": "逐梦十五运活力粤港澳",
@@ -5643,6 +5691,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 125723,
+      "num": 125723,
+      "word": "新闻女王2开局11广",
+      "onboard_time": 1762320380,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125615,
       "num": 121925,
       "word": "学校通报女生买淀粉肠被拿走钥匙",
@@ -5921,6 +5977,14 @@
       "onboard_time": 1762182203,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120943,
+      "num": 120943,
+      "word": "内娱中女含金量还在上升",
+      "onboard_time": 1762317922,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120749,
@@ -6235,6 +6299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115860,
+      "num": 115860,
+      "word": "福建舰",
+      "onboard_time": 1762318342,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 115795,
       "num": 115795,
       "word": "陈瑶 人鱼公主",
@@ -6387,6 +6459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113238,
+      "num": 113238,
+      "word": "Oner蒙多出装照抄Tarzan",
+      "onboard_time": 1762318702,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113189,
       "num": 113189,
       "word": "这居然是20岁的邓恩熙",
@@ -6441,6 +6521,14 @@
       "onboard_time": 1762263083,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112774,
+      "num": 178234,
+      "word": "骑手社保咨询处挤满保安快递员",
+      "onboard_time": 1762319061,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112683,
@@ -7043,6 +7131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105491,
+      "num": 105491,
+      "word": "坚持运动1个月的身体变化",
+      "onboard_time": 1762317382,
+      "rank": 45,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 105437,
       "num": 105437,
       "word": "不要随便给别人当伴娘",
@@ -7080,6 +7176,14 @@
       "word": "雀骨杀青",
       "onboard_time": 1762311800,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105286,
+      "num": 105286,
+      "word": "龚俊不语只一味登顶",
+      "onboard_time": 1762319961,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -7241,6 +7345,14 @@
       "onboard_time": 1762144942,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103523,
+      "num": 103523,
+      "word": "星穹铁道动画短片",
+      "onboard_time": 1762319540,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 103445,
@@ -7649,6 +7761,14 @@
       "onboard_time": 1762146981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99861,
+      "num": 99861,
+      "word": "剧本都写不出李莎旻子的临场发挥",
+      "onboard_time": 1762318281,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99839,
@@ -8217,6 +8337,14 @@
       "onboard_time": 1762314982,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94307,
+      "num": 94307,
+      "word": "戚薇大侦探演唱会路透",
+      "onboard_time": 1762320380,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 94286,
@@ -11227,6 +11355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48815,
+      "num": 178272,
+      "word": "超级满月今晚21点19分见",
+      "onboard_time": 1762319781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48398,
       "num": 95138,
       "word": "全运会乒乓球场馆9张球台",
@@ -11400,6 +11536,14 @@
       "word": "孙颖莎说继续乒乒乓乓",
       "onboard_time": 1762274957,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42242,
+      "num": 115100,
+      "word": "石宇奇又又又换发色了",
+      "onboard_time": 1762320261,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -11643,6 +11787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35226,
+      "num": 115080,
+      "word": "杨瀚森翻译进教练组系误传",
+      "onboard_time": 1762319301,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35056,
       "num": 96376,
       "word": "作业帮被指用学生跳楼出题",
@@ -11753,6 +11905,14 @@
       "onboard_time": 1762261521,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31641,
+      "num": 112092,
+      "word": "以前压缩饼干 现在烤鸡翅烤牛排",
+      "onboard_time": 1762319061,
+      "rank": 42,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 31280,
