@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762317094869,
+  "endTime": 1762317927284,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1273997,
+      "num": 1273997,
+      "word": "第一批奶皮子糖葫芦受害者现身",
+      "onboard_time": 1762314261,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1257159,
       "num": 260048,
       "word": "吴昕微信好友竟然这么少",
@@ -169,14 +177,6 @@
       "onboard_time": 1762251381,
       "rank": 15,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 1129479,
-      "num": 1180716,
-      "word": "第一批奶皮子糖葫芦受害者现身",
-      "onboard_time": 1762314261,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1087235,
@@ -289,6 +289,14 @@
       "onboard_time": 1762311260,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 932870,
+      "num": 932870,
+      "word": "翁帆疑似未入职清华大学当讲师",
+      "onboard_time": 1762316181,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 915745,
@@ -587,6 +595,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 661353,
+      "num": 247361,
+      "word": "老人火化后骨灰里多出4颗钢钉",
+      "onboard_time": 1762315580,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661093,
       "num": 374258,
       "word": "蒋欣在哪里 蒋欣在这里",
@@ -873,14 +889,6 @@
       "onboard_time": 1762311500,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534981,
-      "num": 247361,
-      "word": "老人火化后骨灰里多出4颗钢钉",
-      "onboard_time": 1762315580,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 534598,
@@ -1683,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355020,
+      "num": 245105,
+      "word": "张艺兴 我们去睡觉好吧",
+      "onboard_time": 1762313721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354803,
       "num": 168819,
       "word": "模特码 正常码",
@@ -1731,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 350434,
+      "num": 350434,
+      "word": "刘亦菲入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345619,
       "num": 345619,
       "word": "台湾省可以用高德导航了",
@@ -1763,11 +1787,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 341316,
-      "num": 245105,
-      "word": "张艺兴 我们去睡觉好吧",
-      "onboard_time": 1762313721,
-      "rank": 13,
+      "raw_hot": 342792,
+      "num": 222881,
+      "word": "赵樱子听到张康乐的反应",
+      "onboard_time": 1762316421,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1985,14 +2009,6 @@
       "onboard_time": 1762085601,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 304622,
-      "num": 304622,
-      "word": "刘亦菲入选亚太最具影响力青年女性",
-      "onboard_time": 1762314500,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 304580,
@@ -2516,7 +2532,7 @@
     },
     {
       "raw_hot": 237680,
-      "num": 167041,
+      "num": 180224,
       "word": "收到了去世朋友7年前的邮件",
       "onboard_time": 1762315821,
       "rank": 30,
@@ -2659,14 +2675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222881,
-      "num": 222881,
-      "word": "赵樱子听到张康乐的反应",
-      "onboard_time": 1762316421,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222605,
       "num": 222605,
       "word": "迪丽热巴陈星旭枭起青壤快来了",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1762300760,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219624,
-      "num": 219624,
-      "word": "翁帆疑似未入职清华大学当讲师",
-      "onboard_time": 1762316181,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219374,
@@ -2971,6 +2971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203851,
+      "num": 203851,
+      "word": "令人心动的offer",
+      "onboard_time": 1762316962,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203585,
       "num": 205348,
       "word": "1个剧组13座奖杯",
@@ -3107,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198638,
+      "num": 198638,
+      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
+      "onboard_time": 1762316841,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197883,
       "num": 197883,
       "word": "崩铁",
@@ -3120,6 +3136,14 @@
       "word": "迪丽热巴新剧路透梦回关小迪",
       "onboard_time": 1762136899,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197671,
+      "num": 197671,
+      "word": "新闻女王2",
+      "onboard_time": 1762316841,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3169,6 +3193,14 @@
       "onboard_time": 1762071800,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194799,
+      "num": 194799,
+      "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
+      "onboard_time": 1762317023,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 194560,
@@ -3259,11 +3291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191463,
+      "num": 194796,
+      "word": "巧克力 孟子义嫡长狗",
+      "onboard_time": 1762317202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191072,
       "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
       "onboard_time": 1762237761,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190873,
+      "num": 190873,
+      "word": "入坑迪丽热巴太容易了",
+      "onboard_time": 1762317141,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3411,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183269,
+      "num": 183269,
+      "word": "微信式恋爱",
+      "onboard_time": 1762315221,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -3491,6 +3547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 180196,
+      "num": 180196,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 179968,
       "num": 179968,
       "word": "姿态谈T1换上单再进决赛",
@@ -3561,14 +3625,6 @@
       "onboard_time": 1762148181,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175742,
-      "num": 175742,
-      "word": "小米YU7全网首拆",
-      "onboard_time": 1762314862,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 175698,
@@ -3771,12 +3827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169152,
+      "num": 189188,
+      "word": "疯狂好六夜阵容官宣先疯一步",
+      "onboard_time": 1762315580,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169037,
       "num": 139057,
       "word": "大学生花钱有自己的刀刃",
       "onboard_time": 1762251501,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "剑网3全新礼服涉烟尘",
+      "onboard_time": 1762317563,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 167703,
@@ -3883,6 +3955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "福建舰入列",
+      "onboard_time": 1762317563,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 165399,
       "num": 165399,
       "word": "网传唐嫣新剧撤档",
@@ -3905,6 +3985,14 @@
       "onboard_time": 1762064000,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164805,
+      "num": 164805,
+      "word": "剑网3头饰上新",
+      "onboard_time": 1762317563,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 164546,
@@ -3955,20 +4043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "贵阳对时代少年团太宠了",
+      "onboard_time": 1762317621,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163819,
       "num": 163819,
       "word": "孙铭阳卡点为孙颖莎庆生",
       "onboard_time": 1762188498,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163600,
-      "num": 175377,
-      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
-      "onboard_time": 1762316841,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 163488,
@@ -4035,14 +4123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161189,
-      "num": 175153,
-      "word": "新闻女王2",
-      "onboard_time": 1762316841,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -4081,14 +4161,6 @@
       "onboard_time": 1762315821,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159220,
-      "num": 189188,
-      "word": "疯狂好六夜阵容官宣先疯一步",
-      "onboard_time": 1762315580,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 158981,
@@ -4611,6 +4683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144586,
+      "num": 144586,
+      "word": "迪丽热巴入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144450,
       "num": 144450,
       "word": "TES落入绝境",
@@ -4659,14 +4739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 143851,
-      "num": 143851,
-      "word": "迪丽热巴入选亚太最具影响力青年女性",
-      "onboard_time": 1762314500,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143711,
       "num": 159052,
       "word": "小婴儿的核磁共振全是脑子",
@@ -4681,6 +4753,14 @@
       "onboard_time": 1762071860,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "大侦探十周年闪耀大赏",
+      "onboard_time": 1762317023,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 142736,
@@ -4721,14 +4801,6 @@
       "onboard_time": 1762096822,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141905,
-      "num": 141905,
-      "word": "令人心动的offer",
-      "onboard_time": 1762316962,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 141892,
@@ -5001,22 +5073,6 @@
       "onboard_time": 1762094242,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136056,
-      "num": 136056,
-      "word": "微信式恋爱",
-      "onboard_time": 1762315221,
-      "rank": 43,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 135946,
-      "num": 135946,
-      "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
-      "onboard_time": 1762317023,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 135823,
@@ -7667,6 +7723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99114,
+      "num": 150639,
+      "word": "于正说吴谨言有八个古装要选",
+      "onboard_time": 1762317863,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99055,
       "num": 99055,
       "word": "第一次见买奶茶送秋裤的",
@@ -8851,6 +8915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88526,
+      "num": 214372,
+      "word": "腊月二十八和除夕放假",
+      "onboard_time": 1762316121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88430,
       "num": 88430,
       "word": "被王鹤棣对视比耶",
@@ -9484,7 +9556,7 @@
     },
     {
       "raw_hot": 83154,
-      "num": 137029,
+      "num": 183989,
       "word": "国台办回应中国台湾省最新卫星图像",
       "onboard_time": 1762314321,
       "rank": 29,
@@ -9931,6 +10003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78126,
+      "num": 155921,
+      "word": "游客投诉点的馄饨上来抄手",
+      "onboard_time": 1762316901,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78111,
       "num": 78111,
       "word": "什么塑料袋啊 一系上就来钱",
@@ -10284,7 +10364,7 @@
     },
     {
       "raw_hot": 72525,
-      "num": 678193,
+      "num": 776950,
       "word": "第八届进博会",
       "onboard_time": 1762312701,
       "rank": 2,
@@ -10755,14 +10835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62019,
-      "num": 214372,
-      "word": "腊月二十八和除夕放假",
-      "onboard_time": 1762316121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61786,
       "num": 95004,
       "word": "吴宣仪提醒路人拉链没拉",
@@ -10913,6 +10985,14 @@
       "onboard_time": 1762015281,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57317,
+      "num": 247738,
+      "word": "我国停止实施部分美商品加关税措施",
+      "onboard_time": 1762316483,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57214,
@@ -11171,22 +11251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47877,
-      "num": 138603,
-      "word": "游客投诉点的馄饨上来抄手",
-      "onboard_time": 1762316901,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47663,
-      "num": 247738,
-      "word": "我国停止实施部分美商品加关税措施",
-      "onboard_time": 1762316483,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47361,
       "num": 111857,
       "word": "美方称美军机连掉两架并非巧合",
@@ -11297,6 +11361,14 @@
       "onboard_time": 1762029435,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43718,
+      "num": 153264,
+      "word": "欲结娃娃亲的发小杀害兄弟妻儿",
+      "onboard_time": 1762316662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43511,
@@ -11417,14 +11489,6 @@
       "onboard_time": 1762103957,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39878,
-      "num": 138818,
-      "word": "欲结娃娃亲的发小杀害兄弟妻儿",
-      "onboard_time": 1762316662,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39215,
@@ -11635,6 +11699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 33780,
+      "num": 180236,
+      "word": "华为见非凡郎朗聊曾经遇挫弃琴",
+      "onboard_time": 1762315401,
+      "rank": 29,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 33567,
       "num": 162922,
       "word": "志愿者称清远放生猫三成或感染猫瘟",
@@ -11681,14 +11753,6 @@
       "onboard_time": 1762261521,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31598,
-      "num": 167064,
-      "word": "华为见非凡郎朗聊曾经遇挫弃琴",
-      "onboard_time": 1762315401,
-      "rank": 29,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 31280,
@@ -12217,6 +12281,14 @@
       "onboard_time": 1762115534,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13426,
+      "num": 156067,
+      "word": "超级月亮拍摄挑战赛",
+      "onboard_time": 1762317742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13148,

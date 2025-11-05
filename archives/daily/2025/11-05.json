@@ -1,7 +1,15 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762317094869,
+  "endTime": 1762317927284,
   "band_list": [
+    {
+      "raw_hot": 1273997,
+      "num": 1273997,
+      "word": "第一批奶皮子糖葫芦受害者现身",
+      "onboard_time": 1762314261,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1229180,
       "num": 1229180,
@@ -11,20 +19,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 1129479,
-      "num": 1180716,
-      "word": "第一批奶皮子糖葫芦受害者现身",
-      "onboard_time": 1762314261,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 969592,
       "num": 1155134,
       "word": "神二十疑遭碎片撞击",
       "onboard_time": 1762311260,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 932870,
+      "num": 932870,
+      "word": "翁帆疑似未入职清华大学当讲师",
+      "onboard_time": 1762316181,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 768177,
@@ -49,6 +57,14 @@
       "onboard_time": 1762307121,
       "rank": 36,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 661353,
+      "num": 247361,
+      "word": "老人火化后骨灰里多出4颗钢钉",
+      "onboard_time": 1762315580,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640302,
@@ -89,14 +105,6 @@
       "onboard_time": 1762241541,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 534981,
-      "num": 247361,
-      "word": "老人火化后骨灰里多出4颗钢钉",
-      "onboard_time": 1762315580,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462792,
@@ -227,11 +235,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341316,
+      "raw_hot": 355020,
       "num": 245105,
       "word": "张艺兴 我们去睡觉好吧",
       "onboard_time": 1762313721,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350434,
+      "num": 350434,
+      "word": "刘亦菲入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342792,
+      "num": 222881,
+      "word": "赵樱子听到张康乐的反应",
+      "onboard_time": 1762316421,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -248,14 +272,6 @@
       "word": "原来肖战19年就有晋江式演技了",
       "onboard_time": 1762268662,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 304622,
-      "num": 304622,
-      "word": "刘亦菲入选亚太最具影响力青年女性",
-      "onboard_time": 1762314500,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 237680,
-      "num": 167041,
+      "num": 180224,
       "word": "收到了去世朋友7年前的邮件",
       "onboard_time": 1762315821,
       "rank": 30,
@@ -307,28 +323,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 222881,
-      "num": 222881,
-      "word": "赵樱子听到张康乐的反应",
-      "onboard_time": 1762316421,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220040,
       "num": 166245,
       "word": "李一桐戏份",
       "onboard_time": 1762300760,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219624,
-      "num": 219624,
-      "word": "翁帆疑似未入职清华大学当讲师",
-      "onboard_time": 1762316181,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219374,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203851,
+      "num": 203851,
+      "word": "令人心动的offer",
+      "onboard_time": 1762316962,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201861,
       "num": 201861,
       "word": "离了京阿尼谁还把我当小孩",
@@ -401,6 +409,30 @@
       "onboard_time": 1762311620,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198638,
+      "num": 198638,
+      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
+      "onboard_time": 1762316841,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197671,
+      "num": 197671,
+      "word": "新闻女王2",
+      "onboard_time": 1762316841,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194799,
+      "num": 194799,
+      "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
+      "onboard_time": 1762317023,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 194560,
@@ -435,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191463,
+      "num": 194796,
+      "word": "巧克力 孟子义嫡长狗",
+      "onboard_time": 1762317202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190873,
+      "num": 190873,
+      "word": "入坑迪丽热巴太容易了",
+      "onboard_time": 1762317141,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -459,12 +507,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183269,
+      "num": 183269,
+      "word": "微信式恋爱",
+      "onboard_time": 1762315221,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 181049,
       "num": 181049,
       "word": "2026春节放9天假",
       "onboard_time": 1762247421,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 180196,
+      "word": "小米YU7全网首拆",
+      "onboard_time": 1762314862,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 178983,
@@ -475,20 +539,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175742,
-      "num": 175742,
-      "word": "小米YU7全网首拆",
-      "onboard_time": 1762314862,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 171169,
       "num": 477404,
       "word": "欧冠联赛",
       "onboard_time": 1762295175,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169152,
+      "num": 189188,
+      "word": "疯狂好六夜阵容官宣先疯一步",
+      "onboard_time": 1762315580,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168239,
+      "num": 168239,
+      "word": "剑网3全新礼服涉烟尘",
+      "onboard_time": 1762317563,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 167681,
@@ -507,6 +579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "福建舰入列",
+      "onboard_time": 1762317563,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 164805,
+      "num": 164805,
+      "word": "剑网3头饰上新",
+      "onboard_time": 1762317563,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164288,
       "num": 164288,
       "word": "苏醒你对我的经济实力一无所知",
@@ -515,20 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163600,
-      "num": 175377,
-      "word": "龚琳娜说还欣赏前夫 鲁豫绷不住了",
-      "onboard_time": 1762316841,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161189,
-      "num": 175153,
-      "word": "新闻女王2",
-      "onboard_time": 1762316841,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "贵阳对时代少年团太宠了",
+      "onboard_time": 1762317621,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 159309,
@@ -537,14 +617,6 @@
       "onboard_time": 1762315821,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159220,
-      "num": 189188,
-      "word": "疯狂好六夜阵容官宣先疯一步",
-      "onboard_time": 1762315580,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 155986,
@@ -595,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144586,
+      "num": 144586,
+      "word": "迪丽热巴入选亚太最具影响力青年女性",
+      "onboard_time": 1762314500,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144220,
       "num": 144220,
       "word": "11月最适合躺平的星座",
@@ -619,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143851,
-      "num": 143851,
-      "word": "迪丽热巴入选亚太最具影响力青年女性",
-      "onboard_time": 1762314500,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "大侦探十周年闪耀大赏",
+      "onboard_time": 1762317023,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 142574,
@@ -633,14 +713,6 @@
       "onboard_time": 1762308140,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141905,
-      "num": 141905,
-      "word": "令人心动的offer",
-      "onboard_time": 1762316962,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 141892,
@@ -681,22 +753,6 @@
       "onboard_time": 1762312820,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136056,
-      "num": 136056,
-      "word": "微信式恋爱",
-      "onboard_time": 1762315221,
-      "rank": 43,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 135946,
-      "num": 135946,
-      "word": "周深汪苏泷宋亚轩 洗杯三兄弟全来了",
-      "onboard_time": 1762317023,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131037,
@@ -841,6 +897,14 @@
       "onboard_time": 1762314380,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99114,
+      "num": 150639,
+      "word": "于正说吴谨言有八个古装要选",
+      "onboard_time": 1762317863,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 98950,
@@ -1059,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88526,
+      "num": 214372,
+      "word": "腊月二十八和除夕放假",
+      "onboard_time": 1762316121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88109,
       "num": 88109,
       "word": "其实过得幸福花不了太多钱",
@@ -1124,7 +1196,7 @@
     },
     {
       "raw_hot": 83154,
-      "num": 137029,
+      "num": 183989,
       "word": "国台办回应中国台湾省最新卫星图像",
       "onboard_time": 1762314321,
       "rank": 29,
@@ -1195,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78126,
+      "num": 155921,
+      "word": "游客投诉点的馄饨上来抄手",
+      "onboard_time": 1762316901,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77863,
       "num": 72171,
       "word": "巴黎圣日耳曼1比2拜仁",
@@ -1220,7 +1300,7 @@
     },
     {
       "raw_hot": 72525,
-      "num": 678193,
+      "num": 776950,
       "word": "第八届进博会",
       "onboard_time": 1762312701,
       "rank": 2,
@@ -1283,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62019,
-      "num": 214372,
-      "word": "腊月二十八和除夕放假",
-      "onboard_time": 1762316121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61056,
       "num": 82017,
       "word": "杨国福外卖素菜每斤高达35.8元",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1762263022,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57317,
+      "num": 247738,
+      "word": "我国停止实施部分美商品加关税措施",
+      "onboard_time": 1762316483,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55512,
@@ -1395,22 +1475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 47877,
-      "num": 138603,
-      "word": "游客投诉点的馄饨上来抄手",
-      "onboard_time": 1762316901,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47663,
-      "num": 247738,
-      "word": "我国停止实施部分美商品加关税措施",
-      "onboard_time": 1762316483,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47553,
       "num": 81931,
       "word": "郑丽文再表态",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1762269440,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43718,
+      "num": 153264,
+      "word": "欲结娃娃亲的发小杀害兄弟妻儿",
+      "onboard_time": 1762316662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43022,
@@ -1459,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39878,
-      "num": 138818,
-      "word": "欲结娃娃亲的发小杀害兄弟妻儿",
-      "onboard_time": 1762316662,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37100,
       "num": 81864,
       "word": "孙颖莎球迷现场大喊生日快乐",
@@ -1483,8 +1547,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31598,
-      "num": 167064,
+      "raw_hot": 33780,
+      "num": 180236,
       "word": "华为见非凡郎朗聊曾经遇挫弃琴",
       "onboard_time": 1762315401,
       "rank": 29,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13426,
+      "num": 156067,
+      "word": "超级月亮拍摄挑战赛",
+      "onboard_time": 1762317742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12812,
