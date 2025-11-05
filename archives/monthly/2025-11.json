@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762370543574,
+  "endTime": 1762371446644,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -18243,6 +18243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17584,
+      "num": 21978,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17212,
       "num": 106233,
       "word": "这部剧不能让秦海璐刷到",
@@ -18321,6 +18329,14 @@
       "onboard_time": 1762201633,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14219,
+      "num": 31312,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 14039,

@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762370543574,
+  "endTime": 1762371446644,
   "band_list": [
     {
       "raw_hot": 766463,
@@ -475,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17584,
+      "num": 21978,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15670,
       "num": 19469,
       "word": "平替很好但我选奔驰",
@@ -489,6 +497,14 @@
       "onboard_time": 1762343961,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14219,
+      "num": 31312,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 14039,

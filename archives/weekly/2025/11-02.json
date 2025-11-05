@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762370543574,
+  "endTime": 1762371446644,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14579,6 +14579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17584,
+      "num": 21978,
+      "word": "王传君获奖表情",
+      "onboard_time": 1762370774,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16971,
       "num": 105168,
       "word": "荷兰明抢安世半导体总共分几步",
@@ -14641,6 +14649,14 @@
       "onboard_time": 1762201633,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14219,
+      "num": 31312,
+      "word": "iPhone闹钟被低估的仪式感",
+      "onboard_time": 1762370714,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 14039,
