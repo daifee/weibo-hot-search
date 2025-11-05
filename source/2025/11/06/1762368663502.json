@@ -1,0 +1,410 @@
+{
+  "runTime": 1762368663502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107605,
+        "num": 107605,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49030,
+        "num": 49030,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1109,
+        "num": 48470,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58574,
+        "num": 47983,
+        "word": "将门毒后网传演员阵容",
+        "onboard_time": 1762358780,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27487,
+        "num": 47188,
+        "word": "户晨风恶意制造对立收割流量牟利",
+        "onboard_time": 1762359380,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 19592,
+        "num": 46606,
+        "word": "金店关门潮蔓延",
+        "onboard_time": 1762355541,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 31388,
+        "num": 45560,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 16782,
+        "num": 44712,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12401,
+        "num": 43573,
+        "word": "北京 大雾",
+        "onboard_time": 1762352362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10480,
+        "num": 43313,
+        "word": "vivoX300拍到了超级月亮",
+        "onboard_time": 1762356261,
+        "rank": 9,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 129074,
+        "num": 41959,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69881,
+        "num": 41623,
+        "word": "苗圃 至今内娱无代餐",
+        "onboard_time": 1762353024,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41107,
+        "num": 41107,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32391,
+        "num": 32391,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29499,
+        "num": 29499,
+        "word": "苏新皓和老师编了最后两个八拍",
+        "onboard_time": 1762367954,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67615,
+        "num": 28726,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24987,
+        "num": 24987,
+        "word": "男子50元买狗退款遭拒摔死狗",
+        "onboard_time": 1762357160,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24855,
+        "num": 24855,
+        "word": "丈夫病亡后妻子两天后不幸离世",
+        "onboard_time": 1762355061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22829,
+        "num": 24850,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20783,
+        "num": 24845,
+        "word": "王传君工作室回应获奖",
+        "onboard_time": 1762355721,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 24838,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32398,
+        "num": 24831,
+        "word": "章泽天紧跟刘强东笑容满面",
+        "onboard_time": 1762361358,
+        "rank": 21,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 25297,
+        "num": 24823,
+        "word": "黄金裔明天见",
+        "onboard_time": 1762363396,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24818,
+        "num": 24818,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23311,
+        "num": 23311,
+        "word": "杨幂好像从雪见变成了夕瑶",
+        "onboard_time": 1762357520,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21503,
+        "num": 21503,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20650,
+        "num": 20650,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20340,
+        "num": 20340,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19109,
+        "num": 20273,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 15425,
+        "num": 20222,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20215,
+        "num": 20215,
+        "word": "王楚钦奔驰星愿基金公益伙伴",
+        "onboard_time": 1762361237,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19826,
+        "num": 19826,
+        "word": "李维嘉杜海涛吴昕有小群",
+        "onboard_time": 1762363275,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19583,
+        "num": 19583,
+        "word": "宋雨琦ins晒跑男合照",
+        "onboard_time": 1762366155,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19475,
+        "num": 19475,
+        "word": "动物塑测试",
+        "onboard_time": 1762353502,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 19475,
+        "word": "生产日期为什么不直接写",
+        "onboard_time": 1762341741,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18090,
+        "num": 19475,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17641,
+        "num": 19474,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17354,
+        "num": 19473,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16955,
+        "num": 19472,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13749,
+        "num": 19470,
+        "word": "茅台拟以15亿至30亿回购股份并注销",
+        "onboard_time": 1762357220,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16347,
+        "num": 19469,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16206,
+        "num": 19469,
+        "word": "八仙子团播",
+        "onboard_time": 1762350562,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15670,
+        "num": 19469,
+        "word": "平替很好但我选奔驰",
+        "onboard_time": 1762344321,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15180,
+        "num": 19468,
+        "word": "左奇函猫耳帽",
+        "onboard_time": 1762358419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15096,
+        "num": 19466,
+        "word": "男老师称涉猥亵教学动作是误会",
+        "onboard_time": 1762353502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15008,
+        "num": 19466,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14743,
+        "num": 19465,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12530,
+        "num": 19464,
+        "word": "易烊千玺在更大的舞台上见面",
+        "onboard_time": 1762358239,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9558,
+        "num": 19463,
+        "word": "超级月亮高清大图来了",
+        "onboard_time": 1762352722,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9472,
+        "num": 19463,
+        "word": "2026年国庆拼假能休17天",
+        "onboard_time": 1762363875,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网是人类的共同家园#"
+    }
+  }
+}
