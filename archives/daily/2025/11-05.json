@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762347274261,
+  "endTime": 1762348136093,
   "band_list": [
     {
       "raw_hot": 6617734,
@@ -281,6 +281,14 @@
       "onboard_time": 1762326980,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 472374,
+      "num": 179223,
+      "word": "范丞丞出国回来买到关不上后备箱了",
+      "onboard_time": 1762345101,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 462792,
@@ -579,14 +587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 281292,
-      "num": 179223,
-      "word": "范丞丞出国回来买到关不上后备箱了",
-      "onboard_time": 1762345101,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275934,
       "num": 114384,
       "word": "史上最相似夫妻称刚认识时并不像",
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210259,
+      "num": 210259,
+      "word": "Peanut晒与Faker拥抱照",
+      "onboard_time": 1762345161,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210042,
       "num": 178547,
       "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
@@ -857,14 +865,6 @@
       "onboard_time": 1762316841,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197646,
-      "num": 197646,
-      "word": "Peanut晒与Faker拥抱照",
-      "onboard_time": 1762345161,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 197111,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157258,
+      "num": 157258,
+      "word": "全世界偶遇范丞丞",
+      "onboard_time": 1762347321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156729,
       "num": 156729,
       "word": "佛州可禁止中国人购买房产",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1762308260,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154634,
+      "num": 154634,
+      "word": "温峥嵘说我很难证明我是我",
+      "onboard_time": 1762347261,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 152948,
@@ -1467,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138172,
+      "num": 138172,
+      "word": "桂纶镁回应白百何落选",
+      "onboard_time": 1762347561,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138056,
       "num": 138056,
       "word": "75岁刘晓庆喊同龄影迷姥姥",
@@ -1691,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119192,
+      "num": 119192,
+      "word": "乌军突袭库尔斯克州近2000人伤亡",
+      "onboard_time": 1762344501,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118988,
       "num": 118988,
       "word": "樊振东首轮对阵周雨",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1762326020,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "欧阳妮妮我也是第一次当妈妈",
+      "onboard_time": 1762347201,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115860,
@@ -1835,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111255,
+      "num": 111255,
+      "word": "毛利兰早期穿搭",
+      "onboard_time": 1762347921,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111173,
       "num": 177949,
       "word": "水龙吟口碑反转只用了三集",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1762325120,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108122,
-      "num": 108122,
-      "word": "乌军突袭库尔斯克州近2000人伤亡",
-      "onboard_time": 1762344501,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107592,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1762338442,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102519,
+      "num": 102519,
+      "word": "暗河传",
+      "onboard_time": 1762348101,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 101792,
@@ -2275,12 +2323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93925,
+      "num": 178956,
+      "word": "男子听信AI把自己吃成溴中毒",
+      "onboard_time": 1762346721,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93913,
       "num": 93913,
       "word": "内蒙古出现巨型大地之树",
       "onboard_time": 1762309100,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93905,
+      "num": 180553,
+      "word": "杨瀚森方回应宵夜争议",
+      "onboard_time": 1762340063,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 93763,
@@ -2411,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90587,
-      "num": 90587,
-      "word": "欧阳妮妮我也是第一次当妈妈",
-      "onboard_time": 1762347201,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90461,
       "num": 90461,
       "word": "黄金还要继续跌吗",
@@ -2513,14 +2569,6 @@
       "onboard_time": 1762316121,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88475,
-      "num": 180553,
-      "word": "杨瀚森方回应宵夜争议",
-      "onboard_time": 1762340063,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 88109,
@@ -2779,6 +2827,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77805,
+      "num": 158292,
+      "word": "固体杨枝甘露走红卖到40元1份",
+      "onboard_time": 1762347321,
+      "rank": 18,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 77410,
+      "num": 116576,
+      "word": "挖掘王橹杰的星探是个人物",
+      "onboard_time": 1762347442,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77025,
       "num": 105161,
       "word": "男子高铁请求让座被拒后怒骂畜生",
@@ -2873,6 +2937,14 @@
       "onboard_time": 1762347141,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71367,
+      "num": 138180,
+      "word": "春节调休凑9天是福利还是负担",
+      "onboard_time": 1762346662,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71100,
@@ -2977,14 +3049,6 @@
       "onboard_time": 1762259481,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62306,
-      "num": 90689,
-      "word": "春节调休凑9天是福利还是负担",
-      "onboard_time": 1762346662,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61056,
@@ -3120,14 +3184,6 @@
       "word": "脚手架垮塌遇难者父亲发声",
       "onboard_time": 1762270579,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50254,
-      "num": 178956,
-      "word": "男子听信AI把自己吃成溴中毒",
-      "onboard_time": 1762346721,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3331,6 +3387,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 30484,
+      "num": 117003,
+      "word": "助贷担保乱象调查",
+      "onboard_time": 1762347621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29693,
       "num": 132801,
       "word": "大批理工科人才要逃离韩国",
@@ -3523,7 +3587,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2909,
+      "raw_hot": 9620,
+      "num": 116240,
+      "word": "白百何没参加东京电影节闭幕式",
+      "onboard_time": 1762347502,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 4348,
       "num": 325086,
       "word": "一人一句为全运健儿加油",
       "onboard_time": 1762245502,
