@@ -1,0 +1,410 @@
+{
+  "runTime": 1762350623394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 856485,
+        "num": 1137037,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516049,
+        "num": 516049,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10014,
+        "num": 327194,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279836,
+        "num": 279836,
+        "word": "春节调休凑9天是福利还是负担",
+        "onboard_time": 1762346662,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217455,
+        "num": 217455,
+        "word": "Peanut晒与Faker拥抱照",
+        "onboard_time": 1762345161,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188370,
+        "num": 188370,
+        "word": "将门毒后选角101",
+        "onboard_time": 1762334902,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145664,
+        "num": 145664,
+        "word": "苹果回应iPhone面容解锁不用摄像头",
+        "onboard_time": 1762337962,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127515,
+        "num": 145642,
+        "word": "易烊千玺回到笨鸟乐园",
+        "onboard_time": 1762348641,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106592,
+        "num": 145368,
+        "word": "中国台北参与APEC政治前提",
+        "onboard_time": 1762340181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102063,
+        "num": 145154,
+        "word": "户晨风多平台账号被封禁",
+        "onboard_time": 1762335623,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1431905,
+        "num": 144949,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 637287,
+        "num": 144676,
+        "word": "桂纶镁回应白百何落选",
+        "onboard_time": 1762347561,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499771,
+        "num": 144382,
+        "word": "范丞丞出国回来买到关不上后备箱了",
+        "onboard_time": 1762345101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443760,
+        "num": 144174,
+        "word": "抗癌针",
+        "onboard_time": 1762325540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423543,
+        "num": 144145,
+        "word": "蒋欣哭了",
+        "onboard_time": 1762340661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382576,
+        "num": 143882,
+        "word": "男子与堂哥合谋撞死7岁儿子骗保",
+        "onboard_time": 1762348282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334791,
+        "num": 143597,
+        "word": "张馨予 不太懂现在的新闻",
+        "onboard_time": 1762343961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328950,
+        "num": 143403,
+        "word": "骨灰盒价格",
+        "onboard_time": 1762341201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303053,
+        "num": 143229,
+        "word": "新加坡91岁老人每天工作12小时",
+        "onboard_time": 1762343540,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259443,
+        "num": 143080,
+        "word": "杨紫直播造型",
+        "onboard_time": 1762342399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392600,
+        "num": 142814,
+        "word": "王传君感谢白百何",
+        "onboard_time": 1762335923,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259725,
+        "num": 142558,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244489,
+        "num": 142406,
+        "word": "王楚钦奔驰磕到了",
+        "onboard_time": 1762349062,
+        "rank": 22,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 147426,
+        "num": 142206,
+        "word": "温峥嵘说我很难证明我是我",
+        "onboard_time": 1762347261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142020,
+        "num": 142020,
+        "word": "康熙",
+        "onboard_time": 1762326140,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137433,
+        "num": 137433,
+        "word": "张艺兴说完bra就挠头了",
+        "onboard_time": 1762346240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135921,
+        "num": 135921,
+        "word": "八仙子团播",
+        "onboard_time": 1762350562,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242870,
+        "num": 134093,
+        "word": "八仙子团播迟到半小时",
+        "onboard_time": 1762348641,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131539,
+        "num": 131539,
+        "word": "央视点名柴怼怼",
+        "onboard_time": 1762348402,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 118583,
+        "num": 129013,
+        "word": "水龙吟口碑反转只用了三集",
+        "onboard_time": 1762346061,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128736,
+        "num": 128736,
+        "word": "iPhone17会成为新的钉子户神机吗",
+        "onboard_time": 1762340122,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 124087,
+        "word": "电视剧顶流演员还得是90后",
+        "onboard_time": 1762342581,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122975,
+        "num": 122975,
+        "word": "此沙是因为爱跑步才气血这么足吗",
+        "onboard_time": 1762349841,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 122050,
+        "word": "欧阳妮妮我也是第一次当妈妈",
+        "onboard_time": 1762347201,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121994,
+        "num": 121994,
+        "word": "中国海军5对4围观四国舰队演习",
+        "onboard_time": 1762345521,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 118384,
+        "word": "俞灏明端木磊把我干哪年来了",
+        "onboard_time": 1762349902,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115850,
+        "num": 115850,
+        "word": "冬天多久洗一次澡才最好",
+        "onboard_time": 1762350562,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113582,
+        "num": 113582,
+        "word": "赴山海女配参加唱歌选秀被淘汰",
+        "onboard_time": 1762350382,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78616,
+        "num": 105351,
+        "word": "女子迷上奶皮子糖葫芦吃出糖化脸",
+        "onboard_time": 1762315821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62523,
+        "num": 104435,
+        "word": "十个勤天 网友们还是太好心了",
+        "onboard_time": 1762349781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103544,
+        "num": 103544,
+        "word": "TF家族都有六代了",
+        "onboard_time": 1762338621,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58219,
+        "num": 100395,
+        "word": "买房缩水16平米业主获赔13万元",
+        "onboard_time": 1762349302,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100235,
+        "num": 100235,
+        "word": "温峥嵘 AI盗播",
+        "onboard_time": 1762350141,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98353,
+        "num": 98353,
+        "word": "分子人类学研究者评价洪康熙假说",
+        "onboard_time": 1762349722,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 75595,
+        "num": 95960,
+        "word": "水贝黄金零售价一天内大涨",
+        "onboard_time": 1762347141,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95822,
+        "num": 95822,
+        "word": "内娱女明星留子味",
+        "onboard_time": 1762346301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94093,
+        "num": 94093,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1762325300,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82789,
+        "num": 92131,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92066,
+        "num": 92066,
+        "word": "暗河传登顶",
+        "onboard_time": 1762341800,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87694,
+        "num": 87694,
+        "word": "全世界偶遇范丞丞",
+        "onboard_time": 1762347321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

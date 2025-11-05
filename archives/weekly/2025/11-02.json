@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762349901471,
+  "endTime": 1762350623394,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -771,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637287,
+      "num": 384252,
+      "word": "桂纶镁回应白百何落选",
+      "onboard_time": 1762347561,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 636655,
       "num": 284705,
       "word": "男子晒媳妇买了15双一样的勃肯鞋",
@@ -1155,6 +1163,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 499771,
+      "num": 461009,
+      "word": "范丞丞出国回来买到关不上后备箱了",
+      "onboard_time": 1762345101,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498708,
       "num": 180952,
       "word": "水库附近放生致大量猫咪落水",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1762095923,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 472374,
-      "num": 461009,
-      "word": "范丞丞出国回来买到关不上后备箱了",
-      "onboard_time": 1762345101,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 468652,
@@ -1723,20 +1731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384252,
-      "num": 384252,
-      "word": "桂纶镁回应白百何落选",
-      "onboard_time": 1762347561,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 383454,
       "num": 205791,
       "word": "朱珠英语主持",
       "onboard_time": 1762081040,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382576,
+      "num": 244318,
+      "word": "男子与堂哥合谋撞死7岁儿子骗保",
+      "onboard_time": 1762348282,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382266,
@@ -2323,6 +2331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 303053,
+      "num": 270663,
+      "word": "新加坡91岁老人每天工作12小时",
+      "onboard_time": 1762343540,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 302302,
       "num": 302302,
       "word": "广州一地发20万奖励结婚",
@@ -2515,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279836,
+      "num": 468811,
+      "word": "春节调休凑9天是福利还是负担",
+      "onboard_time": 1762346662,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278895,
       "num": 128631,
       "word": "警方通报怀化3名被拐婴儿被解救",
@@ -2569,14 +2593,6 @@
       "onboard_time": 1762139419,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270663,
-      "num": 270663,
-      "word": "新加坡91岁老人每天工作12小时",
-      "onboard_time": 1762343540,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 270276,
@@ -2689,6 +2705,14 @@
       "onboard_time": 1762075760,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259725,
+      "num": 142558,
+      "word": "吴昕微信几乎不留聊天记录",
+      "onboard_time": 1762349302,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 259607,
@@ -2827,12 +2851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244318,
-      "num": 244318,
-      "word": "男子与堂哥合谋撞死7岁儿子骗保",
-      "onboard_time": 1762348282,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 244489,
+      "num": 212476,
+      "word": "王楚钦奔驰磕到了",
+      "onboard_time": 1762349062,
+      "rank": 24,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 243998,
@@ -3147,6 +3171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217455,
+      "num": 485284,
+      "word": "Peanut晒与Faker拥抱照",
+      "onboard_time": 1762345161,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217447,
       "num": 217447,
       "word": "赵丽颖李沁或演简单的人生",
@@ -3243,14 +3275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212476,
-      "num": 212476,
-      "word": "王楚钦奔驰磕到了",
-      "onboard_time": 1762349062,
-      "rank": 24,
-      "category": "体育,汽车"
-    },
-    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1762098260,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 210259,
-      "num": 485284,
-      "word": "Peanut晒与Faker拥抱照",
-      "onboard_time": 1762345161,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 210042,
@@ -5787,6 +5803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137433,
+      "num": 137433,
+      "word": "张艺兴说完bra就挠头了",
+      "onboard_time": 1762346240,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137227,
       "num": 137227,
       "word": "女子排队礼让孕妇",
@@ -5873,6 +5897,14 @@
       "onboard_time": 1762094242,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135921,
+      "num": 135921,
+      "word": "八仙子团播",
+      "onboard_time": 1762350562,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 135823,
@@ -6155,6 +6187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131539,
+      "num": 131539,
+      "word": "央视点名柴怼怼",
+      "onboard_time": 1762348402,
+      "rank": 27,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 131240,
       "num": 184904,
       "word": "孙颖莎生日蛋糕是超级玛丽",
@@ -6227,14 +6267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130583,
-      "num": 130583,
-      "word": "吴昕微信几乎不留聊天记录",
-      "onboard_time": 1762349302,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130444,
       "num": 130444,
       "word": "有效补气血的10件小事",
@@ -6265,14 +6297,6 @@
       "onboard_time": 1762245680,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129966,
-      "num": 129966,
-      "word": "张艺兴说完bra就挠头了",
-      "onboard_time": 1762346240,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 129779,
@@ -6699,6 +6723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122975,
+      "num": 122975,
+      "word": "此沙是因为爱跑步才气血这么足吗",
+      "onboard_time": 1762349841,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "中国皮蛋海外圈粉",
@@ -6771,6 +6803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122050,
+      "num": 122050,
+      "word": "欧阳妮妮我也是第一次当妈妈",
+      "onboard_time": 1762347201,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121994,
+      "num": 121994,
+      "word": "中国海军5对4围观四国舰队演习",
+      "onboard_time": 1762345521,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121837,
       "num": 121837,
       "word": "时代少年团六周年演唱会开票时间",
@@ -6801,14 +6849,6 @@
       "onboard_time": 1762156581,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 121459,
-      "num": 127107,
-      "word": "央视点名柴怼怼",
-      "onboard_time": 1762348402,
-      "rank": 27,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 121416,
@@ -6883,14 +6923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120079,
-      "num": 120079,
-      "word": "中国海军5对4围观四国舰队演习",
-      "onboard_time": 1762345521,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120040,
       "num": 142779,
       "word": "第一次见一人表白四人心碎的",
@@ -6955,12 +6987,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118561,
-      "num": 118561,
-      "word": "欧阳妮妮我也是第一次当妈妈",
-      "onboard_time": 1762347201,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 118583,
+      "num": 177949,
+      "word": "水龙吟口碑反转只用了三集",
+      "onboard_time": 1762346061,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 118518,
@@ -6977,6 +7009,14 @@
       "onboard_time": 1762240160,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 118384,
+      "num": 118384,
+      "word": "俞灏明端木磊把我干哪年来了",
+      "onboard_time": 1762349902,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 118244,
@@ -7251,6 +7291,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 115850,
+      "num": 115850,
+      "word": "冬天多久洗一次澡才最好",
+      "onboard_time": 1762350562,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115795,
       "num": 115795,
       "word": "陈瑶 人鱼公主",
@@ -7377,6 +7425,14 @@
       "onboard_time": 1762152500,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113582,
+      "num": 113582,
+      "word": "赴山海女配参加唱歌选秀被淘汰",
+      "onboard_time": 1762350382,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 113559,
@@ -7648,14 +7704,6 @@
       "word": "李一桐的剧宣永远大大方方",
       "onboard_time": 1762011082,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 111173,
-      "num": 177949,
-      "word": "水龙吟口碑反转只用了三集",
-      "onboard_time": 1762346061,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -8091,20 +8139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106770,
-      "num": 468811,
-      "word": "春节调休凑9天是福利还是负担",
-      "onboard_time": 1762346662,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106684,
       "num": 106684,
       "word": "三亚海滩长满了俄罗斯人",
       "onboard_time": 1762091422,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106592,
+      "num": 467116,
+      "word": "中国台北参与APEC政治前提",
+      "onboard_time": 1762340181,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106487,
@@ -8715,14 +8763,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 101792,
-      "num": 467116,
-      "word": "中国台北参与APEC政治前提",
-      "onboard_time": 1762340181,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101734,
       "num": 109370,
       "word": "李一桐音感好准",
@@ -8889,6 +8929,14 @@
       "onboard_time": 1762329321,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100235,
+      "num": 100235,
+      "word": "温峥嵘 AI盗播",
+      "onboard_time": 1762350141,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 100182,
@@ -9113,6 +9161,14 @@
       "onboard_time": 1762088062,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98353,
+      "num": 98353,
+      "word": "分子人类学研究者评价洪康熙假说",
+      "onboard_time": 1762349722,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 98302,
@@ -9419,6 +9475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95822,
+      "num": 123730,
+      "word": "内娱女明星留子味",
+      "onboard_time": 1762346301,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95804,
       "num": 93887,
       "word": "杨瀚森没上场",
@@ -9489,14 +9553,6 @@
       "onboard_time": 1762147223,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95141,
-      "num": 95141,
-      "word": "分子人类学研究者评价洪康熙假说",
-      "onboard_time": 1762349722,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 94993,
@@ -10209,14 +10265,6 @@
       "onboard_time": 1762160660,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90036,
-      "num": 123730,
-      "word": "内娱女明星留子味",
-      "onboard_time": 1762346301,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 89929,
@@ -11075,14 +11123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83682,
-      "num": 83682,
-      "word": "此沙是因为爱跑步才气血这么足吗",
-      "onboard_time": 1762349841,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83484,
       "num": 121973,
       "word": "用户连麦京东直播领到iPhone17",
@@ -11184,6 +11224,14 @@
       "word": "记者向杨瀚森翻译道歉",
       "onboard_time": 1762337602,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82789,
+      "num": 92131,
+      "word": "全红婵复出或成体育界新样本",
+      "onboard_time": 1762350562,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -11843,6 +11891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75595,
+      "num": 128630,
+      "word": "水贝黄金零售价一天内大涨",
+      "onboard_time": 1762347141,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75526,
       "num": 157440,
       "word": "罗云熙小心翼翼闯了很多祸",
@@ -12081,14 +12137,6 @@
       "onboard_time": 1762298238,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 71988,
-      "num": 128630,
-      "word": "水贝黄金零售价一天内大涨",
-      "onboard_time": 1762347141,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 71444,
@@ -12563,6 +12611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62523,
+      "num": 104435,
+      "word": "十个勤天 网友们还是太好心了",
+      "onboard_time": 1762349781,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62265,
       "num": 95673,
       "word": "网红大熊猫渝可从树上跌落",
@@ -12721,6 +12777,14 @@
       "onboard_time": 1762320261,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58219,
+      "num": 100395,
+      "word": "买房缩水16平米业主获赔13万元",
+      "onboard_time": 1762349302,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58140,
@@ -12945,14 +13009,6 @@
       "onboard_time": 1762232661,
       "rank": 13,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 50465,
-      "num": 96705,
-      "word": "买房缩水16平米业主获赔13万元",
-      "onboard_time": 1762349302,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50409,
@@ -13593,14 +13649,6 @@
       "onboard_time": 1762147881,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32713,
-      "num": 96670,
-      "word": "十个勤天 网友们还是太好心了",
-      "onboard_time": 1762349781,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 32340,
