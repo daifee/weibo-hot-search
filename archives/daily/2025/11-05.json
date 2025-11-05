@@ -1,6 +1,6 @@
 {
   "startTime": 1762273946852,
-  "endTime": 1762352893904,
+  "endTime": 1762353966327,
   "band_list": [
     {
       "raw_hot": 6617734,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060572,
+      "num": 227307,
+      "word": "疑似白百何更新朋友圈",
+      "onboard_time": 1762353324,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1004091,
       "num": 932870,
       "word": "翁帆疑似未入职清华大学当讲师",
@@ -115,20 +123,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 872830,
+      "num": 384252,
+      "word": "桂纶镁回应白百何落选",
+      "onboard_time": 1762347561,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 835613,
       "num": 196442,
       "word": "收到了去世朋友7年前的邮件",
       "onboard_time": 1762315821,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 814785,
-      "num": 384252,
-      "word": "桂纶镁回应白百何落选",
-      "onboard_time": 1762347561,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 775494,
@@ -249,6 +257,14 @@
       "onboard_time": 1762322841,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547003,
+      "num": 221484,
+      "word": "被朋友的公积金余额震惊到了",
+      "onboard_time": 1762350202,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 539935,
@@ -385,14 +401,6 @@
       "onboard_time": 1762302621,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412036,
-      "num": 221484,
-      "word": "被朋友的公积金余额震惊到了",
-      "onboard_time": 1762350202,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 409618,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331682,
+      "num": 226536,
+      "word": "八仙子团播",
+      "onboard_time": 1762350562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329975,
       "num": 195373,
       "word": "女子名叫丽春多次申请改名被拒",
@@ -611,12 +627,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 297461,
-      "num": 226536,
-      "word": "八仙子团播",
-      "onboard_time": 1762350562,
+      "raw_hot": 294380,
+      "num": 220972,
+      "word": "吴昕微信几乎不留聊天记录",
+      "onboard_time": 1762349302,
       "rank": 26,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 290721,
@@ -659,14 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260565,
-      "num": 220972,
-      "word": "吴昕微信几乎不留聊天记录",
-      "onboard_time": 1762349302,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260108,
       "num": 207720,
       "word": "王格格 张凌赫是我见过最帅的男人",
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 244489,
-      "num": 212476,
+      "num": 218971,
       "word": "王楚钦奔驰磕到了",
       "onboard_time": 1762349062,
       "rank": 24,
@@ -729,6 +737,14 @@
       "onboard_time": 1762298238,
       "rank": 3,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 232166,
+      "num": 240800,
+      "word": "水龙吟口碑反转只用了三集",
+      "onboard_time": 1762346061,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 231537,
@@ -891,6 +907,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 206698,
+      "num": 206698,
+      "word": "苗圃 至今内娱无代餐",
+      "onboard_time": 1762353024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205529,
       "num": 200240,
       "word": "酷酷的滕直播",
@@ -947,14 +971,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198806,
-      "num": 240800,
-      "word": "水龙吟口碑反转只用了三集",
-      "onboard_time": 1762346061,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197671,
       "num": 197671,
       "word": "新闻女王2",
@@ -985,6 +1001,14 @@
       "onboard_time": 1762314500,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194103,
+      "num": 194103,
+      "word": "温峥嵘 AI盗播",
+      "onboard_time": 1762350141,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 194071,
@@ -1155,12 +1179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174965,
-      "num": 174965,
-      "word": "温峥嵘 AI盗播",
-      "onboard_time": 1762350141,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 175110,
+      "num": 175110,
+      "word": "女护士称给95岁大爷扎针时被摸腿",
+      "onboard_time": 1762352301,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171169,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1762316241,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167436,
+      "num": 167436,
+      "word": "好温柔的王楚钦",
+      "onboard_time": 1762352900,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 167408,
@@ -1315,14 +1347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155113,
-      "num": 152373,
-      "word": "女护士称给95岁大爷扎针时被摸腿",
-      "onboard_time": 1762352301,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154634,
       "num": 154634,
       "word": "温峥嵘说我很难证明我是我",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1762324222,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152617,
+      "num": 190452,
+      "word": "东京电影节主席回应王传君影帝争议",
+      "onboard_time": 1762353563,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 152597,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1762337962,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 149688,
+      "num": 149688,
+      "word": "潘玮柏蒋梦婕 秀完你的秀我的",
+      "onboard_time": 1762352900,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 148367,
@@ -1596,7 +1636,7 @@
     },
     {
       "raw_hot": 137773,
-      "num": 137773,
+      "num": 144127,
       "word": "电视剧顶流演员还得是90后",
       "onboard_time": 1762342581,
       "rank": 32,
@@ -1611,8 +1651,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137554,
+      "num": 188874,
+      "word": "央视点名柴怼怼",
+      "onboard_time": 1762348402,
+      "rank": 27,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 137433,
-      "num": 137433,
+      "num": 144377,
       "word": "张艺兴说完bra就挠头了",
       "onboard_time": 1762346240,
       "rank": 34,
@@ -1667,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131539,
-      "num": 154623,
-      "word": "央视点名柴怼怼",
-      "onboard_time": 1762348402,
-      "rank": 27,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 131146,
       "num": 101332,
       "word": "刘强东外卖留言板成网友花活区",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1762309939,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128567,
+      "num": 184423,
+      "word": "全红婵复出或成体育界新样本",
+      "onboard_time": 1762350562,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128566,
@@ -1828,7 +1876,7 @@
     },
     {
       "raw_hot": 121994,
-      "num": 121994,
+      "num": 144178,
       "word": "中国海军5对4围观四国舰队演习",
       "onboard_time": 1762345521,
       "rank": 40,
@@ -1852,7 +1900,7 @@
     },
     {
       "raw_hot": 118384,
-      "num": 118384,
+      "num": 144478,
       "word": "俞灏明端木磊把我干哪年来了",
       "onboard_time": 1762349902,
       "rank": 35,
@@ -1865,14 +1913,6 @@
       "onboard_time": 1762338804,
       "rank": 32,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 118030,
-      "num": 118030,
-      "word": "全红婵复出或成体育界新样本",
-      "onboard_time": 1762350562,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117849,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1762326020,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116356,
+      "num": 178364,
+      "word": "没看过鬼灭可以去看无限城吗",
+      "onboard_time": 1762353082,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 115860,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1762338861,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111944,
+      "num": 144590,
+      "word": "同年同月同日夫妻生同月同日宝宝",
+      "onboard_time": 1762350801,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111836,
@@ -2172,7 +2228,7 @@
     },
     {
       "raw_hot": 103543,
-      "num": 103543,
+      "num": 144352,
       "word": "郭俊辰找到了",
       "onboard_time": 1762351221,
       "rank": 35,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1762306099,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98539,
+      "num": 144409,
+      "word": "陈靖可今晚做梦都会笑醒吧",
+      "onboard_time": 1762353381,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 98353,
@@ -2627,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90932,
+      "num": 144282,
+      "word": "猫猫为了掩盖错误也是用尽全力了",
+      "onboard_time": 1762353262,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90812,
       "num": 90812,
       "word": "知情人回应老太太抱鸭痛哭",
@@ -2673,14 +2745,6 @@
       "onboard_time": 1762306460,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 89997,
-      "num": 89997,
-      "word": "同年同月同日夫妻生同月同日宝宝",
-      "onboard_time": 1762350801,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89929,
@@ -2795,12 +2859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86652,
+      "num": 228789,
+      "word": "超级月亮高清大图来了",
+      "onboard_time": 1762352722,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86495,
       "num": 86495,
       "word": "利物浦1比0皇马",
       "onboard_time": 1762298538,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86357,
+      "num": 144213,
+      "word": "动物塑测试",
+      "onboard_time": 1762353502,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 86228,
@@ -2908,7 +2988,7 @@
     },
     {
       "raw_hot": 82630,
-      "num": 82630,
+      "num": 144094,
       "word": "全红婵带伤备战全运会第二金",
       "onboard_time": 1762352362,
       "rank": 43,
@@ -3075,6 +3155,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 75014,
+      "num": 144513,
+      "word": "乒乓球全国冠军太难拿了",
+      "onboard_time": 1762353563,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74625,
       "num": 187209,
       "word": "能效王居然是奔驰纯电CLA",
@@ -3227,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66038,
+      "num": 222468,
+      "word": "北京 大雾",
+      "onboard_time": 1762352362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63793,
       "num": 118317,
       "word": "上海高级感螺蛳粉",
@@ -3249,14 +3345,6 @@
       "onboard_time": 1762259481,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61675,
-      "num": 154256,
-      "word": "超级月亮高清大图来了",
-      "onboard_time": 1762352722,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61056,
@@ -3587,14 +3675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34255,
-      "num": 222468,
-      "word": "北京 大雾",
-      "onboard_time": 1762352362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33780,
       "num": 180236,
       "word": "华为见非凡郎朗聊曾经遇挫弃琴",
@@ -3787,6 +3867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 11766,
+      "num": 488254,
+      "word": "一人一句为全运健儿加油",
+      "onboard_time": 1762245502,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11303,
       "num": 30607,
       "word": "秋招会工资写0到1000元医院致歉",
@@ -3809,14 +3897,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10014,
-      "num": 488254,
-      "word": "一人一句为全运健儿加油",
-      "onboard_time": 1762245502,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 9620,
