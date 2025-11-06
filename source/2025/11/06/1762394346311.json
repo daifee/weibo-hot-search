@@ -1,0 +1,410 @@
+{
+  "runTime": 1762394346311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512222,
+        "num": 1081955,
+        "word": "美FBI局长被曝用公务飞机接女友",
+        "onboard_time": 1762392139,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301264,
+        "num": 301264,
+        "word": "全红婵陈芋汐张家齐单项争冠",
+        "onboard_time": 1762389142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3987,
+        "num": 196003,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1762245502,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172057,
+        "num": 172057,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 165207,
+        "num": 165207,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "超级月亮",
+        "onboard_time": 1762336463,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123501,
+        "num": 123501,
+        "word": "将门毒后网传演员阵容",
+        "onboard_time": 1762358780,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110686,
+        "num": 123461,
+        "word": "天问一号有新发现",
+        "onboard_time": 1762390221,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95191,
+        "num": 123212,
+        "word": "美军今年第3次试射民兵3导弹",
+        "onboard_time": 1762387460,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84669,
+        "num": 123076,
+        "word": "重庆现流动的千里江山图",
+        "onboard_time": 1762393280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550870,
+        "num": 122847,
+        "word": "男子开宝马车下乡收集村民身份证信息",
+        "onboard_time": 1762389560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538612,
+        "num": 122683,
+        "word": "宋祖儿早期美高留子",
+        "onboard_time": 1762393641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446688,
+        "num": 122503,
+        "word": "曝王一博不续约乐华",
+        "onboard_time": 1762384997,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433690,
+        "num": 122388,
+        "word": "欧阳娜娜给欧阳妮妮闪送了6个沙发",
+        "onboard_time": 1762389560,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421081,
+        "num": 122140,
+        "word": "高铁上被要求让座年轻人霸气回怼",
+        "onboard_time": 1762384997,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399055,
+        "num": 121945,
+        "word": "对接确认王鹤棣出演将门毒后",
+        "onboard_time": 1762385298,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296177,
+        "num": 121765,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276557,
+        "num": 121640,
+        "word": "王传君获奖表情",
+        "onboard_time": 1762370774,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236174,
+        "num": 121368,
+        "word": "每天坚持练背4分钟的回报率",
+        "onboard_time": 1762385779,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210257,
+        "num": 121352,
+        "word": "杨紫珍珠高定",
+        "onboard_time": 1762385238,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325963,
+        "num": 121187,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208375,
+        "num": 120940,
+        "word": "将门毒后谢景行",
+        "onboard_time": 1762393099,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206290,
+        "num": 120733,
+        "word": "周震南 结婚请我商演吗",
+        "onboard_time": 1762393940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 120564,
+        "word": "苗圃 至今内娱无代餐",
+        "onboard_time": 1762353024,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192374,
+        "num": 120300,
+        "word": "原来红霉素眼膏是这么涂的",
+        "onboard_time": 1762392499,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133247,
+        "num": 120164,
+        "word": "小米通话将停服",
+        "onboard_time": 1762393400,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98302,
+        "num": 119966,
+        "word": "江苏电力回应张凌赫",
+        "onboard_time": 1762386680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62922,
+        "num": 119884,
+        "word": "全红婵十五运收官之战",
+        "onboard_time": 1762394119,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62853,
+        "num": 119666,
+        "word": "辛芷蕾回应角色每天都背斜挎包",
+        "onboard_time": 1762389741,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60003,
+        "num": 119438,
+        "word": "美国UPS坠机已致12死",
+        "onboard_time": 1762389201,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119411,
+        "num": 119411,
+        "word": "沟通能力强的人说话顺序是这样的",
+        "onboard_time": 1762389022,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111875,
+        "num": 111875,
+        "word": "欧豪马思纯内娱的be美学",
+        "onboard_time": 1762393700,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100011,
+        "num": 100011,
+        "word": "长期戴耳机的受害者出现了",
+        "onboard_time": 1762393519,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96962,
+        "num": 96962,
+        "word": "吴昕微信几乎不留聊天记录",
+        "onboard_time": 1762349302,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 91201,
+        "word": "发明烤冻土豆的人难道是天才",
+        "onboard_time": 1762389682,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87532,
+        "num": 87532,
+        "word": "胡先煦还是太懂王安宇了",
+        "onboard_time": 1762394180,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87149,
+        "num": 87149,
+        "word": "男子50元买狗退款遭拒摔死狗",
+        "onboard_time": 1762357160,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85859,
+        "num": 85859,
+        "word": "长相标标准准的小猫",
+        "onboard_time": 1762392200,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83537,
+        "num": 83537,
+        "word": "爱马仕回应蘑菇纸镇售价23000元",
+        "onboard_time": 1762389079,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 59142,
+        "num": 82993,
+        "word": "全红婵复出或成体育界新样本",
+        "onboard_time": 1762350562,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82523,
+        "num": 82523,
+        "word": "将门毒后",
+        "onboard_time": 1762385899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74390,
+        "num": 74390,
+        "word": "小猫的一生很多时间真的都在等待",
+        "onboard_time": 1762394059,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74372,
+        "num": 74372,
+        "word": "女护士称给95岁大爷扎针时被摸腿",
+        "onboard_time": 1762352301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74252,
+        "num": 74252,
+        "word": "你逢人就说你不想谈恋爱",
+        "onboard_time": 1762388842,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72694,
+        "num": 72694,
+        "word": "30斤大鱼游到岸边向钓鱼大哥讨食",
+        "onboard_time": 1762389201,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72678,
+        "num": 72678,
+        "word": "不知道朋友过生日送什么好的",
+        "onboard_time": 1762393820,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71170,
+        "num": 71170,
+        "word": "美国政府停摆时长破历史纪录",
+        "onboard_time": 1762379594,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69798,
+        "num": 69798,
+        "word": "澳门知名娱乐场英皇宫殿宣布停运",
+        "onboard_time": 1762392260,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55969,
+        "num": 69518,
+        "word": "湖人白月光赛季报销",
+        "onboard_time": 1762391062,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54445,
+        "num": 69470,
+        "word": "3天后又可以看神仙打架了",
+        "onboard_time": 1762393339,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让开放的春风温暖世界#"
+    }
+  }
+}

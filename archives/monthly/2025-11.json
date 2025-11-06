@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762385972687,
+  "endTime": 1762394346311,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1307,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 550870,
+      "num": 122847,
+      "word": "男子开宝马车下乡收集村民身份证信息",
+      "onboard_time": 1762389560,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547003,
       "num": 221484,
       "word": "被朋友的公积金余额震惊到了",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1762323861,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 538612,
+      "num": 122683,
+      "word": "宋祖儿早期美高留子",
+      "onboard_time": 1762393641,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 537646,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1761995181,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512222,
+      "num": 1081955,
+      "word": "美FBI局长被曝用公务飞机接女友",
+      "onboard_time": 1762392139,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 507369,
@@ -1556,7 +1580,7 @@
     },
     {
       "raw_hot": 494053,
-      "num": 97123,
+      "num": 122140,
       "word": "高铁上被要求让座年轻人霸气回怼",
       "onboard_time": 1762384997,
       "rank": 13,
@@ -1803,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446688,
+      "num": 122503,
+      "word": "曝王一博不续约乐华",
+      "onboard_time": 1762384997,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446536,
       "num": 304582,
       "word": "白鹿第二套",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1761987980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433690,
+      "num": 122388,
+      "word": "欧阳娜娜给欧阳妮妮闪送了6个沙发",
+      "onboard_time": 1762389560,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 429845,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 407626,
-      "num": 96068,
+      "num": 121640,
       "word": "王传君获奖表情",
       "onboard_time": 1762370774,
       "rank": 27,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1762144521,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 399055,
+      "num": 121945,
+      "word": "对接确认王鹤棣出演将门毒后",
+      "onboard_time": 1762385298,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 397058,
@@ -2955,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301264,
+      "num": 301264,
+      "word": "全红婵陈芋汐张家齐单项争冠",
+      "onboard_time": 1762389142,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300919,
       "num": 205792,
       "word": "涵艺爆料RNG和FPX退出LPL",
@@ -3049,14 +3105,6 @@
       "onboard_time": 1762329681,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290583,
-      "num": 94338,
-      "word": "曝王一博不续约乐华",
-      "onboard_time": 1762384997,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 288488,
@@ -3723,6 +3771,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236174,
+      "num": 121368,
+      "word": "每天坚持练背4分钟的回报率",
+      "onboard_time": 1762385779,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 234746,
       "num": 267546,
       "word": "药中茅台片仔癀跌破官方指导价",
@@ -4012,7 +4068,7 @@
     },
     {
       "raw_hot": 219276,
-      "num": 93901,
+      "num": 121352,
       "word": "杨紫珍珠高定",
       "onboard_time": 1762385238,
       "rank": 15,
@@ -4291,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208375,
+      "num": 120940,
+      "word": "将门毒后谢景行",
+      "onboard_time": 1762393099,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208204,
       "num": 208204,
       "word": "全红婵全运会首金后发文",
@@ -4377,6 +4441,14 @@
       "onboard_time": 1762059141,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206290,
+      "num": 120733,
+      "word": "周震南 结婚请我商演吗",
+      "onboard_time": 1762393940,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 206260,
@@ -4865,6 +4937,14 @@
       "onboard_time": 1762046539,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192374,
+      "num": 120300,
+      "word": "原来红霉素眼膏是这么涂的",
+      "onboard_time": 1762392499,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 192218,
@@ -7947,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133247,
+      "num": 120164,
+      "word": "小米通话将停服",
+      "onboard_time": 1762393400,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133104,
       "num": 133104,
       "word": "GEN回应不敌KT",
@@ -8747,6 +8835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123501,
+      "num": 146158,
+      "word": "将门毒后网传演员阵容",
+      "onboard_time": 1762358780,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123484,
       "num": 123484,
       "word": "谢娜给自己超级加辈上了",
@@ -9161,6 +9257,14 @@
       "onboard_time": 1762067480,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119411,
+      "num": 119411,
+      "word": "沟通能力强的人说话顺序是这样的",
+      "onboard_time": 1762389022,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 119192,
@@ -9587,14 +9691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115726,
-      "num": 146158,
-      "word": "将门毒后网传演员阵容",
-      "onboard_time": 1762358780,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115640,
       "num": 115640,
       "word": "孙颖莎女孩与王冠",
@@ -9971,6 +10067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111875,
+      "num": 111875,
+      "word": "欧豪马思纯内娱的be美学",
+      "onboard_time": 1762393700,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111836,
       "num": 111836,
       "word": "Shadow删博道歉",
@@ -10113,6 +10217,14 @@
       "onboard_time": 1762252762,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 110686,
+      "num": 123461,
+      "word": "天问一号有新发现",
+      "onboard_time": 1762390221,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110666,
@@ -11587,6 +11699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100011,
+      "num": 100011,
+      "word": "长期戴耳机的受害者出现了",
+      "onboard_time": 1762393519,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 99970,
       "num": 99970,
       "word": "王楚钦樊振东男单同一半区",
@@ -11881,6 +12001,14 @@
       "onboard_time": 1762084100,
       "rank": 46,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 98302,
+      "num": 119966,
+      "word": "江苏电力回应张凌赫",
+      "onboard_time": 1762386680,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 98290,
@@ -12369,6 +12497,14 @@
       "onboard_time": 1762147223,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95191,
+      "num": 123212,
+      "word": "美军今年第3次试射民兵3导弹",
+      "onboard_time": 1762387460,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95087,
@@ -12987,12 +13123,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91197,
-      "num": 91197,
-      "word": "对接确认王鹤棣出演将门毒后",
-      "onboard_time": 1762385298,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 91201,
+      "num": 91201,
+      "word": "发明烤冻土豆的人难道是天才",
+      "onboard_time": 1762389682,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 91193,
@@ -13587,6 +13723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87532,
+      "num": 87532,
+      "word": "胡先煦还是太懂王安宇了",
+      "onboard_time": 1762394180,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87514,
       "num": 87514,
       "word": "成毅这次完全是主人级别的",
@@ -13915,6 +14059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85859,
+      "num": 85859,
+      "word": "长相标标准准的小猫",
+      "onboard_time": 1762392200,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85842,
       "num": 85842,
       "word": "陈乔恩婉拒催生",
@@ -14072,6 +14224,14 @@
       "word": "央视曝光盗版剧APP",
       "onboard_time": 1761894262,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84669,
+      "num": 123076,
+      "word": "重庆现流动的千里江山图",
+      "onboard_time": 1762393280,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -14243,6 +14403,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 83537,
+      "num": 83537,
+      "word": "爱马仕回应蘑菇纸镇售价23000元",
+      "onboard_time": 1762389079,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 83484,
       "num": 121973,
       "word": "用户连麦京东直播领到iPhone17",
@@ -14387,14 +14555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82674,
-      "num": 82674,
-      "word": "每天坚持练背4分钟的回报率",
-      "onboard_time": 1762385779,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 82630,
       "num": 144094,
       "word": "全红婵带伤备战全运会第二金",
@@ -14417,6 +14577,14 @@
       "onboard_time": 1762239500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82523,
+      "num": 503703,
+      "word": "将门毒后",
+      "onboard_time": 1761920664,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 82432,
@@ -15307,6 +15475,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74390,
+      "num": 74390,
+      "word": "小猫的一生很多时间真的都在等待",
+      "onboard_time": 1762394059,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74252,
+      "num": 74252,
+      "word": "你逢人就说你不想谈恋爱",
+      "onboard_time": 1762388842,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74246,
       "num": 94339,
       "word": "全红婵回应全运会夺金",
@@ -15457,6 +15641,22 @@
       "onboard_time": 1762047259,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72694,
+      "num": 72694,
+      "word": "30斤大鱼游到岸边向钓鱼大哥讨食",
+      "onboard_time": 1762389201,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72678,
+      "num": 72678,
+      "word": "不知道朋友过生日送什么好的",
+      "onboard_time": 1762393820,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 72654,
@@ -15712,6 +15912,14 @@
       "word": "教师反击媚男指控是一次法律公开课",
       "onboard_time": 1761974001,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69798,
+      "num": 69798,
+      "word": "澳门知名娱乐场英皇宫殿宣布停运",
+      "onboard_time": 1762392260,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -16179,6 +16387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62922,
+      "num": 119884,
+      "word": "全红婵十五运收官之战",
+      "onboard_time": 1762394119,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62853,
+      "num": 119666,
+      "word": "辛芷蕾回应角色每天都背斜挎包",
+      "onboard_time": 1762389741,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62740,
       "num": 203806,
       "word": "一汽大众批发式送车100台",
@@ -16345,6 +16569,14 @@
       "onboard_time": 1762047499,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60003,
+      "num": 119438,
+      "word": "美国UPS坠机已致12死",
+      "onboard_time": 1762389201,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59963,
@@ -16555,6 +16787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55969,
+      "num": 69518,
+      "word": "湖人白月光赛季报销",
+      "onboard_time": 1762391062,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55955,
       "num": 503778,
       "word": "长沙潮宗街墙体倒塌目击者发声",
@@ -16619,14 +16859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55174,
-      "num": 503703,
-      "word": "将门毒后",
-      "onboard_time": 1761920664,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55019,
       "num": 81876,
       "word": "演员狗狗大黄上台领奖",
@@ -16657,6 +16889,14 @@
       "onboard_time": 1762006884,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54445,
+      "num": 69470,
+      "word": "3天后又可以看神仙打架了",
+      "onboard_time": 1762393339,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 54170,
