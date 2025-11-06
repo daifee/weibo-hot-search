@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762418139319,
+  "endTime": 1762418991764,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -193,6 +193,14 @@
       "onboard_time": 1762325540,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1404444,
+      "num": 250961,
+      "word": "杜华 荒谬",
+      "onboard_time": 1762417401,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1374766,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718896,
+      "num": 249666,
+      "word": "苹果喊话iPhone13和14用户换新机",
+      "onboard_time": 1762414160,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 714663,
       "num": 1114346,
       "word": "亲属想侵吞3姐妹亡父赔偿款",
@@ -841,14 +857,6 @@
       "onboard_time": 1761991281,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 706008,
-      "num": 208886,
-      "word": "苹果喊话iPhone13和14用户换新机",
-      "onboard_time": 1762414160,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 697148,
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 614588,
-      "num": 179993,
+      "num": 248000,
       "word": "张凯丽回应63岁穿黑丝",
       "onboard_time": 1762413020,
       "rank": 16,
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 551885,
-      "num": 223369,
+      "num": 235494,
       "word": "23岁女生拔掉57颗牙的体验",
       "onboard_time": 1762402523,
       "rank": 14,
@@ -1603,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508139,
+      "num": 508139,
+      "word": "朝鲜举行国葬",
+      "onboard_time": 1762416260,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 507369,
       "num": 210497,
       "word": "发完分手宣言的人结婚了",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1762052178,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 496368,
-      "num": 496368,
-      "word": "朝鲜举行国葬",
-      "onboard_time": 1762416260,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 495506,
@@ -2139,14 +2147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 421936,
-      "num": 179478,
-      "word": "杜华 荒谬",
-      "onboard_time": 1762417401,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418838,
       "num": 256580,
       "word": "钱天一王昶秀恩爱",
@@ -2161,6 +2161,14 @@
       "onboard_time": 1762270702,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417356,
+      "num": 417356,
+      "word": "央视曝光假冒艺人直播",
+      "onboard_time": 1762413802,
+      "rank": 43,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 416933,
@@ -2497,14 +2505,6 @@
       "onboard_time": 1762134680,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 375559,
-      "num": 375559,
-      "word": "央视曝光假冒艺人直播",
-      "onboard_time": 1762413802,
-      "rank": 43,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 374128,
@@ -2995,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319131,
+      "num": 319131,
+      "word": "曝HLE曾想签下Bin",
+      "onboard_time": 1762416620,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319101,
       "num": 504231,
       "word": "为父母补缴社保用光了购房首付",
@@ -3315,14 +3323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293127,
-      "num": 178601,
-      "word": "曝HLE曾想签下Bin",
-      "onboard_time": 1762416620,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 290721,
       "num": 335227,
       "word": "樊振东王楚钦全运会男团同组",
@@ -3340,7 +3340,7 @@
     },
     {
       "raw_hot": 288595,
-      "num": 177316,
+      "num": 239190,
       "word": "公园摆3个尿桶供人露天小便",
       "onboard_time": 1762412360,
       "rank": 23,
@@ -3875,6 +3875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247700,
+      "num": 247700,
+      "word": "官方通报网传副院长出轨眼科主任",
+      "onboard_time": 1762417342,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 247319,
       "num": 247319,
       "word": "Rita评论席举起LPL战旗",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1762401322,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223512,
+      "num": 223512,
+      "word": "乐华回应60%营收靠王一博",
+      "onboard_time": 1762417761,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 223032,
@@ -4971,6 +4987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201827,
+      "num": 169352,
+      "word": "乐华回应王一博到期不续约",
+      "onboard_time": 1762418723,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201636,
       "num": 189175,
       "word": "月亮",
@@ -5395,6 +5419,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 189061,
+      "num": 189061,
+      "word": "祖某某曾某生活作风问题基本属实",
+      "onboard_time": 1762417882,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188931,
       "num": 191813,
       "word": "中美11月10日将互降关税",
@@ -5652,7 +5684,7 @@
     },
     {
       "raw_hot": 182735,
-      "num": 182735,
+      "num": 252045,
       "word": "陈梦回应为何参加全运会",
       "onboard_time": 1762413081,
       "rank": 28,
@@ -6947,6 +6979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155299,
+      "num": 155299,
+      "word": "易烊千玺回应一人演五角",
+      "onboard_time": 1762418723,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155243,
       "num": 145965,
       "word": "一周晒一次被子",
@@ -7836,7 +7876,7 @@
     },
     {
       "raw_hot": 142319,
-      "num": 142319,
+      "num": 173504,
       "word": "王楚钦出征全运会",
       "onboard_time": 1762417401,
       "rank": 18,
@@ -7849,6 +7889,14 @@
       "onboard_time": 1762096822,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141920,
+      "num": 119403,
+      "word": "水泥寿命只有50年",
+      "onboard_time": 1762418420,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141892,
@@ -8459,14 +8507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134868,
-      "num": 134868,
-      "word": "乐华回应60%营收靠王一博",
-      "onboard_time": 1762417761,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134858,
       "num": 134858,
       "word": "不同的年龄段应该如何护肤",
@@ -9033,6 +9073,14 @@
       "onboard_time": 1762002742,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128779,
+      "num": 128779,
+      "word": "尚雯婕谈华晨宇来时路",
+      "onboard_time": 1762418661,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 128733,
@@ -9947,6 +9995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119734,
+      "num": 119734,
+      "word": "蒋欣回应瘦了二十斤",
+      "onboard_time": 1762416440,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119724,
       "num": 119724,
       "word": "你只需要学4小时",
@@ -10185,6 +10241,14 @@
       "onboard_time": 1762323802,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "菲律宾",
+      "onboard_time": 1762417701,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117581,
@@ -10585,6 +10649,14 @@
       "onboard_time": 1761973280,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113310,
+      "num": 113310,
+      "word": "欧盟称向中方提交2000份稀土申请",
+      "onboard_time": 1762416500,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113307,
@@ -11028,7 +11100,7 @@
     },
     {
       "raw_hot": 109964,
-      "num": 111022,
+      "num": 122231,
       "word": "全红婵成名一跳",
       "onboard_time": 1762413921,
       "rank": 46,
@@ -11073,14 +11145,6 @@
       "onboard_time": 1762265963,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109630,
-      "num": 109630,
-      "word": "欧盟称向中方提交2000份稀土申请",
-      "onboard_time": 1762416500,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109576,
@@ -11145,14 +11209,6 @@
       "onboard_time": 1762325120,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109175,
-      "num": 109175,
-      "word": "祖某某曾某生活作风问题基本属实",
-      "onboard_time": 1762417882,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109164,
@@ -11505,6 +11561,14 @@
       "onboard_time": 1762000701,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106705,
+      "num": 106705,
+      "word": "明天立冬苹果水安排",
+      "onboard_time": 1762415600,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 106684,
@@ -11897,14 +11961,6 @@
       "onboard_time": 1762250002,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103739,
-      "num": 103739,
-      "word": "蒋欣回应瘦了二十斤",
-      "onboard_time": 1762416440,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 103727,
@@ -13267,14 +13323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96060,
-      "num": 94487,
-      "word": "菲律宾",
-      "onboard_time": 1762417701,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95941,
       "num": 95941,
       "word": "吴昕以后请都按这个标准来",
@@ -13505,14 +13553,6 @@
       "onboard_time": 1762334962,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94527,
-      "num": 94527,
-      "word": "明天立冬苹果水安排",
-      "onboard_time": 1762415600,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 94517,
@@ -14219,6 +14259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90710,
+      "num": 90710,
+      "word": "低端影视闭站",
+      "onboard_time": 1762418781,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90697,
       "num": 90697,
       "word": "孟子义龚俊张凌赫 百灵鸟开会",
@@ -14513,6 +14561,14 @@
       "onboard_time": 1762131201,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89162,
+      "num": 89162,
+      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
+      "onboard_time": 1762416021,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89145,
@@ -15051,6 +15107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86429,
+      "num": 95027,
+      "word": "化妆师给卢昱晓拍的ccd",
+      "onboard_time": 1762417701,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86418,
       "num": 86418,
       "word": "21岁小伙200个深蹲后肌肉溶解了",
@@ -15235,6 +15299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85495,
+      "num": 85495,
+      "word": "iPhoneAir2或新增1颗镜头",
+      "onboard_time": 1762418960,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85432,
       "num": 180521,
       "word": "厄敌的钻石",
@@ -15291,14 +15363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 84975,
-      "num": 84975,
-      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
-      "onboard_time": 1762416021,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84956,
       "num": 84956,
       "word": "国际奥委会为孙颖莎庆生",
@@ -15345,6 +15409,14 @@
       "onboard_time": 1762063821,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84824,
+      "num": 84824,
+      "word": "纽约市长vs伦敦市长",
+      "onboard_time": 1762417220,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84691,
@@ -16883,14 +16955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72868,
-      "num": 141874,
-      "word": "官方通报网传副院长出轨眼科主任",
-      "onboard_time": 1762417342,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 72853,
       "num": 80772,
       "word": "停车月付最高750元遭业主吐槽",
@@ -17995,6 +18059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59264,
+      "num": 121016,
+      "word": "有哪些男性习惯了的隐痛",
+      "onboard_time": 1762417041,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58986,
       "num": 105543,
       "word": "李宏毅谈长剧和短剧的区别",
@@ -18259,6 +18331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55187,
+      "num": 91071,
+      "word": "孙颖莎李雅可激烈开练",
+      "onboard_time": 1762418901,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55019,
       "num": 81876,
       "word": "演员狗狗大黄上台领奖",
@@ -18441,14 +18521,6 @@
       "onboard_time": 1762400301,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 51159,
-      "num": 111774,
-      "word": "有哪些男性习惯了的隐痛",
-      "onboard_time": 1762417041,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50955,
@@ -19091,6 +19163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38530,
+      "num": 91342,
+      "word": "竞燃之夜阵容官宣第四波",
+      "onboard_time": 1762418901,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38287,
       "num": 98092,
       "word": "让人舒服的沟通有7个技巧",
@@ -19243,14 +19323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35181,
-      "num": 95027,
-      "word": "化妆师给卢昱晓拍的ccd",
-      "onboard_time": 1762417701,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35167,
       "num": 110036,
       "word": "张予曦也被班味腌入味了",
@@ -19281,6 +19353,14 @@
       "onboard_time": 1761918022,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34941,
+      "num": 91071,
+      "word": "邱贻可方博聊着聊着又杠上了",
+      "onboard_time": 1762418541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 34734,

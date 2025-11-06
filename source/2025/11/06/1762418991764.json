@@ -1,0 +1,410 @@
+{
+  "runTime": 1762418991764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726860,
+        "num": 1116297,
+        "word": "孙东旭从东方甄选离职",
+        "onboard_time": 1762414999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508139,
+        "num": 508139,
+        "word": "朝鲜举行国葬",
+        "onboard_time": 1762416260,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19860,
+        "num": 490853,
+        "word": "一起看全运会",
+        "onboard_time": 1762397960,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478483,
+        "num": 478483,
+        "word": "中国首例冷冻人8年后怎么样了",
+        "onboard_time": 1762408461,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428598,
+        "num": 428598,
+        "word": "将门毒后沈娇娇才是主角",
+        "onboard_time": 1762405162,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417356,
+        "num": 417356,
+        "word": "央视曝光假冒艺人直播",
+        "onboard_time": 1762413802,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 319131,
+        "num": 319131,
+        "word": "曝HLE曾想签下Bin",
+        "onboard_time": 1762416620,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 311591,
+        "num": 311591,
+        "word": "没认出这是易烊千玺",
+        "onboard_time": 1762400241,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252175,
+        "num": 252175,
+        "word": "台湾 投诚APP",
+        "onboard_time": 1762398138,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170801,
+        "num": 252045,
+        "word": "陈梦回应为何参加全运会",
+        "onboard_time": 1762413081,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1404444,
+        "num": 250961,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718896,
+        "num": 249666,
+        "word": "苹果喊话iPhone13和14用户换新机",
+        "onboard_time": 1762414160,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 501586,
+        "num": 248000,
+        "word": "张凯丽回应63岁穿黑丝",
+        "onboard_time": 1762413020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247700,
+        "num": 247700,
+        "word": "官方通报网传副院长出轨眼科主任",
+        "onboard_time": 1762417342,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 239190,
+        "num": 239190,
+        "word": "公园摆3个尿桶供人露天小便",
+        "onboard_time": 1762412360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235494,
+        "num": 235494,
+        "word": "23岁女生拔掉57颗牙的体验",
+        "onboard_time": 1762402523,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223512,
+        "num": 223512,
+        "word": "乐华回应60%营收靠王一博",
+        "onboard_time": 1762417761,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189061,
+        "num": 189061,
+        "word": "祖某某曾某生活作风问题基本属实",
+        "onboard_time": 1762417882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185777,
+        "num": 185777,
+        "word": "乐华娱乐大跌",
+        "onboard_time": 1762406360,
+        "rank": 18,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 126871,
+        "num": 173504,
+        "word": "王楚钦出征全运会",
+        "onboard_time": 1762417401,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173243,
+        "num": 173243,
+        "word": "新闻女王太敢说了",
+        "onboard_time": 1762415899,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201827,
+        "num": 169352,
+        "word": "乐华回应王一博到期不续约",
+        "onboard_time": 1762418723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 155299,
+        "word": "易烊千玺回应一人演五角",
+        "onboard_time": 1762418723,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140980,
+        "num": 140980,
+        "word": "降低体脂率最快的10个方法",
+        "onboard_time": 1762410801,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 128779,
+        "word": "尚雯婕谈华晨宇来时路",
+        "onboard_time": 1762418661,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123080,
+        "num": 123080,
+        "word": "张艺兴直接吃掉在手机上的生肉",
+        "onboard_time": 1762403481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106194,
+        "num": 122342,
+        "word": "专家称康熙是洪承畴儿子系无稽之谈",
+        "onboard_time": 1762410321,
+        "rank": 26,
+        "category": "议题讨论,科学科普"
+      },
+      {
+        "raw_hot": 96962,
+        "num": 122231,
+        "word": "全红婵成名一跳",
+        "onboard_time": 1762413921,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59264,
+        "num": 121016,
+        "word": "有哪些男性习惯了的隐痛",
+        "onboard_time": 1762417041,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87696,
+        "num": 120199,
+        "word": "王一菲致歉",
+        "onboard_time": 1762412901,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 119734,
+        "word": "蒋欣回应瘦了二十斤",
+        "onboard_time": 1762416440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141920,
+        "num": 119403,
+        "word": "水泥寿命只有50年",
+        "onboard_time": 1762418420,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117601,
+        "num": 117601,
+        "word": "菲律宾",
+        "onboard_time": 1762417701,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113310,
+        "num": 113310,
+        "word": "欧盟称向中方提交2000份稀土申请",
+        "onboard_time": 1762416500,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106705,
+        "num": 106705,
+        "word": "明天立冬苹果水安排",
+        "onboard_time": 1762415600,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92298,
+        "num": 92298,
+        "word": "全红婵复出夺冠全网都在心疼",
+        "onboard_time": 1762414040,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38530,
+        "num": 91342,
+        "word": "竞燃之夜阵容官宣第四波",
+        "onboard_time": 1762418901,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91081,
+        "num": 91081,
+        "word": "Doggo说T1下路世界第一",
+        "onboard_time": 1762416620,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34941,
+        "num": 91071,
+        "word": "邱贻可方博聊着聊着又杠上了",
+        "onboard_time": 1762418541,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55187,
+        "num": 91071,
+        "word": "孙颖莎李雅可激烈开练",
+        "onboard_time": 1762418901,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89385,
+        "num": 91071,
+        "word": "高标准建设海南自贸港",
+        "onboard_time": 1762417641,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91071,
+        "num": 91070,
+        "word": "抑郁症和焦虑症的区别",
+        "onboard_time": 1762411461,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90710,
+        "num": 90710,
+        "word": "低端影视闭站",
+        "onboard_time": 1762418781,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89318,
+        "num": 89318,
+        "word": "第一次见能打快板的手机",
+        "onboard_time": 1762415722,
+        "rank": 43,
+        "category": "数码,幽默"
+      },
+      {
+        "raw_hot": 86429,
+        "num": 89208,
+        "word": "化妆师给卢昱晓拍的ccd",
+        "onboard_time": 1762417701,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89162,
+        "num": 89162,
+        "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
+        "onboard_time": 1762416021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87179,
+        "num": 87179,
+        "word": "将门毒后原著粉",
+        "onboard_time": 1762412780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85495,
+        "num": 85495,
+        "word": "iPhoneAir2或新增1颗镜头",
+        "onboard_time": 1762418960,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84824,
+        "num": 84824,
+        "word": "纽约市长vs伦敦市长",
+        "onboard_time": 1762417220,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44647,
+        "num": 83570,
+        "word": "华为首款星闪耳机能否封神",
+        "onboard_time": 1762416380,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平的乌镇网事#"
+    }
+  }
+}
