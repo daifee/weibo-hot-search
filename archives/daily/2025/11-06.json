@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762439256996,
+  "endTime": 1762440315082,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 947795,
+      "raw_hot": 1005771,
       "num": 288204,
       "word": "郭美美2次入狱又试图复出",
       "onboard_time": 1762435041,
@@ -185,6 +185,14 @@
       "onboard_time": 1762414160,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 718493,
+      "num": 271227,
+      "word": "肥猫扮演者郑则仕瘦了好多",
+      "onboard_time": 1762437141,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 670001,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 544503,
-      "num": 284649,
+      "num": 304586,
       "word": "网传雪中悍刀行2阵容",
       "onboard_time": 1762434861,
       "rank": 8,
@@ -353,6 +361,14 @@
       "onboard_time": 1762384997,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492095,
+      "num": 242797,
+      "word": "这才是真正的道歉",
+      "onboard_time": 1762438700,
+      "rank": 22,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 483785,
@@ -547,6 +563,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 323352,
+      "num": 323352,
+      "word": "2024年平均工资公布",
+      "onboard_time": 1762438342,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321134,
       "num": 225490,
       "word": "乐华回应60%营收靠王一博",
@@ -651,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271227,
-      "num": 271227,
-      "word": "肥猫扮演者郑则仕瘦了好多",
-      "onboard_time": 1762437141,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 268346,
       "num": 239485,
       "word": "王传君工作室回应获奖",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 263917,
-      "num": 276258,
+      "num": 277322,
       "word": "令人心动的offer7",
       "onboard_time": 1762429522,
       "rank": 7,
@@ -819,6 +835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218757,
+      "num": 218757,
+      "word": "昆凌回复周杰伦",
+      "onboard_time": 1762439242,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217977,
       "num": 163396,
       "word": "易烊千玺舒淇怪物和她剧照",
@@ -833,14 +857,6 @@
       "onboard_time": 1762407981,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 209400,
-      "num": 209400,
-      "word": "这才是真正的道歉",
-      "onboard_time": 1762438700,
-      "rank": 22,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 208408,
@@ -979,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187396,
+      "num": 187396,
+      "word": "皮皮朱方声明",
+      "onboard_time": 1762438942,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 186784,
+      "num": 186784,
+      "word": "山姆回应支付跳转色情页面",
+      "onboard_time": 1762437082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186086,
       "num": 160093,
       "word": "陈芋汐十五运会首金",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1762420941,
       "rank": 23,
       "category": "运动健身,休闲"
+    },
+    {
+      "raw_hot": 178210,
+      "num": 178210,
+      "word": "全红婵称辜负了队友",
+      "onboard_time": 1762436241,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 177557,
@@ -1259,20 +1299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143623,
-      "num": 143623,
-      "word": "全红婵称辜负了队友",
-      "onboard_time": 1762436241,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143149,
       "num": 110635,
       "word": "高标准建设海南自贸港",
       "onboard_time": 1762417641,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142543,
+      "num": 142543,
+      "word": "中国愿意帮助印度",
+      "onboard_time": 1762439843,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142319,
@@ -1289,14 +1329,6 @@
       "onboard_time": 1762358780,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141314,
-      "num": 278992,
-      "word": "2024年平均工资公布",
-      "onboard_time": 1762438342,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141151,
@@ -1547,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126954,
-      "num": 126954,
-      "word": "山姆回应支付跳转色情页面",
-      "onboard_time": 1762437082,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126795,
       "num": 62325,
       "word": "黄金裔明天见",
@@ -1672,6 +1696,14 @@
       "word": "全红婵说自己还是很棒",
       "onboard_time": 1762430961,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120830,
+      "num": 120830,
+      "word": "樊振东林高远领衔欧冠联赛",
+      "onboard_time": 1762439960,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1851,6 +1883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110349,
+      "num": 110349,
+      "word": "福建舰弹射画面公开",
+      "onboard_time": 1762439843,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110307,
       "num": 110307,
       "word": "樊振东出现在中国驻德国大使馆官网",
@@ -1889,14 +1929,6 @@
       "onboard_time": 1762432642,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108140,
-      "num": 108140,
-      "word": "皮皮朱方声明",
-      "onboard_time": 1762438942,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 108115,
@@ -2396,7 +2428,7 @@
     },
     {
       "raw_hot": 91212,
-      "num": 91212,
+      "num": 256947,
       "word": "山东2024年平均工资108131元",
       "onboard_time": 1762437802,
       "rank": 47,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1762389682,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90925,
+      "num": 89363,
+      "word": "郭涛梅婷王牌合体",
+      "onboard_time": 1762439602,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 90710,
@@ -2747,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83568,
+      "num": 112977,
+      "word": "雷淞然输了茶几赢得茶姬",
+      "onboard_time": 1762438463,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83537,
       "num": 83537,
       "word": "爱马仕回应蘑菇纸镇售价23000元",
@@ -2785,14 +2833,6 @@
       "onboard_time": 1762350562,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80822,
-      "num": 112977,
-      "word": "雷淞然输了茶几赢得茶姬",
-      "onboard_time": 1762438463,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 80315,
@@ -3363,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50018,
+      "num": 111826,
+      "word": "男生吐槽在校洗澡要先看一堆广告",
+      "onboard_time": 1762440142,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49484,
       "num": 143078,
       "word": "王楚钦奔驰星愿基金公益伙伴",
@@ -3491,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38651,
+      "num": 372470,
+      "word": "2025乌镇峰会",
+      "onboard_time": 1762434382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38644,
       "num": 98093,
       "word": "肖战新歌文化输出天花板",
@@ -3521,14 +3577,6 @@
       "onboard_time": 1762353381,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36893,
-      "num": 372470,
-      "word": "2025乌镇峰会",
-      "onboard_time": 1762434382,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36468,
@@ -3656,6 +3704,14 @@
       "word": "丈夫病亡两天后妻子也离世家属发声",
       "onboard_time": 1762414223,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25489,
+      "num": 235172,
+      "word": "村民叫卖耕地做墓地1亩33万至120万",
+      "onboard_time": 1762439960,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
