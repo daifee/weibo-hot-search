@@ -1,7 +1,15 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762425063814,
+  "endTime": 1762425998081,
   "band_list": [
+    {
+      "raw_hot": 1865967,
+      "num": 154641,
+      "word": "白百何回应",
+      "onboard_time": 1762425621,
+      "rank": 10,
+      "category": "电影"
+    },
     {
       "raw_hot": 1461165,
       "num": 243609,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 865110,
+      "num": 384039,
+      "word": "孟子义 沈妙",
+      "onboard_time": 1762419442,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 852026,
       "num": 1136324,
       "word": "孙东旭从东方甄选离职",
@@ -80,14 +96,6 @@
       "word": "将门毒后谢景行",
       "onboard_time": 1762393099,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 793112,
-      "num": 384039,
-      "word": "孟子义 沈妙",
-      "onboard_time": 1762419442,
-      "rank": 5,
       "category": "剧集"
     },
     {
@@ -123,20 +131,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 670001,
+      "num": 646576,
+      "word": "郭美美被封号",
+      "onboard_time": 1762420641,
+      "rank": 6,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 665404,
       "num": 665404,
       "word": "重庆市调整部分行政区划",
       "onboard_time": 1762403481,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 646576,
-      "num": 646576,
-      "word": "郭美美被封号",
-      "onboard_time": 1762420641,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 641198,
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 569441,
-      "num": 133096,
+      "num": 147380,
       "word": "杨紫张一山友情",
       "onboard_time": 1762422502,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554394,
+      "num": 151795,
+      "word": "水果软糖 荤食",
+      "onboard_time": 1762422382,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 553533,
@@ -201,6 +217,14 @@
       "onboard_time": 1762389560,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548566,
+      "num": 383364,
+      "word": "将门毒后女主原型是王艳",
+      "onboard_time": 1762422261,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 545480,
@@ -259,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 476170,
-      "num": 383364,
-      "word": "将门毒后女主原型是王艳",
-      "onboard_time": 1762422261,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 474113,
       "num": 812594,
       "word": "央视披露户晨风封号详情",
@@ -323,14 +339,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 412053,
-      "num": 124257,
-      "word": "水果软糖 荤食",
-      "onboard_time": 1762422382,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 407626,
       "num": 127320,
       "word": "王传君获奖表情",
@@ -379,6 +387,14 @@
       "category": "议题讨论,科学科普"
     },
     {
+      "raw_hot": 350612,
+      "num": 142658,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333536,
       "num": 180454,
       "word": "时代峰峻公司WiFi密码",
@@ -417,6 +433,14 @@
       "onboard_time": 1762398320,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309739,
+      "num": 309739,
+      "word": "结婚登记增40.5万对",
+      "onboard_time": 1762424300,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299530,
@@ -491,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255818,
-      "num": 112613,
-      "word": "煮泡面vs泡泡面",
-      "onboard_time": 1762420221,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247700,
       "num": 247700,
       "word": "官方通报网传副院长出轨眼科主任",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 233309,
-      "num": 108207,
+      "num": 141550,
       "word": "王一博未关注乐华娱乐",
       "onboard_time": 1762422623,
       "rank": 28,
@@ -811,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165150,
+      "num": 137547,
+      "word": "月薪三千也能买到的精致生活",
+      "onboard_time": 1762425140,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162142,
       "num": 162142,
       "word": "女护士称给95岁大爷扎针时被摸腿",
       "onboard_time": 1762352301,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160057,
+      "num": 136620,
+      "word": "原来我担跟我是同担",
+      "onboard_time": 1762425502,
+      "rank": 31,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 159144,
@@ -833,6 +865,14 @@
       "onboard_time": 1762397898,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156466,
+      "num": 140971,
+      "word": "全运会女子双人10米跳台决赛",
+      "onboard_time": 1762424720,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155299,
@@ -859,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149490,
+      "num": 139620,
+      "word": "山姆APP支付跳转黄色网站",
+      "onboard_time": 1762424421,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148447,
       "num": 148447,
       "word": "抑郁症和焦虑症的区别",
@@ -873,6 +921,14 @@
       "onboard_time": 1762412060,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144766,
+      "num": 144766,
+      "word": "缅甸电诈之手伸向非洲",
+      "onboard_time": 1762423941,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143987,
@@ -924,7 +980,7 @@
     },
     {
       "raw_hot": 140550,
-      "num": 109788,
+      "num": 121940,
       "word": "时隔五年景甜张彬彬又杀回来了",
       "onboard_time": 1762424061,
       "rank": 26,
@@ -1003,12 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136545,
-      "num": 136545,
-      "word": "缅甸电诈之手伸向非洲",
-      "onboard_time": 1762423941,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 136550,
+      "num": 136550,
+      "word": "湖南省人民医院出轨医生停职",
+      "onboard_time": 1762421541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136292,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1762407501,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127111,
+      "num": 121793,
+      "word": "鳌拜 瓜尔佳氏",
+      "onboard_time": 1762425021,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 126795,
@@ -1268,7 +1332,7 @@
     },
     {
       "raw_hot": 114821,
-      "num": 114821,
+      "num": 137788,
       "word": "佘诗曼新闻女王2把AI干冒烟了",
       "onboard_time": 1762423402,
       "rank": 21,
@@ -1331,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110018,
+      "num": 110018,
+      "word": "从100斤到180斤的真实感受",
+      "onboard_time": 1762425140,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109964,
       "num": 122231,
       "word": "全红婵成名一跳",
@@ -1372,7 +1444,7 @@
     },
     {
       "raw_hot": 107811,
-      "num": 107811,
+      "num": 140128,
       "word": "小鹏X9超级增程太强了",
       "onboard_time": 1762423880,
       "rank": 29,
@@ -1427,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104858,
+      "num": 104858,
+      "word": "小猫是婚礼晚到的宾客",
+      "onboard_time": 1762425981,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103684,
       "num": 103684,
       "word": "全红婵复出夺冠全网都在心疼",
@@ -1441,14 +1521,6 @@
       "onboard_time": 1762407620,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102487,
-      "num": 102487,
-      "word": "全运会女子双人10米跳台决赛",
-      "onboard_time": 1762424720,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 101415,
@@ -1571,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96917,
+      "num": 96917,
+      "word": "华为即将发布首款星闪耳机",
+      "onboard_time": 1762422981,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96870,
       "num": 96870,
       "word": "专家回应康熙亲爹争议",
@@ -1627,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94278,
+      "num": 94278,
+      "word": "建议不要经常肝脆蒜了",
+      "onboard_time": 1762425981,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94223,
       "num": 94223,
       "word": "纽约市长vs伦敦市长",
@@ -1641,6 +1729,14 @@
       "onboard_time": 1762404381,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94009,
+      "num": 94009,
+      "word": "鞠婧祎 异域公主",
+      "onboard_time": 1762425862,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 93991,
@@ -1699,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92915,
+      "num": 92915,
+      "word": "秦彻谁才是坏蛋",
+      "onboard_time": 1762424720,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92711,
       "num": 92711,
       "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
@@ -1755,14 +1859,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 90816,
-      "num": 90816,
-      "word": "秦彻谁才是坏蛋",
-      "onboard_time": 1762424720,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -1771,20 +1867,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90634,
+      "num": 124268,
+      "word": "天地剑心",
+      "onboard_time": 1762424781,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90434,
       "num": 90434,
       "word": "杨紫 让自己快乐是最重要的",
       "onboard_time": 1762403781,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90274,
-      "num": 102689,
-      "word": "天地剑心",
-      "onboard_time": 1762424781,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 90079,
@@ -1841,14 +1937,6 @@
       "onboard_time": 1762416921,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87989,
-      "num": 99358,
-      "word": "山姆APP支付跳转黄色网站",
-      "onboard_time": 1762424421,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87964,
@@ -1921,14 +2009,6 @@
       "onboard_time": 1762407261,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86547,
-      "num": 86547,
-      "word": "湖南省人民医院出轨医生停职",
-      "onboard_time": 1762421541,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86469,
@@ -2089,14 +2169,6 @@
       "onboard_time": 1762350562,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80930,
-      "num": 80930,
-      "word": "鳌拜 瓜尔佳氏",
-      "onboard_time": 1762425021,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 80315,
@@ -2483,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57182,
-      "num": 122597,
-      "word": "结婚登记增40.5万对",
-      "onboard_time": 1762424300,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56978,
       "num": 144579,
       "word": "茅台拟以15亿至30亿回购股份并注销",
@@ -2620,11 +2684,19 @@
     },
     {
       "raw_hot": 50087,
-      "num": 117642,
+      "num": 144018,
       "word": "邀你上车礼解科学减重新知",
       "onboard_time": 1762423641,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50079,
+      "num": 99790,
+      "word": "26.6万起拍的成都凶宅105.6万成交",
+      "onboard_time": 1762424421,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49484,
@@ -2683,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43060,
+      "num": 99221,
+      "word": "女子70元卖7盒精神药品被判贩毒",
+      "onboard_time": 1762424300,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42248,
       "num": 141072,
       "word": "张艺兴说完bra就挠头了",
@@ -2705,14 +2785,6 @@
       "onboard_time": 1762378514,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40173,
-      "num": 99790,
-      "word": "26.6万起拍的成都凶宅105.6万成交",
-      "onboard_time": 1762424421,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39819,
@@ -2777,14 +2849,6 @@
       "onboard_time": 1762353381,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36760,
-      "num": 99221,
-      "word": "女子70元卖7盒精神药品被判贩毒",
-      "onboard_time": 1762424300,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36468,
@@ -2859,7 +2923,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27472,
+      "raw_hot": 28896,
       "num": 383566,
       "word": "每天与一件国宝相遇",
       "onboard_time": 1762422322,
@@ -2924,11 +2988,19 @@
     },
     {
       "raw_hot": 22552,
-      "num": 126336,
+      "num": 148309,
       "word": "淘趣猫到底藏在哪",
       "onboard_time": 1762423280,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21526,
+      "num": 144536,
+      "word": "警方回应疑给宝宝喂安眠药上班",
+      "onboard_time": 1762425201,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20953,
