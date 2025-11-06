@@ -1,10 +1,10 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762471489364,
+  "endTime": 1762472337636,
   "band_list": [
     {
-      "raw_hot": 574382,
-      "num": 814401,
+      "raw_hot": 876781,
+      "num": 965354,
       "word": "立冬",
       "onboard_time": 1762470618,
       "rank": 0,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483393,
+      "num": 138890,
+      "word": "女子引产被拒诞下女婴被医生抱养",
+      "onboard_time": 1762442662,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456296,
       "num": 140834,
       "word": "这才是真正的道歉",
@@ -43,15 +51,15 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 428197,
-      "num": 138890,
-      "word": "女子引产被拒诞下女婴被医生抱养",
-      "onboard_time": 1762442662,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 373894,
+      "num": 93892,
+      "word": "抖音回应温峥嵘被AI盗播",
+      "onboard_time": 1762462994,
+      "rank": 24,
+      "category": "艺人,互联网"
     },
     {
-      "raw_hot": 356789,
+      "raw_hot": 366385,
       "num": 121318,
       "word": "迪卡侬回应顾客误认透气孔弄丢手机",
       "onboard_time": 1762445301,
@@ -59,7 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352102,
+      "raw_hot": 358235,
       "num": 140740,
       "word": "昆凌回复周杰伦",
       "onboard_time": 1762439242,
@@ -75,15 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317504,
-      "num": 76315,
-      "word": "抖音回应温峥嵘被AI盗播",
-      "onboard_time": 1762462994,
-      "rank": 24,
-      "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 300876,
+      "raw_hot": 309678,
       "num": 139425,
       "word": "郭美美2次入狱又试图复出",
       "onboard_time": 1762435041,
@@ -97,6 +97,14 @@
       "onboard_time": 1762439843,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293817,
+      "num": 79073,
+      "word": "泡泡玛特直播事故",
+      "onboard_time": 1762472179,
+      "rank": 30,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 271651,
@@ -113,6 +121,14 @@
       "onboard_time": 1762441461,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175679,
+      "num": 93800,
+      "word": "长期睡眠每天少于六小时的危险",
+      "onboard_time": 1762469716,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175595,
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117625,
-      "num": 68910,
-      "word": "长期睡眠每天少于六小时的危险",
-      "onboard_time": 1762469716,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 119067,
+      "num": 119067,
+      "word": "立冬文案",
+      "onboard_time": 1762471037,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111574,
@@ -203,20 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100487,
-      "num": 100487,
-      "word": "立冬文案",
-      "onboard_time": 1762471037,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99642,
       "num": 105804,
       "word": "皮皮朱方声明",
       "onboard_time": 1762438942,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97251,
+      "num": 105649,
+      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+      "onboard_time": 1762443441,
+      "rank": 28,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 96273,
@@ -227,12 +243,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93646,
-      "num": 105649,
-      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
-      "onboard_time": 1762443441,
-      "rank": 28,
-      "category": "民生新闻,美食"
+      "raw_hot": 93764,
+      "num": 93764,
+      "word": "10亿播放量歌手上音综被淘汰",
+      "onboard_time": 1762471098,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93148,
+      "num": 104803,
+      "word": "山姆回应支付跳转色情页面",
+      "onboard_time": 1762437082,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89091,
@@ -243,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78804,
-      "num": 104803,
-      "word": "山姆回应支付跳转色情页面",
-      "onboard_time": 1762437082,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 79052,
+      "num": 105026,
+      "word": "金价暴涨三四线城市金店撑不住了",
+      "onboard_time": 1762437863,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 78321,
@@ -267,14 +291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 73715,
-      "num": 105026,
-      "word": "金价暴涨三四线城市金店撑不住了",
-      "onboard_time": 1762437863,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 65296,
       "num": 105395,
       "word": "陈哲远 刚刚开机了吗",
@@ -289,14 +305,6 @@
       "onboard_time": 1762441103,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63199,
-      "num": 63199,
-      "word": "10亿播放量歌手上音综被淘汰",
-      "onboard_time": 1762471098,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 63062,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52934,
+      "num": 78969,
+      "word": "中方回应日本政府向谢长廷授勋",
+      "onboard_time": 1762451417,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52530,
       "num": 105058,
       "word": "黄金税落地后普通人怎做投资选择",
@@ -379,8 +395,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51003,
+      "num": 78893,
+      "word": "叶璇回应电影节颁奖争议",
+      "onboard_time": 1762471518,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50227,
-      "num": 50227,
+      "num": 78597,
       "word": "两名老师校外从学生包中搜走零食",
       "onboard_time": 1762456514,
       "rank": 48,
@@ -395,20 +419,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 48708,
+      "num": 87147,
+      "word": "美总统十秒道破美国外交政策本质",
+      "onboard_time": 1762449557,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47769,
       "num": 104734,
       "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
       "onboard_time": 1762431262,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47503,
-      "num": 47503,
-      "word": "中方回应日本政府向谢长廷授勋",
-      "onboard_time": 1762451417,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46592,
@@ -435,12 +459,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41064,
-      "num": 87147,
-      "word": "美总统十秒道破美国外交政策本质",
-      "onboard_time": 1762449557,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 40955,
+      "num": 87067,
+      "word": "朋友圈全员92是什么概念",
+      "onboard_time": 1762435400,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 40731,
+      "num": 78266,
+      "word": "佩洛西宣布将退休",
+      "onboard_time": 1762472118,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39963,
+      "num": 78188,
+      "word": "在辽宁不论什么物种都稀罕孩子",
+      "onboard_time": 1762471878,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 39702,
@@ -449,14 +489,6 @@
       "onboard_time": 1762446739,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39412,
-      "num": 87067,
-      "word": "朋友圈全员92是什么概念",
-      "onboard_time": 1762435400,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 36055,
@@ -515,7 +547,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27231,
+      "raw_hot": 28154,
       "num": 230635,
       "word": "2025乌镇峰会",
       "onboard_time": 1762434382,
