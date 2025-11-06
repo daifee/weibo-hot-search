@@ -1,0 +1,410 @@
+{
+  "runTime": 1762422212840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1236023,
+        "num": 1236023,
+        "word": "对接确认孟子义演将门毒后",
+        "onboard_time": 1762419261,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646576,
+        "num": 646576,
+        "word": "郭美美被封号",
+        "onboard_time": 1762420641,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 26776,
+        "num": 516463,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481841,
+        "num": 481841,
+        "word": "朝鲜举行国葬",
+        "onboard_time": 1762416260,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432043,
+        "num": 432043,
+        "word": "中国首例冷冻人8年后怎么样了",
+        "onboard_time": 1762408461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442956,
+        "num": 384039,
+        "word": "孟子义 沈妙",
+        "onboard_time": 1762419442,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312392,
+        "num": 312392,
+        "word": "孙东旭从东方甄选离职",
+        "onboard_time": 1762414999,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252580,
+        "num": 252580,
+        "word": "曝HLE曾想签下Bin",
+        "onboard_time": 1762416620,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210565,
+        "num": 210565,
+        "word": "将门毒后沈娇娇才是主角",
+        "onboard_time": 1762405162,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206544,
+        "num": 206544,
+        "word": "湖南通报祖某某曾某生活作风问题",
+        "onboard_time": 1762419322,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1461165,
+        "num": 204725,
+        "word": "金晨黄景瑜同吃一个冰淇淋",
+        "onboard_time": 1762421062,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824341,
+        "num": 199017,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431541,
+        "num": 189428,
+        "word": "苹果喊话iPhone13和14用户换新机",
+        "onboard_time": 1762414160,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321134,
+        "num": 188732,
+        "word": "乐华回应60%营收靠王一博",
+        "onboard_time": 1762417761,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16808,
+        "num": 179435,
+        "word": "令人心动的礼遇季第二期来了",
+        "onboard_time": 1762419681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284609,
+        "num": 176192,
+        "word": "张凯丽回应63岁穿黑丝",
+        "onboard_time": 1762413020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234883,
+        "num": 169582,
+        "word": "欧阳妮妮想生三胎被老公婉拒",
+        "onboard_time": 1762421482,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166297,
+        "num": 166297,
+        "word": "央视曝光假冒艺人直播",
+        "onboard_time": 1762413802,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 158828,
+        "word": "台湾 投诚APP",
+        "onboard_time": 1762398138,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84310,
+        "num": 154107,
+        "word": "交出你的拼多多封神好物",
+        "onboard_time": 1762419923,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186442,
+        "num": 153577,
+        "word": "85后夫妻16年生6个儿子",
+        "onboard_time": 1762419802,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170090,
+        "num": 152655,
+        "word": "水泥寿命只有50年",
+        "onboard_time": 1762418420,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150373,
+        "num": 150373,
+        "word": "没认出这是易烊千玺",
+        "onboard_time": 1762400241,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150242,
+        "num": 150242,
+        "word": "湖南省人民医院",
+        "onboard_time": 1762421541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 147733,
+        "word": "乐华回应王一博到期不续约",
+        "onboard_time": 1762418723,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136819,
+        "num": 136819,
+        "word": "全运会乒乓比赛",
+        "onboard_time": 1762421601,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131292,
+        "num": 131292,
+        "word": "新闻女王太敢说了",
+        "onboard_time": 1762415899,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102319,
+        "num": 131261,
+        "word": "常华森有效播剧的受害者出现了",
+        "onboard_time": 1762421062,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100988,
+        "num": 131248,
+        "word": "新闻女王 AI盗播",
+        "onboard_time": 1762419081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100280,
+        "num": 131182,
+        "word": "马龙王楚钦穿上了新队服",
+        "onboard_time": 1762421002,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 131157,
+        "word": "一起看全运会",
+        "onboard_time": 1762397960,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177557,
+        "num": 131120,
+        "word": "Uzi心中最强AD是Ruler",
+        "onboard_time": 1762421062,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 131078,
+        "word": "新手滑雪就怕花冤枉钱",
+        "onboard_time": 1762420941,
+        "rank": 32,
+        "category": "运动健身,休闲"
+      },
+      {
+        "raw_hot": 137536,
+        "num": 131013,
+        "word": "这居然是中国军工官方发的图",
+        "onboard_time": 1762420761,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "公园摆3个尿桶供人露天小便",
+        "onboard_time": 1762412360,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127895,
+        "num": 127895,
+        "word": "网传出轨医生上月还曾一同参加义诊",
+        "onboard_time": 1762420702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122978,
+        "num": 122978,
+        "word": "祖某某曾某生活作风问题基本属实",
+        "onboard_time": 1762417882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113985,
+        "num": 113985,
+        "word": "沈星回狮王",
+        "onboard_time": 1762421482,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65737,
+        "num": 109627,
+        "word": "女子称父亲去世伯父强占丧葬金家产",
+        "onboard_time": 1762421661,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48257,
+        "num": 108004,
+        "word": "辛芷蕾电影里的小肚子是真的",
+        "onboard_time": 1762421541,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107979,
+        "num": 107979,
+        "word": "全英语交流无非就这500句",
+        "onboard_time": 1762421661,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105626,
+        "num": 105626,
+        "word": "煮泡面vs泡泡面",
+        "onboard_time": 1762420221,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102729,
+        "num": 102729,
+        "word": "降低体脂率最快的10个方法",
+        "onboard_time": 1762410801,
+        "rank": 42,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 100868,
+        "num": 100868,
+        "word": "降温后发现吃商提高了10倍",
+        "onboard_time": 1762422081,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96827,
+        "num": 96827,
+        "word": "23岁女生拔掉57颗牙的体验",
+        "onboard_time": 1762402523,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95176,
+        "num": 95176,
+        "word": "迅猛龙回应出国留学",
+        "onboard_time": 1762419860,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93967,
+        "num": 93967,
+        "word": "狂野时代",
+        "onboard_time": 1762422142,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92266,
+        "num": 92266,
+        "word": "孙东旭曾两天套现2亿港元",
+        "onboard_time": 1762420581,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51430,
+        "num": 92180,
+        "word": "浙江大学食堂8.8元螃蟹已停售",
+        "onboard_time": 1762420461,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73900,
+        "num": 92154,
+        "word": "孙颖莎樊振东训练画面",
+        "onboard_time": 1762419562,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#高标准建设海南自贸港#"
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762421376888,
+  "endTime": 1762422212840,
   "band_list": [
     {
-      "raw_hot": 1414513,
+      "raw_hot": 1461165,
       "num": 243609,
       "word": "金晨黄景瑜同吃一个冰淇淋",
       "onboard_time": 1762421062,
@@ -35,20 +35,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1236023,
+      "num": 1236023,
+      "word": "对接确认孟子义演将门毒后",
+      "onboard_time": 1762419261,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1038127,
       "num": 1166100,
       "word": "中国首例冷冻人8年后怎么样了",
       "onboard_time": 1762408461,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 980660,
-      "num": 1156905,
-      "word": "对接确认孟子义演将门毒后",
-      "onboard_time": 1762419261,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 943804,
@@ -121,6 +121,14 @@
       "onboard_time": 1762403481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646576,
+      "num": 646576,
+      "word": "郭美美被封号",
+      "onboard_time": 1762420641,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 641198,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 485461,
-      "num": 347116,
+      "num": 384039,
       "word": "孟子义 沈妙",
       "onboard_time": 1762419442,
       "rank": 5,
@@ -347,7 +355,7 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 320745,
+      "raw_hot": 321134,
       "num": 225490,
       "word": "乐华回应60%营收靠王一博",
       "onboard_time": 1762417761,
@@ -377,14 +385,6 @@
       "onboard_time": 1762403363,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294738,
-      "num": 294738,
-      "word": "郭美美被封号",
-      "onboard_time": 1762420641,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 288929,
@@ -497,6 +497,14 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 234883,
+      "num": 169582,
+      "word": "欧阳妮妮想生三胎被老公婉拒",
+      "onboard_time": 1762421482,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 233114,
@@ -707,6 +715,14 @@
       "category": "运动健身,休闲"
     },
     {
+      "raw_hot": 177557,
+      "num": 131903,
+      "word": "Uzi心中最强AD是Ruler",
+      "onboard_time": 1762421062,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174935,
       "num": 174935,
       "word": "新闻女王太敢说了",
@@ -785,6 +801,14 @@
       "onboard_time": 1762404981,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150242,
+      "num": 150242,
+      "word": "湖南省人民医院",
+      "onboard_time": 1762421541,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148447,
@@ -899,12 +923,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137536,
+      "num": 131013,
+      "word": "这居然是中国军工官方发的图",
+      "onboard_time": 1762420761,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 137481,
       "num": 137481,
       "word": "iPhone闹钟被低估的仪式感",
       "onboard_time": 1762370714,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136819,
+      "num": 136819,
+      "word": "全运会乒乓比赛",
+      "onboard_time": 1762421601,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 136324,
@@ -961,14 +1001,6 @@
       "onboard_time": 1762420401,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131903,
-      "num": 131903,
-      "word": "Uzi心中最强AD是Ruler",
-      "onboard_time": 1762421062,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 131747,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1762325540,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125375,
-      "num": 125375,
-      "word": "这居然是中国军工官方发的图",
-      "onboard_time": 1762420761,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 125005,
@@ -1195,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113985,
+      "num": 113985,
+      "word": "沈星回狮王",
+      "onboard_time": 1762421482,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113310,
       "num": 113310,
       "word": "欧盟称向中方提交2000份稀土申请",
@@ -1259,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107979,
+      "num": 107979,
+      "word": "全英语交流无非就这500句",
+      "onboard_time": 1762421661,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107947,
       "num": 107947,
       "word": "迅猛龙回应出国留学",
@@ -1276,7 +1316,7 @@
     },
     {
       "raw_hot": 106846,
-      "num": 106846,
+      "num": 131182,
       "word": "马龙王楚钦穿上了新队服",
       "onboard_time": 1762421002,
       "rank": 43,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1762399280,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105626,
+      "num": 105626,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 105173,
@@ -1347,19 +1395,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100988,
+      "num": 131248,
+      "word": "新闻女王 AI盗播",
+      "onboard_time": 1762419081,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100868,
+      "num": 100868,
+      "word": "降温后发现吃商提高了10倍",
+      "onboard_time": 1762422081,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 100649,
       "num": 105502,
       "word": "水龙吟怎么演到女儿国了",
       "onboard_time": 1762406660,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100357,
-      "num": 100357,
-      "word": "新闻女王 AI盗播",
-      "onboard_time": 1762419081,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1451,14 +1507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95983,
-      "num": 95983,
-      "word": "煮泡面vs泡泡面",
-      "onboard_time": 1762420221,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95313,
       "num": 95313,
       "word": "浙大食堂8.8元一只螃蟹馋哭网友",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1762410620,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93967,
+      "num": 93967,
+      "word": "狂野时代",
+      "onboard_time": 1762422142,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 93847,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1762392200,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92266,
+      "num": 92266,
+      "word": "孙东旭曾两天套现2亿港元",
+      "onboard_time": 1762420581,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 92054,
@@ -2123,6 +2187,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 65737,
+      "num": 109627,
+      "word": "女子称父亲去世伯父强占丧葬金家产",
+      "onboard_time": 1762421661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65708,
       "num": 69470,
       "word": "3天后又可以看神仙打架了",
@@ -2355,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51430,
+      "num": 109767,
+      "word": "浙江大学食堂8.8元螃蟹已停售",
+      "onboard_time": 1762420461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51181,
       "num": 208343,
       "word": "中国混动破世界纪录",
@@ -2385,6 +2465,14 @@
       "onboard_time": 1762408820,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48257,
+      "num": 108004,
+      "word": "辛芷蕾电影里的小肚子是真的",
+      "onboard_time": 1762421541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 46924,
@@ -2531,14 +2619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34896,
-      "num": 109767,
-      "word": "浙江大学食堂8.8元螃蟹已停售",
-      "onboard_time": 1762420461,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34337,
       "num": 85374,
       "word": "全运会乒乓球明日开赛",
@@ -2592,6 +2672,14 @@
       "word": "男童被生母继父虐死案二审将开庭",
       "onboard_time": 1762403542,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26776,
+      "num": 516463,
+      "word": "中国国际进口博览会",
+      "onboard_time": 1762422021,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2724,6 +2812,9 @@
     },
     {
       "word": "#重温习近平的乌镇网事#"
+    },
+    {
+      "word": "#高标准建设海南自贸港#"
     }
   ]
 }

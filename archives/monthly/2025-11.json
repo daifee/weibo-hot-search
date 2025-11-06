@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762421376888,
+  "endTime": 1762422212840,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -195,7 +195,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1414513,
+      "raw_hot": 1461165,
       "num": 243609,
       "word": "金晨黄景瑜同吃一个冰淇淋",
       "onboard_time": 1762421062,
@@ -273,6 +273,14 @@
       "onboard_time": 1762400241,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1236023,
+      "num": 1236023,
+      "word": "对接确认孟子义演将门毒后",
+      "onboard_time": 1762419261,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1229180,
@@ -497,14 +505,6 @@
       "onboard_time": 1762223599,
       "rank": 0,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 980660,
-      "num": 1156905,
-      "word": "对接确认孟子义演将门毒后",
-      "onboard_time": 1762419261,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 979092,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1762224140,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 646576,
+      "num": 646576,
+      "word": "郭美美被封号",
+      "onboard_time": 1762420641,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 641198,
@@ -1820,7 +1828,7 @@
     },
     {
       "raw_hot": 485461,
-      "num": 347116,
+      "num": 384039,
       "word": "孟子义 沈妙",
       "onboard_time": 1762419442,
       "rank": 5,
@@ -3019,7 +3027,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320745,
+      "raw_hot": 321134,
       "num": 225490,
       "word": "乐华回应60%营收靠王一博",
       "onboard_time": 1762417761,
@@ -3313,14 +3321,6 @@
       "onboard_time": 1762230081,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294738,
-      "num": 294738,
-      "word": "郭美美被封号",
-      "onboard_time": 1762420641,
-      "rank": 6,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 294574,
@@ -4129,6 +4129,14 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 234883,
+      "num": 169582,
+      "word": "欧阳妮妮想生三胎被老公婉拒",
+      "onboard_time": 1762421482,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 234746,
@@ -5939,6 +5947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177557,
+      "num": 131903,
+      "word": "Uzi心中最强AD是Ruler",
+      "onboard_time": 1762421062,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177351,
       "num": 163314,
       "word": "他永远困在了女儿被害的雨夜",
@@ -7387,6 +7403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150242,
+      "num": 150242,
+      "word": "湖南省人民医院",
+      "onboard_time": 1762421541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "AG老板谈AL不敌T1",
@@ -8355,6 +8379,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 137536,
+      "num": 131013,
+      "word": "这居然是中国军工官方发的图",
+      "onboard_time": 1762420761,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 137517,
       "num": 137517,
       "word": "高中儿子半月花1000元妈妈绷不住了",
@@ -8433,6 +8465,14 @@
       "onboard_time": 1762147701,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136819,
+      "num": 136819,
+      "word": "全运会乒乓比赛",
+      "onboard_time": 1762421601,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 136745,
@@ -8833,14 +8873,6 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131903,
-      "num": 131903,
-      "word": "Uzi心中最强AD是Ruler",
-      "onboard_time": 1762421062,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 131862,
@@ -9505,14 +9537,6 @@
       "onboard_time": 1762226001,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125375,
-      "num": 125375,
-      "word": "这居然是中国军工官方发的图",
-      "onboard_time": 1762420761,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 125320,
@@ -10715,6 +10739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113985,
+      "num": 113985,
+      "word": "沈星回狮王",
+      "onboard_time": 1762421482,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113927,
       "num": 113927,
       "word": "当你忘了自己已经30岁时",
@@ -11475,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107979,
+      "num": 107979,
+      "word": "全英语交流无非就这500句",
+      "onboard_time": 1762421661,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107955,
       "num": 122570,
       "word": "机器人当上火炬手了",
@@ -11668,7 +11708,7 @@
     },
     {
       "raw_hot": 106846,
-      "num": 106846,
+      "num": 131182,
       "word": "马龙王楚钦穿上了新队服",
       "onboard_time": 1762421002,
       "rank": 43,
@@ -11785,6 +11825,14 @@
       "onboard_time": 1762222820,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105626,
+      "num": 105626,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 105540,
@@ -12571,6 +12619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100988,
+      "num": 131248,
+      "word": "新闻女王 AI盗播",
+      "onboard_time": 1762419081,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100960,
       "num": 105411,
       "word": "丁禹兮也太会演心动了",
@@ -12585,6 +12641,14 @@
       "onboard_time": 1762344441,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 100868,
+      "num": 100868,
+      "word": "降温后发现吃商提高了10倍",
+      "onboard_time": 1762422081,
+      "rank": 43,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 100856,
@@ -12649,14 +12713,6 @@
       "onboard_time": 1762170322,
       "rank": 45,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 100357,
-      "num": 100357,
-      "word": "新闻女王 AI盗播",
-      "onboard_time": 1762419081,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 100319,
@@ -13459,14 +13515,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95983,
-      "num": 95983,
-      "word": "煮泡面vs泡泡面",
-      "onboard_time": 1762420221,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95941,
       "num": 95941,
       "word": "吴昕以后请都按这个标准来",
@@ -13809,6 +13857,14 @@
       "onboard_time": 1762308620,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93967,
+      "num": 93967,
+      "word": "狂野时代",
+      "onboard_time": 1762422142,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 93940,
@@ -14169,6 +14225,14 @@
       "onboard_time": 1762053800,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92266,
+      "num": 92266,
+      "word": "孙东旭曾两天套现2亿港元",
+      "onboard_time": 1762420581,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 92182,
@@ -17795,6 +17859,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 65737,
+      "num": 109627,
+      "word": "女子称父亲去世伯父强占丧葬金家产",
+      "onboard_time": 1762421661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65708,
       "num": 69470,
       "word": "3天后又可以看神仙打架了",
@@ -18659,6 +18731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51430,
+      "num": 109767,
+      "word": "浙江大学食堂8.8元螃蟹已停售",
+      "onboard_time": 1762420461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51372,
       "num": 81903,
       "word": "脚手架垮塌遇难者父亲发声",
@@ -18825,6 +18905,14 @@
       "onboard_time": 1762165821,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48257,
+      "num": 108004,
+      "word": "辛芷蕾电影里的小肚子是真的",
+      "onboard_time": 1762421541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 48016,
@@ -19531,14 +19619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34896,
-      "num": 109767,
-      "word": "浙江大学食堂8.8元螃蟹已停售",
-      "onboard_time": 1762420461,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34734,
       "num": 40693,
       "word": "霉霉和GigiHadid外出就餐街拍",
@@ -19952,6 +20032,14 @@
       "word": "武汉一马路上拖车拉着飞机行驶",
       "onboard_time": 1762254141,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26776,
+      "num": 516463,
+      "word": "中国国际进口博览会",
+      "onboard_time": 1762422021,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -20753,6 +20841,9 @@
     },
     {
       "word": "#重温习近平的乌镇网事#"
+    },
+    {
+      "word": "#高标准建设海南自贸港#"
     }
   ]
 }
