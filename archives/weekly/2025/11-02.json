@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762447889374,
+  "endTime": 1762449959307,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1762407801,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 274823,
+      "num": 121318,
+      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+      "onboard_time": 1762445301,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273881,
@@ -8625,14 +8633,6 @@
       "onboard_time": 1762010783,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121318,
-      "num": 121318,
-      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
-      "onboard_time": 1762445301,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121189,
@@ -17435,6 +17435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31717,
+      "num": 62345,
+      "word": "辛芷蕾把日掛中天白T穿出花",
+      "onboard_time": 1762446979,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31641,
       "num": 112092,
       "word": "以前压缩饼干 现在烤鸡翅烤牛排",
@@ -17755,6 +17763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25639,
+      "num": 62310,
+      "word": "今年都有谁有效播剧了",
+      "onboard_time": 1762449077,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25557,
       "num": 144771,
       "word": "辛纳首夺巴黎大师赛冠军",
@@ -17801,6 +17817,14 @@
       "onboard_time": 1762358239,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24879,
+      "num": 62310,
+      "word": "美总统十秒道破美国外交政策本质",
+      "onboard_time": 1762449557,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24613,

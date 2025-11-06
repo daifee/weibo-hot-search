@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762447889374,
+  "endTime": 1762449959307,
   "band_list": [
     {
       "raw_hot": 550194,
@@ -57,6 +57,14 @@
       "onboard_time": 1762439843,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274823,
+      "num": 121318,
+      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+      "onboard_time": 1762445301,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271651,
@@ -147,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121318,
-      "num": 121318,
-      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
-      "onboard_time": 1762445301,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "老师我家田曦薇不能露秋裤吗",
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64681,
+      "num": 105649,
+      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+      "onboard_time": 1762443441,
+      "rank": 28,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 64162,
       "num": 105630,
       "word": "凤凰台上",
@@ -249,14 +257,6 @@
       "onboard_time": 1762443381,
       "rank": 31,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 62596,
-      "num": 105649,
-      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
-      "onboard_time": 1762443441,
-      "rank": 28,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 61394,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33823,
+      "num": 62371,
+      "word": "王鹤棣资源好牛",
+      "onboard_time": 1762433543,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33419,
       "num": 104623,
       "word": "白鹿剧透新剧人设",
@@ -419,12 +427,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31717,
+      "num": 62345,
+      "word": "辛芷蕾把日掛中天白T穿出花",
+      "onboard_time": 1762446979,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 28438,
+      "num": 62331,
+      "word": "朋友圈全员92是什么概念",
+      "onboard_time": 1762435400,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27231,
       "num": 230635,
       "word": "2025乌镇峰会",
       "onboard_time": 1762434382,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25639,
+      "num": 62310,
+      "word": "今年都有谁有效播剧了",
+      "onboard_time": 1762449077,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24879,
+      "num": 62310,
+      "word": "美总统十秒道破美国外交政策本质",
+      "onboard_time": 1762449557,
+      "rank": 49,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
