@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762403649211,
+  "endTime": 1762404507005,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 665404,
+      "num": 665404,
+      "word": "重庆市调整部分行政区划",
+      "onboard_time": 1762403481,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 664490,
       "num": 210360,
       "word": "左边已经是美女 娜扎美成神仙了",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1762168702,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511235,
+      "num": 223369,
+      "word": "23岁女生拔掉57颗牙的体验",
+      "onboard_time": 1762402523,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 507369,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1762262542,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392211,
+      "num": 222523,
+      "word": "经常看书和不看书的区别",
+      "onboard_time": 1762402280,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 392110,
@@ -2571,6 +2595,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 296973,
+      "num": 296973,
+      "word": "张艺兴直接吃掉在手机上的生肉",
+      "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -2625,14 +2657,6 @@
       "onboard_time": 1762164621,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293196,
-      "num": 223369,
-      "word": "23岁女生拔掉57颗牙的体验",
-      "onboard_time": 1762402523,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 290721,
@@ -3147,14 +3171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240071,
-      "num": 222523,
-      "word": "经常看书和不看书的区别",
-      "onboard_time": 1762402280,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 239645,
       "num": 185729,
       "word": "张婧仪 我头很大",
@@ -3339,6 +3355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225164,
+      "num": 207281,
+      "word": "李现去西藏雪山徒步了",
+      "onboard_time": 1762400840,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1762315221,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 221610,
+      "num": 221610,
+      "word": "重庆设立两江新区",
+      "onboard_time": 1762404442,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220717,
@@ -3681,14 +3713,6 @@
       "onboard_time": 1762080441,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207281,
-      "num": 207281,
-      "word": "李现去西藏雪山徒步了",
-      "onboard_time": 1762400840,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 207006,
@@ -4315,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184934,
+      "num": 225396,
+      "word": "狐妖小红娘系列漫改为啥连翻车",
+      "onboard_time": 1762402581,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184919,
       "num": 141836,
       "word": "你俩亲害羞了倒是给我看爽了",
@@ -4387,6 +4419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181996,
+      "num": 181996,
+      "word": "孙俪吃饭菜精细到用称量",
+      "onboard_time": 1762401981,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1762233920,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 180508,
+      "num": 180508,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 180312,
@@ -4787,6 +4835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168330,
+      "num": 168330,
+      "word": "时代峰峻公司WiFi密码",
+      "onboard_time": 1762403781,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168315,
       "num": 168315,
       "word": "有严重鱼鳞病所以经常用猪油泡澡",
@@ -5032,14 +5088,6 @@
       "word": "陈天润微博在线了",
       "onboard_time": 1762096102,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 163291,
-      "num": 163291,
-      "word": "孙俪吃饭菜精细到用称量",
-      "onboard_time": 1762401981,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5899,6 +5947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143810,
+      "num": 143810,
+      "word": "全红婵熟练得让人心疼",
+      "onboard_time": 1762403182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143711,
       "num": 159052,
       "word": "小婴儿的核磁共振全是脑子",
@@ -5961,14 +6017,6 @@
       "onboard_time": 1762152980,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142195,
-      "num": 225396,
-      "word": "狐妖小红娘系列漫改为啥连翻车",
-      "onboard_time": 1762402581,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 142089,
@@ -6256,14 +6304,6 @@
       "word": "张艺兴说完bra就挠头了",
       "onboard_time": 1762346240,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 137386,
-      "num": 223896,
-      "word": "张艺兴直接吃掉在手机上的生肉",
-      "onboard_time": 1762403481,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -7715,14 +7755,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 116878,
-      "num": 116878,
-      "word": "重庆市调整部分行政区划",
-      "onboard_time": 1762403481,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116784,
       "num": 199672,
       "word": "南京大学称999元帝王蟹比市场价便宜",
@@ -8339,6 +8371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 110307,
+      "num": 110307,
+      "word": "樊振东出现在中国驻德国大使馆官网",
+      "onboard_time": 1762403662,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110238,
       "num": 140661,
       "word": "水龙吟剧粉开始人传人现象了",
@@ -8737,6 +8777,14 @@
       "onboard_time": 1762058961,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106454,
+      "num": 106454,
+      "word": "衣服上挂密码锁确认收货再给密码",
+      "onboard_time": 1762401441,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106210,
@@ -9291,14 +9339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102268,
-      "num": 102268,
-      "word": "全红婵熟练得让人心疼",
-      "onboard_time": 1762403182,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102262,
       "num": 158428,
       "word": "李茂自曝被亲戚骗光所有积蓄",
@@ -9376,14 +9416,6 @@
       "word": "台湾网红馆长又把深圳夸爆了",
       "onboard_time": 1762320982,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101528,
-      "num": 102459,
-      "word": "衣服上挂密码锁确认收货再给密码",
-      "onboard_time": 1762401441,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -10347,6 +10379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94154,
+      "num": 94154,
+      "word": "小鹏科技日",
+      "onboard_time": 1762404381,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93972,
       "num": 93972,
       "word": "丁禹兮从粉丝里捞工作人员",
@@ -10617,6 +10657,14 @@
       "onboard_time": 1762087222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92552,
+      "num": 92552,
+      "word": "淡淡的就顺顺的",
+      "onboard_time": 1762403902,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 92538,
@@ -10907,6 +10955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90434,
+      "num": 90434,
+      "word": "杨紫 让自己快乐是最重要的",
+      "onboard_time": 1762403781,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90405,
       "num": 90405,
       "word": "中国公民持澳签今起免签入境新西兰",
@@ -11113,14 +11169,6 @@
       "onboard_time": 1762324821,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88998,
-      "num": 88998,
-      "word": "黄磊回应被指爱说教",
-      "onboard_time": 1762403363,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 88885,
@@ -11865,6 +11913,14 @@
       "onboard_time": 1762073181,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84046,
+      "num": 84046,
+      "word": "起床第一件事就是撸小狗的肚子",
+      "onboard_time": 1762404262,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 84020,
@@ -12761,6 +12817,14 @@
       "onboard_time": 1762148541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75932,
+      "num": 101822,
+      "word": "全球最性感男人结果出炉",
+      "onboard_time": 1762403841,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75928,
@@ -14475,6 +14539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41555,
+      "num": 805694,
+      "word": "乌镇有大系",
+      "onboard_time": 1762396760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41526,
       "num": 105102,
       "word": "中国游客在马尔代夫浮潜时溺亡",
@@ -14769,14 +14841,6 @@
       "onboard_time": 1762319301,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35082,
-      "num": 425677,
-      "word": "乌镇有大系",
-      "onboard_time": 1762396760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35056,
@@ -15088,6 +15152,14 @@
       "word": "男子求见李嘉诚被拦打伤保安",
       "onboard_time": 1762312940,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27150,
+      "num": 184810,
+      "word": "男童被生母继父虐死案二审将开庭",
+      "onboard_time": 1762403542,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -15696,14 +15768,6 @@
       "word": "停产多年的锅厂因一条视频复工复产",
       "onboard_time": 1762266022,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7094,
-      "num": 117868,
-      "word": "男童被生母继父虐死案二审将开庭",
-      "onboard_time": 1762403542,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
