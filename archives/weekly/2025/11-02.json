@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762442999852,
+  "endTime": 1762443919060,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -569,6 +569,14 @@
       "onboard_time": 1762315821,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 833774,
+      "num": 481232,
+      "word": "康熙粉退坑出",
+      "onboard_time": 1762440383,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 833435,
@@ -1451,6 +1459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 521699,
+      "num": 513563,
+      "word": "昆凌回复周杰伦",
+      "onboard_time": 1762439242,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521552,
       "num": 182344,
       "word": "欧阳妮妮想生三胎被老公婉拒",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1762168702,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 513563,
-      "num": 513563,
-      "word": "昆凌回复周杰伦",
-      "onboard_time": 1762439242,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 509836,
@@ -1699,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481232,
-      "num": 481232,
-      "word": "康熙粉退坑出",
-      "onboard_time": 1762440383,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 480816,
       "num": 183433,
       "word": "孙颖莎生日发博",
@@ -1825,6 +1825,14 @@
       "onboard_time": 1762099880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453007,
+      "num": 1072481,
+      "word": "中国愿意帮助印度",
+      "onboard_time": 1762439843,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 450273,
@@ -2403,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366230,
+      "num": 238829,
+      "word": "副院长出轨眼科主任医院6月刚被罚",
+      "onboard_time": 1762441282,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365877,
       "num": 365877,
       "word": "你好星期六配置",
@@ -2433,14 +2449,6 @@
       "onboard_time": 1762226360,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364165,
-      "num": 1058266,
-      "word": "中国愿意帮助印度",
-      "onboard_time": 1762439843,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 364060,
@@ -3713,14 +3721,6 @@
       "onboard_time": 1762239079,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238829,
-      "num": 238829,
-      "word": "副院长出轨眼科主任医院6月刚被罚",
-      "onboard_time": 1762441282,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238280,
@@ -5395,6 +5395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174033,
+      "num": 238282,
+      "word": "杨紫四部大女主剧待播",
+      "onboard_time": 1762440443,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173857,
       "num": 173857,
       "word": "丁禹兮泰国活动生图",
@@ -5937,14 +5945,6 @@
       "onboard_time": 1762183225,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161765,
-      "num": 238282,
-      "word": "杨紫四部大女主剧待播",
-      "onboard_time": 1762440443,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 161560,
@@ -6731,6 +6731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145057,
+      "num": 835004,
+      "word": "福建舰弹射画面公开",
+      "onboard_time": 1762439843,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145020,
       "num": 154433,
       "word": "全红婵未报个人赛原因",
@@ -7145,14 +7153,6 @@
       "onboard_time": 1762323802,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138895,
-      "num": 835004,
-      "word": "福建舰弹射画面公开",
-      "onboard_time": 1762439843,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 138828,
@@ -7617,6 +7617,14 @@
       "onboard_time": 1762172061,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133222,
+      "num": 356061,
+      "word": "女子引产被拒诞下女婴被医生抱养",
+      "onboard_time": 1762442662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132799,
@@ -11619,6 +11627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97086,
+      "num": 809714,
+      "word": "咒术回战续作虎杖悠仁回归",
+      "onboard_time": 1762442720,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96977,
       "num": 96977,
       "word": "Faker谈SKT时期与T1时期",
@@ -11873,6 +11889,14 @@
       "onboard_time": 1762387460,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95170,
+      "num": 231879,
+      "word": "官方通报小学生校门口敬礼迎车辆入校",
+      "onboard_time": 1762442241,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95087,
@@ -12667,14 +12691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90750,
-      "num": 231879,
-      "word": "官方通报小学生校门口敬礼迎车辆入校",
-      "onboard_time": 1762442241,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -13025,6 +13041,14 @@
       "onboard_time": 1762308140,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88736,
+      "num": 229768,
+      "word": "侯梓泰offer7唯一进终面的男生",
+      "onboard_time": 1762440563,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 88716,
@@ -14715,14 +14739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77536,
-      "num": 229768,
-      "word": "侯梓泰offer7唯一进终面的男生",
-      "onboard_time": 1762440563,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77511,
       "num": 173197,
       "word": "台湾民众听馆长讲大陆见闻发出惊呼",
@@ -14851,14 +14867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76337,
-      "num": 809714,
-      "word": "咒术回战续作虎杖悠仁回归",
-      "onboard_time": 1762442720,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 76277,
       "num": 76277,
       "word": "一诺官宣微博竞燃之夜",
@@ -14928,14 +14936,6 @@
       "word": "河南一小区12对双胞胎像复制粘贴",
       "onboard_time": 1762126520,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75826,
-      "num": 356061,
-      "word": "女子引产被拒诞下女婴被医生抱养",
-      "onboard_time": 1762442662,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15355,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70846,
+      "num": 70846,
+      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+      "onboard_time": 1762443441,
+      "rank": 44,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 70793,
       "num": 115217,
       "word": "河北体育局为孙颖莎庆生",
@@ -15641,6 +15649,14 @@
       "onboard_time": 1762395620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66341,
+      "num": 70368,
+      "word": "张凯丽曾代言的足力健涉多起纠纷",
+      "onboard_time": 1762443381,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 66308,
@@ -15961,6 +15977,14 @@
       "onboard_time": 1762184361,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60885,
+      "num": 70324,
+      "word": "赵鸿刚回应被三巴掌KO",
+      "onboard_time": 1762443860,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60741,
@@ -18112,6 +18136,14 @@
       "word": "超级月亮拍摄挑战赛",
       "onboard_time": 1762317742,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13166,
+      "num": 87342,
+      "word": "AI网课诈骗向银发老人伸出魔爪",
+      "onboard_time": 1762443619,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

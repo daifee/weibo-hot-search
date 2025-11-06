@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762442999852,
+  "endTime": 1762443919060,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -129,6 +129,14 @@
       "onboard_time": 1762414999,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 833774,
+      "num": 481232,
+      "word": "康熙粉退坑出",
+      "onboard_time": 1762440383,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 805385,
@@ -339,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521699,
+      "num": 513563,
+      "word": "昆凌回复周杰伦",
+      "onboard_time": 1762439242,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521552,
       "num": 182344,
       "word": "欧阳妮妮想生三胎被老公婉拒",
@@ -353,14 +369,6 @@
       "onboard_time": 1762405222,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513563,
-      "num": 513563,
-      "word": "昆凌回复周杰伦",
-      "onboard_time": 1762439242,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 509836,
@@ -395,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481232,
-      "num": 481232,
-      "word": "康熙粉退坑出",
-      "onboard_time": 1762440383,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 476997,
       "num": 266722,
       "word": "疑似王传君老板回应",
@@ -417,6 +417,14 @@
       "onboard_time": 1762356680,
       "rank": 0,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 453007,
+      "num": 1072481,
+      "word": "中国愿意帮助印度",
+      "onboard_time": 1762439843,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 450273,
@@ -515,20 +523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366230,
+      "num": 238829,
+      "word": "副院长出轨眼科主任医院6月刚被罚",
+      "onboard_time": 1762441282,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364497,
       "num": 874381,
       "word": "王传君东京电影节影帝",
       "onboard_time": 1762332922,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 364165,
-      "num": 1058266,
-      "word": "中国愿意帮助印度",
-      "onboard_time": 1762439843,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 359475,
@@ -801,14 +809,6 @@
       "onboard_time": 1762405523,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 238829,
-      "num": 238829,
-      "word": "副院长出轨眼科主任医院6月刚被罚",
-      "onboard_time": 1762441282,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236174,
@@ -1139,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174033,
+      "num": 238282,
+      "word": "杨紫四部大女主剧待播",
+      "onboard_time": 1762440443,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173898,
       "num": 173898,
       "word": "杨紫直播造型",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1762352301,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161765,
-      "num": 238282,
-      "word": "杨紫四部大女主剧待播",
-      "onboard_time": 1762440443,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 160057,
@@ -1331,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145057,
+      "num": 835004,
+      "word": "福建舰弹射画面公开",
+      "onboard_time": 1762439843,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144766,
       "num": 144766,
       "word": "缅甸电诈之手伸向非洲",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1762421062,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138895,
-      "num": 835004,
-      "word": "福建舰弹射画面公开",
-      "onboard_time": 1762439843,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 138828,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1762417580,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133222,
+      "num": 356061,
+      "word": "女子引产被拒诞下女婴被医生抱养",
+      "onboard_time": 1762442662,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132642,
@@ -2267,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97086,
+      "num": 809714,
+      "word": "咒术回战续作虎杖悠仁回归",
+      "onboard_time": 1762442720,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96917,
       "num": 96917,
       "word": "华为即将发布首款星闪耳机",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1762387460,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95170,
+      "num": 231879,
+      "word": "官方通报小学生校门口敬礼迎车辆入校",
+      "onboard_time": 1762442241,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94756,
@@ -2507,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90750,
-      "num": 231879,
-      "word": "官方通报小学生校门口敬礼迎车辆入校",
-      "onboard_time": 1762442241,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -2600,6 +2616,14 @@
       "word": "马思纯自评2025是绽放的一年",
       "onboard_time": 1762437921,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88736,
+      "num": 229768,
+      "word": "侯梓泰offer7唯一进终面的男生",
+      "onboard_time": 1762440563,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2979,14 +3003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77536,
-      "num": 229768,
-      "word": "侯梓泰offer7唯一进终面的男生",
-      "onboard_time": 1762440563,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77511,
       "num": 173197,
       "word": "台湾民众听馆长讲大陆见闻发出惊呼",
@@ -3024,22 +3040,6 @@
       "word": "乌鲁木齐特大暴雪创纪录",
       "onboard_time": 1762427423,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76337,
-      "num": 809714,
-      "word": "咒术回战续作虎杖悠仁回归",
-      "onboard_time": 1762442720,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 75826,
-      "num": 356061,
-      "word": "女子引产被拒诞下女婴被医生抱养",
-      "onboard_time": 1762442662,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3163,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70846,
+      "num": 70846,
+      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+      "onboard_time": 1762443441,
+      "rank": 44,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 69798,
       "num": 69798,
       "word": "澳门知名娱乐场英皇宫殿宣布停运",
@@ -3225,6 +3233,14 @@
       "onboard_time": 1762395620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66341,
+      "num": 70368,
+      "word": "张凯丽曾代言的足力健涉多起纠纷",
+      "onboard_time": 1762443381,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 66305,
@@ -3297,6 +3313,14 @@
       "onboard_time": 1762354820,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60885,
+      "num": 70324,
+      "word": "赵鸿刚回应被三巴掌KO",
+      "onboard_time": 1762443860,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60003,
@@ -3984,6 +4008,14 @@
       "word": "2026年国庆拼假能休17天",
       "onboard_time": 1762363875,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13166,
+      "num": 87342,
+      "word": "AI网课诈骗向银发老人伸出魔爪",
+      "onboard_time": 1762443619,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
