@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762400197495,
+  "endTime": 1762403649211,
   "band_list": [
     {
       "raw_hot": 1323471,
@@ -9,6 +9,14 @@
       "onboard_time": 1762398138,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1248268,
+      "num": 1248268,
+      "word": "没认出这是易烊千玺",
+      "onboard_time": 1762400241,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 943804,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 797294,
-      "num": 210584,
+      "num": 224280,
       "word": "将门毒后谢景行",
       "onboard_time": 1762393099,
       "rank": 21,
@@ -43,8 +51,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 641198,
+      "num": 542363,
+      "word": "王一博已成立个人独资工作室",
+      "onboard_time": 1762397540,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587977,
-      "num": 209996,
+      "num": 223607,
       "word": "浙大回应食堂一只螃蟹只卖8.8元",
       "onboard_time": 1762396639,
       "rank": 12,
@@ -65,14 +81,6 @@
       "onboard_time": 1762389560,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 542363,
-      "num": 542363,
-      "word": "王一博已成立个人独资工作室",
-      "onboard_time": 1762397540,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 539359,
@@ -172,11 +180,27 @@
     },
     {
       "raw_hot": 310115,
-      "num": 201913,
+      "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
       "onboard_time": 1762398320,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293196,
+      "num": 223369,
+      "word": "23岁女生拔掉57颗牙的体验",
+      "onboard_time": 1762402523,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 279929,
+      "num": 279929,
+      "word": "乐华2025年中报未提及王一博",
+      "onboard_time": 1762402042,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 268346,
@@ -203,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257404,
+      "num": 222935,
+      "word": "医院回应网传副院长出轨眼科主任",
+      "onboard_time": 1762401381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246714,
       "num": 246714,
       "word": "大学生一边兼职一边救人",
       "onboard_time": 1762395201,
       "rank": 4,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 240071,
+      "num": 222523,
+      "word": "经常看书和不看书的区别",
+      "onboard_time": 1762402280,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 236174,
@@ -219,12 +259,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 227461,
-      "num": 129502,
+      "raw_hot": 233114,
+      "num": 233114,
       "word": "Tabe凌晨发文",
       "onboard_time": 1762399580,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223897,
+      "num": 192161,
+      "word": "向佐 为了孩子忍一忍就过去了",
+      "onboard_time": 1762401322,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 219276,
@@ -241,6 +289,14 @@
       "onboard_time": 1762393519,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "李现去西藏雪山徒步了",
+      "onboard_time": 1762400840,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 205542,
@@ -260,7 +316,7 @@
     },
     {
       "raw_hot": 204797,
-      "num": 143168,
+      "num": 191334,
       "word": "熬夜熬到什么程度可能猝死",
       "onboard_time": 1762396101,
       "rank": 26,
@@ -291,8 +347,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171751,
-      "num": 215066,
+      "raw_hot": 172563,
+      "num": 225800,
       "word": "胖东来公示员工勇敢正义奖励",
       "onboard_time": 1762396580,
       "rank": 7,
@@ -312,6 +368,14 @@
       "word": "张一山最近也是老来俏了",
       "onboard_time": 1762395500,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163291,
+      "num": 163291,
+      "word": "孙俪吃饭菜精细到用称量",
+      "onboard_time": 1762401981,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -339,12 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142195,
+      "num": 225396,
+      "word": "狐妖小红娘系列漫改为啥连翻车",
+      "onboard_time": 1762402581,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141683,
       "num": 146158,
       "word": "将门毒后网传演员阵容",
       "onboard_time": 1762358780,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138341,
+      "num": 138341,
+      "word": "确诊多囊后把自己重养一遍",
+      "onboard_time": 1762398920,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137481,
@@ -355,12 +435,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132525,
-      "num": 103997,
-      "word": "确诊多囊后把自己重养一遍",
-      "onboard_time": 1762398920,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 137386,
+      "num": 223896,
+      "word": "张艺兴直接吃掉在手机上的生肉",
+      "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136292,
+      "num": 136292,
+      "word": "全运会跳水女子双人10米台",
+      "onboard_time": 1762398800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129516,
+      "num": 129516,
+      "word": "其实不用担心一辈子都要上班",
+      "onboard_time": 1762401141,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 126795,
@@ -369,6 +465,22 @@
       "onboard_time": 1762363396,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126503,
+      "num": 192840,
+      "word": "请回答1988播出十周年",
+      "onboard_time": 1762400960,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126424,
+      "num": 126424,
+      "word": "黄景瑜 勾股定理",
+      "onboard_time": 1762401501,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 125542,
@@ -395,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121801,
+      "num": 127134,
+      "word": "这简直是内娱cp宣发天花板",
+      "onboard_time": 1762401621,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119411,
       "num": 119411,
       "word": "沟通能力强的人说话顺序是这样的",
       "onboard_time": 1762389022,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116878,
+      "num": 116878,
+      "word": "重庆市调整部分行政区划",
+      "onboard_time": 1762403481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116694,
@@ -435,20 +563,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105634,
-      "num": 105634,
+      "raw_hot": 105928,
+      "num": 105928,
       "word": "景甜龙骨焚箱杀青",
       "onboard_time": 1762399280,
       "rank": 26,
       "category": "剧集"
     },
     {
-      "raw_hot": 104927,
-      "num": 104927,
-      "word": "全运会跳水女子双人10米台",
-      "onboard_time": 1762398800,
-      "rank": 34,
+      "raw_hot": 102268,
+      "num": 102268,
+      "word": "全红婵熟练得让人心疼",
+      "onboard_time": 1762403182,
+      "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101528,
+      "num": 102459,
+      "word": "衣服上挂密码锁确认收货再给密码",
+      "onboard_time": 1762401441,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101415,
@@ -547,12 +683,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90079,
+      "num": 90079,
+      "word": "应季水果时间表",
+      "onboard_time": 1762402401,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89919,
       "num": 119884,
       "word": "全红婵十五运收官之战",
       "onboard_time": 1762394119,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88998,
+      "num": 88998,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 87964,
@@ -603,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84591,
+      "num": 84591,
+      "word": "轻轻关门的无力感",
+      "onboard_time": 1762403603,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 84313,
       "num": 84313,
       "word": "自媒体完成对外国的祛魅",
@@ -624,6 +784,14 @@
       "word": "第十五届全国运动会开幕式",
       "onboard_time": 1762399881,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83649,
+      "num": 83649,
+      "word": "孙颖莎眼里全是小白球",
+      "onboard_time": 1762402761,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -691,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75815,
+      "num": 203282,
+      "word": "河南公安厅刑侦总队政委主动投案",
+      "onboard_time": 1762398320,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75501,
       "num": 75501,
       "word": "原来完整的莲藕长这样",
@@ -721,6 +897,14 @@
       "onboard_time": 1762388842,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73206,
+      "num": 80270,
+      "word": "李施嬅给得干脆也断得干脆",
+      "onboard_time": 1762401381,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 72831,
@@ -891,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58475,
+      "num": 204617,
+      "word": "N6神颜一见倾心",
+      "onboard_time": 1762398260,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57869,
       "num": 71766,
       "word": "杨紫直播",
@@ -939,20 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55630,
-      "num": 203282,
-      "word": "河南公安厅刑侦总队政委主动投案",
-      "onboard_time": 1762398320,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55053,
       "num": 227312,
       "word": "vivoX300拍到了超级月亮",
       "onboard_time": 1762356261,
       "rank": 7,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 53407,
+      "num": 209537,
+      "word": "胡兵黄金时代大秀回顾",
+      "onboard_time": 1762400301,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 51982,
@@ -969,6 +1161,14 @@
       "onboard_time": 1762350562,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51181,
+      "num": 208343,
+      "word": "中国混动破世界纪录",
+      "onboard_time": 1762400301,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 50319,
@@ -1001,14 +1201,6 @@
       "onboard_time": 1762346301,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44095,
-      "num": 204617,
-      "word": "N6神颜一见倾心",
-      "onboard_time": 1762398260,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 42248,
@@ -1089,6 +1281,14 @@
       "onboard_time": 1762384637,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 35082,
+      "num": 425677,
+      "word": "乌镇有大系",
+      "onboard_time": 1762396760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34337,
@@ -1208,6 +1408,14 @@
       "word": "2026年国庆拼假能休17天",
       "onboard_time": 1762363875,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7094,
+      "num": 117868,
+      "word": "男童被生母继父虐死案二审将开庭",
+      "onboard_time": 1762403542,
+      "rank": 33,
       "category": "民生新闻"
     },
     {

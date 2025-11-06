@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762400197495,
+  "endTime": 1762403649211,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -249,6 +249,14 @@
       "onboard_time": 1762057520,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1248268,
+      "num": 1248268,
+      "word": "没认出这是易烊千玺",
+      "onboard_time": 1762400241,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1229180,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 797294,
-      "num": 210584,
+      "num": 224280,
       "word": "将门毒后谢景行",
       "onboard_time": 1762393099,
       "rank": 21,
@@ -979,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641198,
+      "num": 542363,
+      "word": "王一博已成立个人独资工作室",
+      "onboard_time": 1762397540,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640462,
       "num": 640462,
       "word": "iPhone面容解锁不需要摄像头",
@@ -1204,7 +1220,7 @@
     },
     {
       "raw_hot": 587977,
-      "num": 209996,
+      "num": 223607,
       "word": "浙大回应食堂一只螃蟹只卖8.8元",
       "onboard_time": 1762396639,
       "rank": 12,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1762217482,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 542363,
-      "num": 542363,
-      "word": "王一博已成立个人独资工作室",
-      "onboard_time": 1762397540,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 540307,
@@ -2876,7 +2884,7 @@
     },
     {
       "raw_hot": 310115,
-      "num": 201913,
+      "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
       "onboard_time": 1762398320,
       "rank": 21,
@@ -3155,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293196,
+      "num": 223369,
+      "word": "23岁女生拔掉57颗牙的体验",
+      "onboard_time": 1762402523,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290721,
       "num": 335227,
       "word": "樊振东王楚钦全运会男团同组",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1762175602,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 279929,
+      "num": 279929,
+      "word": "乐华2025年中报未提及王一博",
+      "onboard_time": 1762402042,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 279896,
@@ -3563,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257404,
+      "num": 222935,
+      "word": "医院回应网传副院长出轨眼科主任",
+      "onboard_time": 1762401381,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257268,
       "num": 268759,
       "word": "你未婚我卫韫",
@@ -3795,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240071,
+      "num": 222523,
+      "word": "经常看书和不看书的区别",
+      "onboard_time": 1762402280,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239735,
       "num": 296835,
       "word": "DRG对战狼队",
@@ -3881,6 +3921,14 @@
       "onboard_time": 1762012042,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233114,
+      "num": 233114,
+      "word": "Tabe凌晨发文",
+      "onboard_time": 1762399580,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 232215,
@@ -3995,14 +4043,6 @@
       "category": "辟谣/通报,体育"
     },
     {
-      "raw_hot": 227461,
-      "num": 129502,
-      "word": "Tabe凌晨发文",
-      "onboard_time": 1762399580,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 226913,
       "num": 504286,
       "word": "AL教练后台痛哭",
@@ -4049,6 +4089,14 @@
       "onboard_time": 1762164621,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223897,
+      "num": 192161,
+      "word": "向佐 为了孩子忍一忍就过去了",
+      "onboard_time": 1762401322,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 223032,
@@ -4475,6 +4523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207281,
+      "num": 207281,
+      "word": "李现去西藏雪山徒步了",
+      "onboard_time": 1762400840,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -4580,7 +4636,7 @@
     },
     {
       "raw_hot": 204797,
-      "num": 143168,
+      "num": 191334,
       "word": "熬夜熬到什么程度可能猝死",
       "onboard_time": 1762396101,
       "rank": 26,
@@ -5683,6 +5739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172563,
+      "num": 225800,
+      "word": "胖东来公示员工勇敢正义奖励",
+      "onboard_time": 1762396580,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172423,
       "num": 152992,
       "word": "蒲熠星ELLE活动花絮",
@@ -5721,14 +5785,6 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171751,
-      "num": 215066,
-      "word": "胖东来公示员工勇敢正义奖励",
-      "onboard_time": 1762396580,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171539,
@@ -6184,6 +6240,14 @@
       "word": "陈天润微博在线了",
       "onboard_time": 1762096102,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163291,
+      "num": 163291,
+      "word": "孙俪吃饭菜精细到用称量",
+      "onboard_time": 1762401981,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -7451,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142195,
+      "num": 225396,
+      "word": "狐妖小红娘系列漫改为啥连翻车",
+      "onboard_time": 1762402581,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142089,
       "num": 142089,
       "word": "热依扎把星河穿在了身上",
@@ -7739,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138341,
+      "num": 138341,
+      "word": "确诊多囊后把自己重养一遍",
+      "onboard_time": 1762398920,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138253,
       "num": 150888,
       "word": "谁懂央视力挺二次元的含金量",
@@ -7843,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137386,
+      "num": 223896,
+      "word": "张艺兴直接吃掉在手机上的生肉",
+      "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137344,
       "num": 137344,
       "word": "于正内涵曾庆杰",
@@ -7929,6 +8017,14 @@
       "onboard_time": 1762331241,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136292,
+      "num": 136292,
+      "word": "全运会跳水女子双人10米台",
+      "onboard_time": 1762398800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 136241,
@@ -8187,14 +8283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132525,
-      "num": 103997,
-      "word": "确诊多囊后把自己重养一遍",
-      "onboard_time": 1762398920,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132276,
       "num": 132276,
       "word": "让杨幂盛典图给内娱一些震撼",
@@ -8449,6 +8537,14 @@
       "onboard_time": 1762087882,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129516,
+      "num": 129516,
+      "word": "其实不用担心一辈子都要上班",
+      "onboard_time": 1762401141,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 129462,
@@ -8723,6 +8819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126503,
+      "num": 192840,
+      "word": "请回答1988播出十周年",
+      "onboard_time": 1762400960,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126481,
       "num": 126481,
       "word": "T1胜后全员大合照",
@@ -8736,6 +8840,14 @@
       "word": "柯淳在同学录上写廖慧佳真漂亮",
       "onboard_time": 1762233499,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126424,
+      "num": 126424,
+      "word": "黄景瑜 勾股定理",
+      "onboard_time": 1762401501,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -9185,6 +9297,14 @@
       "onboard_time": 1762063821,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121801,
+      "num": 127134,
+      "word": "这简直是内娱cp宣发天花板",
+      "onboard_time": 1762401621,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 121642,
@@ -9665,6 +9785,14 @@
       "onboard_time": 1762080680,
       "rank": 28,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 116878,
+      "num": 116878,
+      "word": "重庆市调整部分行政区划",
+      "onboard_time": 1762403481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116784,
@@ -10907,20 +11035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105928,
+      "num": 105928,
+      "word": "景甜龙骨焚箱杀青",
+      "onboard_time": 1762399280,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105636,
       "num": 105636,
       "word": "朱开说Kanavi只能在LPL打",
       "onboard_time": 1762222820,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105634,
-      "num": 105634,
-      "word": "景甜龙骨焚箱杀青",
-      "onboard_time": 1762399280,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 105540,
@@ -11017,14 +11145,6 @@
       "onboard_time": 1762313599,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104927,
-      "num": 104927,
-      "word": "全运会跳水女子双人10米台",
-      "onboard_time": 1762398800,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 104875,
@@ -11507,6 +11627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102268,
+      "num": 102268,
+      "word": "全红婵熟练得让人心疼",
+      "onboard_time": 1762403182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102238,
       "num": 119917,
       "word": "谢娜回应何炅谢娜同台主持",
@@ -11609,6 +11737,14 @@
       "onboard_time": 1761981681,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101528,
+      "num": 102459,
+      "word": "衣服上挂密码锁确认收货再给密码",
+      "onboard_time": 1762401441,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101521,
@@ -13507,6 +13643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90079,
+      "num": 90079,
+      "word": "应季水果时间表",
+      "onboard_time": 1762402401,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90022,
       "num": 163812,
       "word": "王多多称T1暴露了很多破绽",
@@ -13673,6 +13817,14 @@
       "onboard_time": 1762324821,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88998,
+      "num": 88998,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 88885,
@@ -14435,6 +14587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84591,
+      "num": 84591,
+      "word": "轻轻关门的无力感",
+      "onboard_time": 1762403603,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 84521,
       "num": 99480,
       "word": "第一视角感受北马",
@@ -14601,6 +14761,14 @@
       "onboard_time": 1761962540,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83649,
+      "num": 83649,
+      "word": "孙颖莎眼里全是小白球",
+      "onboard_time": 1762402761,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 83547,
@@ -15579,6 +15747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75815,
+      "num": 203282,
+      "word": "河南公安厅刑侦总队政委主动投案",
+      "onboard_time": 1762398320,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75772,
       "num": 75772,
       "word": "异宠绝对不能放生",
@@ -15793,6 +15969,14 @@
       "onboard_time": 1762269622,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73206,
+      "num": 80270,
+      "word": "李施嬅给得干脆也断得干脆",
+      "onboard_time": 1762401381,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 73198,
@@ -16947,6 +17131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58475,
+      "num": 204617,
+      "word": "N6神颜一见倾心",
+      "onboard_time": 1762398260,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58219,
       "num": 115792,
       "word": "石宇奇又又又换发色了",
@@ -17123,14 +17315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 55630,
-      "num": 203282,
-      "word": "河南公安厅刑侦总队政委主动投案",
-      "onboard_time": 1762398320,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55512,
       "num": 69254,
       "word": "王权富贵再次燃命",
@@ -17209,6 +17393,14 @@
       "onboard_time": 1762166360,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53407,
+      "num": 209537,
+      "word": "胡兵黄金时代大秀回顾",
+      "onboard_time": 1762400301,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 53314,
@@ -17305,6 +17497,14 @@
       "onboard_time": 1762190176,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51181,
+      "num": 208343,
+      "word": "中国混动破世界纪录",
+      "onboard_time": 1762400301,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 50955,
@@ -17585,14 +17785,6 @@
       "onboard_time": 1761992480,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44095,
-      "num": 204617,
-      "word": "N6神颜一见倾心",
-      "onboard_time": 1762398260,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 43957,
@@ -18073,6 +18265,14 @@
       "onboard_time": 1762319301,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35082,
+      "num": 425677,
+      "word": "乌镇有大系",
+      "onboard_time": 1762396760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35056,
@@ -19201,6 +19401,14 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7094,
+      "num": 117868,
+      "word": "男童被生母继父虐死案二审将开庭",
+      "onboard_time": 1762403542,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1998,
