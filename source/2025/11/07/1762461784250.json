@@ -1,0 +1,410 @@
+{
+  "runTime": 1762461784250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 35734,
+        "num": 36342,
+        "word": "王鹤棣孟子义首搭",
+        "onboard_time": 1762444821,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21581,
+        "num": 36267,
+        "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+        "onboard_time": 1762443441,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 9122,
+        "num": 36126,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18647,
+        "num": 35844,
+        "word": "全红婵回应获得第五",
+        "onboard_time": 1762430361,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 35631,
+        "word": "张泽禹 声生不息",
+        "onboard_time": 1762441461,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15958,
+        "num": 35520,
+        "word": "陈芋汐希望和全红婵一起携手",
+        "onboard_time": 1762430661,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16253,
+        "num": 35170,
+        "word": "凤凰台上",
+        "onboard_time": 1762441103,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14687,
+        "num": 34968,
+        "word": "福建舰弹射画面公开",
+        "onboard_time": 1762439843,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13050,
+        "num": 34780,
+        "word": "Faker自拍配文成都",
+        "onboard_time": 1762440383,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10749,
+        "num": 34609,
+        "word": "精彩全运会",
+        "onboard_time": 1762444821,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64915,
+        "num": 34509,
+        "word": "这才是真正的道歉",
+        "onboard_time": 1762438700,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 57672,
+        "num": 34172,
+        "word": "女子引产被拒诞下女婴被医生抱养",
+        "onboard_time": 1762442662,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50278,
+        "num": 34083,
+        "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+        "onboard_time": 1762445301,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48055,
+        "num": 33754,
+        "word": "昆凌回复周杰伦",
+        "onboard_time": 1762439242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47235,
+        "num": 33574,
+        "word": "月薪6000 花8万买塑形内衣",
+        "onboard_time": 1762444760,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43988,
+        "num": 33356,
+        "word": "郭美美2次入狱又试图复出",
+        "onboard_time": 1762435041,
+        "rank": 15,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 33316,
+        "num": 33316,
+        "word": "中国愿意帮助印度",
+        "onboard_time": 1762439843,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32010,
+        "num": 32010,
+        "word": "真水无香和小雨妖妖十年后再同框",
+        "onboard_time": 1762430721,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31364,
+        "num": 31364,
+        "word": "肥猫扮演者郑则仕瘦了好多",
+        "onboard_time": 1762437141,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27624,
+        "num": 27624,
+        "word": "杨紫张一山友情",
+        "onboard_time": 1762422502,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31429,
+        "num": 27558,
+        "word": "白百何回应东京电影节争议",
+        "onboard_time": 1762425621,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27118,
+        "num": 27118,
+        "word": "康熙粉退坑出",
+        "onboard_time": 1762440383,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19540,
+        "num": 27101,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15414,
+        "num": 27073,
+        "word": "网传雪中悍刀行2阵容",
+        "onboard_time": 1762434861,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15850,
+        "num": 27059,
+        "word": "金价暴涨三四线城市金店撑不住了",
+        "onboard_time": 1762437863,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15696,
+        "num": 27024,
+        "word": "白百何说导演隐身",
+        "onboard_time": 1762455734,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16589,
+        "num": 26991,
+        "word": "鞠婧祎 异域公主",
+        "onboard_time": 1762425862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14463,
+        "num": 26974,
+        "word": "杨紫四部大女主剧待播",
+        "onboard_time": 1762440443,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13990,
+        "num": 26939,
+        "word": "张凯丽曾代言的足力健涉多起纠纷",
+        "onboard_time": 1762443381,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 8549,
+        "num": 26898,
+        "word": "福建舰海试高清视频发布",
+        "onboard_time": 1762442421,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 16268,
+        "num": 26862,
+        "word": "白百何 张律",
+        "onboard_time": 1762433061,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16194,
+        "num": 26853,
+        "word": "朋友圈全员92是什么概念",
+        "onboard_time": 1762435400,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15610,
+        "num": 26805,
+        "word": "山姆回应支付跳转色情页面",
+        "onboard_time": 1762437082,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15464,
+        "num": 26780,
+        "word": "女子避让未牵绳贵宾犬致9级伤残",
+        "onboard_time": 1762446319,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14767,
+        "num": 26749,
+        "word": "皮皮朱方声明",
+        "onboard_time": 1762438942,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13650,
+        "num": 26730,
+        "word": "两名老师校外从学生包中搜走零食",
+        "onboard_time": 1762456514,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13324,
+        "num": 26714,
+        "word": "中方回应日本政府向谢长廷授勋",
+        "onboard_time": 1762451417,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12850,
+        "num": 26683,
+        "word": "老师我家田曦薇不能露秋裤吗",
+        "onboard_time": 1762432402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12771,
+        "num": 26658,
+        "word": "结婚登记增40.5万对",
+        "onboard_time": 1762424300,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12738,
+        "num": 26615,
+        "word": "黄金税落地后普通人怎做投资选择",
+        "onboard_time": 1762445719,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11854,
+        "num": 26593,
+        "word": "韩警方回应网红造谣中国人杀韩国人",
+        "onboard_time": 1762454594,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 26575,
+        "word": "美总统十秒道破美国外交政策本质",
+        "onboard_time": 1762449557,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11542,
+        "num": 26526,
+        "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
+        "onboard_time": 1762431262,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11227,
+        "num": 26504,
+        "word": "疑似王传君老板回应",
+        "onboard_time": 1762429221,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10804,
+        "num": 26475,
+        "word": "张馨予用0秒接受了自己是布偶猫",
+        "onboard_time": 1762459994,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10688,
+        "num": 26447,
+        "word": "将门毒后女主原型是王艳",
+        "onboard_time": 1762422261,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9902,
+        "num": 26423,
+        "word": "易烊千玺 老衲来的",
+        "onboard_time": 1762433361,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9881,
+        "num": 26405,
+        "word": "王鹤棣资源好牛",
+        "onboard_time": 1762433543,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9778,
+        "num": 26379,
+        "word": "陈哲远 刚刚开机了吗",
+        "onboard_time": 1762432761,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9476,
+        "num": 26322,
+        "word": "沈腾遇上范丞丞胡先煦完全没招了",
+        "onboard_time": 1762459033,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对海南寄予的厚望#"
+    }
+  }
+}
