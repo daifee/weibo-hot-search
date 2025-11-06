@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/07 05:24:29
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/07 05:39:12
 </p>
 </blockquote>
 <p>
@@ -13527,6 +13527,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23" target="weibo">
+抖音回应温峥嵘被AI盗播（热度：21193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84%E7%A4%BC%E9%81%87%E5%AD%A3%E7%AC%AC%E4%BA%8C%E6%9C%9F%E6%9D%A5%E4%BA%86%23" target="weibo">
 令人心动的礼遇季第二期来了（热度：20953）
 </a>
@@ -13619,12 +13625,6 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E4%BD%8F%E9%99%A2%E5%AD%A6%E7%94%9F%E5%85%A8%E9%83%A8%E5%BA%B7%E5%A4%8D%E8%BF%94%E6%A0%A1%23" target="weibo">
 身体不适住院学生全部康复返校（热度：17790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23" target="weibo">
-抖音回应温峥嵘被AI盗播（热度：17766）
 </a>
 </li>
 
@@ -13798,7 +13798,7 @@ AI网课诈骗向银发老人伸出魔爪（热度：13166）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%81%87%E4%B8%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%8B%9B%E4%BA%86%23" target="weibo">
-沈腾遇上范丞丞胡先煦完全没招了（热度：11721）
+沈腾遇上范丞丞胡先煦完全没招了（热度：11872）
 </a>
 </li>
 
