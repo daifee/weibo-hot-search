@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762457809210,
+  "endTime": 1762461008369,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -21939,7 +21939,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13724,
+      "raw_hot": 13805,
       "num": 39233,
       "word": "两名老师校外从学生包中搜走零食",
       "onboard_time": 1762456514,
@@ -22089,6 +22089,14 @@
       "onboard_time": 1762046360,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10157,
+      "num": 31201,
+      "word": "张馨予用0秒接受了自己是布偶猫",
+      "onboard_time": 1762459994,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 10119,
