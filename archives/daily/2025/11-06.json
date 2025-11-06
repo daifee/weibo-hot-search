@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762422212840,
+  "endTime": 1762425063814,
   "band_list": [
     {
       "raw_hot": 1461165,
@@ -80,6 +80,14 @@
       "word": "将门毒后谢景行",
       "onboard_time": 1762393099,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 793112,
+      "num": 384039,
+      "word": "孟子义 沈妙",
+      "onboard_time": 1762419442,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569441,
+      "num": 133096,
+      "word": "杨紫张一山友情",
+      "onboard_time": 1762422502,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553533,
       "num": 208501,
       "word": "周震南 结婚请我商演吗",
@@ -203,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521552,
+      "num": 169582,
+      "word": "欧阳妮妮想生三胎被老公婉拒",
+      "onboard_time": 1762421482,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517558,
       "num": 517558,
       "word": "坍塌事故遇难女孩男友发声澄清",
@@ -235,11 +259,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485461,
-      "num": 384039,
-      "word": "孟子义 沈妙",
-      "onboard_time": 1762419442,
-      "rank": 5,
+      "raw_hot": 476170,
+      "num": 383364,
+      "word": "将门毒后女主原型是王艳",
+      "onboard_time": 1762422261,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -289,6 +313,22 @@
       "onboard_time": 1762413802,
       "rank": 43,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 412819,
+      "num": 412819,
+      "word": "湖南通报祖某某曾某生活作风问题",
+      "onboard_time": 1762419322,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 412053,
+      "num": 124257,
+      "word": "水果软糖 荤食",
+      "onboard_time": 1762422382,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 407626,
@@ -451,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255818,
+      "num": 112613,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247700,
       "num": 247700,
       "word": "官方通报网传副院长出轨眼科主任",
@@ -475,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 243980,
-      "num": 243980,
-      "word": "湖南通报祖某某曾某生活作风问题",
-      "onboard_time": 1762419322,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 239783,
       "num": 185608,
       "word": "妇产科医生眼中的完美月经",
@@ -499,12 +539,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 234883,
-      "num": 169582,
-      "word": "欧阳妮妮想生三胎被老公婉拒",
-      "onboard_time": 1762421482,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 233309,
+      "num": 108207,
+      "word": "王一博未关注乐华娱乐",
+      "onboard_time": 1762422623,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 233114,
@@ -747,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172330,
+      "num": 136324,
+      "word": "网传出轨医生上月还曾一同参加义诊",
+      "onboard_time": 1762420702,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170558,
       "num": 212696,
       "word": "闪耀暖暖",
@@ -875,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140550,
+      "num": 109788,
+      "word": "时隔五年景甜张彬彬又杀回来了",
+      "onboard_time": 1762424061,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140023,
       "num": 140023,
       "word": "杨紫 我怎么成老师了",
@@ -947,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136324,
-      "num": 136324,
-      "word": "网传出轨医生上月还曾一同参加义诊",
-      "onboard_time": 1762420702,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 136545,
+      "num": 136545,
+      "word": "缅甸电诈之手伸向非洲",
+      "onboard_time": 1762423941,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136292,
@@ -1211,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114821,
+      "num": 114821,
+      "word": "佘诗曼新闻女王2把AI干冒烟了",
+      "onboard_time": 1762423402,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113993,
       "num": 113993,
       "word": "易烊千玺 一个世纪后见",
@@ -1307,6 +1371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 107811,
+      "num": 107811,
+      "word": "小鹏X9超级增程太强了",
+      "onboard_time": 1762423880,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 107472,
       "num": 145993,
       "word": "吴昕微信几乎不留聊天记录",
@@ -1347,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105626,
-      "num": 105626,
-      "word": "煮泡面vs泡泡面",
-      "onboard_time": 1762420221,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105173,
       "num": 105173,
       "word": "湖人险胜马刺",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1762407620,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102487,
+      "num": 102487,
+      "word": "全运会女子双人10米跳台决赛",
+      "onboard_time": 1762424720,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 101415,
@@ -1425,6 +1497,14 @@
       "onboard_time": 1762409241,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 109627,
+      "word": "女子称父亲去世伯父强占丧葬金家产",
+      "onboard_time": 1762421661,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99131,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1762406301,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 96777,
+      "num": 96777,
+      "word": "乐华称目前股价稳健",
+      "onboard_time": 1762424541,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 96077,
@@ -1603,6 +1691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93108,
+      "num": 93108,
+      "word": "李施嬅 病态情感需求",
+      "onboard_time": 1762423040,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92711,
       "num": 92711,
       "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
@@ -1659,6 +1755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90816,
+      "num": 90816,
+      "word": "秦彻谁才是坏蛋",
+      "onboard_time": 1762424720,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -1673,6 +1777,14 @@
       "onboard_time": 1762403781,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90274,
+      "num": 102689,
+      "word": "天地剑心",
+      "onboard_time": 1762424781,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 90079,
@@ -1707,6 +1819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89263,
+      "num": 110800,
+      "word": "十个勤天露天给对方洗澡",
+      "onboard_time": 1762423521,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89048,
       "num": 192596,
       "word": "交出你的拼多多封神好物",
@@ -1721,6 +1841,14 @@
       "onboard_time": 1762416921,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87989,
+      "num": 99358,
+      "word": "山姆APP支付跳转黄色网站",
+      "onboard_time": 1762424421,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87964,
@@ -1771,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86679,
+      "num": 86679,
+      "word": "马思纯提议用备用金请工作人员吃饭",
+      "onboard_time": 1762419802,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86641,
       "num": 86641,
       "word": "300万开一家小酒店一个月能赚多少",
@@ -1785,6 +1921,14 @@
       "onboard_time": 1762407261,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86547,
+      "num": 86547,
+      "word": "湖南省人民医院出轨医生停职",
+      "onboard_time": 1762421541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86469,
@@ -1841,6 +1985,14 @@
       "onboard_time": 1762399223,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84747,
+      "num": 84747,
+      "word": "泰国国王将访问中国",
+      "onboard_time": 1762423221,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84669,
@@ -1939,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80930,
+      "num": 80930,
+      "word": "鳌拜 瓜尔佳氏",
+      "onboard_time": 1762425021,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 80315,
       "num": 80315,
       "word": "海军千余名新兵授枪大场面",
@@ -2001,6 +2161,14 @@
       "onboard_time": 1762399100,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76118,
+      "num": 80818,
+      "word": "王传君回应东京电影节获奖后不笑",
+      "onboard_time": 1762422742,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 75815,
@@ -2187,14 +2355,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 65737,
-      "num": 109627,
-      "word": "女子称父亲去世伯父强占丧葬金家产",
-      "onboard_time": 1762421661,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65708,
       "num": 69470,
       "word": "3天后又可以看神仙打架了",
@@ -2321,6 +2481,14 @@
       "onboard_time": 1762385779,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57182,
+      "num": 122597,
+      "word": "结婚登记增40.5万对",
+      "onboard_time": 1762424300,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56978,
@@ -2451,6 +2619,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 50087,
+      "num": 117642,
+      "word": "邀你上车礼解科学减重新知",
+      "onboard_time": 1762423641,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49484,
       "num": 143078,
       "word": "王楚钦奔驰星愿基金公益伙伴",
@@ -2531,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40173,
+      "num": 99790,
+      "word": "26.6万起拍的成都凶宅105.6万成交",
+      "onboard_time": 1762424421,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39819,
       "num": 91204,
       "word": "全红婵7点多就到赛场热身了",
@@ -2593,6 +2777,14 @@
       "onboard_time": 1762353381,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36760,
+      "num": 99221,
+      "word": "女子70元卖7盒精神药品被判贩毒",
+      "onboard_time": 1762424300,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36468,
@@ -2667,6 +2859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27472,
+      "num": 383566,
+      "word": "每天与一件国宝相遇",
+      "onboard_time": 1762422322,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27150,
       "num": 184810,
       "word": "男童被生母继父虐死案二审将开庭",
@@ -2719,6 +2919,14 @@
       "num": 162942,
       "word": "抽猫盒赢大奖攻略",
       "onboard_time": 1762412662,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22552,
+      "num": 126336,
+      "word": "淘趣猫到底藏在哪",
+      "onboard_time": 1762423280,
       "rank": 14,
       "category": "互联网"
     },
