@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762406873269,
+  "endTime": 1762407779934,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -995,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 589369,
+      "num": 589369,
+      "word": "将门毒后沈娇娇才是主角",
+      "onboard_time": 1762405162,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587977,
       "num": 223607,
       "word": "浙大回应食堂一只螃蟹只卖8.8元",
@@ -1115,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551885,
+      "num": 223369,
+      "word": "23岁女生拔掉57颗牙的体验",
+      "onboard_time": 1762402523,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 550870,
       "num": 133301,
       "word": "男子开宝马车下乡收集村民身份证信息",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1762217482,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545480,
+      "num": 545480,
+      "word": "乐华娱乐大跌",
+      "onboard_time": 1762406360,
+      "rank": 6,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 539935,
@@ -1203,14 +1227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 527668,
-      "num": 223369,
-      "word": "23岁女生拔掉57颗牙的体验",
-      "onboard_time": 1762402523,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 526215,
       "num": 168966,
       "word": "男子辞职到女儿学校旁卖炒饭",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1762006824,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 517558,
+      "num": 517558,
+      "word": "坍塌事故遇难女孩男友发声澄清",
+      "onboard_time": 1762405222,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516700,
@@ -1531,14 +1555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 455417,
-      "num": 455417,
-      "word": "坍塌事故遇难女孩男友发声澄清",
-      "onboard_time": 1762405222,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1762066581,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438417,
+      "num": 222523,
+      "word": "经常看书和不看书的区别",
+      "onboard_time": 1762402280,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 433690,
@@ -1763,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409419,
-      "num": 409419,
-      "word": "将门毒后沈娇娇才是主角",
-      "onboard_time": 1762405162,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408854,
       "num": 271805,
       "word": "成都160万元凶宅26.6万拍卖",
@@ -1873,14 +1889,6 @@
       "onboard_time": 1762262542,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 392211,
-      "num": 222523,
-      "word": "经常看书和不看书的区别",
-      "onboard_time": 1762402280,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 392110,
@@ -2331,6 +2339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 333536,
+      "num": 168330,
+      "word": "时代峰峻公司WiFi密码",
+      "onboard_time": 1762403781,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333432,
       "num": 194564,
       "word": "用芥末泡虾虾线都快吐出来了",
@@ -2611,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299530,
+      "num": 180508,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299207,
       "num": 215568,
       "word": "福建舰入列",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287455,
-      "num": 180508,
-      "word": "黄磊回应被指爱说教",
-      "onboard_time": 1762403363,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 285774,
@@ -2857,14 +2873,6 @@
       "onboard_time": 1762139419,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272192,
-      "num": 168330,
-      "word": "时代峰峻公司WiFi密码",
-      "onboard_time": 1762403781,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 270276,
@@ -3251,20 +3259,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 235787,
+      "raw_hot": 236143,
       "num": 161905,
       "word": "妇产科医生眼中的完美月经",
       "onboard_time": 1762405523,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 235218,
-      "num": 235218,
-      "word": "乐华娱乐大跌",
-      "onboard_time": 1762406360,
-      "rank": 6,
-      "category": "财经,艺人"
     },
     {
       "raw_hot": 234746,
@@ -5019,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165613,
+      "num": 165613,
+      "word": "王传君获奖是五个评委一致通过的",
+      "onboard_time": 1762404742,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165399,
       "num": 165399,
       "word": "网传唐嫣新剧撤档",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1762185320,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152095,
+      "num": 152095,
+      "word": "荷兰安世半导体回应CEO安排",
+      "onboard_time": 1762404981,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151726,
@@ -6187,6 +6203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140023,
+      "num": 140023,
+      "word": "杨紫 我怎么成老师了",
+      "onboard_time": 1762404561,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139742,
       "num": 139742,
       "word": "老人临终前儿女们的欺上瞒下",
@@ -6233,14 +6257,6 @@
       "onboard_time": 1762323802,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138903,
-      "num": 138903,
-      "word": "王传君获奖是五个评委一致通过的",
-      "onboard_time": 1762404742,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 138391,
@@ -6616,14 +6632,6 @@
       "word": "成毅入选2025年亚太行业先锋领袖榜单",
       "onboard_time": 1762154901,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 132782,
-      "num": 125488,
-      "word": "杨紫 我怎么成老师了",
-      "onboard_time": 1762404561,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -7225,14 +7233,6 @@
       "onboard_time": 1762154301,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124398,
-      "num": 124398,
-      "word": "荷兰安世半导体回应CEO安排",
-      "onboard_time": 1762404981,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124304,
@@ -9179,6 +9179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103669,
+      "num": 103669,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1762407620,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103547,
       "num": 103547,
       "word": "TES迎接冬季转会期",
@@ -9579,6 +9587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 100649,
+      "num": 105502,
+      "word": "水龙吟怎么演到女儿国了",
+      "onboard_time": 1762406660,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100614,
       "num": 106131,
       "word": "邓紫棋武汉演唱会",
@@ -9777,6 +9793,22 @@
       "onboard_time": 1762263262,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99169,
+      "num": 99169,
+      "word": "全红婵与陈芋汐比心互动",
+      "onboard_time": 1762407501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99131,
+      "num": 99131,
+      "word": "叠纸心意",
+      "onboard_time": 1762146141,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 99119,
@@ -10403,6 +10435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94756,
+      "num": 94756,
+      "word": "白鹿最近想去重庆",
+      "onboard_time": 1762407741,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94626,
       "num": 94626,
       "word": "德国驻华大使馆回应德国正统在太仓",
@@ -10481,6 +10521,14 @@
       "onboard_time": 1762404381,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94033,
+      "num": 94033,
+      "word": "东北嫡长女的地位",
+      "onboard_time": 1762406721,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 93972,
@@ -10571,6 +10619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93694,
+      "num": 101822,
+      "word": "全球最性感男人结果出炉",
+      "onboard_time": 1762403841,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93690,
       "num": 93690,
       "word": "猫 没完了是吧",
@@ -10625,6 +10681,14 @@
       "onboard_time": 1762255221,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93291,
+      "num": 93291,
+      "word": "龚俊这段工作留痕的重要性",
+      "onboard_time": 1762407682,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 93290,
@@ -10899,14 +10963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91628,
-      "num": 101822,
-      "word": "全球最性感男人结果出炉",
-      "onboard_time": 1762403841,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91537,
       "num": 91537,
       "word": "弥补了埃及没有中国人当法老的遗憾",
@@ -10969,14 +11025,6 @@
       "onboard_time": 1762253540,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91045,
-      "num": 91045,
-      "word": "叠纸心意",
-      "onboard_time": 1762146141,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 91018,
@@ -11097,14 +11145,6 @@
       "onboard_time": 1762325540,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90193,
-      "num": 90193,
-      "word": "水龙吟怎么演到女儿国了",
-      "onboard_time": 1762406660,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 90146,
@@ -11619,12 +11659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86641,
+      "num": 86641,
+      "word": "300万开一家小酒店一个月能赚多少",
+      "onboard_time": 1762407682,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86638,
       "num": 91879,
       "word": "感谢所有菌子们一直以来的支持",
       "onboard_time": 1762078761,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86558,
+      "num": 86558,
+      "word": "杨紫生日生命树发文",
+      "onboard_time": 1762407261,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 86525,
@@ -13123,6 +13179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73632,
+      "num": 73632,
+      "word": "唐诡3诡味就顺手的事",
+      "onboard_time": 1762407322,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73616,
       "num": 73616,
       "word": "男子乔迁聚会300万名表丢失",
@@ -13787,14 +13851,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 64342,
-      "num": 64342,
-      "word": "东北嫡长女的地位",
-      "onboard_time": 1762406721,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 64228,
       "num": 95007,
       "word": "马思纯花少7收官文",
@@ -14129,6 +14185,14 @@
       "onboard_time": 1762068860,
       "rank": 37,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 56590,
+      "num": 163548,
+      "word": "羽绒服max版能有多顶",
+      "onboard_time": 1762405941,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 56578,
@@ -14523,6 +14587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46708,
+      "num": 91874,
+      "word": "CNN让台当局破防",
+      "onboard_time": 1762406122,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46569,
       "num": 102044,
       "word": "徐若晗跳了企鹅舞",
@@ -14625,14 +14697,6 @@
       "onboard_time": 1762202053,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43081,
-      "num": 163548,
-      "word": "羽绒服max版能有多顶",
-      "onboard_time": 1762405941,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 43022,
@@ -15075,14 +15139,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 33773,
-      "num": 91874,
-      "word": "CNN让台当局破防",
-      "onboard_time": 1762406122,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33567,
       "num": 162922,
       "word": "志愿者称清远放生猫三成或感染猫瘟",
@@ -15305,6 +15361,14 @@
       "onboard_time": 1762057700,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28621,
+      "num": 93862,
+      "word": "谁给陈赫p成婴儿了",
+      "onboard_time": 1762407440,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 27475,
@@ -15881,6 +15945,14 @@
       "onboard_time": 1762283835,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 10708,
+      "num": 93723,
+      "word": "张艺兴还是怕尖嘴动物",
+      "onboard_time": 1762407620,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10680,
