@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762461784250,
+  "endTime": 1762464269214,
   "band_list": [
     {
       "raw_hot": 550194,
@@ -491,11 +491,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17766,
+      "num": 17766,
+      "word": "抖音回应温峥嵘被AI盗播",
+      "onboard_time": 1762462994,
+      "rank": 24,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 16879,
       "num": 39354,
       "word": "韩警方回应网红造谣中国人杀韩国人",
       "onboard_time": 1762454594,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15515,
+      "num": 39233,
+      "word": "两名老师校外从学生包中搜走零食",
+      "onboard_time": 1762456514,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -507,15 +523,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13805,
-      "num": 39233,
-      "word": "两名老师校外从学生包中搜走零食",
-      "onboard_time": 1762456514,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10804,
+      "raw_hot": 11962,
       "num": 31201,
       "word": "张馨予用0秒接受了自己是布偶猫",
       "onboard_time": 1762459994,
@@ -523,7 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9476,
+      "raw_hot": 11721,
       "num": 26322,
       "word": "沈腾遇上范丞丞胡先煦完全没招了",
       "onboard_time": 1762459033,
