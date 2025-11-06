@@ -1,7 +1,15 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762418991764,
+  "endTime": 1762421376888,
   "band_list": [
+    {
+      "raw_hot": 1414513,
+      "num": 243609,
+      "word": "金晨黄景瑜同吃一个冰淇淋",
+      "onboard_time": 1762421062,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1404444,
       "num": 250961,
@@ -33,6 +41,14 @@
       "onboard_time": 1762408461,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 980660,
+      "num": 1156905,
+      "word": "对接确认孟子义演将门毒后",
+      "onboard_time": 1762419261,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 943804,
@@ -115,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616933,
+      "num": 616933,
+      "word": "朝鲜举行国葬",
+      "onboard_time": 1762416260,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 614588,
       "num": 248000,
       "word": "张凯丽回应63岁穿黑丝",
@@ -187,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508139,
-      "num": 508139,
-      "word": "朝鲜举行国葬",
-      "onboard_time": 1762416260,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 503837,
       "num": 207157,
       "word": "原来红霉素眼膏是这么涂的",
@@ -209,6 +225,14 @@
       "onboard_time": 1762384997,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485461,
+      "num": 347116,
+      "word": "孟子义 沈妙",
+      "onboard_time": 1762419442,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 474113,
@@ -323,6 +347,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 320745,
+      "num": 225490,
+      "word": "乐华回应60%营收靠王一博",
+      "onboard_time": 1762417761,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319131,
       "num": 319131,
       "word": "曝HLE曾想签下Bin",
@@ -345,6 +377,14 @@
       "onboard_time": 1762403363,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294738,
+      "num": 294738,
+      "word": "郭美美被封号",
+      "onboard_time": 1762420641,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 288929,
@@ -435,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243980,
+      "num": 243980,
+      "word": "湖南通报祖某某曾某生活作风问题",
+      "onboard_time": 1762419322,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 239783,
       "num": 185608,
       "word": "妇产科医生眼中的完美月经",
@@ -473,14 +521,6 @@
       "onboard_time": 1762401322,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223512,
-      "num": 223512,
-      "word": "乐华回应60%营收靠王一博",
-      "onboard_time": 1762417761,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 221610,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 201827,
-      "num": 169352,
+      "num": 189737,
       "word": "乐华回应王一博到期不续约",
       "onboard_time": 1762418723,
       "rank": 21,
@@ -577,6 +617,14 @@
       "onboard_time": 1762410920,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192089,
+      "num": 192089,
+      "word": "85后夫妻16年生6个儿子",
+      "onboard_time": 1762419802,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190621,
@@ -592,6 +640,14 @@
       "word": "祖某某曾某生活作风问题基本属实",
       "onboard_time": 1762417882,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188128,
+      "num": 188128,
+      "word": "水泥寿命只有50年",
+      "onboard_time": 1762418420,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -641,6 +697,14 @@
       "onboard_time": 1762401981,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178694,
+      "num": 178694,
+      "word": "新手滑雪就怕花冤枉钱",
+      "onboard_time": 1762420941,
+      "rank": 23,
+      "category": "运动健身,休闲"
     },
     {
       "raw_hot": 174935,
@@ -771,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141920,
-      "num": 119403,
-      "word": "水泥寿命只有50年",
-      "onboard_time": 1762418420,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141683,
       "num": 146158,
       "word": "将门毒后网传演员阵容",
@@ -811,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139097,
+      "num": 139097,
+      "word": "常华森有效播剧的受害者出现了",
+      "onboard_time": 1762421062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138828,
       "num": 138828,
       "word": "NBA",
@@ -841,6 +905,14 @@
       "onboard_time": 1762370714,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136324,
+      "num": 136324,
+      "word": "网传出轨医生上月还曾一同参加义诊",
+      "onboard_time": 1762420702,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136292,
@@ -881,6 +953,22 @@
       "onboard_time": 1762417580,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132642,
+      "num": 138808,
+      "word": "王权富贵兵人爆改冰人",
+      "onboard_time": 1762420401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 131903,
+      "word": "Uzi心中最强AD是Ruler",
+      "onboard_time": 1762421062,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 131747,
@@ -987,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125375,
+      "num": 125375,
+      "word": "这居然是中国军工官方发的图",
+      "onboard_time": 1762420761,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 125005,
       "num": 125005,
       "word": "贺峻霖想的马天宇叫的马嘉祺",
@@ -1051,20 +1147,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119275,
+      "num": 119275,
+      "word": "菲律宾",
+      "onboard_time": 1762417701,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118942,
       "num": 118942,
       "word": "孙东旭曾为多家东方甄选公司高管",
       "onboard_time": 1762417580,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117601,
-      "num": 117601,
-      "word": "菲律宾",
-      "onboard_time": 1762417701,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116694,
@@ -1089,6 +1185,14 @@
       "onboard_time": 1762405881,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113993,
+      "num": 113993,
+      "word": "易烊千玺 一个世纪后见",
+      "onboard_time": 1762420761,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 113310,
@@ -1139,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109744,
+      "num": 109744,
+      "word": "LCK缩短赛程为了备战亚运会",
+      "onboard_time": 1762420521,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108115,
       "num": 108115,
       "word": "开拓者结束雷霆8连胜",
@@ -1147,12 +1259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107947,
+      "num": 107947,
+      "word": "迅猛龙回应出国留学",
+      "onboard_time": 1762419860,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 107472,
       "num": 145993,
       "word": "吴昕微信几乎不留聊天记录",
       "onboard_time": 1762349302,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106846,
+      "num": 106846,
+      "word": "马龙王楚钦穿上了新队服",
+      "onboard_time": 1762421002,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 106705,
@@ -1224,6 +1352,14 @@
       "word": "水龙吟怎么演到女儿国了",
       "onboard_time": 1762406660,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "新闻女王 AI盗播",
+      "onboard_time": 1762419081,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1315,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95983,
+      "num": 95983,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95313,
       "num": 95313,
       "word": "浙大食堂8.8元一只螃蟹馋哭网友",
@@ -1345,6 +1489,14 @@
       "onboard_time": 1762416620,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94223,
+      "num": 94223,
+      "word": "纽约市长vs伦敦市长",
+      "onboard_time": 1762417220,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94154,
@@ -1393,6 +1545,22 @@
       "onboard_time": 1762340122,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92711,
+      "num": 92711,
+      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
+      "onboard_time": 1762416021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92616,
+      "num": 137975,
+      "word": "樊振东周启豪全运会对练",
+      "onboard_time": 1762420401,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 92552,
@@ -1475,12 +1643,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 89162,
-      "num": 89162,
-      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
-      "onboard_time": 1762416021,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 89048,
+      "num": 192596,
+      "word": "交出你的拼多多封神好物",
+      "onboard_time": 1762419923,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 88038,
@@ -1609,14 +1777,6 @@
       "onboard_time": 1762399223,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84824,
-      "num": 84824,
-      "word": "纽约市长vs伦敦市长",
-      "onboard_time": 1762417220,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84669,
@@ -1817,6 +1977,14 @@
       "onboard_time": 1762388842,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74199,
+      "num": 94297,
+      "word": "孙颖莎樊振东训练画面",
+      "onboard_time": 1762419562,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 73632,
@@ -2044,7 +2212,7 @@
     },
     {
       "raw_hot": 59264,
-      "num": 121016,
+      "num": 121033,
       "word": "有哪些男性习惯了的隐痛",
       "onboard_time": 1762417041,
       "rank": 28,
@@ -2363,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34896,
+      "num": 109767,
+      "word": "浙江大学食堂8.8元螃蟹已停售",
+      "onboard_time": 1762420461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34337,
       "num": 85374,
       "word": "全运会乒乓球明日开赛",
@@ -2455,6 +2631,14 @@
       "num": 162942,
       "word": "抽猫盒赢大奖攻略",
       "onboard_time": 1762412662,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 20953,
+      "num": 226458,
+      "word": "令人心动的礼遇季第二期来了",
+      "onboard_time": 1762419681,
       "rank": 14,
       "category": "互联网"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762418991764,
+  "endTime": 1762421376888,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -193,6 +193,14 @@
       "onboard_time": 1762325540,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1414513,
+      "num": 243609,
+      "word": "金晨黄景瑜同吃一个冰淇淋",
+      "onboard_time": 1762421062,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1404444,
@@ -489,6 +497,14 @@
       "onboard_time": 1762223599,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 980660,
+      "num": 1156905,
+      "word": "对接确认孟子义演将门毒后",
+      "onboard_time": 1762419261,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 979092,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 616933,
+      "num": 616933,
+      "word": "朝鲜举行国葬",
+      "onboard_time": 1762416260,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 615878,
       "num": 179628,
       "word": "全红婵复出第一跳",
@@ -1611,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508139,
-      "num": 508139,
-      "word": "朝鲜举行国葬",
-      "onboard_time": 1762416260,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 507369,
       "num": 210497,
       "word": "发完分手宣言的人结婚了",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1762063280,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485461,
+      "num": 347116,
+      "word": "孟子义 沈妙",
+      "onboard_time": 1762419442,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 484922,
@@ -2995,6 +3019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320745,
+      "num": 225490,
+      "word": "乐华回应60%营收靠王一博",
+      "onboard_time": 1762417761,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319131,
       "num": 319131,
       "word": "曝HLE曾想签下Bin",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1762230081,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294738,
+      "num": 294738,
+      "word": "郭美美被封号",
+      "onboard_time": 1762420641,
+      "rank": 6,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 294574,
@@ -3947,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243980,
+      "num": 243980,
+      "word": "湖南通报祖某某曾某生活作风问题",
+      "onboard_time": 1762419322,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 242906,
       "num": 204646,
       "word": "小婴儿的核磁共振全是脑子",
@@ -4297,14 +4345,6 @@
       "onboard_time": 1762401322,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223512,
-      "num": 223512,
-      "word": "乐华回应60%营收靠王一博",
-      "onboard_time": 1762417761,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 223032,
@@ -4988,7 +5028,7 @@
     },
     {
       "raw_hot": 201827,
-      "num": 169352,
+      "num": 189737,
       "word": "乐华回应王一博到期不续约",
       "onboard_time": 1762418723,
       "rank": 21,
@@ -5339,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192089,
+      "num": 192089,
+      "word": "85后夫妻16年生6个儿子",
+      "onboard_time": 1762419802,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191895,
       "num": 191895,
       "word": "网红胡楚靓左耳重度耳聋",
@@ -5465,6 +5513,14 @@
       "onboard_time": 1761969860,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188128,
+      "num": 188128,
+      "word": "水泥寿命只有50年",
+      "onboard_time": 1762418420,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188120,
@@ -5841,6 +5897,14 @@
       "onboard_time": 1762143380,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178694,
+      "num": 178694,
+      "word": "新手滑雪就怕花冤枉钱",
+      "onboard_time": 1762420941,
+      "rank": 23,
+      "category": "运动健身,休闲"
     },
     {
       "raw_hot": 178684,
@@ -7891,14 +7955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141920,
-      "num": 119403,
-      "word": "水泥寿命只有50年",
-      "onboard_time": 1762418420,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "孟子义拍完尚公主将无缝进组",
@@ -8129,6 +8185,14 @@
       "onboard_time": 1762410021,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139097,
+      "num": 139097,
+      "word": "常华森有效播剧的受害者出现了",
+      "onboard_time": 1762421062,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 138980,
@@ -8419,6 +8483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136324,
+      "num": 136324,
+      "word": "网传出轨医生上月还曾一同参加义诊",
+      "onboard_time": 1762420702,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136292,
       "num": 136292,
       "word": "全运会跳水女子双人10米台",
@@ -8707,6 +8779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132642,
+      "num": 138808,
+      "word": "王权富贵兵人爆改冰人",
+      "onboard_time": 1762420401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132532,
       "num": 132532,
       "word": "沙一汀发红包",
@@ -8753,6 +8833,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 131903,
+      "word": "Uzi心中最强AD是Ruler",
+      "onboard_time": 1762421062,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 131862,
@@ -9419,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125375,
+      "num": 125375,
+      "word": "这居然是中国军工官方发的图",
+      "onboard_time": 1762420761,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 125320,
       "num": 125320,
       "word": "我最羡慕的一种人",
@@ -10027,6 +10123,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119275,
+      "num": 119275,
+      "word": "菲律宾",
+      "onboard_time": 1762417701,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119192,
       "num": 119192,
       "word": "乌军突袭库尔斯克州近2000人伤亡",
@@ -10241,14 +10345,6 @@
       "onboard_time": 1762323802,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117601,
-      "num": 117601,
-      "word": "菲律宾",
-      "onboard_time": 1762417701,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117581,
@@ -10609,6 +10705,14 @@
       "onboard_time": 1762238600,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113993,
+      "num": 113993,
+      "word": "易烊千玺 一个世纪后见",
+      "onboard_time": 1762420761,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 113927,
@@ -11139,6 +11243,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 109744,
+      "num": 109744,
+      "word": "LCK缩短赛程为了备战亚运会",
+      "onboard_time": 1762420521,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109651,
       "num": 109651,
       "word": "樊振东穿上了新队服",
@@ -11371,6 +11483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107947,
+      "num": 107947,
+      "word": "迅猛龙回应出国留学",
+      "onboard_time": 1762419860,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 107893,
       "num": 107893,
       "word": "上班的8个好处",
@@ -11545,6 +11665,14 @@
       "onboard_time": 1762060941,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106846,
+      "num": 106846,
+      "word": "马龙王楚钦穿上了新队服",
+      "onboard_time": 1762421002,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 106788,
@@ -12523,6 +12651,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "新闻女王 AI盗播",
+      "onboard_time": 1762419081,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100319,
       "num": 100319,
       "word": "到了三十岁就变得很脆皮",
@@ -13323,6 +13459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95983,
+      "num": 95983,
+      "word": "煮泡面vs泡泡面",
+      "onboard_time": 1762420221,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95941,
       "num": 95941,
       "word": "吴昕以后请都按这个标准来",
@@ -13617,6 +13761,14 @@
       "onboard_time": 1762184121,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94223,
+      "num": 94223,
+      "word": "纽约市长vs伦敦市长",
+      "onboard_time": 1762417220,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94191,
@@ -13931,6 +14083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92711,
+      "num": 92711,
+      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
+      "onboard_time": 1762416021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92643,
       "num": 106800,
       "word": "樊振东孙颖莎汪顺高能量壁纸",
@@ -13953,6 +14113,14 @@
       "onboard_time": 1762087222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92616,
+      "num": 137975,
+      "word": "樊振东周启豪全运会对练",
+      "onboard_time": 1762420401,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 92552,
@@ -14563,14 +14731,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 89162,
-      "num": 89162,
-      "word": "11岁哥哥给3岁妹妹编了一头蜘蛛网",
-      "onboard_time": 1762416021,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89145,
       "num": 131624,
       "word": "四喜",
@@ -14585,6 +14745,14 @@
       "onboard_time": 1762227980,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89048,
+      "num": 192596,
+      "word": "交出你的拼多多封神好物",
+      "onboard_time": 1762419923,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 89045,
@@ -15409,14 +15577,6 @@
       "onboard_time": 1762063821,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84824,
-      "num": 84824,
-      "word": "纽约市长vs伦敦市长",
-      "onboard_time": 1762417220,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84691,
@@ -16827,6 +16987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74199,
+      "num": 94297,
+      "word": "孙颖莎樊振东训练画面",
+      "onboard_time": 1762419562,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74137,
       "num": 94641,
       "word": "刘晓庆对刘嘉玲说你要乖噢",
@@ -18060,7 +18228,7 @@
     },
     {
       "raw_hot": 59264,
-      "num": 121016,
+      "num": 121033,
       "word": "有哪些男性习惯了的隐痛",
       "onboard_time": 1762417041,
       "rank": 28,
@@ -19363,6 +19531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34896,
+      "num": 109767,
+      "word": "浙江大学食堂8.8元螃蟹已停售",
+      "onboard_time": 1762420461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34734,
       "num": 40693,
       "word": "霉霉和GigiHadid外出就餐街拍",
@@ -20073,6 +20249,14 @@
       "onboard_time": 1762275138,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20953,
+      "num": 226458,
+      "word": "令人心动的礼遇季第二期来了",
+      "onboard_time": 1762419681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 20453,
