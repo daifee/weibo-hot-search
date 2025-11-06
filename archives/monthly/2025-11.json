@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762407779934,
+  "endTime": 1762411171810,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -627,6 +627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 805385,
+      "num": 1128861,
+      "word": "将门毒后沈娇娇才是主角",
+      "onboard_time": 1762405162,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 803236,
+      "num": 803236,
+      "word": "中国首例冷冻人8年后怎么样了",
+      "onboard_time": 1762408461,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 797294,
       "num": 224280,
       "word": "将门毒后谢景行",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1762214240,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 589369,
-      "num": 589369,
-      "word": "将门毒后沈娇娇才是主角",
-      "onboard_time": 1762405162,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 588099,
@@ -2772,7 +2780,7 @@
     },
     {
       "raw_hot": 333536,
-      "num": 168330,
+      "num": 180454,
       "word": "时代峰峻公司WiFi密码",
       "onboard_time": 1762403781,
       "rank": 26,
@@ -3795,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245803,
+      "num": 186984,
+      "word": "王传君获奖是五个评委一致通过的",
+      "onboard_time": 1762404742,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245587,
       "num": 154887,
       "word": "樊振东的Labubu是D",
@@ -3891,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239783,
+      "num": 185608,
+      "word": "妇产科医生眼中的完美月经",
+      "onboard_time": 1762405523,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239735,
       "num": 296835,
       "word": "DRG对战狼队",
@@ -3945,14 +3969,6 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 236143,
-      "num": 161905,
-      "word": "妇产科医生眼中的完美月经",
-      "onboard_time": 1762405523,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 234746,
@@ -4395,6 +4411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214473,
+      "num": 181392,
+      "word": "湖南省人民医院网传出轨医生无号可挂",
+      "onboard_time": 1762408521,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214315,
       "num": 214315,
       "word": "家长抱婴儿在学校路边值护学岗",
@@ -4593,6 +4617,14 @@
       "onboard_time": 1762089741,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207397,
+      "num": 165698,
+      "word": "谭松韵回老家在荷花池旁游玩",
+      "onboard_time": 1762408580,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 207282,
@@ -5027,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195128,
+      "num": 195128,
+      "word": "小鹏机器人",
+      "onboard_time": 1762407981,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194802,
       "num": 194802,
       "word": "罗云熙水龙吟布达拉宫热度双破万",
@@ -5065,6 +5105,14 @@
       "onboard_time": 1762006106,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194326,
+      "num": 178277,
+      "word": "老外眼中的安卓手机",
+      "onboard_time": 1762407801,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 194103,
@@ -6035,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167729,
+      "num": 167729,
+      "word": "这小马一看就是才参加工作",
+      "onboard_time": 1762410920,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167703,
       "num": 167703,
       "word": "曝安德鲁王子招40名泰国性工作者",
@@ -6185,14 +6241,6 @@
       "onboard_time": 1762143023,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165613,
-      "num": 165613,
-      "word": "王传君获奖是五个评委一致通过的",
-      "onboard_time": 1762404742,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 165604,
@@ -7667,6 +7715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141151,
+      "num": 141151,
+      "word": "向太说汪小姐演得很好",
+      "onboard_time": 1762407860,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141148,
       "num": 132362,
       "word": "删了吧有个研究生破防了",
@@ -7705,6 +7761,14 @@
       "onboard_time": 1762252822,
       "rank": 24,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 140530,
+      "num": 140530,
+      "word": "易烊千玺舒淇怪物和她剧照",
+      "onboard_time": 1762410321,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 140440,
@@ -7843,6 +7907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "章时安你是真饿了",
+      "onboard_time": 1762410021,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138980,
       "num": 111114,
       "word": "孙颖莎与球迷双向奔赴太暖了",
@@ -7873,6 +7945,14 @@
       "onboard_time": 1761998841,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138828,
+      "num": 138828,
+      "word": "NBA",
+      "onboard_time": 1762410201,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 138775,
@@ -7953,6 +8033,14 @@
       "onboard_time": 1762316540,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137943,
+      "num": 137943,
+      "word": "雍正第五子弘昼现代后代",
+      "onboard_time": 1762409541,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 137773,
@@ -8235,6 +8323,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 134531,
+      "num": 134531,
+      "word": "韩学者称韩国人有白人血统",
+      "onboard_time": 1762409901,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134389,
       "num": 134389,
       "word": "微博视界大会 男帅女美",
@@ -8449,6 +8545,14 @@
       "onboard_time": 1762252521,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131747,
+      "num": 137985,
+      "word": "剧宣把贺峻霖看的一愣一愣的",
+      "onboard_time": 1762409901,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 131726,
@@ -8937,6 +9041,14 @@
       "onboard_time": 1762085481,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126474,
+      "num": 126474,
+      "word": "无能的妈变态的爸窒息的她",
+      "onboard_time": 1762409241,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126433,
@@ -9483,6 +9595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121114,
+      "num": 121114,
+      "word": "全红婵与陈芋汐比心互动",
+      "onboard_time": 1762407501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121101,
       "num": 186751,
       "word": "2025微博视界大会第六波阵容官宣",
@@ -9939,6 +10059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116435,
+      "num": 116435,
+      "word": "马思纯近期状态美到犯规",
+      "onboard_time": 1762411041,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116391,
       "num": 165181,
       "word": "许绍雄家人发讣闻",
@@ -10000,6 +10128,14 @@
       "word": "贺峻霖开个唱跳班吧",
       "onboard_time": 1761974179,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116017,
+      "num": 121394,
+      "word": "终于明白范丞丞说的个人战了",
+      "onboard_time": 1762409241,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -10883,6 +11019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108115,
+      "num": 108115,
+      "word": "开拓者结束雷霆8连胜",
+      "onboard_time": 1762410081,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107996,
       "num": 107996,
       "word": "内娱真有正主嗑自己cp",
@@ -11299,6 +11443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104644,
+      "num": 100244,
+      "word": "降低体脂率最快的10个方法",
+      "onboard_time": 1762410801,
+      "rank": 42,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 104618,
       "num": 152608,
       "word": "开拓者罚球绝杀掘金",
@@ -11385,6 +11537,14 @@
       "onboard_time": 1761986180,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 104270,
+      "num": 104270,
+      "word": "谁给陈赫p成婴儿了",
+      "onboard_time": 1762407440,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 104226,
@@ -12075,6 +12235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100221,
+      "num": 100221,
+      "word": "Doinb说和Uzi一起偷奖杯",
+      "onboard_time": 1762409241,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100182,
       "num": 100182,
       "word": "王楚钦说喜欢小动物",
@@ -12227,14 +12395,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99169,
-      "num": 99169,
-      "word": "全红婵与陈芋汐比心互动",
-      "onboard_time": 1762407501,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99131,
       "num": 99131,
       "word": "叠纸心意",
@@ -12299,6 +12459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98928,
+      "num": 98928,
+      "word": "全红婵坚持每月给家里生活费",
+      "onboard_time": 1762410801,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98920,
       "num": 98920,
       "word": "单独看就不认识的字",
@@ -12313,6 +12481,14 @@
       "onboard_time": 1762150763,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98912,
+      "num": 98912,
+      "word": "东北嫡长女的地位",
+      "onboard_time": 1762406721,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 98769,
@@ -12377,6 +12553,14 @@
       "onboard_time": 1762159821,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 98491,
+      "num": 98491,
+      "word": "樊振东赛程预告",
+      "onboard_time": 1762410561,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 98452,
@@ -12891,6 +13075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95536,
+      "num": 95536,
+      "word": "原来恐怖电影真的没骗人",
+      "onboard_time": 1762409901,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95454,
       "num": 95454,
       "word": "终于知道离职后交社保的顺序了",
@@ -13115,12 +13307,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94033,
-      "num": 94033,
-      "word": "东北嫡长女的地位",
-      "onboard_time": 1762406721,
-      "rank": 49,
-      "category": "情感,幽默"
+      "raw_hot": 93991,
+      "num": 93991,
+      "word": "樊振东穿了紫色卫衣",
+      "onboard_time": 1762410620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 93972,
@@ -14369,6 +14561,14 @@
       "onboard_time": 1762184061,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86902,
+      "num": 86902,
+      "word": "广东夫妻像双胞胎网友建议查下DNA",
+      "onboard_time": 1762408640,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86897,
@@ -17899,6 +18099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48721,
+      "num": 100266,
+      "word": "墨西哥总统将控告骚扰其男子",
+      "onboard_time": 1762408820,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48411,
       "num": 203729,
       "word": "男子好心载同事出事故赔6万",
@@ -17921,6 +18129,14 @@
       "onboard_time": 1762039877,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48016,
+      "num": 190762,
+      "word": "专家称康熙是洪承畴儿子系无稽之谈",
+      "onboard_time": 1762410321,
+      "rank": 9,
+      "category": "议题讨论,科学科普"
     },
     {
       "raw_hot": 47991,
@@ -18643,6 +18859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 33830,
+      "num": 104377,
+      "word": "唐诡3疑似正片流出",
+      "onboard_time": 1762410561,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33780,
       "num": 180236,
       "word": "华为见非凡郎朗聊曾经遇挫弃琴",
@@ -18931,14 +19155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28621,
-      "num": 93862,
-      "word": "谁给陈赫p成婴儿了",
-      "onboard_time": 1762407440,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28604,
       "num": 153884,
       "word": "高校职称晋升 金钱游戏",
@@ -18985,6 +19201,14 @@
       "onboard_time": 1762312940,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27153,
+      "num": 105543,
+      "word": "李宏毅谈长剧和短剧的区别",
+      "onboard_time": 1762410440,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27150,
@@ -19361,6 +19585,14 @@
       "onboard_time": 1762111094,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18554,
+      "num": 183227,
+      "word": "友友碰头日微综艺明日上线",
+      "onboard_time": 1762410501,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 18295,
