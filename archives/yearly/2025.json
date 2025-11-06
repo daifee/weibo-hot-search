@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1762425998081,
+  "endTime": 1762428286824,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2251,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6187890,
+      "num": 6187890,
+      "word": "白百何回应东京电影节未获奖",
+      "onboard_time": 1762425621,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 6171972,
       "num": 6171972,
       "word": "ALin秒了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737795020,
       "rank": 25,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 5046850,
-      "num": 5046850,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1735703422,
-      "rank": 5,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762428286824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684863,
+        "num": 1684863,
+        "word": "全红婵王伟莹第五",
+        "onboard_time": 1762426881,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384679,
+        "num": 384679,
+        "word": "结婚登记增40.5万对",
+        "onboard_time": 1762424300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25912,
+        "num": 359645,
+        "word": "每天与一件国宝相遇",
+        "onboard_time": 1762422322,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356805,
+        "num": 356805,
+        "word": "白百何说张律卖惨",
+        "onboard_time": 1762427122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342837,
+        "num": 342837,
+        "word": "陈芋汐掌敏洁夺金",
+        "onboard_time": 1762426941,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624276,
+        "num": 330874,
+        "word": "郭美美被封号",
+        "onboard_time": 1762420641,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 248641,
+        "num": 248641,
+        "word": "中国首例冷冻人8年后怎么样了",
+        "onboard_time": 1762408461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 205117,
+        "word": "沈娇娇提名",
+        "onboard_time": 1762427543,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6187890,
+        "num": 6187890,
+        "word": "白百何回应东京电影节未获奖",
+        "onboard_time": 1762425621,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188160,
+        "num": 188160,
+        "word": "全运会女子双人10米跳台决赛",
+        "onboard_time": 1762424720,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618541,
+        "num": 187396,
+        "word": "对接确认孟子义演将门毒后",
+        "onboard_time": 1762419261,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576833,
+        "num": 187279,
+        "word": "金晨黄景瑜同吃一个冰淇淋",
+        "onboard_time": 1762421062,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453086,
+        "num": 185963,
+        "word": "杨紫张一山友情",
+        "onboard_time": 1762422502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430529,
+        "num": 185042,
+        "word": "将门毒后女主原型是王艳",
+        "onboard_time": 1762422261,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41529,
+        "num": 184752,
+        "word": "交出你的拼多多封神好物",
+        "onboard_time": 1762419923,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 389182,
+        "num": 184174,
+        "word": "水果软糖 荤食",
+        "onboard_time": 1762422382,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358382,
+        "num": 183069,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310015,
+        "num": 182344,
+        "word": "欧阳妮妮想生三胎被老公婉拒",
+        "onboard_time": 1762421482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301599,
+        "num": 181829,
+        "word": "王一博工作室叫弋博",
+        "onboard_time": 1762426282,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83772,
+        "num": 180524,
+        "word": "京东1元起拍发财鲅鱼饺子",
+        "onboard_time": 1762427122,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 372506,
+        "num": 179786,
+        "word": "孟子义 沈妙",
+        "onboard_time": 1762419442,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230238,
+        "num": 179138,
+        "word": "沈佳润素颜皮肤状态",
+        "onboard_time": 1762426221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178672,
+        "num": 178672,
+        "word": "煮泡面vs泡泡面",
+        "onboard_time": 1762420221,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174574,
+        "num": 174574,
+        "word": "鞠婧祎 异域公主",
+        "onboard_time": 1762425862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61906,
+        "num": 173197,
+        "word": "台湾民众听馆长讲大陆见闻发出惊呼",
+        "onboard_time": 1762426822,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116603,
+        "num": 172650,
+        "word": "小鹏X9超级增程太强了",
+        "onboard_time": 1762423880,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172211,
+        "num": 172211,
+        "word": "湖南通报祖某某曾某生活作风问题",
+        "onboard_time": 1762419322,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170835,
+        "num": 170835,
+        "word": "王传君回应东京电影节获奖后不笑",
+        "onboard_time": 1762422742,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161995,
+        "num": 161995,
+        "word": "怎么有剧边拍边播",
+        "onboard_time": 1762426881,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167919,
+        "num": 161795,
+        "word": "苹果喊话iPhone13和14用户换新机",
+        "onboard_time": 1762414160,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23158,
+        "num": 160231,
+        "word": "胡兵大秀超长售后",
+        "onboard_time": 1762427603,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186086,
+        "num": 160093,
+        "word": "陈芋汐十五运会首金",
+        "onboard_time": 1762427842,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "时隔五年景甜张彬彬又杀回来了",
+        "onboard_time": 1762424061,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148489,
+        "num": 148489,
+        "word": "湖南省人民医院出轨医生停职",
+        "onboard_time": 1762421541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137351,
+        "num": 137351,
+        "word": "范丞丞掌握了王安宇的正确使用方法",
+        "onboard_time": 1762427242,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132128,
+        "num": 132128,
+        "word": "鳌拜 瓜尔佳氏",
+        "onboard_time": 1762425021,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120176,
+        "num": 120176,
+        "word": "山姆APP支付跳转黄色网站",
+        "onboard_time": 1762424421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43416,
+        "num": 117905,
+        "word": "乌鲁木齐特大暴雪创纪录",
+        "onboard_time": 1762427423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22562,
+        "num": 115983,
+        "word": "千万网红380元出售金表引争议",
+        "onboard_time": 1762428262,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85424,
+        "num": 115751,
+        "word": "朱开谈TheShy",
+        "onboard_time": 1762427722,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115696,
+        "num": 115696,
+        "word": "怪不得老师说一届不如一届",
+        "onboard_time": 1762426402,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112732,
+        "num": 112732,
+        "word": "张凯丽回应63岁穿黑丝",
+        "onboard_time": 1762413020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112026,
+        "num": 112026,
+        "word": "王一博未关注乐华娱乐",
+        "onboard_time": 1762422623,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108335,
+        "num": 108335,
+        "word": "朝鲜举行国葬",
+        "onboard_time": 1762416260,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107942,
+        "num": 107942,
+        "word": "杨澜说关晓彤是被演戏耽误的主持人",
+        "onboard_time": 1762426581,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52820,
+        "num": 107781,
+        "word": "中国算力的真正底牌",
+        "onboard_time": 1762426041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107731,
+        "num": 107731,
+        "word": "生6个儿子夫妻说没考虑彩礼问题",
+        "onboard_time": 1762428081,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107638,
+        "num": 107638,
+        "word": "跳水",
+        "onboard_time": 1762426702,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100442,
+        "num": 100442,
+        "word": "文晏回应",
+        "onboard_time": 1762428022,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100035,
+        "num": 100035,
+        "word": "一年一次美甲好小众的词",
+        "onboard_time": 1762424601,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#高标准建设海南自贸港#"
+    }
+  }
+}

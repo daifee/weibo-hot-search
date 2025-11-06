@@ -1,7 +1,15 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762425998081,
+  "endTime": 1762428286824,
   "band_list": [
+    {
+      "raw_hot": 6187890,
+      "num": 6187890,
+      "word": "白百何回应东京电影节未获奖",
+      "onboard_time": 1762425621,
+      "rank": 8,
+      "category": "电影"
+    },
     {
       "raw_hot": 1865967,
       "num": 154641,
@@ -9,6 +17,14 @@
       "onboard_time": 1762425621,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1684863,
+      "num": 1684863,
+      "word": "全红婵王伟莹第五",
+      "onboard_time": 1762426881,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1461165,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 569441,
-      "num": 147380,
+      "num": 185963,
       "word": "杨紫张一山友情",
       "onboard_time": 1762422502,
       "rank": 11,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 554394,
-      "num": 151795,
+      "num": 184174,
       "word": "水果软糖 荤食",
       "onboard_time": 1762422382,
       "rank": 15,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 521552,
-      "num": 169582,
+      "num": 182344,
       "word": "欧阳妮妮想生三胎被老公婉拒",
       "onboard_time": 1762421482,
       "rank": 16,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384679,
+      "num": 384679,
+      "word": "结婚登记增40.5万对",
+      "onboard_time": 1762424300,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381412,
       "num": 186484,
       "word": "苗圃 至今内娱无代餐",
@@ -379,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356805,
+      "num": 356805,
+      "word": "白百何说张律卖惨",
+      "onboard_time": 1762427122,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353908,
       "num": 353908,
       "word": "专家称康熙是洪承畴儿子系无稽之谈",
@@ -388,11 +420,19 @@
     },
     {
       "raw_hot": 350612,
-      "num": 142658,
+      "num": 178672,
       "word": "煮泡面vs泡泡面",
       "onboard_time": 1762420221,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342837,
+      "num": 342837,
+      "word": "陈芋汐掌敏洁夺金",
+      "onboard_time": 1762426941,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 333536,
@@ -435,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309739,
-      "num": 309739,
-      "word": "结婚登记增40.5万对",
-      "onboard_time": 1762424300,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 301599,
+      "num": 181829,
+      "word": "王一博工作室叫弋博",
+      "onboard_time": 1762426282,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 299530,
@@ -571,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230238,
+      "num": 179138,
+      "word": "沈佳润素颜皮肤状态",
+      "onboard_time": 1762426221,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225164,
       "num": 207281,
       "word": "李现去西藏雪山徒步了",
@@ -651,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "沈娇娇提名",
+      "onboard_time": 1762427543,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204994,
       "num": 146995,
       "word": "丈夫病亡后妻子两天后不幸离世",
@@ -707,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188160,
+      "num": 188160,
+      "word": "全运会女子双人10米跳台决赛",
+      "onboard_time": 1762424720,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188128,
       "num": 188128,
       "word": "水泥寿命只有50年",
@@ -729,6 +793,14 @@
       "onboard_time": 1762411041,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186086,
+      "num": 160093,
+      "word": "陈芋汐十五运会首金",
+      "onboard_time": 1762427842,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 185823,
@@ -787,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174574,
+      "num": 174574,
+      "word": "鞠婧祎 异域公主",
+      "onboard_time": 1762425862,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173898,
       "num": 173898,
       "word": "杨紫直播造型",
@@ -809,6 +889,14 @@
       "onboard_time": 1762420702,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170835,
+      "num": 170835,
+      "word": "王传君回应东京电影节获奖后不笑",
+      "onboard_time": 1762422742,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 170558,
@@ -843,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161995,
+      "num": 161995,
+      "word": "怎么有剧边拍边播",
+      "onboard_time": 1762426881,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160057,
       "num": 136620,
       "word": "原来我担跟我是同担",
       "onboard_time": 1762425502,
       "rank": 31,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 159745,
+      "num": 159745,
+      "word": "时隔五年景甜张彬彬又杀回来了",
+      "onboard_time": 1762424061,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 159144,
@@ -865,14 +969,6 @@
       "onboard_time": 1762397898,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156466,
-      "num": 140971,
-      "word": "全运会女子双人10米跳台决赛",
-      "onboard_time": 1762424720,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 155299,
@@ -904,6 +1000,14 @@
       "word": "山姆APP支付跳转黄色网站",
       "onboard_time": 1762424421,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148489,
+      "num": 148489,
+      "word": "湖南省人民医院出轨医生停职",
+      "onboard_time": 1762421541,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -979,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140550,
-      "num": 121940,
-      "word": "时隔五年景甜张彬彬又杀回来了",
-      "onboard_time": 1762424061,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140023,
       "num": 140023,
       "word": "杨紫 我怎么成老师了",
@@ -1051,20 +1147,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137351,
+      "num": 137351,
+      "word": "范丞丞掌握了王安宇的正确使用方法",
+      "onboard_time": 1762427242,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136819,
       "num": 136819,
       "word": "全运会乒乓比赛",
       "onboard_time": 1762421601,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136550,
-      "num": 136550,
-      "word": "湖南省人民医院出轨医生停职",
-      "onboard_time": 1762421541,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136292,
@@ -1115,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132128,
+      "num": 132128,
+      "word": "鳌拜 瓜尔佳氏",
+      "onboard_time": 1762425021,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131747,
       "num": 137985,
       "word": "剧宣把贺峻霖看的一愣一愣的",
@@ -1161,14 +1265,6 @@
       "onboard_time": 1762407501,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127111,
-      "num": 121793,
-      "word": "鳌拜 瓜尔佳氏",
-      "onboard_time": 1762425021,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 126795,
@@ -1315,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116603,
+      "num": 172650,
+      "word": "小鹏X9超级增程太强了",
+      "onboard_time": 1762423880,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116017,
       "num": 121394,
       "word": "终于明白范丞丞说的个人战了",
       "onboard_time": 1762409241,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115696,
+      "num": 115696,
+      "word": "怪不得老师说一届不如一届",
+      "onboard_time": 1762426402,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 115630,
@@ -1443,12 +1555,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 107811,
-      "num": 140128,
-      "word": "小鹏X9超级增程太强了",
-      "onboard_time": 1762423880,
-      "rank": 29,
-      "category": "汽车"
+      "raw_hot": 107942,
+      "num": 107942,
+      "word": "杨澜说关晓彤是被演戏耽误的主持人",
+      "onboard_time": 1762426581,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107731,
+      "num": 107731,
+      "word": "生6个儿子夫妻说没考虑彩礼问题",
+      "onboard_time": 1762428081,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107638,
+      "num": 107638,
+      "word": "跳水",
+      "onboard_time": 1762426702,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 107472,
@@ -1563,12 +1691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100442,
+      "num": 100442,
+      "word": "文晏回应",
+      "onboard_time": 1762428022,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100221,
       "num": 100221,
       "word": "Doinb说和Uzi一起偷奖杯",
       "onboard_time": 1762409241,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100035,
+      "num": 100035,
+      "word": "一年一次美甲好小众的词",
+      "onboard_time": 1762424601,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 99204,
@@ -1729,14 +1873,6 @@
       "onboard_time": 1762404381,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 94009,
-      "num": 94009,
-      "word": "鞠婧祎 异域公主",
-      "onboard_time": 1762425862,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 93991,
@@ -2059,6 +2195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85424,
+      "num": 115751,
+      "word": "朱开谈TheShy",
+      "onboard_time": 1762427722,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85250,
       "num": 85250,
       "word": "王楚钦挨个摸了前排小朋友的头",
@@ -2121,6 +2265,14 @@
       "onboard_time": 1762404262,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83772,
+      "num": 180524,
+      "word": "京东1元起拍发财鲅鱼饺子",
+      "onboard_time": 1762427122,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 83742,
@@ -2233,14 +2385,6 @@
       "onboard_time": 1762399100,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76118,
-      "num": 80818,
-      "word": "王传君回应东京电影节获奖后不笑",
-      "onboard_time": 1762422742,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 75815,
@@ -2483,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61906,
+      "num": 173197,
+      "word": "台湾民众听馆长讲大陆见闻发出惊呼",
+      "onboard_time": 1762426822,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61388,
       "num": 142257,
       "word": "江苏电网回应张凌赫",
@@ -2635,6 +2787,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 52820,
+      "num": 107781,
+      "word": "中国算力的真正底牌",
+      "onboard_time": 1762426041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52532,
       "num": 109996,
       "word": "乐华娱乐今年只发了3次王一博",
@@ -2745,6 +2905,14 @@
       "onboard_time": 1762346301,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43416,
+      "num": 117905,
+      "word": "乌鲁木齐特大暴雪创纪录",
+      "onboard_time": 1762427423,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43120,
@@ -2979,12 +3147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23158,
+      "num": 160231,
+      "word": "胡兵大秀超长售后",
+      "onboard_time": 1762427603,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22899,
       "num": 162942,
       "word": "抽猫盒赢大奖攻略",
       "onboard_time": 1762412662,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 22562,
+      "num": 115983,
+      "word": "千万网红380元出售金表引争议",
+      "onboard_time": 1762428262,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 22552,
