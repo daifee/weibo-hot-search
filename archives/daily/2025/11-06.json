@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762404507005,
+  "endTime": 1762406873269,
   "band_list": [
     {
       "raw_hot": 1323471,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 724730,
+      "num": 296973,
+      "word": "张艺兴直接吃掉在手机上的生肉",
+      "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665404,
       "num": 665404,
       "word": "重庆市调整部分行政区划",
@@ -99,7 +107,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 511235,
+      "raw_hot": 527668,
       "num": 223369,
       "word": "23岁女生拔掉57颗牙的体验",
       "onboard_time": 1762402523,
@@ -131,6 +139,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 455417,
+      "num": 455417,
+      "word": "坍塌事故遇难女孩男友发声澄清",
+      "onboard_time": 1762405222,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446688,
       "num": 206209,
       "word": "曝王一博不续约乐华",
@@ -145,6 +161,14 @@
       "onboard_time": 1762389560,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409419,
+      "num": 409419,
+      "word": "将门毒后沈娇娇才是主角",
+      "onboard_time": 1762405162,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 407626,
@@ -211,11 +235,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296973,
-      "num": 296973,
-      "word": "张艺兴直接吃掉在手机上的生肉",
-      "onboard_time": 1762403481,
-      "rank": 12,
+      "raw_hot": 287455,
+      "num": 180508,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -224,6 +248,14 @@
       "word": "乐华2025年中报未提及王一博",
       "onboard_time": 1762402042,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272192,
+      "num": 168330,
+      "word": "时代峰峻公司WiFi密码",
+      "onboard_time": 1762403781,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -273,6 +305,22 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 235787,
+      "num": 161905,
+      "word": "妇产科医生眼中的完美月经",
+      "onboard_time": 1762405523,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235218,
+      "num": 235218,
+      "word": "乐华娱乐大跌",
+      "onboard_time": 1762406360,
+      "rank": 6,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 233114,
@@ -379,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180508,
-      "num": 180508,
-      "word": "黄磊回应被指爱说教",
-      "onboard_time": 1762403363,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173898,
       "num": 173898,
       "word": "杨紫直播造型",
@@ -409,14 +449,6 @@
       "onboard_time": 1762399160,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168330,
-      "num": 168330,
-      "word": "时代峰峻公司WiFi密码",
-      "onboard_time": 1762403781,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 166411,
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138903,
+      "num": 138903,
+      "word": "王传君获奖是五个评委一致通过的",
+      "onboard_time": 1762404742,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138341,
       "num": 138341,
       "word": "确诊多囊后把自己重养一遍",
@@ -489,6 +529,22 @@
       "onboard_time": 1762398800,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136060,
+      "num": 136060,
+      "word": "易烊千玺狂野时代五个角色",
+      "onboard_time": 1762405523,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132782,
+      "num": 125488,
+      "word": "杨紫 我怎么成老师了",
+      "onboard_time": 1762404561,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 129516,
@@ -523,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125596,
+      "num": 125596,
+      "word": "看胡连馨还珠无法保持苹果肌扁平",
+      "onboard_time": 1762404742,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125542,
       "num": 146910,
       "word": "抗癌针",
@@ -536,6 +600,14 @@
       "word": "金建希首次承认收受奢侈品包",
       "onboard_time": 1762394539,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124398,
+      "num": 124398,
+      "word": "荷兰安世半导体回应CEO安排",
+      "onboard_time": 1762404981,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -571,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115630,
+      "num": 115630,
+      "word": "陈梦说回归后看到大家好亲近",
+      "onboard_time": 1762405881,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111015,
       "num": 111015,
       "word": "爱心人士董晓红因车祸离世",
@@ -604,7 +684,7 @@
     },
     {
       "raw_hot": 106454,
-      "num": 106454,
+      "num": 162512,
       "word": "衣服上挂密码锁确认收货再给密码",
       "onboard_time": 1762401441,
       "rank": 38,
@@ -667,12 +747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96870,
+      "num": 96870,
+      "word": "专家回应康熙亲爹争议",
+      "onboard_time": 1762406301,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 96077,
       "num": 96077,
       "word": "时代少年团演唱会剧照海报",
       "onboard_time": 1762397120,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "浙大食堂8.8元一只螃蟹馋哭网友",
+      "onboard_time": 1762406001,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95191,
@@ -684,7 +780,7 @@
     },
     {
       "raw_hot": 94154,
-      "num": 94154,
+      "num": 164526,
       "word": "小鹏科技日",
       "onboard_time": 1762404381,
       "rank": 42,
@@ -723,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91628,
+      "num": 101822,
+      "word": "全球最性感男人结果出炉",
+      "onboard_time": 1762403841,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91201,
       "num": 91201,
       "word": "发明烤冻土豆的人难道是天才",
@@ -737,6 +841,14 @@
       "onboard_time": 1762403781,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "水龙吟怎么演到女儿国了",
+      "onboard_time": 1762406660,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 90079,
@@ -827,6 +939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84187,
+      "num": 84187,
+      "word": "上海偶遇朱亚文夫妇",
+      "onboard_time": 1762406001,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84046,
       "num": 84046,
       "word": "起床第一件事就是撸小狗的肚子",
@@ -913,14 +1033,6 @@
       "onboard_time": 1762399100,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75932,
-      "num": 101822,
-      "word": "全球最性感男人结果出炉",
-      "onboard_time": 1762403841,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75815,
@@ -1043,6 +1155,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 68171,
+      "num": 68171,
+      "word": "小猫一生的很多时间都在等主人回家",
+      "onboard_time": 1762406721,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67530,
       "num": 165157,
       "word": "金店关门潮蔓延",
@@ -1089,6 +1209,30 @@
       "onboard_time": 1762354762,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64712,
+      "num": 163035,
+      "word": "距离春节放假还有100天",
+      "onboard_time": 1762405941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64676,
+      "num": 64676,
+      "word": "李华好像一直把我们当豆包用",
+      "onboard_time": 1762406780,
+      "rank": 48,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 64342,
+      "num": 64342,
+      "word": "东北嫡长女的地位",
+      "onboard_time": 1762406721,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 62854,
@@ -1195,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55395,
+      "num": 805694,
+      "word": "乌镇有大系",
+      "onboard_time": 1762396760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55053,
       "num": 227312,
       "word": "vivoX300拍到了超级月亮",
@@ -1267,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43081,
+      "num": 163548,
+      "word": "羽绒服max版能有多顶",
+      "onboard_time": 1762405941,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 42248,
       "num": 141072,
       "word": "张艺兴说完bra就挠头了",
@@ -1281,14 +1441,6 @@
       "onboard_time": 1762352722,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41555,
-      "num": 805694,
-      "word": "乌镇有大系",
-      "onboard_time": 1762396760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40346,
@@ -1321,6 +1473,14 @@
       "onboard_time": 1762358419,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39157,
+      "num": 92546,
+      "word": "丽春改名要什么精神证明",
+      "onboard_time": 1762404742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38644,
@@ -1361,6 +1521,14 @@
       "onboard_time": 1762399700,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33773,
+      "num": 91874,
+      "word": "CNN让台当局破防",
+      "onboard_time": 1762406122,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33422,

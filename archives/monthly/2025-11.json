@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762404507005,
+  "endTime": 1762406873269,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -763,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 724730,
+      "num": 296973,
+      "word": "张艺兴直接吃掉在手机上的生肉",
+      "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714663,
       "num": 1114346,
       "word": "亲属想侵吞3姐妹亡父赔偿款",
@@ -1475,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 527668,
+      "num": 223369,
+      "word": "23岁女生拔掉57颗牙的体验",
+      "onboard_time": 1762402523,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 526473,
       "num": 203459,
       "word": "老人地铁强坐女生腿上女生无奈报警",
@@ -1521,14 +1537,6 @@
       "onboard_time": 1761995181,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511235,
-      "num": 223369,
-      "word": "23岁女生拔掉57颗牙的体验",
-      "onboard_time": 1762402523,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 507369,
@@ -1851,6 +1859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 455417,
+      "num": 455417,
+      "word": "坍塌事故遇难女孩男友发声澄清",
+      "onboard_time": 1762405222,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1762339641,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409419,
+      "num": 409419,
+      "word": "将门毒后沈娇娇才是主角",
+      "onboard_time": 1762405162,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 408854,
@@ -3131,14 +3155,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 296973,
-      "num": 296973,
-      "word": "张艺兴直接吃掉在手机上的生肉",
-      "onboard_time": 1762403481,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287455,
+      "num": 180508,
+      "word": "黄磊回应被指爱说教",
+      "onboard_time": 1762403363,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 285774,
@@ -3417,6 +3441,14 @@
       "onboard_time": 1762139419,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272192,
+      "num": 168330,
+      "word": "时代峰峻公司WiFi密码",
+      "onboard_time": 1762403781,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 270955,
@@ -3905,6 +3937,22 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 235787,
+      "num": 161905,
+      "word": "妇产科医生眼中的完美月经",
+      "onboard_time": 1762405523,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235218,
+      "num": 235218,
+      "word": "乐华娱乐大跌",
+      "onboard_time": 1762406360,
+      "rank": 6,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 234746,
@@ -5515,14 +5563,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 180508,
-      "num": 180508,
-      "word": "黄磊回应被指爱说教",
-      "onboard_time": 1762403363,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180312,
       "num": 180312,
       "word": "微博视界大会直播",
@@ -5969,14 +6009,6 @@
       "onboard_time": 1762345581,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168330,
-      "num": 168330,
-      "word": "时代峰峻公司WiFi密码",
-      "onboard_time": 1762403781,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 168315,
@@ -7811,6 +7843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138903,
+      "num": 138903,
+      "word": "王传君获奖是五个评委一致通过的",
+      "onboard_time": 1762404742,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138842,
       "num": 138842,
       "word": "管泽元说GEN没人干净",
@@ -8091,6 +8131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136060,
+      "num": 136060,
+      "word": "易烊千玺狂野时代五个角色",
+      "onboard_time": 1762405523,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "369谈LPL与LCK差距",
@@ -8296,6 +8344,14 @@
       "word": "王晶发文悼念冯淬帆",
       "onboard_time": 1761974179,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132782,
+      "num": 125488,
+      "word": "杨紫 我怎么成老师了",
+      "onboard_time": 1762404561,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -8947,6 +9003,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 125596,
+      "num": 125596,
+      "word": "看胡连馨还珠无法保持苹果肌扁平",
+      "onboard_time": 1762404742,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125494,
       "num": 125494,
       "word": "男子称杀人40厘米刀是用来磨死皮",
@@ -9049,6 +9113,14 @@
       "onboard_time": 1761974060,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124398,
+      "num": 124398,
+      "word": "荷兰安世半导体回应CEO安排",
+      "onboard_time": 1762404981,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124304,
@@ -9975,6 +10047,14 @@
       "num": 115640,
       "word": "孙颖莎女孩与王冠",
       "onboard_time": 1762226961,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115630,
+      "num": 115630,
+      "word": "陈梦说回归后看到大家好亲近",
+      "onboard_time": 1762405881,
       "rank": 33,
       "category": "体育"
     },
@@ -11044,7 +11124,7 @@
     },
     {
       "raw_hot": 106454,
-      "num": 106454,
+      "num": 162512,
       "word": "衣服上挂密码锁确认收货再给密码",
       "onboard_time": 1762401441,
       "rank": 38,
@@ -12603,6 +12683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96870,
+      "num": 96870,
+      "word": "专家回应康熙亲爹争议",
+      "onboard_time": 1762406301,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 96776,
       "num": 96776,
       "word": "杨瀚森再次被DNP",
@@ -12819,6 +12907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "浙大食堂8.8元一只螃蟹馋哭网友",
+      "onboard_time": 1762406001,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95191,
       "num": 123212,
       "word": "美军今年第3次试射民兵3导弹",
@@ -12972,7 +13068,7 @@
     },
     {
       "raw_hot": 94154,
-      "num": 94154,
+      "num": 164526,
       "word": "小鹏科技日",
       "onboard_time": 1762404381,
       "rank": 42,
@@ -13427,6 +13523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91628,
+      "num": 101822,
+      "word": "全球最性感男人结果出炉",
+      "onboard_time": 1762403841,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91539,
       "num": 91539,
       "word": "25岁吴磊怼脸皮肤状态",
@@ -13657,6 +13761,14 @@
       "onboard_time": 1762325540,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "水龙吟怎么演到女儿国了",
+      "onboard_time": 1762406660,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 90146,
@@ -14697,6 +14809,14 @@
       "onboard_time": 1762395080,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84187,
+      "num": 84187,
+      "word": "上海偶遇朱亚文夫妇",
+      "onboard_time": 1762406001,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 84176,
@@ -15779,14 +15899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75932,
-      "num": 101822,
-      "word": "全球最性感男人结果出炉",
-      "onboard_time": 1762403841,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 75928,
       "num": 144579,
       "word": "茅台拟以15亿至30亿回购股份并注销",
@@ -16539,6 +16651,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 68171,
+      "num": 68171,
+      "word": "小猫一生的很多时间都在等主人回家",
+      "onboard_time": 1762406721,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68161,
       "num": 74340,
       "word": "关晓彤找到副业了",
@@ -16819,6 +16939,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64712,
+      "num": 163035,
+      "word": "距离春节放假还有100天",
+      "onboard_time": 1762405941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64676,
+      "num": 64676,
+      "word": "李华好像一直把我们当豆包用",
+      "onboard_time": 1762406780,
+      "rank": 48,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 64674,
       "num": 182280,
       "word": "启境CEO在线收简历",
@@ -16841,6 +16977,14 @@
       "onboard_time": 1762248020,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64342,
+      "num": 64342,
+      "word": "东北嫡长女的地位",
+      "onboard_time": 1762406721,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 64338,
@@ -17387,6 +17531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55395,
+      "num": 805694,
+      "word": "乌镇有大系",
+      "onboard_time": 1762396760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55360,
       "num": 97478,
       "word": "刘宇宁脚滑之后的反应",
@@ -17907,6 +18059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43081,
+      "num": 163548,
+      "word": "羽绒服max版能有多顶",
+      "onboard_time": 1762405941,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 43022,
       "num": 47297,
       "word": "何意味",
@@ -17985,14 +18145,6 @@
       "onboard_time": 1762188078,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41555,
-      "num": 805694,
-      "word": "乌镇有大系",
-      "onboard_time": 1762396760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41526,
@@ -18137,6 +18289,14 @@
       "onboard_time": 1762228879,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39157,
+      "num": 92546,
+      "word": "丽春改名要什么精神证明",
+      "onboard_time": 1762404742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38915,
@@ -18425,6 +18585,14 @@
       "onboard_time": 1762315401,
       "rank": 29,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 33773,
+      "num": 91874,
+      "word": "CNN让台当局破防",
+      "onboard_time": 1762406122,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33567,
