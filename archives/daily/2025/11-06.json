@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762413958639,
+  "endTime": 1762414787345,
   "band_list": [
     {
       "raw_hot": 1323471,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509836,
+      "num": 420993,
+      "word": "全红婵坚持每月给家里生活费",
+      "onboard_time": 1762410801,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 503837,
       "num": 207157,
       "word": "原来红霉素眼膏是这么涂的",
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420993,
-      "num": 420993,
-      "word": "全红婵坚持每月给家里生活费",
-      "onboard_time": 1762410801,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407626,
       "num": 127320,
       "word": "王传君获奖表情",
@@ -243,12 +243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 363199,
+      "num": 162366,
+      "word": "张凯丽回应63岁穿黑丝",
+      "onboard_time": 1762413020,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359475,
       "num": 359475,
       "word": "全红婵陈芋汐张家齐单项争冠",
       "onboard_time": 1762389142,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353908,
+      "num": 353908,
+      "word": "专家称康熙是洪承畴儿子系无稽之谈",
+      "onboard_time": 1762410321,
+      "rank": 9,
+      "category": "议题讨论,科学科普"
     },
     {
       "raw_hot": 333536,
@@ -280,6 +296,14 @@
       "word": "黄磊回应被指爱说教",
       "onboard_time": 1762403363,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288929,
+      "num": 161886,
+      "word": "王一菲致歉",
+      "onboard_time": 1762412901,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -329,14 +353,6 @@
       "onboard_time": 1762401381,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249397,
-      "num": 249397,
-      "word": "专家称康熙是洪承畴儿子系无稽之谈",
-      "onboard_time": 1762410321,
-      "rank": 9,
-      "category": "议题讨论,科学科普"
     },
     {
       "raw_hot": 246714,
@@ -427,6 +443,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213015,
+      "num": 157773,
+      "word": "央视曝光假冒艺人直播",
+      "onboard_time": 1762413802,
+      "rank": 43,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 208886,
+      "num": 208886,
+      "word": "苹果喊话iPhone13和14用户换新机",
+      "onboard_time": 1762414160,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208408,
       "num": 192471,
       "word": "长期戴耳机的受害者出现了",
@@ -459,14 +491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205497,
-      "num": 162366,
-      "word": "张凯丽回应63岁穿黑丝",
-      "onboard_time": 1762413020,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204994,
       "num": 146995,
       "word": "丈夫病亡后妻子两天后不幸离世",
@@ -481,14 +505,6 @@
       "onboard_time": 1762396101,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 203513,
-      "num": 161886,
-      "word": "王一菲致歉",
-      "onboard_time": 1762412901,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 198428,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183914,
+      "num": 159829,
+      "word": "公园摆3个尿桶供人露天小便",
+      "onboard_time": 1762412360,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181996,
       "num": 181996,
       "word": "孙俪吃饭菜精细到用称量",
@@ -579,19 +603,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166157,
-      "num": 159829,
-      "word": "公园摆3个尿桶供人露天小便",
-      "onboard_time": 1762412360,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162142,
       "num": 162142,
       "word": "女护士称给95岁大爷扎针时被摸腿",
       "onboard_time": 1762352301,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159144,
+      "num": 164866,
+      "word": "副院长被指与女同事有私情纪检介入",
+      "onboard_time": 1762411521,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -603,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154942,
+      "num": 154942,
+      "word": "陈梦回应为何参加全运会",
+      "onboard_time": 1762413081,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152095,
       "num": 152095,
       "word": "荷兰安世半导体回应CEO安排",
       "onboard_time": 1762404981,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148447,
+      "num": 148447,
+      "word": "抑郁症和焦虑症的区别",
+      "onboard_time": 1762411461,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146048,
@@ -747,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129866,
+      "num": 129866,
+      "word": "精致马儿高能量上班的一天",
+      "onboard_time": 1762414641,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129516,
       "num": 129516,
       "word": "其实不用担心一辈子都要上班",
@@ -761,14 +809,6 @@
       "onboard_time": 1762407501,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127101,
-      "num": 164866,
-      "word": "副院长被指与女同事有私情纪检介入",
-      "onboard_time": 1762411521,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126795,
@@ -851,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120788,
-      "num": 146105,
-      "word": "陈梦回应为何参加全运会",
-      "onboard_time": 1762413081,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 120145,
+      "num": 120145,
+      "word": "福建舰入列将增强远海攻防能力",
+      "onboard_time": 1762413139,
+      "rank": 35,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 119411,
@@ -873,14 +913,6 @@
       "onboard_time": 1762410980,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117503,
-      "num": 117503,
-      "word": "福建舰入列将增强远海攻防能力",
-      "onboard_time": 1762413139,
-      "rank": 35,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 116694,
@@ -905,14 +937,6 @@
       "onboard_time": 1762405881,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115015,
-      "num": 115015,
-      "word": "抑郁症和焦虑症的区别",
-      "onboard_time": 1762411461,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 111398,
@@ -944,6 +968,14 @@
       "word": "樊振东出现在中国驻德国大使馆官网",
       "onboard_time": 1762403662,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109964,
+      "num": 109964,
+      "word": "全红婵成名一跳",
+      "onboard_time": 1762413921,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103684,
+      "num": 103684,
+      "word": "全红婵复出夺冠全网都在心疼",
+      "onboard_time": 1762414040,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103669,
       "num": 103669,
       "word": "崩坏星穹铁道",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1762406660,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100378,
-      "num": 100378,
-      "word": "央视曝光假冒艺人直播",
-      "onboard_time": 1762413802,
-      "rank": 43,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 100221,
@@ -1195,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92054,
+      "num": 92054,
+      "word": "张杰送歌迷去旅游",
+      "onboard_time": 1762414580,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91201,
       "num": 91201,
       "word": "发明烤冻土豆的人难道是天才",
@@ -1227,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89911,
+      "num": 89911,
+      "word": "15元一斤奶牛小猫咪",
+      "onboard_time": 1762414580,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87964,
       "num": 144250,
       "word": "新加坡91岁老人每天工作12小时",
@@ -1241,6 +1289,22 @@
       "onboard_time": 1762396340,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87233,
+      "num": 87233,
+      "word": "全红婵将继续带伤出战决赛",
+      "onboard_time": 1762414522,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86992,
+      "num": 160934,
+      "word": "菲律宾宣布国家灾难状态",
+      "onboard_time": 1762413620,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86982,
@@ -1275,12 +1339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86318,
-      "num": 86318,
-      "word": "全红婵成名一跳",
-      "onboard_time": 1762413921,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 86469,
+      "num": 86469,
+      "word": "为什么冬天人看起来更显老",
+      "onboard_time": 1762411702,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 86197,
+      "num": 86197,
+      "word": "A股走强放量1829亿",
+      "onboard_time": 1762414760,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 85940,
@@ -1321,14 +1393,6 @@
       "onboard_time": 1762403603,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 84394,
-      "num": 84394,
-      "word": "为什么冬天人看起来更显老",
-      "onboard_time": 1762411702,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 84313,
@@ -1459,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77749,
+      "num": 99945,
+      "word": "文淇 我那疯疯癫癫的圈内闺蜜",
+      "onboard_time": 1762414160,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76953,
       "num": 76953,
       "word": "多位民营企业家改判无罪",
@@ -1556,7 +1628,7 @@
     },
     {
       "raw_hot": 71977,
-      "num": 362362,
+      "num": 430852,
       "word": "一起看全运会",
       "onboard_time": 1762397960,
       "rank": 2,
@@ -1819,6 +1891,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 52532,
+      "num": 109996,
+      "word": "乐华娱乐今年只发了3次王一博",
+      "onboard_time": 1762413561,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51982,
       "num": 140215,
       "word": "特斯拉撞死野猪车主被判全责",
@@ -1859,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49194,
-      "num": 109996,
-      "word": "乐华娱乐今年只发了3次王一博",
-      "onboard_time": 1762413561,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48721,
       "num": 100266,
       "word": "墨西哥总统将控告骚扰其男子",
@@ -1899,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43120,
+      "num": 161286,
+      "word": "让刘涛惊艳的天菜出现了",
+      "onboard_time": 1762413020,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42248,
       "num": 141072,
       "word": "张艺兴说完bra就挠头了",
@@ -1920,14 +2000,6 @@
       "word": "原相机下的周冬雨马思纯",
       "onboard_time": 1762378514,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 39839,
-      "num": 161286,
-      "word": "让刘涛惊艳的天菜出现了",
-      "onboard_time": 1762413020,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -2059,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26656,
+      "num": 99641,
+      "word": "丈夫病亡两天后妻子也离世家属发声",
+      "onboard_time": 1762414223,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25298,
       "num": 70361,
       "word": "樊振东王楚钦马龙有望小组对决",
@@ -2073,14 +2153,6 @@
       "onboard_time": 1762358239,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24805,
-      "num": 160934,
-      "word": "菲律宾宣布国家灾难状态",
-      "onboard_time": 1762413620,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23895,

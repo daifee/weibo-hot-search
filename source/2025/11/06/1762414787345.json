@@ -1,0 +1,410 @@
+{
+  "runTime": 1762414787345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918005,
+        "num": 1146880,
+        "word": "中国首例冷冻人8年后怎么样了",
+        "onboard_time": 1762408461,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524724,
+        "num": 524724,
+        "word": "将门毒后沈娇娇才是主角",
+        "onboard_time": 1762405162,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19244,
+        "num": 430852,
+        "word": "一起看全运会",
+        "onboard_time": 1762397960,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403049,
+        "num": 403049,
+        "word": "台湾 投诚APP",
+        "onboard_time": 1762398138,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398905,
+        "num": 398905,
+        "word": "没认出这是易烊千玺",
+        "onboard_time": 1762400241,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509836,
+        "num": 391439,
+        "word": "全红婵坚持每月给家里生活费",
+        "onboard_time": 1762410801,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353908,
+        "num": 353908,
+        "word": "专家称康熙是洪承畴儿子系无稽之谈",
+        "onboard_time": 1762410321,
+        "rank": 6,
+        "category": "议题讨论,科学科普"
+      },
+      {
+        "raw_hot": 329173,
+        "num": 329173,
+        "word": "乐华娱乐大跌",
+        "onboard_time": 1762406360,
+        "rank": 7,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 208886,
+        "num": 208886,
+        "word": "苹果喊话iPhone13和14用户换新机",
+        "onboard_time": 1762414160,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159144,
+        "num": 159144,
+        "word": "副院长被指与女同事有私情纪检介入",
+        "onboard_time": 1762411521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363199,
+        "num": 158814,
+        "word": "张凯丽回应63岁穿黑丝",
+        "onboard_time": 1762413020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288929,
+        "num": 158637,
+        "word": "王一菲致歉",
+        "onboard_time": 1762412901,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249135,
+        "num": 158294,
+        "word": "湖南省人民医院网传出轨医生无号可挂",
+        "onboard_time": 1762408521,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213015,
+        "num": 157773,
+        "word": "央视曝光假冒艺人直播",
+        "onboard_time": 1762413802,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 20667,
+        "num": 157675,
+        "word": "抽猫盒赢大奖攻略",
+        "onboard_time": 1762412662,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210663,
+        "num": 157181,
+        "word": "23岁女生拔掉57颗牙的体验",
+        "onboard_time": 1762402523,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183914,
+        "num": 156878,
+        "word": "公园摆3个尿桶供人露天小便",
+        "onboard_time": 1762412360,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 156546,
+        "word": "易烊千玺舒淇怪物和她剧照",
+        "onboard_time": 1762410321,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86992,
+        "num": 156294,
+        "word": "菲律宾宣布国家灾难状态",
+        "onboard_time": 1762413620,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43120,
+        "num": 155884,
+        "word": "让刘涛惊艳的天菜出现了",
+        "onboard_time": 1762413020,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218471,
+        "num": 155464,
+        "word": "张艺兴直接吃掉在手机上的生肉",
+        "onboard_time": 1762403481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 155200,
+        "word": "降低体脂率最快的10个方法",
+        "onboard_time": 1762410801,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 154942,
+        "num": 154942,
+        "word": "陈梦回应为何参加全运会",
+        "onboard_time": 1762413081,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152425,
+        "num": 152425,
+        "word": "王一博已成立个人独资工作室",
+        "onboard_time": 1762397540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150672,
+        "num": 150672,
+        "word": "将门毒后原著粉",
+        "onboard_time": 1762412780,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148447,
+        "num": 148447,
+        "word": "抑郁症和焦虑症的区别",
+        "onboard_time": 1762411461,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143476,
+        "num": 143476,
+        "word": "马思纯近期状态美到犯规",
+        "onboard_time": 1762411041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133919,
+        "num": 133919,
+        "word": "经常看书和不看书的区别",
+        "onboard_time": 1762402280,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129866,
+        "num": 129866,
+        "word": "精致马儿高能量上班的一天",
+        "onboard_time": 1762414641,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120145,
+        "num": 120145,
+        "word": "福建舰入列将增强远海攻防能力",
+        "onboard_time": 1762413139,
+        "rank": 29,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 128644,
+        "num": 119991,
+        "word": "老外眼中的安卓手机",
+        "onboard_time": 1762407801,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119823,
+        "num": 119823,
+        "word": "贺峻霖想的马天宇叫的马嘉祺",
+        "onboard_time": 1762413620,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119768,
+        "num": 119768,
+        "word": "妈妈疑喂宝宝安眠药上夜班官方介入",
+        "onboard_time": 1762412060,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109964,
+        "num": 109964,
+        "word": "全红婵成名一跳",
+        "onboard_time": 1762413921,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109098,
+        "num": 109098,
+        "word": "妇产科医生眼中的完美月经",
+        "onboard_time": 1762405523,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106114,
+        "num": 106114,
+        "word": "小鹏机器人",
+        "onboard_time": 1762407981,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105684,
+        "num": 105684,
+        "word": "全红婵与陈芋汐比心互动",
+        "onboard_time": 1762407501,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "全红婵复出夺冠全网都在心疼",
+        "onboard_time": 1762414040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77749,
+        "num": 99945,
+        "word": "文淇 我那疯疯癫癫的圈内闺蜜",
+        "onboard_time": 1762414160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26656,
+        "num": 99641,
+        "word": "丈夫病亡两天后妻子也离世家属发声",
+        "onboard_time": 1762414223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52532,
+        "num": 99459,
+        "word": "乐华娱乐今年只发了3次王一博",
+        "onboard_time": 1762413561,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99445,
+        "num": 99445,
+        "word": "时代峰峻公司WiFi密码",
+        "onboard_time": 1762403781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95813,
+        "num": 95813,
+        "word": "原来恐怖电影真的没骗人",
+        "onboard_time": 1762409901,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95276,
+        "num": 95276,
+        "word": "韩学者称韩国人有白人血统",
+        "onboard_time": 1762409901,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92054,
+        "num": 92054,
+        "word": "张杰送歌迷去旅游",
+        "onboard_time": 1762414580,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89911,
+        "num": 89911,
+        "word": "15元一斤奶牛小猫咪",
+        "onboard_time": 1762414580,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89494,
+        "num": 89494,
+        "word": "努尔哈赤康熙雍正都是相同父系",
+        "onboard_time": 1762410980,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87233,
+        "num": 87233,
+        "word": "全红婵将继续带伤出战决赛",
+        "onboard_time": 1762414522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "为什么冬天人看起来更显老",
+        "onboard_time": 1762411702,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86197,
+        "num": 86197,
+        "word": "A股走强放量1829亿",
+        "onboard_time": 1762414760,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平的乌镇网事#"
+    }
+  }
+}
