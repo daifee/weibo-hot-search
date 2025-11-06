@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762429134365,
+  "endTime": 1762433642023,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -8,6 +8,14 @@
       "word": "白百何回应东京电影节未获奖",
       "onboard_time": 1762425621,
       "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2901190,
+      "num": 2901190,
+      "word": "白百何回应东京电影节争议",
+      "onboard_time": 1762425621,
+      "rank": 0,
       "category": "电影"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1404444,
-      "num": 250961,
+      "num": 267469,
       "word": "杜华 荒谬",
       "onboard_time": 1762417401,
       "rank": 12,
@@ -123,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 786689,
+      "num": 267206,
+      "word": "白百何 张律",
+      "onboard_time": 1762433061,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 766463,
       "num": 206237,
       "word": "疑似白百何更新朋友圈",
@@ -153,6 +169,14 @@
       "onboard_time": 1762414160,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 718304,
+      "num": 267136,
+      "word": "真水无香和小雨妖妖十年后再同框",
+      "onboard_time": 1762430721,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 670001,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 569441,
-      "num": 185963,
+      "num": 236014,
       "word": "杨紫张一山友情",
       "onboard_time": 1762422502,
       "rank": 11,
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476997,
+      "num": 266722,
+      "word": "疑似王传君老板回应",
+      "onboard_time": 1762429221,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 474113,
       "num": 812594,
       "word": "央视披露户晨风封号详情",
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373254,
+      "num": 373254,
+      "word": "全红婵回应获得第五",
+      "onboard_time": 1762430361,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364497,
       "num": 874381,
       "word": "王传君东京电影节影帝",
@@ -475,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317793,
+      "num": 266550,
+      "word": "失联多日的17岁高三女生已不幸去世",
+      "onboard_time": 1762429763,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310115,
       "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
@@ -497,6 +545,14 @@
       "onboard_time": 1762403363,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290389,
+      "num": 266483,
+      "word": "陈芋汐希望和全红婵一起携手",
+      "onboard_time": 1762430661,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 288929,
@@ -539,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273603,
+      "num": 273603,
+      "word": "网友称买到仙贝假冒的奶皮子糖葫芦",
+      "onboard_time": 1762428800,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268346,
       "num": 239485,
       "word": "王传君工作室回应获奖",
       "onboard_time": 1762355721,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266262,
+      "num": 266262,
+      "word": "沈娇娇提名",
+      "onboard_time": 1762427543,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 258190,
@@ -571,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254702,
-      "num": 254702,
-      "word": "沈娇娇提名",
-      "onboard_time": 1762427543,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247700,
       "num": 247700,
       "word": "官方通报网传副院长出轨眼科主任",
@@ -603,12 +667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245256,
+      "num": 245256,
+      "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
+      "onboard_time": 1762431262,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239783,
       "num": 185608,
       "word": "妇产科医生眼中的完美月经",
       "onboard_time": 1762405523,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238464,
+      "num": 268134,
+      "word": "令人心动的offer7",
+      "onboard_time": 1762429522,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 236174,
@@ -657,6 +737,14 @@
       "onboard_time": 1762404442,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 220625,
+      "num": 267911,
+      "word": "王传君回应东京电影节获奖后不笑",
+      "onboard_time": 1762422742,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 219276,
@@ -739,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199852,
+      "num": 199852,
+      "word": "全红婵赛后采访差点哭了",
+      "onboard_time": 1762431442,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198428,
       "num": 167729,
       "word": "这小马一看就是才参加工作",
       "onboard_time": 1762410920,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192863,
+      "num": 192863,
+      "word": "陈哲远 刚刚开机了吗",
+      "onboard_time": 1762432761,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 192089,
@@ -827,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184109,
+      "num": 184109,
+      "word": "贺峻霖侯梓泰熟人见面的尴尬",
+      "onboard_time": 1762432402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182735,
       "num": 252045,
       "word": "陈梦回应为何参加全运会",
@@ -897,14 +1009,6 @@
       "onboard_time": 1762420702,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170835,
-      "num": 170835,
-      "word": "王传君回应东京电影节获奖后不笑",
-      "onboard_time": 1762422742,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 170792,
@@ -1035,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147086,
+      "num": 147086,
+      "word": "中国军工知道你们已经等两天了",
+      "onboard_time": 1762431623,
+      "rank": 25,
+      "category": "军事"
+    },
+    {
       "raw_hot": 146048,
       "num": 146048,
       "word": "妈妈疑喂宝宝安眠药上夜班官方介入",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1762410201,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138819,
+      "num": 138819,
+      "word": "电影蛟龙行动特别版",
+      "onboard_time": 1762433482,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 138341,
@@ -1371,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120856,
+      "num": 120856,
+      "word": "全红婵说自己还是很棒",
+      "onboard_time": 1762430961,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120145,
       "num": 120145,
       "word": "福建舰入列将增强远海攻防能力",
@@ -1417,6 +1545,22 @@
       "onboard_time": 1762417580,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118692,
+      "num": 118692,
+      "word": "老师我家田曦薇不能露秋裤吗",
+      "onboard_time": 1762432402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117894,
+      "num": 117894,
+      "word": "生6个儿子夫妻说没考虑彩礼问题",
+      "onboard_time": 1762428081,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116694,
@@ -1483,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113976,
+      "num": 125793,
+      "word": "魏建军为梦泪解锁新装备",
+      "onboard_time": 1762430721,
+      "rank": 29,
+      "category": "汽车,电竞"
+    },
+    {
       "raw_hot": 113310,
       "num": 113310,
       "word": "欧盟称向中方提交2000份稀土申请",
@@ -1547,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109609,
+      "num": 109609,
+      "word": "全红婵说自己不够努力",
+      "onboard_time": 1762432642,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108115,
       "num": 108115,
       "word": "开拓者结束雷霆8连胜",
@@ -1585,14 +1745,6 @@
       "onboard_time": 1762428922,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107731,
-      "num": 107731,
-      "word": "生6个儿子夫妻说没考虑彩礼问题",
-      "onboard_time": 1762428081,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107638,
@@ -1667,6 +1819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104170,
+      "num": 104170,
+      "word": "易烊千玺 老衲来的",
+      "onboard_time": 1762433361,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103684,
       "num": 103684,
       "word": "全红婵复出夺冠全网都在心疼",
@@ -1689,6 +1849,22 @@
       "onboard_time": 1762425981,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103100,
+      "num": 103100,
+      "word": "考公人的破防时刻",
+      "onboard_time": 1762430060,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 101544,
+      "num": 97558,
+      "word": "新闻女王墨镜王2.0",
+      "onboard_time": 1762433181,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 101415,
@@ -1779,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98170,
+      "num": 98170,
+      "word": "老师我家王橹杰好像要晕倒了",
+      "onboard_time": 1762432102,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98154,
       "num": 98154,
       "word": "邱贻可说全运会容易爆冷",
@@ -1841,6 +2025,14 @@
       "onboard_time": 1762424541,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96368,
+      "num": 106683,
+      "word": "天鹅到家保姆暴力捶打踹飞婴儿",
+      "onboard_time": 1762428982,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96077,
@@ -2019,6 +2211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 92177,
+      "num": 92177,
+      "word": "王鹤棣资源好牛",
+      "onboard_time": 1762433543,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92054,
       "num": 92054,
       "word": "张杰送歌迷去旅游",
@@ -2049,6 +2249,14 @@
       "onboard_time": 1762424781,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90580,
+      "num": 90580,
+      "word": "JieJie谈明年转会期",
+      "onboard_time": 1762433361,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 90434,
@@ -2129,6 +2337,14 @@
       "onboard_time": 1762396340,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87378,
+      "num": 87378,
+      "word": "王楚钦上身全运会北京队服",
+      "onboard_time": 1762428503,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87233,
@@ -2345,14 +2561,6 @@
       "onboard_time": 1762385899,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81870,
-      "num": 106683,
-      "word": "天鹅到家保姆暴力捶打踹飞婴儿",
-      "onboard_time": 1762428982,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81534,
@@ -2931,6 +3139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48131,
+      "num": 213241,
+      "word": "小鹏X9超级增程首发14项全球领先技术",
+      "onboard_time": 1762432642,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46924,
       "num": 71646,
       "word": "李维嘉杜海涛吴昕有小群",
@@ -2968,6 +3184,14 @@
       "word": "女子70元卖7盒精神药品被判贩毒",
       "onboard_time": 1762424300,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42298,
+      "num": 103131,
+      "word": "山航高情商回应空乘服装被说土",
+      "onboard_time": 1762432341,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -3024,14 +3248,6 @@
       "word": "丽春改名要什么精神证明",
       "onboard_time": 1762404742,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38835,
-      "num": 149229,
-      "word": "网友称买到仙贝假冒的奶皮子糖葫芦",
-      "onboard_time": 1762428800,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3180,7 +3396,7 @@
     },
     {
       "raw_hot": 26766,
-      "num": 308887,
+      "num": 409492,
       "word": "2025世界互联网大会乌镇峰会",
       "onboard_time": 1762422681,
       "rank": 2,
@@ -3251,6 +3467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22366,
+      "num": 103766,
+      "word": "小学生校门口敬礼迎车辆入校引争议",
+      "onboard_time": 1762432702,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21526,
       "num": 144536,
       "word": "警方回应疑给宝宝喂安眠药上班",
@@ -3289,6 +3513,14 @@
       "onboard_time": 1762410501,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17492,
+      "num": 103963,
+      "word": "住三楼能听到一楼跳绳声",
+      "onboard_time": 1762433543,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17302,
