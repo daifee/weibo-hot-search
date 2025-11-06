@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762436276744,
+  "endTime": 1762436993203,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -323,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499605,
+      "num": 204446,
+      "word": "老师我家田曦薇不能露秋裤吗",
+      "onboard_time": 1762432402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494053,
       "num": 127519,
       "word": "高铁上被要求让座年轻人霸气回怼",
@@ -369,6 +377,14 @@
       "onboard_time": 1762384997,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445846,
+      "num": 288204,
+      "word": "郭美美2次入狱又试图复出",
+      "onboard_time": 1762435041,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 438417,
@@ -531,14 +547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 313958,
-      "num": 187616,
-      "word": "老师我家田曦薇不能露秋裤吗",
-      "onboard_time": 1762432402,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310115,
       "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
@@ -587,20 +595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288204,
-      "num": 288204,
-      "word": "郭美美2次入狱又试图复出",
-      "onboard_time": 1762435041,
-      "rank": 4,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 279929,
       "num": 279929,
       "word": "乐华2025年中报未提及王一博",
       "onboard_time": 1762402042,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276093,
+      "num": 276093,
+      "word": "全红婵赛后采访差点哭了",
+      "onboard_time": 1762431442,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 274854,
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258227,
+      "num": 200193,
+      "word": "王鹤棣或将空档四个月",
+      "onboard_time": 1762434141,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258190,
       "num": 258190,
       "word": "小米通话将停服",
@@ -691,14 +707,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 247416,
-      "num": 247416,
-      "word": "全红婵赛后采访差点哭了",
-      "onboard_time": 1762431442,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246714,
       "num": 246714,
       "word": "大学生一边兼职一边救人",
@@ -729,6 +737,14 @@
       "onboard_time": 1762385779,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 233555,
+      "num": 233555,
+      "word": "网传雪中悍刀行2阵容",
+      "onboard_time": 1762434861,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 233309,
@@ -803,14 +819,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 208862,
-      "num": 187316,
-      "word": "王鹤棣或将空档四个月",
-      "onboard_time": 1762434141,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208408,
       "num": 192471,
       "word": "长期戴耳机的受害者出现了",
@@ -857,6 +865,14 @@
       "onboard_time": 1762396101,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202230,
+      "num": 153170,
+      "word": "朋友圈全员92是什么概念",
+      "onboard_time": 1762435400,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 201827,
@@ -915,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187882,
-      "num": 187882,
-      "word": "网传雪中悍刀行2阵容",
-      "onboard_time": 1762434861,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187857,
       "num": 159981,
       "word": "降低体脂率最快的10个方法",
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183483,
+      "num": 183483,
+      "word": "湖南省人民医院出轨医生停职",
+      "onboard_time": 1762421541,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182735,
       "num": 252045,
       "word": "陈梦回应为何参加全运会",
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 182695,
-      "num": 159694,
+      "num": 164271,
       "word": "王鹤棣资源好牛",
       "onboard_time": 1762433543,
       "rank": 46,
@@ -1107,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159629,
-      "num": 159629,
-      "word": "湖南省人民医院出轨医生停职",
-      "onboard_time": 1762421541,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159144,
       "num": 164866,
       "word": "副院长被指与女同事有私情纪检介入",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1762418723,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153170,
-      "num": 153170,
-      "word": "朋友圈全员92是什么概念",
-      "onboard_time": 1762435400,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 152095,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1762407860,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140450,
+      "num": 120775,
+      "word": "陈芋汐夺冠后寄语全红婵",
+      "onboard_time": 1762434680,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 140023,
@@ -1563,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124986,
+      "num": 121068,
+      "word": "罗云熙幻视润玉误终身",
+      "onboard_time": 1762436062,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124717,
       "num": 124717,
       "word": "金建希首次承认收受奢侈品包",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1762357160,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121917,
+      "num": 165213,
+      "word": "柏栩栩录完offer7被清华想起来了",
+      "onboard_time": 1762435221,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 121805,
@@ -1652,7 +1676,7 @@
     },
     {
       "raw_hot": 118234,
-      "num": 187377,
+      "num": 201503,
       "word": "比价直播间出现机器人主播",
       "onboard_time": 1762435942,
       "rank": 19,
@@ -1673,14 +1697,6 @@
       "onboard_time": 1762423880,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 116132,
-      "num": 165213,
-      "word": "柏栩栩录完offer7被清华想起来了",
-      "onboard_time": 1762435221,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 116017,
@@ -1931,14 +1947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103990,
-      "num": 103990,
-      "word": "陈芋汐夺冠后寄语全红婵",
-      "onboard_time": 1762434680,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103684,
       "num": 103684,
       "word": "全红婵复出夺冠全网都在心疼",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1762407741,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94753,
-      "num": 94753,
-      "word": "罗云熙幻视润玉误终身",
-      "onboard_time": 1762436062,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 94426,
@@ -2547,6 +2547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86117,
+      "num": 86117,
+      "word": "杨迪 娜扎的妆就到此为止了",
+      "onboard_time": 1762436960,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85940,
       "num": 85940,
       "word": "广州电动车乱象",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1762395560,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85827,
+      "num": 85827,
+      "word": "谢思埸黄博文双人3米板金牌",
+      "onboard_time": 1762436841,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85495,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1762340661,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83138,
+      "num": 83138,
+      "word": "很佩服那些午休回家的人",
+      "onboard_time": 1762435041,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 82523,

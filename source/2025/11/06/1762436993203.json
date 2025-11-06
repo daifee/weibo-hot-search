@@ -1,0 +1,410 @@
+{
+  "runTime": 1762436993203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2123690,
+        "num": 2123690,
+        "word": "白百何回应东京电影节争议",
+        "onboard_time": 1762425621,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371924,
+        "num": 371924,
+        "word": "全红婵回应获得第五",
+        "onboard_time": 1762430361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34438,
+        "num": 299267,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445846,
+        "num": 287738,
+        "word": "郭美美2次入狱又试图复出",
+        "onboard_time": 1762435041,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 276093,
+        "num": 276093,
+        "word": "全红婵赛后采访差点哭了",
+        "onboard_time": 1762431442,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233555,
+        "num": 233555,
+        "word": "网传雪中悍刀行2阵容",
+        "onboard_time": 1762434861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225830,
+        "num": 225830,
+        "word": "陈芋汐希望和全红婵一起携手",
+        "onboard_time": 1762430661,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212821,
+        "num": 212821,
+        "word": "结婚登记增40.5万对",
+        "onboard_time": 1762424300,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209032,
+        "num": 209032,
+        "word": "郭美美被封号",
+        "onboard_time": 1762420641,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 142002,
+        "num": 208203,
+        "word": "令人心动的offer7",
+        "onboard_time": 1762429522,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 862939,
+        "num": 207395,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801429,
+        "num": 206967,
+        "word": "真水无香和小雨妖妖十年后再同框",
+        "onboard_time": 1762430721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546048,
+        "num": 205618,
+        "word": "白百何 张律",
+        "onboard_time": 1762433061,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499605,
+        "num": 204446,
+        "word": "老师我家田曦薇不能露秋裤吗",
+        "onboard_time": 1762432402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446552,
+        "num": 203543,
+        "word": "失联多日的17岁高三女生已不幸去世",
+        "onboard_time": 1762429763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264754,
+        "num": 203343,
+        "word": "杨紫张一山友情",
+        "onboard_time": 1762422502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95362,
+        "num": 201503,
+        "word": "比价直播间出现机器人主播",
+        "onboard_time": 1762435942,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37426,
+        "num": 200734,
+        "word": "小鹏X9超级增程首发14项全球领先技术",
+        "onboard_time": 1762432642,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258227,
+        "num": 200193,
+        "word": "王鹤棣或将空档四个月",
+        "onboard_time": 1762434141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228028,
+        "num": 199274,
+        "word": "疑似王传君老板回应",
+        "onboard_time": 1762429221,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226009,
+        "num": 198236,
+        "word": "陈哲远 刚刚开机了吗",
+        "onboard_time": 1762432761,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80264,
+        "num": 197101,
+        "word": "陈芋汐掌敏洁夺金",
+        "onboard_time": 1762426941,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 196743,
+        "word": "将门毒后女主原型是王艳",
+        "onboard_time": 1762422261,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183483,
+        "num": 183483,
+        "word": "湖南省人民医院出轨医生停职",
+        "onboard_time": 1762421541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180195,
+        "num": 180195,
+        "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
+        "onboard_time": 1762431262,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177378,
+        "num": 177378,
+        "word": "对接确认孟子义演将门毒后",
+        "onboard_time": 1762419261,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164271,
+        "num": 164271,
+        "word": "王鹤棣资源好牛",
+        "onboard_time": 1762433543,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152704,
+        "num": 152704,
+        "word": "全红婵王伟莹第五",
+        "onboard_time": 1762426881,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121917,
+        "num": 121917,
+        "word": "柏栩栩录完offer7被清华想起来了",
+        "onboard_time": 1762435221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 121068,
+        "word": "罗云熙幻视润玉误终身",
+        "onboard_time": 1762436062,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202230,
+        "num": 120913,
+        "word": "朋友圈全员92是什么概念",
+        "onboard_time": 1762435400,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140450,
+        "num": 120775,
+        "word": "陈芋汐夺冠后寄语全红婵",
+        "onboard_time": 1762434680,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118405,
+        "num": 118405,
+        "word": "沈娇娇提名",
+        "onboard_time": 1762427543,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116082,
+        "num": 116082,
+        "word": "庞铮135分offer7结算第一名",
+        "onboard_time": 1762435162,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114106,
+        "num": 114106,
+        "word": "生6个儿子夫妻说没考虑彩礼问题",
+        "onboard_time": 1762428081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48790,
+        "num": 113302,
+        "word": "魏建军为梦泪解锁新装备",
+        "onboard_time": 1762430721,
+        "rank": 35,
+        "category": "汽车,电竞"
+      },
+      {
+        "raw_hot": 112996,
+        "num": 112996,
+        "word": "天鹅到家保姆暴力捶打踹飞婴儿",
+        "onboard_time": 1762428982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109297,
+        "num": 109297,
+        "word": "中国军工知道你们已经等两天了",
+        "onboard_time": 1762431623,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108240,
+        "num": 108240,
+        "word": "孟子义 沈妙",
+        "onboard_time": 1762419442,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107864,
+        "num": 107864,
+        "word": "鞠婧祎 异域公主",
+        "onboard_time": 1762425862,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106689,
+        "num": 106689,
+        "word": "易烊千玺 老衲来的",
+        "onboard_time": 1762433361,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104080,
+        "num": 104080,
+        "word": "王一博工作室叫弋博",
+        "onboard_time": 1762426282,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102405,
+        "num": 102405,
+        "word": "网友称买到仙贝假冒的奶皮子糖葫芦",
+        "onboard_time": 1762428800,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89318,
+        "num": 89318,
+        "word": "人类视网膜中首次发现微塑料",
+        "onboard_time": 1762434982,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88291,
+        "num": 88291,
+        "word": "短剧也是有冷脸萌霸总了",
+        "onboard_time": 1762435342,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86117,
+        "num": 86117,
+        "word": "杨迪 娜扎的妆就到此为止了",
+        "onboard_time": 1762436960,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85827,
+        "num": 85827,
+        "word": "谢思埸黄博文双人3米板金牌",
+        "onboard_time": 1762436841,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85782,
+        "num": 85782,
+        "word": "鲁豫张泉灵都想从offer挖人",
+        "onboard_time": 1762434921,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83869,
+        "num": 83869,
+        "word": "乐华回应王一博到期不续约",
+        "onboard_time": 1762418723,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83138,
+        "num": 83138,
+        "word": "很佩服那些午休回家的人",
+        "onboard_time": 1762435041,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#高标准建设海南自贸港#"
+    }
+  }
+}
