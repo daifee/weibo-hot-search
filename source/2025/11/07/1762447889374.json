@@ -1,0 +1,410 @@
+{
+  "runTime": 1762447889374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230569,
+        "num": 663627,
+        "word": "张泽禹 声生不息",
+        "onboard_time": 1762441461,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155387,
+        "num": 155387,
+        "word": "Faker自拍配文成都",
+        "onboard_time": 1762440383,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22313,
+        "num": 139263,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135108,
+        "num": 135108,
+        "word": "网传雪中悍刀行2阵容",
+        "onboard_time": 1762434861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111574,
+        "num": 129651,
+        "word": "福建舰弹射画面公开",
+        "onboard_time": 1762439843,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219122,
+        "num": 129035,
+        "word": "中国愿意帮助印度",
+        "onboard_time": 1762439843,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126012,
+        "num": 126012,
+        "word": "杨紫四部大女主剧待播",
+        "onboard_time": 1762440443,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101930,
+        "num": 125894,
+        "word": "陈芋汐希望和全红婵一起携手",
+        "onboard_time": 1762430661,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81209,
+        "num": 125351,
+        "word": "全红婵回应获得第五",
+        "onboard_time": 1762430361,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45676,
+        "num": 125186,
+        "word": "福建舰海试高清视频发布",
+        "onboard_time": 1762442421,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 511763,
+        "num": 124831,
+        "word": "月薪6000 花8万买塑形内衣",
+        "onboard_time": 1762444760,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404689,
+        "num": 124507,
+        "word": "康熙粉退坑出",
+        "onboard_time": 1762440383,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 347869,
+        "num": 124246,
+        "word": "这才是真正的道歉",
+        "onboard_time": 1762438700,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 291142,
+        "num": 123685,
+        "word": "昆凌回复周杰伦",
+        "onboard_time": 1762439242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288562,
+        "num": 123482,
+        "word": "杜华 荒谬",
+        "onboard_time": 1762417401,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223421,
+        "num": 123177,
+        "word": "真水无香和小雨妖妖十年后再同框",
+        "onboard_time": 1762430721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167695,
+        "num": 122852,
+        "word": "女子引产被拒诞下女婴被医生抱养",
+        "onboard_time": 1762442662,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161221,
+        "num": 122546,
+        "word": "郭美美2次入狱又试图复出",
+        "onboard_time": 1762435041,
+        "rank": 17,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 143596,
+        "num": 122246,
+        "word": "杨紫张一山友情",
+        "onboard_time": 1762422502,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129280,
+        "num": 121655,
+        "word": "肥猫扮演者郑则仕瘦了好多",
+        "onboard_time": 1762437141,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433204,
+        "num": 121350,
+        "word": "白百何回应东京电影节争议",
+        "onboard_time": 1762425621,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121318,
+        "num": 121318,
+        "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+        "onboard_time": 1762445301,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105900,
+        "num": 105900,
+        "word": "王鹤棣孟子义首搭",
+        "onboard_time": 1762444821,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92217,
+        "num": 105859,
+        "word": "老师我家田曦薇不能露秋裤吗",
+        "onboard_time": 1762432402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77010,
+        "num": 105804,
+        "word": "皮皮朱方声明",
+        "onboard_time": 1762438942,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74536,
+        "num": 105762,
+        "word": "白百何 张律",
+        "onboard_time": 1762433061,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64031,
+        "num": 105742,
+        "word": "结婚登记增40.5万对",
+        "onboard_time": 1762424300,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61549,
+        "num": 105649,
+        "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+        "onboard_time": 1762443441,
+        "rank": 27,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 54868,
+        "num": 105630,
+        "word": "凤凰台上",
+        "onboard_time": 1762441103,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30308,
+        "num": 105594,
+        "word": "精彩全运会",
+        "onboard_time": 1762444821,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66880,
+        "num": 105533,
+        "word": "易烊千玺 老衲来的",
+        "onboard_time": 1762433361,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59707,
+        "num": 105475,
+        "word": "金价",
+        "onboard_time": 1762441702,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56392,
+        "num": 105395,
+        "word": "陈哲远 刚刚开机了吗",
+        "onboard_time": 1762432761,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51239,
+        "num": 105362,
+        "word": "鞠婧祎 异域公主",
+        "onboard_time": 1762425862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50329,
+        "num": 105328,
+        "word": "咒术回战续作虎杖悠仁回归",
+        "onboard_time": 1762442720,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 50223,
+        "num": 105245,
+        "word": "疑似王传君老板回应",
+        "onboard_time": 1762429221,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49586,
+        "num": 105226,
+        "word": "将门毒后女主原型是王艳",
+        "onboard_time": 1762422261,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48635,
+        "num": 105143,
+        "word": "张凯丽曾代言的足力健涉多起纠纷",
+        "onboard_time": 1762443381,
+        "rank": 37,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 48477,
+        "num": 105098,
+        "word": "王鹤棣或将空档四个月",
+        "onboard_time": 1762434141,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47780,
+        "num": 105058,
+        "word": "黄金税落地后普通人怎做投资选择",
+        "onboard_time": 1762445719,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46583,
+        "num": 105026,
+        "word": "金价暴涨三四线城市金店撑不住了",
+        "onboard_time": 1762437863,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46225,
+        "num": 104968,
+        "word": "王一博工作室叫弋博",
+        "onboard_time": 1762426282,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45782,
+        "num": 104886,
+        "word": "迪丽热巴卫蓝全黑造型",
+        "onboard_time": 1762444040,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45230,
+        "num": 104854,
+        "word": "女子避让未牵绳贵宾犬致9级伤残",
+        "onboard_time": 1762446319,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45180,
+        "num": 104803,
+        "word": "山姆回应支付跳转色情页面",
+        "onboard_time": 1762437082,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44290,
+        "num": 104734,
+        "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
+        "onboard_time": 1762431262,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39399,
+        "num": 104699,
+        "word": "商家回应给羽绒服上锁防蹭穿",
+        "onboard_time": 1762441583,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 104636,
+        "word": "网传饮料瓶砌墙开发商称已整改致歉",
+        "onboard_time": 1762447637,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 104623,
+        "word": "白鹿剧透新剧人设",
+        "onboard_time": 1762447458,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 104560,
+        "word": "黄子弘凡连麦直播",
+        "onboard_time": 1762447518,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对海南寄予的厚望#"
+    }
+  }
+}
