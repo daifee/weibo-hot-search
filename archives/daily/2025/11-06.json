@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762436993203,
+  "endTime": 1762439256996,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1404444,
-      "num": 267469,
+      "num": 276674,
       "word": "杜华 荒谬",
       "onboard_time": 1762417401,
       "rank": 12,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 947795,
+      "num": 288204,
+      "word": "郭美美2次入狱又试图复出",
+      "onboard_time": 1762435041,
+      "rank": 4,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 943804,
       "num": 212267,
       "word": "宋祖儿早期美高留子",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 855559,
-      "num": 267136,
+      "num": 275303,
       "word": "真水无香和小雨妖妖十年后再同框",
       "onboard_time": 1762430721,
       "rank": 12,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 786689,
-      "num": 267206,
+      "num": 274079,
       "word": "白百何 张律",
       "onboard_time": 1762433061,
       "rank": 11,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 569441,
-      "num": 236014,
+      "num": 271923,
       "word": "杨紫张一山友情",
       "onboard_time": 1762422502,
       "rank": 11,
@@ -275,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545752,
+      "num": 274404,
+      "word": "老师我家田曦薇不能露秋裤吗",
+      "onboard_time": 1762432402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545480,
       "num": 545480,
       "word": "乐华娱乐大跌",
       "onboard_time": 1762406360,
       "rank": 6,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 544503,
+      "num": 284649,
+      "word": "网传雪中悍刀行2阵容",
+      "onboard_time": 1762434861,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 539359,
@@ -321,14 +345,6 @@
       "onboard_time": 1762392499,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 499605,
-      "num": 204446,
-      "word": "老师我家田曦薇不能露秋裤吗",
-      "onboard_time": 1762432402,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 494053,
@@ -377,14 +393,6 @@
       "onboard_time": 1762384997,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445846,
-      "num": 288204,
-      "word": "郭美美2次入狱又试图复出",
-      "onboard_time": 1762435041,
-      "rank": 4,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 438417,
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338373,
+      "num": 272718,
+      "word": "王鹤棣或将空档四个月",
+      "onboard_time": 1762434141,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333536,
       "num": 180454,
       "word": "时代峰峻公司WiFi密码",
@@ -595,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281685,
+      "num": 281685,
+      "word": "全红婵赛后采访差点哭了",
+      "onboard_time": 1762431442,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279929,
       "num": 279929,
       "word": "乐华2025年中报未提及王一博",
       "onboard_time": 1762402042,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276093,
-      "num": 276093,
-      "word": "全红婵赛后采访差点哭了",
-      "onboard_time": 1762431442,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 274854,
@@ -635,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271227,
+      "num": 271227,
+      "word": "肥猫扮演者郑则仕瘦了好多",
+      "onboard_time": 1762437141,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268346,
       "num": 239485,
       "word": "王传君工作室回应获奖",
@@ -652,19 +676,11 @@
     },
     {
       "raw_hot": 263917,
-      "num": 268134,
+      "num": 276258,
       "word": "令人心动的offer7",
       "onboard_time": 1762429522,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258227,
-      "num": 200193,
-      "word": "王鹤棣或将空档四个月",
-      "onboard_time": 1762434141,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 258190,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 254314,
-      "num": 223054,
+      "num": 237659,
       "word": "陈哲远 刚刚开机了吗",
       "onboard_time": 1762432761,
       "rank": 23,
@@ -739,12 +755,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 233555,
-      "num": 233555,
-      "word": "网传雪中悍刀行2阵容",
-      "onboard_time": 1762434861,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 235753,
+      "num": 235753,
+      "word": "湖南省人民医院出轨医生停职",
+      "onboard_time": 1762421541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233309,
@@ -819,6 +835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 209400,
+      "num": 209400,
+      "word": "这才是真正的道歉",
+      "onboard_time": 1762438700,
+      "rank": 22,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 208408,
       "num": 192471,
       "word": "长期戴耳机的受害者出现了",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 202230,
-      "num": 153170,
+      "num": 183244,
       "word": "朋友圈全员92是什么概念",
       "onboard_time": 1762435400,
       "rank": 34,
@@ -889,6 +913,14 @@
       "onboard_time": 1762410920,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194898,
+      "num": 194898,
+      "word": "王鹤棣资源好牛",
+      "onboard_time": 1762433543,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 192089,
@@ -979,28 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183483,
-      "num": 183483,
-      "word": "湖南省人民医院出轨医生停职",
-      "onboard_time": 1762421541,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182735,
       "num": 252045,
       "word": "陈梦回应为何参加全运会",
       "onboard_time": 1762413081,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182695,
-      "num": 164271,
-      "word": "王鹤棣资源好牛",
-      "onboard_time": 1762433543,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 181996,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1762425140,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162259,
+      "num": 162259,
+      "word": "金价暴涨三四线城市金店撑不住了",
+      "onboard_time": 1762437863,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 162142,
@@ -1235,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143623,
+      "num": 143623,
+      "word": "全红婵称辜负了队友",
+      "onboard_time": 1762436241,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143149,
       "num": 110635,
       "word": "高标准建设海南自贸港",
@@ -1259,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141314,
+      "num": 278992,
+      "word": "2024年平均工资公布",
+      "onboard_time": 1762438342,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141151,
       "num": 141151,
       "word": "向太说汪小姐演得很好",
@@ -1267,8 +1307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140450,
-      "num": 120775,
+      "raw_hot": 140654,
+      "num": 140654,
       "word": "陈芋汐夺冠后寄语全红婵",
       "onboard_time": 1762434680,
       "rank": 43,
@@ -1507,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126954,
+      "num": 126954,
+      "word": "山姆回应支付跳转色情页面",
+      "onboard_time": 1762437082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126795,
       "num": 62325,
       "word": "黄金裔明天见",
@@ -1587,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124655,
+      "num": 124655,
+      "word": "易烊千玺 老衲来的",
+      "onboard_time": 1762433361,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122688,
       "num": 149170,
       "word": "男子50元买狗退款遭拒摔死狗",
@@ -1601,14 +1657,6 @@
       "onboard_time": 1762435221,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121805,
-      "num": 121805,
-      "word": "易烊千玺 老衲来的",
-      "onboard_time": 1762433361,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 121801,
@@ -1676,11 +1724,19 @@
     },
     {
       "raw_hot": 118234,
-      "num": 201503,
+      "num": 272943,
       "word": "比价直播间出现机器人主播",
       "onboard_time": 1762435942,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 116827,
+      "num": 116827,
+      "word": "杨迪 娜扎的妆就到此为止了",
+      "onboard_time": 1762436960,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116694,
@@ -1692,7 +1748,7 @@
     },
     {
       "raw_hot": 116603,
-      "num": 172650,
+      "num": 278138,
       "word": "小鹏X9超级增程太强了",
       "onboard_time": 1762423880,
       "rank": 29,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1762432642,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 108140,
+      "word": "皮皮朱方声明",
+      "onboard_time": 1762438942,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 108115,
@@ -2155,6 +2219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95376,
+      "num": 95376,
+      "word": "人类视网膜中首次发现微塑料",
+      "onboard_time": 1762434982,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 95313,
       "num": 95313,
       "word": "浙大食堂8.8元一只螃蟹馋哭网友",
@@ -2323,20 +2395,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91212,
+      "num": 91212,
+      "word": "山东2024年平均工资108131元",
+      "onboard_time": 1762437802,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91201,
       "num": 91201,
       "word": "发明烤冻土豆的人难道是天才",
       "onboard_time": 1762389682,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90976,
-      "num": 90976,
-      "word": "人类视网膜中首次发现微塑料",
-      "onboard_time": 1762434982,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 90710,
@@ -2417,6 +2489,14 @@
       "onboard_time": 1762419923,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89012,
+      "num": 89012,
+      "word": "马思纯自评2025是绽放的一年",
+      "onboard_time": 1762437921,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88295,
@@ -2547,14 +2627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 86117,
-      "num": 86117,
-      "word": "杨迪 娜扎的妆就到此为止了",
-      "onboard_time": 1762436960,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85940,
       "num": 85940,
       "word": "广州电动车乱象",
@@ -2601,14 +2673,6 @@
       "onboard_time": 1762423221,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84714,
-      "num": 84714,
-      "word": "全红婵称辜负了队友",
-      "onboard_time": 1762436241,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 84669,
@@ -2721,6 +2785,14 @@
       "onboard_time": 1762350562,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80822,
+      "num": 112977,
+      "word": "雷淞然输了茶几赢得茶姬",
+      "onboard_time": 1762438463,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 80315,
@@ -2913,6 +2985,14 @@
       "onboard_time": 1762397960,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71555,
+      "num": 112985,
+      "word": "日本四位前首相会上疑似闭眼打瞌睡",
+      "onboard_time": 1762438163,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70988,
@@ -3115,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57807,
+      "num": 223148,
+      "word": "小鹏X9超级增程首发14项全球领先技术",
+      "onboard_time": 1762432642,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57414,
       "num": 71738,
       "word": "小猫怎么插着腰睡觉",
@@ -3297,14 +3385,6 @@
       "onboard_time": 1762421541,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48131,
-      "num": 223148,
-      "word": "小鹏X9超级增程首发14项全球领先技术",
-      "onboard_time": 1762432642,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 46924,
