@@ -1,7 +1,15 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762468961407,
+  "endTime": 1762471489364,
   "band_list": [
+    {
+      "raw_hot": 574382,
+      "num": 814401,
+      "word": "立冬",
+      "onboard_time": 1762470618,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 550194,
       "num": 138076,
@@ -35,6 +43,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 428197,
+      "num": 138890,
+      "word": "女子引产被拒诞下女婴被医生抱养",
+      "onboard_time": 1762442662,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356789,
+      "num": 121318,
+      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+      "onboard_time": 1762445301,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352102,
       "num": 140740,
       "word": "昆凌回复周杰伦",
@@ -51,20 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317504,
+      "num": 76315,
+      "word": "抖音回应温峥嵘被AI盗播",
+      "onboard_time": 1762462994,
+      "rank": 24,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 300876,
+      "num": 139425,
+      "word": "郭美美2次入狱又试图复出",
+      "onboard_time": 1762435041,
+      "rank": 16,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 299443,
       "num": 299443,
       "word": "中国愿意帮助印度",
       "onboard_time": 1762439843,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 274823,
-      "num": 121318,
-      "word": "迪卡侬回应顾客误认透气孔弄丢手机",
-      "onboard_time": 1762445301,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271651,
@@ -81,22 +113,6 @@
       "onboard_time": 1762441461,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219638,
-      "num": 138890,
-      "word": "女子引产被拒诞下女婴被医生抱养",
-      "onboard_time": 1762442662,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184510,
-      "num": 139425,
-      "word": "郭美美2次入狱又试图复出",
-      "onboard_time": 1762435041,
-      "rank": 16,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 175595,
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168397,
+      "num": 472141,
+      "word": "王鹤棣孟子义首搭",
+      "onboard_time": 1762444821,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164200,
       "num": 164200,
       "word": "网传雪中悍刀行2阵容",
@@ -139,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143473,
-      "num": 39806,
-      "word": "抖音回应温峥嵘被AI盗播",
-      "onboard_time": 1762462994,
-      "rank": 24,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 142346,
       "num": 142346,
       "word": "陈芋汐希望和全红婵一起携手",
@@ -155,20 +171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136131,
-      "num": 472141,
-      "word": "王鹤棣孟子义首搭",
-      "onboard_time": 1762444821,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "老师我家田曦薇不能露秋裤吗",
       "onboard_time": 1762432402,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117625,
+      "num": 68910,
+      "word": "长期睡眠每天少于六小时的危险",
+      "onboard_time": 1762469716,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111574,
@@ -185,6 +201,14 @@
       "onboard_time": 1762430361,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100487,
+      "num": 100487,
+      "word": "立冬文案",
+      "onboard_time": 1762471037,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99642,
@@ -219,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78804,
+      "num": 104803,
+      "word": "山姆回应支付跳转色情页面",
+      "onboard_time": 1762437082,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78321,
       "num": 105533,
       "word": "易烊千玺 老衲来的",
@@ -232,6 +264,14 @@
       "word": "金价",
       "onboard_time": 1762441702,
       "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 73715,
+      "num": 105026,
+      "word": "金价暴涨三四线城市金店撑不住了",
+      "onboard_time": 1762437863,
+      "rank": 41,
       "category": "财经"
     },
     {
@@ -249,6 +289,14 @@
       "onboard_time": 1762441103,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63199,
+      "num": 63199,
+      "word": "10亿播放量歌手上音综被淘汰",
+      "onboard_time": 1762471098,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 63062,
@@ -315,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55383,
-      "num": 105026,
-      "word": "金价暴涨三四线城市金店撑不住了",
-      "onboard_time": 1762437863,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 53001,
       "num": 88522,
       "word": "侯梓泰offer7唯一进终面的男生",
@@ -339,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50227,
+      "num": 50227,
+      "word": "两名老师校外从学生包中搜走零食",
+      "onboard_time": 1762456514,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50041,
       "num": 141437,
       "word": "福建舰海试高清视频发布",
@@ -347,20 +395,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 47925,
-      "num": 104803,
-      "word": "山姆回应支付跳转色情页面",
-      "onboard_time": 1762437082,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47769,
       "num": 104734,
       "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
       "onboard_time": 1762431262,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47503,
+      "num": 47503,
+      "word": "中方回应日本政府向谢长廷授勋",
+      "onboard_time": 1762451417,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46592,
@@ -385,6 +433,14 @@
       "onboard_time": 1762419442,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41064,
+      "num": 87147,
+      "word": "美总统十秒道破美国外交政策本质",
+      "onboard_time": 1762449557,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39702,
@@ -457,30 +513,6 @@
       "onboard_time": 1762446979,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31562,
-      "num": 39233,
-      "word": "两名老师校外从学生包中搜走零食",
-      "onboard_time": 1762456514,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29073,
-      "num": 39411,
-      "word": "中方回应日本政府向谢长廷授勋",
-      "onboard_time": 1762451417,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 28889,
-      "num": 87147,
-      "word": "美总统十秒道破美国外交政策本质",
-      "onboard_time": 1762449557,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27231,
