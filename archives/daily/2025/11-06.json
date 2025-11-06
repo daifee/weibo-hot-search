@@ -1,6 +1,6 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762434552124,
+  "endTime": 1762436276744,
   "band_list": [
     {
       "raw_hot": 6863614,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 855559,
+      "num": 267136,
+      "word": "真水无香和小雨妖妖十年后再同框",
+      "onboard_time": 1762430721,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 852026,
       "num": 1136324,
       "word": "孙东旭从东方甄选离职",
@@ -129,14 +137,6 @@
       "onboard_time": 1762428562,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 790790,
-      "num": 267136,
-      "word": "真水无香和小雨妖妖十年后再同框",
-      "onboard_time": 1762430721,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 786689,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483785,
+      "num": 266550,
+      "word": "失联多日的17岁高三女生已不幸去世",
+      "onboard_time": 1762429763,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476997,
       "num": 266722,
       "word": "疑似王传君老板回应",
@@ -361,14 +369,6 @@
       "onboard_time": 1762384997,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445175,
-      "num": 266550,
-      "word": "失联多日的17岁高三女生已不幸去世",
-      "onboard_time": 1762429763,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438417,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313958,
+      "num": 187616,
+      "word": "老师我家田曦薇不能露秋裤吗",
+      "onboard_time": 1762432402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310115,
       "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
@@ -577,6 +585,14 @@
       "onboard_time": 1762412360,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288204,
+      "num": 288204,
+      "word": "郭美美2次入狱又试图复出",
+      "onboard_time": 1762435041,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 279929,
@@ -659,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254314,
+      "num": 223054,
+      "word": "陈哲远 刚刚开机了吗",
+      "onboard_time": 1762432761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247700,
       "num": 247700,
       "word": "官方通报网传副院长出轨眼科主任",
       "onboard_time": 1762417342,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 247416,
+      "num": 247416,
+      "word": "全红婵赛后采访差点哭了",
+      "onboard_time": 1762431442,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 246714,
@@ -731,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223054,
-      "num": 223054,
-      "word": "陈哲远 刚刚开机了吗",
-      "onboard_time": 1762432761,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221610,
       "num": 221610,
       "word": "重庆设立两江新区",
@@ -779,12 +803,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 213684,
-      "num": 213684,
-      "word": "全红婵赛后采访差点哭了",
-      "onboard_time": 1762431442,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 208862,
+      "num": 187316,
+      "word": "王鹤棣或将空档四个月",
+      "onboard_time": 1762434141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 208408,
@@ -891,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187882,
+      "num": 187882,
+      "word": "网传雪中悍刀行2阵容",
+      "onboard_time": 1762434861,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187857,
       "num": 159981,
       "word": "降低体脂率最快的10个方法",
@@ -945,6 +977,14 @@
       "onboard_time": 1762413081,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182695,
+      "num": 159694,
+      "word": "王鹤棣资源好牛",
+      "onboard_time": 1762433543,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 181996,
@@ -1115,12 +1155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153349,
-      "num": 153349,
-      "word": "老师我家田曦薇不能露秋裤吗",
-      "onboard_time": 1762432402,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 153170,
+      "num": 153170,
+      "word": "朋友圈全员92是什么概念",
+      "onboard_time": 1762435400,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 152095,
@@ -1251,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139065,
-      "num": 139065,
-      "word": "王鹤棣资源好牛",
-      "onboard_time": 1762433543,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138828,
       "num": 138828,
       "word": "NBA",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1762398920,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138064,
+      "num": 173859,
+      "word": "短剧也是有冷脸萌霸总了",
+      "onboard_time": 1762435342,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 137943,
@@ -1331,12 +1371,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135343,
-      "num": 135343,
+      "raw_hot": 135662,
+      "num": 135662,
       "word": "生6个儿子夫妻说没考虑彩礼问题",
       "onboard_time": 1762428081,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135649,
+      "num": 168586,
+      "word": "鲁豫张泉灵都想从offer挖人",
+      "onboard_time": 1762434921,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 134559,
@@ -1403,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130155,
+      "num": 130155,
+      "word": "天鹅到家保姆暴力捶打踹飞婴儿",
+      "onboard_time": 1762428982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129866,
       "num": 129866,
       "word": "精致马儿高能量上班的一天",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1762407501,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128352,
+      "num": 167592,
+      "word": "庞铮135分offer7结算第一名",
+      "onboard_time": 1762435162,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 126795,
@@ -1587,6 +1651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118234,
+      "num": 187377,
+      "word": "比价直播间出现机器人主播",
+      "onboard_time": 1762435942,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116694,
       "num": 116694,
       "word": "欧豪马思纯内娱的be美学",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1762423880,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 116132,
+      "num": 165213,
+      "word": "柏栩栩录完offer7被清华想起来了",
+      "onboard_time": 1762435221,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 116017,
@@ -1652,19 +1732,11 @@
     },
     {
       "raw_hot": 113976,
-      "num": 145948,
+      "num": 172899,
       "word": "魏建军为梦泪解锁新装备",
       "onboard_time": 1762430721,
       "rank": 29,
       "category": "汽车,电竞"
-    },
-    {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "王鹤棣或将空档四个月",
-      "onboard_time": 1762434141,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 113310,
@@ -1819,14 +1891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 106562,
-      "num": 106683,
-      "word": "天鹅到家保姆暴力捶打踹飞婴儿",
-      "onboard_time": 1762428982,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106454,
       "num": 162512,
       "word": "衣服上挂密码锁确认收货再给密码",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1762425981,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103990,
+      "num": 103990,
+      "word": "陈芋汐夺冠后寄语全红婵",
+      "onboard_time": 1762434680,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 103684,
@@ -2099,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94753,
+      "num": 94753,
+      "word": "罗云熙幻视润玉误终身",
+      "onboard_time": 1762436062,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94426,
       "num": 94426,
       "word": "立冬3件套得安排上了",
@@ -2249,6 +2329,14 @@
       "onboard_time": 1762389682,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90976,
+      "num": 90976,
+      "word": "人类视网膜中首次发现微塑料",
+      "onboard_time": 1762434982,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 90710,
@@ -2499,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84714,
+      "num": 84714,
+      "word": "全红婵称辜负了队友",
+      "onboard_time": 1762436241,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84669,
       "num": 123076,
       "word": "重庆现流动的千里江山图",
@@ -2617,6 +2713,14 @@
       "onboard_time": 1762400121,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79885,
+      "num": 155116,
+      "word": "女装巨型吊牌",
+      "onboard_time": 1762434561,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79324,
@@ -3315,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36893,
+      "num": 372470,
+      "word": "2025乌镇峰会",
+      "onboard_time": 1762434382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36468,
       "num": 71500,
       "word": "入冬第1个顶流出现了",
@@ -3595,14 +3707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7135,
-      "num": 372470,
-      "word": "2025乌镇峰会",
-      "onboard_time": 1762434382,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 4345,
       "num": 327648,
       "word": "一人一句为全运健儿加油",
@@ -3631,6 +3735,9 @@
     },
     {
       "word": "#高标准建设海南自贸港#"
+    },
+    {
+      "word": "#重温总书记对海南寄予的厚望#"
     }
   ]
 }
