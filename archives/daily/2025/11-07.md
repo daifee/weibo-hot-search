@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 05:39:12
+本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 06:25:59
 </p>
 </blockquote>
 <p>
@@ -179,6 +179,12 @@ Faker自拍配文成都（热度：175595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：77441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23" target="weibo">
+抖音回应温峥嵘被AI盗播（热度：66490）
 </a>
 </li>
 
@@ -375,26 +381,20 @@ Faker自拍配文成都（热度：175595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23" target="weibo">
-中方回应日本政府向谢长廷授勋（热度：21314）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E8%80%81%E5%B8%88%E6%A0%A1%E5%A4%96%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%8C%85%E4%B8%AD%E6%90%9C%E8%B5%B0%E9%9B%B6%E9%A3%9F%23" target="weibo">
+两名老师校外从学生包中搜走零食（热度：23338）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23" target="weibo">
-抖音回应温峥嵘被AI盗播（热度：21193）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23" target="weibo">
+中方回应日本政府向谢长廷授勋（热度：22379）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%80%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
 韩警方回应网红造谣中国人杀韩国人（热度：16879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E8%80%81%E5%B8%88%E6%A0%A1%E5%A4%96%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%8C%85%E4%B8%AD%E6%90%9C%E8%B5%B0%E9%9B%B6%E9%A3%9F%23" target="weibo">
-两名老师校外从学生包中搜走零食（热度：15515）
 </a>
 </li>
 
@@ -406,13 +406,13 @@ Faker自拍配文成都（热度：175595）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%94%A80%E7%A7%92%E6%8E%A5%E5%8F%97%E4%BA%86%E8%87%AA%E5%B7%B1%E6%98%AF%E5%B8%83%E5%81%B6%E7%8C%AB%23" target="weibo">
-张馨予用0秒接受了自己是布偶猫（热度：11962）
+张馨予用0秒接受了自己是布偶猫（热度：13176）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%81%87%E4%B8%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%8B%9B%E4%BA%86%23" target="weibo">
-沈腾遇上范丞丞胡先煦完全没招了（热度：11872）
+沈腾遇上范丞丞胡先煦完全没招了（热度：12840）
 </a>
 </li>
 

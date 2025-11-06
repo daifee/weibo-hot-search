@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762465152302,
+  "endTime": 1762467959860,
   "band_list": [
     {
       "raw_hot": 550194,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 136131,
-      "num": 347647,
+      "num": 377090,
       "word": "王鹤棣孟子义首搭",
       "onboard_time": 1762444821,
       "rank": 21,
@@ -225,6 +225,14 @@
       "onboard_time": 1762441702,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66490,
+      "num": 33402,
+      "word": "抖音回应温峥嵘被AI盗播",
+      "onboard_time": 1762462994,
+      "rank": 24,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 65296,
@@ -483,7 +491,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21314,
+      "raw_hot": 23338,
+      "num": 39233,
+      "word": "两名老师校外从学生包中搜走零食",
+      "onboard_time": 1762456514,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22379,
       "num": 39411,
       "word": "中方回应日本政府向谢长廷授勋",
       "onboard_time": 1762451417,
@@ -491,27 +507,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21193,
-      "num": 18111,
-      "word": "抖音回应温峥嵘被AI盗播",
-      "onboard_time": 1762462994,
-      "rank": 24,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 16879,
       "num": 39354,
       "word": "韩警方回应网红造谣中国人杀韩国人",
       "onboard_time": 1762454594,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15515,
-      "num": 39233,
-      "word": "两名老师校外从学生包中搜走零食",
-      "onboard_time": 1762456514,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -523,7 +523,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11962,
+      "raw_hot": 13176,
       "num": 31201,
       "word": "张馨予用0秒接受了自己是布偶猫",
       "onboard_time": 1762459994,
@@ -531,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11872,
-      "num": 26322,
+      "raw_hot": 12840,
+      "num": 27697,
       "word": "沈腾遇上范丞丞胡先煦完全没招了",
       "onboard_time": 1762459033,
       "rank": 49,
