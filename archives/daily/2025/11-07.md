@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 01:43:03
+本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 02:39:11
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ Faker自拍配文成都（热度：175595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9C%B1%E8%BF%AA%E5%B0%BC%E5%85%8B%23" target="weibo">
 景甜张彬彬朱迪尼克（热度：23879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23" target="weibo">
+中方回应日本政府向谢长廷授勋（热度：21314）
 </a>
 </li>
 

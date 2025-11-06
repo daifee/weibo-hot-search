@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762450983613,
+  "endTime": 1762454351762,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -17992,6 +17992,14 @@
       "word": "乡村有了数字范儿",
       "onboard_time": 1762053739,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21314,
+      "num": 36625,
+      "word": "中方回应日本政府向谢长廷授勋",
+      "onboard_time": 1762451417,
+      "rank": 32,
       "category": "国内时政"
     },
     {
