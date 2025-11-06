@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762428286824,
+  "endTime": 1762429134365,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -11,19 +11,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 6863614,
+      "num": 6863614,
+      "word": "白百何回应东京电影节未获奖",
+      "onboard_time": 1762425621,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 6617734,
       "num": 6617734,
       "word": "王传君东京电影节影帝",
       "onboard_time": 1762332922,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 6187890,
-      "num": 6187890,
-      "word": "白百何回应东京电影节未获奖",
-      "onboard_time": 1762425621,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -99,20 +99,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1779276,
+      "num": 1779276,
+      "word": "全红婵王伟莹第五",
+      "onboard_time": 1762426881,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1686829,
       "num": 1686829,
       "word": "T1战胜TES",
       "onboard_time": 1762076362,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1684863,
-      "num": 1684863,
-      "word": "全红婵王伟莹第五",
-      "onboard_time": 1762426881,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1645066,
@@ -585,6 +585,14 @@
       "onboard_time": 1762225880,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 796447,
+      "num": 150903,
+      "word": "白百何喊话彭瑾",
+      "onboard_time": 1762428562,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 789045,
@@ -2099,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386815,
+      "num": 386815,
+      "word": "结婚登记增40.5万对",
+      "onboard_time": 1762424300,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386788,
       "num": 386788,
       "word": "新公务员发涉密文件炫耀被处分",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1762085241,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384679,
-      "num": 384679,
-      "word": "结婚登记增40.5万对",
-      "onboard_time": 1762424300,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383454,
@@ -3115,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273673,
+      "num": 179138,
+      "word": "沈佳润素颜皮肤状态",
+      "onboard_time": 1762426221,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272730,
       "num": 209951,
       "word": "陈芋汐全运会第一跳",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1762052599,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254702,
+      "num": 254702,
+      "word": "沈娇娇提名",
+      "onboard_time": 1762427543,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 253129,
@@ -3617,14 +3641,6 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230238,
-      "num": 179138,
-      "word": "沈佳润素颜皮肤状态",
-      "onboard_time": 1762426221,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 229110,
@@ -4137,14 +4153,6 @@
       "onboard_time": 1762334662,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205117,
-      "num": 205117,
-      "word": "沈娇娇提名",
-      "onboard_time": 1762427543,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 204994,
@@ -4955,6 +4963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179859,
+      "num": 174574,
+      "word": "鞠婧祎 异域公主",
+      "onboard_time": 1762425862,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179736,
       "num": 168927,
       "word": "当你的朋友是老式大学生",
@@ -5088,14 +5104,6 @@
       "word": "新闻女王太敢说了",
       "onboard_time": 1762415899,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174574,
-      "num": 174574,
-      "word": "鞠婧祎 异域公主",
-      "onboard_time": 1762425862,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -5289,6 +5297,14 @@
       "onboard_time": 1762333523,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170792,
+      "num": 161995,
+      "word": "怎么有剧边拍边播",
+      "onboard_time": 1762426881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 169813,
@@ -5643,14 +5659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161995,
-      "num": 161995,
-      "word": "怎么有剧边拍边播",
-      "onboard_time": 1762426881,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161952,
       "num": 161952,
       "word": "许魏洲极限救车后手一直在抖",
@@ -5913,6 +5921,14 @@
       "onboard_time": 1762149922,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155354,
+      "num": 147395,
+      "word": "文晏回应",
+      "onboard_time": 1762428022,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 155299,
@@ -9595,6 +9611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107807,
+      "num": 107807,
+      "word": "张博恒出发肇庆",
+      "onboard_time": 1762428922,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107759,
       "num": 107758,
       "word": "清瞳炼化苦情树",
@@ -9785,6 +9809,14 @@
       "onboard_time": 1762250481,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106082,
+      "num": 115751,
+      "word": "朱开谈TheShy",
+      "onboard_time": 1762427722,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 106024,
@@ -10179,6 +10211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103167,
+      "num": 103167,
+      "word": "建议不要经常肝脆蒜了",
+      "onboard_time": 1762425981,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103159,
       "num": 103159,
       "word": "Hang谈LPL与LCK风格差异",
@@ -10569,14 +10609,6 @@
       "onboard_time": 1762230021,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100442,
-      "num": 100442,
-      "word": "文晏回应",
-      "onboard_time": 1762428022,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 100418,
@@ -11331,6 +11363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95673,
+      "num": 95673,
+      "word": "iPhone非主流emoji",
+      "onboard_time": 1762428682,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95604,
       "num": 95604,
       "word": "369尽力了",
@@ -11475,6 +11515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94426,
+      "num": 94426,
+      "word": "立冬3件套得安排上了",
+      "onboard_time": 1762425862,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 94424,
       "num": 94424,
       "word": "究竟谁在说运动使人年轻啊",
@@ -11513,14 +11561,6 @@
       "onboard_time": 1762233801,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94278,
-      "num": 94278,
-      "word": "建议不要经常肝脆蒜了",
-      "onboard_time": 1762425981,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94260,
@@ -13091,14 +13131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 85424,
-      "num": 115751,
-      "word": "朱开谈TheShy",
-      "onboard_time": 1762427722,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85369,
       "num": 98714,
       "word": "买3万斤滞销白菜农民连谢13年",
@@ -13651,6 +13683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81870,
+      "num": 106683,
+      "word": "天鹅到家保姆暴力捶打踹飞婴儿",
+      "onboard_time": 1762428982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "为什么劝你首饰要定期摘下",
@@ -14123,6 +14163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77511,
+      "num": 173197,
+      "word": "台湾民众听馆长讲大陆见闻发出惊呼",
+      "onboard_time": 1762426822,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77498,
       "num": 75354,
       "word": "弦子 引导型恋人",
@@ -14193,6 +14241,14 @@
       "onboard_time": 1762222460,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76848,
+      "num": 117905,
+      "word": "乌鲁木齐特大暴雪创纪录",
+      "onboard_time": 1762427423,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76842,
@@ -15259,14 +15315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61906,
-      "num": 173197,
-      "word": "台湾民众听馆长讲大陆见闻发出惊呼",
-      "onboard_time": 1762426822,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61786,
       "num": 95004,
       "word": "吴宣仪提醒路人拉链没拉",
@@ -16091,14 +16139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43416,
-      "num": 117905,
-      "word": "乌鲁木齐特大暴雪创纪录",
-      "onboard_time": 1762427423,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43120,
       "num": 161286,
       "word": "让刘涛惊艳的天菜出现了",
@@ -16313,6 +16353,14 @@
       "onboard_time": 1761994402,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38835,
+      "num": 149229,
+      "word": "网友称买到仙贝假冒的奶皮子糖葫芦",
+      "onboard_time": 1762428800,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38644,
@@ -16723,6 +16771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29720,
+      "num": 106885,
+      "word": "南京一初中生疑运动会跑200米猝死",
+      "onboard_time": 1762429102,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29693,
       "num": 132801,
       "word": "大批理工科人才要逃离韩国",
@@ -16851,6 +16907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26959,
+      "num": 115983,
+      "word": "千万网红380元出售金表引争议",
+      "onboard_time": 1762428262,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 26776,
       "num": 516463,
       "word": "中国国际进口博览会",
@@ -16865,6 +16929,14 @@
       "onboard_time": 1762196294,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26766,
+      "num": 308887,
+      "word": "2025世界互联网大会乌镇峰会",
+      "onboard_time": 1762422681,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26761,
@@ -16987,6 +17059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24613,
+      "num": 107664,
+      "word": "美政府停摆时长创纪录后现状",
+      "onboard_time": 1762428621,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24377,
       "num": 52368,
       "word": "双11疯狂好六夜定档",
@@ -17081,14 +17161,6 @@
       "onboard_time": 1762412662,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 22562,
-      "num": 115983,
-      "word": "千万网红380元出售金表引争议",
-      "onboard_time": 1762428262,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 22552,
