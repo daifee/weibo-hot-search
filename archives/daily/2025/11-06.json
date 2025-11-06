@@ -1,14 +1,30 @@
 {
   "startTime": 1762360523576,
-  "endTime": 1762395710441,
+  "endTime": 1762399271644,
   "band_list": [
     {
-      "raw_hot": 820248,
-      "num": 127968,
+      "raw_hot": 943804,
+      "num": 212267,
       "word": "宋祖儿早期美高留子",
       "onboard_time": 1762393641,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 862700,
+      "num": 1138032,
+      "word": "台湾 投诚APP",
+      "onboard_time": 1762398138,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 797294,
+      "num": 210584,
+      "word": "将门毒后谢景行",
+      "onboard_time": 1762393099,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 766463,
@@ -20,23 +36,23 @@
     },
     {
       "raw_hot": 730142,
-      "num": 146359,
+      "num": 202602,
       "word": "鹿哈领证",
       "onboard_time": 1762342760,
       "rank": 21,
       "category": "网红"
     },
     {
-      "raw_hot": 556034,
-      "num": 127915,
-      "word": "将门毒后谢景行",
-      "onboard_time": 1762393099,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 587977,
+      "num": 209996,
+      "word": "浙大回应食堂一只螃蟹只卖8.8元",
+      "onboard_time": 1762396639,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553533,
-      "num": 127856,
+      "num": 208501,
       "word": "周震南 结婚请我商演吗",
       "onboard_time": 1762393940,
       "rank": 22,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 550870,
-      "num": 127740,
+      "num": 133301,
       "word": "男子开宝马车下乡收集村民身份证信息",
       "onboard_time": 1762389560,
       "rank": 10,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 503837,
-      "num": 127766,
+      "num": 207157,
       "word": "原来红霉素眼膏是这么涂的",
       "onboard_time": 1762392499,
       "rank": 24,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 446688,
-      "num": 127691,
+      "num": 206209,
       "word": "曝王一博不续约乐华",
       "onboard_time": 1762384997,
       "rank": 14,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 399055,
-      "num": 127588,
+      "num": 205218,
       "word": "对接确认王鹤棣出演将门毒后",
       "onboard_time": 1762385298,
       "rank": 19,
@@ -120,6 +136,14 @@
       "word": "苗圃 至今内娱无代餐",
       "onboard_time": 1762353024,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379826,
+      "num": 379826,
+      "word": "王一博已成立个人独资工作室",
+      "onboard_time": 1762397540,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -155,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258190,
+      "num": 258190,
+      "word": "小米通话将停服",
+      "onboard_time": 1762393400,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 257422,
       "num": 257422,
       "word": "超级月亮",
@@ -179,6 +211,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215213,
+      "num": 215213,
+      "word": "大学生一边兼职一边救人",
+      "onboard_time": 1762395201,
+      "rank": 4,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 208408,
+      "num": 192471,
+      "word": "长期戴耳机的受害者出现了",
+      "onboard_time": 1762393519,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 205542,
       "num": 153028,
       "word": "桂纶镁回应白百何落选",
@@ -193,6 +241,14 @@
       "onboard_time": 1762355061,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201913,
+      "num": 201913,
+      "word": "王安宇戴冷帽vs李诞戴冷帽",
+      "onboard_time": 1762398320,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 190621,
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166411,
+      "num": 166411,
+      "word": "张一山最近也是老来俏了",
+      "onboard_time": 1762395500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162142,
       "num": 162142,
       "word": "女护士称给95岁大爷扎针时被摸腿",
@@ -227,12 +291,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150097,
-      "num": 150097,
-      "word": "大学生一边兼职一边救人",
-      "onboard_time": 1762395201,
-      "rank": 4,
-      "category": "正能量"
+      "raw_hot": 157881,
+      "num": 157881,
+      "word": "星品影响力",
+      "onboard_time": 1762397898,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148187,
+      "num": 215066,
+      "word": "胖东来公示员工勇敢正义奖励",
+      "onboard_time": 1762396580,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143987,
+      "num": 143987,
+      "word": "是谁气的杨紫睡不着觉",
+      "onboard_time": 1762396459,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143168,
+      "num": 143168,
+      "word": "熬夜熬到什么程度可能猝死",
+      "onboard_time": 1762396101,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141683,
@@ -249,14 +337,6 @@
       "onboard_time": 1762370714,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 133247,
-      "num": 128125,
-      "word": "小米通话将停服",
-      "onboard_time": 1762393400,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 126795,
@@ -299,20 +379,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117685,
-      "num": 117685,
-      "word": "长期戴耳机的受害者出现了",
-      "onboard_time": 1762393519,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 116694,
       "num": 116694,
       "word": "欧豪马思纯内娱的be美学",
       "onboard_time": 1762393700,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111015,
+      "num": 111015,
+      "word": "爱心人士董晓红因车祸离世",
+      "onboard_time": 1762396700,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110686,
@@ -323,20 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 109234,
-      "num": 109234,
-      "word": "张一山最近也是老来俏了",
-      "onboard_time": 1762395500,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107472,
       "num": 145993,
       "word": "吴昕微信几乎不留聊天记录",
       "onboard_time": 1762349302,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102122,
+      "num": 102122,
+      "word": "全运会跳水女子双人10米台",
+      "onboard_time": 1762398800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 101415,
@@ -363,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98020,
+      "num": 116829,
+      "word": "柬埔寨太子集团35亿资产被冻结",
+      "onboard_time": 1762395201,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97847,
       "num": 144726,
       "word": "男老师称涉猥亵教学动作是误会",
       "onboard_time": 1762353502,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96077,
+      "num": 96077,
+      "word": "时代少年团演唱会剧照海报",
+      "onboard_time": 1762397120,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 95191,
@@ -385,6 +481,14 @@
       "onboard_time": 1762394180,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93441,
+      "num": 212696,
+      "word": "闪耀暖暖",
+      "onboard_time": 1762399160,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 93124,
@@ -411,12 +515,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 89991,
-      "num": 116829,
-      "word": "柬埔寨太子集团35亿资产被冻结",
-      "onboard_time": 1762395201,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 89919,
+      "num": 119884,
+      "word": "全红婵十五运收官之战",
+      "onboard_time": 1762394119,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 87964,
@@ -425,6 +529,14 @@
       "onboard_time": 1762343540,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87774,
+      "num": 87774,
+      "word": "工作三年后再考研的真实感受",
+      "onboard_time": 1762396340,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 86982,
@@ -449,6 +561,22 @@
       "onboard_time": 1762393280,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84313,
+      "num": 84313,
+      "word": "自媒体完成对外国的祛魅",
+      "onboard_time": 1762398680,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84265,
+      "num": 84265,
+      "word": "环球小姐墨西哥选手被辱骂愤然离场",
+      "onboard_time": 1762395080,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83537,
@@ -499,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76476,
-      "num": 76476,
-      "word": "环球小姐墨西哥选手被辱骂愤然离场",
-      "onboard_time": 1762395080,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 76953,
+      "num": 76953,
+      "word": "多位民营企业家改判无罪",
+      "onboard_time": 1762399100,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75474,
@@ -531,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73243,
+      "num": 76506,
+      "word": "王楚钦挨个摸了前排小朋友的头",
+      "onboard_time": 1762399223,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72831,
       "num": 143467,
       "word": "康熙",
@@ -555,11 +691,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72344,
-      "num": 119884,
-      "word": "全红婵十五运收官之战",
-      "onboard_time": 1762394119,
-      "rank": 27,
+      "raw_hot": 71977,
+      "num": 325172,
+      "word": "一起看全运会",
+      "onboard_time": 1762397960,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70988,
+      "num": 75941,
+      "word": "跳水三小只亮相全场欢呼",
+      "onboard_time": 1762398138,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -795,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44095,
+      "num": 204617,
+      "word": "N6神颜一见倾心",
+      "onboard_time": 1762398260,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42248,
       "num": 141072,
       "word": "张艺兴说完bra就挠头了",
@@ -817,6 +969,14 @@
       "onboard_time": 1762378514,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39819,
+      "num": 91204,
+      "word": "全红婵7点多就到赛场热身了",
+      "onboard_time": 1762398559,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 39516,
@@ -881,6 +1041,14 @@
       "onboard_time": 1762385599,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31178,
+      "num": 203282,
+      "word": "河南公安厅刑侦总队政委主动投案",
+      "onboard_time": 1762398320,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30632,
@@ -993,6 +1161,9 @@
     },
     {
       "word": "#互联网是人类的共同家园#"
+    },
+    {
+      "word": "#重温习近平的乌镇网事#"
     }
   ]
 }
