@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762399271644,
+  "endTime": 1762400197495,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -201,6 +201,14 @@
       "onboard_time": 1761992661,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1323471,
+      "num": 1323471,
+      "word": "台湾 投诚APP",
+      "onboard_time": 1762398138,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1291333,
@@ -561,14 +569,6 @@
       "onboard_time": 1761993621,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862700,
-      "num": 1138032,
-      "word": "台湾 投诚APP",
-      "onboard_time": 1762398138,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 859960,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1762217482,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542363,
+      "num": 542363,
+      "word": "王一博已成立个人独资工作室",
+      "onboard_time": 1762397540,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 540307,
@@ -2315,14 +2323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379826,
-      "num": 379826,
-      "word": "王一博已成立个人独资工作室",
-      "onboard_time": 1762397540,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 379722,
       "num": 379722,
       "word": "T1严正声明",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1762083561,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310115,
+      "num": 201913,
+      "word": "王安宇戴冷帽vs李诞戴冷帽",
+      "onboard_time": 1762398320,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 309812,
@@ -3675,6 +3683,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 246714,
+      "num": 246714,
+      "word": "大学生一边兼职一边救人",
+      "onboard_time": 1762395201,
+      "rank": 4,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 246627,
       "num": 336563,
       "word": "剑来",
@@ -3979,6 +3995,14 @@
       "category": "辟谣/通报,体育"
     },
     {
+      "raw_hot": 227461,
+      "num": 129502,
+      "word": "Tabe凌晨发文",
+      "onboard_time": 1762399580,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226913,
       "num": 504286,
       "word": "AL教练后台痛哭",
@@ -4225,14 +4249,6 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215213,
-      "num": 215213,
-      "word": "大学生一边兼职一边救人",
-      "onboard_time": 1762395201,
-      "rank": 4,
-      "category": "正能量"
     },
     {
       "raw_hot": 215063,
@@ -4563,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204797,
+      "num": 143168,
+      "word": "熬夜熬到什么程度可能猝死",
+      "onboard_time": 1762396101,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204458,
       "num": 504054,
       "word": "曾庆杰手滑",
@@ -4657,14 +4681,6 @@
       "onboard_time": 1761981501,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201913,
-      "num": 201913,
-      "word": "王安宇戴冷帽vs李诞戴冷帽",
-      "onboard_time": 1762398320,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 201861,
@@ -5705,6 +5721,14 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171751,
+      "num": 215066,
+      "word": "胖东来公示员工勇敢正义奖励",
+      "onboard_time": 1762396580,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171539,
@@ -7027,14 +7051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148187,
-      "num": 215066,
-      "word": "胖东来公示员工勇敢正义奖励",
-      "onboard_time": 1762396580,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147991,
       "num": 147991,
       "word": "沙溢 宋亚轩让你的兵来一下",
@@ -7393,14 +7409,6 @@
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143168,
-      "num": 143168,
-      "word": "熬夜熬到什么程度可能猝死",
-      "onboard_time": 1762396101,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143053,
@@ -8177,6 +8185,14 @@
       "onboard_time": 1762166601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132525,
+      "num": 103997,
+      "word": "确诊多囊后把自己重养一遍",
+      "onboard_time": 1762398920,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132276,
@@ -10899,6 +10915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105634,
+      "num": 105634,
+      "word": "景甜龙骨焚箱杀青",
+      "onboard_time": 1762399280,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105540,
       "num": 103958,
       "word": "不运动也能降体脂的7个小习惯",
@@ -10993,6 +11017,14 @@
       "onboard_time": 1762313599,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104927,
+      "num": 104927,
+      "word": "全运会跳水女子双人10米台",
+      "onboard_time": 1762398800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 104875,
@@ -11481,14 +11513,6 @@
       "onboard_time": 1762240700,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102122,
-      "num": 102122,
-      "word": "全运会跳水女子双人10米台",
-      "onboard_time": 1762398800,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 102069,
@@ -12305,6 +12329,14 @@
       "onboard_time": 1762229001,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97492,
+      "num": 97492,
+      "word": "网友给周雨支招怎么打樊振东",
+      "onboard_time": 1762399822,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 97345,
@@ -14283,6 +14315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85250,
+      "num": 85250,
+      "word": "王楚钦挨个摸了前排小朋友的头",
+      "onboard_time": 1762399223,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85166,
       "num": 85166,
       "word": "彭小苒是我们村最好的大厨",
@@ -14529,6 +14569,14 @@
       "onboard_time": 1762250180,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83742,
+      "num": 83742,
+      "word": "第十五届全国运动会开幕式",
+      "onboard_time": 1762399881,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 83708,
@@ -15033,6 +15081,14 @@
       "onboard_time": 1762304780,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80073,
+      "num": 80073,
+      "word": "狂野时代预告片",
+      "onboard_time": 1762400121,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 80060,
@@ -15555,6 +15611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75501,
+      "num": 75501,
+      "word": "原来完整的莲藕长这样",
+      "onboard_time": 1762400121,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75474,
       "num": 75474,
       "word": "小宇宙崩了",
@@ -15729,14 +15793,6 @@
       "onboard_time": 1762269622,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73243,
-      "num": 76506,
-      "word": "王楚钦挨个摸了前排小朋友的头",
-      "onboard_time": 1762399223,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 73198,
@@ -15932,7 +15988,7 @@
     },
     {
       "raw_hot": 71977,
-      "num": 325172,
+      "num": 362362,
       "word": "一起看全运会",
       "onboard_time": 1762397960,
       "rank": 2,
@@ -17067,6 +17123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55630,
+      "num": 203282,
+      "word": "河南公安厅刑侦总队政委主动投案",
+      "onboard_time": 1762398320,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55512,
       "num": 69254,
       "word": "王权富贵再次燃命",
@@ -18059,6 +18123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34337,
+      "num": 85374,
+      "word": "全运会乒乓球明日开赛",
+      "onboard_time": 1762399700,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34204,
       "num": 123864,
       "word": "拖欠18人77万工资老板获刑",
@@ -18201,14 +18273,6 @@
       "onboard_time": 1762259902,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31178,
-      "num": 203282,
-      "word": "河南公安厅刑侦总队政委主动投案",
-      "onboard_time": 1762398320,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31143,

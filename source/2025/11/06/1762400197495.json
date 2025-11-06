@@ -1,0 +1,410 @@
+{
+  "runTime": 1762400197495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323471,
+        "num": 1323471,
+        "word": "台湾 投诚APP",
+        "onboard_time": 1762398138,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542363,
+        "num": 542363,
+        "word": "王一博已成立个人独资工作室",
+        "onboard_time": 1762397540,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35584,
+        "num": 362362,
+        "word": "一起看全运会",
+        "onboard_time": 1762397960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257413,
+        "num": 257413,
+        "word": "全红婵陈芋汐张家齐单项争冠",
+        "onboard_time": 1762389142,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246714,
+        "num": 246714,
+        "word": "大学生一边兼职一边救人",
+        "onboard_time": 1762395201,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 222575,
+        "num": 222575,
+        "word": "美FBI局长被曝用公务飞机接女友",
+        "onboard_time": 1762392139,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199102,
+        "num": 199102,
+        "word": "小米通话将停服",
+        "onboard_time": 1762393400,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171751,
+        "num": 171751,
+        "word": "胖东来公示员工勇敢正义奖励",
+        "onboard_time": 1762396580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170558,
+        "num": 170558,
+        "word": "闪耀暖暖",
+        "onboard_time": 1762399160,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138523,
+        "num": 138523,
+        "word": "温峥嵘被AI温峥嵘拉黑",
+        "onboard_time": 1762355483,
+        "rank": 9,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 819166,
+        "num": 138150,
+        "word": "宋祖儿早期美高留子",
+        "onboard_time": 1762393641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741212,
+        "num": 136237,
+        "word": "将门毒后谢景行",
+        "onboard_time": 1762393099,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539775,
+        "num": 135904,
+        "word": "浙大回应食堂一只螃蟹只卖8.8元",
+        "onboard_time": 1762396639,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386839,
+        "num": 134548,
+        "word": "原来红霉素眼膏是这么涂的",
+        "onboard_time": 1762392499,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368356,
+        "num": 133646,
+        "word": "周震南 结婚请我商演吗",
+        "onboard_time": 1762393940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310115,
+        "num": 132481,
+        "word": "王安宇戴冷帽vs李诞戴冷帽",
+        "onboard_time": 1762398320,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230722,
+        "num": 130460,
+        "word": "曝王一博不续约乐华",
+        "onboard_time": 1762384997,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227461,
+        "num": 129502,
+        "word": "Tabe凌晨发文",
+        "onboard_time": 1762399580,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34942,
+        "num": 128637,
+        "word": "N6神颜一见倾心",
+        "onboard_time": 1762398260,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55630,
+        "num": 127138,
+        "word": "河南公安厅刑侦总队政委主动投案",
+        "onboard_time": 1762398320,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287631,
+        "num": 126539,
+        "word": "鹿哈领证",
+        "onboard_time": 1762342760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 124816,
+        "word": "对接确认王鹤棣出演将门毒后",
+        "onboard_time": 1762385298,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204797,
+        "num": 123499,
+        "word": "熬夜熬到什么程度可能猝死",
+        "onboard_time": 1762396101,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174605,
+        "num": 121928,
+        "word": "长期戴耳机的受害者出现了",
+        "onboard_time": 1762393519,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 145512,
+        "num": 120944,
+        "word": "张一山最近也是老来俏了",
+        "onboard_time": 1762395500,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120730,
+        "num": 120730,
+        "word": "是谁气的杨紫睡不着觉",
+        "onboard_time": 1762396459,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105634,
+        "num": 105634,
+        "word": "景甜龙骨焚箱杀青",
+        "onboard_time": 1762399280,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "全运会跳水女子双人10米台",
+        "onboard_time": 1762398800,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104730,
+        "num": 104730,
+        "word": "爱心人士董晓红因车祸离世",
+        "onboard_time": 1762396700,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104439,
+        "num": 104439,
+        "word": "男子开宝马车下乡收集村民身份证信息",
+        "onboard_time": 1762389560,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 103997,
+        "word": "确诊多囊后把自己重养一遍",
+        "onboard_time": 1762398920,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97492,
+        "num": 97492,
+        "word": "网友给周雨支招怎么打樊振东",
+        "onboard_time": 1762399822,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94123,
+        "num": 94123,
+        "word": "欧豪马思纯内娱的be美学",
+        "onboard_time": 1762393700,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92889,
+        "num": 92889,
+        "word": "疑似白百何更新朋友圈",
+        "onboard_time": 1762353324,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91206,
+        "num": 91206,
+        "word": "时代少年团演唱会剧照海报",
+        "onboard_time": 1762397120,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90175,
+        "num": 90175,
+        "word": "欧阳娜娜给欧阳妮妮闪送了6个沙发",
+        "onboard_time": 1762389560,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89474,
+        "num": 89474,
+        "word": "高铁上被要求让座年轻人霸气回怼",
+        "onboard_time": 1762384997,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85513,
+        "num": 85513,
+        "word": "金建希首次承认收受奢侈品包",
+        "onboard_time": 1762394539,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34337,
+        "num": 85374,
+        "word": "全运会乒乓球明日开赛",
+        "onboard_time": 1762399700,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85250,
+        "num": 85250,
+        "word": "王楚钦挨个摸了前排小朋友的头",
+        "onboard_time": 1762399223,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83906,
+        "num": 83906,
+        "word": "男子50元买狗退款遭拒摔死狗",
+        "onboard_time": 1762357160,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83742,
+        "num": 83742,
+        "word": "第十五届全国运动会开幕式",
+        "onboard_time": 1762399881,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83573,
+        "num": 83573,
+        "word": "王传君东京电影节影帝",
+        "onboard_time": 1762332922,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80686,
+        "word": "全红婵十五运收官之战",
+        "onboard_time": 1762394119,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80073,
+        "num": 80073,
+        "word": "狂野时代预告片",
+        "onboard_time": 1762400121,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75501,
+        "num": 75501,
+        "word": "原来完整的莲藕长这样",
+        "onboard_time": 1762400121,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 74172,
+        "num": 74172,
+        "word": "工作三年后再考研的真实感受",
+        "onboard_time": 1762396340,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34888,
+        "num": 73814,
+        "word": "全红婵7点多就到赛场热身了",
+        "onboard_time": 1762398559,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73617,
+        "num": 73617,
+        "word": "星品影响力",
+        "onboard_time": 1762397898,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70500,
+        "num": 73195,
+        "word": "江苏电力回应张凌赫",
+        "onboard_time": 1762386680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平的乌镇网事#"
+    }
+  }
+}
