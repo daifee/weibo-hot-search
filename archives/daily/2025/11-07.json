@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762449959307,
+  "endTime": 1762450983613,
   "band_list": [
     {
       "raw_hot": 550194,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 136131,
-      "num": 136131,
+      "num": 347647,
       "word": "王鹤棣孟子义首搭",
       "onboard_time": 1762444821,
       "rank": 21,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93646,
+      "num": 105649,
+      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
+      "onboard_time": 1762443441,
+      "rank": 28,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 89091,
       "num": 105742,
       "word": "结婚登记增40.5万对",
@@ -225,14 +233,6 @@
       "onboard_time": 1762432761,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64681,
-      "num": 105649,
-      "word": "奶皮子糖葫芦火完固体杨枝甘露火",
-      "onboard_time": 1762443441,
-      "rank": 28,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 64162,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 33823,
-      "num": 62371,
+      "num": 87183,
       "word": "王鹤棣资源好牛",
       "onboard_time": 1762433543,
       "rank": 35,
@@ -428,15 +428,23 @@
     },
     {
       "raw_hot": 31717,
-      "num": 62345,
+      "num": 86992,
       "word": "辛芷蕾把日掛中天白T穿出花",
       "onboard_time": 1762446979,
       "rank": 41,
       "category": "电影"
     },
     {
+      "raw_hot": 28889,
+      "num": 87147,
+      "word": "美总统十秒道破美国外交政策本质",
+      "onboard_time": 1762449557,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28438,
-      "num": 62331,
+      "num": 87067,
       "word": "朋友圈全员92是什么概念",
       "onboard_time": 1762435400,
       "rank": 44,
@@ -452,19 +460,19 @@
     },
     {
       "raw_hot": 25639,
-      "num": 62310,
+      "num": 87026,
       "word": "今年都有谁有效播剧了",
       "onboard_time": 1762449077,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 24879,
-      "num": 62310,
-      "word": "美总统十秒道破美国外交政策本质",
-      "onboard_time": 1762449557,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 23879,
+      "num": 86988,
+      "word": "景甜张彬彬朱迪尼克",
+      "onboard_time": 1762450696,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
