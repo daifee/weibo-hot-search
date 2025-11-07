@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762501161750,
+  "endTime": 1762504529142,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3155347,
-      "num": 989105,
+      "num": 2460115,
       "word": "辛芷蕾6连问",
       "onboard_time": 1762497680,
       "rank": 1,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701235,
+      "num": 190999,
+      "word": "日掛中天票房倒挂",
+      "onboard_time": 1762503861,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 700188,
       "num": 700188,
       "word": "央妈音综出手就是国家队顶配",
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500651,
+      "num": 500651,
+      "word": "特朗普官宣降价减肥药企高管当场晕倒",
+      "onboard_time": 1762500020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 500155,
       "num": 1080024,
       "word": "黄安称屠颖因酒店跑步机摔跤离世",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428226,
+      "num": 428226,
+      "word": "新闻女王2黄宗泽面相都变了",
+      "onboard_time": 1762500380,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 427959,
@@ -2939,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340599,
+      "num": 340599,
+      "word": "中方回应日本水产品输华",
+      "onboard_time": 1762503020,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 339656,
       "num": 182312,
       "word": "考上研究生是对混子的最大惩罚",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1762235960,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321213,
+      "num": 292450,
+      "word": "檀健次卢昱晓 何不同舟渡",
+      "onboard_time": 1762502660,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 321134,
@@ -3409,6 +3449,14 @@
       "onboard_time": 1762492640,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 293472,
+      "num": 293472,
+      "word": "日本熊袭人有明显吃人痕迹",
+      "onboard_time": 1762499480,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 291134,
@@ -3737,6 +3785,14 @@
       "onboard_time": 1762427543,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266046,
+      "num": 266046,
+      "word": "iPhone18Pro系列前瞻",
+      "onboard_time": 1762499300,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 265574,
@@ -4145,14 +4201,6 @@
       "onboard_time": 1762070961,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234516,
-      "num": 234516,
-      "word": "特朗普官宣降价减肥药企高管当场晕倒",
-      "onboard_time": 1762500020,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234202,
@@ -4793,14 +4841,6 @@
       "onboard_time": 1762079120,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206732,
-      "num": 182975,
-      "word": "iPhone18Pro系列前瞻",
-      "onboard_time": 1762499300,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 206649,
@@ -5875,6 +5915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177537,
+      "num": 147943,
+      "word": "医生强调这4小时必须睡觉",
+      "onboard_time": 1762504161,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177351,
       "num": 163314,
       "word": "他永远困在了女儿被害的雨夜",
@@ -6211,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169623,
+      "num": 169623,
+      "word": "邓为风月不相关停拍后",
+      "onboard_time": 1762501340,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169536,
       "num": 193321,
       "word": "境外间谍借兼职拉拢学生收集敏感数据",
@@ -6281,6 +6337,14 @@
       "onboard_time": 1762049420,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167703,
+      "num": 141326,
+      "word": "真的建议吃饭要带点醋",
+      "onboard_time": 1762501999,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 167681,
@@ -7025,14 +7089,6 @@
       "onboard_time": 1762232241,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153929,
-      "num": 147790,
-      "word": "新闻女王2黄宗泽面相都变了",
-      "onboard_time": 1762500380,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 153861,
@@ -7835,14 +7891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140916,
-      "num": 126657,
-      "word": "日本熊袭人有明显吃人痕迹",
-      "onboard_time": 1762499480,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 140654,
       "num": 140654,
       "word": "陈芋汐夺冠后寄语全红婵",
@@ -8027,6 +8075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138718,
+      "num": 138718,
+      "word": "曝iPhone18Pro灵动岛将缩小",
+      "onboard_time": 1762502719,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138391,
       "num": 138391,
       "word": "杨紫还在用何惟芳手机壳",
@@ -8193,6 +8249,14 @@
       "onboard_time": 1762232423,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137015,
+      "num": 162161,
+      "word": "日本扇贝已出口至中国",
+      "onboard_time": 1762503920,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136967,
@@ -9467,11 +9531,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "火锅分享制 火锅责任制",
+      "onboard_time": 1762503140,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122688,
       "num": 149170,
       "word": "男子50元买狗退款遭拒摔死狗",
       "onboard_time": 1762357160,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122608,
+      "num": 122608,
+      "word": "医生做手术时被涉诈停机",
+      "onboard_time": 1762502719,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -13955,6 +14035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90859,
+      "num": 90859,
+      "word": "2026爱奇艺海外悦享会",
+      "onboard_time": 1762503020,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90812,
       "num": 90812,
       "word": "知情人回应老太太抱鸭痛哭",
@@ -14531,6 +14619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87548,
+      "num": 87548,
+      "word": "维生素C对皮肤有什么用",
+      "onboard_time": 1762503861,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87532,
       "num": 87532,
       "word": "让脸变干净可以这样吃",
@@ -14945,6 +15041,14 @@
       "onboard_time": 1762183883,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85890,
+      "num": 85890,
+      "word": "26度穿衣法则",
+      "onboard_time": 1762503680,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 85868,
@@ -15651,6 +15755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81750,
+      "num": 185103,
+      "word": "福建舰是我国航母常态化部署第一步",
+      "onboard_time": 1762496121,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81707,
       "num": 81707,
       "word": "TES主教练看好T1夺冠",
@@ -16267,12 +16379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76688,
-      "num": 185103,
-      "word": "福建舰是我国航母常态化部署第一步",
-      "onboard_time": 1762496121,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 76616,
+      "num": 76616,
+      "word": "曝华为Mate80系列本月官宣",
+      "onboard_time": 1762502421,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 76458,
@@ -16385,6 +16497,14 @@
       "onboard_time": 1762239079,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75684,
+      "num": 75684,
+      "word": "龚俊喂养 一个巴掌一个枣",
+      "onboard_time": 1762503080,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 75595,
@@ -16915,6 +17035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69507,
+      "num": 69507,
+      "word": "活力大湾鸡",
+      "onboard_time": 1762504461,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69502,
       "num": 125753,
       "word": "给自己做一个显脸小的落叶面具",
@@ -16937,6 +17065,14 @@
       "onboard_time": 1762336222,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69118,
+      "num": 69118,
+      "word": "山河枕红毯痛楼剧宣独一份",
+      "onboard_time": 1762504461,
+      "rank": 49,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 68905,
@@ -17507,6 +17643,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 60439,
+      "num": 82101,
+      "word": "吴石烈士户籍卡公开",
+      "onboard_time": 1762502601,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60427,
       "num": 60427,
       "word": "杨幂 美羊羊扶额",
@@ -17947,6 +18091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52607,
+      "num": 81663,
+      "word": "福建舰为啥是世界最强",
+      "onboard_time": 1762503920,
+      "rank": 39,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 52532,
       "num": 109996,
       "word": "乐华娱乐今年只发了3次王一博",
@@ -18000,6 +18152,14 @@
       "word": "浙江大学食堂8.8元螃蟹已停售",
       "onboard_time": 1762420461,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51391,
+      "num": 81821,
+      "word": "小偷偷手机被女生暴打躲进车底",
+      "onboard_time": 1762503620,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -18369,6 +18529,14 @@
       "onboard_time": 1762126520,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44758,
+      "num": 196524,
+      "word": "京东饺子火锅半价",
+      "onboard_time": 1762503861,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 44623,
@@ -20182,6 +20350,9 @@
     },
     {
       "word": "#习近平听取海南自贸港建设工作汇报#"
+    },
+    {
+      "word": "#习近平出席福建舰入列授旗仪式#"
     }
   ]
 }
