@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 03:37:27
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 04:26:49
 </p>
 </blockquote>
 <p>
@@ -405,14 +405,20 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
-蔡徐坤新歌上线时间（热度：15196）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
+乐华娱乐再度大跌（热度：18817）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CV%E5%90%B4%E7%A3%8A%E5%A3%B0%E6%98%8E%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%23" target="weibo">
-CV吴磊声明回应起诉（热度：15137）
+CV吴磊声明回应起诉（热度：17952）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
+蔡徐坤新歌上线时间（热度：15196）
 </a>
 </li>
 
