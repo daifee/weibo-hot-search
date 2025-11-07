@@ -1,0 +1,410 @@
+{
+  "runTime": 1762515544523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789844,
+        "num": 1789844,
+        "word": "沙僧扮演者刘大刚病逝",
+        "onboard_time": 1762509500,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 447642,
+        "num": 447642,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762511902,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 4490,
+        "num": 323963,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300983,
+        "num": 300983,
+        "word": "粒上皇 烤红薯刺客",
+        "onboard_time": 1762507882,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 269060,
+        "num": 269060,
+        "word": "六小龄童悼念刘大刚",
+        "onboard_time": 1762512321,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219388,
+        "num": 219388,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214325,
+        "num": 214325,
+        "word": "方丈是唐诡编剧认证的不清白",
+        "onboard_time": 1762514719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213293,
+        "num": 213293,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198812,
+        "num": 198812,
+        "word": "第五人格 匹配不了",
+        "onboard_time": 1762513040,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140723,
+        "num": 197988,
+        "word": "宝格丽CEO称小米成就堪比苹果",
+        "onboard_time": 1762514421,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 592657,
+        "num": 197402,
+        "word": "装修工人触电身亡婚房变凶宅",
+        "onboard_time": 1762509500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376894,
+        "num": 195357,
+        "word": "机器人 性别",
+        "onboard_time": 1762507941,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351211,
+        "num": 194476,
+        "word": "突然理解为什么父母希望门当户对了",
+        "onboard_time": 1762513400,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280429,
+        "num": 192529,
+        "word": "程潇被刀划伤手",
+        "onboard_time": 1762513580,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17862,
+        "num": 192010,
+        "word": "宋木子李飞生动演绎钓鱼",
+        "onboard_time": 1762514059,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256431,
+        "num": 189943,
+        "word": "日掛中天票房倒挂",
+        "onboard_time": 1762503861,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214427,
+        "num": 188699,
+        "word": "檀健次卢昱晓 何不同舟渡",
+        "onboard_time": 1762502660,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200075,
+        "num": 188124,
+        "word": "空腹爬楼瘦了25斤",
+        "onboard_time": 1762514359,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 186561,
+        "word": "刘嘉玲说好风景就在眼前",
+        "onboard_time": 1762514000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32094,
+        "num": 184483,
+        "word": "全运会河南女排vs天津女排",
+        "onboard_time": 1762514719,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 928683,
+        "num": 183364,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29134,
+        "num": 181846,
+        "word": "景甜分享立冬大片",
+        "onboard_time": 1762513580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466838,
+        "num": 181459,
+        "word": "曝某女星采访到一半崩溃大哭",
+        "onboard_time": 1762505900,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180217,
+        "num": 180217,
+        "word": "新闻女王2黄宗泽面相都变了",
+        "onboard_time": 1762500380,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152740,
+        "num": 152740,
+        "word": "陈若琳 长身体就像换了双不合脚的舞鞋",
+        "onboard_time": 1762512321,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145060,
+        "num": 145060,
+        "word": "闫怀礼 沙僧",
+        "onboard_time": 1762510940,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 114697,
+        "num": 144767,
+        "word": "家属回应刘大刚去世",
+        "onboard_time": 1762515199,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 143321,
+        "word": "医生强调这4小时必须睡觉",
+        "onboard_time": 1762504161,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178427,
+        "num": 142898,
+        "word": "刘诗诗参加杨紫生日会",
+        "onboard_time": 1762508360,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68943,
+        "num": 141372,
+        "word": "潘展乐收到了胡明轩送的加油桶",
+        "onboard_time": 1762513640,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163693,
+        "num": 140874,
+        "word": "坚持喝煮苹果水身体会发生什么",
+        "onboard_time": 1762506920,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140063,
+        "num": 140063,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133784,
+        "num": 133784,
+        "word": "冒充奶皮子",
+        "onboard_time": 1762506981,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123412,
+        "num": 123412,
+        "word": "迪丽热巴帮替身演员整理帽子",
+        "onboard_time": 1762512020,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117284,
+        "num": 117284,
+        "word": "30岁还收到妈妈的红包是什么体验",
+        "onboard_time": 1762515081,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117281,
+        "num": 117281,
+        "word": "Leave想继续打比赛就必须进转会池",
+        "onboard_time": 1762515320,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116241,
+        "num": 116241,
+        "word": "希望小猫消失都是因为这样的原因",
+        "onboard_time": 1762513281,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115813,
+        "num": 115813,
+        "word": "肖战把大黄搂在怀里为她取暖",
+        "onboard_time": 1762505840,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49178,
+        "num": 114201,
+        "word": "荒野求生退役特种兵已到缺盐极限",
+        "onboard_time": 1762514782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59304,
+        "num": 113577,
+        "word": "杨紫琼把A妹隐形眼镜吓掉了",
+        "onboard_time": 1762514659,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94356,
+        "num": 113079,
+        "word": "刘诗雯和樊振东打招呼",
+        "onboard_time": 1762510702,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112973,
+        "num": 112973,
+        "word": "一诺明天见",
+        "onboard_time": 1762514540,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112112,
+        "num": 112112,
+        "word": "宁静承认伤害过别人感情",
+        "onboard_time": 1762495280,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28162,
+        "num": 112063,
+        "word": "张家界荒野求生参赛者30天瘦了30斤",
+        "onboard_time": 1762515500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "谁吃固体杨枝甘露是图省事",
+        "onboard_time": 1762512560,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104918,
+        "num": 104918,
+        "word": "建议买羽绒服前可以先闻一闻",
+        "onboard_time": 1762515379,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98213,
+        "num": 98213,
+        "word": "日本扇贝已出口至中国",
+        "onboard_time": 1762503920,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97386,
+        "num": 97386,
+        "word": "唐朝诡事录 无代餐",
+        "onboard_time": 1762506080,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96770,
+        "num": 96770,
+        "word": "孕妈称住酒店牙刷有异物致住院保胎",
+        "onboard_time": 1762511240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92797,
+        "num": 92797,
+        "word": "新闻女王2 娱乐圈怪像",
+        "onboard_time": 1762515500,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席福建舰入列授旗仪式#"
+    }
+  }
+}

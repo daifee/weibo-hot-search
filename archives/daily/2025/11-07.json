@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762514572395,
+  "endTime": 1762515544523,
   "band_list": [
     {
       "raw_hot": 3648101,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 761061,
-      "num": 178040,
+      "num": 195357,
       "word": "机器人 性别",
       "onboard_time": 1762507941,
       "rank": 25,
@@ -177,6 +177,14 @@
       "onboard_time": 1762481180,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592657,
+      "num": 197402,
+      "word": "装修工人触电身亡婚房变凶宅",
+      "onboard_time": 1762509500,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574779,
@@ -291,6 +299,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 447642,
+      "num": 447642,
+      "word": "米哈游 大丽花",
+      "onboard_time": 1762511902,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442766,
       "num": 284251,
       "word": "网红尿毒症夫妇丈夫离世",
@@ -345,22 +361,6 @@
       "onboard_time": 1762479199,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 380934,
-      "num": 380934,
-      "word": "米哈游 大丽花",
-      "onboard_time": 1762511902,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 379787,
-      "num": 175774,
-      "word": "装修工人触电身亡婚房变凶宅",
-      "onboard_time": 1762509500,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373894,
@@ -435,20 +435,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351211,
+      "num": 194476,
+      "word": "突然理解为什么父母希望门当户对了",
+      "onboard_time": 1762513400,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345250,
       "num": 345250,
       "word": "iPhone18Pro系列前瞻",
       "onboard_time": 1762499300,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 335237,
-      "num": 175536,
-      "word": "突然理解为什么父母希望门当户对了",
-      "onboard_time": 1762513400,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 331497,
@@ -563,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280429,
+      "num": 192529,
+      "word": "程潇被刀划伤手",
+      "onboard_time": 1762513580,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274411,
       "num": 274411,
       "word": "小鹏悲壮自证",
@@ -579,20 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261556,
-      "num": 261556,
+      "raw_hot": 269060,
+      "num": 269060,
       "word": "六小龄童悼念刘大刚",
       "onboard_time": 1762512321,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258085,
-      "num": 174045,
-      "word": "程潇被刀划伤手",
-      "onboard_time": 1762513580,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 247647,
@@ -691,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 214325,
+      "num": 214325,
+      "word": "方丈是唐诡编剧认证的不清白",
+      "onboard_time": 1762514719,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "宋茜进来美我一大跳",
@@ -753,6 +761,14 @@
       "onboard_time": 1762487420,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 200075,
+      "num": 188124,
+      "word": "空腹爬楼瘦了25斤",
+      "onboard_time": 1762514359,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 197082,
@@ -1243,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140723,
+      "num": 197988,
+      "word": "宝格丽CEO称小米成就堪比苹果",
+      "onboard_time": 1762514421,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140124,
       "num": 140124,
       "word": "希望小猫消失都是因为这样的原因",
@@ -1595,12 +1619,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117284,
+      "num": 117284,
+      "word": "30岁还收到妈妈的红包是什么体验",
+      "onboard_time": 1762515081,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117281,
+      "num": 117281,
+      "word": "Leave想继续打比赛就必须进转会池",
+      "onboard_time": 1762515320,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114882,
       "num": 114882,
       "word": "饿到什么程度才燃烧脂肪",
       "onboard_time": 1762510102,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114697,
+      "num": 144767,
+      "word": "家属回应刘大刚去世",
+      "onboard_time": 1762515199,
+      "rank": 26,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 114302,
@@ -1651,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112973,
+      "num": 112973,
+      "word": "一诺明天见",
+      "onboard_time": 1762514540,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112762,
       "num": 173841,
       "word": "把斯琴高娃气得翻白眼的演员到底是谁",
@@ -1699,14 +1755,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 110953,
-      "num": 110953,
-      "word": "空腹爬楼瘦了25斤",
-      "onboard_time": 1762514359,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 110728,
       "num": 110728,
       "word": "将门毒后简介",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1762487300,
       "rank": 44,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 108805,
-      "num": 108805,
-      "word": "宝格丽CEO称小米成就堪比苹果",
-      "onboard_time": 1762514421,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 108485,
@@ -1787,19 +1827,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104918,
+      "num": 104918,
+      "word": "建议买羽绒服前可以先闻一闻",
+      "onboard_time": 1762515379,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104372,
       "num": 141411,
       "word": "LCK包揽LOL战力榜前四",
       "onboard_time": 1762499480,
       "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 104188,
-      "num": 104188,
-      "word": "一诺明天见",
-      "onboard_time": 1762514540,
-      "rank": 46,
       "category": "电竞"
     },
     {
@@ -2017,6 +2057,14 @@
       "onboard_time": 1762437082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92797,
+      "num": 92797,
+      "word": "新闻女王2 娱乐圈怪像",
+      "onboard_time": 1762515500,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 92311,
@@ -2571,6 +2619,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 59304,
+      "num": 113577,
+      "word": "杨紫琼把A妹隐形眼镜吓掉了",
+      "onboard_time": 1762514659,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59031,
       "num": 105245,
       "word": "疑似王传君老板回应",
@@ -2715,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49178,
+      "num": 114201,
+      "word": "荒野求生退役特种兵已到缺盐极限",
+      "onboard_time": 1762514782,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48708,
       "num": 87147,
       "word": "美总统十秒道破美国外交政策本质",
@@ -2764,7 +2828,7 @@
     },
     {
       "raw_hot": 45055,
-      "num": 169978,
+      "num": 181846,
       "word": "景甜分享立冬大片",
       "onboard_time": 1762513580,
       "rank": 23,
@@ -2907,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32094,
+      "num": 184483,
+      "word": "全运会河南女排vs天津女排",
+      "onboard_time": 1762514719,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31717,
       "num": 86992,
       "word": "辛芷蕾把日掛中天白T穿出花",
@@ -2931,12 +3003,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28162,
+      "num": 112063,
+      "word": "张家界荒野求生参赛者30天瘦了30斤",
+      "onboard_time": 1762515500,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28082,
       "num": 134668,
       "word": "上过太空的乌鸡",
       "onboard_time": 1762491441,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 28022,
+      "num": 186561,
+      "word": "刘嘉玲说好风景就在眼前",
+      "onboard_time": 1762514000,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 27038,
@@ -3011,11 +3099,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18229,
-      "num": 172269,
-      "word": "刘嘉玲说好风景就在眼前",
-      "onboard_time": 1762514000,
-      "rank": 18,
+      "raw_hot": 17862,
+      "num": 192010,
+      "word": "宋木子李飞生动演绎钓鱼",
+      "onboard_time": 1762514059,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -3033,14 +3121,6 @@
       "onboard_time": 1762454594,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17060,
-      "num": 174395,
-      "word": "宋木子李飞生动演绎钓鱼",
-      "onboard_time": 1762514059,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 15680,
