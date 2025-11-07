@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762511372755,
+  "endTime": 1762512319158,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3452385,
-      "num": 3452385,
+      "raw_hot": 3648101,
+      "num": 3648101,
       "word": "沙僧扮演者刘大刚病逝",
       "onboard_time": 1762509500,
       "rank": 0,
@@ -2203,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 489609,
+      "num": 489609,
+      "word": "粒上皇 烤红薯刺客",
+      "onboard_time": 1762507882,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 489266,
       "num": 228098,
       "word": "李茂和弦子结婚不知道有彩礼",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1762402280,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 434340,
-      "num": 434340,
-      "word": "粒上皇 烤红薯刺客",
-      "onboard_time": 1762507882,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 433690,
@@ -3723,6 +3723,22 @@
       "category": "情感,健康医疗"
     },
     {
+      "raw_hot": 314917,
+      "num": 173532,
+      "word": "装修工人触电身亡婚房变凶宅",
+      "onboard_time": 1762509500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314535,
+      "num": 314535,
+      "word": "闫怀礼 沙僧",
+      "onboard_time": 1762510940,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 313857,
       "num": 213525,
       "word": "卢昱晓 学服装设计不是让你干这个的",
@@ -4019,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294529,
+      "num": 294529,
+      "word": "冒充奶皮子",
+      "onboard_time": 1762506981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294426,
       "num": 209722,
       "word": "陈乔恩结婚前没有朋友圈",
@@ -4057,14 +4081,6 @@
       "onboard_time": 1762492640,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 293049,
-      "num": 173207,
-      "word": "装修工人触电身亡婚房变凶宅",
-      "onboard_time": 1762509500,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291134,
@@ -4145,14 +4161,6 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 286941,
-      "num": 286941,
-      "word": "冒充奶皮子",
-      "onboard_time": 1762506981,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 285774,
@@ -7075,14 +7083,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 178104,
-      "num": 178104,
-      "word": "闫怀礼 沙僧",
-      "onboard_time": 1762510940,
-      "rank": 9,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 178025,
       "num": 178025,
       "word": "商务部回应安世半导体相关问题",
@@ -8571,6 +8571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153487,
+      "num": 153487,
+      "word": "米哈游 大丽花",
+      "onboard_time": 1762511902,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153231,
       "num": 153231,
       "word": "TES把Faker打瞌睡了",
@@ -8617,6 +8625,14 @@
       "onboard_time": 1762064961,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152871,
+      "num": 152871,
+      "word": "胡连馨是史上最惨穿越女主吧",
+      "onboard_time": 1762509140,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 152775,
@@ -9083,14 +9099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147507,
-      "num": 147507,
-      "word": "胡连馨是史上最惨穿越女主吧",
-      "onboard_time": 1762509140,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "银灰",
@@ -9473,6 +9481,14 @@
       "onboard_time": 1762417641,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143062,
+      "num": 143062,
+      "word": "罗云熙林允82秒视频对视了12次",
+      "onboard_time": 1762511419,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 143053,
@@ -10571,6 +10587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132226,
+      "num": 164947,
+      "word": "惊天魔盗团3 钻石0元购",
+      "onboard_time": 1762510702,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "鳌拜 瓜尔佳氏",
@@ -11251,6 +11275,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 125790,
+      "num": 137833,
+      "word": "刘诗雯和樊振东打招呼",
+      "onboard_time": 1762510702,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125789,
       "num": 144124,
       "word": "文荣奖红毯",
@@ -11553,14 +11585,6 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123352,
-      "num": 123352,
-      "word": "刘诗雯和樊振东打招呼",
-      "onboard_time": 1762510702,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 123318,
@@ -15211,6 +15235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 99150,
+      "num": 99150,
+      "word": "洗个车把朋友洗的锃光瓦亮",
+      "onboard_time": 1762511722,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99131,
       "num": 99131,
       "word": "叠纸心意",
@@ -15363,6 +15395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 98492,
+      "num": 108475,
+      "word": "孕妈称住酒店牙刷有异物致住院保胎",
+      "onboard_time": 1762511240,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98491,
       "num": 98491,
       "word": "樊振东赛程预告",
@@ -15513,6 +15553,14 @@
       "onboard_time": 1762395201,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97979,
+      "num": 97979,
+      "word": "孙颖莎拍完你的拍你的",
+      "onboard_time": 1762511419,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 97952,
@@ -16225,6 +16273,14 @@
       "onboard_time": 1762330401,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94344,
+      "num": 105902,
+      "word": "周深刘宇宁跳了一段爱的华尔兹",
+      "onboard_time": 1762511600,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 94313,
@@ -18179,6 +18235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85864,
+      "num": 85864,
+      "word": "常华森 学霸做什么都精彩",
+      "onboard_time": 1762511482,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85842,
       "num": 85842,
       "word": "陈乔恩婉拒催生",
@@ -18947,6 +19011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81962,
+      "num": 81962,
+      "word": "燕云十六声四大名偷",
+      "onboard_time": 1762512261,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81909,
       "num": 81909,
       "word": "小狗其实那晚我根本没睡着",
@@ -19009,6 +19081,14 @@
       "onboard_time": 1762238839,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81400,
+      "num": 97987,
+      "word": "迪丽热巴帮替身演员整理帽子",
+      "onboard_time": 1762512020,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81382,
@@ -19931,14 +20011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75210,
-      "num": 108583,
-      "word": "惊天魔盗团3 钻石0元购",
-      "onboard_time": 1762510702,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 75054,
       "num": 75054,
       "word": "女子骑错车反将车主小孩赶下",
@@ -19961,6 +20033,14 @@
       "onboard_time": 1762353563,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75007,
+      "num": 80091,
+      "word": "寿司郎在广东收5元服务费",
+      "onboard_time": 1762512261,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74977,
@@ -21153,14 +21233,6 @@
       "onboard_time": 1762048760,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62685,
-      "num": 108475,
-      "word": "孕妈称住酒店牙刷有异物致住院保胎",
-      "onboard_time": 1762511240,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62684,
@@ -23555,6 +23627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26271,
+      "num": 172536,
+      "word": "抽火锅食材抽到了鞋垫",
+      "onboard_time": 1762510042,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26216,
       "num": 634193,
       "word": "第七届中阿广电合作论坛",
@@ -23601,14 +23681,6 @@
       "onboard_time": 1762238060,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25698,
-      "num": 172536,
-      "word": "抽火锅食材抽到了鞋垫",
-      "onboard_time": 1762510042,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 25639,

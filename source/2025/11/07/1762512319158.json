@@ -1,0 +1,410 @@
+{
+  "runTime": 1762512319158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3648101,
+        "num": 3648101,
+        "word": "沙僧扮演者刘大刚病逝",
+        "onboard_time": 1762509500,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 489609,
+        "num": 489609,
+        "word": "粒上皇 烤红薯刺客",
+        "onboard_time": 1762507882,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 4450,
+        "num": 326658,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320135,
+        "num": 320135,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 314535,
+        "num": 314535,
+        "word": "闫怀礼 沙僧",
+        "onboard_time": 1762510940,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 967191,
+        "num": 311105,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294529,
+        "num": 294529,
+        "word": "冒充奶皮子",
+        "onboard_time": 1762506981,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232754,
+        "num": 232754,
+        "word": "檀健次卢昱晓 何不同舟渡",
+        "onboard_time": 1762502660,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219911,
+        "num": 219911,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176980,
+        "num": 176980,
+        "word": "唐朝诡事录 无代餐",
+        "onboard_time": 1762506080,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 704899,
+        "num": 176274,
+        "word": "机器人 性别",
+        "onboard_time": 1762507941,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 476233,
+        "num": 174463,
+        "word": "日掛中天票房倒挂",
+        "onboard_time": 1762503861,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314917,
+        "num": 173532,
+        "word": "装修工人触电身亡婚房变凶宅",
+        "onboard_time": 1762509500,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223344,
+        "num": 172044,
+        "word": "日本扇贝已出口至中国",
+        "onboard_time": 1762503920,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26271,
+        "num": 170391,
+        "word": "抽火锅食材抽到了鞋垫",
+        "onboard_time": 1762510042,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215465,
+        "num": 169314,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "肖战把大黄搂在怀里为她取暖",
+        "onboard_time": 1762505840,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166811,
+        "num": 166811,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 17,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 132226,
+        "num": 164947,
+        "word": "惊天魔盗团3 钻石0元购",
+        "onboard_time": 1762510702,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100004,
+        "num": 162305,
+        "word": "当张雅琪遇到星星人痛车",
+        "onboard_time": 1762510702,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 645357,
+        "num": 159298,
+        "word": "曝某女星采访到一半崩溃大哭",
+        "onboard_time": 1762505900,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321339,
+        "num": 156794,
+        "word": "刘诗诗参加杨紫生日会",
+        "onboard_time": 1762508360,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289204,
+        "num": 156051,
+        "word": "坚持喝煮苹果水身体会发生什么",
+        "onboard_time": 1762506920,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153487,
+        "num": 153487,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762511902,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115099,
+        "num": 152980,
+        "word": "柯淳误伤邵子恒眼睛好自责",
+        "onboard_time": 1762510821,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152871,
+        "num": 152871,
+        "word": "胡连馨是史上最惨穿越女主吧",
+        "onboard_time": 1762509140,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143899,
+        "num": 143899,
+        "word": "新闻女王2黄宗泽面相都变了",
+        "onboard_time": 1762500380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143062,
+        "num": 143062,
+        "word": "罗云熙林允82秒视频对视了12次",
+        "onboard_time": 1762511419,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125790,
+        "num": 137833,
+        "word": "刘诗雯和樊振东打招呼",
+        "onboard_time": 1762510702,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98821,
+        "num": 136086,
+        "word": "医生强调这4小时必须睡觉",
+        "onboard_time": 1762504161,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135870,
+        "num": 135870,
+        "word": "陈睿卸任上海哔哩哔哩科技公司职务",
+        "onboard_time": 1762509800,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110745,
+        "num": 110745,
+        "word": "首饰店老板提醒路边黄金千万别捡",
+        "onboard_time": 1762509861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109325,
+        "num": 109325,
+        "word": "张凌赫不能吃辣又想吃的样子",
+        "onboard_time": 1762510102,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106106,
+        "num": 106106,
+        "word": "饿到什么程度才燃烧脂肪",
+        "onboard_time": 1762510102,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94344,
+        "num": 105902,
+        "word": "周深刘宇宁跳了一段爱的华尔兹",
+        "onboard_time": 1762511600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105860,
+        "num": 105860,
+        "word": "iPhone18Pro系列前瞻",
+        "onboard_time": 1762499300,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99150,
+        "num": 99150,
+        "word": "洗个车把朋友洗的锃光瓦亮",
+        "onboard_time": 1762511722,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98492,
+        "num": 98492,
+        "word": "孕妈称住酒店牙刷有异物致住院保胎",
+        "onboard_time": 1762511240,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98086,
+        "num": 98086,
+        "word": "杨紫生日vlog",
+        "onboard_time": 1762509199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81400,
+        "num": 97987,
+        "word": "迪丽热巴帮替身演员整理帽子",
+        "onboard_time": 1762512020,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97979,
+        "num": 97979,
+        "word": "孙颖莎拍完你的拍你的",
+        "onboard_time": 1762511419,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95718,
+        "num": 95718,
+        "word": "辛芷蕾 为什么给我运作而不是别人呢",
+        "onboard_time": 1762498700,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91807,
+        "num": 91807,
+        "word": "福建舰弹射一架飞机大概需要1分半",
+        "onboard_time": 1762509861,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 86244,
+        "num": 86244,
+        "word": "易烊千玺一共就告过三次状",
+        "onboard_time": 1762506080,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85864,
+        "num": 85864,
+        "word": "常华森 学霸做什么都精彩",
+        "onboard_time": 1762511482,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84651,
+        "num": 84651,
+        "word": "周深 全运会开幕式主题曲",
+        "onboard_time": 1762506139,
+        "rank": 45,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 84016,
+        "num": 84016,
+        "word": "如果所有人都去考研考公考编了",
+        "onboard_time": 1762505900,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81962,
+        "num": 81962,
+        "word": "燕云十六声四大名偷",
+        "onboard_time": 1762512261,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81155,
+        "num": 81155,
+        "word": "原来鼻涕藏在整张脸里",
+        "onboard_time": 1762506860,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75007,
+        "num": 80091,
+        "word": "寿司郎在广东收5元服务费",
+        "onboard_time": 1762512261,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席福建舰入列授旗仪式#"
+    }
+  }
+}
