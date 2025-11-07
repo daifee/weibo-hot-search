@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762498323462,
+  "endTime": 1762500345117,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -48,6 +48,14 @@
       "word": "白百何回应东京电影节争议",
       "onboard_time": 1762425621,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 2881635,
+      "num": 989105,
+      "word": "辛芷蕾6连问",
+      "onboard_time": 1762497680,
+      "rank": 1,
       "category": "电影"
     },
     {
@@ -649,14 +657,6 @@
       "onboard_time": 1761981140,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 910342,
-      "num": 910342,
-      "word": "辛芷蕾6连问",
-      "onboard_time": 1762497680,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 902678,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1762224140,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 644225,
+      "num": 327659,
+      "word": "宁静承认伤害过别人感情",
+      "onboard_time": 1762495280,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 641198,
@@ -2275,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469596,
+      "num": 279507,
+      "word": "日本71岁女子杀害102岁母亲",
+      "onboard_time": 1762495881,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 468652,
       "num": 468652,
       "word": "清瞳人设",
@@ -2427,14 +2443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441496,
-      "num": 327659,
-      "word": "宁静承认伤害过别人感情",
-      "onboard_time": 1762495280,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 440968,
       "num": 379567,
       "word": "献血400ml没事失血400ml很危险",
@@ -2491,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432343,
+      "num": 313309,
+      "word": "全红婵可以接受不跳的代价",
+      "onboard_time": 1762493661,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429845,
       "num": 429845,
       "word": "常华森天地剑心戏份",
@@ -2513,14 +2529,6 @@
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 428040,
-      "num": 279507,
-      "word": "日本71岁女子杀害102岁母亲",
-      "onboard_time": 1762495881,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 427959,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1762385298,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398532,
+      "num": 228101,
+      "word": "在冰箱冷藏一夜的蛋糕",
+      "onboard_time": 1762497560,
+      "rank": 15,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 397058,
@@ -3603,14 +3619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313309,
-      "num": 313309,
-      "word": "全红婵可以接受不跳的代价",
-      "onboard_time": 1762493661,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311661,
       "num": 232382,
       "word": "张柏芝因病中断一路繁花2录制",
@@ -4089,6 +4097,14 @@
       "onboard_time": 1762175602,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 280478,
+      "num": 226753,
+      "word": "辛芷蕾 为什么给我运作而不是别人呢",
+      "onboard_time": 1762498700,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 279929,
@@ -5035,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225042,
+      "num": 225042,
+      "word": "美国付费坐牢",
+      "onboard_time": 1762498820,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225038,
       "num": 225038,
       "word": "明年开始卷谍战了",
@@ -5161,14 +5185,6 @@
       "onboard_time": 1762334782,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219686,
-      "num": 210161,
-      "word": "在冰箱冷藏一夜的蛋糕",
-      "onboard_time": 1762497560,
-      "rank": 15,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 219374,
@@ -6651,6 +6667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182975,
+      "num": 182975,
+      "word": "iPhone18Pro系列前瞻",
+      "onboard_time": 1762499300,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182913,
       "num": 190795,
       "word": "新闻女王2开局11广",
@@ -6748,7 +6772,7 @@
     },
     {
       "raw_hot": 180858,
-      "num": 180858,
+      "num": 239078,
       "word": "柯淳想五年内拿到白玉兰提名",
       "onboard_time": 1762494560,
       "rank": 26,
@@ -7955,6 +7979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159471,
+      "num": 159471,
+      "word": "苏醒 大家的家庭都不要了吗",
+      "onboard_time": 1762498340,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159144,
       "num": 164866,
       "word": "副院长被指与女同事有私情纪检介入",
@@ -8651,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149286,
+      "num": 149286,
+      "word": "隋文静韩聪短节目74.63分",
+      "onboard_time": 1762499840,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149070,
       "num": 149070,
       "word": "神秘富豪3.65亿捡漏深圳豪宅",
@@ -8940,7 +8980,7 @@
     },
     {
       "raw_hot": 146074,
-      "num": 209637,
+      "num": 1005385,
       "word": "三航母时代来临",
       "onboard_time": 1762492401,
       "rank": 19,
@@ -9289,6 +9329,14 @@
       "onboard_time": 1762175602,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141285,
+      "num": 141285,
+      "word": "恋与深空冬日娃",
+      "onboard_time": 1762498880,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 141151,
@@ -9883,6 +9931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "曝内娱艺人采访都要审核提纲",
+      "onboard_time": 1762498820,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136060,
       "num": 136060,
       "word": "易烊千玺狂野时代五个角色",
@@ -10025,6 +10081,14 @@
       "onboard_time": 1762409901,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134409,
+      "num": 134409,
+      "word": "经超拉李琳的手李茂拉自己的手",
+      "onboard_time": 1762498820,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 134389,
@@ -10841,6 +10905,14 @@
       "onboard_time": 1762042159,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126657,
+      "num": 126657,
+      "word": "日本熊袭人有明显吃人痕迹",
+      "onboard_time": 1762499480,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 126503,
@@ -13395,6 +13467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106993,
+      "num": 106993,
+      "word": "微信被曝探索多台手机登录同一账号",
+      "onboard_time": 1762499840,
+      "rank": 37,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 106961,
       "num": 188443,
       "word": "餐馆售卖现杀猫肉每份80元",
@@ -13737,6 +13817,14 @@
       "onboard_time": 1762179684,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104372,
+      "num": 141411,
+      "word": "LCK包揽LOL战力榜前四",
+      "onboard_time": 1762499480,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 104367,
@@ -14625,6 +14713,14 @@
       "onboard_time": 1762245022,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99759,
+      "num": 99759,
+      "word": "特朗普官宣降价减肥药企高管当场晕倒",
+      "onboard_time": 1762500020,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99650,
@@ -16595,6 +16691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 90286,
+      "num": 90286,
+      "word": "比亚迪将坚持磷酸铁锂电池路线",
+      "onboard_time": 1762499420,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "山东省考",
@@ -16793,6 +16897,14 @@
       "onboard_time": 1761922284,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89405,
+      "num": 89405,
+      "word": "胡彦斌看再见爱人直呼超纲了",
+      "onboard_time": 1762500260,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 89305,
@@ -17451,6 +17563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86309,
+      "num": 86309,
+      "word": "叠纸 价格",
+      "onboard_time": 1762498520,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86288,
       "num": 86288,
       "word": "马斯克万亿美元薪酬方案下周表决",
@@ -17595,6 +17715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85612,
+      "num": 85612,
+      "word": "偶遇秦昊在健身房干饭",
+      "onboard_time": 1762499779,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85584,
       "num": 85584,
       "word": "它怎么睡成一张猫饼了",
@@ -17609,6 +17737,14 @@
       "onboard_time": 1762220119,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85568,
+      "num": 85568,
+      "word": "张艺兴还在穿十年前的衣服",
+      "onboard_time": 1762499420,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 85520,
@@ -17761,6 +17897,14 @@
       "onboard_time": 1762393280,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84648,
+      "num": 84648,
+      "word": "长安二十四计",
+      "onboard_time": 1762499539,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84616,
@@ -18969,6 +19113,14 @@
       "onboard_time": 1762441883,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77094,
+      "num": 201908,
+      "word": "今年立冬宜大补",
+      "onboard_time": 1762499300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77025,
@@ -21403,6 +21555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47972,
+      "num": 225348,
+      "word": "看碳水人如何劲养碳水魂",
+      "onboard_time": 1762499240,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 47361,
       "num": 111857,
       "word": "美方称美军机连掉两架并非巧合",
@@ -22907,6 +23067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23669,
+      "num": 827531,
+      "word": "青知讲说人",
+      "onboard_time": 1762489701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23482,
       "num": 117264,
       "word": "蓉城提前一轮无缘争冠",
@@ -22961,14 +23129,6 @@
       "onboard_time": 1762412662,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 22558,
-      "num": 827531,
-      "word": "青知讲说人",
-      "onboard_time": 1762489701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22552,
@@ -23081,6 +23241,14 @@
       "onboard_time": 1762433543,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20624,
+      "num": 174777,
+      "word": "喜欢泡泡玛特不是做冤大头",
+      "onboard_time": 1762500080,
+      "rank": 23,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 20453,

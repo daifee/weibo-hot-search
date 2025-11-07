@@ -1,0 +1,410 @@
+{
+  "runTime": 1762500345117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 33660,
+        "num": 1005385,
+        "word": "三航母时代来临",
+        "onboard_time": 1762492401,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2881635,
+        "num": 989105,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23669,
+        "num": 524682,
+        "word": "青知讲说人",
+        "onboard_time": 1762489701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306069,
+        "num": 306069,
+        "word": "福建舰入列画面",
+        "onboard_time": 1762493841,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 248339,
+        "num": 248339,
+        "word": "papi酱一句话戳破何美延的自我感动",
+        "onboard_time": 1762490902,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240306,
+        "num": 240306,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180847,
+        "num": 239078,
+        "word": "柯淳想五年内拿到白玉兰提名",
+        "onboard_time": 1762494560,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144704,
+        "num": 238301,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141349,
+        "num": 237145,
+        "word": "我国首艘电磁弹射型航母入列",
+        "onboard_time": 1762492101,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127060,
+        "num": 235258,
+        "word": "歼35歼15T空警600福建舰舰载机",
+        "onboard_time": 1762493602,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 644225,
+        "num": 233489,
+        "word": "宁静承认伤害过别人感情",
+        "onboard_time": 1762495280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469596,
+        "num": 232054,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432343,
+        "num": 231806,
+        "word": "全红婵可以接受不跳的代价",
+        "onboard_time": 1762493661,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423211,
+        "num": 229631,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 13,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 398532,
+        "num": 228101,
+        "word": "在冰箱冷藏一夜的蛋糕",
+        "onboard_time": 1762497560,
+        "rank": 14,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 280478,
+        "num": 226753,
+        "word": "辛芷蕾 为什么给我运作而不是别人呢",
+        "onboard_time": 1762498700,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47972,
+        "num": 225348,
+        "word": "看碳水人如何劲养碳水魂",
+        "onboard_time": 1762499240,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 225042,
+        "num": 225042,
+        "word": "美国付费坐牢",
+        "onboard_time": 1762498820,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149603,
+        "num": 202393,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762494499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77094,
+        "num": 201908,
+        "word": "今年立冬宜大补",
+        "onboard_time": 1762499300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201564,
+        "num": 201564,
+        "word": "网红阿可靠炒股18岁赚到第一个百万",
+        "onboard_time": 1762493602,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182975,
+        "num": 182975,
+        "word": "iPhone18Pro系列前瞻",
+        "onboard_time": 1762499300,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177130,
+        "num": 177130,
+        "word": "全运会跳水再次出现0分",
+        "onboard_time": 1762496899,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20624,
+        "num": 174777,
+        "word": "喜欢泡泡玛特不是做冤大头",
+        "onboard_time": 1762500080,
+        "rank": 23,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 174714,
+        "num": 174714,
+        "word": "陈松伶张铎没有办婚礼",
+        "onboard_time": 1762496960,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166952,
+        "num": 166952,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 25,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 159471,
+        "num": 159471,
+        "word": "苏醒 大家的家庭都不要了吗",
+        "onboard_time": 1762498340,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "Faker在第六冠与女友结婚之间选择夺冠",
+        "onboard_time": 1762494800,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 149286,
+        "word": "隋文静韩聪短节目74.63分",
+        "onboard_time": 1762499840,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 141834,
+        "word": "张柏芝因病中断一路繁花2录制",
+        "onboard_time": 1762491921,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104372,
+        "num": 141411,
+        "word": "LCK包揽LOL战力榜前四",
+        "onboard_time": 1762499480,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141285,
+        "num": 141285,
+        "word": "恋与深空冬日娃",
+        "onboard_time": 1762498880,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "曝内娱艺人采访都要审核提纲",
+        "onboard_time": 1762498820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134409,
+        "num": 134409,
+        "word": "经超拉李琳的手李茂拉自己的手",
+        "onboard_time": 1762498820,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90125,
+        "num": 129881,
+        "word": "刘嘉玲 你拍王家卫不用担心灯光",
+        "onboard_time": 1762489762,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437383,
+        "num": 128325,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 35,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 126657,
+        "num": 126657,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106993,
+        "num": 106993,
+        "word": "微信被曝探索多台手机登录同一账号",
+        "onboard_time": 1762499840,
+        "rank": 37,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 99759,
+        "num": 99759,
+        "word": "特朗普官宣降价减肥药企高管当场晕倒",
+        "onboard_time": 1762500020,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103663,
+        "num": 97591,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90286,
+        "num": 90286,
+        "word": "比亚迪将坚持磷酸铁锂电池路线",
+        "onboard_time": 1762499420,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89405,
+        "num": 89405,
+        "word": "胡彦斌看再见爱人直呼超纲了",
+        "onboard_time": 1762500260,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40277,
+        "num": 87850,
+        "word": "张韶涵新歌昔涟",
+        "onboard_time": 1762495581,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87171,
+        "num": 87171,
+        "word": "Angelababy直播素颜状态",
+        "onboard_time": 1762487540,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86309,
+        "num": 86309,
+        "word": "叠纸 价格",
+        "onboard_time": 1762498520,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85710,
+        "num": 85710,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1762496480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85612,
+        "num": 85612,
+        "word": "偶遇秦昊在健身房干饭",
+        "onboard_time": 1762499779,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85568,
+        "num": 85568,
+        "word": "张艺兴还在穿十年前的衣服",
+        "onboard_time": 1762499420,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83399,
+        "num": 85015,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84648,
+        "num": 84648,
+        "word": "长安二十四计",
+        "onboard_time": 1762499539,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
+    }
+  }
+}
