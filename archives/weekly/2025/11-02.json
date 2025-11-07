@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762529265499,
+  "endTime": 1762530128678,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -691,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 846513,
+      "num": 1135442,
+      "word": "天选谢景行沈娇娇",
+      "onboard_time": 1762527142,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835613,
       "num": 196442,
       "word": "收到了去世朋友7年前的邮件",
@@ -913,14 +921,6 @@
       "onboard_time": 1762169241,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 730897,
-      "num": 730897,
-      "word": "天选谢景行沈娇娇",
-      "onboard_time": 1762527142,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 725006,
@@ -2675,6 +2675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389492,
+      "num": 208499,
+      "word": "梅婷最讨厌的演员行为",
+      "onboard_time": 1762524141,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388092,
       "num": 205828,
       "word": "蒲熠星买了芒果股票",
@@ -3867,14 +3875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281994,
-      "num": 208499,
-      "word": "梅婷最讨厌的演员行为",
-      "onboard_time": 1762524141,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281685,
       "num": 281685,
       "word": "全红婵赛后采访差点哭了",
@@ -3929,6 +3929,14 @@
       "onboard_time": 1762255102,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277229,
+      "num": 205403,
+      "word": "30岁小伙长期熬夜智力退回3岁",
+      "onboard_time": 1762525881,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275934,
@@ -4145,6 +4153,14 @@
       "onboard_time": 1762092443,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 260426,
+      "num": 220168,
+      "word": "再见爱人5保险事变",
+      "onboard_time": 1762526543,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 260108,
@@ -4715,14 +4731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224510,
-      "num": 220168,
-      "word": "再见爱人5保险事变",
-      "onboard_time": 1762526543,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224222,
       "num": 224222,
       "word": "周深 全运会开幕式主题曲",
@@ -4928,14 +4936,6 @@
       "word": "广州地铁回应APP乘车码频繁弹窗广告",
       "onboard_time": 1762143621,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215399,
-      "num": 205403,
-      "word": "30岁小伙长期熬夜智力退回3岁",
-      "onboard_time": 1762525881,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5225,6 +5225,14 @@
       "onboard_time": 1762079481,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205686,
+      "num": 177517,
+      "word": "四喜37分钟收视率破3",
+      "onboard_time": 1762528761,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 205605,
@@ -6091,6 +6099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184706,
+      "num": 174988,
+      "word": "谭凯回复",
+      "onboard_time": 1762529061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184490,
       "num": 184490,
       "word": "高度近视改善眼凸的方法",
@@ -6193,6 +6209,14 @@
       "onboard_time": 1762139840,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181513,
+      "num": 212934,
+      "word": "iPhone18系列10大升级",
+      "onboard_time": 1762523302,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 181455,
@@ -6529,14 +6553,6 @@
       "onboard_time": 1762491381,
       "rank": 35,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 173048,
-      "num": 173048,
-      "word": "四喜37分钟收视率破3",
-      "onboard_time": 1762528761,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 172932,
@@ -7915,14 +7931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148763,
-      "num": 212934,
-      "word": "iPhone18系列10大升级",
-      "onboard_time": 1762523302,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 148703,
       "num": 148703,
       "word": "张凌赫不能吃辣又想吃的样子",
@@ -9019,6 +9027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135275,
+      "num": 135275,
+      "word": "婚后三年不孕女子查出男性染色体",
+      "onboard_time": 1762528102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135029,
       "num": 135029,
       "word": "国际金价再现断崖式下跌",
@@ -9332,7 +9348,7 @@
     },
     {
       "raw_hot": 131895,
-      "num": 147172,
+      "num": 164826,
       "word": "中国核力量同美俄不在一个量级",
       "onboard_time": 1762525701,
       "rank": 35,
@@ -10401,14 +10417,6 @@
       "onboard_time": 1762345521,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121943,
-      "num": 121943,
-      "word": "谭凯回复",
-      "onboard_time": 1762529061,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 121917,
@@ -12011,6 +12019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108943,
+      "num": 108943,
+      "word": "周深中国唱将舞台",
+      "onboard_time": 1762528881,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108784,
       "num": 131885,
       "word": "天地剑心",
@@ -12065,6 +12081,14 @@
       "onboard_time": 1762049119,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108519,
+      "num": 161506,
+      "word": "必胜客要被卖了",
+      "onboard_time": 1762529300,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 108498,
@@ -13139,6 +13163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101973,
+      "num": 95265,
+      "word": "这位HR这是央妈音综不是公司年会",
+      "onboard_time": 1762529602,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101968,
       "num": 101968,
       "word": "拔车钥匙人员为当值副校长",
@@ -13507,6 +13539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99499,
+      "num": 106924,
+      "word": "钟睒睒771亿美元身家登顶内地富豪榜",
+      "onboard_time": 1762529061,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99355,
       "num": 99355,
       "word": "朱开爆料FPX退出LPL",
@@ -13793,14 +13833,6 @@
       "onboard_time": 1762357759,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98079,
-      "num": 98079,
-      "word": "周深中国唱将舞台",
-      "onboard_time": 1762528881,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 98058,
@@ -15107,14 +15139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91543,
-      "num": 106924,
-      "word": "钟睒睒771亿美元身家登顶内地富豪榜",
-      "onboard_time": 1762529061,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 91537,
       "num": 91537,
       "word": "弥补了埃及没有中国人当法老的遗憾",
@@ -15755,14 +15779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88216,
-      "num": 106609,
-      "word": "婚后三年不孕女子查出男性染色体",
-      "onboard_time": 1762528102,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88173,
       "num": 88173,
       "word": "小猫是晚到的宾客",
@@ -15801,6 +15817,14 @@
       "onboard_time": 1762302261,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87985,
+      "num": 87985,
+      "word": "何浩楠演唱会变成求婚现场",
+      "onboard_time": 1762529541,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 87908,
@@ -18057,6 +18081,14 @@
       "onboard_time": 1762038197,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73297,
+      "num": 78009,
+      "word": "张本智和止步十六强",
+      "onboard_time": 1762528822,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73272,
@@ -20611,6 +20643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34012,
+      "num": 106610,
+      "word": "徐艺真辟谣日赚200万",
+      "onboard_time": 1762528942,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33832,
       "num": 50982,
       "word": "美股三大指数集体拉升",
@@ -21299,14 +21339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22980,
-      "num": 106610,
-      "word": "徐艺真辟谣日赚200万",
-      "onboard_time": 1762528942,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22965,
       "num": 139035,
       "word": "学校通报多名学生头晕呕吐",
@@ -21883,7 +21915,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4478,
+      "raw_hot": 5141,
       "num": 771349,
       "word": "全运会你最想看哪项比赛",
       "onboard_time": 1762449317,
