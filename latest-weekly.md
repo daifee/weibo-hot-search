@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 01:24:04
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 01:40:46
 </p>
 </blockquote>
 <p>
@@ -2199,6 +2199,12 @@ T1严正声明（热度：379722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%23" target="weibo">
+格莱美（热度：367932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%86%AF%E5%BE%B7%E4%BC%A6%E7%9C%9F%E5%A4%AB%E5%A6%BB%E5%B0%B1%E6%98%AF%E5%A5%BD%E5%97%91%23" target="weibo">
 舒淇冯德伦真夫妻就是好嗑（热度：367112）
 </a>
@@ -2619,12 +2625,6 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%23" target="weibo">
-格莱美（热度：314769）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%80%80%E7%A4%BC%20%E6%B2%99%E5%83%A7%23" target="weibo">
 闫怀礼 沙僧（热度：314535）
 </a>
@@ -2657,6 +2657,12 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%88%B4%E5%86%B7%E5%B8%BDvs%E6%9D%8E%E8%AF%9E%E6%88%B4%E5%86%B7%E5%B8%BD%23" target="weibo">
 王安宇戴冷帽vs李诞戴冷帽（热度：310115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：310099）
 </a>
 </li>
 
@@ -3263,12 +3269,6 @@ DRG早点 回家吧（热度：256453）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%83%A4%E9%B8%A1%E7%BF%85%23" target="weibo">
 中国航天员太空烤鸡翅（热度：253021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：253001）
 </a>
 </li>
 
