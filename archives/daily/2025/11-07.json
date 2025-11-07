@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762486401567,
+  "endTime": 1762487874758,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -27,12 +27,20 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 1163060,
+      "raw_hot": 1458796,
       "num": 1186089,
       "word": "双轨",
       "onboard_time": 1762484240,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1310921,
+      "num": 1310921,
+      "word": "泡泡玛特大跌",
+      "onboard_time": 1762485260,
+      "rank": 26,
+      "category": "财经,休闲"
     },
     {
       "raw_hot": 897658,
@@ -43,8 +51,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 647233,
-      "num": 647233,
+      "raw_hot": 700188,
+      "num": 700188,
       "word": "央妈音综出手就是国家队顶配",
       "onboard_time": 1762483580,
       "rank": 6,
@@ -123,6 +131,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 442766,
+      "num": 207400,
+      "word": "网红尿毒症夫妇丈夫离世",
+      "onboard_time": 1762484599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410887,
       "num": 410887,
       "word": "英国国王正式剥夺安德鲁王子头衔",
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329943,
-      "num": 207400,
-      "word": "网红尿毒症夫妇丈夫离世",
-      "onboard_time": 1762484599,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 327683,
+      "num": 168699,
+      "word": "孙乐言来了也分不清奥斯卡冯程朗",
+      "onboard_time": 1762487060,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 309678,
@@ -211,20 +227,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298282,
+      "num": 190135,
+      "word": "孟子义沈娇娇对比图",
+      "onboard_time": 1762483099,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289898,
       "num": 289898,
       "word": "10亿播放量歌手上音综被淘汰",
       "onboard_time": 1762471098,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276905,
-      "num": 207266,
-      "word": "泡泡玛特大跌",
-      "onboard_time": 1762485260,
-      "rank": 26,
-      "category": "财经,休闲"
     },
     {
       "raw_hot": 271651,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210238,
+      "num": 128861,
+      "word": "入冬仪式感是立冬四件套给的",
+      "onboard_time": 1762487240,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197082,
       "num": 153834,
       "word": "全红婵回应以后是否跳水",
@@ -296,14 +320,6 @@
       "word": "山河枕新浪扫楼",
       "onboard_time": 1762483819,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 191877,
-      "num": 190135,
-      "word": "孟子义沈娇娇对比图",
-      "onboard_time": 1762483099,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1762434861,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163977,
+      "num": 163977,
+      "word": "Angelababy直播素颜状态",
+      "onboard_time": 1762487540,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 163590,
@@ -459,12 +483,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134827,
+      "num": 134827,
+      "word": "杜若溪为和严屹宽拍戏放弃女一号",
+      "onboard_time": 1762485859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133598,
       "num": 133598,
       "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
       "onboard_time": 1762476801,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132173,
+      "num": 132173,
+      "word": "疯狂动物城",
+      "onboard_time": 1762486161,
+      "rank": 46,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 128649,
+      "num": 128649,
+      "word": "日本熊害已致至少12死",
+      "onboard_time": 1762487601,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125685,
+      "num": 125685,
+      "word": "罗小黑金门滑雪没有雪橇犬受到伤害",
+      "onboard_time": 1762487240,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 125144,
@@ -475,6 +531,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123990,
+      "num": 123990,
+      "word": "泡泡玛特紧急调查直播事故",
+      "onboard_time": 1762483880,
+      "rank": 35,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 123411,
+      "num": 130264,
+      "word": "日本决定允许警察射杀熊",
+      "onboard_time": 1762487420,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 119449,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "老师我家田曦薇不能露秋裤吗",
@@ -483,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114302,
+      "num": 114302,
+      "word": "王者荣耀局内语音 兄弟们",
+      "onboard_time": 1762486460,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113064,
       "num": 113064,
       "word": "俄乌激战红军城",
       "onboard_time": 1762485680,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112115,
+      "num": 112115,
+      "word": "就说爆改还珠格格会出大事吧",
+      "onboard_time": 1762487360,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 111702,
@@ -515,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110416,
+      "num": 110416,
+      "word": "消费者不至于花钱还被人上课",
+      "onboard_time": 1762487300,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 108485,
       "num": 108484,
       "word": "泡泡玛特直播事故员工被处理",
@@ -531,36 +635,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105991,
-      "num": 105991,
-      "word": "GTA6再次延期",
-      "onboard_time": 1762476260,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 105727,
-      "num": 105727,
+      "raw_hot": 106215,
+      "num": 106215,
       "word": "马斯克就万亿美元薪酬获批发声",
       "onboard_time": 1762483279,
       "rank": 36,
       "category": "互联网,海外新闻"
     },
     {
-      "raw_hot": 105104,
-      "num": 105104,
-      "word": "中国代表表示遗憾",
-      "onboard_time": 1762485260,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 101088,
-      "num": 101088,
-      "word": "疯狂动物城",
-      "onboard_time": 1762486161,
-      "rank": 46,
-      "category": "电影,动漫"
+      "raw_hot": 105991,
+      "num": 105991,
+      "word": "GTA6再次延期",
+      "onboard_time": 1762476260,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 100707,
@@ -593,6 +681,14 @@
       "onboard_time": 1762479619,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98343,
+      "num": 104898,
+      "word": "茶叶蛋是很牛的食物",
+      "onboard_time": 1762487660,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 98302,
@@ -697,6 +793,14 @@
       "onboard_time": 1762485140,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84521,
+      "num": 128883,
+      "word": "康熙不可能是洪承畴的儿子",
+      "onboard_time": 1762487780,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 82944,
@@ -835,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63349,
+      "num": 169461,
+      "word": "立冬第一顿我被外卖请客了",
+      "onboard_time": 1762486519,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63062,
       "num": 105362,
       "word": "鞠婧祎 异域公主",
@@ -849,6 +961,14 @@
       "onboard_time": 1762443381,
       "rank": 31,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 61705,
+      "num": 165756,
+      "word": "网传泡泡玛特涉事直播人员被开除不实",
+      "onboard_time": 1762487001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61394,
@@ -881,6 +1001,14 @@
       "onboard_time": 1762442720,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57271,
+      "num": 116694,
+      "word": "79是个坎",
+      "onboard_time": 1762487540,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56685,
@@ -1001,14 +1129,6 @@
       "onboard_time": 1762419442,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41899,
-      "num": 108486,
-      "word": "杜若溪为和严屹宽拍戏放弃女一号",
-      "onboard_time": 1762485859,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 40955,
@@ -1164,7 +1284,7 @@
     },
     {
       "raw_hot": 12452,
-      "num": 207336,
+      "num": 709487,
       "word": "2025世界互联网大会乌镇峰会",
       "onboard_time": 1762422681,
       "rank": 15,

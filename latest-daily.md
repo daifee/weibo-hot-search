@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 11:33:21
+本榜单时间：2025/11/07 00:35:49 ~ 2025/11/07 11:57:54
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%BD%A8%23" target="weibo">
-双轨（热度：1163060）
+双轨（热度：1458796）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%A4%A7%E8%B7%8C%23" target="weibo">
+泡泡玛特大跌（热度：1310921）
 </a>
 </li>
 
@@ -46,7 +52,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%A6%88%E9%9F%B3%E7%BB%BC%E5%87%BA%E6%89%8B%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A1%B6%E9%85%8D%23" target="weibo">
-央妈音综出手就是国家队顶配（热度：647233）
+央妈音综出手就是国家队顶配（热度：700188）
 </a>
 </li>
 
@@ -105,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
+网红尿毒症夫妇丈夫离世（热度：442766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E6%AD%A3%E5%BC%8F%E5%89%A5%E5%A4%BA%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E5%A4%B4%E8%A1%94%23" target="weibo">
 英国国王正式剥夺安德鲁王子头衔（热度：410887）
 </a>
@@ -153,8 +165,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
-网红尿毒症夫妇丈夫离世（热度：329943）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%E6%9D%A5%E4%BA%86%E4%B9%9F%E5%88%86%E4%B8%8D%E6%B8%85%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%86%AF%E7%A8%8B%E6%9C%97%23" target="weibo">
+孙乐言来了也分不清奥斯卡冯程朗（热度：327683）
 </a>
 </li>
 
@@ -171,14 +183,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E6%AD%8C%E6%89%8B%E4%B8%8A%E9%9F%B3%E7%BB%BC%E8%A2%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
-10亿播放量歌手上音综被淘汰（热度：289898）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B2%88%E5%A8%87%E5%A8%87%E5%AF%B9%E6%AF%94%E5%9B%BE%23" target="weibo">
+孟子义沈娇娇对比图（热度：298282）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%A4%A7%E8%B7%8C%23" target="weibo">
-泡泡玛特大跌（热度：276905）
+<a href="https://s.weibo.com/weibo?q=%2310%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E6%AD%8C%E6%89%8B%E4%B8%8A%E9%9F%B3%E7%BB%BC%E8%A2%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
+10亿播放量歌手上音综被淘汰（热度：289898）
 </a>
 </li>
 
@@ -225,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%98%AF%E7%AB%8B%E5%86%AC%E5%9B%9B%E4%BB%B6%E5%A5%97%E7%BB%99%E7%9A%84%23" target="weibo">
+入冬仪式感是立冬四件套给的（热度：210238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E4%BB%A5%E5%90%8E%E6%98%AF%E5%90%A6%E8%B7%B3%E6%B0%B4%23" target="weibo">
 全红婵回应以后是否跳水（热度：197082）
 </a>
@@ -233,12 +251,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E6%9E%95%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23" target="weibo">
 山河枕新浪扫楼（热度：195437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B2%88%E5%A8%87%E5%A8%87%E5%AF%B9%E6%AF%94%E5%9B%BE%23" target="weibo">
-孟子义沈娇娇对比图（热度：191877）
 </a>
 </li>
 
@@ -281,6 +293,12 @@ Faker自拍配文成都（热度：175595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C2%E9%98%B5%E5%AE%B9%23" target="weibo">
 网传雪中悍刀行2阵容（热度：164200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%9B%B4%E6%92%AD%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23" target="weibo">
+Angelababy直播素颜状态（热度：163977）
 </a>
 </li>
 
@@ -357,8 +375,32 @@ Faker自拍配文成都（热度：175595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%A5%E6%BA%AA%E4%B8%BA%E5%92%8C%E4%B8%A5%E5%B1%B9%E5%AE%BD%E6%8B%8D%E6%88%8F%E6%94%BE%E5%BC%83%E5%A5%B3%E4%B8%80%E5%8F%B7%23" target="weibo">
+杜若溪为和严屹宽拍戏放弃女一号（热度：134827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%96%82%E9%BB%84%E6%99%AF%E7%91%9C%E7%9A%84%E6%97%B6%E5%80%99%E5%8F%AF%E6%98%AF%E8%A2%AB%E6%8B%92%E7%BB%9D%E4%BA%86%23" target="weibo">
 陈伟霆喂黄景瑜的时候可是被拒绝了（热度：133598）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
+疯狂动物城（热度：132173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E5%AE%B3%E5%B7%B2%E8%87%B4%E8%87%B3%E5%B0%9112%E6%AD%BB%23" target="weibo">
+日本熊害已致至少12死（热度：128649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%E9%87%91%E9%97%A8%E6%BB%91%E9%9B%AA%E6%B2%A1%E6%9C%89%E9%9B%AA%E6%A9%87%E7%8A%AC%E5%8F%97%E5%88%B0%E4%BC%A4%E5%AE%B3%23" target="weibo">
+罗小黑金门滑雪没有雪橇犬受到伤害（热度：125685）
 </a>
 </li>
 
@@ -369,14 +411,44 @@ Faker自拍配文成都（热度：175595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%B4%A7%E6%80%A5%E8%B0%83%E6%9F%A5%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%23" target="weibo">
+泡泡玛特紧急调查直播事故（热度：123990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%B3%E5%AE%9A%E5%85%81%E8%AE%B8%E8%AD%A6%E5%AF%9F%E5%B0%84%E6%9D%80%E7%86%8A%23" target="weibo">
+日本决定允许警察射杀熊（热度：123411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E8%A1%A8%E7%A4%BA%E9%81%97%E6%86%BE%23" target="weibo">
+中国代表表示遗憾（热度：119449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E5%AE%B6%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E8%83%BD%E9%9C%B2%E7%A7%8B%E8%A3%A4%E5%90%97%23" target="weibo">
 老师我家田曦薇不能露秋裤吗（热度：119328）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B1%80%E5%86%85%E8%AF%AD%E9%9F%B3%20%E5%85%84%E5%BC%9F%E4%BB%AC%23" target="weibo">
+王者荣耀局内语音 兄弟们（热度：114302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E6%BF%80%E6%88%98%E7%BA%A2%E5%86%9B%E5%9F%8E%23" target="weibo">
 俄乌激战红军城（热度：113064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B1%E8%AF%B4%E7%88%86%E6%94%B9%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E4%BC%9A%E5%87%BA%E5%A4%A7%E4%BA%8B%E5%90%A7%23" target="weibo">
+就说爆改还珠格格会出大事吧（热度：112115）
 </a>
 </li>
 
@@ -399,6 +471,12 @@ Faker自拍配文成都（热度：175595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%8D%E8%87%B3%E4%BA%8E%E8%8A%B1%E9%92%B1%E8%BF%98%E8%A2%AB%E4%BA%BA%E4%B8%8A%E8%AF%BE%23" target="weibo">
+消费者不至于花钱还被人上课（热度：110416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%E5%91%98%E5%B7%A5%E8%A2%AB%E5%A4%84%E7%90%86%23" target="weibo">
 泡泡玛特直播事故员工被处理（热度：108485）
 </a>
@@ -411,26 +489,14 @@ Faker自拍配文成都（热度：175595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%B1%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E8%8E%B7%E6%89%B9%E5%8F%91%E5%A3%B0%23" target="weibo">
+马斯克就万亿美元薪酬获批发声（热度：106215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GTA6%E5%86%8D%E6%AC%A1%E5%BB%B6%E6%9C%9F%23" target="weibo">
 GTA6再次延期（热度：105991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%B1%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E8%8E%B7%E6%89%B9%E5%8F%91%E5%A3%B0%23" target="weibo">
-马斯克就万亿美元薪酬获批发声（热度：105727）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E8%A1%A8%E7%A4%BA%E9%81%97%E6%86%BE%23" target="weibo">
-中国代表表示遗憾（热度：105104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
-疯狂动物城（热度：101088）
 </a>
 </li>
 
@@ -455,6 +521,12 @@ GTA6再次延期（热度：105991）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E7%BF%BB%E8%BD%A6%E4%BA%8B%E6%95%85%23" target="weibo">
 泡泡玛特客服回应直播间翻车事故（热度：98392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E5%8F%B6%E8%9B%8B%E6%98%AF%E5%BE%88%E7%89%9B%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
+茶叶蛋是很牛的食物（热度：98343）
 </a>
 </li>
 
@@ -533,6 +605,12 @@ tarzan说带孩子打卡乐园（热度：89986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%20%E5%A6%88%E5%AE%9D%E7%94%B7%E5%B0%B1%E6%98%AF%E5%BD%A2%E5%AE%B9%E6%88%91%E7%9A%84%23" target="weibo">
 沙溢 妈宝男就是形容我的（热度：84702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E7%86%99%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B4%AA%E6%89%BF%E7%95%B4%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
+康熙不可能是洪承畴的儿子（热度：84521）
 </a>
 </li>
 
@@ -639,6 +717,12 @@ tarzan说带孩子打卡乐园（热度：89986）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%88%91%E8%A2%AB%E5%A4%96%E5%8D%96%E8%AF%B7%E5%AE%A2%E4%BA%86%23" target="weibo">
+立冬第一顿我被外卖请客了（热度：63349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%BC%82%E5%9F%9F%E5%85%AC%E4%B8%BB%23" target="weibo">
 鞠婧祎 异域公主（热度：63062）
 </a>
@@ -647,6 +731,12 @@ tarzan说带孩子打卡乐园（热度：89986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E6%9B%BE%E4%BB%A3%E8%A8%80%E7%9A%84%E8%B6%B3%E5%8A%9B%E5%81%A5%E6%B6%89%E5%A4%9A%E8%B5%B7%E7%BA%A0%E7%BA%B7%23" target="weibo">
 张凯丽曾代言的足力健涉多起纠纷（热度：62825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%B6%89%E4%BA%8B%E7%9B%B4%E6%92%AD%E4%BA%BA%E5%91%98%E8%A2%AB%E5%BC%80%E9%99%A4%E4%B8%8D%E5%AE%9E%23" target="weibo">
+网传泡泡玛特涉事直播人员被开除不实（热度：61705）
 </a>
 </li>
 
@@ -671,6 +761,12 @@ tarzan说带孩子打卡乐园（热度：89986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E7%BB%AD%E4%BD%9C%E8%99%8E%E6%9D%96%E6%82%A0%E4%BB%81%E5%9B%9E%E5%BD%92%23" target="weibo">
 咒术回战续作虎杖悠仁回归（热度：57899）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2379%E6%98%AF%E4%B8%AA%E5%9D%8E%23" target="weibo">
+79是个坎（热度：57271）
 </a>
 </li>
 
@@ -761,12 +857,6 @@ tarzan说带孩子打卡乐园（热度：89986）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E6%B2%88%E5%A6%99%23" target="weibo">
 孟子义 沈妙（热度：42942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%A5%E6%BA%AA%E4%B8%BA%E5%92%8C%E4%B8%A5%E5%B1%B9%E5%AE%BD%E6%8B%8D%E6%88%8F%E6%94%BE%E5%BC%83%E5%A5%B3%E4%B8%80%E5%8F%B7%23" target="weibo">
-杜若溪为和严屹宽拍戏放弃女一号（热度：41899）
 </a>
 </li>
 
