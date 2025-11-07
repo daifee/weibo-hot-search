@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 04:40:12
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 05:21:08
 </p>
 </blockquote>
 <p>
@@ -249,6 +249,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：85012）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E7%9D%92%E7%9D%92771%E4%BA%BF%E7%BE%8E%E5%85%83%E8%BA%AB%E5%AE%B6%E7%99%BB%E9%A1%B6%E5%86%85%E5%9C%B0%E5%AF%8C%E8%B1%AA%E6%A6%9C%23" target="weibo">
 钟睒睒771亿美元身家登顶内地富豪榜（热度：83397）
 </a>
@@ -269,12 +275,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E5%A4%B8%E5%AE%8C%E4%BD%A0%E7%9A%84%E5%A4%B8%E4%BD%A0%E7%9A%84%23" target="weibo">
 陈奕迅 夸完你的夸你的（热度：76120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：74449）
 </a>
 </li>
 
@@ -417,14 +417,14 @@ CV吴磊声明回应起诉（热度：17952）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
-蔡徐坤新歌上线时间（热度：15196）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
+特朗普改口承认美国民众在为关税买单（热度：17312）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
-特朗普改口承认美国民众在为关税买单（热度：11846）
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
+蔡徐坤新歌上线时间（热度：15196）
 </a>
 </li>
 
