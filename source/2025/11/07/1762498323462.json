@@ -1,0 +1,410 @@
+{
+  "runTime": 1762498323462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 365633,
+        "num": 1058501,
+        "word": "福建舰入列画面",
+        "onboard_time": 1762493841,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 910342,
+        "num": 910342,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19200,
+        "num": 754040,
+        "word": "青知讲说人",
+        "onboard_time": 1762489701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713120,
+        "num": 713120,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 3,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 471379,
+        "num": 471379,
+        "word": "papi酱一句话戳破何美延的自我感动",
+        "onboard_time": 1762490902,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348795,
+        "num": 348795,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 441496,
+        "num": 327659,
+        "word": "宁静承认伤害过别人感情",
+        "onboard_time": 1762495280,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280311,
+        "num": 280311,
+        "word": "全红婵可以接受不跳的代价",
+        "onboard_time": 1762493661,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256557,
+        "num": 256557,
+        "word": "我国首艘电磁弹射型航母入列",
+        "onboard_time": 1762492101,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 218364,
+        "num": 218364,
+        "word": "福建舰官宣",
+        "onboard_time": 1762492640,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 730705,
+        "num": 218184,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 10,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 378199,
+        "num": 216604,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241592,
+        "num": 213749,
+        "word": "陈松伶张铎没有办婚礼",
+        "onboard_time": 1762496960,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234954,
+        "num": 212904,
+        "word": "刘嘉玲 你拍王家卫不用担心灯光",
+        "onboard_time": 1762489762,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25255,
+        "num": 211820,
+        "word": "北京秋游太舒服了",
+        "onboard_time": 1762495280,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219686,
+        "num": 210161,
+        "word": "在冰箱冷藏一夜的蛋糕",
+        "onboard_time": 1762497560,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 208554,
+        "num": 208554,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 16,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 200221,
+        "num": 200221,
+        "word": "辛芷蕾回应奖项运作争议",
+        "onboard_time": 1762494021,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59800,
+        "num": 196067,
+        "word": "连锁酒店 万能抹布",
+        "onboard_time": 1762497199,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 39655,
+        "num": 195155,
+        "word": "立冬京东送玄学秋裤",
+        "onboard_time": 1762495520,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336107,
+        "num": 195138,
+        "word": "网红阿可靠炒股18岁赚到第一个百万",
+        "onboard_time": 1762493602,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195097,
+        "num": 195097,
+        "word": "全运会跳水再次出现0分",
+        "onboard_time": 1762496899,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169546,
+        "num": 169546,
+        "word": "张柏芝因病中断一路繁花2录制",
+        "onboard_time": 1762491921,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168170,
+        "num": 168170,
+        "word": "Faker在第六冠与女友结婚之间选择夺冠",
+        "onboard_time": 1762494800,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61861,
+        "num": 164685,
+        "word": "张韶涵新歌昔涟",
+        "onboard_time": 1762495581,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38071,
+        "num": 164203,
+        "word": "无限王者团VOGUE",
+        "onboard_time": 1762493782,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164128,
+        "num": 164128,
+        "word": "柯淳想五年内拿到白玉兰提名",
+        "onboard_time": 1762494560,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162806,
+        "num": 162806,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1762496480,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "胡先煦说黄景瑜吃的很邪",
+        "onboard_time": 1762497321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11865,
+        "num": 157324,
+        "word": "山河枕大冒险给谁赢麻了",
+        "onboard_time": 1762495520,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157301,
+        "num": 157301,
+        "word": "马天宇蒋依依机场偶遇",
+        "onboard_time": 1762488680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 153473,
+        "word": "歼35歼15T空警600福建舰舰载机",
+        "onboard_time": 1762493602,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151928,
+        "num": 151928,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150015,
+        "num": 150015,
+        "word": "隋文静韩聪短节目clean",
+        "onboard_time": 1762498039,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 140030,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137010,
+        "num": 137010,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762494499,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130580,
+        "num": 130580,
+        "word": "余承恩年上年下疯狂打架",
+        "onboard_time": 1762497560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128873,
+        "num": 128873,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43437,
+        "num": 123666,
+        "word": "泡泡玛特一句有点贵刺破盲盒泡沫",
+        "onboard_time": 1762497740,
+        "rank": 38,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 68048,
+        "num": 121765,
+        "word": "Shanks和Hope游乐园合照",
+        "onboard_time": 1762497620,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27038,
+        "num": 121424,
+        "word": "袁伟豪张宝儿二胎出生",
+        "onboard_time": 1762497079,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121385,
+        "num": 121385,
+        "word": "谁允许户外人这么会挑羽绒服的",
+        "onboard_time": 1762498281,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38318,
+        "num": 119436,
+        "word": "丁禹兮喊嫂嫂了",
+        "onboard_time": 1762498281,
+        "rank": 42,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 76688,
+        "num": 119263,
+        "word": "福建舰是我国航母常态化部署第一步",
+        "onboard_time": 1762496121,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115974,
+        "num": 119145,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 44,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 119133,
+        "num": 119133,
+        "word": "德国男护士因夜班太忙杀害10名病人",
+        "onboard_time": 1762491921,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118903,
+        "num": 118903,
+        "word": "未来若需要福建舰可随时投入作战",
+        "onboard_time": 1762498100,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117766,
+        "num": 117766,
+        "word": "LPL赛区排名最高的是AL",
+        "onboard_time": 1762497981,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117604,
+        "num": 117604,
+        "word": "丁禹兮宋茜 爸妈我出生了",
+        "onboard_time": 1762491381,
+        "rank": 48,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 42068,
+        "num": 111017,
+        "word": "福建舰入列意味什么",
+        "onboard_time": 1762496540,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
+    }
+  }
+}

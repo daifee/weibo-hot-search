@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762497555320,
+  "endTime": 1762498323462,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -649,6 +649,14 @@
       "onboard_time": 1761981140,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 910342,
+      "num": 910342,
+      "word": "辛芷蕾6连问",
+      "onboard_time": 1762497680,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 902678,
@@ -2419,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441496,
+      "num": 327659,
+      "word": "宁静承认伤害过别人感情",
+      "onboard_time": 1762495280,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440968,
       "num": 379567,
       "word": "献血400ml没事失血400ml很危险",
@@ -3075,20 +3091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365633,
+      "num": 1058501,
+      "word": "福建舰入列画面",
+      "onboard_time": 1762493841,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 365204,
       "num": 365204,
       "word": "关晓彤张凌赫好长的两条人",
       "onboard_time": 1762172841,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364934,
-      "num": 1058389,
-      "word": "福建舰入列画面",
-      "onboard_time": 1762493841,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 364214,
@@ -4331,14 +4347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263926,
-      "num": 263926,
-      "word": "宁静承认伤害过别人感情",
-      "onboard_time": 1762495280,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263917,
       "num": 277322,
       "word": "令人心动的offer7",
@@ -4697,6 +4705,14 @@
       "onboard_time": 1762076002,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241592,
+      "num": 213749,
+      "word": "陈松伶张铎没有办婚礼",
+      "onboard_time": 1762496960,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 240685,
@@ -5147,6 +5163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219686,
+      "num": 210161,
+      "word": "在冰箱冷藏一夜的蛋糕",
+      "onboard_time": 1762497560,
+      "rank": 15,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 219374,
       "num": 219374,
       "word": "KK园区2年扩大3倍",
@@ -5489,14 +5513,6 @@
       "onboard_time": 1762088782,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208942,
-      "num": 181749,
-      "word": "陈松伶张铎没有办婚礼",
-      "onboard_time": 1762496960,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 208527,
@@ -6057,6 +6073,14 @@
       "onboard_time": 1762164021,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195097,
+      "num": 195097,
+      "word": "全运会跳水再次出现0分",
+      "onboard_time": 1762496899,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194898,
@@ -7347,6 +7371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168170,
+      "num": 168170,
+      "word": "Faker在第六冠与女友结婚之间选择夺冠",
+      "onboard_time": 1762494800,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168165,
       "num": 168165,
       "word": "宣璐cos辛德瑞拉",
@@ -7843,14 +7875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161151,
-      "num": 161151,
-      "word": "全运会跳水再次出现0分",
-      "onboard_time": 1762496899,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -8033,6 +8057,14 @@
       "onboard_time": 1762000460,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157507,
+      "num": 157507,
+      "word": "胡先煦说黄景瑜吃的很邪",
+      "onboard_time": 1762497321,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 157505,
@@ -8371,14 +8403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152611,
-      "num": 152611,
-      "word": "Faker在第六冠与女友结婚之间选择夺冠",
-      "onboard_time": 1762494800,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152597,
       "num": 185428,
       "word": "嫁金钗 闫桉",
@@ -8585,6 +8609,14 @@
       "onboard_time": 1762479199,
       "rank": 47,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 150015,
+      "num": 150015,
+      "word": "隋文静韩聪短节目clean",
+      "onboard_time": 1762498039,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 150009,
@@ -10139,14 +10171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132864,
-      "num": 132864,
-      "word": "胡先煦说黄景瑜吃的很邪",
-      "onboard_time": 1762497321,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132799,
       "num": 130125,
       "word": "成毅入选2025年亚太行业先锋领袖榜单",
@@ -10401,6 +10425,14 @@
       "onboard_time": 1762490061,
       "rank": 44,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 130580,
+      "num": 130580,
+      "word": "余承恩年上年下疯狂打架",
+      "onboard_time": 1762497560,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130444,
@@ -11443,6 +11475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121385,
+      "num": 121385,
+      "word": "谁允许户外人这么会挑羽绒服的",
+      "onboard_time": 1762498281,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 121349,
       "num": 159131,
       "word": "东莞一公园长凳装密集扶手被质疑",
@@ -11691,6 +11731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 118903,
+      "num": 118903,
+      "word": "未来若需要福建舰可随时投入作战",
+      "onboard_time": 1762498100,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 118863,
       "num": 133838,
       "word": "躲过了东宫没躲过山河枕",
@@ -11833,6 +11881,14 @@
       "onboard_time": 1762244480,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117766,
+      "num": 117766,
+      "word": "LPL赛区排名最高的是AL",
+      "onboard_time": 1762497981,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 117763,
@@ -18955,6 +19011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76688,
+      "num": 185103,
+      "word": "福建舰是我国航母常态化部署第一步",
+      "onboard_time": 1762496121,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76497,
       "num": 503970,
       "word": "当地回应私房菜馆被曝宰杀活猫",
@@ -19361,14 +19425,6 @@
       "onboard_time": 1761928460,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73074,
-      "num": 185103,
-      "word": "福建舰是我国航母常态化部署第一步",
-      "onboard_time": 1762496121,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73008,
@@ -19881,6 +19937,14 @@
       "onboard_time": 1762055720,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68048,
+      "num": 121765,
+      "word": "Shanks和Hope游乐园合照",
+      "onboard_time": 1762497620,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 67589,
@@ -20545,6 +20609,14 @@
       "onboard_time": 1762003221,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59800,
+      "num": 196067,
+      "word": "连锁酒店 万能抹布",
+      "onboard_time": 1762497199,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 59743,
@@ -21547,8 +21619,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43437,
+      "num": 123666,
+      "word": "泡泡玛特一句有点贵刺破盲盒泡沫",
+      "onboard_time": 1762497740,
+      "rank": 38,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 43148,
-      "num": 190689,
+      "num": 195155,
       "word": "立冬京东送玄学秋裤",
       "onboard_time": 1762495520,
       "rank": 19,
@@ -21891,6 +21971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38318,
+      "num": 119436,
+      "word": "丁禹兮喊嫂嫂了",
+      "onboard_time": 1762498281,
+      "rank": 42,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 38287,
       "num": 98092,
       "word": "让人舒服的沟通有7个技巧",
@@ -22025,14 +22113,6 @@
       "onboard_time": 1762455734,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36000,
-      "num": 194372,
-      "word": "连锁酒店 万能抹布",
-      "onboard_time": 1762497199,
-      "rank": 16,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 35632,
@@ -22569,6 +22649,14 @@
       "onboard_time": 1762164800,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27038,
+      "num": 138200,
+      "word": "袁伟豪张宝儿二胎出生",
+      "onboard_time": 1762497079,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27007,
@@ -23331,14 +23419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13197,
-      "num": 138200,
-      "word": "袁伟豪张宝儿二胎出生",
-      "onboard_time": 1762497079,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13166,
       "num": 87342,
       "word": "AI网课诈骗向银发老人伸出魔爪",
@@ -23411,6 +23491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 11865,
+      "num": 157324,
+      "word": "山河枕大冒险给谁赢麻了",
+      "onboard_time": 1762495520,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11303,
       "num": 30607,
       "word": "秋招会工资写0到1000元医院致歉",
@@ -23457,14 +23545,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9759,
-      "num": 139764,
-      "word": "山河枕大冒险给谁赢麻了",
-      "onboard_time": 1762495520,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 9620,
