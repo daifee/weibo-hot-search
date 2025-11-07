@@ -1,0 +1,410 @@
+{
+  "runTime": 1762486401567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163060,
+        "num": 1186089,
+        "word": "双轨",
+        "onboard_time": 1762484240,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 897658,
+        "num": 897658,
+        "word": "日本熊害已逼近东京",
+        "onboard_time": 1762481299,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1986,
+        "num": 704687,
+        "word": "全运会本周末就开幕了",
+        "onboard_time": 1762417580,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647233,
+        "num": 647233,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459774,
+        "num": 459774,
+        "word": "耿爽说那我也不含蓄了",
+        "onboard_time": 1762480160,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453236,
+        "num": 453236,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574779,
+        "num": 447144,
+        "word": "短剧还珠",
+        "onboard_time": 1762483759,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426176,
+        "num": 426176,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 7,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 271910,
+        "num": 271910,
+        "word": "英国国王正式剥夺安德鲁王子头衔",
+        "onboard_time": 1762479199,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207769,
+        "num": 207769,
+        "word": "水贝黄金市场一夜降温",
+        "onboard_time": 1762477939,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1626877,
+        "num": 207757,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 10,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 1359192,
+        "num": 207692,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 11,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 36679,
+        "num": 207577,
+        "word": "少爷和我京东新番",
+        "onboard_time": 1762485318,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538372,
+        "num": 207487,
+        "word": "马思纯说花少聚会时长5小时起步",
+        "onboard_time": 1762481180,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329943,
+        "num": 207400,
+        "word": "网红尿毒症夫妇丈夫离世",
+        "onboard_time": 1762484599,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12452,
+        "num": 207336,
+        "word": "2025世界互联网大会乌镇峰会",
+        "onboard_time": 1762422681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276905,
+        "num": 207266,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 16,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 212140,
+        "num": 207215,
+        "word": "敖瑞鹏演艺圈第一高人",
+        "onboard_time": 1762484058,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207165,
+        "num": 207165,
+        "word": "五月天疯狂动物城2中文主题曲",
+        "onboard_time": 1762482260,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196184,
+        "num": 196184,
+        "word": "合肥地震",
+        "onboard_time": 1762477699,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 276360,
+        "num": 195640,
+        "word": "专家称美国用武力统一或是中国未来",
+        "onboard_time": 1762477819,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190506,
+        "num": 190506,
+        "word": "任嘉伦彭小苒这次演了大甜剧",
+        "onboard_time": 1762485620,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190135,
+        "num": 190135,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "美国男子致女儿意外死亡后自杀",
+        "onboard_time": 1762473800,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171328,
+        "num": 171328,
+        "word": "山河枕新浪扫楼",
+        "onboard_time": 1762483819,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162149,
+        "num": 162149,
+        "word": "张凌赫发了风力发电图",
+        "onboard_time": 1762482020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "双轨爱意轰鸣大片",
+        "onboard_time": 1762485981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150096,
+        "num": 150096,
+        "word": "泡泡玛特被大量消费者质疑",
+        "onboard_time": 1762479199,
+        "rank": 27,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 142928,
+        "num": 142928,
+        "word": "特斯拉市值需十年内达8.5万亿美元",
+        "onboard_time": 1762485739,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139672,
+        "num": 139672,
+        "word": "陈梦说巴黎会师已完成任务",
+        "onboard_time": 1762485440,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134448,
+        "num": 134448,
+        "word": "立冬文案",
+        "onboard_time": 1762471037,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125144,
+        "num": 125144,
+        "word": "教资查分",
+        "onboard_time": 1762483519,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125137,
+        "num": 125137,
+        "word": "月薪6000 花8万买塑形内衣",
+        "onboard_time": 1762444760,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122396,
+        "num": 122396,
+        "word": "全红婵回应以后是否跳水",
+        "onboard_time": 1762476920,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122349,
+        "num": 122349,
+        "word": "烤红薯忘了这一步等于白烤",
+        "onboard_time": 1762479260,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113064,
+        "num": 113064,
+        "word": "俄乌激战红军城",
+        "onboard_time": 1762485680,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108506,
+        "num": 108506,
+        "word": "任嘉伦彭小苒凤凰台上开始预约",
+        "onboard_time": 1762484058,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76337,
+        "num": 108489,
+        "word": "内涵消费者是韭菜的观感很不妙",
+        "onboard_time": 1762485800,
+        "rank": 37,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 41899,
+        "num": 108486,
+        "word": "杜若溪为和严屹宽拍戏放弃女一号",
+        "onboard_time": 1762485859,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18380,
+        "num": 108485,
+        "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
+        "onboard_time": 1762485318,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108485,
+        "num": 108484,
+        "word": "泡泡玛特直播事故员工被处理",
+        "onboard_time": 1762481180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105727,
+        "num": 105727,
+        "word": "马斯克就万亿美元薪酬获批发声",
+        "onboard_time": 1762483279,
+        "rank": 41,
+        "category": "互联网,海外新闻"
+      },
+      {
+        "raw_hot": 105104,
+        "num": 105104,
+        "word": "中国代表表示遗憾",
+        "onboard_time": 1762485260,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 103099,
+        "word": "10亿播放量歌手上音综被淘汰",
+        "onboard_time": 1762471098,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90810,
+        "num": 101681,
+        "word": "美国是应对气候变化合作最大障碍",
+        "onboard_time": 1762485561,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101636,
+        "num": 101636,
+        "word": "娜扎说自己有绊脚石",
+        "onboard_time": 1762483580,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101088,
+        "num": 101088,
+        "word": "疯狂动物城",
+        "onboard_time": 1762486161,
+        "rank": 46,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 99309,
+        "num": 99309,
+        "word": "10岁男孩被生母继父虐死案开庭",
+        "onboard_time": 1762483880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97771,
+        "num": 97771,
+        "word": "张豆豆为孙杨全运会加油",
+        "onboard_time": 1762484839,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94686,
+        "num": 94686,
+        "word": "Uzi每一次都选择了Ruler",
+        "onboard_time": 1762484058,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762485430143,
+  "endTime": 1762486401567,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -27,12 +27,28 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 893292,
+      "raw_hot": 1163060,
+      "num": 1186089,
+      "word": "双轨",
+      "onboard_time": 1762484240,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 897658,
       "num": 1142926,
       "word": "日本熊害已逼近东京",
       "onboard_time": 1762481299,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 647233,
+      "num": 647233,
+      "word": "央妈音综出手就是国家队顶配",
+      "onboard_time": 1762483580,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 599882,
@@ -41,6 +57,14 @@
       "onboard_time": 1762481180,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574779,
+      "num": 548067,
+      "word": "短剧还珠",
+      "onboard_time": 1762483759,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 568732,
@@ -59,14 +83,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 548067,
-      "num": 548067,
-      "word": "短剧还珠",
-      "onboard_time": 1762483759,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 512550,
       "num": 141144,
       "word": "康熙粉退坑出",
@@ -81,14 +97,6 @@
       "onboard_time": 1762444760,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501062,
-      "num": 467106,
-      "word": "央妈音综出手就是国家队顶配",
-      "onboard_time": 1762483580,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 483393,
@@ -171,20 +179,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 349377,
-      "num": 235448,
-      "word": "双轨",
-      "onboard_time": 1762484240,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331497,
       "num": 140357,
       "word": "杜华 荒谬",
       "onboard_time": 1762417401,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329943,
+      "num": 207400,
+      "word": "网红尿毒症夫妇丈夫离世",
+      "onboard_time": 1762484599,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309678,
@@ -209,6 +217,14 @@
       "onboard_time": 1762471098,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276905,
+      "num": 207266,
+      "word": "泡泡玛特大跌",
+      "onboard_time": 1762485260,
+      "rank": 26,
+      "category": "财经,休闲"
     },
     {
       "raw_hot": 271651,
@@ -251,20 +267,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 212140,
+      "num": 207215,
+      "word": "敖瑞鹏演艺圈第一高人",
+      "onboard_time": 1762484058,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212106,
       "num": 472141,
       "word": "王鹤棣孟子义首搭",
       "onboard_time": 1762444821,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206034,
-      "num": 206034,
-      "word": "敖瑞鹏演艺圈第一高人",
-      "onboard_time": 1762484058,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 197082,
@@ -284,10 +300,18 @@
     },
     {
       "raw_hot": 191877,
-      "num": 165124,
+      "num": 190135,
       "word": "孟子义沈娇娇对比图",
       "onboard_time": 1762483099,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190506,
+      "num": 190506,
+      "word": "任嘉伦彭小苒这次演了大甜剧",
+      "onboard_time": 1762485620,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166302,
-      "num": 166302,
-      "word": "网红尿毒症夫妇丈夫离世",
-      "onboard_time": 1762484599,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164326,
       "num": 164326,
       "word": "立冬文案",
@@ -355,8 +371,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 161941,
-      "num": 161941,
+      "raw_hot": 162149,
+      "num": 162149,
       "word": "张凌赫发了风力发电图",
       "onboard_time": 1762482020,
       "rank": 21,
@@ -369,6 +385,14 @@
       "onboard_time": 1762478659,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155278,
+      "num": 155278,
+      "word": "双轨爱意轰鸣大片",
+      "onboard_time": 1762485981,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 154252,
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150096,
+      "num": 150096,
+      "word": "泡泡玛特被大量消费者质疑",
+      "onboard_time": 1762479199,
+      "rank": 47,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 150009,
       "num": 150009,
       "word": "任嘉伦彭小苒凤凰台上开始预约",
@@ -395,20 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142490,
-      "num": 142490,
-      "word": "泡泡玛特大跌",
-      "onboard_time": 1762485260,
-      "rank": 26,
-      "category": "财经,休闲"
-    },
-    {
-      "raw_hot": 142436,
-      "num": 142435,
-      "word": "泡泡玛特被大量消费者质疑",
-      "onboard_time": 1762479199,
-      "rank": 47,
-      "category": "民生新闻,休闲"
+      "raw_hot": 142928,
+      "num": 142928,
+      "word": "特斯拉市值需十年内达8.5万亿美元",
+      "onboard_time": 1762485739,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 142346,
@@ -416,6 +440,14 @@
       "word": "陈芋汐希望和全红婵一起携手",
       "onboard_time": 1762430661,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139672,
+      "num": 139672,
+      "word": "陈梦说巴黎会师已完成任务",
+      "onboard_time": 1762485440,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125144,
+      "num": 125144,
+      "word": "教资查分",
+      "onboard_time": 1762483519,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "老师我家田曦薇不能露秋裤吗",
@@ -443,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116636,
-      "num": 116636,
-      "word": "教资查分",
-      "onboard_time": 1762483519,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 113064,
+      "num": 113064,
+      "word": "俄乌激战红军城",
+      "onboard_time": 1762485680,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111702,
@@ -475,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108485,
+      "num": 108484,
+      "word": "泡泡玛特直播事故员工被处理",
+      "onboard_time": 1762481180,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108329,
       "num": 141911,
       "word": "全红婵回应获得第五",
@@ -491,20 +539,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103925,
-      "num": 103925,
+      "raw_hot": 105727,
+      "num": 105727,
       "word": "马斯克就万亿美元薪酬获批发声",
       "onboard_time": 1762483279,
       "rank": 36,
       "category": "互联网,海外新闻"
     },
     {
-      "raw_hot": 101817,
-      "num": 101817,
-      "word": "泡泡玛特直播事故员工被处理",
-      "onboard_time": 1762481180,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 105104,
+      "num": 105104,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101088,
+      "num": 101088,
+      "word": "疯狂动物城",
+      "onboard_time": 1762486161,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 100707,
@@ -521,6 +577,14 @@
       "onboard_time": 1762438942,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 99309,
+      "num": 143429,
+      "word": "10岁男孩被生母继父虐死案开庭",
+      "onboard_time": 1762483880,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98392,
@@ -595,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90810,
+      "num": 101681,
+      "word": "美国是应对气候变化合作最大障碍",
+      "onboard_time": 1762485561,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89986,
       "num": 89986,
       "word": "tarzan说带孩子打卡乐园",
@@ -616,14 +688,6 @@
       "word": "结婚登记增40.5万对",
       "onboard_time": 1762424300,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88961,
-      "num": 143429,
-      "word": "10岁男孩被生母继父虐死案开庭",
-      "onboard_time": 1762483880,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -675,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78729,
-      "num": 78729,
-      "word": "中国代表表示遗憾",
-      "onboard_time": 1762485260,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78321,
       "num": 105533,
       "word": "易烊千玺 老衲来的",
@@ -697,6 +753,14 @@
       "onboard_time": 1762441702,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76337,
+      "num": 108489,
+      "word": "内涵消费者是韭菜的观感很不妙",
+      "onboard_time": 1762485800,
+      "rank": 37,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 75304,
@@ -939,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41899,
+      "num": 108486,
+      "word": "杜若溪为和严屹宽拍戏放弃女一号",
+      "onboard_time": 1762485859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40955,
       "num": 87067,
       "word": "朋友圈全员92是什么概念",
@@ -961,6 +1033,14 @@
       "onboard_time": 1762446739,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36679,
+      "num": 207577,
+      "word": "少爷和我京东新番",
+      "onboard_time": 1762485318,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 36055,
@@ -1011,14 +1091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31953,
-      "num": 103880,
-      "word": "少爷和我京东新番",
-      "onboard_time": 1762485318,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31717,
       "num": 86992,
       "word": "辛芷蕾把日掛中天白T穿出花",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1762450696,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18380,
+      "num": 108485,
+      "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
+      "onboard_time": 1762485318,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17688,
@@ -1083,12 +1163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 9565,
-      "num": 102522,
-      "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
-      "onboard_time": 1762485318,
-      "rank": 39,
+      "raw_hot": 12452,
+      "num": 207336,
+      "word": "2025世界互联网大会乌镇峰会",
+      "onboard_time": 1762422681,
+      "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1986,
+      "num": 704687,
+      "word": "全运会本周末就开幕了",
+      "onboard_time": 1762417580,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1097,6 +1185,9 @@
     },
     {
       "word": "#重温总书记对海南寄予的厚望#"
+    },
+    {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
     }
   ]
 }
