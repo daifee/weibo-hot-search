@@ -1,0 +1,410 @@
+{
+  "runTime": 1762514572395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1831177,
+        "num": 1831177,
+        "word": "沙僧扮演者刘大刚病逝",
+        "onboard_time": 1762509500,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 380934,
+        "num": 380934,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762511902,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 4732,
+        "num": 359782,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354222,
+        "num": 354222,
+        "word": "粒上皇 烤红薯刺客",
+        "onboard_time": 1762507882,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 290773,
+        "num": 290773,
+        "word": "第五人格 匹配不了",
+        "onboard_time": 1762513040,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261556,
+        "num": 261556,
+        "word": "六小龄童悼念刘大刚",
+        "onboard_time": 1762512321,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242797,
+        "num": 242797,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227168,
+        "num": 227168,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195041,
+        "num": 195041,
+        "word": "闫怀礼 沙僧",
+        "onboard_time": 1762510940,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 176782,
+        "num": 176782,
+        "word": "冒充奶皮子",
+        "onboard_time": 1762506981,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 430849,
+        "num": 176617,
+        "word": "机器人 性别",
+        "onboard_time": 1762507941,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379787,
+        "num": 175774,
+        "word": "装修工人触电身亡婚房变凶宅",
+        "onboard_time": 1762509500,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335237,
+        "num": 175536,
+        "word": "突然理解为什么父母希望门当户对了",
+        "onboard_time": 1762513400,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302679,
+        "num": 174765,
+        "word": "日掛中天票房倒挂",
+        "onboard_time": 1762503861,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17060,
+        "num": 174395,
+        "word": "宋木子李飞生动演绎钓鱼",
+        "onboard_time": 1762514059,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258085,
+        "num": 174045,
+        "word": "程潇被刀划伤手",
+        "onboard_time": 1762513580,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 173645,
+        "word": "檀健次卢昱晓 何不同舟渡",
+        "onboard_time": 1762502660,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158607,
+        "num": 172775,
+        "word": "陈若琳 长身体就像换了双不合脚的舞鞋",
+        "onboard_time": 1762512321,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 172269,
+        "word": "刘嘉玲说好风景就在眼前",
+        "onboard_time": 1762514000,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42045,
+        "num": 171907,
+        "word": "当张雅琪遇到星星人痛车",
+        "onboard_time": 1762510702,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 934636,
+        "num": 171205,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498396,
+        "num": 171032,
+        "word": "曝某女星采访到一半崩溃大哭",
+        "onboard_time": 1762505900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129940,
+        "num": 170409,
+        "word": "薛之谦平庸舞台",
+        "onboard_time": 1762513820,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45055,
+        "num": 169978,
+        "word": "景甜分享立冬大片",
+        "onboard_time": 1762513580,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126623,
+        "num": 169548,
+        "word": "惊天魔盗团3 钻石0元购",
+        "onboard_time": 1762510702,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126265,
+        "num": 168823,
+        "word": "唐朝诡事录 无代餐",
+        "onboard_time": 1762506080,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98663,
+        "num": 168216,
+        "word": "医生强调这4小时必须睡觉",
+        "onboard_time": 1762504161,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98564,
+        "num": 167756,
+        "word": "刘诗雯和樊振东打招呼",
+        "onboard_time": 1762510702,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221317,
+        "num": 167283,
+        "word": "坚持喝煮苹果水身体会发生什么",
+        "onboard_time": 1762506920,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91955,
+        "num": 166612,
+        "word": "潘展乐收到了胡明轩送的加油桶",
+        "onboard_time": 1762513640,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216961,
+        "num": 166017,
+        "word": "刘诗诗参加杨紫生日会",
+        "onboard_time": 1762508360,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201389,
+        "num": 165836,
+        "word": "新闻女王2黄宗泽面相都变了",
+        "onboard_time": 1762500380,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177900,
+        "num": 165162,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164910,
+        "num": 164910,
+        "word": "你见过凌晨的东北早市吗",
+        "onboard_time": 1762513700,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140124,
+        "num": 140124,
+        "word": "希望小猫消失都是因为这样的原因",
+        "onboard_time": 1762513281,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128424,
+        "num": 128424,
+        "word": "迪丽热巴帮替身演员整理帽子",
+        "onboard_time": 1762512020,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124574,
+        "num": 124574,
+        "word": "刘诗诗杨紫经纪人",
+        "onboard_time": 1762512740,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121307,
+        "num": 121307,
+        "word": "肖战把大黄搂在怀里为她取暖",
+        "onboard_time": 1762505840,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94550,
+        "num": 120970,
+        "word": "福建舰弹射一架飞机大概需要1分半",
+        "onboard_time": 1762509861,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 97220,
+        "num": 120869,
+        "word": "周深单依纯演唱十五运开幕式主题歌",
+        "onboard_time": 1762512921,
+        "rank": 39,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 120843,
+        "num": 120843,
+        "word": "日本扇贝已出口至中国",
+        "onboard_time": 1762503920,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118637,
+        "num": 118637,
+        "word": "谁吃固体杨枝甘露是图省事",
+        "onboard_time": 1762512560,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29148,
+        "num": 114142,
+        "word": "普京回应美方宣布重启核试验",
+        "onboard_time": 1762513221,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112129,
+        "num": 112129,
+        "word": "树影迷宫大结局",
+        "onboard_time": 1762513520,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110953,
+        "num": 110953,
+        "word": "空腹爬楼瘦了25斤",
+        "onboard_time": 1762514359,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108805,
+        "num": 108805,
+        "word": "宝格丽CEO称小米成就堪比苹果",
+        "onboard_time": 1762514421,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 104188,
+        "word": "一诺明天见",
+        "onboard_time": 1762514540,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104160,
+        "num": 104160,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 47,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 103705,
+        "num": 103705,
+        "word": "饿到什么程度才燃烧脂肪",
+        "onboard_time": 1762510102,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76591,
+        "num": 100607,
+        "word": "首饰店老板提醒路边黄金千万别捡",
+        "onboard_time": 1762509861,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席福建舰入列授旗仪式#"
+    }
+  }
+}
