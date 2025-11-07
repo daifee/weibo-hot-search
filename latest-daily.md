@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 07:24:06
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 07:38:02
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：459764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43%23" target="weibo">
 四喜37分钟收视率破3（热度：444305）
 </a>
@@ -51,8 +57,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：407364）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：396607）
 </a>
 </li>
 
@@ -87,12 +93,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：312142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81%23" target="weibo">
 30岁小伙长期熬夜智力退回3岁（热度：299925）
 </a>
@@ -111,14 +111,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23" target="weibo">
-iPhone18系列10大升级（热度：202843）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
+婚后三年不孕女子查出男性染色体（热度：213046）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%90%E5%A5%B3%E6%98%9F%E9%87%87%E8%AE%BF%E5%88%B0%E4%B8%80%E5%8D%8A%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
-曝某女星采访到一半崩溃大哭（热度：201358）
+曝某女星采访到一半崩溃大哭（热度：211706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23" target="weibo">
+iPhone18系列10大升级（热度：202843）
 </a>
 </li>
 
@@ -131,12 +137,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A7%9C%E9%9B%AA%E5%AE%81%23" target="weibo">
 白鹿姜雪宁（热度：184864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
-婚后三年不孕女子查出男性染色体（热度：181836）
 </a>
 </li>
 
@@ -159,6 +159,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
+猪八戒扮演者回应刘大刚去世（热度：157385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%E4%BF%9D%E9%99%A9%E4%BA%8B%E5%8F%98%23" target="weibo">
 再见爱人5保险事变（热度：152333）
 </a>
@@ -167,12 +173,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A9%B7%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E6%BC%94%E5%91%98%E8%A1%8C%E4%B8%BA%23" target="weibo">
 梅婷最讨厌的演员行为（热度：149147）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
-猪八戒扮演者回应刘大刚去世（热度：135465）
 </a>
 </li>
 
@@ -231,6 +231,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%90%8C%E7%BE%8E%E4%BF%84%E4%B8%8D%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%87%8F%E7%BA%A7%23" target="weibo">
+中国核力量同美俄不在一个量级（热度：99776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD%23" target="weibo">
 肖战直播（热度：97369）
 </a>
@@ -251,12 +257,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%8E%E8%BE%89%E5%A5%BD%E8%90%8C%23" target="weibo">
 沈明辉好萌（热度：89850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%90%8C%E7%BE%8E%E4%BF%84%E4%B8%8D%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%87%8F%E7%BA%A7%23" target="weibo">
-中国核力量同美俄不在一个量级（热度：86558）
 </a>
 </li>
 
@@ -327,6 +327,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23" target="weibo">
+雷军身家368亿美元超越马云（热度：58128）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E9%BB%8E%E6%B7%B1%23" target="weibo">
 恋与深空黎深（热度：56164）
 </a>
@@ -339,8 +345,8 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23" target="weibo">
-雷军身家368亿美元超越马云（热度：49712）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E5%A5%BD%E6%83%B3%E5%BF%B5%E8%A2%AB%E5%B0%8FS%E9%AA%82%23" target="weibo">
+林志玲说好想念被小S骂（热度：49878）
 </a>
 </li>
 
@@ -363,12 +369,6 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E5%A5%BD%E6%83%B3%E5%BF%B5%E8%A2%AB%E5%B0%8FS%E9%AA%82%23" target="weibo">
-林志玲说好想念被小S骂（热度：40675）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E6%9E%95%23" target="weibo">
 山河枕（热度：40063）
 </a>
@@ -381,8 +381,26 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
+远离从生理上排斥的人和环境（热度：36834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%9816%E4%B8%AA%E7%83%AB%E5%98%B4%E7%94%9F%E5%83%BB%E5%AD%97%23" target="weibo">
 挑战16个烫嘴生僻字（热度：36405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
+一层薄薄的土 人与人就再难相见了（热度：35116）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
+乐华娱乐再度大跌（热度：34142）
 </a>
 </li>
 
@@ -393,26 +411,14 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
-远离从生理上排斥的人和环境（热度：33071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
-乐华娱乐再度大跌（热度：30964）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89%23" target="weibo">
+唐朝诡事录之长安（热度：33318）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8A%E6%B5%B7%E4%B9%B0%E8%BD%A6%23" target="weibo">
-郑钦文上海买车（热度：27457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
-一层薄薄的土 人与人就再难相见了（热度：27207）
+郑钦文上海买车（热度：29481）
 </a>
 </li>
 

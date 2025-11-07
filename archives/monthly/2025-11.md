@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 07:24:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 07:38:02
 </p>
 </blockquote>
 <p>
@@ -1923,6 +1923,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：459764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%BA%E4%B9%8F%E7%BB%B4%E7%94%9F%E7%B4%A0D%20%E6%8A%91%E9%83%81%E7%97%87%E7%8A%B6%23" target="weibo">
 缺乏维生素D 抑郁症状（热度：455164）
 </a>
@@ -2247,12 +2253,6 @@ KK园区电诈人员已开始再就业（热度：422885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：407364）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%9C%8B%E5%85%B6%E6%B4%97%E6%BE%A1%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23" target="weibo">
 女孩发视频称父亲看其洗澡警方介入（热度：406873）
 </a>
@@ -2303,6 +2303,12 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%B8%80%E6%9D%A1%E8%A3%99%E5%AD%90%E7%A9%BF%E4%BA%86%E4%B8%89%E6%AC%A1%23" target="weibo">
 郭宇欣一条裙子穿了三次（热度：397058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：396607）
 </a>
 </li>
 
@@ -2993,12 +2999,6 @@ KK园区已被严重破坏（热度：332604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E6%85%A7%E5%B8%B8%E5%8D%8E%E6%A3%AE%20%E5%A5%B3%E7%BA%A3%E7%8E%8B%E7%94%B7%E5%A6%B2%E5%B7%B1%23" target="weibo">
 毛晓慧常华森 女纣王男妲己（热度：312342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：312142）
 </a>
 </li>
 
@@ -4431,6 +4431,12 @@ A勒布伦惊天逆转张本智和（热度：217137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
+婚后三年不孕女子查出男性染色体（热度：213046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
 苏新皓 要爆了（热度：213005）
 </a>
@@ -5471,12 +5477,6 @@ A股（热度：186226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%90%83%E9%A5%AD%E8%8F%9C%E7%B2%BE%E7%BB%86%E5%88%B0%E7%94%A8%E7%A7%B0%E9%87%8F%23" target="weibo">
 孙俪吃饭菜精细到用称量（热度：181996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
-婚后三年不孕女子查出男性染色体（热度：181836）
 </a>
 </li>
 

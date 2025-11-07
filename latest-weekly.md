@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 07:24:06
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 07:38:02
 </p>
 </blockquote>
 <p>
@@ -1677,6 +1677,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：459764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%BA%E4%B9%8F%E7%BB%B4%E7%94%9F%E7%B4%A0D%20%E6%8A%91%E9%83%81%E7%97%87%E7%8A%B6%23" target="weibo">
 缺乏维生素D 抑郁症状（热度：455164）
 </a>
@@ -1959,12 +1965,6 @@ KK园区电诈人员已开始再就业（热度：422885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：407364）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%9C%8B%E5%85%B6%E6%B4%97%E6%BE%A1%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23" target="weibo">
 女孩发视频称父亲看其洗澡警方介入（热度：406873）
 </a>
@@ -2009,6 +2009,12 @@ KK园区电诈人员已开始再就业（热度：422885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E4%B8%80%E6%9D%A1%E8%A3%99%E5%AD%90%E7%A9%BF%E4%BA%86%E4%B8%89%E6%AC%A1%23" target="weibo">
 郭宇欣一条裙子穿了三次（热度：397058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：396607）
 </a>
 </li>
 
@@ -2645,12 +2651,6 @@ KK园区已被严重破坏（热度：332604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E6%85%A7%E5%B8%B8%E5%8D%8E%E6%A3%AE%20%E5%A5%B3%E7%BA%A3%E7%8E%8B%E7%94%B7%E5%A6%B2%E5%B7%B1%23" target="weibo">
 毛晓慧常华森 女纣王男妲己（热度：312342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：312142）
 </a>
 </li>
 
@@ -3819,6 +3819,12 @@ Peanut晒与Faker拥抱照（热度：217455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
+婚后三年不孕女子查出男性染色体（热度：213046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
 苏新皓 要爆了（热度：213005）
 </a>
@@ -4703,12 +4709,6 @@ A股（热度：186226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%90%83%E9%A5%AD%E8%8F%9C%E7%B2%BE%E7%BB%86%E5%88%B0%E7%94%A8%E7%A7%B0%E9%87%8F%23" target="weibo">
 孙俪吃饭菜精细到用称量（热度：181996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
-婚后三年不孕女子查出男性染色体（热度：181836）
 </a>
 </li>
 
@@ -5609,6 +5609,12 @@ Wayward谈Kanavi琪亚娜（热度：158497）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%A6%BD%E7%95%8C%E4%B9%9F%E6%9C%89%E5%9B%9B%E4%B8%8D%E5%83%8F%23" target="weibo">
 家禽界也有四不像（热度：157442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
+猪八戒扮演者回应刘大刚去世（热度：157385）
 </a>
 </li>
 
@@ -6821,12 +6827,6 @@ Faker当保安看监控也能赚不少钱（热度：136631）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E5%BC%A0%E6%B3%89%E7%81%B5%E9%83%BD%E6%83%B3%E4%BB%8Eoffer%E6%8C%96%E4%BA%BA%23" target="weibo">
 鲁豫张泉灵都想从offer挖人（热度：135649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
-猪八戒扮演者回应刘大刚去世（热度：135465）
 </a>
 </li>
 
@@ -14517,6 +14517,12 @@ N6神颜一见倾心（热度：58475）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23" target="weibo">
+雷军身家368亿美元超越马云（热度：58128）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E9%A6%96%E5%8F%9114%E9%A1%B9%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%E6%8A%80%E6%9C%AF%23" target="weibo">
 小鹏X9超级增程首发14项全球领先技术（热度：57807）
 </a>
@@ -14891,12 +14897,6 @@ ChatGP禁止提供专业医疗法律财务建议（热度：50409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E5%A4%8D%E5%88%BB%E6%9D%A8%E7%B4%AB%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF%23" target="weibo">
 没有人能复刻杨紫的来时路（热度：49952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23" target="weibo">
-雷军身家368亿美元超越马云（热度：49712）
 </a>
 </li>
 
@@ -15459,6 +15459,12 @@ CNN让台当局破防（热度：46708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
+远离从生理上排斥的人和环境（热度：36834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E4%BA%AC%E4%B8%9C%E6%96%B0%E7%95%AA%23" target="weibo">
 少爷和我京东新番（热度：36679）
 </a>
@@ -15531,6 +15537,12 @@ CNN让台当局破防（热度：46708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
+一层薄薄的土 人与人就再难相见了（热度：35116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9C%E4%B8%9A%E5%B8%AE%E8%A2%AB%E6%8C%87%E7%94%A8%E5%AD%A6%E7%94%9F%E8%B7%B3%E6%A5%BC%E5%87%BA%E9%A2%98%23" target="weibo">
 作业帮被指用学生跳楼出题（热度：35056）
 </a>
@@ -15591,6 +15603,12 @@ CNN让台当局破防（热度：46708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
+乐华娱乐再度大跌（热度：34142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
 特朗普改口承认美国民众在为关税买单（热度：34042）
 </a>
@@ -15639,8 +15657,8 @@ CNN让台当局破防（热度：46708）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
-远离从生理上排斥的人和环境（热度：33071）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89%23" target="weibo">
+唐朝诡事录之长安（热度：33318）
 </a>
 </li>
 
@@ -15737,12 +15755,6 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E6%9C%89%E6%96%B0%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A1%A8%E6%83%85%E5%8C%85%E4%BA%86%23" target="weibo">
 又有新的全红婵表情包了（热度：31062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
-乐华娱乐再度大跌（热度：30964）
 </a>
 </li>
 
@@ -15875,12 +15887,6 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E8%BA%B2%E8%BF%87%E8%B0%90%E9%9F%B3%E6%A2%97%23" target="weibo">
 没有人能躲过谐音梗（热度：27250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
-一层薄薄的土 人与人就再难相见了（热度：27207）
 </a>
 </li>
 

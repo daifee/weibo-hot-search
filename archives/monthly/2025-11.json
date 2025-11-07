@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762557846259,
+  "endTime": 1762558682701,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2547,6 +2547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 459764,
+      "num": 891079,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -2979,14 +2987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 407364,
-      "num": 780612,
-      "word": "专家称DNA证实康熙为努尔哈赤支系",
-      "onboard_time": 1762532720,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406873,
       "num": 191386,
       "word": "女孩发视频称父亲看其洗澡警方介入",
@@ -3057,6 +3057,14 @@
       "onboard_time": 1762134140,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396607,
+      "num": 396607,
+      "word": "必胜客要被卖了",
+      "onboard_time": 1762529300,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 396508,
@@ -3977,14 +3985,6 @@
       "onboard_time": 1762520600,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312142,
-      "num": 312142,
-      "word": "必胜客要被卖了",
-      "onboard_time": 1762529300,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 311661,
@@ -5891,6 +5891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213046,
+      "num": 135275,
+      "word": "婚后三年不孕女子查出男性染色体",
+      "onboard_time": 1762528102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213005,
       "num": 213005,
       "word": "苏新皓 要爆了",
@@ -7281,14 +7289,6 @@
       "onboard_time": 1762401981,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181836,
-      "num": 135275,
-      "word": "婚后三年不孕女子查出男性染色体",
-      "onboard_time": 1762528102,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181736,
@@ -8753,6 +8753,14 @@
       "onboard_time": 1762098260,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157385,
+      "num": 170397,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 36,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 157172,
@@ -10777,14 +10785,6 @@
       "onboard_time": 1761970999,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135465,
-      "num": 170397,
-      "word": "猪八戒扮演者回应刘大刚去世",
-      "onboard_time": 1762524860,
-      "rank": 36,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 135061,
@@ -22364,7 +22364,7 @@
     },
     {
       "raw_hot": 61396,
-      "num": 71918,
+      "num": 77550,
       "word": "日本熊灾 猎人",
       "onboard_time": 1762540275,
       "rank": 49,
@@ -22625,6 +22625,14 @@
       "onboard_time": 1762307600,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58128,
+      "num": 77805,
+      "word": "雷军身家368亿美元超越马云",
+      "onboard_time": 1762540694,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 57807,
@@ -23217,14 +23225,6 @@
       "onboard_time": 1762507882,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49712,
-      "num": 72577,
-      "word": "雷军身家368亿美元超越马云",
-      "onboard_time": 1762540694,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 49698,
@@ -24083,6 +24083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36834,
+      "num": 77695,
+      "word": "远离从生理上排斥的人和环境",
+      "onboard_time": 1762554316,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36679,
       "num": 288918,
       "word": "少爷和我京东新番",
@@ -24187,6 +24195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35116,
+      "num": 77666,
+      "word": "一层薄薄的土 人与人就再难相见了",
+      "onboard_time": 1762551013,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35056,
       "num": 96376,
       "word": "作业帮被指用学生跳楼出题",
@@ -24283,8 +24299,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34142,
+      "num": 77640,
+      "word": "乐华娱乐再度大跌",
+      "onboard_time": 1762544895,
+      "rank": 29,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 34042,
-      "num": 72247,
+      "num": 77605,
       "word": "特朗普改口承认美国民众在为关税买单",
       "onboard_time": 1762547114,
       "rank": 47,
@@ -24345,14 +24369,6 @@
       "onboard_time": 1762447458,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33071,
-      "num": 72211,
-      "word": "远离从生理上排斥的人和环境",
-      "onboard_time": 1762554316,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 33030,
@@ -24497,14 +24513,6 @@
       "onboard_time": 1762190476,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30964,
-      "num": 72073,
-      "word": "乐华娱乐再度大跌",
-      "onboard_time": 1762544895,
-      "rank": 29,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 30632,
@@ -24745,14 +24753,6 @@
       "onboard_time": 1762516881,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27207,
-      "num": 71953,
-      "word": "一层薄薄的土 人与人就再难相见了",
-      "onboard_time": 1762551013,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27150,
@@ -25116,7 +25116,7 @@
     },
     {
       "raw_hot": 22983,
-      "num": 71796,
+      "num": 77493,
       "word": "罗云熙让智性恋爽了",
       "onboard_time": 1762549333,
       "rank": 49,
