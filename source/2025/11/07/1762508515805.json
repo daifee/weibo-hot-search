@@ -1,0 +1,410 @@
+{
+  "runTime": 1762508515805,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1022446,
+        "num": 1163591,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351514,
+        "num": 351514,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5520,
+        "num": 307728,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465496,
+        "num": 300806,
+        "word": "檀健次卢昱晓 何不同舟渡",
+        "onboard_time": 1762502660,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274411,
+        "num": 274411,
+        "word": "小鹏悲壮自证",
+        "onboard_time": 1762505181,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224758,
+        "num": 224758,
+        "word": "iPhone18Pro系列前瞻",
+        "onboard_time": 1762499300,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234107,
+        "num": 218408,
+        "word": "新闻女王2黄宗泽面相都变了",
+        "onboard_time": 1762500380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196561,
+        "num": 196561,
+        "word": "中方回应日本水产品输华",
+        "onboard_time": 1762503020,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146361,
+        "num": 196019,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130808,
+        "num": 192025,
+        "word": "冒充奶皮子",
+        "onboard_time": 1762506981,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 897737,
+        "num": 191889,
+        "word": "日掛中天票房倒挂",
+        "onboard_time": 1762503861,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 707963,
+        "num": 188151,
+        "word": "日本扇贝已出口至中国",
+        "onboard_time": 1762503920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292104,
+        "num": 185094,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278076,
+        "num": 183982,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 13,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 182584,
+        "num": 182584,
+        "word": "周深 全运会开幕式主题曲",
+        "onboard_time": 1762506139,
+        "rank": 14,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 182201,
+        "num": 182201,
+        "word": "彭小苒 男主运",
+        "onboard_time": 1762504941,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154474,
+        "num": 154474,
+        "word": "唐朝诡事录 无代餐",
+        "onboard_time": 1762506080,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70346,
+        "num": 153715,
+        "word": "京东饺子火锅半价",
+        "onboard_time": 1762503861,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65950,
+        "num": 152906,
+        "word": "下一个美妆爆款它来了",
+        "onboard_time": 1762507100,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96889,
+        "num": 152229,
+        "word": "粒上皇 烤红薯刺客",
+        "onboard_time": 1762507882,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 997576,
+        "num": 150641,
+        "word": "曝某女星采访到一半崩溃大哭",
+        "onboard_time": 1762505900,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499099,
+        "num": 150181,
+        "word": "刘诗诗参加杨紫生日会",
+        "onboard_time": 1762508360,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269219,
+        "num": 149090,
+        "word": "肖战把大黄搂在怀里为她取暖",
+        "onboard_time": 1762505840,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289776,
+        "num": 147760,
+        "word": "坚持喝煮苹果水身体会发生什么",
+        "onboard_time": 1762506920,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274800,
+        "num": 147108,
+        "word": "宁静承认伤害过别人感情",
+        "onboard_time": 1762495280,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244822,
+        "num": 145796,
+        "word": "机器人 性别",
+        "onboard_time": 1762507941,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107279,
+        "num": 144766,
+        "word": "医生强调这4小时必须睡觉",
+        "onboard_time": 1762504161,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106811,
+        "num": 143251,
+        "word": "于谦夸管泽元解说词",
+        "onboard_time": 1762507341,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86632,
+        "num": 142442,
+        "word": "国防部正告赖清德之流",
+        "onboard_time": 1762507100,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79541,
+        "num": 141146,
+        "word": "王曼昱加入国家队12年",
+        "onboard_time": 1762506920,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191753,
+        "num": 140388,
+        "word": "在冰箱冷藏一夜的蛋糕",
+        "onboard_time": 1762497560,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 140003,
+        "num": 140003,
+        "word": "易烊千玺一共就告过三次状",
+        "onboard_time": 1762506080,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138796,
+        "num": 138796,
+        "word": "为什么感觉天一冷人变好看了",
+        "onboard_time": 1762507761,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129608,
+        "num": 129608,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125095,
+        "num": 125095,
+        "word": "真的建议吃饭要带点醋",
+        "onboard_time": 1762501999,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116351,
+        "num": 116351,
+        "word": "原来鼻涕藏在整张脸里",
+        "onboard_time": 1762506860,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109148,
+        "num": 109148,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 36,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 69493,
+        "num": 107308,
+        "word": "1106元泡泡玛特盲盒拆出2个重复款",
+        "onboard_time": 1762506680,
+        "rank": 37,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 49952,
+        "num": 106760,
+        "word": "没有人能复刻杨紫的来时路",
+        "onboard_time": 1762507882,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13283,
+        "num": 106474,
+        "word": "宋茜蕾丝蒙眼版姐姐真漂亮",
+        "onboard_time": 1762507821,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106228,
+        "num": 106228,
+        "word": "如果所有人都去考研考公考编了",
+        "onboard_time": 1762505900,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15299,
+        "num": 102479,
+        "word": "员工感叹卖79是不敬业还是说实话",
+        "onboard_time": 1762507220,
+        "rank": 41,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 101462,
+        "num": 101462,
+        "word": "辛芷蕾 为什么给我运作而不是别人呢",
+        "onboard_time": 1762498700,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100799,
+        "num": 100799,
+        "word": "关晓彤 娱乐圈来了个老衲",
+        "onboard_time": 1762506440,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99252,
+        "num": 99252,
+        "word": "张晚意漂浮衣服进水了",
+        "onboard_time": 1762508360,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97504,
+        "num": 97504,
+        "word": "KPL年总全员英文ID",
+        "onboard_time": 1762508241,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93663,
+        "num": 93663,
+        "word": "医生做手术时被涉诈停机",
+        "onboard_time": 1762502719,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90644,
+        "num": 90644,
+        "word": "一年级的老师上课这么卷吗",
+        "onboard_time": 1762507701,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88452,
+        "num": 88452,
+        "word": "33这一集全是腹肌",
+        "onboard_time": 1762505959,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88237,
+        "num": 88237,
+        "word": "邓为风月不相关停拍后",
+        "onboard_time": 1762501340,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席福建舰入列授旗仪式#"
+    }
+  }
+}

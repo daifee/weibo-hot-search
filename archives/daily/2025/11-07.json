@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762507719538,
+  "endTime": 1762508515805,
   "band_list": [
     {
       "raw_hot": 3155347,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 997576,
+      "num": 187434,
+      "word": "曝某女星采访到一半崩溃大哭",
+      "onboard_time": 1762505900,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 897658,
       "num": 1142926,
       "word": "日本熊害已逼近东京",
@@ -89,14 +97,6 @@
       "onboard_time": 1762490902,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 758493,
-      "num": 187434,
-      "word": "曝某女星采访到一半崩溃大哭",
-      "onboard_time": 1762505900,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 725006,
@@ -233,6 +233,14 @@
       "onboard_time": 1762479139,
       "rank": 7,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 499099,
+      "num": 150181,
+      "word": "刘诗诗参加杨紫生日会",
+      "onboard_time": 1762508360,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 483393,
@@ -379,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351514,
+      "num": 351514,
+      "word": "日本熊袭人有明显吃人痕迹",
+      "onboard_time": 1762499480,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 345250,
       "num": 345250,
       "word": "iPhone18Pro系列前瞻",
@@ -393,14 +409,6 @@
       "onboard_time": 1762417401,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330300,
-      "num": 330300,
-      "word": "日本熊袭人有明显吃人痕迹",
-      "onboard_time": 1762499480,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 330296,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289776,
+      "num": 183739,
+      "word": "坚持喝煮苹果水身体会发生什么",
+      "onboard_time": 1762506920,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280478,
       "num": 226753,
       "word": "辛芷蕾 为什么给我运作而不是别人呢",
@@ -475,20 +491,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274411,
+      "num": 274411,
+      "word": "小鹏悲壮自证",
+      "onboard_time": 1762505181,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271651,
       "num": 140199,
       "word": "真水无香和小雨妖妖十年后再同框",
       "onboard_time": 1762430721,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262744,
-      "num": 183739,
-      "word": "坚持喝煮苹果水身体会发生什么",
-      "onboard_time": 1762506920,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 247647,
@@ -505,6 +521,14 @@
       "onboard_time": 1762489942,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 244822,
+      "num": 145796,
+      "word": "机器人 性别",
+      "onboard_time": 1762507941,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 241592,
@@ -971,7 +995,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154408,
+      "raw_hot": 154474,
       "num": 179581,
       "word": "唐朝诡事录 无代餐",
       "onboard_time": 1762506080,
@@ -1107,6 +1131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138796,
+      "num": 138796,
+      "word": "为什么感觉天一冷人变好看了",
+      "onboard_time": 1762507761,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138718,
       "num": 138718,
       "word": "曝iPhone18Pro灵动岛将缩小",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1762505900,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130808,
+      "num": 240235,
+      "word": "冒充奶皮子",
+      "onboard_time": 1762506981,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 130582,
@@ -1547,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99252,
+      "num": 99252,
+      "word": "张晚意漂浮衣服进水了",
+      "onboard_time": 1762508360,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98392,
       "num": 154299,
       "word": "泡泡玛特客服回应直播间翻车事故",
@@ -1571,12 +1619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97504,
+      "num": 97504,
+      "word": "KPL年总全员英文ID",
+      "onboard_time": 1762508241,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97251,
       "num": 105649,
       "word": "奶皮子糖葫芦火完固体杨枝甘露火",
       "onboard_time": 1762443441,
       "rank": 28,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 96889,
+      "num": 152229,
+      "word": "粒上皇 烤红薯刺客",
+      "onboard_time": 1762507882,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 96273,
@@ -1627,28 +1691,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94803,
-      "num": 241206,
-      "word": "小鹏悲壮自证",
-      "onboard_time": 1762505181,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94005,
       "num": 94005,
       "word": "跟汪顺一起期待全运会",
       "onboard_time": 1762481480,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93846,
-      "num": 240235,
-      "word": "冒充奶皮子",
-      "onboard_time": 1762506981,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 93176,
@@ -1697,6 +1745,14 @@
       "onboard_time": 1762485561,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90644,
+      "num": 90644,
+      "word": "一年级的老师上课这么卷吗",
+      "onboard_time": 1762507701,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 90289,
@@ -1795,20 +1851,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87410,
-      "num": 87410,
-      "word": "一年级的老师上课这么卷吗",
-      "onboard_time": 1762507701,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87403,
       "num": 87403,
       "word": "在稻城亚丁看到了七彩祥云",
       "onboard_time": 1762501101,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 86632,
+      "num": 142442,
+      "word": "国防部正告赖清德之流",
+      "onboard_time": 1762507100,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86309,
@@ -2059,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69493,
+      "num": 123230,
+      "word": "1106元泡泡玛特盲盒拆出2个重复款",
+      "onboard_time": 1762506680,
+      "rank": 39,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 69019,
       "num": 113938,
       "word": "凤凰台上",
@@ -2211,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55984,
-      "num": 123230,
-      "word": "1106元泡泡玛特盲盒拆出2个重复款",
-      "onboard_time": 1762506680,
-      "rank": 39,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 55962,
       "num": 104968,
       "word": "王一博工作室叫弋博",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1762442421,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 49952,
+      "num": 106760,
+      "word": "没有人能复刻杨紫的来时路",
+      "onboard_time": 1762507882,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 48708,
@@ -2611,11 +2675,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15299,
+      "num": 123554,
+      "word": "员工感叹卖79是不敬业还是说实话",
+      "onboard_time": 1762507220,
+      "rank": 37,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 14302,
       "num": 37649,
       "word": "蜘蛛弟下线",
       "onboard_time": 1762454534,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13283,
+      "num": 106474,
+      "word": "宋茜蕾丝蒙眼版姐姐真漂亮",
+      "onboard_time": 1762507821,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2633,14 +2713,6 @@
       "onboard_time": 1762495520,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8955,
-      "num": 123554,
-      "word": "员工感叹卖79是不敬业还是说实话",
-      "onboard_time": 1762507220,
-      "rank": 37,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 7591,
