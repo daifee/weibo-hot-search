@@ -1,0 +1,410 @@
+{
+  "runTime": 1762485430143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893292,
+        "num": 1142926,
+        "word": "日本熊害已逼近东京",
+        "onboard_time": 1762481299,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 599882,
+        "num": 599882,
+        "word": "马思纯说花少聚会时长5小时起步",
+        "onboard_time": 1762481180,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24899,
+        "num": 582517,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568732,
+        "num": 568732,
+        "word": "耿爽说那我也不含蓄了",
+        "onboard_time": 1762480160,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 548067,
+        "num": 548067,
+        "word": "短剧还珠",
+        "onboard_time": 1762483759,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487202,
+        "num": 487202,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501062,
+        "num": 467106,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430196,
+        "num": 430196,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 7,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 410887,
+        "num": 410887,
+        "word": "英国国王正式剥夺安德鲁王子头衔",
+        "onboard_time": 1762479199,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "专家称美国用武力统一或是中国未来",
+        "onboard_time": 1762477819,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1641484,
+        "num": 236585,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 10,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 1498313,
+        "num": 235742,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 11,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 349377,
+        "num": 235448,
+        "word": "双轨",
+        "onboard_time": 1762484240,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234576,
+        "num": 234576,
+        "word": "水贝黄金市场一夜降温",
+        "onboard_time": 1762477939,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240655,
+        "num": 231590,
+        "word": "五月天疯狂动物城2中文主题曲",
+        "onboard_time": 1762482260,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219393,
+        "num": 219393,
+        "word": "合肥地震",
+        "onboard_time": 1762477699,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 206034,
+        "num": 206034,
+        "word": "敖瑞鹏演艺圈第一高人",
+        "onboard_time": 1762484058,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195437,
+        "num": 195437,
+        "word": "山河枕新浪扫楼",
+        "onboard_time": 1762483819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185329,
+        "num": 185329,
+        "word": "美国男子致女儿意外死亡后自杀",
+        "onboard_time": 1762473800,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166302,
+        "num": 166302,
+        "word": "网红尿毒症夫妇丈夫离世",
+        "onboard_time": 1762484599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191877,
+        "num": 165124,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161941,
+        "num": 161941,
+        "word": "张凌赫发了风力发电图",
+        "onboard_time": 1762482020,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152177,
+        "num": 152177,
+        "word": "月薪6000 花8万买塑形内衣",
+        "onboard_time": 1762444760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150009,
+        "num": 150009,
+        "word": "任嘉伦彭小苒凤凰台上开始预约",
+        "onboard_time": 1762484058,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146310,
+        "num": 146310,
+        "word": "立冬文案",
+        "onboard_time": 1762471037,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88961,
+        "num": 143429,
+        "word": "10岁男孩被生母继父虐死案开庭",
+        "onboard_time": 1762483880,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142490,
+        "num": 142490,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 26,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 28334,
+        "num": 142436,
+        "word": "大牌羽绒天猫补贴5折起",
+        "onboard_time": 1762481120,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114439,
+        "num": 142436,
+        "word": "10亿播放量歌手上音综被淘汰",
+        "onboard_time": 1762471098,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91835,
+        "num": 142436,
+        "word": "长期睡眠每天少于六小时的危险",
+        "onboard_time": 1762469716,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142436,
+        "num": 142435,
+        "word": "泡泡玛特被大量消费者质疑",
+        "onboard_time": 1762479199,
+        "rank": 30,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "烤红薯忘了这一步等于白烤",
+        "onboard_time": 1762479260,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126479,
+        "num": 126479,
+        "word": "全红婵回应以后是否跳水",
+        "onboard_time": 1762476920,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "教资查分",
+        "onboard_time": 1762483519,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110500,
+        "num": 110500,
+        "word": "娜扎说自己有绊脚石",
+        "onboard_time": 1762483580,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104061,
+        "num": 104061,
+        "word": "妻子说尿毒症丈夫生前一直为她做饭",
+        "onboard_time": 1762478000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 103925,
+        "word": "马斯克就万亿美元薪酬获批发声",
+        "onboard_time": 1762483279,
+        "rank": 36,
+        "category": "互联网,海外新闻"
+      },
+      {
+        "raw_hot": 31953,
+        "num": 103880,
+        "word": "少爷和我京东新番",
+        "onboard_time": 1762485318,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103878,
+        "num": 103878,
+        "word": "女子引产被拒诞下女婴被医生抱养",
+        "onboard_time": 1762442662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9565,
+        "num": 102522,
+        "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
+        "onboard_time": 1762485318,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101817,
+        "num": 101817,
+        "word": "泡泡玛特直播事故员工被处理",
+        "onboard_time": 1762481180,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98302,
+        "num": 98302,
+        "word": "张豆豆为孙杨全运会加油",
+        "onboard_time": 1762484839,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95882,
+        "num": 95882,
+        "word": "Uzi每一次都选择了Ruler",
+        "onboard_time": 1762484058,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91438,
+        "num": 91438,
+        "word": "王鹤棣孟子义首搭",
+        "onboard_time": 1762444821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91353,
+        "num": 91353,
+        "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
+        "onboard_time": 1762476801,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89186,
+        "num": 89186,
+        "word": "宋亚轩真假音切换",
+        "onboard_time": 1762485140,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84702,
+        "num": 84702,
+        "word": "沙溢 妈宝男就是形容我的",
+        "onboard_time": 1762485140,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52972,
+        "num": 81722,
+        "word": "北京试供暖了",
+        "onboard_time": 1762482919,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79875,
+        "num": 79875,
+        "word": "决不能让宝妈喂药上班的悲剧发生",
+        "onboard_time": 1762482080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78729,
+        "num": 78729,
+        "word": "中国代表表示遗憾",
+        "onboard_time": 1762485260,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#高标准建设海南自贸港#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762481964347,
+  "endTime": 1762485430143,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -235,20 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1498313,
+      "num": 1468953,
+      "word": "泡泡玛特 又是79",
+      "onboard_time": 1762477879,
+      "rank": 3,
+      "category": "休闲,民生新闻"
+    },
+    {
       "raw_hot": 1474377,
       "num": 411976,
       "word": "抗癌针",
       "onboard_time": 1762325540,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1468953,
-      "num": 1468953,
-      "word": "泡泡玛特 又是79",
-      "onboard_time": 1762477879,
-      "rank": 3,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 1461165,
@@ -657,6 +657,14 @@
       "onboard_time": 1762002923,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 893292,
+      "num": 1142926,
+      "word": "日本熊害已逼近东京",
+      "onboard_time": 1762481299,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 881192,
@@ -1395,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599882,
+      "num": 599882,
+      "word": "马思纯说花少聚会时长5小时起步",
+      "onboard_time": 1762481180,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595176,
       "num": 219895,
       "word": "爆改化妆师兔子怀孕了",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1762422502,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568732,
+      "num": 568732,
+      "word": "耿爽说那我也不含蓄了",
+      "onboard_time": 1762480160,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 566881,
@@ -1624,6 +1648,14 @@
       "word": "将门毒后女主原型是王艳",
       "onboard_time": 1762422261,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 548067,
+      "num": 548067,
+      "word": "短剧还珠",
+      "onboard_time": 1762483759,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -1887,6 +1919,14 @@
       "num": 273242,
       "word": "肖战人不到奖照拿",
       "onboard_time": 1762182084,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 501062,
+      "num": 467106,
+      "word": "央妈音综出手就是国家队顶配",
+      "onboard_time": 1762483580,
       "rank": 6,
       "category": "综艺"
     },
@@ -2483,6 +2523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 410887,
+      "num": 410887,
+      "word": "英国国王正式剥夺安德鲁王子头衔",
+      "onboard_time": 1762479199,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 410134,
       "num": 410134,
       "word": "安世中国不存在违约行为",
@@ -2545,14 +2593,6 @@
       "onboard_time": 1762170502,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406051,
-      "num": 406051,
-      "word": "英国国王正式剥夺安德鲁王子头衔",
-      "onboard_time": 1762479199,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 403914,
@@ -3019,14 +3059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356327,
-      "num": 356327,
-      "word": "耿爽说那我也不含蓄了",
-      "onboard_time": 1762480160,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 355771,
       "num": 355771,
       "word": "这些公务员不能辞职",
@@ -3121,6 +3153,14 @@
       "onboard_time": 1762314500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349377,
+      "num": 235448,
+      "word": "双轨",
+      "onboard_time": 1762484240,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 347847,
@@ -3633,14 +3673,6 @@
       "onboard_time": 1762426282,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300931,
-      "num": 247268,
-      "word": "马思纯说花少聚会时长5小时起步",
-      "onboard_time": 1762481180,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 300919,
@@ -4499,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240655,
+      "num": 231590,
+      "word": "五月天疯狂动物城2中文主题曲",
+      "onboard_time": 1762482260,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240259,
       "num": 240259,
       "word": "全体搜救队员静候航天员凯旋",
@@ -5355,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206034,
+      "num": 206034,
+      "word": "敖瑞鹏演艺圈第一高人",
+      "onboard_time": 1762484058,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205605,
       "num": 147297,
       "word": "元旦调休",
@@ -5739,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195437,
+      "num": 195437,
+      "word": "山河枕新浪扫楼",
+      "onboard_time": 1762483819,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195425,
       "num": 160638,
       "word": "房子基础穷装就不基础",
@@ -5785,14 +5841,6 @@
       "onboard_time": 1762314500,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194450,
-      "num": 113922,
-      "word": "日本熊害已逼近东京",
-      "onboard_time": 1762481299,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 194433,
@@ -5913,6 +5961,14 @@
       "onboard_time": 1761998180,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 191877,
+      "num": 165124,
+      "word": "孟子义沈娇娇对比图",
+      "onboard_time": 1762483099,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 191643,
@@ -6604,7 +6660,7 @@
     },
     {
       "raw_hot": 175679,
-      "num": 110417,
+      "num": 142436,
       "word": "长期睡眠每天少于六小时的危险",
       "onboard_time": 1762469716,
       "rank": 20,
@@ -7051,6 +7107,14 @@
       "category": "电竞,综艺"
     },
     {
+      "raw_hot": 166302,
+      "num": 166302,
+      "word": "网红尿毒症夫妇丈夫离世",
+      "onboard_time": 1762484599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166148,
       "num": 156747,
       "word": "前央视最帅主持人亚宁复出",
@@ -7353,6 +7417,14 @@
       "onboard_time": 1762183225,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161941,
+      "num": 161941,
+      "word": "张凌赫发了风力发电图",
+      "onboard_time": 1762482020,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 161560,
@@ -8099,6 +8171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150009,
+      "num": 150009,
+      "word": "任嘉伦彭小苒凤凰台上开始预约",
+      "onboard_time": 1762484058,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149688,
       "num": 149688,
       "word": "潘玮柏蒋梦婕 秀完你的秀我的",
@@ -8665,6 +8745,22 @@
       "onboard_time": 1762308140,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142490,
+      "num": 142490,
+      "word": "泡泡玛特大跌",
+      "onboard_time": 1762485260,
+      "rank": 26,
+      "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 142436,
+      "num": 142435,
+      "word": "泡泡玛特被大量消费者质疑",
+      "onboard_time": 1762479199,
+      "rank": 47,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 142412,
@@ -9299,6 +9395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "烤红薯忘了这一步等于白烤",
+      "onboard_time": 1762479260,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "369谈LPL与LCK差距",
@@ -9577,14 +9681,6 @@
       "onboard_time": 1762238299,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132718,
-      "num": 132718,
-      "word": "泡泡玛特被大量消费者质疑",
-      "onboard_time": 1762479199,
-      "rank": 47,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 132642,
@@ -10073,14 +10169,6 @@
       "onboard_time": 1762095801,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128034,
-      "num": 125039,
-      "word": "烤红薯忘了这一步等于白烤",
-      "onboard_time": 1762479260,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 127988,
@@ -11331,6 +11419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "教资查分",
+      "onboard_time": 1762483519,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116635,
       "num": 116635,
       "word": "遇到樊振东因为太瘦没认出来",
@@ -12089,6 +12185,14 @@
       "onboard_time": 1762174702,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 110500,
+      "num": 110500,
+      "word": "娜扎说自己有绊脚石",
+      "onboard_time": 1762483580,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 110465,
@@ -13059,6 +13163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103925,
+      "num": 103925,
+      "word": "马斯克就万亿美元薪酬获批发声",
+      "onboard_time": 1762483279,
+      "rank": 36,
+      "category": "互联网,海外新闻"
+    },
+    {
       "raw_hot": 103886,
       "num": 103886,
       "word": "51岁阿姨月薪1710元的独居生活",
@@ -13465,6 +13577,14 @@
       "onboard_time": 1762062200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101817,
+      "num": 101817,
+      "word": "泡泡玛特直播事故员工被处理",
+      "onboard_time": 1762481180,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101807,
@@ -14123,6 +14243,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 98302,
+      "num": 98302,
+      "word": "张豆豆为孙杨全运会加油",
+      "onboard_time": 1762484839,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98290,
       "num": 182023,
       "word": "竞燃之夜阵容官宣第二波",
@@ -14577,6 +14705,14 @@
       "onboard_time": 1762078580,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95882,
+      "num": 95882,
+      "word": "Uzi每一次都选择了Ruler",
+      "onboard_time": 1762484058,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95845,
@@ -15947,6 +16083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89186,
+      "num": 89186,
+      "word": "宋亚轩真假音切换",
+      "onboard_time": 1762485140,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89177,
       "num": 89177,
       "word": "馒头性价比之王",
@@ -15993,6 +16137,14 @@
       "onboard_time": 1762437921,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88961,
+      "num": 143429,
+      "word": "10岁男孩被生母继父虐死案开庭",
+      "onboard_time": 1762483880,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88885,
@@ -16579,14 +16731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86357,
-      "num": 87360,
-      "word": "泡泡玛特直播事故员工被处理",
-      "onboard_time": 1762481180,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86288,
       "num": 86288,
       "word": "马斯克万亿美元薪酬方案下周表决",
@@ -16873,6 +17017,14 @@
       "onboard_time": 1762423221,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84702,
+      "num": 84702,
+      "word": "沙溢 妈宝男就是形容我的",
+      "onboard_time": 1762485140,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 84691,
@@ -17659,6 +17811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79875,
+      "num": 79875,
+      "word": "决不能让宝妈喂药上班的悲剧发生",
+      "onboard_time": 1762482080,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79797,
       "num": 79797,
       "word": "这支湖人让人好陌生",
@@ -17785,6 +17945,14 @@
       "onboard_time": 1762480338,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78729,
+      "num": 78729,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78713,
@@ -20099,6 +20267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52972,
+      "num": 81722,
+      "word": "北京试供暖了",
+      "onboard_time": 1762482919,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52934,
       "num": 78969,
       "word": "中方回应日本政府向谢长廷授勋",
@@ -21339,6 +21515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31953,
+      "num": 103880,
+      "word": "少爷和我京东新番",
+      "onboard_time": 1762485318,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31824,
       "num": 163316,
       "word": "商家操纵甲醛检测数据制造焦虑",
@@ -22489,6 +22673,14 @@
       "onboard_time": 1762347502,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9565,
+      "num": 102522,
+      "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
+      "onboard_time": 1762485318,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9249,

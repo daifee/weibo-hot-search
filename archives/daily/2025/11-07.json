@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762481964347,
+  "endTime": 1762485430143,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -19,12 +19,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1468953,
+      "raw_hot": 1498313,
       "num": 1468953,
       "word": "泡泡玛特 又是79",
       "onboard_time": 1762477879,
       "rank": 3,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 893292,
+      "num": 1142926,
+      "word": "日本熊害已逼近东京",
+      "onboard_time": 1762481299,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 599882,
+      "num": 599882,
+      "word": "马思纯说花少聚会时长5小时起步",
+      "onboard_time": 1762481180,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 568732,
+      "num": 568732,
+      "word": "耿爽说那我也不含蓄了",
+      "onboard_time": 1762480160,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 550194,
@@ -33,6 +57,14 @@
       "onboard_time": 1762425621,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 548067,
+      "num": 548067,
+      "word": "短剧还珠",
+      "onboard_time": 1762483759,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 512550,
@@ -49,6 +81,14 @@
       "onboard_time": 1762444760,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501062,
+      "num": 467106,
+      "word": "央妈音综出手就是国家队顶配",
+      "onboard_time": 1762483580,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 483393,
@@ -75,8 +115,8 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 406051,
-      "num": 406051,
+      "raw_hot": 410887,
+      "num": 410887,
       "word": "英国国王正式剥夺安德鲁王子头衔",
       "onboard_time": 1762479199,
       "rank": 6,
@@ -115,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356327,
-      "num": 356327,
-      "word": "耿爽说那我也不含蓄了",
-      "onboard_time": 1762480160,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 353702,
       "num": 353702,
       "word": "水贝黄金市场一夜降温",
@@ -139,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 349377,
+      "num": 235448,
+      "word": "双轨",
+      "onboard_time": 1762484240,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331497,
       "num": 140357,
       "word": "杜华 荒谬",
@@ -153,14 +193,6 @@
       "onboard_time": 1762435041,
       "rank": 16,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 300931,
-      "num": 247268,
-      "word": "马思纯说花少聚会时长5小时起步",
-      "onboard_time": 1762481180,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 299443,
@@ -185,6 +217,14 @@
       "onboard_time": 1762430721,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240655,
+      "num": 231590,
+      "word": "五月天疯狂动物城2中文主题曲",
+      "onboard_time": 1762482260,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 231673,
@@ -219,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206034,
+      "num": 206034,
+      "word": "敖瑞鹏演艺圈第一高人",
+      "onboard_time": 1762484058,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197082,
       "num": 153834,
       "word": "全红婵回应以后是否跳水",
@@ -227,16 +275,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194450,
-      "num": 113922,
-      "word": "日本熊害已逼近东京",
-      "onboard_time": 1762481299,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 195437,
+      "num": 195437,
+      "word": "山河枕新浪扫楼",
+      "onboard_time": 1762483819,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191877,
+      "num": 165124,
+      "word": "孟子义沈娇娇对比图",
+      "onboard_time": 1762483099,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 175679,
-      "num": 110417,
+      "num": 142436,
       "word": "长期睡眠每天少于六小时的危险",
       "onboard_time": 1762469716,
       "rank": 20,
@@ -267,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166302,
+      "num": 166302,
+      "word": "网红尿毒症夫妇丈夫离世",
+      "onboard_time": 1762484599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164326,
       "num": 164326,
       "word": "立冬文案",
@@ -289,6 +353,14 @@
       "onboard_time": 1762479859,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161941,
+      "num": 161941,
+      "word": "张凌赫发了风力发电图",
+      "onboard_time": 1762482020,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 161265,
@@ -315,12 +387,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150009,
+      "num": 150009,
+      "word": "任嘉伦彭小苒凤凰台上开始预约",
+      "onboard_time": 1762484058,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142490,
+      "num": 142490,
+      "word": "泡泡玛特大跌",
+      "onboard_time": 1762485260,
+      "rank": 26,
+      "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 142436,
+      "num": 142435,
+      "word": "泡泡玛特被大量消费者质疑",
+      "onboard_time": 1762479199,
+      "rank": 47,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 142346,
       "num": 142346,
       "word": "陈芋汐希望和全红婵一起携手",
       "onboard_time": 1762430661,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "烤红薯忘了这一步等于白烤",
+      "onboard_time": 1762479260,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 133598,
@@ -331,28 +435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132718,
-      "num": 132718,
-      "word": "泡泡玛特被大量消费者质疑",
-      "onboard_time": 1762479199,
-      "rank": 47,
-      "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 128034,
-      "num": 125039,
-      "word": "烤红薯忘了这一步等于白烤",
-      "onboard_time": 1762479260,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "老师我家田曦薇不能露秋裤吗",
       "onboard_time": 1762432402,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "教资查分",
+      "onboard_time": 1762483519,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 111702,
@@ -371,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110500,
+      "num": 110500,
+      "word": "娜扎说自己有绊脚石",
+      "onboard_time": 1762483580,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108329,
       "num": 141911,
       "word": "全红婵回应获得第五",
@@ -385,6 +489,22 @@
       "onboard_time": 1762476260,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103925,
+      "num": 103925,
+      "word": "马斯克就万亿美元薪酬获批发声",
+      "onboard_time": 1762483279,
+      "rank": 36,
+      "category": "互联网,海外新闻"
+    },
+    {
+      "raw_hot": 101817,
+      "num": 101817,
+      "word": "泡泡玛特直播事故员工被处理",
+      "onboard_time": 1762481180,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100707,
@@ -411,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98302,
+      "num": 98302,
+      "word": "张豆豆为孙杨全运会加油",
+      "onboard_time": 1762484839,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97251,
       "num": 105649,
       "word": "奶皮子糖葫芦火完固体杨枝甘露火",
@@ -425,6 +553,14 @@
       "onboard_time": 1762433061,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95882,
+      "num": 95882,
+      "word": "Uzi每一次都选择了Ruler",
+      "onboard_time": 1762484058,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95151,
@@ -467,6 +603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89186,
+      "num": 89186,
+      "word": "宋亚轩真假音切换",
+      "onboard_time": 1762485140,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89091,
       "num": 105742,
       "word": "结婚登记增40.5万对",
@@ -475,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86357,
-      "num": 87360,
-      "word": "泡泡玛特直播事故员工被处理",
-      "onboard_time": 1762481180,
-      "rank": 39,
+      "raw_hot": 88961,
+      "num": 143429,
+      "word": "10岁男孩被生母继父虐死案开庭",
+      "onboard_time": 1762483880,
+      "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84702,
+      "num": 84702,
+      "word": "沙溢 妈宝男就是形容我的",
+      "onboard_time": 1762485140,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 82944,
@@ -489,6 +641,14 @@
       "onboard_time": 1762472118,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79875,
+      "num": 79875,
+      "word": "决不能让宝妈喂药上班的悲剧发生",
+      "onboard_time": 1762482080,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79052,
@@ -513,6 +673,14 @@
       "onboard_time": 1762480338,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78729,
+      "num": 78729,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78321,
@@ -675,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52972,
+      "num": 81722,
+      "word": "北京试供暖了",
+      "onboard_time": 1762482919,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52934,
       "num": 78969,
       "word": "中方回应日本政府向谢长廷授勋",
@@ -835,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31953,
+      "num": 103880,
+      "word": "少爷和我京东新番",
+      "onboard_time": 1762485318,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31717,
       "num": 86992,
       "word": "辛芷蕾把日掛中天白T穿出花",
@@ -897,6 +1081,14 @@
       "onboard_time": 1762454534,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9565,
+      "num": 102522,
+      "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
+      "onboard_time": 1762485318,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
