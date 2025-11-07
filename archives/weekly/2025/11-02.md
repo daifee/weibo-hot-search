@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 00:46:51
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 01:24:04
 </p>
 </blockquote>
 <p>
@@ -2619,6 +2619,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%23" target="weibo">
+格莱美（热度：314769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%80%80%E7%A4%BC%20%E6%B2%99%E5%83%A7%23" target="weibo">
 闫怀礼 沙僧（热度：314535）
 </a>
@@ -3257,6 +3263,12 @@ DRG早点 回家吧（热度：256453）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%83%A4%E9%B8%A1%E7%BF%85%23" target="weibo">
 中国航天员太空烤鸡翅（热度：253021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：253001）
 </a>
 </li>
 
@@ -10491,12 +10503,6 @@ hang娜美（热度：98058）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：97807）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E5%9C%B0%E9%80%89%E4%BA%86%E9%94%99%E8%AF%AF%E7%AD%94%E6%A1%88%23" target="weibo">
 田曦薇毫不犹豫地选了错误答案（热度：97784）
 </a>
@@ -15117,6 +15123,12 @@ CNN让台当局破防（热度：46708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E9%A3%8E%E8%BD%A6%E9%80%A0%E5%9E%8B%23" target="weibo">
+周深风车造型（热度：43564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E5%B1%85%E9%87%8C%E5%A4%AB%E4%BA%BA%E5%BC%8F%E5%A5%B3%E6%9D%B0%E8%90%A8%E6%9C%AC%E8%8C%82%E9%80%9D%E4%B8%96%23" target="weibo">
 人民海军居里夫人式女杰萨本茂逝世（热度：43511）
 </a>
@@ -15443,6 +15455,12 @@ CNN让台当局破防（热度：46708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%86%AC%E7%AC%AC1%E4%B8%AA%E9%A1%B6%E6%B5%81%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 入冬第1个顶流出现了（热度：36468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%9816%E4%B8%AA%E7%83%AB%E5%98%B4%E7%94%9F%E5%83%BB%E5%AD%97%23" target="weibo">
+挑战16个烫嘴生僻字（热度：36405）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762534011029,
+  "endTime": 1762536244092,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -83,11 +83,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314769,
+      "num": 478297,
+      "word": "格莱美",
+      "onboard_time": 1762535117,
+      "rank": 0,
+      "category": "音乐,综艺"
+    },
+    {
       "raw_hot": 299925,
       "num": 176949,
       "word": "30岁小伙长期熬夜智力退回3岁",
       "onboard_time": 1762525881,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253001,
+      "num": 253001,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -139,20 +155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176413,
+      "num": 169368,
+      "word": "米哈游 大丽花",
+      "onboard_time": 1762511902,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175174,
       "num": 175174,
       "word": "时代峰峻 我本来没想那么多的",
       "onboard_time": 1762515560,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169368,
-      "num": 169368,
-      "word": "米哈游 大丽花",
-      "onboard_time": 1762511902,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 162566,
@@ -249,14 +265,6 @@
       "onboard_time": 1762517841,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97807,
-      "num": 107531,
-      "word": "专家称DNA证实康熙为努尔哈赤支系",
-      "onboard_time": 1762532720,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97369,
@@ -427,12 +435,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43564,
+      "num": 53738,
+      "word": "周深风车造型",
+      "onboard_time": 1762534938,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40063,
+      "num": 53708,
+      "word": "山河枕",
+      "onboard_time": 1762535897,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39722,
       "num": 74736,
       "word": "激情全运会活力大湾区",
       "onboard_time": 1762533378,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38406,
+      "num": 53695,
+      "word": "林志玲说好想念被小S骂",
+      "onboard_time": 1762517480,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36405,
+      "num": 53763,
+      "word": "挑战16个烫嘴生僻字",
+      "onboard_time": 1762535057,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2118,

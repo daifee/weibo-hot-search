@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 00:46:51
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 01:24:04
 </p>
 </blockquote>
 <p>
@@ -2967,6 +2967,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E8%8E%B1%E7%BE%8E%23" target="weibo">
+格莱美（热度：314769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%80%80%E7%A4%BC%20%E6%B2%99%E5%83%A7%23" target="weibo">
 闫怀礼 沙僧（热度：314535）
 </a>
@@ -3719,6 +3725,12 @@ Chovy世界赛成绩 8884844（热度：254697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%A4%AA%E7%A9%BA%E7%83%A4%E9%B8%A1%E7%BF%85%23" target="weibo">
 中国航天员太空烤鸡翅（热度：253021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：253001）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Faker在第六冠与女友结婚之间选择夺冠（热度：168170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E6%8B%9B40%E5%90%8D%E6%B3%B0%E5%9B%BD%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85%23" target="weibo">
 曝安德鲁王子招40名泰国性工作者（热度：167703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%A7%8B%E5%85%83%E4%B8%80%E8%BE%B9%E5%BC%80%E6%9C%BA%E4%B8%80%E8%BE%B9%E6%9D%80%E9%9D%92%23" target="weibo">
-马秋元一边开机一边杀青（热度：167681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E8%AE%A1%E6%97%B6%E5%BC%95%E7%88%86%E6%91%A9%E5%A4%A9%E6%A5%BC%E5%AE%98%E5%AE%A3%E5%BC%95%E8%BF%9B%23" target="weibo">
-柯南计时引爆摩天楼官宣引进（热度：167578）
 </a>
 </li>
 
