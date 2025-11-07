@@ -1,0 +1,410 @@
+{
+  "runTime": 1762480666077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195973,
+        "num": 2195973,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 1842127,
+        "num": 1842127,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30836,
+        "num": 800706,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705232,
+        "num": 705232,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 3,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 333580,
+        "num": 333580,
+        "word": "专家称美国用武力统一或是中国未来",
+        "onboard_time": 1762477819,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289898,
+        "num": 289898,
+        "word": "10亿播放量歌手上音综被淘汰",
+        "onboard_time": 1762471098,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283416,
+        "num": 283416,
+        "word": "英国国王正式剥夺安德鲁王子头衔",
+        "onboard_time": 1762479199,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279237,
+        "num": 279237,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 7,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 184805,
+        "num": 184805,
+        "word": "水贝黄金市场一夜降温",
+        "onboard_time": 1762477939,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164326,
+        "num": 164326,
+        "word": "立冬文案",
+        "onboard_time": 1762471037,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333467,
+        "num": 164241,
+        "word": "月薪6000 花8万买塑形内衣",
+        "onboard_time": 1762444760,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315322,
+        "num": 164175,
+        "word": "合肥地震",
+        "onboard_time": 1762477699,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 294521,
+        "num": 163995,
+        "word": "女子引产被拒诞下女婴被医生抱养",
+        "onboard_time": 1762442662,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190645,
+        "num": 163753,
+        "word": "美国男子致女儿意外死亡后自杀",
+        "onboard_time": 1762473800,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181841,
+        "num": 163710,
+        "word": "抖音回应温峥嵘被AI盗播",
+        "onboard_time": 1762462994,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 163590,
+        "num": 163590,
+        "word": "安徽肥东县3.3级地震",
+        "onboard_time": 1762479859,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160041,
+        "num": 160041,
+        "word": "郭美美2次入狱又试图复出",
+        "onboard_time": 1762435041,
+        "rank": 16,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 101893,
+        "num": 156303,
+        "word": "教资笔试成绩开始查分",
+        "onboard_time": 1762478659,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100707,
+        "num": 154517,
+        "word": "侯明昊卢昱晓看吻戏名场面",
+        "onboard_time": 1762479560,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98392,
+        "num": 154299,
+        "word": "泡泡玛特客服回应直播间翻车事故",
+        "onboard_time": 1762479619,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154252,
+        "num": 154252,
+        "word": "饺子是冬至吃还是立冬吃",
+        "onboard_time": 1762477939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212106,
+        "num": 154001,
+        "word": "王鹤棣孟子义首搭",
+        "onboard_time": 1762444821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 153834,
+        "word": "全红婵回应以后是否跳水",
+        "onboard_time": 1762476920,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189929,
+        "num": 153728,
+        "word": "耿爽说那我也不含蓄了",
+        "onboard_time": 1762480160,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153284,
+        "num": 153284,
+        "word": "妻子说尿毒症丈夫生前一直为她做饭",
+        "onboard_time": 1762478000,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140976,
+        "num": 140976,
+        "word": "昆凌回复周杰伦",
+        "onboard_time": 1762439242,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140770,
+        "num": 140770,
+        "word": "康熙粉退坑出",
+        "onboard_time": 1762440383,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129029,
+        "num": 129029,
+        "word": "杨紫四部大女主剧待播",
+        "onboard_time": 1762440443,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69019,
+        "num": 111719,
+        "word": "凤凰台上",
+        "onboard_time": 1762441103,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55618,
+        "num": 111681,
+        "word": "网传雪中悍刀行2阵容",
+        "onboard_time": 1762434861,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111671,
+        "num": 111671,
+        "word": "白百何回应东京电影节争议",
+        "onboard_time": 1762425621,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128034,
+        "num": 111662,
+        "word": "烤红薯忘了这一步等于白烤",
+        "onboard_time": 1762479260,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110432,
+        "num": 110432,
+        "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
+        "onboard_time": 1762476801,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105991,
+        "num": 105991,
+        "word": "GTA6再次延期",
+        "onboard_time": 1762476260,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103757,
+        "num": 103757,
+        "word": "长期睡眠每天少于六小时的危险",
+        "onboard_time": 1762469716,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92991,
+        "num": 92991,
+        "word": "迪卡侬回应顾客误认透气孔弄丢手机",
+        "onboard_time": 1762445301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89986,
+        "num": 89986,
+        "word": "tarzan说带孩子打卡乐园",
+        "onboard_time": 1762478059,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95151,
+        "num": 89723,
+        "word": "金晨黄景瑜这段我在张晚意那看过",
+        "onboard_time": 1762478240,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85011,
+        "num": 85011,
+        "word": "这才是真正的道歉",
+        "onboard_time": 1762438700,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 82944,
+        "num": 82944,
+        "word": "佩洛西宣布将退休",
+        "onboard_time": 1762472118,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78732,
+        "num": 78732,
+        "word": "我将掉进床缝里听一天",
+        "onboard_time": 1762480338,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77280,
+        "num": 77280,
+        "word": "考公一定要有强大的信念感",
+        "onboard_time": 1762478479,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75265,
+        "num": 75265,
+        "word": "猫咪捂脚嫌冷递拖鞋它真的伸脚穿了",
+        "onboard_time": 1762476441,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50507,
+        "num": 74183,
+        "word": "张泽禹 声生不息",
+        "onboard_time": 1762441461,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73877,
+        "num": 73877,
+        "word": "2女子嫌小摊出餐慢怒砸做好的丸子",
+        "onboard_time": 1762479019,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72543,
+        "num": 72543,
+        "word": "十五运开幕式倒计时2天",
+        "onboard_time": 1762480219,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71937,
+        "num": 71937,
+        "word": "秋冬穿搭显贵公式",
+        "onboard_time": 1762479319,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 69900,
+        "num": 69900,
+        "word": "泡泡玛特被大量消费者质疑",
+        "onboard_time": 1762479199,
+        "rank": 47,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 66450,
+        "num": 69894,
+        "word": "上海平均工资全国第一",
+        "onboard_time": 1762476499,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42433,
+        "num": 69854,
+        "word": "张凯丽曾代言的足力健涉多起纠纷",
+        "onboard_time": 1762443381,
+        "rank": 49,
+        "category": "艺人,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对海南寄予的厚望#"
+    }
+  }
+}

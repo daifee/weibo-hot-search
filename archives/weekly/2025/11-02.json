@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762472337636,
+  "endTime": 1762480666077,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2195973,
+      "num": 2195973,
+      "word": "泡泡玛特直播事故",
+      "onboard_time": 1762472179,
+      "rank": 30,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 1865967,
       "num": 154641,
       "word": "白百何回应",
@@ -97,6 +105,14 @@
       "onboard_time": 1762153161,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1842127,
+      "num": 1842127,
+      "word": "立冬",
+      "onboard_time": 1762470618,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1793569,
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 876781,
-      "num": 965354,
-      "word": "立冬",
-      "onboard_time": 1762470618,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 872830,
       "num": 384252,
       "word": "桂纶镁回应白百何落选",
@@ -825,6 +833,14 @@
       "onboard_time": 1762307121,
       "rank": 36,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 705232,
+      "num": 705232,
+      "word": "泡泡玛特 又是79",
+      "onboard_time": 1762477879,
+      "rank": 3,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 697148,
@@ -1516,7 +1532,7 @@
     },
     {
       "raw_hot": 511763,
-      "num": 139941,
+      "num": 164241,
       "word": "月薪6000 花8万买塑形内衣",
       "onboard_time": 1762444760,
       "rank": 15,
@@ -2364,7 +2380,7 @@
     },
     {
       "raw_hot": 373894,
-      "num": 93892,
+      "num": 163710,
       "word": "抖音回应温峥嵘被AI盗播",
       "onboard_time": 1762462994,
       "rank": 24,
@@ -2747,6 +2763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 333580,
+      "num": 333580,
+      "word": "专家称美国用武力统一或是中国未来",
+      "onboard_time": 1762477819,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 333536,
       "num": 180454,
       "word": "时代峰峻公司WiFi密码",
@@ -2889,6 +2913,14 @@
       "onboard_time": 1762141820,
       "rank": 16,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 315322,
+      "num": 164175,
+      "word": "合肥地震",
+      "onboard_time": 1762477699,
+      "rank": 11,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 313857,
@@ -3131,14 +3163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293817,
-      "num": 79073,
-      "word": "泡泡玛特直播事故",
-      "onboard_time": 1762472179,
-      "rank": 30,
-      "category": "民生新闻,休闲"
-    },
-    {
       "raw_hot": 291134,
       "num": 245256,
       "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1762329681,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289898,
+      "num": 289898,
+      "word": "10亿播放量歌手上音综被淘汰",
+      "onboard_time": 1762471098,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 288929,
@@ -3217,6 +3249,14 @@
       "onboard_time": 1762317982,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283416,
+      "num": 283416,
+      "word": "英国国王正式剥夺安德鲁王子头衔",
+      "onboard_time": 1762479199,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 283255,
@@ -3289,6 +3329,14 @@
       "onboard_time": 1762140920,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279237,
+      "num": 279237,
+      "word": "泡泡玛特回应直播事故",
+      "onboard_time": 1762479139,
+      "rank": 7,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 278895,
@@ -4235,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212106,
+      "num": 472141,
+      "word": "王鹤棣孟子义首搭",
+      "onboard_time": 1762444821,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -4827,6 +4883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192209,
+      "num": 153834,
+      "word": "全红婵回应以后是否跳水",
+      "onboard_time": 1762476920,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192089,
       "num": 192089,
       "word": "85后夫妻16年生6个儿子",
@@ -4867,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190645,
+      "num": 163753,
+      "word": "美国男子致女儿意外死亡后自杀",
+      "onboard_time": 1762473800,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 190621,
       "num": 190621,
       "word": "美国政府停摆时长破历史纪录",
@@ -4889,6 +4961,14 @@
       "onboard_time": 1762342100,
       "rank": 4,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 189929,
+      "num": 153728,
+      "word": "耿爽说那我也不含蓄了",
+      "onboard_time": 1762480160,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189445,
@@ -5113,6 +5193,14 @@
       "onboard_time": 1762094002,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184805,
+      "num": 184805,
+      "word": "水贝黄金市场一夜降温",
+      "onboard_time": 1762477939,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 184490,
@@ -5396,7 +5484,7 @@
     },
     {
       "raw_hot": 175679,
-      "num": 93800,
+      "num": 103757,
       "word": "长期睡眠每天少于六小时的危险",
       "onboard_time": 1762469716,
       "rank": 20,
@@ -5667,14 +5755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168397,
-      "num": 472141,
-      "word": "王鹤棣孟子义首搭",
-      "onboard_time": 1762444821,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168315,
       "num": 168315,
       "word": "有严重鱼鳞病所以经常用猪油泡澡",
@@ -5875,6 +5955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164326,
+      "num": 164326,
+      "word": "立冬文案",
+      "onboard_time": 1762471037,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164288,
       "num": 164288,
       "word": "苏醒你对我的经济实力一无所知",
@@ -5921,6 +6009,14 @@
       "onboard_time": 1762188498,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163590,
+      "num": 163590,
+      "word": "安徽肥东县3.3级地震",
+      "onboard_time": 1762479859,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 163488,
@@ -6331,6 +6427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154252,
+      "num": 154252,
+      "word": "饺子是冬至吃还是立冬吃",
+      "onboard_time": 1762477939,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154243,
       "num": 154243,
       "word": "为什么一到冬天你就突然变好看了",
@@ -6345,6 +6449,14 @@
       "onboard_time": 1762259120,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153284,
+      "num": 153284,
+      "word": "妻子说尿毒症丈夫生前一直为她做饭",
+      "onboard_time": 1762478000,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153231,
@@ -8131,6 +8243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128034,
+      "num": 111662,
+      "word": "烤红薯忘了这一步等于白烤",
+      "onboard_time": 1762479260,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127776,
       "num": 97655,
       "word": "甲流H3N2症状比普通感冒更重",
@@ -8809,14 +8929,6 @@
       "onboard_time": 1762344501,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119067,
-      "num": 119067,
-      "word": "立冬文案",
-      "onboard_time": 1762471037,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119014,
@@ -9779,6 +9891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110432,
+      "num": 110432,
+      "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
+      "onboard_time": 1762476801,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110416,
       "num": 110416,
       "word": "考公人vs考研人",
@@ -10321,6 +10441,14 @@
       "onboard_time": 1762183462,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105991,
+      "num": 105991,
+      "word": "GTA6再次延期",
+      "onboard_time": 1762476260,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 105928,
@@ -10947,6 +11075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101893,
+      "num": 156303,
+      "word": "教资笔试成绩开始查分",
+      "onboard_time": 1762478659,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101856,
       "num": 121410,
       "word": "刘宪华乌镇录制向往的生活",
@@ -11073,6 +11209,14 @@
       "onboard_time": 1762422081,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 100707,
+      "num": 154517,
+      "word": "侯明昊卢昱晓看吻戏名场面",
+      "onboard_time": 1762479560,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 100649,
@@ -11433,6 +11577,14 @@
       "onboard_time": 1762088062,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98392,
+      "num": 154299,
+      "word": "泡泡玛特客服回应直播间翻车事故",
+      "onboard_time": 1762479619,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98353,
@@ -11971,6 +12123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95151,
+      "num": 89723,
+      "word": "金晨黄景瑜这段我在张晚意那看过",
+      "onboard_time": 1762478240,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95087,
       "num": 168892,
       "word": "金店关门潮蔓延",
@@ -12233,14 +12393,6 @@
       "onboard_time": 1762149140,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 93764,
-      "num": 93764,
-      "word": "10亿播放量歌手上音综被淘汰",
-      "onboard_time": 1762471098,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 93763,
@@ -12905,6 +13057,14 @@
       "onboard_time": 1762402401,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89986,
+      "num": 89986,
+      "word": "tarzan说带孩子打卡乐园",
+      "onboard_time": 1762478059,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 89929,
@@ -14179,6 +14339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82944,
+      "num": 82944,
+      "word": "佩洛西宣布将退休",
+      "onboard_time": 1762472118,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82939,
       "num": 82939,
       "word": "谁给黄渤设计的这个翘腿",
@@ -14651,6 +14819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78732,
+      "num": 78732,
+      "word": "我将掉进床缝里听一天",
+      "onboard_time": 1762480338,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78701,
       "num": 78701,
       "word": "我将不再称呼自己为牛马",
@@ -14857,6 +15033,14 @@
       "onboard_time": 1762347442,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77280,
+      "num": 77280,
+      "word": "考公一定要有强大的信念感",
+      "onboard_time": 1762478479,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 77259,
@@ -15075,6 +15259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75265,
+      "num": 75265,
+      "word": "猫咪捂脚嫌冷递拖鞋它真的伸脚穿了",
+      "onboard_time": 1762476441,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75054,
       "num": 75054,
       "word": "女子骑错车反将车主小孩赶下",
@@ -15177,6 +15369,14 @@
       "onboard_time": 1762152980,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73877,
+      "num": 73877,
+      "word": "2女子嫌小摊出餐慢怒砸做好的丸子",
+      "onboard_time": 1762479019,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73769,
@@ -15307,6 +15507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72543,
+      "num": 72543,
+      "word": "十五运开幕式倒计时2天",
+      "onboard_time": 1762480219,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72525,
       "num": 776950,
       "word": "第八届进博会",
@@ -15377,6 +15585,14 @@
       "onboard_time": 1762397960,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71937,
+      "num": 71937,
+      "word": "秋冬穿搭显贵公式",
+      "onboard_time": 1762479319,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 71555,
@@ -15489,6 +15705,14 @@
       "onboard_time": 1762274897,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69900,
+      "num": 69900,
+      "word": "泡泡玛特被大量消费者质疑",
+      "onboard_time": 1762479199,
+      "rank": 47,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 69798,
@@ -15713,6 +15937,14 @@
       "onboard_time": 1762263802,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66450,
+      "num": 69894,
+      "word": "上海平均工资全国第一",
+      "onboard_time": 1762476499,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66401,
@@ -17033,14 +17265,6 @@
       "onboard_time": 1762212438,
       "rank": 44,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 40731,
-      "num": 78266,
-      "word": "佩洛西宣布将退休",
-      "onboard_time": 1762472118,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40665,
