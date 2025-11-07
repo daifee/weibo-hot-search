@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762540601437,
+  "endTime": 1762541252927,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -427,12 +427,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 47833,
+      "num": 41891,
+      "word": "王源生日晒照",
+      "onboard_time": 1762540996,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44070,
       "num": 74702,
       "word": "张本智和止步十六强",
       "onboard_time": 1762528822,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44066,
+      "num": 41793,
+      "word": "雷军身家368亿美元超越马云",
+      "onboard_time": 1762540694,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 43564,
@@ -499,7 +515,7 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 13757,
+      "raw_hot": 19710,
       "num": 50356,
       "word": "日本熊灾 猎人",
       "onboard_time": 1762540275,
