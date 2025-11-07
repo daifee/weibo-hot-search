@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 02:47:32
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 03:22:19
 </p>
 </blockquote>
 <p>
@@ -14997,6 +14997,12 @@ ChatGP禁止提供专业医疗法律财务建议（热度：50409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%20%E7%8C%8E%E4%BA%BA%23" target="weibo">
+日本熊灾 猎人（热度：47385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%9C%BA%E8%BF%9E%E6%8E%89%E4%B8%A4%E6%9E%B6%E5%B9%B6%E9%9D%9E%E5%B7%A7%E5%90%88%23" target="weibo">
 美方称美军机连掉两架并非巧合（热度：47361）
 </a>
@@ -16221,12 +16227,6 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%20%E7%8C%8E%E4%BA%BA%23" target="weibo">
-日本熊灾 猎人（热度：19710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%BA%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E5%B9%BF%E5%B7%9E%E7%AB%99%E6%89%93call%23" target="weibo">
 王一博为火炬传递广州站打call（热度：19695）
 </a>
@@ -16385,6 +16385,18 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%84%9F%E5%8F%B9%E5%8D%9679%E6%98%AF%E4%B8%8D%E6%95%AC%E4%B8%9A%E8%BF%98%E6%98%AF%E8%AF%B4%E5%AE%9E%E8%AF%9D%23" target="weibo">
 员工感叹卖79是不敬业还是说实话（热度：15299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
+蔡徐坤新歌上线时间（热度：15196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CV%E5%90%B4%E7%A3%8A%E5%A3%B0%E6%98%8E%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%23" target="weibo">
+CV吴磊声明回应起诉（热度：14907）
 </a>
 </li>
 

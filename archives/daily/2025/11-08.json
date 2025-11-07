@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762541252927,
+  "endTime": 1762543339678,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47385,
+      "num": 50356,
+      "word": "日本熊灾 猎人",
+      "onboard_time": 1762540275,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44070,
       "num": 74702,
       "word": "张本智和止步十六强",
@@ -515,12 +523,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 19710,
-      "num": 50356,
-      "word": "日本熊灾 猎人",
-      "onboard_time": 1762540275,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 15196,
+      "num": 30548,
+      "word": "蔡徐坤新歌上线时间",
+      "onboard_time": 1762541775,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 14907,
+      "num": 30539,
+      "word": "CV吴磊声明回应起诉",
+      "onboard_time": 1762543275,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 2118,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 02:47:32
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 03:22:19
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%20%E7%8C%8E%E4%BA%BA%23" target="weibo">
+日本熊灾 猎人（热度：47385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA%23" target="weibo">
 张本智和止步十六强（热度：44070）
 </a>
@@ -399,8 +405,14 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%20%E7%8C%8E%E4%BA%BA%23" target="weibo">
-日本熊灾 猎人（热度：19710）
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
+蔡徐坤新歌上线时间（热度：15196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CV%E5%90%B4%E7%A3%8A%E5%A3%B0%E6%98%8E%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%23" target="weibo">
+CV吴磊声明回应起诉（热度：14907）
 </a>
 </li>
 
