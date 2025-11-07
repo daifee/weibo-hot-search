@@ -1,0 +1,410 @@
+{
+  "runTime": 1762490712330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270401,
+        "num": 1270401,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 0,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 777256,
+        "num": 777256,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17027,
+        "num": 660771,
+        "word": "青知讲说人",
+        "onboard_time": 1762489701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565677,
+        "num": 565677,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472173,
+        "num": 472173,
+        "word": "杜若溪为和严屹宽拍戏放弃女一号",
+        "onboard_time": 1762485859,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416957,
+        "num": 416957,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 5,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 391049,
+        "num": 391049,
+        "word": "日本熊害已逼近东京",
+        "onboard_time": 1762481299,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330296,
+        "num": 330296,
+        "word": "疯狂动物城",
+        "onboard_time": 1762486161,
+        "rank": 7,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 280751,
+        "num": 280751,
+        "word": "耿爽说那我也不含蓄了",
+        "onboard_time": 1762480160,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262894,
+        "num": 262894,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1832693,
+        "num": 262738,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 10,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 540860,
+        "num": 257986,
+        "word": "孙乐言来了也分不清奥斯卡冯程朗",
+        "onboard_time": 1762487060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10536,
+        "num": 257363,
+        "word": "少爷和我京东新番",
+        "onboard_time": 1762485318,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436443,
+        "num": 253027,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 13,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 17855,
+        "num": 251947,
+        "word": "谁能拒绝一场秋天的露营局",
+        "onboard_time": 1762489942,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38801,
+        "num": 249678,
+        "word": "立冬第一顿我被外卖请客了",
+        "onboard_time": 1762486519,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330029,
+        "num": 246334,
+        "word": "网红尿毒症夫妇丈夫离世",
+        "onboard_time": 1762484599,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319540,
+        "num": 245064,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313544,
+        "num": 242976,
+        "word": "短剧还珠",
+        "onboard_time": 1762483759,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192675,
+        "num": 239167,
+        "word": "刘嘉玲 你拍王家卫不用担心灯光",
+        "onboard_time": 1762489762,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101665,
+        "num": 237022,
+        "word": "天猫双11巅峰冲刺新发万元大券包",
+        "onboard_time": 1762488320,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 442157,
+        "num": 233508,
+        "word": "马天宇蒋依依机场偶遇",
+        "onboard_time": 1762488680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267220,
+        "num": 232839,
+        "word": "专家称美国用武力统一或是中国未来",
+        "onboard_time": 1762477819,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265793,
+        "num": 228513,
+        "word": "马思纯说花少聚会时长5小时起步",
+        "onboard_time": 1762481180,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228148,
+        "num": 228148,
+        "word": "恋与深空",
+        "onboard_time": 1762489519,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102504,
+        "num": 217702,
+        "word": "泡泡玛特79元挂链盲盒仿品成本4元",
+        "onboard_time": 1762488859,
+        "rank": 25,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 213005,
+        "num": 213005,
+        "word": "苏新皓 要爆了",
+        "onboard_time": 1762490121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208665,
+        "num": 208665,
+        "word": "就说爆改还珠格格会出大事吧",
+        "onboard_time": 1762487360,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201107,
+        "num": 201107,
+        "word": "宋茜进来美我一大跳",
+        "onboard_time": 1762487899,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 194926,
+        "word": "日本决定允许警察射杀熊",
+        "onboard_time": 1762487420,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244943,
+        "num": 193919,
+        "word": "她这一天是小说都不敢写的程度",
+        "onboard_time": 1762489942,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 189052,
+        "num": 189052,
+        "word": "Angelababy直播素颜状态",
+        "onboard_time": 1762487540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176607,
+        "num": 176607,
+        "word": "抑郁解离的人一眼就能看出来",
+        "onboard_time": 1762487959,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172465,
+        "num": 172465,
+        "word": "中美电影节上的沈月",
+        "onboard_time": 1762489821,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46639,
+        "num": 170401,
+        "word": "泡泡玛特挂链被吐槽品控差",
+        "onboard_time": 1762488859,
+        "rank": 34,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 170056,
+        "num": 170056,
+        "word": "成毅扛完你的扛你的",
+        "onboard_time": 1762489219,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160824,
+        "num": 160824,
+        "word": "特朗普又称8架印战机被击落",
+        "onboard_time": 1762488441,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152951,
+        "num": 152951,
+        "word": "日本熊害已致至少12死",
+        "onboard_time": 1762487601,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150411,
+        "num": 150411,
+        "word": "网传泡泡玛特涉事直播人员被开除不实",
+        "onboard_time": 1762487001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30784,
+        "num": 146122,
+        "word": "骑手好人好事将得到美团专项奖励",
+        "onboard_time": 1762488081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145243,
+        "num": 145243,
+        "word": "敖瑞鹏演艺圈第一高人",
+        "onboard_time": 1762484058,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139488,
+        "num": 139488,
+        "word": "当你在一个理想的家庭里",
+        "onboard_time": 1762490241,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138051,
+        "num": 138051,
+        "word": "我追尾前车但前车逃逸了",
+        "onboard_time": 1762489040,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135010,
+        "num": 135010,
+        "word": "中国代表表示遗憾",
+        "onboard_time": 1762485260,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130582,
+        "num": 130582,
+        "word": "泡泡玛特 溢价",
+        "onboard_time": 1762490061,
+        "rank": 44,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1762490541,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126786,
+        "num": 126786,
+        "word": "任嘉伦彭小苒这次演了大甜剧",
+        "onboard_time": 1762485620,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121463,
+        "num": 121463,
+        "word": "四喜",
+        "onboard_time": 1762489341,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78882,
+        "num": 120941,
+        "word": "秦昊杨超越假熟",
+        "onboard_time": 1762488920,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122027,
+        "num": 120904,
+        "word": "丁禹兮笑脸baby冷脸daddy",
+        "onboard_time": 1762490661,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
+    }
+  }
+}

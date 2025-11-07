@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762489868537,
+  "endTime": 1762490712330,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 777256,
+      "num": 777256,
+      "word": "康熙不可能是洪承畴的儿子",
+      "onboard_time": 1762487780,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 700188,
       "num": 700188,
       "word": "央妈音综出手就是国家队顶配",
@@ -65,14 +73,6 @@
       "onboard_time": 1762481180,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 588628,
-      "num": 588628,
-      "word": "康熙不可能是洪承畴的儿子",
-      "onboard_time": 1762487780,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 574779,
@@ -99,7 +99,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 521289,
+      "raw_hot": 540860,
       "num": 298176,
       "word": "孙乐言来了也分不清奥斯卡冯程朗",
       "onboard_time": 1762487060,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472173,
+      "num": 472173,
+      "word": "杜若溪为和严屹宽拍戏放弃女一号",
+      "onboard_time": 1762485859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456296,
       "num": 140834,
       "word": "这才是真正的道歉",
@@ -155,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 428410,
-      "num": 428410,
-      "word": "杜若溪为和严屹宽拍戏放弃女一号",
-      "onboard_time": 1762485859,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 442157,
+      "num": 233508,
+      "word": "马天宇蒋依依机场偶遇",
+      "onboard_time": 1762488680,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 410887,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330296,
+      "num": 330296,
+      "word": "疯狂动物城",
+      "onboard_time": 1762486161,
+      "rank": 46,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 309678,
       "num": 160041,
       "word": "郭美美2次入狱又试图复出",
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244943,
+      "num": 193919,
+      "word": "她这一天是小说都不敢写的程度",
+      "onboard_time": 1762489942,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 240655,
       "num": 231590,
       "word": "五月天疯狂动物城2中文主题曲",
@@ -291,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224536,
-      "num": 224536,
-      "word": "疯狂动物城",
-      "onboard_time": 1762486161,
-      "rank": 46,
-      "category": "电影,动漫"
+      "raw_hot": 228148,
+      "num": 228148,
+      "word": "恋与深空",
+      "onboard_time": 1762489519,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 216314,
@@ -313,6 +337,14 @@
       "onboard_time": 1762487899,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213005,
+      "num": 213005,
+      "word": "苏新皓 要爆了",
+      "onboard_time": 1762490121,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 212140,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192675,
+      "num": 239167,
+      "word": "刘嘉玲 你拍王家卫不用担心灯光",
+      "onboard_time": 1762489762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190506,
       "num": 190506,
       "word": "任嘉伦彭小苒这次演了大甜剧",
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176607,
+      "num": 176607,
+      "word": "抑郁解离的人一眼就能看出来",
+      "onboard_time": 1762487959,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175679,
       "num": 142436,
       "word": "长期睡眠每天少于六小时的危险",
@@ -427,20 +475,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173488,
-      "num": 173488,
-      "word": "马天宇蒋依依机场偶遇",
-      "onboard_time": 1762488680,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172330,
-      "num": 172330,
-      "word": "抑郁解离的人一眼就能看出来",
-      "onboard_time": 1762487959,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 172465,
+      "num": 172465,
+      "word": "中美电影节上的沈月",
+      "onboard_time": 1762489821,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 169427,
@@ -489,14 +529,6 @@
       "onboard_time": 1762471037,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164232,
-      "num": 164232,
-      "word": "恋与深空",
-      "onboard_time": 1762489519,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 164200,
@@ -611,12 +643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139488,
+      "num": 139488,
+      "word": "当你在一个理想的家庭里",
+      "onboard_time": 1762490241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139187,
       "num": 139187,
       "word": "龙族是真的掏心掏肺",
       "onboard_time": 1762488381,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "我追尾前车但前车逃逸了",
+      "onboard_time": 1762489040,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 135878,
@@ -627,12 +675,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134347,
-      "num": 134347,
-      "word": "我追尾前车但前车逃逸了",
-      "onboard_time": 1762489040,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 135010,
+      "num": 135010,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133598,
@@ -641,6 +689,22 @@
       "onboard_time": 1762476801,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "泡泡玛特 溢价",
+      "onboard_time": 1762490061,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 126948,
+      "num": 126948,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1762490541,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 125685,
@@ -667,12 +731,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119449,
-      "num": 119449,
-      "word": "中国代表表示遗憾",
-      "onboard_time": 1762485260,
+      "raw_hot": 122027,
+      "num": 120904,
+      "word": "丁禹兮笑脸baby冷脸daddy",
+      "onboard_time": 1762490661,
       "rank": 49,
-      "category": "国际时政"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121463,
+      "num": 121463,
+      "word": "四喜",
+      "onboard_time": 1762489341,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119328,
@@ -681,30 +753,6 @@
       "onboard_time": 1762432402,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117883,
-      "num": 167073,
-      "word": "刘嘉玲 你拍王家卫不用担心灯光",
-      "onboard_time": 1762489762,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116380,
-      "num": 116380,
-      "word": "中美电影节上的沈月",
-      "onboard_time": 1762489821,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 116046,
-      "num": 116046,
-      "word": "四喜",
-      "onboard_time": 1762489341,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 114302,
@@ -785,6 +833,22 @@
       "onboard_time": 1762476260,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102504,
+      "num": 332930,
+      "word": "泡泡玛特79元挂链盲盒仿品成本4元",
+      "onboard_time": 1762488859,
+      "rank": 9,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 101665,
+      "num": 279143,
+      "word": "天猫双11巅峰冲刺新发万元大券包",
+      "onboard_time": 1762488320,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 100707,
@@ -1067,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64636,
-      "num": 279143,
-      "word": "天猫双11巅峰冲刺新发万元大券包",
-      "onboard_time": 1762488320,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63349,
       "num": 285036,
       "word": "立冬第一顿我被外卖请客了",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1762434141,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61161,
-      "num": 332930,
-      "word": "泡泡玛特79元挂链盲盒仿品成本4元",
-      "onboard_time": 1762488859,
-      "rank": 9,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 59031,
@@ -1243,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46639,
+      "num": 280949,
+      "word": "泡泡玛特挂链被吐槽品控差",
+      "onboard_time": 1762488859,
+      "rank": 19,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 46592,
       "num": 104699,
       "word": "商家回应给羽绒服上锁防蹭穿",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1762455734,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36034,
-      "num": 280949,
-      "word": "泡泡玛特挂链被吐槽品控差",
-      "onboard_time": 1762488859,
-      "rank": 19,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 34834,
@@ -1403,11 +1451,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17855,
+      "num": 251947,
+      "word": "谁能拒绝一场秋天的露营局",
+      "onboard_time": 1762489942,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17688,
       "num": 39354,
       "word": "韩警方回应网红造谣中国人杀韩国人",
       "onboard_time": 1762454594,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17027,
+      "num": 660771,
+      "word": "青知讲说人",
+      "onboard_time": 1762489701,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1440,14 +1504,6 @@
       "word": "2025世界互联网大会乌镇峰会",
       "onboard_time": 1762422681,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6572,
-      "num": 604145,
-      "word": "青知讲说人",
-      "onboard_time": 1762489701,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762489868537,
+  "endTime": 1762490712330,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -843,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 777256,
+      "num": 777256,
+      "word": "康熙不可能是洪承畴的儿子",
+      "onboard_time": 1762487780,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 775494,
       "num": 222881,
       "word": "赵樱子听到张康乐的反应",
@@ -1475,14 +1483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 588628,
-      "num": 588628,
-      "word": "康熙不可能是洪承畴的儿子",
-      "onboard_time": 1762487780,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 588099,
       "num": 185717,
       "word": "白宫马桶照片",
@@ -1731,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540860,
+      "num": 298176,
+      "word": "孙乐言来了也分不清奥斯卡冯程朗",
+      "onboard_time": 1762487060,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540307,
       "num": 269060,
       "word": "手机一年一换竟然更省钱",
@@ -1856,14 +1864,6 @@
       "word": "李茂因弦子生孩子晕倒大哭",
       "onboard_time": 1762138159,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 521289,
-      "num": 298176,
-      "word": "孙乐言来了也分不清奥斯卡冯程朗",
-      "onboard_time": 1762487060,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -2219,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472173,
+      "num": 472173,
+      "word": "杜若溪为和严屹宽拍戏放弃女一号",
+      "onboard_time": 1762485859,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468652,
       "num": 468652,
       "word": "清瞳人设",
@@ -2363,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442157,
+      "num": 233508,
+      "word": "马天宇蒋依依机场偶遇",
+      "onboard_time": 1762488680,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442000,
       "num": 182712,
       "word": "张翰给谈莉娜送了新婚祝福",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 428410,
-      "num": 428410,
-      "word": "杜若溪为和严屹宽拍戏放弃女一号",
-      "onboard_time": 1762485859,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 427959,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1761953958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330296,
+      "num": 330296,
+      "word": "疯狂动物城",
+      "onboard_time": 1762486161,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 329975,
@@ -4499,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244943,
+      "num": 193919,
+      "word": "她这一天是小说都不敢写的程度",
+      "onboard_time": 1762489942,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 244489,
       "num": 218971,
       "word": "王楚钦奔驰磕到了",
@@ -4811,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228148,
+      "num": 228148,
+      "word": "恋与深空",
+      "onboard_time": 1762143861,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228045,
       "num": 221288,
       "word": "花儿与少年",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1762164621,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224536,
-      "num": 224536,
-      "word": "疯狂动物城",
-      "onboard_time": 1762486161,
-      "rank": 46,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 223897,
@@ -5233,6 +5257,14 @@
       "onboard_time": 1761975080,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213005,
+      "num": 213005,
+      "word": "苏新皓 要爆了",
+      "onboard_time": 1762490121,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 212699,
@@ -6027,6 +6059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192675,
+      "num": 239167,
+      "word": "刘嘉玲 你拍王家卫不用担心灯光",
+      "onboard_time": 1762489762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192418,
       "num": 348162,
       "word": "第15届全运会火炬传递",
@@ -6723,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176607,
+      "num": 176607,
+      "word": "抑郁解离的人一眼就能看出来",
+      "onboard_time": 1762487959,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176449,
       "num": 176449,
       "word": "范趣町致歉声明",
@@ -6875,14 +6923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173488,
-      "num": 173488,
-      "word": "马天宇蒋依依机场偶遇",
-      "onboard_time": 1762488680,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172932,
       "num": 172932,
       "word": "电影日掛中天",
@@ -6907,6 +6947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172465,
+      "num": 172465,
+      "word": "中美电影节上的沈月",
+      "onboard_time": 1762489821,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172423,
       "num": 152992,
       "word": "蒲熠星ELLE活动花絮",
@@ -6921,14 +6969,6 @@
       "onboard_time": 1762420702,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172330,
-      "num": 172330,
-      "word": "抑郁解离的人一眼就能看出来",
-      "onboard_time": 1762487959,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 172301,
@@ -7409,14 +7449,6 @@
       "onboard_time": 1762067300,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164232,
-      "num": 164232,
-      "word": "恋与深空",
-      "onboard_time": 1762143861,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 164206,
@@ -9195,6 +9227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139488,
+      "num": 139488,
+      "word": "当你在一个理想的家庭里",
+      "onboard_time": 1762490241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "冯建宇拍上了心心念念的格莱美镜头",
@@ -9361,6 +9401,14 @@
       "onboard_time": 1762316540,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138051,
+      "num": 138051,
+      "word": "我追尾前车但前车逃逸了",
+      "onboard_time": 1762489040,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 137943,
@@ -9659,6 +9707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135010,
+      "num": 135010,
+      "word": "中国代表表示遗憾",
+      "onboard_time": 1762485260,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134884,
       "num": 134884,
       "word": "女主一舔嘴唇都得被自己毒死吧",
@@ -9729,14 +9785,6 @@
       "onboard_time": 1762176443,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134347,
-      "num": 134347,
-      "word": "我追尾前车但前车逃逸了",
-      "onboard_time": 1762489040,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 134196,
@@ -10105,6 +10153,14 @@
       "onboard_time": 1762093163,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "泡泡玛特 溢价",
+      "onboard_time": 1762490061,
+      "rank": 44,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 130444,
@@ -10481,6 +10537,14 @@
       "onboard_time": 1762081100,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126948,
+      "num": 126948,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1762490541,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 126925,
@@ -11035,6 +11099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122027,
+      "num": 120904,
+      "word": "丁禹兮笑脸baby冷脸daddy",
+      "onboard_time": 1762490661,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121994,
       "num": 144178,
       "word": "中国海军5对4围观四国舰队演习",
@@ -11097,6 +11169,14 @@
       "onboard_time": 1762156581,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121463,
+      "num": 131624,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 121416,
@@ -11291,14 +11371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 119449,
-      "num": 119449,
-      "word": "中国代表表示遗憾",
-      "onboard_time": 1762485260,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119411,
       "num": 119411,
       "word": "沟通能力强的人说话顺序是这样的",
@@ -11473,14 +11545,6 @@
       "onboard_time": 1762253242,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117883,
-      "num": 167073,
-      "word": "刘嘉玲 你拍王家卫不用担心灯光",
-      "onboard_time": 1762489762,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 117868,
@@ -11699,14 +11763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116380,
-      "num": 116380,
-      "word": "中美电影节上的沈月",
-      "onboard_time": 1762489821,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116357,
       "num": 116357,
       "word": "原来心梗是有征兆的",
@@ -11761,14 +11817,6 @@
       "onboard_time": 1761974179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116046,
-      "num": 131624,
-      "word": "四喜",
-      "onboard_time": 1762157061,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 116017,
@@ -13763,6 +13811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102504,
+      "num": 332930,
+      "word": "泡泡玛特79元挂链盲盒仿品成本4元",
+      "onboard_time": 1762488859,
+      "rank": 9,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 102437,
       "num": 102437,
       "word": "多人在水库岸边放生猫目击者发声",
@@ -13873,6 +13929,14 @@
       "onboard_time": 1762237640,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101665,
+      "num": 279143,
+      "word": "天猫双11巅峰冲刺新发万元大券包",
+      "onboard_time": 1762488320,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 101631,
@@ -19811,14 +19875,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64636,
-      "num": 279143,
-      "word": "天猫双11巅峰冲刺新发万元大券包",
-      "onboard_time": 1762488320,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 64502,
       "num": 64502,
       "word": "一群魔丸里突然出现了一颗灵珠",
@@ -20057,14 +20113,6 @@
       "onboard_time": 1762090224,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61161,
-      "num": 332930,
-      "word": "泡泡玛特79元挂链盲盒仿品成本4元",
-      "onboard_time": 1762488859,
-      "rank": 9,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 60931,
@@ -20995,6 +21043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46639,
+      "num": 280949,
+      "word": "泡泡玛特挂链被吐槽品控差",
+      "onboard_time": 1762488859,
+      "rank": 19,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 46569,
       "num": 102044,
       "word": "徐若晗跳了企鹅舞",
@@ -21609,14 +21665,6 @@
       "onboard_time": 1762455734,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36034,
-      "num": 280949,
-      "word": "泡泡玛特挂链被吐槽品控差",
-      "onboard_time": 1762488859,
-      "rank": 19,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 35632,
@@ -22683,6 +22731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17855,
+      "num": 251947,
+      "word": "谁能拒绝一场秋天的露营局",
+      "onboard_time": 1762489942,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17790,
       "num": 28943,
       "word": "身体不适住院学生全部康复返校",
@@ -22729,6 +22785,14 @@
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17027,
+      "num": 660771,
+      "word": "青知讲说人",
+      "onboard_time": 1762489701,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16971,
@@ -23033,14 +23097,6 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6572,
-      "num": 604145,
-      "word": "青知讲说人",
-      "onboard_time": 1762489701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4055,
