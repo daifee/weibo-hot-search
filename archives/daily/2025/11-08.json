@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762554291211,
+  "endTime": 1762555302628,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 310099,
-      "num": 310099,
+      "num": 489353,
       "word": "专家称DNA证实康熙为努尔哈赤支系",
       "onboard_time": 1762532720,
       "rank": 48,
@@ -169,6 +169,14 @@
       "onboard_time": 1762515560,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165866,
+      "num": 188183,
+      "word": "必胜客要被卖了",
+      "onboard_time": 1762529300,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 162566,
@@ -283,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92555,
-      "num": 188183,
-      "word": "必胜客要被卖了",
-      "onboard_time": 1762529300,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90818,
       "num": 90818,
       "word": "张杰演唱会",
@@ -353,6 +353,14 @@
       "onboard_time": 1762533378,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74593,
+      "num": 74756,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 72581,
@@ -427,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55015,
-      "num": 74756,
-      "word": "猪八戒扮演者回应刘大刚去世",
-      "onboard_time": 1762524860,
-      "rank": 47,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 47833,
       "num": 41891,
       "word": "王源生日晒照",
@@ -507,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22672,
+      "num": 26106,
+      "word": "特朗普改口承认美国民众在为关税买单",
+      "onboard_time": 1762547114,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20982,
       "num": 50373,
       "word": "罗小黑新周边",
@@ -531,12 +539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19678,
+      "num": 26092,
+      "word": "罗云熙让智性恋爽了",
+      "onboard_time": 1762549333,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18817,
-      "num": 23190,
+      "num": 26091,
       "word": "乐华娱乐再度大跌",
       "onboard_time": 1762544895,
       "rank": 29,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 18157,
+      "num": 26090,
+      "word": "远离从生理上排斥的人和环境",
+      "onboard_time": 1762554316,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 17952,
@@ -547,12 +571,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 17312,
-      "num": 23186,
-      "word": "特朗普改口承认美国民众在为关税买单",
-      "onboard_time": 1762547114,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 17626,
+      "num": 26088,
+      "word": "凤凰台上情劫预告",
+      "onboard_time": 1762554494,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 15196,
@@ -563,20 +587,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 10561,
-      "num": 15859,
+      "raw_hot": 14722,
+      "num": 26084,
       "word": "一层薄薄的土 人与人就再难相见了",
       "onboard_time": 1762551013,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10497,
-      "num": 15852,
-      "word": "罗云熙让智性恋爽了",
-      "onboard_time": 1762549333,
+      "raw_hot": 12627,
+      "num": 26081,
+      "word": "孙颖莎穿羽绒服秒变乖宝",
+      "onboard_time": 1762521741,
       "rank": 49,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 2118,

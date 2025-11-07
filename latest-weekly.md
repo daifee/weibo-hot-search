@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 06:24:51
+本榜单时间：2025/11/02 00:28:19 ~ 2025/11/08 06:41:42
 </p>
 </blockquote>
 <p>
@@ -5253,6 +5253,12 @@ Faker在第六冠与女友结婚之间选择夺冠（热度：168170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：165866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%BC%94%E6%83%85%E4%BE%A3%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
 第一个让他们演情侣的简直是天才（热度：165699）
 </a>
@@ -9101,12 +9107,6 @@ UPS坠毁货机上有28万加仑燃油（热度：109295）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E7%88%86%E6%94%B9%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%23" target="weibo">
 张一山爆改霸道总裁（热度：108522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：108519）
 </a>
 </li>
 
@@ -16137,6 +16137,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
+特朗普改口承认美国民众在为关税买单（热度：22672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E8%B6%A3%E7%8C%AB%E5%88%B0%E5%BA%95%E8%97%8F%E5%9C%A8%E5%93%AA%23" target="weibo">
 淘趣猫到底藏在哪（热度：22552）
 </a>
@@ -16239,6 +16245,12 @@ APEC深圳之约期待值拉满（热度：31280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AE%A9%E6%99%BA%E6%80%A7%E6%81%8B%E7%88%BD%E4%BA%86%23" target="weibo">
+罗云熙让智性恋爽了（热度：19678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%B9%B4%E5%BA%A6%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90%E5%89%A7%E9%9B%86%23" target="weibo">
 藏海传年度平台推荐剧集（热度：18985）
 </a>
@@ -16283,6 +16295,12 @@ APEC深圳之约期待值拉满（热度：31280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%8B%E8%87%82%E4%BC%A4%E7%96%A4%23" target="weibo">
 丁禹兮手臂伤疤（热度：18201）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
+远离从生理上排斥的人和环境（热度：18157）
 </a>
 </li>
 
@@ -16347,8 +16365,8 @@ CV吴磊声明回应起诉（热度：17952）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
-特朗普改口承认美国民众在为关税买单（热度：17312）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E6%83%85%E5%8A%AB%E9%A2%84%E5%91%8A%23" target="weibo">
+凤凰台上情劫预告（热度：17626）
 </a>
 </li>
 
@@ -16421,6 +16439,12 @@ Red即兴真是即兴（热度：15551）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8E%9F%E5%A3%B0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E5%8A%9B%E9%87%8F%E6%84%9F%23" target="weibo">
 丁禹兮原声真的很有力量感（热度：14753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
+一层薄薄的土 人与人就再难相见了（热度：14722）
 </a>
 </li>
 
@@ -16565,18 +16589,6 @@ AI网课诈骗向银发老人伸出魔爪（热度：13166）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%84%9F%E5%8A%A8%E4%BA%86%E4%B8%80%E9%81%8D%E5%8F%88%E4%B8%80%E9%81%8D%23" target="weibo">
 中国体育名场面感动了一遍又一遍（热度：10669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
-一层薄薄的土 人与人就再难相见了（热度：10561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AE%A9%E6%99%BA%E6%80%A7%E6%81%8B%E7%88%BD%E4%BA%86%23" target="weibo">
-罗云熙让智性恋爽了（热度：10497）
 </a>
 </li>
 

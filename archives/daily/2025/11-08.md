@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 06:24:51
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 06:41:42
 </p>
 </blockquote>
 <p>
@@ -141,6 +141,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：165866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%85%B9%E7%88%AC%E6%A5%BC%E7%98%A6%E4%BA%8625%E6%96%A4%23" target="weibo">
 空腹爬楼瘦了25斤（热度：162566）
 </a>
@@ -225,12 +231,6 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
-必胜客要被卖了（热度：92555）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张杰演唱会（热度：90818）
 </a>
@@ -275,6 +275,12 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E5%A4%B8%E5%AE%8C%E4%BD%A0%E7%9A%84%E5%A4%B8%E4%BD%A0%E7%9A%84%23" target="weibo">
 陈奕迅 夸完你的夸你的（热度：76120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
+猪八戒扮演者回应刘大刚去世（热度：74593）
 </a>
 </li>
 
@@ -333,12 +339,6 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23" target="weibo">
-猪八戒扮演者回应刘大刚去世（热度：55015）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E7%94%9F%E6%97%A5%E6%99%92%E7%85%A7%23" target="weibo">
 王源生日晒照（热度：47833）
 </a>
@@ -393,6 +393,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
+特朗普改口承认美国民众在为关税买单（热度：22672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%E6%96%B0%E5%91%A8%E8%BE%B9%23" target="weibo">
 罗小黑新周边（热度：20982）
 </a>
@@ -411,8 +417,20 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AE%A9%E6%99%BA%E6%80%A7%E6%81%8B%E7%88%BD%E4%BA%86%23" target="weibo">
+罗云熙让智性恋爽了（热度：19678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23" target="weibo">
 乐华娱乐再度大跌（热度：18817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E4%BB%8E%E7%94%9F%E7%90%86%E4%B8%8A%E6%8E%92%E6%96%A5%E7%9A%84%E4%BA%BA%E5%92%8C%E7%8E%AF%E5%A2%83%23" target="weibo">
+远离从生理上排斥的人和环境（热度：18157）
 </a>
 </li>
 
@@ -423,8 +441,8 @@ CV吴磊声明回应起诉（热度：17952）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
-特朗普改口承认美国民众在为关税买单（热度：17312）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E6%83%85%E5%8A%AB%E9%A2%84%E5%91%8A%23" target="weibo">
+凤凰台上情劫预告（热度：17626）
 </a>
 </li>
 
@@ -436,13 +454,13 @@ CV吴磊声明回应起诉（热度：17952）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%82%E8%96%84%E8%96%84%E7%9A%84%E5%9C%9F%20%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%B0%B1%E5%86%8D%E9%9A%BE%E7%9B%B8%E8%A7%81%E4%BA%86%23" target="weibo">
-一层薄薄的土 人与人就再难相见了（热度：10561）
+一层薄薄的土 人与人就再难相见了（热度：14722）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E8%AE%A9%E6%99%BA%E6%80%A7%E6%81%8B%E7%88%BD%E4%BA%86%23" target="weibo">
-罗云熙让智性恋爽了（热度：10497）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%A7%92%E5%8F%98%E4%B9%96%E5%AE%9D%23" target="weibo">
+孙颖莎穿羽绒服秒变乖宝（热度：12627）
 </a>
 </li>
 

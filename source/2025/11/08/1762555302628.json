@@ -1,0 +1,410 @@
+{
+  "runTime": 1762555302628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 245851,
+        "num": 489353,
+        "word": "专家称DNA证实康熙为努尔哈赤支系",
+        "onboard_time": 1762532720,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165866,
+        "num": 165866,
+        "word": "必胜客要被卖了",
+        "onboard_time": 1762529300,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 893,
+        "num": 105710,
+        "word": "全运会你最想看哪项比赛",
+        "onboard_time": 1762449317,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92628,
+        "num": 92628,
+        "word": "四喜37分钟收视率破3",
+        "onboard_time": 1762528761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79430,
+        "num": 79430,
+        "word": "人民网评人民咖啡馆不妥",
+        "onboard_time": 1762525161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76686,
+        "num": 76686,
+        "word": "格莱美",
+        "onboard_time": 1762535117,
+        "rank": 5,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 74593,
+        "num": 74593,
+        "word": "猪八戒扮演者回应刘大刚去世",
+        "onboard_time": 1762524860,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 53900,
+        "num": 53900,
+        "word": "空腹爬楼瘦了25斤",
+        "onboard_time": 1762514359,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35909,
+        "num": 53875,
+        "word": "iPhone18系列10大升级",
+        "onboard_time": 1762523302,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34456,
+        "num": 53755,
+        "word": "西安市委书记方红卫被查",
+        "onboard_time": 1762519160,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73354,
+        "num": 53564,
+        "word": "冯绍峰状态",
+        "onboard_time": 1762526423,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66735,
+        "num": 53433,
+        "word": "婚后三年不孕女子查出男性染色体",
+        "onboard_time": 1762528102,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62884,
+        "num": 53267,
+        "word": "日本7名男教师被捕",
+        "onboard_time": 1762530920,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61428,
+        "num": 53223,
+        "word": "天选谢景行沈娇娇",
+        "onboard_time": 1762527142,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55268,
+        "num": 53007,
+        "word": "30岁小伙长期熬夜智力退回3岁",
+        "onboard_time": 1762525881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52995,
+        "num": 52995,
+        "word": "天国的嫁衣",
+        "onboard_time": 1762516399,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48562,
+        "num": 48562,
+        "word": "中国核力量同美俄不在一个量级",
+        "onboard_time": 1762525701,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46926,
+        "num": 46926,
+        "word": "白鹿姜雪宁",
+        "onboard_time": 1762528462,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34463,
+        "num": 34463,
+        "word": "肖战直播",
+        "onboard_time": 1762516641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34236,
+        "num": 34236,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762511902,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255371,
+        "num": 34140,
+        "word": "易烊千玺",
+        "onboard_time": 1762532600,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145481,
+        "num": 34087,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111607,
+        "num": 33905,
+        "word": "曝某女星采访到一半崩溃大哭",
+        "onboard_time": 1762505900,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87876,
+        "num": 33867,
+        "word": "弦子曝和李茂结婚时已怀孕",
+        "onboard_time": 1762525521,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63362,
+        "num": 33705,
+        "word": "洗衣机15分钟快洗确实洗不干净",
+        "onboard_time": 1762523062,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33664,
+        "num": 33664,
+        "word": "雷军身家368亿美元超越马云",
+        "onboard_time": 1762540694,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 33602,
+        "word": "25岁的王源",
+        "onboard_time": 1762532240,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33243,
+        "num": 33243,
+        "word": "安徽省二胎补贴被追回",
+        "onboard_time": 1762519882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31661,
+        "num": 31661,
+        "word": "婴儿头朝下摔落瞬间被顾客接住",
+        "onboard_time": 1762523062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27830,
+        "num": 27830,
+        "word": "再见爱人5保险事变",
+        "onboard_time": 1762526543,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26110,
+        "num": 26110,
+        "word": "李娜李小鹏世纪同框",
+        "onboard_time": 1762521080,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25272,
+        "num": 26110,
+        "word": "肖战实体专还有秘密",
+        "onboard_time": 1762527382,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23967,
+        "num": 26107,
+        "word": "林志玲说好想念被小S骂",
+        "onboard_time": 1762517480,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23688,
+        "num": 26107,
+        "word": "镖人",
+        "onboard_time": 1762521921,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22672,
+        "num": 26106,
+        "word": "特朗普改口承认美国民众在为关税买单",
+        "onboard_time": 1762547114,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21989,
+        "num": 26104,
+        "word": "谭凯回复",
+        "onboard_time": 1762529061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 26102,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21607,
+        "num": 26101,
+        "word": "沈佳润回应是否割双眼皮",
+        "onboard_time": 1762530802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21488,
+        "num": 26099,
+        "word": "张杰演唱会",
+        "onboard_time": 1762524981,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17450,
+        "num": 26097,
+        "word": "航母生产将进入量产阶段",
+        "onboard_time": 1762519279,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21043,
+        "num": 26097,
+        "word": "沙僧扮演者刘大刚病逝",
+        "onboard_time": 1762509500,
+        "rank": 40,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 20766,
+        "num": 26095,
+        "word": "将门毒后选角",
+        "onboard_time": 1762518261,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19678,
+        "num": 26092,
+        "word": "罗云熙让智性恋爽了",
+        "onboard_time": 1762549333,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18343,
+        "num": 26091,
+        "word": "乐华娱乐再度大跌",
+        "onboard_time": 1762544895,
+        "rank": 43,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 18157,
+        "num": 26090,
+        "word": "远离从生理上排斥的人和环境",
+        "onboard_time": 1762554316,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 26088,
+        "word": "凤凰台上情劫预告",
+        "onboard_time": 1762554494,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17383,
+        "num": 26087,
+        "word": "日本熊灾 猎人",
+        "onboard_time": 1762540275,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16989,
+        "num": 26084,
+        "word": "中国扇耳光大赛选手仍在治疗",
+        "onboard_time": 1762525341,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14722,
+        "num": 26084,
+        "word": "一层薄薄的土 人与人就再难相见了",
+        "onboard_time": 1762551013,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12627,
+        "num": 26081,
+        "word": "孙颖莎穿羽绒服秒变乖宝",
+        "onboard_time": 1762521741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}
