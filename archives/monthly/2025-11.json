@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762500345117,
+  "endTime": 1762501161750,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3155347,
+      "num": 989105,
+      "word": "辛芷蕾6连问",
+      "onboard_time": 1762497680,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2901190,
       "num": 2901190,
       "word": "白百何回应东京电影节争议",
       "onboard_time": 1762425621,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 2881635,
-      "num": 989105,
-      "word": "辛芷蕾6连问",
-      "onboard_time": 1762497680,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -1947,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512287,
+      "num": 279507,
+      "word": "日本71岁女子杀害102岁母亲",
+      "onboard_time": 1762495881,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 511763,
       "num": 255913,
       "word": "月薪6000 花8万买塑形内衣",
@@ -2283,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469596,
-      "num": 279507,
-      "word": "日本71岁女子杀害102岁母亲",
-      "onboard_time": 1762495881,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 468652,
       "num": 468652,
       "word": "清瞳人设",
@@ -2539,6 +2539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 426570,
+      "num": 228101,
+      "word": "在冰箱冷藏一夜的蛋糕",
+      "onboard_time": 1762497560,
+      "rank": 15,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 426017,
       "num": 426017,
       "word": "用iPhone前vs用iPhone后",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1762385298,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 398532,
-      "num": 228101,
-      "word": "在冰箱冷藏一夜的蛋糕",
-      "onboard_time": 1762497560,
-      "rank": 15,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 397058,
@@ -4835,6 +4835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234516,
+      "num": 234516,
+      "word": "特朗普官宣降价减肥药企高管当场晕倒",
+      "onboard_time": 1762500020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234202,
       "num": 234202,
       "word": "以军虐囚视频",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1762006884,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206732,
+      "num": 182975,
+      "word": "iPhone18Pro系列前瞻",
+      "onboard_time": 1762499300,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 206694,
@@ -6667,14 +6683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182975,
-      "num": 182975,
-      "word": "iPhone18Pro系列前瞻",
-      "onboard_time": 1762499300,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182913,
       "num": 190795,
       "word": "新闻女王2开局11广",
@@ -6697,6 +6705,14 @@
       "onboard_time": 1762257501,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182228,
+      "num": 239078,
+      "word": "柯淳想五年内拿到白玉兰提名",
+      "onboard_time": 1762494560,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 182078,
@@ -6768,14 +6784,6 @@
       "word": "你好星期六下期张凌赫",
       "onboard_time": 1762011501,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180858,
-      "num": 239078,
-      "word": "柯淳想五年内拿到白玉兰提名",
-      "onboard_time": 1762494560,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -8211,6 +8219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155764,
+      "num": 141285,
+      "word": "恋与深空冬日娃",
+      "onboard_time": 1762498880,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155644,
       "num": 155644,
       "word": "跳水",
@@ -8353,6 +8369,14 @@
       "onboard_time": 1762232241,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153929,
+      "num": 147790,
+      "word": "新闻女王2黄宗泽面相都变了",
+      "onboard_time": 1762500380,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 153861,
@@ -8980,7 +9004,7 @@
     },
     {
       "raw_hot": 146074,
-      "num": 1005385,
+      "num": 1019124,
       "word": "三航母时代来临",
       "onboard_time": 1762492401,
       "rank": 19,
@@ -9137,6 +9161,14 @@
       "onboard_time": 1762321041,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144342,
+      "num": 144342,
+      "word": "曝内娱艺人采访都要审核提纲",
+      "onboard_time": 1762498820,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 144313,
@@ -9331,14 +9363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141285,
-      "num": 141285,
-      "word": "恋与深空冬日娃",
-      "onboard_time": 1762498880,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141151,
       "num": 141151,
       "word": "向太说汪小姐演得很好",
@@ -9369,6 +9393,14 @@
       "onboard_time": 1762345821,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140916,
+      "num": 126657,
+      "word": "日本熊袭人有明显吃人痕迹",
+      "onboard_time": 1762499480,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140654,
@@ -9731,6 +9763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137702,
+      "num": 148515,
+      "word": "斗罗大陆2动画127集预告",
+      "onboard_time": 1762501101,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137643,
       "num": 185827,
       "word": "现在就出发",
@@ -9928,14 +9968,6 @@
       "word": "不知道朱珠在说什么光看脸了",
       "onboard_time": 1762002923,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 136160,
-      "num": 136160,
-      "word": "曝内娱艺人采访都要审核提纲",
-      "onboard_time": 1762498820,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -10907,14 +10939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126657,
-      "num": 126657,
-      "word": "日本熊袭人有明显吃人痕迹",
-      "onboard_time": 1762499480,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126503,
       "num": 192840,
       "word": "请回答1988播出十周年",
@@ -11113,6 +11137,14 @@
       "onboard_time": 1762489582,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124845,
+      "num": 124845,
+      "word": "胡彦斌看再见爱人直呼超纲了",
+      "onboard_time": 1762500260,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 124800,
@@ -12443,6 +12475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113909,
+      "num": 113909,
+      "word": "曝Doinb恢复自由人身份",
+      "onboard_time": 1762500860,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113582,
       "num": 113582,
       "word": "赴山海女配参加唱歌选秀被淘汰",
@@ -12889,6 +12929,14 @@
       "onboard_time": 1762390221,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110677,
+      "num": 110677,
+      "word": "将门毒后简介",
+      "onboard_time": 1762500800,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 110666,
@@ -14713,14 +14761,6 @@
       "onboard_time": 1762245022,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99759,
-      "num": 99759,
-      "word": "特朗普官宣降价减肥药企高管当场晕倒",
-      "onboard_time": 1762500020,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99650,
@@ -16692,6 +16732,14 @@
     },
     {
       "raw_hot": 90286,
+      "num": 201908,
+      "word": "今年立冬宜大补",
+      "onboard_time": 1762499300,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90286,
       "num": 90286,
       "word": "比亚迪将坚持磷酸铁锂电池路线",
       "onboard_time": 1762499420,
@@ -16897,14 +16945,6 @@
       "onboard_time": 1761922284,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89405,
-      "num": 89405,
-      "word": "胡彦斌看再见爱人直呼超纲了",
-      "onboard_time": 1762500260,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 89305,
@@ -17131,6 +17171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88173,
+      "num": 88173,
+      "word": "小猫是晚到的宾客",
+      "onboard_time": 1762500982,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88109,
       "num": 88109,
       "word": "其实过得幸福花不了太多钱",
@@ -17257,6 +17305,22 @@
       "onboard_time": 1762352362,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87464,
+      "num": 87464,
+      "word": "福建舰入列纪念海报",
+      "onboard_time": 1762501039,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 87403,
+      "num": 87403,
+      "word": "在稻城亚丁看到了七彩祥云",
+      "onboard_time": 1762501101,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 87378,
@@ -19113,14 +19177,6 @@
       "onboard_time": 1762441883,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77094,
-      "num": 201908,
-      "word": "今年立冬宜大补",
-      "onboard_time": 1762499300,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77025,
@@ -21107,6 +21163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55029,
+      "num": 174777,
+      "word": "喜欢泡泡玛特不是做冤大头",
+      "onboard_time": 1762500080,
+      "rank": 23,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 55019,
       "num": 81876,
       "word": "演员狗狗大黄上台领奖",
@@ -21177,6 +21241,14 @@
       "onboard_time": 1762400301,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 53369,
+      "num": 94417,
+      "word": "再见爱人画师 杨子梦男",
+      "onboard_time": 1762500681,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 53314,
@@ -23241,14 +23313,6 @@
       "onboard_time": 1762433543,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20624,
-      "num": 174777,
-      "word": "喜欢泡泡玛特不是做冤大头",
-      "onboard_time": 1762500080,
-      "rank": 23,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 20453,

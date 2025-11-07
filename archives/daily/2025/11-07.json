@@ -1,9 +1,9 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762500345117,
+  "endTime": 1762501161750,
   "band_list": [
     {
-      "raw_hot": 2881635,
+      "raw_hot": 3155347,
       "num": 989105,
       "word": "辛芷蕾6连问",
       "onboard_time": 1762497680,
@@ -171,6 +171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 512287,
+      "num": 279507,
+      "word": "日本71岁女子杀害102岁母亲",
+      "onboard_time": 1762495881,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 511763,
       "num": 255913,
       "word": "月薪6000 花8万买塑形内衣",
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469596,
-      "num": 279507,
-      "word": "日本71岁女子杀害102岁母亲",
-      "onboard_time": 1762495881,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 456296,
       "num": 140834,
       "word": "这才是真正的道歉",
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426570,
+      "num": 228101,
+      "word": "在冰箱冷藏一夜的蛋糕",
+      "onboard_time": 1762497560,
+      "rank": 15,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 424860,
       "num": 209535,
       "word": "网红阿可靠炒股18岁赚到第一个百万",
@@ -249,14 +257,6 @@
       "onboard_time": 1762479199,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 398532,
-      "num": 228101,
-      "word": "在冰箱冷藏一夜的蛋糕",
-      "onboard_time": 1762497560,
-      "rank": 15,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 373894,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234516,
+      "num": 234516,
+      "word": "特朗普官宣降价减肥药企高管当场晕倒",
+      "onboard_time": 1762500020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232199,
       "num": 232199,
       "word": "恋与深空联动上海公安",
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206732,
+      "num": 182975,
+      "word": "iPhone18Pro系列前瞻",
+      "onboard_time": 1762499300,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202925,
       "num": 202925,
       "word": "Angelababy直播素颜状态",
@@ -611,15 +627,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 182975,
-      "num": 182975,
-      "word": "iPhone18Pro系列前瞻",
-      "onboard_time": 1762499300,
-      "rank": 21,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 180858,
+      "raw_hot": 182228,
       "num": 239078,
       "word": "柯淳想五年内拿到白玉兰提名",
       "onboard_time": 1762494560,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155764,
+      "num": 141285,
+      "word": "恋与深空冬日娃",
+      "onboard_time": 1762498880,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "双轨爱意轰鸣大片",
@@ -841,6 +857,14 @@
       "onboard_time": 1762477939,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153929,
+      "num": 147790,
+      "word": "新闻女王2黄宗泽面相都变了",
+      "onboard_time": 1762500380,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 151280,
@@ -908,11 +932,19 @@
     },
     {
       "raw_hot": 146074,
-      "num": 1005385,
+      "num": 1019124,
       "word": "三航母时代来临",
       "onboard_time": 1762492401,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 144342,
+      "num": 144342,
+      "word": "曝内娱艺人采访都要审核提纲",
+      "onboard_time": 1762498820,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 142928,
@@ -931,12 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141285,
-      "num": 141285,
-      "word": "恋与深空冬日娃",
-      "onboard_time": 1762498880,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 140916,
+      "num": 126657,
+      "word": "日本熊袭人有明显吃人痕迹",
+      "onboard_time": 1762499480,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139672,
@@ -971,12 +1003,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136160,
-      "num": 136160,
-      "word": "曝内娱艺人采访都要审核提纲",
-      "onboard_time": 1762498820,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 137702,
+      "num": 148515,
+      "word": "斗罗大陆2动画127集预告",
+      "onboard_time": 1762501101,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 135878,
@@ -1051,14 +1083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126657,
-      "num": 126657,
-      "word": "日本熊袭人有明显吃人痕迹",
-      "onboard_time": 1762499480,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125685,
       "num": 125685,
       "word": "罗小黑金门滑雪没有雪橇犬受到伤害",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1762489582,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124845,
+      "num": 124845,
+      "word": "胡彦斌看再见爱人直呼超纲了",
+      "onboard_time": 1762500260,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 124768,
@@ -1163,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113909,
+      "num": 113909,
+      "word": "曝Doinb恢复自由人身份",
+      "onboard_time": 1762500860,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113064,
       "num": 113064,
       "word": "俄乌激战红军城",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1762439843,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110677,
+      "num": 110677,
+      "word": "将门毒后简介",
+      "onboard_time": 1762500800,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 110500,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1762479560,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99759,
-      "num": 99759,
-      "word": "特朗普官宣降价减肥药企高管当场晕倒",
-      "onboard_time": 1762500020,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99642,
@@ -1444,6 +1484,14 @@
     },
     {
       "raw_hot": 90286,
+      "num": 201908,
+      "word": "今年立冬宜大补",
+      "onboard_time": 1762499300,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90286,
       "num": 90286,
       "word": "比亚迪将坚持磷酸铁锂电池路线",
       "onboard_time": 1762499420,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1762478059,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89405,
-      "num": 89405,
-      "word": "胡彦斌看再见爱人直呼超纲了",
-      "onboard_time": 1762500260,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 89186,
@@ -1489,6 +1529,30 @@
       "onboard_time": 1762492521,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88173,
+      "num": 88173,
+      "word": "小猫是晚到的宾客",
+      "onboard_time": 1762500982,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87464,
+      "num": 87464,
+      "word": "福建舰入列纪念海报",
+      "onboard_time": 1762501039,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 87403,
+      "num": 87403,
+      "word": "在稻城亚丁看到了七彩祥云",
+      "onboard_time": 1762501101,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 86309,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1762441702,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77094,
-      "num": 201908,
-      "word": "今年立冬宜大补",
-      "onboard_time": 1762499300,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76688,
@@ -1801,6 +1857,22 @@
       "onboard_time": 1762426282,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55029,
+      "num": 174777,
+      "word": "喜欢泡泡玛特不是做冤大头",
+      "onboard_time": 1762500080,
+      "rank": 23,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 53369,
+      "num": 94417,
+      "word": "再见爱人画师 杨子梦男",
+      "onboard_time": 1762500681,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 53001,
@@ -2097,14 +2169,6 @@
       "onboard_time": 1762489701,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20624,
-      "num": 174777,
-      "word": "喜欢泡泡玛特不是做冤大头",
-      "onboard_time": 1762500080,
-      "rank": 23,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 18380,
