@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762547209573,
+  "endTime": 1762548012454,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18817,
-      "num": 18817,
+      "num": 23190,
       "word": "乐华娱乐再度大跌",
       "onboard_time": 1762544895,
       "rank": 29,
@@ -545,6 +545,14 @@
       "onboard_time": 1762541775,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11846,
+      "num": 23186,
+      "word": "特朗普改口承认美国民众在为关税买单",
+      "onboard_time": 1762547114,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2118,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 04:26:49
+本榜单时间：2025/11/08 00:30:11 ~ 2025/11/08 04:40:12
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ CV吴磊声明回应起诉（热度：17952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4%23" target="weibo">
 蔡徐坤新歌上线时间（热度：15196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23" target="weibo">
+特朗普改口承认美国民众在为关税买单（热度：11846）
 </a>
 </li>
 
