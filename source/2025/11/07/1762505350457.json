@@ -1,0 +1,410 @@
+{
+  "runTime": 1762505350457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938113,
+        "num": 1938113,
+        "word": "辛芷蕾6连问",
+        "onboard_time": 1762497680,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412026,
+        "num": 412026,
+        "word": "中方回应日本水产品输华",
+        "onboard_time": 1762503020,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7591,
+        "num": 395551,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762422021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 502045,
+        "num": 394989,
+        "word": "檀健次卢昱晓 何不同舟渡",
+        "onboard_time": 1762502660,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386891,
+        "num": 386891,
+        "word": "日本扇贝已出口至中国",
+        "onboard_time": 1762503920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618685,
+        "num": 367645,
+        "word": "特朗普官宣降价减肥药企高管当场晕倒",
+        "onboard_time": 1762500020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390217,
+        "num": 364425,
+        "word": "新闻女王2黄宗泽面相都变了",
+        "onboard_time": 1762500380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345250,
+        "num": 345250,
+        "word": "iPhone18Pro系列前瞻",
+        "onboard_time": 1762499300,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321112,
+        "num": 321112,
+        "word": "日本熊袭人有明显吃人痕迹",
+        "onboard_time": 1762499480,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23593,
+        "num": 319382,
+        "word": "福建舰将成为南海的定海神针",
+        "onboard_time": 1762504820,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 80542,
+        "num": 316045,
+        "word": "京东饺子火锅半价",
+        "onboard_time": 1762503861,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1282303,
+        "num": 314094,
+        "word": "日掛中天票房倒挂",
+        "onboard_time": 1762503861,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343640,
+        "num": 310636,
+        "word": "日本71岁女子杀害102岁母亲",
+        "onboard_time": 1762495881,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308976,
+        "num": 308976,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 13,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 289683,
+        "word": "在冰箱冷藏一夜的蛋糕",
+        "onboard_time": 1762497560,
+        "rank": 14,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 217781,
+        "num": 217781,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192337,
+        "num": 192337,
+        "word": "彭小苒 男主运",
+        "onboard_time": 1762504941,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188930,
+        "num": 188930,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168668,
+        "num": 183741,
+        "word": "邓为风月不相关停拍后",
+        "onboard_time": 1762501340,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146073,
+        "num": 183591,
+        "word": "papi酱一句话戳破何美延的自我感动",
+        "onboard_time": 1762490902,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504881,
+        "num": 183589,
+        "word": "宁静承认伤害过别人感情",
+        "onboard_time": 1762495280,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183518,
+        "num": 183518,
+        "word": "真的建议吃饭要带点醋",
+        "onboard_time": 1762501999,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175461,
+        "num": 175461,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 22,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 170641,
+        "num": 170641,
+        "word": "医生强调这4小时必须睡觉",
+        "onboard_time": 1762504161,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 143016,
+        "word": "美国付费坐牢",
+        "onboard_time": 1762498820,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122770,
+        "num": 122770,
+        "word": "医生做手术时被涉诈停机",
+        "onboard_time": 1762502719,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110728,
+        "num": 110728,
+        "word": "将门毒后简介",
+        "onboard_time": 1762500800,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98623,
+        "num": 110229,
+        "word": "柯淳想五年内拿到白玉兰提名",
+        "onboard_time": 1762494560,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94967,
+        "num": 110132,
+        "word": "2026爱奇艺海外悦享会",
+        "onboard_time": 1762503020,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90949,
+        "num": 110052,
+        "word": "全运会跳水再次出现0分",
+        "onboard_time": 1762496899,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110043,
+        "num": 110043,
+        "word": "曝iPhone18Pro灵动岛将缩小",
+        "onboard_time": 1762502719,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95968,
+        "num": 110013,
+        "word": "Faker在第六冠与女友结婚之间选择夺冠",
+        "onboard_time": 1762494800,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88519,
+        "num": 109967,
+        "word": "山河枕直播",
+        "onboard_time": 1762504701,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85642,
+        "num": 109898,
+        "word": "曝Doinb恢复自由人身份",
+        "onboard_time": 1762500860,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83899,
+        "num": 109800,
+        "word": "小鹏悲壮自证",
+        "onboard_time": 1762505181,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83437,
+        "num": 109725,
+        "word": "辛芷蕾 为什么给我运作而不是别人呢",
+        "onboard_time": 1762498700,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82809,
+        "num": 109721,
+        "word": "小偷偷手机被女生暴打躲进车底",
+        "onboard_time": 1762503620,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80594,
+        "num": 109643,
+        "word": "火锅分享制 火锅责任制",
+        "onboard_time": 1762503140,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 109559,
+        "word": "山河枕红毯痛楼剧宣独一份",
+        "onboard_time": 1762504461,
+        "rank": 38,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 23013,
+        "num": 109526,
+        "word": "福建舰入列让双航母部署南海成事实",
+        "onboard_time": 1762504820,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 71689,
+        "num": 109447,
+        "word": "曝内娱艺人采访都要审核提纲",
+        "onboard_time": 1762498820,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71361,
+        "num": 109344,
+        "word": "网红阿可靠炒股18岁赚到第一个百万",
+        "onboard_time": 1762493602,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69844,
+        "num": 109296,
+        "word": "福建舰是我国航母常态化部署第一步",
+        "onboard_time": 1762496121,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53505,
+        "num": 109273,
+        "word": "福建舰为啥是世界最强",
+        "onboard_time": 1762503920,
+        "rank": 43,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 69008,
+        "num": 109161,
+        "word": "斗罗大陆2动画127集预告",
+        "onboard_time": 1762501101,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68937,
+        "num": 109118,
+        "word": "歼35歼15T空警600福建舰舰载机",
+        "onboard_time": 1762493602,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66760,
+        "num": 109021,
+        "word": "奶皮子糖葫芦热量",
+        "onboard_time": 1762504761,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66470,
+        "num": 109006,
+        "word": "张柏芝因病中断一路繁花2录制",
+        "onboard_time": 1762491921,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64498,
+        "num": 108904,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762494499,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61363,
+        "num": 108830,
+        "word": "福建舰入列画面",
+        "onboard_time": 1762493841,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席福建舰入列授旗仪式#"
+    }
+  }
+}
