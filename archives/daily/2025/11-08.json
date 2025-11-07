@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762533011906,
+  "endTime": 1762534011029,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 902619,
+      "raw_hot": 1251114,
       "num": 124765,
       "word": "易烊千玺",
       "onboard_time": 1762532600,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184864,
+      "num": 155760,
+      "word": "白鹿姜雪宁",
+      "onboard_time": 1762528462,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175174,
       "num": 175174,
       "word": "时代峰峻 我本来没想那么多的",
@@ -155,14 +163,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 155760,
-      "num": 155760,
-      "word": "白鹿姜雪宁",
-      "onboard_time": 1762528462,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152333,
       "num": 152333,
       "word": "再见爱人5保险事变",
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140798,
+      "num": 125433,
+      "word": "婚后三年不孕女子查出男性染色体",
+      "onboard_time": 1762528102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133741,
       "num": 193154,
       "word": "西安市委书记方红卫被查",
@@ -193,14 +201,6 @@
       "onboard_time": 1762509500,
       "rank": 18,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 125433,
-      "num": 125433,
-      "word": "婚后三年不孕女子查出男性染色体",
-      "onboard_time": 1762528102,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123356,
@@ -249,6 +249,14 @@
       "onboard_time": 1762517841,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97807,
+      "num": 107531,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97369,
@@ -323,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76120,
+      "num": 76120,
+      "word": "陈奕迅 夸完你的夸你的",
+      "onboard_time": 1762533378,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74449,
       "num": 188183,
       "word": "必胜客要被卖了",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 68781,
-      "num": 68781,
+      "num": 74854,
       "word": "许凯立冬自拍照",
       "onboard_time": 1762528342,
       "rank": 46,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 68557,
-      "num": 68557,
+      "num": 74886,
       "word": "王橹杰高会更新",
       "onboard_time": 1762526361,
       "rank": 47,
@@ -379,19 +395,43 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48671,
-      "num": 68543,
-      "word": "专家称DNA证实康熙为努尔哈赤支系",
-      "onboard_time": 1762532720,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 56164,
+      "num": 74804,
+      "word": "恋与深空黎深",
+      "onboard_time": 1762530440,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 56049,
+      "num": 74785,
+      "word": "穆祉丞不愧是上过王牌的男人",
+      "onboard_time": 1762533980,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 55015,
+      "num": 74756,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 44070,
-      "num": 68541,
+      "num": 74702,
       "word": "张本智和止步十六强",
       "onboard_time": 1762528822,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39722,
+      "num": 74736,
+      "word": "激情全运会活力大湾区",
+      "onboard_time": 1762533378,
+      "rank": 48,
       "category": "体育"
     },
     {

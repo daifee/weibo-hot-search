@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 00:30:11
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 00:46:51
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ T1战胜TES（热度：1686829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
+易烊千玺（热度：1251114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E8%BF%99%E6%98%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
 没认出这是易烊千玺（热度：1248268）
 </a>
@@ -557,12 +563,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E5%9B%A0%E8%B4%9D%E5%84%BF%E8%AF%BE%E4%B8%9A%E5%A5%94%E6%BA%83%E6%8B%8D%E6%A1%8C%E5%AD%90%23" target="weibo">
 鲍蕾因贝儿课业奔溃拍桌子（热度：902678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
-易烊千玺（热度：902619）
 </a>
 </li>
 
