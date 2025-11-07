@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762555302628,
+  "endTime": 1762557846259,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407364,
+      "num": 780612,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374614,
       "num": 374614,
       "word": "人民网评人民咖啡馆不妥",
@@ -91,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310099,
-      "num": 489353,
-      "word": "专家称DNA证实康熙为努尔哈赤支系",
-      "onboard_time": 1762532720,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 312142,
+      "num": 312142,
+      "word": "必胜客要被卖了",
+      "onboard_time": 1762529300,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 299925,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181836,
+      "num": 125433,
+      "word": "婚后三年不孕女子查出男性染色体",
+      "onboard_time": 1762528102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176413,
       "num": 169368,
       "word": "米哈游 大丽花",
@@ -169,14 +185,6 @@
       "onboard_time": 1762515560,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165866,
-      "num": 188183,
-      "word": "必胜客要被卖了",
-      "onboard_time": 1762529300,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 162566,
@@ -203,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140798,
-      "num": 125433,
-      "word": "婚后三年不孕女子查出男性染色体",
-      "onboard_time": 1762528102,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 135465,
+      "num": 135465,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 47,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 133741,
@@ -249,6 +257,14 @@
       "onboard_time": 1762523062,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110815,
+      "num": 79395,
+      "word": "日本7名男教师被捕",
+      "onboard_time": 1762530920,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107478,
@@ -307,7 +323,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85447,
+      "raw_hot": 86558,
       "num": 120034,
       "word": "中国核力量同美俄不在一个量级",
       "onboard_time": 1762525701,
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79395,
-      "num": 79395,
-      "word": "日本7名男教师被捕",
-      "onboard_time": 1762530920,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 76120,
       "num": 76120,
       "word": "陈奕迅 夸完你的夸你的",
@@ -355,16 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74593,
-      "num": 74756,
-      "word": "猪八戒扮演者回应刘大刚去世",
-      "onboard_time": 1762524860,
-      "rank": 47,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 72581,
-      "num": 72581,
+      "num": 72767,
       "word": "李娜李小鹏世纪同框",
       "onboard_time": 1762521080,
       "rank": 43,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 69169,
-      "num": 69169,
+      "num": 72117,
       "word": "肖战实体专还有秘密",
       "onboard_time": 1762527382,
       "rank": 45,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 61396,
-      "num": 61396,
+      "num": 71918,
       "word": "日本熊灾 猎人",
       "onboard_time": 1762540275,
       "rank": 49,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49712,
+      "num": 72577,
+      "word": "雷军身家368亿美元超越马云",
+      "onboard_time": 1762540694,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47833,
       "num": 41891,
       "word": "王源生日晒照",
@@ -451,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44066,
-      "num": 41793,
-      "word": "雷军身家368亿美元超越马云",
-      "onboard_time": 1762540694,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 43564,
       "num": 53738,
       "word": "周深风车造型",
       "onboard_time": 1762534938,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40675,
+      "num": 72359,
+      "word": "林志玲说好想念被小S骂",
+      "onboard_time": 1762517480,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 40063,
@@ -483,19 +491,51 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38406,
-      "num": 67287,
-      "word": "林志玲说好想念被小S骂",
-      "onboard_time": 1762517480,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36405,
       "num": 67234,
       "word": "挑战16个烫嘴生僻字",
       "onboard_time": 1762535057,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34042,
+      "num": 72247,
+      "word": "特朗普改口承认美国民众在为关税买单",
+      "onboard_time": 1762547114,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33071,
+      "num": 72211,
+      "word": "远离从生理上排斥的人和环境",
+      "onboard_time": 1762554316,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30964,
+      "num": 72073,
+      "word": "乐华娱乐再度大跌",
+      "onboard_time": 1762544895,
+      "rank": 29,
+      "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 27457,
+      "num": 71996,
+      "word": "郑钦文上海买车",
+      "onboard_time": 1762523901,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27207,
+      "num": 71953,
+      "word": "一层薄薄的土 人与人就再难相见了",
+      "onboard_time": 1762551013,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -507,12 +547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22672,
-      "num": 26106,
-      "word": "特朗普改口承认美国民众在为关税买单",
-      "onboard_time": 1762547114,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 22983,
+      "num": 71796,
+      "word": "罗云熙让智性恋爽了",
+      "onboard_time": 1762549333,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 20982,
@@ -539,30 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19678,
-      "num": 26092,
-      "word": "罗云熙让智性恋爽了",
-      "onboard_time": 1762549333,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18817,
-      "num": 26091,
-      "word": "乐华娱乐再度大跌",
-      "onboard_time": 1762544895,
-      "rank": 29,
-      "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 18157,
-      "num": 26090,
-      "word": "远离从生理上排斥的人和环境",
-      "onboard_time": 1762554316,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17952,
       "num": 31484,
       "word": "CV吴磊声明回应起诉",
@@ -585,14 +601,6 @@
       "onboard_time": 1762541775,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14722,
-      "num": 26084,
-      "word": "一层薄薄的土 人与人就再难相见了",
-      "onboard_time": 1762551013,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12627,

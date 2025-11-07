@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 06:41:42
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 07:24:06
 </p>
 </blockquote>
 <p>
@@ -2247,6 +2247,12 @@ KK园区电诈人员已开始再就业（热度：422885）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
+专家称DNA证实康熙为努尔哈赤支系（热度：407364）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%9C%8B%E5%85%B6%E6%B4%97%E6%BE%A1%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23" target="weibo">
 女孩发视频称父亲看其洗澡警方介入（热度：406873）
 </a>
@@ -2991,6 +2997,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%85%E8%83%9C%E5%AE%A2%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
+必胜客要被卖了（热度：312142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%9B%A0%E7%97%85%E4%B8%AD%E6%96%AD%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B12%E5%BD%95%E5%88%B6%23" target="weibo">
 张柏芝因病中断一路繁花2录制（热度：311661）
 </a>
@@ -3005,12 +3017,6 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%88%B4%E5%86%B7%E5%B8%BDvs%E6%9D%8E%E8%AF%9E%E6%88%B4%E5%86%B7%E5%B8%BD%23" target="weibo">
 王安宇戴冷帽vs李诞戴冷帽（热度：310115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23" target="weibo">
-专家称DNA证实康熙为努尔哈赤支系（热度：310099）
 </a>
 </li>
 
@@ -5469,6 +5475,12 @@ A股（热度：186226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E4%B8%89%E5%B9%B4%E4%B8%8D%E5%AD%95%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%87%BA%E7%94%B7%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93%23" target="weibo">
+婚后三年不孕女子查出男性染色体（热度：181836）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E8%A2%AB%E7%88%B8%E7%88%B8%E7%9B%91%E7%9D%A3%E5%B7%A5%E4%BD%9C%23" target="weibo">
 彭小苒被爸爸监督工作（热度：181736）
 </a>
@@ -5999,18 +6011,6 @@ AL爱笑谈队员续约（热度：173578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%9C%A8%E7%AC%AC%E5%85%AD%E5%86%A0%E4%B8%8E%E5%A5%B3%E5%8F%8B%E7%BB%93%E5%A9%9A%E4%B9%8B%E9%97%B4%E9%80%89%E6%8B%A9%E5%A4%BA%E5%86%A0%23" target="weibo">
 Faker在第六冠与女友结婚之间选择夺冠（热度：168170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%92%90cos%E8%BE%9B%E5%BE%B7%E7%91%9E%E6%8B%89%23" target="weibo">
-宣璐cos辛德瑞拉（热度：168165）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AE%89%E5%BE%B7%E9%B2%81%E7%8E%8B%E5%AD%90%E6%8B%9B40%E5%90%8D%E6%B3%B0%E5%9B%BD%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85%23" target="weibo">
-曝安德鲁王子招40名泰国性工作者（热度：167703）
 </a>
 </li>
 

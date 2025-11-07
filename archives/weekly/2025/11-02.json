@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762555302628,
+  "endTime": 1762557846259,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2595,6 +2595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407364,
+      "num": 780612,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406873,
       "num": 191386,
       "word": "女孩发视频称父亲看其洗澡警方介入",
@@ -3507,6 +3515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312142,
+      "num": 312142,
+      "word": "必胜客要被卖了",
+      "onboard_time": 1762529300,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311661,
       "num": 232382,
       "word": "张柏芝因病中断一路繁花2录制",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1762398320,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310099,
-      "num": 489353,
-      "word": "专家称DNA证实康熙为努尔哈赤支系",
-      "onboard_time": 1762532720,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309812,
@@ -6251,6 +6259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181836,
+      "num": 135275,
+      "word": "婚后三年不孕女子查出男性染色体",
+      "onboard_time": 1762528102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181736,
       "num": 181736,
       "word": "彭小苒被爸爸监督工作",
@@ -6985,14 +7001,6 @@
       "onboard_time": 1762083201,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165866,
-      "num": 188183,
-      "word": "必胜客要被卖了",
-      "onboard_time": 1762529300,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 165699,
@@ -8523,14 +8531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140798,
-      "num": 135275,
-      "word": "婚后三年不孕女子查出男性染色体",
-      "onboard_time": 1762528102,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140723,
       "num": 197988,
       "word": "宝格丽CEO称小米成就堪比苹果",
@@ -9081,6 +9081,14 @@
       "onboard_time": 1762434921,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135465,
+      "num": 170397,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 36,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 135029,
@@ -9681,14 +9689,6 @@
       "onboard_time": 1762212859,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129331,
-      "num": 170397,
-      "word": "猪八戒扮演者回应刘大刚去世",
-      "onboard_time": 1762524860,
-      "rank": 36,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 129266,
@@ -11817,6 +11817,14 @@
       "onboard_time": 1762225819,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110815,
+      "num": 79395,
+      "word": "日本7名男教师被捕",
+      "onboard_time": 1762530920,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110807,
@@ -17443,14 +17451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79395,
-      "num": 79395,
-      "word": "日本7名男教师被捕",
-      "onboard_time": 1762530920,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79324,
       "num": 101477,
       "word": "Doinb谈JackeyLove",
@@ -19124,7 +19124,7 @@
     },
     {
       "raw_hot": 61396,
-      "num": 61396,
+      "num": 71918,
       "word": "日本熊灾 猎人",
       "onboard_time": 1762540275,
       "rank": 49,
@@ -19843,6 +19843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49712,
+      "num": 72577,
+      "word": "雷军身家368亿美元超越马云",
+      "onboard_time": 1762540694,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49698,
       "num": 99824,
       "word": "金饰以旧换新 少了21克",
@@ -20137,14 +20145,6 @@
       "onboard_time": 1762162102,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44066,
-      "num": 41793,
-      "word": "雷军身家368亿美元超越马云",
-      "onboard_time": 1762540694,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 43957,
@@ -20771,6 +20771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34042,
+      "num": 72247,
+      "word": "特朗普改口承认美国民众在为关税买单",
+      "onboard_time": 1762547114,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34040,
       "num": 469944,
       "word": "中国机遇是因为中国的确定性",
@@ -20825,6 +20833,14 @@
       "onboard_time": 1762447458,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33071,
+      "num": 72211,
+      "word": "远离从生理上排斥的人和环境",
+      "onboard_time": 1762554316,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 32770,
@@ -20953,6 +20969,14 @@
       "onboard_time": 1762190476,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30964,
+      "num": 72073,
+      "word": "乐华娱乐再度大跌",
+      "onboard_time": 1762544895,
+      "rank": 29,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 30632,
@@ -21129,6 +21153,14 @@
       "onboard_time": 1762516881,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27207,
+      "num": 71953,
+      "word": "一层薄薄的土 人与人就再难相见了",
+      "onboard_time": 1762551013,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27150,
@@ -21483,6 +21515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22983,
+      "num": 71796,
+      "word": "罗云熙让智性恋爽了",
+      "onboard_time": 1762549333,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22965,
       "num": 139035,
       "word": "学校通报多名学生头晕呕吐",
@@ -21497,14 +21537,6 @@
       "onboard_time": 1762412662,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 22672,
-      "num": 26106,
-      "word": "特朗普改口承认美国民众在为关税买单",
-      "onboard_time": 1762547114,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22552,
@@ -21643,14 +21675,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 19678,
-      "num": 26092,
-      "word": "罗云熙让智性恋爽了",
-      "onboard_time": 1762549333,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -21665,14 +21689,6 @@
       "onboard_time": 1762167621,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18817,
-      "num": 26091,
-      "word": "乐华娱乐再度大跌",
-      "onboard_time": 1762544895,
-      "rank": 29,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 18772,
@@ -21713,14 +21729,6 @@
       "onboard_time": 1762147223,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18157,
-      "num": 26090,
-      "word": "远离从生理上排斥的人和环境",
-      "onboard_time": 1762554316,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 18086,
@@ -21905,14 +21913,6 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14722,
-      "num": 26084,
-      "word": "一层薄薄的土 人与人就再难相见了",
-      "onboard_time": 1762551013,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14555,
