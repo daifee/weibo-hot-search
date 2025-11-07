@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762522473039,
+  "endTime": 1762523144693,
   "band_list": [
     {
       "raw_hot": 3648101,
@@ -76,15 +76,15 @@
     },
     {
       "raw_hot": 997576,
-      "num": 187434,
+      "num": 206934,
       "word": "曝某女星采访到一半崩溃大哭",
       "onboard_time": 1762505900,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 919089,
-      "num": 919089,
+      "raw_hot": 926646,
+      "num": 926646,
       "word": "爱新觉罗家族后代都有染色体标记",
       "onboard_time": 1762519882,
       "rank": 30,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 635838,
-      "num": 184591,
+      "num": 334522,
       "word": "肖战直播",
       "onboard_time": 1762516641,
       "rank": 10,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 592657,
-      "num": 197402,
+      "num": 302436,
       "word": "装修工人触电身亡婚房变凶宅",
       "onboard_time": 1762509500,
       "rank": 13,
@@ -321,6 +321,14 @@
       "onboard_time": 1762508360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490245,
+      "num": 490245,
+      "word": "安徽省二胎补贴被追回",
+      "onboard_time": 1762519882,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 489609,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 400063,
-      "num": 184208,
+      "num": 313285,
       "word": "时代峰峻 我本来没想那么多的",
       "onboard_time": 1762515560,
       "rank": 13,
@@ -497,6 +505,14 @@
       "onboard_time": 1762477819,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351982,
+      "num": 334242,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1762522041,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 351514,
@@ -601,14 +617,6 @@
       "onboard_time": 1762515620,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295995,
-      "num": 295995,
-      "word": "安徽省二胎补贴被追回",
-      "onboard_time": 1762519882,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294529,
@@ -763,14 +771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224595,
-      "num": 166668,
-      "word": "迪丽热巴直播",
-      "onboard_time": 1762522041,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224222,
       "num": 224222,
       "word": "周深 全运会开幕式主题曲",
@@ -780,11 +780,19 @@
     },
     {
       "raw_hot": 222169,
-      "num": 165736,
+      "num": 209852,
       "word": "毛晓慧常华森 女纣王男妲己",
       "onboard_time": 1762520600,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220263,
+      "num": 220263,
+      "word": "白敬亭 顶顶好的人",
+      "onboard_time": 1762522282,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 216314,
@@ -851,6 +859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206197,
+      "num": 206197,
+      "word": "镖人",
+      "onboard_time": 1762521921,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 205204,
+      "num": 205204,
+      "word": "娜扎对宋亚轩喊你算什么男人",
+      "onboard_time": 1762522701,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202925,
       "num": 202925,
       "word": "Angelababy直播素颜状态",
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 191271,
-      "num": 158366,
+      "num": 183368,
       "word": "刘强东老乡立冬送骑手黄狗猪头肉",
       "onboard_time": 1762522161,
       "rank": 23,
@@ -945,6 +969,14 @@
       "onboard_time": 1762489219,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187920,
+      "num": 158021,
+      "word": "洗衣机15分钟快洗确实洗不干净",
+      "onboard_time": 1762523062,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 186637,
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 174804,
-      "num": 174804,
+      "num": 207187,
       "word": "武汉大学原校长刘道玉逝世",
       "onboard_time": 1762520540,
       "rank": 37,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158182,
+      "num": 334555,
+      "word": "航母生产将进入量产阶段",
+      "onboard_time": 1762519279,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157507,
       "num": 157507,
       "word": "胡先煦说黄景瑜吃的很邪",
@@ -1305,22 +1345,6 @@
       "onboard_time": 1762509800,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152610,
-      "num": 152610,
-      "word": "镖人",
-      "onboard_time": 1762521921,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152247,
-      "num": 152247,
-      "word": "航母生产将进入量产阶段",
-      "onboard_time": 1762519279,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151280,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 140909,
-      "num": 134525,
+      "num": 136012,
       "word": "看得出关晓彤没少当替罪羊",
       "onboard_time": 1762521500,
       "rank": 31,
@@ -1835,6 +1859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117931,
+      "num": 117931,
+      "word": "女子三年购物零付款",
+      "onboard_time": 1762523062,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117771,
       "num": 146208,
       "word": "Uzi对选手的比赛风格影响太大了",
@@ -1905,6 +1937,14 @@
       "onboard_time": 1762515199,
       "rank": 26,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 114431,
+      "num": 114431,
+      "word": "辛芷蕾演技",
+      "onboard_time": 1762522582,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 114302,
@@ -2051,14 +2091,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 109585,
-      "num": 109585,
-      "word": "白敬亭 顶顶好的人",
-      "onboard_time": 1762522282,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108845,
       "num": 108845,
       "word": "人类寿命能超200岁吗",
@@ -2099,12 +2131,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108162,
+      "num": 108162,
+      "word": "王牌对王牌",
+      "onboard_time": 1762522401,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107672,
+      "num": 107672,
+      "word": "罗小黑战记",
+      "onboard_time": 1762522521,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 107441,
       "num": 110925,
       "word": "再见爱人画师太有节目效果了",
       "onboard_time": 1762496121,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107401,
+      "num": 107401,
+      "word": "女主播模仿劳荣枝起号",
+      "onboard_time": 1762522761,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106993,
@@ -2155,12 +2211,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "Faker和Bdd碰拳对视",
+      "onboard_time": 1762522640,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104372,
       "num": 141411,
       "word": "LCK包揽LOL战力榜前四",
       "onboard_time": 1762499480,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104350,
+      "num": 115477,
+      "word": "是谁读生僻字只读半边",
+      "onboard_time": 1762523002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104220,
+      "num": 104220,
+      "word": "婴儿头朝下摔落瞬间被顾客接住",
+      "onboard_time": 1762523062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103796,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1762488859,
       "rank": 9,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 102214,
+      "num": 102214,
+      "word": "副驾坐着他一辈子的公主",
+      "onboard_time": 1762519640,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 101665,
@@ -2307,28 +2395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96304,
-      "num": 96042,
-      "word": "王牌对王牌",
-      "onboard_time": 1762522401,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96273,
       "num": 105762,
       "word": "白百何 张律",
       "onboard_time": 1762433061,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96110,
-      "num": 96110,
-      "word": "副驾坐着他一辈子的公主",
-      "onboard_time": 1762519640,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 95882,
@@ -2643,6 +2715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84218,
+      "num": 178802,
+      "word": "孙颖莎穿羽绒服秒变乖宝",
+      "onboard_time": 1762521741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83031,
+      "num": 209160,
+      "word": "李娜李小鹏世纪同框",
+      "onboard_time": 1762521080,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82944,
       "num": 82944,
       "word": "佩洛西宣布将退休",
@@ -2827,14 +2915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74376,
-      "num": 162216,
-      "word": "李娜李小鹏世纪同框",
-      "onboard_time": 1762521080,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73160,
       "num": 155539,
       "word": "男子诱骗女友透支信用卡后将其刺死",
@@ -2905,14 +2985,6 @@
       "onboard_time": 1762497620,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67946,
-      "num": 135503,
-      "word": "孙颖莎穿羽绒服秒变乖宝",
-      "onboard_time": 1762521741,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 67511,
@@ -3299,6 +3371,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 37167,
+      "num": 183508,
+      "word": "电竞周末神装CLA已就位",
+      "onboard_time": 1762517781,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36679,
       "num": 288918,
       "word": "少爷和我京东新番",
@@ -3435,14 +3515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27463,
-      "num": 183508,
-      "word": "电竞周末神装CLA已就位",
-      "onboard_time": 1762517781,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 27250,
       "num": 162122,
       "word": "没有人能躲过谐音梗",
@@ -3515,20 +3587,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18470,
+      "num": 136425,
+      "word": "当老外学会皮蛋配牛油果",
+      "onboard_time": 1762522401,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 18380,
       "num": 108485,
       "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
       "onboard_time": 1762485318,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18112,
-      "num": 108887,
-      "word": "当老外学会皮蛋配牛油果",
-      "onboard_time": 1762522401,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 17862,
@@ -3555,8 +3627,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16388,
-      "num": 183796,
+      "raw_hot": 16837,
+      "num": 305101,
       "word": "吕艳婷通过抱树解压",
       "onboard_time": 1762520480,
       "rank": 16,
