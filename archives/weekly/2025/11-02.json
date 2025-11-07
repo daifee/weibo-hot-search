@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762515544523,
+  "endTime": 1762519969569,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -539,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 967203,
+      "num": 1154752,
+      "word": "天国的嫁衣",
+      "onboard_time": 1762516399,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 943804,
       "num": 212267,
       "word": "宋祖儿早期美高留子",
@@ -585,6 +593,14 @@
       "onboard_time": 1762481299,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 889369,
+      "num": 889369,
+      "word": "空腹爬楼瘦了25斤",
+      "onboard_time": 1762514359,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 881192,
@@ -1171,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637661,
+      "num": 637661,
+      "word": "西安市委书记方红卫被查",
+      "onboard_time": 1762519160,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 636655,
       "num": 284705,
       "word": "男子晒媳妇买了15双一样的勃肯鞋",
       "onboard_time": 1762215922,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 635838,
+      "num": 164918,
+      "word": "肖战直播",
+      "onboard_time": 1762516641,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 635309,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1762422382,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 553574,
+      "num": 553574,
+      "word": "朱婷还是朱婷",
+      "onboard_time": 1762517360,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 553533,
@@ -2459,6 +2499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400063,
+      "num": 163228,
+      "word": "时代峰峻 我本来没想那么多的",
+      "onboard_time": 1762515560,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 399930,
       "num": 231631,
       "word": "张凌赫 daddy级别",
@@ -3107,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336254,
+      "num": 336254,
+      "word": "将门毒后选角",
+      "onboard_time": 1762518261,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336019,
       "num": 468811,
       "word": "春节调休凑9天是福利还是负担",
@@ -3203,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331464,
+      "num": 163332,
+      "word": "水千丞188男团将影视化",
+      "onboard_time": 1762517841,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "疯狂动物城",
@@ -3225,6 +3289,14 @@
       "onboard_time": 1762066519,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324151,
+      "num": 192529,
+      "word": "程潇被刀划伤手",
+      "onboard_time": 1762513580,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 324043,
@@ -3491,6 +3563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298151,
+      "num": 161001,
+      "word": "明道张韶涵天国的嫁衣售后",
+      "onboard_time": 1762515620,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -3729,14 +3809,6 @@
       "onboard_time": 1762498700,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280429,
-      "num": 192529,
-      "word": "程潇被刀划伤手",
-      "onboard_time": 1762513580,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 279929,
@@ -5243,14 +5315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200075,
-      "num": 188124,
-      "word": "空腹爬楼瘦了25斤",
-      "onboard_time": 1762514359,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 199679,
       "num": 187296,
       "word": "14岁男孩获刑13年震慑未成年人犯罪",
@@ -5819,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185162,
+      "num": 185162,
+      "word": "河南女排3比0天津女排",
+      "onboard_time": 1762519882,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184934,
       "num": 225396,
       "word": "狐妖小红娘系列漫改为啥连翻车",
@@ -6033,6 +6105,14 @@
       "onboard_time": 1762083561,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179277,
+      "num": 156641,
+      "word": "四喜开播",
+      "onboard_time": 1762517841,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 179194,
@@ -6683,6 +6763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165236,
+      "num": 165236,
+      "word": "福建舰为何在11月5日入列",
+      "onboard_time": 1762515620,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165150,
       "num": 137547,
       "word": "月薪三千也能买到的精致生活",
@@ -6889,6 +6977,14 @@
       "onboard_time": 1762183225,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161698,
+      "num": 151842,
+      "word": "官方回应安徽二胎补贴被追回",
+      "onboard_time": 1762518440,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161560,
@@ -7105,6 +7201,14 @@
       "onboard_time": 1762098260,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157256,
+      "num": 141198,
+      "word": "爱新觉罗家族后代都有染色体标记",
+      "onboard_time": 1762519882,
+      "rank": 30,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 156770,
@@ -8275,6 +8379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139258,
+      "num": 139258,
+      "word": "林志玲说好想念被小S骂",
+      "onboard_time": 1762517480,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139187,
       "num": 139187,
       "word": "龙族是真的掏心掏肺",
@@ -8769,6 +8881,14 @@
       "onboard_time": 1762176081,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134195,
+      "num": 134195,
+      "word": "安徽省二胎补贴被追回",
+      "onboard_time": 1762519882,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133846,
@@ -9475,6 +9595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "航母生产将进入量产阶段",
+      "onboard_time": 1762519279,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126503,
       "num": 192840,
       "word": "请回答1988播出十周年",
@@ -9723,12 +9851,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124000,
+      "num": 124000,
+      "word": "女装商家双11备货500万退货400万",
+      "onboard_time": 1762518020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
       "onboard_time": 1762147340,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123791,
+      "num": 123791,
+      "word": "新闻联播播出福建舰入列",
+      "onboard_time": 1762518980,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123713,
@@ -9929,6 +10073,14 @@
       "onboard_time": 1762093224,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122161,
+      "num": 122161,
+      "word": "敬山水",
+      "onboard_time": 1762517541,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 122074,
@@ -10169,6 +10321,14 @@
       "onboard_time": 1762389022,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119399,
+      "num": 119399,
+      "word": "TOP竟然全是居然人",
+      "onboard_time": 1762516820,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119333,
@@ -10923,6 +11083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113141,
+      "num": 113141,
+      "word": "王权富贵终于要去淮水竹亭了",
+      "onboard_time": 1762515919,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113123,
       "num": 158733,
       "word": "程晓玥生一胎把无痛打满了",
@@ -11219,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111061,
+      "num": 111061,
+      "word": "如何看待昂贵但临期的礼物",
+      "onboard_time": 1762519822,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111015,
       "num": 111015,
       "word": "爱心人士董晓红因车祸离世",
@@ -11513,6 +11689,14 @@
       "onboard_time": 1762147761,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108770,
+      "num": 108770,
+      "word": "腾势全球首位车主是余承东",
+      "onboard_time": 1762519461,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 108723,
@@ -11859,6 +12043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106385,
+      "num": 106385,
+      "word": "导师看到我的论文查重率是0%",
+      "onboard_time": 1762518560,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106215,
       "num": 106215,
       "word": "马斯克就万亿美元薪酬获批发声",
@@ -11913,6 +12105,14 @@
       "onboard_time": 1762399280,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105651,
+      "num": 105651,
+      "word": "男子12万当彩礼分手女方称自愿赠与",
+      "onboard_time": 1762517001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105636,
@@ -16779,6 +16979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78319,
+      "num": 109570,
+      "word": "薛之谦 中国唱将师资团里的魔丸",
+      "onboard_time": 1762518320,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78313,
       "num": 145681,
       "word": "杨幂好像从雪见变成了夕瑶",
@@ -18107,6 +18315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64321,
+      "num": 119267,
+      "word": "商家称700元以下羽绒服都不纯",
+      "onboard_time": 1762519461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64228,
       "num": 95007,
       "word": "马思纯花少7收官文",
@@ -18617,6 +18833,14 @@
       "onboard_time": 1762331060,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55545,
+      "num": 155539,
+      "word": "男子诱骗女友透支信用卡后将其刺死",
+      "onboard_time": 1762518560,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55512,
@@ -19795,6 +20019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34573,
+      "num": 111722,
+      "word": "女子遭男友持刀杀害9岁儿子仍不知情",
+      "onboard_time": 1762518560,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34449,
       "num": 104636,
       "word": "网传饮料瓶砌墙开发商称已整改致歉",
@@ -20171,6 +20403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27250,
+      "num": 162122,
+      "word": "没有人能躲过谐音梗",
+      "onboard_time": 1762516881,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27150,
       "num": 184810,
       "word": "男童被生母继父虐死案二审将开庭",
@@ -20212,7 +20452,7 @@
     },
     {
       "raw_hot": 26776,
-      "num": 516463,
+      "num": 707215,
       "word": "中国国际进口博览会",
       "onboard_time": 1762422021,
       "rank": 2,
@@ -20313,6 +20553,14 @@
       "onboard_time": 1762284014,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25769,
+      "num": 159324,
+      "word": "电竞周末神装CLA已就位",
+      "onboard_time": 1762517781,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 25728,

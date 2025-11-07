@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762515544523,
+  "endTime": 1762519969569,
   "band_list": [
     {
       "raw_hot": 3648101,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967203,
+      "num": 1154752,
+      "word": "天国的嫁衣",
+      "onboard_time": 1762516399,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897658,
       "num": 1142926,
       "word": "日本熊害已逼近东京",
       "onboard_time": 1762481299,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 889369,
+      "num": 889369,
+      "word": "空腹爬楼瘦了25斤",
+      "onboard_time": 1762514359,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 864725,
@@ -163,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637661,
+      "num": 637661,
+      "word": "西安市委书记方红卫被查",
+      "onboard_time": 1762519160,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 635838,
+      "num": 164918,
+      "word": "肖战直播",
+      "onboard_time": 1762516641,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618685,
       "num": 500651,
       "word": "特朗普官宣降价减肥药企高管当场晕倒",
@@ -209,6 +241,14 @@
       "onboard_time": 1762502660,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553574,
+      "num": 553574,
+      "word": "朱婷还是朱婷",
+      "onboard_time": 1762517360,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 550194,
@@ -363,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 400063,
+      "num": 163228,
+      "word": "时代峰峻 我本来没想那么多的",
+      "onboard_time": 1762515560,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 373894,
       "num": 163710,
       "word": "抖音回应温峥嵘被AI盗播",
@@ -451,6 +499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 336254,
+      "num": 336254,
+      "word": "将门毒后选角",
+      "onboard_time": 1762518261,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331497,
       "num": 140357,
       "word": "杜华 荒谬",
@@ -459,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331464,
+      "num": 163332,
+      "word": "水千丞188男团将影视化",
+      "onboard_time": 1762517841,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "疯狂动物城",
       "onboard_time": 1762486161,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 324151,
+      "num": 192529,
+      "word": "程潇被刀划伤手",
+      "onboard_time": 1762513580,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 320961,
@@ -515,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298151,
+      "num": 161001,
+      "word": "明道张韶涵天国的嫁衣售后",
+      "onboard_time": 1762515620,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294529,
       "num": 294529,
       "word": "冒充奶皮子",
@@ -561,14 +641,6 @@
       "onboard_time": 1762498700,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 280429,
-      "num": 192529,
-      "word": "程潇被刀划伤手",
-      "onboard_time": 1762513580,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 274411,
@@ -763,14 +835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 200075,
-      "num": 188124,
-      "word": "空腹爬楼瘦了25斤",
-      "onboard_time": 1762514359,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 197082,
       "num": 153834,
       "word": "全红婵回应以后是否跳水",
@@ -851,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185162,
+      "num": 185162,
+      "word": "河南女排3比0天津女排",
+      "onboard_time": 1762519882,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183518,
       "num": 183518,
       "word": "真的建议吃饭要带点醋",
@@ -865,6 +937,14 @@
       "onboard_time": 1762494560,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179277,
+      "num": 156641,
+      "word": "四喜开播",
+      "onboard_time": 1762517841,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 177947,
@@ -1011,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165236,
+      "num": 165236,
+      "word": "福建舰为何在11月5日入列",
+      "onboard_time": 1762515620,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "你见过凌晨的东北早市吗",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1762482020,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161698,
+      "num": 151842,
+      "word": "官方回应安徽二胎补贴被追回",
+      "onboard_time": 1762518440,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161265,
@@ -1097,6 +1193,14 @@
       "onboard_time": 1762497321,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157256,
+      "num": 141198,
+      "word": "爱新觉罗家族后代都有染色体标记",
+      "onboard_time": 1762519882,
+      "rank": 30,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 155764,
@@ -1291,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139258,
+      "num": 139258,
+      "word": "林志玲说好想念被小S骂",
+      "onboard_time": 1762517480,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139187,
       "num": 139187,
       "word": "龙族是真的掏心掏肺",
@@ -1371,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134195,
+      "num": 134195,
+      "word": "安徽省二胎补贴被追回",
+      "onboard_time": 1762519882,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133598,
       "num": 133598,
       "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
@@ -1443,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "航母生产将进入量产阶段",
+      "onboard_time": 1762519279,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125790,
       "num": 167756,
       "word": "刘诗雯和樊振东打招呼",
@@ -1507,6 +1635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124000,
+      "num": 124000,
+      "word": "女装商家双11备货500万退货400万",
+      "onboard_time": 1762518020,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123791,
+      "num": 123791,
+      "word": "新闻联播播出福建舰入列",
+      "onboard_time": 1762518980,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123710,
       "num": 123710,
       "word": "原来鼻涕藏在整张脸里",
@@ -1555,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122161,
+      "num": 122161,
+      "word": "敬山水",
+      "onboard_time": 1762517541,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122027,
       "num": 120904,
       "word": "丁禹兮笑脸baby冷脸daddy",
@@ -1577,6 +1729,14 @@
       "onboard_time": 1762498281,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 119399,
+      "num": 119399,
+      "word": "TOP竟然全是居然人",
+      "onboard_time": 1762516820,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119328,
@@ -1683,6 +1843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113141,
+      "num": 113141,
+      "word": "王权富贵终于要去淮水竹亭了",
+      "onboard_time": 1762515919,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113064,
       "num": 113064,
       "word": "俄乌激战红军城",
@@ -1755,6 +1923,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 111061,
+      "num": 111061,
+      "word": "如何看待昂贵但临期的礼物",
+      "onboard_time": 1762519822,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110728,
       "num": 110728,
       "word": "将门毒后简介",
@@ -1777,6 +1953,14 @@
       "onboard_time": 1762487300,
       "rank": 44,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 108770,
+      "num": 108770,
+      "word": "腾势全球首位车主是余承东",
+      "onboard_time": 1762519461,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 108485,
@@ -1811,6 +1995,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 106385,
+      "num": 106385,
+      "word": "导师看到我的论文查重率是0%",
+      "onboard_time": 1762518560,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106215,
       "num": 106215,
       "word": "马斯克就万亿美元薪酬获批发声",
@@ -1825,6 +2017,14 @@
       "onboard_time": 1762476260,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105651,
+      "num": 105651,
+      "word": "男子12万当彩礼分手女方称自愿赠与",
+      "onboard_time": 1762517001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104918,
@@ -2403,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78319,
+      "num": 109570,
+      "word": "薛之谦 中国唱将师资团里的魔丸",
+      "onboard_time": 1762518320,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77441,
       "num": 105475,
       "word": "金价",
@@ -2555,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64321,
+      "num": 119267,
+      "word": "商家称700元以下羽绒服都不纯",
+      "onboard_time": 1762519461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63349,
       "num": 285036,
       "word": "立冬第一顿我被外卖请客了",
@@ -2673,6 +2889,14 @@
       "onboard_time": 1762426282,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55545,
+      "num": 155539,
+      "word": "男子诱骗女友透支信用卡后将其刺死",
+      "onboard_time": 1762518560,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55029,
@@ -2931,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34573,
+      "num": 111722,
+      "word": "女子遭男友持刀杀害9岁儿子仍不知情",
+      "onboard_time": 1762518560,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34449,
       "num": 104636,
       "word": "网传饮料瓶砌墙开发商称已整改致歉",
@@ -3027,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27250,
+      "num": 162122,
+      "word": "没有人能躲过谐音梗",
+      "onboard_time": 1762516881,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27038,
       "num": 138200,
       "word": "袁伟豪张宝儿二胎出生",
@@ -3041,6 +3281,14 @@
       "onboard_time": 1762510042,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25769,
+      "num": 159324,
+      "word": "电竞周末神装CLA已就位",
+      "onboard_time": 1762517781,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 25639,
@@ -3180,7 +3428,7 @@
     },
     {
       "raw_hot": 7591,
-      "num": 431998,
+      "num": 707215,
       "word": "中国国际进口博览会",
       "onboard_time": 1762422021,
       "rank": 2,
