@@ -1,7 +1,15 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762508515805,
+  "endTime": 1762511372755,
   "band_list": [
+    {
+      "raw_hot": 3452385,
+      "num": 3452385,
+      "word": "沙僧扮演者刘大刚病逝",
+      "onboard_time": 1762509500,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
     {
       "raw_hot": 3155347,
       "num": 2460115,
@@ -97,6 +105,14 @@
       "onboard_time": 1762490902,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 761061,
+      "num": 178040,
+      "word": "机器人 性别",
+      "onboard_time": 1762507941,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 725006,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 499099,
-      "num": 150181,
+      "num": 159164,
       "word": "刘诗诗参加杨紫生日会",
       "onboard_time": 1762508360,
       "rank": 21,
@@ -273,6 +289,14 @@
       "onboard_time": 1762484599,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434340,
+      "num": 434340,
+      "word": "粒上皇 烤红薯刺客",
+      "onboard_time": 1762507882,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 432343,
@@ -467,6 +491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 293049,
+      "num": 173207,
+      "word": "装修工人触电身亡婚房变凶宅",
+      "onboard_time": 1762509500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289898,
       "num": 289898,
       "word": "10亿播放量歌手上音综被淘汰",
@@ -481,6 +513,14 @@
       "onboard_time": 1762506920,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 286941,
+      "num": 286941,
+      "word": "冒充奶皮子",
+      "onboard_time": 1762506981,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 280478,
@@ -521,14 +561,6 @@
       "onboard_time": 1762489942,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 244822,
-      "num": 145796,
-      "word": "机器人 性别",
-      "onboard_time": 1762507941,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 241592,
@@ -747,6 +779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 185562,
+      "num": 185562,
+      "word": "唐朝诡事录 无代餐",
+      "onboard_time": 1762506080,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183518,
       "num": 183518,
       "word": "真的建议吃饭要带点醋",
@@ -761,6 +801,14 @@
       "onboard_time": 1762494560,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178104,
+      "num": 178104,
+      "word": "闫怀礼 沙僧",
+      "onboard_time": 1762510940,
+      "rank": 9,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 177947,
@@ -995,20 +1043,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154474,
-      "num": 179581,
-      "word": "唐朝诡事录 无代餐",
-      "onboard_time": 1762506080,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154252,
       "num": 154252,
       "word": "饺子是冬至吃还是立冬吃",
       "onboard_time": 1762477939,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153125,
+      "num": 153125,
+      "word": "柯淳误伤邵子恒眼睛好自责",
+      "onboard_time": 1762510821,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152682,
+      "num": 152682,
+      "word": "陈睿卸任上海哔哩哔哩科技公司职务",
+      "onboard_time": 1762509800,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 151280,
@@ -1057,6 +1113,22 @@
       "onboard_time": 1762499840,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148703,
+      "num": 148703,
+      "word": "张凌赫不能吃辣又想吃的样子",
+      "onboard_time": 1762510102,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147507,
+      "num": 147507,
+      "word": "胡连馨是史上最惨穿越女主吧",
+      "onboard_time": 1762509140,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 146480,
@@ -1163,6 +1235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136849,
+      "num": 149618,
+      "word": "首饰店老板提醒路边黄金千万别捡",
+      "onboard_time": 1762509861,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "烤红薯忘了这一步等于白烤",
@@ -1219,14 +1299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130808,
-      "num": 240235,
-      "word": "冒充奶皮子",
-      "onboard_time": 1762506981,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130582,
       "num": 130582,
       "word": "泡泡玛特 溢价",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1762490541,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125774,
+      "num": 125774,
+      "word": "杨紫生日vlog",
+      "onboard_time": 1762509199,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125685,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1762506860,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123352,
+      "num": 123352,
+      "word": "刘诗雯和樊振东打招呼",
+      "onboard_time": 1762510702,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 122946,
@@ -1395,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114882,
+      "num": 114882,
+      "word": "饿到什么程度才燃烧脂肪",
+      "onboard_time": 1762510102,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114302,
       "num": 114302,
       "word": "王者荣耀局内语音 兄弟们",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1762500860,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113459,
+      "num": 167904,
+      "word": "当张雅琪遇到星星人痛车",
+      "onboard_time": 1762510702,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 113064,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1762439843,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111354,
+      "num": 111354,
+      "word": "福建舰弹射一架飞机大概需要1分半",
+      "onboard_time": 1762509861,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 110728,
@@ -1545,6 +1657,22 @@
       "onboard_time": 1762499480,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103796,
+      "num": 102337,
+      "word": "邱鼎杰 冒险家puka",
+      "onboard_time": 1762510220,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102667,
+      "num": 102667,
+      "word": "江衡立冬和你一起过",
+      "onboard_time": 1762510940,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 102504,
@@ -1633,14 +1761,6 @@
       "onboard_time": 1762443441,
       "rank": 28,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 96889,
-      "num": 152229,
-      "word": "粒上皇 烤红薯刺客",
-      "onboard_time": 1762507882,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 96273,
@@ -2083,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75210,
+      "num": 108583,
+      "word": "惊天魔盗团3 钻石0元购",
+      "onboard_time": 1762510702,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72543,
       "num": 72543,
       "word": "十五运开幕式倒计时2天",
@@ -2193,6 +2321,14 @@
       "onboard_time": 1762443381,
       "rank": 31,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 62685,
+      "num": 108475,
+      "word": "孕妈称住酒店牙刷有异物致住院保胎",
+      "onboard_time": 1762511240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62684,
@@ -2507,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36029,
+      "num": 86036,
+      "word": "泡泡玛特毛利率比肩爱马仕",
+      "onboard_time": 1762509621,
+      "rank": 48,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 34834,
       "num": 105594,
       "word": "精彩全运会",
@@ -2585,6 +2729,14 @@
       "onboard_time": 1762497079,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25698,
+      "num": 172536,
+      "word": "抽火锅食材抽到了鞋垫",
+      "onboard_time": 1762510042,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25639,

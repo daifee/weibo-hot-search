@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762508515805,
+  "endTime": 1762511372755,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -41,6 +41,14 @@
       "onboard_time": 1762086801,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3452385,
+      "num": 3452385,
+      "word": "沙僧扮演者刘大刚病逝",
+      "onboard_time": 1762509500,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 3155347,
@@ -945,6 +953,14 @@
       "onboard_time": 1762438342,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 761061,
+      "num": 178040,
+      "word": "机器人 性别",
+      "onboard_time": 1762507941,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 755780,
@@ -2092,7 +2108,7 @@
     },
     {
       "raw_hot": 499099,
-      "num": 150181,
+      "num": 159164,
       "word": "刘诗诗参加杨紫生日会",
       "onboard_time": 1762508360,
       "rank": 21,
@@ -2537,6 +2553,14 @@
       "onboard_time": 1762402280,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 434340,
+      "num": 434340,
+      "word": "粒上皇 烤红薯刺客",
+      "onboard_time": 1762507882,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 433690,
@@ -4035,6 +4059,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 293049,
+      "num": 173207,
+      "word": "装修工人触电身亡婚房变凶宅",
+      "onboard_time": 1762509500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291134,
       "num": 245256,
       "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
@@ -4113,6 +4145,14 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286941,
+      "num": 286941,
+      "word": "冒充奶皮子",
+      "onboard_time": 1762506981,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 285774,
@@ -4753,14 +4793,6 @@
       "onboard_time": 1762489942,
       "rank": 30,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 244822,
-      "num": 145796,
-      "word": "机器人 性别",
-      "onboard_time": 1762507941,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 244489,
@@ -6699,6 +6731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185562,
+      "num": 185562,
+      "word": "唐朝诡事录 无代餐",
+      "onboard_time": 1762506080,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185510,
       "num": 148261,
       "word": "怪不得舞蹈生都喜欢穿长羽绒服",
@@ -7033,6 +7073,14 @@
       "onboard_time": 1762073960,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 178104,
+      "num": 178104,
+      "word": "闫怀礼 沙僧",
+      "onboard_time": 1762510940,
+      "rank": 9,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 178025,
@@ -8483,14 +8531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154474,
-      "num": 179581,
-      "word": "唐朝诡事录 无代餐",
-      "onboard_time": 1762506080,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154442,
       "num": 154442,
       "word": "BDD冲击首冠",
@@ -8539,6 +8579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153125,
+      "num": 153125,
+      "word": "柯淳误伤邵子恒眼睛好自责",
+      "onboard_time": 1762510821,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153113,
       "num": 138660,
       "word": "Ning为TES发声",
@@ -8585,6 +8633,14 @@
       "onboard_time": 1762126459,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152682,
+      "num": 152682,
+      "word": "陈睿卸任上海哔哩哔哩科技公司职务",
+      "onboard_time": 1762509800,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 152648,
@@ -8891,6 +8947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148703,
+      "num": 148703,
+      "word": "张凌赫不能吃辣又想吃的样子",
+      "onboard_time": 1762510102,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148659,
       "num": 148659,
       "word": "时代少年团贵阳演唱会定妆花絮",
@@ -9017,6 +9081,14 @@
       "onboard_time": 1762043719,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147507,
+      "num": 147507,
+      "word": "胡连馨是史上最惨穿越女主吧",
+      "onboard_time": 1762509140,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 147459,
@@ -10035,6 +10107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136849,
+      "num": 149618,
+      "word": "首饰店老板提醒路边黄金千万别捡",
+      "onboard_time": 1762509861,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136819,
       "num": 136819,
       "word": "全运会乒乓比赛",
@@ -10675,14 +10755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130808,
-      "num": 240235,
-      "word": "冒充奶皮子",
-      "onboard_time": 1762506981,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 130582,
       "num": 130582,
       "word": "泡泡玛特 溢价",
@@ -11187,6 +11259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125774,
+      "num": 125774,
+      "word": "杨紫生日vlog",
+      "onboard_time": 1762509199,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125752,
       "num": 125752,
       "word": "雷军回应小米YU7首拆视频",
@@ -11473,6 +11553,14 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123352,
+      "num": 123352,
+      "word": "刘诗雯和樊振东打招呼",
+      "onboard_time": 1762510702,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 123318,
@@ -12579,6 +12667,14 @@
       "category": "议题讨论,时尚"
     },
     {
+      "raw_hot": 114882,
+      "num": 114882,
+      "word": "饿到什么程度才燃烧脂肪",
+      "onboard_time": 1762510102,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114821,
       "num": 137788,
       "word": "佘诗曼新闻女王2把AI干冒烟了",
@@ -12713,6 +12809,14 @@
       "onboard_time": 1762253961,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113459,
+      "num": 167904,
+      "word": "当张雅琪遇到星星人痛车",
+      "onboard_time": 1762510702,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 113326,
@@ -13041,6 +13145,14 @@
       "onboard_time": 1762407440,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111354,
+      "num": 111354,
+      "word": "福建舰弹射一架飞机大概需要1分半",
+      "onboard_time": 1762509861,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 111352,
@@ -14227,6 +14339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103796,
+      "num": 102337,
+      "word": "邱鼎杰 冒险家puka",
+      "onboard_time": 1762510220,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103727,
       "num": 103727,
       "word": "白敬亭年纪轻轻就姥了",
@@ -14465,6 +14585,14 @@
       "onboard_time": 1762245621,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102667,
+      "num": 102667,
+      "word": "江衡立冬和你一起过",
+      "onboard_time": 1762510940,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 102648,
@@ -15641,14 +15769,6 @@
       "onboard_time": 1762136420,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96889,
-      "num": 152229,
-      "word": "粒上皇 烤红薯刺客",
-      "onboard_time": 1762507882,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 96873,
@@ -19811,6 +19931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75210,
+      "num": 108583,
+      "word": "惊天魔盗团3 钻石0元购",
+      "onboard_time": 1762510702,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75054,
       "num": 75054,
       "word": "女子骑错车反将车主小孩赶下",
@@ -21025,6 +21153,14 @@
       "onboard_time": 1762048760,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62685,
+      "num": 108475,
+      "word": "孕妈称住酒店牙刷有异物致住院保胎",
+      "onboard_time": 1762511240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62684,
@@ -22795,6 +22931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36029,
+      "num": 86036,
+      "word": "泡泡玛特毛利率比肩爱马仕",
+      "onboard_time": 1762509621,
+      "rank": 48,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 35632,
       "num": 172304,
       "word": "奶皮子糖葫芦火了奶皮子也涨价了",
@@ -23457,6 +23601,14 @@
       "onboard_time": 1762238060,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25698,
+      "num": 172536,
+      "word": "抽火锅食材抽到了鞋垫",
+      "onboard_time": 1762510042,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25639,
