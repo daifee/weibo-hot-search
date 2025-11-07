@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762493203668,
+  "endTime": 1762494168996,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 864725,
+      "num": 1104904,
+      "word": "我国首艘电磁弹射型航母入列",
+      "onboard_time": 1762492101,
+      "rank": 0,
+      "category": "军事"
+    },
+    {
       "raw_hot": 859960,
       "num": 859960,
       "word": "2026年节假日安排",
@@ -721,6 +729,14 @@
       "onboard_time": 1762316421,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 774314,
+      "num": 774314,
+      "word": "papi酱一句话戳破何美延的自我感动",
+      "onboard_time": 1762490902,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 771778,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 668149,
-      "num": 233508,
+      "num": 238069,
       "word": "马天宇蒋依依机场偶遇",
       "onboard_time": 1762488680,
       "rank": 32,
@@ -1051,11 +1067,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 655653,
-      "num": 1104904,
-      "word": "我国首艘电磁弹射型航母入列",
-      "onboard_time": 1762492101,
-      "rank": 0,
+      "raw_hot": 654659,
+      "num": 654659,
+      "word": "福建舰",
+      "onboard_time": 1762318342,
+      "rank": 36,
       "category": "军事"
     },
     {
@@ -1219,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 604630,
-      "num": 604630,
-      "word": "papi酱一句话戳破何美延的自我感动",
-      "onboard_time": 1762490902,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 604008,
       "num": 287793,
       "word": "白百何发生了什么",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1762214240,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 588706,
-      "num": 588706,
-      "word": "福建舰",
-      "onboard_time": 1762318342,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 587977,
@@ -3100,7 +3100,7 @@
     },
     {
       "raw_hot": 311661,
-      "num": 209302,
+      "num": 232382,
       "word": "张柏芝因病中断一路繁花2录制",
       "onboard_time": 1762491921,
       "rank": 21,
@@ -3859,6 +3859,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 247647,
+      "num": 247647,
+      "word": "辛芷蕾发长文谈日掛中天",
+      "onboard_time": 1762493180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247319,
       "num": 247319,
       "word": "Rita评论席举起LPL战旗",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1762231102,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232199,
+      "num": 232199,
+      "word": "恋与深空联动上海公安",
+      "onboard_time": 1762492162,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 232166,
@@ -4515,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211541,
+      "num": 329684,
+      "word": "福建舰官宣",
+      "onboard_time": 1762492640,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 211416,
       "num": 133076,
       "word": "Uzi离开场馆",
@@ -4577,6 +4601,14 @@
       "onboard_time": 1762146201,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209535,
+      "num": 209535,
+      "word": "网红阿可靠炒股18岁赚到第一个百万",
+      "onboard_time": 1762493602,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 209397,
@@ -4913,14 +4945,6 @@
       "onboard_time": 1762157361,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 199826,
-      "num": 199826,
-      "word": "恋与深空联动上海公安",
-      "onboard_time": 1762492162,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 199679,
@@ -5379,6 +5403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186637,
+      "num": 186637,
+      "word": "刘强东称未来员工或一周工作一天",
+      "onboard_time": 1762491861,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186586,
       "num": 226698,
       "word": "易烊千玺蛮荒禁地演的沈星",
@@ -5707,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177570,
+      "num": 177570,
+      "word": "明白父母总是开我房门的原因了",
+      "onboard_time": 1762493422,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177557,
       "num": 131903,
       "word": "Uzi心中最强AD是Ruler",
@@ -5857,6 +5897,14 @@
       "onboard_time": 1762224920,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173306,
+      "num": 173306,
+      "word": "丁禹兮宋茜 爸妈我出生了",
+      "onboard_time": 1762491381,
+      "rank": 35,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 172932,
@@ -6025,6 +6073,14 @@
       "onboard_time": 1762426881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170537,
+      "num": 170537,
+      "word": "全红婵可以接受不跳的代价",
+      "onboard_time": 1762493661,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 169813,
@@ -6473,6 +6529,14 @@
       "onboard_time": 1762478659,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161176,
+      "num": 161176,
+      "word": "山航空姐平底鞋加毛衣好接地气",
+      "onboard_time": 1762491921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161028,
@@ -7075,6 +7139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148848,
+      "num": 175945,
+      "word": "辛芷蕾回应奖项运作争议",
+      "onboard_time": 1762494021,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148659,
       "num": 148659,
       "word": "时代少年团贵阳演唱会定妆花絮",
@@ -7243,6 +7315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146074,
+      "num": 209637,
+      "word": "三航母时代来临",
+      "onboard_time": 1762492401,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 146048,
       "num": 146048,
       "word": "妈妈疑喂宝宝安眠药上夜班官方介入",
@@ -7265,14 +7345,6 @@
       "onboard_time": 1762160181,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145499,
-      "num": 209637,
-      "word": "三航母时代来临",
-      "onboard_time": 1762492401,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 145429,
@@ -7385,14 +7457,6 @@
       "onboard_time": 1762149741,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144248,
-      "num": 144248,
-      "word": "丁禹兮宋茜 爸妈我出生了",
-      "onboard_time": 1762491381,
-      "rank": 35,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 144220,
@@ -7561,14 +7625,6 @@
       "onboard_time": 1762175602,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141415,
-      "num": 141415,
-      "word": "山航空姐平底鞋加毛衣好接地气",
-      "onboard_time": 1762491921,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141151,
@@ -8035,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136019,
+      "num": 242402,
+      "word": "歼35歼15T空警600福建舰舰载机",
+      "onboard_time": 1762493602,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "烤红薯忘了这一步等于白烤",
@@ -8441,14 +8505,6 @@
       "onboard_time": 1762338442,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 131141,
-      "num": 131141,
-      "word": "辛芷蕾发长文谈日掛中天",
-      "onboard_time": 1762493180,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 131123,
@@ -8961,14 +9017,6 @@
       "onboard_time": 1762081641,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125276,
-      "num": 125276,
-      "word": "刘强东称未来员工或一周工作一天",
-      "onboard_time": 1762491861,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 125144,
@@ -9612,7 +9660,7 @@
     },
     {
       "raw_hot": 117771,
-      "num": 138723,
+      "num": 146208,
       "word": "Uzi对选手的比赛风格影响太大了",
       "onboard_time": 1762492820,
       "rank": 38,
@@ -10185,6 +10233,14 @@
       "onboard_time": 1762263083,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112762,
+      "num": 173841,
+      "word": "把斯琴高娃气得翻白眼的演员到底是谁",
+      "onboard_time": 1762494141,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 112683,
@@ -12155,14 +12211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98626,
-      "num": 329684,
-      "word": "福建舰官宣",
-      "onboard_time": 1762492640,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 98568,
       "num": 98568,
       "word": "王靖雯开口还是这么没轻没重",
@@ -12563,6 +12611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96459,
+      "num": 253815,
+      "word": "福建舰入列画面",
+      "onboard_time": 1762493841,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 96416,
       "num": 96416,
       "word": "4类人不适合吃奶皮子糖葫芦",
@@ -12721,6 +12777,14 @@
       "onboard_time": 1762165281,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 95406,
+      "num": 164572,
+      "word": "福建舰舷号为18",
+      "onboard_time": 1762494141,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 95376,
@@ -13169,6 +13233,14 @@
       "onboard_time": 1762265841,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93176,
+      "num": 247573,
+      "word": "无限王者团VOGUE",
+      "onboard_time": 1762493782,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 93108,
