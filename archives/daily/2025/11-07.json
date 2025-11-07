@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762525594115,
+  "endTime": 1762526638943,
   "band_list": [
     {
       "raw_hot": 3648101,
@@ -83,6 +83,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 1020717,
+      "num": 227813,
+      "word": "梅婷最讨厌的演员",
+      "onboard_time": 1762524141,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 997576,
       "num": 206934,
       "word": "曝某女星采访到一半崩溃大哭",
@@ -136,14 +144,6 @@
       "word": "papi酱一句话戳破何美延的自我感动",
       "onboard_time": 1762490902,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 761314,
-      "num": 210965,
-      "word": "梅婷最讨厌的演员",
-      "onboard_time": 1762524141,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472434,
+      "num": 472434,
+      "word": "人民网评人民咖啡馆不妥",
+      "onboard_time": 1762525161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472173,
       "num": 472173,
       "word": "杜若溪为和严屹宽拍戏放弃女一号",
@@ -377,6 +385,14 @@
       "onboard_time": 1762438700,
       "rank": 11,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 455145,
+      "num": 188853,
+      "word": "弦子曝和李茂结婚时已怀孕",
+      "onboard_time": 1762525521,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 447642,
@@ -401,6 +417,14 @@
       "onboard_time": 1762517841,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433185,
+      "num": 345330,
+      "word": "镖人",
+      "onboard_time": 1762521921,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 432343,
@@ -539,20 +563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345330,
-      "num": 345330,
-      "word": "镖人",
-      "onboard_time": 1762521921,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 345250,
       "num": 345250,
       "word": "iPhone18Pro系列前瞻",
       "onboard_time": 1762499300,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 337154,
+      "num": 227104,
+      "word": "婴儿头朝下摔落瞬间被顾客接住",
+      "onboard_time": 1762523062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331497,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 312342,
-      "num": 209852,
+      "num": 217760,
       "word": "毛晓慧常华森 女纣王男妲己",
       "onboard_time": 1762520600,
       "rank": 31,
@@ -617,14 +641,6 @@
       "onboard_time": 1762435041,
       "rank": 16,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 300901,
-      "num": 201636,
-      "word": "婴儿头朝下摔落瞬间被顾客接住",
-      "onboard_time": 1762523062,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299443,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264717,
+      "num": 200427,
+      "word": "洗衣机15分钟快洗确实洗不干净",
+      "onboard_time": 1762523062,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254526,
       "num": 334555,
       "word": "航母生产将进入量产阶段",
@@ -761,14 +785,6 @@
       "onboard_time": 1762482260,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 234908,
-      "num": 200427,
-      "word": "洗衣机15分钟快洗确实洗不干净",
-      "onboard_time": 1762523062,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 232199,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 176180,
-      "num": 176180,
+      "num": 186012,
       "word": "张杰演唱会",
       "onboard_time": 1762524981,
       "rank": 28,
@@ -1507,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141649,
+      "num": 141649,
+      "word": "iPhone18系列10大升级",
+      "onboard_time": 1762523302,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140909,
       "num": 136012,
       "word": "看得出关晓彤没少当替罪羊",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1762514421,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140486,
+      "num": 188778,
+      "word": "彭小苒杀回皇后赛道",
+      "onboard_time": 1762525222,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140159,
@@ -1603,20 +1635,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 137184,
-      "num": 137184,
-      "word": "iPhone18系列10大升级",
-      "onboard_time": 1762523302,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136849,
       "num": 149618,
       "word": "首饰店老板提醒路边黄金千万别捡",
       "onboard_time": 1762509861,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136370,
+      "num": 136370,
+      "word": "冯绍峰状态",
+      "onboard_time": 1762526423,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 135878,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1762497259,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134779,
-      "num": 172353,
-      "word": "彭小苒杀回皇后赛道",
-      "onboard_time": 1762525222,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 134409,
@@ -1691,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131895,
+      "num": 131895,
+      "word": "中国核力量同美俄不在一个量级",
+      "onboard_time": 1762525701,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130582,
       "num": 130582,
       "word": "泡泡玛特 溢价",
@@ -1715,20 +1747,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129331,
+      "num": 170397,
+      "word": "猪八戒扮演者回应刘大刚去世",
+      "onboard_time": 1762524860,
+      "rank": 36,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 128599,
+      "num": 128599,
+      "word": "奥恰洛夫3比1张本智和",
+      "onboard_time": 1762525701,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128424,
       "num": 128424,
       "word": "迪丽热巴帮替身演员整理帽子",
       "onboard_time": 1762512020,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128343,
-      "num": 128343,
-      "word": "猪八戒扮演者回应刘大刚去世",
-      "onboard_time": 1762524860,
-      "rank": 36,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 126948,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1762487240,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125499,
+      "num": 125499,
+      "word": "女子三年购物零付款",
+      "onboard_time": 1762523062,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125144,
@@ -1835,6 +1883,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 122866,
+      "num": 122866,
+      "word": "人类寿命能超200岁吗",
+      "onboard_time": 1762521260,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 122791,
       "num": 122791,
       "word": "33这一集全是腹肌",
@@ -1875,28 +1931,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122120,
-      "num": 122120,
-      "word": "人类寿命能超200岁吗",
-      "onboard_time": 1762521260,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 122027,
       "num": 120904,
       "word": "丁禹兮笑脸baby冷脸daddy",
       "onboard_time": 1762490661,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121877,
-      "num": 121877,
-      "word": "女子三年购物零付款",
-      "onboard_time": 1762523062,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121463,
@@ -1913,6 +1953,22 @@
       "onboard_time": 1762498281,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 120557,
+      "num": 120557,
+      "word": "王橹杰高会更新",
+      "onboard_time": 1762526361,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119765,
+      "num": 128116,
+      "word": "30岁小伙长期熬夜智力退回3岁",
+      "onboard_time": 1762525881,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119399,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1762522282,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116201,
+      "num": 116201,
+      "word": "杨紫工作室 抽奖",
+      "onboard_time": 1762523120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115729,
@@ -2227,14 +2291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107064,
-      "num": 107064,
-      "word": "杨紫工作室 抽奖",
-      "onboard_time": 1762523120,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106993,
       "num": 106993,
       "word": "微信被曝探索多台手机登录同一账号",
@@ -2457,14 +2513,6 @@
       "onboard_time": 1762520960,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96672,
-      "num": 96672,
-      "word": "弦子曝和李茂结婚时已怀孕",
-      "onboard_time": 1762525521,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96273,
@@ -2851,6 +2899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81716,
+      "num": 124767,
+      "word": "中国扇耳光大赛选手仍在治疗",
+      "onboard_time": 1762525341,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81336,
       "num": 127359,
       "word": "长沙多个鱼场用辣椒养鱼最爱朝天椒",
@@ -3123,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62942,
+      "num": 125615,
+      "word": "买车你看重新三大件吗",
+      "onboard_time": 1762526002,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62825,
       "num": 105143,
       "word": "张凯丽曾代言的足力健涉多起纠纷",
@@ -3137,6 +3201,14 @@
       "onboard_time": 1762496540,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 61620,
+      "num": 205609,
+      "word": "福建舰入列震慑台独维护国家统一",
+      "onboard_time": 1762524740,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61394,
@@ -3259,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53110,
-      "num": 204878,
-      "word": "人民网评人民咖啡馆不妥",
-      "onboard_time": 1762525161,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53001,
       "num": 88522,
       "word": "侯梓泰offer7唯一进终面的男生",
@@ -3297,14 +3361,6 @@
       "onboard_time": 1762445719,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 51592,
-      "num": 124767,
-      "word": "中国扇耳光大赛选手仍在治疗",
-      "onboard_time": 1762525341,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51003,
@@ -3433,14 +3489,6 @@
       "onboard_time": 1762495520,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 43134,
-      "num": 205609,
-      "word": "福建舰入列震慑台独维护国家统一",
-      "onboard_time": 1762524740,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42942,
@@ -3691,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23859,
+      "num": 127629,
+      "word": "再见爱人5保险事变",
+      "onboard_time": 1762526543,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23669,
       "num": 827531,
       "word": "青知讲说人",
@@ -3811,20 +3867,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12407,
+      "num": 221897,
+      "word": "宋木子合文俊土拨鼠附体",
+      "onboard_time": 1762524082,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11865,
       "num": 157324,
       "word": "山河枕大冒险给谁赢麻了",
       "onboard_time": 1762495520,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 9661,
-      "num": 208392,
-      "word": "宋木子合文俊土拨鼠附体",
-      "onboard_time": 1762524082,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 7591,
@@ -3835,18 +3891,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1986,
-      "num": 704687,
-      "word": "全运会本周末就开幕了",
-      "onboard_time": 1762417580,
+      "raw_hot": 3147,
+      "num": 602786,
+      "word": "全运会你最想看哪项比赛",
+      "onboard_time": 1762449317,
       "rank": 2,
       "category": "体育"
     },
     {
-      "raw_hot": 1754,
-      "num": 517755,
-      "word": "全运会你最想看哪项比赛",
-      "onboard_time": 1762449317,
+      "raw_hot": 1986,
+      "num": 704687,
+      "word": "全运会本周末就开幕了",
+      "onboard_time": 1762417580,
       "rank": 2,
       "category": "体育"
     }
