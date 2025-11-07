@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762519969569,
+  "endTime": 1762520806334,
   "band_list": [
     {
       "raw_hot": 3648101,
@@ -67,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1130555,
+      "num": 1180888,
+      "word": "天国的嫁衣",
+      "onboard_time": 1762516399,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 997576,
       "num": 187434,
       "word": "曝某女星采访到一半崩溃大哭",
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 967203,
-      "num": 1154752,
-      "word": "天国的嫁衣",
-      "onboard_time": 1762516399,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 905693,
+      "num": 905693,
+      "word": "西安市委书记方红卫被查",
+      "onboard_time": 1762519160,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 897658,
@@ -179,16 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 637661,
-      "num": 637661,
-      "word": "西安市委书记方红卫被查",
-      "onboard_time": 1762519160,
-      "rank": 3,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 635838,
-      "num": 164918,
+      "num": 184591,
       "word": "肖战直播",
       "onboard_time": 1762516641,
       "rank": 10,
@@ -201,6 +201,14 @@
       "onboard_time": 1762500020,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 612993,
+      "num": 612993,
+      "word": "将门毒后选角",
+      "onboard_time": 1762518261,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 599882,
@@ -395,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 411924,
+      "num": 184303,
+      "word": "水千丞188男团将影视化",
+      "onboard_time": 1762517841,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410887,
       "num": 410887,
       "word": "英国国王正式剥夺安德鲁王子头衔",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 400063,
-      "num": 163228,
+      "num": 184208,
       "word": "时代峰峻 我本来没想那么多的",
       "onboard_time": 1762515560,
       "rank": 13,
@@ -499,28 +515,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 336254,
-      "num": 336254,
-      "word": "将门毒后选角",
-      "onboard_time": 1762518261,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331497,
       "num": 140357,
       "word": "杜华 荒谬",
       "onboard_time": 1762417401,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331464,
-      "num": 163332,
-      "word": "水千丞188男团将影视化",
-      "onboard_time": 1762517841,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 330296,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 298151,
-      "num": 161001,
+      "num": 184007,
       "word": "明道张韶涵天国的嫁衣售后",
       "onboard_time": 1762515620,
       "rank": 16,
@@ -803,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211708,
+      "num": 183339,
+      "word": "爱新觉罗家族后代都有染色体标记",
+      "onboard_time": 1762519882,
+      "rank": 30,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 210238,
       "num": 128861,
       "word": "入冬仪式感是立冬四件套给的",
@@ -825,6 +833,14 @@
       "onboard_time": 1762487540,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201238,
+      "num": 183008,
+      "word": "四喜开播",
+      "onboard_time": 1762517841,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 200455,
@@ -907,6 +923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 186325,
+      "num": 182806,
+      "word": "周深新歌造物好强的爆发力",
+      "onboard_time": 1762520300,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185562,
       "num": 185562,
       "word": "唐朝诡事录 无代餐",
@@ -931,20 +955,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 182755,
+      "num": 182755,
+      "word": "安徽省二胎补贴被追回",
+      "onboard_time": 1762519882,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182228,
       "num": 239078,
       "word": "柯淳想五年内拿到白玉兰提名",
       "onboard_time": 1762494560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179277,
-      "num": 156641,
-      "word": "四喜开播",
-      "onboard_time": 1762517841,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 177947,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 165236,
-      "num": 165236,
+      "num": 184684,
       "word": "福建舰为何在11月5日入列",
       "onboard_time": 1762515620,
       "rank": 9,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1762497321,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157256,
-      "num": 141198,
-      "word": "爱新觉罗家族后代都有染色体标记",
-      "onboard_time": 1762519882,
-      "rank": 30,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 155764,
@@ -1363,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142023,
+      "num": 142023,
+      "word": "航母生产将进入量产阶段",
+      "onboard_time": 1762519279,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140723,
       "num": 197988,
       "word": "宝格丽CEO称小米成就堪比苹果",
@@ -1483,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134195,
-      "num": 134195,
-      "word": "安徽省二胎补贴被追回",
-      "onboard_time": 1762519882,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133598,
       "num": 133598,
       "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1762490541,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126721,
-      "num": 126721,
-      "word": "航母生产将进入量产阶段",
-      "onboard_time": 1762519279,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125790,
@@ -1712,6 +1720,14 @@
       "word": "丁禹兮笑脸baby冷脸daddy",
       "onboard_time": 1762490661,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121656,
+      "num": 121656,
+      "word": "毛晓慧常华森 女纣王男妲己",
+      "onboard_time": 1762520600,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1979,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108209,
+      "num": 108209,
+      "word": "S15决赛媒体日",
+      "onboard_time": 1762520662,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107441,
       "num": 110925,
       "word": "再见爱人画师太有节目效果了",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1762499840,
       "rank": 37,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 106476,
+      "num": 106476,
+      "word": "武汉大学原校长刘道玉逝世",
+      "onboard_time": 1762520540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106385,
@@ -2227,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94961,
+      "num": 94961,
+      "word": "副驾坐着他一辈子的公主",
+      "onboard_time": 1762519640,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94344,
       "num": 105902,
       "word": "周深刘宇宁跳了一段爱的华尔兹",
@@ -2344,6 +2384,14 @@
       "word": "tarzan说带孩子打卡乐园",
       "onboard_time": 1762478059,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89606,
+      "num": 89606,
+      "word": "曝NIP全员离队",
+      "onboard_time": 1762520240,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2675,6 +2723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73160,
+      "num": 155539,
+      "word": "男子诱骗女友透支信用卡后将其刺死",
+      "onboard_time": 1762518560,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72627,
+      "num": 119267,
+      "word": "商家称700元以下羽绒服都不纯",
+      "onboard_time": 1762519461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72543,
       "num": 72543,
       "word": "十五运开幕式倒计时2天",
@@ -2761,14 +2825,6 @@
       "onboard_time": 1762432761,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64321,
-      "num": 119267,
-      "word": "商家称700元以下羽绒服都不纯",
-      "onboard_time": 1762519461,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63349,
@@ -2889,14 +2945,6 @@
       "onboard_time": 1762426282,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55545,
-      "num": 155539,
-      "word": "男子诱骗女友透支信用卡后将其刺死",
-      "onboard_time": 1762518560,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55029,
@@ -3259,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27463,
+      "num": 183508,
+      "word": "电竞周末神装CLA已就位",
+      "onboard_time": 1762517781,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27250,
       "num": 162122,
       "word": "没有人能躲过谐音梗",
@@ -3281,14 +3337,6 @@
       "onboard_time": 1762510042,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 25769,
-      "num": 159324,
-      "word": "电竞周末神装CLA已就位",
-      "onboard_time": 1762517781,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 25639,
@@ -3427,8 +3475,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9534,
+      "num": 183796,
+      "word": "吕艳婷通过抱树解压",
+      "onboard_time": 1762520480,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7591,
-      "num": 707215,
+      "num": 774440,
       "word": "中国国际进口博览会",
       "onboard_time": 1762422021,
       "rank": 2,
