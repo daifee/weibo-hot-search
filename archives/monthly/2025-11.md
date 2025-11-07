@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/07 23:42:08
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 00:30:11
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%83%A7%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D%23" target="weibo">
 沙僧扮演者刘大刚病逝（热度：3648101）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8D%A1%E7%82%B9%E4%B8%BA%E7%8E%8B%E6%BA%90%E5%BA%86%E7%94%9F%23" target="weibo">
+王俊凯卡点为王源庆生（热度：3308875）
 </a>
 </li>
 
@@ -551,6 +557,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E5%9B%A0%E8%B4%9D%E5%84%BF%E8%AF%BE%E4%B8%9A%E5%A5%94%E6%BA%83%E6%8B%8D%E6%A1%8C%E5%AD%90%23" target="weibo">
 鲍蕾因贝儿课业奔溃拍桌子（热度：902678）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
+易烊千玺（热度：902619）
 </a>
 </li>
 
@@ -1767,6 +1779,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%9A%84%E7%8E%8B%E6%BA%90%23" target="weibo">
+25岁的王源（热度：488403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E5%8F%8A%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
 嘎子哥及妻子被限消（热度：487309）
 </a>
@@ -1971,6 +1989,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43%23" target="weibo">
+四喜37分钟收视率破3（热度：444305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23268%E6%96%A4%E7%94%B7%E5%AD%90%E5%81%9A%E5%88%87%E8%83%83%E6%89%8B%E6%9C%AF%E5%90%8E%E5%9C%A8ICU%E8%BA%AB%E4%BA%A1%23" target="weibo">
 268斤男子做切胃手术后在ICU身亡（热度：444288）
 </a>
@@ -1991,6 +2015,12 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E7%BB%99%E8%B0%88%E8%8E%89%E5%A8%9C%E9%80%81%E4%BA%86%E6%96%B0%E5%A9%9A%E7%A5%9D%E7%A6%8F%23" target="weibo">
 张翰给谈莉娜送了新婚祝福（热度：442000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%87%AF%E5%9B%9E%E5%A4%8D%23" target="weibo">
+谭凯回复（热度：441429）
 </a>
 </li>
 
@@ -3135,6 +3165,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81%23" target="weibo">
+30岁小伙长期熬夜智力退回3岁（热度：299925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E7%88%B1%E8%AF%B4%E6%95%99%23" target="weibo">
 黄磊回应被指爱说教（热度：299530）
 </a>
@@ -3371,12 +3407,6 @@ T1战胜AL（热度：279371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%23" target="weibo">
 秦岚新剧造型（热度：278539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81%23" target="weibo">
-30岁小伙长期熬夜智力退回3岁（热度：277229）
 </a>
 </li>
 
@@ -4575,12 +4605,6 @@ TES面对LCK十五连败（热度：208527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43%23" target="weibo">
-四喜37分钟收视率破3（热度：205686）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B0%83%E4%BC%91%23" target="weibo">
 元旦调休（热度：205605）
 </a>
@@ -4685,6 +4709,12 @@ Ruler回应败给KT（热度：203278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%9B%B4%E6%92%AD%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23" target="weibo">
 Angelababy直播素颜状态（热度：202925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23" target="weibo">
+iPhone18系列10大升级（热度：202843）
 </a>
 </li>
 
@@ -5355,12 +5385,6 @@ A股（热度：186226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%87%AF%E5%9B%9E%E5%A4%8D%23" target="weibo">
-谭凯回复（热度：184706）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E6%94%B9%E5%96%84%E7%9C%BC%E5%87%B8%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 高度近视改善眼凸的方法（热度：184490）
 </a>
@@ -5441,12 +5465,6 @@ A股（热度：186226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%E6%97%A0%E5%90%8D%E4%B9%8B%E8%BE%88%E6%84%8F%E4%B9%89%E9%9D%9E%E5%87%A1%23" target="weibo">
 王俊凯领衔主演无名之辈意义非凡（热度：181552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23" target="weibo">
-iPhone18系列10大升级（热度：181513）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Faker在第六冠与女友结婚之间选择夺冠（热度：168170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E8%AE%A1%E6%97%B6%E5%BC%95%E7%88%86%E6%91%A9%E5%A4%A9%E6%A5%BC%E5%AE%98%E5%AE%A3%E5%BC%95%E8%BF%9B%23" target="weibo">
 柯南计时引爆摩天楼官宣引进（热度：167578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%AF%B4%E6%88%91%E7%9C%9F%E6%A3%92%23" target="weibo">
-全红婵说我真棒（热度：167492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B8%A9%E6%9F%94%E7%9A%84%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-好温柔的王楚钦（热度：167436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E5%9D%A6%E7%84%B6%E8%81%8A%E5%84%BF%E7%AB%A5%E6%80%A7%E6%95%99%E8%82%B2%23" target="weibo">
-爸爸当家坦然聊儿童性教育（热度：167408）
 </a>
 </li>
 

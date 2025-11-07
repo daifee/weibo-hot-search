@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762530128678,
+  "endTime": 1762533011906,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -49,6 +49,14 @@
       "onboard_time": 1762509500,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 3308875,
+      "num": 125060,
+      "word": "王俊凯卡点为王源庆生",
+      "onboard_time": 1762532181,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 3155347,
@@ -721,6 +729,14 @@
       "onboard_time": 1762228640,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 902619,
+      "num": 124765,
+      "word": "易烊千玺",
+      "onboard_time": 1762532600,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 897912,
@@ -2339,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488403,
+      "num": 121792,
+      "word": "25岁的王源",
+      "onboard_time": 1762532240,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487309,
       "num": 487309,
       "word": "嘎子哥及妻子被限消",
@@ -2611,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444305,
+      "num": 221925,
+      "word": "四喜37分钟收视率破3",
+      "onboard_time": 1762528761,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444288,
       "num": 267894,
       "word": "268斤男子做切胃手术后在ICU身亡",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1761982100,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441429,
+      "num": 183138,
+      "word": "谭凯回复",
+      "onboard_time": 1762529061,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 440968,
@@ -4163,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299925,
+      "num": 205403,
+      "word": "30岁小伙长期熬夜智力退回3岁",
+      "onboard_time": 1762525881,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299530,
       "num": 180508,
       "word": "黄磊回应被指爱说教",
@@ -4481,14 +4529,6 @@
       "onboard_time": 1762255102,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277229,
-      "num": 205403,
-      "word": "30岁小伙长期熬夜智力退回3岁",
-      "onboard_time": 1762525881,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276944,
@@ -6083,14 +6123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205686,
-      "num": 177517,
-      "word": "四喜37分钟收视率破3",
-      "onboard_time": 1762528761,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205605,
       "num": 147297,
       "word": "元旦调休",
@@ -6233,6 +6265,14 @@
       "onboard_time": 1762487540,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202843,
+      "num": 212934,
+      "word": "iPhone18系列10大升级",
+      "onboard_time": 1762523302,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 202534,
@@ -7123,14 +7163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184706,
-      "num": 174988,
-      "word": "谭凯回复",
-      "onboard_time": 1762529061,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184490,
       "num": 184490,
       "word": "高度近视改善眼凸的方法",
@@ -7241,14 +7273,6 @@
       "onboard_time": 1761986301,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181513,
-      "num": 212934,
-      "word": "iPhone18系列10大升级",
-      "onboard_time": 1762523302,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 181455,
@@ -14276,7 +14300,7 @@
     },
     {
       "raw_hot": 108519,
-      "num": 161506,
+      "num": 188183,
       "word": "必胜客要被卖了",
       "onboard_time": 1762529300,
       "rank": 29,
@@ -14497,6 +14521,14 @@
       "onboard_time": 1762096580,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107478,
+      "num": 120763,
+      "word": "易烊千玺完全是电影疯子",
+      "onboard_time": 1762531402,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 107455,
@@ -15964,7 +15996,7 @@
     },
     {
       "raw_hot": 99499,
-      "num": 106924,
+      "num": 119041,
       "word": "钟睒睒771亿美元身家登顶内地富豪榜",
       "onboard_time": 1762529061,
       "rank": 37,
@@ -18171,6 +18203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 89850,
+      "num": 89850,
+      "word": "沈明辉好萌",
+      "onboard_time": 1762532240,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89834,
       "num": 89834,
       "word": "网传肖战ELLE2026开年刊",
@@ -19219,6 +19259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85414,
+      "num": 85414,
+      "word": "沈佳润回应是否割双眼皮",
+      "onboard_time": 1762530802,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85369,
       "num": 98714,
       "word": "买3万斤滞销白菜农民连谢13年",
@@ -20265,6 +20313,14 @@
       "onboard_time": 1762169121,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79395,
+      "num": 79395,
+      "word": "日本7名男教师被捕",
+      "onboard_time": 1762530920,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79324,
@@ -23209,6 +23265,14 @@
       "onboard_time": 1762449557,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48671,
+      "num": 68543,
+      "word": "专家称DNA证实康熙为努尔哈赤支系",
+      "onboard_time": 1762532720,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48411,
