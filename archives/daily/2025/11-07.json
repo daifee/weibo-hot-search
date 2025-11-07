@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762494168996,
+  "endTime": 1762497555320,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428040,
+      "num": 279507,
+      "word": "日本71岁女子杀害102岁母亲",
+      "onboard_time": 1762495881,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 424860,
+      "num": 209535,
+      "word": "网红阿可靠炒股18岁赚到第一个百万",
+      "onboard_time": 1762493602,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 410887,
       "num": 410887,
       "word": "英国国王正式剥夺安德鲁王子头衔",
@@ -233,6 +249,14 @@
       "onboard_time": 1762445301,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364934,
+      "num": 1058389,
+      "word": "福建舰入列画面",
+      "onboard_time": 1762493841,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 358235,
@@ -283,6 +307,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 313309,
+      "num": 313309,
+      "word": "全红婵可以接受不跳的代价",
+      "onboard_time": 1762493661,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311661,
       "num": 232382,
       "word": "张柏芝因病中断一路繁花2录制",
@@ -307,6 +339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 299002,
+      "num": 299002,
+      "word": "辛芷蕾回应奖项运作争议",
+      "onboard_time": 1762494021,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 293889,
+      "num": 329684,
+      "word": "福建舰官宣",
+      "onboard_time": 1762492640,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 289898,
       "num": 289898,
       "word": "10亿播放量歌手上音综被淘汰",
@@ -321,6 +369,14 @@
       "onboard_time": 1762430721,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263926,
+      "num": 263926,
+      "word": "宁静承认伤害过别人感情",
+      "onboard_time": 1762495280,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 247647,
@@ -419,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211541,
-      "num": 329684,
-      "word": "福建舰官宣",
-      "onboard_time": 1762492640,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 210238,
       "num": 128861,
       "word": "入冬仪式感是立冬四件套给的",
@@ -443,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209535,
-      "num": 209535,
-      "word": "网红阿可靠炒股18岁赚到第一个百万",
-      "onboard_time": 1762493602,
+      "raw_hot": 208942,
+      "num": 181749,
+      "word": "陈松伶张铎没有办婚礼",
+      "onboard_time": 1762496960,
       "rank": 25,
-      "category": "网红"
+      "category": "综艺"
     },
     {
       "raw_hot": 202925,
@@ -483,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191262,
+      "num": 242402,
+      "word": "歼35歼15T空警600福建舰舰载机",
+      "onboard_time": 1762493602,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 190506,
       "num": 190506,
       "word": "任嘉伦彭小苒这次演了大甜剧",
@@ -513,6 +569,14 @@
       "onboard_time": 1762491861,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 180858,
+      "num": 180858,
+      "word": "柯淳想五年内拿到白玉兰提名",
+      "onboard_time": 1762494560,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 177947,
@@ -571,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172379,
+      "num": 172379,
+      "word": "只有师范生才知道她有多强",
+      "onboard_time": 1762496480,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171379,
       "num": 171379,
       "word": "日本熊害已致至少12死",
@@ -585,14 +657,6 @@
       "onboard_time": 1762491921,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 170537,
-      "num": 170537,
-      "word": "全红婵可以接受不跳的代价",
-      "onboard_time": 1762493661,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 169427,
@@ -683,6 +747,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161151,
+      "num": 161151,
+      "word": "全运会跳水再次出现0分",
+      "onboard_time": 1762496899,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160574,
+      "num": 160574,
+      "word": "新闻女王2 找个男人嫁了吧",
+      "onboard_time": 1762496300,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "双轨爱意轰鸣大片",
@@ -697,6 +777,14 @@
       "onboard_time": 1762477939,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152611,
+      "num": 152611,
+      "word": "Faker在第六冠与女友结婚之间选择夺冠",
+      "onboard_time": 1762494800,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 151280,
@@ -721,14 +809,6 @@
       "onboard_time": 1762484058,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148848,
-      "num": 175945,
-      "word": "辛芷蕾回应奖项运作争议",
-      "onboard_time": 1762494021,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 146480,
@@ -771,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140730,
+      "num": 140730,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762494499,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139672,
       "num": 139672,
       "word": "陈梦说巴黎会师已完成任务",
@@ -803,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136019,
-      "num": 242402,
-      "word": "歼35歼15T空警600福建舰舰载机",
-      "onboard_time": 1762493602,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "烤红薯忘了这一步等于白烤",
@@ -827,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134930,
+      "num": 134930,
+      "word": "这瓜让彭昱畅吃爽了",
+      "onboard_time": 1762497259,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133598,
       "num": 133598,
       "word": "陈伟霆喂黄景瑜的时候可是被拒绝了",
@@ -841,6 +929,14 @@
       "onboard_time": 1762490721,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132864,
+      "num": 132864,
+      "word": "胡先煦说黄景瑜吃的很邪",
+      "onboard_time": 1762497321,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 130582,
@@ -891,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122946,
+      "num": 324355,
+      "word": "孙颖莎和鸭鸭的双向奔赴",
+      "onboard_time": 1762491980,
+      "rank": 13,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 122027,
       "num": 120904,
       "word": "丁禹兮笑脸baby冷脸daddy",
@@ -937,6 +1041,14 @@
       "onboard_time": 1762485680,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113024,
+      "num": 113024,
+      "word": "狗咖派了一只小狗员工来接我",
+      "onboard_time": 1762497321,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112762,
@@ -993,6 +1105,14 @@
       "onboard_time": 1762430361,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107441,
+      "num": 110925,
+      "word": "再见爱人画师太有节目效果了",
+      "onboard_time": 1762496121,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 106215,
@@ -1083,14 +1203,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 96459,
-      "num": 253815,
-      "word": "福建舰入列画面",
-      "onboard_time": 1762493841,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 96273,
       "num": 105762,
       "word": "白百何 张律",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1762437082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92042,
+      "num": 185319,
+      "word": "张韶涵新歌昔涟",
+      "onboard_time": 1762495581,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 92018,
@@ -1299,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73074,
+      "num": 185103,
+      "word": "福建舰是我国航母常态化部署第一步",
+      "onboard_time": 1762496121,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72543,
       "num": 72543,
       "word": "十五运开幕式倒计时2天",
@@ -1379,12 +1507,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 62684,
+      "num": 139593,
+      "word": "福建舰入列意味什么",
+      "onboard_time": 1762496540,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 61394,
       "num": 105098,
       "word": "王鹤棣或将空档四个月",
       "onboard_time": 1762434141,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61070,
+      "num": 137019,
+      "word": "Faker英雄选用数S15第一",
+      "onboard_time": 1762496421,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 59031,
@@ -1539,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43148,
+      "num": 190689,
+      "word": "立冬京东送玄学秋裤",
+      "onboard_time": 1762495520,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42942,
       "num": 88274,
       "word": "孟子义 沈妙",
@@ -1571,14 +1723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 36772,
-      "num": 324355,
-      "word": "孙颖莎和鸭鸭的双向奔赴",
-      "onboard_time": 1762491980,
-      "rank": 13,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 36679,
       "num": 288918,
       "word": "少爷和我京东新番",
@@ -1593,6 +1737,14 @@
       "onboard_time": 1762455734,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36000,
+      "num": 194372,
+      "word": "连锁酒店 万能抹布",
+      "onboard_time": 1762497199,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34834,
@@ -1675,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25324,
+      "num": 219437,
+      "word": "北京秋游太舒服了",
+      "onboard_time": 1762495280,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23879,
       "num": 86988,
       "word": "景甜张彬彬朱迪尼克",
@@ -1739,12 +1899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13197,
+      "num": 138200,
+      "word": "袁伟豪张宝儿二胎出生",
+      "onboard_time": 1762497079,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12452,
       "num": 709487,
       "word": "2025世界互联网大会乌镇峰会",
       "onboard_time": 1762422681,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9759,
+      "num": 139764,
+      "word": "山河枕大冒险给谁赢麻了",
+      "onboard_time": 1762495520,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 1986,
