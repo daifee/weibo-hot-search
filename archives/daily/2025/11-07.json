@@ -1,6 +1,6 @@
 {
   "startTime": 1762446949637,
-  "endTime": 1762490712330,
+  "endTime": 1762493203668,
   "band_list": [
     {
       "raw_hot": 2429969,
@@ -51,12 +51,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 777256,
-      "num": 777256,
+      "raw_hot": 820934,
+      "num": 820934,
       "word": "康熙不可能是洪承畴的儿子",
       "onboard_time": 1762487780,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 705807,
+      "num": 705807,
+      "word": "刘嘉玲 你拍王家卫不用担心灯光",
+      "onboard_time": 1762489762,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 700188,
@@ -67,12 +75,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668149,
+      "num": 233508,
+      "word": "马天宇蒋依依机场偶遇",
+      "onboard_time": 1762488680,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655653,
+      "num": 1104904,
+      "word": "我国首艘电磁弹射型航母入列",
+      "onboard_time": 1762492101,
+      "rank": 0,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 604630,
+      "num": 604630,
+      "word": "papi酱一句话戳破何美延的自我感动",
+      "onboard_time": 1762490902,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599882,
       "num": 599882,
       "word": "马思纯说花少聚会时长5小时起步",
       "onboard_time": 1762481180,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588706,
+      "num": 588706,
+      "word": "福建舰",
+      "onboard_time": 1762492461,
+      "rank": 6,
+      "category": "军事"
     },
     {
       "raw_hot": 574779,
@@ -100,7 +140,7 @@
     },
     {
       "raw_hot": 540860,
-      "num": 298176,
+      "num": 328932,
       "word": "孙乐言来了也分不清奥斯卡冯程朗",
       "onboard_time": 1762487060,
       "rank": 16,
@@ -161,14 +201,6 @@
       "onboard_time": 1762484599,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442157,
-      "num": 233508,
-      "word": "马天宇蒋依依机场偶遇",
-      "onboard_time": 1762488680,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 410887,
@@ -249,6 +281,14 @@
       "onboard_time": 1762486161,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 311661,
+      "num": 209302,
+      "word": "张柏芝因病中断一路繁花2录制",
+      "onboard_time": 1762491921,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 309678,
@@ -395,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 199826,
+      "num": 199826,
+      "word": "恋与深空联动上海公安",
+      "onboard_time": 1762492162,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197082,
       "num": 153834,
       "word": "全红婵回应以后是否跳水",
@@ -409,14 +457,6 @@
       "onboard_time": 1762483819,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192675,
-      "num": 239167,
-      "word": "刘嘉玲 你拍王家卫不用担心灯光",
-      "onboard_time": 1762489762,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 190506,
@@ -481,6 +521,22 @@
       "onboard_time": 1762489821,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171379,
+      "num": 171379,
+      "word": "日本熊害已致至少12死",
+      "onboard_time": 1762487601,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171286,
+      "num": 171286,
+      "word": "德国男护士因夜班太忙杀害10名病人",
+      "onboard_time": 1762491921,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169427,
@@ -563,14 +619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158183,
-      "num": 158183,
-      "word": "日本熊害已致至少12死",
-      "onboard_time": 1762487601,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155278,
       "num": 155278,
       "word": "双轨爱意轰鸣大片",
@@ -611,12 +659,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146480,
+      "num": 146480,
+      "word": "刘嘉玲何赛飞因王家卫起观念冲突",
+      "onboard_time": 1762491321,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146413,
       "num": 146413,
       "word": "泡泡玛特紧急调查直播事故",
       "onboard_time": 1762483880,
       "rank": 35,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 145499,
+      "num": 209637,
+      "word": "三航母时代来临",
+      "onboard_time": 1762492401,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 144248,
+      "num": 144248,
+      "word": "丁禹兮宋茜 爸妈我出生了",
+      "onboard_time": 1762491381,
+      "rank": 35,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 142928,
@@ -633,6 +705,14 @@
       "onboard_time": 1762430661,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141415,
+      "num": 141415,
+      "word": "山航空姐平底鞋加毛衣好接地气",
+      "onboard_time": 1762491921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139672,
@@ -691,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133271,
+      "num": 133271,
+      "word": "为了400平露台买了二楼的房子",
+      "onboard_time": 1762490721,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131141,
+      "num": 131141,
+      "word": "辛芷蕾发长文谈日掛中天",
+      "onboard_time": 1762493180,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130582,
       "num": 130582,
       "word": "泡泡玛特 溢价",
@@ -715,6 +811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125276,
+      "num": 125276,
+      "word": "刘强东称未来员工或一周工作一天",
+      "onboard_time": 1762491861,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125144,
       "num": 125144,
       "word": "教资查分",
@@ -729,6 +833,14 @@
       "onboard_time": 1762489582,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124768,
+      "num": 124768,
+      "word": "孙杨想要游得更久",
+      "onboard_time": 1762492701,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122027,
@@ -753,6 +865,14 @@
       "onboard_time": 1762432402,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117771,
+      "num": 138723,
+      "word": "Uzi对选手的比赛风格影响太大了",
+      "onboard_time": 1762492820,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 114302,
@@ -875,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98626,
+      "num": 329684,
+      "word": "福建舰官宣",
+      "onboard_time": 1762492640,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98392,
       "num": 154299,
       "word": "泡泡玛特客服回应直播间翻车事故",
@@ -921,6 +1049,14 @@
       "onboard_time": 1762484058,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95663,
+      "num": 144880,
+      "word": "有人吐槽泡泡玛特靠IP哄抬价",
+      "onboard_time": 1762491200,
+      "rank": 34,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 95151,
@@ -987,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88992,
+      "num": 137070,
+      "word": "法国人日常吹Uzi",
+      "onboard_time": 1762492521,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84702,
       "num": 84702,
       "word": "沙溢 妈宝男就是形容我的",
@@ -1001,6 +1145,14 @@
       "onboard_time": 1762472118,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81336,
+      "num": 127359,
+      "word": "长沙多个鱼场用辣椒养鱼最爱朝天椒",
+      "onboard_time": 1762491621,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79875,
@@ -1347,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36772,
+      "num": 324355,
+      "word": "孙颖莎和鸭鸭的双向奔赴",
+      "onboard_time": 1762491980,
+      "rank": 13,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 36679,
       "num": 288918,
       "word": "少爷和我京东新番",
@@ -1427,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28082,
+      "num": 134668,
+      "word": "上过太空的乌鸡",
+      "onboard_time": 1762491441,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 25639,
       "num": 87026,
       "word": "今年都有谁有效播剧了",
@@ -1441,6 +1609,14 @@
       "onboard_time": 1762450696,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22558,
+      "num": 827531,
+      "word": "青知讲说人",
+      "onboard_time": 1762489701,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18380,
@@ -1464,14 +1640,6 @@
       "word": "韩警方回应网红造谣中国人杀韩国人",
       "onboard_time": 1762454594,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17027,
-      "num": 660771,
-      "word": "青知讲说人",
-      "onboard_time": 1762489701,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

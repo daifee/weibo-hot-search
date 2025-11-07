@@ -1,0 +1,410 @@
+{
+  "runTime": 1762493203668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 655653,
+        "num": 1104904,
+        "word": "我国首艘电磁弹射型航母入列",
+        "onboard_time": 1762492101,
+        "rank": 0,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 998452,
+        "num": 998452,
+        "word": "泡泡玛特大跌",
+        "onboard_time": 1762485260,
+        "rank": 1,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 22558,
+        "num": 827531,
+        "word": "青知讲说人",
+        "onboard_time": 1762489701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820934,
+        "num": 820934,
+        "word": "康熙不可能是洪承畴的儿子",
+        "onboard_time": 1762487780,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 705807,
+        "num": 705807,
+        "word": "刘嘉玲 你拍王家卫不用担心灯光",
+        "onboard_time": 1762489762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604630,
+        "num": 604630,
+        "word": "papi酱一句话戳破何美延的自我感动",
+        "onboard_time": 1762490902,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588706,
+        "num": 588706,
+        "word": "福建舰",
+        "onboard_time": 1762492461,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 375727,
+        "num": 375727,
+        "word": "央妈音综出手就是国家队顶配",
+        "onboard_time": 1762483580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331763,
+        "num": 331763,
+        "word": "日本熊害已逼近东京",
+        "onboard_time": 1762481299,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98626,
+        "num": 329684,
+        "word": "福建舰官宣",
+        "onboard_time": 1762492640,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1318675,
+        "num": 329304,
+        "word": "泡泡玛特直播事故",
+        "onboard_time": 1762472179,
+        "rank": 10,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 362448,
+        "num": 328932,
+        "word": "孙乐言来了也分不清奥斯卡冯程朗",
+        "onboard_time": 1762487060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327852,
+        "num": 327852,
+        "word": "泡泡玛特 又是79",
+        "onboard_time": 1762477879,
+        "rank": 12,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 36772,
+        "num": 324355,
+        "word": "孙颖莎和鸭鸭的双向奔赴",
+        "onboard_time": 1762491980,
+        "rank": 13,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 324296,
+        "num": 324296,
+        "word": "泡泡玛特回应直播事故",
+        "onboard_time": 1762479139,
+        "rank": 14,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 283614,
+        "num": 283614,
+        "word": "疯狂动物城",
+        "onboard_time": 1762486161,
+        "rank": 15,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 268723,
+        "num": 268723,
+        "word": "孟子义沈娇娇对比图",
+        "onboard_time": 1762483099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235014,
+        "num": 235014,
+        "word": "网红尿毒症夫妇丈夫离世",
+        "onboard_time": 1762484599,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210696,
+        "num": 210696,
+        "word": "杜若溪为和严屹宽拍戏放弃女一号",
+        "onboard_time": 1762485859,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145499,
+        "num": 209637,
+        "word": "三航母时代来临",
+        "onboard_time": 1762492401,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 668149,
+        "num": 209383,
+        "word": "马天宇蒋依依机场偶遇",
+        "onboard_time": 1762488680,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311661,
+        "num": 209302,
+        "word": "张柏芝因病中断一路繁花2录制",
+        "onboard_time": 1762491921,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209116,
+        "num": 209116,
+        "word": "耿爽说那我也不含蓄了",
+        "onboard_time": 1762480160,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199826,
+        "num": 199826,
+        "word": "恋与深空联动上海公安",
+        "onboard_time": 1762492162,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189005,
+        "num": 189005,
+        "word": "她这一天是小说都不敢写的程度",
+        "onboard_time": 1762489942,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 183097,
+        "num": 183097,
+        "word": "立冬",
+        "onboard_time": 1762470618,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33520,
+        "num": 179639,
+        "word": "天猫双11巅峰冲刺新发万元大券包",
+        "onboard_time": 1762488320,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176828,
+        "num": 176828,
+        "word": "短剧还珠",
+        "onboard_time": 1762483759,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176497,
+        "num": 176497,
+        "word": "苏新皓 要爆了",
+        "onboard_time": 1762490121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168409,
+        "num": 173043,
+        "word": "就说爆改还珠格格会出大事吧",
+        "onboard_time": 1762487360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171379,
+        "num": 171379,
+        "word": "日本熊害已致至少12死",
+        "onboard_time": 1762487601,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171286,
+        "num": 171286,
+        "word": "德国男护士因夜班太忙杀害10名病人",
+        "onboard_time": 1762491921,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165057,
+        "num": 165057,
+        "word": "Angelababy直播素颜状态",
+        "onboard_time": 1762487540,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146480,
+        "num": 146480,
+        "word": "刘嘉玲何赛飞因王家卫起观念冲突",
+        "onboard_time": 1762491321,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95663,
+        "num": 144880,
+        "word": "有人吐槽泡泡玛特靠IP哄抬价",
+        "onboard_time": 1762491200,
+        "rank": 34,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 144248,
+        "num": 144248,
+        "word": "丁禹兮宋茜 爸妈我出生了",
+        "onboard_time": 1762491381,
+        "rank": 35,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 141885,
+        "num": 141885,
+        "word": "专家称美国用武力统一或是中国未来",
+        "onboard_time": 1762477819,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141415,
+        "num": 141415,
+        "word": "山航空姐平底鞋加毛衣好接地气",
+        "onboard_time": 1762491921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117771,
+        "num": 138723,
+        "word": "Uzi对选手的比赛风格影响太大了",
+        "onboard_time": 1762492820,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88992,
+        "num": 137070,
+        "word": "法国人日常吹Uzi",
+        "onboard_time": 1762492521,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144129,
+        "num": 136902,
+        "word": "宋茜进来美我一大跳",
+        "onboard_time": 1762487899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136372,
+        "num": 136372,
+        "word": "抑郁解离的人一眼就能看出来",
+        "onboard_time": 1762487959,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28082,
+        "num": 134668,
+        "word": "上过太空的乌鸡",
+        "onboard_time": 1762491441,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133271,
+        "num": 133271,
+        "word": "为了400平露台买了二楼的房子",
+        "onboard_time": 1762490721,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132872,
+        "num": 132872,
+        "word": "马思纯说花少聚会时长5小时起步",
+        "onboard_time": 1762481180,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131141,
+        "num": 131141,
+        "word": "辛芷蕾发长文谈日掛中天",
+        "onboard_time": 1762493180,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129529,
+        "num": 129529,
+        "word": "恋与深空",
+        "onboard_time": 1762489519,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81336,
+        "num": 127359,
+        "word": "长沙多个鱼场用辣椒养鱼最爱朝天椒",
+        "onboard_time": 1762491621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 125276,
+        "word": "刘强东称未来员工或一周工作一天",
+        "onboard_time": 1762491861,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124768,
+        "num": 124768,
+        "word": "孙杨想要游得更久",
+        "onboard_time": 1762492701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南自贸港建设工作汇报#"
+    }
+  }
+}

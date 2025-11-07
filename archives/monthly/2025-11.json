@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762490712330,
+  "endTime": 1762493203668,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -771,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 820934,
+      "num": 820934,
+      "word": "康熙不可能是洪承畴的儿子",
+      "onboard_time": 1762487780,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 819224,
       "num": 288138,
       "word": "中方强烈抗议高市早苗涉台错误言行",
@@ -841,14 +849,6 @@
       "onboard_time": 1762088603,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 777256,
-      "num": 777256,
-      "word": "康熙不可能是洪承畴的儿子",
-      "onboard_time": 1762487780,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 775494,
@@ -1035,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 705807,
+      "num": 705807,
+      "word": "刘嘉玲 你拍王家卫不用担心灯光",
+      "onboard_time": 1762489762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700188,
       "num": 700188,
       "word": "央妈音综出手就是国家队顶配",
@@ -1155,6 +1163,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 668149,
+      "num": 233508,
+      "word": "马天宇蒋依依机场偶遇",
+      "onboard_time": 1762488680,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665404,
       "num": 665404,
       "word": "重庆市调整部分行政区划",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1761970940,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655653,
+      "num": 1104904,
+      "word": "我国首艘电磁弹射型航母入列",
+      "onboard_time": 1762492101,
+      "rank": 0,
+      "category": "军事"
     },
     {
       "raw_hot": 655398,
@@ -1427,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604630,
+      "num": 604630,
+      "word": "papi酱一句话戳破何美延的自我感动",
+      "onboard_time": 1762490902,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 604008,
       "num": 287793,
       "word": "白百何发生了什么",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1762214240,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 588706,
+      "num": 588706,
+      "word": "福建舰",
+      "onboard_time": 1762318342,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 588099,
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 540860,
-      "num": 298176,
+      "num": 328932,
       "word": "孙乐言来了也分不清奥斯卡冯程朗",
       "onboard_time": 1762487060,
       "rank": 16,
@@ -2369,14 +2409,6 @@
       "onboard_time": 1762484599,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442157,
-      "num": 233508,
-      "word": "马天宇蒋依依机场偶遇",
-      "onboard_time": 1762488680,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 442000,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1762090763,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311661,
+      "num": 209302,
+      "word": "张柏芝因病中断一路繁花2录制",
+      "onboard_time": 1762491921,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 310623,
@@ -5795,6 +5835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199826,
+      "num": 199826,
+      "word": "恋与深空联动上海公安",
+      "onboard_time": 1762492162,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199293,
       "num": 190249,
       "word": "原来有酒窝的人脸部肌肉天生独特",
@@ -6056,14 +6104,6 @@
       "word": "敖瑞鹏的脸张新成的嗓子",
       "onboard_time": 1762182743,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 192675,
-      "num": 239167,
-      "word": "刘嘉玲 你拍王家卫不用担心灯光",
-      "onboard_time": 1762489762,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -7027,12 +7067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171379,
+      "num": 171379,
+      "word": "日本熊害已致至少12死",
+      "onboard_time": 1762487601,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 171368,
       "num": 149792,
       "word": "她这一套换下来我要躺到明年",
       "onboard_time": 1762051640,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171286,
+      "num": 171286,
+      "word": "德国男护士因夜班太忙杀害10名病人",
+      "onboard_time": 1762491921,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 171169,
@@ -7777,14 +7833,6 @@
       "onboard_time": 1762145123,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158183,
-      "num": 158183,
-      "word": "日本熊害已致至少12死",
-      "onboard_time": 1762487601,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 157995,
@@ -8675,6 +8723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146480,
+      "num": 146480,
+      "word": "刘嘉玲何赛飞因王家卫起观念冲突",
+      "onboard_time": 1762491321,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146458,
       "num": 146458,
       "word": "全红婵携新搭档王伟莹出战10米跳台",
@@ -8729,6 +8785,14 @@
       "onboard_time": 1762160181,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145499,
+      "num": 209637,
+      "word": "三航母时代来临",
+      "onboard_time": 1762492401,
+      "rank": 19,
+      "category": "军事"
     },
     {
       "raw_hot": 145459,
@@ -8857,6 +8921,14 @@
       "onboard_time": 1762149741,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144248,
+      "num": 144248,
+      "word": "丁禹兮宋茜 爸妈我出生了",
+      "onboard_time": 1762491381,
+      "rank": 35,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 144220,
@@ -9041,6 +9113,14 @@
       "onboard_time": 1762175602,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141415,
+      "num": 141415,
+      "word": "山航空姐平底鞋加毛衣好接地气",
+      "onboard_time": 1762491921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141151,
@@ -9883,6 +9963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133271,
+      "num": 133271,
+      "word": "为了400平露台买了二楼的房子",
+      "onboard_time": 1762490721,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133268,
       "num": 129162,
       "word": "剑网3酷熊宝宝",
@@ -10105,6 +10193,14 @@
       "onboard_time": 1762338442,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131141,
+      "num": 131141,
+      "word": "辛芷蕾发长文谈日掛中天",
+      "onboard_time": 1762493180,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 131123,
@@ -10731,6 +10827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125276,
+      "num": 125276,
+      "word": "刘强东称未来员工或一周工作一天",
+      "onboard_time": 1762491861,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125144,
       "num": 125144,
       "word": "教资查分",
@@ -10777,6 +10881,14 @@
       "onboard_time": 1762009283,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124768,
+      "num": 124768,
+      "word": "孙杨想要游得更久",
+      "onboard_time": 1762492701,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124766,
@@ -11563,6 +11675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117771,
+      "num": 138723,
+      "word": "Uzi对选手的比赛风格影响太大了",
+      "onboard_time": 1762492820,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117770,
       "num": 117770,
       "word": "深圳一男子喝6瓶饮料后中毒",
@@ -11841,14 +11961,6 @@
       "onboard_time": 1762174942,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115860,
-      "num": 115860,
-      "word": "福建舰",
-      "onboard_time": 1762318342,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 115850,
@@ -14507,6 +14619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98626,
+      "num": 329684,
+      "word": "福建舰官宣",
+      "onboard_time": 1762492640,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98568,
       "num": 98568,
       "word": "王靖雯开口还是这么没轻没重",
@@ -15137,6 +15257,14 @@
       "onboard_time": 1761981140,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95663,
+      "num": 144880,
+      "word": "有人吐槽泡泡玛特靠IP哄抬价",
+      "onboard_time": 1762491200,
+      "rank": 34,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 95604,
@@ -16489,6 +16617,14 @@
       "onboard_time": 1762437921,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88992,
+      "num": 137070,
+      "word": "法国人日常吹Uzi",
+      "onboard_time": 1762492521,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 88885,
@@ -17969,6 +18105,14 @@
       "onboard_time": 1762322301,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81336,
+      "num": 127359,
+      "word": "长沙多个鱼场用辣椒养鱼最爱朝天椒",
+      "onboard_time": 1762491621,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81174,
@@ -21619,6 +21763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36772,
+      "num": 324355,
+      "word": "孙颖莎和鸭鸭的双向奔赴",
+      "onboard_time": 1762491980,
+      "rank": 13,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 36679,
       "num": 288918,
       "word": "少爷和我京东新番",
@@ -22147,6 +22299,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 28082,
+      "num": 134668,
+      "word": "上过太空的乌鸡",
+      "onboard_time": 1762491441,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 27923,
       "num": 145184,
       "word": "268斤男子切胃手术后身亡家属发声",
@@ -22491,6 +22651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22558,
+      "num": 827531,
+      "word": "青知讲说人",
+      "onboard_time": 1762489701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22552,
       "num": 148309,
       "word": "淘趣猫到底藏在哪",
@@ -22785,14 +22953,6 @@
       "onboard_time": 1761970099,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17027,
-      "num": 660771,
-      "word": "青知讲说人",
-      "onboard_time": 1762489701,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16971,
