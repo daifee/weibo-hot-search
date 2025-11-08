@@ -1,0 +1,410 @@
+{
+  "runTime": 1762566683598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 867964,
+        "num": 1138874,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292462,
+        "num": 292462,
+        "word": "人民网评人民咖啡馆不妥",
+        "onboard_time": 1762525161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3300,
+        "num": 259336,
+        "word": "全运会你最想看哪项比赛",
+        "onboard_time": 1762449317,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237693,
+        "num": 237693,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214033,
+        "num": 214033,
+        "word": "当地居民说日本秋田全是熊",
+        "onboard_time": 1762561459,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130216,
+        "num": 208125,
+        "word": "开始期待下一艘航母叫啥",
+        "onboard_time": 1762564818,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207849,
+        "num": 207849,
+        "word": "天选谢景行沈娇娇",
+        "onboard_time": 1762527142,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120339,
+        "num": 206048,
+        "word": "中国核力量同美俄不在一个量级",
+        "onboard_time": 1762525701,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114383,
+        "num": 199592,
+        "word": "iPhone18系列10大升级",
+        "onboard_time": 1762523302,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70164,
+        "num": 195027,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740040,
+        "num": 192277,
+        "word": "官方称已对淘宝霸屏广告展开调查",
+        "onboard_time": 1762562840,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351458,
+        "num": 186286,
+        "word": "女子出差睡梦中遭裸男猥亵",
+        "onboard_time": 1762560617,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316877,
+        "num": 184854,
+        "word": "必胜客要被卖了",
+        "onboard_time": 1762529300,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245726,
+        "num": 176915,
+        "word": "梁婷为辛芷蕾发声",
+        "onboard_time": 1762564159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65151,
+        "num": 174802,
+        "word": "记者节",
+        "onboard_time": 1762565060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172419,
+        "num": 172419,
+        "word": "婚后三年不孕女子查出男性染色体",
+        "onboard_time": 1762528102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170382,
+        "num": 170382,
+        "word": "辛洋 可意",
+        "onboard_time": 1762560378,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148594,
+        "num": 148594,
+        "word": "白鹿姜雪宁",
+        "onboard_time": 1762528462,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107013,
+        "num": 144616,
+        "word": "四喜37分钟收视率破3",
+        "onboard_time": 1762528761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141205,
+        "num": 141205,
+        "word": "山航回应空乘穿毛衣被吐槽土",
+        "onboard_time": 1762565060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1313625,
+        "num": 140702,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497230,
+        "num": 139212,
+        "word": "曝赵樱子被某制作人认当干女儿",
+        "onboard_time": 1762562419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328411,
+        "num": 136809,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241132,
+        "num": 135146,
+        "word": "弦子曝和李茂结婚时已怀孕",
+        "onboard_time": 1762525521,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195263,
+        "num": 133814,
+        "word": "医生提醒吃奶皮子糖葫芦时间很重要",
+        "onboard_time": 1762561939,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302411,
+        "num": 132091,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 131000,
+        "word": "30岁小伙长期熬夜智力退回3岁",
+        "onboard_time": 1762525881,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172607,
+        "num": 121556,
+        "word": "绝味鸭脖以为89元一斤实际是半斤",
+        "onboard_time": 1762561880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161387,
+        "num": 117022,
+        "word": "瘦下来后性格变坏了的原因",
+        "onboard_time": 1762565118,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111645,
+        "num": 111645,
+        "word": "马斯克可能真觉得造车没意思了",
+        "onboard_time": 1762563619,
+        "rank": 29,
+        "category": "海外新闻,汽车"
+      },
+      {
+        "raw_hot": 103058,
+        "num": 103058,
+        "word": "徐若晗郭宇欣玉簟秋同框了",
+        "onboard_time": 1762560198,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98294,
+        "num": 98294,
+        "word": "洗衣机15分钟快洗确实洗不干净",
+        "onboard_time": 1762523062,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80606,
+        "num": 80606,
+        "word": "萨巴伦卡重返总决赛争冠战",
+        "onboard_time": 1762565660,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79037,
+        "num": 80110,
+        "word": "自然流产的12周胎儿",
+        "onboard_time": 1762565419,
+        "rank": 33,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 80038,
+        "num": 80038,
+        "word": "美国真的为稀土着急了",
+        "onboard_time": 1762562120,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79806,
+        "num": 79806,
+        "word": "警方回应女生手表被偷反被要求换寝",
+        "onboard_time": 1762563560,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76580,
+        "num": 76580,
+        "word": "猪八戒扮演者回应刘大刚去世",
+        "onboard_time": 1762524860,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 75195,
+        "num": 75195,
+        "word": "雷军身家368亿美元超越马云",
+        "onboard_time": 1762540694,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74403,
+        "num": 74403,
+        "word": "天国的嫁衣",
+        "onboard_time": 1762516399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71614,
+        "num": 71614,
+        "word": "教授称中国人工作时间太长",
+        "onboard_time": 1762566559,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71266,
+        "num": 71266,
+        "word": "赵樱子回应与张康乐绯闻",
+        "onboard_time": 1762560858,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16755,
+        "num": 69309,
+        "word": "陈艾森说是该退役了",
+        "onboard_time": 1762565359,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68470,
+        "num": 68470,
+        "word": "立冬后要调整一下起床时间",
+        "onboard_time": 1762562059,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67750,
+        "num": 67750,
+        "word": "张本智和又输了",
+        "onboard_time": 1762565479,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65318,
+        "num": 65318,
+        "word": "有选手曾在扇耳光大赛中去世",
+        "onboard_time": 1762566200,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 64849,
+        "word": "童瑶蒋欣新剧天崩开局",
+        "onboard_time": 1762563500,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64401,
+        "num": 64401,
+        "word": "14岁初中生作文看哭全网本人回应",
+        "onboard_time": 1762563500,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63888,
+        "num": 63888,
+        "word": "固体杨枝甘露已进化成榴莲汉堡",
+        "onboard_time": 1762561880,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63420,
+        "num": 63420,
+        "word": "西安市委书记方红卫被查",
+        "onboard_time": 1762519160,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 49717,
+        "num": 61677,
+        "word": "再见爱人5保险事变",
+        "onboard_time": 1762526543,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}

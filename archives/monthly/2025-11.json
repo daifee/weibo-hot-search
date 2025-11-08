@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762558682701,
+  "endTime": 1762566683598,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 3308875,
-      "num": 125060,
+      "num": 132091,
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
@@ -321,6 +321,14 @@
       "onboard_time": 1762398138,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1313625,
+      "num": 140702,
+      "word": "易烊千玺 王源",
+      "onboard_time": 1762562601,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1291333,
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867964,
+      "num": 1138874,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 865110,
       "num": 384039,
       "word": "孟子义 沈妙",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1761978860,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 740040,
+      "num": 192277,
+      "word": "官方称已对淘宝霸屏广告展开调查",
+      "onboard_time": 1762562840,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 739771,
@@ -2257,6 +2281,14 @@
       "onboard_time": 1762052178,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497230,
+      "num": 139212,
+      "word": "曝赵樱子被某制作人认当干女儿",
+      "onboard_time": 1762562419,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 495506,
@@ -3579,6 +3611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351458,
+      "num": 186286,
+      "word": "女子出差睡梦中遭裸男猥亵",
+      "onboard_time": 1762560617,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351211,
       "num": 194476,
       "word": "突然理解为什么父母希望门当户对了",
@@ -3864,6 +3904,14 @@
       "word": "女子名叫丽春多次申请改名被拒",
       "onboard_time": 1762318461,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328411,
+      "num": 136809,
+      "word": "被欠物业费1200万物业退出不干了",
+      "onboard_time": 1762565540,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5083,6 +5131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245726,
+      "num": 176915,
+      "word": "梁婷为辛芷蕾发声",
+      "onboard_time": 1762564159,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245587,
       "num": 154887,
       "word": "樊振东的Labubu是D",
@@ -5843,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214033,
+      "num": 214033,
+      "word": "当地居民说日本秋田全是熊",
+      "onboard_time": 1762561459,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214029,
       "num": 336416,
       "word": "肖战下部剧进十日终焉",
@@ -5892,7 +5956,7 @@
     },
     {
       "raw_hot": 213046,
-      "num": 135275,
+      "num": 172419,
       "word": "婚后三年不孕女子查出男性染色体",
       "onboard_time": 1762528102,
       "rank": 39,
@@ -6601,6 +6665,14 @@
       "onboard_time": 1761984921,
       "rank": 20,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 195263,
+      "num": 133814,
+      "word": "医生提醒吃奶皮子糖葫芦时间很重要",
+      "onboard_time": 1762561939,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195128,
@@ -7723,6 +7795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172607,
+      "num": 121556,
+      "word": "绝味鸭脖以为89元一斤实际是半斤",
+      "onboard_time": 1762561880,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172603,
       "num": 181423,
       "word": "神20神21交接空间站钥匙",
@@ -7905,6 +7985,14 @@
       "onboard_time": 1762426881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170382,
+      "num": 170382,
+      "word": "辛洋 可意",
+      "onboard_time": 1762560378,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 169813,
@@ -8489,6 +8577,14 @@
       "onboard_time": 1762011082,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161387,
+      "num": 117022,
+      "word": "瘦下来后性格变坏了的原因",
+      "onboard_time": 1762565118,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 161320,
@@ -10059,6 +10155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141205,
+      "num": 141205,
+      "word": "山航回应空乘穿毛衣被吐槽土",
+      "onboard_time": 1762565060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141151,
       "num": 141151,
       "word": "向太说汪小姐演得很好",
@@ -11140,7 +11244,7 @@
     },
     {
       "raw_hot": 131895,
-      "num": 164826,
+      "num": 206048,
       "word": "中国核力量同美俄不在一个量级",
       "onboard_time": 1762525701,
       "rank": 35,
@@ -11329,6 +11433,14 @@
       "onboard_time": 1762155380,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130216,
+      "num": 208125,
+      "word": "开始期待下一艘航母叫啥",
+      "onboard_time": 1762564818,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130155,
@@ -12481,14 +12593,6 @@
       "onboard_time": 1762156581,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 121463,
-      "num": 131624,
-      "word": "四喜",
-      "onboard_time": 1762157061,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 121416,
@@ -13849,6 +13953,14 @@
       "onboard_time": 1762481480,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111645,
+      "num": 111645,
+      "word": "马斯克可能真觉得造车没意思了",
+      "onboard_time": 1762563619,
+      "rank": 29,
+      "category": "海外新闻,汽车"
     },
     {
       "raw_hot": 111524,
@@ -15345,6 +15457,14 @@
       "onboard_time": 1761986660,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103058,
+      "num": 103058,
+      "word": "徐若晗郭宇欣玉簟秋同框了",
+      "onboard_time": 1762560198,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 102976,
@@ -20179,6 +20299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80606,
+      "num": 80606,
+      "word": "萨巴伦卡重返总决赛争冠战",
+      "onboard_time": 1762565660,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80591,
       "num": 80591,
       "word": "女子遭丈夫掐脖致半身不遂案开庭",
@@ -20283,6 +20411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80038,
+      "num": 80038,
+      "word": "美国真的为稀土着急了",
+      "onboard_time": 1762562120,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79885,
       "num": 155116,
       "word": "女装巨型吊牌",
@@ -20296,6 +20432,14 @@
       "word": "决不能让宝妈喂药上班的悲剧发生",
       "onboard_time": 1762482080,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79806,
+      "num": 79806,
+      "word": "警方回应女生手表被偷反被要求换寝",
+      "onboard_time": 1762563560,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -20377,6 +20521,14 @@
       "onboard_time": 1762250721,
       "rank": 19,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 79037,
+      "num": 80110,
+      "word": "自然流产的12周胎儿",
+      "onboard_time": 1762565419,
+      "rank": 33,
+      "category": "健康医疗,母婴育儿"
     },
     {
       "raw_hot": 78990,
@@ -21003,6 +21155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75195,
+      "num": 77805,
+      "word": "雷军身家368亿美元超越马云",
+      "onboard_time": 1762540694,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75054,
       "num": 75054,
       "word": "女子骑错车反将车主小孩赶下",
@@ -21451,6 +21611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71614,
+      "num": 71614,
+      "word": "教授称中国人工作时间太长",
+      "onboard_time": 1762566559,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71555,
       "num": 112985,
       "word": "日本四位前首相会上疑似闭眼打瞌睡",
@@ -21489,6 +21657,14 @@
       "onboard_time": 1761926841,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 71266,
+      "num": 71266,
+      "word": "赵樱子回应与张康乐绯闻",
+      "onboard_time": 1762560858,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 71223,
@@ -21600,6 +21776,14 @@
       "word": "WTT赞孙颖莎闪闪发光",
       "onboard_time": 1762222700,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70164,
+      "num": 195027,
+      "word": "十五运每日金牌看点",
+      "onboard_time": 1762565720,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -21739,6 +21923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68470,
+      "num": 68470,
+      "word": "立冬后要调整一下起床时间",
+      "onboard_time": 1762562059,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68375,
       "num": 227312,
       "word": "vivoX300拍到了超级月亮",
@@ -21785,6 +21977,14 @@
       "onboard_time": 1762497620,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67750,
+      "num": 67750,
+      "word": "张本智和又输了",
+      "onboard_time": 1762565479,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 67589,
@@ -22043,6 +22243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65318,
+      "num": 65318,
+      "word": "有选手曾在扇耳光大赛中去世",
+      "onboard_time": 1762566200,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65151,
+      "num": 174802,
+      "word": "记者节",
+      "onboard_time": 1762565060,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65091,
       "num": 97437,
       "word": "Keria谈S12决赛失利",
@@ -22081,6 +22297,14 @@
       "onboard_time": 1762170921,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64849,
+      "num": 64849,
+      "word": "童瑶蒋欣新剧天崩开局",
+      "onboard_time": 1762563500,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 64845,
@@ -22139,6 +22363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64401,
+      "num": 64401,
+      "word": "14岁初中生作文看哭全网本人回应",
+      "onboard_time": 1762563500,
+      "rank": 46,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 64338,
       "num": 150345,
       "word": "警方回应男子拉6个液化气罐拦婚车",
@@ -22169,6 +22401,14 @@
       "onboard_time": 1761968900,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63888,
+      "num": 63888,
+      "word": "固体杨枝甘露已进化成榴莲汉堡",
+      "onboard_time": 1762561880,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 63793,
@@ -22625,14 +22865,6 @@
       "onboard_time": 1762307600,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58128,
-      "num": 77805,
-      "word": "雷军身家368亿美元超越马云",
-      "onboard_time": 1762540694,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 57807,
@@ -25505,6 +25737,14 @@
       "onboard_time": 1762262542,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16755,
+      "num": 69309,
+      "word": "陈艾森说是该退役了",
+      "onboard_time": 1762565359,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 15680,
