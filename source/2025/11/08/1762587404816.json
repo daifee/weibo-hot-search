@@ -1,0 +1,410 @@
+{
+  "runTime": 1762587404816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537757,
+        "num": 1086041,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379778,
+        "num": 379778,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14292,
+        "num": 245367,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437205,
+        "num": 224517,
+        "word": "张杰演唱会2分钟的不语",
+        "onboard_time": 1762584980,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197390,
+        "num": 197390,
+        "word": "iPhone17系列国内激活销量",
+        "onboard_time": 1762584080,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 885636,
+        "num": 195886,
+        "word": "杭州警方核查网红教唆吸毒事件",
+        "onboard_time": 1762577840,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286697,
+        "num": 194884,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144244,
+        "num": 193350,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124603,
+        "num": 191749,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110732,
+        "num": 190463,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372613,
+        "num": 189190,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238458,
+        "num": 188046,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219641,
+        "num": 186339,
+        "word": "高铁票买到19排但车厢只有17排",
+        "onboard_time": 1762580781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185091,
+        "num": 185091,
+        "word": "沈腾 现在蹭王安宇流量",
+        "onboard_time": 1762579701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30215,
+        "num": 178445,
+        "word": "北京大爷是不是个个都身怀绝技",
+        "onboard_time": 1762585280,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176778,
+        "num": 176778,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155890,
+        "num": 155890,
+        "word": "唐诡投凶榜有八个方丈",
+        "onboard_time": 1762585881,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155053,
+        "num": 155053,
+        "word": "张家齐晋级10米台决赛",
+        "onboard_time": 1762584381,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 127784,
+        "word": "我承认我在电脑方面就是元谋人",
+        "onboard_time": 1762585401,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109422,
+        "num": 109422,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379773,
+        "num": 109412,
+        "word": "安以轩淡出演艺圈独自带娃",
+        "onboard_time": 1762584919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362823,
+        "num": 109336,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304271,
+        "num": 109257,
+        "word": "迅猛龙自曝不参加恋综的原因",
+        "onboard_time": 1762583299,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222495,
+        "num": 109103,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165709,
+        "num": 109085,
+        "word": "董璇一家与佟大为一家合照",
+        "onboard_time": 1762586660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131136,
+        "num": 108989,
+        "word": "徐梦洁这几下够我学一辈子",
+        "onboard_time": 1762586000,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123657,
+        "num": 108936,
+        "word": "杨幂 人在无语的时候真的会笑",
+        "onboard_time": 1762586181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108863,
+        "num": 108863,
+        "word": "将门毒后",
+        "onboard_time": 1762578860,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102761,
+        "num": 102761,
+        "word": "苏暮雨入魔",
+        "onboard_time": 1762585641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93414,
+        "num": 97373,
+        "word": "隋文静韩聪日本站第三",
+        "onboard_time": 1762586361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106567,
+        "num": 97362,
+        "word": "离谱cp 真夫妻",
+        "onboard_time": 1762586540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96985,
+        "num": 96985,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95971,
+        "num": 95971,
+        "word": "田亮儿子14岁生日照",
+        "onboard_time": 1762579639,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56539,
+        "num": 93918,
+        "word": "全红婵跳水慢动作看不够",
+        "onboard_time": 1762587022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92442,
+        "num": 92442,
+        "word": "董事长被抓后宣布离婚前妻紧急接班",
+        "onboard_time": 1762586361,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91364,
+        "num": 91364,
+        "word": "单依纯一首一首唱进体制内",
+        "onboard_time": 1762587200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90455,
+        "num": 90455,
+        "word": "王俊凯给王源的生日祝福比系统还快",
+        "onboard_time": 1762586181,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86677,
+        "num": 86677,
+        "word": "王楚钦全运会首战对阵魏世皓",
+        "onboard_time": 1762586121,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26957,
+        "num": 85040,
+        "word": "李一桐夸孟子义的背适合拔罐",
+        "onboard_time": 1762587381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40403,
+        "num": 84820,
+        "word": "杨幂 不敢坐在大明星旁边",
+        "onboard_time": 1762587381,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87869,
+        "num": 84769,
+        "word": "张晚意比李沁还着急",
+        "onboard_time": 1762587080,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84710,
+        "num": 84710,
+        "word": "人民咖啡馆发布声明",
+        "onboard_time": 1762580480,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81171,
+        "num": 81171,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79178,
+        "num": 79178,
+        "word": "宋亚轩这下把压力给到了李飞",
+        "onboard_time": 1762587319,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77443,
+        "num": 77443,
+        "word": "你永远猜不完孩子的班级职位",
+        "onboard_time": 1762586841,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76141,
+        "num": 76141,
+        "word": "地表最难乒乓球比赛",
+        "onboard_time": 1762587261,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69731,
+        "num": 74290,
+        "word": "张雅琪专门为马思纯带了大话筒",
+        "onboard_time": 1762584980,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72489,
+        "num": 72489,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73329,
+        "num": 72298,
+        "word": "6岁妹妹把我的遗憾记了12年",
+        "onboard_time": 1762586900,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57889,
+        "num": 70575,
+        "word": "中方已向欧方提出严正交涉",
+        "onboard_time": 1762580840,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}
