@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762598486221,
+  "endTime": 1762600838120,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1455701,
+      "num": 228053,
+      "word": "将门毒后 黄羿",
+      "onboard_time": 1762599560,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1314436,
-      "num": 170819,
+      "num": 170931,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -59,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 732874,
+      "num": 1117259,
+      "word": "唐朝诡事录热度",
+      "onboard_time": 1762594822,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730963,
       "num": 1116954,
       "word": "KPL总决赛",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 723759,
-      "num": 174668,
+      "num": 219439,
       "word": "31岁张晚意焦虑晚婚晚育",
       "onboard_time": 1762594759,
       "rank": 12,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 572923,
-      "num": 174713,
+      "num": 211961,
       "word": "男子将热水器通电妻子洗澡被电身亡",
       "onboard_time": 1762593560,
       "rank": 24,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513639,
-      "num": 513639,
-      "word": "唐朝诡事录热度",
-      "onboard_time": 1762594822,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 511260,
       "num": 859248,
       "word": "张杰演唱会2分钟的不语",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 465643,
-      "num": 161010,
+      "num": 192756,
       "word": "刘若英谈44岁怀孕经历",
       "onboard_time": 1762587799,
       "rank": 22,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 406156,
-      "num": 163082,
+      "num": 195287,
       "word": "对沈腾一米八有了实感",
       "onboard_time": 1762586181,
       "rank": 33,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 387505,
-      "num": 164212,
+      "num": 194454,
       "word": "向太炮轰王家卫烧钱式拍摄不道德",
       "onboard_time": 1762594759,
       "rank": 15,
@@ -377,6 +385,14 @@
       "onboard_time": 1762580781,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332281,
+      "num": 332281,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762598241,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 322751,
@@ -539,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 213061,
+      "num": 193238,
+      "word": "被浙江人的结婚喜糖震惊到了",
+      "onboard_time": 1762597580,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213046,
       "num": 172419,
       "word": "婚后三年不孕女子查出男性染色体",
@@ -593,6 +617,14 @@
       "onboard_time": 1762523302,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200469,
+      "num": 200469,
+      "word": "唐诡终于知道卢凌风遗传谁了",
+      "onboard_time": 1762600161,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 197593,
@@ -689,6 +721,14 @@
       "onboard_time": 1762528462,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183832,
+      "num": 136756,
+      "word": "直击樊振东备战全运现场",
+      "onboard_time": 1762600580,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179537,
@@ -795,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166998,
-      "num": 153895,
-      "word": "被浙江人的结婚喜糖震惊到了",
-      "onboard_time": 1762597580,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "现在就出发",
@@ -891,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155154,
-      "num": 155154,
-      "word": "唐朝诡事录",
-      "onboard_time": 1762598241,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155053,
       "num": 155053,
       "word": "张家齐晋级10米台决赛",
@@ -931,12 +955,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146000,
+      "num": 146000,
+      "word": "肉蛋奶 缓解痛经",
+      "onboard_time": 1762597642,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "徐志胜让8个顶流歌手没招了",
       "onboard_time": 1762573940,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144617,
+      "num": 144617,
+      "word": "AG翻盘",
+      "onboard_time": 1762598780,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 144553,
@@ -979,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139288,
+      "num": 231352,
+      "word": "福建舰上被子怎么不叠豆腐块",
+      "onboard_time": 1762597100,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139065,
       "num": 107399,
       "word": "哥哥是鸟弟弟是蛇我也有点不想活",
@@ -987,12 +1035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137367,
-      "num": 137367,
-      "word": "肉蛋奶 缓解痛经",
-      "onboard_time": 1762597642,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 138657,
+      "num": 138657,
+      "word": "内娱居然让我嗑到事业批cp",
+      "onboard_time": 1762600343,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 136784,
@@ -1083,6 +1131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129578,
+      "num": 129578,
+      "word": "一诺 公孙离",
+      "onboard_time": 1762599980,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128694,
       "num": 128694,
       "word": "大家的睡衣变形到什么程度了",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1762575080,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126390,
+      "num": 130576,
+      "word": "李兰迪素颜健身",
+      "onboard_time": 1762598241,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 126312,
@@ -1355,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110333,
+      "num": 110333,
+      "word": "时代少年团情绪换乘式vlog",
+      "onboard_time": 1762600221,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108926,
       "num": 175675,
       "word": "山姆会员忍无可忍了吗",
@@ -1395,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107010,
+      "num": 107010,
+      "word": "斗破苍穹",
+      "onboard_time": 1762599321,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 106822,
       "num": 106822,
       "word": "四喜为留遗腹子富豪变脸",
@@ -1408,6 +1488,14 @@
       "word": "离谱cp 真夫妻",
       "onboard_time": 1762586540,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105865,
+      "num": 105865,
+      "word": "穆祉丞真的没有猜幻梦都破碎吗",
+      "onboard_time": 1762600401,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1475,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102543,
+      "num": 102543,
+      "word": "丞磊徐若晗 要看东东西西",
+      "onboard_time": 1762600522,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102381,
       "num": 102381,
       "word": "女生回应2次考研失败上青岛技校",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1762572139,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98716,
+      "num": 98716,
+      "word": "肾癌的五大高危人群",
+      "onboard_time": 1762600761,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98201,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1762574300,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95506,
+      "num": 95506,
+      "word": "GAI演唱会",
+      "onboard_time": 1762600641,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 94685,
@@ -1731,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91238,
+      "num": 91238,
+      "word": "唐诡的金桃长安的荔枝",
+      "onboard_time": 1762599859,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91012,
       "num": 91012,
       "word": "刘宇宁黄明昊我都笑纳了",
@@ -1769,6 +1889,14 @@
       "onboard_time": 1762580840,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90189,
+      "num": 204221,
+      "word": "螺蛳粉店名 陆丝芬",
+      "onboard_time": 1762599922,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89850,
@@ -1811,19 +1939,19 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 88468,
-      "num": 177590,
-      "word": "福建舰上被子怎么不叠豆腐块",
-      "onboard_time": 1762597100,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 88357,
       "num": 129958,
       "word": "八仙子除名孙天宇张兴朝",
       "onboard_time": 1762596800,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87858,
+      "num": 87858,
+      "word": "张萌说陈添祥有星相",
+      "onboard_time": 1762599922,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1857,14 +1985,6 @@
       "onboard_time": 1762584980,
       "rank": 32,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 85801,
-      "num": 130576,
-      "word": "李兰迪素颜健身",
-      "onboard_time": 1762598241,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 85745,
@@ -2603,6 +2723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43352,
+      "num": 198089,
+      "word": "荷兰考虑放弃夺取安世控制权",
+      "onboard_time": 1762599859,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41733,
       "num": 171053,
       "word": "KPL观赛搭子华莱士",
@@ -2644,7 +2772,7 @@
     },
     {
       "raw_hot": 39076,
-      "num": 167188,
+      "num": 200258,
       "word": "KPL的iQOO年总时刻太燃了",
       "onboard_time": 1762598241,
       "rank": 20,
@@ -2673,6 +2801,14 @@
       "onboard_time": 1762535057,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35160,
+      "num": 106004,
+      "word": "Prada别针胸针6000元被指贵过黄金",
+      "onboard_time": 1762599922,
+      "rank": 39,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 35116,
@@ -2748,7 +2884,7 @@
     },
     {
       "raw_hot": 28859,
-      "num": 168469,
+      "num": 198701,
       "word": "淘宝闪购在音乐节开厨房",
       "onboard_time": 1762597701,
       "rank": 19,
