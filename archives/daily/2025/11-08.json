@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762584506471,
+  "endTime": 1762586613309,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -35,7 +35,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 919428,
+      "raw_hot": 934283,
       "num": 1147108,
       "word": "杭州警方核查网红教唆吸毒事件",
       "onboard_time": 1762577840,
@@ -91,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534406,
+      "num": 1085504,
+      "word": "唐朝诡事录节奏",
+      "onboard_time": 1762581321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526093,
       "num": 209199,
       "word": "丑死了但是想下单",
       "onboard_time": 1762578801,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 511260,
+      "num": 188958,
+      "word": "张杰演唱会2分钟的不语",
+      "onboard_time": 1762584980,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 488403,
@@ -211,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350534,
-      "num": 350534,
-      "word": "唐朝诡事录节奏",
-      "onboard_time": 1762581321,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336672,
       "num": 142300,
       "word": "弦子曝和李茂结婚时已怀孕",
@@ -307,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286224,
+      "num": 160138,
+      "word": "迅猛龙自曝不参加恋综的原因",
+      "onboard_time": 1762583299,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 284864,
       "num": 176464,
       "word": "山航回应空乘穿毛衣被吐槽土",
       "onboard_time": 1762565060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272537,
+      "num": 117865,
+      "word": "安以轩淡出演艺圈独自带娃",
+      "onboard_time": 1762584919,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 258842,
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179335,
+      "num": 117386,
+      "word": "徐梦洁这几下够我学一辈子",
+      "onboard_time": 1762586000,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177769,
       "num": 210801,
       "word": "北京飞悉尼航班现负43元票价",
@@ -611,20 +643,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 160138,
-      "num": 160138,
-      "word": "迅猛龙自曝不参加恋综的原因",
-      "onboard_time": 1762583299,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "猪八戒扮演者回应刘大刚去世",
       "onboard_time": 1762524860,
       "rank": 47,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 155779,
+      "num": 155779,
+      "word": "iPhone17系列国内激活销量",
+      "onboard_time": 1762584080,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 152333,
@@ -803,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "女主播称被800万粉丝网红教唆吸毒",
+      "onboard_time": 1762586121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120943,
       "num": 178609,
       "word": "全运会",
@@ -817,6 +857,14 @@
       "onboard_time": 1762525701,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119691,
+      "num": 119691,
+      "word": "张家齐晋级10米台决赛",
+      "onboard_time": 1762584381,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 119247,
@@ -907,6 +955,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111283,
+      "num": 111283,
+      "word": "我承认我在电脑方面就是元谋人",
+      "onboard_time": 1762585401,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 111006,
+      "num": 119574,
+      "word": "唐诡投凶榜有八个方丈",
+      "onboard_time": 1762585881,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110815,
       "num": 79395,
       "word": "日本7名男教师被捕",
@@ -921,6 +985,14 @@
       "onboard_time": 1762571420,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108559,
+      "num": 108559,
+      "word": "苏暮雨入魔",
+      "onboard_time": 1762585641,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 107478,
@@ -1009,14 +1081,6 @@
       "onboard_time": 1762581982,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99171,
-      "num": 99171,
-      "word": "张家齐晋级10米台决赛",
-      "onboard_time": 1762584381,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 98928,
@@ -1187,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86194,
+      "num": 86194,
+      "word": "A股再现天价离婚分手费超9亿元",
+      "onboard_time": 1762584980,
+      "rank": 32,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 85745,
       "num": 85745,
       "word": "2025KPL年总首发名单",
@@ -1200,6 +1272,14 @@
       "word": "沈佳润回应是否割双眼皮",
       "onboard_time": 1762530802,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84956,
+      "num": 84956,
+      "word": "对沈腾一米八有了实感",
+      "onboard_time": 1762586181,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1225,6 +1305,14 @@
       "onboard_time": 1762569680,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84267,
+      "num": 84267,
+      "word": "王俊凯给王源的生日祝福比系统还快",
+      "onboard_time": 1762586181,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 84084,
@@ -1265,14 +1353,6 @@
       "onboard_time": 1762584201,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82436,
-      "num": 82436,
-      "word": "iPhone17系列国内激活销量",
-      "onboard_time": 1762584080,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 82353,
@@ -1363,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77512,
+      "num": 77512,
+      "word": "张雅琪专门为马思纯带了大话筒",
+      "onboard_time": 1762584980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77366,
       "num": 107217,
       "word": "空气炸锅烤苹果干",
@@ -1395,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75795,
+      "num": 75795,
+      "word": "杨幂 人在无语的时候真的会笑",
+      "onboard_time": 1762586181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75365,
       "num": 75365,
       "word": "戴资颖官宣退役",
@@ -1411,12 +1507,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74316,
+      "num": 74316,
+      "word": "董事长被抓后宣布离婚前妻紧急接班",
+      "onboard_time": 1762586361,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73881,
       "num": 101962,
       "word": "成事不足 败事有橘",
       "onboard_time": 1762583359,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73119,
+      "num": 73119,
+      "word": "陈芋汐断层晋级10米台决赛",
+      "onboard_time": 1762585760,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 72581,
@@ -1451,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70313,
+      "num": 70313,
+      "word": "隋文静韩聪日本站第三",
+      "onboard_time": 1762586361,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70164,
       "num": 616629,
       "word": "十五运每日金牌看点",
@@ -1473,6 +1593,14 @@
       "onboard_time": 1762528703,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69170,
+      "num": 69170,
+      "word": "T1和KT与冠军奖杯合影",
+      "onboard_time": 1762584919,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 69169,
@@ -1523,12 +1651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67276,
+      "num": 67276,
+      "word": "王楚钦全运会首战对阵魏世皓",
+      "onboard_time": 1762586121,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66519,
       "num": 66519,
       "word": "固体杨枝甘露已进化成榴莲汉堡",
       "onboard_time": 1762561880,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 66499,
+      "num": 66499,
+      "word": "离谱cp 真夫妻",
+      "onboard_time": 1762586540,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 66032,
@@ -1609,6 +1753,22 @@
       "onboard_time": 1762571900,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59365,
+      "num": 69710,
+      "word": "暗河传这次一定要看完片尾",
+      "onboard_time": 1762585100,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57938,
+      "num": 67989,
+      "word": "孙颖莎教科书式敏捷性训练",
+      "onboard_time": 1762584980,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 57452,
@@ -1761,6 +1921,14 @@
       "onboard_time": 1762547114,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29736,
+      "num": 128343,
+      "word": "北京大爷是不是个个都身怀绝技",
+      "onboard_time": 1762585280,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 29481,

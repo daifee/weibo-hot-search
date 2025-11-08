@@ -1,0 +1,410 @@
+{
+  "runTime": 1762586613309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534406,
+        "num": 1085504,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335107,
+        "num": 335107,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16367,
+        "num": 244640,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 934283,
+        "num": 208048,
+        "word": "杭州警方核查网红教唆吸毒事件",
+        "onboard_time": 1762577840,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511260,
+        "num": 188958,
+        "word": "张杰演唱会2分钟的不语",
+        "onboard_time": 1762584980,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155779,
+        "num": 155779,
+        "word": "iPhone17系列国内激活销量",
+        "onboard_time": 1762584080,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395036,
+        "num": 154050,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149237,
+        "num": 149237,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139025,
+        "num": 139025,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377579,
+        "num": 136669,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313837,
+        "num": 134214,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269114,
+        "num": 131595,
+        "word": "高铁票买到19排但车厢只有17排",
+        "onboard_time": 1762580781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224972,
+        "num": 130501,
+        "word": "沈腾 现在蹭王安宇流量",
+        "onboard_time": 1762579701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29736,
+        "num": 128343,
+        "word": "北京大爷是不是个个都身怀绝技",
+        "onboard_time": 1762585280,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147431,
+        "num": 125514,
+        "word": "将门毒后",
+        "onboard_time": 1762578860,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123808,
+        "num": 123808,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121116,
+        "num": 121116,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119691,
+        "num": 119691,
+        "word": "张家齐晋级10米台决赛",
+        "onboard_time": 1762584381,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111006,
+        "num": 119574,
+        "word": "唐诡投凶榜有八个方丈",
+        "onboard_time": 1762585881,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421614,
+        "num": 119049,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286224,
+        "num": 118389,
+        "word": "迅猛龙自曝不参加恋综的原因",
+        "onboard_time": 1762583299,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272537,
+        "num": 117865,
+        "word": "安以轩淡出演艺圈独自带娃",
+        "onboard_time": 1762584919,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179335,
+        "num": 117386,
+        "word": "徐梦洁这几下够我学一辈子",
+        "onboard_time": 1762586000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117179,
+        "num": 117179,
+        "word": "田亮儿子14岁生日照",
+        "onboard_time": 1762579639,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111283,
+        "num": 111283,
+        "word": "我承认我在电脑方面就是元谋人",
+        "onboard_time": 1762585401,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108559,
+        "num": 108559,
+        "word": "苏暮雨入魔",
+        "onboard_time": 1762585641,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100122,
+        "num": 100122,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98424,
+        "num": 98424,
+        "word": "人民咖啡馆发布声明",
+        "onboard_time": 1762580480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74693,
+        "num": 93919,
+        "word": "中方已向欧方提出严正交涉",
+        "onboard_time": 1762580840,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107130,
+        "num": 93761,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91867,
+        "num": 91867,
+        "word": "香港一小学允许学生用简体字答题",
+        "onboard_time": 1762570281,
+        "rank": 31,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 86194,
+        "num": 86194,
+        "word": "A股再现天价离婚分手费超9亿元",
+        "onboard_time": 1762584980,
+        "rank": 32,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 84956,
+        "num": 84956,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84267,
+        "num": 84267,
+        "word": "王俊凯给王源的生日祝福比系统还快",
+        "onboard_time": 1762586181,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82633,
+        "num": 82633,
+        "word": "大家的睡衣变形到什么程度了",
+        "onboard_time": 1762582160,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77512,
+        "num": 77512,
+        "word": "张雅琪专门为马思纯带了大话筒",
+        "onboard_time": 1762584980,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77036,
+        "num": 77036,
+        "word": "金店员工慢动作操作挽损18万",
+        "onboard_time": 1762577241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75795,
+        "num": 75795,
+        "word": "杨幂 人在无语的时候真的会笑",
+        "onboard_time": 1762586181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75631,
+        "num": 75631,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74316,
+        "num": 74316,
+        "word": "董事长被抓后宣布离婚前妻紧急接班",
+        "onboard_time": 1762586361,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73119,
+        "num": 73119,
+        "word": "陈芋汐断层晋级10米台决赛",
+        "onboard_time": 1762585760,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72591,
+        "num": 72591,
+        "word": "发明三层穿衣法的人是天才",
+        "onboard_time": 1762579219,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 70313,
+        "num": 70313,
+        "word": "隋文静韩聪日本站第三",
+        "onboard_time": 1762586361,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59365,
+        "num": 69710,
+        "word": "暗河传这次一定要看完片尾",
+        "onboard_time": 1762585100,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69170,
+        "num": 69170,
+        "word": "T1和KT与冠军奖杯合影",
+        "onboard_time": 1762584919,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57938,
+        "num": 67989,
+        "word": "孙颖莎教科书式敏捷性训练",
+        "onboard_time": 1762584980,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67675,
+        "num": 67675,
+        "word": "鹿晗吃嗨了后打了一套组合拳",
+        "onboard_time": 1762579340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67276,
+        "num": 67276,
+        "word": "王楚钦全运会首战对阵魏世皓",
+        "onboard_time": 1762586121,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66499,
+        "num": 66499,
+        "word": "离谱cp 真夫妻",
+        "onboard_time": 1762586540,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}
