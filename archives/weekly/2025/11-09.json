@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762630635997,
+  "endTime": 1762633561581,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -521,6 +521,14 @@
       "onboard_time": 1762624096,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14037,
+      "num": 32445,
+      "word": "狼队抢先一个蓝BUFF",
+      "onboard_time": 1762610842,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 6688,

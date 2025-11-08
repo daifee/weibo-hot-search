@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/09 03:37:15
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/09 04:26:01
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ F1（热度：32426）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025f1%E5%9C%A3%E4%BF%9D%E7%BD%97%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
 2025f1圣保罗大奖赛（热度：14710）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%8A%A2%E5%85%88%E4%B8%80%E4%B8%AA%E8%93%9DBUFF%23" target="weibo">
+狼队抢先一个蓝BUFF（热度：14037）
 </a>
 </li>
 
