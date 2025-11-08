@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 20:46:40
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 21:01:09
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%9B%9E%E5%BA%94%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E4%BA%89%E8%AE%AE%23" target="weibo">
 白百何回应东京电影节争议（热度：2901190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3%23" target="weibo">
+繁花剧组回应古二录音（热度：2793987）
 </a>
 </li>
 
@@ -263,12 +269,6 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E7%8E%8B%E6%BA%90%23" target="weibo">
 易烊千玺 王源（热度：1314436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3%23" target="weibo">
-繁花剧组回应古二录音（热度：1296165）
 </a>
 </li>
 
@@ -831,6 +831,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+KPL总决赛（热度：745513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%AF%B9%E6%B7%98%E5%AE%9D%E9%9C%B8%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5%23" target="weibo">
 官方称已对淘宝霸屏广告展开调查（热度：740040）
 </a>
@@ -869,12 +875,6 @@ iPhone18Pro前瞻（热度：752671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E7%83%AD%E5%BA%A6%23" target="weibo">
 唐朝诡事录热度（热度：732874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23KPL%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-KPL总决赛（热度：730963）
 </a>
 </li>
 
@@ -1439,6 +1439,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E20%E8%BF%94%E5%9B%9E%E4%BB%BB%E5%8A%A1%E6%8E%A8%E8%BF%9F%23" target="weibo">
 神20返回任务推迟（热度：566881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%BA%A7%E5%A4%A7%E5%87%BA%E8%A1%80%E5%AD%A9%E5%AD%90%E7%88%B7%E7%88%B7%E5%B0%86%E5%A8%83%E9%80%81%E4%BA%BA%23" target="weibo">
+女子生产大出血孩子爷爷将娃送人（热度：565762）
 </a>
 </li>
 
@@ -2697,6 +2703,12 @@ T1严正声明（热度：379722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%A0%91%E5%AF%BC%E6%BC%94%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+春树导演制片人回应争议（热度：370987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%E4%B8%BB%E6%8C%81%E7%95%8C%E9%A6%96%E4%B8%AA%E6%8B%BF%E4%B8%8B%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%9A%84%E4%BA%BA%23" target="weibo">
 孙乐言主持界首个拿下奥斯卡的人（热度：368101）
 </a>
@@ -2997,6 +3009,12 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王源演唱会（热度：338988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%96%E5%B0%86%E7%A9%BA%E6%A1%A3%E5%9B%9B%E4%B8%AA%E6%9C%88%23" target="weibo">
 王鹤棣或将空档四个月（热度：338373）
 </a>
@@ -3095,12 +3113,6 @@ JackeyLove致歉（热度：332632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E5%B7%B2%E8%A2%AB%E4%B8%A5%E9%87%8D%E7%A0%B4%E5%9D%8F%23" target="weibo">
 KK园区已被严重破坏（热度：332604）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%BA%A7%E5%A4%A7%E5%87%BA%E8%A1%80%E5%AD%A9%E5%AD%90%E7%88%B7%E7%88%B7%E5%B0%86%E5%A8%83%E9%80%81%E4%BA%BA%23" target="weibo">
-女子生产大出血孩子爷爷将娃送人（热度：332358）
 </a>
 </li>
 
@@ -5217,6 +5229,12 @@ Gumayusi回应淘汰AL（热度：201128）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E5%92%8C%E5%A5%B9%E7%9A%84%E7%8C%AB%23" target="weibo">
+他和她的猫（热度：199437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%89%E9%85%92%E7%AA%9D%E7%9A%84%E4%BA%BA%E8%84%B8%E9%83%A8%E8%82%8C%E8%82%89%E5%A4%A9%E7%94%9F%E7%8B%AC%E7%89%B9%23" target="weibo">
 原来有酒窝的人脸部肌肉天生独特（热度：199293）
 </a>
@@ -5495,6 +5513,12 @@ iPhone17系列国内激活销量（热度：197390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%83%A1%E6%A5%9A%E9%9D%93%E5%B7%A6%E8%80%B3%E9%87%8D%E5%BA%A6%E8%80%B3%E8%81%8B%23" target="weibo">
 网红胡楚靓左耳重度耳聋（热度：191895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%81%9A%E5%A4%8D%E5%81%A5%23" target="weibo">
+易烊千玺演刘春和每天都要做复健（热度：191787）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ B站拉黑指定用户 屏蔽开屏广告（热度：180219）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%BF%E6%80%81%E8%B0%88T1%E6%8D%A2%E4%B8%8A%E5%8D%95%E5%86%8D%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 姿态谈T1换上单再进决赛（热度：179968）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E5%BC%82%E5%9F%9F%E5%85%AC%E4%B8%BB%23" target="weibo">
-鞠婧祎 异域公主（热度：179859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%98%AF%E8%80%81%E5%BC%8F%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-当你的朋友是老式大学生（热度：179736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%90%91%E4%B8%AD%E6%96%B9%E9%A2%9D%E5%A4%96%E8%B5%A0%E9%80%81200%E7%9B%92%E7%9A%87%E5%8D%97%E9%A5%BC%23" target="weibo">
-韩总统向中方额外赠送200盒皇南饼（热度：179563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%96%AD%E5%B1%82%E6%99%8B%E7%BA%A710%E7%B1%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
-陈芋汐断层晋级10米台决赛（热度：179537）
 </a>
 </li>
 

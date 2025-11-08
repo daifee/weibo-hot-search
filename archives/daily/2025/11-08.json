@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762606000561,
+  "endTime": 1762606869482,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -8,6 +8,14 @@
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2793987,
+      "num": 192995,
+      "word": "繁花剧组回应古二录音",
+      "onboard_time": 1762601360,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -24,14 +32,6 @@
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1296165,
-      "num": 192995,
-      "word": "繁花剧组回应古二录音",
-      "onboard_time": 1762601360,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 745513,
+      "num": 1116954,
+      "word": "KPL总决赛",
+      "onboard_time": 1762591401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 740040,
       "num": 192277,
       "word": "官方称已对淘宝霸屏广告展开调查",
@@ -81,14 +89,6 @@
       "onboard_time": 1762594822,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 730963,
-      "num": 1116954,
-      "word": "KPL总决赛",
-      "onboard_time": 1762591401,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 725111,
@@ -153,6 +153,14 @@
       "onboard_time": 1762562419,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565762,
+      "num": 192792,
+      "word": "女子生产大出血孩子爷爷将娃送人",
+      "onboard_time": 1762601120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537757,
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370987,
+      "num": 370987,
+      "word": "春树导演制片人回应争议",
+      "onboard_time": 1762605141,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 367932,
       "num": 478297,
       "word": "格莱美",
@@ -361,6 +377,14 @@
       "onboard_time": 1762591100,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 338988,
+      "num": 338988,
+      "word": "王源演唱会",
+      "onboard_time": 1762602380,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 336672,
@@ -400,14 +424,6 @@
       "word": "高铁票买到19排但车厢只有17排",
       "onboard_time": 1762580781,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332358,
-      "num": 192792,
-      "word": "女子生产大出血孩子爷爷将娃送人",
-      "onboard_time": 1762601120,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199437,
+      "num": 162229,
+      "word": "他和她的猫",
+      "onboard_time": 1762606279,
+      "rank": 21,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 197593,
       "num": 210273,
       "word": "杨瀚森超远三分神奇命中",
@@ -705,6 +729,14 @@
       "onboard_time": 1762577300,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191787,
+      "num": 163287,
+      "word": "易烊千玺演刘春和每天都要做复健",
+      "onboard_time": 1762606701,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 191676,
@@ -915,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165358,
+      "num": 165358,
+      "word": "一诺心率好高",
+      "onboard_time": 1762604300,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164082,
       "num": 136508,
       "word": "瘦下来后性格变坏了的原因",
@@ -937,6 +977,14 @@
       "onboard_time": 1762514359,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 162100,
+      "num": 162100,
+      "word": "易烊千玺说自己心很大容易翻篇",
+      "onboard_time": 1762603820,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 161950,
@@ -995,12 +1043,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152771,
+      "num": 152771,
+      "word": "米哈游 黑色大丽花",
+      "onboard_time": 1762606580,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152333,
       "num": 152333,
       "word": "再见爱人5保险事变",
       "onboard_time": 1762526543,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152036,
+      "num": 152036,
+      "word": "gemini 毒奶",
+      "onboard_time": 1762602681,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 149147,
@@ -1052,7 +1116,7 @@
     },
     {
       "raw_hot": 143533,
-      "num": 143533,
+      "num": 162960,
       "word": "福建舰为什么被子不叠豆腐块",
       "onboard_time": 1762597881,
       "rank": 34,
@@ -1171,6 +1235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130634,
+      "num": 127849,
+      "word": "GAI的嘉宾是王鹤棣",
+      "onboard_time": 1762605259,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130549,
+      "num": 130549,
+      "word": "男子花园挖出金币金条归自己所有",
+      "onboard_time": 1762601300,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130390,
       "num": 130390,
       "word": "那英华晨宇兴奋度半合体",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1762575080,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126511,
+      "num": 121426,
+      "word": "全红婵才18岁怎么这么懂事",
+      "onboard_time": 1762601900,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 126390,
@@ -1339,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120521,
+      "num": 120521,
+      "word": "陈添祥一年拍了50部短剧",
+      "onboard_time": 1762605322,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120339,
       "num": 206048,
       "word": "中国核力量同美俄不在一个量级",
@@ -1411,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113642,
+      "num": 113642,
+      "word": "黄羿与凤行太灵了",
+      "onboard_time": 1762605141,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113596,
       "num": 113596,
       "word": "内娱长公主101",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1762579340,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113012,
+      "num": 113012,
+      "word": "严浩翔做了固体杨枝甘露",
+      "onboard_time": 1762603820,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 112708,
@@ -1659,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "繁花剧组称古二录音内容失实",
+      "onboard_time": 1762601840,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100632,
       "num": 101940,
       "word": "湖人赢下万分之一概率",
@@ -1667,12 +1787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100539,
-      "num": 100539,
-      "word": "男子花园挖出金币金条归自己所有",
-      "onboard_time": 1762601300,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 100603,
+      "num": 100603,
+      "word": "华晨宇戴了chocker",
+      "onboard_time": 1762604001,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 100528,
@@ -1803,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94801,
+      "num": 94801,
+      "word": "颜人中杭州场",
+      "onboard_time": 1762606100,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94685,
       "num": 130456,
       "word": "网红教唆吸毒最高可判7年",
@@ -1827,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94302,
+      "num": 94302,
+      "word": "KPL现场观众人数破世界纪录",
+      "onboard_time": 1762605741,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94111,
       "num": 101416,
       "word": "重庆铜梁龙冲超成功",
@@ -1841,6 +1977,14 @@
       "onboard_time": 1762581321,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93713,
+      "num": 93713,
+      "word": "印度网友开始反思了",
+      "onboard_time": 1762602621,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93414,
@@ -2009,6 +2153,14 @@
       "onboard_time": 1762576340,
       "rank": 39,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 88447,
+      "num": 130489,
+      "word": "女子引产被拒诞下女婴5名责任人被罚",
+      "onboard_time": 1762603161,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88357,
@@ -2313,6 +2465,14 @@
       "onboard_time": 1762586841,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77432,
+      "num": 113207,
+      "word": "大湾鸡",
+      "onboard_time": 1762602200,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 77366,
@@ -2787,6 +2947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47788,
+      "num": 93143,
+      "word": "重庆市民冒雨告别江北渝北",
+      "onboard_time": 1762606279,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46097,
+      "num": 92947,
+      "word": "小伙为拿驾照花1600元买五趾鞋练车",
+      "onboard_time": 1762606400,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44435,
       "num": 74957,
       "word": "朱开说AL全员续约很难",
@@ -2849,6 +3025,14 @@
       "onboard_time": 1762590980,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39575,
+      "num": 162759,
+      "word": "移动电竞首次登上鸟巢",
+      "onboard_time": 1762602861,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 39355,
@@ -2931,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33488,
+      "num": 129407,
+      "word": "淘小宝猫天天双十一霸总发红包",
+      "onboard_time": 1762605381,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32054,
       "num": 125552,
       "word": "蔡康永揭秘天猫年度设计趋势",
@@ -2985,6 +3177,14 @@
       "onboard_time": 1762587381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26580,
+      "num": 164975,
+      "word": "iQOO和KPL的第七年",
+      "onboard_time": 1762603701,
+      "rank": 10,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 23568,
