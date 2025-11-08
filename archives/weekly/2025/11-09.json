@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762622472314,
+  "endTime": 1762623492374,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -180,11 +180,27 @@
     },
     {
       "raw_hot": 171084,
-      "num": 135999,
+      "num": 144214,
       "word": "易烊千玺回应提名金鸡奖",
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161379,
+      "num": 205119,
+      "word": "小胖状态",
+      "onboard_time": 1762615521,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 157179,
+      "num": 107442,
+      "word": "鹿晗比脸更该申遗的是这张嘴",
+      "onboard_time": 1762620978,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 153347,
@@ -203,14 +219,6 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 146129,
-      "num": 205119,
-      "word": "小胖状态",
-      "onboard_time": 1762615521,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144876,
       "num": 205402,
       "word": "716团队",
@@ -225,14 +233,6 @@
       "onboard_time": 1762618280,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125140,
-      "num": 107442,
-      "word": "鹿晗比脸更该申遗的是这张嘴",
-      "onboard_time": 1762620978,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 120691,
@@ -435,6 +435,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42492,
+      "num": 81991,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40385,
+      "num": 81980,
+      "word": "王者荣耀",
+      "onboard_time": 1762614922,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 35582,
+      "num": 81953,
+      "word": "AG对战狼队",
+      "onboard_time": 1762593500,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33088,
       "num": 105237,
       "word": "陈芋汐全运会倒立俯卧撑",
@@ -454,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#看习近平心系南粤大地#"
+    },
+    {
+      "word": "#习近平将出席十五运会开幕式#"
     }
   ]
 }
