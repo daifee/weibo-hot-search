@@ -1,0 +1,410 @@
+{
+  "runTime": 1762597540212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 527292,
+        "num": 1084366,
+        "word": "KPL总决赛",
+        "onboard_time": 1762591401,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 424000,
+        "num": 424000,
+        "word": "唐朝诡事录热度",
+        "onboard_time": 1762594822,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28244,
+        "num": 400618,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762590980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389781,
+        "num": 389781,
+        "word": "这些照片千万不要发在朋友圈",
+        "onboard_time": 1762592720,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321324,
+        "num": 321324,
+        "word": "AG对战狼队",
+        "onboard_time": 1762593500,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248121,
+        "num": 248121,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239293,
+        "num": 239293,
+        "word": "王者荣耀",
+        "onboard_time": 1762595842,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200851,
+        "num": 200851,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194687,
+        "num": 194687,
+        "word": "衣服吊牌和A4纸一样大了",
+        "onboard_time": 1762593622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179537,
+        "num": 179537,
+        "word": "陈芋汐断层晋级10米台决赛",
+        "onboard_time": 1762585760,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19495,
+        "num": 177590,
+        "word": "福建舰上被子怎么不叠豆腐块",
+        "onboard_time": 1762597100,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572923,
+        "num": 174713,
+        "word": "男子将热水器通电妻子洗澡被电身亡",
+        "onboard_time": 1762593560,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521731,
+        "num": 167579,
+        "word": "31岁张晚意焦虑晚婚晚育",
+        "onboard_time": 1762594759,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518998,
+        "num": 164966,
+        "word": "杨幂 不敢坐在大明星旁边",
+        "onboard_time": 1762587381,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17533,
+        "num": 160282,
+        "word": "谁来拯救一下峰哥的2G网速",
+        "onboard_time": 1762596081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378932,
+        "num": 156043,
+        "word": "向太炮轰王家卫烧钱式拍摄不道德",
+        "onboard_time": 1762594759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250259,
+        "num": 151721,
+        "word": "把背挺直别驼背",
+        "onboard_time": 1762589181,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463468,
+        "num": 147587,
+        "word": "张晚意问李沁什么时候有喜讯",
+        "onboard_time": 1762589060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205252,
+        "num": 146965,
+        "word": "印度一女子因害怕蚂蚁自杀身亡",
+        "onboard_time": 1762591100,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142915,
+        "num": 142915,
+        "word": "中国艺术家指控鹰眼演员性骚扰",
+        "onboard_time": 1762596681,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356806,
+        "num": 140500,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344454,
+        "num": 138016,
+        "word": "刘若英谈44岁怀孕经历",
+        "onboard_time": 1762587799,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205142,
+        "num": 134366,
+        "word": "张婧仪祖母绿高珠",
+        "onboard_time": 1762590560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184141,
+        "num": 129361,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104788,
+        "num": 124367,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124089,
+        "num": 124089,
+        "word": "AG剧透",
+        "onboard_time": 1762597401,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118626,
+        "num": 118626,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104726,
+        "num": 104726,
+        "word": "霍汶希回应郑希怡在英皇没饭吃",
+        "onboard_time": 1762596861,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91669,
+        "num": 103412,
+        "word": "大学生网购钥匙关掉百部电梯广告",
+        "onboard_time": 1762593081,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87605,
+        "num": 101681,
+        "word": "短国演员演技",
+        "onboard_time": 1762595001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143238,
+        "num": 99862,
+        "word": "KPL开局暂停",
+        "onboard_time": 1762597279,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109597,
+        "num": 98504,
+        "word": "敖子逸喊王源源哥",
+        "onboard_time": 1762593441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97357,
+        "num": 97357,
+        "word": "鸟巢 排面",
+        "onboard_time": 1762596620,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94325,
+        "num": 94325,
+        "word": "20块钱的蛋糕你许这么大的愿",
+        "onboard_time": 1762596081,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93898,
+        "num": 93898,
+        "word": "章泽天卷发拉直了",
+        "onboard_time": 1762592181,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92938,
+        "num": 92938,
+        "word": "什么是家居消费品的长期主义",
+        "onboard_time": 1762596441,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 87443,
+        "num": 92894,
+        "word": "网红教唆吸毒最高可判7年",
+        "onboard_time": 1762593739,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92894,
+        "num": 92893,
+        "word": "为什么一降温就更有幸福感了",
+        "onboard_time": 1762595660,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66788,
+        "num": 88761,
+        "word": "喻言好爽的表情管理",
+        "onboard_time": 1762596500,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79051,
+        "num": 88476,
+        "word": "日本女子把寄存柜当胶囊舱钻进去睡",
+        "onboard_time": 1762596740,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88357,
+        "num": 88357,
+        "word": "八仙子除名孙天宇张兴朝",
+        "onboard_time": 1762596800,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83596,
+        "num": 83596,
+        "word": "TFBOYS每年必备节目",
+        "onboard_time": 1762593982,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64755,
+        "num": 79100,
+        "word": "95后超帅村干部卖柿子走红",
+        "onboard_time": 1762596141,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76058,
+        "num": 76058,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75301,
+        "num": 75301,
+        "word": "TVB老戏骨凌汉已去世",
+        "onboard_time": 1762590023,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73586,
+        "num": 73586,
+        "word": "看你签字以为是个内向的人",
+        "onboard_time": 1762596800,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71782,
+        "num": 71782,
+        "word": "小米17的两副面孔",
+        "onboard_time": 1762597461,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70466,
+        "num": 70466,
+        "word": "安以轩淡出演艺圈独自带娃",
+        "onboard_time": 1762584919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70378,
+        "num": 70378,
+        "word": "程相骨相",
+        "onboard_time": 1762597461,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70153,
+        "num": 70153,
+        "word": "福建舰常驻地为三亚军港",
+        "onboard_time": 1762592001,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察#"
+    }
+  }
+}
