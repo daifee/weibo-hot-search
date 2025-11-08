@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762608609815,
+  "endTime": 1762609271726,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2793987,
-      "num": 193783,
+      "num": 215317,
       "word": "繁花剧组回应古二录音",
       "onboard_time": 1762601360,
       "rank": 10,
@@ -83,8 +83,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 732874,
-      "num": 1117259,
+      "raw_hot": 738306,
+      "num": 1118128,
       "word": "唐朝诡事录热度",
       "onboard_time": 1762594822,
       "rank": 1,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 572923,
-      "num": 211961,
+      "num": 214913,
       "word": "男子将热水器通电妻子洗澡被电身亡",
       "onboard_time": 1762593560,
       "rank": 24,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568378,
+      "num": 215165,
+      "word": "女子生产大出血孩子爷爷将娃送人",
+      "onboard_time": 1762601120,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567436,
       "num": 145701,
       "word": "曝赵樱子被某制作人认当干女儿",
       "onboard_time": 1762562419,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565762,
-      "num": 193140,
-      "word": "女子生产大出血孩子爷爷将娃送人",
-      "onboard_time": 1762601120,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 537757,
@@ -307,6 +307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 394592,
+      "num": 377378,
+      "word": "王源演唱会",
+      "onboard_time": 1762602380,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387505,
       "num": 194454,
       "word": "向太炮轰王家卫烧钱式拍摄不道德",
@@ -379,14 +387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 338988,
-      "num": 338988,
-      "word": "王源演唱会",
-      "onboard_time": 1762602380,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 336672,
       "num": 142300,
       "word": "弦子曝和李茂结婚时已怀孕",
@@ -441,6 +441,14 @@
       "onboard_time": 1762570281,
       "rank": 5,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 312806,
+      "num": 215078,
+      "word": "快睡着时身体抖了一下的原因",
+      "onboard_time": 1762606520,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 310786,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 286019,
-      "num": 192553,
+      "num": 214889,
       "word": "米哈游 黑色大丽花",
       "onboard_time": 1762606580,
       "rank": 23,
@@ -521,6 +529,14 @@
       "onboard_time": 1762565060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268384,
+      "num": 193941,
+      "word": "南派三叔在线摇人找丁禹兮微信",
+      "onboard_time": 1762608441,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 258842,
@@ -603,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215455,
+      "num": 215455,
+      "word": "一诺心率好高",
+      "onboard_time": 1762604300,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214033,
       "num": 214033,
       "word": "当地居民说日本秋田全是熊",
@@ -625,14 +649,6 @@
       "onboard_time": 1762528102,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212946,
-      "num": 191471,
-      "word": "快睡着时身体抖了一下的原因",
-      "onboard_time": 1762606520,
-      "rank": 16,
-      "category": "科学科普"
     },
     {
       "raw_hot": 211706,
@@ -739,11 +755,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194542,
-      "num": 194542,
-      "word": "一诺心率好高",
-      "onboard_time": 1762604300,
-      "rank": 9,
+      "raw_hot": 193158,
+      "num": 192146,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192815,
+      "num": 192815,
+      "word": "AG年总率先拿到赛点",
+      "onboard_time": 1762608622,
+      "rank": 22,
       "category": "电竞"
     },
     {
@@ -753,14 +777,6 @@
       "onboard_time": 1762577300,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191865,
-      "num": 159882,
-      "word": "南派三叔在线摇人找丁禹兮微信",
-      "onboard_time": 1762608441,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 191787,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 190798,
-      "num": 159116,
+      "num": 188893,
       "word": "TheShy教学Rookie剑姬一秒四破",
       "onboard_time": 1762608081,
       "rank": 23,
@@ -833,6 +849,14 @@
       "onboard_time": 1762570519,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187644,
+      "num": 195703,
+      "word": "福建舰为什么被子不叠豆腐块",
+      "onboard_time": 1762597881,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186207,
@@ -971,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166651,
-      "num": 158862,
-      "word": "唐朝诡事录3首播反馈",
-      "onboard_time": 1762607841,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "现在就出发",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1762597279,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161721,
-      "num": 162960,
-      "word": "福建舰为什么被子不叠豆腐块",
-      "onboard_time": 1762597881,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159573,
@@ -1323,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129513,
+      "num": 118292,
+      "word": "曹骏顶着海胆头就开始拍大片了",
+      "onboard_time": 1762607961,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128694,
       "num": 128694,
       "word": "大家的睡衣变形到什么程度了",
@@ -1515,6 +1531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118875,
+      "num": 118875,
+      "word": "胡明轩醒了",
+      "onboard_time": 1762607841,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118710,
       "num": 118710,
       "word": "大帅 苏烈王",
@@ -1547,20 +1571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118048,
+      "num": 117527,
+      "word": "陈芋汐全运会倒立俯卧撑",
+      "onboard_time": 1762608321,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117913,
+      "num": 117913,
+      "word": "刘宇演唱会出场这一下",
+      "onboard_time": 1762608261,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115886,
       "num": 115886,
       "word": "北京WBG对战Wolves",
       "onboard_time": 1762594641,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115176,
-      "num": 115176,
-      "word": "曹骏顶着海胆头就开始拍大片了",
-      "onboard_time": 1762607961,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114714,
@@ -1675,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109916,
-      "num": 109916,
-      "word": "刘宇演唱会出场这一下",
-      "onboard_time": 1762608261,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 108926,
       "num": 175675,
       "word": "山姆会员忍无可忍了吗",
@@ -1755,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106336,
-      "num": 106336,
-      "word": "胡明轩醒了",
-      "onboard_time": 1762607841,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105865,
       "num": 105865,
       "word": "穆祉丞真的没有猜幻梦都破碎吗",
@@ -1819,6 +1835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103773,
+      "num": 103773,
+      "word": "接孙尚香FMVP",
+      "onboard_time": 1762609102,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103323,
       "num": 103323,
       "word": "蟑螂粉 蛋白粉",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1762560198,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102890,
+      "num": 102890,
+      "word": "KPL年总上座人数62196人",
+      "onboard_time": 1762609221,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 102543,
@@ -2627,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76048,
-      "num": 94571,
-      "word": "陈芋汐全运会倒立俯卧撑",
-      "onboard_time": 1762608321,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75365,
       "num": 75365,
       "word": "戴资颖官宣退役",
@@ -3076,7 +3100,7 @@
     },
     {
       "raw_hot": 47378,
-      "num": 106303,
+      "num": 112517,
       "word": "石破茂称卸任后每天都开心引争议",
       "onboard_time": 1762608441,
       "rank": 39,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1762592300,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44084,
+      "num": 111805,
+      "word": "纽约市长称带盖垃圾桶是革命性创意",
+      "onboard_time": 1762608801,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44070,
@@ -3283,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29944,
+      "num": 112986,
+      "word": "四川妹子想去湖南发展希望月薪2万",
+      "onboard_time": 1762608622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29481,
       "num": 77563,
       "word": "郑钦文上海买车",
@@ -3337,6 +3377,14 @@
       "onboard_time": 1762549333,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22868,
+      "num": 194233,
+      "word": "好气血才能有好声音",
+      "onboard_time": 1762608981,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 21738,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762609271726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738306,
+        "num": 1118128,
+        "word": "唐朝诡事录热度",
+        "onboard_time": 1762594822,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382198,
+        "num": 382198,
+        "word": "螺蛳粉店名 陆丝芬",
+        "onboard_time": 1762599922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24578,
+        "num": 380313,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762590980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394592,
+        "num": 377378,
+        "word": "王源演唱会",
+        "onboard_time": 1762602380,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235532,
+        "num": 375587,
+        "word": "这些照片千万不要发在朋友圈",
+        "onboard_time": 1762592720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745420,
+        "num": 372695,
+        "word": "KPL总决赛",
+        "onboard_time": 1762591401,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 371496,
+        "num": 371496,
+        "word": "AG对战狼队",
+        "onboard_time": 1762593500,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306626,
+        "num": 306626,
+        "word": "春树导演制片人回应争议",
+        "onboard_time": 1762605141,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215455,
+        "num": 215455,
+        "word": "一诺心率好高",
+        "onboard_time": 1762604300,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169307,
+        "num": 215407,
+        "word": "衣服吊牌和A4纸一样大了",
+        "onboard_time": 1762593622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2050519,
+        "num": 215317,
+        "word": "繁花剧组回应古二录音",
+        "onboard_time": 1762601360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589573,
+        "num": 215205,
+        "word": "将门毒后 黄羿",
+        "onboard_time": 1762599560,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568378,
+        "num": 215165,
+        "word": "女子生产大出血孩子爷爷将娃送人",
+        "onboard_time": 1762601120,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312806,
+        "num": 215078,
+        "word": "快睡着时身体抖了一下的原因",
+        "onboard_time": 1762606520,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280368,
+        "num": 214913,
+        "word": "男子将热水器通电妻子洗澡被电身亡",
+        "onboard_time": 1762593560,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275503,
+        "num": 214889,
+        "word": "米哈游 黑色大丽花",
+        "onboard_time": 1762606580,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237128,
+        "num": 214734,
+        "word": "31岁张晚意焦虑晚婚晚育",
+        "onboard_time": 1762594759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214721,
+        "num": 214721,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762598241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187644,
+        "num": 195703,
+        "word": "福建舰为什么被子不叠豆腐块",
+        "onboard_time": 1762597881,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22868,
+        "num": 194233,
+        "word": "好气血才能有好声音",
+        "onboard_time": 1762608981,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 268384,
+        "num": 193941,
+        "word": "南派三叔在线摇人找丁禹兮微信",
+        "onboard_time": 1762608441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193543,
+        "num": 193543,
+        "word": "张晚意问李沁什么时候有喜讯",
+        "onboard_time": 1762589060,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192815,
+        "num": 192815,
+        "word": "AG年总率先拿到赛点",
+        "onboard_time": 1762608622,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193158,
+        "num": 192146,
+        "word": "唐朝诡事录3首播反馈",
+        "onboard_time": 1762607841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188893,
+        "num": 188893,
+        "word": "TheShy教学Rookie剑姬一秒四破",
+        "onboard_time": 1762608081,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177143,
+        "num": 177143,
+        "word": "小胖在干啥",
+        "onboard_time": 1762607422,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135139,
+        "num": 135139,
+        "word": "易烊千玺说自己心很大容易翻篇",
+        "onboard_time": 1762603820,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124551,
+        "num": 124551,
+        "word": "男子花园挖出金币金条归自己所有",
+        "onboard_time": 1762601300,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118875,
+        "num": 118875,
+        "word": "胡明轩醒了",
+        "onboard_time": 1762607841,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19867,
+        "num": 118314,
+        "word": "淘小宝猫天天双十一霸总发红包",
+        "onboard_time": 1762605381,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129513,
+        "num": 118292,
+        "word": "曹骏顶着海胆头就开始拍大片了",
+        "onboard_time": 1762607961,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119933,
+        "num": 118266,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118235,
+        "num": 118235,
+        "word": "四喜",
+        "onboard_time": 1762604960,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117913,
+        "num": 117913,
+        "word": "刘宇演唱会出场这一下",
+        "onboard_time": 1762608261,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118048,
+        "num": 117527,
+        "word": "陈芋汐全运会倒立俯卧撑",
+        "onboard_time": 1762608321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116783,
+        "num": 116783,
+        "word": "TOP全员上桌",
+        "onboard_time": 1762607240,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113196,
+        "num": 113196,
+        "word": "女子引产被拒诞下女婴5名责任人被罚",
+        "onboard_time": 1762603161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29944,
+        "num": 112986,
+        "word": "四川妹子想去湖南发展希望月薪2万",
+        "onboard_time": 1762608622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46733,
+        "num": 112517,
+        "word": "石破茂称卸任后每天都开心引争议",
+        "onboard_time": 1762608441,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44084,
+        "num": 111805,
+        "word": "纽约市长称带盖垃圾桶是革命性创意",
+        "onboard_time": 1762608801,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115824,
+        "num": 111237,
+        "word": "AG剧透",
+        "onboard_time": 1762597401,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111164,
+        "num": 111164,
+        "word": "AG的BP",
+        "onboard_time": 1762600881,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110351,
+        "num": 110351,
+        "word": "刘若英谈44岁怀孕经历",
+        "onboard_time": 1762587799,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103773,
+        "num": 103773,
+        "word": "接孙尚香FMVP",
+        "onboard_time": 1762609102,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102890,
+        "num": 102890,
+        "word": "KPL年总上座人数62196人",
+        "onboard_time": 1762609221,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102220,
+        "num": 102220,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101290,
+        "num": 101290,
+        "word": "全红婵才18岁怎么这么懂事",
+        "onboard_time": 1762601900,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100823,
+        "num": 100823,
+        "word": "被浙江人的结婚喜糖震惊到了",
+        "onboard_time": 1762597580,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98150,
+        "num": 98150,
+        "word": "陈添祥一年拍了50部短剧",
+        "onboard_time": 1762605322,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94959,
+        "num": 94959,
+        "word": "王源25岁的舞台",
+        "onboard_time": 1762601360,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察#"
+    }
+  }
+}
