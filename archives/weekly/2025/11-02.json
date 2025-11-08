@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762597540212,
+  "endTime": 1762598486221,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -971,6 +971,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730963,
+      "num": 1116954,
+      "word": "KPL总决赛",
+      "onboard_time": 1762591401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 725111,
+      "num": 725111,
+      "word": "AG对战狼队",
+      "onboard_time": 1762593500,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 725006,
       "num": 386891,
       "word": "日本扇贝已出口至中国",
@@ -983,6 +999,14 @@
       "num": 296973,
       "word": "张艺兴直接吃掉在手机上的生肉",
       "onboard_time": 1762403481,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 723759,
+      "num": 174668,
+      "word": "31岁张晚意焦虑晚婚晚育",
+      "onboard_time": 1762594759,
       "rank": 12,
       "category": "艺人"
     },
@@ -1867,14 +1891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 527292,
-      "num": 1084366,
-      "word": "KPL总决赛",
-      "onboard_time": 1762591401,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 526215,
       "num": 168966,
       "word": "男子辞职到女儿学校旁卖炒饭",
@@ -1897,14 +1913,6 @@
       "onboard_time": 1762146082,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 521731,
-      "num": 167579,
-      "word": "31岁张晚意焦虑晚婚晚育",
-      "onboard_time": 1762594759,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 521699,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1762519882,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513639,
+      "num": 513639,
+      "word": "唐朝诡事录热度",
+      "onboard_time": 1762594822,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 512287,
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 493999,
-      "num": 151721,
+      "num": 152902,
       "word": "把背挺直别驼背",
       "onboard_time": 1762589181,
       "rank": 26,
@@ -2340,7 +2356,7 @@
     },
     {
       "raw_hot": 465643,
-      "num": 138016,
+      "num": 161010,
       "word": "刘若英谈44岁怀孕经历",
       "onboard_time": 1762587799,
       "rank": 22,
@@ -2619,14 +2635,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 424000,
-      "num": 424000,
-      "word": "唐朝诡事录热度",
-      "onboard_time": 1762594822,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 423880,
       "num": 205825,
       "word": "辛芷蕾被评为威尼斯近十年最佳影后",
@@ -2804,7 +2812,7 @@
     },
     {
       "raw_hot": 406156,
-      "num": 140500,
+      "num": 163082,
       "word": "对沈腾一米八有了实感",
       "onboard_time": 1762586181,
       "rank": 33,
@@ -2817,6 +2825,14 @@
       "onboard_time": 1762312940,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 400941,
+      "num": 400941,
+      "word": "这些照片千万不要发在朋友圈",
+      "onboard_time": 1762592720,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 400063,
@@ -2923,14 +2939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389781,
-      "num": 389781,
-      "word": "这些照片千万不要发在朋友圈",
-      "onboard_time": 1762592720,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389492,
       "num": 208499,
       "word": "梅婷最讨厌的演员行为",
@@ -2944,6 +2952,14 @@
       "word": "蒲熠星买了芒果股票",
       "onboard_time": 1762159402,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 387505,
+      "num": 164212,
+      "word": "向太炮轰王家卫烧钱式拍摄不道德",
+      "onboard_time": 1762594759,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3033,14 +3049,6 @@
       "onboard_time": 1762176922,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378932,
-      "num": 156043,
-      "word": "向太炮轰王家卫烧钱式拍摄不道德",
-      "onboard_time": 1762594759,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 378586,
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 345466,
-      "num": 146965,
+      "num": 154370,
       "word": "印度一女子因害怕蚂蚁自杀身亡",
       "onboard_time": 1762591100,
       "rank": 39,
@@ -3569,6 +3577,14 @@
       "onboard_time": 1762579701,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335473,
+      "num": 335473,
+      "word": "AG剧透",
+      "onboard_time": 1762597401,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 334810,
@@ -3721,14 +3737,6 @@
       "onboard_time": 1762570281,
       "rank": 5,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 321324,
-      "num": 321324,
-      "word": "AG对战狼队",
-      "onboard_time": 1762593500,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 321134,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1762571960,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250010,
+      "num": 250010,
+      "word": "衣服吊牌和A4纸一样大了",
+      "onboard_time": 1762593622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249976,
@@ -5747,6 +5763,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 204922,
+      "num": 204922,
+      "word": "中国艺术家指控鹰眼演员性骚扰",
+      "onboard_time": 1762596681,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204901,
       "num": 342533,
       "word": "中国制造让碳纤维价格去掉一个0",
@@ -6091,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195445,
+      "num": 159638,
+      "word": "一诺好牛",
+      "onboard_time": 1762598061,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195437,
       "num": 195437,
       "word": "山河枕新浪扫楼",
@@ -6148,19 +6180,11 @@
     },
     {
       "raw_hot": 194770,
-      "num": 115277,
+      "num": 131011,
       "word": "敖子逸喊王源源哥",
       "onboard_time": 1762593441,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194687,
-      "num": 194687,
-      "word": "衣服吊牌和A4纸一样大了",
-      "onboard_time": 1762593622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194560,
@@ -7515,6 +7539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166998,
+      "num": 153895,
+      "word": "被浙江人的结婚喜糖震惊到了",
+      "onboard_time": 1762597580,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166847,
       "num": 166847,
       "word": "新闻女王2开播",
@@ -7857,6 +7889,14 @@
       "onboard_time": 1762154541,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 161950,
+      "num": 153105,
+      "word": "KPL开局暂停",
+      "onboard_time": 1762597279,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 161947,
@@ -8795,6 +8835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146489,
+      "num": 146489,
+      "word": "原来这就是大家拼命要上岸的原因",
+      "onboard_time": 1762597881,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146480,
       "num": 146480,
       "word": "刘嘉玲何赛飞因王家卫起观念冲突",
@@ -9051,6 +9099,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 143533,
+      "num": 143533,
+      "word": "福建舰为什么被子不叠豆腐块",
+      "onboard_time": 1762597881,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143530,
       "num": 182966,
       "word": "新闻女王2没有徐晓薇",
@@ -9073,14 +9129,6 @@
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143238,
-      "num": 99862,
-      "word": "KPL开局暂停",
-      "onboard_time": 1762597279,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 143149,
@@ -9113,14 +9161,6 @@
       "onboard_time": 1762485739,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 142915,
-      "num": 142915,
-      "word": "中国艺术家指控鹰眼演员性骚扰",
-      "onboard_time": 1762596681,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 142736,
@@ -9641,6 +9681,14 @@
       "onboard_time": 1762346240,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137367,
+      "num": 137367,
+      "word": "肉蛋奶 缓解痛经",
+      "onboard_time": 1762597642,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 137351,
@@ -10249,6 +10297,14 @@
       "onboard_time": 1762242321,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131231,
+      "num": 131231,
+      "word": "鸟巢 排面",
+      "onboard_time": 1762596620,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 131146,
@@ -11035,14 +11091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124089,
-      "num": 124089,
-      "word": "AG剧透",
-      "onboard_time": 1762597401,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124000,
       "num": 124000,
       "word": "女装商家双11备货500万退货400万",
@@ -11617,6 +11665,14 @@
       "onboard_time": 1762053319,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119003,
+      "num": 171361,
+      "word": "日本女子把寄存柜当胶囊舱钻进去睡",
+      "onboard_time": 1762596740,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118988,
@@ -12708,7 +12764,7 @@
     },
     {
       "raw_hot": 111623,
-      "num": 111623,
+      "num": 154983,
       "word": "大学生网购钥匙关掉百部电梯广告",
       "onboard_time": 1762593081,
       "rank": 29,
@@ -13603,6 +13659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105648,
+      "num": 131051,
+      "word": "黄景瑜又对默下手了",
+      "onboard_time": 1762597820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105636,
       "num": 105636,
       "word": "朱开说Kanavi只能在LPL打",
@@ -13756,7 +13820,7 @@
     },
     {
       "raw_hot": 104726,
-      "num": 104726,
+      "num": 130902,
       "word": "霍汶希回应郑希怡在英皇没饭吃",
       "onboard_time": 1762596861,
       "rank": 27,
@@ -15203,14 +15267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97357,
-      "num": 97357,
-      "word": "鸟巢 排面",
-      "onboard_time": 1762596620,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 97264,
       "num": 88793,
       "word": "莱巴金娜2比1斯瓦泰克",
@@ -15316,7 +15372,7 @@
     },
     {
       "raw_hot": 96883,
-      "num": 96883,
+      "num": 130315,
       "word": "TFBOYS每年必备节目",
       "onboard_time": 1762593982,
       "rank": 34,
@@ -15732,7 +15788,7 @@
     },
     {
       "raw_hot": 94685,
-      "num": 109600,
+      "num": 130456,
       "word": "网红教唆吸毒最高可判7年",
       "onboard_time": 1762593739,
       "rank": 42,
@@ -16233,6 +16289,14 @@
       "onboard_time": 1762515500,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92792,
+      "num": 130802,
+      "word": "程相骨相",
+      "onboard_time": 1762597461,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 92767,
@@ -17035,6 +17099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89078,
+      "num": 130676,
+      "word": "短国演员演技",
+      "onboard_time": 1762595001,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89048,
       "num": 192596,
       "word": "交出你的拼多多封神好物",
@@ -17179,6 +17251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88468,
+      "num": 177590,
+      "word": "福建舰上被子怎么不叠豆腐块",
+      "onboard_time": 1762597100,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88430,
       "num": 88430,
       "word": "被王鹤棣对视比耶",
@@ -17188,7 +17268,7 @@
     },
     {
       "raw_hot": 88357,
-      "num": 88357,
+      "num": 129958,
       "word": "八仙子除名孙天宇张兴朝",
       "onboard_time": 1762596800,
       "rank": 40,
@@ -17321,14 +17401,6 @@
       "onboard_time": 1762431561,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87605,
-      "num": 101681,
-      "word": "短国演员演技",
-      "onboard_time": 1762595001,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 87548,
@@ -17833,6 +17905,14 @@
       "onboard_time": 1762436841,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85801,
+      "num": 130576,
+      "word": "李兰迪素颜健身",
+      "onboard_time": 1762598241,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 85793,
@@ -19043,14 +19123,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 79051,
-      "num": 88476,
-      "word": "日本女子把寄存柜当胶囊舱钻进去睡",
-      "onboard_time": 1762596740,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79037,
       "num": 80110,
       "word": "自然流产的12周胎儿",
@@ -19227,12 +19299,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77931,
+      "num": 130170,
+      "word": "重刷藏海传好喜欢这段",
+      "onboard_time": 1762598121,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77913,
       "num": 101978,
       "word": "唐朝诡事录 熟悉的味道",
       "onboard_time": 1762583119,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77865,
+      "num": 130090,
+      "word": "小米17的两副面孔",
+      "onboard_time": 1762597461,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 77863,
@@ -20123,14 +20211,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 71782,
-      "num": 71782,
-      "word": "小米17的两副面孔",
-      "onboard_time": 1762597461,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 71555,
       "num": 112985,
       "word": "日本四位前首相会上疑似闭眼打瞌睡",
@@ -20217,14 +20297,6 @@
       "onboard_time": 1762324281,
       "rank": 29,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 70378,
-      "num": 70378,
-      "word": "程相骨相",
-      "onboard_time": 1762597461,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 70193,
@@ -22467,6 +22539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39076,
+      "num": 167188,
+      "word": "KPL的iQOO年总时刻太燃了",
+      "onboard_time": 1762598241,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39012,
       "num": 40592,
       "word": "果郡王 竟然居然人",
@@ -23187,6 +23267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28859,
+      "num": 168469,
+      "word": "淘宝闪购在音乐节开厨房",
+      "onboard_time": 1762597701,
+      "rank": 19,
+      "category": "演出,互联网"
+    },
+    {
       "raw_hot": 28671,
       "num": 93313,
       "word": "被网友求链接的温州铁锅厂复工复产了",
@@ -23651,6 +23739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21733,
+      "num": 173222,
+      "word": "谁来拯救一下峰哥的2G网速",
+      "onboard_time": 1762596081,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21526,
       "num": 144536,
       "word": "警方回应疑给宝宝喂安眠药上班",
@@ -23777,14 +23873,6 @@
       "onboard_time": 1762581620,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19495,
-      "num": 177590,
-      "word": "福建舰上被子怎么不叠豆腐块",
-      "onboard_time": 1762597100,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18985,
@@ -23929,14 +24017,6 @@
       "onboard_time": 1762554494,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17533,
-      "num": 160282,
-      "word": "谁来拯救一下峰哥的2G网速",
-      "onboard_time": 1762596081,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 17302,
