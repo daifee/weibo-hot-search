@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 21:01:09
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 21:30:09
 </p>
 </blockquote>
 <p>
@@ -2649,6 +2649,12 @@ T1严正声明（热度：379722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%A0%91%E5%AF%BC%E6%BC%94%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
+春树导演制片人回应争议（热度：374178）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%80%E9%AA%A8%23" target="weibo">
 雀骨（热度：374128）
 </a>
@@ -2699,12 +2705,6 @@ T1严正声明（热度：379722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%80%A7%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%AD%90%E5%A4%B1%E8%81%94%23" target="weibo">
 多名韩国男性在菲律宾非婚生子失联（热度：371214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%A0%91%E5%AF%BC%E6%BC%94%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
-春树导演制片人回应争议（热度：370987）
 </a>
 </li>
 
@@ -3611,6 +3611,12 @@ Tarzan发文致歉（热度：295392）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%8F%E4%BA%86%E5%A5%B9%E6%98%AF%E7%9C%9F%E8%AF%BB%E8%BF%87%E7%A0%94%23" target="weibo">
 坏了她是真读过研（热度：287504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%20%E9%BB%91%E8%89%B2%E5%A4%A7%E4%B8%BD%E8%8A%B1%23" target="weibo">
+米哈游 黑色大丽花（热度：286019）
 </a>
 </li>
 
@@ -4791,6 +4797,12 @@ A勒布伦惊天逆转张本智和（热度：217137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E7%9D%A1%E7%9D%80%E6%97%B6%E8%BA%AB%E4%BD%93%E6%8A%96%E4%BA%86%E4%B8%80%E4%B8%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+快睡着时身体抖了一下的原因（热度：212946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%80%81%E7%89%9B%E8%80%95%E5%9C%B0%23" target="weibo">
 张凌赫 老牛耕地（热度：212699）
 </a>
@@ -5415,6 +5427,12 @@ iPhone17系列国内激活销量（热度：197390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%BF%83%E7%8E%87%E5%A5%BD%E9%AB%98%23" target="weibo">
+一诺心率好高（热度：194542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E6%97%B6%E4%BD%A0%E7%9A%84%E5%99%A8%E5%AE%98belike%23" target="weibo">
 早睡时你的器官belike（热度：194433）
 </a>
@@ -5517,6 +5535,12 @@ iPhone17系列国内激活销量（热度：197390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9C%A8%E7%BA%BF%E6%91%87%E4%BA%BA%E6%89%BE%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BE%AE%E4%BF%A1%23" target="weibo">
+南派三叔在线摇人找丁禹兮微信（热度：191865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%88%98%E6%98%A5%E5%92%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%81%9A%E5%A4%8D%E5%81%A5%23" target="weibo">
 易烊千玺演刘春和每天都要做复健（热度：191787）
 </a>
@@ -5537,6 +5561,12 @@ iPhone17系列国内激活销量（热度：197390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B7%9E%E9%87%91%E7%81%BF%E7%81%BF%23" target="weibo">
 泰州金灿灿（热度：191534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
+小胖在干啥（热度：191272）
 </a>
 </li>
 
@@ -5573,6 +5603,12 @@ iPhone17系列国内激活销量（热度：197390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%9D%91%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%AA%E5%AE%B9%E6%98%93%E4%BA%86%23" target="weibo">
 入坑迪丽热巴太容易了（热度：190873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E6%95%99%E5%AD%A6Rookie%E5%89%91%E5%A7%AC%E4%B8%80%E7%A7%92%E5%9B%9B%E7%A0%B4%23" target="weibo">
+TheShy教学Rookie剑姬一秒四破（热度：190798）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ Gumayusi说3比0战胜TES（热度：181364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E7%99%BB%E9%A1%B6%23" target="weibo">
 暗河传登顶（热度：181199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E21%E8%88%AA%E5%A4%A9%E5%91%98%E4%BA%AE%E7%9B%B8%23" target="weibo">
-神21航天员亮相（热度：181162）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
-你好星期六下期张凌赫（热度：180860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E5%86%8D%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%B9%B0%E6%B7%80%E7%B2%89%E8%82%A0%E8%A2%AB%E6%8B%BF%E9%92%A5%E5%8C%99%23" target="weibo">
-中学再通报学生买淀粉肠被拿钥匙（热度：180666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
-微博视界大会直播（热度：180312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E6%8B%89%E9%BB%91%E6%8C%87%E5%AE%9A%E7%94%A8%E6%88%B7%20%E5%B1%8F%E8%94%BD%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A%23" target="weibo">
-B站拉黑指定用户 屏蔽开屏广告（热度：180219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%BF%E6%80%81%E8%B0%88T1%E6%8D%A2%E4%B8%8A%E5%8D%95%E5%86%8D%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
-姿态谈T1换上单再进决赛（热度：179968）
 </a>
 </li>
 

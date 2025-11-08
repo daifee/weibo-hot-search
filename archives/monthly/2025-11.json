@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762606869482,
+  "endTime": 1762608609815,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2793987,
-      "num": 192995,
+      "num": 193783,
       "word": "繁花剧组回应古二录音",
       "onboard_time": 1762601360,
       "rank": 10,
@@ -1908,7 +1908,7 @@
     },
     {
       "raw_hot": 565762,
-      "num": 192792,
+      "num": 193140,
       "word": "女子生产大出血孩子爷爷将娃送人",
       "onboard_time": 1762601120,
       "rank": 14,
@@ -3515,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374178,
+      "num": 370987,
+      "word": "春树导演制片人回应争议",
+      "onboard_time": 1762605141,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374128,
       "num": 374128,
       "word": "雀骨",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1762269681,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 370987,
-      "num": 370987,
-      "word": "春树导演制片人回应争议",
-      "onboard_time": 1762605141,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 368101,
@@ -4801,6 +4801,14 @@
       "onboard_time": 1762071860,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286019,
+      "num": 192553,
+      "word": "米哈游 黑色大丽花",
+      "onboard_time": 1762606580,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 285774,
@@ -6371,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212946,
+      "num": 191471,
+      "word": "快睡着时身体抖了一下的原因",
+      "onboard_time": 1762606520,
+      "rank": 16,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 212699,
       "num": 212699,
       "word": "张凌赫 老牛耕地",
@@ -7203,6 +7219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194542,
+      "num": 194542,
+      "word": "一诺心率好高",
+      "onboard_time": 1762604300,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194433,
       "num": 203942,
       "word": "早睡时你的器官belike",
@@ -7339,6 +7363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 191865,
+      "num": 159882,
+      "word": "南派三叔在线摇人找丁禹兮微信",
+      "onboard_time": 1762608441,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191787,
       "num": 163287,
       "word": "易烊千玺演刘春和每天都要做复健",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1762012761,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "小胖在干啥",
+      "onboard_time": 1762607422,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 191271,
@@ -7417,6 +7457,14 @@
       "onboard_time": 1762317141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190798,
+      "num": 159116,
+      "word": "TheShy教学Rookie剑姬一秒四破",
+      "onboard_time": 1762608081,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 190621,
@@ -8827,6 +8875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166651,
+      "num": 158862,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166502,
       "num": 150739,
       "word": "谢娜做吴京经典动作",
@@ -8937,14 +8993,6 @@
       "onboard_time": 1762169061,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165358,
-      "num": 165358,
-      "word": "一诺心率好高",
-      "onboard_time": 1762604300,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 165237,
@@ -9251,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161721,
+      "num": 162960,
+      "word": "福建舰为什么被子不叠豆腐块",
+      "onboard_time": 1762597881,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161698,
       "num": 151842,
       "word": "官方回应安徽二胎补贴被追回",
@@ -9457,6 +9513,14 @@
       "onboard_time": 1762145123,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158348,
+      "num": 158348,
+      "word": "TOP全员上桌",
+      "onboard_time": 1762607240,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 157995,
@@ -9905,14 +9969,6 @@
       "onboard_time": 1762318702,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152771,
-      "num": 152771,
-      "word": "米哈游 黑色大丽花",
-      "onboard_time": 1762606580,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 152706,
@@ -10793,14 +10849,6 @@
       "onboard_time": 1762071860,
       "rank": 39,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 143533,
-      "num": 162960,
-      "word": "福建舰为什么被子不叠豆腐块",
-      "onboard_time": 1762597881,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143530,
@@ -12611,6 +12659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128304,
+      "num": 130489,
+      "word": "女子引产被拒诞下女婴5名责任人被罚",
+      "onboard_time": 1762603161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128271,
       "num": 128271,
       "word": "要不给王赫野报工伤吧",
@@ -12707,6 +12763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127664,
+      "num": 127664,
+      "word": "全红婵才18岁怎么这么懂事",
+      "onboard_time": 1762601900,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127351,
       "num": 123531,
       "word": "敖瑞鹏骑车带沙溢 像送流浪老人",
@@ -12801,14 +12865,6 @@
       "onboard_time": 1762575080,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126511,
-      "num": 121426,
-      "word": "全红婵才18岁怎么这么懂事",
-      "onboard_time": 1762601900,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 126503,
@@ -13963,6 +14019,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 118710,
+      "num": 118710,
+      "word": "大帅 苏烈王",
+      "onboard_time": 1762607900,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118637,
       "num": 118637,
       "word": "谁吃固体杨枝甘露是图省事",
@@ -14553,6 +14617,14 @@
       "onboard_time": 1761916825,
       "rank": 24,
       "category": "议题讨论,时尚"
+    },
+    {
+      "raw_hot": 115176,
+      "num": 115176,
+      "word": "曹骏顶着海胆头就开始拍大片了",
+      "onboard_time": 1762607961,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114882,
@@ -15411,6 +15483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109916,
+      "num": 109916,
+      "word": "刘宇演唱会出场这一下",
+      "onboard_time": 1762608261,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109848,
       "num": 109848,
       "word": "湖人复仇开拓者",
@@ -15593,6 +15673,14 @@
       "onboard_time": 1762353381,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108647,
+      "num": 108647,
+      "word": "新闻女王我更喜欢2",
+      "onboard_time": 1762607961,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 108607,
@@ -16097,6 +16185,14 @@
       "onboard_time": 1761979159,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106336,
+      "num": 106336,
+      "word": "胡明轩醒了",
+      "onboard_time": 1762607841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 106215,
@@ -17883,6 +17979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98035,
+      "num": 98035,
+      "word": "男子搭讪女店员被骂后留下一袋丝袜",
+      "onboard_time": 1762607001,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98020,
       "num": 116829,
       "word": "柬埔寨太子集团35亿资产被冻结",
@@ -18329,6 +18433,14 @@
       "onboard_time": 1762397120,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95970,
+      "num": 95970,
+      "word": "26岁女子回应撞脸全红婵",
+      "onboard_time": 1762608381,
+      "rank": 47,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 95941,
@@ -20297,14 +20409,6 @@
       "onboard_time": 1762504701,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88447,
-      "num": 130489,
-      "word": "女子引产被拒诞下女婴5名责任人被罚",
-      "onboard_time": 1762603161,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88430,
@@ -22953,6 +23057,14 @@
       "onboard_time": 1762053920,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76048,
+      "num": 94571,
+      "word": "陈芋汐全运会倒立俯卧撑",
+      "onboard_time": 1762608321,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76021,
@@ -25651,6 +25763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49392,
+      "num": 106287,
+      "word": "古言十大男神全部影视化",
+      "onboard_time": 1762607361,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49180,
       "num": 97466,
       "word": "卢浮宫监控系统密码竟就是卢浮宫",
@@ -25801,6 +25921,14 @@
       "onboard_time": 1762606279,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47378,
+      "num": 106303,
+      "word": "石破茂称卸任后每天都开心引争议",
+      "onboard_time": 1762608441,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47361,
@@ -26787,6 +26915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34240,
+      "num": 164975,
+      "word": "iQOO和KPL的第七年",
+      "onboard_time": 1762603701,
+      "rank": 10,
+      "category": "电竞,数码"
+    },
+    {
       "raw_hot": 34204,
       "num": 123864,
       "word": "拖欠18人77万工资老板获刑",
@@ -27401,14 +27537,6 @@
       "onboard_time": 1762414223,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26580,
-      "num": 164975,
-      "word": "iQOO和KPL的第七年",
-      "onboard_time": 1762603701,
-      "rank": 10,
-      "category": "电竞,数码"
     },
     {
       "raw_hot": 26286,
