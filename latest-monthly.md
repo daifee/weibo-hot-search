@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 01:38:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 02:34:33
 </p>
 </blockquote>
 <p>
@@ -5703,6 +5703,12 @@ AG年总率先拿到赛点（热度：192815）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E7%8A%B6%E6%80%81%23" target="weibo">
+小胖状态（热度：192494）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC15%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%23" target="weibo">
 第15届全运会火炬传递（热度：192418）
 </a>
@@ -6005,12 +6011,6 @@ LPL（热度：187367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%9B%AE%E8%8D%92%E7%A6%81%E5%9C%B0%E6%BC%94%E7%9A%84%E6%B2%88%E6%98%9F%23" target="weibo">
 易烊千玺蛮荒禁地演的沈星（热度：186586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E9%80%A0%E7%89%A9%E5%A5%BD%E5%BC%BA%E7%9A%84%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
-周深新歌造物好强的爆发力（热度：186325）
 </a>
 </li>
 
