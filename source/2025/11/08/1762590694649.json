@@ -1,0 +1,410 @@
+{
+  "runTime": 1762590694649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 358992,
+        "num": 1057438,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138448,
+        "num": 1010856,
+        "word": "iPhone17系列国内激活销量",
+        "onboard_time": 1762584080,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 7315,
+        "num": 932214,
+        "word": "智能传播用AI点亮古今中外",
+        "onboard_time": 1762590441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258499,
+        "num": 860240,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217840,
+        "num": 820581,
+        "word": "张杰演唱会2分钟的不语",
+        "onboard_time": 1762584980,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136215,
+        "num": 720591,
+        "word": "时光代理人幼年程小时陆光",
+        "onboard_time": 1762590261,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161185,
+        "num": 642224,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119232,
+        "num": 605300,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104648,
+        "num": 508493,
+        "word": "王楚钦全运会首战对阵魏世皓",
+        "onboard_time": 1762586121,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92014,
+        "num": 470182,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425425,
+        "num": 425425,
+        "word": "张晚意问李沁什么时候有喜讯",
+        "onboard_time": 1762589060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261957,
+        "num": 261957,
+        "word": "杨幂 不敢坐在大明星旁边",
+        "onboard_time": 1762587381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237472,
+        "num": 237472,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210609,
+        "num": 210609,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28483,
+        "num": 180803,
+        "word": "你的旅行风格暴露了你的真实个性",
+        "onboard_time": 1762588880,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161547,
+        "num": 161547,
+        "word": "张婧仪祖母绿高珠",
+        "onboard_time": 1762590560,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157738,
+        "num": 157738,
+        "word": "单依纯一首一首唱进体制内",
+        "onboard_time": 1762587200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123388,
+        "num": 123388,
+        "word": "陈芋汐断层晋级10米台决赛",
+        "onboard_time": 1762585760,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27341,
+        "num": 123294,
+        "word": "蔡康永揭秘天猫年度设计趋势",
+        "onboard_time": 1762589181,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 48259,
+        "num": 122592,
+        "word": "孙颖莎练到大汗淋漓",
+        "onboard_time": 1762589479,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79993,
+        "num": 122433,
+        "word": "全红婵跳水慢动作看不够",
+        "onboard_time": 1762587022,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29232,
+        "num": 121941,
+        "word": "共绘网络文化交流新图景",
+        "onboard_time": 1762587561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282887,
+        "num": 121566,
+        "word": "刘若英谈44岁怀孕经历",
+        "onboard_time": 1762587799,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264080,
+        "num": 121026,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259767,
+        "num": 120561,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120320,
+        "num": 120320,
+        "word": "唐诡投凶榜有八个方丈",
+        "onboard_time": 1762585881,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112708,
+        "num": 112708,
+        "word": "孔雪儿暗河传这段要哭碎我了",
+        "onboard_time": 1762589479,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107702,
+        "num": 107702,
+        "word": "TVB老戏骨凌汉已去世",
+        "onboard_time": 1762590023,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86957,
+        "num": 107409,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137650,
+        "num": 106016,
+        "word": "时代少年团抢票",
+        "onboard_time": 1762575200,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216203,
+        "num": 105197,
+        "word": "安以轩淡出演艺圈独自带娃",
+        "onboard_time": 1762584919,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126312,
+        "num": 103886,
+        "word": "MRC战胜ACT",
+        "onboard_time": 1762589960,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119705,
+        "num": 102837,
+        "word": "狐狸以为人一天能下四个蛋",
+        "onboard_time": 1762589960,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118583,
+        "num": 101506,
+        "word": "唐诡的质感和我的工资一样稳定",
+        "onboard_time": 1762589420,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100440,
+        "num": 100440,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99886,
+        "num": 99886,
+        "word": "高铁票买到19排但车厢只有17排",
+        "onboard_time": 1762580781,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90992,
+        "num": 99857,
+        "word": "墨西哥一火山口惊现UFO",
+        "onboard_time": 1762590261,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43586,
+        "num": 99199,
+        "word": "女子故意点燃商场衣物引发火灾",
+        "onboard_time": 1762589601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52321,
+        "num": 98788,
+        "word": "颜安帅得我有点不敢认",
+        "onboard_time": 1762589721,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55456,
+        "num": 98497,
+        "word": "鸟巢等来了电竞全华班",
+        "onboard_time": 1762589840,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98262,
+        "num": 98262,
+        "word": "徐梦洁这几下够我学一辈子",
+        "onboard_time": 1762586000,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89273,
+        "num": 97219,
+        "word": "四喜为留遗腹子富豪变脸",
+        "onboard_time": 1762590379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96775,
+        "num": 96775,
+        "word": "冯建宇回应33岁转行短剧",
+        "onboard_time": 1762588821,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95616,
+        "num": 95616,
+        "word": "毛晓彤三年四部央妈女主剧",
+        "onboard_time": 1762587920,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94670,
+        "num": 94670,
+        "word": "张晚意比李沁还着急",
+        "onboard_time": 1762587080,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54378,
+        "num": 94431,
+        "word": "全运会乒乓赛有多难",
+        "onboard_time": 1762590441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94418,
+        "num": 94418,
+        "word": "专家称清宫分娩需6名以上稳婆在场",
+        "onboard_time": 1762587920,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92217,
+        "num": 92217,
+        "word": "林小宅想要林小宅得到",
+        "onboard_time": 1762590560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91450,
+        "num": 91450,
+        "word": "董璇一家与佟大为一家合照",
+        "onboard_time": 1762586660,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89060,
+        "num": 89060,
+        "word": "太平公主 嫡嫡道道",
+        "onboard_time": 1762587979,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察#"
+    }
+  }
+}
