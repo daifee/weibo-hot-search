@@ -1,0 +1,410 @@
+{
+  "runTime": 1762577016474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 789652,
+        "num": 1126344,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353041,
+        "num": 353041,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24025,
+        "num": 276413,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663304,
+        "num": 263476,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236974,
+        "num": 236974,
+        "word": "香港一小学允许学生用简体字答题",
+        "onboard_time": 1762570281,
+        "rank": 4,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 209613,
+        "num": 209613,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201538,
+        "num": 201538,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175563,
+        "num": 175563,
+        "word": "北京飞悉尼航班现负43元票价",
+        "onboard_time": 1762571780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125842,
+        "num": 175203,
+        "word": "崩坏星穹铁道黑色大丽花",
+        "onboard_time": 1762574721,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119962,
+        "num": 174603,
+        "word": "杨瀚森超远三分神奇命中",
+        "onboard_time": 1762567278,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684903,
+        "num": 174026,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355429,
+        "num": 173331,
+        "word": "全世界都知道龚俊有三不接了",
+        "onboard_time": 1762573401,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304788,
+        "num": 172901,
+        "word": "怪不得长辈都喜欢大方的孩子",
+        "onboard_time": 1762572680,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277204,
+        "num": 172232,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26805,
+        "num": 171808,
+        "word": "慢跑是感受北京秋天最好的方式",
+        "onboard_time": 1762574480,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 267717,
+        "num": 170948,
+        "word": "时代少年团抢票",
+        "onboard_time": 1762575200,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178790,
+        "num": 170065,
+        "word": "新闻女王2的广植入真的笑死我",
+        "onboard_time": 1762570400,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189653,
+        "num": 169855,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74676,
+        "num": 169262,
+        "word": "美团今天半价真的假的",
+        "onboard_time": 1762574841,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76803,
+        "num": 168724,
+        "word": "少林老外体验小米17背屏",
+        "onboard_time": 1762574841,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 731409,
+        "num": 167536,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276817,
+        "num": 167092,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221879,
+        "num": 166713,
+        "word": "何超琼曾为向佐赌债乌龙道歉",
+        "onboard_time": 1762571960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 166256,
+        "word": "现在就出发",
+        "onboard_time": 1762575860,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142050,
+        "num": 142050,
+        "word": "梁婷为辛芷蕾发声",
+        "onboard_time": 1762564159,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77564,
+        "num": 140480,
+        "word": "孙颖莎冬日温暖派送中",
+        "onboard_time": 1762574841,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232599,
+        "num": 140383,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 139631,
+        "word": "哈尔滨一小区内有人遛企鹅",
+        "onboard_time": 1762573401,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104647,
+        "num": 136661,
+        "word": "暗河传",
+        "onboard_time": 1762574001,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45591,
+        "num": 136002,
+        "word": "美国真的为稀土着急了",
+        "onboard_time": 1762562120,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135751,
+        "num": 135751,
+        "word": "徐志胜让8个顶流歌手没招了",
+        "onboard_time": 1762573940,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127018,
+        "num": 127018,
+        "word": "官方称已对淘宝霸屏广告展开调查",
+        "onboard_time": 1762562840,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118830,
+        "num": 118830,
+        "word": "肖战专辑海报上的摩斯密码是我在",
+        "onboard_time": 1762572621,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111287,
+        "num": 111287,
+        "word": "人民网评人民咖啡馆不妥",
+        "onboard_time": 1762525161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108926,
+        "num": 108926,
+        "word": "山姆会员忍无可忍了吗",
+        "onboard_time": 1762571420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 107917,
+        "word": "日本网友将熊灾甩锅给中国",
+        "onboard_time": 1762570400,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97988,
+        "num": 97988,
+        "word": "全运会女子10米跳台",
+        "onboard_time": 1762570759,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90504,
+        "num": 90504,
+        "word": "迪丽热巴全黑造型",
+        "onboard_time": 1762567819,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89340,
+        "num": 89340,
+        "word": "国际乒联郑重声明",
+        "onboard_time": 1762576641,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88768,
+        "num": 88768,
+        "word": "中国AI用1%资源逆袭美国",
+        "onboard_time": 1762576340,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 88709,
+        "num": 88709,
+        "word": "陈乔恩艾伦穿搭都只顾自己好看",
+        "onboard_time": 1762570519,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83776,
+        "num": 83776,
+        "word": "瘦下来后性格变坏了的原因",
+        "onboard_time": 1762565118,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83773,
+        "num": 83773,
+        "word": "当柴犬按了一下比格犬",
+        "onboard_time": 1762576399,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83270,
+        "num": 83270,
+        "word": "米卡不是居然人竟然人的原因",
+        "onboard_time": 1762576099,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81397,
+        "num": 81397,
+        "word": "杜若溪被公司告诫和偶像恋爱是灭顶之灾",
+        "onboard_time": 1762569620,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77838,
+        "num": 77838,
+        "word": "女生回应2次考研失败上青岛技校",
+        "onboard_time": 1762576699,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76400,
+        "num": 76400,
+        "word": "原配与第三者起冲突8年后再被刑拘",
+        "onboard_time": 1762574300,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75365,
+        "num": 75365,
+        "word": "戴资颖官宣退役",
+        "onboard_time": 1762576761,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73838,
+        "num": 73838,
+        "word": "勇士vs掘金",
+        "onboard_time": 1762575980,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73694,
+        "num": 73694,
+        "word": "文班亚马隔扣杜兰特",
+        "onboard_time": 1762572621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}

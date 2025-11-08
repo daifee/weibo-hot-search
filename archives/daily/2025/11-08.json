@@ -1,10 +1,10 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762576197500,
+  "endTime": 1762577016474,
   "band_list": [
     {
       "raw_hot": 3308875,
-      "num": 136653,
+      "num": 140383,
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 154942,
+      "num": 167536,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663304,
+      "num": 339001,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1762558458,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567436,
       "num": 145701,
       "word": "曝赵樱子被某制作人认当干女儿",
@@ -112,14 +120,6 @@
       "word": "谭凯回复",
       "onboard_time": 1762529061,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 426607,
-      "num": 339001,
-      "word": "唐朝诡事录之长安",
-      "onboard_time": 1762558458,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304788,
+      "num": 175185,
+      "word": "怪不得长辈都喜欢大方的孩子",
+      "onboard_time": 1762572680,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299925,
       "num": 176949,
       "word": "30岁小伙长期熬夜智力退回3岁",
@@ -243,8 +251,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277204,
+      "num": 172232,
+      "word": "刘亦菲仿妆团播",
+      "onboard_time": 1762574841,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276817,
+      "num": 167092,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250656,
-      "num": 152838,
+      "num": 166713,
       "word": "何超琼曾为向佐赌债乌龙道歉",
       "onboard_time": 1762571960,
       "rank": 24,
@@ -273,14 +297,6 @@
       "onboard_time": 1762561459,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 213111,
-      "num": 175185,
-      "word": "怪不得长辈都喜欢大方的孩子",
-      "onboard_time": 1762572680,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 213046,
@@ -313,6 +329,14 @@
       "onboard_time": 1762523302,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201538,
+      "num": 201538,
+      "word": "暗河传大结局",
+      "onboard_time": 1762576641,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 197593,
@@ -443,12 +467,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "刘亦菲仿妆团播",
-      "onboard_time": 1762574841,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 166256,
+      "num": 166256,
+      "word": "现在就出发",
+      "onboard_time": 1762575860,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 165434,
@@ -507,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135872,
-      "num": 135872,
+      "raw_hot": 139631,
+      "num": 139631,
       "word": "哈尔滨一小区内有人遛企鹅",
       "onboard_time": 1762573401,
       "rank": 39,
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125842,
+      "num": 175203,
+      "word": "崩坏星穹铁道黑色大丽花",
+      "onboard_time": 1762574721,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124578,
       "num": 114112,
       "word": "14岁的陈思罕",
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 123237,
-      "num": 123237,
+      "num": 140480,
       "word": "孙颖莎冬日温暖派送中",
       "onboard_time": 1762574841,
       "rank": 27,
@@ -659,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108926,
+      "num": 108926,
+      "word": "山姆会员忍无可忍了吗",
+      "onboard_time": 1762571420,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107478,
       "num": 120763,
       "word": "易烊千玺完全是电影疯子",
@@ -675,8 +715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104120,
-      "num": 104120,
+      "raw_hot": 104647,
+      "num": 136661,
       "word": "暗河传",
       "onboard_time": 1762574001,
       "rank": 28,
@@ -699,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101357,
-      "num": 101357,
-      "word": "崩坏星穹铁道黑色大丽花",
-      "onboard_time": 1762574721,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 100528,
       "num": 100528,
       "word": "水千丞188男团将影视化",
@@ -715,20 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99151,
-      "num": 99151,
-      "word": "陈芋汐407C失误",
-      "onboard_time": 1762575560,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98928,
       "num": 113571,
       "word": "凤凰台上 小枫的婚后生活",
       "onboard_time": 1762572139,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97988,
+      "num": 97988,
+      "word": "全运会女子10米跳台",
+      "onboard_time": 1762570759,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 97369,
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 97193,
-      "num": 154966,
+      "num": 169262,
       "word": "美团今天半价真的假的",
       "onboard_time": 1762574841,
       "rank": 18,
@@ -771,22 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95172,
-      "num": 95172,
-      "word": "全运会女子10米跳台",
-      "onboard_time": 1762570759,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93804,
-      "num": 93804,
-      "word": "现在就出发",
-      "onboard_time": 1762575860,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93159,
       "num": 115369,
       "word": "声鸣远扬",
@@ -811,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89417,
-      "num": 89417,
-      "word": "山姆会员忍无可忍了吗",
-      "onboard_time": 1762571420,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 89340,
+      "num": 89340,
+      "word": "国际乒联郑重声明",
+      "onboard_time": 1762576641,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 89200,
@@ -825,6 +841,14 @@
       "onboard_time": 1762563500,
       "rank": 46,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 88768,
+      "num": 88768,
+      "word": "中国AI用1%资源逆袭美国",
+      "onboard_time": 1762576340,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 87526,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83773,
+      "num": 83773,
+      "word": "当柴犬按了一下比格犬",
+      "onboard_time": 1762576399,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83397,
       "num": 119041,
       "word": "钟睒睒771亿美元身家登顶内地富豪榜",
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 80038,
-      "num": 112998,
+      "num": 136002,
       "word": "美国真的为稀土着急了",
       "onboard_time": 1762562120,
       "rank": 34,
@@ -955,6 +987,14 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 77838,
+      "num": 77838,
+      "word": "女生回应2次考研失败上青岛技校",
+      "onboard_time": 1762576699,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77366,
       "num": 107217,
       "word": "空气炸锅烤苹果干",
@@ -971,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76803,
+      "num": 168724,
+      "word": "少林老外体验小米17背屏",
+      "onboard_time": 1762574841,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76120,
       "num": 76120,
       "word": "陈奕迅 夸完你的夸你的",
@@ -979,12 +1027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75682,
-      "num": 154947,
-      "word": "少林老外体验小米17背屏",
-      "onboard_time": 1762574841,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 75365,
+      "num": 75365,
+      "word": "戴资颖官宣退役",
+      "onboard_time": 1762576761,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 75195,
