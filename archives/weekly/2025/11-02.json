@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762600838120,
+  "endTime": 1762601834976,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -284,10 +284,18 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 170931,
+      "num": 171238,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1296165,
+      "num": 192995,
+      "word": "繁花剧组回应古二录音",
+      "onboard_time": 1762601360,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2403,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457349,
+      "num": 457349,
+      "word": "螺蛳粉店名 陆丝芬",
+      "onboard_time": 1762599922,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1762298059,
       "rank": 21,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 332358,
+      "num": 192792,
+      "word": "女子生产大出血孩子爷爷将娃送人",
+      "onboard_time": 1762601120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331922,
@@ -5227,6 +5251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222640,
+      "num": 222640,
+      "word": "唐诡终于知道卢凌风遗传谁了",
+      "onboard_time": 1762600161,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222605,
       "num": 222605,
       "word": "迪丽热巴陈星旭枭起青壤快来了",
@@ -5971,14 +6003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200469,
-      "num": 200469,
-      "word": "唐诡终于知道卢凌风遗传谁了",
-      "onboard_time": 1762600161,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200455,
       "num": 200455,
       "word": "日本决定允许警察射杀熊",
@@ -6129,6 +6153,14 @@
       "onboard_time": 1762067000,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 195774,
+      "num": 231352,
+      "word": "福建舰上被子怎么不叠豆腐块",
+      "onboard_time": 1762597100,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195716,
@@ -6467,6 +6499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188491,
+      "num": 188491,
+      "word": "AG的BP",
+      "onboard_time": 1762600881,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188160,
       "num": 188160,
       "word": "全运会女子双人10米跳台决赛",
@@ -6505,6 +6545,14 @@
       "onboard_time": 1762411041,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187754,
+      "num": 192670,
+      "word": "阿豆赞完美翻盘只有AG能做到",
+      "onboard_time": 1762601181,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 187740,
@@ -6740,7 +6788,7 @@
     },
     {
       "raw_hot": 183832,
-      "num": 136756,
+      "num": 139343,
       "word": "直击樊振东备战全运现场",
       "onboard_time": 1762600580,
       "rank": 30,
@@ -7401,6 +7449,14 @@
       "onboard_time": 1762426881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170477,
+      "num": 125716,
+      "word": "王源25岁的舞台",
+      "onboard_time": 1762601360,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 170382,
@@ -8399,6 +8455,14 @@
       "num": 153231,
       "word": "TES把Faker打瞌睡了",
       "onboard_time": 1762092803,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 153198,
+      "num": 126239,
+      "word": "清融评论席上班",
+      "onboard_time": 1762601120,
       "rank": 31,
       "category": "电竞"
     },
@@ -9489,14 +9553,6 @@
       "onboard_time": 1762490241,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139288,
-      "num": 231352,
-      "word": "福建舰上被子怎么不叠豆腐块",
-      "onboard_time": 1762597100,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139258,
@@ -10649,6 +10705,14 @@
       "onboard_time": 1762582160,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128653,
+      "num": 128653,
+      "word": "GAI演唱会",
+      "onboard_time": 1762600641,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 128614,
@@ -14571,6 +14635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101345,
+      "num": 101345,
+      "word": "海豹的午休沉沉浮浮",
+      "onboard_time": 1762601481,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101276,
       "num": 101276,
       "word": "全红婵和新搭档双人10米跳台夺冠",
@@ -14691,12 +14763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100539,
+      "num": 100539,
+      "word": "男子花园挖出金币金条归自己所有",
+      "onboard_time": 1762601300,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100460,
       "num": 102454,
       "word": "上班和上朝原来是一个意思",
       "onboard_time": 1762581982,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100456,
+      "num": 100456,
+      "word": "肾癌的五大高危人群",
+      "onboard_time": 1762600761,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100418,
@@ -15017,14 +15105,6 @@
       "onboard_time": 1762145662,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98716,
-      "num": 98716,
-      "word": "肾癌的五大高危人群",
-      "onboard_time": 1762600761,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 98657,
@@ -15721,14 +15801,6 @@
       "onboard_time": 1762079000,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95506,
-      "num": 95506,
-      "word": "GAI演唱会",
-      "onboard_time": 1762600641,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 95446,
@@ -16987,14 +17059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90189,
-      "num": 204221,
-      "word": "螺蛳粉店名 陆丝芬",
-      "onboard_time": 1762599922,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "山东省考",
@@ -17217,6 +17281,14 @@
       "onboard_time": 1762131201,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89116,
+      "num": 89116,
+      "word": "配偶是唯一可以自己选择的家人",
+      "onboard_time": 1762600100,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89100,
@@ -17601,6 +17673,14 @@
       "onboard_time": 1762299680,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87311,
+      "num": 87311,
+      "word": "故宫银杏主题壁纸来了",
+      "onboard_time": 1762601300,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 87267,
@@ -18211,6 +18291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84794,
+      "num": 130090,
+      "word": "小米17的两副面孔",
+      "onboard_time": 1762597461,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84747,
       "num": 84747,
       "word": "泰国国王将访问中国",
@@ -18361,6 +18449,14 @@
       "onboard_time": 1762406001,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84179,
+      "num": 198089,
+      "word": "荷兰考虑放弃夺取安世控制权",
+      "onboard_time": 1762599859,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84176,
@@ -19435,14 +19531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77865,
-      "num": 130090,
-      "word": "小米17的两副面孔",
-      "onboard_time": 1762597461,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 77863,
       "num": 72171,
       "word": "巴黎圣日耳曼1比2拜仁",
@@ -20057,6 +20145,14 @@
       "onboard_time": 1762154119,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73672,
+      "num": 192479,
+      "word": "和丈夫像双胞胎妻子称做过婚检",
+      "onboard_time": 1762601422,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73632,
@@ -22395,14 +22491,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 43352,
-      "num": 198089,
-      "word": "荷兰考虑放弃夺取安世控制权",
-      "onboard_time": 1762599859,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43148,
       "num": 195155,
       "word": "立冬京东送玄学秋裤",
@@ -24097,6 +24185,14 @@
       "onboard_time": 1762543275,
       "rank": 48,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 17891,
+      "num": 102308,
+      "word": "铁路回应大妈用扶手搓脚",
+      "onboard_time": 1762601120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17862,
