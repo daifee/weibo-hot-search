@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762591468847,
+  "endTime": 1762593929675,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568931,
+      "num": 524944,
+      "word": "张晚意问李沁什么时候有喜讯",
+      "onboard_time": 1762589060,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567436,
       "num": 145701,
       "word": "曝赵樱子被某制作人认当干女儿",
@@ -107,20 +115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 524944,
-      "num": 524944,
-      "word": "张晚意问李沁什么时候有喜讯",
-      "onboard_time": 1762589060,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 511260,
       "num": 859248,
       "word": "张杰演唱会2分钟的不语",
       "onboard_time": 1762584980,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 510298,
+      "num": 326637,
+      "word": "杨幂 不敢坐在大明星旁边",
+      "onboard_time": 1762587381,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 488403,
@@ -136,6 +144,14 @@
       "word": "刘亦菲仿妆团播",
       "onboard_time": 1762574841,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465643,
+      "num": 124923,
+      "word": "刘若英谈44岁怀孕经历",
+      "onboard_time": 1762587799,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406156,
+      "num": 122643,
+      "word": "对沈腾一米八有了实感",
+      "onboard_time": 1762586181,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396607,
       "num": 396607,
       "word": "必胜客要被卖了",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 379773,
-      "num": 119048,
+      "num": 119666,
       "word": "安以轩淡出演艺圈独自带娃",
       "onboard_time": 1762584919,
       "rank": 22,
@@ -275,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326637,
-      "num": 326637,
-      "word": "杨幂 不敢坐在大明星旁边",
-      "onboard_time": 1762587381,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322751,
       "num": 322751,
       "word": "香港一小学允许学生用简体字答题",
@@ -291,12 +307,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 315274,
-      "num": 124923,
-      "word": "刘若英谈44岁怀孕经历",
-      "onboard_time": 1762587799,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 317559,
+      "num": 132182,
+      "word": "印度一女子因害怕蚂蚁自杀身亡",
+      "onboard_time": 1762591100,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 310786,
@@ -331,6 +347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 303213,
+      "num": 303213,
+      "word": "KPL总决赛",
+      "onboard_time": 1762591401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 302136,
       "num": 210976,
       "word": "暗河传大结局",
@@ -347,19 +371,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299738,
+      "num": 208392,
+      "word": "张婧仪祖母绿高珠",
+      "onboard_time": 1762590560,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296450,
       "num": 176915,
       "word": "梁婷为辛芷蕾发声",
       "onboard_time": 1762564159,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287008,
-      "num": 122643,
-      "word": "对沈腾一米八有了实感",
-      "onboard_time": 1762586181,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -409,6 +433,14 @@
       "onboard_time": 1762577900,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 226947,
+      "num": 130083,
+      "word": "把背挺直别驼背",
+      "onboard_time": 1762589181,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 217450,
@@ -467,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208392,
-      "num": 208392,
-      "word": "张婧仪祖母绿高珠",
-      "onboard_time": 1762590560,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202843,
       "num": 202843,
       "word": "iPhone18系列10大升级",
@@ -507,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192801,
+      "num": 115277,
+      "word": "敖子逸喊王源源哥",
+      "onboard_time": 1762593441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192725,
       "num": 192725,
       "word": "孟子义疯狂好六夜cos阿精",
@@ -529,6 +561,14 @@
       "onboard_time": 1762572621,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190291,
+      "num": 120255,
+      "word": "章泽天卷发拉直了",
+      "onboard_time": 1762592181,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 189083,
@@ -563,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181683,
+      "num": 181683,
+      "word": "这些照片千万不要发在朋友圈",
+      "onboard_time": 1762592720,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179335,
       "num": 117386,
       "word": "徐梦洁这几下够我学一辈子",
@@ -585,6 +633,22 @@
       "onboard_time": 1762573339,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176823,
+      "num": 176823,
+      "word": "AG对战狼队",
+      "onboard_time": 1762593500,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176814,
+      "num": 636038,
+      "word": "陈芋汐断层晋级10米台决赛",
+      "onboard_time": 1762585760,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 176413,
@@ -763,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144553,
+      "num": 125364,
+      "word": "花海钎城打卡鸟巢",
+      "onboard_time": 1762592421,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143516,
       "num": 118069,
       "word": "林小宅想要林小宅得到",
@@ -923,20 +995,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123695,
+      "num": 107399,
+      "word": "哥哥是鸟弟弟是蛇我也有点不想活",
+      "onboard_time": 1762592900,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123657,
       "num": 108936,
       "word": "杨幂 人在无语的时候真的会笑",
       "onboard_time": 1762586181,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123388,
-      "num": 636038,
-      "word": "陈芋汐断层晋级10米台决赛",
-      "onboard_time": 1762585760,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 123356,
@@ -1003,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120093,
+      "num": 120093,
+      "word": "男子将热水器通电妻子洗澡被电身亡",
+      "onboard_time": 1762593560,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119247,
       "num": 119247,
       "word": "女生买衣服好看的定律",
@@ -1036,7 +1116,7 @@
     },
     {
       "raw_hot": 117016,
-      "num": 117016,
+      "num": 126686,
       "word": "TVB老戏骨凌汉已去世",
       "onboard_time": 1762590023,
       "rank": 27,
@@ -1105,14 +1185,6 @@
       "onboard_time": 1762572621,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111333,
-      "num": 111333,
-      "word": "把背挺直别驼背",
-      "onboard_time": 1762589181,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 111298,
@@ -1187,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105492,
+      "num": 105492,
+      "word": "白俄罗斯总统劈了2个小时柴",
+      "onboard_time": 1762587861,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104764,
       "num": 104764,
       "word": "花儿与少年",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1762577540,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103323,
+      "num": 103323,
+      "word": "蟑螂粉 蛋白粉",
+      "onboard_time": 1762591160,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 103058,
@@ -1331,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96188,
+      "num": 107728,
+      "word": "大学生网购钥匙关掉百部电梯广告",
+      "onboard_time": 1762593081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96094,
       "num": 96094,
       "word": "朱婷还是朱婷",
@@ -1395,20 +1491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92703,
-      "num": 92703,
-      "word": "蟑螂粉 蛋白粉",
-      "onboard_time": 1762591160,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 92442,
       "num": 92442,
       "word": "董事长被抓后宣布离婚前妻紧急接班",
       "onboard_time": 1762586361,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92427,
+      "num": 92427,
+      "word": "海军新闻发言人说不会等太久",
+      "onboard_time": 1762593739,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91361,
@@ -1531,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84997,
-      "num": 84997,
-      "word": "KPL总决赛",
-      "onboard_time": 1762591401,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 84828,
       "num": 84828,
       "word": "车企效仿特斯拉推46亿美元薪酬方案",
@@ -1595,12 +1683,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 82606,
-      "num": 82606,
-      "word": "白俄罗斯总统劈了2个小时柴",
-      "onboard_time": 1762587861,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 83093,
+      "num": 125239,
+      "word": "衣服吊牌和A4纸一样大了",
+      "onboard_time": 1762593622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82592,
@@ -1691,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79286,
+      "num": 79286,
+      "word": "海军回应福建舰何时形成实战能力",
+      "onboard_time": 1762593500,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "宋亚轩这下把压力给到了李飞",
@@ -1707,12 +1803,36 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 78587,
+      "num": 78587,
+      "word": "中方同意荷方派员来华磋商请求",
+      "onboard_time": 1762587261,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 78501,
+      "num": 78501,
+      "word": "网红教唆吸毒最高可判7年",
+      "onboard_time": 1762593739,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77913,
       "num": 101978,
       "word": "唐朝诡事录 熟悉的味道",
       "onboard_time": 1762583119,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77608,
+      "num": 77608,
+      "word": "花臂喵喵大王",
+      "onboard_time": 1762593500,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77512,
@@ -1755,6 +1875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76211,
+      "num": 76211,
+      "word": "杨幂唱林俊杰茉莉雨",
+      "onboard_time": 1762593380,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76141,
       "num": 76141,
       "word": "地表最难乒乓球比赛",
@@ -1785,6 +1913,14 @@
       "onboard_time": 1762540694,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74910,
+      "num": 74910,
+      "word": "古人的智慧",
+      "onboard_time": 1762593861,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 73881,
@@ -2115,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44435,
+      "num": 74957,
+      "word": "朱开说AL全员续约很难",
+      "onboard_time": 1762592300,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44070,
       "num": 74702,
       "word": "张本智和止步十六强",
@@ -2171,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39355,
+      "num": 81404,
+      "word": "福建舰入列后计划",
+      "onboard_time": 1762591760,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37684,
       "num": 175157,
       "word": "慢跑是感受北京秋天最好的方式",
@@ -2195,20 +2347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35853,
-      "num": 95998,
-      "word": "印度一女子因害怕蚂蚁自杀身亡",
-      "onboard_time": 1762591100,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 35116,
       "num": 77666,
       "word": "一层薄薄的土 人与人就再难相见了",
       "onboard_time": 1762551013,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34624,
+      "num": 80008,
+      "word": "美国一女子保费暴涨600%",
+      "onboard_time": 1762593380,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34142,
@@ -2401,6 +2553,14 @@
       "onboard_time": 1762571540,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 8700,
+      "num": 79365,
+      "word": "美女法医健身不为美是为搬动遗体",
+      "onboard_time": 1762593560,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4708,
