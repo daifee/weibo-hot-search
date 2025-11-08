@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762583720752,
+  "endTime": 1762584506471,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350534,
+      "num": 350534,
+      "word": "唐朝诡事录节奏",
+      "onboard_time": 1762581321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336672,
       "num": 142300,
       "word": "弦子曝和李茂结婚时已怀孕",
@@ -235,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334810,
+      "num": 177827,
+      "word": "高铁票买到19排但车厢只有17排",
+      "onboard_time": 1762580781,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322751,
       "num": 322751,
       "word": "香港一小学允许学生用简体字答题",
       "onboard_time": 1762570281,
       "rank": 5,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 319708,
-      "num": 177827,
-      "word": "高铁票买到19排但车厢只有17排",
-      "onboard_time": 1762580781,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310786,
@@ -337,14 +345,6 @@
       "onboard_time": 1762577900,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227690,
-      "num": 200328,
-      "word": "唐朝诡事录节奏",
-      "onboard_time": 1762581321,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 217450,
@@ -555,6 +555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168959,
+      "num": 168959,
+      "word": "田亮儿子14岁生日照",
+      "onboard_time": 1762579639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167616,
       "num": 152289,
       "word": "鹿晗吃嗨了后打了一套组合拳",
@@ -569,14 +577,6 @@
       "onboard_time": 1762575860,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166111,
-      "num": 166111,
-      "word": "田亮儿子14岁生日照",
-      "onboard_time": 1762579639,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 165434,
@@ -609,6 +609,14 @@
       "onboard_time": 1762514359,
       "rank": 5,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 160138,
+      "num": 160138,
+      "word": "迅猛龙自曝不参加恋综的原因",
+      "onboard_time": 1762583299,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 157385,
@@ -755,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123373,
-      "num": 123373,
-      "word": "迅猛龙自曝不参加恋综的原因",
-      "onboard_time": 1762583299,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123356,
       "num": 189920,
       "word": "航母生产将进入量产阶段",
@@ -825,6 +825,14 @@
       "onboard_time": 1762567999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "2025KPL年总决赛",
+      "onboard_time": 1762584320,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 118239,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99171,
+      "num": 99171,
+      "word": "张家齐晋级10米台决赛",
+      "onboard_time": 1762584381,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98928,
       "num": 113571,
       "word": "凤凰台上 小枫的婚后生活",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1762574300,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93911,
+      "num": 103263,
+      "word": "四喜高嫁如吞针",
+      "onboard_time": 1762581321,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 93159,
@@ -1155,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87260,
-      "num": 102063,
-      "word": "四喜高嫁如吞针",
-      "onboard_time": 1762581321,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86574,
       "num": 86574,
       "word": "米卡不是居然人竟然人的原因",
@@ -1241,6 +1257,22 @@
       "onboard_time": 1762529061,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82592,
+      "num": 82592,
+      "word": "英雄联盟玩家玩抽象",
+      "onboard_time": 1762584201,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 82436,
+      "num": 82436,
+      "word": "iPhone17系列国内激活销量",
+      "onboard_time": 1762584080,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 82353,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1762561880,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 66032,
+      "num": 66032,
+      "word": "十五运会限定版的广东已上线",
+      "onboard_time": 1762584320,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 65151,

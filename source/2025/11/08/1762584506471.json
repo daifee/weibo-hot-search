@@ -1,0 +1,410 @@
+{
+  "runTime": 1762584506471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845044,
+        "num": 1135207,
+        "word": "杭州警方核查网红教唆吸毒事件",
+        "onboard_time": 1762577840,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586364,
+        "num": 586364,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18989,
+        "num": 508302,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438097,
+        "num": 438097,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350534,
+        "num": 350534,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188975,
+        "num": 188975,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204265,
+        "num": 185855,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181212,
+        "num": 181212,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170207,
+        "num": 170207,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92525,
+        "num": 170118,
+        "word": "香港一小学允许学生用简体字答题",
+        "onboard_time": 1762570281,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 453643,
+        "num": 170092,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408806,
+        "num": 169932,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334810,
+        "num": 169885,
+        "word": "高铁票买到19排但车厢只有17排",
+        "onboard_time": 1762580781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323982,
+        "num": 169738,
+        "word": "沈腾 现在蹭王安宇流量",
+        "onboard_time": 1762579701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11688,
+        "num": 169605,
+        "word": "友友碰头日",
+        "onboard_time": 1762581680,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206844,
+        "num": 169534,
+        "word": "将门毒后",
+        "onboard_time": 1762578860,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183654,
+        "num": 169478,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144983,
+        "num": 169303,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131383,
+        "num": 169266,
+        "word": "金店员工慢动作操作挽损18万",
+        "onboard_time": 1762577241,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32670,
+        "num": 169079,
+        "word": "KPL观赛搭子华莱士",
+        "onboard_time": 1762582040,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459223,
+        "num": 169017,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168959,
+        "num": 168959,
+        "word": "田亮儿子14岁生日照",
+        "onboard_time": 1762579639,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160138,
+        "num": 160138,
+        "word": "迅猛龙自曝不参加恋综的原因",
+        "onboard_time": 1762583299,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136233,
+        "num": 136233,
+        "word": "人民咖啡馆发布声明",
+        "onboard_time": 1762580480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133898,
+        "num": 133898,
+        "word": "发明三层穿衣法的人是天才",
+        "onboard_time": 1762579219,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119870,
+        "num": 119870,
+        "word": "大家的睡衣变形到什么程度了",
+        "onboard_time": 1762582160,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118575,
+        "num": 118575,
+        "word": "2025KPL年总决赛",
+        "onboard_time": 1762584320,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107269,
+        "num": 107269,
+        "word": "金鹤龙给迪丽热巴画的冰湖极光妆",
+        "onboard_time": 1762581740,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93911,
+        "num": 103263,
+        "word": "四喜高嫁如吞针",
+        "onboard_time": 1762581321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88442,
+        "num": 101397,
+        "word": "中方已向欧方提出严正交涉",
+        "onboard_time": 1762580840,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101113,
+        "num": 101113,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100007,
+        "num": 100007,
+        "word": "鹿晗吃嗨了后打了一套组合拳",
+        "onboard_time": 1762579340,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99171,
+        "num": 99171,
+        "word": "张家齐晋级10米台决赛",
+        "onboard_time": 1762584381,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96549,
+        "num": 96549,
+        "word": "陈芋汐半决赛407C获高分",
+        "onboard_time": 1762579639,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95781,
+        "num": 95781,
+        "word": "保姆称为伺候9旬大爷委屈领证",
+        "onboard_time": 1762579340,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86638,
+        "num": 86638,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85535,
+        "num": 85535,
+        "word": "莆田银河左岸音乐节",
+        "onboard_time": 1762582940,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82592,
+        "num": 82592,
+        "word": "英雄联盟玩家玩抽象",
+        "onboard_time": 1762584201,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82436,
+        "num": 82436,
+        "word": "iPhone17系列国内激活销量",
+        "onboard_time": 1762584080,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80728,
+        "num": 80728,
+        "word": "怪不得长辈都喜欢大方的孩子",
+        "onboard_time": 1762572680,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78769,
+        "num": 78769,
+        "word": "内娱长公主101",
+        "onboard_time": 1762578561,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74458,
+        "num": 74458,
+        "word": "女子推婴儿车堵高铁过道就不让",
+        "onboard_time": 1762577540,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69992,
+        "num": 69992,
+        "word": "全世界都知道龚俊有三不接了",
+        "onboard_time": 1762573401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67706,
+        "num": 67706,
+        "word": "上班和上朝原来是一个意思",
+        "onboard_time": 1762581982,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66724,
+        "num": 66724,
+        "word": "全运会",
+        "onboard_time": 1762581022,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66032,
+        "num": 66032,
+        "word": "十五运会限定版的广东已上线",
+        "onboard_time": 1762584320,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65856,
+        "num": 65856,
+        "word": "湖人赢下万分之一概率",
+        "onboard_time": 1762578739,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62208,
+        "num": 65853,
+        "word": "时代少年团抢票",
+        "onboard_time": 1762575200,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60744,
+        "num": 65843,
+        "word": "体检没毛病5个月后却诊出肾癌",
+        "onboard_time": 1762582040,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 60733,
+        "num": 65840,
+        "word": "唐朝诡事录 熟悉的味道",
+        "onboard_time": 1762583119,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    }
+  }
+}

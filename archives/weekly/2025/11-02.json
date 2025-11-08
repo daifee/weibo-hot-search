@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762583720752,
+  "endTime": 1762584506471,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3315,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 350534,
+      "num": 350534,
+      "word": "唐朝诡事录节奏",
+      "onboard_time": 1762581321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350434,
       "num": 350434,
       "word": "刘亦菲入选亚太最具影响力青年女性",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1762579701,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334810,
+      "num": 177827,
+      "word": "高铁票买到19排但车厢只有17排",
+      "onboard_time": 1762580781,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334158,
@@ -3617,14 +3633,6 @@
       "onboard_time": 1762001481,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319708,
-      "num": 177827,
-      "word": "高铁票买到19排但车厢只有17排",
-      "onboard_time": 1762580781,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319131,
@@ -4953,14 +4961,6 @@
       "onboard_time": 1762148600,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227690,
-      "num": 200328,
-      "word": "唐朝诡事录节奏",
-      "onboard_time": 1762581321,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 226415,
@@ -7203,6 +7203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168959,
+      "num": 168959,
+      "word": "田亮儿子14岁生日照",
+      "onboard_time": 1762579639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168604,
       "num": 168604,
       "word": "陈靖可你小子吃这么好",
@@ -7377,14 +7385,6 @@
       "onboard_time": 1762221200,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166111,
-      "num": 166111,
-      "word": "田亮儿子14岁生日照",
-      "onboard_time": 1762579639,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 166088,
@@ -7729,6 +7729,14 @@
       "onboard_time": 1762252402,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160138,
+      "num": 160138,
+      "word": "迅猛龙自曝不参加恋综的原因",
+      "onboard_time": 1762583299,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 160057,
@@ -10779,14 +10787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123373,
-      "num": 123373,
-      "word": "迅猛龙自曝不参加恋综的原因",
-      "onboard_time": 1762583299,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123242,
       "num": 123242,
       "word": "王心凌回应与吴克群绯闻",
@@ -11321,6 +11321,14 @@
       "onboard_time": 1762265243,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118575,
+      "num": 118575,
+      "word": "2025KPL年总决赛",
+      "onboard_time": 1762584320,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 118518,
@@ -14331,6 +14339,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 99171,
+      "num": 99171,
+      "word": "张家齐晋级10米台决赛",
+      "onboard_time": 1762584381,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99150,
       "num": 99150,
       "word": "洗个车把朋友洗的锃光瓦亮",
@@ -15425,6 +15441,14 @@
       "onboard_time": 1762309100,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93911,
+      "num": 103263,
+      "word": "四喜高嫁如吞针",
+      "onboard_time": 1762581321,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 93905,
@@ -16811,14 +16835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87260,
-      "num": 102063,
-      "word": "四喜高嫁如吞针",
-      "onboard_time": 1762581321,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87242,
       "num": 87242,
       "word": "猫 第一次当妈要求别太高",
@@ -17891,6 +17907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82592,
+      "num": 82592,
+      "word": "英雄联盟玩家玩抽象",
+      "onboard_time": 1762584201,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82552,
       "num": 82552,
       "word": "威少首发26分12板6助攻",
@@ -17905,6 +17929,14 @@
       "onboard_time": 1762441583,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82436,
+      "num": 82436,
+      "word": "iPhone17系列国内激活销量",
+      "onboard_time": 1762584080,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 82432,
@@ -19873,6 +19905,14 @@
       "onboard_time": 1762266201,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66032,
+      "num": 66032,
+      "word": "十五运会限定版的广东已上线",
+      "onboard_time": 1762584320,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 65976,
