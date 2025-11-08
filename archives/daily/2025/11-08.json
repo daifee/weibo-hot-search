@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762572354233,
+  "endTime": 1762573838709,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305165,
+      "num": 305165,
+      "word": "香港一小学允许学生用简体字答题",
+      "onboard_time": 1762570281,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 299925,
       "num": 176949,
       "word": "30岁小伙长期熬夜智力退回3岁",
@@ -217,14 +225,6 @@
       "onboard_time": 1762558458,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247510,
-      "num": 247510,
-      "word": "香港一小学允许学生用简体字答题",
-      "onboard_time": 1762570281,
-      "rank": 5,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 217450,
@@ -267,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211103,
+      "num": 129761,
+      "word": "何超琼曾为向佐赌债乌龙道歉",
+      "onboard_time": 1762571960,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209504,
+      "num": 209504,
+      "word": "新闻女王2的广植入真的笑死我",
+      "onboard_time": 1762570400,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202843,
       "num": 202843,
       "word": "iPhone18系列10大升级",
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191046,
+      "num": 121613,
+      "word": "肖战专辑海报上的摩斯密码是我在",
+      "onboard_time": 1762572621,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189083,
       "num": 118596,
       "word": "洗衣机15分钟快洗确实洗不干净",
@@ -329,6 +353,22 @@
       "onboard_time": 1762528462,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177769,
+      "num": 177769,
+      "word": "北京飞悉尼航班现负43元票价",
+      "onboard_time": 1762571780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177574,
+      "num": 116814,
+      "word": "你好星期六全员秋冬限定款",
+      "onboard_time": 1762573339,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 176413,
@@ -403,14 +443,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 158403,
-      "num": 158403,
-      "word": "新闻女王2的广植入真的笑死我",
-      "onboard_time": 1762570400,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "猪八戒扮演者回应刘大刚去世",
@@ -427,12 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151301,
+      "num": 112610,
+      "word": "怪不得长辈都喜欢大方的孩子",
+      "onboard_time": 1762572680,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149147,
       "num": 149147,
       "word": "梅婷最讨厌的演员行为",
       "onboard_time": 1762524141,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134564,
+      "num": 116301,
+      "word": "全世界都知道龚俊有三不接了",
+      "onboard_time": 1762573401,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 133741,
@@ -451,6 +499,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 132617,
+      "num": 115704,
+      "word": "声鸣远扬总决赛评审官宣",
+      "onboard_time": 1762573161,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130216,
       "num": 208125,
       "word": "开始期待下一艘航母叫啥",
@@ -459,20 +515,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 129761,
-      "num": 129761,
-      "word": "何超琼曾为向佐赌债乌龙道歉",
-      "onboard_time": 1762571960,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127983,
       "num": 155157,
       "word": "明道老婆回应天国的嫁衣售后",
       "onboard_time": 1762567879,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124578,
+      "num": 114112,
+      "word": "14岁的陈思罕",
+      "onboard_time": 1762572560,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 123356,
@@ -515,12 +571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112321,
+      "num": 112321,
+      "word": "迪丽热巴全黑造型",
+      "onboard_time": 1762567819,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111645,
       "num": 111645,
       "word": "马斯克可能真觉得造车没意思了",
       "onboard_time": 1762563619,
       "rank": 29,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 111543,
+      "num": 111543,
+      "word": "文班亚马隔扣杜兰特",
+      "onboard_time": 1762572621,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 111298,
@@ -563,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102751,
-      "num": 107167,
-      "word": "迪丽热巴全黑造型",
-      "onboard_time": 1762567819,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102073,
       "num": 102073,
       "word": "将门毒后选角",
@@ -584,6 +648,14 @@
       "word": "水千丞188男团将影视化",
       "onboard_time": 1762517841,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98928,
+      "num": 113571,
+      "word": "凤凰台上 小枫的婚后生活",
+      "onboard_time": 1762572139,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -619,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91368,
+      "num": 91368,
+      "word": "全运会女子10米跳台",
+      "onboard_time": 1762570759,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90818,
       "num": 90818,
       "word": "张杰演唱会",
@@ -651,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86735,
+      "num": 86735,
+      "word": "哈尔滨一小区内有人遛企鹅",
+      "onboard_time": 1762573401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85745,
+      "num": 85745,
+      "word": "2025KPL年总首发名单",
+      "onboard_time": 1762573099,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85414,
       "num": 85414,
       "word": "沈佳润回应是否割双眼皮",
@@ -665,6 +761,14 @@
       "onboard_time": 1762566740,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84500,
+      "num": 84500,
+      "word": "李施嬅戏里戏外都在再见爱人",
+      "onboard_time": 1762573641,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 84282,
@@ -683,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82353,
+      "num": 82353,
+      "word": "孩子哭闹说妈妈吃太多了",
+      "onboard_time": 1762573641,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82267,
       "num": 82267,
       "word": "白敬亭 顶顶好的人",
@@ -691,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81815,
-      "num": 81815,
-      "word": "凤凰台上 小枫的婚后生活",
-      "onboard_time": 1762572139,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 81176,
+      "num": 81176,
+      "word": "山姆会员忍无可忍了吗",
+      "onboard_time": 1762571420,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80606,
@@ -708,7 +820,7 @@
     },
     {
       "raw_hot": 80038,
-      "num": 80038,
+      "num": 112998,
       "word": "美国真的为稀土着急了",
       "onboard_time": 1762562120,
       "rank": 34,
@@ -731,20 +843,20 @@
       "category": "健康医疗,母婴育儿"
     },
     {
-      "raw_hot": 78886,
-      "num": 78886,
-      "word": "山姆会员忍无可忍了吗",
-      "onboard_time": 1762571420,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77366,
       "num": 107217,
       "word": "空气炸锅烤苹果干",
       "onboard_time": 1762569801,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76918,
+      "num": 76918,
+      "word": "你以为没用的东西最终都会用上",
+      "onboard_time": 1762573760,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 76120,
@@ -761,14 +873,6 @@
       "onboard_time": 1762540694,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74632,
-      "num": 74632,
-      "word": "全运会女子10米跳台",
-      "onboard_time": 1762570759,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 72581,
@@ -804,7 +908,7 @@
     },
     {
       "raw_hot": 70164,
-      "num": 195027,
+      "num": 366510,
       "word": "十五运每日金牌看点",
       "onboard_time": 1762565720,
       "rank": 9,
@@ -904,14 +1008,6 @@
       "word": "中国扇耳光大赛选手仍在治疗",
       "onboard_time": 1762525341,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62760,
-      "num": 135593,
-      "word": "北京飞悉尼航班现负43元票价",
-      "onboard_time": 1762571780,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
