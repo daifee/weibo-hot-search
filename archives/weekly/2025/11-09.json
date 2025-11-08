@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762620281461,
+  "endTime": 1762622472314,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -9,6 +9,14 @@
       "onboard_time": 1762614023,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731496,
+      "num": 731496,
+      "word": "AG奖金",
+      "onboard_time": 1762617441,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 681969,
@@ -48,14 +56,6 @@
       "word": "戈娅FMVP皮肤",
       "onboard_time": 1762613003,
       "rank": 1,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 387536,
-      "num": 387536,
-      "word": "AG奖金",
-      "onboard_time": 1762617441,
-      "rank": 15,
       "category": "电竞"
     },
     {
@@ -179,6 +179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171084,
+      "num": 135999,
+      "word": "易烊千玺回应提名金鸡奖",
+      "onboard_time": 1762619600,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153347,
       "num": 206036,
       "word": "一诺FMVP",
@@ -193,6 +201,14 @@
       "onboard_time": 1762613782,
       "rank": 30,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 146129,
+      "num": 205119,
+      "word": "小胖状态",
+      "onboard_time": 1762615521,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 144876,
@@ -211,12 +227,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135999,
-      "num": 135999,
-      "word": "易烊千玺回应提名金鸡奖",
-      "onboard_time": 1762619600,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 125140,
+      "num": 107442,
+      "word": "鹿晗比脸更该申遗的是这张嘴",
+      "onboard_time": 1762620978,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 120691,
@@ -265,14 +281,6 @@
       "onboard_time": 1762614502,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103870,
-      "num": 205119,
-      "word": "小胖状态",
-      "onboard_time": 1762615521,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 99507,
@@ -331,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83729,
+      "num": 204109,
+      "word": "米哈游 黑色大丽花",
+      "onboard_time": 1762606580,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82865,
       "num": 204143,
       "word": "银河左岸音乐节",
       "onboard_time": 1762615521,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 82849,
-      "num": 204109,
-      "word": "米哈游 黑色大丽花",
-      "onboard_time": 1762606580,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 75097,
@@ -395,6 +403,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57866,
+      "num": 105443,
+      "word": "接孙尚香FMVP",
+      "onboard_time": 1762609102,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 55092,
+      "num": 105378,
+      "word": "于文文音乐节",
+      "onboard_time": 1762621218,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45073,
       "num": 203605,
       "word": "螺蛳粉店名 陆丝芬",
@@ -408,6 +432,14 @@
       "word": "第十五届全运会",
       "onboard_time": 1762612583,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33088,
+      "num": 105237,
+      "word": "陈芋汐全运会倒立俯卧撑",
+      "onboard_time": 1762608321,
+      "rank": 48,
       "category": "体育"
     },
     {

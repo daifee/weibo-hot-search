@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 00:44:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 01:21:12
 </p>
 </blockquote>
 <p>
@@ -923,6 +923,12 @@ hi6收视新高（热度：736437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89%23" target="weibo">
 唐朝诡事录之长安（热度：733985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E5%A5%96%E9%87%91%23" target="weibo">
+AG奖金（热度：731496）
 </a>
 </li>
 
@@ -2639,12 +2645,6 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E6%9B%B4%E5%90%8D%23" target="weibo">
 人民咖啡馆更名（热度：387929）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AG%E5%A5%96%E9%87%91%23" target="weibo">
-AG奖金（热度：387536）
 </a>
 </li>
 
