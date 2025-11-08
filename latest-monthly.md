@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 13:25:32
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 13:41:21
 </p>
 </blockquote>
 <p>
@@ -2091,6 +2091,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
+丑死了但是想下单（热度：440575）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D%20%E6%92%A4%E6%A1%A3%23" target="weibo">
 唐嫣爱情没有神话 撤档（热度：440325）
 </a>
@@ -3039,6 +3045,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
+陈芋汐407C失误（热度：320218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DHLE%E6%9B%BE%E6%83%B3%E7%AD%BE%E4%B8%8BBin%23" target="weibo">
 曝HLE曾想签下Bin（热度：319131）
 </a>
@@ -3537,12 +3549,6 @@ T1战胜AL（热度：279371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
-陈芋汐407C失误（热度：278122）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%9B%BD%E7%A6%8F%E5%9B%9E%E5%BA%941%E6%96%A4%E8%B1%86%E8%8A%BD28%E5%85%83%23" target="weibo">
 杨国福回应1斤豆芽28元（热度：276944）
 </a>
@@ -3761,6 +3767,12 @@ T1战胜AL（热度：279371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Cat%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%BD%92%E8%B5%9B%E5%9C%BA%23" target="weibo">
 Cat即将回归赛场（热度：259607）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%91%98%E5%B7%A5%E6%85%A2%E5%8A%A8%E4%BD%9C%E6%93%8D%E4%BD%9C%E6%8C%BD%E6%8D%9F18%E4%B8%87%23" target="weibo">
+金店员工慢动作操作挽损18万（热度：258842）
 </a>
 </li>
 
@@ -4173,6 +4185,12 @@ Doinb谈Uzi（热度：231537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Peanut%E8%AF%B4LPL%E6%98%8E%E5%B9%B4%E5%A4%BA%E5%86%A0%E4%BA%86%23" target="weibo">
+Peanut说LPL明年夺冠了（热度：229229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A7%E5%85%8B%E5%8A%9B%20%E5%AD%9F%E5%AD%90%E4%B9%89%E5%AB%A1%E9%95%BF%E7%8B%97%23" target="weibo">
 巧克力 孟子义嫡长狗（热度：229110）
 </a>
@@ -4551,12 +4569,6 @@ A勒布伦惊天逆转张本智和（热度：217137）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%91%98%E5%B7%A5%E6%85%A2%E5%8A%A8%E4%BD%9C%E6%93%8D%E4%BD%9C%E6%8C%BD%E6%8D%9F18%E4%B8%87%23" target="weibo">
-金店员工慢动作操作挽损18万（热度：213319）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E8%A2%AB%E5%BC%80%E6%8B%93%E8%80%85DNP%23" target="weibo">
 杨瀚森首次被开拓者DNP（热度：213106）
 </a>
@@ -4623,6 +4635,12 @@ Uzi离开场馆（热度：211416）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E4%B8%89%E5%B1%82%E7%A9%BF%E8%A1%A3%E6%B3%95%E7%9A%84%E4%BA%BA%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
+发明三层穿衣法的人是天才（热度：210405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B05%E4%B8%AA%E7%97%87%E7%8A%B6%E8%AF%B4%E6%98%8E%E8%A1%80%E7%B3%96%E9%AB%98%E4%BA%86%23" target="weibo">
 出现5个症状说明血糖高了（热度：210344）
 </a>
@@ -4661,12 +4679,6 @@ Uzi离开场馆（热度：211416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%8D%E5%87%BA%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7%23" target="weibo">
 全红婵复出首战告捷（热度：209397）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
-丑死了但是想下单（热度：209199）
 </a>
 </li>
 
@@ -4871,6 +4883,12 @@ Ruler回应败给KT（热度：203278）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9B%9E%E5%9B%BD%23" target="weibo">
 王一博新西兰回国（热度：203209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E6%A0%B8%E6%9F%A5%E7%BD%91%E7%BA%A2%E6%95%99%E5%94%86%E5%90%B8%E6%AF%92%E4%BA%8B%E4%BB%B6%23" target="weibo">
+杭州警方核查网红教唆吸毒事件（热度：203099）
 </a>
 </li>
 
@@ -5183,6 +5201,12 @@ Gumayusi回应淘汰AL（热度：201128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A23%E5%AE%98%E5%AE%A3%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%96%B0%E8%BA%AB%E4%BB%BD%23" target="weibo">
 惊天魔盗团3官宣黄子弘凡新身份（热度：193764）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
+将门毒后（热度：193713）
 </a>
 </li>
 
@@ -5595,12 +5619,6 @@ A股（热度：186226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Peanut%E8%AF%B4LPL%E6%98%8E%E5%B9%B4%E5%A4%BA%E5%86%A0%E4%BA%86%23" target="weibo">
-Peanut说LPL明年夺冠了（热度：184556）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E6%94%B9%E5%96%84%E7%9C%BC%E5%87%B8%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 高度近视改善眼凸的方法（热度：184490）
 </a>
@@ -5993,24 +6011,6 @@ Uzi心中最强AD是Ruler（热度：177557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%80%E5%B9%B4%E6%92%AD%E4%B8%89%E5%89%A7%E4%BA%86%23" target="weibo">
 白鹿不是第一次一年播三剧了（热度：173591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AL%E7%88%B1%E7%AC%91%E8%B0%88%E9%98%9F%E5%91%98%E7%BB%AD%E7%BA%A6%23" target="weibo">
-AL爱笑谈队员续约（热度：173578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%AE%8B%E8%8C%9C%20%E7%88%B8%E5%A6%88%E6%88%91%E5%87%BA%E7%94%9F%E4%BA%86%23" target="weibo">
-丁禹兮宋茜 爸妈我出生了（热度：173306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%97%A5%E6%8E%9B%E4%B8%AD%E5%A4%A9%23" target="weibo">
-电影日掛中天（热度：172932）
 </a>
 </li>
 

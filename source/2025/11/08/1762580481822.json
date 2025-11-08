@@ -1,0 +1,410 @@
+{
+  "runTime": 1762580481822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993445,
+        "num": 1158951,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343136,
+        "num": 343136,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26670,
+        "num": 322385,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489712,
+        "num": 321942,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320218,
+        "num": 320218,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275483,
+        "num": 210225,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203099,
+        "num": 203099,
+        "word": "杭州警方核查网红教唆吸毒事件",
+        "onboard_time": 1762577840,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184806,
+        "num": 184806,
+        "word": "香港一小学允许学生用简体字答题",
+        "onboard_time": 1762570281,
+        "rank": 8,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 182870,
+        "word": "北京飞悉尼航班现负43元票价",
+        "onboard_time": 1762571780,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542391,
+        "num": 182084,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440575,
+        "num": 179525,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384429,
+        "num": 177624,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258842,
+        "num": 174259,
+        "word": "金店员工慢动作操作挽损18万",
+        "onboard_time": 1762577241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229229,
+        "num": 171768,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198758,
+        "num": 171041,
+        "word": "怪不得长辈都喜欢大方的孩子",
+        "onboard_time": 1762572680,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193713,
+        "num": 168616,
+        "word": "将门毒后",
+        "onboard_time": 1762578860,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167070,
+        "num": 167070,
+        "word": "全世界都知道龚俊有三不接了",
+        "onboard_time": 1762573401,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155070,
+        "num": 155070,
+        "word": "孟子义疯狂好六夜cos阿精",
+        "onboard_time": 1762577300,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154276,
+        "num": 154276,
+        "word": "时代少年团抢票",
+        "onboard_time": 1762575200,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 573439,
+        "num": 153736,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210405,
+        "num": 153555,
+        "word": "发明三层穿衣法的人是天才",
+        "onboard_time": 1762579219,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167616,
+        "num": 152289,
+        "word": "鹿晗吃嗨了后打了一套组合拳",
+        "onboard_time": 1762579340,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147881,
+        "num": 147881,
+        "word": "田亮儿子14岁生日照",
+        "onboard_time": 1762579639,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145041,
+        "num": 145041,
+        "word": "沈腾 现在蹭王安宇流量",
+        "onboard_time": 1762579701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161563,
+        "num": 141589,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125341,
+        "num": 125341,
+        "word": "朱珠白开水妆",
+        "onboard_time": 1762579159,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114714,
+        "num": 114714,
+        "word": "彭小苒双剧联播含金量",
+        "onboard_time": 1762579639,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31843,
+        "num": 114705,
+        "word": "美国真的为稀土着急了",
+        "onboard_time": 1762562120,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105222,
+        "num": 114316,
+        "word": "全运会孙颖莎王艺迪对练",
+        "onboard_time": 1762579460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30486,
+        "num": 113964,
+        "word": "孙颖莎冬日温暖派送中",
+        "onboard_time": 1762574841,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122975,
+        "num": 113580,
+        "word": "陈芋汐半决赛407C获高分",
+        "onboard_time": 1762579639,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113391,
+        "num": 113391,
+        "word": "保姆称为伺候9旬大爷委屈领证",
+        "onboard_time": 1762579340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113017,
+        "num": 113017,
+        "word": "女子推婴儿车堵高铁过道就不让",
+        "onboard_time": 1762577540,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111589,
+        "num": 111589,
+        "word": "内娱长公主101",
+        "onboard_time": 1762578561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98412,
+        "num": 98412,
+        "word": "崩坏星穹铁道黑色大丽花",
+        "onboard_time": 1762574721,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95100,
+        "num": 95100,
+        "word": "女生回应2次考研失败上青岛技校",
+        "onboard_time": 1762576699,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94718,
+        "num": 94718,
+        "word": "梁婷为辛芷蕾发声",
+        "onboard_time": 1762564159,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91361,
+        "num": 91361,
+        "word": "Uzi解说S15决赛",
+        "onboard_time": 1762577420,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91206,
+        "num": 91206,
+        "word": "哈尔滨一小区内有人遛企鹅",
+        "onboard_time": 1762573401,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91012,
+        "num": 91012,
+        "word": "刘宇宁黄明昊我都笑纳了",
+        "onboard_time": 1762579940,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90628,
+        "num": 90628,
+        "word": "花儿与少年",
+        "onboard_time": 1762578261,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86738,
+        "num": 89854,
+        "word": "第一批主理人已经再就业",
+        "onboard_time": 1762578261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89697,
+        "num": 89697,
+        "word": "湖人赢下万分之一概率",
+        "onboard_time": 1762578739,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89494,
+        "num": 89494,
+        "word": "山姆会员忍无可忍了吗",
+        "onboard_time": 1762571420,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87732,
+        "num": 87732,
+        "word": "Meta去年靠诈骗广告赚1140亿",
+        "onboard_time": 1762577540,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82203,
+        "num": 82203,
+        "word": "四部男主剧对打谁赢了",
+        "onboard_time": 1762577959,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81704,
+        "num": 81704,
+        "word": "陈芋汐10米台预赛第一",
+        "onboard_time": 1762579880,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80386,
+        "num": 80386,
+        "word": "杨瀚森超远三分神奇命中",
+        "onboard_time": 1762567278,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东省梅州市考察调研#"
+    }
+  }
+}

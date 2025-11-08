@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762579532220,
+  "endTime": 1762580481822,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440575,
+      "num": 209199,
+      "word": "丑死了但是想下单",
+      "onboard_time": 1762578801,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407533,
       "num": 407533,
       "word": "被欠物业费1200万物业退出不干了",
@@ -211,6 +219,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 320218,
+      "num": 320218,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310786,
       "num": 175255,
       "word": "时代少年团抢票",
@@ -267,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278122,
-      "num": 167092,
-      "word": "陈芋汐407C失误",
-      "onboard_time": 1762575560,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 258842,
+      "num": 209549,
+      "word": "金店员工慢动作操作挽损18万",
+      "onboard_time": 1762577241,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250656,
@@ -281,6 +297,14 @@
       "onboard_time": 1762571960,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229229,
+      "num": 184556,
+      "word": "Peanut说LPL明年夺冠了",
+      "onboard_time": 1762577900,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 217450,
@@ -307,14 +331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 213319,
-      "num": 209549,
-      "word": "金店员工慢动作操作挽损18万",
-      "onboard_time": 1762577241,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213046,
       "num": 172419,
       "word": "婚后三年不孕女子查出男性染色体",
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210405,
+      "num": 153555,
+      "word": "发明三层穿衣法的人是天才",
+      "onboard_time": 1762579219,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 209504,
       "num": 209504,
       "word": "新闻女王2的广植入真的笑死我",
@@ -339,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209199,
-      "num": 209199,
-      "word": "丑死了但是想下单",
-      "onboard_time": 1762578801,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 203099,
+      "num": 203099,
+      "word": "杭州警方核查网红教唆吸毒事件",
+      "onboard_time": 1762577840,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202843,
@@ -369,6 +393,14 @@
       "onboard_time": 1762561939,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193713,
+      "num": 168616,
+      "word": "将门毒后",
+      "onboard_time": 1762578860,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192725,
@@ -425,14 +457,6 @@
       "onboard_time": 1762528462,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184556,
-      "num": 184556,
-      "word": "Peanut说LPL明年夺冠了",
-      "onboard_time": 1762577900,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 177769,
@@ -507,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167616,
+      "num": 152289,
+      "word": "鹿晗吃嗨了后打了一套组合拳",
+      "onboard_time": 1762579340,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "现在就出发",
@@ -563,11 +595,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147881,
+      "num": 147881,
+      "word": "田亮儿子14岁生日照",
+      "onboard_time": 1762579639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "徐志胜让8个顶流歌手没招了",
       "onboard_time": 1762573940,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145041,
+      "num": 145041,
+      "word": "沈腾 现在蹭王安宇流量",
+      "onboard_time": 1762579701,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -577,14 +625,6 @@
       "onboard_time": 1762573401,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137807,
-      "num": 137807,
-      "word": "发明三层穿衣法的人是天才",
-      "onboard_time": 1762579219,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 133741,
@@ -651,20 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127679,
-      "num": 127679,
-      "word": "鹿晗吃嗨了后打了一套组合拳",
-      "onboard_time": 1762579340,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126713,
       "num": 101417,
       "word": "关晓彤说自己有事业心",
       "onboard_time": 1762575080,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125341,
+      "num": 125341,
+      "word": "朱珠白开水妆",
+      "onboard_time": 1762579159,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 124578,
@@ -683,19 +723,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 123323,
-      "num": 123323,
-      "word": "杭州警方核查网红教唆吸毒事件",
-      "onboard_time": 1762577840,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123237,
       "num": 142939,
       "word": "孙颖莎冬日温暖派送中",
       "onboard_time": 1762574841,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122975,
+      "num": 113580,
+      "word": "陈芋汐半决赛407C获高分",
+      "onboard_time": 1762579639,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -723,14 +763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119437,
-      "num": 123691,
-      "word": "将门毒后",
-      "onboard_time": 1762578860,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119247,
       "num": 119247,
       "word": "女生买衣服好看的定律",
@@ -747,12 +779,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114714,
+      "num": 114714,
+      "word": "彭小苒双剧联播含金量",
+      "onboard_time": 1762579639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113596,
       "num": 113596,
       "word": "内娱长公主101",
       "onboard_time": 1762578561,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113391,
+      "num": 113391,
+      "word": "保姆称为伺候9旬大爷委屈领证",
+      "onboard_time": 1762579340,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112321,
@@ -801,14 +849,6 @@
       "onboard_time": 1762571420,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108738,
-      "num": 108738,
-      "word": "朱珠白开水妆",
-      "onboard_time": 1762579159,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 107478,
@@ -963,20 +1003,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93643,
-      "num": 93643,
-      "word": "保姆称为伺候9旬大爷委屈领证",
-      "onboard_time": 1762579340,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93159,
       "num": 115369,
       "word": "声鸣远扬",
       "onboard_time": 1762570460,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91361,
+      "num": 91361,
+      "word": "Uzi解说S15决赛",
+      "onboard_time": 1762577420,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 91012,
+      "num": 91012,
+      "word": "刘宇宁黄明昊我都笑纳了",
+      "onboard_time": 1762579940,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 90818,
@@ -1115,6 +1163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82203,
+      "num": 94389,
+      "word": "四部男主剧对打谁赢了",
+      "onboard_time": 1762577959,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81704,
+      "num": 81704,
+      "word": "陈芋汐10米台预赛第一",
+      "onboard_time": 1762579880,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81262,
       "num": 81262,
       "word": "黄明昊新剧想要占有姐姐",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1762533378,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75562,
-      "num": 94389,
-      "word": "四部男主剧对打谁赢了",
-      "onboard_time": 1762577959,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 75365,
