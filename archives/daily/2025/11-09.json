@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762644181385,
+  "endTime": 1762645001516,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237228,
+      "num": 847956,
+      "word": "小胖状态",
+      "onboard_time": 1762615521,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224720,
       "num": 224720,
       "word": "唐朝诡事录热度",
@@ -171,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195119,
-      "num": 739339,
-      "word": "小胖状态",
-      "onboard_time": 1762615521,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176725,
       "num": 206821,
       "word": "一诺这是我们的时代",
@@ -193,6 +193,14 @@
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165953,
+      "num": 62617,
+      "word": "终于知道她为什么叫靓靓了",
+      "onboard_time": 1762643176,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 157179,
@@ -243,7 +251,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114273,
+      "raw_hot": 118766,
       "num": 205227,
       "word": "75岁刘晓庆喊姥姥结果对方才74岁",
       "onboard_time": 1762613303,
@@ -355,12 +363,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86249,
+      "num": 70922,
+      "word": "医生眼中无意识变胖的行为",
+      "onboard_time": 1762643536,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 82865,
       "num": 204143,
       "word": "银河左岸音乐节",
       "onboard_time": 1762615521,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78167,
+      "num": 205581,
+      "word": "福建舰为什么被子不叠豆腐块",
+      "onboard_time": 1762597881,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75097,
@@ -379,22 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71694,
-      "num": 205581,
-      "word": "福建舰为什么被子不叠豆腐块",
-      "onboard_time": 1762597881,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 69347,
-      "num": 42965,
-      "word": "终于知道她为什么叫靓靓了",
-      "onboard_time": 1762643176,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67928,
       "num": 204639,
       "word": "十五运会乒乓球桌号确定",
@@ -403,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60710,
-      "num": 42708,
-      "word": "医生眼中无意识变胖的行为",
-      "onboard_time": 1762643536,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 60494,
+      "num": 60494,
+      "word": "孙颖莎让何卓佳练到晚上七点",
+      "onboard_time": 1762643475,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 59456,
@@ -417,6 +425,14 @@
       "onboard_time": 1762614922,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59213,
+      "num": 59213,
+      "word": "福建舰入列让世界开始抄作业",
+      "onboard_time": 1762643475,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59212,
@@ -435,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56594,
+      "num": 81991,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -443,20 +467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52379,
+      "num": 52379,
+      "word": "迪丽热巴檀健次清唱海芋恋",
+      "onboard_time": 1762643536,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49121,
+      "num": 63635,
+      "word": "四喜老公没了婆婆老实了",
+      "onboard_time": 1762609462,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47838,
-      "num": 42515,
+      "num": 46596,
       "word": "加拿大严打印度留学签",
       "onboard_time": 1762638674,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 47778,
-      "num": 47778,
-      "word": "孙颖莎让何卓佳练到晚上七点",
-      "onboard_time": 1762643475,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 45073,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44930,
+      "num": 44930,
+      "word": "步惊云因为大笑双眼皮埋的线崩了",
+      "onboard_time": 1762639513,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43070,
       "num": 357075,
       "word": "第十五届全运会",
@@ -475,20 +515,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42492,
-      "num": 81991,
-      "word": "唐朝诡事录3首播反馈",
-      "onboard_time": 1762607841,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 41673,
+      "num": 41673,
+      "word": "乾隆南巡为何住海宁陈家",
+      "onboard_time": 1762644316,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
-      "raw_hot": 41393,
-      "num": 43267,
-      "word": "福建舰入列让世界开始抄作业",
-      "onboard_time": 1762643475,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 41249,
+      "num": 42243,
+      "word": "女子回应遭陌生男子搭讪并留下丝袜",
+      "onboard_time": 1762644019,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40453,
+      "num": 48891,
+      "word": "68岁潘长江演短剧10天2亿播放量",
+      "onboard_time": 1762630394,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 40385,
@@ -499,12 +547,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39754,
-      "num": 42257,
-      "word": "步惊云因为大笑双眼皮埋的线崩了",
-      "onboard_time": 1762639513,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 40340,
+      "num": 42246,
+      "word": "刘宇宁有在认真过冬天",
+      "onboard_time": 1762643356,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38233,
+      "num": 105237,
+      "word": "陈芋汐全运会倒立俯卧撑",
+      "onboard_time": 1762608321,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36317,
+      "num": 42253,
+      "word": "台风凤凰快速逼近",
+      "onboard_time": 1762641915,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 35582,
@@ -515,12 +579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34080,
-      "num": 42256,
-      "word": "迪丽热巴檀健次清唱海芋恋",
-      "onboard_time": 1762643536,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 34789,
+      "num": 42246,
+      "word": "熬夜是胃癌的高危因素",
+      "onboard_time": 1762643777,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33455,
@@ -529,30 +593,6 @@
       "onboard_time": 1762640534,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 33088,
-      "num": 105237,
-      "word": "陈芋汐全运会倒立俯卧撑",
-      "onboard_time": 1762608321,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32956,
-      "num": 42253,
-      "word": "台风凤凰快速逼近",
-      "onboard_time": 1762641915,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 32580,
-      "num": 42251,
-      "word": "68岁潘长江演短剧10天2亿播放量",
-      "onboard_time": 1762630394,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 32426,
@@ -569,30 +609,6 @@
       "onboard_time": 1762643596,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30469,
-      "num": 42246,
-      "word": "刘宇宁有在认真过冬天",
-      "onboard_time": 1762643356,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 29589,
-      "num": 42246,
-      "word": "熬夜是胃癌的高危因素",
-      "onboard_time": 1762643777,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28553,
-      "num": 42243,
-      "word": "女子回应遭陌生男子搭讪并留下丝袜",
-      "onboard_time": 1762644019,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27173,
