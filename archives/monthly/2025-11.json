@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762627583079,
+  "endTime": 1762629625758,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -28795,6 +28795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 17236,
+      "num": 43513,
+      "word": "刘宇宁新歌若没有你",
+      "onboard_time": 1762629434,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 17212,
       "num": 106233,
       "word": "这部剧不能让秦海璐刷到",
@@ -28907,6 +28915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14710,
+      "num": 49908,
+      "word": "2025f1圣保罗大奖赛",
+      "onboard_time": 1762624096,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14555,
       "num": 27629,
       "word": "人生路上",
@@ -28929,14 +28945,6 @@
       "onboard_time": 1762454534,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14168,
-      "num": 49908,
-      "word": "2025f1圣保罗大奖赛",
-      "onboard_time": 1762624096,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 14039,
