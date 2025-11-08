@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762573838709,
+  "endTime": 1762576197500,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 149071,
+      "num": 154942,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -3419,6 +3419,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 367367,
+      "num": 175285,
+      "word": "全世界都知道龚俊有三不接了",
+      "onboard_time": 1762573401,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367112,
       "num": 98192,
       "word": "舒淇冯德伦真夫妻就是好嗑",
@@ -3987,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322751,
+      "num": 322751,
+      "word": "香港一小学允许学生用简体字答题",
+      "onboard_time": 1762570281,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 321450,
       "num": 504240,
       "word": "佛山一私房菜馆被曝宰杀活猫",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1762491921,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310786,
+      "num": 175255,
+      "word": "时代少年团抢票",
+      "onboard_time": 1762575200,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 310623,
@@ -4193,14 +4217,6 @@
       "onboard_time": 1762133300,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305165,
-      "num": 305165,
-      "word": "香港一小学允许学生用简体字答题",
-      "onboard_time": 1762570281,
-      "rank": 5,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 304882,
@@ -5107,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250656,
+      "num": 152838,
+      "word": "何超琼曾为向佐赌债乌龙道歉",
+      "onboard_time": 1762571960,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249976,
       "num": 249976,
       "word": "狼队对战WB",
@@ -5995,6 +6019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213111,
+      "num": 175185,
+      "word": "怪不得长辈都喜欢大方的孩子",
+      "onboard_time": 1762572680,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213106,
       "num": 213106,
       "word": "杨瀚森首次被开拓者DNP",
@@ -6065,14 +6097,6 @@
       "onboard_time": 1762077801,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211103,
-      "num": 129761,
-      "word": "何超琼曾为向佐赌债乌龙道歉",
-      "onboard_time": 1762571960,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 211031,
@@ -8283,6 +8307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167182,
+      "num": 167182,
+      "word": "刘亦菲仿妆团播",
+      "onboard_time": 1762574841,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167022,
       "num": 167022,
       "word": "内娱开发演员王俊凯这事别停啊",
@@ -9459,14 +9491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151301,
-      "num": 112610,
-      "word": "怪不得长辈都喜欢大方的孩子",
-      "onboard_time": 1762572680,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151250,
       "num": 161045,
       "word": "孙乐言首次来offer",
@@ -9969,6 +9993,14 @@
       "onboard_time": 1762160181,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145817,
+      "num": 145817,
+      "word": "徐志胜让8个顶流歌手没招了",
+      "onboard_time": 1762573940,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 145459,
@@ -10995,6 +11027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "哈尔滨一小区内有人遛企鹅",
+      "onboard_time": 1762573401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "369谈LPL与LCK差距",
@@ -11105,14 +11145,6 @@
       "onboard_time": 1762262483,
       "rank": 35,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 134564,
-      "num": 116301,
-      "word": "全世界都知道龚俊有三不接了",
-      "onboard_time": 1762573401,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 134559,
@@ -12027,6 +12059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126713,
+      "num": 101417,
+      "word": "关晓彤说自己有事业心",
+      "onboard_time": 1762575080,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126503,
       "num": 192840,
       "word": "请回答1988播出十周年",
@@ -12473,6 +12513,14 @@
       "onboard_time": 1762339701,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123237,
+      "num": 123237,
+      "word": "孙颖莎冬日温暖派送中",
+      "onboard_time": 1762574841,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 123235,
@@ -15435,6 +15483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104120,
+      "num": 117498,
+      "word": "暗河传",
+      "onboard_time": 1761930138,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104066,
       "num": 104066,
       "word": "樊振东的FZD小巧思",
@@ -15803,14 +15859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102519,
-      "num": 117498,
-      "word": "暗河传",
-      "onboard_time": 1761930138,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102514,
       "num": 137007,
       "word": "水库放生猫多只落水已救起3只",
@@ -16017,6 +16065,14 @@
       "onboard_time": 1762386680,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101357,
+      "num": 101357,
+      "word": "崩坏星穹铁道黑色大丽花",
+      "onboard_time": 1762574721,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 101276,
@@ -16425,6 +16481,14 @@
       "onboard_time": 1762263262,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99151,
+      "num": 99151,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 99150,
@@ -16963,6 +17027,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 97193,
+      "num": 154966,
+      "word": "美团今天半价真的假的",
+      "onboard_time": 1762574841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97179,
       "num": 97179,
       "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
@@ -17267,6 +17339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95626,
+      "num": 95626,
+      "word": "原配与第三者起冲突8年后再被刑拘",
+      "onboard_time": 1762574300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95604,
       "num": 95604,
       "word": "369尽力了",
@@ -17361,6 +17441,14 @@
       "onboard_time": 1762387460,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95172,
+      "num": 95172,
+      "word": "全运会女子10米跳台",
+      "onboard_time": 1762570759,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 95170,
@@ -18211,14 +18299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91368,
-      "num": 91368,
-      "word": "全运会女子10米跳台",
-      "onboard_time": 1762570759,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91308,
       "num": 91308,
       "word": "当你兄弟陪你去看中医",
@@ -18705,6 +18785,14 @@
       "onboard_time": 1761922284,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89417,
+      "num": 89417,
+      "word": "山姆会员忍无可忍了吗",
+      "onboard_time": 1762571420,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89305,
@@ -19291,14 +19379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86735,
-      "num": 86735,
-      "word": "哈尔滨一小区内有人遛企鹅",
-      "onboard_time": 1762573401,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86710,
       "num": 121570,
       "word": "冬日就是要出色",
@@ -19353,6 +19433,14 @@
       "onboard_time": 1761990561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86574,
+      "num": 86574,
+      "word": "米卡不是居然人竟然人的原因",
+      "onboard_time": 1762576099,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 86558,
@@ -19971,6 +20059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84084,
+      "num": 84084,
+      "word": "勇士vs掘金",
+      "onboard_time": 1762575980,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84068,
       "num": 84068,
       "word": "威少说掘金不想让他留队",
@@ -20507,19 +20603,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81262,
+      "num": 81262,
+      "word": "黄明昊新剧想要占有姐姐",
+      "onboard_time": 1762575381,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81246,
       "num": 174092,
       "word": "手腕上的中医真的来了",
       "onboard_time": 1762506981,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81176,
-      "num": 81176,
-      "word": "山姆会员忍无可忍了吗",
-      "onboard_time": 1762571420,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -21425,6 +21521,14 @@
       "onboard_time": 1762503080,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75682,
+      "num": 154947,
+      "word": "少林老外体验小米17背屏",
+      "onboard_time": 1762574841,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 75595,
@@ -23915,6 +24019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48994,
+      "num": 95357,
+      "word": "刘宇宁那朵花",
+      "onboard_time": 1762574300,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48852,
       "num": 80281,
       "word": "南大学子发文回应帝王蟹事件",
@@ -24657,6 +24769,14 @@
       "onboard_time": 1762053200,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37684,
+      "num": 175157,
+      "word": "慢跑是感受北京秋天最好的方式",
+      "onboard_time": 1762574480,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 37562,

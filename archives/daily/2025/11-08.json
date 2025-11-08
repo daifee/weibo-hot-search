@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762573838709,
+  "endTime": 1762576197500,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 149071,
+      "num": 154942,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426607,
+      "num": 339001,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1762558458,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407533,
       "num": 407533,
       "word": "被欠物业费1200万物业退出不干了",
@@ -155,6 +163,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 367367,
+      "num": 175285,
+      "word": "全世界都知道龚俊有三不接了",
+      "onboard_time": 1762573401,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351458,
       "num": 186286,
       "word": "女子出差睡梦中遭裸男猥亵",
@@ -179,20 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322751,
+      "num": 322751,
+      "word": "香港一小学允许学生用简体字答题",
+      "onboard_time": 1762570281,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 310786,
+      "num": 175255,
+      "word": "时代少年团抢票",
+      "onboard_time": 1762575200,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 307586,
       "num": 180018,
       "word": "杜若溪被公司告诫和偶像恋爱是灭顶之灾",
       "onboard_time": 1762569620,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305165,
-      "num": 305165,
-      "word": "香港一小学允许学生用简体字答题",
-      "onboard_time": 1762570281,
-      "rank": 5,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 299925,
@@ -219,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269605,
-      "num": 237693,
-      "word": "唐朝诡事录之长安",
-      "onboard_time": 1762558458,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 250656,
+      "num": 152838,
+      "word": "何超琼曾为向佐赌债乌龙道歉",
+      "onboard_time": 1762571960,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 217450,
@@ -251,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 213111,
+      "num": 175185,
+      "word": "怪不得长辈都喜欢大方的孩子",
+      "onboard_time": 1762572680,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213046,
       "num": 172419,
       "word": "婚后三年不孕女子查出男性染色体",
@@ -264,14 +296,6 @@
       "word": "曝某女星采访到一半崩溃大哭",
       "onboard_time": 1762505900,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 211103,
-      "num": 129761,
-      "word": "何超琼曾为向佐赌债乌龙道歉",
-      "onboard_time": 1762571960,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -419,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167182,
+      "num": 167182,
+      "word": "刘亦菲仿妆团播",
+      "onboard_time": 1762574841,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165434,
       "num": 165434,
       "word": "属于冬天的情绪价值",
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151301,
-      "num": 112610,
-      "word": "怪不得长辈都喜欢大方的孩子",
-      "onboard_time": 1762572680,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149147,
       "num": 149147,
       "word": "梅婷最讨厌的演员行为",
@@ -475,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134564,
-      "num": 116301,
-      "word": "全世界都知道龚俊有三不接了",
-      "onboard_time": 1762573401,
+      "raw_hot": 145817,
+      "num": 145817,
+      "word": "徐志胜让8个顶流歌手没招了",
+      "onboard_time": 1762573940,
       "rank": 23,
-      "category": "剧集"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "哈尔滨一小区内有人遛企鹅",
+      "onboard_time": 1762573401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133741,
@@ -523,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126713,
+      "num": 101417,
+      "word": "关晓彤说自己有事业心",
+      "onboard_time": 1762575080,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124578,
       "num": 114112,
       "word": "14岁的陈思罕",
@@ -537,6 +577,14 @@
       "onboard_time": 1762519279,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123237,
+      "num": 123237,
+      "word": "孙颖莎冬日温暖派送中",
+      "onboard_time": 1762574841,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 121562,
@@ -627,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104120,
+      "num": 104120,
+      "word": "暗河传",
+      "onboard_time": 1762574001,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103058,
       "num": 103058,
       "word": "徐若晗郭宇欣玉簟秋同框了",
@@ -643,12 +699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101357,
+      "num": 101357,
+      "word": "崩坏星穹铁道黑色大丽花",
+      "onboard_time": 1762574721,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100528,
       "num": 100528,
       "word": "水千丞188男团将影视化",
       "onboard_time": 1762517841,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99151,
+      "num": 99151,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 98928,
@@ -667,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97193,
+      "num": 154966,
+      "word": "美团今天半价真的假的",
+      "onboard_time": 1762574841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96840,
       "num": 107409,
       "word": "高市早苗凌晨三点上班",
@@ -683,20 +763,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95626,
+      "num": 95626,
+      "word": "原配与第三者起冲突8年后再被刑拘",
+      "onboard_time": 1762574300,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95172,
+      "num": 95172,
+      "word": "全运会女子10米跳台",
+      "onboard_time": 1762570759,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93804,
+      "num": 93804,
+      "word": "现在就出发",
+      "onboard_time": 1762575860,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93159,
       "num": 115369,
       "word": "声鸣远扬",
       "onboard_time": 1762570460,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91368,
-      "num": 91368,
-      "word": "全运会女子10米跳台",
-      "onboard_time": 1762570759,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 90818,
@@ -715,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89417,
+      "num": 89417,
+      "word": "山姆会员忍无可忍了吗",
+      "onboard_time": 1762571420,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89200,
       "num": 89200,
       "word": "14岁初中生作文看哭全网本人回应",
@@ -731,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86735,
-      "num": 86735,
-      "word": "哈尔滨一小区内有人遛企鹅",
-      "onboard_time": 1762573401,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 86574,
+      "num": 86574,
+      "word": "米卡不是居然人竟然人的原因",
+      "onboard_time": 1762576099,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 85745,
@@ -779,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84084,
+      "num": 84084,
+      "word": "勇士vs掘金",
+      "onboard_time": 1762575980,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83397,
       "num": 119041,
       "word": "钟睒睒771亿美元身家登顶内地富豪榜",
@@ -803,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81176,
-      "num": 81176,
-      "word": "山姆会员忍无可忍了吗",
-      "onboard_time": 1762571420,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 81262,
+      "num": 81262,
+      "word": "黄明昊新剧想要占有姐姐",
+      "onboard_time": 1762575381,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 80606,
@@ -865,6 +977,14 @@
       "onboard_time": 1762533378,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75682,
+      "num": 154947,
+      "word": "少林老外体验小米17背屏",
+      "onboard_time": 1762574841,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 75195,
@@ -1091,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48994,
+      "num": 95357,
+      "word": "刘宇宁那朵花",
+      "onboard_time": 1762574300,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47833,
       "num": 41891,
       "word": "王源生日晒照",
@@ -1129,6 +1257,14 @@
       "onboard_time": 1762533378,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37684,
+      "num": 175157,
+      "word": "慢跑是感受北京秋天最好的方式",
+      "onboard_time": 1762574480,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 36834,
