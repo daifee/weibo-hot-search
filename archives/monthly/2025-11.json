@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762619416269,
+  "endTime": 1762620281461,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3507,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387536,
+      "num": 387536,
+      "word": "AG奖金",
+      "onboard_time": 1762617441,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 387505,
       "num": 194454,
       "word": "向太炮轰王家卫烧钱式拍摄不道德",
@@ -4867,6 +4875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 293208,
+      "num": 207780,
+      "word": "宋雨琦怎么辣成这样",
+      "onboard_time": 1762615883,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 291134,
       "num": 245256,
       "word": "杨幂沈腾 岁月不败美人也不败军艺校草",
@@ -4889,14 +4905,6 @@
       "onboard_time": 1762329681,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290568,
-      "num": 207780,
-      "word": "宋雨琦怎么辣成这样",
-      "onboard_time": 1762615883,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 289898,
@@ -6297,14 +6305,6 @@
       "onboard_time": 1762422742,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220272,
-      "num": 207064,
-      "word": "AG奖金",
-      "onboard_time": 1762617441,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 220263,
@@ -12099,6 +12099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135999,
+      "num": 135999,
+      "word": "易烊千玺回应提名金鸡奖",
+      "onboard_time": 1762619600,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135878,
       "num": 135878,
       "word": "烤红薯忘了这一步等于白烤",
@@ -17043,6 +17051,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 103870,
+      "num": 205119,
+      "word": "小胖状态",
+      "onboard_time": 1762615521,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103856,
       "num": 274864,
       "word": "王俊凯无边界演唱会六周年",
@@ -17169,14 +17185,6 @@
       "onboard_time": 1762591160,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 103318,
-      "num": 205119,
-      "word": "小胖状态",
-      "onboard_time": 1762615521,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 103314,
@@ -18601,6 +18609,14 @@
       "onboard_time": 1762399822,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97367,
+      "num": 203827,
+      "word": "最适合张凌赫的副业出现了",
+      "onboard_time": 1762619361,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 97345,
@@ -23835,14 +23851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73943,
-      "num": 203827,
-      "word": "最适合张凌赫的副业出现了",
-      "onboard_time": 1762619361,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73881,
       "num": 101962,
       "word": "成事不足 败事有橘",
@@ -25489,6 +25497,14 @@
       "onboard_time": 1762417041,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59212,
+      "num": 126866,
+      "word": "机器人自己给自己换电池",
+      "onboard_time": 1762620140,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 58986,

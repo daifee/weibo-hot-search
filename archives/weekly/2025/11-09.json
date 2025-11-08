@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762619416269,
+  "endTime": 1762620281461,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -48,6 +48,14 @@
       "word": "戈娅FMVP皮肤",
       "onboard_time": 1762613003,
       "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 387536,
+      "num": 387536,
+      "word": "AG奖金",
+      "onboard_time": 1762617441,
+      "rank": 15,
       "category": "电竞"
     },
     {
@@ -99,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290568,
+      "raw_hot": 293208,
       "num": 207275,
       "word": "宋雨琦怎么辣成这样",
       "onboard_time": 1762615883,
@@ -145,14 +153,6 @@
       "onboard_time": 1762611622,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220272,
-      "num": 207064,
-      "word": "AG奖金",
-      "onboard_time": 1762617441,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 207623,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135999,
+      "num": 135999,
+      "word": "易烊千玺回应提名金鸡奖",
+      "onboard_time": 1762619600,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120691,
       "num": 205308,
       "word": "女子生产大出血孩子爷爷将娃送人",
@@ -259,7 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103318,
+      "raw_hot": 103870,
       "num": 205119,
       "word": "小胖状态",
       "onboard_time": 1762615521,
@@ -288,6 +296,14 @@
       "word": "张碧晨这是真唱跳",
       "onboard_time": 1762617500,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97367,
+      "num": 203827,
+      "word": "最适合张凌赫的副业出现了",
+      "onboard_time": 1762619361,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -339,14 +355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73943,
-      "num": 203827,
-      "word": "最适合张凌赫的副业出现了",
-      "onboard_time": 1762619361,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71915,
       "num": 203782,
       "word": "31岁张晚意焦虑晚婚晚育",
@@ -377,6 +385,14 @@
       "onboard_time": 1762614922,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59212,
+      "num": 126866,
+      "word": "机器人自己给自己换电池",
+      "onboard_time": 1762620140,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 45073,
