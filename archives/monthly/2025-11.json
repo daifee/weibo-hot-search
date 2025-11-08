@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762612771776,
+  "endTime": 1762615450507,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -875,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 868225,
+      "num": 868225,
+      "word": "戈娅FMVP皮肤",
+      "onboard_time": 1762613003,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 865110,
       "num": 384039,
       "word": "孟子义 沈妙",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1762438342,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 761106,
+      "num": 265694,
+      "word": "花海时团再相遇",
+      "onboard_time": 1762613663,
+      "rank": 20,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 761061,
@@ -3987,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346071,
+      "num": 419753,
+      "word": "人民咖啡馆更名",
+      "onboard_time": 1762611622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345619,
       "num": 345619,
       "word": "台湾省可以用高德导航了",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1762523062,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336506,
+      "num": 336506,
+      "word": "古二公开录音涉嫌违法",
+      "onboard_time": 1762612764,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 336482,
@@ -4811,6 +4843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290457,
+      "num": 290457,
+      "word": "第一支在鸟巢夺冠的中国战队",
+      "onboard_time": 1762613542,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289898,
       "num": 289898,
       "word": "10亿播放量歌手上音综被淘汰",
@@ -4929,6 +4969,14 @@
       "onboard_time": 1762300280,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 283032,
+      "num": 283032,
+      "word": "hi6收视新高",
+      "onboard_time": 1762614023,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 282765,
@@ -5312,6 +5360,14 @@
       "word": "12岁女孩做外贸15个月卖了10万",
       "onboard_time": 1762075760,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259943,
+      "num": 471184,
+      "word": "男子帮邻居关液化气瓶遇爆炸离世",
+      "onboard_time": 1762612103,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6107,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223761,
+      "num": 297220,
+      "word": "付辛博演技",
+      "onboard_time": 1762610301,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -6219,6 +6283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219953,
+      "num": 219953,
+      "word": "梦泪蹭奖杯",
+      "onboard_time": 1762613782,
+      "rank": 28,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 219941,
       "num": 219941,
       "word": "彭小苒上半身过冬天下半身过夏天",
@@ -6305,6 +6377,14 @@
       "onboard_time": 1762082721,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217445,
+      "num": 217445,
+      "word": "全运会跳水选手差点摔出水池",
+      "onboard_time": 1762613484,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 217137,
@@ -7411,6 +7491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193146,
+      "num": 193146,
+      "word": "七冠K1射手一诺",
+      "onboard_time": 1762615341,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193096,
       "num": 199753,
       "word": "青铜器有自己的配方说明书",
@@ -7505,6 +7593,14 @@
       "onboard_time": 1762606701,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191731,
+      "num": 191731,
+      "word": "长生 世一中",
+      "onboard_time": 1762614083,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 191676,
@@ -7625,6 +7721,22 @@
       "onboard_time": 1762342100,
       "rank": 4,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 190058,
+      "num": 190058,
+      "word": "好大的Doinb",
+      "onboard_time": 1762614802,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189968,
+      "num": 189968,
+      "word": "Doinb阿萝拉五杀",
+      "onboard_time": 1762614742,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 189930,
@@ -8169,6 +8281,14 @@
       "onboard_time": 1762244480,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 180085,
+      "num": 172065,
+      "word": "75岁刘晓庆喊姥姥结果对方才74岁",
+      "onboard_time": 1762613303,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 179968,
@@ -9016,14 +9136,6 @@
       "word": "天地剑心破圈之战",
       "onboard_time": 1762610602,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166679,
-      "num": 297220,
-      "word": "付辛博演技",
-      "onboard_time": 1762610301,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -11019,6 +11131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143491,
+      "num": 143491,
+      "word": "花车不巡王源自己跑下来巡",
+      "onboard_time": 1762614201,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143394,
       "num": 114542,
       "word": "用生命扳倒安德鲁王子的女人",
@@ -11033,14 +11153,6 @@
       "onboard_time": 1762317023,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143259,
-      "num": 252360,
-      "word": "人民咖啡馆更名",
-      "onboard_time": 1762611622,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143149,
@@ -11745,6 +11857,14 @@
       "onboard_time": 1761988941,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137315,
+      "num": 137315,
+      "word": "一诺回应FMVP",
+      "onboard_time": 1762615341,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 137227,
@@ -12569,6 +12689,14 @@
       "onboard_time": 1762564818,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130203,
+      "num": 130203,
+      "word": "王橹杰坐马桶上吹头发",
+      "onboard_time": 1762614621,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 130155,
@@ -16371,14 +16499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106414,
-      "num": 471184,
-      "word": "男子帮邻居关液化气瓶遇爆炸离世",
-      "onboard_time": 1762612103,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106385,
       "num": 106385,
       "word": "导师看到我的论文查重率是0%",
@@ -17419,6 +17539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101256,
+      "num": 190109,
+      "word": "热刺2比2曼联",
+      "onboard_time": 1762613842,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101185,
       "num": 101185,
       "word": "繁花剧组称古二录音内容失实",
@@ -17481,6 +17609,14 @@
       "onboard_time": 1762139899,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100931,
+      "num": 174829,
+      "word": "固体杨枝甘露卖到66元一份",
+      "onboard_time": 1762614502,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100900,
@@ -25299,6 +25435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58157,
+      "num": 272179,
+      "word": "网购睡袍口袋中发现用过的妇炎洁",
+      "onboard_time": 1762614922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58140,
       "num": 169019,
       "word": "美国一货机坠毁致3死11伤",
@@ -28985,6 +29129,9 @@
     },
     {
       "word": "#看习近平心系南粤大地#"
+    },
+    {
+      "word": "#习近平将出席十五运会开幕式#"
     }
   ]
 }
