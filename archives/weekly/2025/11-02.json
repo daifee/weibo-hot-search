@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762609271726,
+  "endTime": 1762611768515,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -25,6 +25,14 @@
       "onboard_time": 1762332922,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4313938,
+      "num": 4313938,
+      "word": "AG夺冠",
+      "onboard_time": 1762611024,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 3905506,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2793987,
-      "num": 215317,
+      "num": 560418,
       "word": "繁花剧组回应古二录音",
       "onboard_time": 1762601360,
       "rank": 10,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1455701,
-      "num": 228053,
+      "num": 558659,
       "word": "将门毒后 黄羿",
       "onboard_time": 1762599560,
       "rank": 10,
@@ -425,6 +433,22 @@
       "onboard_time": 1762438700,
       "rank": 22,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 1146228,
+      "num": 1116954,
+      "word": "KPL总决赛",
+      "onboard_time": 1762591401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1138596,
+      "num": 566357,
+      "word": "快睡着时身体抖了一下的原因",
+      "onboard_time": 1762606520,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1133122,
@@ -843,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 794934,
+      "num": 492861,
+      "word": "南派三叔在线摇人找丁禹兮微信",
+      "onboard_time": 1762608441,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789045,
       "num": 328294,
       "word": "符龙飞 双爹带娃的一天",
@@ -953,14 +985,6 @@
       "onboard_time": 1762007963,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 745513,
-      "num": 1116954,
-      "word": "KPL总决赛",
-      "onboard_time": 1762591401,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 740040,
@@ -1531,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595094,
+      "num": 595094,
+      "word": "王源演唱会",
+      "onboard_time": 1762602380,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 592974,
       "num": 371686,
       "word": "男子与堂哥合谋撞死7岁儿子骗保",
@@ -1652,7 +1684,7 @@
     },
     {
       "raw_hot": 568378,
-      "num": 215165,
+      "num": 490282,
       "word": "女子生产大出血孩子爷爷将娃送人",
       "onboard_time": 1762601120,
       "rank": 14,
@@ -1784,6 +1816,14 @@
       "word": "男子开宝马车下乡收集村民身份证信息",
       "onboard_time": 1762389560,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548759,
+      "num": 548759,
+      "word": "716团队",
+      "onboard_time": 1762609341,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2420,7 +2460,7 @@
     },
     {
       "raw_hot": 457349,
-      "num": 457349,
+      "num": 593295,
       "word": "螺蛳粉店名 陆丝芬",
       "onboard_time": 1762599922,
       "rank": 14,
@@ -2513,6 +2553,14 @@
       "onboard_time": 1762528761,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443620,
+      "num": 443620,
+      "word": "男子喉咙痛1个月咽喉长满雪花",
+      "onboard_time": 1762610122,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443167,
@@ -2860,11 +2908,19 @@
     },
     {
       "raw_hot": 400941,
-      "num": 400941,
+      "num": 573154,
       "word": "这些照片千万不要发在朋友圈",
       "onboard_time": 1762592720,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400924,
+      "num": 578836,
+      "word": "你好星期六下期是枭起青壤剧组",
+      "onboard_time": 1762609402,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 400063,
@@ -2929,14 +2985,6 @@
       "onboard_time": 1762156581,
       "rank": 13,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 394592,
-      "num": 377378,
-      "word": "王源演唱会",
-      "onboard_time": 1762602380,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 392735,
@@ -3843,14 +3891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312806,
-      "num": 215078,
-      "word": "快睡着时身体抖了一下的原因",
-      "onboard_time": 1762606520,
-      "rank": 16,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 312342,
       "num": 217760,
       "word": "毛晓慧常华森 女纣王男妲己",
@@ -4379,6 +4419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280297,
+      "num": 280297,
+      "word": "接孙尚香FMVP",
+      "onboard_time": 1762609102,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 279929,
       "num": 279929,
       "word": "乐华2025年中报未提及王一博",
@@ -4425,6 +4473,14 @@
       "onboard_time": 1762226422,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 275774,
+      "num": 544046,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 274854,
@@ -4529,14 +4585,6 @@
       "onboard_time": 1762328299,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 268384,
-      "num": 193941,
-      "word": "南派三叔在线摇人找丁禹兮微信",
-      "onboard_time": 1762608441,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 268346,
@@ -4796,7 +4844,7 @@
     },
     {
       "raw_hot": 250010,
-      "num": 250010,
+      "num": 271797,
       "word": "衣服吊牌和A4纸一样大了",
       "onboard_time": 1762593622,
       "rank": 19,
@@ -5211,6 +5259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226415,
+      "num": 226415,
+      "word": "狼队开香槟",
+      "onboard_time": 1762609523,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225467,
       "num": 189632,
       "word": "迪丽热巴18秒超强压迫感",
@@ -5387,6 +5443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218828,
+      "num": 218828,
+      "word": "一诺心率好高",
+      "onboard_time": 1762604300,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218661,
       "num": 172805,
       "word": "日本男子保存现场26年凶手落网",
@@ -5475,14 +5539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215455,
-      "num": 215455,
-      "word": "一诺心率好高",
-      "onboard_time": 1762604300,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 215422,
       "num": 333161,
       "word": "广州地铁回应APP乘车码频繁弹窗广告",
@@ -5521,6 +5577,14 @@
       "onboard_time": 1762487899,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214165,
+      "num": 214165,
+      "word": "一诺达成3500击杀",
+      "onboard_time": 1762611024,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 214150,
@@ -6011,6 +6075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201140,
+      "num": 201140,
+      "word": "朱珠 气血足到头顶",
+      "onboard_time": 1762610422,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -6163,6 +6235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197534,
+      "num": 537656,
+      "word": "福建舰为什么被子不叠豆腐块",
+      "onboard_time": 1762597881,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 197390,
       "num": 1010856,
       "word": "iPhone17系列国内激活销量",
@@ -6228,7 +6308,7 @@
     },
     {
       "raw_hot": 195445,
-      "num": 159638,
+      "num": 570096,
       "word": "一诺好牛",
       "onboard_time": 1762598061,
       "rank": 24,
@@ -6353,14 +6433,6 @@
       "onboard_time": 1762139419,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193158,
-      "num": 192146,
-      "word": "唐朝诡事录3首播反馈",
-      "onboard_time": 1762607841,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 193096,
@@ -6665,14 +6737,6 @@
       "onboard_time": 1762570519,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187644,
-      "num": 195703,
-      "word": "福建舰为什么被子不叠豆腐块",
-      "onboard_time": 1762597881,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 187595,
@@ -7057,6 +7121,14 @@
       "onboard_time": 1762331481,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179638,
+      "num": 521113,
+      "word": "四喜老公没了婆婆老实了",
+      "onboard_time": 1762609462,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 179563,
@@ -7515,6 +7587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171168,
+      "num": 262046,
+      "word": "F1",
+      "onboard_time": 1762611622,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171130,
       "num": 171130,
       "word": "台媒称两岸统一进程正在加快",
@@ -7619,12 +7699,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169021,
+      "num": 168835,
+      "word": "AG六连冠",
+      "onboard_time": 1762611622,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168959,
       "num": 168959,
       "word": "田亮儿子14岁生日照",
       "onboard_time": 1762579639,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168898,
+      "num": 168898,
+      "word": "易烊千玺四次获金鸡奖提名",
+      "onboard_time": 1762611383,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 168604,
@@ -7753,6 +7849,14 @@
       "onboard_time": 1762175122,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166686,
+      "num": 166686,
+      "word": "天地剑心破圈之战",
+      "onboard_time": 1762610602,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 166502,
@@ -7929,6 +8033,14 @@
       "onboard_time": 1762067300,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164236,
+      "num": 164236,
+      "word": "付辛博演技",
+      "onboard_time": 1762610301,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 164206,
@@ -8561,6 +8673,14 @@
       "onboard_time": 1762232241,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154169,
+      "num": 226436,
+      "word": "陈芋汐全运会倒立俯卧撑",
+      "onboard_time": 1762608321,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 153861,
@@ -9283,6 +9403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144204,
+      "num": 144204,
+      "word": "无意识提高记忆力的动作",
+      "onboard_time": 1762611383,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144166,
       "num": 144166,
       "word": "折叠屏iPhone明年亮相",
@@ -9875,6 +10003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137732,
+      "num": 137732,
+      "word": "陈楚生点歌 唱完你的唱你的",
+      "onboard_time": 1762610722,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137702,
       "num": 148515,
       "word": "斗罗大陆2动画127集预告",
@@ -10369,6 +10505,14 @@
       "onboard_time": 1762166601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132436,
+      "num": 164704,
+      "word": "华晨宇 烟花批发华总",
+      "onboard_time": 1762610422,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 132276,
@@ -11995,6 +12139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 118879,
+      "num": 164372,
+      "word": "王楚钦全运会首秀",
+      "onboard_time": 1762611443,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118875,
       "num": 118875,
       "word": "胡明轩醒了",
@@ -12097,14 +12249,6 @@
       "onboard_time": 1762063221,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118048,
-      "num": 117527,
-      "word": "陈芋汐全运会倒立俯卧撑",
-      "onboard_time": 1762608321,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117997,
@@ -14393,14 +14537,6 @@
       "onboard_time": 1762510220,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103773,
-      "num": 103773,
-      "word": "接孙尚香FMVP",
-      "onboard_time": 1762609102,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 103732,
@@ -18691,6 +18827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84318,
+      "num": 168392,
+      "word": "人民咖啡馆更名",
+      "onboard_time": 1762611622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84313,
       "num": 84313,
       "word": "自媒体完成对外国的祛魅",
@@ -21819,6 +21963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58534,
+      "num": 168676,
+      "word": "大学生没出站就被骗八千多元",
+      "onboard_time": 1762610660,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58475,
       "num": 204617,
       "word": "N6神颜一见倾心",
@@ -21921,6 +22073,14 @@
       "onboard_time": 1762228401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57132,
+      "num": 503053,
+      "word": "狼队抢先一个蓝BUFF",
+      "onboard_time": 1762610842,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 57044,
@@ -22441,6 +22601,14 @@
       "onboard_time": 1762607361,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49362,
+      "num": 168549,
+      "word": "七天无理由退货不该成为蹭穿理由",
+      "onboard_time": 1762611083,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49180,
@@ -23707,6 +23875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30673,
+      "num": 507502,
+      "word": "好气血才能有好声音",
+      "onboard_time": 1762608981,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 30632,
       "num": 70385,
       "word": "宋雨琦ins晒跑男合照",
@@ -23897,6 +24073,14 @@
       "onboard_time": 1762514000,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27282,
+      "num": 164260,
+      "word": "博同情1支笔卖1980元8人被刑拘",
+      "onboard_time": 1762610422,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27250,
@@ -24305,14 +24489,6 @@
       "onboard_time": 1762412662,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 22868,
-      "num": 194233,
-      "word": "好气血才能有好声音",
-      "onboard_time": 1762608981,
-      "rank": 19,
-      "category": "运动健身"
     },
     {
       "raw_hot": 22552,
@@ -25074,6 +25250,9 @@
     },
     {
       "word": "#习近平在广东考察#"
+    },
+    {
+      "word": "#看习近平心系南粤大地#"
     }
   ]
 }
