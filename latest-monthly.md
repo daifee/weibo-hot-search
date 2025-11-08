@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 23:40:16
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 00:30:16
 </p>
 </blockquote>
 <p>
@@ -909,6 +909,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23hi6%E6%94%B6%E8%A7%86%E6%96%B0%E9%AB%98%23" target="weibo">
+hi6收视新高（热度：736437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E6%9B%9D%E9%99%88%E9%83%BD%E7%81%B5%E7%BB%8F%E5%B8%B8%E7%9C%8B%E6%81%B6%E8%AF%84%E8%AD%A6%E9%86%92%E8%87%AA%E5%B7%B1%23" target="weibo">
 金靖曝陈都灵经常看恶评警醒自己（热度：735086）
 </a>
@@ -1353,6 +1359,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E7%8E%8B%E6%BA%90%E9%80%81%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%E4%BA%86%23" target="weibo">
+易烊千玺给王源送生日祝福了（热度：604356）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
 白百何发生了什么（热度：604008）
 </a>
@@ -1589,12 +1601,6 @@ iPhone面容解锁不需要摄像头（热度：640462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%8B%E4%B9%A1%E6%94%B6%E9%9B%86%E6%9D%91%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BF%A1%E6%81%AF%23" target="weibo">
 男子开宝马车下乡收集村民身份证信息（热度：550870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23hi6%E6%94%B6%E8%A7%86%E6%96%B0%E9%AB%98%23" target="weibo">
-hi6收视新高（热度：549082）
 </a>
 </li>
 
@@ -2679,6 +2685,12 @@ Ruler失利之后哭了（热度：403914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BB%A3%E7%89%A9%E6%96%99%E8%A7%82%E7%9C%8B%E4%BA%BA%E6%95%B0%23" target="weibo">
+TF二三四代物料观看人数（热度：382301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9C%A8%E4%BA%89%E8%AE%AE%E5%A3%B0%E4%B8%AD%E5%86%8D%E6%9B%B4%E6%96%B0APP%23" target="weibo">
 山姆在争议声中再更新APP（热度：382266）
 </a>
@@ -3513,6 +3525,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E5%B7%AE%E7%82%B9%E6%91%94%E5%87%BA%E6%B0%B4%E6%B1%A0%23" target="weibo">
+全运会跳水选手差点摔出水池（热度：302476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%9C%B0%E5%8F%9120%E4%B8%87%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A%23" target="weibo">
 广州一地发20万奖励结婚（热度：302302）
 </a>
@@ -3659,6 +3677,12 @@ Tarzan发文致歉（热度：295392）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%A8%E8%BF%90%E4%BC%9A%E7%94%B7%E5%9B%A2%E5%90%8C%E7%BB%84%23" target="weibo">
 樊振东王楚钦全运会男团同组（热度：290721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%80%8E%E4%B9%88%E8%BE%A3%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+宋雨琦怎么辣成这样（热度：290568）
 </a>
 </li>
 
@@ -4713,6 +4737,12 @@ AL教练后台痛哭（热度：226913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E5%A5%96%E9%87%91%23" target="weibo">
+AG奖金（热度：220272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%20%E9%A1%B6%E9%A1%B6%E5%A5%BD%E7%9A%84%E4%BA%BA%23" target="weibo">
 白敬亭 顶顶好的人（热度：220263）
 </a>
@@ -4799,12 +4829,6 @@ Peanut晒与Faker拥抱照（热度：217455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9D%8E%E6%B2%81%E6%88%96%E6%BC%94%E7%AE%80%E5%8D%95%E7%9A%84%E4%BA%BA%E7%94%9F%23" target="weibo">
 赵丽颖李沁或演简单的人生（热度：217447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E5%B7%AE%E7%82%B9%E6%91%94%E5%87%BA%E6%B0%B4%E6%B1%A0%23" target="weibo">
-全运会跳水选手差点摔出水池（热度：217445）
 </a>
 </li>
 
@@ -5093,12 +5117,6 @@ TES面对LCK十五连败（热度：208527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%98%9F%E8%B7%B3%E6%B0%B4%E5%A5%B3%E5%9B%A2%E5%86%A0%E5%86%9B%23" target="weibo">
 广东队跳水女团冠军（热度：207882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%80%8E%E4%B9%88%E8%BE%A3%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
-宋雨琦怎么辣成这样（热度：207780）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ LPL（热度：187367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E9%80%A0%E7%89%A9%E5%A5%BD%E5%BC%BA%E7%9A%84%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
 周深新歌造物好强的爆发力（热度：186325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23UPS%E8%B4%A7%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%B7%B2%E8%87%B43%E6%AD%BB11%E4%BC%A4%23" target="weibo">
-UPS货机坠毁已致3死11伤（热度：186291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
-A股（热度：186226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%80%89%E6%89%8B%E6%9B%BE%E5%9C%A8%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E4%B8%AD%E5%8E%BB%E4%B8%96%23" target="weibo">
-有选手曾在扇耳光大赛中去世（热度：186207）
 </a>
 </li>
 
