@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762629625758,
+  "endTime": 1762630635997,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -28841,6 +28841,14 @@
       "onboard_time": 1762565359,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16000,
+      "num": 36547,
+      "word": "68岁潘长江演短剧10天2亿播放量",
+      "onboard_time": 1762630394,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 15680,

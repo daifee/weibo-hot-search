@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762629625758,
+  "endTime": 1762630635997,
   "band_list": [
     {
       "raw_hot": 736437,
@@ -491,7 +491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21141,
+      "raw_hot": 23255,
       "num": 43606,
       "word": "喜人奇妙夜",
       "onboard_time": 1762627816,
@@ -505,6 +505,14 @@
       "onboard_time": 1762629434,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16000,
+      "num": 36547,
+      "word": "68岁潘长江演短剧10天2亿播放量",
+      "onboard_time": 1762630394,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 14710,
