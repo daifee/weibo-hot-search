@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762636948509,
+  "endTime": 1762637816277,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -28819,20 +28819,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16931,
+      "num": 36547,
+      "word": "68岁潘长江演短剧10天2亿播放量",
+      "onboard_time": 1762630394,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16837,
       "num": 305101,
       "word": "吕艳婷通过抱树解压",
       "onboard_time": 1762520480,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16833,
-      "num": 36547,
-      "word": "68岁潘长江演短剧10天2亿播放量",
-      "onboard_time": 1762630394,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 16800,
