@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762580481822,
+  "endTime": 1762583720752,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 167536,
+      "num": 170819,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -609,6 +609,14 @@
       "onboard_time": 1762321460,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919428,
+      "num": 1147108,
+      "word": "杭州警方核查网红教唆吸毒事件",
+      "onboard_time": 1762577840,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 915745,
@@ -1843,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526093,
+      "num": 209199,
+      "word": "丑死了但是想下单",
+      "onboard_time": 1762578801,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 525342,
       "num": 325597,
       "word": "出生率接近0的日本城市后来怎样了",
@@ -2379,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443167,
+      "num": 443167,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442766,
       "num": 284251,
       "word": "网红尿毒症夫妇丈夫离世",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1762341201,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440575,
-      "num": 209199,
-      "word": "丑死了但是想下单",
-      "onboard_time": 1762578801,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 440325,
@@ -3427,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335963,
+      "num": 178049,
+      "word": "沈腾 现在蹭王安宇流量",
+      "onboard_time": 1762579701,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334158,
       "num": 334158,
       "word": "小胖哭了",
@@ -3595,12 +3619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320218,
-      "num": 320218,
-      "word": "陈芋汐407C失误",
-      "onboard_time": 1762575560,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 319708,
+      "num": 177827,
+      "word": "高铁票买到19排但车厢只有17排",
+      "onboard_time": 1762580781,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319131,
@@ -4723,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238965,
+      "num": 177255,
+      "word": "将门毒后",
+      "onboard_time": 1762385899,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238280,
       "num": 238280,
       "word": "水龙吟暗河传豆瓣开分",
@@ -4868,7 +4900,7 @@
     },
     {
       "raw_hot": 229229,
-      "num": 184556,
+      "num": 211905,
       "word": "Peanut说LPL明年夺冠了",
       "onboard_time": 1762577900,
       "rank": 17,
@@ -4921,6 +4953,14 @@
       "onboard_time": 1762148600,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227690,
+      "num": 200328,
+      "word": "唐朝诡事录节奏",
+      "onboard_time": 1762581321,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 226415,
@@ -5611,14 +5651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203099,
-      "num": 203099,
-      "word": "杭州警方核查网红教唆吸毒事件",
-      "onboard_time": 1762577840,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202925,
       "num": 202925,
       "word": "Angelababy直播素颜状态",
@@ -5985,14 +6017,6 @@
       "onboard_time": 1762301421,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 193713,
-      "num": 168616,
-      "word": "将门毒后",
-      "onboard_time": 1762385899,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 193661,
@@ -7355,6 +7379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166111,
+      "num": 166111,
+      "word": "田亮儿子14岁生日照",
+      "onboard_time": 1762579639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166088,
       "num": 166088,
       "word": "短短10集8死7伤哭8次",
@@ -7529,6 +7561,14 @@
       "onboard_time": 1762096102,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163251,
+      "num": 163251,
+      "word": "人民咖啡馆发布声明",
+      "onboard_time": 1762580480,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163128,
@@ -8443,14 +8483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 147881,
-      "num": 147881,
-      "word": "田亮儿子14岁生日照",
-      "onboard_time": 1762579639,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147828,
       "num": 147828,
       "word": "原来小孩约会在大人眼里这么明显",
@@ -8625,14 +8657,6 @@
       "onboard_time": 1762439843,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145041,
-      "num": 145041,
-      "word": "沈腾 现在蹭王安宇流量",
-      "onboard_time": 1762579701,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 145020,
@@ -9385,6 +9409,14 @@
       "onboard_time": 1762421601,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "金鹤龙给迪丽热巴画的冰湖极光妆",
+      "onboard_time": 1762581740,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 136745,
@@ -10195,6 +10227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128694,
+      "num": 128694,
+      "word": "大家的睡衣变形到什么程度了",
+      "onboard_time": 1762582160,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128614,
       "num": 121114,
       "word": "全红婵与陈芋汐比心互动",
@@ -10739,6 +10779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "迅猛龙自曝不参加恋综的原因",
+      "onboard_time": 1762583299,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123242,
       "num": 123242,
       "word": "王心凌回应与吴克群绯闻",
@@ -10836,7 +10884,7 @@
     },
     {
       "raw_hot": 122820,
-      "num": 163476,
+      "num": 178609,
       "word": "全运会",
       "onboard_time": 1762051159,
       "rank": 39,
@@ -11913,6 +11961,14 @@
       "onboard_time": 1762500860,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113664,
+      "num": 113664,
+      "word": "莆田银河左岸音乐节",
+      "onboard_time": 1762582940,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 113596,
@@ -14004,7 +14060,7 @@
     },
     {
       "raw_hot": 100632,
-      "num": 100632,
+      "num": 101940,
       "word": "湖人赢下万分之一概率",
       "onboard_time": 1762578739,
       "rank": 43,
@@ -14033,6 +14089,14 @@
       "onboard_time": 1762230021,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100460,
+      "num": 102454,
+      "word": "上班和上朝原来是一个意思",
+      "onboard_time": 1762581982,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 100418,
@@ -16147,6 +16211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 90228,
+      "num": 107366,
+      "word": "中方已向欧方提出严正交涉",
+      "onboard_time": 1762580840,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90146,
       "num": 90146,
       "word": "山东省考",
@@ -16737,6 +16809,14 @@
       "onboard_time": 1762217841,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87260,
+      "num": 102063,
+      "word": "四喜高嫁如吞针",
+      "onboard_time": 1762581321,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 87242,
@@ -17539,6 +17619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83938,
+      "num": 102031,
+      "word": "唐诡长安这回总该是方丈了吧",
+      "onboard_time": 1762582819,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83873,
       "num": 83873,
       "word": "冬天穿袜子睡觉不只暖脚",
@@ -17993,6 +18081,14 @@
       "onboard_time": 1762491621,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81268,
+      "num": 102003,
+      "word": "沈月把闺蜜日常唱成了热歌",
+      "onboard_time": 1762582400,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 81262,
@@ -18473,6 +18569,14 @@
       "onboard_time": 1762101199,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77913,
+      "num": 101978,
+      "word": "唐朝诡事录 熟悉的味道",
+      "onboard_time": 1762583119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 77863,
@@ -19011,6 +19115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73881,
+      "num": 101962,
+      "word": "成事不足 败事有橘",
+      "onboard_time": 1762583359,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73769,
       "num": 73769,
       "word": "重度恐猫症患者第一次接触猫",
@@ -19380,7 +19492,7 @@
     },
     {
       "raw_hot": 70164,
-      "num": 366510,
+      "num": 616629,
       "word": "十五运每日金牌看点",
       "onboard_time": 1762565720,
       "rank": 9,
@@ -20147,6 +20259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60807,
+      "num": 101916,
+      "word": "体检没毛病5个月后却诊出肾癌",
+      "onboard_time": 1762582040,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 60741,
       "num": 91336,
       "word": "官方回应称明确禁止个人淘金",
@@ -20795,6 +20915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50147,
+      "num": 101898,
+      "word": "杜兰特8失误掉线",
+      "onboard_time": 1762582040,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50090,
       "num": 90757,
       "word": "聂九罗颠覆迪丽热巴以往角色",
@@ -21289,6 +21417,14 @@
       "onboard_time": 1762212859,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41733,
+      "num": 171053,
+      "word": "KPL观赛搭子华莱士",
+      "onboard_time": 1762582040,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 41681,
@@ -22699,6 +22835,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 19556,
+      "num": 102089,
+      "word": "两女子因等小吃摊太久与摊主冲突",
+      "onboard_time": 1762581620,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18985,
       "num": 40002,
       "word": "藏海传年度平台推荐剧集",
@@ -23001,6 +23145,14 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13524,
+      "num": 177546,
+      "word": "友友碰头日",
+      "onboard_time": 1762581680,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13471,

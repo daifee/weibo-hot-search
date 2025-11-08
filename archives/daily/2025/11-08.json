@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762580481822,
+  "endTime": 1762583720752,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1314436,
-      "num": 167536,
+      "num": 170819,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -33,6 +33,14 @@
       "onboard_time": 1762558818,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 919428,
+      "num": 1147108,
+      "word": "杭州警方核查网红教唆吸毒事件",
+      "onboard_time": 1762577840,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 747706,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526093,
+      "num": 209199,
+      "word": "丑死了但是想下单",
+      "onboard_time": 1762578801,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 488403,
       "num": 121792,
       "word": "25岁的王源",
@@ -123,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443167,
+      "num": 443167,
+      "word": "陈芋汐407C失误",
+      "onboard_time": 1762575560,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441429,
       "num": 183138,
       "word": "谭凯回复",
       "onboard_time": 1762529061,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440575,
-      "num": 209199,
-      "word": "丑死了但是想下单",
-      "onboard_time": 1762578801,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 407533,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335963,
+      "num": 178049,
+      "word": "沈腾 现在蹭王安宇流量",
+      "onboard_time": 1762579701,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322751,
       "num": 322751,
       "word": "香港一小学允许学生用简体字答题",
@@ -219,12 +243,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 320218,
-      "num": 320218,
-      "word": "陈芋汐407C失误",
-      "onboard_time": 1762575560,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 319708,
+      "num": 177827,
+      "word": "高铁票买到19排但车厢只有17排",
+      "onboard_time": 1762580781,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310786,
@@ -299,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238965,
+      "num": 177255,
+      "word": "将门毒后",
+      "onboard_time": 1762578860,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229229,
-      "num": 184556,
+      "num": 211905,
       "word": "Peanut说LPL明年夺冠了",
       "onboard_time": 1762577900,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227690,
+      "num": 200328,
+      "word": "唐朝诡事录节奏",
+      "onboard_time": 1762581321,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 217450,
@@ -363,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203099,
-      "num": 203099,
-      "word": "杭州警方核查网红教唆吸毒事件",
-      "onboard_time": 1762577840,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202843,
       "num": 202843,
       "word": "iPhone18系列10大升级",
@@ -393,14 +425,6 @@
       "onboard_time": 1762561939,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 193713,
-      "num": 168616,
-      "word": "将门毒后",
-      "onboard_time": 1762578860,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 192725,
@@ -547,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166111,
+      "num": 166111,
+      "word": "田亮儿子14岁生日照",
+      "onboard_time": 1762579639,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165434,
       "num": 165434,
       "word": "属于冬天的情绪价值",
@@ -561,6 +593,14 @@
       "onboard_time": 1762565118,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163251,
+      "num": 163251,
+      "word": "人民咖啡馆发布声明",
+      "onboard_time": 1762580480,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162566,
@@ -595,27 +635,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147881,
-      "num": 147881,
-      "word": "田亮儿子14岁生日照",
-      "onboard_time": 1762579639,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "徐志胜让8个顶流歌手没招了",
       "onboard_time": 1762573940,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145041,
-      "num": 145041,
-      "word": "沈腾 现在蹭王安宇流量",
-      "onboard_time": 1762579701,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -625,6 +649,14 @@
       "onboard_time": 1762573401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "金鹤龙给迪丽热巴画的冰湖极光妆",
+      "onboard_time": 1762581740,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 133741,
@@ -683,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128694,
+      "num": 128694,
+      "word": "大家的睡衣变形到什么程度了",
+      "onboard_time": 1762582160,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127983,
       "num": 155157,
       "word": "明道老婆回应天国的嫁衣售后",
@@ -713,6 +753,14 @@
       "onboard_time": 1762572560,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "迅猛龙自曝不参加恋综的原因",
+      "onboard_time": 1762583299,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 123356,
@@ -755,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120943,
+      "num": 178609,
+      "word": "全运会",
+      "onboard_time": 1762581022,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120339,
       "num": 206048,
       "word": "中国核力量同美俄不在一个量级",
@@ -785,6 +841,14 @@
       "onboard_time": 1762579639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113664,
+      "num": 113664,
+      "word": "莆田银河左岸音乐节",
+      "onboard_time": 1762582940,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 113596,
@@ -916,7 +980,7 @@
     },
     {
       "raw_hot": 100632,
-      "num": 100632,
+      "num": 101940,
       "word": "湖人赢下万分之一概率",
       "onboard_time": 1762578739,
       "rank": 43,
@@ -928,6 +992,14 @@
       "word": "水千丞188男团将影视化",
       "onboard_time": 1762517841,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100460,
+      "num": 102454,
+      "word": "上班和上朝原来是一个意思",
+      "onboard_time": 1762581982,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1035,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90228,
+      "num": 107366,
+      "word": "中方已向欧方提出严正交涉",
+      "onboard_time": 1762580840,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89850,
       "num": 89850,
       "word": "沈明辉好萌",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1762570340,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87260,
+      "num": 102063,
+      "word": "四喜高嫁如吞针",
+      "onboard_time": 1762581321,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 86574,
@@ -1131,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83938,
+      "num": 102031,
+      "word": "唐诡长安这回总该是方丈了吧",
+      "onboard_time": 1762582819,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83773,
       "num": 83773,
       "word": "当柴犬按了一下比格犬",
@@ -1179,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81268,
+      "num": 102003,
+      "word": "沈月把闺蜜日常唱成了热歌",
+      "onboard_time": 1762582400,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81262,
       "num": 81262,
       "word": "黄明昊新剧想要占有姐姐",
@@ -1217,6 +1321,14 @@
       "onboard_time": 1762565419,
       "rank": 33,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 77913,
+      "num": 101978,
+      "word": "唐朝诡事录 熟悉的味道",
+      "onboard_time": 1762583119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 77366,
@@ -1267,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73881,
+      "num": 101962,
+      "word": "成事不足 败事有橘",
+      "onboard_time": 1762583359,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72581,
       "num": 77883,
       "word": "李娜李小鹏世纪同框",
@@ -1300,7 +1420,7 @@
     },
     {
       "raw_hot": 70164,
-      "num": 366510,
+      "num": 616629,
       "word": "十五运每日金牌看点",
       "onboard_time": 1762565720,
       "rank": 9,
@@ -1435,6 +1555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60807,
+      "num": 101916,
+      "word": "体检没毛病5个月后却诊出肾癌",
+      "onboard_time": 1762582040,
+      "rank": 46,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 59906,
       "num": 59906,
       "word": "内娱居然也能看到洗澡争浴室的场景",
@@ -1475,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50147,
+      "num": 101898,
+      "word": "杜兰特8失误掉线",
+      "onboard_time": 1762582040,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49878,
       "num": 77772,
       "word": "林志玲说好想念被小S骂",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1762534938,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41733,
+      "num": 171053,
+      "word": "KPL观赛搭子华莱士",
+      "onboard_time": 1762582040,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 40063,
@@ -1635,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19556,
+      "num": 102089,
+      "word": "两女子因等小吃摊太久与摊主冲突",
+      "onboard_time": 1762581620,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17952,
       "num": 31484,
       "word": "CV吴磊声明回应起诉",
@@ -1665,6 +1817,14 @@
       "onboard_time": 1762541775,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13524,
+      "num": 177546,
+      "word": "友友碰头日",
+      "onboard_time": 1762581680,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12627,

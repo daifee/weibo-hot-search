@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 13:41:21
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 14:35:20
 </p>
 </blockquote>
 <p>
@@ -551,6 +551,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%23" target="weibo">
 娜扎经纪人（热度：926640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E6%A0%B8%E6%9F%A5%E7%BD%91%E7%BA%A2%E6%95%99%E5%94%86%E5%90%B8%E6%AF%92%E4%BA%8B%E4%BB%B6%23" target="weibo">
+杭州警方核查网红教唆吸毒事件（热度：919428）
 </a>
 </li>
 
@@ -1605,6 +1611,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
+丑死了但是想下单（热度：526093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%E6%8E%A5%E8%BF%910%E7%9A%84%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%B8%82%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23" target="weibo">
 出生率接近0的日本城市后来怎样了（热度：525342）
 </a>
@@ -2061,6 +2073,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
+陈芋汐407C失误（热度：443167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
 网红尿毒症夫妇丈夫离世（热度：442766）
 </a>
@@ -2087,12 +2105,6 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%A8%E7%81%B0%E7%9B%92%E4%BB%B7%E6%A0%BC%23" target="weibo">
 骨灰盒价格（热度：440790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
-丑死了但是想下单（热度：440575）
 </a>
 </li>
 
@@ -2901,6 +2913,12 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E7%8E%B0%E5%9C%A8%E8%B9%AD%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B5%81%E9%87%8F%23" target="weibo">
+沈腾 现在蹭王安宇流量（热度：335963）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E5%93%AD%E4%BA%86%23" target="weibo">
 小胖哭了（热度：334158）
 </a>
@@ -3045,8 +3063,8 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
-陈芋汐407C失误（热度：320218）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%A5%A8%E4%B9%B0%E5%88%B019%E6%8E%92%E4%BD%86%E8%BD%A6%E5%8E%A2%E5%8F%AA%E6%9C%8917%E6%8E%92%23" target="weibo">
+高铁票买到19排但车厢只有17排（热度：319708）
 </a>
 </li>
 
@@ -4065,6 +4083,12 @@ DRG对战狼队（热度：239735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
+将门毒后（热度：238965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%E6%9A%97%E6%B2%B3%E4%BC%A0%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23" target="weibo">
 水龙吟暗河传豆瓣开分（热度：238280）
 </a>
@@ -4235,6 +4259,12 @@ AL的含金量还在上升（热度：228299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E5%BA%8A%E4%B8%8A%E8%BA%BA%E7%9D%80%E9%99%8C%E7%94%9F%E7%94%B7%E5%A5%B3%23" target="weibo">
 男子回家发现床上躺着陌生男女（热度：227795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E8%8A%82%E5%A5%8F%23" target="weibo">
+唐朝诡事录节奏（热度：227690）
 </a>
 </li>
 
@@ -4887,12 +4917,6 @@ Ruler回应败给KT（热度：203278）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E6%A0%B8%E6%9F%A5%E7%BD%91%E7%BA%A2%E6%95%99%E5%94%86%E5%90%B8%E6%AF%92%E4%BA%8B%E4%BB%B6%23" target="weibo">
-杭州警方核查网红教唆吸毒事件（热度：203099）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%9B%B4%E6%92%AD%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23" target="weibo">
 Angelababy直播素颜状态（热度：202925）
 </a>
@@ -5201,12 +5225,6 @@ Gumayusi回应淘汰AL（热度：201128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A23%E5%AE%98%E5%AE%A3%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%96%B0%E8%BA%AB%E4%BB%BD%23" target="weibo">
 惊天魔盗团3官宣黄子弘凡新身份（热度：193764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
-将门毒后（热度：193713）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Uzi心中最强AD是Ruler（热度：177557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%9B%9B%E9%83%A8%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%89%A7%E5%BE%85%E6%92%AD%23" target="weibo">
 杨紫四部大女主剧待播（热度：174033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%B3%B0%E5%9B%BD%E6%B4%BB%E5%8A%A8%E7%94%9F%E5%9B%BE%23" target="weibo">
-丁禹兮泰国活动生图（热度：173857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%8D%A3%E5%A5%96%23" target="weibo">
-文荣奖（热度：173801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%80%E5%B9%B4%E6%92%AD%E4%B8%89%E5%89%A7%E4%BA%86%23" target="weibo">
-白鹿不是第一次一年播三剧了（热度：173591）
 </a>
 </li>
 
