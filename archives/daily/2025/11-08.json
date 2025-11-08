@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762571349981,
+  "endTime": 1762572354233,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -51,20 +51,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 718156,
+      "num": 182198,
+      "word": "内娱综艺的尺度已经这么大了吗",
+      "onboard_time": 1762568358,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663442,
       "num": 663442,
       "word": "模仿劳荣枝的女主播被无限期封禁",
       "onboard_time": 1762567399,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 631831,
-      "num": 182198,
-      "word": "内娱综艺的尺度已经这么大了吗",
-      "onboard_time": 1762568358,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 567436,
@@ -219,8 +219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218458,
-      "num": 218458,
+      "raw_hot": 247510,
+      "num": 247510,
       "word": "香港一小学允许学生用简体字答题",
       "onboard_time": 1762570281,
       "rank": 5,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 197593,
-      "num": 176594,
+      "num": 185195,
       "word": "杨瀚森超远三分神奇命中",
       "onboard_time": 1762567278,
       "rank": 31,
@@ -291,12 +291,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191676,
+      "num": 191676,
+      "word": "华晨宇官宣加盟声鸣远扬",
+      "onboard_time": 1762571841,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189083,
       "num": 118596,
       "word": "洗衣机15分钟快洗确实洗不干净",
       "onboard_time": 1762523062,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187723,
+      "num": 165609,
+      "word": "陈乔恩艾伦穿搭都只顾自己好看",
+      "onboard_time": 1762570519,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 186207,
@@ -340,11 +356,19 @@
     },
     {
       "raw_hot": 172607,
-      "num": 129741,
+      "num": 134075,
       "word": "绝味鸭脖以为89元一斤实际是半斤",
       "onboard_time": 1762561880,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171051,
+      "num": 135171,
+      "word": "日本网友将熊灾甩锅给中国",
+      "onboard_time": 1762570400,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170382,
@@ -353,6 +377,14 @@
       "onboard_time": 1762560378,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 165434,
+      "num": 165434,
+      "word": "属于冬天的情绪价值",
+      "onboard_time": 1762571600,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 164082,
@@ -371,20 +403,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 158403,
+      "num": 158403,
+      "word": "新闻女王2的广植入真的笑死我",
+      "onboard_time": 1762570400,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "猪八戒扮演者回应刘大刚去世",
       "onboard_time": 1762524860,
       "rank": 47,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 155706,
-      "num": 155706,
-      "word": "陈乔恩艾伦穿搭都只顾自己好看",
-      "onboard_time": 1762570519,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 152333,
@@ -401,14 +433,6 @@
       "onboard_time": 1762524141,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135171,
-      "num": 135171,
-      "word": "日本网友将熊灾甩锅给中国",
-      "onboard_time": 1762570400,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133741,
@@ -435,7 +459,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126470,
+      "raw_hot": 129761,
+      "num": 129761,
+      "word": "何超琼曾为向佐赌债乌龙道歉",
+      "onboard_time": 1762571960,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127983,
       "num": 155157,
       "word": "明道老婆回应天国的嫁衣售后",
       "onboard_time": 1762567879,
@@ -467,20 +499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119247,
+      "num": 119247,
+      "word": "女生买衣服好看的定律",
+      "onboard_time": 1762567999,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118239,
       "num": 118239,
       "word": "镖人",
       "onboard_time": 1762521921,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115366,
-      "num": 115366,
-      "word": "女生买衣服好看的定律",
-      "onboard_time": 1762567999,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 111645,
@@ -507,14 +539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110032,
-      "num": 115472,
-      "word": "新闻女王2的广植入真的笑死我",
-      "onboard_time": 1762570400,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107478,
       "num": 120763,
       "word": "易烊千玺完全是电影疯子",
@@ -537,6 +561,14 @@
       "onboard_time": 1762560198,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102751,
+      "num": 107167,
+      "word": "迪丽热巴全黑造型",
+      "onboard_time": 1762567819,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102073,
@@ -563,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96840,
+      "num": 107409,
+      "word": "高市早苗凌晨三点上班",
+      "onboard_time": 1762569260,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96094,
       "num": 96094,
       "word": "朱婷还是朱婷",
       "onboard_time": 1762517360,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94437,
-      "num": 107409,
-      "word": "高市早苗凌晨三点上班",
-      "onboard_time": 1762569260,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93159,
@@ -635,6 +667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84282,
+      "num": 107125,
+      "word": "英雄联盟S15全球总决赛夺冠预测",
+      "onboard_time": 1762569680,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83397,
       "num": 119041,
       "word": "钟睒睒771亿美元身家登顶内地富豪榜",
@@ -649,6 +689,14 @@
       "onboard_time": 1762522282,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81815,
+      "num": 81815,
+      "word": "凤凰台上 小枫的婚后生活",
+      "onboard_time": 1762572139,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 80606,
@@ -683,6 +731,22 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 78886,
+      "num": 78886,
+      "word": "山姆会员忍无可忍了吗",
+      "onboard_time": 1762571420,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77366,
+      "num": 107217,
+      "word": "空气炸锅烤苹果干",
+      "onboard_time": 1762569801,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76120,
       "num": 76120,
       "word": "陈奕迅 夸完你的夸你的",
@@ -699,28 +763,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74789,
-      "num": 107217,
-      "word": "空气炸锅烤苹果干",
-      "onboard_time": 1762569801,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 73832,
-      "num": 107167,
-      "word": "迪丽热巴全黑造型",
-      "onboard_time": 1762567819,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73224,
-      "num": 107125,
-      "word": "英雄联盟S15全球总决赛夺冠预测",
-      "onboard_time": 1762569680,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 74632,
+      "num": 74632,
+      "word": "全运会女子10米跳台",
+      "onboard_time": 1762570759,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 72581,
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62760,
+      "num": 135593,
+      "word": "北京飞悉尼航班现负43元票价",
+      "onboard_time": 1762571780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61892,
       "num": 106919,
       "word": "哈士奇满身脏毛用干毛巾一擦就干净",
@@ -889,6 +945,14 @@
       "onboard_time": 1762540275,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59906,
+      "num": 59906,
+      "word": "内娱居然也能看到洗澡争浴室的场景",
+      "onboard_time": 1762571900,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 57452,
@@ -1099,7 +1163,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4435,
+      "raw_hot": 11057,
+      "num": 82395,
+      "word": "律师谈传播医生出轨视频是否涉犯罪",
+      "onboard_time": 1762571540,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 4708,
       "num": 510061,
       "word": "全运会你最想看哪项比赛",
       "onboard_time": 1762449317,
@@ -1110,6 +1182,9 @@
   "hotgov_list": [
     {
       "word": "#我国第一艘电磁弹射型航空母舰入列#"
+    },
+    {
+      "word": "#习近平在广东省梅州市考察调研#"
     }
   ]
 }
