@@ -1,0 +1,410 @@
+{
+  "runTime": 1762579532220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029912,
+        "num": 1164785,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327439,
+        "num": 327439,
+        "word": "模仿劳荣枝的女主播被无限期封禁",
+        "onboard_time": 1762567399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20013,
+        "num": 230005,
+        "word": "十五运每日金牌看点",
+        "onboard_time": 1762565720,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525236,
+        "num": 222355,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1762558458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211298,
+        "num": 211298,
+        "word": "被欠物业费1200万物业退出不干了",
+        "onboard_time": 1762565540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174455,
+        "num": 211238,
+        "word": "香港一小学允许学生用简体字答题",
+        "onboard_time": 1762570281,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 302136,
+        "num": 210976,
+        "word": "暗河传大结局",
+        "onboard_time": 1762576641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133034,
+        "num": 210801,
+        "word": "北京飞悉尼航班现负43元票价",
+        "onboard_time": 1762571780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 210617,
+        "word": "全运会孙颖莎王艺迪对练",
+        "onboard_time": 1762579460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 210273,
+        "word": "杨瀚森超远三分神奇命中",
+        "onboard_time": 1762567278,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588094,
+        "num": 210154,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474309,
+        "num": 209977,
+        "word": "刘亦菲仿妆团播",
+        "onboard_time": 1762574841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239268,
+        "num": 209728,
+        "word": "怪不得长辈都喜欢大方的孩子",
+        "onboard_time": 1762572680,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213319,
+        "num": 209549,
+        "word": "金店员工慢动作操作挽损18万",
+        "onboard_time": 1762577241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212822,
+        "num": 209353,
+        "word": "全世界都知道龚俊有三不接了",
+        "onboard_time": 1762573401,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209199,
+        "num": 209199,
+        "word": "丑死了但是想下单",
+        "onboard_time": 1762578801,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192725,
+        "num": 192725,
+        "word": "孟子义疯狂好六夜cos阿精",
+        "onboard_time": 1762577300,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184556,
+        "num": 184556,
+        "word": "Peanut说LPL明年夺冠了",
+        "onboard_time": 1762577900,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86919,
+        "num": 175675,
+        "word": "山姆会员忍无可忍了吗",
+        "onboard_time": 1762571420,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166948,
+        "num": 166948,
+        "word": "时代少年团抢票",
+        "onboard_time": 1762575200,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 598810,
+        "num": 166877,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278122,
+        "num": 166368,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175832,
+        "num": 165945,
+        "word": "第一批主理人已经再就业",
+        "onboard_time": 1762578261,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165008,
+        "num": 165008,
+        "word": "猥亵男袭胸后称没感觉就是没摸到",
+        "onboard_time": 1762567399,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29298,
+        "num": 142939,
+        "word": "孙颖莎冬日温暖派送中",
+        "onboard_time": 1762574841,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176228,
+        "num": 142023,
+        "word": "王俊凯卡点为王源庆生",
+        "onboard_time": 1762532181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137807,
+        "num": 137807,
+        "word": "发明三层穿衣法的人是天才",
+        "onboard_time": 1762579219,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 132714,
+        "num": 132714,
+        "word": "崩坏星穹铁道黑色大丽花",
+        "onboard_time": 1762574721,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130390,
+        "num": 130390,
+        "word": "那英华晨宇兴奋度半合体",
+        "onboard_time": 1762578621,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39436,
+        "num": 128610,
+        "word": "美国真的为稀土着急了",
+        "onboard_time": 1762562120,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127679,
+        "num": 127679,
+        "word": "鹿晗吃嗨了后打了一套组合拳",
+        "onboard_time": 1762579340,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119437,
+        "num": 123691,
+        "word": "将门毒后",
+        "onboard_time": 1762578860,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "杭州警方核查网红教唆吸毒事件",
+        "onboard_time": 1762577840,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122191,
+        "num": 122191,
+        "word": "女子推婴儿车堵高铁过道就不让",
+        "onboard_time": 1762577540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117881,
+        "num": 117881,
+        "word": "哈尔滨一小区内有人遛企鹅",
+        "onboard_time": 1762573401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113596,
+        "num": 113596,
+        "word": "内娱长公主101",
+        "onboard_time": 1762578561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108738,
+        "num": 108738,
+        "word": "朱珠白开水妆",
+        "onboard_time": 1762579159,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104764,
+        "num": 104764,
+        "word": "花儿与少年",
+        "onboard_time": 1762578261,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104442,
+        "num": 104442,
+        "word": "Meta去年靠诈骗广告赚1140亿",
+        "onboard_time": 1762577540,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 102560,
+        "word": "林永健林大俊像从古代穿过来的",
+        "onboard_time": 1762578621,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102381,
+        "num": 102381,
+        "word": "女生回应2次考研失败上青岛技校",
+        "onboard_time": 1762576699,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 102047,
+        "word": "新闻女王2的广植入真的笑死我",
+        "onboard_time": 1762570400,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101855,
+        "num": 101855,
+        "word": "梁婷为辛芷蕾发声",
+        "onboard_time": 1762564159,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100632,
+        "num": 100632,
+        "word": "湖人赢下万分之一概率",
+        "onboard_time": 1762578739,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39984,
+        "num": 99397,
+        "word": "美团今天半价真的假的",
+        "onboard_time": 1762574841,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98692,
+        "num": 98692,
+        "word": "何超琼曾为向佐赌债乌龙道歉",
+        "onboard_time": 1762571960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98201,
+        "num": 98201,
+        "word": "AG年总勇往直前",
+        "onboard_time": 1762578321,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98108,
+        "num": 98108,
+        "word": "周深不轻松大家就轻松",
+        "onboard_time": 1762578379,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75562,
+        "num": 94389,
+        "word": "四部男主剧对打谁赢了",
+        "onboard_time": 1762577959,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93643,
+        "num": 93643,
+        "word": "保姆称为伺候9旬大爷委屈领证",
+        "onboard_time": 1762579340,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东省梅州市考察调研#"
+    }
+  }
+}

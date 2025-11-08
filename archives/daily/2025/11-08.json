@@ -1,10 +1,10 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762577016474,
+  "endTime": 1762579532220,
   "band_list": [
     {
       "raw_hot": 3308875,
-      "num": 140383,
+      "num": 142023,
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 718156,
-      "num": 182198,
+      "num": 210154,
       "word": "内娱综艺的尺度已经这么大了吗",
       "onboard_time": 1762568358,
       "rank": 10,
@@ -88,6 +88,14 @@
       "word": "25岁的王源",
       "onboard_time": 1762532240,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 474309,
+      "num": 209977,
+      "word": "刘亦菲仿妆团播",
+      "onboard_time": 1762574841,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 367367,
-      "num": 175285,
+      "num": 209353,
       "word": "全世界都知道龚俊有三不接了",
       "onboard_time": 1762573401,
       "rank": 23,
@@ -220,11 +228,19 @@
     },
     {
       "raw_hot": 304788,
-      "num": 175185,
+      "num": 209728,
       "word": "怪不得长辈都喜欢大方的孩子",
       "onboard_time": 1762572680,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302136,
+      "num": 210976,
+      "word": "暗河传大结局",
+      "onboard_time": 1762576641,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 299925,
@@ -251,15 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277204,
-      "num": 172232,
-      "word": "刘亦菲仿妆团播",
-      "onboard_time": 1762574841,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 276817,
+      "raw_hot": 278122,
       "num": 167092,
       "word": "陈芋汐407C失误",
       "onboard_time": 1762575560,
@@ -299,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 213319,
+      "num": 209549,
+      "word": "金店员工慢动作操作挽损18万",
+      "onboard_time": 1762577241,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213046,
       "num": 172419,
       "word": "婚后三年不孕女子查出男性染色体",
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209199,
+      "num": 209199,
+      "word": "丑死了但是想下单",
+      "onboard_time": 1762578801,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202843,
       "num": 202843,
       "word": "iPhone18系列10大升级",
@@ -331,16 +355,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201538,
-      "num": 201538,
-      "word": "暗河传大结局",
-      "onboard_time": 1762576641,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197593,
-      "num": 185195,
+      "num": 210273,
       "word": "杨瀚森超远三分神奇命中",
       "onboard_time": 1762567278,
       "rank": 31,
@@ -353,6 +369,14 @@
       "onboard_time": 1762561939,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192725,
+      "num": 192725,
+      "word": "孟子义疯狂好六夜cos阿精",
+      "onboard_time": 1762577300,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 191676,
@@ -403,8 +427,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184556,
+      "num": 184556,
+      "word": "Peanut说LPL明年夺冠了",
+      "onboard_time": 1762577900,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177769,
-      "num": 177769,
+      "num": 210801,
       "word": "北京飞悉尼航班现负43元票价",
       "onboard_time": 1762571780,
       "rank": 19,
@@ -425,6 +457,14 @@
       "onboard_time": 1762511902,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175832,
+      "num": 165945,
+      "word": "第一批主理人已经再就业",
+      "onboard_time": 1762578261,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175174,
@@ -539,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137807,
+      "num": 137807,
+      "word": "发明三层穿衣法的人是天才",
+      "onboard_time": 1762579219,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 133741,
       "num": 193154,
       "word": "西安市委书记方红卫被查",
@@ -555,11 +603,35 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 132714,
+      "num": 175203,
+      "word": "崩坏星穹铁道黑色大丽花",
+      "onboard_time": 1762574721,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132617,
       "num": 115704,
       "word": "声鸣远扬总决赛评审官宣",
       "onboard_time": 1762573161,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131297,
+      "num": 210617,
+      "word": "全运会孙颖莎王艺迪对练",
+      "onboard_time": 1762579460,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130390,
+      "num": 130390,
+      "word": "那英华晨宇兴奋度半合体",
+      "onboard_time": 1762578621,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -579,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127679,
+      "num": 127679,
+      "word": "鹿晗吃嗨了后打了一套组合拳",
+      "onboard_time": 1762579340,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126713,
       "num": 101417,
       "word": "关晓彤说自己有事业心",
       "onboard_time": 1762575080,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125842,
-      "num": 175203,
-      "word": "崩坏星穹铁道黑色大丽花",
-      "onboard_time": 1762574721,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 124578,
@@ -611,12 +683,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123323,
+      "num": 123323,
+      "word": "杭州警方核查网红教唆吸毒事件",
+      "onboard_time": 1762577840,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123237,
-      "num": 140480,
+      "num": 142939,
       "word": "孙颖莎冬日温暖派送中",
       "onboard_time": 1762574841,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122191,
+      "num": 122191,
+      "word": "女子推婴儿车堵高铁过道就不让",
+      "onboard_time": 1762577540,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121562,
@@ -635,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119437,
+      "num": 123691,
+      "word": "将门毒后",
+      "onboard_time": 1762578860,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119247,
       "num": 119247,
       "word": "女生买衣服好看的定律",
@@ -649,6 +745,14 @@
       "onboard_time": 1762521921,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113596,
+      "num": 113596,
+      "word": "内娱长公主101",
+      "onboard_time": 1762578561,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 112321,
@@ -692,11 +796,19 @@
     },
     {
       "raw_hot": 108926,
-      "num": 108926,
+      "num": 175675,
       "word": "山姆会员忍无可忍了吗",
       "onboard_time": 1762571420,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108738,
+      "num": 108738,
+      "word": "朱珠白开水妆",
+      "onboard_time": 1762579159,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 107478,
@@ -715,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104764,
+      "num": 104764,
+      "word": "花儿与少年",
+      "onboard_time": 1762578261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104647,
       "num": 136661,
       "word": "暗河传",
       "onboard_time": 1762574001,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104442,
+      "num": 104442,
+      "word": "Meta去年靠诈骗广告赚1140亿",
+      "onboard_time": 1762577540,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 103058,
@@ -731,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102381,
+      "num": 102381,
+      "word": "女生回应2次考研失败上青岛技校",
+      "onboard_time": 1762576699,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102073,
       "num": 102073,
       "word": "将门毒后选角",
       "onboard_time": 1762518261,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100632,
+      "num": 100632,
+      "word": "湖人赢下万分之一概率",
+      "onboard_time": 1762578739,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 100528,
@@ -753,6 +897,22 @@
       "onboard_time": 1762572139,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98201,
+      "num": 98201,
+      "word": "AG年总勇往直前",
+      "onboard_time": 1762578321,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98108,
+      "num": 98108,
+      "word": "周深不轻松大家就轻松",
+      "onboard_time": 1762578379,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 97988,
@@ -800,6 +960,14 @@
       "word": "原配与第三者起冲突8年后再被刑拘",
       "onboard_time": 1762574300,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93643,
+      "num": 93643,
+      "word": "保姆称为伺候9旬大爷委屈领证",
+      "onboard_time": 1762579340,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -987,14 +1155,6 @@
       "category": "健康医疗,母婴育儿"
     },
     {
-      "raw_hot": 77838,
-      "num": 77838,
-      "word": "女生回应2次考研失败上青岛技校",
-      "onboard_time": 1762576699,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77366,
       "num": 107217,
       "word": "空气炸锅烤苹果干",
@@ -1025,6 +1185,14 @@
       "onboard_time": 1762533378,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75562,
+      "num": 94389,
+      "word": "四部男主剧对打谁赢了",
+      "onboard_time": 1762577959,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 75365,
@@ -1377,6 +1545,14 @@
       "onboard_time": 1762549333,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21738,
+      "num": 102560,
+      "word": "林永健林大俊像从古代穿过来的",
+      "onboard_time": 1762578621,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 20982,

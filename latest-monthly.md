@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 12:43:36
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 13:25:32
 </p>
 </blockquote>
 <p>
@@ -1911,6 +1911,12 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BB%BF%E5%A6%86%E5%9B%A2%E6%92%AD%23" target="weibo">
+刘亦菲仿妆团播（热度：474309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E6%88%B7%E6%99%A8%E9%A3%8E%E5%B0%81%E5%8F%B7%E8%AF%A6%E6%83%85%23" target="weibo">
 央视披露户晨风封号详情（热度：474113）
 </a>
@@ -3243,6 +3249,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+暗河传大结局（热度：302136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%AB%E5%BC%8B%E5%8D%9A%23" target="weibo">
 王一博工作室叫弋博（热度：301599）
 </a>
@@ -3525,20 +3537,14 @@ T1战胜AL（热度：279371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%BB%BF%E5%A6%86%E5%9B%A2%E6%92%AD%23" target="weibo">
-刘亦菲仿妆团播（热度：277204）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
+陈芋汐407C失误（热度：278122）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%9B%BD%E7%A6%8F%E5%9B%9E%E5%BA%941%E6%96%A4%E8%B1%86%E8%8A%BD28%E5%85%83%23" target="weibo">
 杨国福回应1斤豆芽28元（热度：276944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
-陈芋汐407C失误（热度：276817）
 </a>
 </li>
 
@@ -4545,6 +4551,12 @@ A勒布伦惊天逆转张本智和（热度：217137）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%91%98%E5%B7%A5%E6%85%A2%E5%8A%A8%E4%BD%9C%E6%93%8D%E4%BD%9C%E6%8C%BD%E6%8D%9F18%E4%B8%87%23" target="weibo">
+金店员工慢动作操作挽损18万（热度：213319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E6%AC%A1%E8%A2%AB%E5%BC%80%E6%8B%93%E8%80%85DNP%23" target="weibo">
 杨瀚森首次被开拓者DNP（热度：213106）
 </a>
@@ -4649,6 +4661,12 @@ Uzi离开场馆（热度：211416）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%8D%E5%87%BA%E9%A6%96%E6%88%98%E5%91%8A%E6%8D%B7%23" target="weibo">
 全红婵复出首战告捷（热度：209397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
+丑死了但是想下单（热度：209199）
 </a>
 </li>
 
@@ -4913,12 +4931,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%94%9F%E5%BF%8C%E5%A5%B3%E5%84%BF%E5%8F%91%E6%96%87%23" target="weibo">
 许绍雄生忌女儿发文（热度：201607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-暗河传大结局（热度：201538）
 </a>
 </li>
 
@@ -5201,6 +5213,12 @@ Gumayusi回应淘汰AL（热度：201128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A23%E5%B2%81%E5%A5%B3%E5%AD%90%E5%96%9D%E9%85%92%E6%8C%91%E6%88%98%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 哥伦比亚23岁女子喝酒挑战后去世（热度：193035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%96%AF%E7%8B%82%E5%A5%BD%E5%85%AD%E5%A4%9Ccos%E9%98%BF%E7%B2%BE%23" target="weibo">
+孟子义疯狂好六夜cos阿精（热度：192725）
 </a>
 </li>
 
@@ -5577,6 +5595,12 @@ A股（热度：186226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Peanut%E8%AF%B4LPL%E6%98%8E%E5%B9%B4%E5%A4%BA%E5%86%A0%E4%BA%86%23" target="weibo">
+Peanut说LPL明年夺冠了（热度：184556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E6%94%B9%E5%96%84%E7%9C%BC%E5%87%B8%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 高度近视改善眼凸的方法（热度：184490）
 </a>
@@ -5883,6 +5907,12 @@ Uzi心中最强AD是Ruler（热度：177557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%BB%E7%90%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%86%8D%E5%B0%B1%E4%B8%9A%23" target="weibo">
+第一批主理人已经再就业（热度：175832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%BA%A6%E5%90%B4%E8%B0%A8%E8%A8%80%E5%95%86%E8%AE%AE%E5%90%8E%E7%BB%AD%E7%9A%84%E6%88%8F%23" target="weibo">
 于正约吴谨言商议后续的戏（热度：175758）
 </a>
@@ -5981,36 +6011,6 @@ AL爱笑谈队员续约（热度：173578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%97%A5%E6%8E%9B%E4%B8%AD%E5%A4%A9%23" target="weibo">
 电影日掛中天（热度：172932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%87%AA%E5%B7%B1%E7%A7%8D%E7%9A%84%E5%A4%A7%E8%90%9D%E5%8D%9C%E9%83%BD%E6%98%AF%E8%99%AB%E7%9C%BC%23" target="weibo">
-曾黎自己种的大萝卜都是虫眼（热度：172922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E4%BB%A5%E4%B8%BA89%E5%85%83%E4%B8%80%E6%96%A4%E5%AE%9E%E9%99%85%E6%98%AF%E5%8D%8A%E6%96%A4%23" target="weibo">
-绝味鸭脖以为89元一斤实际是半斤（热度：172607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E20%E7%A5%9E21%E4%BA%A4%E6%8E%A5%E7%A9%BA%E9%97%B4%E7%AB%99%E9%92%A5%E5%8C%99%23" target="weibo">
-神20神21交接空间站钥匙（热度：172603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%85%AC%E7%A4%BA%E5%91%98%E5%B7%A5%E5%8B%87%E6%95%A2%E6%AD%A3%E4%B9%89%E5%A5%96%E5%8A%B1%23" target="weibo">
-胖东来公示员工勇敢正义奖励（热度：172563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E7%94%B5%E5%BD%B1%E8%8A%82%E4%B8%8A%E7%9A%84%E6%B2%88%E6%9C%88%23" target="weibo">
-中美电影节上的沈月（热度：172465）
 </a>
 </li>
 
