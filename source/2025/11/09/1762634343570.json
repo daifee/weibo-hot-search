@@ -1,0 +1,410 @@
+{
+  "runTime": 1762634343570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 92774,
+        "num": 92774,
+        "word": "小胖状态",
+        "onboard_time": 1762615521,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53867,
+        "num": 53867,
+        "word": "AG奖金",
+        "onboard_time": 1762617441,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16006,
+        "num": 42324,
+        "word": "第十五届全运会",
+        "onboard_time": 1762612583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34567,
+        "num": 34567,
+        "word": "第一支在鸟巢夺冠的中国战队",
+        "onboard_time": 1762613542,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29521,
+        "num": 29521,
+        "word": "枭起青壤",
+        "onboard_time": 1762613183,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27030,
+        "num": 29442,
+        "word": "固体杨枝甘露卖到66元一份",
+        "onboard_time": 1762614502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26214,
+        "num": 29305,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762598241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24380,
+        "num": 29160,
+        "word": "男子帮邻居关液化气瓶遇爆炸离世",
+        "onboard_time": 1762612103,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23766,
+        "num": 29048,
+        "word": "hi6收视新高",
+        "onboard_time": 1762614023,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23109,
+        "num": 28930,
+        "word": "全运会跳水选手差点摔出水池",
+        "onboard_time": 1762613484,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100338,
+        "num": 28855,
+        "word": "繁花剧组回应古二录音",
+        "onboard_time": 1762601360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75489,
+        "num": 28687,
+        "word": "古二公开录音涉嫌违法",
+        "onboard_time": 1762612764,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49188,
+        "num": 28592,
+        "word": "快睡着时身体抖了一下的原因",
+        "onboard_time": 1762606520,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36039,
+        "num": 28514,
+        "word": "米哈游 黑色大丽花",
+        "onboard_time": 1762606580,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34241,
+        "num": 28402,
+        "word": "716团队",
+        "onboard_time": 1762609341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30624,
+        "num": 28201,
+        "word": "戈娅FMVP皮肤",
+        "onboard_time": 1762613003,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28189,
+        "num": 28189,
+        "word": "AG夺冠",
+        "onboard_time": 1762611024,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27315,
+        "num": 27315,
+        "word": "一诺FMVP",
+        "onboard_time": 1762611922,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23686,
+        "num": 27309,
+        "word": "将门毒后 黄羿",
+        "onboard_time": 1762599560,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18007,
+        "num": 27305,
+        "word": "人民咖啡馆更名",
+        "onboard_time": 1762611622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58301,
+        "num": 27294,
+        "word": "鹿晗比脸更该申遗的是这张嘴",
+        "onboard_time": 1762620978,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46651,
+        "num": 27284,
+        "word": "易烊千玺给王源送生日祝福了",
+        "onboard_time": 1762615641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39662,
+        "num": 27277,
+        "word": "男子喉咙痛1个月咽喉长满雪花",
+        "onboard_time": 1762610122,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21692,
+        "num": 27264,
+        "word": "75岁刘晓庆喊姥姥结果对方才74岁",
+        "onboard_time": 1762613303,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17762,
+        "num": 27249,
+        "word": "F1",
+        "onboard_time": 1762611622,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17220,
+        "num": 27243,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1762615521,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16611,
+        "num": 27234,
+        "word": "王源演唱会",
+        "onboard_time": 1762602380,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15392,
+        "num": 27230,
+        "word": "福建舰为什么被子不叠豆腐块",
+        "onboard_time": 1762597881,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15298,
+        "num": 27221,
+        "word": "68岁潘长江演短剧10天2亿播放量",
+        "onboard_time": 1762630394,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13461,
+        "num": 27206,
+        "word": "这些照片千万不要发在朋友圈",
+        "onboard_time": 1762592720,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 27195,
+        "word": "南派三叔在线摇人找丁禹兮微信",
+        "onboard_time": 1762608441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21115,
+        "num": 27188,
+        "word": "宋雨琦怎么辣成这样",
+        "onboard_time": 1762615883,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20797,
+        "num": 27175,
+        "word": "王者荣耀",
+        "onboard_time": 1762614922,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18647,
+        "num": 27169,
+        "word": "朱珠 气血足到头顶",
+        "onboard_time": 1762610422,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18571,
+        "num": 27160,
+        "word": "接孙尚香FMVP",
+        "onboard_time": 1762609102,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17717,
+        "num": 27151,
+        "word": "一诺好牛",
+        "onboard_time": 1762598061,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17483,
+        "num": 27144,
+        "word": "女子生产大出血孩子爷爷将娃送人",
+        "onboard_time": 1762601120,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16589,
+        "num": 27128,
+        "word": "一诺这是我们的时代",
+        "onboard_time": 1762616182,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14085,
+        "num": 27119,
+        "word": "唐朝诡事录3首播反馈",
+        "onboard_time": 1762607841,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15687,
+        "num": 27115,
+        "word": "AG对战狼队",
+        "onboard_time": 1762593500,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14027,
+        "num": 27100,
+        "word": "易烊千玺回应提名金鸡奖",
+        "onboard_time": 1762619600,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13798,
+        "num": 27094,
+        "word": "花海时团再相遇",
+        "onboard_time": 1762613663,
+        "rank": 41,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 13780,
+        "num": 27087,
+        "word": "TF二三四代物料观看人数",
+        "onboard_time": 1762616662,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13414,
+        "num": 27078,
+        "word": "2025f1圣保罗大奖赛",
+        "onboard_time": 1762624096,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13080,
+        "num": 27066,
+        "word": "邓紫棋与T1全队合影",
+        "onboard_time": 1762617322,
+        "rank": 44,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 13079,
+        "num": 27052,
+        "word": "水龙吟",
+        "onboard_time": 1762624096,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12913,
+        "num": 27048,
+        "word": "唐朝诡事录热度",
+        "onboard_time": 1762594822,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12348,
+        "num": 27032,
+        "word": "微博大眼音乐节",
+        "onboard_time": 1762626435,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11847,
+        "num": 27030,
+        "word": "陈芋汐全运会倒立俯卧撑",
+        "onboard_time": 1762608321,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11702,
+        "num": 27017,
+        "word": "一诺回应FMVP",
+        "onboard_time": 1762615341,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#看习近平心系南粤大地#"
+    }
+  }
+}
