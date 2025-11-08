@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 09:51:23
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/08 10:13:10
 </p>
 </blockquote>
 <p>
@@ -256,7 +256,7 @@ T1战胜TES（热度：1686829）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E7%8E%8B%E6%BA%90%23" target="weibo">
-易烊千玺 王源（热度：1313625）
+易烊千玺 王源（热度：1314436）
 </a>
 </li>
 
@@ -389,6 +389,12 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%84%9F%E8%B0%A2%E7%99%BD%E7%99%BE%E4%BD%95%23" target="weibo">
 王传君感谢白百何（热度：1112743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%23" target="weibo">
+四喜（热度：1108452）
 </a>
 </li>
 
@@ -611,12 +617,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E9%95%AF10%E5%B9%B4%E6%9C%AA%E6%91%98%E9%95%BF%E8%BF%9B%E8%82%89%E9%87%8C%23" target="weibo">
 女子手镯10年未摘长进肉里（热度：869920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%23" target="weibo">
-四喜（热度：867964）
 </a>
 </li>
 
@@ -1365,6 +1365,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%A2%AB%E6%9F%90%E5%88%B6%E4%BD%9C%E4%BA%BA%E8%AE%A4%E5%BD%93%E5%B9%B2%E5%A5%B3%E5%84%BF%23" target="weibo">
+曝赵樱子被某制作人认当干女儿（热度：567436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E20%E8%BF%94%E5%9B%9E%E4%BB%BB%E5%8A%A1%E6%8E%A8%E8%BF%9F%23" target="weibo">
 神20返回任务推迟（热度：566881）
 </a>
@@ -1721,12 +1727,6 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E6%94%BE%E7%94%9F%E8%87%B4%E5%A4%A7%E9%87%8F%E7%8C%AB%E5%92%AA%E8%90%BD%E6%B0%B4%23" target="weibo">
 水库附近放生致大量猫咪落水（热度：498708）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%A2%AB%E6%9F%90%E5%88%B6%E4%BD%9C%E4%BA%BA%E8%AE%A4%E5%BD%93%E5%B9%B2%E5%A5%B3%E5%84%BF%23" target="weibo">
-曝赵樱子被某制作人认当干女儿（热度：497230）
 </a>
 </li>
 
@@ -3249,6 +3249,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%A9%B7%E4%B8%BA%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%8F%91%E5%A3%B0%23" target="weibo">
+梁婷为辛芷蕾发声（热度：296450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Tarzan%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 Tarzan发文致歉（热度：295392）
 </a>
@@ -3377,6 +3383,12 @@ Tarzan发文致歉（热度：295392）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%BC%BA%E5%B8%AD%E5%A5%94%E8%B7%91%E5%90%A7%E6%96%B0%E7%96%86%E7%AB%99%23" target="weibo">
 张真源缺席奔跑吧新疆站（热度：285304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%88%AA%E5%9B%9E%E5%BA%94%E7%A9%BA%E4%B9%98%E7%A9%BF%E6%AF%9B%E8%A1%A3%E8%A2%AB%E5%90%90%E6%A7%BD%E5%9C%9F%23" target="weibo">
+山航回应空乘穿毛衣被吐槽土（热度：284864）
 </a>
 </li>
 
@@ -3861,12 +3873,6 @@ Rita评论席举起LPL战旗（热度：247319）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%A9%B7%E4%B8%BA%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%8F%91%E5%A3%B0%23" target="weibo">
-梁婷为辛芷蕾发声（热度：245726）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84Labubu%E6%98%AFD%23" target="weibo">
 樊振东的Labubu是D（热度：245587）
 </a>
@@ -4271,6 +4277,12 @@ AL教练后台痛哭（热度：226913）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%9B%9E%E5%BA%94%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E8%8E%B7%E5%A5%96%E5%90%8E%E4%B8%8D%E7%AC%91%23" target="weibo">
 王传君回应东京电影节获奖后不笑（热度：220625）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%A1%E4%BB%BF%E5%8A%B3%E8%8D%A3%E6%9E%9D%E7%9A%84%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%97%A0%E9%99%90%E6%9C%9F%E5%B0%81%E7%A6%81%23" target="weibo">
+模仿劳荣枝的女主播被无限期封禁（热度：220620）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ AL爱笑谈队员续约（热度：173578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%9C%89%E5%89%A7%E8%BE%B9%E6%8B%8D%E8%BE%B9%E6%92%AD%23" target="weibo">
 怎么有剧边拍边播（热度：170792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%B4%8B%20%E5%8F%AF%E6%84%8F%23" target="weibo">
-辛洋 可意（热度：170382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%B4%A8%E7%96%91%E5%AD%99%E5%8D%83%E7%90%86%E8%A7%A3%E5%AD%99%E5%8D%83%E6%88%90%E4%B8%BA%E5%AD%99%E5%8D%83%23" target="weibo">
-白敬亭质疑孙千理解孙千成为孙千（热度：169813）
 </a>
 </li>
 

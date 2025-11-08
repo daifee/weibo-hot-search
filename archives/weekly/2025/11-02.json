@@ -1,6 +1,6 @@
 {
   "startTime": 1762014499365,
-  "endTime": 1762566683598,
+  "endTime": 1762567990903,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3308875,
-      "num": 132091,
+      "num": 136653,
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
@@ -275,8 +275,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1313625,
-      "num": 140702,
+      "raw_hot": 1314436,
+      "num": 144044,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -425,6 +425,14 @@
       "onboard_time": 1762335923,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1108452,
+      "num": 1177352,
+      "word": "四喜",
+      "onboard_time": 1762157061,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 1087235,
@@ -673,14 +681,6 @@
       "onboard_time": 1762000102,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 867964,
-      "num": 1138874,
-      "word": "四喜",
-      "onboard_time": 1762157061,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 865110,
@@ -1555,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 567436,
+      "num": 143978,
+      "word": "曝赵樱子被某制作人认当干女儿",
+      "onboard_time": 1762562419,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566881,
       "num": 566881,
       "word": "神20返回任务推迟",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1762052178,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 497230,
-      "num": 139212,
-      "word": "曝赵樱子被某制作人认当干女儿",
-      "onboard_time": 1762562419,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 495506,
@@ -3468,7 +3468,7 @@
     },
     {
       "raw_hot": 328411,
-      "num": 136809,
+      "num": 162164,
       "word": "被欠物业费1200万物业退出不干了",
       "onboard_time": 1762565540,
       "rank": 22,
@@ -3779,6 +3779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296450,
+      "num": 176915,
+      "word": "梁婷为辛芷蕾发声",
+      "onboard_time": 1762564159,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1762048399,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284864,
+      "num": 157384,
+      "word": "山航回应空乘穿毛衣被吐槽土",
+      "onboard_time": 1762565060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284719,
@@ -4137,6 +4153,14 @@
       "onboard_time": 1762441461,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269605,
+      "num": 237693,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1762558458,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 269384,
@@ -4483,14 +4507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245726,
-      "num": 176915,
-      "word": "梁婷为辛芷蕾发声",
-      "onboard_time": 1762564159,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245587,
       "num": 154887,
       "word": "樊振东的Labubu是D",
@@ -4609,14 +4625,6 @@
       "onboard_time": 1762156281,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237693,
-      "num": 237693,
-      "word": "唐朝诡事录之长安",
-      "onboard_time": 1762558458,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 237070,
@@ -4929,6 +4937,14 @@
       "onboard_time": 1762422742,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220620,
+      "num": 155164,
+      "word": "模仿劳荣枝的女主播被无限期封禁",
+      "onboard_time": 1762567399,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220263,
@@ -5740,7 +5756,7 @@
     },
     {
       "raw_hot": 195263,
-      "num": 133814,
+      "num": 138052,
       "word": "医生提醒吃奶皮子糖葫芦时间很重要",
       "onboard_time": 1762561939,
       "rank": 24,
@@ -6708,7 +6724,7 @@
     },
     {
       "raw_hot": 172607,
-      "num": 121556,
+      "num": 128059,
       "word": "绝味鸭脖以为89元一斤实际是半斤",
       "onboard_time": 1762561880,
       "rank": 27,
@@ -7219,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164082,
+      "num": 132180,
+      "word": "瘦下来后性格变坏了的原因",
+      "onboard_time": 1762565118,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163851,
       "num": 163851,
       "word": "贵阳对时代少年团太宠了",
@@ -7353,14 +7377,6 @@
       "onboard_time": 1762143742,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 161387,
-      "num": 117022,
-      "word": "瘦下来后性格变坏了的原因",
-      "onboard_time": 1762565118,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 161320,
@@ -7713,6 +7729,14 @@
       "onboard_time": 1762151422,
       "rank": 23,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "猥亵男袭胸后称没感觉就是没摸到",
+      "onboard_time": 1762567399,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 154876,
@@ -8611,14 +8635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141205,
-      "num": 141205,
-      "word": "山航回应空乘穿毛衣被吐槽土",
-      "onboard_time": 1762565060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141151,
       "num": 141151,
       "word": "向太说汪小姐演得很好",
@@ -8769,6 +8785,14 @@
       "onboard_time": 1762404561,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139762,
+      "num": 184996,
+      "word": "有选手曾在扇耳光大赛中去世",
+      "onboard_time": 1762566200,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139742,
@@ -10627,6 +10651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121562,
+      "num": 121562,
+      "word": "教授称中国人工作时间太长",
+      "onboard_time": 1762566559,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121478,
       "num": 121478,
       "word": "华为Mate70Air真机曝光",
@@ -11121,6 +11153,14 @@
       "onboard_time": 1762080680,
       "rank": 28,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "杨瀚森超远三分神奇命中",
+      "onboard_time": 1762567278,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 116850,
@@ -15779,6 +15819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89200,
+      "num": 89200,
+      "word": "14岁初中生作文看哭全网本人回应",
+      "onboard_time": 1762563500,
+      "rank": 46,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 89186,
       "num": 89186,
       "word": "宋亚轩真假音切换",
@@ -16697,6 +16745,14 @@
       "onboard_time": 1762039398,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84828,
+      "num": 84828,
+      "word": "车企效仿特斯拉推46亿美元薪酬方案",
+      "onboard_time": 1762566740,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 84825,
@@ -18507,6 +18563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72176,
+      "num": 122578,
+      "word": "童瑶蒋欣新剧天崩开局",
+      "onboard_time": 1762563500,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72172,
       "num": 72172,
       "word": "贾冰说黄景瑜没有心眼子",
@@ -18553,14 +18617,6 @@
       "onboard_time": 1762479319,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 71614,
-      "num": 71614,
-      "word": "教授称中国人工作时间太长",
-      "onboard_time": 1762566559,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71555,
@@ -18721,6 +18777,14 @@
       "onboard_time": 1762038737,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69592,
+      "num": 69592,
+      "word": "灰熊vs独行侠",
+      "onboard_time": 1762567639,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 69507,
@@ -18971,6 +19035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66519,
+      "num": 66519,
+      "word": "固体杨枝甘露已进化成榴莲汉堡",
+      "onboard_time": 1762561880,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66450,
       "num": 69894,
       "word": "上海平均工资全国第一",
@@ -19051,6 +19123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65635,
+      "num": 65635,
+      "word": "明道老婆回应天国的嫁衣售后",
+      "onboard_time": 1762567879,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65433,
       "num": 157081,
       "word": "南通队长哭了",
@@ -19065,14 +19145,6 @@
       "onboard_time": 1762050259,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65318,
-      "num": 65318,
-      "word": "有选手曾在扇耳光大赛中去世",
-      "onboard_time": 1762566200,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65151,
@@ -19123,14 +19195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64849,
-      "num": 64849,
-      "word": "童瑶蒋欣新剧天崩开局",
-      "onboard_time": 1762563500,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 64729,
       "num": 94550,
       "word": "华为首款星闪耳机能否封神",
@@ -19179,14 +19243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 64401,
-      "num": 64401,
-      "word": "14岁初中生作文看哭全网本人回应",
-      "onboard_time": 1762563500,
-      "rank": 46,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 64228,
       "num": 95007,
       "word": "马思纯花少7收官文",
@@ -19201,14 +19257,6 @@
       "onboard_time": 1762172421,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63888,
-      "num": 63888,
-      "word": "固体杨枝甘露已进化成榴莲汉堡",
-      "onboard_time": 1762561880,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 63793,
@@ -19603,6 +19651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57452,
+      "num": 57452,
+      "word": "陈艾森7金告别全运会",
+      "onboard_time": 1762563678,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57424,
       "num": 156934,
       "word": "广东多人收到百里挑一短信",
@@ -19681,6 +19737,14 @@
       "onboard_time": 1762530440,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56094,
+      "num": 56094,
+      "word": "TFBOYS友谊",
+      "onboard_time": 1762559898,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 56090,

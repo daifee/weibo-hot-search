@@ -1,18 +1,18 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762566683598,
+  "endTime": 1762567990903,
   "band_list": [
     {
       "raw_hot": 3308875,
-      "num": 132091,
+      "num": 136653,
       "word": "王俊凯卡点为王源庆生",
       "onboard_time": 1762532181,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 1313625,
-      "num": 140702,
+      "raw_hot": 1314436,
+      "num": 144044,
       "word": "易烊千玺 王源",
       "onboard_time": 1762562601,
       "rank": 20,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 867964,
-      "num": 1138874,
+      "raw_hot": 1108452,
+      "num": 1177352,
       "word": "四喜",
       "onboard_time": 1762558818,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 497230,
-      "num": 139212,
+      "raw_hot": 567436,
+      "num": 143978,
       "word": "曝赵樱子被某制作人认当干女儿",
       "onboard_time": 1762562419,
       "rank": 21,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 336672,
-      "num": 135146,
+      "num": 142300,
       "word": "弦子曝和李茂结婚时已怀孕",
       "onboard_time": 1762525521,
       "rank": 22,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 328411,
-      "num": 136809,
+      "num": 162164,
       "word": "被欠物业费1200万物业退出不干了",
       "onboard_time": 1762565540,
       "rank": 22,
@@ -163,7 +163,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245726,
+      "raw_hot": 296450,
       "num": 176915,
       "word": "梁婷为辛芷蕾发声",
       "onboard_time": 1762564159,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237693,
+      "raw_hot": 284864,
+      "num": 157384,
+      "word": "山航回应空乘穿毛衣被吐槽土",
+      "onboard_time": 1762565060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269605,
       "num": 237693,
       "word": "唐朝诡事录之长安",
       "onboard_time": 1762558458,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220620,
+      "num": 155164,
+      "word": "模仿劳荣枝的女主播被无限期封禁",
+      "onboard_time": 1762567399,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217450,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 195263,
-      "num": 133814,
+      "num": 138052,
       "word": "医生提醒吃奶皮子糖葫芦时间很重要",
       "onboard_time": 1762561939,
       "rank": 24,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 172607,
-      "num": 121556,
+      "num": 128059,
       "word": "绝味鸭脖以为89元一斤实际是半斤",
       "onboard_time": 1762561880,
       "rank": 27,
@@ -283,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 164082,
+      "num": 132180,
+      "word": "瘦下来后性格变坏了的原因",
+      "onboard_time": 1762565118,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162566,
       "num": 201204,
       "word": "空腹爬楼瘦了25斤",
@@ -291,20 +315,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 161387,
-      "num": 117022,
-      "word": "瘦下来后性格变坏了的原因",
-      "onboard_time": 1762565118,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "猪八戒扮演者回应刘大刚去世",
       "onboard_time": 1762524860,
       "rank": 47,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "猥亵男袭胸后称没感觉就是没摸到",
+      "onboard_time": 1762567399,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 152333,
@@ -323,11 +347,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141205,
-      "num": 141205,
-      "word": "山航回应空乘穿毛衣被吐槽土",
-      "onboard_time": 1762565060,
-      "rank": 19,
+      "raw_hot": 139762,
+      "num": 184996,
+      "word": "有选手曾在扇耳光大赛中去世",
+      "onboard_time": 1762566200,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -363,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121562,
+      "num": 121562,
+      "word": "教授称中国人工作时间太长",
+      "onboard_time": 1762566559,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120339,
       "num": 206048,
       "word": "中国核力量同美俄不在一个量级",
@@ -377,6 +409,14 @@
       "onboard_time": 1762521921,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "杨瀚森超远三分神奇命中",
+      "onboard_time": 1762567278,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 111645,
@@ -467,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89200,
+      "num": 89200,
+      "word": "14岁初中生作文看哭全网本人回应",
+      "onboard_time": 1762563500,
+      "rank": 46,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 85414,
       "num": 85414,
       "word": "沈佳润回应是否割双眼皮",
       "onboard_time": 1762530802,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84828,
+      "num": 84828,
+      "word": "车企效仿特斯拉推46亿美元薪酬方案",
+      "onboard_time": 1762566740,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 83397,
@@ -547,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71614,
-      "num": 71614,
-      "word": "教授称中国人工作时间太长",
-      "onboard_time": 1762566559,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 72176,
+      "num": 122578,
+      "word": "童瑶蒋欣新剧天崩开局",
+      "onboard_time": 1762563500,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 71266,
@@ -568,6 +624,14 @@
       "word": "十五运每日金牌看点",
       "onboard_time": 1762565720,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69592,
+      "num": 69592,
+      "word": "灰熊vs独行侠",
+      "onboard_time": 1762567639,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -619,12 +683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65318,
-      "num": 65318,
-      "word": "有选手曾在扇耳光大赛中去世",
-      "onboard_time": 1762566200,
+      "raw_hot": 66519,
+      "num": 66519,
+      "word": "固体杨枝甘露已进化成榴莲汉堡",
+      "onboard_time": 1762561880,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 65635,
+      "num": 65635,
+      "word": "明道老婆回应天国的嫁衣售后",
+      "onboard_time": 1762567879,
       "rank": 44,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 65151,
@@ -633,30 +705,6 @@
       "onboard_time": 1762565060,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64849,
-      "num": 64849,
-      "word": "童瑶蒋欣新剧天崩开局",
-      "onboard_time": 1762563500,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 64401,
-      "num": 64401,
-      "word": "14岁初中生作文看哭全网本人回应",
-      "onboard_time": 1762563500,
-      "rank": 46,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 63888,
-      "num": 63888,
-      "word": "固体杨枝甘露已进化成榴莲汉堡",
-      "onboard_time": 1762561880,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 62945,
@@ -675,12 +723,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57452,
+      "num": 57452,
+      "word": "陈艾森7金告别全运会",
+      "onboard_time": 1762563678,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56164,
       "num": 74804,
       "word": "恋与深空黎深",
       "onboard_time": 1762530440,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56094,
+      "num": 56094,
+      "word": "TFBOYS友谊",
+      "onboard_time": 1762559898,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 56049,
@@ -867,7 +931,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3300,
+      "raw_hot": 3647,
       "num": 264045,
       "word": "全运会你最想看哪项比赛",
       "onboard_time": 1762449317,
