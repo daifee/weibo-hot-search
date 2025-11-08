@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/08 22:22:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/08 22:39:31
 </p>
 </blockquote>
 <p>
@@ -1671,6 +1671,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E5%A4%BA%E5%86%A0%23" target="weibo">
+AG夺冠（热度：6577239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%20%E6%88%91%E5%92%8C%E9%9B%AA%E6%A2%A8%E5%9C%A8%E4%B8%80%E8%B5%B7%E6%98%AF%E4%BA%8B%E5%AE%9E%23" target="weibo">
 赵一博 我和雪梨在一起是事实（热度：6575117）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8C%97%E4%B8%80%E5%A5%B3%E5%AD%90%E7%96%91%E5%AE%B6%E6%9A%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
 警方通报河北一女子疑家暴去世（热度：5064753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23" target="weibo">
-成都震感（热度：5050675）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762612771776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6577239,
+        "num": 6577239,
+        "word": "AG夺冠",
+        "onboard_time": 1762611024,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3035361,
+        "num": 3035361,
+        "word": "一诺FMVP",
+        "onboard_time": 1762611922,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102258,
+        "num": 1507318,
+        "word": "第十五届全运会",
+        "onboard_time": 1762612583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768066,
+        "num": 768066,
+        "word": "王源演唱会",
+        "onboard_time": 1762602380,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 533995,
+        "num": 533995,
+        "word": "唐朝诡事录热度",
+        "onboard_time": 1762594822,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215014,
+        "num": 532297,
+        "word": "螺蛳粉店名 陆丝芬",
+        "onboard_time": 1762599922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716954,
+        "num": 528446,
+        "word": "KPL总决赛",
+        "onboard_time": 1762591401,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350668,
+        "num": 525309,
+        "word": "你好星期六下期是枭起青壤剧组",
+        "onboard_time": 1762609402,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207852,
+        "num": 520414,
+        "word": "这些照片千万不要发在朋友圈",
+        "onboard_time": 1762592720,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205771,
+        "num": 518059,
+        "word": "F1",
+        "onboard_time": 1762611622,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990971,
+        "num": 514631,
+        "word": "快睡着时身体抖了一下的原因",
+        "onboard_time": 1762606520,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 889117,
+        "num": 511086,
+        "word": "繁花剧组回应古二录音",
+        "onboard_time": 1762601360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510057,
+        "num": 510057,
+        "word": "接孙尚香FMVP",
+        "onboard_time": 1762609102,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243445,
+        "num": 493447,
+        "word": "唐朝诡事录3首播反馈",
+        "onboard_time": 1762607841,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194686,
+        "num": 481770,
+        "word": "易烊千玺四次获金鸡奖提名",
+        "onboard_time": 1762611383,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180885,
+        "num": 480948,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762598241,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480856,
+        "num": 480856,
+        "word": "将门毒后 黄羿",
+        "onboard_time": 1762599560,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33801,
+        "num": 475534,
+        "word": "好气血才能有好声音",
+        "onboard_time": 1762608981,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 106414,
+        "num": 471184,
+        "word": "男子帮邻居关液化气瓶遇爆炸离世",
+        "onboard_time": 1762612103,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46131,
+        "num": 465653,
+        "word": "狼队抢先一个蓝BUFF",
+        "onboard_time": 1762610842,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2766,
+        "num": 460746,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917850,
+        "num": 454530,
+        "word": "南派三叔在线摇人找丁禹兮微信",
+        "onboard_time": 1762608441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452434,
+        "num": 452434,
+        "word": "716团队",
+        "onboard_time": 1762609341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424880,
+        "num": 424880,
+        "word": "一诺好牛",
+        "onboard_time": 1762598061,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413420,
+        "num": 413420,
+        "word": "男子喉咙痛1个月咽喉长满雪花",
+        "onboard_time": 1762610122,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403876,
+        "num": 403876,
+        "word": "女子生产大出血孩子爷爷将娃送人",
+        "onboard_time": 1762601120,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378589,
+        "num": 378589,
+        "word": "AG对战狼队",
+        "onboard_time": 1762593500,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 297220,
+        "word": "付辛博演技",
+        "onboard_time": 1762610301,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161026,
+        "num": 259660,
+        "word": "福建舰为什么被子不叠豆腐块",
+        "onboard_time": 1762597881,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143259,
+        "num": 252360,
+        "word": "人民咖啡馆更名",
+        "onboard_time": 1762611622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251079,
+        "num": 251079,
+        "word": "朱珠 气血足到头顶",
+        "onboard_time": 1762610422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230051,
+        "num": 230051,
+        "word": "心疼道崽",
+        "onboard_time": 1762611983,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228591,
+        "num": 228591,
+        "word": "一诺心率好高",
+        "onboard_time": 1762604300,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211671,
+        "num": 211671,
+        "word": "小胖在干啥",
+        "onboard_time": 1762607422,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211421,
+        "num": 211421,
+        "word": "狼队开香槟",
+        "onboard_time": 1762609523,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185063,
+        "num": 185063,
+        "word": "AG六连冠",
+        "onboard_time": 1762611622,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183125,
+        "num": 183125,
+        "word": "AG年总率先拿到赛点",
+        "onboard_time": 1762608622,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88546,
+        "num": 180659,
+        "word": "张家界荒野求生选手抓到了野猪",
+        "onboard_time": 1762612103,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48623,
+        "num": 180441,
+        "word": "绝味鸭脖 标价刺客",
+        "onboard_time": 1762612283,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180362,
+        "num": 180362,
+        "word": "AG剧透",
+        "onboard_time": 1762597401,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166671,
+        "num": 166671,
+        "word": "31岁张晚意焦虑晚婚晚育",
+        "onboard_time": 1762594759,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118672,
+        "num": 164670,
+        "word": "陈芋汐全运会倒立俯卧撑",
+        "onboard_time": 1762608321,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164355,
+        "num": 164355,
+        "word": "男子将热水器通电妻子洗澡被电身亡",
+        "onboard_time": 1762593560,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159705,
+        "num": 159705,
+        "word": "米哈游 黑色大丽花",
+        "onboard_time": 1762606580,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141489,
+        "num": 141489,
+        "word": "王嘉尔带头套上台",
+        "onboard_time": 1762612405,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133119,
+        "num": 133119,
+        "word": "四喜老公没了婆婆老实了",
+        "onboard_time": 1762609462,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130718,
+        "num": 130718,
+        "word": "张晚意问李沁什么时候有喜讯",
+        "onboard_time": 1762589060,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118393,
+        "num": 118393,
+        "word": "春树导演制片人回应争议",
+        "onboard_time": 1762605141,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48436,
+        "num": 117909,
+        "word": "七天无理由退货不该成为蹭穿理由",
+        "onboard_time": 1762611083,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 117689,
+        "word": "无意识提高记忆力的动作",
+        "onboard_time": 1762611383,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#看习近平心系南粤大地#"
+    }
+  }
+}
