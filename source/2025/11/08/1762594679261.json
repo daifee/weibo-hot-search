@@ -1,0 +1,410 @@
+{
+  "runTime": 1762594679261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372917,
+        "num": 1059666,
+        "word": "唐朝诡事录节奏",
+        "onboard_time": 1762581321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331019,
+        "num": 331019,
+        "word": "KPL总决赛",
+        "onboard_time": 1762591401,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27804,
+        "num": 301723,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762590980,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296325,
+        "num": 296325,
+        "word": "四喜",
+        "onboard_time": 1762558818,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280279,
+        "num": 280279,
+        "word": "这些照片千万不要发在朋友圈",
+        "onboard_time": 1762592720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195487,
+        "num": 195487,
+        "word": "AG对战狼队",
+        "onboard_time": 1762593500,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 174877,
+        "word": "陈芋汐407C失误",
+        "onboard_time": 1762575560,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163794,
+        "num": 163794,
+        "word": "陈芋汐断层晋级10米台决赛",
+        "onboard_time": 1762585760,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125788,
+        "num": 125788,
+        "word": "张杰演唱会2分钟的不语",
+        "onboard_time": 1762584980,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121027,
+        "num": 121027,
+        "word": "衣服吊牌和A4纸一样大了",
+        "onboard_time": 1762593622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563324,
+        "num": 120922,
+        "word": "张晚意问李沁什么时候有喜讯",
+        "onboard_time": 1762589060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493999,
+        "num": 120872,
+        "word": "把背挺直别驼背",
+        "onboard_time": 1762589181,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483786,
+        "num": 120868,
+        "word": "杨幂 不敢坐在大明星旁边",
+        "onboard_time": 1762587381,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120789,
+        "num": 120789,
+        "word": "iPhone17系列国内激活销量",
+        "onboard_time": 1762584080,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345466,
+        "num": 120474,
+        "word": "印度一女子因害怕蚂蚁自杀身亡",
+        "onboard_time": 1762591100,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258300,
+        "num": 120245,
+        "word": "男子将热水器通电妻子洗澡被电身亡",
+        "onboard_time": 1762593560,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255774,
+        "num": 119664,
+        "word": "张婧仪祖母绿高珠",
+        "onboard_time": 1762590560,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181913,
+        "num": 119177,
+        "word": "女主播称被800万粉丝网红教唆吸毒",
+        "onboard_time": 1762586121,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 118738,
+        "word": "TVB老戏骨凌汉已去世",
+        "onboard_time": 1762590023,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159573,
+        "num": 118491,
+        "word": "薯条瘾发作去健身房冷静下",
+        "onboard_time": 1762594581,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 426191,
+        "num": 117788,
+        "word": "刘若英谈44岁怀孕经历",
+        "onboard_time": 1762587799,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365533,
+        "num": 117548,
+        "word": "对沈腾一米八有了实感",
+        "onboard_time": 1762586181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157879,
+        "num": 117075,
+        "word": "内娱综艺的尺度已经这么大了吗",
+        "onboard_time": 1762568358,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313586,
+        "num": 116495,
+        "word": "易烊千玺 王源",
+        "onboard_time": 1762562601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203149,
+        "num": 115941,
+        "word": "章泽天卷发拉直了",
+        "onboard_time": 1762592181,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115886,
+        "num": 115886,
+        "word": "北京WBG对战Wolves",
+        "onboard_time": 1762594641,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112645,
+        "num": 112645,
+        "word": "安以轩淡出演艺圈独自带娃",
+        "onboard_time": 1762584919,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111623,
+        "num": 111623,
+        "word": "大学生网购钥匙关掉百部电梯广告",
+        "onboard_time": 1762593081,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94685,
+        "num": 109600,
+        "word": "网红教唆吸毒最高可判7年",
+        "onboard_time": 1762593739,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91297,
+        "num": 107463,
+        "word": "日掛中天票房",
+        "onboard_time": 1762593920,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194770,
+        "num": 104534,
+        "word": "敖子逸喊王源源哥",
+        "onboard_time": 1762593441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139065,
+        "num": 98769,
+        "word": "哥哥是鸟弟弟是蛇我也有点不想活",
+        "onboard_time": 1762592900,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98756,
+        "num": 98756,
+        "word": "蟑螂粉 蛋白粉",
+        "onboard_time": 1762591160,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97854,
+        "num": 97854,
+        "word": "白俄罗斯总统劈了2个小时柴",
+        "onboard_time": 1762587861,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96883,
+        "num": 96883,
+        "word": "TFBOYS每年必备节目",
+        "onboard_time": 1762593982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91924,
+        "num": 91924,
+        "word": "单依纯一首一首唱进体制内",
+        "onboard_time": 1762587200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89079,
+        "num": 89079,
+        "word": "王楚钦全运会首战对阵魏世皓",
+        "onboard_time": 1762586121,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88971,
+        "num": 88971,
+        "word": "花海钎城打卡鸟巢",
+        "onboard_time": 1762592421,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87069,
+        "num": 87069,
+        "word": "前美国部长夸赞中国",
+        "onboard_time": 1762594101,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13077,
+        "num": 85030,
+        "word": "美女法医健身不为美是为搬动遗体",
+        "onboard_time": 1762593560,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84102,
+        "num": 84102,
+        "word": "海军新闻发言人说不会等太久",
+        "onboard_time": 1762593739,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 76780,
+        "word": "美国一女子保费暴涨600%",
+        "onboard_time": 1762593380,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75138,
+        "num": 75138,
+        "word": "你很好不要怕别人超过你",
+        "onboard_time": 1762594160,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74436,
+        "num": 74436,
+        "word": "原来导演早就告诉我们凶手是谁了",
+        "onboard_time": 1762594641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73568,
+        "num": 73568,
+        "word": "高铁票买到19排但车厢只有17排",
+        "onboard_time": 1762580781,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72316,
+        "num": 72316,
+        "word": "海军回应福建舰何时形成实战能力",
+        "onboard_time": 1762593500,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71864,
+        "num": 71864,
+        "word": "杨幂唱林俊杰茉莉雨",
+        "onboard_time": 1762593380,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71452,
+        "num": 71452,
+        "word": "林小宅想要林小宅得到",
+        "onboard_time": 1762590560,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71102,
+        "num": 71102,
+        "word": "狐狸以为人一天能下四个蛋",
+        "onboard_time": 1762589960,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68534,
+        "num": 68534,
+        "word": "04年实习老师被第五人格毁了",
+        "onboard_time": 1762591760,
+        "rank": 49,
+        "category": "游戏,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察#"
+    }
+  }
+}

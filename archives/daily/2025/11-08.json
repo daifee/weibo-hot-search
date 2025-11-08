@@ -1,6 +1,6 @@
 {
   "startTime": 1762533011906,
-  "endTime": 1762593929675,
+  "endTime": 1762594679261,
   "band_list": [
     {
       "raw_hot": 3308875,
@@ -129,6 +129,14 @@
       "onboard_time": 1762587381,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493999,
+      "num": 130083,
+      "word": "把背挺直别驼背",
+      "onboard_time": 1762589181,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 488403,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345466,
+      "num": 132182,
+      "word": "印度一女子因害怕蚂蚁自杀身亡",
+      "onboard_time": 1762591100,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 336672,
       "num": 142300,
       "word": "弦子曝和李茂结婚时已怀孕",
@@ -299,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331019,
+      "num": 331019,
+      "word": "KPL总决赛",
+      "onboard_time": 1762591401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322751,
       "num": 322751,
       "word": "香港一小学允许学生用简体字答题",
       "onboard_time": 1762570281,
       "rank": 5,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 317559,
-      "num": 132182,
-      "word": "印度一女子因害怕蚂蚁自杀身亡",
-      "onboard_time": 1762591100,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 310786,
@@ -345,14 +361,6 @@
       "onboard_time": 1762583299,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 303213,
-      "num": 303213,
-      "word": "KPL总决赛",
-      "onboard_time": 1762591401,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 302136,
@@ -395,11 +403,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280279,
+      "num": 280279,
+      "word": "这些照片千万不要发在朋友圈",
+      "onboard_time": 1762592720,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258842,
       "num": 209549,
       "word": "金店员工慢动作操作挽损18万",
       "onboard_time": 1762577241,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258300,
+      "num": 120245,
+      "word": "男子将热水器通电妻子洗澡被电身亡",
+      "onboard_time": 1762593560,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -433,14 +457,6 @@
       "onboard_time": 1762577900,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 226947,
-      "num": 130083,
-      "word": "把背挺直别驼背",
-      "onboard_time": 1762589181,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 217450,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203149,
+      "num": 120255,
+      "word": "章泽天卷发拉直了",
+      "onboard_time": 1762592181,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 202843,
       "num": 202843,
       "word": "iPhone18系列10大升级",
@@ -523,6 +547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195487,
+      "num": 195487,
+      "word": "AG对战狼队",
+      "onboard_time": 1762593500,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195263,
       "num": 138052,
       "word": "医生提醒吃奶皮子糖葫芦时间很重要",
@@ -531,7 +563,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 192801,
+      "raw_hot": 194770,
       "num": 115277,
       "word": "敖子逸喊王源源哥",
       "onboard_time": 1762593441,
@@ -561,14 +593,6 @@
       "onboard_time": 1762572621,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190291,
-      "num": 120255,
-      "word": "章泽天卷发拉直了",
-      "onboard_time": 1762592181,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 189083,
@@ -603,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181683,
-      "num": 181683,
-      "word": "这些照片千万不要发在朋友圈",
-      "onboard_time": 1762592720,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179335,
       "num": 117386,
       "word": "徐梦洁这几下够我学一辈子",
@@ -633,14 +649,6 @@
       "onboard_time": 1762573339,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176823,
-      "num": 176823,
-      "word": "AG对战狼队",
-      "onboard_time": 1762593500,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 176814,
@@ -771,6 +779,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159573,
+      "num": 118491,
+      "word": "薯条瘾发作去健身房冷静下",
+      "onboard_time": 1762594581,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "单依纯一首一首唱进体制内",
@@ -857,6 +873,14 @@
       "onboard_time": 1762573401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139065,
+      "num": 107399,
+      "word": "哥哥是鸟弟弟是蛇我也有点不想活",
+      "onboard_time": 1762592900,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 136784,
@@ -995,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123695,
-      "num": 107399,
-      "word": "哥哥是鸟弟弟是蛇我也有点不想活",
-      "onboard_time": 1762592900,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 124371,
+      "num": 126686,
+      "word": "TVB老戏骨凌汉已去世",
+      "onboard_time": 1762590023,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 123657,
@@ -1051,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121027,
+      "num": 125239,
+      "word": "衣服吊牌和A4纸一样大了",
+      "onboard_time": 1762593622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120943,
       "num": 178609,
       "word": "全运会",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1762525701,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120093,
-      "num": 120093,
-      "word": "男子将热水器通电妻子洗澡被电身亡",
-      "onboard_time": 1762593560,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119247,
@@ -1115,12 +1139,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117016,
-      "num": 126686,
-      "word": "TVB老戏骨凌汉已去世",
-      "onboard_time": 1762590023,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 115886,
+      "num": 115886,
+      "word": "北京WBG对战Wolves",
+      "onboard_time": 1762594641,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 114714,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1762563619,
       "rank": 29,
       "category": "海外新闻,汽车"
+    },
+    {
+      "raw_hot": 111623,
+      "num": 111623,
+      "word": "大学生网购钥匙关掉百部电梯广告",
+      "onboard_time": 1762593081,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111543,
@@ -1395,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96883,
+      "num": 96883,
+      "word": "TFBOYS每年必备节目",
+      "onboard_time": 1762593982,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96840,
       "num": 107409,
       "word": "高市早苗凌晨三点上班",
@@ -1419,14 +1459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96188,
-      "num": 107728,
-      "word": "大学生网购钥匙关掉百部电梯广告",
-      "onboard_time": 1762593081,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96094,
       "num": 96094,
       "word": "朱婷还是朱婷",
@@ -1448,6 +1480,14 @@
       "word": "原配与第三者起冲突8年后再被刑拘",
       "onboard_time": 1762574300,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94685,
+      "num": 109600,
+      "word": "网红教唆吸毒最高可判7年",
+      "onboard_time": 1762593739,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1513,6 +1553,14 @@
       "onboard_time": 1762577420,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91297,
+      "num": 107463,
+      "word": "日掛中天票房",
+      "onboard_time": 1762593920,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 91012,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1762570340,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87069,
+      "num": 87069,
+      "word": "前美国部长夸赞中国",
+      "onboard_time": 1762594101,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86574,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1762529061,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 83093,
-      "num": 125239,
-      "word": "衣服吊牌和A4纸一样大了",
-      "onboard_time": 1762593622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82592,
@@ -1811,14 +1859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78501,
-      "num": 78501,
-      "word": "网红教唆吸毒最高可判7年",
-      "onboard_time": 1762593739,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77913,
       "num": 101978,
       "word": "唐朝诡事录 熟悉的味道",
@@ -1915,12 +1955,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75138,
+      "num": 75138,
+      "word": "你很好不要怕别人超过你",
+      "onboard_time": 1762594160,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74910,
       "num": 74910,
       "word": "古人的智慧",
       "onboard_time": 1762593861,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74436,
+      "num": 74436,
+      "word": "原来导演早就告诉我们凶手是谁了",
+      "onboard_time": 1762594641,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 73881,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1762526361,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68534,
+      "num": 68534,
+      "word": "04年实习老师被第五人格毁了",
+      "onboard_time": 1762591760,
+      "rank": 49,
+      "category": "游戏,幽默"
     },
     {
       "raw_hot": 68470,
@@ -2219,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50062,
+      "num": 80008,
+      "word": "美国一女子保费暴涨600%",
+      "onboard_time": 1762593380,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49878,
       "num": 77772,
       "word": "林志玲说好想念被小S骂",
@@ -2353,14 +2425,6 @@
       "onboard_time": 1762551013,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34624,
-      "num": 80008,
-      "word": "美国一女子保费暴涨600%",
-      "onboard_time": 1762593380,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34142,
@@ -2539,6 +2603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13077,
+      "num": 85030,
+      "word": "美女法医健身不为美是为搬动遗体",
+      "onboard_time": 1762593560,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12627,
       "num": 26081,
       "word": "孙颖莎穿羽绒服秒变乖宝",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1762571540,
       "rank": 39,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 8700,
-      "num": 79365,
-      "word": "美女法医健身不为美是为搬动遗体",
-      "onboard_time": 1762593560,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4708,
