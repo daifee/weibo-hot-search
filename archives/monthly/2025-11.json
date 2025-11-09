@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762699156699,
+  "endTime": 1762701852530,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1165654,
-      "num": 230530,
+      "num": 303979,
       "word": "那英直播质疑票数",
       "onboard_time": 1762695861,
       "rank": 10,
@@ -1619,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 678489,
+      "num": 1108558,
+      "word": "央视曝光被薅羊毛的医保卡",
+      "onboard_time": 1762697602,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 677715,
       "num": 252763,
       "word": "关晓彤掉了好多头发",
@@ -2643,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519948,
+      "num": 238129,
+      "word": "何炅声鸣远扬大战魔童导师",
+      "onboard_time": 1762699343,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518998,
       "num": 326637,
       "word": "杨幂 不敢坐在大明星旁边",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1762168702,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516116,
+      "num": 285212,
+      "word": "Faker谈多兰多次失误",
+      "onboard_time": 1762697542,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 515887,
@@ -3155,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462729,
+      "num": 224540,
+      "word": "何炅的救场",
+      "onboard_time": 1762700781,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462313,
       "num": 198296,
       "word": "法国废弃公园虎鲸母子或面临安乐死",
@@ -3529,14 +3561,6 @@
       "onboard_time": 1762305680,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 422624,
-      "num": 220000,
-      "word": "Faker谈多兰多次失误",
-      "onboard_time": 1762697542,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 419301,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1761978440,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 373007,
+      "num": 280922,
+      "word": "单依纯好争气",
+      "onboard_time": 1762697483,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 372520,
@@ -6003,6 +6035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265674,
+      "num": 265674,
+      "word": "捐款140元给国家造航母当事人发声",
+      "onboard_time": 1762699343,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265574,
       "num": 149086,
       "word": "翁青雅在伦敦上的大学",
@@ -6049,6 +6089,14 @@
       "onboard_time": 1762092443,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 261409,
+      "num": 225549,
+      "word": "薛之谦 认真的雪",
+      "onboard_time": 1762699762,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 260847,
@@ -6443,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242959,
+      "num": 242959,
+      "word": "银行App迎来关停潮",
+      "onboard_time": 1762699762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242906,
       "num": 204646,
       "word": "小婴儿的核磁共振全是脑子",
@@ -6667,14 +6723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233863,
-      "num": 233863,
-      "word": "央视曝光被薅羊毛的医保卡",
-      "onboard_time": 1762697602,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 233747,
       "num": 233747,
       "word": "易烊千玺不敢再接刘春和这样的角色",
@@ -6713,14 +6761,6 @@
       "onboard_time": 1762399580,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 232648,
-      "num": 232648,
-      "word": "单依纯好争气",
-      "onboard_time": 1762697483,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 232215,
@@ -7057,6 +7097,14 @@
       "onboard_time": 1762314862,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 221942,
+      "num": 221942,
+      "word": "西贝近况",
+      "onboard_time": 1762700303,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221898,
@@ -8043,6 +8091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200857,
+      "num": 200857,
+      "word": "肖战问奶牛们住的地方还有位置吗",
+      "onboard_time": 1762700723,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "王楚钦入选杰出青年领袖榜单",
@@ -8593,6 +8649,14 @@
       "onboard_time": 1762677739,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191358,
+      "num": 196294,
+      "word": "那英要把苗梦初送上歌手",
+      "onboard_time": 1762701022,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 191271,
@@ -11203,6 +11267,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 157369,
+      "num": 149095,
+      "word": "就差Chovy了",
+      "onboard_time": 1762701383,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "2025全球总决赛",
@@ -11441,6 +11513,14 @@
       "onboard_time": 1762172661,
       "rank": 26,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 154828,
+      "num": 149348,
+      "word": "羊驼送洗后因毛发未吹干致失温死亡",
+      "onboard_time": 1762698922,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154823,
@@ -12819,6 +12899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "路易吉被曝在监狱内非常受欢迎",
+      "onboard_time": 1762698922,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141092,
       "num": 141092,
       "word": "宋亚轩金靖俩魔童凑一起了",
@@ -12849,6 +12937,14 @@
       "onboard_time": 1762669760,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140768,
+      "num": 140768,
+      "word": "张晚意一唱慢冷就哭",
+      "onboard_time": 1762701561,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 140723,
@@ -13299,6 +13395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137862,
+      "num": 137862,
+      "word": "陈楚生被还烫小手整沉默了",
+      "onboard_time": 1762700842,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137773,
       "num": 144127,
       "word": "电视剧顶流演员还得是90后",
@@ -13497,14 +13601,6 @@
       "onboard_time": 1762236800,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136614,
-      "num": 136614,
-      "word": "羊驼送洗后因毛发未吹干致失温死亡",
-      "onboard_time": 1762698922,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136560,
@@ -16049,6 +16145,14 @@
       "onboard_time": 1761953838,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119147,
+      "num": 119147,
+      "word": "洗澡后3分钟内要涂保湿霜",
+      "onboard_time": 1762700962,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119038,
@@ -21945,6 +22049,14 @@
       "onboard_time": 1761988041,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92477,
+      "num": 112621,
+      "word": "成毅王权富贵微博指数破8000万",
+      "onboard_time": 1762700421,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 92474,
@@ -29523,6 +29635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46038,
+      "num": 108439,
+      "word": "防晒产品穿医保马甲进2万家药店",
+      "onboard_time": 1762700182,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 45996,
       "num": 156271,
       "word": "北马破三人数创纪录",
@@ -31529,6 +31649,14 @@
       "onboard_time": 1762450696,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23675,
+      "num": 200442,
+      "word": "听王嘉尔BUCK现场就得蹦",
+      "onboard_time": 1762701320,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 23669,
