@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762673057763,
+  "endTime": 1762673847158,
   "band_list": [
     {
       "raw_hot": 1288266,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1055497,
+      "num": 1055497,
+      "word": "邓紫棋唱得好歌一般",
+      "onboard_time": 1762673719,
+      "rank": 1,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 1047273,
-      "num": 155802,
+      "num": 158040,
       "word": "李连杰脱衣辟谣换心脏",
       "onboard_time": 1762670000,
       "rank": 42,
@@ -67,6 +75,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 663504,
+      "num": 151917,
+      "word": "王源回复王俊凯易烊千玺祝福",
+      "onboard_time": 1762671320,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636527,
       "num": 1101844,
       "word": "Faker说BLG是冠军",
@@ -96,14 +112,6 @@
       "word": "古二公开录音涉嫌违法",
       "onboard_time": 1762612764,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 561924,
-      "num": 151917,
-      "word": "王源回复王俊凯易烊千玺祝福",
-      "onboard_time": 1762671320,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -167,6 +175,14 @@
       "num": 445681,
       "word": "戈娅FMVP皮肤",
       "onboard_time": 1762613003,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 444992,
+      "num": 1071198,
+      "word": "KT对战T1",
+      "onboard_time": 1762671021,
       "rank": 1,
       "category": "电竞"
     },
@@ -395,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278820,
+      "num": 154620,
+      "word": "言承旭周渝民吴建豪组成F3",
+      "onboard_time": 1762670899,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278667,
       "num": 207198,
       "word": "将门毒后 黄羿",
@@ -435,28 +459,12 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 245294,
-      "num": 245294,
-      "word": "KT对战T1",
-      "onboard_time": 1762671021,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 241831,
       "num": 241831,
       "word": "中国渔船公海倾覆画面曝光",
       "onboard_time": 1762667118,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 236479,
-      "num": 154620,
-      "word": "言承旭周渝民吴建豪组成F3",
-      "onboard_time": 1762670899,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 233747,
@@ -563,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201281,
+      "num": 143036,
+      "word": "张铎把陈松伶照片贴在衣服里",
+      "onboard_time": 1762672700,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -593,6 +609,14 @@
       "onboard_time": 1762660460,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179435,
+      "num": 135942,
+      "word": "第一批固体杨枝甘露的受害者出现",
+      "onboard_time": 1762672939,
+      "rank": 31,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 176725,
@@ -641,6 +665,22 @@
       "onboard_time": 1762661240,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164804,
+      "num": 133541,
+      "word": "iG全员给wei庆生",
+      "onboard_time": 1762673240,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162646,
+      "num": 162646,
+      "word": "S15决赛唯一中国人",
+      "onboard_time": 1762673480,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 160842,
@@ -819,20 +859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132642,
+      "num": 132642,
+      "word": "哪些人可以一周洗一次澡",
+      "onboard_time": 1762673359,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126281,
       "num": 126281,
       "word": "人在累的时候真的没办法顾及别人",
       "onboard_time": 1762669100,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125796,
-      "num": 125796,
-      "word": "第一批固体杨枝甘露的受害者出现",
-      "onboard_time": 1762672939,
-      "rank": 31,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 124708,
@@ -988,11 +1028,19 @@
     },
     {
       "raw_hot": 110013,
-      "num": 110013,
+      "num": 138747,
       "word": "程靖淇被打到眼睛后坚持比赛",
       "onboard_time": 1762671740,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109854,
+      "num": 109854,
+      "word": "李昀锐 牛吹大了",
+      "onboard_time": 1762673600,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 108110,
@@ -1107,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98606,
+      "num": 156534,
+      "word": "S15决赛",
+      "onboard_time": 1762668620,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97857,
       "num": 204893,
       "word": "一诺回应FMVP",
@@ -1163,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95663,
-      "num": 95663,
-      "word": "张铎把陈松伶照片贴在衣服里",
-      "onboard_time": 1762672700,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 92706,
-      "num": 156534,
-      "word": "S15决赛",
-      "onboard_time": 1762668620,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 91953,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1762606580,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91142,
+      "num": 91142,
+      "word": "清清九尾合照",
+      "onboard_time": 1762673180,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 91043,
@@ -1539,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73076,
+      "num": 73076,
+      "word": "和恶魔做了一桩交易",
+      "onboard_time": 1762673719,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72946,
       "num": 191692,
       "word": "全运会今天开幕",
@@ -1619,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63778,
+      "num": 73738,
+      "word": "F4演唱会没有朱孝天",
+      "onboard_time": 1762672700,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63731,
       "num": 73060,
       "word": "雷军给小米员工车队打call",
@@ -1673,6 +1737,14 @@
       "onboard_time": 1762614922,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59246,
+      "num": 115469,
+      "word": "林高远程靖淇爆分",
+      "onboard_time": 1762673660,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 59212,
@@ -1731,7 +1803,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 51532,
+      "raw_hot": 51858,
       "num": 76383,
       "word": "你要的大湾鸡安排上了",
       "onboard_time": 1762672340,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762673847158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 444992,
+        "num": 1071198,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1055497,
+        "num": 1055497,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 1,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 27004,
+        "num": 403166,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255958,
+        "num": 255958,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201601,
+        "num": 201601,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155085,
+        "num": 180710,
+        "word": "中国渔船公海倾覆画面曝光",
+        "onboard_time": 1762667118,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 403651,
+        "num": 178876,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171595,
+        "num": 171595,
+        "word": "英雄联盟",
+        "onboard_time": 1762670840,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162646,
+        "num": 162646,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70827,
+        "num": 161877,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 887468,
+        "num": 158040,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456302,
+        "num": 154852,
+        "word": "关晓彤我猜你一定也会想念吧",
+        "onboard_time": 1762667179,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315394,
+        "num": 152805,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278820,
+        "num": 150680,
+        "word": "言承旭周渝民吴建豪组成F3",
+        "onboard_time": 1762670899,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216320,
+        "num": 146817,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201281,
+        "num": 143036,
+        "word": "张铎把陈松伶照片贴在衣服里",
+        "onboard_time": 1762672700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199270,
+        "num": 139784,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139430,
+        "num": 139430,
+        "word": "吴磊李宛妲剑来领衔主演",
+        "onboard_time": 1762665920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101208,
+        "num": 138952,
+        "word": "李雅可4比3石洵瑶",
+        "onboard_time": 1762671679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82141,
+        "num": 138747,
+        "word": "程靖淇被打到眼睛后坚持比赛",
+        "onboard_time": 1762671740,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98606,
+        "num": 138177,
+        "word": "S15决赛",
+        "onboard_time": 1762668620,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1165783,
+        "num": 137949,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663504,
+        "num": 137261,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314632,
+        "num": 136922,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259737,
+        "num": 136051,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179435,
+        "num": 135942,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 25,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 176683,
+        "num": 135421,
+        "word": "罗云熙S15决赛评论席嘉宾",
+        "onboard_time": 1762671439,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 96872,
+        "num": 134809,
+        "word": "剑来",
+        "onboard_time": 1762664360,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55893,
+        "num": 134296,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53173,
+        "num": 133666,
+        "word": "和王一博成毅任嘉伦一起关注消防安全",
+        "onboard_time": 1762666040,
+        "rank": 29,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 164804,
+        "num": 133541,
+        "word": "iG全员给wei庆生",
+        "onboard_time": 1762673240,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147307,
+        "num": 133018,
+        "word": "唐诡热度",
+        "onboard_time": 1762665258,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132642,
+        "num": 132642,
+        "word": "哪些人可以一周洗一次澡",
+        "onboard_time": 1762673359,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121452,
+        "num": 121452,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59246,
+        "num": 115469,
+        "word": "林高远程靖淇爆分",
+        "onboard_time": 1762673660,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112733,
+        "num": 112733,
+        "word": "刘雨昕感谢王嘉尔等她彩排",
+        "onboard_time": 1762669700,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109854,
+        "num": 109854,
+        "word": "李昀锐 牛吹大了",
+        "onboard_time": 1762673600,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105342,
+        "num": 105342,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97259,
+        "num": 97259,
+        "word": "疑似何超云新恋情",
+        "onboard_time": 1762669760,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96706,
+        "num": 96706,
+        "word": "唐诡出战报速度都跟不上热度了",
+        "onboard_time": 1762670240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96863,
+        "num": 95389,
+        "word": "人在累的时候真的没办法顾及别人",
+        "onboard_time": 1762669100,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93148,
+        "num": 93148,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 91142,
+        "num": 91142,
+        "word": "清清九尾合照",
+        "onboard_time": 1762673180,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86874,
+        "num": 86874,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83734,
+        "num": 83734,
+        "word": "短剧还珠演到大馋丫头爱看的了",
+        "onboard_time": 1762672820,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82881,
+        "num": 82881,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76473,
+        "num": 76473,
+        "word": "这些食物竟然比喝油还长肉",
+        "onboard_time": 1762670420,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63778,
+        "num": 73738,
+        "word": "F4演唱会没有朱孝天",
+        "onboard_time": 1762672700,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 73076,
+        "word": "和恶魔做了一桩交易",
+        "onboard_time": 1762673719,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51858,
+        "num": 72892,
+        "word": "你要的大湾鸡安排上了",
+        "onboard_time": 1762672340,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记关心的土特产#"
+    }
+  }
+}

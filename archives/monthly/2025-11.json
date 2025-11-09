@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762673057763,
+  "endTime": 1762673847158,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1055497,
+      "num": 1055497,
+      "word": "邓紫棋唱得好歌一般",
+      "onboard_time": 1762673719,
+      "rank": 1,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 1048325,
       "num": 231707,
       "word": "倪妮名誉维权声明",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 1047273,
-      "num": 155802,
+      "num": 158040,
       "word": "李连杰脱衣辟谣换心脏",
       "onboard_time": 1762670000,
       "rank": 42,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663504,
+      "num": 151917,
+      "word": "王源回复王俊凯易烊千玺祝福",
+      "onboard_time": 1762671320,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663442,
       "num": 694197,
       "word": "模仿劳荣枝的女主播被无限期封禁",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1762129040,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561924,
-      "num": 151917,
-      "word": "王源回复王俊凯易烊千玺祝福",
-      "onboard_time": 1762671320,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 560199,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1762166061,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444992,
+      "num": 1071198,
+      "word": "KT对战T1",
+      "onboard_time": 1762671021,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 444305,
@@ -5379,6 +5395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 278820,
+      "num": 154620,
+      "word": "言承旭周渝民吴建豪组成F3",
+      "onboard_time": 1762670899,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278539,
       "num": 278539,
       "word": "秦岚新剧造型",
@@ -5987,14 +6011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245294,
-      "num": 245294,
-      "word": "KT对战T1",
-      "onboard_time": 1762671021,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 244943,
       "num": 193919,
       "word": "她这一天是小说都不敢写的程度",
@@ -6185,14 +6201,6 @@
       "onboard_time": 1762038616,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236479,
-      "num": 154620,
-      "word": "言承旭周渝民吴建豪组成F3",
-      "onboard_time": 1762670899,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 236413,
@@ -7507,6 +7515,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 201281,
+      "num": 143036,
+      "word": "张铎把陈松伶照片贴在衣服里",
+      "onboard_time": 1762672700,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201238,
       "num": 183008,
       "word": "四喜开播",
@@ -8779,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179435,
+      "num": 135942,
+      "word": "第一批固体杨枝甘露的受害者出现",
+      "onboard_time": 1762672939,
+      "rank": 31,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 179335,
       "num": 117386,
       "word": "徐梦洁这几下够我学一辈子",
@@ -9787,6 +9811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164804,
+      "num": 133541,
+      "word": "iG全员给wei庆生",
+      "onboard_time": 1762673240,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164757,
       "num": 164757,
       "word": "上海地铁回应老人坐女孩腿上事件",
@@ -9936,6 +9968,14 @@
       "word": "一诺回应FMVP",
       "onboard_time": 1762615341,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162646,
+      "num": 162646,
+      "word": "S15决赛唯一中国人",
+      "onboard_time": 1762673480,
+      "rank": 8,
       "category": "电竞"
     },
     {
@@ -13003,6 +13043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132642,
+      "num": 132642,
+      "word": "哪些人可以一周洗一次澡",
+      "onboard_time": 1762673359,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132617,
       "num": 115704,
       "word": "声鸣远扬总决赛评审官宣",
@@ -13929,14 +13977,6 @@
       "onboard_time": 1762528342,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125796,
-      "num": 125796,
-      "word": "第一批固体杨枝甘露的受害者出现",
-      "onboard_time": 1762672939,
-      "rank": 31,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 125790,
@@ -16580,7 +16620,7 @@
     },
     {
       "raw_hot": 110013,
-      "num": 110013,
+      "num": 138747,
       "word": "程靖淇被打到眼睛后坚持比赛",
       "onboard_time": 1762671740,
       "rank": 33,
@@ -16601,6 +16641,14 @@
       "onboard_time": 1762095981,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109854,
+      "num": 109854,
+      "word": "李昀锐 牛吹大了",
+      "onboard_time": 1762673600,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 109848,
@@ -18995,6 +19043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98606,
+      "num": 156534,
+      "word": "S15决赛",
+      "onboard_time": 1762668620,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98568,
       "num": 98568,
       "word": "王靖雯开口还是这么没轻没重",
@@ -19793,14 +19849,6 @@
       "onboard_time": 1762491200,
       "rank": 34,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 95663,
-      "num": 95663,
-      "word": "张铎把陈松伶照片贴在衣服里",
-      "onboard_time": 1762672700,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 95628,
@@ -20611,14 +20659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92706,
-      "num": 156534,
-      "word": "S15决赛",
-      "onboard_time": 1762668620,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 92643,
       "num": 106800,
       "word": "樊振东孙颖莎汪顺高能量壁纸",
@@ -20993,6 +21033,14 @@
       "onboard_time": 1762253540,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91142,
+      "num": 91142,
+      "word": "清清九尾合照",
+      "onboard_time": 1762673180,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 91043,
@@ -25107,6 +25155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73076,
+      "num": 73076,
+      "word": "和恶魔做了一桩交易",
+      "onboard_time": 1762673719,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73008,
       "num": 120894,
       "word": "黄仁勋直言低估中国那就太愚蠢了",
@@ -26259,6 +26315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63778,
+      "num": 73738,
+      "word": "F4演唱会没有朱孝天",
+      "onboard_time": 1762672700,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63731,
       "num": 73060,
       "word": "雷军给小米员工车队打call",
@@ -26729,6 +26793,14 @@
       "onboard_time": 1762417041,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59246,
+      "num": 115469,
+      "word": "林高远程靖淇爆分",
+      "onboard_time": 1762673660,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 59212,
@@ -27355,20 +27427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51858,
+      "num": 76383,
+      "word": "你要的大湾鸡安排上了",
+      "onboard_time": 1762672340,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51694,
       "num": 110966,
       "word": "万千惠对老公的爱 包文婧都甘拜下风",
       "onboard_time": 1762229600,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51532,
-      "num": 76383,
-      "word": "你要的大湾鸡安排上了",
-      "onboard_time": 1762672340,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 51430,
