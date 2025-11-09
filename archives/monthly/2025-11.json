@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762701852530,
+  "endTime": 1762702656162,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1165654,
-      "num": 303979,
+      "num": 319108,
       "word": "那英直播质疑票数",
       "onboard_time": 1762695861,
       "rank": 10,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 844618,
+      "num": 227815,
+      "word": "何炅的救场",
+      "onboard_time": 1762700781,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835613,
       "num": 196442,
       "word": "收到了去世朋友7年前的邮件",
@@ -1499,6 +1507,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 708683,
+      "num": 1113389,
+      "word": "央视曝光被薅羊毛的医保卡",
+      "onboard_time": 1762697602,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 706292,
       "num": 299470,
       "word": "chovy状态",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1762164800,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 678489,
-      "num": 1108558,
-      "word": "央视曝光被薅羊毛的医保卡",
-      "onboard_time": 1762697602,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 677715,
@@ -2684,7 +2692,7 @@
     },
     {
       "raw_hot": 516116,
-      "num": 285212,
+      "num": 300006,
       "word": "Faker谈多兰多次失误",
       "onboard_time": 1762697542,
       "rank": 31,
@@ -3177,14 +3185,6 @@
       "onboard_time": 1762079360,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462729,
-      "num": 224540,
-      "word": "何炅的救场",
-      "onboard_time": 1762700781,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 462313,
@@ -4156,7 +4156,7 @@
     },
     {
       "raw_hot": 373007,
-      "num": 280922,
+      "num": 283260,
       "word": "单依纯好争气",
       "onboard_time": 1762697483,
       "rank": 29,
@@ -5395,6 +5395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298620,
+      "num": 225549,
+      "word": "薛之谦 认真的雪",
+      "onboard_time": 1762699762,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298151,
       "num": 184007,
       "word": "明道张韶涵天国的嫁衣售后",
@@ -6091,14 +6099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261409,
-      "num": 225549,
-      "word": "薛之谦 认真的雪",
-      "onboard_time": 1762699762,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 260847,
       "num": 223397,
       "word": "李福贵直播间卖小米上架秒空",
@@ -6225,6 +6225,14 @@
       "onboard_time": 1762010422,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256262,
+      "num": 256262,
+      "word": "银行App迎来关停潮",
+      "onboard_time": 1762699762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255221,
@@ -6489,14 +6497,6 @@
       "onboard_time": 1762338621,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242959,
-      "num": 242959,
-      "word": "银行App迎来关停潮",
-      "onboard_time": 1762699762,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242906,
@@ -6803,6 +6803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231314,
+      "num": 231314,
+      "word": "西贝近况",
+      "onboard_time": 1762700303,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230454,
       "num": 221871,
       "word": "唐诡3好多返场老熟人",
@@ -7097,14 +7105,6 @@
       "onboard_time": 1762314862,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 221942,
-      "num": 221942,
-      "word": "西贝近况",
-      "onboard_time": 1762700303,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221898,
@@ -8652,7 +8652,7 @@
     },
     {
       "raw_hot": 191358,
-      "num": 196294,
+      "num": 205137,
       "word": "那英要把苗梦初送上歌手",
       "onboard_time": 1762701022,
       "rank": 22,
@@ -10011,6 +10011,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171749,
+      "num": 171749,
+      "word": "就差Chovy了",
+      "onboard_time": 1762701383,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 171565,
+      "num": 171565,
+      "word": "张晚意一唱慢冷就哭",
+      "onboard_time": 1762701561,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171539,
       "num": 137512,
       "word": "金饰克价一夜猛跌69元",
@@ -10329,6 +10345,14 @@
       "onboard_time": 1762094062,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167463,
+      "num": 167463,
+      "word": "声鸣远扬总决赛",
+      "onboard_time": 1762701921,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 167436,
@@ -11265,14 +11289,6 @@
       "onboard_time": 1762524860,
       "rank": 36,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 157369,
-      "num": 149095,
-      "word": "就差Chovy了",
-      "onboard_time": 1762701383,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 157310,
@@ -12937,14 +12953,6 @@
       "onboard_time": 1762669760,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140768,
-      "num": 140768,
-      "word": "张晚意一唱慢冷就哭",
-      "onboard_time": 1762701561,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 140723,
@@ -18387,6 +18395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107083,
+      "num": 107083,
+      "word": "400万粉丝博主声鸣远扬爆冷淘汰",
+      "onboard_time": 1762702341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107051,
       "num": 107051,
       "word": "刘宇宁二创直通盛典",
@@ -19073,6 +19089,14 @@
       "onboard_time": 1762250002,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103809,
+      "num": 103809,
+      "word": "周深一开口就秒懂天海一心了",
+      "onboard_time": 1762701982,
+      "rank": 40,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 103796,
@@ -20971,6 +20995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96569,
+      "num": 96569,
+      "word": "爱奇艺角色热度",
+      "onboard_time": 1762702341,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96416,
       "num": 96416,
       "word": "4类人不适合吃奶皮子糖葫芦",
@@ -22187,6 +22219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91999,
+      "num": 91999,
+      "word": "陈都灵直播",
+      "onboard_time": 1762700003,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91983,
       "num": 91983,
       "word": "刘宇宁感谢粉丝二创",
@@ -22320,6 +22360,14 @@
       "word": "Uzi解说S15决赛",
       "onboard_time": 1762577420,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 91309,
+      "num": 91309,
+      "word": "33蓝色衬衣对镜拍",
+      "onboard_time": 1762702581,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -31652,7 +31700,7 @@
     },
     {
       "raw_hot": 23675,
-      "num": 200442,
+      "num": 201069,
       "word": "听王嘉尔BUCK现场就得蹦",
       "onboard_time": 1762701320,
       "rank": 19,
@@ -32201,6 +32249,14 @@
       "onboard_time": 1762565359,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15821,
+      "num": 103860,
+      "word": "KK园区148栋建筑将被拆除",
+      "onboard_time": 1762702282,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15749,
