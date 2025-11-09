@@ -1,0 +1,410 @@
+{
+  "runTime": 1762705767332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573022,
+        "num": 1573022,
+        "word": "第一次见何炅主持结巴",
+        "onboard_time": 1762703541,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286799,
+        "num": 286799,
+        "word": "央视曝光被薅羊毛的医保卡",
+        "onboard_time": 1762697602,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110398,
+        "num": 266943,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638468,
+        "num": 266354,
+        "word": "那英被声鸣远扬关麦",
+        "onboard_time": 1762703960,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261455,
+        "num": 261455,
+        "word": "银行App迎来关停潮",
+        "onboard_time": 1762699762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276217,
+        "num": 259332,
+        "word": "Faker谈多兰多次失误",
+        "onboard_time": 1762697542,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459349,
+        "num": 252232,
+        "word": "何炅的救场",
+        "onboard_time": 1762700781,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241942,
+        "num": 241942,
+        "word": "路易吉被曝在监狱内非常受欢迎",
+        "onboard_time": 1762698922,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211728,
+        "num": 211728,
+        "word": "西贝近况",
+        "onboard_time": 1762700303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206451,
+        "num": 206451,
+        "word": "捐款140元给国家造航母当事人发声",
+        "onboard_time": 1762699343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535063,
+        "num": 206103,
+        "word": "那英直播质疑票数",
+        "onboard_time": 1762695861,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294474,
+        "num": 205164,
+        "word": "长公主 磨皮",
+        "onboard_time": 1762691724,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293682,
+        "num": 204799,
+        "word": "肖战给孩子吓得",
+        "onboard_time": 1762704439,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227825,
+        "num": 204012,
+        "word": "薛之谦 认真的雪",
+        "onboard_time": 1762699762,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203536,
+        "num": 203536,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195905,
+        "num": 195905,
+        "word": "白桃星座",
+        "onboard_time": 1762703001,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175380,
+        "num": 175380,
+        "word": "T1三连冠",
+        "onboard_time": 1762690403,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173294,
+        "num": 173294,
+        "word": "上上谦仅剩上海1家门店",
+        "onboard_time": 1762703480,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 157656,
+        "num": 157656,
+        "word": "张晚意一唱慢冷就哭",
+        "onboard_time": 1762701561,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147740,
+        "num": 147740,
+        "word": "周深单依纯 好听",
+        "onboard_time": 1762695861,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 205211,
+        "num": 147608,
+        "word": "澳大利亚偶遇何超莲窦骁",
+        "onboard_time": 1762689920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123344,
+        "num": 123344,
+        "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+        "onboard_time": 1762693521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121251,
+        "num": 121251,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119200,
+        "num": 119200,
+        "word": "400万粉丝博主声鸣远扬爆冷淘汰",
+        "onboard_time": 1762702341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128382,
+        "num": 117469,
+        "word": "单依纯好争气",
+        "onboard_time": 1762697483,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 112575,
+        "word": "白百何方发说体面收场为好",
+        "onboard_time": 1762704681,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111093,
+        "num": 111093,
+        "word": "4种水果其实是高糖刺客",
+        "onboard_time": 1762697002,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103129,
+        "num": 103129,
+        "word": "侯明昊直播",
+        "onboard_time": 1762703121,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99691,
+        "num": 99691,
+        "word": "羊驼送洗后因毛发未吹干致失温死亡",
+        "onboard_time": 1762698922,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98172,
+        "num": 98172,
+        "word": "声鸣远扬总决赛",
+        "onboard_time": 1762701921,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97977,
+        "num": 97977,
+        "word": "爱奇艺角色热度",
+        "onboard_time": 1762702341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97442,
+        "num": 97442,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95082,
+        "num": 95082,
+        "word": "那英要把苗梦初送上歌手",
+        "onboard_time": 1762701022,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91782,
+        "num": 91782,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1762693521,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88659,
+        "num": 88659,
+        "word": "这个就是淋巴肉",
+        "onboard_time": 1762692142,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 85968,
+        "num": 85968,
+        "word": "新华社出图",
+        "onboard_time": 1762705219,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83269,
+        "num": 83269,
+        "word": "十五运开幕式直播",
+        "onboard_time": 1762692442,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82604,
+        "num": 82604,
+        "word": "刘宇宁回应OST主理人",
+        "onboard_time": 1762705101,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82504,
+        "num": 82504,
+        "word": "就差Chovy了",
+        "onboard_time": 1762701383,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79277,
+        "num": 79277,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78871,
+        "num": 78871,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76924,
+        "num": 78869,
+        "word": "T1 宙斯",
+        "onboard_time": 1762691904,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73066,
+        "num": 78867,
+        "word": "陈都灵直播",
+        "onboard_time": 1762700003,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66503,
+        "num": 78866,
+        "word": "每天都吃很饱的荒野求生选手退赛",
+        "onboard_time": 1762705160,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65834,
+        "num": 78862,
+        "word": "全运会烟花",
+        "onboard_time": 1762693341,
+        "rank": 44,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 63121,
+        "num": 78859,
+        "word": "美声版技能五子棋",
+        "onboard_time": 1762704082,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17209,
+        "num": 78859,
+        "word": "听王嘉尔BUCK现场就得蹦",
+        "onboard_time": 1762701320,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62852,
+        "num": 78856,
+        "word": "多兰暂未决定续约与否",
+        "onboard_time": 1762703061,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62325,
+        "num": 78852,
+        "word": "全运会入场排序身份证前两位",
+        "onboard_time": 1762705519,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61875,
+        "num": 78850,
+        "word": "这就是今晚的广州",
+        "onboard_time": 1762688841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席十五运开幕式#"
+    }
+  }
+}

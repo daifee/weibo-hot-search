@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762702656162,
+  "endTime": 1762705767332,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -297,6 +297,14 @@
       "onboard_time": 1762674919,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1573022,
+      "num": 1573022,
+      "word": "第一次见何炅主持结巴",
+      "onboard_time": 1762703541,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1525965,
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 844618,
-      "num": 227815,
+      "num": 252232,
       "word": "何炅的救场",
       "onboard_time": 1762700781,
       "rank": 16,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1761967220,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638468,
+      "num": 266354,
+      "word": "那英被声鸣远扬关麦",
+      "onboard_time": 1762703960,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 638195,
@@ -5499,6 +5515,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 293682,
+      "num": 204799,
+      "word": "肖战给孩子吓得",
+      "onboard_time": 1762704439,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293208,
       "num": 207780,
       "word": "宋雨琦怎么辣成这样",
@@ -6099,6 +6123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261455,
+      "num": 261455,
+      "word": "银行App迎来关停潮",
+      "onboard_time": 1762699762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260847,
       "num": 223397,
       "word": "李福贵直播间卖小米上架秒空",
@@ -6225,14 +6257,6 @@
       "onboard_time": 1762010422,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256262,
-      "num": 256262,
-      "word": "银行App迎来关停潮",
-      "onboard_time": 1762699762,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255221,
@@ -6505,6 +6529,14 @@
       "onboard_time": 1762000822,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241942,
+      "num": 241942,
+      "word": "路易吉被曝在监狱内非常受欢迎",
+      "onboard_time": 1762698922,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 241831,
@@ -8331,6 +8363,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 195905,
+      "num": 195905,
+      "word": "白桃星座",
+      "onboard_time": 1762095503,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195774,
       "num": 231352,
       "word": "福建舰上被子怎么不叠豆腐块",
@@ -9889,6 +9929,14 @@
       "onboard_time": 1762491381,
       "rank": 35,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 173294,
+      "num": 173294,
+      "word": "上上谦仅剩上海1家门店",
+      "onboard_time": 1762703480,
+      "rank": 17,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 172932,
@@ -12915,14 +12963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141126,
-      "num": 141126,
-      "word": "路易吉被曝在监狱内非常受欢迎",
-      "onboard_time": 1762698922,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141092,
       "num": 141092,
       "word": "宋亚轩金靖俩魔童凑一起了",
@@ -14145,14 +14185,6 @@
       "onboard_time": 1762204514,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132111,
-      "num": 132111,
-      "word": "白桃星座",
-      "onboard_time": 1762095503,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 131972,
@@ -16139,6 +16171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119200,
+      "num": 119200,
+      "word": "400万粉丝博主声鸣远扬爆冷淘汰",
+      "onboard_time": 1762702341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119192,
       "num": 119192,
       "word": "乌军突袭库尔斯克州近2000人伤亡",
@@ -17339,6 +17379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112575,
+      "num": 112575,
+      "word": "白百何方发说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112540,
       "num": 184856,
       "word": "入青云今日收官",
@@ -18395,14 +18443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107083,
-      "num": 107083,
-      "word": "400万粉丝博主声鸣远扬爆冷淘汰",
-      "onboard_time": 1762702341,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107051,
       "num": 107051,
       "word": "刘宇宁二创直通盛典",
@@ -19257,6 +19297,14 @@
       "onboard_time": 1762068441,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103129,
+      "num": 103129,
+      "word": "侯明昊直播",
+      "onboard_time": 1762703121,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 103100,
@@ -20587,6 +20635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97977,
+      "num": 97977,
+      "word": "爱奇艺角色热度",
+      "onboard_time": 1762702341,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97952,
       "num": 97952,
       "word": "明白纣王纯爱那年看妲己的心情",
@@ -20993,14 +21049,6 @@
       "onboard_time": 1761926183,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96569,
-      "num": 96569,
-      "word": "爱奇艺角色热度",
-      "onboard_time": 1762702341,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 96416,
@@ -24011,6 +24059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85968,
+      "num": 85968,
+      "word": "新华社出图",
+      "onboard_time": 1762705219,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85940,
       "num": 85940,
       "word": "广州电动车乱象",
@@ -24929,6 +24985,14 @@
       "onboard_time": 1762305680,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82604,
+      "num": 82604,
+      "word": "刘宇宁回应OST主理人",
+      "onboard_time": 1762705101,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 82592,
@@ -27587,6 +27651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66503,
+      "num": 78866,
+      "word": "每天都吃很饱的荒野求生选手退赛",
+      "onboard_time": 1762705160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66450,
       "num": 69894,
       "word": "上海平均工资全国第一",
@@ -27947,6 +28019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63121,
+      "num": 78859,
+      "word": "美声版技能五子棋",
+      "onboard_time": 1762704082,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63098,
       "num": 195462,
       "word": "朝鲜将为金永南举行国葬",
@@ -27985,6 +28065,14 @@
       "onboard_time": 1762389741,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62852,
+      "num": 78856,
+      "word": "多兰暂未决定续约与否",
+      "onboard_time": 1762703061,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 62740,
@@ -28049,6 +28137,14 @@
       "onboard_time": 1761903080,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62325,
+      "num": 78852,
+      "word": "全运会入场排序身份证前两位",
+      "onboard_time": 1762705519,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 62265,
