@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762677761586,
+  "endTime": 1762680267294,
   "band_list": [
     {
       "raw_hot": 1582542,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1047273,
-      "num": 178650,
+      "num": 205298,
       "word": "李连杰脱衣辟谣换心脏",
       "onboard_time": 1762670000,
       "rank": 42,
@@ -49,6 +49,14 @@
       "onboard_time": 1762657519,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811361,
+      "num": 223657,
+      "word": "自取奶茶一买一个不吱声",
+      "onboard_time": 1762677260,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 755616,
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617109,
+      "num": 1098737,
+      "word": "1999年小朋友捐款140元给国家造航母",
+      "onboard_time": 1762675759,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615131,
       "num": 1071198,
       "word": "KT对战T1",
@@ -136,6 +152,14 @@
       "word": "古二公开录音涉嫌违法",
       "onboard_time": 1762612764,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 566266,
+      "num": 165263,
+      "word": "关晓彤衣品",
+      "onboard_time": 1762675040,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -171,14 +195,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 492854,
-      "num": 165263,
-      "word": "关晓彤衣品",
-      "onboard_time": 1762675040,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491595,
       "num": 182821,
       "word": "那英卡地亚晚宴",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 451981,
-      "num": 176198,
+      "num": 203864,
       "word": "第一批固体杨枝甘露的受害者出现",
       "onboard_time": 1762672939,
       "rank": 31,
@@ -323,6 +339,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 356806,
+      "num": 356806,
+      "word": "每天1个苹果身体有什么变化",
+      "onboard_time": 1762674501,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 348866,
       "num": 207362,
       "word": "繁花剧组回应古二录音",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 328806,
-      "num": 173043,
+      "num": 286267,
       "word": "T1翻盘",
       "onboard_time": 1762676361,
       "rank": 13,
@@ -369,6 +393,14 @@
       "onboard_time": 1762665258,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315626,
+      "num": 113515,
+      "word": "彭小苒 姐妹这太过火了",
+      "onboard_time": 1762678040,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 311109,
@@ -425,6 +457,14 @@
       "onboard_time": 1762615883,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 292438,
+      "num": 292438,
+      "word": "包头禁飞区现蝴蝶状飞行物",
+      "onboard_time": 1762675881,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291090,
@@ -507,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253796,
+      "num": 253796,
+      "word": "唐诡3第一滴泪给刘十八刘十九",
+      "onboard_time": 1762675881,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251235,
       "num": 1040031,
       "word": "十五运开幕式演出阵容",
@@ -529,14 +577,6 @@
       "onboard_time": 1762667118,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 236909,
-      "num": 236909,
-      "word": "包头禁飞区现蝴蝶状飞行物",
-      "onboard_time": 1762675881,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235351,
@@ -651,19 +691,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200650,
+      "num": 113280,
+      "word": "彭小苒工作室必有高人指点",
+      "onboard_time": 1762678999,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
       "onboard_time": 1762613183,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193283,
-      "num": 193283,
-      "word": "唐诡3第一滴泪给刘十八刘十九",
-      "onboard_time": 1762675881,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -675,12 +715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190202,
-      "num": 165945,
-      "word": "自取奶茶一买一个不吱声",
-      "onboard_time": 1762677260,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 191488,
+      "num": 191488,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1762677739,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 189290,
@@ -721,14 +761,6 @@
       "onboard_time": 1762664781,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174864,
-      "num": 166777,
-      "word": "1999年小朋友捐款140元给国家造航母",
-      "onboard_time": 1762675759,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172514,
@@ -785,14 +817,6 @@
       "onboard_time": 1762673240,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162515,
-      "num": 162514,
-      "word": "时代少年团演唱会抢票",
-      "onboard_time": 1762677739,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 160842,
@@ -891,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150385,
-      "num": 178850,
-      "word": "每天1个苹果身体有什么变化",
-      "onboard_time": 1762674501,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 149210,
       "num": 205470,
       "word": "梦泪蹭奖杯",
@@ -945,6 +961,14 @@
       "onboard_time": 1762677019,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141537,
+      "num": 141537,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1762677801,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 141475,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122630,
+      "num": 113324,
+      "word": "李晨白鹿范丞丞新疆聚餐",
+      "onboard_time": 1762679900,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122562,
       "num": 178672,
       "word": "威海海域两船相撞8人失联",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1762657940,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112688,
+      "num": 112688,
+      "word": "谁把TizzyT老鼠干放万妮达演唱会了",
+      "onboard_time": 1762679779,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 112475,
@@ -1315,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100528,
+      "num": 113604,
+      "word": "河南115岁老人出生于清朝已五世同堂",
+      "onboard_time": 1762677919,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100441,
       "num": 162279,
       "word": "孙颖莎樊振东等今昔对比",
@@ -1411,6 +1459,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 93761,
+      "num": 113723,
+      "word": "日本附近海域6.8级地震",
+      "onboard_time": 1762678519,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93452,
       "num": 106320,
       "word": "渔船倾覆已致2人死亡3人失踪",
@@ -1491,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90740,
+      "num": 90740,
+      "word": "张韶涵你们从小就不能喜欢我吗",
+      "onboard_time": 1762679421,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90173,
       "num": 90173,
       "word": "猕猴桃 一种很团结的水果",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1762665079,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89699,
+      "num": 113403,
+      "word": "水贝市场暂处半停滞状态",
+      "onboard_time": 1762679779,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89574,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1762649119,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88347,
+      "num": 88347,
+      "word": "下班最后一分钟时突然来客人了",
+      "onboard_time": 1762679540,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 88297,
@@ -1579,12 +1659,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86789,
+      "num": 86789,
+      "word": "终于等来了中式民俗短剧",
+      "onboard_time": 1762680140,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86589,
       "num": 86589,
       "word": "预售15天的女装退货率超一半",
       "onboard_time": 1762664298,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86356,
+      "num": 86356,
+      "word": "如果发朋友圈还要在乎别人的感受",
+      "onboard_time": 1762680140,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 86326,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1762672159,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84047,
+      "num": 84047,
+      "word": "任嘉伦厦门",
+      "onboard_time": 1762678400,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83243,
@@ -1825,6 +1929,22 @@
       "onboard_time": 1762594759,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71116,
+      "num": 112024,
+      "word": "俄多位航空技术人员因坠机死亡",
+      "onboard_time": 1762677919,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71096,
+      "num": 95511,
+      "word": "孙颖莎360度都能聊",
+      "onboard_time": 1762678821,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70577,
@@ -2067,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48429,
+      "num": 113457,
+      "word": "日本岩手县以东6.5级地震",
+      "onboard_time": 1762678639,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47872,
       "num": 71389,
       "word": "涉密人员退休保密责任并非到达终点",
@@ -2169,6 +2297,14 @@
       "onboard_time": 1762612583,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42995,
+      "num": 113791,
+      "word": "faker亲签显示器拍卖",
+      "onboard_time": 1762679480,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 42227,
@@ -2315,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27067,
+      "num": 111986,
+      "word": "沙发压缩成饼干快递到国外",
+      "onboard_time": 1762679120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
@@ -2393,6 +2537,14 @@
       "onboard_time": 1762618822,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3765,
+      "num": 111978,
+      "word": "日本全国粮票",
+      "onboard_time": 1762679120,
+      "rank": 39,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
