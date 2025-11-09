@@ -1,7 +1,23 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762645001516,
+  "endTime": 1762653710908,
   "band_list": [
+    {
+      "raw_hot": 914031,
+      "num": 200400,
+      "word": "央视披露南京15死火灾现场",
+      "onboard_time": 1762649178,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 755616,
+      "num": 200157,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1762649060,
+      "rank": 11,
+      "category": "情感"
+    },
     {
       "raw_hot": 736437,
       "num": 890764,
@@ -59,6 +75,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 396492,
+      "num": 140766,
+      "word": "终于知道她为什么叫靓靓了",
+      "onboard_time": 1762643176,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390102,
+      "num": 201295,
+      "word": "台湾民众高喊我们都是中国人",
+      "onboard_time": 1762649480,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 382301,
       "num": 206396,
       "word": "TF二三四代物料观看人数",
@@ -91,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311109,
+      "num": 200047,
+      "word": "终于知道为什么云贵川没有僵尸了",
+      "onboard_time": 1762649060,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 306519,
+      "num": 140292,
+      "word": "鹿晗让陈赫少吃点小龙虾吧",
+      "onboard_time": 1762648397,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302476,
       "num": 302476,
       "word": "全运会跳水选手差点摔出水池",
@@ -107,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294650,
+      "num": 139581,
+      "word": "印度警察把轮奸案名单变为创收项目",
+      "onboard_time": 1762648879,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 293208,
       "num": 207275,
       "word": "宋雨琦怎么辣成这样",
       "onboard_time": 1762615883,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286203,
+      "num": 847956,
+      "word": "小胖状态",
+      "onboard_time": 1762615521,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 279728,
@@ -139,12 +203,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237228,
-      "num": 847956,
-      "word": "小胖状态",
-      "onboard_time": 1762615521,
-      "rank": 34,
-      "category": "电竞"
+      "raw_hot": 260847,
+      "num": 199599,
+      "word": "李福贵直播间卖小米上架秒空",
+      "onboard_time": 1762649419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250197,
+      "num": 1040031,
+      "word": "十五运开幕式演出阵容",
+      "onboard_time": 1762649538,
+      "rank": 0,
+      "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 234350,
+      "num": 138784,
+      "word": "那英你怎么陷害宋佳",
+      "onboard_time": 1762650319,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 224720,
@@ -163,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207691,
+      "num": 207691,
+      "word": "唐朝诡事录3首播反馈",
+      "onboard_time": 1762607841,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207623,
       "num": 207623,
       "word": "王源演唱会",
@@ -171,12 +259,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201593,
+      "num": 201593,
+      "word": "惊天魔盗团把我当自己人宠了",
+      "onboard_time": 1762650679,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
       "onboard_time": 1762613183,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189474,
+      "num": 135822,
+      "word": "那英卡地亚晚宴",
+      "onboard_time": 1762652480,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176725,
@@ -195,16 +299,24 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165953,
-      "num": 62617,
-      "word": "终于知道她为什么叫靓靓了",
-      "onboard_time": 1762643176,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 162952,
+      "num": 162952,
+      "word": "居然有人不会嘬嘬嘬",
+      "onboard_time": 1762649178,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159632,
+      "num": 136592,
+      "word": "魏建军现身2025KPL年度总决赛现场",
+      "onboard_time": 1762653560,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 157179,
-      "num": 107442,
+      "num": 135984,
       "word": "鹿晗比脸更该申遗的是这张嘴",
       "onboard_time": 1762620978,
       "rank": 24,
@@ -235,12 +347,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144809,
+      "num": 201443,
+      "word": "福建舰入列让世界开始抄作业",
+      "onboard_time": 1762643475,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141475,
+      "num": 141475,
+      "word": "医生眼中无意识变胖的行为",
+      "onboard_time": 1762643536,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141441,
       "num": 206712,
       "word": "陆虎把演唱会开成万人拆专现场",
       "onboard_time": 1762618280,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130847,
+      "num": 130847,
+      "word": "陈数曾经两年内没有吃过水果",
+      "onboard_time": 1762653022,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122065,
+      "num": 122065,
+      "word": "只有女生才懂的暴爽瞬间",
+      "onboard_time": 1762652659,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 120691,
@@ -251,12 +395,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120006,
+      "num": 204524,
+      "word": "朱珠 气血足到头顶",
+      "onboard_time": 1762610422,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119038,
+      "num": 119038,
+      "word": "迪丽热巴檀健次清唱海芋恋",
+      "onboard_time": 1762643536,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118766,
       "num": 205227,
       "word": "75岁刘晓庆喊姥姥结果对方才74岁",
       "onboard_time": 1762613303,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117795,
+      "num": 117795,
+      "word": "张踩铃 外国人的孝顺赶尽杀绝",
+      "onboard_time": 1762651579,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117296,
+      "num": 117296,
+      "word": "尹子维大学授课素材是许我耀眼名场面",
+      "onboard_time": 1762653259,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 110326,
@@ -331,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94987,
-      "num": 204524,
-      "word": "朱珠 气血足到头顶",
-      "onboard_time": 1762610422,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 97349,
+      "num": 97349,
+      "word": "这些错误护肤方式你可能每天都在做",
+      "onboard_time": 1762652539,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97147,
+      "num": 201046,
+      "word": "四喜老公没了婆婆老实了",
+      "onboard_time": 1762609462,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 94538,
@@ -363,12 +547,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86249,
-      "num": 70922,
-      "word": "医生眼中无意识变胖的行为",
-      "onboard_time": 1762643536,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 91043,
+      "num": 91043,
+      "word": "宁静也很为短剧双顶流着迷吧",
+      "onboard_time": 1762652780,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88395,
+      "num": 131276,
+      "word": "一群乒乓球世界冠军争一个全国冠军",
+      "onboard_time": 1762649119,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84712,
+      "num": 200837,
+      "word": "湖人vs老鹰",
+      "onboard_time": 1762653380,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 82865,
@@ -379,12 +579,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81850,
+      "num": 94972,
+      "word": "曝美国Meta公司靠诈骗广告赚大钱",
+      "onboard_time": 1762652600,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78167,
       "num": 205581,
       "word": "福建舰为什么被子不叠豆腐块",
       "onboard_time": 1762597881,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77331,
+      "num": 200507,
+      "word": "一诺我们又是冠军",
+      "onboard_time": 1762652180,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 75097,
@@ -403,12 +619,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69115,
+      "num": 69115,
+      "word": "祝绪丹别睡我手机里",
+      "onboard_time": 1762647438,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68962,
+      "num": 68962,
+      "word": "5毛的鸡蛋和5块鸡蛋有啥区别",
+      "onboard_time": 1762647199,
+      "rank": 44,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 67928,
       "num": 204639,
       "word": "十五运会乒乓球桌号确定",
       "onboard_time": 1762617801,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60710,
+      "num": 113124,
+      "word": "春熙路秒变召唤师峡谷",
+      "onboard_time": 1762652959,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 60494,
@@ -427,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59213,
-      "num": 59213,
-      "word": "福建舰入列让世界开始抄作业",
-      "onboard_time": 1762643475,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59212,
       "num": 126866,
       "word": "机器人自己给自己换电池",
@@ -451,14 +683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56594,
-      "num": 81991,
-      "word": "唐朝诡事录3首播反馈",
-      "onboard_time": 1762607841,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -467,20 +691,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52379,
-      "num": 52379,
-      "word": "迪丽热巴檀健次清唱海芋恋",
-      "onboard_time": 1762643536,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 49688,
+      "num": 68211,
+      "word": "全运会开幕式5大亮点剧透",
+      "onboard_time": 1762653380,
+      "rank": 48,
+      "category": "体育"
     },
     {
-      "raw_hot": 49121,
-      "num": 63635,
-      "word": "四喜老公没了婆婆老实了",
-      "onboard_time": 1762609462,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 47872,
+      "num": 67616,
+      "word": "涉密人员退休保密责任并非到达终点",
+      "onboard_time": 1762650620,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47838,
@@ -513,6 +737,14 @@
       "onboard_time": 1762612583,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41736,
+      "num": 68797,
+      "word": "Kkoma谈T1三连冠",
+      "onboard_time": 1762652241,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 41673,
