@@ -1,0 +1,410 @@
+{
+  "runTime": 1762681039667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882440,
+        "num": 1141190,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437501,
+        "num": 437501,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31840,
+        "num": 373122,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349647,
+        "num": 349647,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285759,
+        "num": 285759,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278060,
+        "num": 278060,
+        "word": "包头禁飞区现蝴蝶状飞行物",
+        "onboard_time": 1762675881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256632,
+        "num": 256632,
+        "word": "T1翻盘",
+        "onboard_time": 1762676361,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233615,
+        "num": 233615,
+        "word": "唐诡3第一滴泪给刘十八刘十九",
+        "onboard_time": 1762675881,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199666,
+        "num": 199666,
+        "word": "武契奇方未参与批准轰炸旧址造酒店",
+        "onboard_time": 1762675580,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178566,
+        "num": 195510,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533998,
+        "num": 194881,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 440532,
+        "num": 194575,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191396,
+        "num": 191396,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1762677739,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180198,
+        "num": 180198,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 13,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 174166,
+        "num": 174166,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1762677801,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125179,
+        "num": 125179,
+        "word": "Doran道歉表",
+        "onboard_time": 1762680320,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121761,
+        "num": 121761,
+        "word": "王者荣耀能不能加个英雄叫甄嬛",
+        "onboard_time": 1762676781,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121413,
+        "num": 121413,
+        "word": "唐诡云合登顶",
+        "onboard_time": 1762680260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55450,
+        "num": 121306,
+        "word": "faker亲签显示器拍卖",
+        "onboard_time": 1762679480,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25284,
+        "num": 121239,
+        "word": "百吋电视京东直播比价贵1分赔1万",
+        "onboard_time": 1762677201,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 860801,
+        "num": 121102,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100354,
+        "num": 120876,
+        "word": "威海海域两船相撞8人失联",
+        "onboard_time": 1762676302,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 748440,
+        "num": 120808,
+        "word": "自取奶茶一买一个不吱声",
+        "onboard_time": 1762677260,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 567954,
+        "num": 120666,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103011,
+        "num": 120507,
+        "word": "河南115岁老人出生于清朝已五世同堂",
+        "onboard_time": 1762677919,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99842,
+        "num": 120352,
+        "word": "日本附近海域6.8级地震",
+        "onboard_time": 1762678519,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484054,
+        "num": 120195,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 120157,
+        "word": "终于等来了中式民俗短剧",
+        "onboard_time": 1762680140,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317673,
+        "num": 120056,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274179,
+        "num": 119917,
+        "word": "彭小苒 姐妹这太过火了",
+        "onboard_time": 1762678040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135692,
+        "num": 119687,
+        "word": "李昀锐 牛吹大了",
+        "onboard_time": 1762673600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127537,
+        "num": 119567,
+        "word": "李晨白鹿范丞丞新疆聚餐",
+        "onboard_time": 1762679900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119515,
+        "num": 119515,
+        "word": "日本地震",
+        "onboard_time": 1762680860,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111724,
+        "num": 111724,
+        "word": "言承旭周渝民吴建豪组成F3",
+        "onboard_time": 1762670899,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124693,
+        "num": 111384,
+        "word": "彭小苒工作室必有高人指点",
+        "onboard_time": 1762678999,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108441,
+        "num": 108441,
+        "word": "谁把TizzyT老鼠干放万妮达演唱会了",
+        "onboard_time": 1762679779,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105214,
+        "num": 105214,
+        "word": "孟子义听喊话害羞到求饶",
+        "onboard_time": 1762680622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55025,
+        "num": 102066,
+        "word": "家人去世申请机票全退遭拒",
+        "onboard_time": 1762680441,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57581,
+        "num": 101050,
+        "word": "林高远用粤语感谢大家支持",
+        "onboard_time": 1762680320,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100933,
+        "num": 100933,
+        "word": "张韶涵你们从小就不能喜欢我吗",
+        "onboard_time": 1762679421,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92067,
+        "num": 92067,
+        "word": "海昏侯墓发现秦汉时期全本诗经",
+        "onboard_time": 1762680441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90826,
+        "num": 90826,
+        "word": "水贝市场暂处半停滞状态",
+        "onboard_time": 1762679779,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90386,
+        "num": 90386,
+        "word": "云合",
+        "onboard_time": 1762676781,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90033,
+        "num": 90033,
+        "word": "周日其实是最会装的",
+        "onboard_time": 1762680500,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86450,
+        "num": 86450,
+        "word": "姜潮还在吃麦迪娜15年前的醋",
+        "onboard_time": 1762674622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86331,
+        "num": 86331,
+        "word": "女子曝光服装AB版带货套路",
+        "onboard_time": 1762680740,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85880,
+        "num": 85880,
+        "word": "罗云熙S15决赛评论席嘉宾",
+        "onboard_time": 1762671439,
+        "rank": 47,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 85879,
+        "num": 85879,
+        "word": "刘宇宁唱初恋",
+        "onboard_time": 1762680920,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35408,
+        "num": 84924,
+        "word": "日本岩手县以东6.5级地震",
+        "onboard_time": 1762678639,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育强国梦#"
+    }
+  }
+}
