@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 06:40:05
+本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 07:23:28
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%86%85%E9%9D%9E%E5%B8%B8%E5%8F%97%E6%AC%A2%E8%BF%8E%23" target="weibo">
+路易吉被曝在监狱内非常受欢迎（热度：417994）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%8A%E8%B0%A6%E4%BB%85%E5%89%A9%E4%B8%8A%E6%B5%B71%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
 上上谦仅剩上海1家门店（热度：330521）
 </a>
@@ -69,20 +75,26 @@ Faker谈多兰多次失误（热度：276217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E9%AA%824%E5%B9%B4%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%9A%84%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88%23" target="weibo">
+连骂4年大衣哥的女子被判6个月（热度：263354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8CApp%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
 银行App迎来关停潮（热度：261455）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%86%85%E9%9D%9E%E5%B8%B8%E5%8F%97%E6%AC%A2%E8%BF%8E%23" target="weibo">
-路易吉被曝在监狱内非常受欢迎（热度：241942）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
+白桃星座（热度：241110）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：241110）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E4%B8%BB%E7%AE%A1%E6%80%A7%E4%BE%B5%E5%8F%88%E9%81%AD%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%9410%E4%B8%87%23" target="weibo">
+女主播被主管性侵又遭公司索赔10万（热度：236604）
 </a>
 </li>
 
@@ -101,6 +113,12 @@ Faker谈多兰多次失误（热度：276217）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E6%96%B9%E5%8F%91%E8%AF%B4%E4%BD%93%E9%9D%A2%E6%94%B6%E5%9C%BA%E4%B8%BA%E5%A5%BD%23" target="weibo">
 白百何方发说体面收场为好（热度：208401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%8F%90%E5%89%8D%E8%A7%A3%E5%86%BB%23" target="weibo">
+刘德华提前解冻（热度：207968）
 </a>
 </li>
 
@@ -129,8 +147,20 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E5%A5%B3%E5%AD%90%E4%B8%8E%E4%B8%88%E5%A4%AB%E8%B0%88%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%BD%BB%E7%94%9F%23" target="weibo">
+产后抑郁女子与丈夫谈离婚后轻生（热度：167284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%80%E5%94%B1%E6%85%A2%E5%86%B7%E5%B0%B1%E5%93%AD%23" target="weibo">
 张晚意一唱慢冷就哭（热度：157656）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
+海啸已抵达日本本州岛（热度：149255）
 </a>
 </li>
 
@@ -141,14 +171,14 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E4%B8%BB%E7%AE%A1%E6%80%A7%E4%BE%B5%E5%8F%88%E9%81%AD%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%9410%E4%B8%87%23" target="weibo">
-女主播被主管性侵又遭公司索赔10万（热度：133305）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E5%90%8E3%E5%88%86%E9%92%9F%E5%86%85%E8%A6%81%E6%B6%82%E4%BF%9D%E6%B9%BF%E9%9C%9C%23" target="weibo">
+洗澡后3分钟内要涂保湿霜（热度：138403）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E9%AA%824%E5%B9%B4%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%9A%84%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88%23" target="weibo">
-连骂4年大衣哥的女子被判6个月（热度：129513）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E6%96%B9%E5%8F%91%E6%96%87%E8%AF%B4%E4%BD%93%E9%9D%A2%E6%94%B6%E5%9C%BA%E4%B8%BA%E5%A5%BD%23" target="weibo">
+白百何方发文说体面收场为好（热度：133369）
 </a>
 </li>
 
@@ -178,7 +208,13 @@ T1三连冠（热度：175380）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E7%A7%8D%E6%B0%B4%E6%9E%9C%E5%85%B6%E5%AE%9E%E6%98%AF%E9%AB%98%E7%B3%96%E5%88%BA%E5%AE%A2%23" target="weibo">
-4种水果其实是高糖刺客（热度：111093）
+4种水果其实是高糖刺客（热度：119150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
+44岁短剧导演突发心梗去世（热度：113044）
 </a>
 </li>
 
@@ -189,14 +225,14 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
-海啸已抵达日本本州岛（热度：107809）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9B%B4%E6%92%AD%23" target="weibo">
+侯明昊直播（热度：103129）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9B%B4%E6%92%AD%23" target="weibo">
-侯明昊直播（热度：103129）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B%23" target="weibo">
+每天都吃很饱的荒野求生选手退赛（热度：100407）
 </a>
 </li>
 
@@ -243,8 +279,20 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Tabe%E9%82%80%E8%AF%B7Uzi%E6%98%8E%E5%B9%B4%E5%A4%8D%E5%87%BA%23" target="weibo">
+Tabe邀请Uzi明年复出（热度：86059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
 新华社出图（热度：85968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%A6%E5%A9%9A%E8%BD%A6%E8%AE%A8%E7%83%9F%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E6%89%93%E8%BD%A6%E7%A6%BB%E5%BC%80%23" target="weibo">
+被拦婚车讨烟新郎新娘打车离开（热度：84321）
 </a>
 </li>
 
@@ -267,6 +315,12 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9CWTT%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23" target="weibo">
+早田希娜WTT女单冠军（热度：80493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%20%E6%8B%BF%E5%A5%96%E6%9D%AF%23" target="weibo">
 Uzi 拿奖杯（热度：79277）
 </a>
@@ -285,14 +339,20 @@ T1 宙斯（热度：76924）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%90%83%E5%BE%88%E9%A5%B1%E7%9A%84%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E9%80%80%E8%B5%9B%23" target="weibo">
-每天都吃很饱的荒野求生选手退赛（热度：73938）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
+陈都灵直播（热度：73066）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
-陈都灵直播（热度：73066）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E8%83%8C%E5%90%8E%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
+情绪背后可能是甲状腺在求救（热度：67608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%85%A8%E8%BF%90%E4%BC%9A%E7%9B%AE%E6%A0%87%E5%A1%AB%E8%A1%A5%E7%94%9F%E6%B6%AF%E5%94%AF%E4%B8%80%E7%A9%BA%E7%BC%BA%23" target="weibo">
+马龙全运会目标填补生涯唯一空缺（热度：66932）
 </a>
 </li>
 
@@ -327,8 +387,8 @@ T1 宙斯（热度：76924）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
-44岁短剧导演突发心梗去世（热度：61474）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%82%A8%E7%B2%AE%E5%BA%937%E6%AD%BB%E4%BA%8B%E6%95%8512%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+中储粮库7死事故12人被采取强制措施（热度：56921）
 </a>
 </li>
 
@@ -339,8 +399,14 @@ Faker六冠王（热度：54657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E5%90%8E3%E5%88%86%E9%92%9F%E5%86%85%E8%A6%81%E6%B6%82%E4%BF%9D%E6%B9%BF%E9%9C%9C%23" target="weibo">
-洗澡后3分钟内要涂保湿霜（热度：52432）
+<a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA148%E6%A0%8B%E5%BB%BA%E7%AD%91%E5%B0%86%E8%A2%AB%E6%8B%86%E9%99%A4%23" target="weibo">
+KK园区148栋建筑将被拆除（热度：50176）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%B0%81%E8%AE%A9%E4%BD%A0%E8%BF%99%E4%B9%88%E5%B8%85%E7%9A%84%23" target="weibo">
+任嘉伦谁让你这么帅的（热度：48979）
 </a>
 </li>
 
@@ -353,6 +419,18 @@ Faker六冠王（热度：54657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 天地剑心大结局（热度：38935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83%23" target="weibo">
+全运会主火炬点燃（热度：37431）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E4%B8%8A%E4%BD%95%E8%80%81%E5%B8%88%E5%8F%B0%E4%B8%8B%E4%BF%A9%E9%AD%94%E4%B8%B8%23" target="weibo">
+台上何老师台下俩魔丸（热度：37288）
 </a>
 </li>
 
@@ -375,26 +453,8 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E8%83%8C%E5%90%8E%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
-情绪背后可能是甲状腺在求救（热度：25348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83%23" target="weibo">
-全运会主火炬点燃（热度：23276）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
 开幕式6棒火炬手（热度：19090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%8F%90%E5%89%8D%E8%A7%A3%E5%86%BB%23" target="weibo">
-刘德华提前解冻（热度：18566）
 </a>
 </li>
 

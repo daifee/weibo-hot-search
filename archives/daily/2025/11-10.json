@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762728005814,
+  "endTime": 1762730608270,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417994,
+      "num": 241942,
+      "word": "路易吉被曝在监狱内非常受欢迎",
+      "onboard_time": 1762698922,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 330521,
       "num": 330521,
       "word": "上上谦仅剩上海1家门店",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 286799,
-      "num": 286799,
+      "num": 746193,
       "word": "央视曝光被薅羊毛的医保卡",
       "onboard_time": 1762697602,
       "rank": 1,
@@ -75,6 +83,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263354,
+      "num": 91848,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261455,
       "num": 261455,
       "word": "银行App迎来关停潮",
@@ -83,20 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241942,
-      "num": 241942,
-      "word": "路易吉被曝在监狱内非常受欢迎",
-      "onboard_time": 1762698922,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 241110,
       "num": 241110,
       "word": "白桃星座",
       "onboard_time": 1762703001,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236604,
+      "num": 102603,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227825,
@@ -121,6 +137,14 @@
       "onboard_time": 1762704681,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207968,
+      "num": 207968,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 206451,
@@ -155,12 +179,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167284,
+      "num": 91272,
+      "word": "产后抑郁女子与丈夫谈离婚后轻生",
+      "onboard_time": 1762730298,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157656,
       "num": 157656,
       "word": "张晚意一唱慢冷就哭",
       "onboard_time": 1762701561,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147740,
@@ -171,20 +211,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 133305,
-      "num": 102603,
-      "word": "女主播被主管性侵又遭公司索赔10万",
-      "onboard_time": 1762706059,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 138403,
+      "num": 90634,
+      "word": "洗澡后3分钟内要涂保湿霜",
+      "onboard_time": 1762700962,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 129513,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 133369,
+      "num": 91074,
+      "word": "白百何方发文说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 128382,
@@ -219,12 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111093,
+      "raw_hot": 119150,
       "num": 111093,
       "word": "4种水果其实是高糖刺客",
       "onboard_time": 1762697002,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113044,
+      "num": 90956,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110398,
@@ -235,20 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107809,
-      "num": 48411,
-      "word": "海啸已抵达日本本州岛",
-      "onboard_time": 1762708037,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
       "onboard_time": 1762703121,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100407,
+      "num": 90827,
+      "word": "每天都吃很饱的荒野求生选手退赛",
+      "onboard_time": 1762705160,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99691,
@@ -307,12 +355,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 86059,
+      "num": 86059,
+      "word": "Tabe邀请Uzi明年复出",
+      "onboard_time": 1762730237,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85968,
       "num": 85968,
       "word": "新华社出图",
       "onboard_time": 1762705219,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84321,
+      "num": 60281,
+      "word": "被拦婚车讨烟新郎新娘打车离开",
+      "onboard_time": 1762730237,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83269,
@@ -324,7 +388,7 @@
     },
     {
       "raw_hot": 82604,
-      "num": 87131,
+      "num": 92587,
       "word": "刘宇宁回应OST主理人",
       "onboard_time": 1762705101,
       "rank": 37,
@@ -337,6 +401,14 @@
       "onboard_time": 1762701383,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80493,
+      "num": 60119,
+      "word": "早田希娜WTT女单冠军",
+      "onboard_time": 1762730057,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 79277,
@@ -363,20 +435,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73938,
-      "num": 78866,
-      "word": "每天都吃很饱的荒野求生选手退赛",
-      "onboard_time": 1762705160,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73066,
       "num": 78867,
       "word": "陈都灵直播",
       "onboard_time": 1762700003,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67608,
+      "num": 67608,
+      "word": "情绪背后可能是甲状腺在求救",
+      "onboard_time": 1762725915,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66932,
+      "num": 66932,
+      "word": "马龙全运会目标填补生涯唯一空缺",
+      "onboard_time": 1762730179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 65834,
@@ -419,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61474,
-      "num": 41374,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 56921,
+      "num": 56921,
+      "word": "中储粮库7死事故12人被采取强制措施",
+      "onboard_time": 1762685059,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 54657,
@@ -435,16 +515,24 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52432,
-      "num": 48247,
-      "word": "洗澡后3分钟内要涂保湿霜",
-      "onboard_time": 1762700962,
+      "raw_hot": 50176,
+      "num": 50176,
+      "word": "KK园区148栋建筑将被拆除",
+      "onboard_time": 1762702282,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48979,
+      "num": 48979,
+      "word": "任嘉伦谁让你这么帅的",
+      "onboard_time": 1762728496,
       "rank": 37,
-      "category": "健康医疗"
+      "category": "艺人"
     },
     {
       "raw_hot": 44873,
-      "num": 32713,
+      "num": 44925,
       "word": "嫁金钗 董思成",
       "onboard_time": 1762713194,
       "rank": 37,
@@ -459,6 +547,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37431,
+      "num": 44939,
+      "word": "全运会主火炬点燃",
+      "onboard_time": 1762694842,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 37288,
+      "num": 51674,
+      "word": "台上何老师台下俩魔丸",
+      "onboard_time": 1762730357,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35774,
       "num": 48101,
       "word": "T1回应夺冠",
@@ -468,7 +572,7 @@
     },
     {
       "raw_hot": 30905,
-      "num": 30905,
+      "num": 44904,
       "word": "Gumayusi晒奖杯照",
       "onboard_time": 1762727295,
       "rank": 28,
@@ -483,36 +587,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25348,
-      "num": 29846,
-      "word": "情绪背后可能是甲状腺在求救",
-      "onboard_time": 1762725915,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23276,
-      "num": 29792,
-      "word": "全运会主火炬点燃",
-      "onboard_time": 1762694842,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
       "onboard_time": 1762717934,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18566,
-      "num": 29805,
-      "word": "刘德华提前解冻",
-      "onboard_time": 1762727418,
-      "rank": 43,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 18214,

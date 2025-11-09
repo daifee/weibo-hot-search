@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762728005814,
+  "endTime": 1762730608270,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -475,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 417994,
+      "num": 241942,
+      "word": "路易吉被曝在监狱内非常受欢迎",
+      "onboard_time": 1762698922,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 415342,
       "num": 621110,
       "word": "全运会开幕式",
@@ -891,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263354,
+      "num": 91848,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261455,
       "num": 261455,
       "word": "银行App迎来关停潮",
@@ -963,14 +979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 241942,
-      "num": 241942,
-      "word": "路易吉被曝在监狱内非常受欢迎",
-      "onboard_time": 1762698922,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 241831,
       "num": 241831,
       "word": "中国渔船公海倾覆画面曝光",
@@ -993,6 +1001,14 @@
       "onboard_time": 1762686920,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236604,
+      "num": 102603,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235351,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1762704681,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207968,
+      "num": 207968,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 207691,
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167284,
+      "num": 91272,
+      "word": "产后抑郁女子与丈夫谈离婚后轻生",
+      "onboard_time": 1762730298,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166550,
       "num": 180294,
       "word": "声鸣远扬直播",
@@ -1771,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149210,
       "num": 205470,
       "word": "梦泪蹭奖杯",
@@ -1875,6 +1915,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138403,
+      "num": 119147,
+      "word": "洗澡后3分钟内要涂保湿霜",
+      "onboard_time": 1762700962,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138278,
       "num": 138278,
       "word": "登陆少年团红毯太抽象了",
@@ -1931,12 +1979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133305,
-      "num": 102603,
-      "word": "女主播被主管性侵又遭公司索赔10万",
-      "onboard_time": 1762706059,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 133369,
+      "num": 91074,
+      "word": "白百何方发文说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 132918,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1762693222,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129513,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 129452,
@@ -2155,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119147,
-      "num": 119147,
-      "word": "洗澡后3分钟内要涂保湿霜",
-      "onboard_time": 1762700962,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119038,
       "num": 119038,
       "word": "迪丽热巴檀健次清唱海芋恋",
@@ -2243,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113044,
+      "num": 90956,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113027,
       "num": 113027,
       "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1762669700,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107809,
-      "num": 48411,
-      "word": "海啸已抵达日本本州岛",
-      "onboard_time": 1762708037,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107120,
@@ -2521,6 +2553,14 @@
       "onboard_time": 1762661120,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100407,
+      "num": 90827,
+      "word": "每天都吃很饱的荒野求生选手退赛",
+      "onboard_time": 1762705160,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100371,
@@ -2987,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86059,
+      "num": 86059,
+      "word": "Tabe邀请Uzi明年复出",
+      "onboard_time": 1762730237,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85968,
       "num": 85968,
       "word": "新华社出图",
@@ -3043,6 +3091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84321,
+      "num": 60281,
+      "word": "被拦婚车讨烟新郎新娘打车离开",
+      "onboard_time": 1762730237,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84047,
       "num": 84047,
       "word": "任嘉伦厦门",
@@ -3076,7 +3132,7 @@
     },
     {
       "raw_hot": 82604,
-      "num": 87131,
+      "num": 92587,
       "word": "刘宇宁回应OST主理人",
       "onboard_time": 1762705101,
       "rank": 37,
@@ -3089,6 +3145,14 @@
       "onboard_time": 1762652600,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80493,
+      "num": 60119,
+      "word": "早田希娜WTT女单冠军",
+      "onboard_time": 1762730057,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 79703,
@@ -3219,14 +3283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73938,
-      "num": 78866,
-      "word": "每天都吃很饱的荒野求生选手退赛",
-      "onboard_time": 1762705160,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73786,
       "num": 187149,
       "word": "多国催讨美国赶紧还钱",
@@ -3339,12 +3395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67608,
+      "num": 67608,
+      "word": "情绪背后可能是甲状腺在求救",
+      "onboard_time": 1762725915,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67211,
       "num": 118361,
       "word": "荒野求生冷美人透露又面临生理期",
       "onboard_time": 1762686802,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66932,
+      "num": 66932,
+      "word": "马龙全运会目标填补生涯唯一空缺",
+      "onboard_time": 1762730179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 66225,
@@ -3425,14 +3497,6 @@
       "onboard_time": 1762705519,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61474,
-      "num": 41374,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 61450,
@@ -3635,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50176,
+      "num": 103860,
+      "word": "KK园区148栋建筑将被拆除",
+      "onboard_time": 1762702282,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49962,
       "num": 74504,
       "word": "中国籍机器人已突破传统想象",
@@ -3657,6 +3729,14 @@
       "onboard_time": 1762677201,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 48979,
+      "num": 48979,
+      "word": "任嘉伦谁让你这么帅的",
+      "onboard_time": 1762728496,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 48429,
@@ -3780,7 +3860,7 @@
     },
     {
       "raw_hot": 44873,
-      "num": 32713,
+      "num": 44925,
       "word": "嫁金钗 董思成",
       "onboard_time": 1762713194,
       "rank": 37,
@@ -3931,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37288,
+      "num": 51674,
+      "word": "台上何老师台下俩魔丸",
+      "onboard_time": 1762730357,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37005,
       "num": 334199,
       "word": "大眼音乐节看爽了",
@@ -4012,7 +4100,7 @@
     },
     {
       "raw_hot": 30905,
-      "num": 30905,
+      "num": 44904,
       "word": "Gumayusi晒奖杯照",
       "onboard_time": 1762727295,
       "rank": 28,
@@ -4083,14 +4171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25348,
-      "num": 29846,
-      "word": "情绪背后可能是甲状腺在求救",
-      "onboard_time": 1762725915,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
@@ -4155,14 +4235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18566,
-      "num": 29805,
-      "word": "刘德华提前解冻",
-      "onboard_time": 1762727418,
-      "rank": 43,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 18214,
       "num": 27340,
       "word": "杨洋我的秋日男友",
@@ -4201,14 +4273,6 @@
       "onboard_time": 1762682420,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15821,
-      "num": 103860,
-      "word": "KK园区148栋建筑将被拆除",
-      "onboard_time": 1762702282,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 15749,
