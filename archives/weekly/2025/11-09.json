@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762713208227,
+  "endTime": 1762713916071,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -4011,8 +4011,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 29687,
-      "num": 29658,
+      "raw_hot": 30395,
+      "num": 30205,
       "word": "非洲十二少",
       "onboard_time": 1762711336,
       "rank": 31,
@@ -4099,6 +4099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22935,
+      "num": 22935,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20741,
       "num": 232837,
       "word": "中国国际进口博览会",
@@ -4113,6 +4121,14 @@
       "onboard_time": 1762690584,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18611,
+      "num": 22701,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 18214,

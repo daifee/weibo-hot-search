@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762713208227,
+  "endTime": 1762713916071,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -451,8 +451,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29687,
-      "num": 29658,
+      "raw_hot": 30395,
+      "num": 30205,
       "word": "非洲十二少",
       "onboard_time": 1762711336,
       "rank": 31,
@@ -465,6 +465,22 @@
       "onboard_time": 1762694842,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22935,
+      "num": 22935,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18611,
+      "num": 22701,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 18214,
