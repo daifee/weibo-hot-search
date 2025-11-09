@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762665912474,
+  "endTime": 1762666863612,
   "band_list": [
     {
       "raw_hot": 914031,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 628924,
-      "num": 195229,
+      "num": 281988,
       "word": "网传张若昀唐嫣新剧延期开机",
       "onboard_time": 1762660700,
       "rank": 19,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 553579,
-      "num": 169679,
+      "num": 181605,
       "word": "最好的我们朱瑶张平演员结婚",
       "onboard_time": 1762661779,
       "rank": 26,
@@ -115,8 +115,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 446465,
-      "num": 446465,
+      "raw_hot": 458467,
+      "num": 1073354,
       "word": "唐诡",
       "onboard_time": 1762663099,
       "rank": 4,
@@ -137,6 +137,14 @@
       "onboard_time": 1762658660,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 419301,
+      "num": 419301,
+      "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+      "onboard_time": 1762662979,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 411565,
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390677,
-      "num": 390677,
-      "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
-      "onboard_time": 1762662979,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 390102,
       "num": 722804,
       "word": "台湾民众高喊我们都是中国人",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 375657,
-      "num": 166342,
+      "num": 179051,
       "word": "TVB演员众筹150万给妻子治病",
       "onboard_time": 1762662020,
       "rank": 30,
@@ -307,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292074,
+      "num": 292074,
+      "word": "唐诡热度",
+      "onboard_time": 1762665258,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286635,
       "num": 159730,
       "word": "那英你怎么陷害宋佳",
@@ -371,8 +379,16 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 233747,
+      "num": 233747,
+      "word": "易烊千玺不敢再接刘春和这样的角色",
+      "onboard_time": 1762656740,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232216,
-      "num": 232216,
+      "num": 283812,
       "word": "光与夜之恋",
       "onboard_time": 1762662320,
       "rank": 4,
@@ -393,14 +409,6 @@
       "onboard_time": 1762611622,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212276,
-      "num": 127763,
-      "word": "唐诡热度",
-      "onboard_time": 1762665258,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 210895,
@@ -467,8 +475,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189290,
+      "num": 189290,
+      "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
+      "onboard_time": 1762665740,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188216,
-      "num": 123293,
+      "num": 130245,
       "word": "假奶皮子糖葫芦受害者",
       "onboard_time": 1762660460,
       "rank": 41,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 175711,
-      "num": 175711,
+      "num": 285528,
       "word": "无限暖暖",
       "onboard_time": 1762664781,
       "rank": 7,
@@ -497,6 +513,14 @@
       "onboard_time": 1762656439,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171560,
+      "num": 171560,
+      "word": "吴磊李宛妲剑来领衔主演",
+      "onboard_time": 1762665920,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 171084,
@@ -555,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154070,
+      "num": 154070,
+      "word": "网红博主建议对明星祛魅",
+      "onboard_time": 1762662141,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153347,
       "num": 206036,
       "word": "一诺FMVP",
@@ -593,14 +625,6 @@
       "onboard_time": 1762643475,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144526,
-      "num": 118942,
-      "word": "网红博主建议对明星祛魅",
-      "onboard_time": 1762662141,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 141475,
@@ -651,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132426,
-      "num": 178455,
-      "word": "易烊千玺不敢再接刘春和这样的角色",
-      "onboard_time": 1762656740,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 129686,
+      "num": 129686,
+      "word": "离婚也要争婆婆的抚养权",
+      "onboard_time": 1762666340,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 124708,
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117890,
+      "num": 117890,
+      "word": "白敬亭第一视角贴脸开帅",
+      "onboard_time": 1762666159,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "陈浚铭对着师兄海报打招呼",
@@ -716,11 +748,19 @@
     },
     {
       "raw_hot": 115337,
-      "num": 173871,
+      "num": 189372,
       "word": "中国渔船在韩附近公海倾覆3人失踪",
       "onboard_time": 1762660880,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113355,
+      "num": 113355,
+      "word": "夜幕下的烟火官宣",
+      "onboard_time": 1762665920,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 113027,
@@ -729,6 +769,14 @@
       "onboard_time": 1762657940,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112306,
+      "num": 112306,
+      "word": "山东人不许写小说",
+      "onboard_time": 1762666040,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 111075,
@@ -811,12 +859,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100608,
-      "num": 100608,
-      "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
-      "onboard_time": 1762665740,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 100880,
+      "num": 204143,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1762615521,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 100441,
@@ -979,6 +1027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 88639,
+      "num": 88639,
+      "word": "谁懂黄景瑜说我喜欢你的冲击力",
+      "onboard_time": 1762666519,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88395,
       "num": 145388,
       "word": "一群乒乓球世界冠军争一个全国冠军",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1762653380,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87714,
+      "num": 87714,
+      "word": "王安宇嘴上我不行手下我看看",
+      "onboard_time": 1762666701,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 86960,
@@ -1051,14 +1115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84360,
-      "num": 204143,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1762615521,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 83243,
       "num": 83243,
       "word": "肖战藏海传长尾效应有多强",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1762652600,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78540,
+      "num": 190204,
+      "word": "和王一博成毅任嘉伦一起关注消防安全",
+      "onboard_time": 1762666040,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78167,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1762594759,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69960,
+      "num": 154097,
+      "word": "超强台风凤凰预计还会增强",
+      "onboard_time": 1762663639,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 69115,
@@ -1292,7 +1364,7 @@
     },
     {
       "raw_hot": 55307,
-      "num": 122790,
+      "num": 189327,
       "word": "双11决赛圈72h倒计时",
       "onboard_time": 1762664720,
       "rank": 19,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1762653380,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47997,
-      "num": 83924,
-      "word": "超强台风凤凰预计还会增强",
-      "onboard_time": 1762663639,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 47872,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1762612583,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42918,
+      "num": 113538,
+      "word": "王楚然素颜与好友逛街",
+      "onboard_time": 1762666279,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 41736,
@@ -1505,6 +1577,14 @@
       "onboard_time": 1762611622,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31870,
+      "num": 113996,
+      "word": "8人穿仿制警服为新人开道被罚",
+      "onboard_time": 1762666340,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30669,

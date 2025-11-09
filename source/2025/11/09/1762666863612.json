@@ -1,0 +1,410 @@
+{
+  "runTime": 1762666863612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 458467,
+        "num": 1073354,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419301,
+        "num": 419301,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31768,
+        "num": 325753,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310850,
+        "num": 310850,
+        "word": "剑来",
+        "onboard_time": 1762664360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455036,
+        "num": 305468,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298232,
+        "num": 298232,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292074,
+        "num": 292074,
+        "word": "唐诡热度",
+        "onboard_time": 1762665258,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139436,
+        "num": 289439,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109336,
+        "num": 285528,
+        "word": "无限暖暖",
+        "onboard_time": 1762664781,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75199,
+        "num": 283812,
+        "word": "光与夜之恋",
+        "onboard_time": 1762662320,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 571307,
+        "num": 281988,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278942,
+        "num": 278942,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233747,
+        "num": 233747,
+        "word": "易烊千玺不敢再接刘春和这样的角色",
+        "onboard_time": 1762656740,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215944,
+        "num": 215944,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211312,
+        "num": 211312,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201109,
+        "num": 201109,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195054,
+        "num": 195054,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78540,
+        "num": 190204,
+        "word": "和王一博成毅任嘉伦一起关注消防安全",
+        "onboard_time": 1762666040,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70934,
+        "num": 189372,
+        "word": "中国渔船在韩附近公海倾覆3人失踪",
+        "onboard_time": 1762660880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43705,
+        "num": 189327,
+        "word": "双11决赛圈72h倒计时",
+        "onboard_time": 1762664720,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189290,
+        "num": 189290,
+        "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
+        "onboard_time": 1762665740,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774763,
+        "num": 185639,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478034,
+        "num": 181605,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355678,
+        "num": 179051,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 171560,
+        "num": 171560,
+        "word": "吴磊李宛妲剑来领衔主演",
+        "onboard_time": 1762665920,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169571,
+        "num": 169571,
+        "word": "早春晴朗井柏然孙千车内拥吻",
+        "onboard_time": 1762653799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165244,
+        "num": 165244,
+        "word": "那英卡地亚晚宴",
+        "onboard_time": 1762652480,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155290,
+        "num": 155290,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 154334,
+        "word": "孙颖莎樊振东等今昔对比",
+        "onboard_time": 1762661120,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69960,
+        "num": 154097,
+        "word": "超强台风凤凰预计还会增强",
+        "onboard_time": 1762663639,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 154070,
+        "num": 154070,
+        "word": "网红博主建议对明星祛魅",
+        "onboard_time": 1762662141,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142343,
+        "num": 142343,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130245,
+        "num": 130245,
+        "word": "假奶皮子糖葫芦受害者",
+        "onboard_time": 1762660460,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129686,
+        "num": 129686,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123786,
+        "num": 123786,
+        "word": "廊坊一彩民花15元中7397万大奖",
+        "onboard_time": 1762660219,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117890,
+        "num": 117890,
+        "word": "白敬亭第一视角贴脸开帅",
+        "onboard_time": 1762666159,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64319,
+        "num": 115030,
+        "word": "十五运开幕式演出阵容",
+        "onboard_time": 1762649538,
+        "rank": 36,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 31870,
+        "num": 113996,
+        "word": "8人穿仿制警服为新人开道被罚",
+        "onboard_time": 1762666340,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42918,
+        "num": 113538,
+        "word": "王楚然素颜与好友逛街",
+        "onboard_time": 1762666279,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113355,
+        "num": 113355,
+        "word": "夜幕下的烟火官宣",
+        "onboard_time": 1762665920,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112306,
+        "num": 112306,
+        "word": "山东人不许写小说",
+        "onboard_time": 1762666040,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103072,
+        "num": 103072,
+        "word": "米哈游回应新角色大丽花争议",
+        "onboard_time": 1762659680,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100880,
+        "num": 100880,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1762665501,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88639,
+        "num": 88639,
+        "word": "谁懂黄景瑜说我喜欢你的冲击力",
+        "onboard_time": 1762666519,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87714,
+        "num": 87714,
+        "word": "王安宇嘴上我不行手下我看看",
+        "onboard_time": 1762666701,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87668,
+        "num": 87668,
+        "word": "那英你怎么陷害宋佳",
+        "onboard_time": 1762650319,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85843,
+        "num": 85843,
+        "word": "小猫熬夜看动画片",
+        "onboard_time": 1762665079,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81406,
+        "num": 81406,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762654819,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81046,
+        "num": 81046,
+        "word": "印度警察把轮奸案名单变为创收项目",
+        "onboard_time": 1762648879,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42732,
+        "num": 79784,
+        "word": "一群乒乓球世界冠军争一个全国冠军",
+        "onboard_time": 1762649119,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记关心的土特产#"
+    }
+  }
+}
