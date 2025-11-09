@@ -1,18 +1,26 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762659194273,
+  "endTime": 1762660743720,
   "band_list": [
     {
       "raw_hot": 914031,
-      "num": 233268,
+      "num": 333198,
       "word": "央视披露南京15死火灾现场",
       "onboard_time": 1762649178,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893653,
+      "num": 190891,
+      "word": "李连杰状态",
+      "onboard_time": 1762657519,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755616,
-      "num": 231691,
+      "num": 371383,
       "word": "瘦了后出片像呼吸一样简单",
       "onboard_time": 1762649060,
       "rank": 11,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 571540,
-      "num": 178885,
-      "word": "李连杰状态",
-      "onboard_time": 1762657519,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 539945,
       "num": 1043098,
       "word": "早春晴朗井柏然孙千车内拥吻",
@@ -100,15 +100,23 @@
     },
     {
       "raw_hot": 411565,
-      "num": 215258,
+      "num": 407182,
       "word": "陈数曾经两年内没有吃过水果",
       "onboard_time": 1762653022,
       "rank": 30,
       "category": "综艺"
     },
     {
+      "raw_hot": 411512,
+      "num": 411512,
+      "word": "人一旦拥有了电动车",
+      "onboard_time": 1762658660,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402982,
-      "num": 176374,
+      "num": 178135,
       "word": "终于知道她为什么叫靓靓了",
       "onboard_time": 1762643176,
       "rank": 30,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 390102,
-      "num": 244196,
+      "num": 722804,
       "word": "台湾民众高喊我们都是中国人",
       "onboard_time": 1762649480,
       "rank": 5,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366258,
+      "num": 366258,
+      "word": "张家界100人荒野求生仅剩一名女性",
+      "onboard_time": 1762655840,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365767,
       "num": 206369,
       "word": "南派三叔在线摇人找丁禹兮微信",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 363999,
-      "num": 174951,
+      "num": 186129,
       "word": "白鹿cha香水有毒",
       "onboard_time": 1762657100,
       "rank": 23,
@@ -163,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344045,
-      "num": 187647,
-      "word": "张家界100人荒野求生仅剩一名女性",
-      "onboard_time": 1762655840,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335927,
-      "num": 187779,
+      "num": 206602,
       "word": "只有女生才懂的暴爽瞬间",
       "onboard_time": 1762652659,
       "rank": 31,
@@ -209,6 +217,14 @@
       "onboard_time": 1762610122,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296527,
+      "num": 1047444,
+      "word": "易烊千玺回应大学期间没接戏",
+      "onboard_time": 1762657759,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 294650,
@@ -291,6 +307,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 228549,
+      "num": 228549,
+      "word": "Faker说BLG是冠军",
+      "onboard_time": 1762660639,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224720,
       "num": 224720,
       "word": "唐朝诡事录热度",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 222870,
-      "num": 240826,
+      "num": 586731,
       "word": "人民咖啡馆更名",
       "onboard_time": 1762611622,
       "rank": 8,
@@ -332,15 +356,23 @@
     },
     {
       "raw_hot": 204732,
-      "num": 171082,
+      "num": 195690,
       "word": "米哈游 大丽花",
       "onboard_time": 1762654819,
       "rank": 33,
       "category": "游戏"
     },
     {
+      "raw_hot": 204413,
+      "num": 204413,
+      "word": "时代少年团新歌这一程预告",
+      "onboard_time": 1762659980,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201593,
-      "num": 247498,
+      "num": 513929,
       "word": "惊天魔盗团把我当自己人宠了",
       "onboard_time": 1762650679,
       "rank": 3,
@@ -371,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172514,
+      "num": 157640,
+      "word": "拜登强烈批评特朗普称其家族赚了18亿",
+      "onboard_time": 1762656439,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171084,
       "num": 144214,
       "word": "易烊千玺回应提名金鸡奖",
@@ -379,20 +419,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160842,
+      "num": 160842,
+      "word": "米哈游回应新角色大丽花争议",
+      "onboard_time": 1762659680,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159632,
       "num": 136592,
       "word": "魏建军现身2025KPL年度总决赛现场",
       "onboard_time": 1762653560,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157640,
-      "num": 157640,
-      "word": "拜登强烈批评特朗普称其家族赚了18亿",
-      "onboard_time": 1762656439,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157179,
@@ -419,28 +459,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152728,
-      "num": 150521,
-      "word": "人一旦拥有了电动车",
-      "onboard_time": 1762658660,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 151288,
-      "num": 185665,
-      "word": "易烊千玺回应大学期间没接戏",
-      "onboard_time": 1762657759,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149210,
       "num": 205470,
       "word": "梦泪蹭奖杯",
       "onboard_time": 1762613782,
       "rank": 30,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 148680,
+      "num": 772591,
+      "word": "俄军将攻占乌克兰第三首都",
+      "onboard_time": 1762657339,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144876,
@@ -475,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139501,
+      "num": 195229,
+      "word": "网传张若昀唐嫣新剧延期开机",
+      "onboard_time": 1762660700,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137407,
       "num": 137407,
       "word": "张踩铃 外国人的孝顺赶尽杀绝",
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 124708,
-      "num": 191409,
+      "num": 636060,
       "word": "梅西梅开二度",
       "onboard_time": 1762656979,
       "rank": 3,
@@ -587,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104812,
-      "num": 189658,
-      "word": "俄军将攻占乌克兰第三首都",
-      "onboard_time": 1762657339,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104778,
       "num": 205679,
       "word": "固体杨枝甘露卖到66元一份",
       "onboard_time": 1762614502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104283,
+      "num": 104283,
+      "word": "Lehends说明年会是最后一年",
+      "onboard_time": 1762659800,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 99507,
@@ -651,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96846,
+      "num": 96846,
+      "word": "廊坊一彩民花15元中7397万大奖",
+      "onboard_time": 1762660219,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
@@ -660,7 +708,7 @@
     },
     {
       "raw_hot": 93891,
-      "num": 151041,
+      "num": 178455,
       "word": "易烊千玺不敢再接刘春和这样的角色",
       "onboard_time": 1762656740,
       "rank": 29,
@@ -673,6 +721,14 @@
       "onboard_time": 1762610301,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91735,
+      "num": 91735,
+      "word": "李逗逗这段看爽了",
+      "onboard_time": 1762660339,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 91368,
@@ -700,11 +756,19 @@
     },
     {
       "raw_hot": 91010,
-      "num": 189871,
+      "num": 434391,
       "word": "台风凤凰向我国靠近",
       "onboard_time": 1762657759,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90399,
+      "num": 90399,
+      "word": "鲁豫 此刻我不好过别人也未必好过",
+      "onboard_time": 1762660460,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 90173,
@@ -721,6 +785,14 @@
       "onboard_time": 1762654520,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 88613,
+      "num": 88613,
+      "word": "假奶皮子糖葫芦受害者",
+      "onboard_time": 1762660460,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 88395,
@@ -755,12 +827,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83044,
-      "num": 83044,
+      "raw_hot": 86166,
+      "num": 86166,
       "word": "拍到了导师组会批假记录",
       "onboard_time": 1762658960,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85766,
+      "num": 90862,
+      "word": "十五运会乒乓球鹰眼挑战62.14度",
+      "onboard_time": 1762660639,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83243,
+      "num": 83243,
+      "word": "肖战藏海传长尾效应有多强",
+      "onboard_time": 1762660700,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 82865,
@@ -785,6 +873,14 @@
       "onboard_time": 1762652600,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81319,
+      "num": 81319,
+      "word": "天地剑心王权富贵继任王权家主",
+      "onboard_time": 1762660279,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 78167,
@@ -891,6 +987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61450,
+      "num": 89138,
+      "word": "航母命名库",
+      "onboard_time": 1762658718,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61216,
       "num": 73006,
       "word": "陈幸同喊话黄镇廷跟他们拼了",
@@ -955,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54844,
+      "num": 79790,
+      "word": "空警600小名哪吒",
+      "onboard_time": 1762659378,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 49962,
       "num": 74504,
       "word": "中国籍机器人已突破传统想象",
@@ -1001,6 +1113,14 @@
       "onboard_time": 1762639513,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43798,
+      "num": 947153,
+      "word": "十五运今天开幕",
+      "onboard_time": 1762659800,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43172,
@@ -1137,14 +1257,6 @@
       "onboard_time": 1762626435,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23627,
-      "num": 89138,
-      "word": "航母命名库",
-      "onboard_time": 1762658718,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23322,
