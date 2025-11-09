@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 16:29:53
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 16:42:41
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@ T1战胜TES（热度：1686829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
+谢娜坐高铁偶遇王鹤棣（热度：1582542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%A3%80%E6%9F%A5%E5%A5%B3%E5%84%BF%E4%B9%A6%E5%8C%85%E5%8F%91%E7%8E%B0%E8%AF%A1%E5%BC%82%E6%81%90%E6%80%96%E7%94%BB%23" target="weibo">
 妈妈检查女儿书包发现诡异恐怖画（热度：1525965）
 </a>
@@ -269,12 +275,6 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8E%B7%E5%88%9113%E5%B9%B4%E9%9C%87%E6%85%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%23" target="weibo">
 14岁男孩获刑13年震慑未成年人犯罪（热度：1374766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
-谢娜坐高铁偶遇王鹤棣（热度：1333247）
 </a>
 </li>
 
@@ -3459,6 +3459,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E7%BF%BB%E7%9B%98%23" target="weibo">
+T1翻盘（热度：328806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%8E%BB%E7%9C%8B%E5%B1%95%E4%BA%86%23" target="weibo">
 杜海涛章泽天去看展了（热度：327669）
 </a>
@@ -3909,6 +3915,12 @@ Tarzan发文致歉（热度：295392）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E7%89%9B%E5%90%B9%E5%A4%A7%E4%BA%86%23" target="weibo">
+李昀锐 牛吹大了（热度：291090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%20%E5%8C%B9%E9%85%8D%E4%B8%8D%E4%BA%86%23" target="weibo">
 第五人格 匹配不了（热度：290773）
 </a>
@@ -4097,12 +4109,6 @@ T1战胜AL（热度：279371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%23" target="weibo">
 秦岚新剧造型（热度：278539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E7%89%9B%E5%90%B9%E5%A4%A7%E4%BA%86%23" target="weibo">
-李昀锐 牛吹大了（热度：277464）
 </a>
 </li>
 
@@ -4521,6 +4527,12 @@ Chovy世界赛成绩 8884844（热度：254697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%96%B9%E6%9C%AA%E5%8F%82%E4%B8%8E%E6%89%B9%E5%87%86%E8%BD%B0%E7%82%B8%E6%97%A7%E5%9D%80%E9%80%A0%E9%85%92%E5%BA%97%23" target="weibo">
+武契奇方未参与批准轰炸旧址造酒店（热度：247581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Rita%E8%AF%84%E8%AE%BA%E5%B8%AD%E4%B8%BE%E8%B5%B7LPL%E6%88%98%E6%97%97%23" target="weibo">
 Rita评论席举起LPL战旗（热度：247319）
 </a>
@@ -4545,12 +4557,6 @@ Rita评论席举起LPL战旗（热度：247319）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%96%B9%E6%9C%AA%E5%8F%82%E4%B8%8E%E6%89%B9%E5%87%86%E8%BD%B0%E7%82%B8%E6%97%A7%E5%9D%80%E9%80%A0%E9%85%92%E5%BA%97%23" target="weibo">
-武契奇方未参与批准轰炸旧址造酒店（热度：246140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E6%98%AF%E4%BA%94%E4%B8%AA%E8%AF%84%E5%A7%94%E4%B8%80%E8%87%B4%E9%80%9A%E8%BF%87%E7%9A%84%23" target="weibo">
 王传君获奖是五个评委一致通过的（热度：245803）
 </a>
@@ -4565,12 +4571,6 @@ Rita评论席举起LPL战旗（热度：247319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%BF%99%E4%B8%80%E5%A4%A9%E6%98%AF%E5%B0%8F%E8%AF%B4%E9%83%BD%E4%B8%8D%E6%95%A2%E5%86%99%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
 她这一天是小说都不敢写的程度（热度：244943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E7%BF%BB%E7%9B%98%23" target="weibo">
-T1翻盘（热度：244660）
 </a>
 </li>
 
@@ -4709,6 +4709,12 @@ DRG对战狼队（热度：239735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E6%9B%9D%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8A%E7%BB%BC%E8%89%BA%E5%92%8C%E5%A5%B9%E6%9C%89%E5%85%B3%E7%B3%BB%23" target="weibo">
 赵樱子曝孟子义上综艺和她有关系（热度：237070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E7%A6%81%E9%A3%9E%E5%8C%BA%E7%8E%B0%E8%9D%B4%E8%9D%B6%E7%8A%B6%E9%A3%9E%E8%A1%8C%E7%89%A9%23" target="weibo">
+包头禁飞区现蝴蝶状飞行物（热度：236909）
 </a>
 </li>
 
@@ -5991,6 +5997,12 @@ iPhone17系列国内激活销量（热度：197390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC%E4%B8%80%E6%BB%B4%E6%B3%AA%E7%BB%99%E5%88%98%E5%8D%81%E5%85%AB%E5%88%98%E5%8D%81%E4%B9%9D%23" target="weibo">
+唐诡3第一滴泪给刘十八刘十九（热度：193283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%23" target="weibo">
 驻日美军接连发生性暴力事件（热度：193160）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列国内激活销量（热度：197390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%86%A0K1%E5%B0%84%E6%89%8B%E4%B8%80%E8%AF%BA%23" target="weibo">
 七冠K1射手一诺（热度：193146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E9%93%9C%E5%99%A8%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%85%8D%E6%96%B9%E8%AF%B4%E6%98%8E%E4%B9%A6%23" target="weibo">
-青铜器有自己的配方说明书（热度：193096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%88%B1%E4%B8%8A%E8%B6%8A%E5%89%A7%23" target="weibo">
-年轻人爱上越剧（热度：193088）
 </a>
 </li>
 

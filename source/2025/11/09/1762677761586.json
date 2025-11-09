@@ -1,0 +1,410 @@
+{
+  "runTime": 1762677761586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 500091,
+        "num": 1080014,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 488284,
+        "num": 488284,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28693,
+        "num": 262341,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 851915,
+        "num": 257638,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 3,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 247581,
+        "num": 247581,
+        "word": "武契奇方未参与批准轰炸旧址造酒店",
+        "onboard_time": 1762675580,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236909,
+        "num": 236909,
+        "word": "包头禁飞区现蝴蝶状飞行物",
+        "onboard_time": 1762675881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193283,
+        "num": 193283,
+        "word": "唐诡3第一滴泪给刘十八刘十九",
+        "onboard_time": 1762675881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180650,
+        "num": 180650,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147253,
+        "num": 178850,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122562,
+        "num": 178672,
+        "word": "威海海域两船相撞8人失联",
+        "onboard_time": 1762676302,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 441975,
+        "num": 178650,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178541,
+        "num": 178541,
+        "word": "云合",
+        "onboard_time": 1762676781,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383999,
+        "num": 176198,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 12,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 328806,
+        "num": 173043,
+        "word": "T1翻盘",
+        "onboard_time": 1762676361,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222630,
+        "num": 172365,
+        "word": "多兰 陌生",
+        "onboard_time": 1762676000,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203335,
+        "num": 167455,
+        "word": "张铎把陈松伶照片贴在衣服里",
+        "onboard_time": 1762672700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166777,
+        "num": 166777,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146062,
+        "num": 166654,
+        "word": "程靖淇被打到眼睛后坚持比赛",
+        "onboard_time": 1762671740,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49433,
+        "num": 166364,
+        "word": "百吋电视京东直播比价贵1分赔1万",
+        "onboard_time": 1762677201,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36070,
+        "num": 166235,
+        "word": "留几手锐评再见爱人保险事件",
+        "onboard_time": 1762675881,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190202,
+        "num": 165945,
+        "word": "自取奶茶一买一个不吱声",
+        "onboard_time": 1762677260,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1582542,
+        "num": 165742,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590265,
+        "num": 165618,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481143,
+        "num": 165263,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476892,
+        "num": 165049,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154967,
+        "num": 164885,
+        "word": "惊喜之夜节目单",
+        "onboard_time": 1762674622,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80181,
+        "num": 164669,
+        "word": "共产主义者掌舵纽约",
+        "onboard_time": 1762673960,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80015,
+        "num": 164481,
+        "word": "中国渔船公海倾覆画面曝光",
+        "onboard_time": 1762667118,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 79703,
+        "num": 164287,
+        "word": "海昏侯墓里发现我国最古老锁绣",
+        "onboard_time": 1762676000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33731,
+        "num": 163923,
+        "word": "李莎旻子音乐节后台吃上盐水鸭了",
+        "onboard_time": 1762676180,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197283,
+        "num": 163763,
+        "word": "言承旭周渝民吴建豪组成F3",
+        "onboard_time": 1762670899,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120857,
+        "num": 163471,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291090,
+        "num": 163398,
+        "word": "李昀锐 牛吹大了",
+        "onboard_time": 1762673600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198659,
+        "num": 162998,
+        "word": "关晓彤我猜你一定也会想念吧",
+        "onboard_time": 1762667179,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197296,
+        "num": 162743,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195178,
+        "num": 162515,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162515,
+        "num": 162514,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1762677739,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156278,
+        "num": 156278,
+        "word": "在滑雪场看到什么都不奇怪",
+        "onboard_time": 1762677440,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154557,
+        "num": 154557,
+        "word": "谢娜王鹤棣自拍",
+        "onboard_time": 1762676480,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76320,
+        "num": 151954,
+        "word": "小伙1年猛长25厘米身高2米23",
+        "onboard_time": 1762676840,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151814,
+        "num": 151814,
+        "word": "王者荣耀能不能加个英雄叫甄嬛",
+        "onboard_time": 1762676781,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144539,
+        "num": 144539,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141708,
+        "num": 141708,
+        "word": "黄景瑜猜中卧底只用一秒",
+        "onboard_time": 1762677019,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126609,
+        "num": 126609,
+        "word": "Faker 岩雀神",
+        "onboard_time": 1762676540,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123412,
+        "num": 123412,
+        "word": "罗云熙S15决赛评论席嘉宾",
+        "onboard_time": 1762671439,
+        "rank": 44,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 119042,
+        "num": 119042,
+        "word": "姜潮还在吃麦迪娜15年前的醋",
+        "onboard_time": 1762674622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115555,
+        "num": 115555,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 115017,
+        "word": "黄景瑜像王安宇保镖",
+        "onboard_time": 1762675040,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56370,
+        "num": 114388,
+        "word": "十五运开幕式流程",
+        "onboard_time": 1762675941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46238,
+        "num": 112637,
+        "word": "被大自然的调色盘惊艳到了",
+        "onboard_time": 1762677680,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育强国梦#"
+    }
+  }
+}
