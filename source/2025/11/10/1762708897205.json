@@ -1,0 +1,410 @@
+{
+  "runTime": 1762708897205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 973134,
+        "num": 973134,
+        "word": "第一次见何炅主持结巴",
+        "onboard_time": 1762703541,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330521,
+        "num": 330521,
+        "word": "上上谦仅剩上海1家门店",
+        "onboard_time": 1762703480,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 60392,
+        "num": 186471,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546143,
+        "num": 179001,
+        "word": "那英被声鸣远扬关麦",
+        "onboard_time": 1762703960,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159021,
+        "num": 159021,
+        "word": "路易吉被曝在监狱内非常受欢迎",
+        "onboard_time": 1762698922,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149591,
+        "num": 149591,
+        "word": "白桃星座",
+        "onboard_time": 1762703001,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134228,
+        "num": 134228,
+        "word": "银行App迎来关停潮",
+        "onboard_time": 1762699762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131655,
+        "num": 131655,
+        "word": "何炅的救场",
+        "onboard_time": 1762700781,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125187,
+        "num": 125187,
+        "word": "Faker谈多兰多次失误",
+        "onboard_time": 1762697542,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104584,
+        "num": 104584,
+        "word": "央视曝光被薅羊毛的医保卡",
+        "onboard_time": 1762697602,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 208401,
+        "num": 103999,
+        "word": "白百何方发说体面收场为好",
+        "onboard_time": 1762704681,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202137,
+        "num": 103759,
+        "word": "肖战给孩子吓得",
+        "onboard_time": 1762704439,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175466,
+        "num": 103287,
+        "word": "长公主 磨皮",
+        "onboard_time": 1762691724,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133305,
+        "num": 102603,
+        "word": "女主播被主管性侵又遭公司索赔10万",
+        "onboard_time": 1762706059,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110584,
+        "num": 101865,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 109764,
+        "num": 100889,
+        "word": "T1三连冠",
+        "onboard_time": 1762690403,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100736,
+        "num": 100736,
+        "word": "那英直播质疑票数",
+        "onboard_time": 1762695861,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98105,
+        "num": 98105,
+        "word": "薛之谦 认真的雪",
+        "onboard_time": 1762699762,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89843,
+        "num": 89843,
+        "word": "捐款140元给国家造航母当事人发声",
+        "onboard_time": 1762699343,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73575,
+        "num": 73575,
+        "word": "张晚意一唱慢冷就哭",
+        "onboard_time": 1762701561,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109743,
+        "num": 72124,
+        "word": "澳大利亚偶遇何超莲窦骁",
+        "onboard_time": 1762689920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67568,
+        "num": 67568,
+        "word": "侯明昊直播",
+        "onboard_time": 1762703121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64558,
+        "num": 64558,
+        "word": "4种水果其实是高糖刺客",
+        "onboard_time": 1762697002,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63937,
+        "num": 63937,
+        "word": "连骂4年大衣哥的女子被判6个月",
+        "onboard_time": 1762706118,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62629,
+        "num": 62629,
+        "word": "每天都吃很饱的荒野求生选手退赛",
+        "onboard_time": 1762705160,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62418,
+        "num": 62418,
+        "word": "这个就是淋巴肉",
+        "onboard_time": 1762692142,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 61349,
+        "num": 61349,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1762693521,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57671,
+        "num": 59664,
+        "word": "爱奇艺角色热度",
+        "onboard_time": 1762702341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54616,
+        "num": 59384,
+        "word": "400万粉丝博主声鸣远扬爆冷淘汰",
+        "onboard_time": 1762702341,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53677,
+        "num": 59259,
+        "word": "声鸣远扬总决赛",
+        "onboard_time": 1762701921,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59208,
+        "num": 59208,
+        "word": "西贝近况",
+        "onboard_time": 1762700303,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55995,
+        "num": 55995,
+        "word": "新华社出图",
+        "onboard_time": 1762705219,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52501,
+        "num": 52501,
+        "word": "羊驼送洗后因毛发未吹干致失温死亡",
+        "onboard_time": 1762698922,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50441,
+        "num": 50441,
+        "word": "周深单依纯 好听",
+        "onboard_time": 1762695861,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 49596,
+        "num": 49596,
+        "word": "刘宇宁回应OST主理人",
+        "onboard_time": 1762705101,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48987,
+        "num": 48987,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46178,
+        "num": 48461,
+        "word": "T1 宙斯",
+        "onboard_time": 1762691904,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45955,
+        "num": 48247,
+        "word": "洗澡后3分钟内要涂保湿霜",
+        "onboard_time": 1762700962,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48142,
+        "num": 48142,
+        "word": "单依纯好争气",
+        "onboard_time": 1762697483,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 44905,
+        "num": 48138,
+        "word": "就差Chovy了",
+        "onboard_time": 1762701383,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44442,
+        "num": 48137,
+        "word": "全运会烟花",
+        "onboard_time": 1762693341,
+        "rank": 40,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 43554,
+        "num": 48133,
+        "word": "十五运开幕式直播",
+        "onboard_time": 1762692442,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41851,
+        "num": 48126,
+        "word": "陈都灵直播",
+        "onboard_time": 1762700003,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42960,
+        "num": 48125,
+        "word": "海啸已抵达日本本州岛",
+        "onboard_time": 1762708037,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41949,
+        "num": 48120,
+        "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+        "onboard_time": 1762693521,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41042,
+        "num": 48117,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39622,
+        "num": 48114,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39160,
+        "num": 48110,
+        "word": "这就是今晚的广州",
+        "onboard_time": 1762688841,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38935,
+        "num": 48106,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35774,
+        "num": 48101,
+        "word": "T1回应夺冠",
+        "onboard_time": 1762707379,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席十五运开幕式#"
+    }
+  }
+}

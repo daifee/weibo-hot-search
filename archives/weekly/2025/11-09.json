@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762706621617,
+  "endTime": 1762708897205,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330521,
+      "num": 330521,
+      "word": "上上谦仅剩上海1家门店",
+      "onboard_time": 1762703480,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 328806,
       "num": 286267,
       "word": "T1翻盘",
@@ -859,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 274422,
-      "num": 274422,
-      "word": "上上谦仅剩上海1家门店",
-      "onboard_time": 1762703480,
-      "rank": 17,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 273946,
       "num": 273946,
       "word": "男子帮邻居关液化气瓶遇爆炸离世",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1762655181,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208401,
+      "num": 129094,
+      "word": "白百何方发说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 207691,
@@ -1923,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133305,
+      "num": 102603,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132918,
       "num": 142578,
       "word": "唐诡出战报速度都跟不上热度了",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1762692262,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129094,
-      "num": 129094,
-      "word": "白百何方发说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 129059,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1762669880,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95687,
-      "num": 95687,
-      "word": "女主播被主管性侵又遭公司索赔10万",
-      "onboard_time": 1762706059,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95131,
@@ -3363,6 +3363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63937,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63778,
       "num": 73738,
       "word": "F4演唱会没有朱孝天",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1762695203,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54022,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 53987,
@@ -3811,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42960,
+      "num": 48125,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42227,
       "num": 166235,
       "word": "留几手锐评再见爱人保险事件",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1762641915,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 35774,
+      "num": 48101,
+      "word": "T1回应夺冠",
+      "onboard_time": 1762707379,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 35582,

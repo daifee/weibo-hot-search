@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 00:43:41
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 01:21:37
 </p>
 </blockquote>
 <p>
@@ -489,6 +489,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%8A%E8%B0%A6%E4%BB%85%E5%89%A9%E4%B8%8A%E6%B5%B71%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
+上上谦仅剩上海1家门店（热度：330521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E7%BF%BB%E7%9B%98%23" target="weibo">
 T1翻盘（热度：328806）
 </a>
@@ -657,12 +663,6 @@ T1的BP（热度：291108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%8A%E8%B0%A6%E4%BB%85%E5%89%A9%E4%B8%8A%E6%B5%B71%E5%AE%B6%E9%97%A8%E5%BA%97%23" target="weibo">
-上上谦仅剩上海1家门店（热度：274422）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%AE%E9%82%BB%E5%B1%85%E5%85%B3%E6%B6%B2%E5%8C%96%E6%B0%94%E7%93%B6%E9%81%87%E7%88%86%E7%82%B8%E7%A6%BB%E4%B8%96%23" target="weibo">
 男子帮邻居关液化气瓶遇爆炸离世（热度：273946）
 </a>
@@ -827,6 +827,12 @@ KT对战T1决胜局（热度：222375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0HE%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23" target="weibo">
 暗河传HE得很彻底（热度：210895）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E6%96%B9%E5%8F%91%E8%AF%B4%E4%BD%93%E9%9D%A2%E6%94%B6%E5%9C%BA%E4%B8%BA%E5%A5%BD%23" target="weibo">
+白百何方发说体面收场为好（热度：208401）
 </a>
 </li>
 
@@ -1455,6 +1461,12 @@ Tabe力挺Shanks（热度：144427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E4%B8%BB%E7%AE%A1%E6%80%A7%E4%BE%B5%E5%8F%88%E9%81%AD%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%9410%E4%B8%87%23" target="weibo">
+女主播被主管性侵又遭公司索赔10万（热度：133305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E5%87%BA%E6%88%98%E6%8A%A5%E9%80%9F%E5%BA%A6%E9%83%BD%E8%B7%9F%E4%B8%8D%E4%B8%8A%E7%83%AD%E5%BA%A6%E4%BA%86%23" target="weibo">
 唐诡出战报速度都跟不上热度了（热度：132918）
 </a>
@@ -1481,12 +1493,6 @@ Tabe力挺Shanks（热度：144427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E4%BA%AE%E7%9B%B8%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
 郑钦文亮相全运会开幕式（热度：129330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E6%96%B9%E5%8F%91%E8%AF%B4%E4%BD%93%E9%9D%A2%E6%94%B6%E5%9C%BA%E4%B8%BA%E5%A5%BD%23" target="weibo">
-白百何方发说体面收场为好（热度：129094）
 </a>
 </li>
 
@@ -1973,12 +1979,6 @@ S15决赛（热度：98606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E6%BC%94%E5%87%BA%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BB%9D%E6%9C%9B%23" target="weibo">
 郭俊辰演出了真正的绝望（热度：96909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E4%B8%BB%E7%AE%A1%E6%80%A7%E4%BE%B5%E5%8F%88%E9%81%AD%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%9410%E4%B8%87%23" target="weibo">
-女主播被主管性侵又遭公司索赔10万（热度：95687）
 </a>
 </li>
 
@@ -2535,6 +2535,12 @@ T1对阵海报（热度：84321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E9%AA%824%E5%B9%B4%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%9A%84%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88%23" target="weibo">
+连骂4年大衣哥的女子被判6个月（热度：63937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F4%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B2%A1%E6%9C%89%E6%9C%B1%E5%AD%9D%E5%A4%A9%23" target="weibo">
 F4演唱会没有朱孝天（热度：63778）
 </a>
@@ -2687,12 +2693,6 @@ faker亲签显示器拍卖（热度：55450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%A4%E6%B8%AF%E6%BE%B3%E4%B8%89%E5%9C%B0%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
 粤港澳三地火炬手（热度：54492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E9%AA%824%E5%B9%B4%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%9A%84%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A46%E4%B8%AA%E6%9C%88%23" target="weibo">
-连骂4年大衣哥的女子被判6个月（热度：54022）
 </a>
 </li>
 
@@ -2871,6 +2871,12 @@ faker亲签显示器拍卖（热度：55450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
+海啸已抵达日本本州岛（热度：42960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E9%94%90%E8%AF%84%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E4%BF%9D%E9%99%A9%E4%BA%8B%E4%BB%B6%23" target="weibo">
 留几手锐评再见爱人保险事件（热度：42227）
 </a>
@@ -2951,6 +2957,12 @@ Kkoma谈T1三连冠（热度：41736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%87%A4%E5%87%B0%E5%BF%AB%E9%80%9F%E9%80%BC%E8%BF%91%23" target="weibo">
 台风凤凰快速逼近（热度：36317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0%23" target="weibo">
+T1回应夺冠（热度：35774）
 </a>
 </li>
 

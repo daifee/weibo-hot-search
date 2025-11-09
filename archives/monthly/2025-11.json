@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762706621617,
+  "endTime": 1762708897205,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -4843,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330521,
+      "num": 330521,
+      "word": "上上谦仅剩上海1家门店",
+      "onboard_time": 1762703480,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "疯狂动物城",
@@ -5889,14 +5897,6 @@
       "onboard_time": 1762407801,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 274422,
-      "num": 274422,
-      "word": "上上谦仅剩上海1家门店",
-      "onboard_time": 1762703480,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 274411,
@@ -7689,6 +7689,14 @@
       "onboard_time": 1762393519,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 208401,
+      "num": 129094,
+      "word": "白百何方发说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 208204,
@@ -13995,6 +14003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133305,
+      "num": 102603,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133293,
       "num": 704687,
       "word": "全运会本周末就开幕了",
@@ -14633,14 +14649,6 @@
       "onboard_time": 1762074800,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129094,
-      "num": 129094,
-      "word": "白百何方发说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 129059,
@@ -21185,14 +21193,6 @@
       "onboard_time": 1762185501,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95687,
-      "num": 95687,
-      "word": "女主播被主管性侵又遭公司索赔10万",
-      "onboard_time": 1762706059,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95686,
@@ -27971,6 +27971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63937,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63793,
       "num": 118317,
       "word": "上海高级感螺蛳粉",
@@ -29025,14 +29033,6 @@
       "onboard_time": 1762356861,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54022,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 53987,
@@ -30091,6 +30091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42960,
+      "num": 48125,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42785,
       "num": 110202,
       "word": "国考抢考点",
@@ -30713,6 +30721,14 @@
       "onboard_time": 1762509621,
       "rank": 48,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 35774,
+      "num": 48101,
+      "word": "T1回应夺冠",
+      "onboard_time": 1762707379,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 35632,
