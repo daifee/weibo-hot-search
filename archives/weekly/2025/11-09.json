@@ -1,10 +1,10 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762683929004,
+  "endTime": 1762684854239,
   "band_list": [
     {
       "raw_hot": 1582542,
-      "num": 165742,
+      "num": 174917,
       "word": "谢娜坐高铁偶遇王鹤棣",
       "onboard_time": 1762674919,
       "rank": 20,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1288266,
-      "num": 165618,
+      "num": 173449,
       "word": "女艺人穿着裙子跪前边拍照",
       "onboard_time": 1762668679,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1270613,
+      "num": 195904,
+      "word": "排骨羽绒服",
+      "onboard_time": 1762682420,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 1055497,
@@ -35,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 979575,
-      "num": 166181,
+      "raw_hot": 990681,
+      "num": 192191,
       "word": "白百何工作室晒时间线",
       "onboard_time": 1762681939,
       "rank": 10,
@@ -107,14 +115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 716350,
-      "num": 165339,
-      "word": "排骨羽绒服",
-      "onboard_time": 1762682420,
-      "rank": 11,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 681969,
       "num": 278288,
       "word": "AG夺冠",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 663504,
-      "num": 165049,
+      "num": 170431,
       "word": "王源回复王俊凯易烊千玺祝福",
       "onboard_time": 1762671320,
       "rank": 21,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 567954,
-      "num": 165263,
+      "num": 174272,
       "word": "关晓彤衣品",
       "onboard_time": 1762675040,
       "rank": 23,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 321842,
-      "num": 135226,
+      "num": 172765,
       "word": "胡歌带女儿逛乐高乐园",
       "onboard_time": 1762681760,
       "rank": 25,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 320238,
-      "num": 174166,
+      "num": 178436,
       "word": "小猫知道爷爷去世了",
       "onboard_time": 1762677801,
       "rank": 15,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 315626,
-      "num": 131972,
+      "num": 152610,
       "word": "彭小苒 姐妹这太过火了",
       "onboard_time": 1762678040,
       "rank": 26,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278173,
+      "num": 278173,
+      "word": "管泽元 BLG来看比赛了",
+      "onboard_time": 1762682900,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 273946,
       "num": 273946,
       "word": "男子帮邻居关液化气瓶遇爆炸离世",
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220759,
+      "num": 220759,
+      "word": "女子曝光服装AB版带货套路",
+      "onboard_time": 1762680740,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210895,
       "num": 1033743,
       "word": "暗河传HE得很彻底",
@@ -689,6 +705,22 @@
       "onboard_time": 1762602380,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207599,
+      "num": 207599,
+      "word": "全运会",
+      "onboard_time": 1762683680,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205873,
+      "num": 205873,
+      "word": "这蒙多太吓人了",
+      "onboard_time": 1762683920,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 204732,
@@ -811,20 +843,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175904,
+      "num": 175904,
+      "word": "44岁导演心梗离世仅获赔1万元",
+      "onboard_time": 1762684340,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175711,
       "num": 285528,
       "word": "无限暖暖",
       "onboard_time": 1762664781,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 172901,
-      "num": 172901,
-      "word": "女子曝光服装AB版带货套路",
-      "onboard_time": 1762680740,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172514,
@@ -857,14 +889,6 @@
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166980,
-      "num": 166980,
-      "word": "全运会",
-      "onboard_time": 1762683680,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 165870,
@@ -979,11 +1003,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151859,
-      "num": 144182,
-      "word": "管泽元 BLG来看比赛了",
-      "onboard_time": 1762682900,
-      "rank": 18,
+      "raw_hot": 152630,
+      "num": 152630,
+      "word": "KT冠军点",
+      "onboard_time": 1762684040,
+      "rank": 27,
       "category": "电竞"
     },
     {
@@ -993,6 +1017,14 @@
       "onboard_time": 1762676781,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150082,
+      "num": 175773,
+      "word": "唐诡云合登顶",
+      "onboard_time": 1762680260,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 149210,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1762609341,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144875,
-      "num": 144875,
-      "word": "唐诡云合登顶",
-      "onboard_time": 1762680260,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 144809,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1762660219,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138278,
+      "num": 138278,
+      "word": "登陆少年团红毯太抽象了",
+      "onboard_time": 1762683501,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 137510,
@@ -1163,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124864,
+      "num": 124864,
+      "word": "网购衣服货不对版的原因找到了",
+      "onboard_time": 1762683981,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124708,
       "num": 636060,
       "word": "梅西梅开二度",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1762610422,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119886,
+      "num": 119886,
+      "word": "狼队坐着握手",
+      "onboard_time": 1762683379,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 119038,
@@ -1323,14 +1371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 111763,
-      "num": 111763,
-      "word": "登陆少年团红毯太抽象了",
-      "onboard_time": 1762683501,
-      "rank": 32,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 111684,
       "num": 111684,
       "word": "普京最新支持率出炉",
@@ -1387,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106995,
+      "num": 106995,
+      "word": "气血不足的人建议向小猫学习",
+      "onboard_time": 1762683920,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106305,
       "num": 106305,
       "word": "各地方言都有自己的龙丫头",
@@ -1400,6 +1448,22 @@
       "word": "你好星期六下期是枭起青壤剧组",
       "onboard_time": 1762609402,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105402,
+      "num": 126732,
+      "word": "海昏侯墓发现秦汉时期全本诗经",
+      "onboard_time": 1762680441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105370,
+      "num": 105370,
+      "word": "苏新皓对镜头挑眉",
+      "onboard_time": 1762684521,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1499,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100371,
+      "num": 100371,
+      "word": "黄朔挑染",
+      "onboard_time": 1762684400,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99842,
       "num": 120352,
       "word": "日本附近海域6.8级地震",
@@ -1521,14 +1593,6 @@
       "onboard_time": 1762668620,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97929,
-      "num": 126732,
-      "word": "海昏侯墓发现秦汉时期全本诗经",
-      "onboard_time": 1762680441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97857,
@@ -1563,14 +1627,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 97342,
-      "num": 97342,
-      "word": "狼队坐着握手",
-      "onboard_time": 1762683379,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 97337,
       "num": 97337,
       "word": "佘诗曼新剧用老登治中登",
@@ -1603,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95131,
+      "num": 95131,
+      "word": "不节食不运动也能瘦的5个习惯",
+      "onboard_time": 1762684639,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 92100,
+      "num": 92100,
+      "word": "李昀锐哄完你的再哄你的",
+      "onboard_time": 1762684579,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 91953,
@@ -1707,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90453,
+      "num": 97348,
+      "word": "恩利一开口以为庾澄庆来了",
+      "onboard_time": 1762682958,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90361,
       "num": 90361,
       "word": "中国第四艘航母或为核动力",
@@ -1739,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89838,
+      "num": 97769,
+      "word": "115岁老人寿宴专挑肥肉吃",
+      "onboard_time": 1762683439,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89574,
       "num": 89574,
       "word": "她是真的想教会你穿搭",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1762666519,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88571,
+      "num": 88571,
+      "word": "美国女子无家可归像虫子一样蠕动",
+      "onboard_time": 1762684760,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88395,
@@ -1865,6 +1961,14 @@
       "onboard_time": 1762658960,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85918,
+      "num": 85918,
+      "word": "石凯红包",
+      "onboard_time": 1762684819,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 85879,
@@ -2075,14 +2179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73325,
-      "num": 97769,
-      "word": "115岁老人寿宴专挑肥肉吃",
-      "onboard_time": 1762683439,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73076,
       "num": 73076,
       "word": "和恶魔做了一桩交易",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1762678821,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70902,
+      "num": 97808,
+      "word": "虎鲸母子被困废弃海洋公园起舞求食",
+      "onboard_time": 1762684159,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70577,
@@ -2209,14 +2313,6 @@
       "onboard_time": 1762682538,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62227,
-      "num": 97348,
-      "word": "恩利一开口以为庾澄庆来了",
-      "onboard_time": 1762682958,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 61450,
@@ -2427,6 +2523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47746,
+      "num": 202290,
+      "word": "商务部回应安世半导体问题",
+      "onboard_time": 1762683740,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46296,
       "num": 100730,
       "word": "刘雨昕完全是bjd在跳舞",
@@ -2449,6 +2553,14 @@
       "onboard_time": 1762664298,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45474,
+      "num": 98974,
+      "word": "伊能静跟唱恩利情非得已",
+      "onboard_time": 1762684639,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 45073,
@@ -2571,14 +2683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40137,
-      "num": 124845,
-      "word": "商务部回应安世半导体问题",
-      "onboard_time": 1762683740,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40016,
       "num": 163923,
       "word": "李莎旻子音乐节后台吃上盐水鸭了",
@@ -2588,7 +2692,7 @@
     },
     {
       "raw_hot": 39555,
-      "num": 142968,
+      "num": 175747,
       "word": "京东惊喜之夜发黄金钻石手表",
       "onboard_time": 1762682958,
       "rank": 19,
@@ -2802,6 +2906,9 @@
     },
     {
       "word": "#总书记点赞的土特产#"
+    },
+    {
+      "word": "#逐梦体育强国#"
     }
   ]
 }

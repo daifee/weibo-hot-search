@@ -1,0 +1,410 @@
+{
+  "runTime": 1762684854239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 778905,
+        "num": 1124624,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447540,
+        "num": 447540,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151999,
+        "num": 436733,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431995,
+        "num": 431995,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278173,
+        "num": 278173,
+        "word": "管泽元 BLG来看比赛了",
+        "onboard_time": 1762682900,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237031,
+        "num": 237031,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220759,
+        "num": 220759,
+        "word": "女子曝光服装AB版带货套路",
+        "onboard_time": 1762680740,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207599,
+        "num": 207599,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205873,
+        "num": 205873,
+        "word": "这蒙多太吓人了",
+        "onboard_time": 1762683920,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47746,
+        "num": 202290,
+        "word": "商务部回应安世半导体问题",
+        "onboard_time": 1762683740,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1270613,
+        "num": 195904,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 990681,
+        "num": 192191,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399412,
+        "num": 187693,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357136,
+        "num": 182256,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 206582,
+        "num": 178436,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1762677801,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "44岁导演心梗离世仅获赔1万元",
+        "onboard_time": 1762684340,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150082,
+        "num": 175773,
+        "word": "唐诡云合登顶",
+        "onboard_time": 1762680260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130858,
+        "num": 175751,
+        "word": "唐诡3第一滴泪给刘十八刘十九",
+        "onboard_time": 1762675881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38544,
+        "num": 175747,
+        "word": "京东惊喜之夜发黄金钻石手表",
+        "onboard_time": 1762682958,
+        "rank": 18,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 175744,
+        "num": 175744,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 634208,
+        "num": 174917,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426339,
+        "num": 174272,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418592,
+        "num": 173449,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316981,
+        "num": 172765,
+        "word": "胡歌带女儿逛乐高乐园",
+        "onboard_time": 1762681760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247136,
+        "num": 171741,
+        "word": "自取奶茶一买一个不吱声",
+        "onboard_time": 1762677260,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217423,
+        "num": 170431,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170081,
+        "num": 170081,
+        "word": "包头禁飞区现蝴蝶状飞行物",
+        "onboard_time": 1762675881,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152630,
+        "num": 152630,
+        "word": "KT冠军点",
+        "onboard_time": 1762684040,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152610,
+        "num": 152610,
+        "word": "彭小苒 姐妹这太过火了",
+        "onboard_time": 1762678040,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127322,
+        "num": 141752,
+        "word": "日本地震",
+        "onboard_time": 1762680860,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140942,
+        "num": 140942,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 30,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 138278,
+        "num": 138278,
+        "word": "登陆少年团红毯太抽象了",
+        "onboard_time": 1762683501,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 124864,
+        "num": 124864,
+        "word": "网购衣服货不对版的原因找到了",
+        "onboard_time": 1762683981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119886,
+        "num": 119886,
+        "word": "狼队坐着握手",
+        "onboard_time": 1762683379,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 106995,
+        "word": "气血不足的人建议向小猫学习",
+        "onboard_time": 1762683920,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105402,
+        "num": 105402,
+        "word": "海昏侯墓发现秦汉时期全本诗经",
+        "onboard_time": 1762680441,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105370,
+        "num": 105370,
+        "word": "苏新皓对镜头挑眉",
+        "onboard_time": 1762684521,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100371,
+        "num": 100371,
+        "word": "黄朔挑染",
+        "onboard_time": 1762684400,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45474,
+        "num": 98974,
+        "word": "伊能静跟唱恩利情非得已",
+        "onboard_time": 1762684639,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70902,
+        "num": 97808,
+        "word": "虎鲸母子被困废弃海洋公园起舞求食",
+        "onboard_time": 1762684159,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97786,
+        "num": 97786,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1762677739,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95131,
+        "num": 95131,
+        "word": "不节食不运动也能瘦的5个习惯",
+        "onboard_time": 1762684639,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92100,
+        "num": 92100,
+        "word": "李昀锐哄完你的再哄你的",
+        "onboard_time": 1762684579,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89838,
+        "num": 89838,
+        "word": "115岁老人寿宴专挑肥肉吃",
+        "onboard_time": 1762683439,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90453,
+        "num": 89807,
+        "word": "恩利一开口以为庾澄庆来了",
+        "onboard_time": 1762682958,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89732,
+        "num": 89732,
+        "word": "罗云熙电竞椅变总裁椅",
+        "onboard_time": 1762683080,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 89020,
+        "num": 89020,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88571,
+        "num": 88571,
+        "word": "美国女子无家可归像虫子一样蠕动",
+        "onboard_time": 1762684760,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88416,
+        "num": 88416,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85918,
+        "num": 85918,
+        "word": "石凯红包",
+        "onboard_time": 1762684819,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦体育强国#"
+    }
+  }
+}
