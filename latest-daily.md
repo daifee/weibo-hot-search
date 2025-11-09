@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 03:37:29
+本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 04:26:38
 </p>
 </blockquote>
 <p>
@@ -357,14 +357,14 @@ T1回应夺冠（热度：35774）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%8D%81%E4%BA%8C%E5%B0%91%23" target="weibo">
-非洲十二少（热度：30395）
+<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
+44岁短剧导演突发心梗去世（热度：34369）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
-44岁短剧导演突发心梗去世（热度：24903）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%8D%81%E4%BA%8C%E5%B0%91%23" target="weibo">
+非洲十二少（热度：30395）
 </a>
 </li>
 
@@ -389,6 +389,12 @@ T1回应夺冠（热度：35774）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E7%8E%8B%E5%98%89%E5%B0%94BUCK%E7%8E%B0%E5%9C%BA%E5%B0%B1%E5%BE%97%E8%B9%A6%23" target="weibo">
 听王嘉尔BUCK现场就得蹦（热度：17209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
+开幕式6棒火炬手（热度：14900）
 </a>
 </li>
 
