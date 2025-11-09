@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762709880407,
+  "endTime": 1762713208227,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97384,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95082,
       "num": 95082,
       "word": "那英要把苗梦初送上歌手",
@@ -371,14 +379,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 63937,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63121,
       "num": 78859,
       "word": "美声版技能五子棋",
@@ -449,6 +449,30 @@
       "onboard_time": 1762707379,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29687,
+      "num": 29658,
+      "word": "非洲十二少",
+      "onboard_time": 1762711336,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23276,
+      "num": 27470,
+      "word": "全运会主火炬点燃",
+      "onboard_time": 1762694842,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18214,
+      "num": 27340,
+      "word": "杨洋我的秋日男友",
+      "onboard_time": 1762712174,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 17209,
