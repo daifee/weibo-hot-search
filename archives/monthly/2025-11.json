@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762727053489,
+  "endTime": 1762728005814,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14579,6 +14579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129513,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129462,
       "num": 129462,
       "word": "沈腾咱不跟宋亚轩争第一",
@@ -18275,6 +18283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107809,
+      "num": 48411,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107807,
       "num": 107807,
       "word": "张博恒出发肇庆",
@@ -20801,14 +20817,6 @@
       "onboard_time": 1762399822,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97384,
-      "num": 71162,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97367,
@@ -24065,14 +24073,6 @@
       "onboard_time": 1762139600,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86081,
-      "num": 48411,
-      "word": "海啸已抵达日本本州岛",
-      "onboard_time": 1762708037,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 86006,
@@ -28243,6 +28243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61474,
+      "num": 41374,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61461,
       "num": 73354,
       "word": "中秋国庆终于解绑了",
@@ -29025,14 +29033,6 @@
       "onboard_time": 1761918563,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54118,
-      "num": 34647,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 54098,
@@ -29900,7 +29900,7 @@
     },
     {
       "raw_hot": 44873,
-      "num": 28178,
+      "num": 32713,
       "word": "嫁金钗 董思成",
       "onboard_time": 1762713194,
       "rank": 37,
@@ -31203,6 +31203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30905,
+      "num": 30905,
+      "word": "Gumayusi晒奖杯照",
+      "onboard_time": 1762727295,
+      "rank": 28,
+      "category": "体育,电竞"
+    },
+    {
       "raw_hot": 30669,
       "num": 42248,
       "word": "华晨宇大眼音乐节",
@@ -31739,6 +31747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25348,
+      "num": 29846,
+      "word": "情绪背后可能是甲状腺在求救",
+      "onboard_time": 1762725915,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25324,
       "num": 219437,
       "word": "北京秋游太舒服了",
@@ -32172,7 +32188,7 @@
     },
     {
       "raw_hot": 19090,
-      "num": 23408,
+      "num": 29786,
       "word": "开幕式6棒火炬手",
       "onboard_time": 1762717934,
       "rank": 38,
@@ -32217,6 +32233,14 @@
       "onboard_time": 1762690584,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18566,
+      "num": 29805,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 18554,
@@ -32281,6 +32305,14 @@
       "onboard_time": 1762023554,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17969,
+      "num": 29796,
+      "word": "十五运会纵向点火太酷了",
+      "onboard_time": 1762727656,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 17952,
@@ -32489,14 +32521,6 @@
       "onboard_time": 1762180822,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15300,
-      "num": 23417,
-      "word": "情绪背后可能是甲状腺在求救",
-      "onboard_time": 1762725915,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15299,
