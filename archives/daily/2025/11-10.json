@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762716009721,
+  "endTime": 1762717049688,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -435,7 +435,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 43656,
+      "raw_hot": 44873,
       "num": 28178,
       "word": "嫁金钗 董思成",
       "onboard_time": 1762713194,
@@ -467,8 +467,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 23570,
-      "num": 23570,
+      "raw_hot": 24903,
+      "num": 24903,
       "word": "44岁短剧导演突发心梗去世",
       "onboard_time": 1762713194,
       "rank": 48,

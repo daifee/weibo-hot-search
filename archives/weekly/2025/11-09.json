@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762716009721,
+  "endTime": 1762717049688,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -3771,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44873,
+      "num": 28178,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44315,
       "num": 85261,
       "word": "全运会有41枚游泳金牌",
@@ -3785,14 +3793,6 @@
       "onboard_time": 1762659800,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43656,
-      "num": 28178,
-      "word": "嫁金钗 董思成",
-      "onboard_time": 1762713194,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 43611,
@@ -4067,6 +4067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24903,
+      "num": 24903,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
@@ -4081,14 +4089,6 @@
       "onboard_time": 1762701320,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23570,
-      "num": 23570,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 23322,

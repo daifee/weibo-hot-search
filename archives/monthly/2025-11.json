@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762716009721,
+  "endTime": 1762717049688,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -29891,6 +29891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44873,
+      "num": 28178,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44784,
       "num": 64376,
       "word": "韩东君昨天冠军今天又冠军",
@@ -29985,14 +29993,6 @@
       "onboard_time": 1762316662,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43656,
-      "num": 28178,
-      "word": "嫁金钗 董思成",
-      "onboard_time": 1762713194,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 43611,
@@ -31763,6 +31763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24903,
+      "num": 24903,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24823,
       "num": 171931,
       "word": "当老外学会皮蛋配牛油果",
@@ -31865,14 +31873,6 @@
       "onboard_time": 1762504820,
       "rank": 9,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 23570,
-      "num": 23570,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 23568,
