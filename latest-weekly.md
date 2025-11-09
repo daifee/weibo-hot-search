@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 04:39:51
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 05:22:28
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ F1（热度：32426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
+开幕式6棒火炬手（热度：17006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%B0%E8%88%AA%E7%BA%BF%E6%AD%A3%E5%BC%8F%E5%A4%8D%E8%88%AA%23" target="weibo">
 中印航线正式复航（热度：16982）
 </a>
@@ -3143,12 +3149,6 @@ KK园区148栋建筑将被拆除（热度：15821）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E7%AA%81%E7%84%B6%E5%BC%80%E5%A7%8B%E9%9E%A0%E8%BA%AC%23" target="weibo">
 张峻豪突然开始鞠躬（热度：15749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
-开幕式6棒火炬手（热度：14900）
 </a>
 </li>
 
