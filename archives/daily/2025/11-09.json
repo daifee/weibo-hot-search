@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762663412245,
+  "endTime": 1762665912474,
   "band_list": [
     {
       "raw_hot": 914031,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553579,
+      "num": 169679,
+      "word": "最好的我们朱瑶张平演员结婚",
+      "onboard_time": 1762661779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539945,
       "num": 1043098,
       "word": "早春晴朗井柏然孙千车内拥吻",
@@ -105,6 +113,14 @@
       "onboard_time": 1762652480,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 446465,
+      "num": 446465,
+      "word": "唐诡",
+      "onboard_time": 1762663099,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 445681,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390677,
+      "num": 390677,
+      "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+      "onboard_time": 1762662979,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 390102,
       "num": 722804,
       "word": "台湾民众高喊我们都是中国人",
@@ -161,6 +185,14 @@
       "onboard_time": 1762616662,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375657,
+      "num": 166342,
+      "word": "TVB演员众筹150万给妻子治病",
+      "onboard_time": 1762662020,
+      "rank": 30,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 366258,
@@ -187,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362601,
+      "num": 362601,
+      "word": "粉笔模考",
+      "onboard_time": 1762663220,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361920,
       "num": 206185,
       "word": "花海时团再相遇",
@@ -209,6 +249,14 @@
       "onboard_time": 1762652659,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332474,
+      "num": 332474,
+      "word": "剑来",
+      "onboard_time": 1762664360,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 311109,
@@ -273,14 +321,6 @@
       "onboard_time": 1762615521,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 283016,
-      "num": 169679,
-      "word": "最好的我们朱瑶张平演员结婚",
-      "onboard_time": 1762661779,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 279728,
@@ -355,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213235,
-      "num": 166342,
-      "word": "TVB演员众筹150万给妻子治病",
-      "onboard_time": 1762662020,
-      "rank": 30,
-      "category": "艺人,民生新闻"
+      "raw_hot": 212276,
+      "num": 127763,
+      "word": "唐诡热度",
+      "onboard_time": 1762665258,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 210895,
@@ -427,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192150,
-      "num": 192150,
-      "word": "唐诡",
-      "onboard_time": 1762663099,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 188216,
+      "num": 123293,
+      "word": "假奶皮子糖葫芦受害者",
+      "onboard_time": 1762660460,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 176725,
@@ -441,6 +481,14 @@
       "onboard_time": 1762616182,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175711,
+      "num": 175711,
+      "word": "无限暖暖",
+      "onboard_time": 1762664781,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 172514,
@@ -547,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144526,
+      "num": 118942,
+      "word": "网红博主建议对明星祛魅",
+      "onboard_time": 1762662141,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141475,
       "num": 141475,
       "word": "医生眼中无意识变胖的行为",
@@ -603,28 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125929,
-      "num": 173935,
-      "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
-      "onboard_time": 1762662979,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124708,
       "num": 636060,
       "word": "梅西梅开二度",
       "onboard_time": 1762656979,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123293,
-      "num": 123293,
-      "word": "假奶皮子糖葫芦受害者",
-      "onboard_time": 1762660460,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 121292,
@@ -667,11 +707,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117732,
-      "num": 117732,
-      "word": "网红博主建议对明星祛魅",
-      "onboard_time": 1762662141,
-      "rank": 36,
+      "raw_hot": 116317,
+      "num": 116317,
+      "word": "陈浚铭对着师兄海报打招呼",
+      "onboard_time": 1762664839,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -769,6 +809,14 @@
       "onboard_time": 1762659800,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100608,
+      "num": 100608,
+      "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
+      "onboard_time": 1762665740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 100441,
@@ -899,12 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90874,
+      "num": 90874,
+      "word": "狗咖销冠营业中",
+      "onboard_time": 1762665501,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90173,
       "num": 90173,
       "word": "猕猴桃 一种很团结的水果",
       "onboard_time": 1762655481,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89962,
+      "num": 89962,
+      "word": "小猫熬夜看动画片",
+      "onboard_time": 1762665079,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 89574,
@@ -947,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86589,
+      "num": 86589,
+      "word": "预售15天的女装退货率超一半",
+      "onboard_time": 1762664298,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86216,
       "num": 86216,
       "word": "猫是好猫就是上不去网",
@@ -979,20 +1051,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84360,
+      "num": 204143,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1762615521,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83243,
       "num": 83243,
       "word": "肖战藏海传长尾效应有多强",
       "onboard_time": 1762660700,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82865,
-      "num": 204143,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1762615521,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 82853,
@@ -1107,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70445,
-      "num": 121280,
-      "word": "粉笔模考",
-      "onboard_time": 1762663220,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 69115,
       "num": 69115,
       "word": "祝绪丹别睡我手机里",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1762647199,
       "rank": 44,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 68230,
+      "num": 82353,
+      "word": "孩子地铁内荡秋千家长在旁拍照",
+      "onboard_time": 1762664298,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67928,
@@ -1219,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55307,
+      "num": 122790,
+      "word": "双11决赛圈72h倒计时",
+      "onboard_time": 1762664720,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -1251,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47997,
+      "num": 83924,
+      "word": "超强台风凤凰预计还会增强",
+      "onboard_time": 1762663639,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 47872,
       "num": 71389,
       "word": "涉密人员退休保密责任并非到达终点",
@@ -1267,12 +1355,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 45681,
+      "num": 89688,
+      "word": "梁伟铿用粤语接受采访",
+      "onboard_time": 1762664298,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45073,
       "num": 203605,
       "word": "螺蛳粉店名 陆丝芬",
       "onboard_time": 1762599922,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45008,
+      "num": 82929,
+      "word": "湖人被老鹰打崩了",
+      "onboard_time": 1762664060,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 44930,
