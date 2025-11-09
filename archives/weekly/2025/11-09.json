@@ -1,18 +1,42 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762688238134,
+  "endTime": 1762692401596,
   "band_list": [
     {
+      "raw_hot": 8192449,
+      "num": 8192449,
+      "word": "T1三连冠",
+      "onboard_time": 1762690403,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1654581,
+      "num": 372213,
+      "word": "Faker六冠王",
+      "onboard_time": 1762690584,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1582542,
-      "num": 183468,
+      "num": 326039,
       "word": "谢娜坐高铁偶遇王鹤棣",
       "onboard_time": 1762674919,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 1474589,
+      "num": 367537,
+      "word": "Uzi 拿奖杯",
+      "onboard_time": 1762688120,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1447691,
-      "num": 224942,
+      "num": 349285,
       "word": "排骨羽绒服",
       "onboard_time": 1762682420,
       "rank": 11,
@@ -28,11 +52,19 @@
     },
     {
       "raw_hot": 1288266,
-      "num": 183168,
+      "num": 221670,
       "word": "女艺人穿着裙子跪前边拍照",
       "onboard_time": 1762668679,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1098639,
+      "num": 1175782,
+      "word": "直播十五运开幕式",
+      "onboard_time": 1762689380,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1055497,
@@ -44,7 +76,7 @@
     },
     {
       "raw_hot": 1047273,
-      "num": 205298,
+      "num": 297011,
       "word": "李连杰脱衣辟谣换心脏",
       "onboard_time": 1762670000,
       "rank": 42,
@@ -52,7 +84,7 @@
     },
     {
       "raw_hot": 990681,
-      "num": 217561,
+      "num": 323937,
       "word": "白百何工作室晒时间线",
       "onboard_time": 1762681939,
       "rank": 10,
@@ -81,6 +113,22 @@
       "onboard_time": 1762675759,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 830554,
+      "num": 830554,
+      "word": "全运会",
+      "onboard_time": 1762683680,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 811661,
+      "num": 329790,
+      "word": "澳大利亚偶遇何超莲窦骁",
+      "onboard_time": 1762689920,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 811361,
@@ -115,11 +163,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 688837,
+      "num": 359398,
+      "word": "Guma FMVP",
+      "onboard_time": 1762691483,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 681969,
       "num": 278288,
       "word": "AG夺冠",
       "onboard_time": 1762611024,
       "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 677194,
+      "num": 356952,
+      "word": "Uzi颁奖",
+      "onboard_time": 1762691304,
+      "rank": 11,
       "category": "电竞"
     },
     {
@@ -172,7 +236,7 @@
     },
     {
       "raw_hot": 567954,
-      "num": 183242,
+      "num": 190329,
       "word": "关晓彤衣品",
       "onboard_time": 1762675040,
       "rank": 23,
@@ -201,6 +265,14 @@
       "onboard_time": 1762666340,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 530567,
+      "num": 340852,
+      "word": "接多兰事业运",
+      "onboard_time": 1762691363,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 518830,
@@ -252,7 +324,7 @@
     },
     {
       "raw_hot": 447045,
-      "num": 209648,
+      "num": 229712,
       "word": "44岁导演心梗离世仅获赔1万元",
       "onboard_time": 1762684340,
       "rank": 15,
@@ -267,20 +339,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 431910,
-      "num": 431910,
-      "word": "全运会",
-      "onboard_time": 1762683680,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429461,
       "num": 411512,
       "word": "人一旦拥有了电动车",
       "onboard_time": 1762658660,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 428362,
+      "num": 337575,
+      "word": "长公主 磨皮",
+      "onboard_time": 1762691724,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 419301,
@@ -313,6 +385,14 @@
       "onboard_time": 1762657759,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391055,
+      "num": 475114,
+      "word": "全运会开幕式",
+      "onboard_time": 1762683319,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 390102,
@@ -475,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 309102,
-      "num": 475114,
-      "word": "全运会开幕式",
-      "onboard_time": 1762683319,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306519,
       "num": 173791,
       "word": "鹿晗让陈赫少吃点小龙虾吧",
@@ -556,7 +628,7 @@
     },
     {
       "raw_hot": 290062,
-      "num": 172365,
+      "num": 276831,
       "word": "多兰 陌生",
       "onboard_time": 1762676000,
       "rank": 12,
@@ -651,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253366,
+      "num": 310153,
+      "word": "唐朝诡事录 韩栋",
+      "onboard_time": 1762689802,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251235,
       "num": 1040031,
       "word": "十五运开幕式演出阵容",
@@ -681,6 +761,14 @@
       "onboard_time": 1762667118,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 237697,
+      "num": 237697,
+      "word": "世上再无王权富贵",
+      "onboard_time": 1762686920,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 235351,
@@ -723,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222375,
+      "num": 222375,
+      "word": "KT对战T1决胜局",
+      "onboard_time": 1762687222,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220908,
       "num": 167455,
       "word": "张铎把陈松伶照片贴在衣服里",
@@ -736,6 +832,14 @@
       "word": "女子曝光服装AB版带货套路",
       "onboard_time": 1762680740,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212712,
+      "num": 366623,
+      "word": "人民咖啡馆更名仅中国大陆可见",
+      "onboard_time": 1762690403,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -787,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204018,
+      "num": 204018,
+      "word": "孟子义好六夜彩排带了额链",
+      "onboard_time": 1762688480,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203387,
       "num": 203387,
       "word": "英雄联盟",
@@ -819,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199556,
+      "num": 199556,
+      "word": "T1 宙斯",
+      "onboard_time": 1762691904,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -833,6 +953,14 @@
       "onboard_time": 1762649178,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192527,
+      "num": 307332,
+      "word": "旗手郑钦文",
+      "onboard_time": 1762691842,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 191488,
@@ -867,12 +995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182498,
-      "num": 139269,
-      "word": "KT对战T1决胜局",
-      "onboard_time": 1762687222,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 183074,
+      "num": 183074,
+      "word": "吴宣仪 欢迎大家来审判我",
+      "onboard_time": 1762689740,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 181823,
@@ -891,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177643,
-      "num": 182498,
-      "word": "世上再无王权富贵",
-      "onboard_time": 1762686920,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177235,
       "num": 177235,
       "word": "日本地震",
@@ -913,6 +1033,14 @@
       "onboard_time": 1762616182,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176037,
+      "num": 303014,
+      "word": "樊振东练到胳膊充血",
+      "onboard_time": 1762691603,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 175711,
@@ -955,6 +1083,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170818,
+      "num": 186159,
+      "word": "锤娜丽莎爱自己后美得好具体",
+      "onboard_time": 1762691842,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170624,
+      "num": 170624,
+      "word": "这个就是淋巴肉",
+      "onboard_time": 1762692142,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165870,
       "num": 165870,
       "word": "大张伟你去跟林一坐一桌",
@@ -985,6 +1129,14 @@
       "onboard_time": 1762686860,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161882,
+      "num": 161882,
+      "word": "声鸣远扬直播",
+      "onboard_time": 1762690283,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 160842,
@@ -1051,12 +1203,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154664,
+      "num": 154664,
+      "word": "王嘉尔音乐节",
+      "onboard_time": 1762691904,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154557,
       "num": 154557,
       "word": "谢娜王鹤棣自拍",
       "onboard_time": 1762676480,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154530,
+      "num": 154530,
+      "word": "终于知道卢凌风外婆长啥样了",
+      "onboard_time": 1762689441,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 154070,
@@ -1088,6 +1256,14 @@
       "word": "KT冠军点",
       "onboard_time": 1762684040,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152502,
+      "num": 152502,
+      "word": "Faker笑了",
+      "onboard_time": 1762688060,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -1187,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139624,
+      "num": 362605,
+      "word": "这就是今晚的广州",
+      "onboard_time": 1762688841,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138910,
       "num": 182830,
       "word": "中储粮库7死事故12人被采取强制措施",
@@ -1259,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129330,
+      "num": 163605,
+      "word": "郑钦文亮相全运会开幕式",
+      "onboard_time": 1762692262,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127613,
       "num": 127613,
       "word": "恩利一开口以为庾澄庆来了",
@@ -1305,14 +1497,6 @@
       "onboard_time": 1762683080,
       "rank": 31,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 124155,
-      "num": 124155,
-      "word": "Uzi 拿奖杯",
-      "onboard_time": 1762688120,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 123846,
@@ -1417,6 +1601,14 @@
       "onboard_time": 1762669100,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117394,
+      "num": 243456,
+      "word": "生父上门抢闺女结果开团秒跪",
+      "onboard_time": 1762692324,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 116317,
@@ -1651,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102773,
+      "num": 342436,
+      "word": "五星红旗入场BGM是歌唱祖国",
+      "onboard_time": 1762691063,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101737,
       "num": 139420,
       "word": "新闻女王唐诡看完你的看你的",
@@ -1720,14 +1920,6 @@
       "word": "一诺好牛",
       "onboard_time": 1762598061,
       "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 99461,
-      "num": 99461,
-      "word": "Faker笑了",
-      "onboard_time": 1762688060,
-      "rank": 42,
       "category": "电竞"
     },
     {
@@ -2627,6 +2819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 53426,
+      "num": 346448,
+      "word": "天猫双11好六夜阵容绝了",
+      "onboard_time": 1762690403,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51858,
       "num": 76383,
       "word": "你要的大湾鸡安排上了",
@@ -2867,6 +3067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39829,
+      "num": 312454,
+      "word": "总要来趟高淳吧",
+      "onboard_time": 1762690643,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39555,
       "num": 189535,
       "word": "京东惊喜之夜发黄金钻石手表",
@@ -2929,6 +3137,14 @@
       "onboard_time": 1762611622,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32392,
+      "num": 332749,
+      "word": "次元市集寻猫启事",
+      "onboard_time": 1762690643,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 31870,
@@ -3009,6 +3225,22 @@
       "onboard_time": 1762669580,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22964,
+      "num": 334199,
+      "word": "大眼音乐节看爽了",
+      "onboard_time": 1762691363,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18664,
+      "num": 298381,
+      "word": "音乐节也能抢红包",
+      "onboard_time": 1762690584,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 17236,

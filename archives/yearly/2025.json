@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1762688238134,
+  "endTime": 1762692401596,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8192449,
+      "num": 8192449,
+      "word": "T1三连冠",
+      "onboard_time": 1762690403,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8187804,
       "num": 8187804,
       "word": "蔡国强致歉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1752566721,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5064753,
-      "num": 5064753,
-      "word": "警方通报河北一女子疑家暴去世",
-      "onboard_time": 1756051282,
-      "rank": 0,
-      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [

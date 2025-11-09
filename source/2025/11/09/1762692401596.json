@@ -1,0 +1,410 @@
+{
+  "runTime": 1762692401596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098639,
+        "num": 1175782,
+        "word": "直播十五运开幕式",
+        "onboard_time": 1762689380,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 830554,
+        "num": 830554,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391055,
+        "num": 391055,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378936,
+        "num": 378936,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282699,
+        "num": 377287,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8192449,
+        "num": 8192449,
+        "word": "T1三连冠",
+        "onboard_time": 1762690403,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1654581,
+        "num": 372213,
+        "word": "Faker六冠王",
+        "onboard_time": 1762690584,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1474589,
+        "num": 367537,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212712,
+        "num": 366623,
+        "word": "人民咖啡馆更名仅中国大陆可见",
+        "onboard_time": 1762690403,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139624,
+        "num": 362605,
+        "word": "这就是今晚的广州",
+        "onboard_time": 1762688841,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688837,
+        "num": 359398,
+        "word": "Guma FMVP",
+        "onboard_time": 1762691483,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 677194,
+        "num": 356952,
+        "word": "Uzi颁奖",
+        "onboard_time": 1762691304,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 612367,
+        "num": 352116,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 539058,
+        "num": 349285,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 53426,
+        "num": 346448,
+        "word": "天猫双11好六夜阵容绝了",
+        "onboard_time": 1762690403,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 342436,
+        "word": "五星红旗入场BGM是歌唱祖国",
+        "onboard_time": 1762691063,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530567,
+        "num": 340852,
+        "word": "接多兰事业运",
+        "onboard_time": 1762691363,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 428362,
+        "num": 337575,
+        "word": "长公主 磨皮",
+        "onboard_time": 1762691724,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22964,
+        "num": 334199,
+        "word": "大眼音乐节看爽了",
+        "onboard_time": 1762691363,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32392,
+        "num": 332749,
+        "word": "次元市集寻猫启事",
+        "onboard_time": 1762690643,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 811661,
+        "num": 329790,
+        "word": "澳大利亚偶遇何超莲窦骁",
+        "onboard_time": 1762689920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404908,
+        "num": 326039,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323937,
+        "num": 323937,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39829,
+        "num": 312454,
+        "word": "总要来趟高淳吧",
+        "onboard_time": 1762690643,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312054,
+        "num": 312054,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 24,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 253366,
+        "num": 310153,
+        "word": "唐朝诡事录 韩栋",
+        "onboard_time": 1762689802,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 307332,
+        "word": "旗手郑钦文",
+        "onboard_time": 1762691842,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176037,
+        "num": 303014,
+        "word": "樊振东练到胳膊充血",
+        "onboard_time": 1762691603,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18664,
+        "num": 298381,
+        "word": "音乐节也能抢红包",
+        "onboard_time": 1762690584,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297011,
+        "num": 297011,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276831,
+        "num": 276831,
+        "word": "多兰 陌生",
+        "onboard_time": 1762676000,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117394,
+        "num": 243456,
+        "word": "生父上门抢闺女结果开团秒跪",
+        "onboard_time": 1762692324,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237697,
+        "num": 237697,
+        "word": "世上再无王权富贵",
+        "onboard_time": 1762686920,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229712,
+        "num": 229712,
+        "word": "44岁导演心梗离世仅获赔1万元",
+        "onboard_time": 1762684340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222375,
+        "num": 222375,
+        "word": "KT对战T1决胜局",
+        "onboard_time": 1762687222,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221670,
+        "num": 221670,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204018,
+        "num": 204018,
+        "word": "孟子义好六夜彩排带了额链",
+        "onboard_time": 1762688480,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199556,
+        "num": 199556,
+        "word": "T1 宙斯",
+        "onboard_time": 1762691904,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190329,
+        "num": 190329,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170818,
+        "num": 186159,
+        "word": "锤娜丽莎爱自己后美得好具体",
+        "onboard_time": 1762691842,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183074,
+        "num": 183074,
+        "word": "吴宣仪 欢迎大家来审判我",
+        "onboard_time": 1762689740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 172562,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170624,
+        "num": 170624,
+        "word": "这个就是淋巴肉",
+        "onboard_time": 1762692142,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166280,
+        "num": 166280,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 163605,
+        "word": "郑钦文亮相全运会开幕式",
+        "onboard_time": 1762692262,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161882,
+        "num": 161882,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1762690283,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "王嘉尔音乐节",
+        "onboard_time": 1762691904,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154530,
+        "num": 154530,
+        "word": "终于知道卢凌风外婆长啥样了",
+        "onboard_time": 1762689441,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152502,
+        "num": 152502,
+        "word": "Faker笑了",
+        "onboard_time": 1762688060,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125577,
+        "num": 149925,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞的土特产#"
+    }
+  }
+}
