@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762705767332,
+  "endTime": 1762706621617,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -11,7 +11,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 638468,
+      "raw_hot": 737782,
       "num": 266354,
       "word": "那英被声鸣远扬关麦",
       "onboard_time": 1762703960,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322674,
+      "num": 204799,
+      "word": "肖战给孩子吓得",
+      "onboard_time": 1762704439,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294474,
       "num": 205164,
       "word": "长公主 磨皮",
       "onboard_time": 1762691724,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293682,
-      "num": 204799,
-      "word": "肖战给孩子吓得",
-      "onboard_time": 1762704439,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 286799,
@@ -67,6 +67,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274422,
+      "num": 274422,
+      "word": "上上谦仅剩上海1家门店",
+      "onboard_time": 1762703480,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 261455,
       "num": 261455,
       "word": "银行App迎来关停潮",
@@ -81,6 +89,14 @@
       "onboard_time": 1762698922,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 241110,
+      "num": 241110,
+      "word": "白桃星座",
+      "onboard_time": 1762703001,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 227825,
@@ -123,28 +139,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 195905,
-      "num": 195905,
-      "word": "白桃星座",
-      "onboard_time": 1762703001,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175380,
       "num": 175380,
       "word": "T1三连冠",
       "onboard_time": 1762690403,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173294,
-      "num": 173294,
-      "word": "上上谦仅剩上海1家门店",
-      "onboard_time": 1762703480,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 157656,
@@ -161,6 +161,14 @@
       "onboard_time": 1762695861,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 129094,
+      "num": 129094,
+      "word": "白百何方发说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 128382,
@@ -193,14 +201,6 @@
       "onboard_time": 1762702341,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "白百何方发说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 111093,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95687,
+      "num": 95687,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95082,
       "num": 95082,
       "word": "那英要把苗梦初送上歌手",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 82604,
-      "num": 82604,
+      "num": 87131,
       "word": "刘宇宁回应OST主理人",
       "onboard_time": 1762705101,
       "rank": 37,
@@ -339,20 +347,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73938,
+      "num": 78866,
+      "word": "每天都吃很饱的荒野求生选手退赛",
+      "onboard_time": 1762705160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73066,
       "num": 78867,
       "word": "陈都灵直播",
       "onboard_time": 1762700003,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66503,
-      "num": 78866,
-      "word": "每天都吃很饱的荒野求生选手退赛",
-      "onboard_time": 1762705160,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65834,
@@ -393,6 +401,22 @@
       "onboard_time": 1762688841,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54657,
+      "num": 71171,
+      "word": "Faker六冠王",
+      "onboard_time": 1762690584,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 54022,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 17209,

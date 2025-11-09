@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762705767332,
+  "endTime": 1762706621617,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 737782,
+      "num": 266354,
+      "word": "那英被声鸣远扬关麦",
+      "onboard_time": 1762703960,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736437,
       "num": 890764,
       "word": "hi6收视新高",
@@ -273,14 +281,6 @@
       "onboard_time": 1762671320,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 638468,
-      "num": 266354,
-      "word": "那英被声鸣远扬关麦",
-      "onboard_time": 1762703960,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 636527,
@@ -659,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322674,
+      "num": 204799,
+      "word": "肖战给孩子吓得",
+      "onboard_time": 1762704439,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321842,
       "num": 181826,
       "word": "胡歌带女儿逛乐高乐园",
@@ -755,14 +763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 293682,
-      "num": 204799,
-      "word": "肖战给孩子吓得",
-      "onboard_time": 1762704439,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293208,
       "num": 207275,
       "word": "宋雨琦怎么辣成这样",
@@ -857,6 +857,14 @@
       "onboard_time": 1762685422,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274422,
+      "num": 274422,
+      "word": "上上谦仅剩上海1家门店",
+      "onboard_time": 1762703480,
+      "rank": 17,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 273946,
@@ -969,6 +977,14 @@
       "onboard_time": 1762667118,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 241110,
+      "num": 241110,
+      "word": "白桃星座",
+      "onboard_time": 1762703001,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 237697,
@@ -1203,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195905,
-      "num": 195905,
-      "word": "白桃星座",
-      "onboard_time": 1762703001,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192696,
       "num": 192696,
       "word": "居然有人不会嘬嘬嘬",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1762696102,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173294,
-      "num": 173294,
-      "word": "上上谦仅剩上海1家门店",
-      "onboard_time": 1762703480,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 172514,
@@ -1963,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129094,
+      "num": 129094,
+      "word": "白百何方发说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129059,
       "num": 129059,
       "word": "岳云鹏怎么走爱豆路线了",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1762679779,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "白百何方发说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 112475,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1762669880,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95687,
+      "num": 95687,
+      "word": "女主播被主管性侵又遭公司索赔10万",
+      "onboard_time": 1762706059,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95131,
@@ -3052,7 +3060,7 @@
     },
     {
       "raw_hot": 82604,
-      "num": 82604,
+      "num": 87131,
       "word": "刘宇宁回应OST主理人",
       "onboard_time": 1762705101,
       "rank": 37,
@@ -3195,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73938,
+      "num": 78866,
+      "word": "每天都吃很饱的荒野求生选手退赛",
+      "onboard_time": 1762705160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73786,
       "num": 187149,
       "word": "多国催讨美国赶紧还钱",
@@ -3312,14 +3328,6 @@
       "word": "荒野求生冷美人透露又面临生理期",
       "onboard_time": 1762686802,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66503,
-      "num": 78866,
-      "word": "每天都吃很饱的荒野求生选手退赛",
-      "onboard_time": 1762705160,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3561,6 +3569,14 @@
       "onboard_time": 1762695203,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54022,
+      "num": 71162,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 53987,
