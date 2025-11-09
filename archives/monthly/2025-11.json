@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762681039667,
+  "endTime": 1762683929004,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -763,6 +763,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 979575,
+      "num": 166181,
+      "word": "白百何工作室晒时间线",
+      "onboard_time": 1762681939,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 979092,
       "num": 338674,
       "word": "她一上午挣了我一个月的工资",
@@ -993,6 +1001,14 @@
       "onboard_time": 1762315821,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 835475,
+      "num": 1133676,
+      "word": "KT对战T1",
+      "onboard_time": 1762671021,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 833774,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1762568358,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716350,
+      "num": 165339,
+      "word": "排骨羽绒服",
+      "onboard_time": 1762682420,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 714663,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1762086922,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 615131,
-      "num": 1071198,
-      "word": "KT对战T1",
-      "onboard_time": 1762671021,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 614588,
@@ -3041,6 +3057,14 @@
       "onboard_time": 1762099880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453029,
+      "num": 453029,
+      "word": "天地剑心大结局",
+      "onboard_time": 1762681821,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 453007,
@@ -4691,6 +4715,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 321842,
+      "num": 135226,
+      "word": "胡歌带女儿逛乐高乐园",
+      "onboard_time": 1762681760,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321450,
       "num": 504240,
       "word": "佛山一私房菜馆被曝宰杀活猫",
@@ -4713,6 +4745,14 @@
       "onboard_time": 1762505840,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320238,
+      "num": 174166,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1762677801,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 319131,
@@ -4740,7 +4780,7 @@
     },
     {
       "raw_hot": 315626,
-      "num": 119917,
+      "num": 131972,
       "word": "彭小苒 姐妹这太过火了",
       "onboard_time": 1762678040,
       "rank": 26,
@@ -8531,6 +8571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186348,
+      "num": 475114,
+      "word": "全运会开幕式",
+      "onboard_time": 1762683319,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186325,
       "num": 182806,
       "word": "周深新歌造物好强的爆发力",
@@ -9083,6 +9131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177235,
+      "num": 177235,
+      "word": "日本地震",
+      "onboard_time": 1762680860,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 176610,
       "num": 150234,
       "word": "李冰冰大花含金量还在上升",
@@ -9227,14 +9283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174166,
-      "num": 174166,
-      "word": "小猫知道爷爷去世了",
-      "onboard_time": 1762677801,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174100,
       "num": 174100,
       "word": "陈丽君荣获文华表演奖",
@@ -9305,6 +9353,14 @@
       "onboard_time": 1762569560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172901,
+      "num": 172901,
+      "word": "女子曝光服装AB版带货套路",
+      "onboard_time": 1762680740,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172607,
@@ -9737,6 +9793,14 @@
       "onboard_time": 1762487001,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166980,
+      "num": 178609,
+      "word": "全运会",
+      "onboard_time": 1762051159,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 166864,
@@ -11099,6 +11163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151859,
+      "num": 144182,
+      "word": "管泽元 BLG来看比赛了",
+      "onboard_time": 1762682900,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151814,
       "num": 151814,
       "word": "王者荣耀能不能加个英雄叫甄嬛",
@@ -11729,6 +11801,14 @@
       "onboard_time": 1761987980,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144875,
+      "num": 144875,
+      "word": "唐诡云合登顶",
+      "onboard_time": 1762680260,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 144809,
@@ -14443,6 +14523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124567,
+      "num": 124567,
+      "word": "罗云熙电竞椅变总裁椅",
+      "onboard_time": 1762683080,
+      "rank": 31,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 124514,
       "num": 124514,
       "word": "再见爱人",
@@ -14699,14 +14787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122820,
-      "num": 178609,
-      "word": "全运会",
-      "onboard_time": 1762051159,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122791,
       "num": 122791,
       "word": "33这一集全是腹肌",
@@ -14947,14 +15027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121413,
-      "num": 121413,
-      "word": "唐诡云合登顶",
-      "onboard_time": 1762680260,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121385,
       "num": 121385,
       "word": "谁允许户外人这么会挑羽绒服的",
@@ -15177,14 +15249,6 @@
       "onboard_time": 1762067480,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119515,
-      "num": 119515,
-      "word": "日本地震",
-      "onboard_time": 1762680860,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119411,
@@ -16545,6 +16609,14 @@
       "onboard_time": 1762146023,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111763,
+      "num": 111763,
+      "word": "登陆少年团红毯太抽象了",
+      "onboard_time": 1762683501,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 111717,
@@ -19571,6 +19643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97929,
+      "num": 126732,
+      "word": "海昏侯墓发现秦汉时期全本诗经",
+      "onboard_time": 1762680441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97924,
       "num": 97924,
       "word": "27岁脑子一热给自己报了26年高考",
@@ -19728,6 +19808,14 @@
       "word": "AL 意难平",
       "onboard_time": 1761912324,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "狼队坐着握手",
+      "onboard_time": 1762683379,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -20459,6 +20547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94313,
+      "num": 94313,
+      "word": "林高远回应4比2程靖淇",
+      "onboard_time": 1762682839,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94302,
       "num": 94302,
       "word": "KPL现场观众人数破世界纪录",
@@ -21075,14 +21171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92067,
-      "num": 92067,
-      "word": "海昏侯墓发现秦汉时期全本诗经",
-      "onboard_time": 1762680441,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92054,
       "num": 92054,
       "word": "张杰送歌迷去旅游",
@@ -21587,6 +21675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90361,
+      "num": 90361,
+      "word": "中国第四艘航母或为核动力",
+      "onboard_time": 1762682780,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 90347,
       "num": 90347,
       "word": "考上研后你会发现",
@@ -21929,6 +22025,14 @@
       "onboard_time": 1762600100,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89112,
+      "num": 89112,
+      "word": "KT扳平",
+      "onboard_time": 1762681041,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 89100,
@@ -22785,14 +22889,6 @@
       "onboard_time": 1762680140,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86331,
-      "num": 86331,
-      "word": "女子曝光服装AB版带货套路",
-      "onboard_time": 1762680740,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86326,
@@ -25467,6 +25563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73325,
+      "num": 97769,
+      "word": "115岁老人寿宴专挑肥肉吃",
+      "onboard_time": 1762683439,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73297,
       "num": 78009,
       "word": "张本智和止步十六强",
@@ -26779,6 +26883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63002,
+      "num": 92003,
+      "word": "拜登炮轰特朗普",
+      "onboard_time": 1762682538,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62942,
       "num": 125615,
       "word": "买车你看重新三大件吗",
@@ -26865,6 +26977,14 @@
       "onboard_time": 1762077622,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62227,
+      "num": 97348,
+      "word": "恩利一开口以为庾澄庆来了",
+      "onboard_time": 1762682958,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 62119,
@@ -28899,6 +29019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40137,
+      "num": 124845,
+      "word": "商务部回应安世半导体问题",
+      "onboard_time": 1762683740,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40120,
       "num": 290734,
       "word": "芝麻800亮相微博视界大会",
@@ -28977,6 +29105,14 @@
       "onboard_time": 1762602861,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39555,
+      "num": 142968,
+      "word": "京东惊喜之夜发黄金钻石手表",
+      "onboard_time": 1762682958,
+      "rank": 19,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 39394,
@@ -30835,6 +30971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16982,
+      "num": 90512,
+      "word": "中印航线正式复航",
+      "onboard_time": 1762682420,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16971,
       "num": 105168,
       "word": "荷兰明抢安世半导体总共分几步",
@@ -31378,6 +31522,9 @@
     },
     {
       "word": "#习近平的体育强国梦#"
+    },
+    {
+      "word": "#总书记点赞的土特产#"
     }
   ]
 }

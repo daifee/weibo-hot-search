@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762681039667,
+  "endTime": 1762683929004,
   "band_list": [
     {
       "raw_hot": 1582542,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979575,
+      "num": 166181,
+      "word": "白百何工作室晒时间线",
+      "onboard_time": 1762681939,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 914031,
       "num": 333198,
       "word": "央视披露南京15死火灾现场",
@@ -57,6 +65,14 @@
       "onboard_time": 1762675759,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835475,
+      "num": 1133676,
+      "word": "KT对战T1",
+      "onboard_time": 1762671021,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 811361,
@@ -89,6 +105,14 @@
       "onboard_time": 1762617441,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 716350,
+      "num": 165339,
+      "word": "排骨羽绒服",
+      "onboard_time": 1762682420,
+      "rank": 11,
+      "category": "时尚"
     },
     {
       "raw_hot": 681969,
@@ -129,14 +153,6 @@
       "onboard_time": 1762660700,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 615131,
-      "num": 1071198,
-      "word": "KT对战T1",
-      "onboard_time": 1762671021,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 604356,
@@ -216,6 +232,14 @@
       "word": "唐诡",
       "onboard_time": 1762663099,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453029,
+      "num": 453029,
+      "word": "天地剑心大结局",
+      "onboard_time": 1762681821,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -395,8 +419,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321842,
+      "num": 135226,
+      "word": "胡歌带女儿逛乐高乐园",
+      "onboard_time": 1762681760,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320238,
+      "num": 174166,
+      "word": "小猫知道爷爷去世了",
+      "onboard_time": 1762677801,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315626,
-      "num": 119917,
+      "num": 131972,
       "word": "彭小苒 姐妹这太过火了",
       "onboard_time": 1762678040,
       "rank": 26,
@@ -739,12 +779,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 186348,
+      "num": 475114,
+      "word": "全运会开幕式",
+      "onboard_time": 1762683319,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178541,
       "num": 178541,
       "word": "云合",
       "onboard_time": 1762676781,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177235,
+      "num": 177235,
+      "word": "日本地震",
+      "onboard_time": 1762680860,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176725,
@@ -763,12 +819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174166,
-      "num": 174166,
-      "word": "小猫知道爷爷去世了",
-      "onboard_time": 1762677801,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 172901,
+      "num": 172901,
+      "word": "女子曝光服装AB版带货套路",
+      "onboard_time": 1762680740,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172514,
@@ -801,6 +857,14 @@
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166980,
+      "num": 166980,
+      "word": "全运会",
+      "onboard_time": 1762683680,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 165870,
@@ -915,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151859,
+      "num": 144182,
+      "word": "管泽元 BLG来看比赛了",
+      "onboard_time": 1762682900,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151814,
       "num": 151814,
       "word": "王者荣耀能不能加个英雄叫甄嬛",
@@ -953,6 +1025,14 @@
       "onboard_time": 1762609341,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144875,
+      "num": 144875,
+      "word": "唐诡云合登顶",
+      "onboard_time": 1762680260,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 144809,
@@ -1091,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124567,
+      "num": 124567,
+      "word": "罗云熙电竞椅变总裁椅",
+      "onboard_time": 1762683080,
+      "rank": 31,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 123846,
       "num": 123846,
       "word": "姜潮还在吃麦迪娜15年前的醋",
@@ -1112,14 +1200,6 @@
       "word": "终于等来了中式民俗短剧",
       "onboard_time": 1762680140,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121413,
-      "num": 121413,
-      "word": "唐诡云合登顶",
-      "onboard_time": 1762680260,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1145,14 +1225,6 @@
       "onboard_time": 1762610422,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119515,
-      "num": 119515,
-      "word": "日本地震",
-      "onboard_time": 1762680860,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119038,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1762670420,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111763,
+      "num": 111763,
+      "word": "登陆少年团红毯太抽象了",
+      "onboard_time": 1762683501,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 111684,
@@ -1443,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97929,
+      "num": 126732,
+      "word": "海昏侯墓发现秦汉时期全本诗经",
+      "onboard_time": 1762680441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97857,
       "num": 204893,
       "word": "一诺回应FMVP",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1762652539,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "狼队坐着握手",
+      "onboard_time": 1762683379,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 97337,
@@ -1515,6 +1611,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 94313,
+      "num": 94313,
+      "word": "林高远回应4比2程靖淇",
+      "onboard_time": 1762682839,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93452,
       "num": 106320,
       "word": "渔船倾覆已致2人死亡3人失踪",
@@ -1529,14 +1633,6 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 92067,
-      "num": 92067,
-      "word": "海昏侯墓发现秦汉时期全本诗经",
-      "onboard_time": 1762680441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91953,
@@ -1611,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90361,
+      "num": 90361,
+      "word": "中国第四艘航母或为核动力",
+      "onboard_time": 1762682780,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 90173,
       "num": 90173,
       "word": "猕猴桃 一种很团结的水果",
@@ -1641,6 +1745,14 @@
       "onboard_time": 1762654520,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 89112,
+      "num": 89112,
+      "word": "KT扳平",
+      "onboard_time": 1762681041,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 88646,
@@ -1729,14 +1841,6 @@
       "onboard_time": 1762680140,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86331,
-      "num": 86331,
-      "word": "女子曝光服装AB版带货套路",
-      "onboard_time": 1762680740,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86326,
@@ -1971,6 +2075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73325,
+      "num": 97769,
+      "word": "115岁老人寿宴专挑肥肉吃",
+      "onboard_time": 1762683439,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73076,
       "num": 73076,
       "word": "和恶魔做了一桩交易",
@@ -2089,6 +2201,22 @@
       "onboard_time": 1762658181,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63002,
+      "num": 92003,
+      "word": "拜登炮轰特朗普",
+      "onboard_time": 1762682538,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62227,
+      "num": 97348,
+      "word": "恩利一开口以为庾澄庆来了",
+      "onboard_time": 1762682958,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 61450,
@@ -2443,12 +2571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40137,
+      "num": 124845,
+      "word": "商务部回应安世半导体问题",
+      "onboard_time": 1762683740,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40016,
       "num": 163923,
       "word": "李莎旻子音乐节后台吃上盐水鸭了",
       "onboard_time": 1762676180,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39555,
+      "num": 142968,
+      "word": "京东惊喜之夜发黄金钻石手表",
+      "onboard_time": 1762682958,
+      "rank": 19,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 38233,
@@ -2579,6 +2723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16982,
+      "num": 90512,
+      "word": "中印航线正式复航",
+      "onboard_time": 1762682420,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15749,
       "num": 120793,
       "word": "张峻豪突然开始鞠躬",
@@ -2625,6 +2777,14 @@
       "onboard_time": 1762679120,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2131,
+      "num": 141588,
+      "word": "2025乌镇峰会",
+      "onboard_time": 1762434382,
+      "rank": 20,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2639,6 +2799,9 @@
     },
     {
       "word": "#习近平的体育强国梦#"
+    },
+    {
+      "word": "#总书记点赞的土特产#"
     }
   ]
 }

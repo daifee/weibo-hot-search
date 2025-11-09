@@ -1,0 +1,410 @@
+{
+  "runTime": 1762683929004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835475,
+        "num": 1133676,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 556675,
+        "num": 556675,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186348,
+        "num": 475114,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453029,
+        "num": 453029,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291858,
+        "num": 291858,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201493,
+        "num": 201493,
+        "word": "包头禁飞区现蝴蝶状飞行物",
+        "onboard_time": 1762675881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177235,
+        "num": 177235,
+        "word": "日本地震",
+        "onboard_time": 1762680860,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172901,
+        "num": 172901,
+        "word": "女子曝光服装AB版带货套路",
+        "onboard_time": 1762680740,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170242,
+        "num": 170242,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166980,
+        "num": 166980,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979575,
+        "num": 166181,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 716350,
+        "num": 165339,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 425153,
+        "num": 164995,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397878,
+        "num": 163793,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 163229,
+        "num": 163229,
+        "word": "唐诡3第一滴泪给刘十八刘十九",
+        "onboard_time": 1762675881,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320238,
+        "num": 158728,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1762677801,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163556,
+        "num": 158581,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 16,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 144875,
+        "num": 144875,
+        "word": "唐诡云合登顶",
+        "onboard_time": 1762680260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151859,
+        "num": 144182,
+        "word": "管泽元 BLG来看比赛了",
+        "onboard_time": 1762682900,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39555,
+        "num": 142968,
+        "word": "京东惊喜之夜发黄金钻石手表",
+        "onboard_time": 1762682958,
+        "rank": 19,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 2131,
+        "num": 141588,
+        "word": "2025乌镇峰会",
+        "onboard_time": 1762434382,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729917,
+        "num": 140195,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465865,
+        "num": 139048,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407736,
+        "num": 137006,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323001,
+        "num": 136602,
+        "word": "自取奶茶一买一个不吱声",
+        "onboard_time": 1762677260,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321842,
+        "num": 135226,
+        "word": "胡歌带女儿逛乐高乐园",
+        "onboard_time": 1762681760,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223784,
+        "num": 133465,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207615,
+        "num": 131972,
+        "word": "彭小苒 姐妹这太过火了",
+        "onboard_time": 1762678040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131500,
+        "num": 131500,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1762677739,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97929,
+        "num": 126732,
+        "word": "海昏侯墓发现秦汉时期全本诗经",
+        "onboard_time": 1762680441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40137,
+        "num": 124845,
+        "word": "商务部回应安世半导体问题",
+        "onboard_time": 1762683740,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124567,
+        "num": 124567,
+        "word": "罗云熙电竞椅变总裁椅",
+        "onboard_time": 1762683080,
+        "rank": 31,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 111763,
+        "num": 111763,
+        "word": "登陆少年团红毯太抽象了",
+        "onboard_time": 1762683501,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 103921,
+        "num": 103921,
+        "word": "T1翻盘",
+        "onboard_time": 1762676361,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102797,
+        "num": 102797,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100783,
+        "num": 100783,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24668,
+        "num": 99293,
+        "word": "faker亲签显示器拍卖",
+        "onboard_time": 1762679480,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99221,
+        "num": 99221,
+        "word": "Doran道歉表",
+        "onboard_time": 1762680320,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73325,
+        "num": 97769,
+        "word": "115岁老人寿宴专挑肥肉吃",
+        "onboard_time": 1762683439,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62227,
+        "num": 97348,
+        "word": "恩利一开口以为庾澄庆来了",
+        "onboard_time": 1762682958,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97342,
+        "num": 97342,
+        "word": "狼队坐着握手",
+        "onboard_time": 1762683379,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94313,
+        "num": 94313,
+        "word": "林高远回应4比2程靖淇",
+        "onboard_time": 1762682839,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92449,
+        "num": 92449,
+        "word": "河南115岁老人出生于清朝已五世同堂",
+        "onboard_time": 1762677919,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63002,
+        "num": 92003,
+        "word": "拜登炮轰特朗普",
+        "onboard_time": 1762682538,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91805,
+        "num": 91805,
+        "word": "武契奇方未参与批准轰炸旧址造酒店",
+        "onboard_time": 1762675580,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90819,
+        "num": 90819,
+        "word": "王者荣耀能不能加个英雄叫甄嬛",
+        "onboard_time": 1762676781,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16982,
+        "num": 90512,
+        "word": "中印航线正式复航",
+        "onboard_time": 1762682420,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90361,
+        "num": 90361,
+        "word": "中国第四艘航母或为核动力",
+        "onboard_time": 1762682780,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 89112,
+        "num": 89112,
+        "word": "KT扳平",
+        "onboard_time": 1762681041,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86525,
+        "num": 86525,
+        "word": "李晨白鹿范丞丞新疆聚餐",
+        "onboard_time": 1762679900,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞的土特产#"
+    }
+  }
+}
