@@ -1,0 +1,410 @@
+{
+  "runTime": 1762673057763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 270124,
+        "num": 1043219,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245294,
+        "num": 245294,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27616,
+        "num": 204223,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203387,
+        "num": 203387,
+        "word": "英雄联盟",
+        "onboard_time": 1762670840,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203027,
+        "num": 203027,
+        "word": "网传白鹿张凌赫出演恰逢雨连天",
+        "onboard_time": 1762672460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195251,
+        "num": 195251,
+        "word": "中国渔船公海倾覆画面曝光",
+        "onboard_time": 1762667118,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 329649,
+        "num": 179658,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156582,
+        "num": 156582,
+        "word": "吴磊李宛妲剑来领衔主演",
+        "onboard_time": 1762665920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92706,
+        "num": 156534,
+        "word": "S15决赛",
+        "onboard_time": 1762668620,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74201,
+        "num": 156245,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047273,
+        "num": 155802,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476658,
+        "num": 155239,
+        "word": "关晓彤我猜你一定也会想念吧",
+        "onboard_time": 1762667179,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349198,
+        "num": 155140,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236479,
+        "num": 154620,
+        "word": "言承旭周渝民吴建豪组成F3",
+        "onboard_time": 1762670899,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226941,
+        "num": 154481,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220997,
+        "num": 154051,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203085,
+        "num": 153881,
+        "word": "罗云熙S15决赛评论席嘉宾",
+        "onboard_time": 1762671439,
+        "rank": 16,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 164938,
+        "num": 153364,
+        "word": "唐诡热度",
+        "onboard_time": 1762665258,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137510,
+        "num": 152970,
+        "word": "李雅可4比3石洵瑶",
+        "onboard_time": 1762671679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59635,
+        "num": 152803,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1288266,
+        "num": 152396,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561924,
+        "num": 151917,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438061,
+        "num": 151548,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263304,
+        "num": 151217,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151207,
+        "num": 151207,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145520,
+        "num": 145520,
+        "word": "刘雨昕感谢王嘉尔等她彩排",
+        "onboard_time": 1762669700,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103105,
+        "num": 143230,
+        "word": "剑来",
+        "onboard_time": 1762664360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101654,
+        "num": 140046,
+        "word": "唐诡出战报速度都跟不上热度了",
+        "onboard_time": 1762670240,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55371,
+        "num": 134827,
+        "word": "全运会今天神仙打架",
+        "onboard_time": 1762671439,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47970,
+        "num": 132647,
+        "word": "和王一博成毅任嘉伦一起关注消防安全",
+        "onboard_time": 1762666040,
+        "rank": 29,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 130862,
+        "num": 130862,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 125796,
+        "word": "第一批固体杨枝甘露的受害者出现",
+        "onboard_time": 1762672939,
+        "rank": 31,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 115533,
+        "num": 115533,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 32,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 110013,
+        "num": 110013,
+        "word": "程靖淇被打到眼睛后坚持比赛",
+        "onboard_time": 1762671740,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106789,
+        "num": 106789,
+        "word": "人在累的时候真的没办法顾及别人",
+        "onboard_time": 1762669100,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70577,
+        "num": 103075,
+        "word": "刘宇宁若没有你全是细糠",
+        "onboard_time": 1762671200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101541,
+        "num": 101541,
+        "word": "疑似何超云新恋情",
+        "onboard_time": 1762669760,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100878,
+        "num": 100878,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24419,
+        "num": 100771,
+        "word": "马伯骞 梦回桑延",
+        "onboard_time": 1762672399,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46296,
+        "num": 100730,
+        "word": "刘雨昕完全是bjd在跳舞",
+        "onboard_time": 1762671919,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100700,
+        "num": 100700,
+        "word": "短剧还珠演到大馋丫头爱看的了",
+        "onboard_time": 1762672820,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45179,
+        "num": 98889,
+        "word": "袁励岑4比3周启豪",
+        "onboard_time": 1762669100,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97337,
+        "num": 97337,
+        "word": "佘诗曼新剧用老登治中登",
+        "onboard_time": 1762671919,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95663,
+        "num": 95663,
+        "word": "张铎把陈松伶照片贴在衣服里",
+        "onboard_time": 1762672700,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87560,
+        "num": 87560,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84321,
+        "num": 84321,
+        "word": "T1对阵海报",
+        "onboard_time": 1762672159,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79059,
+        "num": 79059,
+        "word": "廊坊一彩民花15元中7397万大奖",
+        "onboard_time": 1762660219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77689,
+        "num": 77689,
+        "word": "山东人不许写小说",
+        "onboard_time": 1762666040,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51532,
+        "num": 76383,
+        "word": "你要的大湾鸡安排上了",
+        "onboard_time": 1762672340,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76245,
+        "num": 76245,
+        "word": "猫这样指腚能进",
+        "onboard_time": 1762672820,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育强国梦#"
+    }
+  }
+}
