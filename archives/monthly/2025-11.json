@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762666863612,
+  "endTime": 1762670172563,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1955,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579862,
+      "num": 122486,
+      "word": "女艺人穿着裙子跪前边拍照",
+      "onboard_time": 1762668679,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575819,
       "num": 336504,
       "word": "卢浮宫失窃珠宝现身",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1762392139,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 539220,
+      "num": 129686,
+      "word": "离婚也要争婆婆的抚养权",
+      "onboard_time": 1762666340,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 537757,
@@ -3427,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406840,
+      "num": 124066,
+      "word": "关晓彤我猜你一定也会想念吧",
+      "onboard_time": 1762667179,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406609,
       "num": 406609,
       "word": "刘宇宁衣服比我人还长",
@@ -4467,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331052,
+      "num": 122145,
+      "word": "61岁关咏荷状态",
+      "onboard_time": 1762667781,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330814,
       "num": 1052930,
       "word": "十日终焉影视化",
@@ -4513,6 +4545,14 @@
       "onboard_time": 1761919642,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324724,
+      "num": 292074,
+      "word": "唐诡热度",
+      "onboard_time": 1762665258,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 324679,
@@ -4915,6 +4955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 300896,
+      "num": 171560,
+      "word": "吴磊李宛妲剑来领衔主演",
+      "onboard_time": 1762665920,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300744,
       "num": 300744,
       "word": "井柏然刘雯情侣手机链",
@@ -5073,14 +5121,6 @@
       "onboard_time": 1762615883,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 292074,
-      "num": 292074,
-      "word": "唐诡热度",
-      "onboard_time": 1762665258,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 291134,
@@ -5961,6 +6001,14 @@
       "onboard_time": 1762000822,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241831,
+      "num": 241831,
+      "word": "中国渔船公海倾覆画面曝光",
+      "onboard_time": 1762667118,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 241826,
@@ -9137,14 +9185,6 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 171560,
-      "num": 171560,
-      "word": "吴磊李宛妲剑来领衔主演",
-      "onboard_time": 1762665920,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 171539,
@@ -13051,6 +13091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131241,
+      "num": 122887,
+      "word": "刘雨昕感谢王嘉尔等她彩排",
+      "onboard_time": 1762669700,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131240,
       "num": 184904,
       "word": "孙颖莎生日蛋糕是超级玛丽",
@@ -13265,14 +13313,6 @@
       "onboard_time": 1762183820,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129686,
-      "num": 129686,
-      "word": "离婚也要争婆婆的抚养权",
-      "onboard_time": 1762666340,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 129634,
@@ -13955,6 +13995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124867,
+      "num": 124867,
+      "word": "2025全球总决赛",
+      "onboard_time": 1762668620,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124845,
       "num": 124845,
       "word": "胡彦斌看再见爱人直呼超纲了",
@@ -14497,6 +14545,14 @@
       "onboard_time": 1762252941,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121636,
+      "num": 121636,
+      "word": "人在累的时候真的没办法顾及别人",
+      "onboard_time": 1762669100,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 121576,
@@ -15155,6 +15211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117460,
+      "num": 117460,
+      "word": "袁励岑4比3周启豪",
+      "onboard_time": 1762669100,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117432,
       "num": 165607,
       "word": "陈梦请教邓亚萍如何学好英语",
@@ -15257,6 +15321,14 @@
       "onboard_time": 1762264402,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116666,
+      "num": 122374,
+      "word": "山东人不许写小说",
+      "onboard_time": 1762666040,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 116635,
@@ -15473,6 +15545,14 @@
       "onboard_time": 1762219099,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 115453,
+      "num": 115453,
+      "word": "新闻女王2港百",
+      "onboard_time": 1762669280,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 115337,
@@ -15979,6 +16059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112475,
+      "num": 112475,
+      "word": "宋亚轩关晓彤居然在彼此的题库里",
+      "onboard_time": 1762667118,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112459,
       "num": 109946,
       "word": "苹果有苹果的办法",
@@ -16009,14 +16097,6 @@
       "onboard_time": 1762567819,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112306,
-      "num": 112306,
-      "word": "山东人不许写小说",
-      "onboard_time": 1762666040,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 112293,
@@ -16095,6 +16175,14 @@
       "num": 111702,
       "word": "耿爽霸气回击美方污蔑",
       "onboard_time": 1762481480,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111684,
+      "num": 111684,
+      "word": "普京最新支持率出炉",
+      "onboard_time": 1762669160,
       "rank": 32,
       "category": "国际时政"
     },
@@ -16291,6 +16379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110718,
+      "num": 124420,
+      "word": "罗小黑动画要出新作了",
+      "onboard_time": 1762668440,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 110688,
       "num": 110688,
       "word": "黄金征税后水贝批发商不敢出货",
@@ -16352,6 +16448,14 @@
       "word": "时代少年团情绪换乘式vlog",
       "onboard_time": 1762600221,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110314,
+      "num": 110314,
+      "word": "疑似何超云新恋情",
+      "onboard_time": 1762669760,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -16737,6 +16841,14 @@
       "onboard_time": 1762410081,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108110,
+      "num": 108110,
+      "word": "黄明昊特别主演剑来",
+      "onboard_time": 1762669700,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107996,
@@ -17873,6 +17985,14 @@
       "onboard_time": 1762338442,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "隆妮新剧官宣高智感溢出屏幕了",
+      "onboard_time": 1762669459,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 102796,
@@ -21875,6 +21995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87106,
+      "num": 87106,
+      "word": "李连杰脱衣辟谣换心脏",
+      "onboard_time": 1762670000,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87069,
       "num": 87069,
       "word": "前美国部长夸赞中国",
@@ -22593,6 +22721,14 @@
       "onboard_time": 1762144463,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84609,
+      "num": 84609,
+      "word": "幸亏毕业的早不然幼儿园都毕不了业",
+      "onboard_time": 1762669940,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 84606,
@@ -23803,6 +23939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78466,
+      "num": 78466,
+      "word": "郭俊辰演出了真正的绝望",
+      "onboard_time": 1762669880,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78459,
       "num": 229945,
       "word": "终于看到清晰的王楚钦了",
@@ -23817,6 +23961,14 @@
       "onboard_time": 1761968179,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78407,
+      "num": 78407,
+      "word": "原来大家都是这么恢复心力的",
+      "onboard_time": 1762669220,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 78377,
@@ -24291,6 +24443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76125,
+      "num": 113538,
+      "word": "王楚然素颜与好友逛街",
+      "onboard_time": 1762666279,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76120,
       "num": 76120,
       "word": "陈奕迅 夸完你的夸你的",
@@ -24649,6 +24809,14 @@
       "onboard_time": 1762072821,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 74063,
+      "num": 74063,
+      "word": "范丞丞鸡翅会抢哥哥的风头",
+      "onboard_time": 1762669401,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 73953,
@@ -25771,6 +25939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65167,
+      "num": 110321,
+      "word": "力箭一号遥九运载火箭发射成功",
+      "onboard_time": 1762669822,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65151,
       "num": 174802,
       "word": "记者节",
@@ -25849,6 +26025,14 @@
       "onboard_time": 1762405941,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64680,
+      "num": 110732,
+      "word": "林高远4比2程靖淇",
+      "onboard_time": 1762668381,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 64676,
@@ -27785,14 +27969,6 @@
       "onboard_time": 1762335623,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42918,
-      "num": 113538,
-      "word": "王楚然素颜与好友逛街",
-      "onboard_time": 1762666279,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 42785,
@@ -30081,6 +30257,14 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13577,
+      "num": 122765,
+      "word": "人民咖啡馆一门店咖啡降至20元内",
+      "onboard_time": 1762669580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13524,

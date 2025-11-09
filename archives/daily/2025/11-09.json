@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762666863612,
+  "endTime": 1762670172563,
   "band_list": [
     {
       "raw_hot": 914031,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579862,
+      "num": 122486,
+      "word": "女艺人穿着裙子跪前边拍照",
+      "onboard_time": 1762668679,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575749,
       "num": 207538,
       "word": "古二公开录音涉嫌违法",
@@ -97,6 +105,14 @@
       "onboard_time": 1762653799,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539220,
+      "num": 129686,
+      "word": "离婚也要争婆婆的抚养权",
+      "onboard_time": 1762666340,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 518830,
@@ -152,6 +168,14 @@
       "word": "陈数曾经两年内没有吃过水果",
       "onboard_time": 1762653022,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 406840,
+      "num": 124066,
+      "word": "关晓彤我猜你一定也会想念吧",
+      "onboard_time": 1762667179,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -259,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331052,
+      "num": 122145,
+      "word": "61岁关咏荷状态",
+      "onboard_time": 1762667781,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324724,
+      "num": 292074,
+      "word": "唐诡热度",
+      "onboard_time": 1762665258,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311109,
       "num": 207708,
       "word": "终于知道为什么云贵川没有僵尸了",
@@ -291,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300896,
+      "num": 171560,
+      "word": "吴磊李宛妲剑来领衔主演",
+      "onboard_time": 1762665920,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294650,
       "num": 160572,
       "word": "印度警察把轮奸案名单变为创收项目",
@@ -305,14 +353,6 @@
       "onboard_time": 1762615883,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 292074,
-      "num": 292074,
-      "word": "唐诡热度",
-      "onboard_time": 1762665258,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 286635,
@@ -377,6 +417,14 @@
       "onboard_time": 1762649538,
       "rank": 0,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 241831,
+      "num": 241831,
+      "word": "中国渔船公海倾覆画面曝光",
+      "onboard_time": 1762667118,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 233747,
@@ -513,14 +561,6 @@
       "onboard_time": 1762656439,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171560,
-      "num": 171560,
-      "word": "吴磊李宛妲剑来领衔主演",
-      "onboard_time": 1762665920,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 171084,
@@ -675,12 +715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129686,
-      "num": 129686,
-      "word": "离婚也要争婆婆的抚养权",
-      "onboard_time": 1762666340,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 131241,
+      "num": 122887,
+      "word": "刘雨昕感谢王嘉尔等她彩排",
+      "onboard_time": 1762669700,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124867,
+      "num": 124867,
+      "word": "2025全球总决赛",
+      "onboard_time": 1762668620,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 124708,
@@ -689,6 +737,14 @@
       "onboard_time": 1762656979,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121636,
+      "num": 121636,
+      "word": "人在累的时候真的没办法顾及别人",
+      "onboard_time": 1762669100,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 121292,
@@ -739,12 +795,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117460,
+      "num": 117460,
+      "word": "袁励岑4比3周启豪",
+      "onboard_time": 1762669100,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116666,
+      "num": 122374,
+      "word": "山东人不许写小说",
+      "onboard_time": 1762666040,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "陈浚铭对着师兄海报打招呼",
       "onboard_time": 1762664839,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115453,
+      "num": 115453,
+      "word": "新闻女王2港百",
+      "onboard_time": 1762669280,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 115337,
@@ -771,12 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112306,
-      "num": 112306,
-      "word": "山东人不许写小说",
-      "onboard_time": 1762666040,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 112475,
+      "num": 112475,
+      "word": "宋亚轩关晓彤居然在彼此的题库里",
+      "onboard_time": 1762667118,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111684,
+      "num": 111684,
+      "word": "普京最新支持率出炉",
+      "onboard_time": 1762669160,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111075,
@@ -787,12 +875,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110718,
+      "num": 124420,
+      "word": "罗小黑动画要出新作了",
+      "onboard_time": 1762668440,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 110326,
       "num": 206651,
       "word": "这些照片千万不要发在朋友圈",
       "onboard_time": 1762592720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110314,
+      "num": 110314,
+      "word": "疑似何超云新恋情",
+      "onboard_time": 1762669760,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108110,
+      "num": 108110,
+      "word": "黄明昊特别主演剑来",
+      "onboard_time": 1762669700,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 108019,
@@ -857,6 +969,14 @@
       "onboard_time": 1762659800,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "隆妮新剧官宣高智感溢出屏幕了",
+      "onboard_time": 1762669459,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 100880,
@@ -1067,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87106,
+      "num": 87106,
+      "word": "李连杰脱衣辟谣换心脏",
+      "onboard_time": 1762670000,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86960,
       "num": 86960,
       "word": "谢霆锋也是到了带保温杯的年纪",
@@ -1115,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84609,
+      "num": 84609,
+      "word": "幸亏毕业的早不然幼儿园都毕不了业",
+      "onboard_time": 1762669940,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83243,
       "num": 83243,
       "word": "肖战藏海传长尾效应有多强",
@@ -1155,6 +1291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78466,
+      "num": 78466,
+      "word": "郭俊辰演出了真正的绝望",
+      "onboard_time": 1762669880,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78407,
+      "num": 78407,
+      "word": "原来大家都是这么恢复心力的",
+      "onboard_time": 1762669220,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78167,
       "num": 205581,
       "word": "福建舰为什么被子不叠豆腐块",
@@ -1177,6 +1329,14 @@
       "onboard_time": 1762657400,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76125,
+      "num": 113538,
+      "word": "王楚然素颜与好友逛街",
+      "onboard_time": 1762666279,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 76006,
@@ -1216,6 +1376,14 @@
       "word": "张晚意花少三行诗",
       "onboard_time": 1762660999,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74063,
+      "num": 74063,
+      "word": "范丞丞鸡翅会抢哥哥的风头",
+      "onboard_time": 1762669401,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1280,6 +1448,22 @@
       "word": "十五运会乒乓球桌号确定",
       "onboard_time": 1762617801,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65167,
+      "num": 110321,
+      "word": "力箭一号遥九运载火箭发射成功",
+      "onboard_time": 1762669822,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 64680,
+      "num": 110732,
+      "word": "林高远4比2程靖淇",
+      "onboard_time": 1762668381,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1475,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42918,
-      "num": 113538,
-      "word": "王楚然素颜与好友逛街",
-      "onboard_time": 1762666279,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41736,
       "num": 68797,
       "word": "Kkoma谈T1三连冠",
@@ -1657,6 +1833,14 @@
       "onboard_time": 1762610842,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13577,
+      "num": 122765,
+      "word": "人民咖啡馆一门店咖啡降至20元内",
+      "onboard_time": 1762669580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13486,

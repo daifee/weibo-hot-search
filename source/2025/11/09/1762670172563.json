@@ -1,0 +1,410 @@
+{
+  "runTime": 1762670172563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 394638,
+        "num": 1063142,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345906,
+        "num": 345906,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29889,
+        "num": 247906,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241831,
+        "num": 241831,
+        "word": "中国渔船公海倾覆画面曝光",
+        "onboard_time": 1762667118,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 324724,
+        "num": 184309,
+        "word": "唐诡热度",
+        "onboard_time": 1762665258,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124867,
+        "num": 124867,
+        "word": "2025全球总决赛",
+        "onboard_time": 1762668620,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300896,
+        "num": 124774,
+        "word": "吴磊李宛妲剑来领衔主演",
+        "onboard_time": 1762665920,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112796,
+        "num": 124686,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110718,
+        "num": 124420,
+        "word": "罗小黑动画要出新作了",
+        "onboard_time": 1762668440,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88912,
+        "num": 124298,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 539220,
+        "num": 124221,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406840,
+        "num": 124066,
+        "word": "关晓彤我猜你一定也会想念吧",
+        "onboard_time": 1762667179,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348630,
+        "num": 123874,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246027,
+        "num": 123788,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200492,
+        "num": 123555,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162022,
+        "num": 123464,
+        "word": "剑来",
+        "onboard_time": 1762664360,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160423,
+        "num": 123233,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147750,
+        "num": 123067,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131241,
+        "num": 122887,
+        "word": "刘雨昕感谢王嘉尔等她彩排",
+        "onboard_time": 1762669700,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13577,
+        "num": 122765,
+        "word": "人民咖啡馆一门店咖啡降至20元内",
+        "onboard_time": 1762669580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793704,
+        "num": 122577,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579862,
+        "num": 122486,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116666,
+        "num": 122374,
+        "word": "山东人不许写小说",
+        "onboard_time": 1762666040,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331052,
+        "num": 122145,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286402,
+        "num": 122030,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240046,
+        "num": 121854,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 129142,
+        "num": 121696,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121636,
+        "num": 121636,
+        "word": "人在累的时候真的没办法顾及别人",
+        "onboard_time": 1762669100,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117460,
+        "num": 117460,
+        "word": "袁励岑4比3周启豪",
+        "onboard_time": 1762669100,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115453,
+        "num": 115453,
+        "word": "新闻女王2港百",
+        "onboard_time": 1762669280,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120912,
+        "num": 114693,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112475,
+        "num": 112475,
+        "word": "宋亚轩关晓彤居然在彼此的题库里",
+        "onboard_time": 1762667118,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111684,
+        "num": 111684,
+        "word": "普京最新支持率出炉",
+        "onboard_time": 1762669160,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64680,
+        "num": 110732,
+        "word": "林高远4比2程靖淇",
+        "onboard_time": 1762668381,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65167,
+        "num": 110321,
+        "word": "力箭一号遥九运载火箭发射成功",
+        "onboard_time": 1762669822,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110314,
+        "num": 110314,
+        "word": "疑似何超云新恋情",
+        "onboard_time": 1762669760,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108110,
+        "num": 108110,
+        "word": "黄明昊特别主演剑来",
+        "onboard_time": 1762669700,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102807,
+        "num": 102807,
+        "word": "隆妮新剧官宣高智感溢出屏幕了",
+        "onboard_time": 1762669459,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98023,
+        "num": 98023,
+        "word": "网红博主建议对明星祛魅",
+        "onboard_time": 1762662141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91833,
+        "num": 91833,
+        "word": "米哈游回应新角色大丽花争议",
+        "onboard_time": 1762659680,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90461,
+        "num": 90461,
+        "word": "廊坊一彩民花15元中7397万大奖",
+        "onboard_time": 1762660219,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87106,
+        "num": 87106,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84609,
+        "num": 84609,
+        "word": "幸亏毕业的早不然幼儿园都毕不了业",
+        "onboard_time": 1762669940,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78466,
+        "num": 78466,
+        "word": "郭俊辰演出了真正的绝望",
+        "onboard_time": 1762669880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78407,
+        "num": 78407,
+        "word": "原来大家都是这么恢复心力的",
+        "onboard_time": 1762669220,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76261,
+        "num": 76261,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76125,
+        "num": 76125,
+        "word": "王楚然素颜与好友逛街",
+        "onboard_time": 1762666279,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74063,
+        "num": 74063,
+        "word": "范丞丞鸡翅会抢哥哥的风头",
+        "onboard_time": 1762669401,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64642,
+        "num": 73513,
+        "word": "超强台风凤凰预计还会增强",
+        "onboard_time": 1762663639,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育强国梦#"
+    }
+  }
+}
