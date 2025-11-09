@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 05:36:47
+本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 06:24:13
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ T1三连冠（热度：175380）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
+海啸已抵达日本本州岛（热度：86081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
 新华社出图（热度：85968）
 </a>
@@ -327,8 +333,8 @@ Faker六冠王（热度：54657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
-海啸已抵达日本本州岛（热度：48411）
+<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
+44岁短剧导演突发心梗去世（热度：54118）
 </a>
 </li>
 
@@ -353,12 +359,6 @@ Faker六冠王（热度：54657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%9B%9E%E5%BA%94%E5%A4%BA%E5%86%A0%23" target="weibo">
 T1回应夺冠（热度：35774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23" target="weibo">
-44岁短剧导演突发心梗去世（热度：34369）
 </a>
 </li>
 
@@ -395,6 +395,24 @@ T1回应夺冠（热度：35774）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E7%8E%8B%E5%98%89%E5%B0%94BUCK%E7%8E%B0%E5%9C%BA%E5%B0%B1%E5%BE%97%E8%B9%A6%23" target="weibo">
 听王嘉尔BUCK现场就得蹦（热度：17209）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E8%83%8C%E5%90%8E%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E5%9C%A8%E6%B1%82%E6%95%91%23" target="weibo">
+情绪背后可能是甲状腺在求救（热度：15300）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E5%96%9C%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
+惊喜之夜红毯（热度：13836）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E4%B8%BB%E9%A2%98%E6%AD%8C%23" target="weibo">
+周深单依纯开幕式现场演唱主题歌（热度：12976）
 </a>
 </li>
 
