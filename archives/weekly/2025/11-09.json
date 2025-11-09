@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762692401596,
+  "endTime": 1762693281154,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837045,
+      "num": 337575,
+      "word": "长公主 磨皮",
+      "onboard_time": 1762691724,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830554,
       "num": 830554,
       "word": "全运会",
@@ -137,6 +145,14 @@
       "onboard_time": 1762677260,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 768380,
+      "num": 1122940,
+      "word": "十五运开幕式直播",
+      "onboard_time": 1762692442,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 755616,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468146,
+      "num": 278408,
+      "word": "T1 宙斯",
+      "onboard_time": 1762691904,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 458467,
       "num": 1073354,
       "word": "唐诡",
@@ -345,14 +369,6 @@
       "onboard_time": 1762658660,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 428362,
-      "num": 337575,
-      "word": "长公主 磨皮",
-      "onboard_time": 1762691724,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 419301,
@@ -651,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 282604,
+      "num": 366623,
+      "word": "人民咖啡馆更名仅中国大陆可见",
+      "onboard_time": 1762690403,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279728,
       "num": 279728,
       "word": "第一支在鸟巢夺冠的中国战队",
@@ -747,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248258,
+      "num": 248258,
+      "word": "这个就是淋巴肉",
+      "onboard_time": 1762692142,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 247581,
       "num": 247581,
       "word": "武契奇方未参与批准轰炸旧址造酒店",
@@ -761,6 +793,14 @@
       "onboard_time": 1762667118,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 239259,
+      "num": 239259,
+      "word": "宙斯祝贺T1",
+      "onboard_time": 1762692862,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 237697,
@@ -832,14 +872,6 @@
       "word": "女子曝光服装AB版带货套路",
       "onboard_time": 1762680740,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212712,
-      "num": 366623,
-      "word": "人民咖啡馆更名仅中国大陆可见",
-      "onboard_time": 1762690403,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -931,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199556,
-      "num": 199556,
-      "word": "T1 宙斯",
-      "onboard_time": 1762691904,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -971,6 +995,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190818,
+      "num": 271585,
+      "word": "十五运运动员入场",
+      "onboard_time": 1762692981,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190777,
+      "num": 190777,
+      "word": "T1说未来继续向新的纪录发起挑战",
+      "onboard_time": 1762692623,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189290,
       "num": 189290,
       "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
@@ -979,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188300,
+      "num": 271215,
+      "word": "全运会旗手",
+      "onboard_time": 1762692503,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188216,
       "num": 130245,
       "word": "假奶皮子糖葫芦受害者",
       "onboard_time": 1762660460,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 187499,
+      "num": 280400,
+      "word": "五星红旗在粤港澳同时升起",
+      "onboard_time": 1762692562,
+      "rank": 9,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 183783,
@@ -1059,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172304,
+      "num": 186159,
+      "word": "锤娜丽莎爱自己后美得好具体",
+      "onboard_time": 1762691842,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172009,
       "num": 154932,
       "word": "Faker 岩雀神",
@@ -1081,22 +1145,6 @@
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170818,
-      "num": 186159,
-      "word": "锤娜丽莎爱自己后美得好具体",
-      "onboard_time": 1762691842,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 170624,
-      "num": 170624,
-      "word": "这个就是淋巴肉",
-      "onboard_time": 1762692142,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 165870,
@@ -1163,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "王嘉尔音乐节",
+      "onboard_time": 1762691904,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "2025全球总决赛",
@@ -1195,19 +1251,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 155657,
+      "num": 185697,
+      "word": "石凯 真让我在观众席发现你了",
+      "onboard_time": 1762693222,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154669,
       "num": 145520,
       "word": "刘雨昕感谢王嘉尔等她彩排",
       "onboard_time": 1762669700,
       "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 154664,
-      "num": 154664,
-      "word": "王嘉尔音乐节",
-      "onboard_time": 1762691904,
-      "rank": 46,
       "category": "演出"
     },
     {
@@ -1604,7 +1660,7 @@
     },
     {
       "raw_hot": 117394,
-      "num": 243456,
+      "num": 274971,
       "word": "生父上门抢闺女结果开团秒跪",
       "onboard_time": 1762692324,
       "rank": 31,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1762592720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108724,
+      "num": 188580,
+      "word": "苏新皓一开口触发全场尖叫声",
+      "onboard_time": 1762693222,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 108110,
@@ -3067,7 +3131,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 39829,
+      "raw_hot": 39851,
       "num": 312454,
       "word": "总要来趟高淳吧",
       "onboard_time": 1762690643,
@@ -3195,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26092,
+      "num": 334199,
+      "word": "大眼音乐节看爽了",
+      "onboard_time": 1762691363,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
@@ -3225,14 +3297,6 @@
       "onboard_time": 1762669580,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22964,
-      "num": 334199,
-      "word": "大眼音乐节看爽了",
-      "onboard_time": 1762691363,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 18664,
@@ -3281,6 +3345,14 @@
       "onboard_time": 1762610842,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13934,
+      "num": 275443,
+      "word": "安世半导体事件发酵一个月后",
+      "onboard_time": 1762692802,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13486,

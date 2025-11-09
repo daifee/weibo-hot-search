@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762692401596,
+  "endTime": 1762693281154,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1043,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 837045,
+      "num": 337575,
+      "word": "长公主 磨皮",
+      "onboard_time": 1762691724,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 835613,
       "num": 196442,
       "word": "收到了去世朋友7年前的邮件",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1762325720,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 768380,
+      "num": 1122940,
+      "word": "十五运开幕式直播",
+      "onboard_time": 1762692442,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 768177,
@@ -3059,6 +3075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 468146,
+      "num": 278408,
+      "word": "T1 宙斯",
+      "onboard_time": 1762691904,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 465643,
       "num": 192756,
       "word": "刘若英谈44岁怀孕经历",
@@ -3393,14 +3417,6 @@
       "onboard_time": 1762082311,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 428362,
-      "num": 337575,
-      "word": "长公主 磨皮",
-      "onboard_time": 1762691724,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 428226,
@@ -5579,6 +5595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282604,
+      "num": 366623,
+      "word": "人民咖啡馆更名仅中国大陆可见",
+      "onboard_time": 1762690403,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281685,
       "num": 281685,
       "word": "全红婵赛后采访差点哭了",
@@ -6219,6 +6243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248258,
+      "num": 248258,
+      "word": "这个就是淋巴肉",
+      "onboard_time": 1762692142,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 247988,
       "num": 145939,
       "word": "莲花楼里的土狗叫狐狸精",
@@ -6449,6 +6481,14 @@
       "onboard_time": 1762595842,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239259,
+      "num": 239259,
+      "word": "宙斯祝贺T1",
+      "onboard_time": 1762692862,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 238965,
@@ -7275,14 +7315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212712,
-      "num": 366623,
-      "word": "人民咖啡馆更名仅中国大陆可见",
-      "onboard_time": 1762690403,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212699,
       "num": 212699,
       "word": "张凌赫 老牛耕地",
@@ -7947,14 +7979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199556,
-      "num": 199556,
-      "word": "T1 宙斯",
-      "onboard_time": 1762691904,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199437,
       "num": 162229,
       "word": "他和她的猫",
@@ -8475,11 +8499,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190818,
+      "num": 271585,
+      "word": "十五运运动员入场",
+      "onboard_time": 1762692981,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190798,
       "num": 188893,
       "word": "TheShy教学Rookie剑姬一秒四破",
       "onboard_time": 1762608081,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190777,
+      "num": 190777,
+      "word": "T1说未来继续向新的纪录发起挑战",
+      "onboard_time": 1762692623,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -8619,6 +8659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188300,
+      "num": 271215,
+      "word": "全运会旗手",
+      "onboard_time": 1762692503,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188216,
       "num": 130245,
       "word": "假奶皮子糖葫芦受害者",
@@ -8705,6 +8753,14 @@
       "onboard_time": 1762134260,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187499,
+      "num": 280400,
+      "word": "五星红旗在粤港澳同时升起",
+      "onboard_time": 1762692562,
+      "rank": 9,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 187396,
@@ -9643,6 +9699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172304,
+      "num": 186159,
+      "word": "锤娜丽莎爱自己后美得好具体",
+      "onboard_time": 1762691842,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172301,
       "num": 188442,
       "word": "我国首次实现基于熔盐堆的钍铀核燃料转换",
@@ -9787,14 +9851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170818,
-      "num": 186159,
-      "word": "锤娜丽莎爱自己后美得好具体",
-      "onboard_time": 1762691842,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170797,
       "num": 144365,
       "word": "小鹏机器人会走猫步太像人了",
@@ -9809,14 +9865,6 @@
       "onboard_time": 1762426881,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170624,
-      "num": 170624,
-      "word": "这个就是淋巴肉",
-      "onboard_time": 1762692142,
-      "rank": 42,
-      "category": "科学科普"
     },
     {
       "raw_hot": 170477,
@@ -10763,6 +10811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158351,
+      "num": 158351,
+      "word": "王嘉尔音乐节",
+      "onboard_time": 1762691904,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158348,
       "num": 158348,
       "word": "TOP全员上桌",
@@ -11019,6 +11075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155657,
+      "num": 185697,
+      "word": "石凯 真让我在观众席发现你了",
+      "onboard_time": 1762693222,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155644,
       "num": 155644,
       "word": "跳水",
@@ -11136,14 +11200,6 @@
       "word": "刘雨昕感谢王嘉尔等她彩排",
       "onboard_time": 1762669700,
       "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 154664,
-      "num": 154664,
-      "word": "王嘉尔音乐节",
-      "onboard_time": 1762691904,
-      "rank": 46,
       "category": "演出"
     },
     {
@@ -15996,7 +16052,7 @@
     },
     {
       "raw_hot": 117394,
-      "num": 243456,
+      "num": 274971,
       "word": "生父上门抢闺女结果开团秒跪",
       "onboard_time": 1762692324,
       "rank": 31,
@@ -17465,6 +17521,14 @@
       "onboard_time": 1762519461,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108724,
+      "num": 188580,
+      "word": "苏新皓一开口触发全场尖叫声",
+      "onboard_time": 1762693222,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 108723,
@@ -29539,7 +29603,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39829,
+      "raw_hot": 39851,
       "num": 312454,
       "word": "总要来趟高淳吧",
       "onboard_time": 1762690643,
@@ -30803,6 +30867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26092,
+      "num": 334199,
+      "word": "大眼音乐节看爽了",
+      "onboard_time": 1762691363,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26074,
       "num": 111187,
       "word": "卢昱晓cos企鹅表情包",
@@ -31081,14 +31153,6 @@
       "onboard_time": 1762090643,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 22964,
-      "num": 334199,
-      "word": "大眼音乐节看爽了",
-      "onboard_time": 1762691363,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 22899,
@@ -31657,6 +31721,14 @@
       "onboard_time": 1762025955,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13934,
+      "num": 275443,
+      "word": "安世半导体事件发酵一个月后",
+      "onboard_time": 1762692802,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13902,
