@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762658481638,
+  "endTime": 1762659194273,
   "band_list": [
     {
       "raw_hot": 914031,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571540,
+      "num": 178885,
+      "word": "李连杰状态",
+      "onboard_time": 1762657519,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539945,
       "num": 1043098,
       "word": "早春晴朗井柏然孙千车内拥吻",
@@ -91,7 +99,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 408897,
+      "raw_hot": 411565,
       "num": 215258,
       "word": "陈数曾经两年内没有吃过水果",
       "onboard_time": 1762653022,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363999,
+      "num": 174951,
+      "word": "白鹿cha香水有毒",
+      "onboard_time": 1762657100,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361920,
       "num": 206185,
       "word": "花海时团再相遇",
@@ -147,15 +163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335927,
-      "num": 187779,
-      "word": "只有女生才懂的暴爽瞬间",
-      "onboard_time": 1762652659,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 315240,
+      "raw_hot": 344045,
       "num": 187647,
       "word": "张家界100人荒野求生仅剩一名女性",
       "onboard_time": 1762655840,
@@ -163,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311403,
-      "num": 178885,
-      "word": "李连杰状态",
-      "onboard_time": 1762657519,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 335927,
+      "num": 187779,
+      "word": "只有女生才懂的暴爽瞬间",
+      "onboard_time": 1762652659,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 311109,
@@ -259,12 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263085,
-      "num": 174951,
-      "word": "白鹿cha香水有毒",
-      "onboard_time": 1762657100,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 271480,
+      "num": 187469,
+      "word": "GAI庆功宴王鹤棣送8万红包",
+      "onboard_time": 1762657460,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 260847,
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210895,
+      "num": 1033743,
+      "word": "暗河传HE得很彻底",
+      "onboard_time": 1762655181,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207691,
       "num": 228516,
       "word": "唐朝诡事录3首播反馈",
@@ -313,6 +329,14 @@
       "onboard_time": 1762602380,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204732,
+      "num": 171082,
+      "word": "米哈游 大丽花",
+      "onboard_time": 1762654819,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 201593,
@@ -339,22 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191713,
-      "num": 191713,
-      "word": "暗河传HE得很彻底",
-      "onboard_time": 1762655181,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187469,
-      "num": 187469,
-      "word": "GAI庆功宴王鹤棣送8万红包",
-      "onboard_time": 1762657460,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 176725,
       "num": 206821,
       "word": "一诺这是我们的时代",
@@ -371,20 +379,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171082,
-      "num": 171082,
-      "word": "米哈游 大丽花",
-      "onboard_time": 1762654819,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159632,
       "num": 136592,
       "word": "魏建军现身2025KPL年度总决赛现场",
       "onboard_time": 1762653560,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157640,
+      "num": 157640,
+      "word": "拜登强烈批评特朗普称其家族赚了18亿",
+      "onboard_time": 1762656439,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157179,
@@ -411,12 +419,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150642,
-      "num": 150642,
-      "word": "拜登强烈批评特朗普称其家族赚了18亿",
-      "onboard_time": 1762656439,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 152728,
+      "num": 150521,
+      "word": "人一旦拥有了电动车",
+      "onboard_time": 1762658660,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151288,
+      "num": 185665,
+      "word": "易烊千玺回应大学期间没接戏",
+      "onboard_time": 1762657759,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 149210,
@@ -467,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136158,
+      "num": 136158,
+      "word": "容祖儿 昆山属不属于上海",
+      "onboard_time": 1762654339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136134,
       "num": 136134,
       "word": "北京阿姨帮孙女追星竟赠蛋致谢",
@@ -475,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132006,
-      "num": 132006,
-      "word": "容祖儿 昆山属不属于上海",
-      "onboard_time": 1762654339,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 124708,
+      "num": 191409,
+      "word": "梅西梅开二度",
+      "onboard_time": 1762656979,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 120691,
@@ -499,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119609,
-      "num": 191409,
-      "word": "梅西梅开二度",
-      "onboard_time": 1762656979,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119038,
       "num": 119038,
       "word": "迪丽热巴檀健次清唱海芋恋",
@@ -523,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116841,
-      "num": 185665,
-      "word": "易烊千玺回应大学期间没接戏",
-      "onboard_time": 1762657759,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 113027,
+      "num": 113027,
+      "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
+      "onboard_time": 1762657940,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 110326,
@@ -537,14 +553,6 @@
       "onboard_time": 1762592720,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108704,
-      "num": 108704,
-      "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
-      "onboard_time": 1762657940,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 108019,
@@ -577,6 +585,14 @@
       "onboard_time": 1762653739,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104812,
+      "num": 189658,
+      "word": "俄军将攻占乌克兰第三首都",
+      "onboard_time": 1762657339,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104778,
@@ -643,6 +659,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 93891,
+      "num": 151041,
+      "word": "易烊千玺不敢再接刘春和这样的角色",
+      "onboard_time": 1762656740,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91953,
       "num": 204301,
       "word": "付辛博演技",
@@ -699,20 +723,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 88580,
-      "num": 151041,
-      "word": "易烊千玺不敢再接刘春和这样的角色",
-      "onboard_time": 1762656740,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 88395,
       "num": 145388,
       "word": "一群乒乓球世界冠军争一个全国冠军",
       "onboard_time": 1762649119,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88297,
+      "num": 183625,
+      "word": "荒野求生选手抓野猪吃到流油",
+      "onboard_time": 1762657400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88256,
@@ -731,12 +755,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83044,
+      "num": 83044,
+      "word": "拍到了导师组会批假记录",
+      "onboard_time": 1762658960,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82865,
       "num": 204143,
       "word": "银河左岸音乐节",
       "onboard_time": 1762615521,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82853,
+      "num": 82853,
+      "word": "于适中国骑射运动中心执行主任",
+      "onboard_time": 1762658900,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 81850,
@@ -763,12 +803,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76185,
-      "num": 189658,
-      "word": "俄军将攻占乌克兰第三首都",
-      "onboard_time": 1762657339,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 76754,
+      "num": 76754,
+      "word": "按摩的时候记得把表摘了",
+      "onboard_time": 1762657400,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 76006,
@@ -787,12 +827,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74709,
+      "num": 74709,
+      "word": "和朋友诉苦却发现大家都很痛苦",
+      "onboard_time": 1762659139,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73521,
       "num": 125612,
       "word": "道崽 挑杯见",
       "onboard_time": 1762655719,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72946,
+      "num": 191692,
+      "word": "全运会今天开幕",
+      "onboard_time": 1762658359,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71915,
@@ -825,14 +881,6 @@
       "onboard_time": 1762617801,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66597,
-      "num": 183625,
-      "word": "荒野求生选手抓野猪吃到流油",
-      "onboard_time": 1762657400,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63731,
@@ -899,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56831,
-      "num": 191692,
-      "word": "全运会今天开幕",
-      "onboard_time": 1762658359,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -961,6 +1001,14 @@
       "onboard_time": 1762639513,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43172,
+      "num": 89176,
+      "word": "林高远全运会首秀",
+      "onboard_time": 1762658660,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 43070,
@@ -1075,12 +1123,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27697,
+      "num": 89142,
+      "word": "95后村干部秀肌肉卖柿子走红",
+      "onboard_time": 1762658718,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27173,
       "num": 65560,
       "word": "微博大眼音乐节",
       "onboard_time": 1762626435,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23627,
+      "num": 89138,
+      "word": "航母命名库",
+      "onboard_time": 1762658718,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23322,
@@ -1137,6 +1201,9 @@
     },
     {
       "word": "#习近平将出席十五运会开幕式#"
+    },
+    {
+      "word": "#读懂总书记关心的土特产#"
     }
   ]
 }

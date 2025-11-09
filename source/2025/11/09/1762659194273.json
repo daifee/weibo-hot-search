@@ -1,0 +1,410 @@
+{
+  "runTime": 1762659194273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 210895,
+        "num": 1033743,
+        "word": "暗河传HE得很彻底",
+        "onboard_time": 1762655181,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 162503,
+        "word": "十五运开幕式演出阵容",
+        "onboard_time": 1762649538,
+        "rank": 1,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 72946,
+        "num": 162346,
+        "word": "全运会今天开幕",
+        "onboard_time": 1762658359,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124708,
+        "num": 161977,
+        "word": "梅西梅开二度",
+        "onboard_time": 1762656979,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124198,
+        "num": 161601,
+        "word": "人民咖啡馆更名",
+        "onboard_time": 1762611622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225695,
+        "num": 161317,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105696,
+        "num": 161233,
+        "word": "惊天魔盗团把我当自己人宠了",
+        "onboard_time": 1762650679,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104812,
+        "num": 160742,
+        "word": "俄军将攻占乌克兰第三首都",
+        "onboard_time": 1762657339,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93725,
+        "num": 160497,
+        "word": "福建舰入列让世界开始抄作业",
+        "onboard_time": 1762643475,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84775,
+        "num": 160296,
+        "word": "台风凤凰向我国靠近",
+        "onboard_time": 1762657759,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496417,
+        "num": 159885,
+        "word": "早春晴朗井柏然孙千车内拥吻",
+        "onboard_time": 1762653799,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411565,
+        "num": 159497,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402940,
+        "num": 159392,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394716,
+        "num": 158863,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344045,
+        "num": 158619,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301030,
+        "num": 158420,
+        "word": "只有女生才懂的暴爽瞬间",
+        "onboard_time": 1762652659,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271480,
+        "num": 158045,
+        "word": "GAI庆功宴王鹤棣送8万红包",
+        "onboard_time": 1762657460,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204732,
+        "num": 157935,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762654819,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157640,
+        "num": 157640,
+        "word": "拜登强烈批评特朗普称其家族赚了18亿",
+        "onboard_time": 1762656439,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151288,
+        "num": 151288,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571540,
+        "num": 151154,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367314,
+        "num": 150785,
+        "word": "那英卡地亚晚宴",
+        "onboard_time": 1762652480,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152728,
+        "num": 150521,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363999,
+        "num": 150079,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235300,
+        "num": 149739,
+        "word": "终于知道她为什么叫靓靓了",
+        "onboard_time": 1762643176,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152732,
+        "num": 149674,
+        "word": "印度警察把轮奸案名单变为创收项目",
+        "onboard_time": 1762648879,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "鹿晗让陈赫少吃点小龙虾吧",
+        "onboard_time": 1762648397,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136263,
+        "num": 136263,
+        "word": "终于知道为什么云贵川没有僵尸了",
+        "onboard_time": 1762649060,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "容祖儿 昆山属不属于上海",
+        "onboard_time": 1762654339,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93891,
+        "num": 116756,
+        "word": "易烊千玺不敢再接刘春和这样的角色",
+        "onboard_time": 1762656740,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88297,
+        "num": 116493,
+        "word": "荒野求生选手抓野猪吃到流油",
+        "onboard_time": 1762657400,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116363,
+        "num": 116363,
+        "word": "那英你怎么陷害宋佳",
+        "onboard_time": 1762650319,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113027,
+        "num": 113027,
+        "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
+        "onboard_time": 1762657940,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110630,
+        "num": 110630,
+        "word": "易烊千玺给王源送生日祝福了",
+        "onboard_time": 1762615641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106728,
+        "num": 106728,
+        "word": "北京阿姨帮孙女追星竟赠蛋致谢",
+        "onboard_time": 1762654161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103120,
+        "num": 103120,
+        "word": "男子喉咙痛1个月咽喉长满雪花",
+        "onboard_time": 1762610122,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91091,
+        "num": 91091,
+        "word": "张踩铃 外国人的孝顺赶尽杀绝",
+        "onboard_time": 1762651579,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43172,
+        "num": 89176,
+        "word": "林高远全运会首秀",
+        "onboard_time": 1762658660,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27697,
+        "num": 89142,
+        "word": "95后村干部秀肌肉卖柿子走红",
+        "onboard_time": 1762658718,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23627,
+        "num": 89138,
+        "word": "航母命名库",
+        "onboard_time": 1762658718,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89138,
+        "num": 89137,
+        "word": "尹子维大学授课素材是许我耀眼名场面",
+        "onboard_time": 1762653259,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86545,
+        "num": 86545,
+        "word": "猕猴桃 一种很团结的水果",
+        "onboard_time": 1762655481,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86277,
+        "num": 86277,
+        "word": "AG夺冠",
+        "onboard_time": 1762611024,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83044,
+        "num": 83044,
+        "word": "拍到了导师组会批假记录",
+        "onboard_time": 1762658960,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82892,
+        "num": 82892,
+        "word": "邓超鹿晗给陈赫送生日祝福",
+        "onboard_time": 1762656740,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82853,
+        "num": 82853,
+        "word": "于适中国骑射运动中心执行主任",
+        "onboard_time": 1762658900,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82563,
+        "num": 82563,
+        "word": "古二公开录音涉嫌违法",
+        "onboard_time": 1762612764,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82292,
+        "num": 82292,
+        "word": "第一支在鸟巢夺冠的中国战队",
+        "onboard_time": 1762613542,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76754,
+        "num": 76754,
+        "word": "按摩的时候记得把表摘了",
+        "onboard_time": 1762657400,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74709,
+        "num": 74709,
+        "word": "和朋友诉苦却发现大家都很痛苦",
+        "onboard_time": 1762659139,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记关心的土特产#"
+    }
+  }
+}
