@@ -1,0 +1,410 @@
+{
+  "runTime": 1762695705541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1864320,
+        "num": 1864320,
+        "word": "十五运开幕式直播",
+        "onboard_time": 1762692442,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671891,
+        "num": 671891,
+        "word": "全运会烟花",
+        "onboard_time": 1762693341,
+        "rank": 1,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 415342,
+        "num": 621110,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572934,
+        "num": 572934,
+        "word": "全运会主火炬点燃",
+        "onboard_time": 1762694842,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458698,
+        "num": 458698,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1649921,
+        "num": 446166,
+        "word": "T1三连冠",
+        "onboard_time": 1762690403,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 430642,
+        "num": 430642,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 417655,
+        "num": 417655,
+        "word": "T1 宙斯",
+        "onboard_time": 1762691904,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253036,
+        "num": 253036,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241067,
+        "num": 253034,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24487,
+        "num": 253028,
+        "word": "大眼音乐节舞台",
+        "onboard_time": 1762693582,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1027530,
+        "num": 253020,
+        "word": "长公主 磨皮",
+        "onboard_time": 1762691724,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665377,
+        "num": 253019,
+        "word": "人民咖啡馆更名仅中国大陆可见",
+        "onboard_time": 1762690403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359653,
+        "num": 253009,
+        "word": "刘德华再唱中国人",
+        "onboard_time": 1762694481,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 340650,
+        "num": 253005,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 276259,
+        "num": 253000,
+        "word": "Faker六冠王",
+        "onboard_time": 1762690584,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252999,
+        "num": 252999,
+        "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+        "onboard_time": 1762693521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249190,
+        "num": 249190,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1762693521,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236974,
+        "num": 236974,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 18,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 54492,
+        "num": 235995,
+        "word": "粤港澳三地火炬手",
+        "onboard_time": 1762695203,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40424,
+        "num": 234212,
+        "word": "总要来趟高淳吧",
+        "onboard_time": 1762690643,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20741,
+        "num": 232837,
+        "word": "中国国际进口博览会",
+        "onboard_time": 1762695082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621369,
+        "num": 230009,
+        "word": "澳大利亚偶遇何超莲窦骁",
+        "onboard_time": 1762689920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283410,
+        "num": 228722,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228197,
+        "num": 228197,
+        "word": "大湾仔陈小春快入编了吧",
+        "onboard_time": 1762693461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47920,
+        "num": 227482,
+        "word": "石凯音乐节神图有了",
+        "onboard_time": 1762693582,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227456,
+        "num": 227456,
+        "word": "这个就是淋巴肉",
+        "onboard_time": 1762692142,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 225107,
+        "num": 225107,
+        "word": "吴宣仪 欢迎大家来审判我",
+        "onboard_time": 1762689740,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185032,
+        "num": 216378,
+        "word": "全运会旗手",
+        "onboard_time": 1762692503,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183027,
+        "num": 215193,
+        "word": "王嘉尔才是内娱音乐节压轴标配",
+        "onboard_time": 1762694421,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215161,
+        "num": 215161,
+        "word": "Guma FMVP",
+        "onboard_time": 1762691483,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193957,
+        "num": 193957,
+        "word": "Gumayusi说我是世上最好的ADC",
+        "onboard_time": 1762694062,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190478,
+        "num": 190478,
+        "word": "宙斯祝贺T1",
+        "onboard_time": 1762692862,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78185,
+        "num": 189774,
+        "word": "日本棕熊连环掌拍扁车头",
+        "onboard_time": 1762694001,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189627,
+        "num": 189627,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187934,
+        "num": 187934,
+        "word": "Uzi颁奖",
+        "onboard_time": 1762691304,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183505,
+        "num": 183505,
+        "word": "孙颖莎出镜全运会开幕式短片",
+        "onboard_time": 1762694481,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34058,
+        "num": 182843,
+        "word": "大眼音乐节看爽了",
+        "onboard_time": 1762691363,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166550,
+        "num": 180294,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1762690283,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38425,
+        "num": 179743,
+        "word": "男子称被困高铁站电梯求救无人回应",
+        "onboard_time": 1762694783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106932,
+        "num": 177323,
+        "word": "王嘉尔哭了",
+        "onboard_time": 1762695622,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176044,
+        "num": 176044,
+        "word": "冯绍峰被男子追着要签名",
+        "onboard_time": 1762694962,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 174403,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172232,
+        "num": 172232,
+        "word": "欧阳娜娜美神降临",
+        "onboard_time": 1762694783,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170213,
+        "num": 170213,
+        "word": "全运会开幕式看到樊振东",
+        "onboard_time": 1762695322,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166466,
+        "num": 166466,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164845,
+        "num": 164845,
+        "word": "石凯 真让我在观众席发现你了",
+        "onboard_time": 1762693222,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164538,
+        "num": 164538,
+        "word": "Faker回应六冠王",
+        "onboard_time": 1762695502,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157680,
+        "num": 157680,
+        "word": "江浙沪3000元人情的婚礼",
+        "onboard_time": 1762693941,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73786,
+        "num": 154809,
+        "word": "多国催讨美国赶紧还钱",
+        "onboard_time": 1762694001,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席十五运开幕式#"
+    }
+  }
+}
