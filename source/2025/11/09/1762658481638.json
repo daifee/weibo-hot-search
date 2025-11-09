@@ -1,0 +1,410 @@
+{
+  "runTime": 1762658481638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195460,
+        "num": 1031273,
+        "word": "十五运开幕式演出阵容",
+        "onboard_time": 1762649538,
+        "rank": 0,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 191713,
+        "num": 191713,
+        "word": "暗河传HE得很彻底",
+        "onboard_time": 1762655181,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56831,
+        "num": 191692,
+        "word": "全运会今天开幕",
+        "onboard_time": 1762658359,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119609,
+        "num": 191409,
+        "word": "梅西梅开二度",
+        "onboard_time": 1762656979,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118129,
+        "num": 190920,
+        "word": "人民咖啡馆更名",
+        "onboard_time": 1762611622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228718,
+        "num": 190863,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116586,
+        "num": 190482,
+        "word": "惊天魔盗团把我当自己人宠了",
+        "onboard_time": 1762650679,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101002,
+        "num": 190227,
+        "word": "福建舰入列让世界开始抄作业",
+        "onboard_time": 1762643475,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91010,
+        "num": 189871,
+        "word": "台风凤凰向我国靠近",
+        "onboard_time": 1762657759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76185,
+        "num": 189658,
+        "word": "俄军将攻占乌克兰第三首都",
+        "onboard_time": 1762657339,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 539945,
+        "num": 189328,
+        "word": "早春晴朗井柏然孙千车内拥吻",
+        "onboard_time": 1762653799,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439682,
+        "num": 189093,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415473,
+        "num": 188818,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30540,
+        "num": 188371,
+        "word": "第十五届全运会",
+        "onboard_time": 1762612583,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408897,
+        "num": 188106,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335927,
+        "num": 187779,
+        "word": "只有女生才懂的暴爽瞬间",
+        "onboard_time": 1762652659,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315240,
+        "num": 187647,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187469,
+        "num": 187469,
+        "word": "GAI庆功宴王鹤棣送8万红包",
+        "onboard_time": 1762657460,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116841,
+        "num": 185665,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66597,
+        "num": 183625,
+        "word": "荒野求生选手抓野猪吃到流油",
+        "onboard_time": 1762657400,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431149,
+        "num": 182821,
+        "word": "那英卡地亚晚宴",
+        "onboard_time": 1762652480,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311403,
+        "num": 178885,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276833,
+        "num": 176374,
+        "word": "终于知道她为什么叫靓靓了",
+        "onboard_time": 1762643176,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263085,
+        "num": 174951,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173791,
+        "num": 173791,
+        "word": "鹿晗让陈赫少吃点小龙虾吧",
+        "onboard_time": 1762648397,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171082,
+        "num": 171082,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762654819,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157108,
+        "num": 157108,
+        "word": "终于知道为什么云贵川没有僵尸了",
+        "onboard_time": 1762649060,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152235,
+        "num": 152235,
+        "word": "那英你怎么陷害宋佳",
+        "onboard_time": 1762650319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152221,
+        "num": 152221,
+        "word": "印度警察把轮奸案名单变为创收项目",
+        "onboard_time": 1762648879,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88580,
+        "num": 151041,
+        "word": "易烊千玺不敢再接刘春和这样的角色",
+        "onboard_time": 1762656740,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150642,
+        "num": 150642,
+        "word": "拜登强烈批评特朗普称其家族赚了18亿",
+        "onboard_time": 1762656439,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132006,
+        "num": 132006,
+        "word": "容祖儿 昆山属不属于上海",
+        "onboard_time": 1762654339,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73521,
+        "num": 125612,
+        "word": "道崽 挑杯见",
+        "onboard_time": 1762655719,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125090,
+        "num": 125090,
+        "word": "尹子维大学授课素材是许我耀眼名场面",
+        "onboard_time": 1762653259,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120480,
+        "num": 120480,
+        "word": "易烊千玺给王源送生日祝福了",
+        "onboard_time": 1762615641,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117891,
+        "num": 117891,
+        "word": "北京阿姨帮孙女追星竟赠蛋致谢",
+        "onboard_time": 1762654161,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "男子喉咙痛1个月咽喉长满雪花",
+        "onboard_time": 1762610122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108704,
+        "num": 108704,
+        "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
+        "onboard_time": 1762657940,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76006,
+        "num": 99481,
+        "word": "新人一入职就设计航母舰载机",
+        "onboard_time": 1762657460,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98497,
+        "num": 98497,
+        "word": "第一支在鸟巢夺冠的中国战队",
+        "onboard_time": 1762613542,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91368,
+        "num": 91368,
+        "word": "邓超鹿晗给陈赫送生日祝福",
+        "onboard_time": 1762656740,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90867,
+        "num": 90867,
+        "word": "居然有人不会嘬嘬嘬",
+        "onboard_time": 1762649178,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90173,
+        "num": 90173,
+        "word": "猕猴桃 一种很团结的水果",
+        "onboard_time": 1762655481,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85781,
+        "num": 85781,
+        "word": "古二公开录音涉嫌违法",
+        "onboard_time": 1762612764,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85506,
+        "num": 85506,
+        "word": "小胖状态",
+        "onboard_time": 1762615521,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85243,
+        "num": 85243,
+        "word": "张踩铃 外国人的孝顺赶尽杀绝",
+        "onboard_time": 1762651579,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83510,
+        "num": 83510,
+        "word": "AG夺冠",
+        "onboard_time": 1762611024,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73088,
+        "num": 73088,
+        "word": "李福贵直播间卖小米上架秒空",
+        "onboard_time": 1762649419,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63731,
+        "num": 73060,
+        "word": "雷军给小米员工车队打call",
+        "onboard_time": 1762658181,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61216,
+        "num": 73006,
+        "word": "陈幸同喊话黄镇廷跟他们拼了",
+        "onboard_time": 1762656679,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席十五运会开幕式#"
+    }
+  }
+}
