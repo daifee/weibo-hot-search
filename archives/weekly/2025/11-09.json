@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762713916071,
+  "endTime": 1762716009721,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -3787,6 +3787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43656,
+      "num": 28178,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43611,
       "num": 97532,
       "word": "中国渔船倾覆2人死亡",
@@ -4075,6 +4083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23570,
+      "num": 23570,
+      "word": "44岁短剧导演突发心梗去世",
+      "onboard_time": 1762713194,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23322,
       "num": 49954,
       "word": "水龙吟",
@@ -4099,14 +4115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22935,
-      "num": 22935,
-      "word": "嫁金钗 董思成",
-      "onboard_time": 1762713194,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20741,
       "num": 232837,
       "word": "中国国际进口博览会",
@@ -4123,20 +4131,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18611,
-      "num": 22701,
-      "word": "44岁短剧导演突发心梗去世",
-      "onboard_time": 1762713194,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18214,
       "num": 27340,
       "word": "杨洋我的秋日男友",
       "onboard_time": 1762712174,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17531,
+      "num": 19886,
+      "word": "2025f1巴西大奖赛",
+      "onboard_time": 1762713914,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 17236,
