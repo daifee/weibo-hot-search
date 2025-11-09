@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762698159510,
+  "endTime": 1762699156699,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1165654,
+      "num": 230530,
+      "word": "那英直播质疑票数",
+      "onboard_time": 1762695861,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1161342,
       "num": 1161342,
       "word": "星巴克中国卖掉了",
@@ -721,14 +729,6 @@
       "onboard_time": 1762670000,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040966,
-      "num": 228508,
-      "word": "那英直播质疑票数",
-      "onboard_time": 1762695861,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1038127,
@@ -2283,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560916,
+      "num": 252999,
+      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+      "onboard_time": 1762693521,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 560199,
       "num": 560199,
       "word": "律师自曝取款被银行盘问报警",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1762001481,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 494372,
-      "num": 252999,
-      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
-      "onboard_time": 1762693521,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494340,
@@ -3529,6 +3529,14 @@
       "onboard_time": 1762305680,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 422624,
+      "num": 220000,
+      "word": "Faker谈多兰多次失误",
+      "onboard_time": 1762697542,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 419301,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1762141820,
       "rank": 16,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 318417,
+      "num": 318417,
+      "word": "火炬手郭晶晶",
+      "onboard_time": 1762695982,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 315626,
@@ -6651,6 +6667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233863,
+      "num": 233863,
+      "word": "央视曝光被薅羊毛的医保卡",
+      "onboard_time": 1762697602,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 233747,
       "num": 233747,
       "word": "易烊千玺不敢再接刘春和这样的角色",
@@ -6689,6 +6713,14 @@
       "onboard_time": 1762399580,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232648,
+      "num": 232648,
+      "word": "单依纯好争气",
+      "onboard_time": 1762697483,
+      "rank": 29,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 232215,
@@ -6801,14 +6833,6 @@
       "onboard_time": 1762246341,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228519,
-      "num": 228519,
-      "word": "火炬手郭晶晶",
-      "onboard_time": 1762695982,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 228371,
@@ -7137,14 +7161,6 @@
       "onboard_time": 1762270639,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 219350,
-      "num": 219350,
-      "word": "Faker谈多兰多次失误",
-      "onboard_time": 1762697542,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 219276,
@@ -7771,6 +7787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204906,
+      "num": 202804,
+      "word": "全运会火炬手",
+      "onboard_time": 1762696401,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204901,
       "num": 342533,
       "word": "中国制造让碳纤维价格去掉一个0",
@@ -7913,6 +7937,14 @@
       "onboard_time": 1762523302,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202593,
+      "num": 362605,
+      "word": "这就是今晚的广州",
+      "onboard_time": 1762688841,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 202534,
@@ -8579,6 +8611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 191237,
+      "num": 191237,
+      "word": "吴宜泽夺冠",
+      "onboard_time": 1762697843,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191115,
       "num": 191115,
       "word": "果郡王 竟然居然人",
@@ -9128,14 +9168,6 @@
       "word": "直击樊振东备战全运现场",
       "onboard_time": 1762600580,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183793,
-      "num": 183793,
-      "word": "吴宜泽夺冠",
-      "onboard_time": 1762697843,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -10067,6 +10099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169886,
+      "num": 169886,
+      "word": "锤娜丽莎李川牵手走红毯",
+      "onboard_time": 1762696401,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169813,
       "num": 163313,
       "word": "白敬亭质疑孙千理解孙千成为孙千",
@@ -10315,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166478,
+      "num": 166478,
+      "word": "王多多结束语",
+      "onboard_time": 1762698624,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166411,
       "num": 166411,
       "word": "张一山最近也是老来俏了",
@@ -10459,14 +10507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164988,
-      "num": 164988,
-      "word": "锤娜丽莎李川牵手走红毯",
-      "onboard_time": 1762696401,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "你见过凌晨的东北早市吗",
@@ -10513,6 +10553,14 @@
       "onboard_time": 1761998240,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164549,
+      "num": 172189,
+      "word": "富贵少爷万水千山我替你看到了",
+      "onboard_time": 1762698202,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 164546,
@@ -11411,14 +11459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154682,
-      "num": 221946,
-      "word": "单依纯好争气",
-      "onboard_time": 1762697483,
-      "rank": 29,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 154669,
       "num": 145520,
       "word": "刘雨昕感谢王嘉尔等她彩排",
@@ -12011,6 +12051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148436,
+      "num": 167494,
+      "word": "日本海啸",
+      "onboard_time": 1762698141,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 148411,
       "num": 148411,
       "word": "全红婵陈芋汐张家齐跳台贴贴",
@@ -12449,6 +12497,14 @@
       "onboard_time": 1762174762,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144427,
+      "num": 144427,
+      "word": "Tabe力挺Shanks",
+      "onboard_time": 1762698922,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 144376,
@@ -12979,14 +13035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139624,
-      "num": 362605,
-      "word": "这就是今晚的广州",
-      "onboard_time": 1762688841,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139578,
       "num": 157734,
       "word": "陈小春这个退场太牛了",
@@ -13449,6 +13497,14 @@
       "onboard_time": 1762236800,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136614,
+      "num": 136614,
+      "word": "羊驼送洗后因毛发未吹干致失温死亡",
+      "onboard_time": 1762698922,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136560,
@@ -14443,6 +14499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129059,
+      "num": 129059,
+      "word": "岳云鹏怎么走爱豆路线了",
+      "onboard_time": 1762699043,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128995,
       "num": 128995,
       "word": "天地剑心打戏是前菜哭戏是大餐",
@@ -14585,6 +14649,14 @@
       "onboard_time": 1762255581,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128217,
+      "num": 228417,
+      "word": "蒋欣一句话跟黄明昊和好",
+      "onboard_time": 1762697843,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 128208,
@@ -14769,14 +14841,6 @@
       "onboard_time": 1762363396,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126747,
-      "num": 228417,
-      "word": "蒋欣一句话跟黄明昊和好",
-      "onboard_time": 1762697843,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 126722,
@@ -15195,6 +15259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124206,
+      "num": 132729,
+      "word": "鹭卓南京站官宣",
+      "onboard_time": 1762698803,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124167,
       "num": 124167,
       "word": "眉压眼和眉包眼的区别",
@@ -15361,6 +15433,14 @@
       "onboard_time": 1762314622,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123101,
+      "num": 173336,
+      "word": "医院回应骨科手术传来阵阵施工声",
+      "onboard_time": 1762697782,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123048,
@@ -16145,14 +16225,6 @@
       "onboard_time": 1762063221,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118079,
-      "num": 173336,
-      "word": "医院回应骨科手术传来阵阵施工声",
-      "onboard_time": 1762697782,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117997,
@@ -22715,6 +22787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89586,
+      "num": 222889,
+      "word": "粤港澳三地同框画面有多燃",
+      "onboard_time": 1762696161,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89574,
       "num": 89574,
       "word": "她是真的想教会你穿搭",
@@ -25115,14 +25195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80106,
-      "num": 222889,
-      "word": "粤港澳三地同框画面有多燃",
-      "onboard_time": 1762696161,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80090,
       "num": 118263,
       "word": "屠颖已在广州火化",
@@ -25289,14 +25361,6 @@
       "onboard_time": 1761964940,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79129,
-      "num": 167494,
-      "word": "日本海啸",
-      "onboard_time": 1762698141,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79063,
@@ -28483,6 +28547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55948,
+      "num": 149064,
+      "word": "多兰队友太强随便浪",
+      "onboard_time": 1762698981,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55917,
       "num": 193533,
       "word": "上汽旗舰智己LS9颠覆30万大六座格局",
@@ -28688,6 +28760,14 @@
       "word": "张远前任赛道主理人",
       "onboard_time": 1762356861,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53987,
+      "num": 275593,
+      "word": "大眼音乐节舞台",
+      "onboard_time": 1762693582,
+      "rank": 12,
       "category": "演出"
     },
     {
@@ -31099,6 +31179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27368,
+      "num": 152137,
+      "word": "超强台风凤凰已登陆菲律宾",
+      "onboard_time": 1762698322,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27282,
       "num": 164260,
       "word": "博同情1支笔卖1980元8人被刑拘",
@@ -31377,14 +31465,6 @@
       "onboard_time": 1762428621,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 275593,
-      "word": "大眼音乐节舞台",
-      "onboard_time": 1762693582,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 24419,
@@ -31729,14 +31809,6 @@
       "onboard_time": 1762358181,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20153,
-      "num": 228518,
-      "word": "央视曝光被薅羊毛的医保卡",
-      "onboard_time": 1762697602,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 20019,

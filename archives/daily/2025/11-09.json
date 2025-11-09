@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762698159510,
+  "endTime": 1762699156699,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1165654,
+      "num": 230530,
+      "word": "那英直播质疑票数",
+      "onboard_time": 1762695861,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1098639,
       "num": 1175782,
       "word": "直播十五运开幕式",
@@ -97,14 +105,6 @@
       "onboard_time": 1762670000,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040966,
-      "num": 228508,
-      "word": "那英直播质疑票数",
-      "onboard_time": 1762695861,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 990681,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560916,
+      "num": 252999,
+      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+      "onboard_time": 1762693521,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553579,
       "num": 181605,
       "word": "最好的我们朱瑶张平演员结婚",
@@ -337,14 +345,6 @@
       "onboard_time": 1762606520,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 494372,
-      "num": 252999,
-      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
-      "onboard_time": 1762693521,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 491595,
@@ -417,6 +417,14 @@
       "onboard_time": 1762658660,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 422624,
+      "num": 220000,
+      "word": "Faker谈多兰多次失误",
+      "onboard_time": 1762697542,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 419301,
@@ -617,6 +625,14 @@
       "onboard_time": 1762677801,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318417,
+      "num": 318417,
+      "word": "火炬手郭晶晶",
+      "onboard_time": 1762695982,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 315626,
@@ -883,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233863,
+      "num": 233863,
+      "word": "央视曝光被薅羊毛的医保卡",
+      "onboard_time": 1762697602,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 233747,
       "num": 233747,
       "word": "易烊千玺不敢再接刘春和这样的角色",
@@ -891,20 +915,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232648,
+      "num": 232648,
+      "word": "单依纯好争气",
+      "onboard_time": 1762697483,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 232216,
       "num": 283812,
       "word": "光与夜之恋",
       "onboard_time": 1762662320,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228519,
-      "num": 228519,
-      "word": "火炬手郭晶晶",
-      "onboard_time": 1762695982,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 228371,
@@ -963,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219350,
-      "num": 219350,
-      "word": "Faker谈多兰多次失误",
-      "onboard_time": 1762697542,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 210895,
       "num": 1033743,
       "word": "暗河传HE得很彻底",
@@ -1011,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204906,
+      "num": 202804,
+      "word": "全运会火炬手",
+      "onboard_time": 1762696401,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204732,
       "num": 195690,
       "word": "米哈游 大丽花",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1762671439,
       "rank": 16,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 202593,
+      "num": 362605,
+      "word": "这就是今晚的广州",
+      "onboard_time": 1762688841,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 201593,
@@ -1107,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191237,
+      "num": 191237,
+      "word": "吴宜泽夺冠",
+      "onboard_time": 1762697843,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190818,
       "num": 271585,
       "word": "十五运运动员入场",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1762697002,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183793,
-      "num": 183793,
-      "word": "吴宜泽夺冠",
-      "onboard_time": 1762697843,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 183783,
@@ -1331,12 +1363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169886,
+      "num": 169886,
+      "word": "锤娜丽莎李川牵手走红毯",
+      "onboard_time": 1762696401,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166550,
       "num": 180294,
       "word": "声鸣远扬直播",
       "onboard_time": 1762690283,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166478,
+      "num": 166478,
+      "word": "王多多结束语",
+      "onboard_time": 1762698624,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 165870,
@@ -1355,20 +1403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164988,
-      "num": 164988,
-      "word": "锤娜丽莎李川牵手走红毯",
-      "onboard_time": 1762696401,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164804,
       "num": 133541,
       "word": "iG全员给wei庆生",
       "onboard_time": 1762673240,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164549,
+      "num": 172189,
+      "word": "富贵少爷万水千山我替你看到了",
+      "onboard_time": 1762698202,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 164538,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1762677440,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 154682,
-      "num": 221946,
-      "word": "单依纯好争气",
-      "onboard_time": 1762697483,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 154669,
@@ -1595,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148436,
+      "num": 167494,
+      "word": "日本海啸",
+      "onboard_time": 1762698141,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146062,
       "num": 166654,
       "word": "程靖淇被打到眼睛后坚持比赛",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1762643475,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144427,
+      "num": 144427,
+      "word": "Tabe力挺Shanks",
+      "onboard_time": 1762698922,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 141708,
@@ -1659,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139624,
-      "num": 362605,
-      "word": "这就是今晚的广州",
-      "onboard_time": 1762688841,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138910,
       "num": 182830,
       "word": "中储粮库7死事故12人被采取强制措施",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1762651579,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136614,
+      "num": 136614,
+      "word": "羊驼送洗后因毛发未吹干致失温死亡",
+      "onboard_time": 1762698922,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136158,
@@ -1763,12 +1819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129059,
+      "num": 129059,
+      "word": "岳云鹏怎么走爱豆路线了",
+      "onboard_time": 1762699043,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128648,
       "num": 128648,
       "word": "郭晶晶陈若琳手挽手",
       "onboard_time": 1762696223,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128217,
+      "num": 228417,
+      "word": "蒋欣一句话跟黄明昊和好",
+      "onboard_time": 1762697843,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 127613,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1762679900,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126747,
-      "num": 228417,
-      "word": "蒋欣一句话跟黄明昊和好",
-      "onboard_time": 1762697843,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 126281,
@@ -1827,12 +1891,28 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 124206,
+      "num": 132729,
+      "word": "鹭卓南京站官宣",
+      "onboard_time": 1762698803,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123846,
       "num": 123846,
       "word": "姜潮还在吃麦迪娜15年前的醋",
       "onboard_time": 1762674622,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123101,
+      "num": 173336,
+      "word": "医院回应骨科手术传来阵阵施工声",
+      "onboard_time": 1762697782,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122921,
@@ -1921,14 +2001,6 @@
       "onboard_time": 1762686620,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 118079,
-      "num": 173336,
-      "word": "医院回应骨科手术传来阵阵施工声",
-      "onboard_time": 1762697782,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117890,
@@ -2539,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89586,
+      "num": 222889,
+      "word": "粤港澳三地同框画面有多燃",
+      "onboard_time": 1762696161,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89574,
       "num": 89574,
       "word": "她是真的想教会你穿搭",
@@ -2755,28 +2835,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 80106,
-      "num": 222889,
-      "word": "粤港澳三地同框画面有多燃",
-      "onboard_time": 1762696161,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79703,
       "num": 164287,
       "word": "海昏侯墓里发现我国最古老锁绣",
       "onboard_time": 1762676000,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79129,
-      "num": 167494,
-      "word": "日本海啸",
-      "onboard_time": 1762698141,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78540,
@@ -3171,6 +3235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55948,
+      "num": 149064,
+      "word": "多兰队友太强随便浪",
+      "onboard_time": 1762698981,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55450,
       "num": 121306,
       "word": "faker亲签显示器拍卖",
@@ -3225,6 +3297,14 @@
       "onboard_time": 1762695203,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53987,
+      "num": 275593,
+      "word": "大眼音乐节舞台",
+      "onboard_time": 1762693582,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 53426,
@@ -3643,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27368,
+      "num": 152137,
+      "word": "超强台风凤凰已登陆菲律宾",
+      "onboard_time": 1762698322,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27173,
       "num": 65560,
       "word": "微博大眼音乐节",
@@ -3657,14 +3745,6 @@
       "onboard_time": 1762679120,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24487,
-      "num": 275593,
-      "word": "大眼音乐节舞台",
-      "onboard_time": 1762693582,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 24419,
@@ -3705,14 +3785,6 @@
       "onboard_time": 1762695082,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20153,
-      "num": 228518,
-      "word": "央视曝光被薅羊毛的医保卡",
-      "onboard_time": 1762697602,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 18664,

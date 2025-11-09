@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 22:22:39
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 22:39:16
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ KT对战T1（热度：1348771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%9B%B4%E6%92%AD%E8%B4%A8%E7%96%91%E7%A5%A8%E6%95%B0%23" target="weibo">
+那英直播质疑票数（热度：1165654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23" target="weibo">
 星巴克中国卖掉了（热度：1161342）
 </a>
@@ -551,12 +557,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%84%B1%E8%A1%A3%E8%BE%9F%E8%B0%A3%E6%8D%A2%E5%BF%83%E8%84%8F%23" target="weibo">
 李连杰脱衣辟谣换心脏（热度：1047273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%9B%B4%E6%92%AD%E8%B4%A8%E7%96%91%E7%A5%A8%E6%95%B0%23" target="weibo">
-那英直播质疑票数（热度：1040966）
 </a>
 </li>
 
@@ -1725,6 +1725,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E7%88%B8%E7%88%B8%E8%A3%85%E6%88%90%E4%B9%9E%E4%B8%90%E6%B5%8B%E8%AF%95%E5%A5%B3%E5%84%BF%E5%8F%8D%E5%BA%94%23" target="weibo">
+瑶一瑶爸爸装成乞丐测试女儿反应（热度：560916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%87%AA%E6%9B%9D%E5%8F%96%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E7%9B%98%E9%97%AE%E6%8A%A5%E8%AD%A6%23" target="weibo">
 律师自曝取款被银行盘问报警（热度：560199）
 </a>
@@ -2135,12 +2141,6 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E9%97%AF%E7%A5%B8%E4%BA%86%E5%B0%B1%E6%9D%A5%E7%9C%8B%E7%BF%81%E9%9D%92%E9%9B%85%E6%9C%B1%E7%8F%A0%23" target="weibo">
 觉得自己闯祸了就来看翁青雅朱珠（热度：494901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E7%88%B8%E7%88%B8%E8%A3%85%E6%88%90%E4%B9%9E%E4%B8%90%E6%B5%8B%E8%AF%95%E5%A5%B3%E5%84%BF%E5%8F%8D%E5%BA%94%23" target="weibo">
-瑶一瑶爸爸装成乞丐测试女儿反应（热度：494372）
 </a>
 </li>
 
@@ -2657,6 +2657,12 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%86%8D%E5%B0%B1%E4%B8%9A%23" target="weibo">
 KK园区电诈人员已开始再就业（热度：422885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E8%B0%88%E5%A4%9A%E5%85%B0%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%23" target="weibo">
+Faker谈多兰多次失误（热度：422624）
 </a>
 </li>
 
@@ -3725,6 +3731,12 @@ T1翻盘（热度：328806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%84%A6%E8%99%91%E8%BF%87%E5%BA%A6%E7%9A%84%E8%A1%A8%E7%8E%B0%23" target="weibo">
 长期焦虑过度的表现（热度：319011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%82%AC%E6%89%8B%E9%83%AD%E6%99%B6%E6%99%B6%23" target="weibo">
+火炬手郭晶晶（热度：318417）
 </a>
 </li>
 
@@ -5001,6 +5013,12 @@ DRG对战狼队（热度：239735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A2%AB%E8%96%85%E7%BE%8A%E6%AF%9B%E7%9A%84%E5%8C%BB%E4%BF%9D%E5%8D%A1%23" target="weibo">
+央视曝光被薅羊毛的医保卡（热度：233863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8D%E6%95%A2%E5%86%8D%E6%8E%A5%E5%88%98%E6%98%A5%E5%92%8C%E8%BF%99%E6%A0%B7%E7%9A%84%E8%A7%92%E8%89%B2%23" target="weibo">
 易烊千玺不敢再接刘春和这样的角色（热度：233747）
 </a>
@@ -5027,6 +5045,12 @@ DRG对战狼队（热度：239735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Tabe%E5%87%8C%E6%99%A8%E5%8F%91%E6%96%87%23" target="weibo">
 Tabe凌晨发文（热度：233114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A5%BD%E4%BA%89%E6%B0%94%23" target="weibo">
+单依纯好争气（热度：232648）
 </a>
 </li>
 
@@ -5111,12 +5135,6 @@ Peanut说LPL明年夺冠了（热度：229229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E6%88%90%E6%81%8B%E7%BB%BC%E4%BA%86%23" target="weibo">
 喜人成恋综了（热度：228588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%82%AC%E6%89%8B%E9%83%AD%E6%99%B6%E6%99%B6%23" target="weibo">
-火炬手郭晶晶（热度：228519）
 </a>
 </li>
 
@@ -5363,12 +5381,6 @@ KT对战T1决胜局（热度：222375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA2%E5%B9%B4%E6%89%A9%E5%A4%A73%E5%80%8D%23" target="weibo">
 KK园区2年扩大3倍（热度：219374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%B0%88%E5%A4%9A%E5%85%B0%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%23" target="weibo">
-Faker谈多兰多次失误（热度：219350）
 </a>
 </li>
 
@@ -5841,6 +5853,12 @@ F1（热度：205771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
+全运会火炬手（热度：204906）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%AE%A9%E7%A2%B3%E7%BA%A4%E7%BB%B4%E4%BB%B7%E6%A0%BC%E5%8E%BB%E6%8E%89%E4%B8%80%E4%B8%AA0%23" target="weibo">
 中国制造让碳纤维价格去掉一个0（热度：204901）
 </a>
@@ -5949,6 +5967,12 @@ iPhone18系列10大升级（热度：202843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BB%8A%E6%99%9A%E7%9A%84%E5%B9%BF%E5%B7%9E%23" target="weibo">
+这就是今晚的广州（热度：202593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%B0%86%E6%B4%BE%E8%87%B3%E5%8F%91%E5%B1%95%E8%81%94%E7%9B%9F%E8%BF%9B%E8%A1%8C%E8%AE%AD%E7%BB%83%23" target="weibo">
 杨瀚森将派至发展联盟进行训练（热度：202534）
 </a>
@@ -5987,30 +6011,6 @@ iPhone18系列10大升级（热度：202843）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23" target="weibo">
 月亮（热度：201636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%94%9F%E5%BF%8C%E5%A5%B3%E5%84%BF%E5%8F%91%E6%96%87%23" target="weibo">
-许绍雄生忌女儿发文（热度：201607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A2%E6%8A%8A%E6%88%91%E5%BD%93%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%AE%A0%E4%BA%86%23" target="weibo">
-惊天魔盗团把我当自己人宠了（热度：201593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%90%8E%E7%9A%84%E5%B0%B1%E4%B8%9A%E6%96%B9%E5%90%91%23" target="weibo">
-35岁后的就业方向（热度：201497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%E5%BC%80%E6%92%AD%23" target="weibo">
-四喜开播（热度：201238）
 </a>
 </li>
 
