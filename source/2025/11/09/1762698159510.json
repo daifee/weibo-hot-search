@@ -1,0 +1,410 @@
+{
+  "runTime": 1762698159510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714315,
+        "num": 1114290,
+        "word": "周深单依纯 好听",
+        "onboard_time": 1762695861,
+        "rank": 0,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 697904,
+        "num": 697904,
+        "word": "十五运开幕式直播",
+        "onboard_time": 1762692442,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216553,
+        "num": 538031,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458021,
+        "num": 458021,
+        "word": "全运会主火炬点燃",
+        "onboard_time": 1762694842,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422753,
+        "num": 422753,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393547,
+        "num": 393547,
+        "word": "全运会烟花",
+        "onboard_time": 1762693341,
+        "rank": 5,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 281958,
+        "num": 281958,
+        "word": "刘德华再唱中国人",
+        "onboard_time": 1762694481,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 249325,
+        "num": 249325,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228519,
+        "num": 228519,
+        "word": "火炬手郭晶晶",
+        "onboard_time": 1762695982,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20153,
+        "num": 228518,
+        "word": "央视曝光被薅羊毛的医保卡",
+        "onboard_time": 1762697602,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1040966,
+        "num": 228508,
+        "word": "那英直播质疑票数",
+        "onboard_time": 1762695861,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890784,
+        "num": 228497,
+        "word": "长公主 磨皮",
+        "onboard_time": 1762691724,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730229,
+        "num": 228484,
+        "word": "T1三连冠",
+        "onboard_time": 1762690403,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 494372,
+        "num": 228473,
+        "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+        "onboard_time": 1762693521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428806,
+        "num": 228465,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 327605,
+        "num": 228456,
+        "word": "T1 宙斯",
+        "onboard_time": 1762691904,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 324651,
+        "num": 228443,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1762693521,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299864,
+        "num": 228433,
+        "word": "大湾仔陈小春快入编了吧",
+        "onboard_time": 1762693461,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126747,
+        "num": 228417,
+        "word": "蒋欣一句话跟黄明昊和好",
+        "onboard_time": 1762697843,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94998,
+        "num": 228408,
+        "word": "京东国民好车10万以下续航王者",
+        "onboard_time": 1762697363,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20336,
+        "num": 228402,
+        "word": "大眼音乐节舞台",
+        "onboard_time": 1762693582,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 599050,
+        "num": 228391,
+        "word": "澳大利亚偶遇何超莲窦骁",
+        "onboard_time": 1762689920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293435,
+        "num": 228377,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228371,
+        "num": 228371,
+        "word": "吴宣仪 欢迎大家来审判我",
+        "onboard_time": 1762689740,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224872,
+        "num": 224872,
+        "word": "全场大合唱中国人",
+        "onboard_time": 1762697662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100129,
+        "num": 224609,
+        "word": "大眼音乐节阵容太顶了",
+        "onboard_time": 1762697242,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209400,
+        "num": 223841,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195936,
+        "num": 223231,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80106,
+        "num": 222889,
+        "word": "粤港澳三地同框画面有多燃",
+        "onboard_time": 1762696161,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154682,
+        "num": 221946,
+        "word": "单依纯好争气",
+        "onboard_time": 1762697483,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 221650,
+        "num": 221650,
+        "word": "这个就是淋巴肉",
+        "onboard_time": 1762692142,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 219350,
+        "num": 219350,
+        "word": "Faker谈多兰多次失误",
+        "onboard_time": 1762697542,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207230,
+        "num": 207230,
+        "word": "4种水果其实是高糖刺客",
+        "onboard_time": 1762697002,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187424,
+        "num": 187424,
+        "word": "T1赛后发博",
+        "onboard_time": 1762697002,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152140,
+        "num": 185586,
+        "word": "佘诗曼一说港普气场就对了",
+        "onboard_time": 1762697483,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183793,
+        "num": 183793,
+        "word": "吴宜泽夺冠",
+        "onboard_time": 1762697843,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28365,
+        "num": 175210,
+        "word": "石凯音乐节神图有了",
+        "onboard_time": 1762693582,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173991,
+        "num": 173991,
+        "word": "马琳陈若琳第一棒",
+        "onboard_time": 1762696102,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118079,
+        "num": 173336,
+        "word": "医院回应骨科手术传来阵阵施工声",
+        "onboard_time": 1762697782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119538,
+        "num": 171318,
+        "word": "后台T1教练组有人已在吸氧",
+        "onboard_time": 1762697182,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79129,
+        "num": 167494,
+        "word": "日本海啸",
+        "onboard_time": 1762698141,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42979,
+        "num": 166567,
+        "word": "唐诡樱桃打的越来越狠了",
+        "onboard_time": 1762696942,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164988,
+        "num": 164988,
+        "word": "锤娜丽莎李川牵手走红毯",
+        "onboard_time": 1762696401,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164152,
+        "num": 164152,
+        "word": "吴宜泽10比6希金斯",
+        "onboard_time": 1762697722,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156264,
+        "num": 156264,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154319,
+        "num": 154319,
+        "word": "全运会吉祥物",
+        "onboard_time": 1762697662,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153516,
+        "num": 153516,
+        "word": "Faker六冠王",
+        "onboard_time": 1762690584,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133433,
+        "num": 133433,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129452,
+        "num": 129452,
+        "word": "全运会开幕式预热致敬马龙陈梦",
+        "onboard_time": 1762698141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128648,
+        "num": 128648,
+        "word": "郭晶晶陈若琳手挽手",
+        "onboard_time": 1762696223,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励他们奋力拼搏再创佳绩#"
+    }
+  }
+}

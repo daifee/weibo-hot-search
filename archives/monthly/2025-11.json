@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762695705541,
+  "endTime": 1762698159510,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -721,6 +721,14 @@
       "onboard_time": 1762670000,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1040966,
+      "num": 228508,
+      "word": "那英直播质疑票数",
+      "onboard_time": 1762695861,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1038127,
@@ -1449,6 +1457,14 @@
       "onboard_time": 1762148600,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 714315,
+      "num": 1114290,
+      "word": "周深单依纯 好听",
+      "onboard_time": 1762695861,
+      "rank": 0,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 712077,
@@ -2817,6 +2833,14 @@
       "onboard_time": 1762001481,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494372,
+      "num": 252999,
+      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
+      "onboard_time": 1762693521,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494340,
@@ -4300,7 +4324,7 @@
     },
     {
       "raw_hot": 359653,
-      "num": 281282,
+      "num": 281958,
       "word": "刘德华再唱中国人",
       "onboard_time": 1762694481,
       "rank": 9,
@@ -4827,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324651,
+      "num": 249190,
+      "word": "蔡徐坤音乐节",
+      "onboard_time": 1762693521,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324151,
       "num": 192529,
       "word": "程潇被刀划伤手",
@@ -5273,6 +5305,14 @@
       "onboard_time": 1762525881,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299864,
+      "num": 228433,
+      "word": "大湾仔陈小春快入编了吧",
+      "onboard_time": 1762693461,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 299738,
@@ -6187,14 +6227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252999,
-      "num": 252999,
-      "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
-      "onboard_time": 1762693521,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251735,
       "num": 504212,
       "word": "4岁男童药店打针呕吐抽搐后死亡",
@@ -6273,14 +6305,6 @@
       "onboard_time": 1761979520,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249190,
-      "num": 249190,
-      "word": "蔡徐坤音乐节",
-      "onboard_time": 1762693521,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 248398,
@@ -6779,6 +6803,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "火炬手郭晶晶",
+      "onboard_time": 1762695982,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228371,
+      "num": 228371,
+      "word": "吴宣仪 欢迎大家来审判我",
+      "onboard_time": 1762689740,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228299,
       "num": 206333,
       "word": "AL的含金量还在上升",
@@ -6792,14 +6832,6 @@
       "word": "包上恩更新ins",
       "onboard_time": 1761971239,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 228197,
-      "num": 228197,
-      "word": "大湾仔陈小春快入编了吧",
-      "onboard_time": 1762693461,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -6891,14 +6923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225107,
-      "num": 225107,
-      "word": "吴宣仪 欢迎大家来审判我",
-      "onboard_time": 1762689740,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225042,
       "num": 225042,
       "word": "美国付费坐牢",
@@ -6913,6 +6937,14 @@
       "onboard_time": 1762059680,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224872,
+      "num": 224872,
+      "word": "全场大合唱中国人",
+      "onboard_time": 1762697662,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 224814,
@@ -7105,6 +7137,14 @@
       "onboard_time": 1762270639,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "Faker谈多兰多次失误",
+      "onboard_time": 1762697542,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 219276,
@@ -7593,6 +7633,14 @@
       "onboard_time": 1762412780,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207230,
+      "num": 207230,
+      "word": "4种水果其实是高糖刺客",
+      "onboard_time": 1762697002,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207006,
@@ -8827,6 +8875,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 187424,
+      "num": 187424,
+      "word": "T1赛后发博",
+      "onboard_time": 1762697002,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187396,
       "num": 238625,
       "word": "皮皮朱方声明",
@@ -9072,6 +9128,14 @@
       "word": "直击樊振东备战全运现场",
       "onboard_time": 1762600580,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183793,
+      "num": 183793,
+      "word": "吴宜泽夺冠",
+      "onboard_time": 1762697843,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -9681,6 +9745,14 @@
       "onboard_time": 1762440443,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173991,
+      "num": 173991,
+      "word": "马琳陈若琳第一棒",
+      "onboard_time": 1762696102,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 173857,
@@ -10387,6 +10459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164988,
+      "num": 164988,
+      "word": "锤娜丽莎李川牵手走红毯",
+      "onboard_time": 1762696401,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164910,
       "num": 164910,
       "word": "你见过凌晨的东北早市吗",
@@ -10497,6 +10577,14 @@
       "onboard_time": 1762125258,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164152,
+      "num": 164152,
+      "word": "吴宜泽10比6希金斯",
+      "onboard_time": 1762697722,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 164103,
@@ -11323,6 +11411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154682,
+      "num": 221946,
+      "word": "单依纯好争气",
+      "onboard_time": 1762697483,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 154669,
       "num": 145520,
       "word": "刘雨昕感谢王嘉尔等她彩排",
@@ -11361,6 +11457,14 @@
       "onboard_time": 1761990921,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154319,
+      "num": 154319,
+      "word": "全运会吉祥物",
+      "onboard_time": 1762697662,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154294,
@@ -11593,6 +11697,14 @@
       "onboard_time": 1761988522,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152140,
+      "num": 185586,
+      "word": "佘诗曼一说港普气场就对了",
+      "onboard_time": 1762697483,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 152095,
@@ -14267,6 +14379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129452,
+      "num": 129452,
+      "word": "全运会开幕式预热致敬马龙陈梦",
+      "onboard_time": 1762698141,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129430,
       "num": 129430,
       "word": "中国航天员烧烤外国网友看呆了",
@@ -14377,6 +14497,14 @@
       "onboard_time": 1762600641,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128648,
+      "num": 128648,
+      "word": "郭晶晶陈若琳手挽手",
+      "onboard_time": 1762696223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128614,
@@ -14641,6 +14769,14 @@
       "onboard_time": 1762363396,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126747,
+      "num": 228417,
+      "word": "蒋欣一句话跟黄明昊和好",
+      "onboard_time": 1762697843,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 126722,
@@ -15771,6 +15907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119538,
+      "num": 171318,
+      "word": "后台T1教练组有人已在吸氧",
+      "onboard_time": 1762697182,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119411,
       "num": 119411,
       "word": "沟通能力强的人说话顺序是这样的",
@@ -16001,6 +16145,14 @@
       "onboard_time": 1762063221,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118079,
+      "num": 173336,
+      "word": "医院回应骨科手术传来阵阵施工声",
+      "onboard_time": 1762697782,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117997,
@@ -19643,6 +19795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100129,
+      "num": 224609,
+      "word": "大眼音乐节阵容太顶了",
+      "onboard_time": 1762697242,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100123,
       "num": 100123,
       "word": "有这么妈味十足的剧进入内娱",
@@ -20953,6 +21113,14 @@
       "onboard_time": 1762355541,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 94998,
+      "num": 228408,
+      "word": "京东国民好车10万以下续航王者",
+      "onboard_time": 1762697363,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 94993,
@@ -24947,6 +25115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80106,
+      "num": 222889,
+      "word": "粤港澳三地同框画面有多燃",
+      "onboard_time": 1762696161,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80090,
       "num": 118263,
       "word": "屠颖已在广州火化",
@@ -25113,6 +25289,14 @@
       "onboard_time": 1761964940,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79129,
+      "num": 167494,
+      "word": "日本海啸",
+      "onboard_time": 1762698141,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79063,
@@ -29539,6 +29723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42979,
+      "num": 166567,
+      "word": "唐诡樱桃打的越来越狠了",
+      "onboard_time": 1762696942,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42785,
       "num": 110202,
       "word": "国考抢考点",
@@ -31537,6 +31729,14 @@
       "onboard_time": 1762358181,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20153,
+      "num": 228518,
+      "word": "央视曝光被薅羊毛的医保卡",
+      "onboard_time": 1762697602,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 20019,
