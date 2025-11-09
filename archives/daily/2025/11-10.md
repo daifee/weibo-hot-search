@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 05:22:28
+本榜单时间：2025/11/10 00:29:27 ~ 2025/11/10 05:36:47
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ T1回应夺冠（热度：35774）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
+开幕式6棒火炬手（热度：19090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%88%91%E7%9A%84%E7%A7%8B%E6%97%A5%E7%94%B7%E5%8F%8B%23" target="weibo">
 杨洋我的秋日男友（热度：18214）
 </a>
@@ -389,12 +395,6 @@ T1回应夺冠（热度：35774）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E7%8E%8B%E5%98%89%E5%B0%94BUCK%E7%8E%B0%E5%9C%BA%E5%B0%B1%E5%BE%97%E8%B9%A6%23" target="weibo">
 听王嘉尔BUCK现场就得蹦（热度：17209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
-开幕式6棒火炬手（热度：17006）
 </a>
 </li>
 
