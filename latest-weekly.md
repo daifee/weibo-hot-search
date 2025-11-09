@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/09 14:36:12
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/09 14:48:25
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%89%BA%E4%BA%BA%E7%A9%BF%E7%9D%80%E8%A3%99%E5%AD%90%E8%B7%AA%E5%89%8D%E8%BE%B9%E6%8B%8D%E7%85%A7%23" target="weibo">
+女艺人穿着裙子跪前边拍照（热度：1014013）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E5%8D%97%E4%BA%AC15%E6%AD%BB%E7%81%AB%E7%81%BE%E7%8E%B0%E5%9C%BA%23" target="weibo">
@@ -69,12 +75,6 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%89%BA%E4%BA%BA%E7%A9%BF%E7%9D%80%E8%A3%99%E5%AD%90%E8%B7%AA%E5%89%8D%E8%BE%B9%E6%8B%8D%E7%85%A7%23" target="weibo">
-女艺人穿着裙子跪前边拍照（热度：579862）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%8C%E5%85%AC%E5%BC%80%E5%BD%95%E9%9F%B3%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23" target="weibo">
 古二公开录音涉嫌违法（热度：575749）
 </a>
@@ -101,6 +101,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E7%9D%A1%E7%9D%80%E6%97%B6%E8%BA%AB%E4%BD%93%E6%8A%96%E4%BA%86%E4%B8%80%E4%B8%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 快睡着时身体抖了一下的原因（热度：518830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%84%B1%E8%A1%A3%E8%BE%9F%E8%B0%A3%E6%8D%A2%E5%BF%83%E8%84%8F%23" target="weibo">
+李连杰脱衣辟谣换心脏（热度：518630）
 </a>
 </li>
 
@@ -465,6 +471,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+2025全球总决赛（热度：157310）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%AF%94%E8%84%B8%E6%9B%B4%E8%AF%A5%E7%94%B3%E9%81%97%E7%9A%84%E6%98%AF%E8%BF%99%E5%BC%A0%E5%98%B4%23" target="weibo">
 鹿晗比脸更该申遗的是这张嘴（热度：157179）
 </a>
@@ -473,6 +485,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%A4%A7%E5%AD%A6%E6%8E%88%E8%AF%BE%E7%B4%A0%E6%9D%90%E6%98%AF%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 尹子维大学授课素材是许我耀眼名场面（热度：156520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%84%9F%E8%B0%A2%E7%8E%8B%E5%98%89%E5%B0%94%E7%AD%89%E5%A5%B9%E5%BD%A9%E6%8E%92%23" target="weibo">
+刘雨昕感谢王嘉尔等她彩排（热度：154669）
 </a>
 </li>
 
@@ -525,6 +543,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E4%BD%95%E8%B6%85%E4%BA%91%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
+疑似何超云新恋情（热度：140799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%8A%E5%9D%8A%E4%B8%80%E5%BD%A9%E6%B0%91%E8%8A%B115%E5%85%83%E4%B8%AD7397%E4%B8%87%E5%A4%A7%E5%A5%96%23" target="weibo">
 廊坊一彩民花15元中7397万大奖（热度：140286）
 </a>
@@ -549,26 +573,26 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%84%9F%E8%B0%A2%E7%8E%8B%E5%98%89%E5%B0%94%E7%AD%89%E5%A5%B9%E5%BD%A9%E6%8E%92%23" target="weibo">
-刘雨昕感谢王嘉尔等她彩排（热度：131241）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E4%B8%8D%E8%AE%B8%E5%86%99%E5%B0%8F%E8%AF%B4%23" target="weibo">
+山东人不许写小说（热度：133751）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-2025全球总决赛（热度：124867）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E5%87%BA%E6%88%98%E6%8A%A5%E9%80%9F%E5%BA%A6%E9%83%BD%E8%B7%9F%E4%B8%8D%E4%B8%8A%E7%83%AD%E5%BA%A6%E4%BA%86%23" target="weibo">
+唐诡出战报速度都跟不上热度了（热度：132918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E7%B4%AF%E7%9A%84%E6%97%B6%E5%80%99%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%8A%9E%E6%B3%95%E9%A1%BE%E5%8F%8A%E5%88%AB%E4%BA%BA%23" target="weibo">
+人在累的时候真的没办法顾及别人（热度：126281）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23" target="weibo">
 梅西梅开二度（热度：124708）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E7%B4%AF%E7%9A%84%E6%97%B6%E5%80%99%E7%9C%9F%E7%9A%84%E6%B2%A1%E5%8A%9E%E6%B3%95%E9%A1%BE%E5%8F%8A%E5%88%AB%E4%BA%BA%23" target="weibo">
-人在累的时候真的没办法顾及别人（热度：121636）
 </a>
 </li>
 
@@ -615,12 +639,6 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E4%B8%8D%E8%AE%B8%E5%86%99%E5%B0%8F%E8%AF%B4%23" target="weibo">
-山东人不许写小说（热度：116666）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E5%AF%B9%E7%9D%80%E5%B8%88%E5%85%84%E6%B5%B7%E6%8A%A5%E6%89%93%E6%8B%9B%E5%91%BC%23" target="weibo">
 陈浚铭对着师兄海报打招呼（热度：116317）
 </a>
@@ -657,6 +675,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E7%AB%9F%E7%84%B6%E6%AF%94%E5%96%9D%E6%B2%B9%E8%BF%98%E9%95%BF%E8%82%89%23" target="weibo">
+这些食物竟然比喝油还长肉（热度：112156）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%9C%80%E6%96%B0%E6%94%AF%E6%8C%81%E7%8E%87%E5%87%BA%E7%82%89%23" target="weibo">
 普京最新支持率出炉（热度：111684）
 </a>
@@ -677,12 +701,6 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%85%A7%E7%89%87%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%8F%91%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 这些照片千万不要发在朋友圈（热度：110326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E4%BD%95%E8%B6%85%E4%BA%91%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
-疑似何超云新恋情（热度：110314）
 </a>
 </li>
 
@@ -795,6 +813,12 @@ Lehends说明年会是最后一年（热度：104283）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E6%BC%94%E5%87%BA%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BB%9D%E6%9C%9B%23" target="weibo">
+郭俊辰演出了真正的绝望（热度：96909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E4%B8%8ET1%E5%85%A8%E9%98%9F%E5%90%88%E5%BD%B1%23" target="weibo">
 邓紫棋与T1全队合影（热度：94538）
 </a>
@@ -873,6 +897,12 @@ Lehends说明年会是最后一年（热度：104283）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9E%8B%E7%A7%8020%E5%91%A8%E5%B9%B4%E5%86%8D%E5%94%B1%E8%AE%A4%E7%9C%9F%E7%9A%84%E9%9B%AA%23" target="weibo">
+薛之谦型秀20周年再唱认真的雪（热度：88646）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%B4%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9A%84%E5%86%B2%E5%87%BB%E5%8A%9B%23" target="weibo">
 谁懂黄景瑜说我喜欢你的冲击力（热度：88639）
 </a>
@@ -899,12 +929,6 @@ Lehends说明年会是最后一年（热度：104283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%98%B4%E4%B8%8A%E6%88%91%E4%B8%8D%E8%A1%8C%E6%89%8B%E4%B8%8B%E6%88%91%E7%9C%8B%E7%9C%8B%23" target="weibo">
 王安宇嘴上我不行手下我看看（热度：87714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%84%B1%E8%A1%A3%E8%BE%9F%E8%B0%A3%E6%8D%A2%E5%BF%83%E8%84%8F%23" target="weibo">
-李连杰脱衣辟谣换心脏（热度：87106）
 </a>
 </li>
 
@@ -981,8 +1005,8 @@ Lehends说明年会是最后一年（热度：104283）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E6%BC%94%E5%87%BA%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BB%9D%E6%9C%9B%23" target="weibo">
-郭俊辰演出了真正的绝望（热度：78466）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
+英雄联盟（热度：78508）
 </a>
 </li>
 
@@ -1191,6 +1215,12 @@ Lehends说明年会是最后一年（热度：104283）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%8E%E5%B0%8F%E5%B0%B1%E4%B8%8D%E6%9C%8D%E8%BE%93%23" target="weibo">
+王楚钦从小就不服输（热度：50938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E7%AA%81%E7%A0%B4%E4%BC%A0%E7%BB%9F%E6%83%B3%E8%B1%A1%23" target="weibo">
 中国籍机器人已突破传统想象（热度：49962）
 </a>
@@ -1365,6 +1395,12 @@ F1（热度：32426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%80%E9%97%A8%E5%BA%97%E5%92%96%E5%95%A1%E9%99%8D%E8%87%B320%E5%85%83%E5%86%85%23" target="weibo">
+人民咖啡馆一门店咖啡降至20元内（热度：23048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B0%E6%AD%8C%E8%8B%A5%E6%B2%A1%E6%9C%89%E4%BD%A0%23" target="weibo">
 刘宇宁新歌若没有你（热度：17236）
 </a>
@@ -1385,12 +1421,6 @@ F1（热度：32426）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%8A%A2%E5%85%88%E4%B8%80%E4%B8%AA%E8%93%9DBUFF%23" target="weibo">
 狼队抢先一个蓝BUFF（热度：14037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%80%E9%97%A8%E5%BA%97%E5%92%96%E5%95%A1%E9%99%8D%E8%87%B320%E5%85%83%E5%86%85%23" target="weibo">
-人民咖啡馆一门店咖啡降至20元内（热度：13577）
 </a>
 </li>
 

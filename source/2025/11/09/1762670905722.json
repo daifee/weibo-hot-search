@@ -1,0 +1,410 @@
+{
+  "runTime": 1762670905722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 360615,
+        "num": 1057698,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304548,
+        "num": 304548,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28321,
+        "num": 248114,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241713,
+        "num": 241713,
+        "word": "中国渔船公海倾覆画面曝光",
+        "onboard_time": 1762667118,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 299356,
+        "num": 209365,
+        "word": "唐诡热度",
+        "onboard_time": 1762665258,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157310,
+        "num": 157310,
+        "word": "2025全球总决赛",
+        "onboard_time": 1762668620,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257408,
+        "num": 156688,
+        "word": "吴磊李宛妲剑来领衔主演",
+        "onboard_time": 1762665920,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96809,
+        "num": 155970,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90108,
+        "num": 155615,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78508,
+        "num": 154873,
+        "word": "英雄联盟",
+        "onboard_time": 1762670840,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 518630,
+        "num": 153851,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518033,
+        "num": 153199,
+        "word": "离婚也要争婆婆的抚养权",
+        "onboard_time": 1762666340,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372685,
+        "num": 152691,
+        "word": "关晓彤我猜你一定也会想念吧",
+        "onboard_time": 1762667179,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76982,
+        "num": 152000,
+        "word": "罗小黑动画要出新作了",
+        "onboard_time": 1762668440,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 308625,
+        "num": 151218,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258939,
+        "num": 150648,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180790,
+        "num": 149888,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149696,
+        "num": 149696,
+        "word": "剑来",
+        "onboard_time": 1762664360,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132918,
+        "num": 142578,
+        "word": "唐诡出战报速度都跟不上热度了",
+        "onboard_time": 1762670240,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79765,
+        "num": 142098,
+        "word": "袁励岑4比3周启豪",
+        "onboard_time": 1762669100,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1014013,
+        "num": 142050,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141958,
+        "num": 141958,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126271,
+        "num": 141875,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23048,
+        "num": 141806,
+        "word": "人民咖啡馆一门店咖啡降至20元内",
+        "onboard_time": 1762669580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649811,
+        "num": 141704,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301861,
+        "num": 141550,
+        "word": "61岁关咏荷状态",
+        "onboard_time": 1762667781,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154669,
+        "num": 141396,
+        "word": "刘雨昕感谢王嘉尔等她彩排",
+        "onboard_time": 1762669700,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106523,
+        "num": 141340,
+        "word": "黄明昊特别主演剑来",
+        "onboard_time": 1762669700,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61945,
+        "num": 141221,
+        "word": "和王一博成毅任嘉伦一起关注消防安全",
+        "onboard_time": 1762666040,
+        "rank": 28,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 54323,
+        "num": 141076,
+        "word": "超强台风凤凰预计还会增强",
+        "onboard_time": 1762663639,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 238718,
+        "num": 140989,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202252,
+        "num": 140864,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 31,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 140799,
+        "num": 140799,
+        "word": "疑似何超云新恋情",
+        "onboard_time": 1762669760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133751,
+        "num": 133751,
+        "word": "山东人不许写小说",
+        "onboard_time": 1762666040,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129953,
+        "num": 129953,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126281,
+        "num": 126281,
+        "word": "人在累的时候真的没办法顾及别人",
+        "onboard_time": 1762669100,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93302,
+        "num": 115475,
+        "word": "新闻女王2港百",
+        "onboard_time": 1762669280,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112156,
+        "num": 112156,
+        "word": "这些食物竟然比喝油还长肉",
+        "onboard_time": 1762670420,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109811,
+        "num": 109811,
+        "word": "普京最新支持率出炉",
+        "onboard_time": 1762669160,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99948,
+        "num": 99948,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98599,
+        "num": 98599,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96909,
+        "num": 96909,
+        "word": "郭俊辰演出了真正的绝望",
+        "onboard_time": 1762669880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96003,
+        "num": 96003,
+        "word": "廊坊一彩民花15元中7397万大奖",
+        "onboard_time": 1762660219,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95714,
+        "num": 95714,
+        "word": "宋亚轩关晓彤居然在彼此的题库里",
+        "onboard_time": 1762667118,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88646,
+        "num": 88646,
+        "word": "薛之谦型秀20周年再唱认真的雪",
+        "onboard_time": 1762670660,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85543,
+        "num": 85543,
+        "word": "米哈游回应新角色大丽花争议",
+        "onboard_time": 1762659680,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85389,
+        "num": 85389,
+        "word": "网红博主建议对明星祛魅",
+        "onboard_time": 1762662141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81435,
+        "num": 81435,
+        "word": "隆妮新剧官宣高智感溢出屏幕了",
+        "onboard_time": 1762669459,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80323,
+        "num": 80323,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50938,
+        "num": 80268,
+        "word": "王楚钦从小就不服输",
+        "onboard_time": 1762669220,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记关心的土特产#"
+    }
+  }
+}
