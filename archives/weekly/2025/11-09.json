@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762708897205,
+  "endTime": 1762709880407,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -3651,6 +3651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48411,
+      "num": 48411,
+      "word": "海啸已抵达日本本州岛",
+      "onboard_time": 1762708037,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48195,
       "num": 312454,
       "word": "总要来趟高淳吧",
@@ -3809,14 +3817,6 @@
       "onboard_time": 1762696942,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42960,
-      "num": 48125,
-      "word": "海啸已抵达日本本州岛",
-      "onboard_time": 1762708037,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 42227,

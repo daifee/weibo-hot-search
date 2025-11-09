@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 01:21:37
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/10 01:38:00
 </p>
 </blockquote>
 <p>
@@ -2751,6 +2751,12 @@ faker亲签显示器拍卖（热度：55450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
+海啸已抵达日本本州岛（热度：48411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A6%81%E6%9D%A5%E8%B6%9F%E9%AB%98%E6%B7%B3%E5%90%A7%23" target="weibo">
 总要来趟高淳吧（热度：48195）
 </a>
@@ -2867,12 +2873,6 @@ faker亲签显示器拍卖（热度：55450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E6%A8%B1%E6%A1%83%E6%89%93%E7%9A%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%8B%A0%E4%BA%86%23" target="weibo">
 唐诡樱桃打的越来越狠了（热度：42979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23" target="weibo">
-海啸已抵达日本本州岛（热度：42960）
 </a>
 </li>
 
