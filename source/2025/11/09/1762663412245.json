@@ -1,0 +1,410 @@
+{
+  "runTime": 1762663412245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629192,
+        "num": 1100670,
+        "word": "Faker说BLG是冠军",
+        "onboard_time": 1762660639,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337280,
+        "num": 337280,
+        "word": "易烊千玺回应大学期间没接戏",
+        "onboard_time": 1762657759,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35256,
+        "num": 281863,
+        "word": "十五运今天开幕",
+        "onboard_time": 1762659800,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232216,
+        "num": 232216,
+        "word": "光与夜之恋",
+        "onboard_time": 1762662320,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192150,
+        "num": 192150,
+        "word": "唐诡",
+        "onboard_time": 1762663099,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174181,
+        "num": 174181,
+        "word": "台湾民众高喊我们都是中国人",
+        "onboard_time": 1762649480,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140197,
+        "num": 174175,
+        "word": "俄军将攻占乌克兰第三首都",
+        "onboard_time": 1762657339,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125929,
+        "num": 173935,
+        "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+        "onboard_time": 1762662979,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115337,
+        "num": 173871,
+        "word": "中国渔船在韩附近公海倾覆3人失踪",
+        "onboard_time": 1762660880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 173676,
+        "word": "天地剑心王权富贵继任王权家主",
+        "onboard_time": 1762660279,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628924,
+        "num": 173627,
+        "word": "网传张若昀唐嫣新剧延期开机",
+        "onboard_time": 1762660700,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453184,
+        "num": 173397,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1762649060,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376017,
+        "num": 173336,
+        "word": "人一旦拥有了电动车",
+        "onboard_time": 1762658660,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323667,
+        "num": 173234,
+        "word": "陈数曾经两年内没有吃过水果",
+        "onboard_time": 1762653022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273285,
+        "num": 173122,
+        "word": "张家界100人荒野求生仅剩一名女性",
+        "onboard_time": 1762655840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250864,
+        "num": 172966,
+        "word": "央视披露南京15死火灾现场",
+        "onboard_time": 1762649178,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132426,
+        "num": 172785,
+        "word": "易烊千玺不敢再接刘春和这样的角色",
+        "onboard_time": 1762656740,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102120,
+        "num": 172633,
+        "word": "十五运开幕式演出阵容",
+        "onboard_time": 1762649538,
+        "rank": 17,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 79836,
+        "num": 172595,
+        "word": "梅西梅开二度",
+        "onboard_time": 1762656979,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172470,
+        "num": 172470,
+        "word": "米哈游 大丽花",
+        "onboard_time": 1762654819,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 811816,
+        "num": 171787,
+        "word": "李连杰状态",
+        "onboard_time": 1762657519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318781,
+        "num": 171399,
+        "word": "早春晴朗井柏然孙千车内拥吻",
+        "onboard_time": 1762653799,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283016,
+        "num": 169679,
+        "word": "最好的我们朱瑶张平演员结婚",
+        "onboard_time": 1762661779,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271269,
+        "num": 169277,
+        "word": "那英卡地亚晚宴",
+        "onboard_time": 1762652480,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240208,
+        "num": 168649,
+        "word": "白鹿cha香水有毒",
+        "onboard_time": 1762657100,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13486,
+        "num": 166852,
+        "word": "开具离职证明受阻乱象调查",
+        "onboard_time": 1762663099,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213235,
+        "num": 166342,
+        "word": "TVB演员众筹150万给妻子治病",
+        "onboard_time": 1762662020,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 165870,
+        "num": 165870,
+        "word": "大张伟你去跟林一坐一桌",
+        "onboard_time": 1762663099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165710,
+        "num": 165710,
+        "word": "宋祖儿请粉丝吃烤梨和饭",
+        "onboard_time": 1762661240,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87703,
+        "num": 162279,
+        "word": "孙颖莎樊振东等今昔对比",
+        "onboard_time": 1762661120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160995,
+        "num": 160995,
+        "word": "只有女生才懂的暴爽瞬间",
+        "onboard_time": 1762652659,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140286,
+        "num": 140286,
+        "word": "廊坊一彩民花15元中7397万大奖",
+        "onboard_time": 1762660219,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128888,
+        "num": 128888,
+        "word": "时代少年团新歌这一程预告",
+        "onboard_time": 1762659980,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121292,
+        "num": 121292,
+        "word": "贾冰菜一出锅沈腾拿着筷子就来了",
+        "onboard_time": 1762662260,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69914,
+        "num": 121286,
+        "word": "人民咖啡馆更名",
+        "onboard_time": 1762611622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99051,
+        "num": 121281,
+        "word": "暗河传HE得很彻底",
+        "onboard_time": 1762655181,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70445,
+        "num": 121280,
+        "word": "粉笔模考",
+        "onboard_time": 1762663220,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121280,
+        "num": 121279,
+        "word": "米哈游回应新角色大丽花争议",
+        "onboard_time": 1762659680,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15749,
+        "num": 120793,
+        "word": "张峻豪突然开始鞠躬",
+        "onboard_time": 1762662622,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "假奶皮子糖葫芦受害者",
+        "onboard_time": 1762660460,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 117732,
+        "word": "网红博主建议对明星祛魅",
+        "onboard_time": 1762662141,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106782,
+        "num": 106782,
+        "word": "终于知道为什么云贵川没有僵尸了",
+        "onboard_time": 1762649060,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65120,
+        "num": 106320,
+        "word": "渔船倾覆已致2人死亡3人失踪",
+        "onboard_time": 1762661960,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106305,
+        "num": 106305,
+        "word": "各地方言都有自己的龙丫头",
+        "onboard_time": 1762663160,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104368,
+        "num": 104368,
+        "word": "鲁豫 此刻我不好过别人也未必好过",
+        "onboard_time": 1762660460,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82664,
+        "num": 94409,
+        "word": "声鸣远扬主持人官宣",
+        "onboard_time": 1762661900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90159,
+        "num": 90159,
+        "word": "那英你怎么陷害宋佳",
+        "onboard_time": 1762650319,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89139,
+        "num": 89139,
+        "word": "容祖儿 昆山属不属于上海",
+        "onboard_time": 1762654339,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88969,
+        "num": 88969,
+        "word": "印度警察把轮奸案名单变为创收项目",
+        "onboard_time": 1762648879,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86216,
+        "num": 86216,
+        "word": "猫是好猫就是上不去网",
+        "onboard_time": 1762660758,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育强国梦#"
+    }
+  }
+}

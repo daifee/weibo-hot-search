@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762662591372,
+  "endTime": 1762663412245,
   "band_list": [
     {
       "raw_hot": 914031,
@@ -59,6 +59,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 628924,
+      "num": 195229,
+      "word": "网传张若昀唐嫣新剧延期开机",
+      "onboard_time": 1762660700,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604356,
       "num": 206584,
       "word": "易烊千玺给王源送生日祝福了",
@@ -105,14 +113,6 @@
       "onboard_time": 1762613003,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 441097,
-      "num": 195229,
-      "word": "网传张若昀唐嫣新剧延期开机",
-      "onboard_time": 1762660700,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 429461,
@@ -275,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283016,
+      "num": 169679,
+      "word": "最好的我们朱瑶张平演员结婚",
+      "onboard_time": 1762661779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279728,
       "num": 279728,
       "word": "第一支在鸟巢夺冠的中国战队",
@@ -323,6 +331,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 232216,
+      "num": 232216,
+      "word": "光与夜之恋",
+      "onboard_time": 1762662320,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224720,
       "num": 224720,
       "word": "唐朝诡事录热度",
@@ -337,6 +353,14 @@
       "onboard_time": 1762611622,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213235,
+      "num": 166342,
+      "word": "TVB演员众筹150万给妻子治病",
+      "onboard_time": 1762662020,
+      "rank": 30,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 210895,
@@ -403,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192150,
+      "num": 192150,
+      "word": "唐诡",
+      "onboard_time": 1762663099,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176725,
       "num": 206821,
       "word": "一诺这是我们的时代",
@@ -425,6 +457,22 @@
       "onboard_time": 1762619600,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165870,
+      "num": 165870,
+      "word": "大张伟你去跟林一坐一桌",
+      "onboard_time": 1762663099,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165710,
+      "num": 165710,
+      "word": "宋祖儿请粉丝吃烤梨和饭",
+      "onboard_time": 1762661240,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 160842,
@@ -499,14 +547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 143532,
-      "num": 138365,
-      "word": "宋祖儿请粉丝吃烤梨和饭",
-      "onboard_time": 1762661240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141475,
       "num": 141475,
       "word": "医生眼中无意识变胖的行为",
@@ -523,12 +563,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138333,
-      "num": 138333,
-      "word": "最好的我们朱瑶张平演员结婚",
-      "onboard_time": 1762661779,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 140286,
+      "num": 140286,
+      "word": "廊坊一彩民花15元中7397万大奖",
+      "onboard_time": 1762660219,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137407,
@@ -555,20 +595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135719,
-      "num": 135719,
-      "word": "廊坊一彩民花15元中7397万大奖",
-      "onboard_time": 1762660219,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 132426,
+      "num": 178455,
+      "word": "易烊千玺不敢再接刘春和这样的角色",
+      "onboard_time": 1762656740,
+      "rank": 29,
+      "category": "电影"
     },
     {
-      "raw_hot": 133478,
-      "num": 133478,
-      "word": "TVB演员众筹150万给妻子治病",
-      "onboard_time": 1762662020,
-      "rank": 30,
-      "category": "艺人,民生新闻"
+      "raw_hot": 125929,
+      "num": 173935,
+      "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+      "onboard_time": 1762662979,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124708,
@@ -579,20 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123749,
-      "num": 141237,
-      "word": "光与夜之恋",
-      "onboard_time": 1762662320,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "假奶皮子糖葫芦受害者",
       "onboard_time": 1762660460,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "贾冰菜一出锅沈腾拿着筷子就来了",
+      "onboard_time": 1762662260,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120691,
@@ -627,12 +667,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117732,
+      "num": 117732,
+      "word": "网红博主建议对明星祛魅",
+      "onboard_time": 1762662141,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115337,
+      "num": 173871,
+      "word": "中国渔船在韩附近公海倾覆3人失踪",
+      "onboard_time": 1762660880,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113027,
       "num": 113027,
       "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
       "onboard_time": 1762657940,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111075,
+      "num": 173676,
+      "word": "天地剑心王权富贵继任王权家主",
+      "onboard_time": 1762660279,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 110326,
@@ -659,20 +723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106305,
+      "num": 106305,
+      "word": "各地方言都有自己的龙丫头",
+      "onboard_time": 1762663160,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 106020,
       "num": 205847,
       "word": "你好星期六下期是枭起青壤剧组",
       "onboard_time": 1762609402,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105369,
-      "num": 178455,
-      "word": "易烊千玺不敢再接刘春和这样的角色",
-      "onboard_time": 1762656740,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 104912,
@@ -691,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "鲁豫 此刻我不好过别人也未必好过",
+      "onboard_time": 1762660460,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104283,
       "num": 104283,
       "word": "Lehends说明年会是最后一年",
@@ -700,19 +772,11 @@
     },
     {
       "raw_hot": 100441,
-      "num": 135916,
+      "num": 162279,
       "word": "孙颖莎樊振东等今昔对比",
       "onboard_time": 1762661120,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100185,
-      "num": 140605,
-      "word": "天地剑心王权富贵继任王权家主",
-      "onboard_time": 1762660279,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 99507,
@@ -763,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96212,
-      "num": 96212,
-      "word": "网红博主建议对明星祛魅",
-      "onboard_time": 1762662141,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 93452,
-      "num": 93452,
+      "num": 106320,
       "word": "渔船倾覆已致2人死亡3人失踪",
       "onboard_time": 1762661960,
       "rank": 38,
@@ -825,14 +881,6 @@
       "onboard_time": 1762606580,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91087,
-      "num": 91087,
-      "word": "鲁豫 此刻我不好过别人也未必好过",
-      "onboard_time": 1762660460,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 91043,
@@ -891,14 +939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87449,
-      "num": 139113,
-      "word": "中国渔船在韩附近公海倾覆3人失踪",
-      "onboard_time": 1762660880,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86960,
       "num": 86960,
       "word": "谢霆锋也是到了带保温杯的年纪",
@@ -907,12 +947,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86325,
-      "num": 86325,
-      "word": "贾冰菜一出锅沈腾拿着筷子就来了",
-      "onboard_time": 1762662260,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 86216,
+      "num": 86216,
+      "word": "猫是好猫就是上不去网",
+      "onboard_time": 1762660758,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86166,
@@ -961,6 +1001,14 @@
       "onboard_time": 1762658900,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82664,
+      "num": 94409,
+      "word": "声鸣远扬主持人官宣",
+      "onboard_time": 1762661900,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 81850,
@@ -1059,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70445,
+      "num": 121280,
+      "word": "粉笔模考",
+      "onboard_time": 1762663220,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69115,
       "num": 69115,
       "word": "祝绪丹别睡我手机里",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1762617801,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66193,
-      "num": 92980,
-      "word": "声鸣远扬主持人官宣",
-      "onboard_time": 1762661900,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 63731,
@@ -1403,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15749,
+      "num": 120793,
+      "word": "张峻豪突然开始鞠躬",
+      "onboard_time": 1762662622,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14710,
       "num": 49908,
       "word": "2025f1圣保罗大奖赛",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1762610842,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13486,
+      "num": 166852,
+      "word": "开具离职证明受阻乱象调查",
+      "onboard_time": 1762663099,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6688,
