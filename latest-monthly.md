@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 19:20:25
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/09 19:37:18
 </p>
 </blockquote>
 <p>
@@ -3687,6 +3687,12 @@ TES不敌T1后发文（热度：310623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
+全运会开幕式（热度：309102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%85%AD%E6%97%AC%E7%94%B7%E5%A5%B3%E5%9C%A8%E7%A0%81%E5%A4%B4%E4%BD%9C%E4%B8%8D%E9%9B%85%E8%A1%8C%E4%B8%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
 香港六旬男女在码头作不雅行为被捕（热度：308540）
 </a>
@@ -4115,12 +4121,6 @@ T1的BP（热度：291108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E4%BA%8B%E6%95%85%23" target="weibo">
 美国一机场发生飞机坠毁事故（热度：283157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23" target="weibo">
-全运会开幕式（热度：283074）
 </a>
 </li>
 
@@ -4607,6 +4607,12 @@ Chovy世界赛成绩 8884844（热度：254697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%91%8A%E5%88%AB%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%23" target="weibo">
 李沁告别花儿与少年（热度：249387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E5%86%B0%E9%B8%9F%23" target="weibo">
+Faker冰鸟（热度：248398）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17系列国内激活销量（热度：197390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%96%B0%E5%89%A7%E7%BC%96%E5%89%A7%E7%A7%A6%E9%9B%AF%23" target="weibo">
 唐嫣新剧编剧秦雯（热度：195716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E6%B2%B3%E6%9E%95%E6%96%B0%E6%B5%AA%E6%89%AB%E6%A5%BC%23" target="weibo">
-山河枕新浪扫楼（热度：195437）
 </a>
 </li>
 

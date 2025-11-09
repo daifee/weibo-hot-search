@@ -1,0 +1,410 @@
+{
+  "runTime": 1762688238134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004600,
+        "num": 1160736,
+        "word": "KT对战T1",
+        "onboard_time": 1762671021,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 429266,
+        "num": 429266,
+        "word": "天地剑心大结局",
+        "onboard_time": 1762681821,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309102,
+        "num": 405796,
+        "word": "全运会开幕式",
+        "onboard_time": 1762683319,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386881,
+        "num": 386881,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762686320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385023,
+        "num": 385023,
+        "word": "全运会",
+        "onboard_time": 1762683680,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283314,
+        "num": 283314,
+        "word": "T1的BP",
+        "onboard_time": 1762685840,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256946,
+        "num": 256946,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1762685422,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248398,
+        "num": 248398,
+        "word": "Faker冰鸟",
+        "onboard_time": 1762686802,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225927,
+        "num": 225927,
+        "word": "每天1个苹果身体有什么变化",
+        "onboard_time": 1762674501,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189497,
+        "num": 189497,
+        "word": "1999年小朋友捐款140元给国家造航母",
+        "onboard_time": 1762675759,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1345901,
+        "num": 188743,
+        "word": "排骨羽绒服",
+        "onboard_time": 1762682420,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 614017,
+        "num": 184806,
+        "word": "白百何工作室晒时间线",
+        "onboard_time": 1762681939,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407381,
+        "num": 182734,
+        "word": "44岁导演心梗离世仅获赔1万元",
+        "onboard_time": 1762684340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357955,
+        "num": 180915,
+        "word": "李连杰脱衣辟谣换心脏",
+        "onboard_time": 1762670000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26807,
+        "num": 178439,
+        "word": "朋友聚会不能没有你画我猜",
+        "onboard_time": 1762686079,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177643,
+        "num": 177643,
+        "word": "世上再无王权富贵",
+        "onboard_time": 1762686920,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 164497,
+        "word": "大眼音乐节",
+        "onboard_time": 1762686860,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146568,
+        "num": 146568,
+        "word": "网购衣服货不对版的原因找到了",
+        "onboard_time": 1762683981,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140051,
+        "num": 140051,
+        "word": "女子曝光服装AB版带货套路",
+        "onboard_time": 1762680740,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41014,
+        "num": 140031,
+        "word": "习惯每一年有奔驰的S赛",
+        "onboard_time": 1762685422,
+        "rank": 19,
+        "category": "电竞,汽车"
+      },
+      {
+        "raw_hot": 614643,
+        "num": 139940,
+        "word": "谢娜坐高铁偶遇王鹤棣",
+        "onboard_time": 1762674919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339752,
+        "num": 139870,
+        "word": "女艺人穿着裙子跪前边拍照",
+        "onboard_time": 1762668679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311989,
+        "num": 139801,
+        "word": "关晓彤衣品",
+        "onboard_time": 1762675040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273147,
+        "num": 139767,
+        "word": "邓紫棋唱得好歌一般",
+        "onboard_time": 1762673719,
+        "rank": 23,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 258927,
+        "num": 139665,
+        "word": "胡歌带女儿逛乐高乐园",
+        "onboard_time": 1762681760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207539,
+        "num": 139602,
+        "word": "管泽元 BLG来看比赛了",
+        "onboard_time": 1762682900,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150816,
+        "num": 139578,
+        "word": "天地剑心 爱人的血让白衣变嫁衣",
+        "onboard_time": 1762686199,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123421,
+        "num": 139461,
+        "word": "中储粮库7死事故12人被采取强制措施",
+        "onboard_time": 1762685059,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 101737,
+        "num": 139420,
+        "word": "新闻女王唐诡看完你的看你的",
+        "onboard_time": 1762687822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100102,
+        "num": 139357,
+        "word": "美国女子无家可归像虫子一样蠕动",
+        "onboard_time": 1762684760,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182498,
+        "num": 139269,
+        "word": "KT对战T1决胜局",
+        "onboard_time": 1762687222,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157843,
+        "num": 139222,
+        "word": "小猫知道爷爷去世了",
+        "onboard_time": 1762677801,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139189,
+        "num": 139189,
+        "word": "王源回复王俊凯易烊千玺祝福",
+        "onboard_time": 1762671320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 135840,
+        "word": "自取奶茶一买一个不吱声",
+        "onboard_time": 1762677260,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124155,
+        "num": 124155,
+        "word": "Uzi 拿奖杯",
+        "onboard_time": 1762688120,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122921,
+        "num": 122921,
+        "word": "您的快递正在路上吵架",
+        "onboard_time": 1762686980,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103637,
+        "num": 103637,
+        "word": "Tabe说T1团队底蕴太好了",
+        "onboard_time": 1762687161,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61618,
+        "num": 101770,
+        "word": "不节食不运动也能瘦的5个习惯",
+        "onboard_time": 1762684639,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101482,
+        "num": 101482,
+        "word": "仙逆",
+        "onboard_time": 1762686620,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89865,
+        "num": 101421,
+        "word": "邱党从1比9追到19比17",
+        "onboard_time": 1762686199,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101416,
+        "num": 101416,
+        "word": "恩利一开口以为庾澄庆来了",
+        "onboard_time": 1762682958,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99819,
+        "num": 99819,
+        "word": "一道菜给12个人提供了工作岗位",
+        "onboard_time": 1762686440,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99461,
+        "num": 99461,
+        "word": "Faker笑了",
+        "onboard_time": 1762688060,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67211,
+        "num": 97745,
+        "word": "荒野求生冷美人透露又面临生理期",
+        "onboard_time": 1762686802,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "S15决赛唯一中国人",
+        "onboard_time": 1762673480,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94876,
+        "num": 94876,
+        "word": "天地剑心36集神场面",
+        "onboard_time": 1762688002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84508,
+        "num": 94580,
+        "word": "唐诡云合登顶",
+        "onboard_time": 1762680260,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94988,
+        "num": 94351,
+        "word": "狼队坐着握手",
+        "onboard_time": 1762683379,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66225,
+        "num": 94119,
+        "word": "全运会开幕式运动员们来了",
+        "onboard_time": 1762686500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64266,
+        "num": 93976,
+        "word": "全球半导体供应链混乱责任在荷方",
+        "onboard_time": 1762685240,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞的土特产#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762687225559,
+  "endTime": 1762688238134,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -4899,6 +4899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309102,
+      "num": 475114,
+      "word": "全运会开幕式",
+      "onboard_time": 1762683319,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308540,
       "num": 203903,
       "word": "香港六旬男女在码头作不雅行为被捕",
@@ -5473,14 +5481,6 @@
       "onboard_time": 1762300280,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 283074,
-      "num": 475114,
-      "word": "全运会开幕式",
-      "onboard_time": 1762683319,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 282765,
@@ -6129,6 +6129,14 @@
       "onboard_time": 1761979520,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248398,
+      "num": 248398,
+      "word": "Faker冰鸟",
+      "onboard_time": 1762686802,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 247988,
@@ -8875,6 +8883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182498,
+      "num": 139269,
+      "word": "KT对战T1决胜局",
+      "onboard_time": 1762687222,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182475,
       "num": 205227,
       "word": "75岁刘晓庆喊姥姥结果对方才74岁",
@@ -9153,6 +9169,14 @@
       "onboard_time": 1762571780,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177643,
+      "num": 182498,
+      "word": "世上再无王权富贵",
+      "onboard_time": 1762686920,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 177574,
@@ -10011,14 +10035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165581,
-      "num": 165581,
-      "word": "Faker冰鸟",
-      "onboard_time": 1762686802,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 165434,
       "num": 165434,
       "word": "属于冬天的情绪价值",
@@ -10113,6 +10129,14 @@
       "onboard_time": 1762226301,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164497,
+      "num": 182285,
+      "word": "大眼音乐节",
+      "onboard_time": 1762686860,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 164371,
@@ -14659,6 +14683,14 @@
       "category": "美妆,休闲"
     },
     {
+      "raw_hot": 124155,
+      "num": 124155,
+      "word": "Uzi 拿奖杯",
+      "onboard_time": 1762688120,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124000,
       "num": 124000,
       "word": "女装商家双11备货500万退货400万",
@@ -14865,6 +14897,14 @@
       "onboard_time": 1762491980,
       "rank": 13,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 122921,
+      "num": 122921,
+      "word": "您的快递正在路上吵架",
+      "onboard_time": 1762686980,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 122866,
@@ -16715,14 +16755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111733,
-      "num": 182498,
-      "word": "世上再无王权富贵",
-      "onboard_time": 1762686920,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111717,
       "num": 111717,
       "word": "刘亦菲演个恶女吧",
@@ -18083,14 +18115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104726,
-      "num": 104726,
-      "word": "您的快递正在路上吵架",
-      "onboard_time": 1762686980,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104656,
       "num": 104656,
       "word": "为研究生贺峻霖点灯",
@@ -18377,6 +18401,14 @@
       "onboard_time": 1762407620,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103637,
+      "num": 103637,
+      "word": "Tabe说T1团队底蕴太好了",
+      "onboard_time": 1762687161,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 103547,
@@ -18827,6 +18859,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 101737,
+      "num": 139420,
+      "word": "新闻女王唐诡看完你的看你的",
+      "onboard_time": 1762687822,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101734,
       "num": 109370,
       "word": "李一桐音感好准",
@@ -19219,6 +19259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100102,
+      "num": 182259,
+      "word": "美国女子无家可归像虫子一样蠕动",
+      "onboard_time": 1762684760,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100078,
       "num": 100078,
       "word": "BDD回应战胜GEN",
@@ -19257,14 +19305,6 @@
       "onboard_time": 1762146981,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99895,
-      "num": 182285,
-      "word": "大眼音乐节",
-      "onboard_time": 1762686860,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 99861,
@@ -19345,6 +19385,14 @@
       "onboard_time": 1762529061,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99461,
+      "num": 99461,
+      "word": "Faker笑了",
+      "onboard_time": 1762688060,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 99434,
@@ -20195,14 +20243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96589,
-      "num": 96589,
-      "word": "Tabe说T1团队底蕴太好了",
-      "onboard_time": 1762687161,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 96416,
       "num": 96416,
       "word": "4类人不适合吃奶皮子糖葫芦",
@@ -20552,6 +20592,14 @@
       "word": "水龙吟",
       "onboard_time": 1762082361,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94876,
+      "num": 94876,
+      "word": "天地剑心36集神场面",
+      "onboard_time": 1762688002,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -21323,14 +21371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 92244,
-      "num": 182259,
-      "word": "美国女子无家可归像虫子一样蠕动",
-      "onboard_time": 1762684760,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92182,
       "num": 92182,
       "word": "小狗把一半的毯子分给流浪狗",
@@ -22025,6 +22065,14 @@
       "onboard_time": 1762087222,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 89865,
+      "num": 101421,
+      "word": "邱党从1比9追到19比17",
+      "onboard_time": 1762686199,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 89850,
@@ -26603,6 +26651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67211,
+      "num": 118361,
+      "word": "荒野求生冷美人透露又面临生理期",
+      "onboard_time": 1762686802,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67207,
       "num": 72535,
       "word": "杨瀚森预计对阵湖人归队",
@@ -26761,6 +26817,14 @@
       "onboard_time": 1762359380,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 66225,
+      "num": 94119,
+      "word": "全运会开幕式运动员们来了",
+      "onboard_time": 1762686500,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66116,
@@ -26977,6 +27041,14 @@
       "onboard_time": 1761969081,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64266,
+      "num": 93976,
+      "word": "全球半导体供应链混乱责任在荷方",
+      "onboard_time": 1762685240,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64228,
@@ -28459,14 +28531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48897,
-      "num": 118361,
-      "word": "荒野求生冷美人透露又面临生理期",
-      "onboard_time": 1762686802,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48852,
       "num": 80281,
       "word": "南大学子发文回应帝王蟹事件",
@@ -29155,6 +29219,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 41014,
+      "num": 183545,
+      "word": "习惯每一年有奔驰的S赛",
+      "onboard_time": 1762685422,
+      "rank": 19,
+      "category": "电竞,汽车"
+    },
+    {
       "raw_hot": 40907,
       "num": 40907,
       "word": "鼻涕颜色是身体的免疫预警",
@@ -29361,14 +29433,6 @@
       "onboard_time": 1762598241,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 39058,
-      "num": 183545,
-      "word": "习惯每一年有奔驰的S赛",
-      "onboard_time": 1762685422,
-      "rank": 19,
-      "category": "电竞,汽车"
     },
     {
       "raw_hot": 38915,
