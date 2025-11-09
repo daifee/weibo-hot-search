@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762730608270,
+  "endTime": 1762731454846,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -35,7 +35,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 417994,
+      "raw_hot": 442700,
       "num": 241942,
       "word": "路易吉被曝在监狱内非常受欢迎",
       "onboard_time": 1762698922,
@@ -67,8 +67,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288596,
+      "num": 118246,
+      "word": "连骂4年大衣哥的女子被判6个月",
+      "onboard_time": 1762706118,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286799,
-      "num": 746193,
+      "num": 860350,
       "word": "央视曝光被薅羊毛的医保卡",
       "onboard_time": 1762697602,
       "rank": 1,
@@ -83,12 +91,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 263354,
-      "num": 91848,
-      "word": "连骂4年大衣哥的女子被判6个月",
-      "onboard_time": 1762706118,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 263154,
+      "num": 117973,
+      "word": "产后抑郁女子与丈夫谈离婚后轻生",
+      "onboard_time": 1762730298,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261455,
@@ -97,6 +105,14 @@
       "onboard_time": 1762699762,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254260,
+      "num": 254260,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 241110,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 236604,
-      "num": 102603,
+      "num": 117748,
       "word": "女主播被主管性侵又遭公司索赔10万",
       "onboard_time": 1762706059,
       "rank": 22,
@@ -137,14 +153,6 @@
       "onboard_time": 1762704681,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207968,
-      "num": 207968,
-      "word": "刘德华提前解冻",
-      "onboard_time": 1762727418,
-      "rank": 43,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 206451,
@@ -179,14 +187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167284,
-      "num": 91272,
-      "word": "产后抑郁女子与丈夫谈离婚后轻生",
-      "onboard_time": 1762730298,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157656,
       "num": 157656,
       "word": "张晚意一唱慢冷就哭",
@@ -212,10 +212,18 @@
     },
     {
       "raw_hot": 138403,
-      "num": 90634,
+      "num": 108654,
       "word": "洗澡后3分钟内要涂保湿霜",
       "onboard_time": 1762700962,
       "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136891,
+      "num": 111093,
+      "word": "4种水果其实是高糖刺客",
+      "onboard_time": 1762697002,
+      "rank": 26,
       "category": "健康医疗"
     },
     {
@@ -225,6 +233,14 @@
       "onboard_time": 1762704681,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128726,
+      "num": 117267,
+      "word": "被拦婚车讨烟新郎新娘打车离开",
+      "onboard_time": 1762730237,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128382,
@@ -259,16 +275,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119150,
-      "num": 111093,
-      "word": "4种水果其实是高糖刺客",
-      "onboard_time": 1762697002,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 117186,
+      "num": 117186,
+      "word": "Tabe邀请Uzi明年复出",
+      "onboard_time": 1762730237,
+      "rank": 24,
+      "category": "电竞"
     },
     {
-      "raw_hot": 113044,
-      "num": 90956,
+      "raw_hot": 115666,
+      "num": 115666,
       "word": "44岁短剧导演突发心梗去世",
       "onboard_time": 1762713194,
       "rank": 48,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 100407,
-      "num": 90827,
+      "num": 94533,
       "word": "每天都吃很饱的荒野求生选手退赛",
       "onboard_time": 1762705160,
       "rank": 43,
@@ -355,12 +371,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 86059,
-      "num": 86059,
-      "word": "Tabe邀请Uzi明年复出",
-      "onboard_time": 1762730237,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 87871,
+      "num": 87871,
+      "word": "马龙全运会目标填补生涯唯一空缺",
+      "onboard_time": 1762730179,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 85968,
@@ -371,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84321,
-      "num": 60281,
-      "word": "被拦婚车讨烟新郎新娘打车离开",
-      "onboard_time": 1762730237,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 83537,
+      "num": 83537,
+      "word": "早田希娜WTT女单冠军",
+      "onboard_time": 1762730057,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 83269,
@@ -403,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80493,
-      "num": 60119,
-      "word": "早田希娜WTT女单冠军",
-      "onboard_time": 1762730057,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79277,
       "num": 79277,
       "word": "Uzi 拿奖杯",
@@ -425,6 +433,22 @@
       "onboard_time": 1762674919,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78219,
+      "num": 78219,
+      "word": "何炅说华晨宇是冠军的定义者",
+      "onboard_time": 1762731259,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78055,
+      "num": 88467,
+      "word": "台上何老师台下俩魔丸",
+      "onboard_time": 1762730357,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 76924,
@@ -443,20 +467,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67608,
-      "num": 67608,
+      "raw_hot": 72969,
+      "num": 119277,
+      "word": "中储粮库7死事故12人被采取强制措施",
+      "onboard_time": 1762685059,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 72090,
+      "num": 72090,
       "word": "情绪背后可能是甲状腺在求救",
       "onboard_time": 1762725915,
       "rank": 43,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 66932,
-      "num": 66932,
-      "word": "马龙全运会目标填补生涯唯一空缺",
-      "onboard_time": 1762730179,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 71944,
+      "num": 88403,
+      "word": "天地剑心",
+      "onboard_time": 1762730720,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 65834,
@@ -499,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56921,
-      "num": 56921,
-      "word": "中储粮库7死事故12人被采取强制措施",
-      "onboard_time": 1762685059,
-      "rank": 33,
-      "category": "辟谣/通报"
+      "raw_hot": 59872,
+      "num": 59872,
+      "word": "任嘉伦谁让你这么帅的",
+      "onboard_time": 1762728496,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59600,
+      "num": 59600,
+      "word": "KK园区148栋建筑将被拆除",
+      "onboard_time": 1762702282,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54657,
@@ -515,20 +555,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50176,
-      "num": 50176,
-      "word": "KK园区148栋建筑将被拆除",
-      "onboard_time": 1762702282,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 50535,
+      "num": 50535,
+      "word": "曼城3比0利物浦",
+      "onboard_time": 1762731319,
+      "rank": 40,
+      "category": "体育"
     },
     {
-      "raw_hot": 48979,
-      "num": 48979,
-      "word": "任嘉伦谁让你这么帅的",
-      "onboard_time": 1762728496,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 49666,
+      "num": 49666,
+      "word": "松岛辉空男单夺冠",
+      "onboard_time": 1762731319,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47526,
+      "num": 47526,
+      "word": "杨瀚森连续4场被DNP",
+      "onboard_time": 1762731319,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47310,
+      "num": 47310,
+      "word": "多兰Gumayusi回应续约",
+      "onboard_time": 1762731439,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 44873,
@@ -537,6 +593,14 @@
       "onboard_time": 1762713194,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41207,
+      "num": 45052,
+      "word": "中国默默炫了一次技术",
+      "onboard_time": 1762731439,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 38935,
@@ -555,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37288,
-      "num": 51674,
-      "word": "台上何老师台下俩魔丸",
-      "onboard_time": 1762730357,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 36772,
+      "num": 45050,
+      "word": "Faker回应三连冠",
+      "onboard_time": 1762731379,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 35774,
@@ -569,6 +633,22 @@
       "onboard_time": 1762707379,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35680,
+      "num": 45049,
+      "word": "苹果煮水改善气色养护皮肤",
+      "onboard_time": 1762731439,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32457,
+      "num": 45048,
+      "word": "蔡徐坤音乐节人气",
+      "onboard_time": 1762731199,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 30905,
