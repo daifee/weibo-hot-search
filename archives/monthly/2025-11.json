@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762784885526,
+  "endTime": 1762785915896,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2043,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636700,
+      "num": 190821,
+      "word": "沈月发问号后秒删",
+      "onboard_time": 1762783641,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636655,
       "num": 284705,
       "word": "男子晒媳妇买了15双一样的勃肯鞋",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1762003823,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 624227,
+      "num": 192395,
+      "word": "范丞丞白鹿跳了obsession",
+      "onboard_time": 1762782682,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 621968,
@@ -2313,14 +2329,6 @@
       "onboard_time": 1762090702,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593277,
-      "num": 192395,
-      "word": "范丞丞白鹿跳了obsession",
-      "onboard_time": 1762782682,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 592974,
@@ -3323,6 +3331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 486893,
+      "num": 196560,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485828,
       "num": 149102,
       "word": "网传印度人中国街头随地大小便",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1762138520,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464395,
+      "num": 195510,
+      "word": "警方通报华中农大一博士在校溺亡",
+      "onboard_time": 1762782382,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 463736,
@@ -3827,14 +3851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435908,
-      "num": 196560,
-      "word": "浙江诸暨麻糍奶奶遇车祸去世",
-      "onboard_time": 1762781421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 435890,
       "num": 435890,
       "word": "水千丞188男团将影视化",
@@ -3993,14 +4009,6 @@
       "onboard_time": 1762662979,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 419186,
-      "num": 190821,
-      "word": "沈月发问号后秒删",
-      "onboard_time": 1762783641,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 418838,
@@ -4209,14 +4217,6 @@
       "onboard_time": 1762241541,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 406712,
-      "num": 195510,
-      "word": "警方通报华中农大一博士在校溺亡",
-      "onboard_time": 1762782382,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 406609,
@@ -5747,6 +5747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309212,
+      "num": 309212,
+      "word": "央美学生被指抄袭还获一等奖学金",
+      "onboard_time": 1762780822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309140,
       "num": 166191,
       "word": "黄凯选迪丽热巴offer5知道吗",
@@ -6441,14 +6449,6 @@
       "onboard_time": 1761911004,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279341,
-      "num": 279341,
-      "word": "央美学生被指抄袭还获一等奖学金",
-      "onboard_time": 1762780822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278895,
@@ -8099,6 +8099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218241,
+      "num": 218241,
+      "word": "汉堡王中国也被卖了",
+      "onboard_time": 1762784243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218090,
       "num": 218090,
       "word": "第十一届文荣奖获奖名单",
@@ -9657,6 +9665,14 @@
       "onboard_time": 1762606701,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191765,
+      "num": 163020,
+      "word": "邱淑贞女儿回应",
+      "onboard_time": 1762785081,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 191731,
@@ -11675,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165851,
+      "num": 165851,
+      "word": "马特4比3向鹏",
+      "onboard_time": 1762784182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "宋祖儿请粉丝吃烤梨和饭",
@@ -11995,6 +12019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162782,
+      "num": 162782,
+      "word": "宋亚轩开口就是高光时刻",
+      "onboard_time": 1762785143,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162523,
       "num": 154749,
       "word": "王橹杰 今年是更成熟的小鬼",
@@ -12009,14 +12041,6 @@
       "onboard_time": 1762326741,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162273,
-      "num": 162273,
-      "word": "马特4比3向鹏",
-      "onboard_time": 1762784182,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 162271,
@@ -13331,6 +13355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149934,
+      "num": 149934,
+      "word": "张真源开场pose",
+      "onboard_time": 1762785441,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149688,
       "num": 149688,
       "word": "潘玮柏蒋梦婕 秀完你的秀我的",
@@ -14563,6 +14595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139344,
+      "num": 139344,
+      "word": "小米汽车10月零售销量48654辆",
+      "onboard_time": 1762785503,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 139258,
       "num": 139258,
       "word": "林志玲说好想念被小S骂",
@@ -15311,6 +15351,22 @@
       "num": 134310,
       "word": "樊振东谈十五运会首秀",
       "onboard_time": 1762759100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134263,
+      "num": 134263,
+      "word": "喻言也幻梦都破碎了",
+      "onboard_time": 1762785024,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "陈芋汐完美一跳全红婵起立欢呼",
+      "onboard_time": 1762785202,
       "rank": 34,
       "category": "体育"
     },
@@ -17803,6 +17859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119212,
+      "num": 119212,
+      "word": "张予曦伴舞",
+      "onboard_time": 1762785384,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "400万粉丝博主声鸣远扬爆冷淘汰",
@@ -18323,6 +18387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116708,
+      "num": 193862,
+      "word": "医院通报女子怀疑孩子被抱错",
+      "onboard_time": 1762784302,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 116694,
       "num": 116694,
       "word": "欧豪马思纯内娱的be美学",
@@ -18641,6 +18713,14 @@
       "onboard_time": 1761916825,
       "rank": 24,
       "category": "议题讨论,时尚"
+    },
+    {
+      "raw_hot": 115116,
+      "num": 115116,
+      "word": "淘宝回应被刘嘉玲喊话侵权",
+      "onboard_time": 1762785622,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 115043,
@@ -19611,6 +19691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110025,
+      "num": 110025,
+      "word": "赵子豪晋级全运会16强",
+      "onboard_time": 1762785684,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110018,
       "num": 110018,
       "word": "从100斤到180斤的真实感受",
@@ -19672,6 +19760,14 @@
       "word": "樊振东穿上了新队服",
       "onboard_time": 1762265963,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109643,
+      "num": 109643,
+      "word": "向鹏爆冷出局",
+      "onboard_time": 1762785684,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -20713,6 +20809,14 @@
       "onboard_time": 1762680622,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105211,
+      "num": 105211,
+      "word": "曝华为Mate80定档11月25日",
+      "onboard_time": 1762782982,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 105173,
@@ -22281,14 +22385,6 @@
       "onboard_time": 1762245022,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99706,
-      "num": 193303,
-      "word": "汉堡王中国也被卖了",
-      "onboard_time": 1762784243,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99650,
@@ -30403,6 +30499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66174,
+      "num": 111933,
+      "word": "全红婵也被大湾鸡圈粉了",
+      "onboard_time": 1762782860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66116,
       "num": 166614,
       "word": "2025最大超级月亮今晚登场",
@@ -33147,6 +33251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42255,
+      "num": 195721,
+      "word": "谢霆锋你让我怎么戒断",
+      "onboard_time": 1762783703,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42227,
       "num": 166235,
       "word": "留几手锐评再见爱人保险事件",
@@ -33761,22 +33873,6 @@
       "onboard_time": 1762168941,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36149,
-      "num": 195721,
-      "word": "谢霆锋你让我怎么戒断",
-      "onboard_time": 1762783703,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 36130,
-      "num": 193862,
-      "word": "医院通报女子怀疑孩子被抱错",
-      "onboard_time": 1762784302,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36055,
@@ -34563,6 +34659,14 @@
       "category": "演出,互联网"
     },
     {
+      "raw_hot": 28695,
+      "num": 109360,
+      "word": "双十一买过最不能理解的东西",
+      "onboard_time": 1762784302,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28671,
       "num": 93313,
       "word": "被网友求链接的温州铁锅厂复工复产了",
@@ -35049,6 +35153,14 @@
       "onboard_time": 1762539375,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23541,
+      "num": 130712,
+      "word": "部分高铁受台风影响停运",
+      "onboard_time": 1762784363,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 23517,
@@ -35667,14 +35779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15624,
-      "num": 105990,
-      "word": "双十一买过最不能理解的东西",
-      "onboard_time": 1762784302,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 15551,
       "num": 107572,
       "word": "Red即兴真是即兴",
@@ -35939,14 +36043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12589,
-      "num": 130712,
-      "word": "部分高铁受台风影响停运",
-      "onboard_time": 1762784363,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 12407,
       "num": 221897,
       "word": "宋木子合文俊土拨鼠附体",
@@ -36033,6 +36129,14 @@
       "onboard_time": 1762070301,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10580,
+      "num": 115142,
+      "word": "虐杀流浪猫男子系未成年人",
+      "onboard_time": 1762785562,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10240,

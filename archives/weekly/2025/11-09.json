@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762784885526,
+  "endTime": 1762785915896,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636700,
+      "num": 190821,
+      "word": "沈月发问号后秒删",
+      "onboard_time": 1762783641,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 636527,
       "num": 1101844,
       "word": "Faker说BLG是冠军",
@@ -465,6 +473,14 @@
       "onboard_time": 1762660700,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 624227,
+      "num": 192395,
+      "word": "范丞丞白鹿跳了obsession",
+      "onboard_time": 1762782682,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 618122,
@@ -505,14 +521,6 @@
       "onboard_time": 1762763421,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593277,
-      "num": 192395,
-      "word": "范丞丞白鹿跳了obsession",
-      "onboard_time": 1762782682,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 590582,
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486893,
+      "num": 196560,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484677,
       "num": 484677,
       "word": "天地剑心大结局",
@@ -761,6 +777,14 @@
       "onboard_time": 1762691904,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 464395,
+      "num": 195510,
+      "word": "警方通报华中农大一博士在校溺亡",
+      "onboard_time": 1762782382,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 461960,
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435908,
-      "num": 196560,
-      "word": "浙江诸暨麻糍奶奶遇车祸去世",
-      "onboard_time": 1762781421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432801,
       "num": 208532,
       "word": "猴哥说车前妻一家怒斥小三",
@@ -891,14 +907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 419186,
-      "num": 190821,
-      "word": "沈月发问号后秒删",
-      "onboard_time": 1762783641,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418029,
       "num": 1066884,
       "word": "Faker发博晒经典夺冠表情",
@@ -945,14 +953,6 @@
       "onboard_time": 1762772240,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 406712,
-      "num": 195510,
-      "word": "警方通报华中农大一博士在校溺亡",
-      "onboard_time": 1762782382,
-      "rank": 34,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 402982,
@@ -1339,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309212,
+      "num": 309212,
+      "word": "央美学生被指抄袭还获一等奖学金",
+      "onboard_time": 1762780822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306519,
       "num": 173791,
       "word": "鹿晗让陈赫少吃点小龙虾吧",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1762613542,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279341,
-      "num": 279341,
-      "word": "央美学生被指抄袭还获一等奖学金",
-      "onboard_time": 1762780822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278820,
@@ -1915,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218241,
+      "num": 218241,
+      "word": "汉堡王中国也被卖了",
+      "onboard_time": 1762784243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215153,
       "num": 215153,
       "word": "唐诡开播第一天杨旭文就被考古了",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1762691842,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191765,
+      "num": 163020,
+      "word": "邱淑贞女儿回应",
+      "onboard_time": 1762785081,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 191488,
@@ -2651,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165851,
+      "num": 165851,
+      "word": "马特4比3向鹏",
+      "onboard_time": 1762784182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "宋祖儿请粉丝吃烤梨和饭",
@@ -2723,12 +2747,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162273,
-      "num": 162273,
-      "word": "马特4比3向鹏",
-      "onboard_time": 1762784182,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 162782,
+      "num": 162782,
+      "word": "宋亚轩开口就是高光时刻",
+      "onboard_time": 1762785143,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 161970,
@@ -3019,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149934,
+      "num": 149934,
+      "word": "张真源开场pose",
+      "onboard_time": 1762785441,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149255,
       "num": 149255,
       "word": "海啸已抵达日本本州岛",
@@ -3235,6 +3267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139344,
+      "num": 139344,
+      "word": "小米汽车10月零售销量48654辆",
+      "onboard_time": 1762785503,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138910,
       "num": 182830,
       "word": "中储粮库7死事故12人被采取强制措施",
@@ -3335,6 +3375,22 @@
       "num": 134310,
       "word": "樊振东谈十五运会首秀",
       "onboard_time": 1762759100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134263,
+      "num": 134263,
+      "word": "喻言也幻梦都破碎了",
+      "onboard_time": 1762785024,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "陈芋汐完美一跳全红婵起立欢呼",
+      "onboard_time": 1762785202,
       "rank": 34,
       "category": "体育"
     },
@@ -3771,6 +3827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119212,
+      "num": 119212,
+      "word": "张予曦伴舞",
+      "onboard_time": 1762785384,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "400万粉丝博主声鸣远扬爆冷淘汰",
@@ -3883,6 +3947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116708,
+      "num": 193862,
+      "word": "医院通报女子怀疑孩子被抱错",
+      "onboard_time": 1762784302,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "陈浚铭对着师兄海报打招呼",
@@ -3937,6 +4009,14 @@
       "onboard_time": 1762660880,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115116,
+      "num": 115116,
+      "word": "淘宝回应被刘嘉玲喊话侵权",
+      "onboard_time": 1762785622,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 115043,
@@ -4080,6 +4160,22 @@
       "word": "张展硕全运会400自金牌",
       "onboard_time": 1762773799,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110025,
+      "num": 110025,
+      "word": "赵子豪晋级全运会16强",
+      "onboard_time": 1762785684,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109643,
+      "num": 109643,
+      "word": "向鹏爆冷出局",
+      "onboard_time": 1762785684,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -4297,6 +4393,14 @@
       "onboard_time": 1762680622,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105211,
+      "num": 105211,
+      "word": "曝华为Mate80定档11月25日",
+      "onboard_time": 1762782982,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 105123,
@@ -4681,14 +4785,6 @@
       "onboard_time": 1762678519,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 99706,
-      "num": 193303,
-      "word": "汉堡王中国也被卖了",
-      "onboard_time": 1762784243,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99507,
@@ -6067,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66174,
+      "num": 111933,
+      "word": "全红婵也被大湾鸡圈粉了",
+      "onboard_time": 1762782860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65598,
       "num": 65598,
       "word": "菲律宾全国超百万人撤离",
@@ -6867,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42255,
+      "num": 195721,
+      "word": "谢霆锋你让我怎么戒断",
+      "onboard_time": 1762783703,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42227,
       "num": 166235,
       "word": "留几手锐评再见爱人保险事件",
@@ -7033,22 +7145,6 @@
       "onboard_time": 1762751060,
       "rank": 19,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 36149,
-      "num": 195721,
-      "word": "谢霆锋你让我怎么戒断",
-      "onboard_time": 1762783703,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 36130,
-      "num": 193862,
-      "word": "医院通报女子怀疑孩子被抱错",
-      "onboard_time": 1762784302,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35774,
@@ -7227,6 +7323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28695,
+      "num": 109360,
+      "word": "双十一买过最不能理解的东西",
+      "onboard_time": 1762784302,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28174,
       "num": 162095,
       "word": "登陆少年青春故事大揭秘",
@@ -7305,6 +7409,14 @@
       "onboard_time": 1762701320,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23541,
+      "num": 130712,
+      "word": "部分高铁受台风影响停运",
+      "onboard_time": 1762784363,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 23517,
@@ -7443,14 +7555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15624,
-      "num": 105990,
-      "word": "双十一买过最不能理解的东西",
-      "onboard_time": 1762784302,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14710,
       "num": 49908,
       "word": "2025f1圣保罗大奖赛",
@@ -7507,19 +7611,19 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 12589,
-      "num": 130712,
-      "word": "部分高铁受台风影响停运",
-      "onboard_time": 1762784363,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 11630,
       "num": 140781,
       "word": "为老师减负绝不是为家长加负",
       "onboard_time": 1762782201,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10580,
+      "num": 115142,
+      "word": "虐杀流浪猫男子系未成年人",
+      "onboard_time": 1762785562,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
