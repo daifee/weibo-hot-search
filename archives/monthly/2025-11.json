@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762807476159,
+  "endTime": 1762809907605,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -33372,7 +33372,7 @@
     },
     {
       "raw_hot": 43229,
-      "num": 18767,
+      "num": 19054,
       "word": "越南13岁男孩因被嘲笑连刺同学数刀",
       "onboard_time": 1762803494,
       "rank": 10,
@@ -36489,6 +36489,30 @@
       "onboard_time": 1762347502,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9512,
+      "num": 18164,
+      "word": "医院通报新生儿性别被写错",
+      "onboard_time": 1762806973,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 9473,
+      "num": 18156,
+      "word": "白鹿奔跑吧路透",
+      "onboard_time": 1762792339,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9389,
+      "num": 18155,
+      "word": "血糖控制不好会让眼睛受伤",
+      "onboard_time": 1762809493,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9249,
