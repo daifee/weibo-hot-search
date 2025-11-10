@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762779325187,
+  "endTime": 1762780151970,
   "band_list": [
     {
       "raw_hot": 2146340,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1310167,
-      "num": 172832,
+      "num": 182391,
       "word": "南宁二中 学霸文笔",
       "onboard_time": 1762775902,
       "rank": 12,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 950988,
+      "num": 1152158,
+      "word": "陈芋汐全运会10米台金牌",
+      "onboard_time": 1762778361,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 949508,
       "num": 180614,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861213,
+      "num": 171667,
+      "word": "南宁二中 咯噔",
+      "onboard_time": 1762776200,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 823471,
@@ -115,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 674044,
-      "num": 171667,
-      "word": "南宁二中 咯噔",
-      "onboard_time": 1762776200,
-      "rank": 14,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 665164,
       "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 635537,
-      "num": 173675,
+      "num": 236147,
       "word": "桃黑黑女友自曝不整容的原因",
       "onboard_time": 1762774101,
       "rank": 33,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 634010,
-      "num": 172009,
+      "num": 233671,
       "word": "关晓彤搅半天一口没吃",
       "onboard_time": 1762771400,
       "rank": 38,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 499022,
-      "num": 166393,
+      "num": 202650,
       "word": "刘宇宁去医院怕被拍到",
       "onboard_time": 1762774820,
       "rank": 20,
@@ -291,20 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492972,
+      "num": 204183,
+      "word": "董璇回应婚礼餐标",
+      "onboard_time": 1762773501,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488933,
       "num": 1078229,
       "word": "罗云熙林允杀死了剧宣比赛",
       "onboard_time": 1762770921,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487921,
-      "num": 161412,
-      "word": "董璇回应婚礼餐标",
-      "onboard_time": 1762773501,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 461960,
@@ -329,14 +337,6 @@
       "onboard_time": 1762700781,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 449109,
-      "num": 449109,
-      "word": "陈芋汐全运会10米台金牌",
-      "onboard_time": 1762778361,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 442700,
@@ -579,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315771,
+      "num": 315771,
+      "word": "唐朝诡事录 舞阳",
+      "onboard_time": 1762777281,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294720,
+      "num": 294720,
+      "word": "王楚钦vs魏世皓",
+      "onboard_time": 1762778841,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294474,
       "num": 205164,
       "word": "长公主 磨皮",
@@ -633,14 +649,6 @@
       "onboard_time": 1762697542,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 275968,
-      "num": 207957,
-      "word": "唐朝诡事录 舞阳",
-      "onboard_time": 1762777281,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 274176,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 233743,
-      "num": 169675,
+      "num": 200036,
       "word": "王鹤棣孟子义生图",
       "onboard_time": 1762775060,
       "rank": 16,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 232427,
-      "num": 144786,
+      "num": 205776,
       "word": "咖啡上撒蟑螂1杯40元",
       "onboard_time": 1762773319,
       "rank": 38,
@@ -793,6 +801,14 @@
       "onboard_time": 1762699762,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227473,
+      "num": 227473,
+      "word": "35岁坚持面部刮痧一年的变化",
+      "onboard_time": 1762775539,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 226927,
@@ -827,12 +843,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215639,
-      "num": 131369,
-      "word": "35岁坚持面部刮痧一年的变化",
-      "onboard_time": 1762775539,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 216658,
+      "num": 158975,
+      "word": "陈妍希感谢谢楠救场婚礼",
+      "onboard_time": 1762778661,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 215153,
@@ -857,6 +873,14 @@
       "onboard_time": 1762749200,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213529,
+      "num": 213529,
+      "word": "谢娜王鹤棣贴身热舞",
+      "onboard_time": 1762778841,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 211843,
@@ -923,12 +947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206396,
-      "num": 134543,
-      "word": "谢娜王鹤棣贴身热舞",
-      "onboard_time": 1762778841,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 205972,
+      "num": 205972,
+      "word": "何瑞贤收拾收拾准备升咖",
+      "onboard_time": 1762773680,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 205874,
@@ -937,14 +961,6 @@
       "onboard_time": 1762749200,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205771,
-      "num": 179571,
-      "word": "何瑞贤收拾收拾准备升咖",
-      "onboard_time": 1762773680,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 205211,
@@ -979,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200127,
+      "num": 166271,
+      "word": "日方紧急找补称涉台立场没变",
+      "onboard_time": 1762778001,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198015,
       "num": 221346,
       "word": "华晨宇文昌站预售延期",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1762762281,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 194143,
-      "num": 194143,
-      "word": "王楚钦vs魏世皓",
-      "onboard_time": 1762778841,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 194012,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 176001,
-      "num": 176001,
+      "num": 245263,
       "word": "孙杨第6",
       "onboard_time": 1762774702,
       "rank": 47,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1762772901,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166271,
-      "num": 166271,
-      "word": "日方紧急找补称涉台立场没变",
-      "onboard_time": 1762778001,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 165987,
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 155616,
-      "num": 130000,
+      "num": 146419,
       "word": "汪顺潘展乐出战接力",
       "onboard_time": 1762779081,
       "rank": 33,
@@ -1396,7 +1404,7 @@
     },
     {
       "raw_hot": 135057,
-      "num": 135057,
+      "num": 240347,
       "word": "河北燕郊7死27伤爆燃事故调查报告",
       "onboard_time": 1762776920,
       "rank": 23,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1762743858,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129601,
+      "num": 129601,
+      "word": "窦骁何超莲辟谣婚变后首同框",
+      "onboard_time": 1762779801,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 129502,
@@ -1803,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109369,
+      "num": 109369,
+      "word": "双十一买过的最不能理解的东西",
+      "onboard_time": 1762779441,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109202,
       "num": 151568,
       "word": "大湾鸡会变色",
@@ -2091,6 +2115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99921,
+      "num": 109874,
+      "word": "这个周深怎么这么好",
+      "onboard_time": 1762779319,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99691,
       "num": 99691,
       "word": "羊驼送洗后因毛发未吹干致失温死亡",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1762752320,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 97284,
+      "num": 97284,
+      "word": "气血不足腿脚先知",
+      "onboard_time": 1762779202,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96888,
@@ -2235,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92682,
+      "num": 92682,
+      "word": "比暴雨先来的是三位妈妈的伞",
+      "onboard_time": 1762779560,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92577,
       "num": 92577,
       "word": "双胞胎的这碗水太难端平了",
@@ -2275,6 +2323,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 90760,
+      "num": 90760,
+      "word": "孙杨回应又哭了",
+      "onboard_time": 1762776860,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89979,
       "num": 89979,
       "word": "宋亚轩到底谁给你的错觉",
@@ -2307,20 +2363,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 89349,
-      "num": 89349,
-      "word": "气血不足腿脚先知",
-      "onboard_time": 1762779202,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 89046,
       "num": 215106,
       "word": "迪士尼下雪了",
       "onboard_time": 1762762220,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 88683,
+      "num": 88683,
+      "word": "冬天真的建议你多喝苹果水",
+      "onboard_time": 1762779382,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88681,
@@ -2451,6 +2507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82166,
+      "num": 203590,
+      "word": "年轻人的科技性能玩具",
+      "onboard_time": 1762779921,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81804,
       "num": 114857,
       "word": "126斤小学生尿酸飙到440",
@@ -2528,14 +2592,6 @@
       "word": "谢娜坐高铁偶遇王鹤棣",
       "onboard_time": 1762674919,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 78525,
-      "num": 123265,
-      "word": "陈妍希感谢谢楠救场婚礼",
-      "onboard_time": 1762778661,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2681,6 +2737,14 @@
       "onboard_time": 1762772421,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70371,
+      "num": 216203,
+      "word": "齐思钧吴泽林大锁刀马爆改都买",
+      "onboard_time": 1762779680,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 70232,
@@ -2907,6 +2971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57941,
+      "num": 228285,
+      "word": "美暂停实施对华造船等301调查",
+      "onboard_time": 1762779740,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56918,
       "num": 140383,
       "word": "陈幸同4比1马小惠",
@@ -2940,11 +3012,19 @@
     },
     {
       "raw_hot": 54576,
-      "num": 167855,
+      "num": 204791,
       "word": "双十一最后一波尾款",
       "onboard_time": 1762777580,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 52998,
+      "num": 135200,
+      "word": "秋冬买衣服记得看细节",
+      "onboard_time": 1762778901,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 52914,
@@ -2953,6 +3033,14 @@
       "onboard_time": 1762743858,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 52101,
+      "num": 201433,
+      "word": "燕郊爆燃7人被采取刑事强制措施",
+      "onboard_time": 1762778540,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51762,
@@ -3091,14 +3179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41384,
-      "num": 175618,
-      "word": "燕郊爆燃7人被采取刑事强制措施",
-      "onboard_time": 1762778540,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41207,
       "num": 45052,
       "word": "中国默默炫了一次技术",
@@ -3171,6 +3251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35535,
+      "num": 200703,
+      "word": "买手机会在意型号名字吗",
+      "onboard_time": 1762776200,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35044,
       "num": 433690,
       "word": "十五运会新华社出图",
@@ -3185,14 +3273,6 @@
       "onboard_time": 1762744580,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33014,
-      "num": 129567,
-      "word": "秋冬买衣服记得看细节",
-      "onboard_time": 1762778901,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 32457,
@@ -3217,6 +3297,14 @@
       "onboard_time": 1762727295,
       "rank": 28,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 30890,
+      "num": 205404,
+      "word": "凤凰进入24小时台风警戒线",
+      "onboard_time": 1762778960,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 30738,
@@ -3257,14 +3345,6 @@
       "onboard_time": 1762766300,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28930,
-      "num": 133606,
-      "word": "买手机会在意型号名字吗",
-      "onboard_time": 1762776200,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 28174,
@@ -3363,20 +3443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15711,
+      "num": 372152,
+      "word": "十五运见证大湾区融合发展",
+      "onboard_time": 1762779501,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13836,
       "num": 23386,
       "word": "惊喜之夜红毯",
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13527,
-      "num": 168386,
-      "word": "凤凰进入24小时台风警戒线",
-      "onboard_time": 1762778960,
-      "rank": 18,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 13436,
@@ -3415,6 +3495,9 @@
     },
     {
       "word": "#跟着习近平感受中华体育精神的力量#"
+    },
+    {
+      "word": "#习近平总书记琼粤行#"
     }
   ]
 }
