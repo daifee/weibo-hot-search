@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762750085372,
+  "endTime": 1762752497663,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1038708,
+      "num": 179782,
+      "word": "迪丽热巴身体状况",
+      "onboard_time": 1762748840,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949508,
       "num": 180614,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757713,
+      "num": 1121234,
+      "word": "明星大侦探 撒贝宁",
+      "onboard_time": 1762749802,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 737782,
@@ -99,14 +115,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 575016,
-      "num": 179782,
-      "word": "迪丽热巴身体状况",
-      "onboard_time": 1762748840,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569968,
       "num": 179560,
       "word": "刘昊然卸下了余淮的名字",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425138,
+      "num": 167870,
+      "word": "王安宇高中毕业照",
+      "onboard_time": 1762748901,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393970,
       "num": 393970,
       "word": "奔跑吧",
@@ -193,6 +209,14 @@
       "onboard_time": 1762747220,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365282,
+      "num": 365282,
+      "word": "海魂衫 张晚意马思纯",
+      "onboard_time": 1762749802,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 347670,
@@ -219,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335823,
+      "num": 335823,
+      "word": "樊振东vs周雨",
+      "onboard_time": 1762749021,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330521,
       "num": 330521,
       "word": "上上谦仅剩上海1家门店",
@@ -233,6 +265,14 @@
       "onboard_time": 1762704439,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298166,
+      "num": 298166,
+      "word": "英雄联盟2",
+      "onboard_time": 1762750821,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 294474,
@@ -251,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287012,
+      "num": 168346,
+      "word": "原来这就是抑郁躯体化",
+      "onboard_time": 1762748661,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 286799,
       "num": 860350,
       "word": "央视曝光被薅羊毛的医保卡",
       "onboard_time": 1762697602,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 285990,
-      "num": 167870,
-      "word": "王安宇高中毕业照",
-      "onboard_time": 1762748901,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 276217,
@@ -347,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233162,
-      "num": 168346,
-      "word": "原来这就是抑郁躯体化",
-      "onboard_time": 1762748661,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 231525,
       "num": 231525,
       "word": "白菜免费摘谁在造谣谁在传谣",
@@ -379,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219367,
-      "num": 163219,
-      "word": "樊振东vs周雨",
-      "onboard_time": 1762749021,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219185,
       "num": 179096,
       "word": "男子回应大爷吸烟进电梯被掐灭扔出",
@@ -395,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215153,
+      "num": 215153,
+      "word": "唐诡开播第一天杨旭文就被考古了",
+      "onboard_time": 1762749261,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214851,
       "num": 214851,
       "word": "杨旭文三刀流拍了10天",
       "onboard_time": 1762736000,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211843,
+      "num": 156631,
+      "word": "差点忘了房子住进来前是什么样",
+      "onboard_time": 1762750703,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 211728,
@@ -491,14 +531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196288,
-      "num": 196288,
-      "word": "唐诡开播第一天杨旭文就被考古了",
-      "onboard_time": 1762749261,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190488,
       "num": 173006,
       "word": "年会不能停2官宣张若昀白客",
@@ -507,12 +539,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179396,
-      "num": 179396,
-      "word": "明星大侦探 撒贝宁",
-      "onboard_time": 1762749802,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 178506,
+      "num": 155899,
+      "word": "气虚vs血虚vs气血两虚",
+      "onboard_time": 1762749200,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176246,
@@ -619,6 +651,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137702,
+      "num": 159796,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1762749021,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136891,
       "num": 111093,
       "word": "4种水果其实是高糖刺客",
@@ -627,12 +667,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135286,
-      "num": 135286,
-      "word": "孙颖莎vs刘炜珊",
-      "onboard_time": 1762749021,
+      "raw_hot": 134326,
+      "num": 134326,
+      "word": "孙杨最后离开泳池向看台鞠躬",
+      "onboard_time": 1762749802,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "如果一个人朋友圈干干净净的",
+      "onboard_time": 1762747820,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 132591,
+      "num": 132591,
+      "word": "美总统称将给美国人发2000美元",
+      "onboard_time": 1762751420,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132095,
@@ -643,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130378,
-      "num": 130378,
-      "word": "气虚vs血虚vs气血两虚",
-      "onboard_time": 1762749200,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 132031,
+      "num": 132031,
+      "word": "白敬亭吃了没做发型的亏",
+      "onboard_time": 1762752019,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 129502,
@@ -731,20 +787,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121445,
+      "num": 121445,
+      "word": "原来南方小土豆不是矮的意思",
+      "onboard_time": 1762750401,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119838,
+      "num": 119838,
+      "word": "新人结婚当天在婚车上睡着了",
+      "onboard_time": 1762749980,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "400万粉丝博主声鸣远扬爆冷淘汰",
       "onboard_time": 1762702341,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118761,
-      "num": 118761,
-      "word": "新人结婚当天在婚车上睡着了",
-      "onboard_time": 1762749980,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 117186,
@@ -771,14 +835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114485,
-      "num": 114485,
-      "word": "海魂衫 张晚意马思纯",
-      "onboard_time": 1762749802,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113640,
       "num": 113640,
       "word": "陈赫找了一晚上这照片里的鹿晗",
@@ -803,20 +859,28 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 111088,
-      "num": 111088,
-      "word": "如果一个人朋友圈干干净净的",
-      "onboard_time": 1762747820,
-      "rank": 46,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 110398,
       "num": 266943,
       "word": "全运会开幕式",
       "onboard_time": 1762683319,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109459,
+      "num": 132191,
+      "word": "电子骑士去世",
+      "onboard_time": 1762750041,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108467,
+      "num": 108467,
+      "word": "T1全员奖杯合照",
+      "onboard_time": 1762752199,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 108033,
@@ -835,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104290,
-      "num": 104290,
-      "word": "电子骑士去世",
-      "onboard_time": 1762750041,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
@@ -857,6 +913,14 @@
       "onboard_time": 1762744459,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101107,
+      "num": 159522,
+      "word": "孙杨今晚出战两项决赛",
+      "onboard_time": 1762751180,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 100407,
@@ -891,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98101,
+      "num": 98101,
+      "word": "国漫最受欢迎的女主",
+      "onboard_time": 1762750703,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97977,
       "num": 97977,
       "word": "爱奇艺角色热度",
@@ -907,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97399,
+      "num": 97399,
+      "word": "琥珀猫眼美甲",
+      "onboard_time": 1762752320,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 96888,
       "num": 96888,
       "word": "吴磊男主剧剑来配置",
       "onboard_time": 1762743500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96053,
+      "num": 96053,
+      "word": "姐姐被冒名与妹夫结婚30余年",
+      "onboard_time": 1762752440,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95082,
@@ -945,6 +1033,14 @@
       "onboard_time": 1762741458,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92139,
+      "num": 95919,
+      "word": "暂停对美船舶收船舶特别港务费1年",
+      "onboard_time": 1762751661,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91782,
@@ -1008,14 +1104,6 @@
       "word": "马龙全运会目标填补生涯唯一空缺",
       "onboard_time": 1762730179,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86487,
-      "num": 102028,
-      "word": "孙杨最后离开泳池向看台鞠躬",
-      "onboard_time": 1762749802,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -1459,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36283,
+      "num": 157333,
+      "word": "刘恋连线京东直播比价现场",
+      "onboard_time": 1762751060,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 35774,
       "num": 48101,
       "word": "T1回应夺冠",
@@ -1468,7 +1564,7 @@
     },
     {
       "raw_hot": 34912,
-      "num": 367472,
+      "num": 384931,
       "word": "4个关键词解读十五运会点火创意",
       "onboard_time": 1762744580,
       "rank": 2,

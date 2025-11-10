@@ -1,0 +1,410 @@
+{
+  "runTime": 1762752497663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757713,
+        "num": 1121234,
+        "word": "明星大侦探 撒贝宁",
+        "onboard_time": 1762749802,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474281,
+        "num": 474281,
+        "word": "不得要求教师承担上街执勤等任务",
+        "onboard_time": 1762747040,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 19796,
+        "num": 384931,
+        "word": "4个关键词解读十五运会点火创意",
+        "onboard_time": 1762744580,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365282,
+        "num": 365282,
+        "word": "海魂衫 张晚意马思纯",
+        "onboard_time": 1762749802,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335823,
+        "num": 335823,
+        "word": "樊振东vs周雨",
+        "onboard_time": 1762749021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298166,
+        "num": 298166,
+        "word": "英雄联盟2",
+        "onboard_time": 1762750821,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215153,
+        "num": 215153,
+        "word": "唐诡开播第一天杨旭文就被考古了",
+        "onboard_time": 1762749261,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198082,
+        "num": 198082,
+        "word": "台湾高度关注央视起底沈伯洋",
+        "onboard_time": 1762735760,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159900,
+        "num": 159900,
+        "word": "白菜免费摘谁在造谣谁在传谣",
+        "onboard_time": 1762745360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137702,
+        "num": 159796,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1762749021,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101107,
+        "num": 159522,
+        "word": "孙杨今晚出战两项决赛",
+        "onboard_time": 1762751180,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 948315,
+        "num": 159266,
+        "word": "霍汶希曝英皇艺人不跳槽真实原因",
+        "onboard_time": 1762748182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474408,
+        "num": 159063,
+        "word": "是谁杀死了贺繁星",
+        "onboard_time": 1762746500,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441000,
+        "num": 158874,
+        "word": "2025环球小姐集体退赛",
+        "onboard_time": 1762745539,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 414644,
+        "num": 158541,
+        "word": "范丞丞说新疆全是迪丽热巴古力娜扎",
+        "onboard_time": 1762746379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330575,
+        "num": 158354,
+        "word": "曝英雄联盟2有望明年上线",
+        "onboard_time": 1762747220,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281731,
+        "num": 158127,
+        "word": "将门毒后",
+        "onboard_time": 1762738700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258355,
+        "num": 157950,
+        "word": "最好吃的苹果方式",
+        "onboard_time": 1762746200,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237631,
+        "num": 157698,
+        "word": "大量看书后真的能改变人的潜意识",
+        "onboard_time": 1762743200,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 36283,
+        "num": 157333,
+        "word": "刘恋连线京东直播比价现场",
+        "onboard_time": 1762751060,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 1038708,
+        "num": 157275,
+        "word": "迪丽热巴身体状况",
+        "onboard_time": 1762748840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425138,
+        "num": 156983,
+        "word": "王安宇高中毕业照",
+        "onboard_time": 1762748901,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211843,
+        "num": 156631,
+        "word": "差点忘了房子住进来前是什么样",
+        "onboard_time": 1762750703,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367027,
+        "num": 156595,
+        "word": "金价",
+        "onboard_time": 1762743620,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355398,
+        "num": 156181,
+        "word": "陈赫庆生照差点没看见鹿晗",
+        "onboard_time": 1762736060,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287012,
+        "num": 155938,
+        "word": "原来这就是抑郁躯体化",
+        "onboard_time": 1762748661,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 178506,
+        "num": 155899,
+        "word": "气虚vs血虚vs气血两虚",
+        "onboard_time": 1762749200,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155681,
+        "num": 155681,
+        "word": "丁禹兮李兰迪 月都花落",
+        "onboard_time": 1762743800,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143992,
+        "num": 143992,
+        "word": "姜潮说岳母出门打扮得像走红毯",
+        "onboard_time": 1762747339,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "孙杨最后离开泳池向看台鞠躬",
+        "onboard_time": 1762749802,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133227,
+        "num": 133227,
+        "word": "A股大消费概念爆发",
+        "onboard_time": 1762747339,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132931,
+        "num": 132931,
+        "word": "如果一个人朋友圈干干净净的",
+        "onboard_time": 1762747820,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 132591,
+        "num": 132591,
+        "word": "美总统称将给美国人发2000美元",
+        "onboard_time": 1762751420,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132394,
+        "num": 132394,
+        "word": "第一次见何炅主持结巴",
+        "onboard_time": 1762703541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109459,
+        "num": 132191,
+        "word": "电子骑士去世",
+        "onboard_time": 1762750041,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32311,
+        "num": 132106,
+        "word": "米卡在京东直播说猕猴桃头太冷了",
+        "onboard_time": 1762748121,
+        "rank": 35,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 132031,
+        "num": 132031,
+        "word": "白敬亭吃了没做发型的亏",
+        "onboard_time": 1762752019,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129249,
+        "num": 129249,
+        "word": "易烊千玺 叔圈开门",
+        "onboard_time": 1762746619,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121445,
+        "num": 121445,
+        "word": "原来南方小土豆不是矮的意思",
+        "onboard_time": 1762750401,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119838,
+        "num": 119838,
+        "word": "新人结婚当天在婚车上睡着了",
+        "onboard_time": 1762749980,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108467,
+        "num": 108467,
+        "word": "T1全员奖杯合照",
+        "onboard_time": 1762752199,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107993,
+        "num": 107993,
+        "word": "尹锡悦拘留所里100天赚6.5亿",
+        "onboard_time": 1762744818,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99819,
+        "num": 99819,
+        "word": "刘昊然卸下了余淮的名字",
+        "onboard_time": 1762736300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98101,
+        "num": 98101,
+        "word": "国漫最受欢迎的女主",
+        "onboard_time": 1762750703,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30633,
+        "num": 98025,
+        "word": "全网都在清购物车",
+        "onboard_time": 1762748000,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98002,
+        "num": 98002,
+        "word": "郭宇欣回应粉丝让少接吻戏",
+        "onboard_time": 1762748301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97399,
+        "num": 97399,
+        "word": "琥珀猫眼美甲",
+        "onboard_time": 1762752320,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96328,
+        "num": 96328,
+        "word": "折月亮",
+        "onboard_time": 1762743379,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96053,
+        "num": 96053,
+        "word": "姐姐被冒名与妹夫结婚30余年",
+        "onboard_time": 1762752440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92139,
+        "num": 95919,
+        "word": "暂停对美船舶收船舶特别港务费1年",
+        "onboard_time": 1762751661,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第十五届全运会开幕式#"
+    }
+  }
+}
