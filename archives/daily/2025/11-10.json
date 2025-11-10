@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762774778441,
+  "endTime": 1762779325187,
   "band_list": [
     {
       "raw_hot": 2146340,
@@ -33,6 +33,14 @@
       "onboard_time": 1762759160,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1310167,
+      "num": 172832,
+      "word": "南宁二中 学霸文笔",
+      "onboard_time": 1762775902,
+      "rank": 12,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1263831,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 674044,
+      "num": 171667,
+      "word": "南宁二中 咯噔",
+      "onboard_time": 1762776200,
+      "rank": 14,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 665164,
       "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
@@ -128,6 +144,22 @@
       "word": "范丞丞说新疆全是迪丽热巴古力娜扎",
       "onboard_time": 1762746379,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 635537,
+      "num": 173675,
+      "word": "桃黑黑女友自曝不整容的原因",
+      "onboard_time": 1762774101,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 634010,
+      "num": 172009,
+      "word": "关晓彤搅半天一口没吃",
+      "onboard_time": 1762771400,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -187,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580841,
-      "num": 163385,
-      "word": "关晓彤搅半天一口没吃",
-      "onboard_time": 1762771400,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 580213,
       "num": 182224,
       "word": "大量看书后真的能改变人的潜意识",
@@ -209,6 +233,14 @@
       "onboard_time": 1762736300,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555432,
+      "num": 1088869,
+      "word": "疯狂好六夜",
+      "onboard_time": 1762774638,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 554215,
@@ -243,6 +275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 499022,
+      "num": 166393,
+      "word": "刘宇宁去医院怕被拍到",
+      "onboard_time": 1762774820,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496356,
       "num": 1079417,
       "word": "芒果辟谣撒贝宁回归大侦探",
@@ -257,6 +297,14 @@
       "onboard_time": 1762770921,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487921,
+      "num": 161412,
+      "word": "董璇回应婚礼餐标",
+      "onboard_time": 1762773501,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 461960,
@@ -281,6 +329,14 @@
       "onboard_time": 1762700781,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449109,
+      "num": 449109,
+      "word": "陈芋汐全运会10米台金牌",
+      "onboard_time": 1762778361,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 442700,
@@ -313,6 +369,14 @@
       "onboard_time": 1762756819,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 431700,
+      "num": 431700,
+      "word": "潘展乐全运会400自第五",
+      "onboard_time": 1762773919,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 429183,
@@ -467,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333908,
+      "num": 333908,
+      "word": "何炅谢娜维嘉同台主持",
+      "onboard_time": 1762776799,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333848,
       "num": 208826,
       "word": "张予曦 蜘蛛精卖袜子",
@@ -488,14 +560,6 @@
       "word": "白鹿宋雨琦互换发色",
       "onboard_time": 1762755440,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 327449,
-      "num": 161412,
-      "word": "董璇回应婚礼餐标",
-      "onboard_time": 1762773501,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -569,6 +633,14 @@
       "onboard_time": 1762697542,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275968,
+      "num": 207957,
+      "word": "唐朝诡事录 舞阳",
+      "onboard_time": 1762777281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 274176,
@@ -691,6 +763,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233743,
+      "num": 169675,
+      "word": "王鹤棣孟子义生图",
+      "onboard_time": 1762775060,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232427,
+      "num": 144786,
+      "word": "咖啡上撒蟑螂1杯40元",
+      "onboard_time": 1762773319,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231525,
       "num": 231525,
       "word": "白菜免费摘谁在造谣谁在传谣",
@@ -737,6 +825,14 @@
       "onboard_time": 1762742180,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215639,
+      "num": 131369,
+      "word": "35岁坚持面部刮痧一年的变化",
+      "onboard_time": 1762775539,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 215153,
@@ -827,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206396,
+      "num": 134543,
+      "word": "谢娜王鹤棣贴身热舞",
+      "onboard_time": 1762778841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205874,
       "num": 130353,
       "word": "周雨vs樊振东",
@@ -835,20 +939,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205771,
+      "num": 179571,
+      "word": "何瑞贤收拾收拾准备升咖",
+      "onboard_time": 1762773680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205211,
       "num": 147608,
       "word": "澳大利亚偶遇何超莲窦骁",
       "onboard_time": 1762689920,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204789,
-      "num": 179571,
-      "word": "何瑞贤收拾收拾准备升咖",
-      "onboard_time": 1762773680,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 203536,
@@ -883,12 +987,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196400,
+      "num": 131151,
+      "word": "钎城被金鱼包围的一天",
+      "onboard_time": 1762779202,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196107,
       "num": 196107,
       "word": "看舌头判断自己脾胃虚不虚",
       "onboard_time": 1762762281,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "王楚钦vs魏世皓",
+      "onboard_time": 1762778841,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 194012,
@@ -971,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176001,
+      "num": 176001,
+      "word": "孙杨第6",
+      "onboard_time": 1762774702,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175898,
       "num": 175743,
       "word": "卢凌风登基的有点草率",
@@ -993,6 +1121,14 @@
       "onboard_time": 1762772901,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166271,
+      "num": 166271,
+      "word": "日方紧急找补称涉台立场没变",
+      "onboard_time": 1762778001,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165987,
@@ -1083,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155616,
+      "num": 130000,
+      "word": "汪顺潘展乐出战接力",
+      "onboard_time": 1762779081,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153736,
       "num": 153736,
       "word": "巩俐郭晶晶合照",
@@ -1155,14 +1299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144786,
-      "num": 144786,
-      "word": "咖啡上撒蟑螂1杯40元",
-      "onboard_time": 1762773319,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144780,
       "num": 144780,
       "word": "胖多囊vs瘦多囊",
@@ -1177,14 +1313,6 @@
       "onboard_time": 1762749980,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143046,
-      "num": 143046,
-      "word": "桃黑黑女友自曝不整容的原因",
-      "onboard_time": 1762774101,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 142484,
@@ -1267,6 +1395,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 135057,
+      "num": 135057,
+      "word": "河北燕郊7死27伤爆燃事故调查报告",
+      "onboard_time": 1762776920,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134310,
       "num": 134310,
       "word": "樊振东谈十五运会首秀",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1762697483,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 128218,
+      "num": 128218,
+      "word": "日本人称李白诗歌是东亚共有财富",
+      "onboard_time": 1762776261,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127368,
@@ -1449,6 +1593,14 @@
       "onboard_time": 1762750401,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121107,
+      "num": 121107,
+      "word": "TOP 扫楼",
+      "onboard_time": 1762776200,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 120946,
@@ -1755,14 +1907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104380,
-      "num": 104380,
-      "word": "疯狂好六夜",
-      "onboard_time": 1762774638,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103959,
       "num": 103959,
       "word": "十年前的白敬亭胡先煦",
@@ -1801,6 +1945,14 @@
       "onboard_time": 1762772240,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103241,
+      "num": 103241,
+      "word": "台湾省台中市街景",
+      "onboard_time": 1762776680,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 103148,
@@ -2003,14 +2155,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 97294,
-      "num": 97294,
-      "word": "孙杨第6",
-      "onboard_time": 1762774702,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96888,
       "num": 96888,
       "word": "吴磊男主剧剑来配置",
@@ -2131,14 +2275,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 90170,
-      "num": 161689,
-      "word": "潘展乐全运会400自第五",
-      "onboard_time": 1762773919,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89979,
       "num": 89979,
       "word": "宋亚轩到底谁给你的错觉",
@@ -2169,6 +2305,14 @@
       "onboard_time": 1762742659,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89349,
+      "num": 89349,
+      "word": "气血不足腿脚先知",
+      "onboard_time": 1762779202,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89046,
@@ -2219,6 +2363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87760,
+      "num": 114277,
+      "word": "日本熊肉检测出放射性超标",
+      "onboard_time": 1762774520,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87318,
+      "num": 87318,
+      "word": "王源 晴天娃娃本娃",
+      "onboard_time": 1762778001,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86945,
       "num": 114138,
       "word": "张雨霏回应变瘦",
@@ -2251,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83360,
+      "num": 83360,
+      "word": "丞磊 英伦王子",
+      "onboard_time": 1762777880,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83269,
       "num": 83269,
       "word": "十五运开幕式直播",
@@ -2281,14 +2449,6 @@
       "onboard_time": 1762701383,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81893,
-      "num": 114277,
-      "word": "日本熊肉检测出放射性超标",
-      "onboard_time": 1762774520,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 81804,
@@ -2368,6 +2528,14 @@
       "word": "谢娜坐高铁偶遇王鹤棣",
       "onboard_time": 1762674919,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78525,
+      "num": 123265,
+      "word": "陈妍希感谢谢楠救场婚礼",
+      "onboard_time": 1762778661,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2771,6 +2939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54576,
+      "num": 167855,
+      "word": "双十一最后一波尾款",
+      "onboard_time": 1762777580,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52914,
       "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
@@ -2915,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41384,
+      "num": 175618,
+      "word": "燕郊爆燃7人被采取刑事强制措施",
+      "onboard_time": 1762778540,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41207,
       "num": 45052,
       "word": "中国默默炫了一次技术",
@@ -2988,7 +3172,7 @@
     },
     {
       "raw_hot": 35044,
-      "num": 363239,
+      "num": 433690,
       "word": "十五运会新华社出图",
       "onboard_time": 1762761621,
       "rank": 2,
@@ -3001,6 +3185,14 @@
       "onboard_time": 1762744580,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33014,
+      "num": 129567,
+      "word": "秋冬买衣服记得看细节",
+      "onboard_time": 1762778901,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 32457,
@@ -3025,6 +3217,14 @@
       "onboard_time": 1762727295,
       "rank": 28,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 30738,
+      "num": 123304,
+      "word": "女子丧夫出车祸被PUA克子散财体质",
+      "onboard_time": 1762778421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30395,
@@ -3059,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28930,
+      "num": 133606,
+      "word": "买手机会在意型号名字吗",
+      "onboard_time": 1762776200,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28174,
       "num": 162095,
       "word": "登陆少年青春故事大揭秘",
@@ -3081,6 +3289,14 @@
       "onboard_time": 1762759641,
       "rank": 37,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 23517,
+      "num": 130654,
+      "word": "中国船舶与特殊军迷的梦幻联动",
+      "onboard_time": 1762777220,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23335,
@@ -3153,6 +3369,14 @@
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13527,
+      "num": 168386,
+      "word": "凤凰进入24小时台风警戒线",
+      "onboard_time": 1762778960,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13436,

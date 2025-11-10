@@ -1,0 +1,410 @@
+{
+  "runTime": 1762779325187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555432,
+        "num": 1088869,
+        "word": "疯狂好六夜",
+        "onboard_time": 1762774638,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449109,
+        "num": 449109,
+        "word": "陈芋汐全运会10米台金牌",
+        "onboard_time": 1762778361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20418,
+        "num": 433690,
+        "word": "十五运会新华社出图",
+        "onboard_time": 1762761621,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431700,
+        "num": 431700,
+        "word": "潘展乐全运会400自第五",
+        "onboard_time": 1762773919,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333908,
+        "num": 333908,
+        "word": "何炅谢娜维嘉同台主持",
+        "onboard_time": 1762776799,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211603,
+        "num": 211603,
+        "word": "台风",
+        "onboard_time": 1762772240,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 275968,
+        "num": 207957,
+        "word": "唐朝诡事录 舞阳",
+        "onboard_time": 1762777281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194143,
+        "num": 194143,
+        "word": "王楚钦vs魏世皓",
+        "onboard_time": 1762778841,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176001,
+        "num": 176001,
+        "word": "孙杨第6",
+        "onboard_time": 1762774702,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41384,
+        "num": 175618,
+        "word": "燕郊爆燃7人被采取刑事强制措施",
+        "onboard_time": 1762778540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1748962,
+        "num": 174388,
+        "word": "南宁二中星轨",
+        "onboard_time": 1762768160,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 635537,
+        "num": 173675,
+        "word": "桃黑黑女友自曝不整容的原因",
+        "onboard_time": 1762774101,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1310167,
+        "num": 172832,
+        "word": "南宁二中 学霸文笔",
+        "onboard_time": 1762775902,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 634010,
+        "num": 172009,
+        "word": "关晓彤搅半天一口没吃",
+        "onboard_time": 1762771400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674044,
+        "num": 171667,
+        "word": "南宁二中 咯噔",
+        "onboard_time": 1762776200,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 450004,
+        "num": 171104,
+        "word": "印度轮奸案受害女子遭代理律师强奸",
+        "onboard_time": 1762759160,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233743,
+        "num": 169675,
+        "word": "王鹤棣孟子义生图",
+        "onboard_time": 1762775060,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207075,
+        "num": 168949,
+        "word": "朱孝天方回应F4变F3",
+        "onboard_time": 1762771099,
+        "rank": 17,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 13527,
+        "num": 168386,
+        "word": "凤凰进入24小时台风警戒线",
+        "onboard_time": 1762778960,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54576,
+        "num": 167855,
+        "word": "双十一最后一波尾款",
+        "onboard_time": 1762777580,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 499022,
+        "num": 166393,
+        "word": "刘宇宁去医院怕被拍到",
+        "onboard_time": 1762774820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166271,
+        "num": 166271,
+        "word": "日方紧急找补称涉台立场没变",
+        "onboard_time": 1762778001,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205771,
+        "num": 159667,
+        "word": "何瑞贤收拾收拾准备升咖",
+        "onboard_time": 1762773680,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135057,
+        "num": 135057,
+        "word": "河北燕郊7死27伤爆燃事故调查报告",
+        "onboard_time": 1762776920,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206396,
+        "num": 134543,
+        "word": "谢娜王鹤棣贴身热舞",
+        "onboard_time": 1762778841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487921,
+        "num": 134047,
+        "word": "董璇回应婚礼餐标",
+        "onboard_time": 1762773501,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28930,
+        "num": 133606,
+        "word": "买手机会在意型号名字吗",
+        "onboard_time": 1762776200,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335288,
+        "num": 133068,
+        "word": "罗云熙林允杀死了剧宣比赛",
+        "onboard_time": 1762770921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300374,
+        "num": 132343,
+        "word": "女婴出生3天被爸爸外婆120元卖掉",
+        "onboard_time": 1762767920,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232427,
+        "num": 132337,
+        "word": "咖啡上撒蟑螂1杯40元",
+        "onboard_time": 1762773319,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215639,
+        "num": 131369,
+        "word": "35岁坚持面部刮痧一年的变化",
+        "onboard_time": 1762775539,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 196400,
+        "num": 131151,
+        "word": "钎城被金鱼包围的一天",
+        "onboard_time": 1762779202,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23517,
+        "num": 130654,
+        "word": "中国船舶与特殊军迷的梦幻联动",
+        "onboard_time": 1762777220,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155616,
+        "num": 130000,
+        "word": "汪顺潘展乐出战接力",
+        "onboard_time": 1762779081,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33014,
+        "num": 129567,
+        "word": "秋冬买衣服记得看细节",
+        "onboard_time": 1762778901,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 129076,
+        "num": 129076,
+        "word": "求沈月张凌赫合作 但不是这个沈月",
+        "onboard_time": 1762756641,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128218,
+        "num": 128218,
+        "word": "日本人称李白诗歌是东亚共有财富",
+        "onboard_time": 1762776261,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124858,
+        "num": 124858,
+        "word": "捐款造航母男生获赠福建舰手表",
+        "onboard_time": 1762771940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30738,
+        "num": 123304,
+        "word": "女子丧夫出车祸被PUA克子散财体质",
+        "onboard_time": 1762778421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78525,
+        "num": 123265,
+        "word": "陈妍希感谢谢楠救场婚礼",
+        "onboard_time": 1762778661,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123242,
+        "num": 123242,
+        "word": "许我耀眼集均6328万",
+        "onboard_time": 1762768700,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121107,
+        "num": 121107,
+        "word": "TOP 扫楼",
+        "onboard_time": 1762776200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 103241,
+        "word": "台湾省台中市街景",
+        "onboard_time": 1762776680,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100523,
+        "num": 100523,
+        "word": "中国单方面免签不存在吃亏",
+        "onboard_time": 1762764379,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96630,
+        "num": 96630,
+        "word": "将门毒后 鹤男",
+        "onboard_time": 1762761019,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89349,
+        "num": 89349,
+        "word": "气血不足腿脚先知",
+        "onboard_time": 1762779202,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87760,
+        "num": 87760,
+        "word": "日本熊肉检测出放射性超标",
+        "onboard_time": 1762774520,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87646,
+        "num": 87646,
+        "word": "原来很多人一直都用错纸了",
+        "onboard_time": 1762772901,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87318,
+        "num": 87318,
+        "word": "王源 晴天娃娃本娃",
+        "onboard_time": 1762778001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83360,
+        "num": 83360,
+        "word": "丞磊 英伦王子",
+        "onboard_time": 1762777880,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平感受中华体育精神的力量#"
+    }
+  }
+}
