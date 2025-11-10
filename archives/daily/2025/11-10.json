@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762740192342,
+  "endTime": 1762741549893,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -11,7 +11,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 822265,
+      "raw_hot": 949508,
       "num": 117005,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 665164,
-      "num": 121035,
+      "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
       "onboard_time": 1762735760,
       "rank": 11,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 569968,
-      "num": 120810,
+      "num": 121599,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552767,
+      "num": 121836,
+      "word": "将门毒后",
+      "onboard_time": 1762738700,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 535063,
@@ -59,6 +67,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 461960,
+      "num": 119989,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762736179,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459349,
       "num": 252232,
       "word": "何炅的救场",
@@ -67,20 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452498,
-      "num": 119989,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1762736179,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 442700,
       "num": 241942,
       "word": "路易吉被曝在监狱内非常受欢迎",
       "onboard_time": 1762698922,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 429183,
+      "num": 115390,
+      "word": "辛芷蕾现在车马很快不需要写信",
+      "onboard_time": 1762738639,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 388196,
@@ -105,14 +121,6 @@
       "onboard_time": 1762704439,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306557,
-      "num": 119195,
-      "word": "将门毒后",
-      "onboard_time": 1762738700,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 294474,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 241886,
-      "num": 153771,
+      "num": 185901,
       "word": "Faker说这一冠不为任何人",
       "onboard_time": 1762734380,
       "rank": 5,
@@ -185,6 +193,14 @@
       "onboard_time": 1762703001,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238881,
+      "num": 116098,
+      "word": "武大土木高材生转行做游戏轻松夺金奖",
+      "onboard_time": 1762739838,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 236604,
@@ -209,6 +225,14 @@
       "onboard_time": 1762734320,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214851,
+      "num": 214851,
+      "word": "杨旭文三刀流拍了10天",
+      "onboard_time": 1762736000,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 211728,
@@ -251,30 +275,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 198448,
-      "num": 198448,
-      "word": "杨旭文三刀流拍了10天",
-      "onboard_time": 1762736000,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184024,
-      "num": 116098,
-      "word": "武大土木高材生转行做游戏轻松夺金奖",
-      "onboard_time": 1762739838,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 175401,
-      "num": 115390,
-      "word": "辛芷蕾现在车马很快不需要写信",
-      "onboard_time": 1762738639,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175380,
       "num": 175380,
       "word": "T1三连冠",
@@ -283,12 +283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158274,
+      "num": 114748,
+      "word": "洗澡后3分钟内要涂保湿霜",
+      "onboard_time": 1762700962,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157656,
       "num": 157656,
       "word": "张晚意一唱慢冷就哭",
       "onboard_time": 1762701561,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149438,
+      "num": 149438,
+      "word": "奔跑吧",
+      "onboard_time": 1762740678,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 149255,
@@ -305,14 +321,6 @@
       "onboard_time": 1762695861,
       "rank": 19,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 138403,
-      "num": 114748,
-      "word": "洗澡后3分钟内要涂保湿霜",
-      "onboard_time": 1762700962,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136891,
@@ -339,6 +347,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 127482,
+      "num": 127482,
+      "word": "全运会",
+      "onboard_time": 1762683680,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125183,
+      "num": 103498,
+      "word": "朱瑶张平收到了耿耿余淮的祝福",
+      "onboard_time": 1762740319,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123344,
       "num": 123344,
       "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
@@ -347,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123343,
+      "num": 123343,
+      "word": "特朗普称政府停摆接近结束",
+      "onboard_time": 1762740559,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123031,
       "num": 123031,
       "word": "蔡徐坤浴袍舞台",
       "onboard_time": 1762739058,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121251,
-      "num": 122666,
-      "word": "全运会",
-      "onboard_time": 1762683680,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 119200,
@@ -387,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115601,
+      "num": 108361,
+      "word": "苹果煮水改善气色养护皮肤",
+      "onboard_time": 1762731439,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110398,
       "num": 266943,
       "word": "全运会开幕式",
       "onboard_time": 1762683319,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108361,
-      "num": 108361,
-      "word": "苹果煮水改善气色养护皮肤",
-      "onboard_time": 1762731439,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108033,
@@ -425,6 +449,14 @@
       "onboard_time": 1762705160,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100034,
+      "num": 121738,
+      "word": "韩国群山近海一中国渔船倾覆",
+      "onboard_time": 1762738938,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99691,
@@ -475,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92323,
+      "num": 92323,
+      "word": "大鱼海棠在此刻具象化了",
+      "onboard_time": 1762741458,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91782,
       "num": 91782,
       "word": "蔡徐坤音乐节",
@@ -489,6 +529,14 @@
       "onboard_time": 1762692142,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 88280,
+      "num": 88280,
+      "word": "Gumayusi说辅助位没人能和Keria比",
+      "onboard_time": 1762740859,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 87871,
@@ -619,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72779,
+      "num": 72779,
+      "word": "肖战一定是昨晚没睡够",
+      "onboard_time": 1762732700,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72090,
       "num": 72090,
       "word": "情绪背后可能是甲状腺在求救",
@@ -635,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70262,
-      "num": 121738,
-      "word": "韩国群山近海一中国渔船倾覆",
-      "onboard_time": 1762738938,
-      "rank": 10,
-      "category": "海外新闻"
+      "raw_hot": 70070,
+      "num": 70070,
+      "word": "古惑仔上岸四人组全运会合照",
+      "onboard_time": 1762741040,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 69350,
@@ -697,6 +753,14 @@
       "onboard_time": 1762737140,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64529,
+      "num": 64529,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 63591,
@@ -763,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60005,
+      "num": 60005,
+      "word": "闪迪涨价50%",
+      "onboard_time": 1762737320,
+      "rank": 46,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 59872,
       "num": 59872,
       "word": "任嘉伦谁让你这么帅的",
@@ -777,6 +849,14 @@
       "onboard_time": 1762702282,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55783,
+      "num": 55783,
+      "word": "被羞羞答答的刘宇宁钓到了",
+      "onboard_time": 1762741519,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 54657,
@@ -795,20 +875,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49806,
+      "num": 240248,
+      "word": "为吸粉引流直播谩骂三人被行拘",
+      "onboard_time": 1762735100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49666,
       "num": 49666,
       "word": "松岛辉空男单夺冠",
       "onboard_time": 1762731319,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48410,
-      "num": 237488,
-      "word": "为吸粉引流直播谩骂三人被行拘",
-      "onboard_time": 1762735100,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47526,
@@ -825,14 +905,6 @@
       "onboard_time": 1762731439,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44873,
-      "num": 44925,
-      "word": "嫁金钗 董思成",
-      "onboard_time": 1762713194,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 41207,

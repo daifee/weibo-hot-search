@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762740192342,
+  "endTime": 1762741549893,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -867,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 949508,
+      "num": 117005,
+      "word": "陈赫庆生照差点没看见鹿晗",
+      "onboard_time": 1762736060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943804,
       "num": 212267,
       "word": "宋祖儿早期美高留子",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1762152559,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 822265,
-      "num": 117005,
-      "word": "陈赫庆生照差点没看见鹿晗",
-      "onboard_time": 1762736060,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 820934,
@@ -1740,7 +1740,7 @@
     },
     {
       "raw_hot": 665164,
-      "num": 121035,
+      "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
       "onboard_time": 1762735760,
       "rank": 11,
@@ -2252,7 +2252,7 @@
     },
     {
       "raw_hot": 569968,
-      "num": 120810,
+      "num": 121599,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1762393940,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552767,
+      "num": 503703,
+      "word": "将门毒后",
+      "onboard_time": 1761920664,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 551885,
@@ -3243,6 +3251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 461960,
+      "num": 119989,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762126399,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459764,
       "num": 891079,
       "word": "专家称DNA证实康熙为努尔哈赤支系",
@@ -3297,14 +3313,6 @@
       "onboard_time": 1762439843,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 452498,
-      "num": 119989,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1762126399,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 451981,
@@ -3545,6 +3553,14 @@
       "onboard_time": 1762658660,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 429183,
+      "num": 115390,
+      "word": "辛芷蕾现在车马很快不需要写信",
+      "onboard_time": 1762738639,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 428553,
@@ -5251,14 +5267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306557,
-      "num": 503703,
-      "word": "将门毒后",
-      "onboard_time": 1761920664,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306519,
       "num": 173791,
       "word": "鹿晗让陈赫少吃点小龙虾吧",
@@ -6628,7 +6636,7 @@
     },
     {
       "raw_hot": 241886,
-      "num": 153771,
+      "num": 185901,
       "word": "Faker说这一冠不为任何人",
       "onboard_time": 1762734380,
       "rank": 5,
@@ -6760,6 +6768,14 @@
       "word": "王者荣耀",
       "onboard_time": 1762595842,
       "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 238881,
+      "num": 116098,
+      "word": "武大土木高材生转行做游戏轻松夺金奖",
+      "onboard_time": 1762739838,
+      "rank": 22,
       "category": "游戏"
     },
     {
@@ -7480,6 +7496,14 @@
       "word": "龚俊 你俩单独出去开一间吧",
       "onboard_time": 1762311380,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214851,
+      "num": 214851,
+      "word": "杨旭文三刀流拍了10天",
+      "onboard_time": 1762736000,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -8360,14 +8384,6 @@
       "word": "迪丽热巴肖顺尧美颜鬼王捡了个杀手",
       "onboard_time": 1762064479,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 198448,
-      "num": 198448,
-      "word": "杨旭文三刀流拍了10天",
-      "onboard_time": 1762736000,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -9379,14 +9395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184024,
-      "num": 116098,
-      "word": "武大土木高材生转行做游戏轻松夺金奖",
-      "onboard_time": 1762739838,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183896,
       "num": 183896,
       "word": "杨超越 红与黑",
@@ -9945,14 +9953,6 @@
       "onboard_time": 1762140440,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175401,
-      "num": 115390,
-      "word": "辛芷蕾现在车马很快不需要写信",
-      "onboard_time": 1762738639,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 175395,
@@ -11355,6 +11355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158274,
+      "num": 119147,
+      "word": "洗澡后3分钟内要涂保湿霜",
+      "onboard_time": 1762700962,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
@@ -12241,6 +12249,14 @@
       "onboard_time": 1762424421,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149438,
+      "num": 504114,
+      "word": "奔跑吧",
+      "onboard_time": 1761928460,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 149286,
@@ -13481,14 +13497,6 @@
       "onboard_time": 1761996440,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138403,
-      "num": 119147,
-      "word": "洗澡后3分钟内要涂保湿霜",
-      "onboard_time": 1762700962,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 138391,
@@ -15371,6 +15379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125183,
+      "num": 103498,
+      "word": "朱瑶张平收到了耿耿余淮的祝福",
+      "onboard_time": 1762740319,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125179,
       "num": 125179,
       "word": "Doran道歉表",
@@ -15665,6 +15681,14 @@
       "onboard_time": 1762140261,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123343,
+      "num": 123343,
+      "word": "特朗普称政府停摆接近结束",
+      "onboard_time": 1762740559,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123318,
@@ -17019,6 +17043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115601,
+      "num": 108361,
+      "word": "苹果煮水改善气色养护皮肤",
+      "onboard_time": 1762731439,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115533,
       "num": 115533,
       "word": "白敬亭转圈摔进王安宇怀里",
@@ -18297,14 +18329,6 @@
       "onboard_time": 1761965240,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108361,
-      "num": 108361,
-      "word": "苹果煮水改善气色养护皮肤",
-      "onboard_time": 1762731439,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108316,
@@ -20265,6 +20289,14 @@
       "onboard_time": 1762424601,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 100034,
+      "num": 121738,
+      "word": "韩国群山近海一中国渔船倾覆",
+      "onboard_time": 1762738938,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99970,
@@ -22355,6 +22387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92323,
+      "num": 92323,
+      "word": "大鱼海棠在此刻具象化了",
+      "onboard_time": 1762741458,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92321,
       "num": 92321,
       "word": "大一新生也开始卷实习了",
@@ -23561,6 +23601,14 @@
       "onboard_time": 1762434501,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88280,
+      "num": 88280,
+      "word": "Gumayusi说辅助位没人能和Keria比",
+      "onboard_time": 1762740859,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 88256,
@@ -26987,14 +27035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 73110,
-      "num": 504114,
-      "word": "奔跑吧",
-      "onboard_time": 1761928460,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73076,
       "num": 73076,
       "word": "和恶魔做了一桩交易",
@@ -27065,6 +27105,14 @@
       "onboard_time": 1762410561,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72779,
+      "num": 72779,
+      "word": "肖战一定是昨晚没睡够",
+      "onboard_time": 1762732700,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 72694,
@@ -27419,14 +27467,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 70262,
-      "num": 121738,
-      "word": "韩国群山近海一中国渔船倾覆",
-      "onboard_time": 1762738938,
-      "rank": 10,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 70193,
       "num": 79713,
       "word": "道奇卫冕",
@@ -27465,6 +27505,14 @@
       "onboard_time": 1762615702,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70070,
+      "num": 70070,
+      "word": "古惑仔上岸四人组全运会合照",
+      "onboard_time": 1762741040,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 70041,
@@ -28203,6 +28251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64529,
+      "num": 64529,
+      "word": "嫁金钗 董思成",
+      "onboard_time": 1762713194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64502,
       "num": 64502,
       "word": "一群魔丸里突然出现了一颗灵珠",
@@ -28699,6 +28755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60005,
+      "num": 60005,
+      "word": "闪迪涨价50%",
+      "onboard_time": 1762737320,
+      "rank": 46,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 60003,
       "num": 119438,
       "word": "美国UPS坠机已致12死",
@@ -29161,6 +29225,14 @@
       "onboard_time": 1762265122,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55783,
+      "num": 55783,
+      "word": "被羞羞答答的刘宇宁钓到了",
+      "onboard_time": 1762741519,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 55738,
@@ -29731,6 +29803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49806,
+      "num": 240248,
+      "word": "为吸粉引流直播谩骂三人被行拘",
+      "onboard_time": 1762735100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49698,
       "num": 99824,
       "word": "金饰以旧换新 少了21克",
@@ -29896,14 +29976,6 @@
       "word": "男子好心载同事出事故赔6万",
       "onboard_time": 1761992780,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48410,
-      "num": 237488,
-      "word": "为吸粉引流直播谩骂三人被行拘",
-      "onboard_time": 1762735100,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -30249,14 +30321,6 @@
       "onboard_time": 1762639513,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44873,
-      "num": 44925,
-      "word": "嫁金钗 董思成",
-      "onboard_time": 1762713194,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 44784,
