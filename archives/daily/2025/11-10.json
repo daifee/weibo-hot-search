@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762745994259,
+  "endTime": 1762749245736,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 949508,
-      "num": 174810,
+      "num": 180614,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 734208,
-      "num": 178649,
+      "num": 181860,
       "word": "将门毒后",
       "onboard_time": 1762738700,
       "rank": 15,
@@ -43,28 +43,68 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 638710,
+      "num": 183411,
+      "word": "范丞丞说新疆全是迪丽热巴古力娜扎",
+      "onboard_time": 1762746379,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 618122,
+      "num": 182235,
+      "word": "2025环球小姐集体退赛",
+      "onboard_time": 1762745539,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 609541,
+      "num": 182078,
+      "word": "是谁杀死了贺繁星",
+      "onboard_time": 1762746500,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590582,
-      "num": 174127,
+      "num": 180474,
       "word": "金价",
       "onboard_time": 1762743620,
       "rank": 21,
       "category": "财经"
     },
     {
+      "raw_hot": 585300,
+      "num": 181639,
+      "word": "霍汶希曝英皇艺人不跳槽真实原因",
+      "onboard_time": 1762748182,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 580213,
+      "num": 181452,
+      "word": "大量看书后真的能改变人的潜意识",
+      "onboard_time": 1762743200,
+      "rank": 15,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 569968,
-      "num": 177590,
+      "num": 179560,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 535985,
-      "num": 178167,
-      "word": "大量看书后真的能改变人的潜意识",
-      "onboard_time": 1762743200,
-      "rank": 15,
-      "category": "读书作家"
+      "raw_hot": 560286,
+      "num": 1089645,
+      "word": "不得要求教师承担上街执勤等任务",
+      "onboard_time": 1762747040,
+      "rank": 0,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 535063,
@@ -107,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 438867,
+      "num": 181281,
+      "word": "最好吃的苹果方式",
+      "onboard_time": 1762746200,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 429183,
       "num": 173722,
       "word": "辛芷蕾现在车马很快不需要写信",
@@ -131,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387556,
+      "num": 180241,
+      "word": "曝英雄联盟2有望明年上线",
+      "onboard_time": 1762747220,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347670,
       "num": 347670,
       "word": "计算机二级",
@@ -148,7 +204,7 @@
     },
     {
       "raw_hot": 339508,
-      "num": 210463,
+      "num": 296115,
       "word": "丁禹兮李兰迪 月都花落",
       "onboard_time": 1762743800,
       "rank": 6,
@@ -177,6 +233,14 @@
       "onboard_time": 1762691724,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289605,
+      "num": 179782,
+      "word": "迪丽热巴身体状况",
+      "onboard_time": 1762748840,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 288596,
@@ -227,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243059,
+      "num": 243059,
+      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+      "onboard_time": 1762744459,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241886,
       "num": 193917,
       "word": "Faker说这一冠不为任何人",
@@ -267,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231364,
-      "num": 176708,
-      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
-      "onboard_time": 1762744459,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 231525,
+      "num": 231525,
+      "word": "白菜免费摘谁在造谣谁在传谣",
+      "onboard_time": 1762745360,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227825,
@@ -292,7 +364,7 @@
     },
     {
       "raw_hot": 219185,
-      "num": 175352,
+      "num": 179096,
       "word": "男子回应大爷吸烟进电梯被掐灭扔出",
       "onboard_time": 1762742180,
       "rank": 24,
@@ -313,6 +385,14 @@
       "onboard_time": 1762700303,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211398,
+      "num": 179421,
+      "word": "姜潮说岳母出门打扮得像走红毯",
+      "onboard_time": 1762747339,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 211169,
@@ -336,6 +416,14 @@
       "word": "白百何方发说体面收场为好",
       "onboard_time": 1762704681,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207618,
+      "num": 179114,
+      "word": "易烊千玺 叔圈开门",
+      "onboard_time": 1762746619,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -379,12 +467,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "员工上班途中心梗死亡人社局不认工伤",
+      "onboard_time": 1762745539,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175380,
       "num": 175380,
       "word": "T1三连冠",
       "onboard_time": 1762690403,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 168346,
+      "word": "原来这就是抑郁躯体化",
+      "onboard_time": 1762748661,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 165702,
@@ -403,12 +507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160353,
+      "num": 160353,
+      "word": "郭宇欣回应粉丝让少接吻戏",
+      "onboard_time": 1762748301,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
       "onboard_time": 1762745480,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159649,
+      "num": 159649,
+      "word": "樊振东vs周雨",
+      "onboard_time": 1762749021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 158274,
@@ -427,12 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155362,
-      "num": 155362,
-      "word": "2025环球小姐集体退赛",
-      "onboard_time": 1762745539,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 156520,
+      "num": 156520,
+      "word": "A股大消费概念爆发",
+      "onboard_time": 1762747339,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 154441,
+      "num": 154441,
+      "word": "王安宇高中毕业照",
+      "onboard_time": 1762748901,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 149255,
@@ -451,6 +579,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145361,
+      "num": 145361,
+      "word": "蟹黄 CT扫描",
+      "onboard_time": 1762746619,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142484,
       "num": 142484,
       "word": "三十几岁正是回村种地的好时候",
@@ -465,6 +601,14 @@
       "onboard_time": 1762697002,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131958,
+      "num": 185863,
+      "word": "低价银行直供房数量激增",
+      "onboard_time": 1762743858,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129502,
@@ -523,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123121,
+      "num": 123121,
+      "word": "T1战队换六颗星头像",
+      "onboard_time": 1762747220,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123031,
       "num": 123031,
       "word": "蔡徐坤浴袍舞台",
@@ -571,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112155,
+      "num": 112155,
+      "word": "被小孩哥的文具装备震撼到了",
+      "onboard_time": 1762747640,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 111088,
+      "num": 111088,
+      "word": "如果一个人朋友圈干干净净的",
+      "onboard_time": 1762747820,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 110398,
       "num": 266943,
       "word": "全运会开幕式",
@@ -587,22 +755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107416,
-      "num": 179027,
-      "word": "低价银行直供房数量激增",
-      "onboard_time": 1762743858,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105734,
-      "num": 164465,
-      "word": "白菜免费摘谁在造谣谁在传谣",
-      "onboard_time": 1762745360,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "大爷吸烟进电梯被小伙掐灭扔出去",
@@ -611,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104628,
+      "num": 104628,
+      "word": "气虚vs血虚vs气血两虚",
+      "onboard_time": 1762749200,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
       "onboard_time": 1762703121,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101788,
+      "num": 104587,
+      "word": "周雨vs樊振东",
+      "onboard_time": 1762749200,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101367,
@@ -681,6 +849,14 @@
       "onboard_time": 1762743500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96172,
+      "num": 104254,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1762749021,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95082,
@@ -947,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71178,
+      "num": 180966,
+      "word": "全网都在清购物车",
+      "onboard_time": 1762748000,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70070,
       "num": 70070,
       "word": "古惑仔上岸四人组全运会合照",
@@ -985,14 +1169,6 @@
       "onboard_time": 1762693341,
       "rank": 44,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 65664,
-      "num": 105657,
-      "word": "员工上班途中心梗死亡人社局不认工伤",
-      "onboard_time": 1762745539,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65598,
@@ -1123,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54742,
+      "num": 147052,
+      "word": "甄远道你别闹了",
+      "onboard_time": 1762748421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54657,
       "num": 71171,
       "word": "Faker六冠王",
@@ -1185,6 +1369,14 @@
       "onboard_time": 1762731439,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39237,
+      "num": 180807,
+      "word": "米卡在京东直播说猕猴桃头太冷了",
+      "onboard_time": 1762748121,
+      "rank": 19,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 38935,
@@ -1329,6 +1521,9 @@
     },
     {
       "word": "#习近平勉励他们奋力拼搏再创佳绩#"
+    },
+    {
+      "word": "#习近平出席第十五届全运会开幕式#"
     }
   ]
 }
