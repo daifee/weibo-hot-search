@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762789452959,
+  "endTime": 1762792536276,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -699,6 +699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 518464,
+      "num": 812555,
+      "word": "告白 王星越",
+      "onboard_time": 1762788320,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516116,
       "num": 300006,
       "word": "Faker谈多兰多次失误",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1762771099,
       "rank": 33,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 368228,
+      "num": 368228,
+      "word": "故宫博物院发讣告",
+      "onboard_time": 1762791260,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366258,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1762672460,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234370,
+      "num": 153249,
+      "word": "男孩矫正基地被虐28天致半残疾",
+      "onboard_time": 1762788261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233886,
@@ -2755,14 +2779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 164204,
-      "num": 245108,
-      "word": "告白 王星越",
-      "onboard_time": 1762788320,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164152,
       "num": 164152,
       "word": "吴宜泽10比6希金斯",
@@ -3307,6 +3323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140007,
+      "num": 153471,
+      "word": "陈芋汐完美一跳全红婵起立欢呼",
+      "onboard_time": 1762785202,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139896,
       "num": 139896,
       "word": "原来感冒真的可以卡bug",
@@ -3395,14 +3419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136646,
-      "num": 153471,
-      "word": "陈芋汐完美一跳全红婵起立欢呼",
-      "onboard_time": 1762785202,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136182,
       "num": 136182,
       "word": "如果一个人朋友圈干干净净的",
@@ -3424,6 +3440,14 @@
       "word": "北京阿姨帮孙女追星竟赠蛋致谢",
       "onboard_time": 1762654161,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136127,
+      "num": 151435,
+      "word": "25岁女孩海岛求生吃了50只老鼠",
+      "onboard_time": 1762788920,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -4123,14 +4147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112885,
-      "num": 151435,
-      "word": "25岁女孩海岛求生吃了50只老鼠",
-      "onboard_time": 1762788920,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112688,
       "num": 112688,
       "word": "谁把TizzyT老鼠干放万妮达演唱会了",
@@ -4193,14 +4209,6 @@
       "onboard_time": 1762669160,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111473,
-      "num": 153249,
-      "word": "男孩矫正基地被虐28天致半残疾",
-      "onboard_time": 1762788261,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111419,
@@ -4891,6 +4899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98722,
+      "num": 151375,
+      "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
+      "onboard_time": 1762788741,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98606,
       "num": 156534,
       "word": "S15决赛",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1762763721,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96112,
+      "num": 100307,
+      "word": "何炅金龟子亲爱的小孩你辛苦了",
+      "onboard_time": 1762790300,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 95762,
@@ -5699,14 +5723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82963,
-      "num": 151375,
-      "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
-      "onboard_time": 1762788741,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 82910,
       "num": 82910,
       "word": "成毅称聚光灯关掉他就是个普通人",
@@ -5825,6 +5841,14 @@
       "onboard_time": 1762755620,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79963,
+      "num": 151257,
+      "word": "内娱来了个影视名妈组合",
+      "onboard_time": 1762789400,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79853,
@@ -6227,14 +6251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69784,
-      "num": 151257,
-      "word": "内娱来了个影视名妈组合",
-      "onboard_time": 1762789400,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69350,
       "num": 69350,
       "word": "这不是刻进我DNA的暗号吗",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1762739539,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65582,
+      "num": 98558,
+      "word": "商家已删除梁朝伟照片",
+      "onboard_time": 1762787842,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 65397,
@@ -6539,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60050,
+      "num": 98508,
+      "word": "抖音将整治茅台低价销售",
+      "onboard_time": 1762790120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60005,
       "num": 60005,
       "word": "闪迪涨价50%",
@@ -6593,6 +6625,14 @@
       "onboard_time": 1762620140,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 59027,
+      "num": 98458,
+      "word": "双十一商品到手价全凭运气",
+      "onboard_time": 1762789520,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 57941,
@@ -7632,6 +7672,14 @@
       "word": "中国国际进口博览会",
       "onboard_time": 1762695082,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19923,
+      "num": 98470,
+      "word": "殡仪馆拟搬到小区学校旁遭居民反对",
+      "onboard_time": 1762791919,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
