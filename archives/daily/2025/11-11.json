@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762814592754,
+  "endTime": 1762817148079,
   "band_list": [
     {
       "raw_hot": 841229,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414583,
+      "num": 117641,
+      "word": "商家已删除梁朝伟照片",
+      "onboard_time": 1762787842,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329345,
       "num": 117250,
       "word": "沈月发问号后秒删",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219342,
-      "num": 117641,
-      "word": "商家已删除梁朝伟照片",
-      "onboard_time": 1762787842,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 213592,
+      "num": 213592,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198611,
@@ -83,11 +91,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172335,
-      "num": 172335,
-      "word": "浙江诸暨麻糍奶奶遇车祸去世",
-      "onboard_time": 1762781421,
-      "rank": 4,
+      "raw_hot": 178418,
+      "num": 71232,
+      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "onboard_time": 1762803494,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156611,
+      "num": 117018,
+      "word": "25岁女孩海岛求生吃了50只老鼠",
+      "onboard_time": 1762788920,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -115,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140007,
-      "num": 140007,
+      "raw_hot": 145492,
+      "num": 145492,
       "word": "陈芋汐完美一跳全红婵起立欢呼",
       "onboard_time": 1762785202,
       "rank": 5,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 137712,
-      "num": 121410,
+      "num": 122100,
       "word": "何炅金龟子亲爱的小孩你辛苦了",
       "onboard_time": 1762790300,
       "rank": 18,
@@ -139,11 +155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136127,
-      "num": 117018,
-      "word": "25岁女孩海岛求生吃了50只老鼠",
-      "onboard_time": 1762788920,
-      "rank": 25,
+      "raw_hot": 136072,
+      "num": 98710,
+      "word": "王嘉尔被错认成日本人的反应",
+      "onboard_time": 1762786044,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135114,
+      "num": 128752,
+      "word": "男子带猪肉记号笔陪产怕孩子抱错",
+      "onboard_time": 1762786821,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -153,14 +177,6 @@
       "onboard_time": 1762774101,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 128752,
-      "num": 128752,
-      "word": "男子带猪肉记号笔陪产怕孩子抱错",
-      "onboard_time": 1762786821,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128720,
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105304,
-      "num": 98710,
-      "word": "王嘉尔被错认成日本人的反应",
-      "onboard_time": 1762786044,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100428,
       "num": 117458,
       "word": "35岁坚持面部刮痧一年的变化",
@@ -227,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89837,
+      "num": 49677,
+      "word": "李连杰状态",
+      "onboard_time": 1762800015,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88072,
       "num": 100061,
       "word": "日方紧急找补称涉台立场没变",
@@ -243,7 +259,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84056,
+      "raw_hot": 86453,
       "num": 135035,
       "word": "央美学生被指抄袭还获一等奖学金",
       "onboard_time": 1762780822,
@@ -257,22 +273,6 @@
       "onboard_time": 1762778841,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80243,
-      "num": 32771,
-      "word": "李连杰状态",
-      "onboard_time": 1762800015,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 80228,
-      "num": 44249,
-      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
-      "onboard_time": 1762803494,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79963,
@@ -289,6 +289,22 @@
       "onboard_time": 1762781001,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71654,
+      "num": 98458,
+      "word": "双十一商品到手价全凭运气",
+      "onboard_time": 1762789520,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 69631,
+      "num": 69631,
+      "word": "王楚钦回应全运会目标",
+      "onboard_time": 1762796536,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 68728,
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61665,
-      "num": 98458,
-      "word": "双十一商品到手价全凭运气",
-      "onboard_time": 1762789520,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 61063,
       "num": 98511,
       "word": "记者实地采访差点被孝子河污水熏吐",
@@ -347,12 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55680,
+      "raw_hot": 57413,
       "num": 98428,
       "word": "女婴出生3天被爸爸外婆120元卖掉",
       "onboard_time": 1762767920,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56247,
+      "num": 60160,
+      "word": "普京授勋时别针卡住咧嘴变表情包",
+      "onboard_time": 1762793598,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53727,
@@ -361,6 +377,14 @@
       "onboard_time": 1762785684,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51917,
+      "num": 51917,
+      "word": "董璇给张维伊发热搜",
+      "onboard_time": 1762798816,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 51586,
@@ -379,12 +403,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 46804,
-      "num": 60160,
-      "word": "普京授勋时别针卡住咧嘴变表情包",
-      "onboard_time": 1762793598,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 48283,
+      "num": 48283,
+      "word": "血糖控制不好会让眼睛受伤",
+      "onboard_time": 1762809493,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46030,
+      "num": 46030,
+      "word": "双十一",
+      "onboard_time": 1762817059,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 45685,
@@ -411,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43927,
-      "num": 43927,
-      "word": "王楚钦回应全运会目标",
-      "onboard_time": 1762796536,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43225,
       "num": 98294,
       "word": "九尾 别问了一堆假瓜",
       "onboard_time": 1762781842,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39918,
+      "num": 43347,
+      "word": "台风",
+      "onboard_time": 1762772240,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 38965,
@@ -435,20 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37254,
-      "num": 31164,
-      "word": "血糖控制不好会让眼睛受伤",
-      "onboard_time": 1762809493,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33685,
-      "num": 33685,
-      "word": "董璇给张维伊发热搜",
-      "onboard_time": 1762798816,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 35833,
+      "num": 43310,
+      "word": "海岛求生35天暴瘦28斤获7500元",
+      "onboard_time": 1762793117,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32915,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 30216,
-      "num": 31089,
+      "num": 43266,
       "word": "井柏然孙千吻戏",
       "onboard_time": 1762797495,
       "rank": 34,
@@ -507,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29583,
-      "num": 31127,
-      "word": "海岛求生35天暴瘦28斤获7500元",
-      "onboard_time": 1762793117,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 29216,
+      "num": 43256,
+      "word": "建议注销手机号前多做这一步",
+      "onboard_time": 1762815616,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 28740,
+      "num": 43238,
+      "word": "印度汽车爆炸已造成至少8人死亡",
+      "onboard_time": 1762817059,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27223,
@@ -531,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23753,
+      "num": 43191,
+      "word": "考古陈都灵南航时期日常",
+      "onboard_time": 1762799715,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18633,
       "num": 325300,
       "word": "十五运见证大湾区融合发展",
       "onboard_time": 1762779501,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17363,
-      "num": 30920,
-      "word": "考古陈都灵南航时期日常",
-      "onboard_time": 1762799715,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 15032,
