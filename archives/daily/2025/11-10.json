@@ -1,7 +1,15 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762757653027,
+  "endTime": 1762759613198,
   "band_list": [
+    {
+      "raw_hot": 1986624,
+      "num": 152830,
+      "word": "刘嘉玲喊话淘宝欺骗消费者",
+      "onboard_time": 1762757599,
+      "rank": 44,
+      "category": "艺人,互联网"
+    },
     {
       "raw_hot": 1573022,
       "num": 1573022,
@@ -65,6 +73,14 @@
       "onboard_time": 1762735760,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 653238,
+      "num": 164724,
+      "word": "求沈月张凌赫合作 但不是这个沈月",
+      "onboard_time": 1762756641,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 638710,
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 437963,
-      "num": 189040,
+      "num": 337194,
       "word": "孙杨最后离开泳池向看台鞠躬",
       "onboard_time": 1762749802,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432801,
+      "num": 163193,
+      "word": "猴哥说车前妻一家怒斥小三",
+      "onboard_time": 1762756819,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 429183,
@@ -201,6 +225,14 @@
       "onboard_time": 1762738639,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426256,
+      "num": 146173,
+      "word": "印度轮奸案受害女子遭代理律师强奸",
+      "onboard_time": 1762759160,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 425138,
@@ -241,6 +273,14 @@
       "onboard_time": 1762750821,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 372052,
+      "num": 147368,
+      "word": "陈妍希谈怀孕妊娠纹",
+      "onboard_time": 1762757780,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 365282,
@@ -355,12 +395,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 267320,
-      "num": 164724,
-      "word": "求沈月张凌赫合作 但不是这个沈月",
-      "onboard_time": 1762756641,
+      "raw_hot": 265353,
+      "num": 265353,
+      "word": "汪苏泷章若楠难哄售后来了",
+      "onboard_time": 1762756338,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264007,
+      "num": 151590,
+      "word": "丈夫去世曝出17万债务妻子拒还",
+      "onboard_time": 1762757599,
       "rank": 34,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263154,
@@ -385,14 +433,6 @@
       "onboard_time": 1762704681,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 256366,
-      "num": 256366,
-      "word": "汪苏泷章若楠难哄售后来了",
-      "onboard_time": 1762756338,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 243059,
@@ -585,14 +625,6 @@
       "onboard_time": 1762689920,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204151,
-      "num": 163193,
-      "word": "猴哥说车前妻一家怒斥小三",
-      "onboard_time": 1762756819,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 203536,
@@ -811,6 +843,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 134310,
+      "num": 134310,
+      "word": "樊振东谈十五运会首秀",
+      "onboard_time": 1762759100,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132095,
       "num": 191837,
       "word": "低价银行直供房数量激增",
@@ -859,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125378,
+      "num": 125378,
+      "word": "出示医保卡买10万购物卡超市报警",
+      "onboard_time": 1762758019,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125183,
       "num": 103498,
       "word": "朱瑶张平收到了耿耿余淮的祝福",
@@ -873,6 +921,14 @@
       "onboard_time": 1762745480,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123738,
+      "num": 153243,
+      "word": "孙颖莎回应全运会开门红",
+      "onboard_time": 1762758019,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 123344,
@@ -953,6 +1009,22 @@
       "onboard_time": 1762730237,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116153,
+      "num": 170859,
+      "word": "艺术体操王子露夺冠",
+      "onboard_time": 1762756819,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115825,
+      "num": 115825,
+      "word": "现实版QQ农场",
+      "onboard_time": 1762759221,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 115666,
@@ -1059,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106162,
+      "num": 106162,
+      "word": "考公人设",
+      "onboard_time": 1762757899,
+      "rank": 42,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "大爷吸烟进电梯被小伙掐灭扔出去",
@@ -1115,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102476,
+      "num": 102476,
+      "word": "志鑫的泪痕",
+      "onboard_time": 1762758861,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101367,
       "num": 101367,
       "word": "余霜晒和Faker合照",
@@ -1123,12 +1211,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101320,
-      "num": 101320,
-      "word": "刘嘉玲喊话淘宝欺骗消费者",
-      "onboard_time": 1762757599,
+      "raw_hot": 101239,
+      "num": 101239,
+      "word": "樊振东希望自己更释放一些",
+      "onboard_time": 1762758560,
       "rank": 44,
-      "category": "艺人,互联网"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101180,
+      "num": 101180,
+      "word": "成毅谈天地剑心",
+      "onboard_time": 1762759400,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 101107,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1762698922,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99262,
+      "num": 99262,
+      "word": "张艺兴 老板的威严",
+      "onboard_time": 1762757540,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98172,
@@ -1227,12 +1331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95539,
-      "num": 95539,
-      "word": "张艺兴 老板的威严",
-      "onboard_time": 1762757540,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 95471,
+      "num": 148763,
+      "word": "岚图汽车第30万辆整车下线",
+      "onboard_time": 1762758440,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 95082,
@@ -1352,6 +1456,14 @@
       "word": "马龙全运会目标填补生涯唯一空缺",
       "onboard_time": 1762730179,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86945,
+      "num": 108548,
+      "word": "张雨霏回应变瘦",
+      "onboard_time": 1762759578,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1523,6 +1635,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 74274,
+      "num": 107719,
+      "word": "刘冲怼脸拍张婧仪",
+      "onboard_time": 1762758379,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73066,
       "num": 78867,
       "word": "陈都灵直播",
@@ -1563,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71110,
+      "num": 93137,
+      "word": "家电换新这次真值了",
+      "onboard_time": 1762758979,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70070,
       "num": 70070,
       "word": "古惑仔上岸四人组全运会合照",
@@ -1593,14 +1721,6 @@
       "onboard_time": 1762738819,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68768,
-      "num": 170859,
-      "word": "艺术体操王子露夺冠",
-      "onboard_time": 1762756819,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 67147,
@@ -1771,14 +1891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54182,
-      "num": 111088,
-      "word": "丈夫去世曝出17万债务妻子拒还",
-      "onboard_time": 1762757599,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52914,
       "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
@@ -1811,6 +1923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48789,
+      "num": 150136,
+      "word": "京东好便宜",
+      "onboard_time": 1762758739,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 47995,
+      "num": 149837,
+      "word": "最早一批返乡过年的是水贝商家",
+      "onboard_time": 1762758440,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 47526,
       "num": 47526,
       "word": "杨瀚森连续4场被DNP",
@@ -1833,6 +1961,14 @@
       "onboard_time": 1762748121,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 43300,
+      "num": 109152,
+      "word": "AI生成野生动物视频威胁动物保护",
+      "onboard_time": 1762759578,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41207,
@@ -1899,12 +2035,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31757,
+      "num": 148512,
+      "word": "大湾鸡越看越可爱",
+      "onboard_time": 1762759221,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30905,
       "num": 44904,
       "word": "Gumayusi晒奖杯照",
       "onboard_time": 1762727295,
       "rank": 28,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 30717,
+      "num": 151421,
+      "word": "双11红包雨不一般",
+      "onboard_time": 1762758080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 30395,
@@ -1977,6 +2129,14 @@
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13436,
+      "num": 106187,
+      "word": "库里连续缺阵三场",
+      "onboard_time": 1762758379,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 13164,
