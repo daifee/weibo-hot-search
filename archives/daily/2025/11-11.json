@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762800582569,
+  "endTime": 1762802561271,
   "band_list": [
     {
       "raw_hot": 841229,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20245,
+      "num": 28530,
+      "word": "李连杰状态",
+      "onboard_time": 1762800015,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18633,
       "num": 325300,
       "word": "十五运见证大湾区融合发展",
@@ -515,19 +523,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15833,
+      "raw_hot": 17363,
       "num": 30920,
       "word": "考古陈都灵南航时期日常",
       "onboard_time": 1762799715,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14644,
-      "num": 28530,
-      "word": "李连杰状态",
-      "onboard_time": 1762800015,
-      "rank": 45,
       "category": "艺人"
     }
   ],

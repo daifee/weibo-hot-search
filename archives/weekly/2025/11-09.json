@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762800582569,
+  "endTime": 1762802561271,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -7843,6 +7843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17363,
+      "num": 30920,
+      "word": "考古陈都灵南航时期日常",
+      "onboard_time": 1762799715,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17236,
       "num": 43513,
       "word": "刘宇宁新歌若没有你",
@@ -7857,14 +7865,6 @@
       "onboard_time": 1762682420,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15833,
-      "num": 30920,
-      "word": "考古陈都灵南航时期日常",
-      "onboard_time": 1762799715,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 15749,
