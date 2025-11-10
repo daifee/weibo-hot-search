@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762759613198,
+  "endTime": 1762760406375,
   "band_list": [
     {
       "raw_hot": 1986624,
@@ -17,6 +17,14 @@
       "onboard_time": 1762703541,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1482571,
+      "num": 146173,
+      "word": "印度轮奸案受害女子遭代理律师强奸",
+      "onboard_time": 1762759160,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1263831,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 437963,
-      "num": 337194,
+      "num": 342977,
       "word": "孙杨最后离开泳池向看台鞠躬",
       "onboard_time": 1762749802,
       "rank": 49,
@@ -225,14 +233,6 @@
       "onboard_time": 1762738639,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 426256,
-      "num": 146173,
-      "word": "印度轮奸案受害女子遭代理律师强奸",
-      "onboard_time": 1762759160,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 425138,
@@ -275,7 +275,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 372052,
+      "raw_hot": 380192,
       "num": 147368,
       "word": "陈妍希谈怀孕妊娠纹",
       "onboard_time": 1762757780,
@@ -387,6 +387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 282116,
+      "num": 151590,
+      "word": "丈夫去世曝出17万债务妻子拒还",
+      "onboard_time": 1762757599,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276217,
       "num": 259332,
       "word": "Faker谈多兰多次失误",
@@ -401,14 +409,6 @@
       "onboard_time": 1762756338,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264007,
-      "num": 151590,
-      "word": "丈夫去世曝出17万债务妻子拒还",
-      "onboard_time": 1762757599,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263154,
@@ -723,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158789,
+      "num": 125378,
+      "word": "出示医保卡买10万购物卡超市报警",
+      "onboard_time": 1762758019,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158274,
       "num": 114748,
       "word": "洗澡后3分钟内要涂保湿霜",
@@ -795,6 +803,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145889,
+      "num": 139023,
+      "word": "芒果辟谣撒贝宁回归大侦探",
+      "onboard_time": 1762759761,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145361,
       "num": 145361,
       "word": "蟹黄 CT扫描",
@@ -817,6 +833,14 @@
       "onboard_time": 1762745539,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 140107,
+      "num": 120323,
+      "word": "现实版QQ农场",
+      "onboard_time": 1762759221,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 138513,
@@ -848,6 +872,14 @@
       "word": "樊振东谈十五运会首秀",
       "onboard_time": 1762759100,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132451,
+      "num": 153243,
+      "word": "孙颖莎回应全运会开门红",
+      "onboard_time": 1762758019,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -899,14 +931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125378,
-      "num": 125378,
-      "word": "出示医保卡买10万购物卡超市报警",
-      "onboard_time": 1762758019,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125183,
       "num": 103498,
       "word": "朱瑶张平收到了耿耿余淮的祝福",
@@ -921,14 +945,6 @@
       "onboard_time": 1762745480,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 123738,
-      "num": 153243,
-      "word": "孙颖莎回应全运会开门红",
-      "onboard_time": 1762758019,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 123344,
@@ -995,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118071,
+      "num": 118071,
+      "word": "考公人设",
+      "onboard_time": 1762757899,
+      "rank": 42,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 117365,
       "num": 117365,
       "word": "姐姐被冒名与妹夫结婚30余年",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1762756819,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115825,
-      "num": 115825,
-      "word": "现实版QQ农场",
-      "onboard_time": 1762759221,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 115666,
@@ -1059,6 +1075,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 112678,
+      "num": 112678,
+      "word": "陈松伶张铎一个老花一个近视",
+      "onboard_time": 1762760059,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112585,
       "num": 147052,
       "word": "甄远道你别闹了",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1762747640,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 111419,
+      "num": 111419,
+      "word": "未定事件簿左然同我仰春",
+      "onboard_time": 1762760120,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 110398,
@@ -1123,20 +1155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106704,
+      "num": 106704,
+      "word": "江浙沪父母真的太会托举孩子了",
+      "onboard_time": 1762760299,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 106317,
       "num": 161439,
       "word": "大湾鸡也不想加班",
       "onboard_time": 1762756160,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106162,
-      "num": 106162,
-      "word": "考公人设",
-      "onboard_time": 1762757899,
-      "rank": 42,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 105602,
@@ -1200,6 +1232,14 @@
       "word": "志鑫的泪痕",
       "onboard_time": 1762758861,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "Mai婚礼照",
+      "onboard_time": 1762760000,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 86945,
-      "num": 108548,
+      "num": 114138,
       "word": "张雨霏回应变瘦",
       "onboard_time": 1762759578,
       "rank": 39,
@@ -1691,6 +1731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70232,
+      "num": 150136,
+      "word": "京东好便宜",
+      "onboard_time": 1762758739,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70070,
       "num": 70070,
       "word": "古惑仔上岸四人组全运会合照",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1762738819,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67997,
+      "num": 149837,
+      "word": "最早一批返乡过年的是水贝商家",
+      "onboard_time": 1762758440,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 67147,
@@ -1899,6 +1955,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51762,
+      "num": 114545,
+      "word": "AI生成野生动物视频威胁动物保护",
+      "onboard_time": 1762759578,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50576,
+      "num": 129891,
+      "word": "宠物医院回应用CT扫描大闸蟹",
+      "onboard_time": 1762759761,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50535,
       "num": 50535,
       "word": "曼城3比0利物浦",
@@ -1921,22 +1993,6 @@
       "onboard_time": 1762731319,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48789,
-      "num": 150136,
-      "word": "京东好便宜",
-      "onboard_time": 1762758739,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 47995,
-      "num": 149837,
-      "word": "最早一批返乡过年的是水贝商家",
-      "onboard_time": 1762758440,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 47526,
@@ -1963,12 +2019,12 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 43300,
-      "num": 109152,
-      "word": "AI生成野生动物视频威胁动物保护",
-      "onboard_time": 1762759578,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 43425,
+      "num": 148512,
+      "word": "大湾鸡越看越可爱",
+      "onboard_time": 1762759221,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 41207,
@@ -2035,12 +2091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31757,
-      "num": 148512,
-      "word": "大湾鸡越看越可爱",
-      "onboard_time": 1762759221,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 31057,
+      "num": 151421,
+      "word": "双11红包雨不一般",
+      "onboard_time": 1762758080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 30905,
@@ -2051,20 +2107,20 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 30717,
-      "num": 151421,
-      "word": "双11红包雨不一般",
-      "onboard_time": 1762758080,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 30395,
       "num": 30205,
       "word": "非洲十二少",
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26167,
+      "num": 115816,
+      "word": "医保卡变购物卡引发关注",
+      "onboard_time": 1762759641,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 23335,

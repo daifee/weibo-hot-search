@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762759613198,
+  "endTime": 1762760406375,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -337,6 +337,14 @@
       "onboard_time": 1762477879,
       "rank": 3,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 1482571,
+      "num": 146173,
+      "word": "印度轮奸案受害女子遭代理律师强奸",
+      "onboard_time": 1762759160,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1474589,
@@ -3620,7 +3628,7 @@
     },
     {
       "raw_hot": 437963,
-      "num": 337194,
+      "num": 342977,
       "word": "孙杨最后离开泳池向看台鞠躬",
       "onboard_time": 1762749802,
       "rank": 49,
@@ -3721,14 +3729,6 @@
       "onboard_time": 1762497560,
       "rank": 15,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 426256,
-      "num": 146173,
-      "word": "印度轮奸案受害女子遭代理律师强奸",
-      "onboard_time": 1762759160,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 426017,
@@ -4291,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380192,
+      "num": 147368,
+      "word": "陈妍希谈怀孕妊娠纹",
+      "onboard_time": 1762757780,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379773,
       "num": 119666,
       "word": "安以轩淡出演艺圈独自带娃",
@@ -4432,14 +4440,6 @@
       "word": "张艺兴 我们去睡觉好吧",
       "onboard_time": 1762313721,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 372052,
-      "num": 147368,
-      "word": "陈妍希谈怀孕妊娠纹",
-      "onboard_time": 1762757780,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -6067,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282116,
+      "num": 151590,
+      "word": "丈夫去世曝出17万债务妻子拒还",
+      "onboard_time": 1762757599,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281685,
       "num": 281685,
       "word": "全红婵赛后采访差点哭了",
@@ -6425,14 +6433,6 @@
       "onboard_time": 1761999441,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 264007,
-      "num": 151590,
-      "word": "丈夫去世曝出17万债务妻子拒还",
-      "onboard_time": 1762757599,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263917,
@@ -11723,6 +11723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158789,
+      "num": 125378,
+      "word": "出示医保卡买10万购物卡超市报警",
+      "onboard_time": 1762758019,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158617,
       "num": 158617,
       "word": "赵晴发了新剧开机照",
@@ -13115,6 +13123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145889,
+      "num": 139023,
+      "word": "芒果辟谣撒贝宁回归大侦探",
+      "onboard_time": 1762759761,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "徐志胜让8个顶流歌手没招了",
@@ -13753,6 +13769,14 @@
       "onboard_time": 1762513281,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140107,
+      "num": 120323,
+      "word": "现实版QQ农场",
+      "onboard_time": 1762759221,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 140078,
@@ -14785,6 +14809,14 @@
       "onboard_time": 1762166601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132451,
+      "num": 153243,
+      "word": "孙颖莎回应全运会开门红",
+      "onboard_time": 1762758019,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 132436,
@@ -15875,14 +15907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125378,
-      "num": 125378,
-      "word": "出示医保卡买10万购物卡超市报警",
-      "onboard_time": 1762758019,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125341,
       "num": 125341,
       "word": "朱珠白开水妆",
@@ -16153,14 +16177,6 @@
       "onboard_time": 1762518980,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123738,
-      "num": 153243,
-      "word": "孙颖莎回应全运会开门红",
-      "onboard_time": 1762758019,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 123713,
@@ -17139,6 +17155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118071,
+      "num": 118071,
+      "word": "考公人设",
+      "onboard_time": 1762757899,
+      "rank": 42,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 117997,
       "num": 117997,
       "word": "星穹铁道昔涟角色PV",
@@ -17585,14 +17609,6 @@
       "onboard_time": 1762350562,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115825,
-      "num": 115825,
-      "word": "现实版QQ农场",
-      "onboard_time": 1762759221,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 115795,
@@ -18171,6 +18187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112678,
+      "num": 112678,
+      "word": "陈松伶张铎一个老花一个近视",
+      "onboard_time": 1762760059,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112675,
       "num": 123325,
       "word": "荷兰安世半导体无中生有恶意抹黑",
@@ -18417,6 +18441,14 @@
       "onboard_time": 1762009404,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111419,
+      "num": 111419,
+      "word": "未定事件簿左然同我仰春",
+      "onboard_time": 1762760120,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 111398,
@@ -19395,6 +19427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106704,
+      "num": 106704,
+      "word": "江浙沪父母真的太会托举孩子了",
+      "onboard_time": 1762760299,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 106684,
       "num": 106684,
       "word": "三亚海滩长满了俄罗斯人",
@@ -19497,14 +19537,6 @@
       "onboard_time": 1762250481,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106162,
-      "num": 106162,
-      "word": "考公人设",
-      "onboard_time": 1762757899,
-      "rank": 42,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 106082,
@@ -20529,6 +20561,14 @@
       "onboard_time": 1761959840,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "Mai婚礼照",
+      "onboard_time": 1762760000,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 102063,
@@ -24868,7 +24908,7 @@
     },
     {
       "raw_hot": 86945,
-      "num": 108548,
+      "num": 114138,
       "word": "张雨霏回应变瘦",
       "onboard_time": 1762759578,
       "rank": 39,
@@ -28443,6 +28483,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 70232,
+      "num": 150136,
+      "word": "京东好便宜",
+      "onboard_time": 1762758739,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70193,
       "num": 79713,
       "word": "道奇卫冕",
@@ -28769,6 +28817,14 @@
       "onboard_time": 1762497620,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67997,
+      "num": 149837,
+      "word": "最早一批返乡过年的是水贝商家",
+      "onboard_time": 1762758440,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 67928,
@@ -30619,6 +30675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51762,
+      "num": 114545,
+      "word": "AI生成野生动物视频威胁动物保护",
+      "onboard_time": 1762759578,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51694,
       "num": 110966,
       "word": "万千惠对老公的爱 包文婧都甘拜下风",
@@ -30697,6 +30761,14 @@
       "onboard_time": 1762481120,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50576,
+      "num": 129891,
+      "word": "宠物医院回应用CT扫描大闸蟹",
+      "onboard_time": 1762759761,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50535,
@@ -30947,14 +31019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48789,
-      "num": 150136,
-      "word": "京东好便宜",
-      "onboard_time": 1762758739,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48721,
       "num": 100266,
       "word": "墨西哥总统将控告骚扰其男子",
@@ -31033,14 +31097,6 @@
       "onboard_time": 1762039877,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47995,
-      "num": 149837,
-      "word": "最早一批返乡过年的是水贝商家",
-      "onboard_time": 1762758440,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 47991,
@@ -31507,12 +31563,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 43300,
-      "num": 109152,
-      "word": "AI生成野生动物视频威胁动物保护",
-      "onboard_time": 1762759578,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 43425,
+      "num": 148512,
+      "word": "大湾鸡越看越可爱",
+      "onboard_time": 1762759221,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 43172,
@@ -32619,14 +32675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31757,
-      "num": 148512,
-      "word": "大湾鸡越看越可爱",
-      "onboard_time": 1762759221,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31719,
       "num": 110974,
       "word": "张子枫王安宇或将合作无孔不入",
@@ -32707,20 +32755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31057,
+      "num": 151421,
+      "word": "双11红包雨不一般",
+      "onboard_time": 1762758080,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30905,
       "num": 44904,
       "word": "Gumayusi晒奖杯照",
       "onboard_time": 1762727295,
       "rank": 28,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 30717,
-      "num": 151421,
-      "word": "双11红包雨不一般",
-      "onboard_time": 1762758080,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 30669,
@@ -33185,6 +33233,14 @@
       "onboard_time": 1762309761,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26167,
+      "num": 115816,
+      "word": "医保卡变购物卡引发关注",
+      "onboard_time": 1762759641,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 26159,
