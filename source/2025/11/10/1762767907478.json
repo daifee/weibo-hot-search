@@ -1,0 +1,410 @@
+{
+  "runTime": 1762767907478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 417783,
+        "num": 1066845,
+        "word": "Faker发博晒经典夺冠表情",
+        "onboard_time": 1762762699,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278169,
+        "num": 278169,
+        "word": "俄罗斯观众当场教训亵渎国歌者",
+        "onboard_time": 1762762820,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32806,
+        "num": 252595,
+        "word": "十五运会新华社出图",
+        "onboard_time": 1762761621,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243740,
+        "num": 243740,
+        "word": "中国单方面免签不存在吃亏",
+        "onboard_time": 1762764379,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 197632,
+        "word": "芒果辟谣撒贝宁回归大侦探",
+        "onboard_time": 1762759761,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515700,
+        "num": 195365,
+        "word": "中方回应高市早苗暗示武力介入台海",
+        "onboard_time": 1762763239,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192387,
+        "num": 192387,
+        "word": "河南新乡门诊医保报销被限额",
+        "onboard_time": 1762763000,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182464,
+        "num": 182464,
+        "word": "六公主报道杨紫国色芳华研讨会",
+        "onboard_time": 1762762939,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150906,
+        "num": 182429,
+        "word": "孙杨最后离开泳池向看台鞠躬",
+        "onboard_time": 1762749802,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45624,
+        "num": 182033,
+        "word": "谷神星一号遥十九火箭发射失利",
+        "onboard_time": 1762766900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832302,
+        "num": 181864,
+        "word": "印度轮奸案受害女子遭代理律师强奸",
+        "onboard_time": 1762759160,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 574483,
+        "num": 181609,
+        "word": "店铺回应被刘嘉玲喊话侵权",
+        "onboard_time": 1762763421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531357,
+        "num": 181374,
+        "word": "将门毒后 鹤男",
+        "onboard_time": 1762761019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455144,
+        "num": 181157,
+        "word": "女儿养了3个月出院记录显示是男婴",
+        "onboard_time": 1762762160,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355095,
+        "num": 181024,
+        "word": "江浙沪父母真的太会托举孩子了",
+        "onboard_time": 1762760299,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 289314,
+        "num": 180842,
+        "word": "张予曦 蜘蛛精卖袜子",
+        "onboard_time": 1762762762,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209099,
+        "num": 180506,
+        "word": "好想来超市称3岁幼童偷盗千元商品",
+        "onboard_time": 1762766300,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206535,
+        "num": 180290,
+        "word": "长沙地铁内一女生衣物起火",
+        "onboard_time": 1762754479,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64257,
+        "num": 180197,
+        "word": "第一次见这么理直气壮的道歉",
+        "onboard_time": 1762767319,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46635,
+        "num": 180002,
+        "word": "看韩乔生连麦跟直接看球没区别",
+        "onboard_time": 1762766180,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738238,
+        "num": 179673,
+        "word": "黑毛一诺回归",
+        "onboard_time": 1762766180,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 405617,
+        "num": 179459,
+        "word": "求沈月张凌赫合作 但不是这个沈月",
+        "onboard_time": 1762756641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255986,
+        "num": 179285,
+        "word": "猴哥说车前妻一家怒斥小三",
+        "onboard_time": 1762756819,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221200,
+        "num": 179140,
+        "word": "迪丽热巴身体状况",
+        "onboard_time": 1762748840,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195305,
+        "num": 178783,
+        "word": "陈妍希谈怀孕妊娠纹",
+        "onboard_time": 1762757780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178740,
+        "num": 178740,
+        "word": "时代峰峻 双十一活动",
+        "onboard_time": 1762766600,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175743,
+        "num": 175743,
+        "word": "卢凌风登基的有点草率",
+        "onboard_time": 1762764861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125830,
+        "num": 125830,
+        "word": "丈夫去世曝出17万债务妻子拒还",
+        "onboard_time": 1762757599,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122290,
+        "num": 122290,
+        "word": "英雄联盟2",
+        "onboard_time": 1762750821,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118837,
+        "num": 121097,
+        "word": "新还珠剧组回应争议",
+        "onboard_time": 1762766660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38304,
+        "num": 120915,
+        "word": "全国多地西贝门店闭店",
+        "onboard_time": 1762766119,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120747,
+        "num": 120747,
+        "word": "ale谈Uzi",
+        "onboard_time": 1762764439,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118974,
+        "num": 118974,
+        "word": "孙杨以0.1秒优势惊险晋级决赛",
+        "onboard_time": 1762766780,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112957,
+        "num": 112957,
+        "word": "刘宇宁直播",
+        "onboard_time": 1762764680,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110780,
+        "num": 110780,
+        "word": "关晓彤吃瓜看孟子义",
+        "onboard_time": 1762767740,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107802,
+        "num": 107802,
+        "word": "撒贝宁 啥时候退休",
+        "onboard_time": 1762767441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102216,
+        "num": 102216,
+        "word": "周深开幕式完从头到脚都湿了",
+        "onboard_time": 1762766060,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 101185,
+        "num": 101185,
+        "word": "长期阅读对大脑的影响",
+        "onboard_time": 1762767260,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 99686,
+        "num": 99686,
+        "word": "十年前的白敬亭胡先煦",
+        "onboard_time": 1762766660,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107607,
+        "num": 99479,
+        "word": "关晓彤十三姨",
+        "onboard_time": 1762762281,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96329,
+        "num": 96329,
+        "word": "把普通的蛋糕拆开卖",
+        "onboard_time": 1762767379,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 95496,
+        "word": "8个信号是身体在疯狂暗示气血不足",
+        "onboard_time": 1762764740,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95404,
+        "num": 95404,
+        "word": "时代少年团好六夜红毯",
+        "onboard_time": 1762763899,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94367,
+        "num": 94367,
+        "word": "金价",
+        "onboard_time": 1762743620,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81804,
+        "num": 93278,
+        "word": "126斤小学生尿酸飙到440",
+        "onboard_time": 1762766420,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92615,
+        "num": 92615,
+        "word": "原来有困难真的可以找网友",
+        "onboard_time": 1762765459,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 90276,
+        "word": "北京满大街的银杏树为啥还濒危",
+        "onboard_time": 1762766240,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29269,
+        "num": 89450,
+        "word": "男子七星山荒野求生靠三件套续命",
+        "onboard_time": 1762766300,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89449,
+        "num": 89449,
+        "word": "孙颖莎低头一看拉开挡板",
+        "onboard_time": 1762767681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82102,
+        "num": 86306,
+        "word": "好六夜红毯",
+        "onboard_time": 1762761320,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第十五届全运会开幕式#"
+    }
+  }
+}
