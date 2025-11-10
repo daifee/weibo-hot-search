@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762745272145,
+  "endTime": 1762745994259,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 949508,
-      "num": 133718,
+      "num": 174810,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 734208,
-      "num": 138483,
+      "num": 178649,
       "word": "将门毒后",
       "onboard_time": 1762738700,
       "rank": 15,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 590582,
-      "num": 133167,
+      "num": 174127,
       "word": "金价",
       "onboard_time": 1762743620,
       "rank": 21,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 569968,
-      "num": 138076,
+      "num": 177590,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
@@ -401,6 +401,14 @@
       "onboard_time": 1762666340,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 535985,
+      "num": 178167,
+      "word": "大量看书后真的能改变人的潜意识",
+      "onboard_time": 1762743200,
+      "rank": 15,
+      "category": "读书作家"
     },
     {
       "raw_hot": 530567,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 461960,
-      "num": 136843,
+      "num": 176125,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1762736179,
       "rank": 14,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 429183,
-      "num": 132994,
+      "num": 173722,
       "word": "辛芷蕾现在车马很快不需要写信",
       "onboard_time": 1762738639,
       "rank": 23,
@@ -707,11 +715,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 336820,
-      "num": 336820,
+      "raw_hot": 341028,
+      "num": 341028,
       "word": "剑来首发概念片",
       "onboard_time": 1762742119,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339508,
+      "num": 210463,
+      "word": "丁禹兮李兰迪 月都花落",
+      "onboard_time": 1762743800,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -995,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269192,
-      "num": 210463,
-      "word": "丁禹兮李兰迪 月都花落",
-      "onboard_time": 1762743800,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "捐款140元给国家造航母当事人发声",
@@ -1075,14 +1083,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 248847,
-      "num": 136130,
-      "word": "大量看书后真的能改变人的潜意识",
-      "onboard_time": 1762743200,
-      "rank": 15,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 248398,
       "num": 248398,
       "word": "Faker冰鸟",
@@ -1131,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239062,
+      "num": 194641,
+      "word": "折月亮",
+      "onboard_time": 1762743379,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238881,
       "num": 123347,
       "word": "武大土木高材生转行做游戏轻松夺金奖",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1762662320,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231364,
+      "num": 176708,
+      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+      "onboard_time": 1762744459,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 231314,
@@ -1248,6 +1264,14 @@
       "word": "女子曝光服装AB版带货套路",
       "onboard_time": 1762680740,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219185,
+      "num": 175352,
+      "word": "男子回应大爷吸烟进电梯被掐灭扔出",
+      "onboard_time": 1762742180,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1371,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202145,
+      "num": 173162,
+      "word": "尹锡悦拘留所里100天赚6.5亿",
+      "onboard_time": 1762744818,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201593,
       "num": 513929,
       "word": "惊天魔盗团把我当自己人宠了",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1762692623,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190488,
+      "num": 173006,
+      "word": "年会不能停2官宣张若昀白客",
+      "onboard_time": 1762744999,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 189290,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1762691603,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176012,
-      "num": 135171,
-      "word": "折月亮",
-      "onboard_time": 1762743379,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 175711,
@@ -1739,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165702,
+      "num": 165702,
+      "word": "在音乐节的我vs在工位上的我",
+      "onboard_time": 1762744639,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164804,
       "num": 133541,
       "word": "iG全员给wei庆生",
@@ -1779,28 +1819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163952,
+      "num": 163952,
+      "word": "Bang回应被Gumayusi超越",
+      "onboard_time": 1762745539,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "Faker感谢KT",
       "onboard_time": 1762694962,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163010,
-      "num": 134751,
-      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
-      "onboard_time": 1762744459,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161361,
-      "num": 132092,
-      "word": "男子回应大爷吸烟进电梯被掐灭扔出",
-      "onboard_time": 1762742180,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160842,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1762675040,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "孟子义cos阿精",
+      "onboard_time": 1762745480,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 159632,
@@ -1881,6 +1921,14 @@
       "onboard_time": 1762677440,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 155362,
+      "num": 155362,
+      "word": "2025环球小姐集体退赛",
+      "onboard_time": 1762745539,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154828,
@@ -2019,14 +2067,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146828,
-      "num": 130790,
-      "word": "在音乐节的我vs在工位上的我",
-      "onboard_time": 1762744639,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146062,
       "num": 166654,
       "word": "程靖淇被打到眼睛后坚持比赛",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1762698922,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142484,
+      "num": 142484,
+      "word": "三十几岁正是回村种地的好时候",
+      "onboard_time": 1762745539,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 141708,
@@ -2283,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124939,
+      "num": 124939,
+      "word": "国创动画承包一座上海痛楼",
+      "onboard_time": 1762745480,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124708,
       "num": 636060,
       "word": "梅西梅开二度",
@@ -2459,14 +2515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116366,
-      "num": 116366,
-      "word": "尹锡悦拘留所里100天赚6.5亿",
-      "onboard_time": 1762744818,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "陈浚铭对着师兄海报打招呼",
@@ -2603,6 +2651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107416,
+      "num": 179027,
+      "word": "低价银行直供房数量激增",
+      "onboard_time": 1762743858,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107120,
       "num": 107120,
       "word": "莱巴金娜首夺总决赛冠军",
@@ -2649,6 +2705,22 @@
       "onboard_time": 1762609402,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105734,
+      "num": 164465,
+      "word": "白菜免费摘谁在造谣谁在传谣",
+      "onboard_time": 1762745360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105602,
+      "num": 105602,
+      "word": "大爷吸烟进电梯被小伙掐灭扔出去",
+      "onboard_time": 1762744700,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105402,
@@ -2875,14 +2947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98580,
-      "num": 98580,
-      "word": "年会不能停2官宣张若昀白客",
-      "onboard_time": 1762744999,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97977,
       "num": 97977,
       "word": "爱奇艺角色热度",
@@ -2952,6 +3016,14 @@
       "word": "郭俊辰演出了真正的绝望",
       "onboard_time": 1762669880,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96888,
+      "num": 96888,
+      "word": "吴磊男主剧剑来配置",
+      "onboard_time": 1762743500,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3059,14 +3131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92063,
-      "num": 92063,
-      "word": "吴磊男主剧剑来配置",
-      "onboard_time": 1762743500,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91999,
       "num": 91999,
       "word": "陈都灵直播",
@@ -3092,7 +3156,7 @@
     },
     {
       "raw_hot": 91460,
-      "num": 131508,
+      "num": 172510,
       "word": "于适穿VERTEX直接顶配",
       "onboard_time": 1762742901,
       "rank": 25,
@@ -3203,12 +3267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89682,
-      "num": 89682,
-      "word": "大爷吸烟进电梯被小伙掐灭扔出去",
-      "onboard_time": 1762744700,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 89611,
+      "num": 106214,
+      "word": "梁伟铿回应当全运会火炬手",
+      "onboard_time": 1762745601,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 89586,
@@ -3227,12 +3291,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 89371,
+      "num": 89371,
+      "word": "A股",
+      "onboard_time": 1762742659,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89112,
       "num": 89112,
       "word": "KT扳平",
       "onboard_time": 1762681041,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88681,
+      "num": 88681,
+      "word": "耿耿余淮是不是只剩我还在耿耿于怀",
+      "onboard_time": 1762745300,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 88646,
@@ -3529,14 +3609,6 @@
       "onboard_time": 1762669220,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78248,
-      "num": 132444,
-      "word": "低价银行直供房数量激增",
-      "onboard_time": 1762743858,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78219,
@@ -3857,6 +3929,14 @@
       "onboard_time": 1762686500,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65664,
+      "num": 105657,
+      "word": "员工上班途中心梗死亡人社局不认工伤",
+      "onboard_time": 1762745539,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65598,
@@ -4204,7 +4284,7 @@
     },
     {
       "raw_hot": 52914,
-      "num": 134336,
+      "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
       "onboard_time": 1762743858,
       "rank": 19,
@@ -4611,6 +4691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34912,
+      "num": 367472,
+      "word": "4个关键词解读十五运会点火创意",
+      "onboard_time": 1762744580,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34789,
       "num": 42246,
       "word": "熬夜是胃癌的高危因素",
@@ -4737,14 +4825,6 @@
       "onboard_time": 1762679120,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26707,
-      "num": 367472,
-      "word": "4个关键词解读十五运会点火创意",
-      "onboard_time": 1762744580,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 24419,
@@ -4899,20 +4979,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13164,
+      "num": 98803,
+      "word": "开幕式散场观众整齐背书包回家",
+      "onboard_time": 1762744580,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12976,
       "num": 23365,
       "word": "周深单依纯开幕式现场演唱主题歌",
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 9464,
-      "num": 98803,
-      "word": "开幕式散场观众整齐背书包回家",
-      "onboard_time": 1762744580,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 6688,

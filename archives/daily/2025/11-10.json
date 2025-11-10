@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762745272145,
+  "endTime": 1762745994259,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 949508,
-      "num": 133718,
+      "num": 174810,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 734208,
-      "num": 138483,
+      "num": 178649,
       "word": "将门毒后",
       "onboard_time": 1762738700,
       "rank": 15,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 590582,
-      "num": 133167,
+      "num": 174127,
       "word": "金价",
       "onboard_time": 1762743620,
       "rank": 21,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 569968,
-      "num": 138076,
+      "num": 177590,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 535985,
+      "num": 178167,
+      "word": "大量看书后真的能改变人的潜意识",
+      "onboard_time": 1762743200,
+      "rank": 15,
+      "category": "读书作家"
     },
     {
       "raw_hot": 535063,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 461960,
-      "num": 136843,
+      "num": 176125,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1762736179,
       "rank": 14,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 429183,
-      "num": 132994,
+      "num": 173722,
       "word": "辛芷蕾现在车马很快不需要写信",
       "onboard_time": 1762738639,
       "rank": 23,
@@ -131,11 +139,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 336820,
-      "num": 336820,
+      "raw_hot": 341028,
+      "num": 341028,
       "word": "剑来首发概念片",
       "onboard_time": 1762742119,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 339508,
+      "num": 210463,
+      "word": "丁禹兮李兰迪 月都花落",
+      "onboard_time": 1762743800,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -187,14 +203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269192,
-      "num": 210463,
-      "word": "丁禹兮李兰迪 月都花落",
-      "onboard_time": 1762743800,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263154,
       "num": 117973,
       "word": "产后抑郁女子与丈夫谈离婚后轻生",
@@ -219,14 +227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248847,
-      "num": 136130,
-      "word": "大量看书后真的能改变人的潜意识",
-      "onboard_time": 1762743200,
-      "rank": 15,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 241886,
       "num": 193917,
       "word": "Faker说这一冠不为任何人",
@@ -241,6 +241,14 @@
       "onboard_time": 1762703001,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239062,
+      "num": 194641,
+      "word": "折月亮",
+      "onboard_time": 1762743379,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 238881,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231364,
+      "num": 176708,
+      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+      "onboard_time": 1762744459,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227825,
       "num": 204012,
       "word": "薛之谦 认真的雪",
@@ -273,6 +289,14 @@
       "onboard_time": 1762734320,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219185,
+      "num": 175352,
+      "word": "男子回应大爷吸烟进电梯被掐灭扔出",
+      "onboard_time": 1762742180,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214851,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 211169,
-      "num": 135479,
+      "num": 172214,
       "word": "剑来",
       "onboard_time": 1762742421,
       "rank": 16,
@@ -339,12 +363,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 176012,
-      "num": 135171,
-      "word": "折月亮",
-      "onboard_time": 1762743379,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 202145,
+      "num": 173162,
+      "word": "尹锡悦拘留所里100天赚6.5亿",
+      "onboard_time": 1762744818,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 190488,
+      "num": 173006,
+      "word": "年会不能停2官宣张若昀白客",
+      "onboard_time": 1762744999,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 175380,
@@ -355,20 +387,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163010,
-      "num": 134751,
-      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
-      "onboard_time": 1762744459,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 165702,
+      "num": 165702,
+      "word": "在音乐节的我vs在工位上的我",
+      "onboard_time": 1762744639,
+      "rank": 26,
+      "category": "幽默"
     },
     {
-      "raw_hot": 161361,
-      "num": 132092,
-      "word": "男子回应大爷吸烟进电梯被掐灭扔出",
-      "onboard_time": 1762742180,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 163952,
+      "num": 163952,
+      "word": "Bang回应被Gumayusi超越",
+      "onboard_time": 1762745539,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "孟子义cos阿精",
+      "onboard_time": 1762745480,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 158274,
@@ -387,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155362,
+      "num": 155362,
+      "word": "2025环球小姐集体退赛",
+      "onboard_time": 1762745539,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149255,
       "num": 149255,
       "word": "海啸已抵达日本本州岛",
@@ -403,12 +451,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 146828,
-      "num": 130790,
-      "word": "在音乐节的我vs在工位上的我",
-      "onboard_time": 1762744639,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 142484,
+      "num": 142484,
+      "word": "三十几岁正是回村种地的好时候",
+      "onboard_time": 1762745539,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 136891,
@@ -459,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124939,
+      "num": 124939,
+      "word": "国创动画承包一座上海痛楼",
+      "onboard_time": 1762745480,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123344,
       "num": 123344,
       "word": "瑶一瑶爸爸装成乞丐测试女儿反应",
@@ -489,14 +545,6 @@
       "onboard_time": 1762730237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116366,
-      "num": 116366,
-      "word": "尹锡悦拘留所里100天赚6.5亿",
-      "onboard_time": 1762744818,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115666,
@@ -539,6 +587,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107416,
+      "num": 179027,
+      "word": "低价银行直供房数量激增",
+      "onboard_time": 1762743858,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105734,
+      "num": 164465,
+      "word": "白菜免费摘谁在造谣谁在传谣",
+      "onboard_time": 1762745360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105602,
+      "num": 105602,
+      "word": "大爷吸烟进电梯被小伙掐灭扔出去",
+      "onboard_time": 1762744700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
@@ -579,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98580,
-      "num": 98580,
-      "word": "年会不能停2官宣张若昀白客",
-      "onboard_time": 1762744999,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98172,
       "num": 98172,
       "word": "声鸣远扬总决赛",
@@ -608,6 +672,14 @@
       "word": "唐朝诡事录",
       "onboard_time": 1762686320,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96888,
+      "num": 96888,
+      "word": "吴磊男主剧剑来配置",
+      "onboard_time": 1762743500,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -643,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92063,
-      "num": 92063,
-      "word": "吴磊男主剧剑来配置",
-      "onboard_time": 1762743500,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91782,
       "num": 91782,
       "word": "蔡徐坤音乐节",
@@ -660,19 +724,35 @@
     },
     {
       "raw_hot": 91460,
-      "num": 131508,
+      "num": 172510,
       "word": "于适穿VERTEX直接顶配",
       "onboard_time": 1762742901,
       "rank": 25,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 89682,
-      "num": 89682,
-      "word": "大爷吸烟进电梯被小伙掐灭扔出去",
-      "onboard_time": 1762744700,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 89611,
+      "num": 106214,
+      "word": "梁伟铿回应当全运会火炬手",
+      "onboard_time": 1762745601,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89371,
+      "num": 89371,
+      "word": "A股",
+      "onboard_time": 1762742659,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88681,
+      "num": 88681,
+      "word": "耿耿余淮是不是只剩我还在耿耿于怀",
+      "onboard_time": 1762745300,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 88659,
@@ -785,14 +865,6 @@
       "onboard_time": 1762674919,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78248,
-      "num": 132444,
-      "word": "低价银行直供房数量激增",
-      "onboard_time": 1762743858,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78219,
@@ -913,6 +985,14 @@
       "onboard_time": 1762693341,
       "rank": 44,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 65664,
+      "num": 105657,
+      "word": "员工上班途中心梗死亡人社局不认工伤",
+      "onboard_time": 1762745539,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65598,
@@ -1052,7 +1132,7 @@
     },
     {
       "raw_hot": 52914,
-      "num": 134336,
+      "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
       "onboard_time": 1762743858,
       "rank": 19,
@@ -1139,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34912,
+      "num": 367472,
+      "word": "4个关键词解读十五运会点火创意",
+      "onboard_time": 1762744580,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32457,
       "num": 45048,
       "word": "蔡徐坤音乐节人气",
@@ -1161,14 +1249,6 @@
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26707,
-      "num": 367472,
-      "word": "4个关键词解读十五运会点火创意",
-      "onboard_time": 1762744580,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 23335,
@@ -1227,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13164,
+      "num": 98803,
+      "word": "开幕式散场观众整齐背书包回家",
+      "onboard_time": 1762744580,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12976,
       "num": 23365,
       "word": "周深单依纯开幕式现场演唱主题歌",
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 9464,
-      "num": 98803,
-      "word": "开幕式散场观众整齐背书包回家",
-      "onboard_time": 1762744580,
-      "rank": 38,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

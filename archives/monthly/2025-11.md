@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/10 11:27:52
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/10 11:39:54
 </p>
 </blockquote>
 <p>
@@ -1971,6 +1971,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%9C%8B%E4%B9%A6%E5%90%8E%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E6%BD%9C%E6%84%8F%E8%AF%86%23" target="weibo">
+大量看书后真的能改变人的潜意识（热度：535985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%AD%A3%E8%BF%BD%E6%9F%A5%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E7%8C%AB%E4%BA%BA%E5%91%98%23" target="weibo">
 警方正追查水库放生猫人员（热度：534598）
 </a>
@@ -3567,8 +3573,20 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E9%A6%96%E5%8F%91%E6%A6%82%E5%BF%B5%E7%89%87%23" target="weibo">
+剑来首发概念片（热度：341028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%98%AF%E5%AF%B9%E6%B7%B7%E5%AD%90%E7%9A%84%E6%9C%80%E5%A4%A7%E6%83%A9%E7%BD%9A%23" target="weibo">
 考上研究生是对混子的最大惩罚（热度：339656）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%9C%88%E9%83%BD%E8%8A%B1%E8%90%BD%23" target="weibo">
+丁禹兮李兰迪 月都花落（热度：339508）
 </a>
 </li>
 
@@ -3581,12 +3599,6 @@ Faker自拍配文成都（热度：342872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%A4%B4%E6%9C%9D%E4%B8%8B%E6%91%94%E8%90%BD%E7%9E%AC%E9%97%B4%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%8E%A5%E4%BD%8F%23" target="weibo">
 婴儿头朝下摔落瞬间被顾客接住（热度：337154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E9%A6%96%E5%8F%91%E6%A6%82%E5%BF%B5%E7%89%87%23" target="weibo">
-剑来首发概念片（热度：336820）
 </a>
 </li>
 
@@ -4587,12 +4599,6 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%9C%88%E9%83%BD%E8%8A%B1%E8%90%BD%23" target="weibo">
-丁禹兮李兰迪 月都花落（热度：269192）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E8%A1%A3%E6%9C%BA15%E5%88%86%E9%92%9F%E5%BF%AB%E6%B4%97%E7%A1%AE%E5%AE%9E%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%23" target="weibo">
 洗衣机15分钟快洗确实洗不干净（热度：269114）
 </a>
@@ -4917,12 +4923,6 @@ Chovy世界赛成绩 8884844（热度：254697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%9C%8B%E4%B9%A6%E5%90%8E%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E6%BD%9C%E6%84%8F%E8%AF%86%23" target="weibo">
-大量看书后真的能改变人的潜意识（热度：248847）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%86%B0%E9%B8%9F%23" target="weibo">
 Faker冰鸟（热度：248398）
 </a>
@@ -5121,6 +5121,12 @@ DRG对战狼队（热度：239735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E6%9C%88%E4%BA%AE%23" target="weibo">
+折月亮（热度：239062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9C%9F%E6%9C%A8%E9%AB%98%E6%9D%90%E7%94%9F%E8%BD%AC%E8%A1%8C%E5%81%9A%E6%B8%B8%E6%88%8F%E8%BD%BB%E6%9D%BE%E5%A4%BA%E9%87%91%E5%A5%96%23" target="weibo">
 武大土木高材生转行做游戏轻松夺金奖（热度：238881）
 </a>
@@ -5255,6 +5261,12 @@ Tabe凌晨发文（热度：233114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%B0%88Uzi%23" target="weibo">
 Doinb谈Uzi（热度：231537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%A2%81%E9%9B%AA%E5%B3%B0%E9%95%BF%E8%BE%BE9%E5%88%86%E9%92%9F%E7%9A%84%E5%AF%B9%E5%B3%99%E6%88%8F%23" target="weibo">
+陈乔恩梁雪峰长达9分钟的对峙戏（热度：231364）
 </a>
 </li>
 
@@ -5573,6 +5585,12 @@ KK园区2年扩大3倍（热度：219374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%8F%8D%E7%8F%A0%E9%AB%98%E5%AE%9A%23" target="weibo">
 杨紫珍珠高定（热度：219276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E5%90%B8%E7%83%9F%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E6%8E%90%E7%81%AD%E6%89%94%E5%87%BA%23" target="weibo">
+男子回应大爷吸烟进电梯被掐灭扔出（热度：219185）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TES面对LCK十五连败（热度：208527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E6%9D%8E%E6%96%BD%E5%AC%85%E9%A5%B0%E6%BC%94%E7%9A%84%E5%BC%A0%E5%AE%B6%E5%A6%8D%23" target="weibo">
 新闻女王2李施嬅饰演的张家妍（热度：206424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%23" target="weibo">
-这居然是谭松韵（热度：206260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%92%99%E5%A4%9A%E5%A4%AA%E5%90%93%E4%BA%BA%E4%BA%86%23" target="weibo">
-这蒙多太吓人了（热度：205873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23F1%23" target="weibo">
-F1（热度：205771）
 </a>
 </li>
 

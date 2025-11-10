@@ -1,0 +1,410 @@
+{
+  "runTime": 1762745994259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 461557,
+        "num": 1073849,
+        "word": "台湾高度关注央视起底沈伯洋",
+        "onboard_time": 1762735760,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386166,
+        "num": 386166,
+        "word": "奔跑吧",
+        "onboard_time": 1762740678,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34912,
+        "num": 351235,
+        "word": "4个关键词解读十五运会点火创意",
+        "onboard_time": 1762744580,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341028,
+        "num": 341028,
+        "word": "剑来首发概念片",
+        "onboard_time": 1762742119,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297648,
+        "num": 297648,
+        "word": "计算机二级",
+        "onboard_time": 1762742059,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "特朗普称政府停摆接近结束",
+        "onboard_time": 1762740559,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339508,
+        "num": 195726,
+        "word": "丁禹兮李兰迪 月都花落",
+        "onboard_time": 1762743800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239062,
+        "num": 194641,
+        "word": "折月亮",
+        "onboard_time": 1762743379,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179757,
+        "num": 179757,
+        "word": "Faker说这一冠不为任何人",
+        "onboard_time": 1762734380,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113627,
+        "num": 179420,
+        "word": "央视曝光被薅羊毛的医保卡",
+        "onboard_time": 1762697602,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107416,
+        "num": 179027,
+        "word": "低价银行直供房数量激增",
+        "onboard_time": 1762743858,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710481,
+        "num": 178649,
+        "word": "将门毒后",
+        "onboard_time": 1762738700,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535985,
+        "num": 178167,
+        "word": "大量看书后真的能改变人的潜意识",
+        "onboard_time": 1762743200,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 398393,
+        "num": 177590,
+        "word": "刘昊然卸下了余淮的名字",
+        "onboard_time": 1762736300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370494,
+        "num": 177510,
+        "word": "第一次见何炅主持结巴",
+        "onboard_time": 1762703541,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231364,
+        "num": 176708,
+        "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+        "onboard_time": 1762744459,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227352,
+        "num": 176258,
+        "word": "刘德华提前解冻",
+        "onboard_time": 1762727418,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 225494,
+        "num": 176125,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1762736179,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219185,
+        "num": 175352,
+        "word": "男子回应大爷吸烟进电梯被掐灭扔出",
+        "onboard_time": 1762742180,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48986,
+        "num": 175227,
+        "word": "京东双11请客送手机羽绒服化妆品",
+        "onboard_time": 1762743858,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 789898,
+        "num": 174810,
+        "word": "陈赫庆生照差点没看见鹿晗",
+        "onboard_time": 1762736060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564980,
+        "num": 174127,
+        "word": "金价",
+        "onboard_time": 1762743620,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 376952,
+        "num": 173722,
+        "word": "辛芷蕾现在车马很快不需要写信",
+        "onboard_time": 1762738639,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202145,
+        "num": 173162,
+        "word": "尹锡悦拘留所里100天赚6.5亿",
+        "onboard_time": 1762744818,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190488,
+        "num": 173006,
+        "word": "年会不能停2官宣张若昀白客",
+        "onboard_time": 1762744999,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77664,
+        "num": 172510,
+        "word": "于适穿VERTEX直接顶配",
+        "onboard_time": 1762742901,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 172214,
+        "num": 172214,
+        "word": "剑来",
+        "onboard_time": 1762742421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165702,
+        "num": 165702,
+        "word": "在音乐节的我vs在工位上的我",
+        "onboard_time": 1762744639,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105734,
+        "num": 164465,
+        "word": "白菜免费摘谁在造谣谁在传谣",
+        "onboard_time": 1762745360,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95189,
+        "num": 163955,
+        "word": "捐款140元给国家造航母当事人发声",
+        "onboard_time": 1762699343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163952,
+        "num": 163952,
+        "word": "Bang回应被Gumayusi超越",
+        "onboard_time": 1762745539,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159684,
+        "num": 159684,
+        "word": "孟子义cos阿精",
+        "onboard_time": 1762745480,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155362,
+        "num": 155362,
+        "word": "2025环球小姐集体退赛",
+        "onboard_time": 1762745539,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142484,
+        "num": 142484,
+        "word": "三十几岁正是回村种地的好时候",
+        "onboard_time": 1762745539,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 126386,
+        "num": 126386,
+        "word": "张家辉回应关咏荷被赞状态好",
+        "onboard_time": 1762742239,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124939,
+        "num": 124939,
+        "word": "国创动画承包一座上海痛楼",
+        "onboard_time": 1762745480,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113373,
+        "num": 113373,
+        "word": "白百何方发文说体面收场为好",
+        "onboard_time": 1762704681,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 109491,
+        "word": "谭松韵刘昊然最好的我们售后",
+        "onboard_time": 1762732759,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89611,
+        "num": 106214,
+        "word": "梁伟铿回应当全运会火炬手",
+        "onboard_time": 1762745601,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65664,
+        "num": 105657,
+        "word": "员工上班途中心梗死亡人社局不认工伤",
+        "onboard_time": 1762745539,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105602,
+        "num": 105602,
+        "word": "大爷吸烟进电梯被小伙掐灭扔出去",
+        "onboard_time": 1762744700,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103257,
+        "num": 103257,
+        "word": "陈赫找了一晚上这照片里的鹿晗",
+        "onboard_time": 1762742718,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96888,
+        "num": 96888,
+        "word": "吴磊男主剧剑来配置",
+        "onboard_time": 1762743500,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91192,
+        "num": 91192,
+        "word": "产后抑郁女子与丈夫谈离婚后轻生",
+        "onboard_time": 1762730298,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 89371,
+        "word": "A股",
+        "onboard_time": 1762742659,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13164,
+        "num": 88757,
+        "word": "开幕式散场观众整齐背书包回家",
+        "onboard_time": 1762744580,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88681,
+        "num": 88681,
+        "word": "耿耿余淮是不是只剩我还在耿耿于怀",
+        "onboard_time": 1762745300,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87271,
+        "num": 87271,
+        "word": "武大土木高材生转行做游戏轻松夺金奖",
+        "onboard_time": 1762739838,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21526,
+        "num": 86604,
+        "word": "双11购物消费者成了精算师",
+        "onboard_time": 1762744220,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86367,
+        "num": 86367,
+        "word": "洗澡后3分钟内要涂保湿霜",
+        "onboard_time": 1762700962,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席十五运开幕式#"
+    }
+  }
+}
