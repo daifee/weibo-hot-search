@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762764618340,
+  "endTime": 1762767121034,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602605,
+      "num": 208333,
+      "word": "店铺回应被刘嘉玲喊话侵权",
+      "onboard_time": 1762763421,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 599882,
       "num": 599882,
       "word": "马思纯说花少聚会时长5小时起步",
@@ -2545,6 +2553,14 @@
       "onboard_time": 1762422382,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 554215,
+      "num": 1075885,
+      "word": "中方回应高市早苗暗示武力介入台海",
+      "onboard_time": 1762763239,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 553579,
@@ -3291,14 +3307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474286,
-      "num": 1075885,
-      "word": "中方回应高市早苗暗示武力介入台海",
-      "onboard_time": 1762763239,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 474113,
       "num": 812594,
       "word": "央视披露户晨风封号详情",
@@ -3835,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418029,
+      "num": 1066884,
+      "word": "Faker发博晒经典夺冠表情",
+      "onboard_time": 1762762699,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 417356,
       "num": 417356,
       "word": "央视曝光假冒艺人直播",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1762178542,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416728,
+      "num": 216133,
+      "word": "江浙沪父母真的太会托举孩子了",
+      "onboard_time": 1762760299,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 415794,
@@ -3881,14 +3905,6 @@
       "onboard_time": 1762058359,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414250,
-      "num": 216133,
-      "word": "江浙沪父母真的太会托举孩子了",
-      "onboard_time": 1762760299,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 414096,
@@ -4017,6 +4033,14 @@
       "onboard_time": 1762586181,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405674,
+      "num": 405674,
+      "word": "黑毛一诺回归",
+      "onboard_time": 1762766180,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 403914,
@@ -4683,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359496,
-      "num": 197455,
-      "word": "Faker发博晒经典夺冠表情",
-      "onboard_time": 1762762699,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 359475,
       "num": 359475,
       "word": "全红婵陈芋汐张家齐单项争冠",
@@ -5073,6 +5089,14 @@
       "onboard_time": 1762095563,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333848,
+      "num": 208826,
+      "word": "张予曦 蜘蛛精卖袜子",
+      "onboard_time": 1762762762,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 333536,
@@ -5465,14 +5489,6 @@
       "onboard_time": 1762130120,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 309623,
-      "num": 208826,
-      "word": "张予曦 蜘蛛精卖袜子",
-      "onboard_time": 1762762762,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 309547,
@@ -6491,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264082,
+      "num": 161148,
+      "word": "长沙地铁内一女生衣物起火",
+      "onboard_time": 1762754479,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264049,
       "num": 264049,
       "word": "藏海传剧组亮相文荣奖",
@@ -7427,6 +7451,14 @@
       "category": "辟谣/通报,体育"
     },
     {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "河南新乡门诊医保报销被限额",
+      "onboard_time": 1762763000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226913,
       "num": 504286,
       "word": "AL教练后台痛哭",
@@ -8209,14 +8241,6 @@
       "onboard_time": 1762704681,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208333,
-      "num": 208333,
-      "word": "店铺回应被刘嘉玲喊话侵权",
-      "onboard_time": 1762763421,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 208204,
@@ -9915,6 +9939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183032,
+      "num": 130079,
+      "word": "时代峰峻 双十一活动",
+      "onboard_time": 1762766600,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183027,
       "num": 215193,
       "word": "王嘉尔才是内娱音乐节压轴标配",
@@ -10089,6 +10121,14 @@
       "onboard_time": 1762331481,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179706,
+      "num": 208541,
+      "word": "中国单方面免签不存在吃亏",
+      "onboard_time": 1762764379,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179638,
@@ -10387,6 +10427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175898,
+      "num": 129529,
+      "word": "卢凌风登基的有点草率",
+      "onboard_time": 1762764861,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175832,
       "num": 165945,
       "word": "第一批主理人已经再就业",
@@ -10561,6 +10609,14 @@
       "onboard_time": 1762569560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172629,
+      "num": 230852,
+      "word": "六公主报道杨紫国色芳华研讨会",
+      "onboard_time": 1762762939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 172607,
@@ -11419,6 +11475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163979,
+      "num": 209037,
+      "word": "俄罗斯观众当场教训亵渎国歌者",
+      "onboard_time": 1762762820,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163952,
       "num": 163952,
       "word": "Bang回应被Gumayusi超越",
@@ -11667,14 +11731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161148,
-      "num": 161148,
-      "word": "长沙地铁内一女生衣物起火",
-      "onboard_time": 1762754479,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -11809,14 +11865,6 @@
       "onboard_time": 1762498340,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159285,
-      "num": 230852,
-      "word": "六公主报道杨紫国色芳华研讨会",
-      "onboard_time": 1762762939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 159144,
@@ -13307,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144823,
+      "num": 208949,
+      "word": "ale谈Uzi",
+      "onboard_time": 1762764439,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144809,
       "num": 246375,
       "word": "福建舰入列让世界开始抄作业",
@@ -14123,14 +14179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138468,
-      "num": 208949,
-      "word": "ale谈Uzi",
-      "onboard_time": 1762764439,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138391,
       "num": 138391,
       "word": "杨紫还在用何惟芳手机壳",
@@ -14729,6 +14777,14 @@
       "onboard_time": 1762666040,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133725,
+      "num": 133725,
+      "word": "周深开幕式完从头到脚都湿了",
+      "onboard_time": 1762766060,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 133704,
@@ -15569,6 +15625,14 @@
       "onboard_time": 1762319061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "我最擅长的运动",
+      "onboard_time": 1762765940,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 128424,
@@ -17043,6 +17107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119488,
+      "num": 119488,
+      "word": "刘宇宁直播",
+      "onboard_time": 1762764680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119411,
       "num": 119411,
       "word": "沟通能力强的人说话顺序是这样的",
@@ -17563,6 +17635,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 116948,
+      "num": 126810,
+      "word": "新还珠剧组回应争议",
+      "onboard_time": 1762766660,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116850,
       "num": 116850,
       "word": "看把彭昱畅逼成啥样了",
@@ -17921,6 +18001,14 @@
       "onboard_time": 1762423402,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114816,
+      "num": 114816,
+      "word": "孙杨以0.1秒优势惊险晋级决赛",
+      "onboard_time": 1762766780,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 114765,
@@ -19009,6 +19097,14 @@
       "onboard_time": 1762215680,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109056,
+      "num": 109056,
+      "word": "原来有困难真的可以找网友",
+      "onboard_time": 1762765459,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 108943,
@@ -20187,6 +20283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103959,
+      "num": 103959,
+      "word": "十年前的白敬亭胡先煦",
+      "onboard_time": 1762766660,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103886,
       "num": 103886,
       "word": "51岁阿姨月薪1710元的独居生活",
@@ -20953,6 +21057,14 @@
       "onboard_time": 1762081160,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101133,
+      "num": 98649,
+      "word": "黄景瑜指白敬亭王安宇喊帅哥",
+      "onboard_time": 1762765820,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 101116,
@@ -22633,6 +22745,14 @@
       "onboard_time": 1762355541,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 95079,
+      "num": 202339,
+      "word": "苏菲回应卫生巾上有活虫",
+      "onboard_time": 1762764439,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94998,
@@ -25339,14 +25459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86353,
-      "num": 210770,
-      "word": "河南新乡门诊医保报销被限额",
-      "onboard_time": 1762763000,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86326,
       "num": 86326,
       "word": "谁教马天宇这么哭的",
@@ -25897,14 +26009,6 @@
       "onboard_time": 1762098500,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84369,
-      "num": 209037,
-      "word": "俄罗斯观众当场教训亵渎国歌者",
-      "onboard_time": 1762762820,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 84321,
@@ -26659,6 +26763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81196,
+      "num": 126870,
+      "word": "硅谷富豪开始定制完美婴儿",
+      "onboard_time": 1762765221,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81174,
       "num": 189954,
       "word": "宠物冥币",
@@ -26969,6 +27081,14 @@
       "onboard_time": 1762162223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79725,
+      "num": 132776,
+      "word": "好想来超市称3岁幼童偷盗千元商品",
+      "onboard_time": 1762766300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79703,
@@ -28064,6 +28184,14 @@
       "word": "孙颖莎樊振东训练画面",
       "onboard_time": 1762419562,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74179,
+      "num": 133570,
+      "word": "看韩乔生连麦跟直接看球没区别",
+      "onboard_time": 1762766180,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -29611,6 +29739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63463,
+      "num": 100549,
+      "word": "樊振东比赛刚结束就加练",
+      "onboard_time": 1762765580,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63349,
       "num": 285036,
       "word": "立冬第一顿我被外卖请客了",
@@ -30297,6 +30433,14 @@
       "onboard_time": 1762680320,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57576,
+      "num": 114857,
+      "word": "126斤小学生尿酸飙到440",
+      "onboard_time": 1762766420,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57452,
@@ -31467,14 +31611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 46723,
-      "num": 208541,
-      "word": "中国单方面免签不存在吃亏",
-      "onboard_time": 1762764379,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46708,
       "num": 91874,
       "word": "CNN让台当局破防",
@@ -31536,14 +31672,6 @@
       "word": "被大自然的调色盘惊艳到了",
       "onboard_time": 1762677680,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46113,
-      "num": 202339,
-      "word": "苏菲回应卫生巾上有活虫",
-      "onboard_time": 1762764439,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -32443,6 +32571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36835,
+      "num": 131069,
+      "word": "谷神星一号遥十九火箭发射失利",
+      "onboard_time": 1762766900,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36834,
       "num": 77695,
       "word": "远离从生理上排斥的人和环境",
@@ -32603,6 +32739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35098,
+      "num": 133113,
+      "word": "全国多地西贝门店闭店",
+      "onboard_time": 1762766119,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35056,
       "num": 96376,
       "word": "作业帮被指用学生跳楼出题",
@@ -32659,6 +32803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34770,
+      "num": 311111,
+      "word": "十五运会新华社出图",
+      "onboard_time": 1762761621,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34734,
       "num": 40693,
       "word": "霉霉和GigiHadid外出就餐街拍",
@@ -32681,14 +32833,6 @@
       "onboard_time": 1762518560,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34473,
-      "num": 259578,
-      "word": "十五运会新华社出图",
-      "onboard_time": 1762761621,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 34449,
@@ -33275,6 +33419,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 28393,
+      "num": 115404,
+      "word": "北京满大街的银杏树为啥还濒危",
+      "onboard_time": 1762766240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28162,
       "num": 112063,
       "word": "张家界荒野求生参赛者30天瘦了30斤",
@@ -33433,6 +33585,14 @@
       "onboard_time": 1762587381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26933,
+      "num": 114833,
+      "word": "男子七星山荒野求生靠三件套续命",
+      "onboard_time": 1762766300,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26776,

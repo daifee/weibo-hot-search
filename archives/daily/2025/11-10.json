@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762764618340,
+  "endTime": 1762767121034,
   "band_list": [
     {
       "raw_hot": 1986624,
@@ -139,6 +139,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 602605,
+      "num": 208333,
+      "word": "店铺回应被刘嘉玲喊话侵权",
+      "onboard_time": 1762763421,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590582,
       "num": 185698,
       "word": "金价",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554215,
+      "num": 1075885,
+      "word": "中方回应高市早苗暗示武力介入台海",
+      "onboard_time": 1762763239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 535063,
       "num": 206103,
       "word": "那英直播质疑票数",
@@ -193,14 +209,6 @@
       "onboard_time": 1762759761,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474286,
-      "num": 1075885,
-      "word": "中方回应高市早苗暗示武力介入台海",
-      "onboard_time": 1762763239,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 461960,
@@ -275,12 +283,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414250,
+      "raw_hot": 418029,
+      "num": 1066884,
+      "word": "Faker发博晒经典夺冠表情",
+      "onboard_time": 1762762699,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 416728,
       "num": 216133,
       "word": "江浙沪父母真的太会托举孩子了",
       "onboard_time": 1762760299,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 405674,
+      "num": 405674,
+      "word": "黑毛一诺回归",
+      "onboard_time": 1762766180,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 393970,
@@ -331,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359496,
-      "num": 197455,
-      "word": "Faker发博晒经典夺冠表情",
-      "onboard_time": 1762762699,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 353614,
       "num": 214245,
       "word": "丈夫去世曝出17万债务妻子拒还",
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333848,
+      "num": 208826,
+      "word": "张予曦 蜘蛛精卖袜子",
+      "onboard_time": 1762762762,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330521,
       "num": 330521,
       "word": "上上谦仅剩上海1家门店",
@@ -409,14 +433,6 @@
       "onboard_time": 1762704439,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309623,
-      "num": 208826,
-      "word": "张予曦 蜘蛛精卖袜子",
-      "onboard_time": 1762762762,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 294474,
@@ -473,6 +489,14 @@
       "onboard_time": 1762756338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264082,
+      "num": 161148,
+      "word": "长沙地铁内一女生衣物起火",
+      "onboard_time": 1762754479,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263154,
@@ -561,6 +585,14 @@
       "onboard_time": 1762699762,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226927,
+      "num": 226927,
+      "word": "河南新乡门诊医保报销被限额",
+      "onboard_time": 1762763000,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222106,
@@ -659,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208333,
-      "num": 208333,
-      "word": "店铺回应被刘嘉玲喊话侵权",
-      "onboard_time": 1762763421,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207618,
       "num": 179114,
       "word": "易烊千玺 叔圈开门",
@@ -755,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183032,
+      "num": 130079,
+      "word": "时代峰峻 双十一活动",
+      "onboard_time": 1762766600,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179706,
+      "num": 208541,
+      "word": "中国单方面免签不存在吃亏",
+      "onboard_time": 1762764379,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177335,
       "num": 159433,
       "word": "关晓彤十三姨",
@@ -771,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175898,
+      "num": 129529,
+      "word": "卢凌风登基的有点草率",
+      "onboard_time": 1762764861,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175380,
       "num": 175380,
       "word": "T1三连冠",
       "onboard_time": 1762690403,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172629,
+      "num": 230852,
+      "word": "六公主报道杨紫国色芳华研讨会",
+      "onboard_time": 1762762939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 165987,
@@ -795,20 +851,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163979,
+      "num": 209037,
+      "word": "俄罗斯观众当场教训亵渎国歌者",
+      "onboard_time": 1762762820,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163952,
       "num": 163952,
       "word": "Bang回应被Gumayusi超越",
       "onboard_time": 1762745539,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161148,
-      "num": 161148,
-      "word": "长沙地铁内一女生衣物起火",
-      "onboard_time": 1762754479,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160353,
@@ -825,14 +881,6 @@
       "onboard_time": 1762745480,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159285,
-      "num": 230852,
-      "word": "六公主报道杨紫国色芳华研讨会",
-      "onboard_time": 1762762939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 158274,
@@ -923,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144823,
+      "num": 208949,
+      "word": "ale谈Uzi",
+      "onboard_time": 1762764439,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "新人结婚当天在婚车上睡着了",
@@ -963,14 +1019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138468,
-      "num": 208949,
-      "word": "ale谈Uzi",
-      "onboard_time": 1762764439,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136891,
       "num": 111093,
       "word": "4种水果其实是高糖刺客",
@@ -993,6 +1041,14 @@
       "onboard_time": 1762759100,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133725,
+      "num": 133725,
+      "word": "周深开幕式完从头到脚都湿了",
+      "onboard_time": 1762766060,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 132451,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1762730237,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "我最擅长的运动",
+      "onboard_time": 1762765940,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 128382,
@@ -1131,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119488,
+      "num": 119488,
+      "word": "刘宇宁直播",
+      "onboard_time": 1762764680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "400万粉丝博主声鸣远扬爆冷淘汰",
@@ -1179,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116948,
+      "num": 126810,
+      "word": "新还珠剧组回应争议",
+      "onboard_time": 1762766660,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116153,
       "num": 208879,
       "word": "艺术体操王子露夺冠",
@@ -1208,6 +1288,14 @@
       "word": "樊振东被逗害羞了",
       "onboard_time": 1762762520,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114816,
+      "num": 114816,
+      "word": "孙杨以0.1秒优势惊险晋级决赛",
+      "onboard_time": 1762766780,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1283,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109056,
+      "num": 109056,
+      "word": "原来有困难真的可以找网友",
+      "onboard_time": 1762765459,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108467,
       "num": 108467,
       "word": "T1全员奖杯合照",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103959,
+      "num": 103959,
+      "word": "十年前的白敬亭胡先煦",
+      "onboard_time": 1762766660,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 103849,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1762759400,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101133,
+      "num": 98649,
+      "word": "黄景瑜指白敬亭王安宇喊帅哥",
+      "onboard_time": 1762765820,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 101107,
@@ -1571,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95079,
+      "num": 202339,
+      "word": "苏菲回应卫生巾上有活虫",
+      "onboard_time": 1762764439,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93056,
       "num": 129935,
       "word": "十五运开幕后首金",
@@ -1699,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86353,
-      "num": 210770,
-      "word": "河南新乡门诊医保报销被限额",
-      "onboard_time": 1762763000,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85968,
       "num": 85968,
       "word": "新华社出图",
@@ -1720,14 +1832,6 @@
       "word": "中国渔船倾覆9人失踪",
       "onboard_time": 1762739358,
       "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84369,
-      "num": 209037,
-      "word": "俄罗斯观众当场教训亵渎国歌者",
-      "onboard_time": 1762762820,
-      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -1779,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81196,
+      "num": 126870,
+      "word": "硅谷富豪开始定制完美婴儿",
+      "onboard_time": 1762765221,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80422,
       "num": 80422,
       "word": "建议大家冬天都去表白",
@@ -1817,6 +1929,14 @@
       "onboard_time": 1762753700,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79725,
+      "num": 132776,
+      "word": "好想来超市称3岁幼童偷盗千元商品",
+      "onboard_time": 1762766300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79277,
@@ -1889,6 +2009,14 @@
       "onboard_time": 1762758379,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74179,
+      "num": 133570,
+      "word": "看韩乔生连麦跟直接看球没区别",
+      "onboard_time": 1762766180,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 73148,
@@ -2051,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63463,
+      "num": 100549,
+      "word": "樊振东比赛刚结束就加练",
+      "onboard_time": 1762765580,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63121,
       "num": 78859,
       "word": "美声版技能五子棋",
@@ -2137,6 +2273,14 @@
       "onboard_time": 1762702282,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57576,
+      "num": 114857,
+      "word": "126斤小学生尿酸飙到440",
+      "onboard_time": 1762766420,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56918,
@@ -2235,22 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46723,
-      "num": 208541,
-      "word": "中国单方面免签不存在吃亏",
-      "onboard_time": 1762764379,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 46113,
-      "num": 202339,
-      "word": "苏菲回应卫生巾上有活虫",
-      "onboard_time": 1762764439,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45028,
       "num": 157053,
       "word": "成毅给群演让位置",
@@ -2315,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36835,
+      "num": 131069,
+      "word": "谷神星一号遥十九火箭发射失利",
+      "onboard_time": 1762766900,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36772,
       "num": 45050,
       "word": "Faker回应三连冠",
@@ -2339,6 +2475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35098,
+      "num": 133113,
+      "word": "全国多地西贝门店闭店",
+      "onboard_time": 1762766119,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34912,
       "num": 408746,
       "word": "4个关键词解读十五运会点火创意",
@@ -2347,8 +2491,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34473,
-      "num": 259578,
+      "raw_hot": 34770,
+      "num": 311111,
       "word": "十五运会新华社出图",
       "onboard_time": 1762761621,
       "rank": 2,
@@ -2385,6 +2529,22 @@
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28393,
+      "num": 115404,
+      "word": "北京满大街的银杏树为啥还濒危",
+      "onboard_time": 1762766240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26933,
+      "num": 114833,
+      "word": "男子七星山荒野求生靠三件套续命",
+      "onboard_time": 1762766300,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26167,
