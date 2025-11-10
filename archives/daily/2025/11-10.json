@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762741549893,
+  "endTime": 1762745272145,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 949508,
-      "num": 117005,
+      "num": 133718,
       "word": "陈赫庆生照差点没看见鹿晗",
       "onboard_time": 1762736060,
       "rank": 20,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734208,
+      "num": 138483,
+      "word": "将门毒后",
+      "onboard_time": 1762738700,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665164,
       "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
@@ -35,20 +43,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 590582,
+      "num": 133167,
+      "word": "金价",
+      "onboard_time": 1762743620,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 569968,
-      "num": 121599,
+      "num": 138076,
       "word": "刘昊然卸下了余淮的名字",
       "onboard_time": 1762736300,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552767,
-      "num": 121836,
-      "word": "将门毒后",
-      "onboard_time": 1762738700,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 535063,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 461960,
-      "num": 119989,
+      "num": 136843,
       "word": "本周做什么都顺的星座",
       "onboard_time": 1762736179,
       "rank": 14,
@@ -92,18 +100,42 @@
     },
     {
       "raw_hot": 429183,
-      "num": 115390,
+      "num": 132994,
       "word": "辛芷蕾现在车马很快不需要写信",
       "onboard_time": 1762738639,
       "rank": 23,
       "category": "艺人"
     },
     {
+      "raw_hot": 393970,
+      "num": 393970,
+      "word": "奔跑吧",
+      "onboard_time": 1762740678,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388196,
-      "num": 118581,
+      "num": 129728,
       "word": "谭松韵刘昊然最好的我们售后",
       "onboard_time": 1762732759,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 347670,
+      "num": 347670,
+      "word": "计算机二级",
+      "onboard_time": 1762742059,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 336820,
+      "num": 336820,
+      "word": "剑来首发概念片",
+      "onboard_time": 1762742119,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -155,6 +187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 269192,
+      "num": 210463,
+      "word": "丁禹兮李兰迪 月都花落",
+      "onboard_time": 1762743800,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263154,
       "num": 117973,
       "word": "产后抑郁女子与丈夫谈离婚后轻生",
@@ -172,15 +212,23 @@
     },
     {
       "raw_hot": 260208,
-      "num": 118676,
+      "num": 130371,
       "word": "白百何方发文说体面收场为好",
       "onboard_time": 1762704681,
       "rank": 17,
       "category": "电影"
     },
     {
+      "raw_hot": 248847,
+      "num": 136130,
+      "word": "大量看书后真的能改变人的潜意识",
+      "onboard_time": 1762743200,
+      "rank": 15,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 241886,
-      "num": 185901,
+      "num": 193917,
       "word": "Faker说这一冠不为任何人",
       "onboard_time": 1762734380,
       "rank": 5,
@@ -196,7 +244,7 @@
     },
     {
       "raw_hot": 238881,
-      "num": 116098,
+      "num": 123347,
       "word": "武大土木高材生转行做游戏轻松夺金奖",
       "onboard_time": 1762739838,
       "rank": 22,
@@ -243,6 +291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211169,
+      "num": 135479,
+      "word": "剑来",
+      "onboard_time": 1762742421,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211067,
+      "num": 211067,
+      "word": "特朗普称政府停摆接近结束",
+      "onboard_time": 1762740559,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208401,
       "num": 129094,
       "word": "白百何方发说体面收场为好",
@@ -275,12 +339,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 176012,
+      "num": 135171,
+      "word": "折月亮",
+      "onboard_time": 1762743379,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175380,
       "num": 175380,
       "word": "T1三连冠",
       "onboard_time": 1762690403,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163010,
+      "num": 134751,
+      "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+      "onboard_time": 1762744459,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161361,
+      "num": 132092,
+      "word": "男子回应大爷吸烟进电梯被掐灭扔出",
+      "onboard_time": 1762742180,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158274,
@@ -299,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149438,
-      "num": 149438,
-      "word": "奔跑吧",
-      "onboard_time": 1762740678,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149255,
       "num": 149255,
       "word": "海啸已抵达日本本州岛",
@@ -323,12 +403,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 146828,
+      "num": 130790,
+      "word": "在音乐节的我vs在工位上的我",
+      "onboard_time": 1762744639,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136891,
       "num": 111093,
       "word": "4种水果其实是高糖刺客",
       "onboard_time": 1762697002,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129502,
+      "num": 129502,
+      "word": "张家辉回应关咏荷被赞状态好",
+      "onboard_time": 1762742239,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 128726,
@@ -371,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123343,
-      "num": 123343,
-      "word": "特朗普称政府停摆接近结束",
-      "onboard_time": 1762740559,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123031,
       "num": 123031,
       "word": "蔡徐坤浴袍舞台",
@@ -403,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116366,
+      "num": 116366,
+      "word": "尹锡悦拘留所里100天赚6.5亿",
+      "onboard_time": 1762744818,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115666,
       "num": 115666,
       "word": "44岁短剧导演突发心梗去世",
@@ -417,6 +513,14 @@
       "onboard_time": 1762731439,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113640,
+      "num": 113640,
+      "word": "陈赫找了一晚上这照片里的鹿晗",
+      "onboard_time": 1762742718,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 110398,
@@ -443,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101367,
+      "num": 101367,
+      "word": "余霜晒和Faker合照",
+      "onboard_time": 1762744459,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100407,
       "num": 94533,
       "word": "每天都吃很饱的荒野求生选手退赛",
@@ -465,6 +577,14 @@
       "onboard_time": 1762698922,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98580,
+      "num": 98580,
+      "word": "年会不能停2官宣张若昀白客",
+      "onboard_time": 1762744999,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 98172,
@@ -499,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93056,
+      "num": 129935,
+      "word": "十五运开幕后首金",
+      "onboard_time": 1762744101,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92577,
       "num": 92577,
       "word": "双胞胎的这碗水太难端平了",
@@ -515,12 +643,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92063,
+      "num": 92063,
+      "word": "吴磊男主剧剑来配置",
+      "onboard_time": 1762743500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91782,
       "num": 91782,
       "word": "蔡徐坤音乐节",
       "onboard_time": 1762693521,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91460,
+      "num": 131508,
+      "word": "于适穿VERTEX直接顶配",
+      "onboard_time": 1762742901,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 89682,
+      "num": 89682,
+      "word": "大爷吸烟进电梯被小伙掐灭扔出去",
+      "onboard_time": 1762744700,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88659,
@@ -579,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82910,
+      "num": 82910,
+      "word": "成毅称聚光灯关掉他就是个普通人",
+      "onboard_time": 1762742959,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82604,
       "num": 92587,
       "word": "刘宇宁回应OST主理人",
@@ -593,6 +753,14 @@
       "onboard_time": 1762701383,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80422,
+      "num": 80422,
+      "word": "建议大家冬天都去表白",
+      "onboard_time": 1762742901,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 80118,
@@ -619,12 +787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78248,
+      "num": 132444,
+      "word": "低价银行直供房数量激增",
+      "onboard_time": 1762743858,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78219,
       "num": 78219,
       "word": "何炅说华晨宇是冠军的定义者",
       "onboard_time": 1762731259,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78068,
+      "num": 78068,
+      "word": "檀健次二专",
+      "onboard_time": 1762741700,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 78055,
@@ -867,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52914,
+      "num": 134336,
+      "word": "京东双11请客送手机羽绒服化妆品",
+      "onboard_time": 1762743858,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50535,
       "num": 50535,
       "word": "曼城3比0利物浦",
@@ -971,6 +1163,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26707,
+      "num": 367472,
+      "word": "4个关键词解读十五运会点火创意",
+      "onboard_time": 1762744580,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23335,
+      "num": 99079,
+      "word": "双11购物消费者成了精算师",
+      "onboard_time": 1762744220,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
@@ -1025,6 +1233,14 @@
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 9464,
+      "num": 98803,
+      "word": "开幕式散场观众整齐背书包回家",
+      "onboard_time": 1762744580,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

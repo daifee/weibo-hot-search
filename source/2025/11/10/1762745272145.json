@@ -1,0 +1,410 @@
+{
+  "runTime": 1762745272145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465469,
+        "num": 1074475,
+        "word": "台湾高度关注央视起底沈伯洋",
+        "onboard_time": 1762735760,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393970,
+        "num": 393970,
+        "word": "奔跑吧",
+        "onboard_time": 1762740678,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26707,
+        "num": 367472,
+        "word": "4个关键词解读十五运会点火创意",
+        "onboard_time": 1762744580,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347670,
+        "num": 347670,
+        "word": "计算机二级",
+        "onboard_time": 1762742059,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336820,
+        "num": 336820,
+        "word": "剑来首发概念片",
+        "onboard_time": 1762742119,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211067,
+        "num": 211067,
+        "word": "特朗普称政府停摆接近结束",
+        "onboard_time": 1762740559,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269192,
+        "num": 210463,
+        "word": "丁禹兮李兰迪 月都花落",
+        "onboard_time": 1762743800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193917,
+        "num": 193917,
+        "word": "Faker说这一冠不为任何人",
+        "onboard_time": 1762734380,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139268,
+        "num": 139268,
+        "word": "央视曝光被薅羊毛的医保卡",
+        "onboard_time": 1762697602,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112912,
+        "num": 138847,
+        "word": "捐款140元给国家造航母当事人发声",
+        "onboard_time": 1762699343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734208,
+        "num": 138483,
+        "word": "将门毒后",
+        "onboard_time": 1762738700,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415067,
+        "num": 138076,
+        "word": "刘昊然卸下了余淮的名字",
+        "onboard_time": 1762736300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261100,
+        "num": 137486,
+        "word": "刘德华提前解冻",
+        "onboard_time": 1762727418,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 389138,
+        "num": 136962,
+        "word": "第一次见何炅主持结巴",
+        "onboard_time": 1762703541,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250713,
+        "num": 136843,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1762736179,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248847,
+        "num": 136130,
+        "word": "大量看书后真的能改变人的潜意识",
+        "onboard_time": 1762743200,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 211169,
+        "num": 135479,
+        "word": "剑来",
+        "onboard_time": 1762742421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176012,
+        "num": 135171,
+        "word": "折月亮",
+        "onboard_time": 1762743379,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163010,
+        "num": 134751,
+        "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
+        "onboard_time": 1762744459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52914,
+        "num": 134336,
+        "word": "京东双11请客送手机羽绒服化妆品",
+        "onboard_time": 1762743858,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 868131,
+        "num": 133718,
+        "word": "陈赫庆生照差点没看见鹿晗",
+        "onboard_time": 1762736060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590582,
+        "num": 133167,
+        "word": "金价",
+        "onboard_time": 1762743620,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413922,
+        "num": 132994,
+        "word": "辛芷蕾现在车马很快不需要写信",
+        "onboard_time": 1762738639,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78248,
+        "num": 132444,
+        "word": "低价银行直供房数量激增",
+        "onboard_time": 1762743858,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161361,
+        "num": 132092,
+        "word": "男子回应大爷吸烟进电梯被掐灭扔出",
+        "onboard_time": 1762742180,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91460,
+        "num": 131508,
+        "word": "于适穿VERTEX直接顶配",
+        "onboard_time": 1762742901,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 146828,
+        "num": 130790,
+        "word": "在音乐节的我vs在工位上的我",
+        "onboard_time": 1762744639,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139959,
+        "num": 130371,
+        "word": "白百何方发文说体面收场为好",
+        "onboard_time": 1762704681,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93056,
+        "num": 129935,
+        "word": "十五运开幕后首金",
+        "onboard_time": 1762744101,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129728,
+        "num": 129728,
+        "word": "谭松韵刘昊然最好的我们售后",
+        "onboard_time": 1762732759,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129502,
+        "num": 129502,
+        "word": "张家辉回应关咏荷被赞状态好",
+        "onboard_time": 1762742239,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123347,
+        "num": 123347,
+        "word": "武大土木高材生转行做游戏轻松夺金奖",
+        "onboard_time": 1762739838,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 116366,
+        "word": "尹锡悦拘留所里100天赚6.5亿",
+        "onboard_time": 1762744818,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113640,
+        "num": 113640,
+        "word": "陈赫找了一晚上这照片里的鹿晗",
+        "onboard_time": 1762742718,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113573,
+        "num": 113573,
+        "word": "产后抑郁女子与丈夫谈离婚后轻生",
+        "onboard_time": 1762730298,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101478,
+        "num": 101478,
+        "word": "洗澡后3分钟内要涂保湿霜",
+        "onboard_time": 1762700962,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101367,
+        "num": 101367,
+        "word": "余霜晒和Faker合照",
+        "onboard_time": 1762744459,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23335,
+        "num": 99079,
+        "word": "双11购物消费者成了精算师",
+        "onboard_time": 1762744220,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9464,
+        "num": 98803,
+        "word": "开幕式散场观众整齐背书包回家",
+        "onboard_time": 1762744580,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98580,
+        "num": 98580,
+        "word": "年会不能停2官宣张若昀白客",
+        "onboard_time": 1762744999,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92063,
+        "num": 92063,
+        "word": "吴磊男主剧剑来配置",
+        "onboard_time": 1762743500,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89682,
+        "num": 89682,
+        "word": "大爷吸烟进电梯被小伙掐灭扔出去",
+        "onboard_time": 1762744700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84030,
+        "num": 84030,
+        "word": "Gumayusi说辅助位没人能和Keria比",
+        "onboard_time": 1762740859,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82910,
+        "num": 82910,
+        "word": "成毅称聚光灯关掉他就是个普通人",
+        "onboard_time": 1762742959,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81365,
+        "num": 81365,
+        "word": "那英被声鸣远扬关麦",
+        "onboard_time": 1762703960,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80573,
+        "num": 80573,
+        "word": "宋雨琦 回来关水",
+        "onboard_time": 1762737800,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80430,
+        "num": 80430,
+        "word": "苹果煮水改善气色养护皮肤",
+        "onboard_time": 1762731439,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80422,
+        "num": 80422,
+        "word": "建议大家冬天都去表白",
+        "onboard_time": 1762742901,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78068,
+        "num": 78068,
+        "word": "檀健次二专",
+        "onboard_time": 1762741700,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77838,
+        "num": 77838,
+        "word": "杨旭文三刀流拍了10天",
+        "onboard_time": 1762736000,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席十五运开幕式#"
+    }
+  }
+}
