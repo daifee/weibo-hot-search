@@ -1,0 +1,410 @@
+{
+  "runTime": 1762781842818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963933,
+        "num": 1154229,
+        "word": "陈芋汐全运会10米台金牌",
+        "onboard_time": 1762778361,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474391,
+        "num": 474391,
+        "word": "王楚钦vs魏世皓",
+        "onboard_time": 1762778841,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23060,
+        "num": 406891,
+        "word": "十五运见证大湾区融合发展",
+        "onboard_time": 1762779501,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375812,
+        "num": 375812,
+        "word": "唐朝诡事录 舞阳",
+        "onboard_time": 1762777281,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303634,
+        "num": 303634,
+        "word": "疯狂好六夜",
+        "onboard_time": 1762774638,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222454,
+        "num": 222454,
+        "word": "汪顺全运会第16金",
+        "onboard_time": 1762780822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254760,
+        "num": 216721,
+        "word": "谢娜王鹤棣贴身热舞",
+        "onboard_time": 1762778841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207682,
+        "num": 207682,
+        "word": "潘展乐全运会400自第五",
+        "onboard_time": 1762773919,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134401,
+        "num": 207416,
+        "word": "台风",
+        "onboard_time": 1762772240,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 128911,
+        "num": 207063,
+        "word": "河北燕郊7死27伤爆燃事故调查报告",
+        "onboard_time": 1762776920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1316977,
+        "num": 206751,
+        "word": "假唱",
+        "onboard_time": 1762780280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586741,
+        "num": 206406,
+        "word": "关晓彤搅半天一口没吃",
+        "onboard_time": 1762771400,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503952,
+        "num": 206396,
+        "word": "35岁坚持面部刮痧一年的变化",
+        "onboard_time": 1762775539,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 498804,
+        "num": 205889,
+        "word": "桃黑黑女友自曝不整容的原因",
+        "onboard_time": 1762774101,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 52675,
+        "num": 205461,
+        "word": "齐思钧吴泽林大锁刀马爆改都买",
+        "onboard_time": 1762779680,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 205352,
+        "word": "何炅谢娜维嘉同台主持",
+        "onboard_time": 1762776799,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205114,
+        "num": 205114,
+        "word": "日方紧急找补称涉台立场没变",
+        "onboard_time": 1762778001,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201957,
+        "num": 201957,
+        "word": "汪苏泷章若楠合唱牵手了",
+        "onboard_time": 1762781001,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44341,
+        "num": 201852,
+        "word": "年轻人的科技性能玩具",
+        "onboard_time": 1762779921,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58069,
+        "num": 201367,
+        "word": "央美学生被指抄袭还获一等奖学金",
+        "onboard_time": 1762780822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506306,
+        "num": 201146,
+        "word": "宝宝产检正常出生后满身兽皮痣",
+        "onboard_time": 1762780702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405624,
+        "num": 200895,
+        "word": "董璇回应婚礼餐标",
+        "onboard_time": 1762773501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41240,
+        "num": 200537,
+        "word": "双十一最后一波尾款",
+        "onboard_time": 1762777580,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 394409,
+        "num": 199953,
+        "word": "陈妍希感谢谢楠救场婚礼",
+        "onboard_time": 1762778661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280722,
+        "num": 199776,
+        "word": "刘宇宁去医院怕被拍到",
+        "onboard_time": 1762774820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265715,
+        "num": 199346,
+        "word": "女婴出生3天被爸爸外婆120元卖掉",
+        "onboard_time": 1762767920,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203199,
+        "num": 199022,
+        "word": "王楚钦11比8魏世皓",
+        "onboard_time": 1762781782,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198947,
+        "num": 198947,
+        "word": "潘展乐汪顺何峻毅沈加豪金牌",
+        "onboard_time": 1762780761,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197821,
+        "num": 197821,
+        "word": "窦骁何超莲辟谣婚变后首同框",
+        "onboard_time": 1762779801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160093,
+        "num": 160093,
+        "word": "农民歌手李根离世",
+        "onboard_time": 1762780822,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165624,
+        "num": 156245,
+        "word": "罗云熙林允杀死了剧宣比赛",
+        "onboard_time": 1762770921,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "山东100自女子接力金牌",
+        "onboard_time": 1762781241,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148585,
+        "num": 148585,
+        "word": "浙江诸暨麻糍奶奶遇车祸去世",
+        "onboard_time": 1762781421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42748,
+        "num": 141702,
+        "word": "美暂停实施对华造船等301调查",
+        "onboard_time": 1762779740,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 138601,
+        "word": "秋冬买衣服记得看细节",
+        "onboard_time": 1762778901,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133970,
+        "num": 135875,
+        "word": "王鹤棣孟子义生图",
+        "onboard_time": 1762775060,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135704,
+        "num": 135704,
+        "word": "朱孝天方回应F4变F3",
+        "onboard_time": 1762771099,
+        "rank": 36,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 135216,
+        "num": 135216,
+        "word": "咖啡上撒蟑螂1杯40元",
+        "onboard_time": 1762773319,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129196,
+        "num": 129196,
+        "word": "日本人称李白诗歌是东亚共有财富",
+        "onboard_time": 1762776261,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80368,
+        "num": 127127,
+        "word": "何炅嘎巴一下躺那了",
+        "onboard_time": 1762781542,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126862,
+        "num": 126862,
+        "word": "都买都买太好笑了",
+        "onboard_time": 1762780941,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123969,
+        "num": 123969,
+        "word": "何瑞贤收拾收拾准备升咖",
+        "onboard_time": 1762773680,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116042,
+        "num": 116042,
+        "word": "TheShy25岁最后一天",
+        "onboard_time": 1762780881,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109114,
+        "num": 109114,
+        "word": "气血不足腿脚先知",
+        "onboard_time": 1762779202,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80451,
+        "num": 105468,
+        "word": "关晓彤沈梦辰赤脚跳舞",
+        "onboard_time": 1762780342,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38627,
+        "num": 104355,
+        "word": "医保卡变购物卡还有多少隐秘戏法",
+        "onboard_time": 1762780280,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104276,
+        "num": 104276,
+        "word": "网传新音换地点",
+        "onboard_time": 1762780400,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 103706,
+        "word": "TOP 扫楼",
+        "onboard_time": 1762776200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103116,
+        "num": 103116,
+        "word": "将门毒后 鹤男",
+        "onboard_time": 1762761019,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99493,
+        "num": 99493,
+        "word": "孙杨第6",
+        "onboard_time": 1762774702,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记琼粤行#"
+    }
+  }
+}

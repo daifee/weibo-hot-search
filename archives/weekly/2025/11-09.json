@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762780151970,
+  "endTime": 1762781842818,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1316977,
+      "num": 206751,
+      "word": "假唱",
+      "onboard_time": 1762780280,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1310167,
       "num": 182391,
       "word": "南宁二中 学霸文笔",
@@ -171,8 +179,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 950988,
-      "num": 1152158,
+      "raw_hot": 963933,
+      "num": 1154229,
       "word": "陈芋汐全运会10米台金牌",
       "onboard_time": 1762778361,
       "rank": 1,
@@ -651,6 +659,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 506306,
+      "num": 201146,
+      "word": "宝宝产检正常出生后满身兽皮痣",
+      "onboard_time": 1762780702,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503952,
+      "num": 227473,
+      "word": "35岁坚持面部刮痧一年的变化",
+      "onboard_time": 1762775539,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 499022,
       "num": 202650,
       "word": "刘宇宁去医院怕被拍到",
@@ -705,6 +729,14 @@
       "onboard_time": 1762667179,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474391,
+      "num": 474391,
+      "word": "王楚钦vs魏世皓",
+      "onboard_time": 1762778841,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 468146,
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394409,
+      "num": 199953,
+      "word": "陈妍希感谢谢楠救场婚礼",
+      "onboard_time": 1762778661,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393970,
       "num": 393970,
       "word": "奔跑吧",
@@ -969,6 +1009,14 @@
       "onboard_time": 1762757780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375812,
+      "num": 375812,
+      "word": "唐朝诡事录 舞阳",
+      "onboard_time": 1762777281,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 375657,
@@ -1227,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315771,
-      "num": 315771,
-      "word": "唐朝诡事录 舞阳",
-      "onboard_time": 1762777281,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315626,
       "num": 152610,
       "word": "彭小苒 姐妹这太过火了",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1762699762,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 294720,
-      "num": 294720,
-      "word": "王楚钦vs魏世皓",
-      "onboard_time": 1762778841,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 294650,
@@ -1539,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254760,
+      "num": 216721,
+      "word": "谢娜王鹤棣贴身热舞",
+      "onboard_time": 1762778841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253796,
       "num": 253796,
       "word": "唐诡3第一滴泪给刘十八刘十九",
@@ -1731,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227473,
-      "num": 227473,
-      "word": "35岁坚持面部刮痧一年的变化",
-      "onboard_time": 1762775539,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "河南新乡门诊医保报销被限额",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1762611622,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222454,
+      "num": 222454,
+      "word": "汪顺全运会第16金",
+      "onboard_time": 1762780822,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 222375,
@@ -1819,14 +1859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216658,
-      "num": 158975,
-      "word": "陈妍希感谢谢楠救场婚礼",
-      "onboard_time": 1762778661,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215153,
       "num": 215153,
       "word": "唐诡开播第一天杨旭文就被考古了",
@@ -1849,14 +1881,6 @@
       "onboard_time": 1762749200,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 213529,
-      "num": 213529,
-      "word": "谢娜王鹤棣贴身热舞",
-      "onboard_time": 1762778841,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 211843,
@@ -1955,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205114,
+      "num": 205114,
+      "word": "日方紧急找补称涉台立场没变",
+      "onboard_time": 1762778001,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204906,
       "num": 202804,
       "word": "全运会火炬手",
@@ -1995,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203199,
+      "num": 199022,
+      "word": "王楚钦11比8魏世皓",
+      "onboard_time": 1762781782,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203085,
       "num": 154358,
       "word": "罗云熙S15决赛评论席嘉宾",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1762744818,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201957,
+      "num": 201957,
+      "word": "汪苏泷章若楠合唱牵手了",
+      "onboard_time": 1762781001,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 201593,
@@ -2051,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200127,
-      "num": 166271,
-      "word": "日方紧急找补称涉台立场没变",
-      "onboard_time": 1762778001,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -2067,12 +2107,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198947,
+      "num": 198947,
+      "word": "潘展乐汪顺何峻毅沈加豪金牌",
+      "onboard_time": 1762780761,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198015,
       "num": 221346,
       "word": "华晨宇文昌站预售延期",
       "onboard_time": 1762769540,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197821,
+      "num": 197821,
+      "word": "窦骁何超莲辟谣婚变后首同框",
+      "onboard_time": 1762779801,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197179,
@@ -2611,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160093,
+      "num": 160093,
+      "word": "农民歌手李根离世",
+      "onboard_time": 1762780822,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
@@ -2811,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151853,
+      "num": 151853,
+      "word": "山东100自女子接力金牌",
+      "onboard_time": 1762781241,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151814,
       "num": 151814,
       "word": "王者荣耀能不能加个英雄叫甄嬛",
@@ -2865,6 +2937,14 @@
       "onboard_time": 1762657339,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148585,
+      "num": 148585,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148436,
@@ -3203,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129601,
-      "num": 129601,
-      "word": "窦骁何超莲辟谣婚变后首同框",
-      "onboard_time": 1762779801,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "张家辉回应关咏荷被赞状态好",
@@ -3233,6 +3305,14 @@
       "onboard_time": 1762692262,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129196,
+      "num": 129196,
+      "word": "日本人称李白诗歌是东亚共有财富",
+      "onboard_time": 1762776261,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129059,
@@ -3275,14 +3355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128218,
-      "num": 128218,
-      "word": "日本人称李白诗歌是东亚共有财富",
-      "onboard_time": 1762776261,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128217,
       "num": 228417,
       "word": "蒋欣一句话跟黄明昊和好",
@@ -3313,6 +3385,14 @@
       "onboard_time": 1762755678,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126862,
+      "num": 126862,
+      "word": "都买都买太好笑了",
+      "onboard_time": 1762780941,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126281,
@@ -3683,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116042,
+      "num": 116042,
+      "word": "TheShy25岁最后一天",
+      "onboard_time": 1762780881,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115666,
       "num": 115666,
       "word": "44岁短剧导演突发心梗去世",
@@ -3881,6 +3969,14 @@
       "onboard_time": 1762770261,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109114,
+      "num": 109114,
+      "word": "气血不足腿脚先知",
+      "onboard_time": 1762779202,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109056,
@@ -4089,6 +4185,14 @@
       "onboard_time": 1762659800,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104276,
+      "num": 104276,
+      "word": "网传新音换地点",
+      "onboard_time": 1762780400,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 103959,
@@ -4513,14 +4617,6 @@
       "onboard_time": 1762673960,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97284,
-      "num": 97284,
-      "word": "气血不足腿脚先知",
-      "onboard_time": 1762779202,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 97147,
@@ -5275,12 +5371,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80451,
+      "num": 105468,
+      "word": "关晓彤沈梦辰赤脚跳舞",
+      "onboard_time": 1762780342,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80422,
       "num": 80422,
       "word": "建议大家冬天都去表白",
       "onboard_time": 1762742901,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80368,
+      "num": 127127,
+      "word": "何炅嘎巴一下躺那了",
+      "onboard_time": 1762781542,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 80353,
@@ -6019,6 +6131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58069,
+      "num": 201367,
+      "word": "央美学生被指抄袭还获一等奖学金",
+      "onboard_time": 1762780822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57941,
       "num": 228285,
       "word": "美暂停实施对华造船等301调查",
@@ -6172,7 +6292,7 @@
     },
     {
       "raw_hot": 52998,
-      "num": 135200,
+      "num": 138601,
       "word": "秋冬买衣服记得看细节",
       "onboard_time": 1762778901,
       "rank": 34,
@@ -6651,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38627,
+      "num": 104355,
+      "word": "医保卡变购物卡还有多少隐秘戏法",
+      "onboard_time": 1762780280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38425,
       "num": 191327,
       "word": "男子称被困高铁站电梯求救无人回应",
@@ -6995,6 +7123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23060,
+      "num": 406891,
+      "word": "十五运见证大湾区融合发展",
+      "onboard_time": 1762779501,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23048,
       "num": 141806,
       "word": "人民咖啡馆一门店咖啡降至20元内",
@@ -7089,14 +7225,6 @@
       "onboard_time": 1762662622,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15711,
-      "num": 372152,
-      "word": "十五运见证大湾区融合发展",
-      "onboard_time": 1762779501,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 14710,
