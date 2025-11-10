@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762767907478,
+  "endTime": 1762770684550,
   "band_list": [
     {
       "raw_hot": 1986624,
@@ -25,6 +25,14 @@
       "onboard_time": 1762759160,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1336190,
+      "num": 192260,
+      "word": "南宁二中星轨",
+      "onboard_time": 1762768160,
+      "rank": 11,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1263831,
@@ -195,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 544357,
+      "num": 1087097,
+      "word": "中国单方面免签不存在吃亏",
+      "onboard_time": 1762764379,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 535063,
       "num": 206103,
       "word": "那英直播质疑票数",
@@ -217,6 +233,14 @@
       "onboard_time": 1762759761,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490201,
+      "num": 182486,
+      "word": "女婴出生3天被爸爸外婆120元卖掉",
+      "onboard_time": 1762767920,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461960,
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390057,
+      "num": 189119,
+      "word": "关晓彤吃瓜看孟子义",
+      "onboard_time": 1762767740,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388196,
       "num": 129728,
       "word": "谭松韵刘昊然最好的我们售后",
@@ -345,6 +377,14 @@
       "onboard_time": 1762757780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378702,
+      "num": 378702,
+      "word": "许我耀眼集均6328万",
+      "onboard_time": 1762768700,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 365282,
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294439,
+      "num": 187052,
+      "word": "好想来超市称3岁幼童偷盗千元商品",
+      "onboard_time": 1762766300,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288596,
       "num": 118246,
       "word": "连骂4年大衣哥的女子被判6个月",
@@ -531,12 +579,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 243740,
-      "num": 243740,
-      "word": "中国单方面免签不存在吃亏",
-      "onboard_time": 1762764379,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 249843,
+      "num": 249843,
+      "word": "唐朝诡事录3开分8.1",
+      "onboard_time": 1762769300,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247390,
+      "num": 163479,
+      "word": "小米17与苹果软硬合拍",
+      "onboard_time": 1762769479,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 243059,
@@ -699,14 +755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209099,
-      "num": 180506,
-      "word": "好想来超市称3岁幼童偷盗千元商品",
-      "onboard_time": 1762766300,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208401,
       "num": 129094,
       "word": "白百何方发说体面收场为好",
@@ -771,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198015,
+      "num": 198015,
+      "word": "华晨宇文昌站预售延期",
+      "onboard_time": 1762769540,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196107,
       "num": 196107,
       "word": "看舌头判断自己脾胃虚不虚",
@@ -787,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192532,
+      "num": 192532,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762686320,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190488,
       "num": 173006,
       "word": "年会不能停2官宣张若昀白客",
       "onboard_time": 1762744999,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186890,
+      "num": 186890,
+      "word": "成毅天地剑心豆瓣6.0",
+      "onboard_time": 1762768038,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 186286,
@@ -1019,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138565,
+      "num": 138565,
+      "word": "胖多囊vs瘦多囊",
+      "onboard_time": 1762769360,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138513,
       "num": 138513,
       "word": "美总统称将给美国人发2000美元",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1762766060,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 132830,
+      "num": 168416,
+      "word": "喜人奇妙夜喜剧之神降临",
+      "onboard_time": 1762769960,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 132451,
@@ -1155,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123182,
+      "num": 123182,
+      "word": "张雪峰 伍佰演唱会",
+      "onboard_time": 1762768820,
+      "rank": 35,
+      "category": "演出,教育"
+    },
+    {
       "raw_hot": 123121,
       "num": 123121,
       "word": "T1战队换六颗星头像",
@@ -1207,6 +1303,14 @@
       "num": 119488,
       "word": "刘宇宁直播",
       "onboard_time": 1762764680,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119412,
+      "num": 119412,
+      "word": "章若楠差点摔倒了",
+      "onboard_time": 1762768880,
       "rank": 36,
       "category": "艺人"
     },
@@ -1363,14 +1467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110780,
-      "num": 110780,
-      "word": "关晓彤吃瓜看孟子义",
-      "onboard_time": 1762767740,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110398,
       "num": 266943,
       "word": "全运会开幕式",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1762752199,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108427,
+      "num": 108427,
+      "word": "长期阅读对大脑的影响",
+      "onboard_time": 1762767260,
+      "rank": 37,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 108131,
@@ -1499,6 +1603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103148,
+      "num": 103148,
+      "word": "任嘉伦一个动作全场安静",
+      "onboard_time": 1762770200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1762758861,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102406,
+      "num": 102406,
+      "word": "给戈娅FMVP皮肤取名",
+      "onboard_time": 1762770501,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 102069,
@@ -1553,14 +1673,6 @@
       "onboard_time": 1762758560,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101185,
-      "num": 101185,
-      "word": "长期阅读对大脑的影响",
-      "onboard_time": 1762767260,
-      "rank": 37,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 101180,
@@ -1659,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97442,
-      "num": 97442,
-      "word": "唐朝诡事录",
-      "onboard_time": 1762686320,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97441,
       "num": 97441,
       "word": "人的一生主线任务只有一个",
@@ -1705,6 +1809,14 @@
       "onboard_time": 1762763721,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96041,
+      "num": 192537,
+      "word": "李尚洙退役",
+      "onboard_time": 1762770560,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 95496,
@@ -1883,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85106,
+      "num": 151568,
+      "word": "大湾鸡会变色",
+      "onboard_time": 1762770261,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84541,
       "num": 117420,
       "word": "中国渔船倾覆9人失踪",
@@ -2051,12 +2171,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76445,
+      "num": 185767,
+      "word": "品牌总裁组团在比价直播间发5折",
+      "onboard_time": 1762769479,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76208,
       "num": 108111,
       "word": "单依纯晒全运会工作照",
       "onboard_time": 1762735460,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 75077,
+      "num": 127918,
+      "word": "王宗源全运会3米板金牌",
+      "onboard_time": 1762768102,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 74274,
@@ -2177,6 +2313,14 @@
       "onboard_time": 1762758440,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 67891,
+      "num": 102409,
+      "word": "范丞丞叫白鹿黄毛丫头",
+      "onboard_time": 1762769119,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 67147,
@@ -2339,6 +2483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58995,
+      "num": 157684,
+      "word": "年轻人开始精算每一单",
+      "onboard_time": 1762769419,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 56918,
       "num": 140383,
       "word": "陈幸同4比1马小惠",
@@ -2475,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43676,
+      "num": 166938,
+      "word": "颐和园的秋天太美了",
+      "onboard_time": 1762769300,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43425,
       "num": 148512,
       "word": "大湾鸡越看越可爱",
@@ -2489,6 +2649,14 @@
       "onboard_time": 1762731439,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39691,
+      "num": 94012,
+      "word": "志愿者擦镜子意外毁了艺术品",
+      "onboard_time": 1762769119,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38935,
@@ -2539,18 +2707,18 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34912,
-      "num": 408746,
-      "word": "4个关键词解读十五运会点火创意",
-      "onboard_time": 1762744580,
+      "raw_hot": 35044,
+      "num": 311111,
+      "word": "十五运会新华社出图",
+      "onboard_time": 1762761621,
       "rank": 2,
       "category": "体育"
     },
     {
-      "raw_hot": 34770,
-      "num": 311111,
-      "word": "十五运会新华社出图",
-      "onboard_time": 1762761621,
+      "raw_hot": 34912,
+      "num": 408746,
+      "word": "4个关键词解读十五运会点火创意",
+      "onboard_time": 1762744580,
       "rank": 2,
       "category": "体育"
     },
@@ -2619,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22187,
+      "num": 154728,
+      "word": "郭晶晶火炬手发文",
+      "onboard_time": 1762770501,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
@@ -2681,6 +2857,14 @@
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13491,
+      "num": 109838,
+      "word": "广东启动防风四级应急响应",
+      "onboard_time": 1762770320,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 13436,
