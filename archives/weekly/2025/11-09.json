@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762782562683,
+  "endTime": 1762784885526,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -331,6 +331,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 694974,
+      "num": 248047,
+      "word": "35岁坚持面部刮痧一年的变化",
+      "onboard_time": 1762775539,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 691778,
       "num": 224314,
       "word": "将门毒后 鹤男",
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593277,
+      "num": 192395,
+      "word": "范丞丞白鹿跳了obsession",
+      "onboard_time": 1762782682,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 590582,
       "num": 185698,
       "word": "金价",
@@ -603,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546212,
+      "num": 221039,
+      "word": "陈妍希感谢谢楠救场婚礼",
+      "onboard_time": 1762778661,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544357,
       "num": 1087097,
       "word": "中国单方面免签不存在吃亏",
@@ -625,14 +649,6 @@
       "onboard_time": 1762666340,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 533021,
-      "num": 248047,
-      "word": "35岁坚持面部刮痧一年的变化",
-      "onboard_time": 1762775539,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 530567,
@@ -747,14 +763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 466091,
-      "num": 221039,
-      "word": "陈妍希感谢谢楠救场婚礼",
-      "onboard_time": 1762778661,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 461960,
       "num": 176125,
       "word": "本周做什么都顺的星座",
@@ -827,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435908,
+      "num": 196560,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432801,
       "num": 208532,
       "word": "猴哥说车前妻一家怒斥小三",
@@ -875,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419186,
+      "num": 190821,
+      "word": "沈月发问号后秒删",
+      "onboard_time": 1762783641,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418029,
       "num": 1066884,
       "word": "Faker发博晒经典夺冠表情",
@@ -921,6 +945,14 @@
       "onboard_time": 1762772240,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 406712,
+      "num": 195510,
+      "word": "警方通报华中农大一博士在校溺亡",
+      "onboard_time": 1762782382,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 402982,
@@ -993,6 +1025,14 @@
       "onboard_time": 1762598241,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384478,
+      "num": 384478,
+      "word": "汪苏泷章若楠合唱牵手了",
+      "onboard_time": 1762781001,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 383317,
@@ -1347,14 +1387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295024,
-      "num": 295024,
-      "word": "汪苏泷章若楠合唱牵手了",
-      "onboard_time": 1762781001,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294650,
       "num": 160572,
       "word": "印度警察把轮奸案名单变为创收项目",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1762613542,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279341,
+      "num": 279341,
+      "word": "央美学生被指抄袭还获一等奖学金",
+      "onboard_time": 1762780822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278820,
@@ -1651,7 +1691,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 243099,
+      "raw_hot": 246218,
       "num": 243099,
       "word": "时代少年团好六夜连唱5首",
       "onboard_time": 1762781842,
@@ -1784,14 +1824,6 @@
       "word": "西贝近况",
       "onboard_time": 1762700303,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230419,
-      "num": 152310,
-      "word": "浙江诸暨麻糍奶奶遇车祸去世",
-      "onboard_time": 1762781421,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2019,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205240,
+      "num": 189998,
+      "word": "周深小美满前奏一响就踏实了",
+      "onboard_time": 1762783882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204906,
       "num": 202804,
       "word": "全运会火炬手",
@@ -2097,6 +2137,14 @@
       "onboard_time": 1762650679,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201516,
+      "num": 181468,
+      "word": "周深品尝奶皮子糖葫芦连吃带拿",
+      "onboard_time": 1762783703,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 200857,
@@ -2355,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180670,
+      "num": 180670,
+      "word": "黄杨钿甜更新动态",
+      "onboard_time": 1762782441,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178541,
       "num": 178541,
       "word": "云合",
@@ -2515,28 +2571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171527,
-      "num": 272664,
-      "word": "央美学生被指抄袭还获一等奖学金",
-      "onboard_time": 1762780822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171387,
       "num": 164885,
       "word": "惊喜之夜节目单",
       "onboard_time": 1762674622,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171277,
-      "num": 148638,
-      "word": "黄杨钿甜更新动态",
-      "onboard_time": 1762782441,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 171084,
@@ -2585,6 +2625,14 @@
       "onboard_time": 1762698624,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166044,
+      "num": 189351,
+      "word": "马嘉祺又给沈梦辰敬礼了",
+      "onboard_time": 1762783403,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 165987,
@@ -2673,6 +2721,22 @@
       "onboard_time": 1762694962,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162273,
+      "num": 162273,
+      "word": "马特4比3向鹏",
+      "onboard_time": 1762784182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161970,
+      "num": 184275,
+      "word": "王鹤棣孟子义一开口我就想笑",
+      "onboard_time": 1762782802,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 160842,
@@ -3075,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "宋亚轩喜欢秋天的原因",
+      "onboard_time": 1762784004,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142484,
       "num": 142484,
       "word": "三十几岁正是回村种地的好时候",
@@ -3171,6 +3243,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138593,
+      "num": 138593,
+      "word": "多囊不光是一种妇科病",
+      "onboard_time": 1762783762,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138513,
       "num": 138513,
       "word": "美总统称将给美国人发2000美元",
@@ -3217,6 +3297,14 @@
       "onboard_time": 1762651579,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137168,
+      "num": 137168,
+      "word": "时代少年团状态",
+      "onboard_time": 1762783342,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 136182,
@@ -3417,6 +3505,14 @@
       "onboard_time": 1762755678,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126999,
+      "num": 252873,
+      "word": "王楚钦晋级全运会16强",
+      "onboard_time": 1762782081,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 126862,
@@ -4123,6 +4219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106504,
+      "num": 106504,
+      "word": "浪姐沈梦辰杀回来了",
+      "onboard_time": 1762784785,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106317,
       "num": 161439,
       "word": "大湾鸡也不想加班",
@@ -4145,6 +4249,14 @@
       "onboard_time": 1762609402,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105895,
+      "num": 105895,
+      "word": "王楚钦16强对阵黄镇廷",
+      "onboard_time": 1762784062,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105602,
@@ -4193,6 +4305,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105034,
+      "num": 105034,
+      "word": "易烊千玺又帅出新高度了",
+      "onboard_time": 1762783041,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 104912,
@@ -4563,6 +4683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99706,
+      "num": 193303,
+      "word": "汉堡王中国也被卖了",
+      "onboard_time": 1762784243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99507,
       "num": 204956,
       "word": "一诺好牛",
@@ -4577,6 +4705,14 @@
       "onboard_time": 1762757540,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99113,
+      "num": 99113,
+      "word": "全球股市全线大涨",
+      "onboard_time": 1762781962,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 98606,
@@ -4707,14 +4843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96486,
-      "num": 252873,
-      "word": "王楚钦晋级全运会16强",
-      "onboard_time": 1762782081,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96329,
       "num": 96329,
       "word": "把普通的蛋糕拆开卖",
@@ -4785,6 +4913,14 @@
       "onboard_time": 1762688002,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94710,
+      "num": 181503,
+      "word": "陈芋汐第2金",
+      "onboard_time": 1762784062,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 94538,
@@ -5665,6 +5801,14 @@
       "onboard_time": 1762669401,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73862,
+      "num": 131063,
+      "word": "张杰演唱会惊喜",
+      "onboard_time": 1762783403,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 73786,
@@ -6891,6 +7035,22 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 36149,
+      "num": 195721,
+      "word": "谢霆锋你让我怎么戒断",
+      "onboard_time": 1762783703,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 36130,
+      "num": 193862,
+      "word": "医院通报女子怀疑孩子被抱错",
+      "onboard_time": 1762784302,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 35774,
       "num": 48101,
       "word": "T1回应夺冠",
@@ -7275,20 +7435,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15950,
-      "num": 141736,
-      "word": "警方通报华中农大一博士在校溺亡",
-      "onboard_time": 1762782382,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 15749,
       "num": 120793,
       "word": "张峻豪突然开始鞠躬",
       "onboard_time": 1762662622,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15624,
+      "num": 105990,
+      "word": "双十一买过最不能理解的东西",
+      "onboard_time": 1762784302,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 14710,
@@ -7345,6 +7505,14 @@
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 12589,
+      "num": 130712,
+      "word": "部分高铁受台风影响停运",
+      "onboard_time": 1762784363,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11630,

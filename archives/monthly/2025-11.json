@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762782562683,
+  "endTime": 1762784885526,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1691,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694974,
+      "num": 248047,
+      "word": "35岁坚持面部刮痧一年的变化",
+      "onboard_time": 1762775539,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 693198,
       "num": 220654,
       "word": "鲍蕾因贝儿课业崩溃拍桌子",
@@ -2307,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593277,
+      "num": 192395,
+      "word": "范丞丞白鹿跳了obsession",
+      "onboard_time": 1762782682,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 592974,
       "num": 371686,
       "word": "男子与堂哥合谋撞死7岁儿子骗保",
@@ -2723,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546212,
+      "num": 221039,
+      "word": "陈妍希感谢谢楠救场婚礼",
+      "onboard_time": 1762778661,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545752,
       "num": 307063,
       "word": "老师我家田曦薇不能露秋裤吗",
@@ -2849,14 +2873,6 @@
       "onboard_time": 1761926602,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 533021,
-      "num": 248047,
-      "word": "35岁坚持面部刮痧一年的变化",
-      "onboard_time": 1762775539,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 532950,
@@ -3491,14 +3507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 466091,
-      "num": 221039,
-      "word": "陈妍希感谢谢楠救场婚礼",
-      "onboard_time": 1762778661,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 465643,
       "num": 192756,
       "word": "刘若英谈44岁怀孕经历",
@@ -3819,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435908,
+      "num": 196560,
+      "word": "浙江诸暨麻糍奶奶遇车祸去世",
+      "onboard_time": 1762781421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435890,
       "num": 435890,
       "word": "水千丞188男团将影视化",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1762662979,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 419186,
+      "num": 190821,
+      "word": "沈月发问号后秒删",
+      "onboard_time": 1762783641,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 418838,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1762241541,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406712,
+      "num": 195510,
+      "word": "警方通报华中农大一博士在校溺亡",
+      "onboard_time": 1762782382,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 406609,
@@ -4473,6 +4505,14 @@
       "onboard_time": 1762085241,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384478,
+      "num": 384478,
+      "word": "汪苏泷章若楠合唱牵手了",
+      "onboard_time": 1762781001,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 384113,
@@ -6035,14 +6075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 295024,
-      "num": 295024,
-      "word": "汪苏泷章若楠合唱牵手了",
-      "onboard_time": 1762781001,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294921,
       "num": 294921,
       "word": "缅北白家21人获刑",
@@ -6409,6 +6441,14 @@
       "onboard_time": 1761911004,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279341,
+      "num": 279341,
+      "word": "央美学生被指抄袭还获一等奖学金",
+      "onboard_time": 1762780822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278895,
@@ -7171,6 +7211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 246218,
+      "num": 243099,
+      "word": "时代少年团好六夜连唱5首",
+      "onboard_time": 1762781842,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245803,
       "num": 186984,
       "word": "王传君获奖是五个评委一致通过的",
@@ -7209,14 +7257,6 @@
       "onboard_time": 1762338621,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243099,
-      "num": 243099,
-      "word": "时代少年团好六夜连唱5首",
-      "onboard_time": 1762781842,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 243059,
@@ -7609,14 +7649,6 @@
       "onboard_time": 1762142541,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230419,
-      "num": 152310,
-      "word": "浙江诸暨麻糍奶奶遇车祸去世",
-      "onboard_time": 1762781421,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230111,
@@ -8731,6 +8763,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 205240,
+      "num": 189998,
+      "word": "周深小美满前奏一响就踏实了",
+      "onboard_time": 1762783882,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205204,
       "num": 205204,
       "word": "娜扎对宋亚轩喊你算什么男人",
@@ -9009,6 +9049,14 @@
       "onboard_time": 1762650679,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201516,
+      "num": 181468,
+      "word": "周深品尝奶皮子糖葫芦连吃带拿",
+      "onboard_time": 1762783703,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 201497,
@@ -10443,6 +10491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180670,
+      "num": 180670,
+      "word": "黄杨钿甜更新动态",
+      "onboard_time": 1762782441,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180666,
       "num": 192113,
       "word": "中学再通报学生买淀粉肠被拿钥匙",
@@ -11115,14 +11171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 171527,
-      "num": 272664,
-      "word": "央美学生被指抄袭还获一等奖学金",
-      "onboard_time": 1762780822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171460,
       "num": 171460,
       "word": "王鹤棣毛晓彤cha了新歌",
@@ -11169,14 +11217,6 @@
       "onboard_time": 1762491921,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171277,
-      "num": 148638,
-      "word": "黄杨钿甜更新动态",
-      "onboard_time": 1762782441,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 171169,
@@ -11611,6 +11651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166044,
+      "num": 189351,
+      "word": "马嘉祺又给沈梦辰敬礼了",
+      "onboard_time": 1762783403,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165987,
       "num": 195199,
       "word": "A股大消费概念爆发",
@@ -11963,6 +12011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162273,
+      "num": 162273,
+      "word": "马特4比3向鹏",
+      "onboard_time": 1762784182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162271,
       "num": 162271,
       "word": "迪丽热巴卫蓝白裙路透",
@@ -12025,6 +12081,14 @@
       "onboard_time": 1762337482,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161970,
+      "num": 184275,
+      "word": "王鹤棣孟子义一开口我就想笑",
+      "onboard_time": 1762782802,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161952,
@@ -14059,6 +14123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "宋亚轩喜欢秋天的原因",
+      "onboard_time": 1762784004,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142928,
       "num": 142928,
       "word": "特斯拉市值需十年内达8.5万亿美元",
@@ -14627,6 +14699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138593,
+      "num": 138593,
+      "word": "多囊不光是一种妇科病",
+      "onboard_time": 1762783762,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138569,
       "num": 138569,
       "word": "Chovy再次止步四强",
@@ -14881,6 +14961,14 @@
       "onboard_time": 1762091962,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137168,
+      "num": 137168,
+      "word": "时代少年团状态",
+      "onboard_time": 1762783342,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 137111,
@@ -16353,6 +16441,14 @@
       "onboard_time": 1762081100,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126999,
+      "num": 252873,
+      "word": "王楚钦晋级全运会16强",
+      "onboard_time": 1762782081,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 126948,
@@ -20339,6 +20435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106504,
+      "num": 106504,
+      "word": "浪姐沈梦辰杀回来了",
+      "onboard_time": 1762784785,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106487,
       "num": 136991,
       "word": "MLB美职棒大联盟",
@@ -20441,6 +20545,14 @@
       "onboard_time": 1762399280,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105895,
+      "num": 105895,
+      "word": "王楚钦16强对阵黄镇廷",
+      "onboard_time": 1762784062,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105865,
@@ -20625,6 +20737,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105034,
+      "num": 105034,
+      "word": "易烊千玺又帅出新高度了",
+      "onboard_time": 1762783041,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105013,
@@ -22163,6 +22283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99706,
+      "num": 193303,
+      "word": "汉堡王中国也被卖了",
+      "onboard_time": 1762784243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99650,
       "num": 99650,
       "word": "我们神舟太出片了",
@@ -22305,6 +22433,14 @@
       "onboard_time": 1762317863,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99113,
+      "num": 99113,
+      "word": "全球股市全线大涨",
+      "onboard_time": 1762781962,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 99055,
@@ -23115,14 +23251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96486,
-      "num": 252873,
-      "word": "王楚钦晋级全运会16强",
-      "onboard_time": 1762782081,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96416,
       "num": 96416,
       "word": "4类人不适合吃奶皮子糖葫芦",
@@ -23585,6 +23713,14 @@
       "onboard_time": 1762407741,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94710,
+      "num": 181503,
+      "word": "陈芋汐第2金",
+      "onboard_time": 1762784062,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 94685,
@@ -29051,6 +29187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73862,
+      "num": 131063,
+      "word": "张杰演唱会惊喜",
+      "onboard_time": 1762783403,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73786,
       "num": 187149,
       "word": "多国催讨美国赶紧还钱",
@@ -33619,6 +33763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36149,
+      "num": 195721,
+      "word": "谢霆锋你让我怎么戒断",
+      "onboard_time": 1762783703,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 36130,
+      "num": 193862,
+      "word": "医院通报女子怀疑孩子被抱错",
+      "onboard_time": 1762784302,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 36055,
       "num": 39557,
       "word": "白百何说导演隐身",
@@ -35483,14 +35643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15950,
-      "num": 141736,
-      "word": "警方通报华中农大一博士在校溺亡",
-      "onboard_time": 1762782382,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 15749,
       "num": 120793,
       "word": "张峻豪突然开始鞠躬",
@@ -35513,6 +35665,14 @@
       "onboard_time": 1762076002,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15624,
+      "num": 105990,
+      "word": "双十一买过最不能理解的东西",
+      "onboard_time": 1762784302,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 15551,
@@ -35777,6 +35937,14 @@
       "onboard_time": 1762199593,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12589,
+      "num": 130712,
+      "word": "部分高铁受台风影响停运",
+      "onboard_time": 1762784363,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 12407,
