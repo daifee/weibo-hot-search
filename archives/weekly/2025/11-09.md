@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/11 04:31:44
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/11 04:44:36
 </p>
 </blockquote>
 <p>
@@ -5391,6 +5391,12 @@ AI生成野生动物视频威胁动物保护（热度：51762）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%9713%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E8%A2%AB%E5%98%B2%E7%AC%91%E8%BF%9E%E5%88%BA%E5%90%8C%E5%AD%A6%E6%95%B0%E5%88%80%23" target="weibo">
+越南13岁男孩因被嘲笑连刺同学数刀（热度：43229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%85%A8%E8%BF%90%E4%BC%9A%E9%A6%96%E7%A7%80%23" target="weibo">
 林高远全运会首秀（热度：43172）
 </a>
@@ -5723,12 +5729,6 @@ Gumayusi晒奖杯照（热度：30905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E8%BF%87%E6%9C%80%E4%B8%8D%E8%83%BD%E7%90%86%E8%A7%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 双十一买过最不能理解的东西（热度：28695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%9713%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E8%A2%AB%E5%98%B2%E7%AC%91%E8%BF%9E%E5%88%BA%E5%90%8C%E5%AD%A6%E6%95%B0%E5%88%80%23" target="weibo">
-越南13岁男孩因被嘲笑连刺同学数刀（热度：28639）
 </a>
 </li>
 

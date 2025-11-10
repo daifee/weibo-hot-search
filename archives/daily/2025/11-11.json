@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762806704657,
+  "endTime": 1762807476159,
   "band_list": [
     {
       "raw_hot": 841229,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43229,
+      "num": 18767,
+      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "onboard_time": 1762803494,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43225,
       "num": 98294,
       "word": "九尾 别问了一堆假瓜",
@@ -473,14 +481,6 @@
       "onboard_time": 1762800015,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28639,
-      "num": 18767,
-      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
-      "onboard_time": 1762803494,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27223,

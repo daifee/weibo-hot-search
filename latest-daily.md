@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/11 00:35:36 ~ 2025/11/11 04:31:44
+本榜单时间：2025/11/11 00:35:36 ~ 2025/11/11 04:44:36
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%9713%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E8%A2%AB%E5%98%B2%E7%AC%91%E8%BF%9E%E5%88%BA%E5%90%8C%E5%AD%A6%E6%95%B0%E5%88%80%23" target="weibo">
+越南13岁男孩因被嘲笑连刺同学数刀（热度：43229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%20%E5%88%AB%E9%97%AE%E4%BA%86%E4%B8%80%E5%A0%86%E5%81%87%E7%93%9C%23" target="weibo">
 九尾 别问了一堆假瓜（热度：43225）
 </a>
@@ -365,12 +371,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E7%8A%B6%E6%80%81%23" target="weibo">
 李连杰状态（热度：29575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%9713%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E8%A2%AB%E5%98%B2%E7%AC%91%E8%BF%9E%E5%88%BA%E5%90%8C%E5%AD%A6%E6%95%B0%E5%88%80%23" target="weibo">
-越南13岁男孩因被嘲笑连刺同学数刀（热度：28639）
 </a>
 </li>
 
