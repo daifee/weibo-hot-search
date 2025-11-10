@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762771613682,
+  "endTime": 1762773846564,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -153,6 +153,14 @@
       "onboard_time": 1762155380,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2146340,
+      "num": 229636,
+      "word": "南宁二中星轨",
+      "onboard_time": 1762768160,
+      "rank": 11,
+      "category": "读书作家"
     },
     {
       "raw_hot": 2062571,
@@ -313,14 +321,6 @@
       "onboard_time": 1762703541,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1555935,
-      "num": 229636,
-      "word": "南宁二中星轨",
-      "onboard_time": 1762768160,
-      "rank": 11,
-      "category": "读书作家"
     },
     {
       "raw_hot": 1525965,
@@ -2353,6 +2353,14 @@
       "onboard_time": 1762144762,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580841,
+      "num": 140280,
+      "word": "关晓彤搅半天一口没吃",
+      "onboard_time": 1762771400,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 580213,
@@ -4545,6 +4553,14 @@
       "onboard_time": 1762313721,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371856,
+      "num": 142068,
+      "word": "朱孝天方回应F4变F3",
+      "onboard_time": 1762771099,
+      "rank": 33,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 371214,
@@ -7635,6 +7651,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 224212,
+      "num": 224212,
+      "word": "罗云熙林允杀死了剧宣比赛",
+      "onboard_time": 1762770921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223897,
       "num": 192161,
       "word": "向佐 为了孩子忍一忍就过去了",
@@ -9875,6 +9899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185491,
+      "num": 185491,
+      "word": "捐款造航母男生获赠福建舰手表",
+      "onboard_time": 1762771940,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185479,
       "num": 151386,
       "word": "佘诗曼说都是朋友黄宗泽除外",
@@ -10883,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171147,
+      "num": 171147,
+      "word": "台风",
+      "onboard_time": 1762772240,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 171130,
       "num": 171130,
       "word": "台媒称两岸统一进程正在加快",
@@ -11771,6 +11811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161480,
+      "num": 136817,
+      "word": "原来很多人一直都用错纸了",
+      "onboard_time": 1762772901,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161320,
       "num": 161320,
       "word": "东京电影节影后双黄蛋",
@@ -12545,14 +12593,6 @@
       "onboard_time": 1762510821,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153120,
-      "num": 153120,
-      "word": "罗云熙林允杀死了剧宣比赛",
-      "onboard_time": 1762770921,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 153113,
@@ -13371,6 +13411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145541,
+      "num": 145541,
+      "word": "唐朝诡事录 写给成年人的童话",
+      "onboard_time": 1762773141,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145459,
       "num": 145459,
       "word": "ShowMaker复刻名场面",
@@ -13587,6 +13635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144106,
+      "num": 137878,
+      "word": "梅西晒照重返诺坎普",
+      "onboard_time": 1762773441,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "新人结婚当天在婚车上睡着了",
@@ -13771,14 +13827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142068,
-      "num": 142068,
-      "word": "朱孝天方回应F4变F3",
-      "onboard_time": 1762771099,
-      "rank": 33,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "孟子义拍完尚公主将无缝进组",
@@ -13913,6 +13961,14 @@
       "onboard_time": 1762669760,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140735,
+      "num": 140735,
+      "word": "陈瑶摸喉结居然是临场发挥",
+      "onboard_time": 1762772421,
+      "rank": 10,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 140723,
@@ -14425,6 +14481,14 @@
       "onboard_time": 1762501101,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137594,
+      "num": 137594,
+      "word": "华晨宇锐评音综选手四不像",
+      "onboard_time": 1762773200,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 137554,
@@ -15027,6 +15091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132886,
+      "num": 132886,
+      "word": "董璇回应婚礼餐标",
+      "onboard_time": 1762773501,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132830,
       "num": 168416,
       "word": "喜人奇妙夜喜剧之神降临",
@@ -15369,6 +15441,14 @@
       "onboard_time": 1762093163,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130693,
+      "num": 130693,
+      "word": "巩俐郭晶晶合照",
+      "onboard_time": 1762770681,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 130634,
@@ -16224,6 +16304,14 @@
       "word": "赵子豪的全运队服好显白",
       "onboard_time": 1762226001,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125412,
+      "num": 230680,
+      "word": "李尚洙退役",
+      "onboard_time": 1762770560,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -17283,6 +17371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119261,
+      "num": 140125,
+      "word": "淘宝抽奖",
+      "onboard_time": 1762772421,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119247,
       "num": 119247,
       "word": "女生买衣服好看的定律",
@@ -17763,14 +17859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117170,
-      "num": 117170,
-      "word": "关晓彤搅半天一口没吃",
-      "onboard_time": 1762771400,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117118,
       "num": 117118,
       "word": "卜凡直播被贴脸开大",
@@ -17859,14 +17947,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 116524,
-      "num": 230680,
-      "word": "李尚洙退役",
-      "onboard_time": 1762770560,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116391,
       "num": 165181,
       "word": "许绍雄家人发讣闻",
@@ -17953,14 +18033,6 @@
       "onboard_time": 1761974179,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116034,
-      "num": 116034,
-      "word": "巩俐郭晶晶合照",
-      "onboard_time": 1762770681,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 116017,
@@ -19707,6 +19779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107343,
+      "num": 107343,
+      "word": "研究生一怒之下怒了一下",
+      "onboard_time": 1762770739,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107341,
       "num": 383566,
       "word": "每天与一件国宝相遇",
@@ -19849,6 +19929,14 @@
       "onboard_time": 1762753101,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106738,
+      "num": 106738,
+      "word": "何瑞贤收拾收拾准备升咖",
+      "onboard_time": 1762773680,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106707,
@@ -20193,6 +20281,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105100,
+      "num": 115578,
+      "word": "咖啡上撒蟑螂1杯40元",
+      "onboard_time": 1762773319,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105013,
@@ -20617,6 +20713,14 @@
       "onboard_time": 1762319540,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 103467,
+      "word": "梅艳芳大哥公开寻母",
+      "onboard_time": 1762772240,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 103445,
@@ -30659,6 +30763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58422,
+      "num": 138486,
+      "word": "尹锡悦因涉嫌诱朝鲜进攻被追加起诉",
+      "onboard_time": 1762772421,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58219,
       "num": 115792,
       "word": "石宇奇又又又换发色了",
@@ -31667,6 +31779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48756,
+      "num": 110988,
+      "word": "张展硕全运会400自金牌",
+      "onboard_time": 1762773799,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48721,
       "num": 100266,
       "word": "墨西哥总统将控告骚扰其男子",
@@ -31887,6 +32007,14 @@
       "num": 150003,
       "word": "京东白酒88折",
       "onboard_time": 1762239920,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 46909,
+      "num": 139095,
+      "word": "今年最值得换新的几样东西",
+      "onboard_time": 1762772719,
       "rank": 19,
       "category": "互联网"
     },
@@ -32185,6 +32313,14 @@
       "onboard_time": 1762316662,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43694,
+      "num": 115049,
+      "word": "年轻人双11冲刺主打一个多囤货",
+      "onboard_time": 1762772299,
+      "rank": 39,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 43676,
@@ -33507,6 +33643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30600,
+      "num": 119077,
+      "word": "泽连斯基称全世界都怕特朗普我不怕",
+      "onboard_time": 1762773560,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30582,
       "num": 195997,
       "word": "朋友聚会不能没有你画我猜",
@@ -33569,6 +33713,14 @@
       "onboard_time": 1762585280,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29999,
+      "num": 116487,
+      "word": "官方介入长江支流变黑水河",
+      "onboard_time": 1762771521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29944,
@@ -33737,6 +33889,14 @@
       "onboard_time": 1761981740,
       "rank": 41,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 28174,
+      "num": 139471,
+      "word": "登陆少年青春故事大揭秘",
+      "onboard_time": 1762773020,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 28162,
@@ -34145,14 +34305,6 @@
       "onboard_time": 1762024274,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24130,
-      "num": 116487,
-      "word": "官方介入长江支流变黑水河",
-      "onboard_time": 1762771521,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23895,

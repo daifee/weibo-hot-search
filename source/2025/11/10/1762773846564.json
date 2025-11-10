@@ -1,0 +1,410 @@
+{
+  "runTime": 1762773846564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243983,
+        "num": 1039037,
+        "word": "中国单方面免签不存在吃亏",
+        "onboard_time": 1762764379,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224212,
+        "num": 224212,
+        "word": "罗云熙林允杀死了剧宣比赛",
+        "onboard_time": 1762770921,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30338,
+        "num": 197976,
+        "word": "十五运会新华社出图",
+        "onboard_time": 1762761621,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191575,
+        "num": 191575,
+        "word": "全运会",
+        "onboard_time": 1762773319,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188643,
+        "num": 188643,
+        "word": "Faker发博晒经典夺冠表情",
+        "onboard_time": 1762762699,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 367386,
+        "num": 187307,
+        "word": "许我耀眼集均6328万",
+        "onboard_time": 1762768700,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185491,
+        "num": 185491,
+        "word": "捐款造航母男生获赠福建舰手表",
+        "onboard_time": 1762771940,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171147,
+        "num": 171147,
+        "word": "台风",
+        "onboard_time": 1762772240,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145541,
+        "num": 145541,
+        "word": "唐朝诡事录 写给成年人的童话",
+        "onboard_time": 1762773141,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128046,
+        "num": 142585,
+        "word": "俄罗斯观众当场教训亵渎国歌者",
+        "onboard_time": 1762762820,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "陈瑶摸喉结居然是临场发挥",
+        "onboard_time": 1762772421,
+        "rank": 10,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 2146340,
+        "num": 140656,
+        "word": "南宁二中星轨",
+        "onboard_time": 1762768160,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 684985,
+        "num": 140524,
+        "word": "印度轮奸案受害女子遭代理律师强奸",
+        "onboard_time": 1762759160,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 580841,
+        "num": 140280,
+        "word": "关晓彤搅半天一口没吃",
+        "onboard_time": 1762771400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119261,
+        "num": 140125,
+        "word": "淘宝抽奖",
+        "onboard_time": 1762772421,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371856,
+        "num": 139928,
+        "word": "朱孝天方回应F4变F3",
+        "onboard_time": 1762771099,
+        "rank": 15,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 125412,
+        "num": 139648,
+        "word": "李尚洙退役",
+        "onboard_time": 1762770560,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28174,
+        "num": 139471,
+        "word": "登陆少年青春故事大揭秘",
+        "onboard_time": 1762773020,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31224,
+        "num": 139408,
+        "word": "品牌总裁组团在比价直播间发5折",
+        "onboard_time": 1762769479,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46909,
+        "num": 139095,
+        "word": "今年最值得换新的几样东西",
+        "onboard_time": 1762772719,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 532211,
+        "num": 139000,
+        "word": "女婴出生3天被爸爸外婆120元卖掉",
+        "onboard_time": 1762767920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402627,
+        "num": 138774,
+        "word": "关晓彤吃瓜看孟子义",
+        "onboard_time": 1762767740,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310484,
+        "num": 138556,
+        "word": "店铺回应被刘嘉玲喊话侵权",
+        "onboard_time": 1762763421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58422,
+        "num": 138486,
+        "word": "尹锡悦因涉嫌诱朝鲜进攻被追加起诉",
+        "onboard_time": 1762772421,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133272,
+        "num": 138248,
+        "word": "小米17与苹果软硬合拍",
+        "onboard_time": 1762769479,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 317803,
+        "num": 138075,
+        "word": "求沈月张凌赫合作 但不是这个沈月",
+        "onboard_time": 1762756641,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144106,
+        "num": 137878,
+        "word": "梅西晒照重返诺坎普",
+        "onboard_time": 1762773441,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256908,
+        "num": 137605,
+        "word": "将门毒后 鹤男",
+        "onboard_time": 1762761019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137594,
+        "num": 137594,
+        "word": "华晨宇锐评音综选手四不像",
+        "onboard_time": 1762773200,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257905,
+        "num": 137346,
+        "word": "唐朝诡事录3开分8.1",
+        "onboard_time": 1762769300,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170820,
+        "num": 136951,
+        "word": "好想来超市称3岁幼童偷盗千元商品",
+        "onboard_time": 1762766300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161480,
+        "num": 136817,
+        "word": "原来很多人一直都用错纸了",
+        "onboard_time": 1762772901,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160144,
+        "num": 136443,
+        "word": "黑毛一诺回归",
+        "onboard_time": 1762766180,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136229,
+        "num": 136229,
+        "word": "女儿养了3个月出院记录显示是男婴",
+        "onboard_time": 1762762160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "董璇回应婚礼餐标",
+        "onboard_time": 1762773501,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 130693,
+        "word": "巩俐郭晶晶合照",
+        "onboard_time": 1762770681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126776,
+        "num": 126776,
+        "word": "胖多囊vs瘦多囊",
+        "onboard_time": 1762769360,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30600,
+        "num": 119077,
+        "word": "泽连斯基称全世界都怕特朗普我不怕",
+        "onboard_time": 1762773560,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 115578,
+        "word": "咖啡上撒蟑螂1杯40元",
+        "onboard_time": 1762773319,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43694,
+        "num": 115049,
+        "word": "年轻人双11冲刺主打一个多囤货",
+        "onboard_time": 1762772299,
+        "rank": 39,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 114768,
+        "num": 114768,
+        "word": "成毅天地剑心豆瓣6.0",
+        "onboard_time": 1762768038,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112694,
+        "num": 112694,
+        "word": "江浙沪父母真的太会托举孩子了",
+        "onboard_time": 1762760299,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 48756,
+        "num": 110988,
+        "word": "张展硕全运会400自金牌",
+        "onboard_time": 1762773799,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110712,
+        "num": 110712,
+        "word": "华晨宇文昌站预售延期",
+        "onboard_time": 1762769540,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107759,
+        "num": 107759,
+        "word": "迪丽热巴身体状况",
+        "onboard_time": 1762748840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107343,
+        "num": 107343,
+        "word": "研究生一怒之下怒了一下",
+        "onboard_time": 1762770739,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106738,
+        "num": 106738,
+        "word": "何瑞贤收拾收拾准备升咖",
+        "onboard_time": 1762773680,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 103467,
+        "word": "梅艳芳大哥公开寻母",
+        "onboard_time": 1762772240,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100831,
+        "num": 103194,
+        "word": "张雪峰 伍佰演唱会",
+        "onboard_time": 1762768820,
+        "rank": 48,
+        "category": "演出,教育"
+      },
+      {
+        "raw_hot": 29999,
+        "num": 103139,
+        "word": "官方介入长江支流变黑水河",
+        "onboard_time": 1762771521,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第十五届全运会开幕式#"
+    }
+  }
+}
