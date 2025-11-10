@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762813609575,
+  "endTime": 1762814592754,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -1971,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219342,
+      "num": 117641,
+      "word": "商家已删除梁朝伟照片",
+      "onboard_time": 1762787842,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219185,
       "num": 179096,
       "word": "男子回应大爷吸烟进电梯被掐灭扔出",
@@ -3097,14 +3105,6 @@
       "onboard_time": 1762755501,
       "rank": 31,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 150343,
-      "num": 117641,
-      "word": "商家已删除梁朝伟照片",
-      "onboard_time": 1762787842,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 150082,
@@ -5843,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80228,
+      "num": 44249,
+      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "onboard_time": 1762803494,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80118,
       "num": 80118,
       "word": "南京一小区多只猫惨遭男子虐杀",
@@ -6683,14 +6691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56811,
-      "num": 35542,
-      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
-      "onboard_time": 1762803494,
-      "rank": 10,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56395,
       "num": 100186,
       "word": "一诺发育路主理人",
@@ -7131,6 +7131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43927,
+      "num": 43927,
+      "word": "王楚钦回应全运会目标",
+      "onboard_time": 1762796536,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43798,
       "num": 947153,
       "word": "十五运今天开幕",
@@ -7355,6 +7363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37254,
+      "num": 31164,
+      "word": "血糖控制不好会让眼睛受伤",
+      "onboard_time": 1762809493,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 37005,
       "num": 334199,
       "word": "大眼音乐节看爽了",
@@ -7435,6 +7451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33685,
+      "num": 33685,
+      "word": "董璇给张维伊发热搜",
+      "onboard_time": 1762798816,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33455,
       "num": 42255,
       "word": "迅猛龙第一次借钱是为了赔违约金",
@@ -7449,14 +7473,6 @@
       "onboard_time": 1762685480,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32782,
-      "num": 33563,
-      "word": "王楚钦回应全运会目标",
-      "onboard_time": 1762796536,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 32623,
@@ -7579,6 +7595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30216,
+      "num": 31089,
+      "word": "井柏然孙千吻戏",
+      "onboard_time": 1762797495,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30102,
       "num": 49954,
       "word": "水龙吟",
@@ -7609,6 +7633,14 @@
       "onboard_time": 1762795875,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29583,
+      "num": 31127,
+      "word": "海岛求生35天暴瘦28斤获7500元",
+      "onboard_time": 1762793117,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29269,
@@ -7691,14 +7723,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 26564,
-      "num": 31127,
-      "word": "海岛求生35天暴瘦28斤获7500元",
-      "onboard_time": 1762793117,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26167,
       "num": 115816,
       "word": "医保卡变购物卡引发关注",
@@ -7715,36 +7739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25392,
-      "num": 25392,
-      "word": "血糖控制不好会让眼睛受伤",
-      "onboard_time": 1762809493,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
       "onboard_time": 1762672399,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24291,
-      "num": 31082,
-      "word": "董璇给张维伊发热搜",
-      "onboard_time": 1762798816,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23819,
-      "num": 31089,
-      "word": "井柏然孙千吻戏",
-      "onboard_time": 1762797495,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 23675,
@@ -7891,6 +7891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15032,
+      "num": 29480,
+      "word": "白鹿奔跑吧路透",
+      "onboard_time": 1762792339,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14710,
       "num": 49908,
       "word": "2025f1圣保罗大奖赛",
@@ -7945,14 +7953,6 @@
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 12702,
-      "num": 19010,
-      "word": "白鹿奔跑吧路透",
-      "onboard_time": 1762792339,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 11630,

@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762813609575,
+  "endTime": 1762814592754,
   "band_list": [
     {
       "raw_hot": 841229,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219342,
+      "num": 117641,
+      "word": "商家已删除梁朝伟照片",
+      "onboard_time": 1762787842,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198611,
       "num": 117166,
       "word": "宝宝产检正常出生后满身兽皮痣",
@@ -88,14 +96,6 @@
       "word": "黄杨钿甜更新动态",
       "onboard_time": 1762782441,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150343,
-      "num": 117641,
-      "word": "商家已删除梁朝伟照片",
-      "onboard_time": 1762787842,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105304,
+      "num": 98710,
+      "word": "王嘉尔被错认成日本人的反应",
+      "onboard_time": 1762786044,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100428,
       "num": 117458,
       "word": "35岁坚持面部刮痧一年的变化",
@@ -217,14 +225,6 @@
       "onboard_time": 1762788741,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88513,
-      "num": 98710,
-      "word": "王嘉尔被错认成日本人的反应",
-      "onboard_time": 1762786044,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 88072,
@@ -259,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80243,
+      "num": 32771,
+      "word": "李连杰状态",
+      "onboard_time": 1762800015,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80228,
+      "num": 44249,
+      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "onboard_time": 1762803494,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79963,
       "num": 98693,
       "word": "内娱来了个影视名妈组合",
@@ -281,14 +297,6 @@
       "onboard_time": 1762786162,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 67984,
-      "num": 28530,
-      "word": "李连杰状态",
-      "onboard_time": 1762800015,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 64942,
@@ -337,14 +345,6 @@
       "onboard_time": 1762779801,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56811,
-      "num": 35542,
-      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
-      "onboard_time": 1762803494,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55680,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43927,
+      "num": 43927,
+      "word": "王楚钦回应全运会目标",
+      "onboard_time": 1762796536,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43225,
       "num": 98294,
       "word": "九尾 别问了一堆假瓜",
@@ -427,19 +435,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37254,
+      "num": 31164,
+      "word": "血糖控制不好会让眼睛受伤",
+      "onboard_time": 1762809493,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33685,
+      "num": 33685,
+      "word": "董璇给张维伊发热搜",
+      "onboard_time": 1762798816,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32915,
       "num": 98671,
       "word": "陈芋汐第2金",
       "onboard_time": 1762784062,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32782,
-      "num": 33563,
-      "word": "王楚钦回应全运会目标",
-      "onboard_time": 1762796536,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -457,6 +473,14 @@
       "onboard_time": 1762795397,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30216,
+      "num": 31089,
+      "word": "井柏然孙千吻戏",
+      "onboard_time": 1762797495,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 30102,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29583,
+      "num": 31127,
+      "word": "海岛求生35天暴瘦28斤获7500元",
+      "onboard_time": 1762793117,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27223,
       "num": 42890,
       "word": "周深风车造型",
@@ -491,44 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26564,
-      "num": 31127,
-      "word": "海岛求生35天暴瘦28斤获7500元",
-      "onboard_time": 1762793117,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25543,
       "num": 31154,
       "word": "耿宝昌逝世",
       "onboard_time": 1762797676,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25392,
-      "num": 25392,
-      "word": "血糖控制不好会让眼睛受伤",
-      "onboard_time": 1762809493,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24291,
-      "num": 31082,
-      "word": "董璇给张维伊发热搜",
-      "onboard_time": 1762798816,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23819,
-      "num": 31089,
-      "word": "井柏然孙千吻戏",
-      "onboard_time": 1762797495,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 18633,
@@ -547,8 +547,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12702,
-      "num": 19010,
+      "raw_hot": 15032,
+      "num": 29480,
       "word": "白鹿奔跑吧路透",
       "onboard_time": 1762792339,
       "rank": 47,
