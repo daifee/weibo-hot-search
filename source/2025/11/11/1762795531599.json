@@ -1,0 +1,410 @@
+{
+  "runTime": 1762795531599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 838139,
+        "num": 838139,
+        "word": "故宫博物院发讣告",
+        "onboard_time": 1762791260,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180447,
+        "num": 180447,
+        "word": "告白 王星越",
+        "onboard_time": 1762788320,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10778,
+        "num": 132400,
+        "word": "十五运见证大湾区融合发展",
+        "onboard_time": 1762779501,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120881,
+        "num": 120881,
+        "word": "何炅金龟子亲爱的小孩你辛苦了",
+        "onboard_time": 1762790300,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97110,
+        "num": 97110,
+        "word": "汉堡王中国也被卖了",
+        "onboard_time": 1762784243,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94710,
+        "num": 94710,
+        "word": "浙江诸暨麻糍奶奶遇车祸去世",
+        "onboard_time": 1762781421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73973,
+        "num": 73973,
+        "word": "陈芋汐完美一跳全红婵起立欢呼",
+        "onboard_time": 1762785202,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54235,
+        "num": 54235,
+        "word": "央美学生被指抄袭还获一等奖学金",
+        "onboard_time": 1762780822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53095,
+        "num": 53095,
+        "word": "王鹤棣孟子义一开口我就想笑",
+        "onboard_time": 1762782802,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42238,
+        "num": 53072,
+        "word": "双十一商品到手价全凭运气",
+        "onboard_time": 1762789520,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231360,
+        "num": 52997,
+        "word": "假唱",
+        "onboard_time": 1762780280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103795,
+        "num": 52899,
+        "word": "男孩矫正基地被虐28天致半残疾",
+        "onboard_time": 1762788261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96797,
+        "num": 52744,
+        "word": "桃黑黑女友自曝不整容的原因",
+        "onboard_time": 1762774101,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82166,
+        "num": 52693,
+        "word": "商家已删除梁朝伟照片",
+        "onboard_time": 1762787842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82029,
+        "num": 52520,
+        "word": "黄杨钿甜更新动态",
+        "onboard_time": 1762782441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53871,
+        "num": 52462,
+        "word": "男子带猪肉记号笔陪产怕孩子抱错",
+        "onboard_time": 1762786821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52415,
+        "num": 52415,
+        "word": "35岁坚持面部刮痧一年的变化",
+        "onboard_time": 1762775539,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 46804,
+        "num": 46804,
+        "word": "普京授勋时别针卡住咧嘴变表情包",
+        "onboard_time": 1762793598,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46069,
+        "num": 46069,
+        "word": "谁去把宋亚轩上嘴唇的亮片摘了",
+        "onboard_time": 1762786341,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45859,
+        "num": 45859,
+        "word": "关晓彤搅半天一口没吃",
+        "onboard_time": 1762771400,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164118,
+        "num": 45649,
+        "word": "沈月发问号后秒删",
+        "onboard_time": 1762783641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109592,
+        "num": 45440,
+        "word": "宝宝产检正常出生后满身兽皮痣",
+        "onboard_time": 1762780702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89605,
+        "num": 45315,
+        "word": "陈妍希感谢谢楠救场婚礼",
+        "onboard_time": 1762778661,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45110,
+        "num": 45110,
+        "word": "日方紧急找补称涉台立场没变",
+        "onboard_time": 1762778001,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80229,
+        "num": 44990,
+        "word": "25岁女孩海岛求生吃了50只老鼠",
+        "onboard_time": 1762788920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65323,
+        "num": 44905,
+        "word": "范丞丞白鹿跳了obsession",
+        "onboard_time": 1762782682,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47062,
+        "num": 44879,
+        "word": "唐诡里居然有边程",
+        "onboard_time": 1762785921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44181,
+        "num": 44181,
+        "word": "周深疼痛转移",
+        "onboard_time": 1762794618,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41696,
+        "num": 41696,
+        "word": "金龟子 毛毛虫",
+        "onboard_time": 1762786402,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19140,
+        "num": 41687,
+        "word": "陈芋汐第2金",
+        "onboard_time": 1762784062,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 41631,
+        "word": "淘宝回应被刘嘉玲喊话侵权",
+        "onboard_time": 1762785622,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60928,
+        "num": 41628,
+        "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
+        "onboard_time": 1762788741,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53816,
+        "num": 41571,
+        "word": "邱淑贞女儿回应",
+        "onboard_time": 1762785081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41565,
+        "num": 41565,
+        "word": "陈芋汐全运会10米台金牌",
+        "onboard_time": 1762778361,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41541,
+        "num": 41541,
+        "word": "窦骁何超莲辟谣婚变后首同框",
+        "onboard_time": 1762779801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41143,
+        "num": 41143,
+        "word": "唐朝诡事录 舞阳",
+        "onboard_time": 1762777281,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38496,
+        "num": 38496,
+        "word": "刘浩存镜头里北京的初冬",
+        "onboard_time": 1762793419,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38417,
+        "num": 38417,
+        "word": "抖音将整治茅台低价销售",
+        "onboard_time": 1762790120,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38287,
+        "num": 38287,
+        "word": "小米SU7改款涨价近1万",
+        "onboard_time": 1762786162,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37103,
+        "num": 37103,
+        "word": "九尾 别问了一堆假瓜",
+        "onboard_time": 1762781842,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36952,
+        "num": 36952,
+        "word": "内娱来了个影视名妈组合",
+        "onboard_time": 1762789400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35639,
+        "num": 36948,
+        "word": "王嘉尔被错认成日本人的反应",
+        "onboard_time": 1762786044,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34300,
+        "num": 36944,
+        "word": "谢娜王鹤棣贴身热舞",
+        "onboard_time": 1762778841,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33899,
+        "num": 36941,
+        "word": "女婴出生3天被爸爸外婆120元卖掉",
+        "onboard_time": 1762767920,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33432,
+        "num": 36938,
+        "word": "小米汽车10月零售销量48654辆",
+        "onboard_time": 1762785503,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33387,
+        "num": 36933,
+        "word": "汪苏泷章若楠合唱牵手了",
+        "onboard_time": 1762781001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32623,
+        "num": 36931,
+        "word": "郭昊宇被追问全红婵在哪",
+        "onboard_time": 1762795157,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31594,
+        "num": 36927,
+        "word": "易烊千玺又帅出新高度了",
+        "onboard_time": 1762783041,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30478,
+        "num": 36922,
+        "word": "时代少年团状态",
+        "onboard_time": 1762783342,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30102,
+        "num": 36918,
+        "word": "水龙吟",
+        "onboard_time": 1762794856,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记琼粤行#"
+    }
+  }
+}
