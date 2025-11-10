@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762753409442,
+  "endTime": 1762756863947,
   "band_list": [
     {
       "raw_hot": 1573022,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1263831,
-      "num": 190100,
+      "num": 191216,
       "word": "霍汶希曝英皇艺人不跳槽真实原因",
       "onboard_time": 1762748182,
       "rank": 15,
@@ -107,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 589679,
+      "num": 192226,
+      "word": "打针时针眼里的肉去哪了",
+      "onboard_time": 1762753581,
+      "rank": 10,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 580213,
       "num": 182224,
       "word": "大量看书后真的能改变人的潜意识",
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424404,
+      "num": 189040,
+      "word": "孙杨最后离开泳池向看台鞠躬",
+      "onboard_time": 1762749802,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393970,
       "num": 393970,
       "word": "奔跑吧",
@@ -219,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 387080,
+      "num": 344646,
+      "word": "英雄联盟2",
+      "onboard_time": 1762750821,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 365282,
       "num": 365282,
       "word": "海魂衫 张晚意马思纯",
@@ -235,12 +259,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 347646,
-      "num": 344646,
-      "word": "英雄联盟2",
-      "onboard_time": 1762750821,
-      "rank": 5,
-      "category": "电竞"
+      "raw_hot": 341459,
+      "num": 341459,
+      "word": "樊振东4比0胜周雨",
+      "onboard_time": 1762752679,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 341028,
@@ -275,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308378,
+      "num": 150820,
+      "word": "长沙地铁内一女生衣服自燃",
+      "onboard_time": 1762754479,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294474,
       "num": 205164,
       "word": "长公主 磨皮",
       "onboard_time": 1762691724,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290590,
+      "num": 180923,
+      "word": "白鹿宋雨琦互换发色",
+      "onboard_time": 1762755440,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 288596,
@@ -409,6 +449,14 @@
       "onboard_time": 1762734320,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222043,
+      "num": 222043,
+      "word": "唐诡3没有一个废镜头",
+      "onboard_time": 1762752502,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 219185,
@@ -563,14 +611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188403,
-      "num": 188403,
-      "word": "唐诡3没有一个废镜头",
-      "onboard_time": 1762752502,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176246,
       "num": 176246,
       "word": "员工上班途中心梗死亡人社局不认工伤",
@@ -619,19 +659,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159840,
-      "num": 159840,
-      "word": "孙杨最后离开泳池向看台鞠躬",
-      "onboard_time": 1762749802,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
       "onboard_time": 1762745480,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159367,
+      "num": 159367,
+      "word": "汪苏泷章若楠难哄售后来了",
+      "onboard_time": 1762756338,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -651,12 +691,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157521,
+      "num": 204096,
+      "word": "孙颖莎4比0胜刘炜珊",
+      "onboard_time": 1762754419,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150662,
+      "num": 148556,
+      "word": "于谦见证Faker鸟巢执念得偿",
+      "onboard_time": 1762755501,
+      "rank": 31,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 149255,
       "num": 149255,
       "word": "海啸已抵达日本本州岛",
       "onboard_time": 1762708037,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149089,
+      "num": 149089,
+      "word": "彭小苒再穿红衣开局捅夫",
+      "onboard_time": 1762756160,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148433,
+      "num": 148433,
+      "word": "周雨输给樊振东后笑了",
+      "onboard_time": 1762755501,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 147740,
@@ -689,6 +761,14 @@
       "onboard_time": 1762745539,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 139316,
+      "num": 139316,
+      "word": "求沈月张凌赫合作 但不是这个沈月",
+      "onboard_time": 1762756641,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 138513,
@@ -755,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127368,
+      "num": 196339,
+      "word": "恋与制作人",
+      "onboard_time": 1762755678,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125183,
       "num": 103498,
       "word": "朱瑶张平收到了耿耿余淮的祝福",
@@ -769,6 +857,14 @@
       "onboard_time": 1762745480,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123759,
+      "num": 195256,
+      "word": "Ning谈T1夺冠",
+      "onboard_time": 1762755979,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 123344,
@@ -811,12 +907,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120946,
+      "num": 148978,
+      "word": "贵州省贵阳市副市长高杨主动投案",
+      "onboard_time": 1762753461,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119200,
       "num": 119200,
       "word": "400万粉丝博主声鸣远扬爆冷淘汰",
       "onboard_time": 1762702341,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118489,
+      "num": 148746,
+      "word": "樊振东回应4比0周雨",
+      "onboard_time": 1762755678,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 117365,
@@ -923,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106317,
+      "num": 106317,
+      "word": "大湾鸡也不想加班",
+      "onboard_time": 1762756160,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "大爷吸烟进电梯被小伙掐灭扔出去",
@@ -937,6 +1057,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103656,
+      "num": 148873,
+      "word": "双十一听劝式购物",
+      "onboard_time": 1762754720,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 103129,
@@ -985,6 +1113,14 @@
       "onboard_time": 1762698922,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99676,
+      "num": 99676,
+      "word": "鹿晗恐怖芒果头",
+      "onboard_time": 1762755259,
+      "rank": 39,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 98172,
@@ -1043,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93251,
-      "num": 190411,
-      "word": "樊振东4比0胜周雨",
-      "onboard_time": 1762752679,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 93553,
+      "num": 93553,
+      "word": "TOP登陆少年F4爆改F5",
+      "onboard_time": 1762756699,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 93056,
@@ -1065,6 +1201,14 @@
       "onboard_time": 1762731500,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92399,
+      "num": 92399,
+      "word": "血糖控制不好有多可怕",
+      "onboard_time": 1762754300,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92323,
@@ -1147,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88029,
+      "num": 88029,
+      "word": "高杨4比1陈垣宇",
+      "onboard_time": 1762756160,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87871,
       "num": 87871,
       "word": "马龙全运会目标填补生涯唯一空缺",
@@ -1163,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85610,
+      "num": 85610,
+      "word": "猴哥说车前妻一家怒斥小三",
+      "onboard_time": 1762756819,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 84541,
       "num": 117420,
       "word": "中国渔船倾覆9人失踪",
       "onboard_time": 1762739358,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84510,
+      "num": 84510,
+      "word": "人的一生主线任务只有一个",
+      "onboard_time": 1762756760,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 83537,
@@ -1227,12 +1395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80353,
+      "num": 80353,
+      "word": "张予曦终于要补全浪姐的遗憾了",
+      "onboard_time": 1762753639,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80118,
       "num": 80118,
       "word": "南京一小区多只猫惨遭男子虐杀",
       "onboard_time": 1762737440,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79853,
+      "num": 79853,
+      "word": "李荣浩现在去申请加场",
+      "onboard_time": 1762753700,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 79277,
@@ -1435,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62501,
+      "num": 99665,
+      "word": "艺术体操王子露夺冠",
+      "onboard_time": 1762756819,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62325,
       "num": 78852,
       "word": "全运会入场排序身份证前两位",
@@ -1507,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56395,
+      "num": 100186,
+      "word": "一诺发育路主理人",
+      "onboard_time": 1762755979,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55783,
       "num": 55783,
       "word": "被羞羞答答的刘宇宁钓到了",
@@ -1553,6 +1753,14 @@
       "onboard_time": 1762731319,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48264,
+      "num": 159174,
+      "word": "渔船沉没8人失联现场救援画面曝光",
+      "onboard_time": 1762755620,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47526,
