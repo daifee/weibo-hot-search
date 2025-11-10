@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762731454846,
+  "endTime": 1762740192342,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1131,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 822265,
+      "num": 117005,
+      "word": "陈赫庆生照差点没看见鹿晗",
+      "onboard_time": 1762736060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820934,
       "num": 820934,
       "word": "康熙不可能是洪承畴的儿子",
@@ -1731,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665164,
+      "num": 121035,
+      "word": "台湾高度关注央视起底沈伯洋",
+      "onboard_time": 1762735760,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 664490,
       "num": 210360,
       "word": "左边已经是美女 娜扎美成神仙了",
@@ -2235,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569968,
+      "num": 120810,
+      "word": "刘昊然卸下了余淮的名字",
+      "onboard_time": 1762736300,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569441,
       "num": 271923,
       "word": "杨紫张一山友情",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1762697542,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 516111,
+      "num": 1082577,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 515887,
@@ -3265,6 +3297,14 @@
       "onboard_time": 1762439843,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 452498,
+      "num": 119989,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762126399,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 451981,
@@ -3961,6 +4001,14 @@
       "onboard_time": 1762524141,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388196,
+      "num": 118581,
+      "word": "谭松韵刘昊然最好的我们售后",
+      "onboard_time": 1762732759,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 388092,
@@ -5203,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306557,
+      "num": 503703,
+      "word": "将门毒后",
+      "onboard_time": 1761920664,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306519,
       "num": 173791,
       "word": "鹿晗让陈赫少吃点小龙虾吧",
@@ -6179,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260208,
+      "num": 118676,
+      "word": "白百何方发文说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260108,
       "num": 207720,
       "word": "王格格 张凌赫是我见过最帅的男人",
@@ -6321,14 +6385,6 @@
       "onboard_time": 1762432761,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254260,
-      "num": 254260,
-      "word": "刘德华提前解冻",
-      "onboard_time": 1762727418,
-      "rank": 43,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 253796,
@@ -6571,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241886,
+      "num": 153771,
+      "word": "Faker说这一冠不为任何人",
+      "onboard_time": 1762734380,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241831,
       "num": 241831,
       "word": "中国渔船公海倾覆画面曝光",
@@ -6697,14 +6761,6 @@
       "onboard_time": 1762595842,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238965,
-      "num": 503703,
-      "word": "将门毒后",
-      "onboard_time": 1761920664,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 238280,
@@ -7177,6 +7233,14 @@
       "onboard_time": 1761953657,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 222106,
+      "num": 117726,
+      "word": "沈梦辰怎么端庄成这样",
+      "onboard_time": 1762734320,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 222044,
@@ -8299,6 +8363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198448,
+      "num": 198448,
+      "word": "杨旭文三刀流拍了10天",
+      "onboard_time": 1762736000,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198428,
       "num": 167729,
       "word": "这小马一看就是才参加工作",
@@ -9307,6 +9379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184024,
+      "num": 116098,
+      "word": "武大土木高材生转行做游戏轻松夺金奖",
+      "onboard_time": 1762739838,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183896,
       "num": 183896,
       "word": "杨超越 红与黑",
@@ -9865,6 +9945,14 @@
       "onboard_time": 1762140440,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175401,
+      "num": 115390,
+      "word": "辛芷蕾现在车马很快不需要写信",
+      "onboard_time": 1762738639,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 175395,
@@ -14043,14 +14131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133369,
-      "num": 91074,
-      "word": "白百何方发文说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133314,
       "num": 112166,
       "word": "日本是一个橱窗国家",
@@ -15659,6 +15739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123031,
+      "num": 123031,
+      "word": "蔡徐坤浴袍舞台",
+      "onboard_time": 1762739058,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123008,
       "num": 276179,
       "word": "久酷采访",
@@ -16585,14 +16673,6 @@
       "onboard_time": 1762229600,
       "rank": 41,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 117566,
-      "num": 117566,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1762126399,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 117514,
@@ -18219,6 +18299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108361,
+      "num": 108361,
+      "word": "苹果煮水改善气色养护皮肤",
+      "onboard_time": 1762731439,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108316,
       "num": 103096,
       "word": "黄景瑜 人怎么能聪明成胡先煦这样",
@@ -18273,6 +18361,14 @@
       "onboard_time": 1762669700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108033,
+      "num": 108033,
+      "word": "宋雨琦 回来关水",
+      "onboard_time": 1762737800,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 107996,
@@ -22187,6 +22283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92577,
+      "num": 92577,
+      "word": "双胞胎的这碗水太难端平了",
+      "onboard_time": 1762731500,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92552,
       "num": 92552,
       "word": "淡淡的就顺顺的",
@@ -24563,6 +24667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 84541,
+      "num": 117420,
+      "word": "中国渔船倾覆9人失踪",
+      "onboard_time": 1762739358,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84521,
       "num": 99480,
       "word": "第一视角感受北马",
@@ -25499,6 +25611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80118,
+      "num": 80118,
+      "word": "南京一小区多只猫惨遭男子虐杀",
+      "onboard_time": 1762737440,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80117,
       "num": 80117,
       "word": "看出来杨幂真冷到了",
@@ -26321,6 +26441,14 @@
       "onboard_time": 1762593380,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76208,
+      "num": 108111,
+      "word": "单依纯晒全运会工作照",
+      "onboard_time": 1762735460,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 76141,
@@ -27291,6 +27419,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 70262,
+      "num": 121738,
+      "word": "韩国群山近海一中国渔船倾覆",
+      "onboard_time": 1762738938,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70193,
       "num": 79713,
       "word": "道奇卫冕",
@@ -27427,6 +27563,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 69350,
+      "num": 69350,
+      "word": "这不是刻进我DNA的暗号吗",
+      "onboard_time": 1762739658,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69233,
       "num": 71185,
       "word": "龚俊打戏",
@@ -27457,6 +27601,14 @@
       "onboard_time": 1762647438,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69066,
+      "num": 69066,
+      "word": "Doran和Faker共同捧杯",
+      "onboard_time": 1762738819,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 68962,
@@ -27665,6 +27817,14 @@
       "onboard_time": 1762048099,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67147,
+      "num": 108043,
+      "word": "邓紫棋回应S15决赛唯一中国人",
+      "onboard_time": 1762732038,
+      "rank": 29,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 67041,
@@ -27891,12 +28051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65598,
+      "num": 65598,
+      "word": "菲律宾全国超百万人撤离",
+      "onboard_time": 1762739539,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65401,
       "num": 65401,
       "word": "黄星见面会",
       "onboard_time": 1762050259,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65397,
+      "num": 65397,
+      "word": "美一天超7000架次航班延误",
+      "onboard_time": 1762739301,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65167,
@@ -27953,6 +28129,14 @@
       "onboard_time": 1762170921,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64914,
+      "num": 64914,
+      "word": "keria赛后发博",
+      "onboard_time": 1762737140,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 64845,
@@ -28097,6 +28281,14 @@
       "onboard_time": 1762658181,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63591,
+      "num": 63591,
+      "word": "59岁男子把有毒垂序商陆当人参吃",
+      "onboard_time": 1762738159,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63513,
@@ -28299,6 +28491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61792,
+      "num": 61792,
+      "word": "这一刻广东没有主客场",
+      "onboard_time": 1762740080,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61786,
       "num": 95004,
       "word": "吴宣仪提醒路人拉链没拉",
@@ -28329,6 +28529,14 @@
       "onboard_time": 1762236862,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61530,
+      "num": 61530,
+      "word": "意识到其实大部分时间生活在公司",
+      "onboard_time": 1762737500,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 61461,
@@ -28393,6 +28601,14 @@
       "onboard_time": 1762656679,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61095,
+      "num": 84344,
+      "word": "那英被选手唱到振臂高呼",
+      "onboard_time": 1762737500,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 61070,
@@ -29683,6 +29899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48410,
+      "num": 237488,
+      "word": "为吸粉引流直播谩骂三人被行拘",
+      "onboard_time": 1762735100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48398,
       "num": 95138,
       "word": "全运会乒乓球场馆9张球台",
@@ -30889,14 +31113,6 @@
       "onboard_time": 1762707379,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35680,
-      "num": 45049,
-      "word": "苹果煮水改善气色养护皮肤",
-      "onboard_time": 1762731439,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35632,

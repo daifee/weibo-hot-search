@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762731454846,
+  "endTime": 1762740192342,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 822265,
+      "num": 117005,
+      "word": "陈赫庆生照差点没看见鹿晗",
+      "onboard_time": 1762736060,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 811661,
       "num": 329790,
       "word": "澳大利亚偶遇何超莲窦骁",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665164,
+      "num": 121035,
+      "word": "台湾高度关注央视起底沈伯洋",
+      "onboard_time": 1762735760,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 663504,
       "num": 176571,
       "word": "王源回复王俊凯易烊千玺祝福",
@@ -321,6 +337,14 @@
       "onboard_time": 1762694842,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 569968,
+      "num": 120810,
+      "word": "刘昊然卸下了余淮的名字",
+      "onboard_time": 1762736300,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 567954,
@@ -395,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 516111,
+      "num": 1082577,
+      "word": "刘德华提前解冻",
+      "onboard_time": 1762727418,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 491595,
       "num": 182821,
       "word": "那英卡地亚晚宴",
@@ -433,6 +465,14 @@
       "onboard_time": 1762663099,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452498,
+      "num": 119989,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1762736179,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 451981,
@@ -521,6 +561,14 @@
       "onboard_time": 1762649480,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 388196,
+      "num": 118581,
+      "word": "谭松韵刘昊然最好的我们售后",
+      "onboard_time": 1762732759,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 386881,
@@ -721,6 +769,14 @@
       "onboard_time": 1762649060,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306557,
+      "num": 119195,
+      "word": "将门毒后",
+      "onboard_time": 1762738700,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 306519,
@@ -931,20 +987,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260208,
+      "num": 118676,
+      "word": "白百何方发文说体面收场为好",
+      "onboard_time": 1762704681,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260023,
       "num": 260023,
       "word": "宙斯祝贺T1",
       "onboard_time": 1762692862,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 254260,
-      "num": 254260,
-      "word": "刘德华提前解冻",
-      "onboard_time": 1762727418,
-      "rank": 43,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 253796,
@@ -993,6 +1049,14 @@
       "onboard_time": 1762675580,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241886,
+      "num": 153771,
+      "word": "Faker说这一冠不为任何人",
+      "onboard_time": 1762734380,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 241831,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1762687222,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222106,
+      "num": 117726,
+      "word": "沈梦辰怎么端庄成这样",
+      "onboard_time": 1762734320,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 220908,
@@ -1251,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198448,
+      "num": 198448,
+      "word": "杨旭文三刀流拍了10天",
+      "onboard_time": 1762736000,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -1355,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184024,
+      "num": 116098,
+      "word": "武大土木高材生转行做游戏轻松夺金奖",
+      "onboard_time": 1762739838,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183783,
       "num": 183783,
       "word": "天地剑心 爱人的血让白衣变嫁衣",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1762664781,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175401,
+      "num": 115390,
+      "word": "辛芷蕾现在车马很快不需要写信",
+      "onboard_time": 1762738639,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 175395,
@@ -1979,14 +2075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133369,
-      "num": 91074,
-      "word": "白百何方发文说体面收场为好",
-      "onboard_time": 1762704681,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132918,
       "num": 142578,
       "word": "唐诡出战报速度都跟不上热度了",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1762697782,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123031,
+      "num": 123031,
+      "word": "蔡徐坤浴袍舞台",
+      "onboard_time": 1762739058,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 122921,
@@ -2363,12 +2459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108361,
+      "num": 108361,
+      "word": "苹果煮水改善气色养护皮肤",
+      "onboard_time": 1762731439,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108110,
       "num": 141340,
       "word": "黄明昊特别主演剑来",
       "onboard_time": 1762669700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108033,
+      "num": 108033,
+      "word": "宋雨琦 回来关水",
+      "onboard_time": 1762737800,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 107120,
@@ -2763,6 +2875,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 92577,
+      "num": 92577,
+      "word": "双胞胎的这碗水太难端平了",
+      "onboard_time": 1762731500,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92477,
       "num": 112621,
       "word": "成毅王权富贵微博指数破8000万",
@@ -3099,6 +3219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84541,
+      "num": 117420,
+      "word": "中国渔船倾覆9人失踪",
+      "onboard_time": 1762739358,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84321,
       "num": 84321,
       "word": "T1对阵海报",
@@ -3161,6 +3289,14 @@
       "onboard_time": 1762652600,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80118,
+      "num": 80118,
+      "word": "南京一小区多只猫惨遭男子虐杀",
+      "onboard_time": 1762737440,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79703,
@@ -3249,6 +3385,14 @@
       "onboard_time": 1762672820,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76208,
+      "num": 108111,
+      "word": "单依纯晒全运会工作照",
+      "onboard_time": 1762735460,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 76125,
@@ -3395,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70262,
+      "num": 121738,
+      "word": "韩国群山近海一中国渔船倾覆",
+      "onboard_time": 1762738938,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69960,
       "num": 154097,
       "word": "超强台风凤凰预计还会增强",
@@ -3403,12 +3555,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 69350,
+      "num": 69350,
+      "word": "这不是刻进我DNA的暗号吗",
+      "onboard_time": 1762739658,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69115,
       "num": 69115,
       "word": "祝绪丹别睡我手机里",
       "onboard_time": 1762647438,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69066,
+      "num": 69066,
+      "word": "Doran和Faker共同捧杯",
+      "onboard_time": 1762738819,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 68962,
@@ -3443,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67147,
+      "num": 108043,
+      "word": "邓紫棋回应S15决赛唯一中国人",
+      "onboard_time": 1762732038,
+      "rank": 29,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 66225,
       "num": 94119,
       "word": "全运会开幕式运动员们来了",
@@ -3451,12 +3627,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65598,
+      "num": 65598,
+      "word": "菲律宾全国超百万人撤离",
+      "onboard_time": 1762739539,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65397,
+      "num": 65397,
+      "word": "美一天超7000架次航班延误",
+      "onboard_time": 1762739301,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65167,
       "num": 110321,
       "word": "力箭一号遥九运载火箭发射成功",
       "onboard_time": 1762669822,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64914,
+      "num": 64914,
+      "word": "keria赛后发博",
+      "onboard_time": 1762737140,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 64680,
@@ -3491,6 +3691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63591,
+      "num": 63591,
+      "word": "59岁男子把有毒垂序商陆当人参吃",
+      "onboard_time": 1762738159,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63121,
       "num": 78859,
       "word": "美声版技能五子棋",
@@ -3523,6 +3731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61792,
+      "num": 61792,
+      "word": "这一刻广东没有主客场",
+      "onboard_time": 1762740080,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61530,
+      "num": 61530,
+      "word": "意识到其实大部分时间生活在公司",
+      "onboard_time": 1762737500,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61450,
       "num": 89138,
       "word": "航母命名库",
@@ -3537,6 +3761,14 @@
       "onboard_time": 1762656679,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61095,
+      "num": 84344,
+      "word": "那英被选手唱到振臂高呼",
+      "onboard_time": 1762737500,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 60710,
@@ -3785,6 +4017,14 @@
       "onboard_time": 1762678639,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48410,
+      "num": 237488,
+      "word": "为吸粉引流直播谩骂三人被行拘",
+      "onboard_time": 1762735100,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48195,
@@ -4105,14 +4345,6 @@
       "onboard_time": 1762707379,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35680,
-      "num": 45049,
-      "word": "苹果煮水改善气色养护皮肤",
-      "onboard_time": 1762731439,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35582,
