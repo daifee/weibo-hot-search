@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762773846564,
+  "endTime": 1762774778441,
   "band_list": [
     {
       "raw_hot": 2146340,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 580841,
-      "num": 140280,
+      "num": 163385,
       "word": "关晓彤搅半天一口没吃",
       "onboard_time": 1762771400,
       "rank": 38,
@@ -249,6 +249,14 @@
       "onboard_time": 1762759761,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488933,
+      "num": 1078229,
+      "word": "罗云熙林允杀死了剧宣比赛",
+      "onboard_time": 1762770921,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 461960,
@@ -347,6 +355,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 407348,
+      "num": 407348,
+      "word": "台风",
+      "onboard_time": 1762772240,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 394991,
+      "num": 378702,
+      "word": "许我耀眼集均6328万",
+      "onboard_time": 1762768700,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393970,
       "num": 393970,
       "word": "奔跑吧",
@@ -387,16 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378702,
-      "num": 378702,
-      "word": "许我耀眼集均6328万",
-      "onboard_time": 1762768700,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371856,
-      "num": 142068,
+      "num": 349894,
       "word": "朱孝天方回应F4变F3",
       "onboard_time": 1762771099,
       "rank": 33,
@@ -472,6 +488,14 @@
       "word": "白鹿宋雨琦互换发色",
       "onboard_time": 1762755440,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327449,
+      "num": 161412,
+      "word": "董璇回应婚礼餐标",
+      "onboard_time": 1762773501,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -659,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233886,
+      "num": 233886,
+      "word": "捐款造航母男生获赠福建舰手表",
+      "onboard_time": 1762771940,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231525,
       "num": 231525,
       "word": "白菜免费摘谁在造谣谁在传谣",
@@ -681,14 +713,6 @@
       "onboard_time": 1762763000,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224212,
-      "num": 224212,
-      "word": "罗云熙林允杀死了剧宣比赛",
-      "onboard_time": 1762770921,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 222106,
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204789,
+      "num": 179571,
+      "word": "何瑞贤收拾收拾准备升咖",
+      "onboard_time": 1762773680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203536,
       "num": 203536,
       "word": "排骨羽绒服",
@@ -907,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185491,
-      "num": 185491,
-      "word": "捐款造航母男生获赠福建舰手表",
-      "onboard_time": 1762771940,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183032,
       "num": 178740,
       "word": "时代峰峻 双十一活动",
@@ -963,12 +987,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171147,
-      "num": 171147,
-      "word": "台风",
-      "onboard_time": 1762772240,
-      "rank": 7,
-      "category": "突发/灾害"
+      "raw_hot": 172469,
+      "num": 160391,
+      "word": "原来很多人一直都用错纸了",
+      "onboard_time": 1762772901,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 165987,
@@ -995,20 +1019,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161480,
-      "num": 136817,
-      "word": "原来很多人一直都用错纸了",
-      "onboard_time": 1762772901,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160353,
       "num": 160353,
       "word": "郭宇欣回应粉丝让少接吻戏",
       "onboard_time": 1762748301,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160203,
+      "num": 160203,
+      "word": "梅西晒照重返诺坎普",
+      "onboard_time": 1762773441,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 159684,
@@ -1059,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153736,
+      "num": 153736,
+      "word": "巩俐郭晶晶合照",
+      "onboard_time": 1762770681,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150662,
       "num": 148556,
       "word": "于谦见证Faker鸟巢执念得偿",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 145541,
-      "num": 145541,
+      "num": 159263,
       "word": "唐朝诡事录 写给成年人的童话",
       "onboard_time": 1762773141,
       "rank": 8,
@@ -1123,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144786,
+      "num": 144786,
+      "word": "咖啡上撒蟑螂1杯40元",
+      "onboard_time": 1762773319,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144780,
       "num": 144780,
       "word": "胖多囊vs瘦多囊",
@@ -1131,20 +1171,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144106,
-      "num": 137878,
-      "word": "梅西晒照重返诺坎普",
-      "onboard_time": 1762773441,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "新人结婚当天在婚车上睡着了",
       "onboard_time": 1762749980,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143046,
+      "num": 143046,
+      "word": "桃黑黑女友自曝不整容的原因",
+      "onboard_time": 1762774101,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 142484,
@@ -1243,14 +1283,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 132886,
-      "num": 132886,
-      "word": "董璇回应婚礼餐标",
-      "onboard_time": 1762773501,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132830,
       "num": 168416,
       "word": "喜人奇妙夜喜剧之神降临",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1762743858,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130693,
-      "num": 130693,
-      "word": "巩俐郭晶晶合照",
-      "onboard_time": 1762770681,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 129502,
@@ -1363,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123999,
+      "num": 123999,
+      "word": "张若昀拍完你的再拍你的",
+      "onboard_time": 1762774160,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123965,
       "num": 231824,
       "word": "主播女孩重度依赖动画化",
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 119261,
-      "num": 140125,
+      "num": 163113,
       "word": "淘宝抽奖",
       "onboard_time": 1762772421,
       "rank": 14,
@@ -1603,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110156,
+      "num": 164339,
+      "word": "张展硕全运会400自金牌",
+      "onboard_time": 1762773799,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109459,
       "num": 144667,
       "word": "电子骑士去世",
@@ -1683,14 +1723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106738,
-      "num": 106738,
-      "word": "何瑞贤收拾收拾准备升咖",
-      "onboard_time": 1762773680,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106317,
       "num": 161439,
       "word": "大湾鸡也不想加班",
@@ -1723,12 +1755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105100,
-      "num": 115578,
-      "word": "咖啡上撒蟑螂1杯40元",
-      "onboard_time": 1762773319,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 104380,
+      "num": 104380,
+      "word": "疯狂好六夜",
+      "onboard_time": 1762774638,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103959,
@@ -1971,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 97294,
+      "num": 97294,
+      "word": "孙杨第6",
+      "onboard_time": 1762774702,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96888,
       "num": 96888,
       "word": "吴磊男主剧剑来配置",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1762763721,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95762,
+      "num": 95762,
+      "word": "哄自己上班的理由又多了一个",
+      "onboard_time": 1762771760,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 95496,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1762742901,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 90170,
+      "num": 161689,
+      "word": "潘展乐全运会400自第五",
+      "onboard_time": 1762773919,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 89979,
@@ -2225,6 +2281,14 @@
       "onboard_time": 1762701383,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81893,
+      "num": 114277,
+      "word": "日本熊肉检测出放射性超标",
+      "onboard_time": 1762774520,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81804,
@@ -2441,6 +2505,14 @@
       "onboard_time": 1762758979,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 71047,
+      "num": 156825,
+      "word": "尹锡悦因涉嫌诱朝鲜进攻被追加起诉",
+      "onboard_time": 1762772421,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70232,
@@ -2667,14 +2739,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58422,
-      "num": 138486,
-      "word": "尹锡悦因涉嫌诱朝鲜进攻被追加起诉",
-      "onboard_time": 1762772421,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56918,
       "num": 140383,
       "word": "陈幸同4比1马小惠",
@@ -2755,12 +2819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48756,
-      "num": 110988,
-      "word": "张展硕全运会400自金牌",
-      "onboard_time": 1762773799,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 47965,
+      "num": 119077,
+      "word": "泽连斯基称全世界都怕特朗普我不怕",
+      "onboard_time": 1762773560,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47526,
@@ -2780,7 +2844,7 @@
     },
     {
       "raw_hot": 46909,
-      "num": 139095,
+      "num": 162364,
       "word": "今年最值得换新的几样东西",
       "onboard_time": 1762772719,
       "rank": 19,
@@ -2924,7 +2988,7 @@
     },
     {
       "raw_hot": 35044,
-      "num": 311111,
+      "num": 363239,
       "word": "十五运会新华社出图",
       "onboard_time": 1762761621,
       "rank": 2,
@@ -2963,14 +3027,6 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 30600,
-      "num": 119077,
-      "word": "泽连斯基称全世界都怕特朗普我不怕",
-      "onboard_time": 1762773560,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30395,
       "num": 30205,
       "word": "非洲十二少",
@@ -3004,7 +3060,7 @@
     },
     {
       "raw_hot": 28174,
-      "num": 139471,
+      "num": 162095,
       "word": "登陆少年青春故事大揭秘",
       "onboard_time": 1762773020,
       "rank": 17,
