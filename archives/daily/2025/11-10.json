@@ -1,6 +1,6 @@
 {
   "startTime": 1762705767332,
-  "endTime": 1762763815190,
+  "endTime": 1762764618340,
   "band_list": [
     {
       "raw_hot": 1986624,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1038708,
-      "num": 204080,
+      "num": 208424,
       "word": "迪丽热巴身体状况",
       "onboard_time": 1762748840,
       "rank": 24,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 691778,
+      "num": 218585,
+      "word": "将门毒后 鹤男",
+      "onboard_time": 1762761019,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 674670,
+      "num": 218120,
+      "word": "女儿养了3个月出院记录显示是男婴",
+      "onboard_time": 1762762160,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 665164,
       "num": 1105697,
       "word": "台湾高度关注央视起底沈伯洋",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 653238,
-      "num": 207864,
+      "num": 208694,
       "word": "求沈月张凌赫合作 但不是这个沈月",
       "onboard_time": 1762756641,
       "rank": 34,
@@ -121,14 +137,6 @@
       "onboard_time": 1762747040,
       "rank": 0,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 602304,
-      "num": 218585,
-      "word": "将门毒后 鹤男",
-      "onboard_time": 1762761019,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 590582,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474286,
+      "num": 1075885,
+      "word": "中方回应高市早苗暗示武力介入台海",
+      "onboard_time": 1762763239,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 461960,
       "num": 176125,
       "word": "本周做什么都顺的星座",
@@ -209,14 +225,6 @@
       "onboard_time": 1762700781,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448410,
-      "num": 218120,
-      "word": "女儿养了3个月出院记录显示是男婴",
-      "onboard_time": 1762762160,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 442700,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 432801,
-      "num": 206963,
+      "num": 208532,
       "word": "猴哥说车前妻一家怒斥小三",
       "onboard_time": 1762756819,
       "rank": 45,
@@ -267,7 +275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399657,
+      "raw_hot": 414250,
       "num": 216133,
       "word": "江浙沪父母真的太会托举孩子了",
       "onboard_time": 1762760299,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 380192,
-      "num": 205678,
+      "num": 208469,
       "word": "陈妍希谈怀孕妊娠纹",
       "onboard_time": 1762757780,
       "rank": 26,
@@ -321,6 +329,14 @@
       "onboard_time": 1762749802,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359496,
+      "num": 197455,
+      "word": "Faker发博晒经典夺冠表情",
+      "onboard_time": 1762762699,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 353614,
@@ -393,6 +409,14 @@
       "onboard_time": 1762704439,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309623,
+      "num": 208826,
+      "word": "张予曦 蜘蛛精卖袜子",
+      "onboard_time": 1762762762,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 294474,
@@ -627,20 +651,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210601,
-      "num": 196182,
-      "word": "Faker发博晒经典夺冠表情",
-      "onboard_time": 1762762699,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 208401,
       "num": 129094,
       "word": "白百何方发说体面收场为好",
       "onboard_time": 1762704681,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208333,
+      "num": 208333,
+      "word": "店铺回应被刘嘉玲喊话侵权",
+      "onboard_time": 1762763421,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 207618,
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203586,
-      "num": 203586,
-      "word": "张予曦 蜘蛛精卖袜子",
-      "onboard_time": 1762762762,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203536,
       "num": 203536,
       "word": "排骨羽绒服",
@@ -707,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198960,
-      "num": 198960,
-      "word": "中方回应高市早苗暗示武力介入台海",
-      "onboard_time": 1762763239,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196107,
       "num": 196107,
       "word": "看舌头判断自己脾胃虚不虚",
@@ -737,6 +745,22 @@
       "onboard_time": 1762744999,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186286,
+      "num": 186286,
+      "word": "时代少年团好六夜红毯",
+      "onboard_time": 1762763899,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177335,
+      "num": 159433,
+      "word": "关晓彤十三姨",
+      "onboard_time": 1762762281,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 176246,
@@ -779,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161148,
+      "num": 161148,
+      "word": "长沙地铁内一女生衣物起火",
+      "onboard_time": 1762754479,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160353,
       "num": 160353,
       "word": "郭宇欣回应粉丝让少接吻戏",
@@ -795,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159433,
-      "num": 159433,
-      "word": "关晓彤十三姨",
-      "onboard_time": 1762762281,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 159285,
+      "num": 230852,
+      "word": "六公主报道杨紫国色芳华研讨会",
+      "onboard_time": 1762762939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 158274,
@@ -825,14 +857,6 @@
       "onboard_time": 1762754419,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157231,
-      "num": 230852,
-      "word": "六公主报道杨紫国色芳华研讨会",
-      "onboard_time": 1762762939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 157171,
@@ -923,12 +947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139896,
+      "num": 139896,
+      "word": "原来感冒真的可以卡bug",
+      "onboard_time": 1762761079,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138513,
       "num": 138513,
       "word": "美总统称将给美国人发2000美元",
       "onboard_time": 1762751420,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138468,
+      "num": 208949,
+      "word": "ale谈Uzi",
+      "onboard_time": 1762764439,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 136891,
@@ -971,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129876,
-      "num": 129876,
-      "word": "店铺回应被刘嘉玲喊话侵权",
-      "onboard_time": 1762763421,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129502,
       "num": 129502,
       "word": "张家辉回应关咏荷被赞状态好",
@@ -1019,11 +1051,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126240,
-      "num": 126240,
-      "word": "长沙地铁内一女生衣物起火",
-      "onboard_time": 1762754479,
-      "rank": 43,
+      "raw_hot": 125889,
+      "num": 211037,
+      "word": "中国首例冷冻人丈夫回应再找女友",
+      "onboard_time": 1762762939,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1067,20 +1099,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122603,
+      "num": 140255,
+      "word": "中方连发三问驳斥日方",
+      "onboard_time": 1762763600,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "LOL第一人Faker也需要重新适应",
       "onboard_time": 1762749980,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121491,
-      "num": 121491,
-      "word": "中方连发三问驳斥日方",
-      "onboard_time": 1762763600,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121445,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1762753461,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120923,
-      "num": 120923,
-      "word": "原来感冒真的可以卡bug",
-      "onboard_time": 1762761079,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 119200,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 101973,
-      "num": 101973,
+      "num": 154371,
       "word": "沈腾把没扶杨幂的都补给了出发团",
       "onboard_time": 1762761739,
       "rank": 48,
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 95471,
-      "num": 152713,
+      "num": 160474,
       "word": "岚图汽车第30万辆整车下线",
       "onboard_time": 1762758440,
       "rank": 22,
@@ -1675,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86353,
+      "num": 210770,
+      "word": "河南新乡门诊医保报销被限额",
+      "onboard_time": 1762763000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85968,
       "num": 85968,
       "word": "新华社出图",
@@ -1688,6 +1720,14 @@
       "word": "中国渔船倾覆9人失踪",
       "onboard_time": 1762739358,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84369,
+      "num": 209037,
+      "word": "俄罗斯观众当场教训亵渎国歌者",
+      "onboard_time": 1762762820,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -1835,14 +1875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76610,
-      "num": 139326,
-      "word": "俄罗斯观众当场教训亵渎国歌者",
-      "onboard_time": 1762762820,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 76208,
       "num": 108111,
       "word": "单依纯晒全运会工作照",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1762758379,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73148,
+      "num": 154843,
+      "word": "唐诡角色上桌",
+      "onboard_time": 1762764020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 73066,
@@ -1908,7 +1948,7 @@
     },
     {
       "raw_hot": 70232,
-      "num": 150136,
+      "num": 157359,
       "word": "京东好便宜",
       "onboard_time": 1762758739,
       "rank": 18,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 61990,
-      "num": 196255,
+      "num": 201143,
       "word": "囤日用品是成年人的安全感",
       "onboard_time": 1762761921,
       "rank": 29,
@@ -2113,14 +2153,6 @@
       "onboard_time": 1762755979,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56025,
-      "num": 210770,
-      "word": "河南新乡门诊医保报销被限额",
-      "onboard_time": 1762763000,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55783,
@@ -2203,12 +2235,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46723,
+      "num": 208541,
+      "word": "中国单方面免签不存在吃亏",
+      "onboard_time": 1762764379,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46113,
+      "num": 202339,
+      "word": "苏菲回应卫生巾上有活虫",
+      "onboard_time": 1762764439,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45028,
+      "num": 157053,
+      "word": "成毅给群演让位置",
+      "onboard_time": 1762764379,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44943,
       "num": 180807,
       "word": "米卡在京东直播说猕猴桃头太冷了",
       "onboard_time": 1762748121,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 44770,
+      "num": 208722,
+      "word": "幼儿园园长贪污千万一审被判11年",
+      "onboard_time": 1762764321,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44356,
+      "num": 144095,
+      "word": "扇耳光大赛受伤中国选手称需手术",
+      "onboard_time": 1762763180,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43425,
@@ -2267,14 +2339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35504,
-      "num": 144095,
-      "word": "扇耳光大赛受伤中国选手称需手术",
-      "onboard_time": 1762763180,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34912,
       "num": 408746,
       "word": "4个关键词解读十五运会点火创意",
@@ -2283,8 +2347,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34214,
-      "num": 231267,
+      "raw_hot": 34473,
+      "num": 259578,
       "word": "十五运会新华社出图",
       "onboard_time": 1762761621,
       "rank": 2,
@@ -2339,20 +2403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23120,
-      "num": 211037,
-      "word": "中国首例冷冻人丈夫回应再找女友",
-      "onboard_time": 1762762939,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
       "onboard_time": 1762717934,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18652,
+      "num": 208620,
+      "word": "中方向欧洲议会提出严正交涉",
+      "onboard_time": 1762764321,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18534,
@@ -2436,6 +2500,9 @@
     },
     {
       "word": "#习近平出席第十五届全运会开幕式#"
+    },
+    {
+      "word": "#跟着习近平感受中华体育精神的力量#"
     }
   ]
 }

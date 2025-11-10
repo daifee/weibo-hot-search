@@ -1,0 +1,410 @@
+{
+  "runTime": 1762764618340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474286,
+        "num": 1075885,
+        "word": "中方回应高市早苗暗示武力介入台海",
+        "onboard_time": 1762763239,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457184,
+        "num": 457184,
+        "word": "芒果辟谣撒贝宁回归大侦探",
+        "onboard_time": 1762759761,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34473,
+        "num": 259578,
+        "word": "十五运会新华社出图",
+        "onboard_time": 1762761621,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209527,
+        "num": 209527,
+        "word": "孙杨最后离开泳池向看台鞠躬",
+        "onboard_time": 1762749802,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159285,
+        "num": 209495,
+        "word": "六公主报道杨紫国色芳华研讨会",
+        "onboard_time": 1762762939,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108493,
+        "num": 209473,
+        "word": "不得要求教师承担上街执勤等任务",
+        "onboard_time": 1762747040,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 128399,
+        "num": 209371,
+        "word": "好六夜红毯",
+        "onboard_time": 1762761320,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103943,
+        "num": 209336,
+        "word": "樊振东4比0胜周雨",
+        "onboard_time": 1762752679,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100615,
+        "num": 209268,
+        "word": "孙颖莎回应全运会开门红",
+        "onboard_time": 1762758019,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91612,
+        "num": 209229,
+        "word": "中国游戏大赛被海外大神卷到了",
+        "onboard_time": 1762763721,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1398985,
+        "num": 209177,
+        "word": "刘嘉玲喊话淘宝欺骗消费者",
+        "onboard_time": 1762757599,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 1116337,
+        "num": 209126,
+        "word": "印度轮奸案受害女子遭代理律师强奸",
+        "onboard_time": 1762759160,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 691778,
+        "num": 209088,
+        "word": "将门毒后 鹤男",
+        "onboard_time": 1762761019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84369,
+        "num": 209037,
+        "word": "俄罗斯观众当场教训亵渎国歌者",
+        "onboard_time": 1762762820,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 674670,
+        "num": 209007,
+        "word": "女儿养了3个月出院记录显示是男婴",
+        "onboard_time": 1762762160,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138468,
+        "num": 208949,
+        "word": "ale谈Uzi",
+        "onboard_time": 1762764439,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 414250,
+        "num": 208902,
+        "word": "江浙沪父母真的太会托举孩子了",
+        "onboard_time": 1762760299,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 309623,
+        "num": 208826,
+        "word": "张予曦 蜘蛛精卖袜子",
+        "onboard_time": 1762762762,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285215,
+        "num": 208779,
+        "word": "丈夫去世曝出17万债务妻子拒还",
+        "onboard_time": 1762757599,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44770,
+        "num": 208722,
+        "word": "幼儿园园长贪污千万一审被判11年",
+        "onboard_time": 1762764321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455574,
+        "num": 208694,
+        "word": "求沈月张凌赫合作 但不是这个沈月",
+        "onboard_time": 1762756641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18652,
+        "num": 208620,
+        "word": "中方向欧洲议会提出严正交涉",
+        "onboard_time": 1762764321,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46723,
+        "num": 208541,
+        "word": "中国单方面免签不存在吃亏",
+        "onboard_time": 1762764379,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362859,
+        "num": 208532,
+        "word": "猴哥说车前妻一家怒斥小三",
+        "onboard_time": 1762756819,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 311134,
+        "num": 208469,
+        "word": "陈妍希谈怀孕妊娠纹",
+        "onboard_time": 1762757780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268438,
+        "num": 208424,
+        "word": "迪丽热巴身体状况",
+        "onboard_time": 1762748840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213075,
+        "num": 208382,
+        "word": "英雄联盟2",
+        "onboard_time": 1762750821,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208333,
+        "num": 208333,
+        "word": "店铺回应被刘嘉玲喊话侵权",
+        "onboard_time": 1762763421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46113,
+        "num": 202339,
+        "word": "苏菲回应卫生巾上有活虫",
+        "onboard_time": 1762764439,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57290,
+        "num": 201143,
+        "word": "囤日用品是成年人的安全感",
+        "onboard_time": 1762761921,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125889,
+        "num": 200974,
+        "word": "中国首例冷冻人丈夫回应再找女友",
+        "onboard_time": 1762762939,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200900,
+        "num": 200900,
+        "word": "出示医保卡买10万购物卡超市报警",
+        "onboard_time": 1762758019,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 359496,
+        "num": 197455,
+        "word": "Faker发博晒经典夺冠表情",
+        "onboard_time": 1762762699,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "时代少年团好六夜红毯",
+        "onboard_time": 1762763899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161148,
+        "num": 161148,
+        "word": "长沙地铁内一女生衣物起火",
+        "onboard_time": 1762754479,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61800,
+        "num": 160474,
+        "word": "岚图汽车第30万辆整车下线",
+        "onboard_time": 1762758440,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86353,
+        "num": 159002,
+        "word": "河南新乡门诊医保报销被限额",
+        "onboard_time": 1762763000,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53354,
+        "num": 157359,
+        "word": "京东好便宜",
+        "onboard_time": 1762758739,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45028,
+        "num": 157053,
+        "word": "成毅给群演让位置",
+        "onboard_time": 1762764379,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73148,
+        "num": 154843,
+        "word": "唐诡角色上桌",
+        "onboard_time": 1762764020,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87437,
+        "num": 154371,
+        "word": "沈腾把没扶杨幂的都补给了出发团",
+        "onboard_time": 1762761739,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86411,
+        "num": 152628,
+        "word": "孟子义当铺主理人",
+        "onboard_time": 1762763120,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152093,
+        "num": 152093,
+        "word": "金价",
+        "onboard_time": 1762743620,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44356,
+        "num": 141690,
+        "word": "扇耳光大赛受伤中国选手称需手术",
+        "onboard_time": 1762763180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177335,
+        "num": 141547,
+        "word": "关晓彤十三姨",
+        "onboard_time": 1762762281,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 140255,
+        "word": "中方连发三问驳斥日方",
+        "onboard_time": 1762763600,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139896,
+        "num": 139896,
+        "word": "原来感冒真的可以卡bug",
+        "onboard_time": 1762761079,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "看舌头判断自己脾胃虚不虚",
+        "onboard_time": 1762762281,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121204,
+        "num": 121204,
+        "word": "汪苏泷章若楠难哄售后来了",
+        "onboard_time": 1762756338,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120489,
+        "num": 120489,
+        "word": "打针时针眼里的肉去哪了",
+        "onboard_time": 1762753581,
+        "rank": 49,
+        "category": "幽默,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着习近平感受中华体育精神的力量#"
+    }
+  }
+}
