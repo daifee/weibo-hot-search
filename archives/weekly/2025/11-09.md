@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/11 03:37:51
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/11 04:31:44
 </p>
 </blockquote>
 <p>
@@ -5727,6 +5727,12 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%9713%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9B%A0%E8%A2%AB%E5%98%B2%E7%AC%91%E8%BF%9E%E5%88%BA%E5%90%8C%E5%AD%A6%E6%95%B0%E5%88%80%23" target="weibo">
+越南13岁男孩因被嘲笑连刺同学数刀（热度：28639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E9%9D%92%E6%98%A5%E6%95%85%E4%BA%8B%E5%A4%A7%E6%8F%AD%E7%A7%98%23" target="weibo">
 登陆少年青春故事大揭秘（热度：28174）
 </a>
@@ -5969,6 +5975,12 @@ oner赛后发博（热度：18534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%90%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%94%B7%E5%AD%90%E7%B3%BB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%23" target="weibo">
 虐杀流浪猫男子系未成年人（热度：10580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%B8%85%E5%8D%8A%E5%9C%BA25%E5%88%86%23" target="weibo">
+原帅半场25分（热度：9858）
 </a>
 </li>
 

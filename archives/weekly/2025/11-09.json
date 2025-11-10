@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762803471710,
+  "endTime": 1762806704657,
   "band_list": [
     {
       "raw_hot": 8192449,
@@ -7619,6 +7619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28639,
+      "num": 18767,
+      "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "onboard_time": 1762803494,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28174,
       "num": 162095,
       "word": "登陆少年青春故事大揭秘",
@@ -7945,6 +7953,14 @@
       "onboard_time": 1762785562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9858,
+      "num": 16043,
+      "word": "原帅半场25分",
+      "onboard_time": 1762806314,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 6688,

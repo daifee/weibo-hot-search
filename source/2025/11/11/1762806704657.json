@@ -1,0 +1,410 @@
+{
+  "runTime": 1762806704657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77225,
+        "num": 77225,
+        "word": "故宫博物院发讣告",
+        "onboard_time": 1762791260,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36344,
+        "num": 36344,
+        "word": "告白 王星越",
+        "onboard_time": 1762788320,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7746,
+        "num": 26954,
+        "word": "十五运见证大湾区融合发展",
+        "onboard_time": 1762779501,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25531,
+        "num": 25531,
+        "word": "浙江诸暨麻糍奶奶遇车祸去世",
+        "onboard_time": 1762781421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24591,
+        "num": 24591,
+        "word": "汉堡王中国也被卖了",
+        "onboard_time": 1762784243,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19369,
+        "num": 19369,
+        "word": "何炅金龟子亲爱的小孩你辛苦了",
+        "onboard_time": 1762790300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19332,
+        "num": 19332,
+        "word": "双十一商品到手价全凭运气",
+        "onboard_time": 1762789520,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18860,
+        "num": 18860,
+        "word": "陈芋汐完美一跳全红婵起立欢呼",
+        "onboard_time": 1762785202,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17688,
+        "num": 18844,
+        "word": "央美学生被指抄袭还获一等奖学金",
+        "onboard_time": 1762780822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12282,
+        "num": 18797,
+        "word": "向鹏爆冷出局",
+        "onboard_time": 1762785684,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28639,
+        "num": 18767,
+        "word": "越南13岁男孩因被嘲笑连刺同学数刀",
+        "onboard_time": 1762803494,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 18757,
+        "word": "商家已删除梁朝伟照片",
+        "onboard_time": 1762787842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24328,
+        "num": 18723,
+        "word": "男孩矫正基地被虐28天致半残疾",
+        "onboard_time": 1762788261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18955,
+        "num": 18666,
+        "word": "假唱",
+        "onboard_time": 1762780280,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12154,
+        "num": 18659,
+        "word": "王鹤棣孟子义一开口我就想笑",
+        "onboard_time": 1762782802,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18633,
+        "num": 18633,
+        "word": "日方紧急找补称涉台立场没变",
+        "onboard_time": 1762778001,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18518,
+        "num": 18518,
+        "word": "桃黑黑女友自曝不整容的原因",
+        "onboard_time": 1762774101,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17869,
+        "num": 17869,
+        "word": "男子带猪肉记号笔陪产怕孩子抱错",
+        "onboard_time": 1762786821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17785,
+        "num": 17785,
+        "word": "黄杨钿甜更新动态",
+        "onboard_time": 1762782441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17352,
+        "num": 17352,
+        "word": "普京授勋时别针卡住咧嘴变表情包",
+        "onboard_time": 1762793598,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33601,
+        "num": 17316,
+        "word": "王嘉尔被错认成日本人的反应",
+        "onboard_time": 1762786044,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33330,
+        "num": 17288,
+        "word": "宝宝产检正常出生后满身兽皮痣",
+        "onboard_time": 1762780702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29575,
+        "num": 17259,
+        "word": "李连杰状态",
+        "onboard_time": 1762800015,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24229,
+        "num": 17193,
+        "word": "沈月发问号后秒删",
+        "onboard_time": 1762783641,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23347,
+        "num": 17156,
+        "word": "25岁女孩海岛求生吃了50只老鼠",
+        "onboard_time": 1762788920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20300,
+        "num": 17102,
+        "word": "耿宝昌逝世",
+        "onboard_time": 1762797676,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20165,
+        "num": 17081,
+        "word": "陈妍希感谢谢楠救场婚礼",
+        "onboard_time": 1762778661,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19539,
+        "num": 17051,
+        "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
+        "onboard_time": 1762788741,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17014,
+        "num": 17014,
+        "word": "关晓彤搅半天一口没吃",
+        "onboard_time": 1762771400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13498,
+        "num": 16279,
+        "word": "王楚钦回应全运会目标",
+        "onboard_time": 1762796536,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28486,
+        "num": 16262,
+        "word": "淘宝回应被刘嘉玲喊话侵权",
+        "onboard_time": 1762785622,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17383,
+        "num": 16237,
+        "word": "海岛求生35天暴瘦28斤获7500元",
+        "onboard_time": 1762793117,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16168,
+        "num": 16168,
+        "word": "邱淑贞女儿回应",
+        "onboard_time": 1762785081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16141,
+        "num": 16141,
+        "word": "窦骁何超莲辟谣婚变后首同框",
+        "onboard_time": 1762779801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14889,
+        "num": 16134,
+        "word": "35岁坚持面部刮痧一年的变化",
+        "onboard_time": 1762775539,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13693,
+        "num": 16130,
+        "word": "女婴出生3天被爸爸外婆120元卖掉",
+        "onboard_time": 1762767920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13555,
+        "num": 16125,
+        "word": "抖音将整治茅台低价销售",
+        "onboard_time": 1762790120,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12496,
+        "num": 16119,
+        "word": "董璇给张维伊发热搜",
+        "onboard_time": 1762798816,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12213,
+        "num": 16113,
+        "word": "井柏然孙千吻戏",
+        "onboard_time": 1762797495,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9452,
+        "num": 16110,
+        "word": "金龟子 毛毛虫",
+        "onboard_time": 1762786402,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11905,
+        "num": 16104,
+        "word": "小米SU7改款涨价近1万",
+        "onboard_time": 1762786162,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11645,
+        "num": 16097,
+        "word": "唐朝诡事录 舞阳",
+        "onboard_time": 1762777281,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11213,
+        "num": 16086,
+        "word": "小米汽车10月零售销量48654辆",
+        "onboard_time": 1762785503,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11007,
+        "num": 16082,
+        "word": "范丞丞白鹿跳了obsession",
+        "onboard_time": 1762782682,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10988,
+        "num": 16075,
+        "word": "汪顺回应没刮胡子",
+        "onboard_time": 1762795875,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10861,
+        "num": 16071,
+        "word": "考古陈都灵南航时期日常",
+        "onboard_time": 1762799715,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10721,
+        "num": 16064,
+        "word": "唐诡里居然有边程",
+        "onboard_time": 1762785921,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10673,
+        "num": 16056,
+        "word": "郭昊宇被追问全红婵在哪",
+        "onboard_time": 1762795157,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10577,
+        "num": 16051,
+        "word": "陈芋汐全运会10米台金牌",
+        "onboard_time": 1762778361,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9858,
+        "num": 16043,
+        "word": "原帅半场25分",
+        "onboard_time": 1762806314,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记琼粤行#"
+    }
+  }
+}
