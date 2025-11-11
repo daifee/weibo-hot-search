@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762861185243,
+  "endTime": 1762865657912,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -131,12 +131,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 730319,
-      "num": 1116851,
+      "raw_hot": 735544,
+      "num": 1117687,
       "word": "金鸡奖提名",
       "onboard_time": 1762857501,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 699398,
+      "num": 185448,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698948,
+      "num": 182127,
+      "word": "baby让小海绵带去了生日礼物",
+      "onboard_time": 1762862302,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 645057,
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412991,
+      "num": 241749,
+      "word": "金鸡奖开幕式",
+      "onboard_time": 1762861821,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392394,
       "num": 210282,
       "word": "再见爱人梁淞害怕四胎考虑结扎",
@@ -345,6 +369,14 @@
       "onboard_time": 1762850542,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 372657,
+      "num": 244580,
+      "word": "金银错 李昀锐",
+      "onboard_time": 1762859781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 372490,
@@ -563,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252082,
+      "num": 241605,
+      "word": "梁靖崑给自己一巴掌",
+      "onboard_time": 1762862302,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247206,
       "num": 247206,
       "word": "井柏然刘雯 商务共享",
@@ -579,20 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244580,
-      "num": 244580,
-      "word": "金银错 李昀锐",
-      "onboard_time": 1762859781,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242184,
       "num": 175481,
       "word": "何润东林姵希结婚9年了",
       "onboard_time": 1762844779,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241568,
+      "num": 241568,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 240097,
@@ -731,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206108,
+      "num": 206108,
+      "word": "于子迪200混夺冠",
+      "onboard_time": 1762865062,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202654,
       "num": 202654,
       "word": "田曦薇不喜欢追求情绪稳定",
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195409,
+      "num": 195409,
+      "word": "唐诡三季了我还是猜不对凶手",
+      "onboard_time": 1762862182,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194226,
       "num": 194226,
       "word": "假如你的室友是个美食博主",
@@ -779,19 +835,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193459,
-      "num": 193459,
-      "word": "差点没认出来这是成龙",
-      "onboard_time": 1762860142,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "郎平红包",
       "onboard_time": 1762836261,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190410,
+      "num": 190410,
+      "word": "于子迪刷新亚洲纪录",
+      "onboard_time": 1762865120,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -891,14 +947,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178275,
-      "num": 178275,
-      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
-      "onboard_time": 1762860742,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175933,
       "num": 169968,
       "word": "老默不得了了大嫂都敢追",
@@ -931,12 +979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169507,
+      "num": 169507,
+      "word": "高会崩了",
+      "onboard_time": 1762863621,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166854,
       "num": 166854,
       "word": "岳雨婷cp",
       "onboard_time": 1762826600,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166555,
+      "num": 124435,
+      "word": "樊振东12日赛程预告",
+      "onboard_time": 1762865120,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 163572,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1762836081,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140551,
+      "num": 241687,
+      "word": "广东vs辽宁",
+      "onboard_time": 1762863561,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 140221,
@@ -1403,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128527,
+      "num": 128527,
+      "word": "杨幂 我和我担是同担",
+      "onboard_time": 1762865182,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128383,
       "num": 132418,
       "word": "第一次见重生后不复仇只搞钱的",
@@ -1547,6 +1627,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124412,
+      "num": 241674,
+      "word": "赵继伟受伤",
+      "onboard_time": 1762863681,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123300,
+      "num": 123300,
+      "word": "日本小学午餐",
+      "onboard_time": 1762860021,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122993,
       "num": 122993,
       "word": "小猫被法院开庭审理",
@@ -1603,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119018,
+      "num": 119018,
+      "word": "13岁于子迪全运会首金",
+      "onboard_time": 1762865540,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117947,
       "num": 117947,
       "word": "大湾鸡把自己给摇断电了",
@@ -1641,6 +1745,14 @@
       "onboard_time": 1762845499,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 116250,
+      "num": 116250,
+      "word": "100多株百岁古树连成一片太壮观",
+      "onboard_time": 1762864581,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115772,
@@ -1729,14 +1841,6 @@
       "onboard_time": 1762841839,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110697,
-      "num": 115660,
-      "word": "日本小学午餐",
-      "onboard_time": 1762860021,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110222,
@@ -1891,6 +1995,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105384,
+      "num": 105384,
+      "word": "李纯马頔婚后首同框",
+      "onboard_time": 1762864761,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105304,
+      "num": 124463,
+      "word": "免费摘白菜事件已成立调查组",
+      "onboard_time": 1762863982,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 104099,
       "num": 104099,
       "word": "韩雨彤红包",
@@ -1923,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102671,
+      "num": 102671,
+      "word": "十五运乒乓男单16强出炉",
+      "onboard_time": 1762862841,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102096,
       "num": 102096,
       "word": "王曼昱回应险胜范思琦",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1762834401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101492,
+      "num": 101492,
+      "word": "女孩被虐亡案生父为继母哭泣求情",
+      "onboard_time": 1762862780,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100936,
@@ -2097,6 +2233,14 @@
       "onboard_time": 1762830500,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95473,
+      "num": 116555,
+      "word": "中方回应欧盟研究移除华为中兴设备",
+      "onboard_time": 1762863561,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95056,
@@ -2275,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89754,
+      "num": 89754,
+      "word": "时代少年团如何巧妙地化解尴尬",
+      "onboard_time": 1762865421,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89581,
       "num": 92825,
       "word": "开拓者vs魔术",
@@ -2355,6 +2507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "你是长大了吗好可怕",
+      "onboard_time": 1762864223,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87451,
       "num": 107197,
       "word": "张峻豪回应录节目接不上话",
@@ -2417,6 +2577,14 @@
       "onboard_time": 1762853540,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85527,
+      "num": 85527,
+      "word": "全运会地表最强乒乓球比赛",
+      "onboard_time": 1762864701,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84540,
@@ -2707,6 +2875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70235,
+      "num": 116312,
+      "word": "最后一波囤衣服该安排上了",
+      "onboard_time": 1762863861,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69883,
       "num": 85609,
       "word": "大湾鸡 不愧是广美",
@@ -2753,6 +2929,22 @@
       "onboard_time": 1762857562,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67019,
+      "num": 116390,
+      "word": "实测十余家银行大额取款有多少门槛",
+      "onboard_time": 1762863801,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66605,
+      "num": 180587,
+      "word": "错过这波红包雨要再等一年",
+      "onboard_time": 1762863861,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 66466,
@@ -2883,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58477,
+      "num": 190003,
+      "word": "最后一波双十一数码福利",
+      "onboard_time": 1762863801,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -2953,6 +3153,14 @@
       "onboard_time": 1762851981,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54165,
+      "num": 114048,
+      "word": "男子脱裤羞辱女店员老板维护获赞",
+      "onboard_time": 1762865301,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53191,
@@ -3067,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44866,
+      "num": 241571,
+      "word": "中了11110元怎么花",
+      "onboard_time": 1762862481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44181,
       "num": 57833,
       "word": "周深疼痛转移",
@@ -3105,6 +3321,14 @@
       "onboard_time": 1762860622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42186,
+      "num": 241586,
+      "word": "司马光跳猫猫舞",
+      "onboard_time": 1762863861,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 40448,
@@ -3208,6 +3432,14 @@
       "word": "水龙吟",
       "onboard_time": 1762794856,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30048,
+      "num": 113738,
+      "word": "梁景仁去世不是马国明没档期",
+      "onboard_time": 1762864881,
+      "rank": 38,
       "category": "剧集"
     },
     {

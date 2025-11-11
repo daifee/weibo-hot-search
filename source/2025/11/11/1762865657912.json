@@ -1,0 +1,410 @@
+{
+  "runTime": 1762865657912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 735544,
+        "num": 1117687,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241768,
+        "num": 241768,
+        "word": "梁靖崑男单爆冷出局",
+        "onboard_time": 1762859361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22314,
+        "num": 241768,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412991,
+        "num": 241749,
+        "word": "金鸡奖开幕式",
+        "onboard_time": 1762861821,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191022,
+        "num": 241729,
+        "word": "王者更改匹配机制",
+        "onboard_time": 1762854201,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184849,
+        "num": 241709,
+        "word": "AL",
+        "onboard_time": 1762855521,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 372657,
+        "num": 241694,
+        "word": "金银错 李昀锐",
+        "onboard_time": 1762859781,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 241687,
+        "word": "广东vs辽宁",
+        "onboard_time": 1762863561,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124412,
+        "num": 241674,
+        "word": "赵继伟受伤",
+        "onboard_time": 1762863681,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116017,
+        "num": 241651,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404005,
+        "num": 241638,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308972,
+        "num": 241629,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 252082,
+        "num": 241605,
+        "word": "梁靖崑给自己一巴掌",
+        "onboard_time": 1762862302,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42186,
+        "num": 241586,
+        "word": "司马光跳猫猫舞",
+        "onboard_time": 1762863861,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 241571,
+        "word": "中了11110元怎么花",
+        "onboard_time": 1762862481,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241568,
+        "num": 241568,
+        "word": "差点没认出来这是成龙",
+        "onboard_time": 1762860142,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206108,
+        "num": 206108,
+        "word": "于子迪200混夺冠",
+        "onboard_time": 1762865062,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195409,
+        "num": 195409,
+        "word": "唐诡三季了我还是猜不对凶手",
+        "onboard_time": 1762862182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 190410,
+        "word": "于子迪刷新亚洲纪录",
+        "onboard_time": 1762865120,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58477,
+        "num": 190003,
+        "word": "最后一波双十一数码福利",
+        "onboard_time": 1762863801,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 699398,
+        "num": 185448,
+        "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+        "onboard_time": 1762860742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698948,
+        "num": 182127,
+        "word": "baby让小海绵带去了生日礼物",
+        "onboard_time": 1762862302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66605,
+        "num": 180587,
+        "word": "错过这波红包雨要再等一年",
+        "onboard_time": 1762863861,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304226,
+        "num": 178264,
+        "word": "四川阿坝红旗桥垮塌",
+        "onboard_time": 1762858941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261456,
+        "num": 174180,
+        "word": "苏州交警致歉",
+        "onboard_time": 1762854501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237747,
+        "num": 171130,
+        "word": "贺峻霖 别让研究生拍这些",
+        "onboard_time": 1762858701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169507,
+        "num": 169507,
+        "word": "高会崩了",
+        "onboard_time": 1762863621,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135032,
+        "num": 135032,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128527,
+        "num": 128527,
+        "word": "杨幂 我和我担是同担",
+        "onboard_time": 1762865182,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105304,
+        "num": 124463,
+        "word": "免费摘白菜事件已成立调查组",
+        "onboard_time": 1762863982,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166555,
+        "num": 124435,
+        "word": "樊振东12日赛程预告",
+        "onboard_time": 1762865120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123300,
+        "num": 123300,
+        "word": "日本小学午餐",
+        "onboard_time": 1762860021,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119018,
+        "num": 119018,
+        "word": "13岁于子迪全运会首金",
+        "onboard_time": 1762865540,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95473,
+        "num": 116555,
+        "word": "中方回应欧盟研究移除华为中兴设备",
+        "onboard_time": 1762863561,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67019,
+        "num": 116390,
+        "word": "实测十余家银行大额取款有多少门槛",
+        "onboard_time": 1762863801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70235,
+        "num": 116312,
+        "word": "最后一波囤衣服该安排上了",
+        "onboard_time": 1762863861,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 116250,
+        "word": "100多株百岁古树连成一片太壮观",
+        "onboard_time": 1762864581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54165,
+        "num": 114048,
+        "word": "男子脱裤羞辱女店员老板维护获赞",
+        "onboard_time": 1762865301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30048,
+        "num": 113738,
+        "word": "梁景仁去世不是马国明没档期",
+        "onboard_time": 1762864881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113522,
+        "num": 113522,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105384,
+        "num": 105384,
+        "word": "李纯马頔婚后首同框",
+        "onboard_time": 1762864761,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102671,
+        "num": 102671,
+        "word": "十五运乒乓男单16强出炉",
+        "onboard_time": 1762862841,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101492,
+        "num": 101492,
+        "word": "女孩被虐亡案生父为继母哭泣求情",
+        "onboard_time": 1762862780,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91588,
+        "num": 91588,
+        "word": "奶皮子蛋糕",
+        "onboard_time": 1762851981,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89887,
+        "num": 89887,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89754,
+        "num": 89754,
+        "word": "时代少年团如何巧妙地化解尴尬",
+        "onboard_time": 1762865421,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89039,
+        "num": 89039,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348188,
+        "num": 88710,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87518,
+        "num": 87518,
+        "word": "你是长大了吗好可怕",
+        "onboard_time": 1762864223,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85527,
+        "num": 85527,
+        "word": "全运会地表最强乒乓球比赛",
+        "onboard_time": 1762864701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}
