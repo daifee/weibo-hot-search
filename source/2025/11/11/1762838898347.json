@@ -1,0 +1,410 @@
+{
+  "runTime": 1762838898347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963765,
+        "num": 1154202,
+        "word": "怀孕超35周孕妇登机后被劝下飞机",
+        "onboard_time": 1762832961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439013,
+        "num": 439013,
+        "word": "05后都开始上恋综了",
+        "onboard_time": 1762832781,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 435091,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434806,
+        "num": 434806,
+        "word": "陈梦vs孙铭阳",
+        "onboard_time": 1762835661,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194784,
+        "num": 194784,
+        "word": "霍震霆现场才知道郭晶晶是火炬手",
+        "onboard_time": 1762829360,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724015,
+        "num": 190304,
+        "word": "警方通报编剧秦雯自称袭警捞人",
+        "onboard_time": 1762824619,
+        "rank": 5,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 332205,
+        "num": 188614,
+        "word": "唐诡3第二案断更点是要我命吗",
+        "onboard_time": 1762835362,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172686,
+        "num": 172686,
+        "word": "维金斯扣篮绝杀",
+        "onboard_time": 1762835423,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141759,
+        "num": 172654,
+        "word": "王曼昱VS范思琦",
+        "onboard_time": 1762837701,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136282,
+        "num": 172305,
+        "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+        "onboard_time": 1762823960,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2694884,
+        "num": 172027,
+        "word": "云南通报赤裸小孩事件",
+        "onboard_time": 1762823541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756837,
+        "num": 171695,
+        "word": "语文真的是滞后性很强的一门学科",
+        "onboard_time": 1762833141,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 465315,
+        "num": 171376,
+        "word": "不爱吃苹果的人有救了",
+        "onboard_time": 1762835661,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 400914,
+        "num": 171152,
+        "word": "许我耀眼庆功宴",
+        "onboard_time": 1762833501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346190,
+        "num": 170840,
+        "word": "彭小苒连发100个问号",
+        "onboard_time": 1762837462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248742,
+        "num": 170580,
+        "word": "Faker说Uzi是LPL最佳选手",
+        "onboard_time": 1762835120,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238906,
+        "num": 170339,
+        "word": "易烊千玺 一切有迹可循",
+        "onboard_time": 1762836142,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177883,
+        "num": 170021,
+        "word": "歼20空空导弹发射瞬间气场拉满",
+        "onboard_time": 1762837221,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173842,
+        "num": 169968,
+        "word": "老默不得了了大嫂都敢追",
+        "onboard_time": 1762837521,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51287,
+        "num": 169498,
+        "word": "抖音双11终极省钱密码",
+        "onboard_time": 1762837401,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 370642,
+        "num": 169292,
+        "word": "穆祉丞 TOP",
+        "onboard_time": 1762825102,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360215,
+        "num": 169033,
+        "word": "迪丽热巴从九月份就开始不舒服了",
+        "onboard_time": 1762817779,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168929,
+        "num": 168929,
+        "word": "再见爱人梁淞害怕四胎考虑结扎",
+        "onboard_time": 1762829240,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157165,
+        "num": 157165,
+        "word": "王鹤棣这是喝了多少",
+        "onboard_time": 1762835720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152031,
+        "num": 152031,
+        "word": "周洁琼演技",
+        "onboard_time": 1762835182,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57553,
+        "num": 149647,
+        "word": "出去玩的钱双11省一半",
+        "onboard_time": 1762837401,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89034,
+        "num": 148268,
+        "word": "双11真的到了还是得上淘宝",
+        "onboard_time": 1762834162,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219567,
+        "num": 148112,
+        "word": "迪丽热巴仅有一名助理",
+        "onboard_time": 1762833921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147508,
+        "num": 147508,
+        "word": "公司招聘了一个06年的小女孩",
+        "onboard_time": 1762830680,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133755,
+        "num": 146407,
+        "word": "对不起新版还珠我真香了",
+        "onboard_time": 1762836321,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146324,
+        "num": 146324,
+        "word": "周雨预测全冠军",
+        "onboard_time": 1762838060,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139914,
+        "num": 139914,
+        "word": "一年赚多少钱才养得起这样一个家",
+        "onboard_time": 1762837820,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135152,
+        "num": 135152,
+        "word": "何炅 英子你是我的劫",
+        "onboard_time": 1762834941,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119941,
+        "num": 132734,
+        "word": "唐诡3惊现天后梦男",
+        "onboard_time": 1762837582,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128383,
+        "num": 132418,
+        "word": "第一次见重生后不复仇只搞钱的",
+        "onboard_time": 1762838301,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132117,
+        "num": 132117,
+        "word": "6人拦婚车讨烟致新人打车离开被罚",
+        "onboard_time": 1762837762,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131918,
+        "num": 131918,
+        "word": "白敬亭认证王安宇深情眼",
+        "onboard_time": 1762838360,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "陈梦4比0胜孙铭阳",
+        "onboard_time": 1762838659,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110888,
+        "num": 110888,
+        "word": "秦雯编造袭警捞人情节为显示人脉",
+        "onboard_time": 1762827980,
+        "rank": 38,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 100643,
+        "num": 100643,
+        "word": "杨超越遇到了鸡爪刺客",
+        "onboard_time": 1762838183,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37383,
+        "num": 97743,
+        "word": "水贝有商家计划提前返乡",
+        "onboard_time": 1762837642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97483,
+        "num": 97483,
+        "word": "暴走团香港徒步",
+        "onboard_time": 1762834281,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89170,
+        "num": 89170,
+        "word": "小猫被法院开庭审理",
+        "onboard_time": 1762833021,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87842,
+        "num": 87842,
+        "word": "常华森回应在机场偶遇白鹿",
+        "onboard_time": 1762838600,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87666,
+        "num": 87666,
+        "word": "官方通报婚车遭拦截被索要50条香烟",
+        "onboard_time": 1762837161,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 87604,
+        "num": 87604,
+        "word": "阴湿男鬼的风也吹到了短剧界",
+        "onboard_time": 1762836801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82617,
+        "num": 86924,
+        "word": "辛龙谈刘真去世",
+        "onboard_time": 1762830740,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86647,
+        "num": 86647,
+        "word": "没这种海报不要叫大女主剧",
+        "onboard_time": 1762836921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82781,
+        "num": 82781,
+        "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+        "onboard_time": 1762826901,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82748,
+        "num": 82748,
+        "word": "农村婚礼真的很挑摄影师",
+        "onboard_time": 1762837221,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

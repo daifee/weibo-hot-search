@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762836396320,
+  "endTime": 1762838898347,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1762507941,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 756837,
+      "num": 210098,
+      "word": "语文真的是滞后性很强的一门学科",
+      "onboard_time": 1762833141,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 755780,
@@ -3643,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465315,
+      "num": 211110,
+      "word": "不爱吃苹果的人有救了",
+      "onboard_time": 1762835661,
+      "rank": 15,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 464840,
       "num": 168453,
       "word": "商家已删除梁朝伟照片",
@@ -3939,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439013,
+      "num": 439013,
+      "word": "05后都开始上恋综了",
+      "onboard_time": 1762832781,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438867,
       "num": 181281,
       "word": "最好吃的苹果方式",
@@ -3977,6 +4001,14 @@
       "onboard_time": 1762517841,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434806,
+      "num": 434806,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1762835661,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 433690,
@@ -4771,14 +4803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377736,
-      "num": 377736,
-      "word": "05后都开始上恋综了",
-      "onboard_time": 1762832781,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375657,
       "num": 179051,
       "word": "TVB演员众筹150万给妻子治病",
@@ -5275,6 +5299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 346190,
+      "num": 170840,
+      "word": "彭小苒连发100个问号",
+      "onboard_time": 1762837462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346049,
       "num": 290457,
       "word": "第一支在鸟巢夺冠的中国战队",
@@ -5568,6 +5600,14 @@
       "word": "剑来",
       "onboard_time": 1762334541,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332205,
+      "num": 211995,
+      "word": "唐诡3第二案断更点是要我命吗",
+      "onboard_time": 1762835362,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -7259,14 +7299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252699,
-      "num": 211995,
-      "word": "唐诡3第二案断更点是要我命吗",
-      "onboard_time": 1762835362,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251735,
       "num": 504212,
       "word": "4岁男童药店打针呕吐抽搐后死亡",
@@ -7345,6 +7377,14 @@
       "onboard_time": 1761979520,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248742,
+      "num": 180132,
+      "word": "Faker说Uzi是LPL最佳选手",
+      "onboard_time": 1762835120,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 248398,
@@ -7651,20 +7691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238906,
+      "num": 207289,
+      "word": "易烊千玺 一切有迹可循",
+      "onboard_time": 1762836142,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238881,
       "num": 123347,
       "word": "武大土木高材生转行做游戏轻松夺金奖",
       "onboard_time": 1762739838,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238508,
-      "num": 211110,
-      "word": "不爱吃苹果的人有救了",
-      "onboard_time": 1762835661,
-      "rank": 15,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 238280,
@@ -8787,14 +8827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 210098,
-      "num": 210098,
-      "word": "语文真的是滞后性很强的一门学科",
-      "onboard_time": 1762833141,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 210042,
       "num": 178547,
       "word": "宠物鸭被碾压致死老太太抱鸭痛哭",
@@ -8937,14 +8969,6 @@
       "onboard_time": 1762408580,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207289,
-      "num": 207289,
-      "word": "易烊千玺 一切有迹可循",
-      "onboard_time": 1762836142,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 207282,
@@ -9401,14 +9425,6 @@
       "onboard_time": 1761923124,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201098,
-      "num": 201098,
-      "word": "陈梦vs孙铭阳",
-      "onboard_time": 1762835661,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 200857,
@@ -10451,14 +10467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186814,
-      "num": 180132,
-      "word": "Faker说Uzi是LPL最佳选手",
-      "onboard_time": 1762835120,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186796,
       "num": 153204,
       "word": "祝绪丹造型师审美",
@@ -11091,6 +11099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177883,
+      "num": 170021,
+      "word": "歼20空空导弹发射瞬间气场拉满",
+      "onboard_time": 1762837221,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177769,
       "num": 210801,
       "word": "北京飞悉尼航班现负43元票价",
@@ -11401,6 +11417,14 @@
       "onboard_time": 1762244241,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173842,
+      "num": 169968,
+      "word": "老默不得了了大嫂都敢追",
+      "onboard_time": 1762837521,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 173801,
@@ -13011,6 +13035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157165,
+      "num": 157165,
+      "word": "王鹤棣这是喝了多少",
+      "onboard_time": 1762835720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156770,
       "num": 156770,
       "word": "oner谈S赛对LPL连胜",
@@ -14187,6 +14219,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 146324,
+      "num": 146324,
+      "word": "周雨预测全冠军",
+      "onboard_time": 1762838060,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146161,
       "num": 146161,
       "word": "瞒着家人复读一年成功上岸",
@@ -14731,6 +14771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141759,
+      "num": 172654,
+      "word": "王曼昱VS范思琦",
+      "onboard_time": 1762837701,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141712,
       "num": 141712,
       "word": "惠英红蒋欣胡杏儿好权威的三张脸",
@@ -15017,6 +15065,14 @@
       "onboard_time": 1762404561,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139914,
+      "num": 139914,
+      "word": "一年赚多少钱才养得起这样一个家",
+      "onboard_time": 1762837820,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 139896,
@@ -15915,6 +15971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133755,
+      "num": 146407,
+      "word": "对不起新版还珠我真香了",
+      "onboard_time": 1762836321,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133751,
       "num": 133751,
       "word": "山东人不许写小说",
@@ -16203,6 +16267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132117,
+      "num": 132117,
+      "word": "6人拦婚车讨烟致新人打车离开被罚",
+      "onboard_time": 1762837762,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132095,
       "num": 191837,
       "word": "低价银行直供房数量激增",
@@ -16217,6 +16289,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131918,
+      "num": 131918,
+      "word": "白敬亭认证王安宇深情眼",
+      "onboard_time": 1762838360,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 131895,
@@ -16833,6 +16913,14 @@
       "onboard_time": 1762512020,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128383,
+      "num": 132418,
+      "word": "第一次见重生后不复仇只搞钱的",
+      "onboard_time": 1762838301,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128352,
@@ -17979,6 +18067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122439,
+      "num": 122439,
+      "word": "陈梦4比0胜孙铭阳",
+      "onboard_time": 1762838659,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122408,
       "num": 122408,
       "word": "冬季睡衣应该多久洗一次",
@@ -18376,6 +18472,14 @@
       "word": "第一次见一人表白四人心碎的",
       "onboard_time": 1762081160,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119941,
+      "num": 132734,
+      "word": "唐诡3惊现天后梦男",
+      "onboard_time": 1762837582,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -22067,14 +22171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103204,
-      "num": 103204,
-      "word": "对不起新版还珠我真香了",
-      "onboard_time": 1762836321,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103167,
       "num": 103167,
       "word": "建议不要经常肝脆蒜了",
@@ -22809,6 +22905,14 @@
       "onboard_time": 1762406660,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100643,
+      "num": 100643,
+      "word": "杨超越遇到了鸡爪刺客",
+      "onboard_time": 1762838183,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 100632,
@@ -26819,6 +26923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87842,
+      "num": 87842,
+      "word": "常华森回应在机场偶遇白鹿",
+      "onboard_time": 1762838600,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87792,
       "num": 87792,
       "word": "郭宇欣工作室",
@@ -26889,6 +27001,22 @@
       "onboard_time": 1761952637,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87666,
+      "num": 87666,
+      "word": "官方通报婚车遭拦截被索要50条香烟",
+      "onboard_time": 1762837161,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 87604,
+      "num": 87604,
+      "word": "阴湿男鬼的风也吹到了短剧界",
+      "onboard_time": 1762836801,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 87548,
@@ -27217,6 +27345,14 @@
       "onboard_time": 1762352722,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86647,
+      "num": 86647,
+      "word": "没这种海报不要叫大女主剧",
+      "onboard_time": 1762836921,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86641,
@@ -28393,6 +28529,14 @@
       "onboard_time": 1761971540,
       "rank": 28,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 82748,
+      "num": 82748,
+      "word": "农村婚礼真的很挑摄影师",
+      "onboard_time": 1762837221,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 82719,
@@ -32035,14 +32179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63076,
-      "num": 122698,
-      "word": "王鹤棣这是喝了多少",
-      "onboard_time": 1762835720,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63043,
       "num": 112300,
       "word": "俄罗斯飞行员来中国成箱采购啤酒",
@@ -32755,6 +32891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57553,
+      "num": 149647,
+      "word": "出去玩的钱双11省一半",
+      "onboard_time": 1762837401,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57452,
       "num": 57452,
       "word": "陈艾森7金告别全运会",
@@ -33425,6 +33569,14 @@
       "onboard_time": 1762270579,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51287,
+      "num": 169498,
+      "word": "抖音双11终极省钱密码",
+      "onboard_time": 1762837401,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 51247,
@@ -35033,6 +35185,14 @@
       "onboard_time": 1762161862,
       "rank": 38,
       "category": "海外新闻,军事"
+    },
+    {
+      "raw_hot": 37383,
+      "num": 97743,
+      "word": "水贝有商家计划提前返乡",
+      "onboard_time": 1762837642,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37187,
