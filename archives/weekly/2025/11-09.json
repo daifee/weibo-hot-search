@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762889827337,
+  "endTime": 1762892968418,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -11673,6 +11673,14 @@
       "onboard_time": 1762785562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9871,
+      "num": 20011,
+      "word": "唐诡值得",
+      "onboard_time": 1762890733,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 9858,
