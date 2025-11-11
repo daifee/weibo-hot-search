@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762846834775,
+  "endTime": 1762850122823,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -9,6 +9,14 @@
       "onboard_time": 1762823541,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2209751,
+      "num": 2209751,
+      "word": "陈可辛出车祸",
+      "onboard_time": 1762848321,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1796385,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193507,
+      "num": 801859,
+      "word": "张颂文聚餐救人获赠锦旗",
+      "onboard_time": 1762844840,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1081653,
       "num": 1173064,
       "word": "怀孕超35周孕妇登机后被劝下飞机",
@@ -43,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888219,
+      "num": 160556,
+      "word": "何穗产后近照",
+      "onboard_time": 1762848981,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841229,
       "num": 876749,
       "word": "故宫博物院发讣告",
       "onboard_time": 1762791260,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 801859,
-      "num": 801859,
-      "word": "张颂文聚餐救人获赠锦旗",
-      "onboard_time": 1762844840,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 791912,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 782857,
-      "num": 194833,
+      "num": 250456,
       "word": "星巴克被吐槽爆改成县城奶茶店",
       "onboard_time": 1762843100,
       "rank": 33,
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479831,
+      "num": 160515,
+      "word": "王栎鑫吴雅婷一同为女儿庆生",
+      "onboard_time": 1762847840,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464840,
       "num": 168453,
       "word": "商家已删除梁朝伟照片",
@@ -259,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321608,
+      "num": 248304,
+      "word": "有人卖奶茶袋子赚了上千元",
+      "onboard_time": 1762843640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312670,
+      "num": 312670,
+      "word": "德军司令称柏林已做好开战准备",
+      "onboard_time": 1762842800,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 310132,
       "num": 310132,
       "word": "汉堡王中国也被卖了",
@@ -307,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285937,
+      "num": 285937,
+      "word": "威廉王子不准孩子用手机",
+      "onboard_time": 1762846280,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 284622,
       "num": 207761,
       "word": "公司招聘了一个06年的小女孩",
@@ -331,12 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248400,
-      "num": 176917,
-      "word": "德军司令称柏林已做好开战准备",
-      "onboard_time": 1762842800,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 254454,
+      "num": 254454,
+      "word": "律师银行取4万元遭盘问报警",
+      "onboard_time": 1762846939,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247206,
+      "num": 247206,
+      "word": "井柏然刘雯 商务共享",
+      "onboard_time": 1762846460,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 246633,
@@ -369,14 +425,6 @@
       "onboard_time": 1762827019,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238295,
-      "num": 184988,
-      "word": "有人卖奶茶袋子赚了上千元",
-      "onboard_time": 1762843640,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234370,
@@ -417,6 +465,14 @@
       "onboard_time": 1762834221,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220348,
+      "num": 220348,
+      "word": "侯明昊仇人看到都释怀了",
+      "onboard_time": 1762844000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 220036,
@@ -515,6 +571,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194095,
+      "num": 254130,
+      "word": "新音 三亚",
+      "onboard_time": 1762849280,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194072,
+      "num": 194072,
+      "word": "陈可辛驾车为躲避狗撞上人行道",
+      "onboard_time": 1762848621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "郎平红包",
@@ -571,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180180,
+      "num": 160499,
+      "word": "大学时期的刘亦菲",
+      "onboard_time": 1762848800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178865,
       "num": 191039,
       "word": "上海交大非全日制会计博士学费78万",
@@ -585,6 +665,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178346,
+      "num": 178346,
+      "word": "为什么要把葱花当天使用",
+      "onboard_time": 1762847363,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 175933,
@@ -643,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160588,
+      "num": 160588,
+      "word": "为什么洗澡时会产生唱歌好听的错觉",
+      "onboard_time": 1762848920,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 160387,
       "num": 179598,
       "word": "王曼昱VS范思琦",
@@ -673,14 +769,6 @@
       "onboard_time": 1762834941,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153293,
-      "num": 153293,
-      "word": "侯明昊仇人看到都释怀了",
-      "onboard_time": 1762844000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 151223,
@@ -875,6 +963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133944,
+      "num": 133944,
+      "word": "朱珠跳舞",
+      "onboard_time": 1762846521,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133755,
       "num": 146407,
       "word": "对不起新版还珠我真香了",
@@ -907,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132027,
+      "num": 132027,
+      "word": "Faker认领LOL第一人",
+      "onboard_time": 1762848860,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131933,
       "num": 131933,
       "word": "什么电影一拍整整24年",
@@ -929,14 +1033,6 @@
       "onboard_time": 1762846761,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129243,
-      "num": 129243,
-      "word": "井柏然刘雯 商务共享",
-      "onboard_time": 1762846460,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 128936,
@@ -977,6 +1073,22 @@
       "onboard_time": 1762833200,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126613,
+      "num": 126613,
+      "word": "布瑞吉vs布瑞吉",
+      "onboard_time": 1762849461,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 125929,
+      "num": 133797,
+      "word": "张颂文救人还帮捡手串珠子",
+      "onboard_time": 1762847060,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 125463,
@@ -1099,6 +1211,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 115772,
+      "num": 115772,
+      "word": "怀疑妈妈以前是干小说租赁的",
+      "onboard_time": 1762848321,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114975,
       "num": 114975,
       "word": "邓恩熙扭这一下",
@@ -1171,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107376,
+      "num": 107376,
+      "word": "国家一级演员的肌肉线条有多绝",
+      "onboard_time": 1762849521,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107357,
       "num": 107357,
       "word": "古力娜扎要不咱先忍一忍",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1762830981,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107146,
+      "num": 107146,
+      "word": "唐诡3又来一位美女马凡丁",
+      "onboard_time": 1762850061,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107101,
@@ -1235,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104099,
+      "num": 104099,
+      "word": "韩雨彤红包",
+      "onboard_time": 1762848501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103984,
       "num": 118968,
       "word": "董璇把伴侣放在最后一名",
       "onboard_time": 1762845199,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103845,
+      "num": 114698,
+      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+      "onboard_time": 1762849220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 102834,
@@ -1259,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101648,
+      "num": 101648,
+      "word": "罗云熙空降声鸣远扬",
+      "onboard_time": 1762849401,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101622,
       "num": 101622,
       "word": "光遇复刻",
@@ -1273,6 +1433,14 @@
       "onboard_time": 1762786162,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 100866,
+      "num": 114530,
+      "word": "TFBOYS又有新站子了",
+      "onboard_time": 1762849824,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 100830,
@@ -1401,6 +1569,14 @@
       "onboard_time": 1762831280,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94458,
+      "num": 115008,
+      "word": "王曼昱说分分钟就有可能输掉比赛",
+      "onboard_time": 1762849041,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 94247,
@@ -1707,6 +1883,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 77547,
+      "num": 99084,
+      "word": "陈芋汐谈洛杉矶奥运会",
+      "onboard_time": 1762850061,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77527,
       "num": 77527,
       "word": "欧洲多国紧急往乌克兰送旧渔网",
@@ -1987,20 +2171,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 58231,
+      "num": 133302,
+      "word": "双十一就是买完你的买你的",
+      "onboard_time": 1762848380,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57553,
       "num": 149647,
       "word": "出去玩的钱双11省一半",
       "onboard_time": 1762837401,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 57055,
-      "num": 124553,
-      "word": "威廉王子不准孩子用手机",
-      "onboard_time": 1762846280,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56805,
@@ -2025,6 +2209,14 @@
       "onboard_time": 1762833624,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54861,
+      "num": 103171,
+      "word": "印度新人吸着氧结婚讽刺当地空气差",
+      "onboard_time": 1762848621,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53191,
@@ -2203,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31078,
+      "num": 296650,
+      "word": "相约第十五届全运会",
+      "onboard_time": 1762849701,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31048,
       "num": 43986,
       "word": "汪苏泷夜莺与玫瑰",
@@ -2251,12 +2451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27337,
-      "num": 124482,
-      "word": "朱珠跳舞",
-      "onboard_time": 1762846521,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 28134,
+      "num": 221014,
+      "word": "接心动礼遇季锦鲤好运",
+      "onboard_time": 1762848621,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 27223,
@@ -2267,12 +2467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26550,
+      "num": 249239,
+      "word": "转发花海微博抓小猫",
+      "onboard_time": 1762849220,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 25543,
       "num": 31154,
       "word": "耿宝昌逝世",
       "onboard_time": 1762797676,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24182,
+      "num": 160571,
+      "word": "摇滚大湾鸡整活名场面",
+      "onboard_time": 1762848920,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 21543,
@@ -2321,6 +2537,14 @@
       "onboard_time": 1762806973,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1668,
+      "num": 120901,
+      "word": "看见活力大湾区",
+      "onboard_time": 1762761259,
+      "rank": 35,
+      "category": "民生新闻,体育"
     }
   ],
   "hotgov_list": [
