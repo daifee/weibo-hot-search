@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762872306439,
+  "endTime": 1762875007458,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 702431,
-      "num": 702431,
+      "num": 1099871,
       "word": "英国海边出现巨型海怪",
       "onboard_time": 1762867521,
       "rank": 5,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388049,
+      "num": 145727,
+      "word": "美主播阴阳怪气中国人遭特朗普反驳",
+      "onboard_time": 1762872682,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 387663,
       "num": 387663,
       "word": "霍震霆现场才知道郭晶晶是火炬手",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1762771099,
       "rank": 33,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 371055,
+      "num": 173580,
+      "word": "余华你知道你这句话救了多少人吗",
+      "onboard_time": 1762870583,
+      "rank": 17,
+      "category": "读书作家"
     },
     {
       "raw_hot": 366258,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1762757599,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350365,
+      "num": 160967,
+      "word": "何穗产后身材 像没生过",
+      "onboard_time": 1762870283,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 348866,
@@ -2211,6 +2235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 271455,
+      "num": 183149,
+      "word": "男子收割玉米突发意外抢救无效去世",
+      "onboard_time": 1762870642,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1762786341,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256478,
+      "num": 145302,
+      "word": "杨旭文 工作暂停庆祝破万",
+      "onboard_time": 1762872982,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 255616,
@@ -2568,6 +2608,14 @@
       "word": "河南新乡门诊医保报销被限额",
       "onboard_time": 1762763000,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226142,
+      "num": 145151,
+      "word": "女子网购理肤泉护肤品收到3块石头",
+      "onboard_time": 1762872322,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3251,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188966,
+      "num": 164570,
+      "word": "爱奇艺2025破万剧",
+      "onboard_time": 1762873881,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188300,
       "num": 271215,
       "word": "全运会旗手",
@@ -3353,14 +3409,6 @@
       "onboard_time": 1762694481,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183149,
-      "num": 183149,
-      "word": "男子收割玉米突发意外抢救无效去世",
-      "onboard_time": 1762870642,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183032,
@@ -3561,14 +3609,6 @@
       "onboard_time": 1762696102,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173580,
-      "num": 173580,
-      "word": "余华你知道你这句话救了多少人吗",
-      "onboard_time": 1762870583,
-      "rank": 17,
-      "category": "读书作家"
     },
     {
       "raw_hot": 172981,
@@ -3873,14 +3913,6 @@
       "onboard_time": 1762832058,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160967,
-      "num": 160967,
-      "word": "何穗产后身材 像没生过",
-      "onboard_time": 1762870283,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 160842,
@@ -4275,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148893,
+      "num": 144797,
+      "word": "年会不能停2 大鹏",
+      "onboard_time": 1762868361,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148680,
       "num": 772591,
       "word": "俄军将攻占乌克兰第三首都",
@@ -4467,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142536,
+      "num": 142536,
+      "word": "全运会乒乓球项目首金",
+      "onboard_time": 1762872141,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142484,
       "num": 142484,
       "word": "三十几岁正是回村种地的好时候",
@@ -4489,6 +4537,14 @@
       "onboard_time": 1762836081,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141816,
+      "num": 104418,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 141708,
@@ -4728,6 +4784,14 @@
       "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
       "onboard_time": 1762849220,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136643,
+      "num": 136643,
+      "word": "许绍雄女儿再发文",
+      "onboard_time": 1762873040,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -5073,6 +5137,14 @@
       "onboard_time": 1762838301,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128259,
+      "num": 104311,
+      "word": "爸爸年轻时候埋下的一颗人参",
+      "onboard_time": 1762874002,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 128217,
@@ -5481,6 +5553,14 @@
       "onboard_time": 1762750401,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121440,
+      "num": 121440,
+      "word": "罗云熙认为自己没有综艺效果",
+      "onboard_time": 1762874302,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 121414,
@@ -6107,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109864,
+      "num": 145860,
+      "word": "双十一期间多名主播喊破了肺泡",
+      "onboard_time": 1762872322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109796,
       "num": 109796,
       "word": "核电工程师移民加拿大当洗碗工",
@@ -6401,14 +6489,6 @@
       "onboard_time": 1762609402,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106013,
-      "num": 106013,
-      "word": "年会不能停2 大鹏",
-      "onboard_time": 1762868361,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 105895,
@@ -7467,6 +7547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93756,
+      "num": 93756,
+      "word": "李昀锐发红包",
+      "onboard_time": 1762873520,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93716,
       "num": 93716,
       "word": "何穗产后身材",
@@ -7497,14 +7585,6 @@
       "onboard_time": 1762850720,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93223,
-      "num": 93223,
-      "word": "全运会乒乓球项目首金",
-      "onboard_time": 1762872141,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 93210,
@@ -8299,6 +8379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85146,
+      "num": 85146,
+      "word": "肖战易烊千玺人脸头套成爆款",
+      "onboard_time": 1762874781,
+      "rank": 37,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 84609,
       "num": 84609,
       "word": "幸亏毕业的早不然幼儿园都毕不了业",
@@ -8771,6 +8859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76373,
+      "num": 76373,
+      "word": "iPhoneAir 销量惨淡",
+      "onboard_time": 1762872862,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76320,
       "num": 154622,
       "word": "小伙1年猛长25厘米身高2米23",
@@ -8955,6 +9051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73732,
+      "num": 73732,
+      "word": "原来这就叫感官过载呀",
+      "onboard_time": 1762874722,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 73561,
       "num": 73561,
       "word": "自用消肿最快的邪修大法",
@@ -9123,6 +9227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70473,
+      "num": 78705,
+      "word": "西安8岁女孩冬天穿拖鞋流浪",
+      "onboard_time": 1762874781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70371,
       "num": 243543,
       "word": "齐思钧吴泽林大锁刀马爆改都买",
@@ -9225,6 +9337,14 @@
       "onboard_time": 1762647199,
       "rank": 44,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 68959,
+      "num": 68959,
+      "word": "牧场老板希望奶皮子别再爆火",
+      "onboard_time": 1762872742,
+      "rank": 46,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 68230,
@@ -9331,6 +9451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65793,
+      "num": 65793,
+      "word": "腾讯官方晒首间办公室照片",
+      "onboard_time": 1762873881,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65695,
       "num": 124716,
       "word": "邓亚萍想看看年轻人的手速",
@@ -9353,6 +9481,14 @@
       "onboard_time": 1762739301,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65220,
+      "num": 65220,
+      "word": "大湾鸡设计师打不过就加入",
+      "onboard_time": 1762873221,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 65167,
