@@ -1,0 +1,410 @@
+{
+  "runTime": 1762853387761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587955,
+        "num": 1587955,
+        "word": "陈可辛出车祸",
+        "onboard_time": 1762848321,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511362,
+        "num": 511362,
+        "word": "律师银行取4万元遭盘问报警",
+        "onboard_time": 1762846939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21903,
+        "num": 435912,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411258,
+        "num": 411258,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248893,
+        "num": 248893,
+        "word": "威廉王子不准孩子用手机",
+        "onboard_time": 1762846280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182921,
+        "num": 182921,
+        "word": "俄方宣布准备向印度转让核技术",
+        "onboard_time": 1762850601,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301642,
+        "num": 175006,
+        "word": "唐诡3又来一位美女马凡丁",
+        "onboard_time": 1762850061,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161293,
+        "num": 161293,
+        "word": "怀孕超35周孕妇登机后被劝下飞机",
+        "onboard_time": 1762832961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154753,
+        "num": 154753,
+        "word": "德军司令称柏林已做好开战准备",
+        "onboard_time": 1762842800,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114156,
+        "num": 154637,
+        "word": "奶皮子蛋糕",
+        "onboard_time": 1762851981,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 524846,
+        "num": 153846,
+        "word": "为什么要把葱花当天使用",
+        "onboard_time": 1762847363,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355082,
+        "num": 153548,
+        "word": "陈可辛驾车为躲避狗撞上人行道",
+        "onboard_time": 1762848621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290033,
+        "num": 152974,
+        "word": "新音 三亚",
+        "onboard_time": 1762849280,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20526,
+        "num": 152531,
+        "word": "转发花海微博抓小猫",
+        "onboard_time": 1762849220,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282836,
+        "num": 152084,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113721,
+        "num": 151800,
+        "word": "Faker说Uzi是LPL最佳选手",
+        "onboard_time": 1762835120,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229276,
+        "num": 151088,
+        "word": "侯明昊仇人看到都释怀了",
+        "onboard_time": 1762844000,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205130,
+        "num": 150815,
+        "word": "有人卖奶茶袋子赚了上千元",
+        "onboard_time": 1762843640,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39402,
+        "num": 150195,
+        "word": "大湾鸡冰墩墩来自一个设计团队",
+        "onboard_time": 1762852941,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54692,
+        "num": 149813,
+        "word": "电竞选手发红包",
+        "onboard_time": 1762851981,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1399386,
+        "num": 149178,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489697,
+        "num": 148835,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414065,
+        "num": 148462,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148206,
+        "num": 148206,
+        "word": "井柏然刘雯 商务共享",
+        "onboard_time": 1762846460,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251389,
+        "num": 147465,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237175,
+        "num": 146768,
+        "word": "张雪峰老婆",
+        "onboard_time": 1762852879,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 146419,
+        "word": "陈艺文铜牌",
+        "onboard_time": 1762853061,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104636,
+        "num": 145648,
+        "word": "柯淳说现在已经被磨去了自信",
+        "onboard_time": 1762850242,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94388,
+        "num": 144558,
+        "word": "金饰克价涨破1300元",
+        "onboard_time": 1762841901,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51208,
+        "num": 144298,
+        "word": "双11最后一波买什么划算",
+        "onboard_time": 1762851860,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143627,
+        "num": 143627,
+        "word": "TFBOYS又有新站子了",
+        "onboard_time": 1762849824,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142453,
+        "num": 142453,
+        "word": "航母弹射速度 外星人打过来了",
+        "onboard_time": 1762852161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 137017,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130748,
+        "num": 130748,
+        "word": "大学时期的刘亦菲",
+        "onboard_time": 1762848800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129088,
+        "num": 129088,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 117848,
+        "num": 117848,
+        "word": "Kael疑似与AL续约",
+        "onboard_time": 1762852401,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113486,
+        "num": 113486,
+        "word": "智利车厘子果农说谢谢中国",
+        "onboard_time": 1762852641,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108241,
+        "num": 108241,
+        "word": "女子在建行存款近30年却无法取出",
+        "onboard_time": 1762850300,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104000,
+        "num": 104000,
+        "word": "WTT总决赛女单资格仅余一席",
+        "onboard_time": 1762853001,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105960,
+        "num": 103084,
+        "word": "酒店小狮子叫醒服务 628元一晚",
+        "onboard_time": 1762852641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "Faker认领LOL第一人",
+        "onboard_time": 1762848860,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24759,
+        "num": 98740,
+        "word": "何穗怎么恢复的",
+        "onboard_time": 1762853361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97887,
+        "num": 97887,
+        "word": "为什么健身房容易倒闭",
+        "onboard_time": 1762851681,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97533,
+        "num": 97533,
+        "word": "康宁汉姆45投14中轰46分",
+        "onboard_time": 1762852761,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94358,
+        "num": 94358,
+        "word": "威廉王子称没对孩子隐瞒家中困难",
+        "onboard_time": 1762852222,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93716,
+        "num": 93716,
+        "word": "何穗产后身材",
+        "onboard_time": 1762851381,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92761,
+        "num": 92761,
+        "word": "红包分组",
+        "onboard_time": 1762852401,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96901,
+        "num": 92724,
+        "word": "警方通报编剧秦雯自称袭警捞人",
+        "onboard_time": 1762824619,
+        "rank": 47,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 88742,
+        "num": 88742,
+        "word": "分手后的家vs分手前的家",
+        "onboard_time": 1762853361,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88741,
+        "num": 88741,
+        "word": "继母虐待12岁女孩致死维持死刑",
+        "onboard_time": 1762848441,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

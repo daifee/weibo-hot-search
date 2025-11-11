@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762850946036,
+  "endTime": 1762853387761,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524846,
+      "num": 178346,
+      "word": "为什么要把葱花当天使用",
+      "onboard_time": 1762847363,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518464,
       "num": 812555,
       "word": "告白 王星越",
@@ -161,6 +169,14 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 511362,
+      "num": 511362,
+      "word": "律师银行取4万元遭盘问报警",
+      "onboard_time": 1762846939,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500739,
@@ -251,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 356804,
-      "num": 356804,
-      "word": "律师银行取4万元遭盘问报警",
-      "onboard_time": 1762846939,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 355082,
+      "num": 270296,
+      "word": "陈可辛驾车为躲避狗撞上人行道",
+      "onboard_time": 1762848621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 353801,
@@ -273,14 +289,6 @@
       "onboard_time": 1762818740,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336142,
-      "num": 270296,
-      "word": "陈可辛驾车为躲避狗撞上人行道",
-      "onboard_time": 1762848621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 332205,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301642,
+      "num": 175006,
+      "word": "唐诡3又来一位美女马凡丁",
+      "onboard_time": 1762850061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299485,
       "num": 299485,
       "word": "陈梦回应4比0孙铭阳",
@@ -353,6 +369,14 @@
       "onboard_time": 1762846280,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290033,
+      "num": 254130,
+      "word": "新音 三亚",
+      "onboard_time": 1762849280,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 288480,
@@ -395,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251389,
+      "num": 147465,
+      "word": "盗版刘亦菲杨幂baby",
+      "onboard_time": 1762850361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247206,
       "num": 247206,
       "word": "井柏然刘雯 商务共享",
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237175,
+      "num": 146768,
+      "word": "张雪峰老婆",
+      "onboard_time": 1762852879,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234370,
       "num": 133545,
       "word": "男孩矫正基地被虐28天致半残疾",
@@ -449,6 +489,14 @@
       "onboard_time": 1762825279,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229276,
+      "num": 220348,
+      "word": "侯明昊仇人看到都释怀了",
+      "onboard_time": 1762844000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 223819,
@@ -473,14 +521,6 @@
       "onboard_time": 1762834221,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220348,
-      "num": 220348,
-      "word": "侯明昊仇人看到都释怀了",
-      "onboard_time": 1762844000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 220036,
@@ -547,14 +587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206763,
-      "num": 154281,
-      "word": "唐诡3又来一位美女马凡丁",
-      "onboard_time": 1762850061,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200470,
       "num": 186600,
       "word": "金饰克价涨破1300元",
@@ -571,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196553,
-      "num": 178346,
-      "word": "为什么要把葱花当天使用",
-      "onboard_time": 1762847363,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196408,
       "num": 191613,
       "word": "吴磊说好好对她好吗",
@@ -593,14 +617,6 @@
       "onboard_time": 1762834341,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194095,
-      "num": 254130,
-      "word": "新音 三亚",
-      "onboard_time": 1762849280,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 191552,
@@ -657,6 +673,14 @@
       "onboard_time": 1762786044,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182921,
+      "num": 182921,
+      "word": "俄方宣布准备向印度转让核技术",
+      "onboard_time": 1762850601,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180180,
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142453,
+      "num": 142453,
+      "word": "航母弹射速度 外星人打过来了",
+      "onboard_time": 1762852161,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142042,
       "num": 142042,
       "word": "双十一",
@@ -899,14 +931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139803,
-      "num": 139803,
-      "word": "盗版刘亦菲杨幂baby",
-      "onboard_time": 1762850361,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138644,
       "num": 138644,
       "word": "锤娜丽莎回应瘦了30斤",
@@ -937,6 +961,14 @@
       "onboard_time": 1762834162,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 137017,
+      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+      "onboard_time": 1762849220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 136792,
@@ -1027,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132373,
-      "num": 118393,
-      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
-      "onboard_time": 1762849220,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132027,
       "num": 132027,
       "word": "Faker认领LOL第一人",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1762846761,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 128936,
@@ -1219,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117848,
+      "num": 117848,
+      "word": "Kael疑似与AL续约",
+      "onboard_time": 1762852401,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116329,
       "num": 116329,
       "word": "Gumayusi称名人堂再选烬皮肤",
@@ -1259,12 +1299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114156,
+      "num": 154637,
+      "word": "奶皮子蛋糕",
+      "onboard_time": 1762851981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113918,
       "num": 113918,
       "word": "马龙全运会上训",
       "onboard_time": 1762832961,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113486,
+      "num": 113486,
+      "word": "智利车厘子果农说谢谢中国",
+      "onboard_time": 1762852641,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112586,
@@ -1315,19 +1371,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108241,
+      "num": 108241,
+      "word": "女子在建行存款近30年却无法取出",
+      "onboard_time": 1762850300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108109,
       "num": 135035,
       "word": "央美学生被指抄袭还获一等奖学金",
       "onboard_time": 1762780822,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107624,
-      "num": 107624,
-      "word": "女子在建行存款近30年却无法取出",
-      "onboard_time": 1762850300,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1353,14 +1409,6 @@
       "onboard_time": 1762830981,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107140,
-      "num": 107140,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 107101,
@@ -1403,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105960,
+      "num": 103084,
+      "word": "酒店小狮子叫醒服务 628元一晚",
+      "onboard_time": 1762852641,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105843,
       "num": 105843,
       "word": "常华森回应在机场偶遇白鹿",
@@ -1419,12 +1475,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105399,
+      "num": 146419,
+      "word": "陈艺文铜牌",
+      "onboard_time": 1762853061,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104636,
+      "num": 145648,
+      "word": "柯淳说现在已经被磨去了自信",
+      "onboard_time": 1762850242,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104099,
       "num": 104099,
       "word": "韩雨彤红包",
       "onboard_time": 1762848501,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104000,
+      "num": 104000,
+      "word": "WTT总决赛女单资格仅余一席",
+      "onboard_time": 1762853001,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 103984,
@@ -1555,6 +1635,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "为什么健身房容易倒闭",
+      "onboard_time": 1762851681,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 97533,
+      "num": 97533,
+      "word": "康宁汉姆45投14中轰46分",
+      "onboard_time": 1762852761,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97002,
       "num": 97002,
       "word": "大家尽量去过规律且有支点的生活",
@@ -1611,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94358,
+      "num": 94358,
+      "word": "威廉王子称没对孩子隐瞒家中困难",
+      "onboard_time": 1762852222,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94247,
       "num": 94247,
       "word": "2025星辰大海青年演员入选名单",
       "onboard_time": 1762836681,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93716,
+      "num": 93716,
+      "word": "何穗产后身材",
+      "onboard_time": 1762851381,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 93585,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1762831701,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92761,
+      "num": 92761,
+      "word": "红包分组",
+      "onboard_time": 1762852401,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 92418,
@@ -1697,6 +1817,22 @@
       "onboard_time": 1762830800,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88742,
+      "num": 88742,
+      "word": "分手后的家vs分手前的家",
+      "onboard_time": 1762853361,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88741,
+      "num": 88741,
+      "word": "继母虐待12岁女孩致死维持死刑",
+      "onboard_time": 1762848441,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88072,
@@ -2283,6 +2419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54692,
+      "num": 149813,
+      "word": "电竞选手发红包",
+      "onboard_time": 1762851981,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53191,
       "num": 53191,
       "word": "印度汽车爆炸已造成至少8人死亡",
@@ -2304,6 +2448,14 @@
       "word": "抖音双11终极省钱密码",
       "onboard_time": 1762837401,
       "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 51208,
+      "num": 144298,
+      "word": "双11最后一波买什么划算",
+      "onboard_time": 1762851860,
+      "rank": 29,
       "category": "互联网"
     },
     {
@@ -2387,20 +2539,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43192,
-      "num": 107168,
-      "word": "俄方宣布准备向印度转让核技术",
-      "onboard_time": 1762850601,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40448,
       "num": 49559,
       "word": "井柏然孙千吻戏",
       "onboard_time": 1762797495,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39402,
+      "num": 150195,
+      "word": "大湾鸡冰墩墩来自一个设计团队",
+      "onboard_time": 1762852941,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 38965,
@@ -2428,7 +2580,7 @@
     },
     {
       "raw_hot": 35904,
-      "num": 310144,
+      "num": 435912,
       "word": "相约第十五届全运会",
       "onboard_time": 1762849701,
       "rank": 2,
@@ -2553,6 +2705,14 @@
       "onboard_time": 1762797676,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24759,
+      "num": 98740,
+      "word": "何穗怎么恢复的",
+      "onboard_time": 1762853361,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 24182,

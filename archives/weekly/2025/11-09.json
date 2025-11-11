@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762850946036,
+  "endTime": 1762853387761,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -827,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 524846,
+      "num": 178346,
+      "word": "为什么要把葱花当天使用",
+      "onboard_time": 1762847363,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519948,
       "num": 238129,
       "word": "何炅声鸣远扬大战魔童导师",
@@ -873,6 +881,14 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 511362,
+      "num": 511362,
+      "word": "律师银行取4万元遭盘问报警",
+      "onboard_time": 1762846939,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499022,
@@ -1403,12 +1419,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 356804,
-      "num": 356804,
-      "word": "律师银行取4万元遭盘问报警",
-      "onboard_time": 1762846939,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 355082,
+      "num": 270296,
+      "word": "陈可辛驾车为躲避狗撞上人行道",
+      "onboard_time": 1762848621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 353801,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1762743800,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336142,
-      "num": 270296,
-      "word": "陈可辛驾车为躲避狗撞上人行道",
-      "onboard_time": 1762848621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 335927,
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301642,
+      "num": 175006,
+      "word": "唐诡3又来一位美女马凡丁",
+      "onboard_time": 1762850061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300896,
       "num": 171560,
       "word": "吴磊李宛妲剑来领衔主演",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1762676000,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 290033,
+      "num": 254130,
+      "word": "新音 三亚",
+      "onboard_time": 1762849280,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 288596,
@@ -2043,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251389,
+      "num": 147465,
+      "word": "盗版刘亦菲杨幂baby",
+      "onboard_time": 1762850361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251235,
       "num": 1040031,
       "word": "十五运开幕式演出阵容",
@@ -2179,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237175,
+      "num": 146768,
+      "word": "张雪峰老婆",
+      "onboard_time": 1762852879,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 236604,
       "num": 117748,
       "word": "女主播被主管性侵又遭公司索赔10万",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1762700303,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229276,
+      "num": 220348,
+      "word": "侯明昊仇人看到都释怀了",
+      "onboard_time": 1762844000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 228371,
@@ -2369,14 +2417,6 @@
       "onboard_time": 1762834221,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220348,
-      "num": 220348,
-      "word": "侯明昊仇人看到都释怀了",
-      "onboard_time": 1762844000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 220036,
@@ -2553,14 +2593,6 @@
       "onboard_time": 1762697002,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 206763,
-      "num": 154281,
-      "word": "唐诡3又来一位美女马凡丁",
-      "onboard_time": 1762850061,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 205972,
@@ -2763,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196553,
-      "num": 178346,
-      "word": "为什么要把葱花当天使用",
-      "onboard_time": 1762847363,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196408,
       "num": 191613,
       "word": "吴磊说好好对她好吗",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1762834341,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194095,
-      "num": 254130,
-      "word": "新音 三亚",
-      "onboard_time": 1762849280,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 194012,
@@ -3033,6 +3049,14 @@
       "onboard_time": 1762694421,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182921,
+      "num": 182921,
+      "word": "俄方宣布准备向印度转让核技术",
+      "onboard_time": 1762850601,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182464,
@@ -3995,6 +4019,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 142453,
+      "num": 142453,
+      "word": "航母弹射速度 外星人打过来了",
+      "onboard_time": 1762852161,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142042,
       "num": 142042,
       "word": "双十一",
@@ -4107,14 +4139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139803,
-      "num": 139803,
-      "word": "盗版刘亦菲杨幂baby",
-      "onboard_time": 1762850361,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139344,
       "num": 151363,
       "word": "小米汽车10月零售销量48654辆",
@@ -4225,6 +4249,14 @@
       "onboard_time": 1762783342,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 137017,
+      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+      "onboard_time": 1762849220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 136594,
@@ -4395,14 +4427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132373,
-      "num": 118393,
-      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
-      "onboard_time": 1762849220,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132095,
       "num": 191837,
       "word": "低价银行直供房数量激增",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1762776261,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 129059,
@@ -5051,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117848,
+      "num": 117848,
+      "word": "Kael疑似与AL续约",
+      "onboard_time": 1762852401,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117460,
       "num": 142098,
       "word": "袁励岑4比3周启豪",
@@ -5203,6 +5243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114156,
+      "num": 154637,
+      "word": "奶皮子蛋糕",
+      "onboard_time": 1762851981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113918,
       "num": 113918,
       "word": "马龙全运会上训",
@@ -5217,6 +5265,14 @@
       "onboard_time": 1762742718,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113486,
+      "num": 113486,
+      "word": "智利车厘子果农说谢谢中国",
+      "onboard_time": 1762852641,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113355,
@@ -5459,6 +5515,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 108241,
+      "num": 108241,
+      "word": "女子在建行存款近30年却无法取出",
+      "onboard_time": 1762850300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108131,
       "num": 148508,
       "word": "惊天魔盗团3幕后必有高人指点",
@@ -5491,14 +5555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107624,
-      "num": 107624,
-      "word": "女子在建行存款近30年却无法取出",
-      "onboard_time": 1762850300,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107376,
       "num": 107376,
       "word": "国家一级演员的肌肉线条有多绝",
@@ -5529,14 +5585,6 @@
       "onboard_time": 1762830981,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107140,
-      "num": 107140,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 107120,
@@ -5651,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105960,
+      "num": 103084,
+      "word": "酒店小狮子叫醒服务 628元一晚",
+      "onboard_time": 1762852641,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105895,
       "num": 105895,
       "word": "王楚钦16强对阵黄镇廷",
@@ -5697,6 +5753,14 @@
       "onboard_time": 1762680441,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105399,
+      "num": 146419,
+      "word": "陈艺文铜牌",
+      "onboard_time": 1762853061,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 105370,
@@ -5755,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104636,
+      "num": 145648,
+      "word": "柯淳说现在已经被磨去了自信",
+      "onboard_time": 1762850242,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104368,
       "num": 104368,
       "word": "鲁豫 此刻我不好过别人也未必好过",
@@ -5792,6 +5864,14 @@
       "word": "王宗源把金牌给全红婵戴",
       "onboard_time": 1762782502,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104000,
+      "num": 104000,
+      "word": "WTT总决赛女单资格仅余一席",
+      "onboard_time": 1762853001,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -6275,6 +6355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "为什么健身房容易倒闭",
+      "onboard_time": 1762851681,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97857,
       "num": 204893,
       "word": "一诺回应FMVP",
@@ -6305,6 +6393,14 @@
       "onboard_time": 1762771339,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97533,
+      "num": 97533,
+      "word": "康宁汉姆45投14中轰46分",
+      "onboard_time": 1762852761,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 97441,
@@ -6531,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94358,
+      "num": 94358,
+      "word": "威廉王子称没对孩子隐瞒家中困难",
+      "onboard_time": 1762852222,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94313,
       "num": 94313,
       "word": "林高远回应4比2程靖淇",
@@ -6545,6 +6649,14 @@
       "onboard_time": 1762836681,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93716,
+      "num": 93716,
+      "word": "何穗产后身材",
+      "onboard_time": 1762851381,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 93585,
@@ -6601,6 +6713,14 @@
       "onboard_time": 1762831701,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92761,
+      "num": 92761,
+      "word": "红包分组",
+      "onboard_time": 1762852401,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 92682,
@@ -6913,6 +7033,22 @@
       "onboard_time": 1762762220,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 88742,
+      "num": 88742,
+      "word": "分手后的家vs分手前的家",
+      "onboard_time": 1762853361,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88741,
+      "num": 88741,
+      "word": "继母虐待12岁女孩致死维持死刑",
+      "onboard_time": 1762848441,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88681,
@@ -8691,6 +8827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 54692,
+      "num": 149813,
+      "word": "电竞选手发红包",
+      "onboard_time": 1762851981,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 54576,
       "num": 204791,
       "word": "双十一最后一波尾款",
@@ -8784,6 +8928,14 @@
       "word": "抖音双11终极省钱密码",
       "onboard_time": 1762837401,
       "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 51208,
+      "num": 144298,
+      "word": "双11最后一波买什么划算",
+      "onboard_time": 1762851860,
+      "rank": 29,
       "category": "互联网"
     },
     {
@@ -9139,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43192,
-      "num": 107168,
-      "word": "俄方宣布准备向印度转让核技术",
-      "onboard_time": 1762850601,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43172,
       "num": 89176,
       "word": "林高远全运会首秀",
@@ -9275,6 +9419,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 39402,
+      "num": 150195,
+      "word": "大湾鸡冰墩墩来自一个设计团队",
+      "onboard_time": 1762852941,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39059,
       "num": 217134,
       "word": "郭晶晶火炬手发文",
@@ -9372,7 +9524,7 @@
     },
     {
       "raw_hot": 35904,
-      "num": 310144,
+      "num": 435912,
       "word": "相约第十五届全运会",
       "onboard_time": 1762849701,
       "rank": 2,
@@ -9745,6 +9897,14 @@
       "onboard_time": 1762797676,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24759,
+      "num": 98740,
+      "word": "何穗怎么恢复的",
+      "onboard_time": 1762853361,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 24419,
