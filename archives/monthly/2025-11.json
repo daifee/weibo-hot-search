@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762854197035,
+  "endTime": 1762857082643,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1549091,
-      "num": 160556,
+      "num": 197973,
       "word": "何穗产后近照",
       "onboard_time": 1762848981,
       "rank": 20,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1230908,
-      "num": 180116,
+      "num": 197156,
       "word": "黄晓明带小海绵参加周岁宴",
       "onboard_time": 1762844420,
       "rank": 20,
@@ -1275,11 +1275,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829453,
+      "num": 1132712,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 828488,
       "num": 828488,
       "word": "人民网评人民咖啡馆不妥",
       "onboard_time": 1762525161,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 825495,
+      "num": 401194,
+      "word": "苏州交警致歉",
+      "onboard_time": 1762854501,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3627,6 +3643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 480624,
+      "num": 480624,
+      "word": "奶皮子蛋糕",
+      "onboard_time": 1762851981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 480550,
       "num": 1076888,
       "word": "向往的生活一家六口世纪同框",
@@ -3636,7 +3660,7 @@
     },
     {
       "raw_hot": 479831,
-      "num": 160515,
+      "num": 179917,
       "word": "王栎鑫吴雅婷一同为女儿庆生",
       "onboard_time": 1762847840,
       "rank": 22,
@@ -4827,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381860,
+      "num": 381860,
+      "word": "王者更改匹配机制",
+      "onboard_time": 1762854201,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 381435,
       "num": 248425,
       "word": "杨紫直播造型",
@@ -5329,6 +5361,14 @@
       "onboard_time": 1762477819,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351717,
+      "num": 351717,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 351514,
@@ -5868,7 +5908,7 @@
     },
     {
       "raw_hot": 322883,
-      "num": 147465,
+      "num": 193899,
       "word": "盗版刘亦菲杨幂baby",
       "onboard_time": 1762850361,
       "rank": 25,
@@ -7915,6 +7955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237946,
+      "num": 237946,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237697,
       "num": 237697,
       "word": "世上再无王权富贵",
@@ -8299,6 +8347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225512,
+      "num": 225512,
+      "word": "柯淳说现在已经被磨去了自信",
+      "onboard_time": 1762850242,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225467,
       "num": 189632,
       "word": "迪丽热巴18秒超强压迫感",
@@ -8401,6 +8457,14 @@
       "onboard_time": 1762252702,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222796,
+      "num": 222796,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 222640,
@@ -8592,6 +8656,14 @@
       "word": "KK园区2年扩大3倍",
       "onboard_time": 1762270639,
       "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219327,
+      "num": 219327,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 13,
       "category": "海外新闻"
     },
     {
@@ -8945,6 +9017,14 @@
       "onboard_time": 1762444821,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212036,
+      "num": 212036,
+      "word": "饶雪漫推荐钟丽丽入选星辰大海",
+      "onboard_time": 1762855220,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 211843,
@@ -9529,6 +9609,14 @@
       "onboard_time": 1762523302,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202654,
+      "num": 202654,
+      "word": "田曦薇不喜欢追求情绪稳定",
+      "onboard_time": 1762856480,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 202593,
@@ -12059,14 +12147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169287,
-      "num": 169287,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 169181,
       "num": 204143,
       "word": "银河左岸音乐节",
@@ -12219,14 +12299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167090,
-      "num": 192488,
-      "word": "奶皮子蛋糕",
-      "onboard_time": 1762851981,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 167022,
       "num": 167022,
       "word": "内娱开发演员王俊凯这事别停啊",
@@ -12241,6 +12313,14 @@
       "onboard_time": 1762487001,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166926,
+      "num": 166926,
+      "word": "奶皮子",
+      "onboard_time": 1762856841,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 166864,
@@ -13364,7 +13444,7 @@
     },
     {
       "raw_hot": 156676,
-      "num": 156676,
+      "num": 199472,
       "word": "陈艺文铜牌",
       "onboard_time": 1762853061,
       "rank": 26,
@@ -14153,6 +14233,14 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149915,
+      "num": 230550,
+      "word": "乐华娱乐3连跌",
+      "onboard_time": 1762854379,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 149688,
@@ -15001,6 +15089,14 @@
       "onboard_time": 1761985040,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143040,
+      "num": 143040,
+      "word": "倪虹洁发红包",
+      "onboard_time": 1762856000,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 143022,
@@ -16339,6 +16435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133870,
+      "num": 133870,
+      "word": "小米汽车挖孔机盖专利获授权",
+      "onboard_time": 1762856181,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133846,
       "num": 166684,
       "word": "陈添祥红毯压轴",
@@ -17403,6 +17507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127970,
+      "num": 127970,
+      "word": "邓恩熙红包",
+      "onboard_time": 1762855762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127784,
       "num": 127784,
       "word": "我承认我在电脑方面就是元谋人",
@@ -17657,6 +17769,14 @@
       "onboard_time": 1762415722,
       "rank": 23,
       "category": "数码,幽默"
+    },
+    {
+      "raw_hot": 126470,
+      "num": 126470,
+      "word": "穆祉丞影视音乐全面开花",
+      "onboard_time": 1762856240,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 126433,
@@ -18009,6 +18129,14 @@
       "onboard_time": 1762224320,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124742,
+      "num": 124742,
+      "word": "杨超越不愧是从鹅厂出道的",
+      "onboard_time": 1762856120,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 124717,
@@ -18449,6 +18577,14 @@
       "onboard_time": 1762503140,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122716,
+      "num": 122716,
+      "word": "iPhone新配件1299元起售",
+      "onboard_time": 1762856661,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 122707,
@@ -19057,6 +19193,14 @@
       "onboard_time": 1761953838,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119140,
+      "num": 126597,
+      "word": "谁教你这样用投影仪的",
+      "onboard_time": 1762855280,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 119038,
@@ -19747,6 +19891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115904,
+      "num": 115904,
+      "word": "许我耀眼庆功宴 卖货",
+      "onboard_time": 1762856900,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115886,
       "num": 115886,
       "word": "北京WBG对战Wolves",
@@ -20344,14 +20496,6 @@
       "word": "疯狂好六夜艺人集体出走",
       "onboard_time": 1762227321,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112798,
-      "num": 158229,
-      "word": "柯淳说现在已经被磨去了自信",
-      "onboard_time": 1762850242,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -21313,6 +21457,14 @@
       "onboard_time": 1762481180,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108485,
+      "num": 108485,
+      "word": "红包分组",
+      "onboard_time": 1762852401,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 108472,
@@ -25492,7 +25644,7 @@
     },
     {
       "raw_hot": 94358,
-      "num": 94358,
+      "num": 113471,
       "word": "威廉王子称没对孩子隐瞒家中困难",
       "onboard_time": 1762852222,
       "rank": 44,
@@ -25891,6 +26043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93210,
+      "num": 167129,
+      "word": "5年期定期存款库存告急",
+      "onboard_time": 1762856061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93176,
       "num": 247573,
       "word": "无限王者团VOGUE",
@@ -26065,14 +26225,6 @@
       "onboard_time": 1762135400,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92761,
-      "num": 92761,
-      "word": "红包分组",
-      "onboard_time": 1762852401,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 92716,
@@ -29673,6 +29825,14 @@
       "onboard_time": 1762491621,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81309,
+      "num": 168956,
+      "word": "中方将向菲人民提供紧急援助",
+      "onboard_time": 1762855521,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81268,
@@ -33923,6 +34083,14 @@
       "category": "国际时政,议题讨论"
     },
     {
+      "raw_hot": 56768,
+      "num": 117028,
+      "word": "谢娜你们帮我看看该挂谁呢",
+      "onboard_time": 1762855762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56614,
       "num": 124741,
       "word": "星巴克回应是否推出9.9元饮品",
@@ -34787,6 +34955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49252,
+      "num": 202323,
+      "word": "钎城帮大家清空购物车",
+      "onboard_time": 1762855401,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49180,
       "num": 97466,
       "word": "卢浮宫监控系统密码竟就是卢浮宫",
@@ -35489,6 +35665,14 @@
       "onboard_time": 1762782021,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43470,
+      "num": 125447,
+      "word": "孙颖莎登上人民日报客户端",
+      "onboard_time": 1762856962,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 43440,
@@ -38107,6 +38291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18257,
+      "num": 125793,
+      "word": "巴菲特谢幕信都说了什么",
+      "onboard_time": 1762856120,
+      "rank": 37,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 18214,
       "num": 27340,
       "word": "杨洋我的秋日男友",
@@ -38193,6 +38385,14 @@
       "onboard_time": 1762116793,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17728,
+      "num": 126066,
+      "word": "双十一数码博主买了什么",
+      "onboard_time": 1762856480,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 17726,

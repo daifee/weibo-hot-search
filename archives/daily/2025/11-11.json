@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762854197035,
+  "endTime": 1762857082643,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1549091,
-      "num": 160556,
+      "num": 197973,
       "word": "何穗产后近照",
       "onboard_time": 1762848981,
       "rank": 20,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1230908,
-      "num": 180116,
+      "num": 197156,
       "word": "黄晓明带小海绵参加周岁宴",
       "onboard_time": 1762844420,
       "rank": 20,
@@ -80,6 +80,22 @@
       "word": "故宫博物院发讣告",
       "onboard_time": 1762791260,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 829453,
+      "num": 1132712,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 825495,
+      "num": 401194,
+      "word": "苏州交警致歉",
+      "onboard_time": 1762854501,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -211,8 +227,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480624,
+      "num": 480624,
+      "word": "奶皮子蛋糕",
+      "onboard_time": 1762851981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 479831,
-      "num": 160515,
+      "num": 179917,
       "word": "王栎鑫吴雅婷一同为女儿庆生",
       "onboard_time": 1762847840,
       "rank": 22,
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381860,
+      "num": 381860,
+      "word": "王者更改匹配机制",
+      "onboard_time": 1762854201,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 362001,
       "num": 188799,
       "word": "短剧还珠小燕子回应眼睛不够大",
@@ -289,6 +321,14 @@
       "onboard_time": 1762839680,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351717,
+      "num": 351717,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 340050,
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 322883,
-      "num": 147465,
+      "num": 193899,
       "word": "盗版刘亦菲杨幂baby",
       "onboard_time": 1762850361,
       "rank": 25,
@@ -483,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237946,
+      "num": 237946,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234370,
       "num": 133545,
       "word": "男孩矫正基地被虐28天致半残疾",
@@ -507,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225512,
+      "num": 225512,
+      "word": "柯淳说现在已经被磨去了自信",
+      "onboard_time": 1762850242,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223819,
       "num": 223819,
       "word": "歼20空空导弹发射瞬间气场拉满",
       "onboard_time": 1762837221,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 222796,
+      "num": 222796,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 222580,
@@ -547,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219327,
+      "num": 219327,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216943,
       "num": 216943,
       "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
@@ -571,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212036,
+      "num": 212036,
+      "word": "饶雪漫推荐钟丽丽入选星辰大海",
+      "onboard_time": 1762855220,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208870,
       "num": 185532,
       "word": "辛龙谈刘真去世",
@@ -593,6 +673,14 @@
       "onboard_time": 1762826901,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202654,
+      "num": 202654,
+      "word": "田曦薇不喜欢追求情绪稳定",
+      "onboard_time": 1762856480,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 200470,
@@ -739,19 +827,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169287,
-      "num": 169287,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 167090,
-      "num": 192488,
-      "word": "奶皮子蛋糕",
-      "onboard_time": 1762851981,
-      "rank": 9,
+      "raw_hot": 166926,
+      "num": 166926,
+      "word": "奶皮子",
+      "onboard_time": 1762856841,
+      "rank": 30,
       "category": "美食"
     },
     {
@@ -812,7 +892,7 @@
     },
     {
       "raw_hot": 156676,
-      "num": 156676,
+      "num": 199472,
       "word": "陈艺文铜牌",
       "onboard_time": 1762853061,
       "rank": 26,
@@ -857,6 +937,14 @@
       "onboard_time": 1762782682,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149915,
+      "num": 230550,
+      "word": "乐华娱乐3连跌",
+      "onboard_time": 1762854379,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 148938,
@@ -920,6 +1008,14 @@
       "word": "仲代达矢去世",
       "onboard_time": 1762832781,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143040,
+      "num": 143040,
+      "word": "倪虹洁发红包",
+      "onboard_time": 1762856000,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1051,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133870,
+      "num": 133870,
+      "word": "小米汽车挖孔机盖专利获授权",
+      "onboard_time": 1762856181,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133755,
       "num": 146407,
       "word": "对不起新版还珠我真香了",
@@ -1139,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127970,
+      "num": 127970,
+      "word": "邓恩熙红包",
+      "onboard_time": 1762855762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127728,
       "num": 104460,
       "word": "好想来回应门店称3岁娃偷千元商品",
@@ -1155,12 +1267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127350,
+      "num": 187101,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762856602,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "布瑞吉vs布瑞吉",
       "onboard_time": 1762849461,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126470,
+      "num": 126470,
+      "word": "穆祉丞影视音乐全面开花",
+      "onboard_time": 1762856240,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 126067,
@@ -1203,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124742,
+      "num": 124742,
+      "word": "杨超越不愧是从鹅厂出道的",
+      "onboard_time": 1762856120,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124697,
       "num": 163974,
       "word": "陈伟霆再现妍妍接电话",
@@ -1235,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122716,
+      "num": 122716,
+      "word": "iPhone新配件1299元起售",
+      "onboard_time": 1762856661,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121032,
       "num": 121032,
       "word": "妻子新婚和情夫出逃被抓现行",
@@ -1265,6 +1409,14 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 119140,
+      "num": 126597,
+      "word": "谁教你这样用投影仪的",
+      "onboard_time": 1762855280,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 117947,
@@ -1307,6 +1459,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 115904,
+      "num": 115904,
+      "word": "许我耀眼庆功宴 卖货",
+      "onboard_time": 1762856900,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115772,
       "num": 115772,
       "word": "怀疑妈妈以前是干小说租赁的",
@@ -1337,14 +1497,6 @@
       "onboard_time": 1762852641,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112798,
-      "num": 158229,
-      "word": "柯淳说现在已经被磨去了自信",
-      "onboard_time": 1762850242,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 112586,
@@ -1401,6 +1553,14 @@
       "onboard_time": 1762836261,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108485,
+      "num": 108485,
+      "word": "红包分组",
+      "onboard_time": 1762852401,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 108241,
@@ -1724,7 +1884,7 @@
     },
     {
       "raw_hot": 94358,
-      "num": 94358,
+      "num": 113471,
       "word": "威廉王子称没对孩子隐瞒家中困难",
       "onboard_time": 1762852222,
       "rank": 44,
@@ -1763,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93210,
+      "num": 167129,
+      "word": "5年期定期存款库存告急",
+      "onboard_time": 1762856061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92840,
       "num": 92840,
       "word": "别让爱豆跳这些",
@@ -1777,14 +1945,6 @@
       "onboard_time": 1762831701,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92761,
-      "num": 92761,
-      "word": "红包分组",
-      "onboard_time": 1762852401,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 92418,
@@ -2041,6 +2201,14 @@
       "onboard_time": 1762822520,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81309,
+      "num": 168956,
+      "word": "中方将向菲人民提供紧急援助",
+      "onboard_time": 1762855521,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81060,
@@ -2451,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56768,
+      "num": 117028,
+      "word": "谢娜你们帮我看看该挂谁呢",
+      "onboard_time": 1762855762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55975,
       "num": 198997,
       "word": "每小时送一个1111元",
@@ -2531,6 +2707,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 49252,
+      "num": 202323,
+      "word": "钎城帮大家清空购物车",
+      "onboard_time": 1762855401,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48283,
       "num": 49549,
       "word": "血糖控制不好会让眼睛受伤",
@@ -2585,6 +2769,14 @@
       "onboard_time": 1762831340,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43470,
+      "num": 125447,
+      "word": "孙颖莎登上人民日报客户端",
+      "onboard_time": 1762856962,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 43332,
@@ -2809,6 +3001,22 @@
       "onboard_time": 1762779501,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18257,
+      "num": 125793,
+      "word": "巴菲特谢幕信都说了什么",
+      "onboard_time": 1762856120,
+      "rank": 37,
+      "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 17728,
+      "num": 126066,
+      "word": "双十一数码博主买了什么",
+      "onboard_time": 1762856480,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 17612,
