@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762899958052,
+  "endTime": 1762900922683,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -67,12 +67,28 @@
       "category": "剧集,游戏"
     },
     {
+      "raw_hot": 186631,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 170851,
       "num": 170851,
       "word": "奶皮子酸奶",
       "onboard_time": 1762869801,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162118,
+      "num": 111146,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 160265,
@@ -91,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157414,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155682,
       "num": 116831,
       "word": "余华你知道你这句话救了多少人吗",
       "onboard_time": 1762870583,
       "rank": 13,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 140651,
-      "num": 111146,
-      "word": "经济学家不建议大家提前还贷",
-      "onboard_time": 1762874002,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 134513,
@@ -131,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130933,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 122532,
       "num": 122532,
       "word": "乒乓球男单前8号种子出局一半",
@@ -161,14 +169,6 @@
       "onboard_time": 1762870642,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111472,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 110698,
@@ -201,6 +201,14 @@
       "onboard_time": 1762870583,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90233,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88479,
@@ -267,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73606,
+      "num": 105104,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71709,
       "num": 105334,
       "word": "爸爸年轻时候埋下的一颗人参",
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63516,
+      "num": 86096,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62994,
       "num": 105246,
       "word": "罗云熙认为自己没有综艺效果",
@@ -321,14 +345,6 @@
       "onboard_time": 1762860142,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 60358,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59066,
@@ -353,14 +369,6 @@
       "onboard_time": 1762877361,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58248,
-      "num": 105104,
-      "word": "特朗普回应高市早苗涉台错误言论",
-      "onboard_time": 1762870462,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57612,
@@ -403,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46613,
-      "num": 86096,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 44955,
       "num": 105057,
       "word": "叶诗文创亚洲纪录时于子迪还未出生",
@@ -451,6 +451,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 26466,
+      "num": 28286,
+      "word": "减肥 和家族基因做对抗",
+      "onboard_time": 1762895894,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25724,
       "num": 61500,
       "word": "唐朝诡事录 成佛寺的哭声",
@@ -467,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22210,
-      "num": 22210,
-      "word": "减肥 和家族基因做对抗",
-      "onboard_time": 1762895894,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 19578,
       "num": 42923,
       "word": "陈伟霆晒庆功宴合照",
       "onboard_time": 1762883476,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17349,
+      "num": 28285,
+      "word": "田曦薇体制内女友风",
+      "onboard_time": 1762884435,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 16889,
@@ -491,32 +499,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13867,
-      "num": 22244,
-      "word": "田曦薇体制内女友风",
-      "onboard_time": 1762884435,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 12596,
-      "num": 22203,
-      "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
-      "onboard_time": 1762896914,
-      "rank": 47,
-      "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 11981,
-      "num": 22203,
+      "raw_hot": 15346,
+      "num": 28284,
       "word": "丁禹兮山河枕卫视收视第一",
       "onboard_time": 1762899075,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 11873,
-      "num": 22201,
+      "raw_hot": 15218,
+      "num": 28284,
+      "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
+      "onboard_time": 1762896914,
+      "rank": 47,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 14925,
+      "num": 28284,
       "word": "最后一波囤衣服该安排上了",
       "onboard_time": 1762863861,
       "rank": 49,

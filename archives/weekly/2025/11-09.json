@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762899958052,
+  "endTime": 1762900922683,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -3371,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186631,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 186286,
       "num": 186286,
       "word": "时代少年团好六夜红毯",
@@ -3923,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162118,
+      "num": 140684,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161970,
       "num": 295486,
       "word": "王鹤棣孟子义一开口我就想笑",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1762865540,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157414,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 157310,
@@ -4353,14 +4377,6 @@
       "onboard_time": 1762657339,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148525,
-      "num": 140684,
-      "word": "经济学家不建议大家提前还贷",
-      "onboard_time": 1762874002,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 148436,
@@ -5057,14 +5073,6 @@
       "onboard_time": 1762858161,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130933,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 130316,
@@ -6169,14 +6177,6 @@
       "onboard_time": 1762669160,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111472,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 111419,
@@ -7905,6 +7905,14 @@
       "onboard_time": 1762853961,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90233,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90173,
@@ -9819,14 +9827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 60358,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60050,
       "num": 98508,
       "word": "抖音将整治茅台低价销售",
@@ -11291,6 +11291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 26466,
+      "num": 28286,
+      "word": "减肥 和家族基因做对抗",
+      "onboard_time": 1762895894,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26167,
       "num": 115816,
       "word": "医保卡变购物卡引发关注",
@@ -11409,14 +11417,6 @@
       "onboard_time": 1762859900,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22210,
-      "num": 22210,
-      "word": "减肥 和家族基因做对抗",
-      "onboard_time": 1762895894,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 22161,
@@ -11563,6 +11563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17349,
+      "num": 28285,
+      "word": "田曦薇体制内女友风",
+      "onboard_time": 1762884435,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17289,
       "num": 106300,
       "word": "卸货时误操作16筐鸡蛋瞬间摔碎",
@@ -11603,6 +11611,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15346,
+      "num": 28284,
+      "word": "丁禹兮山河枕卫视收视第一",
+      "onboard_time": 1762899075,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15218,
+      "num": 28284,
+      "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
+      "onboard_time": 1762896914,
+      "rank": 47,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 15032,
       "num": 29480,
       "word": "白鹿奔跑吧路透",
@@ -11625,14 +11649,6 @@
       "onboard_time": 1762610842,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13867,
-      "num": 22244,
-      "word": "田曦薇体制内女友风",
-      "onboard_time": 1762884435,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 13836,
@@ -11673,22 +11689,6 @@
       "onboard_time": 1762723513,
       "rank": 49,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 12596,
-      "num": 22203,
-      "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
-      "onboard_time": 1762896914,
-      "rank": 47,
-      "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 11981,
-      "num": 22203,
-      "word": "丁禹兮山河枕卫视收视第一",
-      "onboard_time": 1762899075,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 11630,
