@@ -1,0 +1,410 @@
+{
+  "runTime": 1762850946036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2169706,
+        "num": 2169706,
+        "word": "陈可辛出车祸",
+        "onboard_time": 1762848321,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356804,
+        "num": 356804,
+        "word": "律师银行取4万元遭盘问报警",
+        "onboard_time": 1762846939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35904,
+        "num": 310144,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837431,
+        "num": 301618,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291622,
+        "num": 291622,
+        "word": "威廉王子不准孩子用手机",
+        "onboard_time": 1762846280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281833,
+        "num": 281833,
+        "word": "怀孕超35周孕妇登机后被劝下飞机",
+        "onboard_time": 1762832961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336142,
+        "num": 270296,
+        "word": "陈可辛驾车为躲避狗撞上人行道",
+        "onboard_time": 1762848621,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256167,
+        "num": 256167,
+        "word": "德军司令称柏林已做好开战准备",
+        "onboard_time": 1762842800,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164408,
+        "num": 164408,
+        "word": "Faker说Uzi是LPL最佳选手",
+        "onboard_time": 1762835120,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100239,
+        "num": 163199,
+        "word": "陈梦回应4比0孙铭阳",
+        "onboard_time": 1762841302,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27054,
+        "num": 161927,
+        "word": "转发花海微博抓小猫",
+        "onboard_time": 1762849220,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363950,
+        "num": 160513,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271279,
+        "num": 159880,
+        "word": "有人卖奶茶袋子赚了上千元",
+        "onboard_time": 1762843640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231238,
+        "num": 158769,
+        "word": "井柏然刘雯 商务共享",
+        "onboard_time": 1762846460,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20166,
+        "num": 157108,
+        "word": "接心动礼遇季锦鲤好运",
+        "onboard_time": 1762848621,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217493,
+        "num": 156231,
+        "word": "侯明昊仇人看到都释怀了",
+        "onboard_time": 1762844000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206763,
+        "num": 154281,
+        "word": "唐诡3又来一位美女马凡丁",
+        "onboard_time": 1762850061,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196553,
+        "num": 153545,
+        "word": "为什么要把葱花当天使用",
+        "onboard_time": 1762847363,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192987,
+        "num": 152615,
+        "word": "新音 三亚",
+        "onboard_time": 1762849280,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121764,
+        "num": 150666,
+        "word": "彭小苒连发100个问号",
+        "onboard_time": 1762837462,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1549091,
+        "num": 149153,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662910,
+        "num": 148670,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416260,
+        "num": 146179,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178589,
+        "num": 145011,
+        "word": "大学时期的刘亦菲",
+        "onboard_time": 1762848800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144868,
+        "num": 144868,
+        "word": "TFBOYS又有新站子了",
+        "onboard_time": 1762849824,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139803,
+        "num": 139803,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125795,
+        "num": 125795,
+        "word": "何润东林姵希结婚9年了",
+        "onboard_time": 1762844779,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114101,
+        "num": 120267,
+        "word": "金饰克价涨破1300元",
+        "onboard_time": 1762841901,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50995,
+        "num": 119310,
+        "word": "双十一就是买完你的买你的",
+        "onboard_time": 1762848380,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87667,
+        "num": 119295,
+        "word": "陈芋汐谈洛杉矶奥运会",
+        "onboard_time": 1762850061,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119294,
+        "num": 119294,
+        "word": "Faker认领LOL第一人",
+        "onboard_time": 1762848860,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 118393,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114312,
+        "num": 114312,
+        "word": "不爱吃苹果的人有救了",
+        "onboard_time": 1762835661,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 113032,
+        "num": 113032,
+        "word": "朱珠跳舞",
+        "onboard_time": 1762846521,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108342,
+        "num": 108342,
+        "word": "警方通报编剧秦雯自称袭警捞人",
+        "onboard_time": 1762824619,
+        "rank": 34,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 107624,
+        "num": 107624,
+        "word": "女子在建行存款近30年却无法取出",
+        "onboard_time": 1762850300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77562,
+        "num": 107311,
+        "word": "王曼昱说分分钟就有可能输掉比赛",
+        "onboard_time": 1762849041,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87451,
+        "num": 107197,
+        "word": "张峻豪回应录节目接不上话",
+        "onboard_time": 1762850422,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43192,
+        "num": 107168,
+        "word": "俄方宣布准备向印度转让核技术",
+        "onboard_time": 1762850601,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107140,
+        "num": 107140,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105415,
+        "num": 105415,
+        "word": "唐诡编剧这是吃了多少历史书",
+        "onboard_time": 1762850781,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103035,
+        "num": 103035,
+        "word": "迪丽热巴从九月份就开始不舒服了",
+        "onboard_time": 1762817779,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 102859,
+        "word": "赵丽娜红包",
+        "onboard_time": 1762845199,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102722,
+        "num": 102722,
+        "word": "语文真的是滞后性很强的一门学科",
+        "onboard_time": 1762833141,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23894,
+        "num": 102363,
+        "word": "摇滚大湾鸡整活名场面",
+        "onboard_time": 1762848920,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102119,
+        "num": 102119,
+        "word": "怀疑妈妈以前是干小说租赁的",
+        "onboard_time": 1762848321,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93333,
+        "num": 93333,
+        "word": "龚俊把计算机拿出来都没算明白",
+        "onboard_time": 1762850720,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92746,
+        "num": 92746,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1762839680,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86312,
+        "num": 86312,
+        "word": "东北2元买到的巨型炸串",
+        "onboard_time": 1762847480,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 69883,
+        "num": 85609,
+        "word": "大湾鸡 不愧是广美",
+        "onboard_time": 1762850843,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

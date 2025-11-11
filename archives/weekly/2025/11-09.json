@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762850122823,
+  "endTime": 1762850946036,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -81,6 +81,14 @@
       "onboard_time": 1762703541,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1549091,
+      "num": 160556,
+      "word": "何穗产后近照",
+      "onboard_time": 1762848981,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1482571,
@@ -264,14 +272,6 @@
       "word": "李连杰状态",
       "onboard_time": 1762657519,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 888219,
-      "num": 160556,
-      "word": "何穗产后近照",
-      "onboard_time": 1762848981,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1403,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356804,
+      "num": 356804,
+      "word": "律师银行取4万元遭盘问报警",
+      "onboard_time": 1762846939,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353801,
       "num": 353801,
       "word": "喜人奇妙夜",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1762743800,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336142,
+      "num": 270296,
+      "word": "陈可辛驾车为躲避狗撞上人行道",
+      "onboard_time": 1762848621,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 335927,
@@ -1747,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291622,
+      "num": 291622,
+      "word": "威廉王子不准孩子用手机",
+      "onboard_time": 1762846280,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 291108,
       "num": 291108,
       "word": "T1的BP",
@@ -1817,14 +1841,6 @@
       "onboard_time": 1762615521,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285937,
-      "num": 285937,
-      "word": "威廉王子不准孩子用手机",
-      "onboard_time": 1762846280,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 284622,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1762778841,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254454,
-      "num": 254454,
-      "word": "律师银行取4万元遭盘问报警",
-      "onboard_time": 1762846939,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253796,
@@ -2547,6 +2555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 206763,
+      "num": 154281,
+      "word": "唐诡3又来一位美女马凡丁",
+      "onboard_time": 1762850061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205972,
       "num": 205972,
       "word": "何瑞贤收拾收拾准备升咖",
@@ -2747,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196553,
+      "num": 178346,
+      "word": "为什么要把葱花当天使用",
+      "onboard_time": 1762847363,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196408,
       "num": 191613,
       "word": "吴磊说好好对她好吗",
@@ -2793,14 +2817,6 @@
       "onboard_time": 1762849280,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194072,
-      "num": 194072,
-      "word": "陈可辛驾车为躲避狗撞上人行道",
-      "onboard_time": 1762848621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 194012,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 178346,
-      "num": 178346,
-      "word": "为什么要把葱花当天使用",
-      "onboard_time": 1762847363,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 177335,
@@ -3891,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144868,
+      "num": 144868,
+      "word": "TFBOYS又有新站子了",
+      "onboard_time": 1762849824,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144823,
       "num": 208949,
       "word": "ale谈Uzi",
@@ -4089,6 +4105,14 @@
       "onboard_time": 1762761079,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139803,
+      "num": 139803,
+      "word": "盗版刘亦菲杨幂baby",
+      "onboard_time": 1762850361,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 139344,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1762693222,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132373,
+      "num": 118393,
+      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+      "onboard_time": 1762849220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 132095,
@@ -5459,6 +5491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107624,
+      "num": 107624,
+      "word": "女子在建行存款近30年却无法取出",
+      "onboard_time": 1762850300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107376,
       "num": 107376,
       "word": "国家一级演员的肌肉线条有多绝",
@@ -5491,12 +5531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107146,
-      "num": 107146,
-      "word": "唐诡3又来一位美女马凡丁",
-      "onboard_time": 1762850061,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 107140,
+      "num": 107140,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 107120,
@@ -5643,6 +5683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105415,
+      "num": 105415,
+      "word": "唐诡编剧这是吃了多少历史书",
+      "onboard_time": 1762850781,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105402,
       "num": 126732,
       "word": "海昏侯墓发现秦汉时期全本诗经",
@@ -5769,14 +5817,6 @@
       "onboard_time": 1762754300,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103845,
-      "num": 114698,
-      "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
-      "onboard_time": 1762849220,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103809,
@@ -6025,14 +6065,6 @@
       "onboard_time": 1762615521,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100866,
-      "num": 114530,
-      "word": "TFBOYS又有新站子了",
-      "onboard_time": 1762849824,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 100830,
@@ -6531,6 +6563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93333,
+      "num": 93333,
+      "word": "龚俊把计算机拿出来都没算明白",
+      "onboard_time": 1762850720,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93056,
       "num": 129935,
       "word": "十五运开幕后首金",
@@ -6971,6 +7011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87667,
+      "num": 119295,
+      "word": "陈芋汐谈洛杉矶奥运会",
+      "onboard_time": 1762850061,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87666,
       "num": 87666,
       "word": "官方通报婚车遭拦截被索要50条香烟",
@@ -6993,6 +7041,14 @@
       "onboard_time": 1762827380,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87451,
+      "num": 107197,
+      "word": "张峻豪回应录节目接不上话",
+      "onboard_time": 1762850422,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 87318,
@@ -7089,6 +7145,14 @@
       "onboard_time": 1762675160,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86312,
+      "num": 86312,
+      "word": "东北2元买到的巨型炸串",
+      "onboard_time": 1762847480,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 86216,
@@ -7547,14 +7611,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 77547,
-      "num": 99084,
-      "word": "陈芋汐谈洛杉矶奥运会",
-      "onboard_time": 1762850061,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77527,
       "num": 77527,
       "word": "欧洲多国紧急往乌克兰送旧渔网",
@@ -7985,6 +8041,14 @@
       "onboard_time": 1762757180,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69883,
+      "num": 85609,
+      "word": "大湾鸡 不愧是广美",
+      "onboard_time": 1762850843,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69631,
@@ -9075,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43192,
+      "num": 107168,
+      "word": "俄方宣布准备向印度转让核技术",
+      "onboard_time": 1762850601,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43172,
       "num": 89176,
       "word": "林高远全运会首秀",
@@ -9299,6 +9371,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 35904,
+      "num": 310144,
+      "word": "相约第十五届全运会",
+      "onboard_time": 1762849701,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35833,
       "num": 49538,
       "word": "海岛求生35天暴瘦28斤获7500元",
@@ -9425,14 +9505,6 @@
       "onboard_time": 1762817898,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31078,
-      "num": 296650,
-      "word": "相约第十五届全运会",
-      "onboard_time": 1762849701,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 31057,
@@ -9643,20 +9715,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27054,
+      "num": 249239,
+      "word": "转发花海微博抓小猫",
+      "onboard_time": 1762849220,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27031,
       "num": 115953,
       "word": "广东启动防风四级应急响应",
       "onboard_time": 1762770320,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 26550,
-      "num": 249239,
-      "word": "转发花海微博抓小猫",
-      "onboard_time": 1762849220,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 26167,
