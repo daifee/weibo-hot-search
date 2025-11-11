@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762879762257,
+  "endTime": 1762881900108,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -30947,6 +30947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80182,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80118,
       "num": 80118,
       "word": "南京一小区多只猫惨遭男子虐杀",
@@ -38491,6 +38499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28386,
+      "num": 64852,
+      "word": "人民空军成立七十六周年",
+      "onboard_time": 1762881136,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 28174,
       "num": 162095,
       "word": "登陆少年青春故事大揭秘",
@@ -38601,6 +38617,14 @@
       "onboard_time": 1762516881,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27229,
+      "num": 64776,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27173,
@@ -38857,6 +38881,14 @@
       "onboard_time": 1762375213,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25286,
+      "num": 64764,
+      "word": "王一博宣传环保VCR",
+      "onboard_time": 1762881856,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 25069,
