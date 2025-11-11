@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762832117696,
+  "endTime": 1762835563602,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -17,6 +17,14 @@
       "onboard_time": 1762824619,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 964005,
+      "num": 1154240,
+      "word": "怀孕超35周孕妇登机后被劝下飞机",
+      "onboard_time": 1762832961,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 841229,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 514705,
-      "num": 305764,
+      "num": 389507,
       "word": "秦雯编造袭警捞人情节为显示人脉",
       "onboard_time": 1762827980,
       "rank": 3,
@@ -107,8 +115,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453755,
+      "num": 195460,
+      "word": "许我耀眼庆功宴",
+      "onboard_time": 1762833501,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392394,
-      "num": 187784,
+      "num": 195084,
       "word": "再见爱人梁淞害怕四胎考虑结扎",
       "onboard_time": 1762829240,
       "rank": 11,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329088,
+      "num": 212138,
+      "word": "05后都开始上恋综了",
+      "onboard_time": 1762832781,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310132,
       "num": 310132,
       "word": "汉堡王中国也被卖了",
@@ -180,11 +204,19 @@
     },
     {
       "raw_hot": 284622,
-      "num": 111473,
+      "num": 144106,
       "word": "公司招聘了一个06年的小女孩",
       "onboard_time": 1762830680,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 276405,
+      "num": 131720,
+      "word": "迪丽热巴仅有一名助理",
+      "onboard_time": 1762833921,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 246633,
@@ -225,6 +257,14 @@
       "onboard_time": 1762778661,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220759,
+      "num": 220759,
+      "word": "光遇",
+      "onboard_time": 1762834221,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 220036,
@@ -273,6 +313,22 @@
       "onboard_time": 1762823721,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197801,
+      "num": 197801,
+      "word": "维金斯扣篮绝杀",
+      "onboard_time": 1762835423,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194226,
+      "num": 194226,
+      "word": "假如你的室友是个美食博主",
+      "onboard_time": 1762834341,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 190248,
@@ -331,12 +387,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169150,
+      "num": 169150,
+      "word": "语文真的是滞后性很强的一门学科",
+      "onboard_time": 1762833141,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166890,
+      "num": 128813,
+      "word": "Faker说Uzi是LPL最佳选手",
+      "onboard_time": 1762835120,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166854,
       "num": 166854,
       "word": "岳雨婷cp",
       "onboard_time": 1762826600,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161787,
+      "num": 161787,
+      "word": "苹果酸奶夹",
+      "onboard_time": 1762832058,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 158771,
@@ -403,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143303,
+      "num": 143303,
+      "word": "仲代达矢去世",
+      "onboard_time": 1762832781,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142042,
       "num": 142042,
       "word": "双十一",
       "onboard_time": 1762817059,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139531,
+      "num": 139531,
+      "word": "唐诡3第二案断更点是要我命吗",
+      "onboard_time": 1762835362,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 138644,
@@ -459,6 +555,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 131306,
+      "num": 131306,
+      "word": "双11真的到了还是得上淘宝",
+      "onboard_time": 1762834162,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 128936,
+      "num": 128936,
+      "word": "起猛了外面科技发展成这样了",
+      "onboard_time": 1762835120,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128720,
       "num": 128720,
       "word": "谁去把宋亚轩上嘴唇的亮片摘了",
@@ -473,6 +585,22 @@
       "onboard_time": 1762826960,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127463,
+      "num": 127463,
+      "word": "终于有不把观众当瞎子的变装了",
+      "onboard_time": 1762833200,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125463,
+      "num": 125463,
+      "word": "原来看动画片看哭是真的",
+      "onboard_time": 1762833260,
+      "rank": 33,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 124697,
@@ -499,6 +627,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122993,
+      "num": 122993,
+      "word": "小猫被法院开庭审理",
+      "onboard_time": 1762833021,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121325,
+      "num": 121325,
+      "word": "暴走团香港徒步",
+      "onboard_time": 1762834281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121032,
+      "num": 121032,
+      "word": "妻子新婚和情夫出逃被抓现行",
+      "onboard_time": 1762831940,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119548,
       "num": 136512,
       "word": "王鹤棣孟子义一开口我就想笑",
@@ -515,6 +667,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 116329,
+      "num": 116329,
+      "word": "Gumayusi称名人堂再选烬皮肤",
+      "onboard_time": 1762835302,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116312,
       "num": 116312,
       "word": "湖人vs黄蜂",
@@ -523,12 +683,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113918,
+      "num": 113918,
+      "word": "马龙全运会上训",
+      "onboard_time": 1762832961,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109167,
+      "num": 109167,
+      "word": "周洁琼演技",
+      "onboard_time": 1762835182,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108109,
       "num": 135035,
       "word": "央美学生被指抄袭还获一等奖学金",
       "onboard_time": 1762780822,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107357,
+      "num": 107357,
+      "word": "古力娜扎要不咱先忍一忍",
+      "onboard_time": 1762834581,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 107219,
@@ -553,6 +737,38 @@
       "onboard_time": 1762793419,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106286,
+      "num": 131740,
+      "word": "工作人员称赤裸小孩父母过度宠溺",
+      "onboard_time": 1762833979,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102977,
+      "num": 102977,
+      "word": "导演亲自辟谣汪铎确实是演的",
+      "onboard_time": 1762835302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102834,
+      "num": 102834,
+      "word": "湖人121比111战胜黄蜂",
+      "onboard_time": 1762834520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101622,
+      "num": 101622,
+      "word": "光遇复刻",
+      "onboard_time": 1762834401,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 100936,
@@ -601,6 +817,14 @@
       "onboard_time": 1762824619,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99919,
+      "num": 99919,
+      "word": "徐梦洁就这样穿着校服出现了",
+      "onboard_time": 1762835001,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 99008,
@@ -659,14 +883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 91336,
-      "num": 91336,
-      "word": "妻子新婚和情夫出逃被抓现行",
-      "onboard_time": 1762831940,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90099,
       "num": 90099,
       "word": "男生错付车费自杀案家属再发声",
@@ -721,6 +937,14 @@
       "onboard_time": 1762827380,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87512,
+      "num": 115152,
+      "word": "何炅 英子你是我的劫",
+      "onboard_time": 1762834941,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 87040,
@@ -875,14 +1099,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 76609,
-      "num": 76609,
-      "word": "苹果酸奶夹",
-      "onboard_time": 1762832058,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 76529,
       "num": 76529,
       "word": "谁啊这位置有咪了",
@@ -956,7 +1172,7 @@
     },
     {
       "raw_hot": 67777,
-      "num": 330155,
+      "num": 340333,
       "word": "第十五届全运会",
       "onboard_time": 1762830199,
       "rank": 2,
@@ -1057,6 +1273,14 @@
       "onboard_time": 1762785684,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55391,
+      "num": 172507,
+      "word": "22轮红包我抢抢抢",
+      "onboard_time": 1762833624,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 53191,
@@ -1225,6 +1449,22 @@
       "onboard_time": 1762791919,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29797,
+      "num": 195870,
+      "word": "什么才是好的家庭教育呢",
+      "onboard_time": 1762835063,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29651,
+      "num": 148094,
+      "word": "我在汤达人元气音乐节吃饱了",
+      "onboard_time": 1762834162,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 29643,
