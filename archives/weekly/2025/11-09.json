@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762881900108,
+  "endTime": 1762882934726,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -8467,6 +8467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83440,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83360,
       "num": 83360,
       "word": "丞磊 英伦王子",
@@ -8665,14 +8673,6 @@
       "onboard_time": 1762753639,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80182,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 80118,
@@ -9713,6 +9713,14 @@
       "onboard_time": 1762761921,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 61812,
+      "num": 64776,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61792,
@@ -11235,14 +11243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27229,
-      "num": 64776,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27223,
       "num": 42890,
       "word": "周深风车造型",
@@ -11289,6 +11289,14 @@
       "onboard_time": 1762853840,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25724,
+      "num": 61500,
+      "word": "唐朝诡事录 成佛寺的哭声",
+      "onboard_time": 1762882156,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 25543,
@@ -11360,6 +11368,14 @@
       "word": "中国船舶与特殊军迷的梦幻联动",
       "onboard_time": 1762777220,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23337,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
       "category": "民生新闻"
     },
     {

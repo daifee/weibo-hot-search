@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762881900108,
+  "endTime": 1762882934726,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -203,20 +203,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83440,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81519,
       "num": 105373,
       "word": "西安8岁女孩冬天穿拖鞋流浪",
       "onboard_time": 1762874781,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80182,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 79382,
@@ -305,6 +305,14 @@
       "onboard_time": 1762860142,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 61812,
+      "num": 64776,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59066,
@@ -427,12 +435,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 27229,
-      "num": 64776,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 25724,
+      "num": 61500,
+      "word": "唐朝诡事录 成佛寺的哭声",
+      "onboard_time": 1762882156,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 25286,
@@ -441,6 +449,14 @@
       "onboard_time": 1762881856,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23337,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3152,
@@ -454,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记海南广东之行纪实#"
+    },
+    {
+      "word": "#总书记心系体育强国梦#"
     }
   ]
 }
