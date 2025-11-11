@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762838898347,
+  "endTime": 1762839804918,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -49,6 +49,14 @@
       "onboard_time": 1762822941,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693895,
+      "num": 170840,
+      "word": "彭小苒连发100个问号",
+      "onboard_time": 1762837462,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 645057,
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452581,
+      "num": 452581,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1762835661,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439013,
       "num": 439013,
       "word": "05后都开始上恋综了",
       "onboard_time": 1762832781,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434806,
-      "num": 434806,
-      "word": "陈梦vs孙铭阳",
-      "onboard_time": 1762835661,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 392394,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 346190,
-      "num": 170840,
-      "word": "彭小苒连发100个问号",
-      "onboard_time": 1762837462,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340050,
       "num": 340050,
       "word": "周京泽人设",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 332205,
-      "num": 211995,
+      "num": 213378,
       "word": "唐诡3第二案断更点是要我命吗",
       "onboard_time": 1762835362,
       "rank": 24,
@@ -259,8 +259,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248742,
-      "num": 180132,
+      "raw_hot": 277726,
+      "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
       "onboard_time": 1762835120,
       "rank": 30,
@@ -275,20 +275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240097,
+      "num": 207289,
+      "word": "易烊千玺 一切有迹可循",
+      "onboard_time": 1762836142,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239923,
       "num": 185831,
       "word": "董璇曝小酒窝请假理由",
       "onboard_time": 1762827019,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238906,
-      "num": 207289,
-      "word": "易烊千玺 一切有迹可循",
-      "onboard_time": 1762836142,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 234370,
@@ -369,6 +369,14 @@
       "onboard_time": 1762826901,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201204,
+      "num": 170021,
+      "word": "歼20空空导弹发射瞬间气场拉满",
+      "onboard_time": 1762837221,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199334,
@@ -459,15 +467,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177883,
-      "num": 170021,
-      "word": "歼20空空导弹发射瞬间气场拉满",
-      "onboard_time": 1762837221,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 173842,
+      "raw_hot": 175933,
       "num": 169968,
       "word": "老默不得了了大嫂都敢追",
       "onboard_time": 1762837521,
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170315,
+      "num": 157165,
+      "word": "王鹤棣这是喝了多少",
+      "onboard_time": 1762835720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166854,
       "num": 166854,
       "word": "岳雨婷cp",
       "onboard_time": 1762826600,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162160,
+      "num": 162160,
+      "word": "陈梦4比0胜孙铭阳",
+      "onboard_time": 1762838659,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161787,
@@ -499,20 +515,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160387,
+      "num": 172654,
+      "word": "王曼昱VS范思琦",
+      "onboard_time": 1762837701,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158771,
       "num": 128752,
       "word": "男子带猪肉记号笔陪产怕孩子抱错",
       "onboard_time": 1762786821,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157165,
-      "num": 157165,
-      "word": "王鹤棣这是喝了多少",
-      "onboard_time": 1762835720,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 155802,
@@ -553,6 +569,14 @@
       "onboard_time": 1762785081,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147049,
+      "num": 147049,
+      "word": "张佳宁演了成龙电影女主",
+      "onboard_time": 1762838901,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 146324,
@@ -611,14 +635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141759,
-      "num": 172654,
-      "word": "王曼昱VS范思琦",
-      "onboard_time": 1762837701,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139914,
       "num": 139914,
       "word": "一年赚多少钱才养得起这样一个家",
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134676,
+      "num": 132117,
+      "word": "6人拦婚车讨烟致新人打车离开被罚",
+      "onboard_time": 1762837762,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134344,
       "num": 134344,
       "word": "男子在国外遭勒索给10张练功券解围",
@@ -691,12 +715,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132117,
-      "num": 132117,
-      "word": "6人拦婚车讨烟致新人打车离开被罚",
-      "onboard_time": 1762837762,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 131933,
+      "num": 131933,
+      "word": "什么电影一拍整整24年",
+      "onboard_time": 1762838901,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 131918,
@@ -793,14 +817,6 @@
       "onboard_time": 1762833021,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122439,
-      "num": 122439,
-      "word": "陈梦4比0胜孙铭阳",
-      "onboard_time": 1762838659,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 121032,
@@ -921,6 +937,14 @@
       "onboard_time": 1762833979,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105843,
+      "num": 105843,
+      "word": "常华森回应在机场偶遇白鹿",
+      "onboard_time": 1762838600,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 102834,
@@ -1067,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90680,
+      "num": 90680,
+      "word": "没这种海报不要叫大女主剧",
+      "onboard_time": 1762836921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90099,
       "num": 90099,
       "word": "男生错付车费自杀案家属再发声",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1762777281,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87842,
-      "num": 87842,
-      "word": "常华森回应在机场偶遇白鹿",
-      "onboard_time": 1762838600,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 87666,
@@ -1171,20 +1195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86647,
-      "num": 86647,
-      "word": "没这种海报不要叫大女主剧",
-      "onboard_time": 1762836921,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86591,
       "num": 86591,
       "word": "大湾鸡还有混血的",
       "onboard_time": 1762826901,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86297,
+      "num": 86297,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1762839680,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 84540,
@@ -1224,6 +1248,14 @@
       "word": "谢娜王鹤棣贴身热舞",
       "onboard_time": 1762778841,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 80898,
+      "num": 80898,
+      "word": "戚薇开车一教都会实操全废",
+      "onboard_time": 1762839441,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1307,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76805,
+      "num": 76805,
+      "word": "星巴克歌单",
+      "onboard_time": 1762839201,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76778,
       "num": 98458,
       "word": "双十一商品到手价全凭运气",
@@ -1323,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76176,
+      "num": 76176,
+      "word": "好想睡一个不用考虑明天的觉",
+      "onboard_time": 1762839500,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76141,
       "num": 76141,
       "word": "周京泽有过陈飞宇",
@@ -1331,12 +1379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75612,
+      "num": 75612,
+      "word": "真正的亲密关系不是撒娇和宠溺",
+      "onboard_time": 1762839140,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75591,
       "num": 157260,
       "word": "告白",
       "onboard_time": 1762822941,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75144,
+      "num": 75144,
+      "word": "范丞丞说胡先煦嘴里下毒了",
+      "onboard_time": 1762839740,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 74435,
@@ -1376,6 +1440,14 @@
       "word": "王楚钦回应全运会目标",
       "onboard_time": 1762796536,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69313,
+      "num": 98850,
+      "word": "东契奇久违暴扣",
+      "onboard_time": 1762839319,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1520,6 +1592,14 @@
       "word": "22轮红包我抢抢抢",
       "onboard_time": 1762833624,
       "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 53650,
+      "num": 150462,
+      "word": "国补抄底",
+      "onboard_time": 1762839260,
+      "rank": 18,
       "category": "互联网"
     },
     {

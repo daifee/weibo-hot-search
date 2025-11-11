@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762838898347,
+  "endTime": 1762839804918,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1762775539,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 693895,
+      "num": 170840,
+      "word": "彭小苒连发100个问号",
+      "onboard_time": 1762837462,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 693198,
@@ -3771,6 +3779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 452581,
+      "num": 452581,
+      "word": "陈梦vs孙铭阳",
+      "onboard_time": 1762835661,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451981,
       "num": 203864,
       "word": "第一批固体杨枝甘露的受害者出现",
@@ -4001,14 +4017,6 @@
       "onboard_time": 1762517841,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434806,
-      "num": 434806,
-      "word": "陈梦vs孙铭阳",
-      "onboard_time": 1762835661,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 433690,
@@ -5299,14 +5307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 346190,
-      "num": 170840,
-      "word": "彭小苒连发100个问号",
-      "onboard_time": 1762837462,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346049,
       "num": 290457,
       "word": "第一支在鸟巢夺冠的中国战队",
@@ -5604,7 +5604,7 @@
     },
     {
       "raw_hot": 332205,
-      "num": 211995,
+      "num": 213378,
       "word": "唐诡3第二案断更点是要我命吗",
       "onboard_time": 1762835362,
       "rank": 24,
@@ -6739,6 +6739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 277726,
+      "num": 277726,
+      "word": "Faker说Uzi是LPL最佳选手",
+      "onboard_time": 1762835120,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276944,
       "num": 203314,
       "word": "杨国福回应1斤豆芽28元",
@@ -7379,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248742,
-      "num": 180132,
-      "word": "Faker说Uzi是LPL最佳选手",
-      "onboard_time": 1762835120,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 248398,
       "num": 248398,
       "word": "Faker冰鸟",
@@ -7643,6 +7643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240097,
+      "num": 207289,
+      "word": "易烊千玺 一切有迹可循",
+      "onboard_time": 1762836142,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239923,
       "num": 185831,
       "word": "董璇曝小酒窝请假理由",
@@ -7689,14 +7697,6 @@
       "onboard_time": 1762743379,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238906,
-      "num": 207289,
-      "word": "易烊千玺 一切有迹可循",
-      "onboard_time": 1762836142,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 238881,
@@ -9419,6 +9419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201204,
+      "num": 170021,
+      "word": "歼20空空导弹发射瞬间气场拉满",
+      "onboard_time": 1762837221,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201128,
       "num": 504208,
       "word": "Gumayusi回应淘汰AL",
@@ -11099,14 +11107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177883,
-      "num": 170021,
-      "word": "歼20空空导弹发射瞬间气场拉满",
-      "onboard_time": 1762837221,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 177769,
       "num": 210801,
       "word": "北京飞悉尼航班现负43元票价",
@@ -11283,6 +11283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175933,
+      "num": 169968,
+      "word": "老默不得了了大嫂都敢追",
+      "onboard_time": 1762837521,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175898,
       "num": 175743,
       "word": "卢凌风登基的有点草率",
@@ -11417,14 +11425,6 @@
       "onboard_time": 1762244241,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173842,
-      "num": 169968,
-      "word": "老默不得了了大嫂都敢追",
-      "onboard_time": 1762837521,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 173801,
@@ -11753,6 +11753,14 @@
       "onboard_time": 1762560378,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 170315,
+      "num": 157165,
+      "word": "王鹤棣这是喝了多少",
+      "onboard_time": 1762835720,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 170213,
@@ -12515,6 +12523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162160,
+      "num": 162160,
+      "word": "陈梦4比0胜孙铭阳",
+      "onboard_time": 1762838659,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162159,
       "num": 162159,
       "word": "山航空乘穿上小毛衣了",
@@ -12689,6 +12705,14 @@
       "onboard_time": 1762252402,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160387,
+      "num": 172654,
+      "word": "王曼昱VS范思琦",
+      "onboard_time": 1762837701,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 160353,
@@ -13033,14 +13057,6 @@
       "onboard_time": 1762755979,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157165,
-      "num": 157165,
-      "word": "王鹤棣这是喝了多少",
-      "onboard_time": 1762835720,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 156770,
@@ -14155,6 +14171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147049,
+      "num": 147049,
+      "word": "张佳宁演了成龙电影女主",
+      "onboard_time": 1762838901,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147037,
       "num": 147037,
       "word": "坠河去世姐弟俩母亲痛哭发声",
@@ -14769,14 +14793,6 @@
       "onboard_time": 1762298421,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141759,
-      "num": 172654,
-      "word": "王曼昱VS范思琦",
-      "onboard_time": 1762837701,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 141712,
@@ -15875,6 +15891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134676,
+      "num": 132117,
+      "word": "6人拦婚车讨烟致新人打车离开被罚",
+      "onboard_time": 1762837762,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134631,
       "num": 131720,
       "word": "陈小春儿子全英发言",
@@ -16267,14 +16291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132117,
-      "num": 132117,
-      "word": "6人拦婚车讨烟致新人打车离开被罚",
-      "onboard_time": 1762837762,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132095,
       "num": 191837,
       "word": "低价银行直供房数量激增",
@@ -16289,6 +16305,14 @@
       "onboard_time": 1762143980,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131933,
+      "num": 131933,
+      "word": "什么电影一拍整整24年",
+      "onboard_time": 1762838901,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 131918,
@@ -18065,14 +18089,6 @@
       "onboard_time": 1762163242,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122439,
-      "num": 122439,
-      "word": "陈梦4比0胜孙铭阳",
-      "onboard_time": 1762838659,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 122408,
@@ -21464,6 +21480,14 @@
       "word": "穆祉丞真的没有猜幻梦都破碎吗",
       "onboard_time": 1762600401,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105843,
+      "num": 105843,
+      "word": "常华森回应在机场偶遇白鹿",
+      "onboard_time": 1762838600,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -25987,6 +26011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90680,
+      "num": 90680,
+      "word": "没这种海报不要叫大女主剧",
+      "onboard_time": 1762836921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90658,
       "num": 225553,
       "word": "罗永浩说乐道L90是今年最大黑马",
@@ -26923,14 +26955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87842,
-      "num": 87842,
-      "word": "常华森回应在机场偶遇白鹿",
-      "onboard_time": 1762838600,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87792,
       "num": 87792,
       "word": "郭宇欣工作室",
@@ -27345,14 +27369,6 @@
       "onboard_time": 1762352722,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86647,
-      "num": 86647,
-      "word": "没这种海报不要叫大女主剧",
-      "onboard_time": 1762836921,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 86641,
@@ -28963,6 +28979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80898,
+      "num": 80898,
+      "word": "戚薇开车一教都会实操全废",
+      "onboard_time": 1762839441,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80894,
       "num": 120071,
       "word": "台独顽固分子将被终身追责",
@@ -29915,6 +29939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76805,
+      "num": 76805,
+      "word": "星巴克歌单",
+      "onboard_time": 1762839201,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76803,
       "num": 168724,
       "word": "少林老外体验小米17背屏",
@@ -30051,6 +30083,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 76176,
+      "num": 76176,
+      "word": "好想睡一个不用考虑明天的觉",
+      "onboard_time": 1762839500,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76141,
       "num": 76141,
       "word": "地表最难乒乓球比赛",
@@ -30179,6 +30219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75612,
+      "num": 75612,
+      "word": "真正的亲密关系不是撒娇和宠溺",
+      "onboard_time": 1762839140,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75595,
       "num": 128630,
       "word": "水贝黄金零售价一天内大涨",
@@ -30265,6 +30313,14 @@
       "onboard_time": 1762540694,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75144,
+      "num": 75144,
+      "word": "范丞丞说胡先煦嘴里下毒了",
+      "onboard_time": 1762839740,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75138,
@@ -31329,6 +31385,14 @@
       "onboard_time": 1762739658,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69313,
+      "num": 98850,
+      "word": "东契奇久违暴扣",
+      "onboard_time": 1762839319,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 69233,
@@ -33345,6 +33409,14 @@
       "onboard_time": 1762166360,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53650,
+      "num": 150462,
+      "word": "国补抄底",
+      "onboard_time": 1762839260,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 53505,
