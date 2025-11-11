@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762827718001,
+  "endTime": 1762831259374,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1451,6 +1451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 741062,
+      "num": 719427,
+      "word": "19岁男生错付车费自杀案宣判",
+      "onboard_time": 1762822941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 740040,
       "num": 192277,
       "word": "官方称已对淘宝霸屏广告展开调查",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1762594759,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 719427,
-      "num": 719427,
-      "word": "19岁男生错付车费自杀案宣判",
-      "onboard_time": 1762822941,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 718896,
@@ -2028,7 +2028,7 @@
     },
     {
       "raw_hot": 645057,
-      "num": 153171,
+      "num": 183406,
       "word": "穆祉丞 TOP",
       "onboard_time": 1762825102,
       "rank": 22,
@@ -2412,7 +2412,7 @@
     },
     {
       "raw_hot": 590387,
-      "num": 148396,
+      "num": 183021,
       "word": "迪丽热巴从九月份就开始不舒服了",
       "onboard_time": 1762817779,
       "rank": 20,
@@ -2945,6 +2945,14 @@
       "onboard_time": 1761926602,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 533857,
+      "num": 188018,
+      "word": "赤裸小孩姥爷发声",
+      "onboard_time": 1762827740,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532950,
@@ -4539,6 +4547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387663,
+      "num": 387663,
+      "word": "霍震霆现场才知道郭晶晶是火炬手",
+      "onboard_time": 1762829360,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387556,
       "num": 338607,
       "word": "曝英雄联盟2有望明年上线",
@@ -5715,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320401,
+      "num": 187784,
+      "word": "再见爱人梁淞害怕四胎考虑结扎",
+      "onboard_time": 1762829240,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320238,
       "num": 178436,
       "word": "小猫知道爷爷去世了",
@@ -5953,6 +5977,14 @@
       "onboard_time": 1762178722,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305764,
+      "num": 305764,
+      "word": "秦雯编造袭警捞人情节为显示人脉",
+      "onboard_time": 1762827980,
+      "rank": 3,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 305376,
@@ -6284,7 +6316,7 @@
     },
     {
       "raw_hot": 293015,
-      "num": 184787,
+      "num": 186460,
       "word": "赤裸小孩最新视频",
       "onboard_time": 1762825581,
       "rank": 17,
@@ -6569,6 +6601,14 @@
       "onboard_time": 1761911004,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279243,
+      "num": 187126,
+      "word": "女子曝光男子殴打93岁母亲监控",
+      "onboard_time": 1762826121,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278895,
@@ -7859,6 +7899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228434,
+      "num": 185831,
+      "word": "董璇曝小酒窝请假理由",
+      "onboard_time": 1762827019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228371,
       "num": 228371,
       "word": "吴宣仪 欢迎大家来审判我",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1762328480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218439,
+      "num": 111473,
+      "word": "公司招聘了一个06年的小女孩",
+      "onboard_time": 1762830680,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 218090,
@@ -8699,6 +8755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208870,
+      "num": 185532,
+      "word": "辛龙谈刘真去世",
+      "onboard_time": 1762830740,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208527,
       "num": 121541,
       "word": "TES面对LCK十五连败",
@@ -8817,6 +8881,14 @@
       "onboard_time": 1762213640,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206931,
+      "num": 206931,
+      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+      "onboard_time": 1762823960,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206911,
@@ -8985,14 +9057,6 @@
       "onboard_time": 1762396101,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204550,
-      "num": 177518,
-      "word": "董璇曝小酒窝请假理由",
-      "onboard_time": 1762827019,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 204458,
@@ -9235,14 +9299,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 201312,
-      "num": 172342,
-      "word": "女子曝光男子殴打93岁母亲监控",
-      "onboard_time": 1762826121,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201238,
       "num": 183008,
       "word": "四喜开播",
@@ -9345,14 +9401,6 @@
       "onboard_time": 1762786402,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200204,
-      "num": 200204,
-      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
-      "onboard_time": 1762823960,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200087,
@@ -10019,6 +10067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190248,
+      "num": 185012,
+      "word": "谢霆锋带着丁真翻车了",
+      "onboard_time": 1762829479,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190174,
       "num": 177833,
       "word": "特朗普又称8架印战机被击落",
@@ -10040,6 +10096,14 @@
       "word": "好大的Doinb",
       "onboard_time": 1762614802,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189972,
+      "num": 189972,
+      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+      "onboard_time": 1762826901,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -10473,6 +10537,14 @@
       "onboard_time": 1762616121,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184551,
+      "num": 184551,
+      "word": "云南赤裸小孩父母致歉",
+      "onboard_time": 1762830140,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184490,
@@ -11163,14 +11235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174378,
-      "num": 105111,
-      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
-      "onboard_time": 1762826901,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 174136,
       "num": 174136,
       "word": "欧阳娜娜美神降临",
@@ -11761,6 +11825,14 @@
       "onboard_time": 1762004543,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166854,
+      "num": 166854,
+      "word": "岳雨婷cp",
+      "onboard_time": 1762826600,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166847,
@@ -12921,6 +12993,14 @@
       "onboard_time": 1762521080,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155802,
+      "num": 155802,
+      "word": "电影过家家定档",
+      "onboard_time": 1762830380,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 155764,
@@ -14225,6 +14305,14 @@
       "onboard_time": 1762321041,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "告白剧方以陈飞宇为唯一首选",
+      "onboard_time": 1762830259,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 144342,
@@ -15601,6 +15689,14 @@
       "onboard_time": 1762176443,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134344,
+      "num": 134344,
+      "word": "男子在国外遭勒索给10张练功券解围",
+      "onboard_time": 1762826960,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134310,
@@ -17779,14 +17875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121800,
-      "num": 121800,
-      "word": "岳雨婷cp",
-      "onboard_time": 1762826600,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121642,
       "num": 121642,
       "word": "JackeyLove谈身体伤病",
@@ -17977,6 +18065,14 @@
       "onboard_time": 1762080561,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120713,
+      "num": 189103,
+      "word": "王楚钦樊振东或半决赛对决",
+      "onboard_time": 1762826362,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 120557,
@@ -21491,14 +21587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103853,
-      "num": 103853,
-      "word": "男子在国外遭勒索给10张练功券解围",
-      "onboard_time": 1762826960,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103849,
       "num": 103849,
       "word": "只有戴过牙套的才懂她有多真实",
@@ -22401,6 +22489,14 @@
       "onboard_time": 1762672820,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100659,
+      "num": 100659,
+      "word": "陈芋汐夺冠后哭了",
+      "onboard_time": 1762827980,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 100649,
@@ -23875,6 +23971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95711,
+      "num": 111611,
+      "word": "张家妍没黑化",
+      "onboard_time": 1762830500,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95709,
       "num": 98103,
       "word": "后台收到了关晓彤送的彩椒碗",
@@ -24225,6 +24329,14 @@
       "onboard_time": 1762334962,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94606,
+      "num": 94606,
+      "word": "声生不息古装上班路透",
+      "onboard_time": 1762831039,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 94538,
@@ -24657,6 +24769,14 @@
       "onboard_time": 1762570460,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93150,
+      "num": 93150,
+      "word": "有内娱女爱豆的团又上新了",
+      "onboard_time": 1762830981,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 93108,
@@ -25393,14 +25513,6 @@
       "onboard_time": 1762485561,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90797,
-      "num": 146926,
-      "word": "王楚钦樊振东或半决赛对决",
-      "onboard_time": 1762826362,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 90760,
@@ -26451,6 +26563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87535,
+      "num": 87535,
+      "word": "曝富士康拆除iPhoneAir大部分生产线",
+      "onboard_time": 1762827380,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87532,
       "num": 87532,
       "word": "让脸变干净可以这样吃",
@@ -26609,6 +26729,14 @@
       "onboard_time": 1762594101,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87040,
+      "num": 87040,
+      "word": "奇瑞高管称瞬间刹停违反物理学",
+      "onboard_time": 1762829840,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 87032,
@@ -28091,6 +28219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81990,
+      "num": 81990,
+      "word": "陈梦时隔9个月后重返正式赛场",
+      "onboard_time": 1762830559,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81962,
       "num": 81962,
       "word": "燕云十六声四大名偷",
@@ -28225,14 +28361,6 @@
       "onboard_time": 1762491621,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81282,
-      "num": 81282,
-      "word": "曝富士康拆除iPhoneAir大部分生产线",
-      "onboard_time": 1762827380,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 81268,
@@ -28435,6 +28563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80361,
+      "num": 80361,
+      "word": "英雄联盟新英雄亚恒",
+      "onboard_time": 1762830559,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80353,
       "num": 80353,
       "word": "张予曦终于要补全浪姐的遗憾了",
@@ -28603,6 +28739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79776,
+      "num": 135539,
+      "word": "神20返回任务有序推进",
+      "onboard_time": 1762829119,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79766,
       "num": 79766,
       "word": "好长条的一只猫",
@@ -28625,6 +28769,14 @@
       "onboard_time": 1762096942,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79547,
+      "num": 79223,
+      "word": "于正回应王星越演告白",
+      "onboard_time": 1762828880,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 79436,
@@ -28673,6 +28825,14 @@
       "onboard_time": 1762151841,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79237,
+      "num": 79237,
+      "word": "在一起久了的默契",
+      "onboard_time": 1762831220,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 79178,
@@ -29729,6 +29889,14 @@
       "onboard_time": 1762594641,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74435,
+      "num": 82761,
+      "word": "王源跨年返场客厅狂欢",
+      "onboard_time": 1762829659,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 74424,
@@ -34491,6 +34659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36932,
+      "num": 183497,
+      "word": "天猫双11万元券包冲刺速用",
+      "onboard_time": 1762828519,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36834,
       "num": 77695,
       "word": "远离从生理上排斥的人和环境",
@@ -36099,6 +36275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21543,
+      "num": 90484,
+      "word": "陈芋汐一遍遍抚摸金牌",
+      "onboard_time": 1762830199,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21526,
       "num": 144536,
       "word": "警方回应疑给宝宝喂安眠药上班",
@@ -37119,6 +37303,9 @@
     },
     {
       "word": "#习近平总书记琼粤行#"
+    },
+    {
+      "word": "#总书记心系体育强国梦#"
     }
   ]
 }
