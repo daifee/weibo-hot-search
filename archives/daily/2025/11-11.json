@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762839804918,
+  "endTime": 1762843213574,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791912,
+      "num": 190283,
+      "word": "彭小苒连发100个问号",
+      "onboard_time": 1762837462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756837,
       "num": 210098,
       "word": "语文真的是滞后性很强的一门学科",
@@ -51,20 +59,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 693895,
-      "num": 170840,
-      "word": "彭小苒连发100个问号",
-      "onboard_time": 1762837462,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 645057,
       "num": 208662,
       "word": "穆祉丞 TOP",
       "onboard_time": 1762825102,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640170,
+      "num": 188056,
+      "word": "广西百色通报公职人员涉性侵案情况",
+      "onboard_time": 1762839980,
+      "rank": 11,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 610673,
+      "num": 211110,
+      "word": "不爱吃苹果的人有救了",
+      "onboard_time": 1762835661,
+      "rank": 15,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 590387,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465315,
-      "num": 211110,
-      "word": "不爱吃苹果的人有救了",
-      "onboard_time": 1762835661,
-      "rank": 15,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 464840,
       "num": 168453,
       "word": "商家已删除梁朝伟照片",
@@ -185,6 +193,14 @@
       "onboard_time": 1762820540,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342684,
+      "num": 342684,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1762839680,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 340050,
@@ -267,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277085,
+      "num": 277085,
+      "word": "王曼昱4比3范思琦",
+      "onboard_time": 1762841419,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246633,
       "num": 246633,
       "word": "浙江诸暨麻糍奶奶遇车祸去世",
@@ -331,6 +355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217207,
+      "num": 217207,
+      "word": "歼20空空导弹发射瞬间气场拉满",
+      "onboard_time": 1762837221,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216943,
       "num": 216943,
       "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
@@ -345,6 +377,14 @@
       "onboard_time": 1762835423,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212747,
+      "num": 172077,
+      "word": "魏大勋父亲公司被举报遭处罚",
+      "onboard_time": 1762839919,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 208870,
@@ -371,20 +411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201204,
-      "num": 170021,
-      "word": "歼20空空导弹发射瞬间气场拉满",
-      "onboard_time": 1762837221,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199334,
       "num": 114331,
       "word": "赤裸小孩生长发育正常",
       "onboard_time": 1762823721,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196408,
+      "num": 170746,
+      "word": "吴磊说好好对她好吗",
+      "onboard_time": 1762841419,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 194226,
@@ -401,6 +441,14 @@
       "onboard_time": 1762836261,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190372,
+      "num": 190372,
+      "word": "穆祉丞入选2025星辰大海",
+      "onboard_time": 1762841659,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 190248,
@@ -451,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181660,
+      "num": 169357,
+      "word": "金饰克价涨破1300元",
+      "onboard_time": 1762841901,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178865,
       "num": 191039,
       "word": "上海交大非全日制会计博士学费78万",
@@ -499,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162379,
+      "num": 162379,
+      "word": "陈梦回应4比0孙铭阳",
+      "onboard_time": 1762841302,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162160,
       "num": 162160,
       "word": "陈梦4比0胜孙铭阳",
@@ -516,7 +580,7 @@
     },
     {
       "raw_hot": 160387,
-      "num": 172654,
+      "num": 179598,
       "word": "王曼昱VS范思琦",
       "onboard_time": 1762837701,
       "rank": 8,
@@ -683,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134708,
+      "num": 134708,
+      "word": "韩网爆料EDG想组银河战舰",
+      "onboard_time": 1762841302,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134676,
       "num": 132117,
       "word": "6人拦婚车讨烟致新人打车离开被罚",
@@ -707,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133646,
+      "num": 133646,
+      "word": "星巴克被吐槽爆改成县城奶茶店",
+      "onboard_time": 1762843100,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132584,
       "num": 132584,
       "word": "桃黑黑女友自曝不整容的原因",
       "onboard_time": 1762774101,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 132534,
+      "num": 132534,
+      "word": "田曦薇最甜的脸开最猛的车",
+      "onboard_time": 1762840581,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 131933,
@@ -875,6 +963,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112586,
+      "num": 166469,
+      "word": "唐诡演员本名是啥",
+      "onboard_time": 1762842080,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112428,
+      "num": 112428,
+      "word": "白敬亭 你愿不愿意和我牙齐走",
+      "onboard_time": 1762842199,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111754,
+      "num": 146001,
+      "word": "喜人奇妙夜官宣全国巡演",
+      "onboard_time": 1762841839,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109963,
+      "num": 109963,
+      "word": "德军司令称柏林已做好开战准备",
+      "onboard_time": 1762842800,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109121,
       "num": 109121,
       "word": "常华森年底也要赶KPI",
@@ -905,6 +1025,14 @@
       "onboard_time": 1762830981,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107101,
+      "num": 107101,
+      "word": "小米回应SU7改款涨价",
+      "onboard_time": 1762841839,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 107069,
@@ -969,6 +1097,14 @@
       "onboard_time": 1762786162,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 100830,
+      "num": 100830,
+      "word": "韩雨彤演我只贪财不好色",
+      "onboard_time": 1762842679,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 100659,
@@ -1043,6 +1179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97515,
+      "num": 97515,
+      "word": "大湾鸡把自己给摇断电了",
+      "onboard_time": 1762840520,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97002,
       "num": 97002,
       "word": "大家尽量去过规律且有支点的生活",
@@ -1075,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93585,
+      "num": 93585,
+      "word": "江苏常州路边一辆小米汽车起火",
+      "onboard_time": 1762842259,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92782,
       "num": 92782,
       "word": "猫猫第一次闻猫薄荷",
@@ -1089,6 +1241,14 @@
       "onboard_time": 1762826960,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91738,
+      "num": 91738,
+      "word": "2025星辰大海青年演员入选名单",
+      "onboard_time": 1762836681,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 90680,
@@ -1203,20 +1363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86297,
-      "num": 86297,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1762839680,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84540,
       "num": 84540,
       "word": "在一起久了的默契",
       "onboard_time": 1762831220,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82947,
+      "num": 82947,
+      "word": "老鹰vs快船",
+      "onboard_time": 1762843100,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82748,
@@ -1307,6 +1467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78736,
+      "num": 175421,
+      "word": "国补抄底",
+      "onboard_time": 1762839260,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78282,
       "num": 78282,
       "word": "英伟达市值一夜大增超1.8万亿",
@@ -1329,6 +1497,14 @@
       "onboard_time": 1762818441,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77248,
+      "num": 96241,
+      "word": "中方回应是对日方挑衅的最有效威慑",
+      "onboard_time": 1762841781,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77083,
@@ -1571,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58265,
+      "num": 163985,
+      "word": "在抢红包比赛中获得第一名",
+      "onboard_time": 1762842980,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57553,
       "num": 149647,
       "word": "出去玩的钱双11省一半",
@@ -1587,19 +1771,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55975,
+      "num": 182676,
+      "word": "每小时送一个1111元",
+      "onboard_time": 1762840880,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55391,
       "num": 211460,
       "word": "22轮红包我抢抢抢",
       "onboard_time": 1762833624,
       "rank": 14,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 53650,
-      "num": 150462,
-      "word": "国补抄底",
-      "onboard_time": 1762839260,
-      "rank": 18,
       "category": "互联网"
     },
     {
@@ -1699,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39043,
+      "num": 164513,
+      "word": "谁能接住郎平的红包",
+      "onboard_time": 1762841060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38965,
       "num": 96075,
       "word": "穆祉丞自由演唱会纪录片",
@@ -1721,6 +1913,14 @@
       "onboard_time": 1762837642,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35901,
+      "num": 176441,
+      "word": "官方通报儿子暴打93岁母亲",
+      "onboard_time": 1762842800,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35833,
