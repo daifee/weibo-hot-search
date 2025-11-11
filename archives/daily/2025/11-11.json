@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762853387761,
+  "endTime": 1762854197035,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -65,6 +65,14 @@
       "onboard_time": 1762832961,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1070861,
+      "num": 157154,
+      "word": "张雪峰老婆",
+      "onboard_time": 1762852879,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 841229,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 524846,
-      "num": 178346,
+      "num": 189627,
       "word": "为什么要把葱花当天使用",
       "onboard_time": 1762847363,
       "rank": 17,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322883,
+      "num": 147465,
+      "word": "盗版刘亦菲杨幂baby",
+      "onboard_time": 1762850361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321608,
       "num": 248304,
       "word": "有人卖奶茶袋子赚了上千元",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 301642,
-      "num": 175006,
+      "num": 187421,
       "word": "唐诡3又来一位美女马凡丁",
       "onboard_time": 1762850061,
       "rank": 43,
@@ -403,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279361,
+      "num": 279361,
+      "word": "俄方宣布准备向印度转让核技术",
+      "onboard_time": 1762850601,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277726,
       "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
@@ -417,14 +441,6 @@
       "onboard_time": 1762841419,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251389,
-      "num": 147465,
-      "word": "盗版刘亦菲杨幂baby",
-      "onboard_time": 1762850361,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 247206,
@@ -465,14 +481,6 @@
       "onboard_time": 1762827019,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237175,
-      "num": 146768,
-      "word": "张雪峰老婆",
-      "onboard_time": 1762852879,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 234370,
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182921,
-      "num": 182921,
-      "word": "俄方宣布准备向印度转让核技术",
-      "onboard_time": 1762850601,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180180,
       "num": 160499,
       "word": "大学时期的刘亦菲",
@@ -739,6 +739,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169287,
+      "num": 169287,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 167090,
+      "num": 192488,
+      "word": "奶皮子蛋糕",
+      "onboard_time": 1762851981,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166854,
       "num": 166854,
       "word": "岳雨婷cp",
@@ -785,6 +801,22 @@
       "onboard_time": 1762786821,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 158484,
+      "word": "航母弹射速度 外星人打过来了",
+      "onboard_time": 1762852161,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156676,
+      "num": 156676,
+      "word": "陈艺文铜牌",
+      "onboard_time": 1762853061,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 155802,
@@ -889,14 +921,6 @@
       "onboard_time": 1762832781,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142453,
-      "num": 142453,
-      "word": "航母弹射速度 外星人打过来了",
-      "onboard_time": 1762852161,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142042,
@@ -1091,14 +1115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 129088,
-      "num": 129088,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "起猛了外面科技发展成这样了",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1762849461,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126067,
+      "num": 126067,
+      "word": "酒店小狮子叫醒服务 628元一晚",
+      "onboard_time": 1762852641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125929,
@@ -1299,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114156,
-      "num": 154637,
-      "word": "奶皮子蛋糕",
-      "onboard_time": 1762851981,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113918,
       "num": 113918,
       "word": "马龙全运会上训",
@@ -1323,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112798,
+      "num": 158229,
+      "word": "柯淳说现在已经被磨去了自信",
+      "onboard_time": 1762850242,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112586,
       "num": 166469,
       "word": "唐诡演员本名是啥",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1762842199,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112141,
+      "num": 124617,
+      "word": "林珊3米板金牌",
+      "onboard_time": 1762853840,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 111878,
@@ -1451,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105960,
-      "num": 103084,
-      "word": "酒店小狮子叫醒服务 628元一晚",
-      "onboard_time": 1762852641,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105843,
       "num": 105843,
       "word": "常华森回应在机场偶遇白鹿",
@@ -1473,22 +1497,6 @@
       "onboard_time": 1762850781,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105399,
-      "num": 146419,
-      "word": "陈艺文铜牌",
-      "onboard_time": 1762853061,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104636,
-      "num": 145648,
-      "word": "柯淳说现在已经被磨去了自信",
-      "onboard_time": 1762850242,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 104099,
@@ -1651,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97064,
+      "num": 97064,
+      "word": "F4变F3",
+      "onboard_time": 1762853782,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97002,
       "num": 97002,
       "word": "大家尽量去过规律且有支点的生活",
@@ -1747,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92840,
+      "num": 92840,
+      "word": "别让爱豆跳这些",
+      "onboard_time": 1762853840,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92782,
       "num": 92782,
       "word": "猫猫第一次闻猫薄荷",
@@ -1771,12 +1795,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90935,
+      "num": 90935,
+      "word": "分手后的家vs分手前的家",
+      "onboard_time": 1762853361,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90680,
       "num": 90680,
       "word": "没这种海报不要叫大女主剧",
       "onboard_time": 1762836921,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90264,
+      "num": 90264,
+      "word": "港媒标题 不管明星死活",
+      "onboard_time": 1762853961,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 90099,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1762825521,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89847,
+      "num": 86947,
+      "word": "彭小苒 最羞耻的台词大家没听到",
+      "onboard_time": 1762853601,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 89837,
@@ -1817,14 +1865,6 @@
       "onboard_time": 1762830800,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88742,
-      "num": 88742,
-      "word": "分手后的家vs分手前的家",
-      "onboard_time": 1762853361,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 88741,
@@ -1937,6 +1977,14 @@
       "onboard_time": 1762841959,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85597,
+      "num": 86826,
+      "word": "成龙新片 一家五口五个姓",
+      "onboard_time": 1762853540,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 84540,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1762822941,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75237,
+      "num": 86608,
+      "word": "我国北方地区将出现极光",
+      "onboard_time": 1762854140,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75144,
@@ -2420,7 +2476,7 @@
     },
     {
       "raw_hot": 54692,
-      "num": 149813,
+      "num": 158038,
       "word": "电竞选手发红包",
       "onboard_time": 1762851981,
       "rank": 19,
@@ -2481,6 +2537,14 @@
       "onboard_time": 1762809493,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 47311,
+      "num": 157649,
+      "word": "大湾鸡冰墩墩来自一个设计团队",
+      "onboard_time": 1762852941,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 46052,
@@ -2547,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39402,
-      "num": 150195,
-      "word": "大湾鸡冰墩墩来自一个设计团队",
-      "onboard_time": 1762852941,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38965,
       "num": 96075,
       "word": "穆祉丞自由演唱会纪录片",
@@ -2577,6 +2633,14 @@
       "onboard_time": 1762837642,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37187,
+      "num": 98740,
+      "word": "何穗怎么恢复的",
+      "onboard_time": 1762853361,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 35904,
@@ -2675,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28390,
+      "num": 249239,
+      "word": "转发花海微博抓小猫",
+      "onboard_time": 1762849220,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28134,
       "num": 221014,
       "word": "接心动礼遇季锦鲤好运",
@@ -2691,12 +2763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27054,
-      "num": 249239,
-      "word": "转发花海微博抓小猫",
-      "onboard_time": 1762849220,
-      "rank": 11,
-      "category": "电竞"
+      "raw_hot": 25968,
+      "num": 97371,
+      "word": "航空工业已经有9条有名有姓的龙了",
+      "onboard_time": 1762853840,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25543,
@@ -2705,14 +2777,6 @@
       "onboard_time": 1762797676,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24759,
-      "num": 98740,
-      "word": "何穗怎么恢复的",
-      "onboard_time": 1762853361,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 24182,
@@ -2745,6 +2809,14 @@
       "onboard_time": 1762779501,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17612,
+      "num": 124248,
+      "word": "你的好运红包正在派送中",
+      "onboard_time": 1762854019,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 15032,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762854197035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492652,
+        "num": 1492652,
+        "word": "陈可辛出车祸",
+        "onboard_time": 1762848321,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396422,
+        "num": 396422,
+        "word": "律师银行取4万元遭盘问报警",
+        "onboard_time": 1762846939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21244,
+        "num": 378212,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364717,
+        "num": 364717,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279361,
+        "num": 279361,
+        "word": "俄方宣布准备向印度转让核技术",
+        "onboard_time": 1762850601,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193438,
+        "num": 193438,
+        "word": "威廉王子不准孩子用手机",
+        "onboard_time": 1762846280,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282541,
+        "num": 193348,
+        "word": "新音 三亚",
+        "onboard_time": 1762849280,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167090,
+        "num": 192488,
+        "word": "奶皮子蛋糕",
+        "onboard_time": 1762851981,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153803,
+        "num": 191346,
+        "word": "怀孕超35周孕妇登机后被劝下飞机",
+        "onboard_time": 1762832961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140107,
+        "num": 190442,
+        "word": "德军司令称柏林已做好开战准备",
+        "onboard_time": 1762842800,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379965,
+        "num": 189627,
+        "word": "为什么要把葱花当天使用",
+        "onboard_time": 1762847363,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280568,
+        "num": 189080,
+        "word": "陈可辛驾车为躲避狗撞上人行道",
+        "onboard_time": 1762848621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266778,
+        "num": 188209,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244103,
+        "num": 187421,
+        "word": "唐诡3又来一位美女马凡丁",
+        "onboard_time": 1762850061,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186833,
+        "num": 186833,
+        "word": "侯明昊仇人看到都释怀了",
+        "onboard_time": 1762844000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174991,
+        "num": 174991,
+        "word": "有人卖奶茶袋子赚了上千元",
+        "onboard_time": 1762843640,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 169287,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 158484,
+        "num": 158484,
+        "word": "航母弹射速度 外星人打过来了",
+        "onboard_time": 1762852161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112798,
+        "num": 158229,
+        "word": "柯淳说现在已经被磨去了自信",
+        "onboard_time": 1762850242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43201,
+        "num": 158038,
+        "word": "电竞选手发红包",
+        "onboard_time": 1762851981,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47311,
+        "num": 157649,
+        "word": "大湾鸡冰墩墩来自一个设计团队",
+        "onboard_time": 1762852941,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1146916,
+        "num": 157503,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1070861,
+        "num": 157154,
+        "word": "张雪峰老婆",
+        "onboard_time": 1762852879,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 454475,
+        "num": 156677,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156676,
+        "num": 156676,
+        "word": "陈艺文铜牌",
+        "onboard_time": 1762853061,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358246,
+        "num": 141965,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322883,
+        "num": 136829,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126067,
+        "num": 126067,
+        "word": "酒店小狮子叫醒服务 628元一晚",
+        "onboard_time": 1762852641,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112141,
+        "num": 124617,
+        "word": "林珊3米板金牌",
+        "onboard_time": 1762853840,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47165,
+        "num": 124326,
+        "word": "双11最后一波买什么划算",
+        "onboard_time": 1762851860,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17612,
+        "num": 124248,
+        "word": "你的好运红包正在派送中",
+        "onboard_time": 1762854019,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124245,
+        "num": 124245,
+        "word": "TFBOYS又有新站子了",
+        "onboard_time": 1762849824,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28390,
+        "num": 117972,
+        "word": "转发花海微博抓小猫",
+        "onboard_time": 1762849220,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126705,
+        "num": 117100,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83221,
+        "num": 115377,
+        "word": "金饰克价涨破1300元",
+        "onboard_time": 1762841901,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115251,
+        "num": 115251,
+        "word": "井柏然刘雯 商务共享",
+        "onboard_time": 1762846460,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105844,
+        "num": 105844,
+        "word": "Kael疑似与AL续约",
+        "onboard_time": 1762852401,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 102755,
+        "word": "大学时期的刘亦菲",
+        "onboard_time": 1762848800,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37187,
+        "num": 97793,
+        "word": "何穗怎么恢复的",
+        "onboard_time": 1762853361,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25968,
+        "num": 97371,
+        "word": "航空工业已经有9条有名有姓的龙了",
+        "onboard_time": 1762853840,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97064,
+        "num": 97064,
+        "word": "F4变F3",
+        "onboard_time": 1762853782,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92840,
+        "num": 92840,
+        "word": "别让爱豆跳这些",
+        "onboard_time": 1762853840,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90935,
+        "num": 90935,
+        "word": "分手后的家vs分手前的家",
+        "onboard_time": 1762853361,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 90264,
+        "word": "港媒标题 不管明星死活",
+        "onboard_time": 1762853961,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85769,
+        "num": 87144,
+        "word": "Faker说Uzi是LPL最佳选手",
+        "onboard_time": 1762835120,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86957,
+        "num": 86957,
+        "word": "智利车厘子果农说谢谢中国",
+        "onboard_time": 1762852641,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89847,
+        "num": 86947,
+        "word": "彭小苒 最羞耻的台词大家没听到",
+        "onboard_time": 1762853601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85597,
+        "num": 86826,
+        "word": "成龙新片 一家五口五个姓",
+        "onboard_time": 1762853540,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82307,
+        "num": 86709,
+        "word": "威廉王子称没对孩子隐瞒家中困难",
+        "onboard_time": 1762852222,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75237,
+        "num": 86608,
+        "word": "我国北方地区将出现极光",
+        "onboard_time": 1762854140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}
