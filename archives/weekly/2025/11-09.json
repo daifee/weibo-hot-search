@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762831259374,
+  "endTime": 1762832117696,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -779,6 +779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 514705,
+      "num": 305764,
+      "word": "秦雯编造袭警捞人情节为显示人脉",
+      "onboard_time": 1762827980,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 499022,
       "num": 202650,
       "word": "刘宇宁去医院怕被拍到",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1762657759,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392394,
+      "num": 187784,
+      "word": "再见爱人梁淞害怕四胎考虑结扎",
+      "onboard_time": 1762829240,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 390102,
@@ -1427,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320401,
-      "num": 187784,
-      "word": "再见爱人梁淞害怕四胎考虑结扎",
-      "onboard_time": 1762829240,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320238,
       "num": 178436,
       "word": "小猫知道爷爷去世了",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1762648397,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305764,
-      "num": 305764,
-      "word": "秦雯编造袭警捞人情节为显示人脉",
-      "onboard_time": 1762827980,
-      "rank": 3,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 302476,
@@ -1611,12 +1611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288480,
+      "num": 288480,
+      "word": "恋与深空",
+      "onboard_time": 1762831340,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287012,
       "num": 173262,
       "word": "原来这就是抑郁躯体化",
       "onboard_time": 1762748661,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 286683,
+      "num": 187126,
+      "word": "女子曝光男子殴打93岁母亲监控",
+      "onboard_time": 1762826121,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286635,
@@ -1635,20 +1651,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284622,
+      "num": 111473,
+      "word": "公司招聘了一个06年的小女孩",
+      "onboard_time": 1762830680,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279728,
       "num": 279728,
       "word": "第一支在鸟巢夺冠的中国战队",
       "onboard_time": 1762613542,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279243,
-      "num": 187126,
-      "word": "女子曝光男子殴打93岁母亲监控",
-      "onboard_time": 1762826121,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278820,
@@ -1899,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239923,
+      "num": 185831,
+      "word": "董璇曝小酒窝请假理由",
+      "onboard_time": 1762827019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239062,
       "num": 194641,
       "word": "折月亮",
@@ -2011,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228434,
-      "num": 185831,
-      "word": "董璇曝小酒窝请假理由",
-      "onboard_time": 1762827019,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228371,
       "num": 228371,
       "word": "吴宣仪 欢迎大家来审判我",
@@ -2123,12 +2139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218439,
-      "num": 111473,
-      "word": "公司招聘了一个06年的小女孩",
-      "onboard_time": 1762830680,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 216943,
+      "num": 216943,
+      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+      "onboard_time": 1762823960,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215153,
@@ -2219,6 +2235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207736,
+      "num": 207736,
+      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+      "onboard_time": 1762826901,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207691,
       "num": 228516,
       "word": "唐朝诡事录3首播反馈",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1762697002,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 206931,
-      "num": 206931,
-      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
-      "onboard_time": 1762823960,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205972,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1762829479,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189972,
-      "num": 189972,
-      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
-      "onboard_time": 1762826901,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 189821,
@@ -3499,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "声生不息古装上班路透",
+      "onboard_time": 1762831039,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143022,
       "num": 143022,
       "word": "宋亚轩喜欢秋天的原因",
@@ -3697,6 +3713,14 @@
       "onboard_time": 1762783342,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136594,
+      "num": 189103,
+      "word": "王楚钦樊振东或半决赛对决",
+      "onboard_time": 1762826362,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 136182,
@@ -4169,14 +4193,6 @@
       "onboard_time": 1762753461,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120713,
-      "num": 189103,
-      "word": "王楚钦樊振东或半决赛对决",
-      "onboard_time": 1762826362,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 120691,
@@ -4691,6 +4707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107219,
+      "num": 107219,
+      "word": "有内娱女爱豆的团又上新了",
+      "onboard_time": 1762830981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107120,
       "num": 107120,
       "word": "莱巴金娜首夺总决赛冠军",
@@ -5179,6 +5203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100287,
+      "num": 92838,
+      "word": "神20航天员乘组工作生活正常",
+      "onboard_time": 1762831399,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100237,
       "num": 100237,
       "word": "KT教练谈放加里奥原因",
@@ -5515,20 +5547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94606,
-      "num": 94606,
-      "word": "声生不息古装上班路透",
-      "onboard_time": 1762831039,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
       "onboard_time": 1762617322,
       "rank": 41,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 94530,
+      "num": 92794,
+      "word": "为什么猫咖没有狸花猫",
+      "onboard_time": 1762831280,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 94313,
@@ -5545,14 +5577,6 @@
       "onboard_time": 1762661960,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93150,
-      "num": 93150,
-      "word": "有内娱女爱豆的团又上新了",
-      "onboard_time": 1762830981,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 93056,
@@ -5577,6 +5601,14 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 92782,
+      "num": 92782,
+      "word": "猫猫第一次闻猫薄荷",
+      "onboard_time": 1762831701,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 92682,
@@ -5673,6 +5705,14 @@
       "onboard_time": 1762656740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91336,
+      "num": 91336,
+      "word": "妻子新婚和情夫出逃被抓现行",
+      "onboard_time": 1762831940,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 91312,
@@ -5824,6 +5864,14 @@
       "word": "粤港澳三地同框画面有多燃",
       "onboard_time": 1762696161,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89581,
+      "num": 92825,
+      "word": "开拓者vs魔术",
+      "onboard_time": 1762830800,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -6027,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86850,
+      "num": 86850,
+      "word": "算盘珠子都嘣龚俊脸上了",
+      "onboard_time": 1762831641,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86591,
       "num": 86591,
       "word": "大湾鸡还有混血的",
@@ -6129,6 +6185,14 @@
       "onboard_time": 1762739358,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84540,
+      "num": 84540,
+      "word": "在一起久了的默契",
+      "onboard_time": 1762831220,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 84321,
@@ -6371,14 +6435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 79237,
-      "num": 79237,
-      "word": "在一起久了的默契",
-      "onboard_time": 1762831220,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78911,
       "num": 151312,
       "word": "同手同脚大湾鸡",
@@ -6401,6 +6457,14 @@
       "onboard_time": 1762669220,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 78282,
+      "word": "英伟达市值一夜大增超1.8万亿",
+      "onboard_time": 1762830140,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 78219,
@@ -6481,6 +6545,14 @@
       "onboard_time": 1762657400,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76609,
+      "num": 76609,
+      "word": "苹果酸奶夹",
+      "onboard_time": 1762832058,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 76529,
@@ -7763,6 +7835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43832,
+      "num": 133945,
+      "word": "用智搜读懂大国重器",
+      "onboard_time": 1762831340,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43798,
       "num": 947153,
       "word": "十五运今天开幕",
@@ -7987,20 +8067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37877,
+      "num": 183497,
+      "word": "天猫双11万元券包冲刺速用",
+      "onboard_time": 1762828519,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37005,
       "num": 334199,
       "word": "大眼音乐节看爽了",
       "onboard_time": 1762691363,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36932,
-      "num": 183497,
-      "word": "天猫双11万元券包冲刺速用",
-      "onboard_time": 1762828519,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 36772,

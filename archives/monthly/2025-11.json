@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762831259374,
+  "endTime": 1762832117696,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3115,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514705,
+      "num": 305764,
+      "word": "秦雯编造袭警捞人情节为显示人脉",
+      "onboard_time": 1762827980,
+      "rank": 3,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 512287,
       "num": 310636,
       "word": "日本71岁女子杀害102岁母亲",
@@ -4475,6 +4483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392394,
+      "num": 187784,
+      "word": "再见爱人梁淞害怕四胎考虑结扎",
+      "onboard_time": 1762829240,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392110,
       "num": 205813,
       "word": "广州地铁跳转广告",
@@ -5731,14 +5747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320401,
-      "num": 187784,
-      "word": "再见爱人梁淞害怕四胎考虑结扎",
-      "onboard_time": 1762829240,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 320238,
       "num": 178436,
       "word": "小猫知道爷爷去世了",
@@ -5977,14 +5985,6 @@
       "onboard_time": 1762178722,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305764,
-      "num": 305764,
-      "word": "秦雯编造袭警捞人情节为显示人脉",
-      "onboard_time": 1762827980,
-      "rank": 3,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 305376,
@@ -6427,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288480,
+      "num": 288480,
+      "word": "恋与深空",
+      "onboard_time": 1762143861,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287707,
       "num": 287707,
       "word": "枭起青壤",
@@ -6457,6 +6465,14 @@
       "onboard_time": 1762748661,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 286683,
+      "num": 187126,
+      "word": "女子曝光男子殴打93岁母亲监控",
+      "onboard_time": 1762826121,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286635,
@@ -6513,6 +6529,14 @@
       "onboard_time": 1762317982,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284622,
+      "num": 111473,
+      "word": "公司招聘了一个06年的小女孩",
+      "onboard_time": 1762830680,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 283255,
@@ -6601,14 +6625,6 @@
       "onboard_time": 1761911004,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279243,
-      "num": 187126,
-      "word": "女子曝光男子殴打93岁母亲监控",
-      "onboard_time": 1762826121,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278895,
@@ -7547,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239923,
+      "num": 185831,
+      "word": "董璇曝小酒窝请假理由",
+      "onboard_time": 1762827019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239783,
       "num": 185608,
       "word": "妇产科医生眼中的完美月经",
@@ -7899,14 +7923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228434,
-      "num": 185831,
-      "word": "董璇曝小酒窝请假理由",
-      "onboard_time": 1762827019,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228371,
       "num": 228371,
       "word": "吴宣仪 欢迎大家来审判我",
@@ -7929,14 +7945,6 @@
       "onboard_time": 1761971239,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228148,
-      "num": 228148,
-      "word": "恋与深空",
-      "onboard_time": 1762143861,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 228045,
@@ -8307,14 +8315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218439,
-      "num": 111473,
-      "word": "公司招聘了一个06年的小女孩",
-      "onboard_time": 1762830680,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218090,
       "num": 218090,
       "word": "第十一届文荣奖获奖名单",
@@ -8377,6 +8377,14 @@
       "onboard_time": 1762262062,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216943,
+      "num": 216943,
+      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+      "onboard_time": 1762823960,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216314,
@@ -8835,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207736,
+      "num": 207736,
+      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+      "onboard_time": 1762826901,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207618,
       "num": 179114,
       "word": "易烊千玺 叔圈开门",
@@ -8881,14 +8897,6 @@
       "onboard_time": 1762213640,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206931,
-      "num": 206931,
-      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
-      "onboard_time": 1762823960,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206911,
@@ -10096,14 +10104,6 @@
       "word": "好大的Doinb",
       "onboard_time": 1762614802,
       "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 189972,
-      "num": 189972,
-      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
-      "onboard_time": 1762826901,
-      "rank": 31,
       "category": "电竞"
     },
     {
@@ -14371,6 +14371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "声生不息古装上班路透",
+      "onboard_time": 1762831039,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143810,
       "num": 143810,
       "word": "全红婵熟练得让人心疼",
@@ -15425,6 +15433,14 @@
       "onboard_time": 1762236800,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136594,
+      "num": 189103,
+      "word": "王楚钦樊振东或半决赛对决",
+      "onboard_time": 1762826362,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 136560,
@@ -18065,14 +18081,6 @@
       "onboard_time": 1762080561,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120713,
-      "num": 189103,
-      "word": "王楚钦樊振东或半决赛对决",
-      "onboard_time": 1762826362,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 120557,
@@ -20779,6 +20787,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 107219,
+      "num": 107219,
+      "word": "有内娱女爱豆的团又上新了",
+      "onboard_time": 1762830981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107157,
       "num": 107157,
       "word": "凯里动物园爷爷两天收到十几万捐款",
@@ -22643,6 +22659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100287,
+      "num": 92838,
+      "word": "神20航天员乘组工作生活正常",
+      "onboard_time": 1762831399,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100275,
       "num": 100275,
       "word": "印度空难幸存者饱受PTSD折磨",
@@ -24331,20 +24355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94606,
-      "num": 94606,
-      "word": "声生不息古装上班路透",
-      "onboard_time": 1762831039,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94538,
       "num": 204414,
       "word": "邓紫棋与T1全队合影",
       "onboard_time": 1762617322,
       "rank": 41,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 94530,
+      "num": 92794,
+      "word": "为什么猫咖没有狸花猫",
+      "onboard_time": 1762831280,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 94517,
@@ -24771,14 +24795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93150,
-      "num": 93150,
-      "word": "有内娱女爱豆的团又上新了",
-      "onboard_time": 1762830981,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93108,
       "num": 93108,
       "word": "李施嬅 病态情感需求",
@@ -24913,6 +24929,14 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 92782,
+      "num": 92782,
+      "word": "猫猫第一次闻猫薄荷",
+      "onboard_time": 1762831701,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 92767,
@@ -25321,6 +25345,14 @@
       "onboard_time": 1762577420,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91336,
+      "num": 91336,
+      "word": "妻子新婚和情夫出逃被抓现行",
+      "onboard_time": 1762831940,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 91309,
@@ -25960,6 +25992,14 @@
       "word": "粤港澳三地同框画面有多燃",
       "onboard_time": 1762696161,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89581,
+      "num": 92825,
+      "word": "开拓者vs魔术",
+      "onboard_time": 1762830800,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -26835,6 +26875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86850,
+      "num": 86850,
+      "word": "算盘珠子都嘣龚俊脸上了",
+      "onboard_time": 1762831641,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86803,
       "num": 91403,
       "word": "天道鸿元隐匿网上敛财500万奸淫10人",
@@ -27553,6 +27601,14 @@
       "onboard_time": 1762739358,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84540,
+      "num": 84540,
+      "word": "在一起久了的默契",
+      "onboard_time": 1762831220,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 84521,
@@ -28827,14 +28883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79237,
-      "num": 79237,
-      "word": "在一起久了的默契",
-      "onboard_time": 1762831220,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "宋亚轩这下把压力给到了李飞",
@@ -29033,6 +29081,14 @@
       "onboard_time": 1762155442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 78282,
+      "word": "英伟达市值一夜大增超1.8万亿",
+      "onboard_time": 1762830140,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 78225,
@@ -29449,6 +29505,14 @@
       "onboard_time": 1762502421,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76609,
+      "num": 76609,
+      "word": "苹果酸奶夹",
+      "onboard_time": 1762832058,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 76529,
@@ -33875,6 +33939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43832,
+      "num": 133945,
+      "word": "用智搜读懂大国重器",
+      "onboard_time": 1762831340,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43820,
       "num": 43820,
       "word": "现在小孩的玩具真高级",
@@ -34579,6 +34651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37877,
+      "num": 183497,
+      "word": "天猫双11万元券包冲刺速用",
+      "onboard_time": 1762828519,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37787,
       "num": 52213,
       "word": "为啥感冒很多时候会从嗓子疼开始",
@@ -34657,14 +34737,6 @@
       "onboard_time": 1762691363,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36932,
-      "num": 183497,
-      "word": "天猫双11万元券包冲刺速用",
-      "onboard_time": 1762828519,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 36834,
