@@ -1,0 +1,410 @@
+{
+  "runTime": 1762846834775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282973,
+        "num": 1282973,
+        "word": "官方通报儿子暴打93岁母亲",
+        "onboard_time": 1762842800,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 801859,
+        "num": 801859,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26972,
+        "num": 592198,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420248,
+        "num": 420248,
+        "word": "怀孕超35周孕妇登机后被劝下飞机",
+        "onboard_time": 1762832961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263701,
+        "num": 263701,
+        "word": "陈梦回应4比0孙铭阳",
+        "onboard_time": 1762841302,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206671,
+        "num": 206671,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1762839680,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186923,
+        "num": 186923,
+        "word": "05后都开始上恋综了",
+        "onboard_time": 1762832781,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178654,
+        "num": 178654,
+        "word": "Faker说Uzi是LPL最佳选手",
+        "onboard_time": 1762835120,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141414,
+        "num": 178594,
+        "word": "歼20空空导弹发射瞬间气场拉满",
+        "onboard_time": 1762837221,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121986,
+        "num": 178196,
+        "word": "王曼昱4比3范思琦",
+        "onboard_time": 1762841419,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782857,
+        "num": 177969,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353733,
+        "num": 177748,
+        "word": "彭小苒连发100个问号",
+        "onboard_time": 1762837462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277273,
+        "num": 177637,
+        "word": "广西百色通报公职人员涉性侵案情况",
+        "onboard_time": 1762839980,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 264251,
+        "num": 177284,
+        "word": "不爱吃苹果的人有救了",
+        "onboard_time": 1762835661,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 40819,
+        "num": 177027,
+        "word": "在微博抢红包忙的团团转",
+        "onboard_time": 1762844480,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248400,
+        "num": 176917,
+        "word": "德军司令称柏林已做好开战准备",
+        "onboard_time": 1762842800,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165061,
+        "num": 176683,
+        "word": "穆祉丞入选2025星辰大海",
+        "onboard_time": 1762841659,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41137,
+        "num": 176336,
+        "word": "西藏航空回应36周孕妇登机后被劝下",
+        "onboard_time": 1762845740,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35335,
+        "num": 176254,
+        "word": "3个空油桶 罚款5万元",
+        "onboard_time": 1762846280,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24852,
+        "num": 175940,
+        "word": "在抢红包比赛中获得第一名",
+        "onboard_time": 1762842980,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1230908,
+        "num": 175726,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242184,
+        "num": 175481,
+        "word": "何润东林姵希结婚9年了",
+        "onboard_time": 1762844779,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238295,
+        "num": 175142,
+        "word": "有人卖奶茶袋子赚了上千元",
+        "onboard_time": 1762843640,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238274,
+        "num": 175010,
+        "word": "语文真的是滞后性很强的一门学科",
+        "onboard_time": 1762833141,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231930,
+        "num": 174682,
+        "word": "迪丽热巴从九月份就开始不舒服了",
+        "onboard_time": 1762817779,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174638,
+        "num": 174638,
+        "word": "千里送饭煲的研究生被大厂争抢",
+        "onboard_time": 1762845800,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171515,
+        "num": 171515,
+        "word": "金饰克价涨破1300元",
+        "onboard_time": 1762841901,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107194,
+        "num": 167100,
+        "word": "赵丽娜红包",
+        "onboard_time": 1762845199,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166024,
+        "num": 166024,
+        "word": "警方通报编剧秦雯自称袭警捞人",
+        "onboard_time": 1762824619,
+        "rank": 28,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 153293,
+        "num": 153293,
+        "word": "侯明昊仇人看到都释怀了",
+        "onboard_time": 1762844000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147365,
+        "num": 147365,
+        "word": "许我耀眼庆功宴",
+        "onboard_time": 1762833501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137887,
+        "num": 137887,
+        "word": "张颂文回应救人获赠锦旗",
+        "onboard_time": 1762846099,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136031,
+        "num": 136031,
+        "word": "余茵红包",
+        "onboard_time": 1762845321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130221,
+        "num": 130221,
+        "word": "吴磊说好好对她好吗",
+        "onboard_time": 1762841419,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130058,
+        "num": 130058,
+        "word": "顾游推荐穆祉丞",
+        "onboard_time": 1762846761,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129243,
+        "num": 129243,
+        "word": "井柏然刘雯 商务共享",
+        "onboard_time": 1762846460,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125096,
+        "num": 125096,
+        "word": "Shanji要自费去T1打上单",
+        "onboard_time": 1762845499,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39439,
+        "num": 124716,
+        "word": "邓亚萍想看看年轻人的手速",
+        "onboard_time": 1762844840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57055,
+        "num": 124553,
+        "word": "威廉王子不准孩子用手机",
+        "onboard_time": 1762846280,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27337,
+        "num": 124482,
+        "word": "朱珠跳舞",
+        "onboard_time": 1762846521,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124411,
+        "num": 124411,
+        "word": "魏大勋父亲公司被举报遭处罚",
+        "onboard_time": 1762839919,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120353,
+        "num": 120353,
+        "word": "公司招聘了一个06年的小女孩",
+        "onboard_time": 1762830680,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109796,
+        "num": 109796,
+        "word": "核电工程师移民加拿大当洗碗工",
+        "onboard_time": 1762845861,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107918,
+        "num": 107918,
+        "word": "猫没事人快应激了",
+        "onboard_time": 1762845499,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103984,
+        "num": 103984,
+        "word": "董璇把伴侣放在最后一名",
+        "onboard_time": 1762845199,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107196,
+        "num": 102565,
+        "word": "大湾鸡把自己给摇断电了",
+        "onboard_time": 1762840520,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72897,
+        "num": 101005,
+        "word": "特朗普 BBC",
+        "onboard_time": 1762845321,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100915,
+        "num": 100915,
+        "word": "王曼昱回应险胜范思琦",
+        "onboard_time": 1762845681,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100187,
+        "num": 100187,
+        "word": "百色2公职人员性侵女性被免职",
+        "onboard_time": 1762844240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84255,
+        "num": 99885,
+        "word": "唐诡3第二案断更点是要我命吗",
+        "onboard_time": 1762835362,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

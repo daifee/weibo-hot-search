@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762846048835,
+  "endTime": 1762846834775,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -19,12 +19,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1236092,
-      "num": 1236092,
+      "raw_hot": 1282973,
+      "num": 1282973,
       "word": "官方通报儿子暴打93岁母亲",
       "onboard_time": 1762842800,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1230908,
+      "num": 180116,
+      "word": "黄晓明带小海绵参加周岁宴",
+      "onboard_time": 1762844420,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1081653,
@@ -35,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 875919,
-      "num": 180116,
-      "word": "黄晓明带小海绵参加周岁宴",
-      "onboard_time": 1762844420,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 841229,
       "num": 876749,
       "word": "故宫博物院发讣告",
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 801859,
+      "num": 801859,
+      "word": "张颂文聚餐救人获赠锦旗",
+      "onboard_time": 1762844840,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791912,
       "num": 203138,
       "word": "彭小苒连发100个问号",
       "onboard_time": 1762837462,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782857,
+      "num": 194833,
+      "word": "星巴克被吐槽爆改成县城奶茶店",
+      "onboard_time": 1762843100,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 756837,
@@ -72,14 +88,6 @@
       "word": "19岁男生错付车费自杀案宣判",
       "onboard_time": 1762822941,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 734339,
-      "num": 194833,
-      "word": "星巴克被吐槽爆改成县城奶茶店",
-      "onboard_time": 1762843100,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248400,
+      "num": 176917,
+      "word": "德军司令称柏林已做好开战准备",
+      "onboard_time": 1762842800,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246633,
       "num": 246633,
       "word": "浙江诸暨麻糍奶奶遇车祸去世",
@@ -331,8 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241416,
-      "num": 168505,
+      "raw_hot": 242184,
+      "num": 175481,
       "word": "何润东林姵希结婚9年了",
       "onboard_time": 1762844779,
       "rank": 24,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238295,
+      "num": 184988,
+      "word": "有人卖奶茶袋子赚了上千元",
+      "onboard_time": 1762843640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234370,
       "num": 133545,
       "word": "男孩矫正基地被虐28天致半残疾",
@@ -369,14 +393,6 @@
       "onboard_time": 1762825279,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 225340,
-      "num": 225340,
-      "word": "张颂文聚餐救人获赠锦旗",
-      "onboard_time": 1762844840,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 223819,
@@ -459,28 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207820,
-      "num": 184988,
-      "word": "有人卖奶茶袋子赚了上千元",
-      "onboard_time": 1762843640,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207736,
       "num": 213928,
       "word": "Gumayusi说这是我偶像Uzi亲手给我的",
       "onboard_time": 1762826901,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 207629,
-      "num": 171215,
-      "word": "德军司令称柏林已做好开战准备",
-      "onboard_time": 1762842800,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 200470,
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174638,
+      "num": 174638,
+      "word": "千里送饭煲的研究生被大厂争抢",
+      "onboard_time": 1762845800,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172981,
       "num": 172981,
       "word": "陈芋汐完美一跳全红婵起立欢呼",
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153293,
+      "num": 153293,
+      "word": "侯明昊仇人看到都释怀了",
+      "onboard_time": 1762844000,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151223,
       "num": 151223,
       "word": "百色2公职人员性侵女性被免职",
@@ -713,14 +729,6 @@
       "onboard_time": 1762838060,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145854,
-      "num": 145854,
-      "word": "千里送饭煲的研究生被大厂争抢",
-      "onboard_time": 1762845800,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144784,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 140221,
-      "num": 164946,
+      "num": 167100,
       "word": "赵丽娜红包",
       "onboard_time": 1762845199,
       "rank": 25,
@@ -792,6 +800,14 @@
       "word": "锤娜丽莎回应瘦了30斤",
       "onboard_time": 1762825340,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137887,
+      "num": 137887,
+      "word": "张颂文回应救人获赠锦旗",
+      "onboard_time": 1762846099,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -825,6 +841,14 @@
       "onboard_time": 1762826362,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136031,
+      "num": 136031,
+      "word": "余茵红包",
+      "onboard_time": 1762845321,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 134708,
@@ -899,6 +923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130058,
+      "num": 130058,
+      "word": "顾游推荐穆祉丞",
+      "onboard_time": 1762846761,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129243,
+      "num": 129243,
+      "word": "井柏然刘雯 商务共享",
+      "onboard_time": 1762846460,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "起猛了外面科技发展成这样了",
@@ -947,12 +987,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 125317,
-      "num": 125317,
-      "word": "侯明昊仇人看到都释怀了",
-      "onboard_time": 1762844000,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 125096,
+      "num": 125096,
+      "word": "Shanji要自费去T1打上单",
+      "onboard_time": 1762845499,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 125012,
@@ -977,14 +1017,6 @@
       "onboard_time": 1762820361,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124478,
-      "num": 124478,
-      "word": "余茵红包",
-      "onboard_time": 1762845321,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 124444,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 118919,
-      "num": 118919,
-      "word": "Shanji要自费去T1打上单",
-      "onboard_time": 1762845499,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 117947,
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109796,
+      "num": 109796,
+      "word": "核电工程师移民加拿大当洗碗工",
+      "onboard_time": 1762845861,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109121,
       "num": 109121,
       "word": "常华森年底也要赶KPI",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1762838600,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103984,
+      "num": 118968,
+      "word": "董璇把伴侣放在最后一名",
+      "onboard_time": 1762845199,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 102834,
@@ -1312,14 +1352,6 @@
       "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
       "onboard_time": 1762788741,
       "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 98171,
-      "num": 98171,
-      "word": "核电工程师移民加拿大当洗碗工",
-      "onboard_time": 1762845861,
-      "rank": 45,
       "category": "海外新闻"
     },
     {
@@ -1779,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72897,
+      "num": 118931,
+      "word": "特朗普 BBC",
+      "onboard_time": 1762845321,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70550,
       "num": 75373,
       "word": "当男朋友是滑雪教练时",
@@ -1812,7 +1852,7 @@
     },
     {
       "raw_hot": 67777,
-      "num": 435091,
+      "num": 592198,
       "word": "第十五届全运会",
       "onboard_time": 1762830199,
       "rank": 2,
@@ -1828,7 +1868,7 @@
     },
     {
       "raw_hot": 65695,
-      "num": 94946,
+      "num": 124716,
       "word": "邓亚萍想看看年轻人的手速",
       "onboard_time": 1762844840,
       "rank": 47,
@@ -1857,14 +1897,6 @@
       "onboard_time": 1762835841,
       "rank": 18,
       "category": "军事"
-    },
-    {
-      "raw_hot": 63213,
-      "num": 118931,
-      "word": "特朗普 BBC",
-      "onboard_time": 1762845321,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62843,
@@ -1947,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58852,
-      "num": 118968,
-      "word": "董璇把伴侣放在最后一名",
-      "onboard_time": 1762845199,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1762837401,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 57055,
+      "num": 124553,
+      "word": "威廉王子不准孩子用手机",
+      "onboard_time": 1762846280,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56805,
@@ -2084,7 +2116,7 @@
     },
     {
       "raw_hot": 43332,
-      "num": 173995,
+      "num": 176336,
       "word": "西藏航空回应36周孕妇登机后被劝下",
       "onboard_time": 1762845740,
       "rank": 22,
@@ -2136,6 +2168,14 @@
       "word": "海岛求生35天暴瘦28斤获7500元",
       "onboard_time": 1762793117,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35335,
+      "num": 176254,
+      "word": "3个空油桶 罚款5万元",
+      "onboard_time": 1762846280,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2209,6 +2249,14 @@
       "onboard_time": 1762795875,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27337,
+      "num": 124482,
+      "word": "朱珠跳舞",
+      "onboard_time": 1762846521,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27223,
