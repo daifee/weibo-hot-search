@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762843952676,
+  "endTime": 1762846048835,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1236092,
+      "num": 1236092,
+      "word": "官方通报儿子暴打93岁母亲",
+      "onboard_time": 1762842800,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1165654,
       "num": 319108,
       "word": "那英直播质疑票数",
@@ -241,6 +249,14 @@
       "onboard_time": 1762675759,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875919,
+      "num": 180116,
+      "word": "黄晓明带小海绵参加周岁宴",
+      "onboard_time": 1762844420,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 861213,
@@ -353,6 +369,14 @@
       "onboard_time": 1762614023,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 734339,
+      "num": 194833,
+      "word": "星巴克被吐槽爆改成县城奶茶店",
+      "onboard_time": 1762843100,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 734208,
@@ -1611,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299485,
+      "num": 299485,
+      "word": "陈梦回应4比0孙铭阳",
+      "onboard_time": 1762841302,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298620,
       "num": 225549,
       "word": "薛之谦 认真的雪",
@@ -2011,6 +2043,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 241416,
+      "num": 168505,
+      "word": "何润东林姵希结婚9年了",
+      "onboard_time": 1762844779,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241110,
       "num": 241110,
       "word": "白桃星座",
@@ -2073,14 +2113,6 @@
       "onboard_time": 1762672460,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234709,
-      "num": 194833,
-      "word": "星巴克被吐槽爆改成县城奶茶店",
-      "onboard_time": 1762843100,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234370,
@@ -2169,6 +2201,14 @@
       "onboard_time": 1762763000,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "张颂文聚餐救人获赠锦旗",
+      "onboard_time": 1762844840,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 225187,
@@ -2395,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207820,
+      "num": 184988,
+      "word": "有人卖奶茶袋子赚了上千元",
+      "onboard_time": 1762843640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207736,
       "num": 213928,
       "word": "Gumayusi说这是我偶像Uzi亲手给我的",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1762607841,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207629,
+      "num": 171215,
+      "word": "德军司令称柏林已做好开战准备",
+      "onboard_time": 1762842800,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207623,
@@ -2499,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203741,
-      "num": 203741,
-      "word": "官方通报儿子暴打93岁母亲",
-      "onboard_time": 1762842800,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 203387,
       "num": 203387,
       "word": "英雄联盟",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1762678999,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200470,
+      "num": 186600,
+      "word": "金饰克价涨破1300元",
+      "onboard_time": 1762841901,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 200347,
@@ -2817,14 +2873,6 @@
       "onboard_time": 1762768038,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186600,
-      "num": 186600,
-      "word": "金饰克价涨破1300元",
-      "onboard_time": 1762841901,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 186286,
@@ -3195,14 +3243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165980,
-      "num": 117144,
-      "word": "德军司令称柏林已做好开战准备",
-      "onboard_time": 1762842800,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 165870,
       "num": 165870,
       "word": "大张伟你去跟林一坐一桌",
@@ -3305,14 +3345,6 @@
       "onboard_time": 1762785143,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162379,
-      "num": 162379,
-      "word": "陈梦回应4比0孙铭阳",
-      "onboard_time": 1762841302,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 162160,
@@ -3619,6 +3651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151223,
+      "num": 151223,
+      "word": "百色2公职人员性侵女性被免职",
+      "onboard_time": 1762844240,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150920,
       "num": 240347,
       "word": "河北燕郊7死27伤爆燃事故调查报告",
@@ -3721,6 +3761,14 @@
       "onboard_time": 1762671740,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145854,
+      "num": 145854,
+      "word": "千里送饭煲的研究生被大厂争抢",
+      "onboard_time": 1762845800,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145541,
@@ -3913,6 +3961,14 @@
       "onboard_time": 1762660219,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140221,
+      "num": 164946,
+      "word": "赵丽娜红包",
+      "onboard_time": 1762845199,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 140107,
@@ -4137,6 +4193,14 @@
       "onboard_time": 1762766060,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 132963,
+      "num": 132963,
+      "word": "钎城发红包",
+      "onboard_time": 1762844900,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 132918,
@@ -4419,6 +4483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125317,
+      "num": 125317,
+      "word": "侯明昊仇人看到都释怀了",
+      "onboard_time": 1762844000,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125183,
       "num": 103498,
       "word": "朱瑶张平收到了耿耿余淮的祝福",
@@ -4481,6 +4553,14 @@
       "onboard_time": 1762820361,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124478,
+      "num": 124478,
+      "word": "余茵红包",
+      "onboard_time": 1762845321,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 124206,
@@ -4731,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118919,
+      "num": 118919,
+      "word": "Shanji要自费去T1打上单",
+      "onboard_time": 1762845499,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118837,
       "num": 126810,
       "word": "新还珠剧组回应争议",
@@ -4777,6 +4865,14 @@
       "onboard_time": 1762761799,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117947,
+      "num": 117947,
+      "word": "大湾鸡把自己给摇断电了",
+      "onboard_time": 1762840520,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 117890,
@@ -4827,14 +4923,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 116478,
-      "num": 116478,
-      "word": "大湾鸡把自己给摇断电了",
-      "onboard_time": 1762840520,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116329,
       "num": 116329,
       "word": "Gumayusi称名人堂再选烬皮肤",
@@ -4857,6 +4945,14 @@
       "onboard_time": 1762825401,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116281,
+      "num": 114864,
+      "word": "猫没事人快应激了",
+      "onboard_time": 1762845499,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 116153,
@@ -4913,6 +5009,14 @@
       "onboard_time": 1762762520,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114975,
+      "num": 114975,
+      "word": "邓恩熙扭这一下",
+      "onboard_time": 1762844720,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 114645,
@@ -5619,6 +5723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102096,
+      "num": 102096,
+      "word": "王曼昱回应险胜范思琦",
+      "onboard_time": 1762845681,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102069,
       "num": 102069,
       "word": "Mai婚礼照",
@@ -5907,6 +6019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98171,
+      "num": 98171,
+      "word": "核电工程师移民加拿大当洗碗工",
+      "onboard_time": 1762845861,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98101,
       "num": 98101,
       "word": "国漫最受欢迎的女主",
@@ -6025,6 +6145,14 @@
       "onboard_time": 1762669880,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96909,
+      "num": 96909,
+      "word": "封面迪丽热巴详情页刘亦菲同款",
+      "onboard_time": 1762845140,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 96888,
@@ -6465,6 +6593,14 @@
       "onboard_time": 1762683439,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89800,
+      "num": 89800,
+      "word": "张艺凡小声些难道光彩吗",
+      "onboard_time": 1762844120,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 89611,
@@ -7763,6 +7899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65695,
+      "num": 94946,
+      "word": "邓亚萍想看看年轻人的手速",
+      "onboard_time": 1762844840,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65598,
       "num": 65598,
       "word": "菲律宾全国超百万人撤离",
@@ -7875,6 +8019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63213,
+      "num": 118931,
+      "word": "特朗普 BBC",
+      "onboard_time": 1762845321,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63121,
       "num": 78859,
       "word": "美声版技能五子棋",
@@ -7897,6 +8049,14 @@
       "onboard_time": 1762703061,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 187316,
+      "word": "在微博抢红包忙的团团转",
+      "onboard_time": 1762844480,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 62325,
@@ -8083,6 +8243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58852,
+      "num": 118968,
+      "word": "董璇把伴侣放在最后一名",
+      "onboard_time": 1762845199,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -8209,14 +8377,6 @@
       "onboard_time": 1762664720,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 55285,
-      "num": 94332,
-      "word": "有人卖奶茶袋子赚了上千元",
-      "onboard_time": 1762843640,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55092,
@@ -8681,6 +8841,14 @@
       "onboard_time": 1762759221,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43332,
+      "num": 173995,
+      "word": "西藏航空回应36周孕妇登机后被劝下",
+      "onboard_time": 1762845740,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43172,
