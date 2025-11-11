@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762843213574,
+  "endTime": 1762843952676,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 791912,
-      "num": 190283,
+      "num": 203138,
       "word": "彭小苒连发100个问号",
       "onboard_time": 1762837462,
       "rank": 14,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 640170,
-      "num": 188056,
+      "num": 202388,
       "word": "广西百色通报公职人员涉性侵案情况",
       "onboard_time": 1762839980,
       "rank": 11,
@@ -195,8 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342684,
-      "num": 342684,
+      "raw_hot": 353801,
+      "num": 353801,
       "word": "喜人奇妙夜",
       "onboard_time": 1762839680,
       "rank": 44,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234709,
+      "num": 194833,
+      "word": "星巴克被吐槽爆改成县城奶茶店",
+      "onboard_time": 1762843100,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234370,
       "num": 133545,
       "word": "男孩矫正基地被虐28天致半残疾",
@@ -329,6 +337,14 @@
       "onboard_time": 1762825279,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223819,
+      "num": 223819,
+      "word": "歼20空空导弹发射瞬间气场拉满",
+      "onboard_time": 1762837221,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 222580,
@@ -355,12 +371,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 217207,
-      "num": 217207,
-      "word": "歼20空空导弹发射瞬间气场拉满",
-      "onboard_time": 1762837221,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 219937,
+      "num": 219937,
+      "word": "穆祉丞入选2025星辰大海",
+      "onboard_time": 1762841659,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 216943,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 212747,
-      "num": 172077,
+      "num": 192134,
       "word": "魏大勋父亲公司被举报遭处罚",
       "onboard_time": 1762839919,
       "rank": 22,
@@ -411,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203741,
+      "num": 203741,
+      "word": "官方通报儿子暴打93岁母亲",
+      "onboard_time": 1762842800,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 199334,
       "num": 114331,
       "word": "赤裸小孩生长发育正常",
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 196408,
-      "num": 170746,
+      "num": 191613,
       "word": "吴磊说好好对她好吗",
       "onboard_time": 1762841419,
       "rank": 23,
@@ -443,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190372,
-      "num": 190372,
-      "word": "穆祉丞入选2025星辰大海",
-      "onboard_time": 1762841659,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190248,
       "num": 185012,
       "word": "谢霆锋带着丁真翻车了",
@@ -465,6 +481,14 @@
       "onboard_time": 1762788920,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186600,
+      "num": 186600,
+      "word": "金饰克价涨破1300元",
+      "onboard_time": 1762841901,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 186119,
@@ -497,14 +521,6 @@
       "onboard_time": 1762786044,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181660,
-      "num": 169357,
-      "word": "金饰克价涨破1300元",
-      "onboard_time": 1762841901,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 178865,
@@ -553,6 +569,14 @@
       "onboard_time": 1762826600,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165980,
+      "num": 117144,
+      "word": "德军司令称柏林已做好开战准备",
+      "onboard_time": 1762842800,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162379,
@@ -779,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133646,
-      "num": 133646,
-      "word": "星巴克被吐槽爆改成县城奶茶店",
-      "onboard_time": 1762843100,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132584,
       "num": 132584,
       "word": "桃黑黑女友自曝不整容的原因",
@@ -939,6 +955,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 116478,
+      "num": 116478,
+      "word": "大湾鸡把自己给摇断电了",
+      "onboard_time": 1762840520,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116329,
       "num": 116329,
       "word": "Gumayusi称名人堂再选烬皮肤",
@@ -979,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111878,
+      "num": 111878,
+      "word": "陈梦还是那个陈梦",
+      "onboard_time": 1762843279,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111754,
       "num": 146001,
       "word": "喜人奇妙夜官宣全国巡演",
       "onboard_time": 1762841839,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109963,
-      "num": 109963,
-      "word": "德军司令称柏林已做好开战准备",
-      "onboard_time": 1762842800,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109121,
@@ -1179,14 +1203,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 97515,
-      "num": 97515,
-      "word": "大湾鸡把自己给摇断电了",
-      "onboard_time": 1762840520,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97002,
       "num": 97002,
       "word": "大家尽量去过规律且有支点的生活",
@@ -1203,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95056,
+      "num": 95056,
+      "word": "瞒着家里偷偷买了套房养猫",
+      "onboard_time": 1762843339,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95010,
       "num": 95010,
       "word": "我在36集电视剧里出现了14秒",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1762831280,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94247,
+      "num": 94247,
+      "word": "2025星辰大海青年演员入选名单",
+      "onboard_time": 1762836681,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 93585,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1762826960,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 91738,
-      "num": 91738,
-      "word": "2025星辰大海青年演员入选名单",
-      "onboard_time": 1762836681,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 90680,
@@ -1363,11 +1387,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85702,
+      "num": 85702,
+      "word": "Doran回应夺冠",
+      "onboard_time": 1762841959,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84540,
       "num": 84540,
       "word": "在一起久了的默契",
       "onboard_time": 1762831220,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83070,
+      "num": 83070,
+      "word": "星巴克歌单",
+      "onboard_time": 1762839201,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -1385,6 +1425,14 @@
       "onboard_time": 1762837221,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 82068,
+      "num": 82068,
+      "word": "中学党总支书记查看屋顶意外坠亡",
+      "onboard_time": 1762843879,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81990,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1762781001,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76805,
-      "num": 76805,
-      "word": "星巴克歌单",
-      "onboard_time": 1762839201,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 76778,
@@ -1748,7 +1788,7 @@
     },
     {
       "raw_hot": 58265,
-      "num": 163985,
+      "num": 195453,
       "word": "在抢红包比赛中获得第一名",
       "onboard_time": 1762842980,
       "rank": 29,
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 55975,
-      "num": 182676,
+      "num": 198997,
       "word": "每小时送一个1111元",
       "onboard_time": 1762840880,
       "rank": 14,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1762833624,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55285,
+      "num": 94332,
+      "word": "有人卖奶茶袋子赚了上千元",
+      "onboard_time": 1762843640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53191,
@@ -1835,6 +1883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 46052,
+      "num": 164513,
+      "word": "谁能接住郎平的红包",
+      "onboard_time": 1762841060,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45685,
       "num": 98317,
       "word": "我给唐朝诡事录3做了个动画",
@@ -1883,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39043,
-      "num": 164513,
-      "word": "谁能接住郎平的红包",
-      "onboard_time": 1762841060,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38965,
       "num": 96075,
       "word": "穆祉丞自由演唱会纪录片",
@@ -1913,14 +1961,6 @@
       "onboard_time": 1762837642,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35901,
-      "num": 176441,
-      "word": "官方通报儿子暴打93岁母亲",
-      "onboard_time": 1762842800,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35833,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1762830199,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20279,
+      "num": 94559,
+      "word": "男子暴打93岁母亲事发于常州",
+      "onboard_time": 1762843401,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19556,

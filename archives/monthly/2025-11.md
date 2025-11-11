@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/11 14:40:13
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/11 14:52:32
 </p>
 </blockquote>
 <p>
@@ -3909,6 +3909,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%23" target="weibo">
+喜人奇妙夜（热度：353801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B4%9D%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%E4%B8%80%E5%A4%9C%E9%99%8D%E6%B8%A9%23" target="weibo">
 水贝黄金市场一夜降温（热度：353702）
 </a>
@@ -4061,12 +4067,6 @@ Faker自拍配文成都（热度：342872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%8E%8C%E6%95%8F%E6%B4%81%E5%A4%BA%E9%87%91%23" target="weibo">
 陈芋汐掌敏洁夺金（热度：342837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%23" target="weibo">
-喜人奇妙夜（热度：342684）
 </a>
 </li>
 
@@ -5877,6 +5877,12 @@ DRG对战狼队（热度：239735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E5%90%90%E6%A7%BD%E7%88%86%E6%94%B9%E6%88%90%E5%8E%BF%E5%9F%8E%E5%A5%B6%E8%8C%B6%E5%BA%97%23" target="weibo">
+星巴克被吐槽爆改成县城奶茶店（热度：234709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%9F%AB%E6%AD%A3%E5%9F%BA%E5%9C%B0%E8%A2%AB%E8%99%9028%E5%A4%A9%E8%87%B4%E5%8D%8A%E6%AE%8B%E7%96%BE%23" target="weibo">
 男孩矫正基地被虐28天致半残疾（热度：234370）
 </a>
@@ -6005,12 +6011,6 @@ Doinb谈Uzi（热度：231537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%85%A8%E8%BF%90%E4%BC%9A%E5%8D%95%E4%BA%BA%E9%A1%B9%E7%9B%AE%23" target="weibo">
 全红婵不参加全运会单人项目（热度：229646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Peanut%E8%AF%B4LPL%E6%98%8E%E5%B9%B4%E5%A4%BA%E5%86%A0%E4%BA%86%23" target="weibo">
-Peanut说LPL明年夺冠了（热度：229229）
 </a>
 </li>
 
