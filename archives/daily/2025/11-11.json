@@ -1,9 +1,9 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762826367877,
+  "endTime": 1762827718001,
   "band_list": [
     {
-      "raw_hot": 9304731,
+      "raw_hot": 9324816,
       "num": 10554731,
       "word": "云南通报赤裸小孩事件",
       "onboard_time": 1762823541,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1553801,
-      "num": 1553801,
+      "raw_hot": 1796385,
+      "num": 1796385,
       "word": "警方通报编剧秦雯自称袭警捞人",
       "onboard_time": 1762824619,
       "rank": 1,
@@ -35,8 +35,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645057,
+      "num": 153171,
+      "word": "穆祉丞 TOP",
+      "onboard_time": 1762825102,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590387,
-      "num": 110637,
+      "num": 148396,
       "word": "迪丽热巴从九月份就开始不舒服了",
       "onboard_time": 1762817779,
       "rank": 20,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 491678,
-      "num": 116167,
+      "num": 173150,
       "word": "赤裸小孩正进行行为矫正",
       "onboard_time": 1762823780,
       "rank": 10,
@@ -76,15 +84,15 @@
     },
     {
       "raw_hot": 464840,
-      "num": 117641,
+      "num": 168453,
       "word": "商家已删除梁朝伟照片",
       "onboard_time": 1762787842,
       "rank": 35,
       "category": "艺人"
     },
     {
-      "raw_hot": 356828,
-      "num": 115544,
+      "raw_hot": 362001,
+      "num": 188799,
       "word": "短剧还珠小燕子回应眼睛不够大",
       "onboard_time": 1762820540,
       "rank": 11,
@@ -97,14 +105,6 @@
       "onboard_time": 1762818740,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336807,
-      "num": 109557,
-      "word": "穆祉丞 TOP",
-      "onboard_time": 1762825102,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 329345,
@@ -120,6 +120,14 @@
       "word": "汉堡王中国也被卖了",
       "onboard_time": 1762784243,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293015,
+      "num": 184787,
+      "word": "赤裸小孩最新视频",
+      "onboard_time": 1762825581,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -155,11 +163,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220036,
+      "num": 182809,
+      "word": "父母以为的奶茶vs实际上我喝的",
+      "onboard_time": 1762824380,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208208,
-      "num": 117166,
+      "num": 133270,
       "word": "宝宝产检正常出生后满身兽皮痣",
       "onboard_time": 1762780702,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204550,
+      "num": 177518,
+      "word": "董璇曝小酒窝请假理由",
+      "onboard_time": 1762827019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201312,
+      "num": 172342,
+      "word": "女子曝光男子殴打93岁母亲监控",
+      "onboard_time": 1762826121,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+      "onboard_time": 1762823960,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 183513,
-      "num": 108404,
+      "num": 144010,
       "word": "王嘉尔被错认成日本人的反应",
       "onboard_time": 1762786044,
       "rank": 27,
@@ -188,7 +228,7 @@
     },
     {
       "raw_hot": 178865,
-      "num": 178865,
+      "num": 191039,
       "word": "上海交大非全日制会计博士学费78万",
       "onboard_time": 1762821801,
       "rank": 6,
@@ -201,6 +241,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174378,
+      "num": 105111,
+      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+      "onboard_time": 1762826901,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 172981,
@@ -243,20 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148475,
-      "num": 113362,
-      "word": "父母以为的奶茶vs实际上我喝的",
-      "onboard_time": 1762824380,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 146413,
-      "num": 146413,
-      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
-      "onboard_time": 1762823960,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 144784,
+      "num": 144784,
+      "word": "龚俊抬剧",
+      "onboard_time": 1762826300,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 142042,
@@ -267,12 +307,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 140733,
-      "num": 112229,
-      "word": "赤裸小孩最新视频",
-      "onboard_time": 1762825581,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 138644,
+      "num": 138644,
+      "word": "锤娜丽莎回应瘦了30斤",
+      "onboard_time": 1762825340,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 137712,
@@ -307,8 +347,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127728,
+      "num": 104460,
+      "word": "好想来回应门店称3岁娃偷千元商品",
+      "onboard_time": 1762826960,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124697,
-      "num": 112910,
+      "num": 163974,
       "word": "陈伟霆再现妍妍接电话",
       "onboard_time": 1762825220,
       "rank": 16,
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 124510,
-      "num": 124510,
+      "num": 193913,
       "word": "中国汽车对俄出口骤降58%",
       "onboard_time": 1762820361,
       "rank": 8,
@@ -331,12 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123884,
-      "num": 106918,
-      "word": "女子曝光男子殴打93岁母亲监控",
-      "onboard_time": 1762826121,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 121800,
+      "num": 121800,
+      "word": "岳雨婷cp",
+      "onboard_time": 1762826600,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119548,
@@ -371,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107069,
+      "num": 107069,
+      "word": "A股千亿市值游戏大厂摘帽",
+      "onboard_time": 1762827560,
+      "rank": 28,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 106808,
       "num": 106808,
       "word": "刘浩存镜头里北京的初冬",
@@ -379,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106773,
-      "num": 106773,
-      "word": "锤娜丽莎回应瘦了30斤",
-      "onboard_time": 1762825340,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 103853,
+      "num": 103853,
+      "word": "男子在国外遭勒索给10张练功券解围",
+      "onboard_time": 1762826960,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100936,
@@ -412,7 +468,7 @@
     },
     {
       "raw_hot": 99968,
-      "num": 99968,
+      "num": 105797,
       "word": "双胞胎叫Ctrl C和Ctrl V",
       "onboard_time": 1762824619,
       "rank": 31,
@@ -443,12 +499,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92418,
+      "num": 161503,
+      "word": "背背佳和8848手机是同一个人创立",
+      "onboard_time": 1762826960,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 90797,
+      "num": 146926,
+      "word": "王楚钦樊振东或半决赛对决",
+      "onboard_time": 1762826362,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90099,
       "num": 90099,
       "word": "男生错付车费自杀案家属再发声",
       "onboard_time": 1762826060,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89859,
+      "num": 89859,
+      "word": "被学校逼出来的超能力",
+      "onboard_time": 1762825521,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89837,
@@ -483,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86591,
+      "num": 86591,
+      "word": "大湾鸡还有混血的",
+      "onboard_time": 1762826901,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81338,
       "num": 81338,
       "word": "国际金价直线拉升",
       "onboard_time": 1762822520,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81282,
+      "num": 81282,
+      "word": "曝富士康拆除iPhoneAir大部分生产线",
+      "onboard_time": 1762827380,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 81060,
@@ -571,28 +667,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75741,
-      "num": 75741,
-      "word": "龚俊抬剧",
-      "onboard_time": 1762826300,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 72192,
-      "num": 111432,
+      "raw_hot": 75591,
+      "num": 157260,
       "word": "告白",
       "onboard_time": 1762822941,
       "rank": 19,
       "category": "剧集"
     },
     {
-      "raw_hot": 71278,
-      "num": 75479,
-      "word": "被学校逼出来的超能力",
-      "onboard_time": 1762825521,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 73561,
+      "num": 73561,
+      "word": "自用消肿最快的邪修大法",
+      "onboard_time": 1762827380,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 73138,
+      "num": 73138,
+      "word": "马嘉祺刘耀文严浩翔唱了鬼怪主题曲",
+      "onboard_time": 1762826420,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 70550,
@@ -609,6 +705,22 @@
       "onboard_time": 1762796536,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68218,
+      "num": 68218,
+      "word": "DOTA2联动怪物猎人",
+      "onboard_time": 1762826840,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 66466,
+      "num": 66466,
+      "word": "人生最好的节奏是什么",
+      "onboard_time": 1762826960,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 64942,
@@ -632,6 +744,14 @@
       "word": "女婴出生3天被爸爸外婆120元卖掉",
       "onboard_time": 1762767920,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62177,
+      "num": 62177,
+      "word": "国企负责人殴打举报女老板已被撤职",
+      "onboard_time": 1762827679,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -867,8 +987,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18633,
-      "num": 766112,
+      "raw_hot": 19556,
+      "num": 1221343,
       "word": "十五运见证大湾区融合发展",
       "onboard_time": 1762779501,
       "rank": 2,

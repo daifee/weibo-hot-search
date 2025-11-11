@@ -1,9 +1,9 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762826367877,
+  "endTime": 1762827718001,
   "band_list": [
     {
-      "raw_hot": 9304731,
+      "raw_hot": 9324816,
       "num": 10554731,
       "word": "云南通报赤裸小孩事件",
       "onboard_time": 1762823541,
@@ -43,6 +43,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 1796385,
+      "num": 1796385,
+      "word": "警方通报编剧秦雯自称袭警捞人",
+      "onboard_time": 1762824619,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1654581,
       "num": 372213,
       "word": "Faker六冠王",
@@ -65,14 +73,6 @@
       "onboard_time": 1762703541,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1553801,
-      "num": 1553801,
-      "word": "警方通报编剧秦雯自称袭警捞人",
-      "onboard_time": 1762824619,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1482571,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645057,
+      "num": 153171,
+      "word": "穆祉丞 TOP",
+      "onboard_time": 1762825102,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638710,
       "num": 185816,
       "word": "范丞丞说新疆全是迪丽热巴古力娜扎",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 590387,
-      "num": 110637,
+      "num": 148396,
       "word": "迪丽热巴从九月份就开始不舒服了",
       "onboard_time": 1762817779,
       "rank": 20,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 491678,
-      "num": 116167,
+      "num": 173150,
       "word": "赤裸小孩正进行行为矫正",
       "onboard_time": 1762823780,
       "rank": 10,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 464840,
-      "num": 117641,
+      "num": 168453,
       "word": "商家已删除梁朝伟照片",
       "onboard_time": 1762787842,
       "rank": 35,
@@ -1211,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 362001,
+      "num": 188799,
+      "word": "短剧还珠小燕子回应眼睛不够大",
+      "onboard_time": 1762820540,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361920,
       "num": 206185,
       "word": "花海时团再相遇",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1762694481,
       "rank": 9,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 356828,
-      "num": 115544,
-      "word": "短剧还珠小燕子回应眼睛不够大",
-      "onboard_time": 1762820540,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 356806,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1762743800,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336807,
-      "num": 109557,
-      "word": "穆祉丞 TOP",
-      "onboard_time": 1762825102,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 335927,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1762615883,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293015,
+      "num": 184787,
+      "word": "赤裸小孩最新视频",
+      "onboard_time": 1762825581,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292438,
@@ -2051,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220036,
+      "num": 182809,
+      "word": "父母以为的奶茶vs实际上我喝的",
+      "onboard_time": 1762824380,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219185,
       "num": 179096,
       "word": "男子回应大爷吸烟进电梯被掐灭扔出",
@@ -2219,6 +2235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204550,
+      "num": 177518,
+      "word": "董璇曝小酒窝请假理由",
+      "onboard_time": 1762827019,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204413,
       "num": 204413,
       "word": "时代少年团新歌这一程预告",
@@ -2291,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201312,
+      "num": 172342,
+      "word": "女子曝光男子殴打93岁母亲监控",
+      "onboard_time": 1762826121,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200857,
       "num": 200857,
       "word": "肖战问奶牛们住的地方还有位置吗",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1762786402,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+      "onboard_time": 1762823960,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199492,
@@ -2580,7 +2620,7 @@
     },
     {
       "raw_hot": 178865,
-      "num": 178865,
+      "num": 191039,
       "word": "上海交大非全日制会计博士学费78万",
       "onboard_time": 1762821801,
       "rank": 6,
@@ -2688,6 +2728,14 @@
       "word": "T1战胜KT",
       "onboard_time": 1762694661,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 174378,
+      "num": 105111,
+      "word": "Gumayusi说这是我偶像Uzi亲手给我的",
+      "onboard_time": 1762826901,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -3267,14 +3315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148475,
-      "num": 113362,
-      "word": "父母以为的奶茶vs实际上我喝的",
-      "onboard_time": 1762824380,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 148436,
       "num": 167494,
       "word": "日本海啸",
@@ -3289,14 +3329,6 @@
       "onboard_time": 1762755501,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146413,
-      "num": 146413,
-      "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
-      "onboard_time": 1762823960,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146062,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1762643475,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144784,
+      "num": 144784,
+      "word": "龚俊抬剧",
+      "onboard_time": 1762826300,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 144780,
@@ -3451,14 +3491,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 140733,
-      "num": 112229,
-      "word": "赤裸小孩最新视频",
-      "onboard_time": 1762825581,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140286,
       "num": 140286,
       "word": "廊坊一彩民花15元中7397万大奖",
@@ -3497,6 +3529,14 @@
       "onboard_time": 1762685059,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 138644,
+      "num": 138644,
+      "word": "锤娜丽莎回应瘦了30斤",
+      "onboard_time": 1762825340,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 138593,
@@ -3763,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127728,
+      "num": 104460,
+      "word": "好想来回应门店称3岁娃偷千元商品",
+      "onboard_time": 1762826960,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127613,
       "num": 127613,
       "word": "恩利一开口以为庾澄庆来了",
@@ -3876,7 +3924,7 @@
     },
     {
       "raw_hot": 124697,
-      "num": 112910,
+      "num": 163974,
       "word": "陈伟霆再现妍妍接电话",
       "onboard_time": 1762825220,
       "rank": 16,
@@ -3892,7 +3940,7 @@
     },
     {
       "raw_hot": 124510,
-      "num": 124510,
+      "num": 193913,
       "word": "中国汽车对俄出口骤降58%",
       "onboard_time": 1762820361,
       "rank": 8,
@@ -3921,14 +3969,6 @@
       "onboard_time": 1762771161,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 123884,
-      "num": 106918,
-      "word": "女子曝光男子殴打93岁母亲监控",
-      "onboard_time": 1762826121,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123846,
@@ -3993,6 +4033,14 @@
       "onboard_time": 1762749980,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121800,
+      "num": 121800,
+      "word": "岳雨婷cp",
+      "onboard_time": 1762826600,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121445,
@@ -4555,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107069,
+      "num": 107069,
+      "word": "A股千亿市值游戏大厂摘帽",
+      "onboard_time": 1762827560,
+      "rank": 28,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 106995,
       "num": 106995,
       "word": "气血不足的人建议向小猫学习",
@@ -4576,14 +4632,6 @@
       "word": "刘浩存镜头里北京的初冬",
       "onboard_time": 1762793419,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 106773,
-      "num": 106773,
-      "word": "锤娜丽莎回应瘦了30斤",
-      "onboard_time": 1762825340,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -4761,6 +4809,14 @@
       "onboard_time": 1762766660,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103853,
+      "num": 103853,
+      "word": "男子在国外遭勒索给10张练功券解围",
+      "onboard_time": 1762826960,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103849,
@@ -5068,7 +5124,7 @@
     },
     {
       "raw_hot": 99968,
-      "num": 99968,
+      "num": 105797,
       "word": "双胞胎叫Ctrl C和Ctrl V",
       "onboard_time": 1762824619,
       "rank": 31,
@@ -5427,6 +5483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92418,
+      "num": 161503,
+      "word": "背背佳和8848手机是同一个人创立",
+      "onboard_time": 1762826960,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92323,
       "num": 92323,
       "word": "大鱼海棠在此刻具象化了",
@@ -5547,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90797,
+      "num": 146926,
+      "word": "王楚钦樊振东或半决赛对决",
+      "onboard_time": 1762826362,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90760,
       "num": 90760,
       "word": "孙杨回应又哭了",
@@ -5609,6 +5681,14 @@
       "onboard_time": 1762686199,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89859,
+      "num": 89859,
+      "word": "被学校逼出来的超能力",
+      "onboard_time": 1762825521,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89838,
@@ -5819,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86591,
+      "num": 86591,
+      "word": "大湾鸡还有混血的",
+      "onboard_time": 1762826901,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86589,
       "num": 86589,
       "word": "预售15天的女装退货率超一半",
@@ -6025,6 +6113,14 @@
       "onboard_time": 1762822520,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81282,
+      "num": 81282,
+      "word": "曝富士康拆除iPhoneAir大部分生产线",
+      "onboard_time": 1762827380,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 81196,
@@ -6291,11 +6387,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75741,
-      "num": 75741,
-      "word": "龚俊抬剧",
-      "onboard_time": 1762826300,
-      "rank": 45,
+      "raw_hot": 75591,
+      "num": 157260,
+      "word": "告白",
+      "onboard_time": 1762822941,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -6379,6 +6475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73561,
+      "num": 73561,
+      "word": "自用消肿最快的邪修大法",
+      "onboard_time": 1762827380,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73521,
       "num": 125612,
       "word": "道崽 挑杯见",
@@ -6393,6 +6497,14 @@
       "onboard_time": 1762764020,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73138,
+      "num": 73138,
+      "word": "马嘉祺刘耀文严浩翔唱了鬼怪主题曲",
+      "onboard_time": 1762826420,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 73076,
@@ -6435,14 +6547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72192,
-      "num": 111432,
-      "word": "告白",
-      "onboard_time": 1762822941,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72090,
       "num": 72090,
       "word": "情绪背后可能是甲状腺在求救",
@@ -6465,14 +6569,6 @@
       "onboard_time": 1762594759,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71278,
-      "num": 75479,
-      "word": "被学校逼出来的超能力",
-      "onboard_time": 1762825521,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 71178,
@@ -6627,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68218,
+      "num": 68218,
+      "word": "DOTA2联动怪物猎人",
+      "onboard_time": 1762826840,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67997,
       "num": 149837,
       "word": "最早一批返乡过年的是水贝商家",
@@ -6665,6 +6769,14 @@
       "onboard_time": 1762732038,
       "rank": 29,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 66466,
+      "num": 66466,
+      "word": "人生最好的节奏是什么",
+      "onboard_time": 1762826960,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 66225,
@@ -6825,6 +6937,14 @@
       "onboard_time": 1762769419,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62177,
+      "num": 62177,
+      "word": "国企负责人殴打举报女老板已被撤职",
+      "onboard_time": 1762827679,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61990,
@@ -7884,7 +8004,7 @@
     },
     {
       "raw_hot": 30885,
-      "num": 766112,
+      "num": 1221343,
       "word": "十五运见证大湾区融合发展",
       "onboard_time": 1762779501,
       "rank": 2,
