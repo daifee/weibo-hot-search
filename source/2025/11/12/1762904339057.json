@@ -1,0 +1,410 @@
+{
+  "runTime": 1762904339057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555531,
+        "num": 913954,
+        "word": "英国海边出现巨型海怪",
+        "onboard_time": 1762867521,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304177,
+        "num": 304177,
+        "word": "阿坝大桥垮塌前已发现险情",
+        "onboard_time": 1762892353,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2797,
+        "num": 223780,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165824,
+        "num": 165824,
+        "word": "暴打九旬老母突破人伦必须严惩",
+        "onboard_time": 1762881736,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129060,
+        "num": 129060,
+        "word": "乒乓球男单前8号种子出局一半",
+        "onboard_time": 1762867701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104743,
+        "num": 104743,
+        "word": "双十一期间多名主播喊破了肺泡",
+        "onboard_time": 1762872322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90147,
+        "num": 90147,
+        "word": "杨旭文 工作暂停庆祝破万",
+        "onboard_time": 1762872982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75220,
+        "num": 89074,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71905,
+        "num": 88469,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62535,
+        "num": 87890,
+        "word": "唐诡3热度破万",
+        "onboard_time": 1762870583,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504496,
+        "num": 86373,
+        "word": "不要再叫我们阿三了",
+        "onboard_time": 1762902797,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437580,
+        "num": 85152,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205295,
+        "num": 84226,
+        "word": "公司回应张老六请假参加荒野求生",
+        "onboard_time": 1762882875,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 82932,
+        "word": "张颂文救人后悄然离去",
+        "onboard_time": 1762874182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166297,
+        "num": 82202,
+        "word": "特朗普回应高市早苗涉台错误言论",
+        "onboard_time": 1762870462,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130255,
+        "num": 81107,
+        "word": "美主播阴阳怪气中国人遭特朗普反驳",
+        "onboard_time": 1762872682,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80243,
+        "num": 80243,
+        "word": "肖战易烊千玺人脸头套成爆款",
+        "onboard_time": 1762874781,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 79469,
+        "num": 79469,
+        "word": "香港一对六旬兄弟陈尸家中",
+        "onboard_time": 1762875621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77646,
+        "num": 77646,
+        "word": "男子收割玉米突发意外抢救无效去世",
+        "onboard_time": 1762870642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54438,
+        "num": 77163,
+        "word": "年会不能停2 大鹏",
+        "onboard_time": 1762868361,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288606,
+        "num": 76404,
+        "word": "向太回应李连杰状态回春",
+        "onboard_time": 1762880118,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172317,
+        "num": 75054,
+        "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+        "onboard_time": 1762860742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129643,
+        "num": 74178,
+        "word": "何穗产后身材 像没生过",
+        "onboard_time": 1762870283,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97588,
+        "num": 72886,
+        "word": "打羽毛球 瘦30斤",
+        "onboard_time": 1762902017,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81444,
+        "num": 72284,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1762870642,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71652,
+        "num": 71652,
+        "word": "发现研究生的社会化程度都好高",
+        "onboard_time": 1762903277,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70809,
+        "num": 70809,
+        "word": "家长距离老师只差教师资格证了",
+        "onboard_time": 1762903338,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61980,
+        "num": 61980,
+        "word": "特朗普宣布不再资助乌克兰",
+        "onboard_time": 1762904298,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61862,
+        "num": 61862,
+        "word": "许绍雄女儿再发文",
+        "onboard_time": 1762873040,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35997,
+        "num": 61395,
+        "word": "日首相凌晨3点开会因为传真机卡了",
+        "onboard_time": 1762875079,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88724,
+        "num": 61371,
+        "word": "四川队夺得全运会乒乓球冠军",
+        "onboard_time": 1762902978,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61901,
+        "num": 61360,
+        "word": "Doran冠军皮肤选安蓓萨",
+        "onboard_time": 1762903818,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61205,
+        "num": 61205,
+        "word": "比特币富婆钱志敏最高面临14年监禁",
+        "onboard_time": 1762875740,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60289,
+        "num": 60289,
+        "word": "秋假",
+        "onboard_time": 1762867342,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 58672,
+        "num": 58672,
+        "word": "第一次见耳距这么近的咪",
+        "onboard_time": 1762903759,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57983,
+        "num": 57983,
+        "word": "谢娜决定七个一起挂",
+        "onboard_time": 1762904059,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57515,
+        "num": 57515,
+        "word": "余华你知道你这句话救了多少人吗",
+        "onboard_time": 1762870583,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 57181,
+        "num": 57181,
+        "word": "中国驻韩使馆深表痛心",
+        "onboard_time": 1762903636,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 39811,
+        "num": 55643,
+        "word": "唐诡王者荣耀联动",
+        "onboard_time": 1762875621,
+        "rank": 38,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 46161,
+        "num": 55408,
+        "word": "湖南卫视接还珠回宫",
+        "onboard_time": 1762904239,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55229,
+        "num": 55229,
+        "word": "7省份已率先实现生娃基本不花钱",
+        "onboard_time": 1762904059,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45994,
+        "num": 55179,
+        "word": "从英国寄来的猫听不懂中文",
+        "onboard_time": 1762903759,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45875,
+        "num": 55142,
+        "word": "日本外相欲替高市发言遭制止",
+        "onboard_time": 1762903878,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45617,
+        "num": 55091,
+        "word": "爸爸年轻时候埋下的一颗人参",
+        "onboard_time": 1762874002,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 55033,
+        "word": "曝BLG与TES竞拍积分前二",
+        "onboard_time": 1762869683,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43595,
+        "num": 55017,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42882,
+        "num": 54955,
+        "word": "李纯马頔婚后首同框",
+        "onboard_time": 1762864761,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 54881,
+        "word": "田曦薇体制内女友风",
+        "onboard_time": 1762884435,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40239,
+        "num": 54847,
+        "word": "差点没认出来这是成龙",
+        "onboard_time": 1762860142,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34270,
+        "num": 54763,
+        "word": "丁禹兮山河枕卫视收视第一",
+        "onboard_time": 1762899075,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762903474520,
+  "endTime": 1762904339057,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3395,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504496,
+      "num": 86373,
+      "word": "不要再叫我们阿三了",
+      "onboard_time": 1762902797,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 504057,
       "num": 195699,
       "word": "真的建议检查一下爸妈的手机",
@@ -4227,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437580,
+      "num": 140684,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 437495,
       "num": 236013,
       "word": "蒋欣终于又演了一次被爱",
@@ -4801,14 +4817,6 @@
       "onboard_time": 1762009344,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 391372,
-      "num": 140684,
-      "word": "经济学家不建议大家提前还贷",
-      "onboard_time": 1762874002,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 390969,
@@ -6459,6 +6467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 304177,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 303923,
       "num": 504086,
       "word": "李纯马頔一看就很会过日子",
@@ -6473,14 +6489,6 @@
       "onboard_time": 1762263022,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303569,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 303555,
@@ -6880,6 +6888,14 @@
       "word": "王一菲致歉",
       "onboard_time": 1762412901,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288606,
+      "num": 76404,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -7603,14 +7619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259557,
-      "num": 68576,
-      "word": "不要再叫我们阿三了",
-      "onboard_time": 1762902797,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258842,
       "num": 209549,
       "word": "金店员工慢动作操作挽损18万",
@@ -7737,14 +7745,6 @@
       "onboard_time": 1762432761,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253956,
-      "num": 67279,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 253796,
@@ -9659,6 +9659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205295,
+      "num": 84226,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205248,
       "num": 182423,
       "word": "时代少年团台历",
@@ -11067,14 +11075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187513,
-      "num": 68471,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187499,
       "num": 280400,
       "word": "五星红旗在粤港澳同时升起",
@@ -12147,6 +12147,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 173289,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172981,
       "num": 172981,
       "word": "陈芋汐完美一跳全红婵起立欢呼",
@@ -12787,6 +12795,14 @@
       "category": "电竞,综艺"
     },
     {
+      "raw_hot": 166297,
+      "num": 125892,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166256,
       "num": 185827,
       "word": "现在就出发",
@@ -12857,6 +12873,14 @@
       "onboard_time": 1762784182,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165824,
+      "num": 165824,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165710,
@@ -13571,14 +13595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159053,
-      "num": 125892,
-      "word": "特朗普回应高市早苗涉台错误言论",
-      "onboard_time": 1762870462,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 158981,
       "num": 244081,
       "word": "迪丽热巴粉丝枭起青壤云包场",
@@ -14129,14 +14145,6 @@
       "onboard_time": 1762689441,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154478,
-      "num": 154478,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154442,
@@ -15232,14 +15240,6 @@
       "word": "TFBOYS又有新站子了",
       "onboard_time": 1762849824,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144835,
-      "num": 86108,
-      "word": "张颂文救人后悄然离去",
-      "onboard_time": 1762874182,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -25443,6 +25443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97588,
+      "num": 72886,
+      "word": "打羽毛球 瘦30斤",
+      "onboard_time": 1762902017,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97564,
       "num": 124071,
       "word": "零跑汽车10月交付70289台",
@@ -28419,6 +28427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88724,
+      "num": 61371,
+      "word": "四川队夺得全运会乒乓球冠军",
+      "onboard_time": 1762902978,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88716,
       "num": 88716,
       "word": "只有两家影城的鹤岗走出世界影后",
@@ -31067,14 +31083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 80027,
-      "num": 66930,
-      "word": "打羽毛球 瘦30斤",
-      "onboard_time": 1762902017,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79993,
       "num": 122433,
       "word": "全红婵跳水慢动作看不够",
@@ -31179,6 +31187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79469,
+      "num": 125921,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79436,
       "num": 79436,
       "word": "小鹏汽车大涨超16%",
@@ -31193,14 +31209,6 @@
       "onboard_time": 1762169121,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79382,
-      "num": 125921,
-      "word": "香港一对六旬兄弟陈尸家中",
-      "onboard_time": 1762875621,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79324,
@@ -32947,6 +32955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71652,
+      "num": 71652,
+      "word": "发现研究生的社会化程度都好高",
+      "onboard_time": 1762903277,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71555,
       "num": 112985,
       "word": "日本四位前首相会上疑似闭眼打瞌睡",
@@ -33105,6 +33121,14 @@
       "onboard_time": 1762684159,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70809,
+      "num": 70809,
+      "word": "家长距离老师只差教师资格证了",
+      "onboard_time": 1762903338,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70793,
@@ -33393,14 +33417,6 @@
       "onboard_time": 1762647438,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69086,
-      "num": 55785,
-      "word": "四川队夺得全运会乒乓球冠军",
-      "onboard_time": 1762902978,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 69066,
@@ -33769,14 +33785,6 @@
       "onboard_time": 1761913283,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66669,
-      "num": 66669,
-      "word": "发现研究生的社会化程度都好高",
-      "onboard_time": 1762903277,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 66607,
@@ -34467,6 +34475,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61980,
+      "num": 61980,
+      "word": "特朗普宣布不再资助乌克兰",
+      "onboard_time": 1762904298,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 61901,
+      "num": 61360,
+      "word": "Doran冠军皮肤选安蓓萨",
+      "onboard_time": 1762903818,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61892,
       "num": 106919,
       "word": "哈士奇满身脏毛用干毛巾一擦就干净",
@@ -34931,6 +34955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58672,
+      "num": 58672,
+      "word": "第一次见耳距这么近的咪",
+      "onboard_time": 1762903759,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58647,
       "num": 104886,
       "word": "迪丽热巴卫蓝全黑造型",
@@ -35017,6 +35049,14 @@
       "onboard_time": 1762307600,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 57983,
+      "num": 57983,
+      "word": "谢娜决定七个一起挂",
+      "onboard_time": 1762904059,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 57941,
@@ -35145,6 +35185,14 @@
       "onboard_time": 1762228401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57181,
+      "num": 57181,
+      "word": "中国驻韩使馆深表痛心",
+      "onboard_time": 1762903636,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 57132,
@@ -35417,6 +35465,14 @@
       "onboard_time": 1762664720,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55229,
+      "num": 55229,
+      "word": "7省份已率先实现生娃基本不花钱",
+      "onboard_time": 1762904059,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55187,
@@ -35808,14 +35864,6 @@
       "word": "脚手架垮塌遇难者父亲发声",
       "onboard_time": 1762270579,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51316,
-      "num": 51316,
-      "word": "家长距离老师只差教师资格证了",
-      "onboard_time": 1762903338,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -36499,6 +36547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46161,
+      "num": 55408,
+      "word": "湖南卫视接还珠回宫",
+      "onboard_time": 1762904239,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46097,
       "num": 92947,
       "word": "小伙为拿驾照花1600元买五趾鞋练车",
@@ -36531,12 +36587,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 45994,
+      "num": 55179,
+      "word": "从英国寄来的猫听不懂中文",
+      "onboard_time": 1762903759,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45899,
       "num": 105524,
       "word": "Gumayusi趣评oner蒙多",
       "onboard_time": 1762858762,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45875,
+      "num": 55142,
+      "word": "日本外相欲替高市发言遭制止",
+      "onboard_time": 1762903878,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45681,
@@ -37025,6 +37097,14 @@
       "onboard_time": 1762212859,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41977,
+      "num": 54881,
+      "word": "田曦薇体制内女友风",
+      "onboard_time": 1762884435,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 41736,
@@ -37659,14 +37739,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 36189,
-      "num": 51268,
-      "word": "田曦薇体制内女友风",
-      "onboard_time": 1762884435,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36185,
       "num": 80966,
       "word": "郭焱说王艺迪扛起国乒的希望",
@@ -37899,6 +37971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34270,
+      "num": 54763,
+      "word": "丁禹兮山河枕卫视收视第一",
+      "onboard_time": 1762899075,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34240,
       "num": 164975,
       "word": "iQOO和KPL的第七年",
@@ -37961,14 +38041,6 @@
       "onboard_time": 1762207815,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 33811,
-      "num": 51258,
-      "word": "丁禹兮山河枕卫视收视第一",
-      "onboard_time": 1762899075,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 33801,
