@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762866559944,
+  "endTime": 1762868908303,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 977480,
+      "num": 1156396,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 854064,
       "num": 401194,
       "word": "苏州交警致歉",
@@ -99,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837343,
+      "num": 185448,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791912,
       "num": 203138,
       "word": "彭小苒连发100个问号",
       "onboard_time": 1762837462,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 789146,
-      "num": 1126263,
-      "word": "金鸡奖提名",
-      "onboard_time": 1762857501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 782857,
@@ -129,14 +137,6 @@
       "onboard_time": 1762833141,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 743184,
-      "num": 185448,
-      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
-      "onboard_time": 1762860742,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 741062,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341671,
+      "num": 236013,
+      "word": "蒋欣终于又演了一次被爱",
+      "onboard_time": 1762866681,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340050,
       "num": 340050,
       "word": "周京泽人设",
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250013,
+      "num": 241568,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247206,
       "num": 247206,
       "word": "井柏然刘雯 商务共享",
@@ -627,11 +643,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241568,
-      "num": 241568,
-      "word": "差点没认出来这是成龙",
-      "onboard_time": 1762860142,
-      "rank": 46,
+      "raw_hot": 242076,
+      "num": 176065,
+      "word": "大张伟欧洲被砸车以为节目组整蛊",
+      "onboard_time": 1762867041,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240628,
+      "num": 160412,
+      "word": "陈飞宇主持",
+      "onboard_time": 1762866201,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204252,
+      "num": 132201,
+      "word": "杨幂 我和我担是同担",
+      "onboard_time": 1762865182,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202654,
       "num": 202654,
       "word": "田曦薇不喜欢追求情绪稳定",
@@ -883,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188266,
+      "num": 126490,
+      "word": "叶诗文创亚洲纪录时于子迪还未出生",
+      "onboard_time": 1762868423,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186119,
       "num": 186119,
       "word": "周洁琼演技",
@@ -947,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176691,
+      "num": 176691,
+      "word": "英国海边出现巨型海怪",
+      "onboard_time": 1762867521,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175933,
       "num": 169968,
       "word": "老默不得了了大嫂都敢追",
@@ -961,6 +1009,14 @@
       "onboard_time": 1762845800,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174145,
+      "num": 241687,
+      "word": "广东vs辽宁",
+      "onboard_time": 1762863561,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 172981,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1762865540,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157203,
-      "num": 128527,
-      "word": "杨幂 我和我担是同担",
-      "onboard_time": 1762865182,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 156676,
@@ -1235,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142851,
+      "num": 142851,
+      "word": "秋假",
+      "onboard_time": 1762867342,
+      "rank": 17,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 142042,
       "num": 142042,
       "word": "双十一",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1762836081,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140551,
-      "num": 241687,
-      "word": "广东vs辽宁",
-      "onboard_time": 1762863561,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 140221,
@@ -1467,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129711,
+      "num": 129711,
+      "word": "宋茜亮片露背裙",
+      "onboard_time": 1762865661,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129178,
       "num": 129178,
       "word": "金鸡奖预测",
@@ -1539,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127341,
+      "num": 126486,
+      "word": "孙杨看到于子迪破纪录的表情",
+      "onboard_time": 1762867342,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "布瑞吉vs布瑞吉",
@@ -1553,6 +1617,22 @@
       "onboard_time": 1762856661,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126492,
+      "num": 126492,
+      "word": "章昊劝大家生孩子之前三思",
+      "onboard_time": 1762867881,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126480,
+      "num": 126480,
+      "word": "乒乓球男单前8号种子出局一半",
+      "onboard_time": 1762867701,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 126470,
@@ -1659,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123877,
+      "num": 123877,
+      "word": "潘展乐孙杨晋级200自决赛",
+      "onboard_time": 1762866561,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123300,
       "num": 123300,
       "word": "日本小学午餐",
@@ -1739,6 +1827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116873,
+      "num": 116873,
+      "word": "iPhone18Pro升级工艺",
+      "onboard_time": 1762867939,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116329,
       "num": 116329,
       "word": "Gumayusi称名人堂再选烬皮肤",
@@ -1793,14 +1889,6 @@
       "onboard_time": 1762844720,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114685,
-      "num": 114685,
-      "word": "陈飞宇主持",
-      "onboard_time": 1762866201,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 113918,
@@ -2019,12 +2107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104582,
-      "num": 104582,
-      "word": "宋茜亮片露背裙",
-      "onboard_time": 1762865661,
+      "raw_hot": 104386,
+      "num": 104386,
+      "word": "蝶后不愧是蝶后",
+      "onboard_time": 1762868423,
       "rank": 36,
-      "category": "电影"
+      "category": "体育"
     },
     {
       "raw_hot": 104099,
@@ -2115,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100819,
+      "num": 100819,
+      "word": "年会不能停2 大鹏",
+      "onboard_time": 1762868361,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100775,
       "num": 100775,
       "word": "水煮菜",
@@ -2195,6 +2291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98271,
+      "num": 114048,
+      "word": "男子脱裤羞辱女店员老板维护获赞",
+      "onboard_time": 1762865301,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97962,
       "num": 97962,
       "word": "官方回应四川阿坝红旗桥垮塌",
@@ -2217,6 +2321,14 @@
       "onboard_time": 1762852761,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97527,
+      "num": 103013,
+      "word": "奶皮子糖葫芦 从5块到98块",
+      "onboard_time": 1762866741,
+      "rank": 37,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 97339,
@@ -2603,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86468,
+      "num": 86468,
+      "word": "内蒙古奶皮子厂家爆单了",
+      "onboard_time": 1762865901,
+      "rank": 44,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 86312,
       "num": 86312,
       "word": "东北2元买到的巨型炸串",
@@ -2812,7 +2932,7 @@
     },
     {
       "raw_hot": 77205,
-      "num": 97095,
+      "num": 101600,
       "word": "京东青春采销成团送大奖",
       "onboard_time": 1762866021,
       "rank": 39,
@@ -2931,14 +3051,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72583,
-      "num": 114048,
-      "word": "男子脱裤羞辱女店员老板维护获赞",
-      "onboard_time": 1762865301,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70550,
       "num": 75373,
       "word": "当男朋友是滑雪教练时",
@@ -2948,7 +3060,7 @@
     },
     {
       "raw_hot": 70235,
-      "num": 116312,
+      "num": 139076,
       "word": "最后一波囤衣服该安排上了",
       "onboard_time": 1762863861,
       "rank": 35,
@@ -3304,6 +3416,14 @@
       "word": "大湾鸡冰墩墩来自一个设计团队",
       "onboard_time": 1762852941,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47223,
+      "num": 162359,
+      "word": "全运会广东男篮战胜辽宁男篮",
+      "onboard_time": 1762868242,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -3705,6 +3825,9 @@
     },
     {
       "word": "#总书记心系体育强国梦#"
+    },
+    {
+      "word": "#习近平总书记海南广东之行纪实#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1762868908303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977480,
+        "num": 1156396,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250208,
+        "num": 250208,
+        "word": "王者更改匹配机制",
+        "onboard_time": 1762854201,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5145,
+        "num": 238568,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341671,
+        "num": 236013,
+        "word": "蒋欣终于又演了一次被爱",
+        "onboard_time": 1762866681,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231794,
+        "num": 231794,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "英国海边出现巨型海怪",
+        "onboard_time": 1762867521,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242076,
+        "num": 176065,
+        "word": "大张伟欧洲被砸车以为节目组整蛊",
+        "onboard_time": 1762867041,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174145,
+        "num": 174145,
+        "word": "广东vs辽宁",
+        "onboard_time": 1762863561,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163096,
+        "num": 163096,
+        "word": "AL",
+        "onboard_time": 1762855521,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47223,
+        "num": 162359,
+        "word": "全运会广东男篮战胜辽宁男篮",
+        "onboard_time": 1762868242,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348380,
+        "num": 161949,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247871,
+        "num": 161065,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 240628,
+        "num": 160412,
+        "word": "陈飞宇主持",
+        "onboard_time": 1762866201,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19757,
+        "num": 159376,
+        "word": "司马光跳猫猫舞",
+        "onboard_time": 1762863861,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240897,
+        "num": 158885,
+        "word": "金银错 李昀锐",
+        "onboard_time": 1762859781,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178216,
+        "num": 157893,
+        "word": "唐诡三季了我还是猜不对凶手",
+        "onboard_time": 1762862182,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 157435,
+        "word": "金鸡奖开幕式",
+        "onboard_time": 1762861821,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142851,
+        "num": 142851,
+        "word": "秋假",
+        "onboard_time": 1762867342,
+        "rank": 17,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 140229,
+        "num": 140229,
+        "word": "于子迪200混夺冠",
+        "onboard_time": 1762865062,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50597,
+        "num": 139076,
+        "word": "最后一波囤衣服该安排上了",
+        "onboard_time": 1762863861,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 837343,
+        "num": 137819,
+        "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+        "onboard_time": 1762860742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685911,
+        "num": 135848,
+        "word": "baby让小海绵带去了生日礼物",
+        "onboard_time": 1762862302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250013,
+        "num": 135165,
+        "word": "差点没认出来这是成龙",
+        "onboard_time": 1762860142,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223560,
+        "num": 133446,
+        "word": "四川阿坝红旗桥垮塌",
+        "onboard_time": 1762858941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204252,
+        "num": 132201,
+        "word": "杨幂 我和我担是同担",
+        "onboard_time": 1762865182,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142853,
+        "num": 131014,
+        "word": "苏州交警致歉",
+        "onboard_time": 1762854501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "宋茜亮片露背裙",
+        "onboard_time": 1762865661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49425,
+        "num": 127264,
+        "word": "错过这波红包雨要再等一年",
+        "onboard_time": 1762863861,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126765,
+        "num": 126765,
+        "word": "高会崩了",
+        "onboard_time": 1762863621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126492,
+        "num": 126492,
+        "word": "章昊劝大家生孩子之前三思",
+        "onboard_time": 1762867881,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188266,
+        "num": 126490,
+        "word": "叶诗文创亚洲纪录时于子迪还未出生",
+        "onboard_time": 1762868423,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127341,
+        "num": 126486,
+        "word": "孙杨看到于子迪破纪录的表情",
+        "onboard_time": 1762867342,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126480,
+        "num": 126480,
+        "word": "乒乓球男单前8号种子出局一半",
+        "onboard_time": 1762867701,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123877,
+        "num": 123877,
+        "word": "潘展乐孙杨晋级200自决赛",
+        "onboard_time": 1762866561,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116873,
+        "num": 116873,
+        "word": "iPhone18Pro升级工艺",
+        "onboard_time": 1762867939,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104386,
+        "num": 104386,
+        "word": "蝶后不愧是蝶后",
+        "onboard_time": 1762868423,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97527,
+        "num": 103013,
+        "word": "奶皮子糖葫芦 从5块到98块",
+        "onboard_time": 1762866741,
+        "rank": 37,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 101827,
+        "num": 101827,
+        "word": "李纯马頔婚后首同框",
+        "onboard_time": 1762864761,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54125,
+        "num": 101600,
+        "word": "京东青春采销成团送大奖",
+        "onboard_time": 1762866021,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101381,
+        "num": 101381,
+        "word": "贺峻霖 别让研究生拍这些",
+        "onboard_time": 1762858701,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100819,
+        "num": 100819,
+        "word": "年会不能停2 大鹏",
+        "onboard_time": 1762868361,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98271,
+        "num": 98271,
+        "word": "男子脱裤羞辱女店员老板维护获赞",
+        "onboard_time": 1762865301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96154,
+        "num": 96154,
+        "word": "于子迪刷新亚洲纪录",
+        "onboard_time": 1762865120,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86468,
+        "num": 86468,
+        "word": "内蒙古奶皮子厂家爆单了",
+        "onboard_time": 1762865901,
+        "rank": 44,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 85265,
+        "num": 85265,
+        "word": "金鸡奖",
+        "onboard_time": 1762855220,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80798,
+        "num": 80798,
+        "word": "梁靖崑男单爆冷出局",
+        "onboard_time": 1762859361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80716,
+        "num": 80716,
+        "word": "你是长大了吗好可怕",
+        "onboard_time": 1762864223,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80652,
+        "num": 80652,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79989,
+        "num": 79989,
+        "word": "老凤詳足金项链到手竟是金包银",
+        "onboard_time": 1762866021,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记海南广东之行纪实#"
+    }
+  }
+}
