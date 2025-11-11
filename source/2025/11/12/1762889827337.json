@@ -1,0 +1,410 @@
+{
+  "runTime": 1762889827337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 65643,
+        "num": 65643,
+        "word": "暴打九旬老母突破人伦必须严惩",
+        "onboard_time": 1762881736,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48976,
+        "num": 48976,
+        "word": "英国海边出现巨型海怪",
+        "onboard_time": 1762867521,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 930,
+        "num": 36100,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24882,
+        "num": 24882,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24184,
+        "num": 24184,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23289,
+        "num": 23289,
+        "word": "唐诡3热度破万",
+        "onboard_time": 1762870583,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21022,
+        "num": 23238,
+        "word": "秋假",
+        "onboard_time": 1762867342,
+        "rank": 6,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 19934,
+        "num": 23217,
+        "word": "奶皮子酸奶",
+        "onboard_time": 1762869801,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19629,
+        "num": 23141,
+        "word": "唐诡王者荣耀联动",
+        "onboard_time": 1762875621,
+        "rank": 8,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 15643,
+        "num": 23119,
+        "word": "乒乓球男单前8号种子出局一半",
+        "onboard_time": 1762867701,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39782,
+        "num": 23068,
+        "word": "公司回应张老六请假参加荒野求生",
+        "onboard_time": 1762882875,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36305,
+        "num": 23022,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31980,
+        "num": 22944,
+        "word": "张颂文救人后悄然离去",
+        "onboard_time": 1762874182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30132,
+        "num": 22909,
+        "word": "美主播阴阳怪气中国人遭特朗普反驳",
+        "onboard_time": 1762872682,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22880,
+        "num": 22880,
+        "word": "香港一对六旬兄弟陈尸家中",
+        "onboard_time": 1762875621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22416,
+        "num": 22416,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18713,
+        "num": 22416,
+        "word": "曝BLG与TES竞拍积分前二",
+        "onboard_time": 1762869683,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17802,
+        "num": 22408,
+        "word": "肖战易烊千玺人脸头套成爆款",
+        "onboard_time": 1762874781,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 16279,
+        "num": 22401,
+        "word": "杨旭文 工作暂停庆祝破万",
+        "onboard_time": 1762872982,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 22387,
+        "word": "金银错 李昀锐",
+        "onboard_time": 1762859781,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54846,
+        "num": 22385,
+        "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+        "onboard_time": 1762860742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51352,
+        "num": 22379,
+        "word": "向太回应李连杰状态回春",
+        "onboard_time": 1762880118,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30844,
+        "num": 22372,
+        "word": "何穗产后身材 像没生过",
+        "onboard_time": 1762870283,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19316,
+        "num": 22361,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1762870642,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 22356,
+        "word": "宋茜薄纱下的马甲线",
+        "onboard_time": 1762877241,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16735,
+        "num": 22349,
+        "word": "特朗普回应高市早苗涉台错误言论",
+        "onboard_time": 1762870462,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16182,
+        "num": 22340,
+        "word": "余华你知道你这句话救了多少人吗",
+        "onboard_time": 1762870583,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 14939,
+        "num": 22335,
+        "word": "爱奇艺2025破万剧",
+        "onboard_time": 1762873881,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14924,
+        "num": 22329,
+        "word": "金鸡奖",
+        "onboard_time": 1762855220,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13590,
+        "num": 22315,
+        "word": "日首相凌晨3点开会因为传真机卡了",
+        "onboard_time": 1762875079,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20662,
+        "num": 22314,
+        "word": "比特币富婆钱志敏最高面临14年监禁",
+        "onboard_time": 1762875740,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14860,
+        "num": 22306,
+        "word": "男子收割玉米突发意外抢救无效去世",
+        "onboard_time": 1762870642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14765,
+        "num": 22297,
+        "word": "iPhone18Pro升级工艺",
+        "onboard_time": 1762867939,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14741,
+        "num": 22286,
+        "word": "差点没认出来这是成龙",
+        "onboard_time": 1762860142,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14684,
+        "num": 22280,
+        "word": "AL",
+        "onboard_time": 1762855521,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14537,
+        "num": 22272,
+        "word": "爸爸年轻时候埋下的一颗人参",
+        "onboard_time": 1762874002,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14457,
+        "num": 22267,
+        "word": "安静公主说体验了死亡的感觉",
+        "onboard_time": 1762878021,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14226,
+        "num": 22261,
+        "word": "许绍雄女儿再发文",
+        "onboard_time": 1762873040,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13575,
+        "num": 22250,
+        "word": "双十一期间多名主播喊破了肺泡",
+        "onboard_time": 1762872322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13146,
+        "num": 22244,
+        "word": "田曦薇体制内女友风",
+        "onboard_time": 1762884435,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13126,
+        "num": 22236,
+        "word": "陈伟霆晒庆功宴合照",
+        "onboard_time": 1762883476,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12540,
+        "num": 22232,
+        "word": "iPhoneAir 销量惨淡",
+        "onboard_time": 1762872862,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12351,
+        "num": 22221,
+        "word": "女子网购理肤泉护肤品收到3块石头",
+        "onboard_time": 1762872322,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12340,
+        "num": 22221,
+        "word": "于何一战胜梁靖崑后直播抽樊A球板",
+        "onboard_time": 1762876639,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12293,
+        "num": 22206,
+        "word": "西安8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762874781,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12162,
+        "num": 22203,
+        "word": "罗云熙认为自己没有综艺效果",
+        "onboard_time": 1762874302,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11939,
+        "num": 22198,
+        "word": "唐朝诡事录 成佛寺的哭声",
+        "onboard_time": 1762882156,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11298,
+        "num": 22185,
+        "word": "年会不能停2 大鹏",
+        "onboard_time": 1762868361,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10970,
+        "num": 22185,
+        "word": "全运会吉祥物表情包上新",
+        "onboard_time": 1762885694,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10761,
+        "num": 22171,
+        "word": "帕里斯声明",
+        "onboard_time": 1762877361,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记海南广东之行纪实#"
+    }
+  }
+}
