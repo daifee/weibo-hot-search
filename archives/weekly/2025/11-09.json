@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762865657912,
+  "endTime": 1762866559944,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789146,
+      "num": 1126263,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 782857,
       "num": 250456,
       "word": "星巴克被吐槽爆改成县城奶茶店",
@@ -393,6 +401,14 @@
       "onboard_time": 1762649060,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 743184,
+      "num": 185448,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 741062,
@@ -425,14 +441,6 @@
       "onboard_time": 1762614023,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735544,
-      "num": 1117687,
-      "word": "金鸡奖提名",
-      "onboard_time": 1762857501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 734208,
@@ -472,14 +480,6 @@
       "word": "汉堡王中国也被卖了",
       "onboard_time": 1762784243,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699398,
-      "num": 185448,
-      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
-      "onboard_time": 1762860742,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2147,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267748,
+      "num": 241605,
+      "word": "梁靖崑给自己一巴掌",
+      "onboard_time": 1762862302,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "捐款140元给国家造航母当事人发声",
@@ -2241,14 +2249,6 @@
       "onboard_time": 1762689802,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252082,
-      "num": 241605,
-      "word": "梁靖崑给自己一巴掌",
-      "onboard_time": 1762862302,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 251235,
@@ -3867,12 +3867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "13岁于子迪全运会首金",
+      "onboard_time": 1762865540,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "2025全球总决赛",
       "onboard_time": 1762668620,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157203,
+      "num": 128527,
+      "word": "杨幂 我和我担是同担",
+      "onboard_time": 1762865182,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 157179,
@@ -4177,6 +4193,14 @@
       "onboard_time": 1762838901,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146435,
+      "num": 113355,
+      "word": "李纯马頔婚后首同框",
+      "onboard_time": 1762864761,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146324,
@@ -4899,14 +4923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128527,
-      "num": 128527,
-      "word": "杨幂 我和我担是同担",
-      "onboard_time": 1762865182,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "我最擅长的运动",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1762825220,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124636,
+      "num": 124636,
+      "word": "免费摘白菜事件已成立调查组",
+      "onboard_time": 1762863982,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 124567,
@@ -5451,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119018,
-      "num": 119018,
-      "word": "13岁于子迪全运会首金",
-      "onboard_time": 1762865540,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118974,
       "num": 118974,
       "word": "孙杨以0.1秒优势惊险晋级决赛",
@@ -5697,6 +5713,14 @@
       "onboard_time": 1762844720,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114685,
+      "num": 114685,
+      "word": "陈飞宇主持",
+      "onboard_time": 1762866201,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 114645,
@@ -6259,28 +6283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105384,
-      "num": 105384,
-      "word": "李纯马頔婚后首同框",
-      "onboard_time": 1762864761,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105370,
       "num": 105370,
       "word": "苏新皓对镜头挑眉",
       "onboard_time": 1762684521,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105304,
-      "num": 124463,
-      "word": "免费摘白菜事件已成立调查组",
-      "onboard_time": 1762863982,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 105214,
@@ -6329,6 +6337,14 @@
       "onboard_time": 1762614502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104582,
+      "num": 104582,
+      "word": "宋茜亮片露背裙",
+      "onboard_time": 1762865661,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 104368,
@@ -6971,6 +6987,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 97339,
+      "num": 97339,
+      "word": "官方通报白菜免费摘事件",
+      "onboard_time": 1762866261,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 97337,
       "num": 97337,
       "word": "佘诗曼新剧用老登治中登",
@@ -6995,6 +7019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97087,
+      "num": 97086,
+      "word": "陈梦谈9个多月没碰球状态",
+      "onboard_time": 1762863982,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97064,
       "num": 97064,
       "word": "F4变F3",
@@ -7009,6 +7041,14 @@
       "onboard_time": 1762822581,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96957,
+      "num": 96957,
+      "word": "时代少年团如何巧妙地化解尴尬",
+      "onboard_time": 1762865421,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 96909,
@@ -7355,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91761,
+      "num": 97158,
+      "word": "老凤詳足金项链到手竟是金包银",
+      "onboard_time": 1762866021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "李逗逗这段看爽了",
@@ -7563,14 +7611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89754,
-      "num": 89754,
-      "word": "时代少年团如何巧妙地化解尴尬",
-      "onboard_time": 1762865421,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89611,
       "num": 106214,
       "word": "梁伟铿回应当全运会火炬手",
@@ -7625,6 +7665,14 @@
       "onboard_time": 1762681041,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89105,
+      "num": 89105,
+      "word": "恭喜你发现了比洗碗更有趣的事",
+      "onboard_time": 1762862962,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 89046,
@@ -8091,6 +8139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82852,
+      "num": 180587,
+      "word": "错过这波红包雨要再等一年",
+      "onboard_time": 1762863861,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82748,
       "num": 82748,
       "word": "农村婚礼真的很挑摄影师",
@@ -8411,6 +8467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77205,
+      "num": 97095,
+      "word": "京东青春采销成团送大奖",
+      "onboard_time": 1762866021,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76778,
       "num": 98458,
       "word": "双十一商品到手价全凭运气",
@@ -8707,6 +8771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72583,
+      "num": 114048,
+      "word": "男子脱裤羞辱女店员老板维护获赞",
+      "onboard_time": 1762865301,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72090,
       "num": 72090,
       "word": "情绪背后可能是甲状腺在求救",
@@ -8977,14 +9049,6 @@
       "onboard_time": 1762863801,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66605,
-      "num": 180587,
-      "word": "错过这波红包雨要再等一年",
-      "onboard_time": 1762863861,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 66466,
@@ -9563,14 +9627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54165,
-      "num": 114048,
-      "word": "男子脱裤羞辱女店员老板维护获赞",
-      "onboard_time": 1762865301,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53987,
       "num": 275593,
       "word": "大眼音乐节舞台",
@@ -9617,6 +9673,14 @@
       "onboard_time": 1762693521,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52801,
+      "num": 113738,
+      "word": "梁景仁去世不是马国明没档期",
+      "onboard_time": 1762864881,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 52101,
@@ -10520,14 +10584,6 @@
       "word": "水龙吟",
       "onboard_time": 1762624096,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 30048,
-      "num": 113738,
-      "word": "梁景仁去世不是马国明没档期",
-      "onboard_time": 1762864881,
-      "rank": 38,
       "category": "剧集"
     },
     {
