@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 06:42:02
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 07:24:34
 </p>
 </blockquote>
 <p>
@@ -3615,6 +3615,12 @@ Ruler失利之后哭了（热度：403914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%89%8D%E8%BF%98%E8%B4%B7%23" target="weibo">
+经济学家不建议大家提前还贷（热度：391372）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%83%9C%E5%88%A9%E8%87%B4%E6%AD%89%23" target="weibo">
 黄胜利致歉（热度：390969）
 </a>
@@ -4863,6 +4869,12 @@ TES不敌T1后发文（热度：310623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E5%89%8D%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%99%A9%E6%83%85%23" target="weibo">
+阿坝大桥垮塌前已发现险情（热度：303569）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E5%B0%B1%E8%81%8C%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%93%AD%E4%BA%86%23" target="weibo">
 郑丽文就职马英九哭了（热度：303555）
 </a>
@@ -5703,6 +5715,12 @@ Cat即将回归赛场（热度：259607）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AB%E6%88%91%E4%BB%AC%E9%98%BF%E4%B8%89%E4%BA%86%23" target="weibo">
+不要再叫我们阿三了（热度：259557）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%91%98%E5%B7%A5%E6%85%A2%E5%8A%A8%E4%BD%9C%E6%93%8D%E4%BD%9C%E6%8C%BD%E6%8D%9F18%E4%B8%87%23" target="weibo">
 金店员工慢动作操作挽损18万（热度：258842）
 </a>
@@ -5795,6 +5813,12 @@ Chovy世界赛成绩 8884844（热度：254697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%20%E5%88%9A%E5%88%9A%E5%BC%80%E6%9C%BA%E4%BA%86%E5%90%97%23" target="weibo">
 陈哲远 刚刚开机了吗（热度：254314）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E5%9B%9E%E5%BA%94%E6%9D%8E%E8%BF%9E%E6%9D%B0%E7%8A%B6%E6%80%81%E5%9B%9E%E6%98%A5%23" target="weibo">
+向太回应李连杰状态回春（热度：253956）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Rita评论席举起LPL战旗（热度：247319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E9%83%BD%E6%9C%89%E5%85%AD%E4%BB%A3%E4%BA%86%23" target="weibo">
 TF家族都有六代了（热度：243998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%A2%81%E9%9B%AA%E5%B3%B0%E9%95%BF%E8%BE%BE9%E5%88%86%E9%92%9F%E7%9A%84%E5%AF%B9%E5%B3%99%E6%88%8F%23" target="weibo">
-陈乔恩梁雪峰长达9分钟的对峙戏（热度：243059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A9%B4%E5%84%BF%E7%9A%84%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E5%85%A8%E6%98%AF%E8%84%91%E5%AD%90%23" target="weibo">
-小婴儿的核磁共振全是脑子（热度：242906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E6%9E%97%E5%A7%B5%E5%B8%8C%E7%BB%93%E5%A9%9A9%E5%B9%B4%E4%BA%86%23" target="weibo">
-何润东林姵希结婚9年了（热度：242184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4%E8%BF%99%E4%B8%80%E5%86%A0%E4%B8%8D%E4%B8%BA%E4%BB%BB%E4%BD%95%E4%BA%BA%23" target="weibo">
-Faker说这一冠不为任何人（热度：241886）
 </a>
 </li>
 

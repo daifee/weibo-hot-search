@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762900922683,
+  "endTime": 1762903474520,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -17,6 +17,14 @@
       "onboard_time": 1762860742,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391372,
+      "num": 111146,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 337675,
@@ -40,6 +48,30 @@
       "word": "何穗产后身材 像没生过",
       "onboard_time": 1762870283,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303569,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 259557,
+      "num": 68576,
+      "word": "不要再叫我们阿三了",
+      "onboard_time": 1762902797,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253956,
+      "num": 67279,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -67,12 +99,12 @@
       "category": "剧集,游戏"
     },
     {
-      "raw_hot": 186631,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
+      "raw_hot": 187513,
+      "num": 68471,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
       "rank": 46,
-      "category": "突发/灾害"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170851,
@@ -83,20 +115,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 162118,
-      "num": 111146,
-      "word": "经济学家不建议大家提前还贷",
-      "onboard_time": 1762874002,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160265,
       "num": 117492,
       "word": "爱奇艺2025破万剧",
       "onboard_time": 1762873881,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159053,
+      "num": 105104,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158722,
@@ -107,20 +139,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157414,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155682,
       "num": 116831,
       "word": "余华你知道你这句话救了多少人吗",
       "onboard_time": 1762870583,
       "rank": 13,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 154478,
+      "num": 154478,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144835,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 134513,
@@ -153,14 +193,6 @@
       "onboard_time": 1762867701,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122409,
-      "num": 127287,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114186,
@@ -203,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90233,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88479,
       "num": 105445,
       "word": "许绍雄女儿再发文",
@@ -241,6 +265,14 @@
       "onboard_time": 1762874781,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80027,
+      "num": 66930,
+      "word": "打羽毛球 瘦30斤",
+      "onboard_time": 1762902017,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 79382,
@@ -275,20 +307,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73606,
-      "num": 105104,
-      "word": "特朗普回应高市早苗涉台错误言论",
-      "onboard_time": 1762870462,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 71709,
       "num": 105334,
       "word": "爸爸年轻时候埋下的一颗人参",
       "onboard_time": 1762874002,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69086,
+      "num": 55785,
+      "word": "四川队夺得全运会乒乓球冠军",
+      "onboard_time": 1762902978,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68810,
+      "num": 86096,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68160,
@@ -307,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66669,
+      "num": 66669,
+      "word": "发现研究生的社会化程度都好高",
+      "onboard_time": 1762903277,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65862,
       "num": 105270,
       "word": "高校回应为职工解决编制设萝卜岗",
@@ -321,14 +369,6 @@
       "onboard_time": 1762872141,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63516,
-      "num": 86096,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62994,
@@ -395,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51316,
+      "num": 51316,
+      "word": "家长距离老师只差教师资格证了",
+      "onboard_time": 1762903338,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48140,
       "num": 105068,
       "word": "暴走团现身香港",
@@ -419,20 +467,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43969,
-      "num": 86108,
-      "word": "张颂文救人后悄然离去",
-      "onboard_time": 1762874182,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42477,
       "num": 105022,
       "word": "揭秘大湾鸡内胆",
       "onboard_time": 1762876761,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41645,
+      "num": 51303,
+      "word": "李纯马頔婚后首同框",
+      "onboard_time": 1762864761,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37630,
+      "num": 51283,
+      "word": "减肥 和家族基因做对抗",
+      "onboard_time": 1762895894,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36189,
+      "num": 51268,
+      "word": "田曦薇体制内女友风",
+      "onboard_time": 1762884435,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 35654,
@@ -443,28 +507,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33811,
+      "num": 51258,
+      "word": "丁禹兮山河枕卫视收视第一",
+      "onboard_time": 1762899075,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33689,
+      "num": 67455,
+      "word": "唐朝诡事录 成佛寺的哭声",
+      "onboard_time": 1762882156,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28386,
       "num": 64852,
       "word": "人民空军成立七十六周年",
       "onboard_time": 1762881136,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 26466,
-      "num": 28286,
-      "word": "减肥 和家族基因做对抗",
-      "onboard_time": 1762895894,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 25724,
-      "num": 61500,
-      "word": "唐朝诡事录 成佛寺的哭声",
-      "onboard_time": 1762882156,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 25286,
@@ -483,28 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17349,
-      "num": 28285,
-      "word": "田曦薇体制内女友风",
-      "onboard_time": 1762884435,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 16889,
       "num": 42809,
       "word": "全运会吉祥物表情包上新",
       "onboard_time": 1762885694,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15346,
-      "num": 28284,
-      "word": "丁禹兮山河枕卫视收视第一",
-      "onboard_time": 1762899075,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 15218,

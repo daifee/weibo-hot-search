@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762900922683,
+  "endTime": 1762903474520,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391372,
+      "num": 140684,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390102,
       "num": 722804,
       "word": "台湾民众高喊我们都是中国人",
@@ -1923,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303569,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 302476,
       "num": 302476,
       "word": "全运会跳水选手差点摔出水池",
@@ -2323,6 +2339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259557,
+      "num": 68576,
+      "word": "不要再叫我们阿三了",
+      "onboard_time": 1762902797,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257998,
       "num": 257998,
       "word": "谁去把宋亚轩上嘴唇的亮片摘了",
@@ -2337,6 +2361,14 @@
       "onboard_time": 1762778841,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253956,
+      "num": 67279,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 253796,
@@ -3347,6 +3379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187513,
+      "num": 68471,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187499,
       "num": 280400,
       "word": "五星红旗在粤港澳同时升起",
@@ -3369,14 +3409,6 @@
       "onboard_time": 1762768038,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186631,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 186286,
@@ -3931,14 +3963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162118,
-      "num": 140684,
-      "word": "经济学家不建议大家提前还贷",
-      "onboard_time": 1762874002,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161970,
       "num": 295486,
       "word": "王鹤棣孟子义一开口我就想笑",
@@ -4027,6 +4051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159053,
+      "num": 125892,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158722,
       "num": 158722,
       "word": "双十一期间多名主播喊破了肺泡",
@@ -4081,14 +4113,6 @@
       "onboard_time": 1762865540,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157414,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 157310,
@@ -4193,6 +4217,14 @@
       "onboard_time": 1762689441,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154478,
+      "num": 154478,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154319,
@@ -4464,6 +4496,14 @@
       "word": "TFBOYS又有新站子了",
       "onboard_time": 1762849824,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144835,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5603,14 +5643,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 122409,
-      "num": 127287,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "LOL第一人Faker也需要重新适应",
@@ -5881,14 +5913,6 @@
       "onboard_time": 1762730237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116886,
-      "num": 125892,
-      "word": "特朗普回应高市早苗涉台错误言论",
-      "onboard_time": 1762870462,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116708,
@@ -7907,14 +7931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90233,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90173,
       "num": 90173,
       "word": "猕猴桃 一种很团结的水果",
@@ -8715,6 +8731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80027,
+      "num": 66930,
+      "word": "打羽毛球 瘦30斤",
+      "onboard_time": 1762902017,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79963,
       "num": 151257,
       "word": "内娱来了个影视名妈组合",
@@ -9387,6 +9411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69086,
+      "num": 55785,
+      "word": "四川队夺得全运会乒乓球冠军",
+      "onboard_time": 1762902978,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69066,
       "num": 69066,
       "word": "Doran和Faker共同捧杯",
@@ -9497,6 +9529,14 @@
       "onboard_time": 1762863801,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66669,
+      "num": 66669,
+      "word": "发现研究生的社会化程度都好高",
+      "onboard_time": 1762903277,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 66466,
@@ -10227,6 +10267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51316,
+      "num": 51316,
+      "word": "家长距离老师只差教师资格证了",
+      "onboard_time": 1762903338,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51287,
       "num": 169498,
       "word": "抖音双11终极省钱密码",
@@ -10587,14 +10635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43969,
-      "num": 86108,
-      "word": "张颂文救人后悄然离去",
-      "onboard_time": 1762874182,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43832,
       "num": 133945,
       "word": "用智搜读懂大国重器",
@@ -10867,6 +10907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 37630,
+      "num": 51283,
+      "word": "减肥 和家族基因做对抗",
+      "onboard_time": 1762895894,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37383,
       "num": 97743,
       "word": "水贝有商家计划提前返乡",
@@ -10913,6 +10961,14 @@
       "onboard_time": 1762751060,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 36189,
+      "num": 51268,
+      "word": "田曦薇体制内女友风",
+      "onboard_time": 1762884435,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 35904,
@@ -10993,6 +11049,22 @@
       "onboard_time": 1762643777,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33811,
+      "num": 51258,
+      "word": "丁禹兮山河枕卫视收视第一",
+      "onboard_time": 1762899075,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33689,
+      "num": 67455,
+      "word": "唐朝诡事录 成佛寺的哭声",
+      "onboard_time": 1762882156,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 33455,
@@ -11291,14 +11363,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 26466,
-      "num": 28286,
-      "word": "减肥 和家族基因做对抗",
-      "onboard_time": 1762895894,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 26167,
       "num": 115816,
       "word": "医保卡变购物卡引发关注",
@@ -11313,14 +11377,6 @@
       "onboard_time": 1762853840,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25724,
-      "num": 61500,
-      "word": "唐朝诡事录 成佛寺的哭声",
-      "onboard_time": 1762882156,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 25543,
@@ -11563,14 +11619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17349,
-      "num": 28285,
-      "word": "田曦薇体制内女友风",
-      "onboard_time": 1762884435,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17289,
       "num": 106300,
       "word": "卸货时误操作16筐鸡蛋瞬间摔碎",
@@ -11609,14 +11657,6 @@
       "onboard_time": 1762662622,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15346,
-      "num": 28284,
-      "word": "丁禹兮山河枕卫视收视第一",
-      "onboard_time": 1762899075,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 15218,
