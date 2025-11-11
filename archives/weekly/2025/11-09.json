@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762858002369,
+  "endTime": 1762860248119,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1143478,
+      "num": 1164749,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1098639,
       "num": 1175782,
       "word": "直播十五运开幕式",
@@ -241,14 +249,6 @@
       "onboard_time": 1762748840,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1029683,
-      "num": 1164749,
-      "word": "iPhonePocket发布",
-      "onboard_time": 1762855280,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 990681,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642957,
+      "num": 1102873,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 640170,
       "num": 202388,
       "word": "广西百色通报公职人员涉性侵案情况",
@@ -801,6 +809,14 @@
       "onboard_time": 1762661779,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551433,
+      "num": 268437,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 546212,
@@ -1251,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394999,
-      "num": 268437,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 394991,
       "num": 378702,
       "word": "许我耀眼集均6328万",
@@ -1467,6 +1475,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 358116,
+      "num": 358116,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "每天1个苹果身体有什么变化",
@@ -1483,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354405,
+      "num": 265523,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 353801,
       "num": 353801,
       "word": "喜人奇妙夜",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1762757599,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350504,
+      "num": 132247,
+      "word": "陈赫晒了清楚版的鹿晗",
+      "onboard_time": 1762859301,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 348866,
@@ -1521,14 +1553,6 @@
       "onboard_time": 1762752679,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341260,
-      "num": 341260,
-      "word": "AL",
-      "onboard_time": 1762855521,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 341028,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1762780822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307789,
+      "num": 307789,
+      "word": "梁靖崑男单爆冷出局",
+      "onboard_time": 1762859361,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 306519,
@@ -2075,14 +2107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265523,
-      "num": 265523,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 265353,
       "num": 265353,
       "word": "汪苏泷章若楠难哄售后来了",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1762649538,
       "rank": 0,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 248690,
+      "num": 129468,
+      "word": "贺峻霖 别让研究生拍这些",
+      "onboard_time": 1762858701,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 248398,
@@ -3571,6 +3603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163572,
+      "num": 120857,
+      "word": "谢可寅的红包",
+      "onboard_time": 1762859480,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162782,
       "num": 162782,
       "word": "宋亚轩开口就是高光时刻",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1762677440,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 156167,
+      "num": 156167,
+      "word": "四川阿坝红旗桥垮塌",
+      "onboard_time": 1762858941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155802,
@@ -4139,6 +4187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143300,
+      "num": 143300,
+      "word": "金银错 李昀锐",
+      "onboard_time": 1762859781,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143040,
       "num": 143040,
       "word": "倪虹洁发红包",
@@ -4273,6 +4329,14 @@
       "onboard_time": 1762761079,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139846,
+      "num": 120515,
+      "word": "陆柯燃发红包",
+      "onboard_time": 1762859480,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 139344,
@@ -4603,6 +4667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130991,
+      "num": 120081,
+      "word": "鞠婧祎偏偏你最争气",
+      "onboard_time": 1762858161,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130316,
       "num": 151337,
       "word": "贺峻霖还没忘记连赢谢娜14局",
@@ -4787,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126944,
-      "num": 146008,
-      "word": "金鸡奖提名",
-      "onboard_time": 1762857501,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126862,
       "num": 126862,
       "word": "都买都买太好笑了",
@@ -4833,6 +4897,14 @@
       "onboard_time": 1762669100,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126257,
+      "num": 168956,
+      "word": "中方将向菲人民提供紧急援助",
+      "onboard_time": 1762855521,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126122,
@@ -5169,6 +5241,14 @@
       "onboard_time": 1762764680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119412,
+      "num": 119412,
+      "word": "梁靖崑1比4于何一",
+      "onboard_time": 1762860201,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 119384,
@@ -5603,14 +5683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110776,
-      "num": 168956,
-      "word": "中方将向菲人民提供紧急援助",
-      "onboard_time": 1762855521,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 110718,
       "num": 152000,
       "word": "罗小黑动画要出新作了",
@@ -5625,6 +5697,14 @@
       "onboard_time": 1762592720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110222,
+      "num": 110222,
+      "word": "TheShy和Bin谈新英雄",
+      "onboard_time": 1762858042,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 110156,
@@ -5953,6 +6033,14 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105474,
+      "num": 105474,
+      "word": "谢娜是要把内娱都挂进柜子里吗",
+      "onboard_time": 1762859962,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 105415,
@@ -6315,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101137,
+      "num": 101137,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101133,
       "num": 98649,
       "word": "黄景瑜指白敬亭王安宇喊帅哥",
@@ -6361,6 +6457,14 @@
       "onboard_time": 1762842679,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100775,
+      "num": 100775,
+      "word": "水煮菜",
+      "onboard_time": 1762855641,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 100700,
@@ -6731,6 +6835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "imp说Gumayusi因为流量大喜欢Uzi",
+      "onboard_time": 1762859781,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95762,
       "num": 95762,
       "word": "哄自己上班的理由又多了一个",
@@ -7025,14 +7137,6 @@
       "onboard_time": 1762660339,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91675,
-      "num": 91675,
-      "word": "水煮菜",
-      "onboard_time": 1762855641,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 91460,
@@ -7363,6 +7467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88172,
+      "num": 121176,
+      "word": "省钱的尽头是策略",
+      "onboard_time": 1762859119,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88029,
       "num": 88029,
       "word": "高杨4比1陈垣宇",
@@ -7420,7 +7532,7 @@
     },
     {
       "raw_hot": 87587,
-      "num": 126948,
+      "num": 137765,
       "word": "红包叠加的快乐你懂吗",
       "onboard_time": 1762857441,
       "rank": 35,
@@ -7963,6 +8075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78261,
+      "num": 136145,
+      "word": "媳妇被撞了到医院发现老妈也被撞",
+      "onboard_time": 1762859721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78219,
       "num": 78219,
       "word": "何炅说华晨宇是冠军的定义者",
@@ -8009,6 +8129,14 @@
       "onboard_time": 1762821020,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 77673,
+      "num": 111936,
+      "word": "日本小学午餐",
+      "onboard_time": 1762860021,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77527,
@@ -8907,6 +9035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59822,
+      "num": 145481,
+      "word": "林诗栋4比0孙闻",
+      "onboard_time": 1762858640,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59600,
       "num": 103860,
       "word": "KK园区148栋建筑将被拆除",
@@ -9433,6 +9569,14 @@
       "onboard_time": 1762700182,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45899,
+      "num": 105524,
+      "word": "Gumayusi趣评oner蒙多",
+      "onboard_time": 1762858762,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 45681,
@@ -10219,6 +10363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25030,
+      "num": 115157,
+      "word": "双11有人用AI算账指令如小作文",
+      "onboard_time": 1762859060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24419,
       "num": 100771,
       "word": "马伯骞 梦回桑延",
@@ -10275,6 +10427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22161,
+      "num": 127066,
+      "word": "双十一数码博主买了什么",
+      "onboard_time": 1762856480,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21543,
       "num": 90484,
       "word": "陈芋汐一遍遍抚摸金牌",
@@ -10299,12 +10459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19712,
-      "num": 127066,
-      "word": "双十一数码博主买了什么",
-      "onboard_time": 1762856480,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 19780,
+      "num": 113412,
+      "word": "专家称特朗普是黄金上涨最大推手",
+      "onboard_time": 1762859900,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19090,
@@ -10385,6 +10545,14 @@
       "onboard_time": 1762713914,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17289,
+      "num": 106300,
+      "word": "卸货时误操作16筐鸡蛋瞬间摔碎",
+      "onboard_time": 1762858821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17236,

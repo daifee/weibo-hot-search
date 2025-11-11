@@ -1,0 +1,410 @@
+{
+  "runTime": 1762860248119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 642957,
+        "num": 1102873,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430196,
+        "num": 430196,
+        "word": "王者更改匹配机制",
+        "onboard_time": 1762854201,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20778,
+        "num": 394024,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1143478,
+        "num": 391072,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358116,
+        "num": 358116,
+        "word": "AL",
+        "onboard_time": 1762855521,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307789,
+        "num": 307789,
+        "word": "梁靖崑男单爆冷出局",
+        "onboard_time": 1762859361,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298380,
+        "num": 298380,
+        "word": "金鸡奖",
+        "onboard_time": 1762855220,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220458,
+        "num": 220458,
+        "word": "奶皮子蛋糕",
+        "onboard_time": 1762851981,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 179504,
+        "word": "律师银行取4万元遭盘问报警",
+        "onboard_time": 1762846939,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165345,
+        "num": 165345,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551433,
+        "num": 164610,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354405,
+        "num": 164380,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 179867,
+        "num": 164271,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162852,
+        "num": 162852,
+        "word": "饶雪漫推荐钟丽丽入选星辰大海",
+        "onboard_time": 1762855220,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156167,
+        "num": 156167,
+        "word": "四川阿坝红旗桥垮塌",
+        "onboard_time": 1762858941,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59822,
+        "num": 145481,
+        "word": "林诗栋4比0孙闻",
+        "onboard_time": 1762858640,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143300,
+        "num": 143300,
+        "word": "金银错 李昀锐",
+        "onboard_time": 1762859781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137955,
+        "num": 137955,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762856602,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66006,
+        "num": 137765,
+        "word": "红包叠加的快乐你懂吗",
+        "onboard_time": 1762857441,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78261,
+        "num": 136145,
+        "word": "媳妇被撞了到医院发现老妈也被撞",
+        "onboard_time": 1762859721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768572,
+        "num": 134949,
+        "word": "苏州交警致歉",
+        "onboard_time": 1762854501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553240,
+        "num": 133953,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350504,
+        "num": 132247,
+        "word": "陈赫晒了清楚版的鹿晗",
+        "onboard_time": 1762859301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300946,
+        "num": 130944,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248690,
+        "num": 129468,
+        "word": "贺峻霖 别让研究生拍这些",
+        "onboard_time": 1762858701,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175374,
+        "num": 128149,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164812,
+        "num": 126705,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "中方将向菲人民提供紧急援助",
+        "onboard_time": 1762855521,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "乐华娱乐3连跌",
+        "onboard_time": 1762854379,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88172,
+        "num": 121176,
+        "word": "省钱的尽头是策略",
+        "onboard_time": 1762859119,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163572,
+        "num": 120857,
+        "word": "谢可寅的红包",
+        "onboard_time": 1762859480,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139846,
+        "num": 120515,
+        "word": "陆柯燃发红包",
+        "onboard_time": 1762859480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130991,
+        "num": 120081,
+        "word": "鞠婧祎偏偏你最争气",
+        "onboard_time": 1762858161,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121750,
+        "num": 119427,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119412,
+        "num": 119412,
+        "word": "梁靖崑1比4于何一",
+        "onboard_time": 1762860201,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67359,
+        "num": 118382,
+        "word": "谁教你这样用投影仪的",
+        "onboard_time": 1762855280,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22161,
+        "num": 117205,
+        "word": "双十一数码博主买了什么",
+        "onboard_time": 1762856480,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25030,
+        "num": 115157,
+        "word": "双11有人用AI算账指令如小作文",
+        "onboard_time": 1762859060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19780,
+        "num": 113412,
+        "word": "专家称特朗普是黄金上涨最大推手",
+        "onboard_time": 1762859900,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77673,
+        "num": 111936,
+        "word": "日本小学午餐",
+        "onboard_time": 1762860021,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21753,
+        "num": 110723,
+        "word": "钎城帮大家清空购物车",
+        "onboard_time": 1762855401,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110222,
+        "num": 110222,
+        "word": "TheShy和Bin谈新英雄",
+        "onboard_time": 1762858042,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110145,
+        "num": 110145,
+        "word": "陈伟霆刚落地就接机妈妈",
+        "onboard_time": 1762857501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17289,
+        "num": 106300,
+        "word": "卸货时误操作16筐鸡蛋瞬间摔碎",
+        "onboard_time": 1762858821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45899,
+        "num": 105524,
+        "word": "Gumayusi趣评oner蒙多",
+        "onboard_time": 1762858762,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105474,
+        "num": 105474,
+        "word": "谢娜是要把内娱都挂进柜子里吗",
+        "onboard_time": 1762859962,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101137,
+        "num": 101137,
+        "word": "差点没认出来这是成龙",
+        "onboard_time": 1762860142,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100775,
+        "num": 100775,
+        "word": "水煮菜",
+        "onboard_time": 1762855641,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99999,
+        "num": 99999,
+        "word": "王橹杰卡背文案",
+        "onboard_time": 1762857441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95868,
+        "num": 95868,
+        "word": "imp说Gumayusi因为流量大喜欢Uzi",
+        "onboard_time": 1762859781,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}
