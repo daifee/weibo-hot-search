@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762882934726,
+  "endTime": 1762886230470,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -137,6 +137,14 @@
       "onboard_time": 1762867701,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122409,
+      "num": 64776,
+      "word": "暴打九旬老母突破人伦必须严惩",
+      "onboard_time": 1762881736,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114186,
@@ -307,14 +315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 61812,
-      "num": 64776,
-      "word": "暴打九旬老母突破人伦必须严惩",
-      "onboard_time": 1762881736,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59066,
       "num": 105216,
       "word": "年会不能停2 大鹏",
@@ -419,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36010,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35654,
       "num": 105346,
       "word": "星巴克新歌单怎么了",
@@ -451,12 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23337,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 19578,
+      "num": 42923,
+      "word": "陈伟霆晒庆功宴合照",
+      "onboard_time": 1762883476,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16889,
+      "num": 42809,
+      "word": "全运会吉祥物表情包上新",
+      "onboard_time": 1762885694,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 3152,
