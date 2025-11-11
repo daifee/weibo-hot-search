@@ -1,0 +1,410 @@
+{
+  "runTime": 1762826367877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9304731,
+        "num": 10554731,
+        "word": "云南通报赤裸小孩事件",
+        "onboard_time": 1762823541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1553801,
+        "num": 1553801,
+        "word": "警方通报编剧秦雯自称袭警捞人",
+        "onboard_time": 1762824619,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16517,
+        "num": 766112,
+        "word": "十五运见证大湾区融合发展",
+        "onboard_time": 1762779501,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 719427,
+        "num": 719427,
+        "word": "19岁男生错付车费自杀案宣判",
+        "onboard_time": 1762822941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352257,
+        "num": 352257,
+        "word": "故宫博物院发讣告",
+        "onboard_time": 1762791260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340050,
+        "num": 340050,
+        "word": "周京泽人设",
+        "onboard_time": 1762818740,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178865,
+        "num": 178865,
+        "word": "上海交大非全日制会计博士学费78万",
+        "onboard_time": 1762821801,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146413,
+        "num": 146413,
+        "word": "3岁娃拿两块泡泡糖母亲赔偿60元",
+        "onboard_time": 1762823960,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124510,
+        "num": 124510,
+        "word": "中国汽车对俄出口骤降58%",
+        "onboard_time": 1762820361,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116312,
+        "num": 116312,
+        "word": "湖人vs黄蜂",
+        "onboard_time": 1762825401,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491678,
+        "num": 116167,
+        "word": "赤裸小孩正进行行为矫正",
+        "onboard_time": 1762823780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356828,
+        "num": 115544,
+        "word": "短剧还珠小燕子回应眼睛不够大",
+        "onboard_time": 1762820540,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199587,
+        "num": 115335,
+        "word": "商家已删除梁朝伟照片",
+        "onboard_time": 1762787842,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114364,
+        "num": 114364,
+        "word": "汉堡王中国也被卖了",
+        "onboard_time": 1762784243,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199334,
+        "num": 114331,
+        "word": "赤裸小孩生长发育正常",
+        "onboard_time": 1762823721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148475,
+        "num": 113362,
+        "word": "父母以为的奶茶vs实际上我喝的",
+        "onboard_time": 1762824380,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124697,
+        "num": 112910,
+        "word": "陈伟霆再现妍妍接电话",
+        "onboard_time": 1762825220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140733,
+        "num": 112229,
+        "word": "赤裸小孩最新视频",
+        "onboard_time": 1762825581,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80422,
+        "num": 111730,
+        "word": "九重天",
+        "onboard_time": 1762820961,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72192,
+        "num": 111432,
+        "word": "告白",
+        "onboard_time": 1762822941,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590387,
+        "num": 110637,
+        "word": "迪丽热巴从九月份就开始不舒服了",
+        "onboard_time": 1762817779,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 109857,
+        "word": "原来这就是你们嚷嚷着要回的家啊",
+        "onboard_time": 1762822941,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 336807,
+        "num": 109557,
+        "word": "穆祉丞 TOP",
+        "onboard_time": 1762825102,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234250,
+        "num": 109084,
+        "word": "黄金",
+        "onboard_time": 1762825279,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183513,
+        "num": 108404,
+        "word": "王嘉尔被错认成日本人的反应",
+        "onboard_time": 1762786044,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146402,
+        "num": 107882,
+        "word": "宝宝产检正常出生后满身兽皮痣",
+        "onboard_time": 1762780702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 106918,
+        "word": "女子曝光男子殴打93岁母亲监控",
+        "onboard_time": 1762826121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106773,
+        "num": 106773,
+        "word": "锤娜丽莎回应瘦了30斤",
+        "onboard_time": 1762825340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104551,
+        "num": 104551,
+        "word": "浙江诸暨麻糍奶奶遇车祸去世",
+        "onboard_time": 1762781421,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100936,
+        "num": 100936,
+        "word": "小米SU7改款涨价近1万",
+        "onboard_time": 1762786162,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100489,
+        "num": 100489,
+        "word": "男子带猪肉记号笔陪产怕孩子抱错",
+        "onboard_time": 1762786821,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99968,
+        "num": 99968,
+        "word": "双胞胎叫Ctrl C和Ctrl V",
+        "onboard_time": 1762824619,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97338,
+        "num": 97338,
+        "word": "告白 王星越",
+        "onboard_time": 1762788320,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97002,
+        "num": 97002,
+        "word": "大家尽量去过规律且有支点的生活",
+        "onboard_time": 1762822581,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95010,
+        "num": 95010,
+        "word": "我在36集电视剧里出现了14秒",
+        "onboard_time": 1762823900,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93230,
+        "num": 93230,
+        "word": "25岁女孩海岛求生吃了50只老鼠",
+        "onboard_time": 1762788920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90099,
+        "num": 90099,
+        "word": "男生错付车费自杀案家属再发声",
+        "onboard_time": 1762826060,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86923,
+        "num": 86923,
+        "word": "杭州五星酒店推出40元剩菜盲盒",
+        "onboard_time": 1762825581,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85943,
+        "num": 85943,
+        "word": "陈妍希感谢谢楠救场婚礼",
+        "onboard_time": 1762778661,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81338,
+        "num": 81338,
+        "word": "国际金价直线拉升",
+        "onboard_time": 1762822520,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79436,
+        "num": 79436,
+        "word": "小鹏汽车大涨超16%",
+        "onboard_time": 1762825521,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77905,
+        "num": 77905,
+        "word": "福建舰入列震撼全球",
+        "onboard_time": 1762821020,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 77527,
+        "num": 77527,
+        "word": "欧洲多国紧急往乌克兰送旧渔网",
+        "onboard_time": 1762818441,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76529,
+        "num": 76529,
+        "word": "谁啊这位置有咪了",
+        "onboard_time": 1762824079,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76141,
+        "num": 76141,
+        "word": "周京泽有过陈飞宇",
+        "onboard_time": 1762822162,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75741,
+        "num": 75741,
+        "word": "龚俊抬剧",
+        "onboard_time": 1762826300,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73411,
+        "num": 75636,
+        "word": "陈芋汐完美一跳全红婵起立欢呼",
+        "onboard_time": 1762785202,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71593,
+        "num": 75576,
+        "word": "俄加密币富翁夫妇遭肢解埋尸沙漠",
+        "onboard_time": 1762788741,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71278,
+        "num": 75479,
+        "word": "被学校逼出来的超能力",
+        "onboard_time": 1762825521,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70550,
+        "num": 75373,
+        "word": "当男朋友是滑雪教练时",
+        "onboard_time": 1762826241,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记琼粤行#"
+    }
+  }
+}
