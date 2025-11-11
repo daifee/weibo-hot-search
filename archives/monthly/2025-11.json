@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762878857858,
+  "endTime": 1762879762257,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -17043,6 +17043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133188,
+      "num": 105465,
+      "word": "宋茜薄纱下的马甲线",
+      "onboard_time": 1762877241,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133104,
       "num": 133104,
       "word": "GEN回应不敌KT",
@@ -22873,14 +22881,6 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105465,
-      "num": 105465,
-      "word": "宋茜薄纱下的马甲线",
-      "onboard_time": 1762877241,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 105437,
@@ -31139,6 +31139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79382,
+      "num": 125921,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79324,
       "num": 101477,
       "word": "Doinb谈JackeyLove",
@@ -31761,6 +31769,14 @@
       "onboard_time": 1762399100,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76950,
+      "num": 105114,
+      "word": "陈飞宇西装daddy级别",
+      "onboard_time": 1762878501,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 76927,
@@ -33377,14 +33393,6 @@
       "onboard_time": 1762047621,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68689,
-      "num": 125921,
-      "word": "香港一对六旬兄弟陈尸家中",
-      "onboard_time": 1762875621,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68584,
@@ -35587,14 +35595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52928,
-      "num": 105114,
-      "word": "陈飞宇西装daddy级别",
-      "onboard_time": 1762878501,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 52914,
       "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
@@ -36259,6 +36259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47375,
+      "num": 105378,
+      "word": "于何一战胜梁靖崑后直播抽樊A球板",
+      "onboard_time": 1762876639,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47361,
       "num": 111857,
       "word": "美方称美军机连掉两架并非巧合",
@@ -36499,14 +36507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45208,
-      "num": 105378,
-      "word": "于何一战胜梁靖崑后直播抽樊A球板",
-      "onboard_time": 1762876639,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45198,
       "num": 183166,
       "word": "是时候换台骁龙新机了",
@@ -36641,6 +36641,14 @@
       "onboard_time": 1762608801,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43969,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 43957,

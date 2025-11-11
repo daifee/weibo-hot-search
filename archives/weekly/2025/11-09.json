@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762878857858,
+  "endTime": 1762879762257,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -4955,6 +4955,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 133188,
+      "num": 105465,
+      "word": "宋茜薄纱下的马甲线",
+      "onboard_time": 1762877241,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132963,
       "num": 132963,
       "word": "钎城发红包",
@@ -6537,14 +6545,6 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105465,
-      "num": 105465,
-      "word": "宋茜薄纱下的马甲线",
-      "onboard_time": 1762877241,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 105415,
@@ -8731,6 +8731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79382,
+      "num": 125921,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78911,
       "num": 151312,
       "word": "同手同脚大湾鸡",
@@ -8849,6 +8857,14 @@
       "onboard_time": 1762866021,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76950,
+      "num": 105114,
+      "word": "陈飞宇西装daddy级别",
+      "onboard_time": 1762878501,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 76778,
@@ -9361,14 +9377,6 @@
       "onboard_time": 1762872742,
       "rank": 46,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 68689,
-      "num": 125921,
-      "word": "香港一对六旬兄弟陈尸家中",
-      "onboard_time": 1762875621,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68230,
@@ -10139,14 +10147,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 52928,
-      "num": 105114,
-      "word": "陈飞宇西装daddy级别",
-      "onboard_time": 1762878501,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 52914,
       "num": 175227,
       "word": "京东双11请客送手机羽绒服化妆品",
@@ -10363,6 +10363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47375,
+      "num": 105378,
+      "word": "于何一战胜梁靖崑后直播抽樊A球板",
+      "onboard_time": 1762876639,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47311,
       "num": 157649,
       "word": "大湾鸡冰墩墩来自一个设计团队",
@@ -10467,14 +10475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45208,
-      "num": 105378,
-      "word": "于何一战胜梁靖崑后直播抽樊A球板",
-      "onboard_time": 1762876639,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45073,
       "num": 203605,
       "word": "螺蛳粉店名 陆丝芬",
@@ -10553,6 +10553,14 @@
       "onboard_time": 1762794618,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43969,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 43832,

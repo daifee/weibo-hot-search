@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762878857858,
+  "endTime": 1762879762257,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -115,6 +115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133188,
+      "num": 105465,
+      "word": "宋茜薄纱下的马甲线",
+      "onboard_time": 1762877241,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132719,
       "num": 114526,
       "word": "女子网购理肤泉护肤品收到3块石头",
@@ -145,14 +153,6 @@
       "onboard_time": 1762870642,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105465,
-      "num": 105465,
-      "word": "宋茜薄纱下的马甲线",
-      "onboard_time": 1762877241,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 103744,
@@ -195,7 +195,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84927,
+      "raw_hot": 85497,
       "num": 121723,
       "word": "AL",
       "onboard_time": 1762855521,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79382,
+      "num": 105310,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77213,
       "num": 121278,
       "word": "秋假",
@@ -219,20 +227,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 76950,
+      "num": 105114,
+      "word": "陈飞宇西装daddy级别",
+      "onboard_time": 1762878501,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 73876,
+      "num": 105092,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71709,
       "num": 105334,
       "word": "爸爸年轻时候埋下的一颗人参",
       "onboard_time": 1762874002,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68689,
-      "num": 105310,
-      "word": "香港一对六旬兄弟陈尸家中",
-      "onboard_time": 1762875621,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68160,
@@ -331,28 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52928,
-      "num": 105114,
-      "word": "陈飞宇西装daddy级别",
-      "onboard_time": 1762878501,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 48949,
       "num": 105104,
       "word": "特朗普回应高市早苗涉台错误言论",
       "onboard_time": 1762870462,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 48411,
-      "num": 105092,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 48140,
@@ -363,7 +363,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45208,
+      "raw_hot": 47375,
       "num": 105378,
       "word": "于何一战胜梁靖崑后直播抽樊A球板",
       "onboard_time": 1762876639,
@@ -379,12 +379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43969,
+      "num": 86108,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42477,
       "num": 105022,
       "word": "揭秘大湾鸡内胆",
       "onboard_time": 1762876761,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42151,
+      "num": 86096,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35654,
