@@ -1,0 +1,410 @@
+{
+  "runTime": 1762858002369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029683,
+        "num": 1164749,
+        "word": "iPhonePocket发布",
+        "onboard_time": 1762855280,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 525000,
+        "num": 525000,
+        "word": "金鸡奖",
+        "onboard_time": 1762855220,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22677,
+        "num": 450852,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1762849701,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442605,
+        "num": 442605,
+        "word": "王者更改匹配机制",
+        "onboard_time": 1762854201,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407614,
+        "num": 407614,
+        "word": "奶皮子蛋糕",
+        "onboard_time": 1762851981,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238663,
+        "num": 361907,
+        "word": "律师银行取4万元遭盘问报警",
+        "onboard_time": 1762846939,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341260,
+        "num": 341260,
+        "word": "AL",
+        "onboard_time": 1762855521,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295200,
+        "num": 295200,
+        "word": "张颂文聚餐救人获赠锦旗",
+        "onboard_time": 1762844840,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275606,
+        "num": 275606,
+        "word": "饶雪漫推荐钟丽丽入选星辰大海",
+        "onboard_time": 1762855220,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151461,
+        "num": 270027,
+        "word": "乐华娱乐3连跌",
+        "onboard_time": 1762854379,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 854064,
+        "num": 268622,
+        "word": "苏州交警致歉",
+        "onboard_time": 1762854501,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394999,
+        "num": 268437,
+        "word": "威廉王子 家中困难",
+        "onboard_time": 1762855641,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265523,
+        "num": 265523,
+        "word": "早睡真的会失去很多",
+        "onboard_time": 1762850542,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 189941,
+        "num": 189941,
+        "word": "奶皮子",
+        "onboard_time": 1762856841,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176160,
+        "num": 176160,
+        "word": "星巴克被吐槽爆改成县城奶茶店",
+        "onboard_time": 1762843100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159993,
+        "num": 159993,
+        "word": "柯淳说现在已经被磨去了自信",
+        "onboard_time": 1762850242,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149063,
+        "num": 149063,
+        "word": "光与夜之恋",
+        "onboard_time": 1762857562,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128285,
+        "num": 148854,
+        "word": "威廉王子不准孩子用手机",
+        "onboard_time": 1762846280,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110776,
+        "num": 148625,
+        "word": "中方将向菲人民提供紧急援助",
+        "onboard_time": 1762855521,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48464,
+        "num": 148480,
+        "word": "钎城帮大家清空购物车",
+        "onboard_time": 1762855401,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 148016,
+        "word": "范丞丞跑男路透",
+        "onboard_time": 1762856661,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695296,
+        "num": 147654,
+        "word": "何穗产后近照",
+        "onboard_time": 1762848981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397406,
+        "num": 147371,
+        "word": "黄晓明带小海绵参加周岁宴",
+        "onboard_time": 1762844420,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278604,
+        "num": 147147,
+        "word": "许我耀眼庆功宴 卖货",
+        "onboard_time": 1762856900,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134934,
+        "num": 146913,
+        "word": "唐朝诡事录",
+        "onboard_time": 1762856602,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245087,
+        "num": 146510,
+        "word": "盗版刘亦菲杨幂baby",
+        "onboard_time": 1762850361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219697,
+        "num": 146360,
+        "word": "王栎鑫吴雅婷一同为女儿庆生",
+        "onboard_time": 1762847840,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126944,
+        "num": 146008,
+        "word": "金鸡奖提名",
+        "onboard_time": 1762857501,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81533,
+        "num": 145713,
+        "word": "5年期定期存款库存告急",
+        "onboard_time": 1762856061,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78792,
+        "num": 145377,
+        "word": "陈艺文铜牌",
+        "onboard_time": 1762853061,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150172,
+        "num": 145032,
+        "word": "陈伟霆刚落地就接机妈妈",
+        "onboard_time": 1762857501,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145019,
+        "num": 145019,
+        "word": "俄方宣布准备向印度转让核技术",
+        "onboard_time": 1762850601,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136300,
+        "num": 136300,
+        "word": "田曦薇不喜欢追求情绪稳定",
+        "onboard_time": 1762856480,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127884,
+        "num": 127884,
+        "word": "谁教你这样用投影仪的",
+        "onboard_time": 1762855280,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 127066,
+        "word": "双十一数码博主买了什么",
+        "onboard_time": 1762856480,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87587,
+        "num": 126948,
+        "word": "红包叠加的快乐你懂吗",
+        "onboard_time": 1762857441,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18987,
+        "num": 125486,
+        "word": "多付车费轻生家属称司机庭上拒道歉",
+        "onboard_time": 1762857441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106802,
+        "num": 125228,
+        "word": "王橹杰卡背文案",
+        "onboard_time": 1762857441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74699,
+        "num": 124045,
+        "word": "孙颖莎登上人民日报客户端",
+        "onboard_time": 1762856962,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67187,
+        "num": 123294,
+        "word": "韩国600年前沉船出土大量汉字木简",
+        "onboard_time": 1762857562,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 998557,
+        "num": 122649,
+        "word": "陈可辛出车祸",
+        "onboard_time": 1762848321,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 121603,
+        "word": "有人卖奶茶袋子赚了上千元",
+        "onboard_time": 1762843640,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121014,
+        "num": 121014,
+        "word": "为什么要把葱花当天使用",
+        "onboard_time": 1762847363,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121007,
+        "num": 121007,
+        "word": "小米汽车挖孔机盖专利获授权",
+        "onboard_time": 1762856181,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118681,
+        "num": 118681,
+        "word": "吴雅婷写信向女儿坦白与王栎鑫离婚",
+        "onboard_time": 1762849220,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101538,
+        "num": 101538,
+        "word": "张雪峰删除争议动态",
+        "onboard_time": 1762857802,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95598,
+        "num": 95598,
+        "word": "航母弹射速度 外星人打过来了",
+        "onboard_time": 1762852161,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92180,
+        "num": 92180,
+        "word": "iPhone新配件1299元起售",
+        "onboard_time": 1762856661,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91675,
+        "num": 91675,
+        "word": "水煮菜",
+        "onboard_time": 1762855641,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83419,
+        "num": 90327,
+        "word": "新音 三亚",
+        "onboard_time": 1762849280,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}

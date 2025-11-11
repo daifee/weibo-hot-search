@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762857082643,
+  "endTime": 1762858002369,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1029683,
+      "num": 1164749,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 990681,
       "num": 323937,
       "word": "白百何工作室晒时间线",
@@ -299,6 +307,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 854064,
+      "num": 401194,
+      "word": "苏州交警致歉",
+      "onboard_time": 1762854501,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 844618,
       "num": 252232,
       "word": "何炅的救场",
@@ -321,22 +337,6 @@
       "onboard_time": 1762683680,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 829453,
-      "num": 1132712,
-      "word": "iPhonePocket发布",
-      "onboard_time": 1762855280,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 825495,
-      "num": 401194,
-      "word": "苏州交警致歉",
-      "onboard_time": 1762854501,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 823471,
@@ -851,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 525000,
+      "num": 525000,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 524846,
       "num": 189627,
       "word": "为什么要把葱花当天使用",
@@ -1107,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 442605,
+      "num": 442605,
+      "word": "王者更改匹配机制",
+      "onboard_time": 1762854201,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 439013,
       "num": 439013,
       "word": "05后都开始上恋综了",
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394999,
+      "num": 268437,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 394991,
       "num": 378702,
       "word": "许我耀眼集均6328万",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1762616662,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381860,
-      "num": 381860,
-      "word": "王者更改匹配机制",
-      "onboard_time": 1762854201,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 380192,
@@ -1483,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351717,
-      "num": 351717,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 348866,
       "num": 207362,
       "word": "繁花剧组回应古二录音",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1762752679,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341260,
+      "num": 341260,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 341028,
@@ -1963,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278604,
+      "num": 147147,
+      "word": "许我耀眼庆功宴 卖货",
+      "onboard_time": 1762856900,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278173,
       "num": 278173,
       "word": "管泽元 BLG来看比赛了",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1762841419,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275606,
+      "num": 275606,
+      "word": "饶雪漫推荐钟丽丽入选星辰大海",
+      "onboard_time": 1762855220,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 275502,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1762699343,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265523,
+      "num": 265523,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 265353,
@@ -2259,14 +2299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237946,
-      "num": 237946,
-      "word": "AL",
-      "onboard_time": 1762855521,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 237697,
       "num": 237697,
       "word": "世上再无王权富贵",
@@ -2435,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222796,
-      "num": 222796,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 222375,
       "num": 222375,
       "word": "KT对战T1决胜局",
@@ -2507,14 +2531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219327,
-      "num": 219327,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 219185,
       "num": 179096,
       "word": "男子回应大爷吸烟进电梯被掐灭扔出",
@@ -2569,14 +2585,6 @@
       "onboard_time": 1762839919,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212036,
-      "num": 212036,
-      "word": "饶雪漫推荐钟丽丽入选星辰大海",
-      "onboard_time": 1762855220,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 211843,
@@ -3019,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189941,
+      "num": 189941,
+      "word": "奶皮子",
+      "onboard_time": 1762856841,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189821,
       "num": 151435,
       "word": "25岁女孩海岛求生吃了50只老鼠",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1762701921,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166926,
-      "num": 166926,
-      "word": "奶皮子",
-      "onboard_time": 1762856841,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 166854,
@@ -3899,6 +3907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151461,
+      "num": 270027,
+      "word": "乐华娱乐3连跌",
+      "onboard_time": 1762854379,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151223,
       "num": 151223,
       "word": "百色2公职人员性侵女性被免职",
@@ -3923,6 +3939,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 150172,
+      "num": 145032,
+      "word": "陈伟霆刚落地就接机妈妈",
+      "onboard_time": 1762857501,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150082,
       "num": 182618,
       "word": "唐诡云合登顶",
@@ -3937,14 +3961,6 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149915,
-      "num": 230550,
-      "word": "乐华娱乐3连跌",
-      "onboard_time": 1762854379,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 149255,
@@ -4707,6 +4723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "谁教你这样用投影仪的",
+      "onboard_time": 1762855280,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127728,
       "num": 104460,
       "word": "好想来回应门店称3岁娃偷千元商品",
@@ -4763,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126944,
+      "num": 146008,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126862,
       "num": 126862,
       "word": "都买都买太好笑了",
@@ -4777,6 +4809,14 @@
       "onboard_time": 1762849461,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126561,
+      "num": 148016,
+      "word": "范丞丞跑男路透",
+      "onboard_time": 1762856661,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 126470,
@@ -5163,14 +5203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119140,
-      "num": 126597,
-      "word": "谁教你这样用投影仪的",
-      "onboard_time": 1762855280,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 119038,
       "num": 119038,
       "word": "迪丽热巴檀健次清唱海芋恋",
@@ -5345,14 +5377,6 @@
       "onboard_time": 1762780881,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115904,
-      "num": 115904,
-      "word": "许我耀眼庆功宴 卖货",
-      "onboard_time": 1762856900,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 115772,
@@ -5577,6 +5601,14 @@
       "onboard_time": 1762660279,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110776,
+      "num": 168956,
+      "word": "中方将向菲人民提供紧急援助",
+      "onboard_time": 1762855521,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110718,
@@ -5816,6 +5848,14 @@
       "word": "刘浩存镜头里北京的初冬",
       "onboard_time": 1762793419,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106802,
+      "num": 125228,
+      "word": "王橹杰卡背文案",
+      "onboard_time": 1762857441,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6241,6 +6281,14 @@
       "onboard_time": 1762834401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101538,
+      "num": 101538,
+      "word": "张雪峰删除争议动态",
+      "onboard_time": 1762857802,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 101367,
@@ -6979,6 +7027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91675,
+      "num": 91675,
+      "word": "水煮菜",
+      "onboard_time": 1762855641,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 91460,
       "num": 172510,
       "word": "于适穿VERTEX直接顶配",
@@ -7363,6 +7419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87587,
+      "num": 126948,
+      "word": "红包叠加的快乐你懂吗",
+      "onboard_time": 1762857441,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87535,
       "num": 87535,
       "word": "曝富士康拆除iPhoneAir大部分生产线",
@@ -7729,14 +7793,6 @@
       "onboard_time": 1762822520,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81309,
-      "num": 168956,
-      "word": "中方将向菲人民提供紧急援助",
-      "onboard_time": 1762855521,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81196,
@@ -8123,6 +8179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74699,
+      "num": 125447,
+      "word": "孙颖莎登上人民日报客户端",
+      "onboard_time": 1762856962,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74497,
       "num": 74497,
       "word": "迪丽热巴陈星旭目标是你",
@@ -8505,6 +8569,14 @@
       "onboard_time": 1762686802,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67187,
+      "num": 123294,
+      "word": "韩国600年前沉船出土大量汉字木简",
+      "onboard_time": 1762857562,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67147,
@@ -9515,14 +9587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43470,
-      "num": 125447,
-      "word": "孙颖莎登上人民日报客户端",
-      "onboard_time": 1762856962,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43425,
       "num": 148512,
       "word": "大湾鸡越看越可爱",
@@ -9772,7 +9836,7 @@
     },
     {
       "raw_hot": 35904,
-      "num": 435912,
+      "num": 450852,
       "word": "相约第十五届全运会",
       "onboard_time": 1762849701,
       "rank": 2,
@@ -10235,12 +10299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19712,
+      "num": 127066,
+      "word": "双十一数码博主买了什么",
+      "onboard_time": 1762856480,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
       "onboard_time": 1762717934,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18987,
+      "num": 125486,
+      "word": "多付车费轻生家属称司机庭上拒道歉",
+      "onboard_time": 1762857441,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18664,
@@ -10289,14 +10369,6 @@
       "onboard_time": 1762727656,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17728,
-      "num": 126066,
-      "word": "双十一数码博主买了什么",
-      "onboard_time": 1762856480,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 17612,

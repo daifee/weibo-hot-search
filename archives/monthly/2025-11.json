@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762857082643,
+  "endTime": 1762858002369,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1029683,
+      "num": 1164749,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1021876,
       "num": 280600,
       "word": "蒲熠星回应通告费",
@@ -1211,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854064,
+      "num": 401194,
+      "word": "苏州交警致歉",
+      "onboard_time": 1762854501,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 852026,
       "num": 1136324,
       "word": "孙东旭从东方甄选离职",
@@ -1275,27 +1291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 829453,
-      "num": 1132712,
-      "word": "iPhonePocket发布",
-      "onboard_time": 1762855280,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 828488,
       "num": 828488,
       "word": "人民网评人民咖啡馆不妥",
       "onboard_time": 1762525161,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 825495,
-      "num": 401194,
-      "word": "苏州交警致歉",
-      "onboard_time": 1762854501,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3131,6 +3131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 525000,
+      "num": 525000,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 524846,
       "num": 189627,
       "word": "为什么要把葱花当天使用",
@@ -4035,6 +4043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 442605,
+      "num": 442605,
+      "word": "王者更改匹配机制",
+      "onboard_time": 1762854201,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 442000,
       "num": 182712,
       "word": "张翰给谈莉娜送了新婚祝福",
@@ -4619,6 +4635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 394999,
+      "num": 268437,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 394991,
       "num": 378702,
       "word": "许我耀眼集均6328万",
@@ -4849,14 +4873,6 @@
       "onboard_time": 1762298118,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381860,
-      "num": 381860,
-      "word": "王者更改匹配机制",
-      "onboard_time": 1762854201,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 381435,
@@ -5363,14 +5379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 351717,
-      "num": 351717,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 351514,
       "num": 351514,
       "word": "日本熊袭人有明显吃人痕迹",
@@ -5545,6 +5553,14 @@
       "onboard_time": 1762752679,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341260,
+      "num": 341260,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 341028,
@@ -6923,6 +6939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278604,
+      "num": 147147,
+      "word": "许我耀眼庆功宴 卖货",
+      "onboard_time": 1762856900,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278539,
       "num": 278539,
       "word": "秦岚新剧造型",
@@ -7001,6 +7025,14 @@
       "onboard_time": 1762607841,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275606,
+      "num": 275606,
+      "word": "饶雪漫推荐钟丽丽入选星辰大海",
+      "onboard_time": 1762855220,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 275502,
@@ -7233,6 +7265,14 @@
       "onboard_time": 1762128200,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265523,
+      "num": 265523,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 265353,
@@ -7955,14 +7995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237946,
-      "num": 237946,
-      "word": "AL",
-      "onboard_time": 1762855521,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 237697,
       "num": 237697,
       "word": "世上再无王权富贵",
@@ -8459,14 +8491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222796,
-      "num": 222796,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 222640,
       "num": 222640,
       "word": "唐诡终于知道卢凌风遗传谁了",
@@ -8656,14 +8680,6 @@
       "word": "KK园区2年扩大3倍",
       "onboard_time": 1762270639,
       "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 219327,
-      "num": 219327,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 13,
       "category": "海外新闻"
     },
     {
@@ -9017,14 +9033,6 @@
       "onboard_time": 1762444821,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212036,
-      "num": 212036,
-      "word": "饶雪漫推荐钟丽丽入选星辰大海",
-      "onboard_time": 1762855220,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 211843,
@@ -10561,6 +10569,14 @@
       "onboard_time": 1762614742,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189941,
+      "num": 189941,
+      "word": "奶皮子",
+      "onboard_time": 1762856841,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 189930,
@@ -12315,14 +12331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166926,
-      "num": 166926,
-      "word": "奶皮子",
-      "onboard_time": 1762856841,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 166864,
       "num": 166864,
       "word": "藏海传导演感谢肖战",
@@ -14051,6 +14059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151461,
+      "num": 270027,
+      "word": "乐华娱乐3连跌",
+      "onboard_time": 1762854379,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "花少7戒断期要来了",
@@ -14187,6 +14203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150172,
+      "num": 145032,
+      "word": "陈伟霆刚落地就接机妈妈",
+      "onboard_time": 1762857501,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150101,
       "num": 150101,
       "word": "AG老板谈AL不敌T1",
@@ -14233,14 +14257,6 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149915,
-      "num": 230550,
-      "word": "乐华娱乐3连跌",
-      "onboard_time": 1762854379,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 149688,
@@ -17515,6 +17531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127884,
+      "num": 127884,
+      "word": "谁教你这样用投影仪的",
+      "onboard_time": 1762855280,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127784,
       "num": 127784,
       "word": "我承认我在电脑方面就是元谋人",
@@ -17691,6 +17715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126944,
+      "num": 146008,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126925,
       "num": 130420,
       "word": "49岁女子拒绝猥亵被害",
@@ -17737,6 +17769,14 @@
       "onboard_time": 1762849461,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126561,
+      "num": 148016,
+      "word": "范丞丞跑男路透",
+      "onboard_time": 1762856661,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 126503,
@@ -19195,14 +19235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119140,
-      "num": 126597,
-      "word": "谁教你这样用投影仪的",
-      "onboard_time": 1762855280,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 119038,
       "num": 119038,
       "word": "迪丽热巴檀健次清唱海芋恋",
@@ -19889,14 +19921,6 @@
       "onboard_time": 1762409241,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115904,
-      "num": 115904,
-      "word": "许我耀眼庆功宴 卖货",
-      "onboard_time": 1762856900,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 115886,
@@ -20987,6 +21011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110776,
+      "num": 168956,
+      "word": "中方将向菲人民提供紧急援助",
+      "onboard_time": 1762855521,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110733,
       "num": 110733,
       "word": "水龙吟团综成恋综了",
@@ -21952,6 +21984,14 @@
       "word": "刘浩存镜头里北京的初冬",
       "onboard_time": 1762793419,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106802,
+      "num": 125228,
+      "word": "王橹杰卡背文案",
+      "onboard_time": 1762857441,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -23433,6 +23473,14 @@
       "onboard_time": 1761981681,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101538,
+      "num": 101538,
+      "word": "张雪峰删除争议动态",
+      "onboard_time": 1762857802,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 101521,
@@ -26555,6 +26603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91675,
+      "num": 91675,
+      "word": "水煮菜",
+      "onboard_time": 1762855641,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 91639,
       "num": 169136,
       "word": "反诈中心回应银行盘问取款用途",
@@ -27937,6 +27993,14 @@
       "onboard_time": 1762836801,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87587,
+      "num": 126948,
+      "word": "红包叠加的快乐你懂吗",
+      "onboard_time": 1762857441,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 87548,
@@ -29827,14 +29891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81309,
-      "num": 168956,
-      "word": "中方将向菲人民提供紧急援助",
-      "onboard_time": 1762855521,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81268,
       "num": 102003,
       "word": "沈月把闺蜜日常唱成了热歌",
@@ -31379,6 +31435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74699,
+      "num": 125447,
+      "word": "孙颖莎登上人民日报客户端",
+      "onboard_time": 1762856962,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74625,
       "num": 187209,
       "word": "能效王居然是奔驰纯电CLA",
@@ -32657,6 +32721,14 @@
       "onboard_time": 1762048099,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67187,
+      "num": 123294,
+      "word": "韩国600年前沉船出土大量汉字木简",
+      "onboard_time": 1762857562,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67147,
@@ -35667,14 +35739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43470,
-      "num": 125447,
-      "word": "孙颖莎登上人民日报客户端",
-      "onboard_time": 1762856962,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43440,
       "num": 503720,
       "word": "罗永浩的十字路口",
@@ -38187,6 +38251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19712,
+      "num": 127066,
+      "word": "双十一数码博主买了什么",
+      "onboard_time": 1762856480,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19695,
       "num": 70338,
       "word": "王一博为火炬传递广州站打call",
@@ -38209,6 +38281,14 @@
       "onboard_time": 1762717934,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18987,
+      "num": 125486,
+      "word": "多付车费轻生家属称司机庭上拒道歉",
+      "onboard_time": 1762857441,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18985,
@@ -38385,14 +38465,6 @@
       "onboard_time": 1762116793,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 17728,
-      "num": 126066,
-      "word": "双十一数码博主买了什么",
-      "onboard_time": 1762856480,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 17726,
