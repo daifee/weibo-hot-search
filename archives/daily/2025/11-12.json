@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762892968418,
+  "endTime": 1762893751326,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -483,8 +483,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10743,
+      "num": 20476,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 9871,
-      "num": 20011,
+      "num": 20472,
       "word": "唐诡值得",
       "onboard_time": 1762890733,
       "rank": 48,
