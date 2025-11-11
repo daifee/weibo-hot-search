@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762875812403,
+  "endTime": 1762878857858,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1739,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332918,
+      "num": 332918,
+      "word": "杨旭文 工作暂停庆祝破万",
+      "onboard_time": 1762872982,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332474,
       "num": 332474,
       "word": "剑来",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1762780822,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307863,
-      "num": 307863,
-      "word": "杨旭文 工作暂停庆祝破万",
-      "onboard_time": 1762872982,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 306519,
@@ -2635,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225068,
+      "num": 135736,
+      "word": "肖战易烊千玺人脸头套成爆款",
+      "onboard_time": 1762874781,
+      "rank": 37,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 224872,
       "num": 224872,
       "word": "全场大合唱中国人",
@@ -3163,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194607,
+      "num": 158284,
+      "word": "唐诡王者荣耀联动",
+      "onboard_time": 1762875621,
+      "rank": 18,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 194226,
       "num": 194226,
       "word": "假如你的室友是个美食博主",
@@ -3683,6 +3699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170851,
+      "num": 170851,
+      "word": "奶皮子酸奶",
+      "onboard_time": 1762869801,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170315,
       "num": 157165,
       "word": "王鹤棣这是喝了多少",
@@ -3985,6 +4009,14 @@
       "onboard_time": 1762653560,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158722,
+      "num": 158722,
+      "word": "双十一期间多名主播喊破了肺泡",
+      "onboard_time": 1762872322,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158484,
@@ -4563,14 +4595,6 @@
       "category": "演出,教育"
     },
     {
-      "raw_hot": 141658,
-      "num": 141658,
-      "word": "唐诡王者荣耀联动",
-      "onboard_time": 1762875621,
-      "rank": 18,
-      "category": "剧集,游戏"
-    },
-    {
       "raw_hot": 141475,
       "num": 141475,
       "word": "医生眼中无意识变胖的行为",
@@ -4819,14 +4843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136496,
-      "num": 145860,
-      "word": "双十一期间多名主播喊破了肺泡",
-      "onboard_time": 1762872322,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136182,
       "num": 136182,
       "word": "如果一个人朋友圈干干净净的",
@@ -4857,14 +4873,6 @@
       "onboard_time": 1762845321,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135736,
-      "num": 135736,
-      "word": "肖战易烊千玺人脸头套成爆款",
-      "onboard_time": 1762874781,
-      "rank": 37,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 134708,
@@ -5345,14 +5353,6 @@
       "onboard_time": 1762847060,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125913,
-      "num": 142493,
-      "word": "奶皮子酸奶",
-      "onboard_time": 1762869801,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 125889,
@@ -6537,6 +6537,14 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105465,
+      "num": 105465,
+      "word": "宋茜薄纱下的马甲线",
+      "onboard_time": 1762877241,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 105415,
@@ -9355,6 +9363,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 68689,
+      "num": 125921,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68230,
       "num": 82353,
       "word": "孩子地铁内荡秋千家长在旁拍照",
@@ -9369,6 +9385,14 @@
       "onboard_time": 1762826840,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68160,
+      "num": 125811,
+      "word": "比特币富婆钱志敏最高面临14年监禁",
+      "onboard_time": 1762875740,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67997,
@@ -9457,6 +9481,14 @@
       "onboard_time": 1762782860,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65862,
+      "num": 105270,
+      "word": "高校回应为职工解决编制设萝卜岗",
+      "onboard_time": 1762875921,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65793,
@@ -9731,14 +9763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60736,
-      "num": 125811,
-      "word": "比特币富婆钱志敏最高面临14年监禁",
-      "onboard_time": 1762875740,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60710,
       "num": 113124,
       "word": "春熙路秒变召唤师峡谷",
@@ -9843,12 +9867,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 58778,
-      "num": 125921,
-      "word": "香港一对六旬兄弟陈尸家中",
-      "onboard_time": 1762875621,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 58792,
+      "num": 105173,
+      "word": "帕里斯声明",
+      "onboard_time": 1762877361,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 58477,
@@ -9889,6 +9913,14 @@
       "onboard_time": 1762609102,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57612,
+      "num": 105394,
+      "word": "日首相凌晨3点开会因为传真机卡了",
+      "onboard_time": 1762875079,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57581,
@@ -10075,6 +10107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53963,
+      "num": 105152,
+      "word": "安静公主说体验了死亡的感觉",
+      "onboard_time": 1762878021,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 53426,
       "num": 346448,
       "word": "天猫双11好六夜阵容绝了",
@@ -10097,6 +10137,14 @@
       "onboard_time": 1762778901,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 105114,
+      "word": "陈飞宇西装daddy级别",
+      "onboard_time": 1762878501,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 52914,
@@ -10419,6 +10467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45208,
+      "num": 105378,
+      "word": "于何一战胜梁靖崑后直播抽樊A球板",
+      "onboard_time": 1762876639,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45073,
       "num": 203605,
       "word": "螺蛳粉店名 陆丝芬",
@@ -10585,6 +10641,14 @@
       "onboard_time": 1762696942,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42477,
+      "num": 105022,
+      "word": "揭秘大湾鸡内胆",
+      "onboard_time": 1762876761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42255,
@@ -10833,6 +10897,14 @@
       "onboard_time": 1762707379,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35654,
+      "num": 105346,
+      "word": "星巴克新歌单怎么了",
+      "onboard_time": 1762876099,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 35582,

@@ -1,0 +1,411 @@
+{
+  "startTime": 1762878857858,
+  "endTime": 1762878857858,
+  "band_list": [
+    {
+      "raw_hot": 555611,
+      "num": 832804,
+      "word": "英国海边出现巨型海怪",
+      "onboard_time": 1762867521,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 460964,
+      "num": 112172,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337675,
+      "num": 119808,
+      "word": "美主播阴阳怪气中国人遭特朗普反驳",
+      "onboard_time": 1762872682,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 332918,
+      "num": 332918,
+      "word": "杨旭文 工作暂停庆祝破万",
+      "onboard_time": 1762872982,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326735,
+      "num": 111729,
+      "word": "何穗产后身材 像没生过",
+      "onboard_time": 1762870283,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225068,
+      "num": 118812,
+      "word": "肖战易烊千玺人脸头套成爆款",
+      "onboard_time": 1762874781,
+      "rank": 11,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 218024,
+      "num": 218024,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194607,
+      "num": 158284,
+      "word": "唐诡王者荣耀联动",
+      "onboard_time": 1762875621,
+      "rank": 6,
+      "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 170851,
+      "num": 170851,
+      "word": "奶皮子酸奶",
+      "onboard_time": 1762869801,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 160265,
+      "num": 117492,
+      "word": "爱奇艺2025破万剧",
+      "onboard_time": 1762873881,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158722,
+      "num": 158722,
+      "word": "双十一期间多名主播喊破了肺泡",
+      "onboard_time": 1762872322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155682,
+      "num": 116831,
+      "word": "余华你知道你这句话救了多少人吗",
+      "onboard_time": 1762870583,
+      "rank": 13,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 140651,
+      "num": 111146,
+      "word": "经济学家不建议大家提前还贷",
+      "onboard_time": 1762874002,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134513,
+      "num": 116255,
+      "word": "iPhonePocket发布",
+      "onboard_time": 1762855280,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 132719,
+      "num": 114526,
+      "word": "女子网购理肤泉护肤品收到3块石头",
+      "onboard_time": 1762872322,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122532,
+      "num": 122532,
+      "word": "乒乓球男单前8号种子出局一半",
+      "onboard_time": 1762867701,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114186,
+      "num": 114186,
+      "word": "男子收割玉米突发意外抢救无效去世",
+      "onboard_time": 1762870642,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110698,
+      "num": 110698,
+      "word": "原来没散光是这样的",
+      "onboard_time": 1762870642,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105465,
+      "num": 105465,
+      "word": "宋茜薄纱下的马甲线",
+      "onboard_time": 1762877241,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 103744,
+      "num": 113954,
+      "word": "iPhone18Pro升级工艺",
+      "onboard_time": 1762867939,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 105462,
+      "word": "曝BLG与TES竞拍积分前二",
+      "onboard_time": 1762869683,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94793,
+      "num": 113368,
+      "word": "唐诡3热度破万",
+      "onboard_time": 1762870583,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88479,
+      "num": 105445,
+      "word": "许绍雄女儿再发文",
+      "onboard_time": 1762873040,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88370,
+      "num": 112630,
+      "word": "金银错 李昀锐",
+      "onboard_time": 1762859781,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84927,
+      "num": 121723,
+      "word": "AL",
+      "onboard_time": 1762855521,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81519,
+      "num": 105373,
+      "word": "西安8岁女孩冬天穿拖鞋流浪",
+      "onboard_time": 1762874781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77213,
+      "num": 121278,
+      "word": "秋假",
+      "onboard_time": 1762867342,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 71709,
+      "num": 105334,
+      "word": "爸爸年轻时候埋下的一颗人参",
+      "onboard_time": 1762874002,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 68689,
+      "num": 105310,
+      "word": "香港一对六旬兄弟陈尸家中",
+      "onboard_time": 1762875621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68160,
+      "num": 105294,
+      "word": "比特币富婆钱志敏最高面临14年监禁",
+      "onboard_time": 1762875740,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67836,
+      "num": 105279,
+      "word": "贺峻霖 别让研究生拍这些",
+      "onboard_time": 1762858701,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65862,
+      "num": 105270,
+      "word": "高校回应为职工解决编制设萝卜岗",
+      "onboard_time": 1762875921,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63768,
+      "num": 105427,
+      "word": "全运会乒乓球项目首金",
+      "onboard_time": 1762872141,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62994,
+      "num": 105246,
+      "word": "罗云熙认为自己没有综艺效果",
+      "onboard_time": 1762874302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62069,
+      "num": 105219,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 59066,
+      "num": 105216,
+      "word": "年会不能停2 大鹏",
+      "onboard_time": 1762868361,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 58870,
+      "num": 105188,
+      "word": "iPhoneAir 销量惨淡",
+      "onboard_time": 1762872862,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58792,
+      "num": 105173,
+      "word": "帕里斯声明",
+      "onboard_time": 1762877361,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57612,
+      "num": 105394,
+      "word": "日首相凌晨3点开会因为传真机卡了",
+      "onboard_time": 1762875079,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 53963,
+      "num": 105152,
+      "word": "安静公主说体验了死亡的感觉",
+      "onboard_time": 1762878021,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 53496,
+      "num": 105138,
+      "word": "四川阿坝红旗桥垮塌",
+      "onboard_time": 1762858941,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52928,
+      "num": 105114,
+      "word": "陈飞宇西装daddy级别",
+      "onboard_time": 1762878501,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 48949,
+      "num": 105104,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48411,
+      "num": 105092,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48140,
+      "num": 105068,
+      "word": "暴走团现身香港",
+      "onboard_time": 1762875319,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45208,
+      "num": 105378,
+      "word": "于何一战胜梁靖崑后直播抽樊A球板",
+      "onboard_time": 1762876639,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44955,
+      "num": 105057,
+      "word": "叶诗文创亚洲纪录时于子迪还未出生",
+      "onboard_time": 1762868423,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42477,
+      "num": 105022,
+      "word": "揭秘大湾鸡内胆",
+      "onboard_time": 1762876761,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35654,
+      "num": 105346,
+      "word": "星巴克新歌单怎么了",
+      "onboard_time": 1762876099,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 3152,
+      "num": 231405,
+      "word": "第十五届全运会",
+      "onboard_time": 1762830199,
+      "rank": 2,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平总书记海南广东之行纪实#"
+    }
+  ]
+}
