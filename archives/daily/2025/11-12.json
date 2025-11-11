@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762897150063,
+  "endTime": 1762899958052,
   "band_list": [
     {
       "raw_hot": 555611,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130933,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 122532,
       "num": 122532,
       "word": "乒乓球男单前8号种子出局一半",
@@ -153,6 +161,14 @@
       "onboard_time": 1762870642,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111472,
+      "num": 64874,
+      "word": "向太回应李连杰状态回春",
+      "onboard_time": 1762880118,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 110698,
@@ -209,14 +225,6 @@
       "onboard_time": 1762855521,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83440,
-      "num": 64874,
-      "word": "向太回应李连杰状态回春",
-      "onboard_time": 1762880118,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 81519,
@@ -315,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60358,
+      "num": 61483,
+      "word": "公司回应张老六请假参加荒野求生",
+      "onboard_time": 1762882875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59066,
       "num": 105216,
       "word": "年会不能停2 大鹏",
@@ -337,6 +353,14 @@
       "onboard_time": 1762877361,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58248,
+      "num": 105104,
+      "word": "特朗普回应高市早苗涉台错误言论",
+      "onboard_time": 1762870462,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57612,
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48949,
-      "num": 105104,
-      "word": "特朗普回应高市早苗涉台错误言论",
-      "onboard_time": 1762870462,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48140,
       "num": 105068,
       "word": "暴走团现身香港",
@@ -387,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45467,
-      "num": 61483,
-      "word": "公司回应张老六请假参加荒野求生",
-      "onboard_time": 1762882875,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 46613,
+      "num": 86096,
+      "word": "威廉王子 家中困难",
+      "onboard_time": 1762855641,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44955,
@@ -417,22 +433,6 @@
       "onboard_time": 1762876761,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42151,
-      "num": 86096,
-      "word": "威廉王子 家中困难",
-      "onboard_time": 1762855641,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 37085,
-      "num": 37085,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 35654,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22210,
+      "num": 22210,
+      "word": "减肥 和家族基因做对抗",
+      "onboard_time": 1762895894,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19578,
       "num": 42923,
       "word": "陈伟霆晒庆功宴合照",
@@ -483,7 +491,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13639,
+      "raw_hot": 13867,
       "num": 22244,
       "word": "田曦薇体制内女友风",
       "onboard_time": 1762884435,
@@ -491,12 +499,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12249,
-      "num": 18592,
-      "word": "减肥 和家族基因做对抗",
-      "onboard_time": 1762895894,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 12596,
+      "num": 22203,
+      "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
+      "onboard_time": 1762896914,
+      "rank": 47,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 11981,
+      "num": 22203,
+      "word": "丁禹兮山河枕卫视收视第一",
+      "onboard_time": 1762899075,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11873,
+      "num": 22201,
+      "word": "最后一波囤衣服该安排上了",
+      "onboard_time": 1762863861,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 9871,
