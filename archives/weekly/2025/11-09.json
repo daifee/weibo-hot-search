@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762860248119,
+  "endTime": 1762861185243,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -443,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 730319,
+      "num": 1116851,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 714315,
       "num": 1114290,
       "word": "周深单依纯 好听",
@@ -577,14 +585,6 @@
       "onboard_time": 1762825102,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 642957,
-      "num": 1102873,
-      "word": "金鸡奖提名",
-      "onboard_time": 1762857501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 640170,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 587673,
+      "num": 587673,
+      "word": "梁靖崑男单爆冷出局",
+      "onboard_time": 1762859361,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585848,
       "num": 221668,
       "word": "宝宝产检正常出生后满身兽皮痣",
@@ -776,6 +784,14 @@
       "word": "关晓彤衣品",
       "onboard_time": 1762675040,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 560962,
+      "num": 178833,
+      "word": "陈赫晒了清楚版的鹿晗",
+      "onboard_time": 1762859301,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1371,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381827,
+      "num": 265523,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 380192,
       "num": 208469,
       "word": "陈妍希谈怀孕妊娠纹",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1762697483,
       "rank": 29,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 372490,
+      "num": 372490,
+      "word": "四川阿坝红旗桥垮塌",
+      "onboard_time": 1762858941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371856,
@@ -1499,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354405,
-      "num": 265523,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 353801,
       "num": 353801,
       "word": "喜人奇妙夜",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1762757599,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350504,
-      "num": 132247,
-      "word": "陈赫晒了清楚版的鹿晗",
-      "onboard_time": 1762859301,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 348866,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1762743800,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337975,
+      "num": 178580,
+      "word": "贺峻霖 别让研究生拍这些",
+      "onboard_time": 1762858701,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 335927,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1762780822,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307789,
-      "num": 307789,
-      "word": "梁靖崑男单爆冷出局",
-      "onboard_time": 1762859361,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 306519,
@@ -2203,14 +2219,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 248690,
-      "num": 129468,
-      "word": "贺峻霖 别让研究生拍这些",
-      "onboard_time": 1762858701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248398,
       "num": 248398,
       "word": "Faker冰鸟",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1762781842,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244580,
+      "num": 244580,
+      "word": "金银错 李昀锐",
+      "onboard_time": 1762859781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 243059,
@@ -2979,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193459,
+      "num": 193459,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192696,
       "num": 192696,
       "word": "居然有人不会嘬嘬嘬",
@@ -3057,6 +3081,14 @@
       "onboard_time": 1762829479,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "覃海洋男子100蛙冠军",
+      "onboard_time": 1762860501,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 189941,
@@ -3211,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181492,
+      "num": 181492,
+      "word": "梁靖崑1比4于何一",
+      "onboard_time": 1762860201,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180180,
       "num": 160499,
       "word": "大学时期的刘亦菲",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178275,
+      "num": 178275,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177335,
@@ -3811,14 +3859,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 156167,
-      "num": 156167,
-      "word": "四川阿坝红旗桥垮塌",
-      "onboard_time": 1762858941,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155802,
       "num": 155802,
       "word": "电影过家家定档",
@@ -4059,6 +4099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "iPhonePocket适配所有iPhone",
+      "onboard_time": 1762860381,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "张佳宁演了成龙电影女主",
@@ -4185,14 +4233,6 @@
       "onboard_time": 1762832781,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143300,
-      "num": 143300,
-      "word": "金银错 李昀锐",
-      "onboard_time": 1762859781,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 143040,
@@ -4353,6 +4393,14 @@
       "onboard_time": 1762685059,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 138765,
+      "num": 138765,
+      "word": "于何一爆冷进16强",
+      "onboard_time": 1762860742,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 138644,
@@ -4721,6 +4769,22 @@
       "onboard_time": 1762776261,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129178,
+      "num": 129178,
+      "word": "金鸡奖预测",
+      "onboard_time": 1762860622,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129124,
+      "num": 129124,
+      "word": "梁靖崑止步全运会32强",
+      "onboard_time": 1762860742,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 129059,
@@ -5243,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119412,
-      "num": 119412,
-      "word": "梁靖崑1比4于何一",
-      "onboard_time": 1762860201,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119384,
       "num": 109857,
       "word": "原来这就是你们嚷嚷着要回的家啊",
@@ -5281,6 +5337,14 @@
       "onboard_time": 1762702341,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119191,
+      "num": 119191,
+      "word": "新音跨代舞台",
+      "onboard_time": 1762860921,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 119038,
@@ -5499,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115125,
+      "num": 115125,
+      "word": "谢娜是要把内娱都挂进柜子里吗",
+      "onboard_time": 1762859962,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115043,
       "num": 115043,
       "word": "樊振东被逗害羞了",
@@ -5619,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112289,
+      "num": 112289,
+      "word": "imp说Gumayusi因为流量大喜欢Uzi",
+      "onboard_time": 1762859781,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112156,
       "num": 112156,
       "word": "这些食物竟然比喝油还长肉",
@@ -5689,6 +5769,14 @@
       "onboard_time": 1762668440,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110697,
+      "num": 115660,
+      "word": "日本小学午餐",
+      "onboard_time": 1762860021,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110326,
@@ -5787,6 +5875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109041,
+      "num": 178509,
+      "word": "媳妇被撞了到医院发现老妈也被撞",
+      "onboard_time": 1762859721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108485,
       "num": 108485,
       "word": "红包分组",
@@ -5825,6 +5921,14 @@
       "onboard_time": 1762752560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108123,
+      "num": 108123,
+      "word": "张雪峰删除争议动态",
+      "onboard_time": 1762857802,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 108110,
@@ -6033,14 +6137,6 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105474,
-      "num": 105474,
-      "word": "谢娜是要把内娱都挂进柜子里吗",
-      "onboard_time": 1762859962,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 105415,
@@ -6371,14 +6467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101538,
-      "num": 101538,
-      "word": "张雪峰删除争议动态",
-      "onboard_time": 1762857802,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 101367,
       "num": 101367,
       "word": "余霜晒和Faker合照",
@@ -6401,14 +6489,6 @@
       "onboard_time": 1762759400,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101137,
-      "num": 101137,
-      "word": "差点没认出来这是成龙",
-      "onboard_time": 1762860142,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 101133,
@@ -6667,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97962,
+      "num": 97962,
+      "word": "官方回应四川阿坝红旗桥垮塌",
+      "onboard_time": 1762861162,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "为什么健身房容易倒闭",
@@ -6833,14 +6921,6 @@
       "onboard_time": 1762763721,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "imp说Gumayusi因为流量大喜欢Uzi",
-      "onboard_time": 1762859781,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 95762,
@@ -7137,6 +7217,14 @@
       "onboard_time": 1762660339,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91549,
+      "num": 91549,
+      "word": "阚清子孕晚期肚子",
+      "onboard_time": 1762861162,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 91460,
@@ -7468,7 +7556,7 @@
     },
     {
       "raw_hot": 88172,
-      "num": 121176,
+      "num": 147269,
       "word": "省钱的尽头是策略",
       "onboard_time": 1762859119,
       "rank": 29,
@@ -7532,7 +7620,7 @@
     },
     {
       "raw_hot": 87587,
-      "num": 137765,
+      "num": 179110,
       "word": "红包叠加的快乐你懂吗",
       "onboard_time": 1762857441,
       "rank": 35,
@@ -7769,6 +7857,14 @@
       "onboard_time": 1762678400,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83601,
+      "num": 196146,
+      "word": "张雨霏全运会100蝶冠军",
+      "onboard_time": 1762860442,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 83537,
@@ -8075,14 +8171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78261,
-      "num": 136145,
-      "word": "媳妇被撞了到医院发现老妈也被撞",
-      "onboard_time": 1762859721,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78219,
       "num": 78219,
       "word": "何炅说华晨宇是冠军的定义者",
@@ -8129,14 +8217,6 @@
       "onboard_time": 1762821020,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 77673,
-      "num": 111936,
-      "word": "日本小学午餐",
-      "onboard_time": 1762860021,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 77527,
@@ -9371,6 +9451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51025,
+      "num": 115384,
+      "word": "日本上调签证费",
+      "onboard_time": 1762861101,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50938,
       "num": 80268,
       "word": "王楚钦从小就不服输",
@@ -9753,6 +9841,14 @@
       "onboard_time": 1762658660,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43163,
+      "num": 116491,
+      "word": "被拐女子用买家夭折孩子的名字长大",
+      "onboard_time": 1762860622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42979,
@@ -10427,6 +10523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22238,
+      "num": 113412,
+      "word": "专家称特朗普是黄金上涨最大推手",
+      "onboard_time": 1762859900,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22161,
       "num": 127066,
       "word": "双十一数码博主买了什么",
@@ -10459,12 +10563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19780,
-      "num": 113412,
-      "word": "专家称特朗普是黄金上涨最大推手",
-      "onboard_time": 1762859900,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 19535,
+      "num": 91269,
+      "word": "短剧千金团发红包",
+      "onboard_time": 1762860501,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 19090,

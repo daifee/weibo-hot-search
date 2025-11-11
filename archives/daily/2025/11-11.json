@@ -1,6 +1,6 @@
 {
   "startTime": 1762792536276,
-  "endTime": 1762860248119,
+  "endTime": 1762861185243,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -131,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 730319,
+      "num": 1116851,
+      "word": "金鸡奖提名",
+      "onboard_time": 1762857501,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 645057,
       "num": 208662,
       "word": "穆祉丞 TOP",
       "onboard_time": 1762825102,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 642957,
-      "num": 1102873,
-      "word": "金鸡奖提名",
-      "onboard_time": 1762857501,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 640170,
@@ -168,6 +168,22 @@
       "word": "迪丽热巴从九月份就开始不舒服了",
       "onboard_time": 1762817779,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 587673,
+      "num": 587673,
+      "word": "梁靖崑男单爆冷出局",
+      "onboard_time": 1762859361,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 560962,
+      "num": 178833,
+      "word": "陈赫晒了清楚版的鹿晗",
+      "onboard_time": 1762859301,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -323,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381827,
+      "num": 265523,
+      "word": "早睡真的会失去很多",
+      "onboard_time": 1762850542,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 372490,
+      "num": 372490,
+      "word": "四川阿坝红旗桥垮塌",
+      "onboard_time": 1762858941,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362001,
       "num": 188799,
       "word": "短剧还珠小燕子回应眼睛不够大",
@@ -347,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354405,
-      "num": 265523,
-      "word": "早睡真的会失去很多",
-      "onboard_time": 1762850542,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 353801,
       "num": 353801,
       "word": "喜人奇妙夜",
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350504,
-      "num": 132247,
-      "word": "陈赫晒了清楚版的鹿晗",
-      "onboard_time": 1762859301,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340050,
       "num": 340050,
       "word": "周京泽人设",
       "onboard_time": 1762818740,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337975,
+      "num": 178580,
+      "word": "贺峻霖 别让研究生拍这些",
+      "onboard_time": 1762858701,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 332205,
@@ -425,14 +449,6 @@
       "onboard_time": 1762784243,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307789,
-      "num": 307789,
-      "word": "梁靖崑男单爆冷出局",
-      "onboard_time": 1762859361,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 301642,
@@ -547,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248690,
-      "num": 129468,
-      "word": "贺峻霖 别让研究生拍这些",
-      "onboard_time": 1762858701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247206,
       "num": 247206,
       "word": "井柏然刘雯 商务共享",
@@ -569,6 +577,14 @@
       "onboard_time": 1762781421,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244580,
+      "num": 244580,
+      "word": "金银错 李昀锐",
+      "onboard_time": 1762859781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 242184,
@@ -723,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200770,
+      "num": 200770,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762856602,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200470,
       "num": 186600,
       "word": "金饰克价涨破1300元",
@@ -755,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193459,
+      "num": 193459,
+      "word": "差点没认出来这是成龙",
+      "onboard_time": 1762860142,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "郎平红包",
@@ -769,6 +801,14 @@
       "onboard_time": 1762829479,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190163,
+      "num": 190163,
+      "word": "覃海洋男子100蛙冠军",
+      "onboard_time": 1762860501,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 189941,
@@ -819,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181492,
+      "num": 181492,
+      "word": "梁靖崑1比4于何一",
+      "onboard_time": 1762860201,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180180,
       "num": 160499,
       "word": "大学时期的刘亦菲",
@@ -841,6 +889,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178275,
+      "num": 178275,
+      "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+      "onboard_time": 1762860742,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175933,
@@ -947,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156167,
-      "num": 156167,
-      "word": "四川阿坝红旗桥垮塌",
-      "onboard_time": 1762858941,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155802,
       "num": 155802,
       "word": "电影过家家定档",
@@ -1027,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "iPhonePocket适配所有iPhone",
+      "onboard_time": 1762860381,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147049,
       "num": 147049,
       "word": "张佳宁演了成龙电影女主",
@@ -1083,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143300,
-      "num": 143300,
-      "word": "金银错 李昀锐",
-      "onboard_time": 1762859781,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143040,
       "num": 143040,
       "word": "倪虹洁发红包",
@@ -1139,20 +1187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138765,
+      "num": 138765,
+      "word": "于何一爆冷进16强",
+      "onboard_time": 1762860742,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138644,
       "num": 138644,
       "word": "锤娜丽莎回应瘦了30斤",
       "onboard_time": 1762825340,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137955,
-      "num": 187101,
-      "word": "唐朝诡事录",
-      "onboard_time": 1762856602,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 137887,
@@ -1321,6 +1369,22 @@
       "onboard_time": 1762846761,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129178,
+      "num": 129178,
+      "word": "金鸡奖预测",
+      "onboard_time": 1762860622,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 129124,
+      "num": 129124,
+      "word": "梁靖崑止步全运会32强",
+      "onboard_time": 1762860742,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 128936,
@@ -1523,20 +1587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119412,
-      "num": 119412,
-      "word": "梁靖崑1比4于何一",
-      "onboard_time": 1762860201,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119384,
       "num": 109857,
       "word": "原来这就是你们嚷嚷着要回的家啊",
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 119191,
+      "num": 119191,
+      "word": "新音跨代舞台",
+      "onboard_time": 1762860921,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 117947,
@@ -1587,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115125,
+      "num": 115125,
+      "word": "谢娜是要把内娱都挂进柜子里吗",
+      "onboard_time": 1762859962,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114975,
       "num": 114975,
       "word": "邓恩熙扭这一下",
@@ -1627,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112289,
+      "num": 112289,
+      "word": "imp说Gumayusi因为流量大喜欢Uzi",
+      "onboard_time": 1762859781,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112141,
       "num": 124617,
       "word": "林珊3米板金牌",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1762841839,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110697,
+      "num": 115660,
+      "word": "日本小学午餐",
+      "onboard_time": 1762860021,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110222,
@@ -1675,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109041,
+      "num": 178509,
+      "word": "媳妇被撞了到医院发现老妈也被撞",
+      "onboard_time": 1762859721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108485,
       "num": 108485,
       "word": "红包分组",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1762850300,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108123,
+      "num": 108123,
+      "word": "张雪峰删除争议动态",
+      "onboard_time": 1762857802,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 108109,
@@ -1779,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105474,
-      "num": 105474,
-      "word": "谢娜是要把内娱都挂进柜子里吗",
-      "onboard_time": 1762859962,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "唐诡编剧这是吃了多少历史书",
@@ -1849,22 +1945,6 @@
       "onboard_time": 1762834401,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101538,
-      "num": 101538,
-      "word": "张雪峰删除争议动态",
-      "onboard_time": 1762857802,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 101137,
-      "num": 101137,
-      "word": "差点没认出来这是成龙",
-      "onboard_time": 1762860142,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 100936,
@@ -1963,6 +2043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97962,
+      "num": 97962,
+      "word": "官方回应四川阿坝红旗桥垮塌",
+      "onboard_time": 1762861162,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "为什么健身房容易倒闭",
@@ -2001,14 +2089,6 @@
       "onboard_time": 1762845140,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "imp说Gumayusi因为流量大喜欢Uzi",
-      "onboard_time": 1762859781,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 95711,
@@ -2123,6 +2203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 91549,
+      "num": 91549,
+      "word": "阚清子孕晚期肚子",
+      "onboard_time": 1762861162,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90935,
       "num": 90935,
       "word": "分手后的家vs分手前的家",
@@ -2204,7 +2292,7 @@
     },
     {
       "raw_hot": 88172,
-      "num": 121176,
+      "num": 147269,
       "word": "省钱的尽头是策略",
       "onboard_time": 1762859119,
       "rank": 29,
@@ -2252,7 +2340,7 @@
     },
     {
       "raw_hot": 87587,
-      "num": 137765,
+      "num": 179110,
       "word": "红包叠加的快乐你懂吗",
       "onboard_time": 1762857441,
       "rank": 35,
@@ -2337,6 +2425,14 @@
       "onboard_time": 1762831220,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83601,
+      "num": 196146,
+      "word": "张雨霏全运会100蝶冠军",
+      "onboard_time": 1762860442,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 83070,
@@ -2467,28 +2563,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78261,
-      "num": 136145,
-      "word": "媳妇被撞了到医院发现老妈也被撞",
-      "onboard_time": 1762859721,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77905,
       "num": 77905,
       "word": "福建舰入列震撼全球",
       "onboard_time": 1762821020,
       "rank": 41,
       "category": "军事"
-    },
-    {
-      "raw_hot": 77673,
-      "num": 111936,
-      "word": "日本小学午餐",
-      "onboard_time": 1762860021,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 77527,
@@ -2915,6 +2995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51025,
+      "num": 115384,
+      "word": "日本上调签证费",
+      "onboard_time": 1762861101,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50944,
       "num": 50944,
       "word": "台风",
@@ -3009,6 +3097,14 @@
       "onboard_time": 1762781842,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43163,
+      "num": 116491,
+      "word": "被拐女子用买家夭折孩子的名字长大",
+      "onboard_time": 1762860622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40448,
@@ -3203,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22238,
+      "num": 113412,
+      "word": "专家称特朗普是黄金上涨最大推手",
+      "onboard_time": 1762859900,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22161,
       "num": 127066,
       "word": "双十一数码博主买了什么",
@@ -3227,20 +3331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19780,
-      "num": 113412,
-      "word": "专家称特朗普是黄金上涨最大推手",
-      "onboard_time": 1762859900,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19556,
       "num": 1221343,
       "word": "十五运见证大湾区融合发展",
       "onboard_time": 1762779501,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19535,
+      "num": 91269,
+      "word": "短剧千金团发红包",
+      "onboard_time": 1762860501,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18987,
