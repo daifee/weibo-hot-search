@@ -1,0 +1,410 @@
+{
+  "runTime": 1762933259533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 568304,
+        "num": 1090928,
+        "word": "Milkyway 永久禁赛",
+        "onboard_time": 1762930880,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398211,
+        "num": 398211,
+        "word": "前DeepSeek研究员罗福莉已加入小米",
+        "onboard_time": 1762927220,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10047,
+        "num": 289394,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284884,
+        "num": 284884,
+        "word": "郑钦文退出全运会",
+        "onboard_time": 1762923321,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263990,
+        "num": 263990,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237469,
+        "num": 237469,
+        "word": "20岁在俄失联女留学生已离世",
+        "onboard_time": 1762925302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222355,
+        "num": 222355,
+        "word": "光伏",
+        "onboard_time": 1762932200,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180764,
+        "num": 180764,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137100,
+        "num": 180755,
+        "word": "朱婷一锤定音",
+        "onboard_time": 1762929621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130945,
+        "num": 180752,
+        "word": "高市早苗被曝怂恿特朗普插手台海",
+        "onboard_time": 1762927580,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462338,
+        "num": 180742,
+        "word": "曾中1200w彩票幸运儿钱被骗光",
+        "onboard_time": 1762924879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460364,
+        "num": 180737,
+        "word": "乔欣 现实版的曲筱绡",
+        "onboard_time": 1762927701,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365010,
+        "num": 180721,
+        "word": "宝宝刚办完百日宴腿上出现一排牙印",
+        "onboard_time": 1762930101,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242662,
+        "num": 180719,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220952,
+        "num": 180702,
+        "word": "彭小苒换头像 端水大师",
+        "onboard_time": 1762928899,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181865,
+        "num": 180700,
+        "word": "新娘即将出场老太太想抢喜被制止",
+        "onboard_time": 1762922781,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161573,
+        "num": 180692,
+        "word": "深圳已经发展成这样了吗",
+        "onboard_time": 1762922481,
+        "rank": 16,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 144283,
+        "num": 180685,
+        "word": "陈天润 演员",
+        "onboard_time": 1762925480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110899,
+        "num": 180670,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127623,
+        "num": 180660,
+        "word": "国台办给赖清德念了两遍赖家祖训",
+        "onboard_time": 1762932380,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708897,
+        "num": 180658,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274411,
+        "num": 180640,
+        "word": "ally因整容擤不出鼻涕",
+        "onboard_time": 1762923801,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387143,
+        "num": 180639,
+        "word": "刘俊昊 陈天润下海吗",
+        "onboard_time": 1762929980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227770,
+        "num": 180629,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108577,
+        "num": 180621,
+        "word": "中国光伏行业协会发声明",
+        "onboard_time": 1762932439,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191352,
+        "num": 180612,
+        "word": "邓超晒照为儿子庆生",
+        "onboard_time": 1762923501,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180605,
+        "num": 180605,
+        "word": "经超说李琳当年玩命追自己",
+        "onboard_time": 1762930761,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179775,
+        "num": 179775,
+        "word": "杨紫看着满屏张一山 吆京少",
+        "onboard_time": 1762930819,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174142,
+        "num": 174142,
+        "word": "每天喝咖啡vs从来不喝咖啡",
+        "onboard_time": 1762924580,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101652,
+        "num": 173626,
+        "word": "佟丽娅小酒窝出演金鸡奖开幕式短片",
+        "onboard_time": 1762932861,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116155,
+        "num": 173200,
+        "word": "陈梦4比0胜何卓佳",
+        "onboard_time": 1762926623,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173158,
+        "num": 173158,
+        "word": "孙颖莎采访专注盯着记者",
+        "onboard_time": 1762932501,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168988,
+        "num": 168988,
+        "word": "葛夕回应复合传闻",
+        "onboard_time": 1762924762,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146695,
+        "num": 146695,
+        "word": "杨雨光比拿了爽文剧本还爽",
+        "onboard_time": 1762932439,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125742,
+        "num": 125742,
+        "word": "iPhone可以检测针孔摄像头",
+        "onboard_time": 1762932920,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125078,
+        "num": 125078,
+        "word": "王一博握手碰肩这一套",
+        "onboard_time": 1762931540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123162,
+        "num": 123162,
+        "word": "陈松伶曾因张铎年龄小拒绝恋爱",
+        "onboard_time": 1762930460,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115632,
+        "num": 115632,
+        "word": "樊振东赢球后吐槽自己",
+        "onboard_time": 1762932200,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55906,
+        "num": 114216,
+        "word": "瘫痪男生绑氢气球升空",
+        "onboard_time": 1762932140,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60243,
+        "num": 113758,
+        "word": "狗咬人被摔死狗主人上门理论遭反杀",
+        "onboard_time": 1762933100,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32562,
+        "num": 113476,
+        "word": "全红婵张家齐贴贴比心",
+        "onboard_time": 1762932020,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113434,
+        "num": 113434,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113037,
+        "num": 113037,
+        "word": "曝Viper想回LPL",
+        "onboard_time": 1762931121,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107807,
+        "num": 107807,
+        "word": "爸爸当家科普高铁为何只查小孩身份证",
+        "onboard_time": 1762933222,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98847,
+        "num": 98847,
+        "word": "航空公司外包客服卖上百条艺人隐私",
+        "onboard_time": 1762932741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96213,
+        "num": 96213,
+        "word": "黄金睡眠时间是这4个小时",
+        "onboard_time": 1762933159,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95388,
+        "num": 95388,
+        "word": "时代峰峻好有商业头脑",
+        "onboard_time": 1762932080,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93636,
+        "num": 93636,
+        "word": "樊振东vs薛飞",
+        "onboard_time": 1762922900,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 88139,
+        "word": "快递已由小猫代收",
+        "onboard_time": 1762932800,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88531,
+        "num": 87297,
+        "word": "大湾鸡抢救现场",
+        "onboard_time": 1762932020,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}

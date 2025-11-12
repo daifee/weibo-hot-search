@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762932423281,
+  "endTime": 1762933259533,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 615911,
-      "num": 128639,
+      "num": 180639,
       "word": "刘俊昊 陈天润下海吗",
       "onboard_time": 1762929980,
       "rank": 21,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 580326,
-      "num": 149641,
+      "num": 180737,
       "word": "乔欣 现实版的曲筱绡",
       "onboard_time": 1762927701,
       "rank": 15,
@@ -81,6 +81,14 @@
       "onboard_time": 1762918581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568304,
+      "num": 1090928,
+      "word": "Milkyway 永久禁赛",
+      "onboard_time": 1762930880,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 565985,
@@ -267,20 +275,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 394772,
-      "num": 394772,
-      "word": "Milkyway 永久禁赛",
-      "onboard_time": 1762930880,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 391581,
       "num": 192660,
       "word": "金价",
       "onboard_time": 1762912819,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 365010,
+      "num": 180721,
+      "word": "宝宝刚办完百日宴腿上出现一排牙印",
+      "onboard_time": 1762930101,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362220,
@@ -313,14 +321,6 @@
       "onboard_time": 1762915579,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 339421,
-      "num": 128533,
-      "word": "宝宝刚办完百日宴腿上出现一排牙印",
-      "onboard_time": 1762930101,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337675,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 307331,
-      "num": 168692,
+      "num": 168988,
       "word": "葛夕回应复合传闻",
       "onboard_time": 1762924762,
       "rank": 40,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 270471,
-      "num": 149537,
+      "num": 180702,
       "word": "彭小苒换头像 端水大师",
       "onboard_time": 1762928899,
       "rank": 16,
@@ -555,8 +555,16 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 222355,
+      "num": 222355,
+      "word": "光伏",
+      "onboard_time": 1762932200,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 221806,
-      "num": 127452,
+      "num": 180605,
       "word": "经超说李琳当年玩命追自己",
       "onboard_time": 1762930761,
       "rank": 23,
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179775,
+      "num": 179775,
+      "word": "杨紫看着满屏张一山 吆京少",
+      "onboard_time": 1762930819,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178725,
       "num": 169319,
       "word": "折月亮",
@@ -689,6 +705,14 @@
       "onboard_time": 1762916600,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173158,
+      "num": 173158,
+      "word": "孙颖莎采访专注盯着记者",
+      "onboard_time": 1762932501,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 172133,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 161363,
-      "num": 161363,
+      "num": 180755,
       "word": "朱婷一锤定音",
       "onboard_time": 1762929621,
       "rank": 32,
@@ -843,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146695,
+      "num": 146695,
+      "word": "杨雨光比拿了爽文剧本还爽",
+      "onboard_time": 1762932439,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145323,
       "num": 145323,
       "word": "台当局警告转发大陆要抓沈伯洋违法",
@@ -857,14 +889,6 @@
       "onboard_time": 1762926860,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139281,
-      "num": 127215,
-      "word": "杨紫看着满屏张一山 吆京少",
-      "onboard_time": 1762930819,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 137926,
@@ -939,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130945,
+      "num": 180752,
+      "word": "高市早苗被曝怂恿特朗普插手台海",
+      "onboard_time": 1762927580,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "乒乓球男单前8号种子出局一半",
@@ -955,12 +987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128062,
-      "num": 128062,
-      "word": "光伏",
-      "onboard_time": 1762932200,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 127623,
+      "num": 180660,
+      "word": "国台办给赖清德念了两遍赖家祖训",
+      "onboard_time": 1762932380,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127519,
@@ -1001,6 +1033,22 @@
       "onboard_time": 1762931121,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125742,
+      "num": 125742,
+      "word": "iPhone可以检测针孔摄像头",
+      "onboard_time": 1762932920,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 125078,
+      "num": 125078,
+      "word": "王一博握手碰肩这一套",
+      "onboard_time": 1762931540,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 124987,
@@ -1067,28 +1115,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 121141,
-      "num": 121141,
-      "word": "高市早苗被曝怂恿特朗普插手台海",
-      "onboard_time": 1762927580,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 120457,
       "num": 120457,
       "word": "爸爸当家武艺高铁上教育熊孩子",
       "onboard_time": 1762925660,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119545,
-      "num": 119545,
-      "word": "王一博握手碰肩这一套",
-      "onboard_time": 1762931540,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 118321,
@@ -1195,6 +1227,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108577,
+      "num": 180621,
+      "word": "中国光伏行业协会发声明",
+      "onboard_time": 1762932439,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107807,
+      "num": 107807,
+      "word": "爸爸当家科普高铁为何只查小孩身份证",
+      "onboard_time": 1762933222,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "警方通报男子殴打92岁母亲",
@@ -1259,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101652,
+      "num": 173626,
+      "word": "佟丽娅小酒窝出演金鸡奖开幕式短片",
+      "onboard_time": 1762932861,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101058,
       "num": 101058,
       "word": "河南女排五连胜",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1762869683,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98847,
+      "num": 98847,
+      "word": "航空公司外包客服卖上百条艺人隐私",
+      "onboard_time": 1762932741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98820,
@@ -1323,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96213,
+      "num": 96213,
+      "word": "黄金睡眠时间是这4个小时",
+      "onboard_time": 1762933159,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95788,
       "num": 95788,
       "word": "全运会奖牌上也有大湾鸡",
@@ -1336,6 +1408,14 @@
       "word": "吹牛老爹入狱照",
       "onboard_time": 1762924821,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95388,
+      "num": 95388,
+      "word": "时代峰峻好有商业头脑",
+      "onboard_time": 1762932080,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1449,6 +1529,14 @@
       "onboard_time": 1762859781,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88139,
+      "num": 88139,
+      "word": "快递已由小猫代收",
+      "onboard_time": 1762932800,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86656,
@@ -1803,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60243,
+      "num": 113758,
+      "word": "狗咬人被摔死狗主人上门理论遭反杀",
+      "onboard_time": 1762933100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59066,
       "num": 105216,
       "word": "年会不能停2 大鹏",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1762903636,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 55906,
+      "num": 119427,
+      "word": "瘫痪男生绑氢气球升空",
+      "onboard_time": 1762932140,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54268,
@@ -1995,28 +2099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41168,
-      "num": 111113,
-      "word": "国台办给赖清德念了两遍赖家祖训",
-      "onboard_time": 1762932380,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37630,
       "num": 51283,
       "word": "减肥 和家族基因做对抗",
       "onboard_time": 1762895894,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37496,
-      "num": 119427,
-      "word": "瘫痪男生绑氢气球升空",
-      "onboard_time": 1762932140,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35654,
@@ -2059,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32562,
+      "num": 118351,
+      "word": "全红婵张家齐贴贴比心",
+      "onboard_time": 1762932020,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -2097,14 +2193,6 @@
       "onboard_time": 1762883476,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19304,
-      "num": 118351,
-      "word": "全红婵张家齐贴贴比心",
-      "onboard_time": 1762932020,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 16889,
