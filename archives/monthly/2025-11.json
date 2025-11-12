@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762926201389,
+  "endTime": 1762929567417,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -4091,6 +4091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455481,
+      "num": 183385,
+      "word": "曾中1200w彩票幸运儿钱被骗光",
+      "onboard_time": 1762924879,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -4843,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402082,
+      "num": 200711,
+      "word": "ally因整容擤不出鼻涕",
+      "onboard_time": 1762923801,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 401224,
       "num": 246528,
       "word": "本科生和研究生的宿舍差距",
@@ -5195,6 +5211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381011,
+      "num": 372961,
+      "word": "男子暴打92岁母亲被刑拘",
+      "onboard_time": 1762921643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380192,
       "num": 208469,
       "word": "陈妍希谈怀孕妊娠纹",
@@ -5323,14 +5347,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 372961,
-      "num": 372961,
-      "word": "男子暴打92岁母亲被刑拘",
-      "onboard_time": 1762921643,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372657,
       "num": 244580,
       "word": "金银错 李昀锐",
@@ -5425,14 +5441,6 @@
       "onboard_time": 1762298178,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 366957,
-      "num": 200711,
-      "word": "ally因整容擤不出鼻涕",
-      "onboard_time": 1762923801,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 366416,
@@ -5577,6 +5585,14 @@
       "onboard_time": 1762008742,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362220,
+      "num": 362220,
+      "word": "20岁在俄失联女留学生已离世",
+      "onboard_time": 1762925302,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362001,
@@ -6643,11 +6659,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307331,
+      "num": 168692,
+      "word": "葛夕回应复合传闻",
+      "onboard_time": 1762924762,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307213,
       "num": 203262,
       "word": "费曼杨阳洋互拍",
       "onboard_time": 1761986600,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307072,
+      "num": 206479,
+      "word": "陈天润 演员",
+      "onboard_time": 1762925480,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6833,14 +6865,6 @@
       "onboard_time": 1762665920,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300802,
-      "num": 206479,
-      "word": "陈天润 演员",
-      "onboard_time": 1762925480,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 300744,
@@ -7313,6 +7337,14 @@
       "onboard_time": 1762830680,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283912,
+      "num": 283912,
+      "word": "陈梦4比0胜何卓佳",
+      "onboard_time": 1762926623,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 283908,
@@ -8833,6 +8865,14 @@
       "onboard_time": 1762611983,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229668,
+      "num": 229668,
+      "word": "前DeepSeek研究员罗福莉已加入小米",
+      "onboard_time": 1762927220,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 229646,
@@ -10939,6 +10979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193781,
+      "num": 149641,
+      "word": "乔欣 现实版的曲筱绡",
+      "onboard_time": 1762927701,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193764,
       "num": 169005,
       "word": "惊天魔盗团3官宣黄子弘凡新身份",
@@ -11507,6 +11555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187733,
+      "num": 139997,
+      "word": "王灿成功增肥15斤",
+      "onboard_time": 1762927220,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187723,
       "num": 165609,
       "word": "陈乔恩艾伦穿搭都只顾自己好看",
@@ -11873,14 +11929,6 @@
       "onboard_time": 1762694481,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183385,
-      "num": 183385,
-      "word": "曾中1200w彩票幸运儿钱被骗光",
-      "onboard_time": 1762924879,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183206,
@@ -12739,6 +12787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172133,
+      "num": 172133,
+      "word": "孙颖莎11比7王晓彤",
+      "onboard_time": 1762926501,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172093,
       "num": 163173,
       "word": "穆祉丞发花絮图",
@@ -12995,6 +13051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169500,
+      "num": 149537,
+      "word": "彭小苒换头像 端水大师",
+      "onboard_time": 1762928899,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169373,
       "num": 169373,
       "word": "吃饺子",
@@ -13048,14 +13112,6 @@
       "word": "屠颖",
       "onboard_time": 1761991880,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168692,
-      "num": 168692,
-      "word": "葛夕回应复合传闻",
-      "onboard_time": 1762924762,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -14457,14 +14513,6 @@
       "onboard_time": 1762653259,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156311,
-      "num": 203090,
-      "word": "20岁在俄失联女留学生已离世",
-      "onboard_time": 1762925302,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156278,
@@ -15977,6 +16025,14 @@
       "onboard_time": 1762611383,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144174,
+      "num": 144174,
+      "word": "凤凰台上OST",
+      "onboard_time": 1762926860,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 144166,
@@ -18451,6 +18507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129001,
+      "num": 129001,
+      "word": "杨幂别回头别停留往前走",
+      "onboard_time": 1762925960,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128995,
       "num": 128995,
       "word": "天地剑心打戏是前菜哭戏是大餐",
@@ -19032,14 +19096,6 @@
       "word": "李兰迪素颜健身",
       "onboard_time": 1762598241,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 126341,
-      "num": 126341,
-      "word": "杨幂别回头别停留往前走",
-      "onboard_time": 1762925960,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -20297,6 +20353,14 @@
       "onboard_time": 1762605322,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120460,
+      "num": 120460,
+      "word": "高市早苗被曝怂恿特朗普插手台海",
+      "onboard_time": 1762927580,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120421,
@@ -23529,6 +23593,14 @@
       "onboard_time": 1762833979,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106279,
+      "num": 106279,
+      "word": "警方通报男子殴打92岁母亲",
+      "onboard_time": 1762927220,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106215,
@@ -27603,6 +27675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93581,
+      "num": 93581,
+      "word": "霉霉伴娘团",
+      "onboard_time": 1762927101,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93563,
+      "num": 93563,
+      "word": "医生建议早餐重点补蛋白",
+      "onboard_time": 1762926381,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93476,
       "num": 93476,
       "word": "这狗像个千层蛋糕一样",
@@ -28227,6 +28315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91753,
+      "num": 93567,
+      "word": "比特币洗钱案钱志敏奢靡生活披露",
+      "onboard_time": 1762927701,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "李逗逗这段看爽了",
@@ -28305,6 +28401,14 @@
       "onboard_time": 1762742901,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 91425,
+      "num": 91425,
+      "word": "爸爸当家武艺高铁上教育熊孩子",
+      "onboard_time": 1762925660,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 91368,
@@ -28585,6 +28689,14 @@
       "onboard_time": 1761995481,
       "rank": 18,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 90648,
+      "num": 90648,
+      "word": "孙颖莎4比1王晓彤",
+      "onboard_time": 1762928180,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 90647,
@@ -30715,6 +30827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84815,
+      "num": 84815,
+      "word": "林高远晋级全运会八强",
+      "onboard_time": 1762928779,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84794,
       "num": 130090,
       "word": "小米17的两副面孔",
@@ -31467,6 +31587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82216,
+      "num": 82216,
+      "word": "6位航天员一同在轨工作忙",
+      "onboard_time": 1762929501,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82203,
       "num": 94389,
       "word": "四部男主剧对打谁赢了",
@@ -31707,6 +31835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81204,
+      "num": 81204,
+      "word": "菲律宾生子逃跑韩男照片被公开",
+      "onboard_time": 1762926260,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81196,
       "num": 126870,
       "word": "硅谷富豪开始定制完美婴儿",
@@ -31817,6 +31953,14 @@
       "onboard_time": 1762246099,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80784,
+      "num": 95013,
+      "word": "鸠山由纪夫讽高市早苗越小的狗越会叫",
+      "onboard_time": 1762928420,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80740,
@@ -36611,6 +36755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54268,
+      "num": 139520,
+      "word": "岚图泰山出场9系重新洗牌",
+      "onboard_time": 1762928241,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54170,
       "num": 180685,
       "word": "杨幂这个后仰好A",
@@ -39937,6 +40089,14 @@
       "onboard_time": 1762587381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26807,
+      "num": 94124,
+      "word": "Faker说从未有想过退役",
+      "onboard_time": 1762928899,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 26776,

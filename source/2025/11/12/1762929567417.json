@@ -1,0 +1,410 @@
+{
+  "runTime": 1762929567417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 535340,
+        "num": 1085654,
+        "word": "郑钦文退出全运会",
+        "onboard_time": 1762923321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362220,
+        "num": 362220,
+        "word": "20岁在俄失联女留学生已离世",
+        "onboard_time": 1762925302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8861,
+        "num": 304605,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381011,
+        "num": 300699,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283912,
+        "num": 283912,
+        "word": "陈梦4比0胜何卓佳",
+        "onboard_time": 1762926623,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229668,
+        "num": 229668,
+        "word": "前DeepSeek研究员罗福莉已加入小米",
+        "onboard_time": 1762927220,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214767,
+        "num": 214767,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172133,
+        "num": 172133,
+        "word": "孙颖莎11比7王晓彤",
+        "onboard_time": 1762926501,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164630,
+        "num": 164630,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159990,
+        "num": 159990,
+        "word": "樊振东vs薛飞",
+        "onboard_time": 1762922900,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455481,
+        "num": 159421,
+        "word": "曾中1200w彩票幸运儿钱被骗光",
+        "onboard_time": 1762924879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387310,
+        "num": 157864,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 307072,
+        "num": 155891,
+        "word": "陈天润 演员",
+        "onboard_time": 1762925480,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267909,
+        "num": 153386,
+        "word": "新娘即将出场老太太想抢喜被制止",
+        "onboard_time": 1762922781,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247067,
+        "num": 152550,
+        "word": "深圳已经发展成这样了吗",
+        "onboard_time": 1762922481,
+        "rank": 14,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 193781,
+        "num": 149641,
+        "word": "乔欣 现实版的曲筱绡",
+        "onboard_time": 1762927701,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169500,
+        "num": 149537,
+        "word": "彭小苒换头像 端水大师",
+        "onboard_time": 1762928899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144174,
+        "num": 144174,
+        "word": "凤凰台上OST",
+        "onboard_time": 1762926860,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121304,
+        "num": 143812,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1762924341,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 770560,
+        "num": 143532,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402082,
+        "num": 143175,
+        "word": "ally因整容擤不出鼻涕",
+        "onboard_time": 1762923801,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325280,
+        "num": 142420,
+        "word": "邓超晒照为儿子庆生",
+        "onboard_time": 1762923501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307331,
+        "num": 142036,
+        "word": "葛夕回应复合传闻",
+        "onboard_time": 1762924762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278735,
+        "num": 141801,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240731,
+        "num": 141160,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 140800,
+        "word": "每天喝咖啡vs从来不喝咖啡",
+        "onboard_time": 1762924580,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158697,
+        "num": 140267,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187733,
+        "num": 139997,
+        "word": "王灿成功增肥15斤",
+        "onboard_time": 1762927220,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54268,
+        "num": 139520,
+        "word": "岚图泰山出场9系重新洗牌",
+        "onboard_time": 1762928241,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139249,
+        "num": 139249,
+        "word": "孙燕姿两年前就预言了AI",
+        "onboard_time": 1762921042,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129001,
+        "num": 129001,
+        "word": "杨幂别回头别停留往前走",
+        "onboard_time": 1762925960,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120460,
+        "num": 120460,
+        "word": "高市早苗被曝怂恿特朗普插手台海",
+        "onboard_time": 1762927580,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118346,
+        "num": 118346,
+        "word": "国产剧终于癫成我想看的样子了",
+        "onboard_time": 1762919540,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111622,
+        "num": 111622,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118142,
+        "num": 111046,
+        "word": "终于明白外国人看李子柒的感觉了",
+        "onboard_time": 1762925602,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109211,
+        "num": 109211,
+        "word": "BLG管理层力保ELK迫使ON离队",
+        "onboard_time": 1762919601,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106279,
+        "num": 106279,
+        "word": "警方通报男子殴打92岁母亲",
+        "onboard_time": 1762927220,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80784,
+        "num": 95013,
+        "word": "鸠山由纪夫讽高市早苗越小的狗越会叫",
+        "onboard_time": 1762928420,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26807,
+        "num": 94124,
+        "word": "Faker说从未有想过退役",
+        "onboard_time": 1762928899,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93581,
+        "num": 93581,
+        "word": "霉霉伴娘团",
+        "onboard_time": 1762927101,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91753,
+        "num": 93567,
+        "word": "比特币洗钱案钱志敏奢靡生活披露",
+        "onboard_time": 1762927701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93563,
+        "num": 93563,
+        "word": "医生建议早餐重点补蛋白",
+        "onboard_time": 1762926381,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91425,
+        "num": 91425,
+        "word": "爸爸当家武艺高铁上教育熊孩子",
+        "onboard_time": 1762925660,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90714,
+        "num": 90714,
+        "word": "华晨宇 0分一人一个",
+        "onboard_time": 1762921282,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90648,
+        "num": 90648,
+        "word": "孙颖莎4比1王晓彤",
+        "onboard_time": 1762928180,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86697,
+        "num": 86697,
+        "word": "樊振东4比1薛飞",
+        "onboard_time": 1762925000,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84815,
+        "num": 84815,
+        "word": "林高远晋级全运会八强",
+        "onboard_time": 1762928779,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82216,
+        "num": 82216,
+        "word": "6位航天员一同在轨工作忙",
+        "onboard_time": 1762929501,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81204,
+        "num": 81204,
+        "word": "菲律宾生子逃跑韩男照片被公开",
+        "onboard_time": 1762926260,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}
