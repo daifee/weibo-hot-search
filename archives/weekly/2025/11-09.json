@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762930355230,
+  "endTime": 1762932423281,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -851,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580326,
+      "num": 149641,
+      "word": "乔欣 现实版的曲筱绡",
+      "onboard_time": 1762927701,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580213,
       "num": 182224,
       "word": "大量看书后真的能改变人的潜意识",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1762846939,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505584,
+      "num": 1080893,
+      "word": "前DeepSeek研究员罗福莉已加入小米",
+      "onboard_time": 1762927220,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 504496,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1762835661,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452489,
-      "num": 149641,
-      "word": "乔欣 现实版的曲筱绡",
-      "onboard_time": 1762927701,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 451981,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1762768700,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394772,
+      "num": 394772,
+      "word": "Milkyway 永久禁赛",
+      "onboard_time": 1762930880,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 393970,
@@ -1907,14 +1923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352372,
-      "num": 352372,
-      "word": "前DeepSeek研究员罗福莉已加入小米",
-      "onboard_time": 1762927220,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1762743800,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339421,
+      "num": 128533,
+      "word": "宝宝刚办完百日宴腿上出现一排牙印",
+      "onboard_time": 1762930101,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337975,
@@ -2643,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270471,
+      "num": 149537,
+      "word": "彭小苒换头像 端水大师",
+      "onboard_time": 1762928899,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -3035,14 +3059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231924,
-      "num": 149537,
-      "word": "彭小苒换头像 端水大师",
-      "onboard_time": 1762928899,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231525,
       "num": 231525,
       "word": "白菜免费摘谁在造谣谁在传谣",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1762752502,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221806,
+      "num": 127452,
+      "word": "经超说李琳当年玩命追自己",
+      "onboard_time": 1762930761,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 220908,
@@ -4043,14 +4067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180326,
-      "num": 128533,
-      "word": "宝宝刚办完百日宴腿上出现一排牙印",
-      "onboard_time": 1762930101,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180180,
       "num": 160499,
       "word": "大学时期的刘亦菲",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1762832058,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161363,
+      "num": 161363,
+      "word": "朱婷一锤定音",
+      "onboard_time": 1762929621,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 160842,
@@ -5411,6 +5435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 139281,
+      "num": 127215,
+      "word": "杨紫看着满屏张一山 吆京少",
+      "onboard_time": 1762930819,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138910,
       "num": 182830,
       "word": "中储粮库7死事故12人被采取强制措施",
@@ -5939,14 +5971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128459,
-      "num": 128459,
-      "word": "朱婷一锤定音",
-      "onboard_time": 1762929621,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "我最擅长的运动",
@@ -5977,6 +6001,14 @@
       "onboard_time": 1762697843,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128062,
+      "num": 128062,
+      "word": "光伏",
+      "onboard_time": 1762932200,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 127970,
@@ -6057,6 +6089,14 @@
       "onboard_time": 1762786881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127189,
+      "num": 127189,
+      "word": "陈松伶曾因张铎年龄小拒绝恋爱",
+      "onboard_time": 1762930460,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 126999,
@@ -6145,6 +6185,14 @@
       "onboard_time": 1762852641,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126002,
+      "num": 126002,
+      "word": "曝Viper想回LPL",
+      "onboard_time": 1762931121,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 125929,
@@ -6419,6 +6467,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 122504,
+      "num": 122504,
+      "word": "樊振东赢球后吐槽自己",
+      "onboard_time": 1762932200,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122103,
+      "num": 122103,
+      "word": "万茜表达力",
+      "onboard_time": 1762931719,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "双11手机最终排名出炉",
@@ -6529,6 +6593,14 @@
       "onboard_time": 1762683379,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119545,
+      "num": 119545,
+      "word": "王一博握手碰肩这一套",
+      "onboard_time": 1762931540,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 119538,
@@ -7451,6 +7523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106158,
+      "num": 106158,
+      "word": "成都混团世界杯参赛名单",
+      "onboard_time": 1762931121,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106020,
       "num": 205847,
       "word": "你好星期六下期是枭起青壤剧组",
@@ -7473,6 +7553,14 @@
       "onboard_time": 1762838600,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105702,
+      "num": 105702,
+      "word": "马頔一个肥字触到潘玮柏逆鳞",
+      "onboard_time": 1762931540,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 105602,
@@ -7923,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101058,
+      "num": 101058,
+      "word": "河南女排五连胜",
+      "onboard_time": 1762931479,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100936,
       "num": 151382,
       "word": "小米SU7改款涨价近1万",
@@ -7993,6 +8089,14 @@
       "onboard_time": 1762757119,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 100539,
+      "num": 100539,
+      "word": "大湾鸡抢救现场",
+      "onboard_time": 1762932020,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100441,
@@ -10811,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65923,
+      "num": 119505,
+      "word": "朱开直播称BLG恐将解散",
+      "onboard_time": 1762930221,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65862,
       "num": 105270,
       "word": "高校回应为职工解决编制设萝卜岗",
@@ -11707,6 +11819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48017,
+      "num": 117656,
+      "word": "俄罗斯推出首款国产人形机器人",
+      "onboard_time": 1762931239,
+      "rank": 39,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 47965,
       "num": 119077,
       "word": "泽连斯基称全世界都怕特朗普我不怕",
@@ -12147,6 +12267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41168,
+      "num": 111113,
+      "word": "国台办给赖清德念了两遍赖家祖训",
+      "onboard_time": 1762932380,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41014,
       "num": 183545,
       "word": "习惯每一年有奔驰的S赛",
@@ -12267,12 +12395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37501,
-      "num": 119505,
-      "word": "朱开直播称BLG恐将解散",
-      "onboard_time": 1762930221,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 37496,
+      "num": 119427,
+      "word": "瘫痪男生绑氢气球升空",
+      "onboard_time": 1762932140,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37383,
@@ -12651,6 +12779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28589,
+      "num": 119599,
+      "word": "穿拖鞋流浪女童家将获低保",
+      "onboard_time": 1762930401,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28390,
       "num": 249239,
       "word": "转发花海微博抓小猫",
@@ -12913,6 +13049,14 @@
       "onboard_time": 1762871900,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19304,
+      "num": 118351,
+      "word": "全红婵张家齐贴贴比心",
+      "onboard_time": 1762932020,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 19090,
