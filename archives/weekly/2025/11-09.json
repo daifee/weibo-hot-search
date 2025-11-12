@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762947541834,
+  "endTime": 1762952137112,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 938264,
+      "num": 1150122,
+      "word": "孙杨抢跳",
+      "onboard_time": 1762948761,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 916354,
       "num": 213051,
       "word": "大张伟欧洲被砸车以为节目组整蛊",
@@ -451,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 810544,
+      "num": 1119784,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 798914,
       "num": 411283,
       "word": "iPhone可以检测针孔摄像头",
@@ -499,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 748655,
-      "num": 1119784,
-      "word": "小天才灰色产业链曝光",
-      "onboard_time": 1762945159,
-      "rank": 3,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 741062,
       "num": 719427,
       "word": "19岁男生错付车费自杀案宣判",
@@ -553,6 +561,14 @@
       "onboard_time": 1762617441,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 726993,
+      "num": 194284,
+      "word": "朱媛媛去世六个月辛柏青状态",
+      "onboard_time": 1762946959,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 714315,
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559002,
+      "num": 559002,
+      "word": "卢凌风 李奈儿",
+      "onboard_time": 1762950323,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 555432,
       "num": 1088869,
       "word": "疯狂好六夜",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1762927220,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 504737,
+      "num": 249037,
+      "word": "男子溺亡被同伴运回家摆成睡姿",
+      "onboard_time": 1762949781,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 504496,
@@ -1459,6 +1491,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 447135,
+      "num": 247509,
+      "word": "民政局回应离婚证后面有囍字",
+      "onboard_time": 1762946959,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447045,
       "num": 229712,
       "word": "44岁导演心梗离世仅获赔1万元",
@@ -1715,6 +1755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 401175,
+      "num": 401175,
+      "word": "奔跑吧沙溢宋雨琦路透",
+      "onboard_time": 1762948880,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399015,
       "num": 169315,
       "word": "王一博代言UGG",
@@ -1897,6 +1945,22 @@
       "onboard_time": 1762870583,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 370256,
+      "num": 370256,
+      "word": "无印良品 过度包装",
+      "onboard_time": 1762948341,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368750,
+      "num": 192755,
+      "word": "白鹿庆祝与呵呵十周年",
+      "onboard_time": 1762949781,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 366258,
@@ -2217,6 +2281,14 @@
       "onboard_time": 1762676361,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 327701,
+      "num": 190275,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 327690,
@@ -2803,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272995,
+      "num": 247229,
+      "word": "乔欣今年8月成立新公司",
+      "onboard_time": 1762945222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271480,
       "num": 187469,
       "word": "GAI庆功宴王鹤棣送8万红包",
@@ -2961,6 +3041,14 @@
       "onboard_time": 1762778841,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254969,
+      "num": 254969,
+      "word": "潘展乐全运会200自铜牌",
+      "onboard_time": 1762947201,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 253796,
@@ -3353,14 +3441,6 @@
       "onboard_time": 1762837221,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 223749,
-      "num": 223749,
-      "word": "乔欣今年8月成立新公司",
-      "onboard_time": 1762945222,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 222870,
@@ -3835,6 +3915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200011,
+      "num": 200011,
+      "word": "徐嘉余100仰金牌",
+      "onboard_time": 1762950742,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -4128,6 +4216,14 @@
       "word": "爱奇艺2025破万剧",
       "onboard_time": 1762873881,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188581,
+      "num": 188581,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -4515,6 +4611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 173437,
+      "num": 254152,
+      "word": "唐诡3第3案一集下线3人",
+      "onboard_time": 1762951580,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172981,
       "num": 172981,
       "word": "陈芋汐完美一跳全红婵起立欢呼",
@@ -4601,6 +4705,14 @@
       "onboard_time": 1762869801,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170822,
+      "num": 194998,
+      "word": "侯明昊遇到了最懂他的搭子",
+      "onboard_time": 1762949301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 170393,
@@ -4851,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162836,
+      "num": 162836,
+      "word": "沈佳润把自己照顾得很好",
+      "onboard_time": 1762951703,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162782,
       "num": 162782,
       "word": "宋亚轩开口就是高光时刻",
@@ -5043,6 +5163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158153,
+      "num": 158153,
+      "word": "荣耀500被指与iPhoneAir相似",
+      "onboard_time": 1762950921,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157903,
       "num": 204788,
       "word": "张杰跨年演唱会",
@@ -5169,6 +5297,14 @@
       "onboard_time": 1762779081,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155259,
+      "num": 251807,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154828,
@@ -6203,14 +6339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131559,
-      "num": 131559,
-      "word": "潘展乐全运会200自铜牌",
-      "onboard_time": 1762947201,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131361,
       "num": 131361,
       "word": "人就是会反反复复爱上同一个人",
@@ -6297,6 +6425,14 @@
       "onboard_time": 1762860622,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129152,
+      "num": 129152,
+      "word": "李昀锐直播",
+      "onboard_time": 1762950561,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 129124,
@@ -6481,6 +6617,14 @@
       "onboard_time": 1762782081,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126986,
+      "num": 126986,
+      "word": "四喜弟弟全家扶姐姐全家服",
+      "onboard_time": 1762951461,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126862,
@@ -7011,14 +7155,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 119272,
-      "num": 119272,
-      "word": "民政局回应离婚证后面有囍字",
-      "onboard_time": 1762946959,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119261,
       "num": 163113,
       "word": "淘宝抽奖",
@@ -7057,6 +7193,14 @@
       "onboard_time": 1762643536,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118996,
+      "num": 118996,
+      "word": "唐诡3最累的受害者出现了",
+      "onboard_time": 1762951461,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 118974,
@@ -7307,6 +7451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115589,
+      "num": 115589,
+      "word": "尹锡悦曾企图引发朝鲜军事挑衅",
+      "onboard_time": 1762947081,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115453,
       "num": 115475,
       "word": "新闻女王2港百",
@@ -7369,6 +7521,14 @@
       "onboard_time": 1762918520,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114246,
+      "num": 114246,
+      "word": "第五人格",
+      "onboard_time": 1762950921,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 113918,
@@ -8019,6 +8179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105675,
+      "num": 105675,
+      "word": "樊振东汗失禁体质",
+      "onboard_time": 1762952000,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "大爷吸烟进电梯被小伙掐灭扔出去",
@@ -8027,12 +8195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105499,
+      "num": 105499,
+      "word": "微信什么时候出个一删皆空",
+      "onboard_time": 1762951761,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105481,
       "num": 105481,
       "word": "T1有望扭亏为盈",
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105441,
+      "num": 105441,
+      "word": "白鹿宋雨琦贴面礼",
+      "onboard_time": 1762952000,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 105415,
@@ -8424,14 +8608,6 @@
       "word": "Mai婚礼照",
       "onboard_time": 1762760000,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 102058,
-      "num": 102058,
-      "word": "朱媛媛去世六个月辛柏青状态",
-      "onboard_time": 1762946959,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -8883,6 +9059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98020,
+      "num": 98020,
+      "word": "林允偏偏你最争气",
+      "onboard_time": 1762952062,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98005,
       "num": 98005,
       "word": "马丁提水",
@@ -9129,6 +9313,14 @@
       "onboard_time": 1762870402,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96431,
+      "num": 96431,
+      "word": "徐嘉余全运会第13金",
+      "onboard_time": 1762951161,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96329,
@@ -10643,6 +10835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81254,
+      "num": 197915,
+      "word": "北京北部出现极光",
+      "onboard_time": 1762951461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81204,
       "num": 81204,
       "word": "菲律宾生子逃跑韩男照片被公开",
@@ -11179,14 +11379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74743,
-      "num": 74743,
-      "word": "尹锡悦曾企图引发朝鲜军事挑衅",
-      "onboard_time": 1762947081,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74709,
       "num": 74709,
       "word": "和朋友诉苦却发现大家都很痛苦",
@@ -11441,6 +11633,14 @@
       "onboard_time": 1762903277,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71188,
+      "num": 121779,
+      "word": "多名老人组团开电动轮椅上高速",
+      "onboard_time": 1762950082,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71178,
@@ -11961,6 +12161,14 @@
       "onboard_time": 1762844480,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62444,
+      "num": 127268,
+      "word": "345元羽绒外套充绒量仅5克",
+      "onboard_time": 1762950259,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62325,
@@ -13131,6 +13339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 41592,
+      "num": 115654,
+      "word": "绑气球飞上天的瘫痪小伙发文道歉",
+      "onboard_time": 1762950921,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41249,
       "num": 42243,
       "word": "女子回应遭陌生男子搭讪并留下丝袜",
@@ -13177,6 +13393,14 @@
       "onboard_time": 1762643356,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40221,
+      "num": 196108,
+      "word": "LadyDior手袋十年艺术之旅",
+      "onboard_time": 1762949662,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 40016,
@@ -13523,6 +13747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 31904,
+      "num": 120098,
+      "word": "官方称8岁流浪女孩暂不需捐赠",
+      "onboard_time": 1762950025,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31870,
       "num": 113996,
       "word": "8人穿仿制警服为新人开道被罚",
@@ -13756,7 +13988,7 @@
     },
     {
       "raw_hot": 27400,
-      "num": 506089,
+      "num": 625279,
       "word": "微观全运会",
       "onboard_time": 1762934480,
       "rank": 2,
@@ -13961,6 +14193,14 @@
       "onboard_time": 1762872082,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20432,
+      "num": 245307,
+      "word": "唐钱婷享受过程享受快乐",
+      "onboard_time": 1762949301,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 20279,
