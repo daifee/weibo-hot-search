@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762904339057,
+  "endTime": 1762912706562,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1147547,
+      "num": 145598,
+      "word": "比特币富婆钱志敏在床上被捕",
+      "onboard_time": 1762910540,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1143478,
       "num": 1164749,
       "word": "iPhonePocket发布",
@@ -321,6 +329,14 @@
       "onboard_time": 1762675759,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 873165,
+      "num": 1139706,
+      "word": "睡眠超9小时也可能有害",
+      "onboard_time": 1762906761,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 861213,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 504496,
-      "num": 86373,
+      "num": 138760,
       "word": "不要再叫我们阿三了",
       "onboard_time": 1762902797,
       "rank": 11,
@@ -1139,6 +1155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 463450,
+      "num": 463450,
+      "word": "湖南卫视接还珠回宫",
+      "onboard_time": 1762904239,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461960,
       "num": 176125,
       "word": "本周做什么都顺的星座",
@@ -1244,7 +1268,7 @@
     },
     {
       "raw_hot": 437580,
-      "num": 140684,
+      "num": 143164,
       "word": "经济学家不建议大家提前还贷",
       "onboard_time": 1762874002,
       "rank": 30,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1762773919,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430759,
+      "num": 144164,
+      "word": "花70万买了个阳台里的一室一厅",
+      "onboard_time": 1762905140,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 429461,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1762643176,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400048,
+      "num": 400048,
+      "word": "朱一龙获最佳男主角提名",
+      "onboard_time": 1762909340,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 394991,
@@ -1843,6 +1883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323299,
+      "num": 193334,
+      "word": "许我耀眼回应庆功宴卖货",
+      "onboard_time": 1762905501,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322883,
       "num": 193899,
       "word": "盗版刘亦菲杨幂baby",
@@ -1907,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312860,
+      "num": 385966,
+      "word": "阿坝大桥垮塌前已发现险情",
+      "onboard_time": 1762892353,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 312670,
       "num": 312670,
       "word": "德军司令称柏林已做好开战准备",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1762648397,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304177,
-      "num": 385966,
-      "word": "阿坝大桥垮塌前已发现险情",
-      "onboard_time": 1762892353,
-      "rank": 46,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 302476,
@@ -2075,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291084,
+      "num": 141436,
+      "word": "盛夏芬德拉女主回应火了",
+      "onboard_time": 1762908322,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290062,
       "num": 276831,
       "word": "多兰 陌生",
@@ -2092,7 +2148,7 @@
     },
     {
       "raw_hot": 288606,
-      "num": 76404,
+      "num": 131040,
       "word": "向太回应李连杰状态回春",
       "onboard_time": 1762880118,
       "rank": 23,
@@ -2307,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264477,
+      "num": 136050,
+      "word": "郭宇欣回应一条裙子穿了三次",
+      "onboard_time": 1762905560,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264082,
       "num": 180290,
       "word": "长沙地铁内一女生衣物起火",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1762781842,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245084,
+      "num": 140514,
+      "word": "发现很多东西都在悄悄涨价",
+      "onboard_time": 1762908082,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 243059,
@@ -2964,7 +3036,7 @@
     },
     {
       "raw_hot": 205295,
-      "num": 84226,
+      "num": 92975,
       "word": "公司回应张老六请假参加荒野求生",
       "onboard_time": 1762882875,
       "rank": 46,
@@ -3081,6 +3153,14 @@
       "onboard_time": 1762783703,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201270,
+      "num": 201270,
+      "word": "7省份已率先实现生娃基本不花钱",
+      "onboard_time": 1762904059,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201052,
@@ -3235,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192915,
+      "num": 132724,
+      "word": "树莓复出",
+      "onboard_time": 1762908981,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 192696,
       "num": 192696,
       "word": "居然有人不会嘬嘬嘬",
@@ -3281,6 +3369,14 @@
       "onboard_time": 1762697843,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191116,
+      "num": 191116,
+      "word": "家长距离老师只差教师资格证了",
+      "onboard_time": 1762903338,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190818,
@@ -3409,6 +3505,14 @@
       "onboard_time": 1762768038,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186521,
+      "num": 137897,
+      "word": "张颂文救人后悄然离去",
+      "onboard_time": 1762874182,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 186286,
@@ -3627,6 +3731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175496,
+      "num": 137489,
+      "word": "八仙子",
+      "onboard_time": 1762907901,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175395,
       "num": 175395,
       "word": "T1战胜KT",
@@ -3665,14 +3777,6 @@
       "onboard_time": 1762696102,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173289,
-      "num": 86108,
-      "word": "张颂文救人后悄然离去",
-      "onboard_time": 1762874182,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 172981,
@@ -4017,6 +4121,14 @@
       "onboard_time": 1762848920,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 160440,
+      "num": 131135,
+      "word": "黄金开始大反攻",
+      "onboard_time": 1762906041,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 160387,
@@ -4475,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146014,
+      "num": 146014,
+      "word": "雷军回应小米双11战绩",
+      "onboard_time": 1762911320,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145541,
       "num": 159263,
       "word": "唐朝诡事录 写给成年人的童话",
@@ -4881,6 +5001,14 @@
       "onboard_time": 1762849220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136660,
+      "num": 136660,
+      "word": "谢娜决定七个一起挂",
+      "onboard_time": 1762904059,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 136643,
@@ -6067,6 +6195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113543,
+      "num": 113543,
+      "word": "iPhone18系列前瞻",
+      "onboard_time": 1762910780,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113486,
       "num": 113486,
       "word": "智利车厘子果农说谢谢中国",
@@ -6089,6 +6225,14 @@
       "onboard_time": 1762657940,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112822,
+      "num": 112822,
+      "word": "芒果TV食堂的免费员工餐",
+      "onboard_time": 1762908861,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 112688,
@@ -7635,6 +7779,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94205,
+      "num": 94205,
+      "word": "Doran冠军皮肤选安蓓萨",
+      "onboard_time": 1762903818,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93972,
+      "num": 93972,
+      "word": "邢台一家5口被害案家属发声",
+      "onboard_time": 1762912159,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93756,
       "num": 93756,
       "word": "李昀锐发红包",
@@ -7680,6 +7840,14 @@
       "word": "5年期定期存款库存告急",
       "onboard_time": 1762856061,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93105,
+      "num": 93105,
+      "word": "出生只有3条腿的小狗逆袭成警犬",
+      "onboard_time": 1762911919,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -7915,6 +8083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90339,
+      "num": 102603,
+      "word": "整治以退役军人名义售卖假冒伪劣",
+      "onboard_time": 1762912460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90337,
       "num": 151419,
       "word": "我给唐朝诡事录3做了个动画",
@@ -8067,6 +8243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89323,
+      "num": 89323,
+      "word": "全红婵为撤场工人师傅签名",
+      "onboard_time": 1762906400,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89321,
       "num": 89321,
       "word": "大熊猫花花戴小手表了",
@@ -8195,6 +8379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87888,
+      "num": 87888,
+      "word": "BLG转会",
+      "onboard_time": 1762912340,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87871,
       "num": 87871,
       "word": "马龙全运会目标填补生涯唯一空缺",
@@ -8209,6 +8401,14 @@
       "onboard_time": 1762774520,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87742,
+      "num": 87742,
+      "word": "秋冬大衣穿搭公式",
+      "onboard_time": 1762910600,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 87714,
@@ -8467,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85500,
+      "num": 85500,
+      "word": "我不喜欢下一个更好这句话",
+      "onboard_time": 1762907301,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85302,
       "num": 85302,
       "word": "宋亚轩爱你爱我演唱会概念预告片",
@@ -8609,6 +8817,14 @@
       "onboard_time": 1762705101,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82249,
+      "num": 82249,
+      "word": "浙江男篮爆冷晋级决赛",
+      "onboard_time": 1762910421,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 82166,
@@ -8923,6 +9139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77044,
+      "num": 77044,
+      "word": "辞职在家全职照顾手机",
+      "onboard_time": 1762908380,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76950,
       "num": 105114,
       "word": "陈飞宇西装daddy级别",
@@ -9179,6 +9403,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73479,
+      "num": 73479,
+      "word": "郭宇欣说火了之后反而不忙了",
+      "onboard_time": 1762909880,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73319,
+      "num": 73319,
+      "word": "跳水三小只大赛最后一次合体",
+      "onboard_time": 1762911320,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73192,
+      "num": 73192,
+      "word": "导师 鬼灭之人",
+      "onboard_time": 1762909519,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73148,
       "num": 154843,
       "word": "唐诡角色上桌",
@@ -9267,6 +9515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71771,
+      "num": 71771,
+      "word": "人民日报曝光AI培训坑老骗局",
+      "onboard_time": 1762911499,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71652,
       "num": 71652,
       "word": "发现研究生的社会化程度都好高",
@@ -9323,12 +9579,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 70809,
-      "num": 70809,
-      "word": "家长距离老师只差教师资格证了",
-      "onboard_time": 1762903338,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 70616,
+      "num": 70616,
+      "word": "吉祥物眼里全是活",
+      "onboard_time": 1762912340,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 70577,
@@ -9627,6 +9883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64949,
+      "num": 64949,
+      "word": "466具琉球人遗骨被日本殖民者偷挖",
+      "onboard_time": 1762908322,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64914,
       "num": 64914,
       "word": "keria赛后发博",
@@ -9793,14 +10057,6 @@
       "onboard_time": 1762904298,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61901,
-      "num": 61360,
-      "word": "Doran冠军皮肤选安蓓萨",
-      "onboard_time": 1762903818,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 61792,
@@ -10011,14 +10267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 57983,
-      "num": 57983,
-      "word": "谢娜决定七个一起挂",
-      "onboard_time": 1762904059,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57941,
       "num": 228285,
       "word": "美暂停实施对华造船等301调查",
@@ -10169,14 +10417,6 @@
       "onboard_time": 1762664720,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 55229,
-      "num": 55229,
-      "word": "7省份已率先实现生娃基本不花钱",
-      "onboard_time": 1762904059,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55092,
@@ -10467,6 +10707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47864,
+      "num": 78144,
+      "word": "唐朝诡事录 成佛寺的哭声",
+      "onboard_time": 1762882156,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47838,
       "num": 46596,
       "word": "加拿大严打印度留学签",
@@ -10545,14 +10793,6 @@
       "onboard_time": 1762677680,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46161,
-      "num": 55408,
-      "word": "湖南卫视接还珠回宫",
-      "onboard_time": 1762904239,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 46052,
@@ -11128,14 +11368,6 @@
       "word": "丁禹兮山河枕卫视收视第一",
       "onboard_time": 1762899075,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33689,
-      "num": 67455,
-      "word": "唐朝诡事录 成佛寺的哭声",
-      "onboard_time": 1762882156,
-      "rank": 45,
       "category": "剧集"
     },
     {

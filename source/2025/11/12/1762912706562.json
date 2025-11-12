@@ -1,0 +1,410 @@
+{
+  "runTime": 1762912706562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873165,
+        "num": 1139706,
+        "word": "睡眠超9小时也可能有害",
+        "onboard_time": 1762906761,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463450,
+        "num": 463450,
+        "word": "湖南卫视接还珠回宫",
+        "onboard_time": 1762904239,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8022,
+        "num": 430854,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400048,
+        "num": 400048,
+        "word": "朱一龙获最佳男主角提名",
+        "onboard_time": 1762909340,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201270,
+        "num": 201270,
+        "word": "7省份已率先实现生娃基本不花钱",
+        "onboard_time": 1762904059,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195305,
+        "num": 195305,
+        "word": "英国海边出现巨型海怪",
+        "onboard_time": 1762867521,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323299,
+        "num": 193334,
+        "word": "许我耀眼回应庆功宴卖货",
+        "onboard_time": 1762905501,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "家长距离老师只差教师资格证了",
+        "onboard_time": 1762903338,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164275,
+        "num": 164275,
+        "word": "暴打九旬老母突破人伦必须严惩",
+        "onboard_time": 1762881736,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146014,
+        "num": 146014,
+        "word": "雷军回应小米双11战绩",
+        "onboard_time": 1762911320,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1147547,
+        "num": 145598,
+        "word": "比特币富婆钱志敏在床上被捕",
+        "onboard_time": 1762910540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430759,
+        "num": 144164,
+        "word": "花70万买了个阳台里的一室一厅",
+        "onboard_time": 1762905140,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366892,
+        "num": 143164,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312860,
+        "num": 141937,
+        "word": "阿坝大桥垮塌前已发现险情",
+        "onboard_time": 1762892353,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 291084,
+        "num": 141436,
+        "word": "盛夏芬德拉女主回应火了",
+        "onboard_time": 1762908322,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245084,
+        "num": 140514,
+        "word": "发现很多东西都在悄悄涨价",
+        "onboard_time": 1762908082,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200914,
+        "num": 138760,
+        "word": "不要再叫我们阿三了",
+        "onboard_time": 1762902797,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186521,
+        "num": 137897,
+        "word": "张颂文救人后悄然离去",
+        "onboard_time": 1762874182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175496,
+        "num": 137489,
+        "word": "八仙子",
+        "onboard_time": 1762907901,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136660,
+        "num": 136660,
+        "word": "谢娜决定七个一起挂",
+        "onboard_time": 1762904059,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264477,
+        "num": 136050,
+        "word": "郭宇欣回应一条裙子穿了三次",
+        "onboard_time": 1762905560,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227482,
+        "num": 133884,
+        "word": "两男子奸杀碎尸被拘禁女子被判死刑",
+        "onboard_time": 1762860742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192915,
+        "num": 132724,
+        "word": "树莓复出",
+        "onboard_time": 1762908981,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 131135,
+        "word": "黄金开始大反攻",
+        "onboard_time": 1762906041,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131040,
+        "num": 131040,
+        "word": "向太回应李连杰状态回春",
+        "onboard_time": 1762880118,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113543,
+        "num": 113543,
+        "word": "iPhone18系列前瞻",
+        "onboard_time": 1762910780,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112822,
+        "num": 112822,
+        "word": "芒果TV食堂的免费员工餐",
+        "onboard_time": 1762908861,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90339,
+        "num": 102603,
+        "word": "整治以退役军人名义售卖假冒伪劣",
+        "onboard_time": 1762912460,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 96950,
+        "word": "唐诡王者荣耀联动",
+        "onboard_time": 1762875621,
+        "rank": 28,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 61642,
+        "num": 95043,
+        "word": "杨旭文 工作暂停庆祝破万",
+        "onboard_time": 1762872982,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94205,
+        "num": 94205,
+        "word": "Doran冠军皮肤选安蓓萨",
+        "onboard_time": 1762903818,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 93972,
+        "word": "邢台一家5口被害案家属发声",
+        "onboard_time": 1762912159,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93105,
+        "num": 93105,
+        "word": "出生只有3条腿的小狗逆袭成警犬",
+        "onboard_time": 1762911919,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87234,
+        "num": 92975,
+        "word": "公司回应张老六请假参加荒野求生",
+        "onboard_time": 1762882875,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92932,
+        "num": 92932,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1762870642,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89323,
+        "num": 89323,
+        "word": "全红婵为撤场工人师傅签名",
+        "onboard_time": 1762906400,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87888,
+        "num": 87888,
+        "word": "BLG转会",
+        "onboard_time": 1762912340,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87742,
+        "num": 87742,
+        "word": "秋冬大衣穿搭公式",
+        "onboard_time": 1762910600,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 85500,
+        "num": 85500,
+        "word": "我不喜欢下一个更好这句话",
+        "onboard_time": 1762907301,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82249,
+        "num": 82249,
+        "word": "浙江男篮爆冷晋级决赛",
+        "onboard_time": 1762910421,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47864,
+        "num": 78144,
+        "word": "唐朝诡事录 成佛寺的哭声",
+        "onboard_time": 1762882156,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77044,
+        "num": 77044,
+        "word": "辞职在家全职照顾手机",
+        "onboard_time": 1762908380,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73479,
+        "num": 73479,
+        "word": "郭宇欣说火了之后反而不忙了",
+        "onboard_time": 1762909880,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73319,
+        "num": 73319,
+        "word": "跳水三小只大赛最后一次合体",
+        "onboard_time": 1762911320,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73192,
+        "num": 73192,
+        "word": "导师 鬼灭之人",
+        "onboard_time": 1762909519,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71975,
+        "num": 71975,
+        "word": "肖战易烊千玺人脸头套成爆款",
+        "onboard_time": 1762874781,
+        "rank": 45,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 71771,
+        "num": 71771,
+        "word": "人民日报曝光AI培训坑老骗局",
+        "onboard_time": 1762911499,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70616,
+        "num": 70616,
+        "word": "吉祥物眼里全是活",
+        "onboard_time": 1762912340,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69722,
+        "num": 69722,
+        "word": "美主播阴阳怪气中国人遭特朗普反驳",
+        "onboard_time": 1762872682,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64949,
+        "num": 64949,
+        "word": "466具琉球人遗骨被日本殖民者偷挖",
+        "onboard_time": 1762908322,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记海南广东之行纪实#"
+    }
+  }
+}

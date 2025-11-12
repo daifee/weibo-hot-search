@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 07:38:59
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 09:58:26
 </p>
 </blockquote>
 <p>
@@ -543,6 +543,12 @@ KT对战T1（热度：1348771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23" target="weibo">
+比特币富婆钱志敏在床上被捕（热度：1147547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 KPL总决赛（热度：1146228）
 </a>
@@ -893,6 +899,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E4%BA%8C%E5%A5%B3%E5%84%BF%E8%B0%88%E5%85%B7%E4%BF%8A%E6%99%94%E6%9A%B4%E7%98%A6%23" target="weibo">
 小S二女儿谈具俊晔暴瘦（热度：881192）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%B6%859%E5%B0%8F%E6%97%B6%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%9C%89%E5%AE%B3%23" target="weibo">
+睡眠超9小时也可能有害（热度：873165）
 </a>
 </li>
 
@@ -2943,6 +2955,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8E%A5%E8%BF%98%E7%8F%A0%E5%9B%9E%E5%AE%AB%23" target="weibo">
+湖南卫视接还珠回宫（热度：463450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%BA%9F%E5%BC%83%E5%85%AC%E5%9B%AD%E8%99%8E%E9%B2%B8%E6%AF%8D%E5%AD%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%AE%89%E4%B9%90%E6%AD%BB%23" target="weibo">
 法国废弃公园虎鲸母子或面临安乐死（热度：462313）
 </a>
@@ -3227,6 +3245,12 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E5%85%A8%E8%BF%90%E4%BC%9A400%E8%87%AA%E7%AC%AC%E4%BA%94%23" target="weibo">
 潘展乐全运会400自第五（热度：431700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B170%E4%B8%87%E4%B9%B0%E4%BA%86%E4%B8%AA%E9%98%B3%E5%8F%B0%E9%87%8C%E7%9A%84%E4%B8%80%E5%AE%A4%E4%B8%80%E5%8E%85%23" target="weibo">
+花70万买了个阳台里的一室一厅（热度：430759）
 </a>
 </li>
 
@@ -3533,6 +3557,12 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%20%E6%88%91%E6%9C%AC%E6%9D%A5%E6%B2%A1%E6%83%B3%E9%82%A3%E4%B9%88%E5%A4%9A%E7%9A%84%23" target="weibo">
 时代峰峻 我本来没想那么多的（热度：400063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D%23" target="weibo">
+朱一龙获最佳男主角提名（热度：400048）
 </a>
 </li>
 
@@ -4599,6 +4629,12 @@ iPhone18Pro升级工艺（热度：325186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%9B%9E%E5%BA%94%E5%BA%86%E5%8A%9F%E5%AE%B4%E5%8D%96%E8%B4%A7%23" target="weibo">
+许我耀眼回应庆功宴卖货（热度：323299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E5%B9%82baby%23" target="weibo">
 盗版刘亦菲杨幂baby（热度：322883）
 </a>
@@ -4697,6 +4733,12 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%AD%A6%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1%E4%B8%8D%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%B9%B2%E8%BF%99%E4%B8%AA%E7%9A%84%23" target="weibo">
 卢昱晓 学服装设计不是让你干这个的（热度：313857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E5%89%8D%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%99%A9%E6%83%85%23" target="weibo">
+阿坝大桥垮塌前已发现险情（热度：312860）
 </a>
 </li>
 
@@ -4859,12 +4901,6 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 迅猛龙自曝不参加恋综的原因（热度：304271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E5%89%8D%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%99%A9%E6%83%85%23" target="weibo">
-阿坝大桥垮塌前已发现险情（热度：304177）
 </a>
 </li>
 
@@ -5135,6 +5171,12 @@ T1的BP（热度：291108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%20%E7%89%9B%E5%90%B9%E5%A4%A7%E4%BA%86%23" target="weibo">
 李昀锐 牛吹大了（热度：291090）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E5%A5%B3%E4%B8%BB%E5%9B%9E%E5%BA%94%E7%81%AB%E4%BA%86%23" target="weibo">
+盛夏芬德拉女主回应火了（热度：291084）
 </a>
 </li>
 
@@ -5643,6 +5685,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%A1%E8%A3%99%E5%AD%90%E7%A9%BF%E4%BA%86%E4%B8%89%E6%AC%A1%23" target="weibo">
+郭宇欣回应一条裙子穿了三次（热度：264477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%9C%B0%E9%93%81%E5%86%85%E4%B8%80%E5%A5%B3%E7%94%9F%E8%A1%A3%E7%89%A9%E8%B5%B7%E7%81%AB%23" target="weibo">
 长沙地铁内一女生衣物起火（热度：264082）
 </a>
@@ -5963,54 +6011,6 @@ Rita评论席举起LPL战旗（热度：247319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E7%9A%84%E8%BD%A6%E9%97%A8%E5%85%B3%E4%B8%8A%E4%BA%86%23" target="weibo">
 考研的车门关上了（热度：246932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%A2%AB800%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E6%95%99%E5%94%86%E5%90%B8%E6%AF%92%23" target="weibo">
-女主播称被800万粉丝网红教唆吸毒（热度：246923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%80%E8%BE%B9%E5%85%BC%E8%81%8C%E4%B8%80%E8%BE%B9%E6%95%91%E4%BA%BA%23" target="weibo">
-大学生一边兼职一边救人（热度：246714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%A5%BD%E5%85%AD%E5%A4%9C%E8%BF%9E%E5%94%B15%E9%A6%96%23" target="weibo">
-时代少年团好六夜连唱5首（热度：246218）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E6%98%AF%E4%BA%94%E4%B8%AA%E8%AF%84%E5%A7%94%E4%B8%80%E8%87%B4%E9%80%9A%E8%BF%87%E7%9A%84%23" target="weibo">
-王传君获奖是五个评委一致通过的（热度：245803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84Labubu%E6%98%AFD%23" target="weibo">
-樊振东的Labubu是D（热度：245587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%BF%99%E4%B8%80%E5%A4%A9%E6%98%AF%E5%B0%8F%E8%AF%B4%E9%83%BD%E4%B8%8D%E6%95%A2%E5%86%99%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
-她这一天是小说都不敢写的程度（热度：244943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A5%94%E9%A9%B0%E7%A3%95%E5%88%B0%E4%BA%86%23" target="weibo">
-王楚钦奔驰磕到了（热度：244489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E9%83%BD%E6%9C%89%E5%85%AD%E4%BB%A3%E4%BA%86%23" target="weibo">
-TF家族都有六代了（热度：243998）
 </a>
 </li>
 
