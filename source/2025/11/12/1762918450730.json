@@ -1,0 +1,410 @@
+{
+  "runTime": 1762918450730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660717,
+        "num": 1105714,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 448731,
+        "num": 448731,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10282,
+        "num": 401428,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375458,
+        "num": 375458,
+        "word": "邢台一家5口被害案家属发声",
+        "onboard_time": 1762912159,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349527,
+        "num": 349527,
+        "word": "库里职业生涯首次恶意犯规",
+        "onboard_time": 1762914679,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340843,
+        "num": 340843,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264768,
+        "num": 264768,
+        "word": "凤凰台上官宣定档",
+        "onboard_time": 1762913899,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217649,
+        "num": 217649,
+        "word": "睡眠超9小时也可能有害",
+        "onboard_time": 1762906761,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195741,
+        "num": 195741,
+        "word": "四川阿坝垮塌红旗桥今年1月才建成",
+        "onboard_time": 1762915099,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177698,
+        "num": 177698,
+        "word": "雷军回应小米双11战绩",
+        "onboard_time": 1762911320,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 662636,
+        "num": 177315,
+        "word": "陈天润工作室",
+        "onboard_time": 1762912999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427761,
+        "num": 176369,
+        "word": "徐志胜穿了沈羽洁的裙子",
+        "onboard_time": 1762916419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344947,
+        "num": 175809,
+        "word": "特朗普亲吻去世盟友柯克的遗孀",
+        "onboard_time": 1762913840,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232818,
+        "num": 175268,
+        "word": "小力士第一",
+        "onboard_time": 1762913899,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175011,
+        "num": 175011,
+        "word": "BLG转会",
+        "onboard_time": 1762912340,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214733,
+        "num": 174067,
+        "word": "盛夏芬德拉女主回应火了",
+        "onboard_time": 1762908322,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214128,
+        "num": 172521,
+        "word": "唐诡3把观众写进剧里",
+        "onboard_time": 1762917020,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211699,
+        "num": 170959,
+        "word": "韩国小朋友第一次见生烤盲鳗",
+        "onboard_time": 1762912699,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 178725,
+        "num": 169319,
+        "word": "折月亮",
+        "onboard_time": 1762915459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120492,
+        "num": 167989,
+        "word": "家长距离老师只差教师资格证了",
+        "onboard_time": 1762903338,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391581,
+        "num": 165255,
+        "word": "金价",
+        "onboard_time": 1762912819,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165117,
+        "num": 165117,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159953,
+        "num": 159953,
+        "word": "陈天润疑似离开时代峰峻",
+        "onboard_time": 1762916839,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45058,
+        "num": 158056,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "弦子李茂两个人就是一个摄影团队",
+        "onboard_time": 1762915940,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146435,
+        "num": 146435,
+        "word": "朱一龙获最佳男主角提名",
+        "onboard_time": 1762909340,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144120,
+        "num": 144120,
+        "word": "敖子逸没有工作室",
+        "onboard_time": 1762916600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129081,
+        "num": 129081,
+        "word": "湖南卫视接还珠回宫",
+        "onboard_time": 1762904239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123519,
+        "num": 123519,
+        "word": "小鹏X9时速150km暴雨爆胎不失控",
+        "onboard_time": 1762916660,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118321,
+        "num": 122556,
+        "word": "俄罗斯机器人亮相时挥手臂摔倒",
+        "onboard_time": 1762915039,
+        "rank": 29,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 126773,
+        "num": 122436,
+        "word": "发现很多东西都在悄悄涨价",
+        "onboard_time": 1762908082,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 122050,
+        "word": "双11手机最终排名出炉",
+        "onboard_time": 1762915758,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 331288,
+        "num": 121525,
+        "word": "王一博代言UGG",
+        "onboard_time": 1762913840,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119624,
+        "num": 119624,
+        "word": "需要焯水才能吃的食物",
+        "onboard_time": 1762917859,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111213,
+        "num": 111213,
+        "word": "迪丽热巴卫蓝疯批美人",
+        "onboard_time": 1762915400,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111147,
+        "num": 111147,
+        "word": "郭宇欣回应一条裙子穿了三次",
+        "onboard_time": 1762905560,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109977,
+        "num": 109977,
+        "word": "树莓复出",
+        "onboard_time": 1762908981,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64647,
+        "num": 109681,
+        "word": "台当局警告转发大陆要抓沈伯洋违法",
+        "onboard_time": 1762917980,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46830,
+        "num": 109559,
+        "word": "第三者称原配8年后被拘是迟来的正义",
+        "onboard_time": 1762917380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45782,
+        "num": 109500,
+        "word": "银行跨界卖房",
+        "onboard_time": 1762917561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109498,
+        "num": 109498,
+        "word": "库里垫脚",
+        "onboard_time": 1762915099,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105677,
+        "num": 105677,
+        "word": "白敬亭真走不出那个圈了",
+        "onboard_time": 1762916779,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "王者荣耀",
+        "onboard_time": 1762915701,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104116,
+        "num": 104116,
+        "word": "小米成双11国产手机销量第一",
+        "onboard_time": 1762914739,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103038,
+        "num": 103038,
+        "word": "曾黎是在模仿蒙娜丽莎吗",
+        "onboard_time": 1762915640,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100926,
+        "num": 100926,
+        "word": "许我耀眼回应庆功宴卖货",
+        "onboard_time": 1762905501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98820,
+        "num": 98820,
+        "word": "日本应深刻反省历史汲取教训",
+        "onboard_time": 1762918340,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 95009,
+        "word": "iPhone18系列前瞻",
+        "onboard_time": 1762910780,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89636,
+        "num": 89636,
+        "word": "陈乐和夫人确实已经分开",
+        "onboard_time": 1762917261,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86599,
+        "num": 86599,
+        "word": "彭小苒杀手上岸新剧做帝后",
+        "onboard_time": 1762918100,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记海南广东之行纪实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762917534432,
+  "endTime": 1762918450730,
   "band_list": [
     {
       "raw_hot": 1147547,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 606699,
-      "num": 1097071,
+      "raw_hot": 660717,
+      "num": 1105714,
       "word": "Viper BLG",
       "onboard_time": 1762914381,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448731,
+      "num": 448731,
+      "word": "2025爱奇艺尖叫之夜官宣",
+      "onboard_time": 1762915400,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439886,
       "num": 439886,
       "word": "邢台一家5口被害案家属发声",
@@ -99,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427761,
+      "num": 215795,
+      "word": "徐志胜穿了沈羽洁的裙子",
+      "onboard_time": 1762916419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399015,
       "num": 169315,
       "word": "王一博代言UGG",
@@ -107,7 +123,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 389309,
+      "raw_hot": 391581,
       "num": 167759,
       "word": "金价",
       "onboard_time": 1762912819,
@@ -115,12 +131,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 389257,
-      "num": 389257,
-      "word": "2025爱奇艺尖叫之夜官宣",
-      "onboard_time": 1762915400,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 349527,
+      "num": 349527,
+      "word": "库里职业生涯首次恶意犯规",
+      "onboard_time": 1762914679,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344947,
+      "num": 302121,
+      "word": "特朗普亲吻去世盟友柯克的遗孀",
+      "onboard_time": 1762913840,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 340843,
+      "num": 340843,
+      "word": "这届影帝影后竞争都好激烈",
+      "onboard_time": 1762915579,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 337675,
@@ -179,22 +211,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 304996,
-      "num": 304996,
-      "word": "库里职业生涯首次恶意犯规",
-      "onboard_time": 1762914679,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 302121,
-      "num": 302121,
-      "word": "特朗普亲吻去世盟友柯克的遗孀",
-      "onboard_time": 1762913840,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 288606,
       "num": 131040,
       "word": "向太回应李连杰状态回春",
@@ -243,14 +259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 253850,
-      "num": 215795,
-      "word": "徐志胜穿了沈羽洁的裙子",
-      "onboard_time": 1762916419,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235455,
       "num": 215336,
       "word": "小力士第一",
@@ -275,12 +283,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211846,
-      "num": 211846,
-      "word": "这届影帝影后竞争都好激烈",
-      "onboard_time": 1762915579,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 214128,
+      "num": 189783,
+      "word": "唐诡3把观众写进剧里",
+      "onboard_time": 1762917020,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211699,
+      "num": 182582,
+      "word": "韩国小朋友第一次见生烤盲鳗",
+      "onboard_time": 1762912699,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 205295,
@@ -296,6 +312,14 @@
       "word": "7省份已率先实现生娃基本不花钱",
       "onboard_time": 1762904059,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195741,
+      "num": 195741,
+      "word": "四川阿坝垮塌红旗桥今年1月才建成",
+      "onboard_time": 1762915099,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -323,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189783,
-      "num": 189783,
-      "word": "唐诡3把观众写进剧里",
-      "onboard_time": 1762917020,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186521,
       "num": 137897,
       "word": "张颂文救人后悄然离去",
@@ -347,20 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183673,
-      "num": 183673,
-      "word": "四川阿坝垮塌红旗桥今年1月才建成",
-      "onboard_time": 1762915099,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182582,
-      "num": 182582,
-      "word": "韩国小朋友第一次见生烤盲鳗",
-      "onboard_time": 1762912699,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 178725,
+      "num": 169319,
+      "word": "折月亮",
+      "onboard_time": 1762915459,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177459,
@@ -411,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159953,
+      "num": 159953,
+      "word": "陈天润疑似离开时代峰峻",
+      "onboard_time": 1762916839,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158722,
       "num": 158722,
       "word": "双十一期间多名主播喊破了肺泡",
       "onboard_time": 1762872322,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156219,
+      "num": 156219,
+      "word": "弦子李茂两个人就是一个摄影团队",
+      "onboard_time": 1762915940,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155682,
@@ -433,14 +457,6 @@
       "onboard_time": 1762915701,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143116,
-      "num": 143116,
-      "word": "陈天润疑似离开时代峰峻",
-      "onboard_time": 1762916839,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 136660,
@@ -499,22 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128178,
-      "num": 128178,
-      "word": "弦子李茂两个人就是一个摄影团队",
-      "onboard_time": 1762915940,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 125235,
-      "num": 125235,
-      "word": "折月亮",
-      "onboard_time": 1762915459,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "iPhone18系列前瞻",
@@ -531,12 +531,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 116641,
-      "num": 116641,
+      "raw_hot": 122050,
+      "num": 122050,
       "word": "双11手机最终排名出炉",
       "onboard_time": 1762915758,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119624,
+      "num": 119624,
+      "word": "需要焯水才能吃的食物",
+      "onboard_time": 1762917859,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 118321,
+      "num": 130378,
+      "word": "俄罗斯机器人亮相时挥手臂摔倒",
+      "onboard_time": 1762915039,
+      "rank": 34,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 114186,
@@ -563,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111019,
-      "num": 111019,
+      "raw_hot": 111213,
+      "num": 111213,
       "word": "迪丽热巴卫蓝疯批美人",
       "onboard_time": 1762915400,
       "rank": 43,
@@ -579,12 +595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104461,
-      "num": 130378,
-      "word": "俄罗斯机器人亮相时挥手臂摔倒",
-      "onboard_time": 1762915039,
-      "rank": 34,
-      "category": "海外新闻,数码"
+      "raw_hot": 104116,
+      "num": 104116,
+      "word": "小米成双11国产手机销量第一",
+      "onboard_time": 1762914739,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 103744,
@@ -603,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103570,
-      "num": 103570,
-      "word": "小米成双11国产手机销量第一",
-      "onboard_time": 1762914739,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 99522,
       "num": 118100,
       "word": "全红婵全运会收官发文",
@@ -625,6 +633,14 @@
       "onboard_time": 1762869683,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98820,
+      "num": 98820,
+      "word": "日本应深刻反省历史汲取教训",
+      "onboard_time": 1762918340,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97664,
@@ -729,6 +745,14 @@
       "onboard_time": 1762916059,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86599,
+      "num": 86599,
+      "word": "彭小苒杀手上岸新剧做帝后",
+      "onboard_time": 1762918100,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85500,
@@ -931,6 +955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64647,
+      "num": 109681,
+      "word": "台当局警告转发大陆要抓沈伯洋违法",
+      "onboard_time": 1762917980,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63768,
       "num": 105427,
       "word": "全运会乒乓球项目首金",
@@ -1043,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46830,
+      "num": 120721,
+      "word": "第三者称原配8年后被拘是迟来的正义",
+      "onboard_time": 1762917380,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45994,
       "num": 55179,
       "word": "从英国寄来的猫听不懂中文",
@@ -1057,6 +1097,22 @@
       "onboard_time": 1762903878,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45782,
+      "num": 109500,
+      "word": "银行跨界卖房",
+      "onboard_time": 1762917561,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45058,
+      "num": 158056,
+      "word": "解放军巷战演习旁边大鷄排摊位亮了",
+      "onboard_time": 1762918160,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44955,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1762913359,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28473,
-      "num": 120721,
-      "word": "第三者称原配8年后被拘是迟来的正义",
-      "onboard_time": 1762917380,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28386,

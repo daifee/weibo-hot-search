@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 11:18:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 11:34:10
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ S15决赛唯一中国人（热度：665452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Viper%20BLG%23" target="weibo">
+Viper BLG（热度：660717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B5%E5%AE%B9%23" target="weibo">
 十日终焉阵容（热度：656745）
 </a>
@@ -1889,12 +1895,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博视界大会红毯（热度：609464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Viper%20BLG%23" target="weibo">
-Viper BLG（热度：606699）
 </a>
 </li>
 
@@ -3075,6 +3075,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%23" target="weibo">
+2025爱奇艺尖叫之夜官宣（热度：448731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%A5%E4%BA%B5%E7%94%B7%E8%A2%AD%E8%83%B8%E5%90%8E%E7%A7%B0%E6%B2%A1%E6%84%9F%E8%A7%89%E5%B0%B1%E6%98%AF%E6%B2%A1%E6%91%B8%E5%88%B0%23" target="weibo">
 猥亵男袭胸后称没感觉就是没摸到（热度：448113）
 </a>
@@ -3317,6 +3323,12 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BF%9E%E5%8C%8510%E5%9C%BA%E6%94%AF%E6%8C%81%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%96%B0%E7%89%87%23" target="weibo">
 赵丽颖连包10场支持辛芷蕾新片（热度：427959）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%A9%BF%E4%BA%86%E6%B2%88%E7%BE%BD%E6%B4%81%E7%9A%84%E8%A3%99%E5%AD%90%23" target="weibo">
+徐志胜穿了沈羽洁的裙子（热度：427761）
 </a>
 </li>
 
@@ -3701,12 +3713,6 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A9%B7%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E6%BC%94%E5%91%98%E8%A1%8C%E4%B8%BA%23" target="weibo">
 梅婷最讨厌的演员行为（热度：389492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%23" target="weibo">
-2025爱奇艺尖叫之夜官宣（热度：389257）
 </a>
 </li>
 
@@ -4287,6 +4293,12 @@ JDG经理疑曝Kanavi态度有问题（热度：350823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84%23" target="weibo">
+库里职业生涯首次恶意犯规（热度：349527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%A0%E4%B8%8D%E6%98%AF%E9%BB%84%E6%98%8E%E6%98%8A%20%E5%88%AB%E5%96%82%E9%BB%84%E6%99%AF%E7%91%9C%23" target="weibo">
 陈伟霆你不是黄明昊 别喂黄景瑜（热度：347847）
 </a>
@@ -4347,6 +4359,12 @@ iPhone18Pro系列前瞻（热度：345250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23" target="weibo">
+特朗普亲吻去世盟友柯克的遗孀（热度：344947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23" target="weibo">
 特朗普70分钟采访提及中国41次（热度：343422）
 </a>
@@ -4373,6 +4391,12 @@ Faker自拍配文成都（热度：342872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E9%A6%96%E5%8F%91%E6%A6%82%E5%BF%B5%E7%89%87%23" target="weibo">
 剑来首发概念片（热度：341028）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E%E7%AB%9E%E4%BA%89%E9%83%BD%E5%A5%BD%E6%BF%80%E7%83%88%23" target="weibo">
+这届影帝影后竞争都好激烈（热度：340843）
 </a>
 </li>
 
@@ -4923,12 +4947,6 @@ TES不敌T1后发文（热度：310623）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E9%A6%96%E6%AC%A1%E6%81%B6%E6%84%8F%E7%8A%AF%E8%A7%84%23" target="weibo">
-库里职业生涯首次恶意犯规（热度：304996）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%95%99%E5%A4%AA%E9%95%BF%E7%9A%84%E5%A4%B4%E5%8F%91%23" target="weibo">
 建议气血不足的人不要留太长的头发（热度：304882）
 </a>
@@ -5009,12 +5027,6 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 暗河传大结局（热度：302136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23" target="weibo">
-特朗普亲吻去世盟友柯克的遗孀（热度：302121）
 </a>
 </li>
 
@@ -5943,12 +5955,6 @@ Chovy世界赛成绩 8884844（热度：254697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%A9%BF%E4%BA%86%E6%B2%88%E7%BE%BD%E6%B4%81%E7%9A%84%E8%A3%99%E5%AD%90%23" target="weibo">
-徐志胜穿了沈羽洁的裙子（热度：253850）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC%E4%B8%80%E6%BB%B4%E6%B3%AA%E7%BB%99%E5%88%98%E5%8D%81%E5%85%AB%E5%88%98%E5%8D%81%E4%B9%9D%23" target="weibo">
 唐诡3第一滴泪给刘十八刘十九（热度：253796）
 </a>
@@ -6005,12 +6011,6 @@ Chovy世界赛成绩 8884844（热度：254697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%B1%B9%E5%AE%BD%E8%BF%98%E5%9C%A8%E7%A9%BF20%E5%B9%B4%E5%89%8D%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 严屹宽还在穿20年前的衣服（热度：251016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E7%90%BC%E6%9B%BE%E4%B8%BA%E5%90%91%E4%BD%90%E8%B5%8C%E5%80%BA%E4%B9%8C%E9%BE%99%E9%81%93%E6%AD%89%23" target="weibo">
-何超琼曾为向佐赌债乌龙道歉（热度：250656）
 </a>
 </li>
 
