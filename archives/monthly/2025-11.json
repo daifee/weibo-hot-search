@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762925277324,
+  "endTime": 1762926201389,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1442920,
-      "num": 193176,
+      "num": 202412,
       "word": "乔欣淡圈后的生活",
       "onboard_time": 1762919839,
       "rank": 20,
@@ -3868,7 +3868,7 @@
     },
     {
       "raw_hot": 477330,
-      "num": 192498,
+      "num": 201408,
       "word": "关晓彤双眼皮",
       "onboard_time": 1762922121,
       "rank": 23,
@@ -3972,7 +3972,7 @@
     },
     {
       "raw_hot": 468411,
-      "num": 173999,
+      "num": 202266,
       "word": "邓超晒照为儿子庆生",
       "onboard_time": 1762923501,
       "rank": 23,
@@ -4121,6 +4121,14 @@
       "onboard_time": 1762439843,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 452913,
+      "num": 207491,
+      "word": "新娘即将出场老太太想抢喜被制止",
+      "onboard_time": 1762922781,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452581,
@@ -4281,6 +4289,14 @@
       "onboard_time": 1761982100,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441431,
+      "num": 206696,
+      "word": "深圳已经发展成这样了吗",
+      "onboard_time": 1762922481,
+      "rank": 36,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 441429,
@@ -5019,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389215,
-      "num": 180112,
-      "word": "新娘即将出场老太太想抢喜被制止",
-      "onboard_time": 1762922781,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388196,
       "num": 129728,
       "word": "谭松韵刘昊然最好的我们售后",
@@ -5417,6 +5425,14 @@
       "onboard_time": 1762298178,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 366957,
+      "num": 200711,
+      "word": "ally因整容擤不出鼻涕",
+      "onboard_time": 1762923801,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 366416,
@@ -5905,14 +5921,6 @@
       "onboard_time": 1762173982,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 343387,
-      "num": 179348,
-      "word": "深圳已经发展成这样了吗",
-      "onboard_time": 1762922481,
-      "rank": 36,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 342872,
@@ -6825,6 +6833,14 @@
       "onboard_time": 1762665920,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300802,
+      "num": 206479,
+      "word": "陈天润 演员",
+      "onboard_time": 1762925480,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 300744,
@@ -7852,7 +7868,7 @@
     },
     {
       "raw_hot": 261860,
-      "num": 173792,
+      "num": 199792,
       "word": "每天喝咖啡vs从来不喝咖啡",
       "onboard_time": 1762924580,
       "rank": 24,
@@ -8027,14 +8043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255405,
-      "num": 173269,
-      "word": "ally因整容擤不出鼻涕",
-      "onboard_time": 1762923801,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 255221,
       "num": 179231,
       "word": "医生眼中的生理性厌恶",
@@ -8195,6 +8203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248904,
+      "num": 248904,
+      "word": "樊振东4比1薛飞",
+      "onboard_time": 1762925000,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248398,
       "num": 248398,
       "word": "Faker冰鸟",
@@ -8312,6 +8328,14 @@
       "word": "樊振东的Labubu是D",
       "onboard_time": 1762252882,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245471,
+      "num": 245471,
+      "word": "陈梦vs何卓佳",
+      "onboard_time": 1762920080,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -8956,7 +8980,7 @@
     },
     {
       "raw_hot": 226399,
-      "num": 173162,
+      "num": 199373,
       "word": "孙燕姿两年前就预言了AI",
       "onboard_time": 1762921042,
       "rank": 42,
@@ -10019,14 +10043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205587,
-      "num": 205587,
-      "word": "陈梦vs何卓佳",
-      "onboard_time": 1762920080,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205529,
       "num": 200240,
       "word": "酷酷的滕直播",
@@ -10537,6 +10553,14 @@
       "onboard_time": 1762306099,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199236,
+      "num": 199236,
+      "word": "樊振东晋级全运会8强",
+      "onboard_time": 1762925541,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 198992,
@@ -11851,6 +11875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183385,
+      "num": 183385,
+      "word": "曾中1200w彩票幸运儿钱被骗光",
+      "onboard_time": 1762924879,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183206,
       "num": 183206,
       "word": "听见你说",
@@ -13019,6 +13051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168692,
+      "num": 168692,
+      "word": "葛夕回应复合传闻",
+      "onboard_time": 1762924762,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168604,
       "num": 168604,
       "word": "陈靖可你小子吃这么好",
@@ -13433,14 +13473,6 @@
       "onboard_time": 1762425140,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164948,
-      "num": 164948,
-      "word": "樊振东4比1薛飞",
-      "onboard_time": 1762925000,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 164910,
@@ -14179,14 +14211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157996,
-      "num": 157996,
-      "word": "曾中1200w彩票幸运儿钱被骗光",
-      "onboard_time": 1762924879,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157995,
       "num": 162796,
       "word": "中韩是搬不走的重要近邻",
@@ -14204,7 +14228,7 @@
     },
     {
       "raw_hot": 157903,
-      "num": 175720,
+      "num": 204788,
       "word": "张杰跨年演唱会",
       "onboard_time": 1762924341,
       "rank": 17,
@@ -14313,6 +14337,14 @@
       "onboard_time": 1762865540,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157413,
+      "num": 157413,
+      "word": "武艺高铁上教育熊孩子",
+      "onboard_time": 1762925660,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 157385,
@@ -14425,6 +14457,14 @@
       "onboard_time": 1762653259,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156311,
+      "num": 203090,
+      "word": "20岁在俄失联女留学生已离世",
+      "onboard_time": 1762925302,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156278,
@@ -17835,14 +17875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132186,
-      "num": 132186,
-      "word": "葛夕回应复合传闻",
-      "onboard_time": 1762924762,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "鳌拜 瓜尔佳氏",
@@ -18907,6 +18939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126612,
+      "num": 189141,
+      "word": "唐诡唯一TOP是方丈",
+      "onboard_time": 1762925239,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126561,
       "num": 148016,
       "word": "范丞丞跑男路透",
@@ -18992,6 +19032,14 @@
       "word": "李兰迪素颜健身",
       "onboard_time": 1762598241,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126341,
+      "num": 126341,
+      "word": "杨幂别回头别停留往前走",
+      "onboard_time": 1762925960,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -19481,6 +19529,14 @@
       "onboard_time": 1762698803,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124169,
+      "num": 124169,
+      "word": "终于明白外国人看李子柒的感觉了",
+      "onboard_time": 1762925602,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 124167,
@@ -21459,6 +21515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114292,
+      "num": 114292,
+      "word": "孙颖莎vs王晓彤",
+      "onboard_time": 1762918520,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114168,
       "num": 114168,
       "word": "宋亚轩人前脆爷人后男模",
@@ -22153,6 +22217,14 @@
       "onboard_time": 1762009404,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111469,
+      "num": 111469,
+      "word": "于谦舔了下嘴唇把自己毒死了",
+      "onboard_time": 1762925840,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111419,
@@ -26827,6 +26899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95624,
+      "num": 133634,
+      "word": "吹牛老爹入狱照",
+      "onboard_time": 1762924821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95604,
       "num": 95604,
       "word": "369尽力了",
@@ -26937,14 +27017,6 @@
       "onboard_time": 1762406001,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95226,
-      "num": 95226,
-      "word": "唐诡唯一TOP是方丈",
-      "onboard_time": 1762925239,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 95191,
@@ -28003,14 +28075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 92265,
-      "num": 101808,
-      "word": "孙颖莎vs王晓彤",
-      "onboard_time": 1762918520,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92184,
       "num": 92184,
       "word": "陈乐和夫人确实已经分开",
@@ -28425,6 +28489,14 @@
       "onboard_time": 1762665501,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90837,
+      "num": 90837,
+      "word": "AL野辅已经续约",
+      "onboard_time": 1762924580,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90826,
@@ -37203,6 +37275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48571,
+      "num": 132242,
+      "word": "四川阿坝红旗桥垮塌原因公布",
+      "onboard_time": 1762925061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48429,
       "num": 113457,
       "word": "日本岩手县以东6.5级地震",
@@ -37668,7 +37748,7 @@
     },
     {
       "raw_hot": 45006,
-      "num": 175064,
+      "num": 203660,
       "word": "华为见非凡对话马岩松谈阳光权",
       "onboard_time": 1762923981,
       "rank": 19,
@@ -39243,14 +39323,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 31523,
-      "num": 132242,
-      "word": "四川阿坝红旗桥垮塌原因公布",
-      "onboard_time": 1762925061,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31296,
       "num": 98371,
       "word": "10年后欧洲日本的衰落可能超乎想象",
@@ -40313,14 +40385,6 @@
       "onboard_time": 1762090643,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 22943,
-      "num": 133634,
-      "word": "吹牛老爹入狱照",
-      "onboard_time": 1762924821,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 22899,
