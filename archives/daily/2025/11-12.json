@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762953029588,
+  "endTime": 1762954726928,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147193,
+      "num": 1183550,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1134557,
       "num": 1181529,
       "word": "陈天润新微博",
       "onboard_time": 1762919721,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 959671,
+      "num": 1125330,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 938264,
@@ -75,14 +91,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 810544,
-      "num": 1125330,
-      "word": "小天才灰色产业链曝光",
-      "onboard_time": 1762945159,
-      "rank": 3,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 798914,
       "num": 411283,
       "word": "iPhone可以检测针孔摄像头",
@@ -97,6 +105,22 @@
       "onboard_time": 1762912999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760449,
+      "num": 760449,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 697809,
+      "num": 249037,
+      "word": "男子溺亡被同伴运回家摆成睡姿",
+      "onboard_time": 1762949781,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695056,
@@ -123,20 +147,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 633931,
-      "num": 249037,
-      "word": "男子溺亡被同伴运回家摆成睡姿",
-      "onboard_time": 1762949781,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 615911,
       "num": 180639,
       "word": "刘俊昊 陈天润下海吗",
       "onboard_time": 1762929980,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608353,
+      "num": 608353,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1762952481,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 599891,
@@ -249,6 +273,14 @@
       "onboard_time": 1762902797,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503044,
+      "num": 191289,
+      "word": "梅尼耶要结婚了",
+      "onboard_time": 1762953141,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 487018,
@@ -411,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 406647,
-      "num": 406647,
-      "word": "孙杨因犯规被取消成绩",
-      "onboard_time": 1762950323,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 402509,
       "num": 372961,
       "word": "男子暴打92岁母亲被刑拘",
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354567,
-      "num": 354567,
-      "word": "唐诡3第9集10分15秒",
-      "onboard_time": 1762951522,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -520,6 +536,14 @@
       "word": "等等14岁了",
       "onboard_time": 1762935022,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341480,
+      "num": 188434,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -577,6 +601,14 @@
       "onboard_time": 1762905501,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320333,
+      "num": 186822,
+      "word": "张艺兴全包眼线",
+      "onboard_time": 1762952121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 315467,
@@ -803,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239997,
+      "num": 251807,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235455,
       "num": 215336,
       "word": "小力士第一",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 227556,
-      "num": 167555,
+      "num": 168762,
       "word": "沈佳润把自己照顾得很好",
       "onboard_time": 1762951703,
       "rank": 28,
@@ -875,20 +915,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212748,
-      "num": 212748,
-      "word": "王楚钦vs黄镇廷",
-      "onboard_time": 1762952481,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 212344,
       "num": 212344,
       "word": "韩国小朋友第一次见生烤盲鳗",
       "onboard_time": 1762912699,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211970,
+      "num": 211970,
+      "word": "北京北部出现极光",
+      "onboard_time": 1762951461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211659,
+      "num": 186284,
+      "word": "李连杰返老还童教程",
+      "onboard_time": 1762953321,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 211154,
@@ -899,20 +947,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209736,
-      "num": 163290,
-      "word": "张艺兴全包眼线",
-      "onboard_time": 1762952121,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205295,
       "num": 92975,
       "word": "公司回应张老六请假参加荒野求生",
       "onboard_time": 1762882875,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202887,
+      "num": 168778,
+      "word": "黄友政14比12林诗栋",
+      "onboard_time": 1762953682,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 201270,
@@ -939,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197940,
+      "num": 197940,
+      "word": "广东男篮金牌",
+      "onboard_time": 1762953501,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196873,
       "num": 191631,
       "word": "常华森一直想对龚俊贴脸开大",
@@ -955,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195721,
+      "num": 184589,
+      "word": "王曼昱11比1钱天一",
+      "onboard_time": 1762953682,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194994,
       "num": 167485,
       "word": "白敬亭真走不出那个圈了",
@@ -969,6 +1033,14 @@
       "onboard_time": 1762875621,
       "rank": 6,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 194338,
+      "num": 194338,
+      "word": "王曼昱晋级八强",
+      "onboard_time": 1762954103,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 193949,
@@ -1003,12 +1075,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189574,
-      "num": 251807,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 189935,
+      "num": 196034,
+      "word": "敖子逸连发两百个不一样",
+      "onboard_time": 1762954041,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189127,
+      "num": 194742,
+      "word": "沙溢宋雨琦 塔吉克族礼仪",
+      "onboard_time": 1762954161,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 188520,
@@ -1195,6 +1275,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161046,
+      "num": 161046,
+      "word": "狼队转会",
+      "onboard_time": 1762953441,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 160639,
+      "num": 194383,
+      "word": "穆祉丞 星辰大海",
+      "onboard_time": 1762953141,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160440,
       "num": 131135,
       "word": "黄金开始大反攻",
@@ -1273,14 +1369,6 @@
       "onboard_time": 1762925660,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157361,
-      "num": 197915,
-      "word": "北京北部出现极光",
-      "onboard_time": 1762951461,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156219,
@@ -1499,6 +1587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "王者拥有量最少的史诗皮肤",
+      "onboard_time": 1762952782,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129152,
       "num": 129152,
       "word": "李昀锐直播",
@@ -1675,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118969,
+      "num": 118969,
+      "word": "奔跑吧回应路透",
+      "onboard_time": 1762954582,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118420,
       "num": 118420,
       "word": "李煜东 智力不详但心地善良",
@@ -1729,6 +1833,14 @@
       "onboard_time": 1762947081,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115350,
+      "num": 115350,
+      "word": "张展硕回应200自夺冠",
+      "onboard_time": 1762953921,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 115132,
@@ -1883,6 +1995,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107268,
+      "num": 107268,
+      "word": "小孩试戴金镯子10秒被要求赔偿千元",
+      "onboard_time": 1762954582,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106454,
+      "num": 109545,
+      "word": "德州一男一女坠河男子溺水身亡",
+      "onboard_time": 1762952782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "警方通报男子殴打92岁母亲",
@@ -2011,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101988,
+      "num": 114400,
+      "word": "金价飙升 金店关门",
+      "onboard_time": 1762954403,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 101681,
       "num": 118010,
       "word": "干洗店店主建议羽绒服别买这些颜色",
@@ -2091,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98921,
+      "num": 98921,
+      "word": "王男王广",
+      "onboard_time": 1762954702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98847,
       "num": 98847,
       "word": "航空公司外包客服卖上百条艺人隐私",
@@ -2168,6 +2312,14 @@
       "word": "徐嘉余全运会第13金",
       "onboard_time": 1762951161,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96271,
+      "num": 96271,
+      "word": "赵继伟回应受伤",
+      "onboard_time": 1762954522,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2305,6 +2457,14 @@
       "onboard_time": 1762938440,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90958,
+      "num": 194293,
+      "word": "小天才电话手表已成社交硬通货",
+      "onboard_time": 1762954103,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90927,
@@ -2979,14 +3139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58468,
-      "num": 108642,
-      "word": "德州一男一女坠河男子溺水身亡",
-      "onboard_time": 1762952782,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57612,
       "num": 105394,
       "word": "日首相凌晨3点开会因为传真机卡了",
@@ -3324,7 +3476,7 @@
     },
     {
       "raw_hot": 27400,
-      "num": 625279,
+      "num": 827208,
       "word": "微观全运会",
       "onboard_time": 1762934480,
       "rank": 2,

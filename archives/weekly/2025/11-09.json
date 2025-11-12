@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762953029588,
+  "endTime": 1762954726928,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147193,
+      "num": 1183550,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1143478,
       "num": 1164749,
       "word": "iPhonePocket发布",
@@ -313,6 +321,14 @@
       "onboard_time": 1762778361,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 959671,
+      "num": 1125330,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 949508,
@@ -467,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 810544,
-      "num": 1125330,
-      "word": "小天才灰色产业链曝光",
-      "onboard_time": 1762945159,
-      "rank": 3,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 798914,
       "num": 411283,
       "word": "iPhone可以检测针孔摄像头",
@@ -505,6 +513,14 @@
       "onboard_time": 1762912999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 760449,
+      "num": 760449,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 756837,
@@ -609,6 +625,14 @@
       "onboard_time": 1762862302,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697809,
+      "num": 249037,
+      "word": "男子溺亡被同伴运回家摆成睡姿",
+      "onboard_time": 1762949781,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695056,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633931,
-      "num": 249037,
-      "word": "男子溺亡被同伴运回家摆成睡姿",
-      "onboard_time": 1762949781,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 628924,
       "num": 281988,
       "word": "网传张若昀唐嫣新剧延期开机",
@@ -849,6 +865,14 @@
       "onboard_time": 1762746500,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 608353,
+      "num": 608353,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1762952481,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 604412,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1762902797,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 503044,
+      "num": 191289,
+      "word": "梅尼耶要结婚了",
+      "onboard_time": 1762953141,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 500363,
@@ -1739,14 +1771,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 406647,
-      "num": 406647,
-      "word": "孙杨因犯规被取消成绩",
-      "onboard_time": 1762950323,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404196,
       "num": 160967,
       "word": "何穗产后身材 像没生过",
@@ -2107,14 +2131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354567,
-      "num": 354567,
-      "word": "唐诡3第9集10分15秒",
-      "onboard_time": 1762951522,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 353801,
       "num": 353801,
       "word": "喜人奇妙夜",
@@ -2168,6 +2184,14 @@
       "word": "等等14岁了",
       "onboard_time": 1762935022,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341480,
+      "num": 188434,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2385,6 +2409,14 @@
       "onboard_time": 1762843640,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320333,
+      "num": 186822,
+      "word": "张艺兴全包眼线",
+      "onboard_time": 1762952121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 320238,
@@ -3219,6 +3251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239997,
+      "num": 251807,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239923,
       "num": 185831,
       "word": "董璇曝小酒窝请假理由",
@@ -3372,7 +3412,7 @@
     },
     {
       "raw_hot": 227556,
-      "num": 167555,
+      "num": 168762,
       "word": "沈佳润把自己照顾得很好",
       "onboard_time": 1762951703,
       "rank": 28,
@@ -3595,14 +3635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 212748,
-      "num": 212748,
-      "word": "王楚钦vs黄镇廷",
-      "onboard_time": 1762952481,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 212747,
       "num": 192134,
       "word": "魏大勋父亲公司被举报遭处罚",
@@ -3619,12 +3651,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211970,
+      "num": 211970,
+      "word": "北京北部出现极光",
+      "onboard_time": 1762951461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211843,
       "num": 162580,
       "word": "差点忘了房子住进来前是什么样",
       "onboard_time": 1762750703,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211659,
+      "num": 186284,
+      "word": "李连杰返老还童教程",
+      "onboard_time": 1762953321,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 211398,
@@ -3665,14 +3713,6 @@
       "onboard_time": 1762655181,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209736,
-      "num": 163290,
-      "word": "张艺兴全包眼线",
-      "onboard_time": 1762952121,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 208870,
@@ -3851,6 +3891,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 202887,
+      "num": 168778,
+      "word": "黄友政14比12林诗栋",
+      "onboard_time": 1762953682,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202654,
       "num": 202654,
       "word": "田曦薇不喜欢追求情绪稳定",
@@ -3995,6 +4043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197940,
+      "num": 197940,
+      "word": "广东男篮金牌",
+      "onboard_time": 1762953501,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -4043,6 +4099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195721,
+      "num": 184589,
+      "word": "王曼昱11比1钱天一",
+      "onboard_time": 1762953682,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195486,
       "num": 149843,
       "word": "九尾 别问了一堆假瓜",
@@ -4073,6 +4137,14 @@
       "onboard_time": 1762875621,
       "rank": 18,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 194338,
+      "num": 194338,
+      "word": "王曼昱晋级八强",
+      "onboard_time": 1762954103,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 194226,
@@ -4227,6 +4299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189935,
+      "num": 196034,
+      "word": "敖子逸连发两百个不一样",
+      "onboard_time": 1762954041,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189821,
       "num": 151435,
       "word": "25岁女孩海岛求生吃了50只老鼠",
@@ -4235,19 +4315,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189574,
-      "num": 251807,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189290,
       "num": 189290,
       "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
       "onboard_time": 1762665740,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189127,
+      "num": 194742,
+      "word": "沙溢宋雨琦 塔吉克族礼仪",
+      "onboard_time": 1762954161,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -5043,12 +5123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161046,
+      "num": 161046,
+      "word": "狼队转会",
+      "onboard_time": 1762953441,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160842,
       "num": 160842,
       "word": "米哈游回应新角色大丽花争议",
       "onboard_time": 1762659680,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160639,
+      "num": 194383,
+      "word": "穆祉丞 星辰大海",
+      "onboard_time": 1762953141,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 160588,
@@ -5233,14 +5329,6 @@
       "onboard_time": 1762925660,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157361,
-      "num": 197915,
-      "word": "北京北部出现极光",
-      "onboard_time": 1762951461,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157310,
@@ -6451,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "王者拥有量最少的史诗皮肤",
+      "onboard_time": 1762952782,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129196,
       "num": 129196,
       "word": "日本人称李白诗歌是东亚共有财富",
@@ -7259,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118969,
+      "num": 118969,
+      "word": "奔跑吧回应路透",
+      "onboard_time": 1762954582,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118837,
       "num": 126810,
       "word": "新还珠剧组回应争议",
@@ -7513,6 +7617,14 @@
       "onboard_time": 1762669280,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115350,
+      "num": 115350,
+      "word": "张展硕回应200自夺冠",
+      "onboard_time": 1762953921,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 115337,
@@ -8075,6 +8187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107268,
+      "num": 107268,
+      "word": "小孩试戴金镯子10秒被要求赔偿千元",
+      "onboard_time": 1762954582,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107219,
       "num": 107219,
       "word": "有内娱女爱豆的团又上新了",
@@ -8169,6 +8289,14 @@
       "onboard_time": 1762835302,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106454,
+      "num": 109545,
+      "word": "德州一男一女坠河男子溺水身亡",
+      "onboard_time": 1762952782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106317,
@@ -8667,6 +8795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101988,
+      "num": 114400,
+      "word": "金价飙升 金店关门",
+      "onboard_time": 1762954403,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 101973,
       "num": 154371,
       "word": "沈腾把没扶杨幂的都补给了出发团",
@@ -9043,6 +9179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98921,
+      "num": 98921,
+      "word": "王男王广",
+      "onboard_time": 1762954702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98847,
       "num": 98847,
       "word": "航空公司外包客服卖上百条艺人隐私",
@@ -9369,6 +9513,14 @@
       "onboard_time": 1762767379,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 96271,
+      "num": 96271,
+      "word": "赵继伟回应受伤",
+      "onboard_time": 1762954522,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96121,
@@ -9896,6 +10048,14 @@
       "word": "台风凤凰向我国靠近",
       "onboard_time": 1762657759,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90958,
+      "num": 194293,
+      "word": "小天才电话手表已成社交硬通货",
+      "onboard_time": 1762954103,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -12483,14 +12643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 58468,
-      "num": 108642,
-      "word": "德州一男一女坠河男子溺水身亡",
-      "onboard_time": 1762952782,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -14060,7 +14212,7 @@
     },
     {
       "raw_hot": 27400,
-      "num": 625279,
+      "num": 827208,
       "word": "微观全运会",
       "onboard_time": 1762934480,
       "rank": 2,
