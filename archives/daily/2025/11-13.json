@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1762987204637,
+  "endTime": 1762989970952,
   "band_list": [
     {
       "raw_hot": 641544,
@@ -11,6 +11,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 551543,
+      "num": 120080,
+      "word": "续面事件老板回应被女顾客起诉",
+      "onboard_time": 1762962800,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375788,
       "num": 789726,
       "word": "唐诡3第9集10分15秒",
@@ -19,27 +27,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369418,
-      "num": 120080,
-      "word": "续面事件老板回应被女顾客起诉",
-      "onboard_time": 1762962800,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337660,
-      "num": 121343,
-      "word": "丈夫结扎9个月后妻子又怀孕",
-      "onboard_time": 1762955664,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337360,
+      "raw_hot": 368781,
       "num": 120719,
       "word": "小孩试戴金镯子10秒被要求赔偿千元",
       "onboard_time": 1762954582,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346534,
+      "num": 121343,
+      "word": "丈夫结扎9个月后妻子又怀孕",
+      "onboard_time": 1762955664,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -83,6 +83,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240241,
+      "num": 118024,
+      "word": "南宁地铁站称已对涉事区域进行消杀",
+      "onboard_time": 1762961361,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219832,
+      "num": 119002,
+      "word": "章泽天尽量每天7点起床",
+      "onboard_time": 1762957404,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "北京极光",
@@ -99,11 +115,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174369,
-      "num": 118024,
-      "word": "南宁地铁站称已对涉事区域进行消杀",
-      "onboard_time": 1762961361,
-      "rank": 18,
+      "raw_hot": 153696,
+      "num": 90767,
+      "word": "女子借900万给小20岁男模男友",
+      "onboard_time": 1762956982,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -115,12 +131,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134448,
-      "num": 119002,
-      "word": "章泽天尽量每天7点起床",
-      "onboard_time": 1762957404,
-      "rank": 15,
+      "raw_hot": 149331,
+      "num": 149331,
+      "word": "日本敢介入台海吗",
+      "onboard_time": 1762956024,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134230,
+      "num": 90201,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128124,
+      "num": 90810,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127842,
@@ -155,12 +187,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115468,
+      "num": 74822,
+      "word": "黄景瑜在大孤山被阿姨团围住拍照",
+      "onboard_time": 1762984453,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114375,
+      "num": 114375,
+      "word": "高市早苗妄谈台海震惊日本舆论",
+      "onboard_time": 1762989258,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 110300,
+      "num": 110300,
+      "word": "无印良品 过度包装",
+      "onboard_time": 1762948341,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109241,
       "num": 121665,
       "word": "缅甸亚太新城犯罪集团主犯引渡回国",
       "onboard_time": 1762958722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106480,
+      "num": 63578,
+      "word": "青岛女子刷到丢失三个月的狗在长沙",
+      "onboard_time": 1762989258,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102951,
@@ -171,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98901,
+      "num": 78267,
+      "word": "相亲第2天闪婚妻子考驾照一去不回",
+      "onboard_time": 1762989197,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90062,
+      "num": 73381,
+      "word": "邻居称被儿子殴打老人有4个女儿",
+      "onboard_time": 1762989318,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89365,
       "num": 104893,
       "word": "小学生每天花6小时运营小天才账号",
@@ -179,20 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89011,
-      "num": 90810,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1762959443,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 85355,
-      "num": 90767,
-      "word": "女子借900万给小20岁男模男友",
-      "onboard_time": 1762956982,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 85823,
+      "num": 85823,
+      "word": "马龙观看王楚钦比赛",
+      "onboard_time": 1762969516,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 79602,
@@ -227,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74514,
-      "num": 90201,
-      "word": "李克勤回应岳父和妻弟断绝关系",
-      "onboard_time": 1762953321,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 72218,
+      "num": 90364,
+      "word": "眼镜应该戴戴停停还是长久戴",
+      "onboard_time": 1762955122,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70292,
@@ -259,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65410,
-      "num": 90364,
-      "word": "眼镜应该戴戴停停还是长久戴",
-      "onboard_time": 1762955122,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 66531,
+      "num": 66531,
+      "word": "老人味的显性特征之一",
+      "onboard_time": 1762989318,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 65190,
@@ -273,6 +345,22 @@
       "onboard_time": 1762954041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65002,
+      "num": 65002,
+      "word": "曝LPL中单工资帽评级",
+      "onboard_time": 1762989318,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 63471,
+      "num": 63471,
+      "word": "现在的泡面都进化成这样了吗",
+      "onboard_time": 1762989318,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 62146,
@@ -291,20 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61199,
-      "num": 90715,
-      "word": "日本敢介入台海吗",
-      "onboard_time": 1762956024,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 60662,
-      "num": 90301,
-      "word": "无印良品 过度包装",
-      "onboard_time": 1762948341,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 60735,
+      "num": 60735,
+      "word": "郑裕玲回应刘宇宁",
+      "onboard_time": 1762964899,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 59779,
@@ -323,6 +403,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56648,
+      "num": 56648,
+      "word": "奇瑞致歉",
+      "onboard_time": 1762989918,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 55997,
+      "num": 72198,
+      "word": "反杀狗主人女儿称父亲系自卫",
+      "onboard_time": 1762966876,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54268,
+      "num": 54268,
+      "word": "女儿痛哭哀求别拔父亲呼吸机",
+      "onboard_time": 1762989437,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53433,
+      "num": 53433,
+      "word": "蒯曼vs陈梦",
+      "onboard_time": 1762989258,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52201,
       "num": 90576,
       "word": "六公主镜头下的李柯以韩雨彤",
@@ -331,12 +443,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50372,
-      "num": 50372,
-      "word": "马龙观看王楚钦比赛",
-      "onboard_time": 1762969516,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 52073,
+      "num": 72193,
+      "word": "东北一男子因好奇养澳大利亚鸸鹋",
+      "onboard_time": 1762967597,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49669,
+      "num": 49669,
+      "word": "酒店回应婚宴后剩余茅台集体失踪",
+      "onboard_time": 1762989559,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49111,
@@ -379,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45536,
+      "num": 48440,
+      "word": "减肥时的放纵餐就是一种自我欺骗",
+      "onboard_time": 1762989498,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 44123,
       "num": 89813,
       "word": "郑秀妍连续四年为王紫璇庆生",
       "onboard_time": 1762965078,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42404,
+      "num": 48433,
+      "word": "李昀锐看你的手就知道你努力了",
+      "onboard_time": 1762989437,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 42130,
@@ -401,22 +537,6 @@
       "onboard_time": 1762953501,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42060,
-      "num": 72193,
-      "word": "东北一男子因好奇养澳大利亚鸸鹋",
-      "onboard_time": 1762967597,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38271,
-      "num": 36903,
-      "word": "黄景瑜在大孤山被阿姨团围住拍照",
-      "onboard_time": 1762984453,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 38092,
@@ -465,14 +585,6 @@
       "onboard_time": 1762969096,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32446,
-      "num": 72198,
-      "word": "反杀狗主人女儿称父亲系自卫",
-      "onboard_time": 1762966876,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27797,

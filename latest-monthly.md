@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 06:40:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 07:26:10
 </p>
 </blockquote>
 <p>
@@ -2409,6 +2409,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
+续面事件老板回应被女顾客起诉（热度：551543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%20%E5%AE%B6%E4%B8%AD%E5%9B%B0%E9%9A%BE%23" target="weibo">
 威廉王子 家中困难（热度：551433）
 </a>
@@ -4289,12 +4295,6 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BD%A0%E8%BF%99%E5%8F%A5%E8%AF%9D%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%90%97%23" target="weibo">
 余华你知道你这句话救了多少人吗（热度：371055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
-续面事件老板回应被女顾客起诉（热度：369418）
 </a>
 </li>
 

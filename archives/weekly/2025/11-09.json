@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762987204637,
+  "endTime": 1762989970952,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1115,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551543,
+      "num": 120080,
+      "word": "续面事件老板回应被女顾客起诉",
+      "onboard_time": 1762962800,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551433,
       "num": 268437,
       "word": "威廉王子 家中困难",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1762870583,
       "rank": 17,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 369418,
-      "num": 120080,
-      "word": "续面事件老板回应被女顾客起诉",
-      "onboard_time": 1762962800,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366258,
@@ -3339,6 +3339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240241,
+      "num": 118024,
+      "word": "南宁地铁站称已对涉事区域进行消杀",
+      "onboard_time": 1762961361,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240097,
       "num": 207289,
       "word": "易烊千玺 一切有迹可循",
@@ -3689,6 +3697,14 @@
       "onboard_time": 1762953501,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219832,
+      "num": 143445,
+      "word": "章泽天尽量每天7点起床",
+      "onboard_time": 1762957404,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 219185,
@@ -4835,14 +4851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174369,
-      "num": 118024,
-      "word": "南宁地铁站称已对涉事区域进行消杀",
-      "onboard_time": 1762961361,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174148,
       "num": 174148,
       "word": "永庆寺",
@@ -5643,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153696,
+      "num": 133909,
+      "word": "女子借900万给小20岁男模男友",
+      "onboard_time": 1762956982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153663,
       "num": 183699,
       "word": "网购衣服货不对版的原因找到了",
@@ -5785,6 +5801,14 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149331,
+      "num": 158358,
+      "word": "日本敢介入台海吗",
+      "onboard_time": 1762956024,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149311,
@@ -6073,14 +6097,6 @@
       "onboard_time": 1762866561,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143445,
-      "num": 143445,
-      "word": "章泽天尽量每天7点起床",
-      "onboard_time": 1762957404,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 143303,
@@ -6563,14 +6579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133909,
-      "num": 133909,
-      "word": "女子借900万给小20岁男模男友",
-      "onboard_time": 1762956982,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133870,
       "num": 133870,
       "word": "小米汽车挖孔机盖专利获授权",
@@ -6913,6 +6921,14 @@
       "onboard_time": 1762697843,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128124,
+      "num": 90810,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 127970,
@@ -7891,6 +7907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115468,
+      "num": 74822,
+      "word": "黄景瑜在大孤山被阿姨团围住拍照",
+      "onboard_time": 1762984453,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115453,
       "num": 115475,
       "word": "新闻女王2港百",
@@ -7947,20 +7971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114962,
-      "num": 158358,
-      "word": "日本敢介入台海吗",
-      "onboard_time": 1762956024,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114645,
       "num": 154953,
       "word": "孟子义当铺主理人",
       "onboard_time": 1762763120,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114375,
+      "num": 114375,
+      "word": "高市早苗妄谈台海震惊日本舆论",
+      "onboard_time": 1762989258,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114292,
@@ -8585,6 +8609,14 @@
       "onboard_time": 1762784785,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106480,
+      "num": 63578,
+      "word": "青岛女子刷到丢失三个月的狗在长沙",
+      "onboard_time": 1762989258,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106455,
@@ -9481,6 +9513,14 @@
       "onboard_time": 1762788741,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98901,
+      "num": 78267,
+      "word": "相亲第2天闪婚妻子考驾照一去不回",
+      "onboard_time": 1762989197,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98847,
@@ -10499,6 +10539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90062,
+      "num": 73381,
+      "word": "邻居称被儿子殴打老人有4个女儿",
+      "onboard_time": 1762989318,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90033,
       "num": 90033,
       "word": "周日其实是最会装的",
@@ -10649,14 +10697,6 @@
       "onboard_time": 1762762220,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 89011,
-      "num": 90810,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1762959443,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 88741,
@@ -11057,6 +11097,14 @@
       "onboard_time": 1762680920,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85823,
+      "num": 85823,
+      "word": "马龙观看王楚钦比赛",
+      "onboard_time": 1762969516,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 85766,
@@ -12539,6 +12587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66531,
+      "num": 66531,
+      "word": "老人味的显性特征之一",
+      "onboard_time": 1762989318,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 66466,
       "num": 66466,
       "word": "人生最好的节奏是什么",
@@ -12625,6 +12681,14 @@
       "onboard_time": 1762669822,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65002,
+      "num": 65002,
+      "word": "曝LPL中单工资帽评级",
+      "onboard_time": 1762989318,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 64949,
@@ -12721,6 +12785,14 @@
       "onboard_time": 1762738159,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63471,
+      "num": 63471,
+      "word": "现在的泡面都进化成这样了吗",
+      "onboard_time": 1762989318,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 63463,
@@ -12889,6 +12961,14 @@
       "onboard_time": 1762737500,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60735,
+      "num": 60735,
+      "word": "郑裕玲回应刘宇宁",
+      "onboard_time": 1762964899,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 60710,
@@ -13131,6 +13211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56648,
+      "num": 56648,
+      "word": "奇瑞致歉",
+      "onboard_time": 1762989918,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 56395,
       "num": 100186,
       "word": "一诺发育路主理人",
@@ -13145,6 +13233,14 @@
       "onboard_time": 1762675941,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55997,
+      "num": 72198,
+      "word": "反杀狗主人女儿称父亲系自卫",
+      "onboard_time": 1762966876,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55975,
@@ -13275,6 +13371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54268,
+      "num": 54268,
+      "word": "女儿痛哭哀求别拔父亲呼吸机",
+      "onboard_time": 1762989437,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53987,
       "num": 275593,
       "word": "大眼音乐节舞台",
@@ -13289,6 +13393,14 @@
       "onboard_time": 1762878021,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 53433,
+      "num": 53433,
+      "word": "蒯曼vs陈梦",
+      "onboard_time": 1762989258,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 53426,
@@ -13363,6 +13475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52073,
+      "num": 72193,
+      "word": "东北一男子因好奇养澳大利亚鸸鹋",
+      "onboard_time": 1762967597,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51858,
       "num": 76383,
       "word": "你要的大湾鸡安排上了",
@@ -13427,14 +13547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50372,
-      "num": 50372,
-      "word": "马龙观看王楚钦比赛",
-      "onboard_time": 1762969516,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49962,
       "num": 74504,
       "word": "中国籍机器人已突破传统想象",
@@ -13457,6 +13569,14 @@
       "onboard_time": 1762653380,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49669,
+      "num": 49669,
+      "word": "酒店回应婚宴后剩余茅台集体失踪",
+      "onboard_time": 1762989559,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49666,
@@ -13731,6 +13851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45536,
+      "num": 48440,
+      "word": "减肥时的放纵餐就是一种自我欺骗",
+      "onboard_time": 1762989498,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 45474,
       "num": 98974,
       "word": "伊能静跟唱恩利情非得已",
@@ -13947,6 +14075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42404,
+      "num": 48433,
+      "word": "李昀锐看你的手就知道你努力了",
+      "onboard_time": 1762989437,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42255,
       "num": 195721,
       "word": "谢霆锋你让我怎么戒断",
@@ -13969,14 +14105,6 @@
       "onboard_time": 1762863861,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42060,
-      "num": 72193,
-      "word": "东北一男子因好奇养澳大利亚鸸鹋",
-      "onboard_time": 1762967597,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41977,
@@ -14137,14 +14265,6 @@
       "onboard_time": 1762766119,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38271,
-      "num": 36903,
-      "word": "黄景瑜在大孤山被阿姨团围住拍照",
-      "onboard_time": 1762984453,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 38233,
@@ -14441,14 +14561,6 @@
       "onboard_time": 1762731199,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32446,
-      "num": 72198,
-      "word": "反杀狗主人女儿称父亲系自卫",
-      "onboard_time": 1762966876,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32426,
