@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762933259533,
+  "endTime": 1762936562132,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -9,6 +9,14 @@
       "onboard_time": 1762919839,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1282795,
+      "num": 189536,
+      "word": "离婚证后面有囍字",
+      "onboard_time": 1762933941,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1147547,
@@ -41,6 +49,14 @@
       "onboard_time": 1762923321,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 798914,
+      "num": 220312,
+      "word": "iPhone可以检测针孔摄像头",
+      "onboard_time": 1762932920,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 773787,
@@ -107,6 +123,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 525293,
+      "num": 140624,
+      "word": "辛柏青和李乃文再次现身大孤山",
+      "onboard_time": 1762933459,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516731,
+      "num": 188696,
+      "word": "狗咬人被摔死狗主人上门理论遭反杀",
+      "onboard_time": 1762933100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505584,
       "num": 1080893,
       "word": "前DeepSeek研究员罗福莉已加入小米",
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 475201,
-      "num": 183385,
+      "num": 187929,
       "word": "曾中1200w彩票幸运儿钱被骗光",
       "onboard_time": 1762924879,
       "rank": 34,
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 365010,
-      "num": 180721,
+      "num": 187552,
       "word": "宝宝刚办完百日宴腿上出现一排牙印",
       "onboard_time": 1762930101,
       "rank": 27,
@@ -337,6 +369,14 @@
       "onboard_time": 1762872982,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330855,
+      "num": 1052936,
+      "word": "国台办给赖清德念了两遍赖家祖训",
+      "onboard_time": 1762932380,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326735,
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271065,
+      "num": 271065,
+      "word": "爸爸当家科普高铁为何只查小孩身份证",
+      "onboard_time": 1762933222,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270471,
       "num": 180702,
       "word": "彭小苒换头像 端水大师",
@@ -481,6 +529,14 @@
       "onboard_time": 1762924580,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261813,
+      "num": 179775,
+      "word": "杨紫看着满屏张一山 吆京少",
+      "onboard_time": 1762930819,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 258903,
@@ -521,6 +577,14 @@
       "onboard_time": 1762920080,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239885,
+      "num": 239885,
+      "word": "喜人奇妙夜 爱奇艺优酷",
+      "onboard_time": 1762935440,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 235455,
@@ -587,6 +651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 205347,
+      "num": 138383,
+      "word": "等等14岁了",
+      "onboard_time": 1762935022,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205295,
       "num": 92975,
       "word": "公司回应张老六请假参加荒野求生",
@@ -609,6 +681,14 @@
       "onboard_time": 1762925541,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196873,
+      "num": 191631,
+      "word": "常华森一直想对龚俊贴脸开大",
+      "onboard_time": 1762935621,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 195741,
@@ -641,6 +721,14 @@
       "onboard_time": 1762921042,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192288,
+      "num": 192288,
+      "word": "孙颖莎采访专注盯着记者",
+      "onboard_time": 1762932501,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191116,
@@ -683,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179775,
-      "num": 179775,
-      "word": "杨紫看着满屏张一山 吆京少",
-      "onboard_time": 1762930819,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178725,
       "num": 169319,
       "word": "折月亮",
@@ -705,14 +785,6 @@
       "onboard_time": 1762916600,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173158,
-      "num": 173158,
-      "word": "孙颖莎采访专注盯着记者",
-      "onboard_time": 1762932501,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 172133,
@@ -779,6 +851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 162472,
+      "num": 136617,
+      "word": "林静居然是汉武大帝的卫子夫",
+      "onboard_time": 1762934480,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161363,
       "num": 180755,
       "word": "朱婷一锤定音",
@@ -809,6 +889,22 @@
       "onboard_time": 1762916839,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159452,
+      "num": 159452,
+      "word": "李在明遭死亡威胁",
+      "onboard_time": 1762934840,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 159058,
+      "num": 136396,
+      "word": "黄金睡眠时间是这4个小时",
+      "onboard_time": 1762933159,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158722,
@@ -867,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148587,
+      "num": 148587,
+      "word": "日本人称吃米要用茶碗",
+      "onboard_time": 1762933823,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146695,
       "num": 146695,
       "word": "杨雨光比拿了爽文剧本还爽",
@@ -905,6 +1009,14 @@
       "onboard_time": 1762904059,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135982,
+      "num": 135982,
+      "word": "Milkyway 泄露BP",
+      "onboard_time": 1762933701,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 134831,
@@ -987,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127623,
-      "num": 180660,
-      "word": "国台办给赖清德念了两遍赖家祖训",
-      "onboard_time": 1762932380,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127519,
       "num": 123639,
       "word": "范丞丞宋雨琦互换衣服太精彩了",
@@ -1033,14 +1137,6 @@
       "onboard_time": 1762931121,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125742,
-      "num": 125742,
-      "word": "iPhone可以检测针孔摄像头",
-      "onboard_time": 1762932920,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 125078,
@@ -1235,12 +1331,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107807,
-      "num": 107807,
-      "word": "爸爸当家科普高铁为何只查小孩身份证",
-      "onboard_time": 1762933222,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 107805,
+      "num": 107805,
+      "word": "李煜东 智力不详但心地善良",
+      "onboard_time": 1762936281,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 106279,
@@ -1307,6 +1403,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103543,
+      "num": 103543,
+      "word": "时代峰峻好有商业头脑",
+      "onboard_time": 1762932080,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103394,
+      "num": 103394,
+      "word": "杨天真瘦到撞脸杨笠",
+      "onboard_time": 1762933341,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103095,
+      "num": 103095,
+      "word": "樊振东回应用反手发球",
+      "onboard_time": 1762935980,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102409,
+      "num": 117358,
+      "word": "肖战手里拿的是大湾鸡",
+      "onboard_time": 1762936401,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 101652,
       "num": 173626,
       "word": "佟丽娅小酒窝出演金鸡奖开幕式短片",
@@ -1337,6 +1465,14 @@
       "onboard_time": 1762913660,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99198,
+      "num": 99198,
+      "word": "凶手杀一家五口后家属拉黑被害家属",
+      "onboard_time": 1762936340,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99018,
@@ -1387,12 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96213,
-      "num": 96213,
-      "word": "黄金睡眠时间是这4个小时",
-      "onboard_time": 1762933159,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 97472,
+      "num": 97472,
+      "word": "陈梦连场零封晋级8强",
+      "onboard_time": 1762936281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95788,
@@ -1408,14 +1544,6 @@
       "word": "吹牛老爹入狱照",
       "onboard_time": 1762924821,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 95388,
-      "num": 95388,
-      "word": "时代峰峻好有商业头脑",
-      "onboard_time": 1762932080,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1507,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88789,
+      "num": 103156,
+      "word": "人民咖啡馆改名后人民小馆又来了",
+      "onboard_time": 1762935141,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88724,
       "num": 61371,
       "word": "四川队夺得全运会乒乓球冠军",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1762916540,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83194,
+      "num": 103930,
+      "word": "孙颖莎恭喜四川队",
+      "onboard_time": 1762935741,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 82359,
@@ -1891,14 +2035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60243,
-      "num": 113758,
-      "word": "狗咬人被摔死狗主人上门理论遭反杀",
-      "onboard_time": 1762933100,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59066,
       "num": 105216,
       "word": "年会不能停2 大鹏",
@@ -2099,6 +2235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41038,
+      "num": 189684,
+      "word": "央视曝光买卖艺人隐私链条",
+      "onboard_time": 1762936099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38960,
+      "num": 103949,
+      "word": "王濛眼睛还是尺",
+      "onboard_time": 1762936340,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37630,
       "num": 51283,
       "word": "减肥 和家族基因做对抗",
@@ -2179,6 +2331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 27400,
+      "num": 244394,
+      "word": "微观全运会",
+      "onboard_time": 1762934480,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25286,
       "num": 64764,
       "word": "王一博宣传环保VCR",
@@ -2244,6 +2404,9 @@
     },
     {
       "word": "#70秒看习近平的海南广东行#"
+    },
+    {
+      "word": "#习近平会见西班牙国王费利佩六世#"
     }
   ]
 }
