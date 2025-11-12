@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1762972569252,
+  "endTime": 1762973312087,
   "band_list": [
     {
       "raw_hot": 641544,
@@ -171,7 +171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86481,
+      "raw_hot": 89011,
       "num": 90810,
       "word": "情侣是一种很诡异的亲密关系",
       "onboard_time": 1762959443,
@@ -515,20 +515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14945,
+      "num": 27456,
+      "word": "李雪琴在北京吃东北正宗云南米线",
+      "onboard_time": 1762972515,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13788,
       "num": 27468,
       "word": "肖战专辑我们一周年",
       "onboard_time": 1762969995,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13092,
-      "num": 27456,
-      "word": "李雪琴在北京吃东北正宗云南米线",
-      "onboard_time": 1762972515,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 12014,

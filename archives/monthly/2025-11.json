@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762972569252,
+  "endTime": 1762973312087,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -30891,6 +30891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89011,
+      "num": 90810,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88992,
       "num": 137070,
       "word": "法国人日常吹Uzi",
@@ -31873,14 +31881,6 @@
       "onboard_time": 1762298538,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86481,
-      "num": 90810,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1762959443,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 86479,
@@ -43387,6 +43387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14945,
+      "num": 27456,
+      "word": "李雪琴在北京吃东北正宗云南米线",
+      "onboard_time": 1762972515,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14753,
       "num": 28192,
       "word": "丁禹兮原声真的很有力量感",
@@ -43561,14 +43569,6 @@
       "onboard_time": 1762105576,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13092,
-      "num": 27456,
-      "word": "李雪琴在北京吃东北正宗云南米线",
-      "onboard_time": 1762972515,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13077,
