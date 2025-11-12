@@ -1,0 +1,410 @@
+{
+  "runTime": 1762921928366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134557,
+        "num": 1181529,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519451,
+        "num": 519451,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29118,
+        "num": 494417,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484621,
+        "num": 484621,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419798,
+        "num": 419798,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409941,
+        "num": 409941,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294595,
+        "num": 294595,
+        "word": "BLG管理层力保ELK迫使ON离队",
+        "onboard_time": 1762919601,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280969,
+        "num": 280969,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232503,
+        "num": 232503,
+        "word": "库里职业生涯首次恶意犯规",
+        "onboard_time": 1762914679,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205587,
+        "num": 205587,
+        "word": "陈梦vs何卓佳",
+        "onboard_time": 1762920080,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428203,
+        "num": 204417,
+        "word": "陈天润工作室",
+        "onboard_time": 1762912999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251681,
+        "num": 203560,
+        "word": "徐志胜穿了沈羽洁的裙子",
+        "onboard_time": 1762916419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236825,
+        "num": 203026,
+        "word": "唐诡3把观众写进剧里",
+        "onboard_time": 1762917020,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201529,
+        "num": 201529,
+        "word": "韩国小朋友第一次见生烤盲鳗",
+        "onboard_time": 1762912699,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200266,
+        "num": 200266,
+        "word": "华晨宇 0分一人一个",
+        "onboard_time": 1762921282,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198221,
+        "num": 198221,
+        "word": "国产剧终于癫成我想看的样子了",
+        "onboard_time": 1762919540,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171610,
+        "num": 171610,
+        "word": "小力士第一",
+        "onboard_time": 1762913899,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171091,
+        "num": 171091,
+        "word": "四川阿坝垮塌红旗桥今年1月才建成",
+        "onboard_time": 1762915099,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170579,
+        "num": 170579,
+        "word": "麻六记一门店被集体投诉",
+        "onboard_time": 1762918759,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75219,
+        "num": 170427,
+        "word": "今年双十一首次延长至14日",
+        "onboard_time": 1762920260,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1349620,
+        "num": 169906,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447478,
+        "num": 169264,
+        "word": "张雪峰晒戒指回应传闻",
+        "onboard_time": 1762918880,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290579,
+        "num": 168975,
+        "word": "金价",
+        "onboard_time": 1762912819,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168635,
+        "num": 168635,
+        "word": "秦昊把成毅认成陈坤",
+        "onboard_time": 1762921042,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100099,
+        "num": 164904,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163274,
+        "num": 163274,
+        "word": "需要焯水才能吃的食物",
+        "onboard_time": 1762917859,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145323,
+        "num": 145323,
+        "word": "台当局警告转发大陆要抓沈伯洋违法",
+        "onboard_time": 1762917980,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132975,
+        "num": 132975,
+        "word": "盛夏芬德拉女主回应火了",
+        "onboard_time": 1762908322,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131842,
+        "num": 131842,
+        "word": "朱一龙获最佳男主角提名",
+        "onboard_time": 1762909340,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124403,
+        "num": 124403,
+        "word": "凤凰台上官宣定档",
+        "onboard_time": 1762913899,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226044,
+        "num": 124278,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166239,
+        "num": 124129,
+        "word": "新闻联播2秒展示什么叫领先全球",
+        "onboard_time": 1762920500,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138585,
+        "num": 123946,
+        "word": "敖子逸没有工作室",
+        "onboard_time": 1762916600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136853,
+        "num": 123751,
+        "word": "A股",
+        "onboard_time": 1762918581,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127519,
+        "num": 123639,
+        "word": "范丞丞宋雨琦互换衣服太精彩了",
+        "onboard_time": 1762918520,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123479,
+        "num": 123479,
+        "word": "睡眠超9小时也可能有害",
+        "onboard_time": 1762906761,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120898,
+        "num": 120898,
+        "word": "双11手机最终排名出炉",
+        "onboard_time": 1762915758,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113872,
+        "num": 113872,
+        "word": "折月亮",
+        "onboard_time": 1762915459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49001,
+        "num": 113167,
+        "word": "孙颖莎的榜样效应",
+        "onboard_time": 1762920979,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52076,
+        "num": 112944,
+        "word": "郭宇欣出名前住800一月的隔断间",
+        "onboard_time": 1762921222,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112793,
+        "num": 112793,
+        "word": "何炅 那英你搁这当艺统呢",
+        "onboard_time": 1762919120,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110257,
+        "num": 110257,
+        "word": "日本惊悚片8号出口官宣引进",
+        "onboard_time": 1762919300,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107748,
+        "num": 107748,
+        "word": "孙燕姿两年前就预言了AI",
+        "onboard_time": 1762921042,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104752,
+        "num": 104752,
+        "word": "会长是女仆大人终于发糖了",
+        "onboard_time": 1762921100,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103861,
+        "num": 103861,
+        "word": "真的建议停止碎片化护肤",
+        "onboard_time": 1762921643,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102101,
+        "num": 102101,
+        "word": "黄梦莹疯批女主强制恨",
+        "onboard_time": 1762921760,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98701,
+        "num": 98701,
+        "word": "原来七年之痒是有依据的",
+        "onboard_time": 1762921581,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 97801,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96839,
+        "num": 96839,
+        "word": "剖腹产第一次下床时的真实状态",
+        "onboard_time": 1762919240,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 67109,
+        "num": 95950,
+        "word": "四川红旗桥垮塌后只剩左岸桥体",
+        "onboard_time": 1762919721,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}

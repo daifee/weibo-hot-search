@@ -1,7 +1,15 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762918450730,
+  "endTime": 1762921928366,
   "band_list": [
+    {
+      "raw_hot": 1349620,
+      "num": 169906,
+      "word": "乔欣淡圈后的生活",
+      "onboard_time": 1762919839,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1147547,
       "num": 171280,
@@ -9,6 +17,14 @@
       "onboard_time": 1762910540,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1134557,
+      "num": 1181529,
+      "word": "陈天润新微博",
+      "onboard_time": 1762919721,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 873165,
@@ -43,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 519451,
+      "num": 519451,
+      "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+      "onboard_time": 1762918581,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504496,
       "num": 161623,
       "word": "不要再叫我们阿三了",
@@ -57,6 +81,14 @@
       "onboard_time": 1762909340,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 484621,
+      "num": 484621,
+      "word": "2025爱奇艺尖叫之夜官宣",
+      "onboard_time": 1762915400,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 463450,
@@ -75,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448731,
-      "num": 448731,
-      "word": "2025爱奇艺尖叫之夜官宣",
-      "onboard_time": 1762915400,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 447478,
+      "num": 169264,
+      "word": "张雪峰晒戒指回应传闻",
+      "onboard_time": 1762918880,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 439886,
@@ -115,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409941,
+      "num": 409941,
+      "word": "解放军巷战演习旁边大鷄排摊位亮了",
+      "onboard_time": 1762918160,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 399015,
       "num": 169315,
       "word": "王一博代言UGG",
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 391581,
-      "num": 167759,
+      "num": 168975,
       "word": "金价",
       "onboard_time": 1762912819,
       "rank": 24,
@@ -211,6 +251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 294595,
+      "num": 294595,
+      "word": "BLG管理层力保ELK迫使ON离队",
+      "onboard_time": 1762919601,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288606,
       "num": 131040,
       "word": "向太回应李连杰状态回春",
@@ -259,12 +307,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 236825,
+      "num": 203026,
+      "word": "唐诡3把观众写进剧里",
+      "onboard_time": 1762917020,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235455,
       "num": 215336,
       "word": "小力士第一",
       "onboard_time": 1762913899,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226044,
+      "num": 124278,
+      "word": "店主把小蛋糕的成本都写上了",
+      "onboard_time": 1762921820,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 225068,
@@ -283,20 +347,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214128,
-      "num": 189783,
-      "word": "唐诡3把观众写进剧里",
-      "onboard_time": 1762917020,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211699,
-      "num": 182582,
+      "num": 201529,
       "word": "韩国小朋友第一次见生烤盲鳗",
       "onboard_time": 1762912699,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 205587,
+      "num": 205587,
+      "word": "陈梦vs何卓佳",
+      "onboard_time": 1762920080,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 205295,
@@ -313,6 +377,22 @@
       "onboard_time": 1762904059,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200266,
+      "num": 200266,
+      "word": "华晨宇 0分一人一个",
+      "onboard_time": 1762921282,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198221,
+      "num": 198221,
+      "word": "国产剧终于癫成我想看的样子了",
+      "onboard_time": 1762919540,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 195741,
@@ -387,6 +467,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170579,
+      "num": 170579,
+      "word": "麻六记一门店被集体投诉",
+      "onboard_time": 1762918759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168635,
+      "num": 168635,
+      "word": "秦昊把成毅认成陈坤",
+      "onboard_time": 1762921042,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166297,
       "num": 105104,
       "word": "特朗普回应高市早苗涉台错误言论",
@@ -395,12 +491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166239,
+      "num": 124129,
+      "word": "新闻联播2秒展示什么叫领先全球",
+      "onboard_time": 1762920500,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165824,
       "num": 165824,
       "word": "暴打九旬老母突破人伦必须严惩",
       "onboard_time": 1762881736,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163274,
+      "num": 163274,
+      "word": "需要焯水才能吃的食物",
+      "onboard_time": 1762917859,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160440,
@@ -459,6 +571,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145323,
+      "num": 145323,
+      "word": "台当局警告转发大陆要抓沈伯洋违法",
+      "onboard_time": 1762917980,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136853,
+      "num": 123751,
+      "word": "A股",
+      "onboard_time": 1762918581,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136660,
       "num": 136660,
       "word": "谢娜决定七个一起挂",
@@ -515,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127519,
+      "num": 123639,
+      "word": "范丞丞宋雨琦互换衣服太精彩了",
+      "onboard_time": 1762918520,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "iPhone18系列前瞻",
@@ -537,14 +673,6 @@
       "onboard_time": 1762915758,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119624,
-      "num": 119624,
-      "word": "需要焯水才能吃的食物",
-      "onboard_time": 1762917859,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 118321,
@@ -571,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112793,
+      "num": 112793,
+      "word": "何炅 那英你搁这当艺统呢",
+      "onboard_time": 1762919120,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112648,
       "num": 147084,
       "word": "库里垫脚",
@@ -595,12 +731,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "日本惊悚片8号出口官宣引进",
+      "onboard_time": 1762919300,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107748,
+      "num": 107748,
+      "word": "孙燕姿两年前就预言了AI",
+      "onboard_time": 1762921042,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104752,
+      "num": 104752,
+      "word": "会长是女仆大人终于发糖了",
+      "onboard_time": 1762921100,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104116,
       "num": 104116,
       "word": "小米成双11国产手机销量第一",
       "onboard_time": 1762914739,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103861,
+      "num": 103861,
+      "word": "真的建议停止碎片化护肤",
+      "onboard_time": 1762921643,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 103744,
@@ -617,6 +785,22 @@
       "onboard_time": 1762915758,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102101,
+      "num": 102101,
+      "word": "黄梦莹疯批女主强制恨",
+      "onboard_time": 1762921760,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100099,
+      "num": 164904,
+      "word": "男子暴打92岁母亲被刑拘",
+      "onboard_time": 1762921643,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99522,
@@ -643,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98701,
+      "num": 98701,
+      "word": "原来七年之痒是有依据的",
+      "onboard_time": 1762921581,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97664,
       "num": 97664,
       "word": "秋冬大衣穿搭公式",
@@ -657,6 +849,14 @@
       "onboard_time": 1762902017,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96839,
+      "num": 96839,
+      "word": "剖腹产第一次下床时的真实状态",
+      "onboard_time": 1762919240,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 95788,
@@ -835,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75219,
+      "num": 170427,
+      "word": "今年双十一首次延长至14日",
+      "onboard_time": 1762920260,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73876,
       "num": 105092,
       "word": "金鸡奖",
@@ -939,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67109,
+      "num": 95950,
+      "word": "四川红旗桥垮塌后只剩左岸桥体",
+      "onboard_time": 1762919721,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65862,
       "num": 105270,
       "word": "高校回应为职工解决编制设萝卜岗",
@@ -953,14 +1169,6 @@
       "onboard_time": 1762908322,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64647,
-      "num": 109681,
-      "word": "台当局警告转发大陆要抓沈伯洋违法",
-      "onboard_time": 1762917980,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63768,
@@ -1059,6 +1267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52076,
+      "num": 112944,
+      "word": "郭宇欣出名前住800一月的隔断间",
+      "onboard_time": 1762921222,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49001,
+      "num": 113167,
+      "word": "孙颖莎的榜样效应",
+      "onboard_time": 1762920979,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48140,
       "num": 105068,
       "word": "暴走团现身香港",
@@ -1105,14 +1329,6 @@
       "onboard_time": 1762917561,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45058,
-      "num": 158056,
-      "word": "解放军巷战演习旁边大鷄排摊位亮了",
-      "onboard_time": 1762918160,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44955,
@@ -1176,6 +1392,14 @@
       "word": "巴赫盛赞全运会",
       "onboard_time": 1762913359,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29118,
+      "num": 494417,
+      "word": "13岁小将打破沉寂13年纪录",
+      "onboard_time": 1762866681,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1249,6 +1473,9 @@
     },
     {
       "word": "#总书记心系体育强国梦#"
+    },
+    {
+      "word": "#70秒看习近平的海南广东行#"
     }
   ]
 }
