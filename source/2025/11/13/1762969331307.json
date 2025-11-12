@@ -1,0 +1,410 @@
+{
+  "runTime": 1762969331307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 160501,
+        "num": 361114,
+        "word": "唐诡3第9集10分15秒",
+        "onboard_time": 1762951522,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94324,
+        "num": 94324,
+        "word": "孙杨因犯规被取消成绩",
+        "onboard_time": 1762950323,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9134,
+        "num": 70763,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112434,
+        "num": 66165,
+        "word": "穆祉丞 星辰大海",
+        "onboard_time": 1762953141,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57620,
+        "num": 57620,
+        "word": "狼队转会",
+        "onboard_time": 1762953441,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55416,
+        "num": 55416,
+        "word": "北京极光",
+        "onboard_time": 1762957701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49142,
+        "num": 49142,
+        "word": "卢凌风 李奈儿",
+        "onboard_time": 1762950323,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46448,
+        "num": 46448,
+        "word": "全运会乒乓球男单八强对阵",
+        "onboard_time": 1762960941,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44303,
+        "num": 46446,
+        "word": "小学生每天花6小时运营小天才账号",
+        "onboard_time": 1762948581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39391,
+        "num": 46413,
+        "word": "无印良品 过度包装",
+        "onboard_time": 1762948341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290432,
+        "num": 46389,
+        "word": "续面事件老板回应被女顾客起诉",
+        "onboard_time": 1762962800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132452,
+        "num": 46375,
+        "word": "南宁地铁站称已对涉事区域进行消杀",
+        "onboard_time": 1762961361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 46360,
+        "word": "丈夫结扎9个月后妻子又怀孕",
+        "onboard_time": 1762955664,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32001,
+        "num": 46328,
+        "word": "缅甸亚太新城犯罪集团主犯引渡回国",
+        "onboard_time": 1762958722,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117737,
+        "num": 46321,
+        "word": "小孩试戴金镯子10秒被要求赔偿千元",
+        "onboard_time": 1762954582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66439,
+        "num": 46290,
+        "word": "章泽天尽量每天7点起床",
+        "onboard_time": 1762957404,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63478,
+        "num": 46279,
+        "word": "离婚证后面有囍字",
+        "onboard_time": 1762933941,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53219,
+        "num": 46249,
+        "word": "这才是可以生孩子的家庭",
+        "onboard_time": 1762958061,
+        "rank": 17,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 39803,
+        "num": 46223,
+        "word": "唐朝诡事录之长安22.9%",
+        "onboard_time": 1762960699,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 46198,
+        "word": "六公主镜头下的李柯以韩雨彤",
+        "onboard_time": 1762964360,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120423,
+        "num": 46192,
+        "word": "梅尼耶要结婚了",
+        "onboard_time": 1762953141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46174,
+        "num": 46174,
+        "word": "男子溺亡被同伴运回家摆成睡姿",
+        "onboard_time": 1762949781,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112454,
+        "num": 46162,
+        "word": "朱媛媛去世六个月辛柏青状态",
+        "onboard_time": 1762946959,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54389,
+        "num": 46141,
+        "word": "伊能静回应恩利唱情非得已",
+        "onboard_time": 1762965498,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32044,
+        "num": 46118,
+        "word": "日本敢介入台海吗",
+        "onboard_time": 1762956024,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42139,
+        "num": 46104,
+        "word": "王男王广",
+        "onboard_time": 1762954702,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40362,
+        "num": 46091,
+        "word": "白鹿庆祝与呵呵十周年",
+        "onboard_time": 1762949781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39346,
+        "num": 46063,
+        "word": "情侣是一种很诡异的亲密关系",
+        "onboard_time": 1762959443,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33895,
+        "num": 46040,
+        "word": "林一卢昱晓杀青视频",
+        "onboard_time": 1762968316,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35981,
+        "num": 46030,
+        "word": "女子借900万给小20岁男模男友",
+        "onboard_time": 1762956982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35618,
+        "num": 45999,
+        "word": "眼镜应该戴戴停停还是长久戴",
+        "onboard_time": 1762955122,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34179,
+        "num": 45978,
+        "word": "张艺兴全包眼线",
+        "onboard_time": 1762952121,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32221,
+        "num": 45966,
+        "word": "张博恒全运会男团亚军",
+        "onboard_time": 1762960640,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34175,
+        "num": 45953,
+        "word": "东北一男子因好奇养澳大利亚鸸鹋",
+        "onboard_time": 1762967597,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33836,
+        "num": 45923,
+        "word": "时代少年团 花车",
+        "onboard_time": 1762957883,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32652,
+        "num": 45914,
+        "word": "张艺兴直播",
+        "onboard_time": 1762969096,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31713,
+        "num": 45887,
+        "word": "迈克尔杰克逊女儿已戒毒6年",
+        "onboard_time": 1762967476,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29390,
+        "num": 45879,
+        "word": "郑秀妍连续四年为王紫璇庆生",
+        "onboard_time": 1762965078,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28465,
+        "num": 45860,
+        "word": "反杀狗主人女儿称父亲系自卫",
+        "onboard_time": 1762966876,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27888,
+        "num": 45835,
+        "word": "李克勤回应岳父和妻弟断绝关系",
+        "onboard_time": 1762953321,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26180,
+        "num": 45810,
+        "word": "孙杨说心态崩了",
+        "onboard_time": 1762960400,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24748,
+        "num": 45797,
+        "word": "奔跑吧回应路透",
+        "onboard_time": 1762954582,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24714,
+        "num": 45775,
+        "word": "宁波机场回应女子候机大厅抽电子烟",
+        "onboard_time": 1762968018,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23566,
+        "num": 45762,
+        "word": "广东男篮金牌",
+        "onboard_time": 1762953501,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22461,
+        "num": 45733,
+        "word": "第一次见反向供暖暖气",
+        "onboard_time": 1762963519,
+        "rank": 44,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 22139,
+        "num": 45711,
+        "word": "折月亮杀青特辑",
+        "onboard_time": 1762968618,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21819,
+        "num": 45694,
+        "word": "王楚钦问黄镇廷怎么一到大赛就兴奋",
+        "onboard_time": 1762959862,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21617,
+        "num": 45678,
+        "word": "女子沉迷领导力培训后性情大变",
+        "onboard_time": 1762958302,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21396,
+        "num": 45650,
+        "word": "王曼昱十五运8强",
+        "onboard_time": 1762967597,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19652,
+        "num": 45637,
+        "word": "30秒延时看绝美极光",
+        "onboard_time": 1762965138,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平欢迎西班牙国王访华#"
+    }
+  }
+}

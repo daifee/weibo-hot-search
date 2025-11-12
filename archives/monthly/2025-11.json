@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762968372574,
+  "endTime": 1762969331307,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -41179,6 +41179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34175,
+      "num": 72193,
+      "word": "东北一男子因好奇养澳大利亚鸸鹋",
+      "onboard_time": 1762967597,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34142,
       "num": 77640,
       "word": "乐华娱乐再度大跌",
@@ -41217,6 +41225,14 @@
       "onboard_time": 1762588880,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33895,
+      "num": 72152,
+      "word": "林一卢昱晓杀青视频",
+      "onboard_time": 1762968316,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 33878,
@@ -41353,6 +41369,14 @@
       "onboard_time": 1762928899,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32652,
+      "num": 45914,
+      "word": "张艺兴直播",
+      "onboard_time": 1762969096,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 32642,
@@ -41744,14 +41768,6 @@
       "word": "南京一初中生疑运动会跑200米猝死",
       "onboard_time": 1762429102,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29710,
-      "num": 72193,
-      "word": "东北一男子因好奇养澳大利亚鸸鹋",
-      "onboard_time": 1762967597,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -42387,6 +42403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 24714,
+      "num": 72167,
+      "word": "宁波机场回应女子候机大厅抽电子烟",
+      "onboard_time": 1762968018,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24660,
       "num": 72170,
       "word": "全运会湖北U20男足金牌",
@@ -42401,14 +42425,6 @@
       "onboard_time": 1762428621,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24504,
-      "num": 72167,
-      "word": "宁波机场回应女子候机大厅抽电子烟",
-      "onboard_time": 1762968018,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24419,
@@ -42571,14 +42587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23358,
-      "num": 72152,
-      "word": "林一卢昱晓杀青视频",
-      "onboard_time": 1762968316,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23335,
       "num": 99079,
       "word": "双11购物消费者成了精算师",
@@ -42689,6 +42697,14 @@
       "onboard_time": 1762856480,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22139,
+      "num": 45711,
+      "word": "折月亮杀青特辑",
+      "onboard_time": 1762968618,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 22054,
