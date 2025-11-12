@@ -1,0 +1,410 @@
+{
+  "runTime": 1762925277324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814078,
+        "num": 1130252,
+        "word": "郑钦文退出全运会",
+        "onboard_time": 1762923321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486949,
+        "num": 486949,
+        "word": "樊振东vs薛飞",
+        "onboard_time": 1762922900,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22838,
+        "num": 382197,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373711,
+        "num": 373711,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372961,
+        "num": 372961,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261860,
+        "num": 261860,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221800,
+        "num": 221800,
+        "word": "BLG管理层力保ELK迫使ON离队",
+        "onboard_time": 1762919601,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216439,
+        "num": 216439,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206955,
+        "num": 206955,
+        "word": "麻六记一门店被集体投诉",
+        "onboard_time": 1762918759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181301,
+        "num": 181301,
+        "word": "陈梦vs何卓佳",
+        "onboard_time": 1762920080,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565985,
+        "num": 180715,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 389215,
+        "num": 180112,
+        "word": "新娘即将出场老太太想抢喜被制止",
+        "onboard_time": 1762922781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343387,
+        "num": 179348,
+        "word": "深圳已经发展成这样了吗",
+        "onboard_time": 1762922481,
+        "rank": 12,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 267113,
+        "num": 178305,
+        "word": "国产剧终于癫成我想看的样子了",
+        "onboard_time": 1762919540,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251784,
+        "num": 177001,
+        "word": "樊振东11比2薛飞",
+        "onboard_time": 1762924221,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232570,
+        "num": 176369,
+        "word": "华晨宇 0分一人一个",
+        "onboard_time": 1762921282,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175737,
+        "num": 175737,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157903,
+        "num": 175720,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1762924341,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 175352,
+        "word": "唐诡3把观众写进剧里",
+        "onboard_time": 1762917020,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45006,
+        "num": 175064,
+        "word": "华为见非凡对话马岩松谈阳光权",
+        "onboard_time": 1762923981,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1084327,
+        "num": 174817,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526532,
+        "num": 174528,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477330,
+        "num": 174424,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468411,
+        "num": 173999,
+        "word": "邓超晒照为儿子庆生",
+        "onboard_time": 1762923501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261860,
+        "num": 173792,
+        "word": "每天喝咖啡vs从来不喝咖啡",
+        "onboard_time": 1762924580,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264558,
+        "num": 173639,
+        "word": "陈天润工作室",
+        "onboard_time": 1762912999,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255405,
+        "num": 173269,
+        "word": "ally因整容擤不出鼻涕",
+        "onboard_time": 1762923801,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 173162,
+        "word": "孙燕姿两年前就预言了AI",
+        "onboard_time": 1762921042,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79000,
+        "num": 172848,
+        "word": "美媒称英美情报共享出现重大决裂",
+        "onboard_time": 1762923620,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185438,
+        "num": 172617,
+        "word": "真的建议停止碎片化护肤",
+        "onboard_time": 1762921643,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172508,
+        "num": 172508,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170393,
+        "num": 170393,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1762921100,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396432,
+        "num": 169809,
+        "word": "张雪峰晒戒指回应传闻",
+        "onboard_time": 1762918880,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164948,
+        "num": 164948,
+        "word": "樊振东4比1薛飞",
+        "onboard_time": 1762925000,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157996,
+        "num": 157996,
+        "word": "曾中1200w彩票幸运儿钱被骗光",
+        "onboard_time": 1762924879,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134438,
+        "num": 134438,
+        "word": "郑钦文右肘关节未完全恢复",
+        "onboard_time": 1762924700,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105649,
+        "num": 134009,
+        "word": "offer主持人季冠军庞铮",
+        "onboard_time": 1762922180,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22943,
+        "num": 133634,
+        "word": "吹牛老爹入狱照",
+        "onboard_time": 1762924821,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 133312,
+        "word": "张峻豪感谢薛之谦",
+        "onboard_time": 1762924942,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31523,
+        "num": 132242,
+        "word": "四川阿坝红旗桥垮塌原因公布",
+        "onboard_time": 1762925061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132186,
+        "num": 132186,
+        "word": "葛夕回应复合传闻",
+        "onboard_time": 1762924762,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119735,
+        "num": 119735,
+        "word": "四川阿坝垮塌红旗桥今年1月才建成",
+        "onboard_time": 1762915099,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117031,
+        "num": 117031,
+        "word": "韩国小朋友第一次见生烤盲鳗",
+        "onboard_time": 1762912699,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112296,
+        "num": 112296,
+        "word": "BLG有Elk保底续约Knight才是首要做的",
+        "onboard_time": 1762924641,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104897,
+        "num": 104897,
+        "word": "人就是会反反复复爱上同一个人",
+        "onboard_time": 1762922481,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35180,
+        "num": 104617,
+        "word": "乌方晒成捆现金诱惑俄战机飞行员",
+        "onboard_time": 1762923740,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104398,
+        "num": 104398,
+        "word": "杨志刚 爽文男主",
+        "onboard_time": 1762922180,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100164,
+        "num": 100164,
+        "word": "秦昊把成毅认成陈坤",
+        "onboard_time": 1762921042,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74911,
+        "num": 95616,
+        "word": "又让时代峰峻押中题了",
+        "onboard_time": 1762923620,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95226,
+        "num": 95226,
+        "word": "唐诡唯一TOP是方丈",
+        "onboard_time": 1762925239,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}

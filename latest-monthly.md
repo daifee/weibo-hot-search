@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 12:46:24
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 13:27:57
 </p>
 </blockquote>
 <p>
@@ -1055,6 +1055,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%23" target="weibo">
 中方强烈抗议高市早苗涉台错误言行（热度：819224）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
+郑钦文退出全运会（热度：814078）
 </a>
 </li>
 
@@ -2145,6 +2151,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
+店主把小蛋糕的成本都写上了（热度：565985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%B1%A0%E9%A2%96%E7%A6%BB%E4%B8%96%23" target="weibo">
 著名音乐人屠颖离世（热度：565331）
 </a>
@@ -2805,6 +2817,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E8%96%9B%E9%A3%9E%23" target="weibo">
+樊振东vs薛飞（热度：486949）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E8%AF%B8%E6%9A%A8%E9%BA%BB%E7%B3%8D%E5%A5%B6%E5%A5%B6%E9%81%87%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
 浙江诸暨麻糍奶奶遇车祸去世（热度：486893）
 </a>
@@ -2895,6 +2913,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%8C%E7%9C%BC%E7%9A%AE%23" target="weibo">
+关晓彤双眼皮（热度：477330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8D%81%E4%BA%94%E8%BF%90%E9%A6%96%E9%87%91%23" target="weibo">
 全红婵十五运首金（热度：477030）
 </a>
@@ -2963,6 +2987,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E6%9F%A5%E7%90%86%E8%8B%8F%E6%8D%A2%E9%85%8D%E9%9F%B3%23" target="weibo">
 光与夜之恋 查理苏换配音（热度：468469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E7%85%A7%E4%B8%BA%E5%84%BF%E5%AD%90%E5%BA%86%E7%94%9F%23" target="weibo">
+邓超晒照为儿子庆生（热度：468411）
 </a>
 </li>
 
@@ -3747,6 +3777,12 @@ Ruler失利之后哭了（热度：403914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%8D%B3%E5%B0%86%E5%87%BA%E5%9C%BA%E8%80%81%E5%A4%AA%E5%A4%AA%E6%83%B3%E6%8A%A2%E5%96%9C%E8%A2%AB%E5%88%B6%E6%AD%A2%23" target="weibo">
+新娘即将出场老太太想抢喜被制止（热度：389215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E6%98%8A%E7%84%B6%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%91%E4%BB%AC%E5%94%AE%E5%90%8E%23" target="weibo">
 谭松韵刘昊然最好的我们售后（热度：388196）
 </a>
@@ -3959,6 +3995,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A5%BD%E4%BA%89%E6%B0%94%23" target="weibo">
 单依纯好争气（热度：373007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子暴打92岁母亲被刑拘（热度：372961）
 </a>
 </li>
 
@@ -4401,6 +4443,12 @@ iPhone18Pro系列前瞻（热度：345250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23" target="weibo">
+深圳已经发展成这样了吗（热度：343387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E8%87%AA%E6%8B%8D%E9%85%8D%E6%96%87%E6%88%90%E9%83%BD%23" target="weibo">
 Faker自拍配文成都（热度：342872）
 </a>
@@ -4643,12 +4691,6 @@ KK园区已被严重破坏（热度：332604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E7%BF%BB%E7%9B%98%23" target="weibo">
 T1翻盘（热度：328806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
-店主把小蛋糕的成本都写上了（热度：328675）
 </a>
 </li>
 
@@ -5859,6 +5901,12 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1vs%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
+每天喝咖啡vs从来不喝咖啡（热度：261860）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8CApp%E8%BF%8E%E6%9D%A5%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
 银行App迎来关停潮（热度：261455）
 </a>
@@ -5963,54 +6011,6 @@ Kanavi失误（热度：258593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB%23" target="weibo">
 医院回应网传副院长出轨眼科主任（热度：257404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%AA%E5%A9%9A%E6%88%91%E5%8D%AB%E9%9F%AB%23" target="weibo">
-你未婚我卫韫（热度：257268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DRG%E6%97%A9%E7%82%B9%20%E5%9B%9E%E5%AE%B6%E5%90%A7%23" target="weibo">
-DRG早点 回家吧（热度：256453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B4%B4%E8%BA%AB%E7%83%AD%E8%88%9E%23" target="weibo">
-谢娜王鹤棣贴身热舞（热度：255616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%23" target="weibo">
-医生眼中的生理性厌恶（热度：255221）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Chovy%E4%B8%96%E7%95%8C%E8%B5%9B%E6%88%90%E7%BB%A9%208884844%23" target="weibo">
-Chovy世界赛成绩 8884844（热度：254697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%AF%8D%E7%94%9F%E4%BA%A7%E5%B0%86%E8%BF%9B%E5%85%A5%E9%87%8F%E4%BA%A7%E9%98%B6%E6%AE%B5%23" target="weibo">
-航母生产将进入量产阶段（热度：254526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%20%E5%88%9A%E5%88%9A%E5%BC%80%E6%9C%BA%E4%BA%86%E5%90%97%23" target="weibo">
-陈哲远 刚刚开机了吗（热度：254314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC%E4%B8%80%E6%BB%B4%E6%B3%AA%E7%BB%99%E5%88%98%E5%8D%81%E5%85%AB%E5%88%98%E5%8D%81%E4%B9%9D%23" target="weibo">
-唐诡3第一滴泪给刘十八刘十九（热度：253796）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762922784129,
+  "endTime": 1762925277324,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -35,6 +35,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 814078,
+      "num": 1130252,
+      "word": "郑钦文退出全运会",
+      "onboard_time": 1762923321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 773787,
       "num": 262321,
       "word": "陈天润工作室",
@@ -57,6 +65,14 @@
       "onboard_time": 1762918581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565985,
+      "num": 260148,
+      "word": "店主把小蛋糕的成本都写上了",
+      "onboard_time": 1762921820,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 555611,
@@ -83,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 486949,
+      "num": 486949,
+      "word": "樊振东vs薛飞",
+      "onboard_time": 1762922900,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484621,
       "num": 484621,
       "word": "2025爱奇艺尖叫之夜官宣",
@@ -91,12 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477330,
+      "num": 192498,
+      "word": "关晓彤双眼皮",
+      "onboard_time": 1762922121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475716,
       "num": 193026,
       "word": "张雪峰晒戒指回应传闻",
       "onboard_time": 1762918880,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 468411,
+      "num": 173999,
+      "word": "邓超晒照为儿子庆生",
+      "onboard_time": 1762923501,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 463450,
@@ -171,6 +211,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 389215,
+      "num": 180112,
+      "word": "新娘即将出场老太太想抢喜被制止",
+      "onboard_time": 1762922781,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372961,
+      "num": 372961,
+      "word": "男子暴打92岁母亲被刑拘",
+      "onboard_time": 1762921643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -185,6 +241,14 @@
       "onboard_time": 1762913840,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 343387,
+      "num": 179348,
+      "word": "深圳已经发展成这样了吗",
+      "onboard_time": 1762922481,
+      "rank": 36,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 340843,
@@ -209,14 +273,6 @@
       "onboard_time": 1762872982,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328675,
-      "num": 260148,
-      "word": "店主把小蛋糕的成本都写上了",
-      "onboard_time": 1762921820,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 326735,
@@ -323,11 +379,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261860,
+      "num": 173792,
+      "word": "每天喝咖啡vs从来不喝咖啡",
+      "onboard_time": 1762924580,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
       "onboard_time": 1762908981,
       "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 255405,
+      "num": 173269,
+      "word": "ally因整容擤不出鼻涕",
+      "onboard_time": 1762923801,
+      "rank": 26,
       "category": "网红"
     },
     {
@@ -339,12 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235487,
-      "num": 192498,
-      "word": "关晓彤双眼皮",
-      "onboard_time": 1762922121,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 251784,
+      "num": 177001,
+      "word": "樊振东11比2薛飞",
+      "onboard_time": 1762924221,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 235455,
@@ -355,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226650,
+      "raw_hot": 232570,
       "num": 226650,
       "word": "华晨宇 0分一人一个",
       "onboard_time": 1762921282,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226399,
+      "num": 173162,
+      "word": "孙燕姿两年前就预言了AI",
+      "onboard_time": 1762921042,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 225068,
@@ -459,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185438,
+      "num": 172617,
+      "word": "真的建议停止碎片化护肤",
+      "onboard_time": 1762921643,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 183815,
       "num": 169857,
       "word": "八仙子",
@@ -489,6 +577,14 @@
       "onboard_time": 1762869801,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170393,
+      "num": 170393,
+      "word": "恭喜你发明了劳务派遣",
+      "onboard_time": 1762921100,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 168046,
@@ -523,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164948,
+      "num": 164948,
+      "word": "樊振东4比1薛飞",
+      "onboard_time": 1762925000,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164056,
       "num": 164056,
       "word": "需要焯水才能吃的食物",
@@ -555,20 +659,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158738,
-      "num": 158738,
-      "word": "真的建议停止碎片化护肤",
-      "onboard_time": 1762921643,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 158722,
       "num": 158722,
       "word": "双十一期间多名主播喊破了肺泡",
       "onboard_time": 1762872322,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157996,
+      "num": 157996,
+      "word": "曾中1200w彩票幸运儿钱被骗光",
+      "onboard_time": 1762924879,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157903,
+      "num": 175720,
+      "word": "张杰跨年演唱会",
+      "onboard_time": 1762924341,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 156219,
@@ -643,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134438,
+      "num": 134438,
+      "word": "郑钦文右肘关节未完全恢复",
+      "onboard_time": 1762924700,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134208,
       "num": 134208,
       "word": "自称退役军人用低俗舞蹈吸引打赏",
@@ -667,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132186,
+      "num": 132186,
+      "word": "葛夕回应复合传闻",
+      "onboard_time": 1762924762,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131361,
       "num": 131361,
       "word": "人就是会反反复复爱上同一个人",
@@ -683,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127840,
-      "num": 127840,
-      "word": "恭喜你发明了劳务派遣",
-      "onboard_time": 1762921100,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127519,
       "num": 123639,
       "word": "范丞丞宋雨琦互换衣服太精彩了",
@@ -705,14 +825,6 @@
       "onboard_time": 1762922423,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125365,
-      "num": 125365,
-      "word": "深圳已经发展成这样了吗",
-      "onboard_time": 1762922481,
-      "rank": 36,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 124987,
@@ -739,14 +851,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 122069,
-      "num": 121911,
-      "word": "孙燕姿两年前就预言了AI",
-      "onboard_time": 1762921042,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "双11手机最终排名出炉",
@@ -761,14 +865,6 @@
       "onboard_time": 1762915039,
       "rank": 34,
       "category": "海外新闻,数码"
-    },
-    {
-      "raw_hot": 117630,
-      "num": 266470,
-      "word": "男子暴打92岁母亲被刑拘",
-      "onboard_time": 1762921643,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115132,
@@ -803,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112296,
+      "num": 112296,
+      "word": "BLG有Elk保底续约Knight才是首要做的",
+      "onboard_time": 1762924641,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111213,
       "num": 111213,
       "word": "迪丽热巴卫蓝疯批美人",
@@ -833,6 +937,14 @@
       "onboard_time": 1762921100,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104398,
+      "num": 122040,
+      "word": "杨志刚 爽文男主",
+      "onboard_time": 1762922180,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104116,
@@ -913,6 +1025,14 @@
       "onboard_time": 1762913959,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95226,
+      "num": 95226,
+      "word": "唐诡唯一TOP是方丈",
+      "onboard_time": 1762925239,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 94793,
@@ -1059,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79000,
+      "num": 172848,
+      "word": "美媒称英美情报共享出现重大决裂",
+      "onboard_time": 1762923620,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78739,
       "num": 78739,
       "word": "辞职在家全职照顾手机",
@@ -1099,12 +1227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75366,
+      "num": 133312,
+      "word": "张峻豪感谢薛之谦",
+      "onboard_time": 1762924942,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75219,
       "num": 193612,
       "word": "今年双十一首次延长至14日",
       "onboard_time": 1762920260,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74911,
+      "num": 95616,
+      "word": "又让时代峰峻押中题了",
+      "onboard_time": 1762923620,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 73876,
@@ -1259,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62631,
-      "num": 122040,
-      "word": "杨志刚 爽文男主",
-      "onboard_time": 1762922180,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 62069,
       "num": 105219,
       "word": "差点没认出来这是成龙",
@@ -1411,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45006,
+      "num": 175064,
+      "word": "华为见非凡对话马岩松谈阳光权",
+      "onboard_time": 1762923981,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44955,
       "num": 105057,
       "word": "叶诗文创亚洲纪录时于子迪还未出生",
@@ -1459,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35180,
+      "num": 104617,
+      "word": "乌方晒成捆现金诱惑俄战机飞行员",
+      "onboard_time": 1762923740,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34270,
       "num": 54763,
       "word": "丁禹兮山河枕卫视收视第一",
@@ -1473,6 +1625,14 @@
       "onboard_time": 1762913359,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31523,
+      "num": 132242,
+      "word": "四川阿坝红旗桥垮塌原因公布",
+      "onboard_time": 1762925061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30950,
@@ -1496,6 +1656,14 @@
       "word": "王一博宣传环保VCR",
       "onboard_time": 1762881856,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22943,
+      "num": 133634,
+      "word": "吹牛老爹入狱照",
+      "onboard_time": 1762924821,
+      "rank": 37,
       "category": "艺人"
     },
     {
