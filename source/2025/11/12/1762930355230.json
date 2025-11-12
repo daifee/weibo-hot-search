@@ -1,0 +1,410 @@
+{
+  "runTime": 1762930355230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 433745,
+        "num": 1069399,
+        "word": "郑钦文退出全运会",
+        "onboard_time": 1762923321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361071,
+        "num": 361071,
+        "word": "20岁在俄失联女留学生已离世",
+        "onboard_time": 1762925302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10560,
+        "num": 354621,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402509,
+        "num": 354454,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352372,
+        "num": 352372,
+        "word": "前DeepSeek研究员罗福莉已加入小米",
+        "onboard_time": 1762927220,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216812,
+        "num": 216812,
+        "word": "陈梦4比0胜何卓佳",
+        "onboard_time": 1762926623,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209200,
+        "num": 209200,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159684,
+        "num": 159684,
+        "word": "孙颖莎11比7王晓彤",
+        "onboard_time": 1762926501,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144763,
+        "num": 144763,
+        "word": "樊振东vs薛飞",
+        "onboard_time": 1762922900,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135347,
+        "num": 135347,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475201,
+        "num": 134998,
+        "word": "曾中1200w彩票幸运儿钱被骗光",
+        "onboard_time": 1762924879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452489,
+        "num": 134059,
+        "word": "乔欣 现实版的曲筱绡",
+        "onboard_time": 1762927701,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368222,
+        "num": 133422,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 255651,
+        "num": 132000,
+        "word": "陈天润 演员",
+        "onboard_time": 1762925480,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232701,
+        "num": 131179,
+        "word": "新娘即将出场老太太想抢喜被制止",
+        "onboard_time": 1762922781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231924,
+        "num": 130299,
+        "word": "彭小苒换头像 端水大师",
+        "onboard_time": 1762928899,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205344,
+        "num": 128931,
+        "word": "深圳已经发展成这样了吗",
+        "onboard_time": 1762922481,
+        "rank": 16,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 128709,
+        "num": 128709,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100599,
+        "num": 128702,
+        "word": "凤凰台上OST",
+        "onboard_time": 1762926860,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 128675,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1762924341,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 790743,
+        "num": 128673,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615911,
+        "num": 128639,
+        "word": "刘俊昊 陈天润下海吗",
+        "onboard_time": 1762929980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334076,
+        "num": 128637,
+        "word": "ally因整容擤不出鼻涕",
+        "onboard_time": 1762923801,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283010,
+        "num": 128614,
+        "word": "葛夕回应复合传闻",
+        "onboard_time": 1762924762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265633,
+        "num": 128584,
+        "word": "邓超晒照为儿子庆生",
+        "onboard_time": 1762923501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251394,
+        "num": 128574,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215488,
+        "num": 128557,
+        "word": "每天喝咖啡vs从来不喝咖啡",
+        "onboard_time": 1762924580,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 128533,
+        "word": "宝宝刚办完百日宴腿上出现一排牙印",
+        "onboard_time": 1762930101,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54202,
+        "num": 128529,
+        "word": "岚图泰山出场9系重新洗牌",
+        "onboard_time": 1762928241,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86123,
+        "num": 128510,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161143,
+        "num": 128483,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147747,
+        "num": 128474,
+        "word": "王灿成功增肥15斤",
+        "onboard_time": 1762927220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128459,
+        "num": 128459,
+        "word": "朱婷一锤定音",
+        "onboard_time": 1762929621,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122899,
+        "num": 122899,
+        "word": "医生建议早餐重点补蛋白",
+        "onboard_time": 1762926381,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121141,
+        "num": 121141,
+        "word": "高市早苗被曝怂恿特朗普插手台海",
+        "onboard_time": 1762927580,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120457,
+        "num": 120457,
+        "word": "爸爸当家武艺高铁上教育熊孩子",
+        "onboard_time": 1762925660,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37501,
+        "num": 119505,
+        "word": "朱开直播称BLG恐将解散",
+        "onboard_time": 1762930221,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119310,
+        "num": 119310,
+        "word": "杨幂别回头别停留往前走",
+        "onboard_time": 1762925960,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64592,
+        "num": 118524,
+        "word": "于适登GQ香港版封面",
+        "onboard_time": 1762930101,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 84926,
+        "num": 118397,
+        "word": "小酒窝最近迷上了拼豆",
+        "onboard_time": 1762929621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118300,
+        "num": 118300,
+        "word": "陈梦11比9何卓佳",
+        "onboard_time": 1762929681,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113535,
+        "num": 113535,
+        "word": "曝Flandre尚未与AL续约",
+        "onboard_time": 1762929739,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102625,
+        "num": 102625,
+        "word": "终于明白外国人看李子柒的感觉了",
+        "onboard_time": 1762925602,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96096,
+        "num": 96096,
+        "word": "孙燕姿两年前就预言了AI",
+        "onboard_time": 1762921042,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32735,
+        "num": 95669,
+        "word": "Faker说从未有想过退役",
+        "onboard_time": 1762928899,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95447,
+        "num": 95447,
+        "word": "国产剧终于癫成我想看的样子了",
+        "onboard_time": 1762919540,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95169,
+        "num": 95169,
+        "word": "林高远晋级全运会八强",
+        "onboard_time": 1762928779,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94755,
+        "num": 94755,
+        "word": "BLG管理层力保ELK迫使ON离队",
+        "onboard_time": 1762919601,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88401,
+        "num": 88401,
+        "word": "霉霉伴娘团",
+        "onboard_time": 1762927101,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87930,
+        "num": 87930,
+        "word": "警方通报男子殴打92岁母亲",
+        "onboard_time": 1762927220,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}

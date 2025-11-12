@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 14:39:27
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 14:52:35
 </p>
 </blockquote>
 <p>
@@ -1869,6 +1869,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BF%8A%E6%98%8A%20%E9%99%88%E5%A4%A9%E6%B6%A6%E4%B8%8B%E6%B5%B7%E5%90%97%23" target="weibo">
+刘俊昊 陈天润下海吗（热度：615911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%8D%E5%87%BA%E7%AC%AC%E4%B8%80%E8%B7%B3%23" target="weibo">
 全红婵复出第一跳（热度：615878）
 </a>
@@ -2949,6 +2955,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E4%B8%AD1200w%E5%BD%A9%E7%A5%A8%E5%B9%B8%E8%BF%90%E5%84%BF%E9%92%B1%E8%A2%AB%E9%AA%97%E5%85%89%23" target="weibo">
+曾中1200w彩票幸运儿钱被骗光（热度：475201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%AD%8F%E4%B8%96%E7%9A%93%23" target="weibo">
 王楚钦vs魏世皓（热度：474391）
 </a>
@@ -3081,12 +3093,6 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E4%B8%AD1200w%E5%BD%A9%E7%A5%A8%E5%B9%B8%E8%BF%90%E5%84%BF%E9%92%B1%E8%A2%AB%E9%AA%97%E5%85%89%23" target="weibo">
-曾中1200w彩票幸运儿钱被骗光（热度：455481）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%BA%E4%B9%8F%E7%BB%B4%E7%94%9F%E7%B4%A0D%20%E6%8A%91%E9%83%81%E7%97%87%E7%8A%B6%23" target="weibo">
 缺乏维生素D 抑郁症状（热度：455164）
 </a>
@@ -3119,6 +3125,12 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6vs%E5%AD%99%E9%93%AD%E9%98%B3%23" target="weibo">
 陈梦vs孙铭阳（热度：452581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%20%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%9B%B2%E7%AD%B1%E7%BB%A1%23" target="weibo">
+乔欣 现实版的曲筱绡（热度：452489）
 </a>
 </li>
 
@@ -3651,6 +3663,12 @@ Ruler失利之后哭了（热度：403914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子暴打92岁母亲被刑拘（热度：402509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ally%E5%9B%A0%E6%95%B4%E5%AE%B9%E6%93%A4%E4%B8%8D%E5%87%BA%E9%BC%BB%E6%B6%95%23" target="weibo">
 ally因整容擤不出鼻涕（热度：402082）
 </a>
@@ -3917,12 +3935,6 @@ TF二三四代物料观看人数（热度：382301）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD%E9%80%A0%E5%9E%8B%23" target="weibo">
 杨紫直播造型（热度：381435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子暴打92岁母亲被刑拘（热度：381011）
 </a>
 </li>
 
@@ -4337,6 +4349,12 @@ AL（热度：358116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%AD%A6%E5%8A%9B%E7%BB%9F%E4%B8%80%E6%88%96%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%23" target="weibo">
 专家称美国用武力统一或是中国未来（热度：353130）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23" target="weibo">
+前DeepSeek研究员罗福莉已加入小米（热度：352372）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Cat即将回归赛场（热度：259607）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%91%E8%8E%93%E5%A4%8D%E5%87%BA%23" target="weibo">
 树莓复出（热度：258903）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%91%98%E5%B7%A5%E6%85%A2%E5%8A%A8%E4%BD%9C%E6%93%8D%E4%BD%9C%E6%8C%BD%E6%8D%9F18%E4%B8%87%23" target="weibo">
-金店员工慢动作操作挽损18万（热度：258842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E9%A2%84%E6%B5%8BS15%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%23" target="weibo">
-Faker预测S15决赛对手（热度：258662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Kanavi%E5%A4%B1%E8%AF%AF%23" target="weibo">
-Kanavi失误（热度：258593）
 </a>
 </li>
 

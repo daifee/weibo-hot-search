@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762929567417,
+  "endTime": 1762930355230,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2475,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 615911,
+      "num": 128639,
+      "word": "刘俊昊 陈天润下海吗",
+      "onboard_time": 1762929980,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615878,
       "num": 179628,
       "word": "全红婵复出第一跳",
@@ -3915,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 475201,
+      "num": 183385,
+      "word": "曾中1200w彩票幸运儿钱被骗光",
+      "onboard_time": 1762924879,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474391,
       "num": 474391,
       "word": "王楚钦vs魏世皓",
@@ -4091,14 +4107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 455481,
-      "num": 183385,
-      "word": "曾中1200w彩票幸运儿钱被骗光",
-      "onboard_time": 1762924879,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 455164,
       "num": 183486,
       "word": "缺乏维生素D 抑郁症状",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1762835661,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 452489,
+      "num": 149641,
+      "word": "乔欣 现实版的曲筱绡",
+      "onboard_time": 1762927701,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 451981,
@@ -4851,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402509,
+      "num": 372961,
+      "word": "男子暴打92岁母亲被刑拘",
+      "onboard_time": 1762921643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402082,
       "num": 200711,
       "word": "ally因整容擤不出鼻涕",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1762342399,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381011,
-      "num": 372961,
-      "word": "男子暴打92岁母亲被刑拘",
-      "onboard_time": 1762921643,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380192,
@@ -5769,6 +5785,14 @@
       "onboard_time": 1762477819,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352372,
+      "num": 352372,
+      "word": "前DeepSeek研究员罗福莉已加入小米",
+      "onboard_time": 1762927220,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 351514,
@@ -8811,6 +8835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231924,
+      "num": 149537,
+      "word": "彭小苒换头像 端水大师",
+      "onboard_time": 1762928899,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231673,
       "num": 231673,
       "word": "妻子说尿毒症丈夫生前一直为她做饭",
@@ -8865,14 +8897,6 @@
       "onboard_time": 1762611983,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 229668,
-      "num": 229668,
-      "word": "前DeepSeek研究员罗福莉已加入小米",
-      "onboard_time": 1762927220,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 229646,
@@ -10979,14 +11003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193781,
-      "num": 149641,
-      "word": "乔欣 现实版的曲筱绡",
-      "onboard_time": 1762927701,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193764,
       "num": 169005,
       "word": "惊天魔盗团3官宣黄子弘凡新身份",
@@ -12107,6 +12123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 180326,
+      "num": 128533,
+      "word": "宝宝刚办完百日宴腿上出现一排牙印",
+      "onboard_time": 1762930101,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180312,
       "num": 180312,
       "word": "微博视界大会直播",
@@ -13049,14 +13073,6 @@
       "onboard_time": 1762863621,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169500,
-      "num": 149537,
-      "word": "彭小苒换头像 端水大师",
-      "onboard_time": 1762928899,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 169373,
@@ -18635,6 +18651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128459,
+      "num": 128459,
+      "word": "朱婷一锤定音",
+      "onboard_time": 1762929621,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128456,
       "num": 128456,
       "word": "我最擅长的运动",
@@ -19883,6 +19907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122899,
+      "num": 122899,
+      "word": "医生建议早餐重点补蛋白",
+      "onboard_time": 1762926381,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122866,
       "num": 122866,
       "word": "人类寿命能超200岁吗",
@@ -20227,6 +20259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121141,
+      "num": 121141,
+      "word": "高市早苗被曝怂恿特朗普插手台海",
+      "onboard_time": 1762927580,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121107,
       "num": 121107,
       "word": "TOP 扫楼",
@@ -20355,12 +20395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120460,
-      "num": 120460,
-      "word": "高市早苗被曝怂恿特朗普插手台海",
-      "onboard_time": 1762927580,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 120457,
+      "num": 120457,
+      "word": "爸爸当家武艺高铁上教育熊孩子",
+      "onboard_time": 1762925660,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120421,
@@ -20753,6 +20793,14 @@
       "onboard_time": 1762915039,
       "rank": 34,
       "category": "海外新闻,数码"
+    },
+    {
+      "raw_hot": 118300,
+      "num": 118300,
+      "word": "陈梦11比9何卓佳",
+      "onboard_time": 1762929681,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 118244,
@@ -21713,6 +21761,14 @@
       "onboard_time": 1762253961,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113535,
+      "num": 113535,
+      "word": "曝Flandre尚未与AL续约",
+      "onboard_time": 1762929739,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 113486,
@@ -27107,6 +27163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95169,
+      "num": 95169,
+      "word": "林高远晋级全运会八强",
+      "onboard_time": 1762928779,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95151,
       "num": 89723,
       "word": "金晨黄景瑜这段我在张晚意那看过",
@@ -27681,14 +27745,6 @@
       "onboard_time": 1762927101,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93563,
-      "num": 93563,
-      "word": "医生建议早餐重点补蛋白",
-      "onboard_time": 1762926381,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93476,
@@ -28401,14 +28457,6 @@
       "onboard_time": 1762742901,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 91425,
-      "num": 91425,
-      "word": "爸爸当家武艺高铁上教育熊孩子",
-      "onboard_time": 1762925660,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 91368,
@@ -30795,6 +30843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84926,
+      "num": 118397,
+      "word": "小酒窝最近迷上了拼豆",
+      "onboard_time": 1762929621,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84905,
       "num": 84905,
       "word": "金饰价格跌回1187元",
@@ -30825,14 +30881,6 @@
       "onboard_time": 1762063821,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84815,
-      "num": 84815,
-      "word": "林高远晋级全运会八强",
-      "onboard_time": 1762928779,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 84794,
@@ -35307,6 +35355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64592,
+      "num": 118524,
+      "word": "于适登GQ香港版封面",
+      "onboard_time": 1762930101,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 64568,
       "num": 106959,
       "word": "累谁都不能累奶奶",
@@ -38827,6 +38883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37501,
+      "num": 119505,
+      "word": "朱开直播称BLG恐将解散",
+      "onboard_time": 1762930221,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37416,
       "num": 90939,
       "word": "家长上来推搡别人孩子",
@@ -39361,6 +39425,14 @@
       "onboard_time": 1762913359,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32735,
+      "num": 95669,
+      "word": "Faker说从未有想过退役",
+      "onboard_time": 1762928899,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 32623,
@@ -40089,14 +40161,6 @@
       "onboard_time": 1762587381,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26807,
-      "num": 94124,
-      "word": "Faker说从未有想过退役",
-      "onboard_time": 1762928899,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 26776,
