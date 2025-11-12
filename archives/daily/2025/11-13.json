@@ -1,0 +1,411 @@
+{
+  "startTime": 1762965368264,
+  "endTime": 1762965368264,
+  "band_list": [
+    {
+      "raw_hot": 641544,
+      "num": 641544,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 375788,
+      "num": 789726,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337660,
+      "num": 121343,
+      "word": "丈夫结扎9个月后妻子又怀孕",
+      "onboard_time": 1762955664,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337360,
+      "num": 120719,
+      "word": "小孩试戴金镯子10秒被要求赔偿千元",
+      "onboard_time": 1762954582,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302076,
+      "num": 105403,
+      "word": "梅尼耶要结婚了",
+      "onboard_time": 1762953141,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275506,
+      "num": 105215,
+      "word": "朱媛媛去世六个月辛柏青状态",
+      "onboard_time": 1762946959,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262648,
+      "num": 237238,
+      "word": "小天才电话手表已成社交硬通货",
+      "onboard_time": 1762954103,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247086,
+      "num": 120260,
+      "word": "这才是可以生孩子的家庭",
+      "onboard_time": 1762958061,
+      "rank": 12,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 244151,
+      "num": 244151,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207694,
+      "num": 207694,
+      "word": "北京极光",
+      "onboard_time": 1762957701,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202790,
+      "num": 120080,
+      "word": "续面事件老板回应被女顾客起诉",
+      "onboard_time": 1762962800,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187713,
+      "num": 187713,
+      "word": "穆祉丞 星辰大海",
+      "onboard_time": 1762953141,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150123,
+      "num": 119481,
+      "word": "离婚证后面有囍字",
+      "onboard_time": 1762933941,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134448,
+      "num": 119002,
+      "word": "章泽天尽量每天7点起床",
+      "onboard_time": 1762957404,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127842,
+      "num": 127842,
+      "word": "全运会乒乓球男单八强对阵",
+      "onboard_time": 1762960941,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123412,
+      "num": 118875,
+      "word": "王男王广",
+      "onboard_time": 1762954702,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121817,
+      "num": 121817,
+      "word": "卢凌风 李奈儿",
+      "onboard_time": 1762950323,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118502,
+      "num": 118502,
+      "word": "男子溺亡被同伴运回家摆成睡姿",
+      "onboard_time": 1762949781,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118024,
+      "num": 118024,
+      "word": "南宁地铁站称已对涉事区域进行消杀",
+      "onboard_time": 1762961361,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109241,
+      "num": 121665,
+      "word": "缅甸亚太新城犯罪集团主犯引渡回国",
+      "onboard_time": 1762958722,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102951,
+      "num": 102951,
+      "word": "孙杨说心态崩了",
+      "onboard_time": 1762960400,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79602,
+      "num": 79602,
+      "word": "王楚钦问黄镇廷怎么一到大赛就兴奋",
+      "onboard_time": 1762959862,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77853,
+      "num": 77853,
+      "word": "时代少年团 花车",
+      "onboard_time": 1762957883,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76008,
+      "num": 76008,
+      "word": "张博恒全运会男团亚军",
+      "onboard_time": 1762960640,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73767,
+      "num": 73767,
+      "word": "女子借900万给小20岁男模男友",
+      "onboard_time": 1762956982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72444,
+      "num": 72444,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 69740,
+      "num": 105646,
+      "word": "唐朝诡事录之长安22.9%",
+      "onboard_time": 1762960699,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69372,
+      "num": 75568,
+      "word": "唐诡金简 河南博物院",
+      "onboard_time": 1762956743,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68890,
+      "num": 68890,
+      "word": "白鹿庆祝与呵呵十周年",
+      "onboard_time": 1762949781,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65410,
+      "num": 65410,
+      "word": "眼镜应该戴戴停停还是长久戴",
+      "onboard_time": 1762955122,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65190,
+      "num": 74961,
+      "word": "敖子逸连发两百个不一样",
+      "onboard_time": 1762954041,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64041,
+      "num": 64041,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61698,
+      "num": 61698,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61461,
+      "num": 61461,
+      "word": "徐嘉余看见男仰突破比夺冠都高兴",
+      "onboard_time": 1762959922,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61199,
+      "num": 74449,
+      "word": "日本敢介入台海吗",
+      "onboard_time": 1762956024,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 60662,
+      "num": 60662,
+      "word": "无印良品 过度包装",
+      "onboard_time": 1762948341,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59779,
+      "num": 73966,
+      "word": "裴喜君情敌",
+      "onboard_time": 1762959862,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58963,
+      "num": 60662,
+      "word": "狼队转会",
+      "onboard_time": 1762953441,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 57291,
+      "num": 60656,
+      "word": "张艺兴全包眼线",
+      "onboard_time": 1762952121,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49111,
+      "num": 60656,
+      "word": "孙杨工作室发文",
+      "onboard_time": 1762961720,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47133,
+      "num": 60653,
+      "word": "第一次见反向供暖暖气",
+      "onboard_time": 1762963519,
+      "rank": 41,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 46977,
+      "num": 60648,
+      "word": "女子沉迷领导力培训后性情大变",
+      "onboard_time": 1762958302,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46809,
+      "num": 60645,
+      "word": "王楚钦给高杨签名",
+      "onboard_time": 1762962622,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42130,
+      "num": 60644,
+      "word": "沙溢宋雨琦 塔吉克族礼仪",
+      "onboard_time": 1762954161,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42091,
+      "num": 60639,
+      "word": "广东男篮金牌",
+      "onboard_time": 1762953501,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40870,
+      "num": 60635,
+      "word": "30秒延时看绝美极光",
+      "onboard_time": 1762965138,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40356,
+      "num": 60634,
+      "word": "六公主镜头下的李柯以韩雨彤",
+      "onboard_time": 1762964360,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 38092,
+      "num": 60630,
+      "word": "中国二手衣物在非洲成香饽饽",
+      "onboard_time": 1762959622,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37285,
+      "num": 60628,
+      "word": "奔跑吧回应路透",
+      "onboard_time": 1762954582,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12014,
+      "num": 311449,
+      "word": "十五五规划纲要问计求策",
+      "onboard_time": 1762957824,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平欢迎西班牙国王访华#"
+    }
+  ]
+}
