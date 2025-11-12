@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762940591890,
+  "endTime": 1762943460108,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1282795,
-      "num": 206718,
+      "num": 436368,
       "word": "离婚证后面有囍字",
       "onboard_time": 1762933941,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 798914,
-      "num": 220312,
+      "num": 411283,
       "word": "iPhone可以检测针孔摄像头",
       "onboard_time": 1762932920,
       "rank": 34,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686818,
+      "num": 1109891,
+      "word": "苏州一寺庙发生火灾",
+      "onboard_time": 1762939040,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 660717,
       "num": 1105714,
       "word": "Viper BLG",
       "onboard_time": 1762914381,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 643130,
-      "num": 643130,
-      "word": "苏州一寺庙发生火灾",
-      "onboard_time": 1762939040,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 615911,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 599891,
-      "num": 206231,
+      "num": 245550,
       "word": "日本人称吃米要用茶碗",
       "onboard_time": 1762933823,
       "rank": 17,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 580326,
-      "num": 186254,
+      "num": 230392,
       "word": "乔欣 现实版的曲筱绡",
       "onboard_time": 1762927701,
       "rank": 15,
@@ -131,6 +131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 567373,
+      "num": 439503,
+      "word": "江山为聘 拖欠工资",
+      "onboard_time": 1762939399,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565985,
       "num": 260148,
       "word": "店主把小蛋糕的成本都写上了",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 527440,
-      "num": 204004,
+      "num": 361406,
       "word": "狗咬人被摔死狗主人上门理论遭反杀",
       "onboard_time": 1762933100,
       "rank": 39,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 525293,
-      "num": 174932,
+      "num": 203221,
       "word": "辛柏青和李乃文再次现身大孤山",
       "onboard_time": 1762933459,
       "rank": 20,
@@ -201,6 +209,14 @@
       "onboard_time": 1762915400,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484210,
+      "num": 484210,
+      "word": "易烊千玺如果拿奖会打破刘烨的纪录",
+      "onboard_time": 1762939100,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 477330,
@@ -283,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431108,
+      "num": 431108,
+      "word": "影视飓风Tim相亲社死",
+      "onboard_time": 1762940001,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 430759,
       "num": 170438,
       "word": "花70万买了个阳台里的一室一厅",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 382969,
-      "num": 382969,
+      "num": 480910,
       "word": "肖战手里拿的是大湾鸡",
       "onboard_time": 1762936401,
       "rank": 34,
@@ -603,12 +627,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 258310,
-      "num": 201886,
-      "word": "江山为聘 拖欠工资",
-      "onboard_time": 1762939399,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 253845,
+      "num": 253845,
+      "word": "煎蛋和炸鸡其实是一种东西",
+      "onboard_time": 1762938500,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 252506,
@@ -643,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244966,
-      "num": 244966,
-      "word": "易烊千玺如果拿奖会打破刘烨的纪录",
-      "onboard_time": 1762939100,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235455,
       "num": 215336,
       "word": "小力士第一",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 225183,
-      "num": 225183,
+      "num": 460488,
       "word": "陈梦连场零封晋级8强",
       "onboard_time": 1762936281,
       "rank": 48,
@@ -753,6 +769,14 @@
       "onboard_time": 1762925541,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197030,
+      "num": 464933,
+      "word": "王鹤棣沈月时隔三年合体好六",
+      "onboard_time": 1762942823,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 196873,
@@ -947,6 +971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 162711,
+      "num": 162711,
+      "word": "方圆回应阿爆扮丑",
+      "onboard_time": 1762941023,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162472,
       "num": 136617,
       "word": "林静居然是汉武大帝的卫子夫",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1762872322,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158364,
-      "num": 158364,
-      "word": "影视飓风Tim相亲社死",
-      "onboard_time": 1762940001,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 157903,
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142027,
+      "num": 475798,
+      "word": "永庆寺 南朝四百八十寺",
+      "onboard_time": 1762942641,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "A股",
@@ -1123,20 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136638,
+      "num": 136638,
+      "word": "李兰迪疑似退出月都花落",
+      "onboard_time": 1762941739,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136350,
+      "num": 136350,
+      "word": "秦俊杰首部央一男主剧",
+      "onboard_time": 1762942880,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135982,
       "num": 135982,
       "word": "Milkyway 泄露BP",
       "onboard_time": 1762933701,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134888,
-      "num": 134888,
-      "word": "煎蛋和炸鸡其实是一种东西",
-      "onboard_time": 1762938500,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 134831,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1762927580,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130385,
+      "num": 130385,
+      "word": "西安多部门介入8岁女孩事件",
+      "onboard_time": 1762940720,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129060,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1762915758,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121321,
+      "num": 121321,
+      "word": "感受老祖宗留下来的非遗魅力",
+      "onboard_time": 1762942160,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 120457,
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105991,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105702,
       "num": 105702,
       "word": "马頔一个肥字触到潘玮柏逆鳞",
@@ -1595,20 +1659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101681,
+      "num": 118010,
+      "word": "干洗店店主建议羽绒服别买这些颜色",
+      "onboard_time": 1762939821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101652,
       "num": 173626,
       "word": "佟丽娅小酒窝出演金鸡奖开幕式短片",
       "onboard_time": 1762932861,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101148,
-      "num": 118010,
-      "word": "干洗店店主建议羽绒服别买这些颜色",
-      "onboard_time": 1762939821,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101058,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1762937121,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100335,
+      "num": 100335,
+      "word": "宁死不屈的苹果输入法",
+      "onboard_time": 1762941859,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 99522,
@@ -1779,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92200,
+      "num": 92200,
+      "word": "王安宇也是找到了副业",
+      "onboard_time": 1762942880,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92184,
       "num": 92184,
       "word": "陈乐和夫人确实已经分开",
@@ -1835,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90217,
+      "num": 90217,
+      "word": "苹果回应iPhone可以检测针孔摄像头",
+      "onboard_time": 1762942459,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 89323,
       "num": 89323,
       "word": "全红婵为撤场工人师傅签名",
@@ -1880,6 +1968,14 @@
       "word": "谈恋爱互补重要还是同频重要",
       "onboard_time": 1762938860,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87353,
+      "num": 87353,
+      "word": "阿凡达3 片长195分钟",
+      "onboard_time": 1762940479,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -1947,12 +2043,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 84404,
-      "num": 84404,
-      "word": "阿凡达3 片长195分钟",
-      "onboard_time": 1762940479,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 84310,
+      "num": 125341,
+      "word": "朕的凤凰台上你醒了",
+      "onboard_time": 1762941620,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 84184,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1762929501,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81616,
+      "num": 81616,
+      "word": "周报到底谁发明的啊",
+      "onboard_time": 1762943121,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 81519,
@@ -2403,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50978,
+      "num": 240177,
+      "word": "全运会男篮四川夺铜牌",
+      "onboard_time": 1762943121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49001,
       "num": 113167,
       "word": "孙颖莎的榜样效应",
@@ -2491,12 +2603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43360,
+      "num": 227546,
+      "word": "蒙牛儿童奶粉 篡改研究数据",
+      "onboard_time": 1762943240,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43035,
+      "num": 163043,
+      "word": "多部门介入救助穿拖鞋流浪女孩",
+      "onboard_time": 1762941921,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42882,
       "num": 54955,
       "word": "李纯马頔婚后首同框",
       "onboard_time": 1762864761,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42619,
+      "num": 244503,
+      "word": "X300拍到的演唱会舞台巨出片",
+      "onboard_time": 1762941921,
+      "rank": 18,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 42477,
@@ -2595,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31974,
+      "num": 114908,
+      "word": "游客穿带吊牌的衣服拍完照再退",
+      "onboard_time": 1762943421,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -2628,7 +2772,7 @@
     },
     {
       "raw_hot": 27400,
-      "num": 424429,
+      "num": 506089,
       "word": "微观全运会",
       "onboard_time": 1762934480,
       "rank": 2,
@@ -2657,6 +2801,14 @@
       "onboard_time": 1762940541,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20108,
+      "num": 108007,
+      "word": "唐钱婷说自己和自己比",
+      "onboard_time": 1762941921,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19578,
