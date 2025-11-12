@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762975396342,
+  "endTime": 1762976341204,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -15131,20 +15131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15457,
+      "num": 27456,
+      "word": "李雪琴在北京吃东北正宗云南米线",
+      "onboard_time": 1762972515,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15218,
       "num": 28284,
       "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
       "onboard_time": 1762896914,
       "rank": 47,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 15041,
-      "num": 27456,
-      "word": "李雪琴在北京吃东北正宗云南米线",
-      "onboard_time": 1762972515,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 15032,
