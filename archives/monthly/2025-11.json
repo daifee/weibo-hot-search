@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762944419220,
+  "endTime": 1762946663688,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3547,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506305,
+      "num": 506305,
+      "word": "永庆寺 南朝四百八十寺",
+      "onboard_time": 1762942641,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506085,
       "num": 125770,
       "word": "山姆 阿里系",
@@ -4059,6 +4067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472318,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 472173,
       "num": 472173,
       "word": "杜若溪为和严屹宽拍戏放弃女一号",
@@ -4521,14 +4537,6 @@
       "onboard_time": 1762517841,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435527,
-      "num": 475798,
-      "word": "永庆寺 南朝四百八十寺",
-      "onboard_time": 1762942641,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 433690,
@@ -5739,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361015,
+      "num": 1057762,
+      "word": "王鹤棣沈月时隔三年合体好六",
+      "onboard_time": 1762942823,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360524,
       "num": 252281,
       "word": "郑州19岁大二女生校内溺亡",
@@ -6417,14 +6433,6 @@
       "onboard_time": 1762676361,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 328477,
-      "num": 464933,
-      "word": "王鹤棣沈月时隔三年合体好六",
-      "onboard_time": 1762942823,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 327690,
@@ -7307,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291018,
+      "num": 291018,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 290773,
       "num": 290773,
       "word": "第五人格 匹配不了",
@@ -7713,6 +7729,14 @@
       "onboard_time": 1761957080,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276646,
+      "num": 276646,
+      "word": "张家港千年古寺永庆寺起火",
+      "onboard_time": 1762939040,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 275944,
@@ -10875,14 +10899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198220,
-      "num": 446253,
-      "word": "第一批金价下跌卖出的人后悔了",
-      "onboard_time": 1762943121,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198015,
       "num": 221346,
       "word": "华晨宇文昌站预售延期",
@@ -12835,6 +12851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174711,
+      "num": 174711,
+      "word": "惊天魔盗团3居然有中文十级学者",
+      "onboard_time": 1762945582,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174638,
       "num": 174638,
       "word": "千里送饭煲的研究生被大厂争抢",
@@ -14467,6 +14491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159372,
+      "num": 159372,
+      "word": "乔欣今年8月成立新公司",
+      "onboard_time": 1762945222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159144,
       "num": 164866,
       "word": "副院长被指与女同事有私情纪检介入",
@@ -15616,6 +15648,14 @@
       "word": "山姆APP支付跳转黄色网站",
       "onboard_time": 1762424421,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149311,
+      "num": 149311,
+      "word": "西安多部门介入8岁女孩事件",
+      "onboard_time": 1762940720,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -18547,14 +18587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130804,
-      "num": 130804,
-      "word": "西安多部门介入8岁女孩事件",
-      "onboard_time": 1762940720,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130634,
       "num": 127849,
       "word": "GAI的嘉宾是王鹤棣",
@@ -20257,6 +20289,14 @@
       "onboard_time": 1762312040,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122953,
+      "num": 276393,
+      "word": "成毅的滞空兽化步",
+      "onboard_time": 1762946000,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 122946,
@@ -23787,6 +23827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107277,
+      "num": 107277,
+      "word": "doran打卡东方明珠",
+      "onboard_time": 1762945821,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107232,
       "num": 150612,
       "word": "上班不许欺负同事",
@@ -26347,6 +26395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99202,
+      "num": 271957,
+      "word": "大湾鸡跳舞太猛倒地被抢救",
+      "onboard_time": 1762945222,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99198,
       "num": 99198,
       "word": "老二次元现状",
@@ -27099,6 +27155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97310,
+      "num": 97310,
+      "word": "天空这么干净是阿姨在打扫",
+      "onboard_time": 1762945521,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97264,
       "num": 88793,
       "word": "莱巴金娜2比1斯瓦泰克",
@@ -27193,6 +27257,14 @@
       "onboard_time": 1762853782,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 112302,
+      "word": "谁允许彭小苒又穿红衣演虐恋了",
+      "onboard_time": 1762945642,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 97002,
@@ -27505,6 +27577,14 @@
       "onboard_time": 1762232722,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95794,
+      "num": 95794,
+      "word": "弦子吐槽李茂婚前像孔雀婚后踏实",
+      "onboard_time": 1762945041,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 95788,
@@ -31419,6 +31499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85378,
+      "num": 85378,
+      "word": "29岁新手妈妈失踪一周丈夫发声",
+      "onboard_time": 1762946241,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85369,
       "num": 98714,
       "word": "买3万斤滞销白菜农民连谢13年",
@@ -32539,12 +32627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81650,
+      "num": 239893,
+      "word": "蒙牛儿童奶粉 篡改研究数据",
+      "onboard_time": 1762943240,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 81616,
       "num": 81616,
       "word": "周报到底谁发明的啊",
       "onboard_time": 1762943121,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81422,
+      "num": 81422,
+      "word": "他们只是陆续结婚了",
+      "onboard_time": 1762944499,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 81388,
@@ -32641,6 +32745,14 @@
       "onboard_time": 1762151241,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81050,
+      "num": 81050,
+      "word": "当留子回国还没换算汇率",
+      "onboard_time": 1762946361,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 81037,
@@ -32993,6 +33105,14 @@
       "onboard_time": 1762162223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79717,
+      "num": 79717,
+      "word": "昭和米国物语延期",
+      "onboard_time": 1762944321,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 79703,
@@ -34131,6 +34251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75240,
+      "num": 75240,
+      "word": "入睡时间比睡眠时长更重要",
+      "onboard_time": 1762946361,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75237,
       "num": 86608,
       "word": "我国北方地区将出现极光",
@@ -34569,14 +34697,6 @@
       "onboard_time": 1762909519,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73187,
-      "num": 239893,
-      "word": "蒙牛儿童奶粉 篡改研究数据",
-      "onboard_time": 1762943240,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 73175,
@@ -36721,6 +36841,14 @@
       "onboard_time": 1762652959,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60563,
+      "num": 268204,
+      "word": "X300拍到的演唱会舞台巨出片",
+      "onboard_time": 1762941921,
+      "rank": 18,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 60494,
@@ -39089,14 +39217,6 @@
       "onboard_time": 1761952818,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 42619,
-      "num": 268204,
-      "word": "X300拍到的演唱会舞台巨出片",
-      "onboard_time": 1762941921,
-      "rank": 18,
-      "category": "演出,数码"
     },
     {
       "raw_hot": 42616,
@@ -41905,6 +42025,14 @@
       "onboard_time": 1762289114,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18063,
+      "num": 176783,
+      "word": "奉劝搞事早苗不要满嘴喷粪",
+      "onboard_time": 1762946421,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18057,

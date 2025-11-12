@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762944419220,
+  "endTime": 1762946663688,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506305,
+      "num": 506305,
+      "word": "永庆寺 南朝四百八十寺",
+      "onboard_time": 1762942641,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505584,
       "num": 1080893,
       "word": "前DeepSeek研究员罗福莉已加入小米",
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472318,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 468411,
       "num": 202266,
       "word": "邓超晒照为儿子庆生",
@@ -297,14 +313,6 @@
       "onboard_time": 1762874002,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 435527,
-      "num": 475798,
-      "word": "永庆寺 南朝四百八十寺",
-      "onboard_time": 1762942641,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431108,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361015,
+      "num": 1057762,
+      "word": "王鹤棣沈月时隔三年合体好六",
+      "onboard_time": 1762942823,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -449,14 +465,6 @@
       "onboard_time": 1762932380,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 328477,
-      "num": 464933,
-      "word": "王鹤棣沈月时隔三年合体好六",
-      "onboard_time": 1762942823,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 326735,
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291018,
+      "num": 291018,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 288606,
       "num": 131040,
       "word": "向太回应李连杰状态回春",
@@ -585,6 +601,14 @@
       "onboard_time": 1762912340,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276646,
+      "num": 276646,
+      "word": "张家港千年古寺永庆寺起火",
+      "onboard_time": 1762939040,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 275944,
@@ -787,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198220,
-      "num": 446253,
-      "word": "第一批金价下跌卖出的人后悔了",
-      "onboard_time": 1762943121,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 196873,
       "num": 191631,
       "word": "常华森一直想对龚俊贴脸开大",
@@ -913,6 +929,14 @@
       "onboard_time": 1762916600,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174711,
+      "num": 174711,
+      "word": "惊天魔盗团3居然有中文十级学者",
+      "onboard_time": 1762945582,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 174148,
@@ -1043,6 +1067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159372,
+      "num": 159372,
+      "word": "乔欣今年8月成立新公司",
+      "onboard_time": 1762945222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159058,
       "num": 136396,
       "word": "黄金睡眠时间是这4个小时",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1762870583,
       "rank": 13,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 149311,
+      "num": 149311,
+      "word": "西安多部门介入8岁女孩事件",
+      "onboard_time": 1762940720,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148964,
@@ -1251,14 +1291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130804,
-      "num": 130804,
-      "word": "西安多部门介入8岁女孩事件",
-      "onboard_time": 1762940720,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "乒乓球男单前8号种子出局一半",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1762919240,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 122953,
+      "num": 276393,
+      "word": "成毅的滞空兽化步",
+      "onboard_time": 1762946000,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 122899,
@@ -1563,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107277,
+      "num": 107277,
+      "word": "doran打卡东方明珠",
+      "onboard_time": 1762945821,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "警方通报男子殴打92岁母亲",
@@ -1747,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99202,
+      "num": 271957,
+      "word": "大湾鸡跳舞太猛倒地被抢救",
+      "onboard_time": 1762945222,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99198,
       "num": 99198,
       "word": "凶手杀一家五口后家属拉黑被害家属",
@@ -1809,6 +1865,30 @@
       "onboard_time": 1762902017,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97310,
+      "num": 97310,
+      "word": "天空这么干净是阿姨在打扫",
+      "onboard_time": 1762945521,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97025,
+      "num": 112302,
+      "word": "谁允许彭小苒又穿红衣演虐恋了",
+      "onboard_time": 1762945642,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95794,
+      "num": 95794,
+      "word": "弦子吐槽李茂婚前像孔雀婚后踏实",
+      "onboard_time": 1762945041,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 95788,
@@ -2051,6 +2131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85378,
+      "num": 85378,
+      "word": "29岁新手妈妈失踪一周丈夫发声",
+      "onboard_time": 1762946241,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84926,
       "num": 118397,
       "word": "小酒窝最近迷上了拼豆",
@@ -2131,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81650,
+      "num": 239893,
+      "word": "蒙牛儿童奶粉 篡改研究数据",
+      "onboard_time": 1762943240,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 81616,
       "num": 81616,
       "word": "周报到底谁发明的啊",
@@ -2147,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81422,
+      "num": 81422,
+      "word": "他们只是陆续结婚了",
+      "onboard_time": 1762944499,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81204,
       "num": 81204,
       "word": "菲律宾生子逃跑韩男照片被公开",
@@ -2155,12 +2259,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81050,
+      "num": 81050,
+      "word": "当留子回国还没换算汇率",
+      "onboard_time": 1762946361,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80784,
       "num": 95013,
       "word": "鸠山由纪夫讽高市早苗越小的狗越会叫",
       "onboard_time": 1762928420,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79717,
+      "num": 79717,
+      "word": "昭和米国物语延期",
+      "onboard_time": 1762944321,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 79469,
@@ -2251,6 +2371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75240,
+      "num": 75240,
+      "word": "入睡时间比睡眠时长更重要",
+      "onboard_time": 1762946361,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75219,
       "num": 193612,
       "word": "今年双十一首次延长至14日",
@@ -2307,18 +2435,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73187,
-      "num": 239893,
-      "word": "蒙牛儿童奶粉 篡改研究数据",
-      "onboard_time": 1762943240,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 72765,
       "num": 101277,
       "word": "勇士惨败雷霆",
       "onboard_time": 1762922601,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72337,
+      "num": 72337,
+      "word": "全运会",
+      "onboard_time": 1762946601,
       "rank": 49,
       "category": "体育"
     },
@@ -2473,6 +2601,14 @@
       "onboard_time": 1762904298,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60563,
+      "num": 268204,
+      "word": "X300拍到的演唱会舞台巨出片",
+      "onboard_time": 1762941921,
+      "rank": 18,
+      "category": "演出,数码"
     },
     {
       "raw_hot": 59258,
@@ -2675,14 +2811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42619,
-      "num": 268204,
-      "word": "X300拍到的演唱会舞台巨出片",
-      "onboard_time": 1762941921,
-      "rank": 18,
-      "category": "演出,数码"
-    },
-    {
       "raw_hot": 42477,
       "num": 105022,
       "word": "揭秘大湾鸡内胆",
@@ -2865,6 +2993,14 @@
       "onboard_time": 1762883476,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18063,
+      "num": 176783,
+      "word": "奉劝搞事早苗不要满嘴喷粪",
+      "onboard_time": 1762946421,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16889,

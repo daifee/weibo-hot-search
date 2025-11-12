@@ -1,0 +1,410 @@
+{
+  "runTime": 1762946663688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 361015,
+        "num": 1057762,
+        "word": "王鹤棣沈月时隔三年合体好六",
+        "onboard_time": 1762942823,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506305,
+        "num": 506305,
+        "word": "永庆寺 南朝四百八十寺",
+        "onboard_time": 1762942641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24162,
+        "num": 315873,
+        "word": "微观全运会",
+        "onboard_time": 1762934480,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291018,
+        "num": 291018,
+        "word": "小天才灰色产业链曝光",
+        "onboard_time": 1762945159,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 278699,
+        "num": 278699,
+        "word": "央视曝光买卖艺人隐私链条",
+        "onboard_time": 1762936099,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 472318,
+        "num": 277951,
+        "word": "第一批金价下跌卖出的人后悔了",
+        "onboard_time": 1762943121,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276646,
+        "num": 276646,
+        "word": "张家港千年古寺永庆寺起火",
+        "onboard_time": 1762939040,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122953,
+        "num": 276393,
+        "word": "成毅的滞空兽化步",
+        "onboard_time": 1762946000,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113924,
+        "num": 273765,
+        "word": "喜人奇妙夜 爱奇艺优酷",
+        "onboard_time": 1762935440,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99202,
+        "num": 271957,
+        "word": "大湾鸡跳舞太猛倒地被抢救",
+        "onboard_time": 1762945222,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707918,
+        "num": 271313,
+        "word": "离婚证后面有囍字",
+        "onboard_time": 1762933941,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529249,
+        "num": 269281,
+        "word": "江山为聘 拖欠工资",
+        "onboard_time": 1762939399,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419314,
+        "num": 267190,
+        "word": "狗咬人被摔死狗主人上门理论遭反杀",
+        "onboard_time": 1762933100,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414965,
+        "num": 266795,
+        "word": "iPhone可以检测针孔摄像头",
+        "onboard_time": 1762932920,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265612,
+        "num": 265612,
+        "word": "影视飓风Tim相亲社死",
+        "onboard_time": 1762940001,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96256,
+        "num": 258452,
+        "word": "陈梦连场零封晋级8强",
+        "onboard_time": 1762936281,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363714,
+        "num": 258152,
+        "word": "易烊千玺如果拿奖会打破刘烨的纪录",
+        "onboard_time": 1762939100,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252018,
+        "num": 252018,
+        "word": "煎蛋和炸鸡其实是一种东西",
+        "onboard_time": 1762938500,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196578,
+        "num": 196578,
+        "word": "肖战手里拿的是大湾鸡",
+        "onboard_time": 1762936401,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 184491,
+        "num": 184491,
+        "word": "日本人称吃米要用茶碗",
+        "onboard_time": 1762933823,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335511,
+        "num": 183441,
+        "word": "乔欣 现实版的曲筱绡",
+        "onboard_time": 1762927701,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184738,
+        "num": 179655,
+        "word": "辛柏青和李乃文再次现身大孤山",
+        "onboard_time": 1762933459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60563,
+        "num": 177179,
+        "word": "X300拍到的演唱会舞台巨出片",
+        "onboard_time": 1762941921,
+        "rank": 22,
+        "category": "演出,数码"
+      },
+      {
+        "raw_hot": 18063,
+        "num": 176783,
+        "word": "奉劝搞事早苗不要满嘴喷粪",
+        "onboard_time": 1762946421,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "惊天魔盗团3居然有中文十级学者",
+        "onboard_time": 1762945582,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159372,
+        "num": 159372,
+        "word": "乔欣今年8月成立新公司",
+        "onboard_time": 1762945222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149537,
+        "num": 149537,
+        "word": "方圆回应阿爆扮丑",
+        "onboard_time": 1762941023,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149311,
+        "num": 149311,
+        "word": "西安多部门介入8岁女孩事件",
+        "onboard_time": 1762940720,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132722,
+        "num": 132722,
+        "word": "李兰迪疑似退出月都花落",
+        "onboard_time": 1762941739,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 127012,
+        "word": "Milkyway 永久禁赛",
+        "onboard_time": 1762930880,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122295,
+        "num": 122295,
+        "word": "刘俊昊 陈天润下海吗",
+        "onboard_time": 1762929980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97025,
+        "num": 112302,
+        "word": "谁允许彭小苒又穿红衣演虐恋了",
+        "onboard_time": 1762945642,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "告五人只有三个人",
+        "onboard_time": 1762940060,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 107277,
+        "word": "doran打卡东方明珠",
+        "onboard_time": 1762945821,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107142,
+        "num": 107142,
+        "word": "宝宝刚办完百日宴腿上出现一排牙印",
+        "onboard_time": 1762930101,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97310,
+        "num": 97310,
+        "word": "天空这么干净是阿姨在打扫",
+        "onboard_time": 1762945521,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95794,
+        "num": 95794,
+        "word": "弦子吐槽李茂婚前像孔雀婚后踏实",
+        "onboard_time": 1762945041,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85378,
+        "num": 85378,
+        "word": "29岁新手妈妈失踪一周丈夫发声",
+        "onboard_time": 1762946241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84192,
+        "num": 84192,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81650,
+        "num": 81650,
+        "word": "蒙牛儿童奶粉 篡改研究数据",
+        "onboard_time": 1762943240,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 81422,
+        "num": 81422,
+        "word": "他们只是陆续结婚了",
+        "onboard_time": 1762944499,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81050,
+        "num": 81050,
+        "word": "当留子回国还没换算汇率",
+        "onboard_time": 1762946361,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80593,
+        "num": 80593,
+        "word": "等等14岁了",
+        "onboard_time": 1762935022,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79717,
+        "num": 79717,
+        "word": "昭和米国物语延期",
+        "onboard_time": 1762944321,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79640,
+        "num": 79640,
+        "word": "秦俊杰首部央一男主剧",
+        "onboard_time": 1762942880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77846,
+        "num": 77846,
+        "word": "白鹿拍了好多漂亮的图",
+        "onboard_time": 1762939880,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75372,
+        "num": 75372,
+        "word": "幽门螺杆菌或致1200万人患胃癌",
+        "onboard_time": 1762942160,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 75240,
+        "word": "入睡时间比睡眠时长更重要",
+        "onboard_time": 1762946361,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72973,
+        "num": 72973,
+        "word": "爸爸当家科普高铁为何只查小孩身份证",
+        "onboard_time": 1762933222,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72337,
+        "num": 72337,
+        "word": "全运会",
+        "onboard_time": 1762946601,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见西班牙国王费利佩六世#"
+    }
+  }
+}
