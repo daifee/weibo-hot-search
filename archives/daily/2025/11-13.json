@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1762986399590,
+  "endTime": 1762987204637,
   "band_list": [
     {
       "raw_hot": 641544,
@@ -171,12 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89365,
+      "num": 104893,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89011,
       "num": 90810,
       "word": "情侣是一种很诡异的亲密关系",
       "onboard_time": 1762959443,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85355,
+      "num": 90767,
+      "word": "女子借900万给小20岁男模男友",
+      "onboard_time": 1762956982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79602,
@@ -211,20 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73767,
-      "num": 90767,
-      "word": "女子借900万给小20岁男模男友",
-      "onboard_time": 1762956982,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70448,
-      "num": 104893,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 74514,
+      "num": 90201,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 70292,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61698,
-      "num": 90201,
-      "word": "李克勤回应岳父和妻弟断绝关系",
-      "onboard_time": 1762953321,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61461,
       "num": 90168,
       "word": "徐嘉余看见男仰突破比夺冠都高兴",
@@ -329,6 +329,14 @@
       "onboard_time": 1762964360,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50372,
+      "num": 50372,
+      "word": "马龙观看王楚钦比赛",
+      "onboard_time": 1762969516,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 49111,
@@ -395,12 +403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41267,
-      "num": 41267,
-      "word": "马龙观看王楚钦比赛",
-      "onboard_time": 1762969516,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 42060,
+      "num": 72193,
+      "word": "东北一男子因好奇养澳大利亚鸸鹋",
+      "onboard_time": 1762967597,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38271,
+      "num": 36903,
+      "word": "黄景瑜在大孤山被阿姨团围住拍照",
+      "onboard_time": 1762984453,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 38092,
@@ -417,14 +433,6 @@
       "onboard_time": 1762954582,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35424,
-      "num": 72193,
-      "word": "东北一男子因好奇养澳大利亚鸸鹋",
-      "onboard_time": 1762967597,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35276,
@@ -467,7 +475,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25901,
+      "raw_hot": 27797,
+      "num": 35380,
+      "word": "潘展乐曾回应张展硕状态火热",
+      "onboard_time": 1762981272,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26852,
       "num": 35421,
       "word": "当南方人第一次体验东北大澡堂",
       "onboard_time": 1762982415,
@@ -499,20 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23720,
-      "num": 35380,
-      "word": "潘展乐曾回应张展硕状态火热",
-      "onboard_time": 1762981272,
-      "rank": 45,
+      "raw_hot": 23248,
+      "num": 35357,
+      "word": "王楚钦4比3黄镇廷",
+      "onboard_time": 1762956261,
+      "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23697,
-      "num": 35371,
-      "word": "黄景瑜在大孤山被阿姨团围住拍照",
-      "onboard_time": 1762984453,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 22139,
@@ -523,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21166,
-      "num": 35357,
-      "word": "王楚钦4比3黄镇廷",
-      "onboard_time": 1762956261,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20985,
       "num": 27881,
       "word": "网友偶遇陈冠希父亲说父子俩很像",
@@ -539,7 +539,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18097,
+      "raw_hot": 19886,
       "num": 35326,
       "word": "失踪新手妈妈因担心孩子失眠严重",
       "onboard_time": 1762977914,
@@ -547,20 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16563,
-      "num": 35471,
-      "word": "肖战专辑我们一周年",
-      "onboard_time": 1762969995,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 15457,
+      "raw_hot": 19872,
       "num": 35277,
       "word": "李雪琴在北京吃东北正宗云南米线",
       "onboard_time": 1762972515,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17283,
+      "num": 35471,
+      "word": "肖战专辑我们一周年",
+      "onboard_time": 1762969995,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 12014,
