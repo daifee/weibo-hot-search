@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762937436049,
+  "endTime": 1762939839985,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -83,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614113,
+      "num": 1098258,
+      "word": "央视曝光买卖艺人隐私链条",
+      "onboard_time": 1762936099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 599891,
+      "num": 165922,
+      "word": "日本人称吃米要用茶碗",
+      "onboard_time": 1762933823,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 580326,
       "num": 180737,
       "word": "乔欣 现实版的曲筱绡",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 525293,
-      "num": 140624,
+      "num": 151743,
       "word": "辛柏青和李乃文再次现身大孤山",
       "onboard_time": 1762933459,
       "rank": 20,
@@ -267,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 430141,
+      "num": 165434,
+      "word": "苏州一寺庙发生火灾",
+      "onboard_time": 1762939040,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 427761,
       "num": 215795,
       "word": "徐志胜穿了沈羽洁的裙子",
@@ -313,6 +337,14 @@
       "onboard_time": 1762912819,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 368420,
+      "num": 368420,
+      "word": "肖战手里拿的是大湾鸡",
+      "onboard_time": 1762936401,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 365010,
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302716,
+      "num": 148724,
+      "word": "等等14岁了",
+      "onboard_time": 1762935022,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299357,
       "num": 256353,
       "word": "国产剧终于癫成我想看的样子了",
@@ -547,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260429,
-      "num": 148587,
-      "word": "日本人称吃米要用茶碗",
-      "onboard_time": 1762933823,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
@@ -619,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225541,
-      "num": 138383,
-      "word": "等等14岁了",
-      "onboard_time": 1762935022,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 225183,
+      "num": 225183,
+      "word": "陈梦连场零封晋级8强",
+      "onboard_time": 1762936281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 225068,
@@ -651,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220845,
+      "num": 220845,
+      "word": "一家五口遇害案凶手是干亲",
+      "onboard_time": 1762936641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218024,
       "num": 218024,
       "word": "金鸡奖提名",
@@ -673,6 +713,14 @@
       "onboard_time": 1762882875,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 164445,
+      "word": "江山为聘 投资商",
+      "onboard_time": 1762937781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 201270,
@@ -745,6 +793,14 @@
       "onboard_time": 1762903338,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188520,
+      "num": 164112,
+      "word": "再见爱人车崇健说的艺人是谁",
+      "onboard_time": 1762938021,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 187733,
@@ -859,12 +915,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 163598,
-      "num": 163598,
-      "word": "肖战手里拿的是大湾鸡",
-      "onboard_time": 1762936401,
-      "rank": 34,
-      "category": "艺人,体育"
+      "raw_hot": 163775,
+      "num": 163775,
+      "word": "易烊千玺如果拿奖会打破刘烨的纪录",
+      "onboard_time": 1762939100,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 162472,
@@ -1003,22 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140854,
-      "num": 189684,
-      "word": "央视曝光买卖艺人隐私链条",
-      "onboard_time": 1762936099,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 140586,
-      "num": 140586,
-      "word": "陈梦连场零封晋级8强",
-      "onboard_time": 1762936281,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "A股",
@@ -1107,6 +1147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129180,
+      "num": 129180,
+      "word": "江山为聘 拖欠工资",
+      "onboard_time": 1762939399,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "乒乓球男单前8号种子出局一半",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1762925602,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123833,
+      "num": 123833,
+      "word": "永庆寺",
+      "onboard_time": 1762939460,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 123346,
@@ -1363,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109421,
+      "num": 105064,
+      "word": "王鹤棣回复董璇小酒窝",
+      "onboard_time": 1762937960,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108577,
       "num": 180621,
       "word": "中国光伏行业协会发声明",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1762931121,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105775,
+      "num": 105775,
+      "word": "煎蛋和炸鸡其实是一种东西",
+      "onboard_time": 1762938500,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 105702,
@@ -1425,6 +1497,22 @@
       "onboard_time": 1762867939,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103659,
+      "num": 103659,
+      "word": "穆祉丞星辰大海活动签到",
+      "onboard_time": 1762939521,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 103638,
+      "num": 125619,
+      "word": "王嘉尔逛巴黎名创",
+      "onboard_time": 1762939100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 103589,
@@ -1667,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91446,
+      "num": 91446,
+      "word": "亲密关系里尺度最大的是",
+      "onboard_time": 1762938440,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90837,
       "num": 90837,
       "word": "AL野辅已经续约",
@@ -1731,12 +1827,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87572,
+      "num": 87572,
+      "word": "谈恋爱互补重要还是同频重要",
+      "onboard_time": 1762938860,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 86980,
+      "num": 86980,
+      "word": "小米首个推理大模型商标通过初审",
+      "onboard_time": 1762938321,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86656,
       "num": 86656,
       "word": "事实证明小狗上班久了也有班味",
       "onboard_time": 1762916059,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86650,
+      "num": 86650,
+      "word": "干洗店店主建议羽绒服别买这些颜色",
+      "onboard_time": 1762939821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86599,
@@ -1779,12 +1899,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83724,
+      "num": 86290,
+      "word": "华为申请齐界商标",
+      "onboard_time": 1762939760,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83194,
       "num": 103930,
       "word": "孙颖莎恭喜四川队",
       "onboard_time": 1762935741,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82943,
+      "num": 86275,
+      "word": "起床做好4件事全天血糖稳稳的",
+      "onboard_time": 1762939640,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82359,
@@ -1881,6 +2017,14 @@
       "onboard_time": 1762878501,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76556,
+      "num": 109215,
+      "word": "邻居偷挖300平地下室之后",
+      "onboard_time": 1762937781,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75531,
@@ -2033,6 +2177,14 @@
       "onboard_time": 1762919721,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66971,
+      "num": 104236,
+      "word": "樊振东暖心签名",
+      "onboard_time": 1762938741,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 65923,
@@ -2355,20 +2507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32642,
+      "num": 105763,
+      "word": "商竣程率队获男团冠军",
+      "onboard_time": 1762937840,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32562,
       "num": 118351,
       "word": "全红婵张家齐贴贴比心",
       "onboard_time": 1762932020,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31264,
-      "num": 126260,
-      "word": "一家五口遇害案凶手是干亲",
-      "onboard_time": 1762936641,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30950,
@@ -2395,6 +2547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 28074,
+      "num": 104844,
+      "word": "遭毒蛇咬伤网红被警方行政拘留8日",
+      "onboard_time": 1762939340,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27400,
       "num": 272999,
       "word": "微观全运会",
@@ -2403,12 +2563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26192,
+      "num": 103943,
+      "word": "男美甲师撞脸成毅生意爆火",
+      "onboard_time": 1762939220,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25286,
       "num": 64764,
       "word": "王一博宣传环保VCR",
       "onboard_time": 1762881856,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22953,
+      "num": 161849,
+      "word": "穿拖鞋捡食8岁女孩将准备上学",
+      "onboard_time": 1762939040,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19578,

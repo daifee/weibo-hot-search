@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 16:50:36
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 17:30:39
 </p>
 </blockquote>
 <p>
@@ -1899,6 +1899,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B9%B0%E5%8D%96%E8%89%BA%E4%BA%BA%E9%9A%90%E7%A7%81%E9%93%BE%E6%9D%A1%23" target="weibo">
+央视曝光买卖艺人隐私链条（热度：614113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%8A%B1170%E4%B8%87%E4%B9%B0%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%B7%91%E5%A9%9A%E8%BD%A6%23" target="weibo">
 小伙花170万买迈巴赫跑婚车（热度：612626）
 </a>
@@ -1961,6 +1967,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%93%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E4%BE%B5%E6%9D%83%23" target="weibo">
 店铺回应被刘嘉玲喊话侵权（热度：602605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A7%B0%E5%90%83%E7%B1%B3%E8%A6%81%E7%94%A8%E8%8C%B6%E7%A2%97%23" target="weibo">
+日本人称吃米要用茶碗（热度：599891）
 </a>
 </li>
 
@@ -3405,6 +3417,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E5%AF%BA%E5%BA%99%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23" target="weibo">
+苏州一寺庙发生火灾（热度：430141）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E6%88%8F%E4%BB%BD%23" target="weibo">
 常华森天地剑心戏份（热度：429845）
 </a>
@@ -4115,6 +4133,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BD%A0%E8%BF%99%E5%8F%A5%E8%AF%9D%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%90%97%23" target="weibo">
 余华你知道你这句话救了多少人吗（热度：371055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%89%8B%E9%87%8C%E6%8B%BF%E7%9A%84%E6%98%AF%E5%A4%A7%E6%B9%BE%E9%B8%A1%23" target="weibo">
+肖战手里拿的是大湾鸡（热度：368420）
 </a>
 </li>
 
@@ -5181,6 +5205,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%AD%8914%E5%B2%81%E4%BA%86%23" target="weibo">
+等等14岁了（热度：302716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B7%B3%E6%B0%B4%E9%80%89%E6%89%8B%E5%B7%AE%E7%82%B9%E6%91%94%E5%87%BA%E6%B0%B4%E6%B1%A0%23" target="weibo">
 全运会跳水选手差点摔出水池（热度：302476）
 </a>
@@ -5981,36 +6011,6 @@ GAI庆功宴王鹤棣送8万红包（热度：271480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%89%A7%E7%BB%84%E4%BA%AE%E7%9B%B8%E6%96%87%E8%8D%A3%E5%A5%96%23" target="weibo">
 藏海传剧组亮相文荣奖（热度：264049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer7%23" target="weibo">
-令人心动的offer7（热度：263917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E7%8F%AD%E5%91%B3%E7%9A%84%E5%B7%A5%E4%BD%8D%E9%95%BF%E8%BF%99%E6%A0%B7%23" target="weibo">
-没有班味的工位长这样（热度：263631）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E5%A5%B3%E5%AD%90%E4%B8%8E%E4%B8%88%E5%A4%AB%E8%B0%88%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%BD%BB%E7%94%9F%23" target="weibo">
-产后抑郁女子与丈夫谈离婚后轻生（热度：263154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%20%E7%88%B1%E5%A5%87%E8%89%BA%E4%BC%98%E9%85%B7%23" target="weibo">
-喜人奇妙夜 爱奇艺优酷（热度：262981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E8%B5%A2%E4%BA%86%23" target="weibo">
-狼队赢了（热度：262298）
 </a>
 </li>
 
