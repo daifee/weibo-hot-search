@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762914005953,
+  "endTime": 1762917534432,
   "band_list": [
     {
       "raw_hot": 1147547,
@@ -19,12 +19,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 582130,
-      "num": 169505,
+      "raw_hot": 773787,
+      "num": 218417,
       "word": "陈天润工作室",
       "onboard_time": 1762912999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 606699,
+      "num": 1097071,
+      "word": "Viper BLG",
+      "onboard_time": 1762914381,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 555611,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439886,
+      "num": 439886,
+      "word": "邢台一家5口被害案家属发声",
+      "onboard_time": 1762912159,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437580,
       "num": 170932,
       "word": "经济学家不建议大家提前还贷",
@@ -81,6 +97,30 @@
       "onboard_time": 1762905140,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 399015,
+      "num": 169315,
+      "word": "王一博代言UGG",
+      "onboard_time": 1762913840,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 389309,
+      "num": 167759,
+      "word": "金价",
+      "onboard_time": 1762912819,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 389257,
+      "num": 389257,
+      "word": "2025爱奇艺尖叫之夜官宣",
+      "onboard_time": 1762915400,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 337675,
@@ -115,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315467,
+      "num": 315467,
+      "word": "凤凰台上官宣定档",
+      "onboard_time": 1762913899,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313877,
       "num": 283814,
       "word": "盛夏芬德拉女主回应火了",
@@ -129,6 +177,22 @@
       "onboard_time": 1762892353,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 304996,
+      "num": 304996,
+      "word": "库里职业生涯首次恶意犯规",
+      "onboard_time": 1762914679,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 302121,
+      "num": 302121,
+      "word": "特朗普亲吻去世盟友柯克的遗孀",
+      "onboard_time": 1762913840,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 288606,
@@ -171,20 +235,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263291,
-      "num": 283824,
-      "word": "邢台一家5口被害案家属发声",
-      "onboard_time": 1762912159,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
       "onboard_time": 1762908981,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 253850,
+      "num": 215795,
+      "word": "徐志胜穿了沈羽洁的裙子",
+      "onboard_time": 1762916419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235455,
+      "num": 215336,
+      "word": "小力士第一",
+      "onboard_time": 1762913899,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 225068,
@@ -200,6 +272,14 @@
       "word": "金鸡奖提名",
       "onboard_time": 1762857501,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 211846,
+      "num": 211846,
+      "word": "这届影帝影后竞争都好激烈",
+      "onboard_time": 1762915579,
+      "rank": 13,
       "category": "电影"
     },
     {
@@ -219,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194994,
+      "num": 167485,
+      "word": "白敬亭真走不出那个圈了",
+      "onboard_time": 1762916779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194607,
       "num": 158284,
       "word": "唐诡王者荣耀联动",
@@ -235,11 +323,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188064,
-      "num": 170010,
-      "word": "凤凰台上官宣定档",
-      "onboard_time": 1762913899,
-      "rank": 17,
+      "raw_hot": 189783,
+      "num": 189783,
+      "word": "唐诡3把观众写进剧里",
+      "onboard_time": 1762917020,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -259,20 +347,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "四川阿坝垮塌红旗桥今年1月才建成",
+      "onboard_time": 1762915099,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182582,
+      "num": 182582,
+      "word": "韩国小朋友第一次见生烤盲鳗",
+      "onboard_time": 1762912699,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 177459,
+      "num": 165665,
+      "word": "敖子逸没有工作室",
+      "onboard_time": 1762916600,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170851,
       "num": 170851,
       "word": "奶皮子酸奶",
       "onboard_time": 1762869801,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169169,
-      "num": 169169,
-      "word": "王一博代言UGG",
-      "onboard_time": 1762913840,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166297,
@@ -323,20 +427,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 154253,
-      "num": 113662,
-      "word": "韩国小朋友第一次见生烤盲鳗",
-      "onboard_time": 1762912699,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 148964,
+      "num": 148964,
+      "word": "王者荣耀",
+      "onboard_time": 1762915701,
+      "rank": 28,
+      "category": "游戏"
     },
     {
-      "raw_hot": 146021,
-      "num": 146021,
-      "word": "金价",
-      "onboard_time": 1762912819,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 143116,
+      "num": 143116,
+      "word": "陈天润疑似离开时代峰峻",
+      "onboard_time": 1762916839,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 136660,
@@ -345,6 +449,14 @@
       "onboard_time": 1762904059,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134831,
+      "num": 134831,
+      "word": "曾黎是在模仿蒙娜丽莎吗",
+      "onboard_time": 1762915640,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134513,
@@ -387,11 +499,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128178,
+      "num": 128178,
+      "word": "弦子李茂两个人就是一个摄影团队",
+      "onboard_time": 1762915940,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125235,
+      "num": 125235,
+      "word": "折月亮",
+      "onboard_time": 1762915459,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124987,
       "num": 124987,
       "word": "iPhone18系列前瞻",
       "onboard_time": 1762910780,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 124763,
+      "num": 148992,
+      "word": "小鹏X9时速150km暴雨爆胎不失控",
+      "onboard_time": 1762916660,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 116641,
+      "num": 116641,
+      "word": "双11手机最终排名出炉",
+      "onboard_time": 1762915758,
+      "rank": 42,
       "category": "数码"
     },
     {
@@ -411,6 +555,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112648,
+      "num": 147084,
+      "word": "库里垫脚",
+      "onboard_time": 1762915099,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111019,
+      "num": 111019,
+      "word": "迪丽热巴卫蓝疯批美人",
+      "onboard_time": 1762915400,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110698,
       "num": 110698,
       "word": "原来没散光是这样的",
@@ -419,12 +579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107076,
-      "num": 107076,
-      "word": "特朗普亲吻去世盟友柯克的遗孀",
-      "onboard_time": 1762913840,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 104461,
+      "num": 130378,
+      "word": "俄罗斯机器人亮相时挥手臂摔倒",
+      "onboard_time": 1762915039,
+      "rank": 34,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 103744,
@@ -435,20 +595,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103589,
+      "num": 118297,
+      "word": "宁静说玩不起就不要玩真人秀",
+      "onboard_time": 1762915758,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103570,
+      "num": 103570,
+      "word": "小米成双11国产手机销量第一",
+      "onboard_time": 1762914739,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 99522,
+      "num": 118100,
+      "word": "全红婵全运会收官发文",
+      "onboard_time": 1762913660,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99018,
       "num": 105462,
       "word": "曝BLG与TES竞拍积分前二",
       "onboard_time": 1762869683,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97732,
-      "num": 97732,
-      "word": "全红婵全运会收官发文",
-      "onboard_time": 1762913660,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 97664,
@@ -499,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92184,
+      "num": 92184,
+      "word": "陈乐和夫人确实已经分开",
+      "onboard_time": 1762917261,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 90339,
       "num": 102603,
       "word": "整治以退役军人名义售卖假冒伪劣",
@@ -539,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86656,
+      "num": 86656,
+      "word": "事实证明小狗上班久了也有班味",
+      "onboard_time": 1762916059,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85500,
       "num": 85500,
       "word": "我不喜欢下一个更好这句话",
@@ -553,6 +745,14 @@
       "onboard_time": 1762855521,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84522,
+      "num": 84522,
+      "word": "紫芒果吃出高级感",
+      "onboard_time": 1762916540,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 82359,
@@ -587,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77600,
+      "num": 122675,
+      "word": "易烊千玺在小小的我里面的演出",
+      "onboard_time": 1762916479,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77213,
       "num": 121278,
       "word": "秋假",
@@ -617,14 +825,6 @@
       "onboard_time": 1762909880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73400,
-      "num": 73400,
-      "word": "小力士第一",
-      "onboard_time": 1762913899,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 73319,
@@ -923,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28473,
+      "num": 120721,
+      "word": "第三者称原配8年后被拘是迟来的正义",
+      "onboard_time": 1762917380,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28386,
       "num": 64852,
       "word": "人民空军成立七十六周年",
@@ -971,20 +1179,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 10689,
+      "num": 430854,
+      "word": "第十五届全运会",
+      "onboard_time": 1762830199,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9871,
       "num": 20472,
       "word": "唐诡值得",
       "onboard_time": 1762890733,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8022,
-      "num": 430854,
-      "word": "第十五届全运会",
-      "onboard_time": 1762830199,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

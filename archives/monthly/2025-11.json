@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762914005953,
+  "endTime": 1762917534432,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1491,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 773787,
+      "num": 218417,
+      "word": "陈天润工作室",
+      "onboard_time": 1762912999,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771778,
       "num": 771778,
       "word": "翁青雅说闯祸了可以看看我",
@@ -2499,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 606699,
+      "num": 1097071,
+      "word": "Viper BLG",
+      "onboard_time": 1762914381,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 606252,
       "num": 384753,
       "word": "苗圃 至今内娱无代餐",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1762336463,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582130,
-      "num": 169505,
-      "word": "陈天润工作室",
-      "onboard_time": 1762912999,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 581199,
@@ -4227,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439886,
+      "num": 439886,
+      "word": "邢台一家5口被害案家属发声",
+      "onboard_time": 1762912159,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439280,
       "num": 227951,
       "word": "男子因彩礼轻生父母索赔20万",
@@ -4771,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399015,
+      "num": 169315,
+      "word": "王一博代言UGG",
+      "onboard_time": 1762913840,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397058,
       "num": 189287,
       "word": "郭宇欣一条裙子穿了三次",
@@ -4896,6 +4920,14 @@
       "word": "梅婷最讨厌的演员行为",
       "onboard_time": 1762524141,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389257,
+      "num": 389257,
+      "word": "2025爱奇艺尖叫之夜官宣",
+      "onboard_time": 1762915400,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -6283,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315467,
+      "num": 315467,
+      "word": "凤凰台上官宣定档",
+      "onboard_time": 1762913899,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314535,
       "num": 314535,
       "word": "闫怀礼 沙僧",
@@ -6507,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304996,
+      "num": 304996,
+      "word": "库里职业生涯首次恶意犯规",
+      "onboard_time": 1762914679,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304882,
       "num": 208704,
       "word": "建议气血不足的人不要留太长的头发",
@@ -6617,6 +6665,14 @@
       "onboard_time": 1762576641,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302121,
+      "num": 302121,
+      "word": "特朗普亲吻去世盟友柯克的遗孀",
+      "onboard_time": 1762913840,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301642,
@@ -7635,14 +7691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 263291,
-      "num": 283824,
-      "word": "邢台一家5口被害案家属发声",
-      "onboard_time": 1762912159,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263154,
       "num": 117973,
       "word": "产后抑郁女子与丈夫谈离婚后轻生",
@@ -7857,6 +7905,14 @@
       "onboard_time": 1762432761,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253850,
+      "num": 215795,
+      "word": "徐志胜穿了沈羽洁的裙子",
+      "onboard_time": 1762916419,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 253796,
@@ -8385,6 +8441,14 @@
       "onboard_time": 1762421541,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235455,
+      "num": 215336,
+      "word": "小力士第一",
+      "onboard_time": 1762913899,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 235351,
@@ -9385,6 +9449,14 @@
       "onboard_time": 1762444821,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211846,
+      "num": 211846,
+      "word": "这届影帝影后竞争都好激烈",
+      "onboard_time": 1762915579,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 211843,
@@ -10523,6 +10595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194994,
+      "num": 167485,
+      "word": "白敬亭真走不出那个圈了",
+      "onboard_time": 1762916779,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194898,
       "num": 233105,
       "word": "王鹤棣资源好牛",
@@ -11027,6 +11107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189783,
+      "num": 189783,
+      "word": "唐诡3把观众写进剧里",
+      "onboard_time": 1762917020,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -11153,14 +11241,6 @@
       "onboard_time": 1762348641,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188064,
-      "num": 170010,
-      "word": "凤凰台上官宣定档",
-      "onboard_time": 1762913899,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 187948,
@@ -11539,6 +11619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183673,
+      "num": 183673,
+      "word": "四川阿坝垮塌红旗桥今年1月才建成",
+      "onboard_time": 1762915099,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183518,
       "num": 183518,
       "word": "真的建议吃饭要带点醋",
@@ -11609,6 +11697,14 @@
       "onboard_time": 1762413081,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182582,
+      "num": 182582,
+      "word": "韩国小朋友第一次见生烤盲鳗",
+      "onboard_time": 1762912699,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 182547,
@@ -11969,6 +12065,14 @@
       "onboard_time": 1762504161,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177459,
+      "num": 165665,
+      "word": "敖子逸没有工作室",
+      "onboard_time": 1762916600,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 177351,
@@ -12673,14 +12777,6 @@
       "onboard_time": 1762615521,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169169,
-      "num": 169169,
-      "word": "王一博代言UGG",
-      "onboard_time": 1762913840,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169152,
@@ -14331,14 +14427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154253,
-      "num": 113662,
-      "word": "韩国小朋友第一次见生烤盲鳗",
-      "onboard_time": 1762912699,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154252,
       "num": 154252,
       "word": "饺子是冬至吃还是立冬吃",
@@ -15699,6 +15787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143116,
+      "num": 143116,
+      "word": "陈天润疑似离开时代峰峻",
+      "onboard_time": 1762916839,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143081,
       "num": 143081,
       "word": "唐怜月开大",
@@ -17003,6 +17099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134831,
+      "num": 134831,
+      "word": "曾黎是在模仿蒙娜丽莎吗",
+      "onboard_time": 1762915640,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134749,
       "num": 134749,
       "word": "逐梦十五运活力粤港澳",
@@ -18235,6 +18339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128178,
+      "num": 128178,
+      "word": "弦子李茂两个人就是一个摄影团队",
+      "onboard_time": 1762915940,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127988,
       "num": 127988,
       "word": "光夜查理苏悬顶之心",
@@ -18921,6 +19033,14 @@
       "onboard_time": 1762224320,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124763,
+      "num": 148992,
+      "word": "小鹏X9时速150km暴雨爆胎不失控",
+      "onboard_time": 1762916660,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 124742,
@@ -20555,6 +20675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116641,
+      "num": 116641,
+      "word": "双11手机最终排名出炉",
+      "onboard_time": 1762915758,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116635,
       "num": 116635,
       "word": "遇到樊振东因为太瘦没认出来",
@@ -21411,6 +21539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112648,
+      "num": 147084,
+      "word": "库里垫脚",
+      "onboard_time": 1762915099,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112601,
       "num": 112601,
       "word": "李在明支持率上升",
@@ -21777,6 +21913,14 @@
       "onboard_time": 1761993023,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111019,
+      "num": 111019,
+      "word": "迪丽热巴卫蓝疯批美人",
+      "onboard_time": 1762915400,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 111015,
@@ -22747,14 +22891,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 107076,
-      "num": 107076,
-      "word": "特朗普亲吻去世盟友柯克的遗孀",
-      "onboard_time": 1762913840,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107069,
       "num": 107069,
       "word": "A股千亿市值游戏大厂摘帽",
@@ -23387,6 +23523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 104461,
+      "num": 130378,
+      "word": "俄罗斯机器人亮相时挥手臂摔倒",
+      "onboard_time": 1762915039,
+      "rank": 34,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 104442,
       "num": 104442,
       "word": "Meta去年靠诈骗广告赚1140亿",
@@ -23713,6 +23857,22 @@
       "onboard_time": 1762687161,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103589,
+      "num": 118297,
+      "word": "宁静说玩不起就不要玩真人秀",
+      "onboard_time": 1762915758,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103570,
+      "num": 103570,
+      "word": "小米成双11国产手机销量第一",
+      "onboard_time": 1762914739,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 103547,
@@ -25003,6 +25163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99522,
+      "num": 118100,
+      "word": "全红婵全运会收官发文",
+      "onboard_time": 1762913660,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99499,
       "num": 119041,
       "word": "钟睒睒771亿美元身家登顶内地富豪榜",
@@ -25625,14 +25793,6 @@
       "onboard_time": 1762786581,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97732,
-      "num": 97732,
-      "word": "全红婵全运会收官发文",
-      "onboard_time": 1762913660,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 97717,
@@ -27473,6 +27633,14 @@
       "onboard_time": 1762420581,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92184,
+      "num": 92184,
+      "word": "陈乐和夫人确实已经分开",
+      "onboard_time": 1762917261,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 92182,
@@ -29435,6 +29603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86656,
+      "num": 86656,
+      "word": "事实证明小狗上班久了也有班味",
+      "onboard_time": 1762916059,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86652,
       "num": 409532,
       "word": "超级月亮高清大图来了",
@@ -30177,6 +30353,14 @@
       "onboard_time": 1762831220,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84522,
+      "num": 84522,
+      "word": "紫芒果吃出高级感",
+      "onboard_time": 1762916540,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 84521,
@@ -31939,6 +32123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77600,
+      "num": 122675,
+      "word": "易烊千玺在小小的我里面的演出",
+      "onboard_time": 1762916479,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77557,
       "num": 77557,
       "word": "男童打针后去世母亲悲痛晕倒入院",
@@ -32881,14 +33073,6 @@
       "onboard_time": 1762909880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73400,
-      "num": 73400,
-      "word": "小力士第一",
-      "onboard_time": 1762913899,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 73329,
@@ -38977,6 +39161,14 @@
       "onboard_time": 1761981740,
       "rank": 41,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 28473,
+      "num": 120721,
+      "word": "第三者称原配8年后被拘是迟来的正义",
+      "onboard_time": 1762917380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28390,
