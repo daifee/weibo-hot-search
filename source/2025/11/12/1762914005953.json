@@ -1,0 +1,410 @@
+{
+  "runTime": 1762914005953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823153,
+        "num": 1131704,
+        "word": "睡眠超9小时也可能有害",
+        "onboard_time": 1762906761,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 487018,
+        "num": 487018,
+        "word": "朱一龙获最佳男主角提名",
+        "onboard_time": 1762909340,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5470,
+        "num": 412839,
+        "word": "第十五届全运会",
+        "onboard_time": 1762830199,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378319,
+        "num": 378319,
+        "word": "湖南卫视接还珠回宫",
+        "onboard_time": 1762904239,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283908,
+        "num": 283908,
+        "word": "雷军回应小米双11战绩",
+        "onboard_time": 1762911320,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263291,
+        "num": 283824,
+        "word": "邢台一家5口被害案家属发声",
+        "onboard_time": 1762912159,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313877,
+        "num": 283814,
+        "word": "盛夏芬德拉女主回应火了",
+        "onboard_time": 1762908322,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283795,
+        "num": 283795,
+        "word": "BLG转会",
+        "onboard_time": 1762912340,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179645,
+        "num": 179645,
+        "word": "家长距离老师只差教师资格证了",
+        "onboard_time": 1762903338,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171325,
+        "num": 171325,
+        "word": "7省份已率先实现生娃基本不花钱",
+        "onboard_time": 1762904059,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130129,
+        "num": 171280,
+        "word": "比特币富婆钱志敏在床上被捕",
+        "onboard_time": 1762910540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286865,
+        "num": 170985,
+        "word": "发现很多东西都在悄悄涨价",
+        "onboard_time": 1762908082,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275411,
+        "num": 170932,
+        "word": "经济学家不建议大家提前还贷",
+        "onboard_time": 1762874002,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253131,
+        "num": 170635,
+        "word": "许我耀眼回应庆功宴卖货",
+        "onboard_time": 1762905501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251854,
+        "num": 170438,
+        "word": "花70万买了个阳台里的一室一厅",
+        "onboard_time": 1762905140,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233172,
+        "num": 170425,
+        "word": "郭宇欣回应一条裙子穿了三次",
+        "onboard_time": 1762905560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 170234,
+        "word": "阿坝大桥垮塌前已发现险情",
+        "onboard_time": 1762892353,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 188064,
+        "num": 170010,
+        "word": "凤凰台上官宣定档",
+        "onboard_time": 1762913899,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183815,
+        "num": 169857,
+        "word": "八仙子",
+        "onboard_time": 1762907901,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32742,
+        "num": 169587,
+        "word": "巴赫盛赞全运会",
+        "onboard_time": 1762913359,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582130,
+        "num": 169505,
+        "word": "陈天润工作室",
+        "onboard_time": 1762912999,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258903,
+        "num": 169200,
+        "word": "树莓复出",
+        "onboard_time": 1762908981,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169169,
+        "num": 169169,
+        "word": "王一博代言UGG",
+        "onboard_time": 1762913840,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 161623,
+        "word": "不要再叫我们阿三了",
+        "onboard_time": 1762902797,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146021,
+        "num": 146021,
+        "word": "金价",
+        "onboard_time": 1762912819,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134363,
+        "num": 134363,
+        "word": "英国海边出现巨型海怪",
+        "onboard_time": 1762867521,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134208,
+        "num": 134208,
+        "word": "自称退役军人用低俗舞蹈吸引打赏",
+        "onboard_time": 1762913299,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128986,
+        "num": 128986,
+        "word": "张颂文救人后悄然离去",
+        "onboard_time": 1762874182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124987,
+        "num": 124987,
+        "word": "iPhone18系列前瞻",
+        "onboard_time": 1762910780,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117436,
+        "num": 117436,
+        "word": "黄金开始大反攻",
+        "onboard_time": 1762906041,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154253,
+        "num": 113662,
+        "word": "韩国小朋友第一次见生烤盲鳗",
+        "onboard_time": 1762912699,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107076,
+        "num": 107076,
+        "word": "特朗普亲吻去世盟友柯克的遗孀",
+        "onboard_time": 1762913840,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98825,
+        "num": 98825,
+        "word": "芒果TV食堂的免费员工餐",
+        "onboard_time": 1762908861,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98534,
+        "num": 98534,
+        "word": "谢娜决定七个一起挂",
+        "onboard_time": 1762904059,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97732,
+        "num": 97732,
+        "word": "全红婵全运会收官发文",
+        "onboard_time": 1762913660,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97664,
+        "num": 97664,
+        "word": "秋冬大衣穿搭公式",
+        "onboard_time": 1762910600,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 95788,
+        "num": 95788,
+        "word": "全运会奖牌上也有大湾鸡",
+        "onboard_time": 1762913959,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91741,
+        "num": 91741,
+        "word": "向太回应李连杰状态回春",
+        "onboard_time": 1762880118,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82359,
+        "num": 82359,
+        "word": "浙江男篮爆冷晋级决赛",
+        "onboard_time": 1762910421,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81720,
+        "num": 81720,
+        "word": "原来没散光是这样的",
+        "onboard_time": 1762870642,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96276,
+        "num": 81136,
+        "word": "暴打九旬老母突破人伦必须严惩",
+        "onboard_time": 1762881736,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78739,
+        "num": 78739,
+        "word": "辞职在家全职照顾手机",
+        "onboard_time": 1762908380,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77995,
+        "num": 77995,
+        "word": "全红婵为撤场工人师傅签名",
+        "onboard_time": 1762906400,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74995,
+        "num": 74995,
+        "word": "我不喜欢下一个更好这句话",
+        "onboard_time": 1762907301,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67578,
+        "num": 74116,
+        "word": "唐朝诡事录 成佛寺的哭声",
+        "onboard_time": 1762882156,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73821,
+        "num": 73821,
+        "word": "出生只有3条腿的小狗逆袭成警犬",
+        "onboard_time": 1762911919,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73400,
+        "num": 73400,
+        "word": "小力士第一",
+        "onboard_time": 1762913899,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72216,
+        "num": 72216,
+        "word": "跳水三小只大赛最后一次合体",
+        "onboard_time": 1762911320,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71976,
+        "num": 71976,
+        "word": "全世界万寿宫几乎都是江西人的家",
+        "onboard_time": 1762912940,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58662,
+        "num": 71612,
+        "word": "唐诡王者荣耀联动",
+        "onboard_time": 1762875621,
+        "rank": 49,
+        "category": "剧集,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系体育强国梦#"
+    }
+  }
+}
