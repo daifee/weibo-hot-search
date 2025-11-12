@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762952137112,
+  "endTime": 1762953029588,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 926478,
+      "num": 194284,
+      "word": "朱媛媛去世六个月辛柏青状态",
+      "onboard_time": 1762946959,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916354,
       "num": 213051,
       "word": "大张伟欧洲被砸车以为节目组整蛊",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 810544,
-      "num": 1119784,
+      "num": 1125330,
       "word": "小天才灰色产业链曝光",
       "onboard_time": 1762945159,
       "rank": 3,
@@ -561,14 +569,6 @@
       "onboard_time": 1762617441,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 726993,
-      "num": 194284,
-      "word": "朱媛媛去世六个月辛柏青状态",
-      "onboard_time": 1762946959,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 714315,
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633931,
+      "num": 249037,
+      "word": "男子溺亡被同伴运回家摆成睡姿",
+      "onboard_time": 1762949781,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628924,
       "num": 281988,
       "word": "网传张若昀唐嫣新剧延期开机",
@@ -873,6 +881,14 @@
       "onboard_time": 1762933823,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 597001,
+      "num": 597001,
+      "word": "卢凌风 李奈儿",
+      "onboard_time": 1762950323,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 590582,
@@ -995,6 +1011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 565157,
+      "num": 192755,
+      "word": "白鹿庆祝与呵呵十周年",
+      "onboard_time": 1762949781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560962,
       "num": 178833,
       "word": "陈赫晒了清楚版的鹿晗",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1762693521,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559002,
-      "num": 559002,
-      "word": "卢凌风 李奈儿",
-      "onboard_time": 1762950323,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 555432,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1762927220,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 504737,
-      "num": 249037,
-      "word": "男子溺亡被同伴运回家摆成睡姿",
-      "onboard_time": 1762949781,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 504496,
@@ -1491,6 +1499,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 451466,
+      "num": 451466,
+      "word": "无印良品 过度包装",
+      "onboard_time": 1762948341,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447135,
       "num": 247509,
       "word": "民政局回应离婚证后面有囍字",
@@ -1723,6 +1739,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 406647,
+      "num": 406647,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404196,
       "num": 160967,
       "word": "何穗产后身材 像没生过",
@@ -1947,22 +1971,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 370256,
-      "num": 370256,
-      "word": "无印良品 过度包装",
-      "onboard_time": 1762948341,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368750,
-      "num": 192755,
-      "word": "白鹿庆祝与呵呵十周年",
-      "onboard_time": 1762949781,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366258,
       "num": 366258,
       "word": "张家界100人荒野求生仅剩一名女性",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1762848621,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354567,
+      "num": 354567,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 353801,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1762676361,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 327701,
-      "num": 190275,
-      "word": "孙杨因犯规被取消成绩",
-      "onboard_time": 1762950323,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 327690,
@@ -3363,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227556,
+      "num": 167555,
+      "word": "沈佳润把自己照顾得很好",
+      "onboard_time": 1762951703,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226927,
       "num": 226927,
       "word": "河南新乡门诊医保报销被限额",
@@ -3579,6 +3595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212748,
+      "num": 212748,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1762952481,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212747,
       "num": 192134,
       "word": "魏大勋父亲公司被举报遭处罚",
@@ -3641,6 +3665,14 @@
       "onboard_time": 1762655181,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209736,
+      "num": 163290,
+      "word": "张艺兴全包眼线",
+      "onboard_time": 1762952121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 208870,
@@ -4203,6 +4235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189574,
+      "num": 251807,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189290,
       "num": 189290,
       "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
@@ -4216,14 +4256,6 @@
       "word": "爱奇艺2025破万剧",
       "onboard_time": 1762873881,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 188581,
-      "num": 188581,
-      "word": "唐诡3第9集10分15秒",
-      "onboard_time": 1762951522,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -4400,6 +4432,14 @@
       "word": "六公主报道杨紫国色芳华研讨会",
       "onboard_time": 1762762939,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181936,
+      "num": 254152,
+      "word": "唐诡3第3案一集下线3人",
+      "onboard_time": 1762951580,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -4609,14 +4649,6 @@
       "onboard_time": 1762941023,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 173437,
-      "num": 254152,
-      "word": "唐诡3第3案一集下线3人",
-      "onboard_time": 1762951580,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 172981,
@@ -4963,14 +4995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162836,
-      "num": 162836,
-      "word": "沈佳润把自己照顾得很好",
-      "onboard_time": 1762951703,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162782,
       "num": 162782,
       "word": "宋亚轩开口就是高光时刻",
@@ -5211,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157361,
+      "num": 197915,
+      "word": "北京北部出现极光",
+      "onboard_time": 1762951461,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "2025全球总决赛",
@@ -5297,14 +5329,6 @@
       "onboard_time": 1762779081,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155259,
-      "num": 251807,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154828,
@@ -5529,6 +5553,14 @@
       "onboard_time": 1762868361,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148787,
+      "num": 148787,
+      "word": "极光",
+      "onboard_time": 1762952300,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148680,
@@ -6339,6 +6371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131488,
+      "num": 131488,
+      "word": "刘俊昊 祝这位弟弟星途璀璨",
+      "onboard_time": 1762952600,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131361,
       "num": 131361,
       "word": "人就是会反反复复爱上同一个人",
@@ -7003,6 +7043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122242,
+      "num": 122242,
+      "word": "白鹿宋雨琦贴面礼",
+      "onboard_time": 1762952000,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122103,
       "num": 122103,
       "word": "万茜表达力",
@@ -7619,6 +7667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112627,
+      "num": 112627,
+      "word": "樊振东汗失禁体质",
+      "onboard_time": 1762952000,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112613,
       "num": 110041,
       "word": "王鹤棣回复董璇小酒窝",
@@ -7760,6 +7816,14 @@
       "word": "天地剑心王权富贵继任王权家主",
       "onboard_time": 1762660279,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110721,
+      "num": 110721,
+      "word": "林允偏偏你最争气",
+      "onboard_time": 1762952062,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -8179,14 +8243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105675,
-      "num": 105675,
-      "word": "樊振东汗失禁体质",
-      "onboard_time": 1762952000,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "大爷吸烟进电梯被小伙掐灭扔出去",
@@ -8209,14 +8265,6 @@
       "onboard_time": 1762756998,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 105441,
-      "num": 105441,
-      "word": "白鹿宋雨琦贴面礼",
-      "onboard_time": 1762952000,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 105415,
@@ -9059,14 +9107,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 98020,
-      "num": 98020,
-      "word": "林允偏偏你最争气",
-      "onboard_time": 1762952062,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98005,
       "num": 98005,
       "word": "马丁提水",
@@ -9339,6 +9379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95797,
+      "num": 95797,
+      "word": "孙颖莎赛场动态九宫格",
+      "onboard_time": 1762952902,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95794,
       "num": 95794,
       "word": "弦子吐槽李茂婚前像孔雀婚后踏实",
@@ -9537,6 +9585,14 @@
       "onboard_time": 1762903818,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93806,
+      "num": 93806,
+      "word": "人和人之间淡淡的真就挺好",
+      "onboard_time": 1762952481,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 93756,
@@ -9969,6 +10025,14 @@
       "onboard_time": 1762680500,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90001,
+      "num": 90001,
+      "word": "OBGG显示Zika加入WBG",
+      "onboard_time": 1762949422,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 89979,
@@ -10833,14 +10897,6 @@
       "onboard_time": 1762822520,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81254,
-      "num": 197915,
-      "word": "北京北部出现极光",
-      "onboard_time": 1762951461,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81204,
@@ -12427,6 +12483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 58468,
+      "num": 108642,
+      "word": "德州一男一女坠河男子溺水身亡",
+      "onboard_time": 1762952782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -13905,6 +13969,14 @@
       "onboard_time": 1762795875,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29578,
+      "num": 108851,
+      "word": "大学生跑步成App广告金矿",
+      "onboard_time": 1762952423,
+      "rank": 38,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 29322,
