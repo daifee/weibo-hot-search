@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762936562132,
+  "endTime": 1762937436049,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -123,20 +123,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 527440,
+      "num": 188696,
+      "word": "狗咬人被摔死狗主人上门理论遭反杀",
+      "onboard_time": 1762933100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525293,
       "num": 140624,
       "word": "辛柏青和李乃文再次现身大孤山",
       "onboard_time": 1762933459,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516731,
-      "num": 188696,
-      "word": "狗咬人被摔死狗主人上门理论遭反杀",
-      "onboard_time": 1762933100,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505584,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296117,
+      "num": 296117,
+      "word": "爸爸当家科普高铁为何只查小孩身份证",
+      "onboard_time": 1762933222,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294595,
       "num": 294595,
       "word": "BLG管理层力保ELK迫使ON离队",
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271065,
-      "num": 271065,
-      "word": "爸爸当家科普高铁为何只查小孩身份证",
-      "onboard_time": 1762933222,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270471,
       "num": 180702,
       "word": "彭小苒换头像 端水大师",
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262981,
+      "num": 262981,
+      "word": "喜人奇妙夜 爱奇艺优酷",
+      "onboard_time": 1762935440,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261860,
       "num": 199792,
       "word": "每天喝咖啡vs从来不喝咖啡",
@@ -537,6 +545,14 @@
       "onboard_time": 1762930819,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260429,
+      "num": 148587,
+      "word": "日本人称吃米要用茶碗",
+      "onboard_time": 1762933823,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 258903,
@@ -579,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239885,
-      "num": 239885,
-      "word": "喜人奇妙夜 爱奇艺优酷",
-      "onboard_time": 1762935440,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235455,
       "num": 215336,
       "word": "小力士第一",
@@ -608,6 +616,14 @@
       "word": "孙燕姿两年前就预言了AI",
       "onboard_time": 1762921042,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 138383,
+      "word": "等等14岁了",
+      "onboard_time": 1762935022,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -649,14 +665,6 @@
       "onboard_time": 1762912699,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 205347,
-      "num": 138383,
-      "word": "等等14岁了",
-      "onboard_time": 1762935022,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 205295,
@@ -851,6 +859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 163598,
+      "num": 163598,
+      "word": "肖战手里拿的是大湾鸡",
+      "onboard_time": 1762936401,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 162472,
       "num": 136617,
       "word": "林静居然是汉武大帝的卫子夫",
@@ -963,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148587,
-      "num": 148587,
-      "word": "日本人称吃米要用茶碗",
-      "onboard_time": 1762933823,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 146695,
       "num": 146695,
       "word": "杨雨光比拿了爽文剧本还爽",
@@ -993,6 +1001,22 @@
       "onboard_time": 1762926860,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140854,
+      "num": 189684,
+      "word": "央视曝光买卖艺人隐私链条",
+      "onboard_time": 1762936099,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 140586,
+      "num": 140586,
+      "word": "陈梦连场零封晋级8强",
+      "onboard_time": 1762936281,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137926,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118420,
+      "num": 118420,
+      "word": "李煜东 智力不详但心地善良",
+      "onboard_time": 1762936281,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118321,
       "num": 130378,
       "word": "俄罗斯机器人亮相时挥手臂摔倒",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1762929681,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117482,
+      "num": 117482,
+      "word": "肖战上了锦州英语试卷",
+      "onboard_time": 1762937121,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 115132,
@@ -1331,14 +1371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107805,
-      "num": 107805,
-      "word": "李煜东 智力不详但心地善良",
-      "onboard_time": 1762936281,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "警方通报男子殴打92岁母亲",
@@ -1427,12 +1459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102409,
-      "num": 117358,
-      "word": "肖战手里拿的是大湾鸡",
-      "onboard_time": 1762936401,
-      "rank": 34,
-      "category": "艺人,体育"
+      "raw_hot": 102904,
+      "num": 119103,
+      "word": "霸丝三问暗河传官方",
+      "onboard_time": 1762936941,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102545,
+      "num": 103156,
+      "word": "人民咖啡馆改名后人民小馆又来了",
+      "onboard_time": 1762935141,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101652,
@@ -1451,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100544,
+      "num": 100544,
+      "word": "辞家千里又千里 务必争气再争气",
+      "onboard_time": 1762937181,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100539,
       "num": 100539,
       "word": "大湾鸡抢救现场",
       "onboard_time": 1762932020,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100465,
+      "num": 100465,
+      "word": "男子开车叼牙线被处罚",
+      "onboard_time": 1762937121,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99522,
@@ -1507,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98201,
+      "num": 98201,
+      "word": "买得起车还要养得起车",
+      "onboard_time": 1762936941,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 97664,
       "num": 97664,
       "word": "秋冬大衣穿搭公式",
@@ -1521,14 +1585,6 @@
       "onboard_time": 1762902017,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97472,
-      "num": 97472,
-      "word": "陈梦连场零封晋级8强",
-      "onboard_time": 1762936281,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 95788,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1762870583,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94789,
+      "num": 94789,
+      "word": "微信视频通话3大隐藏功能",
+      "onboard_time": 1762936581,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 94205,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1762906400,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88789,
-      "num": 103156,
-      "word": "人民咖啡馆改名后人民小馆又来了",
-      "onboard_time": 1762935141,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88724,
@@ -1825,6 +1881,14 @@
       "onboard_time": 1762878501,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75531,
+      "num": 106399,
+      "word": "唐诡 0个人敢闭上眼睡觉",
+      "onboard_time": 1762936941,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 75366,
@@ -2235,16 +2299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41038,
-      "num": 189684,
-      "word": "央视曝光买卖艺人隐私链条",
-      "onboard_time": 1762936099,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 38960,
-      "num": 103949,
+      "num": 106694,
       "word": "王濛眼睛还是尺",
       "onboard_time": 1762936340,
       "rank": 38,
@@ -2307,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31264,
+      "num": 126260,
+      "word": "一家五口遇害案凶手是干亲",
+      "onboard_time": 1762936641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -2332,7 +2396,7 @@
     },
     {
       "raw_hot": 27400,
-      "num": 244394,
+      "num": 272999,
       "word": "微观全运会",
       "onboard_time": 1762934480,
       "rank": 2,

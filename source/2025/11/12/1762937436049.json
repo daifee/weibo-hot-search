@@ -1,0 +1,410 @@
+{
+  "runTime": 1762937436049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 310594,
+        "num": 1049695,
+        "word": "国台办给赖清德念了两遍赖家祖训",
+        "onboard_time": 1762932380,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296117,
+        "num": 296117,
+        "word": "爸爸当家科普高铁为何只查小孩身份证",
+        "onboard_time": 1762933222,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23350,
+        "num": 272999,
+        "word": "微观全运会",
+        "onboard_time": 1762934480,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262981,
+        "num": 262981,
+        "word": "喜人奇妙夜 爱奇艺优酷",
+        "onboard_time": 1762935440,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172863,
+        "num": 172863,
+        "word": "孙颖莎采访专注盯着记者",
+        "onboard_time": 1762932501,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691076,
+        "num": 171109,
+        "word": "iPhone可以检测针孔摄像头",
+        "onboard_time": 1762932920,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165676,
+        "num": 165676,
+        "word": "前DeepSeek研究员罗福莉已加入小米",
+        "onboard_time": 1762927220,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163598,
+        "num": 163598,
+        "word": "肖战手里拿的是大湾鸡",
+        "onboard_time": 1762936401,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140854,
+        "num": 140854,
+        "word": "央视曝光买卖艺人隐私链条",
+        "onboard_time": 1762936099,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140586,
+        "num": 140586,
+        "word": "陈梦连场零封晋级8强",
+        "onboard_time": 1762936281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1233401,
+        "num": 139135,
+        "word": "离婚证后面有囍字",
+        "onboard_time": 1762933941,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 527440,
+        "num": 137256,
+        "word": "狗咬人被摔死狗主人上门理论遭反杀",
+        "onboard_time": 1762933100,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130578,
+        "num": 130578,
+        "word": "郑钦文退出全运会",
+        "onboard_time": 1762923321,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391953,
+        "num": 130253,
+        "word": "Milkyway 永久禁赛",
+        "onboard_time": 1762930880,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260429,
+        "num": 129412,
+        "word": "日本人称吃米要用茶碗",
+        "onboard_time": 1762933823,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204487,
+        "num": 128920,
+        "word": "曾中1200w彩票幸运儿钱被骗光",
+        "onboard_time": 1762924879,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188662,
+        "num": 128605,
+        "word": "宝宝刚办完百日宴腿上出现一排牙印",
+        "onboard_time": 1762930101,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187408,
+        "num": 127922,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116329,
+        "num": 127178,
+        "word": "常华森一直想对龚俊贴脸开大",
+        "onboard_time": 1762935621,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31264,
+        "num": 126260,
+        "word": "一家五口遇害案凶手是干亲",
+        "onboard_time": 1762936641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504623,
+        "num": 125950,
+        "word": "辛柏青和李乃文再次现身大孤山",
+        "onboard_time": 1762933459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497792,
+        "num": 124896,
+        "word": "乔欣 现实版的曲筱绡",
+        "onboard_time": 1762927701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236285,
+        "num": 124829,
+        "word": "刘俊昊 陈天润下海吗",
+        "onboard_time": 1762929980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 123656,
+        "word": "杨紫看着满屏张一山 吆京少",
+        "onboard_time": 1762930819,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225541,
+        "num": 123551,
+        "word": "等等14岁了",
+        "onboard_time": 1762935022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151813,
+        "num": 122501,
+        "word": "黄金睡眠时间是这4个小时",
+        "onboard_time": 1762933159,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310750,
+        "num": 121746,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 121671,
+        "word": "李在明遭死亡威胁",
+        "onboard_time": 1762934840,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120088,
+        "num": 120088,
+        "word": "每天喝咖啡vs从来不喝咖啡",
+        "onboard_time": 1762924580,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102904,
+        "num": 119103,
+        "word": "霸丝三问暗河传官方",
+        "onboard_time": 1762936941,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118420,
+        "num": 118420,
+        "word": "李煜东 智力不详但心地善良",
+        "onboard_time": 1762936281,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117501,
+        "num": 117501,
+        "word": "ally因整容擤不出鼻涕",
+        "onboard_time": 1762923801,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117482,
+        "num": 117482,
+        "word": "肖战上了锦州英语试卷",
+        "onboard_time": 1762937121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 114764,
+        "word": "林静居然是汉武大帝的卫子夫",
+        "onboard_time": 1762934480,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113432,
+        "num": 113432,
+        "word": "20岁在俄失联女留学生已离世",
+        "onboard_time": 1762925302,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113262,
+        "num": 113262,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108273,
+        "num": 108273,
+        "word": "Milkyway 泄露BP",
+        "onboard_time": 1762933701,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107515,
+        "num": 107515,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35257,
+        "num": 106694,
+        "word": "王濛眼睛还是尺",
+        "onboard_time": 1762936340,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75531,
+        "num": 106399,
+        "word": "唐诡 0个人敢闭上眼睡觉",
+        "onboard_time": 1762936941,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106109,
+        "num": 106109,
+        "word": "樊振东赢球后吐槽自己",
+        "onboard_time": 1762932200,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102545,
+        "num": 102545,
+        "word": "人民咖啡馆改名后人民小馆又来了",
+        "onboard_time": 1762935141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102294,
+        "num": 102294,
+        "word": "樊振东回应用反手发球",
+        "onboard_time": 1762935980,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100544,
+        "num": 100544,
+        "word": "辞家千里又千里 务必争气再争气",
+        "onboard_time": 1762937181,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100465,
+        "num": 100465,
+        "word": "男子开车叼牙线被处罚",
+        "onboard_time": 1762937121,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99515,
+        "num": 99515,
+        "word": "光伏",
+        "onboard_time": 1762932200,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98201,
+        "num": 98201,
+        "word": "买得起车还要养得起车",
+        "onboard_time": 1762936941,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75161,
+        "num": 96144,
+        "word": "孙颖莎恭喜四川队",
+        "onboard_time": 1762935741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96040,
+        "num": 96040,
+        "word": "时代峰峻好有商业头脑",
+        "onboard_time": 1762932080,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94789,
+        "num": 94789,
+        "word": "微信视频通话3大隐藏功能",
+        "onboard_time": 1762936581,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见西班牙国王费利佩六世#"
+    }
+  }
+}
