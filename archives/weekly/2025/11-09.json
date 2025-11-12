@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762946663688,
+  "endTime": 1762947541834,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -497,6 +497,14 @@
       "onboard_time": 1762649060,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 748655,
+      "num": 1119784,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 741062,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506508,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 506305,
       "num": 506305,
       "word": "永庆寺 南朝四百八十寺",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1762778841,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 472318,
-      "num": 446253,
-      "word": "第一批金价下跌卖出的人后悔了",
-      "onboard_time": 1762943121,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 468411,
@@ -2555,14 +2563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291018,
-      "num": 291018,
-      "word": "小天才灰色产业链曝光",
-      "onboard_time": 1762945159,
-      "rank": 3,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 290062,
       "num": 276831,
       "word": "多兰 陌生",
@@ -3353,6 +3353,14 @@
       "onboard_time": 1762837221,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 223749,
+      "num": 223749,
+      "word": "乔欣今年8月成立新公司",
+      "onboard_time": 1762945222,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222870,
@@ -4195,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186385,
+      "num": 256090,
+      "word": "张展硕全运会200自冠军",
+      "onboard_time": 1762946720,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186286,
       "num": 186286,
       "word": "时代少年团好六夜红毯",
@@ -4979,14 +4995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159372,
-      "num": 159372,
-      "word": "乔欣今年8月成立新公司",
-      "onboard_time": 1762945222,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159058,
       "num": 136396,
       "word": "黄金睡眠时间是这4个小时",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1762872322,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158712,
+      "num": 271957,
+      "word": "大湾鸡跳舞太猛倒地被抢救",
+      "onboard_time": 1762945222,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 158484,
@@ -5585,6 +5601,14 @@
       "onboard_time": 1762832781,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143196,
+      "num": 276393,
+      "word": "成毅的滞空兽化步",
+      "onboard_time": 1762946000,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 143040,
@@ -6177,6 +6201,14 @@
       "onboard_time": 1762838360,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131559,
+      "num": 131559,
+      "word": "潘展乐全运会200自铜牌",
+      "onboard_time": 1762947201,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 131361,
@@ -6779,14 +6811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122953,
-      "num": 276393,
-      "word": "成毅的滞空兽化步",
-      "onboard_time": 1762946000,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122921,
       "num": 122921,
       "word": "您的快递正在路上吵架",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 119272,
+      "num": 119272,
+      "word": "民政局回应离婚证后面有囍字",
+      "onboard_time": 1762946959,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119261,
@@ -7577,6 +7609,14 @@
       "onboard_time": 1762668440,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110385,
+      "num": 110385,
+      "word": "29岁新手妈妈失踪一周丈夫发声",
+      "onboard_time": 1762946241,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110326,
@@ -8387,6 +8427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102058,
+      "num": 102058,
+      "word": "朱媛媛去世六个月辛柏青状态",
+      "onboard_time": 1762946959,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102022,
       "num": 102022,
       "word": "流浪清融手势舞",
@@ -8747,14 +8795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99202,
-      "num": 271957,
-      "word": "大湾鸡跳舞太猛倒地被抢救",
-      "onboard_time": 1762945222,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99198,
       "num": 99198,
       "word": "凶手杀一家五口后家属拉黑被害家属",
@@ -8841,6 +8881,14 @@
       "onboard_time": 1762750703,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 98005,
+      "num": 98005,
+      "word": "马丁提水",
+      "onboard_time": 1762946781,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 97977,
@@ -9315,6 +9363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93683,
+      "num": 93683,
+      "word": "樊振东撞脸大湾鸡",
+      "onboard_time": 1762947024,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93585,
       "num": 93585,
       "word": "江苏常州路边一辆小米汽车起火",
@@ -9601,6 +9657,14 @@
       "onboard_time": 1762853361,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90927,
+      "num": 90927,
+      "word": "幽门螺杆菌或致1200万人患胃癌",
+      "onboard_time": 1762942160,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90874,
@@ -10283,14 +10347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85378,
-      "num": 85378,
-      "word": "29岁新手妈妈失踪一周丈夫发声",
-      "onboard_time": 1762946241,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85302,
       "num": 85302,
       "word": "宋亚轩爱你爱我演唱会概念预告片",
@@ -10369,14 +10425,6 @@
       "onboard_time": 1762678400,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83660,
-      "num": 83660,
-      "word": "幽门螺杆菌或致1200万人患胃癌",
-      "onboard_time": 1762942160,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83601,
@@ -11099,6 +11147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75138,
+      "num": 75138,
+      "word": "当事猫正在看自己的通缉令",
+      "onboard_time": 1762947260,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75097,
       "num": 203998,
       "word": "钟意 还是AG的时代",
@@ -11121,6 +11177,14 @@
       "onboard_time": 1762923620,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74743,
+      "num": 74743,
+      "word": "尹锡悦曾企图引发朝鲜军事挑衅",
+      "onboard_time": 1762947081,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74709,
@@ -13363,6 +13427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33878,
+      "num": 195863,
+      "word": "奉劝搞事早苗不要满嘴喷粪",
+      "onboard_time": 1762946421,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33455,
       "num": 42255,
       "word": "迅猛龙第一次借钱是为了赔违约金",
@@ -13985,14 +14057,6 @@
       "onboard_time": 1762712174,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18063,
-      "num": 176783,
-      "word": "奉劝搞事早苗不要满嘴喷粪",
-      "onboard_time": 1762946421,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17969,

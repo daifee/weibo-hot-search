@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762946663688,
+  "endTime": 1762947541834,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -73,6 +73,14 @@
       "onboard_time": 1762912999,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 748655,
+      "num": 1119784,
+      "word": "小天才灰色产业链曝光",
+      "onboard_time": 1762945159,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 695056,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506508,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 506305,
       "num": 506305,
       "word": "永庆寺 南朝四百八十寺",
@@ -249,14 +265,6 @@
       "onboard_time": 1762924879,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472318,
-      "num": 446253,
-      "word": "第一批金价下跌卖出的人后悔了",
-      "onboard_time": 1762943121,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 468411,
@@ -555,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 291018,
-      "num": 291018,
-      "word": "小天才灰色产业链曝光",
-      "onboard_time": 1762945159,
-      "rank": 3,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 288606,
       "num": 131040,
       "word": "向太回应李连杰状态回春",
@@ -747,6 +747,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 223749,
+      "num": 223749,
+      "word": "乔欣今年8月成立新公司",
+      "onboard_time": 1762945222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222355,
       "num": 222355,
       "word": "光伏",
@@ -897,6 +905,14 @@
       "onboard_time": 1762874182,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186385,
+      "num": 256090,
+      "word": "张展硕全运会200自冠军",
+      "onboard_time": 1762946720,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 185438,
@@ -1067,14 +1083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159372,
-      "num": 159372,
-      "word": "乔欣今年8月成立新公司",
-      "onboard_time": 1762945222,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159058,
       "num": 136396,
       "word": "黄金睡眠时间是这4个小时",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1762872322,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158712,
+      "num": 271957,
+      "word": "大湾鸡跳舞太猛倒地被抢救",
+      "onboard_time": 1762945222,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 157903,
@@ -1176,6 +1192,14 @@
       "word": "凤凰台上OST",
       "onboard_time": 1762926860,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143196,
+      "num": 276393,
+      "word": "成毅的滞空兽化步",
+      "onboard_time": 1762946000,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1267,12 +1291,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132998,
+      "num": 249165,
+      "word": "全运会",
+      "onboard_time": 1762946601,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132719,
       "num": 114526,
       "word": "女子网购理肤泉护肤品收到3块石头",
       "onboard_time": 1762872322,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131559,
+      "num": 131559,
+      "word": "潘展乐全运会200自铜牌",
+      "onboard_time": 1762947201,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 131361,
@@ -1387,14 +1427,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 122953,
-      "num": 276393,
-      "word": "成毅的滞空兽化步",
-      "onboard_time": 1762946000,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122899,
       "num": 122899,
       "word": "医生建议早餐重点补蛋白",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1762925660,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119272,
+      "num": 119272,
+      "word": "民政局回应离婚证后面有囍字",
+      "onboard_time": 1762946959,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118420,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1762870642,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110385,
+      "num": 110385,
+      "word": "29岁新手妈妈失踪一周丈夫发声",
+      "onboard_time": 1762946241,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110257,
@@ -1731,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102058,
+      "num": 102058,
+      "word": "朱媛媛去世六个月辛柏青状态",
+      "onboard_time": 1762946959,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101681,
       "num": 118010,
       "word": "干洗店店主建议羽绒服别买这些颜色",
@@ -1795,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99202,
-      "num": 271957,
-      "word": "大湾鸡跳舞太猛倒地被抢救",
-      "onboard_time": 1762945222,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99198,
       "num": 99198,
       "word": "凶手杀一家五口后家属拉黑被害家属",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1762936941,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98005,
+      "num": 98005,
+      "word": "马丁提水",
+      "onboard_time": 1762946781,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 97664,
@@ -1939,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93683,
+      "num": 93683,
+      "word": "樊振东撞脸大湾鸡",
+      "onboard_time": 1762947024,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93581,
       "num": 93581,
       "word": "霉霉伴娘团",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1762938440,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90927,
+      "num": 90927,
+      "word": "幽门螺杆菌或致1200万人患胃癌",
+      "onboard_time": 1762942160,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90837,
@@ -2131,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85378,
-      "num": 85378,
-      "word": "29岁新手妈妈失踪一周丈夫发声",
-      "onboard_time": 1762946241,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84926,
       "num": 118397,
       "word": "小酒窝最近迷上了拼豆",
@@ -2169,14 +2233,6 @@
       "onboard_time": 1762940421,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83660,
-      "num": 83660,
-      "word": "幽门螺杆菌或致1200万人患胃癌",
-      "onboard_time": 1762942160,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83194,
@@ -2387,12 +2443,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75138,
+      "num": 75138,
+      "word": "当事猫正在看自己的通缉令",
+      "onboard_time": 1762947260,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74911,
       "num": 95616,
       "word": "又让时代峰峻押中题了",
       "onboard_time": 1762923620,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74743,
+      "num": 74743,
+      "word": "尹锡悦曾企图引发朝鲜军事挑衅",
+      "onboard_time": 1762947081,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74230,
@@ -2439,14 +2511,6 @@
       "num": 101277,
       "word": "勇士惨败雷霆",
       "onboard_time": 1762922601,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72337,
-      "num": 72337,
-      "word": "全运会",
-      "onboard_time": 1762946601,
       "rank": 49,
       "category": "体育"
     },
@@ -2875,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33878,
+      "num": 195863,
+      "word": "奉劝搞事早苗不要满嘴喷粪",
+      "onboard_time": 1762946421,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33082,
       "num": 166715,
       "word": "穿拖鞋捡食8岁女孩将准备上学",
@@ -2993,14 +3065,6 @@
       "onboard_time": 1762883476,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18063,
-      "num": 176783,
-      "word": "奉劝搞事早苗不要满嘴喷粪",
-      "onboard_time": 1762946421,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16889,
