@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1762966306397,
+  "endTime": 1762968372574,
   "band_list": [
     {
       "raw_hot": 641544,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 70292,
-      "num": 101572,
+      "num": 105893,
       "word": "狼队转会",
       "onboard_time": 1762953441,
       "rank": 38,
@@ -265,6 +265,14 @@
       "onboard_time": 1762954041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62146,
+      "num": 90013,
+      "word": "伊能静回应恩利唱情非得已",
+      "onboard_time": 1762965498,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 61698,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46723,
-      "num": 90013,
-      "word": "伊能静回应恩利唱情非得已",
-      "onboard_time": 1762965498,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44123,
       "num": 89813,
       "word": "郑秀妍连续四年为王紫璇庆生",
@@ -417,6 +417,62 @@
       "onboard_time": 1762965857,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32923,
+      "num": 72200,
+      "word": "迈克尔杰克逊女儿已戒毒6年",
+      "onboard_time": 1762967476,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32446,
+      "num": 72198,
+      "word": "反杀狗主人女儿称父亲系自卫",
+      "onboard_time": 1762966876,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29710,
+      "num": 72193,
+      "word": "东北一男子因好奇养澳大利亚鸸鹋",
+      "onboard_time": 1762967597,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24660,
+      "num": 72170,
+      "word": "全运会湖北U20男足金牌",
+      "onboard_time": 1762967237,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24504,
+      "num": 72167,
+      "word": "宁波机场回应女子候机大厅抽电子烟",
+      "onboard_time": 1762968018,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23979,
+      "num": 72154,
+      "word": "王曼昱十五运8强",
+      "onboard_time": 1762967597,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23358,
+      "num": 72152,
+      "word": "林一卢昱晓杀青视频",
+      "onboard_time": 1762968316,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 12014,
