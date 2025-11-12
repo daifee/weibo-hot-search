@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1762965368264,
+  "endTime": 1762966306397,
   "band_list": [
     {
       "raw_hot": 641544,
@@ -17,6 +17,14 @@
       "onboard_time": 1762951522,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369418,
+      "num": 120080,
+      "word": "续面事件老板回应被女顾客起诉",
+      "onboard_time": 1762962800,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337660,
@@ -83,20 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202790,
-      "num": 120080,
-      "word": "续面事件老板回应被女顾客起诉",
-      "onboard_time": 1762962800,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "穆祉丞 星辰大海",
       "onboard_time": 1762953141,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174369,
+      "num": 118024,
+      "word": "南宁地铁站称已对涉事区域进行消杀",
+      "onboard_time": 1762961361,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150123,
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118024,
-      "num": 118024,
-      "word": "南宁地铁站称已对涉事区域进行消杀",
-      "onboard_time": 1762961361,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109241,
       "num": 121665,
       "word": "缅甸亚太新城犯罪集团主犯引渡回国",
@@ -172,46 +172,14 @@
     },
     {
       "raw_hot": 79602,
-      "num": 79602,
+      "num": 90465,
       "word": "王楚钦问黄镇廷怎么一到大赛就兴奋",
       "onboard_time": 1762959862,
       "rank": 23,
       "category": "体育"
     },
     {
-      "raw_hot": 77853,
-      "num": 77853,
-      "word": "时代少年团 花车",
-      "onboard_time": 1762957883,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 76008,
-      "num": 76008,
-      "word": "张博恒全运会男团亚军",
-      "onboard_time": 1762960640,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 73767,
-      "num": 73767,
-      "word": "女子借900万给小20岁男模男友",
-      "onboard_time": 1762956982,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72444,
-      "num": 72444,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1762959443,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 69740,
+      "raw_hot": 78164,
       "num": 105646,
       "word": "唐朝诡事录之长安22.9%",
       "onboard_time": 1762960699,
@@ -219,8 +187,56 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77853,
+      "num": 90894,
+      "word": "时代少年团 花车",
+      "onboard_time": 1762957883,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76054,
+      "num": 105746,
+      "word": "张博恒全运会男团亚军",
+      "onboard_time": 1762960640,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73767,
+      "num": 90767,
+      "word": "女子借900万给小20岁男模男友",
+      "onboard_time": 1762956982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72444,
+      "num": 90810,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70448,
+      "num": 104893,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70292,
+      "num": 101572,
+      "word": "狼队转会",
+      "onboard_time": 1762953441,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69372,
-      "num": 75568,
+      "num": 90622,
       "word": "唐诡金简 河南博物院",
       "onboard_time": 1762956743,
       "rank": 26,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 68890,
-      "num": 68890,
+      "num": 90413,
       "word": "白鹿庆祝与呵呵十周年",
       "onboard_time": 1762949781,
       "rank": 32,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 65410,
-      "num": 65410,
+      "num": 90364,
       "word": "眼镜应该戴戴停停还是长久戴",
       "onboard_time": 1762955122,
       "rank": 33,
@@ -244,23 +260,15 @@
     },
     {
       "raw_hot": 65190,
-      "num": 74961,
+      "num": 89700,
       "word": "敖子逸连发两百个不一样",
       "onboard_time": 1762954041,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 64041,
-      "num": 64041,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61698,
-      "num": 61698,
+      "num": 90201,
       "word": "李克勤回应岳父和妻弟断绝关系",
       "onboard_time": 1762953321,
       "rank": 35,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 61461,
-      "num": 61461,
+      "num": 90168,
       "word": "徐嘉余看见男仰突破比夺冠都高兴",
       "onboard_time": 1762959922,
       "rank": 36,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 61199,
-      "num": 74449,
+      "num": 90715,
       "word": "日本敢介入台海吗",
       "onboard_time": 1762956024,
       "rank": 28,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 60662,
-      "num": 60662,
+      "num": 90301,
       "word": "无印良品 过度包装",
       "onboard_time": 1762948341,
       "rank": 37,
@@ -292,27 +300,27 @@
     },
     {
       "raw_hot": 59779,
-      "num": 73966,
+      "num": 89898,
       "word": "裴喜君情敌",
       "onboard_time": 1762959862,
       "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 58963,
-      "num": 60662,
-      "word": "狼队转会",
-      "onboard_time": 1762953441,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 57291,
-      "num": 60656,
+      "num": 89921,
       "word": "张艺兴全包眼线",
       "onboard_time": 1762952121,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52201,
+      "num": 90576,
+      "word": "六公主镜头下的李柯以韩雨彤",
+      "onboard_time": 1762964360,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 49111,
@@ -323,8 +331,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47464,
+      "num": 90070,
+      "word": "30秒延时看绝美极光",
+      "onboard_time": 1762965138,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47133,
-      "num": 60653,
+      "num": 89631,
       "word": "第一次见反向供暖暖气",
       "onboard_time": 1762963519,
       "rank": 41,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 46977,
-      "num": 60648,
+      "num": 89501,
       "word": "女子沉迷领导力培训后性情大变",
       "onboard_time": 1762958302,
       "rank": 42,
@@ -340,15 +356,31 @@
     },
     {
       "raw_hot": 46809,
-      "num": 60645,
+      "num": 89404,
       "word": "王楚钦给高杨签名",
       "onboard_time": 1762962622,
       "rank": 43,
       "category": "体育"
     },
     {
+      "raw_hot": 46723,
+      "num": 90013,
+      "word": "伊能静回应恩利唱情非得已",
+      "onboard_time": 1762965498,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44123,
+      "num": 89813,
+      "word": "郑秀妍连续四年为王紫璇庆生",
+      "onboard_time": 1762965078,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42130,
-      "num": 60644,
+      "num": 89254,
       "word": "沙溢宋雨琦 塔吉克族礼仪",
       "onboard_time": 1762954161,
       "rank": 44,
@@ -356,43 +388,35 @@
     },
     {
       "raw_hot": 42091,
-      "num": 60639,
+      "num": 89562,
       "word": "广东男篮金牌",
       "onboard_time": 1762953501,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 40870,
-      "num": 60635,
-      "word": "30秒延时看绝美极光",
-      "onboard_time": 1762965138,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40356,
-      "num": 60634,
-      "word": "六公主镜头下的李柯以韩雨彤",
-      "onboard_time": 1762964360,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 38092,
-      "num": 60630,
+      "num": 89157,
       "word": "中国二手衣物在非洲成香饽饽",
       "onboard_time": 1762959622,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37285,
-      "num": 60628,
+      "raw_hot": 37729,
+      "num": 89419,
       "word": "奔跑吧回应路透",
       "onboard_time": 1762954582,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35276,
+      "num": 89286,
+      "word": "武校回应学生扮演全运会大湾鸡走红",
+      "onboard_time": 1762965857,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 12014,

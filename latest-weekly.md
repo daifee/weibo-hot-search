@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/13 00:36:08
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/13 00:51:46
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
+续面事件老板回应被女顾客起诉（热度：369418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C100%E4%BA%BA%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E4%BB%85%E5%89%A9%E4%B8%80%E5%90%8D%E5%A5%B3%E6%80%A7%23" target="weibo">
 张家界100人荒野求生仅剩一名女性（热度：366258）
 </a>
@@ -3009,12 +3015,6 @@ Gumayusi说这是我偶像Uzi亲手给我的（热度：207736）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
-续面事件老板回应被女顾客起诉（热度：202790）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%BF%BD%E6%B1%82%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%23" target="weibo">
 田曦薇不喜欢追求情绪稳定（热度：202654）
 </a>
@@ -3635,6 +3635,12 @@ T1战胜KT（热度：175395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%8C%E9%80%81%E9%A5%AD%E7%85%B2%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F%E8%A2%AB%E5%A4%A7%E5%8E%82%E4%BA%89%E6%8A%A2%23" target="weibo">
 千里送饭煲的研究生被大厂争抢（热度：174638）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E7%AB%99%E7%A7%B0%E5%B7%B2%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%8C%BA%E5%9F%9F%E8%BF%9B%E8%A1%8C%E6%B6%88%E6%9D%80%23" target="weibo">
+南宁地铁站称已对涉事区域进行消杀（热度：174369）
 </a>
 </li>
 
@@ -5777,12 +5783,6 @@ TOP 扫楼（热度：121107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E4%BA%BA%E8%AE%BE%23" target="weibo">
 考公人设（热度：118071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E7%AB%99%E7%A7%B0%E5%B7%B2%E5%AF%B9%E6%B6%89%E4%BA%8B%E5%8C%BA%E5%9F%9F%E8%BF%9B%E8%A1%8C%E6%B6%88%E6%9D%80%23" target="weibo">
-南宁地铁站称已对涉事区域进行消杀（热度：118024）
 </a>
 </li>
 
@@ -10011,6 +10011,12 @@ faker亲签显示器拍卖（热度：55450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%8E%E6%9F%AF%E4%BB%A5%E9%9F%A9%E9%9B%A8%E5%BD%A4%23" target="weibo">
+六公主镜头下的李柯以韩雨彤（热度：52201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%87%837%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
 燕郊爆燃7人被采取刑事强制措施（热度：52101）
 </a>
@@ -10179,6 +10185,12 @@ AI生成野生动物视频威胁动物保护（热度：51762）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2330%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E7%BB%9D%E7%BE%8E%E6%9E%81%E5%85%89%23" target="weibo">
+30秒延时看绝美极光（热度：47464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E4%BD%95%E4%B8%80%E6%88%98%E8%83%9C%E6%A2%81%E9%9D%96%E5%B4%91%E5%90%8E%E7%9B%B4%E6%92%AD%E6%8A%BD%E6%A8%8AA%E7%90%83%E6%9D%BF%23" target="weibo">
 于何一战胜梁靖崑后直播抽樊A球板（热度：47375）
 </a>
@@ -10223,6 +10235,12 @@ AI生成野生动物视频威胁动物保护（热度：51762）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%BB%99%E9%AB%98%E6%9D%A8%E7%AD%BE%E5%90%8D%23" target="weibo">
 王楚钦给高杨签名（热度：46809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%9B%9E%E5%BA%94%E6%81%A9%E5%88%A9%E5%94%B1%E6%83%85%E9%9D%9E%E5%BE%97%E5%B7%B2%23" target="weibo">
+伊能静回应恩利唱情非得已（热度：46723）
 </a>
 </li>
 
@@ -10365,6 +10383,12 @@ Gumayusi趣评oner蒙多（热度：45899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E4%B8%BA%E7%8E%8B%E7%B4%AB%E7%92%87%E5%BA%86%E7%94%9F%23" target="weibo">
+郑秀妍连续四年为王紫璇庆生（热度：44123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%99%BA%E6%90%9C%E8%AF%BB%E6%87%82%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%23" target="weibo">
 用智搜读懂大国重器（热度：43832）
 </a>
@@ -10503,12 +10527,6 @@ Kkoma谈T1三连冠（热度：41736）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2330%E7%A7%92%E5%BB%B6%E6%97%B6%E7%9C%8B%E7%BB%9D%E7%BE%8E%E6%9E%81%E5%85%89%23" target="weibo">
-30秒延时看绝美极光（热度：40870）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2368%E5%B2%81%E6%BD%98%E9%95%BF%E6%B1%9F%E6%BC%94%E7%9F%AD%E5%89%A710%E5%A4%A92%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%23" target="weibo">
 68岁潘长江演短剧10天2亿播放量（热度：40453）
 </a>
@@ -10517,12 +10535,6 @@ Kkoma谈T1三连冠（热度：41736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E5%90%BB%E6%88%8F%23" target="weibo">
 井柏然孙千吻戏（热度：40448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%8E%E6%9F%AF%E4%BB%A5%E9%9F%A9%E9%9B%A8%E5%BD%A4%23" target="weibo">
-六公主镜头下的李柯以韩雨彤（热度：40356）
 </a>
 </li>
 
@@ -10691,6 +10703,12 @@ AG对战狼队（热度：35582）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E4%B8%AA%E7%A9%BA%E6%B2%B9%E6%A1%B6%20%E7%BD%9A%E6%AC%BE5%E4%B8%87%E5%85%83%23" target="weibo">
 3个空油桶 罚款5万元（热度：35335）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E6%89%AE%E6%BC%94%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A4%A7%E6%B9%BE%E9%B8%A1%E8%B5%B0%E7%BA%A2%23" target="weibo">
+武校回应学生扮演全运会大湾鸡走红（热度：35276）
 </a>
 </li>
 

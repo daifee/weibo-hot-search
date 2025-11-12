@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 00:36:08
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 00:51:46
 </p>
 </blockquote>
 <p>
@@ -4293,6 +4293,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
+续面事件老板回应被女顾客起诉（热度：369418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%E4%B8%BB%E6%8C%81%E7%95%8C%E9%A6%96%E4%B8%AA%E6%8B%BF%E4%B8%8B%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%9A%84%E4%BA%BA%23" target="weibo">
 孙乐言主持界首个拿下奥斯卡的人（热度：368101）
 </a>
@@ -6005,12 +6011,6 @@ Faker说Uzi是LPL最佳选手（热度：277726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%23" target="weibo">
 老外眼中的安卓手机（热度：274854）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%82%B2%E5%A3%AE%E8%87%AA%E8%AF%81%23" target="weibo">
-小鹏悲壮自证（热度：274411）
 </a>
 </li>
 
